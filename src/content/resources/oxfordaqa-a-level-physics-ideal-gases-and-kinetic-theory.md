@@ -68,6 +68,17 @@ Volume falls to zero after a further 29.4 / 0.0971 = 303 °C below 20 °C, so ab
 
 This is 3.5% from −273 °C. A short extrapolation magnifies reading errors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--01-kelvin-celsius-scale.webp" width="900" height="1110" alt="A vertical scale from 0 K (absolute zero, -273.15 °C) through 77 K (nitrogen boils, -196 °C) and 273.16 K (triple point of water, 0.01 °C) to 293 K (a 20 °C room). T/K = θ/°C + 273.15, and a rise of 25 K equals a rise of 25 °C because the degrees are the same size." loading="lazy">
+  <figcaption>The kelvin and Celsius degrees are the same size; only the zero points differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--05-absolute-zero.webp" width="900" height="1080" alt="Pressure of a fixed volume of air against Celsius temperature: 100 kPa at 20 °C and 128 kPa at 100 °C, a gradient of 0.35 kPa per °C. Extending the line back to zero pressure gives -266 °C, close to the accepted -273 °C; the long extrapolation magnifies small errors." loading="lazy">
+  <figcaption>Extrapolating a pressure-temperature line back to p = 0 estimates absolute zero.</figcaption>
+</figure>
+
+
 ## The ideal gas equations
 
 An **ideal gas** obeys pV = nRT exactly. Real gases at low pressure and well above their boiling points come close.
@@ -108,11 +119,28 @@ with ΔV the change in volume. On a p–V graph the work done equals the area un
 
 **Worked example 4.** Gas at a constant 1.0 × 10⁵ Pa expands from 2.4 × 10⁻³ m³ to 3.1 × 10⁻³ m³, so the work done is 1.0 × 10⁵ × 0.7 × 10⁻³ = **70 J**. At constant pressure pΔV = nRΔT, so 0.20 mol heated by 50 K does 0.20 × 8.31 × 50 = 83 J.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--08-first-law.webp" width="900" height="1270" alt="Top: a gas absorbs 500 J of thermal energy and expands, doing 200 J of work on its surroundings, so W = -200 J and the internal energy rises by 300 J. Bottom: a piston does 340 J of work on a gas while 120 J leaves by heating, so internal energy rises by 220 J. Waterfall bars show q, W and ΔU. Cambridge only: isothermal ΔU = 0, adiabatic q = 0, isobaric constant pressure, isovolumetric W = 0." loading="lazy">
+  <figcaption>ΔU = q + W, with W the work done on the gas, negative when the gas expands.</figcaption>
+</figure>
+
+
 ## Required practical 9: Boyle's law and Charles's law
 
 **Boyle's law.** Trap air in a sealed syringe connected to a pressure gauge. Change the volume in steps, move slowly, and wait for the gas to return to room temperature before each reading. Plot p against 1/V: a straight line passing through the origin supports pV = constant. Include any tubing volume in V, or the line will miss the origin.
 
 **Charles's law.** Trap dry air in a narrow, uniform capillary tube sealed at one end, with a short liquid index. Immerse the tube in a stirred water bath so the trapped air is fully below the surface. Heat in steps, waiting for the air to reach the bath temperature each time. Measure the air column length l, which is proportional to V. The index moves freely, so the pressure stays atmospheric. Plot l against θ and extrapolate to l = 0 to estimate absolute zero. Put the thermometer close to the tube.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--03-shc-electrical.webp" width="900" height="1290" alt="A lagged metal block of 1.00 kg holds a heater and a thermometer. The heater is connected through an ammeter in series with a voltmeter across it; conventional current flows from the positive terminal. At 12.0 V and 4.20 A (50.4 W) the temperature rises 24.0 K in 420 s, a straight line of gradient 0.0571 K/s, so c = P/(m × gradient) = 882 J/kg/K." loading="lazy">
+  <figcaption>The gradient of a temperature-time graph at constant power gives c = P / (m × gradient).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--04-boyle-law.webp" width="900" height="1200" alt="Two syringes hold the same ten molecules at constant temperature. Halving the volume from 60 to 30 cm3 doubles the pressure from 1.00 to 2.00 x 10^5 Pa because molecules hit the walls twice as often. A graph of p against 1/V for six readings is a straight line through the origin, and pV = 6.0 J every time." loading="lazy">
+  <figcaption>At constant temperature pV is constant, so p against 1/V is a straight line through the origin.</figcaption>
+</figure>
+
 
 ## Brownian motion
 
@@ -143,6 +171,12 @@ Kinetic theory treats a gas as a very large number of identical, tiny molecules 
 
 The gas laws are **empirical**: they summarise experimental observations. Kinetic theory is a **theoretical model**: it starts from assumptions about molecules, predicts the gas laws and explains temperature. Their agreement supports the model.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--07-maxwell-boltzmann.webp" width="900" height="1150" alt="Speed distribution curves for helium at 300 K and 1200 K, computed from the Maxwell-Boltzmann formula. Both start at zero, rise to a peak and have a long tail to high speeds. At 1200 K the peak is lower and further right, with equal area. The r.m.s. speed is 1370 m/s at 300 K and 2740 m/s at 1200 K: four times the kelvin temperature gives twice the r.m.s. speed." loading="lazy">
+  <figcaption>Molecular speeds are spread; a higher temperature shifts and flattens the distribution.</figcaption>
+</figure>
+
+
 ## Deriving pV = ⅓Nm(c_rms)²
 
 Consider a cube of side l holding N molecules of mass m. One molecule has velocity component c_x towards a wall perpendicular to the x-axis.
@@ -172,6 +206,12 @@ c_rms = **508 m s⁻¹**.
 
 T = pV / Nk = 6000 / (1.5 × 10²⁴ × 1.38 × 10⁻²³) = **290 K**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--06-kinetic-pressure.webp" width="900" height="1222" alt="A molecule rebounds elastically from the wall of a cube of side L, changing momentum by 2mv_x. The time between hits on that wall is 2L/v_x, so the force is mv_x²/L. For N molecules F = (Nm/L)&lt;v_x²&gt;; random motion gives &lt;c²&gt; = 3&lt;v_x²&gt;; dividing by area L² gives pV = 1/3 Nm&lt;c²&gt;. Comparing with pV = NkT gives 1/2 m&lt;c²&gt; = 3/2 kT. For nitrogen at 300 K the r.m.s. speed is 517 m/s." loading="lazy">
+  <figcaption>Pressure arises from the momentum change of molecules rebounding from the walls.</figcaption>
+</figure>
+
+
 ## Molecular kinetic energy and internal energy
 
 Equate pV = ⅓Nm(c_rms)² with pV = NkT. Cancelling N gives ⅓m(c_rms)² = kT, so
@@ -189,6 +229,12 @@ Kinetic energy = 3kT/2 = 1.5 × 1.38 × 10⁻²³ × 450 = **9.32 × 10⁻²¹ J
 With m = 0.0200 / 6.02 × 10²³ = 3.32 × 10⁻²⁶ kg, c_rms = √(2 × 9.315 × 10⁻²¹ / 3.32 × 10⁻²⁶) = **7.49 × 10² m s⁻¹**.
 
 For 2.0 mol at 350 K, U = 1.5 × 2.0 × 8.31 × 350 = 8.7 × 10³ J. Because c_rms varies as √(T/M), a fourfold rise in T doubles c_rms, and at one temperature the lighter molecules are quicker.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--02-heating-curve.webp" width="900" height="1210" alt="Temperature-time graph for 0.200 kg of ice at -15 °C heated at 150 W. 6300 J warms the ice to 0 °C, 66 800 J melts it at constant temperature, and 16 800 J warms the water to 20 °C; the total of 89 900 J takes about 600 s. Particle pictures show ice as a lattice, melting as a mixture and water as an irregular close arrangement." loading="lazy">
+  <figcaption>During melting the supplied energy increases potential energy, so the temperature stays constant.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -31,6 +31,12 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 
 Energy goes in to break bonds and comes out when bonds form; the larger of the two decides whether the surroundings warm up or cool down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--01-temperature-change.webp" width="900" height="920" alt="Two beakers with thermometers. Exothermic: arrows leave the beaker and the temperature rises from 20 to 35 degrees C. Endothermic: arrows enter the beaker and the temperature falls from 20 to 8 degrees C." loading="lazy">
+  <figcaption>An exothermic reaction gives energy out and warms the surroundings; an endothermic one takes energy in and cools them.</figcaption>
+</figure>
+
+
 ## Definitions to learn word for word
 
 | Term | Meaning |
@@ -42,6 +48,12 @@ Energy goes in to break bonds and comes out when bonds form; the larger of the t
 | Catalyst | Gives the reaction an alternative route that has a lower activation energy |
 | Reversible reaction | Products can react to re-form the original reactants (⇌) |
 | Bond dissociation energy | Energy needed to break one mole of a given bond |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
 
 ## 3.9.1: which reactions are which
 
@@ -66,6 +78,22 @@ hydrated copper sulfate ⇌ anhydrous copper sulfate + water
 - Heat blue crystals: they turn white and water is given off (energy taken in).
 - Add water to white powder: it turns blue and gets hot (energy given out).
 - The energy transferred is the same size in both directions; only the sign changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change--05-solution-calorimetry-cups.webp" width="900" height="790" alt="Left cup: neutralisation warms 80.0 g by 10.2 C, Q 3.427 kJ over 0.0600 mol gives delta H minus 57.1 kJ/mol. Right cup: KNO3 dissolving cools 50.0 g by 8.3 C, Q 1.743 kJ over 0.0500 mol gives plus 34.9 kJ/mol." loading="lazy">
+  <figcaption>Same method, opposite signs: warming means negative delta H, cooling means positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change--07-everyday-exo-endo.webp" width="900" height="910" alt="A self-heating can (CaO plus water) and a hand warmer release energy and warm up; a sports injury pack with ammonium nitrate takes in energy and goes cold." loading="lazy">
+  <figcaption>Hot and cold packs are everyday exothermic and endothermic reactions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--05-hydrated-anhydrous.webp" width="900" height="970" alt="Copper(II) sulfate: blue hydrated crystals turn white when heated and blue again on adding water. Cobalt(II) chloride: pink hydrated turns blue when heated and pink again with water." loading="lazy">
+  <figcaption>Heating hydrated crystals drives off water; adding water reverses the change.</figcaption>
+</figure>
+
 
 ## 3.9.2 a to c: calorimetry
 
@@ -113,6 +141,12 @@ Q = 100 × 4.2 × 15.0 = 6300 J = 6.30 kJ. Per gram = 6.30 ÷ 0.50 = **12.6 kJ/g
 - Fuel evaporates from the wick before burning.
 - Slow reactions lose more heat before the highest temperature is reached.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change--06-calorimetry-fuels.webp" width="900" height="1010" alt="Spirit burner heating a copper can with 200 g water. Propan-1-ol 0.84 g raises the water 20.5 C: Q = 200 x 4.2 x 20.5 = 17 220 J = 17.2 kJ, 20.5 kJ/g. Bars compare 20.5 kJ/g with butan-1-ol 24.7 kJ/g; per mole 1230 and 1830 kJ/mol." loading="lazy">
+  <figcaption>Q = mc dT uses the mass of water; dividing by fuel burned allows a fair comparison.</figcaption>
+</figure>
+
+
 ## 3.9.2 d and h: energy level diagrams
 
 ```
@@ -132,6 +166,22 @@ Energy                            Energy
 
 **Small worked reminder:** reactants 40 kJ, peak 190 kJ, products 125 kJ.
 Activation energy = 190 − 40 = **150 kJ**. ΔH = 125 − 40 = **+85 kJ**, so endothermic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change--07-energy-level-numbers.webp" width="900" height="880" alt="Energy level diagram to scale: reactants 210 kJ, products 95 kJ, so delta H is -115 kJ (exothermic). Uncatalysed peak 345 kJ gives Ea 135 kJ; catalysed peak 280 kJ gives Ea 70 kJ. The catalyst does not change delta H." loading="lazy">
+  <figcaption>Worked numbers from the lesson: Ea 135 kJ falls to 70 kJ with a catalyst and delta H stays -115 kJ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--02-exothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
+</figure>
+
 
 ## 3.9.2 e to g: bond energies
 
@@ -154,6 +204,22 @@ Activation energy = 190 − 40 = **150 kJ**. ΔH = 125 − 40 = **+85 kJ**, so e
 - Broken: 1077 + (2 × 464) = 2005 kJ
 - Formed: (2 × 805) + 436 = 2046 kJ
 - Energy change = 2005 − 2046 = **−41 kJ/mol**, exothermic
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change--06-bond-energy-bars.webp" width="900" height="985" alt="Burning ammonia: 6186 kJ broken against 7458 kJ formed gives -1272 kJ, exothermic. Decomposing methanol: 2061 kJ broken against 1949 kJ formed gives +112 kJ, endothermic." loading="lazy">
+  <figcaption>Compare energy to break bonds with energy released on forming new ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--04-bond-energy-calculation.webp" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic." loading="lazy">
+  <figcaption>Breaking bonds takes in 678 kJ/mol and making bonds releases 862 kJ/mol, so delta H is -184 kJ/mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--05-bond-energy-ladder.webp" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol." loading="lazy">
+  <figcaption>Up 678 to break bonds, down 862 as bonds form: a net fall of 184 kJ/mol.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

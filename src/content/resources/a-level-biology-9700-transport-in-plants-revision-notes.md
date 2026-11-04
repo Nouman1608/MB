@@ -69,6 +69,12 @@ These notes cover topic 7 of the Cambridge International AS & A Level Biology 97
 | | Plasmodesmata to sieve tube | Route for assimilates into the sieve tube |
 | | Nucleus, dense cytoplasm | Metabolism for the sieve tube element |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--02-xylem-phloem-cells.webp" width="900" height="960" alt="A xylem vessel is a hollow tube of dead cells with thick lignified walls, lost end walls, an empty lumen and pits for sideways water movement. A phloem sieve tube element is living but has no nucleus and a thin cytoplasm lining, with a sieve plate to the next element; a companion cell with a nucleus, dense cytoplasm and many mitochondria is joined to it by plasmodesmata." loading="lazy">
+  <figcaption>Xylem vessels are dead, hollow and lignified; sieve tubes are living but emptied, supported by a companion cell.</figcaption>
+</figure>
+
+
 ## Drawing cells from micrographs (7.1.3)
 
 The practical section of the syllabus sets out what a cell drawing should show:
@@ -106,6 +112,12 @@ Convert to the same unit first: 1 mm = 1000 µm.
 4. Water must enter the symplast of endodermal cells, crossing a membrane.
 5. Water then moves into the xylem, entering through pits in the lignified walls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--03-root-water-pathways.webp" width="900" height="820" alt="A side view of a root from soil to xylem. A root hair cell takes up soil water by osmosis; water potential falls -0.35, -0.50, -0.65, -0.80 MPa across the next cells so water moves inwards. The apoplast route runs through cell walls but is blocked at the endodermis by the Casparian strip of suberin; the symplast route runs through cytoplasm and plasmodesmata and must be used to enter the xylem." loading="lazy">
+  <figcaption>The apoplast pathway is blocked at the endodermis, so water enters the symplast where the plant can control what passes.</figcaption>
+</figure>
+
+
 ## Method in steps: xylem to air
 
 1. Water evaporates from mesophyll cell walls into air spaces.
@@ -114,6 +126,12 @@ Convert to the same unit first: 1 mm = 1000 µm.
 4. Cohesion (hydrogen bonds between water molecules) pulls the whole column up.
 5. Adhesion to cellulose in the walls supports the column.
 6. Lignin stops the vessels collapsing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--05-water-pulled-up.webp" width="900" height="1280" alt="Top: in a leaf, water evaporates from the wet wall of a mesophyll cell into the air space, vapour diffuses out through a stoma, and water moves in from the xylem to replace it, putting the xylem under tension. Bottom: inside a xylem vessel, hydrogen bonds between water molecules (cohesion) keep the column unbroken, hydrogen bonds to cellulose in the wall (adhesion) help it move, and lignin stops the vessel collapsing." loading="lazy">
+  <figcaption>Evaporation from the leaf creates tension; cohesion, adhesion and lignin let the water column be pulled up without breaking.</figcaption>
+</figure>
+
 
 ## Method in steps: phloem loading and mass flow
 
@@ -126,6 +144,17 @@ Convert to the same unit first: 1 mm = 1000 µm.
 7. At the sink, sucrose is removed; water leaves; pressure falls.
 8. Sap moves by mass flow down the hydrostatic pressure gradient.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--08-phloem-loading.webp" width="900" height="950" alt="A proton pump in the companion cell membrane uses ATP to pump hydrogen ions out into the cell wall space, giving high H+ outside and low inside. H+ diffuse back in through a cotransporter protein, bringing sucrose with them into the companion cell. Sucrose then passes into the sieve tube element through plasmodesmata." loading="lazy">
+  <figcaption>Protons are pumped out; sucrose enters the companion cell by cotransport with H+ and moves on through plasmodesmata.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--09-mass-flow.webp" width="900" height="890" alt="At the source, sucrose in the sieve tube lowers water potential so water enters from the xylem by osmosis and hydrostatic pressure rises. At the sink, sucrose is removed, water leaves and pressure is lower. Sap flows by mass flow down the pressure gradient from source to sink; an illustrative graph shows pressure falling along the tube." loading="lazy">
+  <figcaption>Mass flow: water enters at the source, raising pressure; it leaves at the sink; sap moves down the hydrostatic pressure gradient.</figcaption>
+</figure>
+
+
 ## Xerophyte features to annotate
 
 | Feature | Annotation |
@@ -136,12 +165,24 @@ Convert to the same unit first: 1 mm = 1000 µm.
 | Thick waxy cuticle | Less evaporation through the epidermis |
 | Few stomata / small area | Less surface for diffusion of vapour |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--06-xerophyte-leaf.webp" width="900" height="830" alt="An annotated transverse section of a rolled marram grass leaf. A thick waxy cuticle covers the outside, the leaf is rolled around a space of humid air, stomata lie in sunken pits on the inner surface, and hairs there trap still humid air. Each reduces the water vapour potential gradient between leaf and air." loading="lazy">
+  <figcaption>Marram grass reduces water loss by rolling, sunken stomata, hairs and a thick cuticle, all of which cut the vapour gradient.</figcaption>
+</figure>
+
+
 ## Links to water potential (topic 4)
 
 - Water always moves by osmosis from higher (less negative) to lower (more negative) water potential.
 - Root hair cells have a lower water potential than soil water, so water enters them.
 - In phloem, loading sucrose lowers the water potential of the sap, so water enters from nearby xylem and raises hydrostatic pressure.
 - At a sink, removing sucrose raises the water potential of the sap, so water leaves and pressure falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--04-root-pressure.webp" width="900" height="990" alt="Cells next to the xylem use ion pumps (active transport, using ATP) to move mineral ions into the xylem. The sap then has a lower water potential, so water follows from the cortex by osmosis, building a positive pressure that pushes sap up. Evidence: sap oozing from a cut stump and guttation drops at leaf edges at night." loading="lazy">
+  <figcaption>Root pressure: ions pumped into the xylem draw water in by osmosis and push sap upwards (OxfordAQA).</figcaption>
+</figure>
+
 
 ## Phrases that carry the marks
 
@@ -204,6 +245,12 @@ Convert to the same unit first: 1 mm = 1000 µm.
 - Explaining mass flow without "hydrostatic pressure" and without saying where pressure is high and low.
 - Annotating a xerophyte drawing with labels only, no explanation of how water loss is reduced.
 - Forgetting to convert mm to µm before dividing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--01-plan-diagrams.webp" width="900" height="1090" alt="Three plan diagrams of herbaceous dicot sections. Stem: a ring of vascular bundles near the outside, xylem towards the centre and phloem towards the outside in each. Root: a central xylem star with phloem groups between the arms, inside the endodermis. Leaf: midrib bundle with xylem on the upper side and phloem on the lower side, plus small veins." loading="lazy">
+  <figcaption>Plan diagrams show tissue distribution only: xylem inside phloem in stems, a central xylem star in roots, xylem above phloem in leaves.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

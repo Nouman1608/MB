@@ -85,11 +85,23 @@ Put image size and actual size in the same unit before dividing. 1 mm = 1000 µm
 
 **Worked example (light micrograph).** A photograph taken at ×150 shows a cell 48 mm long. Actual length = 48 ÷ 150 = 0.32 mm = **320 µm**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--02-magnification-scale-bar.webp" width="900" height="1010" alt="A micrograph print shows a mitochondrion 46 mm long and a 25 mm scale bar labelled 1 micrometre. Magnification = 25 000 micrometres / 1 micrometre = x25 000, so the actual length is 46 mm / 25 000 = 1.84 micrometres. To draw a 2 micrometre bar at x12 000, draw a 24 mm line." loading="lazy">
+  <figcaption>Find magnification from the scale bar, then actual size, and work backwards to draw a scale bar.</figcaption>
+</figure>
+
+
 ### Making a scale bar
 
 A scale bar is a line on the image that stands for a stated real length. If a magnification is known, bar length on the page = real length × magnification.
 
 **Worked example.** You want a 2 µm bar on an image at ×12 000. Bar length = 2 µm × 12 000 = 24 000 µm = **24 mm**. Draw a 24 mm line labelled "2 µm". A scale bar stays correct if the image is resized.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--01-graticule-calibration.webp" width="900" height="850" alt="Two rulers lined up at both ends: a stage micrometer of 25 divisions of 10 micrometres (250 micrometres) and an eyepiece graticule of 40 divisions. One graticule division is 250 / 40 = 6.25 micrometres, so an onion cell spanning 14 divisions is 87.5 micrometres long. The graticule must be recalibrated for every objective." loading="lazy">
+  <figcaption>Calibrate the graticule against a stage micrometer, then convert divisions to micrometres.</figcaption>
+</figure>
+
 
 ## A2.2.3 Developments in microscopy
 
@@ -100,6 +112,12 @@ A scale bar is a line on the image that stands for a stated real length. If a ma
 **Cryogenic electron microscopy (cryo-EM).** Samples are frozen so quickly that water forms a glass-like state, not ice crystals. No stain or chemical fixing is needed, so molecules keep their natural shape. Many images are combined to work out molecular structure.
 
 **Fluorescent stains and immunofluorescence.** A fluorescent stain absorbs light of one colour and emits another, so the stained structure glows against a dark background. In immunofluorescence a fluorescently labelled antibody binds one specific protein, showing where it is in the cell.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--03-electron-resolution.webp" width="900" height="1010" alt="Visible light has a long wavelength and electrons a much shorter one (not to scale). Two close points imaged with light merge into one blur; with electrons they give two peaks and are resolved. TEM images thin slices and SEM shows 3D surfaces; the cost is dead, stained specimens in a vacuum." loading="lazy">
+  <figcaption>A shorter wavelength gives higher resolution, so electron microscopes show ultrastructure.</figcaption>
+</figure>
+
 
 ## A2.2.4 Structures common to all cells
 
@@ -123,6 +141,12 @@ The guide's model is a Gram-positive bacterium such as *Bacillus* or *Staphyloco
 
 Prokaryote structure varies, and you do not need details of those variations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--04-prokaryote-cell.webp" width="900" height="910" alt="A rod-shaped Gram-positive bacterium: a thick cell wall around a plasma membrane, watery cytoplasm with small 70S ribosomes and a nucleoid region holding a loop of naked DNA. There is no nucleus and no membrane-bound organelle." loading="lazy">
+  <figcaption>A prokaryote has naked DNA in a nucleoid, 70S ribosomes and no membrane-bound organelles.</figcaption>
+</figure>
+
+
 ## A2.2.6 Eukaryote cell structure
 
 Eukaryote cytoplasm is **compartmentalized**: membranes create regions with different conditions and enzymes, so incompatible reactions run at once.
@@ -138,6 +162,12 @@ Eukaryote cytoplasm is **compartmentalized**: membranes create regions with diff
 | Vesicles and vacuoles | Single membrane | Transport, storage |
 | Lysosome | Vesicle of digestive enzymes | Breaks down unwanted material |
 | Microtubules and microfilaments | Protein fibres of the cytoskeleton | Shape, support, movement of organelles and the cell |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--05-eukaryote-cell.webp" width="900" height="940" alt="A eukaryote cell with membrane-bound compartments: a nucleus with a double membrane and pores, rough ER with ribosomes, smooth ER, a Golgi apparatus with vesicles, a lysosome, mitochondria with folded inner membranes, free 80S ribosomes and cytoskeleton fibres." loading="lazy">
+  <figcaption>Membranes divide a eukaryote cell into compartments with different jobs.</figcaption>
+</figure>
+
 
 ## A2.2.7 Processes of life in unicellular organisms
 A single cell must do everything. The eight functions to link to structures are reproduction, growth, metabolism, nutrition, excretion, movement, homeostasis and response to stimuli.
@@ -163,6 +193,12 @@ Metabolism and growth occur in both: chemical reactions run in the cytoplasm, an
 | Centrioles | Present | Generally absent | Absent in flowering plants |
 | Cilia and flagella | Often present | Rare | Absent in flowering plants |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--06-animal-fungus-plant.webp" width="900" height="930" alt="Cell wall: none in animals, chitin in fungi, cellulose in plants. Vacuole: small and temporary in animals, often present in fungi, large and central in plants. Chloroplasts only in plants. Centrioles are present in animals, generally absent in fungi and absent in flowering plants." loading="lazy">
+  <figcaption>Cell wall material, vacuole size, chloroplasts and centrioles separate the three kinds of cell.</figcaption>
+</figure>
+
+
 ## A2.2.9 Atypical cell structure
 
 Number of nuclei is one way to show atypical structure.
@@ -171,6 +207,12 @@ Number of nuclei is one way to show atypical structure.
 - **Skeletal muscle fibres** form when many cells fuse, so one fibre has many nuclei. 
 - **Mature mammalian red blood cells** have no nucleus, leaving more room for haemoglobin, but they cannot make new proteins.
 - **Phloem sieve tube elements** have no nucleus when mature. This leaves an open channel for sap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--07-atypical-cells.webp" width="900" height="910" alt="Four cells with unusual nuclei: an aseptate fungal hypha (many nuclei, one cytoplasm), a skeletal muscle fibre from fused cells (many nuclei), a mature red blood cell (no nucleus, more room for haemoglobin) and a phloem sieve tube element (no nucleus, open channel for sap)." loading="lazy">
+  <figcaption>Hyphae and muscle fibres have many nuclei; mature red blood cells and sieve tube elements have none.</figcaption>
+</figure>
+
 
 ## A2.2.10 Identifying cells and structures in micrographs
 
@@ -217,9 +259,21 @@ The theory says that all eukaryotes descend from a common unicellular ancestor t
 
 Evidence: mitochondria and chloroplasts have **70S ribosomes**, **naked circular DNA**, and can **replicate** inside the cell. The nature of science point is that a theory is strong when it explains many observations and supports predictions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--08-endosymbiosis-hl.webp" width="900" height="1180" alt="A eukaryote ancestor with a nucleus engulfs an aerobic prokaryote, which is not digested and lives on as a mitochondrion. In some lineages a photosynthetic prokaryote is taken in later and becomes a chloroplast. Evidence: both organelles have 70S ribosomes and naked circular DNA, and replicate inside the cell." loading="lazy">
+  <figcaption>Mitochondria and chloroplasts arose from engulfed prokaryotes, shown by their prokaryote-like features.</figcaption>
+</figure>
+
+
 ## HL only: A2.2.13 Cell differentiation
 
 Cells in an organism share the same genes, yet a muscle cell and a nerve cell differ greatly. Differentiation, the process of becoming specialized, depends on **different patterns of gene expression**: some genes are active in a cell type and others are not. These patterns are often triggered by changes in the cell's environment, such as chemical signals from neighbouring cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--09-differentiation-hl.webp" width="900" height="960" alt="Every cell holds the same genes, shown as a row of eight. Chemical signals from neighbouring cells lead to different patterns of gene expression, so a muscle cell and a nerve cell have different genes switched on and off, but neither loses any gene." loading="lazy">
+  <figcaption>Differentiation is a different pattern of gene expression, not loss of genes.</figcaption>
+</figure>
+
 
 ## HL only: A2.2.14 Evolution of multicellularity
 

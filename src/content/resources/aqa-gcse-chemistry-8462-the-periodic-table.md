@@ -76,6 +76,12 @@ Six outer electrons -> Group 6
 
 Position also predicts reactivity: lower in Group 1 means more reactive, lower in Group 7 means less reactive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
+
 ## 4.1.2.2 Development of the periodic table
 
 Before protons, neutrons and electrons were discovered, scientists could only sort elements by their
@@ -118,6 +124,17 @@ Tellurium's most common isotopes are tellurium-128 and tellurium-130, both heavi
 average mass is higher even though it has fewer protons. The same reasoning places argon (39.95) before
 potassium (39.10): almost all argon is argon-40, while most potassium is potassium-39.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--01-pt-mendeleev-gaps.webp" width="900" height="1120" alt="A gap under silicon is filled by germanium. A timeline shows gallium (1875), scandium (1879) and germanium (1886) being found after the 1869 table. Bars compare the predicted relative atomic mass (72) and density (5.5) with germanium measured 72.6 and 5.32, and both a dioxide." loading="lazy">
+  <figcaption>Mendeleev left gaps and his predictions for eka-silicon matched germanium closely.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--02-pt-swap-isotopes.webp" width="900" height="990" alt="Tellurium (52, mean mass 127.6) is placed before iodine (53, 126.9) because tellurium has heavier isotopes (Te-128, Te-130) while iodine has one isotope (I-127). Argon (39.95) comes before potassium (39.10) because almost all argon is argon-40 and most potassium is potassium-39." loading="lazy">
+  <figcaption>Atoms are ordered by atomic number; isotopes explain why mean mass can run the other way.</figcaption>
+</figure>
+
+
 ## 4.1.2.3 Metals and non-metals
 
 The specification defines the two groups by ions:
@@ -147,6 +164,27 @@ metals.
 **Reactions follow electrons.** Sodium (2,8,1) loses one electron to form Na⁺; chlorine (2,8,7) gains one to
 form Cl⁻, giving ionic sodium chloride. For bonding, see the [ionic bonding revision notes](/resources/aqa-gcse-chemistry-ionic-bonding-revision-notes/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--05-pt-halogen-compounds.webp" width="900" height="840" alt="Top: potassium bromide is an ionic compound of K+ and Br- ions, 2K + Br2 to 2KBr. Bottom: hydrogen chloride is a covalent molecule in which H and Cl share one pair of electrons, H2 + Cl2 to 2HCl." loading="lazy">
+  <figcaption>With metals halogens form ionic halides; with non-metals they form covalent molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--01-pt-metal-nonmetal.webp" width="900" height="1050" alt="A block periodic table (periods 1 to 6, groups 1 to 7 and 0) coloured teal for metals on the left and lower, gold for non-metals on the right and upper, grey for borderline elements. Four paired icons compare a metal and a non-metal: conducts or not, shiny or dull, bends or snaps, oxide that is a base or often acidic." loading="lazy">
+  <figcaption>Metals sit left and lower and non-metals right and upper, with different typical properties.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
+
 ## 4.1.2.4 Group 0: the noble gases
 
 The noble gases are **unreactive** and do not easily form molecules. They exist as single atoms, because
@@ -171,6 +209,17 @@ Midpoint of argon and xenon = (-186 + -107) / 2 = -146.5 °C
 
 A sensible prediction is about −150 °C (the measured value is −152 °C). Any value between the two neighbours
 fits the trend; a value outside them does not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--03-pt-noble-gas-bp.webp" width="900" height="760" alt="A graph of boiling point against He, Ne, Ar, Kr and Xe. Known points rise from -269 to -107 degrees Celsius. Krypton is predicted at the midpoint of argon and xenon, -146.5, about -150 degrees Celsius, inside a shaded band between its neighbours." loading="lazy">
+  <figcaption>Boiling points rise down Group 0, so krypton can be predicted from its neighbours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--08-noble-gases.webp" width="900" height="960" alt="Electron shells of He (2), Ne (2,8) and Ar (2,8,8) each have a full outer shell, so they do not gain, lose or share electrons. Noble gas particles are single atoms, whereas chlorine exists as Cl2 molecules." loading="lazy">
+  <figcaption>Noble gases are unreactive and monatomic because their outer shell is full.</figcaption>
+</figure>
+
 
 ## 4.1.2.5 Group 1: the alkali metals
 
@@ -219,6 +268,17 @@ alkaline and turns universal indicator purple.
 It forms rubidium hydroxide and hydrogen, 2Rb + 2H₂O → 2RbOH + H₂, and reacts **more vigorously than
 potassium**, because its outer electron is further from the nucleus and lost more easily.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--04-pt-group1-reactions.webp" width="900" height="1090" alt="Three panels: with oxygen, metals tarnish and burn with red (Li), yellow-orange (Na) and lilac (K) flames; with chlorine they make white solid chlorides; with water they make a hydroxide and hydrogen and the solution is alkaline (purple with universal indicator). An arrow shows more vigorous reaction down the group." loading="lazy">
+  <figcaption>Group 1 metals make oxides, chlorides and hydroxides, more vigorously down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
+
 ## 4.1.2.6 Group 7: the halogens
 
 The halogens are **non-metals** made of **diatomic molecules** (F₂, Cl₂, Br₂, I₂). They react in similar ways
@@ -263,6 +323,27 @@ Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂. Check charges: 2− on each side.
 
 **Predicting.** Astatine, below iodine, should be a dark solid with a higher melting point, less reactive than
 iodine, and unable to displace iodine from potassium iodide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--02-pt-halogen-reactivity-why.webp" width="900" height="740" alt="Chlorine, bromine and iodine drawn with 3, 4 and 5 electron shells and 7 outer electrons each. An incoming electron is pulled towards the nucleus by arrows that get thinner down the group, so it is gained less easily and reactivity falls." loading="lazy">
+  <figcaption>The further the outer shell from the nucleus, the less easily a halogen gains an electron.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--03-pt-halogen-ionic-equation.webp" width="900" height="800" alt="Particles show Cl2 and two Br- ions becoming two Cl- ions and Br2. The full ionic form shows K+ struck through as a spectator, then Cl2 + 2Br- -&gt; 2Cl- + Br2 with charge 2- on each side." loading="lazy">
+  <figcaption>The ionic equation leaves out the unchanged potassium ions and balances in atoms and charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -93,6 +93,17 @@ The syllabus asks for three stages that lead to a specific response:
 
 Binding triggers a response inside the target cell, which is why a hormone carried to every cell affects only some of them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--01-fluid-mosaic.webp" width="900" height="970" alt="Cross-section of a cell surface membrane. Phospholipid heads face the watery outside and inside, with hydrophobic tails forming a core. A channel protein with a water-filled pore, a carrier protein and a glycoprotein span the bilayer, cholesterol sits in both layers, and carbohydrate chains on the glycoprotein and a glycolipid face outwards only." loading="lazy">
+  <figcaption>The bilayer, proteins, cholesterol and outward-facing carbohydrate chains of the fluid mosaic model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--02-cell-signalling.webp" width="900" height="1000" alt="A secreting cell releases triangular ligands, which are carried in the blood. The target cell has a receptor with a triangular binding site, so the ligand binds and the cell responds. A second cell with a square binding site cannot bind the ligand and does not respond." loading="lazy">
+  <figcaption>Only cells with a receptor complementary to the ligand respond.</figcaption>
+</figure>
+
+
 ## 4.2 Movement into and out of cells
 
 ### The six processes
@@ -112,6 +123,17 @@ Binding triggers a response inside the target cell, which is why a hormone carri
 
 In **endocytosis**, the cell surface membrane folds around material and pinches off as a vesicle (phagocytosis for solids, pinocytosis for liquids). In **exocytosis**, vesicles fuse with the membrane and release their contents. Both need ATP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--03-passive-transport.webp" width="900" height="1010" alt="Three panels with a crowded high-concentration side and a sparse low-concentration side. Oxygen crosses the bilayer directly, ions pass through a channel protein pore, and glucose binds to a carrier protein that changes shape. All move down the gradient with no ATP." loading="lazy">
+  <figcaption>Simple diffusion crosses the bilayer; facilitated diffusion uses channel or carrier proteins; none needs ATP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--04-active-bulk-transport.webp" width="900" height="1040" alt="A carrier protein moves glucose from the low to the high concentration side using ATP, which becomes ADP and phosphate. Endocytosis shows the membrane folding in, pinching off and leaving a vesicle inside. Exocytosis shows a vesicle arriving, fusing and releasing its contents outside." loading="lazy">
+  <figcaption>Active transport and bulk transport both need ATP.</figcaption>
+</figure>
+
+
 ### Water potential and osmosis
 
 Water potential (ψ) measures the tendency of water to move out of a solution. Pure water has the highest possible value, **0 kPa**. Dissolving solutes lowers it, so every solution has a **negative** water potential. Water moves by osmosis from a **higher (less negative)** to a **lower (more negative)** water potential across a partially permeable membrane. The syllabus says knowledge of solute potential and pressure potential is **not expected**.
@@ -121,6 +143,12 @@ Water potential (ψ) measures the tendency of water to move out of a solution. P
 | Higher | Water enters; the cell swells and may burst (haemolysis), because it has no wall | Water enters; the protoplast pushes on the cell wall and the cell becomes **turgid**; the wall stops it bursting |
 | Equal | No net movement | No net movement |
 | Lower | Water leaves; the cell shrinks and the membrane crinkles | Water leaves; the protoplast shrinks and pulls away from the wall (**plasmolysis**); the cell is **flaccid** |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--05-water-potential-cells.webp" width="900" height="1070" alt="A red blood cell and a plant cell (psi -700 kPa) in solutions of -300, -700 and -1100 kPa. In the higher-psi solution water enters: the red cell swells and may burst, the plant cell is turgid. With equal psi there is no net movement. In the lower-psi solution water leaves: the red cell shrinks and crinkles and the plant protoplast pulls away from the wall (plasmolysis)." loading="lazy">
+  <figcaption>Water moves to the more negative water potential, so cells swell, stay the same or shrink.</figcaption>
+</figure>
+
 
 ### Surface area to volume ratio
 
@@ -152,6 +180,12 @@ V  = πr²l = π(0.25)(4) = 3.14 cm³
 SA:V = 4.5 : 1
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--06-sa-v-cubes.webp" width="900" height="1000" alt="Cubes of side 0.5, 1, 2 and 4 cm have SA:V of 12, 6, 3 and 1.5 to 1, halving each time the side doubles. A 4 by 1 by 1 cm cuboid has 4.5 to 1, higher than the 3 to 1 of a 2 cm cube." loading="lazy">
+  <figcaption>SA:V falls as size rises, and long thin shapes keep a high ratio.</figcaption>
+</figure>
+
+
 ### Investigating SA:V with agar blocks
 
 Agar containing an indicator is cut into cubes of different sizes and placed in a solution that changes the indicator colour as it diffuses in (for example, agar made with dilute alkali and phenolphthalein turns from pink to colourless as acid diffuses in). You can time how long each block takes to change colour completely, or measure how far the colour change has moved in a fixed time.
@@ -165,6 +199,12 @@ Agar containing an indicator is cut into cubes of different sizes and placed in 
 ```
 
 The smallest cube, with the largest SA:V, has the largest proportion reached by diffusion. Control the temperature, the acid concentration and volume, and the time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--07-agar-cubes.webp" width="900" height="990" alt="Cross-sections of 1, 2 and 3 cm agar cubes drawn to scale, each with a 0.25 cm band reached by acid and a pink unchanged core. The share of volume reached is 87.5, 57.8 and 42.1 percent." loading="lazy">
+  <figcaption>The cube with the largest SA:V has the largest proportion reached by diffusion.</figcaption>
+</figure>
+
 
 ### Visking tubing and plant tissue
 
@@ -188,6 +228,12 @@ Cut cylinders of the same size from one potato, blot, weigh, and leave each in a
 For 0.2 mol dm⁻³: (2.58 − 2.52) / 2.52 × 100 = +2.4 %.
 
 Plot percentage change against concentration. The line crosses 0 % at about **0.25 mol dm⁻³**. At that concentration there is no net water movement, so the tissue has the same water potential as the solution. Using supplied values of −540 kPa for 0.2 mol dm⁻³ and −820 kPa for 0.3 mol dm⁻³, 0.25 mol dm⁻³ lies halfway, so the tissue's water potential is about **−680 kPa**. The two conversion values are supplied data for this example, not figures to learn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--08-potato-water-potential.webp" width="900" height="1040" alt="Graph of percentage change in mass of potato cylinders against sucrose concentration. The line falls from +11.2 to -8.4 percent and crosses zero at about 0.25 mol per dm cubed, where there is no net water movement. Halfway between -540 and -820 kPa gives about -680 kPa." loading="lazy">
+  <figcaption>The zero-change concentration gives the tissue water potential.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -46,6 +46,12 @@ Use the [course hub](/boards/ocr/gcse/mathematics/) for other topics and the [pr
 | Fibonacci | Add the previous two terms | 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 |
 | Powers of 2 | 2ⁿ | 2, 4, 8, 16, 32, 64 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--02-triangular-numbers.webp" width="900" height="1060" alt="Dot triangles show 1, 3, 6 and 10 dots. Two copies of the 10-dot triangle fit together as a 4 by 5 rectangle of 20 dots, so the nth triangular number is n(n + 1) divided by 2." loading="lazy">
+  <figcaption>Two triangular numbers make a rectangle n by n + 1, which is why the formula halves it.</figcaption>
+</figure>
+
+
 ## Spot the type
 
 | Test | Type | What to do |
@@ -54,6 +60,12 @@ Use the [course hub](/boards/ocr/gcse/mathematics/) for other topics and the [pr
 | Divide each term by the one before: constant | Geometric | Multiply by r to continue |
 | Second differences constant | Quadratic | Continue using differences |
 | Each term equals the two before it added together | Fibonacci-type | Add to continue |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--07-fibonacci-type-backwards.webp" width="900" height="770" alt="The terms are a, b, a+b, a+2b, 2a+3b, 3a+5b. With the 4th term 17 and the 6th 44, b = 7 and a = 3, giving 3, 7, 10, 17, 27, 44." loading="lazy">
+  <figcaption>Fibonacci-type sequence found backwards from two known terms.</figcaption>
+</figure>
+
 
 ## Method: term-to-term rule
 
@@ -93,6 +105,12 @@ Shortcut: c = first term − d.
 | 30, 26, 22, 18 | −4 | 30 + 4 = 34 | 34 − 4n |
 | 0.5, 1, 1.5, 2 | 0.5 | 0 | 0.5n |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+
+
 ## Method: geometric progression
 
 ```
@@ -101,6 +119,12 @@ Shortcut: c = first term − d.
 ```
 
 Reminder: 160, 80, 40 has r = 1/2, so the next terms are 20 and 10. A ratio between 0 and 1 makes terms smaller. A ratio above 1 makes them larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--08-geometric-progression.webp" width="900" height="900" alt="Bars for 8, 12, 18, 27, 40.5, 60.75 each multiply the previous term by 3/2, the common ratio found by dividing a term by the one before." loading="lazy">
+  <figcaption>A geometric progression multiplies by the same ratio each time.</figcaption>
+</figure>
+
 
 ## Two more worked reminders
 
@@ -144,6 +168,12 @@ Remainder:           6, 8, 10, 12, 14 = 2n + 4
 nth term = n² + 2n + 4
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
+  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
+</figure>
+
+
 ## Higher tier only: subscript notation
 
 | Notation | Meaning |
@@ -155,6 +185,22 @@ nth term = n² + 2n + 4
 
 To run a rule backwards, undo each step in reverse order. If xₙ₊₁ = 2xₙ − 3 and x₃ = 21, then x₂ = (21 + 3)/2 = 12.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--01-quadratic-two-n-squared.webp" width="900" height="1110" alt="Differences 5, 9, 13, 17 and 4, 4, 4 give a = 2. Subtracting 2n squared from 4, 9, 18, 31, 48 leaves 2, 1, 0, minus 1, minus 2, which is 3 minus n, so the nth term is 2n squared minus n plus 3." loading="lazy">
+  <figcaption>Halve the constant second difference to get a, then fit the leftover linear part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--06-term-to-term-two-step.webp" width="900" height="840" alt="Multiply by 3 then subtract 5 from 4 gives 4, 7, 16, 43. With x1 = 6 and x(n+1) = 2x(n) - 3 the terms are 6, 9, 15, 27, and undoing the steps from x3 = 21 gives x2 = 12 and x1 = 7.5." loading="lazy">
+  <figcaption>Two-step term-to-term rules forwards, in subscript notation, and backwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--10-quadratic-negative-a.webp" width="900" height="870" alt="The terms 20, 29, 34, 35, 32 rise then fall. First differences 9, 5, 1, -3 and constant second difference -4 give a = -2, and the nth term is -2n squared + 15n + 7." loading="lazy">
+  <figcaption>A quadratic sequence with negative a rises then falls.</figcaption>
+</figure>
+
+
 ## Higher tier only: other sequences
 
 | Pattern | Idea | nth term |
@@ -165,6 +211,12 @@ To run a rule backwards, undo each step in reverse order. If xₙ₊₁ = 2xₙ 
 | 2, 6, 18, 54 | Geometric, ratio 3 | 2 × 3ⁿ⁻¹ |
 
 Split a fraction sequence into a numerator sequence and a denominator sequence, and find each one separately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--09-surd-fraction-nth-term.webp" width="900" height="1140" alt="Surd terms rewritten as roots of 3, 6, 9, 12 give the square root of 3n. Fractions 1/3, 2/5, 3/7, 4/9 have tops n and bottoms 2n + 1, so the nth term is n over 2n + 1." loading="lazy">
+  <figcaption>Split surds and fractions into simple patterns to find the nth term.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

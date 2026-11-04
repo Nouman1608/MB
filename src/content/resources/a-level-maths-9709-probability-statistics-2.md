@@ -80,6 +80,12 @@ If X ~ B(n, p) with n large and p small (the syllabus gives n > 50 and np < 5, a
 P(at most 2 faulty) ≈ e^(−3)(1 + 3 + 9/2) = 8.5e^(−3) = 0.423 (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--02-poisson-approx-binomial.webp" width="900" height="890" alt="Paired bars for r = 0 to 9 compare the exact binomial B(200, 0.015) with Po(3); they are almost identical. P(X ≤ 2) is 0.421 exactly and 0.423 by the Poisson. The rule is n &gt; 50 and np &lt; 5." loading="lazy">
+  <figcaption>B(200, 0.015) and Po(3) side by side, showing why Po(np) works for large n and small p.</figcaption>
+</figure>
+
+
 ### Normal approximation to the Poisson
 
 If λ is large (λ > 15, approximately), use X ≈ N(λ, λ) with a continuity correction.
@@ -91,6 +97,22 @@ N(25, 25):  P(X > 30) = P(X ≥ 31) ≈ P(Y > 30.5)
 z = (30.5 − 25)/5 = 1.1
 P = 1 − Φ(1.1) = 1 − 0.8643 = 0.136 (3 s.f.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--01-poisson-events.webp" width="900" height="900" alt="Bar chart of Po(3.2) for r = 0 to 10. The bar at r = 2 is gold with probability 0.209 and the bars from r = 3 upward are dark teal with total 0.620. A dashed line at 3.2 marks the mean, which equals the variance." loading="lazy">
+  <figcaption>The Po(3.2) distribution, with P(X = 2) = 0.209 and P(X ≥ 3) = 0.620 marked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--03-poisson-normal-correction.webp" width="900" height="950" alt="Bars for Po(25) with the curve N(25, 25) drawn over them. Bars from r = 31 are gold and a dashed line at 30.5 shows the continuity-corrected boundary. z = 1.1 gives 1 − Φ(1.1) = 0.136." loading="lazy">
+  <figcaption>Why P(X &gt; 30) becomes P(Y &gt; 30.5) when a Poisson is approximated by a normal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--09-normal-68-95-997.webp" width="900" height="950" alt="Bell curve for N(250, 4²), symmetric about 250 g. Shaded bands show 68% within 1 sd (246 to 254), 95% within 2 sd and 99.7% within 3 sd. The points of inflection at 246 and 254 are marked, and a second row gives z from −3 to 3." loading="lazy">
+  <figcaption>The Normal curve is symmetrical, has inflection points at μ ± σ and holds about 68%, 95% and 99.7% of values within 1, 2 and 3 sd.</figcaption>
+</figure>
+
 
 ## 6.2 Linear combinations of random variables
 
@@ -120,6 +142,12 @@ P(T > 4200): z = (4200 − 4190)/√281 = 0.5965
 P = 1 − Φ(0.5965) = 0.275 (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--04-linear-combinations-variance.webp" width="900" height="940" alt="Two normal curves share mean 4040 g. The tall narrow one is the total of four separate bags (variance 4σ² = 256) and the low wide one is four times one bag (variance 16σ² = 1024)." loading="lazy">
+  <figcaption>Adding four independent bags gives variance 4σ², but scaling one bag by 4 gives 16σ².</figcaption>
+</figure>
+
+
 ## 6.3 Continuous random variables
 
 A probability density function f(x) defined on one interval must satisfy f(x) ≥ 0 and ∫ f(x) dx = 1 over that interval. Probabilities are areas: P(a < X < b) = ∫ from a to b of f(x) dx. For a continuous variable, P(X = a) = 0, so < and ≤ give the same answer. From MF19:
@@ -142,6 +170,12 @@ median: (1/9)(2m² − m³/3) = 1/2  →  m³ − 6m² + 13.5 = 0
 ```
 
 **Infinite domain.** The syllabus allows domains such as x ≥ 2. If f(x) = k/x⁴ for x ≥ 2, then ∫₂^∞ kx⁻⁴ dx = k/24, so k = 24. E(X) = ∫₂^∞ 24x⁻³ dx = 3. The median solves 1 − 8/m³ = 1/2, so m³ = 16 and m = 2.52 (3 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--05-pdf-area-mean-median.webp" width="900" height="950" alt="Graph of f(x) = (4x − x²)/9 on 0 to 3. The total area is 1 and a dashed line at the median 1.79 splits it into two halves. The mean, 7/4, sits just left of the median. Variance is 0.538." loading="lazy">
+  <figcaption>A pdf has area 1; the median splits the area in half and the mean is the balance point.</figcaption>
+</figure>
+
 
 ## 6.4 Sampling and estimation
 
@@ -200,6 +234,17 @@ The sample is large, so the CLT means you do not need to assume the population i
 
 **Proportion.** In a sample of 200, 72 have a property. p̂ = 0.36. A 90% interval is 0.36 ± 1.645 × √(0.36 × 0.64/200) = 0.36 ± 0.0558, giving (0.304, 0.416).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--06-sample-mean-distribution.webp" width="900" height="890" alt="Two normal curves centred on 30: a wide one for a single value (sd 6) and a narrow one for the mean of 50 values (sd 0.85). The area of the narrow curve above 31 is shaded and equals 0.119." loading="lazy">
+  <figcaption>The mean of 50 values varies far less than one value, so P(X̄ &gt; 31) is only 0.119.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--07-confidence-interval-95.webp" width="900" height="910" alt="A normal curve of the sample mean centred on 56.5 with standard error 0.675. The central 95% of area, from 55.2 to 57.8, is shaded teal with 2.5% in each tail, and a bracket marks the interval (55.2, 57.8)." loading="lazy">
+  <figcaption>The 95% interval is the sample mean plus or minus 1.96 standard errors.</figcaption>
+</figure>
+
+
 ## 6.5 Hypothesis tests
 
 <!-- marlbridge-diagram:maths-ps2-hypothesis-test-workflow -->
@@ -251,6 +296,12 @@ Reject H₀: evidence at the 5% level that the mean length is not 500 cm.
 P(Type II) = Φ((503.92 − 505)/2) − Φ((496.08 − 505)/2)
            = Φ(−0.54) − Φ(−4.46) = 0.295 (3 s.f.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--08-type-i-type-ii-poisson.webp" width="900" height="990" alt="Two bar charts share a dashed boundary between 8 and 9. Under H0 (Po(4.5)) the bars from 9 upward have probability 0.0403, the Type I error. If the true mean is 7 (Po(7)) the bars up to 8 have probability 0.729, the Type II error." loading="lazy">
+  <figcaption>Type I error is landing in the rejection region when H0 is true; Type II is landing outside it when H0 is false.</figcaption>
+</figure>
+
 
 ## Common errors
 

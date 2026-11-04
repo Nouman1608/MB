@@ -81,6 +81,17 @@ x − 2   │  3x³ − 5x² +  x  +  9
 
 So 3x³ − 5x² + x + 9 = (x − 2)(3x² + x + 3) + 15. The quotient is 3x² + x + 3 and the remainder is 15.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--03-division-columns.webp" width="900" height="938" alt="Long division of 6x^3 + x^2 - 7x + 6 by (3x - 1) laid out in columns. The quotient 2x^2 + x - 2 is built one term at a time and the leftover 4 equals f(1/3)." loading="lazy">
+  <figcaption>Each quotient term is multiplied by the divisor and subtracted until only the remainder is left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--07-rational-divide-first.webp" width="900" height="940" alt="Graph of (x^3 - 2x^2 - 5x + 7)/(x - 3) with a vertical asymptote at x = 3 and the dashed parabola y = x^2 + x - 2. The function equals this quotient plus 1/(x - 3), so it follows the parabola far from the asymptote." loading="lazy">
+  <figcaption>After division, the polynomial part shows the long-run shape and the fraction part gives the asymptote.</figcaption>
+</figure>
+
+
 ## The Remainder Theorem and Factor Theorem
 
 **Remainder Theorem.** Divide a polynomial f(x) by (x − a) and the remainder you get is the number f(a).
@@ -107,6 +118,22 @@ g(−1) = −30: −1 + p − q − 12 = −30   →   p − q = −17
 ```
 
 Adding gives 3p = −15, so p = −5. Then q = 2 − 2(−5) = 12. Check: g(2) = 8 − 20 + 24 − 12 = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--01-factor-theorem-graph.webp" width="900" height="1020" alt="Graph of f(x) = x cubed minus 4x squared minus 7x + 10 crossing the x-axis at minus 2, 1 and 5. Each root is marked and labelled with its linear factor (x + 2), (x - 1), (x - 5). A zero of the function corresponds to a linear factor." loading="lazy">
+  <figcaption>A root of f is where the graph meets the x-axis, and it gives a linear factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--02-remainder-is-fa.webp" width="900" height="990" alt="Two cubics are drawn: f(x) = 3x^3 + 2x^2 - 7x + 4 and (x - 2)(3x^2 + 8x + 9), which always sit 22 apart. At x = 2 the gap is marked as 22, equal to f(2), the remainder when f is divided by (x - 2)." loading="lazy">
+  <figcaption>Dividing by (x - 2) leaves a remainder equal to the height f(2); the quotient part is the same curve lowered by that amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--04-cubic-factor-shapes.webp" width="900" height="1160" alt="Three cubic graphs with positive x^3 term. Three distinct factors cross the axis three times, a repeated factor touches the axis, and a quadratic factor with negative discriminant gives only one crossing." loading="lazy">
+  <figcaption>Distinct, repeated and irreducible quadratic factors give crossing three times, touching, or crossing once.</figcaption>
+</figure>
+
 
 ## Factorising cubics with the Factor Theorem
 
@@ -166,6 +193,12 @@ In words: the curve rises from far left, crosses at (−1, 0), peaks at (0, 4), 
 
 **Worked example 7.** Sketch y = −x² + 2x + 8. Factorising gives y = −(x − 4)(x + 2), so roots are x = 4 and x = −2. The y-intercept is 8. Because a < 0 the curve is ∩-shaped, and the line of symmetry is halfway between the roots, x = 1. At x = 1, y = −1 + 2 + 8 = 9, so the vertex is (1, 9).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--08-partial-fractions-sum.webp" width="900" height="880" alt="Three curves: (10x - 5)/((x + 1)(2x - 3)), 3/(x + 1) and 4/(2x - 3). Each part has one vertical asymptote, and adding the two parts point by point gives the combined curve." loading="lazy">
+  <figcaption>A fraction with two linear factors is the sum of two simpler fractions, one per asymptote.</figcaption>
+</figure>
+
+
 ## Solving equations from graphs
 
 Solving f(x) = g(x) gives the x-values at which the curves y = f(x) and y = g(x) share a point. Reading it the other way, counting the intersection points tells you how many real solutions there are.
@@ -180,6 +213,12 @@ x = −1, 0 or 3
 ```
 
 The y-coordinates come from the line: x = −1 gives y = 20, x = 0 gives y = 12, x = 3 gives y = −12. The intersections are (−1, 20), (0, 12) and (3, −12). Do not cancel x: that would lose the solution x = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--05-quartic-repeated-root.webp" width="900" height="985" alt="Graph of x^4 - 3x^3 - 6x^2 + 28x - 24. It crosses the axis at x = -3 and flattens as it crosses at x = 2, which is a root three times, so f(x) = (x - 2)^3 (x + 3)." loading="lazy">
+  <figcaption>A repeated root makes the curve flatten at the axis; the factor theorem is applied again to each quotient.</figcaption>
+</figure>
+
 
 ## Transformations of graphs
 
@@ -215,6 +254,12 @@ y = (x − 3)² − 2(x − 3) − 3 − 2 = x² − 8x + 10
 ```
 
 The vertex moves from (1, −4) to (4, −6), which agrees with adding (3, −2). Going the other way: y = (x − 2)² + 3 becomes y = x² by a translation of (−2, −3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--06-transform-track-points.webp" width="900" height="960" alt="A downward parabola y = f(x) with maximum (2, 5) and its image y = 4 - 2f(3x - 6), an upward parabola. Three marked points move: (2, 5) to (8/3, -6), (-1, 0) to (5/3, 4) and (5, 0) to (11/3, 4). The maximum becomes a minimum." loading="lazy">
+  <figcaption>Solve the bracket for the new x-value, then apply the outside changes to y.</figcaption>
+</figure>
+
 
 ## Common errors
 

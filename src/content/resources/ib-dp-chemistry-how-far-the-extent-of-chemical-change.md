@@ -53,6 +53,17 @@ Characteristics of a system at equilibrium:
 
 **Chemical equilibrium.** Consider the gas-phase synthesis of methanol, CO(g) + 2H₂(g) ⇌ CH₃OH(g). In a sealed vessel, the amount of methanol rises and then levels off, while CH₃OH molecules continue to form and break down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--01-rates-meet.webp" width="900" height="930" alt="Rate is plotted against time. The forward rate starts high and falls; the backward rate starts at zero and rises. They meet, and in the shaded region both reactions continue at equal rates." loading="lazy">
+  <figcaption>At equilibrium the forward and backward rates are equal, not zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--02-bromine-flask.webp" width="900" height="980" alt="Three stoppered flasks show liquid bromine and brown vapour at the start, later, and at equilibrium. The up arrow (evaporation) starts longer than the down arrow (condensation) and they match at equilibrium, when the colour stops deepening." loading="lazy">
+  <figcaption>In a closed flask the colour stops deepening when evaporation and condensation rates match.</figcaption>
+</figure>
+
+
 ## The equilibrium law (2.3.2)
 
 For a homogeneous reaction (all species in the same phase), written as aA + bB ⇌ cC + dD, the equilibrium law gives:
@@ -105,6 +116,12 @@ K(reverse) = 1 / 40.0 = **0.0250**
 
 The forward value is above 1, so methanol is favoured; the reverse value is below 1, which says the same thing from the other direction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--03-size-of-k.webp" width="900" height="1010" alt="Three bars show reactant and product proportions for K = 0.01, 1 and 100 in A to B. A clock icon warns that K says nothing about speed." loading="lazy">
+  <figcaption>A large K means mostly products at equilibrium but says nothing about how fast.</figcaption>
+</figure>
+
+
 ## Le Châtelier's principle (2.3.4)
 
 **Le Châtelier's principle:** if you change the conditions of a system at equilibrium, its position moves in the direction that partly undoes your change.
@@ -146,6 +163,22 @@ O₂(g) ⇌ O₂(aq)   (dissolving is exothermic)
 - **More O₂ pressure above the water:** the position shifts right, so more oxygen dissolves.
 - **Warmer water:** the endothermic direction (O₂ leaving solution) is favoured, so less oxygen stays dissolved. This is one reason warm water holds less dissolved oxygen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--04-add-reactant.webp" width="900" height="940" alt="A concentration-time graph for CO + 2H2 and CH3OH. When CO is added, CO jumps then falls with H2 while CH3OH rises to a new equilibrium; K calculated from the final values is still 40.0." loading="lazy">
+  <figcaption>Adding CO shifts the position to more CH3OH, but K is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--05-pressure-temperature.webp" width="900" height="1140" alt="Higher pressure shifts right because the right side has 4 gas molecules against 5, and K is unchanged. Raising the temperature favours the endothermic backward direction, shifting left and lowering K." loading="lazy">
+  <figcaption>Pressure shifts the position but not K; temperature shifts the position and changes K.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--06-catalyst.webp" width="900" height="940" alt="An energy profile with a dashed no-catalyst curve and a lower-peaked catalysed curve, with the same start and end energies. The barrier falls by the same amount in both directions." loading="lazy">
+  <figcaption>A catalyst speeds both directions equally, so equilibrium is reached sooner with the same composition.</figcaption>
+</figure>
+
+
 ## The reaction quotient, Q (2.3.5, HL only)
 
 Q has the same form as the K expression, but you put in the concentrations at **any** moment, not just at equilibrium. Comparing Q with K tells you which way the mixture will move.
@@ -163,6 +196,12 @@ Q has the same form as the K expression, but you put in the concentrations at **
 Q = [NOBr]² / ([NO]²[Br₂]) = 0.300² / (0.200² × 0.100) = 0.0900 / 0.00400 = **22.5**
 
 Q > K, so the reaction proceeds in the **backward direction**: some NOBr breaks down until Q falls to 20.0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--07-q-vs-k.webp" width="900" height="990" alt="On a log scale with K = 20.0 marked, Q below K means net forward and Q above K means net backward. The worked mixture has Q = 22.5, just above K, so NOBr breaks down." loading="lazy">
+  <figcaption>If Q is greater than K the net reaction is backward until Q equals K.</figcaption>
+</figure>
+
 
 ## Calculating equilibrium composition (2.3.6, HL only)
 
@@ -203,6 +242,12 @@ x² / 0.250 = 4.0 × 10⁻⁸, so x² = 1.0 × 10⁻⁸ and x = **1.0 × 10⁻�
 
 Check: 1.0 × 10⁻⁴ is 0.04% of 0.250, so ignoring it was fine. The same idea is used for weak acids in Reactivity 3.1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--08-ice-bars.webp" width="900" height="940" alt="Bars compare start and equilibrium concentrations for CO, H2 and CH3OH in 2.00 dm3. CO and H2 fall in the ratio 1 to 2 while CH3OH rises to 0.0600, giving K = 2.97." loading="lazy">
+  <figcaption>Converting moles to concentration gives K = 2.97 for worked example 5.</figcaption>
+</figure>
+
+
 ## Gibbs energy and K (2.3.7, HL only)
 
 Both ΔG⦵ and K measure the position of equilibrium. They are linked by:
@@ -228,6 +273,12 @@ lnK = −ΔG⦵ / RT = 5700 / (8.31 × 298) = 2.302, so K = e^2.302 = **9.99** (
 ΔG⦵ = −8.31 × 500 × ln(2.5 × 10⁻⁴) = **+34.5 kJ mol⁻¹** (to 3 s.f.). Positive, matching K < 1.
 
 The background on ΔG is in the [entropy and spontaneity guide](/resources/ib-dp-chemistry-entropy-and-spontaneity/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--09-gibbs-k.webp" width="900" height="940" alt="A straight line of delta G against log K at 298 K passes through zero at K = 1. Negative delta G means K above 1 and products favoured; positive delta G means reactants favoured. The point at minus 5.70 kJ per mol gives K about 10." loading="lazy">
+  <figcaption>delta G = -RT ln K: negative delta G means K above 1; here -5.70 kJ per mol gives K of about 10.</figcaption>
+</figure>
+
 
 ## Common errors
 

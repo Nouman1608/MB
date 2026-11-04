@@ -59,6 +59,12 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
 
 Radians are assumed on exam papers unless degrees are indicated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--04-sinusoid-parameters.webp" width="900" height="960" alt="f(x) = 4 sin((π/4)(x + 1)) + 3 with maximum (1, 7), minimum (5, −1), principal axis y = 3, amplitude 4 and period 8. A dotted 4 sin(πx/4) + 3 curve shows the shift left by 1." loading="lazy">
+  <figcaption>Amplitude, principal axis, period and shift are read directly from a maximum and the next minimum.</figcaption>
+</figure>
+
+
 ## Exact values
 
 | θ | 0 | π/6 | π/4 | π/3 | π/2 |
@@ -68,6 +74,17 @@ Radians are assumed on exam papers unless degrees are indicated.
 | tan θ | 0 | √3/3 | 1 | √3 | undefined |
 
 Signs by quadrant: first, all positive; second, sin only; third, tan only; fourth, cos only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--01-unit-circle-signs.webp" width="900" height="1030" alt="A unit circle with a 30 degree ray meeting the circle at (cos θ, sin θ) = (√3/2, 1/2). Reflecting the point gives π − θ, π + θ and 2π − θ with only the signs of the coordinates changing. The quadrants are marked all, sin, tan, cos for the positive ratios." loading="lazy">
+  <figcaption>The point on the unit circle is (cos θ, sin θ); reflections give the quadrant relationships and signs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--02-ambiguous-case.webp" width="900" height="910" alt="Angle A = 40 degrees, AC = 12, BC = 9. An arc of radius 9 about C cuts the ray from A twice, giving triangles with AB = 13.8 (B = 59.0 degrees) and AB = 4.56 (B = 121.0 degrees). 12 sin 40 = 7.71 &lt; 9 &lt; 12." loading="lazy">
+  <figcaption>When the side opposite the given angle lies between 12 sin A and 12, two triangles exist.</figcaption>
+</figure>
+
 
 ## Formulas and identities
 
@@ -92,6 +109,22 @@ Signs by quadrant: first, all positive; second, sin only; third, tan only; fourt
 | arcsin x | [−1, 1] | [−π/2, π/2] |
 | arccos x | [−1, 1] | [0, π] |
 | arctan x | ℝ | ]−π/2, π/2[ |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--03-sin-2x-triangle.webp" width="900" height="860" alt="A right triangle with cos x = 2/3 is reflected to form an isosceles triangle with apex angle 2x, sides 3, height 2 and base 2√5. Equating two area expressions gives sin 2x = 4√5/9, matching 2 sin x cos x." loading="lazy">
+  <figcaption>Reflecting the right triangle shows sin 2x = 2 sin x cos x geometrically for this example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--07-inverse-ranges.webp" width="900" height="1275" alt="Graphs of arcsin, arccos and arctan with their ranges shaded. Marked points show arcsin(−√3/2) = −π/3, arccos(−√2/2) = 3π/4 (positive) and arctan(−1) = −π/4; arctan has asymptotes y = ±π/2." loading="lazy">
+  <figcaption>Each inverse returns an angle from its restricted range; arccos never returns a negative angle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--08-compound-angle-construction.webp" width="900" height="930" alt="A unit segment OP at angle A + B (105 degrees) with Q on the ray at angle A. The vertical to P has two parts, sin A cos B and cos A sin B, which sum to sin(A + B); numerically 0.9659 = 0.6124 + 0.3536." loading="lazy">
+  <figcaption>A right-angled construction shows where the two terms of sin(A + B) come from.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -151,6 +184,17 @@ Signs by quadrant: first, all positive; second, sin only; third, tan only; fourt
 
 **Inverse (HL only).** arccos(−1/2) = 2π/3, not −π/3, because the range of arccos is [0, π].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--05-tan-2x-interval.webp" width="900" height="960" alt="y = tan 2x for 0 to 2π meets y = 1/√3 at four points: π/12, 7π/12, 13π/12 and 19π/12, spaced by the period π/2. Because 0 ≤ 2x ≤ 4π there are four solutions." loading="lazy">
+  <figcaption>Doubling the angle doubles the interval, so the solutions repeat every π/2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--09-graph-symmetry.webp" width="900" height="1140" alt="Top: y = sin x on 0 to π is mirror-symmetric about x = π/2, so sin(π − θ) = sin θ. Bottom: y = cos x has half-turn symmetry about (π/2, 0), so cos(π − θ) = −cos θ and hence tan(π − θ) = −tan θ." loading="lazy">
+  <figcaption>The graphs of sine and cosine show why π − θ gives the same or opposite value.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Period vs frequency factor:** b is not the period; the period is 2π/b.
@@ -191,6 +235,12 @@ Signs by quadrant: first, all positive; second, sin only; third, tan only; fourt
 10. sec²θ = 1 + 4 = 5
 11. π/3, π/2, π/6
 12. (√6 + √2)/4
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--06-quadratic-in-sin.webp" width="900" height="940" alt="The graph of y = 2cos²x + sin x − 1 for 0 to 360 degrees crosses the axis at 210 and 330 degrees and touches it at 90 degrees. Substituting cos²x = 1 − sin²x gives (2 sin x + 1)(sin x − 1) = 0." loading="lazy">
+  <figcaption>The repeated root at 90 degrees shows as a touch, not a crossing.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -49,6 +49,12 @@ Formulations named in the spec: fuels, cleaning agents, paints, medicines, alloy
 
 How to spot one in a question: it is a **mixture**, each part has a **job**, and the amounts are **measured and fixed**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--08-purity-melting-boiling.webp" width="900" height="950" alt="Two sketch graphs of temperature against time. A pure substance melts and boils at one flat, sharp temperature. An impure substance starts melting below the pure melting point and rises through a range, and boils over a range generally above the pure boiling point." loading="lazy">
+  <figcaption>Pure substances have a sharp melting and boiling point; impure ones melt and boil over a range.</figcaption>
+</figure>
+
+
 ## Chromatography (Required practical 6)
 
 **Method in steps:**
@@ -75,6 +81,22 @@ Worked reminder: solvent moved 6.0 cm; spot centre 4.2 cm from the origin. Rf = 
 4. A spot left on the origin line did not dissolve in that solvent -- try another solvent.
 5. To claim a substance is pure, it should give one spot in **every** solvent tried, not just one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--04-reading-chromatogram.webp" width="900" height="770" alt="Lanes A, B and C are known substances with one spot each. Lane X has two spots level with A and C, so it is impure and contains A and C. Lane Y has one spot level with B, so it is pure and matches B." loading="lazy">
+  <figcaption>Matching heights identify substances; one spot means pure, two or more means impure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--05-rf-value.webp" width="900" height="1010" alt="A chromatogram shows a solvent front 80 mm above the baseline. A blue spot has moved 48 mm and an orange spot 24 mm. Dividing by 80 gives Rf 0.60 and 0.30. Rf is always less than 1." loading="lazy">
+  <figcaption>Rf = distance moved by substance / distance moved by solvent, both measured from the baseline.</figcaption>
+</figure>
+
+
 ## Tests for gases
 
 | Gas | Test | Result |
@@ -83,6 +105,17 @@ Worked reminder: solvent moved 6.0 cm; spot centre 4.2 cm from the origin. Rf = 
 | O2 | **glowing** splint in the gas | **relights** |
 | CO2 | limewater (calcium hydroxide solution) | turns **milky** |
 | Cl2 | **damp** litmus paper | **bleached white** |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--07-carbonate-halide-sulfate-tests.webp" width="900" height="1080" alt="Carbonate: acid, gas to limewater, milky. Halides: nitric acid then silver nitrate, white, cream, yellow. Sulfate: hydrochloric acid then barium chloride, white. Acid first stops false precipitates." loading="lazy">
+  <figcaption>Acidify first, then add the reagent and read the precipitate colour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--07-gas-tests.webp" width="900" height="1162" alt="Six gas tests with before and after: ammonia turns damp red litmus blue; carbon dioxide turns limewater milky; chlorine bleaches damp litmus white; hydrogen gives a squeaky pop with a lighted splint; oxygen relights a glowing splint; sulfur dioxide decolourises acidified manganate(VII)." loading="lazy">
+  <figcaption>What to do and what you see for six gases.</figcaption>
+</figure>
+
 
 ## Flame tests
 
@@ -95,6 +128,12 @@ Worked reminder: solvent moved 6.0 cm; spot centre 4.2 cm from the origin. Rf = 
 | Cu²⁺ | green |
 
 Mixtures: one colour can **mask** another. Flame colours of other metals are not needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--05-flame-test-colours.webp" width="900" height="1000" alt="Lithium crimson, sodium yellow, potassium lilac, calcium orange-red, copper green. Sodium and potassium together look yellow, because yellow hides lilac." loading="lazy">
+  <figcaption>Flame colours identify single compounds only.</figcaption>
+</figure>
+
 
 ## Hydroxide precipitates (add NaOH solution)
 
@@ -118,6 +157,12 @@ CuSO4 + 2NaOH → Cu(OH)2 + Na2SO4
 MgCl2 + 2NaOH → Mg(OH)2 + 2NaCl
 Fe²⁺ + 2OH⁻ → Fe(OH)2
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--06-hydroxide-precipitates.webp" width="900" height="1046" alt="Six cations with NaOH: Al white, dissolves in excess; Ca and Mg white, stay; Cu(II) blue, Fe(II) green, Fe(III) brown, all stay. A flame test separates Ca from Mg." loading="lazy">
+  <figcaption>Precipitate colour and behaviour in excess identify the cation.</figcaption>
+</figure>
+
 
 ## Anion tests
 
@@ -158,6 +203,17 @@ Worked reminder: a carbonate fizzes with acid because carbon dioxide forms, e.g.
 
 Worked reminder: a sample shows lines at positions that match every line of reference metal ion P and every line of reference Q, plus nothing else. The sample contains **P and Q ions only**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--08-flame-emission-spectra.webp" width="900" height="970" alt="A sample in a flame gives a line spectrum. Reference patterns for sodium and potassium are compared with a sample showing both sets of lines, so both ions are present even in a mixture." loading="lazy">
+  <figcaption>Matching line patterns identifies ions, even in a mixture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--09-flame-emission-calibration.webp" width="900" height="1010" alt="Standards 0 to 20 mg/dm3 give intensities 0 to 48, a line of 2.4 units per mg/dm3. A sample of intensity 30 is read across and down to 12.5 mg/dm3." loading="lazy">
+  <figcaption>Read a sample concentration from a calibration line.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Burning vs glowing splint**: hydrogen pops vs oxygen relights.
@@ -195,6 +251,12 @@ Worked reminder: a sample shows lines at positions that match every line of refe
 10. Dilute hydrochloric acid, then barium chloride solution; white precipitate.
 11. 54 ÷ 12 = 4.5 units per mg/dm³; 45 ÷ 4.5 = **10 mg/dm³**.
 12. Any two: more accurate, more sensitive (small samples), more rapid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-analysis--03-iron-iii-hydroxide.webp" width="900" height="820" alt="Fe3+ combines with three OH- to give brown Fe(OH)3, with charges balancing to zero. The full equation FeCl3 + 3NaOH gives Fe(OH)3 + 3NaCl has 1 Fe, 3 Cl, 3 Na, 3 O and 3 H on each side." loading="lazy">
+  <figcaption>Why Fe(III) needs three hydroxide ions, and the balanced equation.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -48,6 +48,12 @@ These notes cover Topic 4 of the Pearson Edexcel International GCSE Chemistry (4
 3. Repeat until no new arrangement is possible.
 4. Check: a bent chain or a branch on an end carbon is **not** a new isomer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--01-displayed-formula.webp" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH (Extended), and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
+  <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae.</figcaption>
+</figure>
+
+
 ## (b) Crude oil (4.7–4.18)
 
 ### Fractions
@@ -61,6 +67,12 @@ These notes cover Topic 4 of the Pearson Edexcel International GCSE Chemistry (4
 | Fuel oil | Ships, power stations | |
 | Bitumen | Roads, roofing | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--01-fractions-six.webp" width="900" height="910" alt="A fractionating column hot at the bottom and cool at the top is divided into six bands: refinery gases, gasoline, kerosene, diesel, fuel oil and bitumen, each labelled with its use. The bands darken going down. Larger molecules, higher boiling point and thicker liquid are at the bottom." loading="lazy">
+  <figcaption>The six fractions of the Edexcel lesson from top to bottom of the column.</figcaption>
+</figure>
+
+
 ### Combustion and pollution
 
 | Product | Where it comes from | Problem |
@@ -72,6 +84,17 @@ These notes cover Topic 4 of the Pearson Edexcel International GCSE Chemistry (4
 | SO₂ | **Sulfur impurities** in the fuel burning | Acid rain |
 
 A **fuel** is a substance that releases heat energy when burned.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--04-combustion-products.webp" width="900" height="1060" alt="With plenty of oxygen carbon burns to carbon dioxide. With too little oxygen it makes toxic carbon monoxide and soot particulates instead." loading="lazy">
+  <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--03-ethanol-combustion.webp" width="900" height="950" alt="Ball models show one ethanol molecule and three oxygen molecules turning into two carbon dioxide and three water molecules, releasing heat. Both sides contain 2 carbon, 6 hydrogen and 7 oxygen atoms. Ethanol is used as a fuel and as a solvent." loading="lazy">
+  <figcaption>Burning ethanol makes carbon dioxide and water and releases heat; ethanol is a fuel and a solvent.</figcaption>
+</figure>
+
 
 ### Method in steps: balancing a complete combustion equation
 
@@ -86,6 +109,17 @@ Reminder: butane gives 4CO₂ + 5H₂O, which needs 13 O atoms, so 6½O₂. Doub
 - Long-chain alkane → shorter-chain alkane + alkene.
 - **Silica or alumina** catalyst, **600–700 °C**.
 - Why: supply of long-chain fractions is greater than demand; demand for short-chain fractions (e.g. gasoline) is greater than supply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--03-cracking-c12h26.webp" width="900" height="940" alt="A twelve-carbon chain C12H26 is shown breaking, with a silica or alumina catalyst at 600 to 700 degrees Celsius, into an eight-carbon alkane C8H18 and two ethene molecules C2H4. Carbons 12 = 8+2+2 and hydrogens 26 = 18+4+4." loading="lazy">
+  <figcaption>Cracking C12H26 into C8H18 and two C2H4, with the atom count checked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--03-cracking.webp" width="900" height="1050" alt="A ten-bead chain, decane C10H22, passes into a cracking vessel that needs high temperature and a catalyst. Out come octane C8H18, a shorter alkane, and ethene C2H4, an alkene. Atoms balance: 10 C and 22 H on both sides. Cracking is done because short chains and alkenes are in higher demand than distillation supplies." loading="lazy">
+  <figcaption>Heat and a catalyst crack decane into octane and ethene.</figcaption>
+</figure>
+
 
 ### Method in steps: balancing a cracking equation
 
@@ -108,6 +142,27 @@ Reminder: C₁₆H₃₄ → C₁₀H₂₂ + C₆H₁₂. Carbons 16 = 10 + 6; 
 
 Only mono-substitution is needed for alkanes. No mechanisms, no cis/trans.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
+  <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--04-chlorine-substitution.webp" width="900" height="950" alt="Methane reacts with chlorine in UV light. One hydrogen atom of methane is replaced by one chlorine atom, giving chloromethane and hydrogen chloride. Only one hydrogen is replaced (monosubstitution). It is substitution because nothing adds across a bond." loading="lazy">
+  <figcaption>In UV light one H of methane is swapped for one Cl: CH4 + Cl2 gives CH3Cl + HCl.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--02-alkane-alkene-structure.webp" width="900" height="830" alt="Displayed formulae of ethane and ethene. Ethane has only single bonds, so it is saturated, general formula CnH2n+2 (C2H6). Ethene has a C=C double bond, so it is unsaturated, general formula CnH2n (C2H4). Every carbon makes four bonds." loading="lazy">
+  <figcaption>Ethane has only single bonds; ethene has a C=C double bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--05-bromine-water-test.webp" width="900" height="1030" alt="Two rows of test tubes. Orange bromine water shaken with an alkane (ethane) stays orange. Shaken with an alkene (ethene) it turns colourless, because bromine adds across the C=C double bond." loading="lazy">
+  <figcaption>Alkane: stays orange. Alkene: orange to colourless.</figcaption>
+</figure>
+
+
 ## (e) Alcohols (4.29C–4.33C) -- Paper 2 only
 
 - Functional group **–OH**. Methanol CH₃OH, ethanol C₂H₅OH, propan-1-ol C₃H₇OH, butan-1-ol C₄H₉OH.
@@ -129,6 +184,32 @@ Only mono-substitution is needed for alkanes. No mechanisms, no cis/trans.
 
 Why these fermentation conditions: no air so ethanol is not oxidised to ethanoic acid; about 30 °C because colder is slow and hotter denatures the enzymes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--13-fermentation-conditions.webp" width="900" height="1210" alt="Paper 2 only. Fermentation of glucose by yeast enzymes in a sealed flask with no air gives ethanol and carbon dioxide: C6H12O6 gives 2C2H5OH plus 2CO2. Without air the ethanol is not oxidised. A sketch graph of enzyme rate against temperature rises from cold, is good around 30 degrees Celsius, then falls steeply when the enzymes are denatured at high temperature." loading="lazy">
+  <figcaption>Why fermentation is done at about 30 C and without air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--14-polyester-ethanedioic.webp" width="900" height="920" alt="Paper 2 only. Ethanedioic acid, HOOC-COOH, and ethanediol, HO-CH2CH2-OH, join to make a polyester. At each ester link one water molecule is lost. The repeat unit is -[OC-COO-CH2CH2-O]n-, drawn with its ester link highlighted. The atom count checks: C2H2O4 plus C2H6O2 minus 2H2O leaves C4H4O4, the repeat unit." loading="lazy">
+  <figcaption>Ester links form with loss of water; this is the repeat unit of the lesson polyester.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--02-ethanol-dichromate.webp" width="900" height="900" alt="Displayed formulae show ethanol being oxidised to ethanoic acid on heating. Two test tubes show acidified potassium dichromate(VI) changing from orange to green when heated with ethanol. Paper 2 only." loading="lazy">
+  <figcaption>Heating ethanol with acidified dichromate(VI) gives ethanoic acid and an orange to green colour change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--02-functional-groups.webp" width="900" height="1170" alt="Displayed formulae of ethane, ethene, ethanol and ethanoic acid with the key feature highlighted (single C-C bonds only, C=C, -OH, -COOH) and each series general formula evaluated for the shown n." loading="lazy">
+  <figcaption>The functional group decides the series and its chemistry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--01-two-routes-to-ethanol.webp" width="900" height="1000" alt="Top: a sealed flask of glucose and yeast at 25-35 C with no oxygen gives dilute ethanol, and carbon dioxide leaves through a tube. Bottom: ethene and steam pass over an acid catalyst in a reactor at 300 C and 6000 kPa to give pure ethanol." loading="lazy">
+  <figcaption>Fermentation is sealed, mild and makes dilute ethanol; steam and ethene need 300 C, 6000 kPa and an acid catalyst.</figcaption>
+</figure>
+
+
 ## (f) Carboxylic acids (4.34C–4.37C) -- Paper 2 only
 
 - Functional group **–COOH**. Methanoic HCOOH, ethanoic CH₃COOH, propanoic C₂H₅COOH, butanoic C₃H₇COOH.
@@ -136,6 +217,12 @@ Why these fermentation conditions: no air so ethanol is not oxidised to ethanoic
 - Acid + metal carbonate → salt + water + **carbon dioxide**.
 - Salts are named -oate: sodium ethanoate, magnesium ethanoate.
 - **Vinegar** = aqueous solution containing ethanoic acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--04-ethanoic-acid-salts.webp" width="900" height="1030" alt="Ethanoic acid reacts with magnesium to give magnesium ethanoate and hydrogen, with sodium hydroxide to give sodium ethanoate and water, and with sodium carbonate to give sodium ethanoate, water and carbon dioxide. Salts of ethanoic acid are ethanoates." loading="lazy">
+  <figcaption>Ethanoic acid reacts with a metal, a base or a carbonate to make an ethanoate salt.</figcaption>
+</figure>
+
 
 ## (g) Esters (4.38C–4.43C) -- Paper 2 only
 
@@ -151,6 +238,37 @@ Why these fermentation conditions: no air so ethanol is not oxidised to ethanoic
 2. Acid → second word, ending -oate (propanoic acid → propanoate).
 3. In the formula, the acid part comes first: CH₃CH₂COO– then the alkyl group from the alcohol.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--11-pentane-isomers.webp" width="900" height="1026" alt="Three structural isomers of C5H12 drawn as displayed formulae: pentane, a straight chain of five carbons; 2-methylbutane, a four-carbon chain with a methyl branch on carbon 2; and 2,2-dimethylpropane, a three-carbon chain with two methyl branches on the middle carbon. All three have the same molecular formula, C5H12, and every carbon has four bonds." loading="lazy">
+  <figcaption>C5H12 has three structural isomers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--06-naming-stem-ending.webp" width="900" height="1090" alt="Stem gives carbon number (meth 1, eth 2, prop 3, but 4); ending gives the functional group (-ane, -ene, -ol, -oic acid), shown with ethane, ethene, ethanol and ethanoic acid." loading="lazy">
+  <figcaption>Name = stem for carbons + ending for the functional group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--07-locant-numbers.webp" width="900" height="1150" alt="Propan-1-ol and propan-2-ol, and butan-1-ol and butan-2-ol, with carbons numbered along the chain and the carbon carrying -OH highlighted." loading="lazy">
+  <figcaption>The number says which carbon carries the -OH.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--05-structural-isomers.webp" width="900" height="1110" alt="Butane and methylpropane both C4H10; but-1-ene and but-2-ene both C4H8; same atoms joined differently." loading="lazy">
+  <figcaption>Isomers share a molecular formula but have different structures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--06-esterification.webp" width="900" height="960" alt="Ethanoic acid and ethanol react with an acid catalyst to make the ester ethyl ethanoate and water. The OH from the acid and the H from the alcohol leave as water. The alcohol supplies the ethyl part of the name and the acid supplies the ethanoate part." loading="lazy">
+  <figcaption>An acid and an alcohol with an acid catalyst make an ester and water; ethyl comes from the alcohol, ethanoate from the acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--08-ester-naming.webp" width="900" height="920" alt="Ethanol and ethanoic acid give ethyl ethanoate (CH3COOCH2CH3) plus water; ethyl comes from the alcohol, ethanoate from the acid." loading="lazy">
+  <figcaption>Ester names combine the alcohol part (-yl) and the acid part (-oate).</figcaption>
+</figure>
+
+
 ## (h) Synthetic polymers (4.44–4.50)
 
 - **Addition polymer**: many monomers joined; the C=C opens. Repeat unit has **single bonds** and **extension bonds** through the brackets.
@@ -158,6 +276,12 @@ Why these fermentation conditions: no air so ethanol is not oxidised to ethanoic
 - Monomer from repeat unit: take the two backbone carbons, put C=C between them, keep the side groups.
 - Disposal: **inert**, **do not biodegrade**; burning gives **toxic gases**.
 - *(Paper 2 only)* **Condensation polymer**: dicarboxylic acid + diol → **polyester + water**. Ethanedioic acid + ethanediol → –[OC–COO–CH₂CH₂–O]ₙ– + 2n H₂O. **Biopolyesters** are biodegradable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--15-pvc-ptfe-repeat-units.webp" width="900" height="830" alt="Two addition polymers. Chloroethene, CH2=CHCl, becomes the repeat unit -[CH2-CHCl]n- of poly(chloroethene): the C=C opens into a single bond and the chlorine stays on its carbon. Tetrafluoroethene, CF2=CF2, becomes -[CF2-CF2]n-, with all four fluorines unchanged. The atoms in the repeat unit are the same as in the monomer." loading="lazy">
+  <figcaption>The repeat unit has the same atoms as the monomer with the C=C opened.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -198,6 +322,12 @@ Why these fermentation conditions: no air so ethanol is not oxidised to ethanoic
 10. **Calcium ethanoate**, **water** and **carbon dioxide**.
 11. **CHCl=CHCl** (1,2-dichloroethene): the two carbons joined by a double bond, each with one H and one Cl.
 12. **Phosphoric acid**; about **300 °C**; about **60–70 atm**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-organic-chemistry--12-acid-rain-route.webp" width="900" height="1010" alt="Three steps. In a hot car engine nitrogen and oxygen from the air react: N2 + O2 gives 2NO, and then 2NO + O2 gives 2NO2. Separately, sulfur impurities in some fuels burn: S + O2 gives SO2. Nitrogen dioxide and sulfur dioxide dissolve in rainwater and form acids, so the rain becomes acidic. Every equation is balanced." loading="lazy">
+  <figcaption>How oxides of nitrogen and sulfur dioxide lead to acid rain.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

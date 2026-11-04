@@ -163,6 +163,12 @@ Alphabetical order:     chloro before methyl
 Name:                   3-chloro-2-methylpentane
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
+
 ### Worked example 4: drawing from names
 
 (a) **2-methylcyclopentan-1-ol.** Skeletal: a pentagon with OH on one corner (C1) and a short line for CH₃
@@ -183,6 +189,12 @@ The –OH takes the suffix and the lowest number; the C=C is numbered from the s
 - A **radical** has an unpaired electron, shown by a dot: Br•, CH₃CH₂•.
 - No curly arrows are needed in radical steps.
 - Every step needs its own **balanced equation**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ### Worked example 5: steps for a radical reaction
 
@@ -228,6 +240,12 @@ In the first step of the reaction of hex-3-ene with sulfuric acid, the C=C forms
 - Arrow 1 starts on the **C=C double bond** and points to an H atom of H–OSO₃H.
 - Arrow 2 starts on that **O–H bond** and points to O, giving HSO₄⁻.
 - Products: the carbocation CH₃CH₂CH₂C⁺HCH₂CH₃ and HSO₄⁻. You meet the complete mechanisms in sections 3.3.3, 3.3.4 and 3.3.5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 3.3.1.3 Isomerism
 

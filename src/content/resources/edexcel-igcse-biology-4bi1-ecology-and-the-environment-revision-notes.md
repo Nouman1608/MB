@@ -50,10 +50,22 @@ Then test yourself with the [practice questions](/resources/edexcel-igcse-biolog
 
 Worked reminder: a mean of 2.5 plants per 1 m² quadrat in a 400 m² field gives 2.5 × 400 = **1000 plants**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--01-quadrat-estimate.webp" width="900" height="1080" alt="Two areas each 30 m by 20 m are sampled with ten random 0.5 m by 0.5 m quadrats. Area A gives a mean of 3.0 per quadrat, 12 per square metre and 7200 dandelions. Area B gives a mean of 1.0, 4 per square metre and 2400 dandelions, so A has three times the estimated population." loading="lazy">
+  <figcaption>The lesson's worked example drawn as quadrat counts, then mean, per m² and whole-area estimate.</figcaption>
+</figure>
+
+
 ### Distribution and biodiversity (4.4B) -- Paper 2 only
 
 - **Distribution**: place quadrats at regular intervals along a tape running across a change in conditions (for example, shade to open ground). Record species present or percentage cover at each point.
 - **Biodiversity**: place quadrats at random in each area; record every species and how many of each. More species, more evenly spread = higher biodiversity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--04-biodiversity.webp" width="900" height="940" alt="Site A has five species with four organisms of each. Site B has three species: sixteen of one common species and two each of two rare ones. Site A has the higher biodiversity: more species, spread more evenly." loading="lazy">
+  <figcaption>Biodiversity depends on how many species are present and how evenly their numbers are spread.</figcaption>
+</figure>
+
 
 ### Abiotic vs biotic (4.5)
 
@@ -80,6 +92,12 @@ Producer → primary consumer → secondary consumer → tertiary consumer. **De
 
 Food chain arrows point **from the food to the feeder**; they show the direction of energy flow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--02-food-web.webp" width="900" height="1030" alt="Food web arranged by trophic level: grass (producer), grasshopper (primary), shrew (secondary), owl (tertiary). Arrows point to the eater. The owl also eats the grasshopper, so it is a secondary consumer in that shorter chain, showing one organism can occupy two trophic levels." loading="lazy">
+  <figcaption>Linked food chains form a web, and an owl can be both a secondary and a tertiary consumer.</figcaption>
+</figure>
+
+
 ### Pyramids (4.7)
 
 | Pyramid | Measures | Always a true pyramid? |
@@ -87,6 +105,17 @@ Food chain arrows point **from the food to the feeder**; they show the direction
 | Numbers | Number of organisms per level | No (one tree, many insects) |
 | Biomass | Dry mass per level | Almost always |
 | Energy transfer | Energy passed to each level (for example, kJ per m² per year) | Yes |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--04-pyramids.webp" width="900" height="1030" alt="For one oak supporting 2 500 caterpillars eaten by 30 blue tits, the pyramid of numbers has a narrow base, very wide middle and narrow top, so it is not pyramid-shaped. The pyramid of biomass narrows at each level and is pyramid-shaped." loading="lazy">
+  <figcaption>Biomass gives a true pyramid because it allows for the size of organisms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--05-energy-efficiency.webp" width="900" height="1060" alt="Extended. A pyramid of energy with bar widths to scale: grass 21 000, rabbits 1 470, foxes 126 kJ per square metre per year. Efficiencies are 7.0 % and 8.6 %. Energy is lost as heat from respiration, uneaten parts, faeces and urea, so chains rarely reach five levels." loading="lazy">
+  <figcaption>Only about 7 to 9 % passes to the next level here, so energy pyramids narrow quickly.</figcaption>
+</figure>
+
 
 ### Energy transfer (4.8, 4.9)
 
@@ -108,6 +137,17 @@ Why food chains are short: after four or five transfers of about 10%, too little
 
 **Substances** (carbon, nitrogen compounds) are recycled. **Energy** is not; it leaves the chain as heat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--07-energy-worked-example.webp" width="900" height="830" alt="Bars to scale: producers 24 000 kJ, primary consumers 2 160 kJ, secondary consumers 216 kJ per m² per year. Efficiencies are 9.0% and 10.0%; 21 840 kJ and 1 944 kJ are lost." loading="lazy">
+  <figcaption>Worked example 2 with bar widths drawn to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--01-energy-flow.webp" width="900" height="1190" alt="Light energy from the Sun is absorbed by a plant, and photosynthesis transfers it to chemical energy. Chemical energy passes to a herbivore and then a carnivore. At every stage, including decomposers, energy is transferred to the environment as heat. Dead material and waste pass to decomposers, and energy is never recycled." loading="lazy">
+  <figcaption>Energy enters as light, passes along the chain and leaves as heat; it is not recycled.</figcaption>
+</figure>
+
+
 ## 4(c) Cycles within ecosystems
 
 ### Carbon cycle in steps (4.10)
@@ -118,6 +158,12 @@ Why food chains are short: after four or five transfers of about 10%, too little
 4. **Decomposition**: decomposers feed on dead matter and waste and release CO₂ by respiration.
 5. **Combustion** of fossil fuels and wood releases CO₂.
 6. Incomplete decomposition over millions of years forms **fossil fuels**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--06-carbon-cycle.webp" width="900" height="1070" alt="Photosynthesis takes carbon dioxide from the air into plants. Feeding passes carbon to animals. Respiration by plants, animals and decomposers returns carbon dioxide to the air. Dead organisms and waste are broken down by decomposers (decomposition) or, if not fully decomposed, form fossil fuels over millions of years. Combustion of fossil fuels releases carbon dioxide." loading="lazy">
+  <figcaption>The six carbon-cycle processes shown as arrows between air, organisms, dead matter and fossil fuels.</figcaption>
+</figure>
+
 
 ### Nitrogen cycle (4.11B) -- Paper 2 only
 
@@ -130,6 +176,17 @@ Why food chains are short: after four or five transfers of about 10%, too little
 
 Plants absorb **nitrate** ions and use them to make **proteins**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--08-nitrogen-nodules-soil-air.webp" width="900" height="1010" alt="Legume root nodules hold nitrogen-fixing bacteria. In aerated soil nitrifying bacteria make nitrates, keeping soil fertile. In waterlogged soil with little oxygen denitrifying bacteria turn nitrates into nitrogen gas, reducing fertility." loading="lazy">
+  <figcaption>Root nodules and the effect of soil oxygen on nitrification and denitrification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--07-nitrogen-cycle.webp" width="900" height="1090" alt="Extended. Nitrogen fixation (lightning, bacteria) converts nitrogen gas to nitrogen compounds in the soil. Decomposers form ammonium ions from dead matter; nitrifying bacteria make nitrate ions; plants absorb nitrate and make amino acids and proteins; animals eat plants; deamination produces urea returned to soil; denitrifying bacteria return nitrogen gas to the air." loading="lazy">
+  <figcaption>Bacteria drive four steps: decomposition, nitrification, fixation and denitrification.</figcaption>
+</figure>
+
+
 ## 4(d) Human influences on the environment
 
 ### Air pollutants (4.12)
@@ -139,6 +196,12 @@ Plants absorb **nitrate** ions and use them to make **proteins**.
 | Sulfur dioxide | Burning sulfur-containing fossil fuels | Acid rain: damages leaves and kills trees; acidifies lakes so fish die; irritates lungs |
 | Carbon monoxide | Incomplete combustion (car exhausts) | Binds to haemoglobin, so less oxygen carried; can be fatal |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--02-air-pollutants.webp" width="900" height="1000" alt="Sulfur dioxide from burning sulfur-containing fuels dissolves in rain to make acid rain, which damages trees and lowers lake pH so fish die. Carbon monoxide from incomplete combustion binds to haemoglobin more strongly than oxygen, so the blood carries less oxygen." loading="lazy">
+  <figcaption>Sulfur dioxide causes acid rain; carbon monoxide reduces the oxygen carried by haemoglobin.</figcaption>
+</figure>
+
+
 ### Greenhouse gases (4.13, 4.14)
 
 Water vapour, carbon dioxide, nitrous oxide, methane, CFCs.
@@ -147,6 +210,22 @@ Water vapour, carbon dioxide, nitrous oxide, methane, CFCs.
 - Methane: cattle, rice paddies, landfill
 - Nitrous oxide: breakdown of nitrogen fertilisers by soil bacteria
 - CFCs: old aerosols and refrigerators
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--06-greenhouse-gas-sources.webp" width="900" height="930" alt="Carbon dioxide: fossil fuels, deforestation. Methane: cattle, rice paddies, landfill. Nitrous oxide: fertilisers broken down by soil bacteria, animal waste. CFCs: old aerosols and refrigerators. Water vapour is also a greenhouse gas." loading="lazy">
+  <figcaption>The lesson table of greenhouse gases and their human sources as pictures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--05-enhanced-greenhouse-effect.webp" width="900" height="1180" alt="Sunlight reaches the Earth, which gives out thermal energy upwards. Carbon dioxide and methane absorb thermal energy that would otherwise be lost and some returns to Earth. More of these gases gives more energy absorbed, a higher mean global temperature and climate change." loading="lazy">
+  <figcaption>More CO2 and methane trap more thermal energy, raising mean global temperature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--06-co2-methane-sources.webp" width="900" height="850" alt="Carbon dioxide comes from burning fossil fuels and burning forests. Methane comes from cattle and other livestock, rice fields and waste decomposing in landfill sites." loading="lazy">
+  <figcaption>Fossil fuels and forest burning give CO2; livestock, rice fields and landfill give methane.</figcaption>
+</figure>
+
 
 ### Enhanced greenhouse effect in steps (4.15)
 
@@ -167,6 +246,17 @@ Water vapour, carbon dioxide, nitrous oxide, methane, CFCs.
 
 In both cases the **bacteria**, not the algae, cause the oxygen to fall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--05-sewage-oxygen-chain.webp" width="900" height="1000" alt="Sewage adds organic matter; bacteria decompose it and multiply; their aerobic respiration uses up dissolved oxygen; fish and other aerobic animals die." loading="lazy">
+  <figcaption>Untreated sewage lowers dissolved oxygen and kills fish.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Extended. Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
+  <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
+</figure>
+
+
 ### Deforestation (4.18B) -- Paper 2 only
 
 - **Leaching**: mineral ions washed out of unprotected soil.
@@ -174,6 +264,17 @@ In both cases the **bacteria**, not the algae, cause the oxygen to fall.
 - **Evapotranspiration** reduced: less water vapour, less rain, drier climate locally.
 - **Carbon cycle**: less CO₂ absorbed; burning or decay releases more.
 - **Atmospheric gases**: more CO₂, less O₂ released.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--03-deforestation-soil-water.webp" width="900" height="1020" alt="In a forest, trees release water vapour, giving cloud and rain, and roots hold mineral ions in the soil. When the trees are cleared there is less water vapour and rain, and rain washes mineral ions out of the soil (leaching), leaving it infertile." loading="lazy">
+  <figcaption>Clearing trees reduces rainfall and lets rain leach ions from the soil.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--03-deforestation-effects.webp" width="900" height="1245" alt="A forest and a deforested hillside are compared. Five effects are numbered: biodiversity falls, extinction, soil loss, flooding and more carbon dioxide. A worked example shows forest area falling from 6.0 to 5.1 million hectares, a 15 percent decrease, found by dividing by the original value." loading="lazy">
+  <figcaption>Removing forest reduces biodiversity, loses soil, raises flood risk and adds carbon dioxide to the air.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

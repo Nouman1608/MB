@@ -94,6 +94,12 @@ collecting power ratio = (100/4.0)² = 625
 
 **Eye vs CCD**: a CCD has much higher **quantum efficiency** (fraction of photons detected); its **resolution** depends on pixel spacing, which can be finer than the spacing of the eye's receptor cells; it is more **convenient** because it can integrate long exposures and gives a digital image to store and process. The eye gives a real-time view with no equipment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--08-aphy-astro-refracting-telescope.webp" width="900" height="830" alt="Parallel rays at angle alpha reach the objective and form a real inverted image in its focal plane. The eyepiece focus coincides with it, so rays leave parallel at angle beta. M = beta/alpha = fo/fe, with lens separation fo + fe. Worked example: 1.50 m and 30 mm give M = 50 and separation 1.53 m." loading="lazy">
+  <figcaption>In normal adjustment the lenses are fo + fe apart and M = fo/fe = beta/alpha.</figcaption>
+</figure>
+
+
 ## 3.9.2 Classification of stars
 
 ### Apparent and absolute magnitude
@@ -116,6 +122,12 @@ Treat a star as a **black body**. Black-body curves rise to one peak; a hotter b
 
 **Worked example 4.** Peak at 500 nm: T = 2.9 × 10⁻³/500 × 10⁻⁹ = **5800 K**. A 3000 K star with 50 times the radius of a 6000 K star: P ratio = 50² × (0.5)⁴ = **156**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--03-aphy-astro-blackbody.webp" width="900" height="980" alt="Planck curves for 4800 K, 5800 K and 7000 K. Hotter stars are higher at every wavelength and peak at shorter wavelengths (604, 500, 414 nm from Wien). Area under each curve scales as T^4 (Stefan)." loading="lazy">
+  <figcaption>Hotter black bodies emit more at every wavelength and peak at shorter wavelength; total power scales as T^4.</figcaption>
+</figure>
+
+
 ### Spectral classes
 
 | Class | Colour | T / K | Prominent absorption lines |
@@ -136,6 +148,12 @@ Absolute magnitude (+15 bottom to −10 top) against temperature **falling** lef
 
 **Sun-like star**: protostar → main sequence → expands and cools up and right to a red giant → loses its outer layers; the core moves left and down to a white dwarf.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--04-aphy-astro-hr-diagram.webp" width="900" height="1010" alt="Log-log plot of luminosity against surface temperature with spectral classes O to M across the top. Main sequence runs top left to bottom right; giants, supergiants and white dwarfs are marked, with the Sun. Dashed lines of constant radius come from L = 4 pi r^2 sigma T^4." loading="lazy">
+  <figcaption>On the HR diagram, stars of equal radius lie on lines from L = 4 pi r^2 sigma T^4; above the main sequence at the same temperature means bigger.</figcaption>
+</figure>
+
+
 ### Supernovae, neutron stars and black holes
 
 - **Supernova**: rapid increase in absolute magnitude.
@@ -147,6 +165,22 @@ Absolute magnitude (+15 bottom to −10 top) against temperature **falling** lef
 
 **Worked example 5.** 6.0 solar masses (1.99 × 10³⁰ kg each): Rs = 2 × 6.67 × 10⁻¹¹ × 1.194 × 10³¹/(3.00 × 10⁸)² = **1.77 × 10⁴ m**. A type 1a peaks at m = 14.2 with M = −19.3: d = 10 × 10^(33.5/5) = **5.0 × 10⁷ pc**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--01-aphy-astro-parallax.webp" width="900" height="1000" alt="Earth at opposite ends of its orbit sees a nearby star shift against far more distant stars. The parallax angle p is the angle at the star subtended by 1 AU. For p in arcseconds, d in parsecs is 1/p; 0.0625 arcsec gives 16.0 pc or 52.3 ly. The drawing is not to scale." loading="lazy">
+  <figcaption>Parallax angle p subtends 1 AU at the star, so d (pc) = 1/p (arcsec).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--02-aphy-astro-inverse-square.webp" width="900" height="1130" alt="A star emits light in a widening cone. At 2d the same light covers 4 times the area and at 3d 9 times, so the flux falls to F/4 and F/9. A standard candle has known L, so measuring F gives d; the worked example gives 5.6e18 m." loading="lazy">
+  <figcaption>Flux falls as 1/d^2, so a standard candle of known luminosity gives its distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--05-aphy-astro-star-life-cycle.webp" width="900" height="1210" alt="A low-mass star goes from gas cloud to protostar, main sequence, red giant, planetary nebula and white dwarf (electron degeneracy pressure, at most 1.4 solar masses). A massive star ends as a red supergiant, supernova, then a neutron star or black hole. A main-sequence star is stable because gas and radiation pressure balance gravity." loading="lazy">
+  <figcaption>Mass decides whether a star ends as a white dwarf, neutron star or black hole.</figcaption>
+</figure>
+
+
 ## 3.9.3 Cosmology
 
 ### Doppler effect
@@ -156,6 +190,12 @@ For v ≪ c: **Δf/f = v/c** and **z = Δλ/λ = −v/c** (v positive for approa
 **Binary stars in the plane of orbit**: lines shift periodically. Maximum shift → orbital speed v; cycle time → period T; r = vT/2π.
 
 **Worked example 6.** A 589.0 nm line shifts up to ±0.025 nm every 3.0 days: v = 3.00 × 10⁸ × 0.025/589.0 = **1.27 × 10⁴ m s⁻¹**; r = vT/2π = **5.25 × 10⁸ m**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--06-aphy-astro-redshift.webp" width="900" height="980" alt="Hydrogen absorption lines at 434.0, 486.1 and 656.3 nm in the laboratory are shifted to 442.7, 495.8 and 669.4 nm in a distant galaxy, all by the same fraction z = 0.020. z = delta lambda / lambda = v/c gives a recession speed of about 6.0e6 m/s." loading="lazy">
+  <figcaption>Spectral lines of a receding galaxy shift to longer wavelength by z = v/c.</figcaption>
+</figure>
+
 
 ### Hubble's law and the Big Bang
 
@@ -171,6 +211,12 @@ age ≈ 1/H = 4.40 × 10¹⁷ s = 1.40 × 10¹⁰ years
 ```
 
 **Big Bang (qualitative)**: the Universe began hot and dense, and has expanded and cooled. Evidence: the **cosmological microwave background radiation**, black-body radiation at about 2.7 K arriving almost uniformly from every direction, is stretched radiation from the hot early Universe; the **relative abundance of hydrogen and helium** (roughly 3 : 1 by mass) matches fusion predicted in the early Universe.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--07-aphy-astro-hubble.webp" width="900" height="1140" alt="Speed against distance is a straight line through the origin with gradient H0 = 70 km/s/Mpc, including the worked example 85.5 Mpc at 5990 km/s. Farther galaxies recede proportionally faster. H0 = 2.3e-18 per second, so age is about 1/H0 = 4.4e17 s or 1.4e10 years." loading="lazy">
+  <figcaption>Recession speed is proportional to distance (v = H0 d), and 1/H0 estimates the age of the universe.</figcaption>
+</figure>
+
 
 ### Quasars
 

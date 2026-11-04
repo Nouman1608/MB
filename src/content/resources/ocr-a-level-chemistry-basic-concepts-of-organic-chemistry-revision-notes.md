@@ -52,6 +52,12 @@ Naming is limited to the functional groups in the specification. Give a locant w
 
 **Reminder:** CH₃CH(OH)CH₂CHClCH₃ is numbered from the OH end. OH on C2, Cl on C4: 4-chloropentan-2-ol.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
+
 ## 4.1.1(b): Formula types
 
 | Type | What it shows | Example for propan-1-ol |
@@ -66,6 +72,12 @@ Naming is limited to the functional groups in the specification. Give a locant w
 - In structural formulae, write the carboxyl group as COOH and the ester group as COO.
 - Cyclohexane is a plain hexagon. Benzene is a hexagon with a circle inside.
 - In a skeletal formula, every line end and every corner is a carbon atom unless a different atom is written there.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
+  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
+</figure>
+
 
 ## 4.1.1(c): Key terms
 
@@ -116,6 +128,12 @@ R can also stand for any fragment of a molecule that is not involved in the reac
 
 The fastest check on a list of isomers is to name them all. A structure that bends round a corner is still the same chain, so look for the longest continuous run of carbons each time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## 4.1.1(f) and (g): Fission and radicals
 
 | | Homolytic fission | Heterolytic fission |
@@ -129,6 +147,12 @@ The fastest check on a list of isomers is to name them all. A structure that ben
 - Put a dot on every species with a single unpaired electron: Cl•, CH₃•, CH₃CH₂CH₂•.
 - Dots are not required for diradicals, such as an oxygen atom.
 - Radical mechanisms are written as a sequence of equations. Half curly arrows are not required (4.1.2 f).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 4.1.1(h) and (i): Curly arrows
 

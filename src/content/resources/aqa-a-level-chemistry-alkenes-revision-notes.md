@@ -89,6 +89,27 @@ Three arrows in total: C=C → H, H–Br bond → Br, lone pair on Br⁻ → C�
 - Alkane: stays orange.
 - The alkene test is part of Required practical 6, which the specification lists under 3.3.6.1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--03-addition-reactions.webp" width="900" height="1210" alt="Ethene and its six addition products drawn bond by bond: ethane (H2, Ni), 1,2-dibromoethane (Br2), bromoethane (HBr), ethanol (steam, H3PO4), ethyl hydrogensulfate (cold conc. H2SO4) and ethane-1,2-diol (acidified KMnO4). Each card is tagged with the boards that teach it." loading="lazy">
+  <figcaption>Addition across C=C gives a saturated product; the reagent decides which.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--04-bromine-test.webp" width="900" height="975" alt="Two tubes of orange bromine water shaken with an alkene (turns colourless, Br2 used up, dibromoethane shown) and an alkane (stays orange, no reaction)." loading="lazy">
+  <figcaption>An alkene decolourises bromine water; an alkane leaves it orange.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--05-hbr-mechanism.webp" width="900" height="923" alt="Curly arrow 1 from the C=C bond to the delta-plus H, arrow 2 from the H-Br bond to Br, giving CH3CH2+ and Br-; arrow 3 from a Br- lone pair to C+ gives bromoethane." loading="lazy">
+  <figcaption>Three curly arrows: from the C=C, from the H-Br bond, and from a bromide lone pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--06-br2-mechanism.webp" width="900" height="1287" alt="The pi electrons repel the Br-Br electrons giving an induced dipole; arrows from C=C to the delta-plus Br and from Br-Br to the other Br make BrCH2CH2+ and Br-; a lone pair on Br- then attacks C+ to give 1,2-dibromoethane. OCR also accepts a bromonium ion." loading="lazy">
+  <figcaption>Br2 becomes polar near the C=C, then adds by the same two-step pattern (OCR also accepts a bromonium ion).</figcaption>
+</figure>
+
+
 ## Major and minor products
 
 | Carbocation | Alkyl groups on C⁺ | Stability |
@@ -108,6 +129,12 @@ Three arrows in total: C=C → H, H–Br bond → Br, lone pair on Br⁻ → C�
 **Small reminder.** 2-methylpropene, (CH₃)₂C=CH₂, with HBr:
 - tertiary carbocation (CH₃)₃C⁺ → **2-bromo-2-methylpropane** (major)
 - primary carbocation (CH₃)₂CHCH₂⁺ → **1-bromo-2-methylpropane** (minor)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--07-major-minor-product.webp" width="900" height="1236" alt="H adds to C1 giving a secondary carbocation (two alkyl groups) and 2-bromopropane as major product; H adds to C2 giving a primary carbocation (one alkyl group) and 1-bromopropane as minor. Bars show stability rising primary &lt; secondary &lt; tertiary." loading="lazy">
+  <figcaption>The more stable secondary carbocation forms faster, so 2-bromopropane is the major product.</figcaption>
+</figure>
+
 
 ## Addition polymers (3.3.4.3)
 
@@ -159,6 +186,17 @@ less-branched, denser poly(ethene). Plasticisers show how one polymer's properti
 
 **Practical opportunity:** the specification suggests making poly(phenylethene) from phenylethene (AT k,
 PS 1.2). It is not a required practical.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--08-addition-polymers.webp" width="900" height="1160" alt="Chloroethene opens its C=C to give the bracketed repeat unit with extension bonds and n; a chain section shows the repeating two-carbon unit; a poly(2-methylpropene) section is reversed to the monomer by putting C=C back." loading="lazy">
+  <figcaption>Open the C=C, keep substituents, add extension bonds and brackets; reverse by finding the repeating pair of carbons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--09-pvc-plasticiser.webp" width="900" height="1060" alt="Unplasticised PVC chains lie close with strong forces (dipole-dipole and van der Waals): rigid. Plasticiser molecules push chains apart, weakening forces: flexible. Uses are shown for each." loading="lazy">
+  <figcaption>Plasticiser molecules separate PVC chains, weaken the forces between them and make PVC flexible.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -157,6 +157,12 @@ T₂ = T₁p₂V₂/(p₁V₁) = 300 × 8^0.4 = 689 K
 
 Isothermals are curves; adiabatics are steeper curves; constant-pressure lines are horizontal; constant-volume lines vertical. **Work done = area under the graph** (estimate curved areas by counting squares). In a **cycle**, ΔU = 0 and **work done per cycle = area of the loop**; a clockwise loop is an engine. The specification says expressions for work done are not required except W = pΔV.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--09-aphy-medical-engine-cycle.webp" width="900" height="1050" alt="On a p-V graph the theoretical petrol cycle is two adiabatics joined by two constant-volume lines. The loop is clockwise, so it is an engine, and its area is the work per cycle: 380 J here. With 25 cycles a second in four cylinders that gives an indicated power of 38 kW." loading="lazy">
+  <figcaption>The area of the p-V loop is the work done per cycle, which gives indicated power.</figcaption>
+</figure>
+
+
 ## 3.11.2.4 Engine cycles
 
 **Four-stroke petrol engine:** induction, compression, power (a spark ignites the fuel–air mixture), exhaust. Theoretical cycle: two adiabatics joined by two constant-volume lines (heat in, heat out).

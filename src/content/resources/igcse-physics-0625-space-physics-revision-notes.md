@@ -61,6 +61,17 @@ Other links: [practice questions for this topic](/resources/igcse-physics-0625-s
 - **Seasons:** the axis is tilted. As the Earth orbits (about 365 days), each hemisphere leans towards the Sun for part of the year: Sun higher, days longer, more energy per square metre, so summer.
 - **Moon's phases:** the Moon reflects sunlight. As it orbits (about one month) you see different amounts of its lit half.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--01-seasons.webp" width="900" height="640" alt="Side view of the Earth either side of the Sun with its axis tilted 23.4 degrees, always pointing the same way. When the north leans towards the Sun a place at 45 degrees north has the Sun 68 degrees high at noon (summer); half an orbit later it is 22 degrees high (winter)." loading="lazy">
+  <figcaption>The tilted axis, not distance from the Sun, causes the seasons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--02-moon-phases.webp" width="900" height="1250" alt="The Moon is shown at eight points in its orbit with sunlight from the left; the half facing the Sun is always lit. Below, the shape seen from Earth at each point: new, crescent, half, gibbous, full, then back through gibbous, half and crescent." loading="lazy">
+  <figcaption>We see different amounts of the always-lit half as the Moon orbits.</figcaption>
+</figure>
+
+
 ## 6.1.2 The Solar System
 
 - **Members:** one star (the Sun); eight planets; minor planets (dwarf planets such as Pluto, asteroids in the asteroid belt); moons orbiting planets; smaller bodies such as comets and natural satellites.
@@ -85,6 +96,12 @@ Other links: [practice questions for this topic](/resources/igcse-physics-0625-s
 2. This is transferred to kinetic energy.
 3. More kinetic energy means higher speed. Total energy is conserved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--04-elliptical-orbit.webp" width="900" height="990" alt="An ellipse with the Sun at a focus, not the centre. A long arrow at the closest point and a short arrow at the farthest point show the planet is faster when closer. Moving towards the Sun GPE is transferred to KE; moving away KE is transferred to GPE; total energy is constant." loading="lazy">
+  <figcaption>A planet moves faster when closer to the Sun because GPE is transferred to KE.</figcaption>
+</figure>
+
+
 ### Method in steps: v = 2πr / T (Extended only)
 
 1. Convert r to metres (1 million km = 10⁹ m; 1 km = 1000 m).
@@ -92,6 +109,17 @@ Other links: [practice questions for this topic](/resources/igcse-physics-0625-s
 3. Substitute and give units.
 
 Small reminder: r = 1.5 × 10¹¹ m, T = 3.15 × 10⁷ s gives v = 3.0 × 10⁴ m/s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
+  <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--07-hubble-constant.webp" width="900" height="910" alt="A straight line through the origin of speed against distance, plotted from H0 = 2.2e-18 per second. A galaxy at 5.3e8 light-years recedes at 1.1e7 m/s. The gradient is H0 = v/d, and 1/H0 is about 1.4e10 years, an estimate of the age of the Universe." loading="lazy">
+  <figcaption>Speed is proportional to distance, and 1/H0 estimates the age of the Universe.</figcaption>
+</figure>
+
 
 ## 6.2.1 The Sun as a star
 
@@ -122,6 +150,12 @@ planetary nebula + white dwarf        supernova → nebula (hydrogen + heavier e
                                               nebula may form new stars with planets
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
+
+
 ## 6.2.3 The Universe
 
 - The Milky Way is one of many billions of galaxies; diameter about 100 000 light-years.
@@ -130,6 +164,12 @@ planetary nebula + white dwarf        supernova → nebula (hydrogen + heavier e
 - **Extended only:** CMBR is microwave radiation of a specific frequency observed at all points in space around us. It was produced shortly after the Universe formed and has been expanded into the microwave region as the Universe expanded.
 - **Extended only:** recession speed v comes from the change in wavelength (redshift). Distance d of a far galaxy comes from the brightness of a supernova in it.
 - **Extended only:** 1 / H₀ estimates the age of the Universe, which is evidence that all its matter was once at a single point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

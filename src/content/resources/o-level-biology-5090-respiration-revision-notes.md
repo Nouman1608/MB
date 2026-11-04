@@ -53,6 +53,17 @@ Only aerobic respiration needs a balanced chemical equation in this syllabus. Th
 
 **Ratio reminder.** 1 glucose : 6 oxygen : 6 carbon dioxide : 6 water. So 4 glucose molecules need 24 oxygen molecules and give 24 carbon dioxide molecules.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
+
 ## Uses of energy (10.1.2)
 
 The syllabus lists seven. Learn them as a list, then practise matching each one to a situation:
@@ -72,6 +83,12 @@ The syllabus lists seven. Learn them as a list, then practise matching each one 
 | A nerve carrying a message | Passage of electrical impulses along neurones |
 | A bird staying warm in winter | Maintenance of a constant body temperature |
 | New cells forming at a root tip | Cell division (and growth) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--01-uses-of-energy.webp" width="900" height="1100" alt="Glucose is respired and energy is released. Seven small pictures show its uses: muscle contraction, protein synthesis, cell division, active transport, growth, passage of nerve impulses and maintaining a constant body temperature (37 degrees Celsius)." loading="lazy">
+  <figcaption>Respiration releases the energy cells use for these seven jobs.</figcaption>
+</figure>
+
 
 ## Aerobic vs anaerobic: must-know distinctions
 
@@ -119,6 +136,22 @@ Describe first, then explain. "Describe" wants the pattern with data; "explain" 
 - Collect gas volume rather than counting bubbles, because bubbles vary in size.
 - Repeat each temperature at least three times and find a mean; leave out any clear anomaly.
 - Keep the tubes in the water-bath during collection so the temperature stays the same.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-respiration--01-yeast-rate-data.webp" width="900" height="1170" alt="A boiling tube of yeast and glucose stands in a water bath; a delivery tube carries gas into an upturned measuring cylinder. A graph plots the lesson rates 0.2, 0.5, 1.2, 1.8, 0.7 and 0 cm3 per minute at 10 to 60 degrees Celsius. The 40 degree rate is 3.6 times the 20 degree rate; the true optimum lies between 30 and 50 degrees." loading="lazy">
+  <figcaption>Rate rises to a peak near 40 degrees then falls to zero at 60 degrees as enzymes are denatured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-respiration--01-bubble-counting.webp" width="900" height="880" alt="Yeast in glucose solution releases gas that bubbles out of a delivery tube under water. 18 bubbles in 30 s, and the same again in the next 30 s, give 36 bubbles in 60 s: 18 x (60 / 30) = 36 bubbles per minute." loading="lazy">
+  <figcaption>Scale a 30 second bubble count up to bubbles per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--04-yeast-temperature.webp" width="900" height="1195" alt="A boiling tube of yeast and glucose stands in a water bath; a delivery tube carries carbon dioxide into a small tube of water where bubbles are counted per minute. A graph of the lesson means shows 4, 9, 18, 11 and 1 bubbles per minute at 15, 25, 35, 45 and 55 degrees Celsius; the optimum lies somewhere between 25 and 45 degrees." loading="lazy">
+  <figcaption>Rate rises to a peak then falls as enzymes are denatured at high temperature.</figcaption>
+</figure>
+
 
 ## Where respiration fits in the course
 
@@ -175,6 +208,22 @@ Describe first, then explain. "Describe" wants the pattern with data; "explain" 
 10. Differences: 1.00 + 0.50 + 0.20 + 0.00 = **1.70 dm³**.
 11. To transport lactic acid in the blood from the muscles to the liver.
 12. The enzymes that control respiration are denatured, so the reactions stop.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-respiration--02-oxygen-debt-calculation.webp" width="900" height="1000" alt="Bars show oxygen uptake of 2.10, 1.40, 0.90, 0.60, 0.40 and 0.30 dm3 per minute over six minutes after a sprint, with a dashed resting line at 0.30. The gold part above the line is the extra oxygen: 1.80, 1.10, 0.60, 0.30, 0.10 and 0.00, adding to a debt of 3.90 dm3." loading="lazy">
+  <figcaption>The oxygen debt is the total extra oxygen used above the resting rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-respiration--02-lactic-acid-buildup.webp" width="900" height="1000" alt="Heart and lungs supply oxygen to a working muscle too slowly. The muscle also respires anaerobically, lactic acid builds up and passes into the blood, and oxygen is needed afterwards: the oxygen debt (EPOC)." loading="lazy">
+  <figcaption>Oxygen cannot reach hard-working muscles fast enough, so lactic acid builds up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--05-oxygen-debt.webp" width="900" height="1290" alt="Extended. Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after." loading="lazy">
+  <figcaption>Fast heart rate moves lactic acid to the liver and fast breathing supplies the oxygen to break it down.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

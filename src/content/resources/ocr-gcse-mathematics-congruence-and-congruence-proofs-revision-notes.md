@@ -45,6 +45,12 @@ Congruent is not the same as similar. Similar shapes have the same shape but may
 
 Not accepted as proof: AAA (same shape, size may differ) and SSA, meaning two sides and a non-included angle (can give two different triangles).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--02-four-conditions.webp" width="900" height="940" alt="Four rows each show two equal triangles, the second turned or flipped. Tick marks and arcs show which sides and angles are equal for SSS, SAS (angle between the sides), ASA (side between the angles) and RHS (right angle, hypotenuse, one side)." loading="lazy">
+  <figcaption>Each of SSS, SAS, ASA and RHS is enough on its own to prove two triangles congruent.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 1. Name the triangles with matching letters, for example ABC ≅ ZXY.
@@ -70,6 +76,17 @@ Reasons to quote:
 
 Triangle 1 has sides 6 cm, 7 cm, 9 cm. Triangle 2 has sides 9 cm, 6 cm, 7 cm. All three sides match, so they are congruent (SSS). Triangle 3 has angles 50°, 60°, 70° and a 4 cm side, while triangle 4 has the same angles and a 9 cm side. They are not congruent, because AAA does not prove congruence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--04-match-letters.webp" width="900" height="770" alt="Triangle ABC and a turned copy with corners R, P and Q. Matching corners share a colour: A with R, B with P, C with Q. AB matches RP and BC matches PQ, so angle Q equals angle C, 62 degrees." loading="lazy">
+  <figcaption>Match corresponding parts from the order of the letters in the congruence statement, not from where they sit on the page.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--05-isosceles-base-angles.webp" width="900" height="830" alt="Isosceles triangle ABC with AB equal to AC and the bisector AD splitting it into two triangles. AB = AC, the two angles at A are equal and AD is common, so the triangles are congruent by SAS and angles B and C are equal. With angle A 48 degrees each base angle is 66 degrees." loading="lazy">
+  <figcaption>Bisecting the apex angle makes two congruent triangles, which proves the base angles are equal.</figcaption>
+</figure>
+
+
 ### Isosceles triangles (9.02b)
 
 If AB = AC, the angles at B and C are equal. To prove it, draw the bisector of angle A to meet BC at D. Triangles ABD and ACD have AB = AC, equal angles at A and the common side AD, so they are congruent (SAS). Then angle B = angle C.
@@ -94,6 +111,12 @@ Any other right-angled triangle with hypotenuse 10 cm and a side of 6 cm
 is congruent to it (RHS).
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--13-proof-rhs-isosceles.webp" width="900" height="790" alt="Isosceles triangle ABC with AB = AC = 17 cm and perpendicular AM = 15 cm. RHS gives BM = MC, BM² = 289 − 225 = 64, BM = 8 and BC = 16 cm." loading="lazy">
+  <figcaption>RHS proves M is the midpoint, and the 17-15-8 numbers give BC = 16 cm.</figcaption>
+</figure>
+
+
 ### Algebra with congruence
 
 If corresponding sides are 5x − 4 and 3x + 10, set them equal.
@@ -106,9 +129,31 @@ x = 7, so each side = 5(7) − 4 = 31
 
 Always substitute back into both expressions to check they agree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--03-not-enough.webp" width="900" height="1120" alt="Top: two triangles with the same angles of 40, 60 and 80 degrees but sides of 7 cm and 12 cm, so not congruent. Bottom: a base of 8 cm with a 40 degree angle at A; a 6 cm side from B meets the ray from A at two points, giving two different triangles." loading="lazy">
+  <figcaption>AAA gives similar triangles, and SSA can fit two different triangles, so neither proves congruence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--14-proof-reasons-pictures.webp" width="900" height="1010" alt="Six small diagrams give the reason to write: vertically opposite angles, common side, alternate angles, 90° corner, marked equal lengths and midpoint." loading="lazy">
+  <figcaption>Each fact in a diagram has a standard reason to quote.</figcaption>
+</figure>
+
+
 ### Proof of equal diagonal segments
 
 Lines PQ and RS cross at O. O is the midpoint of both lines. Triangles POR and QOS have PO = QO, equal vertically opposite angles at O, and RO = SO, so they are congruent (SAS). Hence PR = QS.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--11-proof-sas-midpoint.webp" width="900" height="810" alt="Lines AB and CD cross at midpoint M. AM = BM, CM = DM and the vertically opposite angles at M are equal, so AMC ≅ BMD by SAS and AC = BD." loading="lazy">
+  <figcaption>The SAS proof for two lines crossing at a shared midpoint.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--12-proof-asa-parallelogram.webp" width="900" height="810" alt="Parallelogram ABCD with diagonal AC. Alternate angles at A and C are equal in two pairs and AC is common, so ABC ≅ CDA by ASA and opposite sides are equal." loading="lazy">
+  <figcaption>The ASA proof splits a parallelogram along a diagonal.</figcaption>
+</figure>
+
 
 ## Proof templates
 

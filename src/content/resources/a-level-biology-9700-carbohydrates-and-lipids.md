@@ -70,6 +70,12 @@ The two ring forms differ only at **carbon 1**:
 
 **How to draw them.** Draw a hexagon with the oxygen at the top right corner. Number the carbons clockwise from the right-hand corner (carbon 1) round to carbon 5 at the top left. Put CH₂OH above carbon 5. Then add H and OH groups: on carbon 2 OH below, on carbon 3 OH above, on carbon 4 OH below. Finally, on carbon 1, put OH **below** for α or **above** for β.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp" width="900" height="870" alt="Two ring drawings of glucose, each with five carbons and one oxygen, numbered 1 to 5 clockwise from the right-hand carbon, with CH2OH on carbon 5. OH on carbons 2 and 4 is below the ring and on carbon 3 above, in both. In alpha-glucose the OH on carbon 1 is below the ring and H above; in beta-glucose the OH is above and H below. Both are C6H12O6." loading="lazy">
+  <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
+</figure>
+
+
 ## Reducing and non-reducing sugars (outcome 4)
 
 You need to state these facts:
@@ -78,6 +84,12 @@ You need to state these facts:
 - **Sucrose is a non-reducing sugar.** It does not give a positive Benedict's test unless it has first been hydrolysed.
 
 Background: in sucrose the glycosidic bond uses the carbon atoms that would otherwise make glucose and fructose reducing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--09-biochemical-tests.webp" width="900" height="1300" alt="Four pairs of test tubes: Benedict’s (heated) stays blue without reducing sugar and turns brick-red with it; iodine stays orange-brown without starch and turns blue-black with it; biuret stays blue without protein and turns purple with it; in the emulsion test, ethanol then water stays clear without lipid and turns cloudy white with it. A strip shows the Benedict’s colours blue, green, yellow, orange, brick-red with more reducing sugar. A three-step flow shows the non-reducing sugar test: boil with dilute HCl, neutralise with sodium hydrogencarbonate, then Benedict’s and heat." loading="lazy">
+  <figcaption>Each test has a clear colour change; non-reducing sugars need acid hydrolysis first.</figcaption>
+</figure>
+
 
 ## Condensation: making glycosidic bonds (outcome 5)
 
@@ -101,6 +113,17 @@ A **condensation reaction** joins two molecules and releases one molecule of wat
 3. Mr of chain = (1,500 × 180) − (1,499 × 18) = 270,000 − 26,982 = **243,018**.
 
 Likewise maltose and sucrose: (2 × 180) − 18 = 342 (C₁₂H₂₂O₁₁).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
+  <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
+</figure>
+
 
 ## Hydrolysis: breaking glycosidic bonds (outcome 6)
 
@@ -131,6 +154,12 @@ Starch is the energy store in plants. It is a mixture of two polysaccharides, bo
 - **Compact.** Helices and branches pack many glucose units into a small space.
 - **Insoluble.** Large polysaccharides do not dissolve, so they do not lower the water potential of the cell. Storing the same glucose as free glucose would draw water in by osmosis.
 - **Branching gives many ends.** Enzymes remove glucose from the ends of chains. More branches mean more ends, so glucose can be released quickly. Glycogen, the most branched, suits animals, which have a higher demand for rapid energy release than plants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
+  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
+</figure>
+
 
 ## Cellulose (outcome 8)
 
@@ -186,6 +215,17 @@ Oleic acid (C₁₈H₃₄O₂) has two fewer H atoms than stearic acid (C₁₈
 2. Mass of glycogen = 37,000 ÷ 17 = 2,176 g = **2.18 kg** (3 s.f.).
 
 Carbohydrate storage needs more than twice the mass.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
+  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--07-triglyceride-phospholipid.webp" width="900" height="1300" alt="Top: a triglyceride is a glycerol backbone of three carbons, each joined by an ester bond (O-C=O) to a fatty acid tail; two tails are straight (saturated) and one has a C=C double bond that kinks it. Three ester bonds release three water molecules. Bottom: a phospholipid has glycerol with two fatty acid tails and a phosphate head in place of the third fatty acid; the head is hydrophilic and the tails hydrophobic." loading="lazy">
+  <figcaption>Both lipids are built on glycerol; phospholipids swap one fatty acid for a hydrophilic phosphate.</figcaption>
+</figure>
+
 
 ## Phospholipids (outcome 11)
 

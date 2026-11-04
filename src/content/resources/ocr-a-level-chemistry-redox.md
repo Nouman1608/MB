@@ -37,6 +37,12 @@ Every H432 topic is linked from the [OCR chemistry hub](/boards/ocr/a-level/chem
 
 The terms oxidising agent and reducing agent, and building equations from half-equations, belong to [5.2.3](/resources/ocr-a-level-chemistry-redox-and-electrode-potentials/) later in the course. This guide does not rely on them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--03-series-ladder.webp" width="900" height="1120" alt="Ten half-equations are ranked from E° +1.51 V (MnO4-/Mn2+) at the top to -2.37 V (Mg2+/Mg) at the bottom. The left-hand species gain electrons and are the oxidising agents, strongest at the top; the right-hand species give electrons and are reducing agents, strongest at the bottom." loading="lazy">
+  <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
+</figure>
+
+
 ## 2.1.5(a): Rules for oxidation numbers
 
 An oxidation number shows how many electrons an atom has lost (positive) or gained (negative) compared with the uncombined element, counting every bond as if it were ionic. Apply these rules in order; when two clash, the higher one wins.
@@ -209,6 +215,22 @@ Every metal-with-dilute-acid reaction follows this pattern: the metal is oxidise
 
 For mole and gas-volume methods, see [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/). For the acid formulae and neutralisation, see [Acids](/resources/ocr-a-level-chemistry-acids/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
+  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--07-quantitative-electrolysis.webp" width="900" height="1195" alt="A cell with copper electrodes carries 2.00 A for 3860 s. Charge Q = It = 7720 C, moles of electrons = 7720 / 96 500 = 0.0800 mol, moles of copper = 0.0800 / 2 = 0.0400 mol, and mass = 0.0400 x 63.5 = 2.54 g." loading="lazy">
+  <figcaption>Charge to moles of electrons to moles of copper to mass: 2.00 A for 3860 s deposits 2.54 g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--09-fuel-cells.webp" width="900" height="1300" alt="Hydrogen is fed to the negative electrode and oxygen to the positive electrode, with electrons flowing through the lamp circuit. In the alkaline cell OH- ions move through the electrolyte towards the hydrogen electrode and water forms there; in the acidic cell H+ ions move towards the oxygen electrode and water forms there. Both give 2H2 + O2 to 2H2O." loading="lazy">
+  <figcaption>A fuel cell is fed continuously with hydrogen and oxygen and gives 2H2 + O2 -&gt; 2H2O, with different ions carrying charge in alkali and acid.</figcaption>
+</figure>
+
+
 ## 2.1.5(f): Interpreting unfamiliar redox reactions
 
 Outcome (f) asks you to read any redox equation and make predictions from oxidation numbers and electron loss or gain; nitric acid and concentrated sulfuric acid reactions may appear. A routine:
@@ -241,6 +263,12 @@ Tin(II) chloride solution reacts with iron(III) chloride solution. Tin ends up a
 2. Fe: +3 to +2, so each Fe gains 1 electron.
 3. To balance electrons, 1 Sn needs 2 Fe. The ratio SnCl₂ : FeCl₃ is **1 : 2**.
 4. Equation: **SnCl₂ + 2FeCl₃ → SnCl₄ + 2FeCl₂**. Check chlorine: 2 + 6 = 8 on the left; 4 + 4 = 8 on the right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--08-lithium-cell.webp" width="900" height="1000" alt="Lithium is the negative electrode and CoO2 the positive electrode, with Li+ ions moving through the electrolyte and electrons through the external lamp circuit from lithium to CoO2. At the negative electrode Li loses an electron (0 to +1); at the positive electrode cobalt is reduced from +4 to +3. Recharging reverses both reactions." loading="lazy">
+  <figcaption>On discharge lithium is oxidised and cobalt is reduced; recharging reverses both reactions.</figcaption>
+</figure>
+
 
 ## Common errors
 

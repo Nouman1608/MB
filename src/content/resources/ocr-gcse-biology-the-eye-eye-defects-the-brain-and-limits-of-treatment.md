@@ -66,6 +66,12 @@ The iris has circular muscle fibres and radial muscle fibres. Bright light: the 
 
 A diameter fall of under three-quarters gives a far larger fall in the area of the opening.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Extended panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
+</figure>
+
+
 ### Focusing: accommodation
 
 Light from an object must be focused as a sharp image on the retina. The cornea does most of the bending, and the lens makes the fine adjustment by changing shape.
@@ -78,6 +84,27 @@ Light from an object must be focused as a sharp image on the retina. The cornea 
 | Bending of light | Greater | Smaller |
 
 Light from near objects is spreading apart, so it must be bent more to meet on the retina. Distant objects send almost parallel rays that need less bending. Ligaments are not muscle; the muscle is in the ciliary body.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--11-ocr-eye-structure.webp" width="900" height="830" alt="Labels the cornea, iris, pupil, lens, ciliary body, suspensory ligaments, retina and optic nerve in their positions." loading="lazy">
+  <figcaption>Labelled section of the eye.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--12-ocr-accommodation.webp" width="900" height="990" alt="For a close object the muscle shortens, ligaments are loose and the lens is fatter. For a distant object the muscle lengthens, ligaments are taut and the lens is flatter." loading="lazy">
+  <figcaption>How ciliary muscle, ligaments and lens change for near and far objects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--15-ocr-pupil-area.webp" width="900" height="900" alt="Dim light: 7.6 mm diameter, 45.4 mm squared. Bright light: 2.2 mm, 3.80 mm squared. The diameter falls 71.1 percent but the area falls 11.9 times." loading="lazy">
+  <figcaption>Pupil diameters drawn to scale with their areas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--01-rods-cones-colour-blindness.webp" width="900" height="1050" alt="Retina receptor cells: one rod (dim light, no colour) and three cone types (red, green, blue sensitive) for bright light and colour. Normal vision shows red and green patches as different; with one faulty cone type they look alike. Inherited; filters help but cones are not repaired." loading="lazy">
+  <figcaption>Rod and cone cells, and what colour blindness does to red and green.</figcaption>
+</figure>
+
 
 ## B3.1e: eye defects and how they are overcome
 
@@ -110,6 +137,22 @@ Colour blindness is an inherited condition in which one or more types of cone ce
 
 Overcoming it: there is no cure that restores the faulty cones. Colour-filter lenses or glasses can help some people tell certain colours apart, and people adapt by using other clues such as position and brightness. State clearly that this is help with the problem, not repair of the receptors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--13-ocr-eye-defects.webp" width="900" height="1260" alt="Short-sight focuses in front of the retina and a concave lens corrects it. Long-sight focuses behind the retina and a convex lens corrects it." loading="lazy">
+  <figcaption>Ray diagrams for short-sight and long-sight with and without corrective lenses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--02-near-point-age-graph.webp" width="900" height="800" alt="Line graph of near point (cm) against age (years): 8 at 10, 12 at 30, 50 at 50, 100 at 60. The 30 to 50 segment is highlighted: +317%." loading="lazy">
+  <figcaption>The near point moves away much faster after age 30 (lesson data).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--03-laser-lens-replacement.webp" width="900" height="870" alt="Row 1: parallel rays focus in front of the retina when the cornea is too curved; laser reshaping flattens it and the focus lands on the retina. Row 2: rays from a near object focus behind the retina with a weak lens; a stronger replacement lens puts the focus on the retina." loading="lazy">
+  <figcaption>Laser surgery and lens replacement move the focus onto the retina.</figcaption>
+</figure>
+
+
 ## B3.1f: the brain
 
 The brain is part of the central nervous system. Different regions have different jobs.
@@ -130,6 +173,12 @@ The hypothalamus and pituitary link the nervous and hormone systems: the hypotha
 2. Clumsy movement and poor balance are signs of cerebellum damage.
 3. Breathing and heart rate seem normal, so the medulla is probably unaffected.
 4. Answer: the **cerebellum**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--14-ocr-brain-regions.webp" width="900" height="800" alt="Cerebrum for thought and voluntary movement, cerebellum for balance, medulla for heart and breathing rate, hypothalamus for temperature and water balance, and pituitary as master gland." loading="lazy">
+  <figcaption>Side view of the brain with five labelled regions.</figcaption>
+</figure>
+
 
 ## B3.1g: difficulties of investigating brain function (Higher Tier only)
 
@@ -155,6 +204,12 @@ For these reasons treatments for conditions such as Parkinson's disease often re
 1. Neurones in the spinal cord have limited ability to repair themselves, so the broken pathway may not regrow.
 2. The cord is surrounded by bone and is delicate, so reaching it risks further, irreversible damage to the cord and nearby tissue.
 3. Impulses cannot pass the damaged region, so muscles below it may not receive them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--04-spinal-injury-limits.webp" width="900" height="930" alt="Brain, seven vertebrae and spinal cord with a break. Impulses travel down the cord and stop at the break; the muscle below receives none. Neurones repair poorly and the cord sits inside bone so surgery risks more damage." loading="lazy">
+  <figcaption>Why a broken spinal pathway may not recover (Higher Tier content).</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -92,6 +92,12 @@ SR = standard rate, AR = actual rate, SH = standard hours for actual output, AH 
 Positive answer = F, negative = A, with the formulas written as above. Check direction with common sense
 too: paying more, using more or selling fewer is adverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--11-price-usage-variance.webp" width="900" height="940" alt="Wool was bought at 8.70 dollars against a standard 9.00, saving 0.30 on all 7,050 kilograms: 2,115 favourable. 150 kilograms more than the standard 6,900 were used, worth 1,350 at the standard price: adverse. The axes are zoomed in." loading="lazy">
+  <figcaption>Price variance uses actual quantity; usage variance uses standard price.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 1. Divide each actual cost by the actual kg or hours to get AP and AR.
@@ -196,6 +202,17 @@ overheads goes in as one separate line.
     may fall.
 11. Each extra unit sold also brings standard variable cost; only the contribution changes profit.
 12. A business doing one-off or bespoke work, because there is no repeated unit to set a standard for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--10-profit-variance-waterfall.webp" width="900" height="806" alt="Budgeted profit of 27,200 dollars becomes actual profit of 31,749: sales price 6,900 favourable, sales volume 3,300 adverse, wool price 2,115 favourable, wool usage 1,350 adverse, labour rate 1,656 adverse and labour efficiency 1,840 favourable. Fixed overheads match the budget." loading="lazy">
+  <figcaption>Favourable variances raise profit above budget and adverse ones lower it.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

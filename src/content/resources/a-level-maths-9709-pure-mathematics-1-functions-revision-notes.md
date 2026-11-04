@@ -68,6 +68,12 @@ For full explanations, see the [Functions study guide](/resources/a-level-mathem
 | k/(x + b) with k > 0, for x ≥ c where c > −b | 0 < f(x) ≤ k/(c + b) |
 | a sin x + b or a cos x + b (a > 0), full cycle | b − a ≤ f(x) ≤ b + a |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--01-range-depends-on-domain.webp" width="900" height="830" alt="Graph of f(x) = x squared - 10x + 29. The whole parabola has its turning point at (5, 4) but the domain x at least 6 uses only the solid right-hand part, starting at (6, 5). The range is therefore f(x) at least 5, not at least 4." loading="lazy">
+  <figcaption>Restricting the domain can change the range, because the lowest point may fall outside it.</figcaption>
+</figure>
+
+
 ## 3. Composite functions
 
 **The condition.** The composite gf can only be formed when the **range of f lies within the domain of g**. Check this before you write gf(x).
@@ -85,6 +91,17 @@ For full explanations, see the [Functions study guide](/resources/a-level-mathem
 - gf(x) = 12/(2x + 1 + 3) = 12/(2x + 4) = **6/(x + 2)** for x ≥ 1.
 - gf(1) = 2 and gf(x) → 0 as x grows, so the range of gf is **0 < gf(x) ≤ 2**.
 - Range of g is 0 < g(x) ≤ 12. The domain of f is x ≥ 1, and values such as g(x) = 0.5 are not in it. So **fg cannot be formed**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--04-composite-domain.webp" width="900" height="780" alt="f(x) = root(x - 1) needs its input to be at least 1. g(x) = x squared - 10 gives an output of at least 1 only when x is at most minus root 11 or at least root 11, so fg has that domain. The graph of g is solid only where g(x) is at least 1." loading="lazy">
+  <figcaption>A composite is only defined where the inner function gives an output the outer function accepts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--03-fg-not-gf.webp" width="900" height="890" alt="With f(x) = 3x - 5 and g(x) = x squared + 2, fg(x) = 3x squared + 1 and gf(x) = (3x - 5) squared + 2 are different curves. They meet only at x = (15 - root 69)/6, about 1.12, and x = (15 + root 69)/6, about 3.88." loading="lazy">
+  <figcaption>Composing in a different order gives a different function.</figcaption>
+</figure>
+
 
 ## 4. One-one functions and inverses
 
@@ -123,6 +140,17 @@ So **f⁻¹(x) = −2 − √(3 − x) for x ≤ 3**. Check: f(−4) = −1 and 
 
 **Inverse trig functions.** sin⁻¹x, cos⁻¹x and tan⁻¹x (section 1.5) are inverse functions on restricted domains. For example, cos x on 0 ≤ x ≤ π is one-one, so cos⁻¹x has domain −1 ≤ x ≤ 1 and range 0 ≤ cos⁻¹x ≤ π.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-functions-revision-notes--02-fn-inverse-negative-root.webp" width="900" height="950" alt="f(x) = 3 - (x+2) squared for x at most -2 and its inverse -2 - sqrt(3 - x) for x at most 3 are mirror images in y = x. (-4, -1) on f maps to (-1, -4). The negative root is chosen because x + 2 is at most 0." loading="lazy">
+  <figcaption>Because x + 2 is zero or negative, the inverse takes the negative square root.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--02-horizontal-line-test.webp" width="900" height="960" alt="Two graphs of y = x squared. For all real x a horizontal line crosses twice (x = -2 and 2), so the function is many-one with no inverse. With x at least 0 the same line crosses once, so it is one-one and has an inverse." loading="lazy">
+  <figcaption>A horizontal line cutting the graph more than once means no inverse exists.</figcaption>
+</figure>
+
+
 ## 5. The graph of f⁻¹
 
 - The graph of y = f⁻¹(x) is the **reflection of y = f(x) in the line y = x**.
@@ -130,6 +158,12 @@ So **f⁻¹(x) = −2 − √(3 − x) for x ≤ 3**. Check: f(−4) = −1 and 
 - Points swap coordinates: (a, b) on f becomes (b, a) on f⁻¹. An end point such as (−2, 3) on f becomes (3, −2) on f⁻¹.
 - Asymptotes swap too: y = 2 on f becomes x = 2 on f⁻¹.
 - **Increasing functions only:** if f is increasing, the graphs of f and f⁻¹ can only meet on y = x, so solve f(x) = x instead of f(x) = f⁻¹(x). This can fail for a decreasing function.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--05-inverse-reflection.webp" width="900" height="980" alt="The curve f(x) = 3 - root(x + 1) for x at least -1 and its inverse f^-1(x) = (3 - x) squared - 1 for x at most 3 are mirror images in the line y = x. Point (8, 0) on f becomes (0, 8) on the inverse and the end point (-1, 3) becomes (3, -1). The domain of the inverse is the range of f and vice versa." loading="lazy">
+  <figcaption>The graph of f^-1 is the graph of f reflected in y = x, with domain and range swapped.</figcaption>
+</figure>
+
 
 ## 6. Transformations of y = f(x)
 
@@ -164,6 +198,27 @@ In the exam, write translation vectors as column vectors (x-component on top).
 - On y = f(x − 4) + 2 it moves to **(6, 7)**.
 
 For a graph given only by its features (intercepts, turning points, asymptotes), track each feature separately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-functions-revision-notes--01-fn-order-matters.webp" width="900" height="950" alt="The dashed parabola y = x squared - 4x + 1 has minimum (2, -3). Reflecting in the x-axis then translating up 3 gives a maximum at (2, 6); translating up 3 then reflecting gives a maximum at (2, 0). The curves differ." loading="lazy">
+  <figcaption>Reflecting then translating is not the same as translating then reflecting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--01-four-building-blocks.webp" width="900" height="1170" alt="Four graphs of the cubic x^2(x-3) with its dashed original: f(x)+2 moves it up 2, f(x-1) right 1, 3f(x) makes it three times as tall and f(2x) half as wide, with the image of the minimum labelled in each." loading="lazy">
+  <figcaption>Outside the brackets acts on y as expected; inside acts on x and does the opposite.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--02-reflections.webp" width="900" height="880" alt="y = -f(x) reflects the cubic in the x-axis so the maximum becomes a minimum and vice versa, while (3, 0) stays put. y = f(-x) reflects in the y-axis so the minimum moves to (-2, -4) and is still a minimum." loading="lazy">
+  <figcaption>Reflections are stretches with scale factor -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--03-tracking-points.webp" width="900" height="1050" alt="The cubic x^2(x-3) and the curve y = -2f(x+1)+5 with gold arrows carrying (0,0), (2,-4) and (3,0) to (-1,5), (1,13) and (2,5). The y-intercept (0,9) is marked separately because it is found from the new equation." loading="lazy">
+  <figcaption>Track each key point through the map (x, y) to (x-1, -2y+5).</figcaption>
+</figure>
+
 
 ## 7. Must-know distinctions
 

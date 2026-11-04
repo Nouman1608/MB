@@ -56,6 +56,12 @@ The Kekulé model is cyclohexa-1,3,5-triene: three localised C=C and three C–C
 
 You can draw benzene as the Kekulé hexagon or as a hexagon with a circle, as appropriate in equations and mechanisms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--03-hydrogenation-energy.webp" width="900" height="960" alt="Energy levels: cyclohexane at the bottom, benzene + 3H2 208 kJ/mol above, hypothetical triene + 3H2 360 kJ/mol above. The 152 kJ/mol gap is benzene extra stability from delocalisation." loading="lazy">
+  <figcaption>Benzene releases 152 kJ/mol less energy than three C=C bonds would, so it is more stable. (All boards)</figcaption>
+</figure>
+
+
 ## 18.2 The delocalised model in four lines
 
 - Each carbon forms three σ-bonds (two C–C, one C–H) in a plane at 120°.
@@ -72,6 +78,17 @@ You can draw benzene as the Kekulé hexagon or as a hexagon with a circle, as ap
 | Conditions | Room temperature, no catalyst | Needs a halogen carrier such as FeBr₃ |
 | Reaction type | Electrophilic addition | Electrophilic substitution |
 | Why that type | — | Substitution keeps the stable delocalised ring |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--01-benzene-orbitals.webp" width="900" height="1230" alt="From above, six carbons form a flat regular hexagon, each bonded to one hydrogen, with 120 degree bond angles. From the side, p orbitals above and below each carbon overlap sideways into a ring of pi electron density above and below the plane, so six p electrons are delocalised." loading="lazy">
+  <figcaption>Benzene is flat with 120 degree angles and a delocalised pi ring above and below the plane. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--02-bond-lengths.webp" width="900" height="880" alt="The Kekule model would have 3 short (0.134 nm) and 3 long (0.154 nm) bonds. Real benzene has six equal bonds of 0.140 nm, plotted between the C=C and C-C values on a number line." loading="lazy">
+  <figcaption>All six benzene C-C bonds are equal, between a single and a double bond in length. (All boards)</figcaption>
+</figure>
+
 
 ## 18.4 Reaction summary
 
@@ -113,6 +130,12 @@ You can draw benzene as the Kekulé hexagon or as a hexagon with a circle, as ap
 - Fuming sulfuric acid supplies SO₃; it is not the same as concentrated sulfuric acid.
 - AlCl₃ must be anhydrous: water reacts with it and the catalyst is lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--04-nitration-mechanism.webp" width="900" height="1260" alt="Four stages: HNO3 and H2SO4 make NO2+; a curly arrow from inside the ring to N; a horseshoe intermediate with + and the attacked carbon bearing H and NO2; a second arrow from the C-H bond restores the ring, giving nitrobenzene and H+." loading="lazy">
+  <figcaption>The ring attacks NO2+, forms a positive intermediate, then loses H+ to restore the ring. (All boards)</figcaption>
+</figure>
+
+
 ## 18.6 Phenol with bromine water
 
 - Conditions: room temperature, bromine water, no catalyst.
@@ -153,6 +176,22 @@ You can draw benzene as the Kekulé hexagon or as a hexagon with a circle, as ap
 11. The attacked carbon is no longer part of the delocalised system, so the full delocalisation of six π-electrons over six carbons is lost.
 12. 72.0 ÷ 78.0 × 100 = **92.3%**; the high carbon content leads to incomplete combustion and a smoky flame.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--07-phenol-bromine.webp" width="900" height="960" alt="Benzene with bromine water gives no reaction, so the tube stays orange. Phenol decolourises bromine water at room temperature and gives a white precipitate of 2,4,6-tribromophenol; the oxygen lone pair feeds electron density into the ring." loading="lazy">
+  <figcaption>Phenol, unlike benzene, decolourises bromine water at room temperature to give a white precipitate. (Edexcel and OCR)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--08-chlorine-uv.webp" width="900" height="1190" alt="With UV light, benzene adds chlorine to the ring to give C6H6Cl6, losing delocalisation, while methylbenzene is substituted in the CH3 side chain and the ring stays. Further substitution raises Mr from 92.0 to 126.5, 161.0 and 195.5." loading="lazy">
+  <figcaption>UV chlorine adds to the benzene ring but substitutes only the side chain of methylbenzene. (OxfordAQA only)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "all bonds are the same" without giving the data or saying the length is intermediate.
@@ -165,6 +204,12 @@ You can draw benzene as the Kekulé hexagon or as a hexagon with a circle, as ap
 - An intermediate with the horseshoe over six carbons or with no hydrogen on the sp³ carbon.
 - Writing 2,4,6-tribromophenol as a monobromo product, or leaving 3HBr out of the equation.
 - Giving "orange to colourless" for phenol and forgetting the white precipitate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--05-electrophiles.webp" width="900" height="1130" alt="Five rows: reagents, the electrophile formed, and the product. Nitration (NO2+) and acylation (RCO+) are in all boards; alkylation (R+) is OCR, Edexcel and OxfordAQA; bromination (Br+) is OCR and Edexcel; sulfonation (SO3) is Edexcel and OxfordAQA." loading="lazy">
+  <figcaption>Each electrophilic substitution replaces one ring hydrogen, but the electrophile depends on the reagents. (Mixed, board-tagged)</figcaption>
+</figure>
+
 
 ## Official syllabus
 

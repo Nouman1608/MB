@@ -51,6 +51,12 @@ Rearranged forms:
 
 Prefix reminders: 1 kJ = 1,000 J, 1 kW = 1,000 W, 1 MJ = 1,000,000 J.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces--04-work-triangle-and-units.webp" width="900" height="1010" alt="A W, F, s formula triangle with the three rearrangements and worked values 70 x 18 = 1260 J, 1260 / 18 = 70 N and 450 / 36 = 12.5 m. 1 N m = 1 J, 3.5 kJ = 3500 J, 2 MJ = 2 000 000 J." loading="lazy">
+  <figcaption>Cover the unknown in the triangle; 1 N m is 1 J.</figcaption>
+</figure>
+
+
 ## Method in steps: work done and power
 
 1. Write down what you are given with units. Convert kJ, km, minutes and so on into J, m and s.
@@ -60,6 +66,17 @@ Prefix reminders: 1 kJ = 1,000 J, 1 kW = 1,000 W, 1 MJ = 1,000,000 J.
 5. Substitute, calculate, and give the unit. Round sensibly (usually to the same significant figures as the least precise data, or as the question asks).
 6. Ask whether the size is sensible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--05-work-done.webp" width="900" height="690" alt="A 40 N force arrow pushes a crate 6 m, shown by a dimension line. Work done is 40 x 6 = 240 J, the energy transferred." loading="lazy">
+  <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--06-power-graph.webp" width="900" height="810" alt="Energy against time graph. A 400 W motor reaches 6000 J in 15 s. A 200 W motor needs 30 s for the same energy. A steeper line means more power." loading="lazy">
+  <figcaption>Power is energy transferred per second.</figcaption>
+</figure>
+
+
 ## Work done: points to remember
 
 - No movement means no work done by that force.
@@ -67,6 +84,22 @@ Prefix reminders: 1 kJ = 1,000 J, 1 kW = 1,000 W, 1 MJ = 1,000,000 J.
 - Work done by a force lifting at steady speed equals the gain in gravitational potential energy.
 - Work done against friction at steady speed goes to thermal energy stores. The object and the surface warm up.
 - Work done by a braking force equals the kinetic energy removed, so braking force × braking distance = ½ × m × v² when the vehicle stops.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces--01-braking-work-energy.webp" width="900" height="940" alt="A car of 1200 kg at 15 m/s is stopped by a 6000 N brake force over 22.5 m. Its 135000 J of kinetic energy is transferred to thermal stores. W = F x s = 135000 J." loading="lazy">
+  <figcaption>Work done by the brakes equals the kinetic energy removed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces--01-work-energy-destinations.webp" width="900" height="1045" alt="Four rows: lifting at steady speed gives energy to the gravitational potential store; speeding up increases the kinetic store; pulling against friction at constant speed warms the object and surface; braking lowers the kinetic store and raises thermal stores." loading="lazy">
+  <figcaption>Work done equals the energy transferred, and where it goes depends on what the force does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces--02-lift-work-equals-gpe.webp" width="900" height="830" alt="A 4.5 kg bucket lifted 3.2 m at steady speed needs a 45 N force equal to its weight. Work done 45 x 3.2 = 144 J equals the GPE gained 4.5 x 10 x 3.2 = 144 J." loading="lazy">
+  <figcaption>Lifting at steady speed: work done equals gravitational potential energy gained (144 J).</figcaption>
+</figure>
+
 
 ## Energy transfers at a glance
 
@@ -76,6 +109,12 @@ Prefix reminders: 1 kJ = 1,000 J, 1 kW = 1,000 W, 1 MJ = 1,000,000 J.
 | Speed up an object | Kinetic |
 | Overcome friction at steady speed | Thermal (object and surroundings) |
 | Stop a moving object using friction | Thermal (kinetic store decreases) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--04-kinetic-energy-graph.webp" width="900" height="880" alt="Graph of Ek in kJ against speed for a 1500 kg car. Ek is 300 kJ at 20 m/s and 1200 kJ at 40 m/s, so doubling speed gives four times the energy." loading="lazy">
+  <figcaption>Because v is squared, doubling speed quadruples kinetic energy.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -126,6 +165,12 @@ P = W ÷ t = 10,800 ÷ 45 = 240 W
 | Distance along the line of action | Total distance travelled | Only the movement along the force counts |
 | N m as work | N m as a moment | Here N m means joules of work done |
 | Energy "used up" | Energy transferred | Energy is transferred to other stores, not destroyed |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces--03-work-force-along-movement.webp" width="900" height="970" alt="A trolley pushed by 85 N for 6.4 m along the force has 544 J of work done. A suitcase carried sideways 30 m by a 120 N upward force has 0 m along the force, so 0 J." loading="lazy">
+  <figcaption>Only movement along the line of action of the force counts as work.</figcaption>
+</figure>
+
 
 ## Explaining power with examples
 

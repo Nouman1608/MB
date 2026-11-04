@@ -55,6 +55,12 @@ Pattern:  2M(s) + 2H₂O(l) → 2MOH(aq) + H₂(g)
 
 Every Group 1 metal forms a 1+ ion, so the hydroxide is always MOH.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp" width="900" height="900" alt="Three beakers show lithium fizzing steadily, sodium fizzing and possibly melting into a ball, and potassium igniting the hydrogen. Hydrogen bubbles rise in each and the solution becomes alkaline. Reactivity increases down the group; melting point decreases and density increases." loading="lazy">
+  <figcaption>Group I metals react with cold water to give hydrogen and an alkaline solution, more vigorously down the group.</figcaption>
+</figure>
+
+
 ## 2.2 Evidence for the Group 1 trend
 
 | | Lithium | Sodium | Potassium |
@@ -72,6 +78,12 @@ Every Group 1 metal forms a 1+ ion, so the hydroxide is always MOH.
 2. Give a comparative observation for at least two metals ("potassium fizzes faster than lithium").
 3. Link it: faster reaction = more reactive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-group-1-and-group-7--02-alkali-metals-in-air.webp" width="900" height="910" alt="Freshly cut lithium, sodium and potassium are shiny. After the same short time in air, lithium has tarnished only a little, sodium more, and potassium almost completely, showing reactivity increases down the group. The dull layer is the oxide. They are stored under oil, and when heated they burn: 4Li + O2 gives 2Li2O and 4Na + O2 gives 2Na2O. The amount of tarnish drawn is illustrative." loading="lazy">
+  <figcaption>Tarnishing speed in air is the second piece of evidence that reactivity increases down Group 1.</figcaption>
+</figure>
+
+
 ## 2.3 Predicting other alkali metals
 
 Continue the trend, and say its direction first.
@@ -86,6 +98,12 @@ Continue the trend, and say its direction first.
 
 Products and formulae follow the family pattern exactly. Physical trends are general, not perfect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-group-1-and-group-7--01-caesium-prediction.webp" width="900" height="1000" alt="Melting points of lithium, sodium, potassium and rubidium are 181, 98, 63 and 39 degrees Celsius. The falls between them are 83, 35 and 24, getting smaller, so caesium should melt a little under 24 degrees below rubidium: the predicted band is 25 to 35 degrees Celsius and the actual value is 28. A second chart shows densities: lithium, sodium and potassium are below water at 1.00 g per cubic centimetre so they float, while rubidium is 1.53, so caesium is predicted to sink." loading="lazy">
+  <figcaption>Smaller and smaller falls in melting point let you predict caesium, and rising density predicts that it sinks.</figcaption>
+</figure>
+
+
 ## 2.4C Explaining the Group 1 trend (Paper 2 only)
 
 Configurations: Li 2.1, Na 2.8.1, K 2.8.8.1.
@@ -98,6 +116,17 @@ Configurations: Li 2.1, Na 2.8.1, K 2.8.8.1.
 4. So the outer electron is **lost more easily**: more reactive.
 
 Key equation: `K → K⁺ + e⁻`
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-group-1-and-group-7--04-halogen-shells-paper2.webp" width="900" height="780" alt="Paper 2 only. Electron shell diagrams for fluorine 2.7, chlorine 2.8.7, bromine 2.8.18.7 and iodine 2.8.18.18.7, each with seven outer electrons in gold and an incoming electron arrow. Down the group the outer shell is further from the nucleus and there are more inner shells shielding it, so the attraction for an incoming electron is weaker, an electron is gained less easily and reactivity decreases." loading="lazy">
+  <figcaption>Why a halogen gains an electron less easily down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
 
 ## 2.5 Halogen physical properties
 
@@ -115,6 +144,12 @@ Down the group:
 - gas → liquid → solid
 - melting and boiling points increase (bigger molecules, stronger intermolecular forces; point 1.48)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
+
 ## 2.6 Predicting other halogens
 
 | | Fluorine (above Cl) | Astatine (below I) |
@@ -123,6 +158,12 @@ Down the group:
 | Colour | Paler than chlorine (pale yellow) | Darker than iodine (black) |
 | Boiling point | Well below −34 °C | Above 184 °C |
 | Reactivity | Most reactive halogen | Less reactive than iodine |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-group-1-and-group-7--03-fluorine-prediction.webp" width="900" height="910" alt="Bar chart of boiling points of chlorine (minus 34 degrees Celsius), bromine (59) and iodine (184). The rises are 93 and 125. Going up the group from chlorine, the boiling point should fall by a similar large amount, so fluorine is predicted to be well below minus 34, about minus 120 or lower, hence a gas; its actual value is minus 188. Colours get darker down the group: fluorine pale yellow, chlorine yellow-green, bromine red-brown, iodine grey-black. At 25 degrees Celsius chlorine is a gas, bromine a liquid and iodine a solid." loading="lazy">
+  <figcaption>Extend the boiling-point trend upwards to predict that fluorine is a pale gas with a very low boiling point.</figcaption>
+</figure>
+
 
 ## 2.7 Displacement: the evidence for the Group 7 trend
 
@@ -162,6 +203,17 @@ So Z contains iodide ions (e.g. potassium iodide).
 If chlorine had given orange and bromine no change, Z would contain bromide ions.
 
 In electron terms, the halogen gains electrons (reduced, the oxidising agent) and the halide ion loses electrons (oxidised). These terms come from point 2.20.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-group-1-and-group-7--05-displacement-electrons.webp" width="900" height="860" alt="Chlorine water added to iodide ions: Cl2 plus 2I- gives 2Cl- plus I2, balanced for atoms and charge (minus 2 on each side). Each iodide ion loses an electron and is oxidised to iodine; chlorine gains the two electrons and is reduced to two chloride ions, so chlorine is the oxidising agent. The potassium ions are unchanged spectators." loading="lazy">
+  <figcaption>The displacement is an electron transfer from iodide ions to chlorine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
 
 ## 2.8C Explaining the Group 7 trend (Paper 2 only)
 

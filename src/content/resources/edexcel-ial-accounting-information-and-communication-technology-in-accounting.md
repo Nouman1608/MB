@@ -148,6 +148,17 @@ The weekly report shows 53 tubes sold at 8.00 each, costing 3.50 each. Revenue i
 
 EPOS knows only what has been scanned. Theft, damage and scanning mistakes are not recorded, so physical counts are still needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--09-spreadsheet-whatif.webp" width="900" height="1010" alt="Two grids show the production budget before and after one input changes from 38 to 41. Materials cost goes from 15,770, 18,050, 19,570 (total 53,390) to 17,015, 19,475, 21,115 (total 57,605), an increase of 4,215." loading="lazy">
+  <figcaption>Changing one input cell recalculates every formula that depends on it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--10-epos-stock.webp" width="900" height="910" alt="A chart of inner-tube stock: 64 at the start, then 55, 43, 36, 25 and 11 after each day’s scans. On Thursday stock of 25 falls below the reorder level of 30 so 80 are ordered; Saturday’s delivery gives 11 + 80 = 91." loading="lazy">
+  <figcaption>EPOS lowers stock with each scan and triggers an order at the reorder level.</figcaption>
+</figure>
+
+
 ## 2.9.2 Advantages and disadvantages of ICT in accounting
 
 Use the specification's four headings to organise any "Evaluate" answer.
@@ -158,6 +169,12 @@ An **audit trail** is the ability to follow a transaction from its source docume
 
 - Advantage: an automatic record makes errors and fraud easier to trace, and helps auditors.
 - Disadvantage: if users share passwords or entries can be overwritten, the trail is weaker than a paper one, and there are fewer paper documents to check.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--03-audit-opinions.webp" width="900" height="1030" alt="A question chain: enough evidence? If not, disclaimer. Material misstatement? If not, unmodified. Pervasive? If not, qualified (except for); if so, adverse. An OxfordAQA example shows 85,000 left out of 940,000 profit before tax, 9.0 percent, material but not pervasive, so qualified." loading="lazy">
+  <figcaption>Three questions decide which of the four audit opinions is given.</figcaption>
+</figure>
+
 
 ### Advantages and disadvantages by aspect
 
@@ -184,6 +201,12 @@ Net annual saving: 11,000 − 1,800                                           = 
 **First year.** 9,200 − 12,300 = **−3,100**, so the business is worse off in year 1. Over three years the net gain is 3 × 9,200 − 12,300 = **15,300**.
 
 **Evaluation.** The system pays for itself quickly. Against that, the clerk loses their job, other staff need training and may resist, and the savings are estimates. Breakdowns, data loss and hacking need backups and security, which may add cost. The owner also gains faster debtors lists and up-to-date costs, which the figures do not measure. **Judgement:** go ahead, provided data is backed up, staff are trained, and the clerk is offered retraining or redeployment where possible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--11-ict-payback.webp" width="900" height="976" alt="A cash position chart for a computer system costing 12,300 and saving a net 9,200 a year: minus 12,300, minus 3,100, 6,100 and 15,300 at the ends of years 0 to 3. It crosses zero after 1.34 years, a payback of about 1 year 4 months." loading="lazy">
+  <figcaption>The system pays for itself in about 1 year 4 months, if the savings are real.</figcaption>
+</figure>
+
 
 ## Common errors
 

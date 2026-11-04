@@ -67,6 +67,27 @@ Further down means faster and more violent, but the same products.
 
 **Worked reminder.** 2.3 g of sodium burns in chlorine. Moles of Na = 2.3 ÷ 23 = 0.10 mol. 2Na + Cl₂ → 2NaCl, so 0.10 mol NaCl. Mr NaCl = 58.5, so mass = **5.85 g**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--08-group1-formula-pattern.webp" width="900" height="830" alt="Na+ with Cl- gives NaCl; two K+ with O2- give K2O; two Li+ with S2- give Li2S. Charges add to zero. The compounds are white solids with colourless solutions." loading="lazy">
+  <figcaption>The metal ion is always 1+, so only the non-metal ion charge sets the formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--12-group1-float-sink.webp" width="900" height="710" alt="Lithium, sodium and potassium float on water; rubidium and caesium sink. Reactivity increases from Li to Cs." loading="lazy">
+  <figcaption>Li, Na and K float; Rb and Cs sink.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp" width="900" height="900" alt="Three beakers show lithium fizzing steadily, sodium fizzing and possibly melting into a ball, and potassium igniting the hydrogen. Hydrogen bubbles rise in each and the solution becomes alkaline. Reactivity increases down the group; melting point decreases and density increases." loading="lazy">
+  <figcaption>Group I metals react with cold water to give hydrogen and an alkaline solution, more vigorously down the group.</figcaption>
+</figure>
+
+
 ## Group 7, the halogens (3.7.1 c and d)
 
 | Property | What to remember |
@@ -94,6 +115,27 @@ Mg²⁺ + Br⁻ → MgBr₂        Al³⁺ + I⁻ → AlI₃        Li⁺ + F⁻
 
 Equation pattern for a 2+ metal: Mg + Cl₂ → MgCl₂.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--09-halide-formula-balance.webp" width="900" height="835" alt="Ca2+ with two I- gives CaI2; Al3+ with three Cl- gives AlCl3; Fe3+ with three Br- gives FeBr3; K+ with F- gives KF." loading="lazy">
+  <figcaption>Balance the charges to get the halide formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--10-halogen-states-trend.webp" width="900" height="910" alt="Fluorine pale yellow gas, chlorine pale yellow-green gas, bromine red-brown liquid with orange-brown vapour, iodine grey-black solid with purple vapour when warmed. Reactivity falls and melting and boiling points rise down the group." loading="lazy">
+  <figcaption>Gas, liquid, solid: states and colours down Group 7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--11-group-calc-routes.webp" width="900" height="855" alt="Each example is a chain: mass divided by Mr gives moles, the equation ratio gives moles of the target, then multiply by Mr (or 24 dm3). Answers 17.4 g LiBr, 0.48 dm3 H2, 0.20 mol/dm3 NaOH, 2.54 g I2." loading="lazy">
+  <figcaption>The same mass-to-moles route solves worked examples 1 to 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
+
 ## Displacement (3.7.1 e)
 
 A halogen **higher** in Group 7 pushes a **lower** one out of a dissolved salt of that lower halogen.
@@ -120,6 +162,12 @@ Reactivity:  Cl₂ > Br₂ > I₂   (fluorine above all, but it reacts with wate
 **Worked reminder.** Chlorine water + lithium bromide solution:
 Cl₂ + 2LiBr → 2LiCl + Br₂. The solution turns yellow-orange.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
+
 ## Explaining reactivity (3.7.1 f)
 
 Specification idea: the higher the energy level of the outer electrons, the more easily electrons are lost and the less easily they are gained. You may answer in terms of energy levels or shells.
@@ -129,6 +177,12 @@ more energy levels → outer electron further from nucleus → more shielding �
 
 **Chain for Group 7 (use every link):**
 more energy levels → outer level further from nucleus → more shielding → weaker attraction for an incoming electron → electron gained less easily → less reactive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--01-group-trends-energy-levels.webp" width="900" height="1000" alt="Electron-shell diagrams of lithium (2 levels) and rubidium (5 levels) each lose a gold outer electron, which is lost more easily from rubidium. Chlorine (3 levels) and iodine (5 levels) each have seven outer electrons and a gap for one more; the pull on the incoming electron is weaker in iodine. The same extra energy level gives opposite trends." loading="lazy">
+  <figcaption>One extra energy level makes Group 1 more reactive down the group and Group 7 less reactive.</figcaption>
+</figure>
+
 
 ## Predicting an unfamiliar element
 

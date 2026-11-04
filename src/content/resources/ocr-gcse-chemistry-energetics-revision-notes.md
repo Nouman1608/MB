@@ -55,6 +55,12 @@ Key idea from the specification: energy is **transferred**, never lost or used u
 | Neutralisation (acid + alkali) | Hydrogencarbonate + citric or ethanoic acid |
 | Many metals + dilute acids | Reactions that need continuous heating to keep going |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--02-en-classify-temps.webp" width="900" height="880" alt="Bars show A +12.5 C, B -5.8 C and C +6.5 C. A rise means exothermic and a fall means endothermic." loading="lazy">
+  <figcaption>Final minus start gives the sign: A and C exothermic, B endothermic.</figcaption>
+</figure>
+
+
 ## PAG C8: measuring the temperature change
 
 - Polystyrene cup, inside a beaker for stability, with a lid.
@@ -65,6 +71,17 @@ Key idea from the specification: energy is **transferred**, never lost or used u
 - **Random error:** misreading the scale, missing the peak. Repeats and a mean reduce its effect.
 - **Uncertainty estimate:** ± half the range of the repeats that are kept.
 - **Precise** = repeats close together. **Repeatable** = same person, same method, similar results. **Reproducible** = another person or method gives similar results.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--06-en-cup-apparatus.webp" width="900" height="880" alt="Polystyrene cup in a beaker with lid, thermometer and stirrer; heat loss gives a systematic error." loading="lazy">
+  <figcaption>Each part of the apparatus reduces heat exchange with the room.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--07-en-repeats.webp" width="900" height="710" alt="Dot plot of 6.4, 6.9, 6.8 and 8.7 degrees C; 8.7 is anomalous, mean 6.7, half range 0.25." loading="lazy">
+  <figcaption>Drop the anomaly, average the rest and use half the range as uncertainty.</figcaption>
+</figure>
+
 
 ## C3.2b and CM3.2i: reaction profiles
 
@@ -84,12 +101,44 @@ Key idea from the specification: energy is **transferred**, never lost or used u
 
 Small reminder: reactants 140 kJ/mol, peak 200 kJ/mol, products 90 kJ/mol. Activation energy = 200 − 140 = 60 kJ/mol. Energy change = 90 − 140 = −50 kJ/mol, so exothermic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--03-en-profile-numbers.webp" width="900" height="1115" alt="Profile with reactants 250, peak 330, products 60 kJ/mol: Ea = 80, energy change = -190, exothermic." loading="lazy">
+  <figcaption>Measure both arrows from the reactants line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--02-exothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
+</figure>
+
+
 ## C3.2c: activation energy
 
 - It is the energy needed **for a reaction to occur**: colliding particles need at least this energy for bonds to begin breaking.
 - A spark or flame supplies the activation energy to start many exothermic reactions. Once started, the energy they release keeps them going.
 - Needing a flame to start does **not** make a reaction endothermic. The overall energy change decides that.
 - Higher peak on the profile = larger activation energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--04-en-n2o2-ladder.webp" width="900" height="1020" alt="Energy ladder: break bonds +1443, make bonds -1260, products 183 kJ/mol above reactants, endothermic." loading="lazy">
+  <figcaption>Breaking N≡N costs more than the new bonds return, so the reaction is endothermic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--03-en-candle-activation.webp" width="900" height="900" alt="Reaction profile with products below reactants. A flame or spark supplies the activation energy, then energy released keeps it going. Needing a start does not make a reaction endothermic." loading="lazy">
+  <figcaption>A spark supplies Ea, but products are lower than reactants, so the reaction is exothermic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--01-temperature-change.webp" width="900" height="920" alt="Two beakers with thermometers. Exothermic: arrows leave the beaker and the temperature rises from 20 to 35 degrees C. Endothermic: arrows enter the beaker and the temperature falls from 20 to 8 degrees C." loading="lazy">
+  <figcaption>An exothermic reaction gives energy out and warms the surroundings; an endothermic one takes energy in and cools them.</figcaption>
+</figure>
+
 
 ## C3.2d and CM3.2ii: bond energy calculations (Higher Tier only)
 
@@ -122,6 +171,22 @@ Each H–O–O–H has two O–H bonds and one O–O bond. Each water has two O�
 Shortcut: the four O–H bonds appear on both sides, so they cancel. Bonds that change: 292 broken, 498 made, giving −206 kJ/mol again. Either approach is fine, as long as you treat both sides the same way.
 
 **Why calculated values differ from measured ones:** bond energies are average values from many compounds, so they only give an estimate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--05-en-propane-bonds.webp" width="900" height="1085" alt="Stacked columns to scale: 6490 kJ broken, 8542 kJ made, difference -2052 kJ/mol." loading="lazy">
+  <figcaption>Count every bond and multiply before adding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--01-en-ethene-br2.webp" width="900" height="800" alt="Displayed formulae of ethene, Br-Br and the product. Bonds broken total 805 kJ and bonds made total 900 kJ, giving -95 kJ/mol, exothermic. The four C-H bonds are unchanged." loading="lazy">
+  <figcaption>Only C=C, Br-Br, C-C and two C-Br change; broken 805 minus made 900 gives -95 kJ/mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--05-bond-energy-ladder.webp" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol." loading="lazy">
+  <figcaption>Up 678 to break bonds, down 862 as bonds form: a net fall of 184 kJ/mol.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -158,6 +223,12 @@ Shortcut: the four O–H bonds appear on both sides, so they cancel. Bonds that 
 9. 1850 − 1720 = **+130 kJ/mol**, **endothermic**.
 10. Broken: 2 × 1077 + 498 = 2652 kJ. Made: 4 × 805 = 3220 kJ. Energy change = 2652 − 3220 = **−568 kJ/mol**, exothermic.
 11. Bonds that change. Broken: C=C + one O–H = 612 + 464 = 1076 kJ. Made: C–C + one C–H + C–O = 348 + 413 + 358 = 1119 kJ. Energy change = 1076 − 1119 = **−43 kJ/mol**, exothermic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--04-bond-energy-calculation.webp" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic." loading="lazy">
+  <figcaption>Breaking bonds takes in 678 kJ/mol and making bonds releases 862 kJ/mol, so delta H is -184 kJ/mol.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

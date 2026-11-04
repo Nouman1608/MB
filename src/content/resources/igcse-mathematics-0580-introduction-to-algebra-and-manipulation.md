@@ -71,6 +71,12 @@ Sum = n + n + 1 + n + 2
 
 Testing 4 + 5 + 6 = 15 shows it works once; the algebra shows it works every time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--01-three-in-a-row.webp" width="900" height="940" alt="Three columns of blocks stand for n, n + 1 and n + 2, drawn with n = 4 as 4, 5 and 6 blocks. The 3 extra blocks are regrouped so each column has n + 1 blocks. So the sum 3n + 3 is 3 groups of (n + 1), a multiple of 3." loading="lazy">
+  <figcaption>The sum of three consecutive numbers is always 3(n + 1).</figcaption>
+</figure>
+
+
 ## 2.1 Substituting into expressions and formulas
 
 To substitute, replace each letter with its value, then follow the order of operations (brackets, powers, multiplication and division, then addition and subtraction).
@@ -108,6 +114,12 @@ T = 2 x pi x sqrt(0.8 / 9.8)
 
 On Papers 3 and 4, non-exact answers must be given to 3 significant figures unless the question says otherwise. Keep the full value on your calculator until the end, and keep the trailing zero: 1.80, not 1.8. Use the π key or 3.142, as the syllabus allows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--02-substitution-number-line.webp" width="900" height="820" alt="Substituting a = -2 and b = 5 into 3a^2 - 2ab gives 12 and -20. On a number line, start at 12 and take away -20, which moves 20 to the right, landing on 32." loading="lazy">
+  <figcaption>Taking away a negative is the same as adding.</figcaption>
+</figure>
+
+
 ## 2.2 Simplifying by collecting like terms
 
 **Like terms** have exactly the same letters raised to exactly the same powers. 5xy and −3xy are like terms. x² and x are not, and neither are xy and x²y. You add or subtract the coefficients of like terms and leave the letters alone.
@@ -124,6 +136,12 @@ Answer: 3x^2 + 2xy - 2
 ```
 
 Each term carries the sign in front of it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--03-collect-like-terms.webp" width="900" height="800" alt="Tiles for 4x^2 - 3xy + 7 - x^2 + 5xy - 9 are sorted into x^2, xy and number bins. Added and taken-away tiles leave 3x^2, 2xy and -2, so the answer is 3x^2 + 2xy - 2." loading="lazy">
+  <figcaption>Only like terms combine: x^2 tiles with x^2, xy with xy, numbers with numbers.</figcaption>
+</figure>
+
 
 ## 2.2 Expanding brackets
 
@@ -194,6 +212,12 @@ Total = 2x^3 - 5x^2 - 4x + 3
 
 Expand two brackets first, simplify, then multiply by the third. A three-term by two-term product gives six terms before collecting -- count them to check none is missing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
+  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
+</figure>
+
+
 ## 2.2 Factorising by extracting common factors
 
 Factorising is the reverse of expanding. Find the **highest** common factor (HCF) of the numbers and of each letter, write it outside a bracket, and divide each term by it to fill the bracket.
@@ -211,6 +235,12 @@ Answer: 4xy(2x + 3y - 1)
 ```
 
 Expand your answer to check it, and look inside the bracket for anything still in common. 2x(4xy + 6y² − 2y) is a correct factorisation, but not a full one, and earns only part of the marks. When a whole term is the common factor, as −4xy is here, a 1 (or −1) stays in the bracket.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--05-factorise-hcf.webp" width="900" height="790" alt="The three terms are cells of a rectangle of height 4xy, the HCF. Dividing each by 4xy gives widths 2x, 3y and -1, so the answer is 4xy(2x + 3y - 1)." loading="lazy">
+  <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
+</figure>
+
 
 ## Extended only: factorising the five special forms (E2.2, outcome 4)
 
@@ -310,6 +340,12 @@ x^2 - 6x = (x - 3)^2 - 9
 The −9 sits inside the square bracket, so it is multiplied by 2 as well. Leaving it as −9 is the commonest slip. The same method handles a negative a: −x² + 6x + 1 = −(x² − 6x) + 1 = −[(x − 3)² − 9] + 1 = −(x − 3)² + 10. Expand your answer to check it.
 
 Completed square form is used again to solve quadratic equations (E2.5).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
+</figure>
+
 
 ## Common errors
 

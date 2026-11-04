@@ -47,6 +47,12 @@ Method when a ≠ 1: **factor a out of the x² and x terms only**, complete the 
 
 Vertex `(3, −13)`, minimum value −13. Forgetting to multiply the −9 by 2 is the classic slip.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--01-completing-the-square.webp" width="900" height="910" alt="Graph of y = -2x^2 + 8x + 3 rewritten as -2(x - 2)^2 + 11. The vertex (2, 11) is the maximum because a is negative, the line of symmetry is x = 2, the y-intercept is 3 and the roots are about -0.35 and 4.35." loading="lazy">
+  <figcaption>Completed-square form gives the vertex, line of symmetry and maximum value at a glance.</figcaption>
+</figure>
+
+
 ## Solving quadratics
 
 Three connected methods, all examinable: **factorising** (fastest when the quadratic factorises neatly into two linear brackets), **completing the square** (gives the vertex directly, useful for turning-point questions), and the **quadratic formula**, which always works regardless of whether the expression factorises:
@@ -81,6 +87,22 @@ Almost every "find the values of k" question is a discriminant question in disgu
 - **Never touches / no intersection** → discriminant **< 0**.
 - **Always positive** → `a > 0` **and** discriminant **< 0**. Both conditions are needed; giving only the discriminant loses a mark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--07-discriminant-in-k.webp" width="900" height="980" alt="Graph of D = 4(k-5)(k+2) against k. It is zero at k = -2 and k = 5, negative between them (no real roots) and positive outside (two distinct real roots)." loading="lazy">
+  <figcaption>With an unknown k, write the discriminant in k and read the ranges from its graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--02-discriminant-roots.webp" width="900" height="1150" alt="Three parabolas y = x^2 - 4x + k for k = 1, 4 and 7. Discriminants 12, 0 and -12 give two distinct real roots, one repeated root and no real roots respectively." loading="lazy">
+  <figcaption>The sign of b^2 - 4ac tells you whether the curve crosses, touches or misses the x-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--04-line-meets-curve.webp" width="900" height="940" alt="Parabola y = x^2 with three parallel lines of gradient 2. Substituting gives discriminants 16, 0 and -8: two intersections, a tangent at (1, 1), and no intersection." loading="lazy">
+  <figcaption>After substitution, the discriminant shows whether the line cuts, touches or misses the curve.</figcaption>
+</figure>
+
+
 ## Quadratic inequalities
 
 **Always sketch.** Solving algebraically without a sketch produces wrong inequality directions more often than not, since the direction of the inequality depends on whether the parabola is above or below the axis in the region of interest.
@@ -96,6 +118,12 @@ Almost every "find the values of k" question is a discriminant question in disgu
 ```
 
 For an upward parabola: **"less than zero" gives one interval between the roots; "greater than zero" gives two separate intervals.** Writing `5 < x < 2` is impossible — if the answer looks like that, it should be two intervals joined by "or".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--03-quadratic-inequality.webp" width="900" height="1130" alt="The graph of x^2 - x - 6 shown twice. Above the axis the solution is x &lt; -2 or x &gt; 3 (two outer regions); below the axis it is -2 &lt; x &lt; 3 (one bounded region)." loading="lazy">
+  <figcaption>Sketch the curve: above the axis gives an &quot;or&quot; answer outside the roots, below gives an &quot;and&quot; answer between them.</figcaption>
+</figure>
+
 
 ## Disguised quadratics
 
@@ -128,3 +156,14 @@ x - 7 sqrt(x) + 12 = 0    let u = sqrt(x)  ->  u^2 - 7u + 12 = 0
 6. Solve `3x² + 5x − 2 = 0` using the quadratic formula.
 
 **Answers:** 1. `2(x − 3)² − 13`, minimum at (3, −13). 2. The curve touches the x-axis at exactly one point — a repeated root, so the line is a tangent. 3. Roots 2 and 5; the parabola is above the axis outside them, so x < 2 or x > 5. 4. a > 0 and b² − 4ac < 0. 5. Let u = √x: u² − 7u + 12 = 0, so u = 3 or 4, both valid as they are positive; x = 9 or x = 16. 6. x = (−5 ± √(25+24)) ÷ 6 = (−5 ± 7) ÷ 6, giving x = 1/3 or x = −2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-quadratics-revision-notes--03-reject-impossible-roots.webp" width="900" height="994" alt="u=2^x meets u=3 at x=log2 3 but never reaches u=-2, so that root is rejected." loading="lazy">
+  <figcaption>Substitute back and reject values the function cannot take.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
+  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
+</figure>
+

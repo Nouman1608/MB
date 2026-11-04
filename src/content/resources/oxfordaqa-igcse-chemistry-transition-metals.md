@@ -41,6 +41,12 @@ The transition metals make up the wide central block of the periodic table, lyin
 
 If a question asks you to locate them, "in the central block, between Groups 2 and 3" matches the specification's wording.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--03-transition-position.webp" width="900" height="694" alt="First four periods of the periodic table with Group 1 metals shaded gold and the ten period 4 transition metals Sc to Zn shaded teal in the central block between Group 2 and Group 3." loading="lazy">
+  <figcaption>The transition metals form the central block between Groups 2 and 3, scandium to zinc in period 4.</figcaption>
+</figure>
+
+
 ## Three typical properties (3.7.2 a)
 
 The specification says that **many** transition metals have ions with different charges, form coloured compounds and are useful as catalysts. Each property is taken in turn below.
@@ -60,6 +66,17 @@ Every Group 1 metal forms only 1+ ions. A transition metal can often lose differ
 | vanadium | V⁵⁺ and others | vanadium(V) oxide V₂O₅ |
 
 The Roman numeral is the charge on the metal ion. It does not tell you how many metal atoms are in the formula.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--01-tm-charge-balance.webp" width="900" height="940" alt="Three charge-balance pictures: two Cu+ ions balance one S2- (Cu2S, copper(I) sulfide), one Co3+ balances three F- (CoF3), one Fe3+ balances three NO3- (Fe(NO3)3). The Roman numeral is the charge on the metal ion." loading="lazy">
+  <figcaption>Charges are balanced by counting tokens, which gives the name and formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
+  <figcaption>Iron forms two stable ions, iron(II) and iron(III), unlike Group I metals.</figcaption>
+</figure>
+
 
 ### Worked example 1: charge from a formula
 
@@ -98,6 +115,12 @@ The ion tests in section 3.4.3 c use these colours directly. With sodium hydroxi
 
 Iron(II) and iron(III) give different colours. Here, two of the typical properties work together: different charges on the ions, and different colours.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--01-cations-naoh.webp" width="900" height="1132" alt="Test tubes show each of eight cations after a few drops of NaOH and in excess. Al, Zn dissolve to colourless; Ca, Cu, Fe(II), Fe(III) stay as precipitates (white, pale blue, green browning, red-brown); Cr(III) green precipitate dissolves. Ammonium gives no precipitate but releases ammonia on warming." loading="lazy">
+  <figcaption>Eight cations, two stages of NaOH: what you see in the tube.</figcaption>
+</figure>
+
+
 ### Worked example 3: which solutions contain transition metal ions?
 
 Three solutions are tested with sodium hydroxide solution.
@@ -124,6 +147,22 @@ A catalyst alters the rate of a reaction and the same amount of it is still ther
 - **vanadium(V) oxide, V₂O₅**, in stage 2 of the contact process, where sulfur dioxide reacts with oxygen to make sulfur trioxide (3.8.3 d).
 
 Industry uses catalysts because a faster reaction means more product in a given time, which reduces costs (3.8.1 h). The catalyst is not used up, so a small amount works for a long time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--05-cobalt-catalyst-cycle.webp" width="900" height="740" alt="Three beakers: pink Co2+ solution, then a green Co3+ compound with fizzing gas, then pink again. The cobalt is not used up, and it can act this way because it forms ions with different charges." loading="lazy">
+  <figcaption>Cobalt changes colour and charge during the reaction and is regenerated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--04-tm-industrial-catalysts.webp" width="900" height="993" alt="The Haber process uses an iron catalyst at about 450 C and about 200 atmospheres: N2 + 3H2 gives 2NH3. Stage 2 of the contact process uses a vanadium(V) oxide catalyst: 2SO2 + O2 gives 2SO3." loading="lazy">
+  <figcaption>Two industrial processes that use a transition metal catalyst.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
 
 ### Worked example 4: seeing a catalyst take part
 
@@ -191,6 +230,17 @@ Compared with Group 1, transition metals are much less reactive, so they do not 
 
 "Much less reactive" does not mean "unreactive". Iron does rust, and hot iron wool burns in oxygen. Use comparative words: less vigorous, slower, needs heating.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--02-tm-oxygen-reactivity.webp" width="900" height="985" alt="Sodium is stored under oil because a cut surface dulls in seconds. A bright iron nail stays shiny for days in dry air. Heated copper slowly forms black copper(II) oxide, 2Cu + O2 gives 2CuO." loading="lazy">
+  <figcaption>Group 1 metals react with oxygen in seconds; transition metals are slower or need heating.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp" width="900" height="900" alt="Three beakers show lithium fizzing steadily, sodium fizzing and possibly melting into a ball, and potassium igniting the hydrogen. Hydrogen bubbles rise in each and the solution becomes alkaline. Reactivity increases down the group; melting point decreases and density increases." loading="lazy">
+  <figcaption>Group I metals react with cold water to give hydrogen and an alkaline solution, more vigorously down the group.</figcaption>
+</figure>
+
+
 ### Linking properties to uses
 
 | Use | Key property | Problem with a Group 1 metal |
@@ -199,6 +249,22 @@ Compared with Group 1, transition metals are much less reactive, so they do not 
 | tungsten lamp filaments | very high melting point | would melt far below working temperature |
 | copper water pipes | does not react with water | reacts with cold water, releasing hydrogen |
 | iron catalyst in the Haber process | catalytic activity; solid at 450 °C | sodium melts at 98 °C |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--04-transition-vs-group1-data.webp" width="900" height="1118" alt="Bar charts of the lesson data. Transition metals Ti, Ag and W have much higher melting points than Na, Rb and Cs; mercury melts at minus 39 degrees C, below every Group 1 metal, but is still much denser than all of them." loading="lazy">
+  <figcaption>Transition metals are denser and melt higher than Group 1, except mercury for melting point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--03-tm-property-to-use.webp" width="900" height="970" alt="Titanium (melts 1668 C) for aircraft frames and tungsten (3422 C) for filaments are compared with sodium at 98 C. Copper pipes do not react with water, but sodium reacts with cold water and releases hydrogen." loading="lazy">
+  <figcaption>Each use follows from a property that Group 1 metals lack.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--06-transition-elements.webp" width="900" height="1226" alt="Four panels: a balance where an iron block outweighs an equal sodium block; melting-point bars (Na 98 °C, Fe 1538 °C); coloured transition-metal solutions beside colourless NaCl; and Fe or MnO2 as catalysts." loading="lazy">
+  <figcaption>Transition elements are dense, high-melting, form coloured compounds and often act as catalysts.</figcaption>
+</figure>
+
 
 ## Common errors
 

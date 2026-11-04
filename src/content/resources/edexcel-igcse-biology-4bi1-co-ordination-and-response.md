@@ -55,6 +55,12 @@ Organisms survive because they detect changes and respond to them. A change in t
 
 Homeostasis matters because cells work properly only within narrow limits. Too little water makes blood plasma too concentrated, so cells lose water by osmosis. Too high a temperature denatures enzymes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--01-stimulus-receptor-effector.webp" width="900" height="890" alt="Two chains: heat from a hot object, temperature receptors in finger skin, biceps muscle, hand pulled away; bright light, light receptors in the retina, iris muscles, pupil smaller. A note says homeostasis keeps the internal environment constant." loading="lazy">
+  <figcaption>Stimulus, receptor, effector and response for a finger and an eye.</figcaption>
+</figure>
+
+
 ## 2. Plant responses (2.83–2.85)
 
 Plants respond to stimuli by growing in a particular direction. A growth response to a directional stimulus is a **tropism**. It is positive if growth is towards the stimulus and negative if away from it.
@@ -82,6 +88,12 @@ These responses help survival. A shoot that grows towards light absorbs more lig
 
 Note the word "elongation". Auxin makes existing cells longer in this response; it is not "the cells on the shaded side divide faster".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1080" alt="Extended. Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
+  <figcaption>Longer shaded-side cells bend the shoot towards the light.</figcaption>
+</figure>
+
+
 ### Worked example 1
 
 A seedling is lit from the left. After 8 hours the stem tip has bent 28° to the left. Calculate the mean rate of bending, then explain the result.
@@ -90,6 +102,17 @@ A seedling is lit from the left. After 8 hours the stem tip has bent 28° to the
 - Explanation: auxin made in the tip moves to the shaded (right-hand) side [point 1]; it causes greater cell elongation on the right [point 2]; the right side grows longer, so the stem curves to the left, towards the light [point 3].
 
 A seedling grown in the dark, or lit evenly from above, grows straight up because auxin is spread evenly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--13-tropisms.webp" width="900" height="1060" alt="Light from one side: shoot grows towards light (positive phototropism), root away (negative). Seedling on its side: shoot grows up (negative geotropism), root down (positive)." loading="lazy">
+  <figcaption>Shoots and roots respond oppositely to light and gravity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--02-seedling-bend-rate.webp" width="900" height="990" alt="A seedling lit from the left has auxin on the shaded right side, so it bends 28 degrees towards the light. Rate is angle divided by time: 28 ÷ 8 = 3.5 degrees per hour." loading="lazy">
+  <figcaption>The lesson bending example drawn with the 28° angle and the rate calculation.</figcaption>
+</figure>
+
 
 ## 3. Nervous and hormonal communication (2.86–2.89)
 
@@ -130,6 +153,18 @@ Because neurotransmitter is released from one side only, impulses cross a synaps
 </figure>
 <!-- /marlbridge-diagram:bio-b20-edexcel-igcse-synapse-transmission -->
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--03-nervous-vs-hormonal.webp" width="900" height="1080" alt="A nervous route (CNS to muscle by neurones) is very fast; a hormonal route (gland, blood, target organ) is slower. A sketch graph shows the nervous effect peaking quickly and ending soon, the hormonal effect rising later and lasting longer." loading="lazy">
+  <figcaption>Nervous control is very fast and short; hormonal control is slower and longer lasting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
+</figure>
+
+
+
 ## 4. The reflex arc (2.90)
 
 A **reflex** is a rapid, automatic response to a stimulus. It does not need conscious thought, so it protects the body quickly. The specification uses withdrawing a finger from a hot object.
@@ -151,6 +186,12 @@ Explain why the hand is pulled away before the person feels pain.
 - The pathway passes through the spinal cord, not through the conscious parts of the brain [1].
 - Only a few neurones and synapses are involved, so the impulse travels a short route quickly [1].
 - Impulses do also travel up the spinal cord to the brain, but this takes longer, so pain is felt after the hand has already moved [1].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--01-reflex-arc.webp" width="900" height="1000" alt="Schematic reflex arc: a pin pricks the skin, a receptor starts an impulse that travels along a sensory neurone into the spinal cord, a relay neurone, a motor neurone, then to the leg muscle (effector) which contracts. Arrowheads show impulse direction. The sensory neurone cell body sits on a short branch; the motor neurone cell body is in the cord." loading="lazy">
+  <figcaption>Follow the numbered pathway from stimulus to response.</figcaption>
+</figure>
+
 
 ## 5. The eye (2.91–2.92)
 
@@ -187,12 +228,24 @@ The eye is a sense organ containing light receptors.
 | Lens shape | Fatter (more convex) | Thinner (pulled flatter) |
 | Refraction | More | Less |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--11-eye-focusing.webp" width="900" height="1170" alt="Distant object: ciliary muscle relaxes, ligaments pulled tight, lens thinner, light bent less. Near object: ciliary muscle contracts, ligaments slacken, lens fatter, light bent more. Rays meet on the retina in both." loading="lazy">
+  <figcaption>The lens changes shape so that near and distant objects focus on the retina.</figcaption>
+</figure>
+
+
 ### Responding to light intensity
 
 The iris has **circular** and **radial** muscles.
 
 - **Bright light:** circular muscles contract, radial muscles relax, pupil gets **smaller**. This reduces light entering the eye, but pupil constriction cannot guarantee protection from damagingly intense light.
 - **Dim light:** radial muscles contract, circular muscles relax, pupil gets **wider**. More light reaches the retina.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Extended panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
+</figure>
+
 
 ### Worked example 3
 
@@ -201,6 +254,17 @@ A pupil narrows from 7.2 mm in dim light to 2.7 mm in bright light. Calculate th
 - Change = 2.7 − 7.2 = −4.5 mm.
 - Percentage change = (−4.5 ÷ 7.2) × 100 = **−62.5%** (a 62.5% decrease).
 - Always divide by the starting value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--10-eye-structure.webp" width="900" height="1060" alt="Section through the eye with 11 numbered parts: cornea, iris, pupil, lens, suspensory ligaments, ciliary muscle, sclera, retina, fovea, optic nerve and blind spot." loading="lazy">
+  <figcaption>Numbered parts of the eye from the lesson table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--03-pupil-percentage-change.webp" width="900" height="960" alt="Pupil drawn to scale at 7.2 mm in dim light and 2.7 mm in bright light. Change = -4.5 mm; -4.5 ÷ 7.2 × 100 = -62.5%." loading="lazy">
+  <figcaption>Pupil diameters drawn to scale with the percentage-change working.</figcaption>
+</figure>
+
 
 ## 6. Temperature control by the skin (2.93)
 
@@ -217,6 +281,12 @@ Temperature receptors and the brain detect a change in body temperature. The ski
 - **Vasoconstriction**. Arterioles supplying the skin capillaries **narrow**. Less blood flows near the surface, so less heat is lost.
 
 The blood vessels do not move up or down in the skin. The arterioles change their width, which changes how much blood reaches the surface capillaries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--12-skin-temperature.webp" width="900" height="860" alt="Too hot: more sweat evaporates and the arterioles widen so more blood flows near the surface and more heat is lost. Too cold: less sweat and arterioles narrow so less heat is lost. Vessels do not move; arterioles change width." loading="lazy">
+  <figcaption>Sweating and the width of skin arterioles control heat loss.</figcaption>
+</figure>
+
 
 ## 7. Hormones (2.94 and 2.95B)
 
@@ -249,6 +319,22 @@ A hormone is a chemical secreted by a gland into the blood, which carries it to 
 </figure>
 
 ADH links back to homeostasis of body water content. If the blood becomes too concentrated (after sweating heavily, for example), more ADH is released and less water is lost in urine. If you drink a lot, less ADH is released and more dilute urine is produced. The full menstrual cycle sequence belongs to Topic 3; see the [reproduction and inheritance revision notes](/resources/edexcel-igcse-biology-reproduction-inheritance-revision-notes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--14-hormone-sources.webp" width="900" height="770" alt="Body outline showing glands: pituitary (ADH, FSH, LH; Paper 2 only), adrenal glands (adrenaline), pancreas (insulin), ovaries (oestrogen, progesterone), testes (testosterone)." loading="lazy">
+  <figcaption>Which gland makes each hormone named in the lesson.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--04-insulin-lowers-glucose.webp" width="900" height="1065" alt="High blood glucose makes the pancreas release insulin, which makes the liver and muscles convert glucose to glycogen and cells take up glucose, so blood glucose falls. Glycogen (the store) is not glucagon." loading="lazy">
+  <figcaption>Insulin lowers blood glucose by turning glucose into glycogen; the lesson does not teach glucagon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--06-adh-feedback.webp" width="900" height="1020" alt="When blood water content is too low, more ADH is released, the collecting duct becomes more permeable, more water is reabsorbed and a small volume of concentrated urine is made. When it is too high, less ADH is released and a large volume of dilute urine is made. Either way blood water content returns to normal." loading="lazy">
+  <figcaption>More ADH gives less, more concentrated urine; less ADH gives more, dilute urine.</figcaption>
+</figure>
+
 
 ## Common errors
 

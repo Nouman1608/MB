@@ -70,6 +70,17 @@ At SL the data set is treated as the population unless you are told otherwise.
 > 2. For each group, multiply (group size / N) by the sample size n.
 > 3. Round sensibly and check the numbers add up to n.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-statistics-correlation-regression--01-stratified-systematic-sampling.webp" width="900" height="990" alt="Top: a bar for the population of 600 students split into DP1 (360) and DP2 (240). An arrow multiplying by 50 over 600 leads to 50 dots, 30 for DP1 and 20 for DP2, because 360/600 times 50 is 30 and 240/600 times 50 is 20. Bottom: a row of the first 36 names with positions 5, 17 and 29 highlighted. Starting at a random position from 1 to 12 and then taking every 12th name (600 divided by 50 is 12) gives the systematic sample." loading="lazy">
+  <figcaption>A stratified sample takes each group in proportion to its size; a systematic sample takes every kth item from a random start.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-statistics-correlation-regression--02-outlier-fences-box-plot.webp" width="900" height="890" alt="A dot plot of twelve weekly sport hours (3, 5, 6, 7, 7, 8, 9, 10, 11, 12, 14, 24) above a box and whisker diagram on the same scale. The box runs from Q1 = 6.5 to Q3 = 11.5 with the median at 8.5, so the IQR is 5. Dashed fences sit 1.5 times 5 = 7.5 beyond each quartile, at minus 1 and 19. The value 24 lies beyond the upper fence, so it is marked with a cross as an outlier and the upper whisker stops at 14." loading="lazy">
+  <figcaption>Fences sit 1.5 × IQR beyond the quartiles; any value outside them is an outlier and the whisker stops at the last value inside.</figcaption>
+</figure>
+
+
 ## Formulas and results
 
 | Quantity | Result | How you find it |
@@ -94,6 +105,12 @@ At SL the data set is treated as the population unless you are told otherwise.
 
 Worked reminder: mean 50, SD 8. Every item becomes 3x − 10. New mean = 3(50) − 10 = 140. New SD = 3 × 8 = 24. New variance = 576.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-statistics-correlation-regression--03-cumulative-frequency-quartiles.webp" width="900" height="850" alt="A cumulative frequency graph of waiting times for 60 patients through the points (0,0), (10,6), (20,20), (30,42), (40,54) and (50,60), plotted at the upper class boundaries. Dashed lines read across from 15, 30 and 45 and down to the axis: Q1 is about 16.4 minutes, the median about 24.5 and Q3 32.5, so the interquartile range is about 16.1 minutes." loading="lazy">
+  <figcaption>Plot cumulative frequency at upper boundaries, then read across from n/4, n/2 and 3n/4 to find the quartiles.</figcaption>
+</figure>
+
+
 ## Data displays
 
 > **Method in steps: cumulative frequency graph**
@@ -110,6 +127,12 @@ Worked reminder: mean 50, SD 8. Every item becomes 3x − 10. New mean = 3(50) �
 
 Worked reminder: data 2, 3, 5, 6, 8, 9, 11, 20. Median = (6 + 8)/2 = 7. Q₁ = (3 + 5)/2 = 4, Q₃ = (9 + 11)/2 = 10, IQR = 6. Upper fence = 10 + 9 = 19, so 20 is an outlier.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-statistics-correlation-regression--05-constant-changes-mean-sd.webp" width="900" height="960" alt="Three dot plots of the same twelve values on a 0 to 50 scale. Original: mean 9.67, standard deviation 5.23, variance 27.4. After adding 10 to every value the whole plot slides right, mean 19.67, but the standard deviation bar keeps the same length 5.23. After multiplying by 2 the mean doubles to 19.33 and the standard deviation bar doubles to 10.47, so the variance is multiplied by 4 to 109.6." loading="lazy">
+  <figcaption>Adding a constant slides the data and the mean but not the spread; multiplying by k scales the spread by k and the variance by k².</figcaption>
+</figure>
+
+
 ## Correlation and regression
 
 > **Method in steps: bivariate data**
@@ -125,6 +148,27 @@ Worked reminder: data 2, 3, 5, 6, 8, 9, 11, 20. Median = (6 + 8)/2 = 7. Q₁ = (
 - **Correlation does not imply causation.** A third variable may drive both.
 
 Worked reminder: y = 4.2x + 11 and x̄ = 5. Then ȳ = 4.2(5) + 11 = 32, because the line passes through (x̄, ȳ).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-statistics-correlation-regression--06-what-r-tells-you.webp" width="900" height="1020" alt="Four small scatter diagrams of 15 points each. Strong positive correlation has r = 0.92 with points close to a rising dashed line. Strong negative correlation has r = minus 0.90 with points close to a falling line. Random scatter has r near zero (0.07). The fourth set follows a clear U-shaped curve yet r is exactly 0.00, because r only measures linear relationships." loading="lazy">
+  <figcaption>r measures straight-line strength from −1 to 1; a clear curve can still give r close to 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-statistics-correlation-regression--07-regression-y-on-x.webp" width="900" height="810" alt="Scatter diagram of eight students: revision hours on the x axis and test score on the y axis. The least-squares line y = 2.62x + 35.7 passes through the mean point (7.5, 55.375) and the correlation is r = 0.885. The gradient a means about 2.62 more marks for each extra hour; the intercept b = 35.7 is the predicted score at zero hours. Reading up from 9 hours gives a predicted score of about 59.3." loading="lazy">
+  <figcaption>The gradient a is the change in y per extra unit of x; b is the predicted y at x = 0; the line passes through the mean point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-statistics-correlation-regression--08-extrapolation-warning.webp" width="900" height="810" alt="The same regression line drawn out to 26 hours of revision with a dashed line at the maximum score of 100. The shaded band from 2 to 13 hours is the range of the data. A prediction at 9 hours (about 59.3) is inside it and reasonable. Extending the line to 25 hours predicts about 101, which is impossible for a test out of 100, so predictions far outside the data range (extrapolation) are unreliable." loading="lazy">
+  <figcaption>Predicting inside the data range is reasonable; extending far outside it can give impossible values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-statistics-correlation-regression--09-two-regression-lines.webp" width="900" height="810" alt="The same eight revision-hours and score points with both regression lines. The y on x line, y = 2.62x + 35.7, minimises the vertical gaps; the x on y line, x = 0.299y minus 9.06, minimises the horizontal gaps. They are different lines that cross at the mean point (7.5, 55.375). To estimate revision hours for a score of 55, read across to the x on y line: x is about 7.39 hours. Rearranging the y on x line would give 7.36, which is the wrong method." loading="lazy">
+  <figcaption>To predict x from y use the x on y line, not a rearranged y on x line; both lines pass through the mean point.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -179,6 +223,12 @@ Worked reminder: y = 4.2x + 11 and x̄ = 5. Then ȳ = 4.2(5) + 11 = 32, because 
 - Describing correlation as "strong" without saying positive or negative, or without saying "linear".
 - Comparing box plots without context, or giving two comments on centre and none on spread.
 - Making a prediction far outside the data range without saying it is unreliable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-statistics-correlation-regression--04-histogram-mean-modal-class.webp" width="900" height="860" alt="A frequency histogram with five equal classes 0-10, 10-20, 20-30, 30-40 and 40-50 and frequencies 6, 14, 22, 12 and 6. The tallest bar, 20 to 30, is the modal class. Each bar shows its mid-interval value 5, 15, 25, 35, 45. Multiplying each frequency by its mid value and adding gives 1480; divided by 60 patients the estimated mean is about 24.7 minutes, marked by a dashed line." loading="lazy">
+  <figcaption>The modal class is the tallest bar; the grouped mean uses mid-interval values: Σfx ÷ Σf.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

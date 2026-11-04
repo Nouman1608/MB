@@ -81,6 +81,27 @@ angle between rays = 58° + 58° = 116°
 
 You stand 3.5 m from a plane mirror. The image is 3.5 m behind it, so you are 7.0 m from your image. Walking towards the mirror at 1.2 m/s, you and the image each approach it at 1.2 m/s, so the gap closes at 2.4 m/s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--03-plane-mirror.webp" width="900" height="1040" alt="An upright object O is 3.5 m from a vertical plane mirror. Two rays from its base reflect so that angle of incidence equals angle of reflection (36.9 and 24.2 degrees), measured from dashed normals. Dashed extensions behind the mirror meet at the image I, 3.5 m behind the mirror: virtual, upright and the same size." loading="lazy">
+  <figcaption>Two rays from O reflect with i = r and their backward extensions meet at the virtual image I, as far behind the mirror as O is in front.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--05-reflection-angles-32-degrees.webp" width="900" height="760" alt="A ray hits a plane mirror at 32 degrees to the surface. The angle from the normal is 58 degrees, the reflected ray also makes 58 degrees, and the angle between the rays is 116 degrees." loading="lazy">
+  <figcaption>Subtract the surface angle from 90 degrees to find the angle of incidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--07-critical-angle-glass-rays.webp" width="900" height="890" alt="Three rays inside glass of n = 1.50 meet the glass-air boundary: at 30 degrees it refracts out at 48.6 degrees, at 41.8 degrees it skims along the boundary, and at 50 degrees it is totally internally reflected." loading="lazy">
+  <figcaption>Above the critical angle of 41.8 degrees all the light is reflected back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--04-total-internal-reflection.webp" width="900" height="1160" alt="Three rays in a glass semicircle: below the critical angle some light leaves, at 41.8 degrees the refracted ray runs along the surface, above it all light is reflected. sin c = 1/n (Extended)." loading="lazy">
+  <figcaption>Above the critical angle all the light is reflected back inside the glass.</figcaption>
+</figure>
+
+
 ## 3.3.5 a-b: refraction as a change of speed
 
 The speed of a wave depends on the medium. A wave crossing into a different medium changes **speed**. If it arrives at a slant, it also changes **direction**. This is **refraction**. A wave travelling along the normal (angle of incidence 0°) still changes speed but keeps its direction.
@@ -107,6 +128,12 @@ A wavefront is a line joining points on a wave that are in step. Picture paralle
 
 Glass to air does the reverse, and the ray turns away from the normal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--06-wavelength-air-to-glass.webp" width="900" height="770" alt="One continuous wave crosses from air into glass. The wavelength is 545 nm in air and 364 nm in glass while the frequency stays 5.50 x 10^14 Hz." loading="lazy">
+  <figcaption>A wave that slows down keeps its frequency, so its wavelength gets shorter.</figcaption>
+</figure>
+
+
 ### Worked example 3: wavelength change
 
 Light of frequency 5.50 × 10¹⁴ Hz travels in air at 3.00 × 10⁸ m/s. Its speed in a glass is 2.00 × 10⁸ m/s. Find its wavelength in each.
@@ -118,6 +145,12 @@ In glass: λ = 2.00 × 10⁸ / 5.50 × 10¹⁴ = 3.64 × 10⁻⁷ m (364 nm)
 
 The frequency is the same in both. The wavelength fell to two-thirds because the speed did.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--04-wavefront-refraction.webp" width="900" height="960" alt="Wavefronts meet an air-glass boundary at 45 degrees. In air (3.00e8 m/s) they are 545 nm apart; in glass (2.00e8 m/s) 364 nm apart, with the same frequency 5.50e14 Hz. The end entering first slows first, so the ray bends towards the normal to 28.1 degrees. n = 3.00/2.00 = 1.50." loading="lazy">
+  <figcaption>Wavefronts bunch closer in the slower medium, so the ray pivots towards the normal while frequency stays fixed.</figcaption>
+</figure>
+
+
 ## 3.3.5 c: prisms and dispersion
 
 White light is a mixture of colours. When it passes through a glass prism, it refracts at both faces, and different colours are refracted by different amounts. This is **dispersion**. The light fans out into a **spectrum**.
@@ -125,6 +158,12 @@ White light is a mixture of colours. When it passes through a glass prism, it re
 Red is bent least and violet most, so the order is red, orange, yellow, green, blue, indigo, violet. Each colour travels at a slightly different speed in glass, so each bends by a slightly different amount.
 
 For example, in one glass n is 1.51 for red and 1.53 for violet (data supplied here). Violet travels more slowly, about 1.96 × 10⁸ m/s against 1.99 × 10⁸ m/s for red, so it bends more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--05-prism-dispersion.webp" width="900" height="780" alt="White light enters a glass prism and is refracted at both faces. Red is bent least and violet most, in the order red, orange, yellow, green, blue, indigo, violet. The spread is exaggerated for clarity." loading="lazy">
+  <figcaption>White light splits into a spectrum because violet is bent more than red.</figcaption>
+</figure>
+
 
 ## 3.3.5 d: refractive index from wave speed
 
@@ -195,6 +234,17 @@ Improving accuracy: use a thin ray, mark crosses far apart and draw a sharp norm
 
 Example results for a block: i = 15°, 30°, 45°, 60°, 75° gave r = 10°, 19°, 28°, 35°, 40°. The gradient between the origin and the last point is sin 75° / sin 40° = 0.966 / 0.643 = 1.50, so n ≈ 1.50.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--06-snell-graph.webp" width="900" height="960" alt="Five points from the lesson results (i = 15 to 75 degrees, r = 10 to 40 degrees) plotted as sin i against sin r lie on a straight line through the origin. Its gradient, the refractive index, is about 1.5." loading="lazy">
+  <figcaption>The gradient of sin i against sin r is the refractive index, about 1.5 for the example block.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
+</figure>
+
+
 ## 3.3.5 f-g: critical angle and total internal reflection
 
 When light goes from a denser medium to a less dense one, it bends away from the normal. As the angle of incidence increases, the angle of refraction grows faster and reaches 90°, so the ray travels along the boundary. The **critical angle**, c, is the angle of incidence, measured in the denser medium, at which the refracted ray just skims along the boundary.
@@ -246,6 +296,12 @@ A fibre has n = 1.48 and length 2.0 km.
 v = c / n = 3.00 × 10⁸ / 1.48 = 2.03 × 10⁸ m/s
 t = s / v = 2000 / 2.03 × 10⁸ = 9.9 × 10⁻⁶ s
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--07-optical-fibre.webp" width="900" height="740" alt="A ray in a fibre of n = 1.48 meets the wall at 60 degrees, above the 42.5 degree critical angle, and is totally internally reflected again and again. Uses are endoscopes and communications. A 2.0 km fibre gives a transit time of 9.9 microseconds." loading="lazy">
+  <figcaption>Light zigzags along a fibre by total internal reflection because it meets the wall above the critical angle.</figcaption>
+</figure>
+
 
 ## Common errors
 

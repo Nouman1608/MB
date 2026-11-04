@@ -43,6 +43,12 @@ Where g is needed, use g = 9.81 N kg⁻¹.
 | Moment of a couple | One force × perpendicular separation of the two lines |
 | Centre of mass | Point through which the whole weight can be taken to act |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--02-third-law-pairs.webp" width="900" height="1090" alt="Two third-law pairs for a book on a table: Earth pulls book with book pulls Earth, and table pushes book with book pushes table. A pair is the same kind of force, equal and opposite, on different bodies. Weight and the normal force both act on the book, so they are not a pair." loading="lazy">
+  <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
+</figure>
+
+
 ## Scalars and vectors (3.2.1)
 
 | Scalar | Vector |
@@ -55,6 +61,12 @@ Where g is needed, use g = 9.81 N kg⁻¹.
 - Distance is path length. Displacement is the shortest separation between start and finish, with a direction.
 - Speed = distance/time. Velocity = displacement/time.
 - Mass does not depend on place. Weight = mass × gravitational field strength and points towards the planet's centre.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--08-collision-2d.webp" width="900" height="1110" alt="A 0.16 kg puck at 5.0 m s-1 hits a stationary 0.24 kg puck. The first leaves at 3.0 m s-1 at 35 degrees; the second leaves at 2.0 m s-1 at 34 degrees on the other side. A to-scale momentum triangle closes on the original 0.80 kg m s-1. Kinetic energy falls from 2.0 J to 1.22 J, so it is inelastic." loading="lazy">
+  <figcaption>Momentum is conserved on each axis, so the two final momenta add as vectors to the initial momentum.</figcaption>
+</figure>
+
 
 ## Adding vectors
 
@@ -99,6 +111,12 @@ Worked reminder: 12 N east plus 5 N north gives R = √(144 + 25) = 13 N at tan�
 
 Worked reminder: a 200 N weight hangs from two equal ropes, each 60° to the horizontal. 2T sin 60° = 200, so T = 115 N.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--01-slope-forces.webp" width="900" height="840" alt="Free-body diagram of a 12 kg block on a 25 degree slope with arrows to scale. Weight 118 N acts down, the normal contact force 107 N is perpendicular to the slope and friction 18 N acts up the slope. Weight is resolved into mg sin 25 = 49.8 N down the slope and mg cos 25 = 107 N into it, giving a net 31.8 N and a = 2.6 m s-2." loading="lazy">
+  <figcaption>The normal force is perpendicular to the slope, and the weight splits into components along and into it.</figcaption>
+</figure>
+
+
 ## Moments (3.2.2)
 
 - moment = F × d, where d is perpendicular to the line of action. Unit: N m.
@@ -109,6 +127,12 @@ Worked reminder: a 200 N weight hangs from two equal ropes, each 60° to the hor
 
 When a body is in equilibrium, total clockwise moment = total anticlockwise moment, about any one point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
+</figure>
+
+
 ### Method: beam in equilibrium
 
 1. Mark all forces; put a uniform beam's weight at its midpoint.
@@ -117,6 +141,12 @@ When a body is in equilibrium, total clockwise moment = total anticlockwise mome
 4. Resolve vertically (and horizontally if needed) for the other unknowns.
 
 Worked reminder: a uniform 2.0 m rod of mass 3.0 kg is pivoted 0.40 m from its left end. What mass m hung on the left end balances it? The rod's weight acts 0.60 m to the right of the pivot, so m × 0.40 = 3.0 × 0.60 and m = 4.5 kg. The pivot force is not needed, because it passes through the pivot.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--09-moments-beam.webp" width="900" height="930" alt="A 4.0 m, 220 N board rests on supports A and B with a 650 N worker 1.0 m from the left end. Taking moments about A removes R_A: 220 x 1.5 + 650 x 0.5 = R_B x 2.7, so R_B = 243 N, and balancing forces gives R_A = 627 N." loading="lazy">
+  <figcaption>Choose a pivot where an unknown force acts, equate clockwise and anticlockwise moments, then balance forces.</figcaption>
+</figure>
+
 
 ## Couples (3.2.2)
 
@@ -169,6 +199,12 @@ Worked reminder: 18 N forces 0.25 m apart give a couple of 18 × 0.25 = 4.5 N m.
 8. 30 × 1.6 = 24 × d, so d = 2.0 m on the other side of the pivot.
 9. d = 0.80 sin 65° = 0.725 m; moment = 40 × 0.725 = 29.0 N m.
 10. At its geometric centre, where the diagonals meet.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

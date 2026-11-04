@@ -63,6 +63,12 @@ Fall from 04:00 to 13:00 = 468 − 352 = **116 ppm**, which is 116 ÷ 468 × 100
 
 At 04:00 there is no light, so no photosynthesis, and respiration by crop, soil organisms and decomposers raises the concentration. By 13:00 photosynthesis runs faster than respiration, so the crop takes in more carbon dioxide than is released. By 19:00 light is falling, photosynthesis slows and the concentration rises again.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
+
 ### Long-term change and human activity
 
 Combustion of fossil fuels moves carbon from deposits formed over a very long time into the air. Clearing forest removes trees that fix carbon dioxide, and burning or decay of the wood releases the carbon. The result is a rise in the average concentration, with the short-term cycles still visible on top.
@@ -85,6 +91,12 @@ Seasonal range in year 1 = 421.8 − 416.7 = **5.1 ppm**. Year 2 gives the same,
 Rise from year 1 to year 2 is 2.3 ppm in every month, so the annual increase is **2.3 ppm**, which is 2.3 ÷ 421.8 × 100 = **0.55%** of the May value.
 
 The concentration falls from May to September because the large land areas of the northern hemisphere are in leaf, and photosynthesis exceeds respiration. It rises from September to May as leaves die, photosynthesis falls and decomposers respire the litter. The identical range each year shows a regular seasonal cycle. The steady annual rise shows a long-term increase that the cycle does not explain, and this fits the burning of fossil fuels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--06-carbon-cycle.webp" width="900" height="1230" alt="Producers fix carbon dioxide by photosynthesis and carbon passes along food chains. Respiration by all organisms and decomposition return carbon dioxide; combustion releases it quickly, fossilisation stores carbon for very long periods, and the oceans dissolve carbon dioxide and form shells and limestone." loading="lazy">
+  <figcaption>Carbon moves between air, organisms, fossil stores and the sea.</figcaption>
+</figure>
+
 
 ## Greenhouse effect and climatic change
 
@@ -121,6 +133,12 @@ Air is about four-fifths nitrogen gas, but producers cannot use it. They take up
 | Denitrification | Nitrate to N₂ | Denitrifying bacteria; anaerobic, as in waterlogged soil |
 
 Fixation and nitrification supply usable nitrogen. Denitrification removes it from the soil, so well-drained soil keeps its fertility better.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--05-nitrogen-cycle.webp" width="900" height="1200" alt="Nitrogen gas is fixed to ammonium by bacteria. Dead matter and urea are ammonified to ammonium by saprobionts, nitrifying bacteria oxidise ammonium to nitrite and nitrate, and plants take up nitrate. Denitrifying bacteria in waterlogged anaerobic soil return nitrogen to the air." loading="lazy">
+  <figcaption>Five bacterial processes move nitrogen between air, soil and living things.</figcaption>
+</figure>
+
 
 ## Fertilisers
 
@@ -160,6 +178,12 @@ Nitrate in a pond rose from 2.6 to 9.8 mg dm⁻³ in a fortnight. Algae rose fro
 Nitrate: (9.8 − 2.6) ÷ 2.6 × 100 = **277%**. Algae: 1 900 ÷ 55 = **34.5 times**. Oxygen fall = 6.5 mg dm⁻³, which is 6.5 ÷ 8.9 × 100 = **73%**.
 
 The oxygen fall comes after the algae peak because dead algae must first be decomposed by bacteria that use oxygen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--07-eutrophication.webp" width="900" height="1110" alt="Fertiliser nitrate and phosphate leach into a pond. Algae bloom and shade out plants; dead material feeds bacteria whose respiration lowers oxygen and fish die. Example data: nitrate +277%, algae x34.5, oxygen -73%." loading="lazy">
+  <figcaption>Leached ions trigger an algal bloom and then oxygen loss through bacterial respiration.</figcaption>
+</figure>
+
 
 ## Common errors
 

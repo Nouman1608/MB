@@ -49,6 +49,12 @@ Use them with the [practice questions](/resources/ib-dp-mathematics-ai-hl-furthe
 - **Piecewise model:** a function defined by different rules on different intervals of its domain.
 - **Semi-log graph:** log y plotted against x. **Log-log graph:** log y plotted against log x.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--05-half-life.webp" width="900" height="884" alt="A = 80e^(−kt) falls from 80 to 40 at t = 5.2, to 20 at 10.4, and is 16.2 mg at t = 12. k = ln 2 / half-life = 0.1333." loading="lazy">
+  <figcaption>The mass halves every half-life, and k = ln 2 divided by the half-life.</figcaption>
+</figure>
+
+
 ## Key results
 
 | Topic | Result |
@@ -101,6 +107,12 @@ The vertical steps must be stretch then translate. Swapping them gives p(f(x) + 
 2. The pair with |r| closer to 1 is the better linear fit.
 3. Run the linear regression on that pair, then convert: exponential gives k = e^(intercept), a = e^(gradient); power gives a = e^(intercept), b = gradient.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--04-order-of-transformations.webp" width="900" height="850" alt="With f(x) = x², stretching by 2 then translating up 3 gives vertex (0, 3); translating up 3 then stretching by 2 gives vertex (0, 6). Different order, different graph." loading="lazy">
+  <figcaption>The order of a stretch and a translation changes the final graph.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 - **Composite in context:** A conversion c(d) = 0.92d followed by a fee k(e) = 0.98e − 2 gives (k ∘ c)(d) = 0.9016d − 2.
@@ -150,6 +162,27 @@ The vertical steps must be stretch then translate. Swapping them gives p(f(x) + 
 11. k = 10^0.9 = 7.94, a = 10^0.25 = 1.78: **y = 7.94 × 1.78^x**.
 12. **|a| = 6, d = 9**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--03-follow-one-point.webp" width="900" height="1170" alt="The point (4, 6), the peak of y = f(x), maps under y = 3f(x + 2) − 1 to (2, 17): undo the bracket for x, apply the outside change to y. Lower graph: under y = f(2x), (4, 6) maps to (2, 6)." loading="lazy">
+  <figcaption>To find an image point, undo the bracket for x and apply the outside change to y.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--06-sinusoidal-tide.webp" width="900" height="844" alt="D(t) = 3.2 sin(0.507(t − 1.9)) + 5.2 has axis y = 5.2, amplitude 3.2, maximum 8.4 at t = 5, minimum 2.0 at t = 11.2 and period 12.4 h. The depth is above 7 m from t = 3.08 to 6.92, 3.84 hours." loading="lazy">
+  <figcaption>Amplitude, axis, period and shift can be read off the graph of the tide model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--07-logistic-limit.webp" width="900" height="856" alt="P(t) = 2400/(1 + 15e^(−kt)), k = ln5/4, starts at 150, passes (4, 600), reaches 2000 at t = 10.7 and levels off below the asymptote P = 2400, the carrying capacity." loading="lazy">
+  <figcaption>A logistic model grows quickly then levels off at its carrying capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--09-linearize-data.webp" width="900" height="1146" alt="Top: ln y against x curves away from its line, r = 0.957. Bottom: ln y against ln x lies on a straight line, r = 0.99997, so the power model y = 2.57x^1.49 fits better. Gradient is b and intercept is ln a." loading="lazy">
+  <figcaption>The linearized plot with r closer to 1 shows which model fits.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing f(g(x)) when the question asks for (g ∘ f)(x). Check which function is inside.
@@ -162,6 +195,12 @@ The vertical steps must be stretch then translate. Swapping them gives p(f(x) + 
 - Rounding k in a half-life or logistic model to 2 s.f. before substituting, so the final answer is outside 3 s.f. accuracy.
 - Reporting e^(gradient) as b in a power model. In a log-log fit, b is the gradient itself.
 - Making a prediction far outside the data range without commenting on extrapolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-functions-modelling--02-restricted-inverse.webp" width="900" height="990" alt="f(x) = (x − 2)² + 1 for x ≥ 2 rises from (2, 1); the dashed left half is outside the domain. Its inverse 2 + √(x − 1), x ≥ 1, is the reflection in y = x, with (4, 5) mapping to (5, 4). The domain of the inverse is the range of f." loading="lazy">
+  <figcaption>Restrict the domain, then reflect in y = x to get the inverse.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

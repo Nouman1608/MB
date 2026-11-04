@@ -59,6 +59,12 @@ Mg-26: 26 - 12 = 14
 
 Same Z, three values of N: three isotopes of one element.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-structure-binding-energy-and-types-of--01-isotopes-mg.webp" width="900" height="810" alt="Three magnesium nuclei drawn as proton and neutron clusters, each with 12 protons and 12, 13 and 14 neutrons. Nuclide symbols show A and Z, and N = A - Z is worked out under each. Same Z means the same electrons and chemistry; different N means different mass." loading="lazy">
+  <figcaption>Isotopes have the same proton number but different neutron numbers.</figcaption>
+</figure>
+
+
 ## Mass units
 
 Nuclear masses are given in three ways, and you must convert between them.
@@ -89,6 +95,12 @@ per nucleon      = 342 / 40 = 8.55 MeV
 
 In kg the mass defect is 0.367209 × 1.661 × 10⁻²⁷ = 6.10 × 10⁻²⁸ kg. As a mass it is 342 MeV/c². The three numbers describe one quantity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-structure-binding-energy-and-types-of--02-mass-defect.webp" width="900" height="1100" alt="Forty separate nucleons bind into a calcium-40 nucleus. A zoomed bar chart shows the free nucleons at 40.32980 u and the nucleus at 39.962591 u, with the 0.367209 u mass defect between them. It converts to 342 MeV, then 8.55 MeV per nucleon." loading="lazy">
+  <figcaption>The nucleus has less mass than its separate nucleons; the missing mass is the binding energy.</figcaption>
+</figure>
+
+
 ## The binding energy per nucleon curve
 
 Plot binding energy per nucleon against nucleon number A. You need to interpret it, not just recall it.
@@ -112,6 +124,12 @@ per nucleon = 492 / 56 = 8.79 MeV
 
 Iron-56 has 8.79 MeV per nucleon against 8.55 MeV for calcium-40, so it is more tightly bound. A larger total binding energy alone does not decide stability. Compare per nucleon.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-structure-binding-energy-and-types-of--03-be-curve.webp" width="900" height="850" alt="Graph of binding energy per nucleon against nucleon number, computed from atomic masses. It rises steeply, with helium-4 standing above its neighbours, peaks at about 8.8 MeV near iron and nickel, then falls slowly to about 7.6 for uranium-238. Arrows show fusion moving up from the left and fission moving up from the right. HL: nearly flat above A = 60." loading="lazy">
+  <figcaption>Moving towards the peak, by fusion of light nuclei or fission of heavy ones, releases energy.</figcaption>
+</figure>
+
+
 ## Mass-energy equivalence in nuclear reactions
 
 In a reaction, the energy released equals the mass difference (reactants minus products) multiplied by c². If the products have less mass, kinetic energy appears. If they have more, that energy must be supplied.
@@ -129,9 +147,21 @@ Momentum is conserved and starts at zero, so the alpha particle and the lead nuc
 alpha energy = 5.41 x 206/210 = 5.31 MeV   (lead recoil: 0.10 MeV)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-structure-binding-energy-and-types-of--04-po210-energy.webp" width="900" height="960" alt="A zoomed bar chart shows polonium-210 at 209.982874 u against its products at 209.977068 u, a loss of 0.005806 u or 5.41 MeV. Equal and opposite momentum arrows for the lead nucleus and alpha particle lead to an energy bar split 5.31 MeV for the alpha and 0.10 MeV for the lead recoil." loading="lazy">
+  <figcaption>The mass lost appears as kinetic energy, shared in the ratio 206 : 4 so the light alpha takes almost all of it.</figcaption>
+</figure>
+
+
 ## The strong nuclear force
 
 Protons in a nucleus repel each other electrically. Gravity between nucleons is far too weak to hold them together. So a third interaction must act: the **strong nuclear force**. It is attractive between nucleons, acts over only a few femtometres (1 fm = 10⁻¹⁵ m) and is much stronger than the electric repulsion at that range. Because its range is so short, each nucleon is bound only by its close neighbours.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-structure-binding-energy-and-types-of--05-strong-force.webp" width="900" height="1040" alt="A schematic nucleus with a dashed circle showing the strong force acts only a few femtometres, on close neighbours. Below, two protons about 1.5 fm apart: electric repulsion is about 100 N and gravity about 10^-34 N, and the strong attraction is drawn larger than the repulsion." loading="lazy">
+  <figcaption>The strong force is attractive, very short range and stronger than the electric repulsion at that range; gravity is far too weak.</figcaption>
+</figure>
+
 
 ## Random and spontaneous decay
 
@@ -160,6 +190,12 @@ Check the top numbers: 226 = 222 + 4; 14 = 14 + 0; 22 = 22 + 0. Check the bottom
 
 Gamma emission usually follows another decay, because the daughter nucleus is formed in an excited state. For example cobalt-60 decays by β⁻ to an excited nickel-60 nucleus, which then emits gamma photons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-structure-binding-energy-and-types-of--06-decay-changes.webp" width="900" height="880" alt="A grid of neutron number against proton number shows a parent nucleus. Alpha moves it two squares left and two down, beta-minus one left and one up, beta-plus one right and one down, and gamma does not move it. Cards give the radium, carbon and sodium examples with A and Z balance checked, and a gamma example." loading="lazy">
+  <figcaption>Each decay type shifts N and Z in a fixed way, and both A and charge balance in every equation.</figcaption>
+</figure>
+
+
 ## Penetration and ionizing ability
 
 | Radiation | Ionizing ability | Penetration |
@@ -169,6 +205,12 @@ Gamma emission usually follows another decay, because the daughter nucleus is fo
 | Gamma | Weakest | Reduced, not fully stopped, by thick lead or concrete |
 
 The more strongly a radiation ionizes, the faster it loses energy along its path, so it travels less far. Alpha particles are heavy and doubly charged, so they ionize densely. Uses follow from this. A thickness gauge for sheet metal needs a radiation that is partly absorbed, so the count changes with thickness. A tracer for a leak in an underground pipe needs radiation that escapes the ground and the pipe. For a medical tracer inside the body you want a gamma emitter, which can leave the body, with a short half-life (from the second part of E.3) so that exposure is low.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-structure-binding-energy-and-types-of--07-penetration.webp" width="900" height="940" alt="A source sends alpha, beta and gamma towards paper, a few millimetres of aluminium and thick lead. Alpha stops at paper with the densest ion trail, beta stops at aluminium with a moderate trail, and gamma passes both and is only reduced by thick lead with the sparsest trail." loading="lazy">
+  <figcaption>The more strongly a radiation ionizes, the faster it loses energy and the shorter its range.</figcaption>
+</figure>
+
 
 ## HL only: further understandings
 
@@ -181,6 +223,17 @@ The more strongly a radiation ionizes, the faster it loses energy along its path
 **Discrete nuclear levels.** Alpha particles from a given nuclide, and gamma photons, are found at a few definite energies, as line spectra. This means a nucleus has discrete energy levels, like an atom. An alpha line of lower energy goes with a daughter formed in an excited level, which then emits a gamma photon equal to the energy gap.
 
 **Continuous beta spectrum.** Beta particles come out with every energy from zero up to a maximum. If only an electron and a daughter nucleus were emitted, energy and momentum conservation would fix the electron energy, as in alpha decay. A continuous spread, with energy and momentum apparently missing, is evidence for a third particle, the neutrino, sharing the energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-structure-binding-energy-and-types-of--08-nz-stability-hl.webp" width="900" height="910" alt="Graph of N against Z with lines N = Z and N = 1.5 Z. Stable nuclides lie between them, moving from N about Z for light nuclei to about 1.5 Z for heavy ones. Above the band (too many neutrons) nuclides tend to beta-minus decay, below it (too few) to beta-plus, and very heavy radium-226 decays by alpha emission." loading="lazy">
+  <figcaption>Heavier stable nuclei need extra neutrons; too many neutrons gives beta-minus, too few gives beta-plus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-nuclear-structure-binding-energy-and-types-of--09-spectra-hl.webp" width="900" height="1060" alt="Top: alpha particles come at a few definite energies (a line spectrum) from a level diagram, and the lower-energy alpha goes with a gamma photon equal to the level gap. Bottom: beta electrons have every energy from zero to a maximum, unlike the single energy two bodies would give, which is evidence for the neutrino." loading="lazy">
+  <figcaption>Discrete alpha and gamma lines show nuclear energy levels; the continuous beta spectrum shows a third particle, the neutrino.</figcaption>
+</figure>
+
 
 ## Common errors
 

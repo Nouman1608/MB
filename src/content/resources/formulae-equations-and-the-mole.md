@@ -89,6 +89,12 @@ the formula.
 
 5070 has no tiers, so O Level candidates need both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--01-formula-from-model.webp" width="900" height="890" alt="Two ball-and-stick models. One nitrogen bonded to three hydrogens gives NH3. Two carbons each with three hydrogens give C2H6, which is not simplified to CH3." loading="lazy">
+  <figcaption>Count every atom in a molecule to write its molecular formula.</figcaption>
+</figure>
+
+
 ### Deducing ionic formulae from charges
 
 The compound must be electrically neutral, so total positive charge equals total negative
@@ -107,6 +113,22 @@ a subscript inside a formula — that changes the substance.
 
 State symbols are (s) solid, (l) liquid, (g) gas, (aq) aqueous.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--02-ionic-formula.webp" width="900" height="950" alt="One Mg2+ ion balances two Cl- ions, giving MgCl2. Two Al3+ ions (+6) balance three O2- ions (-6), giving Al2O3." loading="lazy">
+  <figcaption>The formula is the ratio of ions that makes total positive and negative charge equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--03-balancing-equations.webp" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
+  <figcaption>A balanced equation has the same atoms on both sides; state symbols show the physical state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--08-empirical-formula.webp" width="900" height="980" alt="Using example masses of 2.4 g carbon and 0.6 g hydrogen: moles are 0.2 and 0.6, ratio 1:3, empirical formula CH3 (mass 15). With Mr 30, multiply by 2 to give C2H6." loading="lazy">
+  <figcaption>Divide masses by Ar, divide by the smallest, then scale up using Mr for the molecular formula.</figcaption>
+</figure>
+
+
 ## 3.2 Relative masses of atoms and molecules
 
 **CORE (0620) · REQUIRED (5070)** — describe **relative atomic mass, Ar**, as the average
@@ -118,6 +140,12 @@ formula mass is used for ionic compounds.
 Core candidate does meet reacting-mass arithmetic, just without the mole.
 
 For CaCO₃: Ar(Ca) = 40, Ar(C) = 12, Ar(O) = 16, so Mr = 40 + 12 + (3 × 16) = **100**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--04-relative-formula-mass.webp" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
+  <figcaption>Mr is the sum of the Ar values of all atoms in the formula.</figcaption>
+</figure>
+
 
 ## 3.3 The mole and the Avogadro constant
 
@@ -135,6 +163,12 @@ particles — the **Avogadro constant**.
     amount (mol) = mass (g) ÷ molar mass (g/mol)
 
 How many moles in 50 g of calcium carbonate? Mr = 100, so 50 ÷ 100 = **0.5 mol**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
+</figure>
+
 
 ### Molar gas volume
 
@@ -155,12 +189,24 @@ For CaCO₃ → CaO + CO₂, decomposing 50 g of CaCO₃ gives 0.5 mol CaCO₃. 
 Where two reactants are given, identify the **limiting reactant** — the one that runs out
 first — and base the calculation on it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
+  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
+</figure>
+
+
 ### Concentration and titration
 
     concentration (mol/dm³) = amount (mol) ÷ volume (dm³)
 
 Remember to convert cm³ to dm³ by dividing by 1000. Titration calculations use
 experimental data to find an unknown concentration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
+</figure>
+
 
 ### Empirical and molecular formulae
 

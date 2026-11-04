@@ -77,6 +77,12 @@ The syllabus lists seven uses. Learn all seven by name, because a question may a
 
 Copy the syllabus wording where you can. "Movement" is weaker than "muscle contraction", and "making proteins" is weaker than "protein synthesis".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--01-uses-of-energy.webp" width="900" height="1100" alt="Glucose is respired and energy is released. Seven small pictures show its uses: muscle contraction, protein synthesis, cell division, active transport, growth, passage of nerve impulses and maintaining a constant body temperature (37 degrees Celsius)." loading="lazy">
+  <figcaption>Respiration releases the energy cells use for these seven jobs.</figcaption>
+</figure>
+
+
 ## Aerobic respiration (12.2)
 
 **Aerobic respiration** is the chemical reactions in cells that **use oxygen** to break down nutrient molecules to release energy. It releases much more energy per glucose molecule than anaerobic respiration.
@@ -100,6 +106,12 @@ Copy the syllabus wording where you can. "Movement" is weaker than "muscle contr
 Every atom balances. The pattern to remember is **one glucose, six of everything else**. So for 3 glucose molecules respired aerobically, 3 × 6 = **18** carbon dioxide molecules are released.
 
 Mark schemes want correct formulae **and** correct numbers. Write subscripts as small numbers after the symbol (O₂, not O2 in large type, and never 2O as a formula for oxygen gas).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
 
 ## Anaerobic respiration (12.3)
 
@@ -143,6 +155,12 @@ There is **no carbon dioxide** in the muscle equation, and no balanced equation 
 
 The uses of yeast respiration in making biofuels and bread belong to Topic 21 (Biotechnology), where you need these equations again.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
+
 ## Investigating temperature and respiration in yeast (12.1.2)
 
 Yeast is a single-celled fungus. In a warm glucose solution it respires and releases carbon dioxide, and the rate of carbon dioxide release is a measure of the rate of respiration.
@@ -174,6 +192,12 @@ The variable you change is **temperature**. Keep the same: volume and concentrat
 
 **Why the shape?** Respiration is controlled by enzymes. As temperature rises towards the optimum, molecules have more kinetic energy, so enzyme and substrate collide more often. Above the optimum, the enzymes are **denatured**: the active site changes shape and the substrate no longer fits. The kinetic-energy, collision and shape-and-fit explanation is Supplement content from Topic 5 (Enzymes), so use it in Extended answers; Core answers need only "the enzymes are denatured".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--04-yeast-temperature.webp" width="900" height="1195" alt="A boiling tube of yeast and glucose stands in a water bath; a delivery tube carries carbon dioxide into a small tube of water where bubbles are counted per minute. A graph of the lesson means shows 4, 9, 18, 11 and 1 bubbles per minute at 15, 25, 35, 45 and 55 degrees Celsius; the optimum lies somewhere between 25 and 45 degrees." loading="lazy">
+  <figcaption>Rate rises to a peak then falls as enzymes are denatured at high temperature.</figcaption>
+</figure>
+
+
 ## Oxygen debt (12.3.6 and 12.3.7, Extended only)
 
 During **vigorous exercise**, the heart and lungs cannot deliver oxygen to the muscles fast enough for all the energy needed to come from aerobic respiration. The muscles also respire **anaerobically**, producing **lactic acid**. **Lactic acid builds up in the muscles and blood**, and this causes an **oxygen debt**.
@@ -199,6 +223,12 @@ After exercise, the oxygen debt is removed in three ways, and the syllabus limit
 - By 15 minutes both rates are close to resting values: most of the debt has been repaid.
 
 A full answer links each observation to its own job. "She needs to get her breath back" earns nothing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--05-oxygen-debt.webp" width="900" height="1290" alt="Extended. Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after." loading="lazy">
+  <figcaption>Fast heart rate moves lactic acid to the liver and fast breathing supplies the oxygen to break it down.</figcaption>
+</figure>
+
 
 ## Common errors
 

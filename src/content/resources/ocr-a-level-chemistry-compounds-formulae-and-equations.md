@@ -74,6 +74,12 @@ expects you to apply general patterns (such as the ionic-charge rules
 above, or reaction-type patterns like acid-base neutralisation) rather
 than having memorised the specific reaction in advance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--09-spectator-ions.webp" width="900" height="930" alt="Two beakers show silver, chloride, sodium and nitrate ions before mixing. After reaction, solid silver chloride lies at the bottom and only sodium and nitrate ions remain dissolved. They are spectators, leaving Ag+(aq) + Cl-(aq) -&gt; AgCl(s)." loading="lazy">
+  <figcaption>Spectator ions are unchanged and are cancelled to give the ionic equation.</figcaption>
+</figure>
+
+
 ## The criss-cross method for combining charges
 
 When writing a formula from two ions of different charge magnitude,

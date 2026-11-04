@@ -37,6 +37,12 @@ Short recall notes for the AQA AS and A-level Biology specification (7401 and 74
 | Intracellular enzyme | Works inside the cell that made it |
 | Extracellular enzyme | Secreted and works outside the cell |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp" width="900" height="1130" alt="Three rows. Lock and key: a rigid notch-shaped active site that the substrate fits exactly. Induced fit: the site starts close to but not exactly complementary, and moulds round the substrate as it binds, straining bonds. Specificity: a round substrate of the wrong shape cannot bind." loading="lazy">
+  <figcaption>Lock and key has a fixed active site; in induced fit the site changes shape slightly as the substrate binds.</figcaption>
+</figure>
+
+
 ## How enzymes work
 
 1. Substrate collides with the active site.
@@ -46,6 +52,17 @@ Short recall notes for the AQA AS and A-level Biology specification (7401 and 74
 5. Product leaves. The enzyme is unchanged and can be used again.
 
 Tertiary structure fixes the shape of the active site. A different amino acid sequence can change the tertiary structure and the active site. That is why specificity is a property of the active site.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--03-activation-energy.webp" width="900" height="1060" alt="An energy profile from substrates to lower-energy products. The uncatalysed route has a high peak (large Ea); with an enzyme the peak is lower between the same substrates and products, so the overall energy change is unchanged. Two small pictures show an active site holding two substrates close in the correct orientation (building) and straining a bond (breaking)." loading="lazy">
+  <figcaption>An enzyme lowers the activation energy without changing the overall energy change of the reaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--01-enzyme-cycle.webp" width="900" height="1150" alt="Four panels in a cycle. Free enzyme E and substrate S, whose shape is complementary to the notch-shaped active site; the enzyme-substrate complex ES with the substrate in the site; the enzyme-product complex EP with the two product parts separating; then E + P with the products released and the active site free again. The enzyme is unchanged at the end." loading="lazy">
+  <figcaption>An enzyme binds its substrate, converts it and releases the products, ready to act again.</figcaption>
+</figure>
+
 
 ## Models over time
 
@@ -81,6 +98,27 @@ Tertiary structure fixes the shape of the active site. A different amino acid se
 | Raise substrate concentration | Effect reduced, same maximum reached | No recovery, lower maximum |
 | Raise inhibitor concentration | Rate falls | Rate falls |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--02-initial-rate-tangent.webp" width="900" height="990" alt="Oxygen volume against time with a tangent at t = 0 through (30, 12.0) giving 0.40 cm3 per s, and a dashed chord to 60 s giving the lower mean rate 0.25 cm3 per s." loading="lazy">
+  <figcaption>The tangent at time 0 gives the initial rate, higher than the 60 s mean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--01-enzyme-concentration-graphs.webp" width="900" height="1100" alt="Two graphs: rate against substrate concentration using the lesson no-inhibitor data, rising then flattening; and an illustrative rate against enzyme concentration, proportional then levelling off." loading="lazy">
+  <figcaption>Rate rises with substrate until enzyme concentration is limiting, and with enzyme until substrate runs short.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
+  <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
+  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
+</figure>
+
+
 ## Method in steps: pH calculation (MS 0.5)
 
 **pH = -log₁₀ [H⁺]** with [H⁺] in mol dm⁻³.
@@ -88,6 +126,12 @@ Tertiary structure fixes the shape of the active site. A different amino acid se
 - From concentration to pH: [H⁺] = 4.0 × 10⁻⁴ gives pH = **3.40**.
 - From pH to concentration: [H⁺] = 10⁻ᵖᴴ. pH 3.5 gives 10⁻³·⁵ = **3.2 × 10⁻⁴ mol dm⁻³**.
 - One unit lower in pH means ten times more H⁺. Two units means 100 times.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--05-ph-calculations.webp" width="900" height="810" alt="pH scale marking pH 2.60 for 2.5e-3, pH 8.2 for 6.3e-9 and a fall from pH 7 to pH 5 making [H+] 100 times greater." loading="lazy">
+  <figcaption>pH is minus log10 of [H+]; one pH unit is a tenfold change.</figcaption>
+</figure>
+
 
 ## Method in steps: Required Practical 1
 
@@ -110,6 +154,27 @@ Product concentration rises from 0 and the tangent at time 0 passes through (0, 
 - Graphs: a line graph or scatter graph for a continuous variable, a bar chart for categories.
 - Safety: eye protection, and take care with allergens and hydrogen peroxide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--03-rp1-method-a-oxygen.webp" width="900" height="720" alt="Flask of hydrogen peroxide and yeast in a water bath, bung and delivery tube to a gas syringe; three steps: warm both solutions, mix and time, read volume every 10 s." loading="lazy">
+  <figcaption>Method A collects oxygen from catalase in a gas syringe.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--04-rp1-method-b-timing.webp" width="900" height="900" alt="Five tubes with clearing times 240, 130, 70 and 55 s at 20 to 50 C and no clearing in 10 min at 60 C, with a graph of rate = 1/time and the 3.4 times ratio." loading="lazy">
+  <figcaption>Rate is 1 divided by time; 40 C is 3.4 times the rate at 20 C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--06-syringe-uncertainty.webp" width="900" height="870" alt="Two readings each plus or minus 0.5 give plus or minus 1.0 on a 12.0 cm3 difference, 8.3%; an illustrative 24.0 cm3 gives 4.2%." loading="lazy">
+  <figcaption>Larger volumes give smaller percentage uncertainties.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--07-enzyme-dilution.webp" width="900" height="840" alt="2.5 cm3 of 4.0% stock plus 7.5 cm3 water makes 10 cm3 at 1.0%." loading="lazy">
+  <figcaption>Stock volume = (1.0 / 4.0) x 10 = 2.5 cm3.</figcaption>
+</figure>
+
+
 ## Reading enzyme graphs
 
 | Graph | What to say |
@@ -122,6 +187,17 @@ Product concentration rises from 0 and the tangent at time 0 passes through (0, 
 | Substrate against time | Falls steeply, then levels at zero when the substrate has gone |
 
 Describe first with figures (for example "the rate doubled from 20 to 30 units"), then explain using the enzyme-substrate complex.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--01-inhibitor-data.webp" width="900" height="1130" alt="Graph of rate against substrate concentration with and without inhibitor X using the lesson table. The gap is 55% at concentration 2 and 14% at 32, so the curves head for the same maximum. Bars give the percentage reduction at every concentration." loading="lazy">
+  <figcaption>The gap shrinks as substrate rises, so X is competitive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--02-line-or-bar-graph.webp" width="900" height="1130" alt="A line graph for the lesson timing data (rates 1/time at 20 to 50 C) and a bar chart for categories." loading="lazy">
+  <figcaption>Continuous x: line graph with smooth curve; separate categories: bar chart.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

@@ -58,6 +58,12 @@ stimulus → receptor → coordination (nervous or endocrine) → effector → r
 - Stimuli can be **internal** (blood glucose rises after a meal) or **external** (cold air on skin).
 - Nervous: fast, short-lived. Endocrine: slower, longer-lasting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--01-temperature-control.webp" width="900" height="1030" alt="A strip shows receptors in skin and blood, the hypothalamus as coordinator, effectors in skin and muscle and the restored set point, with a feedback line back to the start. Two skin cross-sections follow. Too hot: wide blood vessel loop (vasodilation), sweat droplets and flat hairs. Too cold: narrow loop (vasoconstriction), no sweat, raised hairs and shivering muscle." loading="lazy">
+  <figcaption>Temperature control is negative feedback: receptors, hypothalamus and effectors reverse any change from the set point.</figcaption>
+</figure>
+
+
 ## 14.1.3–14.1.5 Urea, kidney and nephron
 
 - **Urea is made in the liver by deamination of excess amino acids.** State this; no cycle detail needed.
@@ -71,6 +77,17 @@ glomerulus → Bowman's capsule → proximal convoluted tubule → loop of Henle
 
 - Cortex: glomeruli, Bowman's capsules, PCT, DCT. Medulla: loops of Henle and collecting ducts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--02-nephron.webp" width="900" height="1090" alt="A schematic nephron across the cortex and medulla: wide afferent and narrow efferent arterioles at the glomerulus inside Bowman’s capsule, the coiled proximal tubule, the loop of Henle dipping into the medulla, the coiled distal tubule and a collecting duct shared with other nephrons that runs to the renal pelvis. Numbers give the job of each part." loading="lazy">
+  <figcaption>The nephron runs from the glomerulus in the cortex, through the loop of Henle in the medulla, to the collecting duct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--05-loop-of-henle.webp" width="900" height="1080" alt="A loop of Henle and a collecting duct drawn through a medulla that gets darker towards the bottom. Water leaves the descending limb by osmosis, so the filtrate gets more concentrated down the limb. Ions are pumped out of the ascending limb, which is impermeable to water, so the filtrate gets more dilute going up. Water leaves the collecting duct down the same gradient." loading="lazy">
+  <figcaption>The ascending limb pumps out ions and the descending limb loses water, building a steep gradient that lets the collecting duct recover water.</figcaption>
+</figure>
+
+
 ## 14.1.6–14.1.7 Forming urine
 
 ### Ultrafiltration: method in steps
@@ -78,6 +95,12 @@ glomerulus → Bowman's capsule → proximal convoluted tubule → loop of Henle
 1. Afferent arteriole **wider** than efferent → **high hydrostatic pressure** in glomerulus.
 2. Fluid forced through **endothelium pores → basement membrane (the filter) → podocyte filtration slits**.
 3. Filtrate = water, glucose, amino acids, urea, ions. **Not** blood cells or most plasma proteins.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
+  <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
+</figure>
+
 
 ### Selective reabsorption in the PCT: method in steps
 
@@ -94,6 +117,12 @@ glomerulus → Bowman's capsule → proximal convoluted tubule → loop of Henle
 | Tight junctions | Filtrate cannot leak between cells |
 | Next to capillaries | Short diffusion distance |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
+  <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
+</figure>
+
+
 ## 14.1.8 Osmoregulation
 
 | Blood water potential **falls** (dehydrated) | Blood water potential **rises** (drank a lot) |
@@ -107,6 +136,12 @@ glomerulus → Bowman's capsule → proximal convoluted tubule → loop of Henle
 
 ADH route: made in the **hypothalamus**, stored and released by the **posterior pituitary**, acts on **collecting duct** cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
+</figure>
+
+
 ## 14.1.9 Glucagon signalling: the six links
 
 1. Glucagon binds receptor → **conformational change**
@@ -115,6 +150,12 @@ ADH route: made in the **hypothalamus**, stored and released by the **posterior 
 4. cAMP activates **protein kinase A** → starts **enzyme cascade**
 5. **Amplification**: each enzyme phosphorylates and activates many of the next
 6. Final enzyme (glycogen phosphorylase) catalyses **glycogen → glucose**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
+  <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
+</figure>
+
 
 ## 14.1.10 Blood glucose control
 
@@ -126,6 +167,17 @@ ADH route: made in the **hypothalamus**, stored and released by the **posterior 
 | Effects | More GLUT4 transporters in muscle membranes → more glucose uptake; **glycogenesis**; more glucose respired | **Glycogenolysis**; **gluconeogenesis**; glucose released to blood |
 
 Both are negative feedback: the response stops the hormone's own trigger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--07-blood-glucose-control.webp" width="900" height="1110" alt="A graph of blood glucose against time with a shaded 4 to 6 mmol per dm cubed band: a meal raises it and insulin brings it back, exercise lowers it and glucagon raises it. Below, glucose too high: beta cells release insulin, the liver makes glycogen and muscle and fat cells gain glucose channels. Glucose too low: alpha cells release glucagon, the liver breaks glycogen down and makes glucose from amino acids and glycerol." loading="lazy">
+  <figcaption>Insulin lowers and glucagon raises blood glucose, acting on the liver and on muscle and fat cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--09-glucose-tolerance.webp" width="900" height="1050" alt="A graph of blood glucose for two people over 120 minutes after a glucose drink. Person A starts at 4.9, peaks at 7.8 (a 59 percent rise) and returns to 4.9. Person B starts at 7.4, peaks at 14.0 and is still 10.4, 3.0 above the start, at 120 minutes. Two cards show Type 1 (beta cells destroyed) and Type 2 (receptors respond poorly to insulin)." loading="lazy">
+  <figcaption>A person whose glucose does not return to its starting range after a glucose drink may have diabetes.</figcaption>
+</figure>
+
 
 ## 14.1.11 Test strips and biosensors
 

@@ -63,6 +63,12 @@ Volume conversion: 1 dm³ = 1000 cm³, so divide cm³ by 1000 to get dm³. RTP m
 
 Example: in 3Ca(OH)₂ there are 3 Ca, 6 O and 6 H atoms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--03-balancing-equations.webp" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
+  <figcaption>A balanced equation has the same atoms on both sides; state symbols show the physical state.</figcaption>
+</figure>
+
+
 ## 4.3.1.2 Relative formula mass
 
 - Mr is the sum of the relative atomic masses of the atoms in the numbers shown in the formula. No units.
@@ -78,6 +84,17 @@ Mr of Ca(OH)2 = 40 + 2 × (16 + 1) = 74
                 % N = (2 × 14) ÷ 80 × 100 = 35%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-quantitative-chemistry-revision-notes--02-percent-by-mass.webp" width="900" height="880" alt="A bar of total Mr 80 is split into nitrogen 28, hydrogen 4 and oxygen 48. The nitrogen part is 28 of 80, so 35 percent by mass, using Ar x atoms divided by Mr x 100." loading="lazy">
+  <figcaption>Percentage by mass of N in NH4NO3 is 28 / 80 x 100 = 35%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--04-relative-formula-mass.webp" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
+  <figcaption>Mr is the sum of the Ar values of all atoms in the formula.</figcaption>
+</figure>
+
+
 ## 4.3.1.3 Mass changes when a gas is involved
 
 In a non-enclosed system, the mass on the balance can change. Mass is still conserved; a gas has simply
@@ -90,6 +107,12 @@ entered or left.
 
 Always use the equation: point to the gas (g) and say where its particles went or came from.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--01-conservation-open-closed.webp" width="900" height="890" alt="Two flasks on balances: a stoppered flask keeps reading 10.0 g while an open flask reading 5.6 g has lost 4.4 g of CO2 gas. The equation 10.0 g = 5.6 g + 4.4 g shows mass is conserved." loading="lazy">
+  <figcaption>Heating calcium carbonate: the open flask reads less only because the gas escaped.</figcaption>
+</figure>
+
+
 ## 4.3.1.4 Chemical measurements
 
 - Every measurement has some uncertainty.
@@ -100,6 +123,17 @@ Readings: 31.2, 30.8, 31.6 cm³
 Mean = 31.2 cm³   Range = 31.6 − 30.8 = 0.8 cm³
 Result = 31.2 ± 0.4 cm³
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-quantitative-chemistry-revision-notes--01-uncertainty-three-readings.webp" width="900" height="840" alt="Three readings 31.2, 30.8 and 31.6 cm3 on a number line with mean 31.2 and range 0.8. Half the range gives 31.2 plus or minus 0.4 cm3." loading="lazy">
+  <figcaption>Uncertainty is half the range about the mean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--04-range-mean-uncertainty.webp" width="900" height="830" alt="Five illustrative readings from 24.2 to 24.6 cm3 on a number line with mean 24.4, range 0.4 and uncertainty plus or minus 0.2, giving 24.4 +/- 0.2 cm3." loading="lazy">
+  <figcaption>The mean and half the range show how uncertain a measurement is (illustrative data).</figcaption>
+</figure>
+
 
 ## 4.3.2.1 Moles (Higher tier only)
 
@@ -115,6 +149,12 @@ Result = 31.2 ± 0.4 cm³
 molecules = 0.200 × 6.02 × 10^23 = 1.20 × 10^23
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--06-avogadro-moles-particles.webp" width="900" height="1020" alt="One mole of C, H2O and CO2 has different masses (12, 18, 44 g) but the same 6.02 x 10^23 particles. 8.8 g CO2 is 0.2 mol, which is 1.20 x 10^23 molecules." loading="lazy">
+  <figcaption>The Avogadro constant converts moles to number of particles (Higher tier).</figcaption>
+</figure>
+
+
 ## 4.3.2.2 Reacting masses -- method in steps (Higher tier only)
 
 1. Write the balanced equation.
@@ -128,6 +168,17 @@ moles CaCO3 = 25 ÷ 100 = 0.25 mol  →  ratio 1 : 1  →  0.25 mol CaO
 mass CaO = 0.25 × 56 = 14 g
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-quantitative-chemistry--05-mg-mgo-reacting-mass.webp" width="900" height="1070" alt="6.0 g Mg divided by 24 gives 0.25 mol; the 2:2 ratio gives 0.25 mol MgO; times 40 gives 10.0 g. Check: 6.0 g Mg plus 4.0 g O2 equals 10.0 g. One mole is 6.02 x 10^23 particles, so 0.25 mol Mg is about 1.5 x 10^23 atoms." loading="lazy">
+  <figcaption>Mass to moles, mole ratio, moles to mass: 6.0 g Mg makes 10.0 g MgO.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
+  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
+</figure>
+
+
 ## 4.3.2.3 Balancing from masses -- method in steps (Higher tier only)
 
 1. Convert each mass to moles (mass ÷ Mr).
@@ -139,6 +190,12 @@ mass CaO = 0.25 × 56 = 14 g
 moles: Fe 0.10, O2 0.075, Fe2O3 0.050
 ÷ 0.050:  2 : 1.5 : 1   × 2:  4 : 3 : 2   →   4Fe + 3O2 → 2Fe2O3
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--05-balance-from-masses.webp" width="900" height="910" alt="Illustrative masses 4.8 g Mg, 3.2 g O2 and 8.0 g MgO become 0.20, 0.10 and 0.20 mol; dividing by 0.10 gives 2:1:2, so 2Mg + O2 gives 2MgO." loading="lazy">
+  <figcaption>Reacting masses to moles to ratio to a balanced equation (Higher tier).</figcaption>
+</figure>
+
 
 ## 4.3.2.4 Limiting reactants (Higher tier only)
 
@@ -152,12 +209,29 @@ Mg = 0.20 mol; O2 = 0.15 mol; 0.20 mol Mg needs only 0.10 mol O2
 Mg is limiting; MgO = 0.20 mol × 40 = 8.0 g
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-quantitative-chemistry-revision-notes--02-limiting-mg-o2.webp" width="900" height="860" alt="Bars show 0.20 mol Mg and 0.15 mol O2. Mg needs only 0.10 mol O2 so Mg is limiting, giving 0.20 mol MgO = 8.0 g." loading="lazy">
+  <figcaption>Magnesium runs out first, so it fixes the mass of MgO.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--02-limiting-reactant.webp" width="900" height="890" alt="Particle picture for Mg + 2HCl: before, 4 Mg and 6 HCl; after, 3 MgCl2, 3 H2 and 1 Mg left over. HCl runs out first so it limits the products." loading="lazy">
+  <figcaption>The reactant that is used up first limits how much product forms.</figcaption>
+</figure>
+
+
 ## 4.3.2.5 Concentration of solutions
 
 - Concentration in g/dm³ = mass of solute ÷ volume of solution in dm³.
 - 15 g dissolved to make 250 cm³ → 15 ÷ 0.250 = **60 g/dm³**. Mass in 40 cm³ of it: 60 × 0.040 = **2.4 g**.
 - **Higher tier only:** more solute in the same volume gives a higher concentration; the same mass in a larger
   volume gives a lower concentration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
+</figure>
+
 
 ## 4.3.3 Yield and atom economy
 
@@ -181,6 +255,12 @@ atom economy = (2 × 46) ÷ 180 × 100 = 51.1%
 **Higher tier only:** choose a reaction pathway by weighing atom economy, yield, rate, equilibrium position
 and whether the by-products are useful.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--03-yield-vs-atom-economy.webp" width="900" height="910" alt="Top: a bar of Mr 100 split into 56 wanted CaO and 44 by-product CO2 gives atom economy 56%. Bottom: 4.2 g actual against 5.6 g theoretical gives yield 75%. Example numbers are illustrative." loading="lazy">
+  <figcaption>Atom economy comes from the equation; percentage yield measures practical losses.</figcaption>
+</figure>
+
+
 ## 4.3.4 Concentrations in mol/dm³ (Higher tier only)
 
 - moles = concentration (mol/dm³) × volume (dm³). 0.050 mol in 250 cm³ → 0.050 ÷ 0.250 = **0.20 mol/dm³**.
@@ -195,6 +275,12 @@ moles H2SO4 = 0.100 × 0.0200 = 0.00200 mol  →  NaOH = 0.00400 mol
 [NaOH] = 0.00400 ÷ 0.0250 = 0.160 mol/dm³  = 0.160 × 40 = 6.40 g/dm³
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--01-cc-titration-calc.webp" width="900" height="940" alt="A burette of 0.150 mol/dm3 sulfuric acid sits above a flask of 25.0 cm3 sodium hydroxide. Four numbered steps follow: moles of acid 0.00300, ratio 1 to 2 giving 0.00600 mol NaOH, divide by 0.0250 dm3 to get 0.240 mol/dm3, multiply by 40 to get 9.60 g/dm3." loading="lazy">
+  <figcaption>Worked example 5 as four steps: moles of acid, ratio, concentration, then g/dm3 (Higher tier only).</figcaption>
+</figure>
+
+
 ## 4.3.5 Volumes of gases (Higher tier only)
 
 - Equal amounts in moles of gases occupy the same volume at the same temperature and pressure.
@@ -202,6 +288,12 @@ moles H2SO4 = 0.100 × 0.0200 = 0.00200 mol  →  NaOH = 0.00400 mol
 - 3.2 g of O₂ = 0.10 mol → 0.10 × 24 = **2.4 dm³**.
 - The mole ratio for gases in an equation is also their volume ratio. CH₄ + 2O₂ → CO₂ + 2H₂O: 40 cm³ of methane
   needs 80 cm³ of oxygen and makes 40 cm³ of carbon dioxide (water is a liquid at RTP).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--04-gas-volumes.webp" width="900" height="910" alt="Three gas syringes drawn to scale for N2 + 3H2 giving 2NH3 show 10, 30 and 20 cm3, a 1:3:2 volume ratio equal to the mole ratio. 8.8 g of CO2 is 0.2 mol, so 4.8 dm3 at r.t.p." loading="lazy">
+  <figcaption>Gas volumes at the same temperature and pressure follow the mole ratio.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

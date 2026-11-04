@@ -83,6 +83,17 @@ nucleus radius < atom radius / 10 000
 
 To picture it: if the atom were a stadium with a 100 m radius, the nucleus would have a radius under 1 cm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-atomic-structure--07-atom-nucleus-size-scale.webp" width="900" height="920" alt="An atom drawn as a large circle with a radius arrow marked 10^-10 m and a tiny nucleus at the centre. The nucleus is under one ten-thousandth of the radius, below 10^-14 m; for a 100 m stadium it would be under 1 cm." loading="lazy">
+  <figcaption>The nucleus radius is less than 1/10 000 of the atom radius.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-atomic-structure--08-electron-energy-level-jumps.webp" width="900" height="780" alt="Two atoms with three energy-level circles. In one an electron absorbs radiation (wavy arrow in) and moves outwards; in the other an electron moves inwards and emits radiation (wavy arrow out)." loading="lazy">
+  <figcaption>Absorbing radiation moves an electron out; emitting it moves the electron in.</figcaption>
+</figure>
+
+
 ### Atomic number, mass number and isotopes
 
 - In an atom, the number of electrons equals the number of protons, so the atom has **no overall charge**.
@@ -104,6 +115,12 @@ In nuclear notation, the mass number is written top left and the atomic number b
 
 They are isotopes: same number of protons, different number of neutrons. A Li⁺ ion has lost one electron, so
 it has 2 electrons but still 3 protons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
+
 
 ### How the model of the atom developed
 
@@ -133,6 +150,17 @@ dense, positively charged centre.
 
 You do not need the details of Bohr's or Chadwick's experiments.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--06-atom-models.webp" width="900" height="940" alt="Four pictures in order: Dalton’s solid ball, Thomson’s plum pudding with electrons set in positive charge, Rutherford’s tiny dense nucleus with electrons far away, and Bohr’s electrons in fixed shells. An atom is about 10 to the minus 10 metres across." loading="lazy">
+  <figcaption>The atomic model changed from a solid ball to a nuclear atom with electrons in shells.</figcaption>
+</figure>
+
+
 ## 4.4.2 Atoms and nuclear radiation
 
 ### Radioactive decay
@@ -152,6 +180,17 @@ called **radioactive decay**.
 A nucleus can also emit a **neutron (n)**. You must be able to use these properties to choose the best
 source for a given use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-atomic-structure--09-activity-vs-count-rate.webp" width="900" height="740" alt="A source emits 16 arrows (decays) in all directions; a detector on one side catches only 3. Activity counts all decays per second, count-rate only those the detector records." loading="lazy">
+  <figcaption>Count-rate is the part of the activity that the detector actually records.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
+
 ### Nuclear equations
 
 In nuclear equations, an alpha particle is written ⁴₂He and a beta particle ⁰₋₁e. The top numbers (mass
@@ -170,6 +209,12 @@ number 38) decays by beta emission to yttrium.
 ```
 
 You will be given the names of the daughter elements; you only balance the numbers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
+</figure>
+
 
 ### Half-life and randomness
 
@@ -196,6 +241,17 @@ net decline = 60 : 960 = 1 : 16   (the count-rate is 1/16 of its first value)
 
 After n half-lives, the remaining fraction is 1/2ⁿ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-atomic-structure--10-net-decline-960-to-60.webp" width="900" height="880" alt="Five bars from 960 to 60 counts per minute at 0, 15, 30, 45 and 60 minutes. The net decline after four half-lives is 60 : 960 = 1 : 16." loading="lazy">
+  <figcaption>Four halvings leave 1/16 of the starting count-rate, a net decline of 1 : 16.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--05-half-life-curve.webp" width="900" height="810" alt="A decay curve of count rate against time for half-life 8.0 days. The rate falls 1200, 600, 300, 150, 75 at 0, 8, 16, 24 and 32 days. After 24 days (three half-lives) it is 150 counts/s." loading="lazy">
+  <figcaption>The count rate halves after each half-life.</figcaption>
+</figure>
+
+
 ### Contamination and irradiation
 
 - **Radioactive contamination** is the unwanted presence of radioactive atoms on or in other materials. The
@@ -206,6 +262,12 @@ Contamination lasts as long as the contaminating atoms keep decaying. Irradiatio
 removed or shielded. Precautions such as shielding, keeping your distance, limiting time and handling
 sources with tongs protect against the source. Findings on the effects of radiation on humans must be
 published and shared so other scientists can check them by **peer review**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-atomic-structure--02-contamination-irradiation.webp" width="900" height="850" alt="An object is irradiated by a source outside it; when the source is removed the rays stop and the object is not radioactive. A contaminated object has radioactive atoms on or in it, which keep decaying later, so it stays a hazard." loading="lazy">
+  <figcaption>Irradiation stops when the source is removed; contamination lasts while the atoms keep decaying.</figcaption>
+</figure>
+
 
 ## 4.4.3 Hazards and uses of radioactive emissions
 
@@ -246,10 +308,22 @@ The emitted neutrons may cause further fissions: a **chain reaction**. In a nucl
 reaction is controlled to control the energy released. A nuclear weapon's explosion comes from an
 **uncontrolled** chain reaction. You should be able to draw and interpret diagrams of these steps.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-atomic-structure--01-fission-chain.webp" width="900" height="1150" alt="A large nucleus absorbs a neutron and splits into two smaller nuclei, releasing two or three neutrons and gamma rays. In a reactor control rods absorb extra neutrons so the count stays 1, 1, 1, 1. In an uncontrolled reaction each fission causes two more, so the count goes 1, 2, 4 and keeps growing." loading="lazy">
+  <figcaption>A fission releases neutrons that can cause more fissions: controlled in a reactor, uncontrolled in a weapon.</figcaption>
+</figure>
+
+
 ### Fusion
 
 **Nuclear fusion** is the joining of two light nuclei to form a heavier nucleus. Some of the mass may be
 converted into the energy of radiation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-atomic-structure--11-fission-splits-fusion-joins.webp" width="900" height="890" alt="Two rows. Fission: a large nucleus absorbs a neutron, splits into two smaller nuclei and emits neutrons. Fusion: two light nuclei join into a heavier nucleus and energy is released." loading="lazy">
+  <figcaption>Fission splits heavy nuclei; fusion joins light nuclei.</figcaption>
+</figure>
+
 
 ## Common errors
 

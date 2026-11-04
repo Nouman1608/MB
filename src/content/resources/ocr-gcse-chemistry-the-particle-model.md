@@ -65,6 +65,17 @@ Evaporation happens at a liquid's surface at any temperature; boiling happens th
 
 Changes of state are **reversible**. Cool water vapour and you get liquid water; cool that and you get ice. The particles are the same water molecules throughout, and the mass does not change, because no particles are gained or lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--05-subliming-skips-liquid.webp" width="900" height="720" alt="A solid lattice and a gas with a dashed liquid box between marked skipped; a curved arrow labelled subliming goes from solid to gas and energy is taken in." loading="lazy">
+  <figcaption>Subliming goes from solid to gas without a liquid stage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--02-changes-of-state.webp" width="900" height="980" alt="Solid, liquid and gas are stacked with small particle pictures. Melting (solid to liquid) and boiling or evaporating (liquid to gas) take energy in. Freezing (liquid to solid) and condensing (gas to liquid) give energy out." loading="lazy">
+  <figcaption>Melting, boiling or evaporating take in energy; freezing and condensing release it.</figcaption>
+</figure>
+
+
 ### Worked example 1: deciding a state from data
 
 *Use these values. At what state is each substance at 20 °C, and which one changes state if it is warmed to 60 °C? Describe what happens to its particles.*
@@ -85,6 +96,17 @@ Changes of state are **reversible**. Cool water vapour and you get liquid water;
 **Step 4.** For P, the particles take in energy, move faster and spread far apart, moving quickly and randomly. The particles themselves stay the same.
 
 Watch the negative numbers: −183 is higher than −218.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--04-states-from-data.webp" width="900" height="1100" alt="Strips for P, Q, R and S show solid, liquid and gas zones with melting and boiling points. At 20 C P is liquid, Q solid, R gas, S solid; at 60 C only P changes, to gas." loading="lazy">
+  <figcaption>Compare the temperature with the melting and boiling points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--01-three-states.webp" width="900" height="990" alt="Three boxes compare the states. Solid particles are closely packed in a regular grid and vibrate in place. Liquid particles are close but irregular and slide past each other, filling the bottom of a container. Gas particles are far apart and move fast in all directions, filling their container." loading="lazy">
+  <figcaption>Arrangement, spacing and movement of particles explain the properties of solids, liquids and gases.</figcaption>
+</figure>
+
 
 ## C1.1b: Physical changes and chemical changes
 
@@ -116,6 +138,17 @@ The specification suggests observing changes of state and comparing them with ch
 
 The wax shows a physical change: same substance before and after. The copper(II) carbonate shows a chemical change: a new black solid (copper(II) oxide) and a new gas (carbon dioxide) form. Wear eye protection, and take the delivery tube out of the limewater before the heating stops, so no suck-back happens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--07-wax-vs-copper-carbonate.webp" width="900" height="1130" alt="Wax warmed and cooled returns to solid wax (physical). Green copper(II) carbonate heated gives gas that turns limewater cloudy and a black solid that stays black (chemical)." loading="lazy">
+  <figcaption>Same wax before and after, but new substances from copper carbonate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--01-same-or-new-particles.webp" width="900" height="1000" alt="Top: six water molecules in a neat grid (ice) become the same six molecules jumbled (liquid water), so only the arrangement changes. Bottom: four magnesium atoms and two O2 molecules become four MgO units, so new particles, a new substance, form." loading="lazy">
+  <figcaption>A physical change keeps the same particles; a chemical change makes new ones.</figcaption>
+</figure>
+
+
 ## C1.1c: Limitations of the particle model (Higher Tier only)
 
 The simple model draws particles as **inelastic spheres**, like bowling balls: hard, solid, all alike and bouncing without changing. This is useful for describing the states, but OCR names three things it does not take into account.
@@ -138,6 +171,12 @@ Nor does the model explain why different materials have different properties. Th
 
 **Step 4.** Across a 210 mm wide sheet of A4, only about four steam particles would fit in a row. A diagram with gas particles a few millimetres apart shows the spaces far too small. The particles themselves fill only about 1/1700 of the volume, roughly 0.06%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--03-mp-che-16-gas-spacing.webp" width="900" height="1040" alt="Three rows of particles at one scale. In liquid water the centres are one width apart, a typical textbook gas drawing shows two to three, and steam to scale is about 12 widths apart because 1 g expands from 1 cm3 to 1700 cm3 and the cube root of 1700 is about 12." loading="lazy">
+  <figcaption>Real gas particles are much further apart than textbook diagrams show.</figcaption>
+</figure>
+
+
 ## CM1.1i: Moving between three dimensions and two
 
 Real substances are three-dimensional, but you draw them on flat paper. You need to read a 2D diagram as a 3D structure and the other way round.
@@ -154,9 +193,21 @@ Real substances are three-dimensional, but you draw them on flat paper. You need
 
 The same skill applies to the allotropes of carbon named in CM1.1i. A flat drawing of graphite shows one layer of hexagons, but graphite is many stacked layers. A 2D sketch of diamond hides the fact that its carbon atoms are joined in three dimensions. You study these in Topic C2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--06-cube-64-balls.webp" width="900" height="950" alt="A cube of balls has 4 x 4 x 4 = 64 balls; one face drawn in 2D shows 16; the hidden core is 2 x 2 x 2 = 8, so 56 are on the surface." loading="lazy">
+  <figcaption>A 2D drawing shows only one layer of a 3D solid.</figcaption>
+</figure>
+
+
 ## How the model was developed
 
 Evidence for particles built up over time (Working Scientifically 1.1a). In 1827 the botanist Robert Brown saw tiny particles from pollen grains jiggling randomly in water under a microscope. In 1905 Albert Einstein explained this as the particles being struck by moving water molecules, and Jean Perrin's experiments in 1908–1909 confirmed his predictions. New instruments gave new evidence, and the model gained support. The model is also used to make predictions (Working Scientifically 1.1b), such as which state a substance will be in at a given temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--08-brownian-motion.webp" width="900" height="880" alt="A pollen grain follows a random zig-zag path as water molecules strike it. Timeline: Brown 1827, Einstein 1905, Perrin 1908-09." loading="lazy">
+  <figcaption>Brownian motion is evidence for moving particles.</figcaption>
+</figure>
+
 
 ## Common errors
 

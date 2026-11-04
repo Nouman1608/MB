@@ -97,6 +97,17 @@ A graph shows the cost, $C, of a taxi ride against distance, d km. It is a strai
 
 You cannot scale here. A 20 km ride costs 33 dollars, not twice the 18 dollars for 10 km, because the fixed charge is paid once.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--01-miles-to-km.webp" width="900" height="930" alt="A conversion graph for miles and kilometres is a straight line through the origin and (50, 80). Reading up from 30 miles and across gives 48 km, and the gradient 80 divided by 50 is 1.6 km per mile. Because the line passes through (0, 0), values can be scaled." loading="lazy">
+  <figcaption>Reading a conversion graph, and why a line through the origin lets you scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--02-taxi-fare.webp" width="900" height="930" alt="A taxi cost graph starts at $3 on the vertical axis, the fixed charge. The gradient is 15 dollars per 10 km, $1.50 per km, and $24 is read across to 14 km. A 20 km ride costs $33, not the $36 that scaling would give." loading="lazy">
+  <figcaption>A line with an intercept: gradient is the rate, intercept is the fixed charge, and scaling fails.</figcaption>
+</figure>
+
+
 ## Travel graphs (distance–time)
 
 On a distance–time graph, time is on the horizontal axis and distance from a fixed point (often "home") is on the vertical axis.
@@ -129,6 +140,12 @@ A delivery van's distance–time graph is made of straight lines joining these p
 
 In (d), the van ends where it started but still travelled 72 km, and the stop counts in the time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--03-van-journey.webp" width="900" height="930" alt="A distance-time graph of a van: 36 km out in 45 minutes (48 km/h), a flat 30 minute stop, then 36 km back in an hour (36 km/h). The whole trip is 72 km in 2.25 hours, so the average speed is 32 km/h, with the stop counted." loading="lazy">
+  <figcaption>Reading speed, stops and average speed from a distance-time graph.</figcaption>
+</figure>
+
+
 ## Drawing graphs from given data
 
 To draw a practical graph:
@@ -155,6 +172,12 @@ Average speed = 16 km / 1.5 h = 10.7 km/h (3 s.f.)
 ```
 
 The return leg is less steep than the first because 12 km/h is slower than 16 km/h.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--04-draw-journey.webp" width="900" height="930" alt="Amira cycles 8 km at 16 km/h in 30 minutes, rests 20 minutes, then takes 40 minutes to ride home at 12 km/h. The four points join with straight lines, and the return leg is less steep. Her average speed is 16 km in 1.5 hours, 10.7 km/h." loading="lazy">
+  <figcaption>How a journey description becomes four plotted points.</figcaption>
+</figure>
+
 
 ## Gradient of a tangent to a curve (Extended only)
 
@@ -187,6 +210,12 @@ Speed after 3 s is about 6 m/s.
 ```
 
 A tangent drawn by eye gives an estimate. A line joining two points on the curve (a chord) gives an average speed over an interval, not the speed at 3 s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--05-tangent-speed.webp" width="900" height="930" alt="A curved distance-time graph through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25). A tangent at (3, 9) passes through (2, 3) and (5, 21), so its gradient is 18 divided by 3 = 6 m/s. A chord to (5, 25) has gradient 8 and only gives an average." loading="lazy">
+  <figcaption>Speed at one instant is the gradient of the tangent, not of a chord.</figcaption>
+</figure>
+
 
 ## Speed–time graphs, acceleration and deceleration (Extended only)
 
@@ -239,6 +268,12 @@ acceleration = (15 - 5) / 4 = 2.5 m/s^2
 ```
 
 The first section is a trapezium because the car does not start from rest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--06-speed-time-area.webp" width="900" height="890" alt="A speed-time graph for a cyclist: 0 to 12 m/s in 8 s, 12 m/s for 20 s, then to rest in 6 s. The area under the graph is the distance, 48 + 240 + 36 = 324 m, and the average speed is 324 divided by 34 = 9.53 m/s." loading="lazy">
+  <figcaption>Gradient is acceleration and area under the graph is distance.</figcaption>
+</figure>
+
 
 ## Common errors
 

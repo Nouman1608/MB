@@ -88,6 +88,17 @@ For comparison, one molecule after 30 cycles gives 2³⁰ = 1 073 741 824 copies
 
 Why it matters: forensic samples are often tiny, and PCR gives enough DNA to profile. Contamination is the main risk, because a single stray cell's DNA is also amplified.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--04-three-ways-to-get-a-gene.webp" width="900" height="1070" alt="Three routes are shown. Restriction enzymes cut the gene from the genome but it keeps its introns. Reverse transcriptase copies mRNA to cDNA and DNA polymerase makes the second strand, giving a gene with no introns. A gene machine builds the gene from a known base sequence." loading="lazy">
+  <figcaption>Restriction cutting keeps introns, whereas cDNA and machine-made genes have none.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--05-pcr-cycle.webp" width="900" height="1230" alt="A temperature trace shows 95 C, about 60 C and 72 C plateaus. Three panels show one cycle: heat separates the strands, primers anneal to the 3 prime end of each template, and Taq polymerase extends each primer 5 prime to 3 prime. A bar chart shows copies doubling each cycle, from 4 to 256 in 6 cycles." loading="lazy">
+  <figcaption>Each PCR cycle denatures, anneals and extends, doubling the number of DNA molecules.</figcaption>
+</figure>
+
+
 ## 6.18 Gel electrophoresis
 
 **Gel electrophoresis** separates DNA fragments by length. Fragments may come from PCR or from DNA cut with **restriction enzymes**, which cut at specific base sequences.
@@ -107,6 +118,12 @@ Each band is a group of fragments of the same length. Compare band positions wit
 * 24 mm is 4 mm past the 1000 bp band, which is half of one 8 mm halving step.
 * Length = 1000 × 2^(−4/8) = 1000 × 0.707 = 707, so **about 700 bp**.
 * A second fragment of 1000 bp (20 mm) with this one fits a 1700 bp piece of DNA cut once, since 1000 + 700 = 1700.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--06-gel-electrophoresis.webp" width="900" height="1109" alt="An agarose gel has wells at the negative end and DNA runs towards the positive electrode. Smaller fragments travel further. Linear 6000 bp DNA cut twice gives 3300, 1500 and 1200 bp bands; a 5000 bp circle cut twice gives 2300 and 2700 bp bands." loading="lazy">
+  <figcaption>Negatively charged DNA runs to the anode, with smaller fragments travelling further.</figcaption>
+</figure>
+
 
 ## 6.19 DNA profiling
 
@@ -136,6 +153,22 @@ The child's paternal alleles are 12 at locus 1, 15 at locus 2 and 9 at locus 3. 
 If the frequencies of the matching repeat patterns in the population are 0.12, 0.09, 0.15 and 0.06 at four loci, multiplying gives 0.0000972, about 1 in 10 000. This shows why using many loci makes a chance match unlikely. This calculation goes beyond the statement but shows how strong the evidence is.
 
 **Plants and animals.** Profiling works for any organism. Uses include checking parentage in a breeding programme, choosing unrelated mates to limit inbreeding in captive animals, confirming the identity of a crop variety, and linking illegally traded plant or animal material to a source population.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--01-restriction-sticky-ends.webp" width="900" height="975" alt="Four steps show a DNA duplex with the palindromic site GAATTC. The enzyme cuts after the G in each strand, leaving AATT single-stranded sticky ends. Plasmid and gene ends cut with the same enzyme anneal by hydrogen bonds, and DNA ligase then forms phosphodiester bonds across the two nicks." loading="lazy">
+  <figcaption>Cutting both DNA molecules with the same enzyme gives matching sticky ends, and ligase seals the backbone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--07-dna-profile-paternity.webp" width="900" height="1010" alt="Four lanes of band sizes in kb show mother, child and two men. The child has bands 6.5 and 3.5 that the mother lacks, so they come from the father. Man A has both; Man B lacks 3.5 and is excluded. Five independent loci with chances 0.1, 0.05, 0.2, 0.08 and 0.125 give a chance match of 1 in 100 000." loading="lazy">
+  <figcaption>Bands the child lacks from the mother must come from the father: Man A fits, Man B is excluded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--08-sanger-sequencing.webp" width="900" height="1061" alt="The template is copied by DNA polymerase. Strands of every length from 1 to 12 stop at a labelled dideoxynucleotide that lacks a 3 prime OH. Reading the last base from shortest to longest gives G A T T C G C T A A G C, the new strand 5 prime to 3 prime, complementary to the template." loading="lazy">
+  <figcaption>Chain-terminating nucleotides give fragments of every length, and the last bases read shortest to longest spell the new strand.</figcaption>
+</figure>
+
 
 ## 6.20 Estimating time of death in a mammal
 

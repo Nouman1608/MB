@@ -49,6 +49,12 @@ Chain to learn as a sentence: **hypothalamus, GnRH, anterior pituitary, LH and F
 
 Never say the pituitary makes sex steroids, or the gonads make GnRH.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--01-puberty-gnrh-chain.webp" width="900" height="1140" alt="The hypothalamus releases more GnRH, which acts on the anterior pituitary to release more LH and FSH; these act on the gonads, which make steroid sex hormones (testosterone from the testes, oestradiol and progesterone from the ovaries). A bar chart shows LH in a boy rising from 0.8 to 4.2 IU per litre, a 425 percent increase. Labelled silhouettes show the resulting changes in males and females, and both sexes have a growth spurt." loading="lazy">
+  <figcaption>Rising GnRH raises LH and FSH, which raise sex hormone output from the gonads and bring about puberty.</figcaption>
+</figure>
+
+
 ## Gametogenesis (D3.1.14)
 
 Four stages in both: mitosis, cell growth, meiosis (two divisions), differentiation.
@@ -68,11 +74,23 @@ Chromosome counts in humans: primary spermatocyte or oocyte 46, secondary cell 2
 
 Reminder: 50 primary spermatocytes give 50 × 4 = 200 sperm. 50 primary oocytes give 50 eggs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--02-gametogenesis-compared.webp" width="900" height="1120" alt="Two columns follow one primary cell through meiosis I, meiosis II and differentiation. A primary spermatocyte (46 chromosomes) gives two cells of 23 chromosomes, then four spermatids, then four equal sperm. A primary oocyte divides unequally, giving a large secondary oocyte and a first polar body, then (only if a sperm enters) a large egg and polar bodies that degenerate." loading="lazy">
+  <figcaption>One cell gives four equal sperm but only one egg, which keeps almost all the cytoplasm.</figcaption>
+</figure>
+
+
 ## Polyspermy (D3.1.15)
 
 - **Acrosome reaction** (sperm): enzymes from the acrosome digest a route through the zona pellucida; the sperm reaches the egg membrane.
 - **Cortical reaction** (egg): cortical granules fuse with the egg membrane and release contents that change the zona pellucida so no more sperm can pass.
 - Result of failure: a zygote with three sets of chromosomes (69), which cannot develop normally.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--03-preventing-polyspermy.webp" width="900" height="1180" alt="Two panels show the top of an egg. In the acrosome reaction the sperm releases enzymes that digest a path through the zona pellucida to the egg membrane. In the cortical reaction, cortical granules under the egg membrane release their contents, altering the zona pellucida so other sperm cannot bind. Two sperm would give 23 x 3 = 69 chromosomes." loading="lazy">
+  <figcaption>The acrosome reaction lets one sperm in; the cortical reaction keeps the rest out.</figcaption>
+</figure>
+
 
 ## Blastocyst and implantation (D3.1.16)
 
@@ -81,12 +99,29 @@ Reminder: 50 primary spermatocytes give 50 × 4 = 200 sperm. 50 primary oocytes 
 - The progesterone-primed endometrium is thick and vascular.
 - Do not learn other embryo stage names. They are not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--04-blastocyst-implantation.webp" width="900" height="1040" alt="The zygote divides by mitosis down the oviduct to 2, 4 and 8 cells and then a blastocyst. About a week after fertilization the blastocyst, with outer trophoblast cells, an inner cell mass and a fluid-filled cavity, reaches the uterus. Its outer cells release enzymes that digest the thick, blood-rich endometrium so it sinks in, and hCG is secreted." loading="lazy">
+  <figcaption>The blastocyst attaches to the endometrium, digests part of it and sinks in.</figcaption>
+</figure>
+
+
 ## hCG pregnancy tests (D3.1.17)
 
 - hCG made by the embryo, then the developing placenta, and found in blood and urine.
 - Test strip has monoclonal antibodies against hCG: one set mobile with a coloured label, one set fixed in a line.
 - Positive result: coloured line from labelled hCG-antibody complexes caught at the fixed line.
 - Specificity comes from monoclonal antibodies binding one site on hCG.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--05-hcg-test-strip.webp" width="900" height="1100" alt="Urine moves along a test strip by capillary action. Mobile antibodies with a coloured marker bind hCG and travel on; a fixed line of further anti-hCG antibodies traps the complex, producing a coloured test line. A control line shows the test has worked. A positive result has test and control lines; a negative result has the control line only. Monoclonal antibodies are identical and bind one site on hCG." loading="lazy">
+  <figcaption>Labelled monoclonal antibodies bind hCG and a fixed antibody line traps the complex, giving a coloured line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--06-hcg-rise.webp" width="900" height="930" alt="A graph of hCG against days after ovulation with the lesson values 6, 13, 27 and 120 mIU per mL on days 9, 11, 13 and 17, a 20-fold rise in 8 days. A dashed line at 25 mIU per mL marks the test threshold, crossed first on day 13. Small test windows show the control line only on day 11 and both lines on day 13." loading="lazy">
+  <figcaption>With a 25 mIU/mL threshold the test first turns positive on day 13.</figcaption>
+</figure>
+
 
 ## Placenta (D3.1.18)
 
@@ -96,6 +131,12 @@ Reminder: 50 primary spermatocytes give 50 × 4 = 200 sperm. 50 primary oocytes 
 - Blood of mother and foetus do not mix.
 - Harmful substances (alcohol, some drugs, some viruses) can cross.
 - Benefit: foetus stays in the uterus to a later stage than in mammals without a placenta.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--07-placenta-exchange.webp" width="900" height="990" alt="Finger-like villi of foetal tissue, each with a foetal capillary and thin barrier, project into a pool of the mother's blood, giving a large surface area. Oxygen, glucose, amino acids, water and IgG antibodies pass to the foetus; carbon dioxide, urea and other wastes, and heat, pass to the mother. Maternal and foetal blood stay separate." loading="lazy">
+  <figcaption>The placenta exchanges substances across thin barriers while the two blood supplies stay separate.</figcaption>
+</figure>
+
 
 ## Pregnancy and childbirth hormones (D3.1.19)
 
@@ -108,6 +149,12 @@ Reminder: 50 primary spermatocytes give 50 × 4 = 200 sperm. 50 primary oocytes 
 
 **Positive feedback loop for birth:** contractions, then head presses on cervix, then impulses to hypothalamus, then more oxytocin released, then stronger contractions. It stops at birth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--08-childbirth-feedback.webp" width="900" height="1120" alt="After progesterone falls and the uterus becomes sensitive to oxytocin, a loop runs: the baby's head presses the cervix, stretch receptors send impulses to the hypothalamus, the posterior pituitary releases oxytocin and stronger contractions follow, which press harder on the cervix. The loop ends when the baby is born." loading="lazy">
+  <figcaption>Oxytocin positive feedback strengthens contractions until the baby is born.</figcaption>
+</figure>
+
+
 ## HRT and CHD (D3.1.20)
 
 | Study type | Finding | Reliability |
@@ -116,6 +163,12 @@ Reminder: 50 primary spermatocytes give 50 × 4 = 200 sperm. 50 primary oocytes 
 | Later randomized controlled trials | Small increase in CHD with HRT | Randomization spreads confounders evenly |
 
 Lesson: a correlation does not prove cause and effect. Look for a confounding variable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--09-hrt-correlation-causation.webp" width="900" height="1080" alt="Women who chose HRT tended to have higher socioeconomic status, a confounding variable that lowers CHD risk. Bar charts show an observational study (1.5% of HRT users and 2.5% of non-users with CHD, relative risk 0.6) and a randomised trial (1.3% on HRT and 1.1% on placebo, relative risk 1.18). Randomisation shares confounders evenly between groups." loading="lazy">
+  <figcaption>A correlation in observational data was explained by a confounder; randomised trials found a small increase in CHD risk.</figcaption>
+</figure>
+
 
 ## Method in steps: evaluating HRT evidence
 

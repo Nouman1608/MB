@@ -45,6 +45,12 @@ A battery is cells joined end to end, positive terminal to negative terminal. Th
 
 A bigger voltage drives a bigger current through the same resistance, because V = IR gives I = V/R. A torch with more cells in series is therefore brighter. Check that the cells all point the same way: the sum rule is for cells that push charge in the same direction round the loop.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of--03-cells-in-series.webp" width="900" height="830" alt="Five 1.5 V cells joined end to end with a lamp. Brackets show 3 cells give 4.5 V, 4 give 6.0 V and 5 give 7.5 V. Voltages add, so 6.0 V needs 6.0 divided by 1.5 = 4 cells." loading="lazy">
+  <figcaption>Cells in series add their voltages.</figcaption>
+</figure>
+
+
 ## 2. Two ways of joining components (3.5.1 q)
 
 **In series**, components are joined one after another in a single loop, so there is only one path for the charge.
@@ -77,6 +83,12 @@ The shared potential difference means the pd across each component adds up to th
 
 **Series weakness.** If one component fails and breaks the loop, the current stops everywhere. This is why a series string of lamps all go out together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of--05-series-circuit-10v-15-35.webp" width="900" height="930" alt="A 10 V cell drives an ammeter and 15 ohm and 35 ohm resistors in series. The ammeter reads 0.20 A and voltmeters across each resistor read 3.0 V and 7.0 V. The ammeter is in series and each voltmeter is in parallel." loading="lazy">
+  <figcaption>Worked example 1 with the ammeter in series and voltmeters across each resistor; 3.0 V + 7.0 V = 10 V.</figcaption>
+</figure>
+
+
 ## 4. Parallel rules (3.5.1 s)
 
 | Quantity | Rule for components in parallel |
@@ -104,6 +116,17 @@ To see why the combined resistance falls, think about the whole circuit. Each ex
 
 **Parallel strength.** If one branch breaks, the other branches still have the full supply pd across them and carry on working.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of--05-adding-a-branch.webp" width="900" height="1050" alt="Two circuits on a 15 V supply. With 50 and 75 ohm branches the currents are 0.30 A and 0.20 A, supply 0.50 A, combined 30 ohm. Adding a 150 ohm branch carries 0.10 A, others unchanged, supply 0.60 A, combined 25 ohm." loading="lazy">
+  <figcaption>Adding a parallel branch raises the supply current and lowers the combined resistance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
+
 ## 5. Mixed circuits (3.5.1 q)
 
 A mixed circuit has a series part and a parallel block. Treat the parallel block as one component in series with the rest. Work in this order:
@@ -124,6 +147,12 @@ A mixed circuit has a series part and a parallel block. Treat the parallel block
 
 The block (12 Ω) is smaller than either branch (20 Ω and 30 Ω), as the parallel rule says.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of--04-mixed-circuit.webp" width="900" height="920" alt="A 20 V supply with an ammeter reading 0.50 A and a 28 ohm resistor in series with a parallel block of 20 ohm and 30 ohm. The 28 ohm resistor takes 14 V, leaving 6.0 V across the block. Branches carry 0.30 A and 0.20 A; the block is 12 ohm; total 40 ohm." loading="lazy">
+  <figcaption>Worked example 3: series resistor then a parallel block.</figcaption>
+</figure>
+
+
 ## 6. The heating effect of current (3.5.1 t)
 
 When charge flows through a resistor, the resistor gets hot. The charges moving through the wire are electrons. As they drift along they collide with the stationary atoms (positive ions) of the wire. Each collision transfers some energy from the moving charge to the atoms, which vibrate more. More vibration means a higher temperature, so the wire becomes hot and transfers thermal energy to its surroundings.
@@ -136,6 +165,12 @@ Four points to use in explanations:
 - The connecting wires have low resistance, so little energy is transferred in them and they stay cool by comparison.
 
 In a series circuit the same charge passes through each resistor, so the resistor with the larger pd transfers more energy, because the energy per unit charge is the pd. In Worked example 1, the 35 Ω resistor (7.0 V) transfers more energy than the 15 Ω resistor (3.0 V).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of--06-heating-effect-collisions.webp" width="900" height="910" alt="Electrons drift through a wire from the negative to the positive end, colliding with fixed positive ions. Each collision passes energy to an ion, which vibrates more, so the wire gets hotter and gives thermal energy to its surroundings." loading="lazy">
+  <figcaption>Collisions between electrons and atoms heat the wire.</figcaption>
+</figure>
+
 
 ## 7. Wasted energy, filament bulbs and CFLs (3.5.1 t)
 
@@ -154,6 +189,12 @@ You may give it as a decimal or as a percentage. Multiply by 100 for a percentag
 - Energy saved by using the CFL for one hour (3600 s) = (60 - 12) x 3600 = 172 800 J, so **1.73 x 10^5 J**.
 
 The same amount of light costs far less energy. When you buy a new appliance you have a choice: look for the one that transfers energy more efficiently, because the less energy wasted, the less the user has to supply. This matters both for the user's bills and for the total amount of energy that has to be generated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of--07-filament-vs-cfl.webp" width="900" height="930" alt="Bars compare a filament lamp supplied with 60 J each second (3 J light, 57 J heat, 5% efficient) with a CFL supplied with 12 J (3 J light, 9 J heat, 25% efficient). The CFL saves 48 J per second, 1.73 times 10 to the 5 J per hour." loading="lazy">
+  <figcaption>Same light from a CFL wastes far less energy than a filament lamp.</figcaption>
+</figure>
+
 
 ## Common errors
 

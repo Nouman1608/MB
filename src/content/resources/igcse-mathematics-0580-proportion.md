@@ -78,6 +78,12 @@ y ∝ 1/√x      becomes   y = k/√x
 "Varies directly as" means the same as "is directly proportional to", and "varies inversely as"
 means "is inversely proportional to".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--01-direct-shapes.webp" width="900" height="990" alt="Five direct proportion graphs for x from 0 to 4 with k = 1: y = x cubed, x squared, x, square root of x and cube root of x. All start at the origin and pass through (1, 1). The powers rise steeply; the roots flatten." loading="lazy">
+  <figcaption>Every direct proportion graph starts at O; powers curve upwards and roots flatten.</figcaption>
+</figure>
+
+
 ### The method, every time
 
 1. Write the relationship with ∝, then as an equation with k.
@@ -166,6 +172,12 @@ k = 4          formula: y = 4(x + 2)²
 
 Square the whole bracket. A common slip is to work out x² + 2 instead of (x + 2)².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--05-root-worked.webp" width="900" height="1000" alt="The graph of P = 3 times the square root of Q. The given point (16, 12) gives k = 3. Reading up from Q = 49 gives P = 21, and reading across from P = 27 gives Q = 81 because squaring undoes the root." loading="lazy">
+  <figcaption>Find k from one point, then read the graph either way.</figcaption>
+</figure>
+
+
 ## Inverse proportion
 
 When y is inversely proportional to something, the "something" goes in the **denominator**.
@@ -235,6 +247,17 @@ For t = 8:      8 = 72/n,  n = 72/8 = 9 pumps
 A quick check for any inverse linear relationship: the product t × n stays the same
 (4 × 18 = 6 × 12 = 9 × 8 = 72).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--02-inverse-shapes.webp" width="900" height="940" alt="Five inverse proportion graphs with k = 1: 1 over the cube root of x, the square root of x, x, x squared and x cubed. All pass through (1, 1) and fall towards the x-axis without reaching zero. Higher powers fall faster." loading="lazy">
+  <figcaption>In inverse proportion y falls as x rises, and a higher power falls faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--06-pumps-inverse.webp" width="900" height="1000" alt="The graph of t = 72 over n for pumps and hours. Rectangles to (4, 18), (6, 12) and (9, 8) all have area 72 because t times n is constant. 6 pumps take 12 hours and 9 pumps take 8 hours." loading="lazy">
+  <figcaption>In inverse proportion the product t × n stays the same.</figcaption>
+</figure>
+
+
 ## The effect of a change
 
 Some questions give no numbers for x or y. They ask what happens to y when x changes. You
@@ -263,6 +286,17 @@ can answer straight from the power in the formula.
 ```
 
 The answer to (a) is not 20%. You square the multiplier 1.1, not the percentage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--03-square-the-change.webp" width="900" height="680" alt="Squares with sides 1, 2 and 3 contain 1, 4 and 9 unit squares. Doubling x multiplies y by 4 and tripling x multiplies y by 9. The multiplier on x is squared." loading="lazy">
+  <figcaption>For y = kx squared, multiplying x by a number multiplies y by that number squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--04-ten-percent-square.webp" width="900" height="970" alt="A unit square grows by 10 percent on each side. Two strips of 0.10 and a corner of 0.01 are added, so the area is 1.21. y rises by 21 percent, not 20 percent." loading="lazy">
+  <figcaption>A 10% rise in x gives a 21% rise in y when y is proportional to x squared.</figcaption>
+</figure>
+
 
 ## Recognising the type from a table
 

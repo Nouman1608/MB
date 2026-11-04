@@ -39,6 +39,12 @@ Also useful: the [course hub](/boards/oxfordaqa/igcse/mathematics/), the [printa
 | Question says "use a graph" | Draw both lines, read the crossing |
 | One linear and one quadratic (Extension only) | Substitution, then solve a quadratic |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic--01-substitute-in-brackets.webp" width="900" height="1170" alt="Worked example 3: y = 3x - 4 is substituted in brackets into 2x + 5y = 14 to give 2x + 5(3x - 4) = 14, then 17x = 34, x = 2 and y = 2. A graph shows both lines crossing at (2, 2)." loading="lazy">
+  <figcaption>Put the expression for y in brackets, solve for x, then find y.</figcaption>
+</figure>
+
+
 ## Elimination in steps
 
 1. Label the equations (1) and (2).
@@ -79,6 +85,12 @@ Worked reminder: y = 2x + 1 and 3x + y = 16 gives 3x + 2x + 1 = 16, so 5x = 15, 
 
 Quick test for parallel lines: scale one equation until its x and y terms match the other's. If the constants then differ, there is no solution. For 2x + 3y = 5 and 4x + 6y = 7, doubling the first gives 4x + 6y = 10, not 7.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic--04-two-lines-outcomes.webp" width="900" height="1120" alt="Three graphs: 4x + 3y = 17 and 2x - 5y = -11 cross at (2, 3); 2x + 3y = 5 and 4x + 6y = 7 are parallel; 3x - 2y = 7 and 6x - 4y = 14 are the same line." loading="lazy">
+  <figcaption>Two lines meet once, never, or everywhere.</figcaption>
+</figure>
+
+
 ## Graphs
 
 * Find two or three points on each line, using a table of values. Pick x-values that give whole-number y-values where you can.
@@ -86,6 +98,12 @@ Quick test for parallel lines: scale one equation until its x and y terms match 
 * Read the coordinates at the crossing and state the precision your scale allows.
 * A graph gives an approximate answer. If the question says "solve algebraically", a graph reading does not earn the answer.
 * If the lines look parallel on your grid, check the gradients before writing "no solution".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
 
 ## Getting equations into shape
 
@@ -146,6 +164,12 @@ If the linear equation is not already in the form y = …, rearrange it first. W
 | equal to 0 | 1 (line touches the curve) |
 | less than 0 | 0 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic--05-line-meets-parabola.webp" width="900" height="1150" alt="Three parabola and line graphs from the lesson examples, with discriminants 9, 0 and -12 giving two, one and no intersection points." loading="lazy">
+  <figcaption>The discriminant tells you how many times a line meets a curve.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 * **Elimination or substitution:** both give the same answer. Choose the one with less arithmetic.
@@ -178,6 +202,17 @@ If the linear equation is not already in the form y = …, rearrange it first. W
 8. x² + x − 9 = 3x − 1 gives x² − 2x − 8 = 0, so (x − 4)(x + 2) = 0. Then y = 3x − 1 gives **(4, 11) and (−2, −7)**
 9. x² + 2 = 4x − 2 gives x² − 4x + 4 = 0, which is (x − 2)² = 0. One repeated root, so one point: **(2, 6)**.
 10. x² + 3x = 2x − 5 gives x² + x + 5 = 0. Here b² − 4ac = 1 − 20 = −19, which is negative, so there is **no real solution**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic--02-surd-intersections.webp" width="900" height="1031" alt="The line y = 3 - 2x meets y = x squared + x - 4 at two points. x squared + 3x - 7 = 0 gives x = (-3 plus or minus root 37)/2, which is 1.54 or -4.54 to 3 s.f., so the points are (1.54, -0.0828) and (-4.54, 12.1)." loading="lazy">
+  <figcaption>Keep the surd in the working and round only in the last line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

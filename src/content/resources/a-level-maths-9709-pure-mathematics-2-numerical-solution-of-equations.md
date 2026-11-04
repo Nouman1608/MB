@@ -97,6 +97,22 @@ A sign change is only a proof when f is continuous on the whole interval.
 
 This is why a sketch first is useful: it shows how many roots to look for and whether there is a break in the graph.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--01-sign-change-root.webp" width="900" height="910" alt="f(x)=x^3+2x^2-5 is below the axis at x=1 (f=-2) and above at x=2 (f=11), so the continuous curve crosses between them near 1.2419. A zoom on 1.235 to 1.245 shows f negative then positive, so the root is 1.24 to 2 d.p." loading="lazy">
+  <figcaption>A change of sign of a continuous function proves a root, and testing both ends of the rounding interval fixes the decimal places.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--02-sign-change-fails.webp" width="900" height="1000" alt="Three graphs: 1/(x-2) on 1 to 3 changes sign across an asymptote with no root; (2x-3)^2 on 1 to 2 touches the axis with equal signs at the ends; (x-1)(x-2)(x+3) on 0.5 to 2.5 has two roots but positive ends." loading="lazy">
+  <figcaption>A sign change proves a root only if the function is continuous, and no sign change proves nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--05-newton-raphson-fails.webp" width="900" height="920" alt="On y = x^3-12x+7 a start at x=2 has a flat tangent, x=2.1 throws the next value to 9.37, and x=3 converges to 3.1240." loading="lazy">
+  <figcaption>Starting at or near a stationary point sends Newton-Raphson away from the root you want.</figcaption>
+</figure>
+
+
 ## Sequences of approximations
 
 An iterative method produces a sequence of values x₁, x₂, x₃, …. The starting value is x₁ (sometimes x₀ if the question says so), and each new value is found from the one before. If the values get closer and closer to a root α, we say the sequence **converges** to α and write xₙ → α as n → ∞.
@@ -216,6 +232,12 @@ alpha^3 = 20,   so alpha = cube root of 20
 ```
 
 **α = ∛20**. The iterates 3, 2.7407, 2.7147, 2.7144, 2.7144 agree with ∛20 = 2.7144 (4 d.p.). When a question says "find the exact value", replace xₙ and xₙ₊₁ by α and solve algebraically. Do not quote a rounded iterate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1270" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
+  <figcaption>Where the curve y = g(x) meets y = x is the root; the path converges when the curve is flatter than the line there.</figcaption>
+</figure>
+
 
 ## Using your calculator
 

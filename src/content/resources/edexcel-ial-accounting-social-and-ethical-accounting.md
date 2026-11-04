@@ -53,6 +53,12 @@ An accounting decision is any choice informed by accounting figures: closing a d
 
 Social effects often feed back into the accounts later: a business that pollutes may face fines or lost customers, and one that cuts safety spending may face compensation claims and staff absence. Not every social effect is negative, either. Automation may remove dangerous jobs, and a move may create jobs in a poorer area. Balanced answers consider both sides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--09-spreadsheet-whatif.webp" width="900" height="1010" alt="Two grids show the production budget before and after one input changes from 38 to 41. Materials cost goes from 15,770, 18,050, 19,570 (total 53,390) to 17,015, 19,475, 21,115 (total 57,605), an increase of 4,215." loading="lazy">
+  <figcaption>Changing one input cell recalculates every formula that depends on it.</figcaption>
+</figure>
+
+
 ## 1.6.2 Non-financial factors
 
 A **non-financial factor** is anything relevant to a decision that cannot be measured reliably in money. The money measurement concept (1.1.9) means the accounts record only items that can be expressed in money. So the accounts are silent on staff morale, reputation, customer loyalty, quality and the effect on the community, even when these matter more than the profit figure.
@@ -95,6 +101,12 @@ A **stakeholder** is any person or group with an interest in the business. Each 
 
 Stakeholder interests often **conflict**. The owner gains from lower wage costs; the employees lose. Spotting the conflict, and saying which group the decision favours, is what turns a description into analysis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--07-cafe-closure.webp" width="900" height="1060" alt="A waterfall for the café: gross profit 54,000 less wages 46,000 leaves 8,000; less apportioned overheads of 12,600 gives a 4,600 loss on paper. Closing it leaves the 63,000 overheads in place, so total profit falls from 53,000 to 45,000." loading="lazy">
+  <figcaption>A department that makes a loss after apportioned overheads can still add to total profit.</figcaption>
+</figure>
+
+
 ## Worked example 1: closing a department
 
 Farida Lowe owns Ashdene Home Store, which has three departments. Its departmental statement of profit or loss for the year is below (all figures in $). General overheads of 63,000 have been apportioned by floor area: Garden 40%, Kitchenware 40%, Café 20%.
@@ -125,6 +137,12 @@ Farida wants to close the café because it "makes a loss". The café employs loc
 
 **Step 5: judgement.** Farida should keep the café open: it contributes 8,000, and the social factors point the same way. The apportioned overhead made it look loss-making; the decision depends on contribution, not on a share of costs that will remain anyway.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--06-governance-checks.webp" width="900" height="910" alt="Shareholders appoint the board and the external auditors; auditors report back to shareholders. The board has a chair and a CEO who are different people, plus independent non-executive directors. Audit and remuneration committees, made of independent NEDs, sit below; the remuneration committee sets directors’ pay. AQA only: comply or explain." loading="lazy">
+  <figcaption>Independent checks stop directors from marking their own homework.</figcaption>
+</figure>
+
+
 ## 1.6.4 Ethics in accounting analysis and decision making
 
 **Ethics** means acting honestly and fairly. The specification puts it plainly: "Accounting involves presenting a true and fair representation of the information." Ethical accounting means that the figures, and the analysis built on them, are not bent to suit the person preparing or using them.
@@ -141,6 +159,17 @@ Ethical issues arise in two places.
 **In decisions.** A decision can be legal and profitable yet unethical: buying from a supplier that uses unsafe working conditions, paying suppliers late on purpose, or hiding a product fault. Ethics asks whether the decision is fair to everyone it affects, not only whether it raises profit.
 
 If asked to do something unethical, an accountant should explain the correct treatment, refuse to record misleading figures, keep a written note, and raise the issue with someone independent if pressure continues.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--08-pressure-on-profit.webp" width="900" height="940" alt="A waterfall from draft profit 41,600 to 51,040: switching depreciation method adds 2,520 (breaks consistency), cutting the debt allowance adds 2,720 (breaks prudence) and recording an undelivered order adds 4,200 (breaks realisation). Profit is overstated by 9,440." loading="lazy">
+  <figcaption>Three convenient changes lift profit by $9,440 and each breaks an accounting concept.</figcaption>
+</figure>
+
 
 ## Worked example 2: pressure to raise profit
 

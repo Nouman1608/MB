@@ -64,6 +64,12 @@ Total (full) cost per unit = direct materials + direct labour + direct expenses
   incurred.
 - **Over-absorption**: overheads absorbed are **more** than the overheads actually incurred.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--01-cost-behaviour.webp" width="900" height="1008" alt="Four small graphs of cost against benches made. Rent is a flat 18,000 pounds, timber rises 38 pounds per bench from zero, electricity starts at a 2,400 pound standing charge and adds 1.50 per bench (5,400 at 2,000 benches), and a supervisor cost steps from 28,000 to 56,000 pounds after 2,500 benches." loading="lazy">
+  <figcaption>Fixed, variable, semi-variable and stepped costs behave differently as output grows.</figcaption>
+</figure>
+
+
 ### Choosing the apportionment basis
 
 | Indirect cost | Usual basis |
@@ -166,6 +172,37 @@ Causes are a different actual level of activity from the budget, a different act
 Assembly worked 1 200 fewer hours than budgeted, so it absorbed 1 200 × 3.80 = £4 560 too little; spending
 £800 below the £114 000 budget offsets part of this, leaving £3 760 under-absorbed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--03-allocate-apportion.webp" width="900" height="952" alt="Five bars show indirect labour allocated, and rent, depreciation, power and canteen apportioned between Machining and Assembly on stated bases. Totals are 128,000 and 114,000 pounds, summing to 242,000." loading="lazy">
+  <figcaption>Overheads are allocated where one department caused them and apportioned on a fair basis where they are shared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--04-oar-full-cost.webp" width="900" height="1243" alt="Rates of 3.20 pounds per machine hour and 3.80 per labour hour are budgeted overheads divided by budgeted hours. They build the full cost of one table to 175 pounds, which gives 245 pounds with a 40 percent mark-up or 250 with a 30 percent margin." loading="lazy">
+  <figcaption>The OAR charges each product its share of overheads, giving a full cost to which a mark-up or margin is added.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--05-under-over-absorption.webp" width="900" height="904" alt="Machining absorbed 132,800 pounds against 131,000 actual, over-absorbed by 1,800. Assembly absorbed 109,440 against 113,200, under-absorbed by 3,760. Net 1,960 pounds under-absorbed is deducted from profit." loading="lazy">
+  <figcaption>Absorbed = OAR x actual hours; absorbing more than actual is over-absorption and adds to profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--08-marginal-vs-absorption-profit.webp" width="900" height="1020" alt="Ostrell Glassware in two years: inventory rises by 1,500 vases in Year 1, so absorption profit is 12,000 higher (76,400 v 64,400). Inventory falls by 1,200 in Year 2, so marginal profit is 9,600 higher (99,760 v 90,160). The difference is the change in inventory times 8 of fixed overhead." loading="lazy">
+  <figcaption>Profit differs between the methods only when inventory changes, by fixed overhead per unit times the inventory change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--09-limiting-factor.webp" width="900" height="1060" alt="Contribution per unit is 24, 36 and 15 pounds for A, B and C, but per scarce hour it is 12, 9 and 15, so the ranking is C, A, B. Filling 4,000 hours in that order gives 1,000 C, 800 A and 350 B, contribution 46,800 and profit 16,800 after fixed costs of 30,000." loading="lazy">
+  <figcaption>With a limiting factor, rank products by contribution per unit of the scarce resource, not per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--10-relevant-costs.webp" width="900" height="1160" alt="Making a bracket costs 8.20 pounds extra and buying 9.40, so buying costs 1.20 more, 14,400 pounds a year; the 2.50 fixed share is paid either way. The Gifts line shows a 1,500 pound loss, but closing it loses 18,000 contribution and saves 6,000 fixed costs, so profit falls by 12,000." loading="lazy">
+  <figcaption>Only costs and revenues that change with the decision are relevant; apportioned fixed costs often are not.</figcaption>
+</figure>
+
+
 ## 2. Activity based costing (ABC)
 
 A labour-hour rate assumes overheads are caused by labour time. Many are not: a product made in small
@@ -236,6 +273,12 @@ Check: 82 500 + 137 500 = £220 000.
 Low-volume Premium uses most set-ups and inspections; the labour-hour rate loads those costs onto
 Standard.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--07-activity-based-costing.webp" width="900" height="1246" alt="Four cost pools are shared between Standard and Premium by use of their cost drivers (set-ups, inspections, orders, machine hours). Overhead per unit is 8.25 pounds for Standard and 55 for Premium under ABC, against 16 and 24 under a single labour-hour rate. Priced at 20 percent over the old cost, Premium sells at 168, below its ABC cost of 171." loading="lazy">
+  <figcaption>ABC charges overheads by the activities that cause them, which can change product costs and prices sharply.</figcaption>
+</figure>
+
+
 ## 3. Setting a selling price
 
 Both methods give a total cost, so a price can be set by adding a profit:
@@ -297,6 +340,12 @@ Reconcile with marginal profit:
 - ABC: 1 000 × £8.25 + 500 × £55 = £35 750; 176 000 + 35 750 = £211 750.
 
 ABC profit is highest because unsold Premium units carry a large ABC overhead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--02-break-even-chart.webp" width="900" height="1038" alt="A 110 pound bench splits into 66 pounds marginal cost and 44 pounds contribution. On the chart, revenue crosses total costs at 1,400 benches and 154,000 pounds; left is loss, right is profit. At budgeted sales of 2,000 benches profit is 26,400 pounds and the margin of safety is 600 benches." loading="lazy">
+  <figcaption>Break-even is where revenue meets total cost; the gap to budgeted sales is the margin of safety.</figcaption>
+</figure>
+
 
 ### Benefits and limitations
 

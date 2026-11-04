@@ -58,6 +58,12 @@ A trolley of mass 0.80 kg is held between springs so that the resultant force on
 
 Notice that the amplitude never appears. For SHM the period does not depend on amplitude.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--05-shm-restoring-force.webp" width="900" height="1000" alt="A 0.40 kg mass on a 25 N/m spring at x = -0.050 m, 0 and +0.050 m with restoring force arrows to scale (1.25 N towards equilibrium, zero at equilibrium). An acceleration-displacement graph is a straight line through the origin with gradient -omega squared = -62.5 per second squared, so omega squared = k/m and T = 0.795 s." loading="lazy">
+  <figcaption>The restoring force and acceleration are proportional to displacement and opposite to it.</figcaption>
+</figure>
+
+
 ## 2. Displacement and velocity equations
 
 Start timing when the oscillator is at maximum positive displacement. Then
@@ -98,6 +104,12 @@ A marker buoy bobs vertically in SHM with amplitude 0.060 m and period 2.4 s. Ti
 (e) Time for the buoy to first reach x = −0.030 m (half the amplitude, below equilibrium): cos ωt = −0.5, so ωt = 2π/3 and t = (2π/3)/ω = T/3 = 0.80 s.
 
 Part (e) shows a useful habit. Keep the answer as a fraction of a period where you can, then convert.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--06-shm-graphs.webp" width="900" height="1110" alt="Three stacked graphs over one period for amplitude 0.050 m and omega 4.0 per second: x is a cosine, v a negative sine with maximum 0.20 m/s a quarter cycle ahead of x, and a a negative cosine with maximum 0.80 m/s^2 in antiphase with x. Dotted lines mark quarter periods." loading="lazy">
+  <figcaption>v leads x by a quarter cycle and a is in antiphase with x.</figcaption>
+</figure>
+
 
 ## 3. Graphs of x, v and a against t
 
@@ -152,6 +164,12 @@ A 0.30 kg mass stretches a spring by 8.0 cm when it hangs at rest.
 
 Check: because k/m = g/e, you can also write T = 2π√(e/g) = 2π√(0.080/9.81) = 0.567 s, matching the result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--09-moment-of-inertia.webp" width="900" height="1050" alt="Three beads of 0.20, 0.50 and 0.10 kg at 0.10, 0.30 and 0.60 m from an axis contribute mr^2 of 0.0020, 0.045 and 0.036 kg m^2, giving I = 0.083 kg m^2 and a kinetic energy of 1.5 J at 6.0 rad/s. A 3.0 kg 1.2 m rod has I = 0.36 kg m^2 about its centre and 1.44 kg m^2 about an end." loading="lazy">
+  <figcaption>I = Σmr² grows with the square of each mass’s distance from the axis, so the same object is harder to spin about its end.</figcaption>
+</figure>
+
+
 ## 5. The period of a simple pendulum
 
 A bob of mass m hangs on a light string of length l and swings through a small angle θ (in radians). Take displacement x along the arc from the lowest point.
@@ -170,6 +188,12 @@ The mass cancels, so the period does not depend on the mass of the bob. The resu
 A pendulum has period 3.0 s. Using g = 9.81 m s⁻²:
 
 l = gT²/(4π²) = (9.81 × 3.0²)/(4π²) = 88.29/39.48 = 2.24 m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--02-centripetal-acceleration.webp" width="900" height="710" alt="Balls on a circle have tangent velocity arrows of equal length and acceleration arrows pointing to the centre, at right angles to the velocity. A vector triangle shows v1 and v2 and their difference delta v pointing towards the centre. A dashed line shows a ball moving straight on if the force is removed." loading="lazy">
+  <figcaption>Speed is constant but the velocity turns, so the change in velocity and the acceleration point towards the centre.</figcaption>
+</figure>
+
 
 ## 6. Energy in SHM
 
@@ -200,6 +224,17 @@ An oscillator of mass 0.20 kg has ω = 9.0 rad s⁻¹ and amplitude 0.050 m.
 4. Check: 0.0130 + 0.00729 = 0.0203 J, which equals the total.
 5. Ek and Ep are equal at x = A/√2 = 0.0354 m.
 6. The period of the energy graphs against time is T/2 = (2π/9.0)/2 = 0.349 s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--07-shm-energy.webp" width="900" height="1080" alt="For a 0.250 kg oscillator with A 0.080 m and f 1.8 Hz the total energy is 0.102 J. Against displacement, Ep is an upright parabola and Ek an inverted parabola under a flat total line, crossing at plus and minus A over root 2. Against time each energy completes two cycles per oscillation and they are in antiphase." loading="lazy">
+  <figcaption>Energy swaps between kinetic and potential, with the total constant when there is no damping.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--08-damping-resonance.webp" width="900" height="1110" alt="Top: displacement against time for light, critical and heavy damping, with a dashed envelope on the light-damping curve. Bottom: amplitude of a forced oscillation against driving frequency over natural frequency; light damping gives a tall sharp peak near f0 and heavy damping a lower, broader peak at slightly lower frequency." loading="lazy">
+  <figcaption>Damping removes energy; resonance is largest when the driving frequency matches the natural frequency, and damping flattens it.</figcaption>
+</figure>
+
 
 ## Common errors
 

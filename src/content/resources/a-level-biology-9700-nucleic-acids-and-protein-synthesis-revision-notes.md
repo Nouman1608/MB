@@ -43,6 +43,17 @@ These notes cover topic 6 of the Cambridge International AS & A Level Biology 97
 - **Antiparallel:** the two DNA strands run in opposite directions, one 5′ to 3′ and the other 3′ to 5′.
 - **Semi-conservative replication:** each new DNA molecule has one parental strand and one new strand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp" width="900" height="1100" alt="Three nucleotides are stacked one below another. Each has a pentose sugar, a phosphate and a nitrogenous base. The 3′ carbon of one sugar is joined through a phosphate to the 5′ carbon of the next sugar by a phosphodiester bond, releasing one water molecule per bond. The top end has a free phosphate (5′) and the bottom end a free OH (3′); n nucleotides give n minus 1 bonds." loading="lazy">
+  <figcaption>Each condensation reaction joins two nucleotides with a phosphodiester bond and releases one water molecule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--02-bases-pairing.webp" width="900" height="990" alt="Adenine and guanine are purines with a double ring. Cytosine, thymine and uracil are pyrimidines with a single ring; thymine is only in DNA and uracil only in RNA. Adenine pairs with thymine through two hydrogen bonds and guanine with cytosine through three. Each pair is one double ring plus one single ring, so every pair has the same width." loading="lazy">
+  <figcaption>A purine always pairs with a pyrimidine: A with T (two hydrogen bonds), G with C (three).</figcaption>
+</figure>
+
+
 ## Three nucleotides compared
 
 | | DNA nucleotide | RNA nucleotide | ATP |
@@ -54,6 +65,12 @@ These notes cover topic 6 of the Cambridge International AS & A Level Biology 97
 
 No structural formulae are expected for any of these, or for the bases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--09-atp-adp.webp" width="900" height="915" alt="ATP is made of adenine, the sugar ribose and three phosphate groups; adenine plus ribose is adenosine. Hydrolysis with water splits ATP into ADP, which has two phosphates, and an inorganic phosphate Pi, releasing energy. Condensation of ADP and Pi resynthesises ATP in respiration or photosynthesis. Example: releasing 30.5 kilojoules per mole coupled to a reaction needing 14.0 gives a net 16.5." loading="lazy">
+  <figcaption>ATP is hydrolysed to ADP and Pi to release energy, and resynthesised by condensation.</figcaption>
+</figure>
+
+
 ## DNA vs mRNA
 
 | Feature | DNA | mRNA |
@@ -64,6 +81,22 @@ No structural formulae are expected for any of these, or for the bases.
 | Length | Very long (whole chromosome) | Short (copy of one gene) |
 | Base pairing within the molecule | A–T (2 H-bonds), C–G (3 H-bonds) | Not a double helix |
 | Where found in eukaryotes | Nucleus | Made in nucleus, used in cytoplasm |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--03-dna-helix.webp" width="900" height="880" alt="A double helix of two strands with the sugar-phosphate backbones outside and base pairs inside. One turn has 10 base pairs and measures 3.4 nanometres. A flattened ladder shows the strands are antiparallel: one runs 5′ to 3′ downwards, the other 3′ to 5′, with ATGCCG pairing with TACGGC." loading="lazy">
+  <figcaption>The two strands run in opposite directions and wind round each other, with base pairs inside.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--07-translation-ribosome.webp" width="900" height="1022" alt="mRNA AUG UUC GGC AAC UAA passes through a ribosome. The ribosome holds two tRNAs, each carrying one amino acid with an anticodon complementary to its codon: AAG pairs with UUC (Phe) and CCG pairs with GGC (Gly). A peptide bond forms between amino acids, the first tRNA leaves, and the ribosome moves one codon along. The codons code for Met, Phe, Gly and Asn, and UAA is a stop codon." loading="lazy">
+  <figcaption>tRNA anticodons pair with mRNA codons on the ribosome, adding one amino acid at a time until a stop codon.</figcaption>
+</figure>
+
 
 ## Numbers to know
 
@@ -85,6 +118,12 @@ No structural formulae are expected for any of these, or for the bases.
 5. **Leading strand** made continuously; **lagging strand** made in fragments.
 6. **DNA ligase** joins the fragments.
 7. Result: two identical molecules, each one old strand + one new strand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--04-replication-fork.webp" width="900" height="1030" alt="A replication fork opens to the right. Helicase at the fork breaks hydrogen bonds so both parent strands act as templates. DNA polymerase adds nucleotides only to the 3′ end, so each new strand grows 5′ to 3′. The leading strand is built continuously towards the fork; the lagging strand is built away from the fork in short fragments that DNA ligase joins. Every daughter duplex has one old and one new strand." loading="lazy">
+  <figcaption>New strands grow 5′ to 3′ only, so one strand is built continuously and the other in fragments.</figcaption>
+</figure>
+
 
 ## Direction rules (5′ and 3′)
 
@@ -108,6 +147,12 @@ This is the standard way semi-conservative replication is tested with data. DNA 
 
 The number of hybrid molecules stays the same (the two original strands are never lost), while the total doubles every generation. Conservative replication would have given a heavy band and a light band after generation 1, with no hybrid band.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--05-meselson-stahl.webp" width="900" height="1260" alt="Density-gradient tubes show DNA bands. The start sample has one heavy band. After one generation in light nitrogen there is a single intermediate band; after two generations there are equal intermediate and light bands. A grid of predictions shows semi-conservative replication fits both results, conservative replication is ruled out at generation 1 and dispersive replication at generation 2." loading="lazy">
+  <figcaption>Only semi-conservative replication predicts both the generation 1 and generation 2 bands.</figcaption>
+</figure>
+
+
 ## Method in steps: from gene to polypeptide
 
 **Transcription (nucleus)**
@@ -124,6 +169,12 @@ The number of hybrid molecules stays the same (the two original strands are neve
 3. Peptide bond forms between adjacent amino acids.
 4. Ribosome moves one codon along; used tRNA leaves.
 5. Stops at UAA, UAG or UGA; polypeptide released.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1200" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
+  <figcaption>A substitution changes at most one amino acid; a deletion or insertion shifts the reading frame.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

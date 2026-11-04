@@ -100,6 +100,12 @@ Months into year 3 = (9,000 / 18,000) x 12 = 6
 Payback = 2 years 6 months
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--06-payback-period.webp" width="900" height="940" alt="Cumulative cash flow columns for years 0 to 5 cross zero halfway through year 4: 36,000 short at the end of year 3 and 72,000 arriving in year 4 gives 3 years 6 months." loading="lazy">
+  <figcaption>Payback is when cumulative cash flow reaches zero: here 3 years 6 months.</figcaption>
+</figure>
+
+
 ## Interpreting and amending
 
 - **Interpreting a tree**: the highest net gain is the numerical answer, but check the worst outcome, the gap between options and how reliable the probabilities are.
@@ -122,6 +128,12 @@ Payback = 2 years 6 months
 **Limitations**: probabilities and outcomes are estimates that may be biased; timing of returns is ignored; few outcomes can be shown; qualitative factors are left out; expected value ignores whether the firm could survive the worst outcome.
 
 **Value**: forces managers to list options and outcomes, including doing nothing; gives a numerical basis for comparison; can be amended to test "what if" changes; encourages thinking about what could go wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ## Factors influencing investment decisions
 
@@ -157,6 +169,12 @@ Payback = 2 years 6 months
 8. Risk can be measured with probabilities; uncertainty cannot.
 9. Managers doubt that the forecast demand and cash flows will happen, so they delay spending.
 10. **No**: it takes 5 months longer than the target.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--07-net-present-value.webp" width="900" height="890" alt="Cash flows and their present values for years 1 to 5 at 7% using the lesson discount factors; total 269,661 less 222,000 cost gives NPV +47,661." loading="lazy">
+  <figcaption>Discounting makes later cash flows worth less; NPV compares their total with the cost.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

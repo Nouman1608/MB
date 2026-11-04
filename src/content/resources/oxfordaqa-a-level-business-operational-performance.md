@@ -108,6 +108,12 @@ Objectives conflict. Faster response needs spare capacity or extra inventory, wh
 
 **Labour-intensive** processes rely mainly on people: flexible, less capital needed, good for personal services, but higher labour cost per unit and variable quality. **Capital-intensive** processes rely mainly on machinery: low unit costs at volume and consistent quality, but heavy investment, inflexible, and idle when demand falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
+
 ## 3.2.1.2 Operations competitiveness
 
 ### Capacity
@@ -144,6 +150,12 @@ Lean production aims to cut waste of every kind. The specification lists four el
 - **Teamwork**: teams share responsibility and solve problems.
 
 Benefits: lower inventory costs, less waste, faster response, and staff involvement that can lift quality and motivation. Difficulties: dependence on reliable suppliers, little buffer against disruption, training costs, slow culture change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
 
 ### Customer service
 
@@ -199,6 +211,17 @@ The order is placed at the end of week 4, when inventory hits 500. It arrives at
 
 **Amending the chart.** If sales rise to 200 tins a week from week 5, inventory falls to 300 (week 5) and 100 (week 6): 100 tins into the buffer before the delivery, which then lifts it only to 1,000. The fix is a higher re-order level or quantity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
+
 ### JIT versus JIC
 
 | Just in Time | Just in Case |
@@ -218,6 +241,12 @@ Supply chain management coordinates the flow from suppliers to customers, includ
 **Supply chain issues** such as delays, shortages or a supplier's failure can halt production, raise costs and damage reputation.
 
 **Supply chain transparency** means knowing, and often publishing, where inputs come from and how they are produced. **Third-party accreditation** means an independent body certifies that a supplier meets set standards. Both help a business check ethical and environmental claims, reassure customers and reduce the risk of scandal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
+  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
+</figure>
+
 
 ## Common errors
 

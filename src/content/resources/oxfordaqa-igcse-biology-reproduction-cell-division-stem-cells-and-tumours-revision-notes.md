@@ -51,6 +51,12 @@ These notes condense sections 3.5.1 and 3.5.2 of the OxfordAQA International GCS
 | Offspring called | Offspring | Clones |
 | Share of genes from each parent | Half | All from one |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
+</figure>
+
+
 ## Chromosomes, genes and alleles (3.5.2 a-c)
 
 - Chromosomes are in the nucleus and carry genes.
@@ -60,6 +66,17 @@ These notes condense sections 3.5.1 and 3.5.2 of the OxfordAQA International GCS
 - Number in a body cell, then pairs, then gamete: 46, 23, 23 for a human.
 
 Rule: pairs = body number ÷ 2, gamete number = body number ÷ 2, fertilised egg = body number.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--05-horse-chromosomes.webp" width="900" height="960" alt="A horse body cell has 64 chromosomes, which is 32 pairs. A sperm has 32 and an egg has 32. Fertilisation gives 32 plus 32 equals 64 in the fertilised egg." loading="lazy">
+  <figcaption>Gametes carry one set (32); fertilisation restores the full 64.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
 
 ## Mitosis and meiosis side by side (3.5.2 d-h)
 
@@ -81,6 +98,17 @@ Rule: pairs = body number ÷ 2, gamete number = body number ÷ 2, fertilised egg
 
 Worked reminder: a pea body cell has 14 chromosomes. A cell undergoing meiosis gives 4 gametes with 14 ÷ 2 = 7 chromosomes each. After 5 rounds of mitosis one cell becomes 2⁵ = 32 cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--06-meiosis-gamete-count.webp" width="900" height="880" alt="Twenty-five mouse cells with 40 chromosomes each. By mitosis they make 50 cells with 40 chromosomes each; by meiosis they make 100 sperm with 20 chromosomes each." loading="lazy">
+  <figcaption>Mitosis doubles the cell number keeping 40 chromosomes; meiosis quadruples it and halves the chromosome number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
+
 ## Fertilisation, differentiation and plants (3.5.2 i-j)
 
 Order of events:
@@ -93,6 +121,17 @@ Order of events:
 |---|---|---|
 | Differentiation | Most cell types specialise early | Many cells can still specialise at any age |
 | Division in adults | Largely repair and replacement | Cells can still differentiate, so new tissues can form |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--07-differentiation-same-genes.webp" width="900" height="1090" alt="A fertilised egg divides by mitosis into cells with identical genes, which differentiate. Red blood, nerve and root hair cells carry the same five genes but a different pair is switched on in each. In plants a cutting can grow roots and become a clone." loading="lazy">
+  <figcaption>Cells differ because different genes are active, not because they have different genes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--05-specialised-cells.webp" width="900" height="1190" alt="Six schematic cells with the syllabus function of each: ciliated cell (movement of mucus in trachea and bronchi), root hair cell (absorption), palisade mesophyll cell (photosynthesis), neurone (conduction of electrical impulses), red blood cell (transport of oxygen, no nucleus) and sperm and egg cells (reproduction)." loading="lazy">
+  <figcaption>Each specialised cell has a shape and structures that suit its job.</figcaption>
+</figure>
+
 
 ## Stem cells and therapeutic cloning (3.5.2 k-m)
 
@@ -112,6 +151,22 @@ Use the information given. Cover:
 4. Different views among people, including religious views.
 5. A reasoned conclusion that follows from your points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--07-stem-culture-doubling.webp" width="900" height="1010" alt="Bars for 400 cells doubling every 18 h up to 51 200 at 126 h; 6400 at 72 h; the 50 000 line is first passed at 126 h." loading="lazy">
+  <figcaption>Doubling every 18 hours takes 400 cells past 50 000 in 126 hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--04-stem-cell-sources.webp" width="900" height="910" alt="Three panels: embryonic stem cells make most human cell types (six shown), adult bone marrow stem cells make blood cells and a narrower range (two shown), plant meristem stem cells make any plant cell type throughout life." loading="lazy">
+  <figcaption>Embryonic, adult and meristem stem cells differ in the range of cells they can become.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--05-therapeutic-cloning-rejection.webp" width="900" height="1020" alt="Two lanes. An embryo made with the patient's genes gives stem cells with the same genes, which the body does not reject. An unrelated donor embryo gives stem cells with different genes, which are rejected." loading="lazy">
+  <figcaption>Stem cells with the patient's own genes are not rejected.</figcaption>
+</figure>
+
+
 ## Tumours and carcinogens (3.5.2 n-o)
 
 | | Benign | Malignant |
@@ -122,6 +177,27 @@ Use the information given. Cover:
 | Secondary tumours | No | Can form |
 
 Causes: chemical carcinogens (tobacco smoke, asbestos); ionising radiation (UV, X-rays).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--08-tumour-growth.webp" width="900" height="900" alt="Two circles to the same scale, 8 mm and 17 mm: increase 9 mm, 112.5 percent, 1.0 mm per month." loading="lazy">
+  <figcaption>Diameter rose by 9 mm, 112.5 percent, in 9 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--09-smoking-lung-cancer-ratio.webp" width="900" height="900" alt="Bars of 12 and 168 cases per 100 000 (illustrative); 14 copies of the short bar equal the long bar, so the ratio is 14." loading="lazy">
+  <figcaption>168 divided by 12 gives a ratio of 14.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--10-tumour-causes.webp" width="900" height="1050" alt="Tobacco smoke and asbestos (chemical carcinogens), and UV and X-rays (ionising radiation) damage genetic material; uncontrolled mitosis then forms a tumour." loading="lazy">
+  <figcaption>Carcinogens and ionising radiation can lead to uncontrolled cell division.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--05-benign-malignant.webp" width="900" height="1220" alt="A benign tumour is a mass of abnormal cells that grows in one place, does not spread and is not cancer. A malignant tumour invades nearby tissue; cells break off, travel in the blood and form secondary tumours elsewhere." loading="lazy">
+  <figcaption>Malignant tumours spread and form secondary tumours; benign tumours stay in one place.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

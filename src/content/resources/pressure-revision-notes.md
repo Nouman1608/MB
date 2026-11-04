@@ -49,6 +49,27 @@ Same force, smaller area → **greater** pressure. This explains:
 
 The force from pressure always acts **perpendicular** to the surface — shown experimentally with a thistle funnel and manometer: rotating the funnel's open end while holding it at the same depth gives the same manometer reading whichever way it faces, since the liquid pushes at right angles to the membrane regardless of its orientation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--01-pressure-force-area.webp" width="900" height="850" alt="Two blocks each press with 600 N. On 0.5 m2 the pressure is 1200 Pa and the block sinks little into sand; on 0.1 m2 it is 6000 Pa and it sinks deeper." loading="lazy">
+  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--02-right-angles-experiment.webp" width="900" height="880" alt="Three beakers hold a thistle funnel at the same depth facing up, sideways and down, joined to a U-tube manometer. The arrows meet the membrane at right angles and the manometer shows the same height difference h each time." loading="lazy">
+  <figcaption>Pressure at a point acts at right angles to the surface, and is the same in every direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--03-pressure-with-depth.webp" width="900" height="960" alt="A tank of water with arrows on the wall that lengthen with depth: 9800 Pa at 1 m, 19600 Pa at 2 m, 29400 Pa at 3 m, matching the worked example 1000 x 9.8 x 3." loading="lazy">
+  <figcaption>Pressure beneath a liquid increases in proportion to depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--05-why-mercury.webp" width="900" height="1170" alt="Drawn to scale, the same air pressure supports about 0.75 m of mercury but about 10.2 m of water, because mercury is 13.6 times denser." loading="lazy">
+  <figcaption>A denser liquid gives a shorter column, so mercury is practical for barometers.</figcaption>
+</figure>
+
+
 ## Pressure in liquids
 
 Key facts:
@@ -69,6 +90,12 @@ Caused by the weight of air above. Roughly **100 000 Pa** (1 × 10⁵ Pa) at sea
 Mercury is used rather than water because its high density keeps the column a manageable height — a water barometer would need to be over 10 m tall.
 
 **Manometer:** a U-tube measuring the pressure of a gas supply; the **difference in the two levels** gives the excess pressure over atmospheric.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--04-liquid-barometer.webp" width="900" height="1070" alt="Two mercury barometers with a vacuum above the column and open to a dish. At higher air pressure the arrows are longer and the column is taller (788 mm) than at lower air pressure (713 mm)." loading="lazy">
+  <figcaption>A taller mercury column means a higher atmospheric pressure.</figcaption>
+</figure>
+
 
 ## Worked example
 

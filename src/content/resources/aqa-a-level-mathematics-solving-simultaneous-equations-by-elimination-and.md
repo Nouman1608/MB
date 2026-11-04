@@ -69,6 +69,12 @@ The solution is x = 89/41, y = 2/41. Leave answers as exact fractions unless the
 
 Rule of thumb: add when the signs of the letter you are removing differ, subtract when they match. A slip here is the commonest source of wrong answers, so write "add" or "subtract" beside the working.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--02-amth-simultaneous-elimination.webp" width="900" height="962" alt="The lines 5x+3y=11 and 2x-7y=4 cross at (89/41, 2/41). Scaling by 7 and 3 and adding gives 41x = 89, a vertical line through the same crossing point; substituting gives y = 2/41." loading="lazy">
+  <figcaption>Adding the scaled equations produces a new line through the same intersection point.</figcaption>
+</figure>
+
+
 ### Substitution
 
 Rearrange the equation that is easiest to make "y = ..." or "x = ...", then replace that letter in the other equation. Use brackets every time you substitute.
@@ -89,6 +95,12 @@ The solution is x = 23/11, y = 15/11.
 ### When there is no single solution
 
 If the equations are multiples of each other with the same constant ratio (such as x + 2y = 3 and 2x + 4y = 6), they are the same line and there are infinitely many solutions. If the left sides are multiples but the right sides are not (such as 2x + 3y = 5 and 4x + 6y = 7), elimination leads to a false statement such as 0 = −3. The lines are parallel and there is no solution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--01-amth-simultaneous-solutions.webp" width="900" height="1200" alt="Three graphs show two lines crossing at (23/11, 15/11), two parallel lines 2x+3y=5 and 4x+6y=7 that never meet, and the coincident lines x+2y=3 and 2x+4y=6. Elimination gives one pair, a false statement 0 = -3, or infinitely many solutions respectively." loading="lazy">
+  <figcaption>A solution is a point on both lines, so lines can cross once, never, or coincide.</figcaption>
+</figure>
+
 
 ## One linear and one quadratic equation
 
@@ -140,6 +152,17 @@ Then y = x + 3 = (9 ± √21)/2
 
 The solutions are x = (3 + √21)/2, y = (9 + √21)/2 and x = (3 − √21)/2, y = (9 − √21)/2. Match the signs: the plus sign in x goes with the plus sign in y. As decimals, the points are about (3.79, 6.79) and (−0.791, 2.21).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--03-amth-simultaneous-line-circle.webp" width="900" height="972" alt="The line y=2x+1 meets the circle x^2+y^2=34 at two points. Substituting gives 5x^2+4x-33=0 so x=11/5 or -3, and the line gives y=27/5 and -5." loading="lazy">
+  <figcaption>Substitute the linear equation into the quadratic, then use the line to find each partner value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--05-amth-simultaneous-surd-chord.webp" width="900" height="955" alt="The line y=x+3 meets y=x^2-2x at x=(3 plus or minus root 21)/2, about (3.79, 6.79) and (-0.791, 2.21). A right-angled triangle with legs root 21 shows the distance between them is root 42, about 6.48." loading="lazy">
+  <figcaption>Keep surd solutions exact and match the signs; the gradient-1 line makes the chord length root 42.</figcaption>
+</figure>
+
+
 ## Choosing a method
 
 Elimination suits two linear equations where both letters have awkward coefficients. Substitution suits any pair in which one letter already has coefficient 1 or is on its own, and it is the only sensible method once one equation is quadratic. If both equations give y on its own, equating them is substitution done in one step.
@@ -182,6 +205,12 @@ Check the contact point on the curve: 9 − 12 + 6 = 3 ✓.
 
 If a line cuts a curve at two points, you can find the distance between them from the two solutions. In worked example 4 the x-values differ by √21, and the y-values also differ by √21 because the line has gradient 1. The distance between the points is √(21 + 21) = √42.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--04-amth-simultaneous-discriminant.webp" width="900" height="968" alt="Lines y=2x+k are drawn with the curve y=x^2-4x+6; the discriminant is 12+4k. For k=0 it is 12 (two points), for k=-3 it is 0 (tangent at (3, 3)) and for k=-6 it is -12 (no intersection)." loading="lazy">
+  <figcaption>The sign of b^2 - 4ac tells you whether a line cuts, touches or misses a curve.</figcaption>
+</figure>
+
+
 ## Context problems
 
 Read the situation, define two letters, write two equations, then solve. Answers must make sense: lengths cannot be negative, and counts must be whole numbers.
@@ -201,6 +230,12 @@ a = 5 or a = 6
 ```
 
 If a = 5, then b = 6, and if a = 6, then b = 5. The lawns have sides 5 m and 6 m. Both solutions describe the same pair of lawns, so say so rather than listing two different answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--06-amth-simultaneous-lawns.webp" width="900" height="718" alt="Perimeters give the line a+b=11 and areas give the circle a^2+b^2=61, meeting at (5, 6) and (6, 5). Both points are the same pair of lawns with sides 5 m and 6 m." loading="lazy">
+  <figcaption>The line and circle meet at two symmetric points that describe one real-life answer.</figcaption>
+</figure>
+
 
 ## Common errors
 

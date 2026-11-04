@@ -70,6 +70,17 @@ The wavelength is about 186 nm, which is in the ultraviolet. The frequency is f 
 
 With four levels, an electron can end in any lower level, so the number of different drops is 3 + 2 + 1 = 6. The longest wavelength comes from the smallest gap: −1.2 eV to −2.7 eV, which is 1.5 eV, giving λ = 829 nm (infrared). Some lines may lie outside the visible region.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--04-aphy-astro-hr-diagram.webp" width="900" height="1010" alt="Log-log plot of luminosity against surface temperature with spectral classes O to M across the top. Main sequence runs top left to bottom right; giants, supergiants and white dwarfs are marked, with the Sun. Dashed lines of constant radius come from L = 4 pi r^2 sigma T^4." loading="lazy">
+  <figcaption>On the HR diagram, stars of equal radius lie on lines from L = 4 pi r^2 sigma T^4; above the main sequence at the same temperature means bigger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--06-aphy-astro-redshift.webp" width="900" height="980" alt="Hydrogen absorption lines at 434.0, 486.1 and 656.3 nm in the laboratory are shifted to 442.7, 495.8 and 669.4 nm in a distant galaxy, all by the same fraction z = 0.020. z = delta lambda / lambda = v/c gives a recession speed of about 6.0e6 m/s." loading="lazy">
+  <figcaption>Spectral lines of a receding galaxy shift to longer wavelength by z = v/c.</figcaption>
+</figure>
+
+
 ## Identifying elements (5.5.2(e))
 
 The energy levels depend on the nucleus and on the number and arrangement of electrons, so the set of levels is different for each element. Different elements therefore have different sets of allowed transitions and different line wavelengths. The pattern of lines works as a fingerprint.
@@ -138,6 +149,12 @@ The result is an estimate, because the peak of a real spectrum is broad.
 
 You can also use the proportionality alone. If star A has a peak wavelength one third of star B's, star A is three times hotter in kelvin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--03-aphy-astro-blackbody.webp" width="900" height="980" alt="Planck curves for 4800 K, 5800 K and 7000 K. Hotter stars are higher at every wavelength and peak at shorter wavelengths (604, 500, 414 nm from Wien). Area under each curve scales as T^4 (Stefan)." loading="lazy">
+  <figcaption>Hotter black bodies emit more at every wavelength and peak at shorter wavelength; total power scales as T^4.</figcaption>
+</figure>
+
+
 ## Luminosity and Stefan's law (5.5.2(j))
 
 The luminosity L of a star is the total power it radiates, in watts, over all wavelengths. Stefan's law states that for a star of radius r and surface temperature T,
@@ -147,6 +164,12 @@ L = 4πr²σT⁴
 where σ is the Stefan constant, 5.67 × 10⁻⁸ W m⁻² K⁻⁴. The factor 4πr² is the surface area of a sphere. Each square metre of surface radiates σT⁴ watts, an intensity at the surface of power divided by area.
 
 The fourth power matters. Doubling T at fixed radius multiplies L by 2⁴ = 16. Doubling r at fixed T multiplies L by 4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--02-aphy-astro-inverse-square.webp" width="900" height="1130" alt="A star emits light in a widening cone. At 2d the same light covers 4 times the area and at 3d 9 times, so the flux falls to F/4 and F/9. A standard candle has known L, so measuring F gives d; the worked example gives 5.6e18 m." loading="lazy">
+  <figcaption>Flux falls as 1/d^2, so a standard candle of known luminosity gives its distance.</figcaption>
+</figure>
+
 
 ## Estimating stellar radius (5.5.2(k))
 
@@ -164,6 +187,17 @@ Step 3: r² = L / (4πσT⁴) = 1.9 × 10²⁷ / 3.41 × 10⁸ = 5.57 × 10¹⁸
 Step 4: r = 2.36 × 10⁹ m
 
 Compared with the Sun this is 2.36 × 10⁹ / 6.96 × 10⁸ = 3.4 times larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--01-aphy-astro-parallax.webp" width="900" height="1000" alt="Earth at opposite ends of its orbit sees a nearby star shift against far more distant stars. The parallax angle p is the angle at the star subtended by 1 AU. For p in arcseconds, d in parsecs is 1/p; 0.0625 arcsec gives 16.0 pc or 52.3 ly. The drawing is not to scale." loading="lazy">
+  <figcaption>Parallax angle p subtends 1 AU at the star, so d (pc) = 1/p (arcsec).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--05-aphy-astro-star-life-cycle.webp" width="900" height="1210" alt="A low-mass star goes from gas cloud to protostar, main sequence, red giant, planetary nebula and white dwarf (electron degeneracy pressure, at most 1.4 solar masses). A massive star ends as a red supergiant, supernova, then a neutron star or black hole. A main-sequence star is stable because gas and radiation pressure balance gravity." loading="lazy">
+  <figcaption>Mass decides whether a star ends as a white dwarf, neutron star or black hole.</figcaption>
+</figure>
+
 
 ### Ratio method
 

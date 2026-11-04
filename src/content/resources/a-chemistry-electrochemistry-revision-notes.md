@@ -38,6 +38,12 @@ Reference: standard hydrogen electrode, E = 0.00 V by DEFINITION
 
 Every E⦵ value is a measurement **relative to** the hydrogen electrode, which is assigned zero — it is not an absolute quantity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--02-hydrogen-electrode.webp" width="900" height="1130" alt="A platinum electrode in 1.00 mol per dm3 H+ with hydrogen gas bubbled over it is the standard hydrogen electrode, defined as 0.00 V. Joined to a zinc half-cell by a salt bridge it reads 0.76 V with zinc negative, so E° for Zn2+/Zn is -0.76 V. Standard conditions are 298 K, 100 kPa (101 kPa in the Cambridge syllabus) and 1.00 mol per dm3." loading="lazy">
+  <figcaption>The hydrogen electrode is defined as 0.00 V, so every other half-cell potential is read against it under standard conditions.</figcaption>
+</figure>
+
+
 ## Reading E⦵ values
 
 Standard electrode potentials are written as **reduction** half-equations:
@@ -49,6 +55,12 @@ Zn2+ + 2e-  <=>  Zn        E = -0.76 V
 
 - **More positive E⦵** → more readily **reduced** → stronger oxidising agent (left-hand species).
 - **More negative E⦵** → more readily **oxidised** → stronger reducing agent (right-hand species).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--03-series-ladder.webp" width="900" height="1120" alt="Ten half-equations are ranked from E° +1.51 V (MnO4-/Mn2+) at the top to -2.37 V (Mg2+/Mg) at the bottom. The left-hand species gain electrons and are the oxidising agents, strongest at the top; the right-hand species give electrons and are reducing agents, strongest at the bottom." loading="lazy">
+  <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
+</figure>
+
 
 ## Cell e.m.f.
 
@@ -71,6 +83,17 @@ Single line = phase boundary, double line = salt bridge.
 **This is not the same calculation as testing feasibility of a specified
 reaction** — see below. Only use "more positive minus more negative" when
 you are free to choose which half-cell is reduced and which is oxidised.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-electrochemistry-revision-notes--01-cathode-polarity.webp" width="900" height="1040" alt="A galvanic cell with a lamp and an electrolytic cell with a battery are drawn side by side. In the galvanic cell the anode is negative and the cathode positive, with electrons flowing from anode through the lamp to cathode. In the electrolytic cell the cathode is joined to the battery negative terminal and the anode to the positive. Reduction is at the cathode in both." loading="lazy">
+  <figcaption>Reduction always happens at the cathode, but the cathode is positive in a galvanic cell and negative in an electrolytic cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
+  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
+</figure>
+
 
 ## Feasibility
 
@@ -105,6 +128,17 @@ Two essential caveats:
 1. **Feasible does not mean fast.** A reaction with a large positive E_cell may still be immeasurably slow if the activation energy is high.
 2. **E⦵ values apply at standard conditions only.** Changing concentration shifts the electrode potential — by Le Chatelier, increasing the concentration of the species on the left of a reduction half-equation makes E more positive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
+  <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--06-delta-g.webp" width="900" height="1120" alt="Bars show E° cell for three reactions (+1.10 V, +0.23 V, -0.59 V) above the matching delta G values from delta G = -nFE (-212.3, -44.4 and +113.9 kJ). A positive E° cell gives a negative delta G, a feasible reaction and, for Edexcel, K greater than 1." loading="lazy">
+  <figcaption>A positive E° cell always corresponds to a negative delta G, because F is positive.</figcaption>
+</figure>
+
+
 ## Electrolysis
 
 | Electrode | Process | Charge |
@@ -125,6 +159,17 @@ To find mass deposited: `Q = It`, then `n(e⁻) = Q/F`, then divide by the numbe
 - **Cathode:** the *less* reactive cation (more positive E⦵) is discharged. Metals below hydrogen deposit; metals above it leave H₂ evolved instead.
 - **Anode:** the species most easily oxidised (the half-cell with the less positive E⦵) is discharged. **Iodide** (I₂/I⁻, +0.54 V) and **bromide** (Br₂/Br⁻, +1.07 V) are easier to oxidise than water (O₂/H₂O, +1.23 V), so I₂ or Br₂ is released. **Chloride** (Cl₂/Cl⁻, +1.36 V) is slightly harder to oxidise than water, so oxygen is released **unless** the chloride is at high concentration, when chlorine is discharged instead — concentrated NaCl gives Cl₂, very dilute NaCl gives O₂. **Fluoride** is never discharged from aqueous solution at any concentration (F₂/F⁻, E⦵ = +2.87 V, far too positive). Sulfate and nitrate are not discharged; oxygen is released.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-electrochemistry-revision-notes--02-anode-discharge.webp" width="900" height="890" alt="Bars show E of five anode candidates: iodide 0.54 V, bromide 1.07 V, water 1.23 V, chloride 1.36 V and fluoride 2.87 V. Iodide and bromide have smaller values than water so iodine or bromine is released. Chloride gives oxygen when dilute and chlorine when concentrated. Fluoride is never discharged." loading="lazy">
+  <figcaption>The species easier to oxidise than water (smaller E) is discharged at the anode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--07-quantitative-electrolysis.webp" width="900" height="1195" alt="A cell with copper electrodes carries 2.00 A for 3860 s. Charge Q = It = 7720 C, moles of electrons = 7720 / 96 500 = 0.0800 mol, moles of copper = 0.0800 / 2 = 0.0400 mol, and mass = 0.0400 x 63.5 = 2.54 g." loading="lazy">
+  <figcaption>Charge to moles of electrons to moles of copper to mass: 2.00 A for 3860 s deposits 2.54 g.</figcaption>
+</figure>
+
+
 ## The Nernst equation
 
 Electrode potential is **not fixed** — it varies with the concentration of the aqueous ions involved:
@@ -134,6 +179,12 @@ E = E-standard + (0.059 / z) log([oxidised species] / [reduced species])
 ```
 
 where z is the number of electrons transferred. **Qualitatively**, increasing the concentration of the oxidised species (on the left of the reduction half-equation) makes E **more positive**; increasing the concentration of the reduced species makes E **less positive** — consistent with Le Chatelier's principle applied to the half-equilibrium.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--05-nernst.webp" width="900" height="890" alt="A straight-line graph shows E for the Cu2+/Cu half-cell rising from about 0.25 V at 0.001 mol per dm3 to +0.340 V at 1.00 mol per dm3 as log[Cu2+] increases. The point at 0.0100 mol per dm3 is +0.281 V. Higher Cu2+ concentration makes E more positive." loading="lazy">
+  <figcaption>E rises linearly with log[Cu2+] with slope 0.059/z, so diluting Cu2+ makes the electrode less positive.</figcaption>
+</figure>
+
 
 ## Worked example: electrolysis
 

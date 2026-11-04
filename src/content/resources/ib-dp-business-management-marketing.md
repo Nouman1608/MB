@@ -89,6 +89,17 @@ marketing, evaluate the standardisation-versus-adaptation trade-off
 for the specific product and markets given in a case study, rather
 than asserting one approach is always superior.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--02-marketing-planning-chain.webp" width="900" height="730" alt="A chain: the corporate objective must be supported by the marketing objectives (market share, brand awareness), which are reached through the marketing mix strategy (the seven Ps). Market research informs the objectives and sales forecasts (HL only) inform the plan. An illustrative bar shows market share of 12% against a 15% target." loading="lazy">
+  <figcaption>Marketing objectives must support the corporate objective and are met through the marketing mix, informed by research and forecasts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--07-standardise-or-adapt.webp" width="900" height="960" alt="Standardisation sends one identical product and approach to every market, giving lower cost but less local fit. Adaptation tailors the product to each market, giving more relevance but higher cost. Markets differ in culture, language, legal requirements and consumer behaviour." loading="lazy">
+  <figcaption>Standardisation lowers cost; adaptation improves local relevance; the best choice depends on the product and markets.</figcaption>
+</figure>
+
+
 ## Worked example: distinguishing market and product orientation
 
 <!-- marlbridge-diagram:business-ibdp-market-vs-product-orientation -->
@@ -124,6 +135,22 @@ Identifying orientation explicitly and explaining its knock-on effect
 on later marketing decisions, rather than only describing what each
 business did, is what a strong Unit 4 answer does.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--01-market-vs-product-orientation.webp" width="900" height="910" alt="Two three-step flows. Market orientation: ask customers what they need, design the product to match, sell to buyers who want it. Product orientation: start with what the business can make, make it, then look for buyers. The orientation shapes every later marketing decision." loading="lazy">
+  <figcaption>Market orientation starts from customer needs; product orientation starts from what the business can make.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--04-research-types.webp" width="900" height="820" alt="A two by two grid. Columns: primary (new data you collect) and secondary (existing data reused). Rows: quantitative (numbers) and qualitative (views and reasons). Examples: tick-box questionnaire, published sales statistics, interview or focus group, press articles and reviews." loading="lazy">
+  <figcaption>Research is primary or secondary, and quantitative or qualitative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--05-sampling-methods.webp" width="900" height="1100" alt="Three panels show the same 50 people (30 circles, 20 squares) with 5 chosen. Random: everyone equally likely, most representative but costly and slow. Quota: 3 circles and 2 squares to mirror the mix, cost and speed in between. Convenience: the 5 nearest the door, cheap and fast but may not represent everyone." loading="lazy">
+  <figcaption>Sampling methods trade representativeness against cost and speed.</figcaption>
+</figure>
+
+
 ## Sales forecasting and its cross-unit consequences
 
 Because sales forecasts feed directly into production planning, cash
@@ -141,6 +168,12 @@ for other parts of the business -- an optimistic sales forecast that
 is not matched by adequate production capacity or cash reserves is
 exactly the kind of tension a strong Paper 1 or Paper 2 answer is
 expected to identify and discuss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--03-sales-forecasting-regression.webp" width="900" height="880" alt="A scatter diagram of eight illustrative quarters of sales with a computed least-squares line of best fit (r = 0.97). The dashed extension forecasts quarters 9 and 10 at about 62.7 and 65.4 thousand units, with vertical bars showing the doubt around each forecast." loading="lazy">
+  <figcaption>A line of best fit can be extended to forecast, but the forecast is a prediction with uncertainty.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -164,6 +197,12 @@ instead of evaluating the trade-off for the specific context given.
   for service businesses.
 - Practise identifying which Unit 4 sub-topic a Paper 1 case study
   scenario is testing, in combination with content from other units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--06-seven-ps.webp" width="900" height="990" alt="Four core Ps (Product, Price, Place, Promotion) apply to every business. Three extra Ps matter especially for services: People, Process and Physical evidence. A service is experienced, not just bought." loading="lazy">
+  <figcaption>Four core Ps plus three extra Ps that matter especially for service businesses.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

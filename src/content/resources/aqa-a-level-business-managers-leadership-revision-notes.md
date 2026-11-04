@@ -46,6 +46,17 @@ judge appropriateness for a specific scenario, not define styles in the abstract
 Schmidt continuum is the named theory linking these styles along a spectrum of manager vs team
 authority.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--01-leadership-continuum.webp" width="900" height="870" alt="Four columns from autocratic to laissez-faire, each split into the share of the decision kept by the boss and given to the team: 90/10, 65/35, 35/65 and 10/90 (illustrative). Control passes from the boss to the team along the continuum." loading="lazy">
+  <figcaption>The four styles sit on one scale from boss-controlled to team-controlled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--03-continuum-seven-positions.webp" width="900" height="1090" alt="Seven rows show the continuum from 1 (decides and announces) to 7 (team acts within limits), with the manager's share of authority falling. Position 5, asking for suggestions then deciding, is highlighted as the Kestrel Bindery owner." loading="lazy">
+  <figcaption>The continuum is a line of seven positions, not four boxes.</figcaption>
+</figure>
+
+
 ## 3.2.2 Decision making: scientific vs intuitive
 
 - **Scientific**: uses data — decision trees, expected value, net gain calculations. Reduces guesswork
@@ -53,6 +64,12 @@ authority.
 - **Intuitive**: draws on experience; responds faster where data is limited or a decision is urgent.
 - Neither is universally superior — evaluate against the specific context (data availability, time
   pressure).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--03-decision-tree.webp" width="900" height="1020" alt="Decision tree: launching costs 300 thousand pounds and leads to success (60 percent, 800) or failure (40 percent, 200). Expected value 560, net gain 260. An illustrative do-nothing branch worth 0 is shown dashed." loading="lazy">
+  <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
+</figure>
+
 
 ## Risk, uncertainty and opportunity cost — three distinct ideas
 
@@ -63,11 +80,23 @@ authority.
 A decision can be low-risk but still carry significant opportunity cost — keep these three separate,
 not synonyms for "downside."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-decision-making--02-opportunity-cost-next-best.webp" width="900" height="1060" alt="Three bars show net gains of 28,000, 21,000 and 15,000 pounds. The machine is chosen, so the opportunity cost is the next best, training at 21,000, not 36,000." loading="lazy">
+  <figcaption>Opportunity cost is the single next-best option given up.</figcaption>
+</figure>
+
+
 ## Influences on decision making
 
 Mission, objectives, ethics, the external environment (including competition), resource constraints —
 learn as a fixed set. A common error focuses only on mission/objectives and ignores resource
 constraints and the external environment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
 
 ## 3.2.3 Stakeholder mapping
 
@@ -75,6 +104,17 @@ Plot named stakeholders by **power** (ability to influence the business) and **i
 the decision affects them) — this two-dimensional mapping is exactly what the specification names.
 Be ready to discuss overlapping or conflicting stakeholder needs, and how relationships are managed
 (communication, consultation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-revision-notes--02-hospital-stakeholder-map.webp" width="900" height="1000" alt="A power and interest grid with regulators in the high-power area, staff high interest with moderate power, patients high interest but low power, and local media low on both. Arrows show public pressure lifting patients upward and media raising patients' awareness." loading="lazy">
+  <figcaption>Power and interest are not fixed: pressure and media coverage can move a group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
 
 ## Worked example: decision tree mechanics
 
@@ -90,6 +130,12 @@ Comparison: EV(A) $32,000 > EV(B) $30,000
 A scientific approach favours Option A on expected value alone, but a strong answer notes this ignores
 risk appetite — Option A carries a real chance of a $10,000 loss that Option B does not, so a
 risk-averse decision-maker might rationally still choose B despite its lower expected value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-revision-notes--01-ev-vs-risk.webp" width="900" height="990" alt="A profit number line in thousands of dollars. Option A is a 30 percent chance of minus 10 and a 70 percent chance of plus 50, with expected value 32 marked. Option B is a guaranteed plus 30. A has the higher expected value but is the only one that can lose money." loading="lazy">
+  <figcaption>A higher expected value can still be the riskier choice.</figcaption>
+</figure>
+
 
 ## Why the 2023 update matters for revision
 

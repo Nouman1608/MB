@@ -43,6 +43,12 @@ A diploid cell holds two copies of each autosomal gene, one on each chromosome o
 
 **Worked example.** Pea plants have 2n = 14. A pollen nucleus has 7 chromosomes. An egg cell has 7. The zygote has 7 + 7 = 14, in seven homologous pairs. Each seed therefore carries two copies of every autosomal gene.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--01-gametes-fuse-to-zygote.webp" width="900" height="1020" alt="A pollen nucleus with 7 chromosomes and an egg nucleus with 7 chromosomes fuse at fertilisation to make a zygote with 14 chromosomes in 7 homologous pairs. One chromosome of each pair came from each gamete. An enlarged pair shows the same gene on both, so the zygote has two copies of each autosomal gene." loading="lazy">
+  <figcaption>Fertilisation joins two haploid gametes to give a diploid zygote: 7 + 7 = 14 in pea.</figcaption>
+</figure>
+
+
 ## D3.2.2 Crosses in flowering plants
 
 Use these terms exactly. The **P generation** is the parents. Their offspring are the **F1 generation**. Crossing F1 plants with each other gives the **F2 generation**. A **Punnett grid** shows the possible gamete combinations.
@@ -65,6 +71,12 @@ Such crosses are widely used to breed new crop and ornamental varieties.
 | **p** | Pp | pp |
 
 The F2 is 3 inflated : 1 constricted. From 1,200 F2 plants you expect 900 inflated and 300 constricted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--02-pea-pod-cross-p-f1-f2.webp" width="900" height="1150" alt="A pure-breeding inflated pea (PP) crossed with a constricted one (pp) gives an F1 that is all Pp and inflated. Selfing the F1 gives a Punnett grid PP, Pp, Pp, pp, so the F2 is 3 inflated to 1 constricted: 900 and 300 from 1,200 plants." loading="lazy">
+  <figcaption>P, F1 and F2 for pod shape: a 3 : 1 ratio in the F2.</figcaption>
+</figure>
+
 
 ## D3.2.3 to D3.2.5 Genotype, phenotype and dominance
 
@@ -114,6 +126,17 @@ With **codominance**, a heterozygote shows both alleles' effects: the dual pheno
 
 **Worked example.** A group A mother and a group B father have a group O child. The child is ii, so each parent gave i. The mother is Iᴬi and the father is Iᴮi. Their gametes: Iᴬ or i; Iᴮ or i. Offspring: IᴬIᴮ, Iᴬi, Iᴮi, ii, each 1/4, so groups AB, A, B and O are equally likely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--03-abo-codominance-cross.webp" width="900" height="1290" alt="A group A mother (IAi) and a group B father (IBi) can have children of all four groups. The grid gives IAIB (AB, shown as a half-teal half-gold disc because the alleles are codominant), IAi (A), IBi (B) and ii (O, outlined), each 1/4. A group O child must have received i from both parents. A key lists the genotypes for each group." loading="lazy">
+  <figcaption>Codominant IA and IB plus recessive i give four equally likely blood groups from an A x B cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--04-incomplete-dominance-four-oclock.webp" width="900" height="1250" alt="A red four o’clock (CRCR) crossed with a white one (CWCW) gives pink F1 (CRCW). Two pink plants give a Punnett grid with one red, two pink and one white, a 1 : 2 : 1 ratio that equals the genotype ratio." loading="lazy">
+  <figcaption>With incomplete dominance the heterozygote is intermediate, so phenotype and genotype ratios match (1 : 2 : 1).</figcaption>
+</figure>
+
+
 ## D3.2.11 and D3.2.12 Sex linkage and haemophilia
 
 Human females are XX and males are XY. All eggs carry an X. A sperm carries X or Y, so the sperm's sex chromosome decides whether the zygote develops male-typical or female-typical characteristics. The chance of a boy or a girl is 1/2 each. The X carries far more genes than the Y, so most X-linked genes have no matching allele on the Y.
@@ -132,6 +155,12 @@ Write alleles as superscripts on X. Haemophilia is a sex-linked recessive disord
 
 Daughters: half normal, half carriers. Sons: half normal, half affected. Of all children, 1/4 are affected. A father cannot pass an X-linked allele to a son, because he gives his son the Y.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--05-haemophilia-x-linked-cross.webp" width="900" height="1130" alt="A carrier mother (XHXh) and an unaffected father (XHY) have four equally likely children: a normal girl, a carrier girl, a normal boy and an affected boy (XhY). One in four children is affected; half the sons are affected and no daughter is. A father gives his son the Y, not his X." loading="lazy">
+  <figcaption>An X-linked recessive allele from a carrier mother affects half her sons and no daughters.</figcaption>
+</figure>
+
+
 ## D3.2.13 Pedigree charts
 
 In a pedigree, squares are males, circles are females and shaded symbols are affected. A horizontal line joins partners and vertical lines lead to children. Generations are numbered I, II, III; individuals within them 1, 2, 3.
@@ -149,6 +178,12 @@ Nature of science: reading a pattern from some of the pedigree is **inductive** 
 
 Many societies prohibit marriage between close relatives. Close relatives share recent ancestors, so both partners are more likely to carry the same rare recessive allele, and children are at greater risk of a recessive disorder.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--06-pedigree-autosomal-recessive.webp" width="900" height="1030" alt="Two unaffected parents (Aa) have an affected daughter II-2 (aa) and an unaffected son II-3 who is AA (1/3) or Aa (2/3). Because an unaffected father has an affected daughter, the condition is autosomal recessive, not X-linked. II-3 has a child with a carrier woman; the chance the child is affected is 2/3 x 1/4 = 1/6." loading="lazy">
+  <figcaption>Unaffected parents with an affected daughter show an autosomal recessive condition; the risk to a later child is 1/6.</figcaption>
+</figure>
+
+
 ## D3.2.14 Continuous variation
 
 **Discrete** variables fall into separate categories, such as ABO blood group. **Continuous** variables take any value in a range, such as height, and the population forms a smooth distribution. Continuous variation is caused by **polygenic inheritance** (many genes each with a small effect), by environmental factors, or both. Skin colour in humans is the example: several genes contribute to melanin production, and sunlight exposure alters it too.
@@ -158,6 +193,12 @@ Measures of central tendency:
 - **Mean**: the sum divided by the number of values.
 - **Median**: the middle value of the ordered data.
 - **Mode**: the most frequent value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--07-box-plot-student-heights.webp" width="900" height="840" alt="Fifteen heights (150 to 181 cm) shown as dots and as a box plot on one scale. Median 161, Q1 156, Q3 165, IQR 9. Limits 142.5 and 178.5 lie 1.5 x IQR beyond the box; 181 is an outlier plotted separately. Whiskers reach 150 and 168." loading="lazy">
+  <figcaption>A box plot shows median, quartiles, whiskers and any outlier, here 181 cm.</figcaption>
+</figure>
+
 
 ## D3.2.15 Box-and-whisker plots
 

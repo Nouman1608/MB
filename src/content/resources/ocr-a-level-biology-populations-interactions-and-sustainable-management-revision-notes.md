@@ -65,6 +65,17 @@ Percentage change = change / original size x 100
 
 **Reminder.** A population of 600 with 90 births, 10 arrivals, 60 deaths and 25 departures changes by 100 - 85 = +15, which is 2.5%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--08-population-growth.webp" width="900" height="900" alt="Counts of a mammal population on a predator-free island rise from 20 to about 200 in an S-shaped curve. The greatest yearly increase (+45) is between years 3 and 4; growth then slows and levels off at the carrying capacity. Population change equals births plus immigration minus deaths plus emigration." loading="lazy">
+  <figcaption>Limiting factors make growth level off at the carrying capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
+
 ## 6.3.2(b) Interactions between populations
 
 ### Predator-prey
@@ -92,6 +103,22 @@ Percentage change = change / original size x 100
 | Plant example | Mean mass per plant falls as sowing density rises | Two species sharing light and water |
 
 When density rises, total yield per unit area rises by less than the density does, because each individual gets a smaller share.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--02-trophic-efficiency.webp" width="900" height="1000" alt="Kelp stores 12 000 kJ m-2 year-1, sea urchins 1 500 and sea otters 180. Dashed outlines show energy available from the level below. Efficiency is 12.5% then 12.0%, and the overall 1.5% is the product, not the sum." loading="lazy">
+  <figcaption>Divide by the level below, and multiply step efficiencies for a chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--05-nitrogen-cycle.webp" width="900" height="1200" alt="Nitrogen gas is fixed to ammonium by bacteria. Dead matter and urea are ammonified to ammonium by saprobionts, nitrifying bacteria oxidise ammonium to nitrite and nitrate, and plants take up nitrate. Denitrifying bacteria in waterlogged anaerobic soil return nitrogen to the air." loading="lazy">
+  <figcaption>Five bacterial processes move nitrogen between air, soil and living things.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--06-carbon-cycle.webp" width="900" height="1230" alt="Producers fix carbon dioxide by photosynthesis and carbon passes along food chains. Respiration by all organisms and decomposition return carbon dioxide; combustion releases it quickly, fossilisation stores carbon for very long periods, and the oceans dissolve carbon dioxide and form shells and limestone." loading="lazy">
+  <figcaption>Carbon moves between air, organisms, fossil stores and the sea.</figcaption>
+</figure>
+
 
 ## 6.3.2(c) Conservation and preservation
 
@@ -198,6 +225,12 @@ Quota = percentage x estimated stock. Shares for fleets are percentages of the q
 - Saying a sustainable harvest is "small" instead of comparing it with the rate of replacement.
 - Presenting predation as the only cause of a cycle when the data show a correlation.
 - Evaluating a management plan without mentioning a group that gains or loses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

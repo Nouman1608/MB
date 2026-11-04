@@ -64,6 +64,17 @@ Each carbon in benzene uses three of its outer electrons to form σ-bonds: two t
 
 The fourth outer electron of every carbon occupies a p-orbital pointing straight up and down through the ring plane. Every p-orbital overlaps sideways with the p-orbitals on both of its neighbours, not just one. The overlap builds two doughnut-shaped regions of π-electron density, one on each face of the ring. Those six π-electrons are **delocalised**: they belong to the ring as a whole, not to three separate double bonds. This explains the equal bond lengths and the extra stability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--01-benzene-orbitals.webp" width="900" height="1230" alt="From above, six carbons form a flat regular hexagon, each bonded to one hydrogen, with 120 degree bond angles. From the side, p orbitals above and below each carbon overlap sideways into a ring of pi electron density above and below the plane, so six p electrons are delocalised." loading="lazy">
+  <figcaption>Benzene is flat with 120 degree angles and a delocalised pi ring above and below the plane. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--02-bond-lengths.webp" width="900" height="880" alt="The Kekule model would have 3 short (0.134 nm) and 3 long (0.154 nm) bonds. Real benzene has six equal bonds of 0.140 nm, plotted between the C=C and C-C values on a number line." loading="lazy">
+  <figcaption>All six benzene C-C bonds are equal, between a single and a double bond in length. (All boards)</figcaption>
+</figure>
+
+
 ## 18.3 Why benzene resists bromination
 
 An alkene such as cyclohexene decolourises bromine quickly at room temperature with no catalyst. Benzene does not react with bromine under those conditions.
@@ -71,6 +82,12 @@ An alkene such as cyclohexene decolourises bromine quickly at room temperature w
 - In an alkene, the two π-electrons are **localised** between two carbon atoms. This region of high electron density can induce a dipole in an approaching Br₂ molecule, and the δ+ bromine is attacked.
 - In benzene, the π-electrons are **spread over six carbons**, so each carbon–carbon region carries less π-electron density. That is not enough to induce a large enough dipole in Br₂ to start a reaction.
 - Addition across the ring would also destroy the delocalised system and lose its extra stability. So benzene needs a stronger electrophile, and it then undergoes **substitution**, which keeps the ring intact, rather than addition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--03-hydrogenation-energy.webp" width="900" height="960" alt="Energy levels: cyclohexane at the bottom, benzene + 3H2 208 kJ/mol above, hypothetical triene + 3H2 360 kJ/mol above. The 152 kJ/mol gap is benzene extra stability from delocalisation." loading="lazy">
+  <figcaption>Benzene releases 152 kJ/mol less energy than three C=C bonds would, so it is more stable. (All boards)</figcaption>
+</figure>
+
 
 ## 18.4 Reactions of benzene
 
@@ -105,6 +122,22 @@ The higher carbon content of benzene is why its flame is much sootier.
 3. Mr(C₁₃H₁₀O) = 156.0 + 10.0 + 16.0 = 182.0, so the theoretical mass = 0.100 × 182.0 = 18.2 g.
 4. Yield = 12.4 ÷ 18.2 × 100 = **68.1%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--06-directing-effects.webp" width="900" height="1000" alt="Numbered benzene rings: OH (also NH2, CH3) directs to positions 2, 4, 6 and NO2 directs to 3 and 5. Phenol with dilute HNO3 gives 2- and 4-nitrophenol; nitrobenzene gives 1,3-dinitrobenzene." loading="lazy">
+  <figcaption>OH, NH2 and CH3 direct to 2, 4 and 6; NO2 directs to 3 and 5. (OCR and Cambridge)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--08-chlorine-uv.webp" width="900" height="1190" alt="With UV light, benzene adds chlorine to the ring to give C6H6Cl6, losing delocalisation, while methylbenzene is substituted in the CH3 side chain and the ring stays. Further substitution raises Mr from 92.0 to 126.5, 161.0 and 195.5." loading="lazy">
+  <figcaption>UV chlorine adds to the benzene ring but substitutes only the side chain of methylbenzene. (OxfordAQA only)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+</figure>
+
+
 ## 18.5 Electrophilic substitution mechanisms
 
 All three mechanisms share the same two steps once the electrophile E⁺ exists.
@@ -134,6 +167,17 @@ Then H⁺ + AlCl₄⁻ → AlCl₃ + HCl regenerates the catalyst.
 - The C–H bond on the attacked carbon breaks, its electrons return to the ring (curly arrow) and H⁺ leaves, giving **methylbenzene**.
 - H⁺ + AlCl₄⁻ → AlCl₃ + HCl.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--04-nitration-mechanism.webp" width="900" height="1260" alt="Four stages: HNO3 and H2SO4 make NO2+; a curly arrow from inside the ring to N; a horseshoe intermediate with + and the attacked carbon bearing H and NO2; a second arrow from the C-H bond restores the ring, giving nitrobenzene and H+." loading="lazy">
+  <figcaption>The ring attacks NO2+, forms a positive intermediate, then loses H+ to restore the ring. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--05-electrophiles.webp" width="900" height="1130" alt="Five rows: reagents, the electrophile formed, and the product. Nitration (NO2+) and acylation (RCO+) are in all boards; alkylation (R+) is OCR, Edexcel and OxfordAQA; bromination (Br+) is OCR and Edexcel; sulfonation (SO3) is Edexcel and OxfordAQA." loading="lazy">
+  <figcaption>Each electrophilic substitution replaces one ring hydrogen, but the electrophile depends on the reagents. (Mixed, board-tagged)</figcaption>
+</figure>
+
+
 ## 18.6 Phenol and bromine water
 
 Phenol, C₆H₅OH, reacts with bromine water at room temperature with no catalyst. The orange colour disappears and the product, **2,4,6-tribromophenol**, comes out of solution as a **white precipitate**:
@@ -149,6 +193,12 @@ C₆H₅OH + 3Br₂ → C₆H₂Br₃OH + 3HBr
 3. Mass = 6.38 × 10⁻³ × 330.7 = **2.11 g**.
 
 **Practical note.** The specification suggests carrying out these reactions in the lab, using methylbenzene or methoxybenzene where appropriate. Benzene itself is carcinogenic, so school labs use these less hazardous arenes instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--07-phenol-bromine.webp" width="900" height="960" alt="Benzene with bromine water gives no reaction, so the tube stays orange. Phenol decolourises bromine water at room temperature and gives a white precipitate of 2,4,6-tribromophenol; the oxygen lone pair feeds electron density into the ring." loading="lazy">
+  <figcaption>Phenol, unlike benzene, decolourises bromine water at room temperature to give a white precipitate. (Edexcel and OCR)</figcaption>
+</figure>
+
 
 ## Common errors
 

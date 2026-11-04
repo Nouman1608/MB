@@ -49,6 +49,22 @@ RCOCl + R'NH2    ->  RCONHR' (N-substituted amide)
 
 **Reduction:** LiAlH₄ reduces the C=O of an amide specifically to give an amine — CH₃CONH₂ →[LiAlH₄] CH₃CH₂NH₂. This is one of the standard amine-production routes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-amides-amino-acids-revision-notes--04-amide-lone-pair.webp" width="900" height="980" alt="Top: the free lone pair on ethylamine takes up H+. Bottom: in ethanamide the lone pair on N is delocalised into the C=O group (curly arrows), so it cannot take up H+ and the amide is neutral." loading="lazy">
+  <figcaption>Delocalisation of the N lone pair into C=O makes amides neutral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-amides-amino-acids-revision-notes--05-amide-hydrolysis.webp" width="900" height="940" alt="Ethanamide is hydrolysed with acid (H2O and HCl) to ethanoic acid and ammonium chloride, or with NaOH(aq) to sodium ethanoate and ammonia." loading="lazy">
+  <figcaption>Acid gives the acid plus an ammonium salt; alkali gives the carboxylate salt plus ammonia.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--06-acyl-mechanism.webp" width="900" height="1230" alt="Addition-elimination: lone pair on N of methylamine attacks the delta-plus C=O carbon while the C=O pi bond moves onto O. In the tetrahedral intermediate the O- lone pair re-forms C=O and the C-Cl bond breaks to release Cl-. The product is N-methylethanamide, with methylammonium chloride from the second amine." loading="lazy">
+  <figcaption>Amines react with acyl chlorides by addition-elimination to give N-substituted amides.</figcaption>
+</figure>
+
+
 ## Amino acids
 
 General formula `H₂NCHRCOOH` — an amine group and a carboxylic acid group on the same carbon.
@@ -73,6 +89,22 @@ General formula `H₂NCHRCOOH` — an amine group and a carboxylic acid group on
 **Predicting the direction of migration at a given pH:** a species whose isoelectric point is **below** that pH carries a net **negative** charge and migrates to the **anode**; a species whose isoelectric point is **above** that pH carries a net **positive** charge and migrates to the **cathode**; a species at exactly its isoelectric point carries no net charge and does not migrate.
 
 **Amino acids are chiral** (except glycine, whose R group is H, so it has no four different groups). Naturally occurring amino acids are almost exclusively the L-form.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-amides-amino-acids-revision-notes--06-electrophoresis-direction.webp" width="900" height="975" alt="An amino acid with isoelectric point 6.0 is a cation and moves to the cathode at pH 3.0, a zwitterion that stays put at pH 6.0, and an anion that moves to the anode at pH 9.0." loading="lazy">
+  <figcaption>Below its pI an amino acid moves to the cathode, at pI it stays, above pI it moves to the anode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-amides-amino-acids-revision-notes--01-glycine-achiral.webp" width="900" height="830" alt="Two panels show the central carbon of an amino acid with NH2, COOH, R and H. In alanine (R = CH3) all four groups differ, so it is a chiral centre with two mirror-image forms. In glycine (R = H) two groups are identical hydrogens, so there is no chiral centre and glycine is achiral." loading="lazy">
+  <figcaption>Glycine has two hydrogens on its central carbon, so it is the one achiral amino acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--07-amino-acid-ions.webp" width="900" height="930" alt="Glycine shown as H3N+CH2COOH (overall +1) in acid, the zwitterion H3N+CH2COO- (0) in neutral solution and H2NCH2COO- (-1) in alkali, with arrows for adding OH- (down) and H+ (up)." loading="lazy">
+  <figcaption>In acid, neutral and alkaline solution an amino acid is a +1 ion, a zwitterion and a -1 ion.</figcaption>
+</figure>
+
 
 ## Dipeptides and tripeptides
 
@@ -102,3 +134,9 @@ The **peptide bond** `–CONH–` forms by condensation between the amine group 
 7. An amino acid has an isoelectric point of 6.0. Predict its direction of migration in electrophoresis at pH 9.0.
 
 **Answers:** 1. The nitrogen lone pair is delocalised into the adjacent carbonyl group, so it is not available to accept a proton. 2. A species with both a positive and a negative charge but no overall charge, formed by internal proton transfer; the strong ionic attractions between zwitterions require much more energy to overcome than ordinary intermolecular forces. 3. The pH at which an amino acid exists as a zwitterion with no net charge; since it varies between amino acids, it allows separation by electrophoresis. 4. Glycine — its R group is a hydrogen atom, so the central carbon does not carry four different groups. 5. Aqueous acid (e.g. dilute or concentrated hydrochloric acid), heated under reflux, which hydrolyses each peptide bond in turn to release the free amino acids. 6. CH₃CONH₂ + NaOH → CH₃COONa + NH₃; the products are sodium ethanoate and ammonia. 7. Its isoelectric point (6.0) is below the buffer pH (9.0), so it carries a net negative charge and migrates towards the anode.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+

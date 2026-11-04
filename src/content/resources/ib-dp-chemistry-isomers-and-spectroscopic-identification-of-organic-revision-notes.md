@@ -39,6 +39,12 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-chemistr
 | Chemical shift, δ | Position of an NMR signal in ppm, relative to TMS at 0 |
 | Integration trace | Step heights proportional to the number of H in each environment |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--02-cis-trans-test.webp" width="900" height="1150" alt="Four compounds with the two key carbons ringed: 2-bromobut-2-ene (yes), 2-methylpent-2-ene (no, two CH3 on C2), 1-ethyl-2-methylcyclopropane (yes) and 1,1-dichlorocyclobutane (no, two Cl on C1). Identical groups share a colour." loading="lazy">
+  <figcaption>Each key carbon needs two different groups; two identical groups on one carbon means no cis-trans isomerism.</figcaption>
+</figure>
+
+
 ## Stereoisomers (3.2.7)
 
 **Cis-trans: method in steps**
@@ -63,6 +69,22 @@ Why it happens: the π bond (or the ring) stops rotation, so groups fixed on the
 - Same chemical properties, except in a **chiral environment** (enzymes, receptors, chiral reagents).
 - Racemic mixture: chiral molecules, but the two rotations cancel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--01-cis-trans-pair.webp" width="900" height="960" alt="cis-but-2-ene and trans-but-2-ene are drawn with 120 degree bonds and a dashed axis through the C=C: the CH3 groups are on the same side in cis and opposite sides in trans. Below, 1-ethyl-2-methylcyclopropane is drawn with wedges: both groups on solid wedges (cis, same face) or one wedge and one hash (trans, opposite faces)." loading="lazy">
+  <figcaption>The C=C bond or ring locks the groups, so they sit on the same side (cis) or opposite sides (trans).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--03-enantiomer-drawing.webp" width="900" height="770" alt="3-bromo-3-methylhexane is drawn either side of a dashed mirror line. In enantiomer 1 C2H5 is up-left, C3H7 up-right, Br on a solid wedge and CH3 on a hashed bond. Enantiomer 2 is the mirror image: the plain groups swap sides while Br stays on the wedge and CH3 on the hash." loading="lazy">
+  <figcaption>Draw the second enantiomer by reflecting across a mirror line; swapping any two groups also gives the other enantiomer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--04-racemic-mixture.webp" width="900" height="850" alt="Three tubes with dials showing the plane of polarised light. Enantiomer 1 alone turns it clockwise by 20 degrees, enantiomer 2 alone anticlockwise by 20 degrees, and a 1 : 1 mixture cancels to 0 degrees, although every molecule is chiral." loading="lazy">
+  <figcaption>In a 1 : 1 racemic mixture the equal and opposite rotations cancel, so the mixture is not optically active.</figcaption>
+</figure>
+
+
 ## Mass spectrometry (3.2.8)
 
 - M⁺: highest-m/z significant peak; gives the relative molecular mass.
@@ -81,6 +103,12 @@ Why it happens: the π bond (or the ring) stops rotation, so groups fixed on the
 The guide notes that the data booklet includes values for particular MS fragments. In a question, use the values you are given.
 
 **Worked reminder.** Butan-1-ol and butan-2-ol are both C₄H₁₀O (M = 74). A strong peak at 31 (CH₂OH⁺, from loss of C₃H₇) points to an OH on the end carbon, so butan-1-ol. A strong peak at 45 (CH₃CHOH⁺, from loss of C₂H₅) points to an OH on carbon 2, so butan-2-ol. Fragments narrow the choice; NMR usually confirms it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--05-mass-spectrum.webp" width="900" height="920" alt="A skeletal formula of methyl 2-methylpropanoate shows two dashed cuts. Below, sticks at m/z 102 (M+), 87 (M minus 15, CH3), 71 (M minus 31, OCH3), 59 (COOCH3+) and 43 (C3H7+) are coloured to match the cuts. Peak heights are not to scale." loading="lazy">
+  <figcaption>Subtract each fragment peak from M+ to find the neutral piece lost.</figcaption>
+</figure>
+
 
 ## Infrared spectroscopy (3.2.9)
 
@@ -114,6 +142,17 @@ Interpret the **functional group region** (above about 1500 cm⁻¹). The guide 
 | H₂O, CH₄ | Yes |
 
 **Greenhouse link.** The surface emits IR; IR-active gases absorb it and re-emit it in all directions, some back down, warming the lower atmosphere. Global warming potential (relative to CO₂) is larger for a gas that absorbs IR strongly and stays in the atmosphere longer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--06-ir-ranges.webp" width="900" height="946" alt="A bar chart on a reversed wavenumber axis (4000 to 500 cm-1) of the lesson ranges: O-H alcohol 3200-3600 broad, N-H 3300-3500, C-H 2850-3100, O-H acid 2500-3000 very broad, C triple bond C 2100-2260, C=O 1700-1750 strong and sharp, C=C 1620-1680 and C-O 1050-1410. The functional group region (above 1500) is shaded." loading="lazy">
+  <figcaption>Read the functional group region, above about 1500 cm-1, for the bonds present.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--07-co2-vibrations.webp" width="900" height="1060" alt="CO2 symmetric stretch keeps the dipole at zero so absorbs no IR; the asymmetric stretch and the bend change the dipole and absorb. N2 (and O2) never gain a dipole so absorb no IR." loading="lazy">
+  <figcaption>Only a vibration that changes the dipole moment absorbs IR.</figcaption>
+</figure>
+
 
 ## ¹H NMR (3.2.10 and 3.2.11)
 
@@ -152,6 +191,12 @@ The guide says ¹H NMR data are given in the data booklet; these ranges are appr
 
 **Worked reminder.** 2,2-dimethylpropanal, (CH₃)₃CCHO: two signals, both singlets because carbon 2 has no H. The ratio is 9 : 1, and the CHO signal sits far downfield at about 9.4–10 ppm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--08-nmr-spectrum.webp" width="900" height="900" alt="3-methylpentan-3-ol with each hydrogen environment coloured and a schematic spectrum: OH singlet 1 H, CH2 quartet 4 H, CH3 on C3 singlet 3 H and end CH3 triplet 6 H, with a rising integration trace in the ratio 1 : 4 : 3 : 6." loading="lazy">
+  <figcaption>Number of signals, integration and n + 1 splitting each follow from the hydrogen environments.</figcaption>
+</figure>
+
+
 ## Combining techniques (3.2.12)
 
 1. From percentage composition, find the empirical formula. From M⁺, find the molecular formula.
@@ -189,6 +234,12 @@ The guide says ¹H NMR data are given in the data booklet; these ranges are appr
 10. Three signals: CH₃ doublet (one neighbour), CH quartet (three neighbours) and a singlet for the two equivalent OCH₃ groups. Ratio 3 : 1 : 6.
 11. 3 : 2 : 1.
 12. Three signals: a 9H singlet (carbon 3 has no H), a 2H triplet for CH₂Cl (furthest downfield) and a 2H triplet for the middle CH₂. Ratio 2 : 2 : 9.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--09-combined-evidence.webp" width="900" height="1270" alt="Compound Z: percentages give 2 : 4 : 1 and C2H4O, with M+ 88 the formula is C4H8O2. The IR shows O-H and C=O but no acid band. The 1H NMR signals (2.2 s 3H, 3.6 s 1H, 1.4 d 3H, 4.2 q 1H) match 3-hydroxybutan-2-one, CH3COCH(OH)CH3, whose MS halves are 43 and 45; carbon 3 is chiral." loading="lazy">
+  <figcaption>MS gives the formula and pieces, IR the groups and NMR the framework: here 3-hydroxybutan-2-one.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -98,6 +98,17 @@ An adult ticket costs **£9** and a child ticket costs **£7**. Check the second
 
 To solve an equation using a graph, draw the graph of one side and read where it meets the other side. For 2x − 5 = 3, draw y = 2x − 5 and the horizontal line y = 3. Read the x-coordinate where they cross. The exact crossing is x = 4. A hand-drawn graph gives a reading close to this, not necessarily exactly it, so a graph reading is an approximation and you should say so.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--01-linear-equation-from-graph.webp" width="900" height="889" alt="Two lines on one grid: y = 2x - 5 and the horizontal y = 3. They cross at (4, 3), so 2x - 5 = 3 has solution x = 4. A dashed line drops to the x-axis at 4. A hand-drawn reading is only approximate." loading="lazy">
+  <figcaption>Draw each side of the equation as a line and read the x-coordinate where they cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
+
 ### Roots of a quadratic (both tiers)
 
 The roots of a quadratic are the x-coordinates where its graph meets the x-axis, because y = 0 there.
@@ -109,6 +120,12 @@ The roots of a quadratic are the x-coordinates where its graph meets the x-axis,
 | y | 7 | 1 | −3 | −5 | −5 | −3 | 1 | 7 |
 
 Mark each point, then sweep one smooth curve through them rather than ruling short segments. The curve cuts the x-axis between −1 and 0, and between 3 and 4. The y-value changes sign across each gap (1 to −3, then −3 to 1), so readings near −0.8 and 3.8 are sensible. The roots are **x ≈ −0.8 and x ≈ 3.8**. The exact values are (3 ± √21)/2, which are −0.791 and 3.791 to 3 decimal places.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--01-table-to-curve.webp" width="900" height="1090" alt="A table of values for y = x² − 2x − 3 from x = −2 to 5 (y = 5, 0, −3, −4, −3, 0, 5, 12) is plotted as crosses and joined by a smooth U-shaped curve. The curve is symmetrical about the dashed line x = 1. It is drawn smoothly, not with ruler segments." loading="lazy">
+  <figcaption>Plot a table, then draw one smooth curve; the table is symmetrical about x = 1.</figcaption>
+</figure>
+
 
 ### Two linear simultaneous equations (both tiers)
 
@@ -131,6 +148,17 @@ Draw the line through (0, 1) and (3, 4). It meets the curve at two points. Readi
 The same idea solves a quadratic equation with a non-zero right-hand side. To solve x² − 3x − 3 = 2, draw the horizontal line y = 2 on the same axes as the curve. The x-coordinates of the crossings are the solutions: x ≈ −1.2 and x ≈ 4.2. The exact values are (3 ± √29)/2.
 
 A line can cross a curve twice, touch it once, or miss it. The number of intersections is the number of solutions of the pair.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--05-curve-and-line.webp" width="900" height="980" alt="The curve y = x squared minus 3x minus 3 and the line y = x plus 1 cross at about (minus 0.8, 0.2) and (4.8, 5.8). These are the two solution pairs; equating gives x squared minus 4x minus 4 = 0 with exact roots 2 plus or minus 2 root 2." loading="lazy">
+  <figcaption>Each crossing of a curve and a line is one solution pair of the simultaneous equations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
+</figure>
+
 
 ## 6.03c Quadratic simultaneous equations (Higher tier only)
 
@@ -169,6 +197,17 @@ Both solutions describe the same rectangle: **4 cm by 9 cm**.
 
 When the quadratic does not factorise, the answers are surds or decimals. For x² − 6x + 4 = 0 the formula gives x = 3 ± √5, so both roots are irrational. The graph of the line then crosses the curve at points that do not sit on grid lines, which is why a graph only gives approximations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--02-line-meets-circle-41.webp" width="900" height="1174" alt="The circle x squared plus y squared equals 41 and the line y = x - 1 cross at (5, 4) and (-4, -5). Substituting gives x squared - x - 20 = 0 so x is 5 or -4, and each x is paired with its y using the linear equation." loading="lazy">
+  <figcaption>The two solution pairs are the two points where the line meets the circle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--03-rectangle-perimeter-area.webp" width="900" height="1137" alt="The area x(13 - x) is plotted against x. It equals 36 at x = 4 and x = 9. These give x squared - 13x + 36 = 0, (x - 4)(x - 9) = 0. Both values describe the same 4 cm by 9 cm rectangle with sides swapped." loading="lazy">
+  <figcaption>Two roots, one rectangle: the sides swap.</figcaption>
+</figure>
+
+
 ## 6.03e Sign-change methods (Higher tier only)
 
 Some equations have no simple method that gives the answer exactly, such as x³ + 3x − 8 = 0. Rewrite the equation as f(x) = 0. Suppose f(a) and f(b) have opposite signs and the graph of f has no breaks between a and b. Then the graph must cross the x-axis in that interval, so it holds a root.
@@ -191,6 +230,12 @@ f(1.515) = 0.022   (positive)        root between 1.51 and 1.515
 ```
 
 Every number between 1.51 and 1.515 rounds to 1.51, so **x = 1.51 to 2 decimal places**. The last test at the half-way value 1.515 settles the rounding. Without it you could not tell 1.51 from 1.52.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--04-decimal-search-table.webp" width="900" height="1105" alt="Four number-line strips zoom into the root of x cubed + 3x - 8. The sign changes between 1 and 2, then 1.5 and 1.6, then 1.51 and 1.52. The half-way test f(1.515) is positive so the root is between 1.51 and 1.515, which rounds to 1.51." loading="lazy">
+  <figcaption>Each zoom keeps the sign change; the half-way test settles the rounding.</figcaption>
+</figure>
+
 
 ### Interval bisection
 
@@ -217,6 +262,12 @@ Take the midpoint, find its sign, and keep the half that still has the sign chan
 Here f(2) = −3 and f(3) = 13, so the start is a valid sign change. The final interval runs from 2.25 to 2.28125. The value f(2.25) is negative, so the root is above 2.25, and both ends of the interval round to 2.3. The root is **2.3 to 1 decimal place**.
 
 Each bisection halves the interval, so you gain accuracy steadily but slowly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and--06-interval-bisection.webp" width="900" height="1140" alt="Each midpoint of x cubed minus 3x minus 5 on 2 to 3 is tested (2.5, 2.25, 2.375, 2.3125, 2.28125). Keeping the half with the sign change shrinks the interval to 2.25 to 2.28125, so the root is 2.3 to 1 decimal place." loading="lazy">
+  <figcaption>Each bisection halves the interval that must contain the root.</figcaption>
+</figure>
+
 
 ## Common errors
 

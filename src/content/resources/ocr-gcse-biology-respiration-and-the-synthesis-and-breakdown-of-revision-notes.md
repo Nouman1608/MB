@@ -45,6 +45,12 @@ Condensed notes for OCR *GCSE (9-1) Gateway Science Biology A* (J247), Version 4
 - Exothermic: some energy is captured in ATP, the rest is released as heat.
 - Enzyme-controlled: rate rises with temperature up to the optimum, then falls as enzymes denature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of--03-atp-adp-cycle.webp" width="900" height="890" alt="ADP plus a phosphate becomes ATP when respiration transfers energy. ATP breaks back down to ADP and phosphate, releasing energy for cell work." loading="lazy">
+  <figcaption>ATP is made from ADP and phosphate during respiration and broken back down to release energy.</figcaption>
+</figure>
+
+
 ## B1.3c Compare aerobic and anaerobic
 
 | | Aerobic | Anaerobic (animals) | Anaerobic (plants, fungi) |
@@ -73,6 +79,27 @@ Method in steps: **investigating yeast respiration**
 
 CO2 tests: limewater turns cloudy; hydrogen-carbonate indicator changes from red-orange to yellow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of--07-mp22-atp-glucose.webp" width="900" height="910" alt="Dots show glucose molecules needed for 600 ATP: 20 for aerobic respiration at 30 ATP per glucose and 300 for anaerobic at 2 ATP per glucose. Anaerobic respiration uses 15 times as much glucose." loading="lazy">
+  <figcaption>A muscle cell needing 600 ATP uses 15 times more glucose anaerobically than aerobically.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of--01-yeast-temperature-rate.webp" width="900" height="880" alt="Bars show yeast CO2 rate at 15, 25, 35 and 55 degrees C from 6, 21, 48 and 3 cm3 in 10 minutes. The rate rises from 2.1 to 4.8 cm3 per minute between 25 and 35 degrees C, a 129 percent increase. At 55 degrees C the rate collapses to 0.3 because enzymes are denatured." loading="lazy">
+  <figcaption>The rate of yeast respiration peaks near 35 degrees C and collapses at 55 degrees C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
+
 ## Monomers and polymers
 
 | Large molecule | Monomers | Joined by | Broken down by | Products |
@@ -90,6 +117,22 @@ Note: lipids are not true polymers, because they are not chains of one repeating
 - Breakdown releases glucose for respiration.
 - Test: Benedict's (blue to brick red on heating, reducing sugar); iodine (blue-black, starch).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of--08-mp22-condensation-mass.webp" width="900" height="900" alt="Three condensation reactions with masses: two glucose to maltose, glycine and alanine to a dipeptide, and glycerol with three palmitic acids to a triglyceride. Each shows the product mass equals the reactant mass minus 18 for each water released." loading="lazy">
+  <figcaption>Every condensation join releases one water molecule of mass 18.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--02-building-blocks.webp" width="900" height="1190" alt="Glucose units join in chains to make starch (plants), glycogen (animals and fungi) and cellulose (plant cell walls). Amino acids join in different orders to make different proteins. Fats and oils are made from glycerol and fatty acids." loading="lazy">
+  <figcaption>Large molecules are built by joining smaller ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
+</figure>
+
+
 ### B1.3e Amino acids and proteins
 
 - Order of amino acids set by DNA decides how the chain folds and what the protein does.
@@ -101,6 +144,12 @@ Note: lipids are not true polymers, because they are not chains of one repeating
 - Triglyceride: glycerol + 3 fatty acids, 3 water molecules released.
 - Energy store, insulation, phospholipids in membranes.
 - Test: emulsion test (ethanol, then water: cloudy white).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--04-emulsion-test.webp" width="900" height="1010" alt="Step 1: shake the food with ethanol so fat dissolves. Step 2: pour the ethanol into water. Fat present gives a cloudy white emulsion of tiny droplets; no fat leaves the mixture clear. Ethanol goes first, then water." loading="lazy">
+  <figcaption>Fat dissolves in ethanol but forms a cloudy emulsion in water.</figcaption>
+</figure>
+
 
 ## Method in steps: food tests (qualitative)
 
@@ -117,6 +166,12 @@ These tests are qualitative: they tell you whether a molecule is present, not ho
 2. Put a thermometer through a cotton wool plug in each flask.
 3. Record both temperatures at the start, then at regular intervals for a day or two.
 4. The living seeds warm up more. The boiled seeds are the control.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of--02-peas-heat-flasks.webp" width="900" height="830" alt="Two vacuum flasks start at 24.0 degrees C. After 24 hours the germinating peas read 28.5 and the boiled control reads 24.2. The rise due to respiration is 4.3 degrees C." loading="lazy">
+  <figcaption>Respiration transfers heat: the live peas warm by 4.3 degrees C more than the boiled control.</figcaption>
+</figure>
+
 
 ## Data and graph reminders
 

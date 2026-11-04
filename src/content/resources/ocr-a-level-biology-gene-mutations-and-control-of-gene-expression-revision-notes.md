@@ -65,6 +65,17 @@ mRNA: AUG CAA UUC GGC UGA gives Met-Gln-Phe-Gly, then stop.
 - First U of UUC deleted: AUG CAA UCG GCU GA, so Met-Gln-Ser-Ala (**frameshift**, and the stop is lost).
 - GGAUCC (six nucleotides) inserted after CAA: Met-Gln-Gly-Ser-Phe-Gly, then stop (in frame; two amino acids added).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--01-mutation-types.webp" width="900" height="1108" alt="The same nine-base gene ATGCTTGGC is shown after each mutation with changed bases in gold and lost bases as dashed boxes. Substitution keeps nine bases, addition gives ten, deletion eight, duplication of GGC twelve, inversion of the last six bases (reads GCCAAG) keeps nine, and translocation moves CTT to the other end. OCR names only substitution, insertion and deletion." loading="lazy">
+  <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--02-mutation-effects.webp" width="900" height="1110" alt="The mRNA AUG CUU GGC ACC AAG GAU CGU UAG is read in triplets. A silent change (CUU to CUC) keeps Leu, a missense change (CUU to CCU) gives Pro, a nonsense change (AAG to UAG) stops the chain after four amino acids, one added G causes a frame shift so every later amino acid changes, and deleting three bases keeps the frame and loses only Leu." loading="lazy">
+  <figcaption>Silent, missense, nonsense, frame shift and in-frame deletion followed through one mRNA.</figcaption>
+</figure>
+
+
 ## 6.1.1(b) Control of gene expression
 
 ### Transcriptional level
@@ -87,6 +98,17 @@ mRNA: AUG CAA UUC GGC UGA gives Met-Gln-Phe-Gly, then stop.
 
 **Eukaryotic transcription factors.** Proteins that bind to specific DNA sequences near genes. Activators help RNA polymerase to bind and start transcription. Repressors prevent it. A cell type is defined partly by which factors are active. You need the general role only, not named factors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--03-lac-operon.webp" width="900" height="960" alt="Two panels show lacI (separate repressor gene), promoter, operator, lacZ and lacY. With no lactose the repressor sits on the operator and blocks RNA polymerase so the genes are off. With lactose present, lactose binds the repressor and changes its shape, it leaves the operator, RNA polymerase makes mRNA and the enzymes are made." loading="lazy">
+  <figcaption>The lac operon with and without lactose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--07-alternative-splicing.webp" width="900" height="970" alt="A pre-mRNA with five exons of 90, 60, 105, 45 and 72 nucleotides is spliced so introns are removed and exons joined. Keeping exon 1, exon 5 and one of exons 2, 3 or 4 gives mRNAs coding for 73, 88 and 68 amino acids." loading="lazy">
+  <figcaption>Alternative splicing gives three polypeptides from one gene.</figcaption>
+</figure>
+
+
 ### Post-transcriptional level
 
 Sequence: transcription gives **primary mRNA** (exons and introns), introns are removed and exons are joined, giving **mature mRNA** which leaves the nucleus. Capping and a poly-A tail are also part of editing. Different exon combinations can give different polypeptides from one gene.
@@ -101,6 +123,22 @@ Sequence: transcription gives **primary mRNA** (exons and introns), introns are 
 ### Post-translational level
 
 Hormone binds a surface receptor, so the cell makes **cAMP**. cAMP binds an inactive protein (such as protein kinase A) and changes its shape, so it becomes active. The active enzyme can phosphorylate other proteins. This acts on proteins that already exist, so it needs no new transcription or translation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--04-oestrogen-transcription-factor.webp" width="900" height="1060" alt="Oestrogen diffuses through the cell-surface membrane, binds a receptor in the cytoplasm to form a complex, the complex enters the nucleus through a nuclear pore, binds a base sequence next to the target gene, and RNA polymerase can then make mRNA." loading="lazy">
+  <figcaption>Five steps by which oestrogen acts as a transcription factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
+  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--09-cancer-genes.webp" width="900" height="940" alt="Normal control has a proto-oncogene go signal and a working tumour suppressor brake, giving 8 cells in 90 hours with a 30 hour cycle. A stuck-on oncogene (mutation or too little methylation) with an 18 hour cycle gives 32 cells. Losing the tumour suppressor gene (mutation or too much methylation) leaves division unchecked." loading="lazy">
+  <figcaption>How oncogenes and loss of tumour suppressor genes lead to uncontrolled division.</figcaption>
+</figure>
+
 
 ## 6.1.1(c) Body plans
 
@@ -157,6 +195,12 @@ Hormone binds a surface receptor, so the cell makes **cAMP**. cAMP binds an inac
 10. 180 / 3 = **60** amino acids.
 11. Any two of: separating the digits; removing a tadpole's tail; removing cells that are damaged or not needed.
 12. 18 / 240 × 100 = **7.5%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
+  <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

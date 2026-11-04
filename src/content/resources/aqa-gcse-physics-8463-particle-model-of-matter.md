@@ -74,6 +74,17 @@ widely spaced. Keep the particles the same size in all three.
 the particles are closely packed, so there is a lot of mass in a small volume. In a gas the particles are far
 apart, so the same mass takes up far more volume and the density is much lower.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--01-density-same-mass.webp" width="900" height="1200" alt="Two cubes drawn with sides to scale: 1.0 kg of liquid water in a tiny cube (0.0010 m3, 1000 kg/m3) and the same 1.0 kg as steam in a cube about twelve times wider (1.7 m3, 0.59 kg/m3) with a few particles far apart. The same mass in 1700 times the volume means the density is 1700 times smaller." loading="lazy">
+  <figcaption>The same mass spread over a much bigger volume gives a much lower density.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
+
 ### Density
 
 ```
@@ -101,6 +112,32 @@ m = 153 g = 0.153 kg
 ρ = 0.153 / 1.80 × 10⁻⁵ = 8500 kg/m³
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--10-density-unit-conversion.webp" width="900" height="850" alt="A 1 cm3 cube of the metal has mass 2.7 g. A 1 m3 cube holds 1 000 000 cm3, so its mass is 2 700 000 g or 2700 kg. So g/cm3 is multiplied by 1000 to give kg/m3." loading="lazy">
+  <figcaption>The same block is 2.7 g/cm3 or 2700 kg/m3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--03-eureka-can-volume.webp" width="900" height="1120" alt="A displacement (eureka) can filled to its spout with a stone lowered fully under the water on a string. The overflow runs into a measuring cylinder reading 18.0 cm3, which is the stone volume, 1.80 x 10^-5 m3. With mass 0.153 kg the density is 8500 kg/m3." loading="lazy">
+  <figcaption>The water that overflows has the same volume as the irregular solid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--05-density-regular-solid.webp" width="900" height="1000" alt="A 10 cm by 5 cm by 4 cm block has volume 200 cm3. On a balance it has mass 540 g. Density = 540 / 200 = 2.7 g/cm3." loading="lazy">
+  <figcaption>For a regular solid, calculate the volume from its sides, find the mass on a balance, then divide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--02-volume-by-displacement.webp" width="900" height="870" alt="A measuring cylinder reads 40 cm3 before a stone is lowered in and 65 cm3 after. The shaded rise is the stone volume, 65 - 40 = 25 cm3. The eye is level with the bottom of the meniscus." loading="lazy">
+  <figcaption>The volume of an irregular solid is the rise in liquid level, not the final reading.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--06-density-liquid.webp" width="900" height="930" alt="A measuring cylinder on a balance reads 80 g empty and 112 g with 40 cm3 of liquid. Liquid mass = 112 - 80 = 32 g, so density = 32 / 40 = 0.8 g/cm3." loading="lazy">
+  <figcaption>Subtract the empty container mass before dividing by the liquid volume.</figcaption>
+</figure>
+
+
 ### Required practical 5 -- density
 
 - **Regular solid:** measure the sides with a ruler, Vernier callipers or a micrometer; calculate the volume;
@@ -120,6 +157,12 @@ their arrangement and energy change. Changes of state are **physical changes**. 
 because the material **recovers its original properties** if the change is reversed. Melt ice and refreeze the
 water and you have ice again.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--06-changes-of-state.webp" width="900" height="740" alt="Nine particles in a solid, liquid and gas. Arrows are labelled melting, freezing, boiling or evaporating, and condensing; a curved arrow from solid to gas is sublimating. Nine particles in every state show that mass is conserved." loading="lazy">
+  <figcaption>Every change of state is a physical change in which mass is conserved.</figcaption>
+</figure>
+
+
 ## 4.3.2 Internal energy and energy transfers
 
 ### Internal energy
@@ -129,6 +172,12 @@ energy and potential energy of all the particles that make up a system.**
 
 Heating increases the energy of the particles. This **either raises the temperature** of the system **or produces
 a change of state**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--07-internal-energy.webp" width="900" height="810" alt="Three boxes of six particles: a solid, the same solid hotter (arrows twice as long, kinetic energy up) and the solid melted (same speeds, bonds gone, potential energy up). Equal energy is added in both heated cases, so the totals are both 6 against 4 at the start." loading="lazy">
+  <figcaption>Heating either raises the temperature (kinetic energy) or changes the state (potential energy).</figcaption>
+</figure>
+
 
 ### Specific heat capacity
 
@@ -151,6 +200,12 @@ capacity of water is 4200 J/kg °C.
 ΔE = m c Δθ = 0.50 × 4200 × 60
 ΔE = 126 000 J
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
+  <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
+</figure>
+
 
 ### Specific latent heat
 
@@ -188,6 +243,12 @@ Warming:  E₂ = 0.40 × 4200 × 25 = 42 000 J
 Total:    133 600 + 42 000 = 175 600 J ≈ 176 000 J (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--08-ice-melt-then-warm.webp" width="900" height="850" alt="A graph of temperature against energy for 0.40 kg of ice. A flat part at 0 degrees Celsius takes 133 600 J (E = mL). A sloping part from 0 to 25 degrees Celsius takes 42 000 J (E = mc delta theta). The total is 175 600 J." loading="lazy">
+  <figcaption>The flat part needs more energy than warming the water by 25 degrees.</figcaption>
+</figure>
+
+
 ### Heating and cooling graphs
 
 On a temperature–time graph for a substance heated steadily:
@@ -203,6 +264,17 @@ transferred to the surroundings with no change in temperature.
 **Specific heat capacity vs specific latent heat.** c is about a **temperature change** with no change of state.
 L is about a **change of state** with no temperature change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--02-cooling-curve-c-vs-l.webp" width="900" height="1000" alt="A temperature-time graph of a substance cooling steadily: sloping while the gas cools, flat while it condenses, sloping while the liquid cools, flat while it freezes, then sloping as the solid cools. Sloping parts use delta E = m c delta theta; flat parts use E = m L. A longer flat part means more energy." loading="lazy">
+  <figcaption>Slopes are about c (temperature changes); flats are about L (state changes).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
+</figure>
+
+
 ## 4.3.3 Particle model and pressure
 
 ### Particle motion in gases
@@ -216,6 +288,12 @@ force on each unit of area is the gas pressure.
 **Pressure and temperature at constant volume.** If you heat a gas in a sealed container of fixed volume, the
 molecules gain kinetic energy and move faster. They hit the walls **more often** and **with more force**, so the
 pressure increases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--02-gas-pressure.webp" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
+  <figcaption>Faster particles or a smaller volume mean more forceful or more frequent wall collisions, so higher pressure.</figcaption>
+</figure>
+
 
 ### Pressure in gases
 
@@ -246,12 +324,24 @@ p₂ = 3.6 / 0.020 = 180 kPa
 
 Keep the pressure units the same on both sides; you do not need to convert kPa to Pa for a ratio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--09-gas-pv-constant.webp" width="900" height="1030" alt="Two cylinders hold the same six particles at 0.030 and 0.020 cubic metres. A pressure against volume graph is a falling curve for pV = 3.6. Point A is 120 kPa at 0.030 m3 and point B is 180 kPa at 0.020 m3, with dashed guides." loading="lazy">
+  <figcaption>At constant temperature, pressure times volume is constant, so squeezing a gas raises its pressure.</figcaption>
+</figure>
+
+
 ### Increasing the pressure of a gas (Higher tier only)
 
 **Work** is the transfer of energy by a force. When you **do work on a gas**, for example by pushing in the piston
 of a bicycle pump, you transfer energy to the gas. This **increases its internal energy**, and the molecules' average
 kinetic energy rises, so the **temperature of the gas increases**. That is why the end of a bicycle pump gets warm
 when you pump up a tyre quickly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--05-pump-work-heats-gas.webp" width="900" height="980" alt="A piston is pushed 0.20 m by 45 N. A particle bouncing off a fixed wall leaves at the same speed (3 units) but off the moving piston it leaves faster (5 units). The work done is 9.0 J, so the gas is hotter." loading="lazy">
+  <figcaption>Work done on a gas speeds up its particles and raises its temperature.</figcaption>
+</figure>
+
 
 ## Common errors
 

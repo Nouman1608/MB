@@ -53,6 +53,17 @@ When you can answer the self-test without looking, move on to the [practice ques
 - **Equilibrium point**: a point where dx/dt = 0 and dy/dt = 0. For dx/dt = ax + by, dy/dt = cx + dy it is the origin.
 - **Saddle point**: an equilibrium that trajectories approach along one direction and leave along another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--01-rate-proportional-to-amount.webp" width="900" height="912" alt="HL only. A graph of G against t in days for dG/dt = kG with G = 50 at t = 0 and G = 80 at t = 3. The curve G = 50 e to the power kt, with k = (1/3) ln 1.6 = 0.157, passes through (0, 50), (3, 80) and (10, 240). Gold tangent segments at the three points have gradients 7.8, 12.5 and 37.5, which are k times G: the taller the curve, the steeper it is, which is why the model grows exponentially." loading="lazy">
+  <figcaption>The model G = Ae^(kt) fixed by two data points; slope is proportional to height.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--02-slope-field-reading.webp" width="900" height="1100" alt="HL only. A slope field for dy/dx = x minus y on a grid from minus 1.5 to 2.5 in both directions, drawn as short marks whose slope equals x minus y. The marks are flat along the dashed line y = x. The thick gold line y = x minus 1 has gradient 1 everywhere, equal to x minus y there, so it is itself a solution. A teal curve starting above and a copper curve starting below both bend towards this line as x increases, and the teal curve has a turning point where it crosses y = x." loading="lazy">
+  <figcaption>Flat marks lie on y = x, y = x − 1 is itself a solution, and nearby curves bend towards it.</figcaption>
+</figure>
+
+
 ## Formulas and results
 
 | Topic | Result |
@@ -78,6 +89,22 @@ When you can answer the self-test without looking, move on to the [practice ques
 | Imaginary (±bi) | Closed circles or ellipses |
 
 The guide says systems will have distinct, non-zero eigenvalues, and exact solutions are only required when they are real and distinct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--05-phase-portrait-types.webp" width="900" height="1240" alt="HL only. Six small phase portraits of dx/dt = ax + by, dy/dt = cx + dy, each with the origin marked and arrows showing the direction of travel. Opposite-sign real eigenvalues (3 and minus 1) give a saddle: trajectories come in along one line and leave along another. Two positive real eigenvalues (2 and 1) give a node with trajectories moving away from the origin. Two negative real eigenvalues (minus 1 and minus 2) give a node with trajectories moving towards the origin. Complex eigenvalues with negative real part (minus 1 plus or minus 2i) give an anticlockwise spiral into the origin; with positive real part (1 plus or minus 2i) an anticlockwise spiral out. Purely imaginary eigenvalues (plus or minus 2i) give closed loops, here clockwise." loading="lazy">
+  <figcaption>The sign and type of the eigenvalues fix the shape of the phase portrait.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--06-saddle-worked-example.webp" width="900" height="1100" alt="HL only. Phase portrait of dx/dt = x + 2y, dy/dt = 2x + y. The eigenvalue 3 has eigenvector (1, 1): trajectories move away from the origin along the dashed gold line y = x. The eigenvalue minus 1 has eigenvector (1, minus 1): trajectories move towards the origin along the dashed copper line y = minus x. The thick navy trajectory through (3, 1) at t = 0 is x = 2e^(3t) + e^(minus t), y = 2e^(3t) minus e^(minus t). It comes in near y = minus x, bends, and then leaves along y = x because the e^(3t) term takes over. The origin is a saddle point." loading="lazy">
+  <figcaption>Trajectories come in along the λ = −1 eigenvector and leave along the λ = 3 eigenvector.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--07-spiral-direction-test.webp" width="900" height="980" alt="HL only. Phase portrait of dx/dt = minus x minus 2y, dy/dt = 2x minus y. The eigenvalues are minus 1 plus or minus 2i. The trajectory starting at (1, 0) is x = e^(minus t) cos 2t, y = e^(minus t) sin 2t, a spiral shrinking into the origin. At the test point (1, 0) the rates are (minus 1, 2), drawn as a copper arrow pointing up and slightly left, so y is increasing there and the spiral turns anticlockwise. The negative real part means the trajectories move towards the origin." loading="lazy">
+  <figcaption>Complex eigenvalues with negative real part spiral in; the sign of dy/dt at (1, 0) gives the direction.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -111,6 +138,17 @@ The guide says systems will have distinct, non-zero eigenvalues, and exact solut
 2. Write (x, y) = A e^(λ₁t) p₁ + B e^(λ₂t) p₂.
 3. Put t = 0 and solve for A and B.
 4. Read off x and y separately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--03-euler-step.webp" width="900" height="850" alt="HL only. Euler's method for dy/dx = x squared minus y with y(0) = 1, shown for x from 0 to 0.3. The thick navy path uses steps of h = 0.1 and passes through (0, 1), (0.1, 0.9), (0.2, 0.811) and (0.3, 0.7339); the first step has slope minus 1. The dashed gold path with h = 0.05 ends at 0.742. The teal curve is the exact solution, which gives y(0.3) = 0.749. The smaller step ends closer to the exact value." loading="lazy">
+  <figcaption>Euler steps along tangents; a smaller step ends closer to the exact value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--04-coupled-euler-step.webp" width="900" height="920" alt="HL only. A zoomed graph of predators y against prey x for the system dx/dt = 0.5x − 0.01xy, dy/dt = −0.4y + 0.005xy with h = 0.1. Two teal arrows take the state from (100, 20) at t = 0 to (103, 20.2) at t = 0.1 and on to (106.07, 20.43) at t = 0.2. Each arrow is h times the rates (30, 2) and then (30.69, 2.32). A hollow copper marker at (103, 20.23) shows the common error: updating y using the new value of x instead of the old one." loading="lazy">
+  <figcaption>Both variables are updated from the same old values; using the new x is the common error.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -158,6 +196,12 @@ The guide says systems will have distinct, non-zero eigenvalues, and exact solut
 8. dx/dt = y, dy/dt = 5x − 4y. M = [0 1; 5 −4], λ² + 4λ − 5 = 0, so **λ = 1 or −5** (a saddle).
 9. λ² − 0λ + 4 = 0, so **λ = ±2i**: ellipses. At (1, 0), dy/dt = 1 > 0, so **anticlockwise**.
 10. A + B = 3 and A − 2B = 0, so A = 2, B = 1. **x = 2e^(2t) + e^(−t), y = 2e^(2t) − 2e^(−t)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--08-second-order-damped.webp" width="900" height="1110" alt="HL only. The second-order equation x″ + 3x′ + 2x = 0 with x(0) = 1 and x′(0) = 0 is rewritten as dx/dt = y, dy/dt = −2x − 3y. The top graph shows the exact solution x = 2e^(−t) − e^(−2t) falling smoothly from 1 towards 0 without crossing zero, with a dashed gold Euler path (h = 0.1) close to it; Euler gives x(0.2) = 0.98 and the exact value is 0.967. The lower graph is the phase portrait of x against y = dx/dt: the trajectory from (1, 0) dips below the axis and enters the origin along the eigenvector direction (1, minus 1) of eigenvalue minus 1. Both eigenvalues are negative, so every trajectory goes to the origin." loading="lazy">
+  <figcaption>Rewritten as a coupled system, the damped equation gives a node and x decays without oscillating.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

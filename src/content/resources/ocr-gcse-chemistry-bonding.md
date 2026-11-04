@@ -56,6 +56,17 @@ Both react with oxygen to form oxides. Burning calcium gives calcium oxide (2Ca 
 
 Watch for exceptions: mercury is a liquid metal, and diamond (a non-metal) has a very high melting point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--01-metal-properties.webp" width="900" height="1070" alt="A lattice of positive ions sits in a sea of free electrons. Layers slide when the metal is hammered, free electrons carry current and heat along a wire, and strong ion-electron attraction gives high melting points." loading="lazy">
+  <figcaption>Metallic bonding explains malleability, conduction and high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--05-oxides.webp" width="900" height="1030" alt="Acidic oxides (SO2, CO2) come from non-metals and dissolve to give acidic solutions. Basic oxides (CuO, CaO) come from metals and react with acids to give salt and water. Extended: amphoteric oxides Al2O3 and ZnO react with both acids and alkalis." loading="lazy">
+  <figcaption>Non-metal oxides are acidic, metal oxides basic, and two are amphoteric.</figcaption>
+</figure>
+
+
 ## Atomic structure and position in the table (C2.2b, C2.2c)
 
 Electrons fill shells in order. Up to calcium (Z = 20), shell 1 takes a maximum of 2 electrons and shells 2 and 3 take a maximum of 8 each. Two rules link the arrangement to the table:
@@ -82,6 +93,22 @@ Atomic radii and bond lengths are of the order of 10⁻¹⁰ m (0.1 nm). Nanopar
 
 Put both lengths in the same unit before dividing (1 nm = 1 × 10⁻⁹ m).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--05-nanoparticle-atom-count.webp" width="900" height="840" alt="A row of 50 atoms spans a bracket labelled 14.5 nm. A zoomed view shows one atom is 0.29 nm. The calculation 14.5 divided by 0.29 gives 50 atoms." loading="lazy">
+  <figcaption>A 14.5 nm silver nanoparticle is about 50 atoms across when each atom is 0.29 nm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
+
 ## Why atoms bond: electrostatic forces (C2.2e)
 
 A chemical bond is not a physical object. It is a strong **electrostatic attraction** between opposite charges.
@@ -91,6 +118,17 @@ A chemical bond is not a physical object. It is a strong **electrostatic attract
 - In **metallic bonding**, positive metal ions attract a sea of delocalised electrons.
 
 When an atom becomes an ion, only the number of electrons changes. The nucleus, and so the number of protons, stays the same. A calcium ion, Ca²⁺, still has 20 protons but now has 18 electrons (2,8,8).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+</figure>
+
 
 ## The five bonding types compared (C2.2d)
 
@@ -114,6 +152,47 @@ A sodium chloride crystal contains no molecules: each ion is surrounded by oppos
 
 You should also be able to go the other way: build a 3D model from a 2D drawing, and draw a 3D model flat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--06-sio2-bond-count.webp" width="900" height="990" alt="Three silicon atoms and six oxygen atoms are drawn so every silicon has four bonds and every oxygen has two. Counting gives 12 Si-O bonds, 6 oxygen atoms, a 1 to 2 ratio and the formula SiO2." loading="lazy">
+  <figcaption>Counting bonds from both ends gives the ratio Si to O of 1 to 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--07-polymer-chain-bonds.webp" width="900" height="990" alt="Two poly(propene) chains drawn as displayed formulae. Strong covalent bonds run along and out of each chain, while dashed lines show weak forces between the two chains." loading="lazy">
+  <figcaption>In a polymer, covalent bonds hold each chain together and only weak forces act between chains.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--07-graphite.webp" width="900" height="813" alt="Three flat layers of carbon atoms in hexagons, each atom bonded to three others. Weak forces (dashed) lie between the layers so they slide, making graphite soft and slippery, a lubricant. Delocalised electrons between layers let it conduct electricity." loading="lazy">
+  <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
+</figure>
+
+
 ## Dot and cross diagrams (C2.2f)
 
 Use dots for electrons from one atom and crosses for electrons from the other. At GCSE level you normally show outer shells only, unless the question asks for every shell.
@@ -130,6 +209,12 @@ Use dots for electrons from one atom and crosses for electrons from the other. A
 
 Charges must balance: (+2) + 2 × (−1) = 0. Always check this.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--01-cafe2-dot-cross.webp" width="900" height="980" alt="Outer shells only. Calcium gives one electron to each of two fluorine atoms, giving Ca2+ in brackets and two F- ions with eight outer electrons each. The charges balance, so the formula is CaF2." loading="lazy">
+  <figcaption>Calcium loses two electrons, one to each fluorine atom, giving CaF2.</figcaption>
+</figure>
+
+
 ### Simple covalent molecules
 
 **Worked example 5.** Draw a dot and cross diagram for silicon tetrachloride, SiCl₄.
@@ -145,6 +230,17 @@ Charges must balance: (+2) + 2 × (−1) = 0. Always check this.
 2. Nitrogen (5 outer) puts 3 into the triple bond and keeps 1 lone pair.
 3. Check: C has 8, N has 8, H has 2. Total outer electrons 1 + 4 + 5 = 10 = 4 shared pairs + 1 lone pair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--02-sicl4-hcn-dot-cross.webp" width="900" height="1000" alt="Silicon tetrachloride has four shared pairs and twelve lone pairs, every atom with eight outer electrons. Hydrogen cyanide has one C-H shared pair, a C-N triple bond and one lone pair on nitrogen." loading="lazy">
+  <figcaption>Shared pairs sit in the overlaps; lone pairs stay on one atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
+
 
 
 ## Limitations of models (C2.2g)
@@ -152,6 +248,12 @@ Charges must balance: (+2) + 2 × (−1) = 0. Always check this.
 - **Dot and cross diagrams** show where electrons came from. Real electrons are identical, though, so the dot/cross split is only bookkeeping. They are flat, so they do not show the 3D shape, and they show shells as fixed rings.
 - **Ball and stick models** show 3D shape and bond angles. But bonds are not sticks, atoms are not hard coloured spheres, and the gaps between atoms are exaggerated. For an ionic lattice, the sticks wrongly suggest that each ion is bonded to particular neighbours.
 - **2D drawings** (displayed formulae) show which atoms are joined, but not the shape. **3D drawings** use wedges and dashes to suggest depth, but they are still projections onto paper.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--04-model-limitations-methane.webp" width="900" height="1090" alt="Methane shown four ways. Dot and cross shows shared pairs by origin but electrons are identical and the drawing is flat. Ball and stick shows 3D shape but bonds are not sticks. A 2D displayed formula shows which atoms are joined but not the shape. A wedge and dash drawing suggests shape but is still flat." loading="lazy">
+  <figcaption>Each model of a molecule shows something useful and hides or distorts something else.</figcaption>
+</figure>
+
 
 ## Reactions and electron arrangement (C2.2h)
 
@@ -163,6 +265,17 @@ Members of one group share an outer-electron count, which is why their reactions
 
 Atomic number links all of this together: it sets the electron arrangement, which sets the group, which predicts the reactions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
+
 ## Mendeleev to the modern table (C2.2i)
 
 Mendeleev (1869) ordered elements by atomic weight and grouped elements with similar properties. He left gaps for elements not yet found and predicted their properties. Where atomic weight order put an element in the wrong family, he swapped the pair to keep the properties lined up.
@@ -173,6 +286,17 @@ Later work showed that atomic number (proton number) is the true ordering princi
 
 - In mass order potassium would come first and sit with the noble gases, which does not suit a reactive metal.
 - Atomic numbers are argon 18 and potassium 19. Ordering by atomic number puts argon in group 0 and potassium in group 1, matching their chemistry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-bonding--03-argon-before-potassium.webp" width="900" height="1120" alt="Ordered by mass, potassium would sit in the Group 0 position and argon in Group I, both wrong. Ordered by atomic number 17, 18, 19, chlorine, argon and potassium each fit their group." loading="lazy">
+  <figcaption>Atomic number, not mass, puts argon before potassium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table--06-mendeleev-gaps.webp" width="900" height="1090" alt="Groups III to V: Mendeleev left two gaps with predicted masses of about 68 and 72; gallium (69.7) and germanium (72.6) were later found and filled them." loading="lazy">
+  <figcaption>Grouping by similar properties let Mendeleev predict undiscovered elements.</figcaption>
+</figure>
+
 
 ## Common errors
 

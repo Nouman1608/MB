@@ -94,6 +94,12 @@ A percentage over 100% means more than one whole.
 
 **Core: what to do with a fraction that never ends.** Some fractions give a decimal that goes on for ever, such as 2/3 = 0.666… At Core you do not need recurring notation. Write enough digits to show the pattern, or round to the accuracy the question asks for: 2/3 = 0.667 to 3 decimal places.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+
 ### Recurring decimals (Extended only)
 
 A **recurring decimal** has a digit or block of digits that repeats for ever. The syllabus notation puts a dot over the first and last digit of the repeating block:
@@ -147,6 +153,12 @@ x       = 0.216216...
 999x    = 216
 x       = 216/999 = 8/37     (divide top and bottom by 27)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
+</figure>
+
 
 ## 1.5 Ordering
 
@@ -212,6 +224,12 @@ Write out enough digits to see where the numbers differ.
 
 Order: **0.454 < 0.4̇5̇ = 5/11 < 0.45̇**. The = sign is correct here: 0.4̇5̇ and 5/11 are the same number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
+
 ## 1.6 The four operations
 
 ### Order of operations
@@ -244,6 +262,12 @@ finally:   -12 + (-3) = -15
 **Worked example 12.** Insert one pair of brackets to make 6 + 9 ÷ 3 - 1 = 4 true.
 
 Without brackets the value is 6 + 3 - 1 = 8. Try grouping the addition: (6 + 9) ÷ 3 - 1 = 15 ÷ 3 - 1 = 5 - 1 = 4. So **(6 + 9) ÷ 3 - 1 = 4**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
 
 ### Negative numbers
 
@@ -311,6 +335,12 @@ cancel 15 and 5 by 5:   3/1 × 3/2
 ```
 
 Check: ⅝ m = 0.625 m and 12 × 0.625 = 7.5 m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--05-ribbon-division.webp" width="900" height="830" alt="A ribbon 7 1/2 m long is drawn to scale on a ruler and cut into 12 numbered pieces of 5/8 m. The working 7 1/2 / 5/8 = 15/2 x 8/5 = 12 matches the count." loading="lazy">
+  <figcaption>Dividing by 5/8 counts how many 5/8 m pieces fit, and the answer is 12.</figcaption>
+</figure>
+
 
 ## Common errors
 

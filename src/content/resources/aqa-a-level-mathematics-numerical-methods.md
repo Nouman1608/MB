@@ -96,6 +96,17 @@ conclusion sentence of this kind.
 - **Interval too wide.** A wide interval can hide several roots, or roots that cancel in
   sign. Use narrow intervals and a sketch.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--01-sign-change-root.webp" width="900" height="910" alt="f(x)=x^3+2x^2-5 is below the axis at x=1 (f=-2) and above at x=2 (f=11), so the continuous curve crosses between them near 1.2419. A zoom on 1.235 to 1.245 shows f negative then positive, so the root is 1.24 to 2 d.p." loading="lazy">
+  <figcaption>A change of sign of a continuous function proves a root, and testing both ends of the rounding interval fixes the decimal places.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--02-sign-change-fails.webp" width="900" height="1000" alt="Three graphs: 1/(x-2) on 1 to 3 changes sign across an asymptote with no root; (2x-3)^2 on 1 to 2 touches the axis with equal signs at the ends; (x-1)(x-2)(x+3) on 0.5 to 2.5 has two roots but positive ends." loading="lazy">
+  <figcaption>A sign change proves a root only if the function is continuous, and no sign change proves nothing.</figcaption>
+</figure>
+
+
 ## I2: Iteration x_(n+1) = g(x_n)
 
 Rearrange f(x) = 0 into the form x = g(x). A root α satisfies α = g(α). Start with a value
@@ -129,6 +140,12 @@ to the curve y = g(x), then horizontally to y = x, then vertically to the curve 
 
 Example of a cobweb: x = e^(−x) with x₀ = 0.5 gives 0.6065, 0.5452, 0.5797, 0.5601, 0.5712,
 ... above and below the root 0.5671 in turn. Here g′(x) = −e^(−x) ≈ −0.57 near the root.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1270" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
+  <figcaption>Where the curve y = g(x) meets y = x is the root; the path converges when the curve is flatter than the line there.</figcaption>
+</figure>
+
 
 ### How iteration can fail
 
@@ -183,6 +200,17 @@ f(2.20785) and f(2.20795) would confirm it.
 - **Poor starting value or discontinuity.** The iterates may jump to another root, cycle, or
   diverge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--04-newton-raphson-tangent.webp" width="900" height="880" alt="On y = x^3+2x-9 the tangent at x1 = 1.5 meets the axis at x2 = 1.8, the tangent there meets it at x3 = 1.7631, and x4 = 1.7625." loading="lazy">
+  <figcaption>Each step replaces the curve by its tangent and moves to where the tangent meets the x-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--05-newton-raphson-fails.webp" width="900" height="920" alt="On y = x^3-12x+7 a start at x=2 has a flat tangent, x=2.1 throws the next value to 9.37, and x=3 converges to 3.1240." loading="lazy">
+  <figcaption>Starting at or near a stationary point sends Newton-Raphson away from the root you want.</figcaption>
+</figure>
+
+
 ## I3: The trapezium rule
 
 Split [a, b] into n strips of equal width h = (b − a)/n. Join the tops of the ordinates
@@ -226,6 +254,27 @@ Upper sum = 0.25 × (1.0645 + 1.2840 + 1.7551 + 2.7183) = 1.7055
 So 1.2759 < I < 1.7055. Because the trapezium value is an overestimate, the tighter statement
 is **1.2759 < I < 1.4907**. (A calculator's numerical integration gives 1.4627, which agrees.)
 More strips narrow the gap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--06-trapezium-rule.webp" width="900" height="1180" alt="ln x on 1 to 3 with 4 strips gives 1.2821 against the exact 1.2958. A magnified first strip shows the chord below the curve, so the rule under-estimates a concave curve." loading="lazy">
+  <figcaption>For a concave curve the chords lie below it so the trapezium rule under-estimates; for a convex curve it over-estimates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--07-rectangle-bounds.webp" width="900" height="1070" alt="Left-hand rectangles under the increasing curve ln x sum to 1.0075 and right-hand rectangles over it sum to 1.5568, so 1.0075 &lt; I &lt; 1.5568; the trapezium value 1.2821 is their mean." loading="lazy">
+  <figcaption>For an increasing function left-hand rectangles give a lower bound and right-hand rectangles an upper bound.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--08-mid-ordinate-rule.webp" width="900" height="890" alt="y = 1/x on 1 to 3 with 2 strips: midpoint heights 0.667 and 0.4 give 1.0667, below ln 3 = 1.0986, because tangents at the midpoints lie below the convex curve." loading="lazy">
+  <figcaption>Each mid-ordinate rectangle equals the trapezium under the tangent at the midpoint, so a convex curve is under-estimated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--09-simpsons-rule.webp" width="900" height="980" alt="A parabola through the ordinates 1, 1/2, 1/3 of 1/x gives Simpson 1.1111 for 2 strips, compared with mid-ordinate 1.0667 and exact 1.0986." loading="lazy">
+  <figcaption>Simpson's rule integrates the parabola through three ordinates, weights 1, 4, 1, and needs an even number of strips.</figcaption>
+</figure>
+
 
 ## I4: Numerical methods in context
 

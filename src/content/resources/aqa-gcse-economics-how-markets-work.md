@@ -55,6 +55,12 @@ market structures for producers and consumers
 - 3.1.6 Market failure — the circumstances in which markets fail to
 allocate resources efficiently
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 This guide's detailed notes focus on 3.1.3, 3.1.5 and 3.1.6; the
@@ -114,6 +120,12 @@ Above equilibrium there is **excess supply** (a surplus), and sellers cut prices
 
 It performs three functions: prices **signal** where resources are wanted, they **incentivise** producers to supply more, and they **ration** scarce goods among competing buyers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--01-harvest-shock.webp" width="900" height="960" alt="Bad weather cuts the coffee harvest, so supply shifts left from S1 to S2. Equilibrium moves from price 8, quantity 60 to price 9, quantity 55. Because demand is inelastic (PED about 0.67), revenue rises from 480 to 495." loading="lazy">
+  <figcaption>A supply shock raises price a lot and cuts quantity a little, so growers' total revenue can rise.</figcaption>
+</figure>
+
+
 ## Elasticity
 
 ```
@@ -123,6 +135,22 @@ PED = % change in quantity demanded / % change in price
 If the answer is numerically greater than 1, demand is **elastic** — quantity is responsive, and a price rise reduces total revenue. If less than 1, demand is **inelastic** — a price rise increases total revenue.
 
 Demand tends to be inelastic where there are few substitutes, the good is a necessity or addictive, it takes a small share of income, or there is little time to adjust. This is precisely why governments tax tobacco and fuel: revenue holds up even as price rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--02-tax-incidence.webp" width="900" height="920" alt="A tax of 2 per unit shifts supply up by 2 in both diagrams. With steep (inelastic) demand buyers pay about 71% of the tax; with flat (elastic) demand they pay about 33% and sellers absorb the rest. The price rise is less than the full tax." loading="lazy">
+  <figcaption>The more inelastic demand is, the more of an indirect tax passes to the consumer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--04-cross-elasticity.webp" width="900" height="930" alt="When tea rises from 2 to 3 pounds, coffee demand rises 25%, so XED is +0.5 (substitutes). When printers rise 50%, ink demand falls 50%, so XED is -1 (complements). The sign tells you the relationship." loading="lazy">
+  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
+</figure>
+
 
 ## Competition and market failure
 

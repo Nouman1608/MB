@@ -36,6 +36,12 @@ These are condensed revision notes for AQA A-level Biology (7402) sections 3.8.2
 | Tumour suppressor gene | A gene that slows division, repairs DNA or triggers cell death |
 | Metastasis | Spread of malignant cells to form secondary tumours elsewhere |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
+  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
+</figure>
+
+
 ## Controlling transcription with oestrogen
 
 Method in steps:
@@ -48,6 +54,12 @@ Method in steps:
 6. RNA polymerase can bind, so the gene is transcribed and the protein is made.
 
 Must-know point: a cell without the receptor does not respond, even though the hormone reaches it. The receptor is the reason for target-cell specificity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--04-oestrogen-transcription-factor.webp" width="900" height="1060" alt="Oestrogen diffuses through the cell-surface membrane, binds a receptor in the cytoplasm to form a complex, the complex enters the nucleus through a nuclear pore, binds a base sequence next to the target gene, and RNA polymerase can then make mRNA." loading="lazy">
+  <figcaption>Five steps by which oestrogen acts as a transcription factor.</figcaption>
+</figure>
+
 
 ## Epigenetic control
 
@@ -72,6 +84,12 @@ Must-know point: a cell without the receptor does not respond, even though the h
 4. The mRNA is hydrolysed and cannot be translated.
 
 Remember: the gene is transcribed normally. The block is at translation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
+  <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -104,6 +122,12 @@ Remember: the gene is transcribed normally. The block is at translation.
 Oestrogen and breast cancer: in some breast cancers, cells respond to oestrogen by dividing. Higher oestrogen levels, or exposure for longer, mean more divisions and more chances for a mutation to arise in replication.
 
 Using the knowledge: genetic testing for faulty alleles (prevention), blocking receptors or silencing oncogene mRNA with siRNA (treatment), reversing methylation or restoring a working gene (cure).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--09-cancer-genes.webp" width="900" height="940" alt="Normal control has a proto-oncogene go signal and a working tumour suppressor brake, giving 8 cells in 90 hours with a 30 hour cycle. A stuck-on oncogene (mutation or too little methylation) with an 18 hour cycle gives 32 cells. Losing the tumour suppressor gene (mutation or too much methylation) leaves division unchecked." loading="lazy">
+  <figcaption>How oncogenes and loss of tumour suppressor genes lead to uncontrolled division.</figcaption>
+</figure>
+
 
 ## Evaluating data: a short routine
 
@@ -178,6 +202,12 @@ Phenotype is the result of genotype and environment together. Epigenetics is one
 - Describing an oncogene as a gene that is "switched off".
 - Writing "cancer" for any tumour, or "benign cancer".
 - Calling a correlation proof, or ignoring sample size in an evaluation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--01-mutation-types.webp" width="900" height="1108" alt="The same nine-base gene ATGCTTGGC is shown after each mutation with changed bases in gold and lost bases as dashed boxes. Substitution keeps nine bases, addition gives ten, deletion eight, duplication of GGC twelve, inversion of the last six bases (reads GCCAAG) keeps nine, and translocation moves CTT to the other end. OCR names only substitution, insertion and deletion." loading="lazy">
+  <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

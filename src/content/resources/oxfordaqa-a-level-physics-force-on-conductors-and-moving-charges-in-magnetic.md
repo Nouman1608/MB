@@ -67,6 +67,12 @@ F = BIL = 0.085 × 6.4 × 0.095 = 0.0517 N, which is **0.052 N** to 2 significan
 
 Point your second finger to the right (current). Point your first finger into the page (field). Your thumb now points up the page. The force is **up the page**. Reverse either the current or the field and the force reverses. Reverse both and it stays the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--02-force-on-a-wire.webp" width="900" height="1050" alt="A wire carrying current into the page between a north pole on the left and a south pole on the right feels a downward force (Fleming left-hand rule: thumb force, first finger field, second finger current). A top view defines theta, and a graph of F = BIL sin theta (B = 0.35 T, I = 4.5 A, L = 0.080 m) gives 0 at 0 degrees, 0.081 N at 40 degrees and 0.126 N at 90 degrees." loading="lazy">
+  <figcaption>The force on a wire in a field depends on sin theta and is greatest at 90 degrees.</figcaption>
+</figure>
+
+
 ### Magnetic flux density and the tesla
 
 Rearranging F = BIL gives B = F / (IL).
@@ -86,6 +92,12 @@ B = F / (IL) = 3.6 × 10⁻³ / (2.5 × 0.045) = 3.6 × 10⁻³ / 0.1125 = **0.0
 A pair of magnets on a top-pan balance produces a field across a gap. A stiff wire of known length L in the gap, perpendicular to the field, is connected to a power supply. When the current flows, the wire feels a force F. The magnets are pushed with an equal force the other way (Newton's third law), so the reading shifts by Δm, with F = Δm g.
 
 Combining F = BIL with F = Δm g gives Δm = (BL / g) I. Plotting Δm against I gives a straight line through the origin whose gradient is BL / g, so B = gradient × g / L. Using several currents and a gradient averages out random error. Measure L with a ruler and check that the wire is at 90° to the field.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--04-crossed-fields-balance.webp" width="900" height="1195" alt="Top: charged particles pass between plates with E down and B into the page; qE and qBv balance when v = E/B so that particle goes straight, slower ones bend down and faster ones bend up (trajectories integrated numerically). Bottom (Cambridge only): current I through a slice of width d in a field B; carriers pile up on one edge until qE_H = Bqv, giving V_H = BI/(ntq)." loading="lazy">
+  <figcaption>Equal electric and magnetic forces give v = E/B for the selector and V_H = BI/(ntq) for the Hall slice.</figcaption>
+</figure>
+
 
 ## 3.10.2 Force on a moving charge
 
@@ -143,6 +155,22 @@ T = 2πm / (BQ) = 2π × 6.64 × 10⁻²⁷ / (0.15 × 3.20 × 10⁻¹⁹) = **8
 
 r = mv / (BQ) = 9.11 × 10⁻³¹ × 4.5 × 10⁶ / (0.012 × 1.60 × 10⁻¹⁹) = **2.1 × 10⁻³ m**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--01-fields-due-to-currents.webp" width="900" height="1210" alt="Three panels show field lines of a long straight wire (circles, with B falling as 1/r), a flat circular coil and a long solenoid. The wire panel has a 1/r graph; the coil and solenoid lines are computed with the Biot-Savart law. The solenoid has a uniform field inside and a bar-magnet pattern outside." loading="lazy">
+  <figcaption>Field lines of a straight wire, a flat coil and a solenoid, with B falling as 1/r away from the wire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
+  <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--09-rectification-smoothing.webp" width="900" height="1140" alt="Three graphs share the same 50 Hz input (dashed). One diode gives half-wave rectification with a gap; a bridge of four diodes gives full-wave rectification with no gap and pulses at twice the frequency; a smoothing capacitor fills the gaps, with small RC giving large ripple and large RC giving small ripple." loading="lazy">
+  <figcaption>Half-wave leaves gaps, full-wave does not, and a capacitor with a larger time constant RC gives a smoother output.</figcaption>
+</figure>
+
+
 ### The cyclotron
 
 A cyclotron accelerates charged particles to high kinetic energy using a modest voltage many times over.
@@ -166,6 +194,12 @@ Maximum speed: v = BQR / m. Maximum kinetic energy: ½mv² = (BQR)² / (2m).
 (d) 1.916 MeV / 30 keV ≈ **64 crossings**, which is about 32 full revolutions.
 
 At speeds close to the speed of light the particle's mass increases, the revolution time is no longer constant and the simple fixed frequency fails. The calculations above assume speeds well below that.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--08-ac-rms-and-power.webp" width="900" height="945" alt="A mains voltage with peak 325 V and period 20 ms is plotted for two cycles with dashed lines at 230 V r.m.s. and a 650 V peak-to-peak arrow. Below, the power in a resistor, proportional to sin squared and never negative, has a mean of exactly half the peak power." loading="lazy">
+  <figcaption>The r.m.s. value is the peak divided by root 2, and the mean power is half the peak power.</figcaption>
+</figure>
+
 
 ## Common errors
 

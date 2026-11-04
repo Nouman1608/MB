@@ -37,6 +37,12 @@ Links to the revision notes, practice questions, course hub, checklist and
 | 3.3.1.2 Reaction mechanisms | Radical dot notation; balanced equations for free-radical steps; curly arrows for electron-pair movement | AS |
 | 3.3.1.3 Isomerism | Define structural isomer and stereoisomer; chain, position and functional group isomers; E–Z isomers; Cahn–Ingold–Prelog (CIP) priority rules | AS |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
+  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
+</figure>
+
+
 ## 3.3.1.1 Representing organic compounds
 <!-- marlbridge-diagram:chem-b25-skeletal-six-carbon-ring -->
 <figure class="lesson-diagram" style="margin: 2rem 0;">
@@ -106,6 +112,12 @@ A **homologous series** is a series of compounds containing the same functional 
 - show a gradual trend in physical properties, such as boiling point rising as the chain gets longer.
 
 The **functional group** is the atom or group of atoms that gives the series its typical reactions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
 
 ## 3.3.1.1 IUPAC naming
 
@@ -181,6 +193,12 @@ A mechanism shows how a reaction happens step by step. The specification sets tw
 - You do not need curly arrows for radical mechanisms.
 - You must write a balanced equation for each step.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ### Worked example 4: steps for a free-radical reaction
 
 Ethane reacts with chlorine in ultraviolet light to give chloroethane and hydrogen chloride. Write equations
@@ -220,6 +238,17 @@ A hydroxide ion reacts with bromoethane, CH₃CH₂Br. The C–Br bond is polar,
 
 An arrow can also start from a bond to make a new bond, such as from a C=C to another atom. Full mechanisms
 come in 3.3.3 to 3.3.5; bond polarity is in the [bonding study guide](/resources/aqa-a-level-chemistry-bonding/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
 
 ## 3.3.1.3 Isomerism
 

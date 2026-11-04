@@ -58,9 +58,31 @@ Smaller objects also orbit the Sun.
 
 In a "describe the differences" answer, give a size point and a motion point for each body, and name what it orbits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--06-moon-dwarf-planet-comet.webp" width="900" height="960" alt="Three panels compare a moon, a dwarf planet and a comet. The Moon is about a quarter of its planet’s diameter and orbits the planet. A dwarf planet is smaller than a planet and orbits the Sun. A comet is ice and dust on a long stretched path, close to the Sun only briefly. Schematic, not to scale." loading="lazy">
+  <figcaption>Size and motion of a moon, a dwarf planet and a comet (schematic).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
+  <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
+
 ## Galaxies and the Milky Way (3.8.2 b)
 
 The universe contains thousands of millions of galaxies. Each galaxy contains thousands of millions of stars. Our Sun is just one of the many thousands of millions of stars in our own galaxy, the Milky Way. Distances between galaxies are given in light-years. One light-year is the distance light travels in one year: 3.00 × 10⁸ × 365.25 × 86 400 = 9.47 × 10¹⁵ m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--07-galaxies-milky-way.webp" width="900" height="940" alt="The Universe is shown as many galaxies, with the Milky Way highlighted. A zoom shows the Milky Way as a spiral of stars with our Sun as one star on an arm. Not to scale." loading="lazy">
+  <figcaption>The Universe is made of galaxies of stars; our Sun is one star in the Milky Way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--08-light-year.webp" width="900" height="880" alt="Light travels 3.00 × 10^8 m each second. A year is 365.25 × 86 400 = 3.16 × 10^7 s. Multiplying gives one light-year as 9.47 × 10^15 m." loading="lazy">
+  <figcaption>One light-year = 3.00 × 10^8 m/s × 3.16 × 10^7 s = 9.47 × 10^15 m.</figcaption>
+</figure>
+
 
 ## Natural and artificial satellites (3.8.2 c)
 
@@ -87,6 +109,12 @@ The Moon orbits at a radius of 3.84 × 10⁸ m and takes 27.3 days. Convert the 
 
 The satellite is moving about seven and a half times faster than the Moon. Section 3.8.2 f explains why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--09-satellite-orbits.webp" width="900" height="1310" alt="Top view of a geostationary orbit about 36 000 km up: satellite and Earth both turn 90 degrees in 6 hours so a dish stays pointed. Low polar orbit takes about 1.5 hours; in that time Earth turns about 23 degrees so each orbit covers a new strip." loading="lazy">
+  <figcaption>Geostationary satellites stay over one point; polar satellites scan new ground each orbit.</figcaption>
+</figure>
+
+
 ## Gravity as the centripetal force (3.8.2 d, e)
 
 A body moving in a circle needs a resultant force towards the centre. That inward force is the centripetal force. It is not a new kind of force. For planets and satellites it is the force of gravity. The Sun's gravity keeps planets in orbit, a planet's gravity keeps its moons and satellites in orbit, and the Earth's gravity does this for the Moon.
@@ -99,6 +127,12 @@ The key explanation, in steps:
 4. The speed stays constant while the velocity changes all the time, so the body follows a curve instead of a straight line.
 
 With no gravity, the body would carry on in a straight line at constant speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
+  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
+</figure>
+
 
 ## Orbital speed and orbital radius (3.8.2 f, g)
 
@@ -123,6 +157,12 @@ This matches the rule: further from the centre, weaker gravity, lower orbital sp
 
 To put a satellite in a chosen orbit, its speed has to be the speed for that radius. At the wrong speed it cannot stay on that circle, and its radius changes. A geostationary satellite must be at the height where its period is 24 hours, and that fixes its speed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--08-orbital-speed-radius.webp" width="900" height="1010" alt="Two circular orbits to the same scale. A at 6.78e6 m moves at 7660 m/s and B at 1.25e7 m at 5650 m/s, with arrow length proportional to speed. Larger radius means lower speed and longer orbit time. The Moon moves at about 1020 m/s." loading="lazy">
+  <figcaption>A larger orbital radius goes with a lower orbital speed.</figcaption>
+</figure>
+
+
 ## The Doppler effect (3.8.3 a)
 
 If a wave source moves relative to an observer, the observed wavelength and frequency change. This is the Doppler effect. It happens with sound, light and microwaves.
@@ -141,6 +181,12 @@ A siren emits 700 Hz. Sound travels at 340 m/s in air. A stationary listener hea
 1. Emitted: 340 / 700 = 0.486 m.
 2. Approaching: 340 / 760 = 0.447 m (shorter).
 3. Receding: 340 / 650 = 0.523 m (longer).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--10-doppler-siren.webp" width="900" height="1170" alt="Three sound waves with the same length scale. At rest 700 Hz gives 0.486 m, approaching 760 Hz gives 0.447 m (shorter), receding 650 Hz gives 0.523 m (longer)." loading="lazy">
+  <figcaption>A source moving towards you shortens the wavelength; moving away lengthens it.</figcaption>
+</figure>
+
 
 
 ## Red shift and the Big Bang (3.8.3 b)
@@ -172,6 +218,22 @@ If space is expanding now, then in the past everything was closer together. The 
 
 A strong answer states that distant galaxies show red shift, links bigger shift to greater distance and speed, and concludes that space is expanding from a small starting point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--11-red-shift-galaxies.webp" width="900" height="1180" alt="The 434.0 nm line in the lab and in galaxies P, Q, R, S at 40, 90, 150 and 260 million light-years appears at 435.3, 436.9, 438.8 and 442.2 nm. Shifts 1.3, 2.9, 4.8 and 8.2 nm grow with distance and speed (900 to 5700 km/s)." loading="lazy">
+  <figcaption>Further galaxies show a bigger red shift and move away faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--12-expanding-space.webp" width="900" height="1150" alt="Five dots on a stretching surface, space doubling. From dot A the other dots end up twice as far, so more distant dots move further. From dot C dots on both sides move away. No dot is the centre." loading="lazy">
+  <figcaption>Space stretching makes every dot move away from every other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
+
 ## CMBR and the age of the universe (3.8.3 c, d)
 
 Cosmic microwave background radiation (CMBR) is electromagnetic radiation, in the microwave region, that fills the whole universe. It is left over from radiation that existed soon after the universe began. The specification states that no other current theory explains CMBR, only the Big Bang theory.
@@ -184,6 +246,12 @@ So there are two separate pieces of evidence:
 | CMBR | Radiation left over from soon after the beginning |
 
 Scientists believe the universe started in a big bang about 14 thousand million years back, which is 1.4 × 10¹⁰ years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--09-cmbr-age-universe.webp" width="900" height="960" alt="A timeline runs from the Big Bang to now, about 1.4 × 10^10 years. Circles show the universe growing, the largest filled with microwaves (CMBR). Red shift shows expansion; CMBR is left over from soon after the start. Schematic." loading="lazy">
+  <figcaption>The universe is about 1.4 × 10^10 years old; red shift and CMBR are the two pieces of evidence.</figcaption>
+</figure>
+
 
 ## Common errors
 

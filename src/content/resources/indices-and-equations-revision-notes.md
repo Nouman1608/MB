@@ -46,6 +46,17 @@ so  x + 1 = 2x  ->  x = 1
 ```
 Matching bases, then equating indices, is the standard technique — logarithms are not needed at this level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--01-index-ladder.webp" width="900" height="1140" alt="A ladder of powers of 2 where each step down divides by 2: 8, 4, 2, 1, 1/2, 1/4, so 2^0 = 1 and 2^-2 = 1/2^2. Below, three 3s multiplied make 27, so 27^(1/3) = 3." loading="lazy">
+  <figcaption>Dividing by 2 each step explains zero and negative indices, and equal factors explain a fractional index.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--02-matching-bases.webp" width="900" height="990" alt="Two columns show 32^x = 2 and 5^(x+1) = 25^x solved by rewriting 32 as 2^5 and 25 as 5^2, then equating indices. Results are x = 1/5 and x = 1." loading="lazy">
+  <figcaption>Rewrite both sides with the same base, then equate the indices.</figcaption>
+</figure>
+
+
 ## Solving linear equations
 
 Do the same to both sides; unwind the operations in reverse order. With fractions, multiply **every** term by the common denominator first.
@@ -57,6 +68,22 @@ x^2 - 6x = 3x + 6
 x^2 - 9x - 6 = 0
 ```
 This reduces to a quadratic — solve with the formula below, and always check the answer doesn't make an original denominator zero.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--03-linear-intersection.webp" width="900" height="970" alt="Graphs of y = 5 - 2x and y = 3(x + 7) cross at x = -3.2, y = 11.4, the solution of the equation." loading="lazy">
+  <figcaption>The solution of an equation is the x where both sides have the same value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--04-fractional-equation.webp" width="900" height="900" alt="Graphs of x/(x + 2) and 3/(x - 6) with dashed lines at x = -2 and x = 6 meet at two points, the roots of x^2 - 9x - 6 = 0. Neither root is an excluded value." loading="lazy">
+  <figcaption>Excluded values are where a denominator is zero; genuine solutions are where the curves meet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--05-quadratic-surd-roots.webp" width="900" height="970" alt="The parabola y = x^2 - 4x - 3 has line of symmetry x = 2 and crosses the x axis a distance sqrt(7) either side, giving x = 2 +/- sqrt(7)." loading="lazy">
+  <figcaption>The surd roots sit sqrt(7) either side of the line of symmetry x = 2.</figcaption>
+</figure>
+
 
 ## Simultaneous equations
 
@@ -141,3 +168,9 @@ When the subject is under a root, isolate the root first, then square both sides
 **Answers:** 1. 2⁴ × x¹² = **16x¹²**. 2. 27^(2/3) = (∛27)² = 3² = **9**; 5⁻² = 1/25 = **0.04**. 3. Adding: 3x = 12 → x = 4, y = 3. 4. (x − 2)(x − 3) = 0 → x = **2 or 3**. 5. h = V / (πr²). 6. Rewrite 25 as 5²: x + 1 = 2x → x = **1**. 7. x = **(y + 2)² − 3**, valid provided y + 2 ≥ 0.
 
 For worked examples with full explanations, see the [Indices and Equations study guide](/resources/indices-and-equations/); for exam-style practice with full mark schemes, see the [Indices and Equations practice questions](/resources/indices-and-equations-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--06-subject-root.webp" width="900" height="850" alt="The graph of x = (y + 2)^2 - 3 is a sideways parabola; only the upper branch (y + 2 &gt;= 0) is the original function, and the lower dotted branch is added by squaring." loading="lazy">
+  <figcaption>Squaring adds a second branch, so the rearrangement is valid only when y + 2 &gt;= 0.</figcaption>
+</figure>
+

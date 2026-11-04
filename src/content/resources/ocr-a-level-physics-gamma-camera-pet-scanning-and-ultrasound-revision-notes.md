@@ -53,6 +53,12 @@ Method for describing image formation, in steps:
 
 Diagnosis: shows function, not just structure. Hot spots (high uptake) and cold spots (low uptake) show disease; images taken over time show how fast the organ takes up and clears the tracer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--07-aphy-medical-gamma-camera.webp" width="900" height="990" alt="Gamma photons from tracer in an organ pass through a lead collimator that only lets photons travelling straight along a hole through; photons at an angle are absorbed. Each photon makes a flash in the crystal, the photomultiplier tubes give pulses (largest from the nearest tube) and the computer uses them to add a count at that place in the image." loading="lazy">
+  <figcaption>A gamma camera forms an image of tracer distribution, one counted photon at a time.</figcaption>
+</figure>
+
+
 ## PET scanner, 6.5.2(d) and (e)
 
 - Positron meets an electron and they annihilate: mass becomes two gamma photons.
@@ -65,6 +71,17 @@ Diagnosis: shows function, not just structure. Hot spots (high uptake) and cold 
 
 Issues with an expensive scanner: purchase and running cost, a nearby supply of F-18 because of its short half-life, staff training, how many patients benefit, dose against benefit, and travel or waiting times without it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--06-aphy-medical-ct-scanner.webp" width="900" height="1110" alt="A CT scanner rotates an X-ray tube so that a thin fan beam crosses one slice of the body from many angles, recorded by a ring of detectors. A computer combines the readings into a grey-scale image whose pixel brightness shows how strongly each small volume absorbs. Moving the couch gives a series of slices that build a 3-D image." loading="lazy">
+  <figcaption>CT combines many angled X-ray views of each slice, then stacks slices into a 3-D image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--08-aphy-medical-pet.webp" width="900" height="1030" alt="A positron from a tracer such as fluorine-18 annihilates with an electron to give two 0.511 MeV gamma photons travelling in opposite directions. A ring of detectors records photons that arrive together; the source lies on the line joining the two detectors. Lines from many events cross at the tracer-rich tissue." loading="lazy">
+  <figcaption>PET detects pairs of back-to-back photons, so each coincidence marks a line through the source.</figcaption>
+</figure>
+
+
 ## Ultrasound, 6.5.3(a) to (c)
 
 - Longitudinal wave, frequency above 20 kHz. Scanners use a few MHz.
@@ -73,6 +90,17 @@ Issues with an expensive scanner: purchase and running cost, a nearby supply of 
 - A transducer is one crystal that emits pulses (alternating p.d. makes it vibrate) and receives echoes (vibration gives a p.d.).
 - A-scan: echo strength against time from one direction. Depth d = ct/2.
 - B-scan: many A-scans combined into a two-dimensional image; brightness shows echo strength.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--01-aphy-medical-ultrasound-echo.webp" width="900" height="970" alt="A probe sends a pulse down through fat, muscle and bone; echoes from the fat-muscle and muscle-bone boundaries return after 26 and 78 microseconds. Because the pulse goes there and back, the bone surface is at d = ct/2 = 6.0 cm. The muscle-bone echo is far stronger (41 percent) than the fat-muscle one (1.4 percent)." loading="lazy">
+  <figcaption>Pulse-echo ultrasound: echo time gives depth through d = ct/2, and echo strength depends on the impedance change at each boundary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--02-aphy-medical-ultrasound-gel.webp" width="900" height="840" alt="Without gel an air gap (Z about 408) lies against skin (Z 1.60 million) and 99.9 percent of the ultrasound is reflected. Gel with an impedance close to skin (1.52 million) reflects only 0.07 percent, so nearly all the beam enters the body. This is impedance matching, not lubrication." loading="lazy">
+  <figcaption>Gel matches the impedance of the skin so that almost none of the ultrasound is reflected at the surface.</figcaption>
+</figure>
+
 
 ## Acoustic impedance and reflection, 6.5.3(d) to (f)
 
@@ -100,6 +128,12 @@ Gel: air has a tiny Z, skin a large one, so a bare air gap would reflect nearly 
 - Rearranged: v = c Δf / (2 f cos θ).
 - Check the units: f and Δf in Hz (not MHz and kHz mixed).
 - Blood speed comes out in m s⁻¹ because c is in m s⁻¹.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--03-aphy-medical-doppler.webp" width="900" height="1100" alt="A probe sends ultrasound at 60 degrees to blood flowing along a vessel and the echo is shifted in frequency by delta f = 2 f v cos(theta)/c. For 5.0 MHz, 0.45 m/s and c = 1570 m/s the shift is 1.4 kHz at 60 degrees; it is largest along the flow and zero at 90 degrees." loading="lazy">
+  <figcaption>The Doppler shift depends on cos of the angle between beam and flow, so the beam must not be directed across the vessel.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

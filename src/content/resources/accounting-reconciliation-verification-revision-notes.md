@@ -39,6 +39,12 @@ them, investigate any difference:
 
 Hold this as **one connected idea**, not three unrelated techniques.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-reconciliation-verification-revision-notes--01-rv-shared-logic.webp" width="900" height="880" alt="Three panels pair two figures: total debits with total credits, cash book with bank statement, and control total with the ledger balances. Each pair is compared with an equals-question mark and any difference is investigated." loading="lazy">
+  <figcaption>All three procedures compare two independently produced figures and investigate any difference.</figcaption>
+</figure>
+
+
 ## 1.4.2 Trial balance — two error categories
 
 | Affects trial balance | Doesn't affect it (six named types) |
@@ -57,6 +63,12 @@ entries clear it.
 **Benefit/limitation pairing** (examinable): quick check double entry
 was applied correctly, **but** cannot detect the six named types
 since they don't unbalance it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--01-tb-hidden-revealed.webp" width="900" height="876" alt="Two balance scales. The level scale shows six errors that leave debits equal to credits and so stay hidden: commission, complete reversal, compensating, omission, original entry and principle. The tilted scale shows four errors that make debits and credits differ and so are revealed: addition, partial omission, transposition and unequal posting." loading="lazy">
+  <figcaption>A balanced trial balance hides six error types and exposes four.</figcaption>
+</figure>
+
 
 ## 1.4.3 Bank reconciliation statements
 
@@ -120,6 +132,12 @@ skipping it caps the achievable mark.
 errors rather than timing differences the reconciliation statement
 simply explains.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-reconciliation-verification-revision-notes--02-rv-principle-error.webp" width="900" height="790" alt="A 600 dollar stationery invoice is debited to Office Equipment, a non-current asset, so the trial balance still agrees. The correcting journal debits Stationery Expense and credits Office Equipment for 600. No suspense account is needed." loading="lazy">
+  <figcaption>An error of principle posts to the wrong class of account and leaves the trial balance balanced.</figcaption>
+</figure>
+
+
 ## Why this topic follows Non-Current Assets in the syllabus
 
 Topic 1.3 (Accounting for non-current assets) asks whether individual
@@ -181,3 +199,9 @@ individual transaction was correctly recorded. 5. Because the
 syllabus explicitly requires a benefits-and-limitations discussion
 alongside the numerical reconciliation, and Paper 2 questions award
 marks for that evaluative commentary separately from the calculation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-reconciliation-verification-revision-notes--03-rv-bank-rec-routes.webp" width="900" height="720" alt="The cash book balance of 1,850 less bank charges of 150 gives 1,700. The bank statement balance of 2,100 less an unpresented cheque of 400 also gives 1,700, so the two routes agree." loading="lazy">
+  <figcaption>Updating the cash book and adjusting the statement for timing differences reach the same figure.</figcaption>
+</figure>
+

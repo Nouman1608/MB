@@ -64,6 +64,17 @@ Ep = k q1 q2 / r
 
 The answer is –3.4 μJ, negative because the charges attract.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--02-assembling-three-charges.webp" width="900" height="1010" alt="Charges of +2.0, +2.0 and -4.0 microcoulombs sit at the corners of a 0.10 m equilateral triangle. The like pair gives +0.360 J and each unlike pair -0.719 J. A running-total bar chart sums every pair once to give -1.08 J." loading="lazy">
+  <figcaption>Total Ep is the sum over every pair, each counted once: here -1.08 J.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--03-potentials-add.webp" width="900" height="900" alt="V is plotted along the line through +4.0 nC and -1.0 nC, 0.50 m apart. It is zero at 0.40 m and 0.67 m from the positive charge, and about 345 V at 0.10 m on the far side of the positive charge. Zero potential does not mean zero field." loading="lazy">
+  <figcaption>Potentials from several charges add as signed numbers; V can be zero where the field is not.</figcaption>
+</figure>
+
+
 ### Assembling more than two charges
 
 For three or more charges, build the system one charge at a time from infinity. The first charge costs nothing, the second needs work against the first, and so on. The total is the sum of Ep for every pair, each pair counted once.
@@ -81,6 +92,12 @@ Total = 0.360 + 2 × (-0.719) = -1.08 J
 ```
 
 The order of assembly does not change the total, which is why you can add pairs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--01-ep-of-a-pair.webp" width="900" height="1050" alt="Two panels show like charges (you push them together, Ep positive) and unlike charges (you pull them apart, Ep negative). The graph plots Ep against separation for 3.0 nC with 5.0 nC, giving +3.4 microjoules for like and -3.4 microjoules for unlike charges at 4.0 cm. Both curves approach zero at large r." loading="lazy">
+  <figcaption>Like charges store positive Ep and unlike charges negative Ep, both tending to zero at infinity.</figcaption>
+</figure>
+
 
 ## Electric potential
 
@@ -146,6 +163,12 @@ Ve = 8.99e9 × 6.0e-9 / 0.25 = 216 V
 |E| = 8.99e9 × 6.0e-9 / 0.25^2 = 863 V/m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--04-potential-gradient.webp" width="900" height="1150" alt="For a +6.0 nC point charge the tangent to V against r at 0.25 m (216 V) has gradient -863 V per metre, so |E| = 863 V per metre. For parallel plates 12 mm apart at 240 V the potential falls linearly, so E = V/d = 2.0 x 10^4 V per metre." loading="lazy">
+  <figcaption>Field strength is minus the slope of the potential graph.</figcaption>
+</figure>
+
+
 ## Work done in moving a charge
 
 Work done by an external agent moving a charge q through a potential difference ΔVe is:
@@ -182,6 +205,12 @@ v = sqrt(Ep/m) = sqrt(1.15e-19 / 1.67e-27) = 8.3e3 m/s
 ```
 
 Each proton moves at about 8.3 × 10³ m s⁻¹. The speeds are equal because the forces are equal and opposite and the masses are the same.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--05-work-and-electronvolts.webp" width="900" height="1180" alt="An electron starts at rest at 0 V and is accelerated to a plate at +450 V. Its potential energy falls from 450 eV to 0 while its kinetic energy rises from 0 to 450 eV. KE = 7.2 x 10^-17 J = 450 eV and the final speed is 1.3 x 10^7 m per second." loading="lazy">
+  <figcaption>Energy lost as potential energy appears as kinetic energy: qdV = 450 eV for an electron through 450 V.</figcaption>
+</figure>
+
 
 ## Equipotential surfaces
 
@@ -222,6 +251,22 @@ For up to four charges:
 5. Use symmetry. For two equal and opposite charges, the plane halfway between them has Ve = 0. For four charges at the corners of a square with signs alternating +, –, +, –, Ve = 0 along both lines through the centre that are parallel to the sides, and the centre is a point where the field is zero.
 
 For four equal positive charges at the corners of a square, the field is zero at the centre and the equipotentials near it are closed loops. Between parallel plates, equipotentials bend outward near the edges, matching the edge effects in the field lines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--06-equipotentials-basics.webp" width="900" height="1170" alt="For a point charge, rings at equal 100 V steps are concentric circles, closer together near the charge, crossed at right angles by radial field lines. Between parallel plates, equipotentials at 0, 60, 120, 180 and 240 V are equally spaced planes with uniform field lines perpendicular to them." loading="lazy">
+  <figcaption>Equipotentials are crossed at 90 degrees by field lines and crowd together where the field is strong.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--07-conducting-sphere.webp" width="900" height="1160" alt="A conducting sphere of radius 0.080 m at 1500 V carries 13 nC. Inside, V is constant at 1500 V and E is zero. Outside, V falls as 1/r (600 V at 0.20 m) and E jumps to 1.9 x 10^4 V per metre at the surface then falls as 1/r squared." loading="lazy">
+  <figcaption>Inside a charged conductor V is constant and E is zero; outside it behaves like a point charge at the centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--08-several-charges.webp" width="900" height="1280" alt="Computed equipotentials for three arrangements. For two opposite charges the midplane is at V = 0. For four alternating charges at square corners V = 0 along both lines through the centre and E = 0 at the centre. For four equal positive charges E = 0 at the centre and the equipotentials near it are closed loops." loading="lazy">
+  <figcaption>Equipotentials of several charges follow the sign rules and symmetry, never crossing each other.</figcaption>
+</figure>
+
 
 ## Common errors
 

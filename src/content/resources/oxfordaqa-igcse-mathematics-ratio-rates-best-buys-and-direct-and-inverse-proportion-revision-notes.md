@@ -59,6 +59,17 @@ Ratio and fraction:
 - Fractions 4/15 and 11/15 mean the ratio 4 : 11.
 - If 5/9 are girls, boys to girls is 4 : 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion--09-ratio-beads.webp" width="900" height="1000" alt="Ten beads, three red and seven blue. The ratio red : blue is 3 : 7 (part to part). The whole is 10 parts so red is 3/10 and blue 7/10, not 3/7. Going back, 2/5 junior and 3/5 not gives 2 : 3." loading="lazy">
+  <figcaption>A ratio compares part with part; a fraction compares part with the whole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion--01-ratio-units-first.webp" width="900" height="870" alt="Two bars show 0.6 kg written as 600 g and 450 g. Both are cut into blocks of 150 g: the first has 4 blocks and the second has 3, so the ratio is 4 : 3. A note warns that 6 : 45 is wrong because it ignores the units." loading="lazy">
+  <figcaption>Convert to the same unit, then divide both parts by the highest common factor: 600 : 450 = 4 : 3.</figcaption>
+</figure>
+
+
 ## N17: dividing in a ratio
 
 ```
@@ -82,6 +93,17 @@ shares 3 : 8 differ by 40
 5 parts = 40, 1 part = 8, total = 11 × 8 = 88
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion--02-ratio-one-share-known.webp" width="900" height="940" alt="Two bar models. In the first, a ratio of 5 : 8 has Ben's 8 parts equal to 136, so one part is 17, Anya gets 85 and the total is 221. In the second, a ratio of 4 : 7 has a difference of 3 parts equal to 54, so one part is 18 and the total is 198." loading="lazy">
+  <figcaption>When the total is missing, use the known share or the difference to find the value of one part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
+
 ## N18: ratio problems
 
 Combine two ratios by making the shared term equal:
@@ -95,6 +117,17 @@ P : Q : R = 6 : 10 : 7
 Change in quantities: write the start as multiples such as 3k and 5k, apply the change, then use the new ratio or equality to form an equation. Solve for k and answer the question that was asked, which is often the original amounts and not k.
 
 Mixtures and recipes: scale every part by the same factor. A 3 : 5 mix of syrup to water makes 8 parts. For 2.4 litres, one part is 0.3 litres, so 0.9 litres of syrup and 1.5 litres of water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion--10-ratio-combine.webp" width="900" height="1030" alt="A : B = 3 : 4 and B : C = 6 : 5. Multiply the first by 3 (9 : 12) and the second by 2 (12 : 10) so B is 12 in both. Then A : B : C = 9 : 12 : 10, 31 parts; 279 singers gives 9 per part." loading="lazy">
+  <figcaption>Make the shared term equal, then join the ratios.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion--03-ratio-changing-quantities.webp" width="900" height="880" alt="Gold and silver stickers start as 7 blocks and 4 blocks. Adding 15 silver stickers fills 3 extra blocks, making silver equal to gold at 7 blocks. So 3 blocks equal 15, each block is 5, and the start was 35 gold and 20 silver." loading="lazy">
+  <figcaption>The 15 stickers added fill the gap of 3 parts, so one part is 5.</figcaption>
+</figure>
+
 
 ## N19: rates, pay and best buys
 
@@ -120,6 +153,17 @@ Worked reminder: 3 kg for 7.50 or 5 kg for 12.00. Per kg: 7.50 ÷ 3 = 2.50 and 1
 
 Foreign currency: if 1 euro = 1.08 dollars, then dollars to euros divide by 1.08, and euros to dollars multiply by 1.08. A sense check helps: the currency that is worth more gives the smaller number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion--11-ratio-best-buy.webp" width="900" height="940" alt="A 750 g bag costs 2.55 (7.5 blocks of 100 g) and a 1.2 kg bag costs 3.90 (12 blocks). Per 100 g: 0.34 and 0.325. The 1.2 kg bag is cheaper per 100 g, so the better buy." loading="lazy">
+  <figcaption>Compare cost per 100 g, not total price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--02-minutes-not-tenths.webp" width="900" height="860" alt="Two one-hour bars compare minutes with decimal hours: 36 minutes is 0.6 h, so 1 h 36 min is 1.6 h; 0.35 h is 21 minutes, so 2.35 h is 2 h 21 min." loading="lazy">
+  <figcaption>Minutes and decimal hours are different scales, so convert by dividing or multiplying by 60.</figcaption>
+</figure>
+
+
 ## N20: direct and inverse proportion
 
 | | Direct | Inverse |
@@ -139,6 +183,32 @@ Working in inverse proportion questions assumes every worker, pump or machine wo
 Writing these relationships with a letter k is algebraic variation, which is a separate part of the specification (A18).
 
 Repeated proportional change: multiply the multipliers. An increase of 10% then a decrease of 10% gives 1.10 × 0.90 = 0.99, which is a fall of 1%, not zero.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion--12-ratio-direct-inverse.webp" width="900" height="1270" alt="Points (2,7), (5,17.5), (8,28) lie on a straight line through the origin; y/x = 3.5 each time, so direct. Points (3,12), (6,6), (9,4) lie on a curve; x times y = 36 each time, so inverse." loading="lazy">
+  <figcaption>Divide for direct proportion, multiply for inverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion--13-ratio-repeated-change.webp" width="900" height="920" alt="250 falls 8% (x0.92 = 230) then rises 5% (x1.05 = 241.50). Combined multiplier 0.966, a 3.4% fall; not -8% + 5% = -3%." loading="lazy">
+  <figcaption>Multiply the multipliers; percentages of different amounts cannot be added.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion--05-ratio-direct-inverse-graphs.webp" width="900" height="1160" alt="Two graphs from the lesson tables. The first plots (2, 7), (5, 17.5) and (8, 28) on a straight line through the origin, where y divided by x is always 3.5: direct proportion. The second plots (3, 12), (6, 6) and (9, 4) on a curve that falls and never touches the axes, where x times y is always 36: inverse proportion." loading="lazy">
+  <figcaption>Direct proportion: y ÷ x is constant and the graph is a straight line through the origin. Inverse: x × y is constant and the graph is a falling curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--05-inverse-constant-product.webp" width="900" height="940" alt="Graph of y = 24 over x with points (4, 6) and (8, 3). The rectangles from the origin to each point both have area 24, because x times y is always k. When x doubles, y halves." loading="lazy">
+  <figcaption>In inverse proportion x times y stays constant, so doubling x halves y.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -218,6 +288,12 @@ A direct proportion from a rate: a tap fills 15 litres in 4 minutes. In 10 minut
 - Treating an inverse proportion as direct, so that more workers take longer.
 - Adding percentage changes instead of multiplying the multipliers.
 - Rounding the unit price too early, which can make two close options look equal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion--04-ratio-best-buy-extra-free.webp" width="900" height="890" alt="Two shampoo bottles. The offer bottle is 400 ml plus 100 ml extra, which is 500 ml for 3.50, giving 142.9 ml per unit of money. The plain bottle is 500 ml for 4.00, giving 125 ml per unit of money. The offer bottle is the better buy." loading="lazy">
+  <figcaption>25% extra free turns 400 ml into 500 ml, so compare 500 ml for 3.50 with 500 ml for 4.00.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

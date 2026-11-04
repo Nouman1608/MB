@@ -78,6 +78,12 @@ Example: the animals traditionally called reptiles (lizards, snakes, turtles, cr
 
 **Evidence.** The guide states that the most objective evidence comes from the **base sequences of genes** or the **amino acid sequences of proteins**. Sequences can be compared site by site and counted. **Morphological traits** can still be used to assign organisms to clades, but they are open to judgement and can mislead. Similar structures may arise by **convergent evolution**, where unrelated lineages evolve alike because of similar selection pressures. The camera-type eye of an octopus and a human is one case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--01-clade-test.webp" width="900" height="880" alt="Crocodile and bird form a clade with their shared ancestor; &quot;reptiles without birds&quot; (lizard + crocodile) leaves out a descendant, so it is not a clade." loading="lazy">
+  <figcaption>A clade includes a common ancestor and all of its descendants; a group that omits a descendant, such as reptiles without birds, is not a clade.</figcaption>
+</figure>
+
+
 ## A3.2.5 The molecular clock
 
 Mutations arise in DNA over time. After two lineages split, each accumulates its own changes. The number of sequence differences between two species therefore grows with the time since they shared an ancestor. This is the **molecular clock**.
@@ -94,6 +100,12 @@ Time = 27 / 0.4 = 67.5 million years ago
 **Answer: about 67.5 million years ago.**
 
 The result is only an **estimate**. The guide names several factors that alter mutation rates: generation time (more generations per year gives more chances for copying errors), population size, the intensity of selective pressure, and others. Another reason is that a site can mutate twice, so the true number of changes is higher than the number of visible differences. A clock calibrated in one lineage may run at a different speed in another.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--05-molecular-clock.webp" width="900" height="900" alt="A straight-line graph of sequence differences against time since divergence (0.4 per million years). The fossil-calibrated pair (36 differences, 90 million years) sets the rate, and a pair with 27 differences diverged 67.5 million years ago. The result is an estimate." loading="lazy">
+  <figcaption>A fossil-dated pair calibrates the molecular clock (36 / 90 = 0.4 differences per million years), giving 67.5 million years for a pair differing at 27 positions.</figcaption>
+</figure>
+
 
 ## A3.2.6 Building cladograms with parsimony
 
@@ -133,6 +145,17 @@ Count changes for the three ways of pairing the four species.
 
 For the first tree: one change each for sites 1 to 5 (5), one each for sites 6 and 7 (2), and two for site 8 because G must arise twice, once on the W branch and once on the Y branch (2). Total 9. **The most parsimonious cladogram pairs W with X and Y with Z.** Site 8 is then explained as a coincidence, which is how the method treats convergent changes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--06-parsimony-sites.webp" width="900" height="830" alt="An alignment of outgroup O and species W, X, Y, Z across eight sites with derived bases highlighted. Sites 1-2 group W with X, sites 3-5 group Y with Z, sites 6 and 7 are single changes, and site 8 (W and Y) conflicts." loading="lazy">
+  <figcaption>Comparing each sequence with the outgroup shows which derived bases are shared, and so which species to group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--07-parsimony-trees.webp" width="900" height="970" alt="Three candidate trees for O, W, X, Y, Z with bars showing changes needed: (WX)(YZ) needs 9, (WY)(XZ) needs 13 and (WZ)(XY) needs 14. The tree with the fewest changes is the most parsimonious." loading="lazy">
+  <figcaption>The most parsimonious cladogram pairs W with X and Y with Z, needing only 9 changes.</figcaption>
+</figure>
+
+
 ## A3.2.7 Analysing cladograms
 
 Here is a cladogram of six groups, drawn as an indented tree. Each pair of lines under a node is a fork.
@@ -164,6 +187,22 @@ What you can deduce:
 - **Misleading groups.** "Fish" would include lamprey, shark and trout but leave out the frog, lizard and mouse that descend from the same ancestor as trout. So "fish" is not a clade.
 - **Not deducible.** The length of a branch does not show similarity unless the diagram says its lengths are scaled, and the order of the tips from top to bottom means nothing. A node can be rotated without changing the relationships.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--02-reading-a-cladogram.webp" width="900" height="920" alt="A six-group cladogram with the root (square), four numbered nodes (hypothetical common ancestors) and thick terminal branches. Lizard and mouse share node 4, so they are closest relatives." loading="lazy">
+  <figcaption>Root, nodes and terminal branches on a cladogram; closeness is read from the most recent shared node.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--03-which-groups-are-clades.webp" width="900" height="830" alt="On the six-group cladogram, frog, lizard and mouse (node 3 and above) form a clade. &quot;Fish&quot; (lamprey, shark, trout) is not, because frog, lizard and mouse descend from the same ancestor as trout." loading="lazy">
+  <figcaption>Any node plus everything above it is a clade, but &quot;fish&quot; omits descendants and so is not one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--04-rotating-nodes.webp" width="900" height="1130" alt="The same cladogram drawn twice; nodes 2 and 3 are flipped in the second drawing so the tip order changes, but all clades and relationships are identical. Lizard and mouse stay closest relatives." loading="lazy">
+  <figcaption>Flipping a node changes the drawing, not the relationships, so tip order carries no meaning.</figcaption>
+</figure>
+
+
 ## A3.2.8 Testing classifications with cladistics
 
 Cladistics lets you check whether an existing group corresponds to evolutionary relationships. If sequence-based cladograms show that a group's members do not share a single common ancestor to the exclusion of others, the classification is wrong and species are moved.
@@ -185,6 +224,12 @@ The comparison showed that prokaryotes were not one group. Organisms were sorted
 | Eukarya | Organisms with a nucleus, including protists, fungi, plants and animals |
 
 Archaea turned out to be distinct from bacteria at the level of rRNA, and the sequences also placed archaea closer to eukaryotes than to bacteria. A group formerly counted among the bacteria could not stay there, so a new top level was needed. This is a clear example of a paradigm shift.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--08-three-domains.webp" width="900" height="790" alt="A tree based on rRNA sequences with Bacteria branching first and Archaea sharing a more recent ancestor with Eukarya. Bacteria and Archaea lack a nucleus; Eukarya have one and include protists, fungi, plants and animals." loading="lazy">
+  <figcaption>rRNA sequences (1977) placed life into three domains, with archaea closer to eukaryotes than to bacteria.</figcaption>
+</figure>
+
 
 ## Common errors
 

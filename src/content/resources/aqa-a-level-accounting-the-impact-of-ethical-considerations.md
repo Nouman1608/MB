@@ -34,6 +34,12 @@ The five principles were introduced in the [role of the accountant guide](/resou
 | Acting ethically with clients, suppliers, colleagues and stakeholders | Apply principles, codes and regulation to a situation |
 | Action when an unethical or illegal act is suspected | Safeguards, threats, conflicts of interest, outside help |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--09-spreadsheet-whatif.webp" width="900" height="1010" alt="Two grids show the production budget before and after one input changes from 38 to 41. Materials cost goes from 15,770, 18,050, 19,570 (total 53,390) to 17,015, 19,475, 21,115 (total 57,605), an increase of 4,215." loading="lazy">
+  <figcaption>Changing one input cell recalculates every formula that depends on it.</figcaption>
+</figure>
+
+
 ## 1. The five fundamental principles
 
 | Principle | What it means | A breach looks like |
@@ -64,6 +70,17 @@ CIMA's Code of Ethics, aligned with the international code set by the Internatio
 
 A **safeguard** is an action that reduces a threat to an acceptable level, for example a second-person review, rotating staff, or removing someone from a decision. Some threats are too significant for any safeguard. Then the work must be declined or the person must step away.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--02-threats-safeguards.webp" width="900" height="940" alt="Five threats are named with an example each: self-interest, self-review, advocacy, familiarity and intimidation. Three steps follow: identify, evaluate, address. A safeguard such as a second-person review reduces the threat; if it is too big, decline the work or step away." loading="lazy">
+  <figcaption>Identify and evaluate each threat, then apply a safeguard or step away.</figcaption>
+</figure>
+
+
 ## 2. How the principles shape behaviour
 
 **The accountant in business** works for one employer. The main risk is pressure from managers who are judged on the figures. The accountant must still record transactions faithfully, even when the result is unwelcome.
@@ -87,6 +104,17 @@ A **safeguard** is an action that reduces a threat to an acceptable level, for e
 
 **Corporate social responsibility (CSR)** means a business considers its effect on employees, customers, suppliers, the community and the environment, not only profit. Section 172 of the Companies Act 2006 requires directors to promote the success of the company for its members while having regard to factors including employees, suppliers and customers, the community and the environment, and high standards of business conduct.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--03-audit-opinions.webp" width="900" height="1030" alt="A question chain: enough evidence? If not, disclaimer. Material misstatement? If not, unmodified. Pervasive? If not, qualified (except for); if so, adverse. An OxfordAQA example shows 85,000 left out of 940,000 profit before tax, 9.0 percent, material but not pervasive, so qualified." loading="lazy">
+  <figcaption>Three questions decide which of the four audit opinions is given.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--06-governance-checks.webp" width="900" height="910" alt="Shareholders appoint the board and the external auditors; auditors report back to shareholders. The board has a chair and a CEO who are different people, plus independent non-executive directors. Audit and remuneration committees, made of independent NEDs, sit below; the remuneration committee sets directors’ pay. AQA only: comply or explain." loading="lazy">
+  <figcaption>Independent checks stop directors from marking their own homework.</figcaption>
+</figure>
+
+
 ## 3. Legal and regulatory frameworks
 
 | Body named in the specification | Role |
@@ -98,6 +126,12 @@ A **safeguard** is an action that reduces a threat to an acceptable level, for e
 Two updates since the specification was written. BIS was replaced by the Department for Business, Energy and Industrial Strategy on 14 July 2016, and on 7 February 2023 business functions passed to the Department for Business and Trade, which now lists Companies House, the Insolvency Service and the FRC among its bodies. The UK left the EU on 31 January 2020; at the end of the transition period (31 December 2020) EU-adopted standards were frozen into UK law, and UK companies now use UK-adopted international accounting standards.
 
 **Consequences of failing to work within the rules** include: an investigation and sanctions by the FRC or a professional body; criminal or civil action under company law; a modified audit opinion; a falling share price and higher borrowing costs; and loss of clients, job and reputation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--05-rule-layers.webp" width="900" height="866" alt="Three layers of rules and the consequence of breaking each. Law (AQA: government and Companies Act; OxfordAQA: company, tax and fraud law) brings fines and court action. Standards (AQA: FRC; OxfordAQA: IASB, IAASB) bring a modified audit opinion. Professional codes (AQA: CCAB bodies and CIMA; OxfordAQA: bodies using the IESBA code) bring warning, fine or exclusion." loading="lazy">
+  <figcaption>Law, standards and professional codes each have their own consequences when broken.</figcaption>
+</figure>
+
 
 ## 4. Professional bodies and codes of conduct
 
@@ -152,6 +186,12 @@ Profit to revenue: 15.0% draft, 13.9% corrected
 **Step 3 -- significance.** The bonus is only paid because of the misstatement. Shareholders and lenders would rely on overstated profit and assets.
 
 **Step 4 -- action.** Priya should explain the treatment to the finance director in writing and refuse to make the incorrect entry. If he insists, she should take the matter to the audit committee or the board, and keep a record. If it is not resolved, she should seek advice from her professional body before considering external disclosure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--04-wrongdoing-steps.webp" width="900" height="880" alt="Seven numbered steps: establish the facts, evaluate the threats, apply safeguards, resolve conflicts of interest, escalate internally, take professional or legal advice, and refuse or resign as a last resort. They are grouped as your own checks, inside the organisation, and outside if needed." loading="lazy">
+  <figcaption>Work from your own checks, to internal escalation, to outside help.</figcaption>
+</figure>
+
 
 ## Common errors
 

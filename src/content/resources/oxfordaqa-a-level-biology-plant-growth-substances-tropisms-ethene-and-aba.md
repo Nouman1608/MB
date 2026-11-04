@@ -72,6 +72,12 @@ When light shines from one side, IAA is distributed unequally, so the shaded fla
 
 When a shoot lies horizontally, more IAA collects on the lower side. Lower-side cells lengthen more than upper-side cells, so the shoot tip turns up. This is negative gravitropism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--02-gravitropism-shoot-root.webp" width="900" height="1100" alt="A horizontal shoot and root both have more IAA on the lower side. In the shoot this stimulates lower cells, so it curves up. In the root it inhibits lower cells, so upper cells grow more and it curves down." loading="lazy">
+  <figcaption>The same hormone bends a shoot up and a root down because roots are inhibited by high IAA.</figcaption>
+</figure>
+
+
 ### Gravity and roots
 
 When a root lies horizontally, more IAA again collects on the lower side. Here the higher concentration inhibits elongation. Cells on the upper side elongate more than those on the lower side, so the root curves downwards. This is positive gravitropism.
@@ -104,6 +110,17 @@ Percentage change from the control (no IAA) is (growth - 14.0) / 14.0 × 100:
 
 Description: the lowest concentration slightly stimulated root growth, but from 0.005 upwards growth was inhibited, and the inhibition increased with concentration. This supports the idea that the higher IAA concentration on the lower side of a horizontal root inhibits elongation there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--03-iaa-root-growth.webp" width="900" height="980" alt="Five roots hang from agar. Growth was 14.0 mm with no IAA and 15.4 mm at the lowest IAA (+10.0 percent), then 12.6, 8.4 and 4.2 mm (-10.0, -40.0 and -70.0 percent) as IAA rose." loading="lazy">
+  <figcaption>Low IAA slightly stimulates root growth, higher IAA inhibits it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--05-apical-dominance.webp" width="900" height="1000" alt="Five pea plants: apex intact gives a 3 mm lateral shoot; apex cut with plain lanolin 40 mm; with 0.01, 0.1 and 1.0 percent IAA 29, 12 and 4 mm, which is 27.5, 70 and 90 percent less than the control." loading="lazy">
+  <figcaption>More IAA on the cut stump means less lateral growth, replacing the apex.</figcaption>
+</figure>
+
+
 ### Worked example 3: reading a curvature experiment
 
 Six seedlings were lit from one side for 24 hours. Curvature towards the light, in degrees, was 34, 41, 38, 45, 36 and 40.
@@ -111,6 +128,12 @@ Six seedlings were lit from one side for 24 hours. Curvature towards the light, 
 total = 234 and mean = 234 / 6 = 39.0 degrees
 
 The range is 34° to 45°. Quote both: the mean shows the typical bend and the range shows the spread.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--01-phototropism-iaa.webp" width="900" height="1110" alt="Two steps show a shoot lit from the right. More IAA (0.62 units) collects on the shaded side than the lit side (0.38 units), so shaded cells elongate more and the shoot bends towards the light." loading="lazy">
+  <figcaption>Unequal IAA gives unequal elongation, so the shoot bends towards light.</figcaption>
+</figure>
+
 
 ## Required practical 10
 
@@ -123,6 +146,12 @@ The specification requires a practical on how a chosen factor alters which way a
 5. Use many seedlings, then calculate a mean and the range for each group.
 
 Controlled variables include species, age, temperature, water supply and light intensity (when light is not the variable). A limitation to expect is that the seedlings grow at slightly different rates, so repeats and a large sample matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--09-antimicrobial-zones.webp" width="900" height="1200" alt="A bacterial lawn with 6 mm discs: extract A gives a 14 mm clear zone, B 10 mm, solvent-only gives none and a known antibiotic gives a zone. Inhibited area is 126 mm2 for A and 50 mm2 for B: diameter 1.4 times larger, area 2.5 times larger." loading="lazy">
+  <figcaption>Compare inhibited areas, not diameters.</figcaption>
+</figure>
+
 
 ## 3.4.5.3 Ethene and fruit ripening
 
@@ -139,6 +168,12 @@ reduction = 8 - 3 = 5 days
 percentage reduction = 5 / 8 × 100 = 62.5 %
 
 Ethene reduced the time to ripen by 62.5 %. State the comparison and the evidence; do not just say "it was faster".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--07-ethene-ripening.webp" width="900" height="1140" alt="Bananas took 8 days to ripen in air and 3 days with ethene, 62.5 percent quicker. Ethene gas spreads from ripe fruit to green neighbours. Bananas are picked green, shipped cool and ripened with ethene on arrival." loading="lazy">
+  <figcaption>Ethene is a gas signal that speeds ripening and lets fruit be picked green.</figcaption>
+</figure>
+
 
 ## 3.4.5.3 Abscisic acid and stomatal closure
 
@@ -163,6 +198,12 @@ decrease = 8.4 - 2.1 = 6.3 um
 percentage decrease = 6.3 / 8.4 × 100 = 75.0 %
 
 mean rate of closure = 6.3 / 30 = 0.21 um per minute
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--04-aba-stomata.webp" width="900" height="1100" alt="A guard cell: ABA binds a receptor, K+ and Cl- ions leave, guard cell water potential rises so water leaves by osmosis, turgor falls and the pore closes. An open stoma lets CO2 in and water out; a closed one reduces both." loading="lazy">
+  <figcaption>ABA triggers ion loss, then water loss, so guard cells go flaccid and the stoma closes.</figcaption>
+</figure>
+
 
 ## Common errors
 

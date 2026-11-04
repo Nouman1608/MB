@@ -50,6 +50,17 @@ Examples to know:
 
 A steeper gradient, a higher temperature and a larger surface all speed diffusion up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--02-diffusion-factors.webp" width="900" height="1130" alt="Four paired pictures. Larger surface area: one block versus the same amount cut into four pieces. Higher temperature: short versus long movement arrows. Steeper concentration gradient: small versus big difference between two sides. Shorter distance: thick versus thin layer to cross." loading="lazy">
+  <figcaption>Diffusion is faster with more surface area, higher temperature, a steeper gradient and a shorter distance.</figcaption>
+</figure>
+
+
 ### Osmosis
 
 Osmosis is the net movement of water across a partially permeable membrane from higher water potential to lower water potential. Water potential is a measure of how freely water can move. Pure water has the highest water potential. Adding dissolved solute lowers it. A dilute solution therefore has a higher water potential than a concentrated one, and water moves from dilute to concentrated. You do not need to use water potential in calculations.
@@ -59,6 +70,17 @@ Osmosis is passive. It only moves water. Solute particles are too large to follo
 - An animal cell in a solution more dilute than its cytoplasm gains water, swells and may burst.
 - An animal cell in a more concentrated solution loses water and shrinks.
 - A plant cell in dilute solution gains water and becomes firm (turgid) because the cell wall resists bursting. In a strongly concentrated solution it loses water and the membrane pulls away from the wall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms are Extended." loading="lazy">
+  <figcaption>A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.</figcaption>
+</figure>
+
 
 ### Active transport
 
@@ -72,6 +94,22 @@ Examples: root hair cells take up mineral ions from soil water when the soil con
 | Direction | High to low concentration | High to low water potential | Low to high concentration |
 | Energy from respiration | No | No | Yes |
 | Needs a membrane | No | Yes, partially permeable | Yes, with carrier proteins |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--01-nitrate-uptake-oxygen.webp" width="900" height="1210" alt="Two beakers hold a root, one bubbled with air and one with nitrogen. Bars show nitrate uptake of 5.0 and 1.0 units per hour, an 80 percent fall. Uptake needing oxygen means it needs respiration energy, pointing to active transport." loading="lazy">
+  <figcaption>Nitrate uptake falls 80% without oxygen, so it needs respiration: active transport.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
+  <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
+</figure>
+
 
 ### Worked example 1: swede cylinders in sucrose
 
@@ -94,6 +132,22 @@ Percentage change = (final mass − initial mass) ÷ initial mass × 100.
 The change passes through zero between 0.2 and 0.4. Over that interval the change falls by 7.0 percentage points, and 5.0 of those are needed to reach zero. So the zero is about 0.2 + 0.2 × (5.0 ÷ 7.0) = **0.34 mol/dm³**. At that concentration the solution and the cell contents have about the same water potential, so there is no net movement of water.
 
 Explaining the 0.6 result: the solution had a lower water potential than the cell contents, so water moved out of the cells by osmosis, down the water potential gradient, and the mass fell.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--06-swede-cylinders-graph.webp" width="900" height="800" alt="Graph of percentage change in mass against sucrose concentration: +12.0, +5.0, -2.0, -10.0 percent at 0.0, 0.2, 0.4, 0.6 mol/dm3. The line crosses zero at about 0.34 mol/dm3 where there is no net water movement." loading="lazy">
+  <figcaption>Percentage mass change falls with sucrose concentration and crosses zero near 0.34 mol/dm3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--04-rp3-zero-crossing.webp" width="900" height="880" alt="Graph of percentage change in mass against concentration. A straight line through (0.2, +4.0) and (0.4, −6.0) crosses zero at 0.28 mol/dm³, where the solution matches the cell contents. Above zero the tissue gains mass; below zero it loses mass." loading="lazy">
+  <figcaption>The zero crossing of the line estimates the concentration of the cell contents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--03-percentage-change-mass.webp" width="900" height="800" alt="Bar chart of two potato cylinders. Cylinder 1 goes from 2.50 g to 2.80 g (+12.0 %); cylinder 2 from 2.40 g to 2.04 g (−15.0 %). The formula is (final − initial) ÷ initial × 100." loading="lazy">
+  <figcaption>A gain gives a positive percentage, a loss a negative one.</figcaption>
+</figure>
+
 
 ### Worked example 2: is it active transport?
 
@@ -125,15 +179,33 @@ Finally the cytoplasm and cell membrane divide, giving two daughter cells.
 
 Each daughter cell has the same number of chromosomes as the parent and is genetically identical to it. A human body cell has 46 chromosomes, so each daughter cell has 46.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--07-mitosis-stages-drawn.webp" width="900" height="1030" alt="Four panels: chromosomes shorten and thicken; line up across the centre with spindle fibres; chromatids pulled to opposite ends; two nuclei form and the cell splits. A 4-chromosome cell gives two cells with 4 chromosomes each." loading="lazy">
+  <figcaption>Mitosis in four stages, ending with two identical daughter cells.</figcaption>
+</figure>
+
+
 ### Worked example 3: counting chromosomes and DNA
 
 A cell has 12 chromosomes and DNA content 8 units.
 - After replication it still has 12 chromosomes, but each is two chromatids, so 24 chromatids. DNA content is **16 units**.
 - After mitosis and division each daughter cell has **12 chromosomes** and **8 units** of DNA.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--02-chromosomes-chromatids.webp" width="900" height="1220" alt="A cell with 12 chromosomes and 8 units of DNA copies its DNA to give 12 chromosomes of two chromatids each (24 chromatids, 16 units), then mitosis gives two cells each with 12 chromosomes and 8 units." loading="lazy">
+  <figcaption>Replication doubles the chromatids and DNA; mitosis restores 12 chromosomes and 8 units in each daughter cell.</figcaption>
+</figure>
+
+
 ### Worked example 4: how many cells?
 
 One cell divides every 8 hours. In 48 hours there are 48 ÷ 8 = 6 divisions. Cell number doubles each time, so 2⁶ = **64 cells**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--03-cell-doubling.webp" width="900" height="1080" alt="Bar chart of cells at 0 to 48 hours in 8-hour steps: 1, 2, 4, 8, 16, 32, 64. Six divisions give 2 to the power 6, which is 64." loading="lazy">
+  <figcaption>Each division doubles the cells: 6 divisions in 48 hours gives 64.</figcaption>
+</figure>
+
 
 ### Worked example 5: root tip slide
 
@@ -142,6 +214,17 @@ In a stained root tip, a student counts 250 cells in the field of view. 35 are i
 Percentage in mitosis = 35 ÷ 250 × 100 = **14.0%**.
 
 This is high because cells near the tip are dividing for growth. A section further from the tip would show a lower percentage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--04-root-tip-mitosis-count.webp" width="900" height="1036" alt="A root tip with the dividing region near the tip, and a microscope field of 250 cells of which 35 are in mitosis. 35 divided by 250 times 100 is 14.0 percent." loading="lazy">
+  <figcaption>35 of 250 cells in mitosis is 14.0%, high because cells near the tip divide for growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--03-cell-cycle-dna.webp" width="900" height="980" alt="Three drawn stages: grow and copy DNA, mitosis moves one set of chromosomes to each end, the cell splits into two identical cells. Graph of DNA per cell: 8 units, rising to 16 in stage 1, flat at 16 through mitosis, then 8 in each new cell." loading="lazy">
+  <figcaption>DNA doubles from 8 to 16 units, then each new cell has 8 again.</figcaption>
+</figure>
+
 
 ## Differentiation (B2.1c)
 
@@ -157,6 +240,17 @@ Differentiation is the process by which a cell becomes specialised for a particu
 | Nerve cell | Long, with branches | Carry electrical impulses |
 
 Examples to be able to explain for each: structure first, then how it helps the function.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--05-muscle-cell-adaptations.webp" width="900" height="790" alt="Elongated muscle cell drawn relaxed and contracted. Each shows three parallel contractile fibres and ten mitochondria. Fibres shorten to contract; mitochondria supply energy from respiration." loading="lazy">
+  <figcaption>Muscle cell: contractile fibres and many mitochondria.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--05-specialised-cells.webp" width="900" height="1190" alt="Six schematic cells with the syllabus function of each: ciliated cell (movement of mucus in trachea and bronchi), root hair cell (absorption), palisade mesophyll cell (photosynthesis), neurone (conduction of electrical impulses), red blood cell (transport of oxygen, no nucleus) and sperm and egg cells (reproduction)." loading="lazy">
+  <figcaption>Each specialised cell has a shape and structures that suit its job.</figcaption>
+</figure>
+
 
 ## Stem cells (B2.1d to B2.1f)
 
@@ -180,6 +274,12 @@ Stem cells divide to produce a range of cell types for development, growth and r
 | Range of cells it can become | Any cell type in the body | Limited range, often only cells of its own tissue |
 | Role | Forming the embryo and its growth | Repair and replacement during life |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--04-stem-cell-sources.webp" width="900" height="910" alt="Three panels: embryonic stem cells make most human cell types (six shown), adult bone marrow stem cells make blood cells and a narrower range (two shown), plant meristem stem cells make any plant cell type throughout life." loading="lazy">
+  <figcaption>Embryonic, adult and meristem stem cells differ in the range of cells they can become.</figcaption>
+</figure>
+
+
 ## Percentage gain and percentiles
 
 ### Worked example 6: percentage gain
@@ -189,6 +289,17 @@ A child's mass rises from 12.5 kg to 14.0 kg. Gain = 1.5 kg. Percentage gain = 1
 ### Worked example 7: percentile
 
 A percentile shows the proportion of a group that falls below a value. In a sample of 20 seedlings, 15 are shorter than yours. Percentile = 15 ÷ 20 × 100 = **75th percentile**. Growth charts use the same idea: a child on the 75th percentile for mass is heavier than 75% of children of that age.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--08-percentage-gain-mass.webp" width="900" height="660" alt="Bars to scale for 12.5 kg and 14.0 kg with the 1.5 kg gain highlighted. 1.5 divided by 12.5 times 100 is 12.0 percent, dividing by the start value." loading="lazy">
+  <figcaption>Percentage gain is divided by the starting mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--09-percentile-seedlings.webp" width="900" height="720" alt="Twenty seedlings in height order; 15 are shorter than yours, 4 are taller. 15 divided by 20 times 100 gives the 75th percentile." loading="lazy">
+  <figcaption>15 of 20 seedlings are shorter, so yours is on the 75th percentile.</figcaption>
+</figure>
+
 
 ## Common errors
 

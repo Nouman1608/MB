@@ -57,6 +57,17 @@ Work done by the driving force − work done against resistance
 
 If there are no driving forces other than gravity and no resistance, mechanical energy is conserved: KE + PE stays constant. This is the **principle of conservation of mechanical energy**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--03-work-energy-slope.webp" width="900" height="870" alt="All boards. 12 kg crate, 90 N pull, 25 N resistance, 15 m up 20°: 1350 J of work becomes 603.3 J PE, 371.7 J KE and 375 J lost to resistance, v = 7.87 m/s." loading="lazy">
+  <figcaption>The work done by the driving force is shared between PE, KE and work against resistance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--04-energy-along-motion.webp" width="900" height="890" alt="All boards. 0.8 kg slides down a smooth 2.5 m drop (energy conserved, 7 m/s), then 4 N resistance removes 19.6 J over 4.9 m." loading="lazy">
+  <figcaption>Mechanical energy is conserved on a smooth slide and removed steadily by a constant resistance.</figcaption>
+</figure>
+
+
 ### Method
 
 1. Sketch the motion, mark the start and end, and choose a zero level for PE.
@@ -119,6 +130,22 @@ On the ground: work against resistance = loss of KE
 d = 4.9 m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--01-work-component.webp" width="900" height="740" alt="All boards. Force 40 N at 35° moves a trolley 12 m: components 32.8 N and 22.9 N, work 40×12×cos 35° = 393 J (OxfordAQA example 1)." loading="lazy">
+  <figcaption>Only the component of the force along the motion does work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--02-sign-of-work.webp" width="900" height="860" alt="All boards (OxfordAQA lesson table). Force at 0°, 90° and 180° to the motion gives work +Fd, 0 and −Fd." loading="lazy">
+  <figcaption>Work is positive along the motion, zero at right angles and negative against it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--05-power-force-speed.webp" width="900" height="1010" alt="All boards. Car 900 kg, 24 kW, resistance 600 N, sin α = 1/20: F = P/v meets the needed 1041 N at 23.1 m/s; at 15 m/s F = 1600 N and a = 0.621 m/s²." loading="lazy">
+  <figcaption>A faster car has less driving force, and steady speed is where P/v equals the force needed.</figcaption>
+</figure>
+
+
 ## 4.1 Momentum, impulse and conservation of momentum
 
 Momentum is a vector: **p = mv**. For velocities written as i and j components, multiply each component by the mass.
@@ -164,6 +191,12 @@ KE after = ½(5)(10.6) = 26.5 J
 Loss = 12 J
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--06-impulse-vector.webp" width="900" height="1055" alt="Edexcel IAL only. Ball 0.4 kg changes velocity from (5i−2j) to (−i+4j): impulse mv−mu = (−2.4, 2.4) N s, magnitude 3.39 N s, force (−48, 48) N over 0.05 s." loading="lazy">
+  <figcaption>Impulse is the vector difference between final and initial momentum.</figcaption>
+</figure>
+
+
 ## 4.2 Direct impact and Newton's law of restitution
 
 In a direct impact the particles move along the line joining their centres before and after. **Newton's law of restitution** relates speeds of separation and approach:
@@ -191,6 +224,12 @@ Loss = 6.144 J
 ```
 
 Both velocities are positive, so both particles continue forwards. A negative velocity would mean that particle reversed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--07-direct-impact.webp" width="900" height="930" alt="Edexcel IAL only. 2 kg at 5 m/s hits 3 kg at 1 m/s with e = 0.6: speeds 1.16 and 3.56 m/s, KE 26.5 J to 20.356 J." loading="lazy">
+  <figcaption>Use conservation of momentum and the restitution law together; kinetic energy is lost when e &lt; 1.</figcaption>
+</figure>
+
 
 ## 4.3 Successive impacts
 
@@ -227,6 +266,12 @@ A moves away at 0.95 m s⁻¹ and B at 0.75 m s⁻¹. A is ahead and faster, so 
 ### A ball and a floor
 
 A ball dropped onto a smooth horizontal floor is the simplest plane problem. If it falls through height h, it hits at speed √(2gh) and rebounds at e√(2gh). It then rises to e²h. Dropped from 2 m with e = 0.5, it arrives at 6.26 m s⁻¹, leaves at 3.13 m s⁻¹ and rises to 0.5 m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--08-wall-successive-impacts.webp" width="900" height="1095" alt="Edexcel IAL only. A (1 kg) hits B (3 kg) with e = 0.5, B hits the wall with e = 0.6 and rebounds at 0.9 m/s, they collide again giving 0.95 and 0.75 m/s." loading="lazy">
+  <figcaption>Follow each impact in turn and check whether the particles meet again.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -145,6 +145,17 @@ The stop counts in the total time. Averaging the two speeds (60 and 75 km/h) is 
 
 At 15 m/s for 2 minutes, a cyclist covers 15 × 120 = 1800 m. Change the 2 minutes to 120 seconds first, because the speed is per second.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--01-journey-in-stages.webp" width="900" height="880" alt="A distance-time graph: 90 km in 1.5 h at 60 km/h, a 20-minute stop, then 50 km in 40 minutes, reaching 140 km after 2.5 h. A dashed line from start to end shows the average speed, 56 km/h, which is 140 divided by 2.5. The stop counts in the total time." loading="lazy">
+  <figcaption>Average speed is total distance divided by total time, with any stop included.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--05-currency-via-euros.webp" width="900" height="960" alt="Two rows of coins show conversions through euros: 440 dollars is 400 euros is 64 000 yen, and a 27 200 yen watch is 170 euros is 187 dollars, 2 dollars more than the 185 dollars in New York." loading="lazy">
+  <figcaption>Convert through the currency you have a rate for, then compare in one currency.</figcaption>
+</figure>
+
+
 ## 1.15 Time
 
 ### Units of time
@@ -187,6 +198,12 @@ The syllabus writes 24-hour times with four digits, such as 03 15 for 3.15 a.m. 
 06 00 -> 06 15    15 min
 total              7 h 37 min
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--03-across-midnight.webp" width="900" height="670" alt="A timeline from 22 00 to 07 00 shows the shift 22 38 to 06 15 split into hops of 22 min, 7 h and 15 min, totalling 7 h 37 min." loading="lazy">
+  <figcaption>Count on to the next whole hour, then whole hours, then the remaining minutes.</figcaption>
+</figure>
+
 
 ### Reading timetables
 
@@ -234,6 +251,17 @@ landing in Y time:  11 40 - 3 h = 08 40 the next day
 ```
 
 Both times must be in the same zone before you find the difference.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--02-minutes-not-tenths.webp" width="900" height="860" alt="Two one-hour bars compare minutes with decimal hours: 36 minutes is 0.6 h, so 1 h 36 min is 1.6 h; 0.35 h is 21 minutes, so 2.35 h is 2 h 21 min." loading="lazy">
+  <figcaption>Minutes and decimal hours are different scales, so convert by dividing or multiplying by 60.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--04-time-zones.webp" width="900" height="890" alt="Two clock rulers show the same flight in City X and in City Y, three hours behind. The flight lands at 11 10 in X, which is 08 10 in Y, so you subtract when the city is behind." loading="lazy">
+  <figcaption>Convert once, by subtracting the difference when the city is behind.</figcaption>
+</figure>
+
 
 ## 1.16 Money
 

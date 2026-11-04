@@ -51,6 +51,17 @@ Jumping wire demonstration, key results:
 | Reverse both | Same direction as the original |
 | Stronger magnet or larger current | Bigger movement |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-motor-effect-and-electric-motors--04-jumping-wire-apparatus.webp" width="900" height="870" alt="A top view of the jumping wire demonstration. Two metal rails run left to right, with a short copper wire resting across them between the poles of a horseshoe magnet, whose north pole is above the rails and south pole below, so the field points into the page. A cell and a switch connect the two rails. With the switch closed the current runs down the page through the wire, and by Fleming’s left-hand rule the force on the wire is to the right, so the wire rolls out of the gap. Swapping the supply terminals or turning the magnet over reverses the force and the wire jumps left. Reversing both gives a jump to the right again." loading="lazy">
+  <figcaption>The wire on two rails between the poles jumps sideways when the current flows, and left or right depends on current and field.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--05-dc-motor.webp" width="900" height="1278" alt="Three end views of a coil between N and S poles with a split-ring commutator and brushes. Forces on the two sides are opposite so the coil turns clockwise; when the gaps reach the brushes the current reverses, so the coil keeps turning the same way." loading="lazy">
+  <figcaption>The split-ring commutator reverses the coil current every half turn so the forces keep turning the coil the same way.</figcaption>
+</figure>
+
+
 ## Fleming's left-hand rule (P4.2b)
 
 | Digit | Stands for | Direction |
@@ -69,6 +80,17 @@ Method in steps:
 4. Read off the thumb. That is the force.
 
 Showing that the rule fits the experiment: reverse one input and the thumb reverses. Reverse both and the thumb stays put.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-motor-effect-and-electric-motors--04-reverse-current-or-field.webp" width="900" height="1070" alt="Four end views of a wire in a field. Reversing the current or the field alone reverses the force; reversing both leaves the force unchanged." loading="lazy">
+  <figcaption>Reverse one of current or field and the force reverses; reverse both and it does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-motor-effect-and-electric-motors--05-flemings-left-hand-example.webp" width="900" height="800" alt="Field east, current north, so force down into the table. Three directions at right angles, left hand." loading="lazy">
+  <figcaption>First finger field, second finger current, thumb force: here the wire is pushed down into the table.</figcaption>
+</figure>
+
 
 ## The equation (P4.2c)
 
@@ -102,6 +124,12 @@ F = B I l = 0.40 × 5.0 × 0.15 = 0.30 N
 ```
 
 Reversing the idea: the same 0.30 N in a 0.50 T field over the same 0.15 m needs I = 0.30 / (0.50 × 0.15) = 4.0 A.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-motor-effect-and-electric-motors--07-bil-rearranged.webp" width="900" height="1140" alt="Three worked rearrangements of the motor effect equation, each with a formula triangle showing F above B, I and l with the unknown highlighted. Example 2: current I equals F divided by B times l, which is 0.45 divided by 0.15 times 0.12, giving 25 amperes. Example 3: flux density B equals F divided by I times l, which is 0.036 divided by 1.5 times 0.060, giving 0.40 tesla. Example 5: length l equals F divided by B times I, which is 0.072 divided by 0.40 times 1.8, giving 0.10 metres." loading="lazy">
+  <figcaption>Examples 2, 3 and 5 find I, B and l by covering the unknown in the formula triangle.</figcaption>
+</figure>
+
 
 ## Electric motors (P4.2d)
 
@@ -137,6 +165,12 @@ Other checks:
 - Fixed current, varying length in the field: F against l is also a straight line through the origin, with gradient B × I.
 - A line that does not pass through the origin suggests a systematic error, such as a zero error on the balance or newton meter.
 - Control variables: keep the other two quantities of B, I and l constant while you vary one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-motor-effect-and-electric-motors--06-bil-find-the-force.webp" width="900" height="1090" alt="Two worked examples of F equals B times I times l. In the first a wire with 0.080 metres in a 0.25 tesla field carries 3.0 amperes, so the force is 0.060 newtons. In the second the wire has 4.0 centimetres in the field, which is converted to 0.040 metres, in a 0.50 tesla field carrying 2.5 amperes, so the force is 0.050 newtons. The force arrow is drawn proportional to the force, upwards for current to the right and field into the page." loading="lazy">
+  <figcaption>Worked examples 1 and 4 of F = BIl, with only the length of wire inside the field counted.</figcaption>
+</figure>
+
 
 ## Explaining a motor in four marks
 
@@ -184,6 +218,12 @@ Plan your answer in this order:
 10. **It stays the same.** Two reversals cancel.
 11. Otherwise the force on each side would reverse its turning effect after half a turn and the coil would rock back. Reversing the current keeps the forces turning it in one direction.
 12. **There is no force.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-motor-effect-and-electric-motors--05-motor-effect-third-law-pair.webp" width="900" height="800" alt="A magnet on the left and a wire carrying current on the right. The magnet pushes the wire to the right with a force of 0.060 newtons. The wire pushes the magnet to the left with an equal force of 0.060 newtons. The two arrows are the same length and opposite, and they act on different objects, so they are a Newton’s third law pair. The example uses a field of 0.25 tesla, a current of 3.0 amperes and 0.080 metres of wire in the field." loading="lazy">
+  <figcaption>The magnet pushes the wire and the wire pushes the magnet with equal and opposite forces on different objects.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

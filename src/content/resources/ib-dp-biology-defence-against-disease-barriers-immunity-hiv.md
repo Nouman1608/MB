@@ -67,6 +67,17 @@ If the skin is cut, **blood clotting** seals it:
 
 The clot stops blood loss and blocks entry of pathogens. No more detail is required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-defence-against-disease-barriers-immunity-hiv--01-barriers.webp" width="900" height="1130" alt="Two panels. Skin has a tough outer layer of dead keratin-filled cells above living cells, and a gland releases oily, acidic secretions, so microbes are blocked. In the airway, sticky mucus traps microbes and cilia on the lining cells sweep the mucus upwards to be swallowed." loading="lazy">
+  <figcaption>Skin and mucous membranes are physical and chemical barriers that keep microbes out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-defence-against-disease-barriers-immunity-hiv--02-clotting.webp" width="900" height="1150" alt="Five steps. Platelets release clotting factors; a cascade in which each step activates the next produces thrombin; thrombin converts soluble fibrinogen to insoluble fibrin; fibrin forms a mesh that traps erythrocytes as a clot; the clot dries to a scab that blocks pathogens." loading="lazy">
+  <figcaption>Blood clotting is a cascade from platelets to thrombin to a fibrin mesh and a scab.</figcaption>
+</figure>
+
+
 ## C3.2.4 Innate and adaptive immunity
 
 | Feature | Innate | Adaptive |
@@ -87,6 +98,12 @@ Phagocytes are white blood cells. They move by amoeboid movement: the cell chang
 - lysosomes fuse with the vesicle and release digestive enzymes that break the pathogen down.
 
 Phagocytes respond to broad categories of pathogen, so this is innate immunity. Link: lysosomes are covered in [organelles and cell specialization](/resources/ib-dp-biology-organelles-compartmentalization-and-cell-specialization/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-defence-against-disease-barriers-immunity-hiv--03-phagocytosis.webp" width="900" height="1220" alt="Five steps in one phagocyte. It squeezes out through the capillary wall by amoeboid movement, recognises molecules on the pathogen as foreign, engulfs it by endocytosis into a vesicle, lysosomes fuse with the vesicle, and their enzymes digest the pathogen." loading="lazy">
+  <figcaption>A phagocyte leaves the blood, engulfs a pathogen and digests it with lysosome enzymes.</figcaption>
+</figure>
+
 
 ## C3.2.6 to C3.2.10 The adaptive response
 
@@ -119,6 +136,17 @@ A fictional patient is given a harmless antigen twice. Antibody concentration pe
 
 Percentage change = (640 − 40) ÷ 40 × 100 = **1500%** (16 times higher). Explanation: the first dose produced memory cells, so on the second dose many more B-cells were ready to divide and form plasma cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-defence-against-disease-barriers-immunity-hiv--04-clonal-selection.webp" width="900" height="1200" alt="A B-cell with a matching antibody binds the antigen and a helper T-cell, activated by the same antigen, signals to it. Only then does the B-cell divide by mitosis into a clone; most become plasma cells that release antibody and some become memory cells." loading="lazy">
+  <figcaption>A B-cell needs both antigen and a helper T-cell signal before it is cloned into plasma cells and memory cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-defence-against-disease-barriers-immunity-hiv--05-primary-secondary-response.webp" width="900" height="960" alt="Graph of antibody concentration against days. The first dose gives a peak of 40 arbitrary units; a second dose gives a peak of 640 units that arrives sooner. That is 16 times higher, a rise of 1500 per cent, because memory cells made after the first dose respond." loading="lazy">
+  <figcaption>Memory cells make the second response quicker and 16 times larger than the first.</figcaption>
+</figure>
+
+
 ## C3.2.11 and C3.2.12 HIV and AIDS
 
 HIV (human immunodeficiency virus) passes in body fluids that contain infected cells or virus: blood, semen, vaginal fluids and breast milk. Mechanisms: unprotected sex, shared needles, from mother to child (in pregnancy, birth or breastfeeding) and transfusion of unscreened blood. HIV is not passed by casual contact such as touching or sharing a room.
@@ -131,6 +159,12 @@ Counts (per mm³ of blood) for a fictional person: 900 at diagnosis, 560 after 3
 Percentage change over 8 years = (180 − 900) ÷ 900 × 100 = **−80%**.
 Over the first 3 years = (560 − 900) ÷ 900 × 100 = **−37.8%**.
 The fall explains why infections appear late: the system still copes while numbers are high.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-defence-against-disease-barriers-immunity-hiv--06-hiv-helper-t-cells.webp" width="900" height="960" alt="A chain shows HIV killing helper T-cells, so fewer B-cells are activated and opportunistic infections take hold (AIDS). A graph shows a fictional person falling from 900 to 560, 310 and 180 helper T-cells per cubic millimetre, down 37.8 per cent over 3 years and 80 per cent over 8 years." loading="lazy">
+  <figcaption>HIV destroys helper T-cells, weakening antibody production until opportunistic infections appear.</figcaption>
+</figure>
+
 
 ## C3.2.13 and C3.2.14 Antibiotics and resistance
 
@@ -145,6 +179,12 @@ Nature of science: screening chemical libraries is a new technique producing new
 ### Worked example 4: resistant population
 
 A culture has 10 resistant cells. The antibiotic kills all non-resistant cells. Resistant cells divide every 30 minutes. After 6 hours: 6 ÷ 0.5 = 12 divisions, so 10 × 2¹² = **40 960** cells. The new population is almost entirely resistant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-defence-against-disease-barriers-immunity-hiv--07-antibiotic-resistance.webp" width="900" height="1160" alt="Four steps. A random mutation makes one bacterium in 20 resistant; the antibiotic kills the other 19; the survivor reproduces and passes on the allele; and resistance genes can also pass between bacteria." loading="lazy">
+  <figcaption>Antibiotics select for resistant bacteria, which multiply and can share the gene.</figcaption>
+</figure>
+
 
 ## C3.2.15 Zoonoses
 
@@ -166,6 +206,17 @@ A vaccine contains antigens, or DNA or RNA coding for antigens. Cells make the a
 **Herd immunity:** when enough of a population is immune, transmission is greatly impeded, so people who cannot be vaccinated, such as young babies, are protected too. Members of a population depend on each other. The percentage needed varies with the disease.
 
 Nature of science: research is published for evaluation, but media may report before evaluation finishes. Vaccine side effects are minimal but not nil.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-defence-against-disease-barriers-immunity-hiv--08-vaccine.webp" width="900" height="940" alt="Four steps. A vaccine contains antigens or DNA or RNA coding for them (not antibodies); cells make the antigen without causing disease; the immune system responds and memory cells form; if the real pathogen arrives later the response is fast and large." loading="lazy">
+  <figcaption>A vaccine trains the immune system with antigen so memory cells are ready for the real pathogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-defence-against-disease-barriers-immunity-hiv--09-herd-immunity.webp" width="900" height="910" alt="Two grids of 100 people with one infected person. With 40 per cent immune the infection spreads through non-immune neighbours. With 85 per cent immune (17 000 of 20 000) it is blocked, and non-immune people are protected too." loading="lazy">
+  <figcaption>When enough people are immune, transmission is impeded and the non-immune are protected.</figcaption>
+</figure>
+
 
 ## C3.2.18 Evaluating COVID-19 data
 

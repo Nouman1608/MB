@@ -49,6 +49,17 @@ H2  gains oxygen  -> oxidised  -> hydrogen is the reducing agent
 
 Nothing here involves electron transfer explicitly, but the oxygen and electron definitions always agree on which species is oxidised and which is reduced — this is exactly the kind of reaction the oxygen definition was designed for, before electron transfer is introduced as the more general picture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--01-oxygen-transfer.webp" width="900" height="960" alt="Copper(II) oxide has a copper atom bonded to oxygen, beside a hydrogen molecule. A dashed arrow shows the oxygen moving to the hydrogen. Afterwards there is a copper atom and a water molecule: copper lost oxygen (reduced) and hydrogen gained oxygen (oxidised)." loading="lazy">
+  <figcaption>In CuO + H2 -&gt; Cu + H2O oxygen moves from copper to hydrogen, so reduction and oxidation happen together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
+</figure>
+
+
 ## Agents — the reversal students get wrong
 
 *(0620 Extended, 5070 required)* Defining and identifying oxidising and reducing agents is 0620 Supplement content (6.4 S11-S13).
@@ -88,6 +99,22 @@ Mn = 0 - 1 + 8 = +7
 
 This matches the "(VII)" in potassium manganate(VII) — the Roman numeral and the calculated oxidation number always agree, which is a quick way to check your working once you have finished a calculation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--03-roman-numerals.webp" width="900" height="840" alt="Three rows pair compound names with the oxidation number of one element: iron(II) oxide has Fe +2, iron(III) oxide has Fe +3, potassium manganate(VII) has Mn +7." loading="lazy">
+  <figcaption>The Roman numeral in a name is the oxidation number of that element.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--04-kmno4-oxidation-number.webp" width="900" height="1010" alt="A balance around zero for KMnO4: potassium +1 and manganese +7 total +8 above the line; four oxygens at -2 total -8 below. The two cancel, so manganese must be +7." loading="lazy">
+  <figcaption>In neutral KMnO4, (+1) + Mn + 4(-2) = 0 gives Mn = +7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--05-number-change.webp" width="900" height="870" alt="On a ladder of oxidation numbers, zinc climbs from 0 to +2 (oxidised) and copper falls from +2 to 0 (reduced)." loading="lazy">
+  <figcaption>A rise in oxidation number is oxidation; a fall is reduction.</figcaption>
+</figure>
+
+
 ## Half equations
 
 *(0620 Extended, 5070 required)* Constructing ionic half-equations is 0620 Supplement content (4.1 S11).
@@ -113,6 +140,12 @@ Electrons must cancel exactly when the halves are combined — if they don't, mu
 | Reducing agent | Acidified potassium manganate(VII) | Purple → colourless | MnO₄⁻ reduced to Mn²⁺ |
 
 *Background — beyond the syllabus, not examinable:* acidified potassium dichromate(VI) turning **orange → green** also indicates a reducing agent, but this test is not part of the 0620/5070 subject content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--07-colour-tests.webp" width="900" height="1210" alt="Acidified potassium manganate(VII) is purple and turns colourless when a reducing agent is added. Aqueous potassium iodide is colourless and turns brown as iodide is oxidised to iodine." loading="lazy">
+  <figcaption>Purple manganate(VII) decolourises and colourless iodide turns brown in redox tests.</figcaption>
+</figure>
+
 
 ## Worked identification
 
@@ -148,3 +181,9 @@ Related: [Redox Reactions practice questions](/resources/redox-reactions-practic
 7. *(0620 Extended, 5070 required)* Find the oxidation number of Cr in K2Cr2O7.
 
 **Answers:** 1. Fe₂O₃ — iron goes from +3 to 0, a decrease, so it is reduced (CO is the reducing agent). 2. (+1×2) + S + (−2×4) = 0 → S = **+6**. 3. The solution is a **reducing agent**; MnO₄⁻ has been reduced to Mn²⁺. 4. 2Cl⁻ → Cl₂ + 2e⁻. 5. It donates electrons to the other species — donating electrons *is* oxidation, so causing reduction elsewhere necessarily means being oxidised itself. 6. CuO loses oxygen and is reduced, so it is the oxidising agent; H₂ gains oxygen and is oxidised, so it is the reducing agent. 7. 2(+1) + 2Cr + 7(−2) = 0 → 2Cr = 12 → Cr = **+6**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--06-agents.webp" width="900" height="910" alt="Zinc is the reducing agent: it is itself oxidised and passes two electrons to Cu2+. Cu2+ is the oxidising agent: it is itself reduced and oxidises zinc." loading="lazy">
+  <figcaption>The oxidising agent is the substance that gets reduced; the reducing agent is the one that gets oxidised.</figcaption>
+</figure>
+

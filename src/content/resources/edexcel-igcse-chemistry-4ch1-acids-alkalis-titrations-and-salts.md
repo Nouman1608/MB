@@ -77,6 +77,12 @@ Universal indicator is a mixture of indicators, so it changes colour gradually a
 
 **Worked example.** Universal indicator turns four solutions these colours: P, yellow; Q, blue; R, purple; S, green. Reading each against the chart gives P about pH 5 (weakly acidic), Q about pH 9 (weakly alkaline), R about pH 13 (strongly alkaline) and S pH 7 (neutral).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--08-ph-bands-indicators.webp" width="900" height="930" alt="Universal indicator bar from pH 0 to 14 marked with the five Edexcel bands, plus tubes for litmus, phenolphthalein and methyl orange in acid and alkali. Methyl orange is yellow in alkali." loading="lazy">
+  <figcaption>The five pH bands and the three indicators named in the specification.</figcaption>
+</figure>
+
+
 ## Hydrogen ions, hydroxide ions and neutralisation (2.31–2.32)
 
 In aqueous solution:
@@ -91,6 +97,12 @@ H⁺(aq) + OH⁻(aq) → H₂O(l)
 ```
 
 The other ions stay in solution and form the salt.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--03-neutralisation.webp" width="900" height="900" alt="A larger oval of bases contains a smaller oval of alkalis; copper(II) oxide is a base but not an alkali. Beakers show five H+ ions plus five OH- ions giving five water molecules." loading="lazy">
+  <figcaption>Every alkali is a base, and neutralisation is H+ + OH- making water.</figcaption>
+</figure>
+
 
 ## Carrying out an acid–alkali titration (2.33C, Paper 2 only)
 
@@ -116,6 +128,17 @@ Mean titre = (22.60 + 22.70 + 22.65) ÷ 3 = 22.65 cm³
 
 Concentration calculations from titres belong to point 1.34C; see the [chemical formulae, equations and calculations guide](/resources/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--09-concordant-titres.webp" width="900" height="890" alt="Dot plot of titres 23.20 (rough), 22.60, 22.95, 22.70 and 22.65 cm3. The three within 0.10 cm3 are kept and their mean is 22.65 cm3." loading="lazy">
+  <figcaption>Ignore the rough titre and any result not within 0.10 cm3, then average the rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--02-titration.webp" width="900" height="1075" alt="A burette of acid sits above a conical flask of alkali plus indicator, with a pipette measuring the alkali. An inset shows reading the bottom of the meniscus at eye level. Three flasks show the colour at first, a flash that fades on swirling, and one drop giving a permanent colour change: the end-point." loading="lazy">
+  <figcaption>The end-point is where one drop makes the colour change permanent; read the burette at the bottom of the meniscus.</figcaption>
+</figure>
+
+
 ## Solubility rules (2.34)
 
 Whether a salt dissolves decides how it is made.
@@ -130,6 +153,12 @@ Whether a salt dissolves decides how it is made.
 | Hydroxides | insoluble, except sodium, potassium and calcium (calcium hydroxide is slightly soluble) |
 
 **Worked example.** Silver chloride is insoluble (chloride exception). Magnesium sulfate is soluble (not a sulfate exception). Ammonium carbonate is soluble (the ammonium rule overrides the carbonate rule).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--07-solubility-rules.webp" width="900" height="979" alt="Six rows: sodium, potassium and ammonium salts and nitrates are soluble; chlorides are soluble except silver and lead; sulfates soluble except barium, calcium and lead; carbonates insoluble except sodium, potassium, ammonium; hydroxides insoluble except sodium, potassium, ammonium and (slightly) calcium." loading="lazy">
+  <figcaption>Use the rules to decide whether a salt dissolves.</figcaption>
+</figure>
+
 
 ## Acids and bases as proton transfer (2.35–2.36)
 
@@ -155,6 +184,12 @@ Ammonia accepts a proton to become the ammonium ion:
 ```
 NH₃ + H⁺ → NH₄⁺
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--11-proton-transfer.webp" width="900" height="880" alt="An H+ ion passes from acid (donor) to base (acceptor). Examples: NH3 + H+ gives NH4+, O2- + 2H+ gives H2O, and CO3 2- + 2H+ gives H2O + CO2." loading="lazy">
+  <figcaption>An acid donates a proton and a base accepts it.</figcaption>
+</figure>
+
 
 ## Which substances are bases? (2.38)
 
@@ -184,6 +219,12 @@ ZnCO₃(s) + 2HNO₃(aq) → Zn(NO₃)₂(aq) + H₂O(l) + CO₂(g)
 
 Ammonia gives an ammonium salt and no water. Nitric acid with metals is excluded from the specification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--02-acid-reactions.webp" width="900" height="975" alt="Four test tubes: acid with metal gives salt and hydrogen; acid with base gives salt and water; acid with carbonate gives salt, water and carbon dioxide; a base warmed with an ammonium salt releases ammonia." loading="lazy">
+  <figcaption>Know the products of each reaction, including the easily forgotten carbon dioxide.</figcaption>
+</figure>
+
+
 ## Choosing a method for preparing a salt
 
 Decide using two questions.
@@ -198,6 +239,12 @@ Is the salt soluble?
 
 Sodium, potassium and ammonium salts need titration: their bases are soluble, so excess could not be filtered off.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--10-salt-method-choice.webp" width="900" height="900" alt="Decision chart: insoluble salt by precipitation; soluble salt with an insoluble reactant by excess solid and filtering; soluble salt from acid and alkali by titration." loading="lazy">
+  <figcaption>Two questions decide which method makes a given salt.</figcaption>
+</figure>
+
+
 ## Soluble salt from an insoluble reactant (2.39)
 
 **Worked example: zinc sulfate crystals from zinc carbonate.**
@@ -211,6 +258,12 @@ Sodium, potassium and ammonium salts need titration: their bases are soluble, so
 ```
 ZnCO₃(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂O(l) + CO₂(g)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--06-soluble-salt-prep.webp" width="900" height="1130" alt="Four steps: add excess solid to acid, filter off the unreacted solid, evaporate the filtrate until crystals start to form, then crystallise, filter and dry. A note says that with an alkali you titrate to the exact volume." loading="lazy">
+  <figcaption>Excess solid guarantees all the acid reacts; filter before evaporating.</figcaption>
+</figure>
+
 
 ## Practical: hydrated copper(II) sulfate (2.42)
 
@@ -235,6 +288,17 @@ percentage yield = 5.02 ÷ 6.277 × 100 = 80.0%
 
 Some salt stays dissolved after crystallisation, so the yield is below 100%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--10-cuso4-crystals-steps.webp" width="900" height="800" alt="Copper(II) oxide is added to warm dilute sulfuric acid until some stays, filtered off, the filtrate partly evaporated and cooled to give blue crystals. Do not heat to dryness." loading="lazy">
+  <figcaption>Make blue CuSO4.5H2O crystals from excess black copper(II) oxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--11-cuso4-yield.webp" width="900" height="880" alt="2.00 g CuO is 0.02516 mol; 1:1 gives 0.02516 mol crystals; times 249.5 gives 6.277 g. Actual 5.02 g gives 80.0%." loading="lazy">
+  <figcaption>The yield is 5.02 divided by 6.277, times 100, which is 80.0%.</figcaption>
+</figure>
+
+
 ## Soluble salt from an acid and an alkali (2.40C, Paper 2 only)
 
 **Worked example: potassium nitrate.** Both reactants are soluble, so excess cannot be filtered off.
@@ -258,6 +322,12 @@ BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaCl(aq)
 3. Wash it on the filter paper with distilled water to remove the soluble sodium chloride.
 4. Dry it in a warm oven or between filter papers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--08-precipitation.webp" width="900" height="1040" alt="Two clear solutions, silver nitrate and sodium chloride, are mixed and white solid silver chloride forms. It is filtered, washed with water and dried, with no evaporation. The equation is balanced." loading="lazy">
+  <figcaption>An insoluble salt is made by mixing solutions, then filtering, washing and drying.</figcaption>
+</figure>
+
+
 ## Practical: lead(II) sulfate (2.43C, Paper 2 only)
 
 Mix lead(II) nitrate solution with dilute sulfuric acid (or any soluble sulfate). White lead(II) sulfate precipitates. Filter, wash with distilled water, and dry in a warm oven.
@@ -268,6 +338,12 @@ Pb²⁺(aq) + SO₄²⁻(aq) → PbSO₄(s)
 ```
 
 Lead compounds are toxic: wear gloves and eye protection.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--12-pbso4-precipitation.webp" width="900" height="960" alt="Lead(II) nitrate and dilute sulfuric acid are mixed to give white lead(II) sulfate precipitate, which is filtered, washed with distilled water and dried in a warm oven. Lead compounds are toxic." loading="lazy">
+  <figcaption>Precipitate, filter, wash and dry lead(II) sulfate, wearing gloves and eye protection.</figcaption>
+</figure>
+
 
 ## Common errors
 

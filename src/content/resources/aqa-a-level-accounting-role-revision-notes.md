@@ -52,6 +52,17 @@ ASSETS = CAPITAL + LIABILITIES
 
 **Ethics and professional judgement:** accountants are expected to show **integrity, objectivity, professional competence, confidentiality and professional behaviour**. Scenario questions about overstating profit, delaying recognition of a bad debt, or hiding a liability expect you to name the **principle breached**, the **users harmed**, and the **appropriate action**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--01-two-branches.webp" width="900" height="960" alt="Two cards compare financial accounting (looks back, read by outside users such as owners, lenders and tax authorities, fixed format set by law; income statement and statement of financial position) with management accounting (looks forward, read by managers, any format at any time; budgets, costing, investment appraisal)." loading="lazy">
+  <figcaption>Financial accounting reports the past to outsiders; management accounting informs managers about the future.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
+
+
 ## Year-end adjustments — both effects
 
 | Adjustment | Profit | Statement of financial position |
@@ -69,6 +80,22 @@ ASSETS = CAPITAL + LIABILITIES
 - **Straight line:** equal charge; suits evenly used assets.
 - **Reducing balance:** higher early charge; suits assets losing value fastest at first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--02-why-depreciate.webp" width="900" height="1070" alt="Four causes of falling value are named. With an illustrative 12,000 pound van over four years, charging everything in year 1 is compared with charging 3,000 each year, which matches cost to the years the van earns." loading="lazy">
+  <figcaption>Depreciation spreads the cost of an asset over the years it helps earn revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--03-depreciation-methods.webp" width="900" height="1264" alt="An illustrative 20,000 pound asset with a 2,000 residual value and four-year life is depreciated two ways. Straight line charges 4,500 each year; reducing balance at 40 percent charges 8,000, 4,800, 2,880 and 1,728. A line chart shows the carrying values." loading="lazy">
+  <figcaption>Straight line gives a level charge; reducing balance gives a high charge early that falls over time.</figcaption>
+</figure>
+
+
 ## Users of accounts
 
 Each user wants something different, and questions ask you to say **what** and **why**:
@@ -85,6 +112,12 @@ Each user wants something different, and questions ask you to say **what** and *
 A lender cares about liquidity because a profitable business can still fail if it cannot pay debts as they fall due — the distinction between profit and cash is the point.
 
 **Conflicts between users are examinable directly:** shareholders may want dividends paid out now, while lenders prefer profit retained in the business to strengthen the statement of financial position and improve the odds of repayment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
 
 ## Ratio analysis
 
@@ -128,3 +161,19 @@ gearing       = non-current liabilities / capital employed x 100
 6. Name the five ethical principles accountants are expected to show.
 
 **Answers:** 1. The accruals or matching concept — income and expenses are recorded when incurred rather than when cash moves. 2. It reduces profit for the year and appears as a current liability. 3. A profitable business can still fail if it cannot pay debts as they fall due, so the ability to generate cash matters more than reported profit for repayment. 4. It may mean excess inventory, receivables collected too slowly, or cash held idle rather than invested productively. 5. It magnifies returns to shareholders when profits are strong, but increases risk sharply if interest rates rise or profits fall. 6. Integrity, objectivity, professional competence, confidentiality and professional behaviour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--08-gearing-interest-cover.webp" width="900" height="810" alt="Ardleigh funds 24.47 percent of long-term capital with debt and its operating profit covers interest 7.91 times. Merrowdale has 52.00 percent debt and covers interest only 3.00 times, so it is riskier if profit falls." loading="lazy">
+  <figcaption>More borrowing and less interest cover mean more risk to lenders and shareholders.</figcaption>
+</figure>
+

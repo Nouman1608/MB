@@ -38,6 +38,17 @@ Course pages: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/
 
 The syllabus assumes you know that an enzyme is a biological catalyst that is unchanged when the reaction is complete. Section 3.2 (factors affecting rate, Km, inhibitors, immobilised enzymes) is not taught here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--06-substrate-km.webp" width="900" height="1060" alt="A graph of initial rate against substrate concentration with the lesson data (0.5 to 32 mmol per dm3) on a curve to Vmax 40. Half Vmax (20) gives Km 2.5; a second enzyme with Km 9 has lower affinity. Three panels of eight active sites show 1, 4 and 7 filled at low, Km and high substrate." loading="lazy">
+  <figcaption>Km is the substrate concentration at half Vmax; a low Km means high affinity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--09-immobilised-enzymes.webp" width="900" height="1290" alt="Making beads: enzyme and sodium alginate drip from a syringe into calcium chloride and set as beads. Using them: beads packed in a column with substrate in and product out, so the enzyme is reused and the product is pure; smaller beads have a larger surface area to volume ratio (3.0 against 1.5 per mm). Four OCR immobilisation methods: adsorption, covalent bonding, entrapment and membrane separation." loading="lazy">
+  <figcaption>Immobilised enzymes stay in place, can be reused and do not contaminate the product.</figcaption>
+</figure>
+
+
 ## 3.1.1 Enzymes are globular proteins
 
 An enzyme is a **globular protein**. Its polypeptide chain (or chains) folds into a compact, roughly spherical **tertiary structure**, held by hydrogen bonds, ionic bonds, disulfide bonds and hydrophobic interactions between R groups. Hydrophilic R groups lie mostly on the outside, so most enzymes are **soluble** in water. A small region of the surface, the **active site**, has a precise shape and set of R groups. That shape comes from the tertiary structure, which depends on the primary structure.
@@ -61,6 +72,17 @@ The reaction happens while the substrate is held in the active site. The substra
 E + S  →  ES  →  EP  →  E + P
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
+  <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
+  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
+</figure>
+
+
 ### Lowering activation energy
 
 **Activation energy** is the energy that must be supplied to substrate molecules before a reaction can start. Enzymes **lower the activation energy**. On an energy diagram, the catalysed pathway has a lower "hill" between substrates and products. The energy of the substrates and of the products is the same with or without the enzyme, so the **overall energy change of the reaction is not altered**. The enzyme only changes how much energy is needed to get the reaction going.
@@ -73,6 +95,12 @@ Ways the ES complex lowers activation energy:
 
 With a lower activation energy, a much larger proportion of substrate molecules can react at a given temperature, so the rate is far higher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--03-activation-energy.webp" width="900" height="1060" alt="An energy profile from substrates to lower-energy products. The uncatalysed route has a high peak (large Ea); with an enzyme the peak is lower between the same substrates and products, so the overall energy change is unchanged. Two small pictures show an active site holding two substrates close in the correct orientation (building) and straining a bond (breaking)." loading="lazy">
+  <figcaption>An enzyme lowers the activation energy without changing the overall energy change of the reaction.</figcaption>
+</figure>
+
+
 ### Specificity
 
 Each enzyme catalyses one reaction, or a small group of very similar reactions. This **specificity** follows from the active site: only a substrate with a complementary shape and charge distribution can bind and form an ES complex. For example, amylase hydrolyses the α-1,4 glycosidic bonds in starch but not the β-1,4 glycosidic bonds in cellulose, because the shape of a cellulose chain is not complementary to amylase's active site.
@@ -80,6 +108,12 @@ Each enzyme catalyses one reaction, or a small group of very similar reactions. 
 ### Lock-and-key hypothesis
 
 In the **lock-and-key hypothesis**, the active site has a **fixed, rigid shape**. The substrate (the key) fits exactly into the active site (the lock). Only one shape of substrate fits, which explains specificity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp" width="900" height="1130" alt="Three rows. Lock and key: a rigid notch-shaped active site that the substrate fits exactly. Induced fit: the site starts close to but not exactly complementary, and moulds round the substrate as it binds, straining bonds. Specificity: a round substrate of the wrong shape cannot bind." loading="lazy">
+  <figcaption>Lock and key has a fixed active site; in induced fit the site changes shape slightly as the substrate binds.</figcaption>
+</figure>
+
 
 ### Induced-fit hypothesis
 
@@ -92,6 +126,17 @@ Induced fit explains things the lock-and-key model does not:
 - how a molecule binding elsewhere on an enzyme can change the shape of the active site (you will use this idea for non-competitive inhibitors in section 3.2).
 
 The syllabus names both models. Be ready to describe each and say how they differ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--01-enzyme-cycle.webp" width="900" height="1150" alt="Four panels in a cycle. Free enzyme E and substrate S, whose shape is complementary to the notch-shaped active site; the enzyme-substrate complex ES with the substrate in the site; the enzyme-product complex EP with the two product parts separating; then E + P with the products released and the active site free again. The enzyme is unchanged at the end." loading="lazy">
+  <figcaption>An enzyme binds its substrate, converts it and releases the products, ready to act again.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--08-inhibitor-graphs.webp" width="900" height="1090" alt="Rate against substrate concentration for no inhibitor (Vmax 40, Km 2.5), a competitive inhibitor (same Vmax, Km about 10) and a non-competitive inhibitor (Vmax 20, same Km). Bars show competitive inhibition cutting the rate to 29% of normal at low substrate but only to 82% at high substrate, while non-competitive inhibition gives 50% at both." loading="lazy">
+  <figcaption>Competitive inhibition keeps Vmax and raises Km; non-competitive inhibition lowers Vmax and leaves Km unchanged.</figcaption>
+</figure>
+
 
 ## 3.1.3 Following the progress of a reaction
 
@@ -157,6 +202,12 @@ rate = 1 ÷ 180 = 0.0056 s⁻¹  (5.6 × 10⁻³ s⁻¹)
 ```
 
 The real end point lies somewhere between 160 s and 180 s, an uncertainty of up to 20 s. As a percentage of 180 s this is about 11%. Shorter sampling intervals reduce it. Judging the colour by eye is also subjective, which leads to the colorimeter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--04-initial-rate.webp" width="900" height="1000" alt="A graph of oxygen volume against time with points at 0 to 120 seconds from the lesson. The tangent at t = 0 passes through (0,0) and (20,10), so the initial rate is 0.50 cm3 per second; a line from 60 to 120 s gives 0.10 cm3 per second. A flask and gas syringe show how the oxygen is collected." loading="lazy">
+  <figcaption>The initial rate is the gradient of the tangent at t = 0 and is the best value for comparing experiments.</figcaption>
+</figure>
+
 
 ## 3.1.4 Using a colorimeter
 

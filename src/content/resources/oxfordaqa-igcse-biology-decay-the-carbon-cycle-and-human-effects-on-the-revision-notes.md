@@ -54,6 +54,22 @@ These notes condense sections 3.3.3 and 3.3.4 of the OxfordAQA International GCS
 
 **Worked reminder.** Dry mass falls from 20.0 g to 9.8 g. Mass lost = 10.2 g. Percentage lost = 10.2 ÷ 20.0 × 100 = 51.0%. Over 21 days the mean rate is 10.2 ÷ 21 = 0.49 g per day.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the--04-decay-temperature.webp" width="900" height="830" alt="Bar chart of percentage mass lost from 20.0 g of leaf litter in 21 days: 7.0% at 5, 23.0% at 15, 51.0% at 25, 69.5% at 35 and only 4.0% at 60 degrees Celsius, where enzymes are denatured and microbes die." loading="lazy">
+  <figcaption>Decay speeds up with warmth until the temperature is high enough to denature enzymes and kill the microbes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the--11-moist-aerobic-decay.webp" width="900" height="790" alt="Three soil panels. Dry soil has air in the gaps but no water, so microorganisms lack water and decay is slow. Moist soil has a thin film of water around the particles and air in the gaps, so decay is fast. Waterlogged soil has all the gaps filled with water and no air, so decay is slow." loading="lazy">
+  <figcaption>Decay is fastest when soil is moist but not soaked: microorganisms need both water and oxygen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the--12-detritus-surface-area.webp" width="900" height="790" alt="Three stacks of cubes representing dead leaf material: one big block, the same block cut into 8 pieces, and cut into 27 pieces. The total surface area grows from 216 to 432 to 648 square centimetres, so microorganisms have more surface to work on." loading="lazy">
+  <figcaption>Chewing dead material into smaller pieces gives microorganisms more surface to digest (illustrative block of side 6 cm).</figcaption>
+</figure>
+
+
 ## 3.3.3 e: The carbon cycle
 
 | Step | Process | Carbon form |
@@ -88,6 +104,17 @@ Respiration arrows also run from plants, algae and animals straight to the air, 
 - A field crop is harvested and removed. The mineral ions taken up by the plants are not returned by decay, so fertiliser may be needed. This breaks the balance of a stable community.
 - Burning a forest turns carbon stored in wood into CO₂ at once, far faster than decay would.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the--05-carbon-balance.webp" width="900" height="880" alt="Two bars to scale. 120 units of carbon are taken in by plants each year. The returned bar totals 114: plant respiration 55, decomposer respiration 48, animal respiration 7, wood fires 4. The 6 units not returned are stored as extra biomass." loading="lazy">
+  <figcaption>Input of 120 minus output of 114 leaves 6 units stored as extra biomass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--06-carbon-cycle.webp" width="900" height="1070" alt="Photosynthesis takes carbon dioxide from the air into plants. Feeding passes carbon to animals. Respiration by plants, animals and decomposers returns carbon dioxide to the air. Dead organisms and waste are broken down by decomposers (decomposition) or, if not fully decomposed, form fossil fuels over millions of years. Combustion of fossil fuels releases carbon dioxide." loading="lazy">
+  <figcaption>The six carbon-cycle processes shown as arrows between air, organisms, dead matter and fossil fuels.</figcaption>
+</figure>
+
+
 ## 3.3.4 a-b: Waste and pollution
 
 - Rapid population growth and a rising standard of living produce more waste.
@@ -119,6 +146,22 @@ Key point: the oxygen is used by the microorganisms' respiration. Dead algae do 
 - Pesticides and herbicides used on fields can be washed from land into streams and lakes, so land pollution becomes water pollution.
 - Untreated sewage and fertiliser both supply mineral ions, so both can cause eutrophication.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the--06-pond-after-fertiliser.webp" width="900" height="840" alt="Line graph over four weeks. Nitrate rises from 2.0 to 9.0 mg per dm3 by week 2 (+350%) then eases to 7.9. Dissolved oxygen rises from 8.8 to a peak of 10.1 at week 2 while algae photosynthesise, then falls to 1.9 by week 4, an 81.2% fall, as microbes feeding on dead algae respire." loading="lazy">
+  <figcaption>Oxygen rises while algae grow, then collapses once microbes respire on the dead algae.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the--13-pollutant-pathways.webp" width="900" height="1030" alt="Top: a factory chimney releases sulfur dioxide gas, which contributes to acid rain falling from a cloud onto the land. Bottom: pesticide sprayed on a field harms organisms on the land and can be washed from the land into a stream." loading="lazy">
+  <figcaption>Sulfur dioxide in the air contributes to acid rain; pesticides on land harm organisms and can wash into water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Extended. Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
+  <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
+</figure>
+
+
 ## 3.3.4 c: Deforestation
 
 - Large-scale tropical deforestation has reduced biodiversity (fewer species and fewer habitats).
@@ -126,6 +169,17 @@ Key point: the oxygen is used by the microorganisms' respiration. Dead algae do 
 - Burning releases CO₂ by combustion; decay of remains releases CO₂ by microorganisms' respiration.
 
 **Worked reminder.** Forest mean 30.5 species per plot, cleared mean 9.5. Reduction = (30.5 − 9.5) ÷ 30.5 × 100 = 68.9%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the--14-deforestation-survey.webp" width="900" height="910" alt="A dot plot of tree and shrub species in six 20 m by 20 m plots. Forest plots range from 26 to 35 with mean 30.5. Cleared plots range from 7 to 12 with mean 9.5. The ranges do not overlap, and the mean falls by 68.9 percent." loading="lazy">
+  <figcaption>Cleared plots hold far fewer species than forest plots, and the ranges do not overlap; one survey in one place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--03-deforestation-effects.webp" width="900" height="1245" alt="A forest and a deforested hillside are compared. Five effects are numbered: biodiversity falls, extinction, soil loss, flooding and more carbon dioxide. A worked example shows forest area falling from 6.0 to 5.1 million hectares, a 15 percent decrease, found by dividing by the original value." loading="lazy">
+  <figcaption>Removing forest reduces biodiversity, loses soil, raises flood risk and adds carbon dioxide to the air.</figcaption>
+</figure>
+
 
 ## 3.3.4 d: Global warming
 
@@ -139,6 +193,17 @@ Key point: the oxygen is used by the microorganisms' respiration. Dead algae do 
 - Rising sea level reduces the habitat of coastal organisms.
 - Warmer conditions can move the range in which a species can live, so its distribution changes.
 - Birds that migrate may arrive earlier or later than before, so migration patterns change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the--15-co2-rise-ppm.webp" width="900" height="890" alt="A line graph of carbon dioxide in ppm: 317 in 1960, 339 in 1980, 370 in 2000 and 414 in 2020. The rises per 20 years are 22, 31 and 44 ppm, which is 1.1, 1.6 and 2.2 ppm per year, so the line gets steeper. The total rise is 97 ppm or 30.6 percent." loading="lazy">
+  <figcaption>Carbon dioxide rose 97 ppm from 1960 to 2020, and the rise per year increased in each 20-year period.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--05-enhanced-greenhouse-effect.webp" width="900" height="1180" alt="Sunlight reaches the Earth, which gives out thermal energy upwards. Carbon dioxide and methane absorb thermal energy that would otherwise be lost and some returns to Earth. More of these gases gives more energy absorbed, a higher mean global temperature and climate change." loading="lazy">
+  <figcaption>More CO2 and methane trap more thermal energy, raising mean global temperature.</figcaption>
+</figure>
+
 
 ## Analysing data and evaluating methods
 

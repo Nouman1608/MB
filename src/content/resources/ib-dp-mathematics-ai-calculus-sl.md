@@ -83,6 +83,12 @@ From both sides the values approach 12, so the gradient at x = 2 is about **12**
 
 The **derivative** is the gradient function. It also gives the **rate of change** of one quantity with respect to another. The guide lists these notations: dy/dx, f′(x), dV/dr and ds/dt. For example, dV/dr is the rate at which a volume V changes as a radius r changes. A derivative has units: if V is in cm³ and r in cm, then dV/dr is in cm³ per cm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-calculus-sl--01-chord-to-tangent.webp" width="900" height="920" alt="Graph of y = x cubed. Point P is at (2, 8). Three copper chords from P to points a distance h to the right (h = 1, 0.5 and 0.25) get closer to the gold tangent line as h shrinks. The chord gradient is ((2 + h) cubed minus 8) divided by h. A table gives its value for h = 0.1, 0.01, 0.001, minus 0.001, minus 0.01 and minus 0.1 as about 12.61, 12.06, 12.006, 11.994, 11.94 and 11.41. From both sides the values approach 12, the gradient of the curve at x = 2." loading="lazy">
+  <figcaption>Graph of y = x³ with P(2, 8), three chords to points h = 1, 0.5, 0.25 to the right and the gold tangent of gradient 12. A table of chord gradients for h = ±0.1, ±0.01, ±0.001 shows values approaching 12 from both sides.</figcaption>
+</figure>
+
+
 ## 5.3 Differentiating axⁿ
 
 The rule is:
@@ -119,6 +125,12 @@ Find the intervals on which f(x) = x³ − 6x² + 9x + 1 is increasing and decre
 3. Test the sign: f′(0) = 9 > 0, f′(2) = −3 < 0, f′(4) = 9 > 0.
 4. So f is **increasing for x < 1 and x > 3**, and **decreasing for 1 < x < 3**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-calculus-sl--02-rising-falling-turning-points.webp" width="900" height="1180" alt="Two graphs aligned on the same x values. Top: the cubic f(x) = x cubed minus 6x squared plus 9x plus 1, rising to a local maximum at (1, 5), falling to a local minimum at (3, 1), then rising again; at the end point x = 5 on the domain 0 to 5 the value is 21, greater than the local maximum. Bottom: the gradient function f dash = 3(x minus 1)(x minus 3), a U-shaped parabola that is positive for x less than 1, negative between 1 and 3 and positive for x greater than 3, crossing zero at x = 1 and x = 3. Where f dash is positive f is rising, where negative f is falling, and f dash is zero at the turning points." loading="lazy">
+  <figcaption>Aligned graphs of f(x) = x³ − 6x² + 9x + 1 and f′(x) = 3(x − 1)(x − 3). f rises where f′ &gt; 0, falls where f′ &lt; 0, with local maximum (1, 5) and minimum (3, 1); on 0 ≤ x ≤ 5 the end point value f(5) = 21 exceeds the local maximum.</figcaption>
+</figure>
+
+
 ## 5.6 Stationary points: local maximum and minimum
 
 Points where f′(x) = 0 are where the gradient is zero. The guide expects you to be able to use technology to generate f′(x) and solve f′(x) = 0, as well as doing it by hand for simple cases.
@@ -148,6 +160,12 @@ The curve y = x² − 3x + 2/x. Find the equations of the tangent and the normal
 4. Normal gradient: −1/0.5 = −2. Normal: y + 1 = −2(x − 2), so **y = −2x + 3**.
 
 The guide expects both analytic approaches and technology here. Many GDCs draw a tangent and display its equation, which is a useful check.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-calculus-sl--03-tangent-and-normal.webp" width="900" height="1214" alt="Equal-scale graph of y = x squared minus 3x plus 2 over x, for x greater than 0. At P (2, minus 1) the gradient is dy/dx = 2x minus 3 minus 2/x squared = 0.5. The gold tangent y = 0.5x minus 2 touches the curve at P. The teal normal is perpendicular to the tangent, with gradient minus 1 divided by 0.5 = minus 2, and equation y = minus 2x plus 3. A small right-angle mark at P shows the two lines are perpendicular." loading="lazy">
+  <figcaption>Equal-scale graph of y = x² − 3x + 2/x with the tangent y = 0.5x − 2 and normal y = −2x + 3 at P(2, −1), with a right-angle mark.</figcaption>
+</figure>
+
 
 ## 5.5 Integration
 
@@ -179,6 +197,12 @@ A = ∫ₐᵇ f(x) dx
 
 The guide says definite integrals are found **using technology**, and that you must **write a correct expression first**, then calculate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-calculus-sl--05-definite-integral-area.webp" width="900" height="830" alt="Graph of y = minus x squared plus 4x plus 12, an upside-down parabola crossing the x-axis at x = minus 2 and x = 6 with its maximum (2, 16). The region between the curve, the x-axis, the y-axis and the line x = 4 is shaded and lies wholly above the axis. Its area is the definite integral from 0 to 4 of minus x squared plus 4x plus 12, which a GDC gives as 58.7 square units, exactly 176 over 3." loading="lazy">
+  <figcaption>Graph of y = −x² + 4x + 12 with the region between the curve, axes and x = 4 shaded; A = ∫₀⁴ (−x² + 4x + 12) dx = 58.7 (exactly 176/3).</figcaption>
+</figure>
+
+
 ### Worked example 6
 
 Find the area enclosed by y = −x² + 4x + 12, the x-axis, the y-axis and the line x = 4.
@@ -188,6 +212,12 @@ Find the area enclosed by y = −x² + 4x + 12, the x-axis, the y-axis and the l
 3. GDC: A = 58.666… ≈ **58.7** square units (exactly 176/3).
 
 The SL content only covers regions where f(x) > 0, so the region always lies above the x-axis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-calculus-sl--04-constant-of-integration.webp" width="900" height="980" alt="Four curves y = 2x cubed minus 2x squared plus 3x plus C for C = minus 2, 0, 2 and 4. They are vertical shifts of one another, and at x = 1 each has the same gradient 5 because dy/dx = 6x squared minus 4x plus 3 gives 5 there, shown by parallel dashed tangents. The boundary condition y = 5 when x = 1 picks out the gold curve through (1, 5), which has C = 2." loading="lazy">
+  <figcaption>Four curves y = 2x³ − 2x² + 3x + C for C = −2, 0, 2, 4 shifted vertically, each with the same gradient 5 at x = 1; the boundary condition y = 5 at x = 1 selects C = 2.</figcaption>
+</figure>
+
 
 ## 5.7 Optimisation in context
 
@@ -213,6 +243,12 @@ An open-top box has a square base of side x cm and height h cm. Its volume is 40
 6. h = 4000/400 = 10. The box should be **20 cm × 20 cm × 10 cm**, with S = 400 + 800 = **1200 cm²**.
 
 On a GDC you can graph S and find the minimum directly. If you do, still write the expression for S that you graphed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-calculus-sl--06-optimisation-box.webp" width="900" height="960" alt="Graph of the surface area S = x squared plus 16000 over x of an open-top box with a square base of side x cm and volume 4000 cubic centimetres. The curve falls then rises, with its minimum at x = 20 where S = 1200 square centimetres. The gradient dS/dx is negative just left of x = 20 (about minus 6.3 at x = 19) and positive just right (about 5.7 at x = 21), so the point is a minimum. A drawing of the open-top box shows the dimensions 20 cm by 20 cm by 10 cm, since h = 4000 over 400 = 10." loading="lazy">
+  <figcaption>Graph of S = x² + 16000/x for an open-top box with volume 4000 cm³: minimum S = 1200 at x = 20, with gradient negative then positive, and a drawing of the 20 × 20 × 10 cm box.</figcaption>
+</figure>
+
 
 ## 5.8 The trapezoidal rule
 
@@ -247,6 +283,12 @@ Estimate ∫₁³ 8/x² dx with 4 strips, and compare with the GDC value.
 5. Percentage error = (5.64 − 5.333…)/5.333… × 100 = **5.75%**.
 
 The estimate is too big because this curve bends so that each straight top edge lies above the curve. More strips give a better estimate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-calculus-sl--07-trapezoidal-rule.webp" width="900" height="870" alt="The curve y = 8 over x squared from x = 1 to x = 3 is split into 4 strips of width h = 0.5, each topped by a straight line to form a trapezium. The y-values are 8, 3.56, 2, 1.28 and 0.89. The estimate is 0.25 times (8 + 0.89 + 2 times (3.56 + 2 + 1.28)) = 5.64, compared with the exact area 16 over 3 = 5.33 from a GDC, a percentage error of 5.75 percent. The estimate is too big because the curve bends so every straight top edge lies above it; the gold gaps show the overestimate." loading="lazy">
+  <figcaption>Curve y = 8/x² from 1 to 3 with four trapezia of width 0.5; estimate 5.64 against 5.33, a 5.75% overestimate because the top edges lie above the curve.</figcaption>
+</figure>
+
 
 ## Common errors
 

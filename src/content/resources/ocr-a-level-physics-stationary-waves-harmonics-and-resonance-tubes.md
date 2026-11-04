@@ -46,6 +46,12 @@ Superposing two progressive waves gives a stationary wave when they share a freq
 
 **Air columns.** A loudspeaker (or a vibrating tuning fork) sends sound into a tube. The wave reflects from the far end and superposes with the incoming wave. At resonance the sound is noticeably loud.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
+</figure>
+
+
 ## Graphs of a stationary wave (4.4.4(b))
 
 A graph of displacement against position, for one instant, looks like a sine curve. Draw it again a quarter of a period later and every particle is at zero displacement, so the line is flat. After half a period you get the mirror image of the first graph. Between these times the curve rises and falls inside a fixed outline, the envelope. The envelope is the pair of curves showing the maximum displacement at each position.
@@ -81,6 +87,27 @@ A stationary wave on a string has an antinode amplitude of 6.0 mm. Nodes are at 
 
 Similarities to quote: both can be produced by the same source, and both have a wavelength and a frequency linked by the same speed of the progressive waves, v = f lambda.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--01-aphy-waves-phase.webp" width="900" height="1060" alt="A sound wave of 250 Hz and wavelength 1.36 m is drawn as a displacement-distance graph with points A to D. A and B are 0.34 m apart (quarter cycle, 90 degrees), A and C 0.68 m (half cycle, antiphase), A and D 1.36 m (one cycle, in phase). A second graph of displacement against time gives the period 4.0 ms." loading="lazy">
+  <figcaption>Phase difference is x/wavelength of a cycle; the distance graph gives wavelength, the time graph gives period.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--02-aphy-waves-polarisation.webp" width="900" height="1080" alt="Unpolarised light oscillates in every direction; a first Polaroid leaves one plane. A second Polaroid at 30 degrees transmits cos 30 of the amplitude, so 8.0 W per square metre becomes 6.0. Sound oscillates along its direction of travel, so there is nothing to filter. A small graph shows I = I0 cos squared theta (Cambridge only)." loading="lazy">
+  <figcaption>Only transverse waves can be polarised; sound cannot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--06-aphy-waves-two-source-interference.webp" width="900" height="1065" alt="Two in-phase coherent sources emit circular waves. Gold solid lines mark path difference n lambda (loud or bright); navy dashed lines mark (n + 1/2) lambda (quiet or dark). P lies at 2 lambda and is loud; Q lies at 1.5 lambda and is quiet. A loudspeaker example at 850 Hz confirms both." loading="lazy">
+  <figcaption>Path difference n lambda gives reinforcement; (n + 1/2) lambda gives cancellation.</figcaption>
+</figure>
+
+
 ## Nodes and antinodes (4.4.4(d)) and the lambda/2 rule (4.4.4(f))
 
 A **node** is a point of zero amplitude: the two waves are always in antiphase there and cancel. An **antinode** is a point of maximum amplitude: the two waves are always in phase and add.
@@ -96,6 +123,12 @@ A probe moved between a transmitter and a metal plate finds six successive minim
 3. f = v / lambda = 3.00 x 10^8 / 3.16 x 10^-2 = **9.5 x 10^9 Hz**.
 
 Counting minima instead of gaps is a very common slip. Measuring across many gaps also reduces the percentage uncertainty in lambda.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--09-aphy-waves-grating.webp" width="900" height="1060" alt="Two neighbouring slits show the path difference d sin theta between adjacent rays; a maximum occurs when it equals n lambda. For 300 lines per mm and 589 nm, d = 3.33 micrometres and maxima appear at 10.2, 20.7, 32.0, 45.0 and 62.1 degrees for orders 1 to 5 each side, so 11 maxima; the highest order is 5." loading="lazy">
+  <figcaption>Maxima occur where d sin theta = n lambda; the highest order is d/lambda rounded down.</figcaption>
+</figure>
+
 
 ## Patterns and harmonics (4.4.4(e)(i) and (g))
 
@@ -122,6 +155,12 @@ A string of length 0.64 m is fixed at both ends and vibrates at its fundamental 
 3. The 2nd and 3rd harmonics are 220 Hz and 330 Hz.
 4. In the 3rd harmonic, lambda = 2L/3 = 0.427 m, so adjacent nodes are 0.213 m apart. There are four nodes in all (two at the ends, two inside).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--04-aphy-waves-string-harmonics.webp" width="900" height="1060" alt="First, second and third harmonics on a string fixed at both ends have 1, 2 and 3 loops, with lambda = 2L/n. For L = 0.80 m, T = 40 N and mu = 2.5e-3 kg/m the wave speed is 126.5 m/s and the first harmonic is 79.1 Hz, giving 158 Hz and 237 Hz. Quadrupling the tension doubles the frequency." loading="lazy">
+  <figcaption>Harmonic n has n loops and frequency n times the first; f1 = (1/2l)sqrt(T/mu).</figcaption>
+</figure>
+
+
 ### Tube closed at one end
 
 The closed end is a node (air cannot move there). The open end is close to an antinode. The length holds an odd number of quarter-wavelengths.
@@ -146,6 +185,12 @@ A tube is 0.375 m long. Take the speed of sound as 340 m/s.
 - Open at both ends: f1 = v / 2L = 340 / 0.75 = **453 Hz**, with the 2nd harmonic at 907 Hz.
 
 The same tube therefore sounds an octave higher when it is open, because its fundamental frequency doubles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--05-aphy-waves-air-columns.webp" width="900" height="1080" alt="Displacement patterns for a tube 0.375 m long: closed at one end it has a node at the closed end and an antinode at the open end, giving only odd harmonics (227, 680, 1130 Hz). Open at both ends it has antinodes at each end and all harmonics (453, 907 Hz), so it sounds an octave higher." loading="lazy">
+  <figcaption>A closed tube supports only odd harmonics; an open tube has twice the fundamental frequency.</figcaption>
+</figure>
+
 
 ## Speed of sound with a resonance tube (4.4.4(e)(ii), PAG5)
 

@@ -82,11 +82,23 @@ Name the change and the error it reduces.
 - Range: wide, with even spacing. A narrow range gives a poor gradient and says nothing outside it.
 - Repeats: average to cut random error. They do not remove a systematic error.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-planning-an-experiment-and-evaluating-partial--02-range-narrow-wide.webp" width="900" height="1090" alt="Two T squared against L graphs with the same uncertainty. The narrow range allows gradients from about 3.0 to 5.0 s squared per metre; the wide range from about 3.9 to 4.2." loading="lazy">
+  <figcaption>A wide range of lengths fixes the gradient far better than a narrow one.</figcaption>
+</figure>
+
+
 ### Significant figures
 
 - Raw readings keep the instrument resolution, with trailing zeros kept.
 - A calculation cannot have more significant figures than its data.
 - Keep decimal places consistent in a column of raw readings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-planning-an-experiment-and-evaluating-partial--04-sig-fig-table-fix.webp" width="900" height="1070" alt="The student table and the corrected table of pendulum results side by side, with changed cells highlighted. L gains trailing zeros, 20T is restored to 25.38 and 35.88, and T and T squared are given to 4 significant figures, keeping the 0 in 1.610." loading="lazy">
+  <figcaption>Raw readings keep instrument resolution and calculated values keep 4 significant figures, including trailing zeros.</figcaption>
+</figure>
+
 
 ### Units
 
@@ -98,6 +110,12 @@ Check each heading. Area is m², density is kg m⁻³, spring constant is N m⁻
 2. Re-read and repeat the measurement.
 3. Compare it with the value the line predicts.
 4. Keep it if the repeat still sits off the line, because the physics may change there.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-planning-an-experiment-and-evaluating-partial--03-check-off-line-point.webp" width="900" height="950" alt="A straight T squared against L line has one point well above it. Re-read the instrument, repeat the measurement and compare with the line: if the repeat fits, the first reading was a mistake; if not, the relationship may really change there." loading="lazy">
+  <figcaption>Check an off-line point; do not delete it.</figcaption>
+</figure>
+
 
 ## Log graphs
 
@@ -116,6 +134,12 @@ Gradient = (0.303 − (−0.046))/(0.000 − (−0.699)) = 0.349/0.699 = 0.50.
 
 So T ∝ L^0.50. The intercept is lg k = 0.303, so k = 10^0.303 = 2.0 s m^(−1/2).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-planning-an-experiment-and-evaluating-partial--03-pendulum-t2-against-l.webp" width="900" height="1000" alt="Graph of T squared against L for five points from (0.250, 1.006) to (1.000, 4.024) on a straight line through the origin. The gradient is 3.018/0.750 = 4.024 s^2 per metre, so g = 4 pi^2/4.024 = 9.81 m s^-2." loading="lazy">
+  <figcaption>A straight line through the origin shows T² ∝ L, and the gradient gives g.</figcaption>
+</figure>
+
+
 ### Worked reminder: exponential
 
 A capacitor discharges through a resistor. The readings are:
@@ -128,6 +152,12 @@ A capacitor discharges through a resistor. The readings are:
 Gradient = (0.122 − 1.792)/(25 − 0) = −0.0668 s⁻¹. Since V = V₀ e^(−t/RC), the gradient is −1/RC, so RC = 1/0.0668 = 15.0 s. The intercept 1.792 gives V₀ = e^1.792 = 6.00 V.
 
 Check: 75 kΩ × 200 μF = 15.0 s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-planning-an-experiment-and-evaluating-partial--04-loglog-boyle.webp" width="900" height="990" alt="Graph of lg p against lg V for six points on a straight line. A triangle has change in x 0.48 and change in y -0.48, so the gradient is -1.00 and p is proportional to 1/V (Boyle's law). lg k = 3.48 gives k = 3.0 x 10^3 kPa cm^3." loading="lazy">
+  <figcaption>A gradient of -1 on a log graph shows p ∝ 1/V.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -162,6 +192,22 @@ Check: 75 kΩ × 200 μF = 15.0 s.
 8. Hold two set squares against the cylinder on a flat surface and read the distance between them with a rule, or use vernier callipers.
 9. A log needs a pure number. Plot lg (V / cm³) instead.
 10. The curve becomes a straight line, so a gradient of −1 shows p ∝ 1/V directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--01-zero-error-micrometer.webp" width="900" height="1010" alt="A micrometer with its jaws closed reads +0.02 mm instead of 0.00 mm. A wire reading of 1.5 mm on the sleeve plus 0.27 mm on the thimble is 1.77 mm. On a zoomed number line an arrow moves 1.77 back by 0.02 mm to the true diameter 1.75 mm. The error is systematic, so repeats do not remove it." loading="lazy">
+  <figcaption>A positive zero error is subtracted from every reading; repeating does not remove it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--03-pendulum-period.webp" width="900" height="1010" alt="A pendulum swings from A to B and back, one oscillation. Bars compare timing one oscillation (0.92 s) with 20 oscillations (18.4 s) against the same 0.2 s reaction-time error, which is 22% of one period but 1.1% of the long time. Period = 18.4 / 20 = 0.92 s." loading="lazy">
+  <figcaption>Timing many oscillations and dividing shrinks the effect of reaction-time error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--03-gradient-large-triangle.webp" width="900" height="1010" alt="Graph of v squared against s with six points and a best-fit line through the origin. A large triangle from (0.20, 0.80) to (1.20, 4.76) has base 1.00 m and height 3.96. The gradient is 3.96 m s^-2 and, since v^2 = 2as, a = 1.98 m s^-2." loading="lazy">
+  <figcaption>Take the gradient from two points far apart on the best-fit line, then halve it to get a.</figcaption>
+</figure>
+
 
 ## Worked reminder: planning numbers
 

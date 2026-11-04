@@ -37,6 +37,22 @@ Related pages: [revision notes](/resources/ocr-a-level-mathematics-indices-surds
 | 1.02h | Express solutions with "and", "or", set notation and interval notation | 1 |
 | 1.02i | Represent linear and quadratic inequalities as regions | 1 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--06-discriminant-graphs.webp" width="900" height="1150" alt="Three upward parabolas y = x squared - 6x + c. With c = 5 the discriminant is 16 and the curve crosses the x-axis at x = 1 and 5; with c = 9 it is 0 and the curve touches at x = 3; with c = 13 it is -16 and the curve stays above the axis." loading="lazy">
+  <figcaption>The sign of b squared minus 4ac says whether the parabola crosses, touches or misses the x-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--07-discriminant-in-k.webp" width="900" height="980" alt="Graph of D = 4(k-5)(k+2) against k. It is zero at k = -2 and k = 5, negative between them (no real roots) and positive outside (two distinct real roots)." loading="lazy">
+  <figcaption>With an unknown k, write the discriminant in k and read the ranges from its graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--08-complete-square-vertex.webp" width="900" height="890" alt="Graph of y = 4x squared + 8x - 3, equal to 4(x+1) squared - 7, with vertex (-1,-7) on the line x = -1, y-intercept (0,-3) and roots about 0.32 and -2.32. A grey dashed y = 4x squared shows the shift of 1 left and 7 down." loading="lazy">
+  <figcaption>Completed-square form a(x + p)^2 + q gives the vertex (-p, q) and the line of symmetry x = -p.</figcaption>
+</figure>
+
+
 ## 1.02a Indices
 
 The specification lists these laws, for all rational exponents:
@@ -70,6 +86,12 @@ Answer: 9x⁴/y⁶
 x = 125^(2/3)         raise both sides to the power 2/3
   = (³√125)² = 5² = 25
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--01-root-then-power.webp" width="900" height="880" alt="Three step-by-step pipelines. 64 to the 2/3: cube root gives 4, square gives 16. 1296 to the 3/4: fourth root gives 6, cube gives 216. (27/8) to the minus 2/3: flip to 8/27, cube root gives 2/3, square gives 4/9. A note reminds that 2 to the minus 3 is 1/8, not minus 8." loading="lazy">
+  <figcaption>For a fractional index take the root first, then the power; a negative index flips the fraction.</figcaption>
+</figure>
+
 
 ## 1.02b Surds
 
@@ -115,6 +137,17 @@ Answer: (23 + 10√2)/7
 3(√5 − √2) / [(√5 + √2)(√5 − √2)] = 3(√5 − √2)/(5 − 2) = √5 − √2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--04-like-surds.webp" width="900" height="760" alt="Bars built from blocks each of length root 2: root 50 is 5 blocks, root 98 is 7 blocks and 3 root 8 is 6 blocks taken away. 5 + 7 - 6 leaves 6 blocks, so the sum is 6 root 2." loading="lazy">
+  <figcaption>Surds with the same root combine like algebraic terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--05-conjugate-area.webp" width="900" height="890" alt="A square of side 5 loses a corner square of side 2 root 3 (area 12), leaving an L-shape of area 13. Moving the lower rectangle turns the L into a rectangle of width 5 minus 2 root 3 and height 5 plus 2 root 3, so the conjugate product is rational: 13." loading="lazy">
+  <figcaption>The conjugate pair multiplies to a rational number because (p - q)(p + q) = p squared minus q squared.</figcaption>
+</figure>
+
+
 ## 1.02c Simultaneous equations
 
 You may be given one linear and one quadratic equation. The method is always: rearrange the linear equation, substitute, solve the resulting quadratic, then substitute back to find the second variable. Brackets and fractions may appear, so clear them first.
@@ -148,6 +181,12 @@ Discriminant: 36 − 4(10 − k) = 4k − 4
 ```
 
 Two points when k > 1, a tangent when k = 1, and no intersection when k < 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--09-line-meets-curve.webp" width="900" height="980" alt="Parabola y = x squared - 4x + 10 with three parallel lines y = 2x + k. k = 3 cuts it twice (x = 3 plus or minus root 2), k = 1 touches it at (3, 7) and k = -1 misses it. The discriminant 4k - 4 is positive, zero or negative." loading="lazy">
+  <figcaption>The discriminant of the equation formed by equating a line and a curve tells you whether they cross, touch or miss.</figcaption>
+</figure>
+
 
 ## 1.02d The quadratic function and discriminant
 
@@ -240,6 +279,17 @@ Let u = √x:  u² − 7u + 10 = 0  →  u = 2 or 5  →  x = 4 or x = 25
 Let u = 1/(x − 1):  6u² − 5u − 1 = 0  →  (6u + 1)(u − 1) = 0
 u = 1 → x = 2        u = −1/6 → x − 1 = −6 → x = −5
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--02-same-base-indices.webp" width="900" height="920" alt="Two straight lines show the indices of 3 on each side of 9^(x+1) = 27^(2x-1): 2x+2 and 6x-3. They cross at x = 5/4 where both equal 4.5, which is the solution." loading="lazy">
+  <figcaption>When both sides are powers of the same base, equate the indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--03-hidden-quadratic.webp" width="900" height="1030" alt="Graph of 3^(2x) - 12 times 3^x + 27 crossing the x-axis at x = 1 and x = 2, with its lowest point -9. Below it, the substitution y = 3^x gives y = 3 or 9, and converting back gives x = 1 or 2." loading="lazy">
+  <figcaption>Substitute y = 3^x, solve the quadratic, then convert back to x.</figcaption>
+</figure>
+
 
 ## 1.02g Linear and quadratic inequalities
 

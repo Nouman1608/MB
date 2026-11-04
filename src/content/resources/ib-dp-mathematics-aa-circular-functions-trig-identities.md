@@ -99,6 +99,17 @@ Check: 40° + 121° = 161° < 180°, so both triangles exist.
 
 The side opposite the given angle (9 cm) is shorter than AC (12 cm) but longer than 12 sin 40° = 7.71 cm. That is the condition for two triangles. The two possible lengths of AB are 13.8 cm and 4.56 cm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--01-unit-circle-signs.webp" width="900" height="1030" alt="A unit circle with a 30 degree ray meeting the circle at (cos θ, sin θ) = (√3/2, 1/2). Reflecting the point gives π − θ, π + θ and 2π − θ with only the signs of the coordinates changing. The quadrants are marked all, sin, tan, cos for the positive ratios." loading="lazy">
+  <figcaption>The point on the unit circle is (cos θ, sin θ); reflections give the quadrant relationships and signs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--02-ambiguous-case.webp" width="900" height="910" alt="Angle A = 40 degrees, AC = 12, BC = 9. An arc of radius 9 about C cuts the ray from A twice, giving triangles with AB = 13.8 (B = 59.0 degrees) and AB = 4.56 (B = 121.0 degrees). 12 sin 40 = 7.71 &lt; 9 &lt; 12." loading="lazy">
+  <figcaption>When the side opposite the given angle lies between 12 sin A and 12, two triangles exist.</figcaption>
+</figure>
+
+
 ## 3.6 The Pythagorean and double angle identities
 
 Because (cos θ, sin θ) lies on the unit circle:
@@ -124,6 +135,12 @@ tan θ = (1/4) / (±√15/4) = ±1/√15 = ±√15/15
 ```
 
 Both signs survive because θ could be in the first or second quadrant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--03-sin-2x-triangle.webp" width="900" height="860" alt="A right triangle with cos x = 2/3 is reflected to form an isosceles triangle with apex angle 2x, sides 3, height 2 and base 2√5. Equating two area expressions gives sin 2x = 4√5/9, matching 2 sin x cos x." loading="lazy">
+  <figcaption>Reflecting the right triangle shows sin 2x = 2 sin x cos x geometrically for this example.</figcaption>
+</figure>
+
 
 ## 3.7 Circular functions and their graphs
 
@@ -152,6 +169,12 @@ Check: f(5) = 4 sin(3π/2) + 3 = −1
 ```
 
 In real-life models (tides, rotating wheels) read the parameters from the context: d is the mean level, a is half the range, and the period comes from the time for one cycle. The guide notes that not every regression tool produces a trig model in the form a sin(b(x + c)) + d, so check the form your GDC gives before comparing parameters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--04-sinusoid-parameters.webp" width="900" height="960" alt="f(x) = 4 sin((π/4)(x + 1)) + 3 with maximum (1, 7), minimum (5, −1), principal axis y = 3, amplitude 4 and period 8. A dotted 4 sin(πx/4) + 3 curve shows the shift left by 1." loading="lazy">
+  <figcaption>Amplitude, principal axis, period and shift are read directly from a maximum and the next minimum.</figcaption>
+</figure>
+
 
 ## 3.8 Solving trigonometric equations
 
@@ -188,6 +211,17 @@ Where an equation mixes sin x and cos 2x, replace cos 2x with 1 − 2sin²x to g
 
 On Paper 2, solve graphically when no algebraic route is expected. Graph each side and find the intersections inside the interval. For example, 3 sin 2x = x + 1 on 0 ≤ x ≤ π has solutions x = 0.207 and x = 1.17. Set the calculator to radians unless the question uses degrees, and write down the equation you graphed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--05-tan-2x-interval.webp" width="900" height="960" alt="y = tan 2x for 0 to 2π meets y = 1/√3 at four points: π/12, 7π/12, 13π/12 and 19π/12, spaced by the period π/2. Because 0 ≤ 2x ≤ 4π there are four solutions." loading="lazy">
+  <figcaption>Doubling the angle doubles the interval, so the solutions repeat every π/2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--06-quadratic-in-sin.webp" width="900" height="940" alt="The graph of y = 2cos²x + sin x − 1 for 0 to 360 degrees crosses the axis at 210 and 330 degrees and touches it at 90 degrees. Substituting cos²x = 1 − sin²x gives (2 sin x + 1)(sin x − 1) = 0." loading="lazy">
+  <figcaption>The repeated root at 90 degrees shows as a touch, not a crossing.</figcaption>
+</figure>
+
+
 ## 3.9 Reciprocal ratios and inverse functions (HL only)
 
 - sec θ = 1/cos θ, cosec θ = 1/sin θ, cot θ = cos θ / sin θ = 1/tan θ
@@ -214,6 +248,12 @@ Each inverse uses a restricted domain of the original function so that it is one
 
 Each graph is the reflection of the restricted original in y = x. arctan x has horizontal asymptotes y = ±π/2. So arcsin(−√3/2) = −π/3, arccos(−√2/2) = 3π/4 and arctan(−1) = −π/4. To find sin(arccos(1/3)), let θ = arccos(1/3); then θ is in [0, π], so sin θ ≥ 0 and sin θ = √(1 − 1/9) = 2√2/3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--07-inverse-ranges.webp" width="900" height="1275" alt="Graphs of arcsin, arccos and arctan with their ranges shaded. Marked points show arcsin(−√3/2) = −π/3, arccos(−√2/2) = 3π/4 (positive) and arctan(−1) = −π/4; arctan has asymptotes y = ±π/2." loading="lazy">
+  <figcaption>Each inverse returns an angle from its restricted range; arccos never returns a negative angle.</figcaption>
+</figure>
+
+
 ## 3.10 Compound angle identities (HL only)
 
 - sin(A ± B) = sin A cos B ± cos A sin B
@@ -234,6 +274,12 @@ sin(60° + 45°) = sin 60° cos 45° + cos 60° sin 45°
              = (√6 + √2)/4
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--08-compound-angle-construction.webp" width="900" height="930" alt="A unit segment OP at angle A + B (105 degrees) with Q on the ray at angle A. The vertical to P has two parts, sin A cos B and cos A sin B, which sum to sin(A + B); numerically 0.9659 = 0.6124 + 0.3536." loading="lazy">
+  <figcaption>A right-angled construction shows where the two terms of sin(A + B) come from.</figcaption>
+</figure>
+
+
 ## 3.11 Symmetry of the graphs (HL only)
 
 The graph of sin x is symmetric about x = π/2, so sin(π − θ) = sin θ. The graph of cos x has rotational symmetry about (π/2, 0), so cos(π − θ) = −cos θ, and hence tan(π − θ) = −tan θ. cos x is an even function and sin x and tan x are odd functions. You can confirm each result with compound angles:
@@ -243,6 +289,12 @@ cos(π − θ) = cos π cos θ + sin π sin θ = (−1)cos θ + 0 = −cos θ
 ```
 
 These results let you write a solution set quickly. If sin x = k has one solution α in [0, π/2], the other in [0, π] is π − α.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--09-graph-symmetry.webp" width="900" height="1140" alt="Top: y = sin x on 0 to π is mirror-symmetric about x = π/2, so sin(π − θ) = sin θ. Bottom: y = cos x has half-turn symmetry about (π/2, 0), so cos(π − θ) = −cos θ and hence tan(π − θ) = −tan θ." loading="lazy">
+  <figcaption>The graphs of sine and cosine show why π − θ gives the same or opposite value.</figcaption>
+</figure>
+
 
 ## Common errors
 

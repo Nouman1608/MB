@@ -39,6 +39,12 @@ Next, try the [practice questions](/resources/oxfordaqa-igcse-mathematics-angle-
 
 Tick marks show equal sides. Arrowheads show parallel lines. Diagrams may not be drawn to scale.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--07-notation-sides-angles-parallel-perpendicular.webp" width="900" height="1020" alt="Triangle ABC with side a opposite A, b opposite B and c opposite C, and the angle ABC marked at B between BA and BC. Two small diagrams show AB parallel to CD with matching arrowheads and AB perpendicular to CD with a right-angle square." loading="lazy">
+  <figcaption>The middle letter of an angle name is its vertex, each side is named after the opposite vertex, and arrowheads and squares mark parallel and perpendicular lines.</figcaption>
+</figure>
+
+
 ## G2: Angles at a point and on a line
 
 | Fact | Rule |
@@ -51,6 +57,12 @@ Tick marks show equal sides. Arrowheads show parallel lines. Diagrams may not be
 **Method.** Mark every known angle on the diagram. Write the sum as an equation. Solve it. Write the reason beside each line.
 
 **Reminder.** Angles of 130°, 85° and 70° meet at a point with a fourth angle. The fourth is 360 − 285 = 75°.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--01-angle-rules-point-line-opposite.webp" width="900" height="1170" alt="Figure showing: Angles at a point (120+75+65+100), on a straight line (105+75) and vertically opposite (75=75, 105=105). Angles at a point add to 360°, on a line to 180°, and vertically opposite angles are equal." loading="lazy">
+  <figcaption>Angles at a point add to 360°, on a line to 180°, and vertically opposite angles are equal.</figcaption>
+</figure>
+
 
 ## G3: Parallel lines
 
@@ -70,6 +82,12 @@ Use the full names in your reasons. The specification asks for alternate, corres
 
 **Reminder.** Parallel lines PQ and RS are crossed by a transversal. One interior angle is 107°, so the other is 180 − 107 = 73°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--01-parallel-line-angles.webp" width="900" height="1220" alt="Three panels of two parallel lines cut by a transversal. Corresponding angles are both 65 degrees. Alternate angles are both 115 degrees. Co-interior angles are 65 and 115 degrees, adding to 180. With a 65 degree transversal: corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add to 180 degrees (C)." loading="lazy">
+  <figcaption>Corresponding and alternate angles are equal; co-interior angles add to 180°.</figcaption>
+</figure>
+
+
 ## G3: Triangles
 
 | Fact | Rule |
@@ -87,6 +105,17 @@ Use the full names in your reasons. The specification asks for alternate, corres
 
 **Reminder.** Two angles of a triangle are 52° and 67°. The third is 180 − 119 = 61°, so the triangle is scalene and acute-angled.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--02-exterior-angle-triangle.webp" width="900" height="700" alt="Figure showing: Isosceles triangle with apex 48 and base angles 66; extending BC gives an exterior angle of 114, equal to 48+66. An exterior angle equals the sum of the two interior opposite angles (Example 5 numbers)." loading="lazy">
+  <figcaption>An exterior angle equals the sum of the two interior opposite angles (Example 5 numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--06-triangle-types-sides-and-angles.webp" width="900" height="1320" alt="Equilateral, isosceles and scalene triangles shown by their equal sides with tick marks, and right-angled, acute-angled and obtuse-angled triangles shown with their angles. A final triangle with angles 45, 45 and 90 is both isosceles and right-angled." loading="lazy">
+  <figcaption>Triangles are named by their sides or by their angles, and one triangle can have two names.</figcaption>
+</figure>
+
+
 ## G3 and G5: Quadrilaterals
 
 Angles in any quadrilateral add up to 360°.
@@ -101,6 +130,12 @@ Angles in any quadrilateral add up to 360°.
 | Trapezium | one pair of parallel sides |
 
 **Reminder.** A kite has angles 84°, 112°, x and 112°. Then x = 360 − 308 = 52°. The two 112° angles are the equal pair, so x is the odd one out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--03-special-quadrilaterals.webp" width="900" height="1280" alt="Figure showing: Square, rectangle, parallelogram, rhombus, kite and trapezium drawn with equal-side ticks, parallel chevrons and dashed diagonals showing which diagonals are equal, bisect or cross at 90 degrees. Each special quadrilateral with its equal sides and diagonal properties." loading="lazy">
+  <figcaption>Each special quadrilateral with its equal sides and diagonal properties.</figcaption>
+</figure>
+
 
 ## G4: Polygons
 
@@ -125,6 +160,17 @@ Angles in any quadrilateral add up to 360°.
 **Method for finding n.** If you are given an interior angle of a regular polygon, subtract it from 180° to get the exterior angle, then divide 360° by that.
 
 **Reminder.** A regular polygon has interior angle 165°. Exterior angle = 15°, so n = 360 ÷ 15 = 24.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--04-polygon-triangles-angle-sum.webp" width="900" height="1010" alt="Figure showing: A heptagon splits into 5 triangles from one vertex, so interior angles total 900 degrees; smaller polygons with 3 to 7 sides split into 1 to 5 triangles. A polygon with n sides splits into n − 2 triangles, so its angles sum to (n − 2) × 180°." loading="lazy">
+  <figcaption>A polygon with n sides splits into n − 2 triangles, so its angles sum to (n − 2) × 180°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--02-regular-polygon-angles.webp" width="900" height="1070" alt="A regular hexagon with exterior angles of 60 degrees marked and one interior angle of 120 degrees. Six 60 degree wedges form a full circle of 360 degrees. Interior angle is 180 minus 60. A regular hexagon has six exterior angles of 60 degrees which fit round a point to make 360 degrees, so each interior angle is 120 degrees." loading="lazy">
+  <figcaption>Exterior angles add to 360°, so a regular hexagon has interior angles of 120°.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

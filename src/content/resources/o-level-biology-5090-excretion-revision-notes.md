@@ -65,11 +65,23 @@ amino acids absorbed in small intestine
 - Urea is made in the **liver**, not the kidneys.
 - The rest of a deaminated amino acid can be used, for example in respiration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--07-liver-urea-route.webp" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine." loading="lazy">
+  <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea.</figcaption>
+</figure>
+
+
 ## 13.2.2 Why urea must be excreted
 
 - **Urea is toxic.**
 - The liver keeps making it, so without excretion its concentration in the blood would keep rising and damage cells.
 - That is the only reason the syllabus asks for here: keep the answer on toxicity of urea.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--08-urea-toxic.webp" width="900" height="980" alt="Two panels compare blood, tissue fluid and a cell. When the kidneys remove urea, little urea is present and the cell is healthy. If urea is not removed, many urea particles build up in blood and tissue fluid and the cell is damaged." loading="lazy">
+  <figcaption>Urea is toxic, so it must be removed before it builds up and damages cells.</figcaption>
+</figure>
+
 
 ## 13.2.1 The urinary system
 
@@ -83,6 +95,12 @@ amino acids absorbed in small intestine
 **Memory hook:** ure**t**er comes **t**wo-by-two from the kidneys; ure**th**ra goes to **th**e outside.
 
 **Blood supply:** renal artery in (more urea), renal vein out (less urea).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--02-urinary-system.webp" width="900" height="975" alt="Two kidneys lie either side of the spine. A ureter runs from each kidney to the bladder, which stores urine, and one urethra carries urine out. Arrowheads show urine flowing kidney, ureter, bladder, urethra." loading="lazy">
+  <figcaption>Urine flows kidney, ureter, bladder, urethra: two ureters, one urethra.</figcaption>
+</figure>
+
 
 ## 13.2.3 Nephron: parts in order
 
@@ -101,6 +119,17 @@ amino acids absorbed in small intestine
 | Tubules | Coiled tubes before and after the loop |
 | Loop of Henle | U-shaped section |
 | Collecting duct | Shared tube draining many nephrons |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--11-nephron-with-loop-of-henle.webp" width="900" height="930" alt="A nephron in the order fluid passes: Bowman's capsule round the glomerulus, first coiled tubule, loop of Henle, second coiled tubule, collecting duct to the ureter. Blood: arteriole in, arteriole out, capillaries round the tubules to the renal vein." loading="lazy">
+  <figcaption>The parts of a nephron, including the loop of Henle, and its blood vessels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--04-nephron.webp" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct." loading="lazy">
+  <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct.</figcaption>
+</figure>
+
 
 ## 13.2.4 Nephron: what happens (outline only)
 
@@ -121,6 +150,12 @@ Details of how filtration and reabsorption happen are not required.
 | Urea | Yes | Yes | Yes, much more concentrated |
 | Ions | Yes | Yes | Yes (the excess) |
 | Water | Yes | Yes | Yes (a small fraction of what was filtered) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--01-excretion-or-egestion.webp" width="900" height="960" alt="A body outline shows the lungs excreting carbon dioxide and the kidneys excreting urea, excess water and excess ions. The gut egests faeces, which are undigested food that was never inside cells. Excretion is labelled in teal and egestion in copper." loading="lazy">
+  <figcaption>Lungs and kidneys excrete cell waste; the gut egests undigested food.</figcaption>
+</figure>
+
 
 ### Small worked reminders
 
@@ -153,6 +188,12 @@ Short model answers you can adapt. Each line is one separate point.
 **"Explain why blood in the renal vein has less urea than blood in the renal artery."**
 - Urea is filtered out of the blood in the glomerulus.
 - It is not reabsorbed, so it leaves in urine instead of returning to the blood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--13-carbon-dioxide-route-to-lungs.webp" width="900" height="980" alt="Four steps: body cells make carbon dioxide in respiration, it diffuses into plasma and is carried to the lungs, diffuses into the alveoli, and is breathed out." loading="lazy">
+  <figcaption>Carbon dioxide travels from cells in plasma to the lungs and is breathed out.</figcaption>
+</figure>
+
 
 ## Links to other topics
 
@@ -200,6 +241,22 @@ Short model answers you can adapt. Each line is one separate point.
 10. Glucose.
 11. Urea is toxic; if it built up in the blood it would damage cells.
 12. (180 − 1.8) ÷ 180 × 100 = **99%**; 24 ÷ 0.4 = **60 times**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--08-o-plasma-filtrate-urine.webp" width="900" height="1095" alt="Bar charts of protein (70, 0, 0), glucose (1.0, 1.0, 0) and urea (0.30, 0.30, 18) g per dm cubed in plasma, filtrate and urine; urea is 60 times more concentrated in urine." loading="lazy">
+  <figcaption>Uses the lesson table values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--09-o-water-reabsorbed.webp" width="900" height="816" alt="120 squares of filtrate per minute: 118.8 reabsorbed, 99.0 percent, and 1.2 leave as urine. Per day 172.8 dm cubed filtered and 1.728 dm cubed urine." loading="lazy">
+  <figcaption>Uses the lesson figures of 120 and 1.2 cm3 per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--12-urea-rise-500-percent.webp" width="900" height="900" alt="Blood urea rises from 0.25 to 1.5 g per dm3 in five days with failed kidneys: an increase of 1.25, which is 500 percent. The liver still makes urea and the kidneys do not remove it." loading="lazy">
+  <figcaption>Blood urea rose by 500% in five days when the kidneys stopped working.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

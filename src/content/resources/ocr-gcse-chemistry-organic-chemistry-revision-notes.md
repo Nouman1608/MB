@@ -74,11 +74,38 @@ H — C — C — O — H
 
 **C6.2i in one line:** compounds with the same functional group react the same way, whatever the chain length.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
+  <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--02-functional-groups.webp" width="900" height="1170" alt="Displayed formulae of ethane, ethene, ethanol and ethanoic acid with the key feature highlighted (single C-C bonds only, C=C, -OH, -COOH) and each series general formula evaluated for the shown n." loading="lazy">
+  <figcaption>The functional group decides the series and its chemistry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--02-alkane-alkene-structure.webp" width="900" height="830" alt="Displayed formulae of ethane and ethene. Ethane has only single bonds, so it is saturated, general formula CnH2n+2 (C2H6). Ethene has a C=C double bond, so it is unsaturated, general formula CnH2n (C2H4). Every carbon makes four bonds." loading="lazy">
+  <figcaption>Ethane has only single bonds; ethene has a C=C double bond.</figcaption>
+</figure>
+
+
 ## CM6.2i: 3D and 2D
 
 - Displayed formulae are flat; real carbon atoms with four single bonds are tetrahedral, about 109.5°.
 - Diamond: 3D network, each carbon bonded to four others. Graphite: flat hexagonal layers.
 - Molecular model kits link the two: build from a drawing, draw from a model.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--01-un112-tetra-3d-2d.webp" width="900" height="1020" alt="Methane drawn in 3D with one wedge bond, two dashed bonds and one bond in the page, then as a flat displayed formula with 90 degree bonds. Underneath, a carbon with four bonds is diamond-like and one with three bonds is graphite-like." loading="lazy">
+  <figcaption>Flat displayed formulae use 90 degrees even though the real bond angle is 109.5 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--01-displayed-formula.webp" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH (Extended), and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
+  <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae.</figcaption>
+</figure>
+
 
 ## C6.2c: reactions
 
@@ -98,6 +125,32 @@ H — C — C — O — H
 
 Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; subtract 1 in the alcohol, leaving 9, so 4½O₂. Doubled: **2C₃H₇OH + 9O₂ → 6CO₂ + 8H₂O**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--02-un112-butanol-mass.webp" width="900" height="990" alt="A four-step ladder from 3.70 g of butan-1-ol to 8.80 g of carbon dioxide: divide by Mr 74, multiply by 4 from the equation, multiply by 44." loading="lazy">
+  <figcaption>Mass to moles to moles to mass for burning butan-1-ol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--05-bromine-water-test.webp" width="900" height="1030" alt="Two rows of test tubes. Orange bromine water shaken with an alkane (ethane) stays orange. Shaken with an alkene (ethene) it turns colourless, because bromine adds across the C=C double bond." loading="lazy">
+  <figcaption>Alkane: stays orange. Alkene: orange to colourless.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--06-alkene-addition.webp" width="900" height="1060" alt="Ethene reacts by addition three ways. With bromine it gives 1,2-dibromoethane, with hydrogen (nickel catalyst) it gives ethane, and with steam (acid catalyst) it gives ethanol. The C=C bond becomes single and the added atoms, highlighted, attach to the two carbons. Only one product forms each time." loading="lazy">
+  <figcaption>Ethene adds Br2, H2 or H2O across C=C to give one product each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--05-ethanol-oxidation.webp" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
+  <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--04-combustion-products.webp" width="900" height="1060" alt="With plenty of oxygen carbon burns to carbon dioxide. With too little oxygen it makes toxic carbon monoxide and soot particulates instead." loading="lazy">
+  <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
+</figure>
+
+
 ## C6.2d, C6.2g: addition polymers
 
 - Monomer has a C=C; the double bond opens and monomers join.
@@ -112,6 +165,12 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 | poly(but-1-ene) | but-1-ene, CH₂=CHC₂H₅ | –[CH₂–CH(C₂H₅)]– |
 | poly(ethene) | ethene, CH₂=CH₂ | –[CH₂–CH₂]– |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
+</figure>
+
+
 ## C6.2e, C6.2f: condensation polymers (Higher Tier only)
 
 - Each monomer has **two** functional groups; one group per monomer would end the chain.
@@ -119,6 +178,22 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 - Polyester: diol + dicarboxylic acid, ester links. Polyamide (nylon): diamine + dicarboxylic acid, amide links.
 - Block diagram, polyester: n HO–●–OH + n HOOC–■–COOH → –[O–●–O–OC–■–CO]ₙ– + 2n H₂O.
 - Making nylon: 1,6-diaminohexane in water, with hexanedioyl dichloride in cyclohexane layered on top. Nylon forms where the layers meet; pull it out with tweezers and wind it on a rod. The small molecule here is hydrogen chloride. Gloves and eye protection; no flames near cyclohexane.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--03-un112-nylon-rope.webp" width="900" height="920" alt="A beaker with aqueous diamine below and cyclohexane plus diacid chloride above; nylon film forms at the boundary and is wound onto a rod. HCl, not water, is the small molecule released." loading="lazy">
+  <figcaption>Nylon forms as a film where the two layers meet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--04-addition-vs-condensation.webp" width="900" height="1150" alt="Addition: monomers with C=C join into a chain and nothing else is made. Condensation: monomers with an end group at both ends join into a chain and a water molecule is given off at every join." loading="lazy">
+  <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--06-nylon-and-pet.webp" width="900" height="830" alt="Nylon is a diacid and a diamine alternating, joined by CO-NH and NH-CO amide links. PET is a diacid and a diol alternating, joined by CO-O and O-CO ester links. Each link releases water and each repeat unit contains two links." loading="lazy">
+  <figcaption>Nylon and PET follow the same pattern; only the second monomer and the link change.</figcaption>
+</figure>
+
 
 ## C6.2h: natural polymers
 
@@ -128,6 +203,17 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 | Starch, cellulose | sugars (glucose) |
 | Proteins | amino acids |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--07-proteins.webp" width="900" height="1140" alt="Three amino acid monomers, each with an NH2 end and a COOH end, join into a chain. Each join is a CO-NH peptide bond and releases water. A comparison shows nylon uses two monomers while a protein uses one monomer carrying both groups." loading="lazy">
+  <figcaption>Proteins are condensation polymers of amino acids joined by peptide (amide) bonds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--11-aqa-natural-polymers.webp" width="900" height="1010" alt="Four rows show natural polymers as chains of beads. DNA is two chains in a double helix, made from four different monomers called nucleotides, drawn as four different bead shapes. A protein is a chain of amino acids, drawn as beads of different colours. Starch is a chain of glucose, a sugar, drawn as identical beads labelled G." loading="lazy">
+  <figcaption>DNA, proteins, starch and cellulose are chains built from nucleotides, amino acids and glucose.</figcaption>
+</figure>
+
+
 ## C6.2j–C6.2n: crude oil
 
 - Crude oil: a mixture of hydrocarbons, mostly **alkanes**, CₙH₂ₙ₊₂.
@@ -136,6 +222,12 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 - Bigger molecules: stronger intermolecular forces, higher boiling point, collected lower.
 - Crude oil supplies fuels and is the **feedstock** for plastics, solvents and many other products.
 - It is **finite**: it formed over millions of years and is used much faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--01-fractional-distillation.webp" width="900" height="1000" alt="A fractionating column is hotter at the bottom and cooler at the top, with crude oil entering near the bottom. Eight fractions leave at different heights: refinery gas, gasoline, naphtha, kerosene, diesel oil, fuel oil, lubricating oil and bitumen, each with its use. Going up, chains get shorter, boiling points lower, fractions more volatile and less viscous." loading="lazy">
+  <figcaption>Fractions leave the column at different heights; shorter chains with lower boiling points rise higher.</figcaption>
+</figure>
+
 
 ## C6.2o: cracking
 
@@ -149,6 +241,17 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 2. Share what is left between the missing molecules.
 3. Check the hydrogen-to-carbon ratio: 2n means alkene.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--01-u2061-cracking-c15.webp" width="900" height="975" alt="A chain of 15 carbon atoms (C15H32) is cut into a 9-carbon alkane, C9H20, and two 3-carbon propene molecules, C3H6, each with a C=C double bond. Carbon left is 15 - 9 = 6, so 3 each; hydrogen left is 32 - 20 = 12, so 6 each. Equation: C15H32 -&gt; C9H20 + 2 C3H6." loading="lazy">
+  <figcaption>Subtract the known product from C15H32 and share the rest between the two identical molecules: each is C3H6, propene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--03-cracking.webp" width="900" height="1050" alt="A ten-bead chain, decane C10H22, passes into a cracking vessel that needs high temperature and a catalyst. Out come octane C8H18, a shorter alkane, and ethene C2H4, an alkene. Atoms balance: 10 C and 22 H on both sides. Cracking is done because short chains and alkenes are in higher demand than distillation supplies." loading="lazy">
+  <figcaption>Heat and a catalyst crack decane into octane and ethene.</figcaption>
+</figure>
+
+
 ## C6.2p, C6.2q: cells and fuel cells
 
 - Chemical cell: gives a potential difference until the reactants run out.
@@ -156,6 +259,17 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 - Hydrogen/oxygen (acidic electrolyte): H₂ → 2H⁺ + 2e⁻ at the negative electrode; O₂ + 4H⁺ + 4e⁻ → 2H₂O at the positive; overall 2H₂ + O₂ → 2H₂O.
 - For: only water at the point of use, continuous running, quiet.
 - Against: hydrogen storage and flammability, hydrogen often made from fossil fuels, high cost, few filling stations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--04-un112-fuel-cell-halves.webp" width="900" height="920" alt="Hydrogen enters at the negative electrode and oxygen at the positive, with an acid electrolyte between. Electrons go round the external circuit and H+ ions through the electrolyte; both half-equations and the overall equation are shown." loading="lazy">
+  <figcaption>Half-equations at each electrode of the acidic hydrogen fuel cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--07-fuel-cell.webp" width="900" height="1040" alt="Hydrogen enters on one side and oxygen on the other, either side of an electrolyte between two electrodes. Electrons pass through a motor in an external circuit, and water is the only chemical product." loading="lazy">
+  <figcaption>A fuel cell turns hydrogen and oxygen into electricity, with water the only chemical product.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

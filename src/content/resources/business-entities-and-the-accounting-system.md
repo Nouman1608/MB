@@ -91,6 +91,17 @@ company** offers limited liability and easier access to larger amounts of
 capital, but involves more regulation, disclosure requirements, and (for
 a plc) a loss of some control as ownership spreads across shareholders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--02-liability.webp" width="900" height="870" alt="With illustrative numbers, debts of 50,000 pounds exceed business assets of 20,000 pounds by 30,000. A sole trader's own assets can be used to pay the shortfall, while a limited company shareholder loses at most the 10,000 pounds invested." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+
 ## Sources of finance
 
 Businesses fund their activities and assets through several routes named
@@ -102,6 +113,17 @@ and **trade credit** (buying goods now, paying the supplier later).
 Understanding types of business entity is expected to inform which of
 these sources of finance is realistic or appropriate for a given business
 to use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--03-finance-access.webp" width="900" height="1086" alt="A grid shows which of seven named sources each ownership type can use: owner's capital for sole traders, partners' capital for partnerships, shares and debentures for limited companies (mainly large-scale for plcs), and overdraft, loan and mortgage for all. A Cambridge-only box names instalments, leasing, trade credit and secured/unsecured loans." loading="lazy">
+  <figcaption>Match each source of finance to the ownership types that can realistically use it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
+</figure>
+
 
 ## The double entry system and the accounting equation
 
@@ -125,6 +147,12 @@ Every transaction affects this equation in a way that keeps both sides
 equal — the foundational principle the rest of the syllabus's
 double-entry work is built on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--05-accounting-equation.webp" width="900" height="966" alt="Three transactions are shown with two equal bars each: assets on top and liabilities plus capital below. Owner capital of 10,000, then equipment bought for 4,000 cash, then 2,000 of stock bought on credit raising both sides to 12,000." loading="lazy">
+  <figcaption>Every transaction keeps assets equal to liabilities plus capital.</figcaption>
+</figure>
+
+
 ## Books of prime entry
 
 Rather than recording every transaction directly into the main ledger,
@@ -143,6 +171,12 @@ From these books of prime entry, transactions are posted into **ledger
 accounts**, and a **trial balance** is then prepared — a list of all
 ledger balances, used to check that total debits equal total credits
 before financial statements are prepared.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--06-prime-entry-trial-balance.webp" width="900" height="1250" alt="Six books of prime entry feed ledger accounts, which feed a trial balance. The example trial balance has debits of 12,000 (cash, equipment, stock) equal to credits of 12,000 (capital, creditors). Equal totals do not prove the absence of errors." loading="lazy">
+  <figcaption>Transactions flow from books of prime entry to ledgers to a trial balance that checks debits equal credits.</figcaption>
+</figure>
+
 
 ## Fundamental accounting concepts
 
@@ -163,6 +197,12 @@ answering a different question about how a transaction should be treated:
 | Objectivity | Accounts are prepared free from personal bias, based on verifiable evidence |
 | Matching/accruals | Income and expenses are recorded in the period they relate to, not when cash moves |
 | Substance over form | Transactions are recorded according to their real economic substance, not just their legal form |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--07-earned-not-paid.webp" width="900" height="910" alt="In an illustrative example, a 500 pound March credit sale and 300 pounds of March rent are recorded in March, giving 200 pounds profit, while the cash moves in April." loading="lazy">
+  <figcaption>Income and expenses are recorded in the period they relate to, not when cash moves.</figcaption>
+</figure>
+
 
 ## Computerised accounting systems
 

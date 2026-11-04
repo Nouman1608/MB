@@ -112,6 +112,22 @@ Venn diagram or table directly — identifying the reduced sample space
 implied by the given condition — rather than applying an algebraic
 rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--02-tree-with-replacement.webp" width="900" height="1070" alt="Bag of 5 red and 3 blue, two draws with replacement. Branches are 5/8 and 3/8 both times; ends RR 25/64, RB 15/64, BR 15/64, BB 9/64. One of each is 15/64+15/64 = 15/32." loading="lazy">
+  <figcaption>With replacement the second branches repeat the first; multiply along paths and add the paths you want.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--04-conditional-venn.webp" width="900" height="910" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
+  <figcaption>Given a condition, only the part of the diagram that satisfies it counts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
+  <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
+</figure>
+
+
 ## Worked example: without-replacement tree diagram (Extended)
 
 A bag contains 5 red and 3 blue counters. Two counters are drawn
@@ -131,6 +147,12 @@ question is that the second fraction's denominator drops from 8 to 7
 (one counter fewer overall) and its numerator drops from 5 to 4 (one
 fewer red counter), since the first counter drawn is not returned to
 the bag.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--03-tree-without-replacement.webp" width="900" height="1020" alt="Same bag, first counter not replaced. After a red, 4 red and 3 blue remain (4/7, 3/7); after a blue, 5 red and 2 blue remain (5/7, 2/7). Both red is 5/8 x 4/7 = 5/14." loading="lazy">
+  <figcaption>Without replacement the second branches change because the bag has one fewer counter.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -168,3 +190,9 @@ Cambridge International, *Cambridge IGCSE Mathematics (0580) syllabus
 for examination in 2025, 2026 and 2027*: [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf),
 Subject content, section 8 "Probability". Verified 2026-09-06.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--01-two-dice-sample-space.webp" width="900" height="925" alt="A 6 by 6 grid with die faces along both edges; each cell shows the total. The six cells totalling 7 form a diagonal and are highlighted, giving 6 out of 36 = 1/6." loading="lazy">
+  <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
+</figure>
+

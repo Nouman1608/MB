@@ -58,6 +58,17 @@ A point on the x-axis has y = 0. A point on the y-axis has x = 0.
 
 The bottom side runs from x = −1 to x = 3, so the side length is 4. The right side runs from y = −2 to y = 2, also 4. The missing vertex is above (−1, −2) and level with (3, 2). It is **(−1, 2)**. It lies in the second quadrant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--02-quadrants.webp" width="900" height="980" alt="A grid from -6 to 6 is split into four coloured quadrants labelled with the signs of x and y, with a point in each: (3, 4), (-3, 4), (-3, -4), (3, -4). (6, 0) lies on the x-axis and (0, -2) on the y-axis." loading="lazy">
+  <figcaption>The signs of x and y tell you the quadrant; on the x-axis y = 0 and on the y-axis x = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--03-complete-rectangle.webp" width="900" height="1060" alt="Rectangle PQRS has P (-3, 2), Q (1, 2) and R (1, -4). S is found directly below P and level with R, giving S (-3, -4). The sides measure 4 and 6 units." loading="lazy">
+  <figcaption>S shares its x with P and its y with R.</figcaption>
+</figure>
+
+
 ## 7.01b Plotting from a table of values
 
 Method for any equation:
@@ -86,6 +97,17 @@ Equations such as 3x + 2y = 12 have x and y on the same side. Find y for each x 
 
 The line crosses the y-axis at (0, 6) and the x-axis at (4, 0). Two points are enough for a line, and a third is a check.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--05-draw-line-table.webp" width="900" height="1180" alt="A table gives six points for y = -3x + 4 from x = -2 to 3. They lie on one straight line and a step triangle shows y falls by 3 for each +1 in x. The line crosses the y-axis at (0, 4)." loading="lazy">
+  <figcaption>Make a table, plot every point and rule one line across the whole range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--06-axis-intercepts.webp" width="900" height="1120" alt="The line 4x + 3y = 12 is drawn through (0, 4) and (3, 0), found by putting x = 0 then y = 0, with a check point (6, -4). All three points are on one line." loading="lazy">
+  <figcaption>For x and y on the same side, set x = 0 and y = 0 to find the axis crossing points, then check a third point.</figcaption>
+</figure>
+
+
 ### Quadratic graphs
 
 **Worked example.** Plot y = x² − 2x − 6 for x from −2 to 4.
@@ -96,6 +118,12 @@ The line crosses the y-axis at (0, 6) and the x-axis at (4, 0). Two points are e
 
 For x = −2: (−2)² − 2(−2) − 6 = 4 + 4 − 6 = 2. The y-values are symmetrical about x = 1, and the lowest point is (1, −7). The curve is a smooth U-shape, called a parabola. Round the bottom. Do not draw a point there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--01-table-to-curve.webp" width="900" height="1090" alt="A table of values for y = x² − 2x − 3 from x = −2 to 5 (y = 5, 0, −3, −4, −3, 0, 5, 12) is plotted as crosses and joined by a smooth U-shaped curve. The curve is symmetrical about the dashed line x = 1. It is drawn smoothly, not with ruler segments." loading="lazy">
+  <figcaption>Plot a table, then draw one smooth curve; the table is symmetrical about x = 1.</figcaption>
+</figure>
+
+
 ### Cubic graphs
 
 **Worked example.** Plot y = x³ − 8x for x from −3 to 3.
@@ -105,6 +133,12 @@ For x = −2: (−2)² − 2(−2) − 6 = 4 + 4 − 6 = 2. The y-values are sym
 | y | −3 | 8 | 7 | 0 | −7 | −8 | 3 |
 
 For x = −3: (−3)³ − 8(−3) = −27 + 24 = −3. The curve rises, falls, then rises again. It has a local maximum near x = −1.6 and a local minimum near x = 1.6. Extra points between the main ones, such as x = ±1.5 (giving 8.625 and −8.625), help you place the turns.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and--02-plot-cubic.webp" width="900" height="970" alt="A table for y = x³ − 8x from x = −3 to 3 is plotted as crosses and joined by one smooth curve that rises, falls, then rises again. Extra points at x = ±1.5 (y = ±8.625) place the local maximum and minimum near x = ∓1.6." loading="lazy">
+  <figcaption>Plot y = x³ − 8x and add extra points to place the turns.</figcaption>
+</figure>
+
 
 ### Reciprocal graphs
 
@@ -117,6 +151,12 @@ A reciprocal graph has x in a denominator. You cannot substitute x = 0, so there
 | y | −5 | −4 | −5 | 5 | 4 | 5 |
 
 For x = −4: −4 + 4/(−4) = −4 − 1 = −5. There are two separate branches, one on each side of the y-axis. Draw each as its own smooth curve and do not join them across x = 0. Near x = 0 the values become very large (half of 1 gives y = 8.5, a quarter gives 16.25), so the branches climb or fall steeply beside the y-axis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and--03-plot-reciprocal.webp" width="900" height="1010" alt="A table for y = x + 4/x gives two branches, one each side of the y-axis, with no point at x = 0. Points close to zero (0.5, 8.5) and (0.25, 16.25) show the curve climbing steeply beside the axis. The branches are not joined." loading="lazy">
+  <figcaption>A reciprocal graph has two separate branches and no value at x = 0.</figcaption>
+</figure>
+
 
 ## 7.01c Recognising and sketching graphs
 
@@ -140,6 +180,12 @@ For example y = −3 is horizontal, 3 units below the x-axis. The line x = 4 is 
 | y = 1/x | Two branches | Quadrants 1 and 3; never touches either axis |
 
 For y = 1/x, as x gets very large the curve gets close to the x-axis without touching it. As x gets close to 0 it climbs towards the y-axis without touching it. For y = −1/x the branches are in quadrants 2 and 4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and--01-four-basic-shapes.webp" width="900" height="1200" alt="Four small graphs. y = x² is a U-shaped parabola with minimum at the origin; y = −x² is upside down with a maximum at the origin. y = x³ rises through the origin, flat for a moment there, in quadrants 1 and 3. y = 1/x has two branches in quadrants 1 and 3 that miss both axes." loading="lazy">
+  <figcaption>The four shapes OCR expects you to recognise and sketch.</figcaption>
+</figure>
+
 
 ### Sketching a quadratic
 
@@ -172,6 +218,17 @@ Turning point: x = (4 + (−2))/2 = 1
        y = 8 + 2 − 1 = 9, so (1, 9), a maximum
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and--04-sketch-max-quadratic.webp" width="900" height="820" alt="The upside-down parabola y = 8 + 2x − x² crosses the x-axis at −2 and 4 and the y-axis at (0, 8). A bracket joins the roots and shows the turning point is at x = (−2 + 4) ÷ 2 = 1, giving the maximum (1, 9)." loading="lazy">
+  <figcaption>The turning point is halfway between the roots; substitute to find y.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is Extended only." loading="lazy">
+  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; Extended adds the turning point.</figcaption>
+</figure>
+
+
 ### Roots that do not factorise (Higher tier only)
 
 <!-- marlbridge-diagram:math-b78-ocr-nonfactorising-quadratic-roots -->
@@ -191,6 +248,12 @@ x = (6 ± √(36 − 12))/2 = (6 ± √24)/2 = (6 ± 2√6)/2 = 3 ± √6
 ```
 
 The roots are **x = 3 + √6 ≈ 5.45** and **x = 3 − √6 ≈ 0.55** (to 2 decimal places). If the part under the root is negative, there are no roots and the graph does not meet the x-axis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and--06-quadratic-formula-surd-roots.webp" width="900" height="1026" alt="The parabola y = x^2 - 6x + 3 has its minimum at (3, -6) and crosses the x-axis at 3 - root 6 (about 0.55) and 3 + root 6 (about 5.45), each root 6 either side of x = 3." loading="lazy">
+  <figcaption>The quadratic formula gives roots 3 +/- root 6, symmetric about the turning point.</figcaption>
+</figure>
+
 
 ### Completing the square for the turning point (Higher tier only)
 
@@ -217,6 +280,17 @@ y-intercept: (0, −7)
 ```
 
 The curve is upside down with its highest point at (2, −3), which is below the x-axis. So the curve never reaches the x-axis and there are no roots. Check: (x − 2)² = −3 has no solution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and--05-complete-square-turning-point.webp" width="900" height="1270" alt="Two parabolas. (x + 3)² − 2 has minimum (−3, −2), y-intercept (0, 7) and roots near −4.41 and −1.59. −(x − 2)² − 3 has maximum (2, −3), y-intercept (0, −7) and never reaches the x-axis, so has no roots." loading="lazy">
+  <figcaption>Completed-square form (x + p)² + q shows the turning point (−p, q) and whether there are roots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and--05-horizontal-vertical-lines.webp" width="900" height="890" alt="On one grid, y = -3 is a horizontal line through (0, -3), x = 4 is a vertical line through (4, 0), and y = -2x passes through the origin and (1, -2), sloping down." loading="lazy">
+  <figcaption>Horizontal lines are y = c, vertical lines are x = c, and y = mx passes through the origin.</figcaption>
+</figure>
+
 
 ## Common errors
 

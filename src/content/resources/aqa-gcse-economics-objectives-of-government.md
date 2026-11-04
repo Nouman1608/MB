@@ -66,6 +66,12 @@ side-effect on a different one.
 AQA GCSE Economics (8136) specification, first teaching September 2017 --
 [aqa.org.uk](https://www.aqa.org.uk/subjects/economics/gcse/economics-8136/specification/subject-content/how-the-economy-works).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+
+
 ## The four objectives, one at a time
 
 Stable prices means keeping inflation low and predictable, measured via the CPI -- too high (or negative,
@@ -75,6 +81,17 @@ weighing. Full employment means minimising unemployment, since it carries costs 
 income), the government (benefit payments, lost tax revenue) and the wider economy (lost output). A
 satisfactory balance of payments means the country's trade and financial transactions with the rest of
 the world are broadly sustainable, without a persistently large deficit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Cost-push vs demand-pull inflation
 
@@ -92,6 +109,12 @@ the economy outstrips the economy's capacity to supply it, pulling prices up. Th
 because the appropriate policy response differs: demand-pull inflation calls for reducing demand (e.g.
 raising interest rates), while cost-push inflation is harder to fix through demand-side policy alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
+
 ## Why governments cannot maximise every objective at once
 
 A recurring theme across this topic is that the four objectives listed above frequently conflict with
@@ -104,6 +127,12 @@ to exports, worsening the balance of payments. This is why exam questions on thi
 candidates to evaluate a policy against multiple objectives rather than just one -- a strong answer
 explicitly identifies which objectives a policy helps and which it may harm, rather than assuming every
 policy is straightforwardly beneficial.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
 
 ## Worked example: evaluating a policy against multiple objectives
 
@@ -134,6 +163,12 @@ risk -- but the reverse could hold if inflation is already high.
 Step 4 is what distinguishes a full-mark evaluative answer from a one-sided description: reaching a
 context-dependent judgement, not just listing both effects.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Describing a policy's effect on only one objective, ignoring the trade-off with others. Confusing
@@ -148,3 +183,9 @@ one of the four objectives.
 - Explain the consequences of unemployment and inflation for different groups in the economy.
 - Evaluate a given government policy against more than one objective at once, reaching a context-specific
   judgement about the trade-off.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+

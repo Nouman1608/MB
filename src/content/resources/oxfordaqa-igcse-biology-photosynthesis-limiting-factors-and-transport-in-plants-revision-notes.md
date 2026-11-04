@@ -38,6 +38,12 @@ Condensed recall notes for OxfordAQA International GCSE Biology (9201), Version 
 
 Atom count: the same three totals (carbon, hydrogen, oxygen) appear on both sides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
+</figure>
+
+
 ## Uses of glucose (3.2.1 d, e)
 
 | Product or use | Purpose |
@@ -49,6 +55,17 @@ Atom count: the same three totals (carbon, hydrogen, oxygen) appear on both side
 | Protein | Growth and repair; needs nitrate ions from the soil |
 
 Memory hook: starch is the store you can carry without water problems; cellulose is the wall; protein needs nitrogen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-photosynthesis-limiting-factors-and-transport-in-plants--06-glucose-uses-fat-protein.webp" width="900" height="890" alt="Glucose has five uses: respiration for energy, starch as an insoluble store, fat or oil as a seed reserve, cellulose for cell walls, and protein which also needs nitrate." loading="lazy">
+  <figcaption>Glucose is used for energy, storage, structure and building protein.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
 
 ## Limiting factors (3.2.1 c)
 
@@ -63,6 +80,17 @@ Method in steps for a limiting-factor question:
 3. If flat, compare a second line, or name the factor held constant.
 4. Quote two numbers from the data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-photosynthesis-limiting-factors-and-transport-in-plants--03-limiting-two-co2.webp" width="900" height="880" alt="Rate against light at 0.04% and 0.12% carbon dioxide using the lesson data. At light 2 both lines give 8, so light limits; at light 8 the 0.04% line is flat at 22 and carbon dioxide limits, because raising it to 0.12% lifts the rate to 32." loading="lazy">
+  <figcaption>Where the lines overlap light limits; where one is flat, carbon dioxide limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
+</figure>
+
+
 ## Greenhouse economics
 
 | Factor | How a grower raises it | Pays off when |
@@ -74,6 +102,12 @@ Method in steps for a limiting-factor question:
 Work it through: extra yield × price per kg − extra cost = net gain. Negative means not worth it.
 
 Small reminder: a greenhouse yield rises from 48 kg to 60 kg per bed. Percentage increase = (60 − 48) ÷ 48 × 100 = 25%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-photosynthesis-limiting-factors-and-transport-in-plants--04-greenhouse-co2-sums.webp" width="900" height="920" alt="Enrichment raises the yield from 450 kg to 540 kg: 90 kg extra at 1.20 pounds is 108 pounds income, against a 360 pound cost, a net loss of 252 pounds. Each extra kilogram costs 4.00 pounds to make and sells for 1.20." loading="lazy">
+  <figcaption>Extra income of 108 pounds is less than the 360 pound cost, so the grower loses 252 pounds.</figcaption>
+</figure>
+
 
 ## Required practical: rate of photosynthesis
 
@@ -89,6 +123,12 @@ Worked reminder: bubbles in 4 minutes were 60, 64 and 62. Mean = 62. Rate = 62 �
 
 Common improvements: heat shield between lamp and plant, longer counting time, measuring gas volume rather than counting bubbles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--05-pondweed-light-distance.webp" width="900" height="1090" alt="A lamp shines on pondweed; the lamp distance changes light intensity and bubbles are counted. Bar chart of means: 42 at 10 cm, 30 at 20 cm, 19 at 30 cm, 10 at 40 cm. Closer lamp gives a faster rate." loading="lazy">
+  <figcaption>The closer the lamp, the more bubbles per minute.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Meaning |
@@ -100,6 +140,12 @@ Common improvements: heat shield between lamp and plant, longer counting time, m
 | Transpiration stream | Movement of water from roots, through the xylem, out of the leaves |
 | Translocation | Movement of dissolved sugars in the phloem from leaves to the rest of the plant |
 | Root hair | A tiny extension of a root cell that increases surface area |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--07-root-hair-cell.webp" width="900" height="1000" alt="A root hair cell with a long thin hair among soil particles. Labels: thin cell wall, cell sap with lower water potential than soil, many mitochondria for active transport, nucleus. Arrows show water entering by osmosis and ions by active transport." loading="lazy">
+  <figcaption>Each feature of a root hair cell helps uptake of water and ions.</figcaption>
+</figure>
+
 
 ## Worked reminder: using data to name the limiting factor
 
@@ -142,6 +188,17 @@ At light 1 and 2 the rates are identical at both temperatures, so light limits. 
 
 Surface area to volume ratio, worked: leaf 6 cm × 2 cm × 0.1 cm has surface area 2(12 + 0.6 + 0.2) = 25.6 cm² and volume 1.2 cm³, so the ratio is 21.3 : 1. Thin shapes give high ratios.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-photosynthesis-limiting-factors-and-transport-in-plants--01-leaf-vs-cube-sav.webp" width="900" height="860" alt="A leaf modelled as a 5 cm by 4 cm by 0.1 cm cuboid has a surface area of 41.8 cm2 and a volume of 2.0 cm3, a ratio of 20.9 to 1. A cube of the same volume has 1.26 cm sides and a ratio of 4.76 to 1. The thin leaf has about four times the ratio." loading="lazy">
+  <figcaption>A thin leaf has about four times the surface area to volume ratio of a cube of the same volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--01-sa-v-cubes.webp" width="900" height="740" alt="Three cubes drawn to scale with sides 1, 2 and 4 cm. Surface areas are 6, 24 and 96 cm² and volumes 1, 8 and 64 cm³, giving ratios 6:1, 3:1 and 1.5:1. Each time the side doubles, the ratio halves." loading="lazy">
+  <figcaption>Doubling the side of a cube halves its surface area to volume ratio.</figcaption>
+</figure>
+
+
 ## Water loss and wilting
 
 - Water vapour is lost mainly from leaves, mostly through stomata.
@@ -150,6 +207,27 @@ Surface area to volume ratio, worked: leaf 6 cm × 2 cm × 0.1 cm has surface ar
 - Water entering the guard cells opens the pore; water leaving them closes it.
 
 Small reminder: a shoot loses 5.0 g of water in a hot room and 3.5 g in a cooler room. The cooler room loses (5.0 − 3.5) ÷ 5.0 × 100 = 30% less.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-bioenergetics--01-stomata-guard-cells.webp" width="900" height="1040" alt="Two panels showing a stoma from above. When guard cells take in water they swell and bow apart, opening the stoma so carbon dioxide enters and oxygen and water vapour leave. When they lose water they go limp, the stoma closes and little water vapour escapes." loading="lazy">
+  <figcaption>Guard cells open and close the stoma, controlling gas exchange and water loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--07-wilting.webp" width="900" height="1150" alt="Extended. With enough water the cells are turgid and push out on their walls, holding leaves up. If water is lost by transpiration faster than it is taken up, cells lose water by osmosis, become flaccid and limp, and the leaves and stem droop: the plant wilts." loading="lazy">
+  <figcaption>Water loss makes cells flaccid, so the plant droops.</figcaption>
+</figure>
+
 
 ## Xylem and phloem
 
@@ -188,6 +266,22 @@ Must-know distinction: the transpiration stream carries water upwards to be lost
 8. They increase the surface area for uptake of water and mineral ions.
 9. Guard cells.
 10. Phloem; translocation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-photosynthesis-limiting-factors-and-transport-in-plants--02-xylem-phloem-structure.webp" width="900" height="1130" alt="Xylem is a hollow tube of dead cells with strong lignin walls and no end walls, carrying water and mineral ions up. Phloem is made of living sieve tubes whose end walls (sieve plates) have pores, with a companion cell beside each, carrying sugars up and down." loading="lazy">
+  <figcaption>Xylem is a hollow lignified tube; phloem is a stack of living sieve tubes with pores and companion cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

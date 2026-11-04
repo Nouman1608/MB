@@ -79,6 +79,27 @@ activation energy, Ea, of a reaction, providing an alternative reaction pathway;
 increases the rate of reaction and is chemically unchanged at the end of the
 reaction (Core, both qualifications).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--01-collision-theory.webp" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
+  <figcaption>Slow collisions bounce apart; collisions with at least E_a produce a new substance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--02-rate-factors.webp" width="900" height="1154" alt="Before/after boxes show more particles per volume, a gas squeezed by a piston, a cube crushed into eight (area doubles), and more particles with enough energy at higher temperature." loading="lazy">
+  <figcaption>Each factor increases collision frequency or the share of collisions with enough energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--03-rate-graph.webp" width="900" height="1020" alt="A flask connects to a gas syringe. A graph of gas volume against time shows a steep curve for a fast reaction and a shallow one for a slow reaction, both levelling at 60 cm3." loading="lazy">
+  <figcaption>Steeper gradient means faster rate; the line flattens when the reaction has finished.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
+
 ## Reversible reactions and equilibrium
 
 ### The idea of reversibility
@@ -124,6 +145,12 @@ restore balance; increasing the concentration of a product shifts it
 it forms (rather than letting it build up) therefore also pulls the
 equilibrium further towards the products, since the system continually
 "replaces" what is removed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--05-hydrated-anhydrous.webp" width="900" height="970" alt="Copper(II) sulfate: blue hydrated crystals turn white when heated and blue again on adding water. Cobalt(II) chloride: pink hydrated turns blue when heated and pink again with water." loading="lazy">
+  <figcaption>Heating hydrated crystals drives off water; adding water reverses the change.</figcaption>
+</figure>
+
 
 ### The Haber process
 
@@ -179,6 +206,12 @@ efficiently through the plant, rather than a genuinely "high" pressure. This
 is the opposite trade-off from the Haber process, where a much higher
 pressure (200 atm) is needed to achieve an acceptable yield in the first
 place, and safety/cost then limits how much higher it can practically go.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

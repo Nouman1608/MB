@@ -52,6 +52,22 @@ Function notation names the rule. In f(x) = 6 - 4x, the letter f is the name, x 
 
 The relation x² + y² = 25 is not a function: x = 3 gives y = 4 or y = -4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--09-vertical-line-test.webp" width="900" height="820" alt="A vertical line at x = 3 cuts the circle x squared plus y squared equals 25 twice, at (3, 4) and (3, minus 4), so it is not a function. It cuts the line f(x) = 6 minus 4x once, at (3, minus 6), so that is a function." loading="lazy">
+  <figcaption>A vertical line cutting twice means one input has two outputs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--01-function-machine.webp" width="900" height="1030" alt="A function machine for f(x) = 3x minus 5. The input 4 is multiplied by 3 to give 12, then 5 is subtracted to give 7. Putting 2a in the brackets gives 6a and then 6a minus 5. Whatever is in the brackets replaces x." loading="lazy">
+  <figcaption>Whatever goes in the brackets replaces x in the rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--02-mapping-domain-range.webp" width="900" height="990" alt="A mapping diagram for h(x) = x squared minus 4 with domain minus 2, minus 1, 0, 1, 3. The arrows give outputs 0, minus 3, minus 4, minus 3, 5. The range is minus 4, minus 3, 0, 5, each listed once; two inputs may share an output." loading="lazy">
+  <figcaption>The range lists each different output once; two inputs can share an output.</figcaption>
+</figure>
+
+
 ## Linear functions
 
 A linear function is f(x) = mx + c. The gradient m is the change in output for each 1 added to the input. The constant c is where the line meets the y-axis. Between points (x₁, y₁) and (x₂, y₂), m = (y₂ - y₁)/(x₂ - x₁).
@@ -69,6 +85,27 @@ A linear function is f(x) = mx + c. The gradient m is the change in output for e
 
 **As a model.** A taxi fare is a fixed fee c plus a rate m per kilometre, valid only for distances of zero or more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--02-taxi-fare.webp" width="900" height="930" alt="A taxi cost graph starts at $3 on the vertical axis, the fixed charge. The gradient is 15 dollars per 10 km, $1.50 per km, and $24 is read across to 14 km. A 20 km ride costs $33, not the $36 that scaling would give." loading="lazy">
+  <figcaption>A line with an intercept: gradient is the rate, intercept is the fixed charge, and scaling fails.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+
+
 ## Simultaneous equations
 
 The solution of two equations is the pair of values that satisfies both. Graphically it is the intersection of the two lines. Parallel lines never meet, so there is no solution.
@@ -80,6 +117,17 @@ Replace y: 3x + 2(2x + 1) = 16, so 7x + 2 = 16 and x = 2. Then y = 2(2) + 1 = 5.
 **Elimination.** Solve 2x + 3y = 12 and 5x - 3y = 9. Adding removes y: 7x = 21, so x = 3. Then 6 + 3y = 12 gives y = 2. Check in the other equation: 15 - 6 = 9. Correct.
 
 On a graph, draw both lines on one set of axes and read where they cross. A graph gives an approximate answer, so use algebra when exact values are needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--15-fm-simultaneous.webp" width="900" height="1160" alt="Two graphs: y = 2x + 1 and 3x + 2y = 16 cross at (2, 5); 2x + 3y = 12 and 5x - 3y = 9 cross at (3, 2). Dashed lines drop to the axes." loading="lazy">
+  <figcaption>The algebraic solution is the crossing point of the two lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
 
 ## Quadratic functions and their parameters
 
@@ -114,6 +162,37 @@ A quadratic has an x² term and graphs as a parabola. The guide lists three form
 - Lands when h = 0: t = (20 + √420)/10 ≈ 4.05 s (the negative root is rejected).
 - Limits: the model ignores air resistance and only applies from throwing until landing, so t ≥ 0 and h ≥ 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--05-quad-three-forms.webp" width="900" height="960" alt="The graph of f(x) = x squared minus 6x plus 5 with its three forms matched to features: factorised form gives x-intercepts 1 and 5, vertex form gives the vertex (3, minus 4), and the general form gives the y-intercept 5. The axis x = 3 is halfway between the roots." loading="lazy">
+  <figcaption>Each form of the same quadratic shows a different feature directly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--07-ball-model-domain.webp" width="900" height="870" alt="The thrown-ball model h = −5t² + 20t + 1 is drawn solid from the throw to the landing at t ≈ 4.05 s, with a greatest height of 21 m at t = 2. The other root, t = −0.05, and negative heights after landing are outside the domain." loading="lazy">
+  <figcaption>A real context restricts the domain: here 0 ≤ t ≤ 4.05.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--13-fm-complete-square.webp" width="900" height="940" alt="Graph of y = 3x^2 and y = 3x^2 - 6x + 1; the second is the first moved 1 right and 2 down with vertex (1, -2). Working: 3(x^2 - 2x) + 1, then 3[(x - 1)^2 - 1] + 1, then 3(x - 1)^2 - 2." loading="lazy">
+  <figcaption>Completing the square shows the vertex (1, -2) and the translation from y = 3x^2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--14-fm-parabola-width.webp" width="900" height="1000" alt="Graphs of y = 0.5x^2, y = x^2 and y = 3x^2. Cut at y = 3 the widths are 4.90, 3.46 and 2.00, so larger a means narrower. A negative a opens downward." loading="lazy">
+  <figcaption>A larger |a| gives a narrower parabola.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is Extended only." loading="lazy">
+  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; Extended adds the turning point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
+</figure>
+
+
 ## Exponential functions and horizontal asymptotes
 
 An exponential function has the variable in the power: f(x) = a × bˣ with b > 0 and b ≠ 1. If b > 1 it shows growth. If 0 < b < 1 it shows decay. When x = 0, f(0) = a, so a is the starting value.
@@ -129,6 +208,17 @@ The graph of 3 × 2ˣ rises ever more steeply to the right and flattens towards 
 
 **Using models well.** Name the assumptions, check the answer is sensible for the context, and be wary of **extrapolation**, which means using the model beyond the data that built it. Exponential growth cannot continue forever, because algae run out of space.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--03-fish-decay-target.webp" width="900" height="740" alt="A curve of 3600 fish falling 6% a year with a dashed line at 2000. Year 9 gives 2063 (above) and year 10 gives 1939 (below), so year 10 is the first year below 2000." loading="lazy">
+  <figcaption>Show the years either side of the target to prove which year first passes it.</figcaption>
+</figure>
+
+
 ## Extended: domain and range
 
 The **domain** lists every input the rule accepts and the context allows. The **range** lists every output the rule produces.
@@ -136,6 +226,12 @@ The **domain** lists every input the rule accepts and the context allows. The **
 - f(x) = x² - 6x + 5 has domain all real numbers. Its minimum is -4, so the range is f(x) ≥ -4.
 - g(x) = 2ˣ has domain all reals and range g(x) > 0, because of the asymptote y = 0.
 - A real context restricts the domain: for the ball above the domain is 0 ≤ t ≤ 4.05.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--03-domain-range-graphs.webp" width="900" height="1110" alt="Top graph: g(x) = 3x squared plus 1 has lowest point (0, 1), so its range is g(x) at least 1. Bottom graph: k(x) = 5 over (x minus 4) has a gap at x = 4 where the rule divides by zero, so x = 4 is not in the domain." loading="lazy">
+  <figcaption>g(x) = 3x² + 1 never goes below 1, and k(x) = 5/(x − 4) has no value at x = 4.</figcaption>
+</figure>
+
 
 ## Extended: rational functions (ax + b)/(cx + d)
 
@@ -155,6 +251,12 @@ A rational function has a linear expression over a linear expression. The denomi
 - Rewrite: (4x + 3)/(x - 1) = 4 + 7/(x - 1). For very large x the fraction shrinks towards zero, so the **horizontal asymptote** is y = 4. In general it is y = a/c. The range is f(x) ≠ 4.
 - x-intercept: 4x + 3 = 0, so x = -3/4. y-intercept: f(0) = 3/(-1) = -3.
 - The graph has two separate branches, one each side of x = 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--08-rational-asymptotes.webp" width="900" height="950" alt="The graph of f(x) = (4x + 3)/(x − 1) has two branches either side of the vertical asymptote x = 1 and approaches the horizontal asymptote y = 4. It crosses the axes at (−3/4, 0) and (0, −3). The domain excludes x = 1 and the range excludes 4." loading="lazy">
+  <figcaption>The denominator gives the vertical asymptote; a/c gives the horizontal one.</figcaption>
+</figure>
+
 
 ## Extended: transforming quadratics
 
@@ -178,6 +280,12 @@ Starting from y = x², these changes act on the graph:
 
 The vertex is (3, 1) and the maximum value is 1, so the range is y ≤ 1. Vertex form is the transformation written as a rule. Reflecting y = x² in the y-axis changes nothing, because the parabola is symmetric about that axis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--06-quad-transform-point.webp" width="900" height="960" alt="The point (1, 1) on y = x squared is followed through right 3, stretch by 2, reflection in the x-axis and up 1, ending at (4, minus 1) on the curve y = minus 2(x minus 3) squared plus 1. The vertex moves from (0, 0) to (3, 1)." loading="lazy">
+  <figcaption>Following one point shows the four transformations in the order the lesson gives.</figcaption>
+</figure>
+
+
 ## Extended: shapes of other functions
 
 | Function | Shape and key features |
@@ -190,6 +298,27 @@ The vertex is (3, 1) and the maximum value is 1, so the range is y ≤ 1. Vertex
 
 An asymptote is read from the rule: look for inputs that make a denominator zero, a tangent undefined, or a logarithm's argument zero. For a rational function that is the vertical asymptote. For exponentials it is the horizontal asymptote.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--11-fm-log-mirror.webp" width="900" height="1010" alt="Graph of y = 2^x and y = log2 x as mirror images in y = x. The log curve passes (1, 0), (2, 1), (4, 2), (8, 3), has asymptote x = 0 and only x &gt; 0. A note gives ln x as base e, about 2.718, and e^x = 7 giving x = ln 7, about 1.95." loading="lazy">
+  <figcaption>The logarithm curve is the reflection of the exponential curve in y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--05-sketch-cubic.webp" width="900" height="1030" alt="Sketch of y = x³ − 4x² + 3x = x(x − 1)(x − 3). The curve crosses the x-axis at 0, 1 and 3, coming up from bottom left, turning twice, and rising to top right because the x³ coefficient is positive." loading="lazy">
+  <figcaption>Factorise a cubic to find its roots, then follow the rise, turn, fall, turn, rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--03-sin-cos-graphs.webp" width="900" height="810" alt="Graphs of y = sin x and y = cos x from 0 to 360 degrees with key points marked at multiples of 90 degrees. Both are waves between minus 1 and 1 repeating every 360 degrees; cos is sin shifted by 90 degrees." loading="lazy">
+  <figcaption>Sin and cos are waves between -1 and 1 that repeat every 360 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--04-tan-graph.webp" width="900" height="860" alt="Graph of y = tan x from 0 to 360 degrees with dashed asymptotes at 90 and 270 degrees. Branches pass through (0,0), (180,0) and (360,0), approach the asymptotes without touching, and repeat every 180 degrees." loading="lazy">
+  <figcaption>Tan x has asymptotes at 90 and 270 degrees and repeats every 180 degrees.</figcaption>
+</figure>
+
+
 ## Enrichment (optional)
 
 - **Transforming cubic and trigonometric functions.** The same rules apply. y = 2 sin x + 1 stretches the wave to amplitude 2 and lifts it by 1, so its values lie between -1 and 3.
@@ -197,6 +326,12 @@ An asymptote is read from the rule: look for inputs that make a denominator zero
 - **Composite functions.** g∘f(x) means g(f(x)): apply f first. With f(x) = 2x + 3 and g(x) = x², g∘f(3) = g(9) = 81, but f∘g(3) = f(9) = 21. Order matters.
 - **Inverse functions.** The inverse f⁻¹ reverses f. For f(x) = 2x + 3, write y = 2x + 3, swap to x = 2y + 3, and solve: f⁻¹(x) = (x - 3)/2. Mirror the graph of f in the line y = x to get the graph of f⁻¹.
 - **Logarithmic functions.** The logarithm of a to base b is the power that b needs to reach a. So log₂ 32 = 5, and 2ˣ = 20 gives x = log₂ 20 ≈ 4.32.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--12-fm-trig-transform.webp" width="900" height="850" alt="Graph of y = sin x (dashed) and y = 2 sin x + 1 from 0 to 360 degrees. The second has amplitude 2 about the midline y = 1, maximum 3 and minimum -1." loading="lazy">
+  <figcaption>Stretch by 2 and lift by 1 gives values between -1 and 3.</figcaption>
+</figure>
+
 
 ## Common errors
 

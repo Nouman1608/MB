@@ -44,6 +44,12 @@ These notes condense Unit 3: Practical Skills in Chemistry I in the YCH11 specif
 | Resolution | Smallest change the instrument can show |
 | Concordant | Titres within 0.10 cm³ of each other (the usual working rule) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--05-accuracy-precision-errors.webp" width="900" height="1130" alt="Four targets with five repeats. Tight on the centre: accurate and precise. Tight but off centre: systematic error. Scattered around the centre: random error. Scattered and off centre: neither." loading="lazy">
+  <figcaption>Systematic errors shift every reading; random errors scatter them and averaging helps.</figcaption>
+</figure>
+
+
 ## Uncertainty in steps
 
 1. Find the uncertainty of one reading (given in the question, or half the smallest division as a common convention).
@@ -91,6 +97,52 @@ These notes condense Unit 3: Practical Skills in Chemistry I in the YCH11 specif
 - **Boiling temperature**: a sharp value near the data value suggests a pure liquid.
 - **Titration**: rinse burette and pipette with their own solutions; fill the jet; white tile; dropwise near the end point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--01-cp1-molar-volume-graph.webp" width="900" height="1100" alt="Graph of volume of hydrogen against amount of hydrogen for five magnesium masses. The points lie on a line through the origin; a gradient triangle gives 23 900 cm3 per mol, a molar volume of 23.9 dm3 per mol, about 1.2% below the pV = nRT value of 24.2." loading="lazy">
+  <figcaption>A graph uses all the data: its gradient gives the molar volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--02-cp2-cooling-correction.webp" width="900" height="1080" alt="Temperature against time: 21.0 degrees C until mixing at 3 minutes, then readings 25.6 to 25.0 at 5 to 8 minutes. Extrapolating the cooling line back to 3 minutes gives 26.0, so the rise is 5.0 degrees C." loading="lazy">
+  <figcaption>Extrapolate the cooling line back to the mixing time; do not use the highest reading.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--03-cp2-hess-cycle.webp" width="900" height="1110" alt="A cycle joins 2NaHCO3 and Na2CO3 + CO2 + H2O (each with HCl) by the target reaction, and both lead to the same final solution. 2 x (+26.8) minus (-33.4) gives +87 kJ per mol." loading="lazy">
+  <figcaption>Both routes end in the same products, so the target is 2 delta H1 minus delta H2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--04-cp3-concordant-titres.webp" width="900" height="1040" alt="Titres of 23.85 (rough), 23.30, 23.55 and 23.40 cm3 on a number line. Only 23.30 and 23.40 are within 0.10 cm3, so the mean is 23.35 cm3 and the HCl concentration is 0.112 mol per dm3." loading="lazy">
+  <figcaption>Average only concordant titres (within 0.10 cm3); the rough titre is excluded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--05-cp4-uncertainty-sum.webp" width="900" height="1100" alt="Bars show percentage uncertainties for balance (0.35%), flask (0.12%), pipette (0.24%) and burette (0.37%), which add to about 1.1%, so c = 0.110 plus or minus 0.001 mol per dm3." loading="lazy">
+  <figcaption>Add the percentage uncertainties of each measurement to estimate the overall uncertainty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--06-cp6-separating-funnel.webp" width="900" height="1110" alt="A separating funnel with the less dense chloroalkane above the aqueous layer, and the six steps: shake and vent, run off aqueous, wash with NaHCO3, wash with water, dry with Na2SO4, distil." loading="lazy">
+  <figcaption>The chloroalkane is the upper layer; wash, dry and distil to purify it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--01-rate-iodo-bromo.webp" width="900" height="920" alt="Two test tubes with silver halide precipitates. 1-iodobutane gives yellow AgI after 42 s (rate 0.0238 per s); 1-bromobutane gives cream AgBr after 380 s (rate 0.00263 per s). The iodo rate bar is about nine times longer." loading="lazy">
+  <figcaption>The C-I bond breaks most easily, so the iodo compound reacts about 9 times faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--04-cp7-distillation-ice-receiver.webp" width="900" height="1090" alt="A heated flask with a thermometer bulb level with the side-arm opening, a sloping condenser with water in at the bottom and out at the top, and a receiver in an ice bath. Propanal is distilled off as it forms." loading="lazy">
+  <figcaption>Distil propanal into an ice-cooled receiver with the thermometer bulb opposite the side arm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+</figure>
+
+
 ## Test results to know
 
 | Species | Test | Positive result |
@@ -109,6 +161,17 @@ These notes condense Unit 3: Practical Skills in Chemistry I in the YCH11 specif
 | Primary or secondary alcohol | Warm acidified K₂Cr₂O₇ | Orange to green |
 | Aldehyde | Benedict's or Fehling's, warm | Blue to red precipitate |
 | Carboxylic acid | NaHCO₃ or Na₂CO₃ | Effervescence |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--02-cp8-flame-colours.webp" width="900" height="970" alt="Six flames: Li red, Na yellow, K lilac, Ca orange-red, Sr red and Ba pale green. Li and Sr both give red." loading="lazy">
+  <figcaption>Flame colours as listed in the Core Practical 8 table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--03-cp8-ion-gas-tests.webp" width="900" height="1010" alt="Four panels: carbonate (acid fizz, limewater milky), sulfate (acidified BaCl2, white precipitate), halides (HNO3 then AgNO3, white, cream, yellow) and ammonium (NaOH warm, damp red litmus turns blue)." loading="lazy">
+  <figcaption>What a positive result looks like for the anion and gas tests.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -96,6 +96,17 @@ You can also see this as a transformation of 1/x. Dividing out gives
 
 so the graph is y = 1/x stretched vertically by scale factor 3, then translated 1 left and 2 up. This link to section 2.11 is named in the guide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--01-reciprocal-self-inverse.webp" width="900" height="1010" alt="Graph of y = 1/x with one branch in the first quadrant and one in the third, and asymptotes x = 0 and y = 0. A dashed line y = x is a mirror line: the point (2, 1/2) on the curve reflects to (1/2, 2), also on the curve, so the function is its own inverse." loading="lazy">
+  <figcaption>y = 1/x is symmetric about y = x, which is the graphical sign that it is its own inverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--02-rational-asymptotes-intercepts.webp" width="900" height="1020" alt="Graph of y = (2x + 5)/(x + 1) with dashed vertical asymptote x = -1 and dashed horizontal asymptote y = 2. The branch on the right passes through (0, 5); the branch on the left passes through (-2.5, 0). The function also equals 2 + 3/(x + 1)." loading="lazy">
+  <figcaption>Find the asymptotes and the two intercepts first, then place each branch in the region its intercept lies in.</figcaption>
+</figure>
+
+
 ## 2.9 Exponential and logarithmic functions
 
 ### Exponential graphs
@@ -148,6 +159,12 @@ f⁻¹(8) = log₂ 8 = 3      log₂ 2⁷ = 7      2^(log₂ 5) = 5
 ```
 
 Writing aˣ as e^(x ln a) is how you compare growth models with different bases, and it is the form you will differentiate in the [calculus unit](/resources/ib-dp-mathematics-aa-calculus/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--03-exponential-family.webp" width="900" height="1030" alt="Graphs of 2 to the x, e to the x and (1/2) to the x. All pass through (0, 1) and have horizontal asymptote y = 0. The first two grow and the third decays. A dashed curve e to the (x ln 2) lies exactly on top of 2 to the x." loading="lazy">
+  <figcaption>Every y = aˣ passes through (0, 1) and approaches y = 0; a &gt; 1 grows, 0 &lt; a &lt; 1 decays, and aˣ = e^(x ln a).</figcaption>
+</figure>
+
 
 ## 2.10 Solving equations analytically and graphically
 
@@ -206,6 +223,22 @@ t = 5 ln 4 = 6.93 hours (3 s.f.)
 
 Check the answer makes sense: the concentration has halved twice, and it halves roughly every 3.47 hours.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--04-disguised-quadratic.webp" width="900" height="970" alt="Graph of y = e to the x. The line y = 2 meets the curve at x = ln 2, about 0.693. The line y = -3 lies below the whole curve and never meets it, because e to the x is always positive. So u = e to the x equals 2 is the only valid root." loading="lazy">
+  <figcaption>In e^(2x) + eˣ − 6 = 0, u = eˣ = −3 is rejected because eˣ is always positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--05-graphical-solution-ln.webp" width="900" height="950" alt="Graph of y = ln(x + 3), existing only for x greater than -3, and the line y = x - 1. They intersect at x = -2.98, very close to the vertical asymptote x = -3, and at x = 2.75." loading="lazy">
+  <figcaption>Graph both sides and find the intersections; the first root sits just right of the asymptote x = −3, so check your window.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--06-exponential-model-halving.webp" width="900" height="950" alt="Decay curve of C = 12e to the minus 0.2t against time in hours. It starts at 12, falls to 6 at about 3.47 hours and to 3 at about 6.93 hours, which is 5 ln 4. The concentration has halved twice." loading="lazy">
+  <figcaption>Solving 12e^(−0.2t) = 3 gives t = 5 ln 4 ≈ 6.93 hours, which is two halvings of 3.47 hours.</figcaption>
+</figure>
+
+
 ## 2.11 Transformations of graphs
 
 ### The six basic transformations
@@ -254,6 +287,22 @@ y-intercept: 4 − 2 = 2        x-intercept: eˣ = 2, x = ln 2
 ```
 
 (b) For y = ln(x − 2) + 1, the asymptote x = 0 moves to x = 2, so the domain is x > 2. The x-intercept solves ln(x − 2) = −1, giving x = 2 + e⁻¹ ≈ 2.37.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--07-transformation-order.webp" width="900" height="960" alt="The parabola y = x squared with two transformed copies. Stretching by factor 2 then translating 5 down gives y = 2x squared minus 5 with vertex (0, -5). Translating 5 down then stretching by 2 gives y = 2x squared minus 10 with vertex (0, -10). The order changes the answer." loading="lazy">
+  <figcaption>Stretch before you translate: 2x² − 5 and 2x² − 10 are different graphs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--08-transform-exponential.webp" width="900" height="960" alt="Graph of y = e to the x, the dashed curve y = -2e to the x after a vertical stretch of factor 2 and a reflection in the x-axis, and the final curve y = 4 - 2e to the x after moving 4 units up. The asymptote moves from y = 0 to y = 4. The final curve crosses the y-axis at (0, 2) and the x-axis at (ln 2, 0)." loading="lazy">
+  <figcaption>Stretch, reflect, then translate: the asymptote y = 0 ends at y = 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--09-transform-logarithm.webp" width="900" height="950" alt="The graph of y = ln x with asymptote x = 0 and intercept (1, 0), and y = ln(x - 2) + 1, moved 2 right and 1 up. The asymptote becomes x = 2, so the domain is x greater than 2; (1, 0) moves to (3, 1) and the x-intercept is 2 + e to the minus 1, about 2.37." loading="lazy">
+  <figcaption>Inside changes move x: the asymptote x = 0 becomes x = 2 and the domain becomes x &gt; 2.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -64,6 +64,17 @@ Not in this section: one linear and one quadratic equation together (statement 2
 | 4 and 6 | 3 and 2 | 12 |
 | 3 and 5 | 5 and 3 | 15 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--04-sim-add-or-subtract.webp" width="900" height="900" alt="Two elimination examples. 4x + 3y = 26 and 2x − 3y = 4 have opposite y signs, so adding gives 6x = 30, x = 5, y = 2. 15p + 3q = 78 and 2p + 3q = 13 have the same q signs, so subtracting gives 13p = 65, p = 5, q = 1." loading="lazy">
+  <figcaption>Opposite signs: add. Same signs: subtract.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--09-simultaneous-multiply-both.webp" width="900" height="910" alt="Worked example 3 laid out step by step: multiply by 3 and 2, subtract, y = −1, x = 2. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>When neither coefficient divides the other, multiply both equations to match.</figcaption>
+</figure>
+
+
 ## Method in steps: substitution
 
 ```
@@ -74,6 +85,12 @@ Not in this section: one linear and one quadratic equation together (statement 2
 ```
 
 Use substitution when you see "y = …" or "x = …". Use elimination when both equations are in the form ax + by = c.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--05-sim-substitute.webp" width="900" height="940" alt="Solving y = 3x − 7 and 5x + 2y = 19: y in the second equation is replaced by (3x − 7) in brackets, giving 5x + 6x − 14 = 19, then 11x = 33, x = 3, and y = 2." loading="lazy">
+  <figcaption>Replace the letter with the whole expression, in brackets.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -106,6 +123,12 @@ Use substitution when you see "y = …" or "x = …". Use elimination when both 
 
 Define each letter with its units, and finish with a sentence that answers the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--06-sim-ticket-prices.webp" width="900" height="880" alt="Orders of 3 adult and 4 child tickets (£57) and 2 adult and 5 child tickets (£52). Scaling by 2 and 3 gives 6 adult + 8 child (£114) and 6 adult + 15 child (£156). The 7 extra child tickets cost £42, so a child ticket is £6, then an adult ticket is £11." loading="lazy">
+  <figcaption>Matching the adult tickets leaves the extra children to price.</figcaption>
+</figure>
+
+
 ## Lines and intersections (Higher tier only)
 
 - Each linear equation is a straight line. Each point on it is one solution of that equation.
@@ -114,6 +137,22 @@ Define each letter with its units, and finish with a sentence that answers the q
 - **Parallel lines** (same gradient, different y-intercept) never meet: **no solution**. Elimination then removes both letters and leaves a false statement such as 0 = 4.
 - To compare gradients, rearrange ax + by = c into y = mx + c first. For 3x + 2y = 8, y = −(3/2)x + 4, so the gradient is −3/2, not 3.
 - A hand-drawn graph gives an estimate. "Solve" means algebra, for an exact answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--07-sim-lines-cross.webp" width="900" height="1070" alt="Higher tier. The lines y = 2x − 1 and x + y = 5 are plotted with their intercepts (0, −1), (0, 5) and (5, 0). They cross at (2, 3), shown with dashed guides, so x = 2 and y = 3." loading="lazy">
+  <figcaption>The crossing point lies on both lines, so it solves both equations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--08-sim-parallel-lines.webp" width="900" height="1260" alt="Higher tier. The lines y = 2x + 1 and y = 2x − 3 (4x − 2y = 6) both have gradient 2 and different intercepts, so never meet. Subtracting 4x − 2y = −2 from 4x − 2y = 6 gives 0 = 8, which is false, so there is no solution." loading="lazy">
+  <figcaption>Same gradient, different intercept: no solution, and elimination gives a false statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -155,6 +194,12 @@ Solve each pair exactly unless told otherwise.
 9. 2p + 3n = 13.50 and 4p + n = 12.50. From the second, n = 12.50 − 4p, so 2p + 37.50 − 12p = 13.50, giving 10p = 24: **pen £2.40, notebook £2.90**.
 10. x + 4 = 10 − 2x, 3x = 6, x = 2, y = 6: **(2, 6)**.
 11. Rearranged, y = −2x + 3 and y = −2x + 5. **Same gradient (−2), different y-intercepts, so the lines are parallel and never meet.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--10-simultaneous-fraction-answer.webp" width="900" height="910" alt="Graph of the lines from worked example 5 crossing at (1/3, 2), with the exact and rounded working. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>The lines cross at a fractional point, so keep the exact fraction.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

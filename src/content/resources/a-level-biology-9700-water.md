@@ -47,6 +47,17 @@ Oxygen attracts the shared electrons more strongly than hydrogen does. So the el
 
 The molecule is not straight. The two hydrogen atoms sit on one side of the oxygen at an angle of about 104.5°. Because of this bent shape, one side of the molecule (the oxygen side) is slightly negative and the other side (the hydrogen side) is slightly positive. A molecule with an uneven spread of charge like this is called **polar**, and it is said to have a **dipole**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
+  <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
+</figure>
+
+
 ## How hydrogen bonds form between water molecules
 
 Opposite charges attract. The δ− oxygen of one water molecule is attracted to a δ+ hydrogen of a neighbouring water molecule. This attraction is a **hydrogen bond**.
@@ -61,6 +72,12 @@ Points you must be able to explain:
 When you draw it, label δ+ and δ− on the atoms and use a dotted line for the hydrogen bond, running from an **H** on one molecule to an **O** on the other.
 
 Every property in this section comes back to hydrogen bonding. Learn the chain: **polar molecule → hydrogen bonds between molecules → property → role in an organism**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp" width="900" height="870" alt="Two ring drawings of glucose, each with five carbons and one oxygen, numbered 1 to 5 clockwise from the right-hand carbon, with CH2OH on carbon 5. OH on carbons 2 and 4 is below the ring and on carbon 3 above, in both. In alpha-glucose the OH on carbon 1 is below the ring and H above; in beta-glucose the OH is above and H below. Both are C6H12O6." loading="lazy">
+  <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
+</figure>
+
 
 ## Property 1: solvent action
 
@@ -94,6 +111,12 @@ The ions become surrounded by water molecules and separate from each other. They
 - A triglyceride is **non-polar** (its fatty acid chains are hydrocarbon), so it **cannot form hydrogen bonds with water** and does not dissolve.
 
 Each point names a molecular feature and links it to hydrogen bonding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
+  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
+</figure>
+
 
 ## Property 2: high specific heat capacity
 
@@ -129,6 +152,12 @@ temp change = energy / (mass x c)
 With half the specific heat capacity, the same energy gives **twice** the rise: about 11.9 °C. Organisms living in such a liquid would face much larger daily swings.
 
 Check your units first. Mass in grams must go with J g⁻¹ °C⁻¹; mass in kilograms must go with J kg⁻¹ °C⁻¹.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--03-water-heat.webp" width="900" height="1050" alt="Top: 500 kJ absorbed by 42 kg of liquid raises water by 2.85 degrees Celsius but a liquid with half the specific heat capacity by 5.67 degrees. Bottom: removing 90 kJ needs only 37.5 g of water to evaporate, compared with 21.5 kg of water warmed by 1 degree Celsius; to the same scale the evaporation bar is a sliver." loading="lazy">
+  <figcaption>Water warms slowly and removes a lot of heat when it evaporates.</figcaption>
+</figure>
+
 
 ## Property 3: high latent heat of vaporisation
 

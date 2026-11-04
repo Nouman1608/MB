@@ -53,6 +53,12 @@ See the [IB DP Maths AA course hub](/boards/ib/ib-dp/mathematics-analysis-and-ap
 - **Depreciation:** a value falls by a fixed percentage each year.
 - **Real value:** a future amount expressed in today's money, after allowing for inflation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--07-real-value-inflation.webp" width="900" height="940" alt="Three bars show £5000 invested, a future value of £6425.73 after 7 years, and a real value of £5517.81. An arrow from the future value to the real value is labelled divide by 1.022 to the power 7, for 2.2% inflation. Using the rounded future value would give £5517.80." loading="lazy">
+  <figcaption>Dividing by the inflation factor turns future money into today’s money.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Quantity | Arithmetic | Geometric |
@@ -104,6 +110,17 @@ k = 1 yearly, 2 half-yearly, 4 quarterly, 12 monthly.
 2. S∞ = u₁/(1 − r).
 3. If r contains x, solve −1 < r < 1 for the range of x.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--02-ap-from-two-terms.webp" width="900" height="980" alt="Bars and a straight line show the arithmetic sequence 3, 7, 11, ..., 47. A slope triangle between u₃ = 11 and u₈ = 31 shows 5 steps and a rise of 20, so d = 4. Counting back two steps gives u₁ = 3, and S₁₂ = 300." loading="lazy">
+  <figcaption>Two terms give 5d = 20 at once, then u₁ and S₁₂ follow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--03-sigma-count-terms.webp" width="900" height="980" alt="The sum from r = 5 to 20 of (2r + 1) is shown as 16 boxes, one for each r, with the terms 11, 13, ..., 41 beneath. A bracket stresses that there are 16 terms, not 15. Arcs join the first and last terms, the second and second-last, and so on; each pair adds to 52, and 8 pairs give 416." loading="lazy">
+  <figcaption>Count the terms as top − bottom + 1, then pair the ends: 8 × 52 = 416.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 - (6 × 10⁴)(4 × 10⁻⁹) = 24 × 10⁻⁵ = **2.4 × 10⁻⁴**
@@ -113,6 +130,12 @@ k = 1 yearly, 2 half-yearly, 4 quarterly, 12 monthly.
 - 0.888… = 0.8/(1 − 0.1) = **8/9**
 - Least n with 5(3ⁿ − 1)/2 > 10 000: 3ⁿ > 4001, n > 7.55, so **n = 8** (S₇ = 5465, S₈ = 16 400)
 - Data 98, …, 143 over 6 weeks, roughly steady: approximate d = (143 − 98)/5 = **9 a week**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--04-gp-least-n.webp" width="900" height="1030" alt="Bars show the partial sums S_n of 5 + 15 + 45 + ... for n = 1 to 8, which grow from 5 to 16 400. A dashed line at 10 000 shows S₇ = 5465 is below it and S₈ = 16 400 is above, so the least n is 8. This agrees with n &gt; ln 4001 / ln 3 = 7.549." loading="lazy">
+  <figcaption>S₇ is below 10 000 and S₈ is above, so n = 8.</figcaption>
+</figure>
+
 
 ## Paper 1 or Paper 2?
 
@@ -173,6 +196,27 @@ When you use technology, the guide expects you to identify the first term and th
 10. 18 000 × 0.8³ = **£9216**
 11. |x − 2| < 1, so **1 < x < 3**
 12. **8/9**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--01-standard-form-check.webp" width="900" height="1130" alt="A gauge from 1 to 10 shows the allowed values of a, with 3.6 inside and 36 and 0.36 outside. The worked example (7.2 × 10⁻³) × (5 × 10⁸) gives 36 × 10⁵. Because 36 is too big it becomes 3.6 × 10¹, and the powers combine to give 3.6 × 10⁶. Addition first matches the powers of ten: 4.3 × 10⁵ + 0.21 × 10⁵ = 4.51 × 10⁵." loading="lazy">
+  <figcaption>The front number a must lie from 1 up to (not including) 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--05-simple-vs-compound.webp" width="900" height="1250" alt="Over 7 years, £5000 at 3.6% grows in a straight line with simple interest (£180 a year, ending at £6260) but along a bending curve with quarterly compound interest, ending at £6425.73 after 28 periods at 0.9% each. A short list shows yearly, half-yearly, quarterly and monthly compounding giving £6404.55, £6418.58, £6425.73 and £6430.55." loading="lazy">
+  <figcaption>Compound interest multiplies each period, so it pulls ahead of the straight simple-interest line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--06-depreciation.webp" width="900" height="1030" alt="A falling curve and bars show a £60 000 machine losing 12% of its value each year, so each year multiplies the value by 0.88. The drops get smaller each year. After 4 years the value is 60 000 × 0.88⁴ = £35 981.72." loading="lazy">
+  <figcaption>Depreciation is a geometric sequence with ratio 0.88, less than 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--09-convergence-range-x.webp" width="900" height="980" alt="The line r = 2x − 1 is plotted against x with a band showing where |r| &lt; 1. The line is inside the band only for x between 0 and 1; the open circles at x = 0 and x = 1 show those values are excluded. Solving −1 &lt; 2x − 1 &lt; 1 gives 0 &lt; x &lt; 1." loading="lazy">
+  <figcaption>The series converges only when the ratio line lies inside the band, 0 &lt; x &lt; 1.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

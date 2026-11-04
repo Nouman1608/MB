@@ -53,6 +53,17 @@ Use the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [printab
 - Lines never cross. Arrows point towards the mass.
 - Link to section 6.2: electric field strength is force per unit charge, E = F/Q. Both fields are radial for a point source and weaken with distance. Gravity only attracts. Electric forces can attract or repel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--01-field-lines.webp" width="900" height="1230" alt="A planet has radial field lines pointing to its centre, closer together nearer the planet. Zooming in at the surface shows parallel, equally spaced lines, a uniform field. For two equal masses (OCR only) the lines curve towards each mass and never cross, and g is zero midway." loading="lazy">
+  <figcaption>Radial lines get closer as g gets stronger; near the surface they are parallel; two masses give a point where g = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--02-inverse-square.webp" width="900" height="1000" alt="The same field lines pass through windows of 1, 4 and 9 unit areas at distances R, 2R and 3R, so the field spreads thinner. For Earth g is 9.81, 2.45 and 1.09 N per kg at R, 2R and 3R." loading="lazy">
+  <figcaption>Double the distance and g falls to a quarter; triple it and g falls to a ninth.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Force or field strength from Newton's law**
@@ -81,6 +92,17 @@ Use the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [printab
 2. Set T = 86 400 s in r³ = GMT²/4π².
 3. For the Earth, r ≈ 4.22 × 10⁷ m, which is about 3.59 × 10⁷ m above the surface.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--07-geostationary.webp" width="900" height="1180" alt="A to-scale view from above the North Pole. The geostationary ring is 4.22 x 10^7 m from Earth’s centre, about 36 000 km above the surface, far outside a 600 km low orbit. The satellite moves west to east with the Earth, so it stays above one point on the equator. Period 24 h, west to east and over the equator are all needed." loading="lazy">
+  <figcaption>Geostationary means 24 h, west to east and over the equator, at one radius only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--09-kepler-second.webp" width="900" height="970" alt="An elliptical orbit with the Sun at one focus. The line from the Sun sweeps equal areas in equal times, so the comet moves fast (54 km per s) near the Sun and slowly (10.8 km per s) far away. At closest and furthest points v1 r1 = v2 r2." loading="lazy">
+  <figcaption>Equal areas in equal times: fastest when closest to the Sun, with v1r1 = v2r2 at the two extremes.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 Triton has mass 2.14 × 10²² kg and radius 1.35 × 10⁶ m. A probe is 1.5 × 10⁶ m above its surface.
@@ -102,6 +124,12 @@ M = 4π²r³ / (G T²) = 4π² × (1.8e8)³ / (6.67e-11 × (9.50e4)²)
 ```
 
 Check the steps in this order: convert the period to seconds, cube the radius, square the period, then divide. The moon's own mass is not needed, and a graph of T² against r³ for several moons would give a straight line through the origin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--04-area-under-force-graph.webp" width="900" height="1050" alt="A graph of the force on a 1000 kg probe near Mars against distance. The shaded area under the inverse-square curve is the work done, m times the change in potential, 8.42 x 10^9 J. Four trapezia give 8.9 x 10^9 J, an overestimate." loading="lazy">
+  <figcaption>Area under F against r equals the work done, m x change in potential; trapezia overestimate for this curve.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -138,6 +166,22 @@ Check the steps in this order: convert the period to seconds, cube the radius, s
 8. v₂ = v₁r₁/r₂ = 3.6e4 × 1.5e11 / 4.5e11 = **1.2 × 10⁴ m s⁻¹**.
 9. Gradient = 4π²/GM, so M = 4π² / (G × gradient) = 39.5 / (6.67e-11 × 1.0e-14) = **5.9 × 10²⁵ kg**.
 10. Orbit above the equator, move in the same direction as the Earth rotates, and have a period of 24 hours. It must also orbit at the radius that gives this period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--03-g-and-v-graphs.webp" width="900" height="1030" alt="Two graphs for Earth against distance r. g falls from 9.81 N per kg at the surface to 2.45 at 2R and never reaches zero. V rises from -62.5 MJ per kg at the surface towards zero at infinity. The gradient of V at 2R is 2.45 N per kg, the size of g there." loading="lazy">
+  <figcaption>g falls as 1/r2; V = -GM/r rises towards 0; the gradient of the V graph gives g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--05-orbit-kepler-third.webp" width="900" height="1210" alt="A satellite on a circular orbit has gravity as its centripetal force. Equating GMm/r2 with mv2/r cancels m and gives v = root(GM/r), then T2 = (4pi2/GM) r3. A graph of T2 against r3 for Earth satellites is a straight line through the origin, passing through the 24 hour point." loading="lazy">
+  <figcaption>Gravity supplies the centripetal force, so v and T depend only on M and r, giving T2 proportional to r3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--06-orbit-energy.webp" width="900" height="1070" alt="Energies of a 520 kg satellite against orbital radius. Kinetic energy is positive, potential energy is negative and twice as large in size, and total energy is negative, equal to minus the kinetic energy. Raising the orbit from 6.97 to 10 million metres raises the total energy by 4.5 x 10^9 J." loading="lazy">
+  <figcaption>Ek = GMm/2r, Ep = -GMm/r, E = -GMm/2r: a bigger orbit has E closer to zero and a smaller speed.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

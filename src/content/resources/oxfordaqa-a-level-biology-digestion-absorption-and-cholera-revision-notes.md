@@ -114,6 +114,12 @@ Method in steps:
 
 Worked reminder: uptake of 50 units falls to 14 units when sodium ions are removed. Fall = (50 − 14) ÷ 50 × 100 = 72%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--08-cotransport-glucose.webp" width="900" height="1040" alt="An ileum epithelial cell with gut lumen above and blood below. A pump in the blood-side membrane moves sodium ions out using ATP, keeping sodium low inside the cell. Sodium ions re-enter through a co-transporter carrying glucose, which builds up and leaves into blood by facilitated diffusion." loading="lazy">
+  <figcaption>Sodium ions pumped out of the cell drive glucose in through a co-transporter.</figcaption>
+</figure>
+
+
 ### Lipids
 
 1. Fatty acids and monoglycerides join with bile salts to form micelles.
@@ -121,6 +127,12 @@ Worked reminder: uptake of 50 units falls to 14 units when sodium ions are remov
 3. Products diffuse across the membrane because they are lipid-soluble.
 4. Inside, they are rebuilt into triglycerides and packaged with protein and phospholipid as chylomicrons.
 5. Chylomicrons leave by exocytosis and enter the lacteals, then the lymph.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--07-ileum-villus.webp" width="900" height="1010" alt="A finger-shaped villus lined by one layer of epithelial cells with microvilli. Inside are blood capillaries and a central lacteal. A model villus with radius 0.10 mm and height 1.0 mm has a curved area 20 times its footprint." loading="lazy">
+  <figcaption>Villi and microvilli give a huge surface; capillaries and the lacteal carry absorbed products away.</figcaption>
+</figure>
+
 
 ## 3.2.3.1 Cholera
 
@@ -135,6 +147,12 @@ Sequence:
 5. Severe watery diarrhoea and dehydration follow.
 
 Worked reminder: a 50 kg patient loses 500 mL of stool per hour for 10 hours. Volume = 0.5 × 10 = 5 L, or 5 ÷ 50 × 100 = 10% of body mass if 1 L is about 1 kg.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--09-cholera-toxin.webp" width="900" height="1010" alt="A gut epithelial cell with an open chloride channel. Chloride ions move out into the lumen and sodium ions follow, lowering the lumen water potential. Water leaves the tissue by osmosis into the lumen, causing watery diarrhoea." loading="lazy">
+  <figcaption>Cholera toxin keeps chloride channels open, so ions then water flood into the gut.</figcaption>
+</figure>
+
 
 ## 3.2.3.2 Oral rehydration solutions
 
@@ -163,6 +181,12 @@ Discussion points:
 | Disaccharidases and dipeptidases | Cell-surface membrane of ileum epithelial cells |
 
 Link each location to the pH or conditions: stomach contents are acidic, while pancreatic juice makes the duodenum less acidic so that pancreatic enzymes can work. Salivary amylase does not continue to work for long once food meets stomach acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--01-airway-tissues.webp" width="900" height="1210" alt="Four cross-sections from trachea to alveolus. The trachea has a C-shaped cartilage ring, a smooth muscle ring and a ciliated lining with goblet cells. The bronchus has cartilage in separate plates. The bronchiole has no cartilage and thick smooth muscle. The alveolus has only a thin squamous layer with capillaries." loading="lazy">
+  <figcaption>Moving down the airways, cartilage disappears and smooth muscle becomes proportionally larger (not to scale).</figcaption>
+</figure>
+
 
 ## Evaluating trial data
 

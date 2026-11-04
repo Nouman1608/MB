@@ -44,6 +44,12 @@ Each idea is explained at length, with full worked examples, in the [Structure 3
 
 3D models (real or virtual) show the tetrahedral carbon that flat drawings hide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--01-formula-types.webp" width="900" height="990" alt="Skeletal formula of 1,4-dibromobutane with two hidden hydrogens on each carbon corner, leading step by step to the condensed formula BrCH2CH2CH2CH2Br, the molecular formula C4H8Br2 and the empirical formula C2H4Br (divide by 2)." loading="lazy">
+  <figcaption>A skeletal formula hides the hydrogens on carbon, but you can count them to get every other formula.</figcaption>
+</figure>
+
+
 ## Functional groups (3.2.2)
 
 | Group | Structure | Class |
@@ -60,6 +66,12 @@ Each idea is explained at length, with full worked examples, in the [Structure 3
 
 - **Saturated**: only C–C single bonds.
 - **Unsaturated**: at least one C=C or C≡C.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--02-nine-functional-groups.webp" width="900" height="1130" alt="Nine small structures, each with the functional group highlighted in gold on the rest of the molecule R: halogeno, hydroxyl, carbonyl (aldehyde if R' is H), carboxyl, alkoxy, amino, amido, ester and phenyl." loading="lazy">
+  <figcaption>Each functional group is a small, recognisable arrangement of atoms.</figcaption>
+</figure>
+
 
 ## Homologous series (3.2.3)
 
@@ -99,6 +111,12 @@ Same functional group, same general formula, successive members differ by **CH�
 
 **Worked reminder.** Rank butan-1-ol, butanal and 2,2-dimethylpropane by boiling point. Their molecules have similar numbers of electrons (42, 40 and 42), so the type of force decides. Butan-1-ol hydrogen bonds, so it is highest. Butanal has a polar C=O and dipole–dipole forces, so it comes next. 2,2-dimethylpropane has London forces only, and its compact branched shape weakens even those, so it is lowest. Order: **butan-1-ol > butanal > 2,2-dimethylpropane**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--03-alcohol-boiling-points.webp" width="900" height="940" alt="Line graph of boiling point against carbon number for methanol to pentan-1-ol (338, 352, 370, 391, 411 K) with a dashed estimate for hexan-1-ol of about 430 K, using the lesson's +20 K per CH2." loading="lazy">
+  <figcaption>Boiling points rise by about 20 K for each extra CH2 as London forces grow.</figcaption>
+</figure>
+
+
 ## IUPAC naming (3.2.5)
 
 **Scope:** parent chain of up to six carbons; saturated or one C=C or C≡C; one type of group from halogeno, hydroxyl, carbonyl and carboxyl; straight or branched chains.
@@ -130,6 +148,17 @@ Same functional group, same general formula, successive members differ by **CH�
 - CH₂=CHCOCH₂CH₃: C=O is carbon 3 both ways, so the C=C decides. Name: **pent-1-en-3-one**.
 - (CH₃)₂CHCH₂COOH: COOH carbon is 1, methyl on 3. Name: **3-methylbutanoic acid**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--04-numbering-direction.webp" width="900" height="950" alt="The same six-carbon molecule numbered from each end: from the left the OH is on carbon 5, from the right on carbon 2, so the name is hex-4-en-2-ol." loading="lazy">
+  <figcaption>The suffix group gets the lowest possible number, so numbering starts at the end nearer the OH.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--05-building-a-name.webp" width="900" height="880" alt="Skeletal formula of 3-methylpentanoic acid with its five-carbon chain, methyl branch on carbon 3 and COOH carbon as carbon 1, linked by colour to the name parts 3-methyl, pent and anoic acid." loading="lazy">
+  <figcaption>A name is built from the branch, the chain length stem and the group ending.</figcaption>
+</figure>
+
+
 ## Structural isomers (3.2.6)
 
 Same molecular formula, different connectivity.
@@ -150,6 +179,22 @@ Same molecular formula, different connectivity.
 So (CH₃)₃CNH₂, 2-methylpropan-2-amine, is a **primary** amine, even though the same carbon skeleton with –OH would be a tertiary alcohol. CH₃CH₂NHCH₂CH₃ is a **secondary** amine.
 
 **Linking questions to HL content.** Only three dibromobenzene isomers exist (1,2-, 1,3- and 1,4-). With alternating single and double bonds there would be two different 1,2-isomers, so the result supports six equal ring bonds. A second HL link: two amino acids join through an amido link (–CONH–) when they form a dipeptide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--06-c4h8o-isomers.webp" width="900" height="1060" alt="Skeletal formulae of butanal, 2-methylpropanal, but-3-en-1-ol, but-3-en-2-ol and butan-2-one grouped as chain, position and functional group isomer pairs, all C4H8O." loading="lazy">
+  <figcaption>Structural isomers share a molecular formula but differ in how the atoms are joined.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--07-primary-secondary-tertiary.webp" width="900" height="1050" alt="Three alcohols classified by counting the carbons bonded to the C-OH carbon (1, 2, 3), and two amines classified by counting the carbons bonded to nitrogen (butan-2-amine primary, N,N-dimethylethanamine tertiary)." loading="lazy">
+  <figcaption>Alcohols are classified by the carbon bearing the OH, amines by the nitrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--08-dibromobenzene-hl.webp" width="900" height="1000" alt="Higher Level only. A benzene ring with alternating single and double bonds would give two different 1,2-dibromobenzenes (C=C or C-C between the bromine carbons); only one exists, so all six ring bonds are equal." loading="lazy">
+  <figcaption>Only one 1,2-dibromobenzene exists, which supports equal, delocalised bonds in benzene.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -55,10 +55,22 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 2. Check whether it melts sharply or over a range.
 3. Sharp and matching: likely the pure substance. Lower and spread out: impure. Sharp but different: a different pure substance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--08-purity-melting-boiling.webp" width="900" height="950" alt="Two sketch graphs of temperature against time. A pure substance melts and boils at one flat, sharp temperature. An impure substance starts melting below the pure melting point and rises through a range, and boils over a range generally above the pure boiling point." loading="lazy">
+  <figcaption>Pure substances have a sharp melting and boiling point; impure ones melt and boil over a range.</figcaption>
+</figure>
+
+
 ## Why purity matters (3.4.1 b)
 
 - **Drugs:** correct dose of the active compound; no harmful impurities.
 - **Foodstuffs:** no harmful contaminants; contents match the label.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests--04-why-purity-matters.webp" width="900" height="890" alt="Two tablet cross-sections: a pure drug of active particles giving the correct dose, and an impure one with impurity particles mixed in giving a wrong dose that may harm. A food tin shows food must match its label and be free of harmful contaminants." loading="lazy">
+  <figcaption>Impurities in drugs and food can change the dose or cause harm.</figcaption>
+</figure>
+
 
 ## Separating mixtures (3.4.1 c)
 
@@ -71,6 +83,17 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 **Crystallisation in steps:** warm to drive off part of the solvent until saturated → cool so crystals form → filter → dry the crystals.
 
 **Distillation in brief:** heat the mixture → the liquid with the lower boiling point evaporates → vapour cools and condenses in the condenser → collect the distillate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--06-filter-crystallise.webp" width="900" height="925" alt="Filtration: a mixture is poured through filter paper; the residue stays on the paper and the filtrate drips into a beaker. Crystallisation: a solution is heated so solvent evaporates, the saturated solution is cooled, and crystals form to be filtered and dried." loading="lazy">
+  <figcaption>Filtration separates an insoluble solid; crystallisation recovers a dissolved solid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--07-distillation.webp" width="900" height="1215" alt="Simple distillation: salt solution is heated, water vapour passes through a condenser (water in at the bottom, out at the top) and pure water is collected while salt stays behind. Fractional distillation adds a fractionating column; ethanol, with the lower boiling point, boils first and is collected from ethanol and water." loading="lazy">
+  <figcaption>Simple distillation recovers a solvent; fractional distillation separates miscible liquids by boiling point.</figcaption>
+</figure>
+
 
 ## Paper chromatography (3.4.1 d)
 
@@ -94,6 +117,27 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 
 **Solvents other than water** can be used. Pick a solvent the substances dissolve in. Water suits many food colourings; ethanol or another solvent suits inks that are insoluble in water. Rf values depend on the solvent, so compare only results from the same solvent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests--05-two-solvents-purity.webp" width="900" height="830" alt="Dye K gives one spot (Rf 0.50) in water but two spots (Rf 0.20 and 0.70) in ethanol, solvent front 6.0 cm, so it is a mixture." loading="lazy">
+  <figcaption>Run a second solvent before calling a sample pure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests--01-phases-solubility.webp" width="900" height="810" alt="A beaker with solvent below a pencil baseline on a paper strip. Three spots sit at computed heights: the most soluble dye has moved furthest, a less soluble one about half as far, and an insoluble one stays on the baseline. The paper is labelled the stationary phase and the solvent the mobile phase." loading="lazy">
+  <figcaption>More soluble dyes spend more time in the moving solvent and travel further up the paper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--04-reading-chromatogram.webp" width="900" height="770" alt="Lanes A, B and C are known substances with one spot each. Lane X has two spots level with A and C, so it is impure and contains A and C. Lane Y has one spot level with B, so it is pure and matches B." loading="lazy">
+  <figcaption>Matching heights identify substances; one spot means pure, two or more means impure.</figcaption>
+</figure>
+
+
 ## Rf values and how separation happens (3.4.1 d, e)
 
 | Formula | Rearranged |
@@ -114,6 +158,17 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 - Impure: two or more spots.
 - One spot in one solvent is not proof of purity. Run it in a second solvent, alongside a pure reference. One spot each time, level with the reference, is strong evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests--02-ink-reference-dyes.webp" width="900" height="745" alt="A chromatogram with reference dyes P, Q, R (Rf 0.20, 0.64, 0.45) and an ink with spots at 1.5 and 4.8 cm, solvent front 7.5 cm. The Rf values 0.20 and 0.64 match P and Q; R does not match." loading="lazy">
+  <figcaption>The ink spots give Rf 0.20 and 0.64, so the ink contains P and Q but not R.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--05-rf-value.webp" width="900" height="1010" alt="A chromatogram shows a solvent front 80 mm above the baseline. A blue spot has moved 48 mm and an orange spot 24 mm. Dividing by 80 gives Rf 0.60 and 0.30. Rf is always less than 1." loading="lazy">
+  <figcaption>Rf = distance moved by substance / distance moved by solvent, both measured from the baseline.</figcaption>
+</figure>
+
+
 ## Identification of common gases (3.4.2 a to e)
 
 | Gas | Test | Positive result |
@@ -132,6 +187,17 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 - 2H₂ + O₂ → 2H₂O (the pop)
 - Ca(OH)₂ + CO₂ → CaCO₃ + H₂O (insoluble calcium carbonate makes the cloudiness)
 - NH₃ + HCl → NH₄Cl (the white smoke is solid ammonium chloride)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests--03-ammonia-chlorine-tests.webp" width="900" height="1040" alt="Ammonia turns damp red litmus blue and makes white ammonium chloride smoke with the stopper of a concentrated HCl bottle (NH3 + HCl gives NH4Cl). Chlorine turns damp blue litmus red and then bleaches it white." loading="lazy">
+  <figcaption>Two gas tests need two observations: ammonia gives blue litmus and white smoke; chlorine gives red then white.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--07-gas-tests.webp" width="900" height="1162" alt="Six gas tests with before and after: ammonia turns damp red litmus blue; carbon dioxide turns limewater milky; chlorine bleaches damp litmus white; hydrogen gives a squeaky pop with a lighted splint; oxygen relights a glowing splint; sulfur dioxide decolourises acidified manganate(VII)." loading="lazy">
+  <figcaption>What to do and what you see for six gases.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

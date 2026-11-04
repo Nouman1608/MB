@@ -72,6 +72,12 @@ A painkiller, an antibiotic and caffeine all fit the definition. A hormone such 
 
 Both parts of the definition are needed for both marks. "It changes how your body works" on its own is too vague.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--01-what-is-a-drug.webp" width="900" height="1010" alt="Schematic. Caffeine in coffee, a painkiller and an antibiotic are taken into the body from outside, where each changes a chemical reaction. Insulin made by the pancreas inside the body is not taken in, so it is not a drug." loading="lazy">
+  <figcaption>A drug is taken into the body and changes chemical reactions in it; substances the body makes itself are not drugs.</figcaption>
+</figure>
+
+
 ## 15.1.2 Using antibiotics to treat bacterial infections
 
 A **bacterial infection** happens when pathogenic bacteria enter the body and reproduce. The body's own defences (topic 10) often destroy them, but sometimes the infection spreads or becomes serious. A doctor may then prescribe an **antibiotic**.
@@ -85,6 +91,12 @@ What you need to describe:
 
 Examples of bacterial infections you may see in questions include some throat infections, some chest infections, infected wounds and cholera (which also appears in topic 10). Questions usually give you the context; you do not need a list of named antibiotics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--02-antibiotic-treatment.webp" width="900" height="1010" alt="Three steps. Bacteria reproduce and the infection grows; an antibiotic kills most of them, leaving a few; the immune system deals with the remainder and the person recovers." loading="lazy">
+  <figcaption>An antibiotic kills bacteria so the immune system can clear the rest.</figcaption>
+</figure>
+
+
 ## 15.1.4 Why antibiotics do not affect viruses
 
 This is a Core statement, and questions test it often: **antibiotics kill bacteria but do not affect viruses.**
@@ -96,6 +108,12 @@ The reason is that viruses are very different from bacteria:
 - So there is nothing in a virus for an antibiotic to act on.
 
 This is why a doctor will not prescribe antibiotics for a cold or flu, which are caused by viruses. Taking an antibiotic for a viral infection gives no benefit to the patient. It also exposes the bacteria that live in and on the body to the antibiotic, which matters for resistance (see below).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
+</figure>
+
 
 ## 15.1.3 Antibiotic resistance
 
@@ -172,6 +190,12 @@ Year 3: (22 ÷ 200) × 100 = 11.0 %
 
 Note that you must compare percentages, not raw numbers, because the number of samples changed each year. If you were told the hospital cut unnecessary antibiotic use after year 2, you could suggest that the fall in year 3 is consistent with less selection for resistant bacteria. Say "suggest" or "consistent with" -- the data alone do not prove the cause.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--06-mrsa-percentages.webp" width="900" height="960" alt="Extended worked example. MRSA was 8.0% of samples in year 1 (20 of 250), 17.5% in year 2 (42 of 240) and 11.0% in year 3 (22 of 200). The percentage rose then fell; percentages are compared because the number of samples changed." loading="lazy">
+  <figcaption>Compare percentages, not raw numbers, when sample sizes differ.</figcaption>
+</figure>
+
+
 ### Worked example 4 -- why resistance can spread quickly
 
 *Question:* A single resistant bacterium divides once every 30 minutes. Assuming all offspring survive, how many resistant bacteria are there after 4 hours? **[2]**
@@ -185,6 +209,22 @@ Number of bacteria = 2 to the power 8 = 256
 ```
 
 *Answer:* **256** bacteria. This shows why a resistant strain, once selected, can become common very quickly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--05-only-when-essential.webp" width="900" height="1010" alt="Extended. A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
+  <figcaption>Using antibiotics only when essential gives resistant bacteria fewer chances to be selected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Extended worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
+  <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
+</figure>
+
 
 ## How this topic links to others
 

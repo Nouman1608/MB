@@ -93,6 +93,22 @@ changes is where the charges come from.
   structure. The sharing of these delocalised electrons gives strong metallic bonds: the negative delocalised
   electrons attract the positively charged metal centres they move among.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
+
 ### Worked example 1: classify and explain
 
 *For each substance, name the type of bonding and explain how it holds the particles together: potassium
@@ -132,6 +148,12 @@ what attracts what. "They share electrons" alone does not explain the bond.
 Bronze contains two different elements, but that does not make it ionic. Ionic bonding needs a **metal and a
 non-metal**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--10-which-strong-bond.webp" width="900" height="850" alt="Ionic is metal plus non-metal ions; covalent shares pairs between non-metals; metallic is metal ions with delocalised electrons in metals and alloys. KBr ionic, HCl covalent, Cu and bronze metallic; argon has no strong bonds." loading="lazy">
+  <figcaption>Classify a substance by its elements.</figcaption>
+</figure>
+
+
 ## 4.2.1.3 Ionic compounds: the giant lattice
 
 An ionic compound is a **giant structure of ions**. It is held together by strong electrostatic forces of
@@ -153,6 +175,12 @@ In solid sodium chloride:
 - each Na⁺ ion is surrounded by six Cl⁻ ions, and each Cl⁻ ion by six Na⁺ ions
 - the chloride ions are larger than the sodium ions
 - the pattern continues in every direction, so there are equal numbers of each ion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--11-nacl-six-neighbours.webp" width="900" height="890" alt="One sodium ion with six chloride ions around it, joined by dashed attraction lines; chloride is larger. Each chloride has six sodium neighbours, so there are no NaCl pairs." loading="lazy">
+  <figcaption>Each ion is attracted to six neighbours of the opposite charge.</figcaption>
+</figure>
+
 
 ### Worked example 3: deducing that a structure is ionic
 
@@ -176,6 +204,12 @@ Useful clues for "ionic" in any diagram:
 - a key naming a metal ion and a non-metal ion
 - a regular, alternating pattern with no separate groups of particles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--04-which-is-ionic.webp" width="900" height="960" alt="Four described diagrams: A pairs of atoms (covalent molecules), B positive ions with electrons (metallic), C alternating + and - ions in a repeating grid (ionic), D one atom type joined to four others (giant covalent)." loading="lazy">
+  <figcaption>Only C shows two kinds of charged particle in a repeating lattice.</figcaption>
+</figure>
+
+
 ### Limitations of the diagrams
 
 You must be able to describe the limitations of using **dot and cross**, **ball and stick**,
@@ -191,6 +225,12 @@ some features well and hides others.
 
 One limitation is shared by **every** model: a real crystal contains an enormous number of ions, so any
 drawing shows only a small fragment of the lattice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--12-diagram-limitations.webp" width="900" height="1130" alt="Dot and cross shows one pair of ions; ball and stick has sticks that look like bonds; the 2D diagram shows one layer; space-filling hides inner ions." loading="lazy">
+  <figcaption>Each model shows some features and hides others.</figcaption>
+</figure>
+
 
 ### Worked example 4: empirical formula from a 2D diagram
 
@@ -216,6 +256,12 @@ subscripts only for numbers greater than 1. The charge check is a useful habit, 
 know the charges. The specification limits charges from group number to Groups 1, 2, 6 and 7 (lithium is in
 Group 1 and oxygen in Group 6).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--13-empirical-formula-2d.webp" width="900" height="880" alt="Three rows each with Li+ O2- Li+ twice. 12 Li+ and 6 O2- is 2:1, so each outline is Li2O and charges cancel." loading="lazy">
+  <figcaption>Count ions, simplify the ratio and check charges.</figcaption>
+</figure>
+
+
 ### Worked example 5: watch the edges of a 3D model
 
 *A model of sodium chloride is a 3 × 3 × 3 cube of 27 ions, with Na⁺ ions at the eight corners. A student
@@ -232,6 +278,17 @@ Empirical formula: NaCl
 
 A small model has edges that matter; a real crystal is so large that they do not. When a count gives an odd
 ratio, look at the **repeating pattern** and check the charges.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--14-cube-count-trap.webp" width="900" height="970" alt="Three layers of a 3x3x3 sodium chloride block give 14 Na+ and 13 Cl-. Edges do not split evenly; a real crystal has equal numbers, so NaCl." loading="lazy">
+  <figcaption>Small models have edge effects; a real lattice is 1:1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
 
 ## Common errors
 

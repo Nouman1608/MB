@@ -41,6 +41,12 @@ Links: Edexcel [chemistry hub](/boards/edexcel/a-level/chemistry/), [printable c
 | Hexadentate (17.16) | Forms six dative bonds: EDTA⁴⁻ |
 | Polydentate (17.17) | Forms several dative bonds: the ligand around iron(II) in haemoglobin |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--01-complex-anatomy.webp" width="900" height="1160" alt="An octahedral copper(II) ion has six water ligands, each joined by a dative bond (a lone pair donated by the ligand); labels name the metal ion, ligand and dative bond. Below, three bidentate ethanedioate ligands (coloured curves) give six bonds to chromium, so the coordination number is 6 and Cr is +3." loading="lazy">
+  <figcaption>A complex is a metal ion with ligands bonded by dative bonds; count the bonds, not the ligands, for coordination number.</figcaption>
+</figure>
+
+
 ## 17.2 Configurations in steps
 
 1. Count electrons beyond argon: Z − 18.
@@ -67,6 +73,12 @@ Links: Edexcel [chemistry hub](/boards/edexcel/a-level/chemistry/), [printable c
 
 The 4s and 3d sub-shells are close in energy, so electrons from both can be lost or used in bonding. Successive ionisation energies climb gradually, with no sudden large jump until the 3d electrons run out. The energy cost of a higher charge can be paid back by lattice energy, hydration or covalent bonding. Result: several stable oxidation numbers, for example manganese from +2 up to +7.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--08-vanadium-oxidation-states.webp" width="900" height="810" alt="Four test tubes show yellow VO2+ (+5), blue VO2+ (+4), green V3+ (+3) and violet V2+ (+2), joined by arrows labelled Zn with E cell values +1.76 V, +1.10 V and +0.50 V. An arrow shows the oxidation state falling from +5 to +2." loading="lazy">
+  <figcaption>Zinc reduces vanadium from +5 to +2 in steps, each with a colour change.</figcaption>
+</figure>
+
+
 ## Reading any complex: method in steps
 
 1. List the ligands and their charges (H₂O, NH₃, NH₂CH₂CH₂NH₂ = 0; OH⁻, Cl⁻ = −1; EDTA⁴⁻ = −4).
@@ -88,6 +100,22 @@ The 4s and 3d sub-shells are close in energy, so electrons from both can be lost
 
 **Cis-platin:** the cis isomer of square planar [Pt(NH₃)₂Cl₂], Pt is +2. Cl–Pt–Cl is 90° in cis and 180° in trans. It is a cancer drug and is supplied as a **single isomer**, not mixed with the trans form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--02-complex-shapes.webp" width="900" height="1160" alt="Four ball-and-stick drawings: octahedral [Cu(H2O)6]2+ (90 degrees), tetrahedral [CuCl4]2- (109.5), square planar cisplatin (90) and linear [Ag(NH3)2]+ (180). Small ligands give octahedral, larger Cl- gives tetrahedral." loading="lazy">
+  <figcaption>Complex ions are octahedral, tetrahedral, square planar or linear depending on the ligands.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--03-cis-trans-isomers.webp" width="900" height="1040" alt="Octahedral [Co(NH3)4Cl2]+ and square planar [Pt(NH3)2Cl2] each shown twice: with the two Cl ligands 90 degrees apart (cis) and 180 degrees apart (trans). The cis square planar form is cisplatin." loading="lazy">
+  <figcaption>Cis isomers have the two Cl ligands at 90 degrees and trans at 180 degrees; cisplatin is cis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--04-optical-isomers.webp" width="900" height="870" alt="Two drawings of [Ni(en)3]2+ stand either side of a mirror line. Each has three curved bidentate ligands joining pairs of nitrogen atoms. They are mirror images and cannot be superimposed." loading="lazy">
+  <figcaption>[Ni(en)3]2+ exists as two non-superimposable mirror images, so it shows optical isomerism.</figcaption>
+</figure>
+
+
 ## 17.7–17.9 Colour: method in steps
 
 1. Ligands split the 3d orbitals into two energy levels, gap ΔE.
@@ -101,6 +129,12 @@ The 4s and 3d sub-shells are close in energy, so electrons from both can be lost
 - ΔE corresponds to ultraviolet rather than visible light.
 
 **Worked reminder.** Why is [Ti(H₂O)₆]³⁺ purple when [Sc(H₂O)₆]³⁺ is colourless? Ti³⁺ is [Ar] 3d¹. The water ligands split its 3d orbitals, and the single d electron absorbs visible light (mainly yellow-green) to jump the gap ΔE. Red and blue light pass through, so the solution looks purple. Sc³⁺ is [Ar] with no d electrons, so nothing can be promoted and no visible light is absorbed. Write the configuration first: it makes the reason for colour, or its absence, easy to state.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--07-colour-d-orbitals.webp" width="900" height="1050" alt="A spectrum bar from 400 to 700 nm has the 620 nm band removed. An energy diagram shows split d orbitals (three lower, two upper) with a photon lifting a d electron across the gap delta E. Delta E = hc/lambda = 3.21e-19 J per ion = 193 kJ/mol." loading="lazy">
+  <figcaption>A complex absorbs light whose energy matches delta E, promoting a d electron; we see the remaining colours.</figcaption>
+</figure>
+
 
 ## 17.11 Colour changes: three causes
 
@@ -157,6 +191,12 @@ Each change alters ΔE, so a different frequency is absorbed.
 10. **180°** (the NH₃ ligands are opposite each other).
 11. CO **replaces O₂ on the iron(II)** of haemoglobin by ligand exchange and binds more strongly, so less oxygen is carried.
 12. A molecule or ion that **donates a lone pair** to a central metal ion, forming a dative bond.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--05-ligand-exchange.webp" width="900" height="1295" alt="Pale blue [Cu(H2O)6]2+ gives deep blue [Cu(NH3)4(H2O)2]2+ with ammonia (still six bonds) and yellow tetrahedral [CuCl4]2- with concentrated HCl (six bonds to four). Pink [Co(H2O)6]2+ becomes blue [CoCl4]2- with chloride." loading="lazy">
+  <figcaption>Ammonia swaps for water without changing coordination number, but larger chloride ions give a four-coordinate tetrahedral complex.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -38,6 +38,17 @@ Then try the [Group 2 practice questions](/resources/ocr-a-level-chemistry-group
 3. Say which is oxidised and which is reduced, each with its numbers.
 4. Check electrons lost = electrons gained.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--04-sulfate-test.webp" width="900" height="950" alt="Three test tubes show dilute HCl removing carbonate as CO2, then BaCl2 solution added, then a white precipitate of BaSO4. An ion picture shows Ba2+ and SO4 2- joining, with a warning not to acidify with sulfuric acid." loading="lazy">
+  <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--05-group2-thermal-stability.webp" width="900" height="1000" alt="Rows for Mg2+ to Ba2+ show a cation beside a carbonate ion whose electron cloud is distorted most by the smallest cation. Bars show more heat is needed to decompose as the cation gets larger. Equations for carbonate and nitrate decomposition are given. Edexcel only." loading="lazy">
+  <figcaption>Edexcel only: smaller, more highly charged cations polarise the anion more, so Group 2 carbonates and nitrates become more stable down the group.</figcaption>
+</figure>
+
+
 ## 3.1.2(b): The three reactions
 
 | Reaction | General equation | Notes |
@@ -63,6 +74,17 @@ Cl: −1 → −1     unchanged
 ### Comparing two metals in one answer
 
 When a question asks you to compare two Group 2 metals, use a comparative for every point: "calcium fizzes more vigorously than magnesium", "barium disappears faster than strontium". A list of separate observations for each metal, with no comparison, does not answer the question. If the amounts of metal in moles are the same, the final volume of hydrogen is the same; only the rate differs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--02-group2-water.webp" width="900" height="985" alt="Four tubes show increasing bubbling from Mg to Ba in cold water, giving hydroxide and hydrogen. Below, magnesium burns in steam with bright white light to give white MgO and hydrogen." loading="lazy">
+  <figcaption>Reactivity with water increases down Group 2; magnesium with steam gives the oxide, not the hydroxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--07-halogen-displacement.webp" width="900" height="1110" alt="A three by three grid of tubes shows each halogen with KCl, KBr and KI; displacement occurs only when the added halogen is more reactive. A lower panel shows chlorine pale green, bromine orange and iodine violet in cyclohexane (OCR and Edexcel)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halide; in cyclohexane the halogens are pale green, orange and violet (OCR, Edexcel).</figcaption>
+</figure>
+
 
 ## 3.1.2(c): Ionisation energies and reactivity
 
@@ -96,6 +118,12 @@ The M3.1 label on this outcome means you should move freely between a table, a g
 
 **Reading the data.** From Mg to Ca the sum of the first two ionisation energies drops by 454 kJ mol⁻¹. From Sr to Ba it drops by 146 kJ mol⁻¹. The fall continues all the way down, so each metal reacts more readily than the one above it. On a graph of ionisation energy against element, both lines slope downwards from left to right, with the second ionisation energy line above the first for every element: removing an electron from a positive ion always needs more energy than removing one from a neutral atom of the same element.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--01-group2-trends.webp" width="900" height="970" alt="Four Group 2 atoms are drawn with 3 to 6 shells and two gold outer electrons. Bars show first ionisation energy falling from Mg 738 to Ba 503 kJ per mole. More shells and shielding outweigh the extra nuclear charge." loading="lazy">
+  <figcaption>Atomic radius increases and first ionisation energy decreases from Mg to Ba.</figcaption>
+</figure>
+
+
 ## 3.1.2(d): Oxides with water
 
 ```
@@ -112,6 +140,17 @@ M(OH)₂ → M²⁺(aq) + 2OH⁻(aq)
 
 - The hydroxides get more soluble down the group, so [OH⁻] rises and the alkalinity increases.
 - No oxidation numbers change: this is an acid-base type reaction, not redox.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--03-group2-solubility.webp" width="900" height="1070" alt="Two rows of test tubes for Mg to Ba. Hydroxide solubility rises down the group, shown by less undissolved solid and more dissolved ions. Sulfate solubility falls, ending with insoluble BaSO4." loading="lazy">
+  <figcaption>Hydroxides become more soluble and sulfates less soluble down Group 2 (schematic).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--10-chlorine-disproportionation.webp" width="900" height="1075" alt="A scale of chlorine oxidation numbers: Cl2 at 0 splits into chloride at minus 1 and either HClO or NaClO at plus 1. With hot NaOH (Edexcel only) the product is NaClO3 at plus 5. Balanced equations are shown." loading="lazy">
+  <figcaption>Chlorine is both oxidised and reduced in water and in alkali; hot alkali gives chlorate(V) (Edexcel only).</figcaption>
+</figure>
+
 
 ## 3.1.2(e): Bases in use
 
@@ -187,6 +226,12 @@ mass        = 0.00500 × 58.3 = 0.292 g
 - Using a 1 : 1 ratio between a Group 2 base and HCl.
 - Forgetting CO₂ and H₂O in the carbonate antacid equation.
 - Describing barium as "less reactive because it is bigger"; size makes it more reactive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
+  <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

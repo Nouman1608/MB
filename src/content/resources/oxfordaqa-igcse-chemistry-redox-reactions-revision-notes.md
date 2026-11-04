@@ -62,6 +62,12 @@ Fe₂O₃ + 3CO → 2Fe + 3CO₂
 - Fe₂O₃ → Fe is reduction (oxygen lost).
 - CO → CO₂ is oxidation (oxygen gained).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--01-oxygen-transfer.webp" width="900" height="960" alt="Copper(II) oxide has a copper atom bonded to oxygen, beside a hydrogen molecule. A dashed arrow shows the oxygen moving to the hydrogen. Afterwards there is a copper atom and a water molecule: copper lost oxygen (reduced) and hydrogen gained oxygen (oxidised)." loading="lazy">
+  <figcaption>In CuO + H2 -&gt; Cu + H2O oxygen moves from copper to hydrogen, so reduction and oxidation happen together.</figcaption>
+</figure>
+
+
 ## Electron transfer: half equations
 
 ### Method in steps: writing a half equation
@@ -110,6 +116,17 @@ Sodium burning in bromine vapour:
 
 Overall: 2Na + Br₂ → 2NaBr. Sodium is oxidised; bromine is reduced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-redox-reactions--01-displacement-electrons.webp" width="900" height="940" alt="Two panels. Top: magnesium gives 2 electrons to two silver ions, so Mg is oxidised (Mg to Mg2+ + 2e-) and Ag+ is reduced (2Ag+ + 2e- to 2Ag). Bottom: two iodide ions give 2 electrons to a chlorine molecule, so I- is oxidised (2I- to I2 + 2e-) and Cl2 is reduced (Cl2 + 2e- to 2Cl-). Electrons lost equal electrons gained." loading="lazy">
+  <figcaption>Displacement reactions are redox: the particle losing electrons is oxidised, the one gaining them is reduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
+</figure>
+
+
 ## Redox in other parts of the specification
 
 | Topic | Oxidised | Reduced |
@@ -126,6 +143,12 @@ Reactivity and electrons (3.7.1 f):
 
 - Group 1: lower down, outer electrons are in a higher energy level, so they are **lost more easily**. Each metal is oxidised more readily than the one above it, and reactivity rises.
 - Group 7: lower down, outer electrons are in a higher energy level, so electrons are **gained less easily**. The halogen is reduced less readily, so reactivity decreases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-redox-reactions--04-redox-labels.webp" width="900" height="650" alt="The equation Fe2O3 + 3CO -&gt; 2Fe + 3CO2 with oxygen counts 3, 3, 0, 6. Fe2O3 loses oxygen (reduction, arrow above) and CO gains oxygen (oxidation, arrow below)." loading="lazy">
+  <figcaption>In Fe2O3 + 3CO -&gt; 2Fe + 3CO2, reduction and oxidation happen at the same time.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -146,6 +169,12 @@ Notice the pattern: name the particle, say whether it loses or gains electrons, 
 **"Explain why the reaction of a metal oxide with carbon is a redox reaction."**
 
 The metal oxide loses oxygen, so it is reduced. Carbon gains that oxygen, so it is oxidised. Oxidation and reduction happen together, so the reaction is redox.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-redox-reactions--03-fe-cl2-electrons.webp" width="900" height="780" alt="Two iron atoms each lose three electrons to form two Fe3+ ions (oxidation). Three chlorine molecules gain a total of six electrons to form six Cl- ions (reduction). The six electrons lost equal the six gained." loading="lazy">
+  <figcaption>Six electrons pass from iron to chlorine: iron is oxidised and chlorine is reduced.</figcaption>
+</figure>
+
 
 ## Electrolysis of molten compounds: half equations at a glance
 
@@ -184,6 +213,12 @@ To build a row: the metal ion goes to the cathode and gains as many electrons as
 9. The iodide ion, I⁻ (2I⁻ → I₂ + 2e⁻).
 10. Bromine, Br₂. Each molecule gains two electrons and forms two Br⁻ ions.
 11. Potassium has its outer electron in a higher energy level than lithium does, so the nucleus holds it less strongly and potassium gives it up more readily.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-redox-reactions--05-electrolysis-redox.webp" width="900" height="880" alt="Molten calcium bromide between a negative cathode and positive anode. Ca2+ moves to the cathode and gains two electrons (reduction). Br- moves to the anode where two ions lose two electrons to make Br2 (oxidation)." loading="lazy">
+  <figcaption>Reduction happens at the cathode and oxidation at the anode.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -94,6 +94,37 @@ A research team inserts adult nuclei into 240 egg cells. 30 develop into embryos
 
 Most attempts fail, so the technique is costly. This matters when you are asked to judge whether cloning is worthwhile.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--05-embryo-transplant.webp" width="900" height="1290" alt="Fertilise an egg, grow a ball of cells, split the cells apart before they specialise, transplant each group into a host mother. The calves are identical to each other but not to the host mothers." loading="lazy">
+  <figcaption>Splitting an early embryo gives identical calves carried by different host mothers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--06-tissue-culture-vs-cuttings.webp" width="900" height="910" alt="One group of cells splits into 4 each cycle: 1, 4, 16, 64, 256 after four cycles. Twelve cuttings with nine rooted is 75 percent. Cuttings give at most 12 plants, tissue culture 256." loading="lazy">
+  <figcaption>Tissue culture makes far more identical plants than cuttings, but needs a sterile laboratory.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--07-adult-cell-cloning-success.webp" width="900" height="920" alt="Funnel, widths to scale: 240 egg cells, 30 embryos (12.5 percent), 9 pregnancies, 3 live births. Overall 1.25 percent, so about 80 egg cells per live animal." loading="lazy">
+  <figcaption>Most adult cell cloning attempts fail, which makes it costly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--03-micropropagation.webp" width="900" height="1120" alt="Four steps: cut explants from a parent tip, sterilise them, grow them in vitro on sterile agar with nutrients and hormones, then move plantlets to compost. The plants are genetically identical, so one disease could hit all." loading="lazy">
+  <figcaption>Micropropagation makes many identical plants from small pieces of one parent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--08-runners-and-cuttings.webp" width="900" height="1010" alt="Top: a strawberry plant sends out a runner, a side stem along the soil; roots and shoots grow at a point along it to form a new plant. Bottom: four steps for a cutting. 1 cut a short shoot just below a node; 2 remove the lower leaves to reduce water loss by transpiration; 3 dip the cut end in rooting powder, which contains plant hormones that stimulate root growth; 4 plant in damp compost and cover with a clear plastic bag to keep the air humid. Both methods use mitosis, so the new plants are genetically identical to the parent." loading="lazy">
+  <figcaption>Both methods make new plants by mitosis, so every new plant is a clone of the parent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--04-dolly-cloning.webp" width="900" height="890" alt="A diploid udder cell nucleus from sheep A is put into an egg from sheep B whose nucleus was removed. An electric shock makes it divide into an embryo, placed in surrogate sheep C. The lamb is identical to sheep A, the nucleus donor." loading="lazy">
+  <figcaption>The cloned lamb matches the sheep that donated the nucleus, not the egg donor or surrogate.</figcaption>
+</figure>
+
+
 ## 3.5.5 b: Genetic engineering
 
 In genetic engineering, genes from the chromosomes of humans and other organisms can be "cut out" and transferred to cells of other organisms. The organism receiving the gene then makes the protein that the gene codes for.
@@ -114,9 +145,31 @@ Percentage that took up the gene = 40 ÷ 5000 × 100 = **0.8%**.
 
 So 4960 bacteria did not. Methods that allow the successful ones to be found and grown on are essential, but you do not need the detail for this specification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--11-bacteria-doubling-4096.webp" width="900" height="890" alt="Bars at each hour: 1, 4, 16, 64, 256, 1024, 4096. Twelve divisions in 6 hours give 2 to the power 12 = 4096 bacteria, all carrying the gene." loading="lazy">
+  <figcaption>One bacterium that has taken up the gene gives 4096 carriers in 6 hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--12-plasmid-uptake-percentage.webp" width="900" height="970" alt="100 squares stand for 5000 bacteria (50 each). The 40 that took up a plasmid fill 0.8 of one square: 0.8 percent. 4960 did not." loading="lazy">
+  <figcaption>Only 0.8 percent of the bacteria took up the plasmid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
+
 ## 3.5.5 c: Transfer at an early stage of development
 
 Genes can also be moved into the cells of animals, plants or microorganisms **at an early stage in their development**. The organism then grows with the new gene in every cell, so it **has the desired characteristics** as it develops. If the gene were added to an adult, only the cells reached would change. Early-stage transfer means each cell formed by division carries the gene.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--10-early-stage-gene-transfer.webp" width="900" height="860" alt="A gene added to a fertilised egg is carried by every cell as it divides to 2, 4 and 8 cells. A gene added to an adult reaches only some cells (3 of 24, illustrative)." loading="lazy">
+  <figcaption>Early-stage transfer gives an organism with the gene in every cell.</figcaption>
+</figure>
+
 
 ## 3.5.5 d and e: GM crops and yields
 
@@ -144,11 +197,28 @@ Five plots of a GM maize and five of a non-GM maize were grown on similar soil. 
 
 The data come from one site and one season, so they cannot show that GM maize will give 20% more everywhere.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--08-gm-maize-yield-trial.webp" width="900" height="900" alt="Dot plot of five plots each. GM mean 9.6 t/ha, non-GM mean 8.0 t/ha, a 20 percent increase. The highest non-GM plot (8.2) is below the lowest GM plot (9.4). Over 40 hectares this is 64 extra tonnes." loading="lazy">
+  <figcaption>The GM plots all out-yielded the non-GM plots, but the trial covers one site and one season.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--07-gm-examples.webp" width="900" height="1015" alt="Four examples: human insulin gene into bacteria so they make human insulin; herbicide resistance so the crop lives and weeds die; insect resistance in maize using a bacterial gene so pests die; rice that makes beta-carotene for vitamin A." loading="lazy">
+  <figcaption>GM moves a gene from one organism into another to give a useful new feature.</figcaption>
+</figure>
+
+
 ## 3.5.5 f: Concerns about GM crops
 
 - **Wild flowers:** a herbicide-resistant crop allows heavy weedkiller use, so fewer wild flowers survive.
 - **Insects:** fewer weeds and fewer pests mean less food and fewer habitats for insects, and insect-resistant crops may harm insects that are not pests. Fewer insects affects the animals that feed on them.
 - **Human health:** there is uncertainty about the effects of eating GM crops on human health.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--13-gm-crop-concerns.webp" width="900" height="1100" alt="Herbicide-resistant crops allow heavy weedkiller use and fewer wild flowers; insect-resistant crops may harm non-pest insects; fewer insects means fewer animals that eat them. Effects on human health are uncertain." loading="lazy">
+  <figcaption>Each concern is a chain of effects, and health effects are uncertain.</figcaption>
+</figure>
+
 
 ## Making informed judgements
 
@@ -170,6 +240,12 @@ A trial found that a GM crop needed 2 insecticide sprays per season, against 6 f
 - Judgement: the evidence supports a benefit to the farmer, but a decision would need information on wider effects.
 
 For cloning, the same style works. A cloned herd keeps the best features, but identical animals mean no genetic variation, so one disease could affect all of them, and the success rate may be low.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--14-insecticide-sprays-compared.webp" width="900" height="1100" alt="The GM crop needed 2 sprays against 6: 67 percent fewer. On 25 hectares that is 50 against 150 sprays, 100 fewer. The trial does not show effects on wild insects, flowers or health." loading="lazy">
+  <figcaption>Fewer sprays is a benefit, but wider effects are not shown.</figcaption>
+</figure>
+
 
 ## Common errors
 

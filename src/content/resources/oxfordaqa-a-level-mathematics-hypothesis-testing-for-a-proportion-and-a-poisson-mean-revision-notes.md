@@ -83,6 +83,17 @@ Links: [course hub](/boards/oxfordaqa/a-level/mathematics/) · [checklist](/chec
 - Type II errors must be understood, but the specification states that questions requiring the calculation of the risk of a Type II error will not be set.
 - Always describe an error in the context of the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--06-poisson-critical-region.webp" width="900" height="1010" alt="Bar chart of Po(4.5). The critical region X = 0 or X ≥ 10 is shaded gold with tail probabilities 0.0111 and 0.0171, total 0.0282. The observed 11 lies in the critical region so H0 is rejected." loading="lazy">
+  <figcaption>At the 5% level each tail gets at most 2.5%, and the actual significance level 0.0282 is the probability of a Type I error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--07-binomial-critical-region.webp" width="900" height="1010" alt="Bar chart of B(28, 0.35). The critical region X ≤ 5 or X ≥ 15 is shaded gold with tails 0.0393 and 0.0337, total 0.0730. The observed 16 is in the critical region so H0 is rejected; doubling P(X ≥ 16) = 0.0136 gives 0.0272 which is below 0.10." loading="lazy">
+  <figcaption>At the 10% level each tail gets at most 5%, and the actual significance level 0.0730 is the probability of a Type I error.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Binomial lower tail.** X ~ B(15, 0.6), H₁: p < 0.6, observed 5, 5% level. P(X ≤ 5) = 0.0338 ≤ 0.05, so reject H₀. P(X ≤ 6) = 0.0950, so the critical region is X ≤ 5 and the acceptance region is 6 ≤ X ≤ 15.
@@ -96,6 +107,12 @@ Links: [course hub](/boards/oxfordaqa/a-level/mathematics/) · [checklist](/chec
 **Binomial two-tailed critical region.** X ~ B(20, 0.5), 5% level, H₁: p ≠ 0.5. Each tail is at most 0.025. P(X ≤ 5) = 0.0207 (within 0.025) and P(X ≤ 6) = 0.0577 (too big), so X ≤ 5. By symmetry the upper tail is X ≥ 15. The actual significance level is 0.0207 + 0.0207 = 0.0414.
 
 **Poisson scaling.** A mean of 1.8 flaws per metre of ribbon becomes 9 over 5 metres. Under H₀ the count is Po(9). If you wrongly keep Po(1.8), every probability in the test is wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--03-poisson-scaling-interval.webp" width="900" height="1080" alt="Six 10-minute blocks each with mean 1.5 show 20 minutes has λ = 3 and one hour has λ = 9. Po(3) with r ≤ 3 shaded gives 0.647 and Po(9) with r ≥ 10 shaded gives 0.413." loading="lazy">
+  <figcaption>Rescale the mean to the interval you observe before calculating any probability.</figcaption>
+</figure>
+
 
 ## Wording bank
 
@@ -150,6 +167,12 @@ Type II error: "Failing to conclude that [change] has happened when H₀ is in f
 10. Concluding that there is insufficient evidence that the mean has risen, when it really has risen.
 11. P(X ≥ 9) = 1 − P(X ≤ 8).
 12. "There is insufficient evidence at the 5% level to suggest that the mean differs from 2.4."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--05-poisson-variance-equals-mean.webp" width="900" height="940" alt="A number line of variance divided by mean. B(50, 0.3) gives 0.70, data with mean 2.3 and variance 2.2 give 0.96, Po(λ) gives exactly 1, and data with mean 2.6 and variance 5.9 give 2.27. Values near 1 suit Poisson, values above 1 suggest clustering." loading="lazy">
+  <figcaption>A Poisson count has variance equal to its mean; a ratio well above 1 signals clustered events or a varying rate.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

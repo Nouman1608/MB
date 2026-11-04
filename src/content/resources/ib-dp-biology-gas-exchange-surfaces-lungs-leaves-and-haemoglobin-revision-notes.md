@@ -49,6 +49,17 @@ These notes condense section B3.1 (Gas exchange) of the IB *Biology guide*, firs
 
 **Must-know distinction.** Ventilation renews the air or water at the surface. Blood flow renews the fluid on the other side. Both are needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--01-surface-volume.webp" width="900" height="930" alt="Two cubes drawn to the same scale: a 2 mm cube has surface area 24 mm2, volume 8 mm3 and ratio 3.0 per mm; an 8 mm cube has 384 mm2, 512 mm3 and ratio 0.75 per mm. The side is four times longer but the ratio four times smaller." loading="lazy">
+  <figcaption>As an organism gets bigger its surface-area-to-volume ratio falls, so diffusion across the body surface alone cannot supply the middle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--02-exchange-surface.webp" width="900" height="740" alt="A thin, wavy, moist wall separates fresh ventilated air from flowing blood. Oxygen is plentiful in the air and scarce in the blood, carbon dioxide the reverse, so oxygen diffuses in and carbon dioxide out. Labels mark permeable, thin (one cell), moist film and large area." loading="lazy">
+  <figcaption>Ventilation and blood flow keep both gradients steep across a thin, moist, permeable, large-area surface.</figcaption>
+</figure>
+
+
 ## B3.1.4 and B3.1.5 Lungs and ventilation
 
 Air path: trachea, bronchi, bronchioles, alveoli. At the alveoli, oxygen moves by diffusion from the air into the blood, while carbon dioxide moves the other way into the air that will be exhaled.
@@ -68,6 +79,17 @@ Alveolar lung adaptations to recall: surfactant, branched bronchioles, extensive
 4. State the change in pressure.
 5. State the direction of air flow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--03-alveoli.webp" width="900" height="1100" alt="Air passes down the trachea into bronchi, then branching bronchioles ending in alveolus clusters wrapped in capillaries. An enlarged alveolus shows a thin wall with a surfactant-containing moist lining and a surrounding capillary network, with O2 diffusing in and CO2 out." loading="lazy">
+  <figcaption>Millions of thin-walled alveoli, each wrapped in capillaries and lined with surfactant, give a large area and a steep gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--04-ventilation.webp" width="900" height="1200" alt="Three front-view diagrams of ribs, lungs and diaphragm. Inhalation: diaphragm flattens, ribs up and out, volume up, pressure down, air in. Quiet exhalation: diaphragm domes, ribs fall, air out. Forced exhalation: ribs pulled down and in and diaphragm pushed up, air leaves faster." loading="lazy">
+  <figcaption>Breathing changes thorax volume, so pressure falls or rises and air flows from higher to lower pressure.</figcaption>
+</figure>
+
+
 ## B3.1.6 Lung volumes
 
 | Quantity | How to get it |
@@ -84,6 +106,12 @@ Residual volume stays in the lungs and is not part of vital capacity.
 Expiratory reserve volume = 4.5 - 0.60 - 2.8 = **1.1 L**.
 
 **Exercise.** Tidal volume and breathing rate both rise, so ventilation per minute rises. Forced exhalation uses the reserve volumes, so the expiratory reserve volume shrinks on a trace.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--05-lung-volumes.webp" width="900" height="980" alt="A spirometer trace of volume change against time: three quiet breaths, then a maximum breath in and out, with brackets for inspiratory reserve 2.9 L, tidal volume 0.45 L, expiratory reserve 1.0 L and vital capacity 4.35 L. At 14 breaths per minute ventilation is 6.3 L per minute." loading="lazy">
+  <figcaption>Vital capacity = tidal volume + inspiratory reserve + expiratory reserve; residual volume is not measured.</figcaption>
+</figure>
+
 
 ## B3.1.7 to B3.1.10 Leaves
 
@@ -110,6 +138,12 @@ Mean = 122 / 4 = 30.5. Area = pi x 0.30 x 0.30 = 0.283 mm2. Density = 30.5 / 0.2
 **Worked reminder (magnification).** A drawing of a leaf section is 45 mm thick and the real thickness is 0.15 mm. Magnification = 45 / 0.15 = **x300**. To find real size, divide the drawn size by the magnification.
 
 **Reliability.** Count several fields and use the mean. Variation between fields shows why repeats are needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--07-transpiration.webp" width="900" height="1050" alt="A potometer with a leafy shoot joined to a horizontal capillary and a beaker of water. The bubble moves 36 mm toward the shoot in 6 minutes. More light, higher temperature, lower humidity and more wind raise the rate. Volume = pi x 0.50^2 x 36 = 28.3 mm3, rate 4.71 mm3 per minute." loading="lazy">
+  <figcaption>A potometer converts bubble movement into a transpiration rate; light, heat, dry air and wind speed it up.</figcaption>
+</figure>
+
 
 ## B3.1.11 to B3.1.13 Haemoglobin (HL only)
 
@@ -159,6 +193,22 @@ Mean = 122 / 4 = 30.5. Area = pi x 0.30 x 0.30 = 0.283 mm2. Density = 30.5 / 0.2
 8. Open stomata let carbon dioxide in, but water vapour diffuses out from the moist mesophyll surfaces.
 9. The first oxygen binds slowly; it changes shape so further molecules bind more easily; at high oxygen few sites remain, so the curve flattens.
 10. Saturation falls by 17 percentage points. Carbon dioxide lowers affinity (Bohr shift), so more oxygen is released to tissue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--06-leaf-plan.webp" width="900" height="918" alt="A to-scale plan diagram of a dicot leaf showing tissue layers only: waxy cuticle, upper epidermis, palisade mesophyll, spongy mesophyll with air spaces and a vein (xylem and phloem), lower epidermis with a stoma and guard cells, and lower cuticle. CO2 enters and O2 leaves through the stoma." loading="lazy">
+  <figcaption>Tissue boundaries only, 220 micrometres thick, with gas exchange through the stoma.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--08-oxygen-dissociation-hl.webp" width="900" height="800" alt="Adult and foetal haemoglobin curves plotted through the lesson data. The adult curve is S-shaped: slow at low oxygen, steep in the middle as binding gets easier, flat when nearly full. The foetal curve lies to the left, showing higher affinity, so oxygen passes from mother to foetus." loading="lazy">
+  <figcaption>Cooperative binding gives the S shape; foetal haemoglobin, further left, has higher affinity than adult.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--09-bohr-shift-hl.webp" width="900" height="900" alt="Normal and higher-CO2 curves plotted through the lesson data; the higher-CO2 curve lies to the right. Lungs at 13 kPa and tissue at 5 kPa release 97 - 72 = 25 percentage points normally but 95 - 57 = 38 with more carbon dioxide." loading="lazy">
+  <figcaption>More carbon dioxide shifts the curve right, so respiring tissue receives more oxygen while lung loading barely changes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

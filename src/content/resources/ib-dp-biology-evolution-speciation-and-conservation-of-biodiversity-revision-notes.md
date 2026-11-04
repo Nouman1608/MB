@@ -67,6 +67,27 @@ These notes condense sections A4.1 (Evolution and speciation) and A4.2 (Conserva
 | Internal structure | Same plan | Different plan |
 | Explained by | Common descent | Convergent evolution |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--01-sequence-differences.webp" width="900" height="880" alt="Four 12-letter protein sequences with differences from P highlighted, the six pairwise difference counts and percentages, and a tree showing P and Q most closely related and S most distant. A gap-free count of differences shows the branching order. Data are hypothetical." loading="lazy">
+  <figcaption>More differences between sequences means a longer time since the lineages shared an ancestor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--02-homologous-limbs.webp" width="900" height="1010" alt="Four schematic forelimbs (human arm, bat wing, whale flipper, horse leg) share one humerus, radius and ulna, wrist bones and digits, but with different proportions. This shared plan with different jobs points to a common ancestor." loading="lazy">
+  <figcaption>The same bone plan in four different limbs shows descent from a common ancestor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--03-convergent-evolution.webp" width="900" height="990" alt="A bat wing (bones and skin) is compared with an insect wing (cuticle, no bones), and a shark with a dolphin. Both pairs do the same job but arose separately, so they are analogous." loading="lazy">
+  <figcaption>Similar structures with different origins are analogous and come from convergent evolution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--08-measuring-biodiversity.webp" width="900" height="1190" alt="Site A and Site B both have richness 4 and 100 individuals but A is even (25 each) and B is dominated by one species (70, 10, 10, 10). Richness falling from 48 to 39 is -18.8%, and a forest falling from 3,200 to 2,480 square kilometres is -22.5%, or 80 square kilometres per year." loading="lazy">
+  <figcaption>Richness counts species, evenness compares abundances, and percentage change measures loss.</figcaption>
+</figure>
+
+
 ## Speciation (A4.1.6 to A4.1.7)
 
 - Every new species arises from a pre-existing species splitting.
@@ -82,6 +103,22 @@ These notes condense sections A4.1 (Evolution and speciation) and A4.2 (Conserva
 5. The populations no longer breed successfully with each other, so they are separate species.
 
 **Specific example.** Bonobos live south of the Congo River and common chimpanzees live north of it. The river separated the ancestral population, and differential selection led to divergence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--04-speciation-isolation.webp" width="900" height="1240" alt="Three panels show gene flow in one population, a river splitting it, and divergence in allele frequencies on each side (bonobos and chimpanzees). A bar chart then shows 1,200 species gaining 35 by splitting and losing 60 to extinction, leaving 1,175." loading="lazy">
+  <figcaption>Isolation stops gene flow, differential selection makes the sides diverge, and speciation adds species while extinction removes them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--05-allopatric-sympatric-hl.webp" width="900" height="1200" alt="Allopatric speciation has populations separated by a barrier such as mountains or a river. Sympatric speciation happens in one area, where isolation is behavioural (different courtship signals) or temporal (breeding in different months)." loading="lazy">
+  <figcaption>Allopatric needs a physical barrier; sympatric needs behavioural or temporal isolation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--07-hybrid-polyploid-hl.webp" width="900" height="1110" alt="A mule has 32 + 31 = 63 chromosomes, which cannot all pair in meiosis, so it is sterile. In the hypothetical plant example, hybrid X and Y gametes give 13 unpaired chromosomes; doubling to 26 gives 13 pairs, so the new species is fertile." loading="lazy">
+  <figcaption>Odd or unpaired chromosomes make hybrids sterile; doubling restores pairing and creates a new species in one generation.</figcaption>
+</figure>
+
 
 ## HL only: speciation in more detail (A4.1.8 to A4.1.11)
 
@@ -104,6 +141,12 @@ Isolation may take three forms: geographic, behavioural or temporal.
 
 **Abrupt speciation in plants (HL only).** Hybridization gives a sterile hybrid. Polyploidy doubles the chromosomes, so they pair, and the plant is fertile. A new species can appear in one generation. *Persicaria* (knotweed or smartweed) has many species formed this way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--06-adaptive-radiation-hl.webp" width="900" height="940" alt="One ancestor reaches a new island with vacant niches. Four descendants each use a different food (seeds, insects, nectar, fruit) with a matching beak, so close relatives coexist with little competition." loading="lazy">
+  <figcaption>Adaptive radiation produces many related species, each in a different niche.</figcaption>
+</figure>
+
+
 ## Biodiversity and extinction (A4.2.1 to A4.2.4)
 
 - **Three levels:** ecosystem diversity, species diversity, genetic diversity.
@@ -123,6 +166,12 @@ Isolation may take three forms: geographic, behavioural or temporal.
 - **EDGE of Existence:** prioritizes species that are both evolutionarily distinct and globally endangered, because losing them loses a large amount of evolutionary history. Prioritization is a matter for debate.
 
 **Reminder.** Richness is the number of species. Evenness is how similar their abundances are. A change from 48 to 39 species is (39 − 48) ÷ 48 × 100 = −18.8%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--09-edge-species.webp" width="900" height="1130" alt="A species on a long unique branch of the tree of life loses much evolutionary history if it goes extinct, unlike one of several close relatives. EDGE species are both evolutionarily distinct and globally endangered, and choosing priorities raises ethical, political, cultural and economic questions." loading="lazy">
+  <figcaption>EDGE prioritises species that are evolutionarily distinct and globally endangered.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

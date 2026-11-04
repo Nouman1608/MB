@@ -71,6 +71,17 @@ These notes condense section 3.2.3, Circulation in humans (statements a to t), o
 
 **Why double?** Blood goes back through the heart after the lungs, so it is pumped again before it reaches the other organs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--01-stent-artery.webp" width="900" height="780" alt="Three coronary artery cross-sections at one scale: healthy 3.6 mm, narrowed by fatty deposits to 1.5 mm (58.3% narrower), and held open by a stent at 3.2 mm (113% wider than narrowed). The stent is shown as a dashed mesh tube pressed against the deposits." loading="lazy">
+  <figcaption>A stent props a fatty-narrowed coronary artery open from inside.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+</figure>
+
+
 ## Vessels (j, k)
 
 | Vessel | Wall | Other features | Function link |
@@ -78,6 +89,27 @@ These notes condense section 3.2.3, Circulation in humans (statements a to t), o
 | Artery | thick; muscle and elastic fibres | carries blood away from the heart | withstands pressure; stretches and recoils |
 | Vein | thinner | often has valves | valves prevent back-flow |
 | Capillary | very thin | very narrow; found in organs | substances pass out of and into the blood through the wall |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Extended. Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
+  <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
+</figure>
+
 
 ## Blood (l to q)
 
@@ -98,6 +130,37 @@ These notes condense section 3.2.3, Circulation in humans (statements a to t), o
 4. Fibrin forms a network of fibres.
 5. The network traps blood cells, forming a clot.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--02-abo-compatibility.webp" width="900" height="800" alt="A grid of recipient groups O, A, B and AB against donor groups. Ticks and crosses match the lesson table: O receives only O, A receives O and A, B receives O and B, AB receives all four. The O donor column is outlined as the universal donor." loading="lazy">
+  <figcaption>A recipient can receive red cells only if the donor cells carry no antigen the recipient has antibodies against.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--03-faulty-valves.webp" width="900" height="960" alt="Four tubes show a heart valve. Healthy: flaps lie back to let blood through, then meet to stop back-flow. Stiff: flaps open only a little so blood is held back. Leaky: flaps do not seal so blood flows backwards." loading="lazy">
+  <figcaption>A stiff valve holds blood back; a leaky valve lets it flow backwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--09-heart-output-area.webp" width="900" height="960" alt="A graph with beats per minute along the bottom and cm3 per beat up the side. A teal rectangle 69 beats per minute by 64 cm3 per beat has area 4416 cm3 per minute at rest. A larger rectangle 150 by 88 has area 13200 cm3 per minute during exercise. The gold L-shaped extra area of 8784 cm3 is a 199 percent increase." loading="lazy">
+  <figcaption>Volume per minute is beats per minute times volume per beat: rest 69 × 64 = 4416 cm³, exercise 150 × 88 = 13 200 cm³, an increase of 199%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--10-rbc-magnification.webp" width="900" height="960" alt="A red blood cell with real diameter 7.5 micrometres, which is 0.0075 millimetres, is drawn 36 millimetres across. An arrow from the tiny real cell to the large drawing is labelled times 4800, found by dividing 36 by 0.0075." loading="lazy">
+  <figcaption>Magnification = image size ÷ real size: 36 mm ÷ 0.0075 mm = ×4800.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--07-clotting.webp" width="900" height="1130" alt="Extended. A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out." loading="lazy">
+  <figcaption>A fibrin mesh traps blood cells to seal a wound.</figcaption>
+</figure>
+
+
 ## Heart problems and treatments (d, e, f, g)
 
 | Problem | Cause or description | Treatment | One advantage | One disadvantage |
@@ -115,6 +178,17 @@ These notes condense section 3.2.3, Circulation in humans (statements a to t), o
 | Source | humans or other mammals | manufactured |
 | Possible plus | usually less need for lifelong anticoagulant drugs | can last for a long time |
 | Possible minus | can wear out and need replacing | blood may clot on it, so anticoagulant drugs are often needed |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--06-pacemaker.webp" width="900" height="1060" alt="A heart outline with the right atrium labelled and a cluster of cells in it marked as the natural pacemaker. A device box labelled artificial pacemaker is joined to the heart by a wire and sends electrical signals. Below, an irregular heartbeat trace with uneven gaps is compared with a regular trace with equal gaps when the artificial pacemaker is used." loading="lazy">
+  <figcaption>A group of cells in the right atrium is the natural pacemaker; an artificial pacemaker sends electrical signals to keep an irregular heartbeat regular.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--08-device-vs-transplant.webp" width="900" height="1050" alt="A grid compares a mechanical device and a transplant on five points. Donor: the device needs none, the transplant faces a shortage and waiting. Rejection: none for the device, a risk for the transplant. Infection: a risk for both, more likely for the transplant because of drugs. Machine failure: the device can fail, the transplant has no moving machinery. Drugs: the device may need anticoagulants, the transplant needs immunosuppressants." loading="lazy">
+  <figcaption>Five points from the lesson on which a mechanical device and a transplant differ; finish an evaluation with a judgement for the patient described.</figcaption>
+</figure>
+
 
 ## Antigens, transplants and blood groups (r, s, t)
 
@@ -145,6 +219,12 @@ These notes condense section 3.2.3, Circulation in humans (statements a to t), o
 | AB | O, A, B, AB |
 
 Group O is the universal donor because its red cells have no A or B antigens. Blood typing is needed so that recipients are never given cells that their antibodies would attack.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--07-rejection.webp" width="900" height="1000" alt="Three panels. In the first, antibodies of the recipient attach to different antigens on a donor organ cell, which is rejection. In the second, a donor cell with the same kind of antigens as the recipient is not attacked. In the third, immune-suppressing drugs mean the antibodies are weak and do not attack the donor cell." loading="lazy">
+  <figcaption>Antibodies attack the donor organ's foreign antigens; a similar tissue type or immune-suppressing drugs reduce rejection.</figcaption>
+</figure>
+
 
 ## Method boxes
 

@@ -79,6 +79,12 @@ Reminder: values 21, 22, 22, 23, 23, 24, 24, 25, 25, 26 give mean 23.5 and s = 1
 
 A larger standard deviation means more spread. Overlapping ranges mean the groups are not completely different.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
+  <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
+</figure>
+
+
 ## 4.2.2(g) Adaptations
 
 | Type | What it is | Example |
@@ -111,6 +117,17 @@ Reminder: 1,000 insects, 2% resistant. Survival 0.9 for resistant and 0.1 for th
 - Selection acts on phenotypes, but the change in the population is in allele frequency.
 - Individuals do not change. The population does.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
+
 ## 4.2.2(i) Implications for humans
 
 | | Pesticide resistance | Antibiotic resistance |
@@ -130,6 +147,12 @@ Bacteria divide quickly, so resistance spreads fast. Antibiotics do not work on 
 4. Round up to whole divisions and multiply by the generation time.
 
 Reminder: 5.0 × 10⁸ bacteria, 1 in 10⁷ resistant, so 50 resistant. Factor 10⁷ is 23.3 doublings, so 24 divisions. At 30 minutes each, that is 12 hours.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--04-antibiotic-resistance.webp" width="900" height="1100" alt="A rare bacterium already carries a resistance allele, the antibiotic kills the susceptible cells, and the survivors divide. A log-scale chart shows the resistant share rising from 0.001 to 0.0099, 0.091 and 0.50 over three doses that each kill 90 percent of susceptible cells." loading="lazy">
+  <figcaption>Antibiotics select for resistance alleles that mutation had already produced.</figcaption>
+</figure>
+
 
 ## Command words and what to write
 
@@ -161,6 +184,17 @@ Aim to include all five points in a full explanation. In a data question, add a 
 - **Graphs of variation:** a bell-shaped curve shows continuous variation. Separate bars show discontinuous variation. A mean with a large standard deviation shows wide variation in the sample.
 - **Resistance data:** a rise in the percentage of resistant isolates over time is evidence of selection. It does not show how the resistance arose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
+  <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
+</figure>
+
+
 ### Convergent features to recall
 
 | Feature | Group 1 | Group 2 |
@@ -181,6 +215,12 @@ Aim to include all five points in a full explanation. In a data question, add a 
 8. In a population of 500 beetles, 4% have a resistance allele. A pesticide leaves 90% of those with the allele alive and 10% of the others. What percentage of survivors are resistant? Give 3 significant figures.
 9. Explain why finishing a course of antibiotics is advised.
 10. Why does a pesticide not cause resistance?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
 
 ### Answers
 

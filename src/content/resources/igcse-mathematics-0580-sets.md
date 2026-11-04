@@ -70,6 +70,12 @@ The interval form {x: a ⩽ x ⩽ b} means every number from a to b, including t
 
 In (a), ⩽ includes −3 but < excludes 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--01-listing-vs-rule.webp" width="900" height="870" alt="Two number lines. Top: the integers from -3 up to but not including 2 are the five elements of A, with 2 shown as a hollow ring. Bottom: every number from 2 to 4 is in C, so it has infinitely many elements and cannot be listed." loading="lazy">
+  <figcaption>A rule can describe a set you can list or one you cannot.</figcaption>
+</figure>
+
+
 ## 2. Core notation: ℰ, n(A), A′, ∪ and ∩
 
 | Symbol | Read as | Meaning |
@@ -167,6 +173,17 @@ Check:   15 + 16 + 11 + 8 = 50
 
 Writing 31 in the "M only" region is the classic slip. The 31 is the **whole** circle, so the overlap must come out of it first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--02-two-set-regions.webp" width="900" height="1060" alt="Six two-set Venn diagrams with regions numbered 1 to 4 (A only, both, B only, neither). The shaded regions show A∩B, A∪B, A′, (A∪B)′, A∩B′ and A′∪B." loading="lazy">
+  <figcaption>Each set expression is just a list of numbered regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--03-unknown-overlap.webp" width="900" height="1010" alt="Two Venn diagrams of 50 tourists. First the regions are written with x for the overlap (31−x, x, 27−x, x÷2); solving gives x = 16. Then the filled counts 15, 16, 11 and 8 add to 50." loading="lazy">
+  <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
+</figure>
+
+
 ## 4. Extended notation: ∈, ∉, ∅, ⊆ and ⊈ (Extended only)
 
 | Symbol | Meaning | Example |
@@ -212,6 +229,17 @@ A ∩ C: both lines have gradient 2, different intercepts
 
 A ∩ B is a **set containing one point**, so keep the curly brackets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--04-subset-or-not.webp" width="900" height="990" alt="Three Venn diagrams. A circle for {2, 4} sits wholly inside a circle for {1, 2, 3, 4}, so A ⊆ B. A = {2, 6} overlaps B but 6 is outside B, so A ⊈ B. Two separate circles show A ∩ B = ∅." loading="lazy">
+  <figcaption>A is a subset of B only if no element of A lies outside B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--06-points-as-sets.webp" width="900" height="1110" alt="A graph of three lines y = 2x+1, y = 7−x and y = 2x−3. The first two cross at (2, 5), so their intersection is the single-point set {(2, 5)}. The first and third are parallel, so their intersection is empty." loading="lazy">
+  <figcaption>A set of points can be a line, and two lines meet in one point or none.</figcaption>
+</figure>
+
+
 ## 5. Three-set Venn diagrams (Extended only)
 
 <!-- marlbridge-diagram:math-b51-three-set-venn-centre-out -->
@@ -250,6 +278,12 @@ Sum of all eight regions:
 ```
 
 With x = 2 the regions are: B only 9, C only 10, P only 9, B and C only 10, C and P only 8, B and P only 7, all three 2, none 5. They add to 60. So 9 + 10 + 9 = 28 students take exactly one science.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--05-three-set-venn.webp" width="900" height="990" alt="A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26." loading="lazy">
+  <figcaption>Fill the centre first; the eight regions then add to 60.</figcaption>
+</figure>
+
 
 ## Venn diagrams in probability
 

@@ -128,6 +128,17 @@ Both the numerical efficiency calculation and its Sankey-diagram
 representation describe the same energy transfer — being able to move
 between the two forms is a common exam requirement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--05-efficiency-sankey.webp" width="900" height="920" alt="Two Sankey diagrams with band widths in proportion. A motor takes in 500 J, 350 J is useful and 150 J wasted, so efficiency is 70%. A generator takes in 2000 W, 1600 W is useful and 400 W wasted, so efficiency is 80%." loading="lazy">
+  <figcaption>Efficiency is useful output divided by total input, times 100%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--03-sankey-lift.webp" width="900" height="840" alt="A Sankey diagram drawn to scale: 200 J from a battery splits into 147 J gravitational potential energy and 53 J thermal and sound." loading="lazy">
+  <figcaption>Energy in equals energy out: 200 J = 147 J + 53 J.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Confusing power (rate of energy transfer, in watts) with energy itself
@@ -162,3 +173,64 @@ The specification itself frames this using the idea of energy as a useful accoun
 
 OxfordAQA International GCSE Physics (9203) specification —
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-physics-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-physics-energy--04-pendulum-energy.webp" width="900" height="1030" alt="A 0.50 kg pendulum bob with a 0.20 m highest point: 0.98 J gravitational at the top, 0.98 J kinetic at the bottom (about 2.0 m/s), 0.49 J of each halfway; total always 0.98 J." loading="lazy">
+  <figcaption>Energy swaps between gravitational potential and kinetic while the total stays 0.98 J.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-physics-energy--01-friction-heat.webp" width="900" height="930" alt="Top: a crate is pushed 3.0 m along a floor at steady speed with a 20 N push balanced by 20 N friction, so the work done is 20 N times 3.0 m, 60 J, and it all appears as heat in the crate and floor. Bottom: a car moving right feels a drag force from air resistance to the left, and the work done against it heats the surrounding air. The numbers are illustrative." loading="lazy">
+  <figcaption>Work done against friction equals F x d and ends as heat in the surroundings; air drag heats the air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-physics-energy--02-renewables-pros-cons.webp" width="900" height="963" alt="Three panels, one per renewable resource. Solar: no fuel and no pollution when running, but no output at night and less in cloud. Wave: renewable with no fuel, but waves vary and equipment is hard to build at sea. Geothermal: works day and night, but only where hot rock is near the surface." loading="lazy">
+  <figcaption>One advantage and one drawback for solar, wave and geothermal power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-physics-energy--03-fuel-choice.webp" width="900" height="930" alt="Three cards compare coal, petrol and natural gas. Energy per kilogram in megajoules rises from about 24 for coal to 46 for petrol and 55 for natural gas. Coal is stored as an open solid heap with dust and fire risk, petrol in a sealed tank with flammable vapour, natural gas in a pressurised tank where a leak can explode. Values are approximate." loading="lazy">
+  <figcaption>Coal, petrol and natural gas compared for energy per kg, storage and safety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--05-work-done.webp" width="900" height="690" alt="A 40 N force arrow pushes a crate 6 m, shown by a dimension line. Work done is 40 x 6 = 240 J, the energy transferred." loading="lazy">
+  <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--04-kinetic-energy-graph.webp" width="900" height="880" alt="Graph of Ek in kJ against speed for a 1500 kg car. Ek is 300 kJ at 20 m/s and 1200 kJ at 40 m/s, so doubling speed gives four times the energy." loading="lazy">
+  <figcaption>Because v is squared, doubling speed quadruples kinetic energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--02-conservation-falling-ball.webp" width="900" height="930" alt="A 2 kg ball falls from 10 m. Stacked bars at five heights always total 196 J: gravitational potential energy falls from 196 J to 0 while kinetic energy rises from 0 to 196 J." loading="lazy">
+  <figcaption>Energy is transferred between stores but the total stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--01-energy-transfers.webp" width="900" height="1070" alt="Four panels: a pushed crate (force, chemical to kinetic), a battery driving a motor (current), a flame heating water (heating), and Sun light warming the ground (waves)." loading="lazy">
+  <figcaption>Energy moves between stores by forces, electric currents, heating and waves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--06-power-graph.webp" width="900" height="810" alt="Energy against time graph. A 400 W motor reaches 6000 J in 15 s. A 200 W motor needs 30 s for the same energy. A steeper line means more power." loading="lazy">
+  <figcaption>Power is energy transferred per second.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp" width="900" height="1084" alt="Two columns. Non-renewable (tank draining, not refilled): coal, oil, natural gas and nuclear fuel. Renewable (tank refilled naturally): biofuels, hydroelectric, solar, geothermal, wind, tides and waves. Nuclear fuel is finite so it is non-renewable." loading="lazy">
+  <figcaption>Non-renewable resources are used faster than they are replaced; renewable ones are replenished naturally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--04-availability.webp" width="900" height="950" alt="Three graphs of power over 24 hours. Solar is non-zero only from 06:00 to 18:00 and peaks at midday. Tidal power rises and falls repeatedly in a regular pattern. Fossil and nuclear stations can run steadily at any time." loading="lazy">
+  <figcaption>Availability differs: solar only in daylight, tides in a predictable cycle, fossil and nuclear on demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
+  <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
+</figure>
+

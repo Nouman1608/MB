@@ -43,6 +43,12 @@ Use it with the [excretion revision notes](/resources/edexcel-igcse-biology-4bi1
 
 **Excretion** is the removal of waste products of metabolism from the body. Metabolism means the chemical reactions in cells. Do not confuse excretion with **egestion**: faeces are mostly undigested food that never entered the body's cells, so passing faeces is egestion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--01-excretion-or-egestion.webp" width="900" height="960" alt="A body outline shows the lungs excreting carbon dioxide and the kidneys excreting urea, excess water and excess ions. The gut egests faeces, which are undigested food that was never inside cells. Excretion is labelled in teal and egestion in copper." loading="lazy">
+  <figcaption>Lungs and kidneys excrete cell waste; the gut egests undigested food.</figcaption>
+</figure>
+
+
 ## 2.70 Excretion in flowering plants
 
 Plants have no excretory organs. Their two main waste gases are made by the two processes you already know.
@@ -82,6 +88,17 @@ Leaf structure and the hydrogen-carbonate indicator practical belong to sub-topi
 
 Urea is carried in the plasma (point 2.60) from the liver to the kidneys. Sweating mainly cools the body, but sweat still removes some waste, so the skin counts as an organ of excretion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--11-organs-of-excretion.webp" width="900" height="860" alt="Lungs excrete carbon dioxide and water vapour; kidneys excrete urea, excess water and ions in urine; skin excretes water, ions and a little urea in sweat." loading="lazy">
+  <figcaption>The three excretory organs and what each removes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--07-liver-urea-route.webp" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine." loading="lazy">
+  <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea.</figcaption>
+</figure>
+
+
 ## 2.73B The urinary system (Paper 2 only)
 
 
@@ -100,6 +117,17 @@ Follow a molecule of urea from the blood to the outside:
 Ureter (two, kidney to bladder) and urethra (one, bladder to outside) are easy to swap; the wrong word is not credited.
 
 Inside the kidney are an outer **cortex**, an inner **medulla** and the **pelvis**, where urine collects.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--02-urinary-system.webp" width="900" height="975" alt="Two kidneys lie either side of the spine. A ureter runs from each kidney to the bladder, which stores urine, and one urethra carries urine out. Arrowheads show urine flowing kidney, ureter, bladder, urethra." loading="lazy">
+  <figcaption>Urine flows kidney, ureter, bladder, urethra: two ureters, one urethra.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--03-kidney-section.webp" width="900" height="1000" alt="A kidney cut lengthways: the cortex is the darker outer layer and the medulla is made of cone-shaped inner regions. The ureter leaves from the central, concave inner side." loading="lazy">
+  <figcaption>Cortex is the outer layer, medulla the inner cone-shaped regions.</figcaption>
+</figure>
+
 
 ## 2.74B The nephron (Paper 2 only)
 
@@ -120,6 +148,17 @@ Each kidney contains a very large number of tiny tubules called **nephrons**. In
 
 The **glomerulus** is not part of the tubule itself. It is a knot of blood capillaries inside Bowman's capsule, supplied by a branch of the renal artery.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--13-loop-of-henle-medulla.webp" width="900" height="970" alt="The loop of Henle dips into the medulla and builds up a high ion concentration there, deepest at the bottom. The collecting duct runs through it and water leaves by osmosis; ADH controls permeability." loading="lazy">
+  <figcaption>Loop of Henle makes a salty medulla that draws water out of the collecting duct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--04-nephron.webp" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct." loading="lazy">
+  <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct.</figcaption>
+</figure>
+
+
 ## 2.75B Ultrafiltration (Paper 2 only)
 
 Ultrafiltration is filtration under **high pressure** in the glomerulus.
@@ -131,6 +170,12 @@ Ultrafiltration is filtration under **high pressure** in the glomerulus.
 **Composition of glomerular filtrate:** water, glucose, urea, ions (salts) and amino acids -- at about the same concentrations as in blood plasma.
 
 **Normally mostly excluded from the filtrate:** blood cells and large plasma proteins are retained by the filtration barrier. Healthy glomerular filtrate has very little protein, rather than an absolute zero in every circumstance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--05-ultrafiltration.webp" width="900" height="850" alt="A wide vessel brings blood into the glomerulus inside the capsule and a narrower vessel takes it out, so pressure builds. Small molecules are forced out into the capsule as filtrate and pass on to the tubule. Blood cells and protein are too large and stay in the blood." loading="lazy">
+  <figcaption>High pressure forces small molecules, but not cells or protein, out of the glomerulus.</figcaption>
+</figure>
+
 
 ## 2.77B Selective reabsorption of glucose (Paper 2 only)
 
@@ -163,6 +208,17 @@ The zero protein value in this example is an idealised school-level value; norma
 (b) Glucose is a small molecule, so it passes into the filtrate at the same concentration as in plasma. All of it is reabsorbed in the proximal convoluted tubule, so there is none in urine.
 
 (c) 20 ÷ 0.30 = **66.7 times**. Most filtered water is reabsorbed, so the urea remaining for excretion can become much more concentrated. Some urea is also reabsorbed and recycled. The concentration ratio alone does not show that the mass of urea stayed constant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--10-plasma-filtrate-urine-80.webp" width="900" height="1020" alt="Protein 80, 0, 0; glucose 1.0, 1.0, 0; urea 0.30, 0.30, 20 g per dm³ in plasma, filtrate and urine. Urea is 20 ÷ 0.30 = 66.7 times more concentrated in urine." loading="lazy">
+  <figcaption>The lesson table as bars with the 66.7 times calculation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--12-glucose-active-transport.webp" width="900" height="1030" alt="A proximal tubule cell with microvilli facing the filtrate and many mitochondria. Glucose moves from the filtrate through the cell to the blood by active transport, which uses energy from respiration." loading="lazy">
+  <figcaption>Active transport of glucose, with microvilli and mitochondria labelled.</figcaption>
+</figure>
+
 
 ## 2.76B and 2.78B Water reabsorption and ADH (Paper 2 only)
 
@@ -208,6 +264,17 @@ This is **negative feedback**: the response reverses the change. ADH also appear
 Percentage = 124 ÷ 125 × 100 = **99.2%**.
 
 Almost all the filtrate goes back into the blood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--06-adh-feedback.webp" width="900" height="1020" alt="When blood water content is too low, more ADH is released, the collecting duct becomes more permeable, more water is reabsorbed and a small volume of concentrated urine is made. When it is too high, less ADH is released and a large volume of dilute urine is made. Either way blood water content returns to normal." loading="lazy">
+  <figcaption>More ADH gives less, more concentrated urine; less ADH gives more, dilute urine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--09-water-reabsorbed-125.webp" width="900" height="1000" alt="Filtrate forms at 125 cm³ per minute and urine leaves at 1.0, so 124 cm³ per minute is reabsorbed: 99.2%. That is 180 dm³ of filtrate per day." loading="lazy">
+  <figcaption>Worked example 3 with the lesson numbers: 99.2% reabsorbed, 180 dm³ per day.</figcaption>
+</figure>
+
 
 ## 2.72B and 2.79B Putting it together (Paper 2 only)
 

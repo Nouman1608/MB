@@ -68,6 +68,12 @@ Uses: permanent magnets in loudspeakers and motors; electromagnets where magneti
 
 **Extended only.** Magnetic forces are due to interactions between magnetic fields. Closely spaced lines mean a strong field.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--01-bar-magnet-field.webp" width="900" height="760" alt="A bar magnet with N on the left and S on the right, with curved field lines leaving N and entering S, arrows pointing N to S. Lines are closest together near the poles (strong field) and spread out far from the magnet (weaker field)." loading="lazy">
+  <figcaption>Field lines run from N to S and are closest together where the field is strongest.</figcaption>
+</figure>
+
+
 ## 4.2 Electrical quantities
 
 ### Charge (4.2.1)
@@ -109,6 +115,12 @@ E = W / Q = 54 / 6.0 = 9.0 V
 Q = I t = 0.40 × (5.0 × 60) = 120 C
 W = Q V = 120 × 9.0 = 1080 J
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
 
 ### Resistance (4.2.4)
 
@@ -185,6 +197,12 @@ You must draw and interpret circuit diagrams using the symbols printed on the "E
 
 **Extended only.** A **diode** (a triangle pointing at a bar) lets current through in one direction only, the way the triangle points; in the reverse direction its resistance is very high. An **LED** is a diode symbol with two arrows pointing outwards: it conducts one way only and emits light when it conducts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
+
 ### Series and parallel (4.3.2)
 
 **Series:** the current is the same everywhere; resistances add; e.m.f.s of cells in series add.
@@ -248,6 +266,12 @@ Starting with the coil's plane perpendicular to the field, one turn gives:
 
 The graph of e.m.f. against time is therefore a wave shape (sinusoidal) crossing zero twice per turn. Its sign reverses after each half turn because each side of the coil moves up through the field and then down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
+  <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
+</figure>
+
+
 ### Magnetic effect of a current (4.5.3)
 
 A straight wire's field is concentric circles (right-hand grip rule: thumb along the current, fingers show the field). A solenoid's field is like a bar magnet's outside and nearly uniform inside; the grip rule with fingers along the current in the turns makes the thumb point to the solenoid's N end.
@@ -268,6 +292,12 @@ A current-carrying coil in a magnetic field experiences a **turning effect**, in
 
 **The d.c. motor (Extended only).** A coil sits between the poles of a magnet. Current flows in opposite directions along the two sides of the coil, so the forces on them are in opposite directions (one up, one down) and the coil turns. The coil is connected to the supply through a **split-ring commutator** and carbon **brushes**: the brushes press on the rotating split ring and make sliding contact. Every half turn, as the plane of the coil passes the position perpendicular to the field, the gaps in the split ring pass the brushes and the current in the coil reverses, so the forces keep turning the coil the same way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--05-dc-motor.webp" width="900" height="1278" alt="Three end views of a coil between N and S poles with a split-ring commutator and brushes. Forces on the two sides are opposite so the coil turns clockwise; when the gaps reach the brushes the current reverses, so the coil keeps turning the same way." loading="lazy">
+  <figcaption>The split-ring commutator reverses the coil current every half turn so the forces keep turning the coil the same way.</figcaption>
+</figure>
+
+
 ### The transformer (4.5.6)
 
 A transformer has two coils, the **primary** (input) and the **secondary** (output), wound on the same soft-iron core. Vp/Vs = Np/Ns. **Step-up**: more secondary turns, so Vs > Vp; **step-down**: fewer secondary turns, so Vs < Vp.
@@ -284,6 +314,17 @@ Extended: Is = 1.5 A  →  Ip = (12 × 1.5) / 230 = 0.078 A
 ```
 
 **Extended only: P = I²R.** Sending 50 MW through 4.0 Ω cables: at 25 kV, I = 2000 A and the loss is 16 MW; at 250 kV, I = 200 A and the loss is 0.16 MW. Ten times the voltage, one hundredth of the loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--06-transformer.webp" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Extended: power in equals power out, 18 W." loading="lazy">
+  <figcaption>A step-down transformer has fewer turns on the secondary, so the output voltage is lower.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="880" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
+  <figcaption>Ten times the voltage means one tenth of the current and one hundredth of the heating loss.</figcaption>
+</figure>
+
 
 ## Common errors
 

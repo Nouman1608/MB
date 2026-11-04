@@ -40,6 +40,12 @@ v^2 = u^2 + 2as
 
 Five variables: **s** displacement, **u** initial velocity, **v** final velocity, **a** acceleration, **t** time. Pick the single equation that connects the variables given and required — don't force an unnecessary two-step calculation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--02-suvat-from-graph.webp" width="900" height="1000" alt="A v-t graph for 6.0 to 22 m/s over 120 m has gradient 1.87 m/s squared and total area 120 m, split into a rectangle ut (51 m) and a triangle half a t squared (69 m). Four cards list the equations and which variable each leaves out." loading="lazy">
+  <figcaption>The area under a v-t graph for constant acceleration gives s = ut + half a t squared; each suvat equation omits one variable.</figcaption>
+</figure>
+
+
 ## Reading motion graphs
 
 | Graph | Gradient represents | Area under graph represents |
@@ -50,6 +56,12 @@ Five variables: **s** displacement, **u** initial velocity, **v** final velocity
 
 These relationships are tested **independently of, and alongside**, the SUVAT equations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-mechanics-materials-revision-notes--04-three-motion-graphs.webp" width="900" height="1260" alt="One motion (0 to 12 m/s in 6 s then 12 m/s for 4 s) drawn as displacement-time, velocity-time and acceleration-time graphs. The v-t areas are 36 m and 48 m giving 84 m; gradients give velocity and acceleration." loading="lazy">
+  <figcaption>Gradients and areas link the three motion graphs.</figcaption>
+</figure>
+
+
 ## Newton's three laws (3.2.5)
 
 1. **First law:** an object stays at rest or moves at constant velocity unless acted on by a resultant force.
@@ -57,6 +69,12 @@ These relationships are tested **independently of, and alongside**, the SUVAT eq
 3. **Third law:** every action force has an equal and opposite reaction force, acting on a **different** object.
 
 A "Newton's third law pair" acts on **two separate objects** — two forces balancing on the *same* object is an application of the first law, not the third. This is one of the most commonly tested confusions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--02-third-law-pairs.webp" width="900" height="1090" alt="Two third-law pairs for a book on a table: Earth pulls book with book pulls Earth, and table pushes book with book pushes table. A pair is the same kind of force, equal and opposite, on different bodies. Weight and the normal force both act on the book, so they are not a pair." loading="lazy">
+  <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
+</figure>
+
 
 ## Worked example: SUVAT + Newton's second law
 
@@ -69,6 +87,12 @@ Step 3: s = (0)(4) + 0.5(3)(4^2) = 24 m
 ```
 
 This "Newton's second law to find a, then a SUVAT equation" sequence is one of the most frequently tested calculation patterns in this pair of sub-topics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-mechanics-materials-revision-notes--05-f-ma-then-suvat.webp" width="900" height="870" alt="A 2 kg block from rest under 6 N moves 0, 1.5, 6, 13.5 and 24 m at 0 to 4 s. Step 1 a = F/m = 3 m/s2; step 2 s = ut + half a t squared = 24 m." loading="lazy">
+  <figcaption>Find a from F = ma, then use it in a SUVAT equation.</figcaption>
+</figure>
+
 
 ## Required practical: determining g by free fall
 
@@ -87,6 +111,12 @@ Analysis:       since s = ut + 1/2 at^2 with u = 0, this simplifies to
 
 Plotting s against t² rather than s against t is the key technique this required practical is testing, since it linearises what would otherwise be a curved relationship — being able to explain *why* this specific graph choice produces a straight line, not just how to draw it, is what the specification's own practical-skills assessment rewards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--03-measuring-g.webp" width="900" height="1170" alt="An electromagnet releases a steel ball and starts a timer; a trapdoor stops it. Plotting h against t squared gives a straight line through the origin with gradient g over 2 = 4.90 m/s squared, so g = 9.80 m/s squared (data from the OCR worked example)." loading="lazy">
+  <figcaption>h = half g t squared, so the gradient of h against t squared is g/2.</figcaption>
+</figure>
+
+
 ## Worked example: interpreting a velocity-time graph
 
 A velocity-time graph shows an object accelerating uniformly from 0 to 12 m/s over 6 seconds, then travelling at constant 12 m/s for a further 4 seconds.
@@ -101,6 +131,12 @@ Total displacement = 36 + 48 = 84 m
 ```
 
 Splitting the graph into geometric shapes (triangles, rectangles, trapezia) before calculating area is the reliable method for any velocity-time graph with more than one section, rather than attempting a single combined calculation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-physics-mechanics-materials-revision-notes--01-vt-graph-two-stage.webp" width="900" height="925" alt="A velocity-time graph rises in a straight line from 0 to 12 m/s over 6 s, then stays flat at 12 m/s until 10 s. The gradient of the sloping part is 2 m/s squared and the flat part has gradient 0. The triangle under the slope has area 36 m and the rectangle under the flat part has area 48 m, giving a total displacement of 84 m." loading="lazy">
+  <figcaption>Gradient gives acceleration and area gives displacement for the lesson example (84 m).</figcaption>
+</figure>
+
 
 ## Key terms
 

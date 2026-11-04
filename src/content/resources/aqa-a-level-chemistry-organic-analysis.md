@@ -153,6 +153,17 @@ Only C₂H₄O₂ gives 60.0210, so the molecular formula is **C₂H₄O₂**. M
 not the structure. C₂H₄O₂ could be ethanoic acid, methyl methanoate or hydroxyethanal. You need infrared
 data or a test-tube reaction to decide, which is worked example 4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--08-gc-retention-gcms.webp" width="900" height="1090" alt="Simple GC apparatus, standards D, E, F at 3.2, 4.5, 7.8 min and a sample with peaks at 3.2 and 7.8 min; GC-MS identifies m/z 100.0635 as C4H8N2O." loading="lazy">
+  <figcaption>Retention times matched to standards show D and F but no E; GC-MS molecular ion 100.0635 fits only C4H8N2O.</figcaption>
+</figure>
+
+
 ## 3.3.6.3 Infrared spectroscopy
 
 ### Why bonds absorb infrared
@@ -214,6 +225,12 @@ sharp absorption at 1730 cm⁻¹ and a broad absorption at 3400 cm⁻¹.
 
 A very broad absorption across 2500–3000 cm⁻¹ would instead point to propanoic acid, from further oxidation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
+
 ### Worked example 4: putting the techniques together
 
 Return to C₂H₄O₂ from worked example 2. Its IR spectrum shows a very broad absorption from 2500 to
@@ -256,6 +273,12 @@ Work through the [practice questions](/resources/aqa-a-level-chemistry-organic-a
 molecular formulae and the [exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/).
 At A-level, [NMR spectroscopy](/resources/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy/)
 (A-level only) builds on this evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--02-nmr-h1-shift-scale.webp" width="900" height="844" alt="Horizontal delta axis 12 to 0 with bars for each hydrogen environment, stepping down to the right, and a single TMS line at 0." loading="lazy">
+  <figcaption>1H shift ranges on the delta scale with TMS at zero; the aromatic bar (6.5-8.2) is from the OCR lesson (AQA, OCR, others).</figcaption>
+</figure>
+
 
 ## Official syllabus
 

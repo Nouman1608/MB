@@ -57,6 +57,12 @@ Ways to reduce it:
 
 In bone marrow transplants, rejection can also run the other way. Donor white blood cells can attack the recipient's body. This is called graft-versus-host disease.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--08-graft-versus-host.webp" width="900" height="1000" alt="Panel 1: patient's white cell attacks a donor cell (rejection). Panel 2: donor white blood cells attack the patient's body cells (graft-versus-host disease)." loading="lazy">
+  <figcaption>Rejection is the patient attacking the graft; GvHD is the graft attacking the patient.</figcaption>
+</figure>
+
+
 ### Risks and issues
 
 - Stem cells that keep dividing can form tumours.
@@ -76,6 +82,12 @@ In bone marrow transplants, rejection can also run the other way. Donor white bl
 
 So even with 3 siblings, the patient has less than a 6 in 10 chance of a family match. This is why donor registries and other sources matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--06-sibling-match-chance.webp" width="900" height="1130" alt="Each of three siblings has a 1 in 4 chance of matching. 27 of 64 outcomes have no match, so at least one match is 37/64, about 58%." loading="lazy">
+  <figcaption>64 equally likely outcomes: 27 with no match, 37 with at least one.</figcaption>
+</figure>
+
+
 ### Worked example 2: evaluating a trial
 
 *A trial treats 60 patients with an injected stem cell therapy and 60 with the standard treatment. After a year, 39 treated patients and 21 standard-treatment patients have improved. Serious side effects occur in 6 treated patients and 3 standard-treatment patients.*
@@ -87,6 +99,22 @@ So even with 3 siblings, the patient has less than a 6 in 10 chance of a family 
 
 Evaluation: the therapy helps more patients, but side effects are more common. The trial is small, ran for one year only, and says nothing about long-term risks such as tumours. A fair conclusion is that the results are promising and justify a larger, longer trial. They do not prove the therapy is safe.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--01-ocr-stem-cell-rejection.webp" width="900" height="1140" alt="A donor cell with different antigens is attacked by a lymphocyte (rejection). A close tissue match causes a weaker response. The patient's own cells carry the patient's own antigens, so there is no attack." loading="lazy">
+  <figcaption>Three rows compare a donor cell with different antigens, a close match and the patient's own cell next to a lymphocyte.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--02-ocr-therapeutic-cloning.webp" width="900" height="1010" alt="A nucleus from the patient's body cell goes into an egg whose nucleus was removed. The egg divides into a ball of embryo cells and embryonic stem cells are taken that match the patient, so the tissue should not be rejected." loading="lazy">
+  <figcaption>Therapeutic cloning in three steps: swap the nucleus, divide, take out genetically identical embryonic stem cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--07-trial-benefit-risk.webp" width="900" height="1000" alt="Stem cell trial: 65% v 35% improved (30 points more), serious side effects 10% v 5% (twice). Gene therapy trial: 85% normal immune function, 10% leukaemia." loading="lazy">
+  <figcaption>Bars compare benefit and risk percentages in the two worked trials.</figcaption>
+</figure>
+
+
 ## B6.3w: Gene technology in medicine
 
 Gene technology means changing the genes of cells or organisms. In medicine it is used in two main ways.
@@ -97,6 +125,12 @@ The human gene for insulin can be put into bacteria. The bacteria are grown in l
 
 - Benefits: a large, reliable supply, no need to extract insulin from animal pancreases, and a product identical to human insulin.
 - Risks and issues: strict manufacturing control is needed, and the product must be tested thoroughly. Some people have ethical concerns about moving human genes into other organisms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--09-insulin-from-bacteria.webp" width="900" height="1050" alt="The human insulin gene is put into bacteria, which are grown in a fermenter and make human insulin; it is collected and purified for people with diabetes." loading="lazy">
+  <figcaption>Four steps from the human insulin gene to purified insulin.</figcaption>
+</figure>
+
 
 ### 2. Gene therapy
 
@@ -126,6 +160,17 @@ Gene therapy tries to treat a genetic disorder by giving cells a working copy of
 2. Leukaemia: 2/20 × 100 = **10%**.
 3. The benefit is large, because without treatment these children would face repeated severe infections. The risk is also serious, because leukaemia is life-threatening.
 4. Judgement: the risk may be acceptable when the disorder is fatal and no other treatment works, but safer vectors are needed, and the numbers are too small to be sure of the true rates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--03-ocr-gene-therapy-vector.webp" width="900" height="1095" alt="A modified virus carries a working allele into a patient cell that has a faulty allele, and the cell then makes the working protein. Risks are listed beneath." loading="lazy">
+  <figcaption>Gene therapy in three steps with the main risks listed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
 
 ## B6.3x: The human genome and medicine
 
@@ -167,6 +212,17 @@ So the test is informative, but it cannot say who will become ill.
 3. Overall: 74/200 × 100 = 37%.
 
 The overall figure hides the difference. Testing for the marker would let doctors give the drug to patients likely to respond and look for alternatives for the rest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--04-ocr-allele-risk.webp" width="900" height="1140" alt="Illustrates worked example 4: 6 of 50 would be ill at average risk but 30 of 50 are ill, giving 24 extra cases, five times the risk, and 20 carriers who never develop the disease." loading="lazy">
+  <figcaption>Dot grids for the 50 carriers of allele Y compare the average and the actual risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--05-ocr-targeted-drug.webp" width="900" height="850" alt="Draws worked example 5 so the overall 37 percent response can be compared with 70 percent for patients with the marker and 15 percent for those without." loading="lazy">
+  <figcaption>Bars show 70% response with the marker, 15% without and 37% overall.</figcaption>
+</figure>
+
 
 ## Common errors
 

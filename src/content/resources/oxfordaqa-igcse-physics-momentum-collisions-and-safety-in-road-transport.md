@@ -52,6 +52,22 @@ The unit of momentum is the kg m/s. Because it has direction, choose one directi
 Trolley: p = 0.75 × 1.6 = 1.2 kg m/s.
 Lorry: p = 8500 × 12 = 102 000 kg m/s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--01-longer-time-smaller-force.webp" width="900" height="900" alt="Three pairs of bars: catch 280 N vs 60 N, dummy 35 000 N vs 8750 N, child 5000 N vs 500 N. Each pair has the same momentum change; only the stopping time differs, and bar lengths are to scale within each pair." loading="lazy">
+  <figcaption>The same momentum change over a longer time means a smaller force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--01-momentum-vector.webp" width="900" height="720" alt="A 1200 kg car at 15 m/s to the right has momentum 18000 kg m/s to the right, drawn as a long arrow. The same car going left has velocity and momentum with a minus sign." loading="lazy">
+  <figcaption>Momentum p = mv is a vector: it points the way the object moves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--05-impulse-force-time.webp" width="900" height="940" alt="Two force-time graphs with the same momentum change of 900 kg m/s for a 60 kg person stopping from 15 m/s. A 0.05 s stop needs 18000 N; a 0.2 s airbag stop needs 4500 N. Both areas are 900 N s." loading="lazy">
+  <figcaption>The same impulse over a longer time needs a smaller force.</figcaption>
+</figure>
+
+
 ## Conservation of momentum (3.1.4 b)
 
 In a closed system, the momenta of all the objects add up to the same total before and after they interact. A closed system is one where no external forces act, so nothing outside adds or removes momentum. Collisions and explosions are the two examples named in the specification.
@@ -70,6 +86,12 @@ Before: 2600 × 3.0 + 1300 × 0 = 7800 kg m/s.
 After: (2600 + 1300) × v = 3900v.
 So 3900v = 7800, giving v = 2.0 m/s in the original direction of the tanker.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--02-collision-stick.webp" width="900" height="780" alt="A 2 kg trolley at 3 m/s hits a stationary 1 kg trolley. Momentum before is 6 kg m/s, shown as a bar. After they stick, 3 kg moves at 2 m/s and the bar is the same length." loading="lazy">
+  <figcaption>Total momentum before a collision equals total momentum after it.</figcaption>
+</figure>
+
+
 ### Collisions where objects bounce apart
 
 **Worked example 3.** Trolley A (0.60 kg) moves right at 1.8 m/s. Trolley B (0.80 kg) moves left at 0.40 m/s. After the collision A moves left at 0.20 m/s. Find the velocity of B.
@@ -81,6 +103,17 @@ So 0.80v = 0.76 + 0.12 = 0.88, giving v = 1.1 m/s to the right.
 
 The positive answer shows B has reversed direction. A negative sign in your answer always means "opposite to the direction you chose as positive".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--01-bounce-collision.webp" width="900" height="1130" alt="Trolley A (0.60 kg, right at 1.8 m/s) and trolley B (0.80 kg, left at 0.40 m/s) have momenta +1.08 and -0.32, total +0.76 kg m/s. After the bounce A moves left at 0.20 m/s (-0.12) and B moves right at 1.1 m/s (+0.88). The total is unchanged and B has reversed direction." loading="lazy">
+  <figcaption>Two trolleys bounce apart and the momentum bars before and after both total +0.76 kg m/s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--04-head-on-signs.webp" width="900" height="790" alt="A 2 kg trolley at +3 m/s meets a 1 kg trolley at -3 m/s. Momenta +6 and -3 give +3 in total. Stuck together, 3v = +3 so v = +1 m/s to the right." loading="lazy">
+  <figcaption>Pick a positive direction and treat motion the other way as negative.</figcaption>
+</figure>
+
+
 ### Explosions
 
 In an explosion, objects start together (often at rest) and push apart. The total momentum before is zero, so the total momentum after must also be zero. The two parts move in opposite directions with equal and opposite momenta.
@@ -90,6 +123,12 @@ In an explosion, objects start together (often at rest) and push apart. The tota
 Take right as positive. Before: 0.
 After: 1.5 × 0.80 + 0.50 × v = 1.2 + 0.50v.
 So 0.50v = −1.2, giving v = −2.4 m/s. The light trolley moves left at 2.4 m/s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--03-explosion.webp" width="900" height="820" alt="A 5 kg object at rest splits into 2 kg at 6 m/s and 3 kg at minus 4 m/s. The +12 and -12 momentum bars cancel to a total of zero." loading="lazy">
+  <figcaption>After an explosion the pieces move in opposite directions so total momentum is still zero.</figcaption>
+</figure>
+
 
 ## Force and change in momentum (3.1.4 c)
 
@@ -137,9 +176,21 @@ Rubber: F = 100 / 0.20 = 500 N.
 
 In an explanation, always give the chain: longer time, so smaller rate of change of momentum, so smaller force.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--02-safety-features-where-they-sit.webp" width="900" height="900" alt="A car in side view shows the air bag, seat belt, front and rear crumple zones and the side impact bar. Three small pictures show a crash mat, a soft playground surface and a cycle helmet with crushing foam." loading="lazy">
+  <figcaption>Each safety feature gives a longer stopping time, so the force is smaller.</figcaption>
+</figure>
+
+
 ## Steady speed and resistive forces (3.1.5 a)
 
 When a vehicle moves at a steady speed in a straight line, the resultant force on it is zero. The driving force from the engine is equal in size to the resistive forces (air resistance and friction in the moving parts and between tyres and road) and acts in the opposite direction. If the driving force is 1800 N at steady speed, the resistive forces total 1800 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--03-steady-speed-balanced-forces.webp" width="900" height="640" alt="A car at steady speed has a 1800 N driving force forward and 1800 N of resistive forces backward, drawn with equal arrow lengths. The resultant force is zero." loading="lazy">
+  <figcaption>At a steady speed the driving force equals the resistive forces.</figcaption>
+</figure>
+
 
 ## Braking force, speed and deceleration (3.1.5 b)
 
@@ -156,6 +207,12 @@ Thinking distance is how far the vehicle moves while the driver reacts, before t
 Braking distance is how far the vehicle moves once the braking force acts.
 
 Reaction time becomes longer with tiredness, distractions (such as a phone), drugs and alcohol. A longer reaction time increases thinking distance but does not change braking distance. Speed affects both distances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--05-stopping-distance.webp" width="900" height="910" alt="Bars to scale: at 20 m/s thinking 14 m plus braking 33 m gives 47 m; at 30 m/s thinking 21 m plus braking 75 m gives 96 m. Tiredness, alcohol and drugs lengthen thinking; tyres, road and load lengthen braking; speed lengthens both." loading="lazy">
+  <figcaption>Stopping distance = thinking distance + braking distance.</figcaption>
+</figure>
+
 
 ## Brakes and energy (3.1.5 d)
 
@@ -175,6 +232,12 @@ Deceleration = 4500 / 950 = 4.7 m/s² (2 significant figures).
 
 **Effect of doubling speed.** At 36 m/s the kinetic energy is ½ × 950 × 36² = 615 600 J. With the same force, the braking distance is 615 600 / 4500 = 136.8 m. Double the speed gives four times the kinetic energy and four times the braking distance. 
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--04-brakes-turn-kinetic-into-heat.webp" width="900" height="970" alt="A brake disc with a pressing pad and rising heat. A force-distance graph shows the 4500 N braking force over 34.2 m; the rectangle area, 153 900 J, equals the kinetic energy removed." loading="lazy">
+  <figcaption>Brakes do work equal to the kinetic energy, which becomes thermal energy.</figcaption>
+</figure>
+
+
 ## Adverse conditions and vehicle condition (3.1.5 e)
 
 Braking distance depends on the maximum friction force between tyres and road. Anything that lowers it increases braking distance.
@@ -193,6 +256,12 @@ Stopping distance = 10.8 + 57.0 = 67.8 m.
 Deceleration = 2700 / 950 = 2.8 m/s² (2 significant figures).
 
 The thinking distance has not changed, because the weather does not alter the driver's reaction time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--02-stopping-conditions.webp" width="900" height="1090" alt="Four scaled bars for a 950 kg car at 18 m/s: dry and alert 10.8 + 34.2 = 45.0 m; tired 19.8 + 34.2 = 54.0 m; wet road with 2700 N 10.8 + 57.0 = 67.8 m; at 36 m/s 21.6 + 136.8 = 158.4 m. Braking force times braking distance equals the 153 900 J of kinetic energy." loading="lazy">
+  <figcaption>Reaction time changes thinking distance, braking force changes braking distance, and doubling speed quadruples braking distance.</figcaption>
+</figure>
+
 
 ## Common errors
 

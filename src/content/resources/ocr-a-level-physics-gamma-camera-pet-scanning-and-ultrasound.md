@@ -70,6 +70,17 @@ The collimator absorbs most photons, so few are detected and scans take a long t
 
 **Diagnosis (6.5.2(c)).** The gamma camera shows function. The tracer compound is chosen to go where the doctor wants to look. In a bone scan, Tc-99m on a bone-seeking compound collects where bone is active, so a hot spot can indicate a fracture or tumour. A series of images over time shows how fast an organ takes up and clears the tracer, and low uptake (a cold spot) can show a region that is not working.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--04-aphy-medical-xray-production.webp" width="900" height="1210" alt="A heated filament releases electrons that a high voltage accelerates onto a tungsten target in a copper anode inside a lead-lined, evacuated tube. The spectrum has a sharp cut-off at the shortest wavelength hc/eV: 1.55 and 3.11 times 10 to the minus 11 m for 80 kV and 40 kV. Narrow characteristic lines depend on the target and appear only if eV is large enough." loading="lazy">
+  <figcaption>Tube voltage sets the shortest wavelength (maximum photon energy); tube current sets the intensity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--07-aphy-medical-gamma-camera.webp" width="900" height="990" alt="Gamma photons from tracer in an organ pass through a lead collimator that only lets photons travelling straight along a hole through; photons at an angle are absorbed. Each photon makes a flash in the crystal, the photomultiplier tubes give pulses (largest from the nearest tube) and the computer uses them to add a count at that place in the image." loading="lazy">
+  <figcaption>A gamma camera forms an image of tracer distribution, one counted photon at a time.</figcaption>
+</figure>
+
+
 ## 6.5.2(d) and (e) PET scanning
 
 **Positron emission tomography (PET)** uses a positron emitter such as F-18. The key physics is annihilation.
@@ -99,6 +110,17 @@ No collimator is needed, because the line comes from the pair of photons, so PET
 - Radiation dose to patients and staff, against the value of the diagnosis.
 - Travel and waiting times if no scanner is available locally.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--06-aphy-medical-ct-scanner.webp" width="900" height="1110" alt="A CT scanner rotates an X-ray tube so that a thin fan beam crosses one slice of the body from many angles, recorded by a ring of detectors. A computer combines the readings into a grey-scale image whose pixel brightness shows how strongly each small volume absorbs. Moving the couch gives a series of slices that build a 3-D image." loading="lazy">
+  <figcaption>CT combines many angled X-ray views of each slice, then stacks slices into a 3-D image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--08-aphy-medical-pet.webp" width="900" height="1030" alt="A positron from a tracer such as fluorine-18 annihilates with an electron to give two 0.511 MeV gamma photons travelling in opposite directions. A ring of detectors records photons that arrive together; the source lies on the line joining the two detectors. Lines from many events cross at the tracer-rich tissue." loading="lazy">
+  <figcaption>PET detects pairs of back-to-back photons, so each coincidence marks a line through the source.</figcaption>
+</figure>
+
+
 ## 6.5.3(a) to (c) Ultrasound basics
 
 Ultrasound is a longitudinal wave with frequency greater than 20 kHz. Medical scanners usually use a few megahertz. Since λ = v/f, a higher frequency gives a shorter wavelength and finer detail, but it is absorbed more quickly and penetrates less deeply.
@@ -116,6 +138,12 @@ d = ct/2 = 1540 × 78 × 10⁻⁶ / 2 = 0.060 m = 6.0 cm
 ```
 
 To image to 18 cm, the next pulse must wait at least 2 × 0.18 / 1540 = 234 μs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--01-aphy-medical-ultrasound-echo.webp" width="900" height="970" alt="A probe sends a pulse down through fat, muscle and bone; echoes from the fat-muscle and muscle-bone boundaries return after 26 and 78 microseconds. Because the pulse goes there and back, the bone surface is at d = ct/2 = 6.0 cm. The muscle-bone echo is far stronger (41 percent) than the fat-muscle one (1.4 percent)." loading="lazy">
+  <figcaption>Pulse-echo ultrasound: echo time gives depth through d = ct/2, and echo strength depends on the impedance change at each boundary.</figcaption>
+</figure>
+
 
 ## 6.5.3(d) and (e) Acoustic impedance and reflection
 
@@ -137,6 +165,17 @@ muscle to bone: (7.752 - 1.685)² / (7.752 + 1.685)² = 0.413
 ```
 
 A small difference in Z gives a weak echo, so most of the beam goes on past soft-tissue boundaries. A large difference reflects much of the beam, so structures behind bone are hard to image.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--02-aphy-medical-ultrasound-gel.webp" width="900" height="840" alt="Without gel an air gap (Z about 408) lies against skin (Z 1.60 million) and 99.9 percent of the ultrasound is reflected. Gel with an impedance close to skin (1.52 million) reflects only 0.07 percent, so nearly all the beam enters the body. This is impedance matching, not lubrication." loading="lazy">
+  <figcaption>Gel matches the impedance of the skin so that almost none of the ultrasound is reflected at the surface.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--05-aphy-medical-attenuation-contrast.webp" width="900" height="1060" alt="X-ray intensity falls exponentially, I = I0 e^(-mu x), with a half-value thickness ln2/mu (3.3 cm for mu = 0.21 per cm). A beam crossing a 1.8 cm bone block ends at 7.8 percent of its original intensity against 15.1 percent through tissue alone, about half. That difference is the image contrast." loading="lazy">
+  <figcaption>Bone has a larger attenuation coefficient than soft tissue, so the beam behind it is weaker: this is image contrast.</figcaption>
+</figure>
+
 
 ## 6.5.3(f) Impedance matching and gel
 
@@ -172,6 +211,12 @@ v = Δf c / (2 f cos θ) = 2.4×10³ × 1570 / (2 × 4.0×10⁶ × cos 50°) = 0
 ```
 
 At θ = 90° the shift is zero, so the beam must not be across the vessel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--03-aphy-medical-doppler.webp" width="900" height="1100" alt="A probe sends ultrasound at 60 degrees to blood flowing along a vessel and the echo is shifted in frequency by delta f = 2 f v cos(theta)/c. For 5.0 MHz, 0.45 m/s and c = 1570 m/s the shift is 1.4 kHz at 60 degrees; it is largest along the flow and zero at 90 degrees." loading="lazy">
+  <figcaption>The Doppler shift depends on cos of the angle between beam and flow, so the beam must not be directed across the vessel.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -84,6 +84,17 @@ genuinely secure foundational knowledge is a common mistake — gaps
 here tend to resurface as confusion in later topics on transport and
 cell division.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--04-secretory-pathway.webp" width="900" height="930" alt="Five numbered steps: mRNA leaves the nucleus through a pore; ribosomes on the rough ER make the protein; a vesicle carries it to the Golgi; the Golgi modifies and packages it; a vesicle fuses with the cell surface membrane and releases it by exocytosis. Mitochondria supply ATP. A lysosome also forms at the Golgi, and proteins from free ribosomes stay in the cell." loading="lazy">
+  <figcaption>The route from gene to secreted protein: nucleus, rough ER, vesicle, Golgi, vesicle, exocytosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--09-cell-fractionation.webp" width="900" height="980" alt="Tissue is homogenised in a cold, isotonic, buffered solution, then filtered to remove debris. The filtrate is spun at increasing speeds. The pellet at each speed is a different organelle: nuclei, chloroplasts (plant only), mitochondria, lysosomes, endoplasmic reticulum pieces, then ribosomes. The liquid above the pellet is poured into a new tube and spun faster." loading="lazy">
+  <figcaption>The largest, densest organelles pellet first, at the lowest speed.</figcaption>
+</figure>
+
+
 ## Worked example: magnification calculation
 
 The core formula, magnification = image size ÷ actual size, can be
@@ -97,6 +108,17 @@ Working consistently in one unit throughout the calculation, and only
 converting to the unit the question asks for at the very end, avoids
 the mid-calculation conversion errors that are the most common source
 of lost marks in this sub-topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--06-resolution-scale.webp" width="900" height="900" alt="A logarithmic size scale from 0.1 nm to 100 micrometres. Bars show the smallest detail each microscope resolves: about 200 nm for light, 3 to 10 nm for SEM and 0.5 nm for TEM. Below, a ribosome (20 to 30 nm) needs an electron microscope, a mitochondrion (0.5 to 1 micrometre) appears as a dot in light microscopy, and a bacterium and a cell are visible in a light microscope." loading="lazy">
+  <figcaption>Resolution, set by wavelength, decides what you can see; extra magnification adds no detail.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--07-magnification-scale-bar.webp" width="900" height="960" alt="A micrograph with a cell 112 mm wide and a 32 mm scale bar labelled 2 micrometres. Magnification = 32 000 micrometres / 2 micrometres = x16 000. Actual width = 112 000 micrometres / 16 000 = 7.0 micrometres, checked by proportion: 3.5 bars of 2 micrometres." loading="lazy">
+  <figcaption>Convert to one unit, find magnification from the scale bar, then divide the image size by it.</figcaption>
+</figure>
+
 
 ## Electron versus light microscopy in more depth
 
@@ -131,6 +153,12 @@ to state this kind of precise structure-function link, rather than
 simply identifying an organelle by name, is what separates strong
 answers from adequate ones on this sub-topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--03-energy-organelles.webp" width="900" height="890" alt="A mitochondrion with a double membrane, an inner membrane folded into cristae and a fluid matrix containing circular DNA and 70S ribosomes; it carries out aerobic respiration. Below, a chloroplast with a double membrane, grana (stacks of thylakoids) in the stroma, a starch grain, circular DNA and 70S ribosomes; it carries out photosynthesis in plant cells." loading="lazy">
+  <figcaption>Both organelles have a double membrane, their own circular DNA and 70S ribosomes.</figcaption>
+</figure>
+
+
 ## Prokaryotic versus eukaryotic cells
 
 The comparison between prokaryotic and eukaryotic cells is worth
@@ -160,6 +188,12 @@ used to measure specimens directly. Candidates should be fluent
 converting between the three units used throughout this sub-topic:
 1 mm = 1,000 μm, and 1 μm = 1,000 nm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--08-graticule-calibration.webp" width="900" height="930" alt="Two calibrations against a stage micrometer with 10 micrometre divisions. At x10, 40 graticule units match 28 stage divisions (280 micrometres), so one unit is 7 micrometres and a cell of 5 units is 35 micrometres. At x40, 100 units match 22 divisions (220 micrometres), so one unit is 2.2 micrometres. Recalibrate for every objective." loading="lazy">
+  <figcaption>Line up the scales, work out the length of one eyepiece unit, and recalibrate for each objective.</figcaption>
+</figure>
+
+
 ## Temporary preparations and drawing
 
 Preparing a temporary mount (for example of onion epidermis or a
@@ -184,6 +218,12 @@ respiration or reproduction, viruses can only replicate by infecting a
 living host cell and redirecting its ribosomes and enzymes to make
 new viral components.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--05-prokaryote-virus.webp" width="900" height="1060" alt="A rod-shaped bacterium with a capsule, cell wall, cell surface membrane, no nucleus, a circular DNA loop free in the cytoplasm, a plasmid, small 70S ribosomes, a flagellum and pili. Below, a virus: a nucleic acid core inside a protein capsid, with attachment proteins and, in some viruses, an envelope. A virus has no cytoplasm or ribosomes and is not a cell." loading="lazy">
+  <figcaption>A bacterium has no nucleus or membrane-bound organelles; a virus is acellular.</figcaption>
+</figure>
+
+
 ## Plant and animal cell comparison
 
 Plant and animal cells share the organelles common to all eukaryotic
@@ -198,6 +238,12 @@ gaps in adjacent cell walls linking neighbouring plant cells. Animal
 cells, by contrast, typically possess centrioles (which organise the
 spindle during division) and have a flexible, irregular shape without
 a cell wall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--02-plant-cell.webp" width="900" height="830" alt="A plant cell drawn above part of its neighbour. A thick cellulose cell wall surrounds the cell surface membrane. Inside are a nucleus, a chloroplast with grana, an amyloplast with starch grains, and a large permanent vacuole bounded by the tonoplast. Between the two cells are the middle lamella, plasmodesmata channels through both walls, and a pair of aligned pits." loading="lazy">
+  <figcaption>Plant cells add a cellulose wall, chloroplasts, a large vacuole with a tonoplast and plasmodesmata; amyloplast, middle lamella and pits are Edexcel statements.</figcaption>
+</figure>
+
 
 ## The organelles in full
 
@@ -220,6 +266,12 @@ or particles across a surface. Microvilli do not arise from
 centrioles: they are much smaller, finger-like folds of the cell
 surface membrane supported by actin microfilaments, and they increase
 the surface area for absorption.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--01-animal-cell.webp" width="900" height="870" alt="A typical animal cell with its organelles labelled: cell surface membrane, nucleus with a two-membrane envelope with pores and a dark nucleolus, rough ER with ribosomes, smooth ER tubes without ribosomes, Golgi apparatus with vesicles, lysosome, a pair of centrioles at right angles, free ribosomes and mitochondria with folded inner membranes." loading="lazy">
+  <figcaption>The main organelles of an animal cell, drawn as seen with an electron microscope.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

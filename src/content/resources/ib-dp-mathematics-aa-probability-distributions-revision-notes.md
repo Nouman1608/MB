@@ -65,6 +65,12 @@ When you are ready, test yourself with the [probability and distributions practi
 - **Fair game**: E(X) = 0, where X is the player's gain.
 - **Normal distribution N(μ, σ²)**: symmetric about μ; mean = median = mode. About 68% of values lie within μ ± σ, 95% within μ ± 2σ and 99.7% within μ ± 3σ. The z-value gives the number of standard deviations from the mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--01-imath-aa-prob-sample-space.webp" width="900" height="952" alt="A six by six grid shows all 36 outcomes of two dice with their sums. The five cells with sum 8 are highlighted, so P(sum = 8) = 5/36 and the complement is 31/36." loading="lazy">
+  <figcaption>Counting favourable cells in the sample space gives P(sum = 8) = 5/36.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Form | Section |
@@ -117,6 +123,27 @@ When you are ready, test yourself with the [probability and distributions practi
 2. Median: solve ∫ f(x) dx from the lower end to m = 1/2. For piecewise f, first check which piece holds half the area.
 3. Var(X) = E(X²) − [E(X)]².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--03-imath-aa-prob-tree.webp" width="900" height="940" alt="Tree for 5 red and 3 blue counters taken without replacement: first branches 5/8 and 3/8, second branches over 7. Outcomes RR 20/56, RB 15/56, BR 15/56, BB 6/56. P(same) = 13/28 and P(RR | same) = 10/13." loading="lazy">
+  <figcaption>On the second branch the denominator drops from 8 to 7 without replacement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--06-imath-aa-prob-normal.webp" width="900" height="1000" alt="Two curves for N(50, 4²). Area between 45 and 58 is 0.872 (z = −1.25 and 2). Area to the left of a is 0.9, giving a = 55.1." loading="lazy">
+  <figcaption>Shade the region first; normal cdf finds an area and inverse normal finds the value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--07-imath-aa-prob-normal-unknowns.webp" width="900" height="1150" alt="Two examples: P(X &gt; 130) = 0.2 for N(120, σ²) gives z = 0.8416 and σ = 11.9. P(X &lt; 30) = 0.1 and P(X &gt; 60) = 0.05 give z = −1.2816 and 1.6449, so σ = 10.3 and μ = 43.1." loading="lazy">
+  <figcaption>Turn each area into a z-value, then solve for the unknown mean or standard deviation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--08-imath-aa-prob-bayes.webp" width="900" height="1140" alt="Proportional bars: of 10 000 people 200 have a condition; 190 of them and 784 of the others test positive, so P(D|+) = 190/974 = 0.195. Machines A, B, C make 50%, 30%, 20% of output with fault rates 2%, 3%, 5%, giving 0.010, 0.009, 0.010 and P(A|faulty) = 0.345." loading="lazy">
+  <figcaption>Bayes’ theorem compares one branch with the total of all branches that lead to the observed result.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 - A 12% chance per day over 250 days gives an expected 250 × 0.12 = 30 occurrences.
@@ -166,6 +193,12 @@ When you are ready, test yourself with the [probability and distributions practi
 11. P(A) = 0.2 + 0.12 = 0.32, so P(B | A) = 0.2/0.32 = 0.625
 12. E(2X + 1) = 9, Var(2X + 1) = 4 × 3 = 12
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--09-imath-aa-prob-continuous.webp" width="900" height="950" alt="Graph of f(x) = x²/9 on 0 to 3 with total area 1. The median 3/2^(1/3) ≈ 2.38 splits the area into two halves, the mean is 9/4, the mode is 3 and Var(X) = 27/80." loading="lazy">
+  <figcaption>The median splits the area in half; mean, median and mode differ for a skewed pdf.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Adding P(A) and P(B) for "A or B" without subtracting P(A ∩ B).
@@ -178,6 +211,22 @@ When you are ready, test yourself with the [probability and distributions practi
 - Using the right-tail area in inverse normal when the calculator expects the left-tail area.
 - Rounding z or σ to 3 s.f. before finding μ, which shifts the final answer.
 - (HL) Writing Var(aX + b) = a Var(X) + b, or taking the mode of a pdf as a stationary point when the maximum is at an endpoint.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--02-imath-aa-prob-venn.webp" width="900" height="916" alt="A Venn diagram with circle areas drawn in proportion to P(A) = 0.45 and P(B) = 0.30, overlap 0.12. Regions are 0.33, 0.12, 0.18 and 0.37 outside. P(A or B) = 0.63, P(A|B) = 0.4, and P(A)P(B) = 0.135 is not 0.12 so A and B are not independent." loading="lazy">
+  <figcaption>The overlap is counted once in P(A ∪ B), and comparing P(A)P(B) with P(A ∩ B) tests independence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--04-imath-aa-prob-discrete.webp" width="900" height="900" alt="Bar chart of P(X = x) = (x + 2)/18 for x = 1 to 4. Bars for 3 and 4 give P(X at least 3) = 11/18. A triangle marks E(X) = 25/9 as the balance point. HL note: Var(X) = 95/81." loading="lazy">
+  <figcaption>E(X) is the balance point of the distribution; the HL variance is E(X²) − [E(X)]².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--05-imath-aa-prob-binomial.webp" width="900" height="856" alt="Bar chart of B(20, 0.15) for r = 0 to 9 with groups X at most 2 (0.405), X = 3 (0.243) and X at least 4 (0.352). A triangle marks the mean 3 and the variance is 2.55." loading="lazy">
+  <figcaption>Binomial probabilities are found as pdf and cdf values; the mean np = 3 is the balance point.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

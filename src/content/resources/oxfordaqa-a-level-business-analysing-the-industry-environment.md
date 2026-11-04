@@ -100,6 +100,22 @@ Share of Granthorn's sales to top three buyers
 
 **Step 3: judge.** The two power forces squeeze Granthorn's margin from both sides, although weak entry and substitute threats keep the industry fairly attractive for existing producers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
+  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
+</figure>
+
+
 ## 3. Impact of the five forces on a business
 
 Strong forces work through price, cost and volume. Rivalry, buyer power and substitutes limit **price**; supplier power raises **costs** and rivalry raises marketing spend; entrants and substitutes take **volume**. Lower margins then mean less retained profit for investment and lower shareholder returns.
@@ -126,6 +142,17 @@ Profit = 13,800 × 3.30 − 38,000 = £7,540
 ```
 
 Better than £6,100, still well below £11,500: the supplier force cut profit, and the buyer and substitute forces limit the recovery.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
+</figure>
+
 
 ## 4. How a business might influence the five forces
 
@@ -160,6 +187,12 @@ A trade agreement removes import tariffs on cement, so overseas producers can se
 - **Drop basic grades:** leave the cheapest segment to imports and focus on specialist mixes.
 
 **Judgement.** Price cutting alone risks a price war that weakens all local producers. Reliable supply plus specialist grades is stronger because it avoids head-on price competition. The choice depends on Granthorn's costs compared with importers and how long the tariff change lasts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
 
 ## Evaluating the five forces model
 

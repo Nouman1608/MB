@@ -42,6 +42,12 @@ These notes condense statements P5.2a to P5.2f of topic P5.2, The electromagneti
 - **Absorber:** the material that takes in the energy of the wave.
 - **Electromagnetic spectrum:** the continuous family of EM waves, grouped by wavelength and frequency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
+
+
 ## The spectrum in order
 
 Longest wavelength to shortest:
@@ -69,6 +75,12 @@ Rounded size guide (boundaries differ between sources):
 | Gamma rays | shorter than about 0.01 nm |
 
 Shared features: transverse, same speed in a vacuum, transfer energy. Different features: wavelength, frequency, how they are absorbed, how they are produced and detected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
 
 ## Speed, time and distance
 
@@ -115,12 +127,34 @@ Method in steps:
 
 Melted spots in food are half a wavelength apart. So wavelength = 2 × spacing. Measure across several gaps and divide by the number of gaps.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum--05-em-frequency-wavelength-line.webp" width="900" height="960" alt="On logarithmic axes every electromagnetic wave lies on one falling straight line because v = f x wavelength with v constant. The lesson worked examples are marked: radio 97.5 MHz and 3.1 m, microwave oven 2.6 GHz and 0.12 m, red light 650 nm and 4.6 x 10^14 Hz, X-ray 0.050 nm and 6.0 x 10^18 Hz. Visible light is a very narrow band." loading="lazy">
+  <figcaption>All EM waves share one speed, so higher frequency means shorter wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum--06-microwave-chocolate-practical.webp" width="900" height="880" alt="A chocolate bar in a microwave oven melts at five spots 5.8 cm apart, four gaps spanning 23.2 cm. The heating pattern is a standing wave with a maximum at each spot. The gap is half a wavelength, so the wavelength is 11.6 cm and the frequency 2.6 GHz." loading="lazy">
+  <figcaption>Melted spots are half a wavelength apart, so double the spacing to get the wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
+
 ## Energy transfer
 
 - Say: the wave transfers energy from the source to the absorber.
 - Name the source, the absorber and the effect on the absorber.
 - Examples: microwaves from an oven emitter heat the water in food; infrared from a heater warms skin; sunlight warms a dark surface; radio waves from a transmitter reach a receiving aerial.
 - A wave transfers energy. It does not transfer matter from source to absorber.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum--02-source-to-absorber.webp" width="900" height="1004" alt="Four rows show a source, the wave and the absorber: grill and infrared warm skin, oven emitter and microwaves heat food, the Sun and light warm a road, a transmitting aerial and radio waves are detected by a receiving aerial." loading="lazy">
+  <figcaption>Waves carry energy from a source to an absorber, which changes.</figcaption>
+</figure>
+
 
 ## The eye and light
 

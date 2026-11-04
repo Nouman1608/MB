@@ -59,6 +59,17 @@ Grow seedlings in water culture. One solution has every required ion (the contro
 
 Nitrate shortage limited growth most. Nitrogen is needed for proteins and nucleotides, so nearly every growth process is affected, not only chlorophyll.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--04-aba-stomata.webp" width="900" height="1100" alt="A guard cell: ABA binds a receptor, K+ and Cl- ions leave, guard cell water potential rises so water leaves by osmosis, turgor falls and the pore closes. An open stoma lets CO2 in and water out; a closed one reduces both." loading="lazy">
+  <figcaption>ABA triggers ion loss, then water loss, so guard cells go flaccid and the stoma closes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--08-mineral-deficiencies.webp" width="900" height="1080" alt="Seedlings in water culture: complete solution is healthy; no nitrate yellows older leaves; no magnesium causes yellowing between veins; no calcium kills young tips. Dry mass was 1.84 g (complete) and 0.92, 1.31, 1.12 g, which is 50.0, 28.8 and 39.1 percent less." loading="lazy">
+  <figcaption>Missing nitrate, magnesium or calcium reduces growth, nitrate most.</figcaption>
+</figure>
+
+
 ## 4.9 Core Practical 8: tensile strength of plant fibres
 
 Tensile strength is the stress a material withstands when pulled before it breaks. Stress is force divided by cross-sectional area, so units are pascals (N m⁻²).
@@ -83,6 +94,12 @@ Calculate force = mass × 9.81 N kg⁻¹, area = π (d / 2)², then tensile stre
 **Why use stress, not breaking mass?** A thicker fibre carries a larger load simply because it has more material. Dividing by area allows fair comparison.
 
 **Controls and limits:** same fibre length, same moisture state, same rate of loading, and a diameter that is measured rather than assumed. Fibres are not perfect cylinders and vary along their length, so repeat measurements and give a mean.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--02-gravitropism-shoot-root.webp" width="900" height="1100" alt="A horizontal shoot and root both have more IAA on the lower side. In the shoot this stimulates lower cells, so it curves up. In the root it inhibits lower cells, so upper cells grow more and it curves down." loading="lazy">
+  <figcaption>The same hormone bends a shoot up and a root down because roots are inhibited by high IAA.</figcaption>
+</figure>
+
 
 ## 4.10 Conditions for bacterial growth
 
@@ -139,6 +156,12 @@ Many plant species are unstudied, which is one reason to protect plant diversity
 The diameter is only 1.4 times larger, but the area is 2.5 times larger. Compare areas, not diameters.
 
 **Evaluating.** A larger zone suggests that a substance diffuses and stops growth, but diffusion speed varies between substances. A clear zone shows growth was prevented, which is not by itself proof that bacteria were killed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--09-antimicrobial-zones.webp" width="900" height="1200" alt="A bacterial lawn with 6 mm discs: extract A gives a 14 mm clear zone, B 10 mm, solvent-only gives none and a known antibiotic gives a zone. Inhibited area is 126 mm2 for A and 50 mm2 for B: diameter 1.4 times larger, area 2.5 times larger." loading="lazy">
+  <figcaption>Compare inhibited areas, not diameters.</figcaption>
+</figure>
+
 
 ## 4.13 Development of drug testing
 

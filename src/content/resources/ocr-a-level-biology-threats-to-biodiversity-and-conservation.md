@@ -34,6 +34,12 @@ Use the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) to see every top
 
 The specification states that actions to maintain biodiversity must be taken at local, national and global levels. That sentence is a useful frame for the whole topic: each agreement and method works at one of those levels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
+</figure>
+
+
 ## 4.2.1(f) Factors affecting biodiversity
 
 Biodiversity is the variety and complexity of life. Most of the threats you need are linked to human activity, and a good answer always connects the human cause to a change in habitat, resources or survival.
@@ -91,6 +97,12 @@ Interpreting data like this is part of the specification's guidance. A table of 
 
 Farms 1 to 3 have a mean of 16 species and farms 4 to 6 have a mean of 25 species, which is 9 more, or 56% higher than 16. The positive correlation suggests that margins support more bird species. It does not prove cause: farms with more margin may also use less pesticide, so a second variable could be responsible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+</figure>
+
+
 ### Climate change
 
 Rising mean temperatures and changing rainfall alter where species can live.
@@ -115,6 +127,12 @@ Chick demand moves (56 - 52)/(8.8 - 6.1) = 1.5 days earlier per °C
 ```
 
 Caterpillars respond about four times as strongly to warmth as the birds do. By year 3 the peak of food falls well before the chicks need it, so fewer chicks are fed and the bird population may decline. This is a mismatch in timing, and it is a good example of why interdependent species are affected differently.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
+</figure>
+
 
 ## 4.2.1(g) Reasons for maintaining biodiversity
 
@@ -152,6 +170,17 @@ Seeds needed = 50/0.86 = 58.1, so sow at least 59
 
 Always round up because you cannot sow part of a seed. Seed banks regularly repeat such tests: a fall in germination shows that the stored seeds are ageing and need regrowing to make fresh stock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1210" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">
+  <figcaption>Proportion of polymorphic loci = polymorphic loci / total loci.</figcaption>
+</figure>
+
+
 ## 4.2.1(i) International and local agreements
 
 | Agreement | Level | What it does |
@@ -169,6 +198,12 @@ Always round up because you cannot sow part of a seed. Seed banks regularly repe
 - Treating seed banks as a replacement for habitat protection. They store genetic diversity but not ecosystems.
 - Stating that a correlation proves cause.
 - Forgetting to link a reason to a level: local (CSS), national (reserve law), global (CITES, CBD).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
+  <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

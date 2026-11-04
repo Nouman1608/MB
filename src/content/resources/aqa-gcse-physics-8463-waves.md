@@ -54,6 +54,12 @@ Use it with the [Waves revision notes](/resources/aqa-gcse-physics-8463-waves-re
 
 **Evidence that the wave travels, not the medium.** A cork on a pond bobs up and down as ripples pass but does not move along with them. Air is not blown from a loudspeaker to your ear: the particles vibrate about fixed positions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
+
+
 ## Describing waves (4.6.1.2)
 
 - **Amplitude**: the maximum displacement of a point on a wave from its undisturbed position (middle line to crest).
@@ -84,6 +90,12 @@ v = 198 / 0.60 = 330 m/s
 
 Reaction time is the main error: use a large distance and repeat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--09-echo-there-and-back.webp" width="900" height="1050" alt="Top: a person 99 m from a wall hears an echo 0.60 s after a clap; the sound travels 198 m there and back so v = 330 m/s. Bottom, Higher tier only: an ultrasound pulse returns from a boundary after 80 microseconds; the total path is 0.12 m so the boundary is 0.060 m (6.0 cm) deep." loading="lazy">
+  <figcaption>An echo travels there and back, so halve the total distance.</figcaption>
+</figure>
+
+
 ### Required practical 8: waves in a ripple tank and in a solid
 
 **Ripple tank.** A lamp above the tank casts the waves onto paper below. Measure across 10 waves and divide by 10: 10 waves over 18 cm gives λ = 0.018 m. Read the frequency from the signal generator, or count waves passing a point in 10 s. At 8.0 Hz, v = 8.0 × 0.018 = 0.144 m/s.
@@ -91,6 +103,12 @@ Reaction time is the main error: use a large distance and repeat.
 **Waves on a stretched string.** A vibration generator drives a string over a pulley with hanging masses. Adjust the frequency until steady loops form; each loop is half a wavelength. Four loops over 1.20 m gives λ = 0.60 m; at 40 Hz, v = 40 × 0.60 = 24 m/s.
 
 Measuring over several waves reduces the uncertainty in each reading.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--08-rp8-ripple-tank-string.webp" width="900" height="1070" alt="Top: ten wavelengths across a ripple tank measured against an 18 cm ruler give a wavelength of 0.018 m; at 8.0 Hz the speed is 0.144 m/s. Bottom: a string with four loops over 1.20 m gives a wavelength of 0.60 m; at 40 Hz the speed is 24 m/s." loading="lazy">
+  <figcaption>Measure across many waves, then divide, to get the wavelength and speed.</figcaption>
+</figure>
+
 
 ### Sound changing medium
 
@@ -103,6 +121,17 @@ When sound passes from one medium to another, its **frequency stays the same** (
 λ in water = 1500 / 500 = 3.0 m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--10-sound-air-to-water.webp" width="900" height="850" alt="A wave drawn to scale crosses from air into water. At 500 Hz the wavelength is 0.66 m in air (330 m/s) and 3.0 m in water (1500 m/s). The frequency is the same, the speed changes, so the wavelength changes in proportion." loading="lazy">
+  <figcaption>Frequency stays the same when sound changes medium; wavelength changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
+
 ## Reflection, absorption and transmission (4.6.1.3)
 
 At a boundary between two materials, a wave can be **reflected**, **absorbed** or **transmitted**, often some of each. In a ray diagram of reflection, draw the **normal** at 90° to the surface; the angle of incidence equals the angle of reflection, both measured from the normal.
@@ -111,9 +140,26 @@ At a boundary between two materials, a wave can be **reflected**, **absorbed** o
 
 Shine a ray-box ray at different surfaces, and into blocks of different substances, on paper. Mark the rays with crosses, join them with a ruler, draw the normal and measure angles with a protractor. Work in a darkened room.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--02-reflection-specular-diffuse.webp" width="900" height="925" alt="A smooth surface reflects parallel rays in one direction, each leaving at the same angle from the normal as it arrived (40 degrees). A rough surface is made of tiny faces tilted differently; each ray still obeys angle in equals angle out at its face, but the rays scatter." loading="lazy">
+  <figcaption>Smooth surfaces give specular reflection and rough surfaces give diffuse reflection; both obey the law of reflection.</figcaption>
+</figure>
+
+
 ## Sound in solids and hearing (4.6.1.4) -- Higher tier only
 
 Sound waves can make solids vibrate, and vibrating solids produce sound. In the ear, sound makes the **ear drum** and other parts vibrate, giving the sensation of sound. This conversion only works over a **limited frequency range**, which limits human hearing. Normal human hearing is **20 Hz to 20 kHz**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--09-hearing-range.webp" width="900" height="700" alt="On a log frequency axis a young listener hears 20 Hz to 20 kHz, with infrasound below and ultrasound above. In air the wavelengths are 17 m and 1.7 cm. With the upper limit at 14 kHz a 16 kHz tone is not heard." loading="lazy">
+  <figcaption>Human hearing spans about 20 Hz to 20 kHz, and the top end falls with age.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--08-ear-conversion-chain.webp" width="900" height="1010" alt="Five steps: the outer ear collects sound, the eardrum vibrates, three ossicles pass the vibration on, the cochlea turns it into a pressure wave in fluid, and hair cells send electrical signals along the auditory nerve." loading="lazy">
+  <figcaption>In the ear, a sound wave becomes vibrations, a fluid wave and then nerve signals.</figcaption>
+</figure>
+
 
 ## Detection and exploration (4.6.1.5) -- Higher tier only
 
@@ -134,6 +180,17 @@ depth of boundary = 0.12 / 2 = 0.060 m = 6.0 cm
 - **S-waves** are transverse and **cannot travel through a liquid**.
 
 S-waves are not detected on the far side of the Earth from an earthquake, so part of the core must be liquid. P-waves change speed and direction at the core boundary, which shows its size. This gave new evidence about parts of the Earth that cannot be observed directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--01-seismic-p-s-waves.webp" width="900" height="810" alt="Two cross-sections of the Earth with an earthquake at the top. S-waves travel in straight lines through the mantle but stop at the liquid core, leaving a shadow zone on the far side where no S-waves arrive. P-waves pass through the core and change direction at its boundary." loading="lazy">
+  <figcaption>S-waves cannot cross the liquid core, but P-waves can, which is evidence that part of the core is liquid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <figcaption>Depth = speed x time / 2, because the pulse travels there and back.</figcaption>
+</figure>
+
 
 ## Electromagnetic waves (4.6.2.1–4.6.2.4)
 
@@ -172,6 +229,37 @@ Your eyes detect only visible light. Sunlight warming your skin is energy transf
 
 Fill a Leslie cube (faces of different finish) with hot water. Hold an infrared detector the **same distance** from each face and record the reading. **Matt black** emits most; **shiny silver** least.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--03-wavefronts-refraction.webp" width="900" height="920" alt="Wave fronts arrive at a slant at an air-glass boundary. The end of each front entering glass first slows first, so the fronts turn. In glass the wave fronts are closer together (shorter wavelength) and the ray bends towards the normal." loading="lazy">
+  <figcaption>Refraction happens because the wave slows in glass: the wave fronts bunch up and turn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--11-em-spectrum-uses-hazards.webp" width="900" height="1048" alt="The seven EM bands from radio (longest wavelength) to gamma (shortest) with their uses; microwaves include the 2.5 GHz oven with a wavelength of 0.12 m. Ultraviolet can cause skin ageing and cancer; X-rays and gamma are ionising and can cause mutation and cancer. Dose is in sieverts: 2.4 mSv is 0.0024 Sv." loading="lazy">
+  <figcaption>The EM spectrum with each band main uses and the hazards of the shorter wavelengths.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--12-leslie-cube-infrared.webp" width="900" height="890" alt="A Leslie cube of hot water seen from above with an infrared detector at the same distance from each face. The matt black face gives out the most infrared, shown by long arrows and the highest reading; the shiny silver face gives out the least, with short arrows and the lowest reading." loading="lazy">
+  <figcaption>Matt black surfaces emit the most infrared and shiny silver the least.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--05-radio-aerials.webp" width="900" height="830" alt="An alternating current in the transmitter circuit makes electrons oscillate in the transmitting aerial, which gives out radio waves. The waves make electrons oscillate in the receiving aerial, giving an alternating current of the same frequency in the receiver circuit." loading="lazy">
+  <figcaption>Radio waves are made by, and induce, oscillations in circuits at the same frequency.</figcaption>
+</figure>
+
+
 ## Lenses and visible light (4.6.2.5–4.6.2.6)
 
 A lens forms an image by **refraction**. A **convex** lens brings parallel rays to a focus at the **principal focus**; the distance from lens to principal focus is the **focal length**. A convex lens can form a **real** image (rays actually meet) or a **virtual** one (rays only appear to come from it). A **concave** lens always gives a **virtual** image.
@@ -188,6 +276,22 @@ magnification = image height / object height (on the equation sheet; no units; u
 
 A red object seen through a green filter looks black: the object reflects only red, and the green filter absorbs red.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--04-colour-filters.webp" width="900" height="910" alt="White light hits a red object, which reflects only red light, so the eye sees red. With a green filter in the way, the red light is absorbed by the filter, no light reaches the eye, and the object looks black." loading="lazy">
+  <figcaption>A red object looks black through a green filter because the filter absorbs the red light the object reflects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
+  <figcaption>An object beyond 2F gives a real, inverted, diminished image.</figcaption>
+</figure>
+
+
 ## Black body radiation (4.6.3)
 
 All objects, at any temperature, **emit and absorb infrared radiation**. The hotter the object, the more it radiates in a given time. The **intensity** and **wavelength distribution** of the emission depend on temperature: a hotter object emits more at every wavelength, with more at shorter wavelengths.
@@ -195,6 +299,17 @@ All objects, at any temperature, **emit and absorb infrared radiation**. The hot
 A **perfect black body** absorbs all radiation that falls on it; it reflects and transmits none. A good absorber is also a good emitter, so a perfect black body is the best possible emitter.
 
 **Higher tier only.** An object at **constant temperature** absorbs radiation at the same rate as it emits it. If it absorbs faster than it emits, its temperature rises; if it emits faster, it cools. The Earth's temperature depends on the rates it absorbs and emits radiation and how much is reflected into space. If less radiation escapes while absorption is unchanged, the temperature rises until a new balance is reached.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--05-blackbody-curves.webp" width="900" height="910" alt="Graph of radiation intensity against wavelength for a perfect black body at 1000 K, 1250 K and 1500 K. Each curve has a peak. The hotter object has a higher curve at every wavelength and its peak is at a shorter wavelength." loading="lazy">
+  <figcaption>Hotter objects emit more at every wavelength, with the peak moving to shorter wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--08-earth-balance.webp" width="900" height="1130" alt="Two diagrams of Earth with arrow widths proportional to amounts. First: 100 in, 30 reflected, 70 absorbed, 70 emitted, so steady. Second: only 66 escape, so net gain 4 and Earth warms until 70 escape again." loading="lazy">
+  <figcaption>Temperature depends on the balance of radiation absorbed and emitted.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -53,6 +53,12 @@ Reminder: carbon-12 is exactly 12.0000. Values used in these notes: H 1.0078, N 
 
 Isomers have the same accurate mass. Accurate mass gives the formula, never the structure on its own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
+
 ## 15.18 and 15.19 Carbon-13 NMR
 
 - ¹³C NMR shows the positions of ¹³C atoms in a molecule: one peak for each carbon environment.
@@ -69,6 +75,17 @@ Isomers have the same accurate mass. Accurate mass gives the formula, never the 
 | Carbonyl C, aldehyde or ketone | 190–220 |
 
 **Justify a peak count in three moves:** list each environment, state which carbons are equivalent and why, then give the total.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--05-nmr-ester-shift.webp" width="900" height="1000" alt="Ethyl ethanoate and methyl propanoate both give singlet 3H, quartet 2H, triplet 3H; shift of the group bonded to O decides." loading="lazy">
+  <figcaption>Both esters show a singlet, quartet and triplet, but only chemical shift shows which group is bonded to oxygen.</figcaption>
+</figure>
+
 
 ## 15.20 Proton NMR
 
@@ -90,6 +107,12 @@ Isomers have the same accurate mass. Accurate mass gives the formula, never the 
 | 9.0–10.0 | Aldehyde CHO |
 | 10.0–12.0 | Carboxylic acid COOH |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+
 ### Splitting patterns to recognise
 
 | Fragment | What you see |
@@ -107,6 +130,12 @@ Rules that matter:
 - An O–H peak is normally a **singlet** and does not split neighbouring peaks.
 - High resolution shows splitting; low resolution shows only one peak per environment with its area.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--03-nmr-splitting.webp" width="900" height="960" alt="Ethyl group with arrows: 3 H on CH3 split CH2 into a quartet and 2 H on CH2 split CH3 into a triplet. Below, stick patterns for n = 0 to 3." loading="lazy">
+  <figcaption>n neighbouring H give n + 1 lines: singlet, doublet, triplet, quartet with Pascal heights (OCR also uses quintet, sextet, septet).</figcaption>
+</figure>
+
+
 ## 15.21 and 15.22 Paper and thin-layer chromatography
 
 - Separation depends on the balance between attraction to the **stationary phase** and solubility in the **mobile phase**.
@@ -116,6 +145,17 @@ Rules that matter:
 - Rf changes with the solvent, the stationary phase and the temperature. Compare unknowns and standards **on the same plate**.
 
 Worked reminder: solvent front 9.0 cm, spot centre 3.6 cm. Rf = 3.6 ÷ 9.0 = 0.40.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--07-tlc-rf-standards.webp" width="900" height="900" alt="TLC plate with standards A, B, C and a tablet: Rf 0.30, 0.55, 0.75; tablet spots match A and C, no B." loading="lazy">
+  <figcaption>Rf = distance moved by spot / distance moved by solvent; tablet matches A and C (AQA, OxfordAQA, OCR, Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--08-gc-retention-gcms.webp" width="900" height="1090" alt="Simple GC apparatus, standards D, E, F at 3.2, 4.5, 7.8 min and a sample with peaks at 3.2 and 7.8 min; GC-MS identifies m/z 100.0635 as C4H8N2O." loading="lazy">
+  <figcaption>Retention times matched to standards show D and F but no E; GC-MS molecular ion 100.0635 fits only C4H8N2O.</figcaption>
+</figure>
+
 
 ## 15.23 HPLC, GC and mass spectrometry
 
@@ -129,6 +169,12 @@ Worked reminder: solvent front 9.0 cm, spot centre 3.6 cm. Rf = 3.6 ÷ 9.0 = 0.4
 - Retention time depends on conditions, so compare with a standard run under the same conditions.
 - Linked to a mass spectrometer (GC–MS, HPLC–MS), each component that leaves the column gives a mass spectrum for database matching.
 - Applications in the specification: **forensics** and **drug testing in sport**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

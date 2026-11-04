@@ -63,6 +63,12 @@ Balanced chemical equation:
 
 Light and chlorophyll go by the arrow: they are conditions, not reactants. Each side has 6 carbon, 18 oxygen and 12 hydrogen atoms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--06-photosynthesis-atom-count.webp" width="900" height="900" alt="The equation 6CO2 + 6H2O gives C6H12O6 + 6O2 is drawn with small molecules. Three pairs of bars compare atoms: 6 carbon, 12 hydrogen and 18 oxygen on each side." loading="lazy">
+  <figcaption>Each side has 6 carbon, 12 hydrogen and 18 oxygen atoms.</figcaption>
+</figure>
+
+
 ### What happens to the carbohydrate
 
 Glucose is converted to other carbohydrates. The syllabus limits this to four uses:
@@ -75,6 +81,12 @@ Glucose is converted to other carbohydrates. The syllabus limits this to four us
 | **Sucrose** | Transported through the plant (in the phloem) |
 
 Starch, cellulose and glucose are covered as molecules in [Biological molecules](/resources/biological-molecules/), including the iodine test you will use below.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--02-uses-of-glucose.webp" width="900" height="1010" alt="Glucose has five uses: stored as starch, built into cellulose for cell walls, used in respiration to release energy, changed to sucrose moved in the phloem, and used to make nectar to attract insects." loading="lazy">
+  <figcaption>Glucose is stored, built into walls, respired, transported or used for nectar.</figcaption>
+</figure>
+
 
 ### Investigating the need for chlorophyll, light and carbon dioxide
 
@@ -114,6 +126,12 @@ A **control** is identical except for the factor being tested, so it shows the r
 
 Destarching is the step most often left out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--06-co2-experiment.webp" width="900" height="960" alt="Two sealed flasks each contain a destarched leafy plant in the same light. In one flask a dish of soda lime absorbs the carbon dioxide; in the control flask a dish of water leaves carbon dioxide in the air. After testing with iodine the leaf with no carbon dioxide stays orange-brown, showing no starch, and the control leaf turns blue-black, showing starch. Carbon dioxide is needed for photosynthesis." loading="lazy">
+  <figcaption>Is carbon dioxide needed for photosynthesis?.</figcaption>
+</figure>
+
+
 ### Factors that affect the rate
 
 **Light intensity.** More light means more energy for chlorophyll, so the rate rises, then levels off when another factor limits it.
@@ -121,6 +139,12 @@ Destarching is the step most often left out.
 **Carbon dioxide concentration.** Carbon dioxide is a raw material. More of it raises the rate until another factor becomes limiting.
 
 **Temperature.** Photosynthesis is controlled by enzymes. As temperature rises towards the optimum, molecules have more kinetic energy and there are more effective collisions, so the rate increases. Above the optimum the enzymes are denatured: their active sites change shape, the substrate no longer fits and the rate falls sharply. The model is the same as in [Enzymes](/resources/enzymes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--08-temperature-rate.webp" width="900" height="960" alt="A sketch graph of rate of photosynthesis against temperature. The rate rises to an optimum, then falls sharply. Below the optimum molecules have less kinetic energy so there are fewer effective collisions with the enzymes. At the optimum the enzymes work fastest. Above the optimum the enzymes are denatured: their active sites change shape and the substrate no longer fits, so the rate falls sharply. The curve shape is illustrative and has no real values." loading="lazy">
+  <figcaption>Temperature and the rate of photosynthesis.</figcaption>
+</figure>
+
 
 ### Limiting factors
 
@@ -148,6 +172,17 @@ How to read a rate graph:
 - On the rising part of each curve, light intensity is the limiting factor, because increasing it increases the rate.
 - On the flat part of the lower curve, carbon dioxide concentration was limiting. Raising it gave a higher rate.
 - On the flat part of the higher curve, temperature or carbon dioxide could be limiting; this data cannot tell you which.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--04-limiting-conditions.webp" width="900" height="1030" alt="Four cards. Dawn, dusk or forest floor: light intensity is limiting. Bright summer midday: carbon dioxide concentration, sometimes temperature. Cold winter day: temperature. Closed greenhouse in bright sun: carbon dioxide concentration." loading="lazy">
+  <figcaption>The limiting factor depends on the conditions the plant is in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
+</figure>
+
 
 ### Investigating the rate (practical)
 
@@ -189,6 +224,32 @@ Hydrogencarbonate indicator shows carbon dioxide concentration by colour:
 
 Put equal pieces of aquatic plant in sealed tubes of indicator at different light intensities, with a no-plant tube as the control. In bright light, photosynthesis removes carbon dioxide faster than respiration releases it: purple. In darkness only respiration happens: yellow. In dim light the two can balance: red. The no-plant tube stays red, showing the plant caused the changes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--07-pondweed-rate-data.webp" width="900" height="960" alt="Bar chart of mean photosynthesis rate in bubbles per minute for pondweed at lamp distances of 10, 20, 40 and 80 cm: 24.0, 16.5, 8.0 and 4.5. The 20 cm bar is worked: the three counts 33, 30 and 36 have mean 33 bubbles in 2 minutes, so the rate is 16.5 bubbles per minute. The closer the lamp the higher the light intensity and the faster the rate." loading="lazy">
+  <figcaption>Pondweed results: rate against lamp distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--05-gas-collection-rate.webp" width="900" height="990" alt="A lamp shines through a beaker of water onto pondweed in sodium hydrogencarbonate solution; gas passes into a gas syringe that reads 1.8 cm3 after 6 minutes. The rate is 1.8 divided by 6, which is 0.3 cm3 per minute. Light, carbon dioxide and temperature are changed one at a time." loading="lazy">
+  <figcaption>Gas volume divided by time gives the rate: 0.3 cm3 per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--04-starch-test-variegated-leaf.webp" width="900" height="1030" alt="A destarched variegated leaf with a foil strip is kept in light then tested with iodine. Green uncovered area a turns blue-black; white area b and foil-covered green area c stay orange-brown. a vs b tests chlorophyll; a vs c tests light." loading="lazy">
+  <figcaption>Only the green, lit area makes starch and turns blue-black.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--06-hydrogencarbonate-indicator.webp" width="900" height="1010" alt="Bright light: plant photosynthesises faster than it respires, CO2 falls, indicator purple. Dim light: rates balance, orange-red. Dark: respiration only, CO2 rises, yellow. Control tube with no plant stays orange-red." loading="lazy">
+  <figcaption>Colour depends on whether photosynthesis or respiration is faster.</figcaption>
+</figure>
+
+
 ## 6.2 Leaf structure
 
 Most leaves have a **large surface area**, which absorbs more light and gives more area for carbon dioxide to enter. They are **thin**, so carbon dioxide has a short distance to diffuse to the mesophyll cells and light reaches all the photosynthesising cells.
@@ -210,12 +271,29 @@ From the top surface down, a dicotyledonous leaf shows these structures:
 
 In a photomicrograph, find the tightly packed palisade layer first: epidermis is above it, spongy mesophyll and air spaces below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-plant-nutrition--05-starch-test-steps.webp" width="900" height="1140" alt="Step 1: dip the leaf in boiling water for about a minute to kill the cells. Step 2: put it in a tube of ethanol standing in a hot water bath, with any flame turned off, to remove the chlorophyll. Step 3: dip it in warm water to soften it and spread it on a white tile. Step 4: add iodine solution; blue-black shows starch and orange-brown shows no starch." loading="lazy">
+  <figcaption>Testing a leaf for starch.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--08-leaf-cross-section.webp" width="900" height="790" alt="Leaf section from top down: cuticle, upper epidermis, palisade mesophyll with many chloroplasts, spongy mesophyll with air spaces, vascular bundle with xylem (water in) and phloem (sugar out), lower epidermis with stomata and guard cells. CO2 enters and O2 leaves through stomata." loading="lazy">
+  <figcaption>Labelled leaf section showing where light, CO2 and water are used.</figcaption>
+</figure>
+
+
 ## 6.3 Mineral nutrition
 
 - **Nitrate ions** supply nitrogen. Plants use it to make **amino acids**, which are joined to make **proteins**, needed for growth. Glucose from photosynthesis contains no nitrogen, so it cannot make amino acids alone.
 - **Magnesium ions** are needed to make **chlorophyll**. Without enough magnesium the plant makes less chlorophyll, absorbs less light and photosynthesises less.
 
 The effect of mineral ions on plant growth is a listed practical context: grow identical seedlings in solutions each lacking one ion, with a complete solution as the control.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -70,6 +70,27 @@ In the formula, P is the amount invested, r is the percentage rate of interest a
 2. Write the model: amount = start × kᵗ.
 3. To find a time, try whole values of t until the amount crosses the target. State the first value that works.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and--12-percentage-change-original.webp" width="900" height="810" alt="Rent rises from £540 to £603, a change of £63; 63 ÷ 540 gives an 11.7% increase, while dividing by 603 (10.4%) is wrong. A tank falls from 64 to 52 litres, a change of 12; 12 ÷ 64 gives an 18.75% decrease." loading="lazy">
+  <figcaption>Divide the change by the original amount, not the new one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and--03-find-rate-nth-root.webp" width="900" height="870" alt="Five boxes show £7,000 growing to £9,005 in four equal multiplications by k. Dividing 9005 by 7000 gives k^4 = 1.28643, so k = 1.06499 and the rate is 6.5% a year." loading="lazy">
+  <figcaption>To find the rate, divide by P then take the n-th root.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and--04-try-values-of-t.webp" width="900" height="940" alt="Population 18000 x 0.976^t is 14,118 at t = 10 and 13,779 at t = 11, crossing 14,000 in the 11th year. The van 21500 x 0.86^t is 11,760.68 at t = 4 and 10,114.18 at t = 5, crossing half its value 10,750 after 5 years." loading="lazy">
+  <figcaption>Test consecutive values of t to find where the target is first passed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Percentage change.** A jacket is £380 and is reduced by 15%.
@@ -174,6 +195,12 @@ The overall change is a **1% decrease**.
 
 To convert an overall multiplier back to a percentage, subtract 1 and multiply by 100. A multiplier of 1.07016 is a 7.016% increase. A multiplier of 0.83 is a 17% decrease.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and--11-repeated-change-multipliers.webp" width="900" height="955" alt="Bars drawn to scale. £100 rises 20% to £120 then falls 20% to £96: overall multiplier 0.96, a 4% fall. £100 rises 5% to £105 then falls 4% to £100.80: overall multiplier 1.008, a 0.8% rise rather than 1%." loading="lazy">
+  <figcaption>Multiply the multipliers; do not add the percentages.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Simple and compound.** Simple interest uses the original sum every year. Compound interest uses the balance at the start of each year.
@@ -209,6 +236,37 @@ To convert an overall multiplier back to a percentage, subtract 1 and multiply b
 8. 2500 × 1.04² = **£2,704**
 9. 60 × 0.5³ = **7.5 g**
 10. 1.1 × 0.9 = 0.99, so a **1% decrease**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and--09-compound-interest-on-interest.webp" width="900" height="785" alt="Three bars show the interest earned each year on £3,200 at 2.5% compound: £80, £82 and £84.05. Each is £80 on the original sum plus interest on earlier interest (£0, £2, £4.05). Simple interest would give £240 in total; compound gives £246.05, which is £6.05 more." loading="lazy">
+  <figcaption>Compound interest adds interest on earlier interest, so each year earns a little more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and--10-reverse-percentage-bars.webp" width="900" height="880" alt="Bars drawn to scale. A fee of £1,380 after a 15% rise is 115% of the original, so divide by 1.15 to get £1,200. A sale price of £68 after 20% off is 80% of the original, so divide by 0.8 to get £85. Taking 15% of £1,380 and subtracting gives £1,173, which is wrong." loading="lazy">
+  <figcaption>To undo a percentage change, divide by its multiplier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and--01-simple-interest-slices.webp" width="900" height="900" alt="Five rows show £2,400 growing by the same £84 each year at 3.5% simple interest, reaching £2,736. The formula P x r/100 x t gives £336, and a second line finds a 4.4% rate from £198 interest on £1,800 over 2.5 years." loading="lazy">
+  <figcaption>Simple interest adds the same slice every year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and--02-compound-formula-growth.webp" width="900" height="930" alt="Seven bars show £7,500 growing 3.2% a year from year 0 to year 6, ending at £9,060. The formula gives 7500 x 1.032^6 = £9,060.23." loading="lazy">
+  <figcaption>Each year multiplies by 1.032, so n years multiplies n times.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--01-growth-vs-linear.webp" width="900" height="780" alt="A graph of a population of 25 000 growing 2.4% a year for 8 years. The curve reaches about 30 223, while adding 600 a year in a straight line reaches only 29 800. The curve pulls ahead because each percentage is taken of the current value." loading="lazy">
+  <figcaption>Exponential growth pulls ahead of linear growth because each year's percentage is taken of a larger value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--03-fish-decay-target.webp" width="900" height="740" alt="A curve of 3600 fish falling 6% a year with a dashed line at 2000. Year 9 gives 2063 (above) and year 10 gives 1939 (below), so year 10 is the first year below 2000." loading="lazy">
+  <figcaption>Show the years either side of the target to prove which year first passes it.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

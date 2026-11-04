@@ -62,6 +62,12 @@ oxides and chlorides are **ionic**. Silicon, phosphorus and sulfur are closer in
 oxygen and chlorine, so their compounds are **covalent**. Aluminium sits at the crossover: its small,
 highly charged ion distorts nearby anions, giving strong covalent character.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--03-ionisation-energy.webp" width="900" height="800" alt="A graph of first ionisation energy for Na to Ar rises overall from 496 kJ per mole for Na to 1521 for Ar. The two dips, Al below Mg and S below P, are marked in gold." loading="lazy">
+  <figcaption>First ionisation energy generally rises from Na to Ar, with dips at Al and S.</figcaption>
+</figure>
+
+
 ## Sodium and magnesium with water
 
 Sodium reacts fast with cold water: it floats, melts into a sphere and fizzes, leaving a colourless
@@ -80,6 +86,12 @@ Heated magnesium burns in steam with a brilliant white light, forming the oxide.
 
 Sodium is the more reactive element because each atom loses one electron to form Na⁺. Each magnesium atom
 must lose two electrons, and removing the second one from an already positive ion costs extra energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--07-metallic-bonding.webp" width="900" height="870" alt="Three panels show four metal ions with gold dots for delocalised electrons: Na+ with one electron per atom, Mg2+ with two and Al3+ with three. The ions shrink from left to right (drawn to scale). Melting points are 371, 923 and 933 K because the attraction between ions and electrons gets stronger." loading="lazy">
+  <figcaption>From Na to Al the ion charge and number of delocalised electrons rise and the ion gets smaller, so metallic bonding strengthens.</figcaption>
+</figure>
+
 
 ## Reactions of the elements with oxygen
 
@@ -179,6 +191,22 @@ liquid at room temperature.**
    the Si–Cl bonds stay intact.
 3. Far less energy is needed, so SiCl₄ melts at a much lower temperature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--04-ie-dips.webp" width="900" height="780" alt="Orbital box diagrams show Mg with a full 3s and Al with one 3p electron, and P with three unpaired 3p electrons against S with one paired 3p orbital. The circled electron is the one removed first: a higher-energy 3p electron in Al, and a repelled paired electron in S." loading="lazy">
+  <figcaption>Al is lower than Mg because 3p is higher in energy than 3s, and S is lower than P because of repulsion in a paired 3p orbital (OCR and OxfordAQA; AQA names the dips and teaches the reason under atomic structure).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--06-melting-points.webp" width="900" height="860" alt="A bar chart of melting points in kelvin for Na to Ar is coloured by structure. Si (giant covalent) is the tallest bar at 1687 K and Ar (single atoms) is the lowest at 84 K. The metals rise from Na to Al and the molecular elements are low." loading="lazy">
+  <figcaption>Melting point rises from Na to a peak at Si, then falls sharply to the molecular elements and argon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--08-melting-breaks.webp" width="900" height="970" alt="A grid of silicon atoms each bonded to four neighbours shows the giant covalent network, where melting breaks many strong covalent bonds. Below, S8 (128 electrons), P4 (60), Cl2 (34) and Ar (18) are joined by dotted van der Waals forces, which are the only forces overcome on melting. More electrons mean stronger forces." loading="lazy">
+  <figcaption>Silicon melts by breaking covalent bonds; P4, S8, Cl2 and Ar melt by overcoming weak van der Waals forces that strengthen with electron count.</figcaption>
+</figure>
+
+
 ## Oxides with water
 
 | Oxide | Type | pH (approx.) | Equation |
@@ -196,6 +224,12 @@ soluble, but Mg(OH)₂ is not, so MgO gives the lower pH. Al₂O₃ and SiO₂ a
 not dissolve, so the pH stays at 7.
 Simple molecular oxides react with water to make acids. H₂SO₃ is a weak acid, only partly ionised, so
 it is less acidic than H₂SO₄ of equal concentration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--09-oxides-ph.webp" width="900" height="770" alt="A pH scale shows each oxide as a bar. Na2O (13 to 14) and MgO (9 to 10) are basic, Al2O3 is amphoteric and SiO2 acidic but both insoluble at pH 7, and P4O10 (0 to 1), SO2 (2 to 3) and SO3 (0 to 1) are acidic. Oxides change from basic to acidic across the period as bonding changes from ionic to molecular." loading="lazy">
+  <figcaption>A level only (AQA 3.2.4): across Period 3 the oxides go from basic (ionic) through amphoteric (Al2O3) to acidic (molecular).</figcaption>
+</figure>
+
 
 ## Chlorides with water
 

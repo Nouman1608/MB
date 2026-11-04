@@ -57,6 +57,12 @@ The induced current has its own magnetic field, and this field **opposes the fie
 
 The work done against this opposition is the energy that ends up in the circuit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor--03-em-coil-top-pole.webp" width="900" height="880" alt="A vertical closed coil with a bar magnet above it, north pole downwards. Lowering the magnet makes the top of the coil a north pole that pushes back. Lifting it makes the top a south pole that pulls back on the leaving north pole." loading="lazy">
+  <figcaption>The top of the coil is north while the magnet is lowered and south while it is lifted.</figcaption>
+</figure>
+
+
 ### Reversal
 
 Turn the movement round, or turn the magnet end for end, and the induced pd and any current reverse. Reverse both and the original direction returns.
@@ -67,6 +73,27 @@ Turn the movement round, or turn the magnet end for end, and the induced pd and 
 2. Stronger magnetic field.
 3. More turns on the coil.
 4. Larger area of the coil.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor--01-magnet-coil-meter.webp" width="900" height="1100" alt="A bar magnet is pushed into, held still beside, then pulled out of a coil joined to a centre-zero meter. The meter deflects right, reads zero, then deflects left. The coil end nearest the magnet becomes a north pole when the north pole approaches and a south pole when it leaves." loading="lazy">
+  <figcaption>Only relative movement induces a pd, and the induced pole always opposes the movement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor--04-turns-vs-pd.webp" width="900" height="900" alt="Peak pd against number of turns: points at 100 to 400 turns (0.9 to 3.6 mV) lie on a straight line through the origin. Each extra 100 turns adds 0.9 mV and 500 turns predicts 4.5 mV." loading="lazy">
+  <figcaption>Peak pd is directly proportional to the number of turns.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor--02-em-pd-four-factors.webp" width="900" height="995" alt="Four panels each show a magnet moving at a coil and an induced-pd bar longer than a dashed starting bar. The changes are faster movement, a stronger magnet, more turns and a larger coil area. Bar sizes are illustrative." loading="lazy">
+  <figcaption>Faster movement, a stronger field, more turns and a larger coil area each raise the induced pd.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor--04-em-wire-cutting-lines.webp" width="900" height="830" alt="A wire seen end-on between two poles with horizontal field lines. Moving it up cuts three lines, so the centre-zero meter deflects. Moving it along a line cuts none, so the meter reads zero." loading="lazy">
+  <figcaption>Only movement that cuts across the field lines induces a pd.</figcaption>
+</figure>
+
 
 ## Alternator and dynamo
 
@@ -89,12 +116,24 @@ You do not need detailed knowledge of slip rings or split rings.
 
 Worked reminder: a trace has a period of 0.10 s. Frequency = 1 ÷ 0.10 = **10 Hz**, which is 600 rotations per minute.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor--02-alternator-dynamo-graphs.webp" width="900" height="940" alt="Two pd-time graphs with peak 8.0 V and one turn in 0.050 s. The alternator gives a wave that reverses every half turn, with five coil-position icons showing 0 V when square-on to the field and +/-8 V when parallel. The dynamo gives humps that never go below zero." loading="lazy">
+  <figcaption>An alternator output reverses direction; a dynamo output keeps one direction but varies in size.</figcaption>
+</figure>
+
+
 ## Power station generators
 
 - A fuel, or moving water or wind, supplies energy to a **turbine**.
 - In a fuel-burning station, the fuel heats water to make steam, and the steam turns the turbine.
 - The turbine turns wire coils between magnets, so the coil cuts field lines and a pd is induced.
 - Energy chain: stored or moving energy, then kinetic energy of the turbine, then electrical energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp" width="900" height="920" alt="Fossil fuels, biofuels, nuclear fuel and geothermal heat all supply heat to a boiler. The boiler turns water to steam, which spins a turbine. The turbine turns a generator that makes electricity." loading="lazy">
+  <figcaption>Fossil fuels, biofuels, nuclear fuel and geothermal all heat water to steam to spin a turbine and generator.</figcaption>
+</figure>
+
 
 ## Motor effect: key facts
 
@@ -108,6 +147,12 @@ Worked reminder: a trace has a period of 0.10 s. Frequency = 1 ÷ 0.10 = **10 Hz
 1. Stronger magnetic field.
 2. Larger current.
 3. Longer length of conductor in the field.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor--01-em-force-three-ways.webp" width="900" height="940" alt="Four panels show a wire in a field between a north and a south pole, with the current running away from the viewer. The start panel has a short force arrow. A stronger field, a bigger current or more wire in the field each give a longer force arrow. Arrow lengths are illustrative." loading="lazy">
+  <figcaption>Stronger field, bigger current or more wire in the field each increase the motor-effect force.</figcaption>
+</figure>
+
 
 ### Reversing the force
 
@@ -132,12 +177,29 @@ Method in steps:
 
 Worked reminder: field from right to left, current up the page. First finger points left, second finger up the page, and the thumb points **out of the page** towards you.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor--03-flemings-left-hand-rule.webp" width="900" height="1260" alt="End-on view of a wire between a north pole (left) and a south pole (right). Current into the page gives a downward force; reversing the current gives an upward force. A key gives first finger = field, second finger = current, thumb = force." loading="lazy">
+  <figcaption>Fleming’s left-hand rule applied to worked example 4 and its reversal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor--05-motor-effect-along-across.webp" width="900" height="1020" alt="Top view of a wire between two poles. Along the field lines there is no force. Across the field lines there is a force, into the page by Fleming’s left-hand rule for upward current." loading="lazy">
+  <figcaption>A current-carrying wire feels a force only when it cuts across the field lines.</figcaption>
+</figure>
+
+
 ## The electric motor
 
 - A coil with a current in it, placed in a magnetic field, **tends to rotate**.
 - The two long sides carry currents in opposite directions, so the forces on them are opposite and give a turning effect.
 - The turning effect is zero once the coil lies square-on to the field, because the two forces then lie along the coil's own plane. A practical motor swaps the current connections at this point (a split ring does this) to keep the turn going the same way.
 - A bigger current, a stronger magnet or more turns increase the turning effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--05-dc-motor.webp" width="900" height="1278" alt="Three end views of a coil between N and S poles with a split-ring commutator and brushes. Forces on the two sides are opposite so the coil turns clockwise; when the gaps reach the brushes the current reverses, so the coil keeps turning the same way." loading="lazy">
+  <figcaption>The split-ring commutator reverses the coil current every half turn so the forces keep turning the coil the same way.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

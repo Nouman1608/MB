@@ -46,6 +46,12 @@ External environments differ between countries, and in a global economy a change
 **Value:** structured outward look; early warning; feeds the O and T of SWOT; useful before entering a new country.
 **Limits:** quickly dated; unranked list; categories overlap; future change is uncertain; gathering data costs time and money.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+
 ## Political and legal: quick list
 
 **Law within a country affects** (specific laws are not required):
@@ -86,11 +92,28 @@ External environments differ between countries, and in a global economy a change
 4. Find the difference and the percentage change.
 5. Say what it means: who gains, who loses, and what the business could do.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
+
 ### Method in steps: price index questions
 
 1. Find the change in points.
 2. Divide by the **earlier** index value, not by 100.
 3. Compare with the business's own price, cost or pay change to decide whether it has gained or lost in real terms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--09-inflation-index.webp" width="900" height="990" alt="A price index rising from 106.0 to 110.24 is 4 percent inflation (divide by the earlier index). Quenby raising prices 3 percent against 4 percent generally is about 1 percent lower in real terms. 100.0 to 98.5 is 1.5 percent deflation." loading="lazy">
+  <figcaption>Inflation is the change in the index divided by the earlier index.</figcaption>
+</figure>
+
 
 ### Method in steps: interest questions
 
@@ -98,6 +121,12 @@ External environments differ between countries, and in a global economy a change
 2. Interest = balance × rate, at the old and the new rate.
 3. Add any capital repayment to get the total payment.
 4. Comment on profit, cash flow and whether planned investment is still affordable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -162,6 +191,12 @@ A strong answer picks the response that fits the firm's resources and the likely
 10. Any one: it costs money and cuts short-term profit; benefits are hard to measure; shareholders may want higher returns instead.
 11. It creates a new product or business model that displaces established ones, often starting as a cheaper, simpler offer.
 12. Any one: harder to recruit; pressure to raise pay; more training of existing staff; more reason to automate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
+  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

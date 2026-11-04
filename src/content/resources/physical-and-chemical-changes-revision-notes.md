@@ -50,6 +50,12 @@ differences between them.
 
 The deciding question is always: **has a new substance been made?**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--04-decide-and-reversibility.webp" width="900" height="1020" alt="A question asks whether a new substance has formed: no means physical (ice to water), yes means chemical (Mg to MgO). A grid shows physical and chemical changes can each be easy or hard to reverse, so the row (new substance or not) decides, not how easily it reverses." loading="lazy">
+  <figcaption>Ask whether a new substance formed; ease of reversing is only a clue.</figcaption>
+</figure>
+
+
 ## Evidence of a chemical change
 
 Any of these observations suggests that a new substance has formed:
@@ -62,6 +68,17 @@ Any of these observations suggests that a new substance has formed:
 
 Examples of physical changes: melting, freezing, boiling, evaporating, condensing, sublimation,
 dissolving a solid in water, mixing sand with salt, and separating a mixture by filtration or distillation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--01-same-or-new-particles.webp" width="900" height="1000" alt="Top: six water molecules in a neat grid (ice) become the same six molecules jumbled (liquid water), so only the arrangement changes. Bottom: four magnesium atoms and two O2 molecules become four MgO units, so new particles, a new substance, form." loading="lazy">
+  <figcaption>A physical change keeps the same particles; a chemical change makes new ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--02-chemical-evidence.webp" width="900" height="1070" alt="Four pictures show bubbles of gas, a solid appearing from two clear solutions, a permanent colour change, and a temperature rise with no flame. A fifth panel shows a beaker heated by a Bunsen flame and says this is not evidence because the heat comes from outside." loading="lazy">
+  <figcaption>Gas, a precipitate, a permanent colour change or a self-made temperature change point to a new substance; outside heating does not.</figcaption>
+</figure>
+
 
 ## Worked classification
 
@@ -82,6 +99,12 @@ Equations for the chemical changes above:
     CuCO₃ → CuO + CO₂
     CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂
     CuSO₄ + 5H₂O ⇌ CuSO₄·5H₂O
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--05-sort-six-changes.webp" width="900" height="810" alt="Melting ice, boiling water and dissolving salt are physical: the substance is still H2O or NaCl. Burning magnesium, rusting iron and acid with a carbonate are chemical: new MgO, iron oxide or carbon dioxide gas forms." loading="lazy">
+  <figcaption>Three physical and three chemical changes, each with the reason.</figcaption>
+</figure>
+
 
 ## Writing the answer
 
@@ -143,3 +166,9 @@ When a question asks you to identify a change **and** explain:
 *These are original notes written for revision. Check the full syllabus wording in the
 [official 0620 syllabus](https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf) and
 [official 5070 syllabus](https://www.cambridgeinternational.org/Images/697326-2026-2028-syllabus.pdf).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--03-dissolving-physical.webp" width="900" height="770" alt="Twelve salt pieces sit in water, then spread out when dissolved, then reappear as a solid when the water evaporates from a dish. The same twelve pieces appear each time, so no new substance forms." loading="lazy">
+  <figcaption>Dissolved salt is still salt and can be recovered by evaporation.</figcaption>
+</figure>
+

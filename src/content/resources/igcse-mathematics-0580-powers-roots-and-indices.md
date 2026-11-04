@@ -51,6 +51,12 @@ In 3⁴, the number 3 is the **base** and 4 is the **index** (also called the po
 
 A square is a power of 2 and a cube is a power of 3. A **root** undoes a power. The square root of 49 is 7 because 7² = 49. The cube root of 64 is 4 because 4³ = 64.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--01-squares-cubes.webp" width="900" height="940" alt="Squares of side 1 to 5 are drawn as grids with areas 1, 4, 9, 16, 25. Cubes of side 2, 3 and 4 are drawn from unit blocks, giving 8, 27 and 64. A root undoes a power by giving the side." loading="lazy">
+  <figcaption>A square of side n has n squared unit squares and a cube of side n has n cubed unit blocks.</figcaption>
+</figure>
+
+
 ## 1.3 Powers and roots
 
 ### Squares and cubes you must recall
@@ -132,6 +138,12 @@ Answer: **3.20** (3 s.f.). Keep the full value of 2.3⁵ in the calculator rathe
 ```
 1.6^5 = 10.48576
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--02-negative-powers.webp" width="900" height="890" alt="Bars show (-2) to the powers 1 to 5: -2, 4, -8, 16, -32, alternating negative and positive. A second pair shows (-2)^4 = 16 but -2^4 = -16." loading="lazy">
+  <figcaption>Odd powers of a negative number are negative, even powers are positive, and brackets decide what is raised to the power.</figcaption>
+</figure>
+
 
 ## 1.7 Indices I
 
@@ -224,6 +236,22 @@ If the bases differ, write each number as a power of a common base before using 
 ```
 
 You may also be asked to write a number as a power of a given base: 0.125 = 1/8 = 1/2³ = **2⁻³**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
 
 ## Fractional indices (Extended only)
 

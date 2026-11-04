@@ -34,6 +34,12 @@ Course links: [Edexcel IGCSE Biology hub](/boards/edexcel/igcse/biology/) · [pr
 
 **Quick reminder.** For a cube of side L, SA:V = 6L² / L³ = 6/L. Doubling the side halves the ratio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--01-surface-area-volume.webp" width="900" height="910" alt="Cubes: a 20 micrometre cell and a 2 millimetre organism. The cell has SA:V 0.3 to 1 and its centre is 10 micrometres from the surface. The organism has SA:V 0.003 to 1 and its centre is 1000 micrometres away. The ratio is 100 times smaller, so diffusion alone is too slow and a transport system is needed." loading="lazy">
+  <figcaption>A larger body has a much smaller surface area to volume ratio, so cells need a transport system.</figcaption>
+</figure>
+
+
 ## 2.53–2.54 Xylem and phloem
 
 | | Xylem | Phloem |
@@ -42,6 +48,22 @@ Course links: [Edexcel IGCSE Biology hub](/boards/edexcel/igcse/biology/) · [pr
 | From → to | Roots → stem, leaves, rest of plant | Leaves → growing regions, fruits, seeds, storage organs |
 | Direction | Upwards only | Up and down |
 | Cells | Dead, hollow, no end walls, lignified | Living |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
+  <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+</figure>
+
 
 ## 2.55B–2.58B Water uptake and transpiration (Paper 2 only)
 
@@ -65,6 +87,37 @@ Course links: [Edexcel IGCSE Biology hub](/boards/edexcel/igcse/biology/) · [pr
 
 The potometer measures **water uptake**, which is close to, but not exactly, the transpiration rate: a little water is used in the plant's cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--02-potometer.webp" width="900" height="1010" alt="A potometer: a cut leafy shoot sealed into a water-filled tube joined to a capillary tube of radius 0.5 mm. An air bubble moves 42 mm in 6 minutes. Volume is pi x 0.5 squared x 42 = 33.0 mm3, so the rate is 5.5 mm3 per minute." loading="lazy">
+  <figcaption>A potometer turns bubble movement into a rate of water uptake.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--03-water-pathway.webp" width="900" height="1130" alt="Water follows one route: root hair cells, root cortex cells, xylem, then mesophyll cells in the leaf. Root hair cells have long extensions between soil particles that give a large surface area. Water crosses the root cortex to the xylem, rises up the xylem in the stem and reaches the mesophyll cells, where it evaporates." loading="lazy">
+  <figcaption>Follow the numbers: root hair cells, root cortex cells, xylem, mesophyll cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <figcaption>Memory cells make the second response faster and larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--10-light-and-stomata.webp" width="900" height="780" alt="Two stoma sections: in the dark the stoma is almost shut and one arrow of vapour escapes; in bright light it is wide open and more vapour escapes." loading="lazy">
+  <figcaption>Stomata open wider in light, so transpiration is faster.</figcaption>
+</figure>
+
+
 ## 2.59–2.61 Blood and plasma
 
 | Component | Job |
@@ -82,12 +135,34 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 - No nucleus → more space for haemoglobin.
 - Haemoglobin + oxygen → oxyhaemoglobin in the lungs; oxygen released in respiring tissues.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--05-haemoglobin-oxygen.webp" width="900" height="960" alt="A side view of a biconcave red blood cell with no nucleus and haemoglobin inside is labelled with the reason for each feature. Below, haemoglobin binds oxygen in the lungs to form oxyhaemoglobin and releases it in respiring tissues." loading="lazy">
+  <figcaption>How the red cell shape and haemoglobin carry oxygen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
+</figure>
+
+
 ## 2.62–2.64B Defence
 
 - **Phagocytes**: ingest and digest pathogens (phagocytosis). Not specific.
 - **Lymphocytes**: release **antibodies specific** to the antigens on one pathogen.
 - **Vaccination (Paper 2 only)**: dead/weakened pathogen or its antigens → lymphocytes make antibodies and **memory cells** → on later infection, antibodies made **sooner, faster, in greater quantity** → no illness.
 - **Clotting (Paper 2 only)**: platelets → soluble fibrinogen converted to insoluble **fibrin** → mesh traps red blood cells → clot → stops **blood loss** and **entry of micro-organisms**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--07-clotting.webp" width="900" height="1130" alt="Extended. A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out." loading="lazy">
+  <figcaption>A fibrin mesh traps blood cells to seal a wound.</figcaption>
+</figure>
+
 
 ## 2.65–2.67 The heart
 
@@ -104,6 +179,32 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 - **Adrenaline** (adrenal glands): increases heart rate for "fight or flight".
 
 **Coronary heart disease:** fatty deposits narrow coronary arteries → less oxygen to heart muscle → heart attack. Risk factors: smoking, diet high in saturated fat and salt, lack of exercise, obesity, high blood pressure, stress, genetics, age, being male.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--03-heart-rate-two-triggers.webp" width="900" height="960" alt="Bars show 68 bpm at rest (17 beats in 15 s times 4) and 124 bpm after exercise (31 times 4), a rise of 56 bpm or 82.4 percent. Below, exercise and adrenaline are shown as two triggers that make the heart beat faster and harder." loading="lazy">
+  <figcaption>Heart rate from pulse counts using the lesson numbers, and the two triggers that raise it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Extended. Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
+  <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Extended panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
+  <figcaption>After exercise the mean heart rate rose from 74 to 118 beats per minute, a 59% increase.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-humans--05-coronary-heart-disease.webp" width="900" height="1010" alt="A heart shows a coronary artery on its surface with a blockage; muscle beyond it gets too little oxygen and glucose. Cross-sections compare a healthy artery with one narrowed by a fatty deposit and a clot." loading="lazy">
+  <figcaption>A blocked coronary artery starves part of the heart muscle of oxygen and glucose.</figcaption>
+</figure>
+
 
 ## 2.68–2.69 Vessels and circulation
 
@@ -123,6 +224,27 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 | Liver | Hepatic artery (+ hepatic portal vein from gut) | Hepatic vein |
 | Kidneys | Renal artery | Renal vein |
 | Whole body to/from heart | Aorta (out of heart) | Vena cava (into heart) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--04-organ-vessel-names.webp" width="900" height="1030" alt="Four rows show the vessels to and from the heart, lungs, liver and kidneys, with arrows for flow direction and colour for oxygen-rich, oxygen-poor and gut blood." loading="lazy">
+  <figcaption>Name the vessel that carries blood to and from each organ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

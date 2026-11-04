@@ -47,6 +47,22 @@ m1 u1  +  m2 u2   =   m1 v1  +  m2 v2
 
 Applies to **all** collisions and explosions, elastic or not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--01-momentum-vector.webp" width="900" height="720" alt="A 1200 kg car at 15 m/s to the right has momentum 18000 kg m/s to the right, drawn as a long arrow. The same car going left has velocity and momentum with a minus sign." loading="lazy">
+  <figcaption>Momentum p = mv is a vector: it points the way the object moves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--02-collision-stick.webp" width="900" height="780" alt="A 2 kg trolley at 3 m/s hits a stationary 1 kg trolley. Momentum before is 6 kg m/s, shown as a bar. After they stick, 3 kg moves at 2 m/s and the bar is the same length." loading="lazy">
+  <figcaption>Total momentum before a collision equals total momentum after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--03-explosion.webp" width="900" height="820" alt="A 5 kg object at rest splits into 2 kg at 6 m/s and 3 kg at minus 4 m/s. The +12 and -12 momentum bars cancel to a total of zero." loading="lazy">
+  <figcaption>After an explosion the pieces move in opposite directions so total momentum is still zero.</figcaption>
+</figure>
+
+
 ## The two collision types
 
 | | Elastic | Inelastic |
@@ -130,3 +146,14 @@ Crumple zones, airbags, seatbelts, crash mats and gloves all **increase the time
 7. Show that F = Δp/Δt is equivalent to F = ma for constant mass.
 
 **Answers:** 1. In a closed system with no external forces, total momentum before a collision equals total momentum after. 2. Yes — momentum is always conserved; only kinetic energy is not. 3. (1×5) = 5 = (1+4)v → v = **1 m/s**. 4. They increase the time over which the passenger's momentum changes, so by F = Δp/t the force on the body is reduced. 5. Taking towards the wall as positive: (0.2×−6) − (0.2×10) = −1.2 − 2.0 = **−3.2 kg m/s**, magnitude 3.2 N s. 6. Momentum before = 0, so (2×6) + (3×v) = 0 → 12 + 3v = 0 → v = **−4 m/s** (4 m/s opposite to the 2 kg piece). 7. Δp = Δ(mv) = mΔv for constant m, so F = Δp/Δt = mΔv/Δt = **ma**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--04-head-on-signs.webp" width="900" height="790" alt="A 2 kg trolley at +3 m/s meets a 1 kg trolley at -3 m/s. Momenta +6 and -3 give +3 in total. Stuck together, 3v = +3 so v = +1 m/s to the right." loading="lazy">
+  <figcaption>Pick a positive direction and treat motion the other way as negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--05-impulse-force-time.webp" width="900" height="940" alt="Two force-time graphs with the same momentum change of 900 kg m/s for a 60 kg person stopping from 15 m/s. A 0.05 s stop needs 18000 N; a 0.2 s airbag stop needs 4500 N. Both areas are 900 N s." loading="lazy">
+  <figcaption>The same impulse over a longer time needs a smaller force.</figcaption>
+</figure>
+

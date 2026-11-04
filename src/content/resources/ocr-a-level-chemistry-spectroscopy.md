@@ -55,6 +55,17 @@ The specification says NMR chemical shift values will be provided on the Data Sh
 | C=O in aldehydes, ketones | 190–220 | carboxylic acid O–H | 10.0–12.5 |
 | | | alcohol O–H, amine N–H | 0.5–5.0 (variable) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--02-nmr-h1-shift-scale.webp" width="900" height="844" alt="Horizontal delta axis 12 to 0 with bars for each hydrogen environment, stepping down to the right, and a single TMS line at 0." loading="lazy">
+  <figcaption>1H shift ranges on the delta scale with TMS at zero; the aromatic bar (6.5-8.2) is from the OCR lesson (AQA, OCR, others).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--05-nmr-ester-shift.webp" width="900" height="1000" alt="Ethyl ethanoate and methyl propanoate both give singlet 3H, quartet 2H, triplet 3H; shift of the group bonded to O decides." loading="lazy">
+  <figcaption>Both esters show a singlet, quartet and triplet, but only chemical shift shows which group is bonded to oxygen.</figcaption>
+</figure>
+
+
 ## 6.3.2(a): Carbon-13 NMR
 
 Assessed carbon-13 spectra are **proton decoupled**: each carbon environment gives one line, with no splitting. Line heights do not show how many carbons share an environment, so count lines, not heights.
@@ -74,6 +85,12 @@ Compound A, C₅H₁₀O₂, gives carbon-13 lines at δ 170.6, 67.6, 21.9 and 2
 **Possible structures.** Three C₅H₁₀O₂ esters have four environments: propan-2-yl ethanoate, CH₃COOCH(CH₃)₂; methyl 2-methylpropanoate, (CH₃)₂CHCOOCH₃; and 2-methylpropyl methanoate, HCOOCH₂CH(CH₃)₂.
 
 Carbon-13 data alone cannot separate them. If A's proton spectrum has a 3H singlet at δ 2.0, that CH₃ is next to C=O, so A is **propan-2-yl ethanoate**. Methyl 2-methylpropanoate would show its 3H singlet (OCH₃) at δ 3.3–4.5, and 2-methylpropyl methanoate has no 3H singlet.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
 
 ## 6.3.2(b): High resolution proton NMR
 
@@ -119,6 +136,17 @@ Compound B, C₆H₁₂O₂, gives this proton spectrum.
 
 **Structure.** The chain is O–CH₂–CH₂–CH₂–CH₃ joined to CH₃CO–. B is **butyl ethanoate, CH₃COOCH₂CH₂CH₂CH₃**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--03-nmr-splitting.webp" width="900" height="960" alt="Ethyl group with arrows: 3 H on CH3 split CH2 into a quartet and 2 H on CH2 split CH3 into a triplet. Below, stick patterns for n = 0 to 3." loading="lazy">
+  <figcaption>n neighbouring H give n + 1 lines: singlet, doublet, triplet, quartet with Pascal heights (OCR also uses quintet, sextet, septet).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+
 ## 6.3.2(c): Predicting a spectrum
 
 Reverse the method: for each environment give the shift range, relative area and splitting.
@@ -136,6 +164,12 @@ Reverse the method: for each environment give the shift range, relative area and
 | –O–CH₃ | 3.3–4.5 | 3 | singlet (no adjacent H) |
 
 The OCH₃ is a singlet: its neighbouring carbon (C=O) has no hydrogen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
 
 ## 6.3.2(d): TMS, deuterated solvents and D₂O
 
@@ -193,6 +227,12 @@ Compound C contains 50.8% C, 8.5% H and 40.7% O by mass. Relative atomic masses:
 **Fragments.** m/z 45 fits CH₃CH(OH)⁺, m/z 73 fits COOCH₂CH₃⁺ and m/z 29 fits CH₂CH₃⁺.
 
 **Structure.** C is **ethyl 2-hydroxypropanoate, CH₃CH(OH)COOCH₂CH₃**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
 
 ## Common errors
 

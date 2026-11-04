@@ -67,6 +67,17 @@ Science can tell you what stem cells can do and what the risks are. It cannot se
 
 A balanced discussion gives points on both sides, names who is affected (patients, donors, embryos), and says what evidence would change the view. Laws and regulators set limits, and these differ between countries.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--08-stem-cell-potency.webp" width="900" height="1230" alt="A zygote divides into a solid morula, then a hollow blastocyst with trophoblast, cavity and inner cell mass (Edexcel). Four bars narrow from totipotent (any cell type and placenta) through pluripotent and multipotent to unipotent (one cell type). Treating an adult skin cell with transcription factors makes an induced pluripotent stem cell (AQA)." loading="lazy">
+  <figcaption>Potency from totipotent to unipotent, the early embryo, and iPS cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--09-cancer-genes.webp" width="900" height="940" alt="Normal control has a proto-oncogene go signal and a working tumour suppressor brake, giving 8 cells in 90 hours with a 30 hour cycle. A stuck-on oncogene (mutation or too little methylation) with an 18 hour cycle gives 32 cells. Losing the tumour suppressor gene (mutation or too much methylation) leaves division unchecked." loading="lazy">
+  <figcaption>How oncogenes and loss of tumour suppressor genes lead to uncontrolled division.</figcaption>
+</figure>
+
+
 ## 3.18 Differential gene expression
 
 Almost every body cell of an organism carries the same genes, because all arise from the zygote by mitosis. Cells differ because they **express different genes**. In a given cell type only some genes are transcribed into **active mRNA**, meaning mRNA that is translated. The proteins made then control cell processes (as enzymes, carriers, hormones) or determine structure (as cytoskeleton, collagen, haemoglobin).
@@ -86,6 +97,17 @@ The sequence is: signal or transcription factor binds to the promoter region of 
 | Actin | 95 | 90 | 100 |
 
 Actin mRNA is similar in all three, so actin is expressed in every cell type. Insulin mRNA appears only in the beta cell and albumin mRNA only in the liver cell. The cells differ in which genes are expressed, not in the genes they hold. Within the beta cell, insulin mRNA is 540 ÷ 90 = 6 times the actin mRNA level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--01-mutation-types.webp" width="900" height="1108" alt="The same nine-base gene ATGCTTGGC is shown after each mutation with changed bases in gold and lost bases as dashed boxes. Substitution keeps nine bases, addition gives ten, deletion eight, duplication of GGC twelve, inversion of the last six bases (reads GCCAAG) keeps nine, and translocation moves CTT to the other end. OCR names only substitution, insertion and deletion." loading="lazy">
+  <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--04-oestrogen-transcription-factor.webp" width="900" height="1060" alt="Oestrogen diffuses through the cell-surface membrane, binds a receptor in the cytoplasm to form a complex, the complex enters the nucleus through a nuclear pore, binds a base sequence next to the target gene, and RNA polymerase can then make mRNA." loading="lazy">
+  <figcaption>Five steps by which oestrogen acts as a transcription factor.</figcaption>
+</figure>
+
 
 ## 3.19 One gene, more than one protein
 
@@ -109,6 +131,22 @@ Coding length = 90 + 72 + exon length. Divide by 3 for codons, then subtract 1 f
 | 4 | 207 | 69 | 68 |
 
 One gene gives **three** polypeptides of 73, 88 and 68 amino acids. Because every exon length is divisible by 3 the reading frame is kept.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--02-mutation-effects.webp" width="900" height="1110" alt="The mRNA AUG CUU GGC ACC AAG GAU CGU UAG is read in triplets. A silent change (CUU to CUC) keeps Leu, a missense change (CUU to CCU) gives Pro, a nonsense change (AAG to UAG) stops the chain after four amino acids, one added G causes a frame shift so every later amino acid changes, and deleting three bases keeps the frame and loses only Leu." loading="lazy">
+  <figcaption>Silent, missense, nonsense, frame shift and in-frame deletion followed through one mRNA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
+  <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--07-alternative-splicing.webp" width="900" height="970" alt="A pre-mRNA with five exons of 90, 60, 105, 45 and 72 nucleotides is spliced so introns are removed and exons joined. Keeping exon 1, exon 5 and one of exons 2, 3 or 4 gives mRNAs coding for 73, 88 and 68 amino acids." loading="lazy">
+  <figcaption>Alternative splicing gives three polypeptides from one gene.</figcaption>
+</figure>
+
 
 ## 3.20 Phenotype, environment and epigenetics
 
@@ -135,6 +173,12 @@ Environmental factors such as diet and smoking can alter these marks.
 ### Passing marks on after cell division (iii)
 
 During DNA replication the new strand is unmethylated. Enzymes recognise the methylated parent strand and methylate the matching new strand, so both daughter cells keep the same pattern. This lets a specialised cell lineage keep the same genes switched on or off after many mitotic divisions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
+  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
+</figure>
+
 
 ## 3.21 Multiple alleles and polygenic inheritance
 

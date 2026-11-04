@@ -1,0 +1,248 @@
+---
+title: "OCR A Level Economics: Scarcity, choice, the margin and the market economy (H460)"
+seoTitle: "OCR Economics: Scarcity, the Margin and Markets"
+resourceType: "study-guides"
+subject: "economics"
+level: ["a-levels"]
+topic: "Scarcity, choice, the margin and the market economy"
+boards: ["ocr"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
+order: 206
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "microeconomics-ocr-alevel-economics"
+    subtopic: "introduction-to-microeconomics-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    subtopic: "the-basic-economic-problem-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    subtopic: "the-market-economy-ocr-aslevel-economics"
+description: "Study guide to scarcity, needs and wants, factors of production, the market economy and the margin for OCR A Level Economics (H460), with worked examples."
+author: "marlbridge-academic-team"
+publishedDate: 2026-10-18
+featured: false
+---
+
+This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers the area of study **Scarcity and choice** in Component 1, Microeconomics: the basic economic problem, the market economy and the concept of the margin. The whole specification is A Level and the text labels no content as AS or Extension. All figures in worked examples are invented and illustrative.
+
+Opportunity cost, the production possibility frontier, specialisation, resource allocation, economic systems and objectives have their own pages. This page stays with the topics below. Start from the [Microeconomics overview](/resources/ocr-a-level-economics-microeconomics/), the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [printable checklist](/checklists/ocr/a-level/economics/). Check where you stand first with the [free diagnostics](/diagnostics/).
+
+## What this unit covers
+
+| Topic | You must be able to |
+|---|---|
+| The basic economic problem | Explain and distinguish economic and free goods, needs and wants, positive and normative statements. Explain scarcity and the economic problem, and evaluate their implications. Explain the impact of sustainability. Explain the roles of government, firms and households. Explain the factors of production and their rewards |
+| The market economy | Evaluate its strengths and weaknesses, and the role of government within it |
+| The concept of the margin | Explain the margin, calculate marginal values from data, evaluate how useful the marginal concept is for decision making, and evaluate rationality |
+
+## 1. Goods, scarcity and the economic problem
+
+**Economic goods** are goods and services that use up scarce resources to produce, so someone has to give something up to supply them. **Free goods** need no resources to supply and have no price because nobody has to give anything up for more of them. Sunlight reaching a field is a standard example. Be careful with "free" in everyday speech: a state-funded school place costs the user nothing at the point of use, but it is an economic good because teachers, buildings and materials are used. Whether a good is free can change: clean air in a remote valley may be free, while clean air in a smoggy city needs resources to protect.
+
+**Needs** are what a person must have to survive or avoid serious harm, such as food, water and shelter. **Wants** are things people desire beyond that. The line moves with time and place: reliable internet access is a want in one society and close to a need for working life in another. Economics rests less on the distinction than on the fact that wants have no fixed limit.
+
+**Scarcity** is the gap between unlimited wants and the limited resources that can satisfy them. It is not rarity: tap water may be plentiful, yet it is scarce in the economic sense because supplying it uses resources. Scarcity forces choice, which gives the **basic economic problem**: every society must decide **what** to produce, **how** to make it and **who** gets it.
+
+**Evaluating the implications.** A chain for a strong answer:
+
+- Resources are limited, so using them for one purpose means not using them for another. Every decision by a household, firm or government involves giving something up.
+- Because choices must be made, some mechanism is needed to make them. Prices, government decisions or a mixture can do it, and each has costs.
+- The problem never disappears. Growth raises output, but wants tend to rise with it. Richer countries still face hard choices, for example between spending on health, defence or tax cuts.
+- Judgement: the problem is permanent, but its severity depends on resources, technology and how well choices are made. Poor choices (wasted resources) make scarcity worse than it needs to be.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--02-sc-needs-wants-line.webp" width="900" height="890" alt="Two columns show food, water and shelter as needs in both societies. Internet access is a want in Society A and sits below the line, close to a need, in Society B. An arrow shows wants have no fixed limit." loading="lazy">
+  <figcaption>The dividing line between needs and wants moves with time and place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
+  <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
+
+## 2. Positive and normative statements
+
+A **positive statement** describes or predicts, and evidence can check it, so it is either true or false. A **normative statement** expresses an opinion on what ought to happen, so evidence alone cannot settle it. Words such as "should", "fair" and "better" are warning signs, but test the whole statement.
+
+| Statement (Country A, illustrative) | Type | Reason |
+|---|---|---|
+| Unemployment rose from 5% to 7% last year | Positive | Checkable against data |
+| Unemployment is too high | Normative | "Too high" is a judgement |
+| A rise in the minimum wage will reduce employment | Positive | A prediction, which may be wrong but is testable |
+| The government should raise the minimum wage | Normative | Depends on values |
+
+A positive statement that proves wrong is still positive. Policy debate mixes both: positive analysis finds consequences, normative judgement chooses between them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--01-positive-vs-normative.webp" width="900" height="910" alt="Two cards. Positive: &quot;Unemployment rose by 2%&quot; can be tested against data, shown by bars (illustrative 5% to 7%) and a magnifying glass, so it is true or false. Normative: &quot;The government should reduce unemployment&quot; is a value judgement, shown by a balance scale; data alone cannot settle it." loading="lazy">
+  <figcaption>A positive statement can be tested against evidence; a normative one rests on values.</figcaption>
+</figure>
+
+
+## 3. Sustainability, scarcity and choice
+
+**Sustainability** means using resources to satisfy today's needs in a way that leaves future generations able to satisfy their own. Using a resource faster than it renews makes it scarcer in future, which forces harder choices later.
+
+**Worked example (invented).** A managed woodland holds 12,500 cubic metres of timber, which grows by 6% of the stock each year. Loggers fell 1,000 cubic metres a year.
+
+- Year 1 growth: 12,500 × 0.06 = 750. Stock at year end: 12,500 + 750 − 1,000 = 12,250.
+- Year 2 growth: 12,250 × 0.06 = 735. Stock: 12,250 + 735 − 1,000 = 11,985.
+- Year 3 growth: 11,985 × 0.06 = 719.1. Stock: 11,985 + 719.1 − 1,000 = 11,704.1.
+
+The stock shrinks every year, and the growth shrinks with it, so felling 1,000 is not sustainable. Felling 750 would hold the stock at 12,500. The choice today is between more timber now and a larger stock for the future.
+
+Impact on scarcity and choice: depletion makes the resource scarcer, raises the price of timber and pushes firms toward substitutes. Governments may set quotas, limiting current consumption. Sustainable practice (renewable energy, recycling, replanting) can ease long-run scarcity but often costs more now. Evaluate by asking who bears the cost today and who gains later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--13-woodland-sustainability.webp" width="900" height="840" alt="A woodland of 12,500 cubic metres grows 6% a year. Felling 1,000 a year shrinks the stock to 12,250, 11,985 and 11,704 over three years, and growth falls from 750 to 735 to 719. Felling 750 would hold the stock at 12,500, shown as a dashed line. The vertical axis starts at 11,500." loading="lazy">
+  <figcaption>Felling 1,000 a year is unsustainable; felling 750 holds the stock level.</figcaption>
+</figure>
+
+
+## 4. Economic agents, factors of production and their rewards
+
+**Households** supply factors of production (mainly labour) and spend income on goods and services. **Firms** combine factors to produce goods and services, employ labour and pay for resources. **Government** provides goods and services, taxes, regulates, redistributes income and also acts as an employer and a buyer.
+
+| Factor | Nature | Reward |
+|---|---|---|
+| Land | Natural resources: soil, minerals, water, forests | Rent |
+| Labour | Human effort and skill | Wages and salaries |
+| Capital | Man-made goods used to produce other goods, such as machines | Interest |
+| Enterprise | Organising the factors and bearing risk | Profit |
+
+Capital here means physical capital, not money.
+
+**Worked example (invented).** A tile-making firm has revenue of £640,000 and buys £140,000 of materials. It pays £275,000 in wages, £45,000 in rent and £35,000 in interest.
+
+- Value added = 640,000 − 140,000 = £500,000, which is shared among the factors.
+- Profit (the reward to enterprise) = 500,000 − 275,000 − 45,000 − 35,000 = £145,000.
+- Shares: wages 55%, rent 9%, interest 7%, profit 29%, which total 100%.
+
+Materials are not a factor reward: they are the payment to other firms for their output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--14-value-added-shares.webp" width="900" height="910" alt="Revenue of £640,000 less £140,000 of materials leaves value added of £500,000. It is shared as wages £275,000 (55%) to labour, rent £45,000 (9%) to land, interest £35,000 (7%) to capital and profit £145,000 (29%) to enterprise. Materials pay other firms and are not a factor reward." loading="lazy">
+  <figcaption>How the tile firm’s value added is shared between the four factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--01-sc-agents-roles.webp" width="900" height="900" alt="Households supply labour and other factors to firms and are paid for them. Government taxes both and provides services and rules. A label under each agent gives the aim assumed in simple rational models: utility for households, profit for firms, welfare for government." loading="lazy">
+  <figcaption>Households, firms and government each play a role and are assumed to pursue a different aim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+
+## 5. The market economy
+
+In a market economy, private owners and consumers make most decisions, and prices coordinate them.
+
+**Strengths** (each with a chain):
+
+- Price signals: if demand for a good rises, its price rises, firms earn more by supplying it, and resources move to it without anyone planning the move.
+- Consumer choice: firms that supply what people want survive, so consumer wants steer production.
+- Incentives and efficiency: the profit motive pushes firms to cut costs and innovate; workers are paid for effort and skill.
+- Decentralised decisions use information that no single planner could gather.
+
+**Weaknesses:**
+
+- Market failure: where costs or benefits fall on third parties, or where goods cannot be priced, the market may over- or under-provide.
+- Inequality: reward follows ownership and skill, so those with few resources get little.
+- Market power: a dominant firm can restrict output and raise prices.
+- Instability and short-term focus: booms, slumps and neglect of long-run concerns such as sustainability.
+
+**Role of government within the market economy.** Typical roles are to provide a legal framework and property rights, supply goods the market under-provides, correct externalities with taxes, subsidies or regulation, promote competition, redistribute income and stabilise the economy.
+
+**Evaluation.** Intervention can improve outcomes, but governments have limited information, face political pressure, and policies can have unintended consequences or high costs (government failure). The judgement depends on the size of the failure, the quality of the policy, the time available and the value judgements about fairness. A strong answer weighs a named market failure against a named risk and reaches a supported conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--03-sc-intervention-balance.webp" width="900" height="880" alt="A balance compares market failures (third-party costs, unpriced goods, market power, inequality) with government failure risks (limited information, political pressure, unintended effects, high cost). Four factors decide the weighing: size of failure, quality of policy, time and views on fairness." loading="lazy">
+  <figcaption>Name a market failure and a government failure risk, then judge which weighs more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
+
+## 6. The concept of the margin
+
+The **margin** is the point at which a decision is made about one more or one less unit. Economic agents compare **marginal benefit** with **marginal cost**: do one more if the extra benefit is at least the extra cost.
+
+**Calculating marginal values.** Marginal value = change in total ÷ change in quantity. With one-unit steps, subtract consecutive totals.
+
+**Worked example 1 (invented): a small candle maker.** It sells batches of candles at £21 a batch. Total cost (TC) includes £24 fixed cost.
+
+| Batches | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|---|---|
+| TC (£) | 24 | 38 | 50 | 60 | 73 | 90 | 112 |
+| Marginal cost (£) | | 14 | 12 | 10 | 13 | 17 | 22 |
+| Revenue (£) | 0 | 21 | 42 | 63 | 84 | 105 | 126 |
+| Profit (£) | −24 | −17 | −8 | 3 | 11 | 15 | 14 |
+
+Marginal revenue is £21 for every batch. Marginal cost is below £21 up to batch 5 (£17) and above it at batch 6 (£22). A sixth batch adds £22 of cost for £21 of revenue, so profit falls from £15 to £14. The candle maker chooses 5 batches. The fixed cost does not appear in marginal cost.
+
+**Worked example 2 (invented): a consumer.** Marginal utility (MU) is the extra satisfaction from one more unit. Suppose total utility from cups of coffee is 30, 52, 68, 78, 84, 84 and 80 for 1 to 7 cups.
+
+- MU: 30, 22, 16, 10, 6, 0, −4.
+- MU falls as consumption rises, which is **diminishing marginal utility**.
+- If one unit of utility is valued at £0.10, marginal benefit is £3.00, £2.20, £1.60, £1.00, £0.60 and so on. This conversion is an assumption made for illustration.
+- At a price of £1.20 the consumer buys 3 cups: the third has a marginal benefit of £1.60, above the price, while the fourth (£1.00) is below it.
+
+**How useful is the margin?** For: it explains why decisions are small adjustments (one more hour, one more worker), why fixed or "sunk" costs should not affect the next choice, and it underpins supply and demand analysis. Against: agents often lack the data to know their marginal values; some decisions are all-or-nothing; satisfaction and environmental damage are hard to measure; and firms may use rules of thumb. Judgement: it is a powerful guide to what *should* be done in decisions that can be varied by small amounts, and weaker as a description of real behaviour.
+
+**Rationality.** In basic models, a **rational** agent has consistent preferences and aims to maximise utility (households), profit (firms) or welfare (government), using the available information. **Evaluation:** the assumption keeps models simple and predicts well in many markets, such as how firms respond to a tax. But people have limited information and time, follow habits, copy others, care about fairness, and can make decisions that serve them poorly. Rationality is a useful starting point, and more reliable for firms with clear goals than for households making one-off decisions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--11-candle-margin.webp" width="900" height="880" alt="Marginal cost per batch is £14, £12, £10, £13, £17 and £22 for batches 1 to 6, against a marginal revenue line of £21. Batch 6 costs more than it earns, so profit falls from £15 after 5 batches to £14 after 6. The candle maker chooses 5 batches. Fixed cost is not part of marginal cost." loading="lazy">
+  <figcaption>Marginal cost against £21 marginal revenue: stop at batch 5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy--12-coffee-diminishing-mu.webp" width="900" height="880" alt="Marginal utility of cups 1 to 7 is 30, 22, 16, 10, 6, 0 and minus 4, which is diminishing marginal utility. Valuing one util at £0.10 (an assumption), marginal benefit is £3.00, £2.20, £1.60, £1.00, £0.60, £0 and minus £0.40. At a price of £1.20 the consumer buys 3 cups." loading="lazy">
+  <figcaption>Diminishing marginal utility: a £1.20 price means buying 3 cups.</figcaption>
+</figure>
+
+
+## Common errors
+
+- Defining scarcity as "not enough" or as rarity. Link it to unlimited wants and limited resources.
+- Calling a statement normative just because it is wrong, or positive just because it contains a number.
+- Treating capital as money, or counting materials as a factor reward.
+- Putting fixed cost into marginal cost, or dividing by the wrong quantity step.
+- Listing strengths and weaknesses with no judgement on which weighs more.
+
+See the [revision notes](/resources/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy-revision-notes/) for a compact version and the [practice set](/resources/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy-practice/) for original questions with worked answers.
+
+## Official syllabus
+
+OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, area of study Scarcity and choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+

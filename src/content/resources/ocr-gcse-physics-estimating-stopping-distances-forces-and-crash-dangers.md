@@ -88,6 +88,17 @@ New distance = 9.0 × 2.5² = 9.0 × 6.25 = 56 m.
 
 This shortcut only works if the deceleration is the same in both cases. On a wet road the deceleration is smaller, so every braking distance is larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--04-stopping-distance-curve.webp" width="900" height="970" alt="Distance against speed from 0 to 30 m/s. Thinking distance is a straight line to 24 m, braking distance is a curve to 75 m, and the total curves up to 99 m. From 10 to 30 m/s thinking distance triples and braking distance is nine times larger." loading="lazy">
+  <figcaption>Thinking distance grows in proportion to speed, braking distance with speed squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--05-stopping-distance-08s.webp" width="900" height="780" alt="Stacked bars for 10 to 30 m/s with 0.8 s reaction time and 6.0 m/s2: totals 16, 31, 49, 72, 99 m. Tripling speed triples thinking distance and multiplies braking distance by nine." loading="lazy">
+  <figcaption>Braking distance grows with the square of speed, so stopping distance curves upwards.</figcaption>
+</figure>
+
+
 ## Dangers of large decelerations (P8.1g, both tiers)
 
 A large deceleration means a large change in velocity in a short time. By F = ma, a large deceleration of a person needs a large force on them. The force comes from whatever stops them: a seat belt, an airbag, the dashboard or the road. Because of inertia, an unrestrained person carries on at the original speed until something exerts that force.
@@ -123,6 +134,22 @@ Work done = force × distance, so F = 64 800 ÷ 0.80 = 81 000 N.
 
 Check with acceleration: a = 12² ÷ (2 × 0.80) = 90 m/s², and F = 900 × 90 = 81 000 N. If the crumple distance were only 0.20 m, the force would be four times larger, 324 000 N.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--05-crash-force-time.webp" width="900" height="930" alt="A 75 kg passenger at 15 m/s needs about 14 000 N to stop in 0.080 s (19 times their weight) but only 2800 N to stop in 0.40 s (3.8 times their weight). Bars are to scale; five times longer gives one fifth of the force." loading="lazy">
+  <figcaption>Crumple zones and seat belts lengthen the stopping time and so reduce the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--08-crumple-distance-force.webp" width="900" height="836" alt="A 900 kg car at 12 m/s has 64 800 J of kinetic energy. Crumpling 0.80 m needs 81 000 N; crumpling 0.20 m needs 324 000 N, four times more." loading="lazy">
+  <figcaption>A shorter stopping distance means a larger force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--09-safety-features-longer-stop.webp" width="900" height="880" alt="Crumple zones lengthen the stopping distance; seat belts stretch; airbags spread the force and slow the head over longer; cycle helmets crush. Each lengthens time or distance." loading="lazy">
+  <figcaption>Safety features make the stop longer so the force is smaller.</figcaption>
+</figure>
+
+
 ## Estimating forces on a public road (P8.1h, Higher Tier only)
 
 To estimate a force, pick a sensible mass, estimate the acceleration from a speed change and a time (or from v² = 2as), then use F = ma. State your assumptions. Answers to one or two significant figures are appropriate for estimates.
@@ -140,6 +167,12 @@ A lorry of mass 16 000 kg slows from 22 m/s to rest in 60 m. Its deceleration is
 A cyclist and bicycle of total mass 90 kg slow from 6.0 m/s to rest in 2.0 s. a = 6.0 ÷ 2.0 = 3.0 m/s², so F = 90 × 3.0 = 270 N.
 
 The lorry needs a force about 240 times larger than the cyclist, mainly because its mass is about 180 times larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--06-road-force-estimates.webp" width="900" height="750" alt="A 1250 kg car braking at 6.4 m/s2 needs 8000 N, about two thirds of its 12 250 N weight. A lorry needs about 65 000 N and a cyclist 270 N, on one scale." loading="lazy">
+  <figcaption>Estimated braking forces on the road, drawn to scale.</figcaption>
+</figure>
+
 
 ## Large accelerations in road transport (P8.1i, Higher Tier only)
 
@@ -162,6 +195,12 @@ Distance = 26.8² ÷ (2 × 6.7) = 54 m.
 ### Worked example 8: estimating speed from skid marks
 
 Skid marks 30 m long suggest a steady deceleration of about 7 m/s² on a dry road. The car's speed at the start of the skid was v = √(2 × 7 × 30) = 20 m/s, about 46 mph. On a wet road with a deceleration of 3.5 m/s² the same skid would imply only 14 m/s. The estimate is only as good as the assumed deceleration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--07-large-accelerations-log-scale.webp" width="900" height="740" alt="Log scale: car pulling away 2 to 3 m/s2, emergency stop 6 to 8, sports car 6.7, crash 100 or more." loading="lazy">
+  <figcaption>A crash acceleration is more than ten times an emergency stop.</figcaption>
+</figure>
+
 
 ## Common errors
 

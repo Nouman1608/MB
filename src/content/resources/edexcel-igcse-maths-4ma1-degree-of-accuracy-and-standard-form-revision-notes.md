@@ -64,6 +64,22 @@ Course hub: [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/). Tic
 - 2 s.f. of 61 540 is 62 000, not 62.
 - 1 d.p. of 2.96 is 3.0, not 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--05-rounding-carry.webp" width="900" height="1050" alt="4.99712 to 2 d.p.: keep 4.99, the next digit 7 rounds up, giving 5.00. 38 649.5 to 2 s.f.: keep 38, the next digit 6 rounds up to 39, and zeros fill the places to give 39 000." loading="lazy">
+  <figcaption>Rounding up can carry, and the zeros must stay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--01-rounding-number-line.webp" width="900" height="960" alt="Two number lines show 46 285 between 46 200 and 46 300, past the halfway point 46 250, so it rounds up to 46 300. Between 46 000 and 47 000 it lies before halfway 46 500, so it rounds to 46 000." loading="lazy">
+  <figcaption>Compare 46 285 with the halfway point to round to the nearest 100 or 1000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--02-significant-figures.webp" width="900" height="900" alt="The digits of 0.07049 are boxed. The leading zeros are greyed because they never count; counting starts at the 7. The digit after the last kept one decides: 0 and 4 leave it (0.07, 0.070) and 9 rounds up (0.0705)." loading="lazy">
+  <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
+</figure>
+
+
 ## 1.8C Identifying bounds -- both tiers
 
 **Method in steps**
@@ -81,6 +97,12 @@ Course hub: [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/). Tic
 
 As an inequality: 37.5 ≤ x < 42.5. "Nearest 5" catches people out: the half unit is 2.5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
+
 ## 1.8D Estimation -- both tiers
 
 **Method in steps**
@@ -94,6 +116,12 @@ As an inequality: 37.5 ≤ x < 42.5. "Nearest 5" catches people out: the half un
 ```
 (0.587 x 3.94) / 0.213  ->  (0.6 x 4) / 0.2 = 2.4 / 0.2 = 12
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
 
 ## 1.8A Solving problems with bounds -- Higher tier only
 
@@ -119,6 +147,17 @@ lower bound of P - Q = 17.55 - 9.255 = 8.295
 **Suitable degree of accuracy.** Work out both bounds. Round each to 1 s.f., then 2 s.f., then 3 s.f. The answer is the most accurate value on which **both** bounds agree. Above, to 2 s.f. the bounds give 8.4 and 8.3, so they disagree. To 1 s.f. both give 8. So P − Q = 8 to 1 s.f.
 
 **"Must be sure" decisions.** If a quantity must definitely be enough (fence, fabric, paint), use the **upper bound** of what is needed. If something must definitely fit, compare the upper bound of the object with the lower bound of the space.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--04-bounds-of-a-speed.webp" width="900" height="1100" alt="Distance 250 m to the nearest 10 lies from 245 to 255; time 31.4 s lies from 31.35 to 31.45. Upper speed 255/31.35 = 8.134 and lower 245/31.45 = 7.790. At 2 s.f. they round to 7.8 and 8.1, but at 1 s.f. both are 8, so the speed is 8 m/s." loading="lazy">
+  <figcaption>The biggest distance over the smallest time gives the upper bound; choose the accuracy where both bounds agree.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--04-bounds-two-values.webp" width="900" height="1120" alt="Illustrative a = 8 and b = 3 to the nearest whole number. Upper and lower bounds: a+b 12 and 10; a-b 6 and 4 (upper a minus lower b, lower a minus upper b); a x b 29.75 and 18.75; a / b 3.4 and about 2.14. Gold boxes are upper bounds and teal boxes are lower bounds." loading="lazy">
+  <figcaption>Pick the upper or lower bound of each value that makes the answer as large or as small as possible.</figcaption>
+</figure>
+
 
 ## 1.9A Standard form -- both tiers
 
@@ -148,12 +187,34 @@ lower bound of P - Q = 17.55 - 9.255 = 8.295
 
 **Calculator display.** 4.7E-03 or 4.7 × 10⁻⁰³ means 4.7 × 10⁻³. Write it in proper notation in your answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--02-std-form-add-match-powers.webp" width="900" height="710" alt="A bar of blocks worth 10^4 shows 5.6 x 10^4 = 56 000 and 8.3 x 10^3 = 0.83 x 10^4. Together they make 6.43 blocks, so 6.43 x 10^4 = 64 300." loading="lazy">
+  <figcaption>Write both numbers with the same power, then add the front numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
+
 ## 1.9A Solving problems involving standard form -- Higher tier only
 
 - **"How many times bigger?"** Divide the larger by the smaller: (6 × 10⁸) ÷ (1.5 × 10⁵) = 4 × 10³.
 - **Square roots.** Make the power even first: √(3.6 × 10⁷) = √(36 × 10⁶) = 6 × 10³.
 - **Expressions in n.** Treat 10ⁿ with index laws, then adjust a: (2 × 10ⁿ)³ = 8 × 10³ⁿ; (6 × 10ⁿ)² = 36 × 10²ⁿ = 3.6 × 10²ⁿ⁺¹.
 - **Units.** 1 km = 10³ m, 1 m = 10³ mm. Convert first, then calculate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--03-std-form-power-root.webp" width="900" height="710" alt="Squares drawn to scale: side 3 x 10^4 has area 9 x 10^8; side 4 x 10^4 has area 16 x 10^8 = 1.6 x 10^9, so the square root of 1.6 x 10^9 is 4 x 10^4. The power of 10 is made even before the root." loading="lazy">
+  <figcaption>Squaring and rooting standard form, with an even power before a root.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -38,6 +38,12 @@ A **differential equation** links a function to its derivatives. A **first order
 
 Solving one means finding the function. Integrating produces an arbitrary constant, so you first get a **general solution**, which describes a whole family of curves. An **initial condition** (or boundary condition), such as "y = 3 when x = 1", picks out one curve. That curve is the **particular solution**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--01-family-of-solutions.webp" width="900" height="920" alt="A slope field for dy/dx = 3x²y with the solution curves y = Ae^(x³) for A = 0.5, 1, 2 and 3. Each curve follows the short gradient marks. The thick curve through (0, 2) is the particular solution with A = 2; the others share the same equation but have different values of the constant." loading="lazy">
+  <figcaption>The constant A gives a whole family of solutions; an initial condition picks out one curve.</figcaption>
+</figure>
+
+
 ## Direct integration
 
 If the right-hand side contains only x, integrate straight away:
@@ -111,6 +117,12 @@ When x = π/2, y = 1: −1 = 0 + c, so c = −1. Then 1/y = cos x + 1, and **y =
 
 Notice that this solution is undefined when cos x = −1, that is at x = π and every odd multiple of π. The solution is only meaningful on the interval −π < x < π that contains the starting point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--02-constant-solution.webp" width="900" height="920" alt="A slope field for dy/dx = 3x(y − 4). The marks are flat along y = 4, which is itself a solution (A = 0). Other solutions y = 4 + Ae^(3x²/2) curve away from it; the thick one through (0, 7) has A = 3." loading="lazy">
+  <figcaption>Dividing by y − 4 hides the constant solution y = 4, which is the case A = 0.</figcaption>
+</figure>
+
+
 ## Exponential growth and decay (1.08l)
 
 If a quantity changes at a rate **proportional to its size**, then dy/dt = ky for a constant k.
@@ -146,6 +158,12 @@ Time to reach 5000: 5000 = 500e^(kt), so t = ln 10/k = **7.23 hours**.
 
 Limitation: at t = 8 the model gives P ≈ 6391, and the numbers keep growing without limit. A real colony runs out of food or space, so the model is only reasonable while the colony is small. Also P should be a whole number, so a decimal answer is only an approximation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--03-half-life-decay.webp" width="900" height="920" alt="Graph of mass against time for dm/dt = −km with m = 50 at t = 0 and 38 g at 4 hours. Each interval of 10.1 hours halves the mass: 25 g, 12.5 g, 6.25 g. The tangent at 25 g is half as steep as the tangent at 50 g, because the rate is proportional to the mass." loading="lazy">
+  <figcaption>Equal time steps halve the mass because the rate is proportional to what is left.</figcaption>
+</figure>
+
+
 ## Modelling with a constant on the right
 
 Many rates depend on a difference, so the right-hand side has the form k(y − a). The method is the same. Newton's law of cooling says the rate of change of an object's temperature T is proportional to the difference between T and the surroundings.
@@ -166,6 +184,17 @@ For T = 60: 38 = 158e^(−kt), so t = ln(158/38)/k = **37.5 minutes**.
 
 Interpretation: as t → ∞, T → 22, so the pie approaches room temperature and never falls below it. Limitations: the model assumes the room stays at 22 °C and that the pie has one uniform temperature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--04-newton-cooling.webp" width="900" height="920" alt="Graph of temperature against time for a drink cooling in a 20 degree room, T = 20 + 65e^(−kt). It starts at 85, is 60 at 5 minutes and 30 at 19.3 minutes. It flattens towards the dashed line T = 20 but never reaches it." loading="lazy">
+  <figcaption>The temperature approaches room temperature but never reaches it, because the model uses the gap T − 20.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--06-finite-or-never.webp" width="900" height="920" alt="Water depth against time for two models with the same start (4 m) and the same depth after 10 minutes (2.25 m). The solid curve from dh/dt = −k√h hits zero at exactly 40 minutes. The dashed exponential curve from dh/dt = −ch keeps falling but never reaches zero." loading="lazy">
+  <figcaption>The form of the equation decides whether the tank empties in finite time.</figcaption>
+</figure>
+
+
 ## Kinematics
 
 Velocity and acceleration are related by a = dv/dt, and v = ds/dt. If the acceleration depends on v, you get a separable equation. For example, resistance can make the acceleration depend on the speed.
@@ -184,6 +213,12 @@ At t = 0, v = 0: A = 6, so 2v = 6 − 6e^(−2t) and **v = 3 − 3e^(−2t)**.
 Description: the boat starts from rest and speeds up, but more and more slowly. As t → ∞, e^(−2t) → 0 and v → 3, so the speed approaches 3 m s⁻¹ and never reaches it. The acceleration 6 − 2v is zero at v = 3, which is why the speed levels off.
 
 Distance: s = ∫₀² (3 − 3e^(−2t)) dt = [3t + 1.5e^(−2t)] from 0 to 2 = 6 + 1.5e⁻⁴ − 1.5 = **4.53 m** (3 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--05-rate-in-minus-out.webp" width="900" height="990" alt="Top graph: the amount of drug rises from 0, is 15.5 mg at 5 hours and levels off at 20 mg. Bottom graph: rate in is constant at 6 mg per hour and rate out 0.3x rises with x; they cross at x = 20. Below 20 the amount rises, above 20 it would fall." loading="lazy">
+  <figcaption>The long-term amount is where the rate in equals the rate out.</figcaption>
+</figure>
+
 
 ## Interpreting the solution and its limitations
 

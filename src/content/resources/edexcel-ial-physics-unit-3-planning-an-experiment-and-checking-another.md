@@ -56,9 +56,26 @@ Reading a micrometer: add the sleeve reading (including the half-millimetre mark
 
 Reading Vernier calipers: take the main-scale reading just before the zero of the Vernier scale, then add 0.1 mm for each Vernier division number that lines up with a main-scale mark. A main scale reading of 24 mm with the third Vernier mark aligned gives 24.3 mm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--01-vernier-24-3.webp" width="900" height="710" alt="A main scale in mm over a ten-division Vernier scale. The Vernier zero is just past 24 mm and the third Vernier mark lines up with a main-scale mark. The reading is 24 + 3 x 0.1 = 24.3 mm." loading="lazy">
+  <figcaption>Main-scale reading plus Vernier division times 0.1 mm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--01-micrometer-reading.webp" width="900" height="920" alt="Enlarged micrometer sleeve and thimble. The thimble edge has passed the 5.5 mm mark on the sleeve, and thimble line 28 is level with the datum line. The reading is 5.5 + 0.28 = 5.78 mm." loading="lazy">
+  <figcaption>Add the main scale reading to the thimble scale reading (hundredths of a mm).</figcaption>
+</figure>
+
+
 ### Calibration and zero error
 
 Before you take readings, check that each instrument reads zero when it should. Close the micrometer jaws without force, and use the ratchet. If it reads 0.02 mm, every reading is too large by 0.02 mm, so subtract it. This is a systematic error: it shifts all readings the same way and repeating readings does not remove it. A meter that does not read zero with nothing connected needs the same correction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--01-zero-error-micrometer.webp" width="900" height="1010" alt="A micrometer with its jaws closed reads +0.02 mm instead of 0.00 mm. A wire reading of 1.5 mm on the sleeve plus 0.27 mm on the thimble is 1.77 mm. On a zoomed number line an arrow moves 1.77 back by 0.02 mm to the true diameter 1.75 mm. The error is systematic, so repeats do not remove it." loading="lazy">
+  <figcaption>A positive zero error is subtracted from every reading; repeating does not remove it.</figcaption>
+</figure>
+
 
 ### Measuring variables with correct technique
 
@@ -69,6 +86,12 @@ Say how, not just what. Examples of specific technique:
 - Measure the diameter of a wire at several places along it and at right angles to each other, because wire is not perfectly uniform or circular.
 - Time many swings or oscillations, then divide, when the single interval is short.
 - Use a fiducial marker (a fixed pointer or a bit of tape) as a reference for starting and stopping a timer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--03-pendulum-period.webp" width="900" height="1010" alt="A pendulum swings from A to B and back, one oscillation. Bars compare timing one oscillation (0.92 s) with 20 oscillations (18.4 s) against the same 0.2 s reaction-time error, which is 22% of one period but 1.1% of the long time. Period = 18.4 / 20 = 0.92 s." loading="lazy">
+  <figcaption>Timing many oscillations and dividing shrinks the effect of reaction-time error.</figcaption>
+</figure>
+
 
 ### Control variables and fair testing
 
@@ -96,6 +119,17 @@ Quote the uncertainty for each measurement as follows (this matches the specific
 
 Then say how to reduce it: a better instrument, a bigger quantity (a longer length, many oscillations), or repeats. For systematic error, say what you will check and how you will correct for it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
+
 ### Implications and context
 
 Be ready to say one benefit and one risk of the physics, and to place it in a social, environmental or historical setting. For example, resistivity data helps engineers choose a material for power cables: a lower resistivity wastes less energy as heat, but mining and refining metals for cables has an environmental cost.
@@ -110,6 +144,17 @@ Task: determine the resistivity of a constantan wire (Core Practical 7).
 4. Method: connect one clip at 0 and move the other to lengths of 200, 300, 400, 500, 600, 700 and 800 mm. At each length close the switch, read V and I, switch off, and calculate R = V ÷ I.
 5. Controls: low current and short switch-on time keep the temperature constant; use the same wire throughout.
 6. Data: plot R against l. The gradient is ρ/A, with A = πd²/4 = 6.6 × 10⁻⁸ m² for d = 0.29 mm, so ρ = gradient × A. A gradient of 7.4 Ω m⁻¹ gives ρ = 4.9 × 10⁻⁷ Ω m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--02-resistivity-apparatus.webp" width="900" height="570" alt="A wire is taped to a metre rule with a fixed clip at 0 and a movable clip. Supply, switch and ammeter are in series with the wire; the voltmeter is across the two clips. Length l is varied from 200 to 800 mm and d is measured with a micrometer at three places." loading="lazy">
+  <figcaption>Series ammeter, parallel voltmeter, and a movable clip set the length l.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--03-resistivity-graph-rho.webp" width="900" height="920" alt="R against l for seven readings from 0.2 to 0.8 m lies on a straight line through the origin. A large triangle gives a gradient of 4.44 / 0.60 = 7.4 ohm per metre, equal to rho/A. With A = 6.6e-8 m2, rho = 4.9e-7 ohm metre." loading="lazy">
+  <figcaption>The gradient of R against l is rho/A, so rho = gradient x A.</figcaption>
+</figure>
+
 
 ## 3.4 Implementation and measurements
 
@@ -145,9 +190,21 @@ A student hangs masses from a spring and records extensions with a ruler held ne
 - Without that point the stiffness is k = 1.0 ÷ 0.012 = 83 N m⁻¹.
 - Improvements: use a set square to check that the ruler is vertical, put a pointer on the spring and read at eye level, and repeat with loads taken off as well as put on to check for hysteresis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--02-spring-anomaly.webp" width="900" height="960" alt="Extension against load for six single readings. The first three lie on a line of 12 mm per newton. At 4.0 N the line predicts 48 mm but 59 mm was recorded, 11 mm too high, so it should be repeated. Without it k = 1.0/0.012 = 83 N per metre." loading="lazy">
+  <figcaption>One point 11 mm above the line is a prompt to repeat the reading, not to discard it.</figcaption>
+</figure>
+
+
 ### Worked example 3: a micrometer diagram
 
 A micrometer measuring a wire shows 1.5 mm on the sleeve and the thimble line at 27. The jaws read +0.02 mm when closed. Reading = 1.5 + 0.27 = 1.77 mm; corrected diameter = 1.77 − 0.02 = 1.75 mm. State it to 3 significant figures (2 decimal places), since the micrometer resolves 0.01 mm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--04-number-range-of-readings.webp" width="900" height="1070" alt="Two R against l graphs with the same scatter. With three points in a narrow range, lines of gradient about 3 and 11 ohm per metre both fit and they cut the R axis on opposite sides of the origin. With seven well-spaced points the possible gradients are only about 6.7 to 8.0." loading="lazy">
+  <figcaption>Few readings over a narrow range leave the gradient and intercept uncertain.</figcaption>
+</figure>
+
 
 ## Common errors
 

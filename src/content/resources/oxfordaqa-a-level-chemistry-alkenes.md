@@ -135,6 +135,12 @@ Product: **1,2-dibromoheptane**. Both added atoms are Br, so there is no major/m
 **Test for unsaturation:** add bromine water and shake. A compound with C=C turns it from **orange to
 colourless**. A saturated compound leaves it orange.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--04-bromine-test.webp" width="900" height="975" alt="Two tubes of orange bromine water shaken with an alkene (turns colourless, Br2 used up, dibromoethane shown) and an alkane (stays orange, no reaction)." loading="lazy">
+  <figcaption>An alkene decolourises bromine water; an alkane leaves it orange.</figcaption>
+</figure>
+
+
 ### Sulfuric acid
 
 Cold, concentrated H₂SO₄ adds across C=C. An H of H₂SO₄ is the electrophile. The hydrogensulfate ion then
@@ -174,6 +180,27 @@ C1; its partner in the double bond is C2. Predict and explain the major product.
 - H adds to C1, leaving the positive charge on C2. C2 is bonded to two carbons only, so this is a
   **secondary** carbocation. Br⁻ joins C2: **1-bromo-2-methylcyclohexane**.
 - The tertiary carbocation has three electron-releasing alkyl groups, so it is more stable. **Major: 1-bromo-1-methylcyclohexane. Minor: 1-bromo-2-methylcyclohexane.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--03-addition-reactions.webp" width="900" height="1210" alt="Ethene and its six addition products drawn bond by bond: ethane (H2, Ni), 1,2-dibromoethane (Br2), bromoethane (HBr), ethanol (steam, H3PO4), ethyl hydrogensulfate (cold conc. H2SO4) and ethane-1,2-diol (acidified KMnO4). Each card is tagged with the boards that teach it." loading="lazy">
+  <figcaption>Addition across C=C gives a saturated product; the reagent decides which.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--05-hbr-mechanism.webp" width="900" height="923" alt="Curly arrow 1 from the C=C bond to the delta-plus H, arrow 2 from the H-Br bond to Br, giving CH3CH2+ and Br-; arrow 3 from a Br- lone pair to C+ gives bromoethane." loading="lazy">
+  <figcaption>Three curly arrows: from the C=C, from the H-Br bond, and from a bromide lone pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--06-br2-mechanism.webp" width="900" height="1287" alt="The pi electrons repel the Br-Br electrons giving an induced dipole; arrows from C=C to the delta-plus Br and from Br-Br to the other Br make BrCH2CH2+ and Br-; a lone pair on Br- then attacks C+ to give 1,2-dibromoethane. OCR also accepts a bromonium ion." loading="lazy">
+  <figcaption>Br2 becomes polar near the C=C, then adds by the same two-step pattern (OCR also accepts a bromonium ion).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--07-major-minor-product.webp" width="900" height="1236" alt="H adds to C1 giving a secondary carbocation (two alkyl groups) and 2-bromopropane as major product; H adds to C2 giving a primary carbocation (one alkyl group) and 1-bromopropane as minor. Bars show stability rising primary &lt; secondary &lt; tertiary." loading="lazy">
+  <figcaption>The more stable secondary carbocation forms faster, so 2-bromopropane is the major product.</figcaption>
+</figure>
+
 
 ## 3.3.4.3 Addition polymers
 
@@ -231,11 +258,23 @@ lodge among the chains and hold them apart. With the chains spaced out, the forc
 and they slide more easily. Plasticised PVC is flexible: cable insulation, inflatable products,
 flooring.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--09-pvc-plasticiser.webp" width="900" height="1060" alt="Unplasticised PVC chains lie close with strong forces (dipole-dipole and van der Waals): rigid. Plasticiser molecules push chains apart, weakening forces: flexible. Uses are shown for each." loading="lazy">
+  <figcaption>Plasticiser molecules separate PVC chains, weaken the forces between them and make PVC flexible.</figcaption>
+</figure>
+
+
 ### Knowledge that developed over time
 
 PVC was first made in 1872 by the German chemist Eugen Baumann. In 1926 Waldo Semon at the B.F. Goodrich
 Company found a way to plasticise it by blending it with additives, which opened up its wide range of
 uses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--08-addition-polymers.webp" width="900" height="1160" alt="Chloroethene opens its C=C to give the bracketed repeat unit with extension bonds and n; a chain section shows the repeating two-carbon unit; a poly(2-methylpropene) section is reversed to the monomer by putting C=C back." loading="lazy">
+  <figcaption>Open the C=C, keep substituents, add extension bonds and brackets; reverse by finding the repeating pair of carbons.</figcaption>
+</figure>
+
 
 ## 3.3.4.4 Epoxyethane
 

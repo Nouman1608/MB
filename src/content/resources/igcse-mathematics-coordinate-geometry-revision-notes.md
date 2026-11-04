@@ -65,6 +65,12 @@ points to plot: (-2, -5), (0, -1), (2, 3)
 
 Checking two points against the same table pattern also answers "is this line horizontal, vertical, or neither?" questions directly: if every y-value is identical the line is horizontal, if every x-value is identical it is vertical, and otherwise it slopes. Core finds its gradient from a grid; *(Extended)* calculating it from the coordinates of any two points is E3.3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+
+
 ## Gradient
 
 Gradient = vertical change ÷ horizontal change. On a grid, count the squares up (or down) and across between two points on the line.
@@ -77,6 +83,22 @@ gradient m = (y2 - y1) / (x2 - x1)
 
 A positive gradient slopes upward left to right; a negative gradient slopes downward. A horizontal line has gradient **0**; a vertical line has an **undefined** gradient (division by zero). Always subtract the coordinates in the **same order** in both the numerator and denominator -- picking (x1, y1) and (x2, y2) consistently, and not swapping which point is which partway through the calculation, avoids the sign errors that are the most common mistake in this whole topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--01-gradient-rise-run.webp" width="900" height="910" alt="A line passes through A (1, 1) and B (5, 4). Going 4 along and 3 up gives rise 3 and run 4, so the gradient is 3 divided by 4 = 0.75." loading="lazy">
+  <figcaption>Gradient is the change up divided by the change along.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--02-gradient-signs.webp" width="900" height="880" alt="Four small graphs: a rising line has positive gradient, a falling line negative, a horizontal line zero, and a vertical line has no gradient because the run is zero." loading="lazy">
+  <figcaption>Uphill is positive, downhill is negative, flat is zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--07-perpendicular-bisector.webp" width="900" height="1050" alt="AB joins (-3, 8) and (9, -2) with gradient -5/6. The bisector has gradient 6/5 and passes through M (3, 3), giving y = 6/5 x - 3/5." loading="lazy">
+  <figcaption>Combine gradient, perpendicular rule, midpoint and y = mx + c.</figcaption>
+</figure>
+
+
 ## Length and midpoint *(Extended)*
 
 ```
@@ -85,6 +107,12 @@ midpoint AB = ( (x1 + x2)/2 , (y1 + y2)/2 )
 ```
 
 The length formula is Pythagoras' theorem applied to the horizontal and vertical distances between the two points -- the answer must be square-rooted at the end, not left as the sum of the two squares. The midpoint is simply the average of the two x-coordinates and the average of the two y-coordinates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--03-length-midpoint.webp" width="900" height="960" alt="A line from A (-2, 1) to B (6, 7) forms a right triangle 8 across and 6 up, so its length is 10. The midpoint is the average of the coordinates, (2, 4)." loading="lazy">
+  <figcaption>Length uses Pythagoras; the midpoint averages the coordinates.</figcaption>
+</figure>
+
 
 ## Equations of straight lines
 
@@ -140,3 +168,14 @@ y = -(1/4)x + 5.5
 6. State the equation of a line with gradient -2 that passes through the origin.
 
 **Answers:** 1. Horizontal line: gradient 0. Vertical line: gradient undefined. 2. Length = sqrt((x2 - x1)^2 + (y2 - y1)^2). 3. -1/2, since 2 x (-1/2) = -1. 4. They must have the same gradient. 5. Keep the gradient the same as the given line, then substitute the new point's coordinates into y = mx + c and solve for the new value of c. 6. y = -2x, since a line through the origin has c = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+

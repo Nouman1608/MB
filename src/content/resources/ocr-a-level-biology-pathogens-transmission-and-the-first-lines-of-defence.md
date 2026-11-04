@@ -34,6 +34,12 @@ This study guide covers OCR A Level Biology A (H420) specification statements 4.
 
 If you want a refresher on magnification first, see [Foundations in Biology](/resources/ocr-a-level-biology-foundations-in-biology/). Practical drawing skills are developed in [Development of practical skills](/resources/ocr-a-level-biology-development-of-practical-skills/). To test yourself on this unit before you start, try the [free diagnostics](/diagnostics/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--05-antibody-structure.webp" width="900" height="1320" alt="An antibody is Y-shaped, with two heavy and two light chains joined by disulfide bridges, a flexible hinge, a variable region at each arm tip forming an antigen-binding site, and a constant stem. Two binding sites let one antibody link two pathogens, so they clump (agglutination)." loading="lazy">
+  <figcaption>Antibody structure explains its specificity and its ability to clump pathogens.</figcaption>
+</figure>
+
+
 ## 4.1.1(a) Types of pathogen
 
 A pathogen is an organism or virus that causes disease. The specification asks for four types and gives these examples. You do not need the binomial names.
@@ -46,6 +52,12 @@ A pathogen is an organism or virus that causes disease. The specification asks f
 | Fungi | Black sigatoka (bananas); athlete's foot (humans) | Eukaryotes that grow as threads called hyphae and make spores |
 
 The question will often give a disease and ask for its type, so learn the table as pairs. The specification says no detail of the symptoms of specific diseases is required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
 
 ## 4.1.1(b) Transmission
 
@@ -69,6 +81,17 @@ A farmer notices late blight spreading across a potato field after three days of
 4. Plants grown close together touch, so spread between neighbours is easy.
 
 A good answer ties each point to the pathogen's spores and the weather, not to "bad conditions" in general.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--02-four-diseases.webp" width="900" height="1190" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
+  <figcaption>Each disease has a named pathogen type and a main transmission route.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
+</figure>
+
 
 ## 4.1.1(c) Plant defences
 
@@ -132,6 +155,17 @@ Phagocytes are white blood cells that engulf and digest pathogens.
 4. The cell surface membrane folds round the pathogen and the pathogen is taken in by endocytosis, inside a vesicle called a **phagosome**.
 5. **Lysosomes** fuse with the phagosome and release hydrolytic enzymes that digest the pathogen.
 6. A neutrophil usually dies after a few rounds of killing. An antigen-presenting cell instead places pieces of the pathogen's antigens on its surface membrane, so that other cells of the immune system can recognise them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--03-phagocytosis.webp" width="900" height="1340" alt="Five steps in one phagocyte. Chemicals attract it and receptors bind the pathogen; the membrane wraps round it by endocytosis; it is sealed in a phagosome; a lysosome fuses with the phagosome; enzymes digest the pathogen and antigens are displayed on the cell surface." loading="lazy">
+  <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
+
 
 ## 4.1.1(e)(ii) Blood smears and drawing
 

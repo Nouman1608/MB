@@ -39,6 +39,12 @@ In triangle ABC, side a is opposite angle A, side b is opposite B and side c is 
 
 A side and the angle opposite it form a **pair**. The sine rule needs a pair. The cosine rule is for cases with no pair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sine-rule-and-cosine-rule--02-bearings-to-triangle.webp" width="900" height="920" alt="A boat sails 8.5 km on bearing 072 then 6.2 km on bearing 140. The reverse bearing 252 minus 140 gives angle ABC as 112 degrees. The cosine rule gives AC = 12.3 km, the sine rule gives angle BAC = 28.0 degrees, so the bearing of C from A is 100.0 degrees." loading="lazy">
+  <figcaption>Turn bearings into a triangle angle, then chain the cosine and sine rules.</figcaption>
+</figure>
+
+
 ## Formulae
 
 | Ref | Result | Use for |
@@ -62,6 +68,42 @@ In 6.02d, the Higher tier column lists these formulae among those to recall and 
 | Two sides and the angle between | area | ½ab sin C |
 
 If only two angles are given, find the third first: the angles add up to 180°.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sine-rule-and-cosine-rule--01-choose-sine-or-cosine.webp" width="900" height="1000" alt="Four triangles show known sides and angles in gold and the unknown in green. Two angles and a side, or a side with its opposite angle and one more side, need the sine rule. Two sides and the angle between them, or all three sides, need the cosine rule." loading="lazy">
+  <figcaption>A matching side and angle pair means sine rule; no pair means cosine rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sine-rule-and-cosine-rule--06-cosine-rule-find-angle.webp" width="900" height="970" alt="A triangle with sides 6.5, 9.0 and 12.5 cm drawn to scale. Cos C = -33/117 = -0.282, shown on a cosine number line in the obtuse (negative) region, so C = 106.4 degrees." loading="lazy">
+  <figcaption>A negative cosine means an obtuse angle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sine-rule-and-cosine-rule--07-sine-rule-find-length.webp" width="900" height="940" alt="A triangle with A = 48, B = 71 and a = 9.3 cm. The known pair a and A and the pair b and B give b = 9.3 x sin 71 / sin 48 = 11.8 cm." loading="lazy">
+  <figcaption>Put the unknown side on top and use the matching pairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sine-rule-and-cosine-rule--08-cosine-rule-find-length.webp" width="900" height="910" alt="A triangle with b = 7.4, c = 10.6 and A = 112 degrees. A bar splits a squared into 167.12 plus 58.77, the second term added because cos 112 is negative. a squared is 225.89 so a = 15.0 cm." loading="lazy">
+  <figcaption>An obtuse angle makes the cosine term add.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--03-sine-rule.webp" width="900" height="860" alt="Triangle ABC with A = 48, B = 65, C = 67 degrees and a = 9 cm drawn to scale. a over sin A equals b over sin B gives b = 9 sin 65 over sin 48 = 11.0 cm. The rule needs a side and its opposite angle." loading="lazy">
+  <figcaption>Pair each side with the angle opposite it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--05-cosine-rule.webp" width="900" height="860" alt="The lesson worked example drawn to scale: AB = 7, AC = 10, angle A = 110 degrees. A bar shows BC squared = 149 + 47.9 = 196.9, so BC = 14.0 cm. The extra 47.9 is added because cos 110 degrees is negative." loading="lazy">
+  <figcaption>With an obtuse angle the cosine term adds, so BC is longer than the right-angle case.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--05-reverse-bearings.webp" width="900" height="990" alt="Points P and Q each with a parallel north line. Bearing of Q from P is 063 degrees; bearing of P from Q is 243 degrees, which is 063 plus 180." loading="lazy">
+  <figcaption>The two bearings between a pair of points differ by 180 degrees.</figcaption>
+</figure>
+
 
 ## Method boxes
 
@@ -90,6 +132,12 @@ If only two angles are given, find the third first: the angles add up to 180°.
 1. Put the side opposite the wanted angle first in the numerator: cos A = (b² + c² - a²) / (2bc).
 2. Work the top and the bottom separately, then divide.
 3. Use cos⁻¹. A negative cosine gives an obtuse angle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sine-rule-and-cosine-rule--05-label-the-triangle.webp" width="900" height="870" alt="A scalene triangle with the side opposite each angle given the matching lower-case letter and colour. A faces a, B faces b, C faces c. A side and the angle opposite it are always a pair." loading="lazy">
+  <figcaption>Side a faces angle A; mark each given angle and the side facing it first.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -170,3 +218,14 @@ Area = ½ × 10 × 14 × sin 150° = 70 × 0.5 = 35 cm².
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections 10.05d, 10.05e, 10.03a and 6.02d. All content on this page is Higher tier only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--04-ambiguous-case.webp" width="900" height="850" alt="Angle A = 30 degrees, AC = 10, BC = 6. BC can meet the base at two points, giving two triangles with B = 56.4 degrees (acute) or 123.6 degrees (obtuse), both with sin B = 0.833." loading="lazy">
+  <figcaption>Two different triangles can fit the same sine rule data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
+  <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
+</figure>
+

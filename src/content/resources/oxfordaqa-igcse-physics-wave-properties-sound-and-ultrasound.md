@@ -46,6 +46,12 @@ Use the [course hub](/boards/oxfordaqa/igcse/physics/) to see the other topics a
 
 A wave starts as a disturbance made by a vibrating source. As it travels it carries energy and information onwards along its path, but the material it passes through is not carried along. A cork floating on a lake rises and falls as ripples go by. The cork does not travel across the pond with the ripples, so the water is not carried along. Energy is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--07-wave-not-water.webp" width="900" height="920" alt="Two side views of ripples a quarter period apart. The crest moves right by a quarter wavelength but a floating cork stays at the same horizontal position and only moves up and down." loading="lazy">
+  <figcaption>The wave moves along but the water only vibrates.</figcaption>
+</figure>
+
+
 ## Transverse and longitudinal waves (3.3.1 b to d)
 
 In a **transverse wave** the oscillations are at right angles (perpendicular) to the direction in which energy moves. Shake the end of a long rope up and down while the pulse travels along the rope: the rope moves up and down, the energy moves along.
@@ -58,6 +64,12 @@ In a **longitudinal wave** the vibrations lie along the same line as the directi
 | Longitudinal | Parallel | Sound waves |
 
 Mechanical waves may be either type. Sound needs a medium (its particles vibrate), so it cannot travel through a vacuum.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
+
 
 ## Describing a wave (3.3.1 g)
 
@@ -90,9 +102,21 @@ T = 1/f = 1/2.5 = 0.40 s
 f = v/λ = 0.18 / 0.012 = 15 Hz
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
+
 ## Reflection, transmission and absorption (3.3.1 e)
 
 When a wave reaches a boundary between two different materials, it can be **reflected** (bounced back), **transmitted** (pass into the second material) or **absorbed** (its energy is transferred to the material, which warms slightly). Often it is a combination. Sound meeting a wall is partly reflected, partly absorbed by the wall and partly transmitted, which is why you can still hear a radio in the next room. Soft, rough materials such as curtains absorb more sound; hard, smooth ones reflect more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--07-sound-interface-three-effects.webp" width="900" height="680" alt="A wave meets an interface between two materials. Part is reflected as an echo, part is transmitted with a new speed and wavelength, and part is absorbed and warms the second material." loading="lazy">
+  <figcaption>At an interface a wave can be reflected, transmitted and absorbed.</figcaption>
+</figure>
+
 
 ## Refraction and diffraction (3.3.1 f)
 
@@ -110,6 +134,27 @@ The waves slow down in the shallow water, so the wavelength shortens and the wav
 **Diffraction** is the spreading of waves as they pass through a narrow gap or past the edge of an obstacle. Diffraction is appreciable only when the wavelength is comparable to the size of the gap or obstacle. A wide gap compared with the wavelength gives little spreading. A gap about one wavelength wide gives strong, nearly circular spreading.
 
 This idea is applied in three places in the specification: reducing diffraction in optical instruments, ultrasound in medicine and radio wave reception. Light has a very short wavelength, so it diffracts very little through the aperture of an instrument. Ultrasound has a very short wavelength too, so it travels as a narrow beam. Long-wavelength radio waves diffract round hills and buildings, which helps reception where there is no direct line of sight.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound--01-diffraction-gap-size.webp" width="900" height="1120" alt="Top view of wavefronts meeting a barrier with a gap. With a gap of five wavelengths the wavefronts stay mostly straight and bend only at the edges. With a gap of one wavelength they spread as nearly circular arcs. Diffraction is appreciable only when wavelength and gap are comparable." loading="lazy">
+  <figcaption>A gap about one wavelength wide spreads waves strongly; a wide gap hardly does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound--01-ripple-12hz-refraction.webp" width="900" height="920" alt="Top view of a ripple tank with straight wavefronts crossing from deep to shallow water at 12 Hz. In deep water the wavelength is 0.020 m so the speed is 0.24 m/s; in shallow water the wavelength is 0.0125 m so the speed is 0.15 m/s. The wavefronts bunch up and the direction turns towards the normal." loading="lazy">
+  <figcaption>At 12 Hz the wave slows from 0.24 m/s to 0.15 m/s and its wavelength shortens from 0.020 m to 0.0125 m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound--05-diffraction-radio-light.webp" width="900" height="1120" alt="Two panels of wavefronts moving right towards a hill with a house behind it. For long-wavelength radio the wavefronts spread as circular arcs from the hilltop into the shadow, so the house receives a signal. For very short-wavelength light and ultrasound the wavefronts hardly bend, giving a sharp shadow and a narrow beam." loading="lazy">
+  <figcaption>Long-wavelength radio diffracts round a hill into its shadow; light and ultrasound hardly do.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--03-wavefronts-refraction.webp" width="900" height="920" alt="Wave fronts arrive at a slant at an air-glass boundary. The end of each front entering glass first slows first, so the fronts turn. In glass the wave fronts are closer together (shorter wavelength) and the ray bends towards the normal." loading="lazy">
+  <figcaption>Refraction happens because the wave slows in glass: the wave fronts bunch up and turn.</figcaption>
+</figure>
+
 
 ## Sound waves (3.3.3 a to c)
 
@@ -137,11 +182,33 @@ f = 1/T = 1/0.0020 = 500 Hz
 
 Sound is **reflected** (an echo is a reflected sound heard after the original) and **diffracted**. You hear someone talking round a corner because sound, with wavelengths of metres, diffracts well through doorways.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound--02-scope-time-base-500hz.webp" width="900" height="970" alt="Oscilloscope screen with ten divisions showing a sine trace. One cycle from crest to crest spans 4 divisions. With a time base of 0.5 ms per division the period is 2.0 ms = 0.0020 s, so the frequency is 500 Hz." loading="lazy">
+  <figcaption>One cycle of 4 divisions at 0.5 ms per division is 2.0 ms, giving 500 Hz.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-waves--03-sound-oscilloscope.webp" width="900" height="980" alt="Three oscilloscope traces: 200 Hz reference (2 waves in 10 ms), 400 Hz (4 waves, higher pitch) and 200 Hz with larger amplitude (louder, same pitch)." loading="lazy">
+  <figcaption>Higher frequency means higher pitch; larger amplitude means louder sound.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--09-hearing-range.webp" width="900" height="700" alt="On a log frequency axis a young listener hears 20 Hz to 20 kHz, with infrasound below and ultrasound above. In air the wavelengths are 17 m and 1.7 cm. With the upper limit at 14 kHz a 16 kHz tone is not heard." loading="lazy">
+  <figcaption>Human hearing spans about 20 Hz to 20 kHz, and the top end falls with age.</figcaption>
+</figure>
+
+
 ## Ultrasound (3.3.3 d to f, P)
 
 **Ultrasound** is sound whose frequency lies higher than anything a person can hear, so above 20 000 Hz. Electronic systems produce it: an alternating electrical signal is applied to a transducer, which vibrates at the same high frequency. The same transducer can also detect returning ultrasound and convert it to an electrical signal.
 
 When ultrasound meets a boundary between two different media, it is **partially reflected**. Some of the pulse reflects back and some carries on. A detector measures the time for each reflection to arrive. That time gives the distance to the boundary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound--03-ultrasound-transducer.webp" width="900" height="950" alt="Two rows. An alternating electrical signal makes a transducer vibrate at the same high frequency, above 20 000 Hz, sending a pulse of compressions and rarefactions into a medium. In the second row an echo makes the transducer vibrate and it converts the vibrations back into an electrical signal." loading="lazy">
+  <figcaption>One transducer turns an alternating signal into ultrasound and turns echoes back into a signal.</figcaption>
+</figure>
+
 
 ## Calculating distances (3.3.3 g, P)
 
@@ -170,10 +237,32 @@ Echo 2: round trip 140 µs, one way 70 µs
 Distance between the boundaries = 0.105 - 0.045 = 0.060 m (6.0 cm)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound--02-ultrasound-two-echoes.webp" width="900" height="1170" alt="A probe sends an ultrasound pulse that reflects partly at boundaries A and B. On the oscilloscope (20 microseconds per division) the sent pulse is at 0 and echoes at 3 and 7 divisions. Halving the round-trip times gives 4.5 cm and 10.5 cm, so the boundaries are 6.0 cm apart." loading="lazy">
+  <figcaption>Halve each echo time, then use s = vt to find each boundary and the gap between them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--08-echo-speed-of-sound.webp" width="900" height="860" alt="A pupil 51 m from a wall hears the echo 0.30 s after a clap. The sound travels 2 x 51 = 102 m, so the speed is 102 / 0.30 = 340 m/s." loading="lazy">
+  <figcaption>Echo method: speed = 2d divided by t.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <figcaption>Depth = speed x time / 2, because the pulse travels there and back.</figcaption>
+</figure>
+
+
 ## Medical uses (3.3.3 h, P)
 
 - **Prenatal scanning**: pulses are sent into the body, and reflections from the boundaries between tissues and fluid are timed and processed into an image of the fetus. Ultrasound is non-ionising, so it is used instead of X-rays here.
 - **Kidney stones**: a focused beam of high-intensity ultrasound is aimed at the stone, which breaks into small pieces that can pass out of the body in urine, avoiding surgery.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound--04-ultrasound-medical-uses.webp" width="900" height="1090" alt="Top: a probe sends pulses into the body; echoes return from the boundaries between tissue, fluid and fetus and their timing builds an image. Ultrasound is non-ionising so it replaces X-rays. Bottom: a curved transducer focuses high-intensity ultrasound on a kidney stone, which breaks into small pieces that pass out in urine." loading="lazy">
+  <figcaption>A scan times echoes to form an image; a focused high-intensity beam breaks a kidney stone into pieces that pass out in urine.</figcaption>
+</figure>
+
 
 ## Common errors
 

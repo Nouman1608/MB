@@ -46,6 +46,12 @@ Then test yourself with the [practice set](/resources/ib-dp-biology-photosynthes
 - Evidence: water labelled with ¹⁸O gives labelled oxygen gas.
 - Oxygen is released by plants, algae and cyanobacteria.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--01-oxygen-from-water.webp" width="900" height="910" alt="Molecule counts for 6CO2 + 12H2O giving glucose, 6O2 and 6H2O. The 12 oxygen atoms in the oxygen gas are coloured as coming from water, while the oxygen atoms in glucose and the new water come from carbon dioxide. A tracer test with 18O-labelled water gives 18O in the oxygen gas." loading="lazy">
+  <figcaption>Oxygen gas has water as its source; the balanced equation shows all 12 water molecules are split.</figcaption>
+</figure>
+
+
 ## Chromatography (C1.3.4)
 
 Method in steps:
@@ -59,6 +65,12 @@ Method in steps:
 Order up the paper: carotene (orange-yellow, highest), xanthophyll (yellow), chlorophyll a (blue-green), chlorophyll b (yellow-green, lowest). Identify by colour and by Rf compared with values from the same solvent and paper.
 
 **Worked reminder.** Front 12.0 cm, spot 9.0 cm: Rf = 9.0 ÷ 12.0 = 0.75.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--02-chromatography-rf.webp" width="900" height="920" alt="A chromatography strip with the start line and solvent front 8.5 cm apart. Four spots lie at 8.1, 5.9, 4.6 and 3.2 cm, giving Rf values 0.95, 0.69, 0.54 and 0.38 for carotene, xanthophyll, chlorophyll a and chlorophyll b." loading="lazy">
+  <figcaption>Rf is pigment distance divided by solvent distance, both measured from the start line.</figcaption>
+</figure>
+
 
 ## Spectra (C1.3.5 and C1.3.6)
 
@@ -76,6 +88,12 @@ Order up the paper: carotene (orange-yellow, highest), xanthophyll (yellow), chl
 - Rate from oxygen: volume ÷ time. Rate from carbon dioxide: fall in concentration ÷ time.
 
 **Worked reminder.** 4.5 cm³ of oxygen in 30 minutes is 4.5 ÷ 30 = 0.15 cm³ min⁻¹ (9.0 cm³ per hour).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--03-absorption-action-spectra.webp" width="900" height="930" alt="Chlorophyll absorption peaks in violet-blue and red with little in green, and carotenoids absorb mainly blue. The action spectrum from oxygen data has relative rates 100, 33, 25, 58, 83 and 8 at 450 to 700 nm, peaking near 450 and 650 nm with a trough near 550 nm." loading="lazy">
+  <figcaption>The action spectrum follows the absorption spectra because only absorbed light drives photosynthesis.</figcaption>
+</figure>
+
 
 ## Limiting factors (C1.3.7)
 
@@ -96,6 +114,12 @@ Order up the paper: carotene (orange-yellow, highest), xanthophyll (yellow), chl
 - Cite figures from a graph: say where the rate rises steeply, where it levels off, and which other factor may then be limiting.
 - Repeat each setting and calculate a mean so one odd result does not mislead you.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--04-limiting-factor-lamp.webp" width="900" height="960" alt="Lamp distances 10 to 50 cm give relative intensities 100, 25, 11, 6.3 and 4. Bubbles per minute against intensity rise steeply from intensity 4 to 25, where light is limiting, then barely change from 25 to 100, where another factor limits." loading="lazy">
+  <figcaption>Where the curve is steep the factor on the x-axis is limiting; where it flattens, something else is.</figcaption>
+</figure>
+
+
 ## Carbon dioxide enrichment (C1.3.8)
 
 | Design | Strength | Weakness |
@@ -106,11 +130,23 @@ Order up the paper: carotene (orange-yellow, highest), xanthophyll (yellow), chl
 - Control plots receive ambient air; same species, soil and watering in all plots.
 - Percentage change = (new − old) ÷ old × 100. For 8.0 to 9.2: 1.2 ÷ 8.0 = 15%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--05-co2-enrichment.webp" width="900" height="1170" alt="An enclosed greenhouse is easy to control but not natural; FACE releases CO2 through pipes into open-air plots beside a control plot, which is natural but less controlled. Bars compare illustrative control and enriched results: dry mass 1,240 to 1,455 g per square metre (+17.3%) and photosynthetic rate 14.2 to 18.0 (+26.8%)." loading="lazy">
+  <figcaption>Two designs for CO2 enrichment, with the lesson’s illustrative results.</figcaption>
+</figure>
+
+
 ## Photosystems (C1.3.9 and C1.3.10, HL only)
 
 - An array of chlorophyll and accessory pigments in a membrane (thylakoid membrane, or the membranes of cyanobacteria).
 - A special chlorophyll is the reaction centre, where an excited electron is emitted.
 - Advantage of the array: wider range of wavelengths, more photons caught, energy passed to the reaction centre. One pigment molecule alone cannot do any part of photosynthesis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--06-photosystem-array.webp" width="900" height="910" alt="A photosystem oval in the thylakoid membrane holds about 29 chlorophyll and accessory pigment molecules around a central reaction centre. Photons of different wavelengths are absorbed by different pigments and the energy is passed inwards to the reaction centre, which emits an excited electron." loading="lazy">
+  <figcaption>Many pigments capture more of the spectrum and supply one reaction centre.</figcaption>
+</figure>
+
 
 ## Light-dependent reactions (C1.3.11 to C1.3.14, HL only)
 
@@ -122,6 +158,12 @@ Order up the paper: carotene (orange-yellow, highest), xanthophyll (yellow), chl
 
 - Non-cyclic: electrons from photosystem II (via photolysis) end in NADPH. Products: ATP, NADPH, oxygen.
 - Cyclic: electrons from photosystem I return to the chain. Product: ATP only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--07-light-dependent-reactions.webp" width="900" height="950" alt="Thylakoid membrane with PSII, an electron transport chain, PSI and ATP synthase. Photolysis in PSII releases protons and oxygen; electrons pump protons into the thylakoid space; protons flow back through ATP synthase making ATP; PSI electrons reduce NADP+ to NADPH." loading="lazy">
+  <figcaption>Photolysis, chemiosmosis and NADP reduction in one picture.</figcaption>
+</figure>
+
 
 ## Calvin cycle (C1.3.15 to C1.3.18, HL only)
 
@@ -138,10 +180,22 @@ Method in steps:
 
 **Worked reminder.** Fixing 12 CO₂ gives 24 GP, then 24 TP. 20 TP regenerate 12 RuBP (20 ÷ 24 = five-sixths). 4 TP leave, making 2 glucose. Carbon check: 12 × 5 + 12 = 72 = 24 × 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--08-calvin-cycle-glucose.webp" width="900" height="920" alt="The Calvin cycle for six turns: 6 CO2 join 6 RuBP (30C) to give 12 GP (36C), reduced to 12 TP using 12 ATP and 12 NADPH. Two TP leave to make glucose and 10 TP regenerate 6 RuBP using 6 ATP, so 18 ATP and 12 NADPH are used per glucose." loading="lazy">
+  <figcaption>Carbon counts and ATP/NADPH use for one glucose.</figcaption>
+</figure>
+
+
 ## Interdependence (C1.3.19, HL only)
 
 - No light: neither ATP nor reduced NADP, so GP is not converted and RuBP is not regenerated.
 - No carbon dioxide: reduced NADP is not used, NADP is not regenerated, electrons have nowhere to go, and photosystem II stops.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-photosynthesis-pigments-limiting-factors-light--09-light-calvin-interdependence.webp" width="900" height="900" alt="Two panels show ATP and NADPH passing from the light-dependent reactions to the Calvin cycle and ADP and NADP+ returning. In darkness the supply arrow is blocked so the Calvin cycle stalls. With no CO2 the return arrow is blocked, the chain fills with electrons and photosystem II stops." loading="lazy">
+  <figcaption>Stopping either set of reactions stalls the other.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

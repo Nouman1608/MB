@@ -154,6 +154,12 @@ also carries £72 of standard variable cost. This page keeps fixed overheads as 
 standard contribution makes the profit reconciliation add up. If a question gives a standard profit
 per unit and asks you to use it, follow the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+
 ### Interpreting the variances
 
 - **Materials price £1 040 A:** timber cost 10p a kg more. Possible causes: a supplier price rise,
@@ -167,6 +173,17 @@ per unit and asks you to use it, follow the question.
   or good-quality timber that was easy to work.
 - **Sales price £3 400 A and sales volume £3 900 F:** a £4 price cut may have won the extra 50
   sales. Together they add £500 to profit, so the cut paid off, just.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--10-profit-variance-waterfall.webp" width="900" height="806" alt="Budgeted profit of 27,200 dollars becomes actual profit of 31,749: sales price 6,900 favourable, sales volume 3,300 adverse, wool price 2,115 favourable, wool usage 1,350 adverse, labour rate 1,656 adverse and labour efficiency 1,840 favourable. Fixed overheads match the budget." loading="lazy">
+  <figcaption>Favourable variances raise profit above budget and adverse ones lower it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--11-price-usage-variance.webp" width="900" height="940" alt="Wool was bought at 8.70 dollars against a standard 9.00, saving 0.30 on all 7,050 kilograms: 2,115 favourable. 150 kilograms more than the standard 6,900 were used, worth 1,350 at the standard price: adverse. The axes are zoomed in." loading="lazy">
+  <figcaption>Price variance uses actual quantity; usage variance uses standard price.</figcaption>
+</figure>
+
 
 ## 3. The interrelationship between variances
 

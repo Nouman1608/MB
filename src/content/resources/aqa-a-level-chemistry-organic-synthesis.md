@@ -119,10 +119,22 @@ The chloride route has the **higher** atom economy, yet industry uses the anhydr
 ones in outcome 1: the anhydride is cheaper, safer to handle and gives no HCl gas. In a "discuss" or
 "evaluate" answer, weigh atom economy against cost and hazard. Don't treat it as the only factor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--06-atom-economy.webp" width="900" height="794" alt="Bars whose length is the total reactant mass, split into product (teal) and by-product (gold): aspirin via anhydride 75.0 percent, via acyl chloride 83.1 percent, and (OxfordAQA example) ethane-1,2-diol by two additions 100 percent versus addition then substitution 23.2 percent." loading="lazy">
+  <figcaption>Atom economy = Mr of product / total Mr of reactants; industry still uses the anhydride for aspirin because it is cheaper and safer (diol comparison: OxfordAQA example).</figcaption>
+</figure>
+
+
 ### Why fewer steps
 
 Every step loses some product. The overall yield of a route is the product of the step yields (as decimals).
 More steps also mean more reagents, more solvent, more separations, more energy, more time and more waste.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--07-overall-yield.webp" width="900" height="976" alt="Two routes with the same 80 percent step yield. Four steps leave 41.0 percent so 2.00 mol gives 0.819 mol; two steps leave 64.0 percent giving 1.28 mol." loading="lazy">
+  <figcaption>Overall yield is the product of the step yields, so each extra step lowers it.</figcaption>
+</figure>
+
 
 ### Worked example 2: overall yield
 
@@ -174,6 +186,17 @@ a skills opportunity), and no way to make an acyl chloride. Plan around such gap
 
 The reagents for the two reductions are not named in the specification; the ones above are standard.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--01-reaction-map.webp" width="900" height="830" alt="A map linking alkene, haloalkane, alcohol, carbonyl, acid, ester, nitrile and amine with reagent labels. The gold arrow (haloalkane to nitrile with KCN) is the one that adds a carbon. Following arrows end to end gives a multi-step route." loading="lazy">
+  <figcaption>Plan routes by following arrows from start to target; only reactions in the specification count (steam hydration is not in OxfordAQA; nitrile hydrolysis is OCR).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--04-grignard-reagent.webp" width="900" height="1120" alt="Ethylmagnesium bromide, made in dry ether, adds its ethyl group to carbon dioxide, methanal, ethanal and propanone. After dilute acid the products are propanoic acid, propan-1-ol, butan-2-ol and 2-methylbutan-2-ol: an acid and a primary, secondary and tertiary alcohol." loading="lazy">
+  <figcaption>Edexcel only: a Grignard reagent adds carbons from its alkyl group to a carbonyl compound, giving an acid or a primary, secondary or tertiary alcohol.</figcaption>
+</figure>
+
+
 ### Method
 
 1. **Compare start and target.** Write both structures. List the functional groups and count the carbons.
@@ -200,6 +223,12 @@ Step 3  CH₃CH₂CN + 4[H] → CH₃CH₂CH₂NH₂            reduction, e.g. 
 
 Bromoethane with ammonia would give ethylamine, with only 2 C. That is the trap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--05-route-planning.webp" width="900" height="1010" alt="Three-step route from ethene (2 C) to propan-1-amine (3 C): HBr gives bromoethane, KCN in ethanol under reflux gives propanenitrile (+1 C), and LiAlH4 reduction gives the amine. A crossed-out side branch shows that ammonia would give ethylamine, only 2 C." loading="lazy">
+  <figcaption>Count carbons first: a longer chain needs the cyanide step, because bromoethane with ammonia only gives ethylamine.</figcaption>
+</figure>
+
+
 ### Worked example 4: moving a functional group
 
 Convert propan-1-ol into propan-2-ol in two steps.
@@ -224,6 +253,17 @@ Step 4  n C₆H₅CH=CH₂ → –[CH(C₆H₅)–CH₂]ₙ–          addition
 ```
 
 Each step comes from a different section: 3.3.10, 3.3.8, 3.3.5 and 3.3.4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--02-new-cc-bonds.webp" width="900" height="1040" alt="Three reactions that make a new C-C bond: bromoethane with KCN (2 C to 3 C), propanone with HCN (3 C to 4 C) and benzene with an acyl chloride and AlCl3 (6 C to 8 C). New carbons are circled in gold." loading="lazy">
+  <figcaption>Only a few reactions change the carbon count: KCN with a haloalkane, HCN or KCN with a carbonyl, and Friedel-Crafts acylation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--03-cyanide-mechanisms.webp" width="900" height="1195" alt="Curly-arrow mechanisms: the cyanide lone pair attacks the delta-positive carbon of bromoethane and the C-Br bond breaks to give Br-; then the same lone pair attacks the carbonyl carbon of propanone, the C=O pi bond moves onto O, and O- takes H+ to give a hydroxynitrile." loading="lazy">
+  <figcaption>The cyanide arrow starts on the lone pair on carbon; the mechanisms are required by OCR (tagged in the figure).</figcaption>
+</figure>
+
 
 ## Common errors
 

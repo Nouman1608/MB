@@ -70,6 +70,12 @@ subject to  4x + y ≤ 40
 
 Check each line against the wording: "at least twice as many shelves as tables" is y ≥ 2x, with the larger quantity on the left.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--01-words-to-inequalities.webp" width="900" height="1190" alt="Four phrases from the lesson table are drawn as shaded regions: x + y ≤ 40, x ≥ 5, x ≥ 2y and 7x ≤ 3y. Each boundary line is drawn from its equation and the allowed side is shaded." loading="lazy">
+  <figcaption>Each phrase in a problem becomes a line, and the inequality tells you which side to keep.</figcaption>
+</figure>
+
+
 ## 5.2 Graphical solution
 
 ### Drawing the region
@@ -122,6 +128,27 @@ The vertices are (2, 8), (5, 2), (9, 0) and (10, 0). The point (2, 8) is where 2
 
 The minimum is C = 33 at (5, 2). This happens to be a whole-number point, so no further work is needed for 5.3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--02-feasible-region.webp" width="900" height="800" alt="The florist problem drawn with its three boundary lines (roses, lilies and y = x) and axes. The shaded region R has four vertices: (0, 0), (18, 0), (12, 12) and about (14.57, 10.29)." loading="lazy">
+  <figcaption>The feasible region R is where every constraint is satisfied, and its corners are found by solving pairs of lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--03-vertex-method.webp" width="900" height="800" alt="The region R with P = 6x + 5y worked out at each vertex: 0, 108, 132 and about 138.86. The largest value, 138.86, is at the vertex where the roses and lilies lines cross." loading="lazy">
+  <figcaption>Evaluate the objective at every vertex and pick the largest (or smallest) value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--04-ruler-method.webp" width="900" height="810" alt="Parallel dashed lines P = 60 and P = 100, all with gradient -6/5, are drawn across region R. A solid line at P = 138.86 touches R at one point only, the vertex (14.57, 10.29). An arrow shows the line sliding away from the origin." loading="lazy">
+  <figcaption>Slide the objective line outwards; for a maximum, the last point of R it touches is the optimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--05-minimising-cost.webp" width="900" height="810" alt="Triangular region R from the feed problem with vertices (12, 4), (4, 12) and (6, 8). The line C = 300 pence misses R; sliding it outwards, it first touches R at (6, 8), where C = 380p, the minimum. Other vertices cost 460p and 420p." loading="lazy">
+  <figcaption>To minimise, slide the objective line outwards from the origin; the first point of R it touches is the optimum.</figcaption>
+</figure>
+
+
 ## 5.3 Integer solutions
 
 ### Method
@@ -144,6 +171,12 @@ The vertex is where the two lines meet: x = 78/17 and y = 77/17, about (4.59, 4.
 | (4, 4) | feasible | 52 |
 
 The only value between 58 and 59 is 59 itself, and there is no feasible integer point on 7x + 6y = 59 (for example (5, 4) gives 59 but breaks 5x + 2y ≤ 32, since 33 > 32). So the best integer solution is x = 4, y = 5, P = 58.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and--06-integer-solutions.webp" width="900" height="1010" alt="A zoomed graph of the florist region around the optimum, with whole-number points marked. (15, 10) and (14, 11), the rounded points, are outside R. (14, 10) gives P = 134 and (15, 9) gives P = 135, the best whole-number plan." loading="lazy">
+  <figcaption>Rounding the vertex does not work: the best whole-number plan is (15, 9) with profit £135.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

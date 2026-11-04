@@ -60,6 +60,12 @@ A **limiting factor** is a variable that keeps a population below the size it co
 
 Factors are also described by how their effect changes with population size. **Density-dependent** factors act more strongly as the population gets denser: competition for food, disease spread, predation. They stabilise a population around its carrying capacity. **Density-independent** factors affect a population whatever its density, for example a severe frost, drought or flood, and can cause a sudden fall below the carrying capacity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--08-population-growth.webp" width="900" height="900" alt="Counts of a mammal population on a predator-free island rise from 20 to about 200 in an S-shaped curve. The greatest yearly increase (+45) is between years 3 and 4; growth then slows and levels off at the carrying capacity. Population change equals births plus immigration minus deaths plus emigration." loading="lazy">
+  <figcaption>Limiting factors make growth level off at the carrying capacity.</figcaption>
+</figure>
+
+
 ### Population growth curve
 
 A population entering a new habitat usually shows these phases:
@@ -90,6 +96,12 @@ Last interval: 1 / 200 x 100 = 0.5 %
 
 The curve is S-shaped. Growth is fastest at about half the final size and levels off near 200 animals, the carrying capacity. Explain the slowing with density-dependent limiting factors: food and nest sites become scarce, competition rises, births fall and deaths rise. Improving the most limiting factor (more food, say) raises the carrying capacity until another factor limits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--03-biomass-calorimetry.webp" width="900" height="1180" alt="A fresh 250 g sample is dried until its mass is constant at 62 g, so 188 g (75.2%) was water. A 0.50 g dried portion burned under 50.0 g of water raises the water 20.0 to 54.0 degrees C, giving 7 106 J and 14.2 kJ per gram, an underestimate because heat escapes." loading="lazy">
+  <figcaption>Dry to constant mass, then burn a portion under water to find energy per gram.</figcaption>
+</figure>
+
+
 ## 6.3.2(b) Interactions between populations
 
 ### Predator-prey relationships
@@ -114,6 +126,12 @@ Predator fall, year 4 to 6: (3 - 15) / 15 x 100 = -80.0 %
 
 The predator curve follows the prey curve with a delay because predators need time to find prey, breed and grow. Describe the pattern as a lag plus a repeated rise and fall. Be cautious about cause: a correlation does not prove that predators alone control the prey. Prey also depend on their own food supply and weather, predators may switch to other prey, and prey may find refuges. Experiments that exclude predators or add food test the cause directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
+
 ### Competition
 
 **Intraspecific competition** is between members of the same species. They have identical needs. It is density-dependent and helps hold a population near its carrying capacity.
@@ -129,6 +147,22 @@ Density rose 16 times but total yield rose 5 times (400 / 80)
 ```
 
 Each plant gets less light, water and ions as density rises. That is intraspecific competition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--02-trophic-efficiency.webp" width="900" height="1000" alt="Kelp stores 12 000 kJ m-2 year-1, sea urchins 1 500 and sea otters 180. Dashed outlines show energy available from the level below. Efficiency is 12.5% then 12.0%, and the overall 1.5% is the product, not the sum." loading="lazy">
+  <figcaption>Divide by the level below, and multiply step efficiencies for a chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--05-nitrogen-cycle.webp" width="900" height="1200" alt="Nitrogen gas is fixed to ammonium by bacteria. Dead matter and urea are ammonified to ammonium by saprobionts, nitrifying bacteria oxidise ammonium to nitrite and nitrate, and plants take up nitrate. Denitrifying bacteria in waterlogged anaerobic soil return nitrogen to the air." loading="lazy">
+  <figcaption>Five bacterial processes move nitrogen between air, soil and living things.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--06-carbon-cycle.webp" width="900" height="1230" alt="Producers fix carbon dioxide by photosynthesis and carbon passes along food chains. Respiration by all organisms and decomposition return carbon dioxide; combustion releases it quickly, fossilisation stores carbon for very long periods, and the oceans dissolve carbon dioxide and form shells and limestone." loading="lazy">
+  <figcaption>Carbon moves between air, organisms, fossil stores and the sea.</figcaption>
+</figure>
+
 
 ## 6.3.2(c) Conservation and preservation
 
@@ -168,6 +202,12 @@ Harvest of 2000 m3 per year: excess = 440 m3, which is 28.2 % above growth
 
 The harvest exceeds growth, so the stock falls every year. A sustainable plan keeps the harvest at or below 1560 m3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
+
 ### Fishing
 
 Fish stocks renew only if enough adults survive to breed. Methods:
@@ -206,6 +246,12 @@ People need food, fuel, housing and income. Conflict arises because those needs 
 - Involving local people, paying them for conservation, and ecotourism, so that they gain from protecting the area.
 
 When evaluating a proposal, name the groups affected, give a benefit and a cost for each, use any data supplied, and reach a judgement that mentions time scale. Short-term loss of income can give long-term gain if stocks recover.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--04-farming-efficiency.webp" width="900" height="1090" alt="Indoor animals with restricted movement turn 13.5% of intake into net production; free-range animals turn 7.95%, because respiration takes more of the intake. Removing weeds and pests leaves more NPP in the crop, but there are welfare, habitat and pollution costs." loading="lazy">
+  <figcaption>Less respiration and fewer competitors mean more energy ends up in human food, at a cost.</figcaption>
+</figure>
+
 
 ## Common errors
 

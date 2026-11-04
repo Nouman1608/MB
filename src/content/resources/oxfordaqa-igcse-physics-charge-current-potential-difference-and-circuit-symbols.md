@@ -48,6 +48,12 @@ A steady current needs a source that pushes the electrons along and a complete c
 
 Arrows on circuit diagrams show conventional current, which is drawn leaving the positive terminal of the source. The electrons in the metal move the other way, towards the positive terminal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--10-free-electrons-in-wire.webp" width="900" height="930" alt="Cell and lamp circuit with conventional current arrows, and a magnified wire with fixed positive ions and free electrons drifting opposite to conventional current. Insulators have almost no free charges." loading="lazy">
+  <figcaption>Free electrons carry the current in a metal.</figcaption>
+</figure>
+
+
 ## 2. Static electricity and discharge (3.5.1 b)
 
 An object has an imbalance of charge when it holds more of one kind of charge than the other. This is static electricity. The word static means the charge stays where it is, because it has no conducting route along which to travel.
@@ -64,6 +70,12 @@ Lightning is a large discharge. You can explain it in four steps:
 2. The ground below becomes charged with the opposite sign to the base of the cloud.
 3. As the charge builds, the potential difference between the cloud and the ground becomes very large.
 4. The air, normally an insulator, can no longer hold the charges apart. A conducting path forms and charge flows along it in a flash, which is the discharge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--11-static-charge-and-lightning.webp" width="900" height="1070" alt="A rod rubbed with a cloth gains electrons and the cloth is positive. A storm cloud separates charge, the ground takes opposite charge, the potential difference grows very large and the air breaks down as a flash." loading="lazy">
+  <figcaption>Static charge is an imbalance; lightning is a large discharge.</figcaption>
+</figure>
+
 
 ### Worked example 1: explaining a spark
 
@@ -111,6 +123,12 @@ t = 11 250 / 3600 = 3.125 h
 ```
 
 The time is **3.1 hours** to 2 significant figures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--12-charge-flow-q-equals-it.webp" width="900" height="930" alt="1 A is 1 C per second. For 0.45 A the Q-t graph is a straight line, giving 94.5 C at 210 s (3.5 minutes)." loading="lazy">
+  <figcaption>Charge = current x time, with time in seconds.</figcaption>
+</figure>
+
 
 ## 4. Voltage of a source and potential difference (3.5.1 d and e)
 
@@ -176,6 +194,12 @@ Potential difference across motor = E / Q = 90 / 20 = 4.5 V
 
 The motor has a potential difference of **4.5 V**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--03-energy-per-coulomb.webp" width="900" height="1000" alt="12 V battery drives 20 C through a lamp (7.5 V, 150 J) and a motor (4.5 V, 90 J) in series; battery supplies 240 J." loading="lazy">
+  <figcaption>Energy supplied by the battery is shared between components.</figcaption>
+</figure>
+
+
 ## 6. Circuit diagrams and symbols (3.5.1 g)
 
 You must be able to interpret and draw circuit diagrams that use the standard symbols. Draw with a ruler and keep corners square.
@@ -200,6 +224,22 @@ You must be able to interpret and draw circuit diagrams that use the standard sy
 ### Reading a circuit
 
 An ammeter measures current, so it goes in the loop where the current is to be measured. A voltmeter measures the potential difference across a component, so its terminals connect to either side of that component. Trace the loop from the positive terminal of the cell and check that no open switch breaks it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--14-ammeter-voltmeter-placement.webp" width="900" height="690" alt="Cell, lamp, ammeter in the main loop and voltmeter on a branch across the lamp." loading="lazy">
+  <figcaption>Ammeter in series, voltmeter across the component in parallel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
 
 ## 7. Thermistors and LDRs in circuits (3.5.1 g)
 
@@ -245,6 +285,12 @@ The current falls as the light falls with a constant potential difference, so th
 I = 0.80 mA = 0.00080 A
 Q = I t = 0.00080 × 600 = 0.48 C
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--13-thermistor-ldr-trends.webp" width="900" height="1100" alt="Thermistor currents 5.0, 12.0, 31.0 mA at 20, 40, 60 C mean resistance falls as temperature rises; LDR currents 9.0, 3.5, 0.8 mA from daylight to dark mean resistance rises. Chains show a thermostat and a light switch." loading="lazy">
+  <figcaption>Thermistor and LDR resistance trends and how sensors switch things.</figcaption>
+</figure>
+
 
 ## Common errors
 

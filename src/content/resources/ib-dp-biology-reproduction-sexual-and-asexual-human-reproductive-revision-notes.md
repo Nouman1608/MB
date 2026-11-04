@@ -34,6 +34,12 @@ These notes condense statements D3.1.1 to D3.1.12 of the IB *Biology guide*, fir
 
 Examples of asexual reproduction: binary fission, budding, runners.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--01-sexual-vs-asexual.webp" width="900" height="1225" alt="One parent and mitosis give identical offspring; two parents with meiosis and fusion of gametes give new gene mixes. Bands A and B stand for gene versions: the asexual parent and its three offspring all show A-B-A, while three sexual offspring each have a different mix of parent A and parent B bands." loading="lazy">
+  <figcaption>Asexual reproduction copies the parent; sexual reproduction mixes two parents' genes.</figcaption>
+</figure>
+
+
 ## Life cycle (D3.1.2)
 
 - Meiosis: 2n to n, makes gametes, breaks up parental allele combinations.
@@ -41,12 +47,24 @@ Examples of asexual reproduction: binary fission, budding, runners.
 - Zygote then grows by mitosis.
 - Human numbers: 46 in body cells, 23 in gametes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--02-life-cycle-gametes.webp" width="900" height="1075" alt="A diploid adult cell (46) makes haploid gametes (23) by meiosis: a large egg with food reserves and a small swimming sperm with little food. Fusion gives a zygote of 23 + 23 = 46 chromosomes, which grows by mitosis." loading="lazy">
+  <figcaption>Meiosis halves the chromosome number and fusion of gametes restores it.</figcaption>
+</figure>
+
+
 ## Male v female (D3.1.3)
 
 - Male gamete travels, so it is small, motile and has few food reserves.
 - Female gamete does not travel, so it is large with food reserves.
 - Result: males make very many gametes; females make few and often invest more in offspring.
 - Magnification = image size ÷ actual size. Convert units first (1 mm = 1000 µm).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--03-reproductive-systems.webp" width="900" height="1265" alt="Female: ovary, oviduct (site of fertilization), uterus with endometrium lining, cervix, vagina. Male: testis in the scrotum, epididymis, sperm duct, seminal vesicle, prostate gland, urethra, penis, with the bladder for context. Short function notes follow each name." loading="lazy">
+  <figcaption>Labelled schematics of the female and male systems with one-line functions.</figcaption>
+</figure>
+
 
 ## Anatomy (D3.1.4)
 
@@ -88,6 +106,12 @@ Sequence in steps:
 
 Ovarian cycle plus uterine cycle = menstrual cycle. Ovulation is about the middle of a 28-day cycle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--04-menstrual-cycle.webp" width="900" height="1215" alt="Over 28 days, FSH and LH, oestradiol and progesterone, and endometrium thickness are plotted. Negative feedback operates early and in the luteal phase, positive feedback around the oestradiol peak, and the LH surge on day 14 triggers ovulation. LH rises 8 to 60 units (+650%) and endometrium 2 to 10 mm (+400%)." loading="lazy">
+  <figcaption>Feedback type changes through the cycle: negative, then positive for the LH surge, then negative again.</figcaption>
+</figure>
+
+
 ## Fertilization (D3.1.6)
 
 1. Sperm and egg cell membranes fuse.
@@ -96,12 +120,24 @@ Ovarian cycle plus uterine cycle = menstrual cycle. Ovulation is about the middl
 4. All condensed chromosomes join in one mitosis.
 5. Two diploid nuclei form (2n = 46).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--05-fertilization-steps.webp" width="900" height="1130" alt="Five steps in the egg: membranes fuse; sperm nucleus enters while tail and mitochondria are destroyed; nuclear membranes dissolve; 23 + 23 chromosomes condense and join one mitosis; two cells each with 46 chromosomes result." loading="lazy">
+  <figcaption>Fertilization ends with a two-cell embryo in which every nucleus is diploid (46).</figcaption>
+</figure>
+
+
 ## IVF (D3.1.7)
 
 - Natural hormone secretion suspended.
 - Artificial hormone doses induce superovulation.
 - Eggs collected, fertilized in a dish, embryo(s) transferred to the uterus.
 - Benefit: several eggs, so a better chance of an embryo. Risks: over-stimulation of ovaries, multiple pregnancy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--06-ivf-hormones.webp" width="900" height="1150" alt="Five steps: own pituitary secretion suppressed; FSH (with LH) makes many follicles grow; a final dose matures eggs, which are collected; eggs and sperm are mixed in a dish (9 of 12 fertilize, 75%); the embryo is placed in the uterus with progesterone support." loading="lazy">
+  <figcaption>IVF uses hormones to suppress the natural cycle and cause superovulation so several eggs mature at once.</figcaption>
+</figure>
+
 
 ## Flowering plant reproduction (D3.1.8)
 
@@ -110,6 +146,12 @@ Ovarian cycle plus uterine cycle = menstrual cycle. Ovulation is about the middl
 - Pollen tube grows down the style to the ovule.
 - Fertilization gives a zygote; mitosis gives an embryo inside the seed.
 - Hermaphrodite flowers still reproduce sexually.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--07-insect-pollinated-flower.webp" width="900" height="730" alt="A flower in section with petals, sepals, nectary, two stamens (filament and anther), and a carpel of stigma, style and ovary with ovules. A pollen grain on the stigma has grown a pollen tube down the style to an ovule, carrying sperm to the egg." loading="lazy">
+  <figcaption>Parts of an insect-pollinated flower and the route of the pollen tube to the ovule.</figcaption>
+</figure>
+
 
 ## Insect-pollinated flower (D3.1.9)
 
@@ -132,6 +174,12 @@ Ovarian cycle plus uterine cycle = menstrual cycle. Ovulation is about the middl
 
 Wind-pollinated flowers: small dull petals, exposed anthers, feathery stigmas.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--08-avoiding-inbreeding.webp" width="900" height="1070" alt="Three methods of cross-pollination: ripening at different times, separate male and female flowers on one plant, or on separate plants. Below, a stigma with alleles S1 and S2 blocks S1 pollen; from an S1S3 plant 50% of pollen can fertilize, from an S3S4 plant 100% is accepted." loading="lazy">
+  <figcaption>Cross-pollination methods and self-incompatibility reduce inbreeding.</figcaption>
+</figure>
+
+
 ## Self-incompatibility (D3.1.11)
 
 - Self-pollination causes inbreeding, which reduces diversity and vigour.
@@ -143,6 +191,12 @@ Wind-pollinated flowers: small dull petals, exposed anthers, feathery stigmas.
 - Pollination: pollen moves. Dispersal: seed moves away from the parent.
 - Germination: water absorbed, gibberellin released, amylase digests starch, sugars feed respiration and growth.
 - Seed dry mass falls at first, then rises once leaves photosynthesise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive--09-germination.webp" width="900" height="1030" alt="A seed absorbs water; the embryo releases gibberellin; amylase turns stored starch into sugars; sugars feed the embryo. A graph shows dry mass falling from 52 mg to 38 mg over 6 days, -26.9%, or 2.3 mg per day." loading="lazy">
+  <figcaption>Stored food is used in respiration, so seed dry mass falls before photosynthesis begins.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

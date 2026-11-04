@@ -95,6 +95,12 @@ This is a hyperbola. The sign of t matters. For t > 0 we have t + 1/t ≥ 2, so 
 
 To find points with x = 5/2, solve t + 1/t = 5/2, so 2t² − 5t + 2 = 0 and (2t − 1)(t − 2) = 0. Then t = 2 gives y = 3/2, and t = 1/2 gives y = −3/2. The points are (5/2, 3/2) and (5/2, −3/2), and 25/4 − 9/4 = 4 confirms both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--06-hidden-quadratic.webp" width="900" height="1080" alt="The parabola u^2 - 5u + 6 crosses the u-axis at 2 and 3; u &lt; 0 is shaded as impossible since e^x &gt; 0. The curve y = e^(2x) - 5e^x + 6 crosses the x-axis at x = ln 2 and ln 3." loading="lazy">
+  <figcaption>Substituting u = eˣ turns e²ˣ − 5eˣ + 6 = 0 into a quadratic with roots ln 2 and ln 3.</figcaption>
+</figure>
+
+
 ### Converting Cartesian to parametric
 
 Any Cartesian curve can be given a parametric form. There is more than one correct answer.
@@ -128,6 +134,12 @@ t = 4 or t = −2
 
 The points are (16, 8) and (4, −4). Check in y² = 4x: 64 = 64 and 16 = 16.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--05-solve-index.webp" width="900" height="1160" alt="The graph of 5^x meets y = 40 at x = 2.29 (ln 40 divided by ln 5). Below, points 0.8^n fall; n = 13 gives 0.0550 and n = 14 gives 0.0440, the first below 0.05. Dividing by the negative ln 0.8 reverses the inequality, so n &gt; 13.4." loading="lazy">
+  <figcaption>Taking logs solves aˣ = b, and a negative log reverses an inequality.</figcaption>
+</figure>
+
+
 ## 2. The function eˣ and its graph
 
 The number e ≈ 2.71828 is the base for which the exponential function has a particularly simple gradient (you will use this in P2.6). The function f(x) = eˣ has these features.
@@ -157,6 +169,17 @@ Sketch description for y = eˣ: close to the negative x-axis on the left, throug
 | y = 2eˣ − 5 | y-intercept (0, −3), asymptote y = −5 |
 
 For y = 2eˣ − 5, the curve meets the x-axis when eˣ = 5/2, so x = ln(5/2) ≈ 0.916.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--01-inverse-graphs.webp" width="900" height="900" alt="The orange curve y = e^x passes through (0, 1) and (1, e) and approaches the x-axis. The blue curve y = ln x passes through (1, 0) and (e, 1) and approaches the y-axis. They are mirror images in the dashed line y = x, so the functions are inverses." loading="lazy">
+  <figcaption>The graph of ln x is the reflection of eˣ in y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--02-base-family.webp" width="900" height="1000" alt="Curves 2^x, e^x, 3^x and (1/2)^x all pass through (0, 1), lie above the x-axis and have it as an asymptote. Bases above 1 give growth, with e^x between 2^x and 3^x; (1/2)^x decays and mirrors 2^x in the y-axis." loading="lazy">
+  <figcaption>Every aˣ passes through (0, 1); a &gt; 1 grows and a &lt; 1 decays.</figcaption>
+</figure>
+
 
 ## 3. The function ln x and its graph
 
@@ -206,6 +229,17 @@ Combine: ln[x(x − 2)] = ln 3, so x² − 2x − 3 = 0 and (x − 3)(x + 1) = 0
 
 Let y = 2eˣ + 1, so eˣ = (y − 1)/2 and x = ln[(y − 1)/2]. Hence f⁻¹(x) = ln[(x − 1)/2] with domain x > 1, which is the range of f.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--04-log-ruler-laws.webp" width="900" height="940" alt="A log ruler marks 1 to 10 at their base-10 logs. Bars of length lg 2 and lg 3 end at 6, so lg 2 + lg 3 = lg 6. A bar lg 8 minus lg 2 has length lg 4. Two bars of lg 3 end at 9, so 2 lg 3 = lg 9." loading="lazy">
+  <figcaption>Logarithms turn products into sums: lengths on a log ruler add.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--07-linear-form.webp" width="900" height="1110" alt="ln y against ln x is a straight line for y = ax^n: through (0.5, 1.85) and (2.5, 4.85), gradient n = 1.5 and intercept ln a = 1.10. lg y against x is a straight line for y = kb^x with intercept lg k = 0.70 and gradient lg b = 0.14." loading="lazy">
+  <figcaption>A straight line on log axes gives gradient and intercept for power and exponential laws.</figcaption>
+</figure>
+
+
 ## 4. Exponential growth and decay
 
 A quantity that changes at a rate proportional to its size follows
@@ -235,6 +269,17 @@ You may be asked to comment on the model. Useful points are these.
 - Pure growth N = Aeᵏᵗ has no upper limit. Real populations run out of food or space, so the model only holds for a limited time.
 - A decay model never reaches zero, but real quantities are measured in whole units.
 - State what the numbers mean in context, with units (hours, days, minutes).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--03-gradient-ekx.webp" width="900" height="1040" alt="On y = e^(2x), the tangent at (0, 1) has gradient 2 and at x = 0.6 (height 3.32) has gradient 6.64, shown by a triangle with run 0.4 and rise 2.66. Each gradient is 2 times the height, so dy/dx = ky." loading="lazy">
+  <figcaption>The gradient of e^kx is k times its height, so growth is proportional to size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--09-decay-half-life.webp" width="900" height="1020" alt="C = 15e^(-0.2t) falls from 15 mg/L. It halves to 7.5 after 3.47 hours and to 3.75 after another 3.47 hours, so the half-life is constant (ln 2 divided by k). It reaches 2 mg/L at t = 10.1 hours." loading="lazy">
+  <figcaption>Exponential decay has a constant half-life of ln 2 ÷ k.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -31,12 +31,29 @@ These notes condense sections 3.5.3 (Genetic variation) and 3.5.4 (Genetic disor
 
 Clones and identical twins have the same genes. Differences between them are environmental.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--13-identical-cuttings-sun-shade.webp" width="900" height="900" alt="Two genetically identical cuttings after six weeks: 42 cm in full sun and 27 cm in shade, drawn to scale. The 15 cm difference is environmental; shaded plants are 35.7 percent shorter." loading="lazy">
+  <figcaption>Identical genes but different heights shows environmental variation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--01-variation-types.webp" width="900" height="1050" alt="Two sketch graphs. A histogram with touching bars shows continuous variation using the hand span example (3, 7, 12, 6, 2 students in 2 cm classes from 16 to 26 cm); it has a range between two extremes and is caused by genes and the environment. A bar chart with separate bars for blood groups A, B, AB and O shows discontinuous variation: limited groups, genes only. Blood group bar heights are illustrative." loading="lazy">
+  <figcaption>Continuous data give a histogram with touching bars; discontinuous data give a bar chart with gaps.</figcaption>
+</figure>
+
+
 ## Genes, chromosomes, gametes (3.5.3 b, c)
 
 - Genes are carried on chromosomes in the nucleus.
 - Chromosomes normally come in pairs.
 - Genes pass to offspring in the gametes.
 - Each gamete receives just one chromosome of every pair, and fertilisation puts the pairs back.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
 
 ## Sex determination (3.5.3 d)
 
@@ -51,6 +68,17 @@ Offspring: 1 XX (girl) : 1 XY (boy). Probability of a boy is 1/2 every time.
 
 
 Worked reminder: a couple have four children. The probability that all four are boys is (1/2)⁴ = 1/16. The probability that the next child is a boy is still 1/2, whatever the earlier children were, because each fertilisation is independent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--02-three-children-probability.webp" width="900" height="784" alt="All eight equally likely orders of boys and girls for three children, each with probability 1/8. Three of them (BBG, BGB, GBB) have two boys and one girl, so the probability is 3 × 1/8 = 3/8." loading="lazy">
+  <figcaption>Three of the eight equally likely birth orders give two boys and one girl, a probability of 3/8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--02-sex-inheritance.webp" width="900" height="990" alt="Punnett square: mother XX gives X eggs, father XY gives X or Y sperm. Four equally likely children: two XX girls and two XY boys, ratio 1:1, so each child has a 50% chance of being a boy. The sperm decides the sex." loading="lazy">
+  <figcaption>Half of sperm carry Y, so each child has a 50% chance of being a boy.</figcaption>
+</figure>
+
 
 ## Key terms (3.5.3 e, f, g)
 
@@ -97,6 +125,22 @@ Cross the dominant-looking individual with a homozygous recessive one (rr). A re
 
 Genetic diagrams are **models**. They predict probabilities. They do not say what happens in one family.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--09-test-cross.webp" width="900" height="980" alt="A purple plant is crossed with green (aa). If AA, all offspring are Aa and purple. If Aa, half are Aa purple and half aa green. Any green seedling proves the parent was Aa." loading="lazy">
+  <figcaption>Crossing with a recessive plant reveals whether a dominant-looking parent is AA or Aa.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--04-genotype-phenotype-terms.webp" width="900" height="830" alt="Chromosome pairs AA, Aa and aa for tomato stem colour. AA and aa are homozygous, Aa is heterozygous. The genotype is the alleles; the phenotype is what you see: purple for AA and Aa (A is dominant), green for aa." loading="lazy">
+  <figcaption>The genotype is the pair of alleles; the phenotype is the visible result, here purple or green stems.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
+
 ## Mendel
 
 - Used garden peas with clear either-or characteristics.
@@ -105,6 +149,12 @@ Genetic diagrams are **models**. They predict probabilities. They do not say wha
 - Counted large numbers of offspring.
 - Found first-generation offspring all showed one form, and the next generation was about 3 : 1 (for seed shape, 5474 round and 1850 wrinkled).
 - His "inherited factors" were linked with chromosomes later, by other scientists.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--01-mendel-pea-counts.webp" width="900" height="700" alt="Two bars compare Mendel’s second-generation pea counts (5474 round, 1850 wrinkled) with a perfect 3 : 1 split of the same 7324 seeds (5493 and 1831). The bars are almost identical, and 5474 ÷ 1850 = 2.96, close to 3 : 1." loading="lazy">
+  <figcaption>Mendel’s 5474 round and 1850 wrinkled seeds are very close to a 3 : 1 ratio (2.96).</figcaption>
+</figure>
+
 
 ## Family trees
 
@@ -130,6 +180,17 @@ Two parents are both unaffected by a recessive disorder. They have one affected 
 - The son is AA or Aa. Out of the three unaffected outcomes from Aa × Aa, two are Aa, so the probability that he is a carrier is 2/3.
 - If the parents have another child, the probability it is affected is 1/4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--10-pedigree-dominant-polydactyly.webp" width="900" height="930" alt="Parents 1 and 2 are both affected and have an unaffected daughter (3, dd) and an affected son (4, DD or Dd). Both parents affected with an unaffected child means the allele is dominant and both parents are Dd." loading="lazy">
+  <figcaption>Two affected parents with an unaffected child show a dominant allele.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--07-pedigree-recessive.webp" width="900" height="1140" alt="Pedigree: two unaffected parents have an affected daughter (shaded circle), so the condition is recessive and both parents are Aa. A Aa x Aa Punnett square gives a 1 in 4 chance of aa for each further child." loading="lazy">
+  <figcaption>Unaffected parents with an affected child show the allele is recessive.</figcaption>
+</figure>
+
+
 ## DNA, genes and proteins (3.5.3 h to k)
 
 | Fact | Detail |
@@ -152,6 +213,17 @@ Reading a code: split into threes first. With the invented code XYW = amino acid
 A gene fragment has 18 bases. 18 ÷ 3 = 6, so it codes for 6 amino acids. Change the order of the bases and you may change the order of the amino acids, so the protein can fold differently and work differently. This is why a change to one gene can lead to an inherited disorder such as sickle cell anaemia, in which the abnormal allele leads to abnormal haemoglobin.
 
 Chromosome link: chromosomes contain many genes, and each gene is a different section of DNA.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--11-triplet-code-reading.webp" width="900" height="860" alt="The invented sequence WXYZZWXWY splits into WXY, ZZW, XWY, giving amino acids 1, 2, 3. A 150 amino acid protein needs at least 450 bases. Four bases give 64 triplets." loading="lazy">
+  <figcaption>Split the bases into threes first, then read each triplet as one amino acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
 
 ## Genetic disorders (3.5.4)
 
@@ -206,6 +278,17 @@ Worked reminder: 12 children, 4 affected. 4 ÷ 12 × 100 = 33.3%. Prediction 25%
 8. 90 × 3 = 270 bases.
 9. 47.
 10. Polydactyly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--12-downs-syndrome-extra-21.webp" width="900" height="860" alt="A typical body cell has 46 chromosomes and two copies of 21. In Down’s syndrome there are 47 with three copies. A 24-chromosome gamete joining a 23-chromosome gamete gives 47." loading="lazy">
+  <figcaption>An extra copy of chromosome 21 gives 47 chromosomes; it is a chromosome number change, not an allele.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--03-cf-carrier-punnett.webp" width="900" height="790" alt="A Punnett square for Cc × Cc gives CC, Cc, Cc and cc. One box in four is affected. Of the three unaffected boxes two are carriers, so an unaffected child has a 2/3 chance of being a carrier." loading="lazy">
+  <figcaption>In Cc × Cc, 1/4 of children are affected, and 2 of the 3 unaffected boxes are carriers.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

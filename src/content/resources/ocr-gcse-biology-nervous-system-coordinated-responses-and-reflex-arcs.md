@@ -76,11 +76,23 @@ The impulse cannot jump the gap directly. Instead:
 
 Receptors for the chemical are only on the receiving side, so the signal passes in one direction only. The chemical step also means each synapse adds a small delay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
+</figure>
+
+
 ### Worked example 1: Name and explain
 
 *A student says: "The sensory neurone and the motor neurone do the same job." Correct this.*
 
 The sensory neurone carries impulses from a receptor to the CNS. The motor neurone carries impulses from the CNS to an effector. They both carry impulses along an axon, but they carry them in opposite directions relative to the CNS. A relay neurone connects the two inside the CNS.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs--01-motor-sensory-neurones.webp" width="900" height="1015" alt="Two neurone drawings. The motor neurone has a cell body with nucleus and dendrites at the CNS end, a long myelinated axon and branched endings at a muscle. The sensory neurone runs from a receptor along a long myelinated fibre to the CNS, with its cell body off to one side on a short branch." loading="lazy">
+  <figcaption>A motor neurone carries impulses from the CNS to an effector; a sensory neurone carries them from a receptor to the CNS, with its cell body to one side.</figcaption>
+</figure>
+
 
 ## B3.1b: A coordinated response
 
@@ -111,6 +123,17 @@ Notice that the answer names the structures in the order the impulse travels, an
 *A person has damage to the motor neurone that supplies the muscle in their forearm. They can feel the muscle being pinched. Explain this.*
 
 The sensory neurones and receptors are working, so impulses still reach the CNS and the person feels the pinch. The motor neurone is damaged, so impulses cannot reach the effector, and the muscle cannot contract. Each component has to work for the whole response to happen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs--01-un39-nervous-four-properties.webp" width="900" height="880" alt="Four panels, one per property. 1 The nervous system reaches every part of the body (stick figure with nerve lines to head, hands and feet). 2 It has many links: three stimulus neurones joined to three response neurones, one input reaching all three outputs. 3 It has different sensory receptors: eye for light, sound waves, pressure pad. 4 The CNS receives signals in and sends instructions out." loading="lazy">
+  <figcaption>The four properties that let the nervous system produce a coordinated response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs--02-un39-catch-ball-pathway.webp" width="900" height="1000" alt="Flow diagram: a moving ball is the stimulus; light receptors in the eyes and position receptors in muscles and joints detect it; sensory neurones carry impulses to the brain (CNS), which combines the information; motor neurones carry impulses to shoulder, arm and hand muscles (effectors), which contract in order so the hand closes as the ball arrives." loading="lazy">
+  <figcaption>The catching-a-ball pathway from stimulus to response, in the order the impulses travel.</figcaption>
+</figure>
+
 
 ## B3.1c: The reflex arc
 
@@ -145,6 +168,12 @@ Information also passes on to the brain, which is why you usually feel pain a mo
 
 The brain does not have to decide first, so the response is faster than a deliberate movement and the damage is limited.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--01-reflex-arc.webp" width="900" height="1000" alt="Schematic reflex arc: a pin pricks the skin, a receptor starts an impulse that travels along a sensory neurone into the spinal cord, a relay neurone, a motor neurone, then to the leg muscle (effector) which contracts. Arrowheads show impulse direction. The sensory neurone cell body sits on a short branch; the motor neurone cell body is in the cord." loading="lazy">
+  <figcaption>Follow the numbered pathway from stimulus to response.</figcaption>
+</figure>
+
+
 ## Reaction time
 
 **Reaction time** is the time between a stimulus and the response. A voluntary response, such as pressing a button when a light comes on, passes through the conscious part of the brain, so it is slower than a reflex.
@@ -174,6 +203,12 @@ You might compare reaction times with and without a factor such as practice or a
 * Look for anomalies, such as a drop where the person was distracted, and say how you treat them.
 * The helper should release the ruler at random moments, so that you cannot predict the drop.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs--03-un39-caffeine-reaction-times.webp" width="900" height="810" alt="Dot plot of five reaction times before (0.21, 0.19, 0.23, 0.20, 0.22 s, mean 0.21 s) and after (0.18, 0.17, 0.19, 0.16, 0.20 s, mean 0.18 s) a caffeinated drink. The mean fell by 0.03 s, a 14% decrease. One person tested once cannot prove caffeine is the cause." loading="lazy">
+  <figcaption>Mean reaction time fell from 0.21 s to 0.18 s after caffeine, a 14% decrease.</figcaption>
+</figure>
+
+
 ### Worked example 6: Interpreting results
 
 *Five tests of the same person gave reaction times of 0.21, 0.19, 0.23, 0.20 and 0.22 s before a caffeinated drink and 0.18, 0.17, 0.19, 0.16 and 0.20 s after. Describe the effect.*
@@ -181,6 +216,12 @@ You might compare reaction times with and without a factor such as practice or a
 Mean before = 1.05 / 5 = 0.21 s. Mean after = 0.90 / 5 = 0.18 s. The mean reaction time fell by 0.03 s, which is a decrease of 0.03 / 0.21 × 100 = 14%.
 
 The range before (0.19 to 0.23 s) and after (0.16 to 0.20 s) overlap only slightly, which supports a real change. One person tested once cannot show that caffeine is the cause, because practice could also shorten reaction times. A control group, or testing in a different order, would help.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs--02-ruler-drop.webp" width="900" height="940" alt="A 30 cm ruler with thumb and finger at zero and again at 14.0 cm, the mean of five drops (13, 16, 14, 15, 12 cm). t = square root of (2 x 0.140 / 9.8) = about 0.17 s, an estimate that assumes free fall." loading="lazy">
+  <figcaption>Mean distance 14.0 cm gives a reaction time of about 0.17 s.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -67,6 +67,17 @@ Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-ma
 3. Set it equal to 0 for a tangent.
 4. Solve, then find the point of contact from x = −b/(2a).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--01-line-segment-toolkit.webp" width="900" height="950" alt="A(-2,5) and B(4,1): gradient, midpoint M, line 2x+3y-11=0 and perpendicular bisector 3x-2y+3=0 whose gradients multiply to -1." loading="lazy">
+  <figcaption>The gradient triangle, the midpoint and the perpendicular bisector all come from the same two points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--07-tangent-and-normal.webp" width="900" height="1026" alt="Circle centre (3,-5), point P(6,-1): radius gradient 4/3, tangent gradient -3/4 giving 3x+4y-14=0, normal 4x-3y-27=0 through the centre. No calculus needed." loading="lazy">
+  <figcaption>The tangent is perpendicular to the radius, and the normal runs along it through the centre.</figcaption>
+</figure>
+
+
 ## Discriminant and geometry
 
 | b² − 4ac | Roots | Line and curve |
@@ -74,6 +85,12 @@ Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-ma
 | > 0 | Two distinct real | Two points of intersection |
 | = 0 | Equal | One point, a tangent |
 | < 0 | None | No intersection |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--08-line-meets-circle.webp" width="900" height="1124" alt="Lines y=x+k against x^2+y^2=18: discriminant 144-4k^2 gives two points at k=0, a tangent at k=6 and no points at k=8." loading="lazy">
+  <figcaption>Substituting a line into a circle gives a quadratic whose discriminant counts the intersections.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -169,6 +186,17 @@ Longer questions chain the skills together. Work in this order and label each re
 5. When a line meets a curve, substitute, then read the discriminant if the question mentions tangent, touching, distinct points or no intersection.
 6. Substitute your answers back into both equations as a final check.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--06-chord-bisector-centre.webp" width="900" height="1070" alt="Chord AB with A(2,1), B(6,5); its perpendicular bisector y=-x+7 meets y=x-3 at the centre (5,2); d^2 + half-chord^2 = r^2. AQA worked example 5." loading="lazy">
+  <figcaption>The centre always lies on the perpendicular bisector of any chord, so two chords fix the centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--09-two-circles.webp" width="900" height="1058" alt="OCR only. Circles x^2+y^2=16 and (x-6)^2+(y-2)^2=9 with d=sqrt(40) between 1 and 7 so they cross at two points; number line of d shows the touching and separate cases." loading="lazy">
+  <figcaption>Compare the distance between centres with the sum and difference of the radii.</figcaption>
+</figure>
+
+
 ## Presenting answers
 
 * Give exact values: fractions such as 3/4 and surds such as 2√13, not rounded decimals, unless the question asks for a decimal.
@@ -210,6 +238,12 @@ Longer questions chain the skills together. Work in this order and label each re
 8. The gradient is −1. y − 5 = −(x − 2), so **x + y − 7 = 0**.
 9. The discriminant is 4k − 8, which is negative when **k < 2**.
 10. **(5/2, 8) and (4, 5)**, as in the worked reminder above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--04-is-it-a-circle.webp" width="900" height="1070" alt="Equation x^2+y^2-4x+6y+k=0 completes to (x-2)^2+(y+3)^2=13-k: circles for k=0 and 9, a point at k=13 and nothing for k&gt;13." loading="lazy">
+  <figcaption>After completing the square the right-hand side is r squared, so it must be positive for a circle to exist.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

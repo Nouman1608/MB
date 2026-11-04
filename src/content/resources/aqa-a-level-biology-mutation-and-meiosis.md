@@ -83,6 +83,17 @@ If a mutagenic agent raised the rate five-fold, the expected number would be 150
 
 A bacterial strain cannot grow without an added amino acid. Colonies that grow on plates without it have mutated back. Three plates without a test chemical gave 18, 22 and 20 colonies (mean 20). Three plates with the chemical gave 86, 94 and 90 (mean 90). The percentage increase is (90 − 20) / 20 × 100 = **350%**. This supports the idea that the chemical is mutagenic, but the claim would be stronger with more plates and a repeat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--08-gene-mutation-effects.webp" width="900" height="1090" alt="An mRNA read in codons codes Met, Gly, Leu, Thr, Lys, Pro then stop. A silent substitution leaves the protein unchanged, another changes one amino acid to Val, another makes an early stop codon, and a deletion shifts every codon after it." loading="lazy">
+  <figcaption>Substitutions may change one amino acid or nothing; a deletion changes everything after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--09-mutation-to-tumour.webp" width="900" height="1240" alt="A proto-oncogene stimulates division and a tumour suppressor gene slows it. Mutation turns the first into an always-on oncogene and disables the second, so cells double each cycle (1, 2, 4, 8, 16) into a tumour. A benign tumour stays in a capsule; a malignant one invades and spreads through the blood." loading="lazy">
+  <figcaption>Mutations in genes that control division cause uncontrolled division and tumours.</figcaption>
+</figure>
+
+
 ## Chromosome mutations: non-disjunction
 
 Non-disjunction means that chromosomes fail to separate during meiosis. It arises spontaneously. The cells produced have too many or too few chromosomes.
@@ -93,6 +104,12 @@ Non-disjunction means that chromosomes fail to separate during meiosis. It arise
 ### Worked example 3: human chromosome number
 
 A human gamete normally has 23 chromosomes. With non-disjunction of chromosome 21, one gamete has 24 and another has 22. Fertilisation by a normal gamete (23) gives a zygote with 24 + 23 = **47** chromosomes (three copies of chromosome 21, as in Down syndrome), or 22 + 23 = **45** chromosomes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
+  <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
+</figure>
+
 
 ## Meiosis
 
@@ -111,6 +128,12 @@ Meiosis produces four haploid daughter cells from one diploid parent cell, "usua
 
 **Crossing over.** Early in meiosis I, homologous chromosomes pair and non-sister chromatids swap sections of DNA at points called chiasmata. The chromatids then carry new combinations of alleles, so chromatids that go into different gametes are no longer identical.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--06-meiosis-variation.webp" width="900" height="1260" alt="Top: a chiasma between non-sister chromatids turns AB, AB, ab, ab into AB, Ab, aB and ab. Bottom: three homologous pairs give 2^3 = 8 different gametes, humans 2^23 = 8 388 608, and random fertilisation of 8 by 8 gives 64." loading="lazy">
+  <figcaption>Crossing over and independent assortment make every gamete different.</figcaption>
+</figure>
+
+
 ### Worked example 4: crossing over
 
 One chromosome of a homologous pair carries alleles A and B; its partner carries a and b.
@@ -125,6 +148,17 @@ Without crossing over, the number of different combinations of chromosomes in th
 Worked example 5: a species has 2n = 6, so n = 3 pairs. Let M be a maternal and P a paternal chromosome from each pair. The combinations are MMM, MMP, MPM, MPP, PMM, PMP, PPM and PPP, which is 2³ = **8**.
 
 For the human, n = 23: 2²³ = **8 388 608** gamete types from independent segregation alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--01-chromosome-structure.webp" width="900" height="1230" alt="A replicated chromosome drawn as two sister chromatids joined at the centromere, with gold telomeres at the four ends. Zooming in, DNA is coiled round histone proteins. A final panel shows a DNA end shortening with each copy: the telomere is used up first and the genes stay intact." loading="lazy">
+  <figcaption>Telomeres are lost from chromosome ends at each replication, so genes are protected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--05-meiosis-halves-number.webp" width="900" height="1110" alt="A parent cell with four chromosomes in two homologous pairs divides twice. Meiosis I separates the homologous pairs into two haploid cells with double chromosomes; meiosis II separates chromatids into four haploid cells with single chromosomes. DNA per cell goes 4, 2, 1 units." loading="lazy">
+  <figcaption>Meiosis I halves the chromosome number; meiosis II separates chromatids.</figcaption>
+</figure>
+
 
 ## Completing chromosome diagrams
 
@@ -143,6 +177,12 @@ Count in chromosomes and then in chromatids. Take a parent cell with 2n = 4: one
 
 In a diagram, each cell after meiosis I must contain one member of every pair, never both. The chromosome number is halved at meiosis I, not meiosis II. DNA amount in arbitrary units: 2 before replication, 4 after, 2 per cell after meiosis I, 1 per cell after meiosis II.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--02-cell-cycle-dna.webp" width="900" height="1100" alt="A ring diagram of G1, S, G2 and M sized from a 500-cell count (53%, 25%, 14%, 8% of a 20 hour cycle) with a graph of DNA per cell: 16 pg in G1, rising to 32 pg in S, level through G2 and mitosis, halving at cytokinesis." loading="lazy">
+  <figcaption>DNA doubles during S phase and halves at cytokinesis.</figcaption>
+</figure>
+
+
 ## Mitosis and meiosis compared
 
 | Feature | Mitosis | Meiosis |
@@ -155,6 +195,17 @@ In a diagram, each cell after meiosis I must contain one member of every pair, n
 | Role | Growth, repair, asexual reproduction | Gamete or spore formation |
 
 Mitosis keeps identical DNA because chromatids separate once after replication and there is no pairing or crossing over.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp" width="900" height="1276" alt="Six drawings of an animal cell with four chromosomes: interphase, prophase, metaphase, anaphase, telophase and cytokinesis, each with a short description. Spindle fibres, centrioles and nuclei are labelled in a key; cytokinesis shows an animal cell pinching in and a plant cell forming a cell plate." loading="lazy">
+  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--04-mitotic-index.webp" width="900" height="1232" alt="A grid of 500 root tip cells, one symbol each: 440 interphase and 60 in mitosis (30 prophase, 12 metaphase, 8 anaphase, 10 telophase). A table gives time in a 24 hour cycle for each stage and the mitotic index 60/500 = 12%." loading="lazy">
+  <figcaption>The fraction of cells in a stage equals the fraction of the cycle spent in it.</figcaption>
+</figure>
+
 
 ## Meiosis in life cycles
 

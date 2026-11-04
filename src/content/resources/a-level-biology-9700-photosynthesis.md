@@ -61,6 +61,12 @@ Link structure to function:
 - The thylakoid membrane keeps protons in the small thylakoid space, so a **proton gradient** builds.
 - The stroma contains the **enzymes of the Calvin cycle**, including rubisco. It also holds circular DNA, ribosomes and starch grains.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--01-chloroplast-structure.webp" width="900" height="1000" alt="A chloroplast drawn as an oval with a double membrane. Three grana of stacked thylakoids are joined by lamellae, and the stroma holds a starch grain, circular DNA and ribosomes. Colour coding shows the light-dependent stage on the thylakoid membranes and the Calvin cycle in the stroma." loading="lazy">
+  <figcaption>Where each part of a chloroplast sits and which stage happens there.</figcaption>
+</figure>
+
+
 ## The two stages and how they connect
 
 The **light-dependent stage** transfers light energy into chemical energy as **ATP** and **reduced NADP**. The **light-independent stage** (Calvin cycle) uses that ATP and reduced NADP to turn carbon dioxide into **complex organic molecules**. If the light-dependent stage stops, the Calvin cycle soon stops too.
@@ -80,6 +86,12 @@ Interpreting them:
 - Little **green** light is absorbed, so it is reflected or transmitted. That is why leaves look green.
 - The action spectrum closely follows the **combined** absorption spectra. This is evidence that the light absorbed by these pigments is the light used in photosynthesis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--02-pigment-spectra.webp" width="900" height="900" alt="Schematic absorption curves for chlorophyll a, chlorophyll b and carotenoids are plotted with an action spectrum over a coloured wavelength strip. The chlorophylls absorb mainly blue and red and little green, and the action spectrum follows the combined absorption. At 450 nm the action spectrum is 78 units and at 550 nm 20 units, 26 percent." loading="lazy">
+  <figcaption>The action spectrum follows the pigments absorption spectra, with low but non-zero rate in green.</figcaption>
+</figure>
+
+
 ## Chromatography and Rf values
 
 Pigments are extracted by grinding leaves with a solvent, then a small concentrated spot is placed on a pencil origin line and the paper (or thin-layer plate) stands in a solvent below the line. Each pigment moves a different distance.
@@ -98,6 +110,12 @@ The solvent front is 84 mm from the origin. Four spots are at 80 mm, 55 mm, 50 m
 4. 42 ÷ 84 = **0.50**
 
 If the reference table for this solvent lists carotene 0.95, xanthophyll 0.65, chlorophyll a 0.60 and chlorophyll b 0.50, the spots are carotene, xanthophyll, chlorophyll a and chlorophyll b. In an exam the reference values will be given to you.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--03-chromatography-rf.webp" width="900" height="880" alt="A chromatography strip stands in solvent with a pencil origin and a solvent front 84 mm above it. Four pigment spots at 80, 55, 50 and 42 mm give Rf values 0.95, 0.65, 0.60 and 0.50. Rf has no units and is less than 1." loading="lazy">
+  <figcaption>How Rf is measured from the origin and calculated for each pigment.</figcaption>
+</figure>
+
 
 ## The light-dependent stage: photophosphorylation
 
@@ -132,6 +150,17 @@ Both types happen in the thylakoids. In both, light causes **photoactivation of 
 
 This is the same mechanism as in mitochondria, but protons move into the thylakoid space rather than the intermembrane space. You do not need the names of the carriers or details of ATP synthase.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--04-light-dependent-stage.webp" width="900" height="960" alt="A thylakoid membrane with thylakoid space above and stroma below. Light excites electrons in photosystem II, replaced by photolysis of water, and they pass along the electron transport chain, which pumps protons into the thylakoid space. Electrons reach photosystem I and reduce NADP, while protons flow back through ATP synthase to make ATP." loading="lazy">
+  <figcaption>Where ATP, reduced NADP and oxygen come from on the thylakoid membrane.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--05-cyclic-vs-noncyclic.webp" width="900" height="900" alt="Two panels compare electron routes. Non-cyclic uses PSII and PSI, takes electrons from water and makes ATP, reduced NADP and oxygen. Cyclic uses PSI only, returns electrons to PSI and makes ATP only." loading="lazy">
+  <figcaption>Which products each photophosphorylation route makes.</figcaption>
+</figure>
+
+
 ## The light-independent stage: the Calvin cycle
 
 <!-- marlbridge-diagram:bio-b17-calvin-cycle-carbon-balance -->
@@ -156,6 +185,17 @@ It happens in the **stroma** and has three main stages:
 
 **Predicting changes.** If carbon dioxide concentration falls, RuBP is still regenerated but less is fixed, so **RuBP rises and GP falls**. Always explain both the "made from" and "used for" sides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--06-calvin-cycle.webp" width="900" height="820" alt="The Calvin cycle for three turns: 3 CO2 and 3 RuBP (15C) give 6 GP (18C), reduced to 6 TP. Five TP (15C) regenerate 3 RuBP and one TP leaves. In total 9 ATP and 6 reduced NADP are used, 3 and 2 per CO2." loading="lazy">
+  <figcaption>Counting carbon, ATP and reduced NADP through the Calvin cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--07-gp-rubp-levels.webp" width="900" height="960" alt="Two model graphs. When light is switched off GP rises and RuBP falls. When carbon dioxide is removed RuBP rises and GP falls. Each follows from which reactions still run." loading="lazy">
+  <figcaption>Predicting how GP and RuBP change when light or CO2 is removed.</figcaption>
+</figure>
+
+
 ## 13.2 Limiting factors
 
 **Light intensity, carbon dioxide concentration and temperature** are examples of limiting factors. When several factors affect a process, the rate is limited by the one nearest its minimum; raising that factor raises the rate.
@@ -165,6 +205,12 @@ It happens in the **stroma** and has three main stages:
 - **Temperature** affects the enzymes of the Calvin cycle, such as rubisco. The rate rises towards the optimum; above it, enzymes denature and the rate falls.
 
 **Reading a graph.** On a curve of rate against light intensity, the **rising part** means light is limiting. Where the curve **levels off**, something else (carbon dioxide or temperature) is limiting. If a second curve at higher carbon dioxide levels off higher, carbon dioxide was limiting on the first plateau.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--08-limiting-factor-graphs.webp" width="900" height="1180" alt="Top: oxygen release against light intensity rises to 60 units then plateaus, and a higher-CO2 curve plateaus higher, so CO2 limited the first plateau. Bottom: rate against temperature rises 125 percent then 50 percent to 35 degrees and falls 78 percent at 45 degrees as enzymes denature." loading="lazy">
+  <figcaption>Rising parts are limited by the x-axis factor; plateaus mean another factor limits.</figcaption>
+</figure>
+
 
 ## Investigations
 
@@ -185,6 +231,12 @@ Use an aquatic plant such as pondweed in a solution of **sodium hydrogencarbonat
 - Let the plant **acclimatise** for a few minutes at each new condition.
 
 **Worked example.** A gas syringe collects 0.36 cm³ of oxygen in 6 minutes. Rate = 0.36 ÷ 6 = **0.060 cm³ min⁻¹**. This is the net rate: some oxygen is used in respiration, and some dissolves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--09-pondweed-practical.webp" width="900" height="1090" alt="Apparatus for the pondweed investigation: a lamp at distance d, a water heat shield, and pondweed in hydrogencarbonate solution releasing oxygen into a capillary. A bar chart shows intensity is proportional to 1/d squared: 1, 0.25 and 0.0625 at 10, 20 and 40 cm." loading="lazy">
+  <figcaption>How moving the lamp changes light intensity in the pondweed practical.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -76,6 +76,12 @@ Predict the sign of ∆S for each change.
 
 Read the state symbols first: H₂O(g) in example 2 would change the gas count.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--05-what-raises-entropy.webp" width="900" height="1110" alt="Three panels. Particles in a solid sit in fixed places, in a liquid slide past each other, and in a gas move freely, so entropy rises. Heating makes particles move faster, raising entropy. A reaction that makes gas (CaCO3 decomposing) has positive entropy change, while one that uses up gas (ethene plus steam forming ethanol) has negative." loading="lazy">
+  <figcaption>Entropy rises from solid to liquid to gas, with temperature, and when a reaction produces more moles of gas.</figcaption>
+</figure>
+
+
 ## 5.2.2(c): Calculating ∆S
 
 The entropy change of a system is
@@ -91,6 +97,12 @@ Calculate ∆S for MgCO₃(s) → MgO(s) + CO₂(g). Use these values (J mol⁻�
 1. ΣS(products) = 26.9 + 213.8 = 240.7
 2. ΣS(reactants) = 65.7
 3. ∆S = 240.7 − 65.7 = **+175.0 J mol⁻¹ K⁻¹**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--07-gibbs-vs-temperature.webp" width="900" height="1000" alt="Graph of ΔG against temperature: a straight line starting at +178 kJ per mole, sloping down at -0.165 kJ per K, crossing zero at 1079 K. Above 1079 K ΔG is negative and the reaction is feasible; below it is not. A note says feasible does not mean fast." loading="lazy">
+  <figcaption>ΔG = ΔH − TΔS gives a straight line whose intercept is ΔH and gradient is −ΔS; it crosses zero at T = ΔH/ΔS = 1079 K.</figcaption>
+</figure>
+
 
 ### Worked example 3: using balancing numbers
 
@@ -111,6 +123,17 @@ For 2Na(s) + Cl₂(g) → 2NaCl(s), ∆S = −181.5 J mol⁻¹ K⁻¹. Given S(N
 3. 2S(NaCl) = −181.5 + 325.7 = 144.2
 4. S(NaCl) = **72.1 J mol⁻¹ K⁻¹**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--04-solution-cycle.webp" width="900" height="980" alt="Energy level diagram: NaCl(s) at 0 rises 787 to gaseous ions, falls 406 as Na+ is hydrated and 364 as Cl- is hydrated, ending at +17 kJ per mole above the solid. The enthalpy of solution is therefore +17." loading="lazy">
+  <figcaption>Dissolving NaCl: break the lattice (+787), then hydrate both ions (-406, -364), giving +17 kJ mol-1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--06-entropy-change-calc.webp" width="900" height="1070" alt="Bar chart: CaCO3(s) 92.9 J per K per mole against products CaO(s) 40.0 stacked with CO2(g) 213.6, total 253.6. The difference, +160.7, is the entropy change; most of it is the gas." loading="lazy">
+  <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
+</figure>
+
+
 ## 5.2.2(d): Feasibility depends on ∆H and T∆S
 
 A feasible process is one that is thermodynamically possible: it can happen without outside work being done to drive it. Two factors in the system decide this:
@@ -126,6 +149,12 @@ This is why some endothermic changes happen on their own. Ice melts above 273 K 
 | positive | negative | at no temperature |
 | negative | negative | only below a certain temperature |
 | positive | positive | only above a certain temperature |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--09-total-entropy.webp" width="900" height="1070" alt="Grouped bars for CaCO3 decomposition at 298, 1079 and 1500 K. System entropy change is +165 each time; surroundings entropy change is -ΔH/T: -597, -165, -119. Total is -432 (not feasible), about 0 (borderline) and +46 (feasible)." loading="lazy">
+  <figcaption>For Edexcel, a reaction is feasible when ΔS(total) = ΔS(system) + ΔS(surroundings) is positive, with ΔS(surroundings) = −ΔH/T.</figcaption>
+</figure>
+
 
 ## 5.2.2(e): The Gibbs equation
 
@@ -170,6 +199,12 @@ So this reaction is feasible only **below** about 791 K. Check the direction in 
 ### Reading a ∆G against T graph
 
 Because ∆G = ∆H − T∆S, a plot of ∆G (y) against T (x) is a straight line, assuming ∆H and ∆S stay roughly constant. The intercept at T = 0 is ∆H and the gradient is −∆S. The line crosses ∆G = 0 at the threshold temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--08-gibbs-sign-cases.webp" width="900" height="1130" alt="Four small graphs of ΔG against temperature, with shaded regions above and below zero. ΔH negative with ΔS positive is always feasible; ΔH positive with ΔS negative is never feasible; both positive is feasible above a temperature; both negative is feasible below a temperature." loading="lazy">
+  <figcaption>The signs of ΔH and ΔS decide whether a reaction is feasible at all temperatures, never, or only above or below a particular temperature.</figcaption>
+</figure>
+
 
 ## 5.2.2(f): Limits of ∆G predictions: kinetics
 

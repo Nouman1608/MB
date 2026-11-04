@@ -51,6 +51,12 @@ These revision notes cover section 6.1.2(e) to (h) of the OCR A Level Biology A 
 
 **Reading graphs.** A single peak that narrows is stabilising selection. A peak that moves sideways is directional. A line for a small population that jumps up and down without a trend suggests drift.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
+
 ## 6.1.2(f) Hardy-Weinberg
 
 | Symbol or equation | Meaning |
@@ -80,6 +86,12 @@ The equations are provided in assessments where needed. Conditions for constant 
 
 **Interpreting results.** If observed genotype numbers differ from those expected, a Hardy-Weinberg condition is probably not met. Fewer heterozygotes than expected suggests non-random mating. A change in allele frequency between generations shows evolution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
+</figure>
+
+
 ## 6.1.2(g) Isolating mechanisms and speciation
 
 | | Allopatric | Sympatric |
@@ -93,6 +105,12 @@ The equations are provided in assessments where needed. Conditions for constant 
 **Allopatric or sympatric?** Ask whether a physical barrier separates the populations. If the answer is yes, it is allopatric. If the populations share an area and a reproductive barrier separates them, it is sympatric.
 
 **Polyploidy.** A change in chromosome number can isolate a plant from its parent species in one generation. It is a route to sympatric speciation in plants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
+  <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
+</figure>
+
 
 ## 6.1.2(h) Artificial selection
 
@@ -110,6 +128,22 @@ The equations are provided in assessments where needed. Conditions for constant 
 **Speed of change.** Many generations of selection are needed, so species with short life cycles can change in fewer years than cattle.
 
 **Ethics.** For: more food, disease resistance, working animals, livelihoods. Against: animal welfare, consent, breeding for appearance, inbreeding and a narrow gene pool. For extreme cases such as dog breeds with breathing problems, weigh the harm to the animal against owner preference, and suggest a remedy such as health-first breed standards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
 
 ## Command words
 

@@ -76,6 +76,12 @@ You can answer some questions from the table alone, with no graph.
 - Students who took more than 20 minutes but no more than 40 minutes: 92 − 24 = **68**.
 - The class containing the median: the median is about the 60th value, and the running total reaches 60 at t = 30, so the median is at the top of the 20 < t ≤ 30 class.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--01-build-the-table.webp" width="900" height="800" alt="Six time classes with frequencies 6, 18, 36, 32, 20, 8 are shown as bars beside running-total bars that grow to 6, 24, 60, 92, 112, 120. The last total equals 120, the number of students." loading="lazy">
+  <figcaption>Each running total adds the new class to the total so far, and the last must equal the total frequency.</figcaption>
+</figure>
+
+
 ## Drawing the cumulative frequency diagram (E9.6.1)
 
 1. Put the variable (here, time) on the horizontal axis and **cumulative frequency** on the vertical axis. Label both axes.
@@ -91,6 +97,12 @@ For worked example 1, the points to plot are:
 ```
 
 The curve is S-shaped: slow at first, steep in the middle, flat near the top. It never goes down, because a running total cannot fall. The steepest part shows where the data is most concentrated: here, between 20 and 40 minutes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--02-draw-the-curve.webp" width="900" height="770" alt="Crosses at (0,0), (10,6), (20,24), (30,60), (40,92), (50,112), (60,120) are joined by one smooth S-shaped curve. The start at zero and the upper class boundary are highlighted." loading="lazy">
+  <figcaption>Plot each running total at the upper class boundary, start at (0, 0) and join with a smooth curve.</figcaption>
+</figure>
+
 
 ## Reading the median, quartiles and IQR (E9.6.2)
 
@@ -121,6 +133,12 @@ So the median time is **30 minutes** and the interquartile range is about **17 m
 A quick way to check that a reading is sensible: the lower quartile height, 30, is between the plotted points (20, 24) and (30, 60), so the lower quartile must be between 20 and 30, and nearer 20, because 30 is much closer to 24 than to 60. A reading outside that class means you have misread the scale.
 
 The median is an estimate: with grouped data, the individual times are not known.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="920" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
+  <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
+</figure>
+
 
 ## Percentiles (E9.6.2)
 
@@ -153,6 +171,12 @@ A student who finished in about **14 minutes or less** gets a certificate. A stu
 
 "The slowest 10%" is the **top** 10% of times, so you need the 90th percentile, not the 10th.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--04-percentiles.webp" width="900" height="830" alt="Reading across at 12 gives the 10th percentile, about 14 minutes; reading across at 108 gives the 90th percentile, about 47 minutes. The slowest 10% need the 90th percentile." loading="lazy">
+  <figcaption>The p-th percentile is read at p/100 of the total; the slowest 10% is the 90th percentile.</figcaption>
+</figure>
+
+
 ## Reading the other way: from a value to a number of items
 
 Some questions give a value on the horizontal axis and ask how many items are below or above it. Now you start on the **horizontal** axis, go up to the curve, then across to the cumulative frequency axis.
@@ -175,6 +199,12 @@ Percentage ≈ 17 ÷ 120 × 100 ≈ 14%
 
 The curve gives the number **at or below** a value. For "more than", always subtract the reading from the total. Forgetting this step gives 103, which is the number who took 45 minutes or less.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--05-time-to-number.webp" width="900" height="918" alt="Starting at 35 minutes and reading up then across gives about 77 students. Starting at 45 gives about 103, so more than 45 minutes is 120 minus 103 = 17 students, about 14%." loading="lazy">
+  <figcaption>From a time, go up to the curve then across; for &quot;more than&quot;, subtract from the total.</figcaption>
+</figure>
+
+
 ## Interpreting and comparing (E9.6.2)
 
 The syllabus asks you to **interpret** these measures, not only read them.
@@ -193,6 +223,12 @@ A full comparison makes **two** points, one about average and one about spread, 
 - The teachers' IQR (11 minutes) is smaller than the students' (about 17 minutes), so **the teachers' times were more consistent**.
 
 A comparison that only says "26 is less than 30" is incomplete. Say what the lower median means in context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--06-comparing-groups.webp" width="900" height="1070" alt="Two curves on one grid: teachers have median 26 and IQR 11, students median 30 and IQR about 17. Bars show the middle half of each group. Teachers were faster and more consistent." loading="lazy">
+  <figcaption>Compare a lower median (faster) and a smaller IQR (more consistent), in context.</figcaption>
+</figure>
+
 
 ## Working back from a cumulative frequency table
 

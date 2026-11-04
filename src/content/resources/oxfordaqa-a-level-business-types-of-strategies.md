@@ -100,6 +100,17 @@ Unit cost falls about 9.8% (purchasing and technical economies). But at sales of
 
 **Functional impact.** Growth needs finance, recruitment and new structures, bigger capacity and supply chains, and wider marketing; retrenchment reverses each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--01-ansoff-matrix.webp" width="900" height="1048" alt="A two by two grid of existing/new products against existing/new markets giving market penetration, product development, market development and diversification, with risk rising towards diversification. Orrisdale example: raising share from 15% to 20% needs a 40% revenue rise." loading="lazy">
+  <figcaption>Four options sit in a grid by product and market, and risk rises as the business moves away from what it knows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--02-unit-cost-capacity.webp" width="900" height="840" alt="Unit cost curves for one furnace and two furnaces with points A (1.8m bottles, 90% used, 0.60), B (3.2m, 80%, 0.54) and C (2.4m, 60%, 0.635). Growth lowers unit cost only if the new capacity is used." loading="lazy">
+  <figcaption>Unit cost falls with the second furnace only while capacity is well used.</figcaption>
+</figure>
+
+
 ## 2. Innovation
 
 **Innovation** is turning a new idea into a successful product or process. Its **purpose** is competitive advantage; its **value** is higher sales, premium prices or lower costs.
@@ -161,6 +172,12 @@ B, price −10%: demand +15%; revenue 0.90 × 1.15 → +3.5%
 
 **Interpretation.** Country A has rising incomes and inelastic demand, but four firms hold 82%, so entry is hard. Country B is fragmented and price-sensitive, suiting a low-price entry, but slow income growth limits demand. A's 6% inflation raises local costs and erodes income gains; its 7% interest rate makes local borrowing dear. B's 9% unemployment limits spending but eases recruitment. Market share is firm sales ÷ market sales × 100: £1.2m in a £40m market is 3%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--03-market-map.webp" width="900" height="836" alt="Scatter of five swimming schools by price and benefits score. Finwise Academy is dearest but scores below two rivals (2.29 pounds per point). No school scores over 8 for under 12 pounds, a possible gap, but a map shows a gap, not demand." loading="lazy">
+  <figcaption>A market map shows close rivals and gaps, but a gap is not proof of demand.</figcaption>
+</figure>
+
+
 ### Methods of entry
 
 | Method | Advantages | Disadvantages |
@@ -195,6 +212,12 @@ Labour turnover   33 ÷ 220 × 100 = 15%             18 ÷ 240 × 100 = 7.5%
 ```
 
 Each profit margin is that profit ÷ revenue × 100. Year 2 included fair-wage policies and energy-saving equipment. Operating and net margins and ROCE dipped, but labour turnover halved, cutting recruitment costs. Whether the strategy pays depends on whether the "people" and "planet" gains lift future profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ## Common errors
 

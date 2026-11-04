@@ -41,6 +41,12 @@ These notes condense topic C2.1, Chemical signalling, statements C2.1.1 to C2.1.
 - A pathway usually has relay molecules, amplification (one enzyme makes many products) and an off switch.
 - The same ligand can have different effects in different cells because the pathway behind the receptor differs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--01-ligand-receptor-specificity.webp" width="900" height="850" alt="A gland cell releases triangular ligands into the blood. Three cells are exposed to it. Only the cell whose receptor has a matching V-shaped binding site binds the ligand and responds. A cell with a differently shaped receptor and a cell with no receptor do not respond." loading="lazy">
+  <figcaption>Only cells with a receptor that fits the ligand respond.</figcaption>
+</figure>
+
+
 ## Quorum sensing (C2.1.2)
 
 1. Each bacterium releases a little autoinducer.
@@ -49,6 +55,12 @@ These notes condense topic C2.1, Chemical signalling, statements C2.1.1 to C2.1.
 4. Genes switch on across the population together.
 
 Example: *Vibrio fischeri* makes light (bioluminescence) at high density, for example in a host light organ, and none in open seawater.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--02-quorum-sensing.webp" width="900" height="1000" alt="Three tanks show sparse, rising and dense bacteria with increasing autoinducer; only the dense tank glows. A graph of light per million cells against density (log scale) shows 2, 2, 8, 120 and 250, with a shaded threshold zone between 0.1 and 10 million cells per cm cubed." loading="lazy">
+  <figcaption>Light per cell rises sharply once autoinducer passes a threshold at high density.</figcaption>
+</figure>
+
 
 ## Four categories of signal (C2.1.3 to C2.1.5)
 
@@ -65,6 +77,12 @@ Chemical groups to recall:
 - Neurotransmitters: **amino acids**, **peptides**, **amines**, and nitric oxide, a gas. The guide text names the gas as nitrous oxide; the neurotransmitter is nitric oxide.
 - Why so varied: different solubility, size, stability and speed suit different jobs, and many shapes give each ligand its own receptor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--03-signal-categories.webp" width="900" height="1010" alt="Four rows compare a hormone (gland to distant target through the blood), a neurotransmitter (across a gap of about 20 nm), a cytokine (nearby cells only) and calcium ions (released from a store inside one cell)." loading="lazy">
+  <figcaption>Hormones act at a distance, neurotransmitters across a tiny gap, cytokines locally and calcium ions inside a cell.</figcaption>
+</figure>
+
+
 ## Receptor location (C2.1.6)
 
 | | Transmembrane | Intracellular |
@@ -73,6 +91,12 @@ Chemical groups to recall:
 | Hydrophobic amino acids | In the membrane-spanning region | Not needed at the surface |
 | Hydrophilic amino acids | Outside and inside parts | Surface, in cytoplasm or nucleoplasm |
 | Examples | Acetylcholine, epinephrine, insulin | Oestradiol, progesterone, testosterone |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--04-receptor-location.webp" width="900" height="1280" alt="Top: a transmembrane receptor with a hydrophobic stretch in the bilayer binds a hydrophilic ligand outside and passes the signal inside. Bottom: a steroid crosses the bilayer, binds a receptor in the cytoplasm, the complex binds DNA in the nucleus, and new mRNA and protein are made." loading="lazy">
+  <figcaption>Hydrophilic ligands bind transmembrane receptors; steroids pass in and act through intracellular receptors on gene expression.</figcaption>
+</figure>
+
 
 ## Pathways at a glance
 
@@ -92,6 +116,12 @@ Chemical groups to recall:
 5. The inside becomes less negative: depolarisation.
 6. If the threshold is reached, voltage-gated channels open and an action potential can follow.
 7. The ligand is removed (for example by an enzyme that breaks it down), the channel closes and the potential returns to rest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--05-acetylcholine-receptor.webp" width="900" height="1070" alt="A closed ion-channel receptor blocks sodium ions; when acetylcholine binds the pore opens and sodium ions enter. A graph shows membrane potential rising 18 mV from -70 to -52 mV, which is 2 mV short of the -50 mV threshold." loading="lazy">
+  <figcaption>Acetylcholine opens a sodium channel, depolarising the cell by 18 mV, but not to threshold.</figcaption>
+</figure>
+
 
 ## Method boxes
 
@@ -116,6 +146,17 @@ Chemical groups to recall:
 3. The receptor binds specific DNA sequences.
 4. Transcription of target genes is promoted; new protein is made.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--06-gpcr-camp.webp" width="900" height="1200" alt="Epinephrine binds a seven-helix receptor, the G protein swaps GDP for GTP and activates adenylyl cyclase, which makes cAMP from ATP. cAMP leads to protein kinase A, glycogen breakdown and glucose release. A graph shows cAMP of 4, 60, 88, 31 and 6 units at 0, 15, 60, 120 and 300 s." loading="lazy">
+  <figcaption>Epinephrine triggers a G protein pathway that raises cAMP, which falls again when epinephrine is removed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--07-insulin-tyrosine-kinase.webp" width="900" height="1252" alt="Without insulin the muscle cell membrane has two glucose transporters. Insulin binds the tyrosine kinase receptor, tyrosines are phosphorylated using ATP, and vesicles bring more transporters to the membrane so more glucose enters. Bars show uptake of 2.4, 9.6 and 3.0 micromoles per gram per hour with no insulin, insulin and insulin plus inhibitor." loading="lazy">
+  <figcaption>Insulin triggers phosphorylation and insertion of glucose transporters, raising glucose uptake fourfold.</figcaption>
+</figure>
+
+
 ## Oestradiol and progesterone (C2.1.13)
 
 - Oestradiol: target cells are GnRH-secreting cells of the hypothalamus. Lower levels reduce GnRH secretion; high, sustained levels increase it.
@@ -128,6 +169,12 @@ Chemical groups to recall:
 | Effect | Reverses the change | Amplifies the change |
 | Result | Stable around a set point | Rapid movement away from start |
 | Example | Glucose rises, insulin released, glucose falls, insulin falls | Cervix stretches, oxytocin released, stronger contractions, more stretch |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--08-feedback-loops.webp" width="900" height="1090" alt="Negative feedback loop: high blood glucose causes insulin release, which raises glucose uptake and lowers glucose, reducing the change. Positive feedback loop in labour: cervix stretch causes oxytocin release, which strengthens contractions and causes more stretching." loading="lazy">
+  <figcaption>Negative feedback reverses a change; positive feedback amplifies it.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

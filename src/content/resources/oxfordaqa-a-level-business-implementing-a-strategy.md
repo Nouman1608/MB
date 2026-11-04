@@ -48,6 +48,12 @@ A chosen strategy delivers nothing until people, money and time are organised to
 
 The first four can be managed. External factors cannot, but good monitoring lets the firm respond quickly, for example by delaying a launch.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--01-ansoff-matrix.webp" width="900" height="1048" alt="A two by two grid of existing/new products against existing/new markets giving market penetration, product development, market development and diversification, with risk rising towards diversification. Orrisdale example: raising share from 15% to 20% needs a 40% revenue rise." loading="lazy">
+  <figcaption>Four options sit in a grid by product and market, and risk rises as the business moves away from what it knows.</figcaption>
+</figure>
+
+
 ## 2. Why the links from mission to functional decisions matter
 
 The [strategic options guide](/resources/oxfordaqa-a-level-business-strategic-options-choosing-which-markets-to/) sets out the chain from mission to functional decisions. Here the focus is on **why the links matter when implementing**.
@@ -109,6 +115,12 @@ Total float = LFT (at end node) − duration − EST (at start node)
 ```
 
 The **critical path** runs through the activities with zero total float. It is the longest route through the network, and its length is the shortest possible project time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--07-net-present-value.webp" width="900" height="890" alt="Cash flows and their present values for years 1 to 5 at 7% using the lesson discount factors; total 269,661 less 222,000 cost gives NPV +47,661." loading="lazy">
+  <figcaption>Discounting makes later cash flows worth less; NPV compares their total with the cost.</figcaption>
+</figure>
+
 
 ### Worked example 2: Corrabine Studios opens a second studio
 
@@ -184,6 +196,17 @@ Redo the forward pass from node 3: node 4 EST = 7 + 4 = 11; node 5 EST = highest
 
 The new critical path is **A → B → E → F → G → J** (3 + 4 + 4 + 3 + 2 + 1 = 17), and building works now has 1 week of float. A faster supplier, or training on borrowed equipment so F no longer waits for E, would remove the delay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--08-critical-path.webp" width="900" height="1270" alt="Activity network of nine activities and seven nodes showing earliest start and latest finish times, floats (C and H 2, E and F 1) and the critical path A, B, D, G, J of 16 weeks." loading="lazy">
+  <figcaption>The critical path is the zero-float route and sets the minimum project time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--09-force-field.webp" width="900" height="1070" alt="Arrows scaled to scores for driving and restraining forces before and after action: drivers 12 against restrainers 10 (lead 2), then restrainers fall to 7 (lead 5) after a retraining pledge and course." loading="lazy">
+  <figcaption>Weakening restraining forces widens the lead of driving forces.</figcaption>
+</figure>
+
+
 ## 5. Strategic decision making
 
 ### The value of strategic planning
@@ -210,6 +233,12 @@ The new critical path is **A → B → E → F → G → J** (3 + 4 + 4 + 3 + 2 
 - **Leadership:** long-serving leaders defend their own strategy.
 
 **Example.** Asherwick Books kept opening high-street shops and refreshing layouts for a decade while its customers moved to e-books and online ordering. Sales per shop slipped until losses forced closures. Better scanning, and leaders willing to question the store-led model, might have prompted an earlier move online.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ## Common errors
 

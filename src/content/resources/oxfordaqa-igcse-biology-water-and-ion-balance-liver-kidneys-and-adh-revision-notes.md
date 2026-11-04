@@ -47,6 +47,12 @@ Also useful: the [OxfordAQA Biology hub](/boards/oxfordaqa/igcse/biology/), the 
 - Only the kidney response is adjusted to keep the balance. The loss in the breath and in sweat is not regulated for this purpose.
 - More sweating means more water, urea and ions lost, so a smaller volume of more concentrated urine and a need to drink more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--04-water-loss-routes.webp" width="900" height="870" alt="Water leaves through the lungs in each breath, through the skin as sweat (with urea and ions) and through the kidneys as urine (excess water, excess ions, urea). Only the kidneys adjust the loss to match the need." loading="lazy">
+  <figcaption>Water is lost through the lungs, skin and kidneys, but only the kidneys adjust the amount.</figcaption>
+</figure>
+
+
 ## 3.4.3 c: the liver
 
 | Job | Detail |
@@ -65,6 +71,17 @@ Method in steps for any liver question:
 
 Chain to learn: **amino acid, then ammonia, then urea, then urine**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--03-liver-detox-old-cells.webp" width="900" height="830" alt="Poisons such as alcohol and drugs are changed in the liver into less harmful substances, which the kidneys excrete in urine. Old red blood cells are broken down in the liver, and their iron is stored there ready for reuse." loading="lazy">
+  <figcaption>The liver detoxifies poisons and breaks down old red blood cells, storing their iron.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--07-liver-urea-route.webp" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine." loading="lazy">
+  <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea.</figcaption>
+</figure>
+
+
 ## 3.4.3 d: the healthy kidney
 
 | Stage | Result |
@@ -76,6 +93,22 @@ Chain to learn: **amino acid, then ammonia, then urea, then urine**.
 | Released as urine | Urea, excess ions, excess water |
 
 Must-know distinction: **filtering is not selective, reabsorption is.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--06-filtrate-reabsorbed-98.webp" width="900" height="880" alt="A kidney filters 108 cm3 per minute and releases 1.2 cm3 of urine, so 106.8 cm3 (98.9%) goes back into the blood. In an hour 6480 cm3 (6.48 dm3) is filtered." loading="lazy">
+  <figcaption>Of every 108 cm3 filtered each minute, 98.9% is reabsorbed and only 1.2 cm3 leaves as urine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--04-nephron.webp" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct." loading="lazy">
+  <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--06-plasma-filtrate-urine.webp" width="900" height="1160" alt="Bar charts of protein, glucose and urea in plasma, filtrate and urine. Protein is absent from filtrate and urine; glucose is in plasma and filtrate but not urine; urea is 0.30 in plasma and filtrate but 18 in urine, 60 times more concentrated." loading="lazy">
+  <figcaption>Protein is not filtered, glucose is filtered then all reabsorbed, and urea becomes 60 times more concentrated.</figcaption>
+</figure>
+
 
 ## 3.4.3 e, f, g: ADH and negative feedback
 
@@ -93,6 +126,12 @@ low water -> more ADH -> more water reabsorbed -> water content rises -> less AD
 ```
 
 Key phrase for full credit: the change is **detected**, a **response** follows, and the response **reverses the change**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--02-adh-feedback.webp" width="900" height="1030" alt="Two loops. Water too low: pituitary releases more ADH, kidneys reabsorb more water, urine is smaller and more concentrated, blood water rises to normal. Water too high: less ADH, less water reabsorbed, urine larger and more dilute, blood water falls to normal." loading="lazy">
+  <figcaption>ADH changes how much water the kidneys reabsorb, reversing any change in blood water.</figcaption>
+</figure>
+
 
 ## Liver and kidney compared
 
@@ -175,6 +214,22 @@ Reading data: a table or graph showing urine volume down and concentration up po
 8. 1200 ÷ 24 = **50 cm³ per hour**.
 9. (900 − 1500) ÷ 1500 × 100 = **−40%** (a 40% decrease).
 10. Blood water content rises, so the pituitary gland releases less ADH. The kidneys reabsorb less water, so more water is lost in a larger volume of dilute urine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--01-water-budget.webp" width="900" height="975" alt="Horizontal bars show water in and out per day. Normal day: 2350 cm3 in, urine 1450 cm3. Hot day: 2850 cm3 in, 1650 cm3 lost as sweat, urine 680 cm3. Urine falls by 53.1 percent." loading="lazy">
+  <figcaption>On a hot day more water leaves in sweat, so the kidneys release 53.1% less urine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--03-urine-no-drink.webp" width="900" height="905" alt="Two beakers show urine at the start (60 cm3 per hour, concentration 20) and after 3 hours without drinking (22 cm3 per hour, concentration 55). Volume falls 63.3 percent and concentration rises 2.75 times." loading="lazy">
+  <figcaption>Less water in the blood means more ADH, so less, more concentrated urine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--05-urea-sweat-urine.webp" width="900" height="790" alt="Of 28 g of urea made in a day, 0.6 g (2.1%) is lost in sweat and 27.4 g leaves in urine. A urine sample with 12 g of urea in 1.5 dm3 has a concentration of 8 g per dm3." loading="lazy">
+  <figcaption>Only 2.1% of the urea is lost in sweat; the kidneys remove the rest.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

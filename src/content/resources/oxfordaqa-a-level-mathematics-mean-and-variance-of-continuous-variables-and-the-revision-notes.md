@@ -61,6 +61,12 @@ E(X²) = 3 ∫ (x² − 2x³ + x⁴) dx = 3(1/3 − 1/2 + 1/5) = 3(1/30) = 1/10
 Var(X) = 1/10 − (1/4)² = 1/10 − 1/16 = 3/80
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--04-mean-median-mode.webp" width="900" height="830" alt="The pdf (4/27)x²(3 − x) on 0 to 3 peaks at x = 2. Lines mark the mean 1.8, median about 1.84 and mode 2; the median splits the area into two halves of 1/2." loading="lazy">
+  <figcaption>The median halves the area, and here mean &lt; median &lt; mode.</figcaption>
+</figure>
+
+
 ## Functions of X
 
 | Function | Mean | Variance |
@@ -89,6 +95,12 @@ The specification gives E(2X + 3), E(5X²), E(10X⁻¹), E(100X⁻²), Var(3X), 
 E(3X − 2Y) = 3(12) − 2(5) = 26
 Var(3X − 2Y) = 9(4) + 4(9) = 72
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--06-linear-function-of-x.webp" width="900" height="915" alt="Two graphs on one scale. X, with pdf 4x³/15 on 1 to 2, has mean 1.65 and σ 0.26. 2X + 3 lies on 5 to 7 with mean 6.31 and σ 0.52: shifted by the +3 and spread doubled by the ×2." loading="lazy">
+  <figcaption>Adding b slides the distribution, and multiplying by a multiplies the variance by a².</figcaption>
+</figure>
+
 
 ## S2.3 Exponential distribution
 
@@ -128,6 +140,32 @@ E(3T₁) = 6             Var(3T₁) = 36
 The sum of the two is not exponential. Use only the mean and variance results for it, and do not use the exponential cdf.
 
 **Poisson link.** The number of events in time t is Poisson with mean λt. P(no events in time t) = e^(−λt) = P(X > t). Both routes give the same value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--02-pdf-to-cdf.webp" width="900" height="985" alt="Two aligned graphs. The upper is the pdf x/6 then 1/3 with areas 1/12 and 7/12 shaded; the lower is the cdf rising to 1. Heights of the cdf at x = 1 and 3 are 1/12 and 2/3, and their gap 7/12 is P(1 &lt; X &lt; 3)." loading="lazy">
+  <figcaption>F(x) is the area collected so far, so P(a &lt; X &lt; b) = F(b) − F(a).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--03-cdf-to-pdf.webp" width="900" height="1030" alt="The cdf F(x) = (x³ − 1)/26 is drawn with tangents at x = 1.5 and 2.5. Below it, the pdf 3x²/26 has heights 0.26 and 0.72 at those x values, equal to the tangent slopes." loading="lazy">
+  <figcaption>Differentiating F gives f, so a steeper cdf means a taller pdf.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--05-quartiles-piecewise.webp" width="900" height="870" alt="The piecewise cdf x²/12 then (x − 1)/3 meets at F(2) = 1/3. Horizontal lines at 1/4, 1/2 and 3/4 hit the curve and drop to Q1 = √3 ≈ 1.73, median 2.5 and Q3 = 3.25. 1/4 uses the first piece; 1/2 and 3/4 use the second." loading="lazy">
+  <figcaption>Compare the target probability with F at the break point to choose the piece.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--07-exponential-pdf.webp" width="900" height="850" alt="The pdf 0.4e^(−0.4x) falls from 0.4. The area from 2 to 6 is 0.359. A line marks the mean 2.5, equal to the standard deviation." loading="lazy">
+  <figcaption>An exponential pdf starts at λ and decays; its mean and standard deviation are both 1/λ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--08-exponential-poisson-link.webp" width="900" height="880" alt="A timeline of four illustrative calls. The gap between two calls is the waiting time X. A 3 minute window with no calls is the same event as X &gt; 3, with probability e^(−1.2) = 0.301 from either the Poisson or exponential view." loading="lazy">
+  <figcaption>No calls in a time t is the same event as the waiting time exceeding t.</figcaption>
+</figure>
+
 
 ## Which tool, when
 
@@ -170,6 +208,17 @@ The sum of the two is not exponential. Use only the mean and variance results fo
 10. 1 − e^(−0.5x) = 0.5 gives x = 2 ln 2 = **1.386**.
 11. Events occur singly, independently, and at a constant average rate.
 12. ∫ (1/x)(2x) dx from 0 to 1 = ∫ 2 dx = **2**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--01-probability-is-area.webp" width="900" height="830" alt="Graph of f(x) = (6 − x)/8 on 2 to 6, a right-angled triangle of area 1. The strip from x = 3 to 5 is shaded and has area 1/2. A single line at x = 4 has no width, so P(X = 4) = 0." loading="lazy">
+  <figcaption>Probability is the area under the pdf, and a single value has zero area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--09-variances-add.webp" width="900" height="780" alt="Three bars to scale. Var(2X + 3Y) and Var(2X − 3Y) are both 4Var(X) + 9Var(Y) = 0.506, though the means differ. Subtracting the variances (0.026) is crossed out as wrong." loading="lazy">
+  <figcaption>For independent variables the variances always add, even for a difference.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

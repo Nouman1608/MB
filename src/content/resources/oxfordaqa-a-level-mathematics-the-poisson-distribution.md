@@ -50,6 +50,12 @@ In an exam you are usually asked to state a condition and relate it to the conte
 
 Conditions can fail. Buses arriving in a rush-hour queue do not arrive at a constant rate. Faults in a machine that tends to fail in clusters are not independent. Say what is wrong, then say what effect it has: clustering makes the variance larger than the mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--01-poisson-vs-binomial-setup.webp" width="900" height="1040" alt="A timeline shows seven events in an interval, so X counts events with no upper limit. Below it, ten trial boxes show six successes, so a binomial X can never exceed n. Poisson events must be single, independent and at a constant average rate." loading="lazy">
+  <figcaption>Poisson counts events in an interval with no upper limit; binomial counts successes in a fixed number of trials.</figcaption>
+</figure>
+
+
 ## 2. Calculating probabilities
 
 For X ~ Po(λ), the probability function is:
@@ -101,6 +107,17 @@ The number of calls to a helpdesk in an hour is modelled by X ~ Po(6). You are g
 
 In (b), "greater than 8" starts at 9, so you subtract the cumulative probability up to 8, not up to 9. The value P(X ≤ 9) is a distractor here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--02-poisson-shapes.webp" width="900" height="1090" alt="Three bar charts of P(X = r) on one scale for Po(0.8), Po(3) and Po(9). Po(0.8) is strongly skewed, Po(3) peaks at 2 and 3, and Po(9) is wide and nearly symmetric. A dashed line marks the mean λ." loading="lazy">
+  <figcaption>As λ grows the distribution moves right, spreads out and becomes more symmetric.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--06-poisson-critical-region.webp" width="900" height="1010" alt="Bar chart of Po(4.5). The critical region X = 0 or X ≥ 10 is shaded gold with tail probabilities 0.0111 and 0.0171, total 0.0282. The observed 11 lies in the critical region so H0 is rejected." loading="lazy">
+  <figcaption>At the 5% level each tail gets at most 2.5%, and the actual significance level 0.0282 is the probability of a Type I error.</figcaption>
+</figure>
+
+
 ## 3. Changing the interval
 
 The rate is proportional to the size of the interval. If the mean is 2.5 per hour, the mean in 90 minutes is 3.75, and in 20 minutes it is 2.5/3 = 0.8333. Always write down the new distribution before calculating anything. This is where the constant-rate condition is used.
@@ -120,6 +137,12 @@ Emails to a small office arrive at random at a mean rate of 2.5 per hour. Find t
 
 Do not write "P(X ≤ 2) = P(X = 2)". "At most 2" means 0, 1 or 2, so three terms are needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--03-poisson-scaling-interval.webp" width="900" height="1080" alt="Six 10-minute blocks each with mean 1.5 show 20 minutes has λ = 3 and one hour has λ = 9. Po(3) with r ≤ 3 shaded gives 0.647 and Po(9) with r ≥ 10 shaded gives 0.413." loading="lazy">
+  <figcaption>Rescale the mean to the interval you observe before calculating any probability.</figcaption>
+</figure>
+
+
 ## 4. The Poisson as a limit of the binomial
 
 Suppose X ~ B(n, p), where n is large and p is small. Put λ = np. As n becomes large and p becomes small with np held fixed at λ, the binomial probabilities approach the Poisson probabilities for Po(λ). So for n large and p small you may use Po(np) in place of B(n, p).
@@ -138,6 +161,12 @@ A factory packs bolts, and each bolt is faulty with probability 0.012, independe
 ```
 
 The two answers agree to three significant figures (0.177 each). The approximation is good because n = 300 is large and p = 0.012 is small.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--04-poisson-approximates-binomial.webp" width="900" height="1190" alt="Binomial bars with Poisson values as dots. B(150, 0.02) and Po(3) match closely (0.4209 against 0.4232 for P(X ≤ 2)). B(20, 0.4) and Po(8) do not (0.1256 against 0.1912), because p is not small." loading="lazy">
+  <figcaption>The approximation works when n is large and p is small, and fails when p is not small.</figcaption>
+</figure>
+
 
 ## 5. Mean, variance and standard deviation
 
@@ -162,6 +191,12 @@ P(X = 2) = e^(−2.7) × 2.7² / 2 = 0.067206 × 3.645 = 0.2450
 ```
 
 Notice that e^(−λ) cancels in a ratio. When a question links two probabilities, divide them first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--05-poisson-variance-equals-mean.webp" width="900" height="940" alt="A number line of variance divided by mean. B(50, 0.3) gives 0.70, data with mean 2.3 and variance 2.2 give 0.96, Po(λ) gives exactly 1, and data with mean 2.6 and variance 5.9 give 2.27. Values near 1 suit Poisson, values above 1 suggest clustering." loading="lazy">
+  <figcaption>A Poisson count has variance equal to its mean; a ratio well above 1 signals clustered events or a varying rate.</figcaption>
+</figure>
+
 
 ## 6. Sums of independent Poisson variables
 

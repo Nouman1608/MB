@@ -44,9 +44,26 @@ Genetic variation means different characteristics as a result of **mutation or r
 - **Asexual reproduction** involves one parent and no fusion of gametes, so there is no mixing and no genetic variation in the offspring. The offspring are **clones**.
 - **Mutation** is a change in the genetic material (a gene) that creates a new allele. Mutations are random. They happen without any need for them. Most have no effect on the organism or are harmful, and a few give a characteristic that suits the environment. Mutation is the original source of every new allele. Some radiation and some chemicals increase the rate of mutation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
+</figure>
+
+
 ### Environmental variation
 
 Environmental variation means different characteristics caused by an organism's environment. These are **acquired characteristics**: they develop during the lifetime of the individual. Examples are a scar, a suntan, the muscle of someone who trains, and a plant that is short because the soil lacks mineral ions. Light, temperature, water, mineral ions and diet are typical environmental factors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species--01-nitrate-cuttings.webp" width="900" height="920" alt="Cuttings from one parent: A with nitrate (mean 19.0 cm) and B without (mean 12.0 cm). The 7.0 cm gap is not genetic, because the plants are clones. Within each group the plants still differ a little, again for environmental reasons." loading="lazy">
+  <figcaption>Clones given nitrate grow 7.0 cm taller on average, so the difference is environmental.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-key-ideas--09-genome-or-environment.webp" width="900" height="1100" alt="Identical twins share a genome, so differences between them are environmental. Cuttings from one parent plant have identical genes, so differences in height point to light, water or mineral ions." loading="lazy">
+  <figcaption>Same genome means differences are environmental.</figcaption>
+</figure>
+
 
 ### A combination of both
 
@@ -55,6 +72,12 @@ Height in humans depends on the alleles inherited and on diet and health while g
 ### Continuous and discontinuous variation
 
 The section heading names these two types. Continuous variation shows a full range of values with no gaps, such as height or leaf length. Discontinuous variation falls into separate groups, such as blood group. Data on variation is often collected from a sample, so a larger sample gives a more reliable picture.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--01-variation-types.webp" width="900" height="1050" alt="Two sketch graphs. A histogram with touching bars shows continuous variation using the hand span example (3, 7, 12, 6, 2 students in 2 cm classes from 16 to 26 cm); it has a range between two extremes and is caused by genes and the environment. A bar chart with separate bars for blood groups A, B, AB and O shows discontinuous variation: limited groups, genes only. Blood group bar heights are illustrative." loading="lazy">
+  <figcaption>Continuous data give a histogram with touching bars; discontinuous data give a bar chart with gaps.</figcaption>
+</figure>
+
 
 ### Worked example 1: separating genes from environment
 
@@ -87,6 +110,12 @@ We now know that in the vast majority of cases this type of inheritance cannot o
 | What is passed on? | The change acquired by the individual | Genes (alleles) |
 | Role of the environment | Causes the useful change | Selects which individuals survive and breed |
 | Status | Not supported in the vast majority of cases | The accepted explanation |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species--08-lamarck-vs-selection.webp" width="900" height="880" alt="Top: a wading bird stretches its legs, but short-legged chicks follow because a stretched leg is not passed on in the genes. Bottom: legs vary because of different alleles, long-legged birds survive and breed, and the next generation has more long-legged chicks." loading="lazy">
+  <figcaption>Natural selection acts on inherited variation; a stretched leg is not inherited.</figcaption>
+</figure>
+
 
 ## 3.6.2 b: Natural selection
 
@@ -131,6 +160,22 @@ The specification expects you to understand the time scales involved. Evolution 
 - The number of generations matters more than the number of years. A bacterium that divides every 30 minutes passes through 40 generations in 40 x 30 min = 1200 min = **20 hours**. A species with a generation time of 25 years needs 40 x 25 = **1000 years** for the same 40 generations.
 - In 1 million years, a species with a 20-year generation time goes through 1 000 000 / 20 = **50 000** generations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species--09-drought-beak-survival.webp" width="900" height="930" alt="Grouped bars for the lesson data (made up): 240 birds in four beak-depth classes before a drought and 88 survivors. Survival rises from 10 to 80 percent with beak depth, overall survival is 36.7 percent and the mean beak depth rises from 8.8 to 9.9 mm." loading="lazy">
+  <figcaption>Birds with deeper beaks are more likely to survive the drought.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species--10-generation-time.webp" width="900" height="830" alt="Forty generations take a bacterium dividing every 30 minutes 20 hours, but take a species with 25-year generations 1000 years. A species with a 20-year generation time passes through 50 000 generations in a million years." loading="lazy">
+  <figcaption>Evolution depends on the number of generations, which can be very quick or very slow in years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
+
 ## 3.6.2 c: How new species arise
 
 The specification gives four stages, in order:
@@ -150,6 +195,17 @@ A species of lizard lives on a plain. Over thousands of years the plain turns to
 - **Speciation:** after many generations the two populations differ so much that, if brought together, they cannot breed to produce fertile offspring. They are two species.
 
 Fertile offspring are the test. Two kinds of animal may mate and still be separate species if their young are sterile. The mule, the offspring of a mare and a male donkey, is normally sterile, so horses and donkeys are separate species.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species--02-mule-species-test.webp" width="900" height="940" alt="A mare and a male donkey can mate and produce a mule, but the mule is normally sterile. Two kinds of animal that cannot produce fertile offspring are separate species, so horses and donkeys are separate species." loading="lazy">
+  <figcaption>A mule shows that horses and donkeys are separate species: they can mate but their young are sterile.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--13-speciation-steps.webp" width="900" height="1030" alt="Four stages with example pale and dark beetles: one population, split by a river, each group still varied; different ground selects different variants; the groups cannot interbreed to produce fertile offspring so they are two new species." loading="lazy">
+  <figcaption>Isolation plus different selection can give two species that cannot interbreed.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -48,6 +48,12 @@ Examples to be ready with:
 
 Use the words "stored" and "less useful", not "lost" or "used up". An answer that says energy is "used up" contradicts conservation of energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss--06-dissipation-freewheel.webp" width="900" height="1160" alt="A freewheeling cyclist has a kinetic store of 12 illustrative units. After stopping, 5 units are stored thermally in the brake blocks, 3 in the wheel hubs and 4 in the surrounding air. Nothing is destroyed, but the energy is spread too thinly to reuse." loading="lazy">
+  <figcaption>Dissipation: the total stays the same but the energy ends up spread through less useful thermal stores.</figcaption>
+</figure>
+
+
 ## Energy transfers from batteries and the mains (P7.2b)
 
 Two sources are named in the specification.
@@ -76,6 +82,12 @@ Worked example 1. A battery-powered toy crane lifts a 0.75 kg load through 1.6 m
 2. Wasted energy = 18 − 11.76 = 6.24 J, stored thermally in the motor, wires and gears and as sound.
 3. Efficiency = 11.76 / 18 = 0.653, which is 65% to 2 significant figures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss--07-motor-vs-heating-device.webp" width="900" height="990" alt="A motor takes electrical energy; the useful output is kinetic and the wasted outputs are warm wires, friction in bearings and gears, and sound. A heating device takes electrical energy; useful output is the thermal store of the water or room, and wasted outputs are the casing and air, cooling to table and air, and steam." loading="lazy">
+  <figcaption>Both devices waste energy by storing it somewhere other than where you want it.</figcaption>
+</figure>
+
+
 ## Power ratings and stored energy (P7.2c)
 
 Power is the rate of energy transfer. The power rating on an appliance says how much energy it transfers from the supply each second when it is working. A 2 kW kettle takes 2000 J every second. This is measured in watts: 1 W is 1 joule per second.
@@ -94,6 +106,17 @@ Worked example 2. A 2.4 kW kettle runs for 150 s.
 Worked example 3. A 1.8 kW heater is on for 3.5 hours. E = 1.8 × 3.5 = 6.3 kW h. No conversion to joules is needed.
 
 The specification suggests using joulemeters to investigate the power of different appliances. A joulemeter reads the energy transferred electrically, so you can divide it by the time to find the power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss--07-power-energy-time.webp" width="900" height="1130" alt="Two power-time graphs where the shaded rectangle is the energy. A 2.4 kW kettle for 150 s transfers 360 000 J. A 1.8 kW heater for 3.5 hours transfers 6.3 kW h. One kW h is 1000 W for 3600 s, which is 3.6 MJ." loading="lazy">
+  <figcaption>Energy transferred is the area under a power-time graph: E = P t.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--06-power-graph.webp" width="900" height="810" alt="Energy against time graph. A 400 W motor reaches 6000 J in 15 s. A 200 W motor needs 30 s for the same energy. A steeper line means more power." loading="lazy">
+  <figcaption>Power is energy transferred per second.</figcaption>
+</figure>
+
 
 ## Efficiency (P7.2d)
 
@@ -124,6 +147,27 @@ Worked example 6 (power and efficiency together). A cordless drill has an input 
 
 In each case the useful and wasted energies add up to the input.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss--06-efficiency-four-worked-examples.webp" width="900" height="1020" alt="Four bars each split into useful and wasted energy: toy crane 11.76 J useful and 6.24 J wasted from 18 J (65%); pump 612 J and 238 J from 850 J (72%); heating system 1470 J and 2730 J from 4200 J (35%); drill 540 J and 360 J from 900 J (60%)." loading="lazy">
+  <figcaption>In every case useful plus wasted energy adds up to the input.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--05-efficiency-sankey.webp" width="900" height="920" alt="Two Sankey diagrams with band widths in proportion. A motor takes in 500 J, 350 J is useful and 150 J wasted, so efficiency is 70%. A generator takes in 2000 W, 1600 W is useful and 400 W wasted, so efficiency is 80%." loading="lazy">
+  <figcaption>Efficiency is useful output divided by total input, times 100%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--03-sankey-lift.webp" width="900" height="840" alt="A Sankey diagram drawn to scale: 200 J from a battery splits into 147 J gravitational potential energy and 53 J thermal and sound." loading="lazy">
+  <figcaption>Energy in equals energy out: 200 J = 147 J + 53 J.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--08-sankey-diagram.webp" width="900" height="1000" alt="A Sankey diagram: 100 J enters; 10 J, 50 J and 5 J are wasted at the boiler, turbine and generator, leaving 35 J electrical. Efficiency is 35 / 100 = 35%." loading="lazy">
+  <figcaption>A Sankey diagram shows energy flow with arrow width in proportion to energy; efficiency = useful / total.</figcaption>
+</figure>
+
+
 ## Increasing efficiency (P7.2e)
 
 Efficiency rises when less of the input is stored in unwanted ways. Ideas to describe:
@@ -143,6 +187,22 @@ Efficiency rises when less of the input is stored in unwanted ways. Ideas to des
 
 The specification suggests examining thermograms of houses. These are images that show surface temperature by colour. Bright areas of a wall or roof mean energy is leaving faster there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss--09-lubrication-friction.webp" width="900" height="1060" alt="Two magnified views of sliding surfaces. Dry: bumps on the surfaces catch at contact points, so work is done against friction and energy is stored thermally. Oiled: an oil layer keeps the surfaces apart, so friction and the thermal store are smaller." loading="lazy">
+  <figcaption>A layer of oil keeps rubbing surfaces apart, so less input energy is stored thermally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss--08-insulation-traps-air.webp" width="900" height="1180" alt="Three panels show loft fibres holding air in pockets, double glazing with trapped gas between two panes, and a foam-filled cavity wall. Each has a thick arrow of energy entering and a thin arrow leaving, so insulation slows the transfer but does not stop it." loading="lazy">
+  <figcaption>Trapped air in small pockets cannot circulate, so conduction is poor and convection is stopped.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss--09-house-thermogram.webp" width="900" height="850" alt="Two coloured house outlines like thermograms. Before insulation windows are hottest, then roof and door; after insulation roof and walls are cooler. A legend runs from cooler to hotter." loading="lazy">
+  <figcaption>On a thermogram, hotter and brighter areas show where energy escapes fastest.</figcaption>
+</figure>
+
+
 ## Cooling of a building (P7.2g)
 
 This is qualitative. Two properties of the walls matter.
@@ -153,6 +213,17 @@ This is qualitative. Two properties of the walls matter.
 So the best wall for keeping a building warm is thick and made of a low-conductivity material. Two other factors matter in practice: the bigger the temperature difference between inside and outside, the faster the building cools, and windows, doors and gaps can let much more energy through than the walls.
 
 The specification suggests investigating rate of cooling with insulated and non-insulated copper cans. For a fair test, use the same volume of hot water at the same starting temperature, the same lid and the same room, and change only the insulation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss--08-wall-cooling.webp" width="900" height="1100" alt="Four wall cross-sections, warm inside left and cold outside right. A thin wall of high conductivity lets the widest stream of energy through. A thick wall of high conductivity and a thin wall of low conductivity give narrower streams. A thick wall of low conductivity gives the narrowest stream, so the slowest cooling." loading="lazy">
+  <figcaption>Thicker walls and lower thermal conductivity slow the rate of cooling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss--10-cooling-cans-fair-test.webp" width="900" height="1010" alt="Two copper cans of hot water with lids and thermometers, one bare and one with an insulating jacket. Keep the volume, starting temperature, lid and room the same and change only the insulation." loading="lazy">
+  <figcaption>A fair test changes only the insulation.</figcaption>
+</figure>
+
 
 ## Common errors
 

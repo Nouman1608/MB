@@ -74,6 +74,12 @@ x = (4 − ln 9)/3 = 0.601 (3 s.f.)
 - The range of y = e^(ax + b) + c depends on c; the range of y = ln x is all real numbers.
 - ln x has a vertical asymptote; eˣ has a horizontal one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--01-inverse-graphs.webp" width="900" height="900" alt="The orange curve y = e^x passes through (0, 1) and (1, e) and approaches the x-axis. The blue curve y = ln x passes through (1, 0) and (e, 1) and approaches the y-axis. They are mirror images in the dashed line y = x, so the functions are inverses." loading="lazy">
+  <figcaption>The graph of ln x is the reflection of eˣ in y = x.</figcaption>
+</figure>
+
+
 ## 3.3 Logarithmic graphs
 
 **Method in steps for a table of data.**
@@ -96,6 +102,17 @@ x = (4 − ln 9)/3 = 0.601 (3 s.f.)
 
 **Distinctions to remember.** Read log a or log k off the vertical axis; never read a or k directly. If the horizontal axis shows log x, then the vertical axis crossing is where x = 1, not where x = 0. If the horizontal axis shows x, the crossing is x = 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--02-base-family.webp" width="900" height="1000" alt="Curves 2^x, e^x, 3^x and (1/2)^x all pass through (0, 1), lie above the x-axis and have it as an asymptote. Bases above 1 give growth, with e^x between 2^x and 3^x; (1/2)^x decays and mirrors 2^x in the y-axis." loading="lazy">
+  <figcaption>Every aˣ passes through (0, 1); a &gt; 1 grows and a &lt; 1 decays.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--07-linear-form.webp" width="900" height="1110" alt="ln y against ln x is a straight line for y = ax^n: through (0.5, 1.85) and (2.5, 4.85), gradient n = 1.5 and intercept ln a = 1.10. lg y against x is a straight line for y = kb^x with intercept lg k = 0.70 and gradient lg b = 0.14." loading="lazy">
+  <figcaption>A straight line on log axes gives gradient and intercept for power and exponential laws.</figcaption>
+</figure>
+
+
 ## 6.1 Locating roots
 
 **Method in steps.**
@@ -112,6 +129,12 @@ For a root to a given number of decimal places, test the two values half a unit 
 - A pole in the interval, for example tan x between 1 and 2, can give a sign change with no root.
 - A repeated root, as in (x − 1)², touches the axis without changing sign.
 - Two roots in one interval can hide each other, because the signs match at both ends.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--06-hidden-quadratic.webp" width="900" height="1080" alt="The parabola u^2 - 5u + 6 crosses the u-axis at 2 and 3; u &lt; 0 is shaded as impossible since e^x &gt; 0. The curve y = e^(2x) - 5e^x + 6 crosses the x-axis at x = ln 2 and ln 3." loading="lazy">
+  <figcaption>Substituting u = eˣ turns e²ˣ − 5eˣ + 6 = 0 into a quadratic with roots ln 2 and ln 3.</figcaption>
+</figure>
+
 
 ## 6.2 Iteration
 

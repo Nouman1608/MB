@@ -42,6 +42,17 @@ Also on this topic: [practice questions](/resources/oxfordaqa-a-level-business-a
 3. Link to a marketing decision (build, hold, harvest, divest).
 4. Judge: is the portfolio balanced? What does it not tell you (profit, the market definition, future change)?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--06-ansoff-matrix.webp" width="900" height="880" alt="Two by two grid of existing and new products against existing and new markets: market penetration (lowest risk), product development and market development (higher risk), diversification (highest risk)." loading="lazy">
+  <figcaption>Ansoff’s matrix ranks growth options by risk; moving into new products and new markets together is riskiest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--07-boston-matrix.webp" width="900" height="940" alt="Scatter chart of market growth against relative market share with dividing lines at 5 percent and 1. Salted Twists is a cash cow, Lentil Puffs a star, Seaweed Crisps a question mark and Crunch Rods a dog. An arrow shows cash cow money funding the question mark." loading="lazy">
+  <figcaption>The Boston Matrix classifies each product by market growth and relative share.</figcaption>
+</figure>
+
+
 ## 2. The financial statements
 
 **Income statement** (a period): revenue − cost of sales = **gross profit**; − operating expenses = **operating profit**; − interest − taxes = **net profit**.
@@ -165,6 +176,17 @@ Average inventory = (opening inventory + closing inventory) ÷ 2.
 11. Shared values make staff resist new ways of working when the market changes.
 12. A controlled, competitive culture: staff follow instructions and compete with each other rather than share ideas, because leadership style and reward systems both push that way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
+  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
+  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using total assets, or equity alone, in place of capital employed for ROCE or gearing.
@@ -177,6 +199,12 @@ Average inventory = (opening inventory + closing inventory) ÷ 2.
 - Recommending the closure of a loss-making profit centre without checking its contribution to overheads.
 - Placing products in the Boston Matrix but not linking the result to a marketing decision.
 - Listing culture factors without showing how each one shapes behaviour in the case business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
+  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

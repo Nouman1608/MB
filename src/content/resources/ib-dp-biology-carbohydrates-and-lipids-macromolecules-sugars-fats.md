@@ -58,6 +58,12 @@ Carbon-carbon and carbon-hydrogen bonds are stable at body temperature, so these
 (a) 7 nm ÷ 1000 = 0.007 µm.
 (b) Image size = actual size × magnification = 7 nm × 500 000 = 3 500 000 nm = 3.5 mm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--01-carbon-skeletons.webp" width="900" height="1120" alt="Methane shows one carbon atom with four single bonds. Four carbon skeleton shapes are drawn with carbons as dots: an unbranched chain (fatty acid tail), a branched chain (leucine side chain), a single ring (glucose, five carbons and one oxygen) and four fused rings (steroid)." loading="lazy">
+  <figcaption>Carbon forms up to four bonds, so it builds chains, branches and rings.</figcaption>
+</figure>
+
+
 ## B1.1.2 and B1.1.3 Building and breaking macromolecules
 
 A monomer is a small molecule that can join to others. A polymer is a long chain of monomers, and a macromolecule is a very large molecule such as a polymer. You should know three families:
@@ -78,6 +84,12 @@ A chain of 1000 glucose units has 999 glycosidic bonds, so 999 water molecules a
 
 Digestion is hydrolysis. Enzymes such as amylase hydrolyse starch to smaller sugars so that monomers small enough to be absorbed are released.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--02-condensation-hydrolysis.webp" width="900" height="1140" alt="Two glucose rings each carry an OH group. An OH from one and an H from the other leave as water, and the remaining oxygen is the glycosidic bond in maltose. Hydrolysis reverses this. A chain of five units has four bonds and four waters released; 1000 units give 999." loading="lazy">
+  <figcaption>Condensation releases water to join monomers; hydrolysis uses water to split them.</figcaption>
+</figure>
+
+
 ## B1.1.4 Monosaccharides
 
 Monosaccharides are single sugar units. In ring diagrams you can tell the type by counting carbon atoms, including the carbon outside the ring.
@@ -94,6 +106,12 @@ Glucose is the model example. Link each property to its use:
 | Chemically stable | It does not react readily at cell pH, so it can be carried and held without being altered |
 | Yields energy on oxidation | Oxidation in respiration releases energy used to make ATP |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--03-ring-sugars.webp" width="900" height="1170" alt="Ribose (a pentose) has four carbons in the ring plus carbon 5 as a side group. Alpha- and beta-glucose (hexoses) have five ring carbons plus carbon 6 as CH2OH. In alpha-glucose the OH on carbon 1 points down; in beta-glucose it points up." loading="lazy">
+  <figcaption>Count carbons to tell pentoses from hexoses; read the OH on carbon 1 for alpha or beta.</figcaption>
+</figure>
+
+
 ## B1.1.5 Polysaccharides as energy stores
 
 Starch (plants) and glycogen (animals) are polymers of alpha-glucose. Both are suited to storage because:
@@ -103,6 +121,12 @@ Starch (plants) and glycogen (animals) are polymers of alpha-glucose. Both are s
 - **Easy to add to or remove from.** Glucose units are added by condensation and removed by hydrolysis. Branching creates many free ends, so many units can be mobilised at once.
 
 Starch is a mixture of amylose (unbranched, coiled) and amylopectin (branched). Glycogen is more highly branched and is stored mainly in the liver and muscle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--04-alpha-beta-chains.webp" width="900" height="1230" alt="Alpha-glucose units all face the same way, so the chain coils (starch) and can branch (amylopectin, glycogen), giving many free ends. In beta-glucose chains every other unit is flipped, so the chain is straight; many hydrogen bonds link neighbouring chains into microfibrils." loading="lazy">
+  <figcaption>Same-way units coil and branch; flipped units make straight chains that hydrogen-bond.</figcaption>
+</figure>
+
 
 ## B1.1.6 Cellulose
 
@@ -123,6 +147,12 @@ A glycoprotein is a protein with short carbohydrate chains attached. Many sit in
 | AB | none | none |
 | O | anti-A and anti-B | A, B, AB |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--05-abo-glycoproteins.webp" width="900" height="1130" alt="Red cells of groups A, B, AB and O carry different surface glycoprotein antigens; plasma antibodies are the opposite (A: anti-B, B: anti-A, AB: none, O: anti-A and anti-B). A grid shows which donor cells each recipient attacks, matching the lesson table." loading="lazy">
+  <figcaption>Antibodies attack any antigen the recipient lacks.</figcaption>
+</figure>
+
+
 ## B1.1.8 Lipids are hydrophobic
 
 Lipids are biological substances that readily dissolve in non-polar solvents such as hexane, yet barely dissolve in water. The group includes fats, oils, waxes and steroids. They share a large proportion of non-polar C-H bonds, which cannot form hydrogen bonds with water.
@@ -138,6 +168,12 @@ A fatty acid has a long hydrocarbon chain and a carboxyl group (-COOH) at one en
 
 glycerol + 3 palmitic acid → tripalmitin + 3 H2O.
 Mass = 92.09 + 3 × 256.43 − 3 × 18.02 = 807.3, which is C51H98O6.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--06-triglyceride-phospholipid.webp" width="900" height="1260" alt="A triglyceride has glycerol joined to three fatty acid tails by three ester bonds, releasing three water molecules. A phospholipid has glycerol joined to two fatty acids and a phosphate group by three condensation reactions, also releasing three water molecules." loading="lazy">
+  <figcaption>Both lipids form by three condensation reactions that release three waters.</figcaption>
+</figure>
+
 
 ## B1.1.10 Saturated and unsaturated fatty acids
 
@@ -159,6 +195,12 @@ Treat these values as data given in a question. From stearic to oleic, one C=C l
 
 Plants usually store energy as oils rich in unsaturated fatty acids, which stay liquid. Endotherms such as mammals store fat richer in saturated fatty acids, which is solid or semi-solid at body temperature and so holds its place in adipose tissue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--07-fatty-acid-saturation.webp" width="900" height="1100" alt="Stearic acid (no C=C) is straight with a melting point of 69 degrees C, oleic acid (one cis C=C) bends once at 13 degrees C, and linoleic acid (two cis C=C) bends twice at minus 5 degrees C. More C=C bonds means more bends, weaker packing and a lower melting point." loading="lazy">
+  <figcaption>Each C=C bend loosens packing, so melting point falls (data from the lesson).</figcaption>
+</figure>
+
+
 ## B1.1.11 Adipose tissue
 
 Adipose tissue stores triglycerides in large droplets inside fat cells.
@@ -170,9 +212,21 @@ Fat: 100 000 ÷ 37 = 2703 g, or 2.70 kg. Carbohydrate: 100 000 ÷ 17 = 5882 g, o
 
 **Thermal insulation.** Fat conducts heat poorly. A layer under the skin reduces heat loss in endotherms, which keep a body temperature above their surroundings. Seals and whales living in cold water have thick blubber; water removes heat far faster than air. Animals in warm habitats need little. Ectotherms rely less on insulation as they do not maintain a high body temperature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--08-fat-vs-carbohydrate-energy.webp" width="900" height="1090" alt="Lipids store 37 kJ per gram and carbohydrates 17 kJ per gram. To store 100 000 kJ you need 2.70 kg of lipid or 5.88 kg of carbohydrate, so lipid is 2.18 times as energy-dense. Fat is the long-term store; glycogen is the short-term store." loading="lazy">
+  <figcaption>Fat packs about twice the energy per gram of carbohydrate.</figcaption>
+</figure>
+
+
 ## B1.1.12 Phospholipid bilayers
 
 Phospholipids are **amphipathic**: part of the molecule is hydrophilic (the phosphate head, which attracts water) and part is hydrophobic (the two fatty acid tails). In water the tails are pushed away from water and the heads face it. This arranges the molecules in a double layer, the bilayer, with tails inside. It forms spontaneously and reseals if damaged. The core is a barrier to ions and large polar molecules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--09-bilayer-steroids.webp" width="900" height="800" alt="A phospholipid bilayer about 7 nm thick has hydrophilic heads facing water on both sides and hydrophobic tails forming the core. A non-polar steroid with four fused rings dissolves in the core and passes through without a transport protein; a sodium ion is blocked." loading="lazy">
+  <figcaption>Non-polar steroids cross the hydrophobic core; ions cannot.</figcaption>
+</figure>
+
 
 ## B1.1.13 Steroids and the bilayer
 

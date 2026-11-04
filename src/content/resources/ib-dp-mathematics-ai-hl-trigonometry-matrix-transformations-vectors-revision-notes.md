@@ -100,6 +100,12 @@ Rows separated by semicolons.
 
 Quick check: the columns of a matrix are the images of (1, 0) and (0, 1).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--06-matrix-columns-determinant.webp" width="900" height="1141" alt="The unit square under M = (0 -1; 2 0): i goes to (0,2) and j goes to (-1,0), the columns of M. The image rectangle has area 2, equal to det M, compared with area 1." loading="lazy">
+  <figcaption>The columns of a matrix are the images of i and j, and |det| is the area scale factor.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 > **Ambiguous case of the sine rule**
@@ -135,6 +141,22 @@ Quick check: the columns of a matrix are the images of (1, 0) and (0, 1).
 > 1. Write both in parametric form (λ for one, μ for the other).
 > 2. Solve two of the equations for λ and μ.
 > 3. Check the third. If it holds, substitute to get the point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--03-ambiguous-case.webp" width="900" height="866" alt="Angle A = 40 degrees, AC = 9 and BC = 7. A circle of radius 7 about C meets the base line at two points B1 and B2, giving two triangles with angle B equal to 124.3 degrees or 55.7 degrees. Both exist since 40 + 124.3 is less than 180." loading="lazy">
+  <figcaption>Two sides and a non-included angle can fit two triangles, so check both B and 180 - B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--04-trig-graphical-solve.webp" width="900" height="947" alt="The curve y = 5 sin x and the line y = x + 1 for x from 0 to 2pi cross twice, at x = 0.253 and x = 2.40, the solutions found on the GDC in radian mode." loading="lazy">
+  <figcaption>Graph both sides in radian mode and read the intersections on the given interval.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--08-variable-velocity-ball.webp" width="900" height="791" alt="The path of a ball starting at (0,2) with v = (12, 15 - 9.8t). Integrating gives x = 12t and y = 2 + 15t - 4.9t^2. It peaks near 13.5 m at 1.53 s and lands at t = 3.19 s, x = 38.3 m." loading="lazy">
+  <figcaption>Integrate each velocity component and use the start position to find the constants.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -187,6 +209,27 @@ Quick check: the columns of a matrix are the images of (1, 0) and (0, 1).
 11. Cross product (−3, 1, 6), magnitude √46 = **6.78 units²**.
 12. |3i − 4j| = 5, so **v = 6i − 8j** m s⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--01-radian-arc-sector.webp" width="900" height="880" alt="A sector of radius 8 cm and angle 1.2 rad. One radius laid along the arc covers 1 radian and 0.2 of a radius completes it, giving arc length 9.6 cm, sector area 38.4 cm2 and perimeter 25.6 cm. Also shows 150 degrees = 5pi/6 = 2.62 rad." loading="lazy">
+  <figcaption>Arc length is rtheta and sector area is half r squared theta, with theta in radians.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--02-unit-circle.webp" width="900" height="1189" alt="The unit circle with the point (-0.8, 0.6) at an obtuse angle of about 143.1 degrees. Its x-coordinate is cos theta = -0.8 and its y-coordinate is sin theta = 0.6, so cos squared plus sin squared is 1 and tan theta is -0.75. Quadrant signs of (cos, sin) are shown." loading="lazy">
+  <figcaption>On the unit circle cos is the x-coordinate and sin is the y-coordinate, and the quadrant fixes the sign.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--05-matrix-composition.webp" width="900" height="1175" alt="Triangle PQR with vertices (1,1), (4,1), (1,3) is rotated 90 degrees anticlockwise, then stretched vertically by 2. The single matrix is SR = (0 -1; 2 0) and the image vertices are (-1,2), (-1,8), (-3,2). Area goes from 3 to 6." loading="lazy">
+  <figcaption>When A is applied first and then B, the single matrix is BA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--09-scalar-vector-product.webp" width="900" height="972" alt="Vectors a and b drawn in their own plane at 76.5 degrees (1.34 rad). The parallelogram on a and b has area |a x b| = root 278 = 16.7, the triangle 8.34. The component of a along b is 0.873 and perpendicular to b is 3.64. a x b = (-14,-1,9) points into the page." loading="lazy">
+  <figcaption>The scalar product gives the angle and the component along b; the size of the vector product gives the area.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving the GDC in degree mode on an HL question where radians are assumed.
@@ -199,6 +242,12 @@ Quick check: the columns of a matrix are the images of (1, 0) and (0, 1).
 - Normalising with the wrong magnitude, or forgetting to multiply by the speed.
 - Giving the obtuse angle when the question asks for the acute angle between two lines.
 - In closest-approach questions, giving the time but not the distance, or dropping units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--07-closest-approach.webp" width="900" height="1155" alt="Ship A moves along (2,1)+t(3,4) and ship B along (14,5)+t(-1,2). Segments join their positions at t = 0, 1, 2, 2.8 and 3.4 hours; the shortest, at t = 2.8 h, has AB = (0.8, -1.6) and length 1.79 km." loading="lazy">
+  <figcaption>The ships are closest where the squared separation is least, at t = 2.8 hours.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

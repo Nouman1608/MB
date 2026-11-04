@@ -41,6 +41,12 @@ Links: [integration practice questions](/resources/a-level-maths-9709-pure-mathe
 
 Not on Paper 2: the general method of substitution (the syllabus says it is not required), integration by parts, partial fractions and the kf′(x)/f(x) pattern. Those are section 3.5, Paper 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
+  <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
+</figure>
+
+
 ## Standard results
 
 | f(x) | ∫ f(x) dx | Check by differentiating |
@@ -134,6 +140,12 @@ Not printed in MF19. n strips, n + 1 ordinates.
 
 Worked reminder: two strips for ∫₂⁴ ln x dx give ½ × 1 × (ln 2 + 2 ln 3 + ln 4) = 2.14 (3 s.f.). The graph of ln x bends downward, so this is an under-estimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--02-area-below-axis.webp" width="900" height="760" alt="The curve y = x² − 3x lies below the x-axis from 0 to 3 (integral −9/2) and above it from 3 to 4 (integral 11/6). The area is found by adding the sizes, 19/3, whereas the single integral from 0 to 4 is −8/3." loading="lazy">
+  <figcaption>Regions below the axis give negative integrals, so find the area in separate pieces.</figcaption>
+</figure>
+
+
 ## Exact values you need at the limits
 
 "Exact value" questions depend on these. Learn them so you never reach for a decimal.
@@ -159,6 +171,12 @@ Paper 2 questions often link integration to another section of the paper or to P
 - **With 2.3 (trigonometry):** writing a sin x + b cos x as R cos(x − α) can turn 1/(a sin x + b cos x)² into a multiple of sec²(x − α).
 - **With 1.8 (Paper 1 integration):** areas under exponential or trig curves, finding a curve from dy/dx and a point, and volumes of revolution, where y² must be formed before integrating.
 - **With the trapezium rule:** an estimate is compared with an exact value found by integration, and you explain the sign of the error from the shape of the curve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--01-constant-of-integration.webp" width="900" height="748" alt="Three curves y = 3√(4x + 1) + c are vertical shifts of each other with identical gold tangents at x = 2. Only c = 1 passes through (2, 10), so a point on the curve fixes the constant. This is the lesson's worked example 5." loading="lazy">
+  <figcaption>Integrating gives a family of curves; a known point picks out one of them.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -65,6 +65,17 @@ SnO₂ + 2C → Sn + 2CO
 
 Name the whole substance: "tin(IV) oxide is reduced", not "tin is reduced".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-types-of-chemical-reactions--11-tin-oxide-carbon-oxygen-transfer.webp" width="900" height="790" alt="SnO2 + 2C gives Sn + 2CO. Two oxygen atoms move from tin(IV) oxide to carbon: SnO2 is reduced (oxidising agent), carbon is oxidised (reducing agent)." loading="lazy">
+  <figcaption>Oxygen moves from SnO2 to carbon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--01-oxygen-transfer.webp" width="900" height="960" alt="Copper(II) oxide has a copper atom bonded to oxygen, beside a hydrogen molecule. A dashed arrow shows the oxygen moving to the hydrogen. Afterwards there is a copper atom and a water molecule: copper lost oxygen (reduced) and hydrogen gained oxygen (oxidised)." loading="lazy">
+  <figcaption>In CuO + H2 -&gt; Cu + H2O oxygen moves from copper to hydrogen, so reduction and oxidation happen together.</figcaption>
+</figure>
+
+
 ## Oxidation and reduction by electrons (C3.3b, Higher Tier only)
 
 Everything here is **Higher Tier only**.
@@ -88,6 +99,12 @@ Split the ionic equation into two half equations:
 Check: electrons lost (2) = electrons gained (2).
 
 The same idea covers a non-metal displacement such as Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂. Chlorine gains electrons (reduced, the oxidising agent). Bromide ions lose electrons (oxidised).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
+</figure>
+
 
 ## Acids and alkalis in water (C3.3c)
 
@@ -123,6 +140,12 @@ In any aqueous neutralisation, the reaction that actually happens is:
 
 In KOH + HNO₃, the K⁺ and NO₃⁻ ions are unchanged, so they are left out. Every acid–alkali neutralisation in water reduces to this one equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--03-neutralisation.webp" width="900" height="900" alt="A larger oval of bases contains a smaller oval of alkalis; copper(II) oxide is a base but not an alkali. Beakers show five H+ ions plus five OH- ions giving five water molecules." loading="lazy">
+  <figcaption>Every alkali is a base, and neutralisation is H+ + OH- making water.</figcaption>
+</figure>
+
+
 ## Acids with carbonates and metals (C3.3f)
 
 Two general patterns:
@@ -145,6 +168,12 @@ Two general patterns:
 
 You will see fizzing in both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--02-acid-reactions.webp" width="900" height="975" alt="Four test tubes: acid with metal gives salt and hydrogen; acid with base gives salt and water; acid with carbonate gives salt, water and carbon dioxide; a base warmed with an ammonium salt releases ammonia." loading="lazy">
+  <figcaption>Know the products of each reaction, including the easily forgotten carbon dioxide.</figcaption>
+</figure>
+
+
 ## Making a pure, dry salt (PAG C7)
 
 The specification's practical suggestion for C3.3d is the production of a pure dry sample of a salt (PAG C7). Here is the method for **magnesium sulfate** from magnesium oxide and dilute sulfuric acid:
@@ -156,6 +185,12 @@ The specification's practical suggestion for C3.3d is the production of a pure d
 5. Leave it to cool so crystals grow. Filter them off and **dry** them between sheets of filter paper or in a warm oven.
 
 Excess solid can be filtered off; excess acid would stay in the solution and contaminate the salt.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--06-soluble-salt-prep.webp" width="900" height="1130" alt="Four steps: add excess solid to acid, filter off the unreacted solid, evaporate the filtrate until crystals start to form, then crystallise, filter and dry. A note says that with an alkali you titrate to the exact volume." loading="lazy">
+  <figcaption>Excess solid guarantees all the acid reacts; filter before evaporating.</figcaption>
+</figure>
+
 
 ## Dilute, concentrated, weak and strong (C3.3g, Higher Tier only)
 
@@ -177,6 +212,17 @@ Solution A has 0.40 mol of hydrochloric acid in 500 cm³. Solution B has 0.15 mo
 
 Estimate first (M1d): B has over a third as much acid in a fifth of the volume, so it should be more concentrated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-types-of-chemical-reactions--09-concentration-compare.webp" width="900" height="770" alt="Beaker A holds 0.40 mol in 500 cm3 (0.80 mol/dm3); beaker B holds 0.15 mol in 100 cm3 (1.5 mol/dm3). Dots are packed closer in B so B is more concentrated." loading="lazy">
+  <figcaption>Concentration is amount per dm3, not total amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--04-strong-weak-acids.webp" width="900" height="1090" alt="Two boxes of ten acid particles. In hydrochloric acid all ten split into H+ and Cl- ions. In ethanoic acid only two split and eight stay as molecules, so it uses a reversible arrow." loading="lazy">
+  <figcaption>Strong acids split completely; weak acids only partly.</figcaption>
+</figure>
+
+
 ## pH and hydrogen ion concentration (C3.3h, C3.3i, C3.3j)
 
 **C3.3h (both tiers):** relative acidity and alkalinity are measured by **pH**. The scale usually runs from 0 to 14. pH 7 is **neutral**. Below 7 is acidic: the lower the number, the more acidic. Above 7 is alkaline: the higher the number, the more alkaline.
@@ -191,6 +237,12 @@ Estimate first (M1d): B has over a third as much acid in a fifth of the volume, 
 
 **(b)** 20 cm³ of a strong acid at pH 2 is diluted with water to 2000 cm³. The volume is 100 times larger, so the H⁺ concentration is 100 times smaller. 100 = 10 × 10, so the pH rises by 2, to **pH 4**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--06-agents.webp" width="900" height="910" alt="Zinc is the reducing agent: it is itself oxidised and passes two electrons to Cu2+. Cu2+ is the oxidising agent: it is itself reduced and oxidises zinc." loading="lazy">
+  <figcaption>The oxidising agent is the substance that gets reduced; the reducing agent is the one that gets oxidised.</figcaption>
+</figure>
+
+
 ### pH titration curves (Higher Tier only)
 
 When an alkali is added from a burette to an acid while a pH probe records the pH, the readings make a **titration curve**. These values are for 25.0 cm³ of a strong acid with a strong alkali of equal concentration:
@@ -201,12 +253,34 @@ When an alkali is added from a burette to an acid while a pH probe records the p
 
 The pH rises **slowly** at first, because plenty of H⁺ remains. Near exact neutralisation it jumps **steeply** through pH 7 over a tiny volume. Then excess OH⁻ makes the solution alkaline and the pH **levels off** high. The middle of the steep part marks the volume that neutralises the acid, 25.0 cm³ here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-types-of-chemical-reactions--01-ph-titration-curve.webp" width="900" height="810" alt="Graph of pH against alkali added to 25.0 cm3 of strong acid, plotted from the lesson table. The pH rises slowly, jumps through pH 7 at 25.0 cm3, then levels off high." loading="lazy">
+  <figcaption>The steep jump through pH 7 marks the volume that neutralises the acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-types-of-chemical-reactions--02-ph-factor-of-ten.webp" width="900" height="770" alt="Rows of squares show 1, 10, 100 and 1000 units of H+ at pH 4, 3, 2 and 1. Each step down the pH scale is ten times more H+. Diluting a strong acid 100 times raises the pH by 2." loading="lazy">
+  <figcaption>Each pH step down means ten times more H+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--01-ph-and-indicators.webp" width="900" height="1010" alt="The universal indicator bar runs from red (pH 0) through green (pH 7) to purple (pH 14). Acidic solutions have more H+ ions, alkaline ones more OH- ions. Three tube pairs show litmus, thymolphthalein and methyl orange in acid and alkali." loading="lazy">
+  <figcaption>pH colours and indicator colours show what ions the solution holds.</figcaption>
+</figure>
+
+
 ## Measuring pH (C3.3k, PAG C6)
 
 The specification lists determining the pH of unknown solutions and use of pH probes as PAG C6 practical suggestions.
 
 - **Universal indicator** (solution or paper): add a few drops, or dip the paper, and match the colour against the chart. Roughly: red for strong acid, orange and yellow for weaker acid, green at 7, blue for weak alkali, purple for strong alkali. Colours vary a little between brands, so always use the chart that comes with it. It gives only an approximate whole-number pH, and the colour judgement is subjective.
 - **pH meter or pH probe**: calibrate it in buffer solutions of known pH, rinse the probe with distilled water between samples, dip it in and read the display. It gives a more precise value, works in coloured solutions, and with a data logger can record pH continuously during a titration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-types-of-chemical-reactions--10-ph-indicator-vs-probe.webp" width="900" height="1000" alt="A universal indicator colour strip pH 0 to 14 gives an approximate whole number. A pH probe is calibrated in buffers, rinsed and dipped in the sample, giving a precise reading." loading="lazy">
+  <figcaption>Indicator gives an approximate value; a probe is more precise.</figcaption>
+</figure>
+
 
 ## Common errors
 

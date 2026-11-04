@@ -41,6 +41,12 @@ Both defined relative to **carbon-12** — this is why **Ar and Mr have no units
 
 Using "relative molecular mass" for an ionic compound instead of the specification's preferred **relative formula mass** is a small but real accuracy issue examiners look for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--02-relative-atomic-mass.webp" width="900" height="960" alt="Two bars show chlorine-35 at 75% and chlorine-37 at 25%. A dashed line marks the weighted mean, 35.5, nearer the taller bar. A carbon-12 atom is shown as the exact standard of 12." loading="lazy">
+  <figcaption>Ar is the weighted mean isotope mass on a scale where carbon-12 is exactly 12, so it has no units.</figcaption>
+</figure>
+
+
 ## The mole and the Avogadro constant (3.1.2.2)
 
 ```
@@ -54,6 +60,12 @@ Practise each as its **own rearrangeable formula** — exam questions typically 
 **You are NOT expected to memorise the Avogadro constant's value** — questions needing it will provide it. The skill tested is applying it correctly, not recalling it.
 
 **Significant figures:** report results only to the limits of the **least accurate measurement** used in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--01-mole-hub.webp" width="900" height="1050" alt="A hub with the amount in moles (0.50 mol of CO2) in the centre and four double-headed arrows to mass (22.0 g), particles (3.01 x 10^23), gas volume (12.0 dm3) and solution concentration times volume. Each box shows the formula linking it to moles. The gas-volume route is tagged OCR and Edexcel." loading="lazy">
+  <figcaption>The mole is the bridge between mass, particle number, gas volume and solution quantities.</figcaption>
+</figure>
+
 
 ## Worked example: concentration to number of particles
 
@@ -73,6 +85,12 @@ Step 4: NaCl gives 2 ions per formula unit (Na+ and Cl-):
 ```
 
 **Show every step explicitly** — AQA mark schemes award method marks for correct intermediate steps even if the final answer has a small arithmetic slip. **Always name (or check) the solute** — the ionic multiplier depends on how many ions each formula unit releases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.0 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
+  <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
+</figure>
+
 
 ## Worked example: mass to moles to particles
 
@@ -100,6 +118,12 @@ Step 3: convert moles of Mg to mass
 ```
 
 This combines a gas-volume calculation with the mass/Mr/moles triangle from 3.1.2.2 across a balanced equation -- exactly the kind of multi-step question that links this sub-topic to the ideal gas equation (3.1.2.3) and to stoichiometry more broadly, rather than testing the mole concept in isolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-mole-revision-notes--01-mole-gas-mg.webp" width="900" height="960" alt="A gas syringe holds 120 cm3 of hydrogen from magnesium and excess hydrochloric acid. 120 divided by 24,000 gives 0.005 mol H2; the 1:1 ratio gives 0.005 mol Mg; times Ar 24 gives 0.12 g." loading="lazy">
+  <figcaption>Gas volume to moles, across the equation ratio, to mass.</figcaption>
+</figure>
+
 
 ## Why this sub-topic is foundational
 

@@ -59,6 +59,12 @@ The specification suggests a Doppler ball to model red-shift and a balloon to il
 
 Almost all galaxies that astronomers observe, apart from a few close to our own, show red-shift. A galaxy moving towards us would show the opposite change, a shift to shorter wavelengths.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
+
 ## Speed, distance and an expanding universe (P8.3a, Higher Tier only)
 
 The size of the shift tells you how fast a galaxy is moving away. The distance to the same galaxy can be found by other methods. When both are plotted for many galaxies, a clear pattern appears: **the more distant a galaxy, the greater its red-shift, so the faster it is receding.**
@@ -90,11 +96,23 @@ Draw dots on a balloon and inflate it. Every dot moves away from every other dot
 
 The balloon is a model, so it has limits. The galaxies themselves do not grow, only the spaces between them do.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--12-expanding-space.webp" width="900" height="1150" alt="Five dots on a stretching surface, space doubling. From dot A the other dots end up twice as far, so more distant dots move further. From dot C dots on both sides move away. No dot is the centre." loading="lazy">
+  <figcaption>Space stretching makes every dot move away from every other.</figcaption>
+</figure>
+
+
 ### What the evidence tells us
 
 - Galaxies are moving away from us, shown by red-shift (P8.3a).
 - More distant galaxies recede faster, which is what an expanding universe predicts (P8.3a).
 - Therefore the universe is expanding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--06-speed-distance-data.webp" width="900" height="830" alt="Graph of speed against distance for galaxies A to E from the lesson table. The points lie near a straight line through the origin; doubling the distance roughly doubles the speed. Higher Tier only." loading="lazy">
+  <figcaption>The lesson data show recession speed rising in step with distance.</figcaption>
+</figure>
+
 
 ## The Big Bang model (P8.3b, Higher Tier only)
 
@@ -117,6 +135,12 @@ CMBR is microwave radiation that reaches Earth from every direction in space. It
 3. Today the wavelengths are in the microwave part of the spectrum, corresponding to a very low temperature of about 2.7 K.
 
 CMBR is "left over" radiation from the early universe. An alternative to the Big Bang would need to explain it just as well.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--04-cmbr-stretching.webp" width="900" height="990" alt="Three waves, not to scale, each three times longer than the last: very short wavelength in the hot early universe, stretched as space expands, now microwaves at about 2.7 K. Arrows converge on Earth from every direction." loading="lazy">
+  <figcaption>Expansion stretched early high-energy radiation into the microwaves we detect from all directions.</figcaption>
+</figure>
+
 
 ### Why two lines of evidence matter
 
@@ -158,6 +182,12 @@ For most of its life a star is stable because these two effects are balanced. Th
 
 If fusion speeds up, the core heats and expands slightly, which lowers the density and slows fusion again. If fusion slows, gravity compresses the core, which raises the temperature and speeds fusion up again. The star stays near equilibrium.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--03-star-equilibrium.webp" width="900" height="920" alt="A star with a core: equal inward arrows for gravity and equal outward arrows for the push of fusion energy balance, so the size is steady. If fusion speeds up the core expands and fusion slows, and the reverse." loading="lazy">
+  <figcaption>Gravity pulling in balances the outward push of fusion energy, and the star corrects itself.</figcaption>
+</figure>
+
+
 ### Worked example 3: explaining stability
 
 Explain why the Sun does not collapse or blow apart.
@@ -173,6 +203,17 @@ When hydrogen in the core runs low, fusion no longer balances gravity. What happ
 - A star like the Sun swells into a red giant. It then sheds its outer layers and the core shrinks to a white dwarf.
 - A much more massive star swells into a red supergiant, then explodes as a supernova. The core may become a neutron star or a black hole.
 - A supernova scatters heavier elements. New stars and planets can later form from dust and gas that includes these elements.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--07-cloud-to-star.webp" width="900" height="1110" alt="Four steps: a cloud of dust and gas; gravity pulls a denser region together; falling inwards heats it into a protostar; the core becomes hot enough for fusion and outward and inward effects balance. Higher Tier only." loading="lazy">
+  <figcaption>From gas cloud to stable star in four steps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
+
 
 ## Common errors
 

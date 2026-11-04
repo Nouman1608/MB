@@ -63,6 +63,12 @@ structures); motivation in theory and practice; leadership
 - 1.3.5 Entrepreneurs and leaders — the role of enterprising
 individuals and leadership in business start-up and growth
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Meeting customer needs (1.3.1) and the market (1.3.2) are the most
@@ -149,6 +155,17 @@ Branding builds loyalty, allows premium pricing and eases new product launches.
 **Motivation theory**: Taylor (pay and control), Mayo (social needs and group belonging), Maslow (hierarchy of needs), Herzberg (hygiene factors prevent dissatisfaction, motivators create satisfaction). **Financial methods** to improve performance are piecework, commission, bonus, profit share and performance-related pay; **non-financial methods** are delegation, consultation, empowerment, team working, flexible working, job enrichment, job rotation and job enlargement.
 
 **Leadership styles** — autocratic, paternalistic, democratic, laissez-faire — suit different situations, and the examinable point is that no style is universally best. The specification also names the distinction between **management and leadership** and the **difficulty of moving from entrepreneur to leader** as a business grows and its founder has to delegate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--07-conflict.webp" width="900" height="1040" alt="Employee actions: withdraw cooperation, work to rule, overtime ban, strike, leave. Causes: pay, conditions, job losses, change. Resolution: participation, bargaining between managers and representatives, arbitration by an independent third party." loading="lazy">
+  <figcaption>Conflict can be settled by participation, bargaining or arbitration.</figcaption>
+</figure>
+
 
 ## Entrepreneurs and leaders
 

@@ -59,6 +59,12 @@ Follow the proton: the species that loses H⁺ is the acid; the one that gains i
 
 **Why the definition evolved.** Acidity was once linked to oxygen, until oxygen-free acids such as hydrogen chloride were studied. Arrhenius linked acids to H⁺ and bases to OH⁻ in water; Brønsted–Lowry dropped the need for water; Lewis (Reactivity 3.4) widened it to electron pairs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--01-proton-transfer.webp" width="900" height="1030" alt="Nitric acid, shown as an NO3 group with one hydrogen, passes a proton along a curved arrow to a lone pair on water. This gives NO3- (the conjugate base) and H3O+ (the conjugate acid). Each pair differs by exactly one H+." loading="lazy">
+  <figcaption>The acid loses H+, the base gains it, and each species forms a conjugate pair with its product.</figcaption>
+</figure>
+
+
 ## Reactivity 3.1.2 Conjugate acid–base pairs
 
 Two species that differ by exactly one proton form a **conjugate acid–base pair**. Removing H⁺ gives the conjugate base and lowers the charge by one; adding H⁺ gives the conjugate acid and raises it by one.
@@ -85,6 +91,12 @@ Water does this to itself: H₂O(l) + H₂O(l) ⇌ H₃O⁺(aq) + OH⁻(aq).
 
 **Oxides.** Across period 3, oxides change from basic to acidic. Na₂O(s) + H₂O(l) → 2NaOH(aq) gives an alkali; SO₃(g) + H₂O(l) → H₂SO₄(aq) gives an acid. Aluminium oxide reacts with both acids and bases (amphoteric). Oxides of nitrogen and sulfur from burning fuels form nitric and sulfuric acids in clouds, causing acid rain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--02-amphiprotic.webp" width="900" height="1040" alt="HCO3- is shown gaining H+ to become H2CO3 (acting as a base) and losing H+ to become CO3 2- (acting as an acid). Water also reacts with itself to give H3O+ and OH-." loading="lazy">
+  <figcaption>An amphiprotic species such as HCO3- or water can donate or accept a proton.</figcaption>
+</figure>
+
+
 ## Reactivity 3.1.4 Measuring acidity: the pH scale
 
 - pH = −log₁₀[H⁺]
@@ -101,6 +113,17 @@ The guide says these equations are in the data booklet. One pH unit is a tenfold
 (c) Hydroiodic acid, 0.040 mol dm⁻³, is fully ionized: pH = 1.40. Dilute it tenfold and pH = 2.40. Each tenfold dilution of a strong acid raises pH by one.
 
 **Measuring pH.** Universal indicator gives an estimate from a colour chart (red strongly acidic, green near neutral, purple strongly alkaline). A pH meter or probe, calibrated with buffer solutions, gives a precise digital value and can log readings throughout a titration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--03-ph-tenfold.webp" width="900" height="970" alt="Two beakers of hydroiodic acid, 0.040 and 0.0040 mol per dm cubed, hold ten and one H+ particles (each particle is 0.0040 mol per dm cubed). The pH rises from 1.40 to 2.40: tenfold less H+ means pH one higher." loading="lazy">
+  <figcaption>A tenfold dilution of a strong acid raises the pH by exactly one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--04-ph-vs-h-curve.webp" width="900" height="880" alt="pH against hydrogen ion concentration from 0 to 0.05 mol per dm cubed falls steeply at low concentration and flattens at high concentration. Points show 0.0045 mol per dm cubed at pH 2.35 and 0.040 at pH 1.40." loading="lazy">
+  <figcaption>pH against [H+] is a curve: steep at low [H+] and flat at high [H+].</figcaption>
+</figure>
+
 
 ## Reactivity 3.1.5 The ion product of water, Kw
 
@@ -121,6 +144,12 @@ The guide says this equation and its 298 K value are in the data booklet. With t
 [H⁺] = (1.0 × 10⁻¹⁴) / 0.020 = 5.0 × 10⁻¹³ mol dm⁻³, so pH = **12.30**.
 
 **Temperature.** Water's ionization is endothermic, so heating shifts it right and Kw rises. Hot pure water has pH below 7 yet is still neutral, because [H⁺] still equals [OH⁻].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--05-kw-seesaw.webp" width="900" height="970" alt="Three see-saws show acidic, neutral and basic solutions at 298 K. The side with more ions sits lower, but the product of [H+] and [OH-] is always 1.0 x 10^-14. The basic panel is 0.020 mol per dm cubed KOH with pH 12.30." loading="lazy">
+  <figcaption>At 298 K [H+][OH-] = 1.0 x 10-14, so more H+ means less OH-.</figcaption>
+</figure>
+
 
 ## Reactivity 3.1.6 Strength of acids and bases
 
@@ -144,6 +173,17 @@ Percentage ionized = (2.0 × 10⁻³ / 0.20) × 100 = **1.0%**. A strong acid of
 **Direction of equilibrium.** Acid–base equilibria lie towards the weaker acid and weaker base. For HCN(aq) + F⁻(aq) ⇌ CN⁻(aq) + HF(aq), given that HF is the stronger acid, CN⁻ is the stronger base, so the equilibrium lies to the left. A strong acid has a large ionization equilibrium constant; a weak acid's is far below 1.
 
 **Hydrogen halides.** Acid strength rises from HF to HI because the H–X bond gets longer and weaker down group 17. HF is weak; the other three are strong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--06-strength-vs-concentration.webp" width="900" height="980" alt="A two by two grid: strong acids split completely and weak acids only slightly, in concentrated and dilute solutions. Concentrated weak ethanoic acid has many molecules with only one split; dilute strong nitric acid has few molecules, all split." loading="lazy">
+  <figcaption>Strength is the fraction ionized; concentration is how much is dissolved.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--07-equilibrium-direction.webp" width="900" height="1080" alt="In HCN + F- in equilibrium with CN- + HF, HF is the stronger acid and CN- the stronger base. A long arrow to the left and a short arrow to the right show the equilibrium lies left, towards the weaker acid and weaker base. Schematic bars compare the strengths." loading="lazy">
+  <figcaption>Acid-base equilibria lie towards the weaker acid and weaker base.</figcaption>
+</figure>
+
 
 ## Reactivity 3.1.7 Neutralization
 
@@ -195,6 +235,12 @@ Features to sketch and interpret:
 - The curve then flattens towards the pH of the KOH (13.0) without reaching it.
 
 Adding acid to base gives the mirror image: high start, falling curve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--08-strong-strong-ph-curve.webp" width="900" height="900" alt="A computed curve for 20.00 cm cubed of 0.0800 mol per dm cubed HNO3 titrated with 0.100 mol per dm cubed KOH. It starts at pH 1.10, rises slowly, jumps from 3.56 to 10.44 over 0.20 cm cubed, passes equivalence at 16.00 cm cubed and pH 7, then flattens towards pH 13.0." loading="lazy">
+  <figcaption>The curve starts at the acid pH, has a near-vertical section at 16.00 cm3, and flattens towards the pH of the KOH.</figcaption>
+</figure>
+
 
 ## Common errors
 

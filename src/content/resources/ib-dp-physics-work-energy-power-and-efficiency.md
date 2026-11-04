@@ -61,6 +61,12 @@ Example layout, as a table of arrow widths for a device with 500 J input:
 
 The useful arrow is 30% of the input width, so the efficiency is 0.30.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--01-sankey-energy-flow.webp" width="900" height="860" alt="A Sankey diagram for 500 J input. Useful kinetic output is 150 J (30%) and continues straight on; wasted thermal 310 J (62%) and sound 40 J (8%) branch away. The widths add to 500 J and efficiency is 150/500 = 0.30." loading="lazy">
+  <figcaption>Arrow widths are proportional to energy, and the outputs add up to the input.</figcaption>
+</figure>
+
+
 ## Work done by a constant force
 
 Only the part of the force along the line of the displacement does work:
@@ -75,6 +81,12 @@ W = Fs cos θ = 120 × 18 × cos 35° = 1769 J.
 
 So the work done is 1.77 × 10³ J to 3 significant figures. Only 120 cos 35° = 98.3 N of the tension acts along the ground.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--02-work-at-an-angle.webp" width="900" height="1060" alt="A rope pulls a sledge with 120 N at 35 degrees over 18 m. Only F cos θ = 98.3 N along the ground does work, giving 1769 J; the 68.8 N vertical part does none. Small panels show 0 degrees (W = Fs), 90 degrees (W = 0) and 150 degrees (negative work)." loading="lazy">
+  <figcaption>Only the component of force along the displacement does work: W = Fs cos θ.</figcaption>
+</figure>
+
+
 ## Work and the resultant force
 
 The net work done by all the forces on a system gives the change in the energy of that system. For a single object whose only change is in speed, this gives:
@@ -88,6 +100,12 @@ If the resultant force is zero, the net work is zero and the kinetic energy does
 W = Fs = 6.0 × 4.5 = 27 J, so ΔEk = 27 J.
 
 27 = ½ × 3.2 × v², so v² = 2 × 27 / 3.2 = 16.9 and v = 4.1 m s⁻¹.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--03-net-work-kinetic.webp" width="900" height="1220" alt="A 3.2 kg trolley is pushed by a 6.0 N resultant force over 4.5 m, so W = 27 J and Ek gains 27 J, giving v = 4.1 m/s. A box lifted at constant speed has +mgΔh from the hand and -mgΔh from gravity, so net work is zero and Ek is unchanged." loading="lazy">
+  <figcaption>Net work equals the change in kinetic energy; equal and opposite works give zero.</figcaption>
+</figure>
+
 
 ## Mechanical energy and its conservation
 
@@ -125,6 +143,17 @@ Ee = ½ × 320 × 0.060² = 0.576 J.
 
 (b) Vertical launch: the energy becomes gravitational potential energy, so 0.050 × 9.81 × Δh = 0.576 and Δh = 1.2 m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--04-pendulum-conservation.webp" width="900" height="1100" alt="A 0.80 kg bob released 0.35 m above its lowest point is shown at three positions with equal-height stacked bars of 2.75 J split into Eg and Ek. The speed is 0 at the top, 1.85 m/s halfway and 2.62 m/s at the bottom. Mass cancels, v = √(2gΔh)." loading="lazy">
+  <figcaption>Mechanical energy stays at 2.75 J while Eg turns into Ek.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--05-spring-launch.webp" width="900" height="900" alt="A spring (320 N/m, 0.060 m compression) stores 0.576 J. Launched horizontally it gives a 0.050 kg ball 4.8 m/s; launched vertically the ball rises 1.2 m. Both panels convert all 0.576 J." loading="lazy">
+  <figcaption>All the elastic energy becomes kinetic energy, or gravitational energy at the top.</figcaption>
+</figure>
+
+
 ## Non-conservative forces
 
 Friction and air resistance are non-conservative: they transfer mechanical energy to thermal energy. The guidance for A.3 says that any change in a system's total mechanical energy is to be explained by the work that non-conservative forces do on it:
@@ -143,6 +172,12 @@ Mechanical energy lost = 29.43 − 17.64 = 11.8 J, which is the work done agains
 
 F × 3.0 = 11.79, so F = 3.9 N.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--06-friction-energy-loss.webp" width="900" height="970" alt="A 2.0 kg block slides 3.0 m down a slope that drops 1.5 m and reaches 4.2 m/s. It loses 29.4 J of Eg, gains 17.6 J of Ek, and 11.8 J becomes thermal energy through work against friction, so the friction force is 3.9 N." loading="lazy">
+  <figcaption>The lost mechanical energy is the work done against friction and appears as thermal energy.</figcaption>
+</figure>
+
+
 ## Power
 
 Power is the rate of doing work, or the rate at which energy is transferred:
@@ -154,6 +189,12 @@ Power is measured in watts (W), where 1 W is 1 J every second. Suppose a constan
 P = Fv
 
 **Worked example 6.** A car travels at a steady 25 m s⁻¹. The total resistive force on it is 640 N. With no acceleration, the driving force must balance the resistive force, so P = Fv = 640 × 25 = 16 000 W = 16 kW.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--07-power-force-speed.webp" width="900" height="890" alt="A car moves at a steady 25 m/s with equal 640 N driving and resistive forces. In 1 s it moves 25 m, so the driving force does 16 000 J, a power of 16 kW, equal to Fv." loading="lazy">
+  <figcaption>In one second the force does Fs = Fv joules of work, so P = Fv.</figcaption>
+</figure>
+
 
 ## Efficiency
 
@@ -169,6 +210,12 @@ Useful output power = mgΔh/Δt = 240 × 9.81 × 15 / 20 = 1766 W.
 
 η = 1766 / 2400 = 0.736, or 74%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--08-motor-efficiency.webp" width="900" height="1120" alt="A motor lifts 240 kg through 15 m in 20 s, so useful output is 1766 W. A Sankey diagram of the 2.4 kW input splits into 1766 W useful and 634 W wasted. Efficiency is 1766/2400 = 0.736, or 74%." loading="lazy">
+  <figcaption>Efficiency is useful output power divided by input power.</figcaption>
+</figure>
+
+
 ## Energy density of fuels
 
 Energy density is the energy that can be released from a fuel per unit volume of the fuel. Where a table gives energy per unit mass, that is the specific energy. Use the unit given in the question, and combine it with efficiency to find how much fuel an engine uses.
@@ -180,6 +227,12 @@ Electrical energy = 1500 × 3.0 × 3600 = 1.62 × 10⁷ J.
 Fuel energy needed = 1.62 × 10⁷ / 0.28 = 5.79 × 10⁷ J.
 
 Volume = 5.79 × 10⁷ / 3.6 × 10⁷ = 1.6 litres.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--09-fuel-energy-density.webp" width="900" height="1040" alt="A 28% efficient generator supplies 1.5 kW for 3.0 h, needing 1.62 x 10^7 J of electrical energy. A Sankey diagram shows 57.9 MJ of fuel energy giving 16.2 MJ useful. Dividing by 36 MJ per litre gives 1.6 litres." loading="lazy">
+  <figcaption>Divide the useful energy by the efficiency, then by the energy density.</figcaption>
+</figure>
+
 
 ## Common errors
 

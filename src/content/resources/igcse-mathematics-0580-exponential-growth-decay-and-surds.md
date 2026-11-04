@@ -177,6 +177,22 @@ The multiplier is 1.1, so the rate is **10% per year**. When the numbers are les
 
 A growth graph curves upwards ever more steeply. A decay graph falls steeply, then levels off towards the horizontal axis. Plotting such graphs is in E2.10, using the same multiplier calculation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--01-growth-vs-linear.webp" width="900" height="780" alt="A graph of a population of 25 000 growing 2.4% a year for 8 years. The curve reaches about 30 223, while adding 600 a year in a straight line reaches only 29 800. The curve pulls ahead because each percentage is taken of the current value." loading="lazy">
+  <figcaption>Exponential growth pulls ahead of linear growth because each year's percentage is taken of a larger value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--02-halving-periods.webp" width="900" height="800" alt="Five bars show 640 mg halving every 3 hours from 08 00 to 20 00, ending at 40 mg. Twelve hours is four periods of three hours, so the power is 4, not 12." loading="lazy">
+  <figcaption>Count the halving periods (12 ÷ 3 = 4), not the hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--03-fish-decay-target.webp" width="900" height="740" alt="A curve of 3600 fish falling 6% a year with a dashed line at 2000. Year 9 gives 2063 (above) and year 10 gives 1939 (below), so year 10 is the first year below 2000." loading="lazy">
+  <figcaption>Show the years either side of the target to prove which year first passes it.</figcaption>
+</figure>
+
+
 ## Surds (E1.18, Extended only)
 
 ### What a surd is
@@ -240,6 +256,12 @@ Now expand (√7 + 2)(√7 − 2).
 
 The surd terms cancel and the answer is a whole number. This is the difference of two squares, (a + b)(a − b) = a² − b². It is the reason the conjugate method below works.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
+
 ## Rationalising the denominator (E1.18.2, Extended only)
 
 To **rationalise** a denominator means to rewrite a fraction so that no surd is left on the bottom. You multiply the top and bottom by the same thing, so the value does not change.
@@ -289,6 +311,12 @@ The answer is **(5 + 4√2)/7**. Check whether anything cancels. Here 5, 4 and 7
 ### Surds in other topics
 
 Surds turn up whenever a question asks for an exact answer. For example, solving x² − 6x + 4 = 0 with the quadratic formula gives x = (6 ± √20)/2. Simplify √20 = 2√5, then divide each term by 2 to get **x = 3 ± √5**. The diagonal of a square of side 4 cm is √32 = **4√2** cm by Pythagoras. On Paper 2 there is no calculator, so all surd work there must be done by hand, with every step shown.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="769" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
+  <figcaption>Multiplying by the conjugate gives a difference of two squares, so the surd disappears.</figcaption>
+</figure>
+
 
 ## Common errors
 

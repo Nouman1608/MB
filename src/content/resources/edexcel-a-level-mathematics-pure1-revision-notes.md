@@ -69,6 +69,62 @@ Perpendicular gradients multiply to **−1**; parallel lines have **equal** grad
 
 **The coordinate geometry of circles — equations of the form `(x − a)² + (y − b)² = r²` and the circle theorems built on them — is not introduced until Pure Mathematics 2.** A P1 question that looks like it needs a circle almost always turns out to be a straight-line condition in disguise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure1--01-perp-rotation.webp" width="900" height="860" alt="A line from the origin goes 5 across and 3 up, gradient 3/5. Turned through a right angle it goes 3 left and 5 up, gradient minus 5/3. The right angle is marked, and 3/5 times minus 5/3 equals minus 1." loading="lazy">
+  <figcaption>Turning a direction through a right angle swaps the steps and flips one sign, so the gradients multiply to −1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure1--06-collinear-by-gradient.webp" width="900" height="884" alt="Points A(1,2), B(5,4), C(11,7). Gradient triangle AB has run 4, rise 2 (1/2); BC has run 6, rise 3 (1/2). Equal gradients with B shared mean A, B, C lie on one line." loading="lazy">
+  <figcaption>Equal gradients AB and BC with a shared point show three points are collinear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure1--07-general-form-intercepts.webp" width="900" height="975" alt="The line 6x - 5y - 23 = 0 through A(3,-1) and B(8,5): gradient triangle run 5 rise 6 gives 6/5 = -a/b. Setting x = 0 gives y = -23/5; setting y = 0 gives x = 23/6. B satisfies the equation." loading="lazy">
+  <figcaption>Gradient is -a/b and the intercepts come from setting x or y to zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure1--08-unknown-k-conditions.webp" width="900" height="1040" alt="Line l2: 3x - 2y = 5 has gradient 3/2. l1: kx + 4y = 9 has gradient -k/4. Parallel when -k/4 = 3/2, k = -6 (lines never meet). Perpendicular when (-k/4)(3/2) = -1, k = 8/3, gradient -2/3, and the lines cross at a right angle." loading="lazy">
+  <figcaption>Write each gradient in terms of k, then apply the parallel or perpendicular condition.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--01-line-segment-toolkit.webp" width="900" height="950" alt="A(-2,5) and B(4,1): gradient, midpoint M, line 2x+3y-11=0 and perpendicular bisector 3x-2y+3=0 whose gradients multiply to -1." loading="lazy">
+  <figcaption>The gradient triangle, the midpoint and the perpendicular bisector all come from the same two points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--01-gradient-rise-run.webp" width="900" height="910" alt="A line passes through A (1, 1) and B (5, 4). Going 4 along and 3 up gives rise 3 and run 4, so the gradient is 3 divided by 4 = 0.75." loading="lazy">
+  <figcaption>Gradient is the change up divided by the change along.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--07-line-two-points.webp" width="900" height="910" alt="A straight line passes through (minus 3, minus 4) and (5, 8). A step triangle of 8 across and 12 up gives gradient 3/2. Using one point, y + 4 = 3/2 (x + 3), so y = 3/2 x + 1/2; the line crosses the y-axis at (0, one half)." loading="lazy">
+  <figcaption>Gradient from two points, then the equation of the line through them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--07-perpendicular-bisector.webp" width="900" height="1050" alt="AB joins (-3, 8) and (9, -2) with gradient -5/6. The bisector has gradient 6/5 and passes through M (3, 3), giving y = 6/5 x - 3/5." loading="lazy">
+  <figcaption>Combine gradient, perpendicular rule, midpoint and y = mx + c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--07-vec-proof-collinear.webp" width="900" height="1010" alt="Triangle OAB is drawn with a = (3,1), b = (1,4). N divides AB in ratio 1:2 and ON = (1/3)(2a + b). D has OD = 2a + b = 3 ON, so O, N and D are on one line with ON : ND = 1 : 2." loading="lazy">
+  <figcaption>OD is a multiple of ON and both start at O, so O, N and D are collinear.</figcaption>
+</figure>
+
+
 ## Differentiation
 
 ```
@@ -135,3 +191,14 @@ radians:      s = r*theta            (arc length)
 5. Why might a P1 question that gives you two x-values be asking for something other than a definite integral?
 
 **Answers:** 1. The curve is tangent to the x-axis — there is one repeated root. 2. a > 0 and b² − 4ac < 0. 3. −3/2 (the negative reciprocal of 2/3). 4. Arc length s = rθ; area of sector A = ½r²θ. 5. Because definite integration and areas are not introduced until Pure Mathematics 2 — on a P1 paper, two x-values are more likely to be points for substitution into a tangent, normal or curve equation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure1--02-right-angle-gradients.webp" width="900" height="750" alt="Triangle with D(1, 1), E(7, 3), F(0, 4). DE has gradient 1/3 and DF has gradient minus 3. Their product is minus 1 so the angle at D is a right angle." loading="lazy">
+  <figcaption>Gradients 1/3 and −3 multiply to −1, so angle EDF is 90°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+

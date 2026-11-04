@@ -59,6 +59,27 @@ Remember what comes back and where: carbon dioxide to the air, mineral ions to t
 
 Earthworms and other small animals only break material into pieces; bacteria and fungi do the chemical breakdown.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems--01-decomposer-enzymes.webp" width="900" height="960" alt="A fungus lies against a dead leaf on soil. 1: enzymes are secreted onto the leaf. 2: they split large insoluble molecules into small soluble ones. 3: the fungus absorbs some. 4: it respires and releases carbon dioxide. 5: spare mineral ions enter the soil and are absorbed by roots." loading="lazy">
+  <figcaption>A decomposer digests dead material outside its cells, absorbs some products, respires, and returns mineral ions to the soil.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems--03-decay-rate-graphs.webp" width="900" height="1110" alt="Two line graphs from lesson data. Mass lost in 10 days peaks at 46 g at 35 degrees Celsius (4.6 g per day, about 3.3 times the rate at 15 degrees) then falls as enzymes denature. Percentage mass lost in a week peaks at 18 percent at 50 percent water and is low when too dry or too wet." loading="lazy">
+  <figcaption>Decay is fastest at a warm optimum temperature and at moderate water content.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems--09-decay-investigation.webp" width="900" height="900" alt="Three dishes at example temperatures each hold a mesh bag of 100 g of the same leaves. Change temperature, measure loss of mass, keep starting mass, material, piece size and other factors the same, and repeat for a mean." loading="lazy">
+  <figcaption>Mesh bags of equal mass are reweighed to measure decay under different conditions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems--10-aerobic-anaerobic-decay.webp" width="900" height="990" alt="A compost heap that is warm, moist and turned lets air reach microorganisms so decay is fast. In waterlogged ground such as a peat bog, water fills air spaces, decay is anaerobic and slow, methane can form and peat builds up." loading="lazy">
+  <figcaption>Oxygen supply separates fast aerobic decay from slow anaerobic decay.</figcaption>
+</figure>
+
+
 ## The carbon cycle in six words
 
 Photosynthesis in, respiration out, feeding passes it on, decay and combustion return it.
@@ -72,6 +93,17 @@ Photosynthesis in, respiration out, feeding passes it on, decay and combustion r
 | Combustion | From wood or fossil fuels into carbon dioxide |
 
 Why it matters: every organic molecule contains carbon; the cycle keeps carbon dioxide available for photosynthesis and passes carbon along food chains (flow of nutrients).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems--02-water-cycle.webp" width="900" height="910" alt="Sun-heated sea water evaporates; vapour condenses into clouds; precipitation falls; water runs off over land and drains back to the sea; roots take up soil water and leaves lose vapour by transpiration." loading="lazy">
+  <figcaption>The water cycle: evaporation, transpiration, condensation, precipitation, run-off and uptake.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--06-carbon-cycle.webp" width="900" height="1070" alt="Photosynthesis takes carbon dioxide from the air into plants. Feeding passes carbon to animals. Respiration by plants, animals and decomposers returns carbon dioxide to the air. Dead organisms and waste are broken down by decomposers (decomposition) or, if not fully decomposed, form fossil fuels over millions of years. Combustion of fossil fuels releases carbon dioxide." loading="lazy">
+  <figcaption>The six carbon-cycle processes shown as arrows between air, organisms, dead matter and fossil fuels.</figcaption>
+</figure>
+
 
 ## The water cycle in order
 
@@ -113,6 +145,12 @@ Fraction remaining = 54 / 90 = 3/5
 ```
 
 Graphs: the factor you changed goes along the bottom, the measured result goes up the side, both with units, and the scales should spread the points over most of the grid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems--11-decay-arithmetic.webp" width="900" height="800" alt="Bar of 250 g splits into 187 g left and 63 g lost: 25.2 percent lost, 5.25 g per day over 12 days. Bar of 480 g in eighths: three eighths (180 g, 37.5 percent) lost, 300 g remains." loading="lazy">
+  <figcaption>Bar models for percentage loss, rate and fractions of mass.</figcaption>
+</figure>
+
 
 ## Materials that cycle (B4.1a)
 

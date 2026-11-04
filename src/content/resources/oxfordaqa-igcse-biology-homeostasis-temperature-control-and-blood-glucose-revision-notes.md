@@ -54,6 +54,12 @@ Order of events: **stimulus, receptor, coordination centre, effector, response.*
 * Controlled conditions: temperature, water content, ion content, blood glucose.
 * Structure of the eye and ear is not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--02-control-system-chain.webp" width="900" height="800" alt="Stimulus, receptors, coordination centre (thermoregulatory centre), effectors (sweat glands, skin vessels, muscles), response, with a feedback arrow back to the stimulus." loading="lazy">
+  <figcaption>Every control system has receptors, a coordination centre and effectors.</figcaption>
+</figure>
+
+
 ## 3.4.4 Temperature control
 
 Two sources of information go to the thermoregulatory centre in the brain:
@@ -79,6 +85,22 @@ The name "hypothalamus" is not required.
 4. Name the effector: skin blood vessels, sweat glands, muscles.
 5. Say what each does, ending with the effect on energy transfer or temperature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--01-temperature-responses.webp" width="900" height="1050" alt="Two skin cross-sections. Too hot: skin vessels widen, more blood and more energy lost, and sweat evaporates to cool the body. Too cold: skin vessels narrow so less energy is lost, and muscles shiver so respiration warms the body." loading="lazy">
+  <figcaption>Vasodilation and sweating cool you; vasoconstriction and shivering warm you.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--05-hiker-water-loss.webp" width="900" height="690" alt="A stacked column shows 2.45 dm³ of sweat lost over four hours beside a 1.5 dm³ drink. The 0.95 dm³ gap is 39% of the water lost, so more fluid must be taken in to replace it." loading="lazy">
+  <figcaption>In hot weather the water lost as sweat must be replaced by drinking more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--06-shivering-oxygen.webp" width="900" height="730" alt="Oxygen use rises from 0.25 to 0.60 dm³ per minute in the cold room, a rise of 0.35 (140%). Over 30 minutes that is 10.5 dm³ extra, because shivering needs respiration and warms the body." loading="lazy">
+  <figcaption>Shivering raises oxygen use by 140% because the muscles need energy from respiration.</figcaption>
+</figure>
+
+
 ## 3.4.5 Blood glucose
 
 Pancreas monitors glucose and releases both hormones.
@@ -95,6 +117,32 @@ Pancreas monitors glucose and releases both hormones.
 | Cause | Pancreas does not produce enough insulin | Body does not respond to its own insulin |
 | Main factor | No factor stated in the specification | Obesity is a significant factor |
 | Control | Careful diet, exercise, injecting insulin | Careful diet, exercise, drugs that help cells respond to insulin |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--03-diabetes-types.webp" width="900" height="1190" alt="Three rows of blood above a cell with glucose gates. Healthy: insulin opens gates and glucose enters. Type 1: too little insulin, gates closed. Type 2: insulin present but cells respond poorly, gates closed." loading="lazy">
+  <figcaption>Type 1 is a shortage of insulin; Type 2 is a poor response to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--04-type1-meal-graph.webp" width="900" height="790" alt="Line graph of blood glucose against hours after a meal. No insulin: 8.0 rising to 15.5 (+94%). Insulin: 8.0 rising to 10.5 (+31%) and falling to 7.5." loading="lazy">
+  <figcaption>Insulin keeps the rise after a meal small.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--07-glucose-stores-glycogen.webp" width="900" height="920" alt="Glucose is stored as glycogen in the liver and muscles, and as lipid only when those stores are full. A liver holding 90 g of glycogen used at 6.0 g per hour lasts 15 hours." loading="lazy">
+  <figcaption>Spare glucose is stored as glycogen first, then lipid; 90 g at 6.0 g per hour lasts 15 hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--09-type2-insulin-response.webp" width="900" height="840" alt="Glucose uptake against insulin for healthy cells (A) and Type 2 diabetic cells (B). B takes up less at every insulin level; at 20 units A takes up 2.4 times as much. A rises 900% and B 500% from 0 to 40. Obesity is a significant risk factor." loading="lazy">
+  <figcaption>Type 2 cells respond poorly to insulin, so they take up less glucose at every insulin level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1290" alt="Extended. Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
+  <figcaption>Each response reverses the change, returning glucose towards the set point.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -186,6 +234,12 @@ All three sections follow one pattern. A condition changes. Receptors detect it.
 * Describing Type 2 diabetes as a lack of insulin.
 * Missing the units on a rate or the "per hour" in a rate.
 * Naming the eye or ear structures. They are not required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--08-receptor-locations.webp" width="900" height="680" alt="A body outline labelling receptors: eyes (light), ears (sound and position), skin (touch, pressure, pain, temperature), brain (blood temperature and water), tongue and nose (chemicals) and pancreas (blood glucose)." loading="lazy">
+  <figcaption>Receptors for internal conditions are in the brain and pancreas; the skin senses the surface.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

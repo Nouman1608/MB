@@ -37,6 +37,12 @@ Read [Limitation of Physical Measurements](/resources/aqa-alevel-physics-limitat
 
 Orders of magnitude. Estimation of approximate values of physical quantities. Students should be able to estimate approximate values of physical quantities to the nearest order of magnitude. Students should be able to use these estimates together with their knowledge of physics to produce further derived estimates also to the nearest order of magnitude.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--02-prefix-powers.webp" width="900" height="956" alt="Bars show prefixes from tera 10^12 down to femto 10^-15. Deci is used by Cambridge and OCR only; femto by AQA and OxfordAQA only. Examples: 250 mA = 0.25 A and 5.6 MeV = 5.6 x 10^6 eV." loading="lazy">
+  <figcaption>Replace the prefix with its power of ten before substituting.</figcaption>
+</figure>
+
+
 ## Orders of magnitude
 
 An **order of magnitude** is a power of ten used to give a rough sense of the scale of a quantity, without claiming precision. Two quantities are said to be "of the same order of magnitude" if they are within a factor of about 3 (strictly √10 ≈ 3.16) of the same power of ten; a quantity's order of magnitude is the power of ten closest to its value **on a logarithmic (ratio) basis, not a linear one** -- closeness is judged by how many times bigger or smaller the value is than each power of ten, not by the numerical difference between them.
@@ -46,6 +52,12 @@ For example, a result of 3.4 x 10^5 has order of magnitude 10^6, not 10^5, since
 ## Estimating physical quantities
 
 Students are expected to be able to estimate approximate values of physical quantities to the nearest order of magnitude — for example, the mass of an adult human (~10² kg), the diameter of an atom (~10⁻¹⁰ m), or the speed of a walking person (~1 m s⁻¹). These estimates rely on everyday experience and general physics knowledge rather than precise measurement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+
 
 ## Producing derived estimates
 
@@ -75,6 +87,12 @@ capacity       = area / area per spectator = 2500 / 0.5 = 5000
 
 The student's answer is a factor of ten too small, so it lands one order of magnitude too low -- most likely from a slip of a factor of ten somewhere in the arithmetic -- and a quick order-of-magnitude recalculation catches the error immediately, without needing to redo the full working in detail. This is the "sanity-check" use of estimation referred to above: it does not replace a proper calculation, but it does flag when a proper calculation has clearly gone wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--01-units-from-base.webp" width="900" height="890" alt="Six base unit boxes (kg, m, s, A, K, mol) above a chain of derived units. The newton, kg m s^-2, times metre gives the joule, divided by second gives the watt, and divided by ampere gives the volt (OCR). Newton divided by metre squared gives the pascal. Cambridge 9702 does not use the mole." loading="lazy">
+  <figcaption>Each derived unit is a product or quotient of base units.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Treating an order-of-magnitude estimate as if it needed to be precise to several significant figures — the goal is the correct power of ten, not an exact value. Forgetting to convert all quantities to consistent units before combining them in an estimate (e.g. mixing years and seconds). Being reluctant to make a reasonable assumption when data isn't given — estimation questions expect sensible, justified assumptions.
@@ -94,3 +112,9 @@ Treating an order-of-magnitude estimate as if it needed to be precise to several
 - [AQA A Level Physics hub](/boards/aqa/a-level/physics/)
 
 *This guide is intended to support, not replace, engagement with the official AQA specification and your own teacher's guidance. Always check the current version of the specification for authoritative detail.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+

@@ -49,6 +49,12 @@ The last point matters most. Because the two forces act on different objects, th
 
 Example: a mug rests on a desk. The Earth pulls the mug down (its weight). The pair of that force is the mug pulling the Earth up, with the same size, also gravitational. The desk pushing up on the mug is a contact force, and its pair is the mug pushing down on the desk. Weight and the desk's push do not make a Third Law pair, because both act on the mug and they are different types of force. They happen to balance because the mug is at rest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--03-third-law-pairs.webp" width="900" height="870" alt="A book rests on a table on the Earth. The table pushes the book up and the book pushes the table down (contact pair); the Earth pulls the book down and the book pulls the Earth up (gravity pair). Weight and table push act on one object so are not a pair." loading="lazy">
+  <figcaption>A third-law pair is the same type of force acting on two different objects.</figcaption>
+</figure>
+
+
 ## Resultant force (3.1.3 b)
 
 A number of forces acting on an object can be replaced by one force that has the same effect on its motion. This is the resultant force.
@@ -66,6 +72,17 @@ Forwards positive:  450 - 180 - 70 = 200 N
 The resultant is 200 N forwards. If the answer had come out negative, the resultant would point backwards.
 
 Parallel forces in the same direction simply add: two people pushing a car with 300 N and 250 N give 550 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--03-sledge-resultant-450-180-70.webp" width="900" height="840" alt="Force arrows to scale show a 450 N forward pull and backward friction of 180 N and wind of 70 N on a sledge. A bar splits the 450 N into 180 N, 70 N and 200 N left over. The resultant is 200 N forwards." loading="lazy">
+  <figcaption>Forwards positive: 450 − 180 − 70 = 200 N forwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--01-resultant-force.webp" width="900" height="830" alt="A block has a 4 N and a 7 N force to the right and a 3 N force to the left, drawn to one scale. (4 + 7) - 3 = 8 N, shown as a single 8 N arrow to the right." loading="lazy">
+  <figcaption>Resultant force: add forces in one direction and subtract those opposing.</figcaption>
+</figure>
+
 
 ### Two coplanar forces by scale drawing
 
@@ -86,6 +103,12 @@ Use 1 cm to 1 N. Draw an 8.0 cm line. At its end, draw a 5.0 cm line so that it 
 Check: the resultant must be less than 13 N (8 + 5, the largest possible) and more than 3 N (8 - 5, the smallest possible).
 
 A special case is two forces at right angles. For 12 N and 9 N the drawing gives a 15 N resultant, at about 37° from the 12 N force.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--01-scale-drawing-two-forces.webp" width="900" height="770" alt="A head-to-tail scale drawing at 1 cm to 1 N: an 8.0 cm arrow, then a 5.0 cm arrow at 60 degrees to it. The resultant from the start to the tip measures 11.4 cm, so about 11 N at about 22 degrees to the 8 N force. It lies between 3 N and 13 N." loading="lazy">
+  <figcaption>Head-to-tail scale drawing of 8 N and 5 N at 60 degrees gives a resultant of about 11 N.</figcaption>
+</figure>
+
 
 ## A resultant force causes acceleration (3.1.3 c)
 
@@ -122,6 +145,17 @@ The train decelerates at 1.6 m/s². You may quote the answer as "-1.6 m/s²" or 
 
 Velocity has direction as well as size. A car going round a roundabout at a steady 12 m/s keeps changing direction. Its velocity changes, so it accelerates although its speed is unchanged. A resultant force must therefore be acting on it. For an object moving in a circle, that resultant force is directed towards the centre of the circle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--02-acceleration-worked-examples.webp" width="900" height="950" alt="Two velocity-time graphs show a car speeding up from 8 to 26 m/s in 9 s and a train slowing from 40 m/s to rest in 25 s. The change in velocity and the time are marked on each line. The accelerations are 2.0 m/s² and -1.6 m/s² (a deceleration of 1.6 m/s²)." loading="lazy">
+  <figcaption>a = Δv ÷ t for a car speeding up (+2.0 m/s²) and a train slowing (−1.6 m/s²).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
+  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
+</figure>
+
+
 ## Velocity-time graphs (3.1.3 e and f)
 
 Reading a velocity-time graph:
@@ -151,6 +185,17 @@ For a trapezium, use (sum of parallel sides) / 2 x width. Where a graph is curve
 
 Take care with the axes. A gradient on a distance-time graph is speed, but a gradient on a velocity-time graph is acceleration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--02-cyclist-velocity-time.webp" width="900" height="920" alt="Velocity-time graph: 0 to 12 m/s in 6 s, constant 12 m/s for 8 s, then down to 0 in 6 s. Gradients are 2.0, 0 and minus 2.0 m/s squared; areas 36, 96 and 36 m; total 168 m and average speed 8.4 m/s." loading="lazy">
+  <figcaption>Gradients and areas of the cyclist graph give 168 m and 8.4 m/s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--04-speed-time-area.webp" width="900" height="930" alt="Speed rises from 0 to 10 m/s in 5 s then stays constant for 8 s. Gradient of the slope is 2 m/s squared. Triangle area 25 m plus rectangle area 80 m gives 105 m." loading="lazy">
+  <figcaption>Gradient gives acceleration and area gives distance travelled.</figcaption>
+</figure>
+
+
 ## Newton's First Law (3.1.3 g)
 
 If the resultant force on an object is zero:
@@ -161,6 +206,12 @@ If the resultant force on an object is zero:
 Forces may still act. They are balanced. A car driving at a steady 20 m/s along a level road has a driving force equal to the resistive forces, so the resultant is zero and the velocity does not change. The reverse is also true: an object with constant velocity must have zero resultant force.
 
 Explaining first-law situations: when a bus brakes, nothing slows an unrestrained passenger, so the body keeps its old velocity until a seat belt or seat pushes on it. Say that the velocity stays the same until a resultant force acts, not that a force "keeps it going".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--01-first-law-balanced-forces.webp" width="900" height="1060" alt="A car at a steady 20 m/s has equal and opposite driving and resistive forces, so the resultant is zero. A bus drawn twice shows the passenger keeping the old velocity when the bus brakes, until a seat belt pushes. The passenger leans forward because nothing slows them." loading="lazy">
+  <figcaption>Zero resultant force means constant velocity; a braking bus does not slow an unrestrained passenger.</figcaption>
+</figure>
+
 
 ## Newton's Second Law (3.1.3 h)
 
@@ -197,6 +248,17 @@ distance = area under v-t graph = 1/2 x 6.4 x 6.0 = 19 m
 ```
 
 Because the resultant is constant, the acceleration is constant and the velocity-time graph is a straight line from the origin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws--04-cyclist-force-to-distance.webp" width="900" height="940" alt="A cyclist of total mass 85 kg has 140 N forward and 60 N resistive, so 80 N resultant and a = 0.941 m/s². The v-t graph is a straight line to 6.0 m/s at 6.4 s. The shaded triangle gives a distance of 19 m." loading="lazy">
+  <figcaption>Worked example 8: force to acceleration to time to distance using a velocity-time graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--02-f-equals-ma.webp" width="900" height="870" alt="Two trolleys receive the same 15 N push. The 3 kg trolley accelerates at 5 m/s squared and the 6 kg trolley at 2.5 m/s squared, with arrows to scale." loading="lazy">
+  <figcaption>Acceleration = resultant force divided by mass.</figcaption>
+</figure>
+
 
 ## Common errors
 

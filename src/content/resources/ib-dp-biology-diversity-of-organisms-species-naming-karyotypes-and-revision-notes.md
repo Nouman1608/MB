@@ -58,6 +58,17 @@ These notes condense sub-topic A3.1, Diversity of organisms, from the IB *Biolog
 
 Method to answer "is it one species or two?": (1) state the definition you apply; (2) apply it to the evidence given; (3) note a limit of that definition; (4) conclude.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--01-binomial-names.webp" width="900" height="1010" alt="Cards show Panthera leo and Panthera tigris with the genus capitalised and the species all lower case, in italics. Three crossed-out versions (panthera Leo, Panthera Tigris, tigris) show the common errors. Printed names are italic and handwritten names are underlined." loading="lazy">
+  <figcaption>Genus capital, species lower case, never the species alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--03-speciation-blurred-boundary.webp" width="900" height="1080" alt="Three stages show one population gradually splitting. At first all individuals mix. Then two groups with different traits interbreed only partly, so calling them one species or two is arbitrary. Finally gene flow stops and they are two species." loading="lazy">
+  <figcaption>Speciation is gradual, so the species boundary is an arbitrary decision at the intermediate stage.</figcaption>
+</figure>
+
+
 ## Chromosomes and karyograms (A3.1.6 to A3.1.7)
 
 - Humans 2n = 46 (23 pairs); chimpanzees 2n = 48 (24 pairs). Other values are not required.
@@ -83,6 +94,17 @@ Method to answer "is it one species or two?": (1) state the definition you apply
 
 *Worked reminder.* Chromosome 21 mm long at ×3000: 21 ÷ 3000 = 0.007 mm = 7.0 µm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--04-karyogram.webp" width="900" height="1010" alt="A schematic karyogram shows five pairs from longest to shortest and the XY pair last. One pair has three copies, showing an extra chromosome. Three panels show matching by length, centromere position and banding pattern." loading="lazy">
+  <figcaption>Pairs are matched by length, centromere position and banding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--05-chromosome-2-fusion.webp" width="900" height="780" alt="Two ape chromosomes, 12 and 13, are shown fusing end to end into human chromosome 2. Telomere repeats lie in the middle, there is an active centromere and a second inactive remnant, and the bands match ape 12 followed by ape 13. 24 pairs minus one fusion gives 23 pairs, so 2n = 46." loading="lazy">
+  <figcaption>Chromosome 2 looks like two ape chromosomes joined end to end.</figcaption>
+</figure>
+
+
 ## Genomes (A3.1.8 to A3.1.11)
 
 | Point | Content |
@@ -106,12 +128,39 @@ Method to answer "is it one species or two?": (1) state the definition you apply
 | Current use | Research into evolutionary relationships |
 | Potential future use | Personalized medicine |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--06-snps-unity-diversity.webp" width="900" height="875" alt="A bar for the 3.1 billion bases of the human genome is enlarged to 20 bases of two people. The sequences match except at one SNP where one has C and the other T. About 1 base in 1000 differs, 3.1 million differences, so 99.9% of the genome is shared." loading="lazy">
+  <figcaption>Most of a species’ genome is shared; SNPs are the small differences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--07-genome-size-complexity.webp" width="900" height="1155" alt="A log-scale bar chart of genome size: yeast 12 Mb, fruit fly 140 Mb, human 3100 Mb and Paris japonica 149 000 Mb. The plant has 48.1 times the DNA of a human, yet is not 48 times more complex, so genome size does not track complexity." loading="lazy">
+  <figcaption>Genome size does not track complexity.</figcaption>
+</figure>
+
+
 ## HL only (A3.1.12 to A3.1.15)
 
 - **A3.1.12:** The biological species concept fails for asexual species (no breeding) and bacteria (horizontal gene transfer moves genes across species).
 - **A3.1.13:** Different chromosome numbers make fertile hybrids unlikely. Mule: 32 + 31 = 63, odd, pairing fails in meiosis.
 - **A3.1.14:** Dichotomous key. Use clear, constant features; two contrasting statements per step; n species need n − 1 pairs; test it on someone else.
 - **A3.1.15:** Barcode = short standard DNA region. eDNA method: sample, extract, amplify by PCR, sequence, match to a reference database. Fast and non-invasive. Limits: incomplete databases, DNA that has drifted from where the organism lives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--02-biological-species-mule.webp" width="900" height="1260" alt="A horse and a donkey can breed but their offspring, a mule, is sterile, so they are separate species. HL only: horse gametes carry 32 chromosomes and donkey gametes 31, so the mule has 63, which makes 31 pairs and one chromosome with no partner." loading="lazy">
+  <figcaption>Species breed and produce fertile offspring; an odd chromosome number blocks meiosis in the mule (HL).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--08-dichotomous-key.webp" width="900" height="1100" alt="A chain of four yes-or-no questions separates five leaves. A needle is pine; leaflets mean ash; a spiny margin means holly; deep lobes mean oak; otherwise a smooth or gently waved margin means beech. Five species need four pairs." loading="lazy">
+  <figcaption>Each step splits the set in two, so n species need n - 1 pairs (HL only).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--09-barcodes-edna.webp" width="900" height="1215" alt="Five steps: collect a water sample containing shed DNA, extract the DNA, copy barcode regions by PCR, sequence them, and match each sequence to a database. A sequence not in the database cannot be named." loading="lazy">
+  <figcaption>eDNA lets a habitat be surveyed without catching every organism, but only known species can be named (HL only).</figcaption>
+</figure>
+
 
 ## Writing good answers on this unit
 

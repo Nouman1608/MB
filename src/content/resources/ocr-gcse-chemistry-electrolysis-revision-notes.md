@@ -59,6 +59,22 @@ Quick reminders:
 - molten KI → potassium and iodine
 - molten ZnCl₂ → zinc and chlorine
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-electrolysis--10-el-molten-predict.webp" width="900" height="870" alt="Molten calcium iodide contains one Ca2+ ion and two I- ions per formula unit: calcium forms at the cathode and iodine, I2, at the anode. Molten magnesium bromide has Mg2+ and two Br-: magnesium at the cathode, bromine Br2 at the anode. Molten lithium oxide has two Li+ and one O2-: lithium at the cathode and oxygen O2 at the anode." loading="lazy">
+  <figcaption>Molten compounds give the metal at the cathode and the non-metal at the anode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--02-free-ions.webp" width="900" height="910" alt="Four panels compare solid ionic, molten ionic, ionic in water and covalent substances. Only the molten and dissolved ionic ones have free ions, so only they conduct and can be electrolysed." loading="lazy">
+  <figcaption>Electrolysis needs free-moving ions: molten or dissolved ionic compounds, never solids or covalent substances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode (Extended), with the two half-equations." loading="lazy">
+  <figcaption>Ions carry charge through the melt and electrons through the wires; lead forms at the cathode and bromine at the anode.</figcaption>
+</figure>
+
+
 ## C3.4c: aqueous solutions
 
 Water adds H⁺ and OH⁻ to the solution, so ions compete at each electrode.
@@ -81,6 +97,27 @@ Water adds H⁺ and OH⁻ to the solution, so ions compete at each electrode.
 - Hydrogen, oxygen, chlorine: bubbles. Chlorine is pale green and smells of bleach.
 - Bromine: orange-brown colour near the anode. Iodine: brown colour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-electrolysis--11-el-aqueous-predict.webp" width="900" height="820" alt="With inert electrodes. Potassium bromide: potassium is above hydrogen so hydrogen forms at the cathode; a halide is present so bromine forms at the anode. Copper bromide: copper is below hydrogen so copper forms; bromine forms. Sodium nitrate: sodium is above hydrogen so hydrogen forms; there is no halide so oxygen forms from hydroxide ions. Lithium iodide: hydrogen at the cathode and iodine at the anode." loading="lazy">
+  <figcaption>In water the metal ion competes with H+ and the anion with OH-.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen (Extended)." loading="lazy">
+  <figcaption>Hydrogen forms unless the metal is below it in reactivity; a halide is discharged only if concentrated, otherwise oxygen forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--04-aqueous-worked.webp" width="900" height="1290" alt="Two cells with gas tubes over each electrode. Concentrated sodium chloride gives hydrogen at the cathode and chlorine at the anode. Dilute sulfuric acid gives hydrogen and oxygen in a 2:1 volume ratio. Half-equations are Extended." loading="lazy">
+  <figcaption>Concentrated NaCl gives H2 and Cl2; dilute H2SO4 gives H2 and O2 in the ratio 2 : 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
+</figure>
+
+
 ## C3.4d: half equations
 
 | Product | Half equation | Electrode |
@@ -101,6 +138,17 @@ Water adds H⁺ and OH⁻ to the solution, so ions compete at each electrode.
 
 **Checking a half equation:** charge on the left must equal charge on the right. For 4OH⁻ → O₂ + 2H₂O + 4e⁻, the left is 4−, the right is 4−.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-electrolysis--12-el-half-equation-steps.webp" width="900" height="650" alt="Step 1: write the ion as the reactant and the element as the product, Cl- to Cl2 and Cu2+ to Cu. Step 2: match the atoms, giving 2Cl- to Cl2, while copper needs no change. Step 3: add electrons until the charges are equal: 2Cl- to Cl2 plus 2e-, charge minus 2 on both sides, and Cu2+ plus 2e- to Cu, charge 0 on both sides." loading="lazy">
+  <figcaption>Write the ion and element, match atoms, then add electrons to match charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-electrolysis--13-el-electron-doubling.webp" width="900" height="850" alt="At the cathode two hydrogen ions take two electrons to make one H2. At the anode four hydroxide ions release four electrons while making one O2. Both electrodes must pass the same number of electrons, so the hydrogen half equation is doubled: 4H+ plus 4e- gives 2H2. Two molecules of hydrogen form for every one of oxygen, so gas volumes are in the ratio 2 to 1, for example 46 cm3 of hydrogen and 23 cm3 of oxygen." loading="lazy">
+  <figcaption>Equal electrons at both electrodes give twice as much hydrogen as oxygen.</figcaption>
+</figure>
+
+
 ## CM3.4i: ratio and empirical formula
 
 **Gas ratio.** Match electron numbers before comparing products. Hydrogen needs 2e⁻ per molecule; oxygen releases 4e⁻ per molecule. So hydrogen and oxygen form in a **2 : 1** volume ratio. Hydrogen and chlorine (each 2e⁻) form in a **1 : 1** ratio.
@@ -112,6 +160,12 @@ Water adds H⁺ and OH⁻ to the solution, so ions compete at each electrode.
 3. Write the whole-number ratio as the formula.
 
 Worked reminder: a molten bromide gives 0.48 g of magnesium (Ar 24) and 3.20 g of bromine (Ar 80). Ratios: 0.48 ÷ 24 = 0.02 and 3.20 ÷ 80 = 0.04, giving 1 : 2, so **MgBr₂**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-electrolysis--01-el-formula.webp" width="900" height="810" alt="Calcium 0.80 g and iodine 5.08 g are divided by 40 and 127 to give 0.02 and 0.04 mol, a ratio of 1 to 2, so CaI2." loading="lazy">
+  <figcaption>Electrode masses divided by Ar give the mole ratio and so the empirical formula.</figcaption>
+</figure>
+
 
 ## C3.4e and PAG C2: practical summary
 
@@ -183,6 +237,12 @@ Short, linked sentences gain more credit than a list of facts. Use these pattern
 9. 64 ÷ 2 = 32 cm³ (2 : 1 ratio).
 10. 18.40 − 17.92 = 0.48 g.
 11. Cu²⁺ ions are removed as copper at the cathode and are not replaced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-electrolysis--02-el-copper-mass.webp" width="900" height="970" alt="Copper electrodes in copper sulfate: cathode 24.36 to 25.04 g (+0.68 g), anode 26.10 to 25.42 g (-0.68 g), equal and opposite." loading="lazy">
+  <figcaption>The cathode gains exactly what the anode loses.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

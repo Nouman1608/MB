@@ -127,6 +127,22 @@ H+(aq) + OH-(aq) → H2O(l)
 low pH (red/orange) is strongly acidic, pH 7 (green) is neutral, high pH
 (blue/purple) is strongly alkaline.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--01-ph-and-indicators.webp" width="900" height="1010" alt="The universal indicator bar runs from red (pH 0) through green (pH 7) to purple (pH 14). Acidic solutions have more H+ ions, alkaline ones more OH- ions. Three tube pairs show litmus, thymolphthalein and methyl orange in acid and alkali." loading="lazy">
+  <figcaption>pH colours and indicator colours show what ions the solution holds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--02-acid-reactions.webp" width="900" height="975" alt="Four test tubes: acid with metal gives salt and hydrogen; acid with base gives salt and water; acid with carbonate gives salt, water and carbon dioxide; a base warmed with an ammonium salt releases ammonia." loading="lazy">
+  <figcaption>Know the products of each reaction, including the easily forgotten carbon dioxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--03-neutralisation.webp" width="900" height="900" alt="A larger oval of bases contains a smaller oval of alkalis; copper(II) oxide is a base but not an alkali. Beakers show five H+ ions plus five OH- ions giving five water molecules." loading="lazy">
+  <figcaption>Every alkali is a base, and neutralisation is H+ + OH- making water.</figcaption>
+</figure>
+
+
 ## Strong and weak acids
 
 A **strong acid** dissociates *completely* into ions in solution; a **weak
@@ -143,6 +159,12 @@ recognise; carboxylic acids (like ethanoic acid) are the weak acids. Strength
 is about the *degree* of dissociation, not concentration — a dilute strong
 acid and a concentrated weak acid are entirely different comparisons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--04-strong-weak-acids.webp" width="900" height="1090" alt="Two boxes of ten acid particles. In hydrochloric acid all ten split into H+ and Cl- ions. In ethanoic acid only two split and eight stay as molecules, so it uses a reversible arrow." loading="lazy">
+  <figcaption>Strong acids split completely; weak acids only partly.</figcaption>
+</figure>
+
+
 ## Oxides: acidic, basic and amphoteric
 
 Whether an oxide is acidic or basic follows directly from whether the
@@ -156,6 +178,12 @@ and calcium oxide (CaO) are the named examples.
 - **Amphoteric oxides** react with *both* acids and bases, producing a salt
 and water either way. Only two are named at this level: aluminium oxide
 (Al₂O₃) and zinc oxide (ZnO).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--05-oxides.webp" width="900" height="1030" alt="Acidic oxides (SO2, CO2) come from non-metals and dissolve to give acidic solutions. Basic oxides (CuO, CaO) come from metals and react with acids to give salt and water. Extended: amphoteric oxides Al2O3 and ZnO react with both acids and alkalis." loading="lazy">
+  <figcaption>Non-metal oxides are acidic, metal oxides basic, and two are amphoteric.</figcaption>
+</figure>
+
 
 ## Preparing salts
 
@@ -195,6 +223,22 @@ never dissolved in the first place).
 combined within its crystal structure — its **water of crystallisation** —
 written into the formula, e.g. CuSO₄·5H₂O (hydrated, blue) vs anhydrous
 CuSO₄ (white powder, used as the standard chemical test for water).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--06-soluble-salt-prep.webp" width="900" height="1130" alt="Four steps: add excess solid to acid, filter off the unreacted solid, evaporate the filtrate until crystals start to form, then crystallise, filter and dry. A note says that with an alkali you titrate to the exact volume." loading="lazy">
+  <figcaption>Excess solid guarantees all the acid reacts; filter before evaporating.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--07-solubility-rules.webp" width="900" height="979" alt="Six rows: sodium, potassium and ammonium salts and nitrates are soluble; chlorides are soluble except silver and lead; sulfates soluble except barium, calcium and lead; carbonates insoluble except sodium, potassium, ammonium; hydroxides insoluble except sodium, potassium, ammonium and (slightly) calcium." loading="lazy">
+  <figcaption>Use the rules to decide whether a salt dissolves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--08-precipitation.webp" width="900" height="1040" alt="Two clear solutions, silver nitrate and sodium chloride, are mixed and white solid silver chloride forms. It is filtered, washed with water and dried, with no evaporation. The equation is balanced." loading="lazy">
+  <figcaption>An insoluble salt is made by mixing solutions, then filtering, washing and drying.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -86,6 +86,12 @@ five years and then be sold for £30,000. Net cash inflows from operating it are
 
 Year 5 is £50,000 operating inflow plus the £30,000 sale proceeds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--01-relevant-cash-flows.webp" width="900" height="1050" alt="Wexcombe Cider example. Counted: canning line, installation, sale of old fillers (year 0 outlay 216,000) and resale in year 5. Left out and crossed: depreciation, engineer fee, head-office share and loan interest, with a reason for each." loading="lazy">
+  <figcaption>Include only future cash caused by the project; leave out depreciation, sunk costs, unchanged overheads and (OxfordAQA) loan interest.</figcaption>
+</figure>
+
+
 ## Weighted average cost of capital (2.6.1)
 
 The **cost of capital** is the return the providers of a company's finance expect: dividends for
@@ -117,6 +123,12 @@ Fellgarth's long-term finance and the cost of each source are:
 Fellgarth will discount the dyeing machine's cash flows at 10%. Use whichever values (book or market)
 the question supplies for the weights, and check the weights total 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--06-wacc.webp" width="900" height="870" alt="A bar split of 1,000,000 finance (45% shares at 12%, 15% preference at 8%, 40% debentures at 8.5%) leads to a second bar of contributions 5.4%, 1.2% and 3.4%, totalling 10.0%." loading="lazy">
+  <figcaption>WACC weights each source's cost by its share of finance and is used as the discount rate.</figcaption>
+</figure>
+
+
 ## Net present value (2.6.1)
 
 A pound today is worth more than a pound later: it can be invested now, inflation erodes future
@@ -147,6 +159,22 @@ question gives discount factors, use them exactly as printed.
 
 Present value of inflows: 54,540 + 61,950 + 60,080 + 47,810 + 49,680 = £274,060.
 NPV = 274,060 − 240,000 = **£34,060 positive**, so on financial grounds the machine should be bought.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--03-discounting-npv.webp" width="900" height="1030" alt="Pairs of bars compare each cash flow with its present value after multiplying by 0.909, 0.826, 0.751 and 0.683. Present values total 155,754; less the 120,000 outlay gives NPV of 35,754." loading="lazy">
+  <figcaption>Discounting turns later cash into smaller present values; NPV is their total less the outlay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--04-npv-can-say-no.webp" width="900" height="940" alt="Two bars compare Wexcombe inflows added up (314,000) with the same inflows in today's money (210,969) against the 216,000 outlay. The discounted total is 5,031 short, so NPV is negative and the project is rejected." loading="lazy">
+  <figcaption>A project can recover its cost undiscounted yet still have a negative NPV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--05-payback-vs-npv.webp" width="900" height="1080" alt="Running totals for Alder and Birch cross zero at 2 years 6 months and 3 years 10 months. NPV bars at 8% show Alder 11,610 and Birch 17,545. Payback favours Alder, NPV favours Birch, and Birch relies on later years." loading="lazy">
+  <figcaption>Payback and NPV can recommend different projects, so evaluate with both.</figcaption>
+</figure>
+
 
 ## Profitability index (2.6.1)
 
@@ -198,6 +226,12 @@ IRR = 10 + [34,060 ÷ (34,060 + 4,555)] × (16 − 10)
 15.3% is above the WACC of 10%, so accept. Interpolation draws a straight line between two points on
 a curve, so it is an estimate; rates close to the true IRR give a closer answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--07-irr-interpolation.webp" width="900" height="990" alt="NPV falls as the discount rate rises. A straight line joins +34,060 at 10% and -4,555 at 16% and crosses zero at about 15.3%, above the 10% WACC, so the project is accepted." loading="lazy">
+  <figcaption>IRR is the rate at which NPV is zero, estimated by interpolation and compared with WACC.</figcaption>
+</figure>
+
+
 ## Average rate of return (2.6.2)
 
 The specification calls this the **average rate of return (accounting rate of return)**. Unlike the
@@ -224,6 +258,12 @@ Total profit = 335,000 − 210,000 = £125,000. Average annual profit = 125,000 
 
 The same project gives very different ARRs depending on the base, which is why you must state it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--08-arr-bases.webp" width="900" height="940" alt="The same 25,000 average profit is shown as a slice of two bars: initial cost 240,000 gives 10.4% and average investment 135,000 gives 18.5%." loading="lazy">
+  <figcaption>ARR changes with the investment base, so state which one you use.</figcaption>
+</figure>
+
+
 ## Payback period (2.6.2)
 
 The **payback period** is the time the net cash inflows take to recover the initial outlay. Shorter
@@ -245,6 +285,12 @@ column and find the year in which it turns positive.
 £25,000 is still to recover at the end of year 3, and year 4 brings £70,000.
 25,000 ÷ 70,000 × 12 = 4.3 months, so payback is **3 years 4 months** to the nearest month. The
 year 5 cash flow, including the £30,000 sale proceeds, plays no part.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--02-payback-running-total.webp" width="900" height="1010" alt="Bars show the running total of cash for the Kestrel press from -120 to +80 thousand pounds. The total crosses zero between years 2 and 3. 34,000 divided by 52,000 times 12 gives 7.8 months, so payback is 2 years 8 months." loading="lazy">
+  <figcaption>Payback is when the running total of cash turns positive.</figcaption>
+</figure>
+
 
 ## Comparing the methods
 

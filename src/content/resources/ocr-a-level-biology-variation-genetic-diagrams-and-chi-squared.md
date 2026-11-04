@@ -70,9 +70,31 @@ A monogenic cross follows one gene. In mice, allele C gives pigmented fur and c 
 
 Phenotypic ratio 3 pigmented : 1 albino. A **test cross** mates an unknown-genotype individual showing the dominant phenotype with a homozygous recessive partner. Recessive offspring show the unknown parent was heterozygous (ratio 1 : 1); all dominant offspring suggest homozygous.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
+  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--06-autosomal-linkage.webp" width="900" height="1110" alt="A parent with A and B on one chromosome and a and b on the other makes mostly parental gametes AB and ab; crossing over makes recombinant Ab and aB. In 1000 offspring 412 and 398 are parental, 93 and 97 recombinant, 19 percent, instead of 250 of each." loading="lazy">
+  <figcaption>Linked alleles travel together unless crossing over separates them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--07-epistasis.webp" width="900" height="1222" alt="Allele A makes the enzyme that turns a colourless precursor into yellow pigment and B the enzyme that turns yellow into red; aa gives white whatever B is, so AaBb by AaBb gives 9 red, 3 yellow and 4 white. Rows of 16 squares show how 12:3:1, 9:7 and 15:1 arise from other gene interactions." loading="lazy">
+  <figcaption>One gene can mask another, merging classes of the 16 boxes.</figcaption>
+</figure>
+
+
 ### Codominance
 
 In some cattle, red coat (Cᴿ) and white coat (Cᵂ) are codominant, and the heterozygote is roan with both red and white hairs. Roan × roan gives CᴿCᴿ : CᴿCᵂ : CᵂCᵂ in the ratio 1 : 2 : 1, which is 1 red : 2 roan : 1 white. Genotype ratio and phenotype ratio match, a clue to codominance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--03-codominance-multiple-alleles.webp" width="900" height="980" alt="Crossing two patched plants CRCW gives red, patched and white in a 1 : 2 : 1 ratio, where the genotype ratio equals the phenotype ratio. The ABO cross IAi by IBi gives one each of groups AB, A, B and O; three alleles exist in a population but each person carries two." loading="lazy">
+  <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
+</figure>
+
 
 ### Multiple alleles
 
@@ -93,6 +115,12 @@ A dihybrid cross tracks two genes on separate chromosomes that assort independen
 
 From 640 kernels you would expect 360 : 120 : 120 : 40. Using probability, purple wrinkled is (3/4) × (1/4), which is 3/16. Test crossing PpSs with ppss gives purple smooth : purple wrinkled : yellow smooth : yellow wrinkled in the ratio 1 : 1 : 1 : 1 when the genes assort independently.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
+  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+</figure>
+
+
 ### Sex linkage
 
 A sex-linked gene lies on the X chromosome, where the Y has no matching locus. A male (XY) has one allele, so a recessive allele is always expressed. Red-green colour blindness is X-linked recessive: Xᴺ is normal vision, Xⁿ is colour blindness.
@@ -105,6 +133,17 @@ A carrier woman (XᴺXⁿ) has children with a man with normal vision (XᴺY).
 | **Y** | XᴺY | XⁿY |
 
 Daughters all have normal vision (half are carriers). Half the sons are colour-blind. The probability that a child is colour-blind is 1/4, but for a son it is 1/2. A colour-blind father passes Xⁿ to every daughter and never to a son.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--02-monohybrid-test-cross.webp" width="900" height="1230" alt="Vv crossed with Vv gives VV, Vv, Vv and vv, so three normal-winged flies to one vestigial. A test cross with vv gives 1 normal to 1 vestigial if the unknown fly is Vv, and all normal if it is VV." loading="lazy">
+  <figcaption>Gametes, a Punnett square and the ratio, then a test cross to reveal an unknown genotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--04-sex-linkage.webp" width="900" height="1000" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters (AQA and OxfordAQA)." loading="lazy">
+  <figcaption>A son has one X, so one recessive allele shows; the father passes his Y to sons.</figcaption>
+</figure>
+
 
 ## Linkage and epistasis from ratios, 6.1.2(b)(ii)
 
@@ -158,6 +197,12 @@ Use raw counts, not percentages or proportions, and only for categories (discont
 
 **Worked example (epistasis).** Labradors, expected 9 : 3 : 4 from 280 puppies. Observed 150 black, 62 brown, 68 yellow. Expected 157.5, 52.5, 70. χ² = 0.357 + 1.719 + 0.057 = 2.13. With 2 degrees of freedom (critical 5.99) the difference is not significant, so the data fit recessive epistasis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--08-chi-squared.webp" width="900" height="1090" alt="Observed 279, 97, 83 and 21 are compared with expected 270, 90, 90 and 30 from 9 : 3 : 3 : 1. The parts of chi-squared are 0.300, 0.544, 0.544 and 2.700, total 4.09 with 3 degrees of freedom. This is below the critical value 7.81 at p = 0.05, so the difference is not significant." loading="lazy">
+  <figcaption>Add (O minus E) squared over E for every class and compare with the critical value.</figcaption>
+</figure>
+
+
 ## Continuous and discontinuous variation, 6.1.2(d)
 
 | | Discontinuous | Continuous |
@@ -169,6 +214,12 @@ Use raw counts, not percentages or proportions, and only for categories (discont
 | Examples | ABO blood group, pea seed shape | height, body mass, leaf length |
 
 **Why many genes give a smooth curve.** Suppose two genes each have an allele that adds one unit to a trait (A, B) and an allele that adds nothing (a, b). Cross AaBb × AaBb: count the capital letters in each of the 16 offspring. The numbers with 0, 1, 2, 3 and 4 capital letters are in the ratio 1 : 4 : 6 : 4 : 1, giving five classes with most offspring in the middle. With three such genes there are seven classes (1 : 6 : 15 : 20 : 15 : 6 : 1). In general, n genes give 2n + 1 classes. With many genes, and environmental effects, the steps blur into a bell-shaped curve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
+</figure>
+
 
 ## Common errors
 

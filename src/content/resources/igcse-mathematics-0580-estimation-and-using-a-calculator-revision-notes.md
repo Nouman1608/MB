@@ -77,6 +77,22 @@ The last line is the "double rounding" trap. Round once, from the original numbe
 - **Leading zeros vs middle zeros.** In 0.0064 the zeros before the 6 are not significant. In 5.07 the 0 is significant.
 - **Placeholder zeros.** 5097 to 2 s.f. is 5100, not 51.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--01-rounding-number-line.webp" width="900" height="960" alt="Two number lines show 46 285 between 46 200 and 46 300, past the halfway point 46 250, so it rounds up to 46 300. Between 46 000 and 47 000 it lies before halfway 46 500, so it rounds to 46 000." loading="lazy">
+  <figcaption>Compare 46 285 with the halfway point to round to the nearest 100 or 1000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--02-significant-figures.webp" width="900" height="900" alt="The digits of 0.07049 are boxed. The leading zeros are greyed because they never count; counting starts at the 7. The digit after the last kept one decides: 0 and 4 leave it (0.07, 0.070) and 9 rounds up (0.0705)." loading="lazy">
+  <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
+
 ## 1.9.2 Estimating: the method
 
 ```
@@ -107,6 +123,12 @@ Dividing by a number between 0 and 1 makes the answer **bigger**. If your estima
 
 Estimates apply to measurements too: a 2.9 m by 3.8 m wall is about 3 × 4 = 12 m².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--04-estimate-room-area.webp" width="900" height="850" alt="A room 4.85 m by 6.12 m is drawn to scale as a solid rectangle. A dashed rectangle of 5 m by 6 m, from rounding each length to 1 s.f., almost covers it. The estimate is 30 square metres and the exact area is 29.682." loading="lazy">
+  <figcaption>Rounding each length to 1 s.f. gives an area estimate very close to the exact one.</figcaption>
+</figure>
+
+
 ## 1.9.3 Reasonable accuracy in context
 
 | Context | Rule |
@@ -132,6 +154,12 @@ Same division, two different answers. The wording decides.
 - Use the **π** key.
 - Do a rough **estimate** first, so a mis-keyed decimal point stands out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--07-dont-round-early.webp" width="900" height="890" alt="A circle has circumference 30 cm, so r = 30 / (2 pi) = 4.774648... cm. Using the full value in A = pi r^2 gives 71.6 cm squared; using the rounded 4.77 gives 71.5, which is wrong." loading="lazy">
+  <figcaption>Carry the full calculator value forward and round only the final answer.</figcaption>
+</figure>
+
+
 ## 1.14.2 Entering values
 
 **Time: minutes ÷ 60.**
@@ -148,6 +176,12 @@ Or use the degrees–minutes–seconds key: 3° 20′ 0″ is 3 h 20 min.
 Never type 3 h 20 min as 3.20.
 
 **Other entries:** convert units first (cm to m, g to kg) so every value is in the same unit; bracket negative numbers before squaring them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--06-entering-time.webp" width="900" height="1000" alt="A clock shows 50 minutes as 50/60 of an hour, so 1 h 50 min is 1.8333 h. Dividing 148 by 1 + 50/60 gives 80.7 km/h. Typing 1.50 gives 98.7 and rounding to 1.83 first gives 80.9, both wrong." loading="lazy">
+  <figcaption>Convert minutes by dividing by 60 and keep the full value.</figcaption>
+</figure>
+
 
 ## 1.14.3 Reading the display
 
@@ -194,6 +228,12 @@ A display of 2.666 666 7 for dollars is written **$2.67**.
 10. 40 ÷ 2.70 = 14.8…, round down: **14 notebooks**
 11. 1.2 × 10⁻⁵ = **0.000 012**
 12. 1 h 36 min = 1.6 h; 84 ÷ 1.6 = **52.5 km/h** (exact, so no rounding needed)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">
+  <figcaption>The context, not the digit after the point, decides whether to round up or down.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

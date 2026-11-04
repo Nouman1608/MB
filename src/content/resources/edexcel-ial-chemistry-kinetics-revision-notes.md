@@ -40,6 +40,12 @@ When these feel secure, try the [kinetics practice questions](/resources/edexcel
 | Homogeneous catalyst | Same phase as the reactants |
 | Heterogeneous catalyst | Different phase from the reactants |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--09-rate-determining-step.webp" width="900" height="1170" alt="A two-hill enthalpy profile for 2P + Q going to P2Q. The first hill (P + Q forming PQ) is higher, so it is the slow, rate-determining step; the second (PQ + P forming P2Q) is lower and fast. Because the slow step has one P and one Q, Rate = k[P][Q]." loading="lazy">
+  <figcaption>The slowest step sets the rate, and the orders show how many particles of each reactant take part in it.</figcaption>
+</figure>
+
+
 ## Units of k at a glance
 
 | Example rate equation | Overall order | k in |
@@ -71,6 +77,27 @@ When these feel secure, try the [kinetics practice questions](/resources/edexcel
 1. Choose a starting concentration; read the time.
 2. Read the time at half that concentration. The difference is t½.
 3. Repeat from a different starting point. Same t½ both times: first order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--05-rate-vs-concentration.webp" width="900" height="1000" alt="A graph of rate against [A] shows order 0 as a horizontal line, order 1 as a straight line through the origin and order 2 as an upward curve through the origin. Doubling [A] multiplies the rate by 1, 2 and 4 respectively." loading="lazy">
+  <figcaption>The shape of the rate against concentration graph gives the order: horizontal, straight line or curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--06-tangent-rate.webp" width="900" height="1030" alt="A concentration-time curve for a reactant falls and flattens. A tangent at t = 0 is steep and its gradient is the initial rate. A tangent later on is shallower, so the rate is lower. Rate is the size of the gradient, quoted as positive." loading="lazy">
+  <figcaption>The rate at any time is the size of the tangent gradient, and the gradient at t = 0 is the initial rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
+  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--08-arrhenius-plot.webp" width="900" height="1010" alt="Four points at 300 to 360 K lie on a downward straight line of ln k against 1/T. The gradient triangle gives minus Ea over R. Using R = 8.31 the gradient gives Ea = 62.0 kJ per mol, from ln k = -Ea/R times 1/T plus ln A." loading="lazy">
+  <figcaption>The gradient of ln k against 1/T is -Ea/R, here giving Ea = 62.0 kJ per mol.</figcaption>
+</figure>
+
 
 ## Collecting rate data (11.3, 11.4)
 
@@ -127,6 +154,17 @@ R = 8.31 J mol⁻¹ K⁻¹, so Ea comes out in J mol⁻¹. Divide by 1000 for kJ
 
 **Further suggested practicals (11.13):** marble chips and hydrochloric acid (mass change or gas volume); magnesium and hydrochloric acid to find Ea; the iodine-propanone reaction followed by colorimetry; cobalt(II) catalysing potassium sodium tartrate with hydrogen peroxide; urease acting on urea and thiourea.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--01-collision-theory.webp" width="900" height="1070" alt="Two panels. In the first, particles A and B approach with short arrows (low energy), collide and bounce apart unchanged. In the second they approach with long arrows (energy at least the activation energy) and form the product AB. Activation energy is the minimum energy needed to react." loading="lazy">
+  <figcaption>Only collisions with energy of at least Ea lead to a reaction; the rest bounce apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--02-boltzmann-temperature.webp" width="900" height="960" alt="Two skewed curves of number of molecules against energy start at the origin. The hotter curve has a lower peak further right, a longer tail, and crosses the cooler curve once to the left of Ea. The shaded area beyond Ea is much bigger for the hotter curve, while both curves enclose the same total area." loading="lazy">
+  <figcaption>A hotter gas has a lower, wider curve with the same area and many more molecules at or above Ea.</figcaption>
+</figure>
+
+
 ## Solid catalysts (11.11)
 
 Reactant gases bond weakly (adsorb) at active sites on the solid. Their bonds weaken and they meet in a good orientation, so Ea falls. Products desorb and free the sites. Adsorption must be neither too weak (nothing happens) nor too strong (products stay stuck). A large surface area (powder, mesh or thin coating on a support) gives more sites.
@@ -158,6 +196,12 @@ Reactant gases bond weakly (adsorb) at active sites on the solid. Their bonds we
 9. **SN1**.
 10. It neutralises the acid catalyst, which stops the reaction so the iodine left at that time can be titrated.
 11. Rate = k[W]².
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--04-catalyst.webp" width="900" height="1130" alt="Top: an enthalpy profile with the same reactant and product levels, with a high peak without a catalyst (Ea 180) and a lower peak with one (Ea 105), so delta H is unchanged. Bottom: a single Maxwell-Boltzmann curve with two Ea lines; the shaded strip between them shows extra molecules that can react by the catalysed route." loading="lazy">
+  <figcaption>A catalyst offers a lower-Ea route, so more molecules can react at the same temperature, and delta H does not change.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

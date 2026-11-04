@@ -55,6 +55,17 @@ These are condensed notes for D3.2.1 to D3.2.15 (Inheritance, first part) in the
 3. Transfer pollen from the chosen male parent to the stigma.
 4. Cover again, collect the seeds, sow them and score the F1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--01-gametes-fuse-to-zygote.webp" width="900" height="1020" alt="A pollen nucleus with 7 chromosomes and an egg nucleus with 7 chromosomes fuse at fertilisation to make a zygote with 14 chromosomes in 7 homologous pairs. One chromosome of each pair came from each gamete. An enlarged pair shows the same gene on both, so the zygote has two copies of each autosomal gene." loading="lazy">
+  <figcaption>Fertilisation joins two haploid gametes to give a diploid zygote: 7 + 7 = 14 in pea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--02-pea-pod-cross-p-f1-f2.webp" width="900" height="1150" alt="A pure-breeding inflated pea (PP) crossed with a constricted one (pp) gives an F1 that is all Pp and inflated. Selfing the F1 gives a Punnett grid PP, Pp, Pp, pp, so the F2 is 3 inflated to 1 constricted: 900 and 300 from 1,200 plants." loading="lazy">
+  <figcaption>P, F1 and F2 for pod shape: a 3 : 1 ratio in the F2.</figcaption>
+</figure>
+
+
 ## D3.2.3 to D3.2.6 Genotype, phenotype, dominance, plasticity
 
 - A gene is not an allele. Pod shape is a gene; inflated and constricted are determined by alleles.
@@ -108,6 +119,17 @@ ABO alleles: Iᴬ, Iᴮ, i. Group A = IᴬIᴬ or Iᴬi. Group B = IᴮIᴮ or I
 
 **Worked reminder.** A group A father (Iᴬi) and a group A mother (Iᴬi) can have a group O child. Chance = 1/4, because the child must receive i from both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--03-abo-codominance-cross.webp" width="900" height="1290" alt="A group A mother (IAi) and a group B father (IBi) can have children of all four groups. The grid gives IAIB (AB, shown as a half-teal half-gold disc because the alleles are codominant), IAi (A), IBi (B) and ii (O, outlined), each 1/4. A group O child must have received i from both parents. A key lists the genotypes for each group." loading="lazy">
+  <figcaption>Codominant IA and IB plus recessive i give four equally likely blood groups from an A x B cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--04-incomplete-dominance-four-oclock.webp" width="900" height="1250" alt="A red four o’clock (CRCR) crossed with a white one (CWCW) gives pink F1 (CRCW). Two pink plants give a Punnett grid with one red, two pink and one white, a 1 : 2 : 1 ratio that equals the genotype ratio." loading="lazy">
+  <figcaption>With incomplete dominance the heterozygote is intermediate, so phenotype and genotype ratios match (1 : 2 : 1).</figcaption>
+</figure>
+
+
 ## D3.2.11 and D3.2.12 Sex linkage and haemophilia
 
 - Females XX; males XY. The sperm's sex chromosome decides the sex of the zygote. The X carries far more genes than the Y.
@@ -117,6 +139,12 @@ ABO alleles: Iᴬ, Iᴮ, i. Group A = IᴬIᴬ or Iᴬi. Group B = IᴮIᴮ or I
 - Affected father × non-carrier mother: all daughters carriers, all sons unaffected.
 - A son always gets his X from his mother.
 - Worked reminder: carrier mother (XᴴXʰ) × unaffected father (XᴴY). Gametes: Xᴴ or Xʰ; Xᴴ or Y. Offspring: XᴴXᴴ, XᴴY, XᴴXʰ, XʰY, each 1/4. Chance a child is affected = 1/4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--05-haemophilia-x-linked-cross.webp" width="900" height="1130" alt="A carrier mother (XHXh) and an unaffected father (XHY) have four equally likely children: a normal girl, a carrier girl, a normal boy and an affected boy (XhY). One in four children is affected; half the sons are affected and no daughter is. A father gives his son the Y, not his X." loading="lazy">
+  <figcaption>An X-linked recessive allele from a carrier mother affects half her sons and no daughters.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -138,6 +166,12 @@ ABO alleles: Iᴬ, Iᴮ, i. Group A = IᴬIᴬ or Iᴬi. Group B = IᴮIᴮ or I
 
 - Inductive reasoning: generalising a pattern from some cases. Deductive reasoning: applying that pattern to find a specific genotype.
 - Marriage between close relatives is prohibited in many societies. Relatives share recent ancestors, so both are more likely to carry the same rare recessive allele.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--06-pedigree-autosomal-recessive.webp" width="900" height="1030" alt="Two unaffected parents (Aa) have an affected daughter II-2 (aa) and an unaffected son II-3 who is AA (1/3) or Aa (2/3). Because an unaffected father has an affected daughter, the condition is autosomal recessive, not X-linked. II-3 has a child with a carrier woman; the chance the child is affected is 2/3 x 1/4 = 1/6." loading="lazy">
+  <figcaption>Unaffected parents with an affected daughter show an autosomal recessive condition; the risk to a later child is 1/6.</figcaption>
+</figure>
+
 
 ## D3.2.14 and D3.2.15 Continuous variation and box plots
 
@@ -184,6 +218,12 @@ ABO alleles: Iᴬ, Iᴮ, i. Group A = IᴬIᴬ or Iᴬi. Group B = IᴮIᴮ or I
 8. It shows a smooth range of values, produced by many genes and by sun exposure.
 9. Range = 90 − 62 = 28 g. IQR = 70 − 64 = 6 g.
 10. Plasticity changes gene expression, not the DNA sequence, and can be reversible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--07-box-plot-student-heights.webp" width="900" height="840" alt="Fifteen heights (150 to 181 cm) shown as dots and as a box plot on one scale. Median 161, Q1 156, Q3 165, IQR 9. Limits 142.5 and 178.5 lie 1.5 x IQR beyond the box; 181 is an outlier plotted separately. Whiskers reach 150 and 168." loading="lazy">
+  <figcaption>A box plot shows median, quartiles, whiskers and any outlier, here 181 cm.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

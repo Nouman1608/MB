@@ -58,6 +58,12 @@ Salt name = metal from the base or alkali + ending from the acid.
 
 Balancing tip: count the H⁺ the acid must supply. A hydroxide with three OH groups needs three HNO₃ or three HCl.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--06-soluble-salt-prep.webp" width="900" height="1130" alt="Four steps: add excess solid to acid, filter off the unreacted solid, evaporate the filtrate until crystals start to form, then crystallise, filter and dry. A note says that with an alkali you titrate to the exact volume." loading="lazy">
+  <figcaption>Excess solid guarantees all the acid reacts; filter before evaporating.</figcaption>
+</figure>
+
+
 ## Word equations to know
 
 | Reaction type | General word equation |
@@ -74,6 +80,17 @@ Balancing tip: count the H⁺ the acid must supply. A hydroxide with three OH gr
 - **Limewater** = calcium hydroxide solution.
 - Limewater + carbon dioxide → **calcium carbonate** + water: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O. Calcium carbonate is insoluble, so the solution turns cloudy white.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts--04-ammonia-ammonium.webp" width="900" height="900" alt="Ammonia reacts reversibly with water to give NH4+ and OH-, so the solution is alkaline. With an acid, ammonia takes H+ to become NH4+ and no water forms. Ammonium nitrate and sulfate are fertilisers." loading="lazy">
+  <figcaption>Ammonia is alkaline and forms ammonium salts without making water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts--01-limewater-cloudy.webp" width="900" height="840" alt="Two test tubes: CO2 is bubbled into clear limewater (calcium hydroxide solution), which turns milky white as insoluble calcium carbonate forms. Equation Ca(OH)2(aq) + CO2(g) -&gt; CaCO3(s) + H2O(l)." loading="lazy">
+  <figcaption>Carbon dioxide turns limewater milky because insoluble calcium carbonate forms.</figcaption>
+</figure>
+
+
 ## pH and universal indicator (3.5.1 f)
 
 | pH | 0–2 | 3–6 | 7 | 8–11 | 12–14 |
@@ -89,6 +106,12 @@ Colours are approximate and differ slightly between brands.
 2. Add a drop of universal indicator, or dab the solution onto universal indicator paper with a glass rod.
 3. Match the colour against the chart; read the pH to the nearest whole number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--01-ph-and-indicators.webp" width="900" height="1010" alt="The universal indicator bar runs from red (pH 0) through green (pH 7) to purple (pH 14). Acidic solutions have more H+ ions, alkaline ones more OH- ions. Three tube pairs show litmus, thymolphthalein and methyl orange in acid and alkali." loading="lazy">
+  <figcaption>pH colours and indicator colours show what ions the solution holds.</figcaption>
+</figure>
+
+
 ## Neutralisation equation (3.5.1 g)
 
 H⁺(aq) + OH⁻(aq) → H₂O(l)
@@ -96,6 +119,12 @@ H⁺(aq) + OH⁻(aq) → H₂O(l)
 - The H⁺ comes from the acid; the OH⁻ from the alkali.
 - All other ions are spectators; they stay in solution and form the salt when the water is removed.
 - Adding alkali to acid: pH rises → 7 at exact neutralisation → above 7 when alkali is in excess.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--03-neutralisation.webp" width="900" height="900" alt="A larger oval of bases contains a smaller oval of alkalis; copper(II) oxide is a base but not an alkali. Beakers show five H+ ions plus five OH- ions giving five water molecules." loading="lazy">
+  <figcaption>Every alkali is a base, and neutralisation is H+ + OH- making water.</figcaption>
+</figure>
+
 
 ## Soluble salts (3.5.2 a, b)
 
@@ -141,6 +170,27 @@ Example: zinc chloride from zinc. Zn + 2HCl → ZnCl₂ + H₂. Add zinc granule
 
 Example: sodium nitrate. Sodium is too reactive, and sodium hydroxide is an alkali, so use the indicator route with nitric acid: NaOH + HNO₃ → NaNO₃ + H₂O.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts--03-salt-route-chooser.webp" width="900" height="1080" alt="Three routes to a soluble salt: acid with a suitable metal, with an insoluble base, or with an alkali. Metals are grouped as too violent, works well, or no reaction. Each route says what to add and whether to filter or titrate." loading="lazy">
+  <figcaption>Choose the route by what the acid reacts with.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts--03-excess-copper-oxide-mass.webp" width="900" height="850" alt="Beaker of blue copper(II) nitrate solution with black copper(II) oxide left at the bottom. A bar for 2.50 g CuO added is split into 1.85 g reacted and 0.65 g left over. Equation CuO + 2HNO3 -&gt; Cu(NO3)2 + H2O." loading="lazy">
+  <figcaption>Leftover solid is the evidence that the acid has been used up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--02-acid-reactions.webp" width="900" height="975" alt="Four test tubes: acid with metal gives salt and hydrogen; acid with base gives salt and water; acid with carbonate gives salt, water and carbon dioxide; a base warmed with an ammonium salt releases ammonia." loading="lazy">
+  <figcaption>Know the products of each reaction, including the easily forgotten carbon dioxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--02-titration.webp" width="900" height="1075" alt="A burette of acid sits above a conical flask of alkali plus indicator, with a pipette measuring the alkali. An inset shows reading the bottom of the meniscus at eye level. Three flasks show the colour at first, a flash that fades on swirling, and one drop giving a permanent colour change: the end-point." loading="lazy">
+  <figcaption>The end-point is where one drop makes the colour change permanent; read the burette at the bottom of the meniscus.</figcaption>
+</figure>
+
+
 ## Insoluble salts (3.5.2 c)
 
 - Mix **two solutions**: one supplies the positive ion, the other the negative ion.
@@ -150,6 +200,22 @@ Example: sodium nitrate. Sodium is too reactive, and sodium hydroxide is an alka
   Ba(NO₃)₂(aq) + K₂SO₄(aq) → BaSO₄(s) + 2KNO₃(aq)
 
 **Precipitation and water treatment:** precipitation removes unwanted ions from solution. For drinking water, calcium ions in hard water can be removed as calcium carbonate. For effluent, dissolved metal ions can be removed as insoluble hydroxides, and phosphate as an insoluble phosphate, before the solid is separated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts--02-precipitation-water-treatment.webp" width="900" height="1050" alt="Before-and-after beakers. Hard water: calcium ions are removed as solid calcium carbonate. Effluent: copper(II) ions are removed as solid copper(II) hydroxide when an alkali is added. The solid settles and is filtered out." loading="lazy">
+  <figcaption>Adding the right ions turns an unwanted ion into an insoluble solid that is settled or filtered out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--07-solubility-rules.webp" width="900" height="979" alt="Six rows: sodium, potassium and ammonium salts and nitrates are soluble; chlorides are soluble except silver and lead; sulfates soluble except barium, calcium and lead; carbonates insoluble except sodium, potassium, ammonium; hydroxides insoluble except sodium, potassium, ammonium and (slightly) calcium." loading="lazy">
+  <figcaption>Use the rules to decide whether a salt dissolves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--08-precipitation.webp" width="900" height="1040" alt="Two clear solutions, silver nitrate and sodium chloride, are mixed and white solid silver chloride forms. It is filtered, washed with water and dried, with no evaporation. The equation is balanced." loading="lazy">
+  <figcaption>An insoluble salt is made by mixing solutions, then filtering, washing and drying.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -54,6 +54,12 @@ Humans have a **double circulation**: blood passes through the heart **twice** f
 
 It passes through the heart twice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+</figure>
+
+
 ## 11.2 The heart
 
 ### Structures to identify (11.2.1)
@@ -70,10 +76,22 @@ It passes through the heart twice.
 
 On a front-view diagram, the **left side of the heart is on the right of the page**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
+
 ### Wall thickness (11.2.2)
 
 - **Left ventricle wall thicker than right ventricle wall.** The left ventricle pumps blood all round the body at high pressure; the right ventricle pumps blood only to the nearby lungs at low pressure. More muscle gives a stronger contraction.
 - **Atria walls thinner than ventricle walls.** Atria only push blood a short distance, down into the ventricles. Ventricles must pump blood out of the heart into the arteries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-humans--06-heart-wall-thickness.webp" width="900" height="900" alt="Four chambers drawn with wall thickness around each cavity: atria thin, right ventricle thicker, left ventricle thickest, with the reason for each." loading="lazy">
+  <figcaption>Wall thickness matches how hard each chamber pumps.</figcaption>
+</figure>
+
 
 ### One heartbeat (11.2.3)
 
@@ -84,6 +102,12 @@ On a front-view diagram, the **left side of the heart is on the right of the pag
 5. Blood from the veins fills the atria again, and the cycle repeats.
 
 Valves open and close because of **pressure differences**; they are not muscles. Both atria contract together, then both ventricles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Extended. Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
+  <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
+</figure>
+
 
 ### Arteries and veins (11.2.4)
 
@@ -136,6 +160,32 @@ In **coronary heart disease (CHD)**, a **coronary artery** becomes **blocked**, 
 - **Exercise**: regular exercise strengthens the heart muscle, helps control body mass and blood pressure, and helps keep blood cholesterol lower.
 - **Balance**: diet and exercise reduce risk but cannot remove it; genetic predisposition, age and gender cannot be changed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-humans--03-ecg-heart-rate.webp" width="900" height="960" alt="An ECG trace on graph paper has three beats. Neighbouring peaks are 20 mm apart; at 25 mm per second one beat takes 0.8 s, so the heart rate is 75 beats per minute." loading="lazy">
+  <figcaption>Heart rate = 60 divided by the time for one beat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-humans--04-pulse-count-exercise.webp" width="900" height="1000" alt="Two 15 second strips show 19 beats at rest and 33 beats after exercise. Multiplying by 4 gives 76 and 132 beats per minute, an increase of 56, or 73.7 percent." loading="lazy">
+  <figcaption>Multiply a 15 second count by 4 to get beats per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-humans--05-coronary-heart-disease.webp" width="900" height="1010" alt="A heart shows a coronary artery on its surface with a blockage; muscle beyond it gets too little oxygen and glucose. Cross-sections compare a healthy artery with one narrowed by a fatty deposit and a clot." loading="lazy">
+  <figcaption>A blocked coronary artery starves part of the heart muscle of oxygen and glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-humans--08-chd-risk-prevention.webp" width="900" height="1060" alt="A coronary artery section with a fatty deposit narrowing the lumen. Risk factors you can change (diet, sedentary lifestyle, stress, smoking) and cannot change (genes, age, gender), and measures that lower risk without removing it." loading="lazy">
+  <figcaption>Some risk factors can be changed; prevention lowers but does not remove risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Extended panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
+  <figcaption>After exercise the mean heart rate rose from 74 to 118 beats per minute, a 59% increase.</figcaption>
+</figure>
+
+
 ## 11.3 Blood vessels
 
 ### The main vessels (11.3.1)
@@ -154,6 +204,12 @@ In **coronary heart disease (CHD)**, a **coronary artery** becomes **blocked**, 
 
 "Hepatic" means liver; "renal" means kidney.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-humans--06-main-blood-vessels.webp" width="900" height="1020" alt="A schematic of the aorta, vena cava, pulmonary artery and vein, and the hepatic artery, hepatic portal vein, hepatic vein, renal artery and renal vein, with arrows showing the direction of flow and colour showing artery or vein." loading="lazy">
+  <figcaption>Arteries leave the heart; veins return to it.</figcaption>
+</figure>
+
+
 ### Structure (11.3.2)
 
 | Feature | Artery | Vein | Capillary |
@@ -164,6 +220,12 @@ In **coronary heart disease (CHD)**, a **coronary artery** becomes **blocked**, 
 | Valves | None (except at the heart) | Present | None |
 
 In a photomicrograph, an artery has a thick wall and small, round lumen; a vein has a thin wall and a large, often irregular lumen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
+</figure>
+
 
 ### Structure and pressure (11.3.3)
 
@@ -183,6 +245,17 @@ In a photomicrograph, an artery has a thick wall and small, round lumen; a vein 
 | Platelets | Clotting: soluble fibrinogen is converted to insoluble fibrin, forming a mesh that prevents blood loss and the entry of pathogens |
 | Plasma | Transport of blood cells, ions, glucose, amino acids, hormones, carbon dioxide, urea, vitamins and plasma proteins |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--07-clotting.webp" width="900" height="1130" alt="Extended. A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out." loading="lazy">
+  <figcaption>A fibrin mesh traps blood cells to seal a wound.</figcaption>
+</figure>
+
+
 ### Identifying cells (11.4.1)
 
 | Cell | Appearance under the light microscope |
@@ -198,6 +271,12 @@ Platelets appear as tiny fragments. See also [Cell structure and organisation](/
 - Convert: 3.5 mm = 3500 µm.
 - Actual size = image size ÷ magnification = 3500 ÷ 500 = **7 µm**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-humans--07-rbc-magnification.webp" width="900" height="900" alt="A red blood cell image 3.5 mm across at x500: convert to 3500 micrometres, then 3500 / 500 = 7 micrometres." loading="lazy">
+  <figcaption>Actual size = image size divided by magnification.</figcaption>
+</figure>
+
+
 ### Exchange through tissue fluid (11.4.4)
 
 1. Blood pressure at the arterial end of a capillary forces some **plasma** out through the capillary wall. This fluid, without the red blood cells and most plasma proteins, is **tissue fluid**, and it bathes every body cell.
@@ -206,6 +285,12 @@ Platelets appear as tiny fragments. See also [Cell structure and organisation](/
 4. Much of the tissue fluid passes back into the capillaries.
 
 Tissue fluid is the go-between for blood and cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
+</figure>
+
 
 ## Common errors
 

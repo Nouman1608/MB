@@ -57,6 +57,22 @@ Class width = upper boundary − lower boundary. Work it out for every class.
 4. Label the vertical axis **Frequency density** and choose an equal-step scale.
 5. Draw touching bars, each at its own height.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--01-why-frequency-density.webp" width="900" height="1040" alt="The 71 phone calls from worked example 1 drawn twice. With frequency as the height, the 5 to 10 class looks tallest and the wide classes look too important. With frequency density (3, 5, 4, 1.8, 0.6) the 2 to 5 class is the tallest bar." loading="lazy">
+  <figcaption>Plotting frequency against unequal class widths misleads; frequency density gives a fair picture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--02-draw-bars-area-is-frequency.webp" width="900" height="870" alt="The finished histogram for the phone-call data with boundaries 0, 2, 5, 10, 20, 40, no gaps, and density on the vertical axis. The 2 to 5 bar has area 3 x 5 = 15 and the last bar 20 x 0.6 = 12, matching the frequencies." loading="lazy">
+  <figcaption>Bar area, width times height, equals the frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--03-read-histogram-clinic.webp" width="900" height="935" alt="Clinic waiting-time histogram with frequencies 8, 12, 16, 15 and 7 found as height x width, total 58. At least 15 minutes is 16 + 15 + 7 = 38. The 20 to 25 part of the 20 to 30 bar is 5 x 1.5 = 7.5, an estimate that assumes even spread." loading="lazy">
+  <figcaption>Multiply height by width for each class, add classes as needed, and state the even-spread assumption for part classes.</figcaption>
+</figure>
+
+
 ### Histogram to table
 
 1. Read each bar's height and work out its width from the boundaries.
@@ -71,12 +87,24 @@ Class width = upper boundary − lower boundary. Work it out for every class.
 3. Frequency per cm² = known frequency ÷ area.
 4. For any other bar, frequency = area × frequency per cm². To find a height, reverse it: height = (frequency ÷ frequency per cm²) ÷ width.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--04-no-vertical-scale-area.webp" width="900" height="820" alt="Parcel-mass histogram on a centimetre grid with no vertical scale. A 2 x 3 cm bar is 30 parcels so 1 cm2 = 5 parcels; the 3 x 2.4 cm bar is 36 parcels; 18 parcels needs 3.6 cm2, so a 1 cm wide bar is 3.6 cm tall." loading="lazy">
+  <figcaption>With no scale, one known bar fixes how many values each square centimetre stands for.</figcaption>
+</figure>
+
+
 ### Missing values
 
 1. Use every bar you can read to get a frequency.
 2. Subtract the known frequencies from the stated total to find the remaining one.
 3. Divide by that class's width to get its height.
 4. Check that the final frequencies add to the total.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--05-missing-values-histogram.webp" width="900" height="930" alt="Club-ages histogram. Step 1: y = 0.7 x 20 = 14. Step 2: x = 60 - 9 - 16 - 14 = 21. Step 3: height = 21 / 12 = 1.75. The check is that the frequencies add to 60." loading="lazy">
+  <figcaption>Find the missing frequency from a bar, then from the total, then the missing height.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

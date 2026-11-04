@@ -51,6 +51,12 @@ Population size changes because of **abiotic factors** and because of **interact
 
 Abiotic factors act on survival, growth and reproduction. A marine alga may tolerate only a narrow salinity range, so it declines after rain dilutes a rock pool. Explain the chain, not just the factor: low temperature slows enzyme-controlled reactions, so growth is slower, fewer individuals reach reproductive age, and the population falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--08-population-growth.webp" width="900" height="900" alt="Counts of a mammal population on a predator-free island rise from 20 to about 200 in an S-shaped curve. The greatest yearly increase (+45) is between years 3 and 4; growth then slows and levels off at the carrying capacity. Population change equals births plus immigration minus deaths plus emigration." loading="lazy">
+  <figcaption>Limiting factors make growth level off at the carrying capacity.</figcaption>
+</figure>
+
+
 ### Intraspecific competition
 
 **Intraspecific competition** is competition between individuals of the same species for limited supplies of food, light, water, mineral ions, nesting sites or mates. Individuals have identical niches, so they compete most strongly. As numbers rise, each individual gets a smaller share. Growth slows, fewer offspring are produced and more individuals die, so the population levels off. Intraspecific competition therefore tends to stabilise a population.
@@ -144,6 +150,12 @@ Five replicate trays gave mean masses per seedling of 56, 52, 58, 51 and 53 mg a
 
 **Evaluating:** seedlings at the tray edge may get more light, and one harvest time shows nothing about how competition develops. 
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--03-biomass-calorimetry.webp" width="900" height="1180" alt="A fresh 250 g sample is dried until its mass is constant at 62 g, so 188 g (75.2%) was water. A 0.50 g dried portion burned under 50.0 g of water raises the water 20.0 to 54.0 degrees C, giving 7 106 J and 14.2 kJ per gram, an underestimate because heat escapes." loading="lazy">
+  <figcaption>Dry to constant mass, then burn a portion under water to find energy per gram.</figcaption>
+</figure>
+
+
 ## Ecological succession
 
 **Succession** is the directional change in a community over time. **Primary succession** begins on newly formed or exposed land that has no soil, for example bare rock exposed by a retreating glacier, or new sand or volcanic ash. It proceeds from the first colonisers, the **pioneer species**, through intermediate stages to a **climax community**.
@@ -168,6 +180,17 @@ The central idea is that **the species present at one stage alter the environmen
 - **Species number** rises from 3 to 22 by year 50 as more niches appear.
 - Between years 50 and 120 species number falls by (19 − 22) / 22 × 100 = **−13.6%**. The likely cause is shading: light at ground level drops to 8%, so few light-demanding species survive beneath the canopy.
 - This fits early species changing the environment for their successors, but four sites of different ages only substitute for watching one site for 120 years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--07-eutrophication.webp" width="900" height="1110" alt="Fertiliser nitrate and phosphate leach into a pond. Algae bloom and shade out plants; dead material feeds bacteria whose respiration lowers oxygen and fish die. Example data: nitrate +277%, algae x34.5, oxygen -73%." loading="lazy">
+  <figcaption>Leached ions trigger an algal bloom and then oxygen loss through bacterial respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
 
 ## Conservation and managing succession
 

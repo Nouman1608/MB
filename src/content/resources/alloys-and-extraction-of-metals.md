@@ -142,6 +142,12 @@ metal.
 stainless steel is used for cutlery specifically because it combines
 hardness with resistance to rusting — a combination pure iron doesn't offer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--01-alloy-layers.webp" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
+  <figcaption>Different-sized atoms stop the layers sliding, so an alloy is harder than the pure metal.</figcaption>
+</figure>
+
+
 ## Extraction of metals
 
 **How easily a metal can be extracted** depends directly on its position in
@@ -176,6 +182,22 @@ Steps 1–3 are the extraction itself — carbon, and then carbon monoxide, act
 as the reducing agent. Steps 4–5 remove the acidic silica impurity as
 molten slag, which floats on the molten iron and is drawn off separately.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--03-blast-furnace.webp" width="900" height="1000" alt="A furnace cross-section: hematite, coke and limestone go in at the top, hot air near the bottom, waste gases out of the top. Five numbered reactions are marked up the furnace, and molten slag floats on molten iron at the base, each tapped off." loading="lazy">
+  <figcaption>The blast furnace turns hematite into iron using coke, limestone and hot air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--04-iron-steps.webp" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
+  <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--05-slag.webp" width="900" height="910" alt="Limestone breaks down to lime and carbon dioxide, then lime reacts with silica (sand) to make slag. The slag floats on top of the molten iron and is drawn off separately." loading="lazy">
+  <figcaption>Slag carries away the silica impurity and floats on the iron.</figcaption>
+</figure>
+
+
 ### Extracting aluminium: electrolysis
 
 Aluminium is significantly more reactive than iron, so carbon reduction
@@ -193,6 +215,17 @@ at the anode (oxidation):   2O²⁻ → O2 + 4e⁻
 
 The **carbon anodes need regular replacement**: the oxygen produced at the
 anode reacts with the hot carbon itself, burning it away as carbon dioxide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--02-extraction-method.webp" width="900" height="920" alt="A ladder of metals from most to least reactive with carbon marked in the middle. Metals above carbon, such as aluminium, are extracted by electrolysis; zinc and iron below carbon by heating with carbon; gold is found uncombined." loading="lazy">
+  <figcaption>Carbon can only reduce oxides of metals less reactive than itself; more reactive metals need electrolysis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

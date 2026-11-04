@@ -50,6 +50,12 @@ Links: [4CH1 course hub](/boards/edexcel/igcse/chemistry/) · [printable 4CH1 ch
 - Oxygen ≈ one-fifth; nitrogen ≈ four-fifths.
 - Argon beats CO₂ by more than twenty times. CO₂ is 0.04%, not 4% and not 0.4%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--01-air-four-gases.webp" width="900" height="920" alt="A bar shows dry air is 78% nitrogen, 21% oxygen and about 1% other gases. The last 1% is magnified 100 times: argon 0.9%, carbon dioxide 0.04%, other gases 0.06%. Argon is more abundant than carbon dioxide." loading="lazy">
+  <figcaption>The four main gases of dry air, with the last 1% magnified so argon and carbon dioxide can be compared.</figcaption>
+</figure>
+
+
 ## 2.10 and 2.14 Oxygen in air: the practical
 
 **Principle.** A substance removes the oxygen from a trapped volume of air. The volume falls by the volume of oxygen.
@@ -90,6 +96,22 @@ Start 90.0 cm³, end 71.5 cm³ → oxygen = 18.5 cm³ → 18.5 ÷ 90.0 × 100 = 
 - Reading the volume while the gas is still warm (it has expanded).
 - A leak lets fresh air in.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--02-oxygen-in-air-iron-wool.webp" width="900" height="912" alt="Two inverted measuring cylinders in a trough, with damp iron wool at the closed end. Air starts at 94.0 cm3; after eight days it is 74.6 cm3 as water rises. Oxygen used is 19.4 cm3, which is 20.6% of the starting volume." loading="lazy">
+  <figcaption>Rusting iron removes the oxygen, so the gas volume falls by about one fifth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--07-oxygen-phosphorus.webp" width="900" height="840" alt="Phosphorus burns in trapped air over water forming P4O10, which dissolves, so water rises. Starting air is 60.0 cm3 and 47.8 cm3 after cooling, giving 20.3 percent; reading while warm gives a misleading 15.8 percent." loading="lazy">
+  <figcaption>Cool the gas before reading, or the oxygen percentage comes out too low.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--08-oxygen-hot-copper.webp" width="900" height="780" alt="A tube of strongly heated copper joins two gas syringes. Air is pushed back and forth until the volume stops falling as copper turns black: 2Cu + O2 gives 2CuO. Oxygen used is start minus final volume." loading="lazy">
+  <figcaption>Hot copper removes the oxygen as black copper(II) oxide.</figcaption>
+</figure>
+
+
 ## 2.11 Combustion in oxygen
 
 | Element | Observation | Product | Equation |
@@ -100,6 +122,12 @@ Start 90.0 cm³, end 71.5 cm³ → oxygen = 18.5 cm³ → 18.5 ÷ 90.0 × 100 = 
 
 - Elements burn more brightly in pure oxygen than in air (air is only about 21% oxygen).
 - An element + oxygen → its oxide. Combustion releases heat (exothermic).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--06-burning-elements.webp" width="900" height="930" alt="Magnesium burns with a very bright white flame to leave white magnesium oxide; hydrogen burns with a pale blue flame to make water; sulfur melts and burns with a blue flame to make sulfur dioxide. Each equation is balanced." loading="lazy">
+  <figcaption>Each element burns in oxygen to form its oxide.</figcaption>
+</figure>
+
 
 ## 2.12 Thermal decomposition of carbonates
 
@@ -122,6 +150,12 @@ Start 90.0 cm³, end 71.5 cm³ → oxygen = 18.5 cm³ → 18.5 ÷ 90.0 × 100 = 
 
 Mr CuCO₃ = 123.5; Mr CuO = 79.5; Mr CO₂ = 44. Ratio CuCO₃ : CuO : CO₂ = 1 : 1 : 1 by moles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere--03-heating-metal-carbonate.webp" width="900" height="845" alt="A boiling tube of green copper(II) carbonate is heated; a delivery tube leads the gas into limewater, which turns milky. CuCO3 becomes black CuO plus CO2. Lift the delivery tube out before removing the flame." loading="lazy">
+  <figcaption>Copper(II) carbonate decomposes to black copper(II) oxide and carbon dioxide, which clouds limewater.</figcaption>
+</figure>
+
+
 ## 2.13 CO₂ and climate
 
 ### Method in steps: explaining the greenhouse effect
@@ -133,6 +167,17 @@ Mr CuCO₃ = 123.5; Mr CuO = 79.5; Mr CO₂ = 44. Ratio CuCO₃ : CuO : CO₂ = 
 5. This **may contribute to climate change**.
 
 Write "may contribute": the specification uses that wording.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--03-air-composition.webp" width="900" height="800" alt="A 10 by 10 grid where each square is 1 percent of air: 78 nitrogen, 21 oxygen and 1 square for noble gases and carbon dioxide." loading="lazy">
+  <figcaption>Clean, dry air is about 78% nitrogen and 21% oxygen, with a small remainder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--06-greenhouse-effect.webp" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier." loading="lazy">
+  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

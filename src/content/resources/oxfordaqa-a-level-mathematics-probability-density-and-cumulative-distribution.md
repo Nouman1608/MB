@@ -50,6 +50,12 @@ A continuous random variable can be any number within a range: a time, a length,
 
 A consequence: for a continuous variable P(X = a) = 0, so P(X < a) = P(X ≤ a) and P(a < X < b) = P(a ≤ X ≤ b). The inequality signs do not change the answer. For a discrete variable they can.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--09-variances-add.webp" width="900" height="780" alt="Three bars to scale. Var(2X + 3Y) and Var(2X − 3Y) are both 4Var(X) + 9Var(Y) = 0.506, though the means differ. Subtracting the variances (0.026) is crossed out as wrong." loading="lazy">
+  <figcaption>For independent variables the variances always add, even for a difference.</figcaption>
+</figure>
+
+
 ## 2. The probability density function
 
 A pdf f(x) describes where probability sits. It must satisfy two conditions:
@@ -90,6 +96,12 @@ P(X > 2) = (1/18)[9x − x³/3] from 2 to 3
 ```
 
 So **k = 1/18**, **P(1 < X < 2) = 10/27**, and **P(X > 2) = 4/27**. The upper limit for P(X > 2) is 3, not ∞, because f is zero beyond 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--01-probability-is-area.webp" width="900" height="830" alt="Graph of f(x) = (6 − x)/8 on 2 to 6, a right-angled triangle of area 1. The strip from x = 3 to 5 is shaded and has area 1/2. A single line at x = 4 has no width, so P(X = 4) = 0." loading="lazy">
+  <figcaption>Probability is the area under the pdf, and a single value has zero area.</figcaption>
+</figure>
+
 
 ## 3. The cumulative distribution function
 
@@ -161,6 +173,22 @@ F(x) = 1                        for x > 4
 
 Checking that F(4) = 1 and that the two pieces agree at x = 2 catches most slips.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--02-pdf-to-cdf.webp" width="900" height="985" alt="Two aligned graphs. The upper is the pdf x/6 then 1/3 with areas 1/12 and 7/12 shaded; the lower is the cdf rising to 1. Heights of the cdf at x = 1 and 3 are 1/12 and 2/3, and their gap 7/12 is P(1 &lt; X &lt; 3)." loading="lazy">
+  <figcaption>F(x) is the area collected so far, so P(a &lt; X &lt; b) = F(b) − F(a).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--06-linear-function-of-x.webp" width="900" height="915" alt="Two graphs on one scale. X, with pdf 4x³/15 on 1 to 2, has mean 1.65 and σ 0.26. 2X + 3 lies on 5 to 7 with mean 6.31 and σ 0.52: shifted by the +3 and spread doubled by the ×2." loading="lazy">
+  <figcaption>Adding b slides the distribution, and multiplying by a multiplies the variance by a².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--07-exponential-pdf.webp" width="900" height="850" alt="The pdf 0.4e^(−0.4x) falls from 0.4. The area from 2 to 6 is 0.359. A line marks the mean 2.5, equal to the standard deviation." loading="lazy">
+  <figcaption>An exponential pdf starts at λ and decays; its mean and standard deviation are both 1/λ.</figcaption>
+</figure>
+
+
 ## 4. From cdf to pdf
 
 Differentiate each piece. The pdf is zero outside the range where F rises from 0 to 1.
@@ -180,6 +208,12 @@ P = 5.25/12 = 7/16
 ```
 
 So **f(x) = (3x² + 2)/12** on the range and **P(0.5 < X < 1.5) = 7/16 = 0.4375**. You use F directly here, with no integration, which is why a given cdf is quicker to work with.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--03-cdf-to-pdf.webp" width="900" height="1030" alt="The cdf F(x) = (x³ − 1)/26 is drawn with tangents at x = 1.5 and 2.5. Below it, the pdf 3x²/26 has heights 0.26 and 0.72 at those x values, equal to the tangent slopes." loading="lazy">
+  <figcaption>Differentiating F gives f, so a steeper cdf means a taller pdf.</figcaption>
+</figure>
+
 
 ## 5. Finding a value for a given probability
 
@@ -211,6 +245,17 @@ m = (30 ± √(900 − 624))/6 = (30 ± √276)/6 = 5 ± √69/3
 ```
 
 The root 5 + √69/3 ≈ 7.77 is outside 2 ≤ x ≤ 4, so reject it. The median is **m = 5 − √69/3 ≈ 2.23**, which lies in the second piece as expected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--04-mean-median-mode.webp" width="900" height="830" alt="The pdf (4/27)x²(3 − x) on 0 to 3 peaks at x = 2. Lines mark the mean 1.8, median about 1.84 and mode 2; the median splits the area into two halves of 1/2." loading="lazy">
+  <figcaption>The median halves the area, and here mean &lt; median &lt; mode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--05-quartiles-piecewise.webp" width="900" height="870" alt="The piecewise cdf x²/12 then (x − 1)/3 meets at F(2) = 1/3. Horizontal lines at 1/4, 1/2 and 3/4 hit the curve and drop to Q1 = √3 ≈ 1.73, median 2.5 and Q3 = 3.25. 1/4 uses the first piece; 1/2 and 3/4 use the second." loading="lazy">
+  <figcaption>Compare the target probability with F at the break point to choose the piece.</figcaption>
+</figure>
+
 
 ### Worked example 5: quartiles when the equation has no neat solution
 

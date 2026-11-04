@@ -49,6 +49,32 @@ Condensed recall for the Pearson Edexcel International A Level Biology specifica
 
 magnification = image size ÷ actual size. Put both sizes in one unit before dividing (1 mm is 1000 µm).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--03-energy-organelles.webp" width="900" height="890" alt="A mitochondrion with a double membrane, an inner membrane folded into cristae and a fluid matrix containing circular DNA and 70S ribosomes; it carries out aerobic respiration. Below, a chloroplast with a double membrane, grana (stacks of thylakoids) in the stroma, a starch grain, circular DNA and 70S ribosomes; it carries out photosynthesis in plant cells." loading="lazy">
+  <figcaption>Both organelles have a double membrane, their own circular DNA and 70S ribosomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--04-secretory-pathway.webp" width="900" height="930" alt="Five numbered steps: mRNA leaves the nucleus through a pore; ribosomes on the rough ER make the protein; a vesicle carries it to the Golgi; the Golgi modifies and packages it; a vesicle fuses with the cell surface membrane and releases it by exocytosis. Mitochondria supply ATP. A lysosome also forms at the Golgi, and proteins from free ribosomes stay in the cell." loading="lazy">
+  <figcaption>The route from gene to secreted protein: nucleus, rough ER, vesicle, Golgi, vesicle, exocytosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--05-prokaryote-virus.webp" width="900" height="1060" alt="A rod-shaped bacterium with a capsule, cell wall, cell surface membrane, no nucleus, a circular DNA loop free in the cytoplasm, a plasmid, small 70S ribosomes, a flagellum and pili. Below, a virus: a nucleic acid core inside a protein capsid, with attachment proteins and, in some viruses, an envelope. A virus has no cytoplasm or ribosomes and is not a cell." loading="lazy">
+  <figcaption>A bacterium has no nucleus or membrane-bound organelles; a virus is acellular.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--06-resolution-scale.webp" width="900" height="900" alt="A logarithmic size scale from 0.1 nm to 100 micrometres. Bars show the smallest detail each microscope resolves: about 200 nm for light, 3 to 10 nm for SEM and 0.5 nm for TEM. Below, a ribosome (20 to 30 nm) needs an electron microscope, a mitochondrion (0.5 to 1 micrometre) appears as a dot in light microscopy, and a bacterium and a cell are visible in a light microscope." loading="lazy">
+  <figcaption>Resolution, set by wavelength, decides what you can see; extra magnification adds no detail.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--07-magnification-scale-bar.webp" width="900" height="960" alt="A micrograph with a cell 112 mm wide and a 32 mm scale bar labelled 2 micrometres. Magnification = 32 000 micrometres / 2 micrometres = x16 000. Actual width = 112 000 micrometres / 16 000 = 7.0 micrometres, checked by proportion: 3.5 bars of 2 micrometres." loading="lazy">
+  <figcaption>Convert to one unit, find magnification from the scale bar, then divide the image size by it.</figcaption>
+</figure>
+
+
 ## 4.3: starch and cellulose
 
 | | Starch | Cellulose |
@@ -83,6 +109,12 @@ Number of water molecules released in forming a chain = number of residues − 1
 | Helper cells | None | None | Companion cells |
 
 Plant fibres (flax, hemp, jute) are sclerenchyma fibres. Their high tensile strength and flexibility let people spin them into rope, cloth and paper and use them in composites.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--02-plant-cell.webp" width="900" height="830" alt="A plant cell drawn above part of its neighbour. A thick cellulose cell wall surrounds the cell surface membrane. Inside are a nucleus, a chloroplast with grana, an amyloplast with starch grains, and a large permanent vacuole bounded by the tonoplast. Between the two cells are the middle lamella, plasmodesmata channels through both walls, and a pair of aligned pits." loading="lazy">
+  <figcaption>Plant cells add a cellulose wall, chloroplasts, a large vacuole with a tonoplast and plasmodesmata; amyloplast, middle lamella and pits are Edexcel statements.</figcaption>
+</figure>
+
 
 ## 4.6 Core Practical 7
 
@@ -169,6 +201,12 @@ Plant-based products: starch-based plastics, fibre composites, paper packaging, 
 8. Cellulose is made of β-glucose and is straight with hydrogen bonds between chains; starch is made of α-glucose and is coiled or branched.
 9. Their walls are thickened and strengthened with lignin.
 10. Any two: no individual cells, no shading, sharp lines, correct proportions, labelled, title and magnification.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--01-animal-cell.webp" width="900" height="870" alt="A typical animal cell with its organelles labelled: cell surface membrane, nucleus with a two-membrane envelope with pores and a dark nucleolus, rough ER with ribosomes, smooth ER tubes without ribosomes, Golgi apparatus with vesicles, lysosome, a pair of centrioles at right angles, free ribosomes and mitochondria with folded inner membranes." loading="lazy">
+  <figcaption>The main organelles of an animal cell, drawn as seen with an electron microscope.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

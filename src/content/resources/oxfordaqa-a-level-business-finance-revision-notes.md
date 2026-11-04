@@ -61,6 +61,12 @@ Links: [course hub](/boards/oxfordaqa/a-level/business/) · [printable checklist
 4. Control? Owners who want control avoid share capital, angels and private equity.
 5. What is available? A start-up has no retained profit and no trading record.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--01-sources-of-finance.webp" width="900" height="970" alt="Internal sources (retained profits, sale of assets, sale and leaseback, working capital) sit inside a dashed business box; seven external sources point in from outside. Loans is highlighted for the Quillcote printer example." loading="lazy">
+  <figcaption>Money comes from inside the business (internal) or from outside it (external).</figcaption>
+</figure>
+
+
 ## 3.2.3.2 Break-even analysis
 
 | Measure | Formula |
@@ -96,6 +102,22 @@ Links: [course hub](/boards/oxfordaqa/a-level/business/) · [printable checklist
 
 **Worked reminder.** A tutoring firm charges £30 per session, pays the tutor £12 per session and has fixed costs of £2,700 a month. Contribution = 30 − 12 = £18; break-even = 2,700 ÷ 18 = 150 sessions. At 190 sessions the margin of safety is 40 sessions and profit is 40 × 18 = £720. Check the long way: revenue 190 × 30 = £5,700; total costs 2,700 + (190 × 12) = £4,980; profit £720.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
+
 ## 3.2.3.3 Profit and cash
 
 ### Profit
@@ -113,6 +135,12 @@ Links: [course hub](/boards/oxfordaqa/a-level/business/) · [printable checklist
 
 **Ways to improve profit/profitability:** raise price (watch elasticity), cut variable costs (watch quality), cut fixed costs (watch capacity and morale), raise volume (watch promotion cost and capacity).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+
 ### Budgeting
 
 **Variance = actual − budget.** Then decide F or A by its effect on profit:
@@ -127,6 +155,12 @@ Links: [course hub](/boards/oxfordaqa/a-level/business/) · [printable checklist
 2. Label each F or A by its effect on profit.
 3. Recalculate profit for budget and actual.
 4. Check: profit variance = favourable total − adverse total.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it lowers it; a cost above budget is adverse.</figcaption>
+</figure>
+
 
 ### Cash flow
 
@@ -149,6 +183,17 @@ Links: [course hub](/boards/oxfordaqa/a-level/business/) · [printable checklist
 **Reading the days figures:** if receivables days are longer than payables days, the business pays out before it is paid and must finance the gap.
 
 **Improving cash flow:** debt factoring, shortening payment time from customers, early payment incentives, credit checks, increasing payment time to suppliers, reducing outgoings, better invoice management. Each one either speeds up inflows or delays or cuts outflows -- say which, then give its cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--07-cash-gap-days.webp" width="900" height="930" alt="A copper bar of 20 days (payables days) and a teal bar of 35 days (receivables days) share a day scale. The 15 days between them is a cash gap the business must finance." loading="lazy">
+  <figcaption>Paying suppliers 15 days before customers pay creates a gap the business must fund.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -188,6 +233,12 @@ Links: [course hub](/boards/oxfordaqa/a-level/business/) · [printable checklist
 10. Contribution per unit rises, so break-even output **falls**.
 11. The van is a long-term asset but an overdraft is short-term, costly and can be withdrawn; a loan matches repayments to the van's life.
 12. Selling an asset, usually property, to raise cash and then leasing it back so the business keeps using it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
+  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

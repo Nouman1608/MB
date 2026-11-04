@@ -75,6 +75,12 @@ applied force, and why snowshoes (large contact area) let a person walk on
 snow without sinking, spreading the same weight over a much larger area to
 produce a much lower pressure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--01-pressure-force-area.webp" width="900" height="850" alt="Two blocks each press with 600 N. On 0.5 m2 the pressure is 1200 Pa and the block sinks little into sand; on 0.1 m2 it is 6000 Pa and it sinks deeper." loading="lazy">
+  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
+</figure>
+
+
 ## Direction of the force from pressure
 
 The pressure at a surface produces a force acting at **right angles
@@ -85,6 +91,12 @@ liquid, the manometer reading (proportional to the force the liquid exerts
 on the funnel's membrane) stays the same — showing the liquid pushes
 perpendicular to the membrane regardless of the membrane's orientation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--02-right-angles-experiment.webp" width="900" height="880" alt="Three beakers hold a thistle funnel at the same depth facing up, sideways and down, joined to a U-tube manometer. The arrows meet the membrane at right angles and the manometer shows the same height difference h each time." loading="lazy">
+  <figcaption>Pressure at a point acts at right angles to the surface, and is the same in every direction.</figcaption>
+</figure>
+
+
 ## Atmospheric pressure and the liquid barometer
 
 A **liquid barometer** measures atmospheric pressure using a column of
@@ -94,6 +106,12 @@ atmosphere. Atmospheric pressure pushes down on the reservoir's surface,
 supporting the column of liquid in the tube — the height of that column is
 a direct measure of atmospheric pressure: a taller column means a higher
 atmospheric pressure was needed to support it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--04-liquid-barometer.webp" width="900" height="1070" alt="Two mercury barometers with a vacuum above the column and open to a dish. At higher air pressure the arrows are longer and the column is taller (788 mm) than at lower air pressure (713 mm)." loading="lazy">
+  <figcaption>A taller mercury column means a higher atmospheric pressure.</figcaption>
+</figure>
+
 
 ## Pressure beneath a liquid surface
 
@@ -118,6 +136,17 @@ water) produces a far greater pressure than the equivalent depth of water,
 which is exactly why mercury (rather than water) is the practical choice
 for a barometer: it gives a manageably short column for typical atmospheric
 pressures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--03-pressure-with-depth.webp" width="900" height="960" alt="A tank of water with arrows on the wall that lengthen with depth: 9800 Pa at 1 m, 19600 Pa at 2 m, 29400 Pa at 3 m, matching the worked example 1000 x 9.8 x 3." loading="lazy">
+  <figcaption>Pressure beneath a liquid increases in proportion to depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--05-why-mercury.webp" width="900" height="1170" alt="Drawn to scale, the same air pressure supports about 0.75 m of mercury but about 10.2 m of water, because mercury is 13.6 times denser." loading="lazy">
+  <figcaption>A denser liquid gives a shorter column, so mercury is practical for barometers.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

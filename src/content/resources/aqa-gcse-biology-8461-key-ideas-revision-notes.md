@@ -72,6 +72,27 @@ Symbols to recognise: CO₂, H₂O, O₂, C₆H₁₂O₆.
 - DNA: double helix polymer; gene = section coding for a sequence of amino acids; **3 bases → 1 amino acid**.
 - (Higher tier only) Protein chains fold into a unique shape; a mutation may change the shape so an enzyme no longer fits its substrate or a structural protein loses strength.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--03-denaturation.webp" width="900" height="1090" alt="Three panels: a working enzyme whose substrate fits; a too-hot enzyme whose active site has changed shape so the substrate does not fit; the same enzyme cooled again, still with the changed shape and still not working." loading="lazy">
+  <figcaption>Heat changes the shape of the active site, and cooling does not restore it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
+
 ## 2. Organisation and exchange
 
 - Tissue = cells with similar structure and function; organ = tissues with a specific function; organ system = organs working together.
@@ -84,12 +105,34 @@ Symbols to recognise: CO₂, H₂O, O₂, C₆H₁₂O₆.
 > 3. Ratio = surface area ÷ volume, written as "n : 1".
 > 4. Compare: a bigger ratio means faster exchange per unit volume.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--02-alveolus-gas-exchange.webp" width="900" height="1080" alt="One alveolus at the end of a bronchiole is wrapped by a capillary. Oxygen diffuses from the air through the thin walls into the blood and carbon dioxide diffuses out into the air. Blood arrives with more carbon dioxide and leaves with more oxygen. Four numbered features (large surface area, thin walls, good blood supply, good ventilation) make the surface efficient." loading="lazy">
+  <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
+</figure>
+
+
 ## 3 and 4. Communities, interdependence, adaptation
 
 - Population (one species) → community (many species) → ecosystem (community + abiotic factors).
 - Interdependence: food, shelter, pollination, seed dispersal.
 - Adaptations: structural, behavioural, functional. Extremophiles live at high temperature, pressure or salt concentration.
 - High biodiversity → more stable ecosystem.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-key-ideas--08-population-community-ecosystem.webp" width="900" height="1040" alt="A population is one species (identical circles); a community is many species (circles, triangles, squares); an ecosystem is the community plus the abiotic environment: light, water and soil." loading="lazy">
+  <figcaption>Population = one species; community = many species; ecosystem = community plus abiotic environment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-key-ideas--06-food-web-stability.webp" width="900" height="1020" alt="With few species, losing rabbits leaves the fox with no food. In a web with many species the fox still eats mice and the bird still has food, so the community is more stable." loading="lazy">
+  <figcaption>More species means less dependence on any one species.</figcaption>
+</figure>
+
 
 ## 5 and 6. Photosynthesis, respiration, metabolism
 
@@ -98,11 +141,38 @@ Symbols to recognise: CO₂, H₂O, O₂, C₆H₁₂O₆.
 - Energy from respiration is used to build larger molecules, for movement and to keep warm.
 - Metabolism = sum of all reactions in a cell or the body, and includes respiration and the breakdown of excess protein to **urea**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-bioenergetics--07-metabolism-building-blocks.webp" width="900" height="980" alt="Glucose joins to make starch, glycogen and cellulose; one glycerol and three fatty acids make a lipid; amino acids make a protein, with excess protein broken down to urea." loading="lazy">
+  <figcaption>Small units are built into carbohydrates, lipids and proteins.</figcaption>
+</figure>
+
+
 ## 7. Cycling
 
 - Photosynthesis removes CO₂; respiration returns it.
 - Decomposers return CO₂ to the air and mineral ions to the soil.
 - Water cycle: evaporation and precipitation supply fresh water on land.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--06-carbon-cycle.webp" width="900" height="1070" alt="Photosynthesis takes carbon dioxide from the air into plants. Feeding passes carbon to animals. Respiration by plants, animals and decomposers returns carbon dioxide to the air. Dead organisms and waste are broken down by decomposers (decomposition) or, if not fully decomposed, form fossil fuels over millions of years. Combustion of fossil fuels releases carbon dioxide." loading="lazy">
+  <figcaption>The six carbon-cycle processes shown as arrows between air, organisms, dead matter and fossil fuels.</figcaption>
+</figure>
+
 
 ## 8 and 9. Genome, variation, evolution
 
@@ -121,6 +191,27 @@ Symbols to recognise: CO₂, H₂O, O₂, C₆H₁₂O₆.
 > 4. End with the effect the question asks about (growth, survival, population size).
 
 **Worked reminder.** A cube of side 3 mm: surface area 6 × 3 × 3 = 54 mm²; volume 27 mm³; ratio 54 ÷ 27 = 2 : 1. A 1 mm cube has 6 : 1, so the smaller cube exchanges three times as fast per unit volume.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-key-ideas--09-genome-or-environment.webp" width="900" height="1100" alt="Identical twins share a genome, so differences between them are environmental. Cuttings from one parent plant have identical genes, so differences in height point to light, water or mineral ions." loading="lazy">
+  <figcaption>Same genome means differences are environmental.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--15-classification-levels.webp" width="900" height="1080" alt="Seven levels from kingdom to species. The binomial name is genus plus species, with Homo sapiens as an example. Woese’s three-domain system groups life into archaea, bacteria and eukaryota." loading="lazy">
+  <figcaption>Linnaeus’s seven levels, binomial names, and Woese’s three domains.</figcaption>
+</figure>
+
 
 ## Linking chains to learn
 
@@ -173,6 +264,12 @@ Each chain joins two or more key ideas. Learn the links, not just the facts.
 10. Any two of: building larger molecules; movement; keeping warm.
 11. The active site changes shape (denatures), so the substrate no longer fits.
 12. **Metabolism**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

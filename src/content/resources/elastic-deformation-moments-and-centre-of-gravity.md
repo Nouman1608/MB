@@ -94,6 +94,17 @@ straight. (The related idea of the *elastic limit* — the point beyond which
 the spring won't return to its original length — is a different point on
 the same graph, but is **not required** at this level.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--01-load-extension-graph.webp" width="900" height="940" alt="Load-extension graph for a spring of constant 50 N/m: straight through the origin to 0.16 m and 8 N, where the limit of proportionality is marked, then curving. A gradient triangle (4 N over 0.08 m) gives k = 50 N/m." loading="lazy">
+  <figcaption>The gradient of the straight part is the spring constant; the line stops being straight at the limit of proportionality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--02-extension-springs.webp" width="900" height="820" alt="Four springs hang with loads of 0, 2, 4 and 6 N. A dashed line marks the natural length; extension x is measured from it and is 0.04, 0.08 and 0.12 m. F divided by x is 50 N/m each time." loading="lazy">
+  <figcaption>Extension is the increase in length from the natural length, not the total length.</figcaption>
+</figure>
+
+
 ## Moments and the principle of moments
 
 The **moment** of a force is a measure of its turning effect about a
@@ -134,6 +145,17 @@ clockwise moment = anticlockwise moment
 d = 360 / 400 = 0.9 m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--03-moment-of-a-force.webp" width="900" height="1010" alt="A spanner pivoted at one end. A 20 N force at right angles, 0.3 m from the pivot, gives a moment of 6 N m. The same force at 30 degrees to the spanner has a perpendicular distance of 0.15 m and gives 3 N m." loading="lazy">
+  <figcaption>Use the perpendicular distance from the pivot to the line of the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--04-balanced-seesaw.webp" width="900" height="1030" alt="A see-saw pivoted at its centre with 300 N at 1.2 m and 400 N at 0.9 m. Both moments are 360 N m, and the 700 N upward force at the pivot equals the total weight." loading="lazy">
+  <figcaption>Balanced moments (360 N m each side) and balanced forces (700 N up) both hold.</figcaption>
+</figure>
+
+
 ## Centre of gravity and stability
 
 The **centre of gravity** of an object is the single point through which
@@ -149,6 +171,17 @@ is more stable, because it can be tilted further before its centre of
 gravity moves outside its base and it topples — this is why, for instance,
 a wide-based, low-set object resists tipping over far more than a tall,
 narrow one with the same weight.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--05-plumb-line-lamina.webp" width="900" height="1160" alt="A plane lamina is hung from pin A with a plumb line, then from pin B. The two vertical lines, drawn on the lamina, cross at the centre of gravity." loading="lazy">
+  <figcaption>The centre of gravity is where the plumb lines from two suspension points cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--06-stability.webp" width="900" height="700" alt="Two blocks tilted by 25 degrees. For the tall narrow block the vertical line from the centre of gravity falls outside the base, so it topples (beyond about 20 degrees). For the low wide block it falls inside the base, so it falls back (beyond about 65 degrees)." loading="lazy">
+  <figcaption>A low centre of gravity and a wide base let an object tilt further before it topples.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

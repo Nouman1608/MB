@@ -64,6 +64,12 @@ Calculator notation is not acceptable in an answer. If your GDC shows `5.2E30`, 
 
 For division, divide the a values and subtract the powers: (9.6 × 10⁴) ÷ (3.2 × 10⁻⁵) = 3 × 10⁹. To add or subtract, first write both numbers with the same power of 10: 4.3 × 10⁵ + 2.1 × 10⁴ = 4.3 × 10⁵ + 0.21 × 10⁵ = 4.51 × 10⁵.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--01-standard-form-check.webp" width="900" height="1130" alt="A gauge from 1 to 10 shows the allowed values of a, with 3.6 inside and 36 and 0.36 outside. The worked example (7.2 × 10⁻³) × (5 × 10⁸) gives 36 × 10⁵. Because 36 is too big it becomes 3.6 × 10¹, and the powers combine to give 3.6 × 10⁶. Addition first matches the powers of ten: 4.3 × 10⁵ + 0.21 × 10⁵ = 4.51 × 10⁵." loading="lazy">
+  <figcaption>The front number a must lie from 1 up to (not including) 10.</figcaption>
+</figure>
+
+
 ## 1.2 Arithmetic sequences and series
 
 An arithmetic sequence adds the same amount, the **common difference** d, each time. The first term is u₁.
@@ -97,6 +103,12 @@ means substitute r = 5, 6, …, 20 and add the results. The terms go up by 2 eac
 - First term: 2(5) + 1 = 11; last term: 2(20) + 1 = 41
 - Sum: (16/2)(11 + 41) = 8 × 52 = **416**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--03-sigma-count-terms.webp" width="900" height="980" alt="The sum from r = 5 to 20 of (2r + 1) is shown as 16 boxes, one for each r, with the terms 11, 13, ..., 41 beneath. A bracket stresses that there are 16 terms, not 15. Arcs join the first and last terms, the second and second-last, and so on; each pair adds to 52, and 8 pairs give 416." loading="lazy">
+  <figcaption>Count the terms as top − bottom + 1, then pair the ends: 8 × 52 = 416.</figcaption>
+</figure>
+
+
 ### Applications and simple interest
 
 Simple interest pays the same amount every year, so the balance forms an arithmetic sequence. Put £2000 in an account paying 3% simple interest and it gains £60 a year: £2060, £2120, £2180, … After 10 years the balance is 2000 + 10 × 60 = £2600.
@@ -106,6 +118,12 @@ Simple interest pays the same amount every year, so the balance forms an arithme
 The guide expects you to approximate a common difference from data that is nearly, but not exactly, arithmetic. A simple, defensible approach is to take the overall change divided by the number of steps.
 
 **Worked example.** A café sells 98 pastries in week 1 and 143 in week 6, with roughly equal increases in between. An approximate common difference is (143 − 98)/5 = 9 pastries per week. You can then predict later weeks with u_n ≈ 98 + 9(n − 1), and comment that the prediction becomes less reliable the further you go beyond the data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--02-ap-from-two-terms.webp" width="900" height="980" alt="Bars and a straight line show the arithmetic sequence 3, 7, 11, ..., 47. A slope triangle between u₃ = 11 and u₈ = 31 shows 5 steps and a rise of 20, so d = 4. Counting back two steps gives u₁ = 3, and S₁₂ = 300." loading="lazy">
+  <figcaption>Two terms give 5d = 20 at once, then u₁ and S₁₂ follow.</figcaption>
+</figure>
+
 
 ## 1.3 Geometric sequences and series
 
@@ -140,6 +158,12 @@ The guide says that if you use technology in an exam, you are expected to identi
 
 Growth or decay by a fixed percentage is geometric. A salary rising by 4% a year has r = 1.04. A population falling by 2% a year has r = 0.98. Be careful with the index: if year 1 is the starting value, then year n is u₁ × rⁿ⁻¹, not u₁ × rⁿ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--04-gp-least-n.webp" width="900" height="1030" alt="Bars show the partial sums S_n of 5 + 15 + 45 + ... for n = 1 to 8, which grow from 5 to 16 400. A dashed line at 10 000 shows S₇ = 5465 is below it and S₈ = 16 400 is above, so the least n is 8. This agrees with n &gt; ln 4001 / ln 3 = 7.549." loading="lazy">
+  <figcaption>S₇ is below 10 000 and S₈ is above, so n = 8.</figcaption>
+</figure>
+
+
 ## 1.4 Financial applications
 
 ### Compound interest
@@ -159,6 +183,12 @@ Rate per quarter: 3.6/4 = 0.9%, so the multiplier is 1.009
 Number of periods: 4 × 7 = 28
 FV = 5000 × 1.009^28 = £6425.73
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--05-simple-vs-compound.webp" width="900" height="1250" alt="Over 7 years, £5000 at 3.6% grows in a straight line with simple interest (£180 a year, ending at £6260) but along a bending curve with quarterly compound interest, ending at £6425.73 after 28 periods at 0.9% each. A short list shows yearly, half-yearly, quarterly and monthly compounding giving £6404.55, £6418.58, £6425.73 and £6430.55." loading="lazy">
+  <figcaption>Compound interest multiplies each period, so it pulls ahead of the straight simple-interest line.</figcaption>
+</figure>
+
 
 ### Using the financial package on your GDC
 
@@ -181,6 +211,12 @@ Depreciation reduces a value by a fixed percentage each year, so r is less than 
 60 000 × 0.88^4 = £35 981.72 after 4 years
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--06-depreciation.webp" width="900" height="1030" alt="A falling curve and bars show a £60 000 machine losing 12% of its value each year, so each year multiplies the value by 0.88. The drops get smaller each year. After 4 years the value is 60 000 × 0.88⁴ = £35 981.72." loading="lazy">
+  <figcaption>Depreciation is a geometric sequence with ratio 0.88, less than 1.</figcaption>
+</figure>
+
+
 ### Real value and inflation
 
 Inflation means money buys less in future. To find the real value of an investment in today's money, divide its future value by the inflation factor for the same number of years. If the £6425.73 above is affected by inflation of 2.2% a year for 7 years, its real value is
@@ -194,6 +230,12 @@ Use the unrounded future value. Dividing the rounded £6425.73 gives £5517.80.
 Subtracting the inflation rate from the interest rate and compounding at that rate gives a close but not identical answer, so if a question describes a method, follow it.
 
 The guide says exam questions will not ask you to derive the compound interest formula. It also notes that the link between continuous compounding and e is enrichment only and is not examined.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--07-real-value-inflation.webp" width="900" height="940" alt="Three bars show £5000 invested, a future value of £6425.73 after 7 years, and a real value of £5517.81. An arrow from the future value to the real value is labelled divide by 1.022 to the power 7, for 2.2% inflation. Using the rounded future value would give £5517.80." loading="lazy">
+  <figcaption>Dividing by the inflation factor turns future money into today’s money.</figcaption>
+</figure>
+
 
 ## 1.8 Sum of an infinite geometric series
 
@@ -220,6 +262,17 @@ S∞ = 0.27 / 0.99 = 27/99 = 3/11
 ```
 
 When r contains x, the condition |r| < 1 gives an inequality. For example, if r = 2x − 1, then −1 < 2x − 1 < 1, so 0 < x < 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--08-infinite-sum-end-to-end.webp" width="900" height="890" alt="The terms 18, 12, 8, ... with ratio 2/3 are laid end to end as blocks that shrink and creep towards a dashed line at 54 without passing it. Since the ratio is 2/3 and its size is below 1, S∞ = 18 / (1 − 2/3) = 54. The recurring decimal 0.272727... is the series 0.27 + 0.0027 + ..., with u₁ = 0.27 and r = 0.01, giving 3/11." loading="lazy">
+  <figcaption>Shrinking terms laid end to end approach, but never pass, 54.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--09-convergence-range-x.webp" width="900" height="980" alt="The line r = 2x − 1 is plotted against x with a band showing where |r| &lt; 1. The line is inside the band only for x between 0 and 1; the open circles at x = 0 and x = 1 show those values are excluded. Solving −1 &lt; 2x − 1 &lt; 1 gives 0 &lt; x &lt; 1." loading="lazy">
+  <figcaption>The series converges only when the ratio line lies inside the band, 0 &lt; x &lt; 1.</figcaption>
+</figure>
+
 
 ## What must be done by hand
 

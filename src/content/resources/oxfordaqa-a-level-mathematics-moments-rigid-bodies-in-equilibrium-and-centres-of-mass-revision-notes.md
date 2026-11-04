@@ -63,6 +63,12 @@ R_B = 8g = 78.4 N
 R_A = 18g - 8g = 10g = 98 N
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--03-beam-two-supports.webp" width="900" height="1100" alt="A 6 m uniform beam of 40 kg rests on supports 1 m and 4.5 m from A with a 30 kg child at 5.5 m. Moments about C remove R_C and give R_D = 602 N; resolving vertically gives R_C = 84 N." loading="lazy">
+  <figcaption>Take moments about a support so one unknown reaction drops out, then resolve vertically for the other.</figcaption>
+</figure>
+
+
 ## Ladder against a smooth wall: method in steps
 
 1. Draw S (wall, horizontal, away from the wall), R (ground, vertical, up), F (friction, horizontal, towards the wall) and each weight.
@@ -72,6 +78,12 @@ R_A = 18g - 8g = 10g = 98 N
 5. For equilibrium, F ≤ μR, so the least μ is F ÷ R.
 
 If the wall is rough, it also supplies a vertical friction force. You then need all three equations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--06-ladder-smooth-wall.webp" width="900" height="1120" alt="A 5 m, 18 kg uniform ladder rests at 70 degrees against a smooth wall. Moments about A use the horizontal arm 2.5 cos 70 for the weight and the vertical arm 5 sin 70 for the wall reaction, giving S = 32.1 N. With R = 176.4 N, mu = 0.182." loading="lazy">
+  <figcaption>Weight acts at a horizontal distance, the wall reaction at a vertical height: cos and sin must not be swapped.</figcaption>
+</figure>
+
 
 ## Centre of mass
 
@@ -86,6 +98,22 @@ If the wall is rough, it also supplies a vertical friction force. You then need 
 ```
 X = (A_whole × x_whole - A_hole × x_hole) / (A_whole - A_hole)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--07-centre-of-mass-particles.webp" width="900" height="1260" alt="Particles of 4 kg at (-1, 2), 1 kg at (3, 5) and 3 kg at (2, -3) have sum m = 8, sum mx = 5 and sum my = 4. The centre of mass G is at (0.625, 0.5), marked on the axes." loading="lazy">
+  <figcaption>The centre of mass is the mass-weighted average of the positions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--08-lamina-with-hole.webp" width="900" height="1090" alt="A 12 cm by 8 cm uniform rectangle has a circular hole of radius 2 cm centred at (9, 3). Treating the hole as area -4 pi, the centre of mass is at x = 5.55 cm and y = 4.15 cm, shifted away from the hole." loading="lazy">
+  <figcaption>Use areas as masses and give a hole a negative area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--09-lamina-hanging-freely.webp" width="900" height="1002" alt="A right-angled triangle ABC with AB = 12 cm and BC = 9 cm hangs freely from A. G is at (3, 4) with B at the origin and must lie vertically below A, so AG is 3 across and 8 down. The angle between AB and the vertical has tan = 3/8, giving 20.6 degrees." loading="lazy">
+  <figcaption>A freely suspended lamina settles with its centre of mass directly below the suspension point.</figcaption>
+</figure>
+
 
 ## Suspended bodies: method in steps
 
@@ -117,6 +145,12 @@ A question that says "on the point of tilting" or "greatest distance" is asking 
 5. State the direction of the inequality in the answer, for example "m must be at most 60 kg".
 
 A ladder question that says "on the point of slipping" is the same idea with friction: set F = μR and use the moment equation about the foot.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--04-point-of-tilting.webp" width="900" height="1060" alt="The beam is about to tilt about D, so R_C = 0. Moments about D give 40g x 1.5 = Mg x 1.5, so M = 40 kg; a number line shows the beam stays level below 40 kg and tilts above it. The 30 kg child would need to stand 6.5 m from A, beyond the 6 m beam." loading="lazy">
+  <figcaption>When a beam is about to tilt about one support, the reaction at the other support is zero.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -153,6 +187,17 @@ A ladder question that says "on the point of slipping" is the same idea with fri
 9. Vertically below P.
 10. About A: T sin 30° × 2 = 50 × 2, so T = 100 N.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--01-moment-of-a-force.webp" width="900" height="860" alt="A 24 N force acts at A on a 2.5 m rod OA at 40 degrees to the rod. The perpendicular distance from O to the line of action is 2.5 sin 40 = 1.61 m, and F sin theta turns the rod while F cos theta passes through O. Moment = 24 x 2.5 x sin 40 = 38.6 N m anticlockwise." loading="lazy">
+  <figcaption>Only the part of the force at right angles to the rod turns it: moment = F d sin theta.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--05-hinged-rod.webp" width="900" height="1000" alt="A 1.8 m, 4 kg rod is hinged at A and held horizontal by a string at 40 degrees to the rod, with a 2 kg particle 1.5 m from A. Moments about A give T = 55.9 N; resolving gives H = 42.8 N and V = 22.9 N, a hinge force of 48.5 N at 28.1 degrees above the horizontal." loading="lazy">
+  <figcaption>Taking moments about the hinge removes both hinge components, leaving the tension to find first.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 * Writing a moment as force × distance along a sloping rod, without the sine or cosine.
@@ -164,6 +209,12 @@ A ladder question that says "on the point of slipping" is the same idea with fri
 * Forgetting to subtract the removed piece or adding it by mistake.
 * Rounding the centre of mass early and then finding an angle that is slightly out.
 * Stating "equilibrium" without saying which two conditions you are applying.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--02-resultant-moment.webp" width="900" height="1050" alt="A 4 m light rod is pivoted 1.5 m from A with downward forces 30 N at A, 10 N at C and 18 N at B. Moments about P are 45 N m anticlockwise against 15 + 45 = 60 N m clockwise, a resultant of 15 N m clockwise." loading="lazy">
+  <figcaption>Add the moments in one sense and subtract those in the other to find which way the rod turns.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

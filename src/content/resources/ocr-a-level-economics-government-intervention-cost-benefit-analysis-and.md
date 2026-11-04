@@ -1,0 +1,245 @@
+---
+title: "OCR A Level Economics: Government intervention, CBA and government failure (H460)"
+seoTitle: "OCR A Level Economics Government Intervention and CBA"
+resourceType: "study-guides"
+subject: "economics"
+level: ["a-levels"]
+topic: "Government intervention, cost-benefit analysis and government failure"
+boards: ["ocr"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
+order: 215
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "microeconomics-ocr-alevel-economics"
+    subtopic: "the-role-of-markets-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
+    subtopic: "alternative-methods-of-government-intervention-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
+    subtopic: "government-failure-ocr-aslevel-economics"
+description: "OCR A Level Economics study guide to government intervention, cost benefit analysis and government failure, with worked calculations and evaluation."
+author: "marlbridge-academic-team"
+publishedDate: 2026-10-18
+featured: false
+---
+
+This guide follows the OCR A Level Economics (H460) specification, Version 3.0 (June 2026), for first assessment in 2021. It covers two topics in Component 1 (Microeconomics) under the area of study "Market failure and government intervention": "Alternative methods of government intervention" and "Government failure". All figures are invented; the countries are fictional.
+
+Links: [revision notes](/resources/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and-revision-notes/), [practice questions](/resources/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and-practice/), [OCR economics hub](/boards/ocr/a-level/economics/), [printable checklist](/checklists/ocr/a-level/economics/), [free 10-minute diagnostics](/diagnostics/). For the market failures themselves, see [information failure, merit and demerit goods, public goods and inequity](/resources/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public/).
+
+## What you must be able to do
+
+| Specification statement | Section |
+|---|---|
+| Why governments intervene | 1 |
+| How intervention corrects market failure and inequity, with diagrams: taxes and subsidies, state provision, buffer stocks, price controls, public/private partnerships, legislation and regulation, tradable permits, information provision, competition policy | 2 to 5 |
+| Evaluate effectiveness | 6 |
+| Cost Benefit Analysis: meaning, infrastructure use, value in decisions | 7 |
+| Government failure: meaning, causes, consequences | 8 |
+
+## 1. Why governments intervene
+
+- **Market failure.** Private decisions ignore external costs and benefits, so negative-externality goods are over-produced and positive ones under-produced. Public goods go unsupplied, information may be missing, and firms with market power restrict output.
+- **Inequity.** Markets reward ownership of resources, so income, wealth and access to essentials such as healthcare can be very unequal.
+
+## 2. Taxation and subsidies
+
+**Indirect tax.** A specific tax is a fixed sum per unit and shifts supply vertically upwards by that sum. The price rises by less than the tax, so the burden is shared.
+
+**Worked example (tax on a good with an external cost).** In Country A the market for disposable packaging has demand Qd = 240 - 6P and supply Qs = 4P - 40 (P in currency units, cu). Each unit imposes an external cost of 5 cu.
+
+- Equilibrium: 240 - 6P = 4P - 40, so P = 28 cu and Q = 72.
+- Marginal social cost is supply shifted up by 5 cu; setting it equal to demand gives the optimum, 60 units.
+- A tax of 5 cu makes Qs = 4(P - 5) - 40. Then 240 - 6P = 4P - 60, so P = 30 cu and Q = 60: the optimum.
+- Incidence: consumers pay 2 cu more, so bear 2/5 = 40%; producers receive 25 cu, 3 cu less, so bear 60%.
+- Revenue: 5 x 60 = 300 cu. Deadweight loss removed: 0.5 x 5 x 12 = 30 cu.
+
+Producers bear more because supply is less elastic here.
+
+**Subsidy.** A subsidy shifts supply down (right) by the amount per unit. In Country A the market for adult training places has demand Qd = 100 - 2P and supply Qs = 3P - 20, so P = 24 cu and Q = 52. Each place has an external benefit of 5 cu.
+
+- A subsidy of 5 cu gives Qs = 3(P + 5) - 20 = 3P - 5. Then 100 - 2P = 3P - 5, so P = 21 cu and Q = 58. Marginal social benefit is demand plus 5 cu: 110 - 2P = 3P - 20 also gives Q = 58, the optimum.
+- Students pay 3 cu less (60%); providers receive 26 cu, 2 cu more. Cost: 5 x 58 = 290 cu. Welfare gain: 0.5 x 5 x 6 = 15 cu.
+
+The gain (15 cu) is small next to the cost (290 cu): most of the subsidy pays for places bought anyway.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--01-packaging-tax.webp" width="900" height="920" alt="Packaging market with an external cost of 5 cu. A 5 cu tax shifts supply up onto marginal social cost and moves the market from 72 units to the optimum 60. The shaded triangle is the 30 cu deadweight loss removed. Consumers bear 40% and producers 60% of the tax." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from 72 to the social optimum of 60 and removes a 30 cu welfare loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--05-gov-subsidy-training.webp" width="900" height="790" alt="Demand and supply meet at A with 52 places at 24 cu. A 5 cu subsidy moves supply down so B has 58 places and students pay 21 cu. MSB crosses supply at 58 where providers receive 26 cu; the small triangle is the 15 cu welfare gain against a 290 cu cost." loading="lazy">
+  <figcaption>A 5 cu subsidy reaches the optimum 58 places, but the gain of 15 cu is small next to its cost of 290 cu.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+
+## 3. Government expenditure, state provision and public/private partnerships
+
+**State provision.** The government pays for a good or service and usually supplies it free or below cost, funded from taxation. It suits public goods, which the market will not supply, and merit goods such as education and healthcare, where access should not depend on income. Transfer payments to low-income households tackle inequity directly. Diagram: supply becomes a vertical line at the quantity provided, with the price paid at zero; compare that quantity with the social optimum. Weaknesses: opportunity cost of tax revenue, weaker cost discipline, and difficulty judging how much to provide.
+
+**Public/private partnerships (PPPs).** A private firm builds, finances and perhaps operates an asset (a hospital, a school, a road) and the government pays for its use over many years. The aim is to use private expertise and finance and pass risk, such as cost overruns, to the firm; show the extra output on the externality diagram. Drawbacks: the partner needs a profit, so payments can exceed the cost of public borrowing; contracts are complex; the government may keep the real risk.
+
+## 4. Buffer stock systems and price controls
+
+**Buffer stocks** stabilise the price of storable goods, typically farm products. The agency buys when the price would fall below a **floor price** and sells when it would rise above a **ceiling price**.
+
+**Worked example.** In Country B demand for grain is Qd = 400 - 4P. The price band is 40 to 60 cu per tonne.
+
+- Bumper harvest, Qs = 12P - 112: the free price is 32 cu (Q = 272), below the floor.
+- At 40 cu, demand is 240 and supply 368, so the agency buys 128 tonnes at a cost of 128 x 40 = 5,120 cu. Farmers' revenue rises from 8,704 cu (272 at 32) to 14,720 cu (368 at 40).
+- Poor harvest, Qs = 2P - 20: the free price is 70 cu (Q = 120), above the ceiling.
+- At 60 cu, demand is 160 and supply 100, so the agency releases 60 tonnes and receives 3,600 cu. Stock falls from 128 to 68 tonnes.
+
+Evaluation: the band must match the long-run price. A floor set too high builds stocks and storage costs; if stocks run out the ceiling cannot hold.
+
+**Maximum price (ceiling).** A price below equilibrium to help consumers afford essentials. In Country C the rental market has Qd = 500 - 2P and Qs = 3P - 250, so P = 150 cu and Q = 200. A cap of 120 cu gives Qd = 260 and Qs = 110: a shortage of 150. Consumers would pay up to (500 - 110)/2 = 195 cu for the last unit, so black markets, queues and falling quality follow.
+
+**Minimum price.** A price above equilibrium, to raise producers' incomes or curb a demerit good. On the diagram a horizontal line above equilibrium leaves quantity supplied above quantity demanded: a surplus unless the government buys it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--06-gov-buffer-grain.webp" width="900" height="1060" alt="Two diagrams with a 40 floor and 60 ceiling. In a bumper harvest the free price 32 is below the floor so the agency buys 128 tonnes for 5,120 cu. In a poor harvest the free price 70 is above the ceiling so it sells 60 tonnes for 3,600 cu." loading="lazy">
+  <figcaption>The agency buys at the floor and sells at the ceiling to hold the price inside the band.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--07-gov-rent-cap.webp" width="900" height="850" alt="Free-market equilibrium is 200 homes at 150 cu. A cap of 120 cu gives demand of 260 and supply of 110, a shortage of 150. Consumers would pay up to 195 cu for the last home supplied." loading="lazy">
+  <figcaption>A cap below equilibrium creates a shortage of 150 and invites a black market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--03-buffer-stock.webp" width="900" height="1030" alt="Demand slopes down; supply is three vertical lines for a bad (30), normal (50) and good (70) harvest. The agency sets a lower price of 4 and an upper price of 6. In a good harvest it buys 10 units to stop the price falling below 4; in a bad harvest it sells 10 units from store to stop the price rising above 6." loading="lazy">
+  <figcaption>A buffer stock buys when price is low and sells when price is high, keeping price between two limits.</figcaption>
+</figure>
+
+
+## 5. Legislation, regulation and tradable pollution permits
+
+**Legislation and regulation** set rules: bans, standards, licences, disclosure, age limits. They suit severe or irreversible harms. Diagram: a vertical line at the permitted output, left of the market quantity. Costs: enforcement, one rule for firms with different costs, and no incentive to go beyond the standard.
+
+**Tradable pollution permits.** The government fixes a cap on total emissions, issues permits up to that cap, and lets firms trade them. Diagram: the permit market has vertical supply at the cap and downward-sloping demand; their intersection is the permit price, and a lower cap shifts supply left and raises it. Firms with low abatement costs cut emissions and sell spare permits; firms with high costs buy them.
+
+**Worked example.** Three plants each emit 50 tonnes (total 150). The cap is 90, so each gets 30 permits. Abatement costs 4, 7 and 12 cu per tonne for plants 1, 2 and 3, and each could abate all 50 tonnes at that cost.
+
+- Without trading each abates 20 tonnes: 80 + 140 + 240 = 460 cu.
+- With trading, 60 tonnes must still be abated, using the cheapest first. Plant 1 abates 50 (200 cu), plant 2 abates 10 (70 cu), plant 3 none. Total 270 cu, a saving of 190 cu.
+- The permit price settles at 7 cu: plant 1 sells 30 permits, plant 2 buys 10, plant 3 buys 20 (140 cu instead of 240 cu of abatement).
+
+Evaluation: the cap must be set well and monitored.
+
+**Information provision** corrects information failure by giving consumers facts: health warnings, nutrition labels, public campaigns. Diagram: for a demerit good, demand shifts left as consumers learn the harm, moving quantity towards the optimum. It is cheap and respects choice, but works poorly where people are short-sighted or addicted.
+
+**Competition policy** aims to protect competition so firms face pressure to keep prices low and quality high. Diagram: a firm with market power sets price above marginal cost at low output; more competition moves price down and output up. Tools include fining collusion and abuse of a dominant position, assessing mergers, and opening markets to entrants. Weaknesses: investigations are slow and costly, and firms can argue that size brings economies of scale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--02-tradable-permits-saving.webp" width="900" height="1210" alt="Three plants each emit 50 tonnes under a cap of 90. Without trading each cuts 20 tonnes for 460 cu in total. With trading the cheapest cuts are made first for 270 cu, saving 190 cu, with permits trading at 7 cu." loading="lazy">
+  <figcaption>Trading lets the plant with the lowest abatement cost do most of the cutting, saving 190 cu.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--08-gov-quantity-fixing.webp" width="900" height="1030" alt="Top: legislation draws a vertical line at the permitted output of 60, left of the market quantity 72. Bottom (illustrative numbers): state provision is a vertical supply at 30 units with the price paid at zero, compared with the market quantity of 20." loading="lazy">
+  <figcaption>Both policies fix the quantity directly, as a vertical line, rather than shifting a curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--09-gov-competition-policy.webp" width="900" height="750" alt="A firm with market power sets price 60 and output 40 above marginal cost 20. With competition, price falls to 20 and output rises to 80. The triangle between is the welfare lost to market power (illustrative numbers)." loading="lazy">
+  <figcaption>Competition policy aims to move price down towards marginal cost and output up.</figcaption>
+</figure>
+
+
+## 6. Evaluating effectiveness
+
+Judge any method on these criteria and say which matter most in the context.
+
+| Criterion | Question to ask |
+|---|---|
+| Effectiveness | Does it reach the target output, price or access level? |
+| Cost | Budget, administration, compliance, opportunity cost |
+| Side effects | Shortages, black markets, regressive effects |
+| Information | Can the authority measure the externality or right price? |
+| Equity | Who gains and who pays? |
+
+A strong answer ranks the methods for the case. For pollution, a tax set at the marginal external cost is efficient in theory, yet a ban may suit a harm that must stop outright. For inequity, state provision and transfers act directly but cost taxpayers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
+
+## 7. Cost Benefit Analysis (CBA)
+
+**Meaning.** CBA appraises a project or policy by listing all its costs and benefits to society, private and external, valuing each in money, and comparing totals. A project passes if social benefits exceed social costs.
+
+**Steps.** (1) Identify every cost and benefit, including external ones. (2) Value each in money; where no market price exists (a life saved, quiet) use estimates such as willingness to pay. (3) Discount: money received later is worth less today, so present value = amount / (1 + r)^n, with discount rate r and n years. (4) Net present value (NPV) = present value of benefits minus present value of costs.
+
+**Worked example (transport).** Country D plans a tram line costing 650 million cu now. For four years, annual benefits are 260 million (time saved, fewer accidents, less congestion for others) and annual costs 50 million (running costs and an estimated cost of noise and habitat loss): net 210 million a year.
+
+- At 5%: 210/1.05 + 210/1.05^2 + 210/1.05^3 + 210/1.05^4 = 200.00 + 190.48 + 181.41 + 172.77, about 744.65 million. NPV = 744.65 - 650 = +94.65 million, so it passes.
+- At 15% the present values are 182.61, 158.79, 138.08 and 120.07, totalling 599.55 million. NPV = -50.45 million, so it fails.
+
+The decision turns on the discount rate.
+
+**Applications.** A school (lifetime earnings and spillovers against building and teaching costs), an environmental scheme (cleaner water against the cost of works), a hospital (lives saved), a railway (journey times, accidents, emissions).
+
+**Value in decisions.** Strengths: it brings externalities into view and gives a common basis for comparing projects. Limitations: intangibles are hard to value, forecasts are uncertain, the result is sensitive to the discount rate, it ignores who gains and loses unless distribution is added, and decisions may be political. Use it as one input.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--03-cba-discount-rate.webp" width="900" height="870" alt="A tram line costing 650 million cu brings 210 million cu a year for four years. At 5% the present values total 744.65 million, NPV +94.65 million, so it passes. At 15% they total 599.55 million, NPV -50.45 million, so it fails." loading="lazy">
+  <figcaption>The same project passes at a 5% discount rate and fails at 15%.</figcaption>
+</figure>
+
+
+## 8. Government failure
+
+**Meaning.** Government failure occurs when intervention fails to improve resource allocation, or makes it worse, so welfare is lower than it could be.
+
+**Causes.**
+- **Imperfect information.** Officials cannot know the true external cost or right price.
+- **Distorted incentives.** Politicians favour short-term, vote-winning policies.
+- **Regulatory capture.** The industry influences its regulator.
+- **Unintended consequences.** Rent caps reduce supply; subsidies are captured by producers.
+- **Administrative and compliance costs, time lags.**
+
+**Worked example.** In Country A's packaging market, suppose officials overestimate the external cost and set a tax of 9 cu (true cost 5 cu). Then 240 - 6P = 4P - 76, so P = 31.60 cu and Q = 50.4, below the optimum of 60. The new deadweight loss is 0.5 x (9 - 5) x (60 - 50.4) = 19.2 cu, against 30 cu with no tax. Welfare is still 10.8 cu better, so the failure is partial.
+
+**Consequences.** Misallocation of resources, wasted taxpayers' money, new inequities and loss of confidence. Evaluate by asking whether the result is worse than the original market failure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--04-government-failure-tax.webp" width="900" height="920" alt="With officials setting a 9 cu tax instead of 5 cu, output falls to 50.4, below the optimum 60. A new deadweight loss of 19.2 cu replaces the 30 cu loss, so welfare is still 10.8 cu better: a partial failure." loading="lazy">
+  <figcaption>Setting the tax too high creates a new 19.2 cu welfare loss, though it remains better than no tax.</figcaption>
+</figure>
+
+
+## Common errors
+
+- Drawing a tax or subsidy as a movement along a curve, not a shift.
+- Taking the whole tax as the price rise.
+- Discounting benefits but not costs in CBA.
+
+## Official syllabus
+
+OCR A Level in Economics (H460), Version 3.0 (June 2026), for first assessment in 2021, published by OCR. This guide covers the topics "Alternative methods of government intervention" and "Government failure" in Component 1.

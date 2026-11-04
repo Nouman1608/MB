@@ -57,6 +57,47 @@ Reminder: 4a³ × 6a⁻⁷ = 24a⁻⁴ = 24/a⁴. The coefficients multiply (4 �
 
 **Fractional powers (Extension only).** Take the root first, then the power. Reminder: 32^(2/5): 32^(1/5) = 2, and 2² = 4. A negative fractional power is a reciprocal as well: 4^(−3/2) = 1/(4^(3/2)) = 1/8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--12-i-square-surd-area.webp" width="900" height="946" alt="A square of side 4 plus root 3 split into a 4 by 4 square of area 16, two 4 by root 3 rectangles of area 4 root 3 each and a root 3 square of area 3, adding to 19 + 8 root 3." loading="lazy">
+  <figcaption>The four areas 16, 4√3, 4√3 and 3 add to 19 + 8√3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--02-index-hops.webp" width="900" height="1258" alt="Number lines show the index of each letter as a running total. Multiplying adds the index and dividing subtracts it. For (4p^5q^2) x (3p^-6 q) / (6pq^4) the numbers give 2, p goes +5, -6, -1 to end at -2, and q goes +2, +1, -4 to end at -1, so the answer is 2p^-2 q^-1. For 12y^7 / 8y^3 the numbers give 3/2 and y goes +7 then -3 to reach 4." loading="lazy">
+  <figcaption>Each index is a running total: multiplying adds, dividing subtracts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--03-fractional-root-first.webp" width="900" height="960" alt="Two Extension examples. For (16x^8)^(3/4) take the fourth root of 16 to get 2 and cube it to get 8; split eight factors of x into four groups of two and keep three groups to get x^6, so the answer is 8x^6. For x^(3/2)=125, raise both sides to the power 2/3: the cube root of 125 is 5 and squaring gives 25, so x=25." loading="lazy">
+  <figcaption>Take the root first, then the power, on every factor; use the reciprocal power to solve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--03-solving-index-equations.webp" width="900" height="920" alt="Graph of y=2^x: y=32 meets the curve at x=5 and y=1/16 at x=-4. Three solved examples write both sides as one base and equate the indices." loading="lazy">
+  <figcaption>Write both sides as powers of one base, then equate indices.</figcaption>
+</figure>
+
+
 ## N7: Exact calculation
 
 **Fractions: method in steps**
@@ -85,6 +126,17 @@ Reminder: 9/√6 = 9√6/6 = 3√6/2. Cancel after rationalising.
 
 Reminder for a two-term denominator: 8/(4 + √3) = 8(4 − √3)/13 = (32 − 8√3)/13. There is nothing to cancel here, because 13 does not divide 32 and 8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="769" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
+  <figcaption>Multiplying by the conjugate gives a difference of two squares, so the surd disappears.</figcaption>
+</figure>
+
+
 ## N8: Standard form
 
 **Converting**
@@ -104,6 +156,32 @@ Reminder for a two-term denominator: 8/(4 + √3) = 8(4 − √3)/13 = (32 − 8
 **Worked reminder (add and subtract).** (5.2 × 10⁵) − (3 × 10⁴): write 3 × 10⁴ as 0.3 × 10⁵. Then 5.2 × 10⁵ − 0.3 × 10⁵ = 4.9 × 10⁵. For a small-number case, (2 × 10⁻³) + (5 × 10⁻⁴) = 2 × 10⁻³ + 0.5 × 10⁻³ = 2.5 × 10⁻³.
 
 **Comparing sizes.** Compare the powers of 10 first. If the powers are equal, compare the A parts. For example, 8.1 × 10⁻³ is smaller than 2 × 10⁻², because −3 < −2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--08-i-standard-form-add.webp" width="900" height="780" alt="Bars in blocks of 10 to the 4 show 6.5 blocks plus 0.8 block (8 times 10 cubed) making 7.3 blocks, so 6.5 times 10 to the 4 plus 8 times 10 cubed = 7.3 times 10 to the 4." loading="lazy">
+  <figcaption>Rewrite both numbers with the same power of 10, then add the A values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--09-i-calculator-display.webp" width="900" height="760" alt="Two calculator screens. 3.6E9 becomes 3.6 times 10 to the 9, a big number, 3 600 000 000. 4.5E-3 becomes 4.5 times 10 to the minus 3, a small number, 0.0045." loading="lazy">
+  <figcaption>3.6E9 means 3.6 × 10⁹ and 4.5E-3 means 4.5 × 10⁻³; write the full form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--01-sf-multiply-divide.webp" width="900" height="1178" alt="Three worked examples of multiplying or dividing standard form numbers. The A parts and the powers of 10 are worked separately: 3.2 times 4 and 10 to the 5 times 10 to the minus 2 give 12.8 times 10 cubed, tidied to 1.28 times 10 to the 4. 7.2 divided by 1.8 and 10 to the 8 divided by 10 cubed give 4 times 10 to the 5, already tidy. 1.5 times 10 to the 11 divided by 3 times 10 to the 8 gives 0.5 times 10 cubed, tidied to 5 times 10 squared seconds." loading="lazy">
+  <figcaption>Work the numbers and the powers of 10 separately, then tidy so that 1 ≤ A &lt; 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--04-rationalise-single-surd.webp" width="900" height="880" alt="A square with side root 3 has area 3, so root 3 times root 3 is whole. Multiplying 6/root3 top and bottom by root 3 gives 6 root3 / 3 = 2 root 3, and 5/(2 root 5) becomes root 5 / 2. Bars on a common scale show each pair has the same length, about 3.46 and 1.12." loading="lazy">
+  <figcaption>Multiplying top and bottom by the surd changes the form, not the value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
 
 ## N9: Sets
 
@@ -160,6 +238,27 @@ Try these without looking at the answers. Questions 4 to 7 are Extension only.
 11. 4.2 × 10⁶⁻⁽⁻²⁾ = **4.2 × 10⁸**
 12. (a) **{3, 5, 7}**. (b) A ∪ B = {1, 2, 3, 5, 7, 9}, so **6**. (c) **{4, 6, 8, 10}**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--10-i-venn-two-sets-listed.webp" width="900" height="840" alt="Venn diagram for integers 1 to 18: B (factors of 24) only 1, 2, 3, 6; A (multiples of 4) only 16; both 4, 8, 12; outside 5, 7, 9, 10, 11, 13, 14, 15, 17, 18. n(A union B) = 8 and n of the complement = 10." loading="lazy">
+  <figcaption>Every integer from 1 to 18 sits in exactly one region, so n(A ∪ B) = 4 + 7 − 3 = 8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--02-two-set-regions.webp" width="900" height="1060" alt="Six two-set Venn diagrams with regions numbered 1 to 4 (A only, both, B only, neither). The shaded regions show A∩B, A∪B, A′, (A∪B)′, A∩B′ and A′∪B." loading="lazy">
+  <figcaption>Each set expression is just a list of numbered regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--03-unknown-overlap.webp" width="900" height="1010" alt="Two Venn diagrams of 50 tourists. First the regions are written with x for the overlap (31−x, x, 27−x, x÷2); solving gives x = 16. Then the filled counts 15, 16, 11 and 8 add to 50." loading="lazy">
+  <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--05-three-set-venn.webp" width="900" height="990" alt="A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26." loading="lazy">
+  <figcaption>Fill the centre first; the eight regions then add to 60.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Multiplying the powers instead of adding them in aᵐ × aⁿ, or adding coefficients that should be multiplied.
@@ -172,6 +271,12 @@ Try these without looking at the answers. Questions 4 to 7 are Extension only.
 - Copying a calculator display such as 2.4E-5 as the final answer instead of writing 2.4 × 10⁻⁵.
 - In Venn diagrams, filling the single-set regions before the overlap, so the totals do not add up.
 - Using A ∪ B when the question says "and" (that is A ∩ B), or the reverse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--11-i-like-surds-tiles.webp" width="900" height="800" alt="Tiles of length root 3: three root 12 lengths make 6 tiles, root 75 is 5 tiles, together 11 tiles, so the sum is 11 root 3. A note shows root 2 plus root 3 is not root 5." loading="lazy">
+  <figcaption>3√12 + √75 = 6√3 + 5√3 = 11√3: only like surds add.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

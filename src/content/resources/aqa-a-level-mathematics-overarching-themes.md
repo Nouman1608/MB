@@ -83,6 +83,12 @@ Three themes run through every part of A-Level Mathematics rather than sitting i
 
 **OT3 — Mathematical modelling.** Representing a real situation mathematically, stating assumptions, and recognising the limitations that follow from them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-overarching-themes--01-three-themes.webp" width="900" height="930" alt="A ring of 19 lettered tiles, A (Proof) to S (Moments), stands for the lettered content sections. Three coloured rings run through every tile, one for each theme: OT1 argument and proof, OT2 problem solving, OT3 modelling. The themes apply to every section and are assessed in all papers." loading="lazy">
+  <figcaption>The three overarching themes are not a topic of their own: they apply across content sections A to S.</figcaption>
+</figure>
+
+
 ## Proof
 
 Four methods are required.
@@ -93,6 +99,47 @@ Four methods are required.
 - **Contradiction** — assume the negation, derive an impossibility, conclude the original must hold. The classic examples are the irrationality of root 2 and the infinitude of primes.
 
 Notation carries marks: **=>** for implies, **<=** for is implied by, and **<=>** for if and only if, which requires both directions to hold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-overarching-themes--02-four-proof-methods.webp" width="900" height="910" alt="Four cards. Deduction: a chain from fact to step to result. Exhaustion: six cases all checked, viable only when cases are few. Counter-example: five passing cases and one failing case, which is enough to disprove. Contradiction: assume the opposite, reach a clash, so the original statement holds." loading="lazy">
+  <figcaption>Each of the four required proof methods in one picture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-overarching-themes--03-implication-symbols.webp" width="900" height="810" alt="Top: x = 3 implies x squared = 9, but x squared = 9 does not imply x = 3 because x = -3 also works, so it is not if and only if. Bottom: x + 2 = 5 and x = 3 imply each other, so if and only if holds because both directions are true." loading="lazy">
+  <figcaption>An if-and-only-if statement needs the implication to hold in both directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-overarching-themes--02-deduction-worked.webp" width="900" height="806" alt="Three linked steps prove that two consecutive integers sum to an odd number: let them be n and n+1; the sum is 2n+1; 2n is even so 2n+1 is odd. A dot picture with n=4 shows four pairs of dots (2n = 8) plus one extra dot, total 9." loading="lazy">
+  <figcaption>Deduction: a chain of steps from known facts, shown on an example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-overarching-themes--03-exhaustion-worked.webp" width="900" height="880" alt="Ten tiles show 0 to 9 squared with the last digit of each square: 0, 1, 4, 9, 6, 5, 6, 9, 4, 1. The last digits found are 0, 1, 4, 5, 6 and 9; 2, 3, 7 and 8 never appear, so no square number ends in them. Only 10 cases, so every one is checked." loading="lazy">
+  <figcaption>Exhaustion: with only ten cases, check them all.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-overarching-themes--04-root2-a-b-k.webp" width="900" height="970" alt="Five steps with the lesson notation: assume root 2 = a/b in lowest terms; a squared = 2 b squared; a is even so a = 2k; 4k squared = 2 b squared so b squared = 2 k squared; b is even. Then a and b are both even, with common factor 2, which clashes with lowest terms. The contradiction shows root 2 is irrational." loading="lazy">
+  <figcaption>The root 2 proof drawn as a flow, ending in the clash with &quot;lowest terms&quot;.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--05-counter-example-graph.webp" width="900" height="920" alt="The graph of y = x² with the line y = 25 shows x² &gt; 25 for x &lt; −5 or x &gt; 5. The claim only fits x &gt; 5. The point (−6, 36) is above the line but −6 is not greater than 5, so it disproves the claim." loading="lazy">
+  <figcaption>One case that meets the condition but breaks the conclusion disproves a general claim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--08-infinite-primes.webp" width="900" height="880" alt="Six primes 2 to 13 each leave remainder 1 into N = 30031. N = 59 × 509, two primes not on the list. N need not be prime, only have a prime factor missing from the list." loading="lazy">
+  <figcaption>Multiplying the listed primes and adding 1 always yields a prime factor not on the list.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--07-root2-contradiction.webp" width="900" height="830" alt="Assume √2 = p/q in lowest terms. Squaring gives p² = 2q², so p is even, and p = 2r then gives q even. Both are even so they share the factor 2, shown as a Venn overlap, which clashes with lowest terms. So √2 is irrational." loading="lazy">
+  <figcaption>The assumption of lowest terms is what the contradiction clashes with.</figcaption>
+</figure>
+
 
 ## Problem solving
 
@@ -107,6 +154,17 @@ Notation carries marks: **=>** for implies, **<=** for is implied by, and **<=>*
 Unstructured questions give no method. The reliable approach is to identify what is given and what is required, introduce clear notation for unknowns, connect the two with a known result, solve, then check the answer against the context — a negative length or a probability above 1 signals an error.
 
 Marks are available for setting the problem up even when the final answer is wrong, so writing down the model explicitly is always worth doing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-overarching-themes--04-context-check.webp" width="900" height="950" alt="Illustrative problem: a rectangle with length equal to width plus 3 and area 40 square centimetres leads to w squared plus 3w minus 40 equals 0. The parabola crosses the w axis at w = -8 and w = 5. The region w less than 0 is shaded as impossible. w = 5 gives length 8 and area 40 and is accepted; w = -8 is a negative width and is rejected." loading="lazy">
+  <figcaption>Both roots solve the equation, but only the one that makes sense in context is the answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-overarching-themes--01-five-step-approach.webp" width="900" height="966" alt="Five numbered boxes in order, joined by down arrows. 1 Given and required. 2 Clear notation. 3 Connect them using a known result. 4 Solve. 5 Check in context: a negative length or a probability above 1 signals an error. A bar notes that setting up clearly earns marks even if the answer is wrong." loading="lazy">
+  <figcaption>The five steps for an unstructured problem, ending with a check in context.</figcaption>
+</figure>
+
 
 ## Modelling
 
@@ -123,6 +181,22 @@ Common assumptions and their consequences:
 | Air resistance negligible | Simplifies projectile motion, less accurate at speed |
 
 When asked to criticise a model, name the assumption and state its specific effect on the answer — "air resistance was ignored, so the predicted range is greater than the true range".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-overarching-themes--05-modelling-cycle.webp" width="900" height="830" alt="Seven numbered steps clockwise around a loop: 1 specify the problem, 2 make simplifying assumptions, 3 set up the model, 4 solve it, 5 interpret the solution, 6 compare with reality, 7 refine. A dashed arrow from step 7 returns to step 1." loading="lazy">
+  <figcaption>The modelling cycle: after refining, the loop goes round again.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-overarching-themes--06-modelling-assumptions.webp" width="900" height="910" alt="Five rows pair a small picture with the lesson's stated effect. Particle ignores size and rotation. Light ignores mass, so tension is the same along a string. Smooth means no friction. Inextensible means connected objects share the same acceleration. Air resistance negligible simplifies projectile motion but is less accurate at speed." loading="lazy">
+  <figcaption>Each assumption removes a detail and has a specific effect on the answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-overarching-themes--07-criticise-a-model.webp" width="900" height="850" alt="Illustrative projectile launched at 30 metres per second at 60 degrees. With no air resistance the range is 79.5 metres and the maximum height 34.4 metres. With air resistance (drag proportional to speed squared, an assumed strength) it lands at about 47 metres. Ignoring air resistance makes the predicted range greater." loading="lazy">
+  <figcaption>Naming the ignored assumption and its effect: no air resistance gives a greater predicted range.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -151,3 +225,9 @@ Offering examples as proof of a general statement — examples never prove, thou
 - Set out an unstructured problem with clear notation before solving.
 - State the modelling cycle and the standard assumptions with their consequences.
 - Criticise a model by naming an assumption and its effect on the result.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--06-examples-not-proof.webp" width="900" height="860" alt="Four rows of dots, one per n, show each expression is prime until a single failure. 3^n + 2 fails at n = 5 (245), n² + n + 11 at n = 10 (121), 2n² + 11 at n = 11 (253) and n² + n + 41 at n = 40 (1681 = 41²)." loading="lazy">
+  <figcaption>Long runs of examples can still end in a counter-example, so examples are not a proof.</figcaption>
+</figure>
+

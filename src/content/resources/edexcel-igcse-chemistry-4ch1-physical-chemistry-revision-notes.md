@@ -55,17 +55,40 @@ m is the mass of the water or solution heated, not of the fuel or solid. c is gi
 4. ΔH = Q ÷ moles.
 5. Add the sign: temperature rose → negative; temperature fell → positive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-physical-chemistry--01-calorimetry-q-mcdt.webp" width="900" height="1080" alt="A polystyrene cup with lid, thermometer and stirrer holds 50 g of mixed acid and alkali; the temperature rises from 20.0 to 26.8 degrees C. Three steps give Q = 50 x 4.2 x 6.8 = 1428 J, moles = 0.0250, and delta H = -1.428 / 0.0250 = -57 kJ/mol. The mass is both solutions, and delta H is negative because the temperature rose." loading="lazy">
+  <figcaption>Q = mcΔT uses the mass of all the solution; divide by moles to get ΔH, negative if the temperature rose.</figcaption>
+</figure>
+
+
 ### Calorimetry set-ups (3.2, 3.8)
 
 - **Solutions** (neutralisation, displacement, dissolving): polystyrene cup, thermometer, stir, record the highest or lowest temperature.
 - **Combustion**: spirit burner weighed before and after; copper can of water above it; record the temperature rise.
 - Main error: **heat loss** to the surroundings, so measured ΔH is less negative than the data-book value. Also incomplete combustion of the fuel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-physical-chemistry--02-combustion-calorimeter.webp" width="900" height="950" alt="A spirit burner heats a copper can holding a measured mass of water, with a thermometer, stirrer and draught shield. The water warms by about 20 to 30 degrees C. The burner is weighed before and after, and the loss in mass is the fuel burned. Heat lost to the surroundings makes measured delta H less negative." loading="lazy">
+  <figcaption>Combustion calorimetry: heat water in a copper can and find the fuel burned from the burner mass loss.</figcaption>
+</figure>
+
+
 ### Energy level diagrams (3.5C) -- Paper 2 only
 
 - Exothermic: products **below** reactants; ΔH arrow points down.
 - Endothermic: products **above** reactants; ΔH arrow points up.
 - Label the vertical axis "energy", and label reactants, products and ΔH.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--02-exothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
+</figure>
+
 
 ### Method in steps: bond energies (3.7C) -- Paper 2 only
 
@@ -76,6 +99,22 @@ m is the mass of the water or solution heated, not of the fuel or solid. c is gi
 5. Negative answer: exothermic. Positive answer: endothermic.
 
 Small reminder: in 2H₂ + O₂ → 2H₂O, two H–H bonds and one O=O bond are broken, and four O–H bonds are made.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-physical-chemistry--03-methane-bond-energy.webp" width="900" height="830" alt="Displayed formulae show CH4 + 2 O=O forming CO2 + 2 H2O. Bonds broken (4 C-H, 2 O=O) total 1648 + 992 = 2640 kJ/mol. Bonds made (2 C=O, 4 O-H) total 1486 + 1852 = 3338 kJ/mol. Delta H = 2640 - 3338 = -698 kJ/mol, exothermic." loading="lazy">
+  <figcaption>Methane: 2640 kJ/mol in, 3338 kJ/mol out, so ΔH = −698 kJ/mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--04-bond-energy-calculation.webp" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic." loading="lazy">
+  <figcaption>Breaking bonds takes in 678 kJ/mol and making bonds releases 862 kJ/mol, so delta H is -184 kJ/mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--05-bond-energy-ladder.webp" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol." loading="lazy">
+  <figcaption>Up 678 to break bonds, down 862 as bonds form: a net fall of 184 kJ/mol.</figcaption>
+</figure>
+
 
 ## (b) Rates of reaction
 
@@ -93,6 +132,17 @@ Particles must collide with energy **at least equal to the activation energy**. 
 | Temperature | Up | Faster particles → more frequent collisions **and** more collisions with energy ≥ Ea |
 | Catalyst added | Up | Alternative pathway with lower activation energy |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--01-collision-theory.webp" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
+  <figcaption>Slow collisions bounce apart; collisions with at least E_a produce a new substance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--02-rate-factors.webp" width="900" height="1154" alt="Before/after boxes show more particles per volume, a gas squeezed by a piston, a cube crushed into eight (area doubles), and more particles with enough energy at higher temperature." loading="lazy">
+  <figcaption>Each factor increases collision frequency or the share of collisions with enough energy.</figcaption>
+</figure>
+
+
 ### Catalysts (3.12, 3.13)
 
 - Increases the rate; **chemically unchanged** at the end (same mass can be recovered).
@@ -104,11 +154,28 @@ Particles must collide with energy **at least equal to the activation energy**. 
 - **H₂O₂ decomposition**: same volume and concentration of H₂O₂, same mass of each solid; collect O₂ in a gas syringe; compare volumes in the same time.
 - Graph: steeper curve = faster. Levels off when a reactant runs out. Mean rate = change in amount ÷ time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-physical-chemistry--05-rate-experiments.webp" width="900" height="1170" alt="Top: marble chips and hydrochloric acid in a flask on a balance with a cotton wool plug; CO2 escapes so the mass falls, and one factor at a time (chip size, acid concentration or temperature) is changed, recording mass every 30 s. Bottom: hydrogen peroxide with a solid catalyst (MnO2, CuO or ZnO) releases oxygen into a gas syringe; faster gas means a better catalyst, and the filtered, dried solid has unchanged mass." loading="lazy">
+  <figcaption>Two ways to follow rate: mass loss for marble chips and gas volume for hydrogen peroxide with a catalyst.</figcaption>
+</figure>
+
+
 ### Reaction profiles (3.14C) -- Paper 2 only
 
 - Activation energy: from the **reactants line up to the peak**.
 - ΔH: from the reactants line to the products line.
 - A catalysed profile has a **lower peak**, same start and end levels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--03-rate-graph.webp" width="900" height="1020" alt="A flask connects to a gas syringe. A graph of gas volume against time shows a steep curve for a fast reaction and a shallow one for a slow reaction, both levelling at 60 cm3." loading="lazy">
+  <figcaption>Steeper gradient means faster rate; the line flattens when the reaction has finished.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
 
 ## (c) Reversible reactions and equilibria
 
@@ -119,12 +186,24 @@ Particles must collide with energy **at least equal to the activation energy**. 
 | CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O | Blue → white; endothermic | Add water: white → blue; exothermic, gets hot |
 | NH₄Cl(s) ⇌ NH₃(g) + HCl(g) | White solid disappears on heating | White solid re-forms at the cool top of the tube |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--01-temperature-change.webp" width="900" height="920" alt="Two beakers with thermometers. Exothermic: arrows leave the beaker and the temperature rises from 20 to 35 degrees C. Endothermic: arrows enter the beaker and the temperature falls from 20 to 8 degrees C." loading="lazy">
+  <figcaption>An exothermic reaction gives energy out and warms the surroundings; an endothermic one takes energy in and cools them.</figcaption>
+</figure>
+
+
 ### Dynamic equilibrium (3.19C, 3.20C) -- Paper 2 only
 
 Reached in a **sealed container**. Two characteristics, learn them word for word:
 
 - forward and reverse reactions occur at the **same rate**
 - concentrations of reactants and products **remain constant**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
 
 ### Shifting the position (3.21C, 3.22C) -- Paper 2 only
 
@@ -138,11 +217,28 @@ Reached in a **sealed container**. Two characteristics, learn them word for word
 
 Le Chatelier's principle does not need to be named.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-physical-chemistry--02-equilibrium-so2-shifts.webp" width="900" height="1080" alt="2SO2 + O2 in equilibrium with 2SO3 has 3 gas molecules on the left and 2 on the right, and the forward reaction is exothermic. Higher pressure shifts right, giving more SO3. Higher temperature shifts left (endothermic direction), giving less SO3. A catalyst changes both rates equally so the amount of SO3 is unchanged." loading="lazy">
+  <figcaption>Pressure favours the side with fewer gas molecules, temperature favours the endothermic direction, and a catalyst changes nothing about the position.</figcaption>
+</figure>
+
+
 ### Method in steps: predicting a shift
 
 1. Is the forward reaction exothermic or endothermic? (ΔH negative = exothermic forward.)
 2. Count moles of **gas** on each side (ignore solids and liquids).
 3. Apply the table. Say which way the position moves **and** what happens to the amount of product.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-physical-chemistry--01-nh4cl-reversible-tube.webp" width="900" height="940" alt="A test tube of white ammonium chloride is heated at the bottom. The solid breaks into ammonia and hydrogen chloride gases, which rise. Near the cooler top of the tube they recombine and white solid forms again. Arrows show heating drives the forward reaction and cooling drives the reverse." loading="lazy">
+  <figcaption>Heating splits NH4Cl into two gases; cooling recombines them, so the reaction is reversible.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--05-hydrated-anhydrous.webp" width="900" height="970" alt="Copper(II) sulfate: blue hydrated crystals turn white when heated and blue again on adding water. Cobalt(II) chloride: pink hydrated turns blue when heated and pink again with water." loading="lazy">
+  <figcaption>Heating hydrated crystals drives off water; adding water reverses the change.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -194,6 +290,12 @@ Le Chatelier's principle does not need to be named.
 - Describing equilibrium as "the reaction has stopped" or "the concentrations are equal".
 - Counting moles of all substances instead of moles of **gas** when deciding the effect of pressure.
 - Saying a catalyst increases the yield.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-physical-chemistry--04-nh4cl-dissolving-dh.webp" width="900" height="800" alt="A cup holds 50.0 g of water and 5.35 g of ammonium chloride dissolves, with the temperature falling by 7.0 degrees C. Q = 50.0 x 4.2 x 7.0 = 1470 J = 1.47 kJ; moles = 5.35 / 53.5 = 0.100; delta H = +1.47 / 0.100 = +14.7 kJ/mol, positive because the temperature fell. Water mass is used in Q, solid mass only for moles." loading="lazy">
+  <figcaption>Dissolving NH4Cl: Q uses the water mass, moles use the solid, and ΔH = +14.7 kJ/mol.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

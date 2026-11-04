@@ -1,0 +1,299 @@
+---
+title: "OCR A Level Business: Political, economic, social and technological factors and related topics (H431) -- Revision Notes"
+seoTitle: "OCR A Level Business PESTLE Factors Revision Notes"
+resourceType: "revision-notes"
+subject: "business"
+level: ["a-levels"]
+topic: "External influences facing businesses"
+boards: ["ocr"]
+qualifications: ["a-level"]
+syllabusCodes: ["H431"]
+syllabusSeries: "Version 2.1 (January 2026), for first assessment in 2017; final assessment summer 2027"
+order: 802
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "external-influences-facing-businesses-ocr-alevel-business"
+    subtopic: "political-economic-social-and-technological-factors-ocr-alevel-business"
+  - qualification: "a-level"
+    topic: "external-influences-facing-businesses-ocr-alevel-business"
+    subtopic: "digital-ethical-legal-and-environmental-factors-ocr-alevel-business"
+description: "Condensed revision notes on political, economic, social, technological, digital, ethical, legal and environmental factors for OCR A Level Business H431."
+author: "marlbridge-academic-team"
+publishedDate: 2026-10-25
+featured: false
+---
+
+These notes condense the external influences content in the OCR A Level Business (H431) specification, Version 2.1 (January 2026), first assessment 2017, final assessment summer 2027: political, economic, social and technological factors, the digital revolution, and ethical, legal and environmental factors. For full explanations and worked examples read the [study guide](/resources/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics/), then test yourself with the [practice questions](/resources/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics-practice/). Wider context is in the [External Influences revision notes](/resources/ocr-a-level-business-external-influences-revision-notes/). Course hub: [OCR A Level Business](/boards/ocr/a-level/business/). Checklist: [printable checklist](/checklists/ocr/a-level/business/). Find weak spots with the [free diagnostics](/diagnostics/).
+
+## Definitions to recall
+
+| Term | Meaning |
+|---|---|
+| Political uncertainty | firm cannot predict future rules, taxes or trade terms |
+| Direct tax | goes directly to government from the person or firm it is levied on |
+| Indirect tax | collected by sellers, paid by consumers through prices |
+| Subsidy | government payment that lowers a firm's costs or encourages an activity |
+| Monetary policy | interest rates and the cost and availability of money |
+| Fiscal policy | government taxation and spending |
+| Supply-side policy | measures that raise the economy's productive capacity |
+| GDP | value of all output a country produces in a given period |
+| Business cycle | repeated rise and fall of economic activity |
+| Digital revolution | move from analogue to digital technology |
+| Information age | period when information is created and shared quickly and cheaply |
+| Ethics | moral principles a business chooses to follow beyond the legal minimum |
+| Sustainability | using resources so present needs are met and later generations can meet theirs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--04-policy-tools.webp" width="900" height="900" alt="Three panels: monetary policy uses interest rates, fiscal policy changes tax and spending, supply-side policy raises productive capacity through training, roads and incentives." loading="lazy">
+  <figcaption>Tell the three policies apart by the tool each one uses.</figcaption>
+</figure>
+
+
+## Political factors in a table
+
+| Idea | Effect on business |
+|---|---|
+| Stability | planning, investment, steady demand, cheaper borrowing |
+| Uncertainty | delayed investment, cautious hiring, higher risk |
+| Instability and trade | supply and payment disruption, lost export orders, higher insurance |
+| Local policy | planning decisions, local charges |
+| National policy | tax, spending, regulation, trade rules |
+| International policy | tariffs, agreements, shared standards |
+
+**Method for a political evaluation (steps):**
+
+1. Name the policy or event.
+2. Trace it to cost, revenue or risk for the named business.
+3. Say which stakeholders gain or lose (owners, staff, customers, suppliers, lenders).
+4. Judge size and speed of the effect.
+5. Reach a decision about importance.
+
+## Economic factors in a table
+
+| Topic | Recall |
+|---|---|
+| Indicators (standard set) | GDP growth, inflation, unemployment, interest rates, exchange rates |
+| Direct taxes (standard examples) | income tax, National Insurance contributions, corporation tax, capital gains tax |
+| Indirect taxes | VAT, excise duties |
+| Government spending | health, education, social protection, defence, transport, debt interest |
+| Subsidy benefits | lower costs, lower break-even, price cuts, investment, survival |
+| Cycle phases | boom, downturn or recession, slump, recovery |
+| Most affected by cycle | luxuries, durables, construction, high debt, high fixed costs |
+| Least affected | necessities, budget goods |
+
+**Formulas (standard forms).**
+
+- Growth rate (%) = change ÷ original × 100.
+- Price including indirect tax = price before tax × (1 + tax rate).
+- Break-even output = fixed costs ÷ contribution per unit.
+
+**Interest and exchange rates.** Higher UK interest rates tend to lift the pound; a stronger pound lowers import prices and makes exports dearer. Lower rates tend to do the reverse. Both also change borrowing costs.
+
+**Using the cycle to your advantage.**
+
+- Boom: build reserves, avoid over-borrowing.
+- Slump: cut waste, renegotiate, buy assets cheaply.
+- Recovery: restock, recruit and launch early.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--01-business-cycle-phases.webp" width="900" height="1070" alt="A wave graph of output against time passes through recovery, boom, downturn, slump and recovery. Advice for each phase is shown: build cash in a boom, cut costs and buy cheaply in a slump, rebuild stock and recruit in recovery." loading="lazy">
+  <figcaption>The business cycle repeats, and each phase calls for a different response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--03-subsidy-break-even.webp" width="900" height="960" alt="A break-even chart: revenue 5 pounds a unit, total cost 96,000 fixed plus 4.20 a unit, crossing at 120,000 units. With a 30p subsidy per unit the cost line is flatter and they cross at 87,273 units." loading="lazy">
+  <figcaption>A per-unit subsidy raises contribution and lowers break-even by 32,727 units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--09-inflation-index.webp" width="900" height="990" alt="A price index rising from 106.0 to 110.24 is 4 percent inflation (divide by the earlier index). Quenby raising prices 3 percent against 4 percent generally is about 1 percent lower in real terms. 100.0 to 98.5 is 1.5 percent deflation." loading="lazy">
+  <figcaption>Inflation is the change in the index divided by the earlier index.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
+
+## Social, technological and digital factors
+
+**Social:** age structure, population movement, lifestyle, attitudes and fashion. They shift demand and the labour supply. Evaluate by speed, predictability and who has to change.
+
+**Technology uses:** design and production software, stock control, customer databases, websites, apps, cloud storage.
+
+**Hardware and software, two-sided.**
+
+| Advantage | Disadvantage |
+|---|---|
+| speed and accuracy | purchase and upgrade cost |
+| lower unit labour cost | training and resistance to change |
+| better information | security and breakdown risk |
+| better customer service | job losses for some stakeholders |
+
+**Digital revolution: opportunities and threats.**
+
+| Opportunities | Threats |
+|---|---|
+| wider markets | online rivals with low costs |
+| lower costs | cyber-crime |
+| personalised marketing | data misuse |
+| real-time data | constant investment needed |
+
+**More affected:** digitisable products (music, books, banking) and online customers. **Less affected:** local, hands-on trades. **Rapid change:** early adopters gain an edge, but rivals copy fast, products age quickly and staff need retraining.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--04-digital-exposure.webp" width="900" height="860" alt="A scale from less to more affected places a rural joiner at the low end and digitisable products at the high end. Boxes list the lesson opportunities and threats." loading="lazy">
+  <figcaption>Exposure to the digital revolution varies; every business faces opportunities and threats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+
+## Ethical factors
+
+**Law versus ethics.** The law is compulsory, enforced by the state and carries penalties. Ethics is chosen, based on moral judgement, and the penalty is reputational. Legal does not mean ethical.
+
+**Issues:** pay and conditions, supplier treatment, honest marketing, animal testing, sourcing, product safety, tax avoidance and customer data.
+
+**More affected:** long supply chains, high profile, sensitive products.
+
+**Ethical trading and working practices:** fair trade sourcing, supplier audits, living wages, safe workplaces, no child labour, openness about origins.
+
+**Improve the profile (recommend and justify):** code of conduct, independent certification, supplier audits, public reporting.
+
+| Advantages of behaving ethically | Disadvantages |
+|---|---|
+| trust and loyalty | higher costs |
+| easier recruitment | lower short-term profit |
+| positive press | claims that do not match practice backfire |
+
+**Conflicts with other objectives:** profit, growth, cost control. **Managing them:** phase the change, adjust price, share costs along the supply chain, explain choices to customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--02-ottermead-fair-trade-margin.webp" width="900" height="870" alt="Two stacked bars for a 24 pound shirt. Fairly traded cotton adds 90 pence to a 15 pound unit cost, so the margin falls from 9 pounds (37.5%) to 8.10 pounds (33.75%)." loading="lazy">
+  <figcaption>Ethical sourcing can cut the margin when the price is held.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
+
+## Legal factors
+
+Legislation covers employment, equality, company and partnership matters, health and safety, data protection, intellectual property, planning, environmental matters, consumer protection, contract and financial conduct. Purpose in short: protect people, keep markets fair, set rules, give remedies.
+
+**Comply by:** training, policies, audits, a responsible manager, professional advice.
+
+**Consequences of failure:** fines, compensation, court action, lost contracts, damaged reputation and, at worst, closure.
+
+**Conflict:** compliance costs time and money, which may clash with cost or growth aims. **Changes in law:** may force new processes or products, so plan ahead.
+
+## Environmental factors and sustainability
+
+**Issues:** climate change, pollution, waste, energy use, resource shortage.
+
+**Why consider them:** law, customer pressure, cost savings, staff and investor attitudes, supply risk.
+
+**Environmental policy:** written commitment with targets. Judge by cost, brand effect and stakeholder reaction.
+
+**Sustainable actions:** renewable energy, less waste, recycling, responsible sourcing, durable design, measured targets.
+
+**Being seen as green:** attracts customers, staff and investors, but only if claims are backed up.
+
+**Conflicts:** greener inputs and processes can cost more. Manage by phasing, targeting savings and clear communication.
+
+**Ignoring external factors:** risks lost sales, fines, rising costs, reputational harm and failure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--03-solar-payback.webp" width="900" height="830" alt="Cumulative saving rises 9,000 pounds a year and crosses the 60,000 pound cost at 6.7 years, about 6 years 8 months." loading="lazy">
+  <figcaption>Payback is the time for cumulative savings to equal the cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
+</figure>
+
+
+## Must-know distinctions
+
+- **Monetary, fiscal, supply-side:** interest rates, tax and spend, productive capacity.
+- **Direct, indirect:** who pays the government, versus who collects and who bears the price.
+- **Opportunity, threat:** the same technology can be both, depending on who adopts it first.
+- **Legal, ethical:** compulsory versus chosen.
+- **Sustainable, merely cheaper:** sustainability looks at future generations, not just this year's saving.
+
+## Worked reminders
+
+A shop pays 40,000 euros for goods when £1 buys 1.25 euros: cost = 40,000 ÷ 1.25 = **£32,000**. If £1 then buys 1.00 euro, cost = **£40,000**, so the weaker pound adds £8,000. State who gains (exporters) and who loses (importers).
+
+An ethical change that cuts margin from 35% to 32% is a trade-off. Argue whether brand trust and repeat custom could repay the lost three percentage points, and over what time.
+
+## Quick self-test
+
+1. GDP rises from £800bn to £812bn. Calculate growth. 
+2. An item costs £50 before an indirect tax of 20% (illustrative). What does the customer pay, and how much is tax?
+3. A firm buys 6,000 euros of stock. Calculate the sterling cost at £1 = 1.20 euros and at £1 = 1.10 euros.
+4. Unemployment is 2.4m in a labour force of 30m. Calculate the rate.
+5. State one difference between a direct and an indirect tax.
+6. A subsidy of £0.25 per unit is paid on 60,000 units. What is the total?
+7. Price £40, unit cost £26. Calculate the margin, then the margin if ethical sourcing adds £1.20 per unit.
+8. Equipment costing £45,000 saves £7,500 a year. Calculate payback.
+9. Give one difference between law and ethics.
+10. Name two groups likely to be hit hard in a slump and explain why.
+
+### Answers
+
+1. 12 ÷ 800 × 100 = **1.5%**.
+2. Tax = £10; customer pays **£60**.
+3. At 1.20: **£5,000**; at 1.10: £5,454.55 (**about £5,455**), a rise of about £455.
+4. 2.4 ÷ 30 × 100 = **8%**.
+5. A direct tax is paid by the person or firm it falls on; an indirect tax is collected by sellers and paid by consumers through prices.
+6. 0.25 × 60,000 = **£15,000**.
+7. (40 − 26) ÷ 40 = **35%**; with £27.20 cost the margin is 12.80 ÷ 40 = **32%**.
+8. 45,000 ÷ 7,500 = **6 years**.
+9. Law is compulsory with state penalties; ethics is chosen and rests on moral judgement.
+10. For example, sellers of luxuries or durables, because customers delay purchases; and heavily indebted firms, because fixed interest costs stay while sales fall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--02-direct-indirect-tax.webp" width="900" height="1030" alt="An electric bike costs 1,250 pounds before a 20 percent indirect tax of 250 pounds, so the customer pays 1,500 and the shop passes the 250 to the government. A business with 400,000 pounds profit pays 25 percent corporation tax of 100,000 pounds and keeps 300,000." loading="lazy">
+  <figcaption>Indirect tax is borne by the customer through the price; direct tax is paid by the business itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
+</figure>
+
+
+## Where marks are usually lost
+
+- Describing a factor generally, with no link to the business named in the question.
+- Confusing a subsidy (money given, not repaid) with a loan.
+- Mixing up direct and indirect taxes, or placing VAT in the wrong group.
+- Saying "a strong pound is good" without stating for whom.
+- Writing about technology without naming a cost, risk or stakeholder.
+- Treating ethical and legal behaviour as the same.
+- Listing benefits of green or ethical action with no cost, conflict or limit.
+- Ending an evaluation without a reasoned judgement on importance.
+- Skipping the stakeholder angle when the question asks for it.
+
+## Official syllabus
+
+OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), Area of Study: External influences.

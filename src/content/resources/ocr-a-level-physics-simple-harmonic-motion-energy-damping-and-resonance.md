@@ -60,6 +60,17 @@ The minus sign says the acceleration opposes the displacement. Plotting a agains
 
 **Worked example 3.** A 0.250 kg mass on a spring of constant 40 N m⁻¹ has ω² = 40/0.250 = 160 s⁻², so ω = 12.6 rad s⁻¹ and T = 2π/12.6 = 0.497 s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--01-radian-omega-v.webp" width="900" height="1160" alt="A circle with a 1 radian sector: the arc along the edge is as long as the radius and the angle is about 57.3 degrees, with quarter, half and three-quarter turns marked as pi/2, pi, 3pi/2 and 2pi. Below, a turntable at 45 rpm has omega 4.71 rad/s everywhere; a point at 0.10 m moves at 0.47 m/s and a point at 0.20 m at 0.94 m/s, so v = omega r." loading="lazy">
+  <figcaption>One radian is the angle whose arc equals the radius, and at the same ω a point further out moves faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--05-shm-restoring-force.webp" width="900" height="1000" alt="A 0.40 kg mass on a 25 N/m spring at x = -0.050 m, 0 and +0.050 m with restoring force arrows to scale (1.25 N towards equilibrium, zero at equilibrium). An acceleration-displacement graph is a straight line through the origin with gradient -omega squared = -62.5 per second squared, so omega squared = k/m and T = 0.795 s." loading="lazy">
+  <figcaption>The restoring force and acceleration are proportional to displacement and opposite to it.</figcaption>
+</figure>
+
+
 ## Solutions: displacement, velocity, acceleration (5.3.1(d), (e))
 
 The equation a = −ω²x has solutions of the form:
@@ -79,6 +90,12 @@ The speed is largest at x = 0, so vmax = ωA. The maximum acceleration is ω²A,
 
 - At t = 0.10 s: x = 0.060 cos(0.942) = 0.0353 m.
 - First time at x = +0.030 m: cos ωt = 0.5, so ωt = π/3 and t = (π/3)/9.42 = 0.111 s. This is T/6, since T = 0.667 s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--02-centripetal-acceleration.webp" width="900" height="710" alt="Balls on a circle have tangent velocity arrows of equal length and acceleration arrows pointing to the centre, at right angles to the velocity. A vector triangle shows v1 and v2 and their difference delta v pointing towards the centre. A dashed line shows a ball moving straight on if the force is removed." loading="lazy">
+  <figcaption>Speed is constant but the velocity turns, so the change in velocity and the acceleration point towards the centre.</figcaption>
+</figure>
+
 
 ## Isochronous oscillators (5.3.1(f))
 
@@ -102,6 +119,12 @@ Reading the graphs:
 - On the a-x graph the line has gradient −ω² and passes through the origin. The v-x graph is an ellipse, with semi-axes A on the x axis and ωA on the v axis.
 
 **Worked example 6.** The a-x graph is a line through the origin that passes through (x = 0.040 m, a = −9.0 m s⁻²). Gradient = −9.0/0.040 = −225 s⁻², so ω² = 225 and ω = 15.0 rad s⁻¹. T = 2π/15.0 = 0.419 s and f = 2.39 Hz.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--06-shm-graphs.webp" width="900" height="1110" alt="Three stacked graphs over one period for amplitude 0.050 m and omega 4.0 per second: x is a cosine, v a negative sine with maximum 0.20 m/s a quarter cycle ahead of x, and a a negative cosine with maximum 0.80 m/s^2 in antiphase with x. Dotted lines mark quarter periods." loading="lazy">
+  <figcaption>v leads x by a quarter cycle and a is in antiphase with x.</figcaption>
+</figure>
+
 
 ## Measuring the period (5.3.1(c)(ii), PAG10)
 
@@ -127,6 +150,12 @@ At x = 0 all the energy is kinetic. At x = ±A all of it is potential. Energy-di
 
 **Worked example 8.** m = 0.250 kg, A = 0.080 m, f = 1.8 Hz. ω = 11.3 rad s⁻¹. E = ½ × 0.250 × 11.3² × 0.080² = 0.102 J. At x = 0.050 m, Ek = ½ × 0.250 × 11.3² × (0.080² − 0.050²) = 0.0624 J and Ep = 0.0400 J, which add to E. Ek = Ep at x = 0.080/√2 = 0.057 m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--07-shm-energy.webp" width="900" height="1080" alt="For a 0.250 kg oscillator with A 0.080 m and f 1.8 Hz the total energy is 0.102 J. Against displacement, Ep is an upright parabola and Ek an inverted parabola under a flat total line, crossing at plus and minus A over root 2. Against time each energy completes two cycles per oscillation and they are in antiphase." loading="lazy">
+  <figcaption>Energy swaps between kinetic and potential, with the total constant when there is no damping.</figcaption>
+</figure>
+
+
 ## Free, forced and damped oscillations (5.3.3(a), (b))
 
 A free oscillation happens when a system is displaced and released, then oscillates at its natural frequency f0 with no external force after the start. A forced oscillation has a periodic driving force, and the system oscillates at the driving frequency (after any initial transient).
@@ -140,6 +169,12 @@ Damping is the removal of energy from an oscillating system, usually as thermal 
 **Worked example 9.** Amplitude falls from 8.0 cm to 5.0 cm. Energy is proportional to A², so the fraction of energy left is (5.0/8.0)² = 0.39. Energy lost is 61%.
 
 Observations to make (5.3.3(b)(ii)): a mass on a spring with a card attached (more drag), Barton's pendulums, and a mass on a spring driven by a vibration generator at different frequencies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--08-damping-resonance.webp" width="900" height="1110" alt="Top: displacement against time for light, critical and heavy damping, with a dashed envelope on the light-damping curve. Bottom: amplitude of a forced oscillation against driving frequency over natural frequency; light damping gives a tall sharp peak near f0 and heavy damping a lower, broader peak at slightly lower frequency." loading="lazy">
+  <figcaption>Damping removes energy; resonance is largest when the driving frequency matches the natural frequency, and damping flattens it.</figcaption>
+</figure>
+
 
 ## Resonance (5.3.3(c) to (e))
 

@@ -66,6 +66,12 @@ Reminder with a given substitution: ∫ from 0 to ln 2 of e^(2x)/(eˣ + 1) dx wi
 ∫ from 2 to 3 of (u − 1)/u du = [u − ln u] from 2 to 3 = (3 − ln 3) − (2 − ln 2) = 1 − ln(3/2)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
+  <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
+</figure>
+
+
 ### Parts in steps
 
 1. Decide u (simplifies when differentiated) and dv/dx (easy to integrate).
@@ -93,6 +99,12 @@ Reminders:
 ```
 
 For the last result, call the integral I. Two applications of parts give I = eˣ sin 2x − 2eˣ cos 2x − 4I, so 5I = eˣ(sin 2x − 2 cos 2x).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--08-parts-as-area.webp" width="900" height="830" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
+  <figcaption>Integration by parts is the statement that two complementary areas fill a rectangle.</figcaption>
+</figure>
+
 
 ### Substitution followed by parts
 
@@ -124,6 +136,12 @@ Reminder with a numerator of equal degree: (x² + 4x − 1)/((x − 1)(x + 2)). 
 ```
 
 Choosing between methods: x/(x + 1)² can be done by substitution (u = x + 1) or by partial fractions (1/(x + 1) − 1/(x + 1)²). Both give ln(x + 1) + 1/(x + 1) + c.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--09-partial-fractions-area.webp" width="900" height="876" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
+  <figcaption>Splitting into partial fractions splits the area into two simple logarithmic bands.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

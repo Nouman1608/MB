@@ -59,6 +59,17 @@ Equal rates does not mean equal amounts. Statement b says what decides the mix: 
 
 The word **yield** in this unit means how much of a product is in the equilibrium mixture. A higher yield of the forward reaction means a larger share of products.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--01-closed-system-equilibrium.webp" width="900" height="1150" alt="A sealed container holds 8 reactant and 4 product particles with forward and backward arrows of equal strength. Amounts stay constant but are not equal. An open container lets product escape so the reverse reaction cannot balance the forward one." loading="lazy">
+  <figcaption>A closed system keeps both reactions in balance; an open one lets product escape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
+
 ## 3.8.2 c: changing the temperature
 
 In a reversible reaction, if one direction is **exothermic** (transfers energy to the surroundings), the other direction is **endothermic** (takes energy in). The rule in the specification is:
@@ -85,6 +96,12 @@ CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), where the forward direction takes in e
 
 Raising the temperature increases the yield from the endothermic reaction, here the forward one, so the mixture holds **more hydrogen**. Always decide which direction is which first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--05-temperature-shifts-equilibrium.webp" width="900" height="850" alt="For CO + 2H2 in equilibrium with CH3OH (forward exothermic): raising the temperature favours the endothermic backward reaction so less methanol; lowering it favours the exothermic forward reaction so more methanol." loading="lazy">
+  <figcaption>Raising the temperature favours the endothermic direction; lowering favours the exothermic one.</figcaption>
+</figure>
+
+
 ## 3.8.2 d: changing the pressure
 
 Pressure only matters for **gases**. Count the molecules of gas on each side of the balanced symbol equation, using the numbers in front of each formula.
@@ -105,6 +122,12 @@ The last row is a trap. With equal numbers of gas molecules on the two sides, a 
 ### Worked example 4: combining both factors
 
 For the methanol reaction (forward exothermic, 3 molecules → 1), the highest equilibrium yield of methanol needs a **low temperature** and a **high pressure**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--04-pressure-count-molecules.webp" width="900" height="1010" alt="Three gas equilibria drawn as molecules: 3 to 1 (higher pressure favours forward, more methanol), 2 to 4 (favours backward, less hydrogen), 2 to 2 (no change in yield). A thick arrow marks the favoured direction." loading="lazy">
+  <figcaption>Higher pressure favours the side with fewer gas molecules; equal numbers means no change.</figcaption>
+</figure>
+
 
 ## 3.8.2 e: optimum conditions in industry
 
@@ -133,6 +156,12 @@ nitrogen + hydrogen ⇌ ammonia
 
 Only **some** of the nitrogen and hydrogen react, because the reaction is reversible and ammonia breaks down again. The gas mixture leaving the reactor is **cooled**. Ammonia liquefies at a much higher temperature than nitrogen or hydrogen (it boils at about −33 °C, while nitrogen boils at about −196 °C and hydrogen at about −253 °C), so the ammonia turns to liquid and is removed. The unreacted nitrogen and hydrogen are **recycled** back to the reactor, so the raw materials are not wasted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--03-contact-process-stages.webp" width="900" height="960" alt="Three stages: burn sulfur to SO2; convert SO2 to SO3 over vanadium(V) oxide at about 450 C and atmospheric pressure (exothermic, reversible); add water to SO3 to make sulfuric acid." loading="lazy">
+  <figcaption>The three stages of the contact process with Stage 2 conditions.</figcaption>
+</figure>
+
+
 ### Why these conditions? (3.8.2 e applied)
 
 The forward reaction, making ammonia, is exothermic.
@@ -156,6 +185,17 @@ A plant reacts 140 tonnes of nitrogen completely with hydrogen. Calculate the ma
 
 In a real plant far less forms per pass, because the reaction is reversible; that is why recycling matters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--02-haber-process-flow.webp" width="900" height="1190" alt="Flow diagram: nitrogen from air and hydrogen from natural gas enter a reactor with iron catalyst at about 450 C and 200 atm. The gas leaves, is cooled, ammonia liquefies and is removed, and unreacted nitrogen and hydrogen are recycled to the reactor." loading="lazy">
+  <figcaption>Raw materials, conditions, ammonia removal and recycling in the Haber process.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--03-haber-compromise-grid.webp" width="900" height="1070" alt="Raising temperature lowers yield but raises rate, so 450 degrees C is a compromise. Raising pressure raises yield and rate but costs more and is less safe, so 200 atm is a compromise. Iron raises rate without changing yield." loading="lazy">
+  <figcaption>Yield, rate and cost pull in different directions, so Haber conditions are a compromise.</figcaption>
+</figure>
+
+
 ## 3.8.3 b: ammonia and fertilizers
 
 Ammonia is a **raw material for fertilizers**. It reacts with acids to make **ammonium salts**, such as ammonium nitrate and ammonium sulfate, which supply nitrogen to crops.
@@ -168,6 +208,12 @@ Why does the world need fertilizers?
 - Fertilizers replace the lost nutrients and **maximise food yields**.
 
 Chain: population → more food per field → nitrogen → ammonia fertilizers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--02-why-fertilizers.webp" width="900" height="1025" alt="Population grows, farmland is limited, so each field must give more food. Plants need nitrogen for protein, harvests remove it, and ammonia fertilizers put it back." loading="lazy">
+  <figcaption>From a growing population to ammonia: why fertilizers are needed.</figcaption>
+</figure>
+
 
 ## 3.8.3 d: the contact process for sulfuric acid
 
@@ -200,6 +246,12 @@ Calculate the maximum mass of sulfuric acid that can be made from 8.0 tonnes of 
 2. Mᵣ: S = 32, H₂SO₄ = 2 + 32 + 64 = 98.
 3. Mass ratio 32 : 98, scaled by 8.0 ÷ 32 = 0.25.
 4. Maximum mass of acid = 98 × 0.25 = **24.5 tonnes**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--04-reacting-mass-bars.webp" width="900" height="810" alt="140 tonnes of nitrogen and 30 tonnes of hydrogen give 170 tonnes of ammonia. 8.0 tonnes of sulfur give at most 24.5 tonnes of sulfuric acid." loading="lazy">
+  <figcaption>Both calculations scale a fixed mass ratio by a single factor.</figcaption>
+</figure>
+
 
 ## Common errors
 

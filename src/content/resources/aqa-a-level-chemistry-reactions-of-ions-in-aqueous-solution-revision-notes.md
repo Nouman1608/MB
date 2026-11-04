@@ -49,6 +49,12 @@ For full explanations and worked examples, use the [study guide](/resources/aqa-
 | [Fe(H₂O)₆]³⁺ | yellow-brown (as usually seen) |
 | [Al(H₂O)₆]³⁺ | colourless |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--01-aqua-ion-acidity.webp" width="900" height="830" alt="Two panels compare iron(II) and iron(III) aqua ions, each a metal ion bonded to a water ligand. Fe3+ is smaller with charge over size 0.0465 per pm against 0.0256 for Fe2+ (1.8 times larger). It pulls electrons from the oxygen harder, the O-H bond weakens and H+ is released more easily, giving a lower pH." loading="lazy">
+  <figcaption>A smaller, more highly charged 3+ ion polarises its water ligands more, so it releases H+ more easily than a 2+ ion.</figcaption>
+</figure>
+
+
 ## Acidity in four steps
 
 ```
@@ -76,6 +82,12 @@ Read the table by column for "what's different":
 - **Excess NaOH** dissolves only the aluminium precipitate (amphoteric).
 - **Excess NH₃** dissolves only the copper precipitate (ligand substitution).
 - **Carbonate** gives bubbles only with the 3+ ions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--09-mn-cr-tests.webp" width="900" height="770" alt="A grid of tubes for the two extra OCR ions. Mn2+ (very pale pink) gives a light brown precipitate with NaOH or NH3 that does not dissolve in excess and darkens in air. Cr3+ (violet) gives a grey-green precipitate that dissolves in excess NaOH to a dark green solution and in excess NH3 to a purple solution." loading="lazy">
+  <figcaption>OCR adds Mn2+ and Cr3+; only Cr(OH)3 dissolves in excess NaOH, and Cr(OH)3 dissolves in excess NH3 too.</figcaption>
+</figure>
+
 
 ## Formulas of the products
 
@@ -126,6 +138,12 @@ The three extra equations to learn:
 - **Why a precipitate forms vs why it redissolves.** A precipitate forms when the complex loses enough H⁺ to become neutral (or, for 2+ ions with carbonate, when MCO₃ forms). It redissolves only by further H⁺ loss (Al) or by ligand substitution (Cu).
 - **Fe²⁺ vs Fe³⁺.** Green vs brown hydroxide; no bubbles vs bubbles with carbonate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--02-deprotonation-ladder.webp" width="900" height="970" alt="Two rows of hexa-aqua complexes with six ligand circles. Water ligands (teal) become hydroxide ligands (gold) one at a time, each step removing H+ and lowering the charge by 1. A 2+ ion reaches charge 0 after two steps and a 3+ ion after three; the neutral complex is the precipitate." loading="lazy">
+  <figcaption>A complex that has lost enough H+ to reach zero charge is no longer attracted to water and precipitates.</figcaption>
+</figure>
+
+
 ## Required practical 11 in brief
 
 1. About 1 cm³ of test solution in a clean test tube; record its colour.
@@ -137,6 +155,12 @@ The three extra equations to learn:
 Hazards: NaOH(aq) is corrosive; NH₃(aq) is an irritant. Wear eye protection and work in a ventilated room.
 
 The specification also suggests (as an opportunity, not required content) that you identify the positive and negative ions met elsewhere in the course. The Group 2 cation tests and sulfate test are in [Group 2 revision notes](/resources/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals-revision-notes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--06-anion-sequence.webp" width="900" height="1090" alt="Three numbered steps. Add dilute nitric acid first: fizzing shows carbonate and removes it. Then barium nitrate: a white precipitate shows sulfate, and carbonate must already be gone because BaCO3 is also insoluble. Then silver nitrate followed by ammonia: white, cream or yellow shows a halide, and sulfate must be gone because Ag2SO4 is insoluble." loading="lazy">
+  <figcaption>Test for carbonate, then sulfate, then halide, because each later reagent would also precipitate the ion tested earlier.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -173,6 +197,27 @@ The specification also suggests (as an opportunity, not required content) that y
 10. [Al(H₂O)₃(OH)₃] + 3H⁺ → [Al(H₂O)₆]³⁺.
 11. Fe²⁺ (iron(II)).
 12. 2 × 0.0100 = 0.0200 mol.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--03-hydroxide-ammonia-tests.webp" width="900" height="1220" alt="A grid of test tubes for Fe2+, Cu2+, Fe3+ and Al3+ showing the starting solution and the result with a few drops and excess NaOH, then NH3. Fe2+ gives a green and Fe3+ a brown precipitate that never dissolves; Cu2+ gives a pale blue precipitate that dissolves only in excess NH3 to a deep blue solution; Al3+ gives a white precipitate that dissolves only in excess NaOH." loading="lazy">
+  <figcaption>Two results are special: Al(OH)3 dissolves in excess NaOH and Cu(OH)2 dissolves in excess NH3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--04-amphoteric-aluminium.webp" width="900" height="940" alt="A tube of white aluminium hydroxide precipitate sits in the centre. With acid it dissolves to colourless [Al(H2O)6]3+, and with excess hydroxide it dissolves to colourless [Al(OH)4]-. A second row shows that excess ammonia leaves the precipitate unchanged because ammonia is too weak a base." loading="lazy">
+  <figcaption>Aluminium hydroxide dissolves in acid and in excess alkali, but not in excess ammonia.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--05-carbonate-tests.webp" width="900" height="1005" alt="Two panels add carbonate ions to a tube. M2+ ions (Fe2+, Cu2+) are weakly acidic and give a metal carbonate precipitate with no gas. M3+ ions (Fe3+, Al3+) give H+ to carbonate, so the tube fizzes with CO2 and a metal hydroxide precipitate forms. The balanced aluminium equation is shown." loading="lazy">
+  <figcaption>3+ ions are acidic enough to turn carbonate into CO2, leaving a hydroxide; 2+ ions simply precipitate the carbonate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--08-ammonium-test.webp" width="900" height="990" alt="A test tube of ammonium salt and sodium hydroxide solution stands in a warm water bath with bubbles rising. Ammonia gas leaves the mouth of the tube and reaches damp red litmus paper held just above it, not touching the glass. The paper turns blue, showing an alkaline gas." loading="lazy">
+  <figcaption>Warm with NaOH and hold damp red litmus at the mouth of the tube: it turns blue if NH4+ is present.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -85,6 +85,17 @@ Natural, integer, rational (can be written as a fraction), irrational (√2, π 
 - **HCF** — multiply the **lowest** power of each **common** prime.
 - **LCM** — multiply the **highest** power of **every** prime that appears.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--01-types-of-number.webp" width="900" height="930" alt="Nested ovals show natural numbers inside integers inside rational numbers, with irrational numbers (pi, root 2, root 3) outside, a separate group that cannot be written as a fraction." loading="lazy">
+  <figcaption>Every natural number is an integer, and every integer is rational; irrational numbers are a separate group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
+
 ## Sets and Venn diagrams
 
 A **set** is a collection of objects, called its **elements**, written inside curly brackets. A set can be listed, {2, 4, 6, 8}, or described by a rule: {x : x is an integer and 2 ⩽ x ⩽ 6} means "all x such that x is an integer from 2 to 6", which is {2, 3, 4, 5, 6}.
@@ -183,6 +194,12 @@ Share 180 in the ratio 2 : 3 : 4     ->  9 parts,  180/9 = 20
 
 If a question gives the **difference** between two shares rather than the total, work out the value of one part from that difference. If it gives one share, use that share's number of parts. Reading which quantity has been given is where the marks are decided.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
+
 ## Percentages
 
 ```
@@ -198,6 +215,12 @@ compound interest:  P x (multiplier)^n
 2. (Extended) Subtracting instead of dividing in reverse percentages. If a price is $84 after a 20% rise, the original is 84 ÷ 1.2 = $70, not 84 × 0.8 = $67.20.
 
 **Compound versus simple interest:** simple interest is calculated on the original amount every year; compound interest is calculated on the running total, so it grows faster and the difference widens with time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
 
 ## Exponential growth and decay (Extended)
 
@@ -226,6 +249,12 @@ standard form:  A x 10^n   where  1 <= A < 10
 ```
 
 After multiplying or dividing in standard form, **re-check that A is between 1 and 10** and adjust the power if not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
 
 ## Surds (Extended)
 
@@ -356,6 +385,12 @@ division) rather than applying the shortcut blindly.
 - Counting the overlap of a Venn diagram twice: fill in the intersection first.
 - Subtracting times as if they were decimals, or entering 20 minutes as 0.2 hours.
 - Multiplying instead of dividing (or the reverse) in a currency conversion: sense-check which amount should be larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
 
 ## Examiner report insight
 

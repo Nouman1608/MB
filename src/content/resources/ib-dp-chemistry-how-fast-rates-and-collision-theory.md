@@ -76,6 +76,17 @@ Colorimeter absorbance readings are converted into [CV⁺]. At t = 0, [CV⁺] = 
 2. Average rate = 0.44/40 = **0.011 g s⁻¹**.
 3. In moles: 0.44/44.01 = 0.0100 mol CO₂, so the rate = 0.0100/40 = **2.5 × 10⁻⁴ mol s⁻¹**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--01-follow-rate.webp" width="900" height="1200" alt="Four rows of apparatus: a gas syringe measuring gas volume, a flask on a balance whose reading falls from 212.47 to 212.03 g as CO2 escapes, a colorimeter showing falling absorbance, and a stopwatch timing a cross disappearing, where rate is proportional to 1/time." loading="lazy">
+  <figcaption>You follow a rate by measuring whichever property changes: volume, mass, colour or time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--02-tangent-rate.webp" width="900" height="990" alt="Concentration of crystal violet falls from 2.40 to 0.90 (x 10^-5 mol per dm cubed) over 300 s. A tangent at 0 s gives 8.0 x 10^-8, a tangent at 300 s gives 3.0 x 10^-8, and the chord between them gives the average 5.0 x 10^-8 mol dm-3 s-1." loading="lazy">
+  <figcaption>Instantaneous rates are tangent gradients; the average rate lies between them.</figcaption>
+</figure>
+
+
 ## Collision theory (2.2.2)
 
 Particles react only when they **collide**, and a collision leads to reaction only if both of these are true:
@@ -94,6 +105,12 @@ Geometry matters most for larger molecules. Hydroxide ions react with bromometha
 
 Yet a 30 K rise often makes a reaction several times faster. The Maxwell–Boltzmann section below explains why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--03-energy-orientation.webp" width="900" height="1030" alt="Hydroxide hitting the Br side of bromomethane, even with high energy, bounces off. Hitting the carbon from the side opposite Br leads to CH3OH and Br-. Reaction needs enough energy and the right orientation." loading="lazy">
+  <figcaption>A collision reacts only with energy at least Ea and the right orientation.</figcaption>
+</figure>
+
+
 ## Factors that affect the rate (2.2.3)
 
 Each factor works by changing the **frequency of collisions**, the **fraction of collisions with E ≥ Ea**, or both.
@@ -111,6 +128,12 @@ Write "more frequent collisions", not just "more collisions".
 **Controlling variables.** To study one factor, keep the others fixed: temperature (water bath), the volume and concentration of each solution, the mass and particle size of any solid, the shape and size of the flask, and whether the mixture is stirred.
 
 **Errors on graphs.** **Random errors** scatter points on both sides of the best-fit line. A **systematic error** shifts every point the same way; for example, a stopwatch always started 2 s late, or a line that should pass through the origin but cuts an axis. Repeating readings reduces the effect of random error but does nothing for systematic error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--04-factors-crowding.webp" width="900" height="1080" alt="Three rows with low and high cases: 4 particles against 12 in equal boxes, 5 particles squeezed by a piston, and one block against four small pieces. More crowding or more exposed surface means more frequent collisions." loading="lazy">
+  <figcaption>Concentration, pressure and surface area all raise the frequency of collisions.</figcaption>
+</figure>
+
 
 ## Activation energy and the Maxwell–Boltzmann distribution (2.2.4)
 
@@ -131,6 +154,12 @@ A **Maxwell–Boltzmann energy distribution curve** shows how kinetic energy is 
 That is the answer to worked example 3. A modest rise in average kinetic energy moves a much larger share of particles past Ea, so the fraction of successful collisions rises steeply. This effect matters far more than the small increase in collision frequency.
 
 **Linking question: fuels.** Methane and air can be mixed safely at room temperature even though combustion is strongly exothermic. Very few collisions have energy above the high Ea until a spark or flame supplies energy. A high Ea is useful in a fuel: it can be stored safely and burns only when ignited. Alkanes are described as **kinetically stable** (high Ea, so slow) but **thermodynamically unstable** (their combustion products are lower in energy). Bond strength matters too. The very strong triple bond in N₂ makes reactions that must break it slow, which helps explain why nitrogen gas is so unreactive (a link to bond strength in Structure 2.2).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--05-temperature-mb.webp" width="900" height="1010" alt="Two Maxwell–Boltzmann curves for 17 and 47 degrees C with equal areas; the hotter curve is lower and wider with a larger shaded area beyond Ea. Bars show average kinetic energy up only 10% (320.15/290.15)." loading="lazy">
+  <figcaption>A 10% rise in average energy puts a much larger share of particles above Ea.</figcaption>
+</figure>
+
 
 ## Catalysts and energy profiles (2.2.5)
 
@@ -158,6 +187,22 @@ For an endothermic reaction, the reverse barrier is Ea(forward) − ΔH. For exa
 Draw **one** curve: the temperature has not changed. Mark Ea (uncatalysed) and, further left, Ea (catalysed). The area beyond the catalysed Ea is larger, so a greater fraction of collisions have enough energy. Do not draw a second curve or move the peak.
 
 **HL link.** Transition elements make useful catalysts; their features are covered in AHL Structure 3.1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--06-profile-catalyst.webp" width="900" height="960" alt="An exothermic profile with delta H of -58. Uncatalysed forward Ea is 96 and reverse 154; catalysed forward 61 and reverse 119. Both barriers fall by 35 and delta H is unchanged." loading="lazy">
+  <figcaption>A catalyst lowers the forward and reverse barriers equally and leaves delta H unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--07-mb-catalyst.webp" width="900" height="900" alt="One Maxwell–Boltzmann curve with two Ea lines. The area beyond the lower catalysed Ea is larger, with the extra area shaded; the curve itself does not move." loading="lazy">
+  <figcaption>A catalyst makes more of the same particles energetic enough to react.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--08-profile-endothermic.webp" width="900" height="900" alt="An endothermic profile with products above reactants by +46. Forward Ea is 118; the reverse barrier is 118 minus 46, which is 72." loading="lazy">
+  <figcaption>For an endothermic reaction the reverse barrier is Ea minus delta H.</figcaption>
+</figure>
+
 
 ## Common errors
 

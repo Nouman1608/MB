@@ -56,6 +56,17 @@ Also useful: the [practice questions](/resources/ocr-gcse-physics-gas-pressure-c
 
 **Practicals named in the specification:** heated and frozen balloon, manometers on heated or cooled gas, the exploding can, film canister rockets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--03-gauge-warm-flask.webp" width="900" height="910" alt="Two identical rigid flasks, each with 10 gas particles and a pressure gauge. In a cool water bath the particles have short motion trails and the gauge reads 100 kPa. In a warm water bath the same particles have long trails, meaning they move faster, and the gauge reads 106 kPa. Faster particles hit the walls more often and harder, so the pressure rises at constant volume." loading="lazy">
+  <figcaption>At constant volume, warming a gas raises its pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--02-gas-pressure.webp" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
+  <figcaption>Faster particles or a smaller volume mean more forceful or more frequent wall collisions, so higher pressure.</figcaption>
+</figure>
+
+
 ## P1.3c (Higher Tier only): Compression and force direction
 
 - Gases compress easily because the particles are far apart. Liquids and solids hardly compress.
@@ -64,6 +75,27 @@ Also useful: the [practice questions](/resources/ocr-gcse-physics-gas-pressure-c
 - Collapsing can: inside pressure falls after steam condenses, so the greater outside pressure pushes the can inwards.
 
 **Worked reminder.** A flat panel of area 0.25 m² has 8.0 × 10⁴ Pa more pressure on one side than the other. Net force = 8.0 × 10⁴ × 0.25 = **2.0 × 10⁴ N**, pushing from the high-pressure side towards the low-pressure side and at right angles to the panel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--02-net-force-both-sides.webp" width="900" height="1170" alt="A window has air at 1.0 x 10^5 Pa on both sides so the net force is about zero. A cooled can has 1.0 x 10^5 Pa outside and 4.0 x 10^4 Pa inside; the 6.0 x 10^4 Pa difference acts on 0.015 m2 giving 900 N inwards." loading="lazy">
+  <figcaption>The net force comes from the pressure difference times the area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--05-syringe-air-water.webp" width="900" height="1120" alt="Two syringes with blocked nozzles. The air syringe has 10 widely spaced particles and the plunger pushes in from 60 cubic centimetres to 24 cubic centimetres, crowding the particles together. The water syringe is full of touching particles and the plunger hardly moves under the same push, because the particles are already close together." loading="lazy">
+  <figcaption>Air compresses because its particles are far apart; water does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--01-pressure-force-area.webp" width="900" height="850" alt="Two blocks each press with 600 N. On 0.5 m2 the pressure is 1200 Pa and the block sinks little into sand; on 0.1 m2 it is 6000 Pa and it sinks deeper." loading="lazy">
+  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
+</figure>
+
 
 ## P1.3d (Higher Tier only): Volume and pressure
 
@@ -90,6 +122,27 @@ pressure (Pa) × volume (m³) = constant, so p₁V₁ = p₂V₂
 
 **Second reminder.** A gas at 2.0 × 10⁵ Pa and 0.0030 m³ is released into a larger volume at 1.0 × 10⁵ Pa. V₂ = 2.0 × 10⁵ × 0.0030 ÷ 1.0 × 10⁵ = **0.0060 m³**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--01-gas-volume-pressure.webp" width="900" height="1030" alt="Two syringes hold the same 12 particles. At 60 cm3 the pressure is 1.0 x 10^5 Pa; pushed in to 24 cm3 it is 2.5 x 10^5 Pa. A pressure-volume curve passes through both points and p x V is 6.0 x 10^6 at each." loading="lazy">
+  <figcaption>Squeezing a gas at constant temperature raises its pressure while pV stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--03-air-column-pressure.webp" width="900" height="1060" alt="Three boxes of air particles at weather-balloon height, the top of the highest mountains and the ground have pressures of 25 kPa, about 33 kPa and 100 kPa. The weight of air above 1 m2 is 1.0 x 10^5 N, a mass of 1.0 x 10^4 kg." loading="lazy">
+  <figcaption>Less air above means lower pressure; every square metre of ground carries about ten tonnes of air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--04-weather-balloon-volume.webp" width="900" height="1110" alt="A balloon of 2.4 m3 at 100 kPa rises to where the pressure is 25 kPa and grows to 9.6 m3. Rectangles with width p and height V have equal area 240." loading="lazy">
+  <figcaption>As outside pressure falls the balloon expands so that p x V stays the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--04-marshmallow-bell-jar.webp" width="900" height="850" alt="Two bell jars. In the left jar there is plenty of air (24 particles) and the marshmallow with small gas bubbles is its normal size. In the right jar a pump has removed most of the air (5 particles left), so the pressure outside the marshmallow is lower. The gas bubbles inside are at higher pressure than the surroundings, so they expand and the marshmallow swells." loading="lazy">
+  <figcaption>Lower pressure outside lets the gas bubbles inside expand.</figcaption>
+</figure>
+
+
 ## P1.3e (Higher Tier only): Work done on a gas
 
 - Doing work on a gas transfers energy to it. Bicycle pump example: the piston moves in, particles rebound from it faster.
@@ -97,6 +150,12 @@ pressure (Pa) × volume (m³) = constant, so p₁V₁ = p₂V₂
 - Work done = force × the distance moved along the line of the force.
 - pV = constant needs constant temperature. A quick compression warms the gas, so the pressure rises by more than pV = constant suggests.
 - In practice, friction also warms a pump. State the compression as the main cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--05-pump-work-heats-gas.webp" width="900" height="980" alt="A piston is pushed 0.20 m by 45 N. A particle bouncing off a fixed wall leaves at the same speed (3 units) but off the moving piston it leaves faster (5 units). The work done is 9.0 J, so the gas is hotter." loading="lazy">
+  <figcaption>Work done on a gas speeds up its particles and raises its temperature.</figcaption>
+</figure>
+
 
 ## P1.3f and P1.3g (Higher Tier only): The atmosphere
 

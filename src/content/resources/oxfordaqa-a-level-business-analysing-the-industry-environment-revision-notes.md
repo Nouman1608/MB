@@ -48,6 +48,12 @@ Exam-style set: [practice questions](/resources/oxfordaqa-a-level-business-analy
 
 **Rule of thumb:** strong forces mean lower industry profitability; weak forces mean higher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--02-ownership-liability.webp" width="900" height="1216" alt="Six forms of ownership with liability: sole trader unlimited, partnership usually unlimited, Ltd and plc limited, non-profit and social enterprise varies. Limited liability caps the loss at the amount invested." loading="lazy">
+  <figcaption>Liability is the key difference between forms of ownership.</figcaption>
+</figure>
+
+
 ## What makes each force strong
 
 | Force | Strong if... | Firm might weaken it by... |
@@ -57,6 +63,12 @@ Exam-style set: [practice questions](/resources/oxfordaqa-a-level-business-analy
 | Supplier power | few suppliers, unique input, costly to switch, firm is a small customer | multiple suppliers, long contracts, alternative inputs, backward integration |
 | Entry threat | low set-up costs, no licences, little know-how needed, weak loyalty, open distribution | economies of scale, patents, exclusive distribution deals, loyalty |
 | Substitute threat | close alternatives, better value, easy to switch | better value, product development, bundling |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
+  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
+</figure>
+
 
 ## Useful numbers from AS
 
@@ -81,6 +93,12 @@ Share of sales to a buyer     = sales to that buyer ÷ total sales × 100
 5. **Prioritise:** which one or two forces matter most, and why.
 6. **Recommend or judge**, saying what the answer depends on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+
 ## Method in steps: responding to a change in a force
 
 1. Name the force and the direction of change.
@@ -91,6 +109,17 @@ Share of sales to a buyer     = sales to that buyer ÷ total sales × 100
 
 **Worked reminder.** A regional parcel courier learns that its largest client, an online retailer, plans to build its own delivery fleet. Buyer power has risen, because the client can now supply the service itself. Options: cut prices to keep the contract (defend), offer services the client cannot easily copy, such as next-morning rural delivery (adapt), or win many smaller online sellers to replace the lost volume (spread the risk). The third reduces dependence on one buyer for good, but takes longest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--09-inflation-index.webp" width="900" height="990" alt="A price index rising from 106.0 to 110.24 is 4 percent inflation (divide by the earlier index). Quenby raising prices 3 percent against 4 percent generally is about 1 percent lower in real terms. 100.0 to 98.5 is 1.5 percent deflation." loading="lazy">
+  <figcaption>Inflation is the change in the index divided by the earlier index.</figcaption>
+</figure>
+
+
 ## Impact on functional areas
 
 | Area | Typical effect of strong forces |
@@ -99,6 +128,12 @@ Share of sales to a buyer     = sales to that buyer ÷ total sales × 100
 | Operations | Push to cut unit costs; search for alternative suppliers or inputs |
 | Finance | Lower margins and retained profit; powerful buyers may delay payment |
 | Human resources | Less room for pay rises; possible job cuts or retraining |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -51,6 +51,17 @@ Because the change is made to the genome, the new characteristic is inherited. O
 
 Genetic engineering is not the same as selective breeding. Selective breeding picks parents with useful features from within a species and takes many generations. Genetic engineering changes the genome directly, can use a gene from a different species and gives the characteristic in one generation of the modified organism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--07-gm-examples.webp" width="900" height="1015" alt="Four examples: human insulin gene into bacteria so they make human insulin; herbicide resistance so the crop lives and weeds die; insect resistance in maize using a bacterial gene so pests die; rice that makes beta-carotene for vitamin A." loading="lazy">
+  <figcaption>GM moves a gene from one organism into another to give a useful new feature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--07-selective-breeding.webp" width="900" height="1180" alt="A loop shows choosing the best plants, crossing them, and growing offspring and choosing the best, repeated for many generations. A line graph shows wheat yield rising over four rounds: 3.2, 3.5, 3.9, 4.3 tonnes per hectare, a 34.4% increase. Uses are higher yield and disease resistance in crops and more milk, meat and calmer temperament in animals." loading="lazy">
+  <figcaption>Choosing and crossing the best plants over many generations raises yield.</figcaption>
+</figure>
+
+
 ## B6.2e: The main steps (Higher Tier only)
 
 You need the order of the steps and the job done at each one.
@@ -77,6 +88,22 @@ A technician treats bacteria with a plasmid that carries a resistance gene for a
 Plate 1 shows the bacteria are alive and able to grow. Plate 2 shows that untreated bacteria cannot survive antibiotic K, so any colony on plate 3 must have gained resistance. Plate 3 colonies each carry the plasmid, so each is a transformed bacterium. Using plate 1 as the number of cells that could grow, the proportion transformed is 42 / 210 × 100 = **20.0%**.
 
 A limit to remember: the marker shows that the plasmid was taken up. It does not by itself prove the gene you wanted is inside it, so further tests are needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food--04-mp18-selection-plates.webp" width="900" height="830" alt="Three agar plates. Plate 1, no plasmid and no antibiotic: 210 colonies. Plate 2, no plasmid with antibiotic K: 0 colonies. Plate 3, plasmid-treated bacteria with antibiotic K: 42 colonies, each transformed. 42 divided by 210 is 20.0 percent. The marker shows the plasmid was taken up, not that the wanted gene is inside." loading="lazy">
+  <figcaption>Antibiotic resistance marker selection: only bacteria carrying the plasmid form colonies on antibiotic K.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food--04-mp036-sticky-end-pairing.webp" width="900" height="1010" alt="Illustrative DNA cut by one enzyme: the plasmid end has sticky end CTAG and the gene end has sticky end GATC. Bases pair G with C, A with T, T with A, C with G; ligase seals the cuts. A different enzyme would leave ends that do not match." loading="lazy">
+  <figcaption>Sticky ends join because their bases are complementary, then ligase seals the backbone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
 
 ## B6.2f: Benefits and risks in modern agriculture
 
@@ -111,6 +138,17 @@ A trial compares two types of cotton field. Figures are per hectare per season. 
 
 The GM crop gives 593 more units per hectare, even with the dearer seed. A balanced evaluation adds that this is one trial: it does not show effects on wildlife, pest resistance over many years or a farmer's access to credit for seed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food--05-mp18-cotton-trial.webp" width="900" height="1000" alt="Bar chart of money left per hectare after costs. Conventional: 2160 income minus 40 seed and 72 sprays leaves 2048 units. Insect-resistant GM: 2760 minus 95 and 24 leaves 2641 units, 593 more. One trial only, with illustrative numbers." loading="lazy">
+  <figcaption>The GM cotton leaves 593 more units per hectare in this one illustrative trial.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food--01-mp036-gm-benefit-risk.webp" width="900" height="960" alt="Two columns of picture cards. Benefits: higher yield, fewer insecticide sprays, added nutrients, longer shelf life. Risks: gene flow to wild plants, pests evolving resistance, harm to harmless insects, costly seed owned by few firms." loading="lazy">
+  <figcaption>Each GM crop should be judged on its own trait, weighing benefits against risks.</figcaption>
+</figure>
+
+
 ## B6.2g: Genetic modification as a biotechnological solution
 
 The specification asks you to describe and explain how genetic modification could meet the demands of a growing human population. The central argument is simple: more people need more food, and there is limited new farmland, so each hectare, plant and animal has to deliver more.
@@ -140,6 +178,22 @@ The table shows invented figures for the area of GM crops in one country, where 
 Growth was faster in the second five years (2.4 against 1.8 million hectares), so adoption was speeding up.
 
 For the salmon example, suppose a conventional fish takes 28 months to reach market size and a GM fish takes 16 months. The time saved is (28 − 16) / 28 × 100 = **42.9%**. That means the same tank space can produce more fish per year, which is the food-supply argument. The matching risk is escape: faster-growing fish that breed with wild fish could change wild populations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food--06-mp18-salmon-growth.webp" width="900" height="850" alt="Bar chart to scale: conventional salmon 28 months to market size, GM salmon 16 months, so 12 months or 42.9 percent saved and more fish per tank per year. The matching risk is escaped fish breeding with wild fish." loading="lazy">
+  <figcaption>A GM salmon in the example reaches market size 42.9 % sooner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food--02-mp036-gm-adoption.webp" width="900" height="960" alt="Bar chart of invented data: GM crop area 1.2, 3.0 and 5.4 million hectares in 2010, 2015 and 2020 within 18 million hectares of cropland (6.7, 16.7 and 30 percent). Growth was 1.8 then 2.4 million hectares, a total rise of 4.2 million or 350 percent." loading="lazy">
+  <figcaption>Adoption rose faster in the second five years, reaching 30% of cropland.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food--03-mp036-chymosin-sources.webp" width="900" height="940" alt="Two routes to chymosin: from calf stomachs, which depends on slaughter, or from GM microbes in a fermenter, a steady supply with no slaughter. Either way, chymosin added to milk makes cheese." loading="lazy">
+  <figcaption>GM microbes can make the cheese enzyme chymosin without slaughter.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -51,6 +51,17 @@ These notes condense section P2.9 (Numerical methods) of the OxfordAQA Internati
 - A root where the graph touches the axis, for example f(x) = (2x − 5)², gives no sign change.
 - Two roots in one interval can leave the end signs equal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--01-sign-change-root.webp" width="900" height="910" alt="f(x)=x^3+2x^2-5 is below the axis at x=1 (f=-2) and above at x=2 (f=11), so the continuous curve crosses between them near 1.2419. A zoom on 1.235 to 1.245 shows f negative then positive, so the root is 1.24 to 2 d.p." loading="lazy">
+  <figcaption>A change of sign of a continuous function proves a root, and testing both ends of the rounding interval fixes the decimal places.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--02-sign-change-fails.webp" width="900" height="1000" alt="Three graphs: 1/(x-2) on 1 to 3 changes sign across an asymptote with no root; (2x-3)^2 on 1 to 2 touches the axis with equal signs at the ends; (x-1)(x-2)(x+3) on 0.5 to 2.5 has two roots but positive ends." loading="lazy">
+  <figcaption>A sign change proves a root only if the function is continuous, and no sign change proves nothing.</figcaption>
+</figure>
+
+
 ## Iteration
 
 **Method.**
@@ -73,6 +84,12 @@ These notes condense section P2.9 (Numerical methods) of the OxfordAQA Internati
 
 **A rearrangement that fails.** For the same equation, xₙ₊₁ = 5/xₙ² − 2 has g′(α) ≈ −5.22, so the cobweb spirals outwards. From 1.3 it gives 0.9586, 3.4414, −1.5778, 0.0084, then 70 754.76.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1270" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
+  <figcaption>Where the curve y = g(x) meets y = x is the root; the path converges when the curve is flatter than the line there.</figcaption>
+</figure>
+
+
 ## Mid-ordinate rule
 
 **Method.**
@@ -86,6 +103,12 @@ These notes condense section P2.9 (Numerical methods) of the OxfordAQA Internati
 
 **Reminder.** ∫₁³ (1/x) dx with 4 strips: h = 0.5, midpoints 1.25, 1.75, 2.25, 2.75, heights 0.8, 0.5714, 0.4444, 0.3636. Estimate = 0.5 × 2.2194 = 1.0898, below the exact value ln 3 = 1.0986 because 1/x is convex.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--08-mid-ordinate-rule.webp" width="900" height="890" alt="y = 1/x on 1 to 3 with 2 strips: midpoint heights 0.667 and 0.4 give 1.0667, below ln 3 = 1.0986, because tangents at the midpoints lie below the convex curve." loading="lazy">
+  <figcaption>Each mid-ordinate rectangle equals the trapezium under the tangent at the midpoint, so a convex curve is under-estimated.</figcaption>
+</figure>
+
+
 ## Simpson's rule
 
 **Method.**
@@ -98,6 +121,17 @@ These notes condense section P2.9 (Numerical methods) of the OxfordAQA Internati
 **Reminder.** ∫₀² x/(1 + x²) dx with 4 strips: ordinates 0, 0.4, 0.5, 0.46154, 0.4. Estimate = (0.5/3)[0 + 0.4 + 4(0.4 + 0.46154) + 2(0.5)] = 0.8077.
 
 Simpson's rule is exact for polynomials up to cubic, so a quadratic or cubic is a good way to check your set-up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--06-trapezium-rule.webp" width="900" height="1180" alt="ln x on 1 to 3 with 4 strips gives 1.2821 against the exact 1.2958. A magnified first strip shows the chord below the curve, so the rule under-estimates a concave curve." loading="lazy">
+  <figcaption>For a concave curve the chords lie below it so the trapezium rule under-estimates; for a convex curve it over-estimates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--09-simpsons-rule.webp" width="900" height="980" alt="A parabola through the ordinates 1, 1/2, 1/3 of 1/x gives Simpson 1.1111 for 2 strips, compared with mid-ordinate 1.0667 and exact 1.0986." loading="lazy">
+  <figcaption>Simpson's rule integrates the parabola through three ordinates, weights 1, 4, 1, and needs an even number of strips.</figcaption>
+</figure>
+
 
 ## Improving estimates
 

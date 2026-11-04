@@ -57,9 +57,26 @@ B1.2d and B1.2e are Higher Tier only. Everything else is for both tiers.
 
 Example: 35% thymine gives 35% adenine, 70% in total, 30% left, so **15% each of G and C**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--07-dna-percentages.webp" width="900" height="900" alt="If 34% of the bases are C, G is also 34%. A plus T is 100 minus 68 = 32%, so A and T are each 16%. The four add to 100." loading="lazy">
+  <figcaption>Pairing means A equals T and C equals G.</figcaption>
+</figure>
+
+
 ### Method: write the complementary strand
 
 Swap every base for its partner: A↔T, G↔C. Example: GGATC pairs with **CCTAG**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--01-nucleotide-parts.webp" width="900" height="1130" alt="A nucleotide is a phosphate group, a sugar and one of four bases. Only the base differs. Below, two strands have sugar and phosphate on the outside and bases pointing inwards: strand 1 reads ATTGC and strand 2 TAACG, with A paired to T and C paired to G." loading="lazy">
+  <figcaption>Every nucleotide has the same sugar and phosphate; only the base differs, and bases pair A-T and C-G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
 
 ## Protein synthesis (B1.2d) - Higher Tier only
 
@@ -78,6 +95,12 @@ Mnemonic for the stages: copy in the nucleus, read in the cytoplasm.
 3. Look up each triplet in the table the question gives you.
 4. Write the amino acids in order.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
+
 ## DNA structure and the protein made (B1.2e) - Higher Tier only
 
 - Sequence of bases in the gene → sequence of triplets → order of amino acids.
@@ -85,6 +108,22 @@ Mnemonic for the stages: copy in the nucleus, read in the cytoplasm.
 - For an enzyme, a changed shape can mean a changed active site, so the substrate no longer fits.
 - A base change may alter one amino acid, or none (the new triplet can specify the same amino acid as the old one). A deleted or added base shifts every later triplet.
 - Number of bases = number of amino acids × 3 (coding sequence only).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--02-triplet-code-worked.webp" width="900" height="1170" alt="Template TAC GGT CTT gives mRNA AUG CCA GAA and amino acids Met, Pro, Glu. Changing the last triplet to CAT gives mRNA GUA and Val, so one amino acid changes." loading="lazy">
+  <figcaption>Worked examples 3 and 4: each triplet codes for one amino acid, and a base change can change one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--07-mutation-effects.webp" width="900" height="1100" alt="Template TAC GGT CTT gives Met-Pro-Glu. Changing CTT to CTC still gives Glu, so the protein is unchanged. Deleting the first G of GGT shifts every later triplet, so the amino acid order changes along the rest of the chain." loading="lazy">
+  <figcaption>A base change can be silent, but a deleted base shifts every triplet after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--08-enzyme-calcs.webp" width="900" height="998" alt="120 amino acids need 120 triplets, so 360 bases. Catalase rates of 0.35 and 0.55 cm cubed per second at 35 and 45 degrees C give a 57 percent increase." loading="lazy">
+  <figcaption>Worked examples 5 and 6 laid out visually: 120 x 3 = 360 bases, and a 57% rise in rate.</figcaption>
+</figure>
+
 
 ## Enzymes (B1.2g)
 
@@ -106,6 +145,62 @@ Mnemonic for the stages: copy in the nucleus, read in the cytoplasm.
 | Enzyme concentration | Rises in proportion while substrate is plentiful | More active sites |
 
 Optimum conditions differ between enzymes. Not every enzyme has an optimum of 37 °C, and not every optimum pH is 7.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--03-rate-from-chords.webp" width="900" height="820" alt="Oxygen volume against time rises steeply then levels off. Gradients over 0-10 s, 20-30 s and 40-50 s are 1.4, 0.6 and 0.2 cm3 per s, and the line is flat after 50 s." loading="lazy">
+  <figcaption>The steeper the line, the faster the reaction; it flattens when substrate is used up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--05-enzyme-conc-graphs.webp" width="900" height="980" alt="Two illustrative graphs. Rate rises with substrate concentration then levels off when all active sites are busy. With substrate in excess, rate rises in proportion to enzyme concentration until substrate is limiting." loading="lazy">
+  <figcaption>Rate levels off when substrate saturates the enzyme; it rises in proportion to enzyme while substrate is in excess.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action--06-catalase-gas-syringe.webp" width="900" height="920" alt="A flask of hydrogen peroxide and a catalase source is bunged, with a delivery tube to a gas syringe. The plunger is pushed out to read the oxygen volume, for example 33 cm cubed in 60 s, a rate of 0.55 cm cubed per second." loading="lazy">
+  <figcaption>Oxygen from the flask is collected in a gas syringe and the volume read after a fixed time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--02-specificity.webp" width="900" height="780" alt="Lipase is shown with two molecules. Fat has a complementary shape, fits the active site and reacts. Starch, a chain of beads, has a different shape, does not fit and nothing happens." loading="lazy">
+  <figcaption>Only a substrate with a complementary shape fits the active site.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--03-denaturation.webp" width="900" height="1090" alt="Three panels: a working enzyme whose substrate fits; a too-hot enzyme whose active site has changed shape so the substrate does not fit; the same enzyme cooled again, still with the changed shape and still not working." loading="lazy">
+  <figcaption>Heat changes the shape of the active site, and cooling does not restore it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--05-temperature-collisions.webp" width="900" height="910" alt="Two panels at temperatures below the optimum. Cooler: slow substrate molecules, short arrows, one enzyme has a substrate bound. Warmer: more kinetic energy, long arrows, more frequent effective collisions, three enzymes have substrates bound." loading="lazy">
+  <figcaption>More kinetic energy gives more frequent effective collisions and more enzyme-substrate complexes per unit time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--07-starch-iodine-end-point.webp" width="900" height="990" alt="Starch and amylase tubes stand in a water bath at a set temperature. After mixing, one drop every 30 seconds goes on iodine in a spotting tile. Wells at 30 to 120 seconds are blue-black; the well at 150 seconds is the first orange-brown, the end point. Rate = 1000 ÷ 150 = 6.7." loading="lazy">
+  <figcaption>The end point is the first well where iodine stays orange-brown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--08-rate-from-results.webp" width="900" height="980" alt="Two bar charts. Amylase: rates 2.2, 4.2, 6.7, 11.1, 5.6 and 0 at 10 to 60 degrees Celsius (rate = 1000 divided by time), optimum about 40. Catalase: rates 3.0, 5.5, 9.0, 6.5 and 2.5 cm3 per minute at pH 5 to 9, optimum near pH 7." loading="lazy">
+  <figcaption>Rate is calculated from time or volume; the highest bar shows the optimum.</figcaption>
+</figure>
+
 
 ## Experiments and rates (B1.2f)
 
@@ -175,6 +270,12 @@ Second reminder: a pH investigation gives the times for starch to disappear as 1
 10. All the active sites are occupied, so extra substrate cannot be processed faster; another factor is limiting.
 11. 60% decrease.
 12. Any two from: temperature, volume of enzyme, concentration of enzyme, volume and concentration of starch.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--04-temperature-graph.webp" width="900" height="800" alt="Sketch graph of enzyme activity against temperature. Activity rises to a peak at the optimum (about 37 degrees Celsius for many human enzymes) then falls quickly to near zero. Cold enzymes are slow but not denatured; hot enzymes are denatured and do not recover on cooling." loading="lazy">
+  <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

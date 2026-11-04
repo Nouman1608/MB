@@ -51,6 +51,17 @@ Oxygen pulls the shared electrons towards itself, so the bond is polarised as C�
 
 The carbonyl carbon has three regions of electron density around it, so it is **trigonal planar** (bond angles near 120°). Keep this in mind for the enantiomer section.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--01-carbonyl-group.webp" width="900" height="660" alt="An aldehyde (propanal) and a ketone (propanone) are drawn with the carbonyl carbon at the centre of a flat shaded triangle. The three bonds are 120 degrees apart. The carbon is marked delta plus and the oxygen delta minus." loading="lazy">
+  <figcaption>The C=O carbon is delta plus and trigonal planar, so nucleophiles attack it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--08-dnph-melting-point.webp" width="900" height="1050" alt="An orange precipitate with 2,4-DNPH shows a carbonyl group. A number line gives derivative melting temperatures, with an unknown at 125 degrees C between butanal and propanone. A negative Tollens’ test rules out the aldehyde, so it is propanone." loading="lazy">
+  <figcaption>2,4-DNPH shows C=O; a close melting temperature needs a second test such as Tollens’.</figcaption>
+</figure>
+
+
 ## Oxidation of aldehydes
 
 An aldehyde has a hydrogen on its carbonyl carbon. Oxidation replaces that C–H with C–OH, so **aldehydes are readily oxidised to carboxylic acids**:
@@ -83,6 +94,12 @@ Two colourless liquids are known to be 4-methylpentanal and 2-methylpentan-3-one
 
 Give an observation for **both** liquids: "no silver mirror", not "no reaction".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--09-iodoform-test.webp" width="900" height="1100" alt="A yellow precipitate of CHI3 forms with iodine and sodium hydroxide. Five skeletal formulae have the CH3-C=O group shaded where present: ethanal, propanone and butanone are positive; propanal and pentan-3-one are negative." loading="lazy">
+  <figcaption>Only compounds with a CH3-C=O group, including ethanal, give the yellow iodoform precipitate.</figcaption>
+</figure>
+
+
 ### Worked example 2: identifying an aldehyde from the silver formed
 
 A saturated, non-cyclic aldehyde has the general formula CₙH₂ₙO. Warming 0.750 g of one such aldehyde with excess Tollens' reagent gives 1.62 g of silver. Find its molecular formula. (Ar: Ag = 107.9; C = 12.0, H = 1.0, O = 16.0)
@@ -97,6 +114,17 @@ Mr          = 0.750 ÷ 0.007507 = 99.9, so 100 to 3 s.f.
 ```
 
 The aldehyde is **C₆H₁₂O**. Any hexanal isomer fits, for example 2-ethylbutanal, (CH₃CH₂)₂CHCHO.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--02-carbonyl-tests.webp" width="900" height="1110" alt="Three rows of test tubes compare an aldehyde with a ketone. Tollens’ gives a silver mirror only with the aldehyde, Fehling’s a red precipitate on blue only with the aldehyde, and acidified dichromate(VI) turns orange to green only with the aldehyde." loading="lazy">
+  <figcaption>Aldehydes are oxidised by Tollens’, Fehling’s and dichromate; ketones are not (Fehling’s not on OCR; dichromate for OCR and Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--03-silver-ratio.webp" width="900" height="1010" alt="RCHO is oxidised to RCOOH, releasing two electrons. Each electron reduces an Ag+ ion to Ag, so one mole of aldehyde gives two moles of silver. 1.16 g of propanal gives 0.0200 mol aldehyde, 0.0400 mol Ag and 4.32 g silver." loading="lazy">
+  <figcaption>One mole of aldehyde releases two electrons and so deposits two moles of silver.</figcaption>
+</figure>
+
 
 ## Reduction with NaBH₄
 
@@ -115,6 +143,17 @@ Write overall equations with **[H]** standing for the reductant. Two [H] are nee
 ### The mechanism
 
 Show the nucleophile as the **hydride ion**, drawn with its lone pair (H:⁻), as the specification asks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--04-hydride-mechanism.webp" width="900" height="1300" alt="Step 1 shows a hydride ion with a lone pair attacking the carbonyl carbon by a curly arrow, while a second arrow moves the C=O bond onto oxygen. Step 2 shows the O- taking H from water, giving propan-2-ol." loading="lazy">
+  <figcaption>H- attacks the delta plus carbon, then O- is protonated, giving a secondary alcohol from a ketone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
+  <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
+</figure>
+
 
 ### Worked example 3: reduction of 2-methylpentan-3-one
 
@@ -206,12 +245,24 @@ This is why the specification names **aldehydes and unsymmetrical ketones**. In 
 | 3,3-dimethylbutan-2-one | CH₃ and C(CH₃)₃ | CH₃, OH, CN, C(CH₃)₃ | Yes |
 | 2,4-dimethylpentan-3-one | CH(CH₃)₂ and CH(CH₃)₂ | two identical CH(CH₃)₂ groups | No: symmetrical ketone, no chiral centre |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
+  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
+</figure>
+
+
 ## The hazards of using KCN
 
 - Potassium cyanide is **highly toxic** by ingestion, skin contact or inhaled dust.
 - Acid converts cyanide ions into **hydrogen cyanide**, a highly toxic gas that is very volatile.
 
 So use a fume cupboard, gloves and eye protection, and add the dilute acid slowly. KCN is used rather than HCN because, as an ionic solid, it supplies plenty of CN⁻; HCN is a weak acid that ionises only slightly, and a dangerous gas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--07-kcn-hazard.webp" width="900" height="890" alt="A beaker of KCN solution has dilute acid added by a dropper, producing HCN gas marked with a hazard diamond. The precautions shown are gloves and eye protection, a fume cupboard and adding acid slowly." loading="lazy">
+  <figcaption>Acid turns CN- into toxic, volatile HCN gas, so use protection, a fume cupboard and add acid slowly.</figcaption>
+</figure>
+
 
 ## Common errors
 

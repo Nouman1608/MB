@@ -85,6 +85,12 @@ radiation (light and sound). The **principle of conservation of energy**
 states that energy is never created or destroyed, only transferred between
 stores.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--01-energy-transfers.webp" width="900" height="1070" alt="Four panels: a pushed crate (force, chemical to kinetic), a battery driving a motor (current), a flame heating water (heating), and Sun light warming the ground (waves)." loading="lazy">
+  <figcaption>Energy moves between stores by forces, electric currents, heating and waves.</figcaption>
+</figure>
+
+
 ## Efficiency
 
 No energy transfer process is perfectly efficient — some energy is always
@@ -106,6 +112,12 @@ produces 350 J of useful kinetic energy. Its efficiency:
 efficiency = (350/500) × 100% = 70%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--05-efficiency-sankey.webp" width="900" height="920" alt="Two Sankey diagrams with band widths in proportion. A motor takes in 500 J, 350 J is useful and 150 J wasted, so efficiency is 70%. A generator takes in 2000 W, 1600 W is useful and 400 W wasted, so efficiency is 80%." loading="lazy">
+  <figcaption>Efficiency is useful output divided by total input, times 100%.</figcaption>
+</figure>
+
+
 ## Thermal energy transfer
 
 Thermal energy transfers by three mechanisms: **conduction** (energy
@@ -118,6 +130,27 @@ darker, matt surfaces both emit and absorb radiation more effectively than
 light, shiny surfaces. Reducing unwanted energy transfer — for example
 through insulation — is a common practical application of these
 principles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--05-convection-current.webp" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
+  <figcaption>Heated water becomes less dense and rises; cooler, denser water sinks to replace it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--06-conduction-rods.webp" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
+  <figcaption>The pin on the best conductor falls first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-conservation-and-dissipation-of-energy--07-wall-conduction-rate.webp" width="900" height="1085" alt="Three walls, hot inside and cold outside, with arrows showing energy transferred. A thin high-conductivity wall transfers at rate 8, a wall twice as thick at rate 4, and a wall twice as thick with a quarter of the conductivity at rate 1." loading="lazy">
+  <figcaption>Energy transfer through a wall falls with greater thickness and with lower thermal conductivity.</figcaption>
+</figure>
+
 
 ## Work and power
 
@@ -160,6 +193,27 @@ W = mgh = 200 × 9.8 × 15 = 29,400 J
 P = W/t = 29,400/10 = 2,940 W
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-energy-resources-and-energy-transfers--01-crane-work-power.webp" width="900" height="982" alt="A crane lifts a 200 kg load 15 m in 10 s. Weight 200 x 9.8 = 1,960 N, work 1,960 x 15 = 29,400 J (the GPE gained, mgh), power 29,400 / 10 = 2,940 W." loading="lazy">
+  <figcaption>Lifting 200 kg through 15 m in 10 s needs 29,400 J of work and 2,940 W of power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--02-conservation-falling-ball.webp" width="900" height="930" alt="A 2 kg ball falls from 10 m. Stacked bars at five heights always total 196 J: gravitational potential energy falls from 196 J to 0 while kinetic energy rises from 0 to 196 J." loading="lazy">
+  <figcaption>Energy is transferred between stores but the total stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--05-work-done.webp" width="900" height="690" alt="A 40 N force arrow pushes a crate 6 m, shown by a dimension line. Work done is 40 x 6 = 240 J, the energy transferred." loading="lazy">
+  <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--06-power-graph.webp" width="900" height="810" alt="Energy against time graph. A 400 W motor reaches 6000 J in 15 s. A 200 W motor needs 30 s for the same energy. A steeper line means more power." loading="lazy">
+  <figcaption>Power is energy transferred per second.</figcaption>
+</figure>
+
+
 ## Energy resources and electricity generation (Physics only)
 
 Electricity can be generated from a range of resources, each with
@@ -171,6 +225,32 @@ provide high, reliable output but deplete finite reserves and carry
 distinct environmental and safety considerations — fossil fuels through
 carbon emissions, nuclear power through radioactive waste and accident
 risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-energy-resources-and-energy-transfers--02-generation-pros-cons.webp" width="900" height="1170" alt="Three cards. Renewable (wind, water, geothermal, solar heating, solar cells): not using up a finite reserve, but less reliable and lower output. Fossil fuels: high reliable output, but finite and carbon emissions. Nuclear: high reliable output, but finite fuel, waste and accident risk." loading="lazy">
+  <figcaption>Each way of generating electricity has advantages and drawbacks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp" width="900" height="1084" alt="Two columns. Non-renewable (tank draining, not refilled): coal, oil, natural gas and nuclear fuel. Renewable (tank refilled naturally): biofuels, hydroelectric, solar, geothermal, wind, tides and waves. Nuclear fuel is finite so it is non-renewable." loading="lazy">
+  <figcaption>Non-renewable resources are used faster than they are replaced; renewable ones are replenished naturally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp" width="900" height="920" alt="Fossil fuels, biofuels, nuclear fuel and geothermal heat all supply heat to a boiler. The boiler turns water to steam, which spins a turbine. The turbine turns a generator that makes electricity." loading="lazy">
+  <figcaption>Fossil fuels, biofuels, nuclear fuel and geothermal all heat water to steam to spin a turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp" width="900" height="990" alt="Wind, falling water, tides and waves spin a turbine directly with no boiler, and the turbine turns a generator. Solar cells below convert radiation to electricity directly with no turbine or generator." loading="lazy">
+  <figcaption>Wind, water, tides and waves spin a turbine directly; solar cells skip the turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--04-availability.webp" width="900" height="950" alt="Three graphs of power over 24 hours. Solar is non-zero only from 06:00 to 18:00 and peaks at midday. Tidal power rises and falls repeatedly in a regular pattern. Fossil and nuclear stations can run steadily at any time." loading="lazy">
+  <figcaption>Availability differs: solar only in daylight, tides in a predictable cycle, fossil and nuclear on demand.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

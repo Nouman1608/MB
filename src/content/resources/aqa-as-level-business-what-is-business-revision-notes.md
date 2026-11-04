@@ -61,6 +61,12 @@ The specification requires the **purpose and value of setting business objective
 
 "We want to grow" states an objective in general terms; "increase market share by 5% within two years" states one that is SMART.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+
 ## Business forms — compare, don't just define (3.1.2)
 
 | | Liability | Access to finance | Control |
@@ -72,6 +78,12 @@ The specification requires the **purpose and value of setting business objective
 | Social enterprise | Varies by legal form chosen | Often limited | Mission-led, not just profit-led |
 
 Always compare structures on liability, finance and control when recommending/evaluating a form for a scenario — that's how exam questions are framed. Also revisable: **distribution of profits**, **reasons to buy shares**, and **influences on share price and the significance of share price changes**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--02-ownership-liability.webp" width="900" height="1216" alt="Six forms of ownership with liability: sole trader unlimited, partnership usually unlimited, Ltd and plc limited, non-profit and social enterprise varies. Limited liability caps the loss at the amount invested." loading="lazy">
+  <figcaption>Liability is the key difference between forms of ownership.</figcaption>
+</figure>
+
 
 ## Stakeholders (3.1.2)
 

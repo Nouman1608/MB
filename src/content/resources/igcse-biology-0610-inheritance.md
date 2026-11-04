@@ -100,6 +100,22 @@ So each child has a 1 in 2 (50%) chance of being male. Each fertilisation is a s
 - A **diploid** nucleus contains **two sets** of chromosomes. There is a pair of each type of chromosome.
 - A human diploid cell has **23 pairs** (46 chromosomes). A human gamete has 23.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--02-sex-inheritance.webp" width="900" height="990" alt="Punnett square: mother XX gives X eggs, father XY gives X or Y sperm. Four equally likely children: two XX girls and two XY boys, ratio 1:1, so each child has a 50% chance of being a boy. The sperm decides the sex." loading="lazy">
+  <figcaption>Half of sperm carry Y, so each child has a 50% chance of being a boy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
+
 ## 17.2 Mitosis (Extended only)
 
 - Mitosis is **nuclear division giving rise to genetically identical cells**. You do not need the stages.
@@ -108,6 +124,12 @@ So each child has a 1 in 2 (50%) chance of being male. Each fertilisation is a s
 - Roles of mitosis: **growth**, **repair** of damaged tissues, **replacement** of cells and **asexual reproduction**.
 
 **Stem cells** are **unspecialised** cells that divide by mitosis to produce daughter cells that can become **specialised** for specific functions. Link this to 17.1: the daughter cells keep all the genes, but each type of specialised cell expresses a different set of them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
 
 ## 17.3 Meiosis (Extended only)
 
@@ -254,6 +276,27 @@ Ratio 1 : 1 : 1 : 1; chance a child is colour-blind = 2/4 = 1/2
 ```
 
 Always write sex-linked genotypes with the X and Y shown. Writing "Bb" loses the mark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">
+  <figcaption>A heterozygous by homozygous recessive cross gives a 1 : 1 ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--07-pedigree-recessive.webp" width="900" height="1140" alt="Pedigree: two unaffected parents have an affected daughter (shaded circle), so the condition is recessive and both parents are Aa. A Aa x Aa Punnett square gives a 1 in 4 chance of aa for each further child." loading="lazy">
+  <figcaption>Unaffected parents with an affected child show the allele is recessive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--08-sex-linked-colour-blindness.webp" width="900" height="1114" alt="Extended. A carrier woman (XBXb) and a colour-blind man (XbY) have children in the ratio 1:1:1:1: carrier girl, colour-blind girl, normal-vision boy, colour-blind boy. The chance a child is colour-blind is 2 in 4. The Y chromosome carries no allele of this gene." loading="lazy">
+  <figcaption>Colour blindness is carried on the X chromosome, so a single Xb makes a male colour-blind.</figcaption>
+</figure>
+
 
 ## Common errors
 

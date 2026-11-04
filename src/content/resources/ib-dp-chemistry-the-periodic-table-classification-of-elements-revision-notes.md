@@ -79,6 +79,17 @@ Two explanations do nearly all the work:
 - Anion larger than its atom: more electron repulsion, same nuclear charge.
 - Isoelectronic ions: more protons → smaller. Example: N³⁻ > O²⁻ > F⁻ > Na⁺ > Mg²⁺ (all 10 electrons).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--01-blocks.webp" width="900" height="744" alt="A periodic table of 18 groups and 7 periods coloured by block: s (groups 1, 2 and helium), d (3 to 12), p (13 to 18) and f below. Six metalloids (B, Si, Ge, As, Sb, Te) are outlined; non-metals sit upper right plus hydrogen." loading="lazy">
+  <figcaption>Blocks are named for the sublevel the last electron enters; metals fill the left and centre, with a staircase of metalloids before the non-metals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--02-radius-trends.webp" width="900" height="1010" alt="Circles drawn to scale show radii falling from sodium to chlorine, all with 3 shells but rising nuclear charge, and rising from lithium to sodium to potassium as shells increase from 2 to 4." loading="lazy">
+  <figcaption>Across a period the same shells feel more protons; down a group extra shells and shielding win.</figcaption>
+</figure>
+
+
 ## 3.1.4 Group 1 and group 17
 
 **Group 1 + water**: 2M(s) + 2H₂O(l) → 2MOH(aq) + H₂(g). Alkaline solution; fizzing. Reactivity **increases** down the group as the outer electron is further away, more shielded and lost more easily.
@@ -95,6 +106,17 @@ Reactivity **decreases** down the group: a bigger atom attracts an incoming elec
 
 Small reminder: Br₂(aq) + 2I⁻(aq) → 2Br⁻(aq) + I₂(aq).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--03-group1-water.webp" width="900" height="1095" alt="Beakers show lithium fizzing, sodium darting about and potassium with a lilac flame. Below, atom diagrams show the single outer electron getting further out and more shielded: 2,1 then 2,8,1 then 2,8,8,1." loading="lazy">
+  <figcaption>The outer electron is further out and more shielded down group 1, so it is lost more easily.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--04-halogen-displacement.webp" width="900" height="970" alt="A 3 by 3 grid of halogen against halide ion. Ticks with the colour of the halogen made appear for Cl2 with Br- and I-, and Br2 with I-; all other cells are crosses. The equation Cl2 + 2I- gives 2Cl- + I2 is shown." loading="lazy">
+  <figcaption>A halogen displaces a halide of a less reactive halogen below it; reactivity falls down group 17.</figcaption>
+</figure>
+
+
 ## 3.1.5 Oxides
 
 Continuum across a period: basic → amphoteric (Al₂O₃) → acidic.
@@ -110,6 +132,12 @@ Continuum across a period: basic → amphoteric (Al₂O₃) → acidic.
 
 - **Acid rain**: SO₂ and nitrogen oxides from burning fuels dissolve in rain to form acids.
 - **Ocean acidification**: extra CO₂ dissolves → H₂CO₃ ⇌ H⁺ + HCO₃⁻ → pH falls; H⁺ removes CO₃²⁻ as HCO₃⁻, so less carbonate is available for shells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--05-oxides.webp" width="900" height="810" alt="A gradient bar from basic through amphoteric to acidic with six test tubes: Na2O and CaO alkaline, Al2O3 amphoteric, and CO2, SO2 and SO3 giving increasingly acidic solutions." loading="lazy">
+  <figcaption>Oxides go from basic (metals) through amphoteric to acidic (non-metals).</figcaption>
+</figure>
+
 
 ## 3.1.6 Oxidation states
 
@@ -131,11 +159,28 @@ N in HNO₂:    (+1) + x + 2(−2) = 0    -> x = +3
 - An element's oxidation state is zero because bonding between identical atoms involves no electron transfer.
 - Oxyanion names: NO₃⁻ nitrate(V)/nitrate, NO₂⁻ nitrate(III)/nitrite, SO₄²⁻ sulfate(VI)/sulfate, SO₃²⁻ sulfate(IV)/sulfite.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--06-oxidation-states.webp" width="900" height="1140" alt="Two worked examples. In FeO4 2-, four oxygens at -2 force iron to +6. In LiAlH4, hydride hydrogens at -1 and lithium at +1 make aluminium +3. Chips below each add to the overall charge." loading="lazy">
+  <figcaption>Oxidation states add to the charge of the species: Fe is +6 in FeO4 2- and Al is +3 in LiAlH4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--08-fe-sr-ie.webp" width="900" height="860" alt="Bar chart of Fe (762, 1561, 2957, 5290) and Sr (549, 1064, 4138) successive IEs. Fe rises steadily so Fe2+ and Fe3+ form; Sr jumps by a factor of 3.9 at the third, which comes from an inner shell of the Sr atom, so only Sr2+ forms." loading="lazy">
+  <figcaption>HL only: a steady rise allows variable oxidation states; a huge jump marks an inner shell.</figcaption>
+</figure>
+
+
 ## HL only: 3.1.7 Dips in first ionization energy
 
 - Group 2 → 13 (Be→B, Mg→Al): the electron removed is in a p sublevel, higher in energy than the s sublevel, so it is easier to remove.
 - Group 15 → 16 (N→O, P→S): the electron removed is paired; repulsion raises its energy, so it is easier to remove.
 - Base the answer on the **energy of the electron removed**. Do not rely on "half-filled stability".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--07-ie-dips.webp" width="900" height="1030" alt="A graph of first IE for Na to Ar rises with dips at Al and S. Orbital boxes show Al losing a higher-energy 3p electron than Mg, and S having a paired 3p electron that repels and comes off more easily than P." loading="lazy">
+  <figcaption>HL only: the dips are evidence for sublevels and electron pairing.</figcaption>
+</figure>
+
 
 ## HL only: 3.1.8 Transition element properties
 
@@ -166,6 +211,12 @@ Variable oxidation states · high melting points · magnetic properties · catal
 4. Use c = λf to convert. Put λ in metres.
 
 The guide says the data booklet supplies both the colour wheel and c = λf. Approximate pairs: red ↔ green, orange ↔ blue, yellow ↔ violet.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--09-complex-colour.webp" width="900" height="830" alt="A colour wheel with complementary colours opposite each other; green (505 nm) is absorbed and red is seen. A d electron is promoted from a lower to an upper d set by a green photon, with f = 5.94 x 10^14 per second. d10 and d0 ions are colourless." loading="lazy">
+  <figcaption>HL only: the colour seen is complementary to the colour absorbed when a d electron is promoted.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

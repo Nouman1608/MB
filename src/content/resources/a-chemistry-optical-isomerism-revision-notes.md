@@ -53,6 +53,32 @@ subtopic 29.4 Isomerism: optical.
 A molecule **can contain more than one chiral centre**, as the last example shows. You need to be able to
 spot them; meso compounds and the term diastereoisomers are **not** required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-optical-isomerism-revision-notes--08-opt-two-chiral-centres.webp" width="900" height="950" alt="2-bromo-3-chlorobutane drawn zigzag with C2 and C3 ringed. Each carries four different groups (H, Br, CH3, CHClCH3 on C2; H, Cl, CH3, CHBrCH3 on C3), so there are two chiral centres." loading="lazy">
+  <figcaption>2-bromo-3-chlorobutane has two chiral centres, C2 and C3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--01-chiral-centre.webp" width="900" height="720" alt="Two ball-and-stick tetrahedral carbons. In 2-hydroxypropanoic acid the central carbon carries four different groups (H, CH3, OH, COOH, four colours), so it is a chiral centre C*. In propan-2-ol the central carbon has two identical CH3 groups, so it is not. Bonds are tetrahedral, 109.5 degrees." loading="lazy">
+  <figcaption>A carbon bonded to four different groups is a chiral centre; two identical groups mean it is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--02-spot-chiral-centre.webp" width="900" height="950" alt="Four skeletal formulae with the tested carbon ringed and its four groups as colour-coded chips. 3-methylhexane C3 (H, CH3, C2H5, C3H7) is chiral; 3-methylpentane C3 has two identical ethyl groups so is not; 2-bromo-2-chlorobutane C2 has no hydrogen but four different groups so is chiral; 2-hydroxypropanoic acid C2 is chiral." loading="lazy">
+  <figcaption>Compare whole groups: two ethyl groups make a carbon achiral, and a chiral carbon need not carry hydrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--03-enantiomer-drawing.webp" width="900" height="780" alt="Two 3D drawings of 2-aminopropanoic acid either side of a dashed mirror line. Enantiomer A has COOH up, H3C lower left, NH2 on a wedge and H on a hashed bond; B is the reflection with left and right swapped and wedge and hash unchanged. A key explains plain, wedge and hashed bonds." loading="lazy">
+  <figcaption>Draw the second enantiomer by reflecting across a mirror line: left and right swap, wedges stay wedges.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--04-non-superimposable.webp" width="900" height="970" alt="Ball-and-stick models of enantiomer A and its mirror image B. B is turned by a computed rotation so COOH and CH3 coincide with A; then NH2 and H are in each other places, marked with dashed rings and crosses, so B cannot be superimposed on A." loading="lazy">
+  <figcaption>Enantiomers are mirror images that cannot be superimposed: after lining up two groups, the other two are swapped.</figcaption>
+</figure>
+
+
 ## Properties of enantiomers (29.4, outcome 1)
 
 Enantiomers have **identical physical and chemical properties**, **apart from**:
@@ -93,6 +119,17 @@ caused by the other, so there is **no net rotation**.
 
 Note that the individual molecules in a racemic mixture are still chiral. The mixture is inactive only
 because the two rotations cancel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-optical-isomerism-revision-notes--10-opt-rotation-composition.webp" width="900" height="870" alt="Line graph of net rotation against percentage of enantiomer A, using an illustrative single-enantiomer rotation of 25 degrees: +25 at 100 : 0, +10 at 70 : 30, 0 at 50 : 50, -10 at 30 : 70, -25 at 0 : 100. Only 50 : 50 cancels." loading="lazy">
+  <figcaption>A 70 : 30 mixture still rotates the plane; only an exactly 50 : 50 mixture gives zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--06-racemate-cancels.webp" width="900" height="720" alt="Three tubes: one enantiomer rotates the plane clockwise by 25 degrees, its mirror image anticlockwise by 25 degrees, and a 1:1 racemate gives zero because the equal and opposite rotations cancel. Every molecule in the racemate is still chiral." loading="lazy">
+  <figcaption>Equal amounts of the two enantiomers give equal and opposite rotations, so a racemate shows no net rotation.</figcaption>
+</figure>
+
 
 ## Chirality and the synthesis of drug molecules (29.4, outcome 4)
 
@@ -183,3 +220,19 @@ Advantages:
 *These are original notes written for revision. Drug examples are given for illustration of the
 syllabus ideas only. Check the full syllabus wording in the
 [official 9701 syllabus](https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-optical-isomerism-revision-notes--06-opt-racemate-formation.webp" width="900" height="1030" alt="Propanal has a planar carbonyl carbon at 120 degrees. CN- attacks from either face with equal probability, giving the two mirror-image forms of 2-hydroxybutanenitrile in a 1 : 1 racemic mixture." loading="lazy">
+  <figcaption>CN- adds equally from both faces of the flat C=O, so a racemic mixture forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-optical-isomerism-revision-notes--07-opt-receptor-fit.webp" width="900" height="740" alt="A receptor site with three binding places. Enantiomer A fits all three; its mirror image B fits only one, so only the matching enantiomer binds. A racemic drug has half its molecules able to fit." loading="lazy">
+  <figcaption>Only one enantiomer fits a chiral receptor, so the other may be less active.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-optical-isomerism-revision-notes--09-opt-synthesis-routes.webp" width="900" height="940" alt="Two rows of 20 product molecules. An ordinary synthesis gives 10 wanted and 10 unwanted enantiomers, which are hard to separate and half are wasted. A chiral catalyst gives mainly one isomer directly (idealised as all 20)." loading="lazy">
+  <figcaption>A chiral catalyst avoids separation and waste; an ordinary route gives a 50 : 50 racemate.</figcaption>
+</figure>
+

@@ -83,6 +83,22 @@ venule end:    1.6 - 3.3 = -1.7 kPa  (net movement into the capillary)
 
 Fluid is forced out at the start and drawn back in at the end. Reabsorption is not complete, so lymph vessels return the excess.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--02-tissue-fluid.webp" width="900" height="1020" alt="A capillary from arterial to venous end beside a body cell and lymph capillary. Bars show blood pressure (4.0 then 1.6 kPa) against the 3.3 kPa pull of plasma proteins, giving a net 0.7 kPa out then 1.7 kPa in. Excess fluid drains to lymph." loading="lazy">
+  <figcaption>Pressure balance explains why fluid leaves at the arterial end and returns at the venous end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--03-co2-transport.webp" width="900" height="800" alt="Numbered flow inside a red cell: CO2 enters, carbonic anhydrase makes H2CO3, which splits to H+ and HCO3-. H+ forms haemoglobinic acid and releases O2; HCO3- leaves while Cl- enters; some CO2 binds Hb directly." loading="lazy">
+  <figcaption>How a red cell carries CO2 and why chloride moves in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--07-heart-conduction.webp" width="900" height="820" alt="Heart section showing the SAN starting a wave across the atria, a non-conducting gap, the AVN delay, the bundle of His down the septum and Purkyne tissue carrying the wave up the ventricle walls from the apex." loading="lazy">
+  <figcaption>The order in which excitation travels explains why atria contract before ventricles.</figcaption>
+</figure>
+
+
 ## 3.2.6.2 The heart and the cardiac cycle
 
 ### Gross structure
@@ -97,6 +113,17 @@ The mammalian heart is a double pump. The right side serves the lungs and the le
 - **Atrioventricular valves** lie between atrium and ventricle on each side. Tendons hold the flaps and stop them turning inside out.
 - **Semilunar valves** lie at the start of the aorta and the pulmonary artery. They prevent backflow into the ventricles.
 - **Coronary arteries** branch from the aorta near the heart and supply the cardiac muscle itself with oxygenated blood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--01-vessels.webp" width="900" height="1150" alt="Three cross-sections side by side: a thick-walled artery with a narrow lumen (wall to lumen 3:5 as in the lesson example), a thin-walled vein with a wide lumen and a long section showing a valve, and a capillary whose one-cell wall holds red cells in single file. Each layer is labelled." loading="lazy">
+  <figcaption>Artery, vein and capillary structure matched to function.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--05-heart-structure.webp" width="900" height="1110" alt="Frontal section of the heart with the four chambers, septum, tricuspid and bicuspid valves, tendons and papillary muscles, semilunar valves, coronary artery and the four main vessels with flow arrows. The left ventricle wall is thicker than the right. Red marks oxygenated and blue deoxygenated blood." loading="lazy">
+  <figcaption>Where each vessel and valve sits and which way blood flows.</figcaption>
+</figure>
+
 
 ### Pressure, volume and valves
 
@@ -155,6 +182,12 @@ Compare pressures to decide valve states. This is data for the left side of one 
 
 The AV valve closes between 0.05 s and 0.12 s, where the pressure order reverses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--06-cardiac-cycle.webp" width="900" height="1180" alt="Pressure graph for left atrium, ventricle and aorta at five times in a 0.75 s cycle with the open or closed state of the atrioventricular and semilunar valves worked out from the pressures. The cycle gives 80 beats per minute." loading="lazy">
+  <figcaption>Valves open and close only because of pressure differences.</figcaption>
+</figure>
+
+
 ## 3.2.7 Heart disease and risk factors
 
 ### 3.2.7.1 The biological basis of heart disease
@@ -177,6 +210,12 @@ area reduction: (12.57 - 6.16) / 12.57 x 100 = 51 %
 
 A 30 % narrowing in diameter removes about half of the cross-sectional area.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--09-atheroma.webp" width="900" height="1180" alt="Two artery cross-sections to the same scale: a 4.0 mm lumen (12.57 mm2) and a lumen narrowed by atheroma to 2.8 mm (6.16 mm2), a 30% fall in diameter but 51% in area. A chain shows clot formation, a blocked coronary artery and heart muscle death." loading="lazy">
+  <figcaption>A 30% narrowing in diameter halves the cross-sectional area.</figcaption>
+</figure>
+
+
 ### 3.2.7.2 Risk factors for coronary heart disease
 
 A risk factor raises the chance of developing a disease; it does not guarantee it.
@@ -198,6 +237,12 @@ Top group against bottom: 11.9 / 4.2 = 2.8 times the rate (183 % higher). The ra
 
 When you evaluate data, comment on sample size, how groups were chosen, control of other variables and consistency of the trend.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--04-oxygen-dissociation.webp" width="900" height="1010" alt="Graph of haemoglobin saturation against pO2: the S-shaped adult curve, the same curve shifted right by high CO2 (Bohr shift) and a fetal curve to the left. The lesson numbers show 97% in the lungs and 45% or 30% at 3 kPa, releasing 10.4 or 13.4 cm3 per 100 cm3." loading="lazy">
+  <figcaption>Higher CO2 shifts the curve right so more oxygen is unloaded.</figcaption>
+</figure>
+
+
 ## Required practical 5: heart rate or pulse rate
 
 You investigate the effect of one variable, such as exercise, on pulse rate.
@@ -209,6 +254,12 @@ You investigate the effect of one variable, such as exercise, on pulse rate.
 5. Repeat and calculate a mean.
 
 Ethics: volunteers give informed consent, may stop at any time, and should not take part if unwell or if they have a heart condition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--08-heart-rate-control.webp" width="900" height="1170" alt="Feedback loop: chemoreceptors and pressure receptors signal the cardiac control centre in the medulla, which uses the sympathetic nerve to speed up or the vagus to slow down the SAN. Adrenaline (OCR) also acts on the SAN. Bars show rest, exercise and recovery rates with blood pH." loading="lazy">
+  <figcaption>Heart rate is adjusted by negative feedback using opposite nerves.</figcaption>
+</figure>
+
 
 ## Common errors
 

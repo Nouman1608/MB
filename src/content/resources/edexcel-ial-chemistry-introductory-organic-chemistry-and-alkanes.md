@@ -82,6 +82,12 @@ and have similar chemical properties.
 The **functional group** is the part of the molecule responsible for its characteristic reactions: C=C
 in alkenes, –OH in alcohols.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
+  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
+</figure>
+
+
 ## Naming and drawing compounds (4.5)
 
 The stem shows how many carbons the longest chain has: meth- C₁, eth- C₂, prop- C₃, but- C₄,
@@ -132,6 +138,12 @@ A **free radical** is a species with an unpaired electron, shown by a single dot
 is a species that accepts a pair of electrons to form a new covalent bond, such as H⁺ attacking an
 alkene in Topic 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## Alkanes and cycloalkanes (4.9)
 
 Alkanes and cycloalkanes are **hydrocarbons** (compounds of carbon and hydrogen only) that are
@@ -144,6 +156,17 @@ Alkanes and cycloalkanes are **hydrocarbons** (compounds of carbon and hydrogen 
 
 An alkane has Mᵣ = 114. Each CH₂ unit adds 14 and the two extra hydrogens add 2, so 14n + 2 = 114,
 giving n = 8: **C₈H₁₈**. A cycloalkane with Mᵣ = 84 gives 14n = 84, so n = 6: **C₆H₁₂**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--06-combustion.webp" width="900" height="930" alt="Pentane with plenty of oxygen gives CO2 and water; with limited oxygen gives CO (or soot) and water. CO binds haemoglobin. AQA also: a catalytic converter turns CO and NO into CO2 and N2." loading="lazy">
+  <figcaption>Limited oxygen makes toxic carbon monoxide and soot (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Structural isomerism (4.10–4.11)
 
@@ -162,6 +185,12 @@ ring size as well as branch positions.
 
 That is five isomers. An ethyl on carbon 2 of butane is not new: the longest chain becomes five carbons
 (3-methylpentane). For cycloalkanes, C₄H₈ gives cyclobutane and methylcyclopropane.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
 
 ## Fuels from crude oil (4.12)
 
@@ -189,6 +218,12 @@ Reforming heptane into methylcyclohexane: C₇H₁₆ → C₇H₁₄ + H₂.
 Liquid paraffin on mineral wool is heated with aluminium oxide as catalyst, and the gas is collected
 over water. It decolourises bromine water, showing an alkene. Lift the delivery tube out of the water
 before you stop heating, so cold water is not sucked back into the hot tube.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--04-fractional-distillation.webp" width="900" height="1090" alt="Heated crude oil vapour rises in a column that is cooler at the top; short chains with low boiling points leave near the top, long chains condense lower, residue leaves at the bottom. Only boiling and condensing occur, so no C-C bonds break." loading="lazy">
+  <figcaption>Fractions separate by boiling point, which rises with chain length (AQA, Edexcel).</figcaption>
+</figure>
+
 
 ## Combustion and pollutants (4.13–4.14, 4.17)
 
@@ -267,6 +302,12 @@ C₂H₅• + C₂H₅• → C₄H₁₀
 **Limited use in synthesis.** Bromoethane can itself be attacked by Br•, giving C₂H₄Br₂ and then more
 highly substituted products, and termination adds butane. The mixture must be separated, so the yield
 of any one product is low.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Common errors
 

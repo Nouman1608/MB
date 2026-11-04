@@ -1,0 +1,280 @@
+---
+title: "A Level Accounting: Preparation of financial statements (AS) (Cambridge 9706) -- Revision Notes"
+seoTitle: "9706 Financial Statements (AS) Revision Notes"
+resourceType: "revision-notes"
+subject: "accounting"
+level: ["a-levels"]
+topic: "Financial accounting"
+boards: ["cambridge"]
+qualifications: ["a-level"]
+syllabusCodes: ["9706"]
+syllabusSeries: "2026-2028"
+stage: "AS"
+order: 620
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "financial-accounting"
+    subtopic: "preparation-of-financial-statements"
+description: "Condensed revision notes on adjustments, sole trader, partnership and limited company accounts for Cambridge AS & A Level Accounting 9706 section 1.5."
+author: "marlbridge-academic-team"
+publishedDate: 2026-10-25
+featured: false
+---
+
+These notes condense section **1.5 Preparation of financial statements** (AS Level, Topic 1) of the Cambridge International AS & A Level Accounting 9706 syllabus for exams in 2026, 2027 and 2028. For full explanations and worked statements, read the [study guide](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-as/); to test yourself, use the [practice questions](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-as-practice/) and the [free diagnostics](/diagnostics/). Related notes: [1.3 non-current assets](/resources/accounting-non-current-assets-revision-notes/), [1.4 reconciliation and verification](/resources/accounting-reconciliation-verification-revision-notes/), [business entities](/resources/accounting-business-entities-revision-notes/). Course hub: [Cambridge A Level Accounting](/boards/cambridge/a-level/accounting/). Printable [checklist](/checklists/cambridge/a-level/accounting/). The syllabus points to its Teacher Guidance document for the expected formats.
+
+## 1.5.1 Adjustments: entries and formulas
+
+| Item | Debit | Credit |
+| --- | --- | --- |
+| Expense owing | Expense | Other payables |
+| Expense prepaid | Prepayments | Expense |
+| Income earned, not received | Other receivables | Income |
+| Income received in advance | Income | Other payables |
+| Irrecoverable debt | Irrecoverable debts | Trade receivables |
+| Debt recovered | Trade receivables, then bank | Irrecoverable debts recovered, then trade receivables |
+| Allowance increased | Statement of profit or loss | Allowance for irrecoverable debts |
+| Depreciation | Depreciation expense | Accumulated depreciation |
+
+- **Expense for the year** = cash paid + closing accrual − opening accrual (or − closing prepayment + opening prepayment).
+- **Allowance**: remaining receivables × percentage, minus the old allowance. A positive result is an expense; a negative result is income.
+- **Inventory**: use whichever is lower of cost and net realisable value (NRV). Cost 5,200 with NRV 4,600 means a 600 write-down.
+- **Counting after the year end**: closing inventory = count + cost of goods sold since the year end − purchases received since. A count of 18,400 plus sales of 3,000 at a 25% gross margin (cost 2,250) minus purchases of 1,100 gives 19,550.
+- **Insurance** of 3,600 paid for 12 months from 1 October, with a 31 December year end: expense 900, prepayment 2,700.
+
+**Debt recovered, in full.** A debt of 300 written off last year is recovered. Reinstate it (debit trade receivables 300, credit irrecoverable debts recovered 300), then record the cash (debit bank 300, credit trade receivables 300). The 300 is income in the statement of profit or loss.
+
+**Correction of errors.** Steps: (1) identify the wrong and the correct entry; (2) journal the correction, using suspense if the trial balance did not balance; (3) restate profit; (4) restate the affected assets or liabilities. Capital versus revenue mistakes change profit and the asset together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--06-capital-vs-revenue-van.webp" width="900" height="1010" alt="A delivery van splits spending into capital expenditure (van 18,000, delivery 250, signwriting 600, total 18,850, debited to vehicles and depreciated) and revenue expenditure (first year insurance 900, first week fuel 80, total 980, charged to the income statement)." loading="lazy">
+  <figcaption>Costs needed to get an asset ready for use are capital; running costs are revenue.</figcaption>
+</figure>
+
+
+## 1.5.2 Sole traders
+
+| Statement | Order of content |
+| --- | --- |
+| Statement of profit or loss | Sales net of returns; less cost of sales (opening inventory + net purchases − closing inventory) = gross profit; + other income; − expenses = profit for the year |
+| Statement of financial position | Non-current assets shown at cost less accumulated depreciation (net book value); current assets; current liabilities; net assets = opening capital + profit − drawings |
+
+A service business has no inventory or cost of sales: fees less expenses. A trading business and a service business both include the adjustments above.
+
+**Incomplete records, in steps**
+1. Opening capital = opening assets − opening liabilities.
+2. Closing capital the same way.
+3. Profit = closing capital − opening capital + drawings − capital introduced.
+4. Credit sales = receipts from customers + closing receivables − opening receivables, from a total trade receivables account.
+5. Purchases = payments + closing payables − opening payables, from a total trade payables account.
+6. If mark-up or margin is given, use it to link sales and cost of sales.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--13-calderbank-sofp.webp" width="900" height="900" alt="Net assets of 54,030 (non-current assets 27,600 plus net current assets 26,430) equal capital of 54,030 (56,000 less drawings 14,000 gives 42,000, plus profit 12,030)." loading="lazy">
+  <figcaption>Net assets equal capital after drawings and profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--06-trial-balance-to-statements.webp" width="900" height="1126" alt="The trial balance totals 274,470 pounds each side and is adjusted by seven notes. Gross profit of 84,200 pounds plus commission of 2,100 pounds less expenses of 56,175 pounds gives profit of 30,125 pounds. Opening capital 39,670 plus profit less drawings 19,200 gives closing capital of 50,595 pounds, equal to net assets." loading="lazy">
+  <figcaption>Profit flows into capital, and capital equals net assets, which proves the statements balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--07-profit-from-capital.webp" width="900" height="900" alt="Opening capital of 13,480 pounds plus the missing profit of 10,420 pounds, plus 5,000 pounds introduced, less 19,200 pounds drawings, gives closing capital of 9,700 pounds. Capital fell by 3,780 pounds although there was a profit." loading="lazy">
+  <figcaption>Profit = closing capital - opening capital + drawings - capital introduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--08-total-accounts.webp" width="900" height="896" alt="Two T-accounts show credit sales of 42,800 pounds and cash sales of 45,400 pounds as balancing figures. Each account balances at 46,000 and 45,550 pounds, and revenue is 88,200 pounds." loading="lazy">
+  <figcaption>The missing figure in a total account is the one that makes it balance.</figcaption>
+</figure>
+
+
+## 1.5.3 Partnerships
+
+| Account | Records | Changes when |
+| --- | --- | --- |
+| Capital account | Long-term investment | Partners agree to add or withdraw capital |
+| Current account | Profit share, salary, interest; drawings | Every year |
+
+**Appropriation account**, in order: begin with profit for the year, add interest on drawings, take off salaries and interest on capital, then divide what is left in the agreed ratio. Interest on a partner's loan is charged as an expense before profit for the year, not appropriated.
+
+| Item | Agreement may say | Partnership Act 1890 (no agreement) |
+| --- | --- | --- |
+| Profit or loss | Any ratio | Shared equally |
+| Salaries | Agreed | None |
+| Interest on capital | Agreed rate | None |
+| Interest on drawings | Agreed rate | None |
+| Interest on partner's loan | Agreed rate | 5% a year |
+
+**Partnership statement of financial position:** each partner's fixed capital and current account are shown in the financing section, with any partner's loan as a non-current liability. Partnership accounts can also be prepared from incomplete records, using the sole trader steps above, then appropriating the profit.
+
+**Contents of an agreement:** capital each partner contributes, profit-sharing ratio, salaries, interest on capital, interest on drawings, interest on loans, and arrangements for new or leaving partners.
+
+**Advantages of a written agreement:** fewer disputes, clear rewards, and flexibility away from equal sharing. **Disadvantages:** it takes time and cost to draft, it can only be changed by agreement, and fixed terms may stop matching what each partner contributes.
+
+**Reminder.** X (capital 50,000) and Y (30,000) earn 6% interest on capital. Y has a salary of 9,000. Profit is 40,000 shared equally. Interest is 3,000 and 1,800; residual 26,200; 13,100 each. X receives 16,100 and Y 23,900.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--01-agreement-vs-default.webp" width="900" height="830" alt="Four bars compare how a 48,000 pound profit is shared between Ryder and Sloane. With no agreement each receives 24,000 pounds. With an agreed 15,000 pound salary for Sloane and 8 percent interest on capital, Ryder receives 18,100 pounds and Sloane 29,900 pounds." loading="lazy">
+  <figcaption>Without an agreement profit is shared equally; an agreement lets reward match capital and effort.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--02-loan-interest-vs-appropriation.webp" width="900" height="930" alt="Profit before loan interest of 84,900 pounds has 900 pounds of partner loan interest deducted as an expense, leaving 84,000 pounds. That profit passes to the appropriation account, whose items (interest on capital, salary, residual shares) are shares of profit, with interest on drawings added." loading="lazy">
+  <figcaption>Loan interest is an expense before profit; salaries and interest on capital are shares of profit after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
+  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
+  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+</figure>
+
+
+## 1.5.4 Limited companies
+
+| Term | Notes |
+| --- | --- |
+| Ordinary shares | Vote; variable dividend; last to be paid. Preference shares are not set for questions |
+| Debentures | Fixed interest, a liability; interest is a finance cost |
+| Dividends | Appropriation of profit, shown in the statement of changes in equity |
+| Capital reserves | Share premium, revaluation reserve |
+| Revenue reserves | Retained earnings, general reserve |
+| Share issue entries | Par: debit bank, credit share capital. Premium: credit share capital with nominal value and share premium with the excess. Rights issue: same entries, at the rights price |
+| Bonus issue | Debit a reserve, credit share capital; no cash. The revaluation reserve is not used |
+
+**Rights issue worked reminder.** A 2 for 5 rights issue on 90,000 shares of 1 at 1.80 creates 36,000 shares: bank 64,800, share capital 36,000, share premium 28,800.
+
+**Company statements.** The statement of profit or loss ends at profit for the year, after deducting debenture interest. The statement of changes in equity has a column for each component of equity: share capital, share premium, reserves and retained earnings, with rows for the issues, profit, dividends and transfers. The statement of financial position shows equity, non-current liabilities (debentures) and current liabilities. Top to bottom the company profit statement runs: revenue; cost of sales; gross profit; distribution costs; administrative expenses; finance cost; profit for the year.
+
+| Decision | Company | Shareholders |
+| --- | --- | --- |
+| Bonus issue | Advantage: no cash leaves, and a lower price per share can help trading. Disadvantage: no cash raised | Advantage: more shares, easier to sell part. Disadvantage: total value and share of the company do not change |
+| Rights issue | Advantage: raises cash without new owners or interest. Disadvantage: needs shareholder support | Advantage: shares at a discount. Disadvantage: they must pay or be diluted |
+| Issue shares | Advantage: no fixed payment. Disadvantage: control shared and dividends spread | Advantage: votes and a share of growth. Disadvantage: last in the queue |
+| Issue debentures | Advantage: control kept. Disadvantage: interest and repayment are compulsory | Advantage: fixed income and priority. Disadvantage: no vote and no share of growth |
+
+**Sources of finance by purpose:** long-term assets need long-term finance (shares, rights issue, debentures, retained earnings); short-term cash gaps suit an overdraft or trade credit; a lasting rise in activity needs permanent finance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--05-interest-vs-dividends.webp" width="900" height="950" alt="A waterfall for Hartsmere Cycles Ltd takes profit before interest of 102,200, deducts 4,800 debenture interest as an expense to reach profit for the year of 97,400, then shows dividends of 41,000 and a 10,000 transfer to general reserve leaving 46,400 in retained earnings." loading="lazy">
+  <figcaption>Debenture interest is an expense before profit; dividends and reserve transfers share out profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--09-hartsmere-balance.webp" width="900" height="1100" alt="Two equal columns of 522,600: assets of 365,600 and 157,000 against share capital 250,000, share premium 45,000 (capital reserve), general reserve 25,000 and retained earnings 94,400 (revenue reserves), debentures 60,000 and current liabilities 48,200." loading="lazy">
+  <figcaption>Reserves split into capital and revenue reserves inside a balancing statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--10-rights-issue-ledger.webp" width="900" height="958" alt="A 1 for 4 rights issue at 1.50 on 200,000 shares gives 50,000 new shares and 75,000 cash: debit bank 75,000, credit share capital 50,000 and share premium 25,000." loading="lazy">
+  <figcaption>A rights issue at a premium splits cash into share capital and share premium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--11-issues-grid.webp" width="900" height="756" alt="A grid of bonus issue, rights issue, new shares and debentures: raises cash (not bonus), dilutes control (new shares only), interest and repayment due (debentures only)." loading="lazy">
+  <figcaption>A bonus issue raises no cash; only debentures carry interest and repayment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--12-finance-match.webp" width="900" height="900" alt="A long-term need (buy a building) is matched to a share or rights issue, debentures or retained earnings; a short-term need (seasonal inventory) to an overdraft or trade credit. Then check cost, repayment, control and risk." loading="lazy">
+  <figcaption>Match the finance to the need and its time span.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--01-share-premium.webp" width="900" height="970" alt="A bar for one 1.20 pound share splits into 0.50 nominal and 0.70 premium. Multiplied by 200,000 shares, 240,000 pounds arrives in the bank: 100,000 to share capital and 140,000 to share premium, both equity. The premium is not income and never reaches the income statement." loading="lazy">
+  <figcaption>The premium above nominal value goes to share premium, not to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
+  <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--02-three-profit-lines.webp" width="900" height="970" alt="A waterfall for Brackwood Joinery Ltd takes revenue 612,000 down through cost of sales to gross profit 264,700, then operating expenses to profit from operations 63,100, finance costs to profit before tax 59,500 and tax to profit after tax 38,500. Dividends are not an expense and do not appear." loading="lazy">
+  <figcaption>Companies show three profit lines; dividends are not an expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
+  <figcaption>Each movement in the year lands in one component of equity.</figcaption>
+</figure>
+
+
+## Must-know distinctions
+
+- Capital account against current account.
+- Interest on a partner's loan (expense) against interest on capital (appropriation).
+- Capital reserve against revenue reserve.
+- Bonus issue (no cash) against rights issue (cash received).
+- Interest (statement of profit or loss) against dividends (statement of changes in equity).
+- Irrecoverable debts against the allowance.
+
+## Quick self-test
+
+1. Rent paid in the year was 7,200. 600 was owing at the start and 900 at the end. Find the expense.
+2. Trade receivables are 20,000 before writing off 1,000. The allowance is 4% and the old allowance 650. Find the total charge.
+3. Three partners with no agreement; one lent 10,000. Profit before the loan interest is 30,500. Find the interest and each share.
+4. Opening capital 21,500, closing 26,300, drawings 11,000, new capital 2,000. Find profit.
+5. A 1 for 4 bonus issue on 120,000 shares of 1. Give the entry.
+6. Name two revenue reserves.
+7. Where does debenture interest go: the profit statement or the statement of changes in equity?
+8. Which concept justifies accruals and prepayments?
+9. Give two things the Act gives a partner with no agreement.
+10. Why might a company prefer a rights issue to debentures?
+11. May a revaluation reserve fund a bonus issue?
+
+### Answers
+
+1. 7,200 + 900 − 600 = **7,500**.
+2. Remaining receivables 19,000; allowance 760; increase 110; charge 1,000 + 110 = **1,110**.
+3. Interest 5% × 10,000 = **500**; (30,500 − 500) ÷ 3 = **10,000** each.
+4. 26,300 − 21,500 − 2,000 + 11,000 = **13,800**.
+5. 30,000 new shares: debit a revenue reserve (such as retained earnings) 30,000, credit ordinary share capital 30,000.
+6. Retained earnings and general reserve.
+7. The **statement of profit or loss**, as a finance cost.
+8. Matching/accruals.
+9. Equal shares of profit and 5% on loans (also: no salary, no interest on capital).
+10. It raises cash with no compulsory interest or repayment.
+11. No: the syllabus says the revaluation reserve is not used for a bonus issue.
+
+## Where marks are usually lost
+
+- Charging the full allowance instead of the change.
+- Putting a partner's loan interest in the appropriation account.
+- Forgetting interest on drawings is added to profit available.
+- Using the revaluation reserve in a bonus issue.
+- Showing a dividend in the statement of profit or loss.
+- Taking closing inventory at cost when NRV is lower.
+- Leaving prepayments or accruals out of the statement of financial position.
+- Not showing the accumulated depreciation as well as net book value.
+
+## Official syllabus
+
+Cambridge International AS & A Level Accounting 9706, syllabus for exams in 2026, 2027 and 2028, Cambridge Assessment International Education, section 1.5.

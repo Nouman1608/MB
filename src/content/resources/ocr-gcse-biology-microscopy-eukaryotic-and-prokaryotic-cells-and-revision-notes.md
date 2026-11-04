@@ -64,6 +64,22 @@ These notes condense statements B1.1a to B1.1c of OCR GCSE (9-1) Gateway Science
 
 **Standard form:** a number between 1 and 10 times a power of 10. 0.0000032 m = 3.2 × 10⁻⁶ m. 4500 nm = 4.5 × 10³ nm = 4.5 × 10⁻⁶ m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and--06-scale-bar-magnification.webp" width="900" height="885" alt="A cell measures 62 mm on a micrograph and a scale bar is 25 mm long labelled 10 micrometres. Magnification is 25 000 divided by 10 = x2500; actual length is 62 divided by 2500 = 0.0248 mm = 24.8 micrometres." loading="lazy">
+  <figcaption>Find magnification from a scale bar, then the actual size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and--04-standard-form-small-lengths.webp" width="900" height="900" alt="The digits of 0.0000032 with the decimal point moved 6 places right give 3.2 × 10⁻⁶ m; 1.2 µm is 1.2 × 10⁻⁶ m and 60 µm is 6.0 × 10⁻⁵ m." loading="lazy">
+  <figcaption>Move the decimal point to get a number between 1 and 10 and count the places for the power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
+</figure>
+
+
 ### Worked reminders
 
 - Image 24 mm, ×400: actual = 24 ÷ 400 = 0.06 mm = 60 µm.
@@ -72,6 +88,27 @@ These notes condense statements B1.1a to B1.1c of OCR GCSE (9-1) Gateway Science
 - Drawing 50 mm, real length 0.25 mm: magnification = 50 ÷ 0.25 = ×200.
 
 **Estimation:** a rough value from a quick count or round numbers, used to check a calculated answer. If 5 cells fit across a 2.0 mm field, each is about 0.4 mm (400 µm). A calculated answer of 4 mm for one cell must be wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and--04-light-microscope-parts.webp" width="900" height="1080" alt="A labelled light microscope: lamp, stage with slide, three objective lenses (x4, x10, x40), tube, x10 eyepiece and focus wheels. Total magnification = eyepiece x objective: x40, x100 and x400." loading="lazy">
+  <figcaption>Parts of a light microscope and how total magnification is calculated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and--01-slide-preparation-stain-coverslip.webp" width="900" height="1030" alt="Four panels show a thin layer of cells in a drop of liquid, a drop of stain being added (methylene blue for cheek cells, iodine for onion), a cover slip lowered at an angle with a needle, and a finished slide with no air bubbles beside one with a bubble." loading="lazy">
+  <figcaption>Make the slide, stain it, and lower the cover slip at an angle so no air is trapped.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and--02-microscope-focus-and-drawing.webp" width="900" height="1230" alt="Four steps: lowest-power lens with stage low, coarse focus, fine focus, then higher power with fine focus only. A good drawing has a sharp outline, no shading and a title with the total magnification; a poor one is thick and shaded with no title." loading="lazy">
+  <figcaption>Focus in order, then draw with a clear outline and a magnification title.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and--03-estimating-cell-size.webp" width="900" height="970" alt="A 2.0 mm field of view holds about 5 cells in a line, so each is 0.4 mm or 400 micrometres; a bar on the same scale shows that a 4 mm answer would be twice the whole field and so must be wrong." loading="lazy">
+  <figcaption>Estimate 2.0 ÷ 5 = 0.4 mm = 400 µm, and use it to spot an impossible answer.</figcaption>
+</figure>
+
 
 ## B1.1b: Sub-cellular structures
 
@@ -99,6 +136,12 @@ Other structures that appear on diagrams: cytoplasm (where many reactions occur)
 | Ribosomes | Yes | Yes |
 | Size | Larger | Much smaller (around a few µm) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--04-cell-comparison.webp" width="900" height="1064" alt="A grid with ticks and crosses for animal, plant and bacterial cells. All three have a membrane, cytoplasm and ribosomes. Animal and plant cells have a nucleus and mitochondria; bacteria do not. Plant cells and bacteria have a cell wall. Only plants have chloroplasts and a vacuole. Only bacteria have circular DNA and plasmids." loading="lazy">
+  <figcaption>Compare the three cell types structure by structure.</figcaption>
+</figure>
+
+
 ### Must-know distinctions
 
 - **Genetic material or chromosome?** Genetic material is the DNA; a chromosome is one long coiled DNA molecule.
@@ -112,6 +155,17 @@ Other structures that appear on diagrams: cytoplasm (where many reactions occur)
 - Many chloroplasts: cell photosynthesises (palisade layer of a leaf).
 - Many ribosomes: cell makes lots of protein.
 - Receptors on the membrane: only cells with the matching receptor respond to a given chemical signal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--01-animal-cell.webp" width="900" height="1050" alt="Schematic animal cell with five numbered structures: cell membrane (outer boundary, controls what enters and leaves), cytoplasm (where reactions happen), nucleus (contains DNA, controls the cell), mitochondria (release energy by respiration) and ribosomes (make proteins). It has no cell wall, chloroplasts or permanent vacuole." loading="lazy">
+  <figcaption>An animal cell has a membrane, cytoplasm, nucleus, mitochondria and ribosomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--03-bacterial-cell.webp" width="900" height="1000" alt="Schematic rod-shaped bacterial cell with six numbered structures: cell wall, cell membrane, cytoplasm, ribosomes, a loop of circular DNA lying free with no nucleus, and small extra rings called plasmids." loading="lazy">
+  <figcaption>A bacterial cell has circular DNA and plasmids and no nucleus.</figcaption>
+</figure>
+
 
 ## B1.1c: Electron microscopy
 
@@ -128,6 +182,12 @@ Other structures that appear on diagrams: cytoplasm (where many reactions occur)
 ### Worked reminder (TEM)
 
 Image 36 mm, ×30 000: actual = 36 ÷ 30 000 = 0.0012 mm = 1.2 µm = 1200 nm = 1.2 × 10⁻⁶ m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and--05-light-microscope-vs-tem-limits.webp" width="900" height="1070" alt="A light microscope shows living cells in colour, cheaply and quickly. A TEM passes electrons through a thin dead slice in a vacuum, gives a grey image, may create artefacts and is large and expensive, but shows detail inside organelles." loading="lazy">
+  <figcaption>The two microscopes complement each other.</figcaption>
+</figure>
+
 
 ### Light microscope and TEM compared
 
@@ -191,6 +251,12 @@ Notice that you can skip the magnification: 30 ÷ 20 × 2 = 3 µm.
 8. Free in the cytoplasm, as a circular chromosome, with plasmids; there is no nucleus.
 9. It has higher resolution, so structures closer together are seen as separate.
 10. 40 ÷ 20 000 = 0.002 mm = 2 µm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and--05-resolution-tem.webp" width="900" height="830" alt="A log size scale from 10 nm to 100 micrometres with a dashed line at 200 nm, the limit of a light microscope. Ribosomes (25 nm) lie left of it. A mitochondrion (1.2 micrometres), bacterium (a few micrometres) and cheek cell (60 micrometres) lie right. Worked TEM example: 36 mm at x30 000 is 1.2 micrometres." loading="lazy">
+  <figcaption>Structures smaller than 200 nm cannot be resolved by a light microscope, so a TEM is needed.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

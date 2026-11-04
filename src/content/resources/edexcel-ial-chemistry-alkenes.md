@@ -51,6 +51,12 @@ Both are **unsaturated**: they contain a C=C, so atoms can be added across it.
 
 Each carbon of the C=C is trigonal planar (about 120°). The π electrons are more exposed than the σ electrons, so the π bond is weaker and attracts electrophiles (electron-pair acceptors).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--01-sigma-pi-bond.webp" width="900" height="1080" alt="Top view of ethene with computed 120 degree angles in one plane; edge-on view with a sigma bond on the axis and pi clouds above and below; bars show C=C 612 = sigma 347 + pi 265 kJ/mol (Edexcel data; OCR 614 and 348)." loading="lazy">
+  <figcaption>The C=C is one σ bond plus a weaker π bond, in a flat trigonal planar arrangement (Edexcel, OCR).</figcaption>
+</figure>
+
+
 ### Worked example 1: how strong is the π bond?
 
 Use these values: mean bond enthalpy of C=C = 612 kJ mol⁻¹; C–C = 347 kJ mol⁻¹. Estimate the π bond enthalpy.
@@ -69,6 +75,12 @@ Geometric isomers exist only when **both** of these are true:
 2. **both** C=C carbons have two unlike atoms or groups attached.
 
 Pent-2-ene, CH₃CH=CHCH₂CH₃, qualifies: one carbon has H and CH₃, the other H and C₂H₅. Pent-1-ene does not, because carbon 1 carries two hydrogen atoms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--02-ez-isomers.webp" width="900" height="1060" alt="Z and E isomers of 2-chlorobut-2-ene drawn with 120 degree geometry, priority 1 and 2 at each carbon by atomic number (Cl 17, C 6, H 1), plus pent-2-ene (has E/Z) and pent-1-ene (does not)." loading="lazy">
+  <figcaption>Rank groups by atomic number; same side is Z, opposite is E (Edexcel, OCR only).</figcaption>
+</figure>
+
 
 ## 5.3 The E–Z naming system
 
@@ -120,6 +132,12 @@ Equations:
 
 [O] is oxygen from the oxidising agent; the purple solution turns colourless and the diol has an –OH on each carbon of the old C=C. With an unsymmetrical alkene, HX and steam give two products; the major one comes from the more stable carbocation (see 5.6), so propene and steam give mainly propan-2-ol.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--03-addition-reactions.webp" width="900" height="1210" alt="Ethene and its six addition products drawn bond by bond: ethane (H2, Ni), 1,2-dibromoethane (Br2), bromoethane (HBr), ethanol (steam, H3PO4), ethyl hydrogensulfate (cold conc. H2SO4) and ethane-1,2-diol (acidified KMnO4). Each card is tagged with the boards that teach it." loading="lazy">
+  <figcaption>Addition across C=C gives a saturated product; the reagent decides which.</figcaption>
+</figure>
+
+
 ## 5.5 Testing for C=C
 
 Shake the sample with **bromine water** (orange-brown). An alkene decolourises it quickly at room temperature. An alkane leaves it orange-brown, because without UV light it does not react. A solution of bromine in an organic solvent works the same way.
@@ -157,10 +175,32 @@ H⁺ can add to either carbon of the C=C:
 
 **Stability order: tertiary > secondary > primary.** Alkyl groups release electron density towards C⁺ (positive inductive effect). The more stable carbocation forms faster, so its product dominates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--07-major-minor-product.webp" width="900" height="1236" alt="H adds to C1 giving a secondary carbocation (two alkyl groups) and 2-bromopropane as major product; H adds to C2 giving a primary carbocation (one alkyl group) and 1-bromopropane as minor. Bars show stability rising primary &lt; secondary &lt; tertiary." loading="lazy">
+  <figcaption>The more stable secondary carbocation forms faster, so 2-bromopropane is the major product.</figcaption>
+</figure>
+
+
 ### Evidence for the mechanism
 
 - Ethene in bromine water containing sodium chloride gives 1-bromo-2-chloroethane and 2-bromoethanol as well as 1,2-dibromoethane. Br adds first, then any nearby nucleophile (Br⁻, Cl⁻ or H₂O) attacks the carbocation. No 1,2-dichloroethane forms, so chloride cannot start the reaction.
 - The major and minor products with propene match the order of carbocation stability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--04-bromine-test.webp" width="900" height="975" alt="Two tubes of orange bromine water shaken with an alkene (turns colourless, Br2 used up, dibromoethane shown) and an alkane (stays orange, no reaction)." loading="lazy">
+  <figcaption>An alkene decolourises bromine water; an alkane leaves it orange.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--05-hbr-mechanism.webp" width="900" height="923" alt="Curly arrow 1 from the C=C bond to the delta-plus H, arrow 2 from the H-Br bond to Br, giving CH3CH2+ and Br-; arrow 3 from a Br- lone pair to C+ gives bromoethane." loading="lazy">
+  <figcaption>Three curly arrows: from the C=C, from the H-Br bond, and from a bromide lone pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--06-br2-mechanism.webp" width="900" height="1287" alt="The pi electrons repel the Br-Br electrons giving an induced dipole; arrows from C=C to the delta-plus Br and from Br-Br to the other Br make BrCH2CH2+ and Br-; a lone pair on Br- then attacks C+ to give 1,2-dibromoethane. OCR also accepts a bromonium ion." loading="lazy">
+  <figcaption>Br2 becomes polar near the C=C, then adds by the same two-step pattern (OCR also accepts a bromonium ion).</figcaption>
+</figure>
+
 
 ## 5.7 Addition polymerisation
 
@@ -177,6 +217,12 @@ Perspex is made from methyl 2-methylpropenoate, CH₂=C(CH₃)COOCH₃.
 1. Repeat unit: –[CH₂–C(CH₃)(COOCH₃)]ₙ–. The ester group hangs off the chain unchanged.
 2. Mr of the monomer, C₅H₈O₂ = 5(12.0) + 8(1.0) + 2(16.0) = 100.0.
 3. A chain with Mr 1.50 × 10⁶ contains 1.50 × 10⁶ ÷ 100.0 = **15 000 repeat units**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--08-addition-polymers.webp" width="900" height="1160" alt="Chloroethene opens its C=C to give the bracketed repeat unit with extension bonds and n; a chain section shows the repeating two-carbon unit; a poly(2-methylpropene) section is reversed to the monomer by putting C=C back." loading="lazy">
+  <figcaption>Open the C=C, keep substituents, add extension bonds and brackets; reverse by finding the repeating pair of carbons.</figcaption>
+</figure>
+
 
 ## 5.8 Polymer disposal
 

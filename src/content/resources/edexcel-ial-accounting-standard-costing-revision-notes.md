@@ -49,6 +49,12 @@ Six points to have ready:
 5. Inventory can be valued at standard cost.
 6. Motivation through clear targets, and time saved through management by exception.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--02-setting-up-system.webp" width="900" height="918" alt="Six steps: choose the type of standard (ideal, attainable or basic), set quantities and prices, set overhead rates and write the cost card, collect actual data from invoices, clock cards and the ledger, calculate variances, then investigate and act. A loop returns to step 1 because standards are reviewed." loading="lazy">
+  <figcaption>Standards are set, actual data is collected, variances are reported and acted on, then standards are reviewed.</figcaption>
+</figure>
+
+
 ## Stages in setting up the system (2.5.2)
 
 1. Choose the type of standard (ideal, attainable or basic).
@@ -83,6 +89,22 @@ Six points to have ready:
 | Total fixed overhead | actual output x standard fixed overhead per unit - actual fixed overhead |
 
 Letters: SP and AP are standard and actual price; SQ and AQ standard and actual quantity; SR and AR the hourly rates; SH and AH the hours. SQ and SH are always for **actual output**. Positive = F, negative = A.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--01-standard-cost-card.webp" width="900" height="936" alt="A stacked bar shows the standard cost of one Thurlby washbasin, 63 dollars: clay 18, labour 24, variable overhead 6 and fixed overhead 15, each quantity times price. Below, 3,800 basins times 63 gives a standard cost of 239,400 dollars to compare with actual cost." loading="lazy">
+  <figcaption>A standard cost is quantity times price for each element, added up per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--04-labour-variances.webp" width="900" height="940" alt="A waterfall with a broken axis from standard labour cost 91,200 dollars, minus efficiency variance 2,880 favourable to reach 88,320 (actual hours at standard rate), plus rate variance 1,656 adverse to reach actual cost 89,976. Total 1,224 favourable." loading="lazy">
+  <figcaption>Efficiency and rate variances bridge standard labour cost to actual labour cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--06-fixed-overhead-split.webp" width="900" height="766" alt="Spending was 1,800 favourable (58,200 against a 60,000 budget) and volume was 3,000 adverse (200 basins short at 15 each). Together they give the total fixed overhead variance of 1,200 adverse. The specification only asks for the total." loading="lazy">
+  <figcaption>Spending and volume together explain the total fixed overhead variance.</figcaption>
+</figure>
+
 
 ## Method in steps: a full variance question
 
@@ -133,6 +155,12 @@ Only the total is required by the specification, but naming both causes improves
 
 Always match the reason to the direction (F or A) and, if the question gives a scenario, to the scenario.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--05-six-variances-net.webp" width="900" height="1034" alt="Bars centred on zero show the six variances: material price 3,792 F, usage 2,700 A, labour rate 1,656 A, efficiency 2,880 F, variable overhead 660 A, fixed overhead 1,200 A. Net 456 F equals standard cost 239,400 minus actual cost 238,944." loading="lazy">
+  <figcaption>Favourable and adverse variances net to the difference between standard and actual cost.</figcaption>
+</figure>
+
+
 ## Interrelationships (2.5.5)
 
 | Cause | Variances it can create |
@@ -145,6 +173,12 @@ Always match the reason to the direction (F or A) and, if the question gives a s
 
 The point to make: one manager's favourable variance may cause another manager's adverse variance, so do not reward or blame on one variance alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--07-linked-variances.webp" width="900" height="800" alt="Cheaper clay gave a favourable price variance of 3,792 dollars but an adverse usage variance of 2,700. Skilled, higher-paid workers gave an adverse rate variance of 1,656 and a favourable efficiency variance of 2,880." loading="lazy">
+  <figcaption>One decision can cause a favourable variance in one place and an adverse one in another.</figcaption>
+</figure>
+
+
 ## Management by exception (2.5.6)
 
 - Set a tolerance: a percentage of standard cost, a money amount, or both.
@@ -152,6 +186,12 @@ The point to make: one manager's favourable variance may cause another manager's
 - Watch trends: a small variance growing each month deserves attention.
 - Benefit: saves management time and focuses effort.
 - Limitation: small variances can hide problems, offsetting variances can hide each other, and the limit is a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--08-exception-reporting.webp" width="900" height="806" alt="Six adverse variances at Skelwith Mats shown as percentages of standard cost against a 5 percent limit. Material usage 7.0, labour efficiency 6.5 and fixed overhead 8.0 percent are investigated; the other three are under the limit." loading="lazy">
+  <figcaption>Only variances over the limit are investigated.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -188,6 +228,12 @@ The point to make: one manager's favourable variance may cause another manager's
 9. The **total variable overhead variance** (adverse).
 10. Managers concentrate on **significant** variances, outside a set tolerance, and ignore small ones.
 11. **Yes.** Large favourable and adverse sub-variances can cancel, for example cheap material (price F) causing waste (usage A).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-standard-costing--03-material-variances.webp" width="900" height="940" alt="A waterfall with a broken axis from standard material cost 68,400 dollars, plus usage variance 2,700 adverse to reach 71,100 (actual kg at standard price), minus price variance 3,792 favourable to reach actual cost 67,308. Total 1,092 favourable." loading="lazy">
+  <figcaption>Usage and price variances bridge standard material cost to actual material cost.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

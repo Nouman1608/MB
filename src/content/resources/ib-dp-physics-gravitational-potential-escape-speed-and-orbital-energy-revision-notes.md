@@ -63,6 +63,22 @@ These notes condense the additional higher level (AHL) part of D.1 Gravitational
 1. Energy needed = E(orbit) - E(surface) = GMm(1/R - 1/2r).
 2. Split it: Ek at orbit = GMm/2r; the rest raises Ep.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--03-work-and-potential-difference.webp" width="900" height="890" alt="Vg graph for Neptune with an arrow from R to 2R showing a rise of 1.383 x 10^8 J per kg. Bars compare the correct work, 4.84 x 10^10 J, with mgh using surface g, 9.68 x 10^10 J, which is twice as big." loading="lazy">
+  <figcaption>Use W = m times the change in Vg over large distances; mgh overestimates because g falls with height.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--06-escape-speed.webp" width="900" height="940" alt="Energy per kg at Ganymede surface for three speeds. Ep is -3.75 x 10^6 J per kg in each. At 1.94 km per s total is -1.88 (bound), at 2.74 km per s total is zero (escape), and at 6.0 km per s total is +14.2, leaving 5.34 km per s far away." loading="lazy">
+  <figcaption>Escape speed makes the total energy zero, and equals root 2 times the orbital speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--07-orbital-energy.webp" width="900" height="920" alt="Graph of Ek, Ep and E against orbital radius for a 640 kg satellite around Neptune. Ek = -E and Ep = 2E. Moving from 2.49 to 4.00 x 10^7 m raises E from -8.74 to -5.44 x 10^10 J, so 3.30 x 10^10 J is supplied." loading="lazy">
+  <figcaption>Ek = GMm/2r, Ep = -GMm/r, E = -GMm/2r; a bigger orbit has E nearer zero.</figcaption>
+</figure>
+
+
 ## Equipotentials and field lines
 
 - Concentric spheres around a point or spherical mass, with centre-to-centre distance used for r.
@@ -71,6 +87,17 @@ These notes condense the additional higher level (AHL) part of D.1 Gravitational
 - Moving a mass along an equipotential costs no work.
 - Near a surface the equipotentials are almost parallel and equally spaced, so the field is approximately uniform.
 - Potentials of several bodies add as scalars. Along the line joining two masses, g = 0 where the gradient of the total Vg is zero.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--04-equipotentials.webp" width="900" height="1150" alt="Concentric dashed circles around Ganymede mark Vg of -3, -2 and -1 x 10^6 J per kg at radii 3.29, 4.94 and 9.87 x 10^6 m. Eight inward field lines cross them at right angles. The gaps (1.65 then 4.93 x 10^6 m) widen outwards, so the field weakens." loading="lazy">
+  <figcaption>Field lines cross equipotentials at right angles, and wider gaps mean a weaker field.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--05-two-bodies.webp" width="900" height="970" alt="Graph of Vg along the line joining two asteroids (2.0 and 8.0 x 10^15 kg, 9.0 x 10^3 m apart). Vg has a maximum of -133 J per kg at 3.0 x 10^3 m from the lighter body, where g = 0. It is -200 at 1.0 x 10^3 m and -148 at the midpoint. g points downhill towards each body." loading="lazy">
+  <figcaption>Where the fields cancel, Vg has a maximum and its gradient, g, is zero.</figcaption>
+</figure>
+
 
 ## Atmospheric drag on a satellite
 
@@ -83,6 +110,12 @@ Drag is small, so treat the orbit as a slow spiral through near-circular orbits.
 | Speed | **increases** | v = √(GM/r) |
 | Ep | decreases (by twice the Ek gain) | smaller r |
 | Ek | increases | v larger |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--08-atmospheric-drag.webp" width="900" height="970" alt="A satellite spirals inwards (exaggerated) with velocity along the path and drag opposite. Reasoning chain: drag removes energy, E more negative, r smaller, speed increases. For 2.49 to 2.45 x 10^7 m, Ek rises 1.43 x 10^9 J, Ep falls 2.86 x 10^9 J and E falls 1.43 x 10^9 J; speed rises from 1.653 to 1.666 x 10^4 m per s." loading="lazy">
+  <figcaption>Drag removes energy, the orbit shrinks and the satellite speeds up.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -100,6 +133,12 @@ Drag is small, so treat the orbit as a slow spiral through near-circular orbits.
 - **g against r**: the area under the curve between two radii equals the change in Vg between them, in J kg⁻¹. Count squares or use trapezia and state the units.
 - **Ep against r**: the same shape as Vg, scaled by m. The depth of the well at the starting radius is the energy needed to escape from rest.
 - A tangent drawn on a Vg graph gives g at that point. Use a large triangle and show both sides of it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--02-field-from-gradient.webp" width="900" height="930" alt="Zoomed graph of Vg near Triton with a right-angled triangle between r = 2.00 and 2.20 x 10^6 m. The slope is 0.324 N per kg, equal to GM/r^2 at the midpoint. The slope is positive, so g points inward." loading="lazy">
+  <figcaption>The magnitude of g is the slope of the Vg graph, and g points downhill, towards the mass.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -148,6 +187,12 @@ Use GM = 1.2 × 10¹³ N m² kg⁻¹ for a planet, r measured from its centre, w
 10. The orbit shrinks and the speed increases.
 11. ΔVg = 0, so W = mΔVg = 0; the field is perpendicular to the surface.
 12. **√2** (about 1.41).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--01-potential-and-energy.webp" width="900" height="900" alt="Graph of gravitational potential Vg against distance from the centre of Ganymede. Vg is negative everywhere and rises towards zero at infinity. A 900 kg probe at 1.00 x 10^7 m has Vg of -9.87 x 10^5 J per kg and Ep of -8.88 x 10^8 J, which is the energy needed to lift it to infinity." loading="lazy">
+  <figcaption>Vg = -GM/r is negative everywhere and rises to zero at infinity.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

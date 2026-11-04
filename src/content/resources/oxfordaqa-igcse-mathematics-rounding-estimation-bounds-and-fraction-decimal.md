@@ -59,6 +59,17 @@ Percentage change, interest and reverse percentages are N15 and are not covered 
 2.0465 to 3 s.f.      digits 2, 0, 4; next digit is 6, round up: 2.05
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--01-rounding-number-line.webp" width="900" height="960" alt="Two number lines show 46 285 between 46 200 and 46 300, past the halfway point 46 250, so it rounds up to 46 300. Between 46 000 and 47 000 it lies before halfway 46 500, so it rounds to 46 000." loading="lazy">
+  <figcaption>Compare 46 285 with the halfway point to round to the nearest 100 or 1000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--02-significant-figures.webp" width="900" height="900" alt="The digits of 0.07049 are boxed. The leading zeros are greyed because they never count; counting starts at the 7. The digit after the last kept one decides: 0 and 4 leave it (0.07, 0.070) and 9 rounds up (0.0705)." loading="lazy">
+  <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
+</figure>
+
+
 ## 2. Limits of accuracy (N11)
 
 A rounded number stands for a whole interval of true values. The interval runs from half a unit of the rounding place below the number to half a unit above it. The lower end is included. The upper end is not.
@@ -80,6 +91,12 @@ The second significant figure is in the thousands place, so the rounding unit is
 ```
 
 12 460 lies inside this interval, so it is possible. A count of 12 500 is not, because the upper end is excluded: 12 500 would round up to 13 000 (2 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
 
 ## 3. Estimation (N11)
 
@@ -105,6 +122,12 @@ Dividing by 0.05 is the same as multiplying by 20. The exact value is 4 041.6 (1
 ```
 
 Each number went up when rounded, so the product comes out too big: an over-estimate. The exact total is £108.36.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
 
 ## 4. Upper and lower bounds (N11, Extension only)
 
@@ -148,6 +171,22 @@ lower speed = 395 ÷ 52.5 = 7.523...
 
 To 2 s.f. these are 7.9 and 7.5, which differ. To 1 s.f. both are 8. The speed is **8 m/s** to 1 s.f.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--01-bounds-area.webp" width="900" height="790" alt="A rectangle measured as 7.6 cm by 3.2 cm to 1 decimal place. A larger gold rectangle of 7.65 by 3.25 cm contains a smaller teal rectangle of 7.55 by 3.15 cm, drawn to scale. The smallest possible area is 7.55 times 3.15, which is 23.7825 square cm. The largest is 7.65 times 3.25, which is 24.8625 square cm." loading="lazy">
+  <figcaption>Core/Extension only (bounds are Extension only)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--02-bounds-difference.webp" width="900" height="830" alt="Two pairs of bars drawn to scale. Top: the longest length 7.65 above the shortest width 3.15 leaves the biggest gap 4.50. Bottom: the shortest length 7.55 above the longest width 3.25 leaves the smallest gap 4.30. So for a minus b the upper bound is upper a minus lower b." loading="lazy">
+  <figcaption>Bounds of a subtraction, l minus w, drawn as bars.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--03-bounds-accuracy.webp" width="900" height="830" alt="A number line from 7.3 to 8.1 with a shaded interval from the lower bound 7.52 to the upper bound 7.86 metres per second. Rounded to 2 significant figures the bounds are 7.5 and 7.9, which differ. Rounded to 1 significant figure both are 8, so the speed can be given as 8 metres per second." loading="lazy">
+  <figcaption>Rounding both bounds until they agree.</figcaption>
+</figure>
+
+
 ## 5. Equivalent fractions and conversions (N12)
 
 Multiply or divide the top and bottom of a fraction by the same number to get an equivalent fraction. To simplify, divide by the highest common factor.
@@ -169,6 +208,22 @@ Multiply or divide the top and bottom of a fraction by the same number to get an
 ```
 
 **A terminating decimal** ends. A fraction in lowest terms gives a terminating decimal exactly when 2 and 5 are the only primes that divide its denominator. So 7/40 terminates because 40 = 2 × 2 × 2 × 5. A fraction such as 5/12 does not, because 12 contains a factor 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--08-round-terminating-rule.webp" width="900" height="930" alt="Four fractions in lowest terms with the prime factors of each denominator. 7/40 has factors 2, 2, 2, 5 and ends as 0.175. 9/25 has factors 5, 5 and ends as 0.36. 5/12 has a factor 3, so the decimal 0.41666... never ends. 1/7 has a factor 7, so 0.142857... never ends." loading="lazy">
+  <figcaption>In lowest terms, a fraction gives a terminating decimal only if 2 and 5 are the only prime factors of the denominator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--09-round-equivalent-fractions.webp" width="900" height="860" alt="Two pairs of bars. A bar cut into 8 parts with 5 shaded matches a bar cut into 56 parts with 35 shaded, by multiplying top and bottom by 7. A bar cut into 42 parts with 18 shaded matches a bar cut into 7 parts with 3 shaded, by dividing top and bottom by 6." loading="lazy">
+  <figcaption>Multiply or divide top and bottom by the same number: the shaded share does not change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
 
 ## 6. Recurring decimals (N12, Extension only)
 
@@ -210,6 +265,17 @@ x = 34.5/90 = 69/180 = 23/60
 
 The whole number 1 stays. 0.2̇4̇ = 24/99 = 8/33, so the number is 1 8/33, or 41/33.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--10-round-recurring-start.webp" width="900" height="700" alt="Digit strips line up 100x = 38.33333 and 10x = 3.83333. After the first decimal place the repeating 3s are identical in both rows, so subtracting gives exactly 34.5. Then 90x = 34.5 and x = 23/60." loading="lazy">
+  <figcaption>Multiply by 10 and 100 so the repeating tails line up, then subtract: they cancel, leaving 90x = 34.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
+</figure>
+
+
 ## 7. Fractions, decimals and percentages as operators (N13)
 
 "Of" means multiply. A fraction, decimal or percentage acts on a quantity by multiplying it.
@@ -233,6 +299,17 @@ blue      = 0.25 × 140 = 35
 fraction  = 35/240 = 7/48
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--06-round-fraction-operator.webp" width="900" height="710" alt="A bar for 456 is cut into 8 equal parts of 57. Three of the parts are shaded, so 3/8 of 456 is 3 times 57, which is 171." loading="lazy">
+  <figcaption>A fraction of an amount: divide by the denominator, then multiply by the numerator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--07-round-operator-chain.webp" width="900" height="740" alt="A bar of 240 sweets is cut into 12 parts of 20. Five parts are red, 100 sweets. The remaining 140 are cut into quarters of 35 and one quarter is blue, 35 sweets. 35 out of 240 simplifies to 7/48 of the box." loading="lazy">
+  <figcaption>Work one operator at a time: 5/12 of 240 = 100 red, then a quarter of the remaining 140 = 35 blue.</figcaption>
+</figure>
+
+
 ## 8. One quantity as a fraction or percentage of another (N14)
 
 Write the first quantity over the second (the one that follows "of"), in the same units. Simplify, then multiply by 100 for a percentage.
@@ -247,6 +324,12 @@ Write the first quantity over the second (the one that follows "of"), in the sam
 ```
 
 Results above 1 or above 100% are correct when the first quantity is bigger. Swap the roles and the answer changes: if Mia ran 2.4 km and Ben ran 3.0 km, Ben's distance is 125% of Mia's, and Mia's is 80% of Ben's.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--04-percent-of-another.webp" width="900" height="830" alt="Two bar models. In the first, the bar for Mia of 2.4 km is 100 percent and the longer bar for Ben of 3.0 km reaches 125 percent. In the second, Ben's bar of 3.0 km is 100 percent and the shorter bar for Mia is 80 percent. The quantity after the word of is the whole, 100 percent." loading="lazy">
+  <figcaption>Bar models for 125% and 80%.</figcaption>
+</figure>
+
 
 ## Common errors
 

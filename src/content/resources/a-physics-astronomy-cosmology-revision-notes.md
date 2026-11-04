@@ -44,6 +44,12 @@ F = L / (4 pi d^2)
 
 **Standard candle** — an object of **known luminosity**, so that measuring its flux gives its distance. Type Ia supernovae are the standard example, and they work because they all explode at the same critical mass and therefore the same peak luminosity, giving a reliably consistent reference point across enormous cosmic distances.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--02-aphy-astro-inverse-square.webp" width="900" height="1130" alt="A star emits light in a widening cone. At 2d the same light covers 4 times the area and at 3d 9 times, so the flux falls to F/4 and F/9. A standard candle has known L, so measuring F gives d; the worked example gives 5.6e18 m." loading="lazy">
+  <figcaption>Flux falls as 1/d^2, so a standard candle of known luminosity gives its distance.</figcaption>
+</figure>
+
+
 ## Stefan–Boltzmann and Wien
 
 ```
@@ -67,6 +73,17 @@ T = 2.9x10^-3 / (480x10^-9) = 6042 K
 L = 4 pi r^2 sigma T^4
 r = sqrt( L / (4 pi sigma T^4) ) = 6.96x10^8 m
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-cosmology-revision-notes--03-astro-wien-then-stefan.webp" width="900" height="1080" alt="A black-body curve peaks at 480 nm. Wien gives T = 6042 K. Stefan-Boltzmann with L = 4.6e26 W then gives r = 6.96e8 m. Stefan alone has two unknowns, so Wien must come first." loading="lazy">
+  <figcaption>Use Wien to find T, then Stefan to find r.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--03-aphy-astro-blackbody.webp" width="900" height="980" alt="Planck curves for 4800 K, 5800 K and 7000 K. Hotter stars are higher at every wavelength and peak at shorter wavelengths (604, 500, 414 nm from Wien). Area under each curve scales as T^4 (Stefan)." loading="lazy">
+  <figcaption>Hotter black bodies emit more at every wavelength and peak at shorter wavelength; total power scales as T^4.</figcaption>
+</figure>
+
 
 ## Redshift and Hubble's law
 
@@ -95,6 +112,22 @@ v = c x (delta-lambda / lambda) = 3.00x10^8 x (4.1/656.3) = 1.87x10^6 m/s
 d = v / H0 = 1.87x10^6 / 2.3x10^-18 = 8.15x10^23 m
 age = 1/H0 = 1/2.3x10^-18 = 4.35x10^17 s  (~13.8 billion years)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-cosmology-revision-notes--04-astro-expansion-no-centre.webp" width="900" height="940" alt="Five galaxies in a row. Seen from galaxy A, recession arrows grow with distance. Seen from galaxy C, galaxies on both sides recede with speed proportional to distance. Every observer sees v = H0 d, so there is no centre." loading="lazy">
+  <figcaption>Every galaxy sees the same distance-speed pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--06-aphy-astro-redshift.webp" width="900" height="980" alt="Hydrogen absorption lines at 434.0, 486.1 and 656.3 nm in the laboratory are shifted to 442.7, 495.8 and 669.4 nm in a distant galaxy, all by the same fraction z = 0.020. z = delta lambda / lambda = v/c gives a recession speed of about 6.0e6 m/s." loading="lazy">
+  <figcaption>Spectral lines of a receding galaxy shift to longer wavelength by z = v/c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--07-aphy-astro-hubble.webp" width="900" height="1140" alt="Speed against distance is a straight line through the origin with gradient H0 = 70 km/s/Mpc, including the worked example 85.5 Mpc at 5990 km/s. Farther galaxies recede proportionally faster. H0 = 2.3e-18 per second, so age is about 1/H0 = 4.4e17 s or 1.4e10 years." loading="lazy">
+  <figcaption>Recession speed is proportional to distance (v = H0 d), and 1/H0 estimates the age of the universe.</figcaption>
+</figure>
+
 
 ## The Big Bang
 

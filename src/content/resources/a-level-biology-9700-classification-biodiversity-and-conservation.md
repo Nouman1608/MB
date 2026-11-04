@@ -66,9 +66,21 @@ All cellular life is placed in three domains: **Archaea**, **Bacteria** and **Eu
 | Ribosomal RNA | Base sequences differ from bacterial rRNA | Base sequences differ from archaeal rRNA |
 | Cell wall | No peptidoglycan | Contains **peptidoglycan** (murein) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--02-three-domains.webp" width="900" height="1020" alt="A tree splits an ancestor into Bacteria, Archaea and Eukarya. Bacteria and Archaea are cells with no nucleus: Bacteria have a peptidoglycan wall and ester lipids, Archaea no peptidoglycan and ether lipids, with different rRNA. Eukarya holds four kingdoms. Viruses sit outside, classified only by nucleic acid." loading="lazy">
+  <figcaption>Three domains of cells, with viruses outside them (Cambridge only).</figcaption>
+</figure>
+
+
 ### Taxonomic hierarchy
 
 Eukarya are classified into ranks: **kingdom, phylum, class, order, family, genus, species**. For humans: Animalia, Chordata, Mammalia, Primates, Hominidae, *Homo*, *sapiens*. The binomial name uses the genus and species, is written in italics (or underlined by hand), and the genus has a capital letter: *Homo sapiens*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--01-taxonomic-hierarchy.webp" width="900" height="1115" alt="A tree with eight ranks from domain to species for cat, lion, bear and frog. All share Eukarya, Animalia and Chordata; the frog splits at class, the bear at family, and cat and lion split only at genus. The cat is written Felis catus with a capital genus." loading="lazy">
+  <figcaption>Each rank sits wholly inside the one above, and closer relatives share more ranks.</figcaption>
+</figure>
+
 
 ### The four eukaryotic kingdoms
 
@@ -100,6 +112,12 @@ Viruses are not cells, so they sit outside the three domains. You only need to c
 
 Samples must be **random** so that every part of the area has an equal chance of being chosen. This removes bias from the person sampling. Lay two tapes at right angles, generate random coordinates, and place a quadrat at each point. Take enough samples to be representative.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
+</figure>
+
+
 ### Sampling methods
 
 - **Frame quadrat:** a square frame (for example 0.5 m × 0.5 m). Record species present, the number of individuals, or percentage cover. From these you get **species frequency** (percentage of quadrats containing the species), **density** (individuals per m²) or mean **percentage cover**.
@@ -127,6 +145,12 @@ N = (48 × 60) / 12 = 2880 / 12 = 240
 Estimated population: **240 beetles**.
 
 The method assumes that marks do not harm the animal or make it easier to catch, marks are not lost, marked animals mix fully with the population, and there are no births, deaths or migration between samples.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
+</figure>
+
 
 ### Correlation: Spearman's and Pearson's
 
@@ -173,6 +197,12 @@ r = (Σxy − n x̄ ȳ) / ((n − 1) sₓ sᵧ)
 
 A strong positive linear correlation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--07-spearman-correlation.webp" width="900" height="1050" alt="A scatter of eight quadrats shows moss cover falling as light rises, with a downward trend line. On a scale from -1 to +1, rs = -0.952 lies beyond the critical value 0.738 for n = 8 at p = 0.05, so the negative correlation is significant, but it does not show cause." loading="lazy">
+  <figcaption>A significant negative correlation, which still does not prove cause.</figcaption>
+</figure>
+
+
 ### Simpson's index of diversity
 
 ```
@@ -194,6 +224,17 @@ n = number of individuals of each type; N = total individuals of all types.
 Σ(n/N)² = 0.2640, so D = 1 − 0.2640 = **0.736**.
 
 D ranges from 0 to just below 1. A value near 1 means high diversity: many species, with individuals spread evenly. A value near 0 means low diversity, with one species dominating. High-D communities are usually more stable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1210" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">
+  <figcaption>Proportion of polymorphic loci = polymorphic loci / total loci.</figcaption>
+</figure>
+
 
 ## 18.3 Conservation
 
@@ -240,6 +281,12 @@ An invasive alien species is one introduced outside its natural range that sprea
 - **IUCN (International Union for Conservation of Nature):** assesses the conservation status of species and publishes the Red List, using categories from Least Concern to Extinct. It gives governments evidence for conservation priorities.
 - **CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora):** an international agreement between governments that controls trade in endangered species and their products, banning trade for the most threatened and requiring permits for others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Writing "species can breed" instead of "produce **fertile** offspring".
@@ -248,6 +295,12 @@ An invasive alien species is one introduced outside its natural range that sprea
 - Swapping n₂ and m₂ in the Lincoln index.
 - Forgetting to square n/N, or forgetting the "1 −" in Simpson's index.
 - Concluding "light causes low moss cover" from a correlation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
+  <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -58,6 +58,12 @@ Sketch a profile for the burning of methane, an exothermic reaction.
 
 For an endothermic reaction the product line sits higher and the ∆H arrow points up. Ea is always measured from the reactants.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--02-lattice-energy-charge-radius.webp" width="900" height="1170" alt="Two ion pairs are drawn to scale. Na+ and Cl- have charges of 1 and centres 0.283 nm apart; Mg2+ and O2- have charges of 2 and centres 0.212 nm apart. The MgO lattice energy bar, -3791 kJ per mole, is about five times that of NaCl, -787." loading="lazy">
+  <figcaption>Higher ionic charge and smaller ionic radius give a more exothermic lattice energy (and hydration enthalpy).</figcaption>
+</figure>
+
+
 ## 3.2.1(d): Standard conditions and enthalpy definitions
 
 **Standard conditions**: 100 kPa and a stated temperature, usually 298 K. The symbol ⦵ shows a value measured under standard conditions, for example ∆fH⦵.
@@ -102,6 +108,17 @@ A spirit burner containing butan-2-ol (M = 74.0 g mol⁻¹) is used to heat 175 
 
 The answer is less exothermic than a data value because of heat loss and incomplete combustion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--05-what-raises-entropy.webp" width="900" height="1110" alt="Three panels. Particles in a solid sit in fixed places, in a liquid slide past each other, and in a gas move freely, so entropy rises. Heating makes particles move faster, raising entropy. A reaction that makes gas (CaCO3 decomposing) has positive entropy change, while one that uses up gas (ethene plus steam forming ethanol) has negative." loading="lazy">
+  <figcaption>Entropy rises from solid to liquid to gas, with temperature, and when a reaction produces more moles of gas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--06-entropy-change-calc.webp" width="900" height="1070" alt="Bar chart: CaCO3(s) 92.9 J per K per mole against products CaO(s) 40.0 stacked with CO2(g) 213.6, total 253.6. The difference, +160.7, is the entropy change; most of it is the gas." loading="lazy">
+  <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
+</figure>
+
+
 ### Worked example 4: enthalpy change of neutralisation
 
 35.0 cm³ of 1.20 mol dm⁻³ KOH(aq) is mixed with 35.0 cm³ of 1.20 mol dm⁻³ HNO₃(aq) in a polystyrene cup. The temperature rises by 8.2 K.
@@ -128,6 +145,12 @@ Calculate ∆H for 2NH₃(g) + 3Cl₂(g) → N₂(g) + 6HCl(g). Use these values
 1. Broken: 6 N–H + 3 Cl–Cl = 6(391) + 3(243) = 2346 + 729 = 3075 kJ
 2. Made: 1 N≡N + 6 H–Cl = 945 + 6(432) = 945 + 2592 = 3537 kJ
 3. ∆H = 3075 − 3537 = **−462 kJ mol⁻¹**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--04-solution-cycle.webp" width="900" height="980" alt="Energy level diagram: NaCl(s) at 0 rises 787 to gaseous ions, falls 406 as Na+ is hydrated and 364 as Cl- is hydrated, ending at +17 kJ per mole above the solid. The enthalpy of solution is therefore +17." loading="lazy">
+  <figcaption>Dissolving NaCl: break the lattice (+787), then hydrate both ions (-406, -364), giving +17 kJ mol-1.</figcaption>
+</figure>
+
 
 ### Worked example 6: finding a bond enthalpy
 
@@ -171,6 +194,12 @@ Route: anhydrous solid → solution (−25.0), then solution → hydrated solid 
 
 ∆H = −25.0 − 66.0 = **−91.0 kJ mol⁻¹**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--01-born-haber-nacl.webp" width="900" height="1090" alt="Energy level diagram: Na(s) and half a Cl2 at 0 rise through atomisation of Na (+107), atomisation of Cl (+122) and ionisation of Na (+496) to 725, fall 349 on electron affinity to 376, then fall 787 as the lattice forms to minus 411. A direct arrow shows the enthalpy of formation, minus 411, so lattice energy is minus 787 kJ per mole." loading="lazy">
+  <figcaption>Born-Haber cycle for NaCl: the five steps sum to the enthalpy of formation, giving a lattice energy of -787 kJ mol-1.</figcaption>
+</figure>
+
+
 ## 3.2.1(h): Techniques for direct and indirect determination
 
 **Direct methods (PAG3)** measure the temperature change of the reaction you want.
@@ -183,6 +212,12 @@ Route: anhydrous solid → solution (−25.0), then solution → hydrated solid 
 **Indirect methods** combine two measurable reactions in a Hess cycle, for example worked example 9, or a thermal decomposition found from two reactions with excess acid. An enthalpy change of hydration (5.2.1(c)) is also found indirectly, from a measured enthalpy change of solution and the [lattice enthalpy](/resources/ocr-a-level-chemistry-lattice-enthalpy/).
 
 **Main errors**: heat loss, ignoring the container's heat capacity, incomplete combustion (soot) and fuel evaporating from the wick.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--07-gibbs-vs-temperature.webp" width="900" height="1000" alt="Graph of ΔG against temperature: a straight line starting at +178 kJ per mole, sloping down at -0.165 kJ per K, crossing zero at 1079 K. Above 1079 K ΔG is negative and the reaction is feasible; below it is not. A note says feasible does not mean fast." loading="lazy">
+  <figcaption>ΔG = ΔH − TΔS gives a straight line whose intercept is ΔH and gradient is −ΔS; it crosses zero at T = ΔH/ΔS = 1079 K.</figcaption>
+</figure>
+
 
 ## Common errors
 

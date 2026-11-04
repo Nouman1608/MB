@@ -81,6 +81,12 @@ In a myelinated neurone, Schwann cells wrap around the axon many times. Their me
 
 In a non-myelinated neurone the axon is not wrapped in layers of myelin, so the membrane is exposed along its whole length and conduction is slower.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--01-reflex-arc.webp" width="900" height="1270" alt="A cross-section of the spinal cord shows the reflex pathway from a hot stimulus. The receptor excites a sensory neurone whose cell body lies in the dorsal root swelling; it synapses with a relay neurone in the grey matter, which synapses with a motor neurone leaving by the ventral root to a muscle. Impulses also pass up the white matter to the brain. The lesson example gives a 20 ms reflex time." loading="lazy">
+  <figcaption>The three-neurone reflex arc: receptor, sensory, relay and motor neurones, effector (Edexcel adds roots and grey/white matter).</figcaption>
+</figure>
+
+
 ## 5.1.3(c) Nerve impulses
 
 ### The resting potential
@@ -92,6 +98,17 @@ A neurone not carrying an impulse has an inside that is negative compared with t
 - Few open sodium channels at rest, so sodium ions diffuse back in only slowly.
 
 The membrane is much more permeable to potassium ions than to sodium ions. Positive charge therefore leaves faster than it returns, and the inside stays negative. The pump keeps replacing the ions that diffuse down their gradients, which maintains the resting potential.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--03-resting-potential.webp" width="900" height="1010" alt="A membrane separates the outside above from the inside of the axon below. A sodium-potassium pump moves 3 Na+ out for every 2 K+ in, using ATP. Open K+ channels let K+ diffuse out quickly while Na+ channels are mostly closed, and negatively charged proteins stay inside. The inside is therefore negative, about -70 mV." loading="lazy">
+  <figcaption>The pump, leaky K+ channels and trapped negative proteins make the inside of the axon about -70 mV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--07-pacinian-corpuscle.webp" width="900" height="1130" alt="A Pacinian corpuscle has concentric lamellae separated by gel, with a sensory neurone ending at the centre. Pressure stretches the membrane and widens stretch-mediated Na+ channels, so Na+ enters and the membrane depolarises: the generator potential. In the lesson example pressures of 0.5, 1.0 and 1.5 kPa give 6, 12 and 18 mV; only 1.5 kPa passes the 15 mV needed to reach threshold and fire an action potential." loading="lazy">
+  <figcaption>Pressure opens stretch-mediated Na+ channels; only a generator potential reaching threshold fires an impulse.</figcaption>
+</figure>
+
 
 ### Generating an action potential
 
@@ -106,9 +123,21 @@ An action potential is a brief reversal of the potential difference across the m
 
 A stimulus below threshold gives no action potential. At or above threshold, the action potential is always the same size. This is the all-or-nothing principle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--02-saltatory-conduction.webp" width="900" height="1080" alt="Two axons are compared. In the non-myelinated axon every patch of membrane depolarises in turn, with local current flowing to the next patch. In the myelinated axon, Schwann cell myelin insulates the axon so the local current runs from node of Ranvier to node and the impulse jumps between nodes. In the lesson example the myelinated axon conducts at 70 m/s and the non-myelinated at 2.0 m/s, 35 times slower." loading="lazy">
+  <figcaption>Myelin makes the action potential jump from node to node, so conduction is much faster.</figcaption>
+</figure>
+
+
 ### The refractory period
 
 Just after an action potential, the voltage-gated sodium channels cannot reopen. During this refractory period no new action potential can start. This stops the impulse spreading backwards, keeps impulses separate and sets a maximum frequency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--04-action-potential.webp" width="900" height="1010" alt="A graph of membrane potential against time rests at -70 mV, depolarises past the -55 mV threshold to +40 mV, repolarises as K+ leaves, dips below -70 mV (hyperpolarisation) and returns to rest. Bars show Na+ channels open on the rising phase and K+ channels open on the falling phase. A 2.5 ms refractory period limits the frequency to 400 impulses per second." loading="lazy">
+  <figcaption>Membrane potential during one action potential, with channel activity and the refractory period.</figcaption>
+</figure>
+
 
 ### Transmission in a myelinated neurone
 
@@ -146,6 +175,12 @@ A synapse is a junction between two neurones, with a gap, the synaptic cleft, be
 - **Synaptic cleft:** the narrow gap, which contains the enzyme acetylcholinesterase.
 - **Postsynaptic membrane:** receptors with a shape complementary to acetylcholine, linked to sodium ion channels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--05-cholinergic-synapse.webp" width="900" height="1110" alt="A presynaptic knob sits above a postsynaptic neurone with a 20 nm cleft between. An action potential opens Ca2+ channels, Ca2+ enters and vesicles release acetylcholine by exocytosis. ACh binds receptors that are Na+ channels, so Na+ enters and the membrane depolarises. Acetylcholinesterase splits ACh and choline is taken back in. Receptors are only on the postsynaptic side, so transmission is one way." loading="lazy">
+  <figcaption>The six steps of transmission across a cholinergic synapse.</figcaption>
+</figure>
+
+
 ### Action of the neurotransmitter
 
 1. An action potential arrives and depolarises the presynaptic knob.
@@ -179,6 +214,12 @@ An excitatory synapse depolarises the postsynaptic membrane, moving it towards t
 ```
 
 Round up each time: eight inputs give 14.4 mV, which does not reach threshold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--06-summation.webp" width="900" height="1010" alt="Two small diagrams show spatial summation (five neurones at once) and temporal summation (one neurone firing five times quickly). A staircase graph rises from -70 mV by 3 mV per impulse to the -55 mV threshold on the fifth impulse, where an action potential starts. One impulse alone gives -67 mV, below threshold. No decay is assumed, as in the lesson example." loading="lazy">
+  <figcaption>Small depolarisations add up to reach threshold: 5 x 3 mV = 15 mV.</figcaption>
+</figure>
+
 
 ## Common errors
 

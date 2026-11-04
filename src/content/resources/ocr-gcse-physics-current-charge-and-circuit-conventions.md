@@ -52,9 +52,21 @@ Two conditions must both be met:
 
 An insulator such as plastic in the loop has the same effect as a gap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--11-conditions-for-flow.webp" width="900" height="1060" alt="A lit lamp in a closed loop with a cell has current. The same loop with an open switch has none. A closed loop with no cell has none." loading="lazy">
+  <figcaption>Charge needs a source of p.d. and a closed circuit.</figcaption>
+</figure>
+
+
 ### Conventional current
 
 The specification refers to the measurement of conventional current. Conventional current is drawn as flowing from the positive terminal of the source, round the circuit, to the negative terminal. In a metal, the electrons actually move the other way, from negative to positive. Arrows on circuit diagrams show conventional current. When a question asks about the direction in which electrons move, say it is opposite to the arrows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--03-meters-and-current-direction.webp" width="900" height="900" alt="A single loop with a cell, an ammeter in series and a lamp. A voltmeter is on a branch across the lamp. Copper arrows show conventional current clockwise from + to -; teal electron symbols move the opposite way." loading="lazy">
+  <figcaption>Ammeters go in series, voltmeters across a component; electrons move opposite to conventional current.</figcaption>
+</figure>
+
 
 ## 2. Same current everywhere in a single loop (P3.1f)
 
@@ -69,6 +81,12 @@ The reason is that charge is not used up or stored by components. Each electron 
 A cell, a switch, a lamp and a motor are connected in a single loop. Three ammeters are placed in the loop: one between the cell and the lamp, one between the lamp and the motor, and one between the motor and the cell. The first reads 0.24 A. State the other two readings and explain.
 
 Answer: both read 0.24 A. There is one path and no branches, so each reading is equal, wherever the meter sits in the loop. Charge is not used up by the lamp or motor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--12-three-ammeters-one-loop.webp" width="900" height="1030" alt="A loop with a cell, lamp, motor and closed switch. Three ammeters, between cell and lamp, lamp and motor, and motor and cell, all read 0.24 A." loading="lazy">
+  <figcaption>One path, no branches: equal current everywhere.</figcaption>
+</figure>
+
 
 ## 3. Charge, current and time (P3.1g)
 
@@ -122,6 +140,12 @@ t = 90 / 0.250
 t = 360 s
 t = 360 / 60 = 6.0 minutes
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--10-q-equals-it-examples.webp" width="900" height="1020" alt="Three examples: 0.35 A for 2.0 min = 42 C; 540 C in 15 min = 0.60 A; 250 mA with 90 C takes 360 s = 6.0 min. Convert minutes to seconds and mA to A first." loading="lazy">
+  <figcaption>Convert time to seconds and mA to A before using Q = I t.</figcaption>
+</figure>
+
 
 ## 4. Series and parallel circuits (P3.2a)
 
@@ -184,6 +208,17 @@ Q = 0.80 × 40 = 32 C
 
 The charge through the supply (32 C) equals the charge through X (0.50 × 40 = 20 C) plus the charge through Y (12 C). Charge is not lost at the junction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--13-parallel-charge-example.webp" width="900" height="900" alt="Supply current 0.80 A splits into 0.50 A through lamp X and 0.30 A through lamp Y. In 40 s the charge is 32 C = 20 C + 12 C." loading="lazy">
+  <figcaption>Branch currents and charges add up to the supply values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
+
 ## 5. Circuit diagrams and symbols (P3.2b)
 
 Circuit diagrams use standard symbols drawn with straight lines and right angles. The specification lists these elements: cells, power supply, diodes, LDRs, NTC thermistors, filament lamps, ammeter, voltmeter, fixed and variable resistors and a switch. Learn to recognise and draw each one.
@@ -228,6 +263,18 @@ Connect a cell, a switch and the lamp in series. Place the ammeter in series, in
   <figcaption>The ammeter measures the lamp current in series; the voltmeter measures the lamp's potential difference in parallel. — Marlbridge Physics.</figcaption>
 </figure>
 <!-- /marlbridge-diagram:phys-ocr-gcse-lamp-meter-test-circuit -->
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--14-positive-terminal-symbols.webp" width="900" height="940" alt="A cell has a long thin positive line and short thick negative line; a battery is cells end to end; a d.c. supply has + and - terminals. Conventional current leaves +." loading="lazy">
+  <figcaption>Conventional current leaves the positive terminal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
+
 
 ## Common errors
 

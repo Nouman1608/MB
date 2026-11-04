@@ -1,0 +1,237 @@
+---
+title: "Cambridge A Level Economics: Controlling inflation, demand for money and interest rate determination (9708) -- Revision Notes"
+seoTitle: "9708 Economics: Inflation and Interest Rates Notes"
+resourceType: "revision-notes"
+subject: "economics"
+level: ["a-levels"]
+stage: "A"
+topic: "Controlling inflation, demand for money and interest rate determination"
+boards: ["cambridge"]
+qualifications: ["a-level"]
+syllabusCodes: ["9708"]
+syllabusSeries: "For examination in 2026, 2027 and 2028"
+order: 78
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "the-macroeconomy-a-cambridge-alevel-economics"
+    subtopic: "money-and-banking-cambridge-alevel-economics"
+description: "Condensed revision notes on anti-inflation policy, liquidity preference and interest rates for Cambridge AS and A Level Economics, with a self-test."
+author: "marlbridge-academic-team"
+publishedDate: 2026-10-18
+featured: false
+---
+
+Condensed notes for outcomes 9.4.6 to 9.4.8 (policies to reduce inflation, liquidity preference theory, and loanable funds and Keynesian theories of interest rate determination) in the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. These outcomes are in topic 9, which is A Level content and not examined at AS. All figures are invented.
+
+For full explanations, read the [study guide](/resources/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest/). Then try the [practice set](/resources/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest-practice/), tick off the [checklist](/checklists/cambridge/a-level/economics/), see the [course hub](/boards/cambridge/a-level/economics/) and take the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
+
+## 9.4.6 Policies to reduce inflation
+
+| Policy | Mechanism | Shifts | Best against |
+|---|---|---|---|
+| Higher taxes or lower government spending | Less disposable income or injection; multiplier | AD left | Demand-pull |
+| Higher interest rates, slower money growth, tighter credit rules | Dearer borrowing; investment and durable spending fall; saving rises | AD left | Demand-pull |
+| Supply-side measures (training, infrastructure, technology) | Productivity up, unit costs down | LRAS and SRAS right | Cost-push and long-run pressure |
+| Currency appreciation | Imported inputs cheaper; net exports fall | SRAS right, AD left | Imported cost-push |
+
+Key formulas:
+
+- Inflation rate = (new index ÷ old index − 1) × 100
+- Multiplier = 1 ÷ marginal propensity to withdraw
+- Change in AD = initial change × multiplier
+- Real interest rate ≈ nominal rate − inflation rate
+- Unit labour cost change ≈ (1 + wage growth) ÷ (1 + productivity growth) − 1
+
+**Method in steps for a policy question**
+
+1. Identify the cause of inflation in the case: demand-pull, cost-push or both.
+2. Choose the policy that attacks that cause and say which curve shifts.
+3. Trace the chain: first effect, second effect, change in the price level and real output.
+4. Evaluate: time lags, spare capacity, size of effect, side effects, expectations, global factors.
+5. Make a judgement: which policy, in this case, and why.
+
+**Small reminder.** Spending cut of 12 cu, multiplier 2: AD falls by 24 cu. A currency that rises from 0.50 to 0.60 foreign units per cu cuts the home price of a 30 fu import from 60 cu to 50 cu, a fall of 16.7%.
+
+**Evaluation checklist**
+
+- Cause: AD cuts are weak against cost shocks.
+- Spare capacity: a flat SRAS means output falls more than prices.
+- Lags: supply-side policy is slowest, and it is the policy with a lasting effect.
+- Side effects: unemployment, slower growth, weaker exports, higher deficit.
+- Credibility: expectations of low inflation make wage and price restraint easier.
+- Global: imported inflation is beyond national control.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest--05-ci-ad-fall-numbers.webp" width="900" height="970" alt="A spending cut of 8 with a multiplier of 2.5 reduces AD by 20. A 2-point rate rise cuts investment by 6, which the multiplier turns into an AD fall of 15. Bars share one scale." loading="lazy">
+  <figcaption>Contractionary fiscal and monetary policy shift AD left by the multiplier effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest--09-appreciation-import-cost.webp" width="900" height="780" alt="Two columns show the cost in domestic currency units of a raw material priced at 40 foreign units. At an exchange rate of 0.80 foreign units per cu, the cost is 50 cu. After the currency appreciates 12.5 percent to 0.90, the cost falls to 44.44 cu, an 11.1 percent fall." loading="lazy">
+  <figcaption>A stronger currency makes imported inputs cheaper: 50 cu falls to 44.44 cu.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest--10-unit-labour-cost.webp" width="900" height="870" alt="Three horizontal bars: wages rise 5 percent, output per worker rises 2 percent, so unit labour costs rise by 1.05 divided by 1.02 minus 1, which is 2.94 percent. Cutting aggregate demand would not remove this cost pressure; raising productivity would." loading="lazy">
+  <figcaption>Unit labour costs rise 2.94% when wages rise 5% and productivity only 2%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
+
+## 9.4.7 Demand for money: liquidity preference
+
+| Motive | Depends on | Slope |
+|---|---|---|
+| Transactions | Income and price level | Not interest-sensitive in the basic model |
+| Precautionary | Income | Not interest-sensitive in the basic model |
+| Speculative | Interest rate (negative) | Downward-sloping |
+
+- Bond price (perpetual bond) = coupon ÷ interest rate. Price and rate move in opposite directions.
+- High rate: low bond price, expect a rise in price, buy bonds, hold less money.
+- Low rate: high bond price, expect a fall in price, hold money.
+- Curve L slopes down against the interest rate. A rise in income or the price level shifts it right.
+- Liquidity trap: at a very low rate the curve is horizontal, extra money is held, and the rate cannot fall further.
+
+**Small reminder.** A bond paying 9 cu a year: at 6% it costs 150 cu, and at 10% it costs 90 cu. The 60 cu fall is 40% of the starting price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest--01-ci-bond-price-rate.webp" width="900" height="980" alt="A bond paying 6 cu a year costs 150, 120 or 75 cu at rates of 4%, 5% and 8%, so buying when the rate is high and selling when it falls earns a gain." loading="lazy">
+  <figcaption>Bond prices and market interest rates move in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest--02-ci-liquidity-preference.webp" width="900" height="1056" alt="The L curve slopes down because speculative demand for money falls as the interest rate rises. A rise in income or the price level shifts it right. At a very low rate it flattens into the liquidity trap." loading="lazy">
+  <figcaption>L slopes down, shifts right with income and prices, and flattens in a liquidity trap.</figcaption>
+</figure>
+
+
+## 9.4.8 Interest rate determination
+
+| | Loanable funds | Keynesian |
+|---|---|---|
+| Market | Funds: saving, investment, borrowing | Money: supply and liquidity preference |
+| Demand side | Firms, households, government borrowing | Demand for money, L |
+| Supply side | Saving, foreign savings | Ms, vertical, set by the central bank |
+| Rate set where | Demand for funds = supply of funds | Demand for money = Ms |
+| More saving | Supply shifts right, rate falls | No direct effect |
+| Bigger deficit | Demand shifts right, rate rises (crowding out) | Works through the money market only if it changes L or Ms |
+
+Sketch of the Keynesian diagram, in words: the horizontal axis is the quantity of money, the vertical axis is the interest rate. Ms is a vertical line. L slopes down. They cross at the equilibrium rate. A rise in Ms shifts the vertical line right and the rate falls. A rise in income shifts L right and the rate rises.
+
+Sketch of the loanable funds diagram: the horizontal axis is the quantity of loanable funds, the vertical axis is the interest rate. Demand slopes down, supply slopes up, and they cross at the equilibrium rate and quantity.
+
+Evaluation: the two theories are not rivals in every case. A central bank that sets the policy rate directly makes the money supply endogenous in practice. Rates differ by risk and term. Expectations of inflation affect both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest--03-ci-loanable-funds.webp" width="900" height="1290" alt="Demand 90 - 6r and supply 10 + 4r meet at 8% and 42 bn cu. A government deficit adds 20 to demand and lifts the rate to 10% (crowding out). A rise in saving of 10 shifts supply right and cuts the rate to 7%." loading="lazy">
+  <figcaption>The rate is set where demand for loanable funds equals supply, and shifts move it as in worked example 6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest--04-ci-keynesian-money-market.webp" width="900" height="1246" alt="The central bank fixes the money supply as a vertical line, and the interest rate is where it meets the L curve (170 - 10r). Ms of 120 gives 5% and Ms of 80 gives 9%. A rise in income shifts L to 200 - 10r and lifts the rate to 10%." loading="lazy">
+  <figcaption>In the Keynesian view the interest rate is set where the money supply meets liquidity preference.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest--08-real-vs-nominal-rate.webp" width="900" height="730" alt="Two bars compare a nominal policy rate with inflation of 5 percent. A nominal rate of 4 percent is 1 point below inflation, a real rate of minus 1 percent, which is loose. A nominal rate of 7 percent is 2 points above inflation, a real rate of plus 2 percent, which is tight." loading="lazy">
+  <figcaption>Real rate = nominal rate − inflation: 4 − 5 = −1% is loose, 7 − 5 = +2% is tight.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+
+## Chains of reasoning to rehearse
+
+**Interest rate rise to lower inflation.** Policy rate up, so borrowing is dearer and saving more rewarding. Investment and consumer spending on credit fall. AD shifts left and the multiplier amplifies the fall. Real output growth slows and the price level rises more slowly. The effect arrives after a lag, and it is weaker if firms and households are not sensitive to the rate.
+
+**Expansion of the money supply in the Keynesian model.** Ms shifts right, so there is excess money at the old rate. People buy bonds, bond prices rise, and the interest rate falls. Investment rises, AD shifts right and the multiplier operates. In a liquidity trap the chain stops at the second step.
+
+**Government deficit in loanable funds.** The government borrows more, so demand for funds shifts right and the rate rises. Some private investment is crowded out, and the net effect on AD is smaller than the size of the deficit suggests.
+
+**Supply-side policy against inflation.** Training and infrastructure raise productivity. Unit costs fall, SRAS and LRAS shift right, the price level falls relative to the baseline and real output rises. The benefit is lasting but slow, and the policy costs money.
+
+**Worked reminder (loanable funds).** Demand 80 − 5r, supply 20 + 5r. Then 60 = 10r, so r = 6% and the quantity is 50. If the supply rises by 10 at every rate, 80 − 5r = 30 + 5r gives r = 5% and the quantity is 55.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
+## Must-know distinctions
+
+- Price level versus inflation rate: a lower rate of inflation is disinflation, and prices are still rising.
+- Nominal versus real interest rate.
+- Bond price versus bond yield.
+- Movement along L (interest rate changes) versus shift of L (income or price level changes).
+- Money market (a stock) versus market for loanable funds (a flow).
+
+## Quick self-test
+
+1. The government of Country X cuts spending by 10 cu and the multiplier is 2. What is the change in AD?
+2. A saver earns a nominal rate of 6% and inflation is 2.5%. What is the approximate real rate?
+3. A bond pays 4 cu a year. What is its price at a market rate of 5%, and at 8%?
+4. Name the three Keynesian motives for holding money.
+5. Demand for money is 150 − 10r and Ms is 90. Find r. Then find r when Ms rises to 110.
+6. Demand for loanable funds is 120 − 10r and supply is 30 + 5r. Find r and the quantity.
+7. Supply in question 6 shifts to 45 + 5r. Find the new r and quantity.
+8. Prices rise from 105 to 111.3 on an index. What is the inflation rate?
+9. Why is a cut in AD a weak response to cost-push inflation?
+10. Define the liquidity trap.
+
+### Answers
+
+1. 10 × 2 = a fall of 20 cu.
+2. 6 − 2.5 = 3.5%.
+3. 4 ÷ 0.05 = 80 cu; 4 ÷ 0.08 = 50 cu.
+4. Transactions, precautionary, speculative.
+5. 150 − 10r = 90 gives r = 6%. With Ms 110: 150 − 10r = 110 gives r = 4%.
+6. 120 − 10r = 30 + 5r gives 90 = 15r, so r = 6% and the quantity is 60.
+7. 120 − 10r = 45 + 5r gives 75 = 15r, so r = 5% and the quantity is 70.
+8. (111.3 ÷ 105 − 1) × 100 = 6.0%.
+9. The cause is higher costs, so the SRAS shift is left. Lower AD reduces output and employment while the price effect is small and slow, and costs are unaffected.
+10. A situation in which the interest rate is so low that the demand for money is perfectly elastic, so extra money is held and the rate cannot fall further.
+
+## Where marks are usually lost
+
+- Naming a policy without saying which curve shifts, in which direction.
+- Applying demand-side policy to a cost-push case without comment.
+- Evaluating with a list of generic points and no link to the case.
+- Writing that the bond price rises when the interest rate rises.
+- Confusing a movement along the demand for money curve with a shift.
+- Treating the money supply as responsive to the interest rate in a Keynesian diagram.
+- Quoting nominal interest rates in an argument about real borrowing costs.
+- Leaving out units, or stating a percentage change without the base.
+- Describing loanable funds and liquidity preference as the same theory.
+
+## Official syllabus
+
+Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 9.4, outcomes 9.4.6 to 9.4.8. Topic 9 is A Level content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+

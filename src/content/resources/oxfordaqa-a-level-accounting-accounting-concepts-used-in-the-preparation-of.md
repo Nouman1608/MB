@@ -64,6 +64,22 @@ In answers, pair each concept with its effect: which figure changes, and in whic
 Prudence means caution, not pessimism: it never lets you invent losses. Materiality has no fixed cut-off; it
 depends on the size of the business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--01-two-branches.webp" width="900" height="960" alt="Two cards compare financial accounting (looks back, read by outside users such as owners, lenders and tax authorities, fixed format set by law; income statement and statement of financial position) with management accounting (looks forward, read by managers, any format at any time; budgets, costing, investment appraisal)." loading="lazy">
+  <figcaption>Financial accounting reports the past to outsiders; management accounting informs managers about the future.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
+
 ## Situation 1: preparation of financial statements
 
 Year-end adjustments are where the concepts turn into figures. Work through each item, naming the concept and the direction of the change to profit.
@@ -89,6 +105,17 @@ Corrected profit for the year                     67,350
 
 In the statement of financial position the $3,600 is a prepayment (other receivables), the advance
 payment is a current liability until the order is supplied, and drawings rise by the $700 broadband bill.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
+  <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
 
 ## Situation 2: asset valuation
 
@@ -130,6 +157,12 @@ improve profit, not to give a fairer view. A change is justified only when the o
 wrong, and users should be told about it. The straight-line and reducing balance calculations themselves are
 part of 3.1.6.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--07-depreciation-two-methods.webp" width="900" height="970" alt="Grouped bars show yearly depreciation of a 10,000 dollar asset with 1,000 residual value over four years. Straight line is 2,250 each year; reducing balance at 43.77 percent is 4,377, 2,461, 1,384 and 778. Both total 9,000, so reducing balance gives lower profit early and higher profit later." loading="lazy">
+  <figcaption>Both methods write off the same total but reducing balance charges more early.</figcaption>
+</figure>
+
+
 ## Situation 4: inventories at cost or net realisable value
 <!-- marlbridge-diagram:ac-b16-inventory-cost-or-nrv -->
 <figure class="study-guide-figure">
@@ -164,6 +197,12 @@ rises (profit falls) by the same amount. Comparing only the totals (NRV 4,975 ag
 keep everything at cost and let the headphones' margin hide the other losses. A note in section 3.1.6 of the specification says the FIFO,
 AVCO and LIFO methods of inventory valuation will not be examined.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
+
 ## Situation 5: recording the purchase of non-current assets
 
 The asset account is debited with full **historic cost**: the price plus whatever had to be spent before the
@@ -185,6 +224,12 @@ The ledger entry is debit Machinery **$15,300**, credit Bank (or the supplier). 
 $275 of revenue items go
 to repairs and maintenance. **Materiality** covers the borderline: drill bits costing $45 will last several
 years, yet depreciating them would change no user's decision, so they go straight to expenses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--06-capital-vs-revenue-van.webp" width="900" height="1010" alt="A delivery van splits spending into capital expenditure (van 18,000, delivery 250, signwriting 600, total 18,850, debited to vehicles and depreciated) and revenue expenditure (first year insurance 900, first week fuel 80, total 980, charged to the income statement)." loading="lazy">
+  <figcaption>Costs needed to get an asset ready for use are capital; running costs are revenue.</figcaption>
+</figure>
+
 
 ## Situation 6: recording transactions in ledger accounts
 
@@ -222,6 +267,12 @@ Profit falls by 3,250 - 2,500 = $750
 ```
 
 The $1,950 of accepted goods stays as revenue: that sale has been realised.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--08-sale-or-return.webp" width="900" height="1010" alt="Goods with selling price 6,000 pounds and cost 4,000 are sent to a customer who has not accepted them by the year end. Revenue and trade receivables each fall by 6,000 and closing inventory rises by 4,000 at cost, so profit falls by 2,000, from 38,500 to 36,500." loading="lazy">
+  <figcaption>Until the customer accepts, goods on sale or return are inventory at cost, not revenue.</figcaption>
+</figure>
+
 
 ## When concepts conflict
 

@@ -28,6 +28,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Four factors of production:** land, labour, capital, enterprise. **Three sectors:** primary (extraction — farming, mining), secondary (manufacturing), tertiary (services). The relative importance of these sectors (by employment and output) **shifts over time**, typically primary → secondary → tertiary as economies develop.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--01-four-factors-of-production.webp" width="900" height="960" alt="Four cards show land, labour, capital and enterprise, each with an icon and a short example. Land is farmland, water and minerals; labour is the work people do; capital is machines, tools and factories; enterprise organises the other three and takes the risk." loading="lazy">
+  <figcaption>Land, labour, capital and enterprise are the four factors of production.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
+
 ## Productivity and division of labour (1.2.2)
 
 | Factor | What improves its productivity |
@@ -39,6 +50,17 @@ Condensed for the final weeks. For the full explanation, use the
 Attach a **specific improving factor to each named factor of production** — don't treat "productivity" as one undifferentiated idea.
 
 **Division of labour** = splitting production into specialised tasks. **Advantages:** higher output per worker, faster skill development. **Disadvantages:** worker boredom, over-specialisation risk (a business or worker becomes vulnerable if that one task is no longer needed). The specification requires **both** — don't give advantages only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
 
 ## Business costs, revenues and profit (1.2.3)
 
@@ -58,6 +80,12 @@ Profit        = 50,000 - 35,000 = $15,000
 Average total cost = 35,000 / 1,000 = $35 per unit
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
+
 ## Economies and diseconomies of scale
 
 Revise as **one LRAC-curve story**: average costs fall (economies of scale), reach a minimum (most efficient point), then rise again (diseconomies) as a business grows too large.
@@ -69,6 +97,12 @@ Revise as **one LRAC-curve story**: average costs fall (economies of scale), rea
 | **Diseconomies of scale** | Growing **too large** | Bureaucracy, communication problems, lack of control, distance between management and workers |
 
 **Keep internal and external in two separate lists** — internal comes from the firm's own size regardless of location; external comes from the whole industry's location and benefits every firm there, not just the growing one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
+</figure>
+
 
 ## Worked example: internal vs. external economies
 
@@ -83,6 +117,12 @@ External:  the manufacturer benefits from the region's skilled-labour
            WHOLE INDUSTRY is clustered, benefiting every firm there.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
+
 ## Worked example: converting between total and average
 
 A firm's average total cost is $18 per unit at an output of 2,500 units. Find its total costs, and its profit if it sells all output at $25 per unit.
@@ -94,6 +134,12 @@ Profit = total revenue - total costs = 62,500 - 45,000 = $17,500
 ```
 
 Being able to move fluently in **either direction** between total and average figures -- not only from total to average, as in the first worked example, but also from average back to total, as here -- is exactly the kind of flexible calculation this sub-topic tests, since exam questions vary which figures they give and which they ask you to find.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-production-costs-revision-notes--01-average-to-total-area.webp" width="900" height="920" alt="A rectangle 2,500 units wide. The lower part, 18 dollars high, is total costs of 45,000 dollars. The upper strip, 7 dollars high, is profit of 17,500 dollars. The whole rectangle, 25 dollars high, is total revenue of 62,500 dollars." loading="lazy">
+  <figcaption>Average cost times units gives total cost; price times units gives revenue; the gap is profit.</figcaption>
+</figure>
+
 
 ## Why this content matters beyond 1.2.3 itself
 

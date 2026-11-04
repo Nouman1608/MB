@@ -49,6 +49,22 @@ Neutrons  = mass number - atomic number
 
 **Isotopes** — atoms of the **same element** (same atomic number/protons) with **different neutron numbers** (different mass number).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--03-atom-symbol.webp" width="900" height="870" alt="The sodium-23 symbol: 23 on top is the mass number (protons plus neutrons) and 11 below is the proton number. Rows of particles show 11 protons, 12 neutrons and 11 electrons." loading="lazy">
+  <figcaption>Mass number minus proton number gives neutrons; electrons equal protons in an atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
+
+
 ## Worked example: finding sub-atomic particles
 
 Chlorine, ³⁵₁₇Cl (mass number 35, atomic number 17):
@@ -65,9 +81,36 @@ An isotope ³⁷₁₇Cl has the same 17 protons/electrons but 37 − 17 = **20 
 
 Shells fill **2, 8, 8** (with exceptions from element 19 onwards). **Group number (1–7) = number of outer-shell electrons.** Sodium (2,8,1) is Group 1 with one outer electron. **Group 0 (noble gases)** are unreactive — stable outer shells (8 outer electrons, except helium with 2). Other groups react to achieve a noble-gas-like stable arrangement — the logic behind ionic and covalent bonding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table--03-group-0-full-outer-shells.webp" width="900" height="810" alt="Shell diagrams of helium (2), neon (2,8) and argon (2,8,8) under a Group 0 label. Each has a full outer shell, 2 electrons for helium and 8 for neon and argon, which is a stable arrangement; other atoms react to get one like it." loading="lazy">
+  <figcaption>Group 0 elements have full outer shells, which makes them unreactive.</figcaption>
+</figure>
+
+
 ## States of matter (3.1.1)
 
 Solid → liquid → gas as particles gain energy and move further apart, overcoming the forces holding them together. **Diffusion** experiments (e.g. bromine vapour spreading through air; ammonia and HCl gases meeting to form a white ring of ammonium chloride) are used as **evidence** of constant, random particle motion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--01-three-states.webp" width="900" height="990" alt="Three boxes compare the states. Solid particles are closely packed in a regular grid and vibrate in place. Liquid particles are close but irregular and slide past each other, filling the bottom of a container. Gas particles are far apart and move fast in all directions, filling their container." loading="lazy">
+  <figcaption>Arrangement, spacing and movement of particles explain the properties of solids, liquids and gases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table--07-diffusion-bromine-kmno4.webp" width="900" height="990" alt="Bromine vapour spreads up through a gas jar of air, and a purple potassium manganate(VII) crystal spreads through water, because particles move randomly from crowded to spread out." loading="lazy">
+  <figcaption>Diffusion in a gas and in a liquid is evidence for random particle motion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--06-ammonia-hcl-tube.webp" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
+  <figcaption>Lighter ammonia travels further, so the white ring forms nearer the hydrogen chloride end.</figcaption>
+</figure>
+
 
 ## Worked example: electron structure and group number
 
@@ -88,6 +131,17 @@ This shell-filling method (2, then 8, then the remainder) works directly for all
 ## Why noble gases explain reactivity elsewhere
 
 The specification frames Group 0's stability as the *reason* other groups react the way they do, not as an isolated fact about one group. Group 1 elements (one outer electron) react by losing that single electron to achieve a noble-gas-like full outer shell; Group 7 elements (seven outer electrons) react by gaining one electron for the same reason. Understanding this underlying "drive toward a stable outer shell" is what makes ionic bonding (covered in the next topic) make sense as a consequence of atomic structure, rather than a separate, unconnected rule to memorise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
 
 ## Key terms
 

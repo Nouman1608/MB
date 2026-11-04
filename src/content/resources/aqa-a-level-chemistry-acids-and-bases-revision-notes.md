@@ -67,11 +67,23 @@ Use Kw = 1.00 × 10⁻¹⁴ mol² dm⁻⁶ at 298 K unless a question gives anot
 In NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, water is the acid and NH₃ the base going forwards; NH₄⁺ is the acid and OH⁻
 the base going backwards. Name the proton donor and acceptor in **both** directions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--01-conjugate-pairs.webp" width="900" height="890" alt="Water (acid, two H) and ammonia (base, three H) are shown with a gold arrow carrying one proton from water to ammonia. The products are hydroxide (conjugate base, one H) and ammonium (conjugate acid, four H). Members of each conjugate pair differ by exactly one H." loading="lazy">
+  <figcaption>In NH3 + H2O the acid H2O gives a proton to the base NH3; each acid and its conjugate base differ by one H+.</figcaption>
+</figure>
+
+
 ## Kw and temperature
 
 - [H₂O] is effectively constant, so Kw = Kc × [H₂O].
 - Kw increases with temperature, so the dissociation of water is endothermic.
 - At higher temperature, pure water has pH below 7 but is **still neutral**: [H⁺] = [OH⁻].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--03-kw-temperature.webp" width="900" height="980" alt="Two panels show equal bars of H+ and OH- in pure water. At 25 C each is 1.00e-7 and pH is 7.00; at 50 C each is 2.35e-7 and pH is 6.63. The bars are equal in both, so the water is neutral." loading="lazy">
+  <figcaption>Kw rises with temperature, lowering the pH of pure water, but [H+] = [OH-] so it stays neutral.</figcaption>
+</figure>
+
 
 ## Method in steps: pH of a strong acid or strong base
 
@@ -89,6 +101,17 @@ the base going backwards. Name the proton donor and acceptor in **both** directi
 
 Going the other way (Ka from pH): [H⁺] = 10^(−pH), then Ka = [H⁺]² / [HA]. Give Ka with units,
 mol dm⁻³.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--04-strong-weak-acid.webp" width="900" height="900" alt="Two grids of 100 acid particles at 0.100 M. In HCl all 100 are split into ions (pH 1.00). In ethanoic acid only 1 of 100 is split (pH 2.88)." loading="lazy">
+  <figcaption>A strong acid splits almost completely into ions; a weak acid only slightly, even at the same concentration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--05-approximation-fails.webp" width="900" height="1000" alt="A graph of pH against concentration for chloroethanoic acid shows a dashed shortcut line and a solid true line separating as the acid is diluted. At 0.0100 M the shortcut gives 2.43 but the true pH is 2.51." loading="lazy">
+  <figcaption>At 0.0100 M chloroethanoic acid the shortcut implies about 37% dissociation, so [HA] is not unchanged and the true pH is 2.51 (OCR only).</figcaption>
+</figure>
+
 
 ## Method in steps: pH after mixing a strong acid and a strong base
 
@@ -119,6 +142,17 @@ range sits inside the vertical section.
 **Sketching tips**: mark the equivalence volume on the x-axis; show the flat buffer region for a weak acid
 with strong base; the curve levels off as excess base or acid is added.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--06-titration-curves.webp" width="900" height="1090" alt="Four computed curves of pH against base added for 25 cm3 of 0.100 M acid with 0.100 M base. Strong+strong starts at pH 1 and is equivalent at pH 7. Weak acid+strong base starts near 2.9, buffers, and is equivalent near 8.7. Strong acid+weak base is equivalent near 5.3. Weak+weak has no steep section." loading="lazy">
+  <figcaption>Strong or weak acids and bases give curves with different start pH, steep section and equivalence pH.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--07-indicator-choice.webp" width="900" height="1260" alt="For each titration type the steep section is shaded and four indicators are drawn as colour ranges. Only indicators fully inside the shaded section get a tick: all four for strong+strong, phenolphthalein for weak acid+strong base, methyl orange and methyl red for strong acid+weak base." loading="lazy">
+  <figcaption>An indicator is suitable only if its whole colour-change range lies inside the steep section of the curve.</figcaption>
+</figure>
+
+
 ## Required practical 9
 
 - Calibrate a pH meter with buffers of known pH.
@@ -128,6 +162,12 @@ with strong base; the curve levels off as excess base or acid is added.
 - Plot pH against volume. Equivalence is the midpoint of the steep section.
 - Weak acid run: pH at half the equivalence volume = pKa, so Ka = 10^(−pH).
 - Repeat with a strong acid and a weak base.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--09-half-equivalence.webp" width="900" height="880" alt="A computed pH curve for ethanoic acid with NaOH shows the buffer region and equivalence at 25 cm3. At 12.5 cm3 dashed lines show pH 4.76 = pKa, because [HA] = [A-] there." loading="lazy">
+  <figcaption>At half the equivalence volume [HA] = [A-], so pH = pKa and Ka = 10^-pH (practical in all boards).</figcaption>
+</figure>
+
 
 ## Buffers (3.1.12.6)
 
@@ -151,6 +191,12 @@ dyeing, calibrating pH meters.
 2. Added H⁺: HA goes up, A⁻ goes down by the same amount. Added OH⁻: the reverse.
 3. [H⁺] = Ka × moles HA / moles A⁻ (volume cancels).
 4. pH = −log₁₀[H⁺].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--08-buffer-action.webp" width="900" height="940" alt="A beaker holds eight HA and six A- particles (0.200 mol HA, 0.150 mol A-, pH 4.63). Adding a little H+ turns A- into HA and moves pH to 4.58; adding a little OH- turns HA into A- and moves pH to 4.68. Water would fall from 7 to 2.00." loading="lazy">
+  <figcaption>Both HA and A- are plentiful, so adding a little acid or alkali barely changes their ratio or the pH.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

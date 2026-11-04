@@ -72,6 +72,17 @@ Outcome 15.2 says chiral centre(s), so you should be able to spot more than one.
 
 The molecule has **two** chiral centres: CH₃C*HClC*HClCH₂CH₃. The "rest of the molecule" counts as one whole group.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--01-chiral-centre.webp" width="900" height="720" alt="Two ball-and-stick tetrahedral carbons. In 2-hydroxypropanoic acid the central carbon carries four different groups (H, CH3, OH, COOH, four colours), so it is a chiral centre C*. In propan-2-ol the central carbon has two identical CH3 groups, so it is not. Bonds are tetrahedral, 109.5 degrees." loading="lazy">
+  <figcaption>A carbon bonded to four different groups is a chiral centre; two identical groups mean it is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--02-spot-chiral-centre.webp" width="900" height="950" alt="Four skeletal formulae with the tested carbon ringed and its four groups as colour-coded chips. 3-methylhexane C3 (H, CH3, C2H5, C3H7) is chiral; 3-methylpentane C3 has two identical ethyl groups so is not; 2-bromo-2-chlorobutane C2 has no hydrogen but four different groups so is chiral; 2-hydroxypropanoic acid C2 is chiral." loading="lazy">
+  <figcaption>Compare whole groups: two ethyl groups make a carbon achiral, and a chiral carbon need not carry hydrogen.</figcaption>
+</figure>
+
+
 ## 15.2: Drawing optical isomers in 3D
 
 You must be able to draw both enantiomers so that the 3D shape is clear. Use the standard conventions:
@@ -104,6 +115,17 @@ Checks for a good 3D drawing:
 - each group is joined by its correct atom (the C of COOH, not the O, is bonded to the chiral carbon);
 - the second drawing is a true mirror image, not the same molecule redrawn.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--03-enantiomer-drawing.webp" width="900" height="780" alt="Two 3D drawings of 2-aminopropanoic acid either side of a dashed mirror line. Enantiomer A has COOH up, H3C lower left, NH2 on a wedge and H on a hashed bond; B is the reflection with left and right swapped and wedge and hash unchanged. A key explains plain, wedge and hashed bonds." loading="lazy">
+  <figcaption>Draw the second enantiomer by reflecting across a mirror line: left and right swap, wedges stay wedges.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--04-non-superimposable.webp" width="900" height="970" alt="Ball-and-stick models of enantiomer A and its mirror image B. B is turned by a computed rotation so COOH and CH3 coincide with A; then NH2 and H are in each other places, marked with dashed rings and crosses, so B cannot be superimposed on A." loading="lazy">
+  <figcaption>Enantiomers are mirror images that cannot be superimposed: after lining up two groups, the other two are swapped.</figcaption>
+</figure>
+
+
 ## 15.3: Optical activity
 
 Two enantiomers have the same melting temperature, boiling temperature and density. The difference shows up with **plane-polarised light**: light that a polarising filter has restricted to vibrations in one plane. The light used is **monochromatic** (a single wavelength), for example from a sodium lamp, because the angle of rotation depends on the wavelength.
@@ -118,6 +140,17 @@ How the measurement works (a polarimeter):
 
 Under the same conditions (same concentration, path length, solvent, temperature and wavelength), each enantiomer turns the plane through an **equal angle, but in the opposite direction** to the other. One is labelled (+), turning the plane clockwise as you look towards the light source; the other is (−), turning it anticlockwise. You cannot tell which enantiomer is (+) from a 3D drawing alone. The sign has to be measured.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--05-polarimeter.webp" width="900" height="800" alt="A light path: lamp, polariser, tube of sample, analyser, eye. End-on dials show every plane after the lamp, one plane after the polariser, the plane turned clockwise through an angle alpha after the sample, and the analyser turned to the same angle. The angle turned is the angle of rotation. Edexcel specifies monochromatic light." loading="lazy">
+  <figcaption>A polarimeter measures how far an optically active sample turns the plane of plane-polarised light (Edexcel: monochromatic light).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--08-sn1-sn2-evidence.webp" width="900" height="1110" alt="Edexcel only. SN1: one enantiomer of 3-chloro-3-methylheptane loses chloride to a planar carbocation; OH minus attacks either face, giving both enantiomers 1:1, a racemate with no rotation. SN2: hydroxide attacks 2-iodohexane from the side opposite iodine; the other three groups flip and a single inverted enantiomer forms, which is optically active." loading="lazy">
+  <figcaption>No rotation points to a planar intermediate (SN1); a single inverted enantiomer that rotates points to SN2 (Edexcel only).</figcaption>
+</figure>
+
+
 ## 15.4: Racemic mixtures
 
 A **racemic mixture** (a racemate) is a mixture containing **equal amounts of the two enantiomers** of a compound. It is **not optically active**: each (+) molecule's rotation is cancelled by a (−) molecule's equal and opposite rotation, so the net rotation is zero.
@@ -128,6 +161,12 @@ Do not confuse the two reasons for "no rotation":
 - an achiral compound (no chiral centre) has no optical isomers at all, so it never rotates the plane.
 
 The reading is zero in both cases; only the structure tells them apart.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--06-racemate-cancels.webp" width="900" height="720" alt="Three tubes: one enantiomer rotates the plane clockwise by 25 degrees, its mirror image anticlockwise by 25 degrees, and a 1:1 racemate gives zero because the equal and opposite rotations cancel. Every molecule in the racemate is still chiral." loading="lazy">
+  <figcaption>Equal amounts of the two enantiomers give equal and opposite rotations, so a racemate shows no net rotation.</figcaption>
+</figure>
+
 
 ## 15.5: Optical activity as evidence for mechanisms
 
@@ -165,6 +204,12 @@ Secondary halogenoalkanes such as 2-iodohexane can react by either route, which 
 
 In aldehydes and ketones the carbonyl carbon is trigonal planar. In the addition of HCN (with KCN present), the cyanide ion attacks the carbonyl carbon. It can approach from **either side of the plane** with equal probability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--07-racemate-formation.webp" width="900" height="1030" alt="Propanal has a trigonal planar carbonyl carbon drawn as a flat sheet. CN minus can attack from above or below, each 50 percent likely. Attack from the front gives 2-hydroxybutanenitrile with CN on a wedge; from the back, CN on a hashed bond. The two products are mirror images in equal amounts: a racemate. The same logic applies to Br minus attacking the planar carbocation from HBr and an alkene (AQA, OxfordAQA)." loading="lazy">
+  <figcaption>A planar carbon is attacked equally from both faces, so a chiral product forms as a 1:1 racemate.</figcaption>
+</figure>
+
+
 ### Worked example 6: HCN with 5-methylhexan-2-one
 
 5-methylhexan-2-one, CH₃COCH₂CH₂CH(CH₃)₂, reacts with HCN in the presence of KCN. The product is 2-hydroxy-2,5-dimethylhexanenitrile, CH₃C(OH)(CN)CH₂CH₂CH(CH₃)₂. Predict and explain whether the product is optically active.
@@ -175,6 +220,12 @@ In aldehydes and ketones the carbonyl carbon is trigonal planar. In the addition
 4. The product is **not optically active**. This fits a mechanism with attack on a planar carbonyl group.
 
 Compare 2,6-dimethylheptan-4-one, (CH₃)₂CHCH₂COCH₂CH(CH₃)₂. Its HCN product has two identical 2-methylpropyl groups on the new carbon, so it has no chiral centre at all. Optical data could not give evidence about the mechanism for that ketone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--09-stereospecific-enzyme.webp" width="900" height="750" alt="Two enzyme active sites with three pockets (circle, triangle, square). Enantiomer A fits all three. Its mirror image B can match only one pocket, whichever way it is turned, so only one group fits. The fourth group, H, points away. A racemate drug therefore has only half its molecules able to fit." loading="lazy">
+  <figcaption>An active site fits only one enantiomer, so only that enantiomer binds (AQA only).</figcaption>
+</figure>
+
 
 ### Summary of the evidence
 

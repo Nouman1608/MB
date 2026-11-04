@@ -54,9 +54,21 @@ Then test yourself with the [practice questions](/resources/a-level-biology-9700
   - **rRNA:** different base sequences.
   - **Cell walls:** Bacteria have peptidoglycan; Archaea do not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--02-three-domains.webp" width="900" height="1020" alt="A tree splits an ancestor into Bacteria, Archaea and Eukarya. Bacteria and Archaea are cells with no nucleus: Bacteria have a peptidoglycan wall and ester lipids, Archaea no peptidoglycan and ether lipids, with different rRNA. Eukarya holds four kingdoms. Viruses sit outside, classified only by nucleic acid." loading="lazy">
+  <figcaption>Three domains of cells, with viruses outside them (Cambridge only).</figcaption>
+</figure>
+
+
 ### Hierarchy
 
 Kingdom → phylum → class → order → family → genus → species. Memory aid: "**K**ing **P**hilip **C**ame **O**ver **F**or **G**ood **S**oup".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--01-taxonomic-hierarchy.webp" width="900" height="1115" alt="A tree with eight ranks from domain to species for cat, lion, bear and frog. All share Eukarya, Animalia and Chordata; the frog splits at class, the bear at family, and cat and lion split only at genus. The cat is written Felis catus with a capital genus." loading="lazy">
+  <figcaption>Each rank sits wholly inside the one above, and closer relatives share more ranks.</figcaption>
+</figure>
+
 
 ### Kingdoms at a glance
 
@@ -103,6 +115,12 @@ Not in any domain. Classified by **nucleic acid** (DNA or RNA) and **strands** (
 3. Add the squares.
 4. Subtract the total from 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+</figure>
+
+
 ### Method in steps: Spearman's rank
 
 1. State the null hypothesis: there is no correlation between the two variables.
@@ -110,6 +128,12 @@ Not in any domain. Classified by **nucleic acid** (DNA or RNA) and **strands** (
 3. Find D for each pair and square it; add to get ΣD².
 4. Substitute into the formula.
 5. Compare the size of rₛ with the critical value at p = 0.05. If larger, the correlation is significant; reject the null hypothesis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--07-spearman-correlation.webp" width="900" height="1050" alt="A scatter of eight quadrats shows moss cover falling as light rises, with a downward trend line. On a scale from -1 to +1, rs = -0.952 lies beyond the critical value 0.738 for n = 8 at p = 0.05, so the negative correlation is significant, but it does not show cause." loading="lazy">
+  <figcaption>A significant negative correlation, which still does not prove cause.</figcaption>
+</figure>
+
 
 ### Must-know distinctions
 
@@ -123,6 +147,12 @@ Not in any domain. Classified by **nucleic acid** (DNA or RNA) and **strands** (
 
 No births, deaths, immigration or emigration between samples; marks not lost and not harmful; marked individuals mix randomly back into the population; marking does not change the chance of recapture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
+</figure>
+
+
 ### Quadrat measures
 
 - **Species frequency** = percentage of quadrats in which the species is present. Quick, but ignores how many individuals there are.
@@ -133,6 +163,12 @@ No births, deaths, immigration or emigration between samples; marks not lost and
 
 Given n = 6, Σxy = 420, x̄ = 5, ȳ = 12, sₓ = 2, sᵧ = 6.5:
 r = (420 − 6 × 5 × 12) / (5 × 2 × 6.5) = 60 / 65 = 0.923 (3 s.f.), a strong positive correlation. Always check that r lies between −1 and +1; a value outside that range means a slip.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1210" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">
+  <figcaption>Proportion of polymorphic loci = polymorphic loci / total loci.</figcaption>
+</figure>
+
 
 ## 18.3 Conservation
 
@@ -151,6 +187,12 @@ Ethical; ecosystem services (pollination, nutrient cycling, clean water, soil); 
 - **National parks and marine parks:** protect whole habitats in place; restrict harmful activities.
 - **Frozen zoos:** gametes, embryos and tissue in liquid nitrogen.
 - **Seed banks:** seeds dried and stored cold; germination tested and stocks regrown.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
+</figure>
+
 
 ### Assisted reproduction (mammals)
 
@@ -194,6 +236,12 @@ Control because they compete with, prey on, spread disease to or hybridise with 
 10. When the data are continuous, normally distributed, and a scatter graph suggests a linear relationship.
 11. Store gametes, embryos or tissue samples in liquid nitrogen; keep genetic diversity for future IVF or embryo transfer.
 12. It controls international trade in endangered species and their products.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

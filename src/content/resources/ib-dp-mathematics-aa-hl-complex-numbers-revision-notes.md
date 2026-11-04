@@ -46,6 +46,12 @@ When you are ready, test yourself with the [complex numbers practice questions](
 - **Complex plane** (Argand diagram): z = a + bi is plotted at (a, b).
 - **Equality**: a + bi = c + di means a = c **and** b = d.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-complex-numbers--01-complex-plane.webp" width="900" height="1033" alt="Argand diagram with the point z = 3 - 4i, showing Re z = 3, Im z = -4 with dashed lines, the modulus |z| = 5 as the arrow length and the argument about -0.93 radians. The conjugate 3 + 4i is the mirror image in the real axis." loading="lazy">
+  <figcaption>Re, Im, modulus, argument and conjugate of z = 3 - 4i on the complex plane.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Form |
@@ -97,6 +103,17 @@ When you are ready, test yourself with the [complex numbers practice questions](
 3. Equate real parts (for cos nθ) or imaginary parts (for sin nθ).
 4. Replace s² with 1 − c², or c² with 1 − s², as needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-complex-numbers--03-argument-quadrant.webp" width="900" height="912" alt="Argand diagram with z = -2 + 2i in the second quadrant. The reference angle is pi/4 and the argument is 3pi/4. A dashed ray shows that arctan(b/a) gives -pi/4, which points into the wrong quadrant." loading="lazy">
+  <figcaption>Sketch the point first: arctan(b/a) alone gives the wrong quadrant when a is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-complex-numbers--07-de-moivre-spiral.webp" width="900" height="1066" alt="Argand diagram with a spiral through (1 - i)^k for k = 0 to 10. Each step multiplies the modulus by root 2 and turns clockwise by pi/4. After 10 steps the point is -32i." loading="lazy">
+  <figcaption>De Moivre: each power multiplies the modulus by r and adds theta to the argument.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Product in polar form.** 4 cis(π/3) × 2 cis(π/12) = 8 cis(5π/12).
@@ -127,6 +144,22 @@ When you are ready, test yourself with the [complex numbers practice questions](
 - Points z and iz, with the origin, form a right-angled isosceles triangle. Adding z + iz completes a square.
 - |z − w| is the distance between the points z and w.
 - Conjugate pairs are symmetric about the real axis, so the roots of a real polynomial have a mirror-image pattern.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-complex-numbers--02-adding-parallelogram.webp" width="900" height="960" alt="Argand diagram with z = 3 - 4i and w = 1 + 2i as arrows from the origin. Dashed copies complete a parallelogram whose fourth corner is z + w = 4 - 2i." loading="lazy">
+  <figcaption>The sum of two complex numbers is the fourth corner of a parallelogram, like vector addition.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-complex-numbers--05-conjugate-roots.webp" width="900" height="1018" alt="Argand diagram with the roots of z^3 - 5z^2 + 11z - 15. The roots 1 + 2i and 1 - 2i are mirror images in the real axis and 3 lies on the real axis. The pair has sum 2 and product 5, giving the factor z^2 - 2z + 5." loading="lazy">
+  <figcaption>Roots of a real polynomial come in mirror-image pairs, each pair giving a real quadratic factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-complex-numbers--06-cube-roots-8i.webp" width="900" height="940" alt="Argand diagram with a circle of radius 2. The three roots of z^3 = 8i, root3 + i, -root3 + i and -2i, are 2pi/3 apart and form an equilateral triangle centred on the origin." loading="lazy">
+  <figcaption>The n-th roots of a complex number are equally spaced on a circle and form a regular n-gon.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -169,6 +202,12 @@ When you are ready, test yourself with the [complex numbers practice questions](
 10. −2i is also a root, so (z − 1)(z² + 4) = **z³ − z² + 4z − 4**.
 11. |2 + i|⁴ = (√5)⁴ = **25**.
 12. **A rotation of π/2 anticlockwise about the origin** (the modulus is unchanged).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-complex-numbers--04-multiply-scale-turn.webp" width="900" height="877" alt="Argand diagram with z1 = 6 cis(5pi/6) and z2 = 2 cis(pi/3). The product 12 cis(7pi/6) is z1 enlarged by factor 2 and turned anticlockwise by pi/3. It equals 12 cis(-5pi/6) in the range -pi &lt; theta &lt;= pi." loading="lazy">
+  <figcaption>Multiplying by r cis theta scales by r and turns anticlockwise by theta.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

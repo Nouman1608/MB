@@ -41,6 +41,17 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 
 **Electron flow:** electrons move through the external wires. Inside the electrolyte the current is carried by moving ions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--02-free-ions.webp" width="900" height="910" alt="Four panels compare solid ionic, molten ionic, ionic in water and covalent substances. Only the molten and dissolved ionic ones have free ions, so only they conduct and can be electrolysed." loading="lazy">
+  <figcaption>Electrolysis needs free-moving ions: molten or dissolved ionic compounds, never solids or covalent substances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode (Extended), with the two half-equations." loading="lazy">
+  <figcaption>Ions carry charge through the melt and electrons through the wires; lead forms at the cathode and bromine at the anode.</figcaption>
+</figure>
+
+
 ## Half equations (3.3.2 f)
 
 Method in steps:
@@ -62,6 +73,12 @@ Method in steps:
 | Anode | OH⁻ (from water) | 4OH⁻ → O₂ + 2H₂O + 4e⁻ |
 
 **Quick check:** total charge on the left must equal total charge on the right. For 2O²⁻ → O₂ + 4e⁻: left is 4–, right is 0 + 4– = 4–.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-electrolysis--11-half-equation-steps.webp" width="900" height="870" alt="Three steps for half equations and three worked cases, Ni2+ + 2e- to Ni, 2O2- to O2 + 4e-, Al3+ + 3e- to Al, each with the charge totals either side shown equal. " loading="lazy">
+  <figcaption>Write ion and product, balance atoms, then add electrons so the charges match.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -97,6 +114,12 @@ Water adds H⁺ and OH⁻ ions to every aqueous electrolyte.
 | Silver nitrate | Silver | Oxygen |
 | Concentrated sodium bromide | Hydrogen | Bromine |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen (Extended)." loading="lazy">
+  <figcaption>Hydrogen forms unless the metal is below it in reactivity; a halide is discharged only if concentrated, otherwise oxygen forms.</figcaption>
+</figure>
+
+
 ## Required practical: copper sulfate solution
 
 **Set-up:** two clean carbon rods in copper sulfate solution, connected to a low-voltage direct-current supply. Weigh the cathode before and after.
@@ -121,6 +144,17 @@ Water adds H⁺ and OH⁻ ions to every aqueous electrolyte.
 - Clean the electrodes with emery paper first so the copper sticks evenly.
 - A conclusion should link each observation to a product: coating means copper, relit splint means oxygen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-electrolysis--01-cathode-mass-anomaly.webp" width="900" height="910" alt="Graph of cathode mass gained against time with a 0.03 g per minute trend line. Points at 0, 4, 8 and 16 minutes lie on the line; the 12 minute point is 0.31 g instead of 0.36 g and is the anomaly. A steady gain shows copper is deposited." loading="lazy">
+  <figcaption>The 12-minute reading (0.31 g) is anomalous; every other point follows 0.03 g per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
+</figure>
+
+
 ## Electroplating (3.3.2 h)
 
 | Part | What it is |
@@ -133,6 +167,12 @@ Water adds H⁺ and OH⁻ ions to every aqueous electrolyte.
 - Cathode: metal ions gain electrons and coat the object.
 - The concentration of the electrolyte stays roughly constant.
 - Reasons: **appearance**, **durability**, **prevention of corrosion**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--06-electroplating.webp" width="900" height="930" alt="A spoon hangs from the negative terminal as the cathode and a silver bar is the anode in silver ion solution. Silver ions move to the spoon and a thin silver layer builds up while the anode dissolves." loading="lazy">
+  <figcaption>The object to plate is the cathode, the plating metal is the anode, and the electrolyte contains the plating metal ions.</figcaption>
+</figure>
+
 
 ## Aluminium (3.3.2 i)
 
@@ -148,6 +188,17 @@ Water adds H⁺ and OH⁻ ions to every aqueous electrolyte.
 
 **Why the cell is expensive to run:** electricity is needed both to keep the mixture molten and to decompose the oxide, and the carbon anodes are used up and must be replaced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-electrolysis--13-aluminium-mass.webp" width="900" height="740" alt="Four-step calculation from 255 kg Al2O3 to 135 kg Al with a bar splitting 255 kg into 135 kg Al and 120 kg O. " loading="lazy">
+  <figcaption>255 kg of aluminium oxide gives a maximum of 135 kg of aluminium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+</figure>
+
+
 ## Sodium chloride solution (3.3.2 j)
 
 | Where | Product | Reason |
@@ -157,6 +208,17 @@ Water adds H⁺ and OH⁻ ions to every aqueous electrolyte.
 | Solution | Sodium hydroxide | Na⁺ and OH⁻ ions remain |
 
 Uses: sodium hydroxide for **soap**; chlorine for **bleach** and **plastics**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-electrolysis--12-brine-products-uses.webp" width="900" height="770" alt="Brine cell with H2 at the cathode and Cl2 at the anode; Na+ and OH- left in solution make NaOH solution used for soap; chlorine used for bleach and plastics. " loading="lazy">
+  <figcaption>Na+ and OH- stay behind, so brine electrolysis leaves sodium hydroxide solution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--04-aqueous-worked.webp" width="900" height="1290" alt="Two cells with gas tubes over each electrode. Concentrated sodium chloride gives hydrogen at the cathode and chlorine at the anode. Dilute sulfuric acid gives hydrogen and oxygen in a 2:1 volume ratio. Half-equations are Extended." loading="lazy">
+  <figcaption>Concentrated NaCl gives H2 and Cl2; dilute H2SO4 gives H2 and O2 in the ratio 2 : 1.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -45,6 +45,12 @@ Test yourself with the [practice set](/resources/ib-dp-biology-dna-replication-m
 
 Method: fraction with an original strand = 2 ÷ 2ⁿ for a starting double helix.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--02-base-pairing-fork.webp" width="900" height="830" alt="At a replication fork helicase breaks hydrogen bonds so the two old strands act as templates. Free nucleotides pair with the exposed bases, A with T and G with C, and DNA polymerase joins them into a new strand. The template 3′ TACGGA 5′ gives the new strand 5′ ATGCCT 3′. Each daughter molecule has one old and one new strand." loading="lazy">
+  <figcaption>The template fixes the new sequence: helicase opens the helix and DNA polymerase pairs and joins nucleotides.</figcaption>
+</figure>
+
+
 ## PCR and gel electrophoresis (D1.1.4, D1.1.5)
 
 | Item | Role |
@@ -68,6 +74,17 @@ Ideal copies after n cycles = 2ⁿ.
 Key facts: DNA is negatively charged (phosphate groups), so it moves towards the positive electrode. Smaller fragments move further.
 
 **DNA profiling** uses amplified variable markers. Uses: forensics, paternity. More markers = smaller chance of a false match; multiply the individual match probabilities for independent markers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--04-pcr-cycle.webp" width="900" height="1010" alt="A temperature-time graph for three PCR cycles shows three repeating steps: about 95 °C where strands separate, 55 to 60 °C where primers bind, and 72 °C where Taq polymerase extends the primers. The copy number doubles every cycle, 1, 2, 4, 8, so 25 cycles give an ideal 2^25 = 33,554,432 copies." loading="lazy">
+  <figcaption>Each cycle heats, cools and extends, doubling the target DNA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--05-gel-electrophoresis.webp" width="900" height="940" alt="DNA is loaded into wells at the negative end of a gel and moves towards the positive electrode, with small fragments travelling further. Ladder bands of 1000, 500 and 250 base pairs are at 12, 22 and 32 mm. A semi-log graph through these points shows a sample band at 27 mm lies at about 350 base pairs: 500 x 2^(-5/10) = 354." loading="lazy">
+  <figcaption>A ladder calibrates distance against fragment size, so a band at 27 mm is about 350 bp.</figcaption>
+</figure>
+
 
 ## Detail of replication (HL only: D1.1.6 to D1.1.9)
 
@@ -94,6 +111,17 @@ Key facts: DNA is negatively charged (phosphate groups), so it moves towards the
 2. Time = length per fork ÷ speed.
 3. Convert seconds to minutes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--01-semi-conservative.webp" width="900" height="912" alt="A DNA molecule with two heavy strands replicates four times in light medium. Each round every strand is kept and paired with a new light strand, giving 1, 2, 4, 8 and 16 molecules. Only the two original heavy strands remain, so two of the 16 molecules are hybrids and 14 are light only. The hybrid fraction is 2/16 = 1/8 = 12.5%." loading="lazy">
+  <figcaption>Old strands are never destroyed, so only 2 of 16 molecules after 4 rounds contain a heavy strand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--03-leading-lagging.webp" width="900" height="1200" alt="A replication fork moves to the right with helicase at the junction. New DNA is made only 5′ to 3′. The leading strand is built continuously towards the fork from one RNA primer. The lagging strand is built away from the fork as Okazaki fragments, each with its own RNA primer made by primase. DNA polymerase III extends the primers, DNA polymerase I replaces RNA primers with DNA and DNA ligase seals the gaps." loading="lazy">
+  <figcaption>Leading strand continuous, lagging strand in Okazaki fragments; five enzymes numbered as in the prokaryotic system.</figcaption>
+</figure>
+
+
 ## Gene mutations (D1.3.1 to D1.3.3)
 
 | Mutation | Description | Typical effect |
@@ -113,6 +141,17 @@ Key facts: DNA is negatively charged (phosphate groups), so it moves towards the
 2. Look up both amino acids.
 3. Same amino acid: silent. Different: missense. Stop: nonsense.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--06-mutation-types.webp" width="900" height="1130" alt="The normal mRNA AUG CAU GGU ACU UAA codes Met, His, Gly, Thr, stop. A silent substitution CAU to CAC still codes His. A missense change GGU to UGU gives Cys. A nonsense change UGG to UGA makes a stop codon. Inserting G after CAU shifts the reading frame to Met, His, Gly, Tyr, Leu and onwards. Deleting the whole codon CAU gives Met, Gly, Thr, stop with the frame kept." loading="lazy">
+  <figcaption>Substitutions may be silent, missense or nonsense; insertions and deletions not in multiples of three shift the frame.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--08-crispr-cas9.webp" width="900" height="870" alt="A guide RNA with the sequence GAUUACAG pairs with the matching DNA site and directs Cas9 to cut both DNA strands there. If the cut is repaired without a template, bases can be lost, for example GATTACAG becoming GATTCAG, which disables the gene (a knockout). If a template is supplied, the gene can be changed to a chosen sequence, for example GATTACAG becoming GATCACAG." loading="lazy">
+  <figcaption>The guide RNA targets Cas9 to a chosen site; repair either disables the gene or writes in a chosen change.</figcaption>
+</figure>
+
+
 ## Causes, randomness, consequences (D1.3.4 to D1.3.7)
 
 - Causes: unrepaired errors in replication or repair; **mutagens** (chemical examples: nitrous acid; radiation: ultraviolet, X-rays, gamma rays).
@@ -121,6 +160,12 @@ Key facts: DNA is negatively charged (phosphate groups), so it moves towards the
 - **Somatic cells**: not inherited; can cause cancer.
 - Source of variation: mutation creates new alleles; most harmful or neutral for the individual, but essential in the long term for evolution by natural selection.
 - Nature of science: commercial genetic tests give risk information that needs expert interpretation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--07-germ-somatic.webp" width="900" height="930" alt="A mutation in a germ cell passes into a gamete and then into a child, so every cell of the child carries it. A mutation in a body cell is copied only into its descendant cells, here a cluster of four after two divisions. Gametes are unaffected so it is not inherited, but uncontrolled division of mutant body cells can cause cancer." loading="lazy">
+  <figcaption>Germ cell mutations are inherited; somatic mutations are not but can lead to cancer.</figcaption>
+</figure>
+
 
 ## Gene editing and conservation (HL only: D1.3.8 to D1.3.10)
 

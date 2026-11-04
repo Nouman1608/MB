@@ -166,3 +166,9 @@
   position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
   overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
 }
+
+/* Lesson figures (topic diagrams). Images are hosted on img.marlbridge.com. */
+.topic-figure { margin: 2rem 0; }
+.topic-figure img { display: block; width: 100%; height: auto; background: #fff; border: 1px solid rgba(0, 0, 0, 0.12); border-radius: 8px; }
+.topic-figure figcaption { margin-top: 0.5rem; font-size: 0.9rem; line-height: 1.5; color: #475467; }
+.topic-figure .figure-draft-note { display: block; margin-top: 0.25rem; font-style: italic; }

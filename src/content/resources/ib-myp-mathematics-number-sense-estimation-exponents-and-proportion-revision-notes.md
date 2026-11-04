@@ -37,6 +37,22 @@ Quick recall for the **Number** rows of the numerical and abstract reasoning bra
 - **Recurring decimal to fraction, in steps:** let x equal the decimal; multiply by 10 or 100 or 1000 so the recurring tails match; subtract; divide.
 - Worked reminder: x = 0.4545... gives 100x - x = 45, so x = 45/99 = 5/11.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--09-number-sets-nzqr.webp" width="900" height="860" alt="Nested sets inside the real numbers R. N (0, 1, 2, 3, and so on) sits inside Z (the integers), which sits inside Q (rational numbers a over b with b not zero). Q-prime, the irrational numbers, is a separate box; Q and Q-prime together make R. Placement: root 49 equals 7 and 0 are in N; minus 3 is in Z; 22 over 7 and 0.333 recurring, which is one third, are in Q; pi and root 20, which equals 2 root 5, are in Q-prime. Every one of them is in R." loading="lazy">
+  <figcaption>Each example number sits in the smallest set that contains it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--12-absolute-value-distance.webp" width="900" height="730" alt="Two number lines from -8 to 12. On the first, -7 is 7 units from 0, so |-7| = 7. On the second, the points that are 6 units from 2 are 8 and -4, so |x - 2| = 6 gives x = 8 or x = -4. Check: |8 - 2| = 6 and |-4 - 2| = 6." loading="lazy">
+  <figcaption>Absolute value is the distance from a point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
+</figure>
+
+
 ## Factors, primes, GCF, LCM
 
 | Task | Method |
@@ -47,6 +63,12 @@ Quick recall for the **Number** rows of the numerical and abstract reasoning bra
 | Check | GCF × LCM = product of the two numbers |
 
 Worked reminder: 60 = 2² × 3 × 5 and 150 = 2 × 3 × 5². GCF = 2 × 3 × 5 = 30; LCM = 2² × 3 × 5² = 300; 30 × 300 = 9000 = 60 × 150.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
 
 ## Roots, surds and rationalizing
 
@@ -60,6 +82,17 @@ Worked reminder: 60 = 2² × 3 × 5 and 150 = 2 × 3 × 5². GCF = 2 × 3 × 5 =
 Method for simplifying: find the largest square factor, take its root outside, leave the rest inside.
 **enr** Rationalizing: multiply top and bottom by √b (single surd) or by the conjugate (a binomial). 4/√2 = 4√2/2 = 2√2.
 Note: √(a + b) is not √a + √b.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="769" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
+  <figcaption>Multiplying by the conjugate gives a difference of two squares, so the surd disappears.</figcaption>
+</figure>
+
 
 ## Laws of exponents and standard form
 
@@ -78,6 +111,27 @@ Standard form is written a × 10ᵏ, with a between 1 (included) and 10 (exclude
 - To add or subtract, write both with the same power of 10 first.
 - Worked reminder: 5 × 10⁻³ ÷ (2 × 10²) = 2.5 × 10⁻⁵.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-structure-and-calculation--03-standard-form-multiply.webp" width="900" height="1010" alt="The numbers are multiplied (3.2 x 5 = 16) and the powers of 10 are added (4 + -7 = -3), giving 16 x 10^-3. Since 16 is not between 1 and 10 it becomes 1.6 and the power rises by one to -2: 1.6 x 10^-2." loading="lazy">
+  <figcaption>Multiply the numbers, add the powers, then adjust so the front number is between 1 and 10.</figcaption>
+</figure>
+
+
 ## Logarithms (ext)
 
 - log_a x = y means aʸ = x. So log₃ 81 = 4 and log_a 1 = 0.
@@ -85,6 +139,22 @@ Standard form is written a × 10ᵏ, with a between 1 (included) and 10 (exclude
 - To solve aˣ = b: x = log b / log a, evaluated with technology.
 - Worked reminder: 3ˣ = 20 gives x = log 20 / log 3 = 2.73 (3 s.f.).
 - Logarithms and exponents are inverses; this is why logs appear in models of growth and decay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--10-log-inverse-of-power.webp" width="900" height="1000" alt="Graph of y = 2 to the power x (teal, rising steeply through (3, 8)) and y = log base 2 of x (copper, rising slowly through (8, 3)) with the dashed line y = x between them. The two curves are mirror images in that line, so the point (3, 8) swaps to (8, 3). This shows that 2 cubed = 8 means log base 2 of 8 = 3: a logarithm asks what power gives the number." loading="lazy">
+  <figcaption>2 cubed is 8 means log base 2 of 8 is 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--03-log-laws-as-lengths.webp" width="900" height="1040" alt="Two bar panels on a log scale: log 4 + log 25 = log 100 = 2, and 2 log base 3 of 6 minus log base 3 of 4 = log base 3 of 9 = 2." loading="lazy">
+  <figcaption>Adding logs multiplies the numbers; subtracting divides them; a number in front acts as a power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
 
 ## Inequalities on a number line
 
@@ -99,6 +169,22 @@ Standard form is written a × 10ᵏ, with a between 1 (included) and 10 (exclude
 
 **Number sequences:** find the term-to-term difference; if the differences are not constant, look at the differences of the differences. Describe in words, then predict the next terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--01-open-closed-number-line.webp" width="900" height="1110" alt="Four number lines from minus 4 to 4: x &lt; 1 (open circle at 1, shaded left), x at most 1 (closed circle), x &gt; minus 2 (open circle at minus 2, shaded right) and minus 3 at most x &lt; 1 (closed circle at minus 3, open at 1, shaded between). Closed means included, open means excluded." loading="lazy">
+  <figcaption>Closed circles include the value (⩽ ⩾); open circles exclude it (&lt; &gt;).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--03-inequality-number-line.webp" width="900" height="860" alt="Solving minus 5 less than 2x plus 3, at most 11, gives minus 4 less than x, at most 4. An open circle at minus 4 and a closed circle at 4 are joined by a line. The whole-number solutions are minus 3 to 4." loading="lazy">
+  <figcaption>Open circles exclude an end value, closed circles include it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
+  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
+</figure>
+
+
 ## Estimation, rounding and units
 
 - Estimate by rounding each number to 1 s.f. first.
@@ -106,6 +192,22 @@ Standard form is written a × 10ᵏ, with a between 1 (included) and 10 (exclude
 - Do not round in the middle of working. Round once, at the end, to the accuracy the question asks for or the data supports.
 - Conversions: length ×1000 (km to m); area factor is squared (1 m² = 10 000 cm²); volume factor is cubed (1 m³ = 1000 litres); speed km/h to m/s divide by 3.6.
 - Time zones: convert to the departure city's clock, add the duration, then shift by the difference in UTC offsets.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--02-significant-figures.webp" width="900" height="900" alt="The digits of 0.07049 are boxed. The leading zeros are greyed because they never count; counting starts at the 7. The digit after the last kept one decides: 0 and 4 leave it (0.07, 0.070) and 9 rounds up (0.0705)." loading="lazy">
+  <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
+  <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
+</figure>
+
 
 ## Accuracy, errors, bounds
 
@@ -125,6 +227,17 @@ Worked reminder (**ext**): a rectangle is 12 cm by 7 cm, both to the nearest cm.
 
 Commenting on validity: a result is only as accurate as the least accurate measurement used. Say which measurement limits it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--01-bounds-of-a-product.webp" width="900" height="1000" alt="Number lines for length 8.35 to 8.45 and width 5.15 to 5.25, then the area interval from 43.0025 to 44.3625 with 8.4 x 5.2 = 43.68 marked. Filled and open ends show which bound is included." loading="lazy">
+  <figcaption>The lower bound of a product uses both lower bounds and the upper bound uses both upper bounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--02-percentage-error-estimate.webp" width="900" height="900" alt="Two bars to scale: true value 292.2 and estimate 300 from Example 9. The absolute error 7.8 and the percentage error 2.67% are worked in two steps." loading="lazy">
+  <figcaption>Percentage error is the absolute error divided by the true value, times 100.</figcaption>
+</figure>
+
+
 ## Ratio, percentage, proportion and money
 
 | Idea | Method |
@@ -143,6 +256,12 @@ Worked reminder: 300 after a 25% increase means original = 300 ÷ 1.25 = 240.
 Worked reminder (compound interest): 800 at 5% for 3 years gives 800 × 1.05³ = 926.10, so the interest is 126.10. Simple interest would be 800 × 0.05 × 3 = 120.
 
 Worked reminder (inverse proportion): 8 taps fill a tank in 15 minutes. Taps × time is constant at 120, so 10 taps take 120 ÷ 10 = 12 minutes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--05-direct-proportion-line.webp" width="900" height="960" alt="Line y = 7.5x with the points (6, 45) and (14, 105) and dashed guides, with k = 45 / 6 worked beneath." loading="lazy">
+  <figcaption>Direct proportion is a straight line through the origin with gradient k = y / x.</figcaption>
+</figure>
+
 
 ## Number properties and bases
 
@@ -179,6 +298,17 @@ Worked reminder (inverse proportion): 8 taps fill a tank in 15 minutes. Taps × 
 10. k = 36; y = 36/10 = **3.6**.
 11. 81^(3/4) = 3³ = **27**; log₂ 32 = **5**.
 12. **19.5 ≤ length < 20.5** cm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--11-base-two-conversion.webp" width="900" height="980" alt="Divide 45 by 2 repeatedly: 45 over 2 is 22 remainder 1, 22 over 2 is 11 remainder 0, 11 over 2 is 5 remainder 1, 5 over 2 is 2 remainder 1, 2 over 2 is 1 remainder 0, and 1 over 2 is 0 remainder 1. Read the remainders from the bottom upwards to get 101101. Placed under the base 2 place values 32, 16, 8, 4, 2, 1, the ones are at 32, 8, 4 and 1, and 32 + 8 + 4 + 1 = 45." loading="lazy">
+  <figcaption>Divide by 2, read the remainders upwards: 45 = 101101 in base 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-number-sense-estimation-exponents-and-proportion--04-base-five-blocks.webp" width="900" height="850" alt="Block picture of 234 in base 5: two 5 by 5 grids (50), three bars of five (15) and four units (4), totalling 69." loading="lazy">
+  <figcaption>Each base 5 column is worth five times the column to its right.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

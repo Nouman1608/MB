@@ -85,6 +85,12 @@ Start from the two results you know, then let the test mass cancel.
 
 This shows that g depends only on the source mass M and the distance r. It also explains why every freely falling object near a planet has the same acceleration, whatever its mass, when air resistance is ignored.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--05-orbit-kepler-third.webp" width="900" height="1210" alt="A satellite on a circular orbit has gravity as its centripetal force. Equating GMm/r2 with mv2/r cancels m and gives v = root(GM/r), then T2 = (4pi2/GM) r3. A graph of T2 against r3 for Earth satellites is a straight line through the origin, passing through the 24 hour point." loading="lazy">
+  <figcaption>Gravity supplies the centripetal force, so v and T depend only on M and r, giving T2 proportional to r3.</figcaption>
+</figure>
+
+
 ## How g changes with distance
 
 Because g ∝ 1/r², a table of ratios is often quicker than a calculation.
@@ -99,6 +105,12 @@ Because g ∝ 1/r², a table of ratios is often quicker than a calculation.
 
 The same inverse square pattern applies to the force between two masses. For a planet of radius R, r = R is the surface and r = 2R is a height of one radius above the surface. Mistaking one for the other is a very common slip.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--04-area-under-force-graph.webp" width="900" height="1050" alt="A graph of the force on a 1000 kg probe near Mars against distance. The shaded area under the inverse-square curve is the work done, m times the change in potential, 8.42 x 10^9 J. Four trapezia give 8.9 x 10^9 J, an overestimate." loading="lazy">
+  <figcaption>Area under F against r equals the work done, m x change in potential; trapezia overestimate for this curve.</figcaption>
+</figure>
+
+
 ## Field line sketches
 
 | Situation | Lines |
@@ -108,6 +120,12 @@ The same inverse square pattern applies to the force between two masses. For a p
 | Small region near the surface | Parallel, equally spaced, pointing down: approximately uniform field |
 
 Never let lines cross. Always include arrowheads.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--01-field-lines.webp" width="900" height="1230" alt="A planet has radial field lines pointing to its centre, closer together nearer the planet. Zooming in at the surface shows parallel, equally spaced lines, a uniform field. For two equal masses (OCR only) the lines curve towards each mass and never cross, and g is zero midway." loading="lazy">
+  <figcaption>Radial lines get closer as g gets stronger; near the surface they are parallel; two masses give a point where g = 0.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -154,6 +172,17 @@ M = gR²/G = 0.30 × (2.0 × 10⁵)² / 6.67 × 10⁻¹¹ = 1.8 × 10²⁰ kg.
 8. The strength of the field: closer lines mean a stronger field.
 9. The lines are almost parallel and equally spaced over that region, because a few metres is tiny compared with the planet's radius, so r barely changes.
 10. No. The two forces are an equal and opposite pair, both of the same magnitude.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--02-inverse-square.webp" width="900" height="1000" alt="The same field lines pass through windows of 1, 4 and 9 unit areas at distances R, 2R and 3R, so the field spreads thinner. For Earth g is 9.81, 2.45 and 1.09 N per kg at R, 2R and 3R." loading="lazy">
+  <figcaption>Double the distance and g falls to a quarter; triple it and g falls to a ninth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--03-g-and-v-graphs.webp" width="900" height="1030" alt="Two graphs for Earth against distance r. g falls from 9.81 N per kg at the surface to 2.45 at 2R and never reaches zero. V rises from -62.5 MJ per kg at the surface towards zero at infinity. The gradient of V at 2R is 2.45 N per kg, the size of g there." loading="lazy">
+  <figcaption>g falls as 1/r2; V = -GM/r rises towards 0; the gradient of the V graph gives g.</figcaption>
+</figure>
+
 
 ## Wording that earns credit in explanations
 

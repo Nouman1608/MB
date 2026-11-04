@@ -56,6 +56,12 @@ Linear conversions apply directly, but **area conversions square the factor** an
 
 Forgetting to square or cube the linear factor is the single most common unit-conversion error in this topic, and it is worth double-checking on every question that involves converting an area or a volume, not just the ones that explicitly say "convert".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--01-unit-conversion.webp" width="900" height="1060" alt="A square metre is drawn as a 10 by 10 grid of 10 cm squares, so 1 m2 is 100 times 100 = 10 000 cm2. A 1 m cube has 10 by 10 grids on its faces, and one small cube is 1 litre (1000 cm3). So 1 m3 = 1 000 000 cm3 = 1000 litres." loading="lazy">
+  <figcaption>Square or cube the conversion factor when converting areas and volumes.</figcaption>
+</figure>
+
+
 ## Area and perimeter
 
 | Shape | Area | Perimeter |
@@ -72,6 +78,17 @@ Area = (1/2) x 9 x 6 = 27 cm^2
 Trapezium: parallel sides 5 cm and 9 cm, height 4 cm
 Area = (1/2)(5 + 9) x 4 = (1/2)(14)(4) = 28 cm^2
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--02-parallelogram-trapezium.webp" width="900" height="810" alt="A parallelogram 8 cm by 5 cm high has a triangle moved from one end to the other to make an 8 by 5 rectangle, so its area is 40 cm2. A trapezium with parallel sides 4 and 8 and height 5, joined to a turned copy, makes a parallelogram of base 12, so its area is half of 12 times 5 = 30 cm2." loading="lazy">
+  <figcaption>Move a triangle to turn a parallelogram into a rectangle, and join two trapeziums to make a parallelogram.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--03-arc-and-sector.webp" width="900" height="1010" alt="A 90 degree sector of radius 6 cm is a quarter of the circle: arc 9.42 cm, area 28.3 cm2. A 110 degree sector of radius 8 cm is 110/360 of the circle: arc 15.36 cm, area 61.4 cm2. Core angles are factors of 360; Extended allows any angle." loading="lazy">
+  <figcaption>Arc length and sector area are the same fraction, angle over 360, of the circumference and the area.</figcaption>
+</figure>
+
 
 ## Circles, arcs and sectors
 
@@ -137,3 +154,19 @@ The same add-or-subtract principle applies to compound **solids** as to compound
 6. Write down the area formula for a trapezium with parallel sides a and b and height h.
 
 **Answers:** 1. 10 000 (100^2), since 1 m = 100 cm. 2. Sector area = (angle / 360) x pi x r^2. 3. The perpendicular height. 4. 360 - 80 = 280 degrees. 5. Subtraction -- subtract the removed piece's area from the whole shape's area. 6. Area = (1/2)(a + b) x h.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--04-compound-shape.webp" width="900" height="830" alt="A 6 by 8 cm rectangle has a semicircle of diameter 6 cm on top. Area is 48 + 14.14 = 62.14 cm2. The perimeter is 8 + 8 + 6 + 3 pi = 31.42 cm; the dashed join line is not an edge." loading="lazy">
+  <figcaption>Split a compound shape into simple shapes for the area, and count only the outside edge for the perimeter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--05-compound-solid.webp" width="900" height="800" alt="A cylinder of radius 3 cm and height 8 cm has a hemisphere of radius 3 cm on top. Cylinder 72 pi = 226.2 cm3; hemisphere is half a sphere, 18 pi = 56.5 cm3. Total 90 pi = 282.7 cm3." loading="lazy">
+  <figcaption>Add the volumes of the simple solids; a hemisphere is half the sphere formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--06-frustum.webp" width="900" height="810" alt="A cone with radius 6 cm and height 12 cm has a similar small cone (radius 2, height 4) cut off its top. The frustum volume is 144 pi minus 16 pi over 3 = 435.6 cm3." loading="lazy">
+  <figcaption>A frustum is a big cone with a similar small cone removed.</figcaption>
+</figure>
+

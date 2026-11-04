@@ -74,6 +74,12 @@ When a link breaks, for example a bonus scheme that still rewards the old produc
 - **Value:** breaks strategy into owned tasks; one person is accountable; spending and progress are tracked; risks are spotted early.
 - **Drawbacks:** costs management time; detailed plans can be inflexible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--03-market-map.webp" width="900" height="836" alt="Scatter of five swimming schools by price and benefits score. Finwise Academy is dearest but scores below two rivals (2.29 pounds per point). No school scores over 8 for under 12 pounds, a possible gap, but a map shows a gap, not demand." loading="lazy">
+  <figcaption>A market map shows close rivals and gaps, but a gap is not proof of demand.</figcaption>
+</figure>
+
+
 ## Network analysis
 
 ### Conventions
@@ -140,6 +146,17 @@ When a new dependency is added, redraw that part of the network and redo both pa
 | Supports just-in-time ordering of inputs | The critical path can change during the project |
 | Becomes a tool to monitor progress | Encourages focus on time over other objectives |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--08-critical-path.webp" width="900" height="1270" alt="Activity network of nine activities and seven nodes showing earliest start and latest finish times, floats (C and H 2, E and F 1) and the critical path A, B, D, G, J of 16 weeks." loading="lazy">
+  <figcaption>The critical path is the zero-float route and sets the minimum project time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--09-force-field.webp" width="900" height="1070" alt="Arrows scaled to scores for driving and restraining forces before and after action: drivers 12 against restrainers 10 (lead 2), then restrainers fall to 7 (lead 5) after a retraining pledge and course." loading="lazy">
+  <figcaption>Weakening restraining forces widens the lead of driving forces.</figcaption>
+</figure>
+
+
 ## Strategic decision making
 
 **Value of strategic planning:** forces analysis before committing resources; gives a shared direction; sets targets to monitor; builds investor and lender confidence. **Weakness:** detailed plans date quickly in fast-changing markets.
@@ -153,6 +170,12 @@ When a new dependency is added, redraw that part of the network and redo both pa
 - change is incremental while the environment shifts sharply
 - weak scanning of customers, technology and competitors
 - leaders protect the strategy they built.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

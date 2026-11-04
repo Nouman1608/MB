@@ -51,6 +51,17 @@ Course hub: [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/). Tic
 
 When you list integers, check each end on its own. For −1 < n ≤ 3 the integers are 0, 1, 2, 3: −1 is out, 3 is in.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-inequalities--06-fractionLines.webp" width="900" height="960" alt="The lines y = (x+4)/3 and y = x - 2 cross at (5, 3); for x at least 5 the second line is above the first, so (x+4)/3 &lt;= x - 2, shown also on a number line." loading="lazy">
+  <figcaption>The fraction inequality solved by comparing two lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--01-open-closed-number-line.webp" width="900" height="1110" alt="Four number lines from minus 4 to 4: x &lt; 1 (open circle at 1, shaded left), x at most 1 (closed circle), x &gt; minus 2 (open circle at minus 2, shaded right) and minus 3 at most x &lt; 1 (closed circle at minus 3, open at 1, shaded between). Closed means included, open means excluded." loading="lazy">
+  <figcaption>Closed circles include the value (⩽ ⩾); open circles exclude it (&lt; &gt;).</figcaption>
+</figure>
+
+
 ## Method in steps
 
 ### Linear inequality (2.8C, both tiers)
@@ -67,6 +78,17 @@ When you list integers, check each end on its own. For −1 < n ≤ 3 the intege
 2. Aim to leave x alone in the middle.
 3. If you divide all three parts by a negative, reverse **both** signs and rewrite in ascending order: −6 < −2x ≤ 4 gives 3 > x ≥ −2, which you write as −2 ≤ x < 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--03-double-inequality-integers.webp" width="900" height="990" alt="Three number lines for −7 ⩽ 3x + 2 &lt; 11. Subtracting 2 from every part gives −9 ⩽ 3x &lt; 9; dividing every part by 3 gives −3 ⩽ x &lt; 3. The integers −3, −2, −1, 0, 1, 2 are marked; 3 has an open circle and is excluded." loading="lazy">
+  <figcaption>Operate on all three parts at once, then check each endpoint separately for integer solutions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--03-inequality-number-line.webp" width="900" height="860" alt="Solving minus 5 less than 2x plus 3, at most 11, gives minus 4 less than x, at most 4. An open circle at minus 4 and a closed circle at 4 are joined by a line. The whole-number solutions are minus 3 to 4." loading="lazy">
+  <figcaption>Open circles exclude an end value, closed circles include it.</figcaption>
+</figure>
+
+
 ### Shading a region (2.8D, both tiers)
 
 1. Replace each inequality sign with = and draw each boundary line.
@@ -76,11 +98,33 @@ When you list integers, check each end on its own. For −1 < n ≤ 3 the intege
 
 The specification says conventions for showing whether a boundary is included are not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-inequalities--07-regionR.webp" width="900" height="900" alt="Lines x = 1, y = x and x + y = 6 with arrows to the allowed side; the triangle with vertices (1,1), (1,5), (3,3) is shaded and labelled R." loading="lazy">
+  <figcaption>Region R shaded and labelled as the wanted region.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="890" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
+  <figcaption>The region is where all the inequalities are true at once.</figcaption>
+</figure>
+
+
 ### Finding the inequalities for a region (2.8E, both tiers)
 
 1. Write the equation of each boundary line.
 2. Choose one point clearly inside the region.
 3. Substitute it into each line's expression to pick the sign.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-inequalities--08-identifyRegion.webp" width="900" height="920" alt="A triangle with vertices (-2,-1), (3,-1), (3,4) and test point (1,0) gives y &gt;= -1, x &lt;= 3 and y &lt;= x + 1." loading="lazy">
+  <figcaption>Reading the inequalities for a given region with a test point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--05-reading-a-region.webp" width="900" height="970" alt="An unshaded triangle with corners (1, 0), (1, 4) and (5, 4). Its edges give x ⩾ 1 (solid, right), y &lt; 4 (broken, below) and y ⩾ x − 1 (solid, above). The test point (2, 3) satisfies all three." loading="lazy">
+  <figcaption>Name each boundary, choose solid or broken, then pick the side that holds the unshaded region.</figcaption>
+</figure>
+
 
 ### Quadratic inequality (Higher tier only)
 
@@ -89,6 +133,17 @@ The specification says conventions for showing whether a boundary is included ar
 3. Sketch the U-shaped graph (for a > 0) through the critical values.
 4. **< 0 or ≤ 0 → between the roots. > 0 or ≥ 0 → outside the roots.**
 5. Write "between" as one double inequality; write "outside" as two inequalities joined by **or**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-inequalities--01-quadratic-inequality-graph.webp" width="900" height="1080" alt="The parabola y = x² − 2x − 15 crosses the x-axis at −3 and 5. Above the axis (outside the roots) gives x &lt; −3 or x &gt; 5; below it (between the roots) gives −3 &lt; x &lt; 5. Both are shown on number lines with open circles." loading="lazy">
+  <figcaption>Read quadratic inequalities from the graph: above the axis is outside the roots, below is between them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-inequalities--02-harder-region-vertices.webp" width="900" height="1040" alt="Region R is bounded by x = 0, the dashed line y = x − 2 and the line 2x + 3y = 12. Its vertices are (0, −2), (0, 4) and (3.6, 1.6); the last is found by solving simultaneously, not read from the grid. The point (3, 3) is outside R." loading="lazy">
+  <figcaption>Region R from x ≥ 0, y &gt; x − 2 and 2x + 3y ≤ 12 has a non-grid vertex at (3.6, 1.6).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -184,6 +239,12 @@ critical values: 1/3 and 2
 - (Higher) Giving x² < 16 as x < 4, or writing x² > 16 as −4 > x > 4.
 - (Higher) Not rearranging to "… 0" before factorising, for example setting each factor of x(x + 4) ≥ 12 against 12.
 - (Higher) Dividing both sides of an inequality by x, which loses solutions when x could be negative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--02-negative-flips-sign.webp" width="900" height="1030" alt="Values of x from minus 5 to 2 are put through minus 2x and compared with 6. Only x greater than minus 3 passes, so −2x &lt; 6 becomes x &gt; −3, shown on a number line with an open circle at minus 3. Dividing by a negative reverses the sign." loading="lazy">
+  <figcaption>Dividing by a negative number reverses the inequality sign, as testing values confirms.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

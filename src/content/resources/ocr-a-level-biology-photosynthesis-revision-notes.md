@@ -49,6 +49,12 @@ The products of one process are the raw materials of the other. When respiration
 
 Magnification = image size ÷ actual size. Convert units first: 1 mm = 1000 µm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--01-chloroplast-structure.webp" width="900" height="1000" alt="A chloroplast drawn as an oval with a double membrane. Three grana of stacked thylakoids are joined by lamellae, and the stroma holds a starch grain, circular DNA and ribosomes. Colour coding shows the light-dependent stage on the thylakoid membranes and the Calvin cycle in the stroma." loading="lazy">
+  <figcaption>Where each part of a chloroplast sits and which stage happens there.</figcaption>
+</figure>
+
+
 ## Pigments and TLC (5.2.1(c))
 
 - Absorption spectrum: light absorbed, plotted across wavelengths. Action spectrum: photosynthetic rate, plotted across wavelengths.
@@ -66,6 +72,17 @@ Magnification = image size ÷ actual size. Convert units first: 1 mm = 1000 µm.
 6. Rf = distance moved by spot ÷ distance moved by front. Compare with reference values.
 
 A pigment with high Rf is more soluble in the mobile phase and moves further. Carotene has the highest Rf of the common leaf pigments.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--02-pigment-spectra.webp" width="900" height="900" alt="Schematic absorption curves for chlorophyll a, chlorophyll b and carotenoids are plotted with an action spectrum over a coloured wavelength strip. The chlorophylls absorb mainly blue and red and little green, and the action spectrum follows the combined absorption. At 450 nm the action spectrum is 78 units and at 550 nm 20 units, 26 percent." loading="lazy">
+  <figcaption>The action spectrum follows the pigments absorption spectra, with low but non-zero rate in green.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--03-chromatography-rf.webp" width="900" height="880" alt="A chromatography strip stands in solvent with a pencil origin and a solvent front 84 mm above it. Four pigment spots at 80, 55, 50 and 42 mm give Rf values 0.95, 0.65, 0.60 and 0.50. Rf has no units and is less than 1." loading="lazy">
+  <figcaption>How Rf is measured from the origin and calculated for each pigment.</figcaption>
+</figure>
+
 
 ## Light-dependent stage (5.2.1(d))
 
@@ -89,6 +106,17 @@ Site: thylakoid membranes. Aim: make ATP and reduced NADP.
 
 Role of water: electron source, proton source, oxygen as by-product.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--04-light-dependent-stage.webp" width="900" height="960" alt="A thylakoid membrane with thylakoid space above and stroma below. Light excites electrons in photosystem II, replaced by photolysis of water, and they pass along the electron transport chain, which pumps protons into the thylakoid space. Electrons reach photosystem I and reduce NADP, while protons flow back through ATP synthase to make ATP." loading="lazy">
+  <figcaption>Where ATP, reduced NADP and oxygen come from on the thylakoid membrane.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--05-cyclic-vs-noncyclic.webp" width="900" height="900" alt="Two panels compare electron routes. Non-cyclic uses PSII and PSI, takes electrons from water and makes ATP, reduced NADP and oxygen. Cyclic uses PSI only, returns electrons to PSI and makes ATP only." loading="lazy">
+  <figcaption>Which products each photophosphorylation route makes.</figcaption>
+</figure>
+
+
 ## Calvin cycle (5.2.1(e) and (f))
 
 Site: stroma. Needs ATP and reduced NADP.
@@ -110,6 +138,17 @@ Site: stroma. Needs ATP and reduced NADP.
 
 **Uses of TP:** carbohydrates (glucose, sucrose, starch, cellulose); lipids; amino acids (with nitrate or another nitrogen source); recycling to RuBP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--06-calvin-cycle.webp" width="900" height="820" alt="The Calvin cycle for three turns: 3 CO2 and 3 RuBP (15C) give 6 GP (18C), reduced to 6 TP. Five TP (15C) regenerate 3 RuBP and one TP leaves. In total 9 ATP and 6 reduced NADP are used, 3 and 2 per CO2." loading="lazy">
+  <figcaption>Counting carbon, ATP and reduced NADP through the Calvin cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--07-gp-rubp-levels.webp" width="900" height="960" alt="Two model graphs. When light is switched off GP rises and RuBP falls. When carbon dioxide is removed RuBP rises and GP falls. Each follows from which reactions still run." loading="lazy">
+  <figcaption>Predicting how GP and RuBP change when light or CO2 is removed.</figcaption>
+</figure>
+
+
 ## Limiting factors and investigations (5.2.1(g))
 
 | Factor low | Rate | GP | TP | RuBP |
@@ -123,6 +162,17 @@ Temperature: rate rises then falls as enzymes denature. Where RuBisCO is the slo
 **Reading a graph.** Where the curve rises, the factor on the x-axis is limiting. Where it is flat, another factor limits. If a second curve at a higher carbon dioxide level goes on rising, carbon dioxide was the limit on the first.
 
 **Practical points:** change one factor at a time, control the others, use a heat shield (tank of water) between the lamp and plant, let the plant adjust to each condition, and repeat for a mean. Percentage error = uncertainty ÷ measured value × 100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--08-limiting-factor-graphs.webp" width="900" height="1180" alt="Top: oxygen release against light intensity rises to 60 units then plateaus, and a higher-CO2 curve plateaus higher, so CO2 limited the first plateau. Bottom: rate against temperature rises 125 percent then 50 percent to 35 degrees and falls 78 percent at 45 degrees as enzymes denature." loading="lazy">
+  <figcaption>Rising parts are limited by the x-axis factor; plateaus mean another factor limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--09-pondweed-practical.webp" width="900" height="1090" alt="Apparatus for the pondweed investigation: a lamp at distance d, a water heat shield, and pondweed in hydrogencarbonate solution releasing oxygen into a capillary. A bar chart shows intensity is proportional to 1/d squared: 1, 0.25 and 0.0625 at 10, 20 and 40 cm." loading="lazy">
+  <figcaption>How moving the lamp changes light intensity in the pondweed practical.</figcaption>
+</figure>
+
 
 ## Short model answers
 

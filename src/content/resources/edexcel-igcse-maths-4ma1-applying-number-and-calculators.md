@@ -102,6 +102,22 @@ mass available = 630 − 75 = 555 kg
 
 He can take **30 boxes**. Had the division given 30.4, the answer would still be 30: in everyday problems, round up or down from the context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
+  <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--02-area-units.webp" width="900" height="1100" alt="A 1 cm square is a 10 by 10 grid of mm squares, so 1 cm squared is 100 mm squared. A 1 m square is 100 by 100 cm squares, 10 000 cm squared, and a shaded 0.6 m square shows 0.36 m squared is 3600 cm squared." loading="lazy">
+  <figcaption>The area factor is the length factor squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--03-volume-capacity.webp" width="900" height="1000" alt="A 10 cm cube is 10x10x10 cubes of 1 cm cubed, so 1000 cm cubed is 1 litre. A 1 m cube is 10x10x10 one-litre cubes, so 1 m cubed is 1000 litres." loading="lazy">
+  <figcaption>1000 cm cubed = 1 litre and 1 m cubed = 1000 litres.</figcaption>
+</figure>
+
+
 ## 1.10 C: Time
 
 ### 12-hour and 24-hour clocks
@@ -140,6 +156,17 @@ A calculator showing 3.35 for a time does **not** mean 3 hours 35 minutes.
 7 h 45 min = 7.75 h
 7.75 × 12.40 = £96.10
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--02-minutes-not-tenths.webp" width="900" height="860" alt="Two one-hour bars compare minutes with decimal hours: 36 minutes is 0.6 h, so 1 h 36 min is 1.6 h; 0.35 h is 21 minutes, so 2.35 h is 2 h 21 min." loading="lazy">
+  <figcaption>Minutes and decimal hours are different scales, so convert by dividing or multiplying by 60.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--03-across-midnight.webp" width="900" height="670" alt="A timeline from 22 00 to 07 00 shows the shift 22 38 to 06 15 split into hops of 22 min, 7 h and 15 min, totalling 7 h 37 min." loading="lazy">
+  <figcaption>Count on to the next whole hour, then whole hours, then the remaining minutes.</figcaption>
+</figure>
+
 
 ## 1.10 C: Money
 
@@ -195,6 +222,27 @@ Check the direction: at this rate the number of euros should be **bigger** than 
 
 It is cheaper in London by **£3.21**. Convert to one currency before comparing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-applying-number-and-calculators--11-electricity-bill.webp" width="900" height="960" alt="Standing charge 92 x 0.48 = 44.16 pounds; units 1240 x 0.265 = 328.60; subtotal 372.76; VAT at 5% by multiplying by 1.05 gives 391.398, so pay 391.40 pounds." loading="lazy">
+  <figcaption>A bill adds standing charge and units, then VAT is added with a x1.05 multiplier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-applying-number-and-calculators--12-best-buy-unit-cost.webp" width="900" height="925" alt="750 g for 2.85 pounds is 7.5 blocks of 100 g, 0.38 pounds per 100 g. 1200 g for 4.40 pounds is 12 blocks, about 0.3667 pounds per 100 g. The 1.2 kg bag is better value." loading="lazy">
+  <figcaption>Compare the price of the same quantity (100 g) to find the better buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-applying-number-and-calculators--13-pounds-euros-direct.webp" width="900" height="850" alt="At 1 pound = 1.16 euros, 350 pounds x 1.16 = 406 euros, and 95 euros / 1.16 = 81.90 pounds. A double scale shows the same money is a bigger number in euros." loading="lazy">
+  <figcaption>One rate converts directly: multiply for pounds to euros, divide to go back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--05-currency-via-euros.webp" width="900" height="960" alt="Two rows of coins show conversions through euros: 440 dollars is 400 euros is 64 000 yen, and a 27 200 yen watch is 170 euros is 187 dollars, 2 dollars more than the 185 dollars in New York." loading="lazy">
+  <figcaption>Convert through the currency you have a rate for, then compare in one currency.</figcaption>
+</figure>
+
+
 ## 1.10 A: Everyday problems
 
 Section 1.10 A asks you to use and apply number in "personal, domestic or community life": multi-step problems such as tariffs, budgets, timetables and ordering materials, where you choose the operations yourself. The method:
@@ -206,6 +254,17 @@ Section 1.10 A asks you to use and apply number in "personal, domestic or commun
 5. Answer the question in words if it asks "which" or "is it enough".
 
 Tariff questions often ask when two options cost the same. Set the totals equal, or find the difference in fixed cost and divide by the difference in rate. You can see this in practice question 9.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--04-tiling-floor.webp" width="900" height="772" alt="A 3.6 m by 2.4 m floor, shown as 360 cm by 240 cm, is covered by 12 by 8 square tiles of side 30 cm. That gives 96 tiles, checked by dividing the areas." loading="lazy">
+  <figcaption>Convert to one unit first, then count 12 x 8 = 96 tiles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">
+  <figcaption>The context, not the digit after the point, decides whether to round up or down.</figcaption>
+</figure>
+
 
 ## 1.11: Using a scientific calculator
 
@@ -223,6 +282,17 @@ Correct key sequence: `( 2.7 + 5.85 ) ÷ ( 1.9 × 0.4 ) =` gives **11.25**.
 
 Typing `2.7 + 5.85 ÷ 1.9 × 0.4 =` gives 3.9315..., because the calculator divides only 5.85 by 1.9. Alternatively, use the fraction template so the whole numerator and denominator sit in their own boxes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-applying-number-and-calculators--09-calculator-brackets.webp" width="900" height="990" alt="(2.7 + 5.85) / (1.9 x 0.4) = 8.55 / 0.76 = 11.25 when keyed with brackets. Without brackets 2.7 + 5.85 / 1.9 x 0.4 gives about 3.93 because only 5.85 is divided by 1.9." loading="lazy">
+  <figcaption>Brackets must be keyed so the whole numerator and denominator are grouped.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
+
 ### Negative numbers and powers
 
 <!-- marlbridge-diagram:math-b44-edexcel-calculator-negative-square-brackets -->
@@ -234,6 +304,12 @@ Typing `2.7 + 5.85 ÷ 1.9 × 0.4 =` gives 3.9315..., because the calculator divi
 
 
 `(−4)²` = 16, but `−4²` = −16 on a calculator, because the square is applied before the minus sign. Always put a negative number in brackets before squaring it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-applying-number-and-calculators--10-negative-squared.webp" width="900" height="910" alt="(-4)^2 puts -4 in brackets, so (-4) x (-4) = 16. -4^2 squares only the 4 to get 16 then applies the minus, giving -16. Bracket a negative before squaring." loading="lazy">
+  <figcaption>Brackets decide whether the minus sign is squared.</figcaption>
+</figure>
+
 
 ### Write down the full display, then round
 
@@ -254,6 +330,22 @@ Use the square-root template over the whole of 15.2² − 6.8², or press `=` an
 - Round only at the end. Rounding 13.594 to 13.6 before dividing gives 5.333..., which is wrong at 4 s.f. (the true value is 5.331).
 - Estimate (section 1.8 D) so you notice a wrong key press: √(15.2² − 6.8²) is a bit less than 15, and 3.4 × 0.75 is about 2.5, so the answer should be a bit under 6. 5.33 fits.
 - Interpret the display in context: 96.1 for money means £96.10; 3.35 for time means 3 h 21 min; 31.104 bags means you need 32.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--06-entering-time.webp" width="900" height="1000" alt="A clock shows 50 minutes as 50/60 of an hour, so 1 h 50 min is 1.8333 h. Dividing 148 by 1 + 50/60 gives 80.7 km/h. Typing 1.50 gives 98.7 and rounding to 1.83 first gives 80.9, both wrong." loading="lazy">
+  <figcaption>Convert minutes by dividing by 60 and keep the full value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--07-dont-round-early.webp" width="900" height="890" alt="A circle has circumference 30 cm, so r = 30 / (2 pi) = 4.774648... cm. Using the full value in A = pi r^2 gives 71.6 cm squared; using the rounded 4.77 gives 71.5, which is wrong." loading="lazy">
+  <figcaption>Carry the full calculator value forward and round only the final answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
 
 ## Common errors
 

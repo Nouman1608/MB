@@ -43,6 +43,12 @@ G1, S and G2 together make up interphase, the period between mitotic divisions.
 - Mitosis: 36 / 360 = 10.0%, so 1.8 hours
 - G1 is 8.1 hours and G2 is 3.15 hours; all four sum to 18.0 hours
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--02-cell-cycle-dna.webp" width="900" height="1100" alt="A ring diagram of G1, S, G2 and M sized from a 500-cell count (53%, 25%, 14%, 8% of a 20 hour cycle) with a graph of DNA per cell: 16 pg in G1, rising to 32 pg in S, level through G2 and mitosis, halving at cytokinesis." loading="lazy">
+  <figcaption>DNA doubles during S phase and halves at cytokinesis.</figcaption>
+</figure>
+
+
 ## 3.2.10.2 Mitosis: one-line summaries
 
 | Stage | One line to remember |
@@ -61,6 +67,17 @@ G1, S and G2 together make up interphase, the period between mitotic divisions.
 5. If in two groups at the ends with nuclei forming, it is telophase.
 
 **Counting reminder.** A cell with 2n = 14: 14 chromosomes in G1; 14 chromosomes (28 chromatids) after S phase; 28 chromosomes moving in anaphase; 14 in each daughter. If a G1 nucleus has 6.0 pg DNA, it has 12.0 pg after S phase and 6.0 pg in each daughter cell.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp" width="900" height="1276" alt="Six drawings of an animal cell with four chromosomes: interphase, prophase, metaphase, anaphase, telophase and cytokinesis, each with a short description. Spindle fibres, centrioles and nuclei are labelled in a key; cytokinesis shows an animal cell pinching in and a plant cell forming a cell plate." loading="lazy">
+  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--05-meiosis-halves-number.webp" width="900" height="1110" alt="A parent cell with four chromosomes in two homologous pairs divides twice. Meiosis I separates the homologous pairs into two haploid cells with double chromosomes; meiosis II separates chromatids into four haploid cells with single chromosomes. DNA per cell goes 4, 2, 1 units." loading="lazy">
+  <figcaption>Meiosis I halves the chromosome number; meiosis II separates chromatids.</figcaption>
+</figure>
+
 
 ## 3.2.10.3 Binary fission and conjugation
 
@@ -101,6 +118,17 @@ G1, S and G2 together make up interphase, the period between mitotic divisions.
 
 A deletion changes the reading frame, so it generally has a larger effect than a substitution. Substitutions can have a large effect too, for example when they create a stop codon.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
+  <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--08-gene-mutation-effects.webp" width="900" height="1090" alt="An mRNA read in codons codes Met, Gly, Leu, Thr, Lys, Pro then stop. A silent substitution leaves the protein unchanged, another changes one amino acid to Val, another makes an early stop codon, and a deletion shifts every codon after it." loading="lazy">
+  <figcaption>Substitutions may change one amino acid or nothing; a deletion changes everything after it.</figcaption>
+</figure>
+
+
 ## 3.2.11.2 Cancers
 
 | | Benign | Malignant |
@@ -136,6 +164,12 @@ A deletion changes the reading frame, so it generally has a larger effect than a
 
 Side effects arise because healthy cells that divide often, such as hair follicle and gut lining cells, are also affected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--09-mutation-to-tumour.webp" width="900" height="1240" alt="A proto-oncogene stimulates division and a tumour suppressor gene slows it. Mutation turns the first into an always-on oncogene and disables the second, so cells double each cycle (1, 2, 4, 8, 16) into a tumour. A benign tumour stays in a capsule; a malignant one invades and spreads through the blood." loading="lazy">
+  <figcaption>Mutations in genes that control division cause uncontrolled division and tumours.</figcaption>
+</figure>
+
+
 ## Required practical 4: root tip squash
 
 | Step | Reason |
@@ -148,6 +182,12 @@ Side effects arise because healthy cells that divide often, such as hair follicl
 Mitotic index: cells in mitosis divided by all cells counted (× 100 for a percentage).
 
 **Worked reminder.** Untreated tip: 48 cells in mitosis out of 380. Index = 48 / 380 = 12.6%. Treated tip: 19 out of 360 = 5.3%. The treated tip has a lower index, so fewer cells were dividing. A reliable comparison needs several fields of view for each tip, with the same total counted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--04-mitotic-index.webp" width="900" height="1232" alt="A grid of 500 root tip cells, one symbol each: 440 interphase and 60 in mitosis (30 prophase, 12 metaphase, 8 anaphase, 10 telophase). A table gives time in a 24 hour cycle for each stage and the mitotic index 60/500 = 12%." loading="lazy">
+  <figcaption>The fraction of cells in a stage equals the fraction of the cycle spent in it.</figcaption>
+</figure>
+
 
 ## Model answer shapes
 
@@ -202,6 +242,12 @@ Mitotic index: cells in mitosis divided by all cells counted (× 100 for a perce
 - Calling every tumour cancerous, instead of separating benign from malignant.
 - Making a claim of cause from risk-factor data that show correlation only.
 - Dividing by the dividing cells only when calculating the mitotic index.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--01-chromosome-structure.webp" width="900" height="1230" alt="A replicated chromosome drawn as two sister chromatids joined at the centromere, with gold telomeres at the four ends. Zooming in, DNA is coiled round histone proteins. A final panel shows a DNA end shortening with each copy: the telomere is used up first and the genes stay intact." loading="lazy">
+  <figcaption>Telomeres are lost from chromosome ends at each replication, so genes are protected.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

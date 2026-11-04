@@ -100,6 +100,27 @@ period of 6,000 s. Its orbital speed:
 v = 2πr/T = 2π × 7,000,000 / 6,000 ≈ 7,330 m/s
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--05-orbital-speed.webp" width="900" height="1030" alt="A satellite on a dashed circular orbit of radius r around Earth, with its velocity tangent to the orbit. One orbit is a distance 2 pi r = 4.4 x 10^7 m, covered in 6000 s, so v = 2 pi r / T is about 7330 m/s." loading="lazy">
+  <figcaption>Orbital speed is the circumference of the orbit divided by the time for one orbit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--05-galaxy-hierarchy.webp" width="900" height="1150" alt="Three panels zoom in from the universe of many galaxies to the Milky Way spiral of billions of stars, with the Solar System marked, then to the Sun with planets on orbits. Not to scale." loading="lazy">
+  <figcaption>The universe contains galaxies; the Solar System sits inside the Milky Way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--06-circular-vs-elliptical-orbit.webp" width="900" height="910" alt="A planet or moon follows an almost circular orbit round the Sun while a comet follows a long ellipse with the Sun at one focus. Gravity on the comet points to the Sun." loading="lazy">
+  <figcaption>Planet and moon orbits are almost circular; comet orbits are much more elongated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--04-elliptical-orbit.webp" width="900" height="990" alt="An ellipse with the Sun at a focus, not the centre. A long arrow at the closest point and a short arrow at the farthest point show the planet is faster when closer. Moving towards the Sun GPE is transferred to KE; moving away KE is transferred to GPE; total energy is constant." loading="lazy">
+  <figcaption>A planet moves faster when closer to the Sun because GPE is transferred to KE.</figcaption>
+</figure>
+
+
 ## Stellar evolution
 
 Stars can be classified by **colour**, which relates directly to their
@@ -127,6 +148,22 @@ different actual distances. The **Hertzsprung-Russell (HR) diagram** plots
 stars by temperature (or colour) against luminosity (or absolute
 magnitude), revealing patterns such as the main sequence band.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--08-hr-diagram-simple.webp" width="900" height="1070" alt="Luminosity against surface temperature (hot on the left). Most stars lie on the main sequence from hot and bright to cool and dim, with the Sun at 5800 K. Red giants are cool and bright, white dwarfs hot and dim. Positions are schematic." loading="lazy">
+  <figcaption>Stars fall into groups on the HR diagram: main sequence, red giants and white dwarfs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--07-apparent-vs-absolute.webp" width="900" height="1040" alt="Two illustrative stars look equally bright from Earth because the brighter one is twice as far. Moved to one standard distance, the brighter star is clearly brighter, which is what absolute magnitude compares." loading="lazy">
+  <figcaption>Absolute magnitude compares stars at a standard distance; apparent brightness depends on distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
+
+
 ## Cosmology and the Big Bang (Physics only)
 
 The **Big Bang theory** proposes the universe originated from an
@@ -149,6 +186,22 @@ change in wavelength / reference wavelength = velocity of galaxy / speed of ligh
 Galaxies at greater distances show greater red-shift, meaning they recede
 faster — direct evidence that the universe is expanding, which is
 consistent with the Big Bang theory.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--06-redshift-calculation.webp" width="900" height="1150" alt="Spectra of one line: 656.3 nm in the lab, 662.9 nm for a galaxy at 1% of c and 682.6 nm for a further galaxy at 4% of c. Using change in wavelength / reference wavelength = v / c gives v = 1.2 x 10^7 m/s for the further galaxy. The numbers are illustrative." loading="lazy">
+  <figcaption>A faster-receding galaxy shows a bigger shift of the same line towards longer wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--07-hubble-constant.webp" width="900" height="910" alt="A straight line through the origin of speed against distance, plotted from H0 = 2.2e-18 per second. A galaxy at 5.3e8 light-years recedes at 1.1e7 m/s. The gradient is H0 = v/d, and 1/H0 is about 1.4e10 years, an estimate of the age of the Universe." loading="lazy">
+  <figcaption>Speed is proportional to distance, and 1/H0 estimates the age of the Universe.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -182,3 +235,9 @@ apparent brightness (brightness as actually observed from Earth)**.
 *Written against the Pearson Edexcel International GCSE in Physics (4PH1)
 specification, Issue 4. Always check the current specification for your
 examination year.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--07-expanding-space.webp" width="900" height="1150" alt="Rows of five galaxies at an earlier time (spacing 100) and later (spacing 150). Arrows from the viewing galaxy get longer for galaxies that were farther away. The same pattern is seen when another galaxy is the viewer, so there is no special centre." loading="lazy">
+  <figcaption>Every galaxy sees the others recede, farther ones faster, with no centre.</figcaption>
+</figure>
+

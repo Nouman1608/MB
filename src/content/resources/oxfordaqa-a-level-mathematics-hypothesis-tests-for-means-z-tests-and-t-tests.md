@@ -64,6 +64,17 @@ Remember the divisor n − 1, not n.
 
 You may compare in either of two ways. Critical region: reject H₀ if the statistic falls beyond the critical value. p-value: reject H₀ if the p-value is less than the significance level. For a two-tailed test at significance level α, each tail has α/2, so compare the one-tail probability with α/2 or double it and compare with α.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--01-p-value-tail-area.webp" width="900" height="960" alt="Bar chart of B(25, 0.2) with the bars for X of 9 or more shaded gold, giving the p-value 0.0468. A number line below shows 0.0468 inside the reject zone below the 5% level, so H0 is rejected." loading="lazy">
+  <figcaption>The p-value is the probability of a result at least as extreme as the one observed, compared with the significance level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--02-two-tail-critical-region.webp" width="900" height="1020" alt="Bar chart of B(40, 0.25) with X at most 5 and X at least 16 in gold as the critical region and 6 to 15 as the acceptance region. Boundary checks 0.0433 and 0.0962, 0.0262 and 0.0544 prove the boundaries, and the actual significance level is 0.0695." loading="lazy">
+  <figcaption>A 2-tail critical region puts at most 5% in each tail, and the actual level is the sum of the two tail probabilities.</figcaption>
+</figure>
+
+
 ## z-test: normal population, known variance
 
 When the population is normal and σ is known, the sampling distribution of X̄ is exactly normal for any n. The test statistic is
@@ -97,6 +108,17 @@ Critical region: x̄ ≤ 249.41 or x̄ ≥ 250.59
 ```
 
 The sample mean 250.7 is in the critical region, so reject H₀. Check with the statistic: z = 0.7/0.36 = 1.944, which is beyond 1.645. The two-tailed p-value is 2 × P(Z > 1.944) = 0.0518, less than 0.10. There is evidence at the 10% level that the mean fill has changed. Note that the same result would not be significant at 5%, because 1.944 is below 1.960.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--04-sample-mean-spread.webp" width="900" height="960" alt="Two normal curves centred on 48: one value X with standard deviation 6 has P(X &gt; 50) = 0.3694, while the mean of 9 values has standard deviation 2 and P(X-bar &gt; 50) = 0.1587. Larger samples cluster more tightly around the population mean." loading="lazy">
+  <figcaption>The sample mean has the same centre as X but a smaller spread, sigma over root n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--05-normal-mean-critical-region.webp" width="900" height="960" alt="Normal curve N(72, 1.5 squared) with the upper 1% tail beyond 75.49 shaded as the critical region. The observed sample mean 75.2 lies outside it, and the p-value 0.0164 is greater than 0.01, so H0 is not rejected." loading="lazy">
+  <figcaption>A sample mean outside the critical region, equivalently a p-value above the level, means H0 is not rejected.</figcaption>
+</figure>
+
 
 ## Large samples: the normal approximation
 
@@ -155,6 +177,17 @@ t = (7.30 − 7.0)/(1.001/√12) = 0.30/0.2889 = 1.038
 
 1.038 lies between −2.201 and 2.201 (two-tailed p-value about 0.32). Do not reject H₀. There is no evidence that the mean pH differs from 7.0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--06-z-versus-t.webp" width="900" height="1130" alt="N(0, 1) and t with 8 degrees of freedom are both symmetric, but t has a lower peak and fatter tails. In the zoomed right tail the one-tail 5% critical value is 1.860 for t compared with 1.645 for z, and cards show it falls towards 1.645 as the degrees of freedom increase." loading="lazy">
+  <figcaption>When sigma is unknown and n is small, t gives larger critical values than z.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--07-testing-correlation.webp" width="900" height="1060" alt="Three scatter diagrams show r about -0.9, about 0 and about +0.9. A number line for H0: rho = 0 against H1: rho &gt; 0 with n = 20 at 5% shows the critical value 0.3783 and the observed r = 0.412 in the reject region." loading="lazy">
+  <figcaption>r above the critical value means evidence of positive correlation in the population.</figcaption>
+</figure>
+
+
 ## Choosing the right test
 
 <!-- marlbridge-diagram:math-b70-oxfordaqa-z-vs-t-test-selection -->
@@ -175,6 +208,12 @@ t = (7.30 − 7.0)/(1.001/√12) = 0.30/0.2889 = 1.038
 ## Type I and Type II errors
 
 A Type I error is rejecting H₀ when H₀ is true. Its probability equals the significance level of the test (for a test with a fixed critical region). A Type II error is accepting H₀ when H₀ is false. You must understand both ideas, but the spec says calculating the risk of a Type II error will not be set.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--03-type-i-and-ii-errors.webp" width="900" height="1060" alt="Two bar charts with critical region X at most 4 or at least 14 for n = 20. If H0 (p = 0.45) is true the chance of rejecting it, a Type I error, is 0.0403. If the true p is 0.7 the chance of keeping H0, a Type II error, is 0.392 (0.762 if the true p is 0.3)." loading="lazy">
+  <figcaption>Type I is rejecting a true H0; Type II is keeping a false H0.</figcaption>
+</figure>
+
 
 ## Common errors
 

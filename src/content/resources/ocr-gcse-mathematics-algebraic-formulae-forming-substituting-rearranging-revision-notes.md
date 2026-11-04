@@ -56,6 +56,12 @@ Reminder: a hire firm charges £18 plus £0.45 per mile. For m miles, C = 18 + 0
 
 Reminder: a frame is x cm wide and (x + 9) cm long. Its perimeter is P = 2(x + x + 9) = 4x + 18.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--04-forming-formula-plumber.webp" width="900" height="810" alt="A bar drawn to scale shows a plumber cost for 3.5 hours. A gold block of 35 pounds is the fixed call-out charge. Three teal blocks of 22 pounds and a half block of 11 pounds follow, with hour marks underneath. The whole bar is 112 pounds. Below, C = 35 + 22h, and with h = 3.5 it gives 35 + 77 = 112." loading="lazy">
+  <figcaption>A fixed charge is a number on its own; a charge per hour is a number multiplied by h.</figcaption>
+</figure>
+
+
 ## 6.02b Substituting
 
 ```
@@ -73,6 +79,12 @@ Reminder: 3a² − b with a = −2, b = −5.
 ```
 
 Distinction: (−2)² = 4, but −2² = −4. Brackets decide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--02-substitution-number-line.webp" width="900" height="820" alt="Substituting a = -2 and b = 5 into 3a^2 - 2ab gives 12 and -20. On a number line, start at 12 and take away -20, which moves 20 to the right, landing on 32." loading="lazy">
+  <figcaption>Taking away a negative is the same as adding.</figcaption>
+</figure>
+
 
 ## 6.02c Changing the subject
 
@@ -101,6 +113,17 @@ Reminder (twice): ab = 3a + 5. Then ab − 3a = 5, a(b − 3) = 5, so a = 5/(b �
 Reminder (reciprocal): 1/f = 1/u + 1/v gives v = fu/(u − f).
 
 Reminder (root): x = 3√(y/z) gives y = x²z/9. Square the whole left side, including the 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--05-change-subject-reverse-steps.webp" width="900" height="850" alt="Two rows of boxes. The top row builds A from b with a = 3, h = 4 and b = 5: b is 5, add a gives 8, multiply by h gives 32, multiply by one half gives A = 16. The bottom row starts at A = 16 and undoes each step in reverse order: multiply by 2 gives 32, divide by h gives 8, subtract a gives 5, which is b. The result is b = 2A/h minus a." loading="lazy">
+  <figcaption>Change the subject by undoing the steps in the reverse order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--11-alg-subject-area-radius.webp" width="900" height="960" alt="A graph of A = pi r^2 for r from 0 to 4. From A = 32.2 on the vertical axis a dashed line goes across to the curve and down to r = 3.2, which is r = square root of (A/pi) taking the positive root." loading="lazy">
+  <figcaption>Reading r from A on the graph is the same as undoing the square with a square root.</figcaption>
+</figure>
+
 
 ## 6.02d Standard formulae in use
 
@@ -132,6 +155,32 @@ Reminder: for sides 5 and 8 with 40° between them, a² = 25 + 64 − 80 cos 40�
 
 If the cosine of an angle is negative, the angle is obtuse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--10-alg-circle-circumference-area.webp" width="900" height="960" alt="Example 13: a pond with diameter 6.4 m has area pi x 3.2^2 = 32.2 m^2, and its circumference is pi diameters, 20.1 m, shown as a bar of three diameters and 0.14 of a diameter. Example 14: C = 18 pi gives r = 9 and A = 81 pi cm^2." loading="lazy">
+  <figcaption>The circumference is a little over three diameters; the area uses the radius squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--01-squares-on-sides.webp" width="900" height="890" alt="A 3, 4, 5 right-angled triangle has a square on each side, with 9, 16 and 25 unit cells. 9 plus 16 equals 25, so the squares on the short sides together equal the square on the hypotenuse." loading="lazy">
+  <figcaption>The squares on the two shorter sides add up to the square on the hypotenuse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--02-hypotenuse-first.webp" width="900" height="1010" alt="Two scaled triangles with the hypotenuse highlighted opposite the right angle. For PQR, add 7.4 squared and 5.9 squared to get 9.46 cm. For ABC, subtract 4.7 squared from 9.2 squared to get 7.91 cm." loading="lazy">
+  <figcaption>Find the hypotenuse, then add the squares for it or subtract to find a shorter side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--01-soh-cah-toa.webp" width="900" height="890" alt="A right-angled triangle with sides 3, 4, 5 and angle theta. Opposite is 3, adjacent 4, hypotenuse 5. Sine is 3/5 = 0.6, cosine 4/5 = 0.8, tangent 3/4 = 0.75, and inverse sine of 0.6 gives theta = 36.9 degrees." loading="lazy">
+  <figcaption>Name the sides from the angle, then pick sin, cos or tan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--05-cosine-rule.webp" width="900" height="860" alt="The lesson worked example drawn to scale: AB = 7, AC = 10, angle A = 110 degrees. A bar shows BC squared = 149 + 47.9 = 196.9, so BC = 14.0 cm. The extra 47.9 is added because cos 110 degrees is negative." loading="lazy">
+  <figcaption>With an obtuse angle the cosine term adds, so BC is longer than the right-angle case.</figcaption>
+</figure>
+
+
 ## 6.02e Kinematics
 
 | Quantity wanted | Quantities given | Formula |
@@ -152,6 +201,17 @@ Reminder: from rest with a = 2.5 for 6 s, v = 0 + 2.5 × 6 = 15 and s = ½ × 2.
 
 **Higher tier only:** if the unknown is t in s = ut + ½at², you get a quadratic in t. Reject a negative time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--07-constant-acceleration-areas.webp" width="900" height="920" alt="A velocity-time graph for a car starting at 12 metres per second and accelerating at 1.5 metres per second squared for 8 seconds. The line rises from 12 to 24 metres per second, so v = u + at. The area under it is a teal rectangle, ut = 96 metres, plus a gold triangle, half a t squared = 48 metres. The total area, the distance travelled, is 144 metres." loading="lazy">
+  <figcaption>Distance is the area under the velocity-time graph: a rectangle ut plus a triangle ½at².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--09-alg-ball-thrown-up.webp" width="900" height="970" alt="A ball thrown up at 14 m/s with a = -9.8 m/s^2 is shown at 0 m, 5 m and 10 m with arrows proportional to speed: 14, 9.9 and 0 m/s. Using v^2 = u^2 + 2as with v = 0 gives s = 10 m." loading="lazy">
+  <figcaption>The speed falls to zero at the top, which gives the height from v squared.</figcaption>
+</figure>
+
+
 ## Checking your answer
 
 Each topic has a quick test that takes under a minute.
@@ -162,6 +222,12 @@ Each topic has a quick test that takes under a minute.
 - Cosine rule or sine rule (Higher tier only): the longest side must be opposite the largest angle.
 - Kinematics: if a is negative and the object is slowing, v must be smaller than u.
 - Units: lengths in cm or m, areas in cm² or m², time in s, velocity in m/s and acceleration in m/s².
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--03-sine-rule.webp" width="900" height="860" alt="Triangle ABC with A = 48, B = 65, C = 67 degrees and a = 9 cm drawn to scale. a over sin A equals b over sin B gives b = 9 sin 65 over sin 48 = 11.0 cm. The rule needs a side and its opposite angle." loading="lazy">
+  <figcaption>Pair each side with the angle opposite it.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -199,6 +265,12 @@ Each topic has a quick test that takes under a minute.
 10. v² = 25 + 72 = 97, so v = 9.85.
 11. x = (−6 ± √(36 − 8))/2 = (−6 ± √28)/2 = −0.35 or −5.65.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging--06-quadratic-formula-graph.webp" width="900" height="920" alt="The graph of y = 4x squared minus 5x minus 3, a U-shaped curve, crosses the x-axis at x = 1.69 and x = minus 0.44, marked with dots. A dashed vertical line at x = 5/8 is the axis of symmetry, halfway between the two crossing points, through the lowest point of the curve. Below, a = 4, b = minus 5, c = minus 3 give b squared minus 4ac = 73, so x = (5 plus or minus root 73) divided by 8." loading="lazy">
+  <figcaption>The two answers from the quadratic formula are the points where the curve meets the x-axis.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Dropping brackets when substituting a negative number.
@@ -215,3 +287,9 @@ Each topic has a quick test that takes under a minute.
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Section 6.02, Algebraic formulae.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
+  <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
+</figure>
+

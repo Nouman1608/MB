@@ -65,6 +65,12 @@ For 1, 4, 7, 10, ... the differences are all 3, so the rule is "add 3". For 1, 4
 
 For 2, 4, 6, ... the rule is 2n, because each term is twice its position. For 3, 4, 5, ... the rule is n + 2, because each term is the position plus 2. In words, you might write "multiply the position by 5" for 5, 10, 15, ...
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--06-term-to-term-two-step.webp" width="900" height="840" alt="Multiply by 3 then subtract 5 from 4 gives 4, 7, 16, 43. With x1 = 6 and x(n+1) = 2x(n) - 3 the terms are 6, 9, 15, 27, and undoing the steps from x3 = 21 gives x2 = 12 and x1 = 7.5." loading="lazy">
+  <figcaption>Two-step term-to-term rules forwards, in subscript notation, and backwards.</figcaption>
+</figure>
+
+
 ## Terms from an nth-term formula
 
 Substitute the position for n. Follow the order of operations: powers first, then multiplication, then addition and subtraction.
@@ -132,6 +138,12 @@ Each term is 4 more than 5n, so the nth term is 5n + 4.
 
 The nth term is always the first term minus d, plus dn. Here 9 − 5 = 4. In example 4, 52 + 5 = 57.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+
+
 ## Special sequences you must recognise (6.06b)
 
 | Name | Formula for the nth term | Listing |
@@ -146,6 +158,12 @@ Triangular numbers come from adding 1, then 2, then 3, and so on. Learn the firs
 ### Fibonacci-type sequences
 
 A **Fibonacci sequence** adds the last two terms to make the next: 1, 1, 2, 3, 5, 8, 13, ... Other sequences with this rule can start from any two numbers. If the first two terms are a and b, the next terms are a + b, a + 2b, 2a + 3b, 3a + 5b.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--07-fibonacci-type-backwards.webp" width="900" height="770" alt="The terms are a, b, a+b, a+2b, 2a+3b, 3a+5b. With the 4th term 17 and the 6th 44, b = 7 and a = 3, giving 3, 7, 10, 17, 27, 44." loading="lazy">
+  <figcaption>Fibonacci-type sequence found backwards from two known terms.</figcaption>
+</figure>
+
 
 ### Worked example 6: working backwards
 
@@ -165,6 +183,12 @@ The sequence is 3, 7, 10, 17, 27, 44. Check: 10 + 17 = 27 and 17 + 27 = 44.
 
 A **geometric progression** keeps multiplying by one fixed number, the **common ratio** r. The specification names the form rⁿ with integer n and rational r above 0. To find r, divide any term by the term just before it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--08-geometric-progression.webp" width="900" height="900" alt="Bars for 8, 12, 18, 27, 40.5, 60.75 each multiply the previous term by 3/2, the common ratio found by dividing a term by the one before." loading="lazy">
+  <figcaption>A geometric progression multiplies by the same ratio each time.</figcaption>
+</figure>
+
+
 ### Worked example 7: a fractional ratio
 
 Continue 8, 12, 18, 27, ... and give the next two terms.
@@ -181,6 +205,12 @@ If r is between 0 and 1 the terms shrink. If r is more than 1 they grow.
 
 A **quadratic sequence** has first differences that keep changing while its **second differences** stay fixed. To recognise one, write both rows of differences under the terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
+  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
+</figure>
+
+
 ### Worked example 8: recognising and continuing
 
 Show that 5, 6, 9, 14, 21, ... is quadratic and find the next two terms.
@@ -192,6 +222,12 @@ Second differences:     2   2    2
 ```
 
 The second differences are constant at 2, so the sequence is quadratic. The next first differences are 9 and 11, so the next terms are 21 + 9 = 30 and 30 + 11 = 41.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--02-triangular-numbers.webp" width="900" height="1060" alt="Dot triangles show 1, 3, 6 and 10 dots. Two copies of the 10-dot triangle fit together as a 4 by 5 rectangle of 20 dots, so the nth triangular number is n(n + 1) divided by 2." loading="lazy">
+  <figcaption>Two triangular numbers make a rectangle n by n + 1, which is why the formula halves it.</figcaption>
+</figure>
+
 
 ## Higher tier only: subscript notation
 
@@ -251,6 +287,17 @@ nth term = −2n² + 15n + 7
 
 The specification's own example, 0, 3, 10, 21, ..., gives 2n² − 3n + 1 by the same method.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--01-quadratic-two-n-squared.webp" width="900" height="1110" alt="Differences 5, 9, 13, 17 and 4, 4, 4 give a = 2. Subtracting 2n squared from 4, 9, 18, 31, 48 leaves 2, 1, 0, minus 1, minus 2, which is 3 minus n, so the nth term is 2n squared minus n plus 3." loading="lazy">
+  <figcaption>Halve the constant second difference to get a, then fit the leftover linear part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--10-quadratic-negative-a.webp" width="900" height="870" alt="The terms 20, 29, 34, 35, 32 rise then fall. First differences 9, 5, 1, -3 and constant second difference -4 give a = -2, and the nth term is -2n squared + 15n + 7." loading="lazy">
+  <figcaption>A quadratic sequence with negative a rises then falls.</figcaption>
+</figure>
+
+
 ## Higher tier only: other sequences
 
 The specification asks you to generate and find nth terms of other sequences, with surds and fractions as examples. The skill is to find what changes from term to term, then express it using n.
@@ -278,6 +325,12 @@ nth term = n/(2n + 1)
 ```
 
 Check: n = 4 gives 4/9. Treat the top and bottom as two separate sequences. For 3/2, 5/3, 7/4, ... the numerators are 2n + 1 and the denominators n + 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sequences-term-to-term-rules-nth-term-quadratic-and--09-surd-fraction-nth-term.webp" width="900" height="1140" alt="Surd terms rewritten as roots of 3, 6, 9, 12 give the square root of 3n. Fractions 1/3, 2/5, 3/7, 4/9 have tops n and bottoms 2n + 1, so the nth term is n over 2n + 1." loading="lazy">
+  <figcaption>Split surds and fractions into simple patterns to find the nth term.</figcaption>
+</figure>
+
 
 ## Common errors
 

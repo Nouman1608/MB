@@ -33,6 +33,12 @@ Course links: [Edexcel A-Level Accounting hub](/boards/edexcel/a-level/accountin
 | 2.3.1 | Prepare a statement of cash flows for a limited company under IAS 7 |
 | 2.3.2 | Explain the importance of liquidity to a company |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--01-profit-to-cash.webp" width="900" height="876" alt="A horizontal waterfall starts with profit from operations of 131,600 dollars. Depreciation 84,000 and the loss on disposal 7,000 are added back because no cash left; the 15,200 rise in inventory is deducted; the 7,500 fall in receivables and 6,600 rise in payables are added. The total is cash generated from operations of 221,500 dollars." loading="lazy">
+  <figcaption>Profit becomes cash once non-cash items and working capital changes are adjusted.</figcaption>
+</figure>
+
+
 ## Definitions to learn word for word
 
 - **Statement of cash flows:** the IAS name (Appendix 6 of the specification) for what UK GAAP called the cash flow statement. It explains the change in cash and cash equivalents over a period.
@@ -102,6 +108,12 @@ Cash and cash equivalents at end of year
 5. Total the net change, add opening cash and cash equivalents (an overdraft is negative).
 6. Check the closing figure against the statement of financial position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--05-direct-vs-indirect.webp" width="900" height="776" alt="Two columns reach the same total. The indirect method starts with profit from operations 131,600 and adds 89,900 of adjustments. The direct method takes 1,247,500 from customers and deducts 752,600 paid to suppliers and 273,400 paid for expenses. Both give cash generated from operations of 221,500 dollars." loading="lazy">
+  <figcaption>The direct and indirect methods always give the same cash generated from operations.</figcaption>
+</figure>
+
+
 ## Key workings as formulas
 
 | Working | Formula |
@@ -128,6 +140,12 @@ Cash generated from operations is **59,600**.
 ```
 Interest paid = 600 + 7,200 - 1,800 = 6,000
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--04-cash-paid-workings.webp" width="900" height="860" alt="Three bars each split a total in two. Tax owed 21,000 plus 27,800 is 48,800: 22,300 paid and 26,500 still owed. Interest owed 1,800 plus 6,000 is 7,800: 6,300 paid and 1,500 owed. Closing equipment cost is 908,000: 730,000 kept from the start and 178,000 bought." loading="lazy">
+  <figcaption>The cash paid is what remains after the closing balance is taken from what was owed or held.</figcaption>
+</figure>
+
 
 ## Direct method in one box
 
@@ -160,6 +178,12 @@ Expenses paid          = expenses (excluding depreciation) adjusted for accruals
 **Warning signs:** negative operating cash flow while profit is positive; a growing overdraft; inventory and receivables rising faster than revenue (overtrading); long-term assets bought with short-term borrowing.
 
 **Ways to improve liquidity:** tighter credit control, lower inventory, longer supplier credit, new share or debenture issue, sale and leaseback or sale of surplus assets, lower dividends, delayed capital spending. Each has a cost; say what it is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--06-liquidity.webp" width="900" height="840" alt="Bars compare 2025 and 2026 against a dashed 1 to 1 line. The current ratio improved from 1.80 to 2.00. The liquid ratio stayed just below 1 to 1 (0.89 then 0.88). The overdraft of 14,600 was cleared, but closing cash is only 4,300 dollars, so liquidity is adequate but thin." loading="lazy">
+  <figcaption>Fenwold’s ratios and cash flows together show liquidity that is improving but thin.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -199,6 +223,17 @@ Expenses paid          = expenses (excluding depreciation) adjusted for accruals
 10. 23,000 + 310,000 − 27,500 = **305,500**.
 11. 30,000 + 21,000 = **51,000** (30,000 shares at 1.70).
 12. Current assets may be made up mostly of slow-moving inventory or receivables, so cash is tied up even though the ratio looks high.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--02-three-headings.webp" width="900" height="820" alt="A waterfall of cash for the year. The company started with an overdraft of 14,600 dollars (negative cash). Operating activities added 192,900, investing used 163,000 and financing used 11,000, a net increase of 18,900, leaving closing cash and cash equivalents of 4,300 dollars." loading="lazy">
+  <figcaption>Operating, investing and financing flows move opening cash (an overdraft) to closing cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--03-adjustment-signs.webp" width="900" height="1050" alt="Bars compare 2025 and 2026 balances. Inventory rose 15,200 so cash is tied up and 15,200 is deducted. Receivables fell 7,500 so cash is released and 7,500 is added. Payables rose 6,600 so cash was held back and 6,600 is added. Depreciation 84,000 and the 7,000 loss on disposal involved no cash and are added back." loading="lazy">
+  <figcaption>An increase in an asset deducts cash; an increase in a liability adds it; non-cash charges are added back.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

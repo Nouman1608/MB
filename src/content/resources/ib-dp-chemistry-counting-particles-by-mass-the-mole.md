@@ -70,6 +70,17 @@ A sample contains 0.0400 mol of aluminium sulfate, Al₂(SO₄)₃. Use NA = 6.0
 
 The trick is to scale the amount by the count per formula unit **before** multiplying by NA.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--01-which-entity.webp" width="900" height="710" alt="One mole of O2 molecules is drawn as pairs of joined oxygen atoms (6.02 x 10^23 molecules). An arrow marked x2 leads to the same sample as separate O atoms: 2 mol, 1.20 x 10^24 atoms." loading="lazy">
+  <figcaption>One mole of O2 molecules contains two moles of O atoms, so always name the entity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--02-count-ions-atoms.webp" width="900" height="940" alt="One Al2(SO4)3 formula unit is drawn as 2 Al3+ and 3 sulfate ions with 4 oxygens each. A table scales 0.0400 mol: sulfate x3 = 0.120 mol, O x12 = 0.480 mol, all ions x5 = 0.200 mol, then multiplies by NA." loading="lazy">
+  <figcaption>Scale the amount by the count per formula unit, then multiply by NA.</figcaption>
+</figure>
+
+
 ## Structure 1.4.2 Relative atomic mass and relative formula mass
 
 Atomic masses are compared on a relative scale based on carbon-12. The **relative atomic mass**, Ar, of an element is the weighted average mass of its atoms on a scale where one ¹²C atom has a mass of exactly 12. The **relative formula mass**, Mr, of a compound is the sum of the Ar values of all the atoms in its formula. Because both are ratios of masses, **Ar and Mr have no units**.
@@ -96,6 +107,12 @@ Mr                            = 203.33
 ```
 
 A bracket multiplies everything inside it, not just the last atom.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--03-mr-sum.webp" width="900" height="820" alt="Two bars to one scale: Fe2(SO4)3 is 111.70 + 96.21 + 192.00 = 399.91, with the bracket giving 3 S and 12 O. MgCl2.6H2O is 95.21 + 108.12 = 203.33, of which water is 53.17%." loading="lazy">
+  <figcaption>Mr is the sum of every Ar in the formula, including bracket multiples and water of crystallisation.</figcaption>
+</figure>
+
 
 ## Structure 1.4.3 Molar mass
 
@@ -126,6 +143,12 @@ number of N atoms = 0.0599 × 6.02 × 10²³ = 3.61 × 10²² atoms
 ```
 
 Carry unrounded values between steps and round at the end. To go from particles to mass, run the chain backwards: divide by NA, then multiply by M.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--04-mass-mole-particles.webp" width="900" height="1020" alt="Four boxes run from 1.80 g of urea to 0.02997 mol of molecules, 0.0599 mol of N atoms and 3.61 x 10^22 N atoms. Teal arrows give divide by M, x2 and x NA; gold arrows give the reverse." loading="lazy">
+  <figcaption>Divide by M to get moles, multiply by NA for particles, and reverse the steps to go back.</figcaption>
+</figure>
+
 
 ## Structure 1.4.4 Empirical and molecular formulae
 
@@ -168,6 +191,12 @@ The molecular formula is **C₄H₄O₄** (check: its M is 116.08).
 
 If you are given experimental masses of each element instead of percentages, skip step 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--05-empirical-formula.webp" width="900" height="1190" alt="Bars show 41.39 g C, 3.48 g H and 55.13 g O in 100 g. Dividing by Ar gives equal bars of 3.446 mol, so the ratio is 1:1:1 and the empirical formula is CHO. Multiplying by 116.08/29.02 = 4 gives C4H4O4." loading="lazy">
+  <figcaption>Divide masses by Ar, divide by the smallest, then scale by molar mass over empirical mass.</figcaption>
+</figure>
+
+
 ## Structure 1.4.5 Molar concentration
 
 A solution's **molar concentration** depends on how much solute (in mol) is present and on the volume of the whole solution (not the volume of solvent added). Concentration in mol dm⁻³ is found from:
@@ -204,6 +233,12 @@ new [AgNO₃] = 2.50 × 10⁻³ / 0.1000 = 0.0250 mol dm⁻³
 
 Dilution never changes the amount of solute, only the volume it is spread through.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--06-dilution.webp" width="900" height="980" alt="A 25.00 cm3 sample of 0.100 mol dm-3 solution holds 8 solute particles. Adding water to 100.0 cm3 spreads the same 8 particles through four times the volume, giving 0.0250 mol dm-3." loading="lazy">
+  <figcaption>Dilution keeps n = C x V constant, so concentration falls as volume rises.</figcaption>
+</figure>
+
+
 ## Structure 1.4.6 Avogadro's law
 
 **Avogadro's law**: if two gases are at the same temperature and pressure, equal volumes of them hold the same number of molecules. So at fixed temperature and pressure, the **volume ratio of gases equals their mole ratio** in the balanced equation. No molar volume is needed; that belongs to [Structure 1.5](/resources/ib-dp-chemistry-ideal-gases/), which links Avogadro's law to ideal gases.
@@ -227,6 +262,12 @@ final gas volume = 40 cm³ O₂ + 40 cm³ SO₂ = 80 cm³
 ```
 
 State symbols matter here: if the question had said the water stayed as a gas, you would add another 40 cm³.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--07-gas-volumes.webp" width="900" height="820" alt="40 cm3 H2S needs 60 cm3 of the 100 cm3 O2, leaving 40 cm3 excess. It forms 40 cm3 SO2, so 80 cm3 of gas remains; liquid water adds no gas volume." loading="lazy">
+  <figcaption>At fixed temperature and pressure, gas volumes are in the same ratio as the moles in the equation.</figcaption>
+</figure>
+
 
 ## Common errors
 

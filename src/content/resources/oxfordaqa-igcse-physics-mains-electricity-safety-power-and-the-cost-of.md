@@ -68,6 +68,12 @@ Always change milliseconds to seconds before using f = 1 / T.
 
 Mains electricity is an ac supply with a set frequency and voltage. In the UK the mains is about 230 V at 50 Hz, so one cycle lasts 1 / 50 = 0.020 s. Other countries use other values, so a question will usually give the numbers you need. You do not need rms values: when a question gives a mains pd, use it directly in P = I × V.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--09-ac-trace.webp" width="900" height="990" alt="An oscilloscope grid at 2 V and 2.5 ms per division. The ac sine wave peaks 3.0 divisions (6.0 V) above zero; one cycle is 4 divisions, 10 ms, so f is 100 Hz. A battery gives a flat line at 9.0 V, 3.0 V above the ac peak." loading="lazy">
+  <figcaption>Reading peak pd, period and frequency from a trace.</figcaption>
+</figure>
+
+
 ## Safety in the home (3.6.3 d to f)
 
 A fault can make the metal case of an appliance live. Touching it could give someone a fatal shock. Three features reduce the danger.
@@ -91,6 +97,22 @@ The fuse goes in the live wire so that, once it has melted, the appliance is cut
 
 **Double insulation.** Some appliances are double insulated. They have a casing and internal construction that keep the user away from live parts, so they have no earth wire connection. Many hair dryers and power tools with plastic bodies are examples. The metal parts a user can touch cannot become live.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--10-earth-fuse-fault.webp" width="900" height="1010" alt="Two panels. A loose live wire touches the metal case; large current flows along the live wire and back through the earth wire. The large current melts the fuse in the live wire, cutting the appliance off from the live supply." loading="lazy">
+  <figcaption>The earth wire carries the fault current and the fuse in the live wire melts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--07-fuse-vs-breaker.webp" width="900" height="720" alt="A fuse and a circuit breaker side by side, both in the live wire. The fuse wire melts and must be replaced; the circuit breaker trips off, works much faster and is reset by hand." loading="lazy">
+  <figcaption>Both protect the live wire; a breaker is faster and resettable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--08-double-insulation.webp" width="900" height="930" alt="A cut-away appliance with an outer and an inner insulating layer around a live motor. Only live and neutral wires enter and there is no earth wire. The user touches only the outer casing. The symbol is a square inside a square." loading="lazy">
+  <figcaption>Two insulation layers keep the user from live parts, so no earth wire is needed.</figcaption>
+</figure>
+
+
 ## Energy transfers in appliances (3.6.5 a)
 
 Electrical appliances are designed to transfer energy. For each device, say what electrical energy is transferred into.
@@ -104,6 +126,12 @@ Electrical appliances are designed to transfer energy. For each device, say what
 | Phone charger | Electrical to chemical energy stored in the battery |
 
 Write the energy forms in full. "Heat" alone is a weak answer: use thermal energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--09-energy-transfers.webp" width="900" height="810" alt="Five appliances and the energy they transfer electrical energy into: kettle thermal, fan motor kinetic, loudspeaker sound, lamp light plus some wasted thermal, phone charger chemical stored in the battery." loading="lazy">
+  <figcaption>Name the useful energy transfer in full, not just heat.</figcaption>
+</figure>
+
 
 ## Power and energy (3.6.5 b)
 
@@ -120,6 +148,12 @@ A kettle has a power of 2400 W. How much energy does it transfer in 450 s?
 E = P × t = 2400 × 450 = **1 080 000 J** (1.08 MJ).
 
 How long would it take to transfer 540 000 J? t = E / P = 540 000 / 2400 = 225 s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--10-kettle-power.webp" width="900" height="840" alt="A straight-line graph of energy against time for a 2400 W kettle. At 450 s the energy is 1 080 000 J (1.08 MJ). For 540 000 J the time is 225 s." loading="lazy">
+  <figcaption>The gradient of energy against time is the power.</figcaption>
+</figure>
+
 
 ## Power, current and fuse choice (3.6.5 c)
 
@@ -141,6 +175,12 @@ The mains pd is 230 V. The available fuses are 3 A, 5 A and 13 A.
 
 The toaster current of 3.5 A is above 3 A, so the 3 A fuse would melt. The next rating up is 5 A. The hair dryer needs 6.1 A, which is above 5 A, so 13 A is the correct choice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--11-fuse-choice.webp" width="900" height="890" alt="Bars show the currents of a 60 W lamp (0.26 A), 800 W toaster (3.5 A) and 1400 W hair dryer (6.1 A) at 230 V against 3, 5 and 13 A fuse lines. The fuse chosen is the next rating above the current: 3 A, 5 A and 13 A." loading="lazy">
+  <figcaption>Choose the fuse rating just above the working current.</figcaption>
+</figure>
+
+
 ## Energy, charge and potential difference (3.6.5 d)
 
 The potential difference across a component is the energy transferred per unit charge passing through it:
@@ -154,6 +194,12 @@ So 12 V means 12 J for every coulomb.
 A 12 V lamp has 4.5 C of charge pass through it. E = Q × V = 4.5 × 12 = **54 J**.
 
 A different appliance is on the 230 V mains and carries 0.80 A for 300 s. Charge flowing is Q = I × t = 0.80 × 300 = 240 C. Energy transferred is E = 240 × 230 = 55 200 J. As a check, P = I × V = 0.80 × 230 = 184 W, and 184 × 300 = 55 200 J. Both routes agree.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--11-energy-charge-pd.webp" width="900" height="1000" alt="A 12 V cell and lamp where each coulomb carries 12 J, so 4.5 C carries 54 J. Below, 0.80 A for 300 s on 230 V gives Q = 240 C and E = 55 200 J by one route, and P = 184 W and E = 55 200 J by the other." loading="lazy">
+  <figcaption>Energy equals charge times pd, and both routes give the same answer.</figcaption>
+</figure>
+
 
 ## Kilowatt-hours and the cost of electricity (3.6.5 e and f)
 
@@ -179,6 +225,12 @@ A meter reads 04817 kWh at the start of a quarter and 05103 kWh at the end. Elec
 1. Units used = 05103 − 04817 = 286 kWh.
 2. Cost = 286 × 28.5 = 8151 p.
 3. Divide by 100 to change pence to pounds: **£81.51**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--12-kwh-cost.webp" width="900" height="1120" alt="An oven at 2.5 kW for 1.5 h is a rectangle of area 3.75 kWh, costing 106.875 p, about 107 p at 28.5 p per kWh. A meter reading 04817 then 05103 shows 286 kWh used, costing 8151 p, which is 81.51 pounds." loading="lazy">
+  <figcaption>Energy in kWh is power times time; cost is kWh times price.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -89,6 +89,12 @@ Debit the account that receives value or gains an asset; credit the account that
 | Liability | Credit | Debit |
 | Income | Credit | Debit |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+
 ## Source documents
 <!-- marlbridge-diagram:ac-b15-igcse-accounting-source-to-double-entry -->
 <figure class="lesson-diagram" style="margin: 2rem 0;">
@@ -107,6 +113,17 @@ Every entry begins with a document, and knowing which triggers which is examined
 - **Receipt** — proof of payment made or received.
 - **Cheque counterfoil and bank statement** — evidence for cash book entries.
 - **Statement of account** — a summary of transactions sent to a credit customer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--03-trade-cash-discount.webp" width="900" height="980" alt="A 3,200 dollar list price less 15 percent trade discount (480, never recorded) gives an invoice of 2,720. A 2.5 percent cash discount of 68 is recorded on payment, so the cheque is 2,652. Entries: debit supplier 2,720, credit bank 2,652, credit discounts received 68." loading="lazy">
+  <figcaption>Trade discount is netted off before recording; cash discount is recorded when payment is made.</figcaption>
+</figure>
+
 
 ## Books of prime entry
 
@@ -129,6 +146,17 @@ The **cash book** is both a book of prime entry and part of the ledger, which is
 The ledger divides into the sales ledger (credit customers), the purchases ledger (credit suppliers) and the general ledger (everything else). Balancing an account means totalling both sides, entering the balance carried down to make them agree, and bringing it down on the opposite side below the totals.
 
 A **trial balance** lists every ledger balance to check that debits equal credits. Crucially, it does **not** detect errors of omission, commission, principle, original entry, reversal, or compensating errors — because each of these keeps both sides equal. **Omission** means the transaction was left out entirely, on both sides at once. **Commission** means the right *type* of account was used but the wrong specific account — posting to the wrong customer, for instance. **Principle** means the wrong *type* of account entirely, such as an asset posted to an expense account; commission versus principle is the distinction most often lost, since commission stays within the correct kind of account while principle does not. **Original entry** means the same wrong figure was used on both sides. **Complete reversal** means the debit and credit were entered the correct amount but on the wrong sides. **Compensating** means two separate errors of equal value happen to cancel each other out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--05-depreciation-methods.webp" width="900" height="1090" alt="For a 20,000 pound asset with 2,000 residual and four years, straight line charges 4,500 each year to reach 2,000. Reducing balance at 25 percent charges 5,000, 3,750, 2,813 and 2,109 and ends at 6,328. Lines and bars show the carrying value and yearly charge." loading="lazy">
+  <figcaption>Reducing balance front-loads the charge; straight line is level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## Worked example
 

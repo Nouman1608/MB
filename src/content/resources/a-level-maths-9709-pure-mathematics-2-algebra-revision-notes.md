@@ -95,6 +95,12 @@ None of these is in the list of formulae (MF19). Learn them.
 3. Divide (or compare coefficients) to get the quadratic factor.
 4. Factorise the quadratic, or use the formula, or the discriminant to show no real roots.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--06-conjugate-roots.webp" width="900" height="1290" alt="Top: the graph of y = z cubed minus 5z squared plus 11z minus 15, which is always increasing and crosses the real axis only at x = 3. Bottom: an Argand diagram of the three roots of the cubic: the real root 3 and the complex pair 1 plus 2i and 1 minus 2i, which are mirror images in the real axis. Because the coefficients are real, non-real roots come in conjugate pairs. The cubic factorises as (z minus 3)(z squared minus 2z plus 5)." loading="lazy">
+  <figcaption>A real cubic with one real root has a conjugate pair of complex roots.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Comparing coefficients instead of long division.** Divide x³ + 4x² − x + 7 by x² + 2.
@@ -175,6 +181,18 @@ The line y = 2x is above the V only to the right of x = 1, so x > 1.
 - [Quadratics revision notes](/resources/a-level-mathematics-quadratics-revision-notes/) for the Paper 1 skills used after a factor is found
 - [Pure Mathematics 3 revision notes](/resources/a-level-maths-9709-pure-mathematics-3-revision-notes/) if you move to the A Level route
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--01-paper-routes.webp" width="900" height="976" alt="A route map of the pure mathematics papers for four boards. Cambridge 9709: AS Level is Paper 1 plus Paper 2, or Paper 1 plus Paper 4 or 5; A Level is Papers 1 and 3 plus either Papers 4 and 5 or Papers 5 and 6, and Paper 2 never counts towards the A Level. Edexcel International A Level: AS is P1, P2 and one applied unit; A Level is P1 to P4 plus two applied units. OxfordAQA 9660: AS is P1 and PSM1; A Level adds P2 and either S2 or M2. OCR H240: three two-hour papers, each worth one third, with pure mathematics in every one (pure; pure and statistics; pure and mechanics). A colour key shows pure, applied, and mixed papers." loading="lazy">
+  <figcaption>Which pure papers each board requires for AS and A Level.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Cambridge International AS & A Level Mathematics 9709 syllabus, for exams in 2026 and 2027 (Version 4), Cambridge University Press & Assessment. Topic 2, Pure Mathematics 2 (for Paper 2): section 2.1 Algebra.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--02-one-cubic-toolkit.webp" width="900" height="940" alt="Graph of the cubic f(x) = x cubed minus 3x squared minus x plus 3, which factorises as (x + 1)(x minus 1)(x minus 3). The roots at x = minus 1, 1 and 3 come from the factor theorem. Turning points, ringed, are where f dash is zero, at x = 1 minus or plus 2 over root 3, about minus 0.15 and 2.15. The region between x = minus 1 and 1 lies above the axis and has integral +4. The region between 1 and 3 lies below the axis and has integral minus 4. The integral from minus 1 to 3 is zero, but the total area is 8, because areas below the axis count as positive." loading="lazy">
+  <figcaption>One cubic shows roots, turning points and signed versus total area.</figcaption>
+</figure>
+

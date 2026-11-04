@@ -60,6 +60,12 @@ An **alloy** is a mixture of at least two elements, at least one of which is a m
 
 You may be given the composition of an unfamiliar alloy and asked to judge a use for it. Link each property in the data to the job.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--01-alloy-layers.webp" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
+  <figcaption>Different-sized atoms stop the layers sliding, so an alloy is harder than the pure metal.</figcaption>
+</figure>
+
+
 ### Worked example 1: alloy composition
 
 A decorative spoon is made from an alloy that is 92.5% silver and 7.5% copper by mass. The spoon has a mass of 24.0 g. Calculate the mass of copper in it, and suggest why the alloy is used instead of pure silver.
@@ -74,6 +80,12 @@ Copper suits household wiring, pipes and tanks because:
 - it is a good conductor of heat and electricity;
 - it can be bent, but it is hard enough to make pipes or tanks;
 - it does not react with water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--01-metal-properties.webp" width="900" height="1070" alt="A lattice of positive ions sits in a sea of free electrons. Layers slide when the metal is hammered, free electrons carry current and heat along a wire, and strong ion-electron attraction gives high melting points." loading="lazy">
+  <figcaption>Metallic bonding explains malleability, conduction and high melting points.</figcaption>
+</figure>
+
 
 ## The reactivity series (3.3.1.1 a)
 
@@ -98,6 +110,12 @@ From the table, the order (most reactive first) is: **potassium, sodium, lithium
 
 Sample equations: 2Li + 2H₂O → 2LiOH + H₂ and Fe + 2HCl → FeCl₂ + H₂.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--06-reactivity-series-eight-metals.webp" width="900" height="1070" alt="Ladder of potassium, sodium, lithium, calcium, magnesium, zinc, iron, copper with carbon between magnesium and zinc, and what is seen with cold water and dilute acid for each." loading="lazy">
+  <figcaption>The eight metals in order with the observations used to rank them, and carbon marked.</figcaption>
+</figure>
+
+
 ## Displacement reactions (3.3.1.1 b)
 
 Put a metal into a solution containing ions of a less reactive metal and it takes that metal's place in the compound. If nothing happens, the metal added is less reactive than the metal in the solution.
@@ -112,6 +130,17 @@ A strip of magnesium ribbon is placed in zinc chloride solution. A grey coating 
 2. The chloride ions are unchanged (spectator ions), so leave them out.
 3. Ionic equation: **Mg + Zn²⁺ → Mg²⁺ + Zn**.
 4. Magnesium atoms lose two electrons each: magnesium is **oxidised**. Zinc ions gain two electrons each: zinc ions are **reduced**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
+</figure>
+
 
 ## Where metals come from (3.3.1.1 c to e)
 
@@ -138,6 +167,22 @@ You do not need details of the furnace, but you must know the raw materials and 
 
 The overall reduction by carbon can be summed up as 2Fe₂O₃ + 3C → 4Fe + 3CO₂. The iron(III) oxide is reduced (it loses oxygen); the carbon is oxidised (it gains oxygen).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--03-blast-furnace.webp" width="900" height="1000" alt="A furnace cross-section: hematite, coke and limestone go in at the top, hot air near the bottom, waste gases out of the top. Five numbered reactions are marked up the furnace, and molten slag floats on molten iron at the base, each tapped off." loading="lazy">
+  <figcaption>The blast furnace turns hematite into iron using coke, limestone and hot air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--04-iron-steps.webp" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
+  <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--05-slag.webp" width="900" height="910" alt="Limestone breaks down to lime and carbon dioxide, then lime reacts with silica (sand) to make slag. The slag floats on top of the molten iron and is drawn off separately." loading="lazy">
+  <figcaption>Slag carries away the silica impurity and floats on the iron.</figcaption>
+</figure>
+
+
 ### Worked example 3: carbon needed
 
 Using 2Fe₂O₃ + 3C → 4Fe + 3CO₂, calculate the mass of carbon needed to make 1120 kg of iron. (Aᵣ: Fe = 56, C = 12)
@@ -149,6 +194,17 @@ Using 2Fe₂O₃ + 3C → 4Fe + 3CO₂, calculate the mass of carbon needed to m
 **Electrolysis.** Metals more reactive than carbon, such as aluminium, cannot have the oxygen removed by carbon. They are extracted by electrolysis of molten compounds. Melting the compound and passing the current take large amounts of energy, so these metals are expensive. The aluminium details are in section 3.3.2.
 
 Questions may describe the extraction of another metal; read the information and apply the reactivity ideas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--02-extraction-method.webp" width="900" height="920" alt="A ladder of metals from most to least reactive with carbon marked in the middle. Metals above carbon, such as aluminium, are extracted by electrolysis; zinc and iron below carbon by heating with carbon; gold is found uncombined." loading="lazy">
+  <figcaption>Carbon can only reduce oxides of metals less reactive than itself; more reactive metals need electrolysis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+</figure>
+
 
 ## Copper from low-grade ores (3.3.1.1 f to h)
 
@@ -179,6 +235,27 @@ How much iron reacts to produce 3.20 g of copper? (Aᵣ: Fe = 56, Cu = 64)
 1. Amount of copper = 3.20 ÷ 64 = 0.0500 mol.
 2. Ratio Fe : Cu = 1 : 1, so 0.0500 mol of iron reacts.
 3. Mass of iron = 0.0500 × 56 = **2.80 g**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--07-phytomining-bioleaching.webp" width="900" height="990" alt="Phytomining: plants grow on copper-rich soil, are harvested and burned and the ash holds copper compounds. Bioleaching: bacteria produce a leachate, a solution with copper compounds. Copper is then obtained by electrolysis or scrap-iron displacement." loading="lazy">
+  <figcaption>Two newer ways to get copper from low-grade ores.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--03-copper-chloride-electrolysis.webp" width="900" height="1040" alt="Copper chloride solution with graphite electrodes: Cu2+ goes to the cathode and forms pink-brown copper (reduction); Cl- goes to the anode and forms chlorine bubbles, 2Cl- to Cl2 + 2e- (oxidation)." loading="lazy">
+  <figcaption>Copper ions gain electrons at the cathode and chloride ions lose them at the anode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--04-mass-mole-ratio-chains-metals.webp" width="900" height="740" alt="Two four-step chains: 1120 kg iron to 20.0 kmol to 15.0 kmol carbon to 180 kg carbon; and 3.20 g copper to 0.0500 mol to 0.0500 mol iron to 2.80 g iron." loading="lazy">
+  <figcaption>Mass to moles to ratio to mass, for the carbon and scrap-iron examples.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
+</figure>
+
 
 ## Recycling metals (3.3.1.1 i)
 
@@ -220,6 +297,17 @@ Metal carbonates react with acids to give a salt, water and carbon dioxide:
 - ZnCO₃ + H₂SO₄ → ZnSO₄ + H₂O + CO₂
 
 You see fizzing; the gas turns limewater cloudy white.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--08-carbonate-thermal-decomposition.webp" width="900" height="1110" alt="A carbonate is heated and CO2 escapes. CuCO3 goes green to black; ZnCO3 white, yellow hot, white cold. Li2CO3 decomposes but Na2CO3 and K2CO3 do not at Bunsen temperatures. 2.10 g MgCO3 leaves 1.00 g MgO and 1.10 g CO2." loading="lazy">
+  <figcaption>Thermal decomposition: what you see, which carbonates decompose, and the mass balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-identification-of-ions--05-carbonate-test.webp" width="900" height="950" alt="Dilute acid on a carbonate fizzes; the gas goes along a delivery tube into limewater, which turns cloudy white. Fizzing alone is not enough because metals in acid also fizz. Equation CuCO3 + 2HNO3 gives Cu(NO3)2 + H2O + CO2." loading="lazy">
+  <figcaption>Fizz, then confirm the gas as CO2 with limewater.</figcaption>
+</figure>
+
 
 ## Common errors
 

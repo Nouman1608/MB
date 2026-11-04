@@ -66,9 +66,21 @@ Atomic numbers you will use most: I 53, Br 35, Cl 17, F 9, O 8, N 7, C 6, H 1.
 
 E = trans and Z = cis are only reliably equivalent when each C=C carbon has an H. With heavier groups, rank them by CIP every time. You will not be asked to rank multiple bonds inside R groups.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--02-ez-isomers.webp" width="900" height="1060" alt="Z and E isomers of 2-chlorobut-2-ene drawn with 120 degree geometry, priority 1 and 2 at each carbon by atomic number (Cl 17, C 6, H 1), plus pent-2-ene (has E/Z) and pent-1-ene (does not)." loading="lazy">
+  <figcaption>Rank groups by atomic number; same side is Z, opposite is E (Edexcel, OCR only).</figcaption>
+</figure>
+
+
 ## 4.1.3(e): Reactivity
 
 The π-bond has a relatively low bond enthalpy, so it breaks more easily than the σ-bond. Estimate: π ≈ (C=C) − (C–C) from mean bond enthalpies. The π electrons are exposed above and below the plane, which attracts electrophiles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--01-sigma-pi-bond.webp" width="900" height="1080" alt="Top view of ethene with computed 120 degree angles in one plane; edge-on view with a sigma bond on the axis and pi clouds above and below; bars show C=C 612 = sigma 347 + pi 265 kJ/mol (Edexcel data; OCR 614 and 348)." loading="lazy">
+  <figcaption>The C=C is one σ bond plus a weaker π bond, in a flat trigonal planar arrangement (Edexcel, OCR).</figcaption>
+</figure>
+
 
 ## 4.1.3(f): Addition reactions
 
@@ -80,6 +92,27 @@ The π-bond has a relatively low bond enthalpy, so it breaks more easily than th
 | H₂O(g) | Acid catalyst, e.g. H₃PO₄ | Alcohol | ethene + H₂O → ethanol |
 
 **Bromine test (PAG7).** Add bromine water and shake. Alkene present: **orange to colourless**. No C=C: stays orange.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--03-addition-reactions.webp" width="900" height="1210" alt="Ethene and its six addition products drawn bond by bond: ethane (H2, Ni), 1,2-dibromoethane (Br2), bromoethane (HBr), ethanol (steam, H3PO4), ethyl hydrogensulfate (cold conc. H2SO4) and ethane-1,2-diol (acidified KMnO4). Each card is tagged with the boards that teach it." loading="lazy">
+  <figcaption>Addition across C=C gives a saturated product; the reagent decides which.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--04-bromine-test.webp" width="900" height="975" alt="Two tubes of orange bromine water shaken with an alkene (turns colourless, Br2 used up, dibromoethane shown) and an alkane (stays orange, no reaction)." loading="lazy">
+  <figcaption>An alkene decolourises bromine water; an alkane leaves it orange.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--05-hbr-mechanism.webp" width="900" height="923" alt="Curly arrow 1 from the C=C bond to the delta-plus H, arrow 2 from the H-Br bond to Br, giving CH3CH2+ and Br-; arrow 3 from a Br- lone pair to C+ gives bromoethane." loading="lazy">
+  <figcaption>Three curly arrows: from the C=C, from the H-Br bond, and from a bromide lone pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--06-br2-mechanism.webp" width="900" height="1287" alt="The pi electrons repel the Br-Br electrons giving an induced dipole; arrows from C=C to the delta-plus Br and from Br-Br to the other Br make BrCH2CH2+ and Br-; a lone pair on Br- then attacks C+ to give 1,2-dibromoethane. OCR also accepts a bromonium ion." loading="lazy">
+  <figcaption>Br2 becomes polar near the C=C, then adds by the same two-step pattern (OCR also accepts a bromonium ion).</figcaption>
+</figure>
+
 
 ## 4.1.3(g) and (h): Electrophile and mechanism
 
@@ -110,6 +143,12 @@ Stability: **tertiary > secondary > primary** carbocation. H–X adding to an un
 
 **Small reminder.** 2-methylpent-2-ene, (CH₃)₂C=CHCH₂CH₃, with HI. + on C2 is tertiary; + on C3 is secondary. Major product: 2-iodo-2-methylpentane.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--07-major-minor-product.webp" width="900" height="1236" alt="H adds to C1 giving a secondary carbocation (two alkyl groups) and 2-bromopropane as major product; H adds to C2 giving a primary carbocation (one alkyl group) and 1-bromopropane as minor. Bars show stability rising primary &lt; secondary &lt; tertiary." loading="lazy">
+  <figcaption>The more stable secondary carbocation forms faster, so 2-bromopropane is the major product.</figcaption>
+</figure>
+
+
 ## 4.1.3(j): Addition polymers
 
 ### Method in steps: monomer to repeat unit
@@ -122,6 +161,12 @@ Stability: **tertiary > secondary > primary** carbocation. H–X adding to an un
 
 > 1. Find the shortest repeating section: two main-chain carbons.
 > 2. Put back the C=C between them and keep their side groups.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--08-addition-polymers.webp" width="900" height="1160" alt="Chloroethene opens its C=C to give the bracketed repeat unit with extension bonds and n; a chain section shows the repeating two-carbon unit; a poly(2-methylpropene) section is reversed to the monomer by putting C=C back." loading="lazy">
+  <figcaption>Open the C=C, keep substituents, add extension bonds and brackets; reverse by finding the repeating pair of carbons.</figcaption>
+</figure>
+
 
 ## 4.1.3(k) and (l): Waste polymers
 

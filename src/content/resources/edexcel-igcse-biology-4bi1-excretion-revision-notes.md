@@ -55,12 +55,39 @@ Respiration never stops. In bright light its carbon dioxide is used in photosynt
 | Kidneys | Urea, excess water, excess ions -- as urine |
 | Skin | Water, ions and a little urea -- as sweat |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--11-organs-of-excretion.webp" width="900" height="860" alt="Lungs excrete carbon dioxide and water vapour; kidneys excrete urea, excess water and ions in urine; skin excretes water, ions and a little urea in sweat." loading="lazy">
+  <figcaption>The three excretory organs and what each removes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--01-excretion-or-egestion.webp" width="900" height="960" alt="A body outline shows the lungs excreting carbon dioxide and the kidneys excreting urea, excess water and excess ions. The gut egests faeces, which are undigested food that was never inside cells. Excretion is labelled in teal and egestion in copper." loading="lazy">
+  <figcaption>Lungs and kidneys excrete cell waste; the gut egests undigested food.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--07-liver-urea-route.webp" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine." loading="lazy">
+  <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea.</figcaption>
+</figure>
+
+
 ## 2.73B Urinary system (Paper 2 only)
 
 Renal artery → **kidney** → **ureter** → **bladder** (stores urine) → **urethra** → outside.
 Cleaned blood leaves the kidney in the renal vein.
 
 Memory hook: the ureter comes first (kidney to bladder); the urethra is the exit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--02-urinary-system.webp" width="900" height="975" alt="Two kidneys lie either side of the spine. A ureter runs from each kidney to the bladder, which stores urine, and one urethra carries urine out. Arrowheads show urine flowing kidney, ureter, bladder, urethra." loading="lazy">
+  <figcaption>Urine flows kidney, ureter, bladder, urethra: two ureters, one urethra.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--03-kidney-section.webp" width="900" height="1000" alt="A kidney cut lengthways: the cortex is the darker outer layer and the medulla is made of cone-shaped inner regions. The ureter leaves from the central, concave inner side." loading="lazy">
+  <figcaption>Cortex is the outer layer, medulla the inner cone-shaped regions.</figcaption>
+</figure>
+
 
 ## 2.74B Nephron structure and jobs (Paper 2 only)
 
@@ -73,6 +100,17 @@ Memory hook: the ureter comes first (kidney to bladder); the urethra is the exit
 | Distal convoluted tubule | Cortex | Adjusts ions reabsorbed |
 | Collecting duct | Through the medulla | Water reabsorbed by osmosis; controlled by ADH |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--13-loop-of-henle-medulla.webp" width="900" height="970" alt="The loop of Henle dips into the medulla and builds up a high ion concentration there, deepest at the bottom. The collecting duct runs through it and water leaves by osmosis; ADH controls permeability." loading="lazy">
+  <figcaption>Loop of Henle makes a salty medulla that draws water out of the collecting duct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--04-nephron.webp" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct." loading="lazy">
+  <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct.</figcaption>
+</figure>
+
+
 ## 2.75B Ultrafiltration in steps (Paper 2 only)
 
 1. Vessel into the glomerulus is wider than the vessel out.
@@ -84,12 +122,29 @@ Memory hook: the ureter comes first (kidney to bladder); the urethra is the exit
 |---|---|
 | Water, glucose, urea, ions, amino acids | Red and white blood cells, platelets, plasma proteins |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--05-ultrafiltration.webp" width="900" height="850" alt="A wide vessel brings blood into the glomerulus inside the capsule and a narrower vessel takes it out, so pressure builds. Small molecules are forced out into the capsule as filtrate and pass on to the tubule. Blood cells and protein are too large and stay in the blood." loading="lazy">
+  <figcaption>High pressure forces small molecules, but not cells or protein, out of the glomerulus.</figcaption>
+</figure>
+
+
 ## 2.77B Glucose reabsorption (Paper 2 only)
 
 - **Why:** glucose is needed for respiration, so the body must not lose it.
 - **Where:** proximal convoluted tubule. All of it, normally.
 - **How:** including active transport, using energy from respiration -- so the tubule cells have many mitochondria (and microvilli for surface area).
 - Glucose in urine means the filtrate held more glucose than the tubule could take back, for example when blood glucose is very high in untreated diabetes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--10-plasma-filtrate-urine-80.webp" width="900" height="1020" alt="Protein 80, 0, 0; glucose 1.0, 1.0, 0; urea 0.30, 0.30, 20 g per dm³ in plasma, filtrate and urine. Urea is 20 ÷ 0.30 = 66.7 times more concentrated in urine." loading="lazy">
+  <figcaption>The lesson table as bars with the 66.7 times calculation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--12-glucose-active-transport.webp" width="900" height="1030" alt="A proximal tubule cell with microvilli facing the filtrate and many mitochondria. Glucose moves from the filtrate through the cell to the blood by active transport, which uses energy from respiration." loading="lazy">
+  <figcaption>Active transport of glucose, with microvilli and mitochondria labelled.</figcaption>
+</figure>
+
 
 ## 2.76B and 2.78B Water reabsorption and ADH (Paper 2 only)
 
@@ -106,6 +161,17 @@ Method in steps -- "explain how water is reabsorbed":
 | High (drinking a lot) | Less | Less permeable | More volume, more dilute |
 
 This is negative feedback, and body water content is an example of homeostasis (2.81).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--06-adh-feedback.webp" width="900" height="1020" alt="When blood water content is too low, more ADH is released, the collecting duct becomes more permeable, more water is reabsorbed and a small volume of concentrated urine is made. When it is too high, less ADH is released and a large volume of dilute urine is made. Either way blood water content returns to normal." loading="lazy">
+  <figcaption>More ADH gives less, more concentrated urine; less ADH gives more, dilute urine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--09-water-reabsorbed-125.webp" width="900" height="1000" alt="Filtrate forms at 125 cm³ per minute and urine leaves at 1.0, so 124 cm³ per minute is reabsorbed: 99.2%. That is 180 dm³ of filtrate per day." loading="lazy">
+  <figcaption>Worked example 3 with the lesson numbers: 99.2% reabsorbed, 180 dm³ per day.</figcaption>
+</figure>
+
 
 ## 2.72B and 2.79B Summary (Paper 2 only)
 

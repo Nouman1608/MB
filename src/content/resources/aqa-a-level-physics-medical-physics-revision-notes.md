@@ -114,6 +114,17 @@ P = 1/u + 1/v
 4. Protons de-excite and emit RF signals.
 5. Signals detected and processed by computer into an image.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--01-aphy-medical-ultrasound-echo.webp" width="900" height="970" alt="A probe sends a pulse down through fat, muscle and bone; echoes from the fat-muscle and muscle-bone boundaries return after 26 and 78 microseconds. Because the pulse goes there and back, the bone surface is at d = ct/2 = 6.0 cm. The muscle-bone echo is far stronger (41 percent) than the fat-muscle one (1.4 percent)." loading="lazy">
+  <figcaption>Pulse-echo ultrasound: echo time gives depth through d = ct/2, and echo strength depends on the impedance change at each boundary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--02-aphy-medical-ultrasound-gel.webp" width="900" height="840" alt="Without gel an air gap (Z about 408) lies against skin (Z 1.60 million) and 99.9 percent of the ultrasound is reflected. Gel with an impedance close to skin (1.52 million) reflects only 0.07 percent, so nearly all the beam enters the body. This is impedance matching, not lubrication." loading="lazy">
+  <figcaption>Gel matches the impedance of the skin so that almost none of the ultrasound is reflected at the surface.</figcaption>
+</figure>
+
+
 ## 3.10.5 X-rays
 
 - **Continuous spectrum**: electrons decelerate in the target. **Characteristic lines**: inner-shell vacancies filled. Cut-off at E = eV.
@@ -124,6 +135,17 @@ P = 1/u + 1/v
 - **Intensifying screen**: light from phosphor exposes film; less dose. **Image intensifier**: X-rays → light → electrons → accelerated onto output phosphor; bright live image.
 - **Attenuation**: bone absorbs much more than soft tissue (differential absorption).
 - **CT**: rotating tube, narrow monochromatic beam, detector array, computer image. High resolution, 3D; costly; high dose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--04-aphy-medical-xray-production.webp" width="900" height="1210" alt="A heated filament releases electrons that a high voltage accelerates onto a tungsten target in a copper anode inside a lead-lined, evacuated tube. The spectrum has a sharp cut-off at the shortest wavelength hc/eV: 1.55 and 3.11 times 10 to the minus 11 m for 80 kV and 40 kV. Narrow characteristic lines depend on the target and appear only if eV is large enough." loading="lazy">
+  <figcaption>Tube voltage sets the shortest wavelength (maximum photon energy); tube current sets the intensity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--05-aphy-medical-attenuation-contrast.webp" width="900" height="1060" alt="X-ray intensity falls exponentially, I = I0 e^(-mu x), with a half-value thickness ln2/mu (3.3 cm for mu = 0.21 per cm). A beam crossing a 1.8 cm bone block ends at 7.8 percent of its original intensity against 15.1 percent through tissue alone, about half. That difference is the image contrast." loading="lazy">
+  <figcaption>Bone has a larger attenuation coefficient than soft tissue, so the beam behind it is weaker: this is image contrast.</figcaption>
+</figure>
+
 
 ## 3.10.6 Radionuclides
 
@@ -142,6 +164,17 @@ P = 1/u + 1/v
 - CT: high resolution, 3D; expensive; high ionising dose.
 - MR: high resolution, best for soft tissue; expensive and slow; non-ionising, but not with some metal implants.
 - Gamma camera and PET: lower resolution but show organ function; need a tracer; ionising dose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--07-aphy-medical-gamma-camera.webp" width="900" height="990" alt="Gamma photons from tracer in an organ pass through a lead collimator that only lets photons travelling straight along a hole through; photons at an angle are absorbed. Each photon makes a flash in the crystal, the photomultiplier tubes give pulses (largest from the nearest tube) and the computer uses them to add a count at that place in the image." loading="lazy">
+  <figcaption>A gamma camera forms an image of tracer distribution, one counted photon at a time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--08-aphy-medical-pet.webp" width="900" height="1030" alt="A positron from a tracer such as fluorine-18 annihilates with an electron to give two 0.511 MeV gamma photons travelling in opposite directions. A ring of detectors records photons that arrive together; the source lies on the line joining the two detectors. Lines from many events cross at the tracer-rich tissue." loading="lazy">
+  <figcaption>PET detects pairs of back-to-back photons, so each coincidence marks a line through the source.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -182,6 +215,12 @@ P = 1/u + 1/v
 10. 1/T_E = 1/24 + 1/6.0 = 5/24, so **T_E = 4.8 h**
 11. **The T wave**
 12. 1.60 × 10⁻¹⁹ × 1.20 × 10⁵ = **1.92 × 10⁻¹⁴ J**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--09-aphy-medical-engine-cycle.webp" width="900" height="1050" alt="On a p-V graph the theoretical petrol cycle is two adiabatics joined by two constant-volume lines. The loop is clockwise, so it is an engine, and its area is the work per cycle: 380 J here. With 25 cycles a second in four cylinders that gives an indicated power of 38 kW." loading="lazy">
+  <figcaption>The area of the p-V loop is the work done per cycle, which gives indicated power.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

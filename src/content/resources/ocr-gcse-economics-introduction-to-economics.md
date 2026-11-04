@@ -55,6 +55,12 @@ and for whom goods and services should be produced, opportunity cost,
 and evaluating the costs and benefits of economic choices including
 their impact on economic, social and environmental sustainability
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--08-social-cost-and-benefit.webp" width="900" height="890" alt="Left: private cost 60 plus external cost 40 on third parties gives social cost 100. Right: private benefit 50 plus external benefit 30 gives social benefit 80." loading="lazy">
+  <figcaption>Social cost = private cost + external cost; social benefit = private benefit + external benefit.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Main economic groups and factors of production (1.1) sets up the
@@ -102,6 +108,12 @@ Opportunity cost applies to all three economic agents: a consumer choosing betwe
 
 Note that capital in economics means productive equipment, not money. Money is a means of exchange, not a factor of production.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+
 ## Production possibility curves
 
 The specification does not use the terms "production possibility curve," "PPC" or "PPF" -- this
@@ -127,6 +139,12 @@ Every economy must answer what to produce, how to produce it, and for whom. The 
 Specialisation raises output through practice, mechanisation and economies of scale. It creates interdependence, which requires exchange, which requires money. Without money, trade depends on a **double coincidence of wants** — each party wanting exactly what the other offers — which barter rarely delivers.
 
 Money works because it acts as a medium of exchange, a measure of value, a store of value and a means of deferred payment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
 
 ## Worked example
 

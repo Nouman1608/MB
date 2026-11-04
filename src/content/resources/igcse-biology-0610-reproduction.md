@@ -78,6 +78,12 @@ You must identify examples from diagrams or information. Look for one parent and
 | Advantages | Only one parent needed, so no mate or pollinator required; fast; a well-adapted parent's features are kept in a stable environment | Every plant has the same desirable features (yield, flavour); quick and reliable |
 | Disadvantages | No variation, so a new disease or environmental change can affect all individuals; offspring close to the parent compete for resources | A single disease can destroy the whole crop; no new varieties arise without sexual reproduction |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
+</figure>
+
+
 ## 16.2 Sexual reproduction
 
 **Sexual reproduction** is a process involving the **fusion of the nuclei of two gametes** to form a **zygote**, and the production of offspring that are **genetically different** from each other. **Fertilisation** is the fusion of the nuclei of gametes.
@@ -90,6 +96,32 @@ You must identify examples from diagrams or information. Look for one parent and
 
 - Body cells are diploid, so haploid = 38 ÷ 2 = **19** in the egg cell.
 - The zygote forms when two haploid nuclei fuse: 19 + 19 = **38**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--02-flower-parts.webp" width="900" height="880" alt="Half-flower diagram labelling petal, sepal, and the male stamen (anther on a filament) and female carpel (stigma, style, ovary with ovules), each with its function." loading="lazy">
+  <figcaption>Label the parts of a flower and say what each does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--04-pollen-tube.webp" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
+  <figcaption>Follow pollen from the stigma to fertilisation in the ovule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--05-reproductive-systems.webp" width="900" height="1240" alt="Front-view schematics of the male (testes in scrotum, sperm ducts, prostate gland, urethra, penis) and female (ovaries, oviducts, uterus, cervix, vagina) systems with the function of each part." loading="lazy">
+  <figcaption>Identify the parts of the human reproductive systems and their jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--06-sperm-and-egg.webp" width="900" height="1010" alt="Labelled egg (jelly coat, nucleus, cytoplasm with energy stores) and sperm (acrosome with enzymes, nucleus, mitochondria, flagellum), with a summary of size, movement and numbers." loading="lazy">
+  <figcaption>Show how sperm and egg are adapted for their functions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--07-placenta-exchange.webp" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Extended panel: oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross." loading="lazy">
+  <figcaption>Show what the placenta does and what crosses it.</figcaption>
+</figure>
+
 
 ## 16.3 Sexual reproduction in plants
 
@@ -124,6 +156,12 @@ You must be able to draw and label these, so practise a clear half-flower drawin
 **Extended only.** **Self-pollination** is transfer to the stigma of the same flower or another flower on the same plant. **Cross-pollination** is transfer to the stigma of a flower on a different plant of the same species. Self-pollination gives less variation, so the population is less able to respond to environmental change, but it relies less on pollinators. Cross-pollination gives more variation and a better capacity to respond to change, but depends on pollinators (or wind) and on other plants being nearby.
 
 After pollination, a **pollen tube** grows out of the pollen grain, down through the style to the ovary, and enters the ovule through a small gap (the micropyle). The pollen nucleus moves down the tube and fuses with the nucleus in the ovule (Extended only).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--03-wind-vs-insect.webp" width="900" height="1000" alt="Two flowers compared: an insect-pollinated flower with large coloured petals, anthers and stigma inside and sticky or spiky pollen, and a wind-pollinated flower with small green petals, anthers and feathery stigma hanging outside and light smooth pollen made in huge numbers." loading="lazy">
+  <figcaption>Compare the features of insect- and wind-pollinated flowers.</figcaption>
+</figure>
+
 
 ### Germination
 
@@ -189,6 +227,12 @@ At puberty, **testosterone** (from the testes) causes growth of facial and body 
 | Progesterone | Corpus luteum in the ovary | Maintains the lining; stops FSH and LH, so no new follicle develops |
 
 If there is no pregnancy, the corpus luteum breaks down, progesterone falls, the lining is lost and FSH rises again. In **pregnancy**, the corpus luteum keeps making progesterone at first, then the **placenta** makes progesterone and oestrogen, so the lining is kept and no ovulation happens.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
+</figure>
+
 
 ## 16.6 Sexually transmitted infections
 

@@ -97,6 +97,12 @@ To undo the translation, reverse it: the column vector (5, −3).
 
 When a question says "describe fully the single transformation", you need **both** the word "translation" and the column vector. The vector alone is not a description.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
+  <figcaption>Finish minus start gives the column vector; the reverse vector has both signs changed.</figcaption>
+</figure>
+
+
 ## 7.2 Adding and subtracting vectors
 
 <!-- marlbridge-diagram:math-b53-vector-add-subtract-entrywise -->
@@ -133,6 +139,17 @@ q − p  =  (  7 ) − ( −2 ) = (  7 − (−2) ) = (  9 )
 Check: **q** − **p** is exactly −(**p** − **q**), as it must be.
 
 Sign errors happen on "minus a negative". Write the bracket in, as above, before you simplify.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--02-adding-vectors.webp" width="900" height="1020" alt="p = (5,-2) is drawn from the origin, then q = (-1,7) from where p ends. The single arrow from the origin to (4,5) is p + q, found by adding tops and adding bottoms." loading="lazy">
+  <figcaption>p + q means do p, then q; add the tops and add the bottoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--03-subtracting-vectors.webp" width="900" height="1026" alt="p = (5,-2), then -q = (1,-7) from the end of p. The arrow from the origin to (6,-9) is p - q, the same as subtracting entry by entry." loading="lazy">
+  <figcaption>p − q is p plus the opposite of q.</figcaption>
+</figure>
+
 
 ## 7.2 Multiplying a vector by a scalar
 
@@ -212,6 +229,12 @@ n = 2(2) − 1  = 3
 **m = 2, n = 3.** Check: 2**a** + 3**b** = (4, 2) + (−3, 9) = (1, 11). Correct.
 
 This is a pair of simultaneous equations (E2.5). Always substitute back as a check.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
+  <figcaption>Multiplying by k scales both entries and keeps the arrow parallel to r.</figcaption>
+</figure>
+
 
 ## 7.3 Magnitude of a vector
 
@@ -305,6 +328,17 @@ Find a vector of magnitude 25 that is parallel to the column vector (8, −6).
 ```
 
 The column vector (20, −15) works, and so does (−20, 15), which points the opposite way. This combines E7.2 (scalar multiples are parallel) with E7.3 (magnitude).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--05-magnitude-pythagoras.webp" width="900" height="998" alt="The vector (-8,15) is the hypotenuse of a right-angled triangle with sides 8 and 15. Pythagoras gives square root of (64 + 225) = 17." loading="lazy">
+  <figcaption>The magnitude is the hypotenuse of the right-angled triangle with sides x and y.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--06-magnitude-of-sum.webp" width="900" height="800" alt="a = (3,-1) then b = (-2,4) gives a + b = (1,3). |a| + |b| = 7.63 but |a + b| = 3.16, so magnitudes cannot be added separately." loading="lazy">
+  <figcaption>Add the vectors first, then find the magnitude; |a + b| is not |a| + |b|.</figcaption>
+</figure>
+
 
 ## Paper 2 and Paper 4
 

@@ -53,6 +53,12 @@ Matter is made of particles (atoms or molecules) that are always moving and that
 
 This explains why solids and liquids are hard to compress (particles already touch) and gases are easy to compress (large gaps). A liquid flows because particles can move past each other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--01-molecular-model.webp" width="900" height="700" alt="Three boxes show a solid lattice with particles vibrating about fixed sites, a liquid pile of touching particles that can slide past each other, and a gas of few, widely spaced particles with long arrows for fast random motion. Under each box are its compressibility and density. Solids and liquids have density of order 10^3 kg per cubic metre, gases about a thousand times less." loading="lazy">
+  <figcaption>Solids and liquids have touching particles; gas particles are far apart and move fast and randomly.</figcaption>
+</figure>
+
+
 ## Density
 
 Density links mass and volume: **ρ = m/V**, the mass in each unit of volume. The SI unit is kg m⁻³. Solids and liquids have densities of order 10³ kg m⁻³, and gases are about a thousand times lower because the particles are far apart.
@@ -88,6 +94,12 @@ The Celsius scale is set by everyday reference points. The Kelvin scale starts a
 
 A kelvin and a degree Celsius are the same size, so a temperature **change** is identical on both scales. Heating water from 20 °C to 45 °C is ΔT = 25 °C = 25 K. This is why you can put a Celsius change straight into Q = mcΔT, but you must never put a Celsius temperature into Ek = 3/2 kB T.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--02-kelvin-celsius.webp" width="900" height="730" alt="A thermometer drawn to scale (1.1 px per kelvin) has kelvin labels on the left and Celsius on the right: 0 K is -273 C, 77 K is -196 C, 273 K is 0 C, 310 K is 37 C, 373 K is 100 C. A bracket shows 100 K equals 100 C, so a change in temperature is the same on both scales." loading="lazy">
+  <figcaption>A kelvin and a degree Celsius are the same size, offset by 273.</figcaption>
+</figure>
+
+
 ## Temperature and molecular kinetic energy
 
 The kelvin temperature indicates the mean random kinetic energy of a particle, through:
@@ -106,6 +118,12 @@ v = 1.22 × 10³ m s⁻¹
 
 The speed found this way is a typical speed that corresponds to the average kinetic energy, because individual atoms move at a spread of speeds. At the same temperature a heavier atom has the same average kinetic energy but a lower speed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--03-ek-kelvin.webp" width="900" height="1080" alt="A straight line through the origin plots mean kinetic energy against kelvin temperature using E_k = 3/2 k_B T. At 240 K it is 4.97e-21 J (helium speed about 1.22e3 m/s) and at 480 K it is 9.94e-21 J, double. Bar charts contrast doubling kelvin temperature (energy doubles) with doubling Celsius temperature from 20 to 40 C (energy rises only 1.07 times)." loading="lazy">
+  <figcaption>Mean kinetic energy is proportional to kelvin temperature, not Celsius.</figcaption>
+</figure>
+
+
 ## Internal energy
 
 Internal energy has two parts, added together:
@@ -120,11 +138,23 @@ Two links to temperature follow.
 - Raising the temperature raises the average random kinetic energy, so internal energy rises.
 - Potential energy rises when the particles are pulled further apart against the attractive forces. This is why internal energy can change with no temperature change (next sections).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--04-internal-energy.webp" width="900" height="920" alt="Nine particles are joined by zigzag springs for intermolecular potential energy and carry arrows for random kinetic energy. Internal energy is the total potential plus the total random kinetic energy. A block moving through space is marked as not part of internal energy." loading="lazy">
+  <figcaption>Internal energy is total intermolecular potential energy plus total random kinetic energy.</figcaption>
+</figure>
+
+
 ## Direction of thermal transfer
 
 Energy is transferred as heat between bodies at different temperatures. The **temperature difference decides the direction**: the net transfer is from the hotter body to the cooler one, and it continues until the temperatures are equal.
 
 The direction does not depend on which body holds more internal energy. Energy flows from a small cup of tea at 90 °C into a large lake at 12 °C, because the tea is hotter, even though the lake has far more internal energy overall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--05-transfer-direction.webp" width="900" height="940" alt="A small cup of tea at 90 C and a large lake at 12 C with an arrow from tea to lake. Bars (not to scale) show the lake has far more internal energy, yet energy still flows from the hotter tea, because direction depends on temperature difference." loading="lazy">
+  <figcaption>Energy flows from hotter to cooler, regardless of which body has more internal energy.</figcaption>
+</figure>
+
 
 ## Phase changes
 
@@ -137,6 +167,12 @@ During melting, freezing, boiling and condensing, the temperature stays constant
 At a phase change the energy supplied does not increase the average random kinetic energy. It increases the **potential energy** by moving particles apart against the forces between them. The particle behaviour changes while the temperature stays constant. When the substance freezes or condenses, the same energy is given out as the potential energy falls.
 
 Evaporation cools the liquid left behind. The fastest molecules at the surface are the ones that escape, so the average kinetic energy of the remaining molecules falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--07-evaporation-boiling.webp" width="900" height="740" alt="Two tanks compare evaporation, where a few fast surface molecules escape at any temperature below boiling and the liquid left cools, with boiling, where vapour bubbles form throughout the liquid at a fixed temperature and the energy supplied raises potential energy." loading="lazy">
+  <figcaption>Evaporation is at the surface and cools the liquid; boiling is throughout the liquid at constant temperature.</figcaption>
+</figure>
+
 
 ## Heating calculations
 
@@ -170,6 +206,12 @@ Total = 6804 + 60 120 + 30 096 = 97 020 J = 9.70 × 10⁴ J
 ```
 
 Melting takes by far the largest share, which shows how much potential energy must be added to separate the particles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--06-heating-curve.webp" width="900" height="990" alt="A heating graph for 0.180 kg of ice from -18 C to water at 40 C. Warming ice takes 6804 J, melting at constant 0 C takes 60120 J, warming water takes 30096 J; total 97020 J, with melting 62 percent." loading="lazy">
+  <figcaption>Melting needs the largest share of energy while the temperature stays constant.</figcaption>
+</figure>
+
 
 ## Common errors
 

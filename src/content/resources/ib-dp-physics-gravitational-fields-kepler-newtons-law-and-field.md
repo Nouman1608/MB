@@ -93,6 +93,17 @@ The two values agree to three significant figures, so T² ∝ r³ for both moons
 
 A shortcut for a planet orbiting at four times another's distance: T scales as 4^(3/2) = 8, so its period is eight times longer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field--01-kepler-orbit-areas.webp" width="900" height="960" alt="An elliptical orbit with the Sun at one focus. Two equal-area wedges swept in equal times: a short wide one near the Sun, where the asteroid moves at 28.0 km per s, and a long thin one far away at 11.2 km per s. At closest and furthest points r1v1 = r2v2." loading="lazy">
+  <figcaption>Equal areas in equal times: the asteroid is fastest when closest, with r1v1 = r2v2 at the two extremes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field--02-kepler-third.webp" width="900" height="1150" alt="A graph of T² against r³ for Titan and Rhea: both points lie on one straight line through the origin, since T²/r³ = 1.04 × 10⁻¹⁵ s² m⁻³ for both. Below, an orbit with four times the radius has a period eight times longer." loading="lazy">
+  <figcaption>T² ∝ r³: Titan and Rhea share one constant, and 4 times the radius means 8 times the period.</figcaption>
+</figure>
+
+
 ## Newton's universal law of gravitation
 
 Every pair of point masses attracts with equal and opposite forces of magnitude:
@@ -119,6 +130,12 @@ Doubling r divides F by 2² = 4, so the new force is 2.61 × 10⁻⁷ N.
 
 The forces are tiny because G is tiny. Gravity is only noticeable when at least one mass is planet-sized.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field--03-newton-law-pair.webp" width="900" height="880" alt="Two spheres of 250 kg and 40 kg attract with equal and opposite forces of 1.04 × 10⁻⁶ N at 0.80 m. Doubling the separation to 1.6 m divides the force by four, to 2.61 × 10⁻⁷ N, shown with arrows to the same scale." loading="lazy">
+  <figcaption>Equal and opposite forces that fall to a quarter when the separation doubles.</figcaption>
+</figure>
+
+
 ## Extended bodies as point masses
 
 The law is written for point masses. A real body can be treated as a point mass at its centre when:
@@ -137,6 +154,12 @@ F = 6.67e-11 × 5.97e24 × 1200 / (6.97e6)²
 ```
 
 Using 6.37 × 10⁶ m for r would be the most common slip here.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field--04-r-centre-to-centre.webp" width="900" height="950" alt="A to-scale Earth with a satellite 600 km above the surface. R = 6.37 × 10⁶ m, h = 0.60 × 10⁶ m and r = R + h = 6.97 × 10⁶ m is measured from the Earth’s centre. The force is 9.84 × 10³ N towards the centre." loading="lazy">
+  <figcaption>Use r = R + h, measured centre to centre, not from the surface.</figcaption>
+</figure>
+
 
 ## Gravitational field strength
 
@@ -201,6 +224,17 @@ resultant = 9.38e-5 − 5.86e-6 = 8.79 × 10⁻⁵ N kg⁻¹ towards A
 
 Always state the direction. A resultant field strength is a vector, so the number alone is incomplete.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field--05-field-strength-mars.webp" width="900" height="890" alt="Graph of g against r from the centre of Mars, plotted from GM/r². At the surface g = 3.73 N per kg; g falls to 1.00 N per kg at r = 6.54 × 10⁶ m, a height of 3.15 × 10⁶ m. An 85 kg astronaut weighs 317 N at the surface." loading="lazy">
+  <figcaption>g = GM/r² falls as an inverse square curve and does not depend on the test mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field--07-two-bodies-null-point.webp" width="900" height="990" alt="At P, 1.6 × 10⁸ m from A, A’s field (9.38 × 10⁻⁵ N per kg) and B’s field (5.86 × 10⁻⁶) oppose, so the resultant is 8.79 × 10⁻⁵ N per kg towards A. At the null point, 3.2 × 10⁸ m from A and nearer the smaller mass B, the fields are equal and opposite." loading="lazy">
+  <figcaption>Between two bodies the fields oppose: subtract, and find the null point where they are equal.</figcaption>
+</figure>
+
+
 ## Gravitational field lines
 
 Field lines show the direction a small mass would be pushed. The guide requires you to sketch and interpret them.
@@ -218,6 +252,12 @@ decrease       = 0.25 %
 ```
 
 A quarter of one percent is small. Over heights much smaller than R, treating g as constant is a good approximation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field--06-field-lines.webp" width="900" height="1020" alt="Sixteen field lines point radially inwards to a planet’s centre, closer together near the planet. Zoomed in at the surface the lines are parallel and equally spaced, a uniform field. Two bars show g at the ground and 8.0 km up differ by only 0.25 %." loading="lazy">
+  <figcaption>Radial near a planet, uniform near its surface: g changes by only 0.25 % over 8.0 km.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -72,6 +72,27 @@ Acidified ammonium vanadate(V) is shaken with excess Sn²⁺ ions.
 
 A positive E⦵cell shows feasibility only. It says nothing about rate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
+  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
+  <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--09-fuel-cells.webp" width="900" height="1300" alt="Hydrogen is fed to the negative electrode and oxygen to the positive electrode, with electrons flowing through the lamp circuit. In the alkaline cell OH- ions move through the electrolyte towards the hydrogen electrode and water forms there; in the acidic cell H+ ions move towards the oxygen electrode and water forms there. Both give 2H2 + O2 to 2H2O." loading="lazy">
+  <figcaption>A fuel cell is fed continuously with hydrogen and oxygen and gives 2H2 + O2 -&gt; 2H2O, with different ions carrying charge in alkali and acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--08-vanadium-oxidation-states.webp" width="900" height="810" alt="Four test tubes show yellow VO2+ (+5), blue VO2+ (+4), green V3+ (+3) and violet V2+ (+2), joined by arrows labelled Zn with E cell values +1.76 V, +1.10 V and +0.50 V. An arrow shows the oxidation state falling from +5 to +2." loading="lazy">
+  <figcaption>Zinc reduces vanadium from +5 to +2 in steps, each with a colour change.</figcaption>
+</figure>
+
+
 ## Chromium: dichromate(VI), Cr³⁺ and Cr²⁺ (17.20-17.21)
 
 **Reduction with zinc in acid.** Orange Cr₂O₇²⁻ is reduced first to green Cr³⁺, then to blue Cr²⁺. Data: Cr₂O₇²⁻/Cr³⁺ +1.33 V; Cr³⁺/Cr²⁺ −0.41 V.
@@ -128,6 +149,22 @@ The darkening of Mn(OH)₂, Fe(OH)₂ and the cobalt ammine is oxidation by air 
 
 A neutral precipitate has as many OH⁻ ligands as the metal's charge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--05-nernst.webp" width="900" height="890" alt="A straight-line graph shows E for the Cu2+/Cu half-cell rising from about 0.25 V at 0.001 mol per dm3 to +0.340 V at 1.00 mol per dm3 as log[Cu2+] increases. The point at 0.0100 mol per dm3 is +0.281 V. Higher Cu2+ concentration makes E more positive." loading="lazy">
+  <figcaption>E rises linearly with log[Cu2+] with slope 0.059/z, so diluting Cu2+ makes the electrode less positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--06-delta-g.webp" width="900" height="1120" alt="Bars show E° cell for three reactions (+1.10 V, +0.23 V, -0.59 V) above the matching delta G values from delta G = -nFE (-212.3, -44.4 and +113.9 kJ). A positive E° cell gives a negative delta G, a feasible reaction and, for Edexcel, K greater than 1." loading="lazy">
+  <figcaption>A positive E° cell always corresponds to a negative delta G, because F is positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--08-lithium-cell.webp" width="900" height="1000" alt="Lithium is the negative electrode and CoO2 the positive electrode, with Li+ ions moving through the electrolyte and electrons through the external lamp circuit from lithium to CoO2. At the negative electrode Li loses an electron (0 to +1); at the positive electrode cobalt is reduced from +4 to +3. Recharging reverses both reactions." loading="lazy">
+  <figcaption>On discharge lithium is oxidised and cobalt is reduced; recharging reverses both reactions.</figcaption>
+</figure>
+
+
 ## Ligand exchange and colour change (17.24)
 
 **Copper with ammonia.** Pale blue [Cu(H₂O)₆]²⁺ gives a pale blue precipitate, [Cu(OH)₂(H₂O)₄], then a deep blue solution:
@@ -143,6 +180,12 @@ Overall, four NH₃ replace four of the six water ligands of [Cu(H₂O)₆]²⁺
 
 Cl⁻ is larger than H₂O, so only four fit: the shape changes from octahedral to tetrahedral and the coordination number from 6 to 4. Both colour changes come from a change of ligand and coordination number. Adding water reverses them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--01-complex-anatomy.webp" width="900" height="1160" alt="An octahedral copper(II) ion has six water ligands, each joined by a dative bond (a lone pair donated by the ligand); labels name the metal ion, ligand and dative bond. Below, three bidentate ethanedioate ligands (coloured curves) give six bonds to chromium, so the coordination number is 6 and Cr is +3." loading="lazy">
+  <figcaption>A complex is a metal ion with ligands bonded by dative bonds; count the bonds, not the ligands, for coordination number.</figcaption>
+</figure>
+
+
 ## Why chelating ligands win (17.25)
 
 When a bidentate or hexadentate ligand replaces monodentate ones, the number of particles in solution rises. For example, [Mn(H₂O)₆]²⁺ + EDTA⁴⁻ → [Mn(EDTA)]²⁻ + 6H₂O goes from 2 particles to 7, so ΔSsystem is large and positive. The bonds broken and made are similar metal-ligand bonds, so ΔH is small and ΔSsurroundings (= −ΔH/T) is small too. ΔStotal is therefore positive, and since ΔStotal = R ln K, K is large: the chelated complex is more stable.
@@ -154,6 +197,22 @@ Use these values for the Mn²⁺/EDTA⁴⁻ reaction above at 298 K: ΔH = +4.0 
 1. ΔSsurroundings = −ΔH/T = −4000/298 = −13.4 J K⁻¹ mol⁻¹.
 2. ΔStotal = 190 + (−13.4) = **+176.6 J K⁻¹ mol⁻¹**.
 3. Positive, so the reaction is feasible even though it is endothermic. The entropy gain of the system drives it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--04-optical-isomers.webp" width="900" height="870" alt="Two drawings of [Ni(en)3]2+ stand either side of a mirror line. Each has three curved bidentate ligands joining pairs of nitrogen atoms. They are mirror images and cannot be superimposed." loading="lazy">
+  <figcaption>[Ni(en)3]2+ exists as two non-superimposable mirror images, so it shows optical isomerism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--05-ligand-exchange.webp" width="900" height="1295" alt="Pale blue [Cu(H2O)6]2+ gives deep blue [Cu(NH3)4(H2O)2]2+ with ammonia (still six bonds) and yellow tetrahedral [CuCl4]2- with concentrated HCl (six bonds to four). Pink [Co(H2O)6]2+ becomes blue [CoCl4]2- with chloride." loading="lazy">
+  <figcaption>Ammonia swaps for water without changing coordination number, but larger chloride ions give a four-coordinate tetrahedral complex.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--06-chelate-effect.webp" width="900" height="990" alt="Left: a nickel water complex plus three en molecules, 4 particles. Right: the nickel en complex plus six free water molecules, 7 particles. A stacked bar shows illustrative dG = -8.0 + (-32.8) = -40.8 kJ/mol at 298 K, which is negative." loading="lazy">
+  <figcaption>More particles means positive entropy change, so dG is negative and the chelate forms.</figcaption>
+</figure>
+
 
 ## Catalysis (17.26-17.32)
 
@@ -184,6 +243,12 @@ S₂O₈²⁻ + 2Fe²⁺ → 2SO₄²⁻ + 2Fe³⁺   E⦵cell = 2.01 − 0.77 =
 Each step involves oppositely charged ions. Fe³⁺ is the intermediate and Fe²⁺ is regenerated. Fe³⁺ works too, with the steps reversed.
 
 **Mn²⁺ as an autocatalyst** (17.32). In 2MnO₄⁻ + 16H⁺ + 5C₂O₄²⁻ → 2Mn²⁺ + 10CO₂ + 8H₂O, the product Mn²⁺ catalyses the reaction. Mn²⁺ is oxidised to Mn³⁺ by MnO₄⁻, then Mn³⁺ oxidises C₂O₄²⁻ and returns to Mn²⁺. A plot of [MnO₄⁻] against time falls slowly at first, then steeply as Mn²⁺ builds up, then levels off as reactants run out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--09-catalyst-cycles.webp" width="900" height="1270" alt="Two cycles. Top, heterogeneous: V2O5 (V +5) reacts with SO2 giving SO3 and becomes V2O4 (V +4), then reacts with half an O2 to return to V2O5. Bottom, homogeneous: Fe2+ is oxidised by S2O8 2- to Fe3+, which is reduced back by I- forming iodine." loading="lazy">
+  <figcaption>A transition metal catalyst changes oxidation state to give an easier route and is then regenerated.</figcaption>
+</figure>
+
 
 ## Core Practical 14: preparing a complex (17.33)
 

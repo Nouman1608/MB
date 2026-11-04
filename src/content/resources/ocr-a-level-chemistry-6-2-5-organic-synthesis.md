@@ -45,6 +45,12 @@ Water enters the condenser at its lower end. Use an electric heater and anti-bum
 
 When the product is a solid, the preparation usually ends by making it leave solution: cool in ice, or change the pH so an insoluble form precipitates. You then collect and purify it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--08-reflux-distillation.webp" width="900" height="1040" alt="Reflux: vertical condenser with its top open, water in at the bottom and out at the top, vapour rising and liquid falling back. Distillation: still head with the thermometer bulb level with the side arm, a sloping condenser with water in and out, and a receiver for the product." loading="lazy">
+  <figcaption>Reflux keeps volatile material in the flask; distillation collects it (OCR and Edexcel content).</figcaption>
+</figure>
+
+
 ## 6.2.5(a)(ii): Purifying an organic solid
 
 ### Filtration under reduced pressure
@@ -124,6 +130,17 @@ Compound K is HOC₆H₄COCH₂CH₂COOH, with the OH and the side chain at posi
 5. **Ethanol with concentrated H₂SO₄, heated.** The COOH forms an ethyl ester. The phenol OH is not readily esterified by a carboxylic acid.
 6. **Properties.** Two O–H groups hydrogen bond, so K is a solid with a fairly high melting point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--03-cyanide-mechanisms.webp" width="900" height="1195" alt="Curly-arrow mechanisms: the cyanide lone pair attacks the delta-positive carbon of bromoethane and the C-Br bond breaks to give Br-; then the same lone pair attacks the carbonyl carbon of propanone, the C=O pi bond moves onto O, and O- takes H+ to give a hydroxynitrile." loading="lazy">
+  <figcaption>The cyanide arrow starts on the lone pair on carbon; the mechanisms are required by OCR (tagged in the figure).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--04-grignard-reagent.webp" width="900" height="1120" alt="Ethylmagnesium bromide, made in dry ether, adds its ethyl group to carbon dioxide, methanal, ethanal and propanone. After dilute acid the products are propanoic acid, propan-1-ol, butan-2-ol and 2-methylbutan-2-ol: an acid and a primary, secondary and tertiary alcohol." loading="lazy">
+  <figcaption>Edexcel only: a Grignard reagent adds carbons from its alkyl group to a carbonyl compound, giving an acid or a primary, secondary or tertiary alcohol.</figcaption>
+</figure>
+
+
 ## 6.2.5(c): Multi-stage synthetic routes
 
 You may need to link any functional groups in the specification, in several steps. A paper may supply an unfamiliar reaction; use it as stated.
@@ -152,12 +169,24 @@ Combine this with the Module 4 table in the 4.2.3 guide.
 | Carboxylic acid | Acyl chloride | SOCl₂ |
 | Acyl chloride | Ester, acid, primary or secondary amide | Alcohol or phenol; water; NH₃; primary amine |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--01-reaction-map.webp" width="900" height="830" alt="A map linking alkene, haloalkane, alcohol, carbonyl, acid, ester, nitrile and amine with reagent labels. The gold arrow (haloalkane to nitrile with KCN) is the one that adds a carbon. Following arrows end to end gives a multi-step route." loading="lazy">
+  <figcaption>Plan routes by following arrows from start to target; only reactions in the specification count (steam hydration is not in OxfordAQA; nitrile hydrolysis is OCR).</figcaption>
+</figure>
+
+
 ### Planning method
 
 1. Name the groups in the start and the target. Count the carbons. One extra carbon means a nitrile or hydroxynitrile step; a new carbon on a ring means Friedel–Crafts.
 2. Work backwards from the target, one step at a time, until you reach something you can make from the start.
 3. On a ring, place substituents in an order that the directing effects allow (6.1.1(k)–(l)). Introduce groups that would react with a later reagent, such as NH₂, as late as possible.
 4. For each step give the reagent, the conditions and the intermediate's structure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--02-new-cc-bonds.webp" width="900" height="1040" alt="Three reactions that make a new C-C bond: bromoethane with KCN (2 C to 3 C), propanone with HCN (3 C to 4 C) and benzene with an acyl chloride and AlCl3 (6 C to 8 C). New carbons are circled in gold." loading="lazy">
+  <figcaption>Only a few reactions change the carbon count: KCN with a haloalkane, HCN or KCN with a carbonyl, and Friedel-Crafts acylation.</figcaption>
+</figure>
+
 
 ### Worked example 4: pent-1-ene to 2-methylpentan-1-amine
 
@@ -168,6 +197,12 @@ The target, CH₃CH₂CH₂CH(CH₃)CH₂NH₂, has six carbons; the start has f
 3. H₂ with a nickel catalyst reduces C≡N to CH₂NH₂: **2-methylpentan-1-amine**.
 
 Ammonia on 2-bromopentane would give a five-carbon amine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--05-route-planning.webp" width="900" height="1010" alt="Three-step route from ethene (2 C) to propan-1-amine (3 C): HBr gives bromoethane, KCN in ethanol under reflux gives propanenitrile (+1 C), and LiAlH4 reduction gives the amine. A crossed-out side branch shows that ammonia would give ethylamine, only 2 C." loading="lazy">
+  <figcaption>Count carbons first: a longer chain needs the cyanide step, because bromoethane with ammonia only gives ethylamine.</figcaption>
+</figure>
+
 
 ### Worked example 5: benzene to 1-(3-aminophenyl)ethanone
 

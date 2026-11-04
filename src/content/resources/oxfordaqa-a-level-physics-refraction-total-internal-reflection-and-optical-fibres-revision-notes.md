@@ -54,6 +54,12 @@ Constants used in these notes: c = 3.00 × 10⁸ m s⁻¹, n for air = 1.
 | Wavelength | Yes, shorter in the denser medium |
 | Direction | Yes, unless incidence is along the normal |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--03-refraction-bending.webp" width="900" height="1070" alt="Top: light in air meets plastic (n = 1.47) at 38.0 degrees and refracts to 24.8 degrees, bending towards the normal. Bottom: light in glass (n = 1.50) meets water (n = 1.33) at 35.0 degrees and refracts to 40.3 degrees, bending away. Angles are from the normal." loading="lazy">
+  <figcaption>Into a higher n the ray bends towards the normal; into a lower n it bends away.</figcaption>
+</figure>
+
+
 ## Total internal reflection: method in steps
 
 1. Check that the light is going from higher n to lower n. If not, there is no TIR.
@@ -62,6 +68,17 @@ Constants used in these notes: c = 3.00 × 10⁸ m s⁻¹, n for air = 1.
 4. For a ray at exactly θc, state that the angle of refraction is 90°.
 
 **Reminder.** Glass n = 1.50 against air: sin θc = 1/1.50, so θc = 41.8°. Against water (n = 1.33): sin θc = 1.33/1.50 = 0.8867, so θc = 62.5°. A ray at 45° is totally reflected at a glass-air boundary but not at a glass-water boundary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--05-refractive-index-practical.webp" width="900" height="1230" alt="A ray is traced through a rectangular block using marked points, then i and r are measured at the entry point. A graph of sin i against sin r is a straight line through the origin; a rise of 0.60 over a run of 0.40 gives a gradient of 1.50 = n." loading="lazy">
+  <figcaption>Plot sin i against sin r; the gradient is the refractive index.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--06-critical-angle.webp" width="900" height="1215" alt="A ray along a radius of a semi-circular glass block (n = 1.52) meets the flat face at 30 degrees (most light refracts out at 49.5 degrees), at the critical angle 41.1 degrees (refracted ray along the surface) and at 55 degrees (total internal reflection)." loading="lazy">
+  <figcaption>Beyond the critical angle all the light is reflected back into the denser medium.</figcaption>
+</figure>
+
 
 ## Step index optical fibre
 
@@ -73,6 +90,12 @@ Constants used in these notes: c = 3.00 × 10⁸ m s⁻¹, n for air = 1.
 - Rays hitting the core boundary at more than θc stay in the core by repeated TIR.
 - Only step index fibres are on the specification: n changes abruptly from n1 to n2.
 - Rays within (90° − θc) of the axis are guided.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--07-fibre-guiding.webp" width="900" height="1120" alt="In a step index fibre (core 1.55, cladding 1.50, critical angle 75.4 degrees) a ray at 80 degrees to the boundary is totally internally reflected along the core; one at 70 degrees leaks into the cladding. Only rays within 14.6 degrees of the axis are guided. The cladding gives the lower index needed for TIR and also protects the core, stops cross-talk and adds strength." loading="lazy">
+  <figcaption>A lower-index cladding makes total internal reflection keep light in the core.</figcaption>
+</figure>
+
 
 ## Pulse broadening and dispersion
 
@@ -86,6 +109,17 @@ Constants used in these notes: c = 3.00 × 10⁸ m s⁻¹, n for air = 1.
 - Modal path times for length L: axial L n1/c; at the critical angle L n1²/(c n2).
 
 **Reminder.** L = 5.0 km, n1 = 1.50, n2 = 1.47. Axial time 2.50 × 10⁻⁵ s. Critical-angle ray 2.55 × 10⁻⁵ s. Spread 5.1 × 10⁻⁷ s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--08-modal-dispersion.webp" width="900" height="1040" alt="In a 3.0 km fibre the axial ray takes 15.50 microseconds and the critical-angle zigzag ray, with path L n1/n2, takes 16.02 microseconds. It arrives 517 ns later, so the received pulse is wider and lower. A single-mode narrow core or smaller n1 - n2 reduces the effect." loading="lazy">
+  <figcaption>Rays on different paths arrive at different times, so pulses broaden.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--09-dispersion-absorption.webp" width="900" height="1085" alt="Two light pulses are sent. After dispersion each is wider and lower and they merge into one hump. After absorption over 5.0 km at 85 percent per km each keeps its width but only 0.85^5 = 44 percent of the power remains. Regenerators restore shape and strength." loading="lazy">
+  <figcaption>Dispersion lengthens pulses; absorption shrinks them.</figcaption>
+</figure>
+
 
 ## Absorption
 
@@ -104,6 +138,12 @@ Constants used in these notes: c = 3.00 × 10⁸ m s⁻¹, n for air = 1.
 **Rays guided in the core.** A ray must meet the core-cladding boundary at more than θc, so it must lie within (90° − θc) of the axis. For core n = 1.56 and cladding n = 1.52, θc = 77.0° and the limit is 13.0° to the axis.
 
 **Pulse spread.** Time difference = (L n1 / c)(n1/n2 − 1). It grows with length and with the index difference, so a short, single-mode fibre has the smallest spread.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--04-refraction-wavelength.webp" width="900" height="950" alt="Wavefronts are 589 nm apart in air and 378 nm apart in glass of index 1.56, so the ray bends towards the normal. Frequency is unchanged, speed falls from c to c/n = 1.92x10^8 m/s and wavelength shrinks by the factor n." loading="lazy">
+  <figcaption>Frequency stays fixed, so slower light has a shorter wavelength.</figcaption>
+</figure>
+
 
 ## Practical: finding n with a block
 
@@ -141,6 +181,12 @@ Check that the ray stays thin and sharp, and that the normal is at 90° to the s
 8. A laser emits a very narrow range of wavelengths, so there is little difference in speed within the pulse. An LED emits a wide range.
 9. 0.90³ = **0.729**, so 73%.
 10. Absorption: the signal power falls, so it may become too weak to detect. Pulse broadening: pulses overlap, which limits the rate at which pulses can be sent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--01-em-spectrum.webp" width="900" height="1174" alt="Seven bars on a log wavelength scale from 10^3 m to 10^-12 m show radio waves to gamma rays; visible light is a very thin band. All travel at 3.00x10^8 m/s in a vacuum so wavelength = c/f: 98 MHz gives 3.06 m, 2.45 GHz gives 0.122 m and 3.0x10^18 Hz gives 1.0x10^-10 m." loading="lazy">
+  <figcaption>The spectrum on one wavelength scale, with lambda = c / f examples.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

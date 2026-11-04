@@ -63,6 +63,22 @@ A small lamp has 6.0 V across it and carries 0.40 A.
 
 Always change milliamps to amps (divide by 1000) and kilohms or megohms to ohms before substituting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic--11-diode-resistance.webp" width="900" height="1050" alt="Log-scale bars of diode resistance: 5 kilohms at 0.50 V, 58 ohms at 0.70 V, 13 ohms at 0.80 V forward, and 5.0 megohms at 5.0 V reverse." loading="lazy">
+  <figcaption>Diode resistance falls from kilohms to about ten ohms forward but is millions of ohms in reverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic--08-vir-worked-examples-graph.webp" width="900" height="840" alt="Three straight I-V lines through the origin for 15, 120 and 450 ohm resistors, with the lesson points 6.0 V and 0.40 A, 4.2 V and 35 mA, and 9.0 V and 20 mA marked. The smaller the resistance, the steeper the line." loading="lazy">
+  <figcaption>A smaller resistance gives a steeper I-V line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
+  <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
+</figure>
+
+
 ## Ohmic resistors (statement i)
 
 The current through a resistor at constant temperature is directly proportional to the potential difference across it. This means its resistance stays constant as the current changes. Its I-V graph (current on the vertical axis, p.d. on the horizontal axis, as in the specification) is a straight line through the origin.
@@ -83,6 +99,12 @@ If you reverse the connections, the line continues through the origin into negat
 | V ÷ I (Ω) | 66.7 | 69.0 | 68.2 | 67.8 | 67.6 |
 
 Each current was converted to amps before dividing (for example 1.0 ÷ 0.015 = 66.7 Ω). V ÷ I is the same within the scatter of the readings, so the resistance is constant: about 68 Ω. The component behaves as an ohmic resistor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic--09-ohmic-test-data-plot.webp" width="900" height="890" alt="The five readings from worked example 3 lie on a straight line through the origin. V divided by I is 66.7, 69.0, 68.2, 67.8 and 67.6 ohms, so about 68 ohms every time." loading="lazy">
+  <figcaption>A constant V divided by I shows an ohmic resistor.</figcaption>
+</figure>
+
 
 ## Components whose resistance changes (statement j)
 
@@ -113,6 +135,17 @@ A metal filament is a lattice of positive ions with free electrons moving among 
 
 The resistance more than doubles. The current did not double when the p.d. doubled (0.18 A at 1 V, 0.28 A at 2 V), so the lamp is non-ohmic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic--08-lamp-ions.webp" width="900" height="940" alt="Two panels compare a cool filament (1 V, R = 5.6 ohms) and a hot filament (6 V, R = 12.0 ohms). In the hot filament the ions vibrate with larger amplitude, so the electron collides more often. Collision counts are schematic." loading="lazy">
+  <figcaption>A hotter filament has more vibrating ions in the electron path, so more collisions and higher resistance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic--09-lamp-data.webp" width="900" height="950" alt="Current against p.d. for the filament lamp data from 1 V to 6 V, a curve that bends over. Dashed lines from the origin to the 2 V and 6 V points show V divided by I = 7.1 and 12.0 ohms; the flatter line means higher resistance." loading="lazy">
+  <figcaption>On a curved I-V graph, resistance at a point is V divided by I, so the lamp has 7.1 ohms at 2 V and 12.0 ohms at 6 V.</figcaption>
+</figure>
+
+
 ## Thermistor (statement k)
 
 The resistance of a thermistor decreases as the temperature increases. 
@@ -126,6 +159,12 @@ A thermistor is connected to a 6.0 V supply. At 20 °C its resistance is 2500 Ω
 - At 60 °C: I = 6.0 ÷ 300 = 0.020 A = **20 mA**
 
 The warmer thermistor lets about 8 times as much current flow (2500 ÷ 300 = 8.3). A circuit can respond to that change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic--10-sensors.webp" width="900" height="1070" alt="Thermistor on 6.0 V: 2500 ohms and 2.4 mA at 20 C, 300 ohms and 20 mA at 60 C. LDR on 9.0 V: 750 kilohms and 12 microamps in the dark, 1.5 kilohms and 6.0 mA in bright light. Bars are to scale within each box." loading="lazy">
+  <figcaption>A thermistor passes 8 times more current when warm and an LDR passes almost none in the dark.</figcaption>
+</figure>
+
 
 ## Light-dependent resistor, LDR (statement l)
 
@@ -188,6 +227,17 @@ Keep the currents through the resistor small and switch off between readings so 
 | Resistor | Straight line through the origin | Constant resistance |
 | Filament lamp | S-shaped curve, steepest at the origin | Resistance increases with temperature |
 | Diode | Almost flat for reverse and small forward p.d., then steep | Low forward and very high reverse resistance |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic--12-vi-circuit.webp" width="900" height="1050" alt="A loop of battery, variable resistor, ammeter and the component under test, with conventional current from the positive terminal. The voltmeter is connected in parallel across the component only. Resistor, filament lamp and diode (with a protective resistor) can be swapped in." loading="lazy">
+  <figcaption>The ammeter goes in series with the component and the voltmeter in parallel across it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
 
 ## Common errors
 

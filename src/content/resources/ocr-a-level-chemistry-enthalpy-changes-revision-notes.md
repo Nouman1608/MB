@@ -38,6 +38,12 @@ When you are ready, move on to the [Enthalpy changes practice questions](/resour
 - On a profile, Ea is measured upwards from the reactant line to the peak, whichever way ∆H goes.
 - Label both axes (enthalpy; progress of reaction), both levels, ∆H and Ea.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--08-gibbs-sign-cases.webp" width="900" height="1130" alt="Four small graphs of ΔG against temperature, with shaded regions above and below zero. ΔH negative with ΔS positive is always feasible; ΔH positive with ΔS negative is never feasible; both positive is feasible above a temperature; both negative is feasible below a temperature." loading="lazy">
+  <figcaption>The signs of ΔH and ΔS decide whether a reaction is feasible at all temperatures, never, or only above or below a particular temperature.</figcaption>
+</figure>
+
+
 ## 3.2.1(d): Standard conditions and definitions
 
 - **Standard conditions**: 100 kPa and a stated temperature, 298 K. Shown by ⦵.
@@ -53,6 +59,12 @@ Definitions you must be able to write:
 | ∆neutH | Enthalpy change when an acid and a base react to form 1 mol of water, under standard conditions, all in standard states | Water formed |
 
 ∆fH of any element in its standard state is zero.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--06-entropy-change-calc.webp" width="900" height="1070" alt="Bar chart: CaCO3(s) 92.9 J per K per mole against products CaO(s) 40.0 stacked with CO2(g) 213.6, total 253.6. The difference, +160.7, is the entropy change; most of it is the gas." loading="lazy">
+  <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
+</figure>
+
 
 ## Formulas
 
@@ -97,6 +109,12 @@ q = 60.0 × 4.18 × 7.4 = 1856 J = 1.856 kJ; n = 2.12 ÷ 42.4 = 0.0500 mol; ∆H
 **Bond enthalpies.** CH₃CH=CH₂(g) + HCl(g) → CH₃CHClCH₃(g). Use these values (kJ mol⁻¹): C=C 612, H–Cl 432, C–C 347, C–H 413, C–Cl 346.
 Only the changing bonds are needed. Broken: C=C + H–Cl = 612 + 432 = 1044. Made: C–C + one new C–H + C–Cl = 347 + 413 + 346 = 1106. ∆H = 1044 − 1106 = **−62 kJ mol⁻¹**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--01-born-haber-nacl.webp" width="900" height="1090" alt="Energy level diagram: Na(s) and half a Cl2 at 0 rise through atomisation of Na (+107), atomisation of Cl (+122) and ionisation of Na (+496) to 725, fall 349 on electron affinity to 376, then fall 787 as the lattice forms to minus 411. A direct arrow shows the enthalpy of formation, minus 411, so lattice energy is minus 787 kJ per mole." loading="lazy">
+  <figcaption>Born-Haber cycle for NaCl: the five steps sum to the enthalpy of formation, giving a lattice energy of -787 kJ mol-1.</figcaption>
+</figure>
+
+
 ## 3.2.1(h): Techniques
 
 **Direct (PAG3)**
@@ -110,6 +128,12 @@ Only the changing bonds are needed. Broken: C=C + H–Cl = 612 + 432 = 1044. Mad
 **Indirect**: measure two reactions that share a common product, then combine them in a Hess cycle. Used when the target reaction is too slow, cannot be controlled, or gives no clean temperature change (hydration of an anhydrous salt; thermal decomposition of a carbonate via reaction with acid). The enthalpy change of hydration of ions (5.2.1(c)) cannot be measured directly; it comes from a cycle combining a measured enthalpy change of solution with the lattice enthalpy.
 
 **Why experimental ∆cH values are too small**: heat loss to the air, heat absorbed by the can, incomplete combustion, evaporation of fuel, and non-standard conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--04-solution-cycle.webp" width="900" height="980" alt="Energy level diagram: NaCl(s) at 0 rises 787 to gaseous ions, falls 406 as Na+ is hydrated and 364 as Cl- is hydrated, ending at +17 kJ per mole above the solid. The enthalpy of solution is therefore +17." loading="lazy">
+  <figcaption>Dissolving NaCl: break the lattice (+787), then hydrate both ions (-406, -364), giving +17 kJ mol-1.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -148,6 +172,12 @@ Only the changing bonds are needed. Broken: C=C + H–Cl = 612 + 432 = 1044. Mad
 10. Any two: heat loss to the surroundings; heat absorbed by the can; incomplete combustion; fuel evaporating from the wick.
 11. It starts at the reactant line and ends at the peak (highest energy point).
 12. The mixture cools while the reaction is still finishing, so the highest reading is lower than the true value; extrapolating the cooling line to the time of mixing corrects for this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--09-total-entropy.webp" width="900" height="1070" alt="Grouped bars for CaCO3 decomposition at 298, 1079 and 1500 K. System entropy change is +165 each time; surroundings entropy change is -ΔH/T: -597, -165, -119. Total is -432 (not feasible), about 0 (borderline) and +46 (feasible)." loading="lazy">
+  <figcaption>For Edexcel, a reaction is feasible when ΔS(total) = ΔS(system) + ΔS(surroundings) is positive, with ΔS(surroundings) = −ΔH/T.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

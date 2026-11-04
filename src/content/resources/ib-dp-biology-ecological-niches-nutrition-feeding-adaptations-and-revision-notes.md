@@ -33,6 +33,12 @@ These notes condense sub-topic B4.2, Ecological niches, from the IB *Biology gui
 | Competitive exclusion | One species eliminated, or both restricted to part of their fundamental niche |
 | Autotroph / heterotroph | Makes its own organic compounds / takes in organic compounds |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--01-niche.webp" width="900" height="890" alt="A pond with a frog shows the habitat, only where the species lives. Below, the frog is at the centre of its niche: biotic interactions (eating, being eaten, competition, parasites, disease, mutualism) and abiotic factors (temperature, light, water, pH, salinity, oxygen) arrow in. How it gets food is central to the niche." loading="lazy">
+  <figcaption>The habitat is where a species lives; the niche is its whole role, biotic and abiotic.</figcaption>
+</figure>
+
+
 ## Oxygen tolerance (B4.2.2)
 
 | Group | With oxygen | Without oxygen |
@@ -40,6 +46,12 @@ These notes condense sub-topic B4.2, Ecological niches, from the IB *Biology gui
 | Obligate anaerobe | Harmed or killed | Grows |
 | Facultative anaerobe | Grows, usually better | Grows |
 | Obligate aerobe | Grows | Cannot grow |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--02-oxygen-tolerance.webp" width="900" height="980" alt="Three tubes open to air show where cultures grow: P only at the bottom, Q throughout and densest at the top, R only at the top. Bar charts give growth at 0, 2 and 21 percent oxygen (P 9, 0, 0; Q 6, 9, 10; R 0, 4, 10), so P is an obligate anaerobe, Q a facultative anaerobe and R an obligate aerobe." loading="lazy">
+  <figcaption>Where a culture grows in a tube, and its growth data, show whether it is an obligate anaerobe, facultative anaerobe or obligate aerobe.</figcaption>
+</figure>
+
 
 ## Modes of nutrition (B4.2.3 to B4.2.7)
 
@@ -58,6 +70,17 @@ Method for a mixotroph data question:
 3. If growth needs both, it is obligate.
 4. Quote values from the table.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--03-digestion.webp" width="900" height="900" alt="Top: an animal ingests food, digests it with enzymes in the gut, absorbs it, assimilates it into tissues and egests the remains. Bottom: a fungus secretes digestive enzymes from its branching hyphae onto a dead leaf and absorbs the soluble products, so digestion is outside the body." loading="lazy">
+  <figcaption>Holozoic animals digest inside the body; saprotrophs digest outside and then absorb.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--04-mixotroph.webp" width="900" height="920" alt="Bars show net change in cell number per day: light with prey 2.4, light with no prey 1.1, dark with prey 0.9, dark with no prey minus 0.2. Growth on light alone and on prey alone means it is a facultative mixotroph. Growth with both modes is 118 percent more than with light alone." loading="lazy">
+  <figcaption>Growth on either light or prey alone, and best with both, shows a facultative mixotroph.</figcaption>
+</figure>
+
+
 ## Dentition (B4.2.8)
 
 - Large, flat molars and premolars suggest grinding of plant foods.
@@ -67,6 +90,12 @@ Method for a mixotroph data question:
 - Examples in the guide: *Homo sapiens*, *Homo floresiensis*, *Paranthropus robustus*.
 
 Calculation reminder: ratio = molar area ÷ incisor area. A skull with molar 180 mm² and incisor 45 mm² gives 180 ÷ 45 = 4.0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--05-dentition.webp" width="900" height="1130" alt="A schematic skull has four numbered features: incisors, canine, molars and premolars, and the jaw and sagittal crest. Two skulls are compared with squares whose areas equal tooth areas: skull A molar 215 and incisor 48 mm2 (ratio 4.48, more grinding of plants), skull B molar 148 and incisor 66 mm2 (ratio 2.24, more mixed diet)." loading="lazy">
+  <figcaption>Tooth size and shape, jaw and crest let you infer a diet, with limits.</figcaption>
+</figure>
+
 
 ## Herbivory (B4.2.9)
 
@@ -96,6 +125,12 @@ Percentage damage example: 36 leaves damaged out of 240 gives 36 ÷ 240 × 100 =
 
 Light calculation: incident light 2200 units with 2% reaching the floor gives 2200 × 0.02 = 44 units.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--08-forest-light.webp" width="900" height="1000" alt="A forest section shows a canopy tree with a tall woody trunk, a liana rooted in soil climbing a host, an epiphyte on a branch, a strangler epiphyte with roots to the soil, and shade-tolerant shrubs with large thin leaves. A bar shows light falling from 1800 to 27 micromoles of photons per square metre per second (1.5 percent) on the floor." loading="lazy">
+  <figcaption>Different plant forms reach or tolerate the very different light levels in a forest.</figcaption>
+</figure>
+
+
 ## Niches and competition (B4.2.12 and B4.2.13)
 
 Fundamental niche is larger than or equal to the realized niche. Example: a species tolerates 10 to 34 °C alone, but with a competitor is found only at 16 to 28 °C. Fundamental width 24 °C, realized width 12 °C, so the realized niche is 50% of the fundamental niche.
@@ -107,9 +142,21 @@ Outcomes of competition between two species with the same limiting resource:
 
 Because no two species can occupy exactly the same niche in the same place, each species has a unique niche.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--09-niches-competition.webp" width="900" height="1150" alt="Two bell curves of resource use show dashed fundamental niches and smaller filled realized niches where species overlap (illustrative). A tank experiment shows X falling from 480 to 150 (minus 68.8 percent) and Y from 520 to 410 (minus 21.2 percent): neither is eliminated and Y is the stronger competitor." loading="lazy">
+  <figcaption>Competition leaves each species with a smaller realized niche than its fundamental niche.</figcaption>
+</figure>
+
+
 ## Magnification reminder
 
 Magnification = image size ÷ actual size. A drawing of 36 mm for a mouthpart of actual length 0.9 mm gives 36 ÷ 0.9 = ×40.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--06-mouthparts.webp" width="900" height="1085" alt="A grasshopper has mandibles that cut and grind leaf tissue. An aphid pushes a stylet through the epidermis into a phloem sieve tube where sugar-rich sap flows under pressure. A scale bar shows worked example 7: a 54 mm drawing at x30 magnification is 54 / 30 = 1.8 mm actual." loading="lazy">
+  <figcaption>Chewing mandibles cut leaf; a piercing stylet taps phloem sap; magnification links drawing to actual size.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -120,6 +167,12 @@ Magnification = image size ÷ actual size. A drawing of 36 mm for a mouthpart of
 - **Chewing or piercing mouthparts.** Chewing mouthparts remove pieces of leaf. Piercing mouthparts reach the sap inside a vessel.
 - **Fundamental or realized.** Fundamental is what the species could use. Realized is what it does use because of competitors.
 - **Elimination or restriction.** In elimination one species disappears. In restriction both persist in part of their fundamental niche.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--07-toxin.webp" width="900" height="990" alt="Three plant defences are shown: spines and thorns, tough cuticle and hairs, toxins such as alkaloids and tannins. A dot plot gives percentage of leaf area eaten: low-toxin plants 18, 25, 12, 30, 22 (mean 21.4) and high-toxin plants 4, 6, 3, 8, 5 (mean 5.2), a reduction of 75.7 percent with no overlap in ranges." loading="lazy">
+  <figcaption>Plants with high toxin content lose far less leaf area, so toxins protect the plant.</figcaption>
+</figure>
+
 
 ## Method boxes
 

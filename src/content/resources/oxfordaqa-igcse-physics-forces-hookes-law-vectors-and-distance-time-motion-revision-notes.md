@@ -55,12 +55,34 @@ Related pages: [course hub](/boards/oxfordaqa/igcse/physics/), [printable checkl
 
 Arrow rule: **length = magnitude, head = direction**. With a scale of 1 cm to 4 N, a 14 N force is 3.5 cm long.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--11-fo-walker-distance-displacement.webp" width="900" height="830" alt="A walker goes 60 m east then 20 m west in 40 s. Distance is 80 m (scalar), average speed 2.0 m/s. Displacement is 40 m east (vector), average velocity 1.0 m/s east." loading="lazy">
+  <figcaption>The same walk gives a distance of 80 m but a displacement of 40 m east.</figcaption>
+</figure>
+
+
 ## Force pairs
 
 - When two objects interact, each exerts a force on the other.
 - The two forces are vectors: equal in size, opposite in direction.
 - They act on **different objects**, so they never cancel each other.
 - Example: a boot pushes the ground backwards; the ground pushes the boot forwards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--10-force-vector-scale.webp" width="900" height="740" alt="A box with a 15 N force arrow to the right drawn on a scale of 1 cm to 5 N. The arrow is three 5 N steps long, 3.0 cm on the ruler. The head shows direction." loading="lazy">
+  <figcaption>Length = force / scale, and the arrow head shows the direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--03-third-law-pairs.webp" width="900" height="870" alt="A book rests on a table on the Earth. The table pushes the book up and the book pushes the table down (contact pair); the Earth pulls the book down and the book pulls the Earth up (gravity pair). Weight and table push act on one object so are not a pair." loading="lazy">
+  <figcaption>A third-law pair is the same type of force acting on two different objects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--04-mass-vs-weight.webp" width="900" height="950" alt="The same 10 kg mass hangs from a force meter on the Earth (98 N, g = 9.8 N/kg) and on the Moon (16 N, g = 1.6 N/kg). The weight arrows are drawn in proportion to the weights. The mass does not change." loading="lazy">
+  <figcaption>Weight is a force that depends on the gravitational field strength; mass does not change.</figcaption>
+</figure>
+
 
 ## Equations
 
@@ -96,6 +118,12 @@ The value of g is given in the question. Use that value.
 3. Curve: speed changing. Use a tangent for the speed at one instant.
 4. Average speed: total distance ÷ total time, including any rests.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--03-distance-time-tangent.webp" width="900" height="900" alt="A curved distance-time graph gets steeper, so the object accelerates. A tangent at 4 s rises 32 m over 4 s, so the speed at that instant is 8 m/s." loading="lazy">
+  <figcaption>For a curve, the speed at an instant is the gradient of the tangent.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Spring.** A spring of original length 20.0 cm is 26.0 cm long under 3.0 N. Extension = 6.0 cm = 0.060 m. k = 3.0 ÷ 0.060 = 50 N/m. A 5.0 N load then gives e = 5.0 ÷ 50 = 0.10 m, so the length is 30.0 cm (if the limit is not exceeded).
@@ -114,6 +142,12 @@ The value of g is given in the question. Use that value.
 - Field forces act without contact because each object sits in a field: a falling apple is in the Earth's gravitational field, a paper clip near a magnet is in its magnetic field, and a charged comb near scraps of paper is in an electric field.
 - A force changes the shape of an object only when other forces also act. A spring needs a pull at each end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--10-fo-contact-noncontact.webp" width="900" height="930" alt="Contact forces: tension, the normal contact force, friction and air resistance. Non-contact forces: gravity, the electrostatic force and the magnetic force. Friction and air resistance oppose motion and heat the surroundings." loading="lazy">
+  <figcaption>Contact forces need touching objects; field forces act across a gap.</figcaption>
+</figure>
+
+
 ## Model answers to learn
 
 - **Stretching.** "The extension is directly proportional to the force, so the graph is a straight line through the origin, until the limit of proportionality."
@@ -128,6 +162,27 @@ The value of g is given in the question. Use that value.
 - A stiffer spring has a larger k, so a steeper force-extension line.
 - A spring stretched elastically stores elastic potential energy, and releases it when it returns to its original length.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--11-elastic-or-inelastic.webp" width="900" height="880" alt="A spring is measured before, under load and after: it returns to its original length (elastic). A paper clip pulled open stays longer than its original length (inelastic)." loading="lazy">
+  <figcaption>Elastic objects return to their original shape; inelastic ones stay distorted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--14-fo-spring-elastic-energy.webp" width="900" height="940" alt="A spring at natural length stores no energy. Pulling it does work and it stores elastic potential energy. Released, it returns to its original length and the dart gains kinetic energy." loading="lazy">
+  <figcaption>Work done stretching a spring is stored as elastic potential energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--01-load-extension-graph.webp" width="900" height="940" alt="Load-extension graph for a spring of constant 50 N/m: straight through the origin to 0.16 m and 8 N, where the limit of proportionality is marked, then curving. A gradient triangle (4 N over 0.08 m) gives k = 50 N/m." loading="lazy">
+  <figcaption>The gradient of the straight part is the spring constant; the line stops being straight at the limit of proportionality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--02-distance-time-gradient.webp" width="900" height="900" alt="A distance-time graph rises 20 m in 4 s (5 m/s), stays flat for 4 s (at rest), then rises 50 m in 4 s (12.5 m/s). The steeper line is faster." loading="lazy">
+  <figcaption>On a distance-time graph the gradient is the speed, and a flat line means at rest.</figcaption>
+</figure>
+
+
 ## Required practical: force and extension
 
 | Step | Detail |
@@ -141,6 +196,17 @@ The value of g is given in the question. Use that value.
 | Safety | Eye protection, stable stand, feet clear of falling masses |
 
 Unloading the spring and re-measuring checks whether the distortion was elastic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--08-spring-practical-results.webp" width="900" height="900" alt="Force against extension from the practical results: points up to 5 N lie on a straight line through the origin with gradient about 50 N/m; the 6 N and 7 N points fall below the extended line." loading="lazy">
+  <figcaption>The line is straight until the limit of proportionality, after which extension grows faster than force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--13-fo-spring-rig.webp" width="900" height="940" alt="A spring hangs from a clamp on a stand with a metre rule beside it. A pointer at the bottom of the spring reads against the rule, masses hang below, and the eye is kept level with the pointer." loading="lazy">
+  <figcaption>The apparatus for the force and extension practical.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -178,6 +244,17 @@ Unloading the spring and re-measuring checks whether the distortion was elastic.
 10. Scalars: any two of distance, speed, time. Vectors: any two of displacement, velocity, acceleration, force, momentum.
 11. Once the forces stop, the object stays out of shape.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
+  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--01-distance-time-graph.webp" width="900" height="970" alt="A distance-time graph rises steeply for 40 m in 10 s, is flat for 10 s, then rises less steeply by 60 m in 20 s. Steeper means faster, flat means stopped; the last gradient triangle gives 60 / 20 = 3 m/s." loading="lazy">
+  <figcaption>The gradient of a distance-time graph is the speed.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Giving the new length of a spring where the extension is needed.
@@ -189,6 +266,22 @@ Unloading the spring and re-measuring checks whether the distortion was elastic.
 - Writing "the forces cancel" for a force pair, without noting they act on different objects.
 - In the practical, forgetting to read at eye level, or saying "repeat" without saying what is then averaged.
 - Calling a graph proportional when it does not pass through the origin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--09-cyclist-average-speed.webp" width="900" height="960" alt="Distance-time graph for the cyclist: 5.0 m/s for 10 s, rest for 15 s, then 4.5 m/s for 20 s. A dashed line from the origin to (45 s, 140 m) has gradient 3.1 m/s, the average speed." loading="lazy">
+  <figcaption>Average speed is total distance over total time, and the rest counts as time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--12-fo-weight-and-g.webp" width="900" height="940" alt="A 3.5 kg sample where g is 3.7 N/kg weighs 12.95 N, about 13 N. A tool weighing 20 N where g is 1.6 N/kg has mass 12.5 kg, which it keeps anywhere." loading="lazy">
+  <figcaption>Mass stays the same wherever you are; weight changes with g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--02-extension-springs.webp" width="900" height="820" alt="Four springs hang with loads of 0, 2, 4 and 6 N. A dashed line marks the natural length; extension x is measured from it and is 0.04, 0.08 and 0.12 m. F divided by x is 50 N/m each time." loading="lazy">
+  <figcaption>Extension is the increase in length from the natural length, not the total length.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

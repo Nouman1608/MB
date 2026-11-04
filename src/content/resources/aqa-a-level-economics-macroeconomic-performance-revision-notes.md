@@ -5,14 +5,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "The national and international economy"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "Version 1.3, 29 June 2022"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "the-measurement-of-macroeconomic-performance-aqa-aslevel-economics"
 description: "Condensed recall notes on government macroeconomic policy objectives, macroeconomic indicators, index numbers and the uses of national income data for AQA A-Level Economics (7136), 3.2.1. AS Economics (7135) has 3.2.1.1-3.2.1.3; uses of national income data (3.2.1.4) is A-level only."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -53,6 +56,17 @@ Conflict:    if imports rise faster than exports, the current
 
 This **objective → effect → objective → conflict** structure works for most "explain the conflict" questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-macroeconomic-performance-revision-notes--07-unemployment-vs-inflation-conflict.webp" width="900" height="930" alt="A chain of four boxes: aim to minimise unemployment, policy of higher government spending, effect that AD rises so jobs increase but prices rise near capacity, and the conflict of demand-pull inflation threatening price stability." loading="lazy">
+  <figcaption>Expansionary fiscal policy to cut unemployment can conflict with price stability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+
 ## Macroeconomic indicators (3.2.1.2)
 
 | Indicator | Measures |
@@ -65,6 +79,12 @@ This **objective → effect → objective → conflict** structure works for mos
 
 **Match indicator to objective** — this converts recall into application, which is what's actually rewarded.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-macroeconomic-performance-revision-notes--06-objectives-and-indicators.webp" width="900" height="970" alt="Arrows join growth to real GDP and real GDP per capita, price stability to CPI or RPI, minimising unemployment to unemployment measures, and external balance to the current account. Productivity measures efficiency; balanced budget and fairer income distribution are other objectives." loading="lazy">
+  <figcaption>Match each indicator to the objective it measures.</figcaption>
+</figure>
+
+
 ## Uses of index numbers (3.2.1.3)
 
 ```
@@ -75,11 +95,28 @@ An index number is **relative**, not absolute: a change from 100 to 103 = **a 3%
 
 Index numbers use a **"basket of goods and services"** (representing typical spending), **weighted** by relative importance in spending. **You do NOT need the detailed construction of RPI/CPI** — only awareness of these underlying features (base year, weighting, "average family," basket of goods).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
+
 ## Uses of national income data (3.2.1.4, A-level only)
 
 National income data (e.g. real GDP per capita) is widely used but **limited** as a measure of living standards: it ignores the **distribution of income**, the **informal economy**, **externalities**, and **non-marketed activity** (e.g. unpaid work).
 
 **International comparisons** use exchange rates based on **purchasing power parity (PPP)**, not market exchange rates — PPP adjusts for differences in the cost of living between countries, so it reflects what income can actually buy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--06-gdp-limitations.webp" width="900" height="930" alt="An iceberg: the visible tip is measured GDP per capita; below the surface are the informal economy, unpaid work, externalities and income distribution, which national income data ignores." loading="lazy">
+  <figcaption>National income data is useful but limited as a measure of living standards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--07-ppp-exchange-rates.webp" width="900" height="1050" alt="The same basket costs 100 X in Country X and 200 Y in Country Y. At the market rate (4 Y = 1 X) Country Y income looks like 5,000 X, but at the PPP rate (2 Y = 1 X) it is 10,000 X, matching the 2 to 1 gap in baskets bought (200 versus 100)." loading="lazy">
+  <figcaption>PPP rates adjust for cost-of-living differences so incomes can be compared by what they buy.</figcaption>
+</figure>
+
 
 ## Worked example: interpreting an index number
 
@@ -117,6 +154,12 @@ Having **two or three prepared, explained conflicts** ready (growth vs. balance 
 ## Key terms
 
 **Real GDP** — total value of goods/services produced, adjusted for inflation, for genuine comparison over time. **Real GDP per capita** — real GDP ÷ population; a broad living-standards indicator. **Balance of payments on current account** — record of trade in goods/services plus income flows with the rest of the world. **Base year** — the reference year in an index series, set to 100. **Weighting** — relative importance assigned to items in a composite index.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
 
 ## A note on why other objectives matter too
 

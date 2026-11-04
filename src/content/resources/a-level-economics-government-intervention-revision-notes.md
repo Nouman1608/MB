@@ -33,6 +33,12 @@ Condensed for the final weeks. For the full explanation, use the
 | Merit/demerit goods mispriced | Too much demerit (cigarettes); too little merit (healthcare) |
 | Undesirable market prices | Too high (harms consumers) or too low (harms producers) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+
 ## 3.2 Six tools — know the diagram effect for each
 
 | Tool | Diagram effect |
@@ -48,6 +54,17 @@ Condensed for the final weeks. For the full explanation, use the
 market (demand or supply) bears the larger share of a tax's burden,
 or captures the larger share of a subsidy's benefit. Apply this to a
 given elasticity scenario — don't just state it as a rule.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-reasons-for-government-intervention-in-markets--10-rent-ceiling-shortage.webp" width="900" height="930" alt="Rented rooms market with demand Q equals 600 minus 4P and supply Q equals 3P minus 100. Equilibrium is at a rent of 100 with 200 rooms. A maximum rent of 80 CU a week below equilibrium makes tenants demand 280 rooms while landlords supply 140, a shortage of 140 rooms. The weekly rent bill falls from 20,000 to 11,200 CU." loading="lazy">
+  <figcaption>A ceiling below equilibrium: at 80 CU tenants want 280 rooms but only 140 are offered.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--03-buffer-stock.webp" width="900" height="1030" alt="Demand slopes down; supply is three vertical lines for a bad (30), normal (50) and good (70) harvest. The agency sets a lower price of 4 and an upper price of 6. In a good harvest it buys 10 units to stop the price falling below 4; in a bad harvest it sells 10 units from store to stop the price rising above 6." loading="lazy">
+  <figcaption>A buffer stock buys when price is low and sells when price is high, keeping price between two limits.</figcaption>
+</figure>
+
 
 ## 3.3 Income and wealth inequality
 
@@ -71,6 +88,17 @@ the Gini coefficient, are A Level content (Topic 11).
 payments redistribute **after** income/wealth has already been
 generated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--06-lorenz-gini.webp" width="900" height="1040" alt="Lorenz curve diagram. The diagonal is the line of equality. With quintile income shares 5, 10, 15, 25 and 45 percent the Lorenz curve bows below the diagonal. Area A between the diagonal and the curve, divided by A plus B, gives a Gini of 0.38. A dashed curve with shares 8, 12, 17, 25 and 38 percent lies closer to the diagonal with a Gini of 0.29." loading="lazy">
+  <figcaption>The further the Lorenz curve bows from the line of equality, the higher the Gini coefficient.</figcaption>
+</figure>
+
+
 ## How the three sub-topics connect
 
 3.1 (why) → 3.2 (tools for one market) → 3.3 (economy-wide
@@ -80,6 +108,12 @@ provision or information (3.2) rather than a minimum price, which
 would raise price and worsen under-consumption; even the right tool
 alone doesn't fix the underlying income/wealth distribution (3.3)
 limiting some consumers' ability to buy that good.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
 
 ## Worked example: tax incidence
 
@@ -133,6 +167,22 @@ specific problem it addresses.
 - Treating buffer stocks as identical to subsidies, rather than
 recognising the buy-low/sell-high stabilisation mechanism is
 distinct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-intervention-revision-notes--01-four-tools-direction.webp" width="900" height="1000" alt="Four small supply and demand diagrams from the same starting market with equilibrium price 5 and quantity 50. Indirect tax of 2: supply shifts left and up, price rises to 6 and quantity falls to 40. Subsidy of 2: supply shifts right and down, price falls to 4 and quantity rises to 60. Maximum price of 3 below equilibrium: quantity demanded 70 exceeds quantity supplied 30, a shortage of 40. Minimum price of 7 above equilibrium: quantity supplied 70 exceeds quantity demanded 30, a surplus of 40." loading="lazy">
+  <figcaption>Tax moves supply left, subsidy moves it right; a maximum price below equilibrium gives a shortage, a minimum price above it a surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
 
 ## Government failure: the counterweight to intervention (A Level 8.1.2)
 
@@ -200,3 +250,9 @@ a point in time). 5. Minimum wage (low earned income), transfer
 payments (income gaps without requiring work), progressive taxes
 (post-generation redistribution), state provision (access to
 essential goods/services regardless of income).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-reasons-for-government-intervention-in-markets--11-minimum-price-surplus-cost.webp" width="900" height="930" alt="Dried fruit market with demand Q equals 500 minus 5P and supply Q equals 4P minus 130. Equilibrium is price 70 and 150 tonnes. A minimum price of 80 is above equilibrium, so buyers take 100 tonnes while farmers supply 190, a surplus of 90 tonnes. If the government buys the surplus it pays 90 times 80, which is 7,200 CU." loading="lazy">
+  <figcaption>A floor above equilibrium: at 80 farmers supply 190 tonnes but buyers take 100, leaving 90 for the government to buy.</figcaption>
+</figure>
+

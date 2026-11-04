@@ -45,6 +45,12 @@ Across the MYP the key concepts are: aesthetics, change, communication, communit
 
 Mathematics contributes three: **form**, **logic** and **relationships**. The other thirteen can still appear in mathematics units, and the framework chapter links most of them to branches (see below).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and--05-sixteen-key-concepts.webp" width="900" height="980" alt="Three highlighted cards at the top: form (shape told apart by properties), logic (reasoning you can defend) and relationships (links between quantities). Below are the other 13 key concepts as plain chips: aesthetics, change, communication, communities, connections, creativity, culture, development, global interactions, identity, perspective, systems, and time, place and space. They can still appear in mathematics units." loading="lazy">
+  <figcaption>Mathematics contributes three of the 16 key concepts.</figcaption>
+</figure>
+
+
 ## Form
 
 Across the MYP, form covers an object's shape and inner structure: how it is organised, what it essentially is and how it appears.
@@ -64,6 +70,12 @@ Points A(0, 0), B(4, 1), C(5, 5) and D(1, 4) are joined in order. Decide which f
 5. Diagonals: AC · BD = (5)(−3) + (5)(3) = 0, so the diagonals are perpendicular, as expected for a rhombus.
 
 **ABCD is a rhombus but not a square.** The form is decided by a chain of properties, not by how the sketch looks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and--06-form-rhombus-from-properties.webp" width="900" height="1180" alt="Points A(0,0), B(4,1), C(5,5) and D(1,4) are plotted and joined. AB and DC are both (4,1) and BC and AD are both (1,4), so opposite sides are equal and parallel. AB squared and AD squared both equal 17, so adjacent sides are equal and ABCD is a rhombus. The diagonals AC and BD cross at (2.5, 2.5) at a right angle. The dot product of AB and AD is 8, not 0, so angle A is about 61.9 degrees and ABCD is not a square." loading="lazy">
+  <figcaption>ABCD is a rhombus, not a square, because angle A is not 90 degrees.</figcaption>
+</figure>
+
 
 ## Logic
 
@@ -85,6 +97,12 @@ Claim: when you square two consecutive whole numbers and subtract the smaller sq
 4. The result is also the sum of the two numbers, n + (n + 1).
 
 **The claim is true for every pair.** The algebra covers all cases at once, which a list of examples never can.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and--07-logic-consecutive-squares.webp" width="900" height="700" alt="A 5 by 5 grid of cells stands for (n + 1) squared with n = 4. A 4 by 4 block of 16 cells is n squared. The remaining 9 cells form an L shape: two strips of n = 4 cells, which make 2n = 8, plus one corner cell. So (n + 1) squared minus n squared = 2n + 1, which is always odd because 2n is even. Tests such as 4 squared minus 3 squared = 7, 6 squared minus 5 squared = 11 and 10 squared minus 9 squared = 19 only support the claim; the picture and algebra cover every n." loading="lazy">
+  <figcaption>The difference of consecutive squares is 2n + 1, always odd.</figcaption>
+</figure>
+
 
 ## Relationships
 
@@ -121,6 +139,12 @@ For a 14 km trip: F = 3.5 + 1.2 × 14 = 3.5 + 16.8 = **20.30 dollars**.
 Work backwards. A fare of 30.20 dollars gives 30.2 = 3.5 + 1.2d, so 1.2d = 26.7 and d = 26.7 ÷ 1.2 = **22.25 km**.
 
 A negative distance has no meaning, so the rule applies for d ≥ 0 only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and--08-taxi-fare-four-forms.webp" width="900" height="900" alt="The same relationship in four forms. Words: fare equals a fixed charge plus a charge per kilometre, 3.50 dollars fixed and 1.20 dollars per km. Rule: F = 3.5 + 1.2d. Table: 0 km costs 3.50, 10 km costs 15.50, 20 km costs 27.50. Graph: a straight line starting at 3.5 on the fare axis and rising 1.2 per km, with the point for 14 km at 20.30 dollars. A 14 km trip costs 3.5 + 1.2 x 14 = 20.30 dollars." loading="lazy">
+  <figcaption>One relationship written four ways.</figcaption>
+</figure>
+
 
 ## Example statements of inquiry (Table 3)
 
@@ -166,6 +190,17 @@ A quick test: a **factual** question has an answer you can look up or calculate.
 
 **Independence.** Flip a fair coin and roll a fair die. P(head) = 1/2 and P(6) = 1/6. P(head and 6) = 1/12, and 1/2 × 1/6 = 1/12. The product rule holds, so the events are independent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
+  <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2).</figcaption>
+</figure>
+
+
 ### Writing your own questions
 
 Start from a statement of inquiry such as "Changes in relationships show us how people affect natural systems".
@@ -173,6 +208,12 @@ Start from a statement of inquiry such as "Changes in relationships show us how 
 - Factual: What is the value of 1.05ⁿ after 3 years of 5% growth?
 - Conceptual: How does a constant percentage change differ from a constant amount of change?
 - Debatable: Should long-term plans for resources be based on models that we know are simplified?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and--09-coin-die-independence.webp" width="900" height="720" alt="A grid with two rows, head and tail, and six columns, the die faces 1 to 6: 12 equally likely outcomes. The head row is 6 of 12 cells, probability 1/2. The column for six is 2 of 12 cells, probability 1/6. They overlap in one cell, 1/12, and 1/2 times 1/6 equals 1/12, so the events are independent." loading="lazy">
+  <figcaption>Head and six overlap in 1 of 12 cells: 1/2 x 1/6 = 1/12.</figcaption>
+</figure>
+
 
 ## Key concepts from other subjects
 

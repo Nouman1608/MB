@@ -38,6 +38,12 @@ Once you have read it, shorten it into memory aids with the [lattice energy revi
 | 12.18 | Explain how ionic charge and ionic radius affect ΔhydH and lattice energy |
 | 12.19 | Predict solubility from entropy and enthalpy changes of solution; explain the Unit 2 solubility trends |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--06-entropy-change-calc.webp" width="900" height="1070" alt="Bar chart: CaCO3(s) 92.9 J per K per mole against products CaO(s) 40.0 stacked with CO2(g) 213.6, total 253.6. The difference, +160.7, is the entropy change; most of it is the gas." loading="lazy">
+  <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
+</figure>
+
+
 ## 12.12 Three definitions to learn word for word
 
 All three refer to standard conditions: a pressure of 100 kPa, normally quoted at 298 K.
@@ -63,6 +69,12 @@ The second value is positive because the new electron approaches a particle that
 - Mg²⁺(g) + 2F⁻(g) → MgF₂(s)
 
 It cannot be measured directly, so it is found indirectly with a Born-Haber cycle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--05-what-raises-entropy.webp" width="900" height="1110" alt="Three panels. Particles in a solid sit in fixed places, in a liquid slide past each other, and in a gas move freely, so entropy rises. Heating makes particles move faster, raising entropy. A reaction that makes gas (CaCO3 decomposing) has positive entropy change, while one that uses up gas (ethene plus steam forming ethanol) has negative." loading="lazy">
+  <figcaption>Entropy rises from solid to liquid to gas, with temperature, and when a reaction produces more moles of gas.</figcaption>
+</figure>
+
 
 ## 12.13 Building and using Born-Haber cycles
 
@@ -95,6 +107,22 @@ Magnesium steps: 148 + 738 + 1451 = +2337
 Fluorine steps: the formula needs 2 mol of F atoms and 2 mol of F⁻ ions, so 2(79) + 2(−328) = −498
 
 ΔfH = 2337 + (−498) + (−2957) = **−1118 kJ mol⁻¹**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--01-born-haber-nacl.webp" width="900" height="1090" alt="Energy level diagram: Na(s) and half a Cl2 at 0 rise through atomisation of Na (+107), atomisation of Cl (+122) and ionisation of Na (+496) to 725, fall 349 on electron affinity to 376, then fall 787 as the lattice forms to minus 411. A direct arrow shows the enthalpy of formation, minus 411, so lattice energy is minus 787 kJ per mole." loading="lazy">
+  <figcaption>Born-Haber cycle for NaCl: the five steps sum to the enthalpy of formation, giving a lattice energy of -787 kJ mol-1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--02-lattice-energy-charge-radius.webp" width="900" height="1170" alt="Two ion pairs are drawn to scale. Na+ and Cl- have charges of 1 and centres 0.283 nm apart; Mg2+ and O2- have charges of 2 and centres 0.212 nm apart. The MgO lattice energy bar, -3791 kJ per mole, is about five times that of NaCl, -787." loading="lazy">
+  <figcaption>Higher ionic charge and smaller ionic radius give a more exothermic lattice energy (and hydration enthalpy).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--03-polarisation-covalent-character.webp" width="900" height="1150" alt="Left: Cs+ and Cl- as spheres; experiment (-668) is close to the ionic model (-652). Right: small Ag+ pulls the Cl- cloud towards it, giving shared electron density; experiment (-905) is clearly more exothermic than the model (-833). The gaps are 2.5 and 8.6 percent." loading="lazy">
+  <figcaption>A larger experimental-versus-model gap shows more covalent character, caused by a cation polarising the anion (AQA, OxfordAQA, Edexcel).</figcaption>
+</figure>
+
 
 ## 12.14 and 12.15 Experimental and theoretical values
 
@@ -138,6 +166,12 @@ CsI(s) + aq → Cs⁺(aq) + I⁻(aq)
 Cs⁺(g) + aq → Cs⁺(aq)
 
 Hydration always releases energy. Water is polar: cations attract the partially negative oxygen end of water molecules, while anions attract the partially positive hydrogen ends.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--04-solution-cycle.webp" width="900" height="980" alt="Energy level diagram: NaCl(s) at 0 rises 787 to gaseous ions, falls 406 as Na+ is hydrated and 364 as Cl- is hydrated, ending at +17 kJ per mole above the solid. The enthalpy of solution is therefore +17." loading="lazy">
+  <figcaption>Dissolving NaCl: break the lattice (+787), then hydrate both ions (-406, -364), giving +17 kJ mol-1.</figcaption>
+</figure>
+
 
 ## 12.17 Finding ΔsolH from a cycle
 
@@ -204,6 +238,12 @@ Outcome 8.15 ([Groups 1 and 2](/resources/edexcel-ial-chemistry-the-elements-of-
 
 - **Sulfates.** SO₄²⁻ is a large ion. As the cation grows down the group, the distance between ion centres changes only a little in proportion, so lattice energy becomes only slightly less exothermic. Cation hydration becomes much less exothermic. ΔsolH becomes more endothermic, and solubility falls.
 - **Hydroxides.** OH⁻ is small, so a larger cation makes a big proportional change to the distance between ions. Lattice energy becomes less exothermic faster than hydration enthalpy does, so ΔsolH becomes more favourable and solubility rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--09-total-entropy.webp" width="900" height="1070" alt="Grouped bars for CaCO3 decomposition at 298, 1079 and 1500 K. System entropy change is +165 each time; surroundings entropy change is -ΔH/T: -597, -165, -119. Total is -432 (not feasible), about 0 (borderline) and +46 (feasible)." loading="lazy">
+  <figcaption>For Edexcel, a reaction is feasible when ΔS(total) = ΔS(system) + ΔS(surroundings) is positive, with ΔS(surroundings) = −ΔH/T.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -68,6 +68,12 @@ A fraction with denominator 20 scales to hundredths: 7/20 = 35/100. A value abov
 
 Keep the decimal point moving two places each time. A small percentage such as 0.4% is far smaller than 0.4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+
 ## 2.03b Percentage of a quantity
 
 To find a percentage of a quantity without a calculator, build it from 10%, 5% and 1%.
@@ -101,6 +107,12 @@ Write a fraction "part over whole", then multiply by 100. Both quantities need t
 ```
 
 The whole is the quantity after "of". Here it is 120 minutes, so 120 goes underneath.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and--07-percentage-of-quantity-bar.webp" width="900" height="690" alt="A bar for 84 pounds is 100 percent. A 10 percent block is 8.40 pounds, a 5 percent block is half of that, 4.20 pounds, and together they make 15 percent, 12.60 pounds." loading="lazy">
+  <figcaption>Build 15% from 10% and half of 10%: 8.40 + 4.20 = 12.60.</figcaption>
+</figure>
+
 
 ## 2.03c Increase and decrease with multipliers
 
@@ -157,6 +169,12 @@ change = 68 − 80 = −12
 
 State the direction: a **15% decrease**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and--01-percentage-change-bars.webp" width="900" height="800" alt="Bars to scale show a fare of 48 pounds rising to 60 pounds: a 12 pound change on an original of 48 is a 25 percent increase. A price of 80 pounds falling to 68 pounds is a 12 pound change on an original of 80, a 15 percent decrease." loading="lazy">
+  <figcaption>Divide the change by the original value: 12 on 48 is 25% up, 12 on 80 is 15% down.</figcaption>
+</figure>
+
+
 ### Original-value (reverse percentage) problems
 
 <!-- marlbridge-diagram:math-b78-ocr-reverse-percentage-gym-fee -->
@@ -184,6 +202,12 @@ original = 90 ÷ 1.2 = £75
 
 **Check by going forwards.** £75 × 1.2 = £90. Always do this check. Taking 20% off £90 gives £72, which is not £75, so that tempting shortcut is wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and--08-reverse-percentage-bars.webp" width="900" height="820" alt="Bars to scale show 75 pounds multiplied by 1.2 to give 90. Going back means dividing by 1.2. Taking 20 percent off 90 gives 72, short of the true 75." loading="lazy">
+  <figcaption>Divide by the multiplier; subtracting the percentage from the final value gives the wrong answer.</figcaption>
+</figure>
+
+
 ### Simple interest
 
 Simple interest is a fixed sum added each year, always calculated on the original deposit.
@@ -207,6 +231,22 @@ total = 1500 + 180 = £1,680
 per year = 96 ÷ 3 = £32
 rate = 32/800 × 100 = 4%
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and--09-simple-interest-bars.webp" width="900" height="690" alt="A 1,500 pound deposit earns the same 45 pounds each year, enlarged as four equal boxes. Four years give 180 pounds, a total of 1,680 pounds." loading="lazy">
+  <figcaption>Simple interest is the same amount each year, calculated on the original sum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and--02-fractional-multipliers-strips.webp" width="900" height="740" alt="A strip of five 7 kg parts is 35 kg; adding one more part (1/5) gives six parts, 42 kg, so the multiplier is 6/5 = 1.2. A strip of eight equal parts with three taken away leaves five, so decreasing by 3/8 has multiplier 5/8 = 0.625." loading="lazy">
+  <figcaption>Increase by 1/5 means multiply by 6/5; decrease by 3/8 means multiply by 5/8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
 
 ## 2.04a Ordering fractions, decimals and percentages
 
@@ -236,6 +276,17 @@ Smallest first: **7/10, 5/7, 3/4**.
 
 For negatives, a larger digit means a smaller number. So −2.5 is smaller than −2.05.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and--03-common-denominator-140.webp" width="900" height="590" alt="Three equal bars of 140 parts: 7/10 fills 98, 5/7 fills 100 and 3/4 fills 105. Smallest first the order is 7/10, 5/7, 3/4." loading="lazy">
+  <figcaption>Over a common denominator of 140 the fractions are 98, 100 and 105 parts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
+
 ## 2.04b Inequality symbols
 
 | Symbol | Meaning |
@@ -260,6 +311,12 @@ The small end of < and > points at the smaller number.
 **Worked example 16.** List the integers n with −2 ≤ n < 3.
 
 The ≤ includes −2. The < excludes 3. So n is **−2, −1, 0, 1, 2**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and--04-inequality-number-line.webp" width="900" height="810" alt="A number line shows -2 &lt;= n &lt; 3 as a thick line from a filled dot at -2 to an open circle at 3, so the integers are -2, -1, 0, 1, 2. A second line shows -2.5 to the left of -2.05, so -2.5 &lt; -2.05." loading="lazy">
+  <figcaption>A filled dot includes the end value, an open circle leaves it out.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -44,6 +44,22 @@ An amine is derived from ammonia, NH₃, by replacing one or more hydrogen atoms
 
 In an aliphatic amine the nitrogen is joined to alkyl carbon; in an aromatic amine it is joined directly to a benzene ring, as in phenylamine, C₆H₅NH₂. Primary amines are named with "-amine" on the alkane stem (pentan-2-amine) or as alkylamines (ethylamine); groups on nitrogen take the prefix N-. In every amine, nitrogen forms three bonds and keeps one lone pair, and that lone pair drives all of 6.2.1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--05-sn-mechanism.webp" width="900" height="1170" alt="Curly-arrow mechanism for ethylamine + bromomethane: lone pair on N attacks the delta-plus carbon and the C-Br bond breaks to give Br-; a second ethylamine removes H+ from the N+ intermediate, giving N-methylethylamine and ethylammonium bromide." loading="lazy">
+  <figcaption>Nucleophilic substitution: N lone pair attacks C, Br- leaves, then H+ is removed from N+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--06-acyl-mechanism.webp" width="900" height="1230" alt="Addition-elimination: lone pair on N of methylamine attacks the delta-plus C=O carbon while the C=O pi bond moves onto O. In the tetrahedral intermediate the O- lone pair re-forms C=O and the C-Cl bond breaks to release Cl-. The product is N-methylethanamide, with methylammonium chloride from the second amine." loading="lazy">
+  <figcaption>Amines react with acyl chlorides by addition-elimination to give N-substituted amides.</figcaption>
+</figure>
+
+
 ## 6.2.1(a): Amines as bases
 
 ### Proton acceptance
@@ -70,6 +86,12 @@ Secondary and tertiary amines react the same way: (CH₃)₂NH + HCl → (CH₃)
 
 RNH₃⁺ + OH⁻ → RNH₂ + H₂O
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--07-amino-acid-ions.webp" width="900" height="930" alt="Glycine shown as H3N+CH2COOH (overall +1) in acid, the zwitterion H3N+CH2COO- (0) in neutral solution and H2NCH2COO- (-1) in alkali, with arrows for adding OH- (down) and H+ (up)." loading="lazy">
+  <figcaption>In acid, neutral and alkaline solution an amino acid is a +1 ion, a zwitterion and a -1 ion.</figcaption>
+</figure>
+
+
 ### Worked example 1: salt from a primary amine
 
 **Question.** 3.48 g of pentan-2-amine, CH₃CH₂CH₂CH(NH₂)CH₃, reacts completely with dilute hydrochloric acid. Write the equation, name the salt and calculate the mass of salt formed. Then find the mass of salt if dilute sulfuric acid is used instead. (A_r: C 12.0, H 1.0, N 14.0, Cl 35.5, O 16.0, S 32.1)
@@ -81,6 +103,17 @@ RNH₃⁺ + OH⁻ → RNH₂ + H₂O
 **Step 3: mass of chloride salt.** The ratio is 1 : 1. M(C₅H₁₄NCl) = 87.0 + 36.5 = 123.5 g mol⁻¹. Mass = 0.0400 × 123.5 = **4.94 g**.
 
 **Step 4: with sulfuric acid.** 2C₅H₁₃N + H₂SO₄ → (C₅H₁₄N⁺)₂SO₄²⁻. Each mole of salt uses two moles of amine, so n(salt) = 0.0200 mol. M = 2(88.0) + 96.1 = 272.1 g mol⁻¹. Mass = 0.0200 × 272.1 = **5.44 g**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--02-base-strength.webp" width="900" height="1030" alt="Three rows compare the lone pair on N as a teal cloud: dense in ethylamine (alkyl pushes electrons onto N), average in ammonia, spread into the ring in phenylamine. A gauge ranks base strength ethylamine &gt; ammonia &gt; phenylamine." loading="lazy">
+  <figcaption>The more available the nitrogen lone pair, the stronger the base: ethylamine &gt; ammonia &gt; phenylamine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 6.2.1(b)(i): Aliphatic amines from haloalkanes
 
@@ -110,6 +143,12 @@ Overall: 2RNH₂ + R′X → RNHR′ + RNH₃⁺X⁻
 R₂NH + R′X → R₂NR′ + HX, with the HX taken up by more R₂NH
 
 Some further substitution always happens, so the product is a mixture that must be separated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
+  <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
 
 ### Worked example 2: yield of a primary amine
 
@@ -181,6 +220,12 @@ For a dinitro compound, double the reducing agent: C₆H₄(NO₂)₂ + 12[H] �
 | Aromatic amine | Nitroarene | Sn/conc. HCl, reflux; then excess NaOH(aq) |
 
 To put NH₂ on a benzene ring, use the nitroarene route, not ammonia substitution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--03-prep-routes.webp" width="900" height="1130" alt="Three routes: halogenoalkane with excess ammonia in ethanol (sealed tube, heat) gives a mixture of amines; a nitrile reduced with LiAlH4 in dry ether or H2/Ni gives only the primary amine; a nitro compound reduced with Sn and conc. HCl under reflux then NaOH gives a phenylamine plus water." loading="lazy">
+  <figcaption>Amines are made from halogenoalkanes, by reducing nitriles, or by reducing nitro compounds.</figcaption>
+</figure>
+
 
 ## Common errors
 

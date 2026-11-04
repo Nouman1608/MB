@@ -58,6 +58,12 @@ nearest 10 000: 5|7 482   -> 7 >= 5, up    -> 60 000
 
 Always round from the original number, not from your previous answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--01-rounding-number-line.webp" width="900" height="960" alt="Two number lines show 46 285 between 46 200 and 46 300, past the halfway point 46 250, so it rounds up to 46 300. Between 46 000 and 47 000 it lies before halfway 46 500, so it rounds to 46 000." loading="lazy">
+  <figcaption>Compare 46 285 with the halfway point to round to the nearest 100 or 1000.</figcaption>
+</figure>
+
+
 ## 1.8B Significant figures and decimal places
 
 **Decimal places (d.p.)** count digits after the decimal point. **Significant figures (s.f.)** count from the first non-zero digit, wherever it is.
@@ -79,6 +85,17 @@ Always round from the original number, not from your previous answer.
 
 Writing 38 649.5 to 2 s.f. as "39" loses the mark: the answer must still be about thirty-eight thousand. Writing 4.99712 to 2 d.p. as "5" also loses it: 2 d.p. means two digits after the point, so 5.00.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--05-rounding-carry.webp" width="900" height="1050" alt="4.99712 to 2 d.p.: keep 4.99, the next digit 7 rounds up, giving 5.00. 38 649.5 to 2 s.f.: keep 38, the next digit 6 rounds up to 39, and zeros fill the places to give 39 000." loading="lazy">
+  <figcaption>Rounding up can carry, and the zeros must stay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--02-significant-figures.webp" width="900" height="900" alt="The digits of 0.07049 are boxed. The leading zeros are greyed because they never count; counting starts at the 7. The digit after the last kept one decides: 0 and 4 leave it (0.07, 0.070) and 9 rounds up (0.0705)." loading="lazy">
+  <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
+</figure>
+
+
 ## 1.8C Upper and lower bounds
 
 A rounded value stands for a range of possible true values. The **lower bound** is the smallest value that rounds to it. The **upper bound** is the boundary at the top: it would itself round up to the next value, but every number just below it rounds to the given value.
@@ -94,6 +111,12 @@ A rounded value stands for a range of possible true values. The **lower bound** 
 | 14 s | nearest second | 0.5 | 13.5 s | 14.5 s |
 
 You can write the range as an inequality: for the mass, 6.35 ≤ m < 6.45. The lower bound is included (6.35 rounds up to 6.4). The upper end uses < because 6.45 rounds to 6.5, but exam questions still expect 6.45 to be written as "the upper bound".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
 
 ## 1.8D Estimation
 
@@ -116,6 +139,12 @@ The calculator value is 57 529.3 (1 d.p.), so 56 000 is a sensible estimate. Div
 ```
 
 The calculator gives 94.7 (3 s.f.). The estimate is larger because 19.7 was rounded up and then squared.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
 
 ## 1.8A Solving problems with bounds -- Higher tier only
 
@@ -147,6 +176,17 @@ to 1 s.f.:  8     and 8     -> the same
 
 So the speed is **8 m/s to 1 significant figure**. You must show both bounds rounded and state why you chose that accuracy; the bare answer "8" is not enough.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--04-bounds-of-a-speed.webp" width="900" height="1100" alt="Distance 250 m to the nearest 10 lies from 245 to 255; time 31.4 s lies from 31.35 to 31.45. Upper speed 255/31.35 = 8.134 and lower 245/31.45 = 7.790. At 2 s.f. they round to 7.8 and 8.1, but at 1 s.f. both are 8, so the speed is 8 m/s." loading="lazy">
+  <figcaption>The biggest distance over the smallest time gives the upper bound; choose the accuracy where both bounds agree.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--04-bounds-two-values.webp" width="900" height="1120" alt="Illustrative a = 8 and b = 3 to the nearest whole number. Upper and lower bounds: a+b 12 and 10; a-b 6 and 4 (upper a minus lower b, lower a minus upper b); a x b 29.75 and 18.75; a / b 3.4 and about 2.14. Gold boxes are upper bounds and teal boxes are lower bounds." loading="lazy">
+  <figcaption>Pick the upper or lower bound of each value that makes the answer as large or as small as possible.</figcaption>
+</figure>
+
+
 ## 1.9A Standard form
 
 A number in standard form is written **a × 10ⁿ**, where **1 ≤ a < 10** and **n is an integer**. The specification's own example is 150 000 000 = 1.5 × 10⁸.
@@ -169,6 +209,12 @@ Rewrite 0.031 as 3.1 × 10⁻² to see it sits between 2.9 × 10⁻³ and 3.4 ×
 
 A calculator may show 1.35E5 or 1.35 × 10⁰⁵. In your answer write it as 1.35 × 10⁵, never "1.35E5".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
+
 ### Multiplying and dividing
 
 Deal with the a parts and the powers of 10 separately, using index laws (add powers to multiply, subtract to divide). Then make sure the front number is between 1 and 10.
@@ -180,6 +226,12 @@ Deal with the a parts and the powers of 10 separately, using index laws (add pow
 
 13.5 is too big, so divide it by 10 and add 1 to the power. 0.3 is too small, so multiply it by 10 and subtract 1 from the power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--01-std-form-adjust-front.webp" width="900" height="1145" alt="On a log scale from 0.1 to 100 with 1 to 10 shaded: 13.5 slides left to 1.35 (power up one, giving 1.35 x 10^5), 0.3 slides right to 3 (power down one, giving 3 x 10^-6), and in the Higher example 25 x 10^(2n) becomes 2.5 x 10^(2n+1)." loading="lazy">
+  <figcaption>A front number outside 1 to 10 is slid back, and the power changes to match.</figcaption>
+</figure>
+
+
 ### Adding and subtracting
 
 You cannot add the a parts unless the powers match. Convert to ordinary numbers (or to the same power), then convert back.
@@ -187,6 +239,22 @@ You cannot add the a parts unless the powers match. Convert to ordinary numbers 
 ```
 5.6 x 10^4 + 8.3 x 10^3 = 56 000 + 8300 = 64 300 = 6.43 x 10^4
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--02-std-form-add-match-powers.webp" width="900" height="710" alt="A bar of blocks worth 10^4 shows 5.6 x 10^4 = 56 000 and 8.3 x 10^3 = 0.83 x 10^4. Together they make 6.43 blocks, so 6.43 x 10^4 = 64 300." loading="lazy">
+  <figcaption>Write both numbers with the same power, then add the front numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--03-std-form-power-root.webp" width="900" height="710" alt="Squares drawn to scale: side 3 x 10^4 has area 9 x 10^8; side 4 x 10^4 has area 16 x 10^8 = 1.6 x 10^9, so the square root of 1.6 x 10^9 is 4 x 10^4. The power of 10 is made even before the root." loading="lazy">
+  <figcaption>Squaring and rooting standard form, with an even power before a root.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
 
 ## 1.9A Solving problems involving standard form -- Higher tier only
 

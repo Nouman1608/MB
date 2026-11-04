@@ -52,6 +52,12 @@ Three groups of nutrient molecules appear in this outcome. You need to list thei
 
 The difference that earns marks is **nitrogen**. Carbohydrates and fats contain only C, H and O. Proteins always contain N as well. This is why plants need nitrate ions to make amino acids, which you meet again in plant nutrition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--01-elements.webp" width="900" height="1000" alt="Three rows of atom symbols. Carbohydrates and fats and oils contain carbon, hydrogen and oxygen only, with nitrogen crossed out. Proteins contain carbon, hydrogen, oxygen and always nitrogen, and some also contain sulfur." loading="lazy">
+  <figcaption>Only proteins contain nitrogen.</figcaption>
+</figure>
+
+
 ## 4.1.2 Large molecules from smaller molecules
 
 Biological molecules are often large. Each is built by joining many smaller molecules together. The syllabus limits this outcome to three cases.
@@ -71,6 +77,12 @@ Three points to fix in your memory:
 - Fats and oils are made from **two** kinds of smaller molecule: fatty acids **and** glycerol. Writing "fatty acids" alone loses the mark.
 
 The reverse of these reactions is chemical digestion. Amylase breaks starch down to simple reducing sugars, proteases break proteins down to amino acids, and lipase breaks fats and oils down to fatty acids and glycerol.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--02-building-blocks.webp" width="900" height="1190" alt="Glucose units join in chains to make starch (plants), glycogen (animals and fungi) and cellulose (plant cell walls). Amino acids join in different orders to make different proteins. Fats and oils are made from glycerol and fatty acids." loading="lazy">
+  <figcaption>Large molecules are built by joining smaller ones.</figcaption>
+</figure>
+
 
 ## 4.1.3 The five food tests
 
@@ -160,6 +172,22 @@ Notice the wording "not detected". A test can miss a very small amount, so "no p
 - How many times more? Vitamin C concentration is inversely related to the volume needed: 4.0 ÷ 1.6 = **2.5 times** as concentrated.
 - A sensible conclusion: boiling reduced the vitamin C content of the juice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--04-emulsion-test.webp" width="900" height="1010" alt="Step 1: shake the food with ethanol so fat dissolves. Step 2: pour the ethanol into water. Fat present gives a cloudy white emulsion of tiny droplets; no fat leaves the mixture clear. Ethanol goes first, then water." loading="lazy">
+  <figcaption>Fat dissolves in ethanol but forms a cloudy emulsion in water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--05-dcpip-test.webp" width="900" height="1030" alt="Food solution is added drop by drop to 1 cm3 of blue DCPIP, shaking each time, until it turns colourless, showing vitamin C. In the worked example fresh juice needed 1.6 cm3 and boiled juice 4.0 cm3, so fresh juice is 2.5 times as concentrated." loading="lazy">
+  <figcaption>The less juice needed to decolourise DCPIP, the more vitamin C.</figcaption>
+</figure>
+
+
 ## 4.1.4 The structure of DNA -- Extended only
 
 DNA carries genetic information. You need four structural points.
@@ -198,6 +226,17 @@ A pairs with T, so A = T = 32 ÷ 2 = 16%
 A quick check: 34 + 34 + 16 + 16 = 100.
 
 This idea returns in inheritance (topic 17), where the sequence of bases in a gene decides the sequence of amino acids in a protein.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--07-dna-percentages.webp" width="900" height="900" alt="If 34% of the bases are C, G is also 34%. A plus T is 100 minus 68 = 32%, so A and T are each 16%. The four add to 100." loading="lazy">
+  <figcaption>Pairing means A equals T and C equals G.</figcaption>
+</figure>
+
 
 ## Common errors
 

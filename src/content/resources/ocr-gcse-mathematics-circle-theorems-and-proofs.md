@@ -56,6 +56,17 @@ Use it with the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and th
 
 A chord splits a circle into two segments. The smaller is the minor segment and the larger is the major segment. The same chord also marks out a minor arc and a major arc.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-circle-theorems-and-proofs--10-segments-and-arcs.webp" width="900" height="790" alt="A chord above the centre splits a circle into a minor segment and a major segment, and into a minor arc and a major arc." loading="lazy">
+  <figcaption>A chord gives two segments and two arcs, the smaller minor and the larger major.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp" width="900" height="1030" alt="Circle with centre, diameter, radius, chord, tangent touching at one point, circumference and a highlighted arc. Below, a shaded sector (two radii and an arc) and a shaded segment (a chord and an arc). Sector and segment are the pair most often confused." loading="lazy">
+  <figcaption>Radius, chord and tangent in one circle, with sector and segment shaded separately.</figcaption>
+</figure>
+
+
 ## 8.05b Angle at the centre (Higher tier only)
 
 **Theorem.** The angle subtended by an arc at the centre is twice the angle subtended at the circumference.
@@ -81,6 +92,17 @@ Angle OAB = (180° - 82°) ÷ 2 = 49°  (base angles of an isosceles triangle)
 
 **Answer: 49°**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-circle-theorems-and-proofs--06-proof-angle-at-centre.webp" width="900" height="900" alt="Circle with centre O and points A, B, C, with CO extended to D. The base angles of the isosceles triangles are p and q, the exterior angles at O are 2p and 2q, so angle AOB = 2 × angle ACB." loading="lazy">
+  <figcaption>Isosceles triangles and exterior angles prove that the angle at the centre is double.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--04-angle-at-centre.webp" width="900" height="830" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
+  <figcaption>The angle at the centre is twice the angle at the circumference, and angles in the same segment are equal.</figcaption>
+</figure>
+
+
 ## 8.05c Angle in a semicircle (Higher tier only)
 
 **Theorem.** The angle on the circumference subtended by a diameter is a right angle.
@@ -97,6 +119,12 @@ Angle CAB = 61°, angle ABC = 29°
 ```
 
 **Answer: 61° and 29°**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
+  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
+</figure>
+
 
 ## 8.05d Angles in the same segment (Higher tier only)
 
@@ -134,6 +162,12 @@ OM = 8 cm
 
 **Answer: 8 cm**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--02-chord-bisector.webp" width="900" height="850" alt="Circle of radius 10 with chord AB of length 16. OM meets AB at right angles at the midpoint M, so AM = MB = 8. Triangle OMB has sides 6, 8, 10. A line from the centre perpendicular to a chord cuts the chord in half, giving a right-angled triangle (radius 10, half-chord 8, distance 6)." loading="lazy">
+  <figcaption>The perpendicular from the centre bisects the chord, so Pythagoras finds the missing length.</figcaption>
+</figure>
+
+
 ## 8.05f Radius and tangent (Higher tier only)
 
 <!-- marlbridge-diagram:math-b77-ocr-radius-tangent -->
@@ -158,6 +192,17 @@ OA = OB, so angle OAB = (180° - 132°) ÷ 2 = 24°
 ```
 
 **Answer: 24°**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-circle-theorems-and-proofs--08-proof-radius-tangent.webp" width="900" height="880" alt="A supposed tangent through P not perpendicular to OP. The foot Q of the perpendicular from O is nearer than P, so inside the circle, which is impossible for a tangent." loading="lazy">
+  <figcaption>If the radius were not perpendicular, a point of the tangent would lie inside the circle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--05-tangent-angles.webp" width="900" height="910" alt="Circle with tangents PA and PB from P, angle APB 50 degrees. Triangle PAB is isosceles so angles at A and B are 65 degrees. Angle AOB is 360 minus 90 minus 90 minus 50 = 130 degrees. Given angle APB = 50 degrees: equal tangents make PAB isosceles (65 degrees each), and the quadrilateral OAPB gives AOB = 130 degrees." loading="lazy">
+  <figcaption>Using PA = PB and the radius-tangent right angles to find angles.</figcaption>
+</figure>
+
 
 ## 8.05g The alternate segment theorem (Higher tier only)
 
@@ -185,6 +230,17 @@ Angle BAC = 180° - 65° - 55° = 60°   (angles in a triangle)
 
 **Answer: 65°, 55° and 60°**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-circle-theorems-and-proofs--01-alternate-segment.webp" width="900" height="880" alt="A circle with a tangent at A and chords AB and AC forming triangle ABC. The tangent-chord angle with AB is 65 degrees and equals angle ACB in the opposite segment; the angle with AC is 55 degrees and equals angle ABC. Angle BAC is 60 degrees." loading="lazy">
+  <figcaption>The angle between a tangent and a chord equals the angle in the alternate segment (the lesson's worked example 6: 65, 55 and 60 degrees).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-circle-theorems-and-proofs--07-proof-alternate-segment.webp" width="900" height="1010" alt="Tangent at P, chord PA at angle x, diameter PD. Angle TPD is 90°, APD is 90° − x, PAD is 90°, so PDA = x, and PBA = PDA = x in the alternate segment." loading="lazy">
+  <figcaption>Drawing the diameter through the point of contact proves the alternate segment theorem step by step.</figcaption>
+</figure>
+
+
 ## 8.05h Cyclic quadrilaterals (Higher tier only)
 
 A **cyclic quadrilateral** has all four vertices on a circle.
@@ -211,6 +267,12 @@ Angle BAD = 180° - 76° = 104°     (opposite to angle BCD)
 
 **Answer: x = 24, angle BAD = 104°**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="850" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
+  <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
+</figure>
+
+
 ## Putting theorems together
 
 **Worked example 8.** AC is a diameter of a circle. B is on the circumference and angle CAB = 34°. The tangent at C is drawn. Find the angle between this tangent and the chord CB.
@@ -223,6 +285,12 @@ Angle between tangent and CB = 90° - 56° = 34°
 ```
 
 **Answer: 34°.** This agrees with the alternate segment theorem, because angle CAB = 34° is the angle in the alternate segment. Use that agreement as a check.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-circle-theorems-and-proofs--09-combined-example-8.webp" width="900" height="800" alt="AC is a diameter, B on the circle, angle CAB = 34°, tangent at C. Angle ABC = 90°, ACB = 56°, and the tangent-chord angle is 90° − 56° = 34°, matching CAB." loading="lazy">
+  <figcaption>Worked example 8 combines angle in a semicircle, tangent perpendicular to radius and the alternate segment check.</figcaption>
+</figure>
+
 
 ## Common errors
 

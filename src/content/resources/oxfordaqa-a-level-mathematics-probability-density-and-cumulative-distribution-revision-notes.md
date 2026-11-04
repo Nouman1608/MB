@@ -33,6 +33,12 @@ These are condensed notes for the first part of section S2.2 (Continuous random 
 Because P(X = a) = 0, the signs ≤ and < give the same probability for a continuous variable:
 P(X < a) = P(X ≤ a) and P(a < X < b) = P(a ≤ X ≤ b).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--01-probability-is-area.webp" width="900" height="830" alt="Graph of f(x) = (6 − x)/8 on 2 to 6, a right-angled triangle of area 1. The strip from x = 3 to 5 is shaded and has area 1/2. A single line at x = 4 has no width, so P(X = 4) = 0." loading="lazy">
+  <figcaption>Probability is the area under the pdf, and a single value has zero area.</figcaption>
+</figure>
+
+
 ## Key results
 
 | Result | Statement |
@@ -64,11 +70,23 @@ f(x) is a height, not a probability. It can exceed 1. Example: f(x) = 2 for 0 �
 4. Check the last piece reaches 1 at the top of the range.
 5. Write out F(x) = 0 below and F(x) = 1 above.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--03-cdf-to-pdf.webp" width="900" height="1030" alt="The cdf F(x) = (x³ − 1)/26 is drawn with tangents at x = 1.5 and 2.5. Below it, the pdf 3x²/26 has heights 0.26 and 0.72 at those x values, equal to the tangent slopes." loading="lazy">
+  <figcaption>Differentiating F gives f, so a steeper cdf means a taller pdf.</figcaption>
+</figure>
+
+
 ### Finding a median or quartile
 
 1. Median: F(m) = 1/2. Lower quartile: F = 1/4. Upper quartile: F = 3/4.
 2. Compare the target with F at each break point to pick the piece.
 3. Solve in that piece and reject any root outside its range.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--05-quartiles-piecewise.webp" width="900" height="870" alt="The piecewise cdf x²/12 then (x − 1)/3 meets at F(2) = 1/3. Horizontal lines at 1/4, 1/2 and 3/4 hit the curve and drop to Q1 = √3 ≈ 1.73, median 2.5 and Q3 = 3.25. 1/4 uses the first piece; 1/2 and 3/4 use the second." loading="lazy">
+  <figcaption>Compare the target probability with F at the break point to choose the piece.</figcaption>
+</figure>
+
 
 ### Using a conditional probability
 
@@ -83,6 +101,12 @@ P(X > b | X > a) = P(X > b)/P(X > a) = (1 − F(b))/(1 − F(a)), for b > a.
 **Median from a pdf.** f(x) = 2(1 − x) for 0 ≤ x ≤ 1. F(x) = 2x − x². Solve 2m − m² = 1/2, i.e. m² − 2m + 1/2 = 0, so m = 1 ± 1/√2. Only m = 1 − 1/√2 ≈ 0.293 lies in the range.
 
 **Upper quartile.** f(x) = 3x²/8 for 0 ≤ x ≤ 2. F(x) = x³/8. Solve x³/8 = 3/4, so x³ = 6 and Q₃ = ∛6 ≈ 1.817.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--02-pdf-to-cdf.webp" width="900" height="985" alt="Two aligned graphs. The upper is the pdf x/6 then 1/3 with areas 1/12 and 7/12 shaded; the lower is the cdf rising to 1. Heights of the cdf at x = 1 and 3 are 1/12 and 2/3, and their gap 7/12 is P(1 &lt; X &lt; 3)." loading="lazy">
+  <figcaption>F(x) is the area collected so far, so P(a &lt; X &lt; b) = F(b) − F(a).</figcaption>
+</figure>
+
 
 ## A full two-piece reminder
 
@@ -155,6 +179,12 @@ A pdf that rises then falls has its highest point where the probability density 
 9. a²/9 = 0.9 gives a² = 8.1, so **a ≈ 2.85**.
 10. F(x) = x²/36. P(X > 4 | X > 2) = (1 − 16/36)/(1 − 4/36) = (20/36)/(32/36) = **5/8**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--04-mean-median-mode.webp" width="900" height="830" alt="The pdf (4/27)x²(3 − x) on 0 to 3 peaks at x = 2. Lines mark the mean 1.8, median about 1.84 and mode 2; the median splits the area into two halves of 1/2." loading="lazy">
+  <figcaption>The median halves the area, and here mean &lt; median &lt; mode.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing f(x) = 1 or "total probability = 1" instead of showing that the integral equals 1.
@@ -165,6 +195,12 @@ A pdf that rises then falls has its highest point where the probability density 
 - Using a percentage (50) instead of a probability (0.5) in F(m) = ...
 - Differentiating F and forgetting to state the range, or that f = 0 elsewhere.
 - Rounding an exact answer early and then giving an inaccurate final value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--07-exponential-pdf.webp" width="900" height="850" alt="The pdf 0.4e^(−0.4x) falls from 0.4. The area from 2 to 6 is 0.359. A line marks the mean 2.5, equal to the standard deviation." loading="lazy">
+  <figcaption>An exponential pdf starts at λ and decays; its mean and standard deviation are both 1/λ.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

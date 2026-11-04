@@ -76,6 +76,22 @@ Second reminder: for the energy stored in a spring, E = ½kx², with k in N m⁻
 
 Square or cube the prefix when the unit is squared or cubed: 1 cm² = 10⁻⁴ m², 1 cm³ = 10⁻⁶ m³. A speed in km h⁻¹ becomes m s⁻¹ on division by 3.6. Worked: 3.2 GHz = 3.2 × 10⁹ Hz, and 45 kΩ = 4.5 × 10⁴ Ω.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--01-units-from-base.webp" width="900" height="890" alt="Six base unit boxes (kg, m, s, A, K, mol) above a chain of derived units. The newton, kg m s^-2, times metre gives the joule, divided by second gives the watt, and divided by ampere gives the volt (OCR). Newton divided by metre squared gives the pascal. Cambridge 9702 does not use the mole." loading="lazy">
+  <figcaption>Each derived unit is a product or quotient of base units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--02-prefix-powers.webp" width="900" height="956" alt="Bars show prefixes from tera 10^12 down to femto 10^-15. Deci is used by Cambridge and OCR only; femto by AQA and OxfordAQA only. Examples: 250 mA = 0.25 A and 5.6 MeV = 5.6 x 10^6 eV." loading="lazy">
+  <figcaption>Replace the prefix with its power of ten before substituting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--03-squared-units.webp" width="900" height="890" alt="A 1 cm square divided into 100 one-millimetre squares shows 1 cm^2 = 100 mm^2. Then 1 mm^2 = 10^-6 m^2, 3.5 mm^2 = 3.5 x 10^-6 m^2, 1 cm^3 = 10^-6 m^3 and 7.8 g cm^-3 = 7800 kg m^-3." loading="lazy">
+  <figcaption>The prefix is raised to the same power as the unit.</figcaption>
+</figure>
+
+
 ### Labels (2.1.2(f))
 
 Axis and column headings: quantity / unit, for example current / A or speed / m s⁻¹. Entries are pure numbers.
@@ -117,6 +133,12 @@ R = 24.0 ± 0.7 Ω
 
 **Worked reminder.** A length is found as 120.0 − 45.0 = 75.0 cm, each reading ± 0.5 cm. The absolute uncertainty is 0.5 + 0.5 = 1.0 cm, which is 1.3 %.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--06-combining-uncertainties.webp" width="900" height="1120" alt="Falling ball: h = 1.200 +/- 0.002 m, t = 0.495 +/- 0.005 s. A bar shows 0.17 percent from h and 1.01 percent from t counted twice, 2.19 percent total, so g = 9.8 +/- 0.2 m s^-2." loading="lazy">
+  <figcaption>Percentage uncertainties add for products and quotients; a power multiplies the percentage.</figcaption>
+</figure>
+
+
 ### Graphs (2.2.1(d))
 
 - Error bars show the uncertainty in plotted points. Their length is twice the ± value.
@@ -128,6 +150,22 @@ R = 24.0 ± 0.7 Ω
 - Percentage difference = |measured − reference| / reference × 100. The specification names the term without a formula, so show the one you use.
 
 **Worked reminder.** Best gradient 4.8, steepest 5.2, shallowest 4.4. Uncertainty = 0.4, which is 8.3 % of 4.8.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--07-error-bars-gradient.webp" width="900" height="1030" alt="Extension against force with +/-2 mm error bars. Best line gradient 12.0, steepest 13.0, shallowest 11.0 mm per N, so gradient = 12.0 +/- 1.0 mm per N." loading="lazy">
+  <figcaption>Half the difference between the steepest and shallowest gradients.</figcaption>
+</figure>
+
 
 ## 2.3 Scalars and vectors
 
@@ -154,6 +192,12 @@ R = 24.0 ± 0.7 Ω
 3. Sketch both components with arrows before calculating.
 
 **Worked reminder.** A 5.0 kg block on a 20° slope has weight 5.0 × 9.81 = 49.05 N. Along the slope: 49.05 sin 20° = 16.8 N. Perpendicular to the slope: 49.05 cos 20° = 46.1 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--09-vector-addition.webp" width="900" height="910" alt="12 N and 7 N forces with 50 degrees between them drawn tip to tail. Resultant 17.3 N at 18.0 degrees to the 12 N force from the cosine rule (interior angle 130) and checked by components 16.50 N and 5.36 N." loading="lazy">
+  <figcaption>The resultant joins the start of the first vector to the tip of the last.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -203,6 +247,12 @@ R = 24.0 ± 0.7 Ω
 - Using plotted points rather than points on the line to find a gradient.
 - Giving the angle without saying what it is measured from.
 - Using more significant figures in an uncertainty than the data justify.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+
 
 ## Official syllabus
 

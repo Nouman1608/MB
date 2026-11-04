@@ -103,6 +103,12 @@ give 100%. Substitutions and eliminations usually make a by-product as well, so 
 Atom economy is a property of the **equation**. Percentage yield is a property of the **experiment**: how
 much product you actually collect compared with the maximum. Do not mix them up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--06-atom-economy.webp" width="900" height="794" alt="Bars whose length is the total reactant mass, split into product (teal) and by-product (gold): aspirin via anhydride 75.0 percent, via acyl chloride 83.1 percent, and (OxfordAQA example) ethane-1,2-diol by two additions 100 percent versus addition then substitution 23.2 percent." loading="lazy">
+  <figcaption>Atom economy = Mr of product / total Mr of reactants; industry still uses the anhydride for aspirin because it is cheaper and safer (diol comparison: OxfordAQA example).</figcaption>
+</figure>
+
+
 ### Worked example 1: two routes to ethane-1,2-diol
 
 Ethane-1,2-diol (antifreeze) can be made from ethene by two routes that use only reactions in this
@@ -133,6 +139,12 @@ temperature control and leak prevention. A good evaluation names both sides and 
 Each step loses product to side reactions, incomplete reaction and transfers. The overall yield is the
 **product** of the step yields written as decimals. Every extra step also needs its own reagents, energy,
 separation, time and waste handling.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--07-overall-yield.webp" width="900" height="976" alt="Two routes with the same 80 percent step yield. Four steps leave 41.0 percent so 2.00 mol gives 0.819 mol; two steps leave 64.0 percent giving 1.28 mol." loading="lazy">
+  <figcaption>Overall yield is the product of the step yields, so each extra step lowers it.</figcaption>
+</figure>
+
 
 ### Worked example 2: yield over three steps
 
@@ -237,11 +249,33 @@ Step 4 could instead use ethanoic acid with a concentrated sulfuric acid catalys
 reversible, so the yield is lower, but its atom economy is higher (89.3% against 71.4% with the
 anhydride). That trade-off is what outcome 2 is about.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--05-route-planning.webp" width="900" height="1010" alt="Three-step route from ethene (2 C) to propan-1-amine (3 C): HBr gives bromoethane, KCN in ethanol under reflux gives propanenitrile (+1 C), and LiAlH4 reduction gives the amine. A crossed-out side branch shows that ammonia would give ethylamine, only 2 C." loading="lazy">
+  <figcaption>Count carbons first: a longer chain needs the cyanide step, because bromoethane with ammonia only gives ethylamine.</figcaption>
+</figure>
+
+
 ### Chirality in a synthesis
 
 For an achiral starting system under achiral, non-enantioselective conditions, a step that creates one chiral centre from equivalent faces of a planar group can give a racemic mixture, as in the simple KCN-addition examples. Chiral reagents, catalysts or environments can favour one face; planarity alone does not guarantee a racemate. When only one enantiomer is wanted (for example
 in a drug), the other must be separated or the route redesigned. See
 [optical isomerism](/resources/oxfordaqa-a-level-chemistry-optical-isomerism/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--01-reaction-map.webp" width="900" height="830" alt="A map linking alkene, haloalkane, alcohol, carbonyl, acid, ester, nitrile and amine with reagent labels. The gold arrow (haloalkane to nitrile with KCN) is the one that adds a carbon. Following arrows end to end gives a multi-step route." loading="lazy">
+  <figcaption>Plan routes by following arrows from start to target; only reactions in the specification count (steam hydration is not in OxfordAQA; nitrile hydrolysis is OCR).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--02-new-cc-bonds.webp" width="900" height="1040" alt="Three reactions that make a new C-C bond: bromoethane with KCN (2 C to 3 C), propanone with HCN (3 C to 4 C) and benzene with an acyl chloride and AlCl3 (6 C to 8 C). New carbons are circled in gold." loading="lazy">
+  <figcaption>Only a few reactions change the carbon count: KCN with a haloalkane, HCN or KCN with a carbonyl, and Friedel-Crafts acylation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--03-cyanide-mechanisms.webp" width="900" height="1195" alt="Curly-arrow mechanisms: the cyanide lone pair attacks the delta-positive carbon of bromoethane and the C-Br bond breaks to give Br-; then the same lone pair attacks the carbonyl carbon of propanone, the C=O pi bond moves onto O, and O- takes H+ to give a hydroxynitrile." loading="lazy">
+  <figcaption>The cyanide arrow starts on the lone pair on carbon; the mechanisms are required by OCR (tagged in the figure).</figcaption>
+</figure>
+
 
 ## Common errors
 

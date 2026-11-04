@@ -67,6 +67,17 @@ Put these on a probability scale and give each a word: (a) a month chosen at ran
 (b) One day in seven: 1/7, about 0.14. That is **unlikely**.
 (c) Every day name ends in "day": probability 1, **certain**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected--06-probability-words-counters.webp" width="900" height="780" alt="Twelve counters, three of them blue, with the words experiment, trial, outcome and event matched to picking a counter. P(blue) = 3/12 = 1/4, and 1/4 x 12 = 3 works backwards." loading="lazy">
+  <figcaption>A probability from counters is favourable over total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--01-probability-scale.webp" width="900" height="840" alt="A bag of 20 beads (4 green, 6 yellow, 10 white) above a number line from 0 impossible to 1 certain. A black bead sits at 0, a white bead at 0.5 and the event not green at 0.8. The left half is unlikely and the right half likely." loading="lazy">
+  <figcaption>Probabilities run from 0 (impossible) to 1 (certain), with 0.5 an even chance.</figcaption>
+</figure>
+
+
 ## S10: theoretical probability
 
 When all outcomes are **equally likely**:
@@ -88,6 +99,12 @@ A fair spinner has 8 equal sectors. Three are shaded.
 
 A bag holds 12 counters. P(blue) = 1/4. The number of blue counters is 1/4 × 12 = 3. Always check that your count of favourable outcomes is a whole number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected--01-prob-spinner-theory.webp" width="900" height="990" alt="A fair spinner has eight equal sectors numbered 1 to 8, with three shaded. P(shaded) is 3/8 = 0.375 = 37.5%. A bar for 240 spins shows 3/8 shaded, giving 90 expected shaded results." loading="lazy">
+  <figcaption>Three of eight equal sectors are shaded, so P(shaded) = 3/8 and 240 spins give 90 expected.</figcaption>
+</figure>
+
+
 ## S10: relative frequency
 
 If outcomes are not equally likely, or you cannot work out the model, you collect data. The **relative frequency** of an event is:
@@ -106,6 +123,12 @@ A drawing pin is dropped 200 times. It lands point up 74 times.
 2. The best estimate of P(point up) from this data is **0.37**.
 
 You cannot use 1/2 here, because the two ways of landing are not equally likely. The pin is not symmetrical.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected--02-prob-drawing-pin.webp" width="900" height="890" alt="200 circles stand for 200 drops of a drawing pin: 74 point up (gold with a stem) and 126 point down. Relative frequency is 74/200 = 0.37, not 1/2, because the outcomes are not equally likely. For 1500 drops, 0.37 x 1500 = 555." loading="lazy">
+  <figcaption>When outcomes are not equally likely, relative frequency from data estimates the probability.</figcaption>
+</figure>
+
 
 ## S10: expected frequency
 
@@ -137,6 +160,12 @@ The word "expected" does not mean "will happen". The expected frequency is a pre
 
 If a machine is expected to produce 45 faulty items in 150, the estimated probability of a fault is 45/150 = 0.3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--06-expected-frequency.webp" width="900" height="990" alt="Three bars with the expected share shaded: a fair ten-sided dice rolled 150 times gives 45 multiples of 3; a spinner with P(4) 0.355 spun 600 times gives 213; a town of 18400 adults with probability 0.065 gives 1196 cyclists." loading="lazy">
+  <figcaption>Expected frequency is probability times number of trials, an average rather than an exact result.</figcaption>
+</figure>
+
+
 ## S11: comparing experimental and theoretical probabilities
 
 Compare the relative frequency from an experiment with the theoretical probability. If they are close, the data agrees with the model. If they are far apart, there are two possible reasons: chance, or a model that is wrong (for example, a biased die).
@@ -153,11 +182,28 @@ A die is rolled 120 times and a six appears 27 times. Is the die biased?
 
 Notice step 4. In a written answer, avoid saying "the die is definitely biased" or "the die is definitely fair" from one small experiment. Say what the numbers show, then say what extra evidence you would collect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected--03-prob-die-sixes.webp" width="900" height="990" alt="Bars compare expected sixes (120 x 1/6 = 20) with observed sixes (27), 7 more. A number line marks the fair value 0.167 and observed relative frequency 0.225. With only 120 rolls the difference could be chance; roll many more times." loading="lazy">
+  <figcaption>27 sixes against 20 expected is not proof of bias from only 120 rolls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--05-fair-or-biased.webp" width="900" height="850" alt="Bar chart of relative frequencies after 200 spins: 1 is 0.155, 2 is 0.26, 3 is 0.23, 4 is 0.355. A dashed line at 0.25 shows a fair spinner. Scores 1 and 4 are far from it, which suggests bias." loading="lazy">
+  <figcaption>Results far from 0.25 after many spins suggest, but do not prove, a biased spinner.</figcaption>
+</figure>
+
+
 ## S12: repeating an experiment
 
 If you repeat an experiment, you will usually get different results. Roll a fair die 60 times and you might see 8 sixes. Do it again and you might see 13. Neither result is wrong.
 
 This is why an experiment gives an estimate, not the exact probability, and why two people with identical equipment can report different relative frequencies. The differences come from chance. They do not mean one person made an error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected--07-repeat-gives-different-results.webp" width="900" height="700" alt="Two bars show two runs of 60 die rolls with 8 and 13 sixes, either side of the expected 10. Neither run is wrong; chance changes the result." loading="lazy">
+  <figcaption>Repeating an experiment usually gives different results.</figcaption>
+</figure>
+
 
 ## S13: bigger samples give better estimates
 
@@ -177,6 +223,12 @@ The early values swing widely. By 1000 trials the value is close to the theoreti
 
 The same idea applies when you survey part of a **population** (everyone you are interested in) and use the sample to estimate a **population characteristic**, such as the proportion who walk to school.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected--04-prob-sample-survey.webp" width="900" height="1260" alt="Two grids show surveys of 40 and 200 students. 9 of 40 walk (0.225), estimating 270 of 1200. 62 of 200 walk (0.31), estimating 372. The larger sample is more reliable if chosen fairly." loading="lazy">
+  <figcaption>A larger, fairly chosen sample gives a more reliable estimate of the population.</figcaption>
+</figure>
+
+
 ### Worked example 6
 
 A school has 1200 students. A first survey of 40 students finds 9 walk to school. A second survey of 200 students finds 62 walk.
@@ -186,6 +238,17 @@ A school has 1200 students. A first survey of 40 students finds 9 walk to school
 3. The second estimate is more reliable because it uses a larger sample. (This assumes both samples were chosen fairly, with no bias in who was asked.)
 
 Size is not the only issue. A sample of 200 taken only from the students who arrive by bus would still be a poor sample. A larger sample helps only if it is chosen fairly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected--05-coin-relative-frequency-table.webp" width="900" height="800" alt="A line graph of the lesson coin data: 0.7, 0.44, 0.54, 0.486 and 0.505 for 10, 50, 100, 500 and 1000 trials, with a dashed line at the theoretical 0.5." loading="lazy">
+  <figcaption>Early values swing; by 1000 trials the value is close to 0.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--04-relative-frequency.webp" width="900" height="740" alt="A graph of relative frequency of a 4 against spins: 0.5 at 10, 0.38 at 50, 0.37 at 100 and 0.355 at 200. It falls then levels off, so more trials give a more reliable estimate." loading="lazy">
+  <figcaption>With more trials the relative frequency settles, so use the estimate from the most trials.</figcaption>
+</figure>
+
 
 ## Common errors
 

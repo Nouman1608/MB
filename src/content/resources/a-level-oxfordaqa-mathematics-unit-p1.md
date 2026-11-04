@@ -56,6 +56,12 @@ techniques
 - P1.5 Sequences and series — arithmetic and geometric sequences and
 series
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--01-paper-routes.webp" width="900" height="976" alt="A route map of the pure mathematics papers for four boards. Cambridge 9709: AS Level is Paper 1 plus Paper 2, or Paper 1 plus Paper 4 or 5; A Level is Papers 1 and 3 plus either Papers 4 and 5 or Papers 5 and 6, and Paper 2 never counts towards the A Level. Edexcel International A Level: AS is P1, P2 and one applied unit; A Level is P1 to P4 plus two applied units. OxfordAQA 9660: AS is P1 and PSM1; A Level adds P2 and either S2 or M2. OCR H240: three two-hour papers, each worth one third, with pure mathematics in every one (pure; pure and statistics; pure and mechanics). A colour key shows pure, applied, and mixed papers." loading="lazy">
+  <figcaption>Which pure papers each board requires for AS and A Level.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 <!-- marlbridge-diagram:maths-oxfordaqa-p1-concept-map -->
@@ -104,6 +110,12 @@ b^2 - 4ac < 0   no real roots
 
 Questions asking for the range of k for which an equation has real roots almost always reduce to an inequality in the discriminant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--06-conjugate-roots.webp" width="900" height="1290" alt="Top: the graph of y = z cubed minus 5z squared plus 11z minus 15, which is always increasing and crosses the real axis only at x = 3. Bottom: an Argand diagram of the three roots of the cubic: the real root 3 and the complex pair 1 plus 2i and 1 minus 2i, which are mirror images in the real axis. Because the coefficients are real, non-real roots come in conjugate pairs. The cubic factorises as (z minus 3)(z squared minus 2z plus 5)." loading="lazy">
+  <figcaption>A real cubic with one real root has a conjugate pair of complex roots.</figcaption>
+</figure>
+
+
 ## Coordinate geometry
 
 For a line through two points, gradient is the change in y over the change in x. Perpendicular gradients multiply to -1. The intersection of a straight line and a curve is found algebraically, interpreting equal/distinct/no real roots geometrically. This (P1.2) is the full extent of P1's coordinate geometry -- the circle is not P1 content (see below).
@@ -115,6 +127,17 @@ The gradient of a curve is defined as the limit of the gradient of a chord -- th
 The derivative gives the gradient of the tangent, so it is used for tangents and normals, and for stationary points where dy/dx = 0. The second derivative classifies them: positive means a minimum, negative a maximum.
 
 Integration reverses differentiation, raising the power and dividing, and requires + c for indefinite integrals. A definite integral evaluates the area under a curve between limits — with the caution that area below the x-axis evaluates as negative and must be handled separately if total area is wanted. (P1 questions will not set regions that are partially above and partially below the x-axis, and will not require identifying points of inflection.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--02-one-cubic-toolkit.webp" width="900" height="940" alt="Graph of the cubic f(x) = x cubed minus 3x squared minus x plus 3, which factorises as (x + 1)(x minus 1)(x minus 3). The roots at x = minus 1, 1 and 3 come from the factor theorem. Turning points, ringed, are where f dash is zero, at x = 1 minus or plus 2 over root 3, about minus 0.15 and 2.15. The region between x = minus 1 and 1 lies above the axis and has integral +4. The region between 1 and 3 lies below the axis and has integral minus 4. The integral from minus 1 to 3 is zero, but the total area is 8, because areas below the axis count as positive." loading="lazy">
+  <figcaption>One cubic shows roots, turning points and signed versus total area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--03-quotient-stationary.webp" width="900" height="1060" alt="Two aligned graphs. Top: y = ln x divided by x, which crosses the axis at x = 1, rises to a maximum at (e, 1 over e), about (2.72, 0.37), then falls slowly. Bottom: its gradient dy by dx = (1 minus ln x) over x squared, which is positive before x = e, zero at x = e and negative after. The quotient rule gives (x times 1 over x minus ln x times 1) over x squared." loading="lazy">
+  <figcaption>The quotient rule gives dy/dx = (1 − ln x)/x², which is zero at the maximum x = e.</figcaption>
+</figure>
+
 
 ## Circle geometry and trigonometry — this is Unit PSM1 content, not P1
 

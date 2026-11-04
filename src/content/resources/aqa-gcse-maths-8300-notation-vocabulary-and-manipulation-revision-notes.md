@@ -54,6 +54,12 @@ Paper 1 is non-calculator. Every skill in this section can appear there, so prac
 
 Answers are expected in **simplest form without being told**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation--05-algebra-notation-meaning.webp" width="900" height="1010" alt="Tiles show 3y as y + y + y, ab as a x b, a squared as a x a, a squared b as a x a x b and a/b as a divided by b. A bar with its left half shaded shows half of x, written as ½x not 0.5x." loading="lazy">
+  <figcaption>Short algebraic forms unpacked into the sums they stand for.</figcaption>
+</figure>
+
+
 ## A2: Substitution in three steps
 
 1. Write the expression again with each letter replaced by its value **in brackets**.
@@ -63,6 +69,12 @@ Answers are expected in **simplest form without being told**.
 (−4)² = 16, but −4² = −16. Brackets decide which you mean.
 
 Unfamiliar formulae are given in the question. The specification lists the kinematics formulae (v = u + at, s = ut + ½at², v² = u² + 2as) among those given in the exam. The quadratic formula, circle formulae and Pythagoras' theorem are on the list you must learn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--02-substitution-number-line.webp" width="900" height="820" alt="Substituting a = -2 and b = 5 into 3a^2 - 2ab gives 12 and -20. On a number line, start at 12 and take away -20, which moves 20 to the right, landing on 32." loading="lazy">
+  <figcaption>Taking away a negative is the same as adding.</figcaption>
+</figure>
+
 
 ## A3: The key words
 
@@ -88,6 +100,12 @@ Unfamiliar formulae are given in the question. The specification lists the kinem
 
 Deal with the numbers first, then each letter. 6x⁵ × 4x² = 24x⁷: multiply 6 × 4, add the powers 5 + 2. Zero and negative indices are additional foundation content (N7); fractional indices are Higher tier only (N7).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1070" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
+  <figcaption>Multiply adds indices, divide subtracts, power of a power multiplies.</figcaption>
+</figure>
+
+
 ### Method: expanding two binomials
 
 1. First × first, first × second, second × first, second × second.
@@ -99,6 +117,22 @@ Deal with the numbers first, then each letter. 6x⁵ × 4x² = 24x⁷: multiply 
 ```
 
 A squared bracket always has a middle term: (x + k)² = x² + 2kx + k².
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation--07-squared-bracket-middle-term.webp" width="900" height="950" alt="A square of side 2x (drawn with x = 4, side 8) has two strips of width 3 removed, each of area 6x = 24, and the corner 3 by 3 = 9 added back, leaving a 5 by 5 square of area 25. So (2x - 3)^2 = 4x^2 - 12x + 9, not 4x^2 + 9 = 73." loading="lazy">
+  <figcaption>The middle term appears because the two strips overlap in a corner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
+  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--01-expand-area-grid.webp" width="900" height="820" alt="An area grid for (3x + y)(x minus 4y) with columns 3x and y and rows x and minus 4y. The cells are 3x squared, xy, minus 12xy and minus 4y squared. Adding them and combining the xy terms gives 3x squared minus 11xy minus 4y squared." loading="lazy">
+  <figcaption>Every term in the first bracket multiplies every term in the second.</figcaption>
+</figure>
+
 
 ### Method: factorising x² + bx + c
 
@@ -114,12 +148,34 @@ A squared bracket always has a middle term: (x + k)² = x² + 2kx + k².
 
 **Difference of two squares:** a² − b² = (a + b)(a − b). It has no middle term, and there is no "sum of two squares" rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--05-factorise-hcf.webp" width="900" height="790" alt="The three terms are cells of a rectangle of height 4xy, the HCF. Dividing each by 4xy gives widths 2x, 3y and -1, so the answer is 4xy(2x + 3y - 1)." loading="lazy">
+  <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--02-factorise-trinomial-tiles.webp" width="900" height="670" alt="Tiles for x squared plus 5x plus 6 fit into a rectangle of width x plus 3 and height x plus 2. The six unit tiles fill the corner, which is why the numbers must multiply to 6 and add to 5. So the expression equals (x + 2)(x + 3)." loading="lazy">
+  <figcaption>The tiles for x² + 5x + 6 build a rectangle with sides x + 2 and x + 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--03-difference-of-squares.webp" width="900" height="886" alt="A square of side a with a b-by-b square removed leaves a shape of area a squared minus b squared. Cut and rearranged it forms a rectangle a plus b by a minus b. With a = 5 and b = 3, 25 minus 9 equals 2 times 8." loading="lazy">
+  <figcaption>a² − b² is the area of a rectangle with sides (a − b) and (a + b).</figcaption>
+</figure>
+
+
 ### Higher tier only: factorising ax² + bx + c
 
 1. Work out a × c.
 2. Find two numbers with product ac and sum b.
 3. Split bx into those two terms.
 4. Factorise each pair; the bracket must repeat.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation--08-split-middle-term.webp" width="900" height="880" alt="Multiplying 3 by -8 gives -24; the numbers 12 and -2 multiply to -24 and add to 10, so 10x splits into 12x - 2x. The four terms fill a grid with columns 3x and -2 and rows x and +4, giving (3x - 2)(x + 4)." loading="lazy">
+  <figcaption>Splitting the middle term with a x c, shown as an area grid.</figcaption>
+</figure>
+
 
 ### Higher tier only: products of three binomials
 
@@ -135,6 +191,22 @@ Expand any two brackets, simplify, then multiply each term of the result by the 
 | Divide | Flip the second fraction, then multiply |
 
 Cancel **factors** (whole brackets), never single terms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <figcaption>Factorise, then cancel whole brackets only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--05-cancel-factors-graph.webp" width="900" height="1060" alt="The fraction factorises to x(x minus 2) over (x minus 2)(x minus 3), which cancels to x over (x minus 3), x not 2 or 3. The graph of x over (x minus 3) has dashed lines at x = 3 and y = 1; the original fraction has the same graph with an open circle gap at (2, minus 2)." loading="lazy">
+  <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
+</figure>
+
 
 ### Surds inside brackets
 
@@ -161,6 +233,17 @@ The new subject should end up alone on one side, with no copy of it on the other
 
 **Building blocks for proof:** any integer n; even 2n; odd 2n + 1; consecutive integers n, n + 1; consecutive even numbers 2n, 2n + 2; consecutive odd numbers 2n + 1, 2n + 3. A multiple of k is written k × (an integer expression).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation--06-equation-or-identity.webp" width="900" height="1100" alt="Two graphs. The lines y = 4p - 7 and y = 9 cross at one point, p = 4, so the equation is true only there. The lines y = 4(p - 2) and y = 4p - 8 lie on top of each other, so the identity is true for every p." loading="lazy">
+  <figcaption>An equation is true at particular values; an identity is true for every value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation--09-three-consecutive-numbers.webp" width="900" height="860" alt="Rows of blocks show n, n+1 and n+2 for n = 5. Moving one block from the longest row to the shortest gives three equal rows of n+1, so the total is 3(n + 1)." loading="lazy">
+  <figcaption>Why n + (n+1) + (n+2) = 3(n+1) is always a multiple of 3.</figcaption>
+</figure>
+
+
 ## A7: Functions
 
 Both tiers: a function machine turns an input into an output. Reverse a machine by doing the inverse operations in reverse order.
@@ -175,6 +258,22 @@ Both tiers: a function machine turns an input into an output. Reverse a machine 
 | gf(x) | f first, then g | Put f(x) into g |
 
 fg(x) and gf(x) are usually different.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--01-function-machine.webp" width="900" height="1030" alt="A function machine for f(x) = 3x minus 5. The input 4 is multiplied by 3 to give 12, then 5 is subtracted to give 7. Putting 2a in the brackets gives 6a and then 6a minus 5. Whatever is in the brackets replaces x." loading="lazy">
+  <figcaption>Whatever goes in the brackets replaces x in the rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--04-inverse-machine.webp" width="900" height="810" alt="The same four numbers 5, 10, 3, 1 in two rows. f multiplies by 2, subtracts 7, divides by 3, taking 5 to 1. The inverse runs right to left and undoes each step in reverse order: times 3, add 7, divide by 2, taking 1 back to 5." loading="lazy">
+  <figcaption>The inverse undoes each step of f in the reverse order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--06-composite-order.webp" width="900" height="840" alt="With f(x) = 3x minus 1 and g(x) = x squared plus 4, starting from 2: fg(2) applies g first to give 8 then f to give 23; gf(2) applies f first to give 5 then g to give 29. So fg(x) = 3x squared plus 11 and gf(x) = 9x squared minus 6x plus 5 differ." loading="lazy">
+  <figcaption>In gf(x) the function nearest x acts first, so fg(x) and gf(x) usually differ.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -227,6 +326,12 @@ fg(x) and gf(x) are usually different.
 - Cancelling x from x/(x − 5) to get 1/(−5): only whole factors cancel (Higher).
 - Working out fg(x) by putting g into f the wrong way round (Higher).
 - Giving numerical examples instead of a general argument on a "prove" question (Higher).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--03-collect-like-terms.webp" width="900" height="800" alt="Tiles for 4x^2 - 3xy + 7 - x^2 + 5xy - 9 are sorted into x^2, xy and number bins. Added and taken-away tiles leave 3x^2, 2xy and -2, so the answer is 3x^2 + 2xy - 2." loading="lazy">
+  <figcaption>Only like terms combine: x^2 tiles with x^2, xy with xy, numbers with numbers.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -83,6 +83,12 @@ y − 1 = (3/2)(x − 4)  →  y = (3/2)x − 5
 
 Check by substituting both points into 2x + 3y − 11: −4 + 15 − 11 = 0 and 8 + 3 − 11 = 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--01-perpendicular-lines.webp" width="900" height="920" alt="Line AB through A(-2, 5) and B(4, 1) has gradient -2/3 and equation 2x + 3y - 11 = 0 with intercepts (11/2, 0) and (0, 11/3). The perpendicular through B has gradient 3/2 and equation y = 3/2 x - 5. A right-angle mark at B shows they are perpendicular; the gradients multiply to -1." loading="lazy">
+  <figcaption>Perpendicular gradients are negative reciprocals, so they multiply to -1.</figcaption>
+</figure>
+
+
 ## 2.2 Functions, domain and range
 
 A function gives exactly one output for each input in its domain. Notation such as f(x), v(t) or C(n) names the function and its input. The **domain** is the set of allowed inputs. Unless a question says otherwise, it is the largest set of real numbers for which the rule is defined. The **range** is the set of outputs. A quick sketch is the safest way to see the range.
@@ -96,6 +102,12 @@ A function can be a **model**. A taxi charges C(n) = 12 + 0.8n dollars for an n 
 ```
 
 This is the guide's point that solving f(x) = 10 is the same as finding f⁻¹(10). An inverse exists only for a **one-to-one** function. The graph of y = f⁻¹(x) is the reflection of y = f(x) in the line y = x, and the domain of f⁻¹ equals the range of f.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--02-domain-and-range.webp" width="900" height="810" alt="Graph of f(x) = 3 + root(x + 4) starting at (-4, 3). The domain, on the x-axis, is x at least -4 because the root needs x + 4 at least 0. The range, on the y-axis, is f(x) at least 3." loading="lazy">
+  <figcaption>A quick sketch shows the range: here it starts at 3, not at all real numbers.</figcaption>
+</figure>
+
 
 ## 2.3 and 2.4 Graphs and key features
 
@@ -116,6 +128,12 @@ Graph y = 2 − x as well; use "intersect":
 ```
 
 Write down each value to 3 significant figures. Write the answer as coordinates when the question asks for points. For an asymptote, a GDC graph of y = 3 + 2/(x − 1) shows a vertical asymptote x = 1 and a horizontal asymptote y = 3. Give asymptotes as equations, not numbers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--05-gdc-features.webp" width="900" height="900" alt="Graph of f(x) = x^3 - 3x + 1 and the line g(x) = 2 - x. The curve has zeros at -1.88, 0.347 and 1.53, a maximum at (-1, 3) and a minimum at (1, -1). The line meets it at (-1, 3), (-0.618, 2.62) and (1.62, 0.382)." loading="lazy">
+  <figcaption>The zeros, turning points and intersections a GDC gives, written to 3 significant figures.</figcaption>
+</figure>
+
 
 ## 2.5 Composite and inverse functions
 
@@ -150,6 +168,17 @@ Check: h(h⁻¹(x)) = (√(x − 3))² + 3 = x
 
 Without the restriction x ≥ 1, h would not be one-to-one (h(0) = h(2) = 4), so no inverse would exist.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--03-composite-order.webp" width="900" height="810" alt="Two function machines with f(x) = 3x - 2 and g(x) = x squared + 1. Input 2 through g then f gives 5 then 13; through f then g gives 4 then 17. The composites are 3x squared + 1 and 9x squared - 12x + 5, so the order matters." loading="lazy">
+  <figcaption>(f o g)(2) = 13 but (g o f)(2) = 17: apply the inner function first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--04-inverse-restricted.webp" width="900" height="1010" alt="The solid teal curve h(x) = (x - 1)^2 + 3 for x at least 1 and its inverse 1 + root(x - 3) for x at least 3 are mirror images in y = x, for example (2, 4) and (4, 2). The faint left half shows that h(0) = h(2) = 4 without the restriction." loading="lazy">
+  <figcaption>Restricting the domain makes h one-to-one, and its inverse is the reflection in y = x.</figcaption>
+</figure>
+
+
 ## 2.6 The quadratic function and its three forms
 
 A quadratic graph is a **parabola**. It opens upwards if a > 0 and downwards if a < 0.
@@ -179,6 +208,12 @@ f(x) = a(x + 1)² + 5
 −3 = a(2)² + 5  →  4a = −8  →  a = −2
 f(x) = −2(x + 1)² + 5 = −2x² − 4x + 3
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--06-three-forms.webp" width="900" height="960" alt="Parabola f(x) = 2x^2 - 8x + 6. The expanded form shows the y-intercept (0, 6), the factorised form 2(x - 1)(x - 3) the x-intercepts 1 and 3, and the completed-square form 2(x - 2)^2 - 2 the vertex (2, -2). The axis of symmetry is x = 2." loading="lazy">
+  <figcaption>Each form of a quadratic shows a different feature of the same parabola.</figcaption>
+</figure>
+
 
 ## 2.7 Quadratic equations, inequalities and the discriminant
 
@@ -220,6 +255,22 @@ No real roots:   Δ < 0 → k < −1 or k > 4
 ```
 
 When k = 0 the equation becomes 4x − 3 = 0, which is linear with one root, so k = 0 must be excluded.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--07-discriminant-cases.webp" width="900" height="1010" alt="Three parabolas y = x^2 - 4x + c. For c = 3 the discriminant is 4 and the curve crosses the x-axis at 1 and 3. For c = 4 it is 0 and the curve touches the axis at 2. For c = 5 it is -4 and the curve stays above the axis." loading="lazy">
+  <figcaption>Delta &gt; 0, = 0 and &lt; 0 mean two, one repeated and no real roots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--08-discriminant-k.webp" width="900" height="970" alt="Graph of Delta = -4(k - 4)(k + 1) against k, an inverted parabola crossing the k-axis at -1 and 4. Between them Delta is positive (two distinct roots, but k = 0 excluded as the equation is then linear); at -1 and 4 it is zero; outside, negative." loading="lazy">
+  <figcaption>The sign of the discriminant gives the ranges of k, with k = 0 excluded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--09-quadratic-inequality.webp" width="900" height="890" alt="Graph of y = (x - 4)(x + 3) with roots -3 and 4. The curve is above the x-axis for x &lt; -3 and x &gt; 4; those parts of the axis are highlighted with open circles at -3 and 4." loading="lazy">
+  <figcaption>An upward parabola is above the axis outside its roots, so x &lt; -3 or x &gt; 4.</figcaption>
+</figure>
+
 
 ## Using your GDC
 

@@ -29,6 +29,12 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Enterprise** is the willingness to take on financial and personal risk to start and run a business in pursuit of reward. Key entrepreneurial qualities, best applied to a given scenario rather than listed abstractly: **opportunity recognition**, the ability to **secure and manage finance**, **resilience** in the face of setbacks, and the capacity to **plan and adapt** a business idea as circumstances change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--08-en-risk-uncertainty.webp" width="900" height="770" alt="Risk: outcomes and odds can be estimated, shown by a pie chart; manage with research and insurance. Uncertainty: no reliable odds, shown by question marks; manage with flexibility and contingency plans." loading="lazy">
+  <figcaption>Risk can be estimated; uncertainty cannot.</figcaption>
+</figure>
+
+
 ## Purpose and objectives
 
 **Mission** → **corporate objectives** → **functional objectives** → tactics.
@@ -36,6 +42,17 @@ Condensed for the final weeks. For the full explanation, use the
 Objectives must be **SMART**, and they change with circumstance — survival dominates in a downturn, growth in a boom. Objectives also shift across the **business lifecycle**: a **new** business prioritises survival and building a customer base; an **established, profitable** business shifts towards growth, profit maximisation or market share; some businesses, especially under stakeholder pressure or founder values, adopt **social or environmental objectives** even at some cost to short-term profit.
 
 **Profit maximisation can conflict with long-term shareholder value** if it means cutting R&D or damaging reputation. The two diverge over different time horizons, and noticing that is an evaluation point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--14-obj-smart.webp" width="900" height="810" alt="Five tests: specific, measurable, achievable, realistic, time-limited. Become the best fails all five; the school-market objective with 8% and a year-end deadline passes. Achievable concerns resources; realistic concerns the market." loading="lazy">
+  <figcaption>Check each SMART letter: the vague aim fails every test and the dated, measured one passes.</figcaption>
+</figure>
+
 
 ## Ownership
 
@@ -48,6 +65,12 @@ Objectives must be **SMART**, and they change with circumstance — survival dom
 | Social enterprise | Varies | Surplus reinvested |
 
 **Divorce of ownership from control** is the plc's structural problem: shareholders own but directors run, and their objectives can diverge — directors may pursue growth or status while shareholders want returns. Share options and performance-related pay exist to realign them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-business-environment-revision-notes--03-divorce-ownership-control.webp" width="900" height="720" alt="Shareholders own a plc and want returns; the directors they elect run it and may want growth or status. Aims can diverge, so share options and performance-related pay realign them." loading="lazy">
+  <figcaption>In a plc the owners and the managers are different people with possibly different aims.</figcaption>
+</figure>
+
 
 ## Stakeholders
 
@@ -65,6 +88,12 @@ Shareholders, employees, customers, suppliers, government, community, lenders.
 
 *The external environment (PEST analysis, exchange rates, inflation, income elasticity) is not part of this AS topic. It is examined under A Level Topic 6, Business and its environment (A Level), which builds on this topic but is not assessed at AS.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-stakeholders--02-pay-rise-vs-dividend.webp" width="900" height="940" alt="Profit of 610,000 splits into a 244,000 dividend and 366,000 kept. A 3% pay rise costs 123,900, cutting profit to 486,100, and equals 50.8% of the dividend. Pay and dividends compete for the same profit." loading="lazy">
+  <figcaption>A 3% pay rise is worth half the dividend, so employees and shareholders clash over the same profit.</figcaption>
+</figure>
+
+
 ## Growth
 
 **Internal (organic)** — slower, retains control, lower risk.
@@ -80,6 +109,22 @@ Shareholders, employees, customers, suppliers, government, community, lenders.
 **Economies of scale** lower **average** cost — total costs still rise. **Diseconomies** raise average cost when communication and coordination break down.
 
 *Business strategy (SWOT, PEST, Porter's five forces, the Ansoff matrix and the other strategic-planning tools) is not part of this AS topic. It is examined under A Level Topic 6.2 Business strategy, which is not assessed at AS.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-business-environment-revision-notes--01-growth-directions.webp" width="900" height="982" alt="A supply chain runs from a timber firm to a furniture retailer to customers. Four cards show a retailer growing by vertical backward (towards the supplier), vertical forward (towards the customer), horizontal (same stage) and conglomerate (unrelated) integration. The timber example is vertical backward." loading="lazy">
+  <figcaption>Four directions of merger or takeover for a furniture retailer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--03-growth-directions.webp" width="900" height="1130" alt="Mardelby Furniture has arrows to a rival (horizontal), a supplier (backward vertical), a customer (forward vertical) and a new market (diversification). Two panels contrast a merger with a takeover." loading="lazy">
+  <figcaption>External growth can go sideways, backwards, forwards or into a new market, by merger or takeover.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs--03-loomfield-average-cost.webp" width="900" height="852" alt="Average cost per loaf at 20,000 to 100,000 loaves is 3.60, 2.40, 2.00, 2.175 and 2.35 dollars. It falls to 60,000 loaves (economies of scale) then rises (diseconomies) as fixed costs jump to 78,000 and variable cost rises to 1.35." loading="lazy">
+  <figcaption>Average cost falls then rises, and each change has a cause.</figcaption>
+</figure>
+
 
 ## Answering the questions
 

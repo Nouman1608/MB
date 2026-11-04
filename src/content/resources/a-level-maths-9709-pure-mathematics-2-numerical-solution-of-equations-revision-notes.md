@@ -69,6 +69,12 @@ f(3) = 3 sin 3 - 3 = -2.5766   (negative)
 
 Sign change and f is continuous, so a root lies between 2 and 3. (It is about 2.2789.) In degree mode you would get nonsense, so check the mode first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--01-sign-change-root.webp" width="900" height="910" alt="f(x)=x^3+2x^2-5 is below the axis at x=1 (f=-2) and above at x=2 (f=11), so the continuous curve crosses between them near 1.2419. A zoom on 1.235 to 1.245 shows f negative then positive, so the root is 1.24 to 2 d.p." loading="lazy">
+  <figcaption>A change of sign of a continuous function proves a root, and testing both ends of the rounding interval fixes the decimal places.</figcaption>
+</figure>
+
+
 ## Method: iterate to a prescribed accuracy
 
 ```
@@ -146,6 +152,22 @@ All iterates are positive (1, 3, 1.5, 2.4, 1.7647, …), so α = −3 is rejecte
 10. **[1.785, 1.795]**: a sign change there confirms the root rounds to 1.79.
 11. eˣ = 4 − x² ⇒ **x = ln(4 − x²)** (valid for −2 < x < 2). Its positive root is about 1.058.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--02-sign-change-fails.webp" width="900" height="1000" alt="Three graphs: 1/(x-2) on 1 to 3 changes sign across an asymptote with no root; (2x-3)^2 on 1 to 2 touches the axis with equal signs at the ends; (x-1)(x-2)(x+3) on 0.5 to 2.5 has two roots but positive ends." loading="lazy">
+  <figcaption>A sign change proves a root only if the function is continuous, and no sign change proves nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1270" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
+  <figcaption>Where the curve y = g(x) meets y = x is the root; the path converges when the curve is flatter than the line there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--05-newton-raphson-fails.webp" width="900" height="920" alt="On y = x^3-12x+7 a start at x=2 has a flat tangent, x=2.1 throws the next value to 9.37, and x=3 converges to 3.1240." loading="lazy">
+  <figcaption>Starting at or near a stationary point sends Newton-Raphson away from the root you want.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Values of f written without a statement that there is a sign change, or without "so a root lies between a and b".
@@ -157,6 +179,12 @@ All iterates are positive (1, 3, 1.5, 2.4, 1.7647, …), so α = −3 is rejecte
 - In "find the exact value of α", a decimal given instead of the exact form, or the wrong root of the quadratic kept.
 - An iteration that is clearly not converging carried on for many lines instead of being described as failing to converge.
 - In "show that α satisfies x = F(x)", steps skipped between the original equation and the given form.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--04-newton-raphson-tangent.webp" width="900" height="880" alt="On y = x^3+2x-9 the tangent at x1 = 1.5 meets the axis at x2 = 1.8, the tangent there meets it at x3 = 1.7631, and x4 = 1.7625." loading="lazy">
+  <figcaption>Each step replaces the curve by its tangent and moves to where the tangent meets the x-axis.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

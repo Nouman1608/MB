@@ -45,6 +45,12 @@ These are condensed notes for section 3.7.4, Populations in ecosystems (A-level 
 - **Intraspecific competition:** same species. Competition intensifies as numbers rise, so growth slows and levels off.
 - **Predation:** prey and predator numbers rise and fall in linked cycles. The predator peak comes after the prey peak, because predators need time to respond.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--08-population-growth.webp" width="900" height="900" alt="Counts of a mammal population on a predator-free island rise from 20 to about 200 in an S-shaped curve. The greatest yearly increase (+45) is between years 3 and 4; growth then slows and levels off at the carrying capacity. Population change equals births plus immigration minus deaths plus emigration." loading="lazy">
+  <figcaption>Limiting factors make growth level off at the carrying capacity.</figcaption>
+</figure>
+
+
 ## Formulas and calculations
 
 | Quantity | Calculation |
@@ -108,6 +114,12 @@ Key ideas to state:
 - The new species may make the environment less suitable for earlier species, which are out-competed (shaded, for example).
 - Biodiversity usually rises as the environment becomes less hostile.
 - Conservation often involves managing succession, for example by grazing, mowing or coppicing to stop a later stage taking over.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
 
 ## Conservation and human needs
 
@@ -180,6 +192,12 @@ Turbidity (cloudiness) of a broth culture can estimate growth rate. A log scale 
 - Calling a correlation proof of cause.
 - Evaluating data with generic comments, such as "more repeats", and not tying them to the study described.
 - Ignoring a time lag in predator and prey graphs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

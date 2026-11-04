@@ -85,6 +85,22 @@ The smallest total is 7, so the route length is 47 + 7 = **54**. You repeat edge
 
 **Starting point.** The route must end where it starts. If you are asked to start at a particular node, the length does not change, because the repeated edges are the same wherever you start.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling--01-odd-nodes.webp" width="900" height="880" alt="A six-node network with each node's degree shown. B and E have odd degree (3) and are marked in gold; the degrees add to 18, twice the 9 edges. This is why a network always has an even number of odd nodes." loading="lazy">
+  <figcaption>Odd nodes are those with an odd number of edges; here B and E.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling--02-repeat-shortest-path.webp" width="900" height="900" alt="The shortest path between the odd nodes B and E is B-D-E (9+4=13), drawn as double gold lines because it is repeated; B-C-E (15) is longer. Edge weights total 67, so the shortest closed route is 67+13=80." loading="lazy">
+  <figcaption>Repeating the shortest path between the two odd nodes gives a route of 67 + 13 = 80.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling--03-three-pairings.webp" width="900" height="1270" alt="Four odd nodes B, C, D, E can be paired three ways. Repeating the shortest paths costs 7 (BC+DE), 14 (BD+CE) or 19 (BE+CD, where CE is repeated twice). The smallest is 7, so the route is 47+7=54." loading="lazy">
+  <figcaption>Four odd nodes give three pairings; choose the smallest total, 7, so the route is 47 + 7 = 54.</figcaption>
+</figure>
+
+
 ## 3.2 The travelling salesman problem
 
 The specification glossary gives these definitions. The travelling salesman problem is to find a route of minimum length that visits every vertex in an undirected network. In the **classical** problem each vertex is visited once only. In the **practical** problem a vertex may be revisited. A **tour** is a walk that visits every vertex and returns to its start.
@@ -102,6 +118,12 @@ A **complete graph** has every vertex joined to every other. The triangle inequa
 | C | 9 | 7 | – | 11 | 8 |
 | D | 20 | 10 | 11 | – | 6 |
 | E | 15 | 13 | 8 | 6 | – |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling--04-complete-network.webp" width="900" height="940" alt="Nodes A to E have nine edges but no edge AD. The shortest route from A to D is A-C-D = 9+11 = 20 (A-E-D is 21, A-B-D is 22), so AD = 20 is added to complete the network." loading="lazy">
+  <figcaption>A missing edge is replaced by the shortest distance, here AD = 20 via C.</figcaption>
+</figure>
+
 
 ## 3.3 Upper and lower bounds
 
@@ -141,6 +163,17 @@ So 55 is an upper bound. The nearest neighbour method in 3.4 does better here.
 
 Deleting C: the MST of A, B, D, E is DE 6, BD 10, AB 12 = 28, and the two shortest edges at C are CB 7 and CE 8, giving 28 + 15 = 43. The best lower bound is 43.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling--05-upper-bound-mst.webp" width="900" height="1130" alt="The minimum spanning tree has edges DE 6, BC 7, CE 8 and AC 9, total 30, so the doubled walk is 60. Short cuts B-E (13) and D-A (20) give the tour A-C-B-E-D-A of length 55, an upper bound." loading="lazy">
+  <figcaption>Double the minimum spanning tree (60), then take short cuts to get a tour of 55.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling--06-lower-bound-delete-vertex.webp" width="900" height="800" alt="Vertex C is deleted. The minimum spanning tree of A, B, D, E is AB 12, BD 10, DE 6 = 28; adding C's two shortest edges CB 7 and CE 8 gives the lower bound 43, the largest of the five (42, 40, 43, 40, 40)." loading="lazy">
+  <figcaption>Delete a vertex, find the MST of the rest, add its two shortest edges: 28 + 15 = 43.</figcaption>
+</figure>
+
+
 ## 3.4 The nearest neighbour algorithm
 
 1. Start at the given vertex.
@@ -155,6 +188,17 @@ The method works on a complete network, so convert first if needed. The answer d
 **Conclusion.** The best upper bound is 47 and the best lower bound is 43, so the optimal tour length L satisfies 43 ≤ L ≤ 47. Checking all twelve distinct tours, which you would not do in an exam, gives 45, inside the interval.
 
 **Practical or classical.** The tour above uses only direct distances from the table, so each vertex is visited once. If a table entry came from a longer path, such as A to D through C, then following that path in the original network would revisit C, which only the practical problem allows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling--07-nearest-neighbour.webp" width="900" height="790" alt="Starting at A, move each time to the nearest unvisited node: A-C 9, C-B 7, B-D 10, D-E 6, then back E-A 15. Total 47, an upper bound; starting at B gives 53." loading="lazy">
+  <figcaption>Nearest neighbour from A gives the tour A-C-B-D-E-A of length 47.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling--08-bounds-interval.webp" width="900" height="720" alt="On a number line, upper bounds from tours are 47, 53 and 55 and lower bounds from deleted vertices are 40, 42 and 43. The best pair gives 43 &lt;= L &lt;= 47, and checking all twelve tours finds the optimum 45 (tour A-B-D-E-C)." loading="lazy">
+  <figcaption>The best lower bound (43) and best upper bound (47) trap the optimal tour length, which is 45.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -32,6 +32,12 @@ Stimulus, receptor, control centre, effector, response.
 | Negative feedback | Reduces the change, returns to set point | Heart rate, ventilation rate, thyroxine level |
 | Positive feedback | Increases the change | Ethylene and ripening (HL only) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--03-hypothalamus-pituitary-thyroid.webp" width="900" height="1000" alt="The hypothalamus releases TRH, which makes the pituitary release TSH, which makes the thyroid secrete thyroxine. Rising thyroxine inhibits the hypothalamus and pituitary, which is negative feedback." loading="lazy">
+  <figcaption>The thyroxine loop is a worked example of negative feedback.</figcaption>
+</figure>
+
+
 ## C3.1.11 to C3.1.13 Hormonal signals
 | Item | Key facts |
 |---|---|
@@ -48,6 +54,17 @@ Stimulus, receptor, control centre, effector, response.
 - pupils wider
 
 **Thyroid example (negative feedback):** low thyroxine, hypothalamus releases more releasing hormone, pituitary releases more thyroid-stimulating hormone, thyroid releases more thyroxine, thyroxine rises and inhibits the hypothalamus and pituitary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--01-melatonin-sleep-wake.webp" width="900" height="1010" alt="Light detected by the eyes is relayed to the hypothalamus, which controls the pineal gland; bright light suppresses melatonin. The graph shows melatonin low by day, rising in the evening, peaking at about 02:00 and falling towards morning." loading="lazy">
+  <figcaption>Melatonin follows a daily rhythm that light resets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--02-epinephrine-effects.webp" width="900" height="1120" alt="The adrenal glands, above the kidneys, release epinephrine. Labelled effects: pupils dilate, bronchioles widen, liver converts glycogen to glucose, heart rate and stroke volume rise, gut and skin vessels narrow, muscle vessels widen. Cardiac output rises from 4800 to 16 800 cm3 per minute." loading="lazy">
+  <figcaption>Every effect of epinephrine supports muscle contraction.</figcaption>
+</figure>
+
 
 ## C3.1.14 and C3.1.15 Heart and ventilation control
 | Feature | Baroreceptors | Chemoreceptors |
@@ -73,6 +90,17 @@ Stimulus, receptor, control centre, effector, response.
 
 Anaerobic respiration adds lactate, which also lowers pH.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--04-heart-rate-feedback.webp" width="900" height="1110" alt="Baroreceptors and chemoreceptors in or beside arteries send impulses to the medulla. The medulla signals the heart along sympathetic nerves, which raise rate and force, and the vagus nerve, which lowers rate. Three summaries link pressure and CO2 changes to the response." loading="lazy">
+  <figcaption>The medulla balances sympathetic and vagus input to the heart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--05-ventilation-feedback.webp" width="900" height="1090" alt="A rise in CO2 lowers blood pH, chemoreceptors detect it and the medulla speeds the diaphragm and intercostal muscles, so more CO2 is exhaled and pH rises: negative feedback. Ventilation rate rises from 7.0 to 67.2 dm3 per minute (9.6 times)." loading="lazy">
+  <figcaption>Breathing speeds up to remove CO2 and restore pH.</figcaption>
+</figure>
+
+
 ## C3.1.16 Peristalsis
 | Stage | Control |
 |---|---|
@@ -82,12 +110,34 @@ Anaerobic respiration adds lactate, which also lowers pH.
 
 The ENS lies in the gut wall and coordinates waves of contraction so material moves in one direction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--06-peristalsis.webp" width="900" height="810" alt="Circular muscle contracts behind the food and relaxes ahead, with longitudinal muscle in the outer layer, so food moves one way. The CNS controls starting a swallow and egestion; the ENS coordinates the waves between." loading="lazy">
+  <figcaption>Peristalsis is a wave of contraction, mostly under enteric nervous system control.</figcaption>
+</figure>
+
+
 ## C3.1.17 and C3.1.18 Tropisms (HL only)
 - A tropism is a directional growth response to a directional stimulus.
 - Positive phototropism: shoot grows towards lateral light. Cells on the shaded side elongate more.
 - Qualitative data: annotated diagrams. Quantitative data: angle of curvature in degrees.
 - Improve reliability: many seedlings, same age, same light and temperature, repeats, camera square to the seedling.
 - Improve precision: measure from photographs with a protractor or image software, to a consistent unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--07-phototropism.webp" width="900" height="830" alt="With lateral light, shaded-side cells in the growing zone below the tip hold more auxin and elongate more than lit-side cells, so the shoot bends towards the light." loading="lazy">
+  <figcaption>Unequal elongation bends the shoot towards the light.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--08-auxin-acid-growth.webp" width="900" height="1060" alt="Auxin enters from the acidic wall space and is trapped in the cytoplasm; it leaves through a PIN efflux carrier. Auxin stimulates a proton pump, hydrogen ions acidify the wall, cross-links loosen, water enters by osmosis and turgor stretches the wall so the cell elongates." loading="lazy">
+  <figcaption>Auxin acidifies the wall, loosens it and lets turgor stretch the cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant--09-ethylene-ripening.webp" width="900" height="1150" alt="Ripening raises ethylene production and ethylene speeds ripening: positive feedback. Production rises 220-fold from day 0 to day 6 then levels off, and the gas spreads to neighbouring fruit so they ripen together." loading="lazy">
+  <figcaption>Ethylene and ripening reinforce each other.</figcaption>
+</figure>
+
 
 ## C3.1.19 to C3.1.23 Plant growth regulation (HL only)
 | Statement | Key points |

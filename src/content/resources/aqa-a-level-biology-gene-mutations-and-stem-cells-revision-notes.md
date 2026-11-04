@@ -54,6 +54,12 @@ These notes condense sections 3.8.1 and 3.8.2.1 of the AQA specification for AS 
 5. State the type of effect: unchanged (degenerate code), one amino acid changed, shorter polypeptide, or every amino acid downstream changed (frame shift).
 6. If asked about function, link the new primary structure to tertiary structure and the shape of an active site or binding site.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--02-mutation-effects.webp" width="900" height="1110" alt="The mRNA AUG CUU GGC ACC AAG GAU CGU UAG is read in triplets. A silent change (CUU to CUC) keeps Leu, a missense change (CUU to CCU) gives Pro, a nonsense change (AAG to UAG) stops the chain after four amino acids, one added G causes a frame shift so every later amino acid changes, and deleting three bases keeps the frame and loses only Leu." loading="lazy">
+  <figcaption>Silent, missense, nonsense, frame shift and in-frame deletion followed through one mRNA.</figcaption>
+</figure>
+
+
 ### Worked reminder: one gene, four mutations
 
 mRNA: AUG AAA GUU GAU CCA UGA. Codon data supplied: AUG Met; AAA Lys; GUU and GUC Val; GAU Asp; GAA Glu; CCA Pro; UGA, UAA stop; AAG Lys; UUG Leu; AUC Ile; CAU His.
@@ -68,6 +74,12 @@ Original: Met-Lys-Val-Asp-Pro, then stop.
 | First A of AAA deleted | AUG AAG UUG AUC CAU GA | Met-Lys-Leu-Ile-His: frame shift, stop codon lost |
 
 Notice that a frame shift can replace or remove the stop codon, so a polypeptide may become longer as well as wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--07-alternative-splicing.webp" width="900" height="970" alt="A pre-mRNA with five exons of 90, 60, 105, 45 and 72 nucleotides is spliced so introns are removed and exons joined. Keeping exon 1, exon 5 and one of exons 2, 3 or 4 gives mRNAs coding for 73, 88 and 68 amino acids." loading="lazy">
+  <figcaption>Alternative splicing gives three polypeptides from one gene.</figcaption>
+</figure>
+
 
 ### Must-know distinctions
 
@@ -87,6 +99,12 @@ Original coding strand: ATG GCA TTC AAG TGA, giving Met-Ala-Phe-Lys, then stop. 
 ### Worked reminder: judging a trial
 
 A trial reports that 18 of 30 patients given a stem cell therapy improved, against 9 of 30 given standard care. That is 18 ÷ 30 × 100 = 60% against 9 ÷ 30 × 100 = 30%, a difference of 30 percentage points. A good evaluation then asks: are 30 patients per group enough, were patients allocated fairly, how long were they followed, were tumours or other harms recorded, and can the result be repeated? Finish with a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--01-mutation-types.webp" width="900" height="1108" alt="The same nine-base gene ATGCTTGGC is shown after each mutation with changed bases in gold and lost bases as dashed boxes. Substitution keeps nine bases, addition gives ten, deletion eight, duplication of GGC twelve, inversion of the last six bases (reads GCCAAG) keeps nine, and translocation moves CTT to the other end. OCR names only substitution, insertion and deletion." loading="lazy">
+  <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
+</figure>
+
 
 ## 3.8.2.1 Cell potency
 
@@ -153,6 +171,17 @@ The specification suggests this as an opportunity for aseptic technique. Cut exp
 10. 36 ÷ 45 × 100 = 80%.
 11. Two doublings (2 × 2 = 4).
 12. Advantage: made from the patient's own cells, so no embryo is destroyed. Risk: the cells may form tumours.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
+  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--08-stem-cell-potency.webp" width="900" height="1230" alt="A zygote divides into a solid morula, then a hollow blastocyst with trophoblast, cavity and inner cell mass (Edexcel). Four bars narrow from totipotent (any cell type and placenta) through pluripotent and multipotent to unipotent (one cell type). Treating an adult skin cell with transcription factors makes an induced pluripotent stem cell (AQA)." loading="lazy">
+  <figcaption>Potency from totipotent to unipotent, the early embryo, and iPS cells.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -58,6 +58,17 @@ cos 165° = cos(120° + 45°) = cos 120° cos 45° − sin 120° sin 45°
          = −(√2 + √6)/4
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--03-arcsin-reflection.webp" width="900" height="1070" alt="On equal axes the sine curve restricted to −π/2 ≤ x ≤ π/2 and its reflection in y = x, the arcsin curve, which runs from (−1, −π/2) to (1, π/2). Points swap coordinates, so domain and range swap too." loading="lazy">
+  <figcaption>The graph of arcsin is the restricted sine graph reflected in y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--05-arcsin-sin-trap.webp" width="900" height="910" alt="The zigzag graph of arcsin(sin x) against the line y = x. They agree only for x between −π/2 and π/2. At x = 5π/6 the value is π/6." loading="lazy">
+  <figcaption>arcsin(sin x) always lands in [−π/2, π/2], so it equals x only on that interval.</figcaption>
+</figure>
+
+
 ### Worked example 2: from given ratios
 
 A is acute with sin A = 12/37. B is obtuse with cos B = −4/5. Find sin(A + B) and cos(A − B).
@@ -79,6 +90,12 @@ tan(A + B) = (2/5 + 3/7)/(1 − 6/35) = (29/35)/(29/35) = 1
 
 A + B lies between 0° and 180° and has tangent 1, so **A + B = 45°**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--02-cot-graph.webp" width="900" height="880" alt="Cotangent from 0 to 2π with tangent dotted. Asymptotes at 0, π and 2π; each branch falls and crosses zero at π/2 and 3π/2, where tangent is undefined. Period π." loading="lazy">
+  <figcaption>Cot x falls in every branch, has period π and equals 0 where tan x is undefined.</figcaption>
+</figure>
+
+
 ### Worked example 4: an equation
 
 Solve sin(x + 30°) = 2 cos x for 0° ≤ x ≤ 360°.
@@ -90,6 +107,12 @@ tan x = 3/√3 = √3
 ```
 
 So **x = 60° or 240°**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--09-solve-sin-symmetry.webp" width="900" height="960" alt="Sine graph with the line y = −0.4 meeting it at 203.6° and 336.4°, each a reference angle α = 23.58° from 180° and 360°. The calculator value −23.58° is outside the interval." loading="lazy">
+  <figcaption>Find the reference angle, then use symmetry to list every solution in the interval.</figcaption>
+</figure>
+
 
 ## Double angle formulae
 
@@ -114,6 +137,12 @@ sin 2x = 2(7/25)(24/25) = 336/625
 cos 2x = 1 − 2(49/625) = 527/625
 tan 2x = (336/625)/(527/625) = 336/527
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--07-sin-sum-proof.webp" width="900" height="880" alt="Triangle XYZ is split by a perpendicular ZW into angles A and B. Its area is ½pq sin(A+B) and also ½ph sin A + ½qh sin B; with h = q cos B = p cos A this gives sin(A+B) = sin A cos B + cos A sin B." loading="lazy">
+  <figcaption>The area of one triangle, written two ways, proves the sin(A + B) formula.</figcaption>
+</figure>
+
 
 ### Worked example 6: a triple angle
 
@@ -169,6 +198,12 @@ cosec θ/(cosec θ − sin θ) = (1/sin θ)/(1/sin θ − sin θ)
 ```
 
 Write cosec θ as 1/sin θ, then multiply top and bottom by sin θ. This is the specification's own example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--06-three-triangles.webp" width="900" height="770" alt="A quarter unit circle with a ray at 35°. The triangle with hypotenuse 1 gives sin² + cos² = 1; the triangle on the tangent line gives 1 + tan² = sec²; the triangle on the line y = 1 gives 1 + cot² = cosec²." loading="lazy">
+  <figcaption>Pythagoras in three similar triangles gives all three identities.</figcaption>
+</figure>
+
 
 ## The R-form
 
@@ -237,6 +272,12 @@ Write 3 cos θ + 8 sin θ = √73 cos(θ − α), which takes every value from �
 Solve √3 cos x + sin x = √3 for 0 ≤ x ≤ 2π.
 
 r = √(3 + 1) = 2, tan α = 1/√3, so α = π/6 and the left side is 2cos(x − π/6). Then cos(x − π/6) = √3/2. With −π/6 ≤ x − π/6 ≤ 11π/6, the solutions are x − π/6 = −π/6, π/6 or 11π/6. So **x = 0, π/3 or 2π**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--08-r-form-wave.webp" width="900" height="1100" alt="y = 7 sin x − 24 cos x equals 25 sin(x − 73.74°): a sine wave of amplitude 25 shifted right by α. The 7, 24, 25 triangle gives R cos α = 7 and R sin α = 24. The line y = 10 meets the curve at 97.3° and 230.2°." loading="lazy">
+  <figcaption>R is the amplitude and α the shift of the combined wave.</figcaption>
+</figure>
+
 
 ## Using the formulae in integration
 

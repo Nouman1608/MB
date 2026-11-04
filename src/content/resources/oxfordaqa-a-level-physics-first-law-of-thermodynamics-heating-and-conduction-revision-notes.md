@@ -61,6 +61,12 @@ If ΔU is positive, the internal energy rises. If ΔU is zero, then Q = −W: th
 **Reminder:** a gas is compressed. The surroundings do 210 J of work on it and 75 J leaves it by heating.
 ΔU = (−75) + 210 = **+135 J**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--08-first-law.webp" width="900" height="1270" alt="Top: a gas absorbs 500 J of thermal energy and expands, doing 200 J of work on its surroundings, so W = -200 J and the internal energy rises by 300 J. Bottom: a piston does 340 J of work on a gas while 120 J leaves by heating, so internal energy rises by 220 J. Waterfall bars show q, W and ΔU. Cambridge only: isothermal ΔU = 0, adiabatic q = 0, isobaric constant pressure, isovolumetric W = 0." loading="lazy">
+  <figcaption>ΔU = q + W, with W the work done on the gas, negative when the gas expands.</figcaption>
+</figure>
+
+
 ## Method: temperature change
 
 1. Find the mass in kilograms.
@@ -70,6 +76,22 @@ If ΔU is positive, the internal energy rises. If ΔU is zero, then Q = −W: th
 
 **Reminder:** 2.5 kg of water is heated from 20 °C to 100 °C. Take c = 4180 J kg⁻¹ K⁻¹.
 Q = 2.5 × 4180 × 80 = 836 000 J = **8.4 × 10⁵ J**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--01-kelvin-celsius-scale.webp" width="900" height="1110" alt="A vertical scale from 0 K (absolute zero, -273.15 °C) through 77 K (nitrogen boils, -196 °C) and 273.16 K (triple point of water, 0.01 °C) to 293 K (a 20 °C room). T/K = θ/°C + 273.15, and a rise of 25 K equals a rise of 25 °C because the degrees are the same size." loading="lazy">
+  <figcaption>The kelvin and Celsius degrees are the same size; only the zero points differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--02-heating-curve.webp" width="900" height="1210" alt="Temperature-time graph for 0.200 kg of ice at -15 °C heated at 150 W. 6300 J warms the ice to 0 °C, 66 800 J melts it at constant temperature, and 16 800 J warms the water to 20 °C; the total of 89 900 J takes about 600 s. Particle pictures show ice as a lattice, melting as a mixture and water as an irregular close arrangement." loading="lazy">
+  <figcaption>During melting the supplied energy increases potential energy, so the temperature stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--05-absolute-zero.webp" width="900" height="1080" alt="Pressure of a fixed volume of air against Celsius temperature: 100 kPa at 20 °C and 128 kPa at 100 °C, a gradient of 0.35 kPa per °C. Extending the line back to zero pressure gives -266 °C, close to the accepted -273 °C; the long extrapolation magnifies small errors." loading="lazy">
+  <figcaption>Extrapolating a pressure-temperature line back to p = 0 estimates absolute zero.</figcaption>
+</figure>
+
 
 ## Method: change of state
 
@@ -108,6 +130,17 @@ Q = 2.5 × 4180 × 80 = 836 000 J = **8.4 × 10⁵ J**.
 **Reminder:** a 0.50 kg block, heater at 10.0 V and 3.0 A, temperature gradient 0.065 K s⁻¹.
 P = VI = 30 W. c = 30 / (0.50 × 0.065) = 923, so c = **9.2 × 10² J kg⁻¹ K⁻¹**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--03-shc-electrical.webp" width="900" height="1290" alt="A lagged metal block of 1.00 kg holds a heater and a thermometer. The heater is connected through an ammeter in series with a voltmeter across it; conventional current flows from the positive terminal. At 12.0 V and 4.20 A (50.4 W) the temperature rises 24.0 K in 420 s, a straight line of gradient 0.0571 K/s, so c = P/(m × gradient) = 882 J/kg/K." loading="lazy">
+  <figcaption>The gradient of a temperature-time graph at constant power gives c = P / (m × gradient).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--04-boyle-law.webp" width="900" height="1200" alt="Two syringes hold the same ten molecules at constant temperature. Halving the volume from 60 to 30 cm3 doubles the pressure from 1.00 to 2.00 x 10^5 Pa because molecules hit the walls twice as often. A graph of p against 1/V for six readings is a straight line through the origin, and pV = 6.0 J every time." loading="lazy">
+  <figcaption>At constant temperature pV is constant, so p against 1/V is a straight line through the origin.</figcaption>
+</figure>
+
+
 ## Conduction
 
 - Rate = kAΔθ/L in watts.
@@ -117,6 +150,12 @@ P = VI = 30 W. c = 30 / (0.50 × 0.065) = 923, so c = **9.2 × 10² J kg⁻¹ K�
 
 **Reminder:** a copper bar has k = 390 W m⁻¹ K⁻¹, length 0.40 m and cross-sectional area 2.0 × 10⁻⁴ m². Its ends are at 100 °C and 30 °C.
 Rate = 390 × 2.0 × 10⁻⁴ × 70 / 0.40 = **14 W**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--09-conduction-u-values.webp" width="900" height="1190" alt="A brick slab of area 14 m2 and thickness 0.22 m has faces at 20 °C and 4 °C; energy flows from hot to cold at kAΔθ/L = 0.80 x 14 x 16 / 0.22 = 814 W. A U-value is k/L, so loss = UAΔθ. A wall of 18.5 m2 (U 0.35) and a window of 3.5 m2 (U 1.8) with 15 K difference lose 97 W and 94.5 W respectively, 192 W in total; the window is 16 percent of the area but 49 percent of the loss." loading="lazy">
+  <figcaption>Conduction rate is kAΔθ/L; U-values show how a small window can dominate energy loss.</figcaption>
+</figure>
+
 
 ## U-values
 

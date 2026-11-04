@@ -54,6 +54,12 @@ The model in one line: **cations fixed in a lattice, held together by a mobile c
 3. Explain that property from the bonding (layers slide with the electron cloud; mobile electrons carry energy).
 4. Add any other factor the question hints at, such as low density or resistance to corrosion. These are real reasons for a choice, but the bond model alone does not explain them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--02-conductivity.webp" width="900" height="850" alt="Top: electrons in a metal bar drift towards the positive terminal while the cations stay fixed. Bottom: a bar hot at one end and cool at the other, where mobile electrons carry energy along the bar." loading="lazy">
+  <figcaption>Mobile delocalized electrons carry charge and energy; the cations do not move.</figcaption>
+</figure>
+
+
 ## Structure 2.3.2: strength of the metallic bond
 
 Bond strength rises with:
@@ -77,6 +83,12 @@ Stronger metallic bond → more energy to disrupt the lattice → **higher melti
 4. Say which has the stronger attraction between cations and delocalized electrons.
 5. Conclude that more energy is needed to overcome it, so that metal has the higher melting point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--08-period4-melting.webp" width="900" height="880" alt="Bars show period 4 melting points in K: K 337, Ca 1115, Sc 1814, Ti 1941, V 2183, Zn 693, with valence configurations beneath. 3d electrons join from Sc and the melting point keeps rising to V. Zn has a full 3d sublevel and melts at only 693 K." loading="lazy">
+  <figcaption>Melting points rise from K to V as 3d electrons join the cloud, but fall for Zn with its full 3d sublevel (HL).</figcaption>
+</figure>
+
+
 ### Worked reminder
 
 Which melts higher, strontium or rubidium? Both are in period 5.
@@ -91,6 +103,22 @@ Sr has the higher melting point (about 1050 K, against about 312 K for Rb)
 
 For p-block metals such as aluminium, apply the same two factors: Al³⁺ has the highest charge and smallest radius in period 3, so aluminium melts highest, though only just above magnesium. The simple model works well for s-block metals. Some p-block metals break the pattern (gallium melts at 303 K), so trust data over prediction when the two disagree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--01-metallic-bond.webp" width="900" height="850" alt="A lattice of 18 Ca2+ cations sits in a sea of 36 delocalized electrons, two per atom, matching Ca [Ar] 4s2. One highlighted electron is pulled towards its four nearest cations. The attraction acts in all directions, so the bond is non-directional." loading="lazy">
+  <figcaption>Metallic bonding is the electrostatic attraction between a lattice of cations and delocalized electrons, acting in all directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--04-bond-strength.webp" width="900" height="860" alt="Two cations of equal size with 1+ and 2+ charge each have a delocalized electron the same distance away; the 2+ ion pulls harder (thicker arrow). K+ and the larger Cs+ are drawn to scale; the electron is closer to K+, so the pull is stronger. A stronger bond means a higher melting point." loading="lazy">
+  <figcaption>Higher cation charge and smaller ion radius give a stronger metallic bond and so a higher melting point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--06-melting-trends.webp" width="900" height="880" alt="Bars show melting points in K: K 337, Rb 312, Cs 302, then K 337 beside Ca 1115. Cation circles below the bars are drawn to scale. Down group 1 the ion gets bigger and the melting point falls; from K to Ca the charge rises to 2+, the ion shrinks and the melting point rises sharply." loading="lazy">
+  <figcaption>Melting points fall down group 1 as ions get bigger and rise from K to Ca as charge increases and radius falls.</figcaption>
+</figure>
+
+
 ## Structure 2.3.3: transition elements (HL only)
 
 - In transition elements, **3d electrons as well as 4s electrons** can be delocalized.
@@ -99,6 +127,12 @@ For p-block metals such as aluminium, apply the same two factors: Al³⁺ has th
 - Across period 4 the melting point rises sharply from K (337 K) to Ca (1115 K), and keeps rising into the d-block, reaching 2183 K at V.
 - The trend is less regular across the d-block than the simple model suggests. Zinc, with a full 3d sublevel, melts at only 693 K.
 - Chemical properties of transition elements are in Reactivity 3.4, not here.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--07-d-electrons.webp" width="900" height="960" alt="Orbital box diagrams: calcium [Ar] 4s2 has empty 3d boxes, so only two 4s electrons join the electron sea. Vanadium [Ar] 3d3 4s2 has three 3d and two 4s electrons that can all be delocalized, up to five per atom. More delocalized electrons give a denser cloud and a stronger bond." loading="lazy">
+  <figcaption>In transition metals both 4s and 3d electrons can delocalize, giving more electrons per atom than in s-block metals (HL).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -144,6 +178,17 @@ For p-block metals such as aluminium, apply the same two factors: Al³⁺ has th
 10. 302 − 273 = **29 °C**.
 11. Their 3d electrons, as well as their 4s electrons, can be delocalized, giving a higher electron density and stronger attraction to small, highly charged cations.
 12. Both 4s electrons and the 3d electrons (valence configuration 3d² 4s²).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--03-malleability.webp" width="900" height="910" alt="In a metal, a layer of cations slides one position and each cation is still surrounded by the electron cloud, so the metal bends. In an ionic solid the same slide puts three pairs of like-charged ions face to face; they repel and the crystal cracks." loading="lazy">
+  <figcaption>Non-directional metallic bonding lets layers slide, whereas the same slide in an ionic solid brings like charges together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--05-electron-density.webp" width="900" height="900" alt="Each square stands for 1 x 10^22 delocalized electrons. 1.00 cm3 of potassium holds 1.37 squares (1.37 x 10^22 atoms, one electron each); 1.00 cm3 of calcium holds 4.66 squares (2.33 x 10^22 atoms, two electrons each), about 3.4 times as many." loading="lazy">
+  <figcaption>Calcium has about 3.4 times the delocalized electron density of potassium (worked example 2).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

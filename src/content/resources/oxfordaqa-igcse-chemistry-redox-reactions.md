@@ -70,6 +70,12 @@ The same thinking covers metals burning in air. In 4Al + 3O₂ → 2Al₂O₃, a
 
 Many reactions involve no oxygen at all. Iron burning in chlorine, or chlorine water reacting with potassium iodide, cannot be judged by counting oxygen atoms. For these you need statement b.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--01-oxygen-transfer.webp" width="900" height="960" alt="Copper(II) oxide has a copper atom bonded to oxygen, beside a hydrogen molecule. A dashed arrow shows the oxygen moving to the hydrogen. Afterwards there is a copper atom and a water molecule: copper lost oxygen (reduced) and hydrogen gained oxygen (oxidised)." loading="lazy">
+  <figcaption>In CuO + H2 -&gt; Cu + H2O oxygen moves from copper to hydrogen, so reduction and oxidation happen together.</figcaption>
+</figure>
+
+
 ## 3.8.4 b: Oxidation and reduction as electron transfer
 
 The second definition works for any reaction in which electrons move from one particle to another.
@@ -108,6 +114,12 @@ Cl₂ + 2e⁻ → 2Cl⁻ (reduction)
 
 **Step 4. Conclude.** Iron is oxidised and chlorine is reduced. Six electrons pass from iron to chlorine for every two iron atoms. Notice that no oxygen is involved, yet the reaction is clearly oxidation and reduction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-redox-reactions--03-fe-cl2-electrons.webp" width="900" height="780" alt="Two iron atoms each lose three electrons to form two Fe3+ ions (oxidation). Three chlorine molecules gain a total of six electrons to form six Cl- ions (reduction). The six electrons lost equal the six gained." loading="lazy">
+  <figcaption>Six electrons pass from iron to chlorine: iron is oxidised and chlorine is reduced.</figcaption>
+</figure>
+
+
 ### Worked example 4: a metal displacement
 
 The specification asks you to describe displacement reactions in terms of oxidation and reduction and to write their ionic equations. A strip of magnesium is placed in silver nitrate solution, and grey crystals of silver grow on it.
@@ -145,6 +157,22 @@ For molten calcium bromide, CaBr₂:
 - Cathode: Ca²⁺ + 2e⁻ → Ca (reduction)
 - Anode: 2Br⁻ → Br₂ + 2e⁻ (oxidation)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-redox-reactions--05-electrolysis-redox.webp" width="900" height="880" alt="Molten calcium bromide between a negative cathode and positive anode. Ca2+ moves to the cathode and gains two electrons (reduction). Br- moves to the anode where two ions lose two electrons to make Br2 (oxidation)." loading="lazy">
+  <figcaption>Reduction happens at the cathode and oxidation at the anode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-redox-reactions--01-displacement-electrons.webp" width="900" height="940" alt="Two panels. Top: magnesium gives 2 electrons to two silver ions, so Mg is oxidised (Mg to Mg2+ + 2e-) and Ag+ is reduced (2Ag+ + 2e- to 2Ag). Bottom: two iodide ions give 2 electrons to a chlorine molecule, so I- is oxidised (2I- to I2 + 2e-) and Cl2 is reduced (Cl2 + 2e- to 2Cl-). Electrons lost equal electrons gained." loading="lazy">
+  <figcaption>Displacement reactions are redox: the particle losing electrons is oxidised, the one gaining them is reduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
+</figure>
+
+
 ## 3.8.4 c: Redox reactions
 
 When oxidation and reduction happen at the same time, the reaction is called a **redox** reaction. The word joins REDuction and OXidation.
@@ -175,6 +203,12 @@ Decide which of these reactions are redox.
 | C₂H₆O + O₂ → C₂H₄O₂ + H₂O | Ethanol gains oxygen to become ethanoic acid | Yes |
 
 Neutralisation and thermal decomposition of carbonates are common traps. They are reactions, but not redox. The last row is the oxidation of ethanol to ethanoic acid from statement 3.10.3.1 c.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-redox-reactions--04-redox-labels.webp" width="900" height="650" alt="The equation Fe2O3 + 3CO -&gt; 2Fe + 3CO2 with oxygen counts 3, 3, 0, 6. Fe2O3 loses oxygen (reduction, arrow above) and CO gains oxygen (oxidation, arrow below)." loading="lazy">
+  <figcaption>In Fe2O3 + 3CO -&gt; 2Fe + 3CO2, reduction and oxidation happen at the same time.</figcaption>
+</figure>
+
 
 ## Redox across the specification
 

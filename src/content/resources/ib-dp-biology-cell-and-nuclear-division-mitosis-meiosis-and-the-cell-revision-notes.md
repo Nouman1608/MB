@@ -29,6 +29,12 @@ These are condensed revision notes for sub-topic D2.1, Cell and nuclear division
 - Mitosis: same chromosome number, same genome. Meiosis: half the chromosome number, new combinations.
 - DNA replication comes first in both. After it, each chromosome has two chromatids joined until anaphase.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--02-replicate-before-dividing.webp" width="900" height="1010" alt="Three rows compare a cell with 6 chromosomes holding 6.0 au of DNA. Copying first gives 12.0 au then two daughters of 6.0; dividing without copying halves DNA to 3.0 au each; splitting only the cytoplasm leaves one cell with no nucleus." loading="lazy">
+  <figcaption>DNA must be copied first or each division halves the DNA, and the nucleus must divide before the cytoplasm.</figcaption>
+</figure>
+
+
 ## Cytokinesis (D2.1.2 and D2.1.3)
 
 | | Animal cell | Plant cell |
@@ -40,6 +46,12 @@ These are condensed revision notes for sub-topic D2.1, Cell and nuclear division
 **Unequal cytokinesis.** Usually near-equal, but not always. Oogenesis in humans: one large egg cell, other products tiny. Budding in yeast: a small bud and a larger parent.
 
 **Must be shared.** Every daughter cell receives a mitochondrion at minimum, plus any further organelle that arises only by division of an existing one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--01-cytokinesis-equal-unequal.webp" width="900" height="1040" alt="Four drawings of cytokinesis. An animal cell is pinched in two by a ring of actin and myosin; a plant cell builds a new wall from fused vesicles. In oogenesis a large egg keeps almost all the cytoplasm and a tiny cell is cut off; a yeast bud stays much smaller than its parent. Every daughter gets mitochondria." loading="lazy">
+  <figcaption>The cytoplasm splits by a pinching ring in animals, by a new wall in plants, and unequally in oogenesis and yeast budding.</figcaption>
+</figure>
+
 
 ## Condensation and movement (D2.1.5 and D2.1.6)
 
@@ -63,6 +75,17 @@ These are condensed revision notes for sub-topic D2.1, Cell and nuclear division
 4. State your reason from the visible structure, not from guessing.
 
 **Mitotic index (HL only, D2.1.17)** = cells in mitosis ÷ total cells counted. Example: 23 of 310 cells gives 0.0742, or 7.42%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--03-mitosis-phases.webp" width="900" height="1215" alt="Four drawings of a cell with four chromosomes. Prophase: chromosomes condense and the envelope breaks down. Metaphase: chromosomes line up on the equator. Anaphase: centromeres split and chromatids are pulled to the poles. Telophase: chromosomes uncoil, envelopes re-form, cytokinesis follows." loading="lazy">
+  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--04-mitotic-index.webp" width="900" height="1330" alt="A grid of 400 cells with 52 coloured as in mitosis: 34 prophase, 6 metaphase, 4 anaphase, 8 telophase. The mitotic index is 52 / 400 = 0.13 or 13 percent. Bars compare sample Q (13.0 percent) with sample P (62 of 250, 24.8 percent), about 1.9 times higher." loading="lazy">
+  <figcaption>Mitotic index is the fraction of cells in mitosis; a higher index means faster division.</figcaption>
+</figure>
+
 
 ## Meiosis (D2.1.9)
 
@@ -88,12 +111,29 @@ These are condensed revision notes for sub-topic D2.1, Cell and nuclear division
 | After meiosis I | 2 (4 chromatids) | 4.0 au |
 | After meiosis II | 2 (2 chromatids) | 2.0 au |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--05-meiosis-reduction-division.webp" width="900" height="1100" alt="A cell with 6 chromosomes (6.0 au) copies its DNA to 12.0 au. Meiosis I separates homologues into two cells of 3 chromosomes, still 6 chromatids, 6.0 au each. Meiosis II separates chromatids into four cells of 3 chromosomes and 3.0 au." loading="lazy">
+  <figcaption>Meiosis I halves the chromosome number; DNA halves again in meiosis II.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--07-meiosis-variation-sources.webp" width="900" height="1180" alt="Top: a chiasma between non-sister chromatids turns AB, AB, ab, ab into AB, Ab, aB and ab. Bottom: 16 tiles show every combination of maternal (teal) and paternal (gold) chromosomes for 4 pairs, 2^4 = 16; humans have 2^23 = 8 388 608." loading="lazy">
+  <figcaption>Crossing over and random orientation make every gamete different.</figcaption>
+</figure>
+
+
 ## Non-disjunction and Down syndrome (D2.1.10)
 
 - Non-disjunction: chromosomes or chromatids fail to separate in meiosis.
 - Meiosis I: homologues stay together. Meiosis II: sister chromatids stay together.
 - Gamete with 24 chromosomes + normal gamete with 23 = zygote with 47, three copies of chromosome 21.
 - This is trisomy 21, or Down syndrome.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--06-non-disjunction-down-syndrome.webp" width="900" height="1270" alt="One pair of chromosome 21 is followed. Failure in meiosis I gives two gametes with 24 chromosomes and two with 22; failure in meiosis II gives one with 24, one with 22 and two normal with 23. A 24-chromosome egg plus a normal sperm gives 47 chromosomes and trisomy 21." loading="lazy">
+  <figcaption>Non-disjunction gives gametes with an extra or missing chromosome 21; 24 + 23 = 47 is trisomy 21.</figcaption>
+</figure>
+
 
 ## Variation from meiosis (D2.1.11)
 
@@ -116,6 +156,12 @@ These are condensed revision notes for sub-topic D2.1, Cell and nuclear division
 
 **Interphase is active.** Biosynthesis of proteins and DNA. Mitochondria and chloroplasts increase by growth and division of existing ones.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--08-cell-cycle-cyclin-checkpoint.webp" width="900" height="1200" alt="A ring shows G1, S, G2 (together interphase, very active) then M, with a checkpoint at the end of G1. A graph of invented cyclin X values rises from 8 to 44 au at hour 9; the 40 au threshold is crossed at about 8.5 h, then the level falls and resets the control." loading="lazy">
+  <figcaption>A cell passes the checkpoint only when cyclin reaches its threshold; interphase is not a resting stage.</figcaption>
+</figure>
+
+
 ## HL only: control and cancer (D2.1.15 to D2.1.17)
 
 - Cyclin concentrations rise and fall in a pattern through the cycle.
@@ -131,6 +177,12 @@ These are condensed revision notes for sub-topic D2.1, Cell and nuclear division
 | Secondary tumour | A new tumour formed from cells that have spread (metastasis) |
 
 Compare tumours by rate of division and growth, ability to invade neighbours and ability to metastasise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--09-mutation-to-tumour.webp" width="900" height="1240" alt="A proto-oncogene mutates to an oncogene that always stimulates division; a tumour suppressor gene mutates to switched off. Uncontrolled division doubles cells 1, 2, 4, 8, 16 into a tumour. A benign tumour stays in a capsule; a malignant one invades and spreads by metastasis to form secondary tumours." loading="lazy">
+  <figcaption>Mutations in genes that stimulate or restrain division cause tumours, which may be benign or malignant.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

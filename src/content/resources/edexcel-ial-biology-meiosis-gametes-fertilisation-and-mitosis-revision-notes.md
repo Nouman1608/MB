@@ -62,6 +62,22 @@ Names of the stages of prophase are not required.
 
 Reminder: n = 4 gives 2^4 = 16 gamete types; two such parents give 16 × 16 = 256 zygote combinations before crossing over.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--05-meiosis-halves-number.webp" width="900" height="1110" alt="A parent cell with four chromosomes in two homologous pairs divides twice. Meiosis I separates the homologous pairs into two haploid cells with double chromosomes; meiosis II separates chromatids into four haploid cells with single chromosomes. DNA per cell goes 4, 2, 1 units." loading="lazy">
+  <figcaption>Meiosis I halves the chromosome number; meiosis II separates chromatids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--06-meiosis-variation.webp" width="900" height="1260" alt="Top: a chiasma between non-sister chromatids turns AB, AB, ab, ab into AB, Ab, aB and ab. Bottom: three homologous pairs give 2^3 = 8 different gametes, humans 2^23 = 8 388 608, and random fertilisation of 8 by 8 gives 64." loading="lazy">
+  <figcaption>Crossing over and independent assortment make every gamete different.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
+  <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
+</figure>
+
+
 ## 3.11 and 3.12 Gametes and mammalian fertilisation
 
 | Gamete part | Role |
@@ -109,6 +125,12 @@ Root tip squash in steps (typical method; follow your centre's version):
 
 Practical points: use only the tip, because cells further back are not dividing; keep acid and stain off skin; view at low power first, then increase magnification; draw only what you see, with clear lines and labels, and note the stage of each cell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp" width="900" height="1276" alt="Six drawings of an animal cell with four chromosomes: interphase, prophase, metaphase, anaphase, telophase and cytokinesis, each with a short description. Spindle fibres, centrioles and nuclei are labelled in a key; cytokinesis shows an animal cell pinching in and a plant cell forming a cell plate." loading="lazy">
+  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
+</figure>
+
+
 ## 3.16 Mitotic index: method
 
 1. Count all cells in the field(s), including interphase cells.
@@ -117,6 +139,12 @@ Practical points: use only the tip, because cells further back are not dividing;
 4. To estimate time in a stage: (cells in stage / total cells) × length of the cycle.
 
 Worked reminder: 36 cells in mitosis out of 240 gives 36 / 240 = 0.15, or 15%. If the cycle lasts 20 hours, mitosis lasts about 0.15 × 20 = 3 hours.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--04-mitotic-index.webp" width="900" height="1232" alt="A grid of 500 root tip cells, one symbol each: 440 interphase and 60 in mitosis (30 prophase, 12 metaphase, 8 anaphase, 10 telophase). A table gives time in a 24 hour cycle for each stage and the mitotic index 60/500 = 12%." loading="lazy">
+  <figcaption>The fraction of cells in a stage equals the fraction of the cycle spent in it.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -183,6 +211,12 @@ Worked reminder: 36 cells in mitosis out of 240 gives 36 / 240 = 0.15, or 15%. I
 10. 18 / 150 × 100 = 12%.
 11. To spread the cells into a single thin layer so light passes through and chromosomes can be seen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--02-cell-cycle-dna.webp" width="900" height="1100" alt="A ring diagram of G1, S, G2 and M sized from a 500-cell count (53%, 25%, 14%, 8% of a 20 hour cycle) with a graph of DNA per cell: 16 pg in G1, rising to 32 pg in S, level through G2 and mitosis, halving at cytokinesis." loading="lazy">
+  <figcaption>DNA doubles during S phase and halves at cytokinesis.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "gene" for "locus", or "allele" for "gene".
@@ -194,6 +228,12 @@ Worked reminder: 36 cells in mitosis out of 240 gives 36 / 240 = 0.15, or 15%. I
 - Dividing mitotic cells by interphase cells instead of by all cells.
 - Forgetting units or the percentage sign in rate and index answers.
 - Describing a squash without explaining why each step is done.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--01-chromosome-structure.webp" width="900" height="1230" alt="A replicated chromosome drawn as two sister chromatids joined at the centromere, with gold telomeres at the four ends. Zooming in, DNA is coiled round histone proteins. A final panel shows a DNA end shortening with each copy: the telomere is used up first and the genes stay intact." loading="lazy">
+  <figcaption>Telomeres are lost from chromosome ends at each replication, so genes are protected.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

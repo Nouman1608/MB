@@ -55,6 +55,17 @@ The [course hub](/boards/edexcel/a-level/chemistry/) links every Edexcel IAL Che
 3. The nucleus attracts an incoming electron less strongly.
 4. So the halogen gains electrons less readily and is a weaker oxidising agent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--01-group2-trends.webp" width="900" height="970" alt="Four Group 2 atoms are drawn with 3 to 6 shells and two gold outer electrons. Bars show first ionisation energy falling from Mg 738 to Ba 503 kJ per mole. More shells and shielding outweigh the extra nuclear charge." loading="lazy">
+  <figcaption>Atomic radius increases and first ionisation energy decreases from Mg to Ba.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
+  <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
+</figure>
+
+
 ## 8.25 Colours and displacement
 
 | | Standard conditions | Water | Cyclohexane (non-polar) |
@@ -76,6 +87,12 @@ oxidised.
 
 **Reminder.** Iodine water and bromine water can both look orange-brown. Shake with cyclohexane: violet
 means iodine, orange means bromine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--07-halogen-displacement.webp" width="900" height="1110" alt="A three by three grid of tubes shows each halogen with KCl, KBr and KI; displacement occurs only when the added halogen is more reactive. A lower panel shows chlorine pale green, bromine orange and iodine violet in cyclohexane (OCR and Edexcel)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halide; in cyclohexane the halogens are pale green, orange and violet (OCR, Edexcel).</figcaption>
+</figure>
+
 
 ## 8.26 Redox equations to know
 
@@ -105,6 +122,12 @@ bromine with cold potassium hydroxide gives KBr + KBrO + H₂O; bromine with wat
 **Worked reminder: checking a hot-alkali equation.** In 3Cl₂ + 6NaOH, there are six chlorine atoms. Five
 gain one electron each (5e⁻ gained); one loses five electrons in going to +5 (5e⁻ lost). Balanced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--10-chlorine-disproportionation.webp" width="900" height="1075" alt="A scale of chlorine oxidation numbers: Cl2 at 0 splits into chloride at minus 1 and either HClO or NaClO at plus 1. With hot NaOH (Edexcel only) the product is NaClO3 at plus 5. Balanced equations are shown." loading="lazy">
+  <figcaption>Chlorine is both oxidised and reduced in water and in alkali; hot alkali gives chlorate(V) (Edexcel only).</figcaption>
+</figure>
+
+
 ## 8.27 Halides and hydrogen halides
 
 ### With concentrated sulfuric acid
@@ -130,6 +153,12 @@ ions each lose one electron, so two HBr are needed per H₂SO₄: 2HBr + H₂SO�
 hydrogen 4 on each side, oxygen 4 on each side. Bromide cannot go further and make sulfur or hydrogen
 sulfide, because HBr is a weaker reducing agent than HI.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--08-halides-sulfuric-acid.webp" width="900" height="1075" alt="Tubes of NaCl, NaBr and NaI with concentrated sulfuric acid, beside a scale of sulfur oxidation number. Chloride leaves sulfur at +6, bromide reduces it to +4 (SO2), iodide reduces it to +4, 0 and minus 2 (SO2, S, H2S)." loading="lazy">
+  <figcaption>Larger halide ions are stronger reducing agents, so they reduce sulfuric acid further.</figcaption>
+</figure>
+
+
 ### With silver nitrate
 
 Acidify with dilute nitric acid (removes carbonate), then add silver nitrate: Ag⁺(aq) + X⁻(aq) → AgX(s).
@@ -140,10 +169,27 @@ Acidify with dilute nitric acid (removes carbonate), then add silver nitrate: Ag
 | Br⁻ | cream | does not dissolve (or only slightly) | dissolves |
 | I⁻ | yellow | does not dissolve | does not dissolve |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--04-sulfate-test.webp" width="900" height="950" alt="Three test tubes show dilute HCl removing carbonate as CO2, then BaCl2 solution added, then a white precipitate of BaSO4. An ion picture shows Ba2+ and SO4 2- joining, with a warning not to acidify with sulfuric acid." loading="lazy">
+  <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--09-silver-nitrate-test.webp" width="900" height="920" alt="A grid of tubes for Cl-, Br- and I- shows precipitate colours with acidified silver nitrate and their solubility in dilute and concentrated ammonia. AgCl dissolves in dilute ammonia, AgBr only in concentrated, AgI in neither." loading="lazy">
+  <figcaption>Acidified AgNO3 gives white, cream and yellow precipitates; solubility in ammonia confirms which halide.</figcaption>
+</figure>
+
+
 ### Hydrogen halides
 
 - With ammonia gas: HX + NH₃ → NH₄X, a white smoke (solid).
 - With water: HX + H₂O → H₃O⁺ + X⁻, giving an acidic solution; this is why they fume in moist air.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--02-group2-water.webp" width="900" height="985" alt="Four tubes show increasing bubbling from Mg to Ba in cold water, giving hydroxide and hydrogen. Below, magnesium burns in steam with bright white light to give white MgO and hydrogen." loading="lazy">
+  <figcaption>Reactivity with water increases down Group 2; magnesium with steam gives the oxide, not the hydroxide.</figcaption>
+</figure>
+
 
 ## 8.28 Prediction rules
 
@@ -197,6 +243,12 @@ Relative atomic masses for this test: Na 23.0, K 39.1, Cl 35.5, Br 79.9, Ag 107.
 9. 3Cl₂ gives 1NaClO₃, so 0.0300 ÷ 3 = **0.0100 mol**.
 10. Mr(KBr) = 119.0, n = 0.595 ÷ 119.0 = 0.00500 mol; Mr(AgBr) = 187.8; mass = 0.00500 × 187.8 = **0.939 g**.
 11. No. Astatine is a weaker oxidising agent than iodine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--03-group2-solubility.webp" width="900" height="1070" alt="Two rows of test tubes for Mg to Ba. Hydroxide solubility rises down the group, shown by less undissolved solid and more dissolved ions. Sulfate solubility falls, ending with insoluble BaSO4." loading="lazy">
+  <figcaption>Hydroxides become more soluble and sulfates less soluble down Group 2 (schematic).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

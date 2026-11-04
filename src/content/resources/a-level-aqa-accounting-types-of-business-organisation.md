@@ -72,6 +72,17 @@ approval and terms typically depend on the security a business can
 offer. Being able to say which businesses can and cannot access which
 source, and why, converts a rote list into an examinable understanding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--05-accounting-equation.webp" width="900" height="966" alt="Three transactions are shown with two equal bars each: assets on top and liabilities plus capital below. Owner capital of 10,000, then equipment bought for 4,000 cash, then 2,000 of stock bought on credit raising both sides to 12,000." loading="lazy">
+  <figcaption>Every transaction keeps assets equal to liabilities plus capital.</figcaption>
+</figure>
+
+
 ## Worked example: comparing sources of finance across two structures
 
 <!-- marlbridge-diagram:accounting-business-organisation-comparison -->
@@ -127,6 +138,17 @@ with a limit on the size or turnover of the business, rather than a
 limit on the owner's financial liability, is a common misunderstanding
 worth actively correcting in revision.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--02-liability.webp" width="900" height="870" alt="With illustrative numbers, debts of 50,000 pounds exceed business assets of 20,000 pounds by 30,000. A sole trader's own assets can be used to pay the shortfall, while a limited company shareholder loses at most the 10,000 pounds invested." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Listing the four ownership types without explaining benefits, risks and
@@ -166,3 +188,9 @@ follow.
 AQA A-Level Accounting (7127) specification, Version 1.1, October 2026
 onwards —
 [aqa.org.uk/7127](https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--03-finance-access.webp" width="900" height="1086" alt="A grid shows which of seven named sources each ownership type can use: owner's capital for sole traders, partners' capital for partnerships, shares and debentures for limited companies (mainly large-scale for plcs), and overdraft, loan and mortgage for all. A Cambridge-only box names instalments, leasing, trade credit and secured/unsecured loans." loading="lazy">
+  <figcaption>Match each source of finance to the ownership types that can realistically use it.</figcaption>
+</figure>
+

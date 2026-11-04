@@ -94,6 +94,12 @@ direction attached. A runner completing one full lap of a 400 m track has
 travelled a distance of 400 m, but their displacement is zero — they're back
 where they started.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
+  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
+</figure>
+
+
 ## Speed and velocity
 
 **Speed** is distance travelled per unit time:
@@ -166,6 +172,17 @@ speed = gradient = change in distance / change in time
 For a curved section, the gradient (and therefore the speed) at any instant
 is the gradient of the tangent to the curve at that point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--02-distance-time-gradient.webp" width="900" height="900" alt="A distance-time graph rises 20 m in 4 s (5 m/s), stays flat for 4 s (at rest), then rises 50 m in 4 s (12.5 m/s). The steeper line is faster." loading="lazy">
+  <figcaption>On a distance-time graph the gradient is the speed, and a flat line means at rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--03-distance-time-tangent.webp" width="900" height="900" alt="A curved distance-time graph gets steeper, so the object accelerates. A tangent at 4 s rises 32 m over 4 s, so the speed at that instant is 8 m/s." loading="lazy">
+  <figcaption>For a curve, the speed at an instant is the gradient of the tangent.</figcaption>
+</figure>
+
+
 ## Speed–time graphs
 
 A speed–time graph carries different information from the same-shaped lines:
@@ -200,6 +217,12 @@ total distance = 25 + 80 = 105 m
 The same figure, read as a distance–time graph instead, would show a curve
 steepening into a straight line — the same motion, described the other way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--04-speed-time-area.webp" width="900" height="930" alt="Speed rises from 0 to 10 m/s in 5 s then stays constant for 8 s. Gradient of the slope is 2 m/s squared. Triangle area 25 m plus rectangle area 80 m gives 105 m." loading="lazy">
+  <figcaption>Gradient gives acceleration and area gives distance travelled.</figcaption>
+</figure>
+
+
 ## Free fall
 
 Near the Earth's surface, an object falling freely has an acceleration of
@@ -207,6 +230,12 @@ free fall, **g ≈ 9.8 m/s²**, directed downward. This is a specific,
 recallable value, not something to derive — and it's an acceleration, which
 is why it applies the vector/scalar distinction from earlier: g has both a
 size (9.8 m/s²) and a direction (downward).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--06-free-fall.webp" width="900" height="920" alt="A ball dropped from rest is shown at 0, 1, 2 and 3 seconds with gaps that grow. Its downward speed is 9.8, 19.6 and 29.4 m/s, so it gains 9.8 m/s each second." loading="lazy">
+  <figcaption>In free fall, speed increases by about 9.8 m/s every second.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -251,3 +280,9 @@ single quantity, used throughout collisions and explosions questions
 
 *Written against Cambridge O Level Physics 5054, 2026–2028 series. Always
 check the current syllabus for your examination year.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--05-same-shape.webp" width="900" height="975" alt="Four small graphs compare the same line shapes. A sloping line is constant speed on a distance-time graph but constant acceleration on a speed-time graph. A flat line is rest on distance-time but constant speed on speed-time." loading="lazy">
+  <figcaption>The same line shape means different things on the two graphs.</figcaption>
+</figure>
+

@@ -52,6 +52,12 @@ Practise: [practice questions](/resources/oxfordaqa-a-level-business-types-of-st
 
 **Worked reminder.** Fixed costs £250,000, variable cost £12 a unit, output 40,000, capacity 50,000. Total cost = 250,000 + 480,000 = £730,000; unit cost = £18.25; utilisation = 80%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--04-price-war.webp" width="900" height="1020" alt="Profit bars for the low cost and differentiated e-bike options before and after a price war: 460,000 to 190,000 (down 58.7%) against 420,000 to 346,500 (down 17.5%)." loading="lazy">
+  <figcaption>A low contribution per bike leaves the low cost option far more exposed to price cuts.</figcaption>
+</figure>
+
+
 ## Business growth
 
 **SME.** Small or medium sized enterprise. Pros: speed, flexibility, customer closeness, low overheads. Cons: higher unit costs, harder finance, few key people, weak buying power.
@@ -95,6 +101,17 @@ Practise: [practice questions](/resources/oxfordaqa-a-level-business-types-of-st
 - **Merger vs acquisition:** agreement between equals versus purchase of control.
 - **Economies vs diseconomies:** both are about **unit cost**, not total cost.
 - **Capacity vs output:** capacity is the maximum; output is what was actually made.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--01-ansoff-matrix.webp" width="900" height="1048" alt="A two by two grid of existing/new products against existing/new markets giving market penetration, product development, market development and diversification, with risk rising towards diversification. Orrisdale example: raising share from 15% to 20% needs a 40% revenue rise." loading="lazy">
+  <figcaption>Four options sit in a grid by product and market, and risk rises as the business moves away from what it knows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--02-unit-cost-capacity.webp" width="900" height="840" alt="Unit cost curves for one furnace and two furnaces with points A (1.8m bottles, 90% used, 0.60), B (3.2m, 80%, 0.54) and C (2.4m, 60%, 0.635). Growth lowers unit cost only if the new capacity is used." loading="lazy">
+  <figcaption>Unit cost falls with the second furnace only while capacity is well used.</figcaption>
+</figure>
+
 
 ## Innovation
 
@@ -143,6 +160,12 @@ Practise: [practice questions](/resources/oxfordaqa-a-level-business-types-of-st
 4. Convert prices or costs at the current exchange rate, then at the expected one.
 5. Add the non-numerical factors: trading bloc membership, tariffs or quotas, culture, stability.
 6. Judge which market fits the firm's resources and objectives, and say what would change your view.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ## Sustainability
 

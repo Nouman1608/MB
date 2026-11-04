@@ -96,6 +96,12 @@ Small worked reminder: find ΔrH for 2H₂O₂(l) → 2H₂O(l) + O₂(g), using
 ΔrH = −572 − (−376) = −196 kJ for the equation as written
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--06-entropy-change-calc.webp" width="900" height="1070" alt="Bar chart: CaCO3(s) 92.9 J per K per mole against products CaO(s) 40.0 stacked with CO2(g) 213.6, total 253.6. The difference, +160.7, is the entropy change; most of it is the gas." loading="lazy">
+  <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
+</figure>
+
+
 ## 6.7 Core Practical 2 in brief
 
 - **Aim**: find ΔH for a reaction you cannot measure directly, such as a thermal decomposition.
@@ -127,6 +133,12 @@ Small worked reminder: find ΔrH for 2H₂O₂(l) → 2H₂O(l) + O₂(g), using
 5. To find an unknown bond, put it in as x and solve the same equation.
 
 **Limitations**: mean values are not exact for the molecule involved; the method assumes everything is gaseous, so it ignores enthalpy changes of state. Expect a different answer from a Hess's Law calculation using ΔfH or ΔcH.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--04-solution-cycle.webp" width="900" height="980" alt="Energy level diagram: NaCl(s) at 0 rises 787 to gaseous ions, falls 406 as Na+ is hydrated and 364 as Cl- is hydrated, ending at +17 kJ per mole above the solid. The enthalpy of solution is therefore +17." loading="lazy">
+  <figcaption>Dissolving NaCl: break the lattice (+787), then hydrate both ions (-406, -364), giving +17 kJ mol-1.</figcaption>
+</figure>
+
 
 ## 6.11 Bond enthalpy and rate
 
@@ -168,6 +180,12 @@ Small worked reminder: find ΔrH for 2H₂O₂(l) → 2H₂O(l) + O₂(g), using
 9. Energy to break four C–Cl bonds = 96 + 717 + 4(122) = 1301; mean C–Cl = 1301 ÷ 4 = **325 kJ mol⁻¹**.
 10. 0.2 ÷ 4.0 × 100 = **5%**.
 11. Mean values are averages over many compounds, or the method assumes all species are gaseous.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--01-born-haber-nacl.webp" width="900" height="1090" alt="Energy level diagram: Na(s) and half a Cl2 at 0 rise through atomisation of Na (+107), atomisation of Cl (+122) and ionisation of Na (+496) to 725, fall 349 on electron affinity to 376, then fall 787 as the lattice forms to minus 411. A direct arrow shows the enthalpy of formation, minus 411, so lattice energy is minus 787 kJ per mole." loading="lazy">
+  <figcaption>Born-Haber cycle for NaCl: the five steps sum to the enthalpy of formation, giving a lattice energy of -787 kJ mol-1.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

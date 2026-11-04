@@ -83,6 +83,17 @@ The quadratic is positive outside its roots: **x < −1 or x > 4.**
 
 **Example 5.** Solve |2x − 1| < x + 4. The right side must be positive for any solution, so write −(x + 4) < 2x − 1 < x + 4. The left half gives 3x > −3, so x > −1. The right half gives x < 5. **−1 < x < 5.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--06-modulus-check-roots.webp" width="900" height="870" alt="The V-shaped graph y = |x - 6| and the line y = 3x - 2 meet only at (2, 4). Algebra also gives x = -2, but there the line is at -8 and the V at +8, so it is rejected. A modulus cannot equal a negative number." loading="lazy">
+  <figcaption>Always check modulus roots: a root from the wrong branch does not fit the graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--07-modulus-inequality.webp" width="900" height="820" alt="Graphs of y = |x + 2| and y = 3|x| meet at x = -1/2 and x = 1. The graph of |x + 2| is below 3|x| for x less than -1/2 and for x greater than 1, so those are the solutions, shown on a number line with open circles." loading="lazy">
+  <figcaption>Solve the equation first, then read from the graph where one modulus graph lies below the other.</figcaption>
+</figure>
+
+
 ## 2. Graph of y = |ax + b| (1.02s, Stage 2)
 
 Sketch the straight line y = ax + b first. Keep the part on or above the x-axis. Reflect the part below the x-axis in the x-axis. The result is a V with its corner on the x-axis at x = −b/a, crossing the y-axis at |b|, with arms of gradient a and −a. The specification excludes the modulus of other graphs.
@@ -129,6 +140,22 @@ Set notation is expected where suitable: {x ∈ ℝ : x ≥ 2} means all real x 
 
 Complete the square: f(x) = (x − 5)² + 5, so the minimum is 5 at x = 5, which lies in the domain. Check the ends: f(2) = 14 and f(9) = 21. The greatest value is 21. **Range: 5 ≤ f(x) ≤ 21.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--01-range-depends-on-domain.webp" width="900" height="830" alt="Graph of f(x) = x squared - 10x + 29. The whole parabola has its turning point at (5, 4) but the domain x at least 6 uses only the solid right-hand part, starting at (6, 5). The range is therefore f(x) at least 5, not at least 4." loading="lazy">
+  <figcaption>Restricting the domain can change the range, because the lowest point may fall outside it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--02-horizontal-line-test.webp" width="900" height="960" alt="Two graphs of y = x squared. For all real x a horizontal line crosses twice (x = -2 and 2), so the function is many-one with no inverse. With x at least 0 the same line crosses once, so it is one-one and has an inverse." loading="lazy">
+  <figcaption>A horizontal line cutting the graph more than once means no inverse exists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--04-composite-domain.webp" width="900" height="780" alt="f(x) = root(x - 1) needs its input to be at least 1. g(x) = x squared - 10 gives an output of at least 1 only when x is at most minus root 11 or at least root 11, so fg has that domain. The graph of g is solid only where g(x) is at least 1." loading="lazy">
+  <figcaption>A composite is only defined where the inner function gives an output the outer function accepts.</figcaption>
+</figure>
+
+
 ## 4. Composite functions (1.02v, Stage 2)
 
 fg(x) means f(g(x)): apply g first, then f. f²(x) means f(f(x)). In general fg ≠ gf.
@@ -146,6 +173,12 @@ f²(x) = 3 / (3/(x − 1) − 1)
 ```
 
 The domain excludes x = 1 (not in the domain of f) and x = 4 (where f(x) = 1, which f cannot accept).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--03-fg-not-gf.webp" width="900" height="890" alt="With f(x) = 3x - 5 and g(x) = x squared + 2, fg(x) = 3x squared + 1 and gf(x) = (3x - 5) squared + 2 are different curves. They meet only at x = (15 - root 69)/6, about 1.12, and x = (15 + root 69)/6, about 3.88." loading="lazy">
+  <figcaption>Composing in a different order gives a different function.</figcaption>
+</figure>
+
 
 ## 5. Inverse functions (1.02v, Stage 2)
 
@@ -172,6 +205,12 @@ Without a restricted domain, x² + 10x + 7 on ℝ is many-one and has no inverse
 
 **Example 12.** Where do y = f(x) and y = f⁻¹(x) from Example 11 meet? Since f is increasing, they meet on y = x. Solve f(x) = x: x² + 9x + 7 = 0, so x = (−9 ± √53)/2. Only (−9 + √53)/2 ≈ −0.860 satisfies x ≥ −5, so the curves meet at one point, (−0.860, −0.860).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--05-inverse-reflection.webp" width="900" height="980" alt="The curve f(x) = 3 - root(x + 1) for x at least -1 and its inverse f^-1(x) = (3 - x) squared - 1 for x at most 3 are mirror images in the line y = x. Point (8, 0) on f becomes (0, 8) on the inverse and the end point (-1, 3) becomes (3, -1). The domain of the inverse is the range of f and vice versa." loading="lazy">
+  <figcaption>The graph of f^-1 is the graph of f reflected in y = x, with domain and range swapped.</figcaption>
+</figure>
+
+
 ## 6. Single transformations (1.02w, Stage 1)
 
 | Equation | Transformation of y = f(x) |
@@ -186,6 +225,12 @@ Changes inside the brackets act on x and "do the opposite" of what you expect. C
 **Example 13.** y = f(x) has a minimum at (2, −3) and crosses the y-axis at (0, 1). Write down the image of these points under (a) y = f(x − 4), (b) y = f(x/2), (c) y = −2f(x).
 
 (a) Translate 4 right: (6, −3) and (4, 1). (b) Stretch, scale factor 2, from the y-axis: (4, −3) and (0, 1). (c) Multiply y-coordinates by −2: (2, 6) and (0, −2). The minimum becomes a maximum.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--08-modulus-transformations.webp" width="900" height="940" alt="The dashed curve is f(x) = x squared - 2x - 3. Top: y = |f(x)| reflects the part below the x-axis upwards, giving a maximum (1, 4) between the roots -1 and 3. Bottom: y = f(|x|) copies the right-hand part onto the left by reflection in the y-axis, giving a symmetric W shape with roots plus and minus 3." loading="lazy">
+  <figcaption>|f(x)| flips negative parts up; f(|x|) mirrors the right-hand half into the left.</figcaption>
+</figure>
+
 
 ## 7. Combinations of transformations (1.02x, Stage 2)
 

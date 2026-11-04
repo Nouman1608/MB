@@ -74,6 +74,12 @@ to see where to focus.
 - **Separation**: fractional distillation (ethanol boils at about 78 °C), then the ethanol can be used as a
   biofuel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--02-fermentation.webp" width="900" height="1020" alt="Glucose with yeast in a flask at about 35 degrees C with air excluded, CO2 bubbling out through an airlock, then fractional distillation where ethanol (78 degrees C) leaves the top and water stays behind. The equation C6H12O6 -&gt; 2C2H5OH + 2CO2 is shown." loading="lazy">
+  <figcaption>Fermentation needs yeast, about 35 degrees C and no air, followed by fractional distillation.</figcaption>
+</figure>
+
+
 ### Hydration mechanism in three arrows (plus loss of H⁺)
 
 ```
@@ -89,6 +95,12 @@ alcohol. Carbocation stability is explained in [alkenes](/resources/aqa-a-level-
 butan-2-ol. Minor product (via the primary carbocation): butan-1-ol. But-2-ene is symmetrical, so it gives
 butan-2-ol only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--01-hydration-mechanism.webp" width="900" height="1290" alt="Three-step curly-arrow mechanism for making ethanol from ethene and an acid catalyst: C=C attacks H+, a water lone pair attacks the carbocation, the O-H bond breaks releasing H+. Below, propene gives the secondary carbocation and propan-2-ol as the major product. AQA mechanism; other boards state the reaction without needing the mechanism." loading="lazy">
+  <figcaption>Electrophilic addition of water to an alkene: the first arrow starts at the C=C bond, not at H+.</figcaption>
+</figure>
+
+
 ### Carbon-neutral equations: method in steps
 
 1. Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (6 CO₂ in).
@@ -97,10 +109,22 @@ butan-2-ol only.
 4. Total 6 in and 6 out, so "carbon neutral" by these equations alone.
 5. Not valid: fossil fuels burned for farm machinery, fertiliser production, distillation and transport.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--03-carbon-neutral.webp" width="900" height="1065" alt="Per glucose, photosynthesis absorbs 6 CO2, fermentation releases 2 and burning the ethanol releases 4, so 6 in equals 6 out on paper. Dashed blocks show the extra fossil-fuel CO2 from farming, fertiliser, distillation and transport that makes the claim invalid." loading="lazy">
+  <figcaption>On paper the carbon dioxide balances, but fossil fuel use means bioethanol is not truly carbon-neutral.</figcaption>
+</figure>
+
+
 ### Biofuel decisions: points to weigh
 
 - Renewable; saves crude oil; can cut net CO₂.
 - Land diverted from food (food prices: ethical); deforestation and habitat loss; fertiliser run-off; water use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--07-halogenation.webp" width="900" height="890" alt="Three routes from an alcohol R-OH: PCl5 (solid, room temperature, steamy HCl fumes) to R-Cl, KBr with 50% sulfuric acid warmed (OCR: a bromide with sulfuric acid) to R-Br, and red phosphorus with iodine to R-I. Edexcel and OCR content; not in the AQA or OxfordAQA lessons." loading="lazy">
+  <figcaption>Edexcel and OCR: the OH group can be replaced by Cl, Br or I using different reagents.</figcaption>
+</figure>
+
 
 ## 3.3.5.2 Oxidation of alcohols
 
@@ -140,6 +164,17 @@ orange → green (Cr₂O₇²⁻ → Cr³⁺).
 
 Warm in a water bath. The aldehyde is oxidised: RCHO + [O] → RCOOH.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--04-alcohol-classes.webp" width="900" height="1180" alt="Butan-1-ol, butan-2-ol and 2-methylpropan-2-ol are drawn as displayed formulae with the C-OH carbon and its H highlighted (2, 1 and 0 H). Primary gives butanoic acid and secondary gives butanone, orange to green; tertiary gives no reaction and stays orange. Matches worked example 4." loading="lazy">
+  <figcaption>Oxidation needs an H on the C-OH carbon, so tertiary alcohols resist it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--06-carbonyl-tests.webp" width="900" height="1085" alt="Tubes in a water bath: with Tollens' reagent the aldehyde gives a silver mirror and the ketone no change; with Fehling's (or Benedict's) solution the aldehyde gives a red precipitate and the ketone stays blue. Board tags: Tollens' in AQA and OxfordAQA, Benedict's in Edexcel." loading="lazy">
+  <figcaption>Aldehydes are oxidised by mild oxidants and ketones are not, giving different observations.</figcaption>
+</figure>
+
+
 ## 3.3.5.3 Elimination
 
 **Reagent and conditions:** heat with concentrated sulfuric acid or concentrated phosphoric acid.
@@ -155,6 +190,17 @@ a different position of C=C; then check each alkene for E/Z isomers.
   carries two methyl groups).
 
 **Use:** ethanol from fermentation → ethene → poly(ethene), making addition polymers without crude oil.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--08-elimination-mechanism.webp" width="900" height="1100" alt="Three-step mechanism: a lone pair on O takes H+, the C-O bond breaks losing water to give a carbocation, then a C-H bond forms the C=C and H+ is released. Mechanism is required by AQA and OxfordAQA; OCR says mechanism not required." loading="lazy">
+  <figcaption>Acid-catalysed elimination converts an alcohol to an alkene; the acid is regenerated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--09-elimination-products.webp" width="900" height="940" alt="Skeletal formulae. Butan-2-ol loses H from C1 to give but-1-ene, or from C3 to give but-2-ene, which exists as E and Z isomers: three alkenes in total." loading="lazy">
+  <figcaption>Losing H from either neighbouring carbon gives different alkenes, including E and Z isomers.</figcaption>
+</figure>
+
 
 ## Required practical 5: distillation of a product
 
@@ -198,6 +244,12 @@ condenser; never heat a sealed system; use an electric heater, not a flame, with
 10. (E)-pent-2-ene and (Z)-pent-2-ene.
 11. 0.0600 mol in, 3.28 ÷ 82.0 = 0.0400 mol out; 0.0400 ÷ 0.0600 × 100 = **66.7 %**.
 12. Fossil fuels are burned to power farm machinery, make fertiliser, distil the ethanol or transport it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

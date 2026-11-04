@@ -64,6 +64,12 @@ set of definitions to know cold rather than a topic requiring extended
 technique practice -- the payoff comes in being able to frame later,
 more technical answers in the right accounting context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, first teaching September
@@ -79,6 +85,12 @@ Accounting divides into two branches serving different audiences.
 **Management accounting** produces information for **internal** decision-makers. It is forward-looking, as detailed as managers need, produced as often as required, and subject to no external format rules. Budgets, costing and investment appraisal belong here.
 
 The distinction matters because it explains why the same business produces different figures for different purposes without inconsistency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--01-two-branches.webp" width="900" height="960" alt="Two cards compare financial accounting (looks back, read by outside users such as owners, lenders and tax authorities, fixed format set by law; income statement and statement of financial position) with management accounting (looks forward, read by managers, any format at any time; budgets, costing, investment appraisal)." loading="lazy">
+  <figcaption>Financial accounting reports the past to outsiders; management accounting informs managers about the future.</figcaption>
+</figure>
+
 
 ## Users and their needs
 
@@ -101,6 +113,12 @@ The distinction matters because it explains why the same business produces diffe
 
 Conflicts follow directly: shareholders may want dividends now while lenders prefer profit retained to strengthen the statement of financial position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
+
 ## Accounting concepts
 
 These underpin every adjustment and are examined as reasoning, not recall.
@@ -114,6 +132,12 @@ These underpin every adjustment and are examined as reasoning, not recall.
 - **Realisation** — revenue is recognised when goods or services pass to the customer, not when the order is placed.
 
 Prudence and accruals can pull in opposite directions, and knowing which prevails is a common higher-mark question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
+  <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
+</figure>
+
 
 ## Ethics and professional judgement
 
@@ -132,6 +156,12 @@ Statement of financial position: prepayment of £9 000 as a CURRENT ASSET
 ```
 
 Charging the full £12,000 would understate profit and breach the matching concept.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

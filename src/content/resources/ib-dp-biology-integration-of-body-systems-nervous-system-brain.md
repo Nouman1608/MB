@@ -51,6 +51,12 @@ Multicellular animals are built as a hierarchy of subsystems:
 
 Each level is itself a system, and each is integrated with the others. Integration gives rise to **emergent properties**: features of the whole that no single part has. A single heart muscle cell cannot pump blood, and a heart alone cannot keep a person alive. A sprinting animal that spots, chases and catches prey shows emergent behaviour that depends on sensing, deciding, moving, breathing and circulating all being coordinated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-integration-of-body-systems-nervous-system-brain--01-hierarchy.webp" width="900" height="1050" alt="A ladder of five levels: a neuron (cell), nervous tissue, the spinal cord (organ), the nervous system (body system) and the whole animal (organism). Gold arrows lead down the levels. A box says that spotting, chasing and catching prey is an emergent property no single part has." loading="lazy">
+  <figcaption>Each level of organisation is itself a system, and integrating them gives emergent properties.</figcaption>
+</figure>
+
+
 ## C3.1.3: nervous signals, hormonal signals and transport
 
 Two signalling systems link organs. Blood links them physically.
@@ -67,11 +73,23 @@ Hormones act only on cells with receptors for them, so a hormone travelling ever
 
 The **blood system** also moves materials and energy. Examples: oxygen from the lungs to working muscle; carbon dioxide the other way; glucose from the small intestine and liver to the brain; urea from the liver to the kidneys; hormones from glands to target cells; and heat from deep organs to the skin. Moving glucose is moving chemical energy. If circulation stops, organs that depend on each other are cut off.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-integration-of-body-systems-nervous-system-brain--02-nervous-vs-hormonal.webp" width="900" height="960" alt="Top: a neuron runs from the CNS to a muscle, giving a fast, short-lived signal along a wired route to one target. Bottom: a gland releases hormone into the blood, which reaches every cell, but only the cell with the matching receptor responds. Hormonal signalling is slower and longer lasting." loading="lazy">
+  <figcaption>Nervous signals travel along wired routes; hormones travel in blood and act only where receptors exist.</figcaption>
+</figure>
+
+
 ## C3.1.4: the brain as an integration organ
 
 The **brain** receives input from many receptors at once and combines it. Catching a thrown ball needs sight (position, speed), hearing, signals from muscles and joints, and memory of earlier catches. The cerebral hemispheres process these together and send a single coordinated output.
 
 The brain also supports **learning and memory**. Experience changes the connections between neurons, so some pathways are used more easily next time. You are not required to know slow-acting neurotransmitters or other fine detail. You need the idea that the brain integrates several inputs and stores information to improve later responses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-integration-of-body-systems-nervous-system-brain--03-brain-cerebellum.webp" width="900" height="830" alt="Side view of the brain with the front on the left. Inputs from sight, sound and muscle signals arrow into the cerebral hemispheres, which provide memory and awareness. The small cerebellum at the back below the hemispheres gives smooth, balanced movement. The spinal cord carries one coordinated output to muscles." loading="lazy">
+  <figcaption>The cerebral hemispheres combine several inputs; the cerebellum smooths and balances movement.</figcaption>
+</figure>
+
 
 ## C3.1.5: the spinal cord and unconscious processes
 
@@ -84,6 +102,12 @@ A transverse section of the cord shows:
 - A **dorsal root** on each side, bringing sensory fibres in. A swelling on it, the dorsal root ganglion, holds the sensory neuron cell bodies.
 - A **ventral root** on each side, carrying motor fibres out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-integration-of-body-systems-nervous-system-brain--05-spinal-cord-section.webp" width="900" height="920" alt="Cross-section with back at the top. Outer white matter of myelinated axons surrounds butterfly-shaped grey matter holding cell bodies, interneurons and synapses. Each dorsal root brings sensory fibres in and has a ganglion holding sensory cell bodies; each ventral root carries motor fibres out of the front." loading="lazy">
+  <figcaption>Grey matter in the centre, white matter outside; sensory fibres enter dorsally, motor fibres leave ventrally.</figcaption>
+</figure>
+
+
 ## C3.1.6 and C3.1.7: input and output
 
 **Sensory neurons** carry impulses from receptor cells (such as photoreceptors, thermoreceptors, mechanoreceptors and pain receptors) to the central nervous system. Some inputs reach the spinal cord only. Others are passed up the cord to the cerebral hemispheres, where they are experienced consciously.
@@ -91,6 +115,12 @@ A transverse section of the cord shows:
 **Motor neurons** carry impulses from the central nervous system to effectors. For voluntary movement, neurons from the motor area of the cerebral hemisphere pass down the spinal cord. They link, via synapses, to motor neurons that leave through the ventral root and run in nerves to skeletal muscle. At the neuromuscular junction, the neuron stimulates the muscle fibre to contract. Muscles can only be stimulated to contract, so relaxing and movement in the other direction depend on an antagonistic muscle contracting.
 
 The left hemisphere mainly controls the right side of the body, and the right hemisphere the left side.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-integration-of-body-systems-nervous-system-brain--04-voluntary-pathway.webp" width="900" height="990" alt="Seen from behind. A neuron from the motor area of the left hemisphere crosses to the right, runs down the spinal cord, synapses with a motor neuron that leaves the cord and meets the right muscle at a neuromuscular junction. The right hemisphere does the same for the left side. Muscles are only stimulated to contract." loading="lazy">
+  <figcaption>The left hemisphere controls the right side of the body and the right hemisphere the left.</figcaption>
+</figure>
+
 
 ## C3.1.8: nerves
 
@@ -108,6 +138,12 @@ A micrograph of a transverse nerve section has a scale bar 25 mm long that repre
 1. Magnification = image length ÷ actual length = 25 mm ÷ 0.100 mm = **×250**.
 2. Actual diameter = 70 mm ÷ 250 = 0.28 mm = **280 µm**.
 3. Myelinated percentage = 48 ÷ 80 × 100 = **60.0%**, so 40.0% are unmyelinated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-integration-of-body-systems-nervous-system-brain--08-nerve-section.webp" width="900" height="990" alt="Schematic transverse section of a nerve inside a protective sheath, with large myelinated fibres (a ring around an axon) and smaller unmyelinated fibres. A dashed circle holds 80 sampled fibres, 48 myelinated. The scale bar 25 mm = 100 micrometres gives x250; 70 mm across gives 280 micrometres; 48/80 is 60.0% myelinated." loading="lazy">
+  <figcaption>Read magnification from the scale bar, then actual size and the percentage of myelinated fibres.</figcaption>
+</figure>
+
 
 ## C3.1.9: the pain reflex arc
 
@@ -135,6 +171,17 @@ Data supplied: the sensory neuron is 0.70 m long and conducts at 56 m/s. The mot
 If the same 0.70 m were an unmyelinated fibre at 1.4 m/s, the time would be 0.70 ÷ 1.4 = 0.50 s. That is 40 times slower than 12.5 ms, which shows why myelinated fibres suit fast reflexes.
 
 A **voluntary** response to the same stimulus, such as deliberately pressing a button, might take 0.200 s. Against a 0.026 s reflex, 0.200 ÷ 0.026 ≈ 7.7, so the reflex is about 7.7 times faster. The voluntary route passes through the cerebral hemispheres with extra synapses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-integration-of-body-systems-nervous-system-brain--06-pain-reflex-arc.webp" width="900" height="1270" alt="Heat on skin stimulates pain receptors. A sensory neuron passes the dorsal root ganglion into grey matter, synapses with one interneuron, which synapses with a motor neuron leaving by the ventral root to a skeletal muscle that contracts. A dashed branch to the cerebral hemispheres lets the pain be felt afterwards." loading="lazy">
+  <figcaption>The reflex needs only receptor, sensory neuron, one interneuron, motor neuron and effector, so the brain is not needed to start it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-integration-of-body-systems-nervous-system-brain--07-reflex-timing.webp" width="900" height="1050" alt="The 26.0 ms reflex splits into 12.5 ms sensory conduction, 1.0 ms for two synapses and 12.5 ms motor conduction. On one scale, voluntary response at 200 ms is about 7.7 times slower than the reflex, and a 0.70 m unmyelinated fibre at 1.4 m/s takes 500 ms, 40 times slower than the 12.5 ms myelinated fibre." loading="lazy">
+  <figcaption>Short pathways and myelinated fibres make reflexes fast.</figcaption>
+</figure>
+
 
 ## C3.1.10: the cerebellum
 

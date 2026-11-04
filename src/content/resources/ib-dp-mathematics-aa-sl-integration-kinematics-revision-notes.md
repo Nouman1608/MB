@@ -124,6 +124,12 @@ a  --integrate + C-->  v  --integrate + C-->  s
 
 Use v(0) or s(0) (or another known value) to fix each constant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--04-area-split-at-roots.webp" width="900" height="790" alt="The parabola y = x² − 4x + 3 has roots at x = 1 and 3. The part from 0 to 1 is above the axis with integral 4/3, and from 1 to 3 it is below with integral −4/3. The area is 4/3 + 4/3 = 8/3, while the single integral from 0 to 3 is 0." loading="lazy">
+  <figcaption>Split at each root and add the sizes to get area; a single integral gives the signed value.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 - ∫ (2x − 5/x²) dx = x² + 5/x + C, since ∫ −5x⁻² dx = 5x⁻¹.
@@ -150,6 +156,22 @@ Distance     = 20/3 + 2/3 = 22/3 m
 
 The particle moves backwards until t = 2, then forwards. The negative displacement means it ends 6 m on the negative side of its start.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--01-boundary-condition.webp" width="900" height="770" alt="Three vertical shifts of y = 2x³ − 2x² + x + c are drawn, for c = 3, −5 and −13. Only c = −5 passes through (2, 5), since 2x³ − 2x² + x equals 10 at x = 2. This is the lesson's boundary-condition example." loading="lazy">
+  <figcaption>A known point on the curve picks out the one value of c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--02-linear-composite.webp" width="900" height="710" alt="The copper curve sin(3x − 1) has gradient 3 at its root x = 1/3, while one third of it has gradient 1 there. Differentiating (1/3)sin(3x − 1) gives cos(3x − 1), so integrating cos(3x − 1) needs the factor 1/3." loading="lazy">
+  <figcaption>Integrating a function of ax + b divides by a, because differentiating multiplies by a.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--06-displacement-distance.webp" width="900" height="770" alt="The velocity graph v = t² − 6t + 8 is above the axis from 0 to 2 (area 20/3), below from 2 to 4 (signed area −4/3) and above from 4 to 5 (area 4/3). Displacement is the signed sum, 20/3 m. Distance adds the sizes, 28/3 m. The particle turns at t = 2 and t = 4." loading="lazy">
+  <figcaption>Displacement is the signed area under v; distance is the area under |v|.</figcaption>
+</figure>
+
+
 ## Paper 1 or Paper 2?
 
 The guide splits this unit between hand methods and technology.
@@ -166,6 +188,12 @@ The guide splits this unit between hand methods and technology.
 4. Evaluate with the stored values.
 5. Round the final answer only, to 3 s.f., with units.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--03-gdc-area.webp" width="900" height="768" alt="The curve y = √(x³ + 1) is above the x-axis from 0 to 2. The shaded area equals the definite integral from 0 to 2, 3.2413… on a GDC, or 3.24 to 3 s.f., and the integral with limits must be written." loading="lazy">
+  <figcaption>Write the definite integral with its limits, then let the GDC evaluate it.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -221,6 +249,12 @@ The guide splits this unit between hand methods and technology.
 - Total distance given as the displacement when the particle turns round.
 - Intersection points rounded to 3 s.f. and then used as limits, so the final area is wrong in the third figure.
 - Missing units (m, m s⁻¹, m s⁻²) in a context question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--05-area-between-curves.webp" width="900" height="778" alt="The parabolas y = 5 − x² and y = x² − 3 meet at (−2, 1) and (2, 1), with the first on top between them. Strips have height 8 − 2x², for example 7.5 at x = 0.5, and the integral from −2 to 2 is 64/3." loading="lazy">
+  <figcaption>Area between curves is the integral of top minus bottom between the intersection points.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -32,6 +32,17 @@ These notes condense statements P6.1h to P6.1l of the OCR *GCSE (9-1) Gateway Sc
 - Excitation keeps the electron in the atom. Ionisation removes it.
 - Fluorescence demonstration: ultraviolet from a black light is absorbed by tonic water, which then emits visible light.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--05-excite-vs-ionise.webp" width="900" height="1040" alt="Energy level ladders show an electron rising after absorbing radiation, then falling back and emitting radiation, with a bigger drop giving higher frequency. An atom diagram shows an outer electron removed altogether, leaving the atom positive: an ion." loading="lazy">
+  <figcaption>Excitation moves an electron up a level; ionisation removes it from the atom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--05-tonic-fluorescence.webp" width="900" height="910" alt="Ultraviolet from a black light enters tonic water and visible light comes out. An energy-level sketch shows an electron absorbing UV to rise, then dropping a smaller distance and emitting visible light." loading="lazy">
+  <figcaption>Electrons absorb UV, lose energy and emit visible light, so tonic water glows.</figcaption>
+</figure>
+
+
 ## Radiation from atoms and nuclei (P6.1i)
 
 | Where the change happens | Radiation |
@@ -43,6 +54,12 @@ These notes condense statements P6.1h to P6.1l of the OCR *GCSE (9-1) Gateway Sc
 - Changes in atoms and nuclei can both generate and absorb radiation.
 - The range is wide. Gamma rays are part of the electromagnetic spectrum.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--04-em-sources.webp" width="900" height="840" alt="A strip shows infrared, visible, ultraviolet, X-rays and gamma rays in order of increasing frequency. Outer electron changes sit under infrared to ultraviolet, inner electron changes under X-rays and nuclear changes under gamma rays." loading="lazy">
+  <figcaption>Atoms and nuclei both produce radiation across the electromagnetic spectrum.</figcaption>
+</figure>
+
+
 ## Half-life and randomness (P6.1j)
 
 - Decay is **random**: you cannot say when one nucleus will decay, and outside conditions do not change this.
@@ -50,6 +67,27 @@ These notes condense statements P6.1h to P6.1l of the OCR *GCSE (9-1) Gateway Sc
 - **Half-life:** time for the number of undecayed nuclei, or the activity, to halve.
 - Each half-life halves what is left. It does not subtract a fixed amount.
 - Dice or coins can model it: remove the coins that land tails after each throw. Results scatter around the halving pattern, more so with small numbers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--06-coin-decay-model.webp" width="900" height="1030" alt="A seeded computer simulation of the 64-coin model: filled circles are coins still undecayed, hollow circles are removed. The expected counts are 64, 32, 16, 8 and 4, but the simulated counts wobble around them. Which coin goes is random, the overall pattern is steady." loading="lazy">
+  <figcaption>Random decay of single nuclei still gives a steady halving pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--08-background-subtraction.webp" width="900" height="740" alt="Detector reading 372 per minute is 352 from the source plus 20 background. After 9 hours (3 half-lives of 3 h) only the source count is divided by 8 to 44, so the reading is 64 per minute. Dividing 372 by 8 gives 46.5 and is wrong." loading="lazy">
+  <figcaption>Only the source part of a count rate halves each half-life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--03-decay-table-plot.webp" width="900" height="950" alt="Activity points from the lesson table (640, 453, 320, 226, 160, 113 Bq at 0 to 30 min) lie on a decay curve. Dashed guides show 640 to 320 and 320 to 160 each take 12 min." loading="lazy">
+  <figcaption>Two different halvings take the same time, so the half-life is 12 min.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--05-half-life-curve.webp" width="900" height="810" alt="A decay curve of count rate against time for half-life 8.0 days. The rate falls 1200, 600, 300, 150, 75 at 0, 8, 16, 24 and 32 days. After 24 days (three half-lives) it is 150 counts/s." loading="lazy">
+  <figcaption>The count rate halves after each half-life.</figcaption>
+</figure>
+
 
 ## Net decline after whole half-lives (P6.1k, Higher Tier only)
 
@@ -73,6 +111,17 @@ These notes condense statements P6.1h to P6.1l of the OCR *GCSE (9-1) Gateway Sc
 
 **Reading half-life from a graph or table.** On a decay curve the activity falls steeply, then more slowly, and never reaches zero. Pick a value, find the time at which it has fallen to half, and repeat from a different starting point. If the intervals agree, that is the half-life.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--07-decline-ratios.webp" width="900" height="920" alt="Bars for 0 to 5 half-lives show the remaining fraction 1, 1/2, 1/4, 1/8, 1/16, 1/32 and the original to remaining ratios 1:1 to 32:1. Worked example: 1280 Bq with a 7.5 h half-life gives 80 Bq after 30 h, ratio 16 : 1." loading="lazy">
+  <figcaption>After n half-lives the amount left is 1 divided by 2 to the n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--06-count-nuclei.webp" width="900" height="890" alt="Stacked bars show 3.2 million nuclei at 0 to 100 days (0 to 5 half-lives of 20 days). The undecayed part halves each time to 0.1 million, leaving 1.0 x 10^5 undecayed and 3.1 x 10^6 decayed." loading="lazy">
+  <figcaption>Each half-life halves the undecayed nuclei, so 1.0 x 10^5 remain after 100 days.</figcaption>
+</figure>
+
+
 ## Penetration (P6.1l)
 
 | Radiation | Stopped or reduced by | Ionising ability |
@@ -84,6 +133,17 @@ These notes condense statements P6.1h to P6.1l of the OCR *GCSE (9-1) Gateway Sc
 - Penetration increases from alpha to beta to gamma.
 - To test a source: record the background, then take readings with no absorber, paper, aluminium of increasing thickness, and lead. Subtract background from each.
 - Gamma is reduced but never fully stopped.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--09-absorber-data.webp" width="900" height="940" alt="A bar chart of background-corrected count rates: no absorber 385, paper 383, 2 mm aluminium 165, 6 mm aluminium 3 and 20 mm lead 1 counts per minute. Paper does not reduce the count so no alpha, aluminium stops it so beta, lead leaves nothing so no gamma: beta only." loading="lazy">
+  <figcaption>Absorber results identify the radiation a source emits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
 
 ## More worked reminders
 

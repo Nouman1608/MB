@@ -84,11 +84,33 @@ OxfordAQA International AS & A-Level Physics specification PDF —
 
 > **Aside (not examined):** dimensional analysis is not required by this specification and will not be examined. For background only: checking homogeneity means confirming both sides of an equation reduce to the same base units. Even a homogeneous equation may still be wrong by a **dimensionless numerical constant**, such as a missing factor of 2 or π, so homogeneity shows an equation *could* be right, not that it definitely is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--01-units-from-base.webp" width="900" height="890" alt="Six base unit boxes (kg, m, s, A, K, mol) above a chain of derived units. The newton, kg m s^-2, times metre gives the joule, divided by second gives the watt, and divided by ampere gives the volt (OCR). Newton divided by metre squared gives the pascal. Cambridge 9702 does not use the mole." loading="lazy">
+  <figcaption>Each derived unit is a product or quotient of base units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--02-prefix-powers.webp" width="900" height="956" alt="Bars show prefixes from tera 10^12 down to femto 10^-15. Deci is used by Cambridge and OCR only; femto by AQA and OxfordAQA only. Examples: 250 mA = 0.25 A and 5.6 MeV = 5.6 x 10^6 eV." loading="lazy">
+  <figcaption>Replace the prefix with its power of ten before substituting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--03-squared-units.webp" width="900" height="890" alt="A 1 cm square divided into 100 one-millimetre squares shows 1 cm^2 = 100 mm^2. Then 1 mm^2 = 10^-6 m^2, 3.5 mm^2 = 3.5 x 10^-6 m^2, 1 cm^3 = 10^-6 m^3 and 7.8 g cm^-3 = 7800 kg m^-3." loading="lazy">
+  <figcaption>The prefix is raised to the same power as the unit.</figcaption>
+</figure>
+
+
 ## Random and systematic error
 
 **Random errors** scatter readings unpredictably about the true value. They are reduced by repeating measurements and taking a mean.
 
 **Systematic errors** shift every reading in the same direction by the same amount or proportion — a balance not zeroed, a ruler with a worn end, a parallax error made consistently. Repeating does not help; only correcting the instrument or method does. A **zero error** is the most common systematic error and must be subtracted from every reading.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
 
 ## Precision and accuracy
 
@@ -110,6 +132,22 @@ Combining uncertainties:
 - **Adding or subtracting** quantities: add the *absolute* uncertainties.
 - **Multiplying or dividing**: add the *percentage* uncertainties.
 - **Raising to a power n**: multiply the percentage uncertainty by n.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--06-combining-uncertainties.webp" width="900" height="1120" alt="Falling ball: h = 1.200 +/- 0.002 m, t = 0.495 +/- 0.005 s. A bar shows 0.17 percent from h and 1.01 percent from t counted twice, 2.19 percent total, so g = 9.8 +/- 0.2 m s^-2." loading="lazy">
+  <figcaption>Percentage uncertainties add for products and quotients; a power multiplies the percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--07-error-bars-gradient.webp" width="900" height="1030" alt="Extension against force with +/-2 mm error bars. Best line gradient 12.0, steepest 13.0, shallowest 11.0 mm per N, so gradient = 12.0 +/- 1.0 mm per N." loading="lazy">
+  <figcaption>Half the difference between the steepest and shallowest gradients.</figcaption>
+</figure>
+
 
 ## Uncertainty on a graph
 
@@ -140,6 +178,13 @@ The diameter dominates the uncertainty: the length is known to about 0.1%, so im
 Order-of-magnitude estimates are directly examinable. The method: state a **reasonable assumption** explicitly, use **round numbers**, and give the final answer to **one significant figure**. The marks are awarded for a **reasoned method**, not for numerical precision — a plausible but unstated assumption earns nothing, so the assumption itself must appear in the written working, not just the arithmetic that follows from it.
 
 **Worked estimate: mass of air in a classroom.** Assume a room is about 8 m long, 6 m wide and 3 m high, and take air density as roughly 1 kg/m³. Its volume is about 8 × 6 × 3 = 144 m³, which rounds to 1 × 10² m³. Therefore its air mass is approximately (1 kg/m³)(1 × 10² m³) = **1 × 10² kg**. The dimensions and density are estimates, so reporting 144 kg would imply unjustified precision.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+
+
 
 ## Common mistakes
 

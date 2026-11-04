@@ -53,6 +53,12 @@ Full explanations and longer worked examples are in the [study guide](/resources
 
 **RDS not the first step.** If a fast step 1 makes an intermediate that is then used in a slow step 2, all the particles that went into making the intermediate show up in the rate equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--02-testing-mechanisms.webp" width="900" height="1120" alt="Two mechanisms for 2NO + O2 drawn with atoms. Mechanism II (fast NO + NO to N2O2, slow N2O2 + O2 to 2NO2) predicts rate = k[NO]^2[O2] and matches the experiment. Mechanism III (slow NO + O2 to NO3) predicts k[NO][O2] and is rejected." loading="lazy">
+  <figcaption>The slow step, with any intermediate replaced by what made it, predicts the rate equation to compare with experiment.</figcaption>
+</figure>
+
+
 ## Energy profiles for multistep reactions (2.2.7)
 
 - One hump per elementary step.
@@ -60,6 +66,12 @@ Full explanations and longer worked examples are in the [study guide](/resources
 - The RDS is the step whose transition state is **highest above the reactants**.
 - Build a profile from data level by level: transition state = previous level + Ea of that step; next level = previous level + ΔH of that step.
 - Overall ΔH = products level − reactants level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--01-two-step-profile.webp" width="900" height="900" alt="A two-step energy profile with reactants at 0 kJ per mole, transition states at 85 and 50, an intermediate trough at +30 and products at -60. Transition states are hump tops and the intermediate is the trough between them. The first hump is taller, so step 1 is the rate-determining step." loading="lazy">
+  <figcaption>Transition states sit at the top of humps; the intermediate sits in the trough; the tallest hump is the RDS.</figcaption>
+</figure>
+
 
 ## Molecularity (2.2.8)
 
@@ -70,6 +82,12 @@ Full explanations and longer worked examples are in the [study guide](/resources
 | Termolecular | 3 | Rare: three-body collisions with enough energy and right geometry are unlikely |
 
 Molecularity applies to an elementary step. Order applies to the rate equation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--03-molecularity.webp" width="900" height="1050" alt="Three rows: one particle splitting (RX to R+ and X-), two particles colliding to form AB, and three particles meeting at once, which is rare. Molecularity belongs to one step, whereas order belongs to the whole rate equation." loading="lazy">
+  <figcaption>Molecularity counts the particles in a single step; termolecular steps are rare.</figcaption>
+</figure>
+
 
 ## Rate equations and orders (2.2.9 and 2.2.10)
 
@@ -101,6 +119,22 @@ Molecularity applies to an elementary step. Order applies to the rate equation.
 
 To go from a concentration–time graph to rate data, draw tangents at several concentrations; each gradient is the rate there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--04-initial-rates.webp" width="900" height="960" alt="Two bar-chart panels. Tripling [Cl2] with [NO] fixed triples the rate (first order). Raising [NO] by 2.5 times with [Cl2] fixed raises the rate by 6.25 times, which is 2.5 squared (second order). So rate = k[NO]^2[Cl2]." loading="lazy">
+  <figcaption>Compare the factor in concentration with the factor in rate to find each order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--05-order-graphs.webp" width="900" height="1000" alt="Six graphs. Concentration against time: straight line (zero), constant half-life curve (first), steep-then-levelling curve (second). Rate against concentration: horizontal line, straight line through the origin, upward parabola." loading="lazy">
+  <figcaption>Each order has a characteristic concentration-time and rate-concentration shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--06-order-from-tangents.webp" width="900" height="1110" alt="A concentration-time curve with three numbered tangents and the resulting rate against concentration plot. Halving the concentration from 0.080 to 0.040 divides the rate by 4, so the reaction is second order with k = 0.050 mol-1 dm3 s-1." loading="lazy">
+  <figcaption>Tangent gradients on a concentration-time curve give the rates that show the order.</figcaption>
+</figure>
+
+
 ## Units of k (2.2.11)
 
 units of k = mol dm⁻³ s⁻¹ ÷ (mol dm⁻³)^(overall order)
@@ -116,6 +150,12 @@ units of k = mol dm⁻³ s⁻¹ ÷ (mol dm⁻³)^(overall order)
 - k **does** change with temperature (and is larger with a catalyst, which lowers Ea).
 
 **Halogenoalkanes link (Reactivity 3.4).** Primary + OH⁻: rate = k[RX][OH⁻], k in mol⁻¹ dm³ s⁻¹ (SN2, one step). Tertiary + OH⁻: rate = k[RX], k in s⁻¹ (SN1, carbocation intermediate).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--07-units-of-k.webp" width="900" height="990" alt="Four rows link overall order to units of k: zero order mol dm-3 s-1, first s-1, second mol-1 dm3 s-1, third mol-2 dm6 s-1. SN2 of a primary halogenoalkane has k in mol-1 dm3 s-1; SN1 of a tertiary one has k in s-1." loading="lazy">
+  <figcaption>Units of k follow from dividing mol dm-3 s-1 by concentration raised to the overall order.</figcaption>
+</figure>
+
 
 ## Arrhenius equation (2.2.12 and 2.2.13)
 
@@ -144,6 +184,17 @@ According to the guide, the exponential and straight-line forms both appear in t
 - Higher T gives larger k, and the rise is roughly exponential.
 - Larger Ea gives a steeper line, so k is more sensitive to temperature.
 - A reflects collision frequency and orientation; e^(−Ea/RT) is the fraction of collisions with at least Ea.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--08-arrhenius-gradient.webp" width="900" height="990" alt="A plot of ln k against 1/T with four points on a falling straight line from 300 K to 330 K and a gradient triangle with rise 2.625 and run -3.03e-4. The gradient is -8.66e3 K, equal to -Ea/R, so Ea = 72.0 kJ per mole." loading="lazy">
+  <figcaption>The gradient of ln k against 1/T is -Ea/R.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius--09-arrhenius-intercept.webp" width="900" height="990" alt="The Arrhenius line extended back to 1/T = 0 meets the vertical axis at ln A = 23.89, so A is about 2.4e10 per second. The equation ln k = -(Ea/R)(1/T) + ln A is colour-coded to match the gradient and intercept." loading="lazy">
+  <figcaption>Extrapolating ln k against 1/T to 1/T = 0 gives ln A, the y-intercept.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

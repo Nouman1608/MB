@@ -59,12 +59,34 @@ Scalar multiples multiply both entries. Parallel vectors are scalar multiples: (
 * **Scalar multiple**: 3**a** is the same direction and three times the length. −**a** is the same length and opposite.
 * **Parallelogram**: drawing **a** and **b** from the same point and completing the shape gives **a** + **b** as one diagonal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--02-adding-vectors.webp" width="900" height="1020" alt="p = (5,-2) is drawn from the origin, then q = (-1,7) from where p ends. The single arrow from the origin to (4,5) is p + q, found by adding tops and adding bottoms." loading="lazy">
+  <figcaption>p + q means do p, then q; add the tops and add the bottoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--03-subtracting-vectors.webp" width="900" height="1026" alt="p = (5,-2), then -q = (1,-7) from the end of p. The arrow from the origin to (6,-9) is p - q, the same as subtracting entry by entry." loading="lazy">
+  <figcaption>p − q is p plus the opposite of q.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--07-vector-proof-midpoints.webp" width="900" height="945" alt="In triangle OAB, M and N are midpoints of OA and OB. MN = ON - OM = half of (b - a), and AB = b - a, so MN is half of AB and parallel to it. Shown with a = (8,2), b = (2,6)." loading="lazy">
+  <figcaption>Writing every vector in terms of a and b shows MN = half of AB, so the lines are parallel.</figcaption>
+</figure>
+
+
 ## Method: finding a vector in a diagram
 
 1. Choose a path from where you begin to where you finish, using only edges whose vectors you know.
 2. Write the vector for each step. Going with an arrow adds it. Going against it subtracts it.
 3. If a point splits a line in a ratio, turn the ratio into a fraction of that line first.
 4. Collect the **a** terms and the **b** terms and give one simplified answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry--05-find-scalars-m4-n1.webp" width="900" height="930" alt="On a grid, four copies of (2, 1) go from the origin to (8, 4) and one copy of (−1, 3) then reaches (7, 7), so m = 4 and n = 1, matching the simultaneous equations 2m − n = 7 and m + 3n = 7." loading="lazy">
+  <figcaption>Solving for the scalars is the same as finding how many steps of each vector reach the target.</figcaption>
+</figure>
+
 
 ## Method: ratios on a line
 
@@ -88,6 +110,12 @@ So →MN = −½**a** + ⅙**b**, or (**b** − 3**a**)/6.
 | Three points are collinear | Show →AB = k→BC (or →AB = k→AC) | "Parallel and share a point, so collinear" |
 | A point is a midpoint | Show its vector from O is half the sum of the end points' vectors from O | "So it is the midpoint" |
 | Two lines are equal in length | Show one vector is ±1 times the other | "So they are equal in length" |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry--02-parallelogram-midpoints.webp" width="900" height="940" alt="Parallelogram OABC with OA=a, OC=c. M midpoint of AB, N midpoint of BC. MN = half of (c-a), which is half of AC, so MN is parallel to AC. Drawn with a=(6,1), c=(2,5)." loading="lazy">
+  <figcaption>MN = ½AC, so it is parallel to AC and half as long.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -174,6 +202,22 @@ The two diagonals are →AC and →BD. Notice that →BD uses the route B to A t
 11. No. (−6, 10) would need a multiple of 3 on the top (−6 = −3 × 2), but −3 × (−5) = 15, not 10.
 12. →AX = ⅕→AB. The line is split into 1 + 4 = 5 equal parts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry--01-commutative-associative-parallelogram.webp" width="900" height="1180" alt="a=(2,-3) and b=(5,4). Going along a then b, or b then a, reaches (7,1), the two routes round a parallelogram. (a+b)+c and a+(b+c) both equal (6,7) for c=(-1,6). a-b=(-3,-7) but b-a=(3,7)." loading="lazy">
+  <figcaption>Adding in either order reaches the same point, but subtraction order reverses the vector.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
+  <figcaption>Finish minus start gives the column vector; the reverse vector has both signs changed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
+  <figcaption>Multiplying by k scales both entries and keeps the arrow parallel to r.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 * Reading →AB as the vector from B to A.
@@ -186,6 +230,17 @@ The two diagonals are →AC and →BD. Notice that →BD uses the route B to A t
 * Missing the brackets in 2**a** − 3**b** when the second vector has negative entries.
 * Using one numerical example when the question says "prove" or "show that" for letters.
 * Leaving a ratio as a ratio. Convert it to a fraction of the line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry--03-collinear-ratio-proof.webp" width="900" height="986" alt="Triangle OPQ, X on PQ with PX:XQ=2:3 so OX = 3/5 p + 2/5 q. Y has OY = 3p+2q = 5OX, so O, X and Y lie on one line with OX:OY = 1:5." loading="lazy">
+  <figcaption>OY is a multiple of OX and both start at O, so O, X, Y are collinear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry--06-collinear-abc-numbers.webp" width="900" height="760" alt="A(1, −2), B(4, 3) and C(10, 13) on a grid. AB = (3, 5) and AC = (9, 15) = 3AB, so three equal steps from A pass through B and reach C, and the points are collinear." loading="lazy">
+  <figcaption>AC = 3AB with a shared point A means A, B and C are on one line.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

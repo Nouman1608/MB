@@ -53,6 +53,17 @@ x = 45 mm = 0.045 m.
 k = F/x = 7.2 / 0.045 = 160 N m⁻¹.
 F = kx = 160 × 0.030 = 4.8 N.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--01-spring-tensile-compressive.webp" width="900" height="960" alt="The same spring is shown at natural length, pulled by 7.2 N (45 mm longer) and pushed by 4.8 N (30 mm shorter). x is the change from natural length. k = 7.2 / 0.045 = 160 N/m." loading="lazy">
+  <figcaption>Hooke's law F = kx applies to both tensile extension and compression; x is the change in length.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--02-force-extension-graph.webp" width="900" height="960" alt="Force against extension for a stiff spring (gradient 160 N/m) and a softer one (80 N/m). The stiff spring is straight to its limit of proportionality at 0.07 m and 11.2 N, then curves." loading="lazy">
+  <figcaption>The gradient of a force-extension graph is the spring constant; a steeper line is a stiffer spring.</figcaption>
+</figure>
+
+
 
 ## 3.4.1(d) Force-extension graphs
 
@@ -74,6 +85,12 @@ This links to practical activity group 2. A sound method for a spring:
 4. Extension = position - unloaded position. Plot force against extension and find the gradient.
 
 For a polythene strip or rubber band, wear eye protection and keep feet clear of falling masses. Use smaller steps where the graph starts to curve, to locate the limit of proportionality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--03-elastic-energy-area.webp" width="900" height="990" alt="The area under a straight force-extension line is a triangle: 0.5 x 7.2 x 0.045 = 0.162 J. Doubling the extension to 0.090 m gives 0.648 J, four times as much." loading="lazy">
+  <figcaption>Elastic potential energy is the area under the line, E = 1/2 Fx = 1/2 kx squared.</figcaption>
+</figure>
+
 
 ## 3.4.2(a)-(b) Work done and elastic potential energy
 
@@ -118,6 +135,17 @@ In example 4 the initial slope is 20 / 0.040 = 500 N m⁻¹. Unloading from 36 N
 
 Energy recovered = ½ × 36 × (0.100 - 0.028) = 1.30 J. The rest of the 2.08 J, 0.78 J, was dissipated as thermal energy in the metal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--04-loading-unloading.webp" width="900" height="960" alt="Loading a metal strip to 36 N at 0.100 m does 2.08 J of work. Unloading runs parallel to the first line and reaches zero force at 0.028 m, the permanent extension. 1.30 J is recovered and 0.78 J is dissipated as heat." loading="lazy">
+  <figcaption>After plastic deformation the unloading line is parallel to the first line, leaving a permanent extension and wasted energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--07-ductile-stress-strain.webp" width="900" height="1040" alt="A sketch of stress against strain for a ductile metal: straight line to the limit of proportionality, elastic limit, yield point, peak (UTS), necking and breaking. The gradient of the straight part is the Young modulus." loading="lazy">
+  <figcaption>A ductile metal shows an elastic region, then plastic deformation, necking and fracture; the gradient of the straight part is E.</figcaption>
+</figure>
+
+
 ## 3.4.2(c) Stress, strain and ultimate tensile strength
 
 Force constant and extension depend on the size of the sample. Stress and strain allow materials to be compared.
@@ -149,6 +177,17 @@ Strain = 3.6 × 10⁻³ / 2.40 = 1.5 × 10⁻³.
 E = 3.16 × 10⁸ / 1.5 × 10⁻³ = 2.1 × 10¹¹ Pa.
 Energy stored = ½Fx = ½ × 62 × 3.6 × 10⁻³ = 0.11 J.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--05-stress-strain-young-modulus.webp" width="900" height="1050" alt="A 2.0 m wire of cross-section 1.0e-6 m squared carries 60 N and extends 1.5 mm. Stress is 6.0e7 Pa, strain is 7.5e-4 and E is 8.0e10 Pa." loading="lazy">
+  <figcaption>Stress is force per area, strain is extension per original length, and their ratio is the Young modulus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--06-measuring-young-modulus.webp" width="900" height="1215" alt="A long thin wire is loaded in equal steps while a marker moves along a fixed scale; the diameter is measured with a micrometer. The extension-force gradient 4.3e-4 m/N gives E = L / (A x gradient) = 1.96e11 Pa." loading="lazy">
+  <figcaption>Measure L, d and the extensions, plot extension against force, and use E = L / (A x gradient).</figcaption>
+</figure>
+
+
 ## 3.4.2(d)(ii) Measuring the Young modulus of a metal
 
 This is the practical named for practical activity group 2.
@@ -179,6 +218,12 @@ Plot stress on the vertical axis and strain on the horizontal axis. The gradient
 **Worked example 7.** The straight part of a metal's stress-strain graph passes through (strain 0.0012, stress 240 MPa). Find E.
 
 E = 240 × 10⁶ / 0.0012 = 2.0 × 10¹¹ Pa.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--08-material-types.webp" width="900" height="1165" alt="Stress-strain sketches: ductile copper has a big plastic region; brittle glass is straight to the break; rubber has a loading curve above its unloading curve and returns to zero, the area between them being heat. Strong, stiff and tough are different properties." loading="lazy">
+  <figcaption>Brittle, ductile and polymeric materials have characteristic stress-strain shapes.</figcaption>
+</figure>
+
 
 ## Common errors
 

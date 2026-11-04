@@ -67,6 +67,12 @@ The coding strand of a short gene reads 5'-ATGGCTAACCGTTTATAA-3'. Find the templ
 
 The polypeptide is **Met-Ala-Asn-Arg-Leu**, five amino acids. The stop codon codes for none.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--01-transcription.webp" width="900" height="800" alt="RNA polymerase on an unwound bubble copies the template strand of a gene into RNA, with the RNA peeling away behind it. The coding strand ATGGCTAACCGT, template TACCGATTGGCA and RNA AUGGCUAAC are from worked example 1. The next nucleotide, C, pairs with G on the template. A key shows the four pairs." loading="lazy">
+  <figcaption>RNA polymerase builds RNA from the template strand using A-U, T-A, G-C and C-G pairs.</figcaption>
+</figure>
+
+
 ## The genetic code (D1.2.8 and D1.2.9)
 
 The genetic code is the set of rules linking mRNA codons to amino acids. Each **codon** is three bases.
@@ -95,6 +101,17 @@ Three is the smallest codon length that works.
 In each cell the four amino acids belong to third bases U, C, A, G in that order. AUG (row A, second base U, third base G) is both the start codon and methionine.
 
 **Method:** find the first AUG, read non-overlapping groups of three, look up each, stop at a stop codon.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--03-triplet-code.webp" width="900" height="740" alt="Bars show 4, 16 and 64 possible codes for one, two and three bases, against 20 amino acids. A grid of 64 squares shows 61 amino acid codons and 3 stops, so the code is degenerate." loading="lazy">
+  <figcaption>Three bases per codon give 64 codes, enough for 20 amino acids, with 61 codons sharing them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--04-codon-table.webp" width="900" height="950" alt="The 4 by 4 mRNA codon table with the amino acid for every codon, AUG (Met, start) highlighted and the three stop codons shaded." loading="lazy">
+  <figcaption>Find the first base row, second base column, then the third base in the corner.</figcaption>
+</figure>
+
 
 ## Translation (D1.2.5 to D1.2.7 and D1.2.10)
 
@@ -125,6 +142,17 @@ A polypeptide has 150 amino acids. What is the least number of mRNA bases in the
 
 The coding region is at least **453** bases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--05-translation-overview.webp" width="900" height="600" alt="An mRNA runs between the small and large ribosomal subunits. Two tRNAs pair with codons GCU and AAC by their anticodons CGA and UUG, carrying the chain Met-Ala and asparagine." loading="lazy">
+  <figcaption>tRNA anticodons pair with mRNA codons on the ribosome, bringing amino acids in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--06-elongation.webp" width="900" height="1130" alt="Three steps of elongation: a tRNA binds the A site, a peptide bond forms moving the chain onto it, then the ribosome moves one codon and the empty tRNA leaves. E, P and A site names are HL only." loading="lazy">
+  <figcaption>Each cycle adds one amino acid and the ribosome moves one codon.</figcaption>
+</figure>
+
+
 ## Mutations that change protein structure (D1.2.11)
 
 A **point mutation** changes a single base pair in a gene. The effect depends on what the new codon codes for.
@@ -141,6 +169,12 @@ A famous example is sickle cell disease. In the gene for the β chain of haemogl
 
 If a base is inserted or deleted, every codon after that point is read in a new frame. Deleting the seventh base of the mRNA above gives AUG GCU ACC GUU UAU AA, which reads Met-Ala-Thr-Val-Tyr. This frameshift usually ruins the protein.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--07-point-mutations.webp" width="900" height="1138" alt="The worked example mRNA is shown with a silent, a missense and a nonsense substitution and a frameshift deletion, each translated with the codon table, plus the sickle cell GAG to GUG change." loading="lazy">
+  <figcaption>Point mutations can be silent, missense or nonsense; a deletion shifts the reading frame.</figcaption>
+</figure>
+
+
 ## HL only: directionality, promoters and non-coding DNA (D1.2.12 to D1.2.14)
 
 **Directionality (D1.2.12).** Nucleic acid strands have a 5' end and a 3' end. RNA polymerase adds each new nucleotide to the 3' end of the growing RNA, so RNA is made in the 5' to 3' direction. The polymerase therefore moves along the template from its 3' end towards its 5' end. In translation, the ribosome moves along the mRNA from the 5' end towards the 3' end, reading codons in that order. The polypeptide is built from its amino end to its carboxyl end.
@@ -153,6 +187,12 @@ If a base is inserted or deleted, every codon after that point is read in a new 
 - **introns**, removed from the transcript,
 - **telomeres**, the repeated sequences at the ends of eukaryotic chromosomes,
 - **genes for rRNA and tRNA**, which are transcribed but whose products are RNA molecules, not polypeptides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--02-promoter-direction.webp" width="900" height="880" alt="Three stages: transcription factors bind a promoter, RNA polymerase attaches, then it moves along the template from 3 prime to 5 prime while RNA grows at its 3 prime end. Promoter and gene are labelled. HL only." loading="lazy">
+  <figcaption>Transcription factors help RNA polymerase attach at the promoter, then RNA is made 5 prime to 3 prime.</figcaption>
+</figure>
+
 
 ## HL only: processing the transcript (D1.2.15 and D1.2.16)
 
@@ -173,6 +213,17 @@ A gene has six exons of 84, 126, 63, 105, 141 and 99 bases, separated by five in
 4. Variant that omits the 63 and 105 base exons: 618 − 63 − 105 = 450 bases, or 150 codons.
 
 Every exon length divides by three, so omitting exons keeps the reading frame. One gene gives two polypeptides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--08-pre-mrna-processing.webp" width="900" height="810" alt="Pre-mRNA of 2768 bases (six exons totalling 618 plus 2150 bases of introns, 77.7 per cent) loses its introns in the nucleus, giving a 618-base mature mRNA with a 5 prime cap and poly-A tail." loading="lazy">
+  <figcaption>Introns are removed, exons joined, and a cap and tail added to stabilise the mRNA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-protein-synthesis-transcription-translation-and-the--09-alternative-splicing.webp" width="900" height="820" alt="The six exons drawn to scale. Variant A joins all of them (618 bases, 206 codons); variant B skips exons 3 and 4 (450 bases, 150 codons). All exon lengths divide by three, so the reading frame is kept." loading="lazy">
+  <figcaption>Skipping exons gives a different polypeptide from the same gene.</figcaption>
+</figure>
+
 
 ## HL only: initiation, modification and recycling (D1.2.17 to D1.2.19)
 

@@ -36,6 +36,12 @@ Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checkl
 | Protostar | A hot ball of gas formed as a cloud of dust and gas collapses under gravity, before fusion begins |
 | Equilibrium (star) | Inward gravitational collapse balanced by outward expansion due to energy released by fusion |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--04-cmbr-stretching.webp" width="900" height="990" alt="Three waves, not to scale, each three times longer than the last: very short wavelength in the hot early universe, stretched as space expands, now microwaves at about 2.7 K. Arrows converge on Earth from every direction." loading="lazy">
+  <figcaption>Expansion stretched early high-energy radiation into the microwaves we detect from all directions.</figcaption>
+</figure>
+
+
 ## Red-shift (P8.3a, Higher Tier only)
 
 Qualitative only: no calculation of speed from wavelength is asked for.
@@ -57,6 +63,12 @@ Qualitative only: no calculation of speed from wavelength is asked for.
 3. Link it to motion: the source is moving away from the observer.
 4. Link size to speed: a bigger shift means a faster recession.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
+
 ## Speed and distance: evidence for expansion (P8.3a, Higher Tier only)
 
 | Observation | What it shows |
@@ -71,9 +83,21 @@ Qualitative only: no calculation of speed from wavelength is asked for.
 - A far dot has more rubber between it and you, so it moves away faster.
 - The dots do not grow, and neither do galaxies. Only the spaces between them stretch.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--12-expanding-space.webp" width="900" height="1150" alt="Five dots on a stretching surface, space doubling. From dot A the other dots end up twice as far, so more distant dots move further. From dot C dots on both sides move away. No dot is the centre." loading="lazy">
+  <figcaption>Space stretching makes every dot move away from every other.</figcaption>
+</figure>
+
+
 ### Small worked reminder
 
 A line of 656 nm in the laboratory is observed at 661 nm from galaxy P and 679 nm from galaxy R. Both are red-shifted. R has the larger shift, so R recedes faster. If the expansion pattern holds, R is the more distant galaxy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--06-speed-distance-data.webp" width="900" height="830" alt="Graph of speed against distance for galaxies A to E from the lesson table. The points lie near a straight line through the origin; doubling the distance roughly doubles the speed. Higher Tier only." loading="lazy">
+  <figcaption>The lesson data show recession speed rising in step with distance.</figcaption>
+</figure>
+
 
 ## Big Bang model (P8.3b, Higher Tier only)
 
@@ -128,6 +152,22 @@ The Sun formed this way about 4.6 billion years ago and is in this stable stage 
 | Much more massive | cloud, protostar, stable star, red supergiant, supernova, neutron star or black hole |
 
 A supernova spreads heavier elements, and later stars and planets can form from this material.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--03-star-equilibrium.webp" width="900" height="920" alt="A star with a core: equal inward arrows for gravity and equal outward arrows for the push of fusion energy balance, so the size is steady. If fusion speeds up the core expands and fusion slows, and the reverse." loading="lazy">
+  <figcaption>Gravity pulling in balances the outward push of fusion energy, and the star corrects itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--07-cloud-to-star.webp" width="900" height="1110" alt="Four steps: a cloud of dust and gas; gravity pulls a denser region together; falling inwards heats it into a protostar; the core becomes hot enough for fusion and outward and inward effects balance. Higher Tier only." loading="lazy">
+  <figcaption>From gas cloud to stable star in four steps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

@@ -60,6 +60,12 @@ These revision notes condense statements B6.3v, B6.3w and B6.3x of OCR GCSE (9-1
 2. The recipient's lymphocytes recognise them as foreign.
 3. The immune response attacks the donor cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--08-graft-versus-host.webp" width="900" height="1000" alt="Panel 1: patient's white cell attacks a donor cell (rejection). Panel 2: donor white blood cells attack the patient's body cells (graft-versus-host disease)." loading="lazy">
+  <figcaption>Rejection is the patient attacking the graft; GvHD is the graft attacking the patient.</figcaption>
+</figure>
+
+
 ### Method: reducing rejection
 
 1. Match the tissue type, often using a relative.
@@ -74,6 +80,22 @@ In bone marrow transplants, donor white blood cells can attack the recipient (gr
 - Chance of at least one match among n siblings, if each has a 1 in 4 chance: 1 − (3/4)ⁿ. For 2 siblings this is 1 − 9/16 = 7/16, which is 44% (nearest whole number).
 - Percentage = part ÷ whole × 100. If 9 of 48 grafts are rejected, that is 18.75%, so 19%.
 - Compare risks using the same group size. If 3 of 45 grafts are rejected with an immunosuppressant, that is 6.7%, against 18.75% without it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--01-ocr-stem-cell-rejection.webp" width="900" height="1140" alt="A donor cell with different antigens is attacked by a lymphocyte (rejection). A close tissue match causes a weaker response. The patient's own cells carry the patient's own antigens, so there is no attack." loading="lazy">
+  <figcaption>Three rows compare a donor cell with different antigens, a close match and the patient's own cell next to a lymphocyte.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--02-ocr-therapeutic-cloning.webp" width="900" height="1010" alt="A nucleus from the patient's body cell goes into an egg whose nucleus was removed. The egg divides into a ball of embryo cells and embryonic stem cells are taken that match the patient, so the tissue should not be rejected." loading="lazy">
+  <figcaption>Therapeutic cloning in three steps: swap the nucleus, divide, take out genetically identical embryonic stem cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--06-sibling-match-chance.webp" width="900" height="1130" alt="Each of three siblings has a 1 in 4 chance of matching. 27 of 64 outcomes have no match, so at least one match is 37/64, about 58%." loading="lazy">
+  <figcaption>64 equally likely outcomes: 27 with no match, 37 with at least one.</figcaption>
+</figure>
+
 
 ## B6.3w: Gene technology in medicine
 
@@ -93,6 +115,22 @@ In bone marrow transplants, donor white blood cells can attack the recipient (gr
 ### Worked reminder: percentages in a trial
 
 Of 40 cultures of embryonic stem cells put into mice, 6 formed tumours. Percentage = 6/40 × 100 = **15%**. A statement such as "the cells cause tumours" is too strong. A better statement is that tumours formed in 15% of cultures, so the risk needs reducing before human use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--03-ocr-gene-therapy-vector.webp" width="900" height="1095" alt="A modified virus carries a working allele into a patient cell that has a faulty allele, and the cell then makes the working protein. Risks are listed beneath." loading="lazy">
+  <figcaption>Gene therapy in three steps with the main risks listed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--07-trial-benefit-risk.webp" width="900" height="1000" alt="Stem cell trial: 65% v 35% improved (30 points more), serious side effects 10% v 5% (twice). Gene therapy trial: 85% normal immune function, 10% leukaemia." loading="lazy">
+  <figcaption>Bars compare benefit and risk percentages in the two worked trials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
 
 ## B6.3x: The human genome and medicine
 
@@ -127,6 +165,22 @@ Allele Z raises the lifetime risk of a disease from 8% to 40%. In a group of 500
 2. Give a risk or a limit and explain the harm it could cause.
 3. Use any figures supplied, with the group each belongs to.
 4. Finish with a judgement and the reason for it, for example "acceptable for a fatal disorder with no other treatment, but more evidence is needed on long-term safety".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--04-ocr-allele-risk.webp" width="900" height="1140" alt="Illustrates worked example 4: 6 of 50 would be ill at average risk but 30 of 50 are ill, giving 24 extra cases, five times the risk, and 20 carriers who never develop the disease." loading="lazy">
+  <figcaption>Dot grids for the 50 carriers of allele Y compare the average and the actual risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--05-ocr-targeted-drug.webp" width="900" height="850" alt="Draws worked example 5 so the overall 37 percent response can be compared with 70 percent for patients with the marker and 15 percent for those without." loading="lazy">
+  <figcaption>Bars show 70% response with the marker, 15% without and 37% overall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine--09-insulin-from-bacteria.webp" width="900" height="1050" alt="The human insulin gene is put into bacteria, which are grown in a fermenter and make human insulin; it is collected and purified for people with diabetes." loading="lazy">
+  <figcaption>Four steps from the human insulin gene to purified insulin.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

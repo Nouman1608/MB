@@ -75,6 +75,22 @@ BC = DE x 1.5 = 8 x 1.5 = 12 cm
 
 A proof needs a reason with every statement. Name the triangles with matching letters, as above: A with A, D with B, E with C.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--03-similar-triangles-parallel.webp" width="900" height="930" alt="Triangle ADE sits inside triangle ABC with DE parallel to BC. Angle A is shared and the angles at D and B, and at E and C, are equal, so the triangles are similar with scale factor 9 / 6 = 1.5. BC = 8 x 1.5 = 12 cm." loading="lazy">
+  <figcaption>A line parallel to one side creates a smaller similar triangle; the scale factor gives the unknown side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--11-three-similarity-tests.webp" width="900" height="1170" alt="Three rows of smaller and larger triangles: all sides in ratio 1.5, two sides in ratio 1.5 with equal included angle 50 degrees, and two equal angles which force the third pair equal." loading="lazy">
+  <figcaption>The three tests for similar triangles; one is enough.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--12-which-triangles-similar.webp" width="900" height="940" alt="P has sides 6, 10, 12. Q (9, 15, 18) gives ratios 1.5, 1.5, 1.5 so is similar. R (9, 14, 18) gives 1.5, 1.4, 1.5 so is not." loading="lazy">
+  <figcaption>Matching shortest to shortest decides which triangles are similar to P.</figcaption>
+</figure>
+
+
 ## 9.04b Enlargement
 
 An enlargement changes size and keeps shape. It needs a **scale factor** and a **centre of enlargement**. Every image point sits on the straight line from the centre through its original point, and its distance from the centre is the original distance times the scale factor. Lengths change by the scale factor, but angles do not change.
@@ -85,6 +101,12 @@ An enlargement changes size and keeps shape. It needs a **scale factor** and a *
 2. Multiply both steps by the scale factor.
 3. Count those new steps from the centre to find the image vertex.
 4. Repeat for each vertex and join them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="945" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
+  <figcaption>An enlargement multiplies every distance from the centre, and every side, by the scale factor.</figcaption>
+</figure>
+
 
 ### Worked example 3: enlarging from a centre
 
@@ -114,6 +136,12 @@ Divide a length on the image by the matching length on the original. Here A'B'/A
 ### Fractional scale factors
 
 Using a fraction smaller than 1 as the scale factor shrinks the shape. The method does not change: multiply the steps from the centre by the fraction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--05-enlargement-fractional.webp" width="900" height="1145" alt="Triangle ABC is enlarged by scale factor one half from P(1,1). Each image corner is half as far from P, giving a smaller image A'(2,2), B'(2,4), C'(4,2)." loading="lazy">
+  <figcaption>A scale factor between 0 and 1 makes the image smaller.</figcaption>
+</figure>
+
 
 ### Worked example 4: a fractional scale factor
 
@@ -150,6 +178,12 @@ When you describe a transformation, give three things: the word enlargement, the
 
 With a negative scale factor, the image appears across the centre from the original and is turned through a half turn. The number without its sign gives the size, so −2 gives an image twice as big, on the far side of the centre.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--06-enlargement-negative.webp" width="900" height="905" alt="Triangle ABC is enlarged by scale factor -2 from P(3,3). Each image corner is twice as far from P but on the opposite side, so the image is upside down: A'(1,1), B'(1,-1), C'(-3,1)." loading="lazy">
+  <figcaption>A negative scale factor puts the image on the opposite side of the centre, inverted.</figcaption>
+</figure>
+
+
 ### Worked example 6: scale factor −2 (Higher tier only)
 
 <!-- marlbridge-diagram:math-b76-ocr-negative-enlargement -->
@@ -171,11 +205,23 @@ C: right 1, up 3   -> left 2, down 6    -> C' = (0, -5)
 
 The same result comes from enlarging by scale factor 2 and then turning the image through a half turn about the centre. To recognise a negative scale factor, look for an image across the centre that has been turned through 180°. A scale factor of −1/2 gives a smaller image on the far side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--04-find-the-centre.webp" width="900" height="1060" alt="Triangle K with vertices (4,1), (6,1), (4,3) is enlarged to K-prime with vertices (5,2), (9,2), (5,6). A line through each matching pair of vertices runs to (3, 0), the centre, and the base lengths 2 and 4 give scale factor 2." loading="lazy">
+  <figcaption>Lines through matching vertices meet at the centre of enlargement.</figcaption>
+</figure>
+
+
 ## 9.04c Similar shapes
 
 ### Ratio notation and scale factors
 
 A ratio such as 2 : 5 compares lengths on the original with lengths on the image. Divide the second number by the first to get the scale factor, here 5/2 = 2.5. A scale factor from the larger shape back to the smaller one is the reciprocal, 2/5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--13-photo-scale-factor.webp" width="900" height="760" alt="A photograph 8 cm by 12 cm is enlarged so the shorter side is 20 cm. 8 : 20 = 2 : 5, scale factor 2.5, longer side 30 cm." loading="lazy">
+  <figcaption>Ratio notation and scale factor for an enlarged photograph.</figcaption>
+</figure>
+
 
 ### Worked example 7: comparing lengths
 
@@ -195,6 +241,12 @@ The enlarged photograph is 20 cm by 30 cm. The lengths are in the ratio 2 : 5.
 2. To find a length on the larger shape, multiply by the scale factor. To find a length on the smaller shape, divide.
 3. Check that the answer is bigger or smaller, as it should be.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--14-similar-quadrilaterals.webp" width="900" height="800" alt="Similar quadrilaterals ABCD and PQRS have scale factor 18/12 = 1.5, so QR = 21 cm; CD is on the smaller shape so CD = 27 / 1.5 = 18 cm." loading="lazy">
+  <figcaption>Find the scale factor, then multiply for the larger shape or divide for the smaller.</figcaption>
+</figure>
+
+
 ### Worked example 8: finding sides
 
 Quadrilaterals ABCD and PQRS are similar. AB = 12 cm matches PQ = 18 cm. BC = 14 cm, and RS = 27 cm matches CD. Find QR and CD.
@@ -210,6 +262,17 @@ CD = 27 / 1.5 = 18 cm   (CD is on the smaller shape, so divide)
 If the length scale factor is k, then the area scale factor is k² and the volume scale factor is k³. In ratio terms, lengths 3 : 5 give areas 9 : 25 and volumes 27 : 125.
 
 At Foundation tier you can still compare areas and volumes by working them out, then writing the ratio. The shortcut below is the Higher tier only part.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--15-length-area-volume-ratios.webp" width="900" height="1080" alt="Lengths 3:5 give areas 9:25 so 72 cm2 becomes 200 cm2. Volumes 54:128 = 27:64 give lengths 3:4 so 9 cm becomes 12 cm. Areas 100:225 = 4:9 give lengths 2:3 and volumes 8:27 so 40 cm3 becomes 135 cm3." loading="lazy">
+  <figcaption>Square for area, cube for volume, and roots to go back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
+  <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2).</figcaption>
+</figure>
+
 
 ### Worked example 9: areas and volumes (Higher tier only)
 

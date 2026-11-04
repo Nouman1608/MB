@@ -35,6 +35,12 @@ These are condensed revision notes for AQA A-level Biology (7402) section 3.7.1,
 | Autosomal linkage | Genes on the same autosome, inherited together unless crossing over separates them |
 | Epistasis | An allele at one locus masks or suppresses expression of alleles at another locus |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
+  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
+</figure>
+
+
 ## Ratios to recognise
 
 | Cross | Offspring ratio | Meaning |
@@ -60,6 +66,12 @@ These are condensed revision notes for AQA A-level Biology (7402) section 3.7.1,
 
 For a probability question, work gene by gene and multiply: P(both events) = P(A) × P(B). Add probabilities for alternative routes to one outcome. Example: from AaBb × AaBb, P(aabb) = 1/4 × 1/4 = 1/16, and P(dominant for both) = 3/4 × 3/4 = 9/16.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--02-monohybrid-test-cross.webp" width="900" height="1230" alt="Vv crossed with Vv gives VV, Vv, Vv and vv, so three normal-winged flies to one vestigial. A test cross with vv gives 1 normal to 1 vestigial if the unknown fly is Vv, and all normal if it is VV." loading="lazy">
+  <figcaption>Gametes, a Punnett square and the ratio, then a test cross to reveal an unknown genotype.</figcaption>
+</figure>
+
+
 ## Multiple alleles and sex linkage
 
 - **ABO:** the alleles Iᴬ and Iᴮ show codominance; i is recessive to both. Group O is always ii. Group AB parent × group O parent gives only group A (Iᴬi) and group B (Iᴮi), in equal numbers.
@@ -67,6 +79,17 @@ For a probability question, work gene by gene and multiply: P(both events) = P(A
 - **X-linked recessive:** an affected mother (XᵈXᵈ) passes the allele to every son, so all sons are affected. An unaffected father (XᴰY) gives his X to daughters, so all daughters are carriers if the mother is XᵈXᵈ.
 - **Birds:** male ZZ, female ZW. The female is the one with a single copy of each Z-linked gene.
 - **Spotting sex linkage:** the ratio differs between sexes, or reciprocal crosses give different results.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--03-codominance-multiple-alleles.webp" width="900" height="980" alt="Crossing two patched plants CRCW gives red, patched and white in a 1 : 2 : 1 ratio, where the genotype ratio equals the phenotype ratio. The ABO cross IAi by IBi gives one each of groups AB, A, B and O; three alleles exist in a population but each person carries two." loading="lazy">
+  <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--04-sex-linkage.webp" width="900" height="1000" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters (AQA and OxfordAQA)." loading="lazy">
+  <figcaption>A son has one X, so one recessive allele shows; the father passes his Y to sons.</figcaption>
+</figure>
+
 
 ## Autosomal linkage
 
@@ -76,6 +99,12 @@ In a test cross of a heterozygote (coupling: AB on one chromosome, ab on the oth
 - two recombinant classes (Ab, aB) in small and similar numbers, made by crossing over in meiosis
 
 Calculation: percentage recombinants = recombinants ÷ total × 100. Example: 54 recombinants in 300 offspring is 18%. Compare with 50% recombinants (a 1 : 1 : 1 : 1 ratio) for unlinked genes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--06-autosomal-linkage.webp" width="900" height="1110" alt="A parent with A and B on one chromosome and a and b on the other makes mostly parental gametes AB and ab; crossing over makes recombinant Ab and aB. In 1000 offspring 412 and 398 are parental, 93 and 97 recombinant, 19 percent, instead of 250 of each." loading="lazy">
+  <figcaption>Linked alleles travel together unless crossing over separates them.</figcaption>
+</figure>
+
 
 ## Epistasis: how to explain it
 
@@ -87,6 +116,17 @@ Use a short chain in your answer:
 4. State the effect: the allele at one locus prevents or changes the expression of alleles at the other locus, so a dihybrid ratio is modified.
 
 Worked reminder: in a flower, pigment needs allele K, and a second gene turns it from pink (rr) to red (R_). Kk Rr × Kk Rr gives 9 red : 3 pink : 4 white if kk is white whatever the second gene carries. From 64 offspring expect 36 red, 12 pink, 16 white.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--07-epistasis.webp" width="900" height="1222" alt="Allele A makes the enzyme that turns a colourless precursor into yellow pigment and B the enzyme that turns yellow into red; aa gives white whatever B is, so AaBb by AaBb gives 9 red, 3 yellow and 4 white. Rows of 16 squares show how 12:3:1, 9:7 and 15:1 arise from other gene interactions." loading="lazy">
+  <figcaption>One gene can mask another, merging classes of the 16 boxes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
+</figure>
+
 
 ## Interpreting results from a cross
 
@@ -117,6 +157,12 @@ Wording: if calculated χ² is smaller than the critical value, the difference i
 - **3:1 rejected:** observed 94 : 66, expected 120 : 40. χ² = 676/120 + 676/40 = 5.63 + 16.90 = 22.53. Larger than 3.84, so significant: the results do not fit 3 : 1.
 - **1 : 2 : 1:** observed 33, 66, 21 against 30, 60, 30. χ² = 0.30 + 0.60 + 2.70 = 3.60. Degrees of freedom 2, critical 5.99. Not significant.
 - **12 : 3 : 1:** observed 101, 21, 6 against 96, 24, 8 (n = 128). χ² = 0.26 + 0.38 + 0.50 = 1.14. Degrees of freedom 2. Not significant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--08-chi-squared.webp" width="900" height="1090" alt="Observed 279, 97, 83 and 21 are compared with expected 270, 90, 90 and 30 from 9 : 3 : 3 : 1. The parts of chi-squared are 0.300, 0.544, 0.544 and 2.700, total 4.09 with 3 degrees of freedom. This is below the critical value 7.81 at p = 0.05, so the difference is not significant." loading="lazy">
+  <figcaption>Add (O minus E) squared over E for every class and compare with the critical value.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -153,6 +199,12 @@ Wording: if calculated χ² is smaller than the critical value, the difference i
 9. 9 : 3 : 4.
 10. 54 ÷ 300 × 100 = 18%.
 11. The value of χ² depends on the sample size; percentages sum to 100 and hide how many individuals were counted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
+  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

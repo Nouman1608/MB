@@ -46,6 +46,17 @@ The measurements named across the groups are length, area, mass, time, temperatu
 
 **Scientific diagrams.** Draw apparatus in section with a sharp pencil and no shading. Label every part that matters and show where measurements are taken. For a specimen drawing, use clear single lines, correct proportions and ruled label lines that do not cross, and give the magnification: magnification = image size / actual size, with both lengths in the same unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--12-variables-cabomba.webp" width="900" height="860" alt="A graph of bubbles in 2 minutes against lamp distance using the lesson means 54, 13 and 3 at 10, 20 and 40 cm. Lamp distance is the independent variable on the x-axis; bubbles counted is the dependent variable on the y-axis. Temperature, sodium hydrogencarbonate, plant piece and time are controls." loading="lazy">
+  <figcaption>Which variable is independent, dependent and controlled in the Cabomba practical.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--03-accuracy-precision.webp" width="900" height="930" alt="Dot plot on a number line from 9.5 to 12.0 cm3 with a dashed true value at 10.0. Student A (10.1, 9.9, 10.0) is close together and centred on 10.0. Student B (11.4, 11.5, 11.4) is close together but about 1.4 higher every time: a systematic error." loading="lazy">
+  <figcaption>Precise means close together; accurate means close to the true value.</figcaption>
+</figure>
+
+
 ## PAG 5: Photosynthesis with Cabomba
 
 Cabomba is a water plant. In bright light it gives off a stream of oxygen bubbles from the cut end of a stem. Counting bubbles in a fixed time, or collecting the gas, measures the rate of photosynthesis.
@@ -78,6 +89,22 @@ Predict the rate at 20 cm from the rate at 10 cm. Intensity at 20 cm = (10/20)²
 
 **Why Cabomba practicals go wrong.** A hot lamp warms the water. The plant needs time to adjust after each change. Room light adds extra illumination. Keep mains equipment away from spilled water, and handle the plant gently.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--01-cabomba-rig.webp" width="900" height="850" alt="Side view of the Cabomba rig. A lamp shines at a boiling tube, standing in a beaker of water with a thermometer, holding Cabomba cut end up in water with sodium hydrogencarbonate. Oxygen bubbles rise from the cut end. A ruler measures the lamp distance d." loading="lazy">
+  <figcaption>Apparatus for counting bubbles from Cabomba at different lamp distances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--02-light-intensity-prediction.webp" width="900" height="810" alt="Bars compare measured bubble rates (27.0, 6.5, 1.5 per minute at 10, 20, 40 cm) with predictions from 27.0 multiplied by relative intensity 1, 1/4 and 1/16 (27.0, 6.8, 1.7). The close agreement shows light intensity is the limiting factor." loading="lazy">
+  <figcaption>Predicting the rate at 20 cm and 40 cm from the rate at 10 cm using the inverse square law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--11-gas-collection-rate.webp" width="900" height="830" alt="Cabomba in a boiling tube gives oxygen that is collected in a gas syringe; the plunger reads 4.5 cm3 on a 0 to 10 scale. A time line shows 15 minutes. Rate is 4.5 divided by 15, which is 0.30 cm3 per minute." loading="lazy">
+  <figcaption>Collecting gas and dividing volume by time gives a better rate than counting bubbles.</figcaption>
+</figure>
+
+
 ## PAG 6: Physiology, responses and respiration
 
 This group uses living organisms, most often the learner. The example activity measures pulse rate or ventilation rate before and after exercise, and recovery time.
@@ -95,6 +122,12 @@ For ventilation rate, count chest movements (one inhalation and one exhalation i
 **Safe and ethical use.** For human volunteers: explain the task and get consent, let anyone decline or stop at any time, exclude anyone with a medical condition that exercise could worsen, stop at once if someone feels dizzy or faint, keep exercise moderate and have space to work safely. For animals (for instance woodlice in a choice chamber): handle gently, limit the time, avoid extremes of heat or light, and return them to where they were collected. For plants: take no more material than needed.
 
 **Controls.** Use the same exercise for everyone. Pulse also varies with caffeine, anxiety and fitness, so a class mean is more reliable than one person's result.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--03-pulse-before-after-exercise.webp" width="900" height="780" alt="Strips show 36 beats at rest and 69 beats straight after exercise in 30 seconds. Doubling gives 72 and 138 beats per minute, a rise of 66, which is a 91.7 percent increase." loading="lazy">
+  <figcaption>From a 30 second count to beats per minute and percentage increase.</figcaption>
+</figure>
+
 
 ## PAG 7: Microbiological techniques
 
@@ -120,6 +153,17 @@ Area of a circle = πr². The radius is half the diameter.
 
 B is the most effective of the three. Compared with A, B's cleared area is (452 - 254) / 254 x 100 = 78% larger. To compare fairly, use same-size discs and equal concentrations. If a zone is not circular, take two diameters at right angles and use the mean. A clear zone shows that growth was prevented, not necessarily that bacteria were killed. Bacteria can also be observed as a stained prepared slide under a microscope and drawn, with the magnification stated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--04-bacterial-lawn-zones.webp" width="900" height="920" alt="A Petri dish from above with four 6 mm discs. Clear zones of diameter 18 mm (A), 24 mm (B), 10 mm (C) and 6 mm (water) are drawn to scale with areas 254, 452, 78.5 and 28.3 square millimetres. The water disc shows no clear zone beyond the disc, and B cleared 78 percent more than A." loading="lazy">
+  <figcaption>Comparing clear-zone areas of antimicrobial agents against a sterile-water control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--09-aseptic-technique.webp" width="900" height="1140" alt="Six panels: wipe the bench with alcohol; autoclave glassware and media at about 121 degrees for 15 minutes; flame the loop red hot and cool it in air; work near a Bunsen flame whose updraught carries microbes away; lift the lid only slightly and briefly; hold the lid on with a few short pieces of tape." loading="lazy">
+  <figcaption>Aseptic technique keeps unwanted microorganisms out of a culture.</figcaption>
+</figure>
+
+
 ## PAG 8: Transport in and out of cells
 
 The example activity uses potato chips (cylinders) in solutions of different concentration. Osmosis is the net diffusion of water across a partially permeable membrane, down a water potential gradient (towards the lower water potential). When the outside solution is dilute, its water potential exceeds that of the potato cells, so the chip takes in water and gains mass and length. In a strong solution the outside water potential is the lower one, so the chip loses water, loses mass and shortens. No calculation using water potential is required.
@@ -141,6 +185,17 @@ The example activity uses potato chips (cylinders) in solutions of different con
 | 0.8 | 2.51 | 2.09 | -0.42 | -16.7 |
 
 For 0.0 M: (2.86 - 2.48) / 2.48 x 100 = 15.3%. The graph of percentage change against concentration crosses zero between 0.2 M and 0.4 M. Assuming a straight line between those points, the zero is at 0.2 + 0.2 x (6.7 / (6.7 + 2.0)) = 0.35 M. At this concentration the water potential of solution and potato cells is about equal, so there is no net movement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--05-potato-chips-zero-crossing.webp" width="900" height="760" alt="Percentage change in chip mass against sucrose concentration: +15.3, +6.7, -2.0, -11.8 and -16.7 percent at 0.0 to 0.8 M. Chips gain mass in dilute solution and lose it in strong solution. A straight line between 0.2 and 0.4 M crosses zero at about 0.35 M, where there is no net water movement." loading="lazy">
+  <figcaption>Finding the concentration with no net water movement from percentage changes in mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--06-sucrose-dilution.webp" width="900" height="700" alt="Three measuring cylinders at the same scale: 20 cm3 of 1.0 M sucrose stock plus 30 cm3 of distilled water make 50 cm3 of 0.4 M sucrose, because 0.4 x 50 = 20." loading="lazy">
+  <figcaption>Making a 0.4 M sucrose solution from 1.0 M stock.</figcaption>
+</figure>
+
 
 ## Common errors
 

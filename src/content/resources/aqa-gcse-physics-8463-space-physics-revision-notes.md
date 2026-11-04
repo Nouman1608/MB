@@ -47,11 +47,28 @@ For full explanations and worked examples, use the [Space physics study guide](/
 3. Hot, dense enough → light nuclei join: **nuclear fusion**.
 4. Fusion releases energy; the star shines.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--05-sun-from-nebula.webp" width="900" height="1113" alt="Four steps. 1: a nebula, a cloud of dust and gas, with gravity pulling inwards. 2: it becomes denser and hotter, with temperature and pressure rising at the centre. 3: the core is hot and dense enough for hydrogen nuclei to join to make helium, nuclear fusion. 4: fusion releases energy and the star shines." loading="lazy">
+  <figcaption>A nebula collapses under gravity until fusion starts and a star shines.</figcaption>
+</figure>
+
+
 ### Method in steps: why a main sequence star is stable
 
 1. Gravity pulls material **inwards** (collapse).
 2. Energy from fusion pushes material **outwards** (expansion).
 3. The two are **balanced**, so the star is in **equilibrium** and stays the same size.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--11-star-balance.webp" width="900" height="760" alt="Three stars with inward gravity arrows and outward fusion arrows. Gravity stronger: the star shrinks. Equal arrows: balance, a stable main sequence star. Fusion stronger: the star expands." loading="lazy">
+  <figcaption>A main sequence star is stable because gravity and fusion balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
+  <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
 
 ## 4.8.1.2 Life cycle of a star
 
@@ -79,6 +96,17 @@ Memory hook: the Sun-sized path ends **cold and dark** (black dwarf); the massiv
 
 Fusion processes in stars produce **all** the naturally occurring elements.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--03-star-elements.webp" width="900" height="1110" alt="A five-step chain: the early universe had only hydrogen; main sequence stars fuse hydrogen to helium; red giants make carbon then nitrogen and oxygen; the hottest cores make the heaviest nuclei up to iron; elements heavier than iron come only from a supernova, which spreads all the elements into space." loading="lazy">
+  <figcaption>Stars made the elements, and supernovae spread them.</figcaption>
+</figure>
+
+
 ## 4.8.1.3 Orbits and satellites
 
 - **Gravity provides the force** that keeps planets and satellites (natural and artificial) in circular orbits.
@@ -100,6 +128,17 @@ Direction changes all the time → velocity (a vector) changes → the object is
 **Rule 2: speed and radius are linked.**
 For a stable orbit, if the speed changes, the radius must change. **Smaller orbit ↔ faster speed.** Larger orbit ↔ slower speed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--12-orbit-velocity.webp" width="900" height="930" alt="A satellite at four points on a circular orbit around Earth, each with a velocity arrow along the tangent and a gravity arrow to the centre at right angles. Speed is constant but direction changes. Worked example: 2 pi x 6.90e6 / 5700 = 7610 m/s." loading="lazy">
+  <figcaption>Gravity is at right angles to the motion, so it changes the direction but not the speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--13-orbit-radius-speed.webp" width="900" height="920" alt="Three orbits around Earth with a satellite on each. The inner satellite has the longest speed arrow, the middle shorter and the outer the shortest, showing closer orbits are faster." loading="lazy">
+  <figcaption>For a stable orbit, a smaller radius goes with a greater speed.</figcaption>
+</figure>
+
+
 ### Useful equation from Forces
 
 For an orbit, distance in one orbit = circumference = 2πr.
@@ -110,6 +149,12 @@ For an orbit, distance in one orbit = circumference = 2πr.
 | circumference of a circle | 2πr | m |
 
 **Worked reminder:** a moon moves in an orbit of radius 4.0 × 10⁸ m and takes 2.4 × 10⁶ s per orbit. v = 2π × 4.0 × 10⁸ / 2.4 × 10⁶ = **1050 m/s** (3 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--04-orbit-planet-moon-satellite.webp" width="900" height="1110" alt="Three orbit diagrams: a planet orbits the Sun, a moon orbits a planet, an artificial satellite orbits the Earth. The planet and moon are natural, the satellite is made by people; in each case a copper arrow shows gravity pulling the orbiting body towards the centre. Satellites are used for communications, weather monitoring and observing. None is a star, so they only reflect light." loading="lazy">
+  <figcaption>Planets, moons and artificial satellites all orbit because gravity pulls them towards what they orbit.</figcaption>
+</figure>
+
 
 ## 4.8.2 Red-shift
 
@@ -123,10 +168,22 @@ For an orbit, distance in one orbit = circumference = 2πr.
 | Dark mass (dark matter) | bends light and holds galaxies together but does not emit electromagnetic radiation |
 | Dark energy | the unknown cause of the universe expanding ever faster |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--07-dark-mass-dark-energy.webp" width="900" height="1220" alt="Top: light from a far galaxy bends as it passes a cluster of galaxies inside a larger region of invisible dark mass; dark mass bends light and holds galaxies together but emits no electromagnetic radiation. Bottom: arrows for a distant galaxy get longer from earlier to now, showing recession speeding up since 1998, whose cause is called dark energy." loading="lazy">
+  <figcaption>Dark mass and dark energy are two things scientists cannot yet explain.</figcaption>
+</figure>
+
+
 ### The pattern
 
 - The **further away** a galaxy is, the **faster** it is moving away.
 - The faster it recedes, the **bigger** the increase in wavelength.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--15-galaxy-speed-distance.webp" width="900" height="980" alt="A graph of galaxy speed against distance with points (1, 2300), (2, 4600), (3, 6900), (4, 9200) on a straight line through the origin. The galaxy at 2.5 is predicted at 5750 km/s." loading="lazy">
+  <figcaption>Speed is directly proportional to distance: the further the galaxy, the faster it recedes.</figcaption>
+</figure>
+
 
 ### Method in steps: red-shift → Big Bang
 
@@ -151,6 +208,22 @@ For an orbit, distance in one orbit = circumference = 2πr.
 - New data can **change** the model: since 1998 onwards, **supernova observations** suggest distant galaxies are **receding ever faster**.
 
 There is still much not understood, for example **dark mass** and **dark energy**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--14-redshift-spectra.webp" width="900" height="900" alt="Three spectra from 400 to 750 nm with a dark line at 656 nm (laboratory), 689 nm (galaxy A) and 722 nm (galaxy B). The increases are 33 nm (5.0 %) and 66 nm (10 %), so galaxy B is moving away faster." loading="lazy">
+  <figcaption>A bigger increase in wavelength means a faster, more distant galaxy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--06-expansion-run-backwards.webp" width="900" height="1010" alt="A graph of distance against time for four galaxies from the lesson speed-distance table, drawn back in time as straight lines. They all meet at zero distance 13.8 billion years ago, because distance divided by speed is the same for every galaxy. So everything started in one very small, hot, dense place, the Big Bang." loading="lazy">
+  <figcaption>Running the expansion backwards brings every galaxy back to one point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

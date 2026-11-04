@@ -37,6 +37,12 @@ Next, test your recall on the [practice questions](/resources/ib-dp-chemistry-el
 | Chain reaction | Radicals made in one propagation step feed the next, so the cycle repeats |
 | Substitution | One atom (here H) in a molecule is replaced by another atom (here a halogen) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--05-propagation.webp" width="900" height="870" alt="After initiation makes Cl radicals, a cycle repeats: Cl radical plus C7H14 gives C7H13 radical and HCl (-17 kJ per mole), then C7H13 radical plus Cl2 gives C7H13Cl and a new Cl radical (-82). The overall delta H is -99." loading="lazy">
+  <figcaption>Each propagation step uses one radical and makes one, so one initiation can make many product molecules.</figcaption>
+</figure>
+
+
 ## Radicals (3.3.1)
 
 - The defining feature is one **unpaired electron**. Charge is irrelevant.
@@ -60,6 +66,22 @@ Small reminder: NH₂ has 5 + 2 = 7 valence electrons, so it is the amino radica
 | Cation | a molecular ion such as CH₄•⁺ in a mass spectrometer |
 | Anion | O₂•⁻, superoxide |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--01-what-is-a-radical.webp" width="900" height="800" alt="Three electron diagrams. Cl has seven valence electrons, three pairs and one unpaired, so it is a radical. Cl minus has eight, all paired, so it is not. HO has seven electrons with the unpaired one on oxygen, so it is a radical." loading="lazy">
+  <figcaption>A radical has an unpaired electron, shown as a dot on the atom that carries it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--02-odd-or-even.webp" width="900" height="800" alt="Six species drawn as pairs of dots. OH (7), NO (11) and C2H5 (13) have an odd count and one unpaired electron, so they are radicals. OH minus (8), CH3 plus (6) and Br minus (8) have even counts and are not." loading="lazy">
+  <figcaption>An odd valence-electron total means at least one unpaired electron, so the species is a radical.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--06-termination.webp" width="900" height="890" alt="Two radicals meet and their unpaired electrons form a bond: Cl plus Cl gives Cl2, C7H13 plus Cl gives C7H13Cl, and two C7H13 give C14H26. No radical is left, so the chain stops." loading="lazy">
+  <figcaption>Termination removes two radicals and makes none.</figcaption>
+</figure>
+
+
 ## Homolytic fission and initiation (3.3.2)
 
 - General equation: **X₂ → 2X•**, with **UV light or heat** as the energy source.
@@ -80,6 +102,17 @@ Small reminder: NH₂ has 5 + 2 = 7 valence electrons, so it is the amino radica
 
 - **CFCs:** UV breaks C–Cl to release Cl•; the C–F bond is much stronger, so F• is not typically released.
 - **Ozone:** the O–O bonds in O₃ (bond order about 1.5) are weaker than O=O in O₂, so Cl• can break down O₃ but not O₂.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--03-homolytic-fission.webp" width="900" height="1040" alt="A Br-Br bond splits when UV light or heat is supplied. Two fish-hook arrows start at the middle of the bond, one to each atom, giving two bromine radicals each with one unpaired electron. A full arrow instead would give ions." loading="lazy">
+  <figcaption>Homolytic fission shares the bonding pair one electron each, using one fish-hook arrow per electron.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--04-halogen-bond-energy.webp" width="900" height="850" alt="A bar chart of X-X bond enthalpies: F-F 158, Cl-Cl 242, Br-Br 193, I-I 151 kJ per mole. The bond weakens from Cl to I as atoms get bigger, and F-F is weak because of lone pair repulsion." loading="lazy">
+  <figcaption>Cl-Cl needs most energy to split; I-I least of the three larger halogens, and F-F breaks the trend.</figcaption>
+</figure>
+
 
 ## Alkane substitution (3.3.3)
 
@@ -104,6 +137,12 @@ Small reminder for 2,2,3,3-tetramethylbutane and bromine (every hydrogen is equi
 - **Further substitution:** RX still has C–H bonds, so RX₂, RX₃ and so on form.
 - **Position isomers:** hydrogens in different environments are all replaceable.
 - **Termination:** R• + R• gives an alkane with twice the carbon count.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--07-product-mixture.webp" width="900" height="890" alt="3-methylpentane drawn as a skeleton with carbons coloured by hydrogen environment: carbons 1 and 5, 2 and 4, 3, and the methyl branch. Four environments give four monochloro isomers, listed by name." loading="lazy">
+  <figcaption>Four different hydrogen environments mean four monochloro structural isomers.</figcaption>
+</figure>
+
 
 ### Method in steps: counting monohalogenated isomers
 

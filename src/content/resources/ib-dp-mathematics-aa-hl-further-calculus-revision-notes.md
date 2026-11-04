@@ -92,6 +92,12 @@ Test yourself afterwards with the [further calculus practice questions](/resourc
 
 New series come from substitution (x → 2x, x → x²), products (eˣ sin x), and term-by-term differentiation or integration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--08-maclaurin-sin.webp" width="900" height="776" alt="sin x is plotted with the Maclaurin polynomials x, x − x³/3! and x − x³/3! + x⁵/5!. Each extra term keeps the polynomial close to sin x for longer. At x = 1 the values are 0.8415, 0.8333 and 0.8417." loading="lazy">
+  <figcaption>Adding Maclaurin terms improves the fit to sin x near 0.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 **First principles (polynomial)**
@@ -163,6 +169,22 @@ New series come from substitution (x → 2x, x → x²), products (eˣ sin x), a
 1. Find y′(0) from the equation.
 2. Differentiate the equation implicitly for y″, y‴.
 3. Substitute x = 0 each time; build the series.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--02-chords-to-tangent.webp" width="900" height="844" alt="Chords from (1, −1) on f(x) = 2x² − 3x to points h = 1, 0.5 and 0.25 further along have gradients 3, 2 and 1.5, which is 1 + 2h. As h → 0 the chord becomes the tangent of gradient 1 = f′(1) = 4 − 3." loading="lazy">
+  <figcaption>As h shrinks, the chord gradient 4x + 2h − 3 settles on the derivative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--04-end-point-optimum.webp" width="900" height="746" alt="A = x(20 − 2x) is shown with the allowed domain 0 ≤ x ≤ 4 shaded. The turning point at x = 5 (A = 50) is outside the domain, so the greatest value in the domain is at the end point x = 4, where A = 48." loading="lazy">
+  <figcaption>Check the end points of the allowed interval as well as the stationary points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--06-euler-method.webp" width="900" height="766" alt="Three straight Euler steps from (0, 1) reach (0.1, 1.1), (0.2, 1.22) and (0.3, 1.362). The exact solution y = 2eˣ − x − 1 lies above the Euler path and has y(0.3) ≈ 1.400, so Euler underestimates here by about 0.038." loading="lazy">
+  <figcaption>Euler’s method follows the slope at each step, so it drifts off the exact curve.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

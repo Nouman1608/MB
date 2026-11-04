@@ -54,6 +54,12 @@ To **classify** data is to sort it into types and into categories or classes. To
 
 Quick test: 17.35 seconds makes sense, so time is continuous; 2.5 goals does not, so goals are discrete.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--01-data-types.webp" width="900" height="800" alt="A tree splits data into qualitative (words or labels) and quantitative (numbers). Quantitative data is discrete (counted, such as goals, where 2.5 makes no sense) or continuous (measured, such as a time of 17.35 seconds)." loading="lazy">
+  <figcaption>Data is qualitative or quantitative; numbers are counted (discrete) or measured (continuous).</figcaption>
+</figure>
+
+
 ### Tally tables and frequency tables
 
 A **tally table** records each item with a stroke as you go through raw data. Strokes are grouped in fives, with the fifth stroke drawn across the first four, so the total is easy to count. The **frequency** is the number of tallies in each row.
@@ -82,6 +88,12 @@ Here ||||/ stands for a gate of five. Check that the frequencies add up to 24, t
 
 Now the table can be used. The number of students who read at least 3 books is 4 + 2 + 1 = 7, which is 7/24 of the class.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--02-tally-table.webp" width="900" height="908" alt="A table for 24 students shows tally strokes grouped in fives and frequencies 3, 6, 8, 4, 2, 1 totalling 24. The rows for 3, 4 and 5 books are highlighted and sum to 7 students, 7/24 of the class." loading="lazy">
+  <figcaption>Group tally strokes in fives, then check the frequencies add up to the number of items.</figcaption>
+</figure>
+
+
 ### Grouping continuous data into classes
 
 Continuous data are tabulated in **class intervals**. The classes must not overlap and must not leave gaps, so inequality signs are used: 10 ≤ t < 15 means "10 up to but not including 15".
@@ -108,6 +120,12 @@ Total                 20
 Watch the boundary values. 15.0 goes into 15 ≤ t < 20, not 10 ≤ t < 15, because the first class does not include 15. In the same way 10.0, 20.0 and 25.0 each go in the class that **starts** at that value. 14.9 stays in 10 ≤ t < 15.
 
 Once data are grouped, individual values are lost: 7 people took 15 to 20 minutes, but the table cannot say how many took exactly 17.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--03-class-intervals.webp" width="900" height="750" alt="Twenty puzzle times are dots on a number line from 5 to 30, split into classes of width 5 with counts 1, 5, 7, 5 and 2. Values exactly on a boundary, such as 15.0, belong to the class that starts there: 15 ≤ t &lt; 20 includes 15 and excludes 20." loading="lazy">
+  <figcaption>A boundary value goes in the class that starts at that value.</figcaption>
+</figure>
+
 
 ### Two-way tables
 
@@ -140,6 +158,12 @@ Total        26        38       16     80
 Check: 26 + 38 + 16 = 80 and 32 + 48 = 80.
 
 Fill any cell where the other values in its row or column are known, then repeat. "25% of the adults" refers to the adult total, not the grand total.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--04-two-way-table.webp" width="900" height="888" alt="A two-way table of 80 club members by junior or adult and activity. Numbered badges show the order in which missing cells are found: adults 48, adult gym 12, junior gym 4, adult tennis 16, adult swimming 20. Totals 26, 38, 16 and 80 check both ways." loading="lazy">
+  <figcaption>Fill any cell whose row or column is otherwise known, then check totals both ways.</figcaption>
+</figure>
+
 
 ## 9.2 Interpreting statistical data
 
@@ -177,6 +201,12 @@ Fri    Café B  █████████████
 (c) Interpret. Café B sold more on Monday, Tuesday and Thursday. Café A sold more on Wednesday and Friday. The statement "Café B sold more every day" is false.
 
 (d) Infer. Friday was Café A's busiest day, with 70/240 = 7/24 of its weekly sales. Café A's sales vary more from day to day than Café B's: A goes from 35 to 70, B from 45 to 65.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--05-dual-bar-chart.webp" width="900" height="900" alt="Coffee sales for two cafés Monday to Friday: A 40, 35, 50, 45, 70 and B 55, 50, 45, 60, 65. B was higher on three days and A on two, so B did not sell more every day. Totals are 240 and 275." loading="lazy">
+  <figcaption>Read each bar value, then compare day by day before claiming one café is always higher.</figcaption>
+</figure>
+
 
 ### Comparing data sets
 
@@ -227,6 +257,12 @@ Class Q: median = 21,  LQ = 13,  UQ = 27,  IQR = 27 − 13 = 14
 - Class P has the smaller interquartile range (6 against 14), so the middle half of its marks were much closer together.
 
 The IQR shows the difference in consistency far more clearly than the range, which uses only the two extreme marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--06-compare-data-sets.webp" width="900" height="1050" alt="Dot strips and box plots show quiz marks for classes P and Q. Q has the higher mean (20 against 18) and median (21 against 18). P is more consistent: its interquartile range is 6 against 14, a clearer difference than the ranges 18 and 21." loading="lazy">
+  <figcaption>Compare an average and a spread, and the IQR shows consistency better than the range.</figcaption>
+</figure>
+
 
 ### Restrictions on drawing conclusions
 

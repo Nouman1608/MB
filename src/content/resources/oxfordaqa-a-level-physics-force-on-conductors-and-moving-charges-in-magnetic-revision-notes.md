@@ -35,6 +35,12 @@ Both sections assume the field is perpendicular to the current or to the velocit
 - **Base units of the tesla:** 1 T = 1 N A⁻¹ m⁻¹ = 1 kg s⁻² A⁻¹.
 - **Cyclotron:** a device that accelerates charged particles in a spiral path using a magnetic field to bend the path and an alternating electric field in a gap to speed the particle up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--04-crossed-fields-balance.webp" width="900" height="1195" alt="Top: charged particles pass between plates with E down and B into the page; qE and qBv balance when v = E/B so that particle goes straight, slower ones bend down and faster ones bend up (trajectories integrated numerically). Bottom (Cambridge only): current I through a slice of width d in a field B; carriers pile up on one edge until qE_H = Bqv, giving V_H = BI/(ntq)." loading="lazy">
+  <figcaption>Equal electric and magnetic forces give v = E/B for the selector and V_H = BI/(ntq) for the Hall slice.</figcaption>
+</figure>
+
+
 ## Formulae
 
 | Situation | Equation | Notes |
@@ -75,6 +81,12 @@ Fleming's left-hand rule: thumb gives the force, first finger the field (north t
 
 **Reminder.** F = 0.0420 N on a wire with I = 6.0 A and L = 0.35 m gives B = 0.0420 / (6.0 × 0.35) = **0.020 T**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--02-force-on-a-wire.webp" width="900" height="1050" alt="A wire carrying current into the page between a north pole on the left and a south pole on the right feels a downward force (Fleming left-hand rule: thumb force, first finger field, second finger current). A top view defines theta, and a graph of F = BIL sin theta (B = 0.35 T, I = 4.5 A, L = 0.080 m) gives 0 at 0 degrees, 0.081 N at 40 degrees and 0.126 N at 90 degrees." loading="lazy">
+  <figcaption>The force on a wire in a field depends on sin theta and is greatest at 90 degrees.</figcaption>
+</figure>
+
+
 ## Method in steps: current balance
 
 1. Zero the balance with the current off.
@@ -92,6 +104,12 @@ Fleming's left-hand rule: thumb gives the force, first finger the field (north t
 5. Direction of circulation: use the left-hand rule for the force at one point and sketch the centre on that side.
 
 **Reminder.** An electron is accelerated from rest through 120 V. Then v = √(2 × 1.60 × 10⁻¹⁹ × 120 / 9.11 × 10⁻³¹) = 6.5 × 10⁶ m s⁻¹. In a field of 4.0 × 10⁻³ T, r = 9.11 × 10⁻³¹ × 6.5 × 10⁶ / (4.0 × 10⁻³ × 1.60 × 10⁻¹⁹) = **9.2 × 10⁻³ m**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
+  <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
+</figure>
+
 
 ## Cyclotron in six lines
 
@@ -139,6 +157,17 @@ At speeds approaching the speed of light these simple results stop working, beca
 8. With equal kinetic energy, mv = √(2mEk), so r is proportional to √m. The ratio r(proton) / r(electron) = √(1.67 × 10⁻²⁷ / 9.11 × 10⁻³¹) = **43** (the proton's orbit is larger).
 9. f = BQ / (2πm) = 0.65 × 1.60 × 10⁻¹⁹ / (2π × 1.67 × 10⁻²⁷) = **9.9 × 10⁶ Hz**.
 10. The time for each semicircle is πm / (BQ), which does not depend on speed. A faster particle goes round a bigger semicircle in the same time, so it always reaches the gap when the pd reverses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--01-fields-due-to-currents.webp" width="900" height="1210" alt="Three panels show field lines of a long straight wire (circles, with B falling as 1/r), a flat circular coil and a long solenoid. The wire panel has a 1/r graph; the coil and solenoid lines are computed with the Biot-Savart law. The solenoid has a uniform field inside and a bar-magnet pattern outside." loading="lazy">
+  <figcaption>Field lines of a straight wire, a flat coil and a solenoid, with B falling as 1/r away from the wire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--09-rectification-smoothing.webp" width="900" height="1140" alt="Three graphs share the same 50 Hz input (dashed). One diode gives half-wave rectification with a gap; a bridge of four diodes gives full-wave rectification with no gap and pulses at twice the frequency; a smoothing capacitor fills the gaps, with small RC giving large ripple and large RC giving small ripple." loading="lazy">
+  <figcaption>Half-wave leaves gaps, full-wave does not, and a capacitor with a larger time constant RC gives a smoother output.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

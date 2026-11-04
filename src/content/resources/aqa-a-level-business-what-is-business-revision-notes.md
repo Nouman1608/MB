@@ -36,6 +36,12 @@ Objectives change with circumstance — survival in a downturn, growth in a boom
 
 **Profit and shareholder value can diverge**, because maximising short-run profit by cutting R&D or damaging reputation reduces long-run value. Noticing that time-horizon conflict is an evaluation point rather than a definition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+
 ## Ownership
 
 | Structure | Liability | Key issue |
@@ -52,6 +58,12 @@ Objectives change with circumstance — survival in a downturn, growth in a boom
 **Divorce of ownership from control** is the plc's structural problem: shareholders own, directors run, and objectives can diverge — directors may pursue growth or status while shareholders want returns. Share options and performance-related pay exist to realign them.
 
 **Worked example — flotation.** A private limited company considers floating on the stock market. **For**: raises substantial capital for expansion; shares become liquid and easier to sell; raises public profile and credibility. **Against**: dilutes ownership and control; vulnerable to hostile takeover; costly flotation and reporting requirements; short-term pressure from shareholders for dividends. The marks come from a **judgement that depends on context** — the scale of expansion planned, and how much the current owners value retaining control.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--02-ownership-liability.webp" width="900" height="1216" alt="Six forms of ownership with liability: sole trader unlimited, partnership usually unlimited, Ltd and plc limited, non-profit and social enterprise varies. Limited liability caps the loss at the amount invested." loading="lazy">
+  <figcaption>Liability is the key difference between forms of ownership.</figcaption>
+</figure>
+
 
 ## Stakeholders
 
@@ -80,6 +92,17 @@ the actual factor rather than just its PESTLE letter.
 | **Exchange rates** | **SPICED** — Strong Pound, Imports Cheap, Exports Dear |
 | Inflation | Raises costs and uncertainty |
 | Unemployment | Lowers wage pressure but also demand |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
 
 ## Answering the questions
 

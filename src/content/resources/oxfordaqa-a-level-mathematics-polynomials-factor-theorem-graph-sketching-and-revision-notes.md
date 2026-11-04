@@ -56,6 +56,12 @@ Each term in the first bracket meets each term in the second. Then add up the li
                    = (x − 3)(2x + 1)(x + 2)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--07-rational-divide-first.webp" width="900" height="940" alt="Graph of (x^3 - 2x^2 - 5x + 7)/(x - 3) with a vertical asymptote at x = 3 and the dashed parabola y = x^2 + x - 2. The function equals this quotient plus 1/(x - 3), so it follows the parabola far from the asymptote." loading="lazy">
+  <figcaption>After division, the polynomial part shows the long-run shape and the fraction part gives the asymptote.</figcaption>
+</figure>
+
+
 ## Method: factorise a cubic
 
 1. Test a = 1, −1, 2, −2, … (factors of the constant term) until f(a) = 0.
@@ -74,6 +80,12 @@ Each term in the first bracket meets each term in the second. Then add up the li
 | Irreducible quadratic factor | (x − 1)(x² + 1) | Crosses the x-axis once only |
 
 For the last type, a quadratic ax² + bx + c has no real roots when b² − 4ac < 0. For x² + 1, b² − 4ac = −4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--04-cubic-factor-shapes.webp" width="900" height="1160" alt="Three cubic graphs with positive x^3 term. Three distinct factors cross the axis three times, a repeated factor touches the axis, and a quadratic factor with negative discriminant gives only one crossing." loading="lazy">
+  <figcaption>Distinct, repeated and irreducible quadratic factors give crossing three times, touching, or crossing once.</figcaption>
+</figure>
+
 
 ## Finding unknown coefficients
 
@@ -95,6 +107,12 @@ For the last type, a quadratic ax² + bx + c has no real roots when b² − 4ac 
 
 Always label axis crossings with coordinates, and show a touching root as a turning point on the axis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--08-partial-fractions-sum.webp" width="900" height="880" alt="Three curves: (10x - 5)/((x + 1)(2x - 3)), 3/(x + 1) and 4/(2x - 3). Each part has one vertical asymptote, and adding the two parts point by point gives the combined curve." loading="lazy">
+  <figcaption>A fraction with two linear factors is the sum of two simpler fractions, one per asymptote.</figcaption>
+</figure>
+
+
 ## Solving by graphs
 
 - To solve f(x) = g(x), equate and rearrange to a polynomial equal to zero.
@@ -102,6 +120,12 @@ Always label axis crossings with coordinates, and show a touching root as a turn
 - Do not divide both sides by x: factor it out instead.
 - Substitute the x-values into the simpler equation to get the y-coordinates.
 - Count the intersections to count the real solutions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--05-quartic-repeated-root.webp" width="900" height="985" alt="Graph of x^4 - 3x^3 - 6x^2 + 28x - 24. It crosses the axis at x = -3 and flattens as it crosses at x = 2, which is a root three times, so f(x) = (x - 2)^3 (x + 3)." loading="lazy">
+  <figcaption>A repeated root makes the curve flatten at the axis; the factor theorem is applied again to each quotient.</figcaption>
+</figure>
+
 
 ## Transformations: y = f(x) becomes
 
@@ -121,6 +145,12 @@ Use the words reflection, translation and stretch, and give the direction and sc
 - For f(x) = x³ − 9x, the curve y = f(x − 2) has roots where x − 2 = 0, 3 or −3, so x = 2, 5 or −1.
 - y = 3f(x) keeps the same roots but multiplies every y-value by 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--06-transform-track-points.webp" width="900" height="960" alt="A downward parabola y = f(x) with maximum (2, 5) and its image y = 4 - 2f(3x - 6), an upward parabola. Three marked points move: (2, 5) to (8/3, -6), (-1, 0) to (5/3, 4) and (5, 0) to (11/3, 4). The maximum becomes a minimum." loading="lazy">
+  <figcaption>Solve the bracket for the new x-value, then apply the outside changes to y.</figcaption>
+</figure>
+
+
 ## Worked reminders: remainders and two unknowns
 
 **Negative a.** Find the remainder when 2x³ + x² − 7x + 3 is divided by (x + 3). Use a = −3.
@@ -139,6 +169,12 @@ f(−1) = 12:  −1 + p − q + 6 = 12   →  p − q = 7
 ```
 
 Adding gives 2p = 0, so p = 0, and q = −7. Check: f(1) = 1 − 7 + 6 = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--02-remainder-is-fa.webp" width="900" height="990" alt="Two cubics are drawn: f(x) = 3x^3 + 2x^2 - 7x + 4 and (x - 2)(3x^2 + 8x + 9), which always sit 22 apart. At x = 2 the gap is marked as 22, equal to f(2), the remainder when f is divided by (x - 2)." loading="lazy">
+  <figcaption>Dividing by (x - 2) leaves a remainder equal to the height f(2); the quotient part is the same curve lowered by that amount.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -178,6 +214,12 @@ For y = x² − 4x + 7, the line of symmetry is x = 2 and the vertex is (2, 3). 
 8. **Stretch in the x direction, scale factor 1/3**.
 9. Replace x by (x − 2) and subtract 3: y = (x − 2)² − 6(x − 2) − 3 = **x² − 10x + 13**.
 10. The y-intercept is (0, −2). The curve crosses the x-axis at (2, 0) and touches it at (−1, 0). The cubic has a positive leading coefficient, so it rises from the lower left to the upper right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--01-factor-theorem-graph.webp" width="900" height="1020" alt="Graph of f(x) = x cubed minus 4x squared minus 7x + 10 crossing the x-axis at minus 2, 1 and 5. Each root is marked and labelled with its linear factor (x + 2), (x - 1), (x - 5). A zero of the function corresponds to a linear factor." loading="lazy">
+  <figcaption>A root of f is where the graph meets the x-axis, and it gives a linear factor.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

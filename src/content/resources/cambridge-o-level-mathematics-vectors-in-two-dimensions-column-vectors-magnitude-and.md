@@ -67,6 +67,12 @@ A translation maps A(2, −1) onto A'(−1, 4). (a) Describe it with a column ve
 
 (b) Add the same vector to P: (1 + (−3), 2 + 5) = **(−2, 7)**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--01-column-vector-translation.webp" width="900" height="960" alt="A grid showing the translation (minus 3, 5). A (2, minus 1) moves left 3 and up 5 to A prime (minus 1, 4), and P (1, 2) moves by the same vector to P prime (minus 2, 7). The two arrows are parallel and equal in length." loading="lazy">
+  <figcaption>A column vector gives the move across and up, and every point moves by the same vector.</figcaption>
+</figure>
+
+
 ## Adding, subtracting and scaling vectors (7.2)
 
 Work on the top and bottom numbers separately.
@@ -108,6 +114,12 @@ a − b = (4 − (−2), −3 − 5) = (6, −8)
 
 Answers: **(2, 2)**, **(6, −8)**, **(16, −19)**. The common slip is 12 − (−4): subtracting a negative adds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--02-triangle-rule.webp" width="900" height="1020" alt="Points A (0,0), B (4, minus 3), C (2, 2). AB is the column 4 over minus 3 and BC, starting where AB ends, is minus 2 over 5. The direct route AC is 2 over 2, which is their sum." loading="lazy">
+  <figcaption>Going A to B then B to C is the same as going straight from A to C.</figcaption>
+</figure>
+
+
 ## Magnitude of a vector (7.3)
 
 The magnitude is the length of the vector. For the column vector (x, y), the vector is the hypotenuse of a right-angled triangle with sides x and y, so Pythagoras gives:
@@ -130,6 +142,12 @@ Magnitudes are written with modulus signs: |a| is the magnitude of a, and |AB| i
 
 Notice that |2a| = 2|a| but |a + b| is usually not |a| + |b|. Add the vectors first, then find the magnitude of the result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--03-magnitude-pythagoras.webp" width="900" height="900" alt="The vector minus 7 over 24 is the hypotenuse of a right-angled triangle with sides 7 and 24. 49 + 576 = 625 and the square root is 25, so the magnitude is 25. Signs vanish when squared." loading="lazy">
+  <figcaption>The magnitude of (x, y) is the hypotenuse of a right-angled triangle with sides x and y.</figcaption>
+</figure>
+
+
 ## Directed line segments and position vectors (7.4 (1) and (2))
 
 A directed line segment is a line with an arrow showing its direction. It represents a vector. Every arrow of the same length and direction represents the same vector.
@@ -151,6 +169,12 @@ OM = ½(OA + OB) = ½(2, 6) = (1, 3)
 ```
 
 Answers: AB = **(−4, 4)**, |AB| = **4√2** (about 5.66), OM = **(1, 3)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--04-position-vectors.webp" width="900" height="1070" alt="Points A (3, 1) and B (minus 1, 5) with position vectors a and b from O. AB = b minus a = (minus 4, 4), of magnitude 4 root 2. The midpoint M is at (1, 3), half of a plus b." loading="lazy">
+  <figcaption>AB = OB − OA: end minus start, and the midpoint is half the sum of the position vectors.</figcaption>
+</figure>
+
 
 ## Expressing vectors in terms of two others (7.4 (3))
 
@@ -217,6 +241,12 @@ MN = ON − OM = (2/5)b − (2/5)a = (2/5)(b − a) = (2/5) AB
 MN is a scalar multiple of AB, so **MN is parallel to AB**, and MN = 2/5 of AB.
 
 (b) Triangles OMN and OAB are similar with length ratio 2 : 5. The area ratio is 4 : 25, so the area of OMN is (4/25) × 50 = **8 cm²**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--05-ratio-parallel-similar.webp" width="900" height="1060" alt="Triangle OAB with M on OA and N on OB, each dividing the side 2 to 3 from O. MN is two fifths of AB, so parallel to it, and triangle OMN is similar with lengths 2 to 5 and areas 4 to 25, giving 8 square centimetres from 50." loading="lazy">
+  <figcaption>Points dividing two sides in the same ratio give a parallel line and a similar triangle with area ratio 4 : 25.</figcaption>
+</figure>
+
 
 ## Common errors
 

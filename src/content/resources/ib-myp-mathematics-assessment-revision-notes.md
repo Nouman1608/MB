@@ -34,6 +34,17 @@ four descriptor bands; the MYP subject-group guide additionally recognises a **l
 lowest band, so a single criterion's actual attainable range is 0-8, and the four-criterion subject
 total is 0-32, not 4-32.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-assessment-revision-notes--06-four-criteria.webp" width="900" height="790" alt="Four cards: A Knowing and understanding (recall and use known procedures); B Investigating patterns (find and generalise patterns); C Communicating (correct mathematical language and representation); D Applying mathematics in real-life contexts (use maths on real problems)." loading="lazy">
+  <figcaption>The four MYP Mathematics criteria A to D.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-assessment-revision-notes--07-scale-0-to-32.webp" width="900" height="930" alt="Four rows for criteria A to D, each with nine cells numbered 0 to 8 and grouped into descriptor bands 0, 1-2, 3-4, 5-6 and 7-8. Four criteria times 8 gives a subject total of 0 to 32, not 4 to 32. A level is found by matching work to the best-fit level descriptor, not by adding up exam marks." loading="lazy">
+  <figcaption>Each criterion 0 to 8, subject total 0 to 32, levels by best fit.</figcaption>
+</figure>
+
+
 ## Why there's no SL/HL split at MYP level
 
 Like every MYP subject, Mathematics does not distinguish Standard and Higher Level in the DP sense -- differentiation instead happens through the standard-vs-extended pathway choice and through the depth a student demonstrates within each criterion's band descriptors, rather than through parallel courses assessed at different overall demand.
@@ -43,14 +54,32 @@ Like every MYP subject, Mathematics does not distinguish Standard and Higher Lev
 Both assessed against the **same four criteria** — extended mathematics adds topics and depth on
 top of the standard curriculum, preparing students for DP-level mathematics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-assessment-revision-notes--08-standard-vs-extended.webp" width="900" height="860" alt="Two identical ladders of descriptor bands 1-2, 3-4, 5-6 and 7-8, one for standard and one for extended mathematics. Both reach band 7-8. Extended mathematics adds further topics and depth as preparation for DP mathematics, but is not a harder scale." loading="lazy">
+  <figcaption>Both pathways use the same bands; extended adds topics.</figcaption>
+</figure>
+
+
 ## If your school offers MYP eAssessment (year 5)
 
 A 2-hour on-screen exam, three tasks mapping to the same four criteria: knowing and understanding,
 investigating patterns, and applying mathematics in real-life contexts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-assessment-revision-notes--09-eassessment-structure.webp" width="900" height="980" alt="A clock showing a 2-hour on-screen exam in MYP year 5. Three tasks map to the same criteria used in class: task 1 knowing and understanding (criterion A), task 2 investigating patterns (B), task 3 applying mathematics in real-life contexts (D)." loading="lazy">
+  <figcaption>A 2-hour on-screen exam with three tasks mapped to the same criteria.</figcaption>
+</figure>
+
+
 ## The four criteria in more depth
 
 Each criterion is assessed against level descriptors typically organised in four bands (for example 1-2, 3-4, 5-6, 7-8): criterion A rewards accurate recall and correct application of known procedures to increasingly unfamiliar problems; criterion B rewards the ability to identify a pattern, express it in general terms (often algebraically), and justify why the generalisation holds; criterion C rewards clear, logically sequenced working using correct mathematical notation and appropriate forms of representation (tables, graphs, diagrams); criterion D rewards identifying a genuine real-life context, selecting appropriate mathematics to model it, and communicating a solution with an accurate real-world interpretation, not just a correct number. A common weakness across all four criteria is arriving at a correct final answer without showing the reasoning that earns marks under criteria B and C specifically -- an unexplained correct answer scores well under criterion A but poorly under the criteria that reward process and communication.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-assessment-revision-notes--10-answer-without-reasoning.webp" width="900" height="900" alt="Two students with the same final answer. With the answer only, criterion A is high but criteria B and C are low. With the answer and the reasoning shown, A, B and C are all high. Bars are illustrative; they are not real marks." loading="lazy">
+  <figcaption>A bare answer scores on A but not B and C; reasoning lifts all three.</figcaption>
+</figure>
+
 
 ## Why standard and extended aren't simply "easier" and "harder"
 

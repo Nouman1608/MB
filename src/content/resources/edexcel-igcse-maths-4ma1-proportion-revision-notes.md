@@ -92,6 +92,22 @@ y = 3x² = 3 × 16 = 48
 
 Pick a point where both coordinates can be read exactly, ideally one marked on the graph.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--07-eight-forms.webp" width="900" height="1250" alt="Eight small graphs with k = 1: y = kx, kx squared, kx cubed and k root x rise from the origin; the four inverse forms fall and approach both axes without touching them." loading="lazy">
+  <figcaption>The eight allowed forms and the shape of each graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--05-root-worked.webp" width="900" height="1000" alt="The graph of P = 3 times the square root of Q. The given point (16, 12) gives k = 3. Reading up from Q = 49 gives P = 21, and reading across from P = 27 gives Q = 81 because squaring undoes the root." loading="lazy">
+  <figcaption>Find k from one point, then read the graph either way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--05-inverse-constant-product.webp" width="900" height="940" alt="Graph of y = 24 over x with points (4, 6) and (8, 3). The rectangles from the origin to each point both have area 24, because x times y is always k. When x doubles, y halves." loading="lazy">
+  <figcaption>In inverse proportion x times y stays constant, so doubling x halves y.</figcaption>
+</figure>
+
+
 ### Worked reminder: no k needed
 
 y is inversely proportional to x. When x = 3, y = 20. Find y when x = 12, without finding k.
@@ -103,6 +119,17 @@ y = 20 ÷ 4 = 5
 ```
 
 Finding k (k = 60, y = 60/12 = 5) gives the same answer. Use whichever you are less likely to get wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--08-four-step-method.webp" width="900" height="850" alt="Four numbered boxes using E proportional to v squared with E = 36 when v = 3: write with k, substitute, solve for k and rewrite as E = 4v squared, then use the formula to find E = 100 when v = 5." loading="lazy">
+  <figcaption>The four steps worked through one example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--04-direct-square.webp" width="900" height="910" alt="Graph of y = 5x squared. The given point (3, 45) gives k = 5, and then at x = 5 the graph gives y = 125." loading="lazy">
+  <figcaption>Use the given pair to find k, then use k to find the unknown value.</figcaption>
+</figure>
+
 
 ## Scale factors
 
@@ -118,6 +145,17 @@ If y ∝ xⁿ and x is multiplied by c, y is multiplied by cⁿ. If y ∝ 1/xⁿ
 
 Percentage change: convert to a multiplier, raise it to the power, then convert back. A 10% rise in x with y ∝ x³ gives y × 1.331, a **33.1%** rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--03-prop-percent-powers.webp" width="900" height="900" alt="Three bars compare y after x is increased by 20 percent: y proportional to x rises 20 percent (x1.2), to x squared 44 percent (x1.44) and to x cubed 72.8 percent (x1.728). A dashed line marks the wrong answer of 60 percent." loading="lazy">
+  <figcaption>Powers multiply: a 20% rise in x gives 44% for x² and 72.8% for x³, not 40% or 60%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--03-square-the-change.webp" width="900" height="680" alt="Squares with sides 1, 2 and 3 contain 1, 4 and 9 unit squares. Doubling x multiplies y by 4 and tripling x multiplies y by 9. The multiplier on x is squared." loading="lazy">
+  <figcaption>For y = kx squared, multiplying x by a number multiplies y by that number squared.</figcaption>
+</figure>
+
+
 ## Graphs: must-know shapes
 
 With k > 0 and x > 0:
@@ -130,6 +168,27 @@ With k > 0 and x > 0:
 Reading a graph: any point on it satisfies the formula, so substitute one clear point to find k.
 
 Straight-line test: y ∝ x² gives a straight line through the origin if you plot y against x² (gradient k). The same holds for each form with the matching power on the x-axis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--01-prop-straighten.webp" width="900" height="1070" alt="Two graphs of E = 4v squared. Against v the points (1, 4), (2, 16), (3, 36) lie on a curve; against v squared they lie on a straight line through the origin. A triangle from (4, 16) to (9, 36) has run 5 and rise 20, so the gradient is 4 = k." loading="lazy">
+  <figcaption>Plot y against x² to get a straight line through the origin whose gradient is k.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--06-inverse-worked-three.webp" width="900" height="1290" alt="Three falling graphs: F = 180/r squared, a = 12/root b and y = 4000/x cubed, each with the points from the worked examples and the value of k found from the first point." loading="lazy">
+  <figcaption>The worked inverse examples drawn as graphs: each point satisfies the formula, and the first pair gives k.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--01-direct-shapes.webp" width="900" height="990" alt="Five direct proportion graphs for x from 0 to 4 with k = 1: y = x cubed, x squared, x, square root of x and cube root of x. All start at the origin and pass through (1, 1). The powers rise steeply; the roots flatten." loading="lazy">
+  <figcaption>Every direct proportion graph starts at O; powers curve upwards and roots flatten.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--02-inverse-shapes.webp" width="900" height="940" alt="Five inverse proportion graphs with k = 1: 1 over the cube root of x, the square root of x, x, x squared and x cubed. All pass through (1, 1) and fall towards the x-axis without reaching zero. Higher powers fall faster." loading="lazy">
+  <figcaption>In inverse proportion y falls as x rises, and a higher power falls faster.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -174,6 +233,17 @@ Straight-line test: y ∝ x² gives a straight line through the origin if you pl
 11. 1.1³ = 1.331, so a **33.1%** increase.
 12. y/x² = 4 every time, so **y = 4x²**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--02-prop-table-test.webp" width="900" height="910" alt="The table x = 2, 4, 5, 8 and y = 40, 20, 16, 10 with three check rows: y/x, xy and x squared times y, with bars scaled to each row. Only xy stays at 80, so y = 80/x and y = 2.5 when x = 32." loading="lazy">
+  <figcaption>Work out the quantity that should stay constant; the row that does not change shows the relationship.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--06-pumps-inverse.webp" width="900" height="1000" alt="The graph of t = 72 over n for pumps and hours. Rectangles to (4, 18), (6, 12) and (9, 8) all have area 72 because t times n is constant. 6 pumps take 12 hours and 9 pumps take 8 hours." loading="lazy">
+  <figcaption>In inverse proportion the product t × n stays the same.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing y = x² + k, or y = kx + c, instead of y = kx². In proportion k multiplies and there is no added constant.
@@ -185,6 +255,12 @@ Straight-line test: y ∝ x² gives a straight line through the origin if you pl
 - Rounding k early, so later answers are slightly out. Keep exact values or use the calculator memory.
 - Calling any curve through the origin "y ∝ x²" without checking whether it gets steeper (x², x³) or less steep (√x).
 - Saying a straight line with a y-intercept shows direct proportion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--04-ten-percent-square.webp" width="900" height="970" alt="A unit square grows by 10 percent on each side. Two strips of 0.10 and a corner of 0.01 are added, so the area is 1.21. y rises by 21 percent, not 20 percent." loading="lazy">
+  <figcaption>A 10% rise in x gives a 21% rise in y when y is proportional to x squared.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

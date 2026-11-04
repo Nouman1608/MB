@@ -59,6 +59,12 @@ The specification lists four features. Learn them as a set, because questions of
 
 A **tactical decision** is the opposite on each count: easy to reverse, lower risk, small resources, often repeated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+
 ## 3. How SWOT analysis influences the choice of strategy
 
 **SWOT** sorts the internal position (strengths and weaknesses) and the external environment (opportunities and threats). For strategic choice, the useful step is to **match** them: a sensible strategy uses strengths to take opportunities, and avoids options that expose weaknesses to threats. Section 3.4.1 expects you to calculate and interpret the SWOT data set out in 3.3.1 (financial ratios, marketing, operations and HR data) as part of this.
@@ -94,6 +100,12 @@ Gearing                 = 6 ÷ 20 × 100 = 30%
 **Step 3: match and choose.** Pushing harder at home means fighting for share in a slow market, and a 10% share suggests larger rivals who could respond. Selling the existing tiles abroad uses the spare capacity, the profitable product and the borrowing headroom against the fastest-growing demand. If exports took 60% of the spare capacity (0.84 million m²), utilisation would rise to (3.6 + 0.84) ÷ 5.0 × 100 = **88.8%**, cutting unit costs too.
 
 **Judgement:** the data points towards selling existing products in new countries. The limits: SWOT is a snapshot, the factors are not weighted, and the export opportunity depends on prices, tariffs and distribution that this data does not show.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--02-unit-cost-capacity.webp" width="900" height="840" alt="Unit cost curves for one furnace and two furnaces with points A (1.8m bottles, 90% used, 0.60), B (3.2m, 80%, 0.54) and C (2.4m, 60%, 0.635). Growth lowers unit cost only if the new capacity is used." loading="lazy">
+  <figcaption>Unit cost falls with the second furnace only while capacity is well used.</figcaption>
+</figure>
+
 
 ## 4. The link between strategy and functional decisions
 
@@ -150,6 +162,12 @@ Risk generally rises as a business moves away from what it knows: market penetra
 
 The matrix shows options and relative risk but does not say which to choose. That depends on objectives, resources, the SWOT position and the expected return.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--04-price-war.webp" width="900" height="1020" alt="Profit bars for the low cost and differentiated e-bike options before and after a price war: 460,000 to 190,000 (down 58.7%) against 420,000 to 346,500 (down 17.5%)." loading="lazy">
+  <figcaption>A low contribution per bike leaves the low cost option far more exposed to price cuts.</figcaption>
+</figure>
+
+
 ### Worked example: Orrisdale Cycles
 
 Orrisdale runs bike hire and repair in one city. Its revenue is £2.1 million in a city cycle-services market worth £14 million. Four ideas are on the table:
@@ -169,6 +187,12 @@ Increase needed       = (2.94 − 2.1) ÷ 2.1 × 100 = 40%
 ```
 
 A 40% revenue rise in one year from a loyalty card in the same city is ambitious. The analysis suggests combining penetration with product development, which uses the existing customer base and adds a new revenue stream. Diversification into cafés uses few of Orrisdale's skills and carries the most risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--01-ansoff-matrix.webp" width="900" height="1048" alt="A two by two grid of existing/new products against existing/new markets giving market penetration, product development, market development and diversification, with risk rising towards diversification. Orrisdale example: raising share from 15% to 20% needs a 40% revenue rise." loading="lazy">
+  <figcaption>Four options sit in a grid by product and market, and risk rises as the business moves away from what it knows.</figcaption>
+</figure>
+
 
 ## 6. Implications for the functional areas
 

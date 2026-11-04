@@ -42,6 +42,12 @@ Practise: [practice questions](/resources/oxfordaqa-a-level-business-mission-obj
 
 **Value depends on:** how specific it is; whether leaders act on it; whether it matches how the business really behaves. A vague or public-relations mission adds little and can breed cynicism when behaviour contradicts it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Measure | Formula |
@@ -71,6 +77,12 @@ Practise: [practice questions](/resources/oxfordaqa-a-level-business-mission-obj
 | Labour cost per unit | total labour costs ÷ units of output |
 
 Non-formula data you must still interpret: customer satisfaction scores, environmental impact data (emissions, waste, energy use), employee engagement scores, employee representation rates (the share of staff represented by a trade union or similar body) and employee retention (the percentage of employees still at the business a year after recruitment).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
+  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
+</figure>
+
 
 ## Method: turning data into strengths and weaknesses
 
@@ -117,6 +129,12 @@ Example reminder: a current ratio of 1.2 is a weakness only if the industry norm
 
 **Stakeholder actions:** boycotts, strikes, resignations, tighter credit, refused loans, share sales or votes against directors, regulation, planning objections. Effects: higher costs, delays, lost sales, damaged reputation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Mission vs objective**: purpose in words vs a measurable target with a deadline.
@@ -156,6 +174,22 @@ Example reminder: a current ratio of 1.2 is a weakness only if the industry norm
 10. **Threat**: it is external and outside the firm's control.
 11. **High power, low interest: keep satisfied.** Its power could rise sharply if repayments look at risk.
 12. It is too vague to guide decisions, or behaviour contradicts it (either answer).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--03-decision-tree.webp" width="900" height="1020" alt="Decision tree: launching costs 300 thousand pounds and leads to success (60 percent, 800) or failure (40 percent, 200). Expected value 560, net gain 260. An illustrative do-nothing branch worth 0 is shown dashed." loading="lazy">
+  <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
+  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
+  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

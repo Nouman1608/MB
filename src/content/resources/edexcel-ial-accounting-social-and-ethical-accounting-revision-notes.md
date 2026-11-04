@@ -82,6 +82,12 @@ Use them to **test** a financial answer. If the figures say "do it" but the non-
 
 **Conflict** is the key word: owner versus employees on wages, owner versus community on relocation, customers versus suppliers on price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--07-cafe-closure.webp" width="900" height="1060" alt="A waterfall for the café: gross profit 54,000 less wages 46,000 leaves 8,000; less apportioned overheads of 12,600 gives a 4,600 loss on paper. Closing it leaves the 63,000 overheads in place, so total profit falls from 53,000 to 45,000." loading="lazy">
+  <figcaption>A department that makes a loss after apportioned overheads can still add to total profit.</figcaption>
+</figure>
+
+
 ## 1.6.4 Ethics: where it arises
 
 | Area of judgement | Unethical push | Concept broken |
@@ -94,6 +100,12 @@ Use them to **test** a financial answer. If the figures say "do it" but the non-
 | Ratios and projections | Showing only good ratios; unrealistic growth | True and fair representation |
 
 Ethical decisions also cover choices that are legal but unfair: unsafe suppliers, deliberate late payment of small suppliers, hiding faults.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--08-pressure-on-profit.webp" width="900" height="940" alt="A waterfall from draft profit 41,600 to 51,040: switching depreciation method adds 2,520 (breaks consistency), cutting the debt allowance adds 2,720 (breaks prudence) and recording an undelivered order adds 4,200 (breaks realisation). Profit is overstated by 9,440." loading="lazy">
+  <figcaption>Three convenient changes lift profit by $9,440 and each breaks an accounting concept.</figcaption>
+</figure>
+
 
 ## Method in steps: evaluating a decision
 
@@ -160,6 +172,17 @@ Leaving the bill out makes the business look both more profitable and more liqui
 8. Consistency.
 9. Any two: fines, compensation claims, clean-up costs, lost customers, higher staff turnover.
 10. It may lend on the basis of profits that will not be earned, so the loan and interest may not be repaid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--06-governance-checks.webp" width="900" height="910" alt="Shareholders appoint the board and the external auditors; auditors report back to shareholders. The board has a chair and a CEO who are different people, plus independent non-executive directors. Audit and remuneration committees, made of independent NEDs, sit below; the remuneration committee sets directors’ pay. AQA only: comply or explain." loading="lazy">
+  <figcaption>Independent checks stop directors from marking their own homework.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--09-spreadsheet-whatif.webp" width="900" height="1010" alt="Two grids show the production budget before and after one input changes from 38 to 41. Materials cost goes from 15,770, 18,050, 19,570 (total 53,390) to 17,015, 19,475, 21,115 (total 57,605), an increase of 4,215." loading="lazy">
+  <figcaption>Changing one input cell recalculates every formula that depends on it.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

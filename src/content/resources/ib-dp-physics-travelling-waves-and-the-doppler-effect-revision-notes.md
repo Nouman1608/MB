@@ -66,6 +66,12 @@ Related pages: the [course hub](/boards/ib/ib-dp/physics/), the [printable check
 
 Mechanical waves need a medium and can be transverse or longitudinal. Electromagnetic waves do not need a medium and are always transverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--05-em-wave-structure.webp" width="900" height="980" alt="An EM wave drawn with the electric field in one plane and the magnetic field in a plane at right angles, both perpendicular to the direction of travel. It needs no medium and travels at c = 3.00 x 10^8 m/s in a vacuum, so c = f lambda; 94.5 MHz gives 3.17 m." loading="lazy">
+  <figcaption>EM waves are transverse oscillations of E and B fields that cross a vacuum at c.</figcaption>
+</figure>
+
+
 ### Orders of magnitude of wavelength (rough)
 
 | Region | Wavelength |
@@ -80,6 +86,12 @@ Mechanical waves need a medium and can be transverse or longitudinal. Electromag
 
 Order from long to short wavelength: radio, microwave, infrared, visible, ultraviolet, X-ray, gamma. The order of frequency is the reverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--06-em-spectrum-wavelengths.webp" width="900" height="1100" alt="A vertical logarithmic wavelength scale places radio (0.1 m and above), microwave, infrared, visible, ultraviolet, X-ray and gamma ray bands at the approximate ranges given in the lesson. The boundaries overlap, so the values are rough." loading="lazy">
+  <figcaption>Wavelength ranges of the EM spectrum on a log scale.</figcaption>
+</figure>
+
+
 ### Method: particle motion from a graph
 
 1. Identify the direction of travel of the wave.
@@ -87,6 +99,27 @@ Order from long to short wavelength: radio, microwave, infrared, visible, ultrav
 3. Compare the new value at the particle with its old one. Higher means moving up (or forward); lower means moving down (or backward).
 4. For a longitudinal wave, a compression is at a point of zero displacement where the particles on either side are displaced towards it. A rarefaction is at zero displacement where they are displaced away.
 5. A particle at maximum displacement is momentarily at rest. A particle at zero displacement is moving at its greatest speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--01-transverse-vs-longitudinal.webp" width="900" height="890" alt="A rope wave moves particles at right angles to travel; a sound wave moves them along the travel direction. Each highlighted particle only vibrates about its rest position while the pattern moves on. The longitudinal row shows a compression (bunched) and a rarefaction (spread)." loading="lazy">
+  <figcaption>Particles vibrate at right angles to travel in a transverse wave and along travel in a longitudinal wave.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--02-wave-quantities.webp" width="900" height="1060" alt="Two graphs of the same rope wave. Displacement against position shows wavelength 0.80 m between crests and the amplitude; displacement against time for one particle shows period 0.40 s. v = f lambda = lambda/T gives 2.0 m/s." loading="lazy">
+  <figcaption>Wavelength is read from a position graph and period from a time graph; v = fλ = λ/T.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--03-particle-motion-transverse.webp" width="900" height="1050" alt="A solid curve is the wave at t = 0 and a dashed curve is the same wave T/4 later, moved 0.50 m to the right. Arrows from old to new displacement show particles at x = 0 and 0.5 m moving down and at 1.0 and 1.5 m moving up." loading="lazy">
+  <figcaption>Slide the snapshot forward in the direction of travel to find which way each particle moves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--04-compressions-from-displacement.webp" width="900" height="1010" alt="A longitudinal displacement graph (+3 mm at lambda/4, -3 mm at 3 lambda/4) sits above columns of particles drawn from the same function. At lambda/2 the displacement is zero but neighbours are pushed towards it, so it is the centre of a compression; at 0 and lambda the neighbours move apart, giving rarefactions." loading="lazy">
+  <figcaption>A compression is centred where displacement is zero and neighbours converge.</figcaption>
+</figure>
+
 
 ## C.5 Doppler effect
 
@@ -114,6 +147,12 @@ Method: find Δλ, divide by λ, multiply by c. A positive Δλ means redshift a
 
 Spectral lines: compare a star's or galaxy's lines with the laboratory wavelengths. The direction and size of the shift give the line-of-sight velocity. A repeating back-and-forth shift suggests orbital motion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--09-redshift-spectral-lines.webp" width="900" height="1060" alt="Hydrogen line at 486.1 nm in the laboratory appears at 489.6 nm in a distant galaxy, 3.5 nm longer, so a redshift. v = c Δλ/λ = 2.16 x 10^6 m/s away from us; v/c = 0.0072 so the approximation holds." loading="lazy">
+  <figcaption>A spectral line moved to longer wavelength shows the source receding.</figcaption>
+</figure>
+
+
 ### HL only: sound and mechanical waves
 
 | Case | Formula | Sign rule |
@@ -125,10 +164,22 @@ Never both moving. Wavelength from a moving source: λ′ = (v − us)/f in fron
 
 Method to find a speed: write the formula with the signs chosen from the situation, rearrange for us or uo, then substitute. Check that the answer is smaller than v.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--08-doppler-sound-calculations-hl.webp" width="900" height="1130" alt="For an 800 Hz siren moving at 25 m/s in air (340 m/s): ahead the wavelength is 0.394 m and frequency 863 Hz, at rest 0.425 m and 800 Hz, behind 0.456 m and 745 Hz. Source formula f′ = f v/(v ± us) uses minus when approaching; observer formula f′ = f(v ± uo)/v uses plus when approaching." loading="lazy">
+  <figcaption>Sign rules and numbers for the Doppler formulas for sound (HL).</figcaption>
+</figure>
+
+
 ### Medical and radar uses
 
 - Doppler ultrasound: the echo from moving blood is shifted in frequency, which gives the speed and direction of flow.
 - Radar speed checks: microwaves reflect from a moving vehicle with a shift that increases with its speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--07-doppler-wavefronts.webp" width="900" height="1225" alt="Top: a source moving right at 0.4 of the wave speed emits circular wavefronts that bunch up ahead (shorter wavelength, higher frequency) and spread out behind. Bottom: a source at rest gives evenly spaced fronts; an observer moving towards it meets fronts more often, so f is higher but wavelength is unchanged." loading="lazy">
+  <figcaption>Wavefronts bunch ahead of a moving source; a moving observer meets fronts more often.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

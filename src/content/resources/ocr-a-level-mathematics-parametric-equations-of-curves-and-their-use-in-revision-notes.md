@@ -29,6 +29,12 @@ These notes condense parametric equations of curves for OCR A Level Mathematics 
 - **Direction:** the curve is traced in the direction of increasing parameter. A Cartesian equation has no direction.
 - **Range of the parameter:** decides which part of the curve exists, and can make some Cartesian points unreachable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--01-plot-from-table.webp" width="900" height="1102" alt="x = t^2 - 4, y = 2t for t = -3..3 gives a sideways parabola with vertex (-4,0); crossings (0,4) at t=2, (0,-4) at t=-2, (-4,0) at t=0; arrows show direction of increasing t." loading="lazy">
+  <figcaption>Each value of t gives one point, and increasing t gives the curve a direction.</figcaption>
+</figure>
+
+
 ## Conversion toolkit
 
 | Situation | Move |
@@ -61,6 +67,37 @@ Parametric forms are **not unique**. Many correct answers exist for the same cur
 **Reminder.** x = 2 − 5t and y = t² + 1 give t = (2 − x)/5 and y = (2 − x)²/25 + 1. If t ≥ 0 is stated, then x ≤ 2.
 
 **Reminder with restriction.** x = 3 − 2cos θ means −1 ≤ cos θ ≤ 1, so 1 ≤ x ≤ 5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--02-eliminate-and-gaps.webp" width="900" height="942" alt="x = 1/(t+1), y = t/(t+1) lies on y = 1 - x, but x is never 0 so (0,1) is missing (open circle)." loading="lazy">
+  <figcaption>Eliminating t gives a line, but the parameter rules out one point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--03-ellipse-trig-identity.webp" width="900" height="902" alt="x = 2 + 6cos(theta), y = -1 + 4sin(theta) is an ellipse centre (2,-1) between x = -4..8 and y = -5..3; the triangle at theta = pi/3 shows the 6cos and 4sin sides." loading="lazy">
+  <figcaption>cos and sin from each equation, then sin^2 + cos^2 = 1, give the ellipse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--04-range-restriction.webp" width="900" height="942" alt="x = sin(theta)+cos(theta), y = sin(2theta) is only the part of y = x^2 - 1 with |x| &lt;= root 2; end points (+-root 2, 1)." loading="lazy">
+  <figcaption>The Cartesian equation alone goes on forever; the parameter limits x to between -root 2 and root 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--05-sec-tan-branch.webp" width="900" height="1050" alt="x = tan(theta), y = 3sec(theta) for -pi/2 &lt; theta &lt; pi/2 gives y = 3 root(1+x^2): upper branch only; the lower branch of y^2 = 9(1+x^2) is not reached." loading="lazy">
+  <figcaption>Squaring introduces a second branch; sec theta &gt; 0 keeps only the upper one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--06-circle-to-parametric.webp" width="900" height="1102" alt="x^2+y^2-6x+4y-12=0 completes to (x-3)^2+(y+2)^2=25, centre (3,-2) radius 5, so x = 3+5cos(theta), y = -2+5sin(theta); (6,2) shown with 5cos = 3 and 5sin = 4." loading="lazy">
+  <figcaption>Complete the square to read off centre and radius, then use cos and sin for the parametric form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--07-line-segment.webp" width="900" height="1026" alt="A(1,2) to B(5,10): x = 1+4t, y = 2+8t, 0&lt;=t&lt;=1; t=0 is A, t=1/2 the midpoint (3,6), t=1 is B." loading="lazy">
+  <figcaption>The range 0 to 1 for t selects exactly the segment between the two points.</figcaption>
+</figure>
+
 
 ## Method: Cartesian to parametric
 
@@ -105,9 +142,21 @@ y = 12(1.5) - 5(1.5)² = 18 - 11.25 = 6.75
 
 **Reminder: time above a height.** For the same ball, y ≥ 6 means 5t² − 12t + 6 ≤ 0. Solve the quadratic equation and take the interval between the roots. The roots are t = (6 ± √6)/5, about 0.710 and 1.690, so the duration is 2√6/5, about 0.980 s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--08-projectile-model.webp" width="900" height="892" alt="x = 24t, y = 15t - 5t^2: max height 11.25 m at t=1.5, lands at 72 m when t=3, above 10 m for 1&lt;=t&lt;=2, and 6.25 m high at the 60 m fence (7 m), so it does not clear it." loading="lazy">
+  <figcaption>Substituting times into both equations gives positions; the path is a parabola.</figcaption>
+</figure>
+
+
 ## Paths versus objects
 
 To find where two **paths** cross, eliminate the parameter in each and solve the Cartesian equations together. To find whether two **objects** meet, the parameters must also be equal at that point, because the objects must be there at the same time. Two paths can cross with no collision.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--10-meet-or-cross.webp" width="900" height="1152" alt="P (2t,t^2) and Q (10-2s,4s-8) have paths crossing at (4,4); P is there at t=2 but Q at s=3, so they do not meet." loading="lazy">
+  <figcaption>Paths cross where the Cartesian equations meet; objects meet only if the times match.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -142,6 +191,12 @@ To find where two **paths** cross, eliminate the parameter in each and solve the
 8. Greatest height at cos = −1, so y = 10 + 8 = **18**, reached at t = 6. One turn is 2π ÷ (π/6) = **12 s**.
 9. x = 7 gives t = 3. Then y = 9 − 12 = −3. **Yes**, at t = 3.
 10. −1 ≤ cos θ ≤ 1, so **1 ≤ x ≤ 5**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--09-wheel-model.webp" width="900" height="1184" alt="x = 14sin(pi t/15), y = 16 - 14cos(pi t/15) is a circle centre (0,16) radius 14, lowest 2 m, highest 30 m, period 30 s; above 25 m for 10.83 &lt; t &lt; 19.17, about 8.33 s per turn." loading="lazy">
+  <figcaption>The seat moves round a circle, and the heights above 25 m form one arc.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

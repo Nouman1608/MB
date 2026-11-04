@@ -77,6 +77,12 @@ energy is also in the [Energy changes revision notes](/resources/aqa-gcse-chemis
 - Horizontal → reaction has stopped (one reactant used up).
 - A faster reaction with the same amounts reaches the **same** final amount, sooner.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--03-rate-graph.webp" width="900" height="1020" alt="A flask connects to a gas syringe. A graph of gas volume against time shows a steep curve for a fast reaction and a shallow one for a slow reaction, both levelling at 60 cm3." loading="lazy">
+  <figcaption>Steeper gradient means faster rate; the line flattens when the reaction has finished.</figcaption>
+</figure>
+
+
 ### Comparing two runs on one graph
 
 Questions often show two curves for the same reaction under different conditions.
@@ -86,6 +92,12 @@ Questions often show two curves for the same reaction under different conditions
 - If the same amounts of reactants are used, both curves level off at the **same** final volume or mass.
 - If the final amount is **half** as big, half the amount of the limiting reactant was used -- not a slower rate.
 - A curve that levels off earlier means the reaction finished sooner.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change--04-rt-mean-rate-units.webp" width="900" height="900" alt="Three calculations of mean rate: 60 cm3 in 40 s is 1.5 cm3/s; 1.20 g lost in 150 s is 0.008 g/s; and for Higher tier 0.88 g CO2 divided by 44 is 0.020 mol, in 40 s is 0.0005 mol/s." loading="lazy">
+  <figcaption>Mean rate is quantity divided by time, and the unit matches the quantity measured.</figcaption>
+</figure>
+
 
 ## 4.6.1.2 Factors -- recall list
 
@@ -108,6 +120,17 @@ pieces), higher **temperature**, and adding a **catalyst**.
 
 **Control:** temperature, volumes, same cross and same observer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change--12-rt-cross-method.webp" width="900" height="1220" alt="A flask on a paper cross viewed from above, then top-down circles showing the cross visible at the start and hidden at the end. At 0.10 mol/dm3 the cross vanishes after 80 s (1/t = 0.0125 per s); at 0.20 mol/dm3 after 40 s (1/t = 0.025 per s). Bars show 1/t doubling." loading="lazy">
+  <figcaption>Time for the cross to disappear gives rate as 1/t, and doubling concentration doubles it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change--06-rt-rp5-gas-syringe.webp" width="900" height="740" alt="A flask of hydrochloric acid with magnesium ribbon and hydrogen bubbles, a delivery tube to a gas syringe, and a stopwatch to read the volume every 10 s. Concentration changes; Mg length, acid volume and temperature stay the same." loading="lazy">
+  <figcaption>Method 1 collects hydrogen from magnesium and acid in a gas syringe.</figcaption>
+</figure>
+
+
 ## 4.6.1.3 Collision theory -- method in steps
 
 To explain any rate change:
@@ -122,11 +145,33 @@ pieces have a larger ratio, so the rate is faster.
 **Proportionality.** Double the concentration → about double the collision frequency → about double the rate.
 Example: times of 50 s and 25 s give 1/t of 0.02 and 0.04 s⁻¹ -- the rate doubled.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change--13-rt-surface-volume.webp" width="900" height="960" alt="A 2 cm cube (area 24 cm2, volume 8 cm3, ratio 3:1) is cut into eight 1 cm cubes (area 48 cm2, volume 8 cm3, ratio 6:1). The area doubles, so more particles are exposed." loading="lazy">
+  <figcaption>Cutting a solid into smaller pieces keeps its volume but doubles its surface area here.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--02-rate-factors.webp" width="900" height="1154" alt="Before/after boxes show more particles per volume, a gas squeezed by a piston, a cube crushed into eight (area doubles), and more particles with enough energy at higher temperature." loading="lazy">
+  <figcaption>Each factor increases collision frequency or the share of collisions with enough energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--01-collision-theory.webp" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
+  <figcaption>Slow collisions bounce apart; collisions with at least E_a produce a new substance.</figcaption>
+</figure>
+
+
 ## 4.6.1.4 Catalysts
 
 - Provide a different pathway with a **lower activation energy**.
 - Not used up; mass unchanged at the end; not in the chemical equation.
 - Catalysed reaction profile: same reactant and product levels, **lower hump**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
 
 ## 4.6.2.1–4.6.2.3 Reversible reactions and equilibrium
 
@@ -136,6 +181,22 @@ Example: times of 50 s and 25 s give 1/t of 0.02 and 0.04 s⁻¹ -- the rate dou
 - Hydrated copper sulfate (blue) ⇌ anhydrous copper sulfate (white) + water. Forward endothermic; adding water to
   the white solid is exothermic.
 - Equilibrium needs a closed system; forward rate = reverse rate. Reactions do not stop.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change--05-rt-reversible-energy.webp" width="900" height="830" alt="Blue hydrated and white anhydrous copper sulfate tubes joined by heat and add-water arrows, above an energy diagram in which the upward endothermic arrow and downward exothermic arrow have equal length." loading="lazy">
+  <figcaption>The same energy is transferred in each direction of a reversible reaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--05-hydrated-anhydrous.webp" width="900" height="970" alt="Copper(II) sulfate: blue hydrated crystals turn white when heated and blue again on adding water. Cobalt(II) chloride: pink hydrated turns blue when heated and pink again with water." loading="lazy">
+  <figcaption>Heating hydrated crystals drives off water; adding water reverses the change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
 
 ## 4.6.2.4–4.6.2.7 Changing conditions (Higher tier only)
 
@@ -150,6 +211,22 @@ Example: times of 50 s and 25 s give 1/t of 0.02 and 0.04 s⁻¹ -- the rate dou
 
 **Worked reminder.** N₂O₄(g) ⇌ 2NO₂(g), forward endothermic. Increasing the temperature increases the relative
 amount of NO₂. Increasing the pressure shifts left (1 molecule vs 2).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change--11-rt-tangent-gradient.webp" width="900" height="750" alt="A gas volume against time curve with a dashed tangent at 25 s through (5 s, 12 cm3) and (45 s, 60 cm3). A triangle shows 40 s across and 48 cm3 up, so the gradient is 48/40 = 1.2 cm3/s, the rate at 25 s." loading="lazy">
+  <figcaption>The gradient of a tangent gives the rate at one moment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change--14-rt-pressure-shift.webp" width="900" height="970" alt="2SO2 + O2 &lt;=&gt; 2SO3 has 3 gas molecules on the left and 2 on the right, so higher pressure shifts the equilibrium right and more SO3 forms. H2 + I2 &lt;=&gt; 2HI has 2 molecules each side, so pressure has no effect." loading="lazy">
+  <figcaption>Pressure shifts equilibrium towards the side with fewer gas molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change--15-rt-temperature-concentration.webp" width="900" height="970" alt="A 2x2 grid: for a forward endothermic reaction, raising temperature gives more products and lowering gives fewer; for a forward exothermic reaction the opposite. Below, adding reactant or removing product shifts the equilibrium right, so more products form." loading="lazy">
+  <figcaption>Temperature and concentration changes shift equilibrium in a predictable direction.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

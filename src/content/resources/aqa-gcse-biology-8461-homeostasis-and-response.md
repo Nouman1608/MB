@@ -91,6 +91,12 @@ Percentage change = (0.27 − 0.32) / 0.32 × 100 = −15.6%
 
 Reaction time fell by **15.6%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--10-homeo-reaction-time.webp" width="900" height="900" alt="Dot plot of five reaction times before (mean 0.32 s) and after (mean 0.27 s) cola, a fall of 15.6%." loading="lazy">
+  <figcaption>Mean reaction time fell by 15.6% after cola.</figcaption>
+</figure>
+
+
 ### The brain (4.5.2.2)
 
 
@@ -105,6 +111,12 @@ Identify three regions on a diagram:
 - **Medulla** -- at the base, joined to the spinal cord: controls unconscious activities such as heart rate and breathing.
 
 **Higher tier only.** Scientists mapped brain regions by studying patients with brain damage, electrically stimulating parts of the brain, and using MRI scanning. The brain is complex and delicate, so investigating and treating brain disorders is very difficult.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--09-homeo-brain-regions.webp" width="900" height="1110" alt="Side view with cerebral cortex, cerebellum and medulla labelled with their functions; Higher tier note on how regions were mapped." loading="lazy">
+  <figcaption>The cortex, cerebellum and medulla have different jobs.</figcaption>
+</figure>
+
 
 ### The eye (4.5.2.3)
 
@@ -134,6 +146,28 @@ In dim light the iris widens the pupil so more light reaches the retina.
 </figure>
 <!-- /marlbridge-diagram:bio-gap-aqa-gcse-eye-accommodation-and-correction-rays -->
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--06-eye-structure.webp" width="900" height="860" alt="Section through the eye with light entering from the left. Labels mark the cornea, iris, lens, suspensory ligaments, ciliary muscles, sclera, retina and optic nerve." loading="lazy">
+  <figcaption>Label the parts of the eye named in the specification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--07-accommodation.webp" width="900" height="1240" alt="For a near object the ciliary muscles contract, the suspensory ligaments loosen and the lens is thick so it bends light more. For a distant object the muscles relax, the ligaments are pulled tight and the lens is thin so it bends light less. Rays focus on the retina in both." loading="lazy">
+  <figcaption>Accommodation: ciliary muscles and ligaments change the lens shape to focus on the retina.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--08-sight-defects.webp" width="900" height="1010" alt="Four eye diagrams with rays. Short sight: rays meet in front of the retina; a concave lens moves the focus back onto the retina. Long sight: rays from a near object would meet behind the retina; a convex lens moves the focus onto the retina." loading="lazy">
+  <figcaption>Concave lenses correct short sight and convex lenses correct long sight.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Extended panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
+</figure>
+
+
+
 ### Control of body temperature (4.5.2.4)
 
 The **thermoregulatory centre** in the brain contains receptors sensitive to blood temperature. Skin temperature receptors also send it impulses.
@@ -142,6 +176,22 @@ The **thermoregulatory centre** in the brain contains receptors sensitive to blo
 - **Too cold:** blood vessels constrict (**vasoconstriction**), sweating stops, and skeletal muscles contract (**shiver**).
 
 **Higher tier only.** Explain these in context: vasodilation sends more blood near the surface, so more energy is transferred to the surroundings; evaporating sweat transfers energy from the skin. Vasoconstriction does the reverse. Shivering needs respiration, which releases energy that warms the body.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--09-body-temperature.webp" width="900" height="1010" alt="The thermoregulatory centre senses blood temperature. Too hot: skin blood vessels widen, sweat evaporates and more energy goes to the surroundings. Too cold: vessels narrow, sweating stops and muscles shiver, releasing energy from respiration. HT marks the Higher tier explanations." loading="lazy">
+  <figcaption>Vasodilation and sweating cool the body; vasoconstriction and shivering warm it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--01-reflex-arc.webp" width="900" height="1000" alt="Schematic reflex arc: a pin pricks the skin, a receptor starts an impulse that travels along a sensory neurone into the spinal cord, a relay neurone, a motor neurone, then to the leg muscle (effector) which contracts. Arrowheads show impulse direction. The sensory neurone cell body sits on a short branch; the motor neurone cell body is in the cord." loading="lazy">
+  <figcaption>Follow the numbered pathway from stimulus to response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
+</figure>
+
 
 ## Hormonal coordination (4.5.3)
 
@@ -174,6 +224,12 @@ Time = 120 − 30 = 90 min
 Rate = 2.7 / 90 = 0.03 mmol/dm³ per minute
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1290" alt="Extended. Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
+  <figcaption>Each response reverses the change, returning glucose towards the set point.</figcaption>
+</figure>
+
+
 ### Water and nitrogen balance (4.5.3.3)
 
 <!-- marlbridge-diagram:bio-b27-aqa-dialysis-countercurrent -->
@@ -203,6 +259,27 @@ The example says that 30 g of the stated 54 g filtered mass is excreted in the u
 
 **Kidney failure** is treated by **dialysis** or a **transplant**. In dialysis, blood flows past a partially permeable membrane. The dialysis fluid has the same glucose and ion concentrations as normal blood, so these are not lost, but no urea, so urea diffuses out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--10-dialysis.webp" width="900" height="950" alt="Blood and dialysis fluid flow past a partially permeable membrane. Urea is high in the blood and absent from fresh fluid, so it diffuses out. The fluid has glucose and ion levels like blood, so these do not leave. Blood cells are too large to pass." loading="lazy">
+  <figcaption>Dialysis fluid has no urea but normal glucose and ions, so only urea is removed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--12-homeo-kidney-numbers.webp" width="900" height="740" alt="Of 180 dm3 filtered, 178.5 is reabsorbed (99.2%) and 1.5 leaves as urine; of 54 g of urea, 30 g (55.6%) is in the urine." loading="lazy">
+  <figcaption>Almost all the water is reabsorbed but a large share of urea is excreted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--04-nephron.webp" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct." loading="lazy">
+  <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--07-liver-urea-route.webp" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine." loading="lazy">
+  <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea.</figcaption>
+</figure>
+
+
 ### Hormones in reproduction (4.5.3.4)
 
 <!-- marlbridge-diagram:bio-b26-aqa-reproductive-hormone-cycle -->
@@ -220,6 +297,12 @@ At puberty, reproductive hormones cause secondary sex characteristics. **Oestrog
 - **Oestrogen** and **progesterone** (ovary) maintain the uterus lining.
 
 **Higher tier only.** FSH stimulates the ovary to make oestrogen. Rising oestrogen inhibits FSH and stimulates LH. The LH surge triggers ovulation around day 14. Progesterone keeps the lining thick and inhibits FSH and LH. If no pregnancy occurs, progesterone falls, the lining breaks down, and FSH can rise again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
+</figure>
+
 
 ### Contraception (4.5.3.5)
 
@@ -246,9 +329,21 @@ A fertility drug of **FSH and LH** may help a woman ovulate and become pregnant 
 </figure>
 <!-- /marlbridge-diagram:bio-b26-aqa-ivf-process -->
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--13-homeo-ivf-steps.webp" width="900" height="1060" alt="Five IVF steps from hormone treatment to inserting embryos, and a success bar of 104 births from 400 cycles (26%)." loading="lazy">
+  <figcaption>IVF has five steps and a success rate of 26% in the lesson example.</figcaption>
+</figure>
+
+
 ### Adrenaline and thyroxine (4.5.3.7) -- Higher tier only
 
 **Adrenaline** from the adrenal glands is released in fear or stress. It increases heart rate and boosts delivery of oxygen and glucose to the brain and muscles, preparing the body for "fight or flight". **Thyroxine** from the thyroid gland stimulates the basal metabolic rate and is important in growth and development. Thyroxine levels are controlled by **negative feedback**: a fall in thyroxine leads to more stimulation of the thyroid, and a rise leads to less.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--03-nervous-vs-hormonal.webp" width="900" height="1080" alt="A nervous route (CNS to muscle by neurones) is very fast; a hormonal route (gland, blood, target organ) is slower. A sketch graph shows the nervous effect peaking quickly and ending soon, the hormonal effect rising later and lasting longer." loading="lazy">
+  <figcaption>Nervous control is very fast and short; hormonal control is slower and longer lasting.</figcaption>
+</figure>
+
 
 ## Plant hormones (4.5.4)
 
@@ -279,6 +374,17 @@ Investigate the effect of light or gravity on newly germinated seedlings; record
 - **Auxins:** weed killers, rooting powders, promoting growth in tissue culture.
 - **Ethene:** controls ripening of fruit during storage and transport.
 - **Gibberellins:** end seed dormancy, promote flowering, increase fruit size.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-homeostasis-and-response--11-homeo-root-gravitropism.webp" width="900" height="1010" alt="A sideways root with auxin on its lower side, then bent downwards because the lower side grows more slowly." loading="lazy">
+  <figcaption>Auxin on the lower side slows growth there, so the root bends down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1080" alt="Extended. Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
+  <figcaption>Longer shaded-side cells bend the shoot towards the light.</figcaption>
+</figure>
+
 
 ## Common errors
 

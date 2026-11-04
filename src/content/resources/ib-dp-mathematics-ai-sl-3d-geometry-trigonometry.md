@@ -64,6 +64,12 @@ For points A(x₁, y₁, z₁) and B(x₂, y₂, z₂):
 
 These are the 2D results with a z-term added.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--01-distance-midpoint-3d.webp" width="900" height="930" alt="A box with edges 6, 4 and 12 has A(2, -1, 5) and B(8, 3, -7) at opposite corners. Pythagoras twice gives AB squared = 36 + 16 + 144 = 196, so AB = 14. The midpoint M, found by averaging coordinates, is (5, 1, -1)." loading="lazy">
+  <figcaption>The 3D distance formula is Pythagoras applied twice inside a box.</figcaption>
+</figure>
+
+
 ### Worked example 1
 
 Find the distance between A(2, −1, 5) and B(8, 3, −7), and the midpoint of AB.
@@ -85,6 +91,12 @@ midpoint = ((2 + 8)/2, (−1 + 3)/2, (5 + (−7))/2) = (5, 1, −1)
 
 For a cone, l = √(r² + h²). For a pyramid, the height of a triangular face (its slant height) is not the vertical height. Find it from a right-angled triangle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--03-hemisphere-cone-solid.webp" width="900" height="810" alt="A hemisphere of radius 6 cm with a cone of height 8 cm on its flat face. The slant height is 10 cm. Outside surface is 60 pi (cone) plus 72 pi (hemisphere) = 132 pi, about 415 square cm; volume is 240 pi, about 754 cubic cm. The joint circle is not counted." loading="lazy">
+  <figcaption>Only the curved outside surfaces count in the surface area of a hemisphere and cone joined face to face.</figcaption>
+</figure>
+
+
 ### Worked example 2: a combined solid
 
 A toy is a solid hemisphere of radius 6 cm with a right cone of the same radius and height 8 cm fixed to its flat face. Find its volume and total surface area.
@@ -105,6 +117,12 @@ The guide asks for the angle between two intersecting lines, or between a line a
 1. From a point on the line, drop a perpendicular to the plane.
 2. Join the foot of that perpendicular to where the line meets the plane. This is the projection of the line on the plane.
 3. The angle you want is between the line and its projection, in a right-angled triangle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--02-pyramid-angles.webp" width="900" height="1110" alt="Two copies of a right pyramid with base side 10 and height 12. The angle between a sloping edge and the base uses half a diagonal (7.07), giving 59.5 degrees. The angle between the face line to an edge midpoint and the base uses half a side (5), giving 67.4 degrees." loading="lazy">
+  <figcaption>The angle between a line and a plane is measured against the line's projection on that plane.</figcaption>
+</figure>
+
 
 ### Worked example 3: a right pyramid
 
@@ -168,6 +186,12 @@ a / sin 38° = 20 / sin 68°
 a = 20 sin 38° / sin 68° = 13.3 cm (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--04-obtuse-cosine-rule.webp" width="900" height="990" alt="A 7, 9, 12 triangle drawn to scale. The cosine rule gives cos C = -14/126, a negative value, so C is obtuse at 96.4 degrees, shown on a cosine graph. The area is 31.3 square cm." loading="lazy">
+  <figcaption>A negative cosine from the cosine rule means the angle is obtuse.</figcaption>
+</figure>
+
+
 ## 3.3 Applications: elevation, depression and bearings
 
 The guide expects you to build a labelled diagram from a written description. Do this every time before you calculate.
@@ -204,6 +228,17 @@ bearing of Q from H = 040° + 36.87° = 076.9° (1 d.p.)
 
 Here the angle at P happened to be a right angle. If it is not, use the cosine rule for HQ and the sine rule for the angle at H.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--05-elevation-two-points.webp" width="900" height="940" alt="From A the angle of elevation of a tower top is 32 degrees; after walking 40 m to B it is 51 degrees. Triangle ABT has angles 32, 129 and 19 degrees, the sine rule gives BT = 65.1 m, and the height is BT sin 51 = 50.6 m." loading="lazy">
+  <figcaption>Two elevation angles from points in line with a tower give its height via the sine rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--06-bearings-back-bearing.webp" width="900" height="940" alt="A boat sails 12 km on bearing 040 to P then 9 km on bearing 130 to Q. North lines are drawn at H and P; the back bearing at P is 220, so angle HPQ is 90 degrees, HQ is 15 km and the bearing of Q from H is 076.9 degrees." loading="lazy">
+  <figcaption>Draw a north line at every point and use back bearings to find interior angles.</figcaption>
+</figure>
+
+
 ## 3.4 Arcs and sectors
 
 For a circle of radius r and a sector angle θ in degrees:
@@ -235,6 +270,17 @@ segment area = 69.81... − 49.24... = 20.6 m² (3 s.f.)
 ```
 
 This joins 3.2 and 3.4. Expect questions that link them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--07-arc-sector-fraction.webp" width="900" height="1070" alt="A sector of radius 9 cm and angle 150 degrees is 5/12 of the circle. Arc = 23.6 cm, area = 106 square cm, perimeter = 23.6 + 9 + 9 = 41.6 cm. An arc of 20 cm gives an angle of 127.3 degrees." loading="lazy">
+  <figcaption>Arc length and sector area are the same fraction, angle/360, of the circumference and area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry--08-segment-sector-minus-triangle.webp" width="900" height="910" alt="A sector of radius 10 m and angle 80 degrees has area 69.8 square m; its triangle has area 49.2 square m; the segment between chord and arc is the difference, 20.6 square m." loading="lazy">
+  <figcaption>Segment area is sector area minus triangle area.</figcaption>
+</figure>
+
 
 ## Using your GDC
 

@@ -56,6 +56,22 @@ Mass loss is poor for hydrogen-producing reactions: hydrogen is so light that th
 
 **Fair test checklist.** One independent variable; control the volume and concentration of acid, mass and size of solid, temperature; repeat, ignore anomalies, average.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--01-cr-rate-apparatus.webp" width="900" height="1020" alt="Top: a conical flask of reacting mixture stands on a balance with a loose cotton wool plug in its neck. Gas escapes through the plug and the balance reading falls. Bottom: a conical flask stands on paper with a cross beneath it. Seen from above, the mixture starts clear so the cross is visible, then turns cloudy as sulfur solid forms, and finally the cross cannot be seen. The clock is stopped at that point." loading="lazy">
+  <figcaption>Two methods for following a rate: mass lost with a plug in the flask, and timing a cross to disappear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--02-cr-one-over-t.webp" width="900" height="880" alt="Graph of 1/t in per second against volume of sodium thiosulfate in cm3. The four points for 50, 40, 30 and 20 cm3 (times 36, 45, 60 and 90 seconds) lie on a straight line through the origin. Doubling the volume from 20 to 40 cm3 doubles 1/t from 0.0111 to 0.0222. A table shows 1/t divided by volume is 0.00056 each time, so rate is directly proportional to concentration." loading="lazy">
+  <figcaption>Doubling the thiosulfate volume doubles 1/t, so rate is proportional to concentration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--01-apparatus.webp" width="900" height="940" alt="Seven pieces of apparatus are each labelled with what they measure: stop-watch for time, thermometer for temperature, balance for mass, burette for a variable volume of liquid, volumetric pipette for one fixed volume, measuring cylinder for an approximate volume, gas syringe for gas volume." loading="lazy">
+  <figcaption>Match each quantity to its apparatus.</figcaption>
+</figure>
+
+
 ## C5.2b, CM5.2ii and CM5.2iii: rate graphs
 
 - Product–time curves start steep and level off. Steeper = faster.
@@ -73,6 +89,12 @@ Mass loss is poor for hydrogen-producing reactions: hydrogen is so light that th
 
 **1/t.** For a fixed amount of change, rate ∝ 1/t. A run lasting 80 s has 1/t = 0.0125 s⁻¹; one lasting 20 s has 1/t = 0.050 s⁻¹, so it is **4 times** as fast. The topic does not ask for orders of reaction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--03-rate-graph.webp" width="900" height="1020" alt="A flask connects to a gas syringe. A graph of gas volume against time shows a steep curve for a fast reaction and a shallow one for a slow reaction, both levelling at 60 cm3." loading="lazy">
+  <figcaption>Steeper gradient means faster rate; the line flattens when the reaction has finished.</figcaption>
+</figure>
+
+
 ## C5.2c and C5.2d: what changes the rate, and why
 
 | Factor increased | Rate | Collision frequency | Collision energy |
@@ -86,6 +108,17 @@ Mass loss is poor for hydrogen-producing reactions: hydrogen is so light that th
 
 **Model sentence for concentration or pressure.** "Reacting particles are packed more closely, so they meet more often and successful collisions happen more often each second."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--01-collision-theory.webp" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
+  <figcaption>Slow collisions bounce apart; collisions with at least E_a produce a new substance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--02-rate-factors.webp" width="900" height="1154" alt="Before/after boxes show more particles per volume, a gas squeezed by a piston, a cube crushed into eight (area doubles), and more particles with enough energy at higher temperature." loading="lazy">
+  <figcaption>Each factor increases collision frequency or the share of collisions with enough energy.</figcaption>
+</figure>
+
+
 ## C5.2e and CM5.2iv: surface area to volume ratio
 
 **Method in steps**
@@ -95,6 +128,12 @@ Mass loss is poor for hydrogen-producing reactions: hydrogen is so light that th
 4. Ratio = surface area ÷ volume.
 
 *Worked reminder.* A 5 mm cube: 150 mm² ÷ 125 mm³ = **1.2 : 1**. Cut into 1 mm cubes: 125 × 6 = 750 mm² ÷ 125 mm³ = **6 : 1**. The smaller the pieces, the bigger the ratio, the more frequent the collisions, the faster the reaction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--05-cube-surface-area.webp" width="900" height="940" alt="A 6 mm cube has surface area 216 mm2 and volume 216 mm3. Cut into 27 cubes of 2 mm the area is 648 mm2, ratio 3:1 instead of 1:1." loading="lazy">
+  <figcaption>Smaller pieces expose more surface for the same volume.</figcaption>
+</figure>
+
 
 ## C5.2f, C5.2g and C5.2h: catalysts
 
@@ -113,9 +152,26 @@ Mass loss is poor for hydrogen-producing reactions: hydrogen is so light that th
 
 **Reaction profile with a catalyst.** Same reactant level, same product level, lower hump. Activation energy is drawn from the reactant line up to the peak.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--03-cr-catalyst-numbers.webp" width="900" height="850" alt="Energy against progress of reaction. Reactants and products are at the same levels for both curves, so the overall energy change is unchanged. The uncatalysed hump is 75 kJ/mol above the reactants and the catalysed hump is 58 kJ/mol above them, so the catalyst lowers the activation energy by 17 kJ/mol." loading="lazy">
+  <figcaption>A catalyst lowers activation energy from 75 to 58 kJ/mol without changing the energy change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
+
 ## C5.2i: enzymes
 
 Enzymes are **biological catalysts**: they speed up reactions in living things and are not used up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--04-cr-catalase.webp" width="900" height="950" alt="Two molecules of hydrogen peroxide, H2O2, are broken down with the help of the enzyme catalase into two molecules of water and one molecule of oxygen. The atoms balance: four hydrogen and four oxygen on each side. Below, the same catalase is shown before and after the reaction: enzymes are biological catalysts and are not used up." loading="lazy">
+  <figcaption>Enzymes such as catalase are biological catalysts and are not used up.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -155,6 +211,17 @@ Enzymes are **biological catalysts**: they speed up reactions in living things a
 10. The activation energy hump is lower; the reactant and product levels do not change.
 11. A catalyst in a biological system.
 12. 90 ÷ 30 = **3 times** faster (1/t is three times bigger).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--04-rate-tangent.webp" width="900" height="930" alt="Gas volume against time using the lesson table. A tangent at 50 s through 18 cm3 at 0 s and 82 cm3 at 100 s has gradient 0.64 cm3/s. Mean rate falls from 1.0 to 0.44 cm3/s." loading="lazy">
+  <figcaption>The gradient of a tangent gives the rate at one moment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--06-catalyst-powders.webp" width="900" height="1010" alt="A catalyst must speed up the reaction and be recovered with its full mass. Powder A does both; B is no faster; C is faster but 0.07 g is used up." loading="lazy">
+  <figcaption>A catalyst makes the reaction faster and is recovered unchanged.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

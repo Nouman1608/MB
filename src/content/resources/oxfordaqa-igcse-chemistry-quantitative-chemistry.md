@@ -63,6 +63,17 @@ For example, in
 two moles of magnesium react with one mole of oxygen to form two moles of
 magnesium oxide — a ratio you can scale up or down to any actual quantity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-quantitative-chemistry--04-open-closed-flask-mass.webp" width="900" height="790" alt="Closed flask stays at 150.00 g; open flask falls to 148.90 g because 1.10 g of CO2 escapes from 2.50 g CaCO3." loading="lazy">
+  <figcaption>Mass seems to fall only when a gas escapes the system.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--03-balancing-equations.webp" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
+  <figcaption>A balanced equation has the same atoms on both sides; state symbols show the physical state.</figcaption>
+</figure>
+
+
 ## The mole concept
 
 The **mole (mol)** is the unit chemists use to count particles, because
@@ -75,6 +86,17 @@ it, numerically equal to its relative formula mass. This gives the key
 relationship used throughout this topic:
 
 **amount (mol) = mass (g) ÷ molar mass (g mol⁻¹)**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--04-relative-formula-mass.webp" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
+  <figcaption>Mr is the sum of the Ar values of all atoms in the formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
+</figure>
+
 
 ## Reacting-mass calculations
 
@@ -89,6 +111,17 @@ magnesium burns completely in oxygen? (Aᵣ: Mg = 24, O = 16)
 2. From 2Mg + O₂ → 2MgO, the ratio of Mg to MgO is 1:1, so moles of MgO
 formed = 0.25 mol
 3. Mass of MgO = moles × molar mass = 0.25 × 40 = **10.0 g**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-quantitative-chemistry--05-mg-mgo-reacting-mass.webp" width="900" height="1070" alt="6.0 g Mg divided by 24 gives 0.25 mol; the 2:2 ratio gives 0.25 mol MgO; times 40 gives 10.0 g. Check: 6.0 g Mg plus 4.0 g O2 equals 10.0 g. One mole is 6.02 x 10^23 particles, so 0.25 mol Mg is about 1.5 x 10^23 atoms." loading="lazy">
+  <figcaption>Mass to moles, mole ratio, moles to mass: 6.0 g Mg makes 10.0 g MgO.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
+  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
+</figure>
+
 
 ## Molar concentration of solutions
 
@@ -106,6 +139,22 @@ remembering that 1 dm³ = 1000 cm³, so a volume in cm³ must be divided by
 amount = concentration × volume = 2.00 × (25.0 ÷ 1000) = **0.0500 mol**
 
 **Not every titration is a simple 1:1 reaction, and the mole ratio must always come from the balanced equation.** For example, in `H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O`, one mole of sulfuric acid reacts with **two** moles of sodium hydroxide. If 25.0 cm³ of 0.0500 mol dm⁻³ sulfuric acid (1.25 × 10⁻³ mol) is exactly neutralised by 20.0 cm³ of sodium hydroxide solution, the moles of NaOH used are 2 × 1.25 × 10⁻³ = 2.50 × 10⁻³ mol, giving a concentration of (2.50 × 10⁻³ × 1000) ÷ 20.0 = 0.125 mol dm⁻³ — assuming a 1:1 ratio here would halve this answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-quantitative-chemistry--03-titration-1-to-2-ratio.webp" width="900" height="700" alt="1.25e-3 mol sulfuric acid needs 2.50e-3 mol NaOH, in 20.0 cm3, giving 0.125 mol/dm3. A 1:1 assumption gives 0.0625, half the true value." loading="lazy">
+  <figcaption>The mole ratio comes from the balanced equation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--02-titration.webp" width="900" height="1075" alt="A burette of acid sits above a conical flask of alkali plus indicator, with a pipette measuring the alkali. An inset shows reading the bottom of the meniscus at eye level. Three flasks show the colour at first, a flash that fades on swirling, and one drop giving a permanent colour change: the end-point." loading="lazy">
+  <figcaption>The end-point is where one drop makes the colour change permanent; read the burette at the bottom of the meniscus.</figcaption>
+</figure>
+
 
 ## Amount of substance and gas volumes
 

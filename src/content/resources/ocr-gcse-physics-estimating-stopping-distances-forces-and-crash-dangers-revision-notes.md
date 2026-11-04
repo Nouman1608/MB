@@ -54,6 +54,17 @@ Shortcut: if the deceleration stays the same, new braking distance = old braking
 
 Reminder: with 0.8 s and 6.0 m/s², a speed of 20 m/s gives 16 m + 33 m = 49 m. A graph of stopping distance against speed curves upwards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--04-stopping-distance-curve.webp" width="900" height="970" alt="Distance against speed from 0 to 30 m/s. Thinking distance is a straight line to 24 m, braking distance is a curve to 75 m, and the total curves up to 99 m. From 10 to 30 m/s thinking distance triples and braking distance is nine times larger." loading="lazy">
+  <figcaption>Thinking distance grows in proportion to speed, braking distance with speed squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--05-stopping-distance-08s.webp" width="900" height="780" alt="Stacked bars for 10 to 30 m/s with 0.8 s reaction time and 6.0 m/s2: totals 16, 31, 49, 72, 99 m. Tripling speed triples thinking distance and multiplies braking distance by nine." loading="lazy">
+  <figcaption>Braking distance grows with the square of speed, so stopping distance curves upwards.</figcaption>
+</figure>
+
+
 ## P8.1g Dangers of large decelerations (both tiers)
 
 Chain of reasoning for a written answer:
@@ -76,6 +87,22 @@ Rule: the same change in velocity over a longer time or distance gives a smaller
 
 Reminder: a 75 kg passenger at 15 m/s stopped in 0.080 s feels about 14 000 N. Stopped in 0.40 s, it is about 2800 N.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--05-crash-force-time.webp" width="900" height="930" alt="A 75 kg passenger at 15 m/s needs about 14 000 N to stop in 0.080 s (19 times their weight) but only 2800 N to stop in 0.40 s (3.8 times their weight). Bars are to scale; five times longer gives one fifth of the force." loading="lazy">
+  <figcaption>Crumple zones and seat belts lengthen the stopping time and so reduce the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--08-crumple-distance-force.webp" width="900" height="836" alt="A 900 kg car at 12 m/s has 64 800 J of kinetic energy. Crumpling 0.80 m needs 81 000 N; crumpling 0.20 m needs 324 000 N, four times more." loading="lazy">
+  <figcaption>A shorter stopping distance means a larger force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--09-safety-features-longer-stop.webp" width="900" height="880" alt="Crumple zones lengthen the stopping distance; seat belts stretch; airbags spread the force and slow the head over longer; cycle helmets crush. Each lengthens time or distance." loading="lazy">
+  <figcaption>Safety features make the stop longer so the force is smaller.</figcaption>
+</figure>
+
+
 ## P8.1h Forces on a public road (Higher Tier only)
 
 Method: choose a mass, find a (from Δv ÷ t, or from v² = 2as), then use F = ma. Quote the answer to one or two significant figures with the assumptions.
@@ -88,6 +115,12 @@ Method: choose a mass, find a (from Δv ÷ t, or from v² = 2as), then use F = m
 | Car in a barrier crash | about 1000 kg | tens of thousands of newtons or more |
 
 Alternative route using energy: braking force = kinetic energy ÷ braking distance, because work done = force × distance. A 1000 kg car at 20 m/s has 200 000 J, so stopping in 40 m needs 5000 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--06-road-force-estimates.webp" width="900" height="750" alt="A 1250 kg car braking at 6.4 m/s2 needs 8000 N, about two thirds of its 12 250 N weight. A lorry needs about 65 000 N and a cyclist 270 N, on one scale." loading="lazy">
+  <figcaption>Estimated braking forces on the road, drawn to scale.</figcaption>
+</figure>
+
 
 ## P8.1i Large accelerations (Higher Tier only)
 
@@ -104,6 +137,12 @@ Useful rearrangements:
 - force = mass × acceleration.
 
 Example: a 1400 kg car reaches 25 m/s from rest in 10 s. a = 2.5 m/s² and F = 3500 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers--07-large-accelerations-log-scale.webp" width="900" height="740" alt="Log scale: car pulling away 2 to 3 m/s2, emergency stop 6 to 8, sports car 6.7, crash 100 or more." loading="lazy">
+  <figcaption>A crash acceleration is more than ten times an emergency stop.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

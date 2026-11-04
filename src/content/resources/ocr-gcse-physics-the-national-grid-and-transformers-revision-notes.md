@@ -38,6 +38,12 @@ Power station -> STEP-UP -> high-p.d. transmission lines -> STEP-DOWN -> homes
 | P8.2e | Explain why the grid is efficient: high p.d., so low current, so little heating in the cables |
 | P8.2f (Higher Tier only) | Link p.d.s, turns and power to the advantages of high-voltage transmission |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--06-grid-pd-route.webp" width="900" height="860" alt="Potential difference on a log scale at five stages: about 20 kV at the generator, 400 kV after step-up, 400 kV on the lines, 11 kV after step-down and 230 V at homes." loading="lazy">
+  <figcaption>The p.d. is stepped up for transmission and stepped down in stages for homes (example values).</figcaption>
+</figure>
+
+
 ## Key definitions
 
 - **National grid**: the network of cables and transformers linking power stations to users.
@@ -87,6 +93,27 @@ The specification lists the power equation Vp Ip = Vs Is as a mathematical outco
 
 A step-up transformer has 1200 turns on the primary coil. It takes 25 kV and delivers 275 kV, with 30 MW passing through and no energy wasted. The secondary turns are 1200 × 275 / 25 = 13 200. The primary current is 30 000 000 / 25 000 = 1200 A. The secondary current is 30 000 000 / 275 000 = 109 A (3 s.f.). The potential difference rises by a factor of 11 and the current falls by a factor of 11. Say this in words in an explanation: more turns on the secondary coil, so higher potential difference, so lower current for the same power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--07-step-up-transformer-example.webp" width="900" height="930" alt="Step-up transformer with 500 and 10 000 turns: 20 kV at 4000 A becomes 400 kV at 200 A; power is 80 MW on both sides." loading="lazy">
+  <figcaption>With 20 times more secondary turns the p.d. rises 20 times and the current falls 20 times; power is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--09-step-down-street-example.webp" width="900" height="930" alt="A street substation transformer with 4400 turns on the primary coil and 92 turns on the secondary coil. The primary takes 11 kilovolts at 5.0 amperes through a thin cable. The secondary delivers 230 volts at 239 amperes through a thick cable. Both sides carry 55 kilowatts of power. The turns ratio is about 47.8, so the potential difference is divided by 47.8 and the current is multiplied by 47.8. The coils are not drawn to scale." loading="lazy">
+  <figcaption>A street transformer with 4400 and 92 turns gives 230 V at 239 A from 11 kV at 5.0 A, with 55 kW on both sides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--06-transformer.webp" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Extended: power in equals power out, 18 W." loading="lazy">
+  <figcaption>A step-down transformer has fewer turns on the secondary, so the output voltage is lower.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="880" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
+  <figcaption>Ten times the voltage means one tenth of the current and one hundredth of the heating loss.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Across, not along**: 400 kV is the p.d. between the line and the ground. The p.d. along the cable is only I × R.
@@ -124,6 +151,17 @@ The specification suggests a model power line to show the energy losses at lower
 8. Power = 12 000 × 500 = 6.0 MW. Is = 6 000 000 / 240 000 = **25 A**.
 9. Vp Ip = Vs Is, so Ip = 33 000 × 60 / 132 000 = **15 A**. (Step-down: current is smaller on the primary side.)
 10. The 400 kV is the potential difference between the line and the ground. The potential difference along the cable is only the current times the cable resistance, which is small.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--08-model-power-line.webp" width="900" height="1080" alt="Three set-ups of a model power line carrying 12 watts through a line of 0.50 ohms. With a 6 volt supply the line current is 2.0 amperes, 2.0 watts are wasted in the line and 83 percent reaches the lamp. With 12 volts the current is 1.0 ampere, 0.50 watts are wasted and 96 percent reaches the lamp. With 24 volts the current is 0.50 amperes, 0.125 watts are wasted and 99 percent reaches the lamp. The thickness of the red line shows the current, and each bar shows how the 12 watts is split between the lamp and the wasted heat. Doubling the p.d. halves the current and cuts the wasted power to a quarter." loading="lazy">
+  <figcaption>For 12 W entering a 0.50 Ω line, doubling the supply p.d. halves the current and quarters the wasted power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--10-pd-along-vs-across.webp" width="900" height="960" alt="A power line strung between two pylons above the ground. A voltmeter connected between the line and the ground reads 400 kilovolts. A second voltmeter connected across the two ends of the line reads only 240 volts, which is the current of 30 amperes times the line resistance of 8.0 ohms. A bar underneath shows that 240 volts is just 0.06 percent of 400 kilovolts, a sliver too thin to see." loading="lazy">
+  <figcaption>The 400 kV is across the line to ground; along the whole cable the p.d. is only I × R = 240 V.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

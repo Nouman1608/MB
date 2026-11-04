@@ -72,6 +72,12 @@ and zinc compounds are white or colourless.
 a different frequency absorbed, so a different complementary colour is seen. That is why **ligand
 exchange changes the colour**. A change of shape (octahedral to tetrahedral) also changes the splitting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--07-colour-d-orbitals.webp" width="900" height="1050" alt="A spectrum bar from 400 to 700 nm has the 620 nm band removed. An energy diagram shows split d orbitals (three lower, two upper) with a photon lifting a d electron across the gap delta E. Delta E = hc/lambda = 3.21e-19 J per ion = 193 kJ/mol." loading="lazy">
+  <figcaption>A complex absorbs light whose energy matches delta E, promoting a d electron; we see the remaining colours.</figcaption>
+</figure>
+
+
 ### Copper(II) and cobalt(II) examples
 
 | Reagent added to the aqua ion | Copper(II) | Cobalt(II) |
@@ -94,6 +100,17 @@ With chloride, the **coordination number falls from 6 to 4** because Cl⁻ is a 
 The complex changes from octahedral to tetrahedral. The overall charge also changes (2+ to 2−) because
 each Cl⁻ carries a negative charge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-transition-elements-colour-isomerism-kstab-revision-notes--04-d-splitting-colour.webp" width="900" height="920" alt="Octahedral complexes have two higher and three lower d orbitals; tetrahedral have three higher and two lower with a smaller gap. Only Cu2+ (d9) has an electron that can jump and a vacancy; Sc3+ (d0) and Zn2+ (d10) are white." loading="lazy">
+  <figcaption>Colour needs a partly filled d sub-shell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--05-ligand-exchange.webp" width="900" height="1295" alt="Pale blue [Cu(H2O)6]2+ gives deep blue [Cu(NH3)4(H2O)2]2+ with ammonia (still six bonds) and yellow tetrahedral [CuCl4]2- with concentrated HCl (six bonds to four). Pink [Co(H2O)6]2+ becomes blue [CoCl4]2- with chloride." loading="lazy">
+  <figcaption>Ammonia swaps for water without changing coordination number, but larger chloride ions give a four-coordinate tetrahedral complex.</figcaption>
+</figure>
+
+
 ## Stereoisomerism in complexes (28.4)
 
 **en** = ethane-1,2-diamine, H₂NCH₂CH₂NH₂, a **bidentate** ligand (it bonds through both N atoms).
@@ -106,6 +123,12 @@ each Cl⁻ carries a negative charge.
 | [Co(NH₃)₄(H₂O)₂]²⁺ | octahedral | two H₂O at **90°** | two H₂O at **180°** |
 | [Ni(en)₂(H₂O)₂]²⁺ | octahedral | two H₂O at **90°** | two H₂O at **180°** |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--03-cis-trans-isomers.webp" width="900" height="1040" alt="Octahedral [Co(NH3)4Cl2]+ and square planar [Pt(NH3)2Cl2] each shown twice: with the two Cl ligands 90 degrees apart (cis) and 180 degrees apart (trans). The cis square planar form is cisplatin." loading="lazy">
+  <figcaption>Cis isomers have the two Cl ligands at 90 degrees and trans at 180 degrees; cisplatin is cis.</figcaption>
+</figure>
+
+
 ### Optical isomerism
 
 A complex shows optical isomerism when it is **not superimposable on its mirror image** (at this level:
@@ -116,6 +139,12 @@ it has no plane of symmetry).
 - **[Ni(en)₂(H₂O)₂]²⁺:** the **cis** form is chiral and has a pair of optical isomers. The **trans** form
   has a plane of symmetry, so it is **not** optically active. This complex therefore has **three**
   stereoisomers in total: trans, and the two optical isomers of cis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--04-optical-isomers.webp" width="900" height="870" alt="Two drawings of [Ni(en)3]2+ stand either side of a mirror line. Each has three curved bidentate ligands joining pairs of nitrogen atoms. They are mirror images and cannot be superimposed." loading="lazy">
+  <figcaption>[Ni(en)3]2+ exists as two non-superimposable mirror images, so it shows optical isomerism.</figcaption>
+</figure>
+
 
 ### Polarity
 
@@ -200,3 +229,9 @@ So almost all the copper(II) is present as the ammine complex.
 *These are original notes written for revision. Kstab values marked illustrative are not data-book
 values. Check the full syllabus wording in the
 [official 9701 syllabus](https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-transition-elements-colour-isomerism-kstab-revision-notes--05-kstab-worked.webp" width="900" height="890" alt="With an illustrative Kstab of 1.0e13 and ammonia at 0.20 mol per dm3 the ammine to aqua ratio is 1.6e10, shown as log-scale bars." loading="lazy">
+  <figcaption>A large Kstab means almost all the metal ion is in the complex.</figcaption>
+</figure>
+

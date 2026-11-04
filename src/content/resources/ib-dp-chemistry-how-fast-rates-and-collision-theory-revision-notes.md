@@ -69,11 +69,28 @@ Each idea is set out in full, with longer worked examples, in the [study guide](
 
 Time is the **independent** variable when you take readings at set times. It is the **dependent** variable when you time a fixed change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--01-follow-rate.webp" width="900" height="1200" alt="Four rows of apparatus: a gas syringe measuring gas volume, a flask on a balance whose reading falls from 212.47 to 212.03 g as CO2 escapes, a colorimeter showing falling absorbance, and a stopwatch timing a cross disappearing, where rate is proportional to 1/time." loading="lazy">
+  <figcaption>You follow a rate by measuring whichever property changes: volume, mass, colour or time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--02-tangent-rate.webp" width="900" height="990" alt="Concentration of crystal violet falls from 2.40 to 0.90 (x 10^-5 mol per dm cubed) over 300 s. A tangent at 0 s gives 8.0 x 10^-8, a tangent at 300 s gives 3.0 x 10^-8, and the chord between them gives the average 5.0 x 10^-8 mol dm-3 s-1." loading="lazy">
+  <figcaption>Instantaneous rates are tangent gradients; the average rate lies between them.</figcaption>
+</figure>
+
+
 ## Collision theory (2.2.2)
 
 - Reaction needs a collision with **E ≥ Ea** and the **proper orientation** (collision geometry).
 - Average kinetic energy ∝ absolute temperature (kelvin). K = °C + 273.15.
 - Doubling the kelvin temperature doubles the average kinetic energy. Raising 20 °C to 40 °C increases it by only about 7% (293.15 K → 313.15 K).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--03-energy-orientation.webp" width="900" height="1030" alt="Hydroxide hitting the Br side of bromomethane, even with high energy, bounces off. Hitting the carbon from the side opposite Br leads to CH3OH and Br-. Reaction needs enough energy and the right orientation." loading="lazy">
+  <figcaption>A collision reacts only with energy at least Ea and the right orientation.</figcaption>
+</figure>
+
 
 ## Factors (2.2.3): what changes and why
 
@@ -107,6 +124,12 @@ Time is the **independent** variable when you take readings at set times. It is 
 - Second Ea line further left, labelled Ea(cat).
 - Larger area beyond Ea(cat) → larger fraction of successful collisions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--05-temperature-mb.webp" width="900" height="1010" alt="Two Maxwell–Boltzmann curves for 17 and 47 degrees C with equal areas; the hotter curve is lower and wider with a larger shaded area beyond Ea. Bars show average kinetic energy up only 10% (320.15/290.15)." loading="lazy">
+  <figcaption>A 10% rise in average energy puts a much larger share of particles above Ea.</figcaption>
+</figure>
+
+
 ## Energy profiles (2.2.5)
 
 | Feature | Exothermic | Endothermic |
@@ -119,6 +142,22 @@ Time is the **independent** variable when you take readings at set times. It is 
 A catalyst lowers the forward and reverse barriers by the same amount. That is why it speeds both directions equally and leaves the equilibrium position unchanged (Reactivity 2.3).
 
 **Worked reminder.** An endothermic reaction has Ea = 140 kJ mol⁻¹ and ΔH = +35 kJ mol⁻¹. Ea(reverse) = 140 − 35 = **105 kJ mol⁻¹**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--06-profile-catalyst.webp" width="900" height="960" alt="An exothermic profile with delta H of -58. Uncatalysed forward Ea is 96 and reverse 154; catalysed forward 61 and reverse 119. Both barriers fall by 35 and delta H is unchanged." loading="lazy">
+  <figcaption>A catalyst lowers the forward and reverse barriers equally and leaves delta H unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--07-mb-catalyst.webp" width="900" height="900" alt="One Maxwell–Boltzmann curve with two Ea lines. The area beyond the lower catalysed Ea is larger, with the extra area shaded; the curve itself does not move." loading="lazy">
+  <figcaption>A catalyst makes more of the same particles energetic enough to react.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--08-profile-endothermic.webp" width="900" height="900" alt="An endothermic profile with products above reactants by +46. Forward Ea is 118; the reverse barrier is 118 minus 46, which is 72." loading="lazy">
+  <figcaption>For an endothermic reaction the reverse barrier is Ea minus delta H.</figcaption>
+</figure>
+
 
 ## Linking questions to have an answer for
 
@@ -163,6 +202,12 @@ A catalyst lowers the forward and reverse barriers by the same amount. That is w
 9. One curve only; add a second Ea line to the left of the first.
 10. 1/40 = **0.025 s⁻¹**.
 11. A biological catalyst.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-fast-rates-and-collision-theory--04-factors-crowding.webp" width="900" height="1080" alt="Three rows with low and high cases: 4 particles against 12 in equal boxes, 5 particles squeezed by a piston, and one block against four small pieces. More crowding or more exposed surface means more frequent collisions." loading="lazy">
+  <figcaption>Concentration, pressure and surface area all raise the frequency of collisions.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

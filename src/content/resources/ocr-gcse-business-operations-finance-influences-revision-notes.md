@@ -28,6 +28,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Production**: job, batch, flow — plus the influence of automation. **Quality**: **quality control** checks products *after* production; **quality assurance** builds checks *into* the process to prevent defects. **Location factors**: costs, proximity to market, labour, materials.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--01-job-and-flow.webp" width="900" height="960" alt="Job production: one person making one unique item to order (wedding cake, bespoke suit). Flow production: six identical bottles moving non-stop on a conveyor (bottling plant). A scale links job to flexibility and flow to low unit cost." loading="lazy">
+  <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
+
 ## Finance (5)
 
 **Sources**: loans, overdrafts, trade credit, retained profit, sale of assets, owners' capital, new partners, share issues, crowdfunding — different sources suit new vs established businesses.
@@ -42,6 +53,22 @@ Average rate of return = (average annual profit / cost of investment) x 100
 
 **Cash ≠ profit.** A business can be profitable on paper while running out of cash if customers pay late or stock ties up money.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--06-arr-rowanside-machine.webp" width="900" height="820" alt="A 50,000 pound machine is bought at the start. Four bars show forecast profits of 9,000, 13,000, 15,000 and 13,000 pounds, with a dashed line at the average of 12,500 pounds. Average rate of return is 12,500 divided by 50,000 times 100, which is 25 percent, and it rests on forecasts." loading="lazy">
+  <figcaption>The 50,000 pound machine earns an average 12,500 pounds a year, an ARR of 25% based on forecasts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-finance--09-shed-finance-match.webp" width="900" height="975" alt="An £18,000 shed is funded by £7,500 retained profit and a £10,500 loan. Short gaps suit an overdraft or trade credit; long-term needs suit a loan, retained profit or owners capital." loading="lazy">
+  <figcaption>Match the source of finance to the need and its time span.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+
 ## Worked example: break-even
 
 Selling price £20, variable cost £12/unit, fixed costs £4,800/month.
@@ -50,6 +77,12 @@ Selling price £20, variable cost £12/unit, fixed costs £4,800/month.
 Contribution per unit = £20 - £12 = £8
 Break-even quantity = £4,800 / £8 = 600 units/month
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
 
 ## Influences on business (6)
 
@@ -72,6 +105,12 @@ Net profit   = gross profit - other expenses
 
 Gross profit measures how efficiently a business buys and sells its core product; net profit accounts for the full cost of running the business. Confusing the two -- for example, quoting gross profit when a question asks for net profit -- is one of the most frequent calculation errors in this component.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations-finance-influences-revision-notes--01-rn73-profit-and-loss.webp" width="900" height="850" alt="Waterfall: revenue 50,000 pounds, less cost of sales 30,000 gives gross profit 20,000; less other expenses 12,000 gives net profit 8,000." loading="lazy">
+  <figcaption>Gross profit is revenue minus cost of sales; net profit is gross profit minus other expenses.</figcaption>
+</figure>
+
+
 ## Worked example: cash flow timing
 
 A business makes a £10,000 profit in a month on paper, but its customers are given 60 days to pay invoices while its suppliers must be paid within 30 days.
@@ -90,6 +129,12 @@ Response:  negotiate longer payment terms with suppliers, chase
 ```
 
 This mismatch between the timing of profit and the timing of cash is exactly the distinction 5.5 tests, and it is worth practising as a scenario-based explanation rather than only a one-line definition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-operations-finance-influences-revision-notes--02-rn73-cash-timing.webp" width="900" height="900" alt="Timeline: sale and 10,000 pound profit on day 0, supplier paid on day 30, customer pays on day 60, leaving 30 days with cash out and none in. Three responses are listed." loading="lazy">
+  <figcaption>A profit on paper can leave a business short of cash for 30 days.</figcaption>
+</figure>
+
 
 ## Key terms
 

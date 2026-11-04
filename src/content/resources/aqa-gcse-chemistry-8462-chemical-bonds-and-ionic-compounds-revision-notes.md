@@ -79,6 +79,17 @@ attracts what.
 4. Say what is attracted to what.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--10-which-strong-bond.webp" width="900" height="850" alt="Ionic is metal plus non-metal ions; covalent shares pairs between non-metals; metallic is metal ions with delocalised electrons in metals and alloys. KBr ionic, HCl covalent, Cu and bronze metallic; argon has no strong bonds." loading="lazy">
+  <figcaption>Classify a substance by its elements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
+
 ## 4.2.1.3 Ionic compounds
 
 **Definition to learn word for word:** an ionic compound is a **giant structure of ions**, held together by
@@ -103,6 +114,12 @@ directions** in the lattice. This is ionic bonding.
 | Positive particles surrounded by "e⁻" with no negative ions | Metallic |
 | Small separate groups of atoms joined by lines | Covalent (small molecules) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--04-which-is-ionic.webp" width="900" height="960" alt="Four described diagrams: A pairs of atoms (covalent molecules), B positive ions with electrons (metallic), C alternating + and - ions in a repeating grid (ionic), D one atom type joined to four others (giant covalent)." loading="lazy">
+  <figcaption>Only C shows two kinds of charged particle in a repeating lattice.</figcaption>
+</figure>
+
+
 ### Limitations of each representation
 
 | Diagram | Main limitations for a giant ionic structure |
@@ -114,6 +131,12 @@ directions** in the lattice. This is ionic bonding.
 | All of them | Only a tiny fragment of a lattice that contains an enormous number of ions |
 
 A good limitation names a **specific** feature of that diagram and says what is wrong or missing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--12-diagram-limitations.webp" width="900" height="1130" alt="Dot and cross shows one pair of ions; ball and stick has sticks that look like bonds; the 2D diagram shows one layer; space-filling hides inner ions." loading="lazy">
+  <figcaption>Each model shows some features and hides others.</figcaption>
+</figure>
+
 
 ### Method: empirical formula from a model
 
@@ -137,6 +160,32 @@ Written with subscripts these are Na₂S and MgF₂.
 **Edge warning:** a small 3D block can give an uneven count. A 3 × 3 × 3 cube of a 1 : 1 lattice holds 14 of
 one ion and 13 of the other. A real crystal is so large that the edges do not matter, so the ratio is 1 : 1.
 Trust the repeating pattern and the charges, not a raw count from a tiny model.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--11-nacl-six-neighbours.webp" width="900" height="890" alt="One sodium ion with six chloride ions around it, joined by dashed attraction lines; chloride is larger. Each chloride has six sodium neighbours, so there are no NaCl pairs." loading="lazy">
+  <figcaption>Each ion is attracted to six neighbours of the opposite charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--13-empirical-formula-2d.webp" width="900" height="880" alt="Three rows each with Li+ O2- Li+ twice. 12 Li+ and 6 O2- is 2:1, so each outline is Li2O and charges cancel." loading="lazy">
+  <figcaption>Count ions, simplify the ratio and check charges.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--14-cube-count-trap.webp" width="900" height="970" alt="Three layers of a 3x3x3 sodium chloride block give 14 Na+ and 13 Cl-. Edges do not split evenly; a real crystal has equal numbers, so NaCl." loading="lazy">
+  <figcaption>Small models have edge effects; a real lattice is 1:1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -187,6 +236,12 @@ structure. **Empirical formula** -- the simplest whole-number ratio of the parti
 11. Any one: shows only one layer, so ions above and below are missing; no 3D arrangement; only a small part of
     the lattice.
 12. No. There are no negative ions; positive particles among delocalised electrons show **metallic** bonding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

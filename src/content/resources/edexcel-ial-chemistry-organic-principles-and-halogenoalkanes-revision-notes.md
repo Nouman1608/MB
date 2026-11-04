@@ -44,6 +44,12 @@ Use them with the [printable Edexcel Chemistry checklist](/checklists/edexcel/a-
 
 A reaction can carry two labels. Halogenoalkane + water is substitution and hydrolysis. Alkene + hydrogen is addition and reduction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## Polarity decides the mechanism (10.5)
 
 - Non-polar C–C and C–H in alkanes: homolytic fission, radicals, **free-radical substitution**.
@@ -61,6 +67,12 @@ A reaction can carry two labels. Halogenoalkane + water is substitution and hydr
 | Primary | 1 (or 0 for CH₃X) | CH₃CH₂CH₂CH₂Cl, 1-chlorobutane |
 | Secondary | 2 | CH₃CHICH₂CH₃, 2-iodobutane |
 | Tertiary | 3 | (CH₃)₂CBrCH₂CH₃, 2-bromo-2-methylbutane |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
 
 ## Reagents table (10.8)
 
@@ -90,6 +102,12 @@ Key equations (R = alkyl group):
 4. Second curly arrow: C–X bonding pair moving onto X.
 5. Products: the alcohol and X⁻.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--02-reagent-products.webp" width="900" height="890" alt="R-Br reacts with aqueous OH- (warm) to give an alcohol, with CN- in ethanol under reflux to give a nitrile with one extra carbon, and with excess NH3 in a sealed tube to give a primary amine using two NH3." loading="lazy">
+  <figcaption>Each nucleophile replaces Br: OH- gives an alcohol, CN- a nitrile (one more carbon) and NH3 a primary amine (OCR teaches CN- and NH3 in a later module).</figcaption>
+</figure>
+
+
 ### Method in steps: NH₃ with a primary halogenoalkane
 
 1. Same first arrows, but from the lone pair on N of NH₃.
@@ -109,6 +127,12 @@ SN1 and SN2 labels and mechanisms belong to Unit 4.
 C–Cl is the most polar of the three bonds, yet chloroalkanes react most slowly. So bond enthalpy, not polarity, controls this trend.
 
 Relative rate ∝ 1/time. **Small worked reminder:** if one compound gives a precipitate in 50 s and another in 400 s, 1/t is 0.020 s⁻¹ and 0.0025 s⁻¹, so the first is 400 ÷ 50 = 8 times faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--04-bond-enthalpy-rate.webp" width="900" height="1110" alt="Bars of mean bond enthalpy C-F 470, C-Cl 350, C-Br 290, C-I 230 kJ/mol with a rate indicator, plus a note that C-F is the most polar yet slowest, so bond enthalpy not polarity decides the rate." loading="lazy">
+  <figcaption>The weaker the C-X bond, the faster it hydrolyses; polarity predicts the opposite order.</figcaption>
+</figure>
+
 
 ## Core Practical 5 summary (10.11)
 
@@ -178,6 +202,22 @@ Relative rate ∝ 1/time. **Small worked reminder:** if one compound gives a pre
 11. Hydroxide ions would hydrolyse some of the 2-chloro-2-methylpropane back to the alcohol. Hydrogencarbonate is a weak base that removes acid without doing this.
 12. Non-polar C–H or C–C bonds, as in alkanes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--05-silver-nitrate-test.webp" width="900" height="990" alt="Three tubes in one water bath with AgI yellow, AgBr cream and AgCl white precipitates after 45 s, 540 s and over 30 min, with Ag+ + X- -&gt; AgX." loading="lazy">
+  <figcaption>Water hydrolyses the halogenoalkane and the halide ion precipitates with Ag+; the iodoalkane gives its precipitate first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--06-primary-secondary-tertiary.webp" width="900" height="1160" alt="Skeletal 1-bromopentane, 2-bromopentane and 2-bromo-2-methylbutane with the C-Br carbon ringed and rate bars (1/t) for 210 s, 95 s and 8 s." loading="lazy">
+  <figcaption>The more carbons attached to the C-Br carbon, the faster the hydrolysis; tertiary is about 26 times faster than primary (Edexcel only).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--07-substitution-vs-elimination.webp" width="900" height="1050" alt="2-bromopropane with warm aqueous KOH gives propan-2-ol (OH- as nucleophile); with hot ethanolic KOH under reflux it gives propene, water and bromide (OH- as base)." loading="lazy">
+  <figcaption>Solvent and temperature decide whether hydroxide substitutes or eliminates (AQA, Edexcel, OxfordAQA; not in the OCR lesson).</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "KOH" or "alkali" with no solvent, so the examiner cannot tell substitution from elimination.
@@ -191,6 +231,22 @@ Relative rate ∝ 1/time. **Small worked reminder:** if one compound gives a pre
 - Forgetting to acidify with dilute nitric acid before adding silver nitrate in the halogen test.
 
 Next, test yourself with the [practice questions](/resources/edexcel-ial-chemistry-organic-principles-and-halogenoalkanes-practice/), or go back to the [study guide](/resources/edexcel-ial-chemistry-organic-principles-and-halogenoalkanes/) for any section that felt weak.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--01-oh-mechanism.webp" width="900" height="940" alt="Curly-arrow mechanism for 1-bromopropane and hydroxide: arrow 1 from an O lone pair to the delta-plus carbon, arrow 2 from the C-Br bond to Br. Products are propan-1-ol and bromide." loading="lazy">
+  <figcaption>Two curly arrows: the lone pair on O forms the C-O bond and the C-Br pair moves onto Br (OCR adds that attack is from the side opposite the halogen).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--03-ammonia-mechanism.webp" width="900" height="910" alt="Step 1: the N lone pair attacks C and the C-Br pair moves to Br, giving CH3CH2NH3+ and Br-. Step 2: a second NH3 takes H+, giving ethylamine and NH4+." loading="lazy">
+  <figcaption>Ammonia acts twice, first as a nucleophile and then as a base, giving ethylamine and NH4+ (AQA, Edexcel, OxfordAQA; OCR teaches it later).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--08-elimination-mechanism.webp" width="900" height="1070" alt="Arrow 1 from an O lone pair to an H on the carbon next to C-Br, arrow 2 from that C-H bond into the C-C bond forming C=C, arrow 3 from C-Br to Br. Products are propene, water and bromide." loading="lazy">
+  <figcaption>Hydroxide takes a proton from the neighbouring carbon, the C-H pair becomes the C=C bond and Br leaves.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

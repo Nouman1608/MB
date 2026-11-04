@@ -72,6 +72,12 @@ Step 3: condensed formula **BrCH₂CH₂CH₂CH₂Br**; molecular formula **C₄
 
 Step 4: the ratio 4 : 8 : 2 has a common factor of 2, so the empirical formula is **C₂H₄Br**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--01-formula-types.webp" width="900" height="990" alt="Skeletal formula of 1,4-dibromobutane with two hidden hydrogens on each carbon corner, leading step by step to the condensed formula BrCH2CH2CH2CH2Br, the molecular formula C4H8Br2 and the empirical formula C2H4Br (divide by 2)." loading="lazy">
+  <figcaption>A skeletal formula hides the hydrogens on carbon, but you can count them to get every other formula.</figcaption>
+</figure>
+
+
 ## Functional groups (3.2.2)
 
 Think of a **functional group** as the reactive region of a molecule: it decides how the compound typically reacts and shapes many of its physical properties. You need these nine.
@@ -103,6 +109,12 @@ The sweetener aspartame has the condensed formula HOOC–CH₂–CH(NH₂)–CO�
 5. –COO–CH₃ is an **ester** group.
 
 The C=O joined to the nitrogen is what makes –CO–NH– amido, not amino.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--02-nine-functional-groups.webp" width="900" height="1130" alt="Nine small structures, each with the functional group highlighted in gold on the rest of the molecule R: halogeno, hydroxyl, carbonyl (aldehyde if R' is H), carboxyl, alkoxy, amino, amido, ester and phenyl." loading="lazy">
+  <figcaption>Each functional group is a small, recognisable arrangement of atoms.</figcaption>
+</figure>
+
 
 ## Homologous series (3.2.3)
 
@@ -160,6 +172,12 @@ Estimate the boiling point of hexan-1-ol from the table.
 
 The last three gaps are 18 K, 21 K and 20 K, about 20 K per CH₂. 411 + 20 = 431 K, so estimate **about 430 K**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--03-alcohol-boiling-points.webp" width="900" height="940" alt="Line graph of boiling point against carbon number for methanol to pentan-1-ol (338, 352, 370, 391, 411 K) with a dashed estimate for hexan-1-ol of about 430 K, using the lesson's +20 K per CH2." loading="lazy">
+  <figcaption>Boiling points rise by about 20 K for each extra CH2 as London forces grow.</figcaption>
+</figure>
+
+
 ## IUPAC naming (3.2.5)
 
 IUPAC nomenclature is the International Union of Pure and Applied Chemistry's rule set for systematic names. You name branched and straight-chain compounds with a parent chain of up to six carbons, at most one C=C or C≡C, and one type of functional group: halogeno, hydroxyl, carbonyl or carboxyl.
@@ -191,6 +209,17 @@ Draw 2-bromo-3-methylbut-2-ene as a condensed formula.
 
 Four carbons with C=C between carbons 2 and 3; Br on carbon 2 and CH₃ on carbon 3: **CH₃C(Br)=C(CH₃)CH₃**. Either numbering gives {2,3}, so the prefix first in the alphabet (bromo) takes the lower number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--04-numbering-direction.webp" width="900" height="950" alt="The same six-carbon molecule numbered from each end: from the left the OH is on carbon 5, from the right on carbon 2, so the name is hex-4-en-2-ol." loading="lazy">
+  <figcaption>The suffix group gets the lowest possible number, so numbering starts at the end nearer the OH.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--05-building-a-name.webp" width="900" height="880" alt="Skeletal formula of 3-methylpentanoic acid with its five-carbon chain, methyl branch on carbon 3 and COOH carbon as carbon 1, linked by colour to the name parts 3-methyl, pent and anoic acid." loading="lazy">
+  <figcaption>A name is built from the branch, the chain length stem and the group ending.</figcaption>
+</figure>
+
+
 ## Structural isomers (3.2.6)
 
 **Structural isomers** have the same molecular formula but different connectivity:
@@ -215,6 +244,12 @@ For **alcohols** and **halogenoalkanes**, look at the carbon carrying the –OH 
 
 For **amines**, count the carbon atoms bonded to the **nitrogen** instead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--07-primary-secondary-tertiary.webp" width="900" height="1050" alt="Three alcohols classified by counting the carbons bonded to the C-OH carbon (1, 2, 3), and two amines classified by counting the carbons bonded to nitrogen (butan-2-amine primary, N,N-dimethylethanamine tertiary)." loading="lazy">
+  <figcaption>Alcohols are classified by the carbon bearing the OH, amines by the nitrogen.</figcaption>
+</figure>
+
+
 ### Worked example 8: classifying
 
 | Compound | What to count | Class |
@@ -229,6 +264,17 @@ For **amines**, count the carbon atoms bonded to the **nitrogen** instead.
 Butan-2-amine is the trap: its NH₂ carbon has two carbon neighbours, but only the nitrogen counts.
 
 **HL link (AHL Structure 2.2).** A linking question asks why only three dibromobenzene isomers supports the modern benzene model. Alternating single and double bonds would allow two different 1,2-isomers; only one exists, so all six ring bonds are equal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--06-c4h8o-isomers.webp" width="900" height="1060" alt="Skeletal formulae of butanal, 2-methylpropanal, but-3-en-1-ol, but-3-en-2-ol and butan-2-one grouped as chain, position and functional group isomer pairs, all C4H8O." loading="lazy">
+  <figcaption>Structural isomers share a molecular formula but differ in how the atoms are joined.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--08-dibromobenzene-hl.webp" width="900" height="1000" alt="Higher Level only. A benzene ring with alternating single and double bonds would give two different 1,2-dibromobenzenes (C=C or C-C between the bromine carbons); only one exists, so all six ring bonds are equal." loading="lazy">
+  <figcaption>Only one 1,2-dibromobenzene exists, which supports equal, delocalised bonds in benzene.</figcaption>
+</figure>
+
 
 ## Common errors
 

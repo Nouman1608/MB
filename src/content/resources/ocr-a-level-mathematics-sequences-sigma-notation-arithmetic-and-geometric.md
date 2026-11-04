@@ -57,6 +57,17 @@ uₙ = 3 − 7/(n + 2)
 
 As n grows, 7/(n + 2) falls towards 0 and is positive, so uₙ rises and stays below 3. To prove it is increasing, uₙ₊₁ − uₙ = 7/(n + 2) − 7/(n + 3) = 7/[(n + 2)(n + 3)] > 0. The sequence is increasing and its terms approach 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--03-gp-sum-to-infinity.webp" width="900" height="1030" alt="A graph of the partial sums of 81 + 54 + 36 + ... (first term 81, ratio 2/3) for n = 1 to 20. The points rise then flatten towards a dashed line at 243, the sum to infinity. At n = 5 the sum is 211, a gap of 32. The gap 243(2/3)^n first drops below 1 at n = 14." loading="lazy">
+  <figcaption>Partial sums of a convergent geometric series level off at S_infinity = a/(1 - r).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--07-pascal-binomial.webp" width="900" height="1130" alt="Pascal’s triangle for n = 0 to 6, each entry the sum of the two above; row 5 (1, 5, 10, 10, 5, 1) is highlighted and 10 is shown as 4 + 6. Below, a bar chart of the six terms of (4 + 3x)^5: 1024, 3840x, 5760x^2, 4320x^3, 1620x^4, 243x^5. At x = 1 they add to 7^5 = 16807." loading="lazy">
+  <figcaption>Row n of Pascal’s triangle gives the binomial coefficients; the terms of (4 + 3x)^5 sum to 7^5 at x = 1.</figcaption>
+</figure>
+
+
 ### Worked example 2: a periodic recurrence
 
 xₙ₊₁ = 1/(1 − xₙ), x₁ = 3.
@@ -68,6 +79,17 @@ x₄ = 1/(1 − 2/3) = 3
 ```
 
 x₄ = x₁, and each term depends only on the one before, so the cycle repeats: the sequence is periodic with order 3. Then x₉₉ = x₃ = 2/3, because 99 is a multiple of 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--05-sequence-behaviour.webp" width="900" height="1110" alt="Three plots of terms against n. u_n = n squared minus 8n falls to its least value, minus 16 at n = 4, then rises. The recurrence x_(n+1) = 1/(1 - x_n) with x_1 = 3 gives 3, minus one half, two thirds, then repeats every three terms. u_n = (3n - 1)/(n + 2) increases for ever but stays below the limit 3." loading="lazy">
+  <figcaption>Sequences can decrease then increase, repeat in a cycle, or climb towards a limit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--06-recurrence-cobweb.webp" width="900" height="1140" alt="A cobweb diagram for x_(n+1) = 0.6x_n + 8 with x_1 = 5. The lines y = 0.6x + 8 and y = x are drawn. The path steps from 5 through 11, 14.6 and 16.76 and closes in on where the lines cross at L = 20, found by solving L = 0.6L + 8." loading="lazy">
+  <figcaption>A recurrence settles at the limit L where L = f(L); the cobweb shows the terms closing in on it.</figcaption>
+</figure>
+
 
 ### Worked example 3: a recurrence that settles
 
@@ -140,6 +162,12 @@ Find the sum of the multiples of 7 between 100 and 500.
 
 The first is 105 and the last is 497. Then 497 = 105 + (n − 1)7 gives n = 57. S₅₇ = 57/2 × (105 + 497) = **17 157**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--02-ap-sum-pairing.webp" width="900" height="1070" alt="The series 3 + 7 + 11 + 15 + 19 + 23 + 27, written as the sum from r = 1 to 7 of (4r minus 1), is drawn as seven columns. Each column stacks a term on the term in the reversed order and every column totals 30, the first term plus the last. Seven columns of 30 give twice the sum, 210, so the sum is 105." loading="lazy">
+  <figcaption>Pairing each term with its reverse shows why S_n = half n times (a + l).</figcaption>
+</figure>
+
+
 ## Geometric sequences and series (1.04i)
 
 A geometric sequence multiplies by a constant **common ratio** r each time.
@@ -173,6 +201,12 @@ S₆ = 40(1 − (−½)⁶)/(1 + ½) = 40 × (63/64) × (2/3) = 105/4
 
 The answer is **26.25**. Put brackets round a negative ratio before raising it to a power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--01-ap-vs-gp.webp" width="900" height="1060" alt="Two bar charts of six terms each. The arithmetic progression 5, 8, 11, 14, 17, 20 adds 3 each time, so the added amount on top of each bar is the same height every time. The geometric progression 3, 6, 12, 24, 48, 96 doubles each time, so the added amount grows. Three consecutive terms satisfy 2b = a + c for an arithmetic progression (8, 11, 14) and b squared = ac for a geometric one (6, 12, 24)." loading="lazy">
+  <figcaption>An arithmetic progression adds the same amount each time; a geometric progression multiplies by the same ratio.</figcaption>
+</figure>
+
+
 ## Sum to infinity (1.04j)
 
 If |r| < 1, then rⁿ → 0 as n grows, so Sₙ approaches a limit:
@@ -202,6 +236,12 @@ So S₅ ≈ **19.8**, just under 20, as expected for a convergent series with po
 (a) Here a = 6 and r = 1/(2x), so |1/(2x)| < 1, which gives |2x| > 1, that is **x > ½ or x < −½**. Then S∞ = 6/(1 − 1/(2x)) = **12x/(2x − 1)**.
 
 (b) 0.272727... = 0.27 + 0.0027 + ... with a = 0.27 and r = 0.01. So S∞ = 0.27/0.99 = **3/11**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--04-gp-convergence.webp" width="900" height="1230" alt="Four stem plots of the first eight terms of a geometric series with first term 1. For r = 0.6 and r = minus 0.6 the terms shrink to zero (convergent). For r = 1.2 and r = minus 1.2 they grow (divergent). A number line shows convergence exactly when r is between minus 1 and 1." loading="lazy">
+  <figcaption>A geometric series has a sum to infinity only when |r| &lt; 1.</figcaption>
+</figure>
+
 
 ## Modelling (1.04k)
 

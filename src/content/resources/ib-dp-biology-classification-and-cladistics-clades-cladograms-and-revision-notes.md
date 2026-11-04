@@ -79,6 +79,17 @@ Test for a clade: does the group contain the ancestor and every descendant?
 
 Must-know distinction: **shared because inherited** (homologous, from a common ancestor) versus **shared because of similar selection** (convergent). Only the first supports grouping.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--01-clade-test.webp" width="900" height="880" alt="Crocodile and bird form a clade with their shared ancestor; &quot;reptiles without birds&quot; (lizard + crocodile) leaves out a descendant, so it is not a clade." loading="lazy">
+  <figcaption>A clade includes a common ancestor and all of its descendants; a group that omits a descendant, such as reptiles without birds, is not a clade.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--03-which-groups-are-clades.webp" width="900" height="830" alt="On the six-group cladogram, frog, lizard and mouse (node 3 and above) form a clade. &quot;Fish&quot; (lamprey, shark, trout) is not, because frog, lizard and mouse descend from the same ancestor as trout." loading="lazy">
+  <figcaption>Any node plus everything above it is a clade, but &quot;fish&quot; omits descendants and so is not one.</figcaption>
+</figure>
+
+
 ## Molecular clock method (A3.2.5)
 
 1. Find a calibration pair with a known split date, usually from fossils.
@@ -95,6 +106,12 @@ Time = 12 / 0.4 = 30 million years
 **Answer: about 30 million years ago.** Equivalent by proportion: 12/16 x 40 = 30.
 
 Why it gives only estimates: mutation rate changes with generation time, population size and selective pressure, and rates can differ between lineages. Repeated changes at one site are hidden.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--05-molecular-clock.webp" width="900" height="900" alt="A straight-line graph of sequence differences against time since divergence (0.4 per million years). The fossil-calibrated pair (36 differences, 90 million years) sets the rate, and a pair with 27 differences diverged 67.5 million years ago. The result is an estimate." loading="lazy">
+  <figcaption>A fossil-dated pair calibrates the molecular clock (36 / 90 = 0.4 differences per million years), giving 67.5 million years for a pair differing at 27 positions.</figcaption>
+</figure>
+
 
 ## Parsimony in steps (A3.2.6)
 
@@ -118,6 +135,17 @@ Sites 1 and 2: K and L share derived bases. Sites 3 and 4: M and N share derived
 
 Remember the guide's nature-of-science point: using different judging criteria can produce different hypotheses, so a cladogram is a best-supported hypothesis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--06-parsimony-sites.webp" width="900" height="830" alt="An alignment of outgroup O and species W, X, Y, Z across eight sites with derived bases highlighted. Sites 1-2 group W with X, sites 3-5 group Y with Z, sites 6 and 7 are single changes, and site 8 (W and Y) conflicts." loading="lazy">
+  <figcaption>Comparing each sequence with the outgroup shows which derived bases are shared, and so which species to group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--07-parsimony-trees.webp" width="900" height="970" alt="Three candidate trees for O, W, X, Y, Z with bars showing changes needed: (WX)(YZ) needs 9, (WY)(XZ) needs 13 and (WZ)(XY) needs 14. The tree with the fewest changes is the most parsimonious." loading="lazy">
+  <figcaption>The most parsimonious cladogram pairs W with X and Y with Z, needing only 9 changes.</figcaption>
+</figure>
+
+
 ## Reading a cladogram (A3.2.7)
 
 ```
@@ -139,6 +167,17 @@ root
 - Clade from node 2: C, D and E with their ancestor.
 - C is more closely related to D than B is, because C and D share node 2, which B does not.
 - Tip order and page position do not show closeness. Only the node structure does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--02-reading-a-cladogram.webp" width="900" height="920" alt="A six-group cladogram with the root (square), four numbered nodes (hypothetical common ancestors) and thick terminal branches. Lizard and mouse share node 4, so they are closest relatives." loading="lazy">
+  <figcaption>Root, nodes and terminal branches on a cladogram; closeness is read from the most recent shared node.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--04-rotating-nodes.webp" width="900" height="1130" alt="The same cladogram drawn twice; nodes 2 and 3 are flipped in the second drawing so the tip order changes, but all clades and relationships are identical. Lizard and mouse stay closest relatives." loading="lazy">
+  <figcaption>Flipping a node changes the drawing, not the relationships, so tip order carries no meaning.</figcaption>
+</figure>
+
 
 ## Testing a classification (A3.2.8)
 
@@ -186,6 +225,12 @@ root
 9. It shows which base is ancestral, so derived bases can be identified.
 10. Bacteria, Archaea, Eukarya; ribosomal RNA base sequences.
 11. Sequence-based cladistics showed that groupings based on similar form combined lineages without a single shared ancestor, so genera were moved to other families.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--08-three-domains.webp" width="900" height="790" alt="A tree based on rRNA sequences with Bacteria branching first and Archaea sharing a more recent ancestor with Eukarya. Bacteria and Archaea lack a nucleus; Eukarya have one and include protists, fungi, plants and animals." loading="lazy">
+  <figcaption>rRNA sequences (1977) placed life into three domains, with archaea closer to eukaryotes than to bacteria.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

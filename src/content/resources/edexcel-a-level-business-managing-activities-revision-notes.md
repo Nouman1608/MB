@@ -36,6 +36,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Business forms:** sole trader, partnership, private limited company, franchising, social enterprise, and growth to a **public limited company** via stock market flotation. **Unlimited liability** (sole trader, ordinary partnership) puts personal assets at risk; **limited liability** (private/public limited company) caps loss at the amount invested.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--01-sources-of-finance.webp" width="900" height="970" alt="Internal sources (retained profits, sale of assets, sale and leaseback, working capital) sit inside a dashed business box; seven external sources point in from outside. Loans is highlighted for the Quillcote printer example." loading="lazy">
+  <figcaption>Money comes from inside the business (internal) or from outside it (external).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--02-liability.webp" width="900" height="870" alt="With illustrative numbers, debts of 50,000 pounds exceed business assets of 20,000 pounds by 30,000. A sole trader's own assets can be used to pay the shortfall, while a limited company shareholder loses at most the 10,000 pounds invested." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+
 ## Financial planning (2.3.2)
 
 ```
@@ -53,6 +64,17 @@ At 5,000 units sold: margin of safety = 5,000 - 4,000 = 1,000 units
 ```
 
 **Sales forecasts** are shaped by consumer trends, economic variables and competitor actions, and are never fully reliable — state a limitation when a question asks for one. **Cash-flow forecasts** show timing of inflows/outflows, not profitability — a business can be profitable and still run out of cash if outflows exceed inflows in a given month. **Budgeting**: historical-figures-based vs. **zero-based** (built from nothing each period, justifying every cost); **variance analysis** compares budgeted to actual figures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-managing-activities-revision-notes--05-be-worked-example.webp" width="900" height="990" alt="A break-even chart: revenue and total cost lines cross at 4,000 units and $100,000. Fixed costs are $40,000, contribution $10 per unit. At sales of 5,000 units the margin of safety is 1,000 units." loading="lazy">
+  <figcaption>Break-even at 4,000 units; sales of 5,000 give a margin of safety of 1,000 units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--04-budget-historical-v-zero.webp" width="900" height="850" alt="A historical budget starts from last actual spending of 3,000 plus 5% to give 3,150. A zero-based budget starts at 0 and adds only justified items (1,200, 600, 500) to reach 2,300." loading="lazy">
+  <figcaption>Historical budgets start from last period; zero-based budgets start from nothing.</figcaption>
+</figure>
+
 
 ## Managing finance (2.3.3)
 
@@ -73,12 +95,34 @@ At 5,000 units sold: margin of safety = 5,000 - 4,000 = 1,000 units
 
 Ways to improve liquidity: better supplier credit terms, **factoring** (selling receivables for immediate cash), and **just-in-time inventory** (less cash tied up in stock).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+
 ## Causes of business failure
 
 **Keep internal and external causes as two separate lists** — exam answers that blur the two rarely score full marks for analysis.
 
 - **Internal:** poor cash-flow management, overestimated sales, **overtrading** (growing faster than cash flow supports), poor inventory control, poor marketing, poor quality.
 - **External:** market conditions, competition, economic factors, exchange rates, interest rates, government regulations, supplier problems, natural phenomena.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-managing-activities-revision-notes--07-failure-causes.webp" width="900" height="880" alt="Two separate lists. External causes: market conditions, competition, economic factors, exchange rates, interest rates, government regulations, supplier problems, natural phenomena. Internal causes: poor cash-flow management, overestimated sales, overtrading, poor inventory control, poor marketing, poor quality." loading="lazy">
+  <figcaption>Keep internal and external causes of failure as two lists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--03-overestimate-chain.webp" width="900" height="935" alt="A five-step chain: forecast too high, inventory bought on credit, sales fall short, cash tied up in unsold stock, bills due and cash runs out." loading="lazy">
+  <figcaption>Overestimating sales can end in a cash shortage even when the business is trading.</figcaption>
+</figure>
+
 
 ## Resource management (2.3.4)
 
@@ -91,6 +135,37 @@ Capacity utilisation = current output / maximum possible output x 100
 **Under-utilisation** wastes fixed costs across fewer units, raising average cost; **over-utilisation** risks quality problems, breakdowns and staff burnout. Ways to improve it include increasing orders/subcontracting (under-utilisation) or investing in extra capacity/outsourcing (over-utilisation).
 
 **Inventory control:** buffer inventory guards against stock-outs; poor inventory control ties up cash or causes stock-outs; **just-in-time (JIT)** minimises stock held, reducing storage cost but raising dependence on reliable suppliers. **Quality:** quality control (inspecting output), quality assurance (building quality into the process), **Total Quality Management (TQM)** (quality is everyone's responsibility), and **continuous improvement (Kaizen)** (small, ongoing improvements).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-managing-activities-revision-notes--08-production-methods.webp" width="900" height="790" alt="Four panels: job (one bespoke item), batch (groups of identical items), flow (continuous standardised items on a conveyor), cell (a small self-contained team making a complete unit)." loading="lazy">
+  <figcaption>Job, batch, flow and cell production.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--08-capacity-utilisation-gauge.webp" width="900" height="760" alt="Ardmoor Kayaks at 72.5 percent (1,740 of 2,400) with an 85 percent target of 2,040 kayaks, and Oakshott Furniture at 112.5 percent (5,400 against 4,800), beyond the 100 percent line." loading="lazy">
+  <figcaption>Utilisation can sit below, or beyond, 100 percent of maximum output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
+  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
+</figure>
+
 
 ## External influences (2.3.5)
 
@@ -112,6 +187,12 @@ Acid test ratio = (current assets - inventory) / current liabilities
 ```
 
 Both ratios are above 1, suggesting the business can cover its short-term liabilities even without selling inventory -- but the gap between the two (2.0 vs. 1.25) shows how much of its short-term cover actually depends on stock being sold, which is precisely why the acid test is considered the stricter, more cautious measure of the two.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-managing-activities-revision-notes--06-acid-test-worked.webp" width="900" height="930" alt="Current assets of $80,000, of which $30,000 is inventory, against current liabilities of $40,000. Current ratio 2.0; acid test (leaving out inventory) 1.25. Both exceed 1 but the acid test is lower." loading="lazy">
+  <figcaption>Same business: current ratio 2.0, acid test 1.25.</figcaption>
+</figure>
+
 
 ## How Unit 2 links to Unit 1
 

@@ -90,6 +90,17 @@ Ratio:                       120 000 / 10 = 12 000
 12 000 is about 10^4, so the heart is about 4 orders of magnitude larger.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--06-size-and-scale.webp" width="900" height="920" alt="Log scale from 1 µm to 1 m. A heart cell is about 10 µm wide, the heart 12 cm (120 000 µm) long and an organism is measured in metres. The heart is 12 000 times longer than the cell, about 4 orders of magnitude." loading="lazy">
+  <figcaption>The 12 cm heart is about 12 000 times longer than a 10 µm cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
+
 ## 4.2.2.2 The heart
 
 The heart is an organ that pumps blood around the body. Its walls are mostly muscle. It has four chambers:
@@ -136,6 +147,17 @@ Blood returning from the lungs comes back to the heart and is pumped again, so i
 higher pressure. This is why the left ventricle has a thicker, more muscular wall than the right ventricle: it
 pumps blood all the way around the body, while the right ventricle pumps blood only to the lungs, which are close by.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Extended. Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
+  <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
+</figure>
+
+
 ### Controlling the heart rate
 
 The natural resting heart rate is controlled by a **group of cells located in the right atrium** that act as a
@@ -144,6 +166,22 @@ The natural resting heart rate is controlled by a **group of cells located in th
 If the natural pacemaker does not work properly, the heart rate can become irregular. **Artificial pacemakers**
 are electrical devices used to correct irregularities in the heart rate. A small device is placed under the skin,
 with a wire to the heart, and it sends electrical impulses to keep the heart beating at a regular rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--05-natural-pacemaker.webp" width="900" height="1050" alt="Front-view schematic. Pacemaker cells in the right atrium set the rhythm of heart contraction. If this fails, an artificial pacemaker placed under the skin with a wire to the heart sends electrical impulses to keep a regular rate." loading="lazy">
+  <figcaption>Natural pacemaker cells sit in the right atrium; an artificial one is a device under the skin with a wire to the heart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--07-coronary-arteries.webp" width="900" height="960" alt="Front view of the heart with the aorta at the top. Coronary arteries branch from the aorta and run over the surface of the heart, delivering oxygen and glucose to heart muscle." loading="lazy">
+  <figcaption>Coronary arteries run over the heart surface and feed the heart muscle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
 
 ## 4.2.2.2 The lungs and gas exchange
 
@@ -172,6 +210,17 @@ pulmonary vein.
 When you explain an adaptation, always finish the sentence with the effect on diffusion: "large surface area,
 **so more oxygen can diffuse into the blood at once**".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--01-breathing-system.webp" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. Extended: the trachea has rings of cartilage." loading="lazy">
+  <figcaption>Follow the numbers 1 to 5 to trace the route air takes into the lungs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--02-alveolus-gas-exchange.webp" width="900" height="1080" alt="One alveolus at the end of a bronchiole is wrapped by a capillary. Oxygen diffuses from the air through the thin walls into the blood and carbon dioxide diffuses out into the air. Blood arrives with more carbon dioxide and leaves with more oxygen. Four numbered features (large surface area, thin walls, good blood supply, good ventilation) make the surface efficient." loading="lazy">
+  <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
+</figure>
+
+
 ## 4.2.2.2 Arteries, veins and capillaries
 
 The body contains three different types of blood vessel. The specification asks you to explain how the structure
@@ -194,6 +243,17 @@ and **valves** stop it flowing backwards.
 **Capillaries.** These are where substances are exchanged with body cells. Their walls are only one cell
 thick, so the diffusion distance is short. Oxygen and glucose diffuse out to the cells, and carbon dioxide and other
 wastes diffuse in. Huge numbers of capillaries mean every cell is close to one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
+</figure>
+
 
 ## Rate calculations for blood flow (MS 1a, 1c)
 
@@ -237,6 +297,22 @@ Speed = distance / time = 0.6 / 2 = 0.3 mm/s
 
 Blood moves slowly through capillaries. This gives more time for substances to diffuse between the blood and
 the cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--07-pulse-to-bpm.webp" width="900" height="820" alt="21 beats in 15 s; one minute is four lots of 15 s, so 21 × 4 = 84 beats per minute, i.e. 21 ÷ 15 × 60 = 84." loading="lazy">
+  <figcaption>21 beats in 15 seconds is 84 beats per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--08-blood-per-minute.webp" width="900" height="856" alt="72 beats each pumping 70 cm³ give 70 × 72 = 5040 cm³ per minute, which is 5.04 dm³ per minute after dividing by 1000." loading="lazy">
+  <figcaption>Volume per minute = volume per beat × beats per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--09-flow-and-speed.webp" width="900" height="860" alt="300 cm³ flowing in 25 s is 12 cm³/s or 720 cm³/min. A red blood cell moving 0.6 mm in 2 s travels at 0.3 mm/s, slow enough for diffusion." loading="lazy">
+  <figcaption>Flow rate and capillary speed from amount ÷ time.</figcaption>
+</figure>
+
 
 ## Common errors
 

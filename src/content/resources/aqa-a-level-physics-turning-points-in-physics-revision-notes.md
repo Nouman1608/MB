@@ -81,6 +81,12 @@ Useful derived results: Millikan radius r = √(9ηv/(2ρg)); Fizeau c = 2d/t wi
 - **TEM:** filament → anode → magnetic condenser lens → thin sample → objective and projector lenses → fluorescent screen. Limits: wavelength, sample thickness, lens aberrations.
 - **STM:** conducting tip about 1 nm from a conducting surface; electrons **tunnel**; current very sensitive to gap; constant-current or constant-height mode.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--04-aphy-medical-xray-production.webp" width="900" height="1210" alt="A heated filament releases electrons that a high voltage accelerates onto a tungsten target in a copper anode inside a lead-lined, evacuated tube. The spectrum has a sharp cut-off at the shortest wavelength hc/eV: 1.55 and 3.11 times 10 to the minus 11 m for 80 kV and 40 kV. Narrow characteristic lines depend on the target and appear only if eV is large enough." loading="lazy">
+  <figcaption>Tube voltage sets the shortest wavelength (maximum photon energy); tube current sets the intensity.</figcaption>
+</figure>
+
+
 ## 3.12.3 Special relativity
 
 - **Michelson-Morley:** semi-silvered plate splits light into perpendicular arms; mirrors return it; fringes form. Ether motion should shift fringes when rotated through 90°. **No shift**: absolute motion undetectable; speed of light invariant.
@@ -138,6 +144,12 @@ Useful derived results: Millikan radius r = √(9ηv/(2ρg)); Fizeau c = 2d/t wi
 10. γ = 1/√(1 − 0.64) = 5/3. m₀c² = 1.67 × 10⁻²⁷ × (3.00 × 10⁸)² = 1.503 × 10⁻¹⁰ J. E = γm₀c² = **2.51 × 10⁻¹⁰ J**; Ek = E − m₀c² = **1.00 × 10⁻¹⁰ J**.
 11. Physical laws have the same form in all inertial frames; the speed of light in free space is invariant.
 12. A **tunnelling current** must flow between the tip and the surface, so both must conduct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--03-aphy-medical-doppler.webp" width="900" height="1100" alt="A probe sends ultrasound at 60 degrees to blood flowing along a vessel and the echo is shifted in frequency by delta f = 2 f v cos(theta)/c. For 5.0 MHz, 0.45 m/s and c = 1570 m/s the shift is 1.4 kHz at 60 degrees; it is largest along the flow and zero at 90 degrees." loading="lazy">
+  <figcaption>The Doppler shift depends on cos of the angle between beam and flow, so the beam must not be directed across the vessel.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

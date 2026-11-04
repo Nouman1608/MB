@@ -87,6 +87,27 @@ Interest cover = 1,250,000 / 150,000          = 8.33 times
 - **Dividend cover** shows how safe the dividend is. Cover of 2.50 times means profit after tax could fall by more than half before the dividend could not be paid from this year's profit.
 - **Interest cover** shows how easily operating profit meets interest. A fall means more borrowing, higher rates or weaker profit, and more risk for lenders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--06-eps-and-pe.webp" width="900" height="830" alt="Profit for the year of 896,000 dollars less a 56,000 preference dividend leaves 840,000 of ordinary earnings. Divided by 6,000,000 shares this is 14.00 cents per share. A share price of 238 cents is 17 times that, so P/E is 17.00 times." loading="lazy">
+  <figcaption>EPS is profit per ordinary share; P/E says how many years of earnings the price represents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--07-dividend-cover-yield.webp" width="900" height="820" alt="Ordinary earnings of 840,000 dollars hold the 360,000 dividend 2.33 times, which is the dividend cover. A dividend of 6.00 cents per share on a 238-cent share price is a yield of 2.52 percent." loading="lazy">
+  <figcaption>Cover shows how safe the dividend is; yield shows the cash return on the share price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--08-gearing-interest-cover.webp" width="900" height="810" alt="Ardleigh funds 24.47 percent of long-term capital with debt and its operating profit covers interest 7.91 times. Merrowdale has 52.00 percent debt and covers interest only 3.00 times, so it is riskier if profit falls." loading="lazy">
+  <figcaption>More borrowing and less interest cover mean more risk to lenders and shareholders.</figcaption>
+</figure>
+
+
 ## Evaluating performance internally and externally
 
 The focus is profitability, liquidity, efficiency and capital structure.
@@ -114,6 +135,17 @@ Kestrel's 2025 figures: profit after tax £760,000, dividends £300,000, interes
 
 **Limits of comparing with a competitor.** Different accounting policies, year ends, sizes, product mixes and financing weaken the comparison. Share prices move daily, so P/E and yield depend on the date chosen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+</figure>
+
+
 ### Management information is interpreted the same way
 
 Section 3.17 covers management information too. Kestrel's bakery division reports budget against actual for a quarter:
@@ -128,6 +160,12 @@ Section 3.17 covers management information too. Kestrel's bakery division report
 
 Revenue fell 5%. Materials fell roughly in line with output. Labour rose by £12,000 although less was produced, pointing to overtime or idle time, so investigate labour scheduling. For the techniques behind such reports, see [budgeting](/resources/aqa-a-level-accounting-budgeting/) and [standard costing and variance analysis](/resources/aqa-a-level-accounting-standard-costing-and-variance-analysis/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--11-price-usage-variance.webp" width="900" height="940" alt="Wool was bought at 8.70 dollars against a standard 9.00, saving 0.30 on all 7,050 kilograms: 2,115 favourable. 150 kilograms more than the standard 6,900 were used, worth 1,350 at the standard price: adverse. The axes are zoomed in." loading="lazy">
+  <figcaption>Price variance uses actual quantity; usage variance uses standard price.</figcaption>
+</figure>
+
+
 ## Cash and profit: company transactions
 
 3.17 repeats the 3.8 outcome on cash versus profit. For a company, add these transactions, each treated separately from Kestrel's position above:
@@ -140,6 +178,12 @@ Revenue fell 5%. Materials fell roughly in line with output. Labour rose by £12
 | Issue £1,000,000 of 6% debentures | Interest of £60,000 a year reduces profit before tax | Up £1,000,000 | Interest cover falls to 5.95 times |
 
 The [limited company accounts guide](/resources/aqa-a-level-accounting-limited-company-accounts/) shows where each item appears in the statements.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--10-profit-variance-waterfall.webp" width="900" height="806" alt="Budgeted profit of 27,200 dollars becomes actual profit of 31,749: sales price 6,900 favourable, sales volume 3,300 adverse, wool price 2,115 favourable, wool usage 1,350 adverse, labour rate 1,656 adverse and labour efficiency 1,840 favourable. Fixed overheads match the budget." loading="lazy">
+  <figcaption>Favourable variances raise profit above budget and adverse ones lower it.</figcaption>
+</figure>
+
 
 ## Stakeholders and communication
 
@@ -160,6 +204,12 @@ The specification lists these stakeholders. Link each to the measures it cares a
 
 **Value of published accounts.** They follow a standard format (IAS1), so years and companies can be compared, and they reach external stakeholders who cannot see internal records. But they are historic, summarised, produced after the year end and say little about non-financial performance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+
+
 ## Systems of recording data
 
 **Features and main applications of accounting software:** automatic posting of both sides of each entry; invoicing and sales and purchase ledgers; aged lists of receivables and payables; bank reconciliation; payroll; inventory records; instant financial statements, budgets and reports.
@@ -175,6 +225,12 @@ The specification lists these stakeholders. Link each to the measures it cares a
 | Disadvantages | No trial balance; statements must be reconstructed; errors and fraud hard to detect; no full record of assets and liabilities | Needs time, skill and cost |
 
 The [double entry model guide](/resources/aqa-a-level-accounting-double-entry-model/) revises the full system.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
 
 ## Critical assessment of recommendations
 

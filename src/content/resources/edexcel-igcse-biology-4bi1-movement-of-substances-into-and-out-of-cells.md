@@ -59,6 +59,27 @@ Examples you should be able to use:
 - carbon dioxide diffuses out of respiring cells into the blood
 - carbon dioxide diffuses into a leaf cell that is photosynthesising, and oxygen diffuses out
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--08-potato-sucrose-graph.webp" width="900" height="1070" alt="Percentage change in mass of potato cylinders against sucrose concentration: +15.0, +8.0, -1.8, -10.0 and -14.0 percent at 0.0 to 0.8 mol/dm3. The line crosses zero at about 0.36 mol/dm3, where there is no net water movement, estimating the concentration of the cell contents." loading="lazy">
+  <figcaption>The line crosses zero at about 0.36 mol/dm3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--02-visking-glucose-starch.webp" width="900" height="840" alt="A tied bag of Visking tubing holds starch and glucose in a beaker of water. Small glucose molecules pass out through the tubing; large starch molecules cannot." loading="lazy">
+  <figcaption>Glucose diffuses out of Visking tubing but starch stays inside.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--03-diffusion-in-living-things.webp" width="900" height="1040" alt="Two panels show gases diffusing down concentration gradients. Carbon dioxide diffuses into a photosynthesising leaf cell and oxygen out; oxygen diffuses from blood into a respiring cell and carbon dioxide out into the blood." loading="lazy">
+  <figcaption>Gases diffuse from high to low concentration into and out of leaf cells and respiring body cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--05-dialysis-tubing.webp" width="900" height="960" alt="A bag of dialysis tubing holding strong solution hangs in a beaker of water. At the start the bag is small. Later it has swollen because water entered by osmosis, while the same solute particles stay inside. Measuring its mass before and after shows the change." loading="lazy">
+  <figcaption>Water enters the tubing bag by osmosis, so it swells and gains mass.</figcaption>
+</figure>
+
+
 ### Osmosis
 
 **Osmosis** is the net movement of water across a partially permeable membrane down a water-potential gradient. In the simple model with comparable pressure and a solute retained by the membrane, this is from a more dilute solution toward the more concentrated solution. Pressure can also affect water potential, so the dilute-to-concentrated shortcut does not cover every cell or experimental setup.
@@ -89,6 +110,12 @@ What happens to cells depends on the solution around them.
 
 The cell wall is the reason a plant cell does not burst in water. It is strong and resists further expansion. Turgid cells press against each other, which is what keeps non-woody plant tissue firm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--01-rbc-three-solutions.webp" width="900" height="1043" alt="A red blood cell is shown in a solution more dilute than its contents, the same concentration, and more concentrated. Water enters and the cell swells and may burst in the dilute solution, there is no net movement in the equal solution, and water leaves so the cell shrivels in the concentrated solution." loading="lazy">
+  <figcaption>A red blood cell swells, stays the same or shrivels depending on the solution around it.</figcaption>
+</figure>
+
+
 ### Active transport
 
 **Active transport** is the movement of substances from a region of lower concentration to a region of higher concentration, against a concentration gradient. It uses energy released by respiration and needs carrier proteins in the cell membrane.
@@ -115,6 +142,32 @@ Examples:
 | Direction | High to low concentration | Down a water-potential gradient (simple retained-solute model: dilute to concentrated) | Low to high concentration |
 | Energy from respiration | No | No | Yes |
 | Membrane needed | No (can happen in air or water) | Yes, partially permeable | Yes, with carrier proteins |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms are Extended." loading="lazy">
+  <figcaption>A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
+  <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
+</figure>
+
 
 ## 2.16 Factors that affect the rate of movement
 
@@ -180,6 +233,22 @@ Agar cubes containing an indicator change colour as acid diffuses in. After 10 m
 ```
 
 In this worked model, the same assumed penetration depth after the same exposure means a smaller fraction of the larger cube is reached. This single time-point comparison does **not** establish a constant diffusion-front speed over time. The ratios are 3 : 1 for the 2 cm cube and 1.5 : 1 for the 4 cm cube. The same geometry helps explain why large organisms cannot rely on diffusion across their outer surface alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--06-sav-cubes.webp" width="900" height="990" alt="A 1 cm cube has surface area 6 cm2, volume 1 cm3 and ratio 6 : 1. A 3 cm cube has surface area 54 cm2, volume 27 cm3 and ratio 2 : 1: 27 times the volume but only 9 times the surface area." loading="lazy">
+  <figcaption>As a cube gets bigger its surface area to volume ratio falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--07-agar-penetration.webp" width="900" height="1050" alt="Centre slices of 2 cm and 4 cm agar cubes with acid 0.5 cm in from every face. The 2 cm cube has a 1 cm core, 87.5 percent changed (ratio 3 : 1). The 4 cm cube has a 3 cm core, 57.8 percent changed (ratio 1.5 : 1)." loading="lazy">
+  <figcaption>The same distance in reaches a smaller fraction of a bigger cube.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--02-diffusion-factors.webp" width="900" height="1130" alt="Four paired pictures. Larger surface area: one block versus the same amount cut into four pieces. Higher temperature: short versus long movement arrows. Steeper concentration gradient: small versus big difference between two sides. Shorter distance: thick versus thin layer to cross." loading="lazy">
+  <figcaption>Diffusion is faster with more surface area, higher temperature, a steeper gradient and a shorter distance.</figcaption>
+</figure>
+
 
 ## 2.17 Practical: diffusion and osmosis in living and non-living systems
 

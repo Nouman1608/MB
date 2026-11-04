@@ -32,6 +32,17 @@ A **control account (total account)** summarises every individual entry in the t
 
 Build a receivables control account from: opening balance + credit sales − sales returns − cash/cheque received − discounts allowed − irrecoverable debts written off ± contra entries = closing balance. The payables control account mirrors this on the purchases side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--06-receivables-control.webp" width="900" height="854" alt="A T-account for April. Debit side: opening balance 24,560, credit sales, interest charged on overdue accounts, a dishonoured cheque and a credit balance carried down. Credit side: opening credit balance, receipts, discounts allowed, sales returns, irrecoverable debts, a contra entry and the closing debit balance of 25,015. Both sides total 67,295. Cash sales and the provision for doubtful debts are excluded." loading="lazy">
+  <figcaption>Only items that change what credit customers owe belong in a control account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--13-control-and-list-fixes.webp" width="900" height="920" alt="Control account 41,430 is corrected by minus 1,000, plus 270, minus 780 and minus 450 to 39,470. The list of balances 39,680 is corrected by plus 90 and minus 300 to 39,470. An invoice posted to the wrong customer needs only a journal." loading="lazy">
+  <figcaption>The control account and the list of balances are corrected separately and end at the same figure.</figcaption>
+</figure>
+
+
 ## The trial balance split: errors that do vs. don't affect balancing
 
 This is the organising idea for the whole sub-topic — learn it first.
@@ -52,6 +63,17 @@ This is the organising idea for the whole sub-topic — learn it first.
 - **Transposition error** — digits reversed (e.g. 540 recorded as 450). **Diagnostic tip:** if the imbalance divides evenly by 9, suspect a transposition error — a genuinely useful shortcut worth practising.
 - **Casting error** — a mistake made when adding up a column of figures (for example in a ledger account or the trial balance itself), giving the wrong total. Unlike transposition, this is an addition error rather than a digit-swap, and whether it unbalances the trial balance depends on which total was mis-added.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--01-tb-hidden-revealed.webp" width="900" height="876" alt="Two balance scales. The level scale shows six errors that leave debits equal to credits and so stay hidden: commission, complete reversal, compensating, omission, original entry and principle. The tilted scale shows four errors that make debits and credits differ and so are revealed: addition, partial omission, transposition and unequal posting." loading="lazy">
+  <figcaption>A balanced trial balance hides six error types and exposes four.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--02-difference-clues.webp" width="900" height="781" alt="Swapping the middle digits of 3,470 to 3,740 makes a difference of 270, which is 9 times 30. Four clues pair the nature of a trial balance difference with the likely error: a round figure with addition, an amount equal to one entry with partial omission, divisible by 9 with transposition, and the gap between two amounts with unequal posting." loading="lazy">
+  <figcaption>The size of a trial balance difference points to the type of error.</figcaption>
+</figure>
+
+
 ## Journal entries and the suspense account
 
 A **suspense account** is a temporary account opened to hold the value of a discrepancy while the trial balance doesn't balance, and is closed once the underlying error is found and corrected.
@@ -65,6 +87,17 @@ Step 4: adjust the statement of revised profit for any income/
 ```
 
 Work through **all four steps explicitly** in an answer — a full-mark response treats the suspense entry, the correction, and the profit impact as one connected sequence, not three separate facts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-accounting-control-accounts-revision-notes--03-suspense-four-steps.webp" width="900" height="1090" alt="Four numbered steps for a trial balance short by 150 pounds on the debit side. 1: debit Suspense 150 so debits equal credits. 2: the error is found, a 150 insurance payment never posted, so debit Insurance expense 150 and credit Suspense 150. 3: the suspense account now has 150 on each side and closes at nil. 4: the expense was understated, so profit was overstated and revised profit falls by 150." loading="lazy">
+  <figcaption>The suspense entry, the correction and the profit effect form one connected sequence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--03-suspense-clears.webp" width="900" height="776" alt="A suspense account opens with a credit of 630 because debits of 186,420 exceed credits of 185,790. Debit corrections of 400, 270 and 140 and credit corrections of the opening 630 and 180 each total 810, so the account clears to zero. Errors of commission and principle bypass suspense." loading="lazy">
+  <figcaption>Each correction that caused the imbalance passes through suspense until it clears to nil.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -85,6 +118,17 @@ overstated by 150 → statement of revised profit REDUCES profit by 150.
 ## Statements of revised profit
 
 Start from the original (incorrect) profit figure and adjust **line by line** for each correction: an understated expense now recorded reduces profit; an understated income now recorded increases profit; and vice versa. Only corrections affecting an income or expense account change profit — a purely balance-sheet correction (e.g. reclassifying an asset between accounts) does not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--13-ial-revised-profit-steps.webp" width="900" height="962" alt="Profit of 41,350 changes by -2,250, +3,200, -270, -1,960, -185 and +180 to a revised 40,065 dollars. The horizontal axis starts at 38,000." loading="lazy">
+  <figcaption>Each correction moves profit up or down from 41,350 to 40,065.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--04-corrected-profit.webp" width="900" height="838" alt="A horizontal waterfall in pounds starts at draft profit 42,300, adds 400, 270 and 140 for overstated or undercast items, deducts 180 for the missed discount allowed and 860 for van repairs wrongly capitalised, and ends at 42,070. A commission error between two customers leaves profit unchanged." loading="lazy">
+  <figcaption>Corrected profit is draft profit adjusted line by line for each error that touches income or expense.</figcaption>
+</figure>
+
 
 ## Key terms
 
@@ -110,6 +154,12 @@ Correction:  journal entry removing it from purchases and adding it
 ```
 
 Practising this kind of diagnosis -- working from a described scenario back to the correct error category -- is a more exam-realistic skill than simply memorising the five category names in isolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-accounting-control-accounts-revision-notes--04-principle-error-200.webp" width="900" height="1090" alt="A 200 dollar purchase of office equipment is debited to Purchases, an expense, instead of Equipment, a non-current asset. Both sides were still entered, so debits equal credits and the trial balance balances: an error of principle. The correcting journal debits Equipment 200 and credits Purchases 200. Purchases were overstated, so profit was understated and revised profit rises by 200." loading="lazy">
+  <figcaption>An error of principle leaves the trial balance balanced, so no suspense account is needed.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -54,9 +54,21 @@ Template read as 3' TACGGA 5' gives a new strand 5' ATGCCT 3'. Flip the directio
 4. The other 14 contain only light strands.
 5. Hybrid fraction = 2/16 = **1/8** (12.5%).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--01-semi-conservative.webp" width="900" height="912" alt="A DNA molecule with two heavy strands replicates four times in light medium. Each round every strand is kept and paired with a new light strand, giving 1, 2, 4, 8 and 16 molecules. Only the two original heavy strands remain, so two of the 16 molecules are hybrids and 14 are light only. The hybrid fraction is 2/16 = 1/8 = 12.5%." loading="lazy">
+  <figcaption>Old strands are never destroyed, so only 2 of 16 molecules after 4 rounds contain a heavy strand.</figcaption>
+</figure>
+
+
 ## D1.1.3 Helicase and DNA polymerase
 
 At a replication fork, **helicase** unwinds the double helix by breaking hydrogen bonds between the strands. This exposes the bases as templates. **DNA polymerase** builds the new strand by joining nucleotides that pair with the template. At SL, keep to these general roles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--02-base-pairing-fork.webp" width="900" height="830" alt="At a replication fork helicase breaks hydrogen bonds so the two old strands act as templates. Free nucleotides pair with the exposed bases, A with T and G with C, and DNA polymerase joins them into a new strand. The template 3′ TACGGA 5′ gives the new strand 5′ ATGCCT 3′. Each daughter molecule has one old and one new strand." loading="lazy">
+  <figcaption>The template fixes the new sequence: helicase opens the helix and DNA polymerase pairs and joins nucleotides.</figcaption>
+</figure>
+
 
 ## D1.1.4 PCR and gel electrophoresis
 
@@ -80,6 +92,17 @@ Taq polymerase comes from a heat-tolerant bacterium, so it is not denatured by t
 2. The sample is 5 mm beyond the 500 bp band.
 3. Size = 500 × 2^(−5/10) = 500 ÷ 1.414 = 353.6.
 4. Answer: about **350 bp**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--04-pcr-cycle.webp" width="900" height="1010" alt="A temperature-time graph for three PCR cycles shows three repeating steps: about 95 °C where strands separate, 55 to 60 °C where primers bind, and 72 °C where Taq polymerase extends the primers. The copy number doubles every cycle, 1, 2, 4, 8, so 25 cycles give an ideal 2^25 = 33,554,432 copies." loading="lazy">
+  <figcaption>Each cycle heats, cools and extends, doubling the target DNA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--05-gel-electrophoresis.webp" width="900" height="940" alt="DNA is loaded into wells at the negative end of a gel and moves towards the positive electrode, with small fragments travelling further. Ladder bands of 1000, 500 and 250 base pairs are at 12, 22 and 32 mm. A semi-log graph through these points shows a sample band at 27 mm lies at about 350 base pairs: 500 x 2^(-5/10) = 354." loading="lazy">
+  <figcaption>A ladder calibrates distance against fragment size, so a band at 27 mm is about 350 bp.</figcaption>
+</figure>
+
 
 ## D1.1.5 Applications
 
@@ -112,6 +135,12 @@ PCR and electrophoresis together support **DNA profiling**: DNA from a sample is
 
 Proofreading: if polymerase makes 1 error per 10⁵ bases without proofreading and 1 per 10⁷ with it (data given), errors per replication fall from 4.6 × 10⁶ ÷ 10⁵ = 46 to 0.46, 100-fold fewer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--03-leading-lagging.webp" width="900" height="1200" alt="A replication fork moves to the right with helicase at the junction. New DNA is made only 5′ to 3′. The leading strand is built continuously towards the fork from one RNA primer. The lagging strand is built away from the fork as Okazaki fragments, each with its own RNA primer made by primase. DNA polymerase III extends the primers, DNA polymerase I replaces RNA primers with DNA and DNA ligase seals the gaps." loading="lazy">
+  <figcaption>Leading strand continuous, lagging strand in Okazaki fragments; five enzymes numbered as in the prokaryotic system.</figcaption>
+</figure>
+
+
 ## D1.3.1 to D1.3.3 Gene mutations
 
 A **gene mutation** is a change in the base sequence of a gene. Types: **substitution** (one base swapped), **insertion** (extra base or bases) and **deletion** (loss of bases). A **single-nucleotide polymorphism (SNP)** is a substitution found at a particular position in a population.
@@ -132,6 +161,12 @@ Insertions and deletions not in multiples of three cause a **frameshift**: every
 - Insert G after CAU: AUG CAU GGG UAC UUA A reads Met-His-Gly-Tyr-Leu and onwards, a **frameshift**; the original stop codon is no longer read in frame.
 - Delete the whole codon CAU: Met-Gly-Thr-stop, one amino acid lost, rest in frame.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--06-mutation-types.webp" width="900" height="1130" alt="The normal mRNA AUG CAU GGU ACU UAA codes Met, His, Gly, Thr, stop. A silent substitution CAU to CAC still codes His. A missense change GGU to UGU gives Cys. A nonsense change UGG to UGA makes a stop codon. Inserting G after CAU shifts the reading frame to Met, His, Gly, Tyr, Leu and onwards. Deleting the whole codon CAU gives Met, Gly, Thr, stop with the frame kept." loading="lazy">
+  <figcaption>Substitutions may be silent, missense or nonsense; insertions and deletions not in multiples of three shift the frame.</figcaption>
+</figure>
+
+
 ## D1.3.4 to D1.3.7 Causes, randomness, consequences, variation
 
 **Causes.** Errors in replication or repair that are not corrected, and **mutagens**. Chemical mutagens include nitrous acid and the compounds in tobacco smoke. Mutagenic radiation includes ultraviolet light, X-rays and gamma rays.
@@ -146,6 +181,12 @@ Insertions and deletions not in multiples of three cause a **frameshift**: every
 
 **Nature of science.** Commercial genetic tests can reveal disease risk, but without expert interpretation the results can be misunderstood or cause needless worry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--07-germ-somatic.webp" width="900" height="930" alt="A mutation in a germ cell passes into a gamete and then into a child, so every cell of the child carries it. A mutation in a body cell is copied only into its descendant cells, here a cluster of four after two divisions. Gametes are unaffected so it is not inherited, but uncontrolled division of mutant body cells can cause cancer." loading="lazy">
+  <figcaption>Germ cell mutations are inherited; somatic mutations are not but can lead to cancer.</figcaption>
+</figure>
+
+
 ## D1.3.8 to D1.3.10 Knockout, CRISPR and conserved sequences (HL only)
 
 **Gene knockout (HL only).** A gene is altered so it no longer works, then the organism is compared with normal individuals to infer what the gene does. Libraries of knockout organisms exist for some model species.
@@ -155,6 +196,12 @@ Insertions and deletions not in multiples of three cause a **frameshift**: every
 **CRISPR and Cas9 (HL only).** A guide RNA matching a target sequence directs the enzyme Cas9 to cut the DNA at that site. Repair of the cut can disable the gene or, with a supplied template, change it to a chosen sequence. An example of use: a CRISPR-based therapy for sickle cell disease and transfusion-dependent beta-thalassaemia was authorised in the UK in 2023. Ethical issues, such as editing embryos, must be resolved first, and because countries regulate differently there is an international effort to harmonise rules.
 
 **Conserved sequences (HL only).** These are identical or similar across species. Hypothesis one: the gene product has a function that tolerates little change, so natural selection removes variants. Hypothesis two: the sequence mutates more slowly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-dna-replication-mutation-and-gene-editing--08-crispr-cas9.webp" width="900" height="870" alt="A guide RNA with the sequence GAUUACAG pairs with the matching DNA site and directs Cas9 to cut both DNA strands there. If the cut is repaired without a template, bases can be lost, for example GATTACAG becoming GATTCAG, which disables the gene (a knockout). If a template is supplied, the gene can be changed to a chosen sequence, for example GATTACAG becoming GATCACAG." loading="lazy">
+  <figcaption>The guide RNA targets Cas9 to a chosen site; repair either disables the gene or writes in a chosen change.</figcaption>
+</figure>
+
 
 ## Common errors
 

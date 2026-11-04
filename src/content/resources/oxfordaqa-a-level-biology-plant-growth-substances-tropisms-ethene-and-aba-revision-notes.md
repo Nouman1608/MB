@@ -73,6 +73,27 @@ Control growth 14.0 mm; growth with IAA at 0.05 µmol dm⁻³ was 8.4 mm.
 
 Change = (8.4 - 14.0) / 14.0 × 100 = -40.0 %. Quote the sign. A negative value is inhibition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--01-phototropism-iaa.webp" width="900" height="1110" alt="Two steps show a shoot lit from the right. More IAA (0.62 units) collects on the shaded side than the lit side (0.38 units), so shaded cells elongate more and the shoot bends towards the light." loading="lazy">
+  <figcaption>Unequal IAA gives unequal elongation, so the shoot bends towards light.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--02-gravitropism-shoot-root.webp" width="900" height="1100" alt="A horizontal shoot and root both have more IAA on the lower side. In the shoot this stimulates lower cells, so it curves up. In the root it inhibits lower cells, so upper cells grow more and it curves down." loading="lazy">
+  <figcaption>The same hormone bends a shoot up and a root down because roots are inhibited by high IAA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--03-iaa-root-growth.webp" width="900" height="980" alt="Five roots hang from agar. Growth was 14.0 mm with no IAA and 15.4 mm at the lowest IAA (+10.0 percent), then 12.6, 8.4 and 4.2 mm (-10.0, -40.0 and -70.0 percent) as IAA rose." loading="lazy">
+  <figcaption>Low IAA slightly stimulates root growth, higher IAA inhibits it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--05-apical-dominance.webp" width="900" height="1000" alt="Five pea plants: apex intact gives a 3 mm lateral shoot; apex cut with plain lanolin 40 mm; with 0.01, 0.1 and 1.0 percent IAA 29, 12 and 4 mm, which is 27.5, 70 and 90 percent less than the control." loading="lazy">
+  <figcaption>More IAA on the cut stump means less lateral growth, replacing the apex.</figcaption>
+</figure>
+
+
 ## Required practical 10
 
 Aim: test how one chosen factor alters which way a root or shoot grows.
@@ -86,6 +107,12 @@ Aim: test how one chosen factor alters which way a root or shoot grows.
 
 Worked reminder: angles 34, 41, 38, 45, 36, 40 give a total of 234, so the mean is 234 / 6 = 39.0°, with a range of 34° to 45°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--09-antimicrobial-zones.webp" width="900" height="1200" alt="A bacterial lawn with 6 mm discs: extract A gives a 14 mm clear zone, B 10 mm, solvent-only gives none and a known antibiotic gives a zone. Inhibited area is 126 mm2 for A and 50 mm2 for B: diameter 1.4 times larger, area 2.5 times larger." loading="lazy">
+  <figcaption>Compare inhibited areas, not diameters.</figcaption>
+</figure>
+
+
 ## 3.4.5.3 Ethene and fruit ripening
 
 - Ethene has a role in fruit ripening.
@@ -94,6 +121,12 @@ Worked reminder: angles 34, 41, 38, 45, 36, 40 give a total of 234, so the mean 
 - Green fruit is firmer and handles transport better; exposure to ethene at the destination ripens the batch together.
 
 Worked reminder: ripening time falls from 8 days to 3 days, a reduction of 5 days. 5 / 8 × 100 = 62.5 %.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--07-ethene-ripening.webp" width="900" height="1140" alt="Bananas took 8 days to ripen in air and 3 days with ethene, 62.5 percent quicker. Ethene gas spreads from ripe fruit to green neighbours. Bananas are picked green, shipped cool and ripened with ethene on arrival." loading="lazy">
+  <figcaption>Ethene is a gas signal that speeds ripening and lets fruit be picked green.</figcaption>
+</figure>
+
 
 ## 3.4.5.3 ABA and stomatal closure
 
@@ -108,6 +141,12 @@ Trigger: the plant is water-stressed because its roots lack enough water.
 5. The stoma closes, which reduces water loss.
 
 Worked reminder: aperture 8.4 µm falls to 2.1 µm, a decrease of 6.3 µm. 6.3 / 8.4 × 100 = 75.0 %. Over 30 minutes the mean rate is 6.3 / 30 = 0.21 µm per minute.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--04-aba-stomata.webp" width="900" height="1100" alt="A guard cell: ABA binds a receptor, K+ and Cl- ions leave, guard cell water potential rises so water leaves by osmosis, turgor falls and the pore closes. An open stoma lets CO2 in and water out; a closed one reduces both." loading="lazy">
+  <figcaption>ABA triggers ion loss, then water loss, so guard cells go flaccid and the stoma closes.</figcaption>
+</figure>
+
 
 ## Key terms in one place
 

@@ -64,6 +64,12 @@ These revision notes condense sections 3.6.3 (Using electricity in the home) and
 
 **Worked reminder.** A trace has a peak of 2.5 divisions at 4 V per division, and 3 cycles across 12 divisions at 5 ms per division. Peak pd = 2.5 × 4 = 10 V. One cycle = 4 divisions = 20 ms = 0.020 s. f = 1 / 0.020 = 50 Hz.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--09-ac-trace.webp" width="900" height="990" alt="An oscilloscope grid at 2 V and 2.5 ms per division. The ac sine wave peaks 3.0 divisions (6.0 V) above zero; one cycle is 4 divisions, 10 ms, so f is 100 Hz. A battery gives a flat line at 9.0 V, 3.0 V above the ac peak." loading="lazy">
+  <figcaption>Reading peak pd, period and frequency from a trace.</figcaption>
+</figure>
+
+
 ## Mains and safety
 
 - Mains is ac with a set frequency and voltage. rms values are not required.
@@ -81,6 +87,22 @@ These revision notes condense sections 3.6.3 (Using electricity in the home) and
 3. Fuse melts (or circuit breaker trips) in the live wire.
 4. Appliance is disconnected, so the case is no longer live.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--10-earth-fuse-fault.webp" width="900" height="1010" alt="Two panels. A loose live wire touches the metal case; large current flows along the live wire and back through the earth wire. The large current melts the fuse in the live wire, cutting the appliance off from the live supply." loading="lazy">
+  <figcaption>The earth wire carries the fault current and the fuse in the live wire melts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--07-fuse-vs-breaker.webp" width="900" height="720" alt="A fuse and a circuit breaker side by side, both in the live wire. The fuse wire melts and must be replaced; the circuit breaker trips off, works much faster and is reset by hand." loading="lazy">
+  <figcaption>Both protect the live wire; a breaker is faster and resettable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--08-double-insulation.webp" width="900" height="930" alt="A cut-away appliance with an outer and an inner insulating layer around a live motor. Only live and neutral wires enter and there is no earth wire. The user touches only the outer casing. The symbol is a square inside a square." loading="lazy">
+  <figcaption>Two insulation layers keep the user from live parts, so no earth wire is needed.</figcaption>
+</figure>
+
+
 ## Energy transfers
 
 | Device | Transfer |
@@ -91,6 +113,17 @@ These revision notes condense sections 3.6.3 (Using electricity in the home) and
 | Lamp | Electrical to light (some thermal wasted) |
 | Battery charger | Electrical to chemical |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--09-energy-transfers.webp" width="900" height="810" alt="Five appliances and the energy they transfer electrical energy into: kettle thermal, fan motor kinetic, loudspeaker sound, lamp light plus some wasted thermal, phone charger chemical stored in the battery." loading="lazy">
+  <figcaption>Name the useful energy transfer in full, not just heat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--11-energy-charge-pd.webp" width="900" height="1000" alt="A 12 V cell and lamp where each coulomb carries 12 J, so 4.5 C carries 54 J. Below, 0.80 A for 300 s on 230 V gives Q = 240 C and E = 55 200 J by one route, and P = 184 W and E = 55 200 J by the other." loading="lazy">
+  <figcaption>Energy equals charge times pd, and both routes give the same answer.</figcaption>
+</figure>
+
+
 ## Method: power, energy and charge
 
 1. Decide which quantities you are given: energy and time, current and pd, or charge and pd.
@@ -100,6 +133,12 @@ These revision notes condense sections 3.6.3 (Using electricity in the home) and
 
 **Worked reminder.** A hob ring takes 4.0 A from a 230 V supply. Power = 4.0 × 230 = 920 W. Over 300 s it transfers 920 × 300 = 276 000 J. The charge that passes in that time is 4.0 × 300 = 1200 C, and 1200 × 230 = 276 000 J gives the same energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--10-kettle-power.webp" width="900" height="840" alt="A straight-line graph of energy against time for a 2400 W kettle. At 450 s the energy is 1 080 000 J (1.08 MJ). For 540 000 J the time is 225 s." loading="lazy">
+  <figcaption>The gradient of energy against time is the power.</figcaption>
+</figure>
+
+
 ## Method: fuse choice
 
 1. Write I = P / V.
@@ -108,6 +147,12 @@ These revision notes condense sections 3.6.3 (Using electricity in the home) and
 4. Choose the smallest available fuse rating above I.
 
 **Worked reminder.** A 690 W iron on 230 V draws 690 / 230 = 3.0 A. A 3 A fuse equals the working current and risks melting in normal use, so use the 5 A fuse from the choices 3 A, 5 A and 13 A.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--11-fuse-choice.webp" width="900" height="890" alt="Bars show the currents of a 60 W lamp (0.26 A), 800 W toaster (3.5 A) and 1400 W hair dryer (6.1 A) at 230 V against 3, 5 and 13 A fuse lines. The fuse chosen is the next rating above the current: 3 A, 5 A and 13 A." loading="lazy">
+  <figcaption>Choose the fuse rating just above the working current.</figcaption>
+</figure>
+
 
 ## Method: kWh and cost
 
@@ -122,6 +167,12 @@ These revision notes condense sections 3.6.3 (Using electricity in the home) and
 **Meter readings.** Units used = later reading minus earlier reading. A meter showing 10230 then 10265 means 35 kWh. At 30 p per kWh the cost is 35 × 30 = 1050 p = £10.50.
 
 You will not need to convert between kWh and J. Stay in kWh, kW and h, or in J, W and s, for each calculation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of--12-kwh-cost.webp" width="900" height="1120" alt="An oven at 2.5 kW for 1.5 h is a rectangle of area 3.75 kWh, costing 106.875 p, about 107 p at 28.5 p per kWh. A meter reading 04817 then 05103 shows 286 kWh used, costing 8151 p, which is 81.51 pounds." loading="lazy">
+  <figcaption>Energy in kWh is power times time; cost is kWh times price.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

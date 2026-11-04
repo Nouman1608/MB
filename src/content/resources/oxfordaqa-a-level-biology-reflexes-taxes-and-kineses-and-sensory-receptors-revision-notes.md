@@ -44,6 +44,12 @@ Condensed recall for sections 3.4.1, 3.4.2.1 and 3.4.2.2 of the OxfordAQA Intern
 
 **Reminder:** a 0.90 m pathway at 45 m s⁻¹ takes 0.90 ÷ 45 = 0.020 s = 20 ms. Two synapses at 0.5 ms add 1.0 ms. Total **21 ms**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--01-reflex-arc.webp" width="900" height="1270" alt="A cross-section of the spinal cord shows the reflex pathway from a hot stimulus. The receptor excites a sensory neurone whose cell body lies in the dorsal root swelling; it synapses with a relay neurone in the grey matter, which synapses with a motor neurone leaving by the ventral root to a muscle. Impulses also pass up the white matter to the brain. The lesson example gives a 20 ms reflex time." loading="lazy">
+  <figcaption>The three-neurone reflex arc: receptor, sensory, relay and motor neurones, effector (Edexcel adds roots and grey/white matter).</figcaption>
+</figure>
+
+
 ## Taxes and kineses
 
 | | Taxis | Kinesis |
@@ -90,6 +96,12 @@ Condensed recall for sections 3.4.1, 3.4.2.1 and 3.4.2.2 of the OxfordAQA Intern
 
 **Worked reminder:** resting potential −70 mV, threshold −55 mV, so 15 mV of depolarisation is needed. A stimulus that takes the potential to −57 mV gives 13 mV, which is 2 mV short, so no action potential.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--07-pacinian-corpuscle.webp" width="900" height="1130" alt="A Pacinian corpuscle has concentric lamellae separated by gel, with a sensory neurone ending at the centre. Pressure stretches the membrane and widens stretch-mediated Na+ channels, so Na+ enters and the membrane depolarises: the generator potential. In the lesson example pressures of 0.5, 1.0 and 1.5 kPa give 6, 12 and 18 mV; only 1.5 kPa passes the 15 mV needed to reach threshold and fire an action potential." loading="lazy">
+  <figcaption>Pressure opens stretch-mediated Na+ channels; only a generator potential reaching threshold fires an impulse.</figcaption>
+</figure>
+
+
 ## 3.4.2.2 Rods and cones
 
 | | Rods | Cones |
@@ -107,6 +119,12 @@ Condensed recall for sections 3.4.1, 3.4.2.1 and 3.4.2.2 of the OxfordAQA Intern
 - **Colour (cones).** The brain compares how strongly the three cone types are stimulated. Rods have one pigment, so there is no comparison to make.
 
 **Worked reminder (summation):** a single rod gives 0.8 mV in dim light and the threshold is 3.0 mV. Four rods give 4 × 0.8 = 3.2 mV, which is enough. Convergence of 90 rods onto 5 bipolar neurones is 90 ÷ 5 = 18 rods for each.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--06-summation.webp" width="900" height="1010" alt="Two small diagrams show spatial summation (five neurones at once) and temporal summation (one neurone firing five times quickly). A staircase graph rises from -70 mV by 3 mV per impulse to the -55 mV threshold on the fifth impulse, where an action potential starts. One impulse alone gives -67 mV, below threshold. No decay is assumed, as in the lesson example." loading="lazy">
+  <figcaption>Small depolarisations add up to reach threshold: 5 x 3 mV = 15 mV.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -149,6 +167,17 @@ Condensed recall for sections 3.4.1, 3.4.2.1 and 3.4.2.2 of the OxfordAQA Intern
 9. Rhodopsin is changed by low-intensity light, and many rods share one bipolar neurone, so their generator potentials sum to reach the threshold.
 10. Each cone has its own bipolar neurone, so two points stimulating different cones give two separate sets of impulses.
 11. Only rods respond. They have one pigment, so the brain cannot compare responses of different types.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--03-resting-potential.webp" width="900" height="1010" alt="A membrane separates the outside above from the inside of the axon below. A sodium-potassium pump moves 3 Na+ out for every 2 K+ in, using ATP. Open K+ channels let K+ diffuse out quickly while Na+ channels are mostly closed, and negatively charged proteins stay inside. The inside is therefore negative, about -70 mV." loading="lazy">
+  <figcaption>The pump, leaky K+ channels and trapped negative proteins make the inside of the axon about -70 mV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--04-action-potential.webp" width="900" height="1010" alt="A graph of membrane potential against time rests at -70 mV, depolarises past the -55 mV threshold to +40 mV, repolarises as K+ leaves, dips below -70 mV (hyperpolarisation) and returns to rest. Bars show Na+ channels open on the rising phase and K+ channels open on the falling phase. A 2.5 ms refractory period limits the frequency to 400 impulses per second." loading="lazy">
+  <figcaption>Membrane potential during one action potential, with channel activity and the refractory period.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

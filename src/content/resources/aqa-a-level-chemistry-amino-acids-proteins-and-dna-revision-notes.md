@@ -68,6 +68,12 @@ The [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) lists every topi
 *Reminder:* valine, H₂N–CH(CH(CH₃)₂)–COOH, in acid is H₃N⁺–CH(CH(CH₃)₂)–COOH. The side chain is unchanged
 because it has no acid or amine group.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--07-amino-acid-ions.webp" width="900" height="930" alt="Glycine shown as H3N+CH2COOH (overall +1) in acid, the zwitterion H3N+CH2COO- (0) in neutral solution and H2NCH2COO- (-1) in alkali, with arrows for adding OH- (down) and H+ (up)." loading="lazy">
+  <figcaption>In acid, neutral and alkaline solution an amino acid is a +1 ion, a zwitterion and a -1 ion.</figcaption>
+</figure>
+
+
 ## 3.3.13.2 Proteins
 
 ### Peptides
@@ -102,6 +108,22 @@ Hydrogen bond in proteins: a lone pair on the δ− O of C=O attracts the δ+ H 
 - **α-helix**: a coil; hydrogen bonds between peptide links on different turns of the same chain.
 - **β-pleated sheet**: chain sections side by side; hydrogen bonds between neighbouring sections.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
+  <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
+
 ### Thin-layer chromatography
 
 1. Pencil baseline; spot the mixture and standards.
@@ -112,6 +134,12 @@ Hydrogen bond in proteins: a lone pair on the δ− O of C=O attracts the δ+ H 
 
 TLC is also Required practical 12, listed under 3.3.16 Chromatography.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+
+
 ## 3.3.13.3 Enzymes
 
 - Enzymes are proteins and catalysts. They provide a route with a lower activation energy.
@@ -120,6 +148,12 @@ TLC is also Required practical 12, listed under 3.3.16 Chromatography.
   other enantiomer has its groups arranged differently in space, so it cannot bind in the same way.
 - A drug can be an **inhibitor**: it binds to the active site and blocks it, so the substrate cannot bind.
 - **Computers** model the active site and test how well candidate molecules fit, to help design drugs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--10-chirality.webp" width="900" height="1116" alt="Top: two mirror-image enantiomers of a chiral carbon with four different groups (NH2, COOH, CH3, H), drawn with wedge and dash bonds, which cannot be superimposed. Bottom (AQA only): an active site with three binding points fits one enantiomer; the mirror image has two groups swapped and does not fit." loading="lazy">
+  <figcaption>A chiral centre has four different groups; an enzyme active site binds only one enantiomer.</figcaption>
+</figure>
+
 
 ## 3.3.13.4 DNA
 

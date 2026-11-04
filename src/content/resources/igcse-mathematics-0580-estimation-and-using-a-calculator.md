@@ -97,6 +97,17 @@ Round 12.9963 to (a) 2 d.p., (b) 3 s.f.
 
 When a 9 rounds up it carries into the column to its left. Keep the trailing zeros so the answer still shows the accuracy asked for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--01-rounding-number-line.webp" width="900" height="960" alt="Two number lines show 46 285 between 46 200 and 46 300, past the halfway point 46 250, so it rounds up to 46 300. Between 46 000 and 47 000 it lies before halfway 46 500, so it rounds to 46 000." loading="lazy">
+  <figcaption>Compare 46 285 with the halfway point to round to the nearest 100 or 1000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--02-significant-figures.webp" width="900" height="900" alt="The digits of 0.07049 are boxed. The leading zeros are greyed because they never count; counting starts at the 7. The digit after the last kept one decides: 0 and 4 leave it (0.07, 0.070) and 9 rounds up (0.0705)." loading="lazy">
+  <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
+</figure>
+
+
 ## 1.9.2 Making estimates
 
 An estimate is a quick, rough answer you can find in your head. In an exam the instruction is usually "by writing each number correct to 1 significant figure, estimate the value of …". Follow it exactly:
@@ -146,6 +157,17 @@ The syllabus includes quantities and measurements, not just bare numbers. A rect
 
 Estimates are also how you check a calculator answer on Papers 3 and 4. If your estimate is 30 and the display shows 296.82, you have mis-keyed a decimal point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--04-estimate-room-area.webp" width="900" height="850" alt="A room 4.85 m by 6.12 m is drawn to scale as a solid rectangle. A dashed rectangle of 5 m by 6 m, from rounding each length to 1 s.f., almost covers it. The estimate is 30 square metres and the exact area is 29.682." loading="lazy">
+  <figcaption>Rounding each length to 1 s.f. gives an area estimate very close to the exact one.</figcaption>
+</figure>
+
+
 ## 1.9.3 Rounding answers to a reasonable accuracy
 
 The final answer must make sense for the question.
@@ -166,6 +188,12 @@ The final answer must make sense for the question.
 ```
 
 Normal rounding gives 13 in both cases, and 13 is wrong in both. "How many are needed" rounds up; "how many can you afford or fit" rounds down.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">
+  <figcaption>The context, not the digit after the point, decides whether to round up or down.</figcaption>
+</figure>
+
 
 ## 1.14.1 Using a calculator efficiently
 
@@ -198,6 +226,12 @@ A circle has circumference 30 cm. Find (a) its radius, (b) its area.
 
 Using the rounded radius in (b) gives 71.5, which loses the accuracy mark. Keep 4.774 648… in the calculator.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--07-dont-round-early.webp" width="900" height="890" alt="A circle has circumference 30 cm, so r = 30 / (2 pi) = 4.774648... cm. Using the full value in A = pi r^2 gives 71.6 cm squared; using the rounded 4.77 gives 71.5, which is wrong." loading="lazy">
+  <figcaption>Carry the full calculator value forward and round only the final answer.</figcaption>
+</figure>
+
+
 ## 1.14.2 Entering values appropriately
 
 Time is the most common trap because there are 60 minutes in an hour, not 100.
@@ -222,6 +256,12 @@ Other entries to get right:
 - **Units:** convert to matching units before entering, e.g. 45 cm as 0.45 m if the other lengths are in metres.
 - **Negative numbers:** use brackets when squaring a negative, as the Number revision notes show.
 - **Fractions:** use the fraction key or brackets, so 3/(4 × 5) is not entered as 3 ÷ 4 × 5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--06-entering-time.webp" width="900" height="1000" alt="A clock shows 50 minutes as 50/60 of an hour, so 1 h 50 min is 1.8333 h. Dividing 148 by 1 + 50/60 gives 80.7 km/h. Typing 1.50 gives 98.7 and rounding to 1.83 first gives 80.9, both wrong." loading="lazy">
+  <figcaption>Convert minutes by dividing by 60 and keep the full value.</figcaption>
+</figure>
+
 
 ## 1.14.3 Interpreting the display
 

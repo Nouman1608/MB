@@ -38,6 +38,12 @@ Related pages: the [course hub](/boards/oxfordaqa/igcse/mathematics/), the [prin
 | y = sin x, cos x (Extension only) | Wave | Range −1 to 1; period 360° |
 | y = tan x (Extension only) | Repeating with breaks | Period 180°; breaks at 90°, 270° and so on |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--01-g-standard-shapes.webp" width="900" height="1100" alt="Six small graphs: y = x squared (U-shape), y = minus x squared (cap shape), y = x cubed (rising S), y = minus x cubed (falling S), y = 1/x (two branches) and, for Extension, y = k to the power x through (0, 1). Each is plotted from its function." loading="lazy">
+  <figcaption>Six graph shapes to recognise on sight; the exponential is Extension only.</figcaption>
+</figure>
+
+
 ## Quadratics: features and method
 
 ### Method for features (Core)
@@ -60,9 +66,31 @@ y = x² + 6x + 8 factorises as (x + 2)(x + 4), so the roots are −2 and −4. T
 | Touches the x-axis at the turning point | One repeated root, for example y = (x − 3)² |
 | Stays wholly above or below the axis | No real roots |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--03-u-symmetry-axis.webp" width="900" height="840" alt="A parabola through (2, 9) and (8, 9) with roots at −3 and 13. Both pairs are centred on the line x = 5: (2 + 8) ÷ 2 = 5 and (−3 + 13) ÷ 2 = 5, so the turning point has x = 5." loading="lazy">
+  <figcaption>Points at equal height, and the two roots, are all centred on x = 5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--05-sketch-cubic.webp" width="900" height="1030" alt="Sketch of y = x³ − 4x² + 3x = x(x − 1)(x − 3). The curve crosses the x-axis at 0, 1 and 3, coming up from bottom left, turning twice, and rising to top right because the x³ coefficient is positive." loading="lazy">
+  <figcaption>Factorise a cubic to find its roots, then follow the rise, turn, fall, turn, rise.</figcaption>
+</figure>
+
+
 ### Solving f(x) = k graphically
 
 Add the line y = k, parallel to the x-axis. The x-values where it meets the curve are the solutions. Two solutions are the same distance from the axis of symmetry, so if you know one you can find the other: x₂ = 2 × (axis) − x₁.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--06-cos-tan-solutions.webp" width="900" height="1040" alt="Top: cosine curve crossed by y = 0.4 at 66.4 and 293.6 degrees (x and 360 minus x). Bottom: tangent curve crossed by y = 1 over root 3 at 30 and 210 degrees (x and x plus 180)." loading="lazy">
+  <figcaption>Cosine uses 360 minus x and tangent uses x plus 180 for the second solution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--05-sin-solutions.webp" width="900" height="850" alt="The sine curve with dashed lines at y = 1/2 and y = minus 1/2. The lines cross at 30 and 150 degrees, and 210 and 330 degrees, showing x and 180 minus x, then 180 plus x and 360 minus x." loading="lazy">
+  <figcaption>Draw a horizontal line across the graph; each crossing is a solution.</figcaption>
+</figure>
+
 
 ## Completing the square (Extension only)
 
@@ -76,6 +104,12 @@ Method for x² + bx + c: halve b, write (x + b/2)², subtract (b/2)², then add 
 Worked reminder: x² − 10x + 21 = (x − 5)² − 25 + 21 = (x − 5)² − 4. The minimum is **(5, −4)**. Setting it to zero: (x − 5)² = 4, x − 5 = ±2, so the roots are 3 and 7.
 
 Check: if q is positive on a minimum curve, or negative on a maximum curve, the curve never reaches the x-axis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--02-g-complete-square-turning-point.webp" width="900" height="1110" alt="Two graphs. y = x squared minus 8x plus 9 = (x minus 4) squared minus 7 has its minimum at (4, minus 7) and roots 1.35 and 6.65. y = 3 + 4x minus x squared = 7 minus (x minus 2) squared has its maximum at (2, 7)." loading="lazy">
+  <figcaption>Writing y = (x − p)² + q or y = q − (x − p)² puts the turning point at (p, q).</figcaption>
+</figure>
+
 
 ## Cubics
 
@@ -102,6 +136,17 @@ Sketch y = (x + 1)(x − 3)(x − 5). The roots are −1, 3 and 5. At x = 0 the 
 - Smooth curve with no straight segments.
 - Correct end behaviour (check the sign of the highest power).
 - The turning point marked, if the question asks for one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--03-reciprocal-meets-line.webp" width="900" height="980" alt="The graph of y = 12/x has two separate branches with no point at x = 0. The line y = x + 1 crosses them at (−4, −3) and (3, 4), so 12/x = x + 1 has solutions x = −4 and x = 3." loading="lazy">
+  <figcaption>A reciprocal curve has two branches; the line meets them where the equation is true.</figcaption>
+</figure>
+
 
 ## Exponentials (Extension only)
 
@@ -131,6 +176,47 @@ tan x = k   first angle a, second angle a + 180°
 Worked reminder: sin x = 0.8 between 0° and 180°. The inverse sine gives 53.1°, and the second is 180° − 53.1° = **126.9°**.
 
 For angles of any size, take away or add 360° (or 180° for tan) until the angle is in the 0° to 360° range, or use the repeating pattern of the graph.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--03-g-exponential-pair.webp" width="900" height="960" alt="The curves y = 2 to the x and y = one half to the x for x from minus 3 to 3 on one grid. Both pass through (0, 1) and stay above the x-axis; one rises and the other falls, mirror images in the y-axis." loading="lazy">
+  <figcaption>y = 2ˣ and y = (½)ˣ both pass through (0, 1) and are mirror images in the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--04-u-exponential-find-k.webp" width="900" height="800" alt="Graph of y = 5ˣ through (0, 1) and (3, 125). Because k³ = 125, k = 5; at x = −1, y = 1/5 = 0.2, just above the x-axis." loading="lazy">
+  <figcaption>k³ = 125 gives k = 5, so at x = −1 the curve is at 0.2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and--05-u-trig-solutions.webp" width="900" height="1100" alt="Cosine graph with the line y = −0.4 meeting it at 113.6° and 246.4°, and tangent graph with the line y = 2 meeting it at 63.4° and 243.4°." loading="lazy">
+  <figcaption>Cosine is symmetric about 180°, tangent repeats every 180°: that gives the second solution each time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--01-table-to-curve.webp" width="900" height="1090" alt="A table of values for y = x² − 2x − 3 from x = −2 to 5 (y = 5, 0, −3, −4, −3, 0, 5, 12) is plotted as crosses and joined by a smooth U-shaped curve. The curve is symmetrical about the dashed line x = 1. It is drawn smoothly, not with ruler segments." loading="lazy">
+  <figcaption>Plot a table, then draw one smooth curve; the table is symmetrical about x = 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is Extended only." loading="lazy">
+  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; Extended adds the turning point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--03-sin-cos-graphs.webp" width="900" height="810" alt="Graphs of y = sin x and y = cos x from 0 to 360 degrees with key points marked at multiples of 90 degrees. Both are waves between minus 1 and 1 repeating every 360 degrees; cos is sin shifted by 90 degrees." loading="lazy">
+  <figcaption>Sin and cos are waves between -1 and 1 that repeat every 360 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--04-tan-graph.webp" width="900" height="860" alt="Graph of y = tan x from 0 to 360 degrees with dashed asymptotes at 90 and 270 degrees. Branches pass through (0,0), (180,0) and (360,0), approach the asymptotes without touching, and repeat every 180 degrees." loading="lazy">
+  <figcaption>Tan x has asymptotes at 90 and 270 degrees and repeats every 180 degrees.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

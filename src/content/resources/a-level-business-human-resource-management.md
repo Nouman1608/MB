@@ -143,6 +143,12 @@ foundational knowledge to keep secure, rather than content to revise
 once and move past, pays off well beyond this topic's own exam
 questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--07-conflict.webp" width="900" height="1040" alt="Employee actions: withdraw cooperation, work to rule, overtime ban, strike, leave. Causes: pay, conditions, job losses, change. Resolution: participation, bargaining between managers and representatives, arbitration by an independent third party." loading="lazy">
+  <figcaption>Conflict can be settled by participation, bargaining or arbitration.</figcaption>
+</figure>
+
+
 ## Worked example: applying recruitment to a scenario
 
 <!-- marlbridge-diagram:business-recruitment-internal-external -->
@@ -165,6 +171,12 @@ higher cost and a period of adjustment for the new hire. The answer
 that reaches a justified recommendation — not just a balanced list —
 tends to score most highly, because Business at this level assesses
 judgement as much as knowledge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
 
 ## Common mistakes to avoid
 

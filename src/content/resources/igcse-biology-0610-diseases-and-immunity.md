@@ -55,6 +55,12 @@ A **transmissible disease** is a disease in which the **pathogen can be passed f
 
 When a question asks you to "state" a method, name the route and give a brief example.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--01-transmission.webp" width="900" height="1000" alt="Six icon cards. Direct: touching an infected wound; blood and body fluids such as sharing needles. Indirect: contaminated surfaces such as a door handle, food such as undercooked meat, animals such as flies and rats, and air in droplets breathed out with a respiratory infection. Red-brown dots are pathogens." loading="lazy">
+  <figcaption>Pathogens pass directly between hosts or indirectly via surfaces, food, animals and air.</figcaption>
+</figure>
+
+
 ## Body defences (Core)
 
 The syllabus limits you to five defences. Learn what each one does.
@@ -68,6 +74,12 @@ The syllabus limits you to five defences. Learn what each one does.
 | White blood cells | Phagocytosis (engulfing pathogens) and antibody production |
 
 The first four are barriers or chemical defences. They act before pathogens reach the blood. White blood cells deal with pathogens that do get in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--02-defences.webp" width="900" height="980" alt="Schematic body with five numbered defences: 1 skin as the outline, a physical barrier; 2 nose hairs, in a magnified circle, trap dust and pathogens; 3 sticky mucus traps pathogens in the airways; 4 stomach acid kills pathogens in food and drink; 5 white blood cells in a vessel engulf pathogens and make antibodies. Defences 1 to 4 act before the blood." loading="lazy">
+  <figcaption>Four barriers act before pathogens reach the blood; white blood cells deal with those that get in.</figcaption>
+</figure>
+
 
 ## Controlling the spread of disease (Core)
 
@@ -94,6 +106,12 @@ percentage decrease = 414 ÷ 450 × 100 = 92%
 
 The key skill is dividing by the **starting** value (450). In part (b), "suggest" means give a sensible reason based on transmission routes; there is no single correct answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--03-block.webp" width="900" height="1160" alt="Five rows, each with a pathogen source, a numbered barrier and a person. 1 Clean water supply blocks untreated water; 2 hygienic food preparation blocks raw food; 3 good personal hygiene blocks dirty hands; 4 waste disposal removes rubbish that attracts flies and rats; 5 sewage treatment stops faeces pathogens reaching water or crops. Solid lines show pathogens moving; dashed lines show the route blocked." loading="lazy">
+  <figcaption>Each public-health measure blocks one transmission route.</figcaption>
+</figure>
+
+
 ## Active immunity (Extended only)
 
 **Active immunity** is defence against a pathogen by **antibody production in the body**. Your own lymphocytes make the antibodies.
@@ -105,6 +123,12 @@ The key skill is dividing by the **starting** value (450). In part (b), "suggest
 - Specific antibodies have **complementary shapes** which fit specific antigens. Antibodies bind particular regions of antigens (epitopes) with complementary binding sites. An antibody usually binds its matching epitope most effectively; cross-reactivity can occur if another pathogen carries a sufficiently similar epitope.
 - Binding leads either to the **direct destruction of pathogens**, or to **marking pathogens for destruction by phagocytes**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
+</figure>
+
+
 ### Gaining active immunity
 
 Active immunity is gained in two ways:
@@ -113,6 +137,12 @@ Active immunity is gained in two ways:
 2. **By vaccination**: your lymphocytes respond without you having the disease.
 
 Either way, **memory cells** are produced. If the same pathogen enters again, memory cells make antibodies much faster and in greater quantity, so the pathogen is destroyed before you become ill. This is long-term immunity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <figcaption>Memory cells make the second response faster and larger.</figcaption>
+</figure>
+
 
 ## Vaccination (Extended only)
 
@@ -125,6 +155,12 @@ The syllabus asks you to **outline** the process in three steps. Learn them in o
 ### The role of vaccination in controlling spread
 
 When a large proportion of a population is vaccinated, most people are immune. A pathogen that enters the population finds few people it can infect, so it is passed on less often. The number of cases falls, and people who cannot be vaccinated (for example, very young babies) are also less likely to meet the pathogen. This is often called **herd immunity**. Where vaccination rates fall, the disease can spread again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--06-herd-immunity.webp" width="900" height="1220" alt="Extended. Two grids of 40 people with one case each. With 20 percent vaccinated, 31 of 40 become ill; with 90 percent vaccinated, 2 of 40 become ill. A baby too young to be vaccinated surrounded by vaccinated people stays well." loading="lazy">
+  <figcaption>When most people are vaccinated the pathogen finds few people to infect.</figcaption>
+</figure>
+
 
 ## Passive immunity (Extended only)
 
@@ -150,6 +186,12 @@ A newborn baby's immune system is not yet fully developed. Breast milk contains 
 | Memory cells | Produced | Not produced |
 | Duration | Long-term | Short-term |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--07-active-passive.webp" width="900" height="960" alt="Extended. Active immunity: own lymphocytes make the antibodies after infection or vaccination, memory cells are produced and protection is long-term. Passive immunity: antibodies come from another person, such as from a mother through the placenta or breast milk, no memory cells are produced and protection is short-term." loading="lazy">
+  <figcaption>Active immunity is made by you and lasts; passive immunity is borrowed and fades.</figcaption>
+</figure>
+
+
 ## Cholera (Extended only)
 
 **Cholera** is a disease caused by a **bacterium**. It is **transmitted in contaminated water**, typically water containing sewage from infected people.
@@ -166,6 +208,12 @@ Link this to the Core content: clean water and sewage treatment are exactly the 
 ### Worked example: explaining a symptom
 
 **Explain why a person with cholera may feel weak and thirsty even though they are drinking water.** Water drawn into the gut by osmosis is lost in diarrhoea faster than it can be replaced, so the person becomes dehydrated. Ions are lost from the blood at the same time. Each step in the chain earns credit, so write them in order: toxin, chloride ions, osmosis, diarrhoea, dehydration and ion loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--08-cholera.webp" width="900" height="1100" alt="Extended. Water contaminated with sewage and cholera bacteria is drunk. 1 The bacteria produce a toxin. 2 The toxin causes chloride ions to be secreted into the small intestine. 3 Water potential in the gut falls, so water moves in by osmosis from the blood and tissues. 4 The result is diarrhoea, dehydration and loss of ions from the blood." loading="lazy">
+  <figcaption>Toxin, then chloride ions, then osmosis, then diarrhoea and dehydration.</figcaption>
+</figure>
+
 
 ## Common errors
 

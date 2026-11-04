@@ -39,6 +39,12 @@ The specification says the ideas of odd and even functions are not required, so 
 
 Use capital letters for the vertices and the matching small letters for the opposite sides. Side a is opposite angle A, side b opposite B, side c opposite C. Every rule below depends on this pairing, so mark it on your diagram before you start.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--07-small-angle-approximations.webp" width="900" height="1100" alt="For θ from 0 to 1 radian, sin θ and tan θ hug the line y = θ near zero and cos θ hugs 1 − θ²/2. At θ = 0.2, sin = 0.1987, tan = 0.2027, cos = 0.9801 and 1 − θ²/2 = 0.9800." loading="lazy">
+  <figcaption>For small θ in radians, sin θ and tan θ are close to θ and cos θ is close to 1 − θ²/2.</figcaption>
+</figure>
+
+
 ## The sine rule
 
 ```
@@ -65,6 +71,12 @@ c = 9.4 × sin 78° ÷ sin 38° = 14.93... = 14.9 cm (3 s.f.)
 
 If the data is two sides plus an angle that lies outside them, the sine rule gives sin of the unknown angle. Two angles between 0° and 180° have the same sine: θ and 180° − θ. Both may give a triangle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--05-ambiguous-case.webp" width="900" height="890" alt="Angle A = 34°, a = 9, b = 13. A circle of radius 9 centred on C meets the line through A at two points, giving two triangles: B = 126.1° with c = 5.47, and B = 53.9° with c = 16.1. Two triangles exist when b sin A &lt; a &lt; b, here 7.27 &lt; 9 &lt; 13." loading="lazy">
+  <figcaption>Two sides and a non-included angle can fit two different triangles.</figcaption>
+</figure>
+
+
 ### Worked example 2: two triangles
 
 In triangle ABC, a = 11.2 cm, b = 14.5 cm and A = 43°. Find angle B and side c in each possible triangle.
@@ -78,6 +90,22 @@ B = 62.0° or B = 180° − 62.0° = 118.0°
 Test each. Case 1: C = 180° − 43° − 62.0° = 75.0°, so c = 11.2 × sin 75.0° ÷ sin 43° = 15.9 cm. Case 2: C = 180° − 43° − 118.0° = 19.0°, so c = 11.2 × sin 19.0° ÷ sin 43° = 5.35 cm.
 
 Both are valid because the angles in each case add to less than 180°. If the second value of B had made the total reach 180° or more, only one triangle would exist. A short check is: the larger side is opposite the larger angle. Here b > a, so B > A holds in both cases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--02-exact-value-triangles.webp" width="900" height="948" alt="Two right-angled triangles: legs 1, 1 and hypotenuse √2 (45°, 45°); and half an equilateral triangle with sides 1, √3, 2 (30°, 60°). A table gives sin, cos and tan of 30°, 45° and 60° read from them, with radian equivalents." loading="lazy">
+  <figcaption>Two triangles generate every exact value you need for 30°, 45° and 60°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--04-which-rule.webp" width="900" height="846" alt="Four triangles show the given information. Two sides and the angle between (SAS) or three sides (SSS) need the cosine rule: missing side 9.23, largest angle 96.4°. Two angles and a side (AAS) need the sine rule: missing side 22.9. Two sides and a non-included angle (SSA) use the sine rule but may have two answers." loading="lazy">
+  <figcaption>Match the known sides and angles to the rule: cosine for SAS and SSS, sine for AAS and SSA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--06-trig-graphs.webp" width="900" height="930" alt="y = sin x and y = cos x over 0 to 360° have period 360° and range −1 to 1; cos is sin shifted. y = tan x has period 180°, zeros at 0, 180 and 360 degrees, passes through 1 at 45° and 225°, and has asymptotes at 90° and 270°." loading="lazy">
+  <figcaption>Sine and cosine repeat every 360°; tangent repeats every 180° and has asymptotes.</figcaption>
+</figure>
+
 
 ## The cosine rule
 
@@ -118,6 +146,12 @@ L = 91.8° (1 d.p.)
 
 A negative cosine tells you the angle is obtuse. The cosine rule gives only one angle in the range 0° to 180°, so there is no ambiguity. For the next angle, use the cosine rule again, with the side 9.5 cm opposite it: cos B = (7.2² + 12.1² − 9.5²) ÷ (2 × 7.2 × 12.1), so B = 51.7°. The third angle is 180° − 91.8° − 51.7° = 36.5°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--01-unit-circle-any-angle.webp" width="900" height="850" alt="A circle of radius 1 with P at 210 degrees, measured anticlockwise from the positive x-axis. P = (cos 210°, sin 210°) = (−√3/2, −1/2) lies in the third quadrant, with reference angle 30°. Corner notes give where sin, cos and tan are positive." loading="lazy">
+  <figcaption>The point P on the unit circle gives cos θ and sin θ for any angle, and its quadrant gives the signs.</figcaption>
+</figure>
+
+
 ### Choosing a rule
 
 | You know | Use |
@@ -144,6 +178,12 @@ Area = ½ × 5.7 × 8.6 × sin 47° = 17.9 cm² (3 s.f.)
 c² = 5.7² + 8.6² − 2 × 5.7 × 8.6 × cos 47° = 39.58...
 c = 6.29 cm (3 s.f.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--09-inverse-trig-graphs.webp" width="900" height="1218" alt="y = sin x restricted to −π/2 ≤ x ≤ π/2 reflects in y = x to give y = arcsin x, with domain −1 to 1 and range −π/2 to π/2. y = arccos x has range 0 to π; y = arctan x has range strictly between −π/2 and π/2 with horizontal asymptotes." loading="lazy">
+  <figcaption>Restrict the domain so the function is one-to-one, then reflect in y = x to get the inverse.</figcaption>
+</figure>
+
 
 ### Worked example 6: working backwards from the area
 
@@ -206,6 +246,12 @@ Segment = ½r²θ − ½r² sin θ = ½r²(θ − sin θ)
 
 For r = 7.5 cm and θ = 1.4 rad: ½ × 56.25 × (1.4 − 0.98545) = 11.7 cm² (3 s.f.).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--03-sector-triangle-segment.webp" width="900" height="765" alt="A sector of radius 10 cm and angle π/3 has area 50π/3. Subtracting the triangle of area 25√3 leaves the segment, ½r²(θ − sin θ), about 9.06 cm². The arc length is rθ = 10π/3 cm and θ must be in radians." loading="lazy">
+  <figcaption>Segment area is sector area minus triangle area.</figcaption>
+</figure>
+
+
 ### Worked example 9: finding r and θ
 
 A sector has perimeter 30 cm and area 50 cm². Find the possible values of r and θ.
@@ -261,6 +307,12 @@ A sketch makes these easy. The sine graph is symmetrical about x = 90° and the 
 ### Stretching the input
 
 Replacing x with kx shrinks the graph horizontally and divides the period by k. The graph of y = sin 2x repeats every 360°/2 = 180°. The graph of y = tan(x/2) has period 180° ÷ ½ = 360°. Multiplying the whole function, as in y = 3 sin x, scales the height: the range is −3 to 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--08-reciprocal-graphs.webp" width="900" height="1102" alt="y = sec x, cosec x and cot x drawn over their parent functions. sec has asymptotes at 90° and 270°, cosec and cot at 0°, 180° and 360°. sec and cosec only take values y ≥ 1 or y ≤ −1 with period 360°; cot takes all real values with period 180°." loading="lazy">
+  <figcaption>A reciprocal graph has an asymptote wherever the parent function is zero.</figcaption>
+</figure>
+
 
 ## Common errors
 

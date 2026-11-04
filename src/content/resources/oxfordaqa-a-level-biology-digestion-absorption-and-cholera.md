@@ -114,6 +114,12 @@ A villus is modelled as a cylinder of radius 0.10 mm and height 1.0 mm, standing
 4. With microvilli: 0.628 × 15 = **9.4 mm²** of membrane per villus.
 5. Magnification = image ÷ actual = 42 ÷ 0.6 = **×70**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--04-surface-area-volume.webp" width="900" height="900" alt="Cubes of side 1, 2 and 4 cm have surface area to volume ratios of 6, 3 and 1.5, so the ratio falls as size rises. One alveolus of diameter 0.2 mm has area 1.26 x 10^-7 m2; multiplied by 4.5 x 10^8 alveoli this gives 56.5 m2." loading="lazy">
+  <figcaption>Larger bodies have less surface per unit volume, so lungs divide the surface into hundreds of millions of tiny sacs.</figcaption>
+</figure>
+
+
 ### Moving glucose and amino acids
 
 Monosaccharides and amino acids are absorbed by several processes at once.
@@ -127,6 +133,12 @@ Monosaccharides and amino acids are absorbed by several processes at once.
 
 Co-transport is called indirect active transport because ATP is used by the pump, not by the co-transporter itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--08-cotransport-glucose.webp" width="900" height="1040" alt="An ileum epithelial cell with gut lumen above and blood below. A pump in the blood-side membrane moves sodium ions out using ATP, keeping sodium low inside the cell. Sodium ions re-enter through a co-transporter carrying glucose, which builds up and leaves into blood by facilitated diffusion." loading="lazy">
+  <figcaption>Sodium ions pumped out of the cell drive glucose in through a co-transporter.</figcaption>
+</figure>
+
+
 ### Worked example: interpreting uptake data
 
 Glucose uptake by ileum tissue was 38 units in normal saline. With sodium ions removed it fell to 5 units.
@@ -137,6 +149,12 @@ Glucose uptake by ileum tissue was 38 units in normal saline. With sodium ions r
 ### Lipid absorption
 
 Fatty acids and monoglycerides combine with bile salts to form **micelles**. Micelles carry the products to the epithelial surface, where they are released; being lipid-soluble, they diffuse through the membrane. Inside the cell they are reassembled into triglycerides, packaged with protein and phospholipid into **chylomicrons**, and leave by exocytosis. Chylomicrons enter the lacteals and travel in the lymph before reaching the blood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--07-ileum-villus.webp" width="900" height="1010" alt="A finger-shaped villus lined by one layer of epithelial cells with microvilli. Inside are blood capillaries and a central lacteal. A model villus with radius 0.10 mm and height 1.0 mm has a curved area 20 times its footprint." loading="lazy">
+  <figcaption>Villi and microvilli give a huge surface; capillaries and the lacteal carry absorbed products away.</figcaption>
+</figure>
+
 
 ## 3.2.3.1 Cholera and its symptoms
 
@@ -155,6 +173,17 @@ A 70 kg patient produces 900 mL of watery stool per hour for 8 hours.
 - Volume = 0.9 × 8 = **7.2 L**.
 - Taking 1 L as about 1 kg, loss = 7.2 ÷ 70 × 100 = **10.3% of body mass**.
 - This explains the danger: blood volume falls and the circulation is affected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--01-airway-tissues.webp" width="900" height="1210" alt="Four cross-sections from trachea to alveolus. The trachea has a C-shaped cartilage ring, a smooth muscle ring and a ciliated lining with goblet cells. The bronchus has cartilage in separate plates. The bronchiole has no cartilage and thick smooth muscle. The alveolus has only a thin squamous layer with capillaries." loading="lazy">
+  <figcaption>Moving down the airways, cartilage disappears and smooth muscle becomes proportionally larger (not to scale).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--09-cholera-toxin.webp" width="900" height="1010" alt="A gut epithelial cell with an open chloride channel. Chloride ions move out into the lumen and sodium ions follow, lowering the lumen water potential. Water leaves the tissue by osmosis into the lumen, causing watery diarrhoea." loading="lazy">
+  <figcaption>Cholera toxin keeps chloride channels open, so ions then water flood into the gut.</figcaption>
+</figure>
+
 
 ## 3.2.3.2 Oral rehydration solutions
 

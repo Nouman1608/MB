@@ -40,6 +40,12 @@ Also useful: the [4CH1 Chemistry course hub](/boards/edexcel/igcse/chemistry/), 
 
 Use all three words, **arrangement, movement, energy**, in any "describe" answer. Each is usually a separate mark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--01-three-states.webp" width="900" height="990" alt="Three boxes compare the states. Solid particles are closely packed in a regular grid and vibrate in place. Liquid particles are close but irregular and slide past each other, filling the bottom of a container. Gas particles are far apart and move fast in all directions, filling their container." loading="lazy">
+  <figcaption>Arrangement, spacing and movement of particles explain the properties of solids, liquids and gases.</figcaption>
+</figure>
+
+
 ## 1.2 Changes of state
 
 | From → to | Name | Achieved by | Particles |
@@ -55,6 +61,22 @@ Use all three words, **arrangement, movement, energy**, in any "describe" answer
 - **Evaporation:** at the surface only, below the boiling point. **Boiling:** throughout the liquid, at the boiling point.
 - **Temperature is constant during a change of state** of a pure substance: the energy overcomes forces between particles instead of raising the temperature.
 - Freezing point and melting point of a pure substance are the same temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--09-sublimation-co2.webp" width="900" height="820" alt="Solid carbon dioxide has particles close together in a fixed pattern. On heating it changes directly into gas, with particles far apart and moving fast, skipping the liquid state. This change is called sublimation." loading="lazy">
+  <figcaption>Solid carbon dioxide sublimes: it turns to gas on heating without becoming a liquid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--02-changes-of-state.webp" width="900" height="980" alt="Solid, liquid and gas are stacked with small particle pictures. Melting (solid to liquid) and boiling or evaporating (liquid to gas) take energy in. Freezing (liquid to solid) and condensing (gas to liquid) give energy out." loading="lazy">
+  <figcaption>Melting, boiling or evaporating take in energy; freezing and condensing release it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--03-heating-curve.webp" width="900" height="880" alt="A sketch graph of temperature against time rises, goes flat at the melting point, rises, goes flat at the boiling point and rises again. Five particle boxes A to E match solid, melting, liquid, boiling and gas. The flat parts are changes of state where energy overcomes forces between particles." loading="lazy">
+  <figcaption>The flat parts of a heating curve are the changes of state.</figcaption>
+</figure>
+
 
 ## 1.3 Evidence for particles
 
@@ -72,6 +94,27 @@ Use all three words, **arrangement, movement, energy**, in any "describe" answer
 1. Work out the factor for one step: final volume ÷ volume taken (1 cm³ made up to 10 cm³ = 10).
 2. Raise it to the number of steps.
 3. Concentration left = 1 ÷ (that number).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--06-dilution-one-in-ten.webp" width="900" height="840" alt="Four tubes of purple potassium manganate(VII) get paler left to right. Each step takes 1 cm3 and makes it up to 10 cm3, multiplying concentration by 1/10. After three steps it is 1/1000 of the original yet still visibly coloured, so there are very many tiny particles." loading="lazy">
+  <figcaption>Three 1 in 10 dilutions give 1/10 × 1/10 × 1/10 = 1/1000, yet the colour is still visible.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--07-bromine-gas-jars.webp" width="900" height="980" alt="Left: bromine vapour in the lower jar and air in the upper jar; after the cover is removed the particles mix randomly until both jars are evenly brown, which takes a while. Right: the upper jar is a vacuum, so with no air particles to collide with the bromine fills both jars almost at once." loading="lazy">
+  <figcaption>Bromine diffuses to fill both jars; with a vacuum above, there is nothing to slow it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--05-diffusion.webp" width="900" height="990" alt="Gas or liquid particles that start crowded on one side spread randomly through the whole box, moving net from high to low concentration. In a solid the particles stay in fixed positions, so nothing spreads." loading="lazy">
+  <figcaption>Diffusion is net movement from high to low concentration, caused by random particle motion; it does not happen in solids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--06-ammonia-hcl-tube.webp" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
+  <figcaption>Lighter ammonia travels further, so the white ring forms nearer the hydrogen chloride end.</figcaption>
+</figure>
+
 
 ## 1.4 Solution words
 
@@ -105,6 +148,17 @@ Use all three words, **arrangement, movement, energy**, in any "describe" answer
 
 **Small reminder.** 7.2 g of a salt saturates 40 g of water at 25 °C. Solubility = 7.2 ÷ 40 × 100 = **18 g per 100 g of water** at 25 °C.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--03-solubility-curve.webp" width="900" height="1070" alt="A smooth solubility curve through 12, 20, 34, 55 and 82 g per 100 g water at 0, 20, 40, 60 and 80 degrees C. Points on the curve are saturated and points below are unsaturated. 50 g of water holds 27.5 g at 60 C and 10 g at 20 C, so 17.5 g of crystals form, shown as 7 crystals where one symbol is 2.5 g." loading="lazy">
+  <figcaption>Cooling a saturated solution of X from 60 °C to 20 °C: (55 − 20) × 50 ÷ 100 = 17.5 g of crystals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--08-solubility-method.webp" width="900" height="940" alt="Three weighings: empty basin 32.50 g, basin with saturated solution 58.90 g, basin with dry solid 39.10 g. A bar splits 58.90 g into basin 32.50, solid 6.60 and water 19.80 g. Solubility = 6.60 / 19.80 x 100 = 33.3 g per 100 g of water." loading="lazy">
+  <figcaption>Solid = 39.10 − 32.50 = 6.60 g and water = 58.90 − 39.10 = 19.80 g give 33.3 g per 100 g.</figcaption>
+</figure>
+
+
 ## 1.8 Element, compound or mixture
 
 | | Element | Compound | Mixture |
@@ -117,11 +171,23 @@ Use all three words, **arrangement, movement, energy**, in any "describe" answer
 
 Particle diagrams: count the kinds of "unit". One kind, one type of atom = element. One kind, different atoms joined = compound. More than one kind = mixture. A diatomic molecule such as Cl₂ is still an element.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
+  <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
+</figure>
+
+
 ## 1.9 Pure or impure?
 
 - **Pure substance:** sharp, fixed melting point and boiling point (pure water: 0 °C and 100 °C at normal atmospheric pressure).
 - **Mixture:** may melt or boil **over a range** of temperatures.
 - Test: measure the melting point and compare with the data-book value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--08-purity-melting-boiling.webp" width="900" height="950" alt="Two sketch graphs of temperature against time. A pure substance melts and boils at one flat, sharp temperature. An impure substance starts melting below the pure melting point and rises through a range, and boils over a range generally above the pure boiling point." loading="lazy">
+  <figcaption>Pure substances have a sharp melting and boiling point; impure ones melt and boil over a range.</figcaption>
+</figure>
+
 
 ## 1.10 Choosing a separation method
 
@@ -141,6 +207,17 @@ Particle diagrams: count the kinds of "unit". One kind, one type of atom = eleme
 4. Filter off the crystals; wash with a little cold water; dry between filter papers.
 
 **Distillation points to remember:** condenser water enters at the bottom; the thermometer bulb sits level with the side arm; in fractional distillation the lower-boiling liquid distils first and the thermometer reading stays steady while each liquid comes over.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--06-filter-crystallise.webp" width="900" height="925" alt="Filtration: a mixture is poured through filter paper; the residue stays on the paper and the filtrate drips into a beaker. Crystallisation: a solution is heated so solvent evaporates, the saturated solution is cooled, and crystals form to be filtered and dried." loading="lazy">
+  <figcaption>Filtration separates an insoluble solid; crystallisation recovers a dissolved solid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--07-distillation.webp" width="900" height="1215" alt="Simple distillation: salt solution is heated, water vapour passes through a condenser (water in at the bottom, out at the top) and pure water is collected while salt stays behind. Fractional distillation adds a fractionating column; ethanol, with the lower boiling point, boils first and is collected from ethanol and water." loading="lazy">
+  <figcaption>Simple distillation recovers a solvent; fractional distillation separates miscible liquids by boiling point.</figcaption>
+</figure>
+
 
 ## 1.11–1.13 Chromatography
 
@@ -184,6 +261,27 @@ Both distances are measured **from the baseline**. Rf has no units and is less t
 10. It is impure (a mixture): a pure substance melts at one fixed temperature.
 11. Fractional distillation.
 12. 2.1 ÷ 7.0 = **0.30**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--10-rf-food-colouring.webp" width="900" height="740" alt="A chromatogram has a pencil baseline and the solvent front 8.0 cm above it. The food colouring has spots at 3.2 and 5.6 cm, giving Rf 0.40 (matches yellow) and 0.70 (matches blue). Red has Rf 0.55 so would be at 4.4 cm; no spot is there, so red is absent." loading="lazy">
+  <figcaption>Rf = 3.2 ÷ 8.0 = 0.40 (yellow) and 5.6 ÷ 8.0 = 0.70 (blue); red is not present.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--04-reading-chromatogram.webp" width="900" height="770" alt="Lanes A, B and C are known substances with one spot each. Lane X has two spots level with A and C, so it is impure and contains A and C. Lane Y has one spot level with B, so it is pure and matches B." loading="lazy">
+  <figcaption>Matching heights identify substances; one spot means pure, two or more means impure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--05-rf-value.webp" width="900" height="1010" alt="A chromatogram shows a solvent front 80 mm above the baseline. A blue spot has moved 48 mm and an orange spot 24 mm. Dividing by 80 gives Rf 0.60 and 0.30. Rf is always less than 1." loading="lazy">
+  <figcaption>Rf = distance moved by substance / distance moved by solvent, both measured from the baseline.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

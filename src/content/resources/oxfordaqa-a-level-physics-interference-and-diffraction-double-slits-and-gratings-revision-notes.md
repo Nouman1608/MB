@@ -71,12 +71,29 @@ The relation d sin θ = nλ is derived in the study guide: the path difference b
 
 A laser of wavelength 500 nm, slits 0.40 mm apart and a screen 2.0 m away give w = 500 × 10⁻⁹ × 2.0 ÷ 0.40 × 10⁻³ = 2.5 × 10⁻³ m = 2.5 mm. Halving s doubles w to 5.0 mm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--07-aphy-waves-double-slit.webp" width="900" height="1120" alt="A laser lights two slits a distance s apart, giving equally spaced fringes of spacing w = lambda D / s on a screen distance D away (not to scale). For 633 nm, 0.50 mm and 1.80 m, w = 2.28 mm. With white light the central fringe is white and violet fringes lie nearer the centre than red ones." loading="lazy">
+  <figcaption>Fringe spacing w = lambda D / s; white light gives a white centre and coloured fringes.</figcaption>
+</figure>
+
+
 ## Interference with sound and electromagnetic waves
 
 - Sound: two loudspeakers on one signal generator. Loud where path difference is nλ, quiet where it is (n + ½)λ. Example: at 2.0 kHz and 340 m s⁻¹, λ = 0.17 m, so a path difference of 0.34 m (2λ) is loud.
 - Microwaves: one transmitter, a metal plate with two slits, a detector moved parallel to the plate. Signal alternates between maxima and minima.
 - Radio: two aerials from one transmitter give strong and weak regions.
 - Explain with three steps: coherent sources, path difference as a number of wavelengths, in phase or in antiphase.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--02-aphy-waves-polarisation.webp" width="900" height="1080" alt="Unpolarised light oscillates in every direction; a first Polaroid leaves one plane. A second Polaroid at 30 degrees transmits cos 30 of the amplitude, so 8.0 W per square metre becomes 6.0. Sound oscillates along its direction of travel, so there is nothing to filter. A small graph shows I = I0 cos squared theta (Cambridge only)." loading="lazy">
+  <figcaption>Only transverse waves can be polarised; sound cannot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--06-aphy-waves-two-source-interference.webp" width="900" height="1065" alt="Two in-phase coherent sources emit circular waves. Gold solid lines mark path difference n lambda (loud or bright); navy dashed lines mark (n + 1/2) lambda (quiet or dark). P lies at 2 lambda and is loud; Q lies at 1.5 lambda and is quiet. A loudspeaker example at 850 Hz confirms both." loading="lazy">
+  <figcaption>Path difference n lambda gives reinforcement; (n + 1/2) lambda gives cancellation.</figcaption>
+</figure>
+
 
 ## Required practical 5 and laser safety
 
@@ -114,6 +131,17 @@ The intensity against angle graph is not required.
 2. Rearrange: sin θ = nλ ÷ d, or λ = d sin θ ÷ n.
 3. Check sin θ is not above 1.
 4. For the number of maxima, find the highest order n, then count 2n + 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--09-aphy-waves-grating.webp" width="900" height="1060" alt="Two neighbouring slits show the path difference d sin theta between adjacent rays; a maximum occurs when it equals n lambda. For 300 lines per mm and 589 nm, d = 3.33 micrometres and maxima appear at 10.2, 20.7, 32.0, 45.0 and 62.1 degrees for orders 1 to 5 each side, so 11 maxima; the highest order is 5." loading="lazy">
+  <figcaption>Maxima occur where d sin theta = n lambda; the highest order is d/lambda rounded down.</figcaption>
+</figure>
+
 
 ## Model explanation: bright and dark fringes
 
@@ -176,6 +204,12 @@ A grating with d = 4.00 × 10⁻⁶ m and 633 nm light gives sin θ = 0.158 at n
 9. For example: never look into the beam or its reflection; use a low-power laser; end the beam on a matt block.
 10. Highest order 11, so 2 × 11 + 1 = 23 maxima.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using lines per mm as the grating spacing without converting to metres per line.
@@ -186,6 +220,12 @@ A grating with d = 4.00 × 10⁻⁶ m and 633 nm light gives sin θ = 0.158 at n
 - Giving a non-whole number for the highest order, or forgetting the maxima on both sides.
 - Stating that a wider slit gives a wider central maximum.
 - Describing laser safety as "be careful" with no specific precaution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--01-aphy-waves-phase.webp" width="900" height="1060" alt="A sound wave of 250 Hz and wavelength 1.36 m is drawn as a displacement-distance graph with points A to D. A and B are 0.34 m apart (quarter cycle, 90 degrees), A and C 0.68 m (half cycle, antiphase), A and D 1.36 m (one cycle, in phase). A second graph of displacement against time gives the period 4.0 ms." loading="lazy">
+  <figcaption>Phase difference is x/wavelength of a cycle; the distance graph gives wavelength, the time graph gives period.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

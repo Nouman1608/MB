@@ -65,6 +65,17 @@ When you are ready, test yourself with the [Monitoring chemical reactions practi
 
 **Standard solution checklist:** weigh accurately; dissolve in a little distilled water; transfer with all rinsings to a volumetric flask; make up to the line, bottom of meniscus at eye level; stopper and invert.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-monitoring-chemical-reactions--08-standard-solution-steps.webp" width="900" height="1190" alt="Four panels: weigh and dissolve the solid in a little water; transfer to a volumetric flask through a funnel with rinsings; top up drop by drop until the meniscus bottom is on the mark; stopper and invert. Example: 4.25 g NaNO3 in 250 cm3 is 0.200 mol/dm3." loading="lazy">
+  <figcaption>Making a standard solution in four steps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
+</figure>
+
+
 ## C5.1b: titration technique (both tiers, PAG C6)
 
 **Method in steps**
@@ -77,6 +88,17 @@ When you are ready, test yourself with the [Monitoring chemical reactions practi
 6. Do one rough run, then accurate runs until titres are concordant. Average the concordant ones only.
 
 Record burette readings to the nearest 0.05 cm³ (two decimal places).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-monitoring-chemical-reactions--04-titres-to-concentration.webp" width="900" height="890" alt="The rough titre 18.20 cm3 is left out; 17.55, 17.45 and 17.50 cm3 lie within 0.10 cm3 so the mean is 17.50 cm3. Using 0.0800 mol/dm3 sulfuric acid this gives 0.00140 mol acid, 0.00280 mol lithium hydroxide and 0.140 mol/dm3." loading="lazy">
+  <figcaption>Average concordant titres only, then use the mole ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--02-titration.webp" width="900" height="1075" alt="A burette of acid sits above a conical flask of alkali plus indicator, with a pipette measuring the alkali. An inset shows reading the bottom of the meniscus at eye level. Three flasks show the colour at first, a flash that fades on swirling, and one drop giving a permanent colour change: the end-point." loading="lazy">
+  <figcaption>The end-point is where one drop makes the colour change permanent; read the burette at the bottom of the meniscus.</figcaption>
+</figure>
+
 
 ## C5.1c: titration calculations (Higher Tier only)
 
@@ -97,11 +119,33 @@ Record burette readings to the nearest 0.05 cm³ (two decimal places).
 
 **Small worked reminder.** 2H₂(g) + O₂(g) → 2H₂O(l). 80 cm³ of hydrogen needs **40 cm³** of oxygen. 0.0250 mol of oxygen at RTP occupies 0.0250 × 24 = **0.600 dm³**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-monitoring-chemical-reactions--03-gas-volume-ratio.webp" width="900" height="1010" alt="40 cm3 of ethane needs 140 cm3 of oxygen and makes 80 cm3 of carbon dioxide at the same temperature and pressure, shown as blocks of 20 cm3. Water is liquid so it is not counted. 1 mol of gas is 24 dm3, so 0.0100 mol is 240 cm3." loading="lazy">
+  <figcaption>Gas volumes react in the ratio of the balanced equation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-monitoring-chemical-reactions--09-gas-collection-moles.webp" width="900" height="1064" alt="Gas collected in a gas syringe or over water in an upturned measuring cylinder; 360 cm3 divided by 24 000 is 0.0150 mol; times 6.02e23 gives 9.03e21 molecules." loading="lazy">
+  <figcaption>From the volume of gas collected to moles and then to molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
+</figure>
+
+
 ## C5.1g: theoretical mass (Higher Tier only)
 
 **Method in steps:** mass of reactant → moles (÷ Mr) → moles of product (ratio) → mass of product (× Mr).
 
 **Small worked reminder.** CuO + H₂ → Cu + H₂O. From 3.18 g of copper(II) oxide (Mr 79.5): 0.0400 mol CuO gives 0.0400 mol Cu, so theoretical mass = 0.0400 × 63.5 = **2.54 g**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
+  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
+</figure>
+
 
 ## C5.1h: percentage yield (both tiers)
 
@@ -113,6 +157,12 @@ Reasons the actual yield is lower than theoretical:
 
 A value above 100% means the product was weighed wet or impure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-monitoring-chemical-reactions--02-percentage-yield.webp" width="900" height="910" alt="6.27 g of zinc carbonate is 0.0500 mol and could give 4.07 g of zinc oxide. 3.62 g is collected, so percentage yield is 88.9%. A bar chart shows the shortfall." loading="lazy">
+  <figcaption>Percentage yield is actual yield divided by theoretical yield, times 100.</figcaption>
+</figure>
+
+
 ## C5.1i and C5.1j: atom economy (both tiers)
 
 - Use the **balanced** equation and multiply each Mr by its coefficient.
@@ -120,6 +170,12 @@ A value above 100% means the product was weighed wet or impure.
 - High atom economy means less waste, so it is better for sustainability and cost.
 
 **Small worked reminder.** Making ammonia in the laboratory: 2NH₄Cl + Ca(OH)₂ → CaCl₂ + 2H₂O + 2NH₃. Total Mr of reactants = (2 × 53.5) + 74.1 = 181.1; desired product 2NH₃ = 2 × 17.0 = 34.0. Atom economy = 34.0 ÷ 181.1 × 100 = **18.8%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-monitoring-chemical-reactions--01-atom-economy-routes.webp" width="900" height="920" alt="Three bars show total reactant Mr for three routes to zinc chloride. 136.4 of each is wanted ZnCl2; the rest is waste: 2.0, 18.0 and 62.0. Atom economy is 98.6%, 88.3% and 68.8%." loading="lazy">
+  <figcaption>Atom economy compares the mass wanted with the total mass of reactants.</figcaption>
+</figure>
+
 
 ## C5.1k: choosing a pathway (Higher Tier only)
 

@@ -69,9 +69,21 @@ Divide both parts by the first part. For 25 : 40, 40 ÷ 25 = 1.6, so the ratio i
 
 Reminder: share £510 in the ratio 1 : 2 : 3. Total parts 6, one part 85, shares **£85, £170, £255**. Check: 85 + 170 + 255 = 510.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--13-share-2-3-7.webp" width="900" height="660" alt="A bar of 12 blocks worth 70 pounds each is split into 2, 3 and 7 blocks. The shares are 140, 210 and 490 pounds, adding to 840." loading="lazy">
+  <figcaption>Share 840 in the ratio 2 : 3 : 7 using the value of one part.</figcaption>
+</figure>
+
+
 ### Using a difference
 
 If the shares differ by d and the ratio is a : b, then (a - b) parts = d. Ratio 5 : 2 and difference 36: 3 parts = 36, one part = 12, shares **60 and 24**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--10-find-from-other-difference.webp" width="900" height="830" alt="Cats : dogs = 5 : 8 with 35 cats gives 1 part = 7 and 56 dogs. Shares in the ratio 8 : 3 differing by 55 have 5 parts of difference, so 1 part = 11 and the shares are 88 and 33." loading="lazy">
+  <figcaption>Find the value of one part from the quantity you know, then scale.</figcaption>
+</figure>
+
 
 ### Using one known share
 
@@ -81,13 +93,31 @@ Ratio 5 : 3, smaller share 27. Smaller share is 3 parts, so one part = 9. Larger
 
 For a : b, the fractions of the whole are a/(a + b) and b/(a + b). For 4 : 3 the whole has 7 parts. Of 245, the first share is 4/7 × 245 = 140 and the second is 3/7 × 245 = 105. Check: 140 + 105 = 245.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--03-ratio-as-fractions.webp" width="900" height="1030" alt="Top: 96 pounds shared in the ratio 5 to 3 is drawn as 8 equal blocks of 12 pounds. The first group has 5 blocks, 5 eighths of the whole, 60 pounds; the second has 3 blocks, 3 eighths, 36 pounds. Bottom: a mixture of 7 equal blocks, 3 red and 4 other. Red is 3 sevenths of the whole, a part to whole fraction, but the ratio of red to other is 3 to 4, a part to part comparison." loading="lazy">
+  <figcaption>A ratio of two parts is a part-to-whole fraction (5 : 3 gives 5/8 and 3/8) but 3 : 4 compares part with part.</figcaption>
+</figure>
+
+
 ### Scaling a recipe
 
 Find the amount for one portion, then multiply. Rice for 4 people is 280 g. One portion is 280 ÷ 4 = 70 g, so for 7 people you need 70 × 7 = **490 g**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--12-recipe-scaling.webp" width="900" height="860" alt="A soup for 6 people uses 450 g lentils, 1.2 l stock and 3 onions. Dividing by 6 gives one person, and multiplying gives 300 g, 0.8 l, 2 onions for 4 people and 750 g, 2 l, 5 onions for 10." loading="lazy">
+  <figcaption>Find the amounts for one person, then multiply for any number of people.</figcaption>
+</figure>
+
+
 ### Changing ratios
 
 Find the real quantities, change them, then write the new ratio. Do not add to the ratio numbers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--09-simplify-mixed-units.webp" width="900" height="740" alt="Four ratios simplified: 45 cm : 1.8 m to 1 : 4, 2.4 kg : 900 g to 8 : 3, 2/3 : 5/6 to 4 : 5 and 18 : 45 to 1 : 2.5." loading="lazy">
+  <figcaption>Put quantities in the same unit and whole numbers first, then divide.</figcaption>
+</figure>
+
 
 ### Ratio and linear functions
 
@@ -97,6 +127,12 @@ Find the real quantities, change them, then write the new ratio. Do not add to t
 | a : b | y = (b/a) x | 3 : 8 gives y = 8x/3; x = 9 gives y = 24 |
 
 A line y = mx + c with c not zero does not describe a constant ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--04-ratio-line-through-origin.webp" width="900" height="900" alt="A graph with x from 0 to 8 and y from 0 to 24. The solid line y = 3x passes through the origin and through the points (2, 6), (5, 15) and (8, 24); the ratio of y to x is always 3 to 1. The dashed line y = 2x + 3 starts at 3 on the y-axis, a fixed charge, and passes through (2, 7) and (4, 11). Its ratios 7 to 2 and 11 to 4 differ, so it is not a constant ratio. Only a line through the origin gives a constant ratio." loading="lazy">
+  <figcaption>Only a line through the origin, like y = 3x, gives a constant ratio; y = 2x + 3 has a fixed charge.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -108,9 +144,21 @@ Jo and Kit have pocket money in the ratio 3 : 7. Jo has £18. One part is 18 ÷ 
 
 A drink is made from concentrate and water in the ratio 1 : 4, and 650 ml is made in total. There are 5 parts, so one part is 650 ÷ 5 = 130 ml. Concentrate is **130 ml** and water is 4 × 130 = **520 ml**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
+
 ### Changing ratio
 
 A library has fiction and non-fiction books in the ratio 5 : 2, with 35 fiction books. One part is 7, so there are 2 × 7 = 14 non-fiction books. After 14 more non-fiction books arrive there are 28. The new ratio is 35 : 28, which simplifies by 7 to **5 : 4**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--11-orchestra-new-ratio.webp" width="900" height="880" alt="Strings : wind = 7 : 3 with 42 strings gives 18 wind. Six more wind players makes 24, so the new ratio 42 : 24 simplifies to 7 : 4." loading="lazy">
+  <figcaption>Add the new players to the real numbers, then rebuild the ratio.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

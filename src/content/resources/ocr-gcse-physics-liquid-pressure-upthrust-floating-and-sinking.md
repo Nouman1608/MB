@@ -99,6 +99,12 @@ The pressure due to a liquid at the bottom of a tank is 54 000 Pa. The tank is 6
 ρ = 900 kg/m³
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking--07-pressure-depth-gradient.webp" width="900" height="910" alt="A graph of pressure against depth with g = 10 N/kg. The water line gives 75 000 Pa at 7.5 m. A second line through 54 000 Pa at 6.0 m has a gradient of 9 000 Pa per metre, so the density is 900 kg/m3." loading="lazy">
+  <figcaption>Pressure rises in a straight line with depth; the gradient is density times g.</figcaption>
+</figure>
+
+
 ## P1.3j: pressure differences between depths
 
 The specification asks you to calculate **differences** in pressure at different depths. There are two equivalent methods.
@@ -136,6 +142,12 @@ Both methods give **63 750 Pa**. Use one as a check on the other when you have t
 
 A useful pattern: in water (1000 kg/m³) with g = 10 N/kg, every extra metre of depth adds 10 000 Pa.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking--10-depth-pressure-oil.webp" width="900" height="850" alt="A tank of oil of density 850 kg/m3 has sensors 4.5 m and 12 m below the surface reading 38 250 Pa and 102 000 Pa. The depth difference of 7.5 m gives a pressure difference of 7.5 x 850 x 10 = 63 750 Pa. Higher Tier only." loading="lazy">
+  <figcaption>Pressure difference = depth difference x density x g.</figcaption>
+</figure>
+
+
 ## P1.3i: why liquid pressure gives an upward force
 
 The force from liquid pressure acts at right angles to any surface it touches. Now lower a block into water. Its **bottom face** is deeper than its **top face**, so the pressure on the bottom is greater. The upward force on the bottom (pressure x area) is bigger than the downward force on the top. The sides are at the same depths in pairs and their sideways forces cancel.
@@ -171,6 +183,17 @@ If the block has mass 15 kg, its weight is 15 x 10 = 150 N. The upthrust of 200 
 ### Partially submerged objects
 
 When an object floats, only the part below the surface is in the liquid. The top is in air and the bottom is in the liquid. The pressure on the underside is larger than on the top. The upthrust depends on the volume below the surface, because only that part has liquid pressure acting on it. As an object sinks deeper into the liquid, more of it is submerged and the upthrust grows, until the object is fully under or the upthrust equals the weight.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking--11-upthrust-pressure-difference.webp" width="900" height="860" alt="A block 0.30 m below the surface has 3 000 Pa on top (120 N down) and 8 000 Pa on the bottom (320 N up); sideways forces cancel. The net upthrust is 200 N, the weight 150 N, so the resultant is 50 N upward. Higher Tier only." loading="lazy">
+  <figcaption>Upthrust is the difference between the upward and downward forces from water pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking--08-partial-submerged.webp" width="900" height="910" alt="Four tanks show the lesson block (15 kg, 0.20 m square, 0.50 m tall) with 0.10, 0.25, 0.375 and 0.50 m under water. Upthrust is 40, 100, 150 and 200 N against a weight of 150 N, so it floats when upthrust equals weight." loading="lazy">
+  <figcaption>More submerged volume gives more upthrust until it equals the weight.</figcaption>
+</figure>
+
 
 ## P1.3h: factors that decide floating and sinking
 
@@ -217,6 +240,22 @@ V = upthrust / (ρ x g) = 50 000 / (1000 x 10) = 5.0 m³
 
 Because the hull is hollow and wide, it can push aside 5.0 m³ of water while still having most of its volume above the waterline. A solid lump of steel of the same mass has a volume of only about 0.64 m³ (using 7800 kg/m³), so it displaces far less water and sinks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking--12-float-fraction.webp" width="900" height="740" alt="The same 800 kg/m3 block floats 80% under in water, 89% under in oil of density 900, 78% under in seawater of density 1030, and sinks in a liquid of density 700. Higher Tier only." loading="lazy">
+  <figcaption>The submerged fraction equals block density divided by liquid density.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking--13-steel-boat.webp" width="900" height="930" alt="A hollow steel boat weighs 50 000 N and must push aside 5.0 m3 of water to get an upthrust of 50 000 N, so it floats. The same steel as a solid lump is only about 0.64 m3, giving an upthrust of about 6 400 N, so it sinks. Higher Tier only." loading="lazy">
+  <figcaption>A hollow hull pushes aside much more water than a solid lump of the same steel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--05-float-or-sink.webp" width="900" height="880" alt="A block of density 0.80 g/cm3 floats in water with 80% submerged, a stone of 2.7 g/cm3 sinks. In a second beaker (Extended) oil of 0.92 g/cm3 floats on water of 1.0 g/cm3." loading="lazy">
+  <figcaption>An object floats if its density is less than the liquid's; a less dense liquid floats on a denser one.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Writing that heavy things sink and light things float. Compare **density**, or weight against upthrust.
@@ -233,3 +272,14 @@ Because the hull is hollow and wide, it can push aside 5.0 m³ of water while st
 This guide follows statements P1.3h, P1.3i and P1.3j of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), first assessment 2018, published by OCR. Practical suggestions in the specification for this section include a discussion of the buoyancy of a ping pong ball in water and a demonstration of differences in water pressure using a pressure can with holes.
 
 Next: the [revision notes](/resources/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking-revision-notes/), then the [practice questions](/resources/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking--09-pressure-can.webp" width="900" height="940" alt="A can of water with three holes at depths 0.05, 0.15 and 0.25 m, where the pressure is 500, 1500 and 2500 Pa. The deepest hole squirts the furthest." loading="lazy">
+  <figcaption>Deeper holes have greater pressure and give stronger jets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking--10-ping-pong-ball.webp" width="900" height="1170" alt="A ping pong ball held under water feels 0.335 N upthrust against 0.027 N weight, so the finger pushes down 0.308 N. Released, it floats with about 8 percent under water where upthrust equals weight." loading="lazy">
+  <figcaption>A light ball has far more upthrust than weight when fully under, so it rises and floats.</figcaption>
+</figure>
+

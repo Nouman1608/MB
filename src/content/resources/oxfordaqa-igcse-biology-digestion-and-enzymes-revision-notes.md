@@ -51,6 +51,12 @@ Salivary glands, oesophagus, stomach, liver, gall bladder, pancreas, duodenum, s
 
 Food only passes through the tube: mouth, oesophagus, stomach, duodenum, small intestine, large intestine, anus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--02-alimentary-canal.webp" width="900" height="1240" alt="Schematic digestive system from mouth to anus with leader-line labels: mouth, salivary glands, oesophagus, stomach, liver, gall bladder, pancreas, duodenum, small intestine, ileum, colon, rectum and anus. Each label gives one short function; the small intestine absorbs nutrients and most water and the colon absorbs some water." loading="lazy">
+  <figcaption>Name the organs of the alimentary canal in order and say what each does.</figcaption>
+</figure>
+
+
 ## 3.2.4 b: Enzymes
 
 - Enzymes are **large proteins** that act as **biological catalysts**.
@@ -66,6 +72,52 @@ Food only passes through the tube: mouth, oesophagus, stomach, duodenum, small i
 2. Warmer: faster.
 3. Above the best temperature: the enzyme denatures and the rate falls to zero.
 4. Away from the best pH: the rate falls. Extreme pH can denature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--07-amylase-temperature-rates.webp" width="900" height="830" alt="Bar chart of amylase rate (1000 divided by time) at 20, 30, 40 and 50 degrees Celsius: 3.57, 6.25, 12.5 and 8.00. The rate doubles from 30 to 40 and falls 36% from 40 to 50, so the optimum is near 40 degrees, but nothing was tested between 40 and 50." loading="lazy">
+  <figcaption>Shorter time means faster rate; the highest bar shows the optimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--01-enzymes-made-vs-act.webp" width="900" height="832" alt="A grid of five places against amylase, protease and lipase marks where each is made and where it acts. The pancreas makes all three but they act in the duodenum." loading="lazy">
+  <figcaption>Where an enzyme is made is not always where it acts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--03-starch-digested-amount.webp" width="900" height="880" alt="Bars to scale show 1.20 g of starch at the start and 0.45 g left after 5 minutes, so 0.75 g broken down: 0.15 g per minute and 62.5 percent digested." loading="lazy">
+  <figcaption>1.20 g minus 0.45 g is 0.75 g, which is 0.15 g per minute or 62.5 percent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--04-washing-protease-activity.webp" width="900" height="820" alt="Bar chart of relative activity at 20, 40, 60 and 80 degrees C: 15, 60, 100 and 35. Activity rises fourfold from 20 to 40 and falls 65 percent from 60 to 80. A 40 degree wash uses 60 percent of the best." loading="lazy">
+  <figcaption>The enzyme works best at 60 degrees C and falls sharply above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--03-denaturation.webp" width="900" height="1090" alt="Three panels: a working enzyme whose substrate fits; a too-hot enzyme whose active site has changed shape so the substrate does not fit; the same enzyme cooled again, still with the changed shape and still not working." loading="lazy">
+  <figcaption>Heat changes the shape of the active site, and cooling does not restore it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--04-temperature-graph.webp" width="900" height="800" alt="Sketch graph of enzyme activity against temperature. Activity rises to a peak at the optimum (about 37 degrees Celsius for many human enzymes) then falls quickly to near zero. Cold enzymes are slow but not denatured; hot enzymes are denatured and do not recover on cooling." loading="lazy">
+  <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--07-gut-ph-enzymes.webp" width="900" height="1200" alt="The stomach is acidic because of hydrochloric acid, which kills microbes and gives the acid pH that pepsin needs. Food then enters the duodenum, where bile neutralises the acid and makes the contents alkaline for trypsin. A sketch graph of enzyme activity against pH shows pepsin most active in acid and trypsin most active in alkali. Pepsin, trypsin and bile are Extended." loading="lazy">
+  <figcaption>Pepsin works in acid and trypsin in alkali, because bile neutralises the acid leaving the stomach.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--04-enzymes-use.webp" width="900" height="920" alt="Protease breaks protein into amino acids, lipase breaks fats and oils into glycerol and fatty acids, amylase breaks starch into simpler sugars; these work in biological washing powders. Extended: lactase breaks lactose into glucose and galactose, making lactose-free milk." loading="lazy">
+  <figcaption>Each enzyme breaks a large molecule into smaller soluble ones.</figcaption>
+</figure>
+
 
 ## 3.2.4 c: Which enzyme, where
 
@@ -90,9 +142,31 @@ Food only passes through the tube: mouth, oesophagus, stomach, duodenum, small i
 
 A cube of side 3 cm has surface area 6 × 3 × 3 = 54 cm². Split into 27 cubes of side 1 cm, the total surface area is 27 × 6 = 162 cm². That is **three times** greater, with the same volume.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--05-physical-digestion.webp" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom, Extended: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
+  <figcaption>Smaller pieces give more surface area for enzymes, and bile does this to fat without changing the molecules.</figcaption>
+</figure>
+
+
 ### Worked reminder: water absorption (3.2.4 a)
 
 Fluid entering the large intestine is 7.5 litres in a day and 0.15 litres leave in the faeces. Water absorbed = 7.5 − 0.15 = 7.35 litres. As a percentage: 7.35 ÷ 7.5 × 100 = 98%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--09-water-absorbed.webp" width="900" height="940" alt="A tall bar to scale shows 9.0 litres of fluid entering the gut in a day. 8.8 litres (98%) is absorbed into the blood and only 0.2 litres leaves in the faeces. Damage to the large intestine means water is not reabsorbed and faeces are watery." loading="lazy">
+  <figcaption>Almost all the water that enters the gut is absorbed back into the blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
+  <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
+</figure>
+
 
 ## Reading enzyme data
 
@@ -154,6 +228,22 @@ Aim: investigate how temperature and pH affect the rate of digestion.
 Worked reminder: times of 62 s, 58 s and 60 s have a mean of (62 + 58 + 60) ÷ 3 = 60 s. The rate is 1000 ÷ 60 = 16.7. Compare this with a second tube at 30 s: 1000 ÷ 30 = 33.3, which is **twice** as fast.
 
 Safety: eye protection; care with hot water, acid and iodine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--08-protease-ph-rates.webp" width="900" height="830" alt="Bar chart of protease rate (1000 divided by time) at pH 1, 2, 3, 5 and 7: 6.67, 22.2, 9.09, 2.50 and 0 (no change in 600 s). The enzyme works best at pH 2, like a stomach protease." loading="lazy">
+  <figcaption>The protease is fastest at pH 2 and inactive at pH 7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--02-practical-setup-variables.webp" width="900" height="1086" alt="Test tubes of amylase and starch stand in a water bath; iodine drops on a spotting tile turn from blue-black to orange-brown at the end point (120 s, illustrative). Cards give the independent, dependent and control variables." loading="lazy">
+  <figcaption>Change temperature or pH, measure the time for starch to disappear, keep everything else the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--07-starch-iodine-end-point.webp" width="900" height="990" alt="Starch and amylase tubes stand in a water bath at a set temperature. After mixing, one drop every 30 seconds goes on iodine in a spotting tile. Wells at 30 to 120 seconds are blue-black; the well at 150 seconds is the first orange-brown, the end point. Rate = 1000 ÷ 150 = 6.7." loading="lazy">
+  <figcaption>The end point is the first well where iodine stays orange-brown.</figcaption>
+</figure>
+
 
 ## Microbial enzymes
 

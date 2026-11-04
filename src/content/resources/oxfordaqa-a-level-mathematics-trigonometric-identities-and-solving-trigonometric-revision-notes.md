@@ -91,6 +91,12 @@ cos θ = 1/2  (cos θ = 2 is impossible)
 θ = 60° or 300°
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--07-sin-sum-proof.webp" width="900" height="880" alt="Triangle XYZ is split by a perpendicular ZW into angles A and B. Its area is ½pq sin(A+B) and also ½ph sin A + ½qh sin B; with h = q cos B = p cos A this gives sin(A+B) = sin A cos B + cos A sin B." loading="lazy">
+  <figcaption>The area of one triangle, written two ways, proves the sin(A + B) formula.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 ### Using the identities to find a missing value
@@ -102,6 +108,12 @@ sin²θ = 1 − 144/169 = 25/169
 sin θ = 5/13           (positive in the second quadrant)
 tan θ = (5/13) ÷ (−12/13) = −5/12
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--06-three-triangles.webp" width="900" height="770" alt="A quarter unit circle with a ray at 35°. The triangle with hypotenuse 1 gives sin² + cos² = 1; the triangle on the tangent line gives 1 + tan² = sec²; the triangle on the line y = 1 gives 1 + cot² = cosec²." loading="lazy">
+  <figcaption>Pythagoras in three similar triangles gives all three identities.</figcaption>
+</figure>
+
 
 ### Proving an identity
 
@@ -121,9 +133,21 @@ Solve 2 sin x + 1 = 0 for 0 ≤ x ≤ 2π. Then sin x = −1/2, the reference an
 x = π + π/6 = 7π/6      x = 2π − π/6 = 11π/6
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--09-solve-sin-symmetry.webp" width="900" height="960" alt="Sine graph with the line y = −0.4 meeting it at 203.6° and 336.4°, each a reference angle α = 23.58° from 180° and 360°. The calculator value −23.58° is outside the interval." loading="lazy">
+  <figcaption>Find the reference angle, then use symmetry to list every solution in the interval.</figcaption>
+</figure>
+
+
 ### A shifted angle in radians
 
 Solve tan(x − π/4) = 1 for 0 ≤ x ≤ 2π. The bracket lies between −π/4 and 7π/4. The tangent equals 1 at π/4 and 5π/4 inside that range, so x = π/2 and 3π/2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--02-cot-graph.webp" width="900" height="880" alt="Cotangent from 0 to 2π with tangent dotted. Asymptotes at 0, π and 2π; each branch falls and crosses zero at π/2 and 3π/2, where tangent is undefined. Period π." loading="lazy">
+  <figcaption>Cot x falls in every branch, has period π and equals 0 where tan x is undefined.</figcaption>
+</figure>
+
 
 ### A quadratic with a sine
 
@@ -137,6 +161,17 @@ sin θ = 0  or  sin θ = 1/2
 ```
 
 Notice that no constant remains, so the quadratic factorises by taking out sin θ. Cancelling sin θ here would lose three solutions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--03-arcsin-reflection.webp" width="900" height="1070" alt="On equal axes the sine curve restricted to −π/2 ≤ x ≤ π/2 and its reflection in y = x, the arcsin curve, which runs from (−1, −π/2) to (1, π/2). Points swap coordinates, so domain and range swap too." loading="lazy">
+  <figcaption>The graph of arcsin is the restricted sine graph reflected in y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--08-r-form-wave.webp" width="900" height="1100" alt="y = 7 sin x − 24 cos x equals 25 sin(x − 73.74°): a sine wave of amplitude 25 shifted right by α. The 7, 24, 25 triangle gives R cos α = 7 and R sin α = 24. The line y = 10 meets the curve at 97.3° and 230.2°." loading="lazy">
+  <figcaption>R is the amplitude and α the shift of the combined wave.</figcaption>
+</figure>
+
 
 ## Checking an answer
 
@@ -152,6 +187,12 @@ Examiners can only reward what they can see, so lay out solutions in a fixed ord
 4. Finish with a clearly labelled list of final answers to the accuracy asked.
 
 Where the question says "hence" or "show that", the earlier part is meant to be used, so look back at it before you start from scratch. If an equation gives no solution in the interval, say so in a sentence rather than leaving the line blank.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--05-arcsin-sin-trap.webp" width="900" height="910" alt="The zigzag graph of arcsin(sin x) against the line y = x. They agree only for x between −π/2 and π/2. At x = 5π/6 the value is π/6." loading="lazy">
+  <figcaption>arcsin(sin x) always lands in [−π/2, π/2], so it equals x only on that interval.</figcaption>
+</figure>
+
 
 ## Degrees and radians together
 
@@ -214,6 +255,12 @@ Answer without looking at the answers. Intervals are 0° ≤ θ ≤ 360° unless
 - Mixing degrees and radians within one question.
 - In a "show that", skipping the substitution line so the link to the given result is not visible.
 - Writing sin²θ as sin θ² or sin(θ²) in the working.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--01-reciprocal-sec-cosec.webp" width="900" height="1130" alt="Two graphs from −π to 2π. Secant (copper) has asymptotes where cosine is zero and touches cosine at its maximum and minimum values 1 and −1; none of it lies between −1 and 1. Cosecant is the same idea built from sine, with asymptotes at 0, π and 2π." loading="lazy">
+  <figcaption>A reciprocal graph has asymptotes where the original is zero and touches it where the original is ±1.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

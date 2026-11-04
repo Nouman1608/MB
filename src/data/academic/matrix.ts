@@ -356,6 +356,44 @@ const BASE_MATRIX: readonly Combination[] = [
     notes: `${OWNER_TEACHES_ALL} Edexcel International GCSE — genuinely IGCSE, unlike AQA.`,
   }),
 
+  // Owner request in chat, 2026-10-25 (D-431): "complete all resources for
+  // accounting for all levels and boards". Two Accounting qualifications that
+  // exist at the board but were not on the site are added as free resources
+  // only (classesOffered: false -- Learners Academy's own course list does not
+  // include them, so no classes or enrolment are offered).
+  ...rows('cambridge', 'o-level', ['accounting'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/Images/718213-2027-2029-syllabus.pdf -- Cambridge O Level Accounting 7707 syllabus for 2027, 2028 and 2029 (Version 1), read in full 2026-10-25',
+    codes: { accounting: '7707' },
+    notes: 'Owner request in chat 2026-10-25: resources for Accounting at every level and board. Cambridge offers O Level Accounting 7707; its subject content is word-for-word the same as IGCSE Accounting 0452 for 2027-2029 (compared section by section 2026-10-25), so the 0452 resources are tagged to both. Free resources only: Learners Academy does not list Accounting at O Level, so no classes are offered.',
+    classesOffered: false,
+  }),
+  ...rows('edexcel', 'igcse', ['accounting'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Accounting/2017/Specification-and-sample-assessments/ig-accountancy-spec.pdf -- Pearson Edexcel International GCSE in Accounting (4AC1), Issue 1, read in full 2026-10-25',
+    codes: { accounting: '4AC1' },
+    notes: 'Owner request in chat 2026-10-25: resources for Accounting at every level and board. Pearson Edexcel International GCSE in Accounting (4AC1), first teaching September 2017, first examination June 2019. Pearson also runs a modular route (4XAC1, first teaching September 2023) with Units 1 and 2 on the same topics. Free resources only: Learners Academy does not list Accounting at Edexcel IGCSE, so no classes are offered.',
+    classesOffered: false,
+  }),
+
+  // Owner request in chat, 2026-10-27: "complete economics business and
+  // accounting". Pearson Edexcel International GCSE Business (4BS1) exists at
+  // the board but was not on the site; added as free resources only.
+  ...rows('edexcel', 'igcse', ['business'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Business%20Studies/2017/specification-and-sample-assessment/9781446942765-international-gcse-business-specification.pdf -- Pearson Edexcel International GCSE in Business specification, Issue 2 (February 2026), read in full 2026-10-27',
+    codes: { business: '4BS1' },
+    notes: 'Owner request in chat 2026-10-27: resources for Business at every level and board. Pearson Edexcel International GCSE in Business (4BS1), first examination June 2019, last assessment November 2028; a new modular International GCSE Business (2027) starts teaching in September 2027 and is not covered here. Free resources only (classesOffered false); Learners Academy runs no classes for it.',
+    classesOffered: false,
+  }),
+  ...rows('edexcel', 'gcse', ['business'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://qualifications.pearson.com/content/dam/pdf/GCSE/Business/2017/specification-and-sample-assessments/gcse-business-spec-2017.pdf -- Pearson Edexcel GCSE (9-1) in Business (1BS0), Issue 2 (July 2022), read in full 2026-10-27',
+    codes: { business: '1BS0' },
+    notes: 'Owner request in chat 2026-10-27: resources for Business at every level and board. Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), first teaching September 2017, first assessment 2019; two papers (Theme 1 Investigating small business, Theme 2 Building a business). Free resources only (classesOffered false); Learners Academy runs no classes for it.',
+    classesOffered: false,
+  }),
+
   // =========================================================================
   // AQA — CORRECTED. Learners Academy files these under "IGCSE", but AQA does
   // not offer any IGCSE: aqa.org.uk lists GCSE, AS, A-level and vocational
@@ -398,6 +436,26 @@ const BASE_MATRIX: readonly Combination[] = [
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
     source: `${AQA}/subjects/business — verified 2026-08-18 (v1.0 WS5)`, codes: { business: '7131 / 7137' },
     notes: `${OWNER_TEACHES_ALL} Board offers AS as a distinct qualification. Representative row — AS exists across most AQA subjects.`,
+  }),
+
+  // Owner request in chat, 2026-10-27: "complete economics business and
+  // accounting". AS Level Economics from AQA (7135) and OCR (H060) exists at
+  // the board but was not on the site; added as free resources only
+  // (classesOffered: false -- Learners Academy runs no classes for AS-only
+  // Economics at these boards).
+  ...rows('aqa', 'as-level', ['economics'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: `${AQA}/subjects/economics/as-level/economics-7135 -- AQA AS and A-level Economics specification, Version 1.3 (29 June 2022), read in full 2026-10-27`,
+    codes: { economics: '7135' },
+    notes: 'Owner request in chat 2026-10-27: resources for Economics at every level and board. AQA AS Economics (7135) is a stand-alone qualification whose content (3.1 The operation of markets and market failure, 3.2 The national economy in a global context) sits inside AQA A-level Economics (7136). Free resources only (classesOffered false); Learners Academy runs no classes for it.',
+    classesOffered: false,
+  }),
+  ...rows('ocr', 'as-level', ['economics'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2019/ -- OCR AS Level Economics (H060) specification, read in full 2026-10-27',
+    codes: { economics: 'H060' },
+    notes: 'Owner request in chat 2026-10-27: resources for Economics at every level and board. OCR AS Level Economics (H060) is a stand-alone qualification with two components, Microeconomics (H060/01) and Macroeconomics (H060/02), whose content sits inside OCR A Level Economics (H460). Free resources only (classesOffered false); Learners Academy runs no classes for it.',
+    classesOffered: false,
   }),
 
   // =========================================================================

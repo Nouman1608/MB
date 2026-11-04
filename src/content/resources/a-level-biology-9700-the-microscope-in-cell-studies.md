@@ -75,6 +75,12 @@ Both need:
 
 The same rules apply when drawing from a photomicrograph.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--02-plant-cell.webp" width="900" height="830" alt="A plant cell drawn above part of its neighbour. A thick cellulose cell wall surrounds the cell surface membrane. Inside are a nucleus, a chloroplast with grana, an amyloplast with starch grains, and a large permanent vacuole bounded by the tonoplast. Between the two cells are the middle lamella, plasmodesmata channels through both walls, and a pair of aligned pits." loading="lazy">
+  <figcaption>Plant cells add a cellulose wall, chloroplasts, a large vacuole with a tonoplast and plasmodesmata; amyloplast, middle lamella and pits are Edexcel statements.</figcaption>
+</figure>
+
+
 ## 1.1.3 Magnification and actual size
 
 **Magnification** is how many times larger the image is than the real object:
@@ -148,6 +154,12 @@ magnification of drawing = 80 000 µm / 32 µm = 2500
 
 A calculated value should have the **same number of significant figures as, or one more than**, the smallest number in the data used. A 2 s.f. measurement such as 38 mm supports a 2 or 3 s.f. answer, so 9.5 µm is right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--07-magnification-scale-bar.webp" width="900" height="960" alt="A micrograph with a cell 112 mm wide and a 32 mm scale bar labelled 2 micrometres. Magnification = 32 000 micrometres / 2 micrometres = x16 000. Actual width = 112 000 micrometres / 16 000 = 7.0 micrometres, checked by proportion: 3.5 bars of 2 micrometres." loading="lazy">
+  <figcaption>Convert to one unit, find magnification from the scale bar, then divide the image size by it.</figcaption>
+</figure>
+
+
 ## 1.1.4 Eyepiece graticule and stage micrometer
 
 An **eyepiece graticule** is a scale of equal divisions inside the eyepiece. The divisions ("eyepiece units") have **no fixed value**: what one unit covers depends on the objective in use.
@@ -191,6 +203,12 @@ Check: magnification rose four times, and one eyepiece unit fell to a quarter (1
 
 Measure several cells and calculate a mean, as one cell may not be typical. Choose the unit that gives a sensible number: µm for whole cells, nm for ultrastructure such as ribosomes, mm for tissue layers at low power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--08-graticule-calibration.webp" width="900" height="930" alt="Two calibrations against a stage micrometer with 10 micrometre divisions. At x10, 40 graticule units match 28 stage divisions (280 micrometres), so one unit is 7 micrometres and a cell of 5 units is 35 micrometres. At x40, 100 units match 22 divisions (220 micrometres), so one unit is 2.2 micrometres. Recalibrate for every objective." loading="lazy">
+  <figcaption>Line up the scales, work out the length of one eyepiece unit, and recalibrate for each objective.</figcaption>
+</figure>
+
+
 ## 1.1.5 Resolution and magnification
 
 **Magnification**: the number of times larger an image is than the actual size of the object.
@@ -209,6 +227,17 @@ That explains what you can and cannot see:
 - Mitochondria are about 0.5-1 µm wide. They can show as small dots, but their internal membranes (cristae) are far too close together to resolve.
 - Ribosomes (about 20-30 nm) and the cell surface membrane (well under 200 nm thick) are below the limit, so the light microscope cannot show them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--03-energy-organelles.webp" width="900" height="890" alt="A mitochondrion with a double membrane, an inner membrane folded into cristae and a fluid matrix containing circular DNA and 70S ribosomes; it carries out aerobic respiration. Below, a chloroplast with a double membrane, grana (stacks of thylakoids) in the stroma, a starch grain, circular DNA and 70S ribosomes; it carries out photosynthesis in plant cells." loading="lazy">
+  <figcaption>Both organelles have a double membrane, their own circular DNA and 70S ribosomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--05-prokaryote-virus.webp" width="900" height="1060" alt="A rod-shaped bacterium with a capsule, cell wall, cell surface membrane, no nucleus, a circular DNA loop free in the cytoplasm, a plasmid, small 70S ribosomes, a flagellum and pili. Below, a virus: a nucleic acid core inside a protein capsid, with attachment proteins and, in some viruses, an envelope. A virus has no cytoplasm or ribosomes and is not a cell." loading="lazy">
+  <figcaption>A bacterium has no nucleus or membrane-bound organelles; a virus is acellular.</figcaption>
+</figure>
+
+
 ### Electron microscopes
 
 An electron beam has a **much shorter wavelength** than light, so electron microscopes have a much better resolution and can show the **ultrastructure** of cells, including ribosomes and membranes. The beam is focused by electromagnets and travels in a **vacuum**, because air molecules would scatter the electrons, so specimens must be **dead** and processed. Images are black and white; any colour is added afterwards.
@@ -221,6 +250,17 @@ An electron beam has a **much shorter wavelength** than light, so electron micro
 | Image | Colour, 2-D | 2-D section; internal structure | 3-D appearance of surfaces |
 
 In a **TEM**, electrons pass **through** a very thin section; denser, stained parts appear darker. In an **SEM**, the beam scans the **surface**, giving a three-dimensional view of structures such as pollen grains. The electron microscope's real advantage is higher **resolution**; extra magnification alone would show no extra detail.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--01-animal-cell.webp" width="900" height="870" alt="A typical animal cell with its organelles labelled: cell surface membrane, nucleus with a two-membrane envelope with pores and a dark nucleolus, rough ER with ribosomes, smooth ER tubes without ribosomes, Golgi apparatus with vesicles, lysosome, a pair of centrioles at right angles, free ribosomes and mitochondria with folded inner membranes." loading="lazy">
+  <figcaption>The main organelles of an animal cell, drawn as seen with an electron microscope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--06-resolution-scale.webp" width="900" height="900" alt="A logarithmic size scale from 0.1 nm to 100 micrometres. Bars show the smallest detail each microscope resolves: about 200 nm for light, 3 to 10 nm for SEM and 0.5 nm for TEM. Below, a ribosome (20 to 30 nm) needs an electron microscope, a mitochondrion (0.5 to 1 micrometre) appears as a dot in light microscopy, and a bacterium and a cell are visible in a light microscope." loading="lazy">
+  <figcaption>Resolution, set by wavelength, decides what you can see; extra magnification adds no detail.</figcaption>
+</figure>
+
 
 ## Common errors
 

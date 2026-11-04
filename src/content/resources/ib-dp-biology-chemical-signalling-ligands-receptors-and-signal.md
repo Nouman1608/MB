@@ -47,6 +47,12 @@ A signalling chemical is called a **ligand**. A **receptor** is a protein with a
 
 Specificity explains why a hormone in the blood affects some cells and not others. Every cell is exposed, but only **target cells** carry the matching receptor. Cells with different receptors respond to the same ligand differently, because the pathway behind the receptor differs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--01-ligand-receptor-specificity.webp" width="900" height="850" alt="A gland cell releases triangular ligands into the blood. Three cells are exposed to it. Only the cell whose receptor has a matching V-shaped binding site binds the ligand and responds. A cell with a differently shaped receptor and a cell with no receptor do not respond." loading="lazy">
+  <figcaption>Only cells with a receptor that fits the ligand respond.</figcaption>
+</figure>
+
+
 ## Quorum sensing (C2.1.2)
 
 Bacteria signal to one another by releasing small ligands called **autoinducers**. Each cell releases a little. At low population density the ligand diffuses away and its concentration stays low. As the population grows, the concentration rises. When it passes a threshold, enough ligand binds to receptors in the cells to switch on particular genes in the whole population at about the same time. This is **quorum sensing**: the population detects its own density.
@@ -60,6 +66,12 @@ Bacteria signal to one another by releasing small ligands called **autoinducers*
 | Light output (arbitrary units) | 0.02 | 0.2 | 80 | 12 000 | 250 000 |
 
 Light per million cells is 2 at 0.01 and 0.1, then 8 at 10, 120 at 100 and 250 at 1000. Density rose 100 000-fold from 0.01 to 1000 but light rose 12 500 000-fold. Light per cell rose 125-fold from 0.1 to 1000, so each cell is producing more light at high density. That fits an autoinducer that accumulates and switches on bioluminescence genes above a threshold, between 0.1 and 10 million cells per cm³ here.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--02-quorum-sensing.webp" width="900" height="1000" alt="Three tanks show sparse, rising and dense bacteria with increasing autoinducer; only the dense tank glows. A graph of light per million cells against density (log scale) shows 2, 2, 8, 120 and 250, with a shaded threshold zone between 0.1 and 10 million cells per cm cubed." loading="lazy">
+  <figcaption>Light per cell rises sharply once autoinducer passes a threshold at high density.</figcaption>
+</figure>
+
 
 ## Categories of signalling chemical (C2.1.3 to C2.1.5)
 
@@ -76,6 +88,12 @@ Hormones can act far from their source because the blood system distributes them
 
 Reasons for such variety include: different molecules suit different jobs, so lipid-soluble steroids pass into cells and are carried bound to proteins, while water-soluble proteins and amines dissolve freely in blood; a large number of distinct shapes lets many ligands each have a unique receptor, which reduces cross-talk; and different molecular sizes and stabilities give different lifetimes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--03-signal-categories.webp" width="900" height="1010" alt="Four rows compare a hormone (gland to distant target through the blood), a neurotransmitter (across a gap of about 20 nm), a cytokine (nearby cells only) and calcium ions (released from a store inside one cell)." loading="lazy">
+  <figcaption>Hormones act at a distance, neurotransmitters across a tiny gap, cytokines locally and calcium ions inside a cell.</figcaption>
+</figure>
+
+
 ## Where receptors sit (C2.1.6)
 
 | Feature | Transmembrane receptor | Intracellular receptor |
@@ -86,6 +104,12 @@ Reasons for such variety include: different molecules suit different jobs, so li
 | Examples | Acetylcholine receptor, insulin receptor | Oestradiol and progesterone receptors |
 
 The hydrophobic amino acids of the membrane-spanning part interact with the fatty acid tails of the phospholipids and hold the receptor in the bilayer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--04-receptor-location.webp" width="900" height="1280" alt="Top: a transmembrane receptor with a hydrophobic stretch in the bilayer binds a hydrophilic ligand outside and passes the signal inside. Bottom: a steroid crosses the bilayer, binds a receptor in the cytoplasm, the complex binds DNA in the nucleus, and new mRNA and protein are made." loading="lazy">
+  <figcaption>Hydrophilic ligands bind transmembrane receptors; steroids pass in and act through intracellular receptors on gene expression.</figcaption>
+</figure>
+
 
 ## Signal transduction (C2.1.7)
 
@@ -100,6 +124,12 @@ The acetylcholine receptor is a transmembrane protein that is also an **ion chan
 - Change: −52 − (−70) = +18 mV, a depolarisation.
 - The potential is 2 mV short of threshold, so no action potential is triggered.
 - More receptors opening, from more acetylcholine, would bring the potential to −50 mV or above and trigger one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--05-acetylcholine-receptor.webp" width="900" height="1070" alt="A closed ion-channel receptor blocks sodium ions; when acetylcholine binds the pore opens and sodium ions enter. A graph shows membrane potential rising 18 mV from -70 to -52 mV, which is 2 mV short of the -50 mV threshold." loading="lazy">
+  <figcaption>Acetylcholine opens a sodium channel, depolarising the cell by 18 mV, but not to threshold.</figcaption>
+</figure>
+
 
 ## G protein-coupled receptors and epinephrine (C2.1.9 and C2.1.10)
 
@@ -119,6 +149,12 @@ Humans have a large number of **G protein-coupled receptors**. Each is a single 
 - Between 60 s and 120 s it fell by 57 units, which is 64.8% (57/88 × 100).
 - It falls once epinephrine is removed because the receptor stops activating G proteins and phosphodiesterase keeps destroying cAMP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--06-gpcr-camp.webp" width="900" height="1200" alt="Epinephrine binds a seven-helix receptor, the G protein swaps GDP for GTP and activates adenylyl cyclase, which makes cAMP from ATP. cAMP leads to protein kinase A, glycogen breakdown and glucose release. A graph shows cAMP of 4, 60, 88, 31 and 6 units at 0, 15, 60, 120 and 300 s." loading="lazy">
+  <figcaption>Epinephrine triggers a G protein pathway that raises cAMP, which falls again when epinephrine is removed.</figcaption>
+</figure>
+
+
 ## Tyrosine kinase receptors and insulin (C2.1.11)
 
 Insulin is a protein hormone that cannot cross the membrane. It binds to its receptor in the plasma membrane, which has **tyrosine kinase** activity. A kinase transfers a phosphate group from ATP to a protein. Binding causes **phosphorylation** of tyrosine inside the cell, which starts a sequence of reactions. It ends with **vesicles** carrying glucose transporters moving to the plasma membrane and fusing with it. More transporters means faster uptake of glucose by facilitated diffusion.
@@ -128,6 +164,12 @@ Insulin is a protein hormone that cannot cross the membrane. It binds to its rec
 - Insulin raises uptake by 9.6 − 2.4 = 7.2, a 300% increase (fourfold).
 - The inhibitor removes 9.6 − 3.0 = 6.6 of that rise, which is 6.6/7.2 × 100 = 91.7%.
 - This supports the idea that tyrosine kinase activity is needed for the insulin effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--07-insulin-tyrosine-kinase.webp" width="900" height="1252" alt="Without insulin the muscle cell membrane has two glucose transporters. Insulin binds the tyrosine kinase receptor, tyrosines are phosphorylated using ATP, and vesicles bring more transporters to the membrane so more glucose enters. Bars show uptake of 2.4, 9.6 and 3.0 micromoles per gram per hour with no insulin, insulin and insulin plus inhibitor." loading="lazy">
+  <figcaption>Insulin triggers phosphorylation and insertion of glucose transporters, raising glucose uptake fourfold.</figcaption>
+</figure>
+
 
 ## Intracellular receptors (C2.1.12 and C2.1.13)
 
@@ -139,6 +181,12 @@ Steroid hormones are lipid-soluble and pass through the plasma membrane. Inside,
 ## Feedback (C2.1.14)
 
 **Negative feedback** reverses a change, which stabilises a variable. Example: a high blood glucose concentration stimulates insulin release, glucose uptake lowers glucose, and insulin release falls. **Positive feedback** amplifies a change. Example: during labour, stretching of the cervix triggers oxytocin release, oxytocin strengthens contractions, and stronger contractions cause more stretching.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--08-feedback-loops.webp" width="900" height="1090" alt="Negative feedback loop: high blood glucose causes insulin release, which raises glucose uptake and lowers glucose, reducing the change. Positive feedback loop in labour: cervix stretch causes oxytocin release, which strengthens contractions and causes more stretching." loading="lazy">
+  <figcaption>Negative feedback reverses a change; positive feedback amplifies it.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -53,6 +53,27 @@ These notes condense OCR GCSE (9-1) Mathematics J560 statements 7.01b, 7.01d, 7.
 - For a point with x = −1, say (−1, 1/5): k⁻¹ = 1/5, so k = 5.
 - In a real-life model such as P = 200 × 0.8ˣ the 200 is the starting value and 0.8 is the multiplier each step. Because 0.8 < 1, P decays.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and--03-exp-family.webp" width="900" height="850" alt="Graphs of y = 2 to the x and y = 0.5 to the x for x from minus 3 to 3. Both pass through (0, 1). The first rises steeply for positive x; the second falls towards the x-axis. They are mirror images in the y-axis and neither reaches y = 0." loading="lazy">
+  <figcaption>y = 2ˣ and y = 0.5ˣ both pass through (0, 1) and mirror each other in the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and--10-exp-3x11-table.webp" width="900" height="1000" alt="Table and graph for y = 3 times 1.1 to the x. At x = 0, 5 and 10 the values are 3, 4.83 and 7.78. The curve starts at the y-intercept 3 and rises slowly then more steeply, bending above the straight dashed line joining its end points." loading="lazy">
+  <figcaption>Starting at 3 and multiplying by 1.1 gives a curve that rises slowly then more steeply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and--13-find-k.webp" width="900" height="930" alt="Graphs of y = 3 to the x, 4 to the x and 5 to the x. At x = 3 they give 27, 64 and 125, so only k = 4 passes through (3, 64). Algebraically k cubed is 64, so k is the cube root of 64, which is 4. A curve through (minus 1, 1/5) has k = 5." loading="lazy">
+  <figcaption>Only k = 4 sends y = kˣ through (3, 64) because 4³ = 64.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
+</figure>
+
+
 ## 2. Trigonometric graphs (7.01e) -- Higher tier only
 
 x is an angle in degrees.
@@ -80,6 +101,22 @@ x is an angle in degrees.
 **Method: how many solutions of sin x = c?**
 
 Draw the line y = c on your sketch and count the crossings. For 0 < c < 1, there are two per 360°. So sin x = 0.4 has four solutions between 0° and 720°.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--03-sin-cos-graphs.webp" width="900" height="810" alt="Graphs of y = sin x and y = cos x from 0 to 360 degrees with key points marked at multiples of 90 degrees. Both are waves between minus 1 and 1 repeating every 360 degrees; cos is sin shifted by 90 degrees." loading="lazy">
+  <figcaption>Sin and cos are waves between -1 and 1 that repeat every 360 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--04-tan-graph.webp" width="900" height="860" alt="Graph of y = tan x from 0 to 360 degrees with dashed asymptotes at 90 and 270 degrees. Branches pass through (0,0), (180,0) and (360,0), approach the asymptotes without touching, and repeat every 180 degrees." loading="lazy">
+  <figcaption>Tan x has asymptotes at 90 and 270 degrees and repeats every 180 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--05-sin-solutions.webp" width="900" height="850" alt="The sine curve with dashed lines at y = 1/2 and y = minus 1/2. The lines cross at 30 and 150 degrees, and 210 and 330 degrees, showing x and 180 minus x, then 180 plus x and 360 minus x." loading="lazy">
+  <figcaption>Draw a horizontal line across the graph; each crossing is a solution.</figcaption>
+</figure>
+
 
 ## 3. Translations and reflections (7.03a) -- Higher tier only
 
@@ -175,6 +212,27 @@ When a graph is supplied without its equation, use its key points. Read off the 
 11. y = −3.
 12. Four.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and--02-curve-translation.webp" width="900" height="920" alt="Graph of y = x squared and y = (x + 2) squared minus 1. The second curve is the first moved 2 units left and 1 unit down, so its turning point is at (minus 2, minus 1). It crosses the x-axis at minus 3 and minus 1 and the y-axis at 3." loading="lazy">
+  <figcaption>Replacing x by x + 2 moves the curve 2 left and the −1 moves it 1 down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and--04-exp-shift-reflect.webp" width="900" height="800" alt="The graph of y = 2 to the x moved 3 units down gives y = 2 to the x minus 3, with y-intercept minus 2 and asymptote y = minus 3. Reflecting in the x-axis gives y = minus 2 to the x, which lies below the x-axis through (0, minus 1), still with asymptote y = 0." loading="lazy">
+  <figcaption>Subtracting 3 moves the curve and its asymptote down; a minus sign flips it in the x-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and--11-trig-translate.webp" width="900" height="1012" alt="Two graphs for x from 0 to 360 degrees. y = sin x + 2 is the sine wave moved 2 up, running from 1 to 3 and starting at (0, 2). y = cos x minus 1 is the cosine wave moved 1 down, running from minus 2 to 0 and starting at (0, 0). The original waves are shown dotted." loading="lazy">
+  <figcaption>Adding 2 lifts the sine wave and subtracting 1 lowers the cosine wave without changing its shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and--12-reflect-quad.webp" width="900" height="1016" alt="The curve y = x squared minus 6x has its turning point at (3, minus 9). Reflecting in the x-axis gives y = minus x squared plus 6x, an upside-down U with turning point (3, 9). Reflecting in the y-axis gives y = x squared plus 6x with turning point (minus 3, minus 9)." loading="lazy">
+  <figcaption>Reflecting in the x-axis flips the sign of y; reflecting in the y-axis flips the sign of x.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Drawing straight lines between plotted points on a curve, or sketching a curve that has kinks.
@@ -186,6 +244,12 @@ When a graph is supplied without its equation, use its key points. Read off the 
 - Sketching sin x starting at 1, or cos x starting at 0.
 - Missing the asymptotes of tan x, or giving tan x a maximum.
 - Leaving key coordinates off the sketch when the question asks you to label them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and--09-exp-3x-table.webp" width="900" height="950" alt="A table of values for y = 3 to the x with x from minus 2 to 3 gives 1/9, 1/3, 1, 3, 9 and 27. The plotted points (minus 2, 0.11), (minus 1, 0.33), (0, 1), (1, 3), (2, 9) and (3, 27) are joined by a smooth curve that stays close to the x-axis on the left." loading="lazy">
+  <figcaption>Each table pair becomes a point, and the left-hand points sit very close to the x-axis.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

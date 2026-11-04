@@ -35,6 +35,12 @@ Then test yourself with the [practice questions](/resources/edexcel-igcse-biolog
 - Allow control of temperature, carbon dioxide, water and lighting.
 - Polythene tunnels: cheaper, cover field crops, less control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--06-glasshouse-tunnel.webp" width="900" height="1130" alt="A glasshouse cut-through shows light entering, heat trapped, frost and wind kept out, a burner adding carbon dioxide and heat, and controlled watering. A polythene tunnel below is labelled cheaper but giving less control." loading="lazy">
+  <figcaption>What a glasshouse and a polythene tunnel do for a crop.</figcaption>
+</figure>
+
+
 ### Carbon dioxide and temperature (5.2)
 
 | Change | Effect | Limit |
@@ -50,12 +56,24 @@ Percentage change = (new − original) ÷ original × 100
 
 Worked reminder: a glasshouse is overheated and the yield falls from 40 to 36 kg per m². Percentage change = (36 − 40) ÷ 40 × 100 = **−10%**, a 10% decrease. The likely cause is that enzymes controlling photosynthesis are working above their optimum temperature and start to denature, so less glucose is made for growth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
+</figure>
+
+
 ### Fertiliser (5.3)
 
 - Replaces mineral ions removed by crops.
 - Nitrate → amino acids → proteins → growth.
 - Magnesium → chlorophyll → photosynthesis.
 - Excess can leach into water and cause eutrophication (see [Ecology and the environment](/resources/edexcel-igcse-biology-4bi1-ecology-and-the-environment-revision-notes/)).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
 
 ### Pest control (5.4)
 
@@ -65,6 +83,17 @@ Reasons: pests eat crops, spread disease, or (weeds) compete for light, water an
 |---|---|---|
 | Pesticides | Fast; easy to apply; kill most pests | Kill non-target species; build up along food chains; resistance develops; must be reapplied; residues on food |
 | Biological control | Specific; no chemical residues; self-sustaining; no resistance | Slow; pest not wiped out; control organism may eat other species or become a pest |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--07-pesticide-vs-biocontrol.webp" width="900" height="840" alt="Two panels compare pesticide spray, which kills pests and a useful insect, with biological control, where a predator eats the pest. Ticks and crosses list the advantages and disadvantages of each." loading="lazy">
+  <figcaption>Pesticide and biological control compared side by side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--01-food-production-methods.webp" width="900" height="935" alt="Five pictured rows: a tractor (agricultural machinery: larger area farmed more efficiently), a fertiliser bag marked nitrate feeding a plant (better yield), a crossed-out insect (insecticides kill insect pests), a crossed-out weed beside a crop (herbicides kill weeds so less competition for light, water and mineral ions), and a small ear of grain becoming a large one (selective breeding gives higher-yielding crops and livestock)." loading="lazy">
+  <figcaption>Each of the five methods and what it does for yield.</figcaption>
+</figure>
+
 
 ### Method in steps: a "compare" or "evaluate" answer on pest control
 
@@ -82,6 +111,12 @@ Reasons: pests eat crops, spread disease, or (weeds) compete for light, water an
 - Baking kills yeast and evaporates ethanol.
 - Warmth speeds up yeast enzymes; too hot kills the yeast.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--02-yeast.webp" width="900" height="1110" alt="Yeast breaks glucose down without oxygen into ethanol and carbon dioxide. Extended equation: C6H12O6 gives 2C2H5OH plus 2CO2. In a sealed tank the useful product is ethanol for fuel; in dough the useful product is carbon dioxide, whose trapped bubbles make the dough rise." loading="lazy">
+  <figcaption>Yeast makes ethanol for biofuel and carbon dioxide for bread.</figcaption>
+</figure>
+
+
 ### Method in steps: yeast practical (5.6)
 
 1. Yeast suspension + sugar solution in a boiling tube, in a water bath.
@@ -94,6 +129,12 @@ Reasons: pests eat crops, spread disease, or (weeds) compete for light, water an
 
 Worked reminder: 42 bubbles in 3 minutes gives a rate of 42 ÷ 3 = **14 bubbles per minute**. Bubbles vary in size, so a gas syringe is more accurate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--04-yeast-temperature.webp" width="900" height="1195" alt="A boiling tube of yeast and glucose stands in a water bath; a delivery tube carries carbon dioxide into a small tube of water where bubbles are counted per minute. A graph of the lesson means shows 4, 9, 18, 11 and 1 bubbles per minute at 15, 25, 35, 45 and 55 degrees Celsius; the optimum lies somewhere between 25 and 45 degrees." loading="lazy">
+  <figcaption>Rate rises to a peak then falls as enzymes are denatured at high temperature.</figcaption>
+</figure>
+
+
 ### Yoghurt (5.7)
 
 1. Heat (pasteurise) milk to kill unwanted bacteria; cool.
@@ -101,6 +142,12 @@ Worked reminder: 42 bubbles in 3 minutes gives a rate of 42 ÷ 3 = **14 bubbles 
 3. Incubate warm for several hours.
 4. Bacteria ferment lactose → **lactic acid**.
 5. pH falls → milk proteins clot → yoghurt thickens, tastes sour, and resists spoilage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--05-yoghurt.webp" width="900" height="1000" alt="Milk is heated to kill other bacteria, cooled, and Lactobacillus is added. It is kept warm for hours while the bacteria ferment lactose into lactic acid. The pH falls so milk proteins clot and thicken." loading="lazy">
+  <figcaption>Lactobacillus turns lactose into lactic acid, which thickens milk into yoghurt.</figcaption>
+</figure>
+
 
 ### Fermenter conditions (5.8)
 
@@ -112,6 +159,12 @@ Worked reminder: 42 bubbles in 3 minutes gives a rate of 42 ÷ 3 = **14 bubbles 
 | pH | Probe; add acid or alkali | Enzymes at optimum pH |
 | Oxygen | Sterile air pumped in | Aerobic respiration |
 | Agitation | Paddles | Even spread of microbes, nutrients, oxygen, heat |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--05-fermenter.webp" width="900" height="1150" alt="Extended. A labelled fermenter: motor and paddles mix the contents; nutrients enter at the top and gas leaves; sterile air enters at the bottom; a water jacket with cold water in and warm water out removes heat from respiration; pH and temperature probes monitor conditions; product leaves at the bottom. Fermenters make insulin (GM bacteria), penicillin (Penicillium) and mycoprotein (Fusarium)." loading="lazy">
+  <figcaption>A fermenter controls temperature, pH, oxygen, nutrients and wastes so microorganisms make a product.</figcaption>
+</figure>
+
 
 ### Fish farming (5.9B) -- Paper 2 only
 
@@ -125,6 +178,12 @@ Worked reminder: 42 bubbles in 3 minutes gives a rate of 42 ÷ 3 = **14 bubbles 
 | Feeding | High-protein food, little and often, no leftovers |
 | Breeding | Select fast-growing, disease-resistant fish |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--08-fish-farm-tanks.webp" width="900" height="1090" alt="Two netted tanks hold small and larger fish, with a feeder, bubbles for oxygen and a filter for waste. Numbered labels explain nets, size sorting, one species per tank, filtering, feeding, density control and oxygen." loading="lazy">
+  <figcaption>How the conditions in a fish farm tank are controlled.</figcaption>
+</figure>
+
+
 ## 5(b) Selective breeding (5.10, 5.11)
 
 ### Method in steps
@@ -136,6 +195,12 @@ Worked reminder: 42 bubbles in 3 minutes gives a rate of 42 ÷ 3 = **14 bubbles 
 5. Repeat for many generations.
 
 Plants: yield, disease resistance, short stems, drought tolerance. Animals: milk yield, meat, wool, egg production. Drawback: slow; less variation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--07-selective-breeding.webp" width="900" height="1180" alt="A loop shows choosing the best plants, crossing them, and growing offspring and choosing the best, repeated for many generations. A line graph shows wheat yield rising over four rounds: 3.2, 3.5, 3.9, 4.3 tonnes per hectare, a 34.4% increase. Uses are higher yield and disease resistance in crops and more milk, meat and calmer temperament in animals." loading="lazy">
+  <figcaption>Choosing and crossing the best plants over many generations raises yield.</figcaption>
+</figure>
+
 
 ## 5(c) Genetic modification (5.12–5.16)
 
@@ -161,6 +226,22 @@ Plants: yield, disease resistance, short stems, drought tolerance. Animals: milk
 
 Pest resistance, herbicide resistance, drought tolerance, improved nutritional value → more or better food.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--10-restriction-ligase.webp" width="900" height="1040" alt="DNA is drawn base by base. A restriction enzyme cuts at GAATTC leaving sticky ends, matching ends from another piece of DNA pair up, and ligase joins them into recombinant DNA." loading="lazy">
+  <figcaption>Restriction enzymes cut DNA and ligase joins it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--07-gm-examples.webp" width="900" height="1015" alt="Four examples: human insulin gene into bacteria so they make human insulin; herbicide resistance so the crop lives and weeds die; insect resistance in maize using a bacterial gene so pests die; rice that makes beta-carotene for vitamin A." loading="lazy">
+  <figcaption>GM moves a gene from one organism into another to give a useful new feature.</figcaption>
+</figure>
+
+
 ## 5(d) Cloning (5.17B–5.20B) -- Paper 2 only
 
 ### Micropropagation
@@ -180,9 +261,21 @@ Result: many genetically identical plants with the parent's desirable features, 
 4. Implant the embryo into surrogate sheep C.
 5. Lamb is a clone of sheep A.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--04-dolly-cloning.webp" width="900" height="890" alt="A diploid udder cell nucleus from sheep A is put into an egg from sheep B whose nucleus was removed. An electric shock makes it divide into an embryo, placed in surrogate sheep C. The lamb is identical to sheep A, the nucleus donor." loading="lazy">
+  <figcaption>The cloned lamb matches the sheep that donated the nucleus, not the egg donor or surrogate.</figcaption>
+</figure>
+
+
 ### Cloned transgenic animals
 
 Insert a human gene into an animal embryo → animal makes the human protein (for example, in milk) → clone it to produce a herd of producers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--09-cloned-transgenic-animals.webp" width="900" height="1060" alt="Five steps show a human gene inserted into an animal embryo, the transgenic animal making the protein in its milk, the animal cloned into a herd, and the protein extracted from the milk." loading="lazy">
+  <figcaption>How cloning a transgenic animal gives a herd that makes a human protein.</figcaption>
+</figure>
+
 
 ### Selective breeding vs genetic modification
 
@@ -191,6 +284,12 @@ Insert a human gene into an animal embryo → animal makes the human protein (fo
 | Genes come from | The same species | Can be a different species (transgenic) |
 | Speed | Many generations | One generation once the gene is inserted |
 | Precision | Many genes change together | A single chosen gene is added |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--03-micropropagation.webp" width="900" height="1120" alt="Four steps: cut explants from a parent tip, sterilise them, grow them in vitro on sterile agar with nutrients and hormones, then move plantlets to compost. The plants are genetically identical, so one disease could hit all." loading="lazy">
+  <figcaption>Micropropagation makes many identical plants from small pieces of one parent.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

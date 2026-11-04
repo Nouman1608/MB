@@ -54,6 +54,12 @@ In every living organism, a parent cell divides to give two daughter cells. In e
 
 Whatever the split, each daughter must receive at least one mitochondrion. Mitochondria cannot be made from scratch; they arise only by dividing a pre-existing one. The same applies to any other organelle made only by division of an existing structure. A daughter without them could not make ATP and could not recover.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--01-cytokinesis-equal-unequal.webp" width="900" height="1040" alt="Four drawings of cytokinesis. An animal cell is pinched in two by a ring of actin and myosin; a plant cell builds a new wall from fused vesicles. In oogenesis a large egg keeps almost all the cytoplasm and a tiny cell is cut off; a yeast bud stays much smaller than its parent. Every daughter gets mitochondria." loading="lazy">
+  <figcaption>The cytoplasm splits by a pinching ring in animals, by a new wall in plants, and unequally in oogenesis and yeast budding.</figcaption>
+</figure>
+
+
 ## D2.1.4 to D2.1.6: Why divide the nucleus, and what must happen first
 
 Nuclear division must come before cell division. If the cytoplasm split without it, one daughter would have no nucleus (an anucleate cell) and could not make new proteins from its genes.
@@ -64,6 +70,12 @@ Nuclear division must come before cell division. If the cytoplasm split without 
 **DNA replication comes first in both.** After replication each chromosome is made of two identical, elongated DNA molecules called chromatids, joined together until anaphase. Dividing without replicating would halve the DNA content at every division.
 
 **Condensation and movement.** Long DNA threads would tangle and break if pulled apart. Histones are proteins that DNA winds around. In prophase the DNA-histone strands are coiled and supercoiled, so each chromosome becomes short and thick. Chromosomes are then moved by **microtubules** of the spindle, using **microtubule motors** (proteins that use energy to move along the tubules). Condensation and movement are shared features of mitosis and meiosis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--02-replicate-before-dividing.webp" width="900" height="1010" alt="Three rows compare a cell with 6 chromosomes holding 6.0 au of DNA. Copying first gives 12.0 au then two daughters of 6.0; dividing without copying halves DNA to 3.0 au each; splitting only the cytoplasm leaves one cell with no nucleus." loading="lazy">
+  <figcaption>DNA must be copied first or each division halves the DNA, and the nucleus must divide before the cytoplasm.</figcaption>
+</figure>
+
 
 ## D2.1.7 and D2.1.8: The phases of mitosis
 
@@ -83,6 +95,17 @@ Mitosis produces two nuclei that are genetically identical to each other and to 
 1. Cells in mitosis: 34 + 6 + 4 + 8 = 52.
 2. Mitotic index = cells in mitosis ÷ total cells = 52 ÷ 400 = 0.13, or **13%**.
 3. Most mitotic cells were in prophase (34 of 52, which is 65%). Prophase is long, so more cells are caught in it than in the brief anaphase. This is a reasonable inference, not a measurement of durations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--03-mitosis-phases.webp" width="900" height="1215" alt="Four drawings of a cell with four chromosomes. Prophase: chromosomes condense and the envelope breaks down. Metaphase: chromosomes line up on the equator. Anaphase: centromeres split and chromatids are pulled to the poles. Telophase: chromosomes uncoil, envelopes re-form, cytokinesis follows." loading="lazy">
+  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--04-mitotic-index.webp" width="900" height="1330" alt="A grid of 400 cells with 52 coloured as in mitosis: 34 prophase, 6 metaphase, 4 anaphase, 8 telophase. The mitotic index is 52 / 400 = 0.13 or 13 percent. Bars compare sample Q (13.0 percent) with sample P (62 of 250, 24.8 percent), about 1.9 times higher." loading="lazy">
+  <figcaption>Mitotic index is the fraction of cells in mitosis; a higher index means faster division.</figcaption>
+</figure>
+
 
 ## D2.1.9: Meiosis as a reduction division
 
@@ -105,6 +128,12 @@ Meiosis is two divisions after one round of replication. It gives four haploid n
 
 Meiosis I halves the chromosome number but not the DNA amount, because each chromosome still has two chromatids. The DNA halves again in meiosis II. Four nuclei of 3.0 au come from one nucleus of 6.0 au.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--05-meiosis-reduction-division.webp" width="900" height="1100" alt="A cell with 6 chromosomes (6.0 au) copies its DNA to 12.0 au. Meiosis I separates homologues into two cells of 3 chromosomes, still 6 chromatids, 6.0 au each. Meiosis II separates chromatids into four cells of 3 chromosomes and 3.0 au." loading="lazy">
+  <figcaption>Meiosis I halves the chromosome number; DNA halves again in meiosis II.</figcaption>
+</figure>
+
+
 ## D2.1.10: Down syndrome and non-disjunction
 
 **Non-disjunction** is failure of chromosomes to separate in meiosis, so both go to the same pole. In meiosis I the two members of a homologous pair stay together. In meiosis II the two chromatids of one chromosome stay together.
@@ -117,6 +146,12 @@ Down syndrome is an example. A gamete with an extra chromosome 21 has 24 chromos
 - The other gamete from that division lacks a chromosome 21 (22 chromosomes).
 - Fertilisation by a normal sperm (23): 24 + 23 = 47.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--06-non-disjunction-down-syndrome.webp" width="900" height="1270" alt="One pair of chromosome 21 is followed. Failure in meiosis I gives two gametes with 24 chromosomes and two with 22; failure in meiosis II gives one with 24, one with 22 and two normal with 23. A 24-chromosome egg plus a normal sperm gives 47 chromosomes and trisomy 21." loading="lazy">
+  <figcaption>Non-disjunction gives gametes with an extra or missing chromosome 21; 24 + 23 = 47 is trisomy 21.</figcaption>
+</figure>
+
+
 ## D2.1.11: Meiosis as a source of variation
 
 Two events make the gametes different from one another.
@@ -126,6 +161,12 @@ Two events make the gametes different from one another.
 **Random orientation of bivalents.** In metaphase I each bivalent faces either pole at random, independently of the others. The number of possible combinations of maternal and paternal chromosomes is 2ⁿ for n pairs, ignoring crossing over.
 
 **Worked example 4.** A species has 2n = 8. Then n = 4 and 2⁴ = **16** combinations. For humans, n = 23, so 2²³ = **8 388 608**. Crossing over multiplies the possibilities further, and random fertilisation adds more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--07-meiosis-variation-sources.webp" width="900" height="1180" alt="Top: a chiasma between non-sister chromatids turns AB, AB, ab, ab into AB, Ab, aB and ab. Bottom: 16 tiles show every combination of maternal (teal) and paternal (gold) chromosomes for 4 pairs, 2^4 = 16; humans have 2^23 = 8 388 608." loading="lazy">
+  <figcaption>Crossing over and random orientation make every gamete different.</figcaption>
+</figure>
+
 
 ## D2.1.12 to D2.1.14 (HL only): Proliferation and the cell cycle
 
@@ -144,6 +185,12 @@ Two events make the gametes different from one another.
 | M | Mitosis, then cytokinesis |
 
 **Interphase is not a resting stage (D2.1.14).** It is metabolically very active. The cell makes proteins and new DNA, and builds other components. Mitochondria and chloroplasts increase in number by growing and dividing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--08-cell-cycle-cyclin-checkpoint.webp" width="900" height="1200" alt="A ring shows G1, S, G2 (together interphase, very active) then M, with a checkpoint at the end of G1. A graph of invented cyclin X values rises from 8 to 44 au at hour 9; the 40 au threshold is crossed at about 8.5 h, then the level falls and resets the control." loading="lazy">
+  <figcaption>A cell passes the checkpoint only when cyclin reaches its threshold; interphase is not a resting stage.</figcaption>
+</figure>
+
 
 ## D2.1.15 (HL only): Control by cyclins
 
@@ -167,6 +214,12 @@ Genes control the cycle. **Proto-oncogenes** normally stimulate division. A muta
 - P: 62 ÷ 250 = 0.248, so **24.8%**.
 - Q: 52 ÷ 400 = **13.0%**. The mitotic index of P is about 1.9 times that of Q (24.8 ÷ 13.0 = 1.9).
 - A higher index shows faster division, but not by itself whether the tumour is benign or malignant. You would need evidence of invasion or secondary tumours.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-and-nuclear-division-mitosis-meiosis-and-the-cell--09-mutation-to-tumour.webp" width="900" height="1240" alt="A proto-oncogene mutates to an oncogene that always stimulates division; a tumour suppressor gene mutates to switched off. Uncontrolled division doubles cells 1, 2, 4, 8, 16 into a tumour. A benign tumour stays in a capsule; a malignant one invades and spreads by metastasis to form secondary tumours." loading="lazy">
+  <figcaption>Mutations in genes that stimulate or restrain division cause tumours, which may be benign or malignant.</figcaption>
+</figure>
+
 
 ## Common errors
 

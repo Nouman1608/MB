@@ -51,6 +51,12 @@ For exam-style questions with worked answers, go to the [Types of chemical react
 
 **Worked reminder.** NiO + H₂ → Ni + H₂O. Nickel(II) oxide loses oxygen: reduced, oxidising agent. Hydrogen gains oxygen to become water: oxidised, reducing agent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--01-oxygen-transfer.webp" width="900" height="960" alt="Copper(II) oxide has a copper atom bonded to oxygen, beside a hydrogen molecule. A dashed arrow shows the oxygen moving to the hydrogen. Afterwards there is a copper atom and a water molecule: copper lost oxygen (reduced) and hydrogen gained oxygen (oxidised)." loading="lazy">
+  <figcaption>In CuO + H2 -&gt; Cu + H2O oxygen moves from copper to hydrogen, so reduction and oxidation happen together.</figcaption>
+</figure>
+
+
 ## C3.3b: redox in terms of electrons (Higher Tier only)
 
 **OIL RIG**, for electrons: Oxidation Is Loss, Reduction Is Gain.
@@ -69,12 +75,29 @@ For exam-style questions with worked answers, go to the [Types of chemical react
 
 Metal + acid is also redox: Fe + 2H⁺ → Fe²⁺ + H₂. Iron atoms lose electrons; hydrogen ions gain them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--06-agents.webp" width="900" height="910" alt="Zinc is the reducing agent: it is itself oxidised and passes two electrons to Cu2+. Cu2+ is the oxidising agent: it is itself reduced and oxidises zinc." loading="lazy">
+  <figcaption>The oxidising agent is the substance that gets reduced; the reducing agent is the one that gets oxidised.</figcaption>
+</figure>
+
+
 ## C3.3c: ions in acids and alkalis
 
 - Acid in water → H⁺ ions: HCl → H⁺ + Cl⁻; H₂SO₄ → 2H⁺ + SO₄²⁻
 - Alkali solution → OH⁻ ions: LiOH → Li⁺ + OH⁻; Ca(OH)₂ → Ca²⁺ + 2OH⁻
 - The H⁺ ions are **free** in solution, not still attached to the acid molecule (a misconception the specification names).
 - Alkalis can be just as corrosive as acids (another named misconception).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--01-ph-and-indicators.webp" width="900" height="1010" alt="The universal indicator bar runs from red (pH 0) through green (pH 7) to purple (pH 14). Acidic solutions have more H+ ions, alkaline ones more OH- ions. Three tube pairs show litmus, thymolphthalein and methyl orange in acid and alkali." loading="lazy">
+  <figcaption>pH colours and indicator colours show what ions the solution holds.</figcaption>
+</figure>
+
 
 ## C3.3d and C3.3e: neutralisation
 
@@ -87,6 +110,12 @@ Metal + acid is also redox: Fe + 2H⁺ → Fe²⁺ + H₂. Iron atoms lose elect
 **Ionic equation for every aqueous acid–alkali neutralisation:** H⁺(aq) + OH⁻(aq) → H₂O(l). Spectator ions (the metal ion and the acid's negative ion) do not change, so they are omitted.
 
 **Salt names:** hydrochloric acid → chloride; nitric acid → nitrate; sulfuric acid → sulfate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--03-neutralisation.webp" width="900" height="900" alt="A larger oval of bases contains a smaller oval of alkalis; copper(II) oxide is a base but not an alkali. Beakers show five H+ ions plus five OH- ions giving five water molecules." loading="lazy">
+  <figcaption>Every alkali is a base, and neutralisation is H+ + OH- making water.</figcaption>
+</figure>
+
 
 ## C3.3f: carbonates and metals with acids
 
@@ -107,6 +136,12 @@ Metal + acid is also redox: Fe + 2H⁺ → Fe²⁺ + H₂. Iron atoms lose elect
 
 Copper, silver and gold do not react with dilute hydrochloric or sulfuric acid, which is why the specification says "some metals".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--02-acid-reactions.webp" width="900" height="975" alt="Four test tubes: acid with metal gives salt and hydrogen; acid with base gives salt and water; acid with carbonate gives salt, water and carbon dioxide; a base warmed with an ammonium salt releases ammonia." loading="lazy">
+  <figcaption>Know the products of each reaction, including the easily forgotten carbon dioxide.</figcaption>
+</figure>
+
+
 ## PAG C7: making a pure, dry salt from an insoluble base
 
 1. Warm the dilute acid.
@@ -116,6 +151,12 @@ Copper, silver and gold do not react with dilute hydrochloric or sulfuric acid, 
 5. Filter off the crystals and **dry** them on filter paper or in a warm oven.
 
 Why excess solid? It guarantees no acid remains, and unreacted solid is simple to remove by filtering.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--06-soluble-salt-prep.webp" width="900" height="1130" alt="Four steps: add excess solid to acid, filter off the unreacted solid, evaporate the filtrate until crystals start to form, then crystallise, filter and dry. A note says that with an alkali you titrate to the exact volume." loading="lazy">
+  <figcaption>Excess solid guarantees all the acid reacts; filter before evaporating.</figcaption>
+</figure>
+
 
 ## C3.3g: strength and concentration (Higher Tier only)
 
@@ -127,6 +168,12 @@ Why excess solid? It guarantees no acid remains, and unreacted solid is simple t
 **Must-know distinction:** "weak" is not "dilute". A concentrated weak acid and a dilute strong acid both exist.
 
 **Concentration as a ratio (CM3.3i).** Divide amount (mol) by volume (dm³). Convert cm³ to dm³ by dividing by 1000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--04-strong-weak-acids.webp" width="900" height="1090" alt="Two boxes of ten acid particles. In hydrochloric acid all ten split into H+ and Cl- ions. In ethanoic acid only two split and eight stay as molecules, so it uses a reversible arrow." loading="lazy">
+  <figcaption>Strong acids split completely; weak acids only partly.</figcaption>
+</figure>
+
 
 ## C3.3h, C3.3i and C3.3j: pH
 
@@ -144,6 +191,17 @@ Why excess solid? It guarantees no acid remains, and unreacted solid is simple t
 **Worked reminder (Higher Tier only).** pH 6 → pH 3 is a fall of 3, so the H⁺ concentration is 10 × 10 × 10 = 1000 times greater.
 
 **Titration curve (Higher Tier only).** Alkali added to acid: pH starts low, rises slowly, then jumps steeply through 7 near exact neutralisation, then levels off high. Acid added to alkali gives the mirror image: starts high, falls slowly, drops steeply, then levels off low.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-types-of-chemical-reactions--01-ph-titration-curve.webp" width="900" height="810" alt="Graph of pH against alkali added to 25.0 cm3 of strong acid, plotted from the lesson table. The pH rises slowly, jumps through pH 7 at 25.0 cm3, then levels off high." loading="lazy">
+  <figcaption>The steep jump through pH 7 marks the volume that neutralises the acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-types-of-chemical-reactions--02-ph-factor-of-ten.webp" width="900" height="770" alt="Rows of squares show 1, 10, 100 and 1000 units of H+ at pH 4, 3, 2 and 1. Each step down the pH scale is ten times more H+. Diluting a strong acid 100 times raises the pH by 2." loading="lazy">
+  <figcaption>Each pH step down means ten times more H+.</figcaption>
+</figure>
+
 
 ## C3.3k and PAG C6: measuring pH
 
@@ -183,6 +241,22 @@ Universal indicator colours run roughly red (strongly acidic), orange, yellow, g
 10. pH rises by 1, so the H⁺ concentration is **10 times smaller**.
 11. **Concentrated** means a large amount of acid per dm³; **weak** means only partly ionised. The two describe different things.
 12. Any one: gives a **more precise** reading; not affected by the **colour** of the solution; can **record continuously**; no subjective colour matching.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-types-of-chemical-reactions--09-concentration-compare.webp" width="900" height="770" alt="Beaker A holds 0.40 mol in 500 cm3 (0.80 mol/dm3); beaker B holds 0.15 mol in 100 cm3 (1.5 mol/dm3). Dots are packed closer in B so B is more concentrated." loading="lazy">
+  <figcaption>Concentration is amount per dm3, not total amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-types-of-chemical-reactions--10-ph-indicator-vs-probe.webp" width="900" height="1000" alt="A universal indicator colour strip pH 0 to 14 gives an approximate whole number. A pH probe is calibrated in buffers, rinsed and dipped in the sample, giving a precise reading." loading="lazy">
+  <figcaption>Indicator gives an approximate value; a probe is more precise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-types-of-chemical-reactions--11-tin-oxide-carbon-oxygen-transfer.webp" width="900" height="790" alt="SnO2 + 2C gives Sn + 2CO. Two oxygen atoms move from tin(IV) oxide to carbon: SnO2 is reduced (oxidising agent), carbon is oxidised (reducing agent)." loading="lazy">
+  <figcaption>Oxygen moves from SnO2 to carbon.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

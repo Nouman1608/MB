@@ -47,6 +47,17 @@ Course links: [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/), printable [che
 
 A **physical** example: a sealed flask part-filled with a volatile liquid at constant temperature. Evaporation and condensation rates become equal and the vapour pressure stays constant. A **chemical** example: a sealed mixture of a reversible gas reaction once its composition stops changing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--01-rates-meet.webp" width="900" height="930" alt="Rate is plotted against time. The forward rate starts high and falls; the backward rate starts at zero and rises. They meet, and in the shaded region both reactions continue at equal rates." loading="lazy">
+  <figcaption>At equilibrium the forward and backward rates are equal, not zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--02-bromine-flask.webp" width="900" height="980" alt="Three stoppered flasks show liquid bromine and brown vapour at the start, later, and at equilibrium. The up arrow (evaporation) starts longer than the down arrow (condensation) and they match at equilibrium, when the colour stops deepening." loading="lazy">
+  <figcaption>In a closed flask the colour stops deepening when evaporation and condensation rates match.</figcaption>
+</figure>
+
+
 ## Reactivity 2.3.2 Writing K
 
 For aA + bB ⇌ cC + dD (homogeneous):
@@ -76,6 +87,12 @@ Small reminder: for 2N₂O(g) + 3O₂(g) ⇌ 4NO₂(g), K = [NO₂]⁴ / ([N₂O
 - A large K says nothing about rate.
 
 Small reminder: K = 0.25 forward means K = 4.0 for the reverse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--03-size-of-k.webp" width="900" height="1010" alt="Three bars show reactant and product proportions for K = 0.01, 1 and 100 in A to B. A clock icon warns that K says nothing about speed." loading="lazy">
+  <figcaption>A large K means mostly products at equilibrium but says nothing about how fast.</figcaption>
+</figure>
+
 
 ## Reactivity 2.3.4 Le Châtelier's principle
 
@@ -107,6 +124,22 @@ Method in steps for a "predict and explain" answer:
 3. Give the reason (fewer gas molecules, endothermic direction, replacing a removed species).
 4. Say whether K changes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--04-add-reactant.webp" width="900" height="940" alt="A concentration-time graph for CO + 2H2 and CH3OH. When CO is added, CO jumps then falls with H2 while CH3OH rises to a new equilibrium; K calculated from the final values is still 40.0." loading="lazy">
+  <figcaption>Adding CO shifts the position to more CH3OH, but K is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--05-pressure-temperature.webp" width="900" height="1140" alt="Higher pressure shifts right because the right side has 4 gas molecules against 5, and K is unchanged. Raising the temperature favours the endothermic backward direction, shifting left and lowering K." loading="lazy">
+  <figcaption>Pressure shifts the position but not K; temperature shifts the position and changes K.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--06-catalyst.webp" width="900" height="940" alt="An energy profile with a dashed no-catalyst curve and a lower-peaked catalysed curve, with the same start and end energies. The barrier falls by the same amount in both directions." loading="lazy">
+  <figcaption>A catalyst speeds both directions equally, so equilibrium is reached sooner with the same composition.</figcaption>
+</figure>
+
+
 ## Reactivity 2.3.5 Q and direction (HL only)
 
 | Q compared with K | Net change |
@@ -116,6 +149,12 @@ Method in steps for a "predict and explain" answer:
 | Q > K | Backward, making more reactants |
 
 Small reminder: Q is built from the same expression as K. If K = 5.0 and a mixture gives Q = 0.80, the mixture has too few products, so the forward reaction runs until Q rises to 5.0. Q can only be compared with K measured at the same temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--07-q-vs-k.webp" width="900" height="990" alt="On a log scale with K = 20.0 marked, Q below K means net forward and Q above K means net backward. The worked mixture has Q = 22.5, just above K, so NOBr breaks down." loading="lazy">
+  <figcaption>If Q is greater than K the net reaction is backward until Q equals K.</figcaption>
+</figure>
+
 
 ## Reactivity 2.3.6 Equilibrium calculations (HL only)
 
@@ -134,6 +173,12 @@ Shortcuts that avoid quadratics:
 
 Only homogeneous equilibria are assessed here, and the guide states quadratic equations are not expected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--08-ice-bars.webp" width="900" height="940" alt="Bars compare start and equilibrium concentrations for CO, H2 and CH3OH in 2.00 dm3. CO and H2 fall in the ratio 1 to 2 while CH3OH rises to 0.0600, giving K = 2.97." loading="lazy">
+  <figcaption>Converting moles to concentration gives K = 2.97 for worked example 5.</figcaption>
+</figure>
+
+
 ## Reactivity 2.3.7 K and Gibbs energy (HL only)
 
 ΔG⦵ = −RT lnK   R = 8.31 J K⁻¹ mol⁻¹, T in K, ΔG⦵ in J mol⁻¹
@@ -147,6 +192,12 @@ Only homogeneous equilibria are assessed here, and the guide states quadratic eq
 Rearranged: K = e^(−ΔG⦵/RT).
 
 Small reminder: ΔG⦵ = +10.0 kJ mol⁻¹ at 400 K gives lnK = −10 000 / (8.31 × 400) = −3.01, so K = **0.0494**. The positive ΔG⦵ and K below 1 both say reactants are favoured.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--09-gibbs-k.webp" width="900" height="940" alt="A straight line of delta G against log K at 298 K passes through zero at K = 1. Negative delta G means K above 1 and products favoured; positive delta G means reactants favoured. The point at minus 5.70 kJ per mol gives K about 10." loading="lazy">
+  <figcaption>delta G = -RT ln K: negative delta G means K above 1; here -5.70 kJ per mol gives K of about 10.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

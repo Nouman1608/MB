@@ -105,6 +105,32 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
 > 3. Set it equal to the power you want and solve for r.
 > 4. Substitute r and evaluate the coefficient.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--01-exponent-ladder.webp" width="900" height="720" alt="Eight boxes show 2 to the power -3 to 4 as 1/8, 1/4, 1/2, 1, 2, 4, 8, 16, each step to the right multiplying by 2. Arrows from 2^3 = 8 and 2^(-1) = 1/2 merge into 2^2 = 4, showing that multiplying powers adds the exponents (3 + (-1) = 2)." loading="lazy">
+  <figcaption>Each step up the exponent multiplies by 2, so multiplying powers adds exponents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--02-rational-exponents.webp" width="900" height="890" alt="27^(2/3): the cube root of 27 is 3 (the edge of a 3 by 3 by 3 cube) and squaring gives 9. 32^(-3/5): the fifth root of 32 is 2, cubing gives 8, and the reciprocal gives 1/8. Take the root first so the numbers stay small." loading="lazy">
+  <figcaption>For a^(n/m), take the m-th root first, then the power n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--04-change-of-base.webp" width="900" height="900" alt="A ruler marks 1, 2, 4, 8, 16, 32 at their base-2 logarithms 0 to 5. The length to 32 is 5 units and one base-8 step (log2 8) is 3 units, so 5 units hold 5/3 steps: log8 32 = 5/3. With a calculator, log3 20 = ln 20 / ln 3 = 2.73." loading="lazy">
+  <figcaption>Changing base counts how many steps of one size fit in another length.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--06-hidden-quadratic.webp" width="900" height="990" alt="The graph of y = 9^x - 4(3^x) + 3 crosses the x-axis at x = 0 and x = 1. Substituting y = 3^x gives y^2 - 4y + 3 = 0, so (y-1)(y-3) = 0, 3^x = 1 or 3. Because 3^x is always positive, a negative root for y must be rejected." loading="lazy">
+  <figcaption>A 9^x term is (3^x)^2, so substitute y = 3^x and solve the quadratic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--07-identity-lhs-rhs.webp" width="900" height="950" alt="The curves y = 1/n - 1/(n+2) (dashed) and y = 2/(n(n+2)) (thick) lie exactly on top of each other, with asymptotes at n = 0 and n = -2. At n = 3 both equal 2/15, matching the numerical check. Because they agree for every allowed n, the statement is an identity." loading="lazy">
+  <figcaption>An identity (the symbol identical-to) is true for every allowed n: both sides trace one curve.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Exponents.** (3x²y⁻¹)³ × (2x⁻⁴y)² = 27x⁶y⁻³ × 4x⁻⁸y² = 108/(x²y).
@@ -121,6 +147,12 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
 
 **nCr by technology.** To find r when 8Cr = 56, tabulate 8Cr for r = 0 to 8. The table gives r = 3 and r = 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--09-term-independent-of-x.webp" width="900" height="880" alt="A bar chart of the seven terms of (x^2 - 2/x)^6 with coefficients 1, -12, 60, -160, 240, -192, 64 and powers of x equal to 12 - 3r. The term at r = 4 has power 0, so the term independent of x is 6C4 x (-2)^4 = 15 x 16 = 240." loading="lazy">
+  <figcaption>Solve 12 - 3r = 0 to find which term has no x.</figcaption>
+</figure>
+
+
 ## Pascal's triangle, rows 0 to 6
 
 ```
@@ -134,6 +166,12 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
 ```
 
 Row n gives the coefficients of (a + b)^n. Each row is symmetric because nCr = nC(n−r).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--08-pascal-expansion.webp" width="900" height="910" alt="Pascal’s triangle for rows 0 to 8, each entry the sum of the two above. Row 4 (1, 4, 6, 4, 1) gives (2x - 3)^4 = 16x^4 - 96x^3 + 216x^2 - 216x + 81. In row 8, 8C3 = 8C5 = 56 by symmetry." loading="lazy">
+  <figcaption>Row n of Pascal’s triangle gives the coefficients of (a + b)^n.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -179,6 +217,12 @@ AA Paper 1 allows no technology; Paper 2 requires it. Be fluent by hand with exp
 11. **No.** (x + 1)² = x² + 2x + 1, which equals x² + 1 only when x = 0. It is an equation, not an identity.
 12. 2x = ln 5, so **x = ½ ln 5 = 0.805**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--03-log-solves-power.webp" width="900" height="960" alt="A graph of y = 10^x shows the level y = 50 meeting the curve at x = log 50 = 1.70 (3 s.f.). The definition 2^5 = 32 is equivalent to log2 32 = 5, and the same idea in base e gives x = ln 7 = 1.95 for e^x = 7." loading="lazy">
+  <figcaption>A logarithm answers &quot;what power?&quot;, so 10^x = 50 gives x = log 50 = 1.70.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Raising only the letters to a power: (3x²)³ written as 3x⁶ instead of 27x⁶.
@@ -191,6 +235,12 @@ AA Paper 1 allows no technology; Paper 2 requires it. Be fluent by hand with exp
 - Losing the negative sign of b in (a − b)^n, so the terms no longer alternate.
 - Quoting nCr as the coefficient and forgetting the powers of the numbers in the bracket.
 - Finding one value of r from an nCr equation and missing the symmetric second value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--05-solve-by-logs.webp" width="900" height="970" alt="The curves y = 5^(x+1) and y = 3^(2x) cross at x = 2.74 where both equal about 410. Taking logs gives (x+1) ln 5 = 2x ln 3, so x = ln 5 / ln(9/5) = 2.74." loading="lazy">
+  <figcaption>The solution of 5^(x+1) = 3^(2x) is where the curves meet, found with logs.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

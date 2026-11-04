@@ -2,15 +2,17 @@
 title: "IGCSE Accounting: The Fundamentals of Accounting (Cambridge 0452)"
 resourceType: "study-guides"
 subject: "accounting"
-level: ["igcse"]
+level: ["igcse","o-levels"]
 topic: "The fundamentals of accounting"
 boards: ["cambridge"]
-qualifications: ["igcse"]
-syllabusCodes: ["0452"]
+qualifications: ["igcse", "o-level"]
+syllabusCodes: ["0452", "7707"]
 syllabusSeries: "2027-2029"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
+    topic: "the-fundamentals-of-accounting"
+  - qualification: "o-level"
     topic: "the-fundamentals-of-accounting"
 description: "The purpose of accounting and the accounting equation -- the full content of Topic 1 for Cambridge IGCSE Accounting 0452, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
@@ -22,7 +24,8 @@ featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> Accounting 0452 syllabus (and Cambridge O Level Accounting 7707, which has the
+> same subject content for the same series) for exams in 2027, 2028 and 2029 (version 1),
 > first examined in the March 2027 series in India and the June 2027 series
 > elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
 > (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
@@ -135,6 +138,12 @@ transaction types -- a cash purchase, a credit sale, drawings, a loan
 received -- is what makes the equation feel like a genuine tool for
 checking understanding, rather than a formula memorised without being
 able to apply it to an actual transaction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
 
 ## Why this topic underpins the rest of the syllabus
 

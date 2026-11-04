@@ -37,6 +37,12 @@ Afterwards, test yourself with the [Reactivity 2.1 practice questions](/resource
 - **Percentage yield**: experimental yield as a percentage of theoretical yield.
 - **Atom economy**: molar mass of the desired product as a percentage of the total molar mass of all reactants in the balanced equation; a green chemistry measure of efficiency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-much-the-amount-of-chemical-change--07-atom-economy.webp" width="900" height="970" alt="Mass bars compare two routes to methanol. Route 1 has reactants 32.05 and one product of 32.05, so 100 %. Route 2 has reactants 50.07 and products 32.05 methanol plus 18.02 water, so 64.0 %, with 36.0 % of the mass as water." loading="lazy">
+  <figcaption>Atom economy = molar mass of desired product / total molar mass of reactants x 100.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Quantity | Relationship | Notes |
@@ -83,6 +89,17 @@ Two points come straight from the guide: work with Ar values to two decimal plac
 1. Balanced equation for the route in question.
 2. Add up the molar masses of all reactants, each multiplied by its coefficient.
 3. Divide the molar mass of the wanted product (times its coefficient) by that total, then × 100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-much-the-amount-of-chemical-change--01-balance-atom-tally.webp" width="900" height="980" alt="Dot rows count each element on both sides of Al2O3 + 3H2SO4 -&gt; Al2(SO4)3 + 3H2O: Al 2 = 2, S 3 = 3, O 15 = 15, H 6 = 6. Balance with coefficients only, never subscripts." loading="lazy">
+  <figcaption>Count every element on both sides; change coefficients, never subscripts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-much-the-amount-of-chemical-change--02-three-moves.webp" width="900" height="1000" alt="A flow chart takes 5.00 g Mg3N2 to 0.04953 mol (divide by M), then by the mole ratio to 0.1486 mol Mg(OH)2 and 0.09906 mol NH3, then to 8.67 g and 2.25 dm3 at STP." loading="lazy">
+  <figcaption>Convert to moles, apply the mole ratio, convert to the unit asked for.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -131,6 +148,27 @@ Use these Ar values: Cu 63.55, H 1.01, O 16.00, Zn 65.38. Vm = 22.7 dm³ mol⁻�
 9. 9.30 ÷ 12.4 × 100 = **75.0 %**
 10. Wanted: 2 × 2.02 = 4.04; reactants: 2 × 18.02 = 36.04; atom economy = 4.04 ÷ 36.04 × 100 = **11.2 %**
 11. Propene and HBr add together: C₃H₆ + HBr → C₃H₇Br. The equation has only one product, so every reactant atom ends up in it and none leaves in a by-product.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-much-the-amount-of-chemical-change--03-gas-volume-ratio.webp" width="900" height="820" alt="Four gas columns show 60 cm3 CO and 60 cm3 NO reacting to give 60 cm3 CO2 and 30 cm3 N2 at the same temperature and pressure. The volume ratio equals the mole ratio, so no molar volume is needed." loading="lazy">
+  <figcaption>At fixed temperature and pressure, gas volumes are in the mole ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-much-the-amount-of-chemical-change--04-solution-concentrations.webp" width="900" height="1030" alt="Two beakers show 25.00 cm3 Ba(OH)2 plus 18.40 cm3 acid giving 43.40 cm3 at the end point. 0.002760 mol HNO3 gives 0.001380 mol Ba(OH)2, so 0.0552 mol dm-3; the same moles of Ba(NO3)2 in 0.04340 dm3 give 0.0318 mol dm-3." loading="lazy">
+  <figcaption>Use the volume of the solution that holds the substance; products use the combined volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-much-the-amount-of-chemical-change--05-limiting-reactant.webp" width="900" height="1070" alt="Bars show Fe 0.05013 mol and Cl2 0.06608 mol. All the iron would need 0.07520 mol Cl2, so chlorine, with 0.00912 mol short, is limiting. It gives 0.04405 mol (7.15 g) FeCl3 and leaves 0.340 g Fe." loading="lazy">
+  <figcaption>The reactant that would run out first fixes the theoretical yield.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-much-the-amount-of-chemical-change--06-percentage-yield.webp" width="900" height="1010" alt="A dashed bar shows the 3.236 g theoretical yield of KCl and a filled bar the 2.91 g collected, giving 89.9 %. Icons show reasons for a lower yield: incomplete reaction, side reactions, product lost in transfer." loading="lazy">
+  <figcaption>Percentage yield = experimental yield / theoretical yield x 100, based on the limiting reactant.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -85,6 +85,22 @@ When warmed, ammonium hydrogencarbonate decomposes completely into gases: NH₄H
 
 A quick prediction agrees: one solid becomes 3 mol of gas, so expect a large positive value. If the sign disagrees, look for a missed coefficient or state symbol.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-entropy-and-spontaneity--01-entropy-states.webp" width="900" height="1000" alt="Three boxes show a solid (fixed lattice), liquid (packed, sliding) and gas (few particles roaming), with rising bars for S(s) &lt; S(l) &lt; S(g). A note says a perfect crystal at 0 K has S = 0." loading="lazy">
+  <figcaption>Entropy rises as matter and energy spread more widely: solid &lt; liquid &lt; gas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-entropy-and-spontaneity--02-predict-delta-s.webp" width="900" height="1040" alt="Four particle pictures: condensing (ΔS negative), ammonium dichromate giving 5 mol gas (positive), Ag+ and Br- forming AgBr (negative), propanone burning with gas 4 to 3 mol (negative)." loading="lazy">
+  <figcaption>Check moles of gas, change of state and free ions to predict the sign of ΔS.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-entropy-and-spontaneity--03-delta-s-from-values.webp" width="900" height="880" alt="Bars to one scale: reactant 120.9; products 192.8 + 213.8 + 188.8 = 595.4. The gap between bar ends is ΔS° = +474.5 J K-1 mol-1." loading="lazy">
+  <figcaption>ΔS° is the sum of product S° values minus the sum of reactant S° values.</figcaption>
+</figure>
+
+
 ## Reactivity 1.4.2 Gibbs energy
 
 The **Gibbs energy change**, ΔG, ties together the enthalpy change, the entropy change and the absolute temperature. It relates to the energy a reaction can make available to do useful work.
@@ -115,6 +131,22 @@ TΔS⦵ = ΔH⦵ − ΔG⦵ = 42.3 − 6.0 = 36.3 kJ mol⁻¹
 ```
 
 A positive answer makes sense for a liquid becoming a gas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-entropy-and-spontaneity--04-gibbs-terms.webp" width="900" height="910" alt="A waterfall: ΔH° = +168.2 kJ/mol, minus TΔS° = 141.4 (298 x 0.4745), leaves ΔG° = +26.8, not spontaneous at 298 K. A box reminds you to divide ΔS by 1000." loading="lazy">
+  <figcaption>Convert ΔS to kJ and T to kelvin before using ΔG° = ΔH° − TΔS°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-entropy-and-spontaneity--08-dg-and-q.webp" width="900" height="880" alt="ΔG against log Q for A ⇌ B at 298 K with ΔG° = −5.00 kJ/mol: a rising line through −5.00 at Q = 1, zero at Q = K = 7.53, and +1.71 at Q = 15.0 so the mixture shifts back towards A." loading="lazy">
+  <figcaption>ΔG rises to zero as Q approaches K, where the system is at equilibrium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-entropy-and-spontaneity--09-dg-and-k.webp" width="900" height="890" alt="ln K against ΔG° for 298 K and 700 K; NOCl points at ΔG° = −41.05 (K = 1.6 x 10^7) and +7.71 (K = 0.266), with K &gt; 1 and K &lt; 1 regions shaded." loading="lazy">
+  <figcaption>Negative ΔG° gives K greater than 1 and positive ΔG° gives K less than 1.</figcaption>
+</figure>
+
 
 ## Reactivity 1.4.3 Spontaneity and the sign of ΔG
 
@@ -176,6 +208,22 @@ T = −77.2 ÷ −0.1213 = 636 K
 Both ΔH and ΔS are negative, so forming NOCl is spontaneous **below 636 K**. At 700 K, ΔG = −77.2 + 84.91 = +7.71 kJ mol⁻¹, so above the threshold it is the decomposition of NOCl that is spontaneous.
 
 Now view the same result through the surroundings at 298 K. ΔS(surroundings) = +77 200 ÷ 298 = +259.1 J K⁻¹ mol⁻¹. Add the system's −121.3 to get a total of +137.8 J K⁻¹ mol⁻¹. Then −298 × 0.1378 = −41.1 kJ mol⁻¹, matching ΔG⦵.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-entropy-and-spontaneity--05-surroundings-entropy.webp" width="900" height="935" alt="The NOCl system loses 121.3 J/K/mol of entropy but gives out 77.2 kJ to the surroundings (+259.1), so total +137.8. Multiplying by −T gives ΔG° = −41.1 kJ/mol." loading="lazy">
+  <figcaption>ΔG negative is the same condition as total entropy rising.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-entropy-and-spontaneity--06-sign-combinations.webp" width="900" height="1020" alt="Four ΔG against T graphs: ΔH−,ΔS+ always spontaneous; ΔH+,ΔS− never; both negative spontaneous below 500 K; both positive above 500 K (illustrative values)." loading="lazy">
+  <figcaption>The signs of ΔH and ΔS decide whether a reaction is spontaneous at all, low or high temperatures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-entropy-and-spontaneity--07-threshold-temperature.webp" width="900" height="990" alt="ΔG° against T for NH4HCO3 decomposition (crosses zero at 354 K, spontaneous above) and NOCl formation (crosses at 636 K, spontaneous below), with strips showing the ranges." loading="lazy">
+  <figcaption>Set ΔG = 0 to get T = ΔH/ΔS, then state whether the reaction is spontaneous above or below it.</figcaption>
+</figure>
+
 
 ## Reactivity 1.4.4 Gibbs energy and equilibrium
 

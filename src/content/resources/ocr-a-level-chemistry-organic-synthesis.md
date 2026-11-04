@@ -64,6 +64,12 @@ A primary alcohol is oxidised with acidified potassium dichromate(VI). Choose th
 
 Never heat a closed system: a stoppered reflux condenser builds pressure and can shatter. A PAG5 risk assessment also covers corrosive acids, flammable liquids and eye protection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--08-reflux-distillation.webp" width="900" height="1040" alt="Reflux: vertical condenser with its top open, water in at the bottom and out at the top, vapour rising and liquid falling back. Distillation: still head with the thermometer bulb level with the side arm, a sloping condenser with water in and out, and a receiver for the product." loading="lazy">
+  <figcaption>Reflux keeps volatile material in the flask; distillation collects it (OCR and Edexcel content).</figcaption>
+</figure>
+
+
 ## 4.2.3(a)(ii): Preparing and purifying an organic liquid
 
 A haloalkane can be made from an alcohol using sodium bromide and sulfuric acid (4.2.1(e)). The crude product contains unreacted alcohol, water, acid and by-products. Purify it in this order.
@@ -98,6 +104,12 @@ The equation is: (CH₃)₂CHCH₂CH₂OH + NaBr + H₂SO₄ → (CH₃)₂CHCH�
 
 Losses at each transfer, in aqueous layers and on the drying agent make yields well below 100% normal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--07-overall-yield.webp" width="900" height="976" alt="Two routes with the same 80 percent step yield. Four steps leave 41.0 percent so 2.00 mol gives 0.819 mol; two steps leave 64.0 percent giving 1.28 mol." loading="lazy">
+  <figcaption>Overall yield is the product of the step yields, so each extra step lowers it.</figcaption>
+</figure>
+
+
 ## 4.2.3(b): Molecules with several functional groups
 
 You must recognise the functional groups met in Module 4 and predict how each behaves. Treat each group on its own, then check whether a reagent would attack more than one group.
@@ -130,6 +142,17 @@ Compound A is CH₂=CHCH₂CH₂CH(OH)CH₂Cl, 1-chlorohex-5-en-2-ol.
 4. **Aqueous sodium hydroxide, heated.** The C–Cl bond is hydrolysed. Product: CH₂=CHCH₂CH₂CH(OH)CH₂OH, a diol.
 5. **Properties.** The OH group hydrogen bonds, so A is less volatile than an alkene of similar Mr and partly soluble in water.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--04-grignard-reagent.webp" width="900" height="1120" alt="Ethylmagnesium bromide, made in dry ether, adds its ethyl group to carbon dioxide, methanal, ethanal and propanone. After dilute acid the products are propanoic acid, propan-1-ol, butan-2-ol and 2-methylbutan-2-ol: an acid and a primary, secondary and tertiary alcohol." loading="lazy">
+  <figcaption>Edexcel only: a Grignard reagent adds carbons from its alkyl group to a carbonyl compound, giving an acid or a primary, secondary or tertiary alcohol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--05-route-planning.webp" width="900" height="1010" alt="Three-step route from ethene (2 C) to propan-1-amine (3 C): HBr gives bromoethane, KCN in ethanol under reflux gives propanenitrile (+1 C), and LiAlH4 reduction gives the amine. A crossed-out side branch shows that ammonia would give ethylamine, only 2 C." loading="lazy">
+  <figcaption>Count carbons first: a longer chain needs the cyanide step, because bromoethane with ammonia only gives ethylamine.</figcaption>
+</figure>
+
+
 ## 4.2.3(c): Two-stage synthetic routes
 
 The specification says you should devise two-stage routes using transformations between all the functional groups met up to this point. Exam papers may also supply extra reactions to extend your toolkit. Use them as given.
@@ -150,12 +173,24 @@ The specification says you should devise two-stage routes using transformations 
 | Primary alcohol | Carboxylic acid | Excess K₂Cr₂O₇ / H₂SO₄, reflux |
 | Secondary alcohol | Ketone | K₂Cr₂O₇ / H₂SO₄, reflux |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--01-reaction-map.webp" width="900" height="830" alt="A map linking alkene, haloalkane, alcohol, carbonyl, acid, ester, nitrile and amine with reagent labels. The gold arrow (haloalkane to nitrile with KCN) is the one that adds a carbon. Following arrows end to end gives a multi-step route." loading="lazy">
+  <figcaption>Plan routes by following arrows from start to target; only reactions in the specification count (steam hydration is not in OxfordAQA; nitrile hydrolysis is OCR).</figcaption>
+</figure>
+
+
 ### Method
 
 1. Compare the starting material and the target. Which groups change? No Module 4 reaction adds carbon atoms, so the skeleton must match.
 2. Work backwards: what single step makes the target, and from what?
 3. Check that the intermediate can be made from the starting material in one step.
 4. Write each step with reagents, conditions and the structure of the intermediate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--02-new-cc-bonds.webp" width="900" height="1040" alt="Three reactions that make a new C-C bond: bromoethane with KCN (2 C to 3 C), propanone with HCN (3 C to 4 C) and benzene with an acyl chloride and AlCl3 (6 C to 8 C). New carbons are circled in gold." loading="lazy">
+  <figcaption>Only a few reactions change the carbon count: KCN with a haloalkane, HCN or KCN with a carbonyl, and Friedel-Crafts acylation.</figcaption>
+</figure>
+
 
 ### Worked example 5: 1-chloropentane to pentanoic acid
 

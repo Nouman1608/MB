@@ -58,6 +58,12 @@ When you have finished, try the [practice questions](/resources/oxfordaqa-a-leve
 - **Basic group:** –NH₂ + H⁺ → –NH₃⁺ (the N lone pair accepts the proton)
 - Internal transfer of H⁺ from –COOH to –NH₂ gives the zwitterion ⁺H₃N–CH(R)–COO⁻.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--02-base-strength.webp" width="900" height="1030" alt="Three rows compare the lone pair on N as a teal cloud: dense in ethylamine (alkyl pushes electrons onto N), average in ammonia, spread into the ring in phenylamine. A gauge ranks base strength ethylamine &gt; ammonia &gt; phenylamine." loading="lazy">
+  <figcaption>The more available the nitrogen lone pair, the stronger the base: ethylamine &gt; ammonia &gt; phenylamine.</figcaption>
+</figure>
+
+
 ### The three forms at a glance
 
 | Where | Amino end | Acid end | Charge (simple R) |
@@ -74,6 +80,17 @@ When you have finished, try the [practice questions](/resources/oxfordaqa-a-leve
 4. Add the charges and check the total.
 
 *Worked reminder.* Threonine is H₂N–CH(CH(OH)CH₃)–COOH. In excess alkali: H₂N–CH(CH(OH)CH₃)–COO⁻, charge −1. The side-chain –OH is an alcohol group, not a carboxyl group, so it is left alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--07-amino-acid-ions.webp" width="900" height="930" alt="Glycine shown as H3N+CH2COOH (overall +1) in acid, the zwitterion H3N+CH2COO- (0) in neutral solution and H2NCH2COO- (-1) in alkali, with arrows for adding OH- (down) and H+ (up)." loading="lazy">
+  <figcaption>In acid, neutral and alkaline solution an amino acid is a +1 ion, a zwitterion and a -1 ion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--10-chirality.webp" width="900" height="1116" alt="Top: two mirror-image enantiomers of a chiral carbon with four different groups (NH2, COOH, CH3, H), drawn with wedge and dash bonds, which cannot be superimposed. Bottom (AQA only): an active site with three binding points fits one enantiomer; the mirror image has two groups swapped and does not fit." loading="lazy">
+  <figcaption>A chiral centre has four different groups; an enzyme active site binds only one enantiomer.</figcaption>
+</figure>
+
 
 ## 3.3.13.2 Proteins
 
@@ -111,6 +128,12 @@ When you have finished, try the [practice questions](/resources/oxfordaqa-a-leve
 
 **S–S bond in one line:** two cysteine –SH groups are oxidised to a covalent –S–S– link that fixes the tertiary shape.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
+  <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
+
 ### Thin-layer chromatography
 
 1. Pencil baseline; spot the hydrolysate and standards.
@@ -124,6 +147,12 @@ When you have finished, try the [practice questions](/resources/oxfordaqa-a-leve
 | Formula | Rearranged |
 |---|---|
 | Rf = d(spot) ÷ d(solvent) | d(spot) = Rf × d(solvent) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+
 
 ## 3.3.13.3 Cisplatin
 
@@ -172,6 +201,12 @@ When you have finished, try the [practice questions](/resources/oxfordaqa-a-leve
 11. Ligand replacement (ligand substitution)
 12. It also binds to DNA in healthy cells, so it is not selective for cancer cells
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving the side chain out of the charge count, for example giving glutamic acid in alkali a charge of −1.
@@ -183,6 +218,12 @@ When you have finished, try the [practice questions](/resources/oxfordaqa-a-leve
 - Measuring from the plate's bottom edge instead of the baseline when finding Rf.
 - Giving Rf values above 1, which shows the distances were swapped.
 - Describing cisplatin's effect as "kills cancer" without the steps: ligand replacement, bond from N to Pt, DNA cannot replicate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

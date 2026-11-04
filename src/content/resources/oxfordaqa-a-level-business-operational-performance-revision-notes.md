@@ -82,6 +82,12 @@ Practise: [practice questions](/resources/oxfordaqa-a-level-business-operational
 
 **Labour-intensive** = flexible, low capital, but higher labour cost per unit and variable quality. **Capital-intensive** = low unit cost and consistent quality at volume, but expensive and inflexible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
+
 ## 3.2.1.2 Operations competitiveness
 
 ### Capacity
@@ -191,6 +197,12 @@ Reasons to hold inventory: unexpected demand, late deliveries, bulk discounts, s
 9. Quality control inspects finished output to find faults; quality assurance builds checks into every stage to prevent them.
 10. 7,560 ÷ 18 = **420 units per employee per month**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
+  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Dividing by capacity instead of actual output when calculating unit cost.
@@ -201,6 +213,12 @@ Reasons to hold inventory: unexpected demand, late deliveries, bulk discounts, s
 - Describing lean production as just "cutting costs" without naming JIT, Kaizen, standardised processes or teamwork.
 - Treating 100% capacity utilisation as automatically good, with no mention of lost flexibility.
 - Giving generic points about quality without linking them to the business in the case.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

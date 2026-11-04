@@ -59,11 +59,28 @@ Sleeve reading (to the nearest 0.5 mm) + thimble reading (hundredths of a millim
 Example: sleeve 2.0 mm, thimble 45, zero error +0.03 mm.
 2.0 + 0.45 = 2.45 mm; 2.45 − 0.03 = 2.42 mm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--02-spring-anomaly.webp" width="900" height="960" alt="Extension against load for six single readings. The first three lie on a line of 12 mm per newton. At 4.0 N the line predicts 48 mm but 59 mm was recorded, 11 mm too high, so it should be repeated. Without it k = 1.0/0.012 = 83 N per metre." loading="lazy">
+  <figcaption>One point 11 mm above the line is a prompt to repeat the reading, not to discard it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--01-micrometer-reading.webp" width="900" height="920" alt="Enlarged micrometer sleeve and thimble. The thimble edge has passed the 5.5 mm mark on the sleeve, and thimble line 28 is level with the datum line. The reading is 5.5 + 0.28 = 5.78 mm." loading="lazy">
+  <figcaption>Add the main scale reading to the thimble scale reading (hundredths of a mm).</figcaption>
+</figure>
+
+
 ### Reading Vernier calipers
 
 Main-scale reading before the Vernier zero + 0.1 mm × the number of the Vernier mark that lines up.
 
 Example: 32 mm and the seventh mark aligned gives 32.7 mm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--01-vernier-24-3.webp" width="900" height="710" alt="A main scale in mm over a ten-division Vernier scale. The Vernier zero is just past 24 mm and the third Vernier mark lines up with a main-scale mark. The reading is 24 + 3 x 0.1 = 24.3 mm." loading="lazy">
+  <figcaption>Main-scale reading plus Vernier division times 0.1 mm.</figcaption>
+</figure>
+
 
 ## Calibration and zero error
 
@@ -74,6 +91,12 @@ Example: 32 mm and the seventh mark aligned gives 32.7 mm.
 - Check before the experiment, not after.
 
 Example: a voltmeter reads −0.04 V when disconnected. A reading of 1.12 V corrects to 1.12 + 0.04 = 1.16 V.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--01-zero-error-micrometer.webp" width="900" height="1010" alt="A micrometer with its jaws closed reads +0.02 mm instead of 0.00 mm. A wire reading of 1.5 mm on the sleeve plus 0.27 mm on the thimble is 1.77 mm. On a zoomed number line an arrow moves 1.77 back by 0.02 mm to the true diameter 1.75 mm. The error is systematic, so repeats do not remove it." loading="lazy">
+  <figcaption>A positive zero error is subtracted from every reading; repeating does not remove it.</figcaption>
+</figure>
+
 
 ## Fair test
 
@@ -108,6 +131,17 @@ Ways to reduce uncertainty:
 - Measure a larger quantity (a longer length, many swings timed together).
 - Repeat and average.
 - Use a graph gradient instead of a single calculated value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--03-pendulum-period.webp" width="900" height="1010" alt="A pendulum swings from A to B and back, one oscillation. Bars compare timing one oscillation (0.92 s) with 20 oscillations (18.4 s) against the same 0.2 s reaction-time error, which is 22% of one period but 1.1% of the long time. Period = 18.4 / 20 = 0.92 s." loading="lazy">
+  <figcaption>Timing many oscillations and dividing shrinks the effect of reaction-time error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
 
 ## Safety, as hazard and precaution
 
@@ -144,6 +178,12 @@ Typical improvements to quote:
 ### Anomaly worked reminder
 
 Data: load 1.0, 2.0, 3.0, 4.0, 5.0 N; extension 11, 22, 33, 54, 55 mm. The first three points give 11 mm per newton, so at 4.0 N the line predicts 44 mm. The recorded 54 mm is 10 mm too high. Check the reading for a slipped digit, re-measure and repeat.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--04-number-range-of-readings.webp" width="900" height="1070" alt="Two R against l graphs with the same scatter. With three points in a narrow range, lines of gradient about 3 and 11 ohm per metre both fit and they cut the R axis on opposite sides of the origin. With seven well-spaced points the possible gradients are only about 6.7 to 8.0." loading="lazy">
+  <figcaption>Few readings over a narrow range leave the gradient and intercept uncertain.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -182,6 +222,22 @@ Data: load 1.0, 2.0, 3.0, 4.0, 5.0 N; extension 11, 22, 33, 54, 55 mm. The first
 9. The last value has too many decimal places: 6.25 cm cannot be read with a mm ruler, so quote 6.2 or 6.3 cm.
 10. It uses all the readings, averages out random scatter and shows anomalies.
 11. Check the reading and calculation, then repeat the measurement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--02-resistivity-apparatus.webp" width="900" height="570" alt="A wire is taped to a metre rule with a fixed clip at 0 and a movable clip. Supply, switch and ammeter are in series with the wire; the voltmeter is across the two clips. Length l is varied from 200 to 800 mm and d is measured with a micrometer at three places." loading="lazy">
+  <figcaption>Series ammeter, parallel voltmeter, and a movable clip set the length l.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--03-resistivity-graph-rho.webp" width="900" height="920" alt="R against l for seven readings from 0.2 to 0.8 m lies on a straight line through the origin. A large triangle gives a gradient of 4.44 / 0.60 = 7.4 ohm per metre, equal to rho/A. With A = 6.6e-8 m2, rho = 4.9e-7 ohm metre." loading="lazy">
+  <figcaption>The gradient of R against l is rho/A, so rho = gradient x A.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

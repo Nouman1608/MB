@@ -66,6 +66,27 @@ Energy through food chains: if 10% passes to the next stage, then 40 000 kJ in p
 4. Decomposers respire aerobically and use up oxygen.
 5. Fish and other animals suffocate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--02-mp18-nitrogen-yield.webp" width="900" height="960" alt="Line graph of wheat yield against nitrogen applied (3.1 to 7.7 tonnes per hectare for 0 to 200 kg). Gains shrink: 2.1, 1.6, 0.7, 0.2 tonnes. From 100 to 150 kg extra income of 140 pounds beats extra cost of 60 pounds; from 150 to 200 kg 40 pounds is below 60 pounds." loading="lazy">
+  <figcaption>Each extra 50 kg of nitrogen gives a smaller gain, and past 150 kg the extra cost exceeds the extra income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--10-phosphate-potassium.webp" width="900" height="810" alt="Three plants: healthy, phosphate-deficient with purple-tinged leaves and poor roots, and potassium-deficient with yellow leaves and dead patches." loading="lazy">
+  <figcaption>Phosphate and potassium deficiency show up in the leaves and roots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Extended. Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
+  <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
+</figure>
+
+
 ### Pesticides
 
 | Type | Kills |
@@ -78,6 +99,12 @@ Energy through food chains: if 10% passes to the next stage, then 40 000 kJ in p
 - Risks: harm to non-target species such as pollinators; build-up along food chains; resistance evolves; cost.
 - Resistance: a few pests are resistant by chance, they survive, they breed, and resistance spreads.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
+
 ### Hydroponics
 
 Roots in an aerated solution of mineral ions, with support for the plant.
@@ -88,6 +115,12 @@ Roots in an aerated solution of mineral ions, with support for the plant.
 | No soil pests or weeds | Skilled management |
 | Water can be recycled | Disease spreads in shared solution |
 | Works where soil is poor | Power failure can lose the crop |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--03-mp18-hydroponics.webp" width="900" height="1090" alt="A plant held by a support over a tank with its roots in an aerated solution of mineral ions, air supplied by a pump. A bar chart shows the mean mass of five hydroponic lettuces, 168 g, against 131 g for soil lettuces, 28 % greater, with a reminder that only five plants were measured." loading="lazy">
+  <figcaption>Hydroponic plants grow with roots in aerated mineral ion solution; the example lettuces were 28 % heavier.</figcaption>
+</figure>
+
 
 ### Biological control
 
@@ -100,6 +133,17 @@ Use a predator, parasite or pathogen of the pest.
 | Resistance less likely | Introduced species may become a pest |
 
 Examples: ladybirds against aphids; *Encarsia formosa* against whitefly; *Bacillus thuringiensis* against caterpillars. In a graph, the predator peak follows the pest peak.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--09-biocontrol-lag.webp" width="900" height="770" alt="A line graph from an illustrative model: pest numbers peak first, predator numbers peak a little later, then pests fall. Three boxes show predator, parasite and pathogen control with the lesson’s examples." loading="lazy">
+  <figcaption>Pest numbers rise first, then predator numbers rise and the pest numbers fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--01-food-production-methods.webp" width="900" height="935" alt="Five pictured rows: a tractor (agricultural machinery: larger area farmed more efficiently), a fertiliser bag marked nitrate feeding a plant (better yield), a crossed-out insect (insecticides kill insect pests), a crossed-out weed beside a crop (herbicides kill weeds so less competition for light, water and mineral ions), and a small ear of grain becoming a large one (selective breeding gives higher-yielding crops and livestock)." loading="lazy">
+  <figcaption>Each of the five methods and what it does for yield.</figcaption>
+</figure>
+
 
 ## B6.2c Selective breeding
 
@@ -121,6 +165,22 @@ Impact:
 - Cost: inbreeding raises inherited disorders; fast-growing animals can have welfare problems.
 - Slow: many generations are needed.
 - Selection acts on alleles already present. It does not create new ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--11-variation-disease.webp" width="900" height="810" alt="Two rows of ten plants before and after a new disease. In the varied population three carry a resistance allele and survive; in the population bred from a few individuals none do and the crop is lost. The numbers are illustrative." loading="lazy">
+  <figcaption>Reduced genetic variation can mean no individual carries resistance when a new disease appears.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--12-inbreeding-punnett.webp" width="900" height="920" alt="A common ancestor carrying one copy of a harmful recessive allele passes it to two related parents, both Aa. A Punnett square shows AA, Aa, Aa and aa, so one child in four has two copies and the disorder." loading="lazy">
+  <figcaption>Related parents are more likely to share a harmful recessive allele, so more offspring inherit two copies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--07-selective-breeding.webp" width="900" height="1180" alt="A loop shows choosing the best plants, crossing them, and growing offspring and choosing the best, repeated for many generations. A line graph shows wheat yield rising over four rounds: 3.2, 3.5, 3.9, 4.3 tonnes per hectare, a 34.4% increase. Uses are higher yield and disease resistance in crops and more milk, meat and calmer temperament in animals." loading="lazy">
+  <figcaption>Choosing and crossing the best plants over many generations raises yield.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -187,6 +247,12 @@ Impact:
 9. (66 - 48) / 48 × 100 = 37.5%.
 10. Few parents means little variation, so the plants are genetically very similar. If none carries an allele for resistance, all are susceptible and the disease can spread through the whole crop.
 11. 40 000 × 0.10 × 0.10 = 400 kJ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--01-mp18-crop-vs-cattle.webp" width="900" height="880" alt="Bar chart to scale. People eating the crop get up to 600 000 kJ. If cattle eat the crop and people eat beef, only 60 000 kJ is stored in beef and 540 000 kJ is lost as heat, waste and uneaten parts. The crop route gives 10 times as much energy." loading="lazy">
+  <figcaption>A meat-based diet needs far more farmland: with 10 % transfer, eating the crop gives 10 times the energy.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -36,6 +36,12 @@ Three questions for every step:
 2. What is the **oxidation level**? Alcohol → aldehyde → carboxylic acid is a ladder; you must specify distillation to stop at the aldehyde.
 3. Are the **conditions compatible**? You cannot use a reagent that would destroy a group already present.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--05-route-planning.webp" width="900" height="1010" alt="Three-step route from ethene (2 C) to propan-1-amine (3 C): HBr gives bromoethane, KCN in ethanol under reflux gives propanenitrile (+1 C), and LiAlH4 reduction gives the amine. A crossed-out side branch shows that ammonia would give ethylamine, only 2 C." loading="lazy">
+  <figcaption>Count carbons first: a longer chain needs the cyanide step, because bromoethane with ammonia only gives ethylamine.</figcaption>
+</figure>
+
+
 ## The essential interconversions
 
 ```
@@ -58,6 +64,17 @@ acid + alcohol -> ester          conc. H2SO4 catalyst, reflux
 
 **Distil versus reflux is the single most commonly dropped mark.** Distilling removes the aldehyde as it forms, before it can be oxidised further; refluxing returns it to the flask so oxidation continues to the acid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--01-reaction-map.webp" width="900" height="830" alt="A map linking alkene, haloalkane, alcohol, carbonyl, acid, ester, nitrile and amine with reagent labels. The gold arrow (haloalkane to nitrile with KCN) is the one that adds a carbon. Following arrows end to end gives a multi-step route." loading="lazy">
+  <figcaption>Plan routes by following arrows from start to target; only reactions in the specification count (steam hydration is not in OxfordAQA; nitrile hydrolysis is OCR).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+</figure>
+
+
 ## Aromatic routes
 
 ```
@@ -71,6 +88,17 @@ diazonium salt -> phenol         H2O, warm
 ```
 
 Temperature control in nitration matters: mononitration is favoured across **25-60 °C**, but **above about 60 °C you get dinitration**. Diazonium salt formation needs **below 10 °C** — above this the salt decomposes before it can be used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-synthesis-routes-revision-notes--03-temperature-windows.webp" width="900" height="760" alt="A 0 to 80 degree scale showing diazonium salt formation below 10, mononitration from 25 to 60 and dinitration above about 60 degrees Celsius." loading="lazy">
+  <figcaption>Stay below 10 degrees for diazonium salts and between 25 and 60 degrees for mononitration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+</figure>
+
 
 ## Worked example: analysing a route
 
@@ -94,6 +122,12 @@ Only three, and questions are built around them:
 - **Friedel–Crafts** with RCl or RCOCl → attaches an alkyl or acyl group to the ring.
 
 If a question's product has one more carbon than the starting material, a nitrile step is almost certainly required — and the nitrile then needs hydrolysing to an acid or reducing to an amine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--02-new-cc-bonds.webp" width="900" height="1040" alt="Three reactions that make a new C-C bond: bromoethane with KCN (2 C to 3 C), propanone with HCN (3 C to 4 C) and benzene with an acyl chloride and AlCl3 (6 C to 8 C). New carbons are circled in gold." loading="lazy">
+  <figcaption>Only a few reactions change the carbon count: KCN with a haloalkane, HCN or KCN with a carbonyl, and Friedel-Crafts acylation.</figcaption>
+</figure>
+
 
 ## Reducing agents
 
@@ -127,3 +161,14 @@ Choosing NaBH₄ when a nitrile must be reduced is a common error.
 7. In the route benzoic acid → benzoyl chloride → benzamide, name the reaction type and by-product of the final step.
 
 **Answers:** 1. KCN in ethanol under reflux to form the nitrile, then dilute HCl(aq) under reflux to hydrolyse it to the carboxylic acid. 2. Distil the aldehyde off as it forms rather than refluxing, so it cannot be oxidised further. 3. The solvent — NaOH(aq) and heat gives nucleophilic substitution to the alcohol; NaOH in ethanol and heat gives elimination to the alkene. 4. Conc. HNO₃ with conc. H₂SO₄ between 25 and 60 °C, then Sn with conc. HCl, then NaOH to liberate the amine. 5. LiAlH₄ in dry ether (or H₂/Ni); NaBH₄ is not powerful enough to reduce a nitrile. 6. The temperature must stay below 10°C, since the diazonium salt decomposes above this temperature before it can be used. 7. Condensation (addition-elimination), using excess ammonia at room temperature; the by-product is ammonium chloride, NH₄Cl.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-synthesis-routes-revision-notes--01-reducing-agent-grid.webp" width="900" height="920" alt="A grid of NaBH4, LiAlH4 and H2/Ni against aldehydes and ketones, nitriles, acids and esters, and C=C. NaBH4 reduces only carbonyls. LiAlH4 reduces everything except isolated C=C. H2/Ni reduces nitriles and C=C but not acids or esters." loading="lazy">
+  <figcaption>Choose the reducing agent that can reach the group you want to change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-synthesis-routes-revision-notes--02-solvent-decides.webp" width="900" height="800" alt="2-Bromopropane with NaOH(aq) and heat gives propan-2-ol by substitution; with NaOH in ethanol and heat it gives propene by elimination." loading="lazy">
+  <figcaption>The solvent decides substitution or elimination.</figcaption>
+</figure>
+

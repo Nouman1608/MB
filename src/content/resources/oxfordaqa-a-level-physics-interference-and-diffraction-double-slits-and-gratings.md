@@ -63,6 +63,17 @@ Two loudspeakers A and B are connected to one signal generator set to 1700 Hz, w
 2. At P, path difference = 3.50 − 3.10 = 0.40 m = 2.0λ. The waves arrive in phase, so the sound is **loud**.
 3. At Q, path difference = 2.60 − 2.30 = 0.30 m = 1.5λ. The waves arrive in antiphase, so the sound is **quiet**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--04-aphy-waves-string-harmonics.webp" width="900" height="1060" alt="First, second and third harmonics on a string fixed at both ends have 1, 2 and 3 loops, with lambda = 2L/n. For L = 0.80 m, T = 40 N and mu = 2.5e-3 kg/m the wave speed is 126.5 m/s and the first harmonic is 79.1 Hz, giving 158 Hz and 237 Hz. Quadrupling the tension doubles the frequency." loading="lazy">
+  <figcaption>Harmonic n has n loops and frequency n times the first; f1 = (1/2l)sqrt(T/mu).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--06-aphy-waves-two-source-interference.webp" width="900" height="1065" alt="Two in-phase coherent sources emit circular waves. Gold solid lines mark path difference n lambda (loud or bright); navy dashed lines mark (n + 1/2) lambda (quiet or dark). P lies at 2 lambda and is loud; Q lies at 1.5 lambda and is quiet. A loudspeaker example at 850 Hz confirms both." loading="lazy">
+  <figcaption>Path difference n lambda gives reinforcement; (n + 1/2) lambda gives cancellation.</figcaption>
+</figure>
+
+
 ## Interference with sound and electromagnetic waves
 
 You should be able to describe and explain interference with sound and with electromagnetic waves, not only with light.
@@ -72,6 +83,17 @@ You should be able to describe and explain interference with sound and with elec
 - **Radio waves.** Two aerials fed from one transmitter produce regions of strong and weak signal in the same way.
 
 In each case the explanation has the same three steps: coherent sources, path difference at the point, in phase or in antiphase.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--02-aphy-waves-polarisation.webp" width="900" height="1080" alt="Unpolarised light oscillates in every direction; a first Polaroid leaves one plane. A second Polaroid at 30 degrees transmits cos 30 of the amplitude, so 8.0 W per square metre becomes 6.0. Sound oscillates along its direction of travel, so there is nothing to filter. A small graph shows I = I0 cos squared theta (Cambridge only)." loading="lazy">
+  <figcaption>Only transverse waves can be polarised; sound cannot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--05-aphy-waves-air-columns.webp" width="900" height="1080" alt="Displacement patterns for a tube 0.375 m long: closed at one end it has a node at the closed end and an antinode at the open end, giving only odd harmonics (227, 680, 1130 Hz). Open at both ends it has antinodes at each end and all harmonics (453, 907 Hz), so it sounds an octave higher." loading="lazy">
+  <figcaption>A closed tube supports only odd harmonics; an open tube has twice the fundamental frequency.</figcaption>
+</figure>
+
 
 ## Young's double-slit experiment
 
@@ -96,6 +118,22 @@ Slits 0.40 mm apart are 1.80 m from a screen. The centres of nine bright fringes
 1. Nine fringes contain 8 spacings, so w = 19.2 mm ÷ 8 = 2.40 mm.
 2. λ = ws ÷ D = (2.40 × 10⁻³ × 0.40 × 10⁻³) ÷ 1.80 = **5.33 × 10⁻⁷ m** (533 nm).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--01-aphy-waves-phase.webp" width="900" height="1060" alt="A sound wave of 250 Hz and wavelength 1.36 m is drawn as a displacement-distance graph with points A to D. A and B are 0.34 m apart (quarter cycle, 90 degrees), A and C 0.68 m (half cycle, antiphase), A and D 1.36 m (one cycle, in phase). A second graph of displacement against time gives the period 4.0 ms." loading="lazy">
+  <figcaption>Phase difference is x/wavelength of a cycle; the distance graph gives wavelength, the time graph gives period.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
+</figure>
+
+
 ### White light
 
 With white light, each wavelength makes its own fringe pattern with its own spacing. At the centre the path difference is zero for every colour, so all colours are bright together and the central fringe is **white**. On each side the fringes are **coloured**: violet and blue (shorter λ, smaller w) lie nearer the centre and red lies furthest out in each fringe. Further out the colours overlap.
@@ -107,6 +145,12 @@ A double slit has s = 0.50 mm and D = 1.5 m. Find the spacing for red light of 7
 1. w (red) = 700 × 10⁻⁹ × 1.5 ÷ 0.50 × 10⁻³ = 2.1 × 10⁻³ m = 2.1 mm.
 2. w (violet) = 400 × 10⁻⁹ × 1.5 ÷ 0.50 × 10⁻³ = 1.2 mm.
 3. Position of the third maximum = 3w, so the separation = 3 × (2.1 − 1.2) = **2.7 mm**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--07-aphy-waves-double-slit.webp" width="900" height="1120" alt="A laser lights two slits a distance s apart, giving equally spaced fringes of spacing w = lambda D / s on a screen distance D away (not to scale). For 633 nm, 0.50 mm and 1.80 m, w = 2.28 mm. With white light the central fringe is white and violet fringes lie nearer the centre than red ones." loading="lazy">
+  <figcaption>Fringe spacing w = lambda D / s; white light gives a white centre and coloured fringes.</figcaption>
+</figure>
+
 
 ## Required practical 5: interference effects
 
@@ -183,6 +227,12 @@ A grating gives **sharp, bright maxima** that are widely spaced, so angles are e
 
 - Measuring the wavelengths of light emitted by lamps and stars, and so identifying elements from their line spectra.
 - X-ray diffraction by regular layers of atoms in crystals works on the same principle, with a much smaller spacing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--09-aphy-waves-grating.webp" width="900" height="1060" alt="Two neighbouring slits show the path difference d sin theta between adjacent rays; a maximum occurs when it equals n lambda. For 300 lines per mm and 589 nm, d = 3.33 micrometres and maxima appear at 10.2, 20.7, 32.0, 45.0 and 62.1 degrees for orders 1 to 5 each side, so 11 maxima; the highest order is 5." loading="lazy">
+  <figcaption>Maxima occur where d sin theta = n lambda; the highest order is d/lambda rounded down.</figcaption>
+</figure>
+
 
 ## Common errors
 

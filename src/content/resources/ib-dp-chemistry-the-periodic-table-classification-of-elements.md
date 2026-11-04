@@ -50,6 +50,12 @@ Rows are **periods**; columns are **groups**, numbered 1 to 18. The four **block
 
 Metals fill the left and centre. Non-metals sit upper right, plus hydrogen. Between them runs a staircase of **metalloids**, usually boron, silicon, germanium, arsenic, antimony and tellurium, with properties between the two. The guide notes that the data booklet includes a periodic table.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--01-blocks.webp" width="900" height="744" alt="A periodic table of 18 groups and 7 periods coloured by block: s (groups 1, 2 and helium), d (3 to 12), p (13 to 18) and f below. Six metalloids (B, Si, Ge, As, Sb, Te) are outlined; non-metals sit upper right plus hydrogen." loading="lazy">
+  <figcaption>Blocks are named for the sublevel the last electron enters; metals fill the left and centre, with a staircase of metalloids before the non-metals.</figcaption>
+</figure>
+
+
 ## Position and electron configuration (3.1.2)
 
 The **period number** is the outer occupied main energy level. Every element in a **group** has the same number of **valence electrons**. In groups 1 and 2 this equals the group number; in groups 13 to 18 take 10 away from the group number (helium, with 2, is the exception).
@@ -106,6 +112,12 @@ Learn the two exceptions up to Z = 36: chromium [Ar] 3d⁵ 4s¹ and copper [Ar] 
 
 Rank S²⁻, Cl⁻, K⁺ and Ca²⁺ by radius. Each has 18 electrons; nuclear charges are 16, 17, 19 and 20. More protons pull the same electrons closer: **S²⁻ > Cl⁻ > K⁺ > Ca²⁺**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--02-radius-trends.webp" width="900" height="1010" alt="Circles drawn to scale show radii falling from sodium to chlorine, all with 3 shells but rising nuclear charge, and rising from lithium to sodium to potassium as shells increase from 2 to 4." loading="lazy">
+  <figcaption>Across a period the same shells feel more protons; down a group extra shells and shielding win.</figcaption>
+</figure>
+
+
 ## Group 1 and group 17 (3.1.4)
 
 Metallic character **increases** down group 1. Non-metallic character **decreases** down group 17.
@@ -121,6 +133,17 @@ The solution turns alkaline. Lithium fizzes steadily; sodium melts into a moving
 Cl₂(aq) + 2I⁻(aq) → 2Cl⁻(aq) + I₂(aq)
 
 In water, chlorine is pale green, bromine orange and iodine brown. Reactivity falls down the group: larger atoms attract an incoming electron less strongly, because it is further from the nucleus and more shielded. So iodine gives no reaction with bromide ions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--03-group1-water.webp" width="900" height="1095" alt="Beakers show lithium fizzing, sodium darting about and potassium with a lilac flame. Below, atom diagrams show the single outer electron getting further out and more shielded: 2,1 then 2,8,1 then 2,8,8,1." loading="lazy">
+  <figcaption>The outer electron is further out and more shielded down group 1, so it is lost more easily.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--04-halogen-displacement.webp" width="900" height="970" alt="A 3 by 3 grid of halogen against halide ion. Ticks with the colour of the halogen made appear for Cl2 with Br- and I-, and Br2 with I-; all other cells are crosses. The equation Cl2 + 2I- gives 2Cl- + I2 is shown." loading="lazy">
+  <figcaption>A halogen displaces a halide of a less reactive halogen below it; reactivity falls down group 17.</figcaption>
+</figure>
+
 
 ## Oxides: from basic to acidic (3.1.5)
 
@@ -141,6 +164,12 @@ Properties form a **continuum** across a period: **basic** metal oxides, then **
 ### Worked example 4
 
 Strontium oxide is a group 2 oxide, so basic: SrO(s) + H₂O(l) → Sr(OH)₂(aq). Potassium oxide is basic too: K₂O(s) + H₂O(l) → 2KOH(aq).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--05-oxides.webp" width="900" height="810" alt="A gradient bar from basic through amphoteric to acidic with six test tubes: Na2O and CaO alkaline, Al2O3 amphoteric, and CO2, SO2 and SO3 giving increasingly acidic solutions." loading="lazy">
+  <figcaption>Oxides go from basic (metals) through amphoteric to acidic (non-metals).</figcaption>
+</figure>
+
 
 ## Oxidation states (3.1.6)
 
@@ -163,6 +192,17 @@ Fe in FeO₄²⁻:  x + 4(−2) = −2  -> x = +6   (ferrate(VI))
 Al in LiAlH₄:  (+1) + x + 4(−1) = 0 -> x = +3   (H is −1, a metal hydride)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--06-oxidation-states.webp" width="900" height="1140" alt="Two worked examples. In FeO4 2-, four oxygens at -2 force iron to +6. In LiAlH4, hydride hydrogens at -1 and lithium at +1 make aluminium +3. Chips below each add to the overall charge." loading="lazy">
+  <figcaption>Oxidation states add to the charge of the species: Fe is +6 in FeO4 2- and Al is +3 in LiAlH4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--08-fe-sr-ie.webp" width="900" height="860" alt="Bar chart of Fe (762, 1561, 2957, 5290) and Sr (549, 1064, 4138) successive IEs. Fe rises steadily so Fe2+ and Fe3+ form; Sr jumps by a factor of 3.9 at the third, which comes from an inner shell of the Sr atom, so only Sr2+ forms." loading="lazy">
+  <figcaption>HL only: a steady rise allows variable oxidation states; a huge jump marks an inner shell.</figcaption>
+</figure>
+
+
 ## HL only: discontinuities in first ionization energy (3.1.7)
 
 First ionization energy rises across period 3 but dips twice. The dips are evidence for **sublevels**. Explain them by the **energy of the electron removed**, not "special stability".
@@ -171,6 +211,12 @@ First ionization energy rises across period 3 but dips twice. The dips are evide
 - **Phosphorus to sulfur.** In sulfur two 3p electrons share an orbital. Their repulsion raises the energy of one, so it is removed more easily than any of phosphorus's unpaired 3p electrons.
 
 If every electron in a main level had equal energy, the rise would be smooth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--07-ie-dips.webp" width="900" height="1030" alt="A graph of first IE for Na to Ar rises with dips at Al and S. Orbital boxes show Al losing a higher-energy 3p electron than Mg, and S having a paired 3p electron that repels and comes off more easily than P." loading="lazy">
+  <figcaption>HL only: the dips are evidence for sublevels and electron pairing.</figcaption>
+</figure>
+
 
 ## HL only: transition elements (3.1.8)
 
@@ -233,6 +279,12 @@ f = c / λ = (3.00 × 10⁸) / (505 × 10⁻⁹) = 5.94 × 10¹⁴ s⁻¹
 ```
 
 A d¹⁰ ion (Zn²⁺) or d⁰ ion (Sc³⁺) cannot undergo this promotion, so its compounds are usually colourless or white.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-periodic-table-classification-of-elements--09-complex-colour.webp" width="900" height="830" alt="A colour wheel with complementary colours opposite each other; green (505 nm) is absorbed and red is seen. A d electron is promoted from a lower to an upper d set by a green photon, with f = 5.94 x 10^14 per second. d10 and d0 ions are colourless." loading="lazy">
+  <figcaption>HL only: the colour seen is complementary to the colour absorbed when a d electron is promoted.</figcaption>
+</figure>
+
 
 ## Common errors
 

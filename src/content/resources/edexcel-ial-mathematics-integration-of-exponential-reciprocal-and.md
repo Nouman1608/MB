@@ -88,6 +88,12 @@ At x = 1:  2e^(1/2) + 0
 
 The answer is **2e² − 2√e + 12 ln 2**. Here 6 ln 4 = 12 ln 2 uses the power law for logarithms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--08-ln-calculus.webp" width="900" height="1050" alt="The tangent to y = ln x at x = 2 has gradient one half, equal to 1/x. Below, the area under y = 1/x from 1 to e is shaded and equals 1, because the integral is ln x and ln e minus ln 1 is 1." loading="lazy">
+  <figcaption>ln x differentiates to 1/x and the area under 1/x from 1 to e is 1.</figcaption>
+</figure>
+
+
 ## 5.2 Integration by recognition
 
 Recognition means spotting that the integrand is the result of differentiating a known function, perhaps up to a constant factor. There is no new rule to memorise beyond the two forms below.
@@ -107,6 +113,12 @@ If the numerator is the derivative of the denominator, then
 ∫ f′(x)/f(x) dx = ln|f(x)| + c
 
 This follows from the chain rule: d/dx of ln|f(x)| is f′(x)/f(x). If the numerator is only a constant multiple of f′(x), take the constant outside first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--07-linear-form.webp" width="900" height="1110" alt="ln y against ln x is a straight line for y = ax^n: through (0.5, 1.85) and (2.5, 4.85), gradient n = 1.5 and intercept ln a = 1.10. lg y against x is a straight line for y = kb^x with intercept lg k = 0.70 and gradient lg b = 0.14." loading="lazy">
+  <figcaption>A straight line on log axes gives gradient and intercept for power and exponential laws.</figcaption>
+</figure>
+
 
 ### Worked example 4: constant multiples and signs
 

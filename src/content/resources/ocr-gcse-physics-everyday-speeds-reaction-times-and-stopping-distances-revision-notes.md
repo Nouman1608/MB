@@ -42,6 +42,12 @@ Learn these as approximate values. A value in the right region is what counts.
 
 Sense-check: walking is about 5 km/h, town traffic is a few tens of km/h, and sound in air is faster than any road vehicle. A wind speed in m/s multiplied by 3.6 gives km/h.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances--10-everyday-speeds-log-scale.webp" width="900" height="1000" alt="Log scale from 1 to 1000 m/s with nine typical speeds from walking 1.5 m/s to sound 340 m/s, and the claimed 5.0 m/s walk from worked example 1 lying at cycling speed." loading="lazy">
+  <figcaption>Typical speeds span more than two orders of magnitude.</figcaption>
+</figure>
+
+
 ## Estimating accelerations (P8.1b)
 
 | Equation | Meaning |
@@ -64,6 +70,12 @@ Method in steps:
 | Free fall | about 10 |
 
 Worked reminder: a train goes from rest to 20 m/s in 40 s. a = 20 ÷ 40 = 0.5 m/s².
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances--11-everyday-accelerations-scale.webp" width="900" height="898" alt="Scale 0 to 10 m/s2: lift and cyclist about 1, car 2 to 3, sprinter 3 to 5, hard braking 6 to 8, free fall about 10. A dashed line marks the worked example, 27 m/s in 9.0 s = 3.0 m/s2." loading="lazy">
+  <figcaption>Everyday accelerations run from about 1 to 10 m/s2.</figcaption>
+</figure>
+
 
 ## Unit conversion, ratios and rates (P8.1c)
 
@@ -89,6 +101,12 @@ Proportion: at constant speed, distance is directly proportional to time. Twice 
 
 Worked reminder: a wind of 25 m/s is 25 × 3.6 = 90 km/h. A cyclist rides 18 km in 45 minutes. Distance = 18,000 m, time = 2700 s, speed = 18,000 ÷ 2700 = 6.7 m/s (2 s.f.).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances--12-speed-unit-conversion.webp" width="900" height="860" alt="km/h to m/s divide by 3.6. 108 km/h = 30 m/s, 240 m in 8.0 s. 30 mph = 13.4 m/s. 5 min 30 s per km = 3.0 m/s." loading="lazy">
+  <figcaption>Convert to SI units before using a speed equation.</figcaption>
+</figure>
+
+
 ## Measuring reaction time (P8.1d)
 
 Reaction time: the delay between a stimulus and the start of the response.
@@ -112,6 +130,17 @@ Reliability checklist: repeat; calculate the arithmetic mean; check for anomalie
 Typical results: about 0.2 s for an alert person on a ruler drop; longer, up to around one second, when tired, distracted or facing a complex decision.
 
 Worked reminder: distances 12, 15, 14 and 15 cm give a mean of 56 ÷ 4 = 14 cm, which is a reaction time of roughly 0.17 s from a free-fall table (14 cm falls in about 0.17 s).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances--06-ruler-drop.webp" width="900" height="900" alt="A ruler is caught between the fingers. The curve t = √(2d/g) turns distance dropped into reaction time; the mean catch of 15.4 cm corresponds to about 0.18 s." loading="lazy">
+  <figcaption>The further the ruler falls before it is caught, the longer the reaction time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances--13-reaction-distraction-dot-plot.webp" width="900" height="900" alt="Dot plot: no distraction 0.21, 0.23, 0.19, 0.22 s, mean 0.2125 s; reading a phone 0.27, 0.30, 0.26, 0.29 s, mean 0.28 s. Increase 0.0675 s, 32 percent; ranges do not overlap." loading="lazy">
+  <figcaption>A phone distraction raised mean reaction time by about 32 percent.</figcaption>
+</figure>
+
 
 ## Stopping distance and safety (P8.1e)
 
@@ -149,6 +178,17 @@ Method for an "explain" question on stopping distance:
 2. Name the cause: reaction time for thinking distance; braking force or kinetic energy for braking distance.
 3. Link the cause to the factor given.
 4. State the consequence for stopping distance and safety.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances--07-thinking-distance-alcohol.webp" width="900" height="920" alt="At 12 m/s a car travels 10.2 m during a 0.85 s reaction time and 14.4 m during a 1.2 s reaction time after alcohol, 4.2 m further. Braking distance is unchanged." loading="lazy">
+  <figcaption>Alcohol lengthens reaction time and thinking distance, not braking distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--05-stopping-distance.webp" width="900" height="910" alt="Bars to scale: at 20 m/s thinking 14 m plus braking 33 m gives 47 m; at 30 m/s thinking 21 m plus braking 75 m gives 96 m. Tiredness, alcohol and drugs lengthen thinking; tyres, road and load lengthen braking; speed lengthens both." loading="lazy">
+  <figcaption>Stopping distance = thinking distance + braking distance.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

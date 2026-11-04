@@ -69,6 +69,27 @@ Number of sides = 360° ÷ 18° = 20
 Interior angle sum = (20 − 2) × 180° = 3240°
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-geometry-and-measures--04-six-quadrilaterals.webp" width="900" height="1073" alt="Six cards show square, rectangle, parallelogram, rhombus, trapezium and kite with tick marks for equal sides, arrows for parallel sides and small squares for right angles, plus three short property lines each." loading="lazy">
+  <figcaption>Six quadrilaterals and the properties each one must be known for.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-geometry-and-measures--05-polygon-names-angle-sum.webp" width="900" height="939" alt="Pentagon, hexagon, octagon and decagon are each split into n-2 triangles from one corner: 3, 4, 6 and 8 triangles giving 540, 720, 1080 and 1440 degrees." loading="lazy">
+  <figcaption>Splitting a polygon into n - 2 triangles shows why the interior angles sum to (n - 2) x 180 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--01-parallel-line-angles.webp" width="900" height="1220" alt="Three panels of two parallel lines cut by a transversal. Corresponding angles are both 65 degrees. Alternate angles are both 115 degrees. Co-interior angles are 65 and 115 degrees, adding to 180. With a 65 degree transversal: corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add to 180 degrees (C)." loading="lazy">
+  <figcaption>Corresponding and alternate angles are equal; co-interior angles add to 180°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--02-regular-polygon-angles.webp" width="900" height="1070" alt="A regular hexagon with exterior angles of 60 degrees marked and one interior angle of 120 degrees. Six 60 degree wedges form a full circle of 360 degrees. Interior angle is 180 minus 60. A regular hexagon has six exterior angles of 60 degrees which fit round a point to make 360 degrees, so each interior angle is 120 degrees." loading="lazy">
+  <figcaption>Exterior angles add to 360°, so a regular hexagon has interior angles of 120°.</figcaption>
+</figure>
+
+
 ## Constructions and loci (G2)
 
 With a ruler and compasses you must be able to construct: the perpendicular bisector of a line segment, a perpendicular to a line from or at a given point, the bisector of an angle, and an angle of 60° (an equilateral triangle). Leave all construction arcs visible.
@@ -80,6 +101,22 @@ Loci you should recognise:
 - Equidistant from two lines that meet: the angle bisector.
 
 The perpendicular distance from a point to a line is the **shortest** distance to that line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-geometry-and-measures--07-geo-loci.webp" width="900" height="1200" alt="Three panels: a circle for a fixed distance from a point, the perpendicular bisector for equidistant from two points, and the angle bisector for equidistant from two lines. Each locus is shown with equal-distance marks from a point on it." loading="lazy">
+  <figcaption>Each locus is shown with equal-distance marks from a point on it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-geometry-and-measures--08-geo-constructions.webp" width="900" height="1140" alt="Compass arcs for the perpendicular bisector of AB and for the bisector of an angle at O, with construction arcs left visible. Equal arcs from each end or each cut cross at points on the bisector." loading="lazy">
+  <figcaption>Equal arcs from each end or each cut cross at points on the bisector.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--02-triangle-three-sides.webp" width="900" height="810" alt="Triangle ABC with AB 9 cm. An arc of radius 7.5 cm from A and an arc of radius 6 cm from B cross at C, and AC and BC are joined. Angles are about 41, 56 and 83 degrees." loading="lazy">
+  <figcaption>Construct a triangle from three sides with compasses, keeping the arcs.</figcaption>
+</figure>
+
 
 ## Congruence and transformations (G5, G7, G8, G24)
 
@@ -93,6 +130,47 @@ To describe a transformation fully:
 - **Enlargement:** centre and scale factor. A fractional scale factor makes the shape smaller. **Higher tier only:** a negative scale factor puts the image on the opposite side of the centre, upside down.
 
 **Higher tier only:** describe the single transformation equivalent to a combination, and say what stays invariant (unchanged).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-geometry-and-measures--06-geo-congruence.webp" width="900" height="1060" alt="Four pairs of identical triangles, one turned or flipped, marked with ticks, angle arcs and a right angle for SSS, SAS, ASA and RHS. Congruent triangles satisfy SSS, SAS, ASA or RHS; the markings show which parts match." loading="lazy">
+  <figcaption>Congruent triangles satisfy SSS, SAS, ASA or RHS; the markings show which parts match.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="845" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
+  <figcaption>A reflection puts each image point the same distance behind the mirror line, and is described by its mirror line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="1065" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
+  <figcaption>A rotation is described by its centre, angle and direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--03-translation-column-vector.webp" width="900" height="970" alt="Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1)." loading="lazy">
+  <figcaption>A translation slides every point by the same column vector without turning or resizing the shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="945" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
+  <figcaption>An enlargement multiplies every distance from the centre, and every side, by the scale factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--05-enlargement-fractional.webp" width="900" height="1145" alt="Triangle ABC is enlarged by scale factor one half from P(1,1). Each image corner is half as far from P, giving a smaller image A'(2,2), B'(2,4), C'(4,2)." loading="lazy">
+  <figcaption>A scale factor between 0 and 1 makes the image smaller.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--06-enlargement-negative.webp" width="900" height="905" alt="Triangle ABC is enlarged by scale factor -2 from P(3,3). Each image corner is twice as far from P but on the opposite side, so the image is upside down: A'(1,1), B'(1,-1), C'(-3,1)." loading="lazy">
+  <figcaption>A negative scale factor puts the image on the opposite side of the centre, inverted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--06-combination.webp" width="900" height="858" alt="Triangle B is reflected in the x-axis (dashed B1) then in the y-axis to give B2. A dashed line from (5,3) through the origin to (-5,-3) shows each point (x, y) goes to (-x, -y), which is a rotation of 180 degrees about the origin." loading="lazy">
+  <figcaption>Reflecting in the x-axis and then the y-axis equals a single rotation of 180 degrees about the origin.</figcaption>
+</figure>
+
 
 ## Circles (G9, G10)
 
@@ -118,12 +196,54 @@ Parts of a circle: centre, radius, chord, diameter, circumference, tangent, arc,
 </figure>
 <!-- /marlbridge-diagram:maths-b14-circle-theorem-centre-circumference --> Angle ABC = 118° ÷ 2 = **59°**, because the angle at the centre is twice the angle at the circumference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-geometry-and-measures--10-geo-alternate-segment.webp" width="900" height="880" alt="A circle with a tangent at T and chord TA making 56 degrees; the angle TBA in the alternate segment is also 56 degrees. The angle between a tangent and a chord equals the angle in the alternate segment." loading="lazy">
+  <figcaption>The angle between a tangent and a chord equals the angle in the alternate segment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp" width="900" height="1030" alt="Circle with centre, diameter, radius, chord, tangent touching at one point, circumference and a highlighted arc. Below, a shaded sector (two radii and an arc) and a shaded segment (a chord and an arc). Sector and segment are the pair most often confused." loading="lazy">
+  <figcaption>Radius, chord and tangent in one circle, with sector and segment shaded separately.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
+  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--04-angle-at-centre.webp" width="900" height="830" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
+  <figcaption>The angle at the centre is twice the angle at the circumference, and angles in the same segment are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="850" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
+  <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--04-equal-tangents.webp" width="900" height="900" alt="Circle with centre O and external point P. Tangents PA and PB are marked equal, each 12. Radii OA and OB (5) meet them at right angles, and OP is 13. Two tangents drawn from the same outside point P touch the circle at A and B and have equal lengths; each is perpendicular to its radius." loading="lazy">
+  <figcaption>Tangents from an external point are equal in length (here PA = PB = 12).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--02-chord-bisector.webp" width="900" height="850" alt="Circle of radius 10 with chord AB of length 16. OM meets AB at right angles at the midpoint M, so AM = MB = 8. Triangle OMB has sides 6, 8, 10. A line from the centre perpendicular to a chord cuts the chord in half, giving a right-angled triangle (radius 10, half-chord 8, distance 6)." loading="lazy">
+  <figcaption>The perpendicular from the centre bisects the chord, so Pythagoras finds the missing length.</figcaption>
+</figure>
+
+
 ## 3D shapes, measures and bearings (G12–G15)
 
 - Know the faces, edges and vertices of cubes, cuboids, prisms, cylinders, pyramids, cones and spheres.
 - A plan is the view from above; front and side elevations are views from the front and side. You must be able to interpret them and to construct them.
 - Bearings are measured clockwise from north and written with three figures (e.g. 047°). The back bearing differs by 180°.
 - Know the eight compass points (N, NE, E, SE, S, SW, W, NW).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-geometry-and-measures--09-geo-plan-elevation.webp" width="900" height="900" alt="A solid of six cubes drawn in 3D with its plan (a U shape), front elevation (heights 1, 1, 2) and side elevation from the right (heights 2, 1). A plan is the view from above; elevations are views from the front and side." loading="lazy">
+  <figcaption>A plan is the view from above; elevations are views from the front and side.</figcaption>
+</figure>
+
 
 ## Area, perimeter and volume (G16–G18)
 
@@ -159,6 +279,17 @@ Total surface area = 65π + 25π = 90π = 283 cm² (3 s.f.)
 ```
 
 Frustums (a cone with its top cut off) are composite solids: subtract the small cone from the large one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-geometry-and-measures--06-cone-5-12-13.webp" width="900" height="906" alt="Cone with radius 5, height 12 and slant height 13 cm. Volume 100 pi cm3, curved area 65 pi, base 25 pi, total 90 pi, about 283 cm2." loading="lazy">
+  <figcaption>The 5, 12, 13 cone: slant height from Pythagoras, then volume and surface area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-geometry-and-measures--07-sphere-formulas.webp" width="900" height="930" alt="A sphere surface is four times a circle of the same radius. With the illustrative radius 6 cm: surface area 144 pi, about 452 cm2, and volume 288 pi, about 905 cm3." loading="lazy">
+  <figcaption>Sphere surface area is four circles of the same radius; the formulas are given in the question.</figcaption>
+</figure>
+
 
 ## Similarity (G19)
 

@@ -40,6 +40,12 @@ to match a described business situation to the most appropriate source -- a star
 history cannot realistically use retained profit, and a business needing funds for one week of stock
 cannot sensibly use a long-term loan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--01-sources-of-finance.webp" width="900" height="1060" alt="Eleven finance sources as picture tiles: internal (personal funds, retained profit, sale of assets) and external (share capital, loan capital, overdraft, trade credit, crowdfunding, leasing, microfinance, business angels). Overdraft and trade credit are shaded short-term; share capital, loan capital and leasing long-term." loading="lazy">
+  <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
+</figure>
+
+
 ## 3.3 Costs and revenues
 
 Distinguish fixed costs (do not vary with output, e.g. rent) from variable costs (vary directly with
@@ -48,6 +54,12 @@ output, e.g. raw materials), and direct costs (attributable to one product) from
 by quantity sold. A frequent exam error is treating a cost as fixed when the scenario describes it
 scaling with output, or vice versa -- always check the described behaviour of the cost against the
 scenario, not just its category label.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--02-cost-behaviour.webp" width="900" height="1010" alt="Line chart: fixed cost flat at $6,000, variable cost $4 a unit, total cost = fixed + variable, revenue $10 a unit. Revenue meets total cost at 1,000 units ($10,000)." loading="lazy">
+  <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
+</figure>
+
 
 ## 3.4 Final accounts
 
@@ -71,6 +83,17 @@ A machine costs $50,000, has a residual value of $5,000, and a useful life of 9 
 Annual depreciation = (50,000 - 5,000) / 9 = $5,000 per year
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--03-accounting-equation.webp" width="900" height="1050" alt="Two equal stacked bars: assets 100 (non-current 60, current 40) equal liabilities plus equity 100 (share capital 40, retained profit 10, non-current liabilities 30, current liabilities 20). A balance sheet is a snapshot; the profit and loss account covers a period." loading="lazy">
+  <figcaption>Assets always equal liabilities plus equity; the balance sheet shows one moment, the P&amp;L a period.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--04-depreciation.webp" width="900" height="1124" alt="Asset costing $12,000, residual $2,000, 5 years. Straight line charges $2,000 each year; units of production charges $1,000, $2,000, $3,000, $2,400 and $1,600 for 5k, 10k, 15k, 12k and 8k units. Both total $10,000." loading="lazy">
+  <figcaption>Straight line spreads depreciation evenly; units of production follows how much the asset is used.</figcaption>
+</figure>
+
+
 ## 3.5 Profitability and liquidity ratio analysis
 
 Profitability ratios (**gross profit margin**, **profit margin**, **return on capital employed**)
@@ -91,6 +114,12 @@ Profit margin         = (30,000 / 200,000) x 100 = 15%
 ROCE                  = (30,000 / 150,000) x 100 = 20%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
+  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
+</figure>
+
+
 ## 3.6 Efficiency ratio analysis (HL only)
 
 Four ratios: **stock turnover** (how many times stock is sold and replaced in a period -- low
@@ -107,6 +136,12 @@ fall due, a cash flow problem) from **bankruptcy** (the formal legal process tha
 insolvency for an individual or, for a company, liquidation) -- a profitable business can still
 become insolvent if efficiency ratios such as debtor days are poorly managed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--06-gearing.webp" width="900" height="1120" alt="Two firms with $100k capital employed: 20% geared (loans 20, equity 80) and 70% geared (loans 70, equity 30). With 8% interest, return on equity is 23.0% and 3.0% (low gearing) versus 48.0% and -5.3% (high gearing) in a good and bad year." loading="lazy">
+  <figcaption>Higher gearing magnifies returns in good years and losses in bad years, because interest is paid either way.</figcaption>
+</figure>
+
+
 ## 3.7 Cash flow
 
 Distinguish cash flow from profit: a profitable business can still run out of cash if customers pay
@@ -115,6 +150,12 @@ outflows over future periods to identify potential shortfalls before they happen
 include being able to read a simple cash flow forecast and identify the closing balance for a given
 period, plus explaining at least one method of improving cash flow (e.g. factoring, negotiating
 longer payment terms with suppliers, offering early-payment discounts to customers).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
 
 ## 3.8 Investment appraisal
 
@@ -136,6 +177,17 @@ Total profit over 4 years = (16,000 x 3 + 8,000) - 40,000 = $16,000
 Average annual profit = 16,000 / 4 = $4,000
 ARR = (4,000 / 40,000) x 100 = 10%
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
+  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--09-npv.webp" width="900" height="1020" alt="Same project discounted at 10%: present values 18.2, 24.8, 30.1, 27.3 and 18.6 total 119.0, so NPV after the $100k cost is +19.0 ($k). Weakness: depends on the chosen discount rate." loading="lazy">
+  <figcaption>NPV discounts future cash to today’s value and subtracts the cost; the result depends on the discount rate.</figcaption>
+</figure>
+
 
 ## 3.9 Budgets (HL only)
 

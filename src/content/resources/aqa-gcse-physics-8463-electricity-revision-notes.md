@@ -96,6 +96,22 @@ supply to get negative values; plot I on the y-axis against V on the x-axis.
 
 Worked reminder: 3.0 V across a lamp, 0.60 A through it → R = 3.0 ÷ 0.60 = **5.0 Ω**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--02-thermistor-ldr.webp" width="900" height="1220" alt="Two sketch graphs. Thermistor: resistance falls as temperature rises from 0 to 100 degrees Celsius. LDR: resistance falls from 5000 ohms in the dark to 500 ohms in bright light." loading="lazy">
+  <figcaption>Resistance of a thermistor falls as it gets hotter and of an LDR as it gets brighter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
+  <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
+</figure>
+
+
 ## 4.2.2 Series vs parallel -- must-know distinctions
 
 | | Series | Parallel |
@@ -122,6 +138,22 @@ Worked reminder: 9.0 V supply, 2.0 kΩ fixed resistor, thermistor at 1.0 kΩ →
 0.0030 A, pd across thermistor = 0.0030 × 1000 = **3.0 V**. If the thermistor cools to 7.0 kΩ → total 9.0 kΩ,
 I = 0.0010 A, pd across thermistor = **7.0 V**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--03-ldr-divider.webp" width="900" height="1060" alt="Two series circuits with a 6.0 V battery, a 1.0 kilohm resistor and an LDR with a voltmeter across the LDR. In bright light (500 ohm) the LDR has 2.0 V; in the dark (5.0 kilohm) it has 5.0 V and the resistor only 1.0 V." loading="lazy">
+  <figcaption>In the dark the LDR takes a bigger share of the supply pd.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--01-measure-resistance.webp" width="900" height="1160" alt="A circuit of cell, closed switch, ammeter in series and a resistor with a voltmeter across it. The ammeter reads 0.25 A and the voltmeter 12 V, so R = V / I = 48 ohms. A wire with a movable crocodile clip shows required practical 3." loading="lazy">
+  <figcaption>Ammeter in series and voltmeter in parallel give V and I, and R = V / I.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
+
 ## 4.2.3 Mains electricity
 
 - UK mains: **ac**, **50 Hz**, **about 230 V**.
@@ -130,6 +162,12 @@ I = 0.0010 A, pd across thermistor = **7.0 V**.
 - Earth -- **green and yellow stripes** -- safety wire; 0 V; carries current only if there is a fault.
 - A live wire is dangerous even when the switch is open: it is still at about 230 V, and your body is at 0 V.
 - A connection between live and earth lets a large current flow: risk of shock or fire.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--03-mains-cable-safety.webp" width="900" height="1110" alt="A.c. reverses while d.c. flows one way; mains is 50 Hz so a cycle takes 20 ms. A three-core cable has brown live (about 230 V), blue neutral (about 0 V) and green and yellow earth (0 V). Touching a live wire gives a shock; live touching earth gives a very large current and a fire risk." loading="lazy">
+  <figcaption>Which wire carries what, and what goes wrong in the two fault cases.</figcaption>
+</figure>
+
 
 ## 4.2.4 Energy transfers
 
@@ -143,6 +181,12 @@ I = 0.0010 A, pd across thermistor = **7.0 V**.
 
 **Why efficient:** same power at higher pd means lower current (P = VI); lower current means much less heating
 of the cables (P = I²R), so less energy is wasted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--04-kettle-energy.webp" width="900" height="940" alt="A 2.3 kW kettle on 230 V for 180 s: I = 10 A, R = 23 ohms, P = VI = I squared R = 2300 W, Q = It = 1800 C, and E = Pt = QV = 414 000 J." loading="lazy">
+  <figcaption>P = VI, P = I²R, Q = It, E = Pt and E = QV all give the same 414 kJ.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -193,6 +237,17 @@ of the cables (P = I²R), so less energy is wasted.
 10. **Negative**
 11. It **decreases**
 12. 0.10 + 0.20 = **0.30 A**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--04-sphere-field-lines.webp" width="900" height="810" alt="Two charged spheres each with twelve straight radial field lines. Arrows point out of the positive sphere and into the negative one. Lines are closest together near the sphere, where the field is strongest." loading="lazy">
+  <figcaption>Field lines of an isolated sphere are radial, outward for positive and inward for negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--05-static-charge.webp" width="900" height="1150" alt="Rubbing moves electrons from the rod to the cloth, leaving the cloth negative and the rod positive. Hanging balls with the same charge swing apart and with opposite charges swing together. A charged insulated sphere sparks to an earthed sphere when the field in the gap is strong enough." loading="lazy">
+  <figcaption>Only electrons move; like charges repel, unlike attract, and a strong field in a gap gives a spark.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

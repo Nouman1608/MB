@@ -63,6 +63,12 @@ So 4.146 < ∫₀⁴ √x dx < 6.146 (the true value is 16/3 ≈ 5.333).
 
 **Reminder.** A table gives y = 2.0, 2.6, 3.1, 3.5 at x = 0, 1, 2, 3, so h = 1. The estimate is ½[2.0 + 3.5 + 2(2.6 + 3.1)] = 8.45. The increases in y are shrinking (0.6, 0.5, 0.4), so the curve looks concave and the true area is probably larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--04-limit-of-a-sum.webp" width="900" height="886" alt="Six rectangles of width 0.5 under y = 2x + 1 give lower and upper totals 10.5 and 13.5. With 30 and 300 strips the bounds tighten to 11.7 to 12.3 and 11.97 to 12.03. The limit is the integral, 12. AQA and OCR content." loading="lazy">
+  <figcaption>As strips get thinner, the rectangle sums close in on the integral.</figcaption>
+</figure>
+
+
 ## 1.08h: reverse chain rule and substitution
 
 **Method in steps (recognition)**
@@ -113,6 +119,12 @@ For √(a² − x²) try x = a sin θ, and use cos²θ = ½(1 + cos 2θ).
 
 **Reminder.** ∫₀^π x sin x dx. With u = x and v = −cos x: [−x cos x]₀^π + ∫₀^π cos x dx = π + [sin x]₀^π = **π**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--08-parts-as-area.webp" width="900" height="830" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
+  <figcaption>Integration by parts is the statement that two complementary areas fill a rectangle.</figcaption>
+</figure>
+
+
 ## 1.08j: partial fractions
 
 - Denominators are no more complicated than (ax + b)(cx + d)² or (ax + b)(cx + d)(ex + f), with a constant or linear numerator.
@@ -121,6 +133,12 @@ For √(a² − x²) try x = a sin θ, and use cos²θ = ½(1 + cos 2θ).
 - Integrate each term. The squared term gives −1/(p(px + q)), not a logarithm.
 
 **Reminder.** 5/((x − 1)(x + 4)) = 1/(x − 1) − 1/(x + 4), so the integral is ln|x − 1| − ln|x + 4| + c = ln|(x − 1)/(x + 4)| + c.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--09-partial-fractions-area.webp" width="900" height="876" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
+  <figcaption>Splitting into partial fractions splits the area into two simple logarithmic bands.</figcaption>
+</figure>
+
 
 ## Which method?
 
@@ -185,6 +203,12 @@ For √(a² − x²) try x = a sin θ, and use cos²θ = ½(1 + cos 2θ).
 - Giving an exact answer as a rounded decimal when the question asks for an exact value.
 
 Take a [free 10-minute diagnostic](/diagnostics/) to see which method needs more work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
+  <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

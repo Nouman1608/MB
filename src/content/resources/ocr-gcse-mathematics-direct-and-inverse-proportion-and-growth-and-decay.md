@@ -70,6 +70,12 @@ An exchange rate is a direct proportion. Multiply to go into the foreign currenc
 
 Sense check: a pound buys more than one euro, so the pound amount must be the smaller number.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-direct-and-inverse-proportion-and-growth-and-decay--02-currency.webp" width="900" height="770" alt="With an exchange rate of 1 pound equals 1.14 euros, multiply by 1.14 to convert pounds into euros: 450 pounds becomes 513 euros. Divide by 1.14 to convert euros into pounds: 300 euros becomes 263.16 pounds. The pound amount is always the smaller number." loading="lazy">
+  <figcaption>Multiply by 1.14 to go into euros and divide by 1.14 to come back to pounds.</figcaption>
+</figure>
+
+
 ### The equation y = kx
 
 Writing y ∝ x means y is directly proportional to x. This is the same as y = kx, where k is a constant (the constant of proportionality). Graphically, y = kx is a straight line through the origin.
@@ -88,6 +94,12 @@ y = 2.5x
 x = 22:  y = 2.5 × 22 = 55
 y = 80:  80 = 2.5x, so x = 80 ÷ 2.5 = 32
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-direct-and-inverse-proportion-and-growth-and-decay--01-direct-line.webp" width="900" height="884" alt="Straight-line graph of y = 2.5x through the origin. The points (14, 35), (22, 55) and (32, 80) lie on it. Dividing y by x gives 2.5 at every point, which is the constant of proportionality k, so the ratios are equal." loading="lazy">
+  <figcaption>y = kx is a straight line through the origin, and y ÷ x equals k at every point.</figcaption>
+</figure>
+
 
 ### Direct proportion to a power or root (Higher tier only)
 
@@ -115,6 +127,17 @@ T = 3:     3 = 2√L, so √L = 1.5 and L = 1.5² = 2.25 metres
 ```
 
 When you are finding x from y, undo the power or root in the opposite order: square both sides to remove a root, take a root to remove a square.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--01-direct-shapes.webp" width="900" height="990" alt="Five direct proportion graphs for x from 0 to 4 with k = 1: y = x cubed, x squared, x, square root of x and cube root of x. All start at the origin and pass through (1, 1). The powers rise steeply; the roots flatten." loading="lazy">
+  <figcaption>Every direct proportion graph starts at O; powers curve upwards and roots flatten.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--05-root-worked.webp" width="900" height="1000" alt="The graph of P = 3 times the square root of Q. The given point (16, 12) gives k = 3. Reading up from Q = 49 gives P = 21, and reading across from P = 27 gives Q = 81 because squaring undoes the root." loading="lazy">
+  <figcaption>Find k from one point, then read the graph either way.</figcaption>
+</figure>
+
 
 ## Inverse proportion (5.02b)
 
@@ -175,6 +198,17 @@ x = 36:  y = 12/6 = 2
 y = 8:   8 = 12/√x, so √x = 1.5 and x = 2.25
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--02-inverse-shapes.webp" width="900" height="940" alt="Five inverse proportion graphs with k = 1: 1 over the cube root of x, the square root of x, x, x squared and x cubed. All pass through (1, 1) and fall towards the x-axis without reaching zero. Higher powers fall faster." loading="lazy">
+  <figcaption>In inverse proportion y falls as x rises, and a higher power falls faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--06-pumps-inverse.webp" width="900" height="1000" alt="The graph of t = 72 over n for pumps and hours. Rectangles to (4, 18), (6, 12) and (9, 8) all have area 72 because t times n is constant. 6 pumps take 12 hours and 9 pumps take 8 hours." loading="lazy">
+  <figcaption>In inverse proportion the product t × n stays the same.</figcaption>
+</figure>
+
+
 ## Growth and decay (5.03a)
 
 ### Simple interest
@@ -192,6 +226,12 @@ Total    = 2400 + 336 = £2,736
 
 You can also work backwards. If £1,500 earns £180 simple interest in 5 years, then 180 = 1500 × r × 5 / 100, so r = 180 × 100 ÷ 7500 = 2.4% per year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-direct-and-inverse-proportion-and-growth-and-decay--06-simple-vs-compound.webp" width="900" height="920" alt="A graph of 5,000 pounds at 2.8 per cent a year over 20 years. Simple interest rises in a straight line by 140 pounds a year to 7,800 pounds. Compound interest curves upward to about 8,686 pounds. After 3 years they are 5,420.00 and 5,431.87 pounds." loading="lazy">
+  <figcaption>Simple interest adds the same amount each year; compound interest earns interest on interest, so it pulls ahead.</figcaption>
+</figure>
+
+
 ### Multipliers
 
 A percentage change becomes one multiplication.
@@ -204,6 +244,12 @@ A percentage change becomes one multiplication.
 | Decrease by 12% | 0.88 |
 
 For repeated changes, multiply the multipliers. You do not add percentages.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
 
 ### Compound interest
 
@@ -233,6 +279,12 @@ Overall decrease = 1 − 0.57375 = 0.42625 = 42.6% (3 s.f.)
 ```
 
 The overall decrease is not 25 + 15 + 10 = 50%. Each percentage applies to a smaller amount than the one before.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-direct-and-inverse-proportion-and-growth-and-decay--07-van-depreciation.webp" width="900" height="1030" alt="Four bars for a van worth 22,000, 16,500, 14,025 and 12,622.50 pounds after multiplying by 0.75, 0.85 and 0.90. A dashed line marks 11,000 pounds, a 50 per cent fall. The overall multiplier is 0.57375, a fall of 42.6 per cent, not 50." loading="lazy">
+  <figcaption>Multiply the yearly multipliers; the percentages cannot simply be added.</figcaption>
+</figure>
+
 
 ### Growth and decay as a formula (Higher tier only)
 
@@ -268,6 +320,22 @@ It first falls below £10,000 during the fifth year, so after 5 whole years.
 ```
 
 Reading a formula the other way is just as common. For A = 250 × 1.04ⁿ, the starting amount is 250 and the growth is 4% per period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-direct-and-inverse-proportion-and-growth-and-decay--03-bacteria.webp" width="900" height="850" alt="Graph of N = 800 times 1.15 to the power t for t from 0 to 8 hours. N starts at 800, is about 1,850 at 6 hours (below 2,000) and about 2,128 at 7 hours (above 2,000), so 7 hours is the first whole hour with more than 2,000 bacteria." loading="lazy">
+  <figcaption>The culture first exceeds 2,000 bacteria at t = 7 hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--01-growth-vs-linear.webp" width="900" height="780" alt="A graph of a population of 25 000 growing 2.4% a year for 8 years. The curve reaches about 30 223, while adding 600 a year in a straight line reaches only 29 800. The curve pulls ahead because each percentage is taken of the current value." loading="lazy">
+  <figcaption>Exponential growth pulls ahead of linear growth because each year's percentage is taken of a larger value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--03-fish-decay-target.webp" width="900" height="740" alt="A curve of 3600 fish falling 6% a year with a dashed line at 2000. Year 9 gives 2063 (above) and year 10 gives 1939 (below), so year 10 is the first year below 2000." loading="lazy">
+  <figcaption>Show the years either side of the target to prove which year first passes it.</figcaption>
+</figure>
+
 
 ## Common errors
 

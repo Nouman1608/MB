@@ -48,6 +48,12 @@ Also useful: the [subject hub](/boards/aqa/a-level/biology/), the [checklist to 
 
 Eukaryotic nuclear DNA also contains non-coding multiple repeats between genes, and introns inside genes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--03-dna-helix.webp" width="900" height="880" alt="A double helix of two strands with the sugar-phosphate backbones outside and base pairs inside. One turn has 10 base pairs and measures 3.4 nanometres. A flattened ladder shows the strands are antiparallel: one runs 5′ to 3′ downwards, the other 3′ to 5′, with ATGCCG pairing with TACGGC." loading="lazy">
+  <figcaption>The two strands run in opposite directions and wind round each other, with base pairs inside.</figcaption>
+</figure>
+
+
 ## The genetic code
 
 - Universal: same triplet, same amino acid, in all organisms.
@@ -62,6 +68,17 @@ Eukaryotic nuclear DNA also contains non-coding multiple repeats between genes, 
 | Strand | Single, linear | Single, folded into a clover-leaf, held by hydrogen bonds |
 | Carries | Codons | Anticodon and one specific amino acid |
 | Sugar and base | Ribose, uracil | Ribose, uracil |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--07-translation-ribosome.webp" width="900" height="1022" alt="mRNA AUG UUC GGC AAC UAA passes through a ribosome. The ribosome holds two tRNAs, each carrying one amino acid with an anticodon complementary to its codon: AAG pairs with UUC (Phe) and CCG pairs with GGC (Gly). A peptide bond forms between amino acids, the first tRNA leaves, and the ribosome moves one codon along. The codons code for Met, Phe, Gly and Asn, and UAA is a stop codon." loading="lazy">
+  <figcaption>tRNA anticodons pair with mRNA codons on the ribosome, adding one amino acid at a time until a stop codon.</figcaption>
+</figure>
+
 
 ## Method boxes
 
@@ -83,6 +100,12 @@ Eukaryotic nuclear DNA also contains non-coding multiple repeats between genes, 
 3. Look up each codon in the table you are given.
 4. Stop at a stop codon. Do not count it as an amino acid.
 5. For anticodons, complement the codon again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp" width="900" height="1100" alt="Three nucleotides are stacked one below another. Each has a pentose sugar, a phosphate and a nitrogenous base. The 3′ carbon of one sugar is joined through a phosphate to the 5′ carbon of the next sugar by a phosphodiester bond, releasing one water molecule per bond. The top end has a free phosphate (5′) and the bottom end a free OH (3′); n nucleotides give n minus 1 bonds." loading="lazy">
+  <figcaption>Each condensation reaction joins two nucleotides with a phosphodiester bond and releases one water molecule.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -108,6 +131,12 @@ Mitochondria and chloroplasts each contain their own DNA. Like prokaryotic DNA i
 | Translation | At ribosomes in the cytoplasm | At ribosomes in the cytoplasm |
 
 In eukaryotes the mRNA leaves the nucleus through a nuclear pore before translation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1200" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
+  <figcaption>A substitution changes at most one amino acid; a deletion or insertion shifts the reading frame.</figcaption>
+</figure>
+
 
 ## Worked reminder: a short codon problem
 
@@ -185,6 +214,12 @@ Typical roles to recognise: no mRNA means no polypeptide; no ATP means a much lo
 - Saying tRNA "carries amino acids" without stating one specific amino acid per type of tRNA.
 - Giving only a description in an "explain" question, with no reason linked to the code or the structure.
 - Drawing a conclusion from experimental data that goes further than the data support, for example claiming the label shows mRNA specifically.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--02-bases-pairing.webp" width="900" height="990" alt="Adenine and guanine are purines with a double ring. Cytosine, thymine and uracil are pyrimidines with a single ring; thymine is only in DNA and uracil only in RNA. Adenine pairs with thymine through two hydrogen bonds and guanine with cytosine through three. Each pair is one double ring plus one single ring, so every pair has the same width." loading="lazy">
+  <figcaption>A purine always pairs with a pyrimidine: A with T (two hydrogen bonds), G with C (three).</figcaption>
+</figure>
+
 
 ## Official syllabus
 

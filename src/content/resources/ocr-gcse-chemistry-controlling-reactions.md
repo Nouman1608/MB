@@ -103,9 +103,31 @@ Marble chips react with excess dilute hydrochloric acid, and a gas syringe colle
 (d) *Rate at 50 s.* A tangent drawn at 50 s passes through (0 s, 18 cm³) and (100 s, 82 cm³).
 Gradient = (82 − 18) ÷ (100 − 0) = 64 ÷ 100 = **0.64 cm³/s**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--04-rate-tangent.webp" width="900" height="930" alt="Gas volume against time using the lesson table. A tangent at 50 s through 18 cm3 at 0 s and 82 cm3 at 100 s has gradient 0.64 cm3/s. Mean rate falls from 1.0 to 0.44 cm3/s." loading="lazy">
+  <figcaption>The gradient of a tangent gives the rate at one moment.</figcaption>
+</figure>
+
+
 ### 1/t as a measure of rate
 
 When every run ends at the same fixed point (cross gone, ribbon gone), rate is proportional to 1/t. Halving the time doubles the rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--01-cr-rate-apparatus.webp" width="900" height="1020" alt="Top: a conical flask of reacting mixture stands on a balance with a loose cotton wool plug in its neck. Gas escapes through the plug and the balance reading falls. Bottom: a conical flask stands on paper with a cross beneath it. Seen from above, the mixture starts clear so the cross is visible, then turns cloudy as sulfur solid forms, and finally the cross cannot be seen. The clock is stopped at that point." loading="lazy">
+  <figcaption>Two methods for following a rate: mass lost with a plug in the flask, and timing a cross to disappear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--02-cr-one-over-t.webp" width="900" height="880" alt="Graph of 1/t in per second against volume of sodium thiosulfate in cm3. The four points for 50, 40, 30 and 20 cm3 (times 36, 45, 60 and 90 seconds) lie on a straight line through the origin. Doubling the volume from 20 to 40 cm3 doubles 1/t from 0.0111 to 0.0222. A table shows 1/t divided by volume is 0.00056 each time, so rate is directly proportional to concentration." loading="lazy">
+  <figcaption>Doubling the thiosulfate volume doubles 1/t, so rate is proportional to concentration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--01-apparatus.webp" width="900" height="940" alt="Seven pieces of apparatus are each labelled with what they measure: stop-watch for time, thermometer for temperature, balance for mass, burette for a variable volume of liquid, volumetric pipette for one fixed volume, measuring cylinder for an approximate volume, gas syringe for gas volume." loading="lazy">
+  <figcaption>Match each quantity to its apparatus.</figcaption>
+</figure>
+
 
 ### Worked example 3: proportionality from the disappearing cross (CM5.2iv)
 
@@ -117,6 +139,12 @@ Different volumes of sodium thiosulfate solution are made up to 50 cm³ with wat
 | 1/t (s⁻¹) | 0.0278 | 0.0222 | 0.0167 | 0.0111 |
 
 Going from 20 cm³ to 40 cm³ doubles the concentration. The time halves from 90 s to 45 s, so 1/t doubles from 0.0111 to 0.0222 s⁻¹. 1/t ÷ volume is about 0.00056 every time, so the rate is **directly proportional** to concentration: a graph of 1/t against volume is a straight line through the origin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--03-rate-graph.webp" width="900" height="1020" alt="A flask connects to a gas syringe. A graph of gas volume against time shows a steep curve for a fast reaction and a shallow one for a slow reaction, both levelling at 60 cm3." loading="lazy">
+  <figcaption>Steeper gradient means faster rate; the line flattens when the reaction has finished.</figcaption>
+</figure>
+
 
 ## Factors that change the rate (C5.2c, C5.2d)
 
@@ -133,6 +161,17 @@ Of the four, only temperature alters collision **energy** as well as **frequency
 
 The suggested practical reacts magnesium with acid warmed in a water bath to different temperatures, timing each run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--01-collision-theory.webp" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
+  <figcaption>Slow collisions bounce apart; collisions with at least E_a produce a new substance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--02-rate-factors.webp" width="900" height="1154" alt="Before/after boxes show more particles per volume, a gas squeezed by a piston, a cube crushed into eight (area doubles), and more particles with enough energy at higher temperature." loading="lazy">
+  <figcaption>Each factor increases collision frequency or the share of collisions with enough energy.</figcaption>
+</figure>
+
+
 ## Surface area to volume ratio (C5.2e, CM5.2iv)
 
 Only surface particles of a solid can be hit. Cutting a lump up keeps the volume but exposes more surface, so the **surface area to volume ratio**, and the rate, go up.
@@ -148,6 +187,12 @@ Each has surface area 6 × 2 × 2 = 24 mm², so the total is 27 × 24 = 648 mm²
 Ratio = 648 : 216 = **3 : 1**.
 
 The ratio has tripled, so more particles are exposed and the initial rate is greater. A powder is fastest. The suggested practical compares marble chip sizes with hydrochloric acid at the same total mass.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--05-cube-surface-area.webp" width="900" height="940" alt="A 6 mm cube has surface area 216 mm2 and volume 216 mm3. Cut into 27 cubes of 2 mm the area is 648 mm2, ratio 3:1 instead of 1:1." loading="lazy">
+  <figcaption>Smaller pieces expose more surface for the same volume.</figcaption>
+</figure>
+
 
 ## Catalysts (C5.2f, C5.2g)
 
@@ -178,6 +223,22 @@ Hydrogen peroxide slowly decomposes to water and oxygen; the specification sugge
 
 Likewise, copper powder makes zinc react faster with dilute sulfuric acid and is recovered unchanged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--06-catalyst-powders.webp" width="900" height="1010" alt="A catalyst must speed up the reaction and be recovered with its full mass. Powder A does both; B is no faster; C is faster but 0.07 g is used up." loading="lazy">
+  <figcaption>A catalyst makes the reaction faster and is recovered unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--03-cr-catalyst-numbers.webp" width="900" height="850" alt="Energy against progress of reaction. Reactants and products are at the same levels for both curves, so the overall energy change is unchanged. The uncatalysed hump is 75 kJ/mol above the reactants and the catalysed hump is 58 kJ/mol above them, so the catalyst lowers the activation energy by 17 kJ/mol." loading="lazy">
+  <figcaption>A catalyst lowers activation energy from 75 to 58 kJ/mol without changing the energy change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
+
 ## How catalysts work (C5.2h)
 
 A catalyst gives the reaction an **alternative pathway** whose activation energy is lower. Without any change in temperature, a larger share of collisions now clear the energy barrier.
@@ -193,6 +254,12 @@ On a **reaction profile** (energy on the y-axis, progress of reaction on the x-a
 ## Enzymes (C5.2i)
 
 **Enzymes** are catalysts in biological systems: they speed up reactions in living cells without being used up. Catalase, for example, speeds up the breakdown of hydrogen peroxide in cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--04-cr-catalase.webp" width="900" height="950" alt="Two molecules of hydrogen peroxide, H2O2, are broken down with the help of the enzyme catalase into two molecules of water and one molecule of oxygen. The atoms balance: four hydrogen and four oxygen on each side. Below, the same catalase is shown before and after the reaction: enzymes are biological catalysts and are not used up." loading="lazy">
+  <figcaption>Enzymes such as catalase are biological catalysts and are not used up.</figcaption>
+</figure>
+
 
 ## Common errors
 

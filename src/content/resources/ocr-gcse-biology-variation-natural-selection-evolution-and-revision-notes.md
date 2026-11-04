@@ -44,6 +44,17 @@ These are quick-recall notes for topic B5.2 Natural selection and evolution in O
 - A population usually holds extensive genetic variation before the environment changes.
 - No variation means no variants to select.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-key-ideas--09-genome-or-environment.webp" width="900" height="1100" alt="Identical twins share a genome, so differences between them are environmental. Cuttings from one parent plant have identical genes, so differences in height point to light, water or mineral ions." loading="lazy">
+  <figcaption>Same genome means differences are environmental.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
+</figure>
+
+
 ## B5.2b Classification
 
 | | Artificial | Natural |
@@ -63,6 +74,27 @@ These are quick-recall notes for topic B5.2 Natural selection and evolution in O
 2. Find the smallest difference and pair those two species.
 3. Pair the next smallest, and join pairs by their larger differences.
 4. State that the smallest differences mean the most recent common ancestor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-variation-natural-selection-evolution-and--10-sequence-differences-tree.webp" width="900" height="1130" alt="Table of base differences for species A to D in a 200-base gene, with percentages, and a tree pairing A with B and C with D." loading="lazy">
+  <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-variation-natural-selection-evolution-and--14-artificial-natural-classification.webp" width="900" height="990" alt="Grouping by flight puts bat with gull and beetle with mouse; natural grouping puts bat with mouse as mammals, gull as a bird and beetle as an insect." loading="lazy">
+  <figcaption>Natural classification groups by many features and shared ancestry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-variation-natural-selection-evolution-and--03-three-domains-rrna.webp" width="900" height="850" alt="Ribosomal RNA gene sequences are compared and branch to three cards: Bacteria, Archaea and Eukaryota. A note says the Archaea were recognised as a domain separate from the Bacteria. The sequences work even for microbes with few visible features." loading="lazy">
+  <figcaption>rRNA gene sequencing led to a three-domain system in which Archaea are separate from Bacteria.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--08-dna-similarity.webp" width="900" height="930" alt="Extended. A sketch tree: A and B share a recent common ancestor, C an older one. Invented base sequences show B differs from A at 1 base and C at 4. The more recently two groups shared an ancestor, the more similar their DNA." loading="lazy">
+  <figcaption>More recent common ancestor means more similar DNA.</figcaption>
+</figure>
+
 
 ## B5.2c Natural selection
 
@@ -84,6 +116,17 @@ Learn the chain in this order.
 - "...so they were more likely to survive, reproduce and pass on the allele".
 - "Over many generations the allele became more common."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-variation-natural-selection-evolution-and--13-paper-caterpillar-trial.webp" width="900" height="1120" alt="40 green and 40 brown paper caterpillars on a lawn; 9 green and 21 brown found. Eaten 22.5% green, 52.5% brown; brown found 2.3 times as often." loading="lazy">
+  <figcaption>Camouflaged green models survive better on green grass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
+
 ## B5.2d Evolution and new species
 
 1. A population is separated into groups that do not interbreed.
@@ -93,6 +136,12 @@ Learn the chain in this order.
 
 - Evolution happens to populations over generations, never to a single organism.
 - A species with no variant able to cope with a changed environment may become extinct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-variation-natural-selection-evolution-and--11-speciation-isolation.webp" width="900" height="1080" alt="One population is split by a river or sea; different phenotypes are selected in each environment; after many generations the groups cannot breed to produce fertile offspring." loading="lazy">
+  <figcaption>Isolation, different selection and mutation can make separate species.</figcaption>
+</figure>
+
 
 ## B5.2e Evidence for evolution
 
@@ -110,6 +159,22 @@ Learn the chain in this order.
 
 Reducing resistance: do not use antibiotics for viral infections, finish prescribed courses, and avoid unnecessary use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-variation-natural-selection-evolution-and--01-archaeopteryx-and-gaps.webp" width="900" height="940" alt="A drawing of Archaeopteryx with feathered wings, a toothed beak and a long bony tail. Labels mark the feathers as bird-like and the teeth and bony tail as reptile-like. Four small cards give the lesson reasons the fossil record is incomplete: soft bodies decay, organisms died where fossils cannot form, rock movement destroys fossils, and many fossils are not yet found." loading="lazy">
+  <figcaption>Archaeopteryx shows a mixture of bird and reptile features, and gaps in the fossil record have four causes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
+</figure>
+
+
 ## B5.2f Darwin and Wallace
 
 - Both developed the idea of natural selection independently; their ideas were presented together in 1858.
@@ -117,6 +182,12 @@ Reducing resistance: do not use antibiotics for viral infections, finish prescri
 - The ideas were challenged, partly because the mechanism of inheritance was unknown. Mendel's work was not widely appreciated at first. DNA and genes later explained inheritance and mutation.
 - Impact on modern biology: explains biodiversity and relatedness, underpins classification, explains antibiotic resistance, and informs conservation.
 - Seedbanks keep seeds cold and dry so that genetic variation survives if wild populations are lost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-variation-natural-selection-evolution-and--04-darwin-wallace-seedbank.webp" width="900" height="1050" alt="Darwin (long sea voyage) and Wallace (south-east Asia) worked independently and their ideas were presented together in 1858. Darwin published On the Origin of Species in 1859. Below, a jar of seeds with cold and dry symbols shows a seedbank storing biodiversity." loading="lazy">
+  <figcaption>Two naturalists reached natural selection independently, and seedbanks keep variation in store.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -171,6 +242,12 @@ Reducing resistance: do not use antibiotics for viral infections, finish prescri
 10. It stores seeds, and so genetic variation, that can restore species if wild populations are lost.
 11. Each independently reached the idea of evolution by natural selection, and their work was presented together.
 12. A group of organisms that can breed together to produce fertile offspring.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-variation-natural-selection-evolution-and--02-resistant-doubling.webp" width="900" height="990" alt="A bar chart of resistant cells over 6 hours, starting at 5 cells and doubling every 30 minutes. The bars stay almost flat for the first hours and then climb to 20 480 after 12 doublings. The calculation 5 x 2^12 = 5 x 4096 = 20 480 is shown below." loading="lazy">
+  <figcaption>Five resistant cells become 20 480 after twelve 30-minute doublings.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

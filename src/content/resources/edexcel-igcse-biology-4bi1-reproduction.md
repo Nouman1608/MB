@@ -57,6 +57,12 @@ Sexual reproduction gives **variation**, so some offspring may survive a change 
 
 **Fertilisation** is the fusion of a male gamete with a female gamete. The nuclei join to form a single cell, the **zygote**. The zygote divides by mitosis again and again, and the ball of cells develops into an **embryo**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
+</figure>
+
+
 ## Flowering plants
 
 ### Flower structure and pollination (3.3)
@@ -89,6 +95,17 @@ An insect-pollinated flower must **attract** an insect and make it touch the ant
 
 Name the feature, then link it to the job. A feature alone earns nothing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--02-flower-parts.webp" width="900" height="880" alt="Half-flower diagram labelling petal, sepal, and the male stamen (anther on a filament) and female carpel (stigma, style, ovary with ovules), each with its function." loading="lazy">
+  <figcaption>Label the parts of a flower and say what each does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--03-wind-vs-insect.webp" width="900" height="1000" alt="Two flowers compared: an insect-pollinated flower with large coloured petals, anthers and stigma inside and sticky or spiky pollen, and a wind-pollinated flower with small green petals, anthers and feathery stigma hanging outside and light smooth pollen made in huge numbers." loading="lazy">
+  <figcaption>Compare the features of insect- and wind-pollinated flowers.</figcaption>
+</figure>
+
+
 ### From pollen tube to seed and fruit (3.4)
 
 <!-- marlbridge-diagram:bio-b15-pollen-tube-fertilisation-path -->
@@ -107,6 +124,17 @@ Name the feature, then link it to the job. A feature alone earns nothing.
 7. The **ovary becomes the fruit**, which protects the seeds and often helps disperse them.
 
 Keep the two terms apart: pollination moves pollen; fertilisation fuses nuclei.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--09-seed-and-fruit.webp" width="900" height="980" alt="Left: an ovary containing four ovules. Right: after fertilisation the ovary has become the fruit, which protects the seeds and often helps disperse them, and each ovule has become a seed with a seed coat (testa) and an embryo plant inside. Common error: the ovary does not become the seed." loading="lazy">
+  <figcaption>After fertilisation the ovule becomes the seed and the ovary becomes the fruit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--04-pollen-tube.webp" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
+  <figcaption>Follow pollen from the stigma to fertilisation in the ovule.</figcaption>
+</figure>
+
 
 ### Practical: conditions for germination (3.5)
 
@@ -152,6 +180,17 @@ percentage = (number germinated ÷ number set up) × 100
            = 85%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--06-germination-conditions.webp" width="900" height="980" alt="Seeds need three conditions to germinate: water, to activate enzymes and let the seed swell; oxygen, for aerobic respiration; and a suitable temperature, so enzymes work at a useful rate. Worked example: of 60 seeds set up at 20 degrees Celsius, 51 germinated and 9 did not, so percentage germination is 51 divided by 60 times 100, which is 85 percent." loading="lazy">
+  <figcaption>Water, oxygen and a suitable temperature; percentage germination = germinated ÷ set up × 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--08-germination-fair-test.webp" width="900" height="990" alt="Three dishes of seeds are kept at different temperatures while species, number of seeds, water and time are kept the same. Seeds with a visible root are counted; 51 of 60 gives 85% germination." loading="lazy">
+  <figcaption>Only temperature changes; everything else is kept the same and germination is counted as a percentage.</figcaption>
+</figure>
+
+
 ### How a germinating seed uses its food (3.6)
 
 A seed stores food in its **cotyledons** (or in an endosperm). The reserve may contain carbohydrate, protein
@@ -181,6 +220,12 @@ Explanation: stored reserves are broken down and respired [1], releasing carbon 
 
 Dry mass is used because water uptake would hide the loss of food in fresh mass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--07-dry-mass-germination.webp" width="900" height="1000" alt="Graph of mean dry mass against days. Over the first five days the dry mass of bean seeds falls from 0.80 grams to 0.62 grams, a decrease of 22.5 percent, because stored food is respired and carbon dioxide and water are lost. The dashed sketch shows the dry mass rising later, once the first leaves photosynthesise and make more glucose than respiration uses. The later rise is a schematic sketch, not measured data." loading="lazy">
+  <figcaption>Dry mass falls while stored food is respired, then rises once the seedling photosynthesises.</figcaption>
+</figure>
+
+
 ### Asexual reproduction in plants (3.7)
 
 <!-- marlbridge-diagram:bio-b18-runners-cuttings -->
@@ -200,6 +245,12 @@ Dry mass is used because water uptake would hide the loss of food in fresh mass.
 4. plants it in damp compost and covers it with a clear plastic bag to keep the air humid.
 
 Cuttings can produce many plants quickly and cheaply. Clones usually share the same genotype, so they may share susceptibility to a pathogen; disease still depends on exposure and growing conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--08-runners-and-cuttings.webp" width="900" height="1010" alt="Top: a strawberry plant sends out a runner, a side stem along the soil; roots and shoots grow at a point along it to form a new plant. Bottom: four steps for a cutting. 1 cut a short shoot just below a node; 2 remove the lower leaves to reduce water loss by transpiration; 3 dip the cut end in rooting powder, which contains plant hormones that stimulate root growth; 4 plant in damp compost and cover with a clear plastic bag to keep the air humid. Both methods use mitosis, so the new plants are genetically identical to the parent." loading="lazy">
+  <figcaption>Both methods make new plants by mitosis, so every new plant is a clone of the parent.</figcaption>
+</figure>
+
 
 ## Humans
 
@@ -225,6 +276,12 @@ Cuttings can produce many plants quickly and cheaply. Clones usually share the s
 | Cervix | Narrow lower part of the uterus, opening into the vagina | Helps retain the fetus in the uterus; dilates during birth |
 | Vagina | Receives the penis and sperm; birth canal | Muscular and elastic |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--05-reproductive-systems.webp" width="900" height="1240" alt="Front-view schematics of the male (testes in scrotum, sperm ducts, prostate gland, urethra, penis) and female (ovaries, oviducts, uterus, cervix, vagina) systems with the function of each part." loading="lazy">
+  <figcaption>Identify the parts of the human reproductive systems and their jobs.</figcaption>
+</figure>
+
+
 ### The menstrual cycle (3.9, 3.10B)
 
 A typical cycle lasts about 28 days, starting on the first day of bleeding.
@@ -249,6 +306,18 @@ At lower or early-cycle concentrations, oestrogen usually inhibits FSH and LH re
 
 High progesterone and no bleeding alone are compatible with pregnancy but do not prove it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--09-fsh-lh-feedback.webp" width="900" height="970" alt="FSH and LH pass from the pituitary gland to the ovary. Oestrogen inhibits FSH and stimulates the LH surge; progesterone inhibits both FSH and LH. Paper 2 only." loading="lazy">
+  <figcaption>FSH and LH act on the ovary, and oestrogen and progesterone feed back to the pituitary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
+</figure>
+
+
+
 ### The placenta and nutrition (3.11)
 
 <!-- marlbridge-diagram:bio-b21-placental-villus-cross-section -->
@@ -264,6 +333,12 @@ Oxygen, carbon dioxide and urea cross mainly by diffusion. Glucose, amino acids 
 
 The placenta has a **large surface area** (many villi), a **thin barrier** for a short diffusion distance, and a **good blood supply** on both sides to keep concentration gradients steep.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--07-placenta-exchange.webp" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Extended panel: oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross." loading="lazy">
+  <figcaption>Show what the placenta does and what crosses it.</figcaption>
+</figure>
+
+
 ### Amniotic fluid (3.12)
 
 The embryo develops inside a bag, the amnion, filled with **amniotic fluid**. The fluid supports the embryo and acts as a **shock absorber**, cushioning it from knocks and pressure. It also gives the embryo space to move.
@@ -276,6 +351,12 @@ At puberty, sex hormones promote reproductive maturation and many secondary sexu
 - **Oestrogen** from the ovaries supports the menstrual cycle and contributes to breast development and widening hips.
 
 Pubic and underarm hair grows in many people of all sexes; adrenal androgens contribute. Growth of the penis and testes and the start of sperm production are primary reproductive changes, not secondary sexual characteristics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-reproduction--07-puberty-secondary-characteristics.webp" width="900" height="1290" alt="Two body outlines are labelled with the changes at puberty. Testosterone from the testes causes facial and body hair, a deeper voice, muscle growth, testis and penis growth and sperm production. Oestrogen from the ovaries causes breast development, wider hips and the start of the menstrual cycle. Both sexes grow pubic and underarm hair." loading="lazy">
+  <figcaption>Testosterone and oestrogen bring about the secondary sexual characteristics at puberty.</figcaption>
+</figure>
+
 
 ## Common errors
 

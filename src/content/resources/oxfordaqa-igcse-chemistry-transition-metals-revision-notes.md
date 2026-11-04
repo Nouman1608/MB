@@ -64,6 +64,32 @@ Mercury is liquid at room temperature. It melts at −39 °C, lower than any Gro
 
 **Small reminder.** Silver (10.5 g/cm³) against rubidium (1.53 g/cm³): 10.5 ÷ 1.53 = 6.9, so silver is about seven times as dense.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--03-transition-position.webp" width="900" height="694" alt="First four periods of the periodic table with Group 1 metals shaded gold and the ten period 4 transition metals Sc to Zn shaded teal in the central block between Group 2 and Group 3." loading="lazy">
+  <figcaption>The transition metals form the central block between Groups 2 and 3, scandium to zinc in period 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--04-transition-vs-group1-data.webp" width="900" height="1118" alt="Bar charts of the lesson data. Transition metals Ti, Ag and W have much higher melting points than Na, Rb and Cs; mercury melts at minus 39 degrees C, below every Group 1 metal, but is still much denser than all of them." loading="lazy">
+  <figcaption>Transition metals are denser and melt higher than Group 1, except mercury for melting point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--02-tm-oxygen-reactivity.webp" width="900" height="985" alt="Sodium is stored under oil because a cut surface dulls in seconds. A bright iron nail stays shiny for days in dry air. Heated copper slowly forms black copper(II) oxide, 2Cu + O2 gives 2CuO." loading="lazy">
+  <figcaption>Group 1 metals react with oxygen in seconds; transition metals are slower or need heating.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--06-transition-elements.webp" width="900" height="1226" alt="Four panels: a balance where an iron block outweighs an equal sodium block; melting-point bars (Na 98 °C, Fe 1538 °C); coloured transition-metal solutions beside colourless NaCl; and Fe or MnO2 as catalysts." loading="lazy">
+  <figcaption>Transition elements are dense, high-melting, form coloured compounds and often act as catalysts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp" width="900" height="900" alt="Three beakers show lithium fizzing steadily, sodium fizzing and possibly melting into a ball, and potassium igniting the hydrogen. Hydrogen bubbles rise in each and the solution becomes alkaline. Reactivity increases down the group; melting point decreases and density increases." loading="lazy">
+  <figcaption>Group I metals react with cold water to give hydrogen and an alkaline solution, more vigorously down the group.</figcaption>
+</figure>
+
+
 ## Ions with different charges
 
 | Element | Ions | Example |
@@ -89,6 +115,17 @@ Worked reminder: V₂O₅ has 5 × 2− = 10− in total. Two vanadium ions shar
 2. Choose enough negative ions to balance it.
 3. Use brackets for a group ion that appears more than once: Fe(NO₃)₃.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--01-tm-charge-balance.webp" width="900" height="940" alt="Three charge-balance pictures: two Cu+ ions balance one S2- (Cu2S, copper(I) sulfide), one Co3+ balances three F- (CoF3), one Fe3+ balances three NO3- (Fe(NO3)3). The Roman numeral is the charge on the metal ion." loading="lazy">
+  <figcaption>Charges are balanced by counting tokens, which gives the name and formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
+  <figcaption>Iron forms two stable ions, iron(II) and iron(III), unlike Group I metals.</figcaption>
+</figure>
+
+
 ## Coloured compounds
 
 | Compound or ion | Colour |
@@ -112,6 +149,12 @@ Zinc and anhydrous copper(II) sulfate are the reason the specification says **ma
 
 The number of hydroxide ions equals the charge on the metal ion. Iron(II) and iron(III) are the same element but give different colours.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--01-cations-naoh.webp" width="900" height="1132" alt="Test tubes show each of eight cations after a few drops of NaOH and in excess. Al, Zn dissolve to colourless; Ca, Cu, Fe(II), Fe(III) stay as precipitates (white, pale blue, green browning, red-brown); Cr(III) green precipitate dissolves. Ammonium gives no precipitate but releases ammonia on warming." loading="lazy">
+  <figcaption>Eight cations, two stages of NaOH: what you see in the tube.</figcaption>
+</figure>
+
+
 ## Catalysts
 
 | Process | Catalyst | Reaction |
@@ -122,6 +165,22 @@ The number of hydroxide ions equals the charge on the metal ion. Iron(II) and ir
 Why industry uses catalysts: faster reactions give more product in a given time and reduce costs (3.8.1 h). The catalyst is not used up, so it can be used again and again.
 
 How to spot a catalyst from an experiment: with it, the reaction goes faster, and at the end you recover the same mass of it (or see the same colour of solution).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--05-cobalt-catalyst-cycle.webp" width="900" height="740" alt="Three beakers: pink Co2+ solution, then a green Co3+ compound with fizzing gas, then pink again. The cobalt is not used up, and it can act this way because it forms ions with different charges." loading="lazy">
+  <figcaption>Cobalt changes colour and charge during the reaction and is regenerated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--04-tm-industrial-catalysts.webp" width="900" height="993" alt="The Haber process uses an iron catalyst at about 450 C and about 200 atmospheres: N2 + 3H2 gives 2NH3. Stage 2 of the contact process uses a vanadium(V) oxide catalyst: 2SO2 + O2 gives 2SO3." loading="lazy">
+  <figcaption>Two industrial processes that use a transition metal catalyst.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -143,6 +202,12 @@ Exam questions may name a use and ask for the property behind it. Name the prope
 | copper hot-water pipes | does not react with water | reacts with cold water, releasing hydrogen |
 | iron catalyst in ammonia production | catalyst; solid at about 450 °C | would be liquid, and is far too reactive |
 | coloured pottery glazes | coloured compounds | compounds are white |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-transition-metals--03-tm-property-to-use.webp" width="900" height="970" alt="Titanium (melts 1668 C) for aircraft frames and tungsten (3422 C) for filaments are compared with sodium at 98 C. Copper pipes do not react with water, but sodium reacts with cold water and releases hydrogen." loading="lazy">
+  <figcaption>Each use follows from a property that Group 1 metals lack.</figcaption>
+</figure>
+
 
 ## Where 3.7.2 links to other sections
 

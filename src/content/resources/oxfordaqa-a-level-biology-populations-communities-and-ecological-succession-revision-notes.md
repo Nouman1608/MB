@@ -55,6 +55,12 @@ These notes condense section 3.3.1 of the OxfordAQA International AS and A-level
 
 **Worked reminder.** Aphids rise from 480 to 1200 per plant between week 2 and week 6. Percentage change = (1200 − 480) / 480 × 100 = **+150%**. The starting figure is the divisor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--08-population-growth.webp" width="900" height="900" alt="Counts of a mammal population on a predator-free island rise from 20 to about 200 in an S-shaped curve. The greatest yearly increase (+45) is between years 3 and 4; growth then slows and levels off at the carrying capacity. Population change equals births plus immigration minus deaths plus emigration." loading="lazy">
+  <figcaption>Limiting factors make growth level off at the carrying capacity.</figcaption>
+</figure>
+
+
 ## Analysing data: correlation and cause
 
 - A **positive correlation** means both variables rise together. A **negative correlation** means one rises as the other falls.
@@ -102,6 +108,12 @@ These notes condense section 3.3.1 of the OxfordAQA International AS and A-level
 
 **Evaluation points:** edge effects (more light at the tray edge), one harvest time only, small number of replicates, seedlings of different size at the start.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--03-biomass-calorimetry.webp" width="900" height="1180" alt="A fresh 250 g sample is dried until its mass is constant at 62 g, so 188 g (75.2%) was water. A 0.50 g dried portion burned under 50.0 g of water raises the water 20.0 to 54.0 degrees C, giving 7 106 J and 14.2 kJ per gram, an underestimate because heat escapes." loading="lazy">
+  <figcaption>Dry to constant mass, then burn a portion under water to find energy per gram.</figcaption>
+</figure>
+
+
 ## 3.3.1.3 Primary succession
 
 **Primary succession** starts on newly formed or exposed land that has no soil, such as bare rock, new sand or volcanic ash. **Pioneer species** arrive first and a **climax community** forms at the end.
@@ -118,6 +130,12 @@ These notes condense section 3.3.1 of the OxfordAQA International AS and A-level
 **Biodiversity and succession.** Early on, harsh conditions allow few species. As soil develops, more niches appear and species number rises. Near the climax it may level off or fall, because dense canopy reduces light and a few dominant species out-compete others.
 
 **Worked reminder.** A dune system has 4 plant species per 100 m² on the young dune and 26 on the older, vegetated dune. Increase = (26 − 4) / 4 × 100 = **+550%**. The older dune has deeper soil and more organic matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
 
 ## Conservation and managing succession
 
@@ -173,6 +191,12 @@ Costs: lost income, ongoing labour. Benefits: protects species that depend on th
 - Stating that succession simply "adds" species, when the key idea is that earlier species change the environment.
 - Writing that biodiversity always increases through succession.
 - Naming a management method without saying which stage it holds the habitat at.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

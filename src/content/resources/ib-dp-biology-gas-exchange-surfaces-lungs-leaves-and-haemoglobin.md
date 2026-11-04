@@ -55,6 +55,12 @@ Size creates the challenge. As an organism gets larger, volume grows more quickl
 
 The side is four times longer, but the ratio is four times smaller. A small organism can rely on its body surface. A large one needs a specialised exchange surface and, usually, a transport system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--01-surface-volume.webp" width="900" height="930" alt="Two cubes drawn to the same scale: a 2 mm cube has surface area 24 mm2, volume 8 mm3 and ratio 3.0 per mm; an 8 mm cube has 384 mm2, 512 mm3 and ratio 0.75 per mm. The side is four times longer but the ratio four times smaller." loading="lazy">
+  <figcaption>As an organism gets bigger its surface-area-to-volume ratio falls, so diffusion across the body surface alone cannot supply the middle.</figcaption>
+</figure>
+
+
 ## B3.1.2 What makes a good exchange surface
 
 An effective surface has four properties:
@@ -63,6 +69,12 @@ An effective surface has four properties:
 - **Thin tissue layer**, often one cell thick, so the diffusion distance is short.
 - **Moist**, because gases dissolve in a film of water before crossing the cell membrane.
 - **Large surface area**, so many molecules can cross at once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--02-exchange-surface.webp" width="900" height="740" alt="A thin, wavy, moist wall separates fresh ventilated air from flowing blood. Oxygen is plentiful in the air and scarce in the blood, carbon dioxide the reverse, so oxygen diffuses in and carbon dioxide out. Labels mark permeable, thin (one cell), moist film and large area." loading="lazy">
+  <figcaption>Ventilation and blood flow keep both gradients steep across a thin, moist, permeable, large-area surface.</figcaption>
+</figure>
+
 
 ## B3.1.3 Maintaining concentration gradients
 
@@ -85,6 +97,12 @@ Limit this to the alveolar lungs of a mammal. Air passes down the trachea into b
 | Thin walls | Alveolar and capillary walls are very thin, so the diffusion path is short |
 | Surfactant | Reduces surface tension in the moist lining, so the alveolar walls do not stick together and the alveoli stay open |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--03-alveoli.webp" width="900" height="1100" alt="Air passes down the trachea into bronchi, then branching bronchioles ending in alveolus clusters wrapped in capillaries. An enlarged alveolus shows a thin wall with a surfactant-containing moist lining and a surrounding capillary network, with O2 diffusing in and CO2 out." loading="lazy">
+  <figcaption>Millions of thin-walled alveoli, each wrapped in capillaries and lined with surfactant, give a large area and a steep gradient.</figcaption>
+</figure>
+
+
 ## B3.1.5 Ventilation of the lungs
 
 Ventilation moves air in and out, which renews the air in the alveoli. It works by changing the volume, and therefore the pressure, of the thorax. Air flows from higher to lower pressure.
@@ -96,6 +114,12 @@ Ventilation moves air in and out, which renews the air in the alveoli. It works 
 **Forced exhalation** (exercise, coughing). The internal intercostal muscles contract and pull the ribs down and in. The abdominal muscles contract and push the abdominal organs and diaphragm upwards. Air leaves faster and more completely.
 
 The muscle sets are **antagonistic**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--04-ventilation.webp" width="900" height="1200" alt="Three front-view diagrams of ribs, lungs and diaphragm. Inhalation: diaphragm flattens, ribs up and out, volume up, pressure down, air in. Quiet exhalation: diaphragm domes, ribs fall, air out. Forced exhalation: ribs pulled down and in and diaphragm pushed up, air leaves faster." loading="lazy">
+  <figcaption>Breathing changes thorax volume, so pressure falls or rises and air flows from higher to lower pressure.</figcaption>
+</figure>
+
 
 ## B3.1.6 Measuring lung volumes
 
@@ -113,6 +137,12 @@ Vital capacity = tidal volume + inspiratory reserve volume + expiratory reserve 
 1. Vital capacity = 0.45 + 2.9 + 1.0 = **4.35 L**.
 2. Ventilation rate in volume terms = 0.45 x 14 = **6.3 L per minute**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--05-lung-volumes.webp" width="900" height="980" alt="A spirometer trace of volume change against time: three quiet breaths, then a maximum breath in and out, with brackets for inspiratory reserve 2.9 L, tidal volume 0.45 L, expiratory reserve 1.0 L and vital capacity 4.35 L. At 14 breaths per minute ventilation is 6.3 L per minute." loading="lazy">
+  <figcaption>Vital capacity = tidal volume + inspiratory reserve + expiratory reserve; residual volume is not measured.</figcaption>
+</figure>
+
+
 ## B3.1.7 How a leaf is built for gas exchange
 
 A leaf must take in carbon dioxide for photosynthesis and release oxygen, while losing as little water as possible.
@@ -122,6 +152,12 @@ A leaf must take in carbon dioxide for photosynthesis and release oxygen, while 
 - **Stomatal guard cells**: pairs of cells that open and close each pore. Open stomata let carbon dioxide in and oxygen out. Closed stomata cut water loss.
 - **Spongy mesophyll**: loosely packed cells with large **air spaces**, so gases diffuse quickly through the leaf and reach every cell. Their moist surfaces are the exchange surface.
 - **Veins**: xylem brings water to the mesophyll to keep the cell surfaces moist, and phloem carries sugars away.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--06-leaf-plan.webp" width="900" height="918" alt="A to-scale plan diagram of a dicot leaf showing tissue layers only: waxy cuticle, upper epidermis, palisade mesophyll, spongy mesophyll with air spaces and a vein (xylem and phloem), lower epidermis with a stoma and guard cells, and lower cuticle. CO2 enters and O2 leaves through the stoma." loading="lazy">
+  <figcaption>Tissue boundaries only, 220 micrometres thick, with gas exchange through the stoma.</figcaption>
+</figure>
+
 
 ## B3.1.8 Distribution of tissues: the plan diagram
 
@@ -153,6 +189,12 @@ volume = pi x r2 x distance = pi x 0.50 x 0.50 x 36 = 28.3 mm3
 rate = 28.3 / 6 = 4.71 mm3 per minute
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--07-transpiration.webp" width="900" height="1050" alt="A potometer with a leafy shoot joined to a horizontal capillary and a beaker of water. The bubble moves 36 mm toward the shoot in 6 minutes. More light, higher temperature, lower humidity and more wind raise the rate. Volume = pi x 0.50^2 x 36 = 28.3 mm3, rate 4.71 mm3 per minute." loading="lazy">
+  <figcaption>A potometer converts bubble movement into a transpiration rate; light, heat, dry air and wind speed it up.</figcaption>
+</figure>
+
+
 ## B3.1.10 Stomatal density
 
 Stomatal density is the number of stomata per unit area of leaf. Make a leaf cast by painting clear varnish on the surface, peeling it off when dry and viewing it at high power. Or count stomata on a micrograph.
@@ -176,6 +218,12 @@ Haemoglobin is a protein of four polypeptide chains, each with a **haem group** 
 **Allosteric binding of carbon dioxide.** Carbon dioxide binds at a site other than the haem group. This changes the shape of haemoglobin and reduces its affinity for oxygen.
 
 **Foetal haemoglobin** is built from different polypeptide chains from adult haemoglobin and has a higher affinity for oxygen than adult haemoglobin. At the same oxygen concentration it is more saturated, so in the placenta oxygen passes from maternal blood to the foetus.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--08-oxygen-dissociation-hl.webp" width="900" height="800" alt="Adult and foetal haemoglobin curves plotted through the lesson data. The adult curve is S-shaped: slow at low oxygen, steep in the middle as binding gets easier, flat when nearly full. The foetal curve lies to the left, showing higher affinity, so oxygen passes from mother to foetus." loading="lazy">
+  <figcaption>Cooperative binding gives the S shape; foetal haemoglobin, further left, has higher affinity than adult.</figcaption>
+</figure>
+
 
 ## B3.1.13 Oxygen dissociation curves (HL only)
 
@@ -201,6 +249,12 @@ More carbon dioxide causes haemoglobin to release more oxygen, shifting the curv
 - Higher carbon dioxide: 95 - 57 = **38** percentage points released.
 
 Actively respiring tissue makes more carbon dioxide, so it gets more oxygen where the demand is greatest. In the lungs, where carbon dioxide is low, loading is almost unaffected (97 against 95).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--09-bohr-shift-hl.webp" width="900" height="900" alt="Normal and higher-CO2 curves plotted through the lesson data; the higher-CO2 curve lies to the right. Lungs at 13 kPa and tissue at 5 kPa release 97 - 72 = 25 percentage points normally but 95 - 57 = 38 with more carbon dioxide." loading="lazy">
+  <figcaption>More carbon dioxide shifts the curve right, so respiring tissue receives more oxygen while lung loading barely changes.</figcaption>
+</figure>
+
 
 ## Common errors
 

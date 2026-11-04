@@ -48,6 +48,12 @@ A cell is a device that transfers energy to charge. Its **emf** ε is the energy
 
 A circuit diagram uses standard symbols joined by straight lines to show how components are connected, not where they sit. An ammeter goes in series with the component it measures. A voltmeter goes in parallel across it. Learn the symbols for a cell, battery, switch, lamp, resistor, variable resistor, thermistor, LDR, ammeter and voltmeter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--01-current-and-pd.webp" width="900" height="1040" alt="A cell of e.m.f. 4.5 V drives current through a lamp, with an ammeter in series and a voltmeter in parallel across the lamp. Conventional current leaves the positive terminal while electrons move the opposite way. For 0.42 A for 900 s the charge is 378 C, about 2.4e21 electrons, and the energy is 1.7e3 J." loading="lazy">
+  <figcaption>Meters in a circuit and Worked example 1: charge, number of electrons and energy.</figcaption>
+</figure>
+
+
 ## Current and potential difference
 
 Direct current is a flow of charge carriers in one direction. In metals the carriers are electrons, but conventional current is drawn in the direction a positive charge would move.
@@ -68,6 +74,12 @@ A **conductor** contains many charge carriers that can move freely. A metal has 
 
 Resistance comes from collisions. Carriers accelerate in the field, then collide with the vibrating ions and transfer energy to them. This energy appears as thermal energy in the lattice. Anything that makes collisions more frequent raises the resistance. In a metal, a higher temperature means larger lattice vibrations and more collisions, so resistance rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--02-origin-of-resistance.webp" width="900" height="1170" alt="An insulator has almost no mobile carriers. In a cooler metal an electron accelerates and collides twice with vibrating ions along the path; in a hotter metal the ions vibrate more and the same path has six collisions, so resistance rises." loading="lazy">
+  <figcaption>More lattice vibration means more collisions, so a metal’s resistance rises with temperature.</figcaption>
+</figure>
+
+
 ## Resistance, resistivity and Ohm's law
 
 Resistance is defined by R = V/I, in ohms (V A⁻¹). It is a ratio at one point. It is not the gradient of a graph unless the graph is a straight line through the origin.
@@ -86,6 +98,12 @@ Resistivity ρ belongs to the material (at a given temperature). Its unit is the
 
 **Ohm's law:** for a conductor at constant temperature, the current is directly proportional to the p.d. across it. A device that obeys this is ohmic, and its V against I graph is a straight line through the origin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--03-resistivity-wire.webp" width="900" height="1030" alt="R = ρL/A for a nichrome wire of length 2.5 m and diameter 0.40 mm gives 22 ohms. Doubling the diameter quadruples the area and cuts R to 5.5 ohms; doubling the length doubles R to 44 ohms. Lengths, diameters and areas are drawn to scale." loading="lazy">
+  <figcaption>How length and diameter change resistance (Worked example 2).</figcaption>
+</figure>
+
+
 ## Ohmic and non-ohmic behaviour, and heating
 
 A metal wire at constant temperature is ohmic. A filament lamp is not: as current rises, the filament heats up, the lattice vibrates more, and R increases. The I–V graph bends towards the V axis. A thermistor and an LDR are also non-ohmic.
@@ -95,6 +113,12 @@ A metal wire at constant temperature is ohmic. A filament lamp is not: as curren
 - R at 3.0 V: 3.0 ÷ 0.25 = 12 Ω.
 - R at 9.0 V: 9.0 ÷ 0.50 = 18 Ω.
 - Tripling the p.d. did not triple the current, so the lamp is non-ohmic. The rise in R matches the rise in filament temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--04-ohmic-non-ohmic.webp" width="900" height="1160" alt="A metal wire at constant temperature gives a straight I–V line through the origin (12 ohm). A filament lamp gives a curve bending towards the V axis: 0.25 A at 3.0 V (12 ohm) and 0.50 A at 9.0 V (18 ohm). R is V/I at a point, not a gradient." loading="lazy">
+  <figcaption>Straight line for an ohmic wire, curve for a filament lamp, using Worked example 3.</figcaption>
+</figure>
+
 
 ## Electrical power
 
@@ -109,6 +133,12 @@ Choose the form that uses the quantities you know. Use I²R when the same curren
 - I = P/V = 36 ÷ 12 = 3.0 A.
 - R = V²/P = 12² ÷ 36 = 4.0 Ω.
 - Energy in 5.0 minutes: W = Pt = 36 × 300 = 1.1 × 10⁴ J.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--05-electrical-power.webp" width="900" height="1210" alt="A heater rated 36 W at 12 V draws 3.0 A and has resistance 4.0 ohm. P against V and P against I are parabolas for the 4.0 ohm resistor; halving V or I gives a quarter of the power. Over 300 s the energy is about 1.1e4 J." loading="lazy">
+  <figcaption>P = IV = I²R = V²/R, with the heater of Worked example 4.</figcaption>
+</figure>
+
 
 ## Resistors in series and parallel
 
@@ -127,6 +157,12 @@ Adding a resistor in series always raises the total. Adding one in parallel alwa
 - p.d. across the pair = 0.75 × 7.2 = 5.4 V. (Check: across the 4.8 Ω resistor, 0.75 × 4.8 = 3.6 V, and 5.4 + 3.6 = 9.0 V.)
 - Branch currents: 5.4 ÷ 12 = 0.45 A and 5.4 ÷ 18 = 0.30 A, which sum to 0.75 A.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--06-series-parallel.webp" width="900" height="1200" alt="A 9.0 V cell drives a 4.8 ohm resistor in series with 12 ohm and 18 ohm in parallel. The pair is 7.2 ohm, total 12.0 ohm, current 0.75 A, with 3.6 V and 5.4 V sharing the supply and branch currents 0.45 A and 0.30 A." loading="lazy">
+  <figcaption>Worked example 5 solved on the circuit.</figcaption>
+</figure>
+
+
 ## Emf and internal resistance
 
 A real cell has resistance r inside it. Charge must pass through this as well as the external resistance R, so
@@ -141,6 +177,12 @@ The terminal p.d. is V = IR = ε − Ir. The term Ir is the p.d. wasted inside t
 - Equate: 5.0 + r = 4.0 + 2.0r, so r = 1.0 Ω.
 - ε = 1.0 × 6.0 = 6.0 V.
 - Terminal p.d. in the first case = 1.0 × 5.0 = 5.0 V, and 1.0 V is lost inside the cell.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--07-internal-resistance.webp" width="900" height="1160" alt="A cell drives 1.0 A through 5.0 ohm and 2.0 A through 2.0 ohm, so r = 1.0 ohm and e.m.f. 6.0 V. The terminal p.d. is 5.0 V in the first case with 1.0 V lost inside. A V–I graph is a straight line with intercept 6.0 V, gradient −1.0 ohm and short-circuit current 6.0 A." loading="lazy">
+  <figcaption>Worked example 6 as a circuit and as a V–I graph.</figcaption>
+</figure>
+
 
 ## Variable resistors and ideal meters
 
@@ -157,6 +199,12 @@ A thermistor or LDR in series with a fixed resistor forms a potential divider, a
 - The p.d. across the thermistor falls as it warms, and the p.d. across the fixed resistor rises.
 
 An **ideal ammeter** has zero resistance. An **ideal voltmeter** has infinite resistance, so it draws no current. If a question gives a non-ideal meter, treat its resistance as constant and include it in the circuit like any resistor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--08-variable-dividers.webp" width="900" height="1230" alt="A 6.0 V supply across a 3.0 kilohm resistor and an NTC thermistor: at 25 °C the thermistor is 1.5 kilohm and has 2.0 V; when hot it is 0.50 kilohm and has 0.86 V. A potentiometer slider one third up the track gives 2.0 V, and the output can be set from 0 to 6.0 V." loading="lazy">
+  <figcaption>A thermistor divider and a potentiometer both share the supply p.d. in proportion to resistance.</figcaption>
+</figure>
+
 
 ## Sources of electrical energy
 

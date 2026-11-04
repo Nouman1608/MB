@@ -85,6 +85,12 @@ Receptor, then sensory neurone, then relay neurone, then motor neurone, then eff
 
 Small reminder: path length 0.60 m at 60 m s⁻¹ takes 0.60 / 60 = 0.010 s = 10 ms. With two synapses at 0.5 ms each, total = 10 + 1.0 = 11 ms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--01-reflex-arc.webp" width="900" height="1270" alt="A cross-section of the spinal cord shows the reflex pathway from a hot stimulus. The receptor excites a sensory neurone whose cell body lies in the dorsal root swelling; it synapses with a relay neurone in the grey matter, which synapses with a motor neurone leaving by the ventral root to a muscle. Impulses also pass up the white matter to the brain. The lesson example gives a 20 ms reflex time." loading="lazy">
+  <figcaption>The three-neurone reflex arc: receptor, sensory, relay and motor neurones, effector (Edexcel adds roots and grey/white matter).</figcaption>
+</figure>
+
+
 ## Required practical 10 in brief
 
 | Item | Notes |
@@ -114,6 +120,17 @@ Worked reminder: 50 larvae, 32 in the dark half and 18 in the light half. E = 25
 Small reminder: resting −70 mV, threshold −55 mV. A potential of −58 mV is a change of +12 mV, so no action potential. A potential of −50 mV is +20 mV, so an action potential.
 
 The retina in brief: light passes through the layers of neurones to reach the photoreceptors. Rods and cones pass signals to bipolar neurones, then to the sensory neurones of the optic nerve. The differences between rods and cones come from their **pigments** and their **connections**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--04-action-potential.webp" width="900" height="1010" alt="A graph of membrane potential against time rests at -70 mV, depolarises past the -55 mV threshold to +40 mV, repolarises as K+ leaves, dips below -70 mV (hyperpolarisation) and returns to rest. Bars show Na+ channels open on the rising phase and K+ channels open on the falling phase. A 2.5 ms refractory period limits the frequency to 400 impulses per second." loading="lazy">
+  <figcaption>Membrane potential during one action potential, with channel activity and the refractory period.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--07-pacinian-corpuscle.webp" width="900" height="1130" alt="A Pacinian corpuscle has concentric lamellae separated by gel, with a sensory neurone ending at the centre. Pressure stretches the membrane and widens stretch-mediated Na+ channels, so Na+ enters and the membrane depolarises: the generator potential. In the lesson example pressures of 0.5, 1.0 and 1.5 kPa give 6, 12 and 18 mV; only 1.5 kPa passes the 15 mV needed to reach threshold and fire an action potential." loading="lazy">
+  <figcaption>Pressure opens stretch-mediated Na+ channels; only a generator potential reaching threshold fires an impulse.</figcaption>
+</figure>
+
 
 ## Rods and cones
 
@@ -180,6 +197,12 @@ Exam wording to use: for sensitivity, write "summation"; for acuity, write "sepa
 - Describing acuity with no mention of the one-to-one connection of cones.
 - Giving a chi-squared conclusion as proof instead of "significant at p = 0.05".
 - Missing control variables in required practical 10 answers, or forgetting humane treatment of the animals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--02-saltatory-conduction.webp" width="900" height="1080" alt="Two axons are compared. In the non-myelinated axon every patch of membrane depolarises in turn, with local current flowing to the next patch. In the myelinated axon, Schwann cell myelin insulates the axon so the local current runs from node of Ranvier to node and the impulse jumps between nodes. In the lesson example the myelinated axon conducts at 70 m/s and the non-myelinated at 2.0 m/s, 35 times slower." loading="lazy">
+  <figcaption>Myelin makes the action potential jump from node to node, so conduction is much faster.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

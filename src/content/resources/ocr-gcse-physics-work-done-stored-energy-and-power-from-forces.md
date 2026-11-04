@@ -84,6 +84,17 @@ W = 120 × 0 = 0 J
 
 The upward force does **no work** on the suitcase. The porter still gets tired, but that is because muscles use energy to hold the load, not because work is done on the case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces--03-work-force-along-movement.webp" width="900" height="970" alt="A trolley pushed by 85 N for 6.4 m along the force has 544 J of work done. A suitcase carried sideways 30 m by a 120 N upward force has 0 m along the force, so 0 J." loading="lazy">
+  <figcaption>Only movement along the line of action of the force counts as work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--05-work-done.webp" width="900" height="690" alt="A 40 N force arrow pushes a crate 6 m, shown by a dimension line. Work done is 40 x 6 = 240 J, the energy transferred." loading="lazy">
+  <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
+</figure>
+
+
 ## The energy transfer involved (P2.2m)
 
 You must describe where the energy goes. The answer depends on what the work does.
@@ -107,6 +118,12 @@ W = F × s = 18 × 25 = 450 J
 
 The sledge is not speeding up, so its kinetic energy store is not changing. The 450 J is transferred to the thermal energy stores of the runners and the track. **The track and sledge get slightly warmer.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces--01-work-energy-destinations.webp" width="900" height="1045" alt="Four rows: lifting at steady speed gives energy to the gravitational potential store; speeding up increases the kinetic store; pulling against friction at constant speed warms the object and surface; braking lowers the kinetic store and raises thermal stores." loading="lazy">
+  <figcaption>Work done equals the energy transferred, and where it goes depends on what the force does.</figcaption>
+</figure>
+
+
 ## Stored energy and energy transfers (P2.2n)
 
 Two stores that change when forces do work are gravitational potential energy and kinetic energy. The specification lists their equations as ones to recall and apply:
@@ -127,6 +144,12 @@ GPE gain = m × g × h = 4.5 × 10 × 3.2 = 144 J
 ```
 
 The work done by the lifting force (144 J) equals the energy stored. The two methods give the same answer because lifting at steady speed uses a force equal to the weight, so F × s = m × g × h.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces--02-lift-work-equals-gpe.webp" width="900" height="830" alt="A 4.5 kg bucket lifted 3.2 m at steady speed needs a 45 N force equal to its weight. Work done 45 x 3.2 = 144 J equals the GPE gained 4.5 x 10 x 3.2 = 144 J." loading="lazy">
+  <figcaption>Lifting at steady speed: work done equals gravitational potential energy gained (144 J).</figcaption>
+</figure>
+
 
 ### Worked example 6: kinetic energy and braking distance
 
@@ -151,9 +174,26 @@ s = 22.5 m
 
 The car stops in **22.5 m** under braking. The energy ends up in thermal stores of the brakes, tyres and road.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces--01-braking-work-energy.webp" width="900" height="940" alt="A car of 1200 kg at 15 m/s is stopped by a 6000 N brake force over 22.5 m. Its 135000 J of kinetic energy is transferred to thermal stores. W = F x s = 135000 J." loading="lazy">
+  <figcaption>Work done by the brakes equals the kinetic energy removed.</figcaption>
+</figure>
+
+
 ### Newton-metres and joules
 
 One joule is the work done when a force of 1 newton moves an object 1 metre along the line of action of the force. So 1 N m = 1 J. If a question gives work in N m, you can write it in J with no change to the number. Take care with prefixes: 3.5 kJ = 3,500 J and 2 MJ = 2,000,000 J.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces--04-work-triangle-and-units.webp" width="900" height="1010" alt="A W, F, s formula triangle with the three rearrangements and worked values 70 x 18 = 1260 J, 1260 / 18 = 70 N and 450 / 36 = 12.5 m. 1 N m = 1 J, 3.5 kJ = 3500 J, 2 MJ = 2 000 000 J." loading="lazy">
+  <figcaption>Cover the unknown in the triangle; 1 N m is 1 J.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--04-kinetic-energy-graph.webp" width="900" height="880" alt="Graph of Ek in kJ against speed for a 1500 kg car. Ek is 300 kJ at 20 m/s and 1200 kJ at 40 m/s, so doubling speed gives four times the energy." loading="lazy">
+  <figcaption>Because v is squared, doubling speed quadruples kinetic energy.</figcaption>
+</figure>
+
 
 ## Power (P2.2o)
 
@@ -195,6 +235,12 @@ The 800 W figure is a different motor, given to practise rearranging for time.
 Two people may do the same work in different times. If two students each climb the same stairs, the one who gets to the top faster has the greater power, even though both do the same work. Power also depends on the work: a heavier person climbing in the same time has more power.
 
 Power is not the same as energy. Energy is the amount transferred (J). Power is how fast it is transferred (W). A high-power device can still transfer a small amount of energy if it runs for a very short time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--06-power-graph.webp" width="900" height="810" alt="Energy against time graph. A 400 W motor reaches 6000 J in 15 s. A 200 W motor needs 30 s for the same energy. A steeper line means more power." loading="lazy">
+  <figcaption>Power is energy transferred per second.</figcaption>
+</figure>
+
 
 ## Common errors
 

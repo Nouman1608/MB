@@ -63,6 +63,17 @@ Photosynthesis is an **endothermic** reaction: energy is transferred **from the 
 chloroplasts by light**. The chlorophyll in the chloroplasts absorbs the light. This links to the structure
 of the leaf, which you met in the Organisation topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-bioenergetics--07-endothermic-exothermic.webp" width="900" height="860" alt="Energy-level pictures: photosynthesis takes light energy in (endothermic); respiration gives energy out (exothermic)." loading="lazy">
+  <figcaption>Photosynthesis is endothermic; respiration is exothermic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
+</figure>
+
+
 ## 4.4.1.2 Rate of photosynthesis
 
 ### The four factors
@@ -75,6 +86,12 @@ of the leaf, which you met in the Organisation topic.
 A **limiting factor** is the factor in shortest supply, which stops the rate increasing. On a graph with one
 factor on the x-axis, the rising part of the line shows that factor is limiting. Where the line levels off,
 something else has become limiting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-bioenergetics--05-temperature-chlorophyll-rate.webp" width="900" height="1150" alt="Illustrative graphs: rate peaks at an optimum temperature then falls as enzymes denature; rate rises with chlorophyll amount." loading="lazy">
+  <figcaption>Temperature has an optimum; less chlorophyll means a lower rate.</figcaption>
+</figure>
+
 
 ### Measuring the rate -- required practical 6
 
@@ -112,6 +129,12 @@ rate = volume of oxygen ÷ time
 
 State the unit. A rate is always "something per unit time".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--05-pondweed-light-distance.webp" width="900" height="1090" alt="A lamp shines on pondweed; the lamp distance changes light intensity and bubbles are counted. Bar chart of means: 42 at 10 cm, 30 at 20 cm, 19 at 30 cm, 10 at 40 cm. Closer lamp gives a faster rate." loading="lazy">
+  <figcaption>The closer the lamp, the more bubbles per minute.</figcaption>
+</figure>
+
+
 ### Interacting factors (Higher tier only)
 
 <!-- marlbridge-diagram:complete-bio-photosynthesis-rate-curves -->
@@ -130,6 +153,12 @@ intensity at two CO₂ concentrations:
 
 To decide which factor is limiting at a point: if raising that factor would still raise the rate, it is the
 limiting factor. If two lines at different CO₂ levels are separate at a point, CO₂ is limiting there.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
+</figure>
+
 
 ### The inverse square law (Higher tier only)
 
@@ -154,6 +183,12 @@ A light meter reads 400 units when a lamp is 10 cm from the pondweed. Find the r
                   = 64 units
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-bioenergetics--06-inverse-square-law.webp" width="900" height="1100" alt="Lamp and meter positions at 10, 20 and 25 cm read 400, 100 and 64 units. A curve I = 400 x (10/d)^2 passes through them; doubling the distance divides intensity by 4. Higher tier only." loading="lazy">
+  <figcaption>Doubling the distance cuts light intensity to one quarter (Higher tier only).</figcaption>
+</figure>
+
+
 ### Greenhouse economics (Higher tier only)
 
 Growers can add heat, light or CO₂ to a greenhouse to raise the rate of photosynthesis and yield. Each
@@ -176,6 +211,17 @@ Lamps:    extra income = 20 × 2.40 = £48
 
 The figures show that the lamps increase yield by 20 kg, but the extra crop is worth only £48 while the lamps cost £150, so using them would reduce profit by £102 a week. This economic result does not show that light has no biological effect: it shows that the modelled yield increase is too small to pay for the lamps under these conditions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-bioenergetics--03-greenhouse-economics.webp" width="900" height="800" alt="Bars of income and cost for paraffin (216 vs 120, gain 96) and lamps (48 vs 150, loss 102)." loading="lazy">
+  <figcaption>Only add a factor if the extra crop is worth more than the cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-bioenergetics--06-rate-calculation-oxygen.webp" width="900" height="870" alt="Gas syringe with 6.0 cm3 of oxygen, a 5 minute clock, and rate = 6.0 / 5 = 1.2 cm3 per minute." loading="lazy">
+  <figcaption>Rate = volume of oxygen divided by time, with a unit.</figcaption>
+</figure>
+
+
 ## 4.4.1.3 Uses of glucose from photosynthesis
 
 The glucose made in photosynthesis may be:
@@ -189,6 +235,17 @@ The glucose made in photosynthesis may be:
 To make proteins, plants also need **nitrate ions**, absorbed from the soil. Starch, glucose and protein can be
 identified with simple qualitative reagents (iodine for starch, Benedict's test for sugars, Biuret reagent for protein),
 the same tests used in the Organisation topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-bioenergetics--04-glucose-uses.webp" width="900" height="950" alt="Glucose with arrows to respiration, starch, fat or oil, cellulose and amino acids (with nitrate ions)." loading="lazy">
+  <figcaption>Glucose has five uses in the plant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
 
 ## 4.4.2.1 Aerobic and anaerobic respiration
 
@@ -231,6 +288,17 @@ rise) and **alcoholic drinks** (the ethanol).
 
 Anaerobic respiration transfers much less energy because the oxidation of glucose is **incomplete**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
+
 ## 4.4.2.2 Response to exercise
 
 During exercise, muscles need more energy. The body responds:
@@ -257,6 +325,22 @@ increase = 153 − 68 = 85
 
 Divide by the starting value (68), not the final one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--06-exercise-breathing.webp" width="900" height="960" alt="Lesson example: at rest 16 breaths per minute, after two minutes of skipping 44 (2.75 times). Depth rises from 0.5 to 2.0 dm3 per breath (4 times). Air moved per minute rises from 8 to 88 dm3, 11 times, because rate times depth gives volume per minute." loading="lazy">
+  <figcaption>Exercise raises both the rate and depth of breathing, so air moved per minute rises 11 times.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Extended panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
+  <figcaption>After exercise the mean heart rate rose from 74 to 118 beats per minute, a 59% increase.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--05-oxygen-debt.webp" width="900" height="1290" alt="Extended. Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after." loading="lazy">
+  <figcaption>Fast heart rate moves lactic acid to the liver and fast breathing supplies the oxygen to break it down.</figcaption>
+</figure>
+
+
 ## 4.4.2.3 Metabolism
 
 **Metabolism** is the sum of all the reactions in a cell or the body. The energy transferred by respiration is
@@ -272,6 +356,12 @@ Metabolism includes:
 
 The small units are the key: sugars build carbohydrates, amino acids build proteins, and fatty acids plus
 glycerol build triglycerides. Phospholipids and steroids are other types of lipid with different structures. Breaking the large molecules down releases the small units again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-bioenergetics--07-metabolism-building-blocks.webp" width="900" height="980" alt="Glucose joins to make starch, glycogen and cellulose; one glycerol and three fatty acids make a lipid; amino acids make a protein, with excess protein broken down to urea." loading="lazy">
+  <figcaption>Small units are built into carbohydrates, lipids and proteins.</figcaption>
+</figure>
+
 
 ## Common errors
 

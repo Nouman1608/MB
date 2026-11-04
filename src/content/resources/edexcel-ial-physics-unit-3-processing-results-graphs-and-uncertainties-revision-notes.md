@@ -36,6 +36,12 @@ The specification states that students are not expected to compound percentage u
 | Anomaly | A result that does not fit the trend; check it and repeat it |
 | Zero error | A reading of non-zero when the quantity measured is actually zero |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
+
 ## Formulae and rules
 
 | Quantity | Rule |
@@ -46,6 +52,12 @@ The specification states that students are not expected to compound percentage u
 | Gradient | (y₂ − y₁) / (x₂ − x₁), from two points on the best-fit line |
 | Straight line | y = mx + c |
 | Final answer | Same s.f. as the least precise data; carry extra digits in working |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--05-cylinder-sig-figs-density.webp" width="900" height="780" alt="A cylinder with m = 52.3 g, d = 2.46 cm and l = 7.35 cm. Volume 34.93 cm3 and density 1.497 g/cm3 are worked with spare digits, then the answer is given as 1.50 g/cm3 (3 s.f.), not 1.497112." loading="lazy">
+  <figcaption>Round the final answer to the s.f. of the data, keeping spare digits in the working.</figcaption>
+</figure>
+
 
 ## Method in steps: plotting and using a graph
 
@@ -68,6 +80,12 @@ A = π × (0.15 × 10⁻³)² = 7.07 × 10⁻⁸ m².
 
 ρ = 7.3 × 7.07 × 10⁻⁸ = 5.2 × 10⁻⁷ Ω m (2 s.f., because the diameter has 2 s.f.).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--06-graph-plotting-gradient-triangle.webp" width="900" height="960" alt="v squared against s for the trolley data, with six crosses, a ruled best-fit line through the origin and a large gradient triangle from (0.20, 0.80) to (1.20, 4.76). The gradient is 3.96 m/s2, so a = 1.98 m/s2. Four numbered rules: label axes with units, simple scale filling the grid, one ruled line, large triangle." loading="lazy">
+  <figcaption>Axes, scale, best-fit line and a large triangle turn a graph into a result.</figcaption>
+</figure>
+
+
 ## What the shape of the graph tells you
 
 | Graph of y against x | Conclusion |
@@ -77,6 +95,12 @@ A = π × (0.15 × 10⁻³)² = 7.07 × 10⁻⁸ m².
 | Curve | Not linear; plot against a transformed quantity such as x² or 1/x |
 | Large scatter around the line | Large random error; repeat and average |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--07-graph-shape-relationships.webp" width="900" height="970" alt="Three graphs: a straight line through the origin (y proportional to x), a straight line with an intercept (y = mx + c, linear but not proportional, suspect a zero error if it should be zero), and a curve (not linear; try x squared, 1/x or root x)." loading="lazy">
+  <figcaption>The shape of the graph tells you which relationship to test.</figcaption>
+</figure>
+
+
 ## Uncertainty: quick method
 
 Single reading, for example a rule with 1 mm divisions reading 180 mm: uncertainty ±0.5 mm, percentage uncertainty 0.5 / 180 × 100 = 0.28%.
@@ -84,6 +108,17 @@ Single reading, for example a rule with 1 mm divisions reading 180 mm: uncertain
 Repeated readings, for example 3.2 s, 3.4 s, 3.3 s: mean 3.3 s, half range 0.1 s, percentage uncertainty 0.1 / 3.3 × 100 = 3.0%.
 
 Bigger measured quantities give smaller percentage uncertainties. That is why you time many oscillations, and why you measure a small diameter with a micrometer rather than a ruler.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--08-single-reading-percentage-uncertainty.webp" width="900" height="1000" alt="Zoomed scales show half-division bands. A metre rule reading 250 mm has +/-0.5 mm, 0.2%. A micrometer reading 0.28 mm has +/-0.005 mm, 1.8%. Bars compare the two: the same half-resolution is a bigger percentage of a small quantity." loading="lazy">
+  <figcaption>Half the resolution divided by the reading, times 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -104,6 +139,12 @@ Bigger measured quantities give smaller percentage uncertainties. That is why yo
 | Few readings or narrow range | More values over a wider range |
 | Cannot judge the trend | Plot a graph rather than comparing pairs of readings |
 | Wire may vary in thickness | Measure the diameter at several places and in perpendicular directions |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--03-pendulum-period.webp" width="900" height="1010" alt="A pendulum swings from A to B and back, one oscillation. Bars compare timing one oscillation (0.92 s) with 20 oscillations (18.4 s) against the same 0.2 s reaction-time error, which is 22% of one period but 1.1% of the long time. Period = 18.4 / 20 = 0.92 s." loading="lazy">
+  <figcaption>Timing many oscillations and dividing shrinks the effect of reaction-time error.</figcaption>
+</figure>
+
 
 ## Worked reminder: which measurement limits the result?
 
@@ -146,6 +187,12 @@ If the line misses the origin, say by how much and what it suggests, for example
 8. Uncertainty 0.5 mm on 180 mm gives 0.28%.
 9. A = π × (0.10 × 10⁻³)² = 3.14 × 10⁻⁸ m²; ρ = 12.4 × 3.14 × 10⁻⁸ = 3.9 × 10⁻⁷ Ω m.
 10. 7.56 on the calculator, so 7.6 to 2 s.f.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--03-gradient-large-triangle.webp" width="900" height="1010" alt="Graph of v squared against s with six points and a best-fit line through the origin. A large triangle from (0.20, 0.80) to (1.20, 4.76) has base 1.00 m and height 3.96. The gradient is 3.96 m s^-2 and, since v^2 = 2as, a = 1.98 m s^-2." loading="lazy">
+  <figcaption>Take the gradient from two points far apart on the best-fit line, then halve it to get a.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

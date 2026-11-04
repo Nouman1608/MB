@@ -77,6 +77,22 @@ GM = 3.982e14
 
 To find g from a V–r graph, draw a tangent at the point, find its gradient and take the magnitude. To find the potential difference from a g–r graph, the area under the curve gives the magnitude of ΔV.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--02-inverse-square.webp" width="900" height="1000" alt="The same field lines pass through windows of 1, 4 and 9 unit areas at distances R, 2R and 3R, so the field spreads thinner. For Earth g is 9.81, 2.45 and 1.09 N per kg at R, 2R and 3R." loading="lazy">
+  <figcaption>Double the distance and g falls to a quarter; triple it and g falls to a ninth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--03-g-and-v-graphs.webp" width="900" height="1030" alt="Two graphs for Earth against distance r. g falls from 9.81 N per kg at the surface to 2.45 at 2R and never reaches zero. V rises from -62.5 MJ per kg at the surface towards zero at infinity. The gradient of V at 2R is 2.45 N per kg, the size of g there." loading="lazy">
+  <figcaption>g falls as 1/r2; V = -GM/r rises towards 0; the gradient of the V graph gives g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--04-area-under-force-graph.webp" width="900" height="1050" alt="A graph of the force on a 1000 kg probe near Mars against distance. The shaded area under the inverse-square curve is the work done, m times the change in potential, 8.42 x 10^9 J. Four trapezia give 8.9 x 10^9 J, an overestimate." loading="lazy">
+  <figcaption>Area under F against r equals the work done, m x change in potential; trapezia overestimate for this curve.</figcaption>
+</figure>
+
+
 ## Method in steps: orbit problems
 
 1. Gravity gives the centripetal force: GMm/r² = mv²/r.
@@ -108,6 +124,17 @@ The energy needed is the change in total energy, not the change in potential ene
 - **Why a bigger orbit means a lower speed.** Gravity provides the centripetal force, GMm/r² = mv²/r, so v² = GM/r. A larger r gives a smaller v.
 - **Drag paradox.** Drag removes total energy. The satellite falls to a smaller radius, where the potential energy is lower by twice the kinetic energy gained, so the speed rises.
 - **Geosynchronous.** State the period (the Earth's rotation period), the equatorial plane and the direction of rotation if the answer must be geostationary. Then give the use: a fixed ground antenna can stay pointed at it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--05-orbit-kepler-third.webp" width="900" height="1210" alt="A satellite on a circular orbit has gravity as its centripetal force. Equating GMm/r2 with mv2/r cancels m and gives v = root(GM/r), then T2 = (4pi2/GM) r3. A graph of T2 against r3 for Earth satellites is a straight line through the origin, passing through the 24 hour point." loading="lazy">
+  <figcaption>Gravity supplies the centripetal force, so v and T depend only on M and r, giving T2 proportional to r3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--06-orbit-energy.webp" width="900" height="1070" alt="Energies of a 520 kg satellite against orbital radius. Kinetic energy is positive, potential energy is negative and twice as large in size, and total energy is negative, equal to minus the kinetic energy. Raising the orbit from 6.97 to 10 million metres raises the total energy by 4.5 x 10^9 J." loading="lazy">
+  <figcaption>Ek = GMm/2r, Ep = -GMm/r, E = -GMm/2r: a bigger orbit has E closer to zero and a smaller speed.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -147,6 +174,17 @@ The energy needed is the change in total energy, not the change in potential ene
 11. The field is perpendicular to the surface, so the force has no component along the displacement. Equivalently, ΔV = 0, so ΔW = mΔV = 0.
 12. Ek = +GMm/(2r) and Ep = −GMm/r, so E = −GMm/(2r), which is less than zero. A negative total means the satellite is bound: it would need an input of energy equal to |E| to reach infinity with zero speed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--07-geostationary.webp" width="900" height="1180" alt="A to-scale view from above the North Pole. The geostationary ring is 4.22 x 10^7 m from Earth’s centre, about 36 000 km above the surface, far outside a 600 km low orbit. The satellite moves west to east with the Earth, so it stays above one point on the equator. Period 24 h, west to east and over the equator are all needed." loading="lazy">
+  <figcaption>Geostationary means 24 h, west to east and over the equator, at one radius only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--08-escape-velocity.webp" width="900" height="1210" alt="The Earth’s potential well is -62.5 MJ per kg at the surface and zero at infinity. Launching with kinetic energy 62.5 MJ per kg brings the total energy to zero, giving escape velocity root(2GM/R) = 11.2 km per s. Bars compare Moon 2.37, Mars 5.03 and Earth 11.2 km per s; light-gas atoms at 1.9 km per s are 80% of the Moon value." loading="lazy">
+  <figcaption>Escape velocity v = root(2GM/r) makes total energy zero; it is independent of the escaping mass.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Dropping the sign of V, or taking initial minus final.
@@ -157,6 +195,12 @@ The energy needed is the change in total energy, not the change in potential ene
 - Writing "the satellite speeds up because energy is added" when drag is the cause. Explain the transfer from potential to kinetic energy.
 - Defining potential without saying "per unit mass" and "from infinity".
 - Calling any orbit with a 24 hour period geostationary, or giving 24 hours instead of 23 h 56 min for the Earth's rotation period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--01-field-lines.webp" width="900" height="1230" alt="A planet has radial field lines pointing to its centre, closer together nearer the planet. Zooming in at the surface shows parallel, equally spaced lines, a uniform field. For two equal masses (OCR only) the lines curve towards each mass and never cross, and g is zero midway." loading="lazy">
+  <figcaption>Radial lines get closer as g gets stronger; near the surface they are parallel; two masses give a point where g = 0.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

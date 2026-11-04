@@ -67,6 +67,37 @@ Rectangles, rhombuses and parallelograms (that are not squares) all have order 2
 
 The triangle with vertices (1, 2), (7, 2) and (4, 6) has two equal sides of length 5, so it is isosceles. Its line of symmetry is x = 4 and its order of rotation symmetry is 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--04-symmetry-grid-examples.webp" width="900" height="1224" alt="A parallelogram A(0,0), B(4,0), C(6,3), D(2,3) has order 2 rotation symmetry about (3, 1.5) and no mirror line. Points (1,1), (2,4), (3,2) are reflected in x = 4 to give (7,1), (6,4), (5,2)." loading="lazy">
+  <figcaption>Worked examples 1 and 2 drawn on grids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--01-line-symmetry.webp" width="900" height="1000" alt="A rectangle has two mirror lines, vertical and horizontal, and each point has a partner the same distance across the line at 90 degrees. Reflecting vertex B in the diagonal AC lands outside the rectangle and not on D, so a diagonal is not a line of symmetry." loading="lazy">
+  <figcaption>Test a mirror line by reflecting points; a rectangle’s diagonal fails.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--02-rotational-symmetry.webp" width="900" height="1080" alt="A marked corner shows the turns about the centre. A parallelogram fits after 180 degrees (order 2), an equilateral triangle after 120 and 240 degrees (order 3), and a scalene triangle only after 360 degrees (order 1)." loading="lazy">
+  <figcaption>The smallest turn that fits is 360° divided by the order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--03-shapes-lines-order.webp" width="900" height="1260" alt="Ten triangles and quadrilaterals with their mirror lines dashed and the number of lines and order stated: equilateral 3 and 3, isosceles 1 and 1, scalene 0 and 1, square 4 and 4, rectangle 2 and 2, rhombus 2 and 2, parallelogram 0 and 2, kite 1 and 1, isosceles trapezium 1 and 1, trapezium 0 and 1." loading="lazy">
+  <figcaption>If a shape has any lines, its order equals its number of lines; the parallelogram is the exception with order 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--05-regular-polygons.webp" width="900" height="1100" alt="A pentagon has 5 lines each from a vertex to the opposite side midpoint, order 5 and turn 72 degrees. An octagon has 8 lines, 4 vertex to vertex and 4 midpoint to midpoint, order 8 and turn 45 degrees. A turn of 24 degrees gives 15 sides and an interior angle of 156 degrees." loading="lazy">
+  <figcaption>A regular n-sided polygon has n lines and order n; the smallest turn is 360° ÷ n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--03-not-enough.webp" width="900" height="1120" alt="Top: two triangles with the same angles of 40, 60 and 80 degrees but sides of 7 cm and 12 cm, so not congruent. Bottom: a base of 8 cm with a 40 degree angle at A; a 6 cm side from B meets the ray from A at two points, giving two different triangles." loading="lazy">
+  <figcaption>AAA gives similar triangles, and SSA can fit two different triangles, so neither proves congruence.</figcaption>
+</figure>
+
+
 ## Congruence and its conditions (G7)
 
 Congruent shapes have equal matching sides and equal matching angles. Write vertices in matching order.
@@ -82,6 +113,17 @@ Congruent shapes have equal matching sides and equal matching angles. Write vert
 
 Not enough: AAA (same shape, size can differ) and SSA (can give two triangles).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--05-congruence-conditions-oxfordaqa.webp" width="900" height="1165" alt="SSS, SAS, ASA or AAS and RHS prove congruence. AAA does not, because a larger triangle has the same angles. SSA does not, because the arc can cut the other arm in two places." loading="lazy">
+  <figcaption>Four conditions prove congruence; AAA and SSA do not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--02-four-conditions.webp" width="900" height="940" alt="Four rows each show two equal triangles, the second turned or flipped. Tick marks and arcs show which sides and angles are equal for SSS, SAS (angle between the sides), ASA (side between the angles) and RHS (right angle, hypotenuse, one side)." loading="lazy">
+  <figcaption>Each of SSS, SAS, ASA and RHS is enough on its own to prove two triangles congruent.</figcaption>
+</figure>
+
+
 ### Method in steps: a congruence argument (Extension only)
 
 1. Name the two triangles with vertices in matching order.
@@ -92,6 +134,12 @@ Not enough: AAA (same shape, size can differ) and SSA (can give two triangles).
 ### Worked reminder
 
 In an isosceles triangle ABC with AB = AC, M is the midpoint of BC. Triangles ABM and ACM have AB = AC, BM = CM and AM common, so they are congruent by SSS. Angle AMB = angle AMC. Together the two angles make a straight line, 180°, so each is 90°.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--04-match-letters.webp" width="900" height="770" alt="Triangle ABC and a turned copy with corners R, P and Q. Matching corners share a colour: A with R, B with P, C with Q. AB matches RP and BC matches PQ, so angle Q equals angle C, 62 degrees." loading="lazy">
+  <figcaption>Match corresponding parts from the order of the letters in the congruence statement, not from where they sit on the page.</figcaption>
+</figure>
+
 
 ## Similar figures (G7)
 
@@ -122,6 +170,17 @@ Use the whole side AB, not the part DB, when AD is the small side.
 - Equal angles are enough to prove two triangles are similar, but two rectangles with equal angles need not be similar, because their sides must also be in the same ratio.
 - To test rectangles, compare the long side with the long side and the short side with the short side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--06-similar-triangles-parallel-line.webp" width="900" height="900" alt="DE is parallel to BC with AD 6 cm, DB 4 cm, DE 9 cm. The scale factor is AB over AD, 10 over 6, so BC is 15 cm. DB must not be matched with DE." loading="lazy">
+  <figcaption>Compare whole sides AB and AD to find BC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--03-similar-triangles-parallel.webp" width="900" height="930" alt="Triangle ADE sits inside triangle ABC with DE parallel to BC. Angle A is shared and the angles at D and B, and at E and C, are equal, so the triangles are similar with scale factor 9 / 6 = 1.5. BC = 8 x 1.5 = 12 cm." loading="lazy">
+  <figcaption>A line parallel to one side creates a smaller similar triangle; the scale factor gives the unknown side.</figcaption>
+</figure>
+
+
 ## Solids (G10)
 
 | Solid | Flat faces | Curved surfaces | Edges | Vertices |
@@ -137,6 +196,17 @@ Use the whole side AB, not the part DB, when AD is the small side.
 The cylinder and cone edges are curved. A prism has a constant cross-section, and its end faces are identical. A pyramid has a polygon base and one apex.
 
 Worked reminder: a prism with 9 faces has n + 2 = 9, so n = 7. It has 14 vertices and 21 edges.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--07-solids-faces-edges-vertices.webp" width="900" height="1115" alt="Cuboid 6, 0, 12, 8; cylinder 2 flat faces, 1 curved surface, 2 curved edges, 0 vertices; cone 1, 1, 1 curved edge, 1 vertex; sphere 0, 1, 0, 0." loading="lazy">
+  <figcaption>Counts for a cuboid, cylinder, cone and sphere drawn on the solids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--09-solid-counts.webp" width="900" height="990" alt="A triangular prism (5 faces, 9 edges, 6 vertices) and a square-based pyramid (5 faces, 8 edges, 5 vertices) with hidden edges dashed and vertices marked. For both, faces + vertices - edges = 2." loading="lazy">
+  <figcaption>Count faces, edges and vertices from a drawing, and check with F + V - E = 2.</figcaption>
+</figure>
+
 
 ## Plans and elevations (G11)
 
@@ -174,6 +244,12 @@ Draw on squared paper to a stated scale. Put the plan above or below the front e
 11. A cube model has plan numbers: back row 4, 1 and front row 0, 3. Find the front elevation heights from left to right.
 12. For the model in question 11, give the side elevation heights viewed from the right, and the total number of cubes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--08-construct-plans-elevations.webp" width="900" height="770" alt="A 6 cm triangular prism: plan 6 by 4 with a ridge line, front elevation 6 by 3 below it, side elevation a triangle of base 4 and height 3 beside it, with dashed lines to align widths and heights." loading="lazy">
+  <figcaption>Plan first, then project down for the front and across for the side.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. 6 lines of symmetry and order 6.
@@ -188,6 +264,17 @@ Draw on squared paper to a stated scale. Put the plan above or below the front e
 10. The plan is a circle of diameter 5 cm. The front elevation is a rectangle 5 cm wide and 6 cm high.
 11. Column maxima: 4 and 3, so the heights are 4, 3.
 12. Row maxima are 4 (back) and 3 (front). From the right the front is on the left, so the heights are 3, 4. The total is 4 + 1 + 0 + 3 = 8 cubes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--01-plans-elevations-solids.webp" width="900" height="1000" alt="A table of views. A cylinder on its end has a circle as plan and rectangles as front and side. A cone has a circle with a centre point as plan and triangles as front and side. A square-based pyramid has a square with lines from the corners to the centre as plan and triangles as front and side. The 6 cm triangular prism of Worked example 10 has a 6 by 4 rectangle with a ridge line as plan, a 6 by 3 rectangle as front elevation and a triangle of base 4 and height 3 as side elevation." loading="lazy">
+  <figcaption>Plan, front and side views of a cylinder, cone, square-based pyramid and the triangular prism of Worked example 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--02-cube-model-elevations.webp" width="900" height="990" alt="A 3 by 3 plan with back row 3, 0, 1, middle row 0, 1, 1 and front row 2, 2, 0. The front elevation shows stacks of 3, 2 and 1 cubes left to right. The side elevation from the right shows 2, 1 and 3, because the front row is on the left when viewed from the right. There are 10 cubes in total." loading="lazy">
+  <figcaption>Reading the front and right-hand elevations from a plan of cube stacks, with the front-on-the-left trap made visible.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

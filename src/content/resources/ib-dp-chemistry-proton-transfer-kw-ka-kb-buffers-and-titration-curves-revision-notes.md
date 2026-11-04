@@ -66,6 +66,17 @@ Any one of [H⁺], [OH⁻], pH or pOH gives you the other three:
 
 *Reminder:* 0.0150 mol dm⁻³ KOH has pOH = 1.82 and pH = 12.18.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves--01-ph-poh-scale.webp" width="900" height="840" alt="Two aligned scales show pH from 0 to 14 and pOH from 14 to 0, so the two always add to 14.00. Rainwater at pH 4.62 sits above pOH 9.38. A KOH solution at pH 11.54 sits above pOH 2.46, with [H+] 2.9 x 10^-12 mol dm^-3 worked out underneath." loading="lazy">
+  <figcaption>pH and pOH are mirror scales that add to 14.00 at 298 K (HL only).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves--02-ka-kb-conjugates.webp" width="900" height="940" alt="Three acids (HF 3.17, lactic acid 3.86, HOCl 7.53) are placed on a pKa scale. Directly below each, on a reversed pKb scale, sits its conjugate base. The stronger the acid, the weaker the conjugate base; the OCl- worked example gives pKb 6.47 and Kb 3.4 x 10^-7." loading="lazy">
+  <figcaption>Lower pKa means a stronger acid and a weaker conjugate base, because pKa + pKb = 14.00 (HL only).</figcaption>
+</figure>
+
+
 ## Reactivity 3.1.10 and 3.1.11 Ka, Kb and conjugate pairs
 
 - Bigger K or smaller pK means stronger. Compare acids by pKa, bases by pKb.
@@ -94,6 +105,17 @@ Split the salt into its ions and ask which parent each came from.
 
 Carbonate and hydrogencarbonate both accept a proton from water, making solutions basic: CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻ (clearly basic) and HCO₃⁻ + H₂O ⇌ H₂CO₃ + OH⁻ (weakly basic, because its Kb outweighs its Ka).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves--04-salt-hydrolysis.webp" width="900" height="1050" alt="Four rows show KNO3 (both ions spectators, pH 7), NH4Cl (NH4+ reacts, pH below 7), sodium propanoate (the anion reacts, pH above 7) and a weak acid with weak base salt (both react, compare Ka and Kb). Ions that react with water have a gold ring; sodium benzoate 0.100 mol dm^-3 has pH 8.60." loading="lazy">
+  <figcaption>Only an ion from a weak parent acid or base reacts with water and shifts the pH (HL only).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves--08-buffer-action.webp" width="900" height="890" alt="A beaker holds 6 HA and 10 A- particles (0.150 and 0.250 mol dm^-3 lactic acid buffer, pH 4.08). Added H+ turns A- into HA, moving the pH to 3.97; added OH- turns HA into A-, moving it to 4.20. Pure water given the same amount would go to pH 1.60 or 12.40." loading="lazy">
+  <figcaption>A buffer holds a large reservoir of both HA and A-, so added acid or alkali barely changes the pH (HL only).</figcaption>
+</figure>
+
+
 ## Reactivity 3.1.13 The four pH curves
 
 | Acid in flask, base added | Start | Vertical section | Equivalence pH | Half-equivalence |
@@ -104,6 +126,17 @@ Carbonate and hydrogencarbonate both accept a proton from water, making solution
 | weak / weak | about 3 | none sharp | near 7 if Ka ≈ Kb | – |
 
 If a weak base sits in the flask and strong acid is added, the curve runs downhill and pOH = pKb at half-equivalence. The flat buffer region before equivalence is where both conjugates are present.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves--05-titration-curves.webp" width="900" height="1090" alt="Four computed pH curves for 0.100 mol dm^-3 acid and base show strong+strong (start pH 1, steep section about 3 to 11, equivalence 7), weak acid+strong base (start about 3, equivalence about 8.7), strong acid+weak base (equivalence about 5.3) and weak+weak (no sharp rise). Equivalence is marked at 25 cm3." loading="lazy">
+  <figcaption>The four titration curves differ in starting pH, length of the steep section and equivalence pH (HL only).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves--06-half-equivalence.webp" width="900" height="930" alt="A curve for 20.0 cm3 of weak acid HX with 0.0800 mol dm^-3 NaOH, computed from the equilibrium, has equivalence at 23.5 cm3. The buffer region is shaded. At half-equivalence, 11.75 cm3, [HX] = [X-] and the pH 4.62 equals pKa, so Ka = 2.4 x 10^-5." loading="lazy">
+  <figcaption>At half-equivalence [HA] = [A-], so pH = pKa (HL only).</figcaption>
+</figure>
+
 
 ## Reactivity 3.1.14 and 3.1.15 Indicators
 
@@ -117,6 +150,17 @@ HInd(aq) ⇌ H⁺(aq) + Ind⁻(aq). More H⁺ pushes left (HInd colour). Less H�
 4. If the curve has no vertical section (weak with weak), say no indicator is suitable.
 
 Universal indicator is a blend of indicators with gradual colour change over a wide range. It estimates pH; it does not give a sharp end point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves--07-indicator-choice.webp" width="900" height="1184" alt="Three panels show the steep section of a titration curve and the colour ranges of methyl red, bromothymol blue and phenolphthalein. An indicator gets a tick only if its whole range lies inside the steep section: all three for HCl + KOH, only phenolphthalein for propanoic acid + NaOH, only methyl red for NH3 + HNO3. A strip at the top shows HInd and Ind- as colour A and colour B." loading="lazy">
+  <figcaption>An indicator suits a titration when its colour range lies inside the steep section (HL only).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves--09-buffer-ratio.webp" width="900" height="1090" alt="A computed graph of pH = 3.86 + log([A-]/[HA]) on a log ratio axis, with four numbered points: 3:7 mix pH 3.49, equal amounts pH 3.86 = pKa, 0.250:0.150 pH 4.08, and ratio 4.4 giving pH 4.50. A box notes that dilution keeps the ratio and pH but lowers capacity." loading="lazy">
+  <figcaption>Buffer pH depends on pKa and the ratio [A-]/[HA]; each tenfold change in ratio moves pH by 1 (HL only).</figcaption>
+</figure>
+
 
 ## Reactivity 3.1.16 and 3.1.17 Buffers
 
@@ -168,6 +212,12 @@ Dilution leaves the ratio, and so the pH, nearly unchanged. It does lower the bu
 9. pH = 4.82 + log₁₀(0.100 ÷ 0.400) = **4.22**.
 10. **Almost no change**; the ratio stays 1 : 4.
 11. Cl⁻ does not accept protons, so nothing removes added H⁺ (**no weak acid/conjugate pair**).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves--03-weak-acid-ph.webp" width="900" height="890" alt="A grid of 100 HNO2 particles shows only about 5 split into ions, so [HA] stays about 0.250. The two assumptions give [H+] = sqrt(Ka x [HA]) = 1.18 x 10^-2 and pH 1.93. A panel repeats the method for 0.200 mol dm^-3 dimethylamine, giving pH 12.02." loading="lazy">
+  <figcaption>Only a few percent of a weak acid ionises, which is why [H+] = sqrt(Ka x [HA]) works (HL only).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

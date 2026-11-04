@@ -45,6 +45,32 @@ Two points to keep clear:
 - Potential is a property of the point in the field, not of the test mass, because the mass is divided out.
 - Potential is not potential energy. Potential is per kilogram. Potential energy is for a particular mass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--01-field-lines.webp" width="900" height="1230" alt="A planet has radial field lines pointing to its centre, closer together nearer the planet. Zooming in at the surface shows parallel, equally spaced lines, a uniform field. For two equal masses (OCR only) the lines curve towards each mass and never cross, and g is zero midway." loading="lazy">
+  <figcaption>Radial lines get closer as g gets stronger; near the surface they are parallel; two masses give a point where g = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--02-inverse-square.webp" width="900" height="1000" alt="The same field lines pass through windows of 1, 4 and 9 unit areas at distances R, 2R and 3R, so the field spreads thinner. For Earth g is 9.81, 2.45 and 1.09 N per kg at R, 2R and 3R." loading="lazy">
+  <figcaption>Double the distance and g falls to a quarter; triple it and g falls to a ninth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--03-g-and-v-graphs.webp" width="900" height="1030" alt="Two graphs for Earth against distance r. g falls from 9.81 N per kg at the surface to 2.45 at 2R and never reaches zero. V rises from -62.5 MJ per kg at the surface towards zero at infinity. The gradient of V at 2R is 2.45 N per kg, the size of g there." loading="lazy">
+  <figcaption>g falls as 1/r2; V = -GM/r rises towards 0; the gradient of the V graph gives g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--04-area-under-force-graph.webp" width="900" height="1050" alt="A graph of the force on a 1000 kg probe near Mars against distance. The shaded area under the inverse-square curve is the work done, m times the change in potential, 8.42 x 10^9 J. Four trapezia give 8.9 x 10^9 J, an overestimate." loading="lazy">
+  <figcaption>Area under F against r equals the work done, m x change in potential; trapezia overestimate for this curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--08-escape-velocity.webp" width="900" height="1210" alt="The Earth’s potential well is -62.5 MJ per kg at the surface and zero at infinity. Launching with kinetic energy 62.5 MJ per kg brings the total energy to zero, giving escape velocity root(2GM/R) = 11.2 km per s. Bars compare Moon 2.37, Mars 5.03 and Earth 11.2 km per s; light-gas atoms at 1.9 km per s are 80% of the Moon value." loading="lazy">
+  <figcaption>Escape velocity v = root(2GM/r) makes total energy zero; it is independent of the escaping mass.</figcaption>
+</figure>
+
+
 ## 5.4.4(b) Vg = -GM/r and changes in potential
 
 For a point mass M, or a spherical mass whose density depends only on distance from the centre, the potential at distance r from the centre is
@@ -64,6 +90,12 @@ Calculate the gravitational potential at the surface of Mars.
 Vg = -GM/r = -(6.67 × 10⁻¹¹ × 6.42 × 10²³) / (3.39 × 10⁶)
 Vg = -4.282 × 10¹³ / 3.39 × 10⁶ = -1.26 × 10⁷ J kg⁻¹
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--07-geostationary.webp" width="900" height="1180" alt="A to-scale view from above the North Pole. The geostationary ring is 4.22 x 10^7 m from Earth’s centre, about 36 000 km above the surface, far outside a 600 km low orbit. The satellite moves west to east with the Earth, so it stays above one point on the equator. Period 24 h, west to east and over the equator are all needed." loading="lazy">
+  <figcaption>Geostationary means 24 h, west to east and over the equator, at one radius only.</figcaption>
+</figure>
+
+
 ### Worked example 2: work to change orbit height
 
 An 800 kg satellite is lifted from the surface of Mars to a point 500 km above the surface. Calculate the work that must be done on it.
@@ -78,6 +110,12 @@ Keep an extra digit in the potentials, because they are close and early rounding
 ### Link to mgh
 
 Near a planet's surface the field is almost uniform, so mgh is a good approximation to the exact change. For a 1000 kg object raised 10 km above the Earth, the exact method gives m × GMe × (1/Re - 1/(Re + 10⁴)) = 9.80 × 10⁷ J, while mgh = 1000 × 9.81 × 10⁴ = 9.81 × 10⁷ J. The two differ by about 0.1%. The approximation worsens as h becomes a larger fraction of R.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--06-orbit-energy.webp" width="900" height="1070" alt="Energies of a 520 kg satellite against orbital radius. Kinetic energy is positive, potential energy is negative and twice as large in size, and total energy is negative, equal to minus the kinetic energy. Raising the orbit from 6.97 to 10 million metres raises the total energy by 4.5 x 10^9 J." loading="lazy">
+  <figcaption>Ek = GMm/2r, Ep = -GMm/r, E = -GMm/2r: a bigger orbit has E closer to zero and a smaller speed.</figcaption>
+</figure>
+
 
 ## 5.4.4(c) The force-distance graph
 
@@ -102,6 +140,12 @@ Each strip has width 1.695 × 10⁶ m. The sum of the trapezia is 1.695 × 10⁶
 Exact: W = GMm(1/r₁ - 1/r₂) = 4.282 × 10¹³ × 1000 × (1/3.39 × 10⁶ - 1/10.17 × 10⁶) = 8.42 × 10⁹ J.
 
 The trapezium estimate is about 6% too high, as expected for a curve bowed towards the axes. Using narrower strips would reduce the error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--05-orbit-kepler-third.webp" width="900" height="1210" alt="A satellite on a circular orbit has gravity as its centripetal force. Equating GMm/r2 with mv2/r cancels m and gives v = root(GM/r), then T2 = (4pi2/GM) r3. A graph of T2 against r3 for Earth satellites is a straight line through the origin, passing through the 24 hour point." loading="lazy">
+  <figcaption>Gravity supplies the centripetal force, so v and T depend only on M and r, giving T2 proportional to r3.</figcaption>
+</figure>
+
 
 ## 5.4.4(d) Gravitational potential energy
 

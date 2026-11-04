@@ -32,6 +32,52 @@ Course links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable chec
 - Energy is not a fuel that gets used up, and objects at rest still have energy.
 - This statement is qualitative only: describe it in words.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations--01-stone-thrown-up.webp" width="900" height="920" alt="A 0.30 kg stone thrown up at 12 m/s has 21.6 J of kinetic energy at launch. Half way up it has 10.8 J kinetic and 10.8 J gravitational potential. At the top, 7.3 m, all 21.6 J is gravitational potential." loading="lazy">
+  <figcaption>Kinetic energy turns into gravitational potential energy; the total stays 21.6 J.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations--02-spring-launch.webp" width="900" height="890" alt="A spring of constant 250 N/m is compressed 0.080 m and stores 0.80 J. Released, all 0.80 J becomes kinetic energy of a 0.050 kg ball, which leaves at 5.7 m/s." loading="lazy">
+  <figcaption>Elastic energy ½kx² = 0.80 J becomes kinetic energy ½mv², giving 5.7 m/s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations--03-kwh-heater.webp" width="900" height="920" alt="A 2.4 kW heater running for 3.5 hours transfers 8.4 kW h, shown as three blocks of 2.4 and one of 1.2. At 28 p per kW h this costs £2.35. One kW h is 3 600 000 J, so 8.4 kW h is 3.0 × 10^7 J." loading="lazy">
+  <figcaption>Energy in kW h is power in kW times time in hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations--01-heating-mc-delta-theta.webp" width="900" height="870" alt="Two temperature strips. Aluminium 0.50 kg warms 20 to 60 C: 0.50 x 900 x 40 = 18 000 J. Kettle water 1.5 kg warms 20 to 100 C: 1.5 x 4200 x 80 = 504 000 J, which at 2.4 kW takes 210 s." loading="lazy">
+  <figcaption>Energy for a temperature rise is mass x specific heat capacity x temperature change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations--02-electrical-work-qv-pt.webp" width="900" height="770" alt="Lamp circuit: 450 C through 12 V gives 5400 J. Heater circuit: 230 V and 4.0 A give 920 W; 300 s gives 276 000 J." loading="lazy">
+  <figcaption>Charge x potential difference, or power x time, gives the energy transferred.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations--04-work-sledge-and-braking-car.webp" width="900" height="930" alt="Sledge: 40 N over 6.0 m is 240 J, which becomes 240 J of kinetic energy, 4.4 m/s. Car: 123 750 J of kinetic energy becomes thermal energy as 3500 N acts over 35 m." loading="lazy">
+  <figcaption>The work done by a force equals the energy moved between stores.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--02-conservation-falling-ball.webp" width="900" height="930" alt="A 2 kg ball falls from 10 m. Stacked bars at five heights always total 196 J: gravitational potential energy falls from 196 J to 0 while kinetic energy rises from 0 to 196 J." loading="lazy">
+  <figcaption>Energy is transferred between stores but the total stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--01-energy-transfers.webp" width="900" height="1070" alt="Four panels: a pushed crate (force, chemical to kinetic), a battery driving a motor (current), a flame heating water (heating), and Sun light warming the ground (waves)." loading="lazy">
+  <figcaption>Energy moves between stores by forces, electric currents, heating and waves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--04-kinetic-energy-graph.webp" width="900" height="880" alt="Graph of Ek in kJ against speed for a 1500 kg car. Ek is 300 kJ at 20 m/s and 1200 kJ at 40 m/s, so doubling speed gives four times the energy." loading="lazy">
+  <figcaption>Because v is squared, doubling speed quadruples kinetic energy.</figcaption>
+</figure>
+
+
 ## Changes in stores (P7.1b)
 
 | Situation | Goes down | Goes up |
@@ -51,6 +97,12 @@ Course links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable chec
 4. Say how it moved: heating, work done by a force, or work done by a current.
 5. State that the total is unchanged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations--03-stores-fall-and-rise.webp" width="900" height="1118" alt="Six situations, each with the store that decreases and the store that increases, e.g. vehicle slowing: kinetic falls, thermal in brakes, tyres and road rises." loading="lazy">
+  <figcaption>In every change one store falls and another rises.</figcaption>
+</figure>
+
+
 ## Three ways a system changes (P7.1c)
 
 | Process | What happens |
@@ -58,6 +110,12 @@ Course links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable chec
 | Heating | Energy moves from hot to cold, or raises the temperature of a material |
 | Work done by forces | A force moves an object through a distance |
 | Work done by a current | Charge moves through a potential difference |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--05-work-done.webp" width="900" height="690" alt="A 40 N force arrow pushes a crate 6 m, shown by a dimension line. Work done is 40 x 6 = 240 J, the energy transferred." loading="lazy">
+  <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
+</figure>
+
 
 ## Equations (P7.1d, P7.1e)
 

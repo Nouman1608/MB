@@ -60,6 +60,42 @@ In **addition polymerisation** (4.1.3(j)), monomers with a C=C bond join as the 
 
 Acyl chlorides are far more reactive than carboxylic acids, and they esterify phenols, which carboxylic acids do not readily do (6.1.3(f)). So a diol with both –OH groups on a benzene ring needs a diacyl chloride partner.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--10-chirality.webp" width="900" height="1116" alt="Top: two mirror-image enantiomers of a chiral carbon with four different groups (NH2, COOH, CH3, H), drawn with wedge and dash bonds, which cannot be superimposed. Bottom (AQA only): an active site with three binding points fits one enantiomer; the mirror image has two groups swapped and does not fit." loading="lazy">
+  <figcaption>A chiral centre has four different groups; an enzyme active site binds only one enantiomer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--07-acylation-reactions.webp" width="900" height="1240" alt="A strip shows a carboxylic acid converted to an acyl chloride with PCl5 (Edexcel) or SOCl2 (OCR). Ethanoyl chloride and ethanoic anhydride transfer the CH3CO group (teal) to water, methanol, ammonia and methylamine to give ethanoic acid, methyl ethanoate, ethanamide and N-methylethanamide. By-products are HCl or ethanoic acid, and ammonia and amines are needed in twos." loading="lazy">
+  <figcaption>Both reagents put an acyl group on water, an alcohol, ammonia or an amine. PCl5 is Edexcel only and SOCl2 is OCR only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--09-aspirin-anhydride.webp" width="900" height="1296" alt="Salicylic acid reacts with ethanoic anhydride to give aspirin and ethanoic acid; the ringed ring OH receives the CH3CO group. Two flasks compare the reagents: the anhydride is milder, easier to control and slow to react with moist air with ethanoic acid as by-product, while ethanoyl chloride is vigorous and gives HCl gas." loading="lazy">
+  <figcaption>Ethanoic anhydride is preferred industrially: safer by-product and easier to control. AQA and OxfordAQA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--04-addition-vs-condensation.webp" width="900" height="1150" alt="Addition: monomers with C=C join into a chain and nothing else is made. Condensation: monomers with an end group at both ends join into a chain and a water molecule is given off at every join." loading="lazy">
+  <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--05-amide-ester-links.webp" width="900" height="1130" alt="Bond by bond: an acid end loses OH and an amine end loses H, which leave as water, and the acid carbon bonds to nitrogen to make a CO-NH amide link. The same happens with an alcohol end to make a CO-O ester link." loading="lazy">
+  <figcaption>An amide or ester link forms when H and OH leave as water.</figcaption>
+</figure>
+
+
 ## 6.2.3(a)(i): Forming polyesters
 
 ### Worked example 1: diacid plus diol
@@ -79,6 +115,12 @@ A chain of n repeat units has 2n − 1 links. For a long chain this is close to 
 
 When drawing it, display the ester link (C=O and C–O), with a bond through each bracket and n after the closing one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--04-esterification.webp" width="900" height="1120" alt="Propanoic acid and ethanol react with a concentrated sulfuric acid catalyst and heat to give ethyl propanoate and water in an equilibrium. The OH from the acid and the H from the alcohol are ringed. A bar chart shows 6.63 g collected against a 10.2 g maximum, a 65.0 percent yield." loading="lazy">
+  <figcaption>Acid plus alcohol is reversible, so the yield is below 100 percent. All boards.</figcaption>
+</figure>
+
+
 ### Worked example 2: diacyl chloride plus an aromatic diol
 
 Benzene-1,4-diol, HO–C₆H₄–OH, has both –OH groups on the ring, so it behaves as a phenol. It is paired with heptanedioyl dichloride, ClOC–(CH₂)₅–COCl.
@@ -95,6 +137,17 @@ Benzene-1,4-diol, HO–C₆H₄–OH, has both –OH groups on the ring, so it b
 - Equation: n HO–(CH₂)₄–COOH → –[O–(CH₂)₄–CO]ₙ– + (n − 1) H₂O
 - Check: monomer C₅H₁₀O₃ (Mr 118.0) minus H₂O (18.0) gives repeat unit C₅H₈O₂ (Mr 100.0).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--06-fats-soap-biodiesel.webp" width="900" height="1210" alt="A fat molecule has a glycerol backbone joined by three ester links to three twelve-carbon acid chains. Heating 31.9 g (0.0500 mol) with sodium hydroxide gives three soap molecules per fat (33.3 g maximum) and glycerol; reacting with methanol and a catalyst gives three methyl ester biodiesel molecules (32.1 g maximum) and glycerol." loading="lazy">
+  <figcaption>One fat gives three soap or three biodiesel molecules, the 1:3 ratio. AQA and OxfordAQA.</figcaption>
+</figure>
+
+
 ## 6.2.3(a)(ii): Forming polyamides
 
 ### Worked example 4: diacyl chloride plus diamine
@@ -110,6 +163,12 @@ Butanedioic acid would give the same polymer, losing water instead.
 
 The repeat unit is C₁₁H₂₀N₂O₂, Mr 212.0. A chain of Mr 42 400 therefore holds 42 400 ÷ 212.0 = **200** repeat units.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--06-acyl-mechanism.webp" width="900" height="1230" alt="Addition-elimination: lone pair on N of methylamine attacks the delta-plus C=O carbon while the C=O pi bond moves onto O. In the tetrahedral intermediate the O- lone pair re-forms C=O and the C-Cl bond breaks to release Cl-. The product is N-methylethanamide, with methylammonium chloride from the second amine." loading="lazy">
+  <figcaption>Amines react with acyl chlorides by addition-elimination to give N-substituted amides.</figcaption>
+</figure>
+
+
 ### Worked example 5: a single aminocarboxylic acid
 
 7-Aminoheptanoic acid, H₂N–(CH₂)₆–COOH, has an amine group at one end and a carboxylic acid group at the other.
@@ -118,6 +177,12 @@ The repeat unit is C₁₁H₂₀N₂O₂, Mr 212.0. A chain of Mr 42 400 theref
 - One H₂O is lost per link: monomer C₇H₁₅NO₂ (Mr 145.0) becomes repeat unit C₇H₁₃NO (Mr 127.0).
 
 Display the amide link with C=O, C–N and N–H shown.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--01-acid-ester-names.webp" width="900" height="1180" alt="Propanoic acid is drawn with its carbons numbered from the COOH carbon. Ethyl propanoate and methyl methanoate are drawn with the acid part in teal and the alcohol part in gold. The alcohol part is named first, then the acid part ending -oate." loading="lazy">
+  <figcaption>An ester name has two words: the alcohol part (alkyl) first, then the acid part ending -oate. All boards.</figcaption>
+</figure>
+
 
 ## 6.2.3(b): Hydrolysis of polyesters and polyamides
 
@@ -156,6 +221,12 @@ A 9.30 g sample of the polyester from worked example 1 is fully hydrolysed by he
 
 Check: 9.30 g + 4.00 g of NaOH = 13.30 g, and 7.40 g + 5.90 g = 13.30 g.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--05-ester-hydrolysis.webp" width="900" height="1160" alt="Ethyl propanoate hydrolysed with dilute acid and water gives propanoic acid and ethanol in a reversible reaction. With sodium hydroxide solution it goes to completion giving sodium propanoate and ethanol, because the carboxylate ion cannot re-form the ester." loading="lazy">
+  <figcaption>Acid hydrolysis is reversible; alkaline hydrolysis goes to completion and gives a salt. All boards.</figcaption>
+</figure>
+
+
 ## 6.2.3(c): Predicting repeat units, monomers and polymer type
 
 ### 6.2.3(c)(iii): Which type of polymerisation?
@@ -168,11 +239,28 @@ Look at the monomers or the chain.
 
 A side group can mislead. Take the chain –CH₂–CH(COOCH₂CH₂CH₃)–CH₂–CH(COOCH₂CH₂CH₃)–. It has ester groups, but they hang off an all-carbon backbone, so it is an addition polymer of propyl propenoate, CH₂=CH–COOCH₂CH₂CH₃.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--02-poly-ethene.webp" width="900" height="990" alt="Four ethene molecules each have a C=C double bond. The double bonds open and the molecules join into one long chain of single-bonded carbons with new bonds between units. One CH2-CH2 repeat unit is bracketed and repeated n times, and nothing else is made." loading="lazy">
+  <figcaption>Opening each C=C bond joins ethene monomers into poly(ethene) with no other product.</figcaption>
+</figure>
+
+
 ### 6.2.3(c)(i): Repeat unit from monomers
 
 - **Addition:** draw the C=C with its four groups, turn it into C–C and add a bond out of each end. 3-Methylbut-1-ene, CH₂=CH–CH(CH₃)₂, gives **–[CH₂–CH(CH(CH₃)₂)]–**.
 - **Condensation, two monomers:** join one of each, then remove –OH or –Cl from the free acid end and H from the free –OH or –NH₂ end.
 - **Condensation, one monomer:** remove H from one end and –OH from the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--06-nylon-and-pet.webp" width="900" height="830" alt="Nylon is a diacid and a diamine alternating, joined by CO-NH and NH-CO amide links. PET is a diacid and a diol alternating, joined by CO-O and O-CO ester links. Each link releases water and each repeat unit contains two links." loading="lazy">
+  <figcaption>Nylon and PET follow the same pattern; only the second monomer and the link change.</figcaption>
+</figure>
+
 
 ### 6.2.3(c)(ii): Monomers from a section of polymer
 

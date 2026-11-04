@@ -44,6 +44,12 @@ Links: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/) · [p
 | Stroma | Site of the **light-independent stage (Calvin cycle)**; contains rubisco and other enzymes |
 | Double membrane (envelope) | Separates chloroplast reactions from the cytoplasm |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--01-chloroplast-structure.webp" width="900" height="1000" alt="A chloroplast drawn as an oval with a double membrane. Three grana of stacked thylakoids are joined by lamellae, and the stroma holds a starch grain, circular DNA and ribosomes. Colour coding shows the light-dependent stage on the thylakoid membranes and the Calvin cycle in the stroma." loading="lazy">
+  <figcaption>Where each part of a chloroplast sits and which stage happens there.</figcaption>
+</figure>
+
+
 ### How the stages link (13.1.2)
 
 Light-dependent stage → **ATP + reduced NADP** → used in the Calvin cycle to make **complex organic molecules** from CO₂.
@@ -56,6 +62,12 @@ Light-dependent stage → **ATP + reduced NADP** → used in the Calvin cycle to
 | Chlorophyll b | Accessory pigment; passes absorbed energy to chlorophyll a |
 | Carotene | Accessory pigment (carotenoid) |
 | Xanthophyll | Accessory pigment (carotenoid) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--02-pigment-spectra.webp" width="900" height="900" alt="Schematic absorption curves for chlorophyll a, chlorophyll b and carotenoids are plotted with an action spectrum over a coloured wavelength strip. The chlorophylls absorb mainly blue and red and little green, and the action spectrum follows the combined absorption. At 450 nm the action spectrum is 78 units and at 550 nm 20 units, 26 percent." loading="lazy">
+  <figcaption>The action spectrum follows the pigments absorption spectra, with low but non-zero rate in green.</figcaption>
+</figure>
+
 
 ### Spectra (13.1.5)
 
@@ -77,6 +89,12 @@ Light-dependent stage → **ATP + reduced NADP** → used in the Calvin cycle to
 5. Measure from the origin to the **centre** of each spot and to the solvent front.
 6. Calculate Rf and match to reference values for **the same solvent**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--03-chromatography-rf.webp" width="900" height="880" alt="A chromatography strip stands in solvent with a pencil origin and a solvent front 84 mm above it. Four pigment spots at 80, 55, 50 and 42 mm give Rf values 0.95, 0.65, 0.60 and 0.50. Rf has no units and is less than 1." loading="lazy">
+  <figcaption>How Rf is measured from the origin and calculated for each pigment.</figcaption>
+</figure>
+
+
 ### Photophosphorylation (13.1.7–10)
 
 | Feature | Cyclic | Non-cyclic |
@@ -96,6 +114,17 @@ Light-dependent stage → **ATP + reduced NADP** → used in the Calvin cycle to
 2. Energy transfers protons **from the stroma into the thylakoid space**.
 3. Protons return to the **stroma** by **facilitated diffusion through ATP synthase** → ATP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--04-light-dependent-stage.webp" width="900" height="960" alt="A thylakoid membrane with thylakoid space above and stroma below. Light excites electrons in photosystem II, replaced by photolysis of water, and they pass along the electron transport chain, which pumps protons into the thylakoid space. Electrons reach photosystem I and reduce NADP, while protons flow back through ATP synthase to make ATP." loading="lazy">
+  <figcaption>Where ATP, reduced NADP and oxygen come from on the thylakoid membrane.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--05-cyclic-vs-noncyclic.webp" width="900" height="900" alt="Two panels compare electron routes. Non-cyclic uses PSII and PSI, takes electrons from water and makes ATP, reduced NADP and oxygen. Cyclic uses PSI only, returns electrons to PSI and makes ATP only." loading="lazy">
+  <figcaption>Which products each photophosphorylation route makes.</figcaption>
+</figure>
+
+
 ### Calvin cycle (13.1.11–12)
 
 | Stage | What happens | Needs |
@@ -114,6 +143,17 @@ Light-dependent stage → **ATP + reduced NADP** → used in the Calvin cycle to
 |---|---|---|---|
 | Light reduced | Rises | Falls | Less ATP and reduced NADP, so GP is not reduced and RuBP is not regenerated; fixation continues for a while |
 | CO₂ reduced | Falls | Rises | Less fixation, so less RuBP used and less GP made; regeneration continues for a while |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--06-calvin-cycle.webp" width="900" height="820" alt="The Calvin cycle for three turns: 3 CO2 and 3 RuBP (15C) give 6 GP (18C), reduced to 6 TP. Five TP (15C) regenerate 3 RuBP and one TP leaves. In total 9 ATP and 6 reduced NADP are used, 3 and 2 per CO2." loading="lazy">
+  <figcaption>Counting carbon, ATP and reduced NADP through the Calvin cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--07-gp-rubp-levels.webp" width="900" height="960" alt="Two model graphs. When light is switched off GP rises and RuBP falls. When carbon dioxide is removed RuBP rises and GP falls. Each follows from which reactions still run." loading="lazy">
+  <figcaption>Predicting how GP and RuBP change when light or CO2 is removed.</figcaption>
+</figure>
+
 
 ## 13.2 Investigation of limiting factors
 
@@ -162,11 +202,23 @@ Light-dependent stage → **ATP + reduced NADP** → used in the Calvin cycle to
 4. Link to the stage affected: light → ATP and reduced NADP; CO₂ and temperature → the Calvin cycle.
 5. If two curves are given, use the difference in plateau height as evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--09-pondweed-practical.webp" width="900" height="1090" alt="Apparatus for the pondweed investigation: a lamp at distance d, a water heat shield, and pondweed in hydrogencarbonate solution releasing oxygen into a capillary. A bar chart shows intensity is proportional to 1/d squared: 1, 0.25 and 0.0625 at 10, 20 and 40 cm." loading="lazy">
+  <figcaption>How moving the lamp changes light intensity in the pondweed practical.</figcaption>
+</figure>
+
+
 ### Small worked reminders
 
 - Coloured filters change light intensity as well as wavelength. Check intensity with a light meter and make it **equal** before comparing wavelengths.
 - Oxygen collected from a whole plant is a **net** rate: some oxygen is used in respiration, so the true rate is higher.
 - A carbon dioxide source must be kept constant when light is the independent variable, or it may run out and become limiting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--08-limiting-factor-graphs.webp" width="900" height="1180" alt="Top: oxygen release against light intensity rises to 60 units then plateaus, and a higher-CO2 curve plateaus higher, so CO2 limited the first plateau. Bottom: rate against temperature rises 125 percent then 50 percent to 35 degrees and falls 78 percent at 45 degrees as enzymes denature." loading="lazy">
+  <figcaption>Rising parts are limited by the x-axis factor; plateaus mean another factor limits.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

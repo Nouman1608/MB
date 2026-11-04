@@ -55,6 +55,17 @@ Reminders:
 - Chlamydia is often silent, so screening and telling partners matters.
 - Antibiotics only work on bacteria. They are no use against influenza or HIV, and nothing treats athlete's foot except antifungals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--11-named-human-infections-flu-salmonella-athletes-foot.webp" width="900" height="980" alt="Influenza (virus, droplets), Salmonella (bacterium, raw or undercooked meat and eggs) and athlete's foot (fungus, contact and damp floors), with effects and prevention or treatment." loading="lazy">
+  <figcaption>One viral, one bacterial and one fungal infection compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--12-stis-hiv-chlamydia-gonorrhoea.webp" width="900" height="1060" alt="HIV (virus) attacks T helper cells; chlamydia and gonorrhoea are bacterial and treated with antibiotics. A flow shows HIV infection, falling T helper cells, then AIDS." loading="lazy">
+  <figcaption>HIV is the virus; AIDS is the late stage.</figcaption>
+</figure>
+
+
 ## B6.3f: named plant diseases
 
 | | TMV | Barley powdery mildew | Crown gall |
@@ -66,6 +77,12 @@ Reminders:
 | Control | Destroy infected plants, clean hands and tools, resistant varieties | Fungicide, resistant varieties, spacing, remove debris | Healthy stock, avoid wounds, clean tools |
 
 Link every plant disease to the effect on growth: less photosynthesis or damaged transport means less glucose, poorer growth and lower yield.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--13-plant-diseases-tmv-mildew-crown-gall.webp" width="900" height="860" alt="Tobacco mosaic virus gives patchy leaves, barley powdery mildew (a fungus) gives white powder, and crown gall (a bacterium) gives tumour-like galls; each has its own spread route." loading="lazy">
+  <figcaption>Match each disease to its pathogen type, signs and spread.</figcaption>
+</figure>
+
 
 ## B6.3g and B6.3h: plant defences
 
@@ -80,6 +97,12 @@ Must-know distinctions:
 - Physical defences are barriers; chemical defences are substances that attack microbes.
 - Plants do not have white blood cells or antibodies. Do not use animal immune responses to answer plant questions.
 - Wounds bypass physical barriers, which is how crown gall bacteria enter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--03-plant-defences.webp" width="900" height="1060" alt="Section through a leaf surface. Pathogens land on a waxy waterproof cuticle, the first barrier. Each cell has a cellulose cell wall, the second barrier. Antimicrobial chemicals inside cells kill or stop growth of bacteria and fungi that get through." loading="lazy">
+  <figcaption>Physical barriers (cuticle, cell wall) stop entry; antimicrobial chemicals act inside.</figcaption>
+</figure>
+
 
 ## B6.3i: detection and identification (Higher Tier only)
 
@@ -98,6 +121,12 @@ Method in steps for a DNA test result:
 4. State the conclusion: same size band means pathogen DNA present; no band means none found; a different size means a different DNA.
 
 Field versus lab: the field is quick and cheap but symptoms can look similar for different causes. Lab tests are specific and can confirm the pathogen, but take longer and need equipment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--14-dna-gel-reading-tmv.webp" width="900" height="910" alt="A gel with positive and negative controls and four samples. Samples A and C have a 410 base pair band like the positive control, B has none, and D has a band at 250 only, so it is not TMV DNA." loading="lazy">
+  <figcaption>Reading bands against the controls.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

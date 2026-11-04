@@ -62,6 +62,17 @@ kidney  →  ureter  →  bladder  →  urethra  →  outside
 - The kidneys lie at the back of the abdomen, one each side of the spine.
 - The bladder sits low in the abdomen, in front.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--01-excretion-or-egestion.webp" width="900" height="960" alt="A body outline shows the lungs excreting carbon dioxide and the kidneys excreting urea, excess water and excess ions. The gut egests faeces, which are undigested food that was never inside cells. Excretion is labelled in teal and egestion in copper." loading="lazy">
+  <figcaption>Lungs and kidneys excrete cell waste; the gut egests undigested food.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--02-urinary-system.webp" width="900" height="975" alt="Two kidneys lie either side of the spine. A ureter runs from each kidney to the bladder, which stores urine, and one urethra carries urine out. Arrowheads show urine flowing kidney, ureter, bladder, urethra." loading="lazy">
+  <figcaption>Urine flows kidney, ureter, bladder, urethra: two ureters, one urethra.</figcaption>
+</figure>
+
+
 ## Extended only: 13.1.4–13.1.5
 
 ### Kidney structure
@@ -105,6 +116,37 @@ times more concentrated = concentration in urine ÷ concentration in plasma
 ```
 
 Urea is concentrated in urine because most of the water is reabsorbed while urea is not reabsorbed like glucose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--03-kidney-section.webp" width="900" height="1000" alt="A kidney cut lengthways: the cortex is the darker outer layer and the medulla is made of cone-shaped inner regions. The ureter leaves from the central, concave inner side." loading="lazy">
+  <figcaption>Cortex is the outer layer, medulla the inner cone-shaped regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--04-nephron.webp" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct." loading="lazy">
+  <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--05-water-reabsorbed.webp" width="900" height="846" alt="120 squares each stand for 1 cm3 of filtrate per minute. 118.5 are teal (reabsorbed, 98.8%) and 1.5 are gold (urine)." loading="lazy">
+  <figcaption>Of 120 cm3 filtered each minute, 118.5 cm3 returns to the blood and 1.5 cm3 leaves as urine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--06-plasma-filtrate-urine.webp" width="900" height="1160" alt="Bar charts of protein, glucose and urea in plasma, filtrate and urine. Protein is absent from filtrate and urine; glucose is in plasma and filtrate but not urine; urea is 0.30 in plasma and filtrate but 18 in urine, 60 times more concentrated." loading="lazy">
+  <figcaption>Protein is not filtered, glucose is filtered then all reabsorbed, and urea becomes 60 times more concentrated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--07-liver-urea-route.webp" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine." loading="lazy">
+  <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--08-urea-toxic.webp" width="900" height="980" alt="Two panels compare blood, tissue fluid and a cell. When the kidneys remove urea, little urea is present and the cell is healthy. If urea is not removed, many urea particles build up in blood and tissue fluid and the cell is damaged." loading="lazy">
+  <figcaption>Urea is toxic, so it must be removed before it builds up and damages cells.</figcaption>
+</figure>
+
 
 ## Extended only: 13.1.6–13.1.9
 

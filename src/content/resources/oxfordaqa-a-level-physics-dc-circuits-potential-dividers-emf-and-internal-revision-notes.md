@@ -74,6 +74,12 @@ Ammeters are ideal (zero resistance) and voltmeters ideal (infinite resistance) 
 - Charge: current into a junction equals current out.
 - Energy: round any loop, total emf equals total pd across components. Energy supplied per coulomb equals energy transferred per coulomb.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--06-two-source-kirchhoff.webp" width="900" height="1100" alt="Two branches (12 V with 3.0 ohm, 8.0 V with 2.0 ohm) share a 2.0 ohm resistor. The junction law and two loop equations give I1 = 2.0 A, I2 = 1.0 A and 3.0 A through the shared resistor, with 6.0 V across it. Power from sources (32 W) equals power in the resistors (12 + 2 + 18 W)." loading="lazy">
+  <figcaption>Solving a two-source circuit with Kirchhoff laws and checking energy.</figcaption>
+</figure>
+
+
 ### Worked reminder: cells with internal resistance
 
 Two identical cells (2.0 V, 0.50 Ω each) drive a 3.5 Ω resistor. In series, ε = 4.0 V and r = 1.0 Ω, so I = 4.0/4.5 = 0.889 A. In parallel, ε = 2.0 V and r = 0.25 Ω, so I = 2.0/3.75 = 0.533 A.
@@ -82,6 +88,12 @@ Two identical cells (2.0 V, 0.50 Ω each) drive a 3.5 Ω resistor. In series, ε
 
 - A 12 V, 3.0 A heater for 300 s: E = 3.0 × 12 × 300 = 1.08 × 10⁴ J.
 - For two resistors in series, the larger resistance gets the larger share of the power. In parallel, the smaller resistance gets the larger share.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--05-series-parallel-circuit.webp" width="900" height="1060" alt="An 18 V supply drives a 6.0 ohm resistor in series with 12 ohm and 4.0 ohm resistors in parallel. The pair is 3.0 ohm, total 9.0 ohm, supply current 2.0 A; the branches carry 0.50 A and 1.5 A, with 6.0 V across both. Currents add at the junction and 18 V = 12 V + 6.0 V round the loop." loading="lazy">
+  <figcaption>One mixed circuit solved to show both Kirchhoff laws.</figcaption>
+</figure>
+
 
 ## 3.4.5 Potential divider
 
@@ -102,6 +114,17 @@ Two identical cells (2.0 V, 0.50 Ω each) drive a 3.5 Ω resistor. In series, ε
 A variable resistor connected as a divider (the two ends across the supply, the output taken from the slider) gives any pd from 0 V up to the supply pd. A loaded divider gives a smaller output than an unloaded one, and the effect grows as the load resistance gets smaller.
 
 **Worked reminder.** To get 2.0 V from a 6.0 V supply with a 2.0 kΩ resistor across the output: 2.0 = 6.0 × 2.0/(R₁ + 2.0), so R₁ + 2.0 = 6.0 and R₁ = 4.0 kΩ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--08-potential-divider-load.webp" width="900" height="1170" alt="Left: 12 V across 4.7 kohm and 3.3 kohm gives 4.95 V across the 3.3 kohm resistor. Right: a 3.3 kohm load in parallel makes 1.65 kohm, so the output falls to 3.12 V. Below: a potentiometer slider 35.0 cm along a 100.0 cm track on a 6.0 V supply gives 2.1 V." loading="lazy">
+  <figcaption>A loaded divider lowers the output; a slider on a track gives a variable output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--09-sensing-dividers.webp" width="900" height="1210" alt="With an NTC thermistor and a 2.2 kohm resistor on 9.0 V, the output across the fixed resistor rises from 4.95 V at 20 C to 7.07 V at 60 C while the output across the thermistor falls from 4.05 V to 1.93 V. With an LDR in series with 10 kohm on 6.0 V, the 10 kohm resistor has 5.45 V in bright light and 0.29 V in the dark." loading="lazy">
+  <figcaption>Which component the output is across decides whether it rises or falls.</figcaption>
+</figure>
+
 
 ## 3.4.6 emf and internal resistance
 
@@ -130,6 +153,22 @@ A variable resistor connected as a divider (the two ends across the supply, the 
 - Plot V against I. Gradient = −r. Vertical intercept = ε.
 - Use a large triangle for the gradient. Read the intercept from the line.
 - Check for a systematic error: a voltmeter that does not read zero, or contact resistance in leads.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--03-resistivity-wire.webp" width="900" height="1255" alt="Three wires drawn to scale show that doubling the length doubles R (11.9 to 23.9 ohm) and doubling the diameter quarters it (2.98 ohm). A graph of R against L for a 0.32 mm wire has gradient 13.7 ohm per metre, so resistivity equals gradient times area, 1.1 x 10^-6 ohm metre." loading="lazy">
+  <figcaption>How length and diameter change resistance, and how a graph gives resistivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--04-resistance-temperature.webp" width="900" height="1275" alt="In a metal, heating makes the ions vibrate more so electrons collide more and resistance rises. In an NTC thermistor or an LDR, heat or light frees many more carriers so resistance falls. The graph shows a metal rising gently and an NTC thermistor falling from 2.4 kohm at 25 C to 0.50 kohm at 65 C." loading="lazy">
+  <figcaption>Collisions versus carrier number: why metals and NTC thermistors behave oppositely.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--07-internal-resistance.webp" width="900" height="1290" alt="A real cell is an e.m.f. E in series with internal resistance r. With E = 12.0 V, r = 0.50 ohm and R = 5.5 ohm, I = 2.0 A, the terminal p.d. is 11.0 V and 1.0 V is lost across r. A V-I graph of a cell is a straight line with gradient -r and intercept E: data give E = 1.50 V and r = 0.60 ohm, short-circuit current 2.5 A." loading="lazy">
+  <figcaption>Where the e.m.f. goes: terminal p.d. plus lost volts, and how a V–I graph gives E and r.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -168,6 +207,12 @@ A variable resistor connected as a divider (the two ends across the supply, the 
 10. emf **1.2 V**, internal resistance 0.50/2 = **0.25 Ω**.
 11. ε = **1.60 V**; gradient = (1.18 − 1.60)/0.30 = −1.4 V A⁻¹, so r = **1.4 Ω**.
 12. The energy the cell supplies per coulomb of charge it drives round the circuit, ε = E/Q.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--02-iv-characteristics.webp" width="900" height="1115" alt="Four I-V graphs: a fixed resistor is a straight line through the origin; a filament lamp curves flat as it heats, with lesson data giving 10 ohm at 1.0 V and 25 ohm at 10 V; a diode conducts only above about 0.7 V forward; an NTC thermistor curve steepens as it heats." loading="lazy">
+  <figcaption>Four I–V shapes side by side, with R = V/I read at a point.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

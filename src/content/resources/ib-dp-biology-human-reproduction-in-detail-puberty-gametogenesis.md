@@ -52,6 +52,12 @@ Points to be precise about: the hypothalamus makes GnRH, the pituitary makes LH 
 
 **Worked example.** A boy aged 8 has an LH concentration of 0.8 IU/L. At age 14 it is 4.2 IU/L. Percentage increase = (4.2 − 0.8) / 0.8 × 100 = **425%**. The rise in LH acts on the testes, so testosterone concentration also rises, here from 0.3 to 15 nmol/L, which is a 50-fold increase. The question to ask of any such data is "which gland, which hormone, which target?"
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--01-puberty-gnrh-chain.webp" width="900" height="1140" alt="The hypothalamus releases more GnRH, which acts on the anterior pituitary to release more LH and FSH; these act on the gonads, which make steroid sex hormones (testosterone from the testes, oestradiol and progesterone from the ovaries). A bar chart shows LH in a boy rising from 0.8 to 4.2 IU per litre, a 425 percent increase. Labelled silhouettes show the resulting changes in males and females, and both sexes have a growth spurt." loading="lazy">
+  <figcaption>Rising GnRH raises LH and FSH, which raise sex hormone output from the gonads and bring about puberty.</figcaption>
+</figure>
+
+
 ## Gametogenesis (D3.1.14)
 
 Both processes pass through the same four phases: **mitosis** to multiply germ cells, **cell growth**, **meiosis** (two successive divisions) and **differentiation** into specialised gametes. The outcomes differ.
@@ -92,6 +98,12 @@ The cytoplasm difference links to D3.1.3: the egg carries the food reserves, whi
 
 **Worked example (magnification).** A photomicrograph shows an egg 36 mm across. Its actual diameter is 0.12 mm. Magnification = image size / actual size = 36 / 0.12 = **×300**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--02-gametogenesis-compared.webp" width="900" height="1120" alt="Two columns follow one primary cell through meiosis I, meiosis II and differentiation. A primary spermatocyte (46 chromosomes) gives two cells of 23 chromosomes, then four spermatids, then four equal sperm. A primary oocyte divides unequally, giving a large secondary oocyte and a first polar body, then (only if a sperm enters) a large egg and polar bodies that degenerate." loading="lazy">
+  <figcaption>One cell gives four equal sperm but only one egg, which keeps almost all the cytoplasm.</figcaption>
+</figure>
+
+
 ## Preventing polyspermy (D3.1.15)
 
 Polyspermy is entry of more than one sperm into an egg. In humans two sperm would give 23 × 3 = 69 chromosomes, a triploid zygote that cannot develop normally. Two events prevent it.
@@ -102,11 +114,23 @@ Polyspermy is entry of more than one sperm into an egg. In humans two sperm woul
 
 Common error: swapping the two. The acrosome reaction belongs to the sperm and lets it in. The cortical reaction belongs to the egg and keeps the rest out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--03-preventing-polyspermy.webp" width="900" height="1180" alt="Two panels show the top of an egg. In the acrosome reaction the sperm releases enzymes that digest a path through the zona pellucida to the egg membrane. In the cortical reaction, cortical granules under the egg membrane release their contents, altering the zona pellucida so other sperm cannot bind. Two sperm would give 23 x 3 = 69 chromosomes." loading="lazy">
+  <figcaption>The acrosome reaction lets one sperm in; the cortical reaction keeps the rest out.</figcaption>
+</figure>
+
+
 ## Blastocyst and implantation (D3.1.16)
 
 After fertilization the zygote divides by mitosis as it travels down the oviduct (fallopian tube). The result is a hollow ball of cells, the **blastocyst**. It has an outer layer of cells (the trophoblast), an inner cell mass that goes on to form the embryo, and a fluid-filled cavity. You do not need the names of other embryo stages.
 
 About a week after fertilization the blastocyst reaches the uterus. Its outer cells attach to the **endometrium** and release enzymes that digest some of the lining. The blastocyst sinks in. This is **implantation**. The endometrium is thick and rich in blood vessels because of progesterone from the corpus luteum. The embryo and the developing placenta begin to secrete hCG.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--04-blastocyst-implantation.webp" width="900" height="1040" alt="The zygote divides by mitosis down the oviduct to 2, 4 and 8 cells and then a blastocyst. About a week after fertilization the blastocyst, with outer trophoblast cells, an inner cell mass and a fluid-filled cavity, reaches the uterus. Its outer cells release enzymes that digest the thick, blood-rich endometrium so it sinks in, and hCG is secreted." loading="lazy">
+  <figcaption>The blastocyst attaches to the endometrium, digests part of it and sinks in.</figcaption>
+</figure>
+
 
 ## Pregnancy testing and hCG (D3.1.17)
 
@@ -122,6 +146,17 @@ Monoclonal antibodies are specific, so the test seldom responds to other hormone
 
 **Worked example.** hCG concentration in a woman's blood rises from 6 mIU/mL on day 9 after ovulation to 120 mIU/mL on day 17. Rise = 114, so the fold change is 120 / 6 = **20-fold** in 8 days. Between day 11 (13) and day 13 (27) the percentage change is (27 − 13) / 13 × 100 = **108%**, close to doubling every two days. A test that needs 25 mIU/mL first turns positive on day 13. (These are illustrative values written for practice.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--05-hcg-test-strip.webp" width="900" height="1100" alt="Urine moves along a test strip by capillary action. Mobile antibodies with a coloured marker bind hCG and travel on; a fixed line of further anti-hCG antibodies traps the complex, producing a coloured test line. A control line shows the test has worked. A positive result has test and control lines; a negative result has the control line only. Monoclonal antibodies are identical and bind one site on hCG." loading="lazy">
+  <figcaption>Labelled monoclonal antibodies bind hCG and a fixed antibody line traps the complex, giving a coloured line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--06-hcg-rise.webp" width="900" height="930" alt="A graph of hCG against days after ovulation with the lesson values 6, 13, 27 and 120 mIU per mL on days 9, 11, 13 and 17, a 20-fold rise in 8 days. A dashed line at 25 mIU per mL marks the test threshold, crossed first on day 13. Small test windows show the control line only on day 11 and both lines on day 13." loading="lazy">
+  <figcaption>With a 25 mIU/mL threshold the test first turns positive on day 13.</figcaption>
+</figure>
+
+
 ## The placenta (D3.1.18)
 
 The placenta forms from embryonic tissue and maternal endometrium. You need only one structural fact: the **villi** give a large surface area for exchange. Maternal and foetal blood stay separate, so exchange crosses thin barriers.
@@ -134,6 +169,12 @@ The placenta forms from embryonic tissue and maternal endometrium. You need only
 Processes include simple diffusion (oxygen, carbon dioxide), facilitated diffusion and active transport (nutrients) and endocytosis (antibodies). The placenta also secretes hormones, and it can let through harmful substances such as alcohol and some viruses and drugs.
 
 The placenta lets the foetus stay in the uterus until a later stage than in mammals without one. Marsupials, for example, give birth to very undeveloped young which then develop in a pouch. Placental mammals supply the foetus from the mother's blood over a long period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--07-placenta-exchange.webp" width="900" height="990" alt="Finger-like villi of foetal tissue, each with a foetal capillary and thin barrier, project into a pool of the mother's blood, giving a large surface area. Oxygen, glucose, amino acids, water and IgG antibodies pass to the foetus; carbon dioxide, urea and other wastes, and heat, pass to the mother. Maternal and foetal blood stay separate." loading="lazy">
+  <figcaption>The placenta exchanges substances across thin barriers while the two blood supplies stay separate.</figcaption>
+</figure>
+
 
 ## Hormones of pregnancy and childbirth (D3.1.19)
 
@@ -148,6 +189,12 @@ The placenta lets the foetus stay in the uterus until a later stage than in mamm
 
 This is **positive feedback**: the output increases the stimulus. It ends when the baby is born and the pressure on the cervix stops. Contrast this with the negative feedback of the ovarian cycle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--08-childbirth-feedback.webp" width="900" height="1120" alt="After progesterone falls and the uterus becomes sensitive to oxytocin, a loop runs: the baby's head presses the cervix, stretch receptors send impulses to the hypothalamus, the posterior pituitary releases oxytocin and stronger contractions follow, which press harder on the cervix. The loop ends when the baby is born." loading="lazy">
+  <figcaption>Oxytocin positive feedback strengthens contractions until the baby is born.</figcaption>
+</figure>
+
+
 ## HRT and coronary heart disease (D3.1.20)
 
 After the menopause, the ovaries secrete much less oestrogen. Hormone replacement therapy (HRT) gives hormones to replace some of it. The guide treats this as a Nature of Science case about evidence.
@@ -157,6 +204,12 @@ After the menopause, the ovaries secrete much less oestrogen. Hormone replacemen
 - **Explanation.** The early link was a correlation, not cause and effect. Women taking HRT tended to have higher socioeconomic status, which itself lowers CHD risk. This is a **confounding variable**. Randomization shares such variables evenly between groups.
 
 **Worked example.** In an observational study, 36 of 2400 HRT users (1.5%) and 150 of 6000 non-users (2.5%) developed CHD. Relative risk = 1.5 / 2.5 = **0.6**. In a randomized trial, 104 of 8000 (1.3%) on HRT and 88 of 8000 (1.1%) on placebo developed CHD. Relative risk = 1.3 / 1.1 = **1.18**, an absolute difference of 2 per 1000 women. (These numbers were made up for practice.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis--09-hrt-correlation-causation.webp" width="900" height="1080" alt="Women who chose HRT tended to have higher socioeconomic status, a confounding variable that lowers CHD risk. Bar charts show an observational study (1.5% of HRT users and 2.5% of non-users with CHD, relative risk 0.6) and a randomised trial (1.3% on HRT and 1.1% on placebo, relative risk 1.18). Randomisation shares confounders evenly between groups." loading="lazy">
+  <figcaption>A correlation in observational data was explained by a confounder; randomised trials found a small increase in CHD risk.</figcaption>
+</figure>
+
 
 ## Common errors
 

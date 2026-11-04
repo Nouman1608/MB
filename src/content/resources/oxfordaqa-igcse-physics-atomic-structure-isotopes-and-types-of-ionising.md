@@ -52,6 +52,12 @@ An atom has a radius of about 10⁻¹⁰ m. The simple model has a small, centra
 
 So an atom is mostly empty space, with a tiny dense core at the centre and electrons at various distances from it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--05-atom-nucleus-pea-scale.webp" width="900" height="920" alt="If the nucleus is a pea of radius 1 cm, the atom radius is 1 cm x 10^5 = 1 km, so the atom is mostly empty space." loading="lazy">
+  <figcaption>Atom radius is 10^5 times nucleus radius: a pea inside a 1 km atom.</figcaption>
+</figure>
+
+
 ## Evidence from alpha particle scattering (3.7.1 b)
 
 In the experiment, a narrow beam of alpha particles is aimed at very thin metal foil, with a detector that can be moved round the foil. The apparatus is in a vacuum, because alpha particles travel only a few centimetres in air.
@@ -63,6 +69,17 @@ In the experiment, a narrow beam of alpha particles is aimed at very thin metal 
 | Very few bounce back through large angles | A tiny nucleus holds the positive charge and most of the mass |
 
 Alpha particles are positive, so they are only repelled strongly when they pass very close to a concentrated positive charge. Only a heavy nucleus can turn a fast alpha particle back. Before this experiment, the positive charge was thought to be spread through the whole atom. Spread-out charge could not produce large deflections, so that model had to be replaced by the nuclear model.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--09-alpha-scattering-paths.webp" width="900" height="950" alt="Computed paths of alpha particles repelled by a tiny positive nucleus: far ones go almost straight on, a nearer one is deflected through a small angle and one aimed almost at the nucleus bounces back." loading="lazy">
+  <figcaption>Computed alpha paths: most pass straight on, a few deflect, very few bounce back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
+
 
 ## Protons, neutrons and electrons (3.7.1 c, d, e)
 
@@ -79,6 +96,12 @@ A neutral atom contains as many electrons as protons. The charges cancel, so the
 - Charge of the ion = number of protons – number of electrons.
 
 Only electrons are lost or gained. The nucleus is not changed when an ion forms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--02-ions-electrons.webp" width="900" height="980" alt="Rows of proton and electron dots for Na atom (11/11, charge 0), Na+ (11/10, +1) and Cl- (17/18, -1)." loading="lazy">
+  <figcaption>Charge equals protons minus electrons; the nucleus is unchanged.</figcaption>
+</figure>
+
 
 ## Atomic number, mass number and isotopes (3.7.1 f)
 
@@ -103,6 +126,12 @@ An atom is written with the mass number as a superscript before the symbol and t
 
 They are isotopes of carbon. They have the same number of electrons, so their chemical behaviour is the same. Their nuclei differ, and some isotopes are unstable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
+
+
 ## Unstable nuclei and random decay (3.7.2 a, b, c)
 
 Some atomic nuclei are unstable. An unstable nucleus emits particles or radiation and changes to the nucleus of a different element, which is more stable. This is **radioactive decay**. Changes in the nucleus are what release the energy.
@@ -112,6 +141,12 @@ Unstable nuclei emit alpha particles, beta particles or neutrons, together with 
 - Decay is a **random** process. There is no way to say when any one nucleus will decay, or which nucleus in a sample will go next.
 - Neither chemical nor physical processes affect this behaviour. Heating a sample, compressing it or combining it chemically with other elements does not change how its nuclei decay.
 - The radiations are called ionising because they can remove electrons from atoms and make ions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--08-random-decay-two-runs.webp" width="900" height="1090" alt="Two grids of the same 42 nuclei show different nuclei decaying and different counts in the same time. Heating, compressing and chemical change do not affect decay." loading="lazy">
+  <figcaption>Decay is random and unaffected by physical or chemical processes.</figcaption>
+</figure>
+
 
 ## Background radiation (3.7.2 d)
 
@@ -128,6 +163,12 @@ A detector with no source nearby still records counts. **Worked example 4.** A d
 - Corrected count rate = 600 – 8.4 = 591.6, which is **592 counts per minute** (3 significant figures).
 
 Because decay is random, repeating the measurement gives slightly different counts each time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--06-background-count-correction.webp" width="900" height="940" alt="No source: 84 counts in 10 min is 8.4 per minute. With a source: 1200 in 2 min is 600 per minute. Corrected 600 - 8.4 = 591.6, about 592 per minute." loading="lazy">
+  <figcaption>Subtract the background count rate from the count rate with the source.</figcaption>
+</figure>
+
 
 ## The nature of the radiations (3.7.2 e)
 
@@ -167,6 +208,12 @@ The atomic number rises by one in beta decay because a neutron becomes a proton.
 - Alpha: A = 241 – 4 = **237**, Z = 95 – 2 = **93**.
 - Beta: A = **90**, Z = 38 + 1 = **39**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
+</figure>
+
+
 ## Ionising power, penetration and range in air (3.7.2 g)
 
 Ionising power is how readily the radiation knocks electrons off atoms it passes. Penetration is how far it passes through a material. Range in air is how far it travels in air before it can no longer be detected above background.
@@ -191,6 +238,17 @@ The three properties are linked. A strongly ionising radiation loses energy at e
 - Paper makes almost no difference (a fall of 6 counts, which is within the random variation), so there is **no alpha**.
 - Aluminium removes 1444 – 475 = 969 counts per minute, so **beta** is present.
 - What gets through aluminium is **gamma**, and lead cuts it almost to background.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-atomic-structure-isotopes-and-types-of-ionising--07-absorber-count-rates.webp" width="900" height="880" alt="Corrected count rates: none 1450, paper 1444 (fall of 6, no alpha), 3 mm aluminium 475 (fall of 969, beta present), thick lead 22 (gamma cut to near background)." loading="lazy">
+  <figcaption>Absorber data show which radiations a source emits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
 
 ## Common errors
 

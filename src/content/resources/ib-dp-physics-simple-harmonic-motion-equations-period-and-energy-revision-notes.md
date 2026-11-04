@@ -34,6 +34,17 @@ Also useful: the [course hub](/boards/ib/ib-dp/physics/), the [printable checkli
 - **SHM conditions:** the net force points towards equilibrium, and its size is proportional to the displacement (F = –kx).
 - **Defining equation:** a = –ω²x. The minus sign means the acceleration is always towards equilibrium, opposite to the displacement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--01-conditions-for-shm.webp" width="900" height="1040" alt="A mass on a horizontal spring is shown at displacements +2d, +d, 0 and -2d. The force arrow always points back to equilibrium and its length is proportional to the displacement, giving F = -kx and a = -(k/m)x. A pendulum obeys this only for small angles." loading="lazy">
+  <figcaption>SHM needs a restoring force towards equilibrium that is proportional to displacement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--02-defining-equation.webp" width="900" height="960" alt="Acceleration against displacement is a straight line through the origin with gradient -w^2; for w = 11 rad/s and x0 = 0.040 m, a is -4.84, 0 and +4.84 m/s^2. Arrows on masses show a always points towards equilibrium." loading="lazy">
+  <figcaption>The minus sign in a = -w^2 x means the acceleration always points back towards equilibrium.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Equation | Level |
@@ -93,6 +104,12 @@ Taking x = x₀ sin(ωt) with φ = 0, the three graphs are related like this:
 - The velocity leads the displacement by a quarter of a cycle (π/2 rad). The acceleration is in antiphase with the displacement (a phase difference of π rad).
 - A non-zero φ shifts every curve sideways along the time axis. It does not change the amplitude or the period.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--03-describing-oscillation.webp" width="900" height="950" alt="A sine graph of displacement against time with amplitude 0.040 m and period 0.80 s. Frequency is 1/0.80 = 1.25 Hz and angular frequency is 2 pi/0.80 = 7.85 rad/s, so T = 1/f = 2 pi/w." loading="lazy">
+  <figcaption>Amplitude, period, frequency and angular frequency are linked by T = 1/f = 2 pi/w.</figcaption>
+</figure>
+
+
 ## Setting up a pendulum or spring question
 
 **Pendulum checks**
@@ -110,6 +127,12 @@ Taking x = x₀ sin(ωt) with φ = 0, the three graphs are related like this:
 - For a quantitative question (HL only), find E_T from the amplitude first, then find E_p at the given x, then subtract to get E_K.
 - Say what happens if damping is present: the total falls, so the amplitude falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--04-spring-pendulum-period.webp" width="900" height="1060" alt="A 0.64 kg mass on a spring of k = 26 N/m has T = 2 pi sqrt(m/k) = 0.99 s; a 0.85 m pendulum swinging through a small angle has T = 2 pi sqrt(l/g) = 1.85 s. Two sine waves of different amplitude share the same period." loading="lazy">
+  <figcaption>Period depends on m and k, or l and g, but not on amplitude.</figcaption>
+</figure>
+
+
 ## Energy over one cycle
 
 | Position | Speed | Kinetic | Potential |
@@ -120,6 +143,17 @@ Taking x = x₀ sin(ωt) with φ = 0, the three graphs are related like this:
 - The total stays constant when there are no dissipative forces.
 - Spring: potential energy is elastic. Pendulum: gravitational.
 - Against time, both energies repeat twice per period. Against displacement, E_p is a parabola, E_K an inverted parabola, and E_T a horizontal line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--05-energy-in-one-cycle.webp" width="900" height="920" alt="A pendulum bob at -A, -A/2, 0, +A/2 and +A with stacked bars: potential energy is the whole total at the turning points, kinetic is the whole total at equilibrium, and the bars always add to the same height." loading="lazy">
+  <figcaption>Kinetic and potential energy trade places while the total stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--06-energy-vs-displacement.webp" width="900" height="960" alt="For m = 0.35 kg, w = 11 rad/s, x0 = 0.040 m the total energy is a flat line at 0.034 J, potential energy is an upward parabola and kinetic energy a downward parabola. At x = 0.024 m, Ep = 0.012 J, Ek = 0.022 J and v = 0.352 m/s." loading="lazy">
+  <figcaption>Potential and kinetic energy are parabolas in x that add to a constant total.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -158,6 +192,12 @@ Taking x = x₀ sin(ωt) with φ = 0, the three graphs are related like this:
 10. E_T = ½ × 0.50 × 4.0² × 0.10² = 0.040 J.
 11. sin φ = 1, so φ = π/2 rad.
 12. T is proportional to √l, so the period is multiplied by three.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--07-phase-angle.webp" width="900" height="960" alt="Displacement and velocity graphs for x0 = 0.040 m, T = 0.80 s, starting at +0.020 m moving positively, so phi = pi/6 rad. At t = 0.30 s x = 0.0104 m and v = -0.303 m/s, moving back towards equilibrium." loading="lazy">
+  <figcaption>The phase angle phi fixes where in its cycle the oscillator is at t = 0.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

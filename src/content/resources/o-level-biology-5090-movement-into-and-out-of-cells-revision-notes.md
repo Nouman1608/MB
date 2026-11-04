@@ -43,6 +43,22 @@ These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Le
 | Excretion | Urea and excess salts leave the body dissolved in water as urine |
 | Transport | Plasma carries dissolved glucose, amino acids, ions, urea and carbon dioxide; xylem water carries dissolved mineral ions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-movement-into-and-out-of-cells--04-root-water-gradient.webp" width="900" height="1040" alt="Two panels. In normal soil, soil water has few dissolved particles so it has a higher water potential than the root hair cell sap, and water enters the cell by osmosis. In salty soil or soil with too much fertiliser, soil water has many dissolved particles and a lower water potential than the cell sap, so the gradient reverses, water leaves the root hair cell and the plant wilts. Gold dots are dissolved particles." loading="lazy">
+  <figcaption>Water uptake and loss at a root hair cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-movement-into-and-out-of-cells--02-water-solvent.webp" width="900" height="1030" alt="Four water-filled panels with coloured dots for dissolved substances. Digestion: glucose and amino acids. Excretion: urea and excess salts in urine. Blood plasma: glucose, amino acids, ions, urea and CO2. Plant sap: mineral ions in xylem and sugars in phloem." loading="lazy">
+  <figcaption>Water dissolves the substances that are digested, excreted and transported.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-movement-into-and-out-of-cells--03-plant-cell-water.webp" width="900" height="1000" alt="Three plant cells with wall, cytoplasm and vacuole. Turgid: higher water potential outside, water enters and turgor pressure presses on the wall. Flaccid: lower water potential outside, water leaves and turgor is lost. Plasmolysed: the membrane and cytoplasm pull away from the wall." loading="lazy">
+  <figcaption>Water entering makes a plant cell turgid; water leaving makes it flaccid, then plasmolysed.</figcaption>
+</figure>
+
+
 ## 3.1.2 Where the energy comes from
 
 - Diffusion and osmosis use the **kinetic energy of random movement** of molecules and ions.
@@ -68,6 +84,22 @@ These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Le
 4. Repeat for each size and calculate a mean time.
 5. Change only one factor at a time: size (surface area), temperature, acid concentration (gradient) or block thickness (distance).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-movement-into-and-out-of-cells--01-cube-sav.webp" width="900" height="990" alt="Three pink agar cubes drawn to scale with sides 1 cm, 2 cm and 4 cm. Surface area is 6, 24 and 96 square centimetres and volume is 1, 8 and 64 cubic centimetres, so SA:V is 6 to 1, 3 to 1 and 1.5 to 1. The distance from surface to centre is 0.5, 1 and 2 cm. The smallest cube has the largest SA:V and goes colourless first; the 4 cm cube goes colourless last." loading="lazy">
+  <figcaption>Bigger cube, smaller SA:V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--02-diffusion-factors.webp" width="900" height="1130" alt="Four paired pictures. Larger surface area: one block versus the same amount cut into four pieces. Higher temperature: short versus long movement arrows. Steeper concentration gradient: small versus big difference between two sides. Shorter distance: thick versus thin layer to cross." loading="lazy">
+  <figcaption>Diffusion is faster with more surface area, higher temperature, a steeper gradient and a shorter distance.</figcaption>
+</figure>
+
+
 ## 3.1.5 to 3.1.7 Osmosis and water potential
 
 - Pure water has the **highest** water potential.
@@ -87,6 +119,22 @@ These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Le
 
 **Uptake and loss of water (3.1.7):** soil water normally has a higher water potential than root hair cell sap, so water enters by osmosis. Salty or over-fertilised soil can have a lower water potential than the cell sap, so water leaves the roots instead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-movement-into-and-out-of-cells--03-red-blood-cells.webp" width="900" height="900" alt="Three beakers each with one red blood cell. In pure water, water enters by osmosis and the cell swells and bursts because animal cells have no cell wall. In a solution of equal water potential there is no net movement of water and the cell keeps its shape. In a solution of lower water potential water leaves by osmosis and the cell shrinks." loading="lazy">
+  <figcaption>Red blood cells in three solutions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms are Extended." loading="lazy">
+  <figcaption>A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.</figcaption>
+</figure>
+
+
 ## 3.1.8 Plant tissue in solutions
 
 **Method in steps**
@@ -100,6 +148,12 @@ These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Le
 
 **Worked reminder.** A chip goes from 4.0 g to 3.4 g. Change = (3.4 − 4.0) / 4.0 × 100 = **−15 %**. The solution had a lower water potential than the cells; water left by osmosis and the cells became flaccid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-movement-into-and-out-of-cells--02-potato-graph.webp" width="900" height="960" alt="Graph of percentage change in mass of potato cylinders against sucrose concentration. Values are +12.0, +7.5, +1.9, −6.0, −10.0 and −12.0 percent at 0.0, 0.2, 0.4, 0.6, 0.8 and 1.0 mol per cubic decimetre. Cylinders gain mass in dilute solutions because water enters by osmosis and lose mass in strong solutions because water leaves. The line crosses zero at about 0.45 mol per cubic decimetre, where the solution and the potato cells have the same water potential." loading="lazy">
+  <figcaption>Potato cylinders: percentage change in mass.</figcaption>
+</figure>
+
+
 ## 3.1.9 Dialysis tubing
 
 - Visking (dialysis) tubing is **partially permeable**: water passes through quickly, sucrose more slowly and starch not at all.
@@ -107,12 +161,34 @@ These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Le
 - Bag of water in concentrated sugar solution: water leaves, the bag loses mass and goes limp.
 - Control: bag of water in water, no change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-movement-into-and-out-of-cells--01-dialysis-mass-worked.webp" width="900" height="960" alt="Two beakers of distilled water hold a bag of sucrose solution. The bag reads 12.5 g at the start and 14.0 g after 30 minutes because water entered by osmosis. The working shows a gain of 1.5 g, an increase of 12.0 % and a mean rate of 0.05 g per minute." loading="lazy">
+  <figcaption>The dialysis bag gains 1.5 g in 30 minutes: 12.0 %, or 0.05 g per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--05-dialysis-tubing.webp" width="900" height="960" alt="A bag of dialysis tubing holding strong solution hangs in a beaker of water. At the start the bag is small. Later it has swollen because water entered by osmosis, while the same solute particles stay inside. Measuring its mass before and after shows the change." loading="lazy">
+  <figcaption>Water enters the tubing bag by osmosis, so it swells and gains mass.</figcaption>
+</figure>
+
+
 ## 3.2 Active transport
 
 - Moves ions **against** a concentration gradient (low to high).
 - Needs **energy from respiration**, so needs living, respiring cells.
 - **Root hair cells** take up mineral ions, such as nitrate and magnesium, from soil water where the ion concentration is lower than in the cell. Diffusion alone could not do this.
 - Lack of oxygen (for example waterlogged soil) or a respiratory poison reduces respiration and so reduces ion uptake.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
+  <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -64,6 +64,12 @@ For safety, work in three steps: name the hazard, say who or what could be harme
 | Falling masses, stretched wires | Impact, whiplash | Safety goggles, sand tray or box under the load, keep feet clear |
 | Radioactive source | Ionising radiation | Covered below |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--07-safety-hazard-harm-control.webp" width="900" height="930" alt="Four apparatus with the harm each could cause and a specific control: laser, hot water, falling mass and high current." loading="lazy">
+  <figcaption>Name the hazard, say what could be harmed, then give a control that fits the apparatus.</figcaption>
+</figure>
+
+
 ### Recording and presenting (d), (e), (f)
 
 Record data at the time, in a table, with the quantity and unit in each column heading (for example "t / s"). Give all values in a column to the same number of decimal places, matching the resolution of the instrument. Keep a dated record of what you did, including repeats and anomalies. Graphs need labelled axes with units, a sensible scale that uses most of the grid, points plotted accurately, and a best-fit line or curve.
@@ -78,9 +84,21 @@ Use a spreadsheet or graph package to calculate and plot, and to find a gradient
 
 Analogue apparatus covers rulers, thermometers, protractors, pressure gauges, newton meters and measuring cylinders. Interpolating means estimating a reading between two marks, usually to the nearest half or fifth of a division. Read at eye level to avoid parallax, and read a liquid at the bottom of the meniscus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--10-analogue-interpolation-parallax.webp" width="900" height="1060" alt="A pointer between marks 4 and 5 estimated as 4.6, and a measuring cylinder where an eye level with the meniscus bottom reads 44 mL while an eye above reads higher." loading="lazy">
+  <figcaption>Estimate between marks to the nearest fifth and read at eye level to avoid parallax.</figcaption>
+</figure>
+
+
 ### (b) Digital instruments and multimeters
 
 A multimeter measures current (in series), voltage (in parallel) and resistance (component isolated, no power). Check the range, the leads in the correct sockets and the zero. The resolution is the last digit, but the reading may be less accurate than that. Top-pan balances measure mass; digital stopwatches measure time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--09-multimeter-connections.webp" width="900" height="1060" alt="Three circuits: a multimeter in series for current, in parallel across a resistor for voltage, and connected alone to a resistor taken out of the circuit for resistance." loading="lazy">
+  <figcaption>Current: in series. Voltage: in parallel. Resistance: component on its own with the supply off.</figcaption>
+</figure>
+
 
 ### (c) Increasing accuracy of a measurement
 
@@ -95,6 +113,12 @@ Uncertainty in T = 0.2 / 20 = 0.01 s, which is 0.01 / 1.84 = 0.54 %
 
 Timing one oscillation would give 0.2 / 1.84 = 11 %, twenty times larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--02-pe-pendulum-many-oscillations.webp" width="900" height="810" alt="Twenty oscillations take 36.8 s, so T is 1.84 s. The 0.2 s start/stop uncertainty shrinks to 0.01 s in T, 0.54 %, whereas timing one oscillation gives 11 %. A fiducial marker at equilibrium gives a clear start and stop point." loading="lazy">
+  <figcaption>Timing 20 oscillations makes the percentage uncertainty twenty times smaller.</figcaption>
+</figure>
+
+
 ### (d) Stopwatch and light gates
 
 A stopwatch is limited by your reaction time. A light gate and datalogger records the time a card blocks the beam with no reaction-time error, so it suits short or fast events. Measure the card width with a vernier or micrometer.
@@ -108,6 +132,12 @@ a = (v₂ − v₁) / t = (2.0 − 1.25) / 0.35 = 2.1 m/s²
 
 A 0.5 mm uncertainty in the card width is 1.0 % of 0.050 m and affects both speeds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--03-pe-light-gates-acceleration.webp" width="900" height="840" alt="A 0.050 m card blocks gate 1 for 0.040 s and gate 2 for 0.025 s, giving 1.25 m/s and 2.0 m/s. With 0.35 s between the gates the acceleration is 2.1 m/s squared." loading="lazy">
+  <figcaption>Speed is card width over blocking time; acceleration follows from the change in speed.</figcaption>
+</figure>
+
+
 ### (e) Vernier and micrometer scales
 
 A micrometer has a main scale (0.5 mm marks on the sleeve) and a thimble scale (0.01 mm per division). Close the jaws first to find the zero error, and use the ratchet so you do not crush the object.
@@ -120,6 +150,17 @@ Corrected = 6.78 − 0.03 = 6.75 mm
 ```
 
 A vernier caliper has a vernier scale next to the main scale. If the main scale shows 14 mm and the 17th vernier mark lines up (resolution 0.02 mm), the reading is 14 + 17 × 0.02 = 14.34 mm. Take diameters at several positions and in different directions, then average, because wires are rarely uniform.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--01-pe-micrometer-zero-error.webp" width="900" height="870" alt="A micrometer sleeve shows 6.5 mm and the thimble reads 28 divisions of 0.01 mm, a reading of 6.78 mm. With the jaws closed it read +0.03 mm, so 0.03 mm is subtracted to give 6.75 mm." loading="lazy">
+  <figcaption>Read both scales, then subtract the zero error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--08-vernier-caliper-reading.webp" width="900" height="670" alt="A zoomed main scale and vernier scale. The vernier zero is just past 14 mm and the 17th vernier mark lines up with a main mark, so the reading is 14 + 17 x 0.02 = 14.34 mm." loading="lazy">
+  <figcaption>Main scale 14 mm plus the aligned vernier mark, 17 x 0.02 mm, gives 14.34 mm.</figcaption>
+</figure>
+
 
 ### (f), (g) Circuits
 
@@ -137,6 +178,12 @@ The nearest standard value, 270 Ω, gives I = 4.0 / 270 = 14.8 mA. The resistor'
 
 Check a circuit by measuring: a voltmeter across the LED should read about 2.0 V, and the total of the p.d. values around the loop should equal the supply p.d.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--04-pe-led-series-resistor.webp" width="900" height="820" alt="A 6.0 V supply, a series resistor and an LED carry conventional current from the positive terminal. R = (6.0 - 2.0)/0.015 = 267 ohm; the standard 270 ohm gives 14.8 mA and dissipates 0.059 W." loading="lazy">
+  <figcaption>The resistor takes the 4.0 V the LED does not need.</figcaption>
+</figure>
+
+
 ### (h) Signal generator and oscilloscope
 
 The signal generator supplies an alternating p.d. of chosen frequency and amplitude. On the oscilloscope, the Y-gain (volts/division) scales the vertical axis and the time-base (time/division) scales the horizontal axis.
@@ -149,6 +196,12 @@ T = 5.0 × 0.2 ms = 1.0 ms, f = 1 / T = 1000 Hz
 ```
 
 Set the time-base so that two to five cycles fill the screen, and the Y-gain so the trace fills most of the height.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--05-pe-oscilloscope-trace.webp" width="900" height="1080" alt="A trace 5.2 divisions peak to peak at 0.5 V/div is 2.6 V peak to peak, so 1.3 V peak. One cycle of 5.0 divisions at 0.2 ms/div is 1.0 ms, so 1000 Hz." loading="lazy">
+  <figcaption>Count divisions, then multiply by the Y-gain or time-base setting.</figcaption>
+</figure>
+
 
 ### (i) Generating and measuring waves
 
@@ -172,6 +225,12 @@ w = 20.0 / 8 = 2.50 mm
 
 A ±1 mm uncertainty is 40 % of one spacing but 5 % of the 20.0 mm span, so measuring across many fringes is better.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--07-pe-double-slit-wavelength.webp" width="900" height="1070" alt="A laser passes through slits 0.40 mm apart onto a screen 1.80 m away. Eight fringe spacings span 20.0 mm so w is 2.50 mm and the wavelength is a w / D = 556 nm. A 1 mm reading error is 40 % of one spacing but 5 % of the span." loading="lazy">
+  <figcaption>Measuring across many fringes reduces the percentage uncertainty.</figcaption>
+</figure>
+
+
 ### (k) ICT
 
 Computer modelling tests a theory against data. A data logger with sensors (motion, light, temperature, voltage, current) samples at a chosen rate. Choose the sampling rate so a signal is sampled many times per cycle, and a long enough run to capture the whole event. Software processes the data (graphs, gradients, line of best fit).
@@ -191,6 +250,12 @@ Corrected rate = 32.4 − 0.24 = 32.2 s⁻¹
 Count uncertainty is about √N, so √1944 = 44, which is 2.3 %. A larger count gives a smaller percentage uncertainty.
 
 Safe use: keep sources stored in their container when not in use, handle with tongs, point them away from people, keep the time and exposure short and the distance large, and follow your centre's rules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--06-pe-gm-background-count.webp" width="900" height="990" alt="The source gives 1944 counts in 60 s (32.4 per second) and background gives 72 counts in 300 s (0.24 per second), so the corrected rate is 32.2 per second. The count uncertainty is about the square root of N, 44, or 2.3 %." loading="lazy">
+  <figcaption>Measure background with the source absent and subtract it.</figcaption>
+</figure>
+
 
 ## Common errors
 

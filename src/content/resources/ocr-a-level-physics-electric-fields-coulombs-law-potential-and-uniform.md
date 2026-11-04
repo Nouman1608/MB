@@ -51,6 +51,12 @@ E = F/q, in N C⁻¹ (equivalently V m⁻¹).
 
 It is a vector, in the direction of the force on a positive charge; a negative charge feels the opposite force.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--04-charged-sphere-field.webp" width="900" height="1040" alt="A −45 nC sphere of radius 2.0 cm acts, outside it, like a point charge at its centre, so r is measured from the centre. At r = 6.0 cm E = 1.1×10⁵ N C⁻¹ inwards. OCR only: C = 4πε₀R for an isolated sphere." loading="lazy">
+  <figcaption>Outside a charged sphere, measure distance from its centre and use the point-charge formula.</figcaption>
+</figure>
+
+
 ## 6.2.2 Coulomb's law
 
 **Coulomb's law (a).** For two point charges Q and q a distance r apart, the force on each is
@@ -105,6 +111,12 @@ The point is **0.20 m from the +12 nC charge** (0.10 m from the +3.0 nC charge).
 
 Both are radial around a point source and take potential as zero at infinity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--08-gravity-vs-electric.webp" width="900" height="1290" alt="Both forces are inverse square laws. Gravity always attracts so its potential is always negative; the electric force can attract or repel, so potential takes the sign of the source charge. Between an electron and a proton the electric force is about 2.3×10³⁹ times the gravitational force." loading="lazy">
+  <figcaption>Gravity and electric force are alike in form but the electric force is vastly stronger and can repel.</figcaption>
+</figure>
+
+
 ### Worked example 4: how much stronger is the electric force?
 
 Compare the electric and gravitational forces between two protons.
@@ -116,6 +128,22 @@ Ratio = e² / (4πε₀Gm_p²) = **1.24 × 10³⁶**.
 ### Fields as forms of field (d)
 
 Gravitational, electric and magnetic fields are all fields in which a body experiences a force at a distance: mass in a gravitational field, charge in an electric field, and a moving charge in a magnetic field (section 6.3). Link this to section 5.4: in each case field strength is a force per unit of the relevant property.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--01-field-line-patterns.webp" width="900" height="1100" alt="Field lines for a positive point charge point radially outwards and for a negative charge radially inwards. Two opposite charges give curved lines from + to −. Parallel plates give evenly spaced lines in the middle, bending outwards at the edges. Closer lines mean a stronger field." loading="lazy">
+  <figcaption>Field lines show the direction of force on a positive test charge; closer lines mean a stronger field.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--02-coulombs-law.webp" width="900" height="1100" alt="Like charges repel and unlike charges attract, with equal and opposite forces. +4.8 nC and −3.2 nC at 6.0 cm exert 3.8×10⁻⁵ N on each other. Doubling one charge and tripling the separation multiplies the force by 2/9, from 0.80 mN to 0.18 mN." loading="lazy">
+  <figcaption>The force between point charges follows an inverse square law and acts along the line joining them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--03-inverse-square-force.webp" width="900" height="880" alt="A graph of F against r for +8.0 nC and +0.60 nC falls as 1/r²: F at 0.10 m, F/4 at 0.20 m, F/9 at 0.30 m. OCR only: the area under the curve from 0.40 m to 0.10 m is the work done, 3.2×10⁻⁷ J." loading="lazy">
+  <figcaption>Doubling the separation divides the force by four.</figcaption>
+</figure>
+
 
 ## 6.2.3 Uniform electric field
 
@@ -163,6 +191,17 @@ t = 0.040 / 1.5 × 10⁷ = 2.67 × 10⁻⁹ s. a = eV/(md) = 1.17 × 10¹⁵ m s
 
 This is less than 6.0 mm, so the electron emerges. Its sideways speed on leaving is at = 3.1 × 10⁶ m s⁻¹, so it leaves at tan⁻¹(3.12 × 10⁶ / 1.5 × 10⁷) = 11.8° to its original path.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--05-uniform-field-plates.webp" width="900" height="1250" alt="Between plates 3.0 cm apart at 1500 V the field is E = V/d = 5.0×10⁴ V m⁻¹ and a charge feels F = QE. Halving the gap at the same p.d. doubles E. OxfordAQA only: a droplet held still by QE = mg carries 4.9×10⁻¹⁹ C, about 3.1e." loading="lazy">
+  <figcaption>E = V/d for the uniform field between charged parallel plates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--06-particle-in-uniform-field.webp" width="900" height="840" alt="An electron enters midway between plates at 2.0×10⁷ m s⁻¹. Along the plates its speed is constant (t = 2.5 ns); across them it accelerates at 1.76×10¹⁵ m s⁻², deflecting 5.5 mm towards the positive plate and leaving at 12.4° to its original path." loading="lazy">
+  <figcaption>The path is a parabola between the plates and a straight line after them.</figcaption>
+</figure>
+
+
 ## 6.2.4 Electric potential and energy
 
 **Electric potential (a).** The electric potential at a point is the work done in bringing unit positive charge from infinity to that point. Potential is zero at infinity. It is a scalar, measured in volts (J C⁻¹).
@@ -202,6 +241,12 @@ A particle of charge +2e has 5.0 MeV of kinetic energy and heads straight for a 
 At closest approach all the kinetic energy has become potential energy: 5.0 × 1.60 × 10⁻¹³ = 8.0 × 10⁻¹³ J = (2e)(29e)/(4πε₀r).
 
 r = 58 × (1.60 × 10⁻¹⁹)² / (4π × 8.85 × 10⁻¹² × 8.0 × 10⁻¹³) = **1.7 × 10⁻¹⁴ m**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--07-electric-potential.webp" width="900" height="1290" alt="Equipotentials cross field lines at right angles: rings around a point charge get further apart, and are evenly spaced in a uniform field. A V–r graph for +4.0 nC falls as 1/r; its gradient at 0.10 m is −3600 V m⁻¹, so E = 3600 N C⁻¹, and moving 2.0 nC from 0.30 m to 0.10 m takes 4.8×10⁻⁷ J." loading="lazy">
+  <figcaption>Field strength is minus the gradient of the potential–distance graph.</figcaption>
+</figure>
+
 
 ## Common errors
 

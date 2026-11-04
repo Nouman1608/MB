@@ -55,6 +55,22 @@ Test yourself with the [practice questions](/resources/edexcel-igcse-biology-4bi
 
 A leaf is an **organ**. It contains palisade mesophyll, spongy mesophyll, epidermis, xylem and phloem: several different **tissues**. The palisade mesophyll is made of many similar palisade **cells**, and each palisade cell contains many **chloroplasts** (organelles). The leaf works with the stem and other organs above ground, which together form the shoot **system**. Being able to walk down the levels like this, from organ to organelle, is a quick way to check any classification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules--03-organisation-order.webp" width="900" height="1060" alt="Five rows from smallest to largest: ribosome (organelle), epithelial cell (cell), epithelium (tissue), small intestine (organ), digestive system (system)." loading="lazy">
+  <figcaption>Ribosome, epithelial cell, epithelium, small intestine and digestive system in order of size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules--04-stomach-tissues.webp" width="900" height="950" alt="Schematic stomach wall with a muscle layer that churns food, a glandular layer that secretes enzymes and an epithelial layer that lines the stomach. Several different tissues working together make an organ." loading="lazy">
+  <figcaption>The stomach is an organ because it contains muscle, glandular and epithelial tissue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
+
 ## 2.7 Elements
 
 | Molecule | C | H | O | N |
@@ -65,6 +81,12 @@ A leaf is an **organ**. It contains palisade mesophyll, spongy mesophyll, epider
 
 - Nitrogen present → protein.
 - Lipids have far less oxygen relative to carbon and hydrogen than carbohydrates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--01-elements.webp" width="900" height="1000" alt="Three rows of atom symbols. Carbohydrates and fats and oils contain carbon, hydrogen and oxygen only, with nitrogen crossed out. Proteins contain carbon, hydrogen, oxygen and always nitrogen, and some also contain sulfur." loading="lazy">
+  <figcaption>Only proteins contain nitrogen.</figcaption>
+</figure>
+
 
 ## 2.8 Building units
 
@@ -78,6 +100,12 @@ A leaf is an **organ**. It contains palisade mesophyll, spongy mesophyll, epider
 - Starch and glycogen have the **same** unit (glucose), different organisms.
 - Protein shape depends on the **order** of amino acids.
 - A lipid = **glycerol + fatty acids** (usually three).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--02-building-blocks.webp" width="900" height="1190" alt="Glucose units join in chains to make starch (plants), glycogen (animals and fungi) and cellulose (plant cell walls). Amino acids join in different orders to make different proteins. Fats and oils are made from glycerol and fatty acids." loading="lazy">
+  <figcaption>Large molecules are built by joining smaller ones.</figcaption>
+</figure>
+
 
 ## 2.9 Food tests
 
@@ -106,6 +134,22 @@ Small reminders:
 
 Three glucose solutions give green, orange and brick-red results after the same heating time. Order of glucose concentration, lowest first: green → orange → brick-red. The test only ranks the samples; to compare fairly, use the same volume of sample and Benedict's solution and the same heating time for each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules--08-food-test-drinks-pqr.webp" width="900" height="760" alt="Test tubes for drinks P, Q and R: P is positive for Benedict’s, biuret and emulsion tests only; Q is all negative; R has a green Benedict’s result only." loading="lazy">
+  <figcaption>P has glucose, protein and fat; Q shows no positive test (sucrose would also be negative); R has a little glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--04-emulsion-test.webp" width="900" height="1010" alt="Step 1: shake the food with ethanol so fat dissolves. Step 2: pour the ethanol into water. Fat present gives a cloudy white emulsion of tiny droplets; no fat leaves the mixture clear. Ethanol goes first, then water." loading="lazy">
+  <figcaption>Fat dissolves in ethanol but forms a cloudy emulsion in water.</figcaption>
+</figure>
+
+
 ## 2.10 Enzymes as catalysts
 
 - **Catalyst**: speeds up a reaction, not used up.
@@ -114,6 +158,22 @@ Three glucose solutions give green, orange and brick-red results after the same 
 - **Active site**: region with a specific shape; substrate has a complementary shape.
 - Substrate binds → enzyme-substrate complex → products released → enzyme reused.
 - **Specificity**: one enzyme, one type of substrate, because of active site shape.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules--05-enzyme-rates-edexcel.webp" width="900" height="1270" alt="Bar charts of rate = 1 ÷ time for amylase. Temperature: 0.00417, 0.00833, 0.0167, 0.00667 and 0 per second at 20 to 60 degrees C, so 40 C is four times faster than 20 C. pH (Paper 2 only): 0.00278, 0.00556, 0.0111, 0.0222, 0.00833, so pH 7 is four times faster than pH 5." loading="lazy">
+  <figcaption>Shorter times give higher rates; the optimum shows as the tallest bar.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--02-specificity.webp" width="900" height="780" alt="Lipase is shown with two molecules. Fat has a complementary shape, fits the active site and reacts. Starch, a chain of beads, has a different shape, does not fit and nothing happens." loading="lazy">
+  <figcaption>Only a substrate with a complementary shape fits the active site.</figcaption>
+</figure>
+
 
 ## 2.11 and 2.13 Temperature and pH
 
@@ -125,6 +185,42 @@ Three glucose solutions give green, orange and brick-red results after the same 
 | pH away from optimum | Active site altered; fewer enzyme-substrate complexes | Small shifts: often yes. Extreme pH: denatured |
 
 Typical optima: many human enzymes about 37 °C; stomach protease about pH 2; salivary amylase about pH 7.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules--09-temperature-practical-variables.webp" width="900" height="1000" alt="Identical tubes in water baths at 20 to 60 degrees Celsius (changed), a stopwatch and iodine tile (measured), and four things kept the same." loading="lazy">
+  <figcaption>Which variable is changed, which is measured and which are kept the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--05-temperature-collisions.webp" width="900" height="910" alt="Two panels at temperatures below the optimum. Cooler: slow substrate molecules, short arrows, one enzyme has a substrate bound. Warmer: more kinetic energy, long arrows, more frequent effective collisions, three enzymes have substrates bound." loading="lazy">
+  <figcaption>More kinetic energy gives more frequent effective collisions and more enzyme-substrate complexes per unit time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--04-temperature-graph.webp" width="900" height="800" alt="Sketch graph of enzyme activity against temperature. Activity rises to a peak at the optimum (about 37 degrees Celsius for many human enzymes) then falls quickly to near zero. Cold enzymes are slow but not denatured; hot enzymes are denatured and do not recover on cooling." loading="lazy">
+  <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--03-denaturation.webp" width="900" height="1090" alt="Three panels: a working enzyme whose substrate fits; a too-hot enzyme whose active site has changed shape so the substrate does not fit; the same enzyme cooled again, still with the changed shape and still not working." loading="lazy">
+  <figcaption>Heat changes the shape of the active site, and cooling does not restore it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--07-starch-iodine-end-point.webp" width="900" height="990" alt="Starch and amylase tubes stand in a water bath at a set temperature. After mixing, one drop every 30 seconds goes on iodine in a spotting tile. Wells at 30 to 120 seconds are blue-black; the well at 150 seconds is the first orange-brown, the end point. Rate = 1000 ÷ 150 = 6.7." loading="lazy">
+  <figcaption>The end point is the first well where iodine stays orange-brown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--08-rate-from-results.webp" width="900" height="980" alt="Two bar charts. Amylase: rates 2.2, 4.2, 6.7, 11.1, 5.6 and 0 at 10 to 60 degrees Celsius (rate = 1000 divided by time), optimum about 40. Catalase: rates 3.0, 5.5, 9.0, 6.5 and 2.5 cm3 per minute at pH 5 to 9, optimum near pH 7." loading="lazy">
+  <figcaption>Rate is calculated from time or volume; the highest bar shows the optimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
+</figure>
+
 
 ## 2.12 Temperature practical (and 2.14B pH practical, Paper 2 only)
 

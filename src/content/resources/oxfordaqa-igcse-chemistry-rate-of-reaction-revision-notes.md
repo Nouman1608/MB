@@ -72,11 +72,38 @@ A reactant curve is the mirror image: it falls steeply, then levels off.
 
 **Worked reminder.** A run makes 80 cm³ of gas. It is repeated with half the mass of the solid, which is the limiting reactant, ground to a powder. The new curve starts steeper but levels off at 40 cm³.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-rate-of-reaction--01-rate-chords.webp" width="900" height="870" alt="A graph of hydrogen volume against time using the lesson table (0 to 84 cm3 over 105 s). A chord from 0 to 30 s rises 48 cm3, a mean rate of 1.6 cm3/s. A chord from 60 to 90 s rises 9 cm3, a mean rate of 0.3 cm3/s. The curve flattens and stops at 105 s." loading="lazy">
+  <figcaption>Mean rate is the gradient of a chord: fast at the start, slow later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-rate-of-reaction--02-cross-rate.webp" width="900" height="880" alt="Four flasks seen from above show the time for a cross to vanish at 20, 30, 40 and 50 C: 150, 82, 44 and 25 s. A bar chart gives rate as 1/time: 0.0067, 0.0122, 0.0227 and 0.040 per s, rising with temperature." loading="lazy">
+  <figcaption>A shorter time for the cross to disappear means a larger 1/time and a faster reaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--02-rate-factors.webp" width="900" height="1154" alt="Before/after boxes show more particles per volume, a gas squeezed by a piston, a cube crushed into eight (area doubles), and more particles with enough energy at higher temperature." loading="lazy">
+  <figcaption>Each factor increases collision frequency or the share of collisions with enough energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--03-rate-graph.webp" width="900" height="1020" alt="A flask connects to a gas syringe. A graph of gas volume against time shows a steep curve for a fast reaction and a shallow one for a slow reaction, both levelling at 60 cm3." loading="lazy">
+  <figcaption>Steeper gradient means faster rate; the line flattens when the reaction has finished.</figcaption>
+</figure>
+
+
 ## 3.8.1 b: collision theory
 
 - Particles react only when they **collide** with **sufficient energy**.
 - **Activation energy** = the minimum energy particles need for a reaction to happen.
 - Faster rate = more successful collisions per second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--01-collision-theory.webp" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
+  <figcaption>Slow collisions bounce apart; collisions with at least E_a produce a new substance.</figcaption>
+</figure>
+
 
 ## 3.8.1 c to f: the four factors
 
@@ -94,6 +121,12 @@ A reactant curve is the mirror image: it falls steeply, then levels off.
 **Model sentence for concentration.** "A stronger solution packs more reactant particles into each cm³, so they collide more often and the rate rises."
 
 **Surface area check.** A 4 cm × 4 cm × 4 cm block has surface area 6 × 16 = 96 cm². Cut into sixty-four 1 cm cubes, it has 64 × 6 = 384 cm². Same volume, four times the surface.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-rate-of-reaction--07-cuboid-surface-area.webp" width="900" height="800" alt="An isometric 4 x 2 x 2 cm cuboid has surface area 2(8+8+4) = 40 cm2. Cut into two 2 cm cubes the area is 48 cm2 while the volume stays 16 cm3; the two new faces add 8 cm2. Example sizes are illustrative." loading="lazy">
+  <figcaption>Cutting a solid keeps the volume but adds new faces, so surface area rises.</figcaption>
+</figure>
+
 
 ## Required practical: factors affecting rate
 
@@ -122,6 +155,17 @@ A reactant curve is the mirror image: it falls steeply, then levels off.
 
 **Safety points.** Eye protection with acids. No flames near hydrogen. Ventilate if sulfur dioxide forms, as in the thiosulfate reaction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-rate-of-reaction--06-mass-loss-rate.webp" width="900" height="980" alt="A flask with a cotton wool plug on a balance reads 148.25 g at the start and 147.59 g after 120 s as CO2 escapes. The 0.66 g lost gives 0.0055 g/s; 0.66 g / 44 = 0.015 mol gives 1.25 x 10^-4 mol/s." loading="lazy">
+  <figcaption>Mass lost as gas over time gives the rate, in g/s or in mol/s after converting to moles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-rate-of-reaction--10-required-practical-plan.webp" width="900" height="930" alt="A flask of thiosulfate stands on a paper cross watched from above, with a thermometer. Change the temperature, measure the time for the cross to vanish, and keep volumes and concentrations the same. Risks: SO2 irritant, eye protection, repeat runs and take a mean." loading="lazy">
+  <figcaption>Plan: change temperature, time the cross, control everything else, and manage the risks.</figcaption>
+</figure>
+
+
 ## 3.8.1 g and h: catalysts
 
 - A **catalyst** alters how fast a reaction goes and is **not used up**. Same mass at the end.
@@ -137,6 +181,22 @@ A reactant curve is the mirror image: it falls steeply, then levels off.
 | Fermentation | enzymes in yeast |
 
 How catalysts lower the activation energy is in the energy changes unit (3.9.2 h).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-rate-of-reaction--08-catalysts-by-process.webp" width="900" height="830" alt="Five reactions each pointing to their catalyst: Haber process, iron; Contact process, V2O5; ethene plus steam, phosphoric acid; fermentation, enzymes in yeast; cracking, a hot catalyst. The catalyst is not used up." loading="lazy">
+  <figcaption>Different reactions need different catalysts, and none is used up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-rate-of-reaction--09-catalyst-industry-benefits.webp" width="900" height="950" alt="Illustrative gas-volume curves show a catalysed reaction steeper at first but ending at the same final volume. Three benefits: more product per hour, lower temperature or pressure saving energy and equipment cost, and a catalyst that lasts because it is unchanged." loading="lazy">
+  <figcaption>Catalysts speed production and cut costs but do not change the amount of product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

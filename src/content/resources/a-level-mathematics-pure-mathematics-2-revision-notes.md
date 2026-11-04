@@ -46,6 +46,12 @@ and (ax + b) is a factor exactly when f(−b/a) = 0. Use these to find
 factors and remainders, solve polynomial equations and find unknown
 coefficients.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--03-quotient-stationary.webp" width="900" height="1060" alt="Two aligned graphs. Top: y = ln x divided by x, which crosses the axis at x = 1, rises to a maximum at (e, 1 over e), about (2.72, 0.37), then falls slowly. Bottom: its gradient dy by dx = (1 minus ln x) over x squared, which is positive before x = e, zero at x = e and negative after. The quotient rule gives (x times 1 over x minus ln x times 1) over x squared." loading="lazy">
+  <figcaption>The quotient rule gives dy/dx = (1 − ln x)/x², which is zero at the maximum x = e.</figcaption>
+</figure>
+
+
 ## 2.2 Logarithms and exponentials — practise as a pair
 
 Convert confidently between **index form** and **logarithmic form** —
@@ -76,6 +82,12 @@ first needs simplifying via a log law.
 algebraically **before** attempting to differentiate or integrate it
 directly — saves time, avoids errors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--02-one-cubic-toolkit.webp" width="900" height="940" alt="Graph of the cubic f(x) = x cubed minus 3x squared minus x plus 3, which factorises as (x + 1)(x minus 1)(x minus 3). The roots at x = minus 1, 1 and 3 come from the factor theorem. Turning points, ringed, are where f dash is zero, at x = 1 minus or plus 2 over root 3, about minus 0.15 and 2.15. The region between x = minus 1 and 1 lies above the axis and has integral +4. The region between 1 and 3 lies below the axis and has integral minus 4. The integral from minus 1 to 3 is zero, but the total area is 8, because areas below the axis count as positive." loading="lazy">
+  <figcaption>One cubic shows roots, turning points and signed versus total area.</figcaption>
+</figure>
+
+
 ## 2.6 Numerical solution of equations — approximating, not solving
 
 Conceptually different from the rest of the topic. A **sign change**
@@ -89,6 +101,12 @@ Iteration formula: x_(n+1) = g(x_n)
 **Carry more decimal places than the final answer needs** through
 each step until the last stated iteration — under-carrying decimals
 is a frequent source of lost marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--04-tank-drain.webp" width="900" height="1020" alt="A differential-equation model of a draining tank. Three tanks show the water level at t = 0 with h = 16, t = 5 with h = 9 and t = 20 with h = 0. Below, a graph of h against t is the curve h = (4 minus 0.2t) squared, passing through (0, 16), (5, 9) and (20, 0), with a dashed line after t = 20 marking where the model ends. Tangents show the gradient is minus 1.6 at t = 0 and minus 1.2 at t = 5, so the water falls faster when the tank is deeper. This comes from dh by dt = minus k root h with k = 0.4." loading="lazy">
+  <figcaption>The tank drains faster when deeper and the model ends at t = 20.</figcaption>
+</figure>
+
 
 ## Choosing the easiest representation — a cross-cutting habit
 
@@ -220,3 +238,9 @@ first — this saves time and avoids errors. 5. Because Paper 2
 combines techniques from across multiple sub-topics within a single
 question, rather than testing each sub-topic separately as Paper 1
 more often does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--01-paper-routes.webp" width="900" height="976" alt="A route map of the pure mathematics papers for four boards. Cambridge 9709: AS Level is Paper 1 plus Paper 2, or Paper 1 plus Paper 4 or 5; A Level is Papers 1 and 3 plus either Papers 4 and 5 or Papers 5 and 6, and Paper 2 never counts towards the A Level. Edexcel International A Level: AS is P1, P2 and one applied unit; A Level is P1 to P4 plus two applied units. OxfordAQA 9660: AS is P1 and PSM1; A Level adds P2 and either S2 or M2. OCR H240: three two-hour papers, each worth one third, with pure mathematics in every one (pure; pure and statistics; pure and mechanics). A colour key shows pure, applied, and mixed papers." loading="lazy">
+  <figcaption>Which pure papers each board requires for AS and A Level.</figcaption>
+</figure>
+

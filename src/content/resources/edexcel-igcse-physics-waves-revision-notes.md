@@ -46,9 +46,26 @@ v = f λ              f = 1/T
 
 Amplitude = maximum displacement from equilibrium. Wavefront = a line joining points in phase. Wavelength = distance between successive identical points. Period = time for one full oscillation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
+
+
 ## The Doppler effect
 
 Source moving **towards** an observer: wavefronts bunch up ahead of it, so wavelength **shortens** and observed frequency **rises**. Source moving **away**: wavefronts spread out behind it, so wavelength **lengthens** and observed frequency **falls**. This is why a siren sounds higher-pitched approaching and lower-pitched receding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-waves--01-doppler-effect.webp" width="900" height="770" alt="Circular wavefronts sent out from a source moving right are closer together ahead (shorter wavelength, higher pitch) and further apart behind (longer wavelength, lower pitch)." loading="lazy">
+  <figcaption>A moving source squeezes wavefronts together ahead and stretches them behind.</figcaption>
+</figure>
+
 
 ## The electromagnetic spectrum
 
@@ -66,6 +83,17 @@ All electromagnetic waves travel at the **same speed** in free space; only frequ
 | X-ray | Medical imaging | Cell/tissue damage |
 | Gamma | Sterilisation, medical treatment | Cancer, mutation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-waves--08-em-hazards.webp" width="900" height="1050" alt="Microwaves heat tissue internally, infrared burns skin, ultraviolet damages surface cells and eyes, gamma causes cancer and mutation." loading="lazy">
+  <figcaption>Each EM hazard shown against a shorter wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
+
 ## Reflection and refraction
 
 **Law of reflection:** angle of incidence = angle of reflection.
@@ -77,6 +105,27 @@ n = sin i / sin r          sin c = 1/n
 Light **refracts** (changes speed and direction) at a boundary between media. Above the **critical angle** c, light undergoes **total internal reflection** instead of refracting out — the basis of optical fibres, periscopes and binoculars (prisms lose no light to absorption, unlike ordinary mirrors).
 
 **Worked example.** A material has refractive index n = 1.5. Its critical angle: `sin c = 1/1.5 = 0.667`, so `c = 41.8°` (1 d.p.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-waves--02-prism-total-internal-reflection.webp" width="900" height="900" alt="A right-angled glass prism turns light through 90 degrees (enters at right angles, hits the long face at 45 degrees, above the 41.8 degree critical angle) or through 180 degrees (reflecting off both short faces)." loading="lazy">
+  <figcaption>Total internal reflection at 45 degrees turns light through 90 or 180 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--04-total-internal-reflection.webp" width="900" height="1160" alt="Three rays in a glass semicircle: below the critical angle some light leaves, at 41.8 degrees the refracted ray runs along the surface, above it all light is reflected. sin c = 1/n (Extended)." loading="lazy">
+  <figcaption>Above the critical angle all the light is reflected back inside the glass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--03-plane-mirror.webp" width="900" height="1040" alt="An upright object O is 3.5 m from a vertical plane mirror. Two rays from its base reflect so that angle of incidence equals angle of reflection (36.9 and 24.2 degrees), measured from dashed normals. Dashed extensions behind the mirror meet at the image I, 3.5 m behind the mirror: virtual, upright and the same size." loading="lazy">
+  <figcaption>Two rays from O reflect with i = r and their backward extensions meet at the virtual image I, as far behind the mirror as O is in front.</figcaption>
+</figure>
+
 
 
 ## Refraction worked example
@@ -119,3 +168,14 @@ Sound is **longitudinal**; it reflects and refracts like any wave (3.23, both Ph
 7. Distinguish between pitch and loudness in terms of the physical quantities they correspond to.
 
 **Answers:** 1. `v = fλ` and `f = 1/T`. 2. `v = fλ = 250 x 1.2 = 300 m/s`. 3. As the car approaches, each successive sound wavefront is emitted closer to you than the last, so the wavefronts bunch up, shortening the wavelength and raising the observed frequency (pitch). 4. Radio, microwave, infrared, visible, ultraviolet, x-ray, gamma. 5. Use: fluorescent lamps (or sterilising); hazard: damage to surface skin cells, or blindness. 6. `n = 1/sin c = 1/sin 42° = 1/0.669 = 1.5` (2 s.f.). 7. Pitch corresponds to frequency (higher frequency = higher pitch); loudness corresponds to amplitude (greater amplitude = louder sound).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-waves--03-sound-oscilloscope.webp" width="900" height="980" alt="Three oscilloscope traces: 200 Hz reference (2 waves in 10 ms), 400 Hz (4 waves, higher pitch) and 200 Hz with larger amplitude (louder, same pitch)." loading="lazy">
+  <figcaption>Higher frequency means higher pitch; larger amplitude means louder sound.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--08-echo-speed-of-sound.webp" width="900" height="860" alt="A pupil 51 m from a wall hears the echo 0.30 s after a clap. The sound travels 2 x 51 = 102 m, so the speed is 102 / 0.30 = 340 m/s." loading="lazy">
+  <figcaption>Echo method: speed = 2d divided by t.</figcaption>
+</figure>
+

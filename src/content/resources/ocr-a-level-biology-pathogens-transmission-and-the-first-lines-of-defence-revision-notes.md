@@ -34,6 +34,12 @@ These revision notes condense OCR A Level Biology A (H420) statements 4.1.1(a) t
 - Bacterium: prokaryote. Protoctist and fungus: eukaryotes.
 - Binomial names and symptom detail are not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
+  <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
+</figure>
+
+
 ## 4.1.1(b) Transmission
 
 | Route | Example | Detail to state |
@@ -50,6 +56,12 @@ These revision notes condense OCR A Level Biology A (H420) statements 4.1.1(a) t
 - Social: overcrowding, poor ventilation, poor sanitation, limited healthcare, travel, trade, monoculture.
 
 **Method for a transmission question.** (1) Name the route. (2) Say what carries the pathogen. (3) Link to the condition given in the question. (4) Say why that raises the chance of infection.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--02-four-diseases.webp" width="900" height="1190" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
+  <figcaption>Each disease has a named pathogen type and a main transmission route.</figcaption>
+</figure>
+
 
 ## 4.1.1(c) Plant defences
 
@@ -91,6 +103,12 @@ These revision notes condense OCR A Level Biology A (H420) statements 4.1.1(a) t
 4. Pathogen sits in a phagosome.
 5. Lysosomes fuse with the phagosome and release enzymes.
 6. Pathogen is digested; an antigen-presenting cell displays its antigens on its surface.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--03-phagocytosis.webp" width="900" height="1340" alt="Five steps in one phagocyte. Chemicals attract it and receptors bind the pathogen; the membrane wraps round it by endocytosis; it is sealed in a phagosome; a lysosome fuses with the phagosome; enzymes digest the pathogen and antigens are displayed on the cell surface." loading="lazy">
+  <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
+</figure>
+
 
 ## 4.1.1(e)(ii) Blood smears and drawing
 
@@ -183,6 +201,12 @@ These revision notes condense OCR A Level Biology A (H420) statements 4.1.1(a) t
 10. A phagosome; a lysosome.
 11. They attract phagocytes to the infection, or activate them.
 12. The monocyte.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

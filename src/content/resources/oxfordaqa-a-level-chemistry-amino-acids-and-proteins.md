@@ -45,6 +45,12 @@ Pair it with the [revision notes](/resources/oxfordaqa-a-level-chemistry-amino-a
 
 Section 3.3.13 lists no required practical activity. Thin-layer chromatography returns in section 3.3.16. In 9620 this section has no outcomes on enzymes or on DNA structure; DNA enters only through cisplatin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+
 ## 3.3.13.1 Amino acids
 
 Each amino acid here has an amino group, –NH₂, and a carboxyl group, –COOH, on the same carbon: H₂N–CH(R)–COOH. The side chain R makes each amino acid different.
@@ -78,6 +84,22 @@ Glutamic acid is HOOC–CH₂CH₂–CH(NH₂)–COOH. Draw the ions formed in a
 1. Count the groups: one –NH₂ and **two** –COOH.
 2. Excess acid: the –NH₂ becomes –NH₃⁺; both –COOH stay. **HOOC–CH₂CH₂–CH(NH₃⁺)–COOH**, charge +1.
 3. Excess alkali: both –COOH become –COO⁻; the –NH₂ stays. **⁻OOC–CH₂CH₂–CH(NH₂)–COO⁻**, charge −2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--07-amino-acid-ions.webp" width="900" height="930" alt="Glycine shown as H3N+CH2COOH (overall +1) in acid, the zwitterion H3N+CH2COO- (0) in neutral solution and H2NCH2COO- (-1) in alkali, with arrows for adding OH- (down) and H+ (up)." loading="lazy">
+  <figcaption>In acid, neutral and alkaline solution an amino acid is a +1 ion, a zwitterion and a -1 ion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--10-chirality.webp" width="900" height="1116" alt="Top: two mirror-image enantiomers of a chiral carbon with four different groups (NH2, COOH, CH3, H), drawn with wedge and dash bonds, which cannot be superimposed. Bottom (AQA only): an active site with three binding points fits one enantiomer; the mirror image has two groups swapped and does not fit." loading="lazy">
+  <figcaption>A chiral centre has four different groups; an enzyme active site binds only one enantiomer.</figcaption>
+</figure>
+
 
 ## 3.3.13.2 Proteins
 
@@ -149,6 +171,17 @@ The dipeptide H₂N–CH(CH₂C₆H₅)–CO–NH–CH(CH(CH₃)CH₂CH₃)–CO
 
 **Sulfur–sulfur bonds.** The side chain of cysteine is –CH₂SH. Two such –SH groups that meet in the folded chain can be oxidised to an S–S link: a covalent bond, much stronger than a hydrogen bond, that ties together distant parts of the chain and locks the tertiary shape. Methionine's –CH₂CH₂SCH₃ cannot do this, as it has no S–H bond.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--02-base-strength.webp" width="900" height="1030" alt="Three rows compare the lone pair on N as a teal cloud: dense in ethylamine (alkyl pushes electrons onto N), average in ammonia, spread into the ring in phenylamine. A gauge ranks base strength ethylamine &gt; ammonia &gt; phenylamine." loading="lazy">
+  <figcaption>The more available the nitrogen lone pair, the stronger the base: ethylamine &gt; ammonia &gt; phenylamine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
+  <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
+
 ### Worked example 5: reading diagrams
 
 Name the level of structure each diagram shows.
@@ -181,6 +214,12 @@ A hydrolysis mixture is run beside standards. The solvent front is 5.6 cm above 
 3. Spot 3: 4.2 ÷ 5.6 = **0.75**, which matches leucine.
 
 Rf is a ratio with no units, always between 0 and 1. TLC shows which amino acids are present, not their order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+
 
 ## 3.3.13.3 Action of anticancer drugs
 

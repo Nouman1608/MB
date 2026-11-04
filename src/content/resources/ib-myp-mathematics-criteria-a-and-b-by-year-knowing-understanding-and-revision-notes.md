@@ -68,6 +68,12 @@ Strands, in the same words every year:
 
 31.20 ÷ 12 = 2.60 each, and 2.60 × 20 = **52.00**. Check: 20 is 5/3 of 12, and 31.20 × 5/3 = 52.00.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and--03-ab-unit-rate-pencils.webp" width="900" height="610" alt="Pencil grids show 24, 1 and 40 pencils with costs 6.60, 0.275 and 11.00. Dividing by 24 then multiplying by 40 gives 11.00, and the check route multiplies by 5/3." loading="lazy">
+  <figcaption>The unit-rate route and the 5/3 proportion route agree: 40 pencils cost 11.00.</figcaption>
+</figure>
+
+
 ### Worked reminder: Criterion A with a model
 
 A sapling 40 cm tall grows 6% taller each month. In which month is it first taller than 100 cm? Repeated percentage growth is exponential: 40 × 1.06^t > 100, so 1.06^t > 2.5 and t > ln 2.5 ÷ ln 1.06 = 15.73 (or test whole values, since logarithms are extended content). Check: t = 15 gives 95.9 cm and t = 16 gives 101.6 cm. The answer is **16 months**.
@@ -101,6 +107,12 @@ The content row is a typical illustration drawn from the guide's framework, whic
 | 5-6 | Years 3 and 5: choose and use techniques on complex patterns; Year 1: apply techniques to recognise patterns; rule consistent with findings; verify |
 | 7-8 | as 5-6, with correct findings (Year 1 also selects the techniques); verify and justify (Year 5: prove, or verify and justify) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and--01-ab-band-stairs.webp" width="900" height="805" alt="A staircase of four bands for Criterion A: simple, more complex, challenging, then challenging in familiar and unfamiliar situations. Below, strand iii of Criterion B is not shown at levels 1 to 4, is verify at 5 to 6, and is verify and justify (Year 5: or prove) at 7 to 8." loading="lazy">
+  <figcaption>Criterion A rises by problem difficulty and, at 7-8, unfamiliar situations; Criterion B strand iii only appears from band 5-6.</figcaption>
+</figure>
+
+
 ### Caps to remember
 
 | Situation | Maximum level |
@@ -108,6 +120,12 @@ The content row is a typical illustration drawn from the guide's framework, whic
 | Fully guided task, Years 1 and 2 | 6 |
 | Fully guided task, Year 3 and up | 4 |
 | Rule consistent with incorrect findings, Year 3 and up (rule of equivalent complexity) | 6 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and--02-ab-caps-scale.webp" width="900" height="780" alt="Three bars of levels 1 to 8. A fully guided task caps the level at 6 in Years 1 and 2 and at 4 from Year 3. A rule consistent with incorrect findings caps it at 6 from Year 3 up, if the rule is of equivalent complexity." loading="lazy">
+  <figcaption>The best level possible is capped for fully guided tasks and for rules that fit incorrect findings.</figcaption>
+</figure>
+
 
 ### Simple versus complex (guide's Year 5 examples, non-exhaustive)
 
@@ -144,9 +162,31 @@ Pattern: 7, 11, 15, 19. Differences are 4, so the rule starts 4n. For n = 1, 4 +
 
 Pattern: 4, 10, 18, 28, 40. First differences 6, 8, 10, 12; second differences are 2, so the rule starts n². Subtracting n² leaves 3, 6, 9, 12, 15, which is 3n. So **u = n² + 3n = n(n + 3)**. The 7th term is 70.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
+  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
+</figure>
+
+
 ### Worked reminder: exponential rule
 
 Pattern: 3, 6, 12, 24. Ratio is 2 each time, so u = 3 × 2^(n − 1). Test n = 5: 3 × 16 = 48, which is double 24. Total of first n terms: 3(2^n − 1). For n = 5 this is 93, and 3 + 6 + 12 + 24 + 48 = 93.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and--10-tile-border-pattern.webp" width="900" height="980" alt="Pools with n = 1 to 5 have 8, 12, 16, 20 and 24 border tiles, rising by 4 each time. The test case n = 7 has 9 tiles per side; 4 x 9 = 36 counts the corners twice, so 32 = 4 x 7 + 4." loading="lazy">
+  <figcaption>Counting the border tiles gives the rule 4n + 4, tested on n = 7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--01-growth-vs-linear.webp" width="900" height="780" alt="A graph of a population of 25 000 growing 2.4% a year for 8 years. The curve reaches about 30 223, while adding 600 a year in a straight line reaches only 29 800. The curve pulls ahead because each percentage is taken of the current value." loading="lazy">
+  <figcaption>Exponential growth pulls ahead of linear growth because each year's percentage is taken of a larger value.</figcaption>
+</figure>
+
 
 ### Worked reminder: proof
 
@@ -165,6 +205,12 @@ Claim: the product of two consecutive integers is always even. Take n and n + 1.
 9. A Year 5 student writes a rule that fits their (wrong) data. What is the highest level, and what condition applies?
 10. For 3, 6, 12, 24, what is the sum of the first 5 terms?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and--05-ab-proof-pairing.webp" width="900" height="960" alt="Pair the outer factors n(n+3) = m and the inner factors (n+1)(n+2) = m+2, so the expression is m(m+2)+1 = (m+1)^2 = (n^2+3n+1)^2. For n = 1, a 4 by 6 rectangle plus one square makes a 5 by 5 square." loading="lazy">
+  <figcaption>Pairing the factors turns the product into m(m + 2) + 1, which is always a perfect square.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. 5-6.
@@ -178,6 +224,12 @@ Claim: the product of two consecutive integers is always even. Take n and n + 1.
 9. 6, provided the rule is of equivalent complexity to a correct one.
 10. 3(2^5 − 1) = 93.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
+  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing a pattern as "going up by 4" without writing a rule in n.
@@ -189,6 +241,12 @@ Claim: the product of two consecutive integers is always even. Take n and n + 1.
 - Rounding a "how many whole" answer down when the question needs the first value that exceeds a limit.
 - Treating a familiar-looking problem as unfamiliar and over-complicating it, or the reverse.
 - Following a task's instructions step by step in an investigation, which limits the level available for choosing techniques.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and--11-polygon-diagonals.webp" width="900" height="1070" alt="Polygons with 3 to 8 sides drawn with all diagonals give 0, 2, 5, 9, 14 and 20. From each vertex there are n minus 3 diagonals. First differences 2 to 6 and constant second difference 1 lead to d = n(n - 3)/2, which gives 27 for n = 9." loading="lazy">
+  <figcaption>Counting diagonals and differences leads to d = n(n − 3)/2.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

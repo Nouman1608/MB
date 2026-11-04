@@ -48,6 +48,12 @@ Pressure comes from the particles striking the walls: it is the total force of c
 
 A gas with no forces between particles could never condense, so the model must fail close to condensation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--01-ideal-model.webp" width="900" height="1000" alt="A sealed box of tiny particles moving in straight lines, with one hitting a wall to show pressure, and four small pictures of the assumptions." loading="lazy">
+  <figcaption>The four assumptions of the ideal gas model, and pressure as particle-wall collisions.</figcaption>
+</figure>
+
+
 ## Structure 1.5.2 Why real gases deviate
 
 Real gases behave almost ideally when the particles are far apart and moving fast. The assumptions that break down are 2 (negligible volume) and 3 (no forces). The guide asks you to explain this in words only; no mathematical treatment is required.
@@ -74,6 +80,17 @@ Least ideal: NH₃  - polar and forms hydrogen bonds between
 The high pressure makes all three less ideal than they would be at 100 kPa. The ranking comes from the strength of the intermolecular forces.
 
 **Summary of conditions.** A gas comes closest to ideal behaviour at **high temperature and low pressure**, and deviates most at **low temperature and high pressure**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--02-real-gas-deviation.webp" width="900" height="1020" alt="Top: a low-pressure box with few particles beside a crowded high-pressure box where particle volume matters. Bottom: fast particles with no attraction beside slow particles joined by dashed attractions. Real gases deviate most when cold and compressed." loading="lazy">
+  <figcaption>Real gases deviate at high pressure (particle volume) and low temperature (attractions).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--03-ranking-deviation.webp" width="900" height="1050" alt="Helium, methane and ammonia are ranked from most to least ideal at 400 K and 3000 kPa. Bar length shows the strength of attractions: weak London forces, stronger London forces, then hydrogen bonds. Bar lengths are qualitative." loading="lazy">
+  <figcaption>Stronger intermolecular forces mean a bigger deviation from ideal behaviour.</figcaption>
+</figure>
+
 
 ## Structure 1.5.3 Molar volume and the gas relationships
 
@@ -140,6 +157,22 @@ V = 0 when t = −49.96 ÷ 0.18375 = −272 °C
 
 The estimate, −272 °C, is close to absolute zero, −273.15 °C. A real gas would condense long before then, so the line extrapolates ideal behaviour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--04-molar-volume.webp" width="900" height="850" alt="Three cubes drawn to scale show 1 mol at STP (22.7 dm3), 1 mol at 308.15 K and 95.0 kPa (27.0 dm3) and 0.150 mol at those conditions (4.04 dm3). Vm equals RT over P and is the same for any ideal gas at the same T and P." loading="lazy">
+  <figcaption>Molar volume is 22.7 dm3 at STP and changes with temperature and pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--05-pressure-volume-graphs.webp" width="900" height="1110" alt="The same data for 0.100 mol at 300 K is plotted twice. P against V is a falling curve that never touches the axes; P against 1/V is a straight line through the origin. Three coloured points mark the same three states on both graphs." loading="lazy">
+  <figcaption>P is inversely proportional to V at constant temperature, giving a straight line against 1/V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--06-absolute-zero.webp" width="900" height="980" alt="Volume of trapped air against temperature in degrees Celsius for five data points lies on a straight line. Extending the line backwards (dashed) meets the axis at about minus 272 degrees Celsius, close to absolute zero." loading="lazy">
+  <figcaption>Extrapolating volume against temperature gives about -272 degC, close to absolute zero.</figcaption>
+</figure>
+
+
 ## Structure 1.5.4 The ideal gas equation and the combined gas law
 
 The three relationships, together with Avogadro's law, combine into the **ideal gas equation**:
@@ -205,6 +238,17 @@ V₂ = P₁V₁T₂ / (T₁P₂)
 ```
 
 The pressure falls to about a third, nearly tripling the volume; the cooling shrinks it slightly. Checking directions like this catches inverted ratios.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--07-ideal-gas-equation.webp" width="900" height="1060" alt="A gas cylinder and a table give the SI units for PV = nRT. Three conversions turn 2.50 MPa, 12.0 dm3 and 20.0 degC into Pa, m3 and K, giving 12.3 mol and 492 g of argon." loading="lazy">
+  <figcaption>Convert to Pa, m3 and K before using PV = nRT.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-ideal-gases--08-combined-gas-law.webp" width="900" height="1000" alt="A helium balloon grows from 3.20 m3 on the ground to 7.47 m3 at altitude, drawn to scale. Falling pressure multiplies the volume by 2.89 and falling temperature by 0.81." loading="lazy">
+  <figcaption>The combined gas law predicts the new volume, with T in kelvin.</figcaption>
+</figure>
+
 
 ## Common errors
 

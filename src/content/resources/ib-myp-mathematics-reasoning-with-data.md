@@ -60,6 +60,12 @@ with data most clearly earns its name: a calculation alone (Criterion
 A) is not the same skill as reasoning about what the data shows and
 what it does not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--04-correlation-types.webp" width="900" height="1010" alt="Three scatter diagrams: positive correlation (y rises with x), negative correlation (y falls as x rises) and zero correlation (no pattern, so no line of best fit)." loading="lazy">
+  <figcaption>Judge the correlation by eye before drawing any line.</figcaption>
+</figure>
+
+
 ## Worked example: reasoning through a data set
 
 A survey of 30 students records how many hours per week each spends
@@ -80,6 +86,17 @@ instead is one of the most consistently rewarded pieces of judgement
 in this branch, precisely because it demonstrates reasoning rather
 than mechanical calculation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-reasoning-with-data--01-myp-skewed-box-plot.webp" width="900" height="830" alt="A dot plot and box plot of 30 students hours of sport a week. Five students are on 0 and three are above 10. The median is 3, the quartiles 1 and 6, and the mean 4.2 sits to the right of the median because the high values pull it up. The median is the better measure of a typical student." loading="lazy">
+  <figcaption>Skewed data pulls the mean above the median, so report the median and name the sample limitation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--01-four-measures-outlier.webp" width="900" height="700" alt="A dot plot of eight delivery times: 9, 9, 9, 11, 12, 14, 22, 35. Mode 9, median 11.5, mean 121/8 = 15.1 and range 26. The outlier 35 pulls the mean above six of the eight values." loading="lazy">
+  <figcaption>The mean, median, mode and range of one data set, with an outlier pulling the mean up.</figcaption>
+</figure>
+
+
 ## Choosing the right measure and representation
 
 <!-- marlbridge-diagram:math-b47-myp-data-measure-choice -->
@@ -95,6 +112,12 @@ than mechanical calculation.
 | Roughly symmetric | Mean | Uses every value, most sensitive to overall pattern |
 | Skewed, or with outliers | Median | Not distorted by extreme values |
 | Categorical data | Mode | Mean and median are not meaningful for categories |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--06-compare-bus-routes.webp" width="900" height="970" alt="Two dot plots of minutes late for seven buses. Both routes have mean and median 4, but Route 1 has range 4 and Route 2 has range 8, so Route 1 is more consistent." loading="lazy">
+  <figcaption>Compare data sets with one comment on an average and one on spread.</figcaption>
+</figure>
+
 
 ## Global context framing
 
@@ -136,6 +159,12 @@ generalised without qualification. Confusing theoretical probability,
 calculated from possible outcomes, with experimental probability,
 calculated from repeated trials, when a question specifically asks for
 one or the other -- the two are calculated in genuinely different ways and are not interchangeable answers to the same question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-reasoning-with-data--06-theoretical-vs-experimental.webp" width="900" height="1150" alt="Rolling a 6: theoretical probability counts one favourable face of six (0.167); an illustrative 60-roll experiment with 12 sixes gives 12/60 = 0.20." loading="lazy">
+  <figcaption>The same event has a theoretical and an experimental probability, calculated differently.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

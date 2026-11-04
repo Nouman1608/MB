@@ -53,6 +53,12 @@ Keep two skills apart. **Drawing** a graph (2.10) means an accurate plot from a 
 
 Check any point that breaks the pattern. A quadratic table is symmetrical about the line of symmetry, so one odd value is usually an arithmetic slip.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--01-table-to-curve.webp" width="900" height="1090" alt="A table of values for y = x² − 2x − 3 from x = −2 to 5 (y = 5, 0, −3, −4, −3, 0, 5, 12) is plotted as crosses and joined by a smooth U-shaped curve. The curve is symmetrical about the dashed line x = 1. It is drawn smoothly, not with ruler segments." loading="lazy">
+  <figcaption>Plot a table, then draw one smooth curve; the table is symmetrical about x = 1.</figcaption>
+</figure>
+
+
 ### Shapes you must recognise (Core)
 
 - **y = ax + b**: a straight line, gradient a, crossing the y-axis at (0, b).
@@ -84,6 +90,12 @@ So draw the line **y = 2x − 2** on the same grid. It crosses the curve at abou
 
 The method always works the same way: write the new equation as "curve = something", and that something is the line to draw.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
+</figure>
+
+
 ### Worked example 2 (Core): a reciprocal graph meeting a line
 
 Complete a table for y = 12/x and use it, with the line y = x + 1, to solve 12/x = x + 1.
@@ -96,6 +108,12 @@ y   -2  -3  -4  -6  -12   12  6   4   3   2
 Draw one smooth branch through the positive points and another through the negative points. Draw y = x + 1 with a ruler. The line crosses the curve twice, at **x = −4 and x = 3**. Check: 12/(−4) = −3 = −4 + 1, and 12/3 = 4 = 3 + 1.
 
 **Interpreting.** A root is an x-value that makes the equation true. If a line misses a curve, that equation has no real solutions. If it touches the curve at one point, there is one solution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--03-reciprocal-meets-line.webp" width="900" height="980" alt="The graph of y = 12/x has two separate branches with no point at x = 0. The line y = x + 1 crosses them at (−4, −3) and (3, 4), so 12/x = x + 1 has solutions x = −4 and x = 3." loading="lazy">
+  <figcaption>A reciprocal curve has two branches; the line meets them where the equation is true.</figcaption>
+</figure>
+
 
 ### Extended only: powers and sums of powers
 
@@ -115,6 +133,12 @@ y    -1   2.125   3   2.375   1  -0.375   -1  -0.125   3
 ```
 
 The curve rises, turns at (−1, 3), falls, turns at (1, −1), then rises again. It meets the x-axis three times, so x³ − 3x + 1 = 0 has **three roots**, near **x = −1.9, x = 0.35 and x = 1.5**. To solve x³ − 3x = 0, rewrite it as x³ − 3x + 1 = 1 and draw the line y = 1. It meets the curve at x = 0 and near x = ±1.7.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--05-sketch-cubic.webp" width="900" height="1030" alt="Sketch of y = x³ − 4x² + 3x = x(x − 1)(x − 3). The curve crosses the x-axis at 0, 1 and 3, coming up from bottom left, turning twice, and rising to top right because the x³ coefficient is positive." loading="lazy">
+  <figcaption>Factorise a cubic to find its roots, then follow the rise, turn, fall, turn, rise.</figcaption>
+</figure>
+
 
 ### Extended only: exponential graphs and growth or decay
 
@@ -173,6 +197,12 @@ x^2 + 2x - 15 = (x + 1)^2 - 1 - 15 = (x + 1)^2 - 16
 
 (x + 1)² is never negative, so the least value of y is −16, when x = −1. The minimum point is **(−1, −16)**. Generally, y = (x + p)² + q has turning point (−p, q). For an n-shape, the turning point is a maximum.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is Extended only." loading="lazy">
+  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; Extended adds the turning point.</figcaption>
+</figure>
+
+
 ### Extended only: cubic, reciprocal and exponential sketches
 
 The syllabus lists the forms you will meet.
@@ -193,6 +223,12 @@ The syllabus lists the forms you will meet.
 **(c) y = 3 × 2ˣ − 6.** Asymptote y = −6, drawn as a dashed line. y-intercept 3 × 1 − 6 = −3. Root: 3 × 2ˣ = 6, so 2ˣ = 2, x = 1. The curve flattens towards y = −6 on the left and climbs steeply on the right.
 
 **Also note:** y = −x³ + 8 has a single root at x = 2 (because 2³ = 8) and y-intercept 8, and falls from left to right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -58,6 +58,17 @@ chord gradient = (12h + 6h² + h³) / h = 12 + 6h + h²
 
 With h = 0.1 the chord gradient is 12.61. As h → 0 the terms 6h and h² vanish, so the gradient at x = 2 is **12**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--01-chord-to-tangent.webp" width="900" height="880" alt="Graph of y = 2x squared. Point P is at x = 3, y = 18. Three chords from P to points a distance h to the right (h = 1, 0.5, 0.25) get closer to the gold tangent line as h shrinks. The chord gradient is 12 + 2h: 14, 13, 12.2 and 12.02 for h = 1, 0.5, 0.1 and 0.01. As h tends to 0 the gradient tends to 12, the gradient of the curve at x = 3, which agrees with dy/dx = 4x." loading="lazy">
+  <figcaption>How chord gradients 12 + 2h approach the tangent gradient 12 at x = 3 on y = 2x².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--08-parametric-gradient.webp" width="900" height="967" alt="The curve x = t squared + 2t, y = t cubed minus 3t, drawn with equal scales. At t = 2 the point is (8, 2). Its horizontal rate dx/dt = 6 and vertical rate dy/dt = 9 form a right triangle whose slope is the gradient dy/dx = 9 over 6 = 3 over 2. The gold tangent has that gradient and the teal normal has gradient minus two thirds. Grey dots mark t = minus 1, 0 and 1." loading="lazy">
+  <figcaption>At t = 2 the gradient is dy/dt ÷ dx/dt = 9/6, with the normal gradient −2/3.</figcaption>
+</figure>
+
+
 ## 2. Sketching the gradient function (1.07c)
 
 You can sketch f'(x) from the picture of f(x) without any algebra. Read the curve from left to right and ask what the tangent is doing.
@@ -81,6 +92,17 @@ f is rising for x > 3        so f' > 0 there
 ```
 
 So f' is a U-shaped parabola crossing the x-axis at −1 and 3. It is symmetrical about x = 1, which is where its lowest point lies. For f(x) = x³ − 3x² − 9x, f'(x) = 3(x + 1)(x − 3), with f'(0) = −9 and a minimum value of −12 at x = 1. Label the intercepts and the minimum on your sketch.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--02-gradient-function.webp" width="900" height="1110" alt="Two graphs aligned on the same x values. Top: the cubic f(x) = x cubed minus 3x squared minus 9x plus 4, rising to a maximum (minus 1, 9), falling to a minimum (3, minus 23), then rising. Bottom: its gradient function f dash = 3(x + 1)(x minus 3), a U-shaped parabola crossing zero at x = minus 1 and x = 3. Where f dash is positive f is rising, where negative f is falling, and f dash = 0 at the maximum and minimum." loading="lazy">
+  <figcaption>The sign of f′ tells you where f rises or falls, and f′ = 0 at turning points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--04-tangent-and-normal.webp" width="900" height="942" alt="Graph of y = square root of (2x + 5) with equal scales on both axes. At P(2, 3) the gradient is one third, so the gold tangent is 3y = x + 7. The teal normal is perpendicular, with gradient minus 3, y = 9 minus 3x, and crosses the x-axis at (3, 0). A right-angle mark at P shows the lines are perpendicular because one third times minus 3 equals minus 1." loading="lazy">
+  <figcaption>The tangent and normal at P(2, 3) are perpendicular because their gradients multiply to −1.</figcaption>
+</figure>
+
 
 ## 3. Second derivatives (1.07d, 1.07e)
 
@@ -107,6 +129,12 @@ f''(x) = 12x² − 48x + 36 = 12(x − 1)(x − 3)
 f'' is a U-shaped parabola with roots 1 and 3, so f'' > 0 for x < 1 and x > 3 (convex) and f'' < 0 for 1 < x < 3 (concave). The sign changes at both roots, so there are points of inflection at x = 1 and x = 3. Their y-values are f(1) = 16 and f(3) = 32. At x = 3 the gradient f'(3) is also 0, so the curve flattens as it passes through; at x = 1, f'(1) = 16.
 
 **Warning.** f''(x) = 0 alone is not enough. For y = x⁴, f''(0) = 0 but f'' = 12x² is positive on both sides, so the curve stays convex and there is no inflection.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--03-convex-concave-inflection.webp" width="900" height="970" alt="A quartic curve f(x) = x to the 4 minus 8x cubed plus 18x squared plus 5. It is convex (bends upwards, teal) for x less than 1, concave (bends downwards, copper) between x = 1 and x = 3, and convex again for x greater than 3. The points of inflection (1, 16) and (3, 32) are ringed; dashed tangents there cross the curve, and at (3, 32) the tangent is horizontal. The second derivative 12(x minus 1)(x minus 3) is zero and changes sign at each." loading="lazy">
+  <figcaption>Convex and concave sections of a curve and the inflection points where f″ changes sign.</figcaption>
+</figure>
+
 
 ## 5. First principles for powers of x (1.07g)
 
@@ -169,6 +197,12 @@ dy/dx = (3/2)x^(1/2) − (3/2)x^(−3/2)
 at x = 4: (3/2)(2) − (3/2)(1/8) = 3 − 3/16 = 45/16
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--05-chain-rule-gradients.webp" width="900" height="1250" alt="Three graphs show y = square root of (4x squared + 9) built in two steps. Top: u = 4x squared + 9 has gradient 16 at x = 2 where u = 25. Middle: y = square root of u has gradient 0.1 at u = 25 where y = 5. Bottom: the combined curve y = square root of (4x squared + 9) has gradient 1.6 at x = 2, and 16 times 0.1 equals 1.6, so dy/dx = dy/du times du/dx." loading="lazy">
+  <figcaption>The gradient of the composite is the product of the two gradients: 16 × 0.1 = 1.6.</figcaption>
+</figure>
+
+
 ## 8. Exponentials and logarithms (1.07j, 1.07l, A Level only)
 
 | Function | Derivative |
@@ -178,6 +212,12 @@ at x = 4: (3/2)(2) − (3/2)(1/8) = 3 − 3/16 = 45/16
 | ln x | 1/x |
 
 The result for a^kx comes from writing a^kx = e^(kx ln a). In every case k is a constant. The function e^x itself is the case k = 1, and it is its own derivative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--07-exp-and-ln-slopes.webp" width="900" height="1200" alt="Top: the graph of y = e to the x with gold tangents at x = 0, 1 and 2. The slope at each point equals its height: 1, e and e squared, so the derivative of e to the x is e to the x. Bottom: the graph of y = ln x with tangents at x = 1, 2 and 4 having slopes 1, one half and one quarter, so the derivative of ln x is 1 over x." loading="lazy">
+  <figcaption>The slope of eˣ equals its height and the slope of ln x at x is 1/x.</figcaption>
+</figure>
+
 
 ## 9. Trigonometric functions (1.07k, A Level only)
 

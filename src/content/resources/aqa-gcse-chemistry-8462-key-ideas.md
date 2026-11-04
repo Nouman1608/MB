@@ -79,6 +79,42 @@ Ar = (60 × 69 + 40 × 71) ÷ 100
 
 The answer lies nearer the more common isotope, as a weighted average should.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--10-aqa-atom-scale.webp" width="900" height="1040" alt="A large dashed circle represents an atom with a radius of about 100 metres, and a tiny dot at its centre represents the nucleus, which in this scaling has a radius of 1 centimetre. A callout shows the nucleus as a small ball of radius 1 cm. The atom is 10 000 times wider across than its nucleus, which means an atom is mostly empty space, yet almost all of the mass is in the nucleus. The real radii are about 0.1 nanometres for the atom and about 1 times 10 to the minus 14 metres for the nucleus." loading="lazy">
+  <figcaption>If the nucleus were 1 cm in radius the atom would be 100 m in radius.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--06-ki-calcium-ion.webp" width="900" height="740" alt="Calcium-40 ion with a 2+ charge: 20 protons and 20 neutrons in the nucleus, 18 electrons in shells 2, 8, 8, and two electrons lost shown dashed." loading="lazy">
+  <figcaption>Protons 20, neutrons 40 - 20 = 20, electrons 20 - 2 = 18.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--07-ki-gallium-mean.webp" width="900" height="810" alt="A balance beam with gallium-69 (60%) and gallium-71 (40%) balancing at 69.8, the relative atomic mass, with the calculation 6980 / 100." loading="lazy">
+  <figcaption>The weighted mean of 60% gallium-69 and 40% gallium-71 is 69.8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--07-relative-atomic-mass.webp" width="900" height="1040" alt="100 chlorine atoms: 75 chlorine-35 and 25 chlorine-37. The weighted calculation gives 3550 / 100 = 35.5, marked on a number line nearer 35 than the plain average of 36, which is wrong." loading="lazy">
+  <figcaption>Relative atomic mass is a weighted average of isotope masses.</figcaption>
+</figure>
+
+
 ## 2 and 3. Periodic relationships and atomic structure
 
 Elements in the periodic table are arranged in order of atomic (proton) number. Elements with similar properties sit in columns called **groups**. It is called *periodic* because similar properties occur at regular intervals.
@@ -101,6 +137,32 @@ Metals are elements that react to form positive ions; they sit to the left and t
 
 The same reasoning, reversed, explains Group 1: going down, the single outer electron is further from the nucleus, so it is lost more easily and reactivity increases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--07-aqa-chlorine-bromine-reactivity.webp" width="900" height="950" alt="Two atoms drawn side by side with the same shell spacing. Chlorine, electronic structure 2,8,7, has three shells. Bromine, 2,8,18,7, has four shells. Both have seven electrons in the outer shell, shown in gold." loading="lazy">
+  <figcaption>Chlorine has fewer shells than bromine, so its outer shell pulls an incoming electron harder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--08-noble-gases.webp" width="900" height="960" alt="Electron shells of He (2), Ne (2,8) and Ar (2,8,8) each have a full outer shell, so they do not gain, lose or share electrons. Noble gas particles are single atoms, whereas chlorine exists as Cl2 molecules." loading="lazy">
+  <figcaption>Noble gases are unreactive and monatomic because their outer shell is full.</figcaption>
+</figure>
+
+
 ## 4. Transferring or sharing electrons
 
 There are three types of strong chemical bond. You explain each one in terms of electrostatic forces and the transfer or sharing of electrons.
@@ -120,6 +182,22 @@ K is in Group 1 → K⁺ ;  S is in Group 6 → S²⁻
 Two K⁺ balance one S²⁻ → K₂S
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
+
 ## 5. Shapes of molecules and giant structures
 
 Bonding and structure together decide how a substance behaves. The stronger the forces between the particles, the higher the melting and boiling points.
@@ -136,6 +214,32 @@ Arrangement matters within one element too. In **diamond** each carbon forms fou
 
 (Higher tier only) The particle model of solid spheres has limits: it shows no forces, and real particles are not solid spheres.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--09-ki-model-limits.webp" width="900" height="880" alt="Left: solid touching spheres with no forces shown. Right: two real particles, each a tiny nucleus with electrons around it, with arrows for forces between them." loading="lazy">
+  <figcaption>The solid-sphere model shows no forces, and real particles are not solid spheres.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--07-graphite.webp" width="900" height="813" alt="Three flat layers of carbon atoms in hexagons, each atom bonded to three others. Weak forces (dashed) lie between the layers so they slide, making graphite soft and slippery, a lubricant. Delocalised electrons between layers let it conduct electricity." loading="lazy">
+  <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
+</figure>
+
+
 ## 6. Barriers to reaction
 
 Reactions can occur only when particles **collide with sufficient energy**. The minimum energy needed is the **activation energy** -- the barrier on a reaction profile. Because the barrier differs between reactions, reactions go at different rates.
@@ -151,6 +255,12 @@ mean rate = quantity of product formed ÷ time taken
           = 48 ÷ 40 = 1.2 cm³/s
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--08-ki-mean-rate.webp" width="900" height="880" alt="Graph of gas volume against time: a straight line from 0 to 48 cm3 at 40 s. The mean rate is 48 / 40 = 1.2 cm3/s." loading="lazy">
+  <figcaption>Mean rate = quantity of product / time = 48 / 40 = 1.2 cm3/s.</figcaption>
+</figure>
+
+
 ## 7. Three ways reactions happen
 
 | Type | What moves | Examples in 8462 |
@@ -162,6 +272,17 @@ mean rate = quantity of product formed ÷ time taken
 (Higher tier only) **Oxidation is loss of electrons; reduction is gain of electrons.** In Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂, bromide ions lose electrons (oxidised) and chlorine gains them (reduced). At the cathode in electrolysis, positive ions gain electrons (reduction), for example 2H⁺ + 2e⁻ → H₂.
 
 (Higher tier only) A strong acid is completely ionised in water; a weak acid is only partially ionised. As pH falls by one unit, the H⁺ concentration rises by a factor of 10. So a solution at pH 3 has 100 times the H⁺ concentration of one at pH 5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--06-aqa-three-ways-reactions.webp" width="900" height="1010" alt="Three panels show the only three ways reactions happen. One, proton transfer: a hydrogen ion H+ moves from an acid to a hydroxide ion, making water, as in neutralisation. Two, electron transfer: an electron moves from a metal atom such as sodium to a non-metal atom such as chlorine, making sodium and chloride ions. Three, electron sharing: a hydrogen atom and a chlorine atom share a pair of electrons, forming a covalent bond in hydrogen chloride." loading="lazy">
+  <figcaption>Every reaction in the course moves a proton, moves electrons, or shares a pair of electrons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--09-aqa-ph-factor-ten.webp" width="900" height="830" alt="Three equal beakers of solution show hydrogen ions as gold dots. At pH 5 there is 1 dot. At pH 4 there are 10 dots. At pH 3 there are 100 dots." loading="lazy">
+  <figcaption>Each pH unit down means ten times more H+, so pH 3 has 100 times the H+ of pH 5.</figcaption>
+</figure>
+
 
 ## 8. Energy is conserved
 
@@ -179,6 +300,17 @@ energy change = 1370 – 1856 = –486 kJ/mol  → exothermic
 ```
 
 More energy is released forming bonds than is needed to break them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--08-aqa-bond-energy-water.webp" width="900" height="940" alt="Two bars drawn to the same scale for 2H2 plus O2 making 2H2O. The top bar shows bonds broken: two H–H bonds of 436 each and one O=O bond of 498, totalling 1370 kJ/mol taken in. The lower bar shows bonds formed: four O–H bonds of 464 each, because each water molecule has two, totalling 1856 kJ/mol released. The lower bar is longer by 486, so the energy change is 1370 minus 1856, which is minus 486 kJ/mol, and the reaction is exothermic." loading="lazy">
+  <figcaption>Counting every bond, 1370 kJ/mol is taken in and 1856 kJ/mol is released, giving -486 kJ/mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-key-ideas--10-ki-bond-energy-water.webp" width="900" height="1109" alt="Energy ladder for 2H2 + O2 making 2H2O with H-H 436, O=O 498 and O-H 464 kJ/mol. Broken 1370, formed 1856, net -486 kJ/mol, exothermic." loading="lazy">
+  <figcaption>Breaking 1370 kJ/mol and forming 1856 kJ/mol gives -486 kJ/mol.</figcaption>
+</figure>
+
 
 ## Linking key ideas in one answer
 

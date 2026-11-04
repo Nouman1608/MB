@@ -67,6 +67,22 @@ Processes to label:
 - Cell respiration: every living box, including decomposers, to CO₂.
 - Combustion: biomass and fossil fuels to CO₂.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--01-net-primary-production.webp" width="900" height="900" alt="Two stacked bars compare a woodland and a grassland. In the woodland, 2400 g per square metre per year of carbon is fixed by photosynthesis and 1100 is released by the plants’ own respiration, leaving a net primary production of 1300. In the grassland 900 is fixed and 480 respired, leaving 420. The woodland accumulates 3.1 times more biomass; 54% of fixed carbon is kept in X and 47% in Y." loading="lazy">
+  <figcaption>Net primary production is the carbon fixed minus the plants’ own respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--02-secondary-production.webp" width="900" height="900" alt="A wide bar shows net primary production of 1300 grams of carbon per square metre per year. Of it, 1040 is not eaten and 260 (20 per cent) is eaten by herbivores. The eaten 260 is expanded in a second bar: 90 is egested as faeces and goes to decomposers, 120 is released as carbon dioxide by herbivore respiration, and 50 becomes new herbivore biomass. 50 is 3.8 per cent of net primary production, so secondary production is much lower than primary production." loading="lazy">
+  <figcaption>Respiration and faeces mean only a small share of net primary production becomes secondary production.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--03-carbon-cycle.webp" width="900" height="960" alt="Carbon dioxide in air and water enters producers by photosynthesis. Feeding arrows pass carbon from producers to primary consumers to secondary consumers. Producers and consumers add carbon to dead organic matter through death and faeces; decomposers feed on and digest it. Producers, both consumer levels and decomposers all release carbon dioxide by respiration." loading="lazy">
+  <figcaption>A carbon cycle diagram needs stores, labelled arrows, decomposers and respiration from every living box.</figcaption>
+</figure>
+
+
 ## Sinks and sources
 
 Net CO₂ uptake = photosynthesis − (respiration by autotrophs + respiration by heterotrophs and decomposers).
@@ -79,6 +95,12 @@ Net CO₂ uptake = photosynthesis − (respiration by autotrophs + respiration b
 
 An ecosystem can switch. A forest that burns, or a peatland that is drained, can change from sink to source.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--04-sink-or-source.webp" width="900" height="930" alt="Two pairs of bars. Young plantation: photosynthesis takes in 1800; respiration by plants (800) plus animals and decomposers (950) releases 1750, a net uptake of +50, so it is a sink. Drained peatland: photosynthesis takes in 400; respiration by plants (180) plus decomposers (520) releases 700, a net release of 300, so it is a source." loading="lazy">
+  <figcaption>An ecosystem is a sink if photosynthesis exceeds total respiration and a source if respiration exceeds it.</figcaption>
+</figure>
+
+
 ## Combustion
 
 | Fuel | Origin | Age of the carbon store |
@@ -90,6 +112,12 @@ An ecosystem can switch. A forest that burns, or a peatland that is drained, can
 
 Lightning fires occur naturally. Human activities have greatly increased combustion rates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--07-fuel-stores.webp" width="900" height="980" alt="Four horizontal bars on a logarithmic time scale show how long each carbon store took to form: biomass years to centuries, peat thousands of years, oil and natural gas millions of years, and coal hundreds of millions of years. Burning any of them releases carbon dioxide. Fossil fuels return within a few generations carbon that was removed from the atmosphere over geological time. Bar lengths are approximate." loading="lazy">
+  <figcaption>Fossil fuels are carbon stores formed over geological time that combustion releases within generations.</figcaption>
+</figure>
+
+
 ## The Keeling Curve
 
 | Feature | Pattern | Explanation |
@@ -99,6 +127,12 @@ Lightning fires occur naturally. Human activities have greatly increased combust
 
 When analysing a graph: quote start and end values, calculate the change, give a rate per year, comment on whether the rate is constant, then explain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--05-keeling-curve.webp" width="900" height="960" alt="Two graphs of atmospheric carbon dioxide in parts per million. The upper graph, 1960 to 2020, shows a zigzag line rising steadily: annual means of 317 in 1960, 354 in 1990 and 414 in 2020, a rise of 97 ppm or 30.6 per cent, with the rate increasing from 1.2 to 2.0 ppm per year. The lower graph zooms into one year: a peak of 419.5 ppm in May and a low of 413.5 ppm in September, a 6.0 ppm fluctuation caused by northern-hemisphere photosynthesis exceeding respiration in spring and summer. The long-term rise is mainly from burning fossil fuels. The curve shape is illustrative, drawn through the lesson’s values." loading="lazy">
+  <figcaption>The seasonal zigzag is small next to the long-term rise driven by fossil-fuel combustion.</figcaption>
+</figure>
+
+
 ## Interdependence and recycling
 
 - Aerobic respiration needs atmospheric oxygen, produced by photosynthesis.
@@ -107,6 +141,17 @@ When analysing a graph: quote start and end values, calculate the change, give a
 - All elements needed by organisms are recycled, not only carbon. Decomposers are the key group.
 - Matter is recycled in ecosystems, but energy flows through and leaves as heat.
 - Detailed nitrogen-cycle and other nutrient-cycle knowledge is not needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--06-gas-swap.webp" width="900" height="820" alt="A left panel for photosynthesis in autotrophs and a right panel for respiration in all living organisms. An arrow carries carbon dioxide from respiration to photosynthesis and another carries oxygen from photosynthesis to respiration, so each process supplies the raw material of the other. Plants respire as well, and combustion also adds carbon dioxide." loading="lazy">
+  <figcaption>Autotrophs and heterotrophs supply each other’s raw materials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--08-recycling-decomposers.webp" width="900" height="900" alt="A cycle of four boxes. Living organisms take up elements; when they die or produce waste the material becomes dead material and faeces; decomposers (bacteria and fungi) digest it; they release inorganic ions and carbon dioxide into soil and air, which autotrophs take up again. Elements such as nitrogen, phosphorus, sulfur, potassium, calcium and magnesium are all recycled. Without decomposers nutrients would stay locked in dead material and primary production would fall. Energy is not recycled: it enters as light and leaves as heat." loading="lazy">
+  <figcaption>Decomposers return elements to the soil and air so that autotrophs can use them again.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

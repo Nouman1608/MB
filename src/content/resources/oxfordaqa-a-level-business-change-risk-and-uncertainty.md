@@ -113,6 +113,12 @@ Step 4. Plan action on restraining forces. A guarantee of retraining rather than
 
 **Value and limits.** It makes managers list every force and plan how to tackle each. But scores are subjective, so two managers may reach different totals, and forces shift over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+
 ### Kotter and Schlesinger's six ways of overcoming resistance
 
 | Method | What it involves | Best when | Drawback |
@@ -125,6 +131,12 @@ Step 4. Plan action on restraining forces. A guarantee of retraining rather than
 | **Coercion** | Force: threats of job loss, transfer or dismissal | Speed is essential and managers have power | Resentment, lower motivation, possible staff loss |
 
 Match the method to the reason for resistance. Velmoray's rumour about a sale (misunderstanding and lack of trust) calls for education, whereas the senior weavers' lost overtime (self-interest) may need negotiation, such as a retained-pay period while they retrain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--09-force-field.webp" width="900" height="1070" alt="Arrows scaled to scores for driving and restraining forces before and after action: drivers 12 against restrainers 10 (lead 2), then restrainers fall to 7 (lead 5) after a retraining pledge and course." loading="lazy">
+  <figcaption>Weakening restraining forces widens the lead of driving forces.</figcaption>
+</figure>
+
 
 ## 5. Risk and uncertainty
 
@@ -166,6 +178,12 @@ Match the method to the reason for resistance. Velmoray's rumour about a sale (m
 - Ransomware (cybersecurity): offline **backups** and staff training on suspicious emails.
 
 **Judgement.** No single method covers everything; the mix depends on each risk's likelihood and impact, and on what the firm can afford.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--01-ansoff-matrix.webp" width="900" height="1048" alt="A two by two grid of existing/new products against existing/new markets giving market penetration, product development, market development and diversification, with risk rising towards diversification. Orrisdale example: raising share from 15% to 20% needs a 40% revenue rise." loading="lazy">
+  <figcaption>Four options sit in a grid by product and market, and risk rises as the business moves away from what it knows.</figcaption>
+</figure>
+
 
 ## 6. Managing uncertainty
 

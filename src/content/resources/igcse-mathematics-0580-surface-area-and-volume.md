@@ -121,6 +121,17 @@ Use the two shorter sides (the ones at the right angle) for the triangle's base 
 
 A cylindrical sector has five faces: two sectors, one curved face and two rectangles. Missing the rectangles is the usual error.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--01-prism-volume.webp" width="900" height="740" alt="A triangular prism whose cross-section is a right-angled triangle with sides 6 cm, 8 cm and 10 cm. The triangle has area 24 square centimetres. The prism is 15 cm long, shown by an arrow along its length. Volume equals cross-section area times length, 24 times 15 equals 360 cubic centimetres." loading="lazy">
+  <figcaption>A triangular prism with a 6-8-10 cross-section of area 24 cm2 and length 15 cm has volume 24 x 15 = 360 cm3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--02-prism-net.webp" width="900" height="940" alt="The net of the triangular prism. Three rectangles side by side, 6 by 15, 8 by 15 and 10 by 15, with areas 90, 120 and 150 square centimetres, add to 360. A triangle of area 24 is attached above and another below the middle rectangle. The two ends total 48. Surface area is 48 plus 360, which is 408 square centimetres." loading="lazy">
+  <figcaption>The net of the prism shows two triangular ends (48) and three rectangles (360), giving a surface area of 408 cm2.</figcaption>
+</figure>
+
+
 ## Cylinders
 
 ```
@@ -151,6 +162,12 @@ h = 44.209... = 44.2 cm (3 s.f.)
 ```
 
 Convert the capacity first, so every quantity is in centimetres.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--03-cylinder-unrolled.webp" width="900" height="990" alt="A cylinder of radius 5 cm and height 8 cm, then its net: a rectangle with two circles touching its top and bottom edges. The rectangle is the curved surface; its width equals the circumference 2 pi r = 10 pi and its height is 8, so its area is 80 pi. Each circle has area 25 pi. Total surface area is 130 pi square centimetres." loading="lazy">
+  <figcaption>The curved surface of a cylinder unrolls into a rectangle 2 pi r wide and h high, so the total surface area is 80 pi + 50 pi = 130 pi cm2.</figcaption>
+</figure>
+
 
 ## Spheres
 
@@ -216,6 +233,17 @@ slant height² = 15² + 8²      (8 = half of 16)
               = 225 + 64 = 289
 slant height  = 17 cm
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--04-one-third.webp" width="900" height="890" alt="Top: a cone sits inside a cylinder with the same radius 6 cm and height 8 cm. A bar of three equal parts shows the cone is one part, 96 pi, of the cylinder, 288 pi. Bottom: a pyramid with a 16 by 16 base and height 15 sits inside a square prism. The pyramid volume 1280 is one third of the prism volume 3840." loading="lazy">
+  <figcaption>A cone is one third of the cylinder with the same base and height, and a pyramid one third of the matching prism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--05-slant-vs-height.webp" width="900" height="1080" alt="Top, a square-based pyramid with base 16 and vertical height 15 from the apex to the centre of the base. A right-angled triangle inside it uses the vertical height 15, half the base 8, and the slant height 17 on a face. This slant-height step is Extended. Bottom, a cone with radius 6, vertical height 8 and slant height 10. Volume uses the vertical height; curved surface area uses the slant height." loading="lazy">
+  <figcaption>The vertical height goes in the volume formula and the slant height in the curved surface area. Pythagoras links them: 15, 8, 17 in the pyramid and 6, 8, 10 in the cone.</figcaption>
+</figure>
+
 
 ## Cones
 

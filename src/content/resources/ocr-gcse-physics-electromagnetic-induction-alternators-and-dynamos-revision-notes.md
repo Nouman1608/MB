@@ -51,6 +51,12 @@ These notes condense the [full study guide](/resources/ocr-gcse-physics-electrom
 | South pole approaches | South |
 | South pole leaves | North |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos--01-induction-opposes-change.webp" width="900" height="1020" alt="Two panels show a bar magnet pushed into and pulled out of a coil joined to a galvanometer. Pushing the N pole in makes the near coil end an N pole, which repels the magnet, and the needle swings one way. Pulling out makes it an S pole, which attracts the departing magnet, and the needle swings the other way." loading="lazy">
+  <figcaption>The induced current always makes a pole that resists the movement of the magnet.</figcaption>
+</figure>
+
+
 ### Galvanometer demonstration
 
 | Action | Reading |
@@ -60,6 +66,12 @@ These notes condense the [full study guide](/resources/ocr-gcse-physics-electrom
 | Faster movement | Larger deflection |
 | Magnet reversed | Deflection reversed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos--01-galvanometer-readings.webp" width="900" height="1224" alt="Six galvanometer dials: held still gives zero; N pole pushed in deflects right; pulled out deflects left; pushed in faster gives a bigger right deflection; other pole leading reverses to left; more turns gives a bigger right deflection." loading="lazy">
+  <figcaption>The needle shows direction and size of the induced p.d. for each action.</figcaption>
+</figure>
+
+
 ## Alternator (Higher Tier only)
 
 - Coil rotates in a magnetic field. Output taken through **slip rings** and brushes.
@@ -68,6 +80,12 @@ These notes condense the [full study guide](/resources/ocr-gcse-physics-electrom
 - Output is **a.c.** One rotation of the coil gives one cycle in the simple model.
 - **Maximum p.d.** when the plane of the coil is along the field lines (sides cutting fastest).
 - **Zero p.d.** when the plane of the coil is at right angles to the field lines (sides moving along the lines).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos--02-alternator-coil-positions.webp" width="900" height="940" alt="Four end-on views of a coil between N and S poles sit above a graph of induced p.d. over one turn. The p.d. is maximum when the coil plane is along the field lines, zero when across them, and maximum in the opposite direction after half a turn. It therefore reverses twice per turn." loading="lazy">
+  <figcaption>The p.d. of an alternator follows the coil position and reverses twice per turn.</figcaption>
+</figure>
+
 
 ## Dynamo (Higher Tier only)
 
@@ -87,6 +105,12 @@ These notes condense the [full study guide](/resources/ocr-gcse-physics-electrom
 | Faster rotation | Higher frequency, higher peak | More pulses per second, higher peak |
 
 A motor transfers electrical energy to kinetic energy. A dynamo or alternator transfers kinetic energy to electrical energy. The layouts look alike, but the energy transfer is reversed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos--03-slip-rings-vs-commutator.webp" width="900" height="1210" alt="In an alternator the coil ends are joined to slip rings, so brush 1 changes from plus to minus after half a turn. In a dynamo the split-ring commutator swaps halves between brushes every half turn, so brush 1 stays plus. The output graphs show one a.c. cycle per turn and two same-direction d.c. pulses per turn." loading="lazy">
+  <figcaption>Slip rings keep a.c.; a split-ring commutator makes d.c. pulses.</figcaption>
+</figure>
+
 
 ## Model explanations to learn
 
@@ -127,6 +151,12 @@ An alternator gives a peak p.d. of 6.0 V at 1500 revolutions per minute. At 1000
 ### Worked reminder 1
 
 A trace shows 4 cycles in 80 ms. Period = 80 ÷ 4 = 20 ms = 0.020 s. Frequency = 1 ÷ 0.020 = **50 Hz**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos--04-alternator-speed-trace.webp" width="900" height="1080" alt="Two graphs on the same axes show an alternator at 1500 and 3000 rev/min. The slower trace has a 0.040 s period (25 Hz) and 6.0 V peak; the faster has a 0.020 s period (50 Hz) and 12 V peak, so it has twice as many cycles, each twice as tall." loading="lazy">
+  <figcaption>Doubling the speed doubles both the frequency and the peak p.d.</figcaption>
+</figure>
+
 
 ### Worked reminder 2
 

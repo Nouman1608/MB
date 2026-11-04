@@ -65,6 +65,22 @@ The sum and difference results are needed as results; proofs are not expected.
 3. Find the new variance by adding a² × variance for every term. Never subtract.
 4. Standardise using the new standard deviation (square root of the new variance).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--01-amth-normal-shape.webp" width="900" height="1250" alt="Three graphs: two bell curves with means 40 and 60 show that changing the mean slides the curve; two curves centred on 50 with standard deviations 4 and 8 show that a larger spread gives a lower, wider curve of the same area; a curve with mean 50 and sd 9 has points of inflection at 41 and 59. A note says N(30, 16) and N(30, 4²) are the same curve." loading="lazy">
+  <figcaption>Changing μ slides the curve, changing σ squeezes or spreads it, and the points of inflection are at μ ± σ; the second number is the variance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--04-amth-normal-inverse.webp" width="900" height="1100" alt="Using the mango model, the top 10% start at k with area 0.90 to the left, z = 1.2816, so k = 335.6 g. The lowest 20% use the mirror value 0.8416, so z = −0.8416 and k = 293.2 g." loading="lazy">
+  <figcaption>Work from the area to the left to find z, then use x = μ + zσ; below 0.5 means z is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--05-amth-normal-two-unknowns.webp" width="900" height="870" alt="With P(X &lt; 30) = 0.20 and P(X &gt; 46) = 0.10, 30 lies 0.8416σ below the mean and 46 lies 1.2816σ above it, so 16 = 2.1232σ, giving σ = 7.54 and μ = 36.3." loading="lazy">
+  <figcaption>Two probability statements give two linear equations in μ and σ.</figcaption>
+</figure>
+
+
 ## Percentage points used in these notes
 
 | P(Z < z) | 0.75 | 0.80 | 0.90 | 0.95 | 0.975 | 0.99 |
@@ -129,6 +145,12 @@ These save time and reduce lookup errors, so check whether one applies before yo
 - If P(X < a) = p, then P(X > 2μ − a) = p too. The point reflected in the mean has the same tail.
 - Percentage points for p < 0.5 are the negatives of those for 1 − p. For example, the point for 0.10 is −1.2816.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--03-amth-normal-standardising.webp" width="900" height="945" alt="Mango mass M ~ N(310, 20²): 280 g is z = −1.5 and 325 g is z = 0.75. P(280 &lt; M &lt; 325) = Φ(0.75) − (1 − Φ(1.5)) = 0.7734 − 0.0668 = 0.7066, shown as three small standard normal curves." loading="lazy">
+  <figcaption>Standardise with z = (x − μ)/σ, then use Φ and symmetry to find the area between two values.</figcaption>
+</figure>
+
+
 ## Wording clues
 
 | Phrase in the question | What to do |
@@ -140,6 +162,12 @@ These save time and reduce lookup errors, so check whether one applies before yo
 | "Lowest mark for the top 10%" | Percentage point for 0.90, then x = μ + zσ |
 | "The middle 95%" | 2.5% in each tail. Use the percentage point for 0.975 |
 | "Within 1.5 standard deviations of the mean" | Use P(−1.5 < Z < 1.5) = 2Φ(1.5) − 1 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--02-amth-normal-spread-rule.webp" width="900" height="850" alt="Plank lengths with mean 2.40 m and sd 0.03 m: nested bands show about 2/3 (0.683) within one sd, about 95% (0.954) within two, and almost all (0.997) within three. About 0.0228 lies above μ + 2σ." loading="lazy">
+  <figcaption>About 2/3, 95% and almost all values lie within 1, 2 and 3 standard deviations of the mean.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -179,6 +207,12 @@ Let Y ~ N(35, 4²) for questions 1 to 5. Table values: Φ(1.5) = 0.9332 and Φ(1
 9. A − B ~ N(4, 25), so sd = 5. z = (0 − 4)/5 = −0.8. P = Φ(0.8) = 0.7881.
 10. Var(4A) = 16 × 9 = 144. Var of the sum = 4 × 9 = 36. The first is four times the second.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--06-amth-normal-sums.webp" width="900" height="1120" alt="For X ~ N(30, 4²), X1 + X2 + X3 is N(90, 48) and 3X is N(90, 144). Both have mean 90 but the sum of independent values is narrower: P(&gt; 102) is 0.0418 for the sum and 0.1587 for 3X." loading="lazy">
+  <figcaption>Variances add for independent values, so a sum is less spread out than a multiple of one value.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing N(35, 4) when the standard deviation is 4. The second number must be 16.
@@ -191,6 +225,12 @@ Let Y ~ N(35, 4²) for questions 1 to 5. Table values: Φ(1.5) = 0.9332 and Φ(1
 - Rounding z to one decimal place, or rounding too early in the middle of the working.
 - Giving no sketch and no clear line showing which probability is being found.
 - Omitting the statement that the variables are independent, where a sum or difference is being used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--09-amth-normal-model-limits.webp" width="900" height="1070" alt="N(6, 4²) for assembly time gives 0.0668 probability of a negative time, which is impossible. A second graph compares skewed data with a normal curve of the same mean and spread, which fits poorly and puts about 4% below zero." loading="lazy">
+  <figcaption>A normal model gives some probability to impossible values and fits skewed data badly.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

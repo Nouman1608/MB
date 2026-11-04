@@ -73,6 +73,22 @@ Using 5% growth and a relative share of 1 as the dividing lines, Wyndle has one 
 
 **Limitations.** Defining "the market" changes the result; high share does not guarantee high profit; the matrix is a snapshot; and a dog may be worth keeping if customers buy it alongside other lines.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--06-ansoff-matrix.webp" width="900" height="880" alt="Two by two grid of existing and new products against existing and new markets: market penetration (lowest risk), product development and market development (higher risk), diversification (highest risk)." loading="lazy">
+  <figcaption>Ansoff’s matrix ranks growth options by risk; moving into new products and new markets together is riskiest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--07-boston-matrix.webp" width="900" height="940" alt="Scatter chart of market growth against relative market share with dividing lines at 5 percent and 1. Salted Twists is a cash cow, Lentil Puffs a star, Seaweed Crisps a question mark and Crunch Rods a dog. An arrow shows cash cow money funding the question mark." loading="lazy">
+  <figcaption>The Boston Matrix classifies each product by market growth and relative share.</figcaption>
+</figure>
+
+
 ## 2. Assessing performance from the accounts
 
 ### Reading and amending the statements
@@ -137,6 +153,17 @@ Year 2 ROCE in full: `864 ÷ (2,000 + 4,140) × 100 = 864 ÷ 6,140 × 100 = 14.0
 
 After the inventory write-off, ROCE falls further to 744 ÷ 6,020 × 100 = **12.36%** and the current ratio to **1.68**, but the acid test ratio stays at **1.0** because inventory is excluded from it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
+  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
+  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
+</figure>
+
+
 ### The value of ratio analysis
 
 Ratios turn raw figures into comparable measures, show trends and help owners, lenders and investors judge performance and risk. But a ratio describes rather than explains, and one-off events can distort it.
@@ -172,6 +199,12 @@ Selsworth's Year 2 revenue of 7,200 came from three profit centres:
 - **No non-financial factors:** they miss staff morale, brand reputation and environmental impact, all of which affect future performance.
 - A statement of financial position shows one date and may not be typical of the year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
+  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
+</figure>
+
+
 ## 3. Analysing business culture
 
 **Business culture** is the shared values, attitudes and ways of behaving in an organisation: "the way we do things here".
@@ -197,6 +230,12 @@ Selsworth's Year 2 revenue of 7,200 came from three profit centres:
 **Reasons for changing culture:** a new leader or owner, a merger, poor performance, new customer expectations, a scandal, or a new strategy that the old culture blocks.
 
 **Problems of changing culture:** it takes years; staff resist, especially in strong cultures; key people may leave; new values must be backed by changed rewards, structure and leaders' behaviour or nothing changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
 
 ## Common errors
 

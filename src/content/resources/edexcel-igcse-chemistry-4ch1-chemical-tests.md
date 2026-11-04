@@ -85,6 +85,17 @@ Three gas jars contain hydrogen, oxygen and carbon dioxide. Describe how to iden
 
 "The splint goes out" is not a test for carbon dioxide. Many gases put out a flame; only limewater confirms CO₂.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-tests--11-gas-tests-why-they-work.webp" width="900" height="1230" alt="Five rows: hydrogen gives a squeaky pop because it burns rapidly in oxygen; oxygen relights a glowing splint because it supports combustion; carbon dioxide turns limewater milky as calcium carbonate forms; ammonia turns damp red litmus blue because it dissolves to give an alkaline solution; chlorine bleaches damp litmus." loading="lazy">
+  <figcaption>Each gas test works because of what the gas does: burn, support burning, form a precipitate, or change an indicator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--07-gas-tests.webp" width="900" height="1162" alt="Six gas tests with before and after: ammonia turns damp red litmus blue; carbon dioxide turns limewater milky; chlorine bleaches damp litmus white; hydrogen gives a squeaky pop with a lighted splint; oxygen relights a glowing splint; sulfur dioxide decolourises acidified manganate(VII)." loading="lazy">
+  <figcaption>What to do and what you see for six gases.</figcaption>
+</figure>
+
+
 ## 2.45 How to carry out a flame test
 
 1. Clean a nichrome (or platinum) wire loop: dip it in concentrated hydrochloric acid and hold it in a hot Bunsen flame until it gives no colour.
@@ -96,6 +107,12 @@ Why the details matter:
 
 - The wire must be clean, or traces of an earlier sample colour the flame.
 - Use a blue flame. A yellow (luminous) flame would hide the colour you are looking for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-tests--10-flame-test-method.webp" width="900" height="1020" alt="Four steps: dip a clean nichrome loop in concentrated hydrochloric acid; heat it until no colour; dip it in acid then the solid; hold it at the edge of a blue flame and note the colour. A clean wire and a blue flame are needed so the colour is not hidden." loading="lazy">
+  <figcaption>A clean loop and a blue Bunsen flame let the true colour show.</figcaption>
+</figure>
+
 
 ## 2.46 Flame colours
 
@@ -118,6 +135,12 @@ A white solid gives an orange-red flame. A second white solid gives a lilac flam
 **Answer.** The first contains **calcium ions, Ca²⁺**. The second contains **potassium ions, K⁺**.
 
 A flame test identifies only the metal ion. It tells you nothing about the anion, so you need a separate test for that.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--04-flame-tests.webp" width="900" height="940" alt="Six Bunsen flames with a wire loop: lithium red, sodium yellow, potassium lilac, calcium orange-red, barium light green, copper(II) blue-green." loading="lazy">
+  <figcaption>Flame colours for six metal ions.</figcaption>
+</figure>
+
 
 ## 2.47 Tests for cations using sodium hydroxide
 
@@ -161,6 +184,17 @@ A student has two pale solutions labelled "iron sulfate". Describe how to show w
 **Answer.** Add a few drops of sodium hydroxide solution to a sample of each. A **green** precipitate shows **iron(II), Fe²⁺**. A **brown** precipitate shows **iron(III), Fe³⁺**.
 
 The word "iron" on its own scores nothing here. The whole point of the test is to tell the two ions apart.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-tests--09-ammonium-test-detail.webp" width="900" height="1060" alt="A boiling tube with ammonium salt and sodium hydroxide solution is warmed gently; ammonia gas turns damp red litmus at the mouth blue. A second panel shows the wrong method of dipping the litmus in the liquid, where sodium hydroxide itself turns it blue." loading="lazy">
+  <figcaption>Warm the mixture and hold damp red litmus at the mouth of the tube, not in the liquid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--01-cations-naoh.webp" width="900" height="1132" alt="Test tubes show each of eight cations after a few drops of NaOH and in excess. Al, Zn dissolve to colourless; Ca, Cu, Fe(II), Fe(III) stay as precipitates (white, pale blue, green browning, red-brown); Cr(III) green precipitate dissolves. Ammonium gives no precipitate but releases ammonia on warming." loading="lazy">
+  <figcaption>Eight cations, two stages of NaOH: what you see in the tube.</figcaption>
+</figure>
+
 
 ## 2.48 Tests for anions
 
@@ -231,6 +265,27 @@ A student adds dilute hydrochloric acid and then silver nitrate solution to an u
 
 **Answer.** The conclusion is not valid. The hydrochloric acid itself supplies chloride ions, so a white precipitate would form whatever the unknown contained. Repeat the test using dilute nitric acid in place of hydrochloric acid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-tests--06-acid-choice-false-positive.webp" width="900" height="1140" alt="Test tubes with a sample lacking halide and sulfate: nitric acid with silver nitrate and hydrochloric acid with barium chloride stay clear; the wrong acid adds chloride or sulfate and gives a false white precipitate." loading="lazy">
+  <figcaption>The acid must not contain the ion you are testing for.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-tests--08-sulfate-test-hcl-bacl2.webp" width="900" height="960" alt="Three test tubes: dilute hydrochloric acid is added to the sample, then barium chloride solution, giving a white precipitate of barium sulfate. The ionic equation is Ba2+ + SO4 2- gives BaSO4. Hydrochloric acid is used because sulfuric acid would add sulfate." loading="lazy">
+  <figcaption>Acidify with hydrochloric acid, add barium chloride, and a white precipitate shows sulfate ions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--05-halide-sulfate.webp" width="900" height="840" alt="Sample is acidified with dilute nitric acid, then silver nitrate gives a white, cream or yellow precipitate for chloride, bromide, iodide. Barium nitrate gives a white precipitate for sulfate." loading="lazy">
+  <figcaption>Acidify first, then silver nitrate (halides) or barium nitrate (sulfate).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--06-anion-others.webp" width="900" height="1144" alt="Carbonate with acid gives carbon dioxide that turns limewater milky. Nitrate with NaOH and aluminium foil, warmed, gives ammonia that turns damp red litmus blue. Sulfite turns acidified manganate(VII) from purple to colourless." loading="lazy">
+  <figcaption>Carbonate, nitrate and sulfite tests as simple apparatus pictures.</figcaption>
+</figure>
+
+
 ## 2.49 Test for the presence of water
 
 Add the liquid to **anhydrous copper(II) sulfate**. It turns from **white to blue** if water is present.
@@ -241,6 +296,12 @@ white                  blue
 ```
 
 This shows that water is **present**. It does not show the water is **pure**. A salt solution also turns it blue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-tests--07-water-present-or-pure.webp" width="900" height="1140" alt="White anhydrous copper(II) sulfate turns blue with water, showing water is present. Thermometers show pure water boils at 100 degrees Celsius while seawater boils at 101, so it is not pure." loading="lazy">
+  <figcaption>Copper(II) sulfate shows water is present; the boiling point shows purity.</figcaption>
+</figure>
+
 
 ## 2.50 Physical test for pure water
 

@@ -131,6 +131,12 @@ Pₐᵥₑᵣₐgₑ = ½ P₀
 This is consistent with, and can be verified using, the r.m.s. current and
 voltage values directly in P = IᵣₘₛVᵣₘₛ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--08-ac-rms-and-power.webp" width="900" height="945" alt="A mains voltage with peak 325 V and period 20 ms is plotted for two cycles with dashed lines at 230 V r.m.s. and a 650 V peak-to-peak arrow. Below, the power in a resistor, proportional to sin squared and never negative, has a mean of exactly half the peak power." loading="lazy">
+  <figcaption>The r.m.s. value is the peak divided by root 2, and the mean power is half the peak power.</figcaption>
+</figure>
+
+
 ## Transformers and power transmission (prerequisite knowledge)
 
 The current (2025-2027) Cambridge 9702 syllabus does not list transformers
@@ -153,6 +159,12 @@ A **step-up** transformer increases voltage and decreases current in the same pr
 Real transformers lose some power, through **eddy currents** (reduced by laminating the core into insulated layers), **resistive (I²R) heating** in the windings (reduced with thick, low-resistance wire), **hysteresis** (energy needed to repeatedly re-magnetise the core, reduced by using a soft iron core), and **flux leakage** (reduced by a well-designed, fully linked core).
 
 **Power transmission** is why transformers matter beyond the laboratory. Electricity is transmitted at **high voltage and low current**, because the power lost as heat in the cables is `I²R` — it depends on the **square of the current**, not the voltage. Stepping the transmission voltage up by a factor of 10 divides the current by 10 for the same power delivered, and so cuts the transmission loss by a factor of 100. Stating the reason in terms of current squared, rather than voltage, is what earns the explanation mark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--07-transformer.webp" width="900" height="935" alt="A laminated iron core carries a primary coil of 1840 turns on 230 V a.c. and a secondary of 120 turns on a 15 V, 30 W load. The changing flux links both coils; Ip = 0.13 A and Is = 2.0 A, so power in equals power out for an ideal transformer. Eddy currents are big loops in a solid core and small loops in a laminated core. A real transformer draws 34.5 W for 30 W out, 87 percent efficient." loading="lazy">
+  <figcaption>An ideal transformer has Ns/Np = Vs/Vp = Ip/Is; the laminated core reduces eddy-current losses.</figcaption>
+</figure>
+
 
 ## Rectification
 
@@ -182,6 +194,12 @@ which route current through the load in the same direction on both halves
 of the input cycle, so current flows during both halves, producing pulses
 with no gaps, giving a smoother, more continuous output for the same
 input.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--09-rectification-smoothing.webp" width="900" height="1140" alt="Three graphs share the same 50 Hz input (dashed). One diode gives half-wave rectification with a gap; a bridge of four diodes gives full-wave rectification with no gap and pulses at twice the frequency; a smoothing capacitor fills the gaps, with small RC giving large ripple and large RC giving small ripple." loading="lazy">
+  <figcaption>Half-wave leaves gaps, full-wave does not, and a capacitor with a larger time constant RC gives a smoother output.</figcaption>
+</figure>
+
 
 ## Smoothing
 

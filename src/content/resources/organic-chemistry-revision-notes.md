@@ -60,6 +60,32 @@ The **functional group** is the specific atom or group of atoms responsible for 
 | Carboxylic acids | –COOH | CₙH₂ₙ₊₁COOH | -oic acid |
 | Esters *(0620 Extended, 5070 required)* | –COO– | — | -oate |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
+  <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--02-functional-groups.webp" width="900" height="1170" alt="Displayed formulae of ethane, ethene, ethanol and ethanoic acid with the key feature highlighted (single C-C bonds only, C=C, -OH, -COOH) and each series general formula evaluated for the shown n." loading="lazy">
+  <figcaption>The functional group decides the series and its chemistry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--06-naming-stem-ending.webp" width="900" height="1090" alt="Stem gives carbon number (meth 1, eth 2, prop 3, but 4); ending gives the functional group (-ane, -ene, -ol, -oic acid), shown with ethane, ethene, ethanol and ethanoic acid." loading="lazy">
+  <figcaption>Name = stem for carbons + ending for the functional group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--07-locant-numbers.webp" width="900" height="1150" alt="Propan-1-ol and propan-2-ol, and butan-1-ol and butan-2-ol, with carbons numbered along the chain and the carbon carrying -OH highlighted." loading="lazy">
+  <figcaption>The number says which carbon carries the -OH.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--08-ester-naming.webp" width="900" height="920" alt="Ethanol and ethanoic acid give ethyl ethanoate (CH3COOCH2CH3) plus water; ethyl comes from the alcohol, ethanoate from the acid." loading="lazy">
+  <figcaption>Ester names combine the alcohol part (-yl) and the acid part (-oate).</figcaption>
+</figure>
+
+
 ## Stem names — count the carbons
 
 ```
@@ -101,6 +127,12 @@ C5H(2x5)+2 = C5H12  (pentane)
 
 Using the general formula is 0620 Core (11.1 outcome 2). The name pentane is background, beyond the four-carbon naming limit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--01-displayed-formula.webp" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH (Extended), and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
+  <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae.</figcaption>
+</figure>
+
+
 ## Isomers *(0620 Extended, 5070 required)*
 
 **Structural isomers** — same molecular formula, different arrangement of atoms (a different structural formula).
@@ -112,6 +144,12 @@ C4H10:   butane        CH3CH2CH2CH3      (straight chain)
 
 Same formula, different structure, therefore different physical properties (branched isomers have lower boiling points — less surface contact between molecules). The molecular formula alone never tells you which isomer you're looking at — that's exactly why a question distinguishing between isomers always expects a structural or displayed formula, not just C₄H₁₀.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--05-structural-isomers.webp" width="900" height="1110" alt="Butane and methylpropane both C4H10; but-1-ene and but-2-ene both C4H8; same atoms joined differently." loading="lazy">
+  <figcaption>Isomers share a molecular formula but have different structures.</figcaption>
+</figure>
+
+
 ## Saturated vs unsaturated
 
 - **Saturated** — only single C–C bonds (alkanes).
@@ -120,6 +158,17 @@ Same formula, different structure, therefore different physical properties (bran
 **Test:** add **bromine water**. Orange-brown → **colourless** indicates unsaturation (alkene). No change (bromine water stays orange-brown) means the compound is saturated.
 
 This is the single most examined organic test. *(0620 Extended, 5070 required)* It also underpins the difference in typical reaction type between the two series, since alkanes mostly undergo substitution while alkenes mostly undergo addition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--04-saturated-unsaturated.webp" width="900" height="910" alt="Ethane with only a single C-C bond is saturated and alkanes mostly undergo substitution; ethene with a C=C bond is unsaturated and alkenes mostly undergo addition." loading="lazy">
+  <figcaption>Alkanes have only single C-C bonds, alkenes have a C=C bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--05-bromine-water-test.webp" width="900" height="1030" alt="Two rows of test tubes. Orange bromine water shaken with an alkane (ethane) stays orange. Shaken with an alkene (ethene) it turns colourless, because bromine adds across the C=C double bond." loading="lazy">
+  <figcaption>Alkane: stays orange. Alkene: orange to colourless.</figcaption>
+</figure>
+
 
 ## Key reactions to recall
 
@@ -163,3 +212,24 @@ substitution (11.4 outcomes 3–4, 11.5 outcomes 5–6), oxidising ethanol to et
 **Answers:** 1. CₙH₂ₙ. 2. Propan-1-ol or propan-2-ol (the formula C₃H₇OH fits both; it does not show where the –OH is) and butanoic acid (the carboxyl carbon counts, so C₃H₇COOH has four carbons). 3. Add bromine water: hexene decolourises it (orange-brown → colourless); hexane produces no change. 4. Butane — an unbranched chain of four carbons; methylpropane — a three-carbon chain with a CH₃ branch on the middle carbon. 5. Compounds sharing the same functional group and general formula, each differing from the next by CH₂, with a gradual trend in physical properties and similar chemical properties. (0620 Core needs only: a family of similar compounds with similar chemical properties due to the same functional group.) 6. C6H(2x6)+2 = **C₆H₁₄** (hexane; the name is background, beyond the four-carbon naming limit). 7. **Methyl ethanoate**. 8. Both are C₃H₇OH, but the –OH is on the end carbon in propan-1-ol and on the middle carbon in propan-2-ol — same molecular formula, different structure.
 
 For the full worked explanation with additional detail, see the [Organic Chemistry: Formulae and Naming study guide](/resources/organic-chemistry-formulae-and-naming/); for exam-style questions with full mark schemes, see the [Organic Chemistry practice questions](/resources/organic-chemistry-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--04-chlorine-substitution.webp" width="900" height="950" alt="Methane reacts with chlorine in UV light. One hydrogen atom of methane is replaced by one chlorine atom, giving chloromethane and hydrogen chloride. Only one hydrogen is replaced (monosubstitution). It is substitution because nothing adds across a bond." loading="lazy">
+  <figcaption>In UV light one H of methane is swapped for one Cl: CH4 + Cl2 gives CH3Cl + HCl.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--06-alkene-addition.webp" width="900" height="1060" alt="Ethene reacts by addition three ways. With bromine it gives 1,2-dibromoethane, with hydrogen (nickel catalyst) it gives ethane, and with steam (acid catalyst) it gives ethanol. The C=C bond becomes single and the added atoms, highlighted, attach to the two carbons. Only one product forms each time." loading="lazy">
+  <figcaption>Ethene adds Br2, H2 or H2O across C=C to give one product each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--05-ethanol-oxidation.webp" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
+  <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--06-esterification.webp" width="900" height="960" alt="Ethanoic acid and ethanol react with an acid catalyst to make the ester ethyl ethanoate and water. The OH from the acid and the H from the alcohol leave as water. The alcohol supplies the ethyl part of the name and the acid supplies the ethanoate part." loading="lazy">
+  <figcaption>An acid and an alcohol with an acid catalyst make an ester and water; ethyl comes from the alcohol, ethanoate from the acid.</figcaption>
+</figure>
+

@@ -52,6 +52,12 @@ Two real examples show how the conditions are met.
 - **Mass on a spring.** The spring force is proportional to the extension or compression, as long as the spring is not stretched past its proportional limit. It always points back to the natural-length position (for a horizontal spring).
 - **Simple pendulum.** The restoring force is the component of the weight along the arc. It is proportional to the displacement only when the angle is small. For large angles the motion is still periodic but is no longer simple harmonic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--01-conditions-for-shm.webp" width="900" height="1040" alt="A mass on a horizontal spring is shown at displacements +2d, +d, 0 and -2d. The force arrow always points back to equilibrium and its length is proportional to the displacement, giving F = -kx and a = -(k/m)x. A pendulum obeys this only for small angles." loading="lazy">
+  <figcaption>SHM needs a restoring force towards equilibrium that is proportional to displacement.</figcaption>
+</figure>
+
+
 ## The defining equation a = –ω²x
 
 Since a = –(k/m)x for a mass on a spring, write ω² = k/m and the equation becomes
@@ -67,6 +73,12 @@ Three consequences are worth knowing:
 - At equilibrium (x = 0) the acceleration is zero.
 - At maximum displacement (x = ±amplitude) the acceleration has its largest size, ω² times the amplitude.
 - The acceleration is not constant, so the equations for uniform acceleration do not apply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--02-defining-equation.webp" width="900" height="960" alt="Acceleration against displacement is a straight line through the origin with gradient -w^2; for w = 11 rad/s and x0 = 0.040 m, a is -4.84, 0 and +4.84 m/s^2. Arrows on masses show a always points towards equilibrium." loading="lazy">
+  <figcaption>The minus sign in a = -w^2 x means the acceleration always points back towards equilibrium.</figcaption>
+</figure>
+
 
 ## Describing an oscillation
 
@@ -86,6 +98,12 @@ so ω = 2πf. The angular frequency is the rate of change of the phase and has n
 
 For SHM the period does not depend on the amplitude. A larger swing means a longer path, but the speeds are correspondingly larger, and the time per cycle stays the same. This is called isochronous motion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--03-describing-oscillation.webp" width="900" height="950" alt="A sine graph of displacement against time with amplitude 0.040 m and period 0.80 s. Frequency is 1/0.80 = 1.25 Hz and angular frequency is 2 pi/0.80 = 7.85 rad/s, so T = 1/f = 2 pi/w." loading="lazy">
+  <figcaption>Amplitude, period, frequency and angular frequency are linked by T = 1/f = 2 pi/w.</figcaption>
+</figure>
+
+
 ## Period of a mass-spring system
 
 Comparing ω² = k/m with ω = 2π/T gives
@@ -101,6 +119,12 @@ A stiffer spring (larger k) gives a shorter period. A heavier mass gives a longe
 3. ω = 2π/T = 6.37 rad s⁻¹ (this also equals √(k/m))
 
 Note that gravity does not appear in the formula. A mass hanging from a vertical spring has the same T = 2π√(m/k), because gravity only shifts the equilibrium position down by mg/k.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--04-spring-pendulum-period.webp" width="900" height="1060" alt="A 0.64 kg mass on a spring of k = 26 N/m has T = 2 pi sqrt(m/k) = 0.99 s; a 0.85 m pendulum swinging through a small angle has T = 2 pi sqrt(l/g) = 1.85 s. Two sine waves of different amplitude share the same period." loading="lazy">
+  <figcaption>Period depends on m and k, or l and g, but not on amplitude.</figcaption>
+</figure>
+
 
 ## Period of a simple pendulum
 
@@ -133,6 +157,12 @@ A spring stores elastic potential energy, while a pendulum bob stores gravitatio
 
 Common graph facts, all described in words: against time, both energies vary with half the period of the motion and never go negative; against displacement, the potential energy is a parabola with its minimum at x = 0, and the kinetic energy is an upside-down parabola, so the total is a horizontal line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--05-energy-in-one-cycle.webp" width="900" height="920" alt="A pendulum bob at -A, -A/2, 0, +A/2 and +A with stacked bars: potential energy is the whole total at the turning points, kinetic is the whole total at equilibrium, and the bars always add to the same height." loading="lazy">
+  <figcaption>Kinetic and potential energy trade places while the total stays constant.</figcaption>
+</figure>
+
+
 ## HL only: phase angle and the equations of motion
 
 Displacement as a function of time can be written
@@ -156,6 +186,12 @@ Use the plus or minus sign to match the direction of motion. The guide says radi
 3. Initial velocity: v = 7.85 × 0.040 × cos(π/6) = 0.272 m s⁻¹
 4. At t = 0.30 s the argument is 7.85 × 0.30 + 0.524 = 2.88 rad
 5. x = 0.040 sin(2.88) = 0.0104 m and v = 0.314 cos(2.88) = –0.303 m s⁻¹, so the object is moving back towards equilibrium.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--07-phase-angle.webp" width="900" height="960" alt="Displacement and velocity graphs for x0 = 0.040 m, T = 0.80 s, starting at +0.020 m moving positively, so phi = pi/6 rad. At t = 0.30 s x = 0.0104 m and v = -0.303 m/s, moving back towards equilibrium." loading="lazy">
+  <figcaption>The phase angle phi fixes where in its cycle the oscillator is at t = 0.</figcaption>
+</figure>
+
 
 ## HL only: energy in SHM, quantitatively
 
@@ -181,6 +217,12 @@ This agrees with ½mv² when v = ±ω√(x₀² – x²). For a spring, mω² = 
 4. v = ω√(x₀² – x²) = 11 × √(0.040² – 0.024²) = 11 × 0.032 = 0.352 m s⁻¹
 
 Check: ½ × 0.35 × 0.352² = 0.0217 J, which matches.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--06-energy-vs-displacement.webp" width="900" height="960" alt="For m = 0.35 kg, w = 11 rad/s, x0 = 0.040 m the total energy is a flat line at 0.034 J, potential energy is an upward parabola and kinetic energy a downward parabola. At x = 0.024 m, Ep = 0.012 J, Ek = 0.022 J and v = 0.352 m/s." loading="lazy">
+  <figcaption>Potential and kinetic energy are parabolas in x that add to a constant total.</figcaption>
+</figure>
+
 
 ## Common errors
 

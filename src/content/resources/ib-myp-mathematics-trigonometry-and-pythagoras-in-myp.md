@@ -53,6 +53,17 @@ The framework also names algorithmic thinking in trigonometry. In practice this 
 
 **Example 3.** Can 5 cm, 7 cm and 13 cm form a triangle? 5 + 7 = 12, which is less than 13, so **no**. Can 6, 7 and 12? 6 + 7 = 13 > 12, and the other pairs are larger, so **yes**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp--01-triangle-angle-facts.webp" width="900" height="980" alt="Two triangles. The top one has angles 50, 60 and 70 degrees (from x + 20, 2x and 3x − 20 with x = 30), adding to 180. The bottom one has interior angles 48 and 77 degrees and an exterior angle of 125 degrees, equal to 48 + 77." loading="lazy">
+  <figcaption>The interior angles add to 180 degrees and an exterior angle equals the two opposite interior angles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp--02-triangle-inequality-chain.webp" width="900" height="790" alt="Bars show sides 5, 7, 13 cm and 6, 7, 12 cm. 5 + 7 = 12 falls short of 13 so no triangle; 6 + 7 = 13 reaches past 12 so a triangle exists." loading="lazy">
+  <figcaption>Two shorter sides must together be longer than the third side.</figcaption>
+</figure>
+
+
 ## Bearings
 
 A bearing is an angle measured **clockwise from north**, written with three figures (so 045°, not 45°). To find a back bearing, add or subtract 180°.
@@ -65,6 +76,22 @@ A bearing is an angle measured **clockwise from north**, written with three figu
 
 Always sketch a north line at each point. Clockwise angles are measured from that line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp--02-myp-bearings-pythagoras.webp" width="900" height="900" alt="A boat sails 12 km on bearing 060 to K, then 9 km on bearing 150 to P. The turn at K is a right angle, so HP is 15 km by Pythagoras. The bearing of P from H is 060 + 36.9 = 096.9 degrees and the back bearing is 276.9 degrees." loading="lazy">
+  <figcaption>A bearings route with a hidden right angle: Pythagoras for the distance, tan inverse for the angle, add 180 for the back bearing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp--03-boat-route-bearings.webp" width="900" height="930" alt="A boat sails 12 km on bearing 060 to K then 9 km on bearing 150 to P, with north lines at H and K. The turn at K is a right angle, HP = 15 km, the angle at H is 36.9 degrees, so the bearing of P from H is 096.9 degrees and the back bearing is 276.9 degrees." loading="lazy">
+  <figcaption>Example 4: a right angle at K gives HP = 15 km and a bearing of 096.9 degrees from H.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--05-reverse-bearings.webp" width="900" height="990" alt="Points P and Q each with a parallel north line. Bearing of Q from P is 063 degrees; bearing of P from Q is 243 degrees, which is 063 plus 180." loading="lazy">
+  <figcaption>The two bearings between a pair of points differ by 180 degrees.</figcaption>
+</figure>
+
+
 ## Pythagoras' theorem
 
 In a right-angled triangle with hypotenuse c (the side opposite the right angle): **a² + b² = c²**.
@@ -73,6 +100,12 @@ In a right-angled triangle with hypotenuse c (the side opposite the right angle)
 Height² = 8.5² − 4.0² = 72.25 − 16 = 56.25, so height = **7.5 m**. When finding a shorter side, you subtract.
 
 **Example 6.** A rectangular screen is 40 cm wide and 25 cm high. Diagonal² = 40² + 25² = 2225, so the diagonal is **47.2 cm** (3 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--01-squares-on-sides.webp" width="900" height="890" alt="A 3, 4, 5 right-angled triangle has a square on each side, with 9, 16 and 25 unit cells. 9 plus 16 equals 25, so the squares on the short sides together equal the square on the hypotenuse." loading="lazy">
+  <figcaption>The squares on the two shorter sides add up to the square on the hypotenuse.</figcaption>
+</figure>
+
 
 ## Trigonometric ratios in right-angled triangles
 
@@ -92,12 +125,29 @@ To find an angle, use the inverse: θ = sin⁻¹(…), cos⁻¹(…) or tan⁻¹
 
 An angle of depression is measured downward from the horizontal. It equals the angle of elevation from the lower point to the upper, because the two are alternate angles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--01-soh-cah-toa.webp" width="900" height="890" alt="A right-angled triangle with sides 3, 4, 5 and angle theta. Opposite is 3, adjacent 4, hypotenuse 5. Sine is 3/5 = 0.6, cosine 4/5 = 0.8, tangent 3/4 = 0.75, and inverse sine of 0.6 gives theta = 36.9 degrees." loading="lazy">
+  <figcaption>Name the sides from the angle, then pick sin, cos or tan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--02-elevation-depression.webp" width="900" height="950" alt="A person 55 m from a 40 m tower. The angle of elevation to the top is 36.0 degrees since tan x = 40/55. From the top, the angle of depression to the person is also 36.0 degrees, measured from a horizontal line, as they are alternate angles." loading="lazy">
+  <figcaption>Elevation and depression are both measured from the horizontal and are equal for the same line of sight.</figcaption>
+</figure>
+
+
 ## Converse of Pythagoras (extended)
 
 If the three sides satisfy a² + b² = c² for the longest side c, the triangle is right-angled. If they do not, it is not.
 
 **Example 10.** Is a triangle with sides 9, 40 and 41 right-angled? 9² + 40² = 81 + 1600 = 1681 and 41² = 1681. **Yes**, and the right angle is opposite the side of 41.
 For 7, 8 and 11: 49 + 64 = 113, but 11² = 121. **Not right-angled.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--06-is-it-right-angled.webp" width="900" height="940" alt="Triangle 20, 21, 29 satisfies 400 plus 441 equals 841 equals 29 squared, so it is right-angled. Triangle 9, 11, 14 gives 202 against 196, so it is not; its largest angle is 88.3 degrees." loading="lazy">
+  <figcaption>Compare the longest side squared with the sum of the other two squares.</figcaption>
+</figure>
+
 
 ## Sine rule and cosine rule (extended)
 
@@ -120,6 +170,22 @@ Both are possible because 40° + 121.0° is still less than 180°. Then C = 81.0
 
 **Example 15 (application).** Surveyors measure from A: B is 420 m away on bearing 072°, and C is 310 m away on bearing 135°. Angle BAC = 135° − 72° = 63°. BC² = 420² + 310² − 2(420)(310)cos 63° gives BC = **393 m**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--03-sine-rule.webp" width="900" height="860" alt="Triangle ABC with A = 48, B = 65, C = 67 degrees and a = 9 cm drawn to scale. a over sin A equals b over sin B gives b = 9 sin 65 over sin 48 = 11.0 cm. The rule needs a side and its opposite angle." loading="lazy">
+  <figcaption>Pair each side with the angle opposite it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--04-ambiguous-case.webp" width="900" height="850" alt="Angle A = 30 degrees, AC = 10, BC = 6. BC can meet the base at two points, giving two triangles with B = 56.4 degrees (acute) or 123.6 degrees (obtuse), both with sin B = 0.833." loading="lazy">
+  <figcaption>Two different triangles can fit the same sine rule data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--05-cosine-rule.webp" width="900" height="860" alt="The lesson worked example drawn to scale: AB = 7, AC = 10, angle A = 110 degrees. A bar shows BC squared = 149 + 47.9 = 196.9, so BC = 14.0 cm. The extra 47.9 is added because cos 110 degrees is negative." loading="lazy">
+  <figcaption>With an obtuse angle the cosine term adds, so BC is longer than the right-angle case.</figcaption>
+</figure>
+
+
 ## Enrichment ideas
 
 These appear in the framework's enrichment list only.
@@ -130,6 +196,17 @@ These appear in the framework's enrichment list only.
 - **Radians:** 180° = π radians. So 150° = 5π/6, and 2.4 rad = 137.5°.
 - **Circle with centre at the origin:** x² + y² = r². The point (3, −4) lies on x² + y² = 25.
 - **Identities:** sin²θ + cos²θ = 1 and tan θ = sin θ / cos θ. If sin θ = 3/5 and θ is acute, cos θ = 4/5 and tan θ = 3/4. If θ is obtuse, cos θ = −4/5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp--04-unit-circle-150.webp" width="900" height="1000" alt="A unit circle with the point at 150 degrees marked at (−0.866, 0.5). The dashed drops show cos = −0.866 and sin = 0.5; 150 degrees is 5π/6 radians and the point satisfies x² + y² = 1." loading="lazy">
+  <figcaption>At 150° the point is (cos 150°, sin 150°) = (−0.866, 0.5), which lies on x² + y² = 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
+  <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
+</figure>
+
 
 ## A method for choosing
 
@@ -146,6 +223,12 @@ These appear in the framework's enrichment list only.
 3. No right angle? Check what you know. A matching side and opposite angle pair, plus one more piece: use the sine rule. Two sides and the angle between them, or three sides: use the cosine rule.
 4. Substitute, solve, then check the answer is sensible (longest side opposite largest angle).
 5. Round at the end and give units or degrees.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp--05-trig-method-flow.webp" width="900" height="880" alt="A flow chart: sketch and label, then ask if there is a right angle. Yes: Pythagoras for two sides known, or sin, cos, tan if an angle is involved. No: sine rule for a side-angle pair plus one more, cosine rule for two sides and the included angle or three sides. Finish by checking the longest side is opposite the largest angle." loading="lazy">
+  <figcaption>Choose the tool from what is known: right angle or not, and which sides and angles are given.</figcaption>
+</figure>
+
 
 ## Linking to the criteria
 

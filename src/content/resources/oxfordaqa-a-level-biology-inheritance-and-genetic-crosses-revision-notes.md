@@ -47,6 +47,12 @@ Environment can change the phenotype of a fixed genotype. Example: a plant with 
 4. Offspring genotypes (use a grid if there are more than two gamete types).
 5. Phenotype for each genotype, then the ratio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--02-monohybrid-test-cross.webp" width="900" height="1230" alt="Vv crossed with Vv gives VV, Vv, Vv and vv, so three normal-winged flies to one vestigial. A test cross with vv gives 1 normal to 1 vestigial if the unknown fly is Vv, and all normal if it is VV." loading="lazy">
+  <figcaption>Gametes, a Punnett square and the ratio, then a test cross to reveal an unknown genotype.</figcaption>
+</figure>
+
+
 ## Ratios to recognise
 
 | Parents | Offspring ratio | Clue |
@@ -69,6 +75,17 @@ Check that the total is 16 for a two-gene cross between double heterozygotes.
 - ABO: Iᴬ and Iᴮ codominant, i recessive. Group O is ii; group AB is IᴬIᴮ.
 - Dominance series: write the order (for example a1 > a2 > a3) and apply it to each genotype before drawing the grid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
+  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--03-codominance-multiple-alleles.webp" width="900" height="980" alt="Crossing two patched plants CRCW gives red, patched and white in a 1 : 2 : 1 ratio, where the genotype ratio equals the phenotype ratio. The ABO cross IAi by IBi gives one each of groups AB, A, B and O; three alleles exist in a population but each person carries two." loading="lazy">
+  <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
+</figure>
+
+
 ## Sex-linkage
 
 - Humans and *Drosophila*: XX female, XY male. Birds: ZZ male, ZW female.
@@ -78,6 +95,12 @@ Check that the total is 16 for a two-gene cross between double heterozygotes.
 - Reciprocal crosses give different results for a sex-linked gene and the same for an autosomal gene.
 - Carrier mother × unaffected father (X-linked recessive): half the sons affected, no daughters affected, half the daughters carriers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--04-sex-linkage.webp" width="900" height="1000" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters (AQA and OxfordAQA)." loading="lazy">
+  <figcaption>A son has one X, so one recessive allele shows; the father passes his Y to sons.</figcaption>
+</figure>
+
+
 ## Autosomal linkage
 
 - Linked genes lie on the same chromosome and are inherited together.
@@ -85,11 +108,23 @@ Check that the total is 16 for a two-gene cross between double heterozygotes.
 - Recombination frequency = recombinant offspring ÷ total offspring × 100.
 - Loci that are close together give few recombinants. Independent assortment would give 50% recombinants in a test cross, because all four classes would be equal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--06-autosomal-linkage.webp" width="900" height="1110" alt="A parent with A and B on one chromosome and a and b on the other makes mostly parental gametes AB and ab; crossing over makes recombinant Ab and aB. In 1000 offspring 412 and 398 are parental, 93 and 97 recombinant, 19 percent, instead of 250 of each." loading="lazy">
+  <figcaption>Linked alleles travel together unless crossing over separates them.</figcaption>
+</figure>
+
+
 ## Epistasis
 
 - One gene masks or modifies the expression of another gene at a different locus.
 - Dominance acts between alleles of the same gene; epistasis acts between genes.
 - State the biochemical idea where you can: for example, an enzyme that makes a precursor is missing, so a later gene has nothing to act on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--07-epistasis.webp" width="900" height="1222" alt="Allele A makes the enzyme that turns a colourless precursor into yellow pigment and B the enzyme that turns yellow into red; aa gives white whatever B is, so AaBb by AaBb gives 9 red, 3 yellow and 4 white. Rows of 16 squares show how 12:3:1, 9:7 and 15:1 arise from other gene interactions." loading="lazy">
+  <figcaption>One gene can mask another, merging classes of the 16 boxes.</figcaption>
+</figure>
+
 
 ## The chi-squared test
 
@@ -105,6 +140,12 @@ Check that the total is 16 for a two-gene cross between double heterozygotes.
 Use counts, never percentages. Include every category. A significant result means the ratio does not fit; it does not say why.
 
 **Reminder.** Fowl blue × blue, 80 chicks, observed 17 black : 45 blue : 18 splashed white. Expected 20 : 40 : 20. χ² = 0.45 + 0.625 + 0.2 = 1.275, so 1.28. With df = 2 the critical value is 5.99, so the result is not significant and fits 1 : 2 : 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--08-chi-squared.webp" width="900" height="1090" alt="Observed 279, 97, 83 and 21 are compared with expected 270, 90, 90 and 30 from 9 : 3 : 3 : 1. The parts of chi-squared are 0.300, 0.544, 0.544 and 2.700, total 4.09 with 3 degrees of freedom. This is below the critical value 7.81 at p = 0.05, so the difference is not significant." loading="lazy">
+  <figcaption>Add (O minus E) squared over E for every class and compare with the critical value.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -158,6 +199,17 @@ Use counts, never percentages. Include every category. A significant result mean
 8. A male has one X, so a single recessive allele is expressed. A female needs two.
 9. Dominant epistasis.
 10. 3 categories − 1 = 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
+  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

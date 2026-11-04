@@ -44,6 +44,22 @@ Genetic diversity is a factor enabling natural selection to occur. If every indi
 
 New alleles arise by mutation. Mutation is random, which means it does not occur because the organism needs the change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
+  <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
+</figure>
+
+
 ## The principles of natural selection
 
 The specification gives four linked steps. Learn them as a chain, because examiners reward the links between steps.
@@ -56,6 +72,17 @@ The specification gives four linked steps. Learn them as a chain, because examin
 Two points are often lost. First, individuals do not change their alleles in response to the environment; the population changes because carriers of the advantageous allele leave more offspring. Second, the environment does not cause the mutation. It only decides whether the allele is an advantage.
 
 **Writing an explanation.** Use this order: variation exists (due to different alleles) → an environmental factor (the selection pressure) acts → carriers of the advantageous allele leave more offspring → they pass on the allele → its frequency rises in later generations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
 
 ## Directional selection: antibiotic resistance
 
@@ -74,6 +101,17 @@ A broth culture contains 2.0 × 10⁹ cells. A resistance allele arises at a fre
 The proportion resistant rose from a tiny fraction to nearly all of the new population. Reproduction of survivors is what changes the population.
 
 **Why resistance spreads.** Heavy antibiotic use means strong selection pressure. Failing to finish a prescribed course can leave the most tolerant bacteria alive. Bacteria such as MRSA are strongly favoured where antibiotics are in constant use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--04-antibiotic-resistance.webp" width="900" height="1100" alt="A rare bacterium already carries a resistance allele, the antibiotic kills the susceptible cells, and the survivors divide. A log-scale chart shows the resistant share rising from 0.001 to 0.0099, 0.091 and 0.50 over three doses that each kill 90 percent of susceptible cells." loading="lazy">
+  <figcaption>Antibiotics select for resistance alleles that mutation had already produced.</figcaption>
+</figure>
+
 
 ## Stabilising selection: human birth weight
 
@@ -186,6 +224,12 @@ Variables to control: volume and concentration on each disc, agar depth, lawn de
 - Writing that bacteria "become resistant" or "adapt" to the antibiotic, rather than that resistant mutants survive and reproduce.
 - Describing stabilising selection without saying the mean stays the same and the range falls.
 - Calling a log scale's equal steps "equal differences" instead of equal multiples.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
+  <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

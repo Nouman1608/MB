@@ -34,6 +34,12 @@ Course page: [IB DP Physics](/boards/ib/ib-dp/physics/). Checklist: [IB DP Physi
 - **Enhanced greenhouse effect:** extra warming from greenhouse gases added by human activity.
 - **Equilibrium temperature:** the temperature at which power absorbed equals power radiated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--04-emissivity.webp" width="900" height="1070" alt="Two bars at 330 K: an ideal black surface radiates 672 W per square metre and the rock face 620. Emissivity is the ratio, 0.92, with no unit and never above 1." loading="lazy">
+  <figcaption>Emissivity compares what a surface radiates with an ideal black surface at the same temperature.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Quantity | Relationship | Note |
@@ -61,6 +67,12 @@ Use kelvin in every T⁴ term. Radiation per unit area is an intensity in W m⁻
 
 **Reminder.** S = 1800 W m⁻², α = 0.50, e = 1. Absorbed = 1800 × 0.50 / 4 = 225 W m⁻². T⁴ = 225 / 5.67 × 10⁻⁸ = 3.97 × 10⁹; T = 251 K.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--05-no-atmosphere-temperature.webp" width="900" height="1080" alt="On a temperature scale, Earth with no atmosphere settles at 255 K (258 K if e = 0.95), below the 273 K freezing point; the real mean is 288 K, 33 K higher. That gap is the greenhouse effect." loading="lazy">
+  <figcaption>Without greenhouse gases Earth would sit near 255 K, 33 K below its actual mean.</figcaption>
+</figure>
+
+
 ## Method in steps: surface and atmosphere layers
 
 1. Draw the arrows: solar in, surface radiation up, atmosphere radiation up and down, radiation to space.
@@ -68,6 +80,12 @@ Use kelvin in every T⁴ term. Radiation per unit area is an intensity in W m⁻
 3. Remember the atmosphere emits equally up and down.
 4. Solve for the surface temperature last.
 5. Check that two of the three equations are enough: the third is a test of your algebra.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--08-layer-model.webp" width="900" height="1080" alt="Space, a one-layer atmosphere and the surface with flows in W per square metre: 238 sunlight in, 390 surface infrared, 86 passing through, 152 emitted up and 152 down. Space: 86 + 152 = 238; surface: 238 + 152 = 390, giving 288 K and 242 K." loading="lazy">
+  <figcaption>Each layer balances: power in equals power out at space and at the surface.</figcaption>
+</figure>
+
 
 ## Greenhouse gases at a glance
 
@@ -78,12 +96,24 @@ Use kelvin in every T⁴ term. Radiation per unit area is an intensity in W m⁻
 | N2O | Soil and ocean bacteria | Fertilisers, industry |
 | H2O | Evaporation | Indirect: warmer air holds more |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--07-absorb-reemit.webp" width="900" height="1080" alt="A CO2 molecule absorbs infrared from the surface and re-emits it in all directions, about half back down. An energy-level sketch shows absorption when hf equals the gap; a 15 micrometre photon has 1.33e-20 J." loading="lazy">
+  <figcaption>Greenhouse gases absorb infrared and re-emit it in all directions, not just reflect it.</figcaption>
+</figure>
+
+
 ## Why they absorb infrared
 
 - Energy-level model: a molecule has discrete vibrational levels. A photon is absorbed if hf equals a gap between levels. The molecule later drops back and emits a photon in a random direction, or loses energy in collisions.
 - Resonance model: bonds act as oscillators. Radiation at the natural frequency drives large oscillations, so energy is absorbed and then radiated in all directions.
 - Sunlight peaks at about 500 nm and passes through. Radiation from the surface peaks near 10 μm and is absorbed.
 - Result: part of the absorbed energy returns to the surface, which warms until the power escaping to space matches the absorbed solar power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--06-sun-vs-earth-spectrum.webp" width="900" height="1040" alt="Scaled Planck curves on a log wavelength axis: the Sun (5800 K) peaks at 0.50 micrometres in the visible and Earth (288 K) at 10 micrometres in the infrared. Sunlight mostly passes through the atmosphere; much of the infrared is absorbed." loading="lazy">
+  <figcaption>Hot Sun radiates visible light, cool Earth radiates infrared (Wien law).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -100,6 +130,17 @@ Use kelvin in every T⁴ term. Radiation per unit area is an intensity in W m⁻
 - A rise in albedo means less absorbed power and a lower equilibrium temperature, all else equal.
 - A planet farther from its star has a smaller S. Intensity from a point source falls with the square of distance, so doubling the distance cuts S to one quarter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--02-factor-of-four.webp" width="900" height="1150" alt="Parallel sunlight hits a planet; only the projected disc of area pi R squared intercepts it, but the whole 4 pi R squared surface radiates. So the mean intensity is S/4, 340 W per square metre for S = 1361." loading="lazy">
+  <figcaption>The disc intercepts the sunlight but the whole sphere radiates, giving S/4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--03-albedo.webp" width="900" height="990" alt="A bar splits 1.7e17 W of incident sunlight into 30 percent scattered (albedo 0.30) and 70 percent absorbed, 1.2e17 W. Sketches show snow and cloud scatter strongly while ocean and forest scatter little." loading="lazy">
+  <figcaption>Albedo is the fraction of incident power scattered back; 1 - alpha is absorbed.</figcaption>
+</figure>
+
+
 ## Layer model in a picture
 
 ```
@@ -115,6 +156,12 @@ space      <-- (1 - a) of surface IR escapes directly
 Balance at the top: what leaves (escaping surface IR plus upward atmospheric emission) equals the absorbed solar intensity. Balance at the surface: solar absorbed plus downward atmospheric emission equals σTs⁴.
 
 **Reminder, model B.** Absorbed intensity 195 W m⁻², a = 0.60. Then σTs⁴(1 − 0.30) = 195, so Ts⁴ = 195 / (5.67 × 10⁻⁸ × 0.70) = 4.91 × 10⁹ and Ts = 265 K. Compare the no-atmosphere value of 242 K: the layer adds 23 K.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--09-enhanced-effect.webp" width="900" height="1140" alt="Surface temperature plotted against the absorbed fraction a from the layer model: 255 K at a = 0, 288 K at a = 0.78, 290 K at a = 0.82 (a 2.4 K rise) and 303 K at a = 1." loading="lazy">
+  <figcaption>More greenhouse gas raises a, and the surface warms until balance is restored.</figcaption>
+</figure>
+
 
 ## Conservation of energy in numbers
 
@@ -145,6 +192,12 @@ If power in exceeds power out, the net power divides into the heat capacity to g
 8. 2^(1/4) × 200 = **238 K**.
 9. Carbon dioxide (burning fossil fuels), methane (cattle or rice farming), nitrous oxide (fertilisers), water vapour (indirectly, through warming). Any valid human source is accepted in your own words.
 10. Cloud cover changes (daily and with weather), and latitude or surface type (ice and snow reflect more than ocean or forest).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--01-power-balance.webp" width="900" height="1060" alt="Three planets with power-in and power-out arrows show temperature rising, steady (equilibrium) or falling. A 0.8 W per square metre surplus into a 100 m ocean layer warms it by 0.060 K a year." loading="lazy">
+  <figcaption>A temperature changes only when power in and power out differ.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

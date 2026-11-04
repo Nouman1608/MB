@@ -66,6 +66,17 @@ These revision notes condense section B3.3 (Muscle and motility) of the IB *Biol
 
 **Worked reminder.** Sarcomere 2.8 µm shortens to 2.1 µm. Shortening = 0.7 ÷ 2.8 × 100 = 25%. With an A band of 1.6 µm, the I band changes from 1.2 µm to 0.5 µm, a fall of 58.3%. The filaments slid. They did not shorten.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--01-sarcomere-sliding.webp" width="900" height="1170" alt="A relaxed sarcomere (2.4 micrometres) is drawn above a contracted one (1.8 micrometres) with thick myosin and thin actin filaments, Z lines and A, I and H bands marked. The A band stays 1.6 micrometres, the I band falls from 0.8 to 0.2 micrometres (75%) and the H zone disappears, so filaments slide rather than shorten." loading="lazy">
+  <figcaption>Filaments keep their length and slide past each other, so the overlap increases and the Z lines move closer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--02-cross-bridge-cycle.webp" width="900" height="1206" alt="Five panels follow one myosin head: calcium binds troponin and tropomyosin moves aside; the head with ADP and Pi binds actin; the power stroke tilts the head and pulls actin towards the centre; ATP binds and the head lets go; ATP hydrolysis resets the head so it binds further along." loading="lazy">
+  <figcaption>Each cycle needs Ca2+ to expose binding sites and ATP to release and reset the head.</figcaption>
+</figure>
+
+
 ## B3.3.3 Titin and antagonism
 
 - Titin is a giant elastic protein.
@@ -75,6 +86,12 @@ These revision notes condense section B3.3 (Muscle and motility) of the IB *Biol
 - Contraction of one muscle of the pair stretches the other.
 
 **Must-know distinction: contraction versus relaxation.** Contraction uses ATP and cross-bridges. Relaxation is the end of the calcium signal; the muscle is then lengthened by its antagonist, with titin helping recoil.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--03-titin.webp" width="900" height="1140" alt="Three sarcomeres show a springy titin molecule from each Z line to the thick filament. At rest titin is coiled; when stretched it extends, stores energy and recoils the sarcomere; near the limit it is taut, resists further stretch and keeps the thick filament centred." loading="lazy">
+  <figcaption>Titin stores elastic energy so a stretched sarcomere recoils, and it limits overstretching.</figcaption>
+</figure>
+
 
 ## B3.3.4 Motor units
 
@@ -86,6 +103,12 @@ These revision notes condense section B3.3 (Muscle and motility) of the IB *Biol
 - More units recruited means more force.
 
 **Worked reminder.** 9 units of 60 fibres each, with 0.04 N per fibre: 9 × 60 = 540 fibres; 540 × 0.04 = 21.6 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--04-motor-unit.webp" width="900" height="1150" alt="A motor neuron with a branching axon ends on three muscle fibres (one motor unit) while two grey fibres belong to other units. A zoom of one junction shows an action potential arriving, acetylcholine released by exocytosis, binding receptors on the sarcolemma, depolarisation spreading in, and calcium released from the sarcoplasmic reticulum." loading="lazy">
+  <figcaption>One motor neuron plus its fibres is a motor unit; its junctions release acetylcholine to trigger contraction.</figcaption>
+</figure>
+
 
 ## B3.3.5 Skeletons
 
@@ -100,6 +123,12 @@ These revision notes condense section B3.3 (Muscle and motility) of the IB *Biol
 
 **Worked reminder.** Load 15 N at 24 cm; muscle inserts 3 cm from the pivot. Force = 15 × 24 ÷ 3 = 120 N.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--05-elbow-lever.webp" width="900" height="1260" alt="Top: biceps contracting bends the elbow while the triceps is stretched; triceps contracting straightens it while the biceps is stretched. Bottom: a forearm lever with the elbow as pivot, biceps 4 cm away and a 20 N load 30 cm away, so the muscle force is 150 N and the hand moves 7.5 times as far." loading="lazy">
+  <figcaption>Muscles only pull, so they work in pairs; the forearm lever trades force for range and speed.</figcaption>
+</figure>
+
+
 ## B3.3.6 Synovial joint (hip)
 
 - Ball-and-socket: head of the femur in the socket of the pelvis.
@@ -108,6 +137,12 @@ These revision notes condense section B3.3 (Muscle and motility) of the IB *Biol
 - Ligaments: stabilise, bone to bone.
 - Tendons: transmit muscle force to bone.
 - Muscles: contract in antagonistic pairs to move the joint.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--06-hip-joint.webp" width="900" height="1100" alt="A cross-section of the hip: the femur head sits in the pelvis socket, both covered in cartilage with synovial fluid between, enclosed by a joint capsule, with a ligament joining bone to bone and a muscle pulling the femur through a tendon." loading="lazy">
+  <figcaption>A synovial joint lets bones move with low friction; the hip is a ball-and-socket joint.</figcaption>
+</figure>
+
 
 ## B3.3.7 Range of motion
 
@@ -125,6 +160,12 @@ These revision notes condense section B3.3 (Muscle and motility) of the IB *Biol
 3. Read the angle at the start and end of the movement.
 4. Repeat, then take the mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--07-range-of-motion.webp" width="900" height="1245" alt="Stick drawings show hip flexion and extension, abduction and adduction, and rotation. A goniometer with its pivot over the joint and an arm on each bone reads 120 degrees. A dot plot of five hip flexion readings (115 to 125 degrees) has mean 120 degrees." loading="lazy">
+  <figcaption>Place the goniometer pivot on the joint, align arms with the bones, and repeat readings for a fair comparison.</figcaption>
+</figure>
+
+
 ## B3.3.8 Intercostal muscles
 
 | Muscle layer | Effect on ribs | Breathing role |
@@ -134,6 +175,12 @@ These revision notes condense section B3.3 (Muscle and motility) of the IB *Biol
 
 - Fibres in the two layers run in different directions, so they pull the ribcage opposite ways.
 - Contraction of either layer stretches its partner, and the partner's titin stores potential energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--08-intercostals.webp" width="900" height="1110" alt="Two side views of three ribs between spine and sternum. External intercostals contract to lift the ribs up and out for inhalation; internal intercostals, with fibres in the opposite direction, pull the ribs down and in in forced exhalation. The stretched layer stores energy in titin." loading="lazy">
+  <figcaption>The two layers are antagonists: one raises the ribs, the other lowers them.</figcaption>
+</figure>
+
 
 ## B3.3.9 Reasons for locomotion
 
@@ -152,6 +199,12 @@ These revision notes condense section B3.3 (Muscle and motility) of the IB *Biol
 - **Airways:** blowhole; a large fraction of lung air is replaced per breath; periodic breathing between dives.
 
 **Worked reminder.** A breath exchanges 14 L of a 16 L lung: 14 ÷ 16 × 100 = 87.5%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--09-marine-mammal.webp" width="900" height="1170" alt="A dolphin side view labels the streamlined body, blowhole, flipper for steering and a flat fluke. Tails seen from behind show a horizontal fluke beating up and down against a fish tail beating side to side. A dolphin at 5.0 m/s and 2.0 Hz moves 2.5 m per beat, one body length, and a breath replaces 9 of 12 L (75%)." loading="lazy">
+  <figcaption>Streamlining, flippers, an up-down fluke and a blowhole let marine mammals swim and breathe periodically.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

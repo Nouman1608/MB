@@ -84,6 +84,12 @@ The recruitment process has three early stages, each with a purpose:
 
 **Training.** **Induction** introduces new staff to the business, its rules and colleagues. **On-the-job** training happens while working: cheap and relevant, but can pass on bad habits. **Off-the-job** training happens away from the workplace: wider expertise, but costlier and output is lost meanwhile. Trained staff may be poached.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
+
 ## 3.2.2.2 Human resource data
 
 The specification's Appendix: Formulae and Key data gives these formulas:
@@ -118,6 +124,17 @@ Of the 180 employees there at the start, 153 were still employed at the end: 153
 
 **Interpreting.** 20% turnover means one in five staff left: higher recruitment and training costs and lost experience, though some turnover brings new ideas. The specification stresses that measures such as labour productivity **vary in different contexts**: a hand-finishing workshop makes fewer items per employee than an automated line. Compare like with like and look at trends.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--01-turnover-retention.webp" width="900" height="1000" alt="A bar of the 180 staff at the start of the year shows 153 still employed and 27 who left. Labour turnover is 38 leavers divided by 190 average staff, 20 percent. Retention is 153 divided by 180, 85 percent. Of 40 recruits, 30 stayed a year, 75 percent." loading="lazy">
+  <figcaption>Turnover divides leavers by average staff; retention divides survivors by the starting headcount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--02-hr-measures.webp" width="900" height="1040" alt="Six measures radiate from an average of 190 staff: productivity 400 items each, sales per employee 50,000 pounds, profit per employee 6,000 pounds, employee costs 28 percent of revenue, labour cost 35 pounds per item and labour turnover 20 percent." loading="lazy">
+  <figcaption>One average headcount feeds every HR data measure in the worked example.</figcaption>
+</figure>
+
+
 ## 3.2.2.3 Organisational design
 
 - **Span of control** -- the number of people a manager directly supervises.
@@ -142,6 +159,12 @@ Influences include the size of the business, staff skills, the nature of the wor
 Pelican Freight has a chief executive, 3 regional directors, 15 depot managers (5 per region) and 180 drivers (12 per depot manager): 199 staff on 4 levels. Removing the regional directors (each paid £90,000) saves 3 × £90,000 = **£270,000** a year, but the chief executive's span rises from 3 to **15**.
 
 **Restructuring and delayering** cut costs, speed up decisions and can empower staff. Drawbacks: fewer promotion opportunities, heavier workloads for remaining managers, lost experience and fear among those left.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
 
 ## 3.2.2.4 Motivation
 
@@ -170,6 +193,17 @@ For example, a worker paid £0.80 per item who makes 550 items in a week earns 5
 
 **Influences on choice and assessing effectiveness:** the nature of the work (output easy to measure suits piece rate), cost and cash available, management style, employee skills and expectations, and culture. Judge effectiveness with HR data: has turnover fallen or productivity risen?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--05-pay-methods.webp" width="900" height="1030" alt="Piece rate: 550 items at 0.80 pounds earns 440 pounds. Commission: 300 pound basic plus 4 percent of 12,500 pounds sales gives 300 plus 500, 800 pounds." loading="lazy">
+  <figcaption>Piece rate pays for output; commission adds a share of sales to a basic wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--06-vroom.webp" width="900" height="910" alt="Effort leads to performance, which leads to a reward. Motivation is high only if the person expects effort to produce performance and performance to produce a reward they value." loading="lazy">
+  <figcaption>Vroom: motivation depends on expecting effort to lead to a valued reward.</figcaption>
+</figure>
+
+
 ## 3.2.2.5 Employer-employee relations
 
 **Employee involvement** draws on staff knowledge, improves commitment and eases change. **Consultation** (asking views before deciding) is cheap, but staff feel ignored if nothing changes. **Trade unions** negotiate collectively, giving one clear channel, but can resist change. **Employee forums** (staff representatives meeting managers) give direct input but may lack power. Involvement depends on management style, business size, urgency, legislation and staff skills.
@@ -181,6 +215,12 @@ For example, a worker paid £0.80 per item who makes 550 items in a week earns 5
 **Resolving conflict:** **participation** (involve staff in finding solutions), **bargaining** (negotiation between managers and employee representatives) and **arbitration** (an independent third party hears both sides and recommends or decides a settlement). Relations improve through regular communication, fair pay, consultation before change and clear grievance procedures.
 
 **Managing human resources.** Technology changes recruitment (online adverts, video interviews), the nature of work, the skills needed and ways of working such as **remote working**, which cuts office costs but makes supervision harder. Managing people well raises **competitiveness**. HR decisions link to other functions: recruitment depends on the finance budget and training affects operations quality. **Ethical issues** include unsafe working conditions and practices and low pay; acting ethically costs money now but protects reputation and retention.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--07-conflict.webp" width="900" height="1040" alt="Employee actions: withdraw cooperation, work to rule, overtime ban, strike, leave. Causes: pay, conditions, job losses, change. Resolution: participation, bargaining between managers and representatives, arbitration by an independent third party." loading="lazy">
+  <figcaption>Conflict can be settled by participation, bargaining or arbitration.</figcaption>
+</figure>
+
 
 ## Common errors
 

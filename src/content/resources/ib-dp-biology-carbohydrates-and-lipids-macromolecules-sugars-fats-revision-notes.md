@@ -49,6 +49,12 @@ Course pages: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [printable checkli
 2. Multiply or divide by the factor between the units.
 3. Check the size makes sense (a bilayer of 7 nm is 0.007 µm, not 7000 µm).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--01-carbon-skeletons.webp" width="900" height="1120" alt="Methane shows one carbon atom with four single bonds. Four carbon skeleton shapes are drawn with carbons as dots: an unbranched chain (fatty acid tail), a branched chain (leucine side chain), a single ring (glucose, five carbons and one oxygen) and four fused rings (steroid)." loading="lazy">
+  <figcaption>Carbon forms up to four bonds, so it builds chains, branches and rings.</figcaption>
+</figure>
+
+
 ## B1.1.2 and B1.1.3 Condensation and hydrolysis
 
 | Polymer | Monomer | Bond |
@@ -61,11 +67,28 @@ Course pages: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [printable checkli
 - Worked reminder: three glucose units joined in a line release 2 waters: 3 × 180.16 − 2 × 18.02 = 504.44.
 - Digestion is hydrolysis: large polymers become monomers small enough to absorb.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--02-condensation-hydrolysis.webp" width="900" height="1140" alt="Two glucose rings each carry an OH group. An OH from one and an H from the other leave as water, and the remaining oxygen is the glycosidic bond in maltose. Hydrolysis reverses this. A chain of five units has four bonds and four waters released; 1000 units give 999." loading="lazy">
+  <figcaption>Condensation releases water to join monomers; hydrolysis uses water to split them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--06-triglyceride-phospholipid.webp" width="900" height="1260" alt="A triglyceride has glycerol joined to three fatty acid tails by three ester bonds, releasing three water molecules. A phospholipid has glycerol joined to two fatty acids and a phosphate group by three condensation reactions, also releasing three water molecules." loading="lazy">
+  <figcaption>Both lipids form by three condensation reactions that release three waters.</figcaption>
+</figure>
+
+
 ## B1.1.4 Monosaccharides
 
 - Count all carbons, including the one outside the ring.
 - Pentose examples: ribose, deoxyribose. Hexose examples: glucose, fructose, galactose.
 - Glucose: soluble (many -OH groups), transportable, chemically stable, yields energy on oxidation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--03-ring-sugars.webp" width="900" height="1170" alt="Ribose (a pentose) has four carbons in the ring plus carbon 5 as a side group. Alpha- and beta-glucose (hexoses) have five ring carbons plus carbon 6 as CH2OH. In alpha-glucose the OH on carbon 1 points down; in beta-glucose it points up." loading="lazy">
+  <figcaption>Count carbons to tell pentoses from hexoses; read the OH on carbon 1 for alpha or beta.</figcaption>
+</figure>
+
 
 ## B1.1.5 and B1.1.6 Polysaccharides
 
@@ -87,11 +110,23 @@ Course pages: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [printable checkli
 - Chains lie in bundles and are cross-linked by hydrogen bonds.
 - Many weak bonds add up to high tensile strength.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--04-alpha-beta-chains.webp" width="900" height="1230" alt="Alpha-glucose units all face the same way, so the chain coils (starch) and can branch (amylopectin, glycogen), giving many free ends. In beta-glucose chains every other unit is flipped, so the chain is straight; many hydrogen bonds link neighbouring chains into microfibrils." loading="lazy">
+  <figcaption>Same-way units coil and branch; flipped units make straight chains that hydrogen-bond.</figcaption>
+</figure>
+
+
 ## B1.1.7 Glycoproteins
 
 - Carbohydrate chains face outwards from the plasma membrane and act as recognition markers.
 - ABO: the antigen on red blood cells depends on the terminal sugar; group O cells lack A and B antigens.
 - A person has antibodies against ABO antigens they do not carry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--05-abo-glycoproteins.webp" width="900" height="1130" alt="Red cells of groups A, B, AB and O carry different surface glycoprotein antigens; plasma antibodies are the opposite (A: anti-B, B: anti-A, AB: none, O: anti-A and anti-B). A grid shows which donor cells each recipient attacks, matching the lesson table." loading="lazy">
+  <figcaption>Antibodies attack any antigen the recipient lacks.</figcaption>
+</figure>
+
 
 ## B1.1.8 to B1.1.11 Lipids and fats
 
@@ -117,12 +152,29 @@ Course pages: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [printable checkli
 2. Compare masses (or divide the larger by the smaller).
 3. Add the biological reason: insolubility, no osmotic effect, compact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--07-fatty-acid-saturation.webp" width="900" height="1100" alt="Stearic acid (no C=C) is straight with a melting point of 69 degrees C, oleic acid (one cis C=C) bends once at 13 degrees C, and linoleic acid (two cis C=C) bends twice at minus 5 degrees C. More C=C bonds means more bends, weaker packing and a lower melting point." loading="lazy">
+  <figcaption>Each C=C bend loosens packing, so melting point falls (data from the lesson).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--08-fat-vs-carbohydrate-energy.webp" width="900" height="1090" alt="Lipids store 37 kJ per gram and carbohydrates 17 kJ per gram. To store 100 000 kJ you need 2.70 kg of lipid or 5.88 kg of carbohydrate, so lipid is 2.18 times as energy-dense. Fat is the long-term store; glycogen is the short-term store." loading="lazy">
+  <figcaption>Fat packs about twice the energy per gram of carbohydrate.</figcaption>
+</figure>
+
+
 ## B1.1.12 and B1.1.13 Bilayers and steroids
 
 - Heads hydrophilic (face water), tails hydrophobic (face inwards): the bilayer forms spontaneously.
 - Core blocks ions and large polar molecules.
 - Steroids have four fused rings (three of six carbons, one of five) and are non-polar.
 - Oestradiol and testosterone cross the bilayer directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--09-bilayer-steroids.webp" width="900" height="800" alt="A phospholipid bilayer about 7 nm thick has hydrophilic heads facing water on both sides and hydrophobic tails forming the core. A non-polar steroid with four fused rings dissolves in the core and passes through without a transport protein; a sodium ion is blocked." loading="lazy">
+  <figcaption>Non-polar steroids cross the hydrophobic core; ions cannot.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

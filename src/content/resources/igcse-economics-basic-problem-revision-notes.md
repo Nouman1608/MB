@@ -32,6 +32,12 @@ Because resources are scarce, **choices** must be made, and every choice has an 
 
 Three questions every economy must answer: **what** to produce, **how** to produce it, **for whom** to produce it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+
 ## Opportunity cost
 
 > The **next best alternative forgone** when a choice is made.
@@ -41,6 +47,17 @@ Not the total of everything given up — only the **single best** alternative. G
 Note that a **free good** (air, in most contexts) has no opportunity cost because it is not scarce. Almost everything else is an **economic good**.
 
 **Worked example — free good vs economic good.** Air is a **free good** — unlimited in supply, with no opportunity cost and no price. Oil is an **economic good** — scarce relative to demand, so obtaining it has an opportunity cost and it commands a price. The test is never "does it cost money at the till" but whether resources had to be sacrificed to produce or extract it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
+  <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
 
 ## Factors of production
 
@@ -52,6 +69,12 @@ Note that a **free good** (air, in most contexts) has no opportunity cost becaus
 | **Enterprise** | Organising the other three and bearing risk | Profit |
 
 **Capital means machinery, tools and factories, not money.** Money is used to buy capital; it is not itself a factor of production. This is examined every series.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
 
 ## Production possibility curves
 
@@ -79,6 +102,22 @@ The curve is normally drawn **concave to the origin** because resources are not 
 **Potential growth versus actual growth.** This syllabus uses **economic growth** to mean an outward shift of the whole curve — a **permanent increase in productive capacity**, caused by more or better resources or improved technology; economists sometimes call this **potential growth**. Moving from a point inside the curve towards it, using existing idle resources more fully with no change in what the economy is capable of producing at maximum, is sometimes labelled **actual growth** instead — it is temporary and reversible if resources fall idle again, and is **not** what this syllabus means by economic growth, which is associated with the outward shift.
 
 **Capital goods versus consumer goods** is the standard question: producing more capital goods today means less consumption now, but shifts the PPC further out in future — sacrificing present consumption for future growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
 
 ## Economic sectors
 
@@ -108,3 +147,9 @@ As countries develop, the primary sector shrinks and the tertiary sector grows.
 7. Distinguish between a movement towards a PPC and an outward shift of the whole PPC.
 
 **Answers:** 1. Wants are unlimited but resources are limited, so choices must be made. 2. The next best alternative forgone; for example, government spending on a new hospital means a new school is forgone. 3. Land–rent, labour–wages, capital–interest, enterprise–profit. 4. Unemployment or inefficiency — the economy is not using all its resources fully, so output could be increased without any opportunity cost. 5. More or better resources, improved technology, better education and training raising productivity, or greater investment in capital goods — any three. 6. Air is unlimited in supply, so obtaining it requires no sacrifice of resources and it has no opportunity cost; oil is scarce relative to demand, so extracting it has an opportunity cost. 7. A movement towards the curve uses existing idle resources more fully and is temporary and reversible; an outward shift is a permanent increase in what the economy is capable of producing at maximum, caused by more or better resources or improved technology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-basic-problem-revision-notes--04-rn63-sectors.webp" width="900" height="850" alt="Three sector cards and two bars of illustrative shares: less developed 55/15/30 and more developed 8/22/70 (primary/secondary/tertiary)." loading="lazy">
+  <figcaption>As countries develop the primary sector shrinks and the tertiary sector grows.</figcaption>
+</figure>
+

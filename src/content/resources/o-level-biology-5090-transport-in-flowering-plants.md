@@ -55,6 +55,12 @@ A **root hair cell** is a cell on the outer surface of a young root with a long,
 
 Water enters by **osmosis**. Mineral ions are usually less concentrated in the soil than in the cell, so they enter by **active transport**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--07-root-hair-cell.webp" width="900" height="1000" alt="A root hair cell with a long thin hair among soil particles. Labels: thin cell wall, cell sap with lower water potential than soil, many mitochondria for active transport, nucleus. Arrows show water entering by osmosis and ions by active transport." loading="lazy">
+  <figcaption>Each feature of a root hair cell helps uptake of water and ions.</figcaption>
+</figure>
+
+
 ### The pathway of water
 
 The syllabus limits the pathway to four stops:
@@ -65,6 +71,12 @@ soil water → root hair cells → root cortex cells → xylem
 ```
 
 Water crosses the root cortex cell to cell by osmosis to the xylem in the centre of the root. Xylem vessels carry it up the stem into the leaf veins, and it passes into the mesophyll cells. Mineral ions travel dissolved in the same water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--03-water-pathway.webp" width="900" height="1130" alt="Water follows one route: root hair cells, root cortex cells, xylem, then mesophyll cells in the leaf. Root hair cells have long extensions between soil particles that give a large surface area. Water crosses the root cortex to the xylem, rises up the xylem in the stem and reaches the mesophyll cells, where it evaporates." loading="lazy">
+  <figcaption>Follow the numbers: root hair cells, root cortex cells, xylem, mesophyll cells.</figcaption>
+</figure>
+
 
 ### Practical: tracing water in a cut stem
 
@@ -81,6 +93,12 @@ Water crosses the root cortex cell to cell by osmosis to the xylem in the centre
 6. Expected result: the stain appears only in the vascular bundles, in the xylem. Leaf veins also become coloured.
 7. Conclusion: water travels up the stem in the xylem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--04-celery-stain.webp" width="900" height="1290" alt="A celery stalk stands in dyed water. The dye rises up the stalk and the leaf veins turn coloured. A thin cross-section seen through a hand lens shows coloured spots in a ring near the outside. These spots are the xylem, so water travels in the xylem all the way to the leaves." loading="lazy">
+  <figcaption>The dye stains only the xylem, showing where water travels.</figcaption>
+</figure>
+
+
 ## 7.2 Transpiration and translocation
 
 ### What transpiration is
@@ -93,6 +111,12 @@ It happens in two steps:
 
 Most stomata are on the lower epidermis, so most water vapour leaves from the underside of the leaf.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
+</figure>
+
+
 ### Factors that affect transpiration rate
 
 | Factor | Change | Effect on rate | Explanation |
@@ -102,11 +126,28 @@ Most stomata are on the lower epidermis, so most water vapour leaves from the un
 | Humidity | Increases | Decreases | Air outside already holds more water vapour, so the concentration gradient is smaller and diffusion slower |
 | Light intensity | Increases | Increases | Stomata open wider in light (for photosynthesis), so more water vapour can diffuse out |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--10-light-and-stomata.webp" width="900" height="780" alt="Two stoma sections: in the dark the stoma is almost shut and one arrow of vapour escapes; in bright light it is wide open and more vapour escapes." loading="lazy">
+  <figcaption>Stomata open wider in light, so transpiration is faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
+</figure>
+
+
 ### How wilting occurs
 
 **Wilting** happens when a plant loses water by transpiration faster than it takes water up from the soil. The cells lose water, become **flaccid** and lose **turgor pressure**. Turgid cells normally press against each other and hold up the stem and leaves, so without turgor the leaves and soft stems droop.
 
 Wilting is most likely on a hot, dry, windy day, or when the soil is dry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--07-wilting.webp" width="900" height="1150" alt="Extended. With enough water the cells are turgid and push out on their walls, holding leaves up. If water is lost by transpiration faster than it is taken up, cells lose water by osmosis, become flaccid and limp, and the leaves and stem droop: the plant wilts." loading="lazy">
+  <figcaption>Water loss makes cells flaccid, so the plant droops.</figcaption>
+</figure>
+
 
 ### Practical: investigating transpiration rate
 
@@ -141,6 +182,17 @@ A student ran a potometer for 5 minutes in each condition. The capillary has a c
 
 A sealed potted plant fell from 412.0 g to 398.5 g in 3 hours. Mass lost = 412.0 − 398.5 = **13.5 g**. Rate = 13.5 ÷ 3 = **4.5 g per hour**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--08-potometer-wind-speed.webp" width="900" height="1250" alt="A potometer with a leafy shoot, capillary tube, bubble and a fan. Two scales to the same mm scale show the bubble moving 15 mm in still air and 40 mm with the fan, in 5 minutes: 3.0 and 8.0 mm per minute. 40 mm x 0.5 mm2 = 20 mm3, or 4.0 mm3 per minute; the rise is 167 percent." loading="lazy">
+  <figcaption>The bubble distance per minute measures the rate of water uptake.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--04-weighing-transpiration.webp" width="900" height="960" alt="A potted plant with pot and soil sealed in a bag stands on a balance reading 412.0 g, then 398.5 g after 3 hours. Mass lost 13.5 g; rate 4.5 g per hour." loading="lazy">
+  <figcaption>Mass lost per hour from a bagged potted plant measures transpiration.</figcaption>
+</figure>
+
+
 ### How water moves up the xylem
 
 The syllabus explains this as a **transpiration pull**:
@@ -156,6 +208,12 @@ The syllabus explains this as a **transpiration pull**:
 *Question:* A student removes all the leaves from a shoot fitted to a potometer. The bubble almost stops. Explain why.
 
 *Answer:* With no leaves, there are no mesophyll surfaces to evaporate from and no stomata for water vapour to leave by. Transpiration almost stops, so there is no transpiration pull to draw the column of water up the xylem, and little water is taken up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--09-transpiration-pull.webp" width="900" height="1170" alt="A xylem tube of linked water molecules runs from soil to a leaf. Water evaporates from a mesophyll cell and leaves by a stoma; the cells replace it from the xylem; the pull on the column is carried by attraction between water molecules." loading="lazy">
+  <figcaption>Water loss at the leaf pulls an unbroken column of water up the xylem.</figcaption>
+</figure>
+
 
 ### Translocation
 
@@ -175,6 +233,12 @@ The same organ can be a sink at one time and a source at another. A potato tuber
 
 *Answer:* The bulb is the **source**: it releases stored food. The growing leaves and shoot are the **sink**: they use the sucrose for growth and respiration. Later the roles reverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--03-tulip-source-sink.webp" width="900" height="920" alt="In early spring the bulb is the source and the growing leaves and shoot are the sink, with sucrose moving up. Later the leaves are the source and the bulb is the sink, with sucrose moving down." loading="lazy">
+  <figcaption>A tulip bulb is a source in spring and a sink later.</figcaption>
+</figure>
+
+
 ### Xylem, phloem and cortex in transverse sections
 
 You need to identify three tissues in sections of **non-woody dicotyledonous** roots and stems.
@@ -193,6 +257,17 @@ In the stem, the vascular bundles form a **ring** near the outside: phloem faces
 
 *Answer:* It is a **root**, because the vascular tissue is in the centre rather than in a ring of bundles. The star-shaped tissue is **xylem**, the patches between its arms are **phloem**, and the wide band is **cortex**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--05-transverse-sections-cortex.webp" width="900" height="1080" alt="Circular sections of a root and a stem with cortex, xylem and phloem labelled. Root: wide cortex, xylem cross in the centre, phloem between its arms. Stem: cortex outside a ring of bundles, xylem facing in, phloem facing out." loading="lazy">
+  <figcaption>Cortex is the band of cells between the outside and the vascular tissue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
+  <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
+</figure>
+
+
 ### Xylem: functions and structure
 
 **Functions of xylem:**
@@ -208,6 +283,17 @@ In the stem, the vascular bundles form a **ring** near the outside: phloem faces
 | Cells joined **end-to-end with no cross walls**, forming a long continuous tube | Water moves in an unbroken column from root to leaf |
 
 Details of how lignin is laid down are not required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -35,6 +35,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 Learn these as a **matched set from the start**: metal + non-metal signals ionic; non-metal + non-metal signals covalent; metal alone (or an alloy) signals metallic. A full-mark answer **justifies** the identification from the elements' positions in the periodic table, not just names the bond type. All three types are explained by **electrostatic forces** and the transfer or sharing of electrons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--10-which-strong-bond.webp" width="900" height="850" alt="Ionic is metal plus non-metal ions; covalent shares pairs between non-metals; metallic is metal ions with delocalised electrons in metals and alloys. KBr ionic, HCl covalent, Cu and bronze metallic; argon has no strong bonds." loading="lazy">
+  <figcaption>Classify a substance by its elements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--04-which-is-ionic.webp" width="900" height="960" alt="Four described diagrams: A pairs of atoms (covalent molecules), B positive ions with electrons (metallic), C alternating + and - ions in a repeating grid (ionic), D one atom type joined to four others (giant covalent)." loading="lazy">
+  <figcaption>Only C shows two kinds of charged particle in a repeating lattice.</figcaption>
+</figure>
+
+
 ## Ionic bonding by electron transfer (4.2.1.2)
 
 When a **metal** reacts with a **non-metal**, outer-shell electrons transfer: the metal atom **loses electrons** → positive ion; the non-metal atom **gains electrons** → negative ion.
@@ -48,9 +59,21 @@ When a **metal** reacts with a **non-metal**, outer-shell electrons transfer: th
 
 In every case, the resulting ion has the electronic structure of the **nearest noble gas** — this is the rule to state explicitly, not just the final charge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-ionic-bonding-revision-notes--03-ion-charge-from-group.webp" width="900" height="990" alt="A chart of ion charge against group. Group 1 forms 1+, Group 2 forms 2+, Group 6 forms 2− and Group 7 forms 1−; groups 3 to 5 are not needed and Group 0 forms no ion. Sodium and magnesium lose electrons to match neon, oxygen gains 2 to match neon and chlorine gains 1 to match argon. Metals lose electrons equal to the group number; non-metals gain 8 minus the group number." loading="lazy">
+  <figcaption>Ion charge follows from the group number for Groups 1, 2, 6 and 7.</figcaption>
+</figure>
+
+
 ## Dot and cross diagrams
 
 Convention: **dots** = electrons from one atom; **crosses** = electrons from the other; the usual convention is to show **only outer (valence) shell** electrons, though showing all occupied shells is not wrong; enclose each finished ion in **square brackets with its charge**. A diagram that omits the brackets/charge loses marks even if the electron count is right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-ionic-bonding-revision-notes--04-dot-cross-nacl-mgo.webp" width="900" height="880" alt="Two panels. Sodium chloride: a sodium atom with 1 outer electron passes it to a chlorine atom with 7 outer electrons, giving a sodium ion like neon and a chloride ion with 8 outer electrons like argon, each in square brackets with its charge. Magnesium oxide: a magnesium atom passes 2 electrons to an oxygen atom with 6 outer electrons, giving Mg 2+ like neon and O 2- with 8 outer electrons like neon." loading="lazy">
+  <figcaption>Electron transfer in NaCl and MgO drawn as dot and cross diagrams with brackets and charges.</figcaption>
+</figure>
+
 
 ## Worked example: magnesium oxide
 
@@ -82,6 +105,17 @@ Notice the pattern across both worked examples: a Group 1 or 2 metal always lose
 ## Why ionic compounds behave the way they do
 
 Although 4.2.1.1 and 4.2.1.2 focus on bond *formation*, it is worth connecting this to the properties ionic compounds show as a result, since exam questions often link the two. The strong electrostatic forces of attraction between oppositely charged ions extend in all directions through a **giant ionic lattice**, which is why ionic compounds have high melting and boiling points — a large amount of energy is needed to overcome many strong ionic bonds throughout the structure, not just one. This lattice structure, and the properties it produces, is developed further elsewhere in Topic 2, but recognising the link between "how the bond forms" (this sub-topic) and "why the resulting solid behaves as it does" strengthens answers that ask you to explain a property in terms of bonding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-ionic-bonding-revision-notes--01-nacl-lattice-3d.webp" width="900" height="990" alt="A 3 by 3 by 3 block of alternating positive sodium and larger negative chloride ions with lines for the 54 neighbour attractions. Attractions run in every direction through the lattice. Melting means overcoming a huge number of them, hence the high melting point." loading="lazy">
+  <figcaption>Part of a sodium chloride lattice: 27 ions held by 54 neighbour attractions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--11-nacl-six-neighbours.webp" width="900" height="890" alt="One sodium ion with six chloride ions around it, joined by dashed attraction lines; chloride is larger. Each chloride has six sodium neighbours, so there are no NaCl pairs." loading="lazy">
+  <figcaption>Each ion is attracted to six neighbours of the opposite charge.</figcaption>
+</figure>
+
 
 ## Key terms
 

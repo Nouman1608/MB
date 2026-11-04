@@ -79,6 +79,12 @@ Simplify 2/3 : 5/6. Multiply both parts by 6, the common denominator.
 
 The answer is **4 : 5**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--03-ratio-as-fractions.webp" width="900" height="1030" alt="Top: 96 pounds shared in the ratio 5 to 3 is drawn as 8 equal blocks of 12 pounds. The first group has 5 blocks, 5 eighths of the whole, 60 pounds; the second has 3 blocks, 3 eighths, 36 pounds. Bottom: a mixture of 7 equal blocks, 3 red and 4 other. Red is 3 sevenths of the whole, a part to whole fraction, but the ratio of red to other is 3 to 4, a part to part comparison." loading="lazy">
+  <figcaption>A ratio of two parts is a part-to-whole fraction (5 : 3 gives 5/8 and 3/8) but 3 : 4 compares part with part.</figcaption>
+</figure>
+
+
 ### The form 1 : n
 
 To write a : b as 1 : n, divide both parts by a. Then n = b ÷ a. The value of n may be a decimal or a fraction.
@@ -96,6 +102,12 @@ The answer is **1 : 2.5**. This form is useful because n tells you how many of t
 ### Finding a missing term
 
 Find the missing number in 7 : 4 = 35 : ?. The first part has been multiplied by 5 (7 × 5 = 35), so multiply the second part by 5 as well: 4 × 5 = **20**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--09-simplify-mixed-units.webp" width="900" height="740" alt="Four ratios simplified: 45 cm : 1.8 m to 1 : 4, 2.4 kg : 900 g to 8 : 3, 2/3 : 5/6 to 4 : 5 and 18 : 45 to 1 : 2.5." loading="lazy">
+  <figcaption>Put quantities in the same unit and whole numbers first, then divide.</figcaption>
+</figure>
+
 
 ## 5.01b Division in a given ratio
 
@@ -126,6 +138,12 @@ Check: 140 + 210 + 490 = 840
 ```
 
 The shares are **£140, £210 and £490**. The method is the same for two parts and for three or more parts, and it works for amounts of money with pence too: £2.50 in the ratio 2 : 3 has 5 parts of 50p, giving £1.00 and £1.50.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--13-share-2-3-7.webp" width="900" height="660" alt="A bar of 12 blocks worth 70 pounds each is split into 2, 3 and 7 blocks. The shares are 140, 210 and 490 pounds, adding to 840." loading="lazy">
+  <figcaption>Share 840 in the ratio 2 : 3 : 7 using the value of one part.</figcaption>
+</figure>
+
 
 ### Worked example 5: two parts
 
@@ -162,6 +180,17 @@ Dogs: 8 × 7 = 56
 There are **56 dogs**.
 
 If you are given the difference between two shares, the difference is a number of parts. Two shares are in the ratio 8 : 3 and differ by 55. The difference is 8 - 3 = 5 parts, so 5 parts = 55 and one part = 11. The shares are 8 × 11 = **88** and 3 × 11 = **33**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--10-find-from-other-difference.webp" width="900" height="830" alt="Cats : dogs = 5 : 8 with 35 cats gives 1 part = 7 and 56 dogs. Shares in the ratio 8 : 3 differing by 55 have 5 parts of difference, so 1 part = 11 and the shares are 88 and 33." loading="lazy">
+  <figcaption>Find the value of one part from the quantity you know, then scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
 
 ## 5.01c Ratios and fractions
 
@@ -205,6 +234,12 @@ For 10 people: 750 g,  2 litres,    5 onions
 
 You can also use a scale factor: 4 ÷ 6 = 2/3, and 450 × 2/3 = 300.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--12-recipe-scaling.webp" width="900" height="860" alt="A soup for 6 people uses 450 g lentils, 1.2 l stock and 3 onions. Dividing by 6 gives one person, and multiplying gives 300 g, 0.8 l, 2 onions for 4 people and 750 g, 2 l, 5 onions for 10." loading="lazy">
+  <figcaption>Find the amounts for one person, then multiply for any number of people.</figcaption>
+</figure>
+
+
 ### Changing a ratio
 
 An orchestra has strings and wind players in the ratio 7 : 3. There are 42 string players. Six more wind players join. Find the new ratio of strings to wind.
@@ -219,6 +254,12 @@ HCF is 6 → 7 : 4
 
 The new ratio is **7 : 4**. Always work with real numbers, find the new quantities, and only then form the new ratio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--11-orchestra-new-ratio.webp" width="900" height="880" alt="Strings : wind = 7 : 3 with 42 strings gives 18 wind. Six more wind players makes 24, so the new ratio 42 : 24 simplifies to 7 : 4." loading="lazy">
+  <figcaption>Add the new players to the real numbers, then rebuild the ratio.</figcaption>
+</figure>
+
+
 ### Ratio and linear functions
 
 If two quantities are always in the ratio 1 : 3, then y = 3x, where x is the first quantity and y is the second. Cement and sand mixed in the ratio 1 : 3 give these values:
@@ -230,6 +271,12 @@ If two quantities are always in the ratio 1 : 3, then y = 3x, where x is the fir
 Plotted, the points lie on a straight line that starts at the origin (0, 0). Its gradient is 3, which is the n in 1 : n. In general, for quantities in the ratio a : b, the second quantity is y = (b/a) x. For paint in the ratio 4 : 7, y = 7x/4. When x = 12, y = 7 × 12 ÷ 4 = 21. When y = 35, x = 35 × 4 ÷ 7 = 20.
 
 A linear function does not always describe a ratio. A taxi fare y = 2x + 3 (in pounds, for x km) has a fixed charge. For 2 km the fare is 7 and for 4 km it is 11. The ratios 7 : 2 and 11 : 4 are not equal, so the fare is not in a constant ratio to the distance. Only a line through the origin, y = kx, gives a constant ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and--04-ratio-line-through-origin.webp" width="900" height="900" alt="A graph with x from 0 to 8 and y from 0 to 24. The solid line y = 3x passes through the origin and through the points (2, 6), (5, 15) and (8, 24); the ratio of y to x is always 3 to 1. The dashed line y = 2x + 3 starts at 3 on the y-axis, a fixed charge, and passes through (2, 7) and (4, 11). Its ratios 7 to 2 and 11 to 4 differ, so it is not a constant ratio. Only a line through the origin gives a constant ratio." loading="lazy">
+  <figcaption>Only a line through the origin, like y = 3x, gives a constant ratio; y = 2x + 3 has a fixed charge.</figcaption>
+</figure>
+
 
 ## Common errors
 

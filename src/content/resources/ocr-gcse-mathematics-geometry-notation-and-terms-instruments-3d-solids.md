@@ -75,6 +75,12 @@ In triangle PQR, angle QPR = 38° and angle PQR = 112°. (a) Which side is r? (b
 
 Check the answer to (c) is more than 180°. If it is not, you have used the wrong angle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--08-angle-labelling.webp" width="900" height="900" alt="Triangle PQR has angles P 38, Q 112, R 30 degrees. The 112 degree obtuse angle is inside at Q and the 248 degree reflex angle is outside. Side r is opposite R and equals PQ." loading="lazy">
+  <figcaption>The middle letter names the vertex, and a lower-case side sits opposite its capital angle.</figcaption>
+</figure>
+
+
 ## Polygons (8.01c)
 
 A polygon is a closed 2D shape with straight sides. A regular polygon has all sides equal and all angles equal.
@@ -101,6 +107,12 @@ Quadrilaterals, with their key properties:
 | Trapezium | one pair of parallel sides |
 
 A square is also a rectangle and a rhombus, but when a question asks for the most specific name, give the square.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--01-geo-quadrilaterals.webp" width="900" height="1180" alt="Six quadrilaterals drawn from coordinates with the standard marks. Square: four equal sides and four right angles. Rectangle: four right angles, opposite sides equal. Parallelogram: opposite sides equal and parallel, shown with arrow marks. Rhombus: four equal sides with opposite sides parallel. Kite: two pairs of adjacent equal sides, shown with one tick and two ticks. Trapezium: one pair of parallel sides. A legend explains the tick, arrow and square marks." loading="lazy">
+  <figcaption>Each quadrilateral with its equal-side, parallel and right-angle marks.</figcaption>
+</figure>
+
 
 ## 3D solids (8.01d and 8.06a)
 
@@ -133,6 +145,12 @@ Find the faces, edges and vertices of (a) an octagonal prism and (b) a pentagona
     Check: 6 + 6 - 10 = 2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--09-solid-counts.webp" width="900" height="990" alt="A triangular prism (5 faces, 9 edges, 6 vertices) and a square-based pyramid (5 faces, 8 edges, 5 vertices) with hidden edges dashed and vertices marked. For both, faces + vertices - edges = 2." loading="lazy">
+  <figcaption>Count faces, edges and vertices from a drawing, and check with F + V - E = 2.</figcaption>
+</figure>
+
+
 ## Drawing diagrams from descriptions (8.01e)
 
 Read the description one fact at a time. Draw a rough sketch first, add each fact as you go, and mark equal lengths, right angles and parallel lines with the standard symbols.
@@ -159,6 +177,12 @@ Step 3: join P-Q-R-S-P and tick the equal pairs.
 
 Check: 4 + 6 is more than 8, so triangle PQR can exist.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--02-geo-kite-sketch.webp" width="900" height="870" alt="Kite PQRS drawn to scale from its description. The diagonal PR is 8 cm and vertical, drawn as a dashed axis of symmetry. Q and S lie on opposite sides of PR where an arc of radius 4 cm from P meets an arc of radius 6 cm from R. Single ticks mark PQ and PS, both 4 cm; double ticks mark QR and SR, both 6 cm. Q is 2.75 cm along PR from P and about 2.9 cm to the side. The check 4 + 6 is more than 8 shows the triangle PQR exists." loading="lazy">
+  <figcaption>Draw PR, then find Q and S where the 4 cm and 6 cm arcs cross.</figcaption>
+</figure>
+
+
 ## Instruments (8.01f)
 
 - Ruler: measure and draw straight lines. Start from the zero mark, not the end of the ruler.
@@ -181,6 +205,12 @@ Construct triangle ABC with AB = 7 cm, angle A = 40° and angle B = 75°.
 
 A measuring check: AC should be about 7.5 cm and BC about 5.0 cm. If yours differ by a lot, re-check the protractor scale. Leave construction lines on the diagram.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--03-geo-triangle-construction.webp" width="900" height="810" alt="Triangle ABC drawn to scale from AB = 7 cm with angle A = 40 degrees and angle B = 75 degrees. Long construction arms are drawn from A and B and cross at C, which is left on the diagram as dashed lines. Angle C is 180 minus 40 minus 75, which is 65 degrees. Measuring checks: AC is about 7.5 cm and BC is about 5.0 cm." loading="lazy">
+  <figcaption>A triangle from one side and two angles, with the angle sum check.</figcaption>
+</figure>
+
+
 ## Coordinates in plane geometry (8.01g)
 
 Write a point as (x, y): across first, then up or down. Many geometry problems are coordinate problems in disguise.
@@ -201,6 +231,12 @@ QS is (4.5, 4). The diagonals bisect each other.
 Reflection in the x-axis changes the sign of y:
 S' = (3, -6).
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--04-geo-midpoint-reflection.webp" width="900" height="1010" alt="A coordinate grid with parallelogram PQRS: P(1, 2), Q(6, 2), R(8, 6) and S(3, 6). PQ is horizontal with length 5, so S is 5 to the left of R. The diagonals PR and QS are dashed and cross at M(4.5, 4), the midpoint of both. The dashed image after reflection in the x-axis has S prime at (3, minus 6)." loading="lazy">
+  <figcaption>Find S, check the diagonals meet at their midpoint, then reflect in the x-axis.</figcaption>
+</figure>
+
 
 ## Plans and elevations (8.06b)
 <!-- marlbridge-diagram:maths-b19-plans-elevations -->
@@ -252,6 +288,12 @@ rows: front 2, back 3
 
 The solid has 1 + 1 + 2 + 3 + 2 + 1 = 10 cubes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--10-plans-elevations.webp" width="900" height="980" alt="A plan grid of cube counts (back 3 2 1, front 1 1 2) with front and right viewing arrows, the front elevation (columns 3, 2, 2) and the side elevation from the right (front column 2, back column 3). The solid has 10 cubes." loading="lazy">
+  <figcaption>Each elevation shows the tallest stack seen along the viewing direction.</figcaption>
+</figure>
+
+
 ## Isometric drawings (8.06b)
 
 On isometric dot paper, vertical edges are drawn vertically, and the other two directions go up and to the right, and up and to the left, at 30° to the horizontal. Lengths are drawn to scale along all three directions.
@@ -264,6 +306,12 @@ Method for the solid in worked example 6:
 4. Rub out lines that would be hidden behind taller stacks.
 
 A cuboid 3 units by 2 units by 1 unit high needs three edges of 3 units, 2 units and 1 unit drawn from one corner, then the parallel edges completed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--05-geo-isometric-stack.webp" width="900" height="890" alt="An isometric drawing of the solid built from 10 cubes, seen from the front left. The plan inset shows stack heights: back row 3, 2, 1 and front row 1, 1, 2. Vertical edges are drawn vertically and the other two directions are drawn at 30 degrees to the horizontal. The visible squares are 6 on top, 7 on the front and 5 on the left, 18 in all." loading="lazy">
+  <figcaption>The 10-cube solid drawn at 30 degrees, with the 6 + 7 + 5 = 18 visible squares.</figcaption>
+</figure>
+
 
 ## Common errors
 

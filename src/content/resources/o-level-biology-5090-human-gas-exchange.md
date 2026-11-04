@@ -61,6 +61,12 @@ Air takes one route to the exchange surface:
 
 On a photomicrograph of lung tissue, alveoli look like empty spaces with very thin walls, and red blood cells can be seen inside the capillaries in those walls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--01-breathing-system.webp" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. Extended: the trachea has rings of cartilage." loading="lazy">
+  <figcaption>Follow the numbers 1 to 5 to trace the route air takes into the lungs.</figcaption>
+</figure>
+
+
 ## 9.1.1 Features of gas exchange surfaces
 
 The syllabus limits you to four features. For each, know *why* it speeds up diffusion.
@@ -94,6 +100,17 @@ Blood flow keeps the gradient steep on one side; ventilation keeps it steep on t
 
 Oxygen crosses only two very thin cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-human-gas-exchange--01-alveolar-barrier-magnification.webp" width="900" height="890" alt="A schematic cross-section shows air in an alveolus, the alveolus wall, the capillary wall and blood in the capillary, with the barrier measuring 3 mm on a photomicrograph at x3000. Three boxes show 3 mm converted to 3000 micrometres and then divided by 3000. The actual thickness is 1 micrometre." loading="lazy">
+  <figcaption>Actual size = image size / magnification: 3 mm at x3000 is 1 micrometre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--02-alveolus-gas-exchange.webp" width="900" height="1080" alt="One alveolus at the end of a bronchiole is wrapped by a capillary. Oxygen diffuses from the air through the thin walls into the blood and carbon dioxide diffuses out into the air. Blood arrives with more carbon dioxide and leaves with more oxygen. Four numbered features (large surface area, thin walls, good blood supply, good ventilation) make the surface efficient." loading="lazy">
+  <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
+</figure>
+
+
 ## 9.1.2 The composition of atmospheric air
 
 Learn these approximate percentages by volume:
@@ -106,6 +123,12 @@ Learn these approximate percentages by volume:
 | Carbon dioxide | 0.04 |
 | Water vapour | variable |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-human-gas-exchange--03-air-composition.webp" width="900" height="1100" alt="100 squares show air by volume: 78 nitrogen, 21 oxygen and about 1 argon and others. Carbon dioxide at 0.04 percent is one part in 25 of a single square. Water vapour varies." loading="lazy">
+  <figcaption>Each square is 1 percent of the air; carbon dioxide is a sliver of one square.</figcaption>
+</figure>
+
+
 ## 9.1.3 Inspired and expired air
 
 ### The differences
@@ -117,6 +140,12 @@ Learn these approximate percentages by volume:
 | Nitrogen | about 78% | about 78% (no real change) |
 | Water vapour | variable | high (saturated) |
 | Temperature | that of the surroundings | warmer, close to body temperature |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--04-inspired-expired-air.webp" width="900" height="930" alt="Bars compare breathed-in (In) and breathed-out (Out) air. Oxygen falls from about 21% to about 16%, 5 points lower or 23.8% of the oxygen breathed in. Carbon dioxide rises from about 0.04% to about 4%, 100 times more. Water vapour is higher in breathed-out air and usually lower in breathed-in air." loading="lazy">
+  <figcaption>Breathed-out air has less oxygen, 100 times more carbon dioxide and more water vapour.</figcaption>
+</figure>
+
 
 ### The investigation
 
@@ -135,6 +164,12 @@ Control the volume and concentration of indicator, the starting temperature and 
 - Inspired air: 1 ÷ 240 = **0.0042 s⁻¹**.
 - Ratio: 240 ÷ 15 = **16**, so the colour changed 16 times faster with expired air, showing it holds much more carbon dioxide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--05-limewater-test.webp" width="900" height="900" alt="Two boiling tubes, A and B, hold equal limewater and are joined to one mouthpiece. Breathing in draws room air through tube A; breathing out pushes breath through tube B. Tube B turns milky much sooner, showing that breathed-out air contains more carbon dioxide." loading="lazy">
+  <figcaption>Limewater in tube B turns milky sooner because breathed-out air has more carbon dioxide.</figcaption>
+</figure>
+
+
 ### The explanation
 
 - **Less oxygen**: oxygen diffuses from alveolar air into the blood and is used by cells in aerobic respiration.
@@ -144,6 +179,12 @@ Control the volume and concentration of indicator, the starting temperature and 
 - **Nitrogen unchanged**: the body does not use it, so it passes in and out.
 
 Each explanation needs a process (diffusion, respiration, evaporation) and a direction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-human-gas-exchange--02-indicator-rate-comparison.webp" width="900" height="1010" alt="Two tubes of hydrogencarbonate indicator went yellow after 15 s (expired air) and 240 s (inspired air). Bars show the rates 0.067 per second and 0.0042 per second. The ratio is 16, so expired air holds much more carbon dioxide." loading="lazy">
+  <figcaption>Rate = 1 / time: the indicator changed 16 times faster with expired air.</figcaption>
+</figure>
+
 
 ## 9.1.6 and 9.1.7 Breathing: volume and pressure
 
@@ -184,6 +225,17 @@ In forced breathing out (exercise, coughing), the **internal intercostal muscles
 
 A limitation: the jar's walls are rigid, so the model cannot show the ribs and intercostal muscles moving.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-human-gas-exchange--01-bell-jar-model.webp" width="900" height="1040" alt="A bell jar has two balloons on a Y-tube and a rubber sheet as its base. Pulling the sheet down raises the volume and lowers the pressure, so air enters and the balloons inflate. Pushing it up does the reverse. The key links jar, sheet, balloons and Y-tube to thorax, diaphragm, lungs and airways." loading="lazy">
+  <figcaption>Pull the sheet down and the balloons inflate: volume up, pressure down, air in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--03-ventilation.webp" width="900" height="960" alt="Extended. Two chest sketches side by side. Breathing in: external intercostals contract and internal relax, ribs move up and out, the diaphragm contracts and flattens, thorax volume increases and pressure falls, so air flows in. Breathing out: external relax and internal contract, ribs down and in, diaphragm domes up, volume decreases and pressure rises, so air is forced out." loading="lazy">
+  <figcaption>Volume up means pressure down, so air flows in; volume down means pressure up, so air flows out.</figcaption>
+</figure>
+
+
 ## 9.1.8 Physical activity and breathing
 
 ### Investigating it
@@ -210,6 +262,17 @@ A limitation: the jar's walls are rigid, so the model cannot show the ribs and i
 
 Breathing stays fast and deep for a while after exercise to repay the oxygen debt; that belongs to Topic 10 (anaerobic respiration).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-human-gas-exchange--02-exercise-worked-example.webp" width="900" height="1000" alt="Rate rises from 18 to 39 breaths per minute (up 116.7 percent) and depth from 0.45 to 1.8 dm3, so air moved per minute rises from 8.1 to 70.2 dm3, about 8.7 times. Each row has its own scale." loading="lazy">
+  <figcaption>The lesson example: rate times depth gives air moved per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--07-co2-breathing-chain.webp" width="900" height="1010" alt="Extended. Four steps: muscles respire more, more carbon dioxide enters the blood, the brain detects the rise, and faster deeper breathing removes the extra carbon dioxide. The trigger is carbon dioxide, not lack of oxygen." loading="lazy">
+  <figcaption>The brain detects rising blood carbon dioxide and speeds up breathing.</figcaption>
+</figure>
+
+
 ## 9.1.9 Protecting the gas exchange system
 
 Inhaled air carries **pathogens** (such as bacteria and viruses) and **particles** (such as dust and pollen). The lining of the trachea and bronchi contains two cell types:
@@ -219,6 +282,12 @@ Inhaled air carries **pathogens** (such as bacteria and viruses) and **particles
 - **Ciliated cells** have **cilia** that **beat** in waves, moving the mucus **up** to the throat, where it is swallowed.
 
 This keeps pathogens and particles away from the alveoli, where they could cause infection or damage the thin exchange surface. Ciliated cells are a specialised cell you also meet in [Cell structure and organisation](/resources/cell-structure-and-organisation/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--08-airway-protection.webp" width="900" height="900" alt="Extended. Goblet cells make mucus that forms a layer on the airway lining and traps dust and bacteria from the air. Ciliated cells have cilia that beat and move the mucus to the throat, where it is swallowed. The mucus traps; the cilia move the mucus." loading="lazy">
+  <figcaption>Goblet cells make mucus to trap particles and ciliated cells move it to the throat.</figcaption>
+</figure>
+
 
 ## Common errors
 

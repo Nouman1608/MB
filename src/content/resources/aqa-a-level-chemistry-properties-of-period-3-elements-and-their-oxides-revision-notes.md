@@ -54,6 +54,12 @@ The course hub is [AQA A-Level Chemistry](/boards/aqa/a-level/chemistry/), the
 Why Na is faster: it loses only one electron per atom. Mg must lose two, and the total energy needed is
 much larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--07-metallic-bonding.webp" width="900" height="870" alt="Three panels show four metal ions with gold dots for delocalised electrons: Na+ with one electron per atom, Mg2+ with two and Al3+ with three. The ions shrink from left to right (drawn to scale). Melting points are 371, 923 and 933 K because the attraction between ions and electrons gets stronger." loading="lazy">
+  <figcaption>From Na to Al the ion charge and number of delocalised electrons rise and the ion gets smaller, so metallic bonding strengthens.</figcaption>
+</figure>
+
+
 ## Elements with oxygen
 
 | Element | Equation | Flame / product |
@@ -68,6 +74,12 @@ much larger.
 
 Maximum oxidation state: Na +1, Mg +2, Al +3, Si +4, P +5, S +6. It equals the number of outer
 electrons. Bulk aluminium is protected by a thin Al₂O₃ layer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--01-blocks.webp" width="900" height="790" alt="The periodic table is shown as coloured cells: s block (groups 1 and 2 plus H and He), p block (groups 13 to 18), d block (centre) and f block (two rows below). Period 3, Na to Ar, is outlined, with Na and Mg in the s block and Al to Ar in the p block. Helium is flagged as s block because its configuration is 1s2." loading="lazy">
+  <figcaption>Block is set by the sub-shell of the last electron added, so helium is s block and Period 3 runs from s (Na, Mg) to p (Al to Ar).</figcaption>
+</figure>
+
 
 ## Melting points of the highest oxides
 
@@ -89,6 +101,22 @@ Order: **MgO > Al₂O₃ > SiO₂ > Na₂O > P₄O₁₀ > SO₃** (SO₂ is low
 3. Say how strong it is and so how much energy is needed.
 4. For a comparison, give the reason one is stronger (ion charge and size; number of electrons).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--04-ie-dips.webp" width="900" height="780" alt="Orbital box diagrams show Mg with a full 3s and Al with one 3p electron, and P with three unpaired 3p electrons against S with one paired 3p orbital. The circled electron is the one removed first: a higher-energy 3p electron in Al, and a repelled paired electron in S." loading="lazy">
+  <figcaption>Al is lower than Mg because 3p is higher in energy than 3s, and S is lower than P because of repulsion in a paired 3p orbital (OCR and OxfordAQA; AQA names the dips and teaches the reason under atomic structure).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--06-melting-points.webp" width="900" height="860" alt="A bar chart of melting points in kelvin for Na to Ar is coloured by structure. Si (giant covalent) is the tallest bar at 1687 K and Ar (single atoms) is the lowest at 84 K. The metals rise from Na to Al and the molecular elements are low." loading="lazy">
+  <figcaption>Melting point rises from Na to a peak at Si, then falls sharply to the molecular elements and argon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--08-melting-breaks.webp" width="900" height="970" alt="A grid of silicon atoms each bonded to four neighbours shows the giant covalent network, where melting breaks many strong covalent bonds. Below, S8 (128 electrons), P4 (60), Cl2 (34) and Ar (18) are joined by dotted van der Waals forces, which are the only forces overcome on melting. More electrons mean stronger forces." loading="lazy">
+  <figcaption>Silicon melts by breaking covalent bonds; P4, S8, Cl2 and Ar melt by overcoming weak van der Waals forces that strengthen with electron count.</figcaption>
+</figure>
+
+
 ## Oxides with water
 
 | Oxide | Equation | pH | Bonding |
@@ -106,6 +134,12 @@ Order: **MgO > Al₂O₃ > SiO₂ > Na₂O > P₄O₁₀ > SO₃** (SO₂ is low
 - Giant structures Al₂O₃ and SiO₂: too strongly bonded to dissolve; pH stays 7.
 - Simple covalent oxides: form acids that release H⁺. H₂SO₃ is weak (`H₂SO₃ ⇌ H⁺ + HSO₃⁻`), so pH is
   higher than for H₂SO₄.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--09-oxides-ph.webp" width="900" height="770" alt="A pH scale shows each oxide as a bar. Na2O (13 to 14) and MgO (9 to 10) are basic, Al2O3 is amphoteric and SiO2 acidic but both insoluble at pH 7, and P4O10 (0 to 1), SO2 (2 to 3) and SO3 (0 to 1) are acidic. Oxides change from basic to acidic across the period as bonding changes from ionic to molecular." loading="lazy">
+  <figcaption>A level only (AQA 3.2.4): across Period 3 the oxides go from basic (ionic) through amphoteric (Al2O3) to acidic (molecular).</figcaption>
+</figure>
+
 
 ## Acid and anion structures
 
@@ -205,6 +239,12 @@ and testing the pH of the oxides (AT a, c and k; PS 2.2).
 - Drawing H₂SO₃ or SO₃²⁻ without the lone pair on sulfur.
 - Giving the wrong anion charge: sulfate(IV) is SO₃²⁻ and phosphate is PO₄³⁻.
 - Forgetting that SiO₂ needs hot, concentrated NaOH and does not react with water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--05-successive-ie.webp" width="900" height="840" alt="A log-scale bar chart shows the eight successive ionisation energies of oxygen. The first six rise gently, then there is a jump of about 5.35 times to the seventh. The six electrons before the jump are in the outer shell, so oxygen is in Group 16." loading="lazy">
+  <figcaption>OCR only: a large jump in successive ionisation energies marks the move to an inner shell, so the electrons before the jump give the group.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

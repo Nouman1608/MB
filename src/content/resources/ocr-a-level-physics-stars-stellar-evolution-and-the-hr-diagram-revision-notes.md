@@ -49,6 +49,12 @@ Method in steps:
 
 Why high temperature? Nuclei repel each other electrostatically, so they need high kinetic energy to get close enough to fuse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--01-aphy-astro-parallax.webp" width="900" height="1000" alt="Earth at opposite ends of its orbit sees a nearby star shift against far more distant stars. The parallax angle p is the angle at the star subtended by 1 AU. For p in arcseconds, d in parsecs is 1/p; 0.0625 arcsec gives 16.0 pc or 52.3 ly. The drawing is not to scale." loading="lazy">
+  <figcaption>Parallax angle p subtends 1 AU at the star, so d (pc) = 1/p (arcsec).</figcaption>
+</figure>
+
+
 ## Low-mass star (5.5.1(c))
 
 Main sequence, then red giant, then planetary nebula, then white dwarf.
@@ -87,6 +93,12 @@ Method in steps:
 | Escape velocity | Below c | Equal to c at the event horizon; greater inside |
 | Seen how | Radiation from the star or its surroundings | Effects on nearby matter; radiation from infalling matter |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--05-aphy-astro-star-life-cycle.webp" width="900" height="1210" alt="A low-mass star goes from gas cloud to protostar, main sequence, red giant, planetary nebula and white dwarf (electron degeneracy pressure, at most 1.4 solar masses). A massive star ends as a red supergiant, supernova, then a neutron star or black hole. A main-sequence star is stable because gas and radiation pressure balance gravity." loading="lazy">
+  <figcaption>Mass decides whether a star ends as a white dwarf, neutron star or black hole.</figcaption>
+</figure>
+
+
 ## HR diagram (5.5.1(g))
 
 - Vertical axis: luminosity (often in solar units, log scale). Horizontal axis: surface temperature, **decreasing left to right**.
@@ -101,6 +113,12 @@ Method in steps:
 | White dwarf | High | Low | Small |
 
 Evolution tracks: Sun-like star, main sequence to red giant region to white dwarf region. Massive star, main sequence to supergiant region, then supernova.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--04-aphy-astro-hr-diagram.webp" width="900" height="1010" alt="Log-log plot of luminosity against surface temperature with spectral classes O to M across the top. Main sequence runs top left to bottom right; giants, supergiants and white dwarfs are marked, with the Sun. Dashed lines of constant radius come from L = 4 pi r^2 sigma T^4." loading="lazy">
+  <figcaption>On the HR diagram, stars of equal radius lie on lines from L = 4 pi r^2 sigma T^4; above the main sequence at the same temperature means bigger.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

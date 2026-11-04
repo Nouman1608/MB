@@ -42,6 +42,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 **The business entity concept** treats the business as separate from its owner — which is why capital appears alongside liabilities, since the business owes it back to the owner, and why **drawings reduce capital rather than profit**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--02-liability.webp" width="900" height="870" alt="With illustrative numbers, debts of 50,000 pounds exceed business assets of 20,000 pounds by 30,000. A sole trader's own assets can be used to pay the shortfall, while a limited company shareholder loses at most the 10,000 pounds invested." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+
 ## The accounting system
 
 ```
@@ -55,6 +66,22 @@ source documents -> books of prime entry -> ledgers -> trial balance -> financia
 **Ledgers:** sales ledger (credit customers), purchases ledger (credit suppliers), general ledger (everything else).
 
 **A balanced trial balance proves nothing.** Six errors leave it balanced: omission, **commission** (wrong account of the right type), **principle** (wrong type of account), original entry, complete reversal, and compensating.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-business-entities-revision-notes--02-prime-entry-which-book.webp" width="900" height="905" alt="Five transactions with arrows to the book where each is first recorded: credit sales to the sales journal, customer returns to the returns journals, credit purchases to the purchases journal, cash sales to the cash book not the sales journal, and sale of a non-current asset to the general journal." loading="lazy">
+  <figcaption>Each transaction has one book of prime entry; cash sales never go in the sales journal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--06-prime-entry-trial-balance.webp" width="900" height="1250" alt="Six books of prime entry feed ledger accounts, which feed a trial balance. The example trial balance has debits of 12,000 (cash, equipment, stock) equal to credits of 12,000 (capital, creditors). Equal totals do not prove the absence of errors." loading="lazy">
+  <figcaption>Transactions flow from books of prime entry to ledgers to a trial balance that checks debits equal credits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--01-tb-hidden-revealed.webp" width="900" height="876" alt="Two balance scales. The level scale shows six errors that leave debits equal to credits and so stay hidden: commission, complete reversal, compensating, omission, original entry and principle. The tilted scale shows four errors that make debits and credits differ and so are revealed: addition, partial omission, transposition and unequal posting." loading="lazy">
+  <figcaption>A balanced trial balance hides six error types and exposes four.</figcaption>
+</figure>
+
 
 ## Financial statements
 
@@ -74,6 +101,12 @@ Governed by the **partnership agreement**; where none exists, the Partnership Ac
 
 **Appropriation account** — shows how profit is divided: interest on capital, partners' salaries, then the residual shared in the profit-sharing ratio. Interest **on drawings** is charged, not credited, since drawings reduce the funds available to the business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
+  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
+</figure>
+
+
 ## Limited companies
 
 **Share capital** — ordinary shares (voting, variable dividend, paid last on winding up). Preference shares are not examined in 9706.
@@ -83,6 +116,12 @@ Governed by the **partnership agreement**; where none exists, the Partnership Ac
 **Reserves** — retained earnings (accumulated profit), and capital reserves such as share premium.
 
 **Dividends are an appropriation of profit, not an expense**, so they do not appear in the income statement — they are shown as a deduction from retained earnings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--07-shares-or-debentures.webp" width="900" height="780" alt="Raising 80,000 dollars by shares leaves profit for the year at 50,000 and any 8,000 dollar dividend comes out of equity. Debenture interest of 6,400 dollars is a compulsory finance cost, lowering profit to 43,600, and debentures are a liability." loading="lazy">
+  <figcaption>Share dividends are optional and leave equity; debenture interest is compulsory and reduces profit.</figcaption>
+</figure>
+
 
 ## Fundamental accounting concepts
 

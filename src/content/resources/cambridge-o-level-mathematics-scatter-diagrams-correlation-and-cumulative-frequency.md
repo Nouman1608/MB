@@ -51,6 +51,12 @@ Correlation describes the pattern of the points.
 
 When you describe correlation, name the type and say what it means in the context. "Negative correlation: older cars tend to be worth less" is a full answer. Strong or weak describes how tightly the points follow a line. Correlation shows that two variables are linked in the data. It does not prove that one causes the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--01-correlation-types.webp" width="900" height="1110" alt="Three scatter diagrams in a column. Positive correlation: points rise from left to right (height and arm length). Negative correlation: points fall from left to right (age of a bicycle and price). Zero correlation: points are scattered with no pattern (shoe size and test mark)." loading="lazy">
+  <figcaption>Positive points rise, negative points fall, zero correlation shows no pattern.</figcaption>
+</figure>
+
+
 ## Line of best fit (9.5 outcome 3)
 
 The syllabus notes say a line of best fit:
@@ -104,6 +110,17 @@ The gradient is about −1.4. On average, the value falls by about **$1 400 for 
 
 The line gives 18.1 − 1.425 × 11 ≈ 2.4, so $2 400. Age 12 is outside the data, which stops at 9 years. The pattern may not continue in a straight line, so this estimate is unreliable. Estimates inside the range of the data are more reliable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--02-line-of-best-fit.webp" width="900" height="930" alt="Scatter diagram of age and value for nine cars with the mean point (5, 12.4) and a ruled line from (1, 18.1) to (9, 6.7) through it. Five points lie above the line (teal) and four below (orange), spread along its length." loading="lazy">
+  <figcaption>The line of best fit passes through the mean point and leaves about as many points on each side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--03-using-the-line.webp" width="900" height="870" alt="The line of best fit gives about 10.3 thousand dollars at age 6.5. A triangle shows a drop of 2.85 over 2 years, gradient -1.425, so the value falls about 1 400 dollars a year. Beyond age 9 the line is dotted in a shaded region marked outside the data; age 12 gives about 2.4, which is unreliable." loading="lazy">
+  <figcaption>Readings inside the data are reliable; extending the line beyond age 9 is not.</figcaption>
+</figure>
+
+
 ## Cumulative frequency tables (9.6 outcome 1)
 
 Cumulative frequency is a running total. Each entry says how many values are less than or equal to the upper boundary of a class. The last entry equals the total frequency, which is a quick check on your adding.
@@ -140,6 +157,12 @@ For example 2 the points are:
 ```
 
 The curve is S-shaped and never goes down.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--04-plot-the-curve.webp" width="900" height="990" alt="Cumulative frequency curve for 200 calls. Crosses sit at the upper class boundaries (2, 14), (4, 50), (6, 112), (8, 160), (10, 188), (12, 200) plus the start point (0, 0), with dashed drops to the horizontal axis. A smooth curve joins them and never goes down." loading="lazy">
+  <figcaption>Plot each running total at the upper class boundary, start at (0, 0), and join with a smooth curve.</figcaption>
+</figure>
+
 
 ## Median, quartiles, percentiles and IQR (9.6 outcome 2)
 
@@ -185,6 +208,17 @@ Up from 9 on the horizontal axis to the curve, then across: about 174 calls last
 The longest 10% start above the 90th percentile. Height = 0.9 × 200 = 180, which gives about **9.4 minutes**.
 
 A reading from the curve counts the values up to and including that point. For "more than", take the reading away from the total.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--05-median-quartiles-iqr.webp" width="900" height="950" alt="From heights 50, 100 and 150 on the curve, dashed lines go across then down to the lower quartile about 4.0, median about 5.6 and upper quartile about 7.6 minutes. A bracket marks the IQR, 7.6 - 4.0 = 3.6 minutes." loading="lazy">
+  <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--06-more-than-percentile.webp" width="900" height="950" alt="The curve gives about 174 calls of 9 minutes or less, so 200 - 174 = 26 calls lasted more than 9 minutes (bracket at the right). For the 90th percentile, 0.9 x 200 = 180 gives about 9.4 minutes." loading="lazy">
+  <figcaption>For &quot;more than&quot;, subtract the reading from n; percentiles use (p/100) x n.</figcaption>
+</figure>
+
 
 ## Interpreting and comparing
 

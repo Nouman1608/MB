@@ -132,6 +132,22 @@ Real sail area = 0.45 × 6400 = 2880 m²
 * Mixing units. Convert both lengths to the same unit before forming k.
 * Assuming two shapes are similar because they look alike. The question has to say so, or give matching angles and proportional sides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors--02-area-volume-via-length.webp" width="900" height="1252" alt="Areas 36 to 25 are square-rooted to give lengths 6 to 5, which are cubed to give volumes 216 to 125. With the larger volume 1296 the smaller is 750 cubic centimetres." loading="lazy">
+  <figcaption>Convert to a length ratio first, then raise it to the power you need.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors--09-same-metal-mass-height.webp" width="900" height="780" alt="Two similar statues cast from the same metal. The small one has mass ~ volume ratio is 8 to 1. Taking the cube root gives a length ratio of 2 to 1, so the large statue is 30 cm tall." loading="lazy">
+  <figcaption>Same metal means mass ~ volume; cube-root the ratio to get lengths.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
+  <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2).</figcaption>
+</figure>
+
+
 ## G18: arcs and sectors
 
 A **sector** is the region between two radii and the arc that joins their ends. Its angle θ is measured at the centre of the circle. The sector is a fraction of the whole circle:
@@ -264,6 +280,12 @@ Two sectors with the same angle are similar. Take sector A with radius 6 cm and 
 
 The arc is a length, so it scales by k. The area scales by k². Checking this link is a useful way to catch slips.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors--08-similar-sectors-k-k2.webp" width="900" height="780" alt="Two sectors with the same 50 degree angle, drawn to scale: sector A with radius 6 cm and sector B with radius 15 cm. The scale factor is 2.5. The arc lengths are 5 pi over 3 and 25 pi over 6, which are in ratio 2.5, equal to k. The areas are 5 pi and 31.25 pi, in ratio 6.25, equal to k squared." loading="lazy">
+  <figcaption>In similar sectors the arc scales by k and the area by k².</figcaption>
+</figure>
+
+
 ### Common errors in G18
 
 * Forgetting to add 2r when the question asks for the perimeter.
@@ -279,6 +301,22 @@ The arc is a length, so it scales by k. The area scales by k². Checking this li
 * On a similar-figures problem, write "k = " and what it is before using it.
 * Give exact answers in terms of π when asked; otherwise round only at the end.
 * Put units on every answer: cm, cm² and cm³ are different things.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors--03-sector-perimeter.webp" width="900" height="880" alt="A sector of radius 12 cm and angle 105 degrees has arc length 7 pi = 21.99 cm and two straight radii of 12 cm each. The perimeter is 21.99 + 24 = 46.0 cm." loading="lazy">
+  <figcaption>The perimeter of a sector is the arc plus two radii.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors--07-ring-sector-region.webp" width="900" height="890" alt="Two concentric arcs with radii 14 cm and 9 cm and two radii 70 degrees apart. The shaded region between the arcs is the big sector minus the small sector. Area = 70 over 360 times pi times (14 squared minus 9 squared) = 805 pi over 36, about 70.2 square cm." loading="lazy">
+  <figcaption>Big sector minus small sector, with the common fraction 70/360 factorised out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--03-arc-and-sector.webp" width="900" height="1010" alt="A 90 degree sector of radius 6 cm is a quarter of the circle: arc 9.42 cm, area 28.3 cm2. A 110 degree sector of radius 8 cm is 110/360 of the circle: arc 15.36 cm, area 61.4 cm2. Core angles are factors of 360; Extended allows any angle." loading="lazy">
+  <figcaption>Arc length and sector area are the same fraction, angle over 360, of the circumference and the area.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -54,6 +54,27 @@ DNA and RNA are both **polymers of nucleotides**. Every nucleotide has three par
 
 The only base difference is thymine in DNA and uracil in RNA. The sugar differs too: deoxyribose in DNA, ribose in RNA.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp" width="900" height="1100" alt="Three nucleotides are stacked one below another. Each has a pentose sugar, a phosphate and a nitrogenous base. The 3′ carbon of one sugar is joined through a phosphate to the 5′ carbon of the next sugar by a phosphodiester bond, releasing one water molecule per bond. The top end has a free phosphate (5′) and the bottom end a free OH (3′); n nucleotides give n minus 1 bonds." loading="lazy">
+  <figcaption>Each condensation reaction joins two nucleotides with a phosphodiester bond and releases one water molecule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--02-bases-pairing.webp" width="900" height="990" alt="Adenine and guanine are purines with a double ring. Cytosine, thymine and uracil are pyrimidines with a single ring; thymine is only in DNA and uracil only in RNA. Adenine pairs with thymine through two hydrogen bonds and guanine with cytosine through three. Each pair is one double ring plus one single ring, so every pair has the same width." loading="lazy">
+  <figcaption>A purine always pairs with a pyrimidine: A with T (two hydrogen bonds), G with C (three).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--03-dna-helix.webp" width="900" height="880" alt="A double helix of two strands with the sugar-phosphate backbones outside and base pairs inside. One turn has 10 base pairs and measures 3.4 nanometres. A flattened ladder shows the strands are antiparallel: one runs 5′ to 3′ downwards, the other 3′ to 5′, with ATGCCG pairing with TACGGC." loading="lazy">
+  <figcaption>The two strands run in opposite directions and wind round each other, with base pairs inside.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--09-atp-adp.webp" width="900" height="915" alt="ATP is made of adenine, the sugar ribose and three phosphate groups; adenine plus ribose is adenosine. Hydrolysis with water splits ATP into ADP, which has two phosphates, and an inorganic phosphate Pi, releasing energy. Condensation of ADP and Pi resynthesises ATP in respiration or photosynthesis. Example: releasing 30.5 kilojoules per mole coupled to a reaction needing 14.0 gives a net 16.5." loading="lazy">
+  <figcaption>ATP is hydrolysed to ADP and Pi to release energy, and resynthesised by condensation.</figcaption>
+</figure>
+
+
 ### The phosphodiester bond
 
 A **condensation reaction** between two nucleotides forms a **phosphodiester bond**. It joins the phosphate group of one nucleotide to the pentose of the next, and a molecule of water is released. Repeating this builds a **sugar-phosphate backbone** with the bases projecting from it.
@@ -115,6 +136,12 @@ In double-stranded DNA, A = T and C = G, so you can find every base from one val
 
 The common slip is to use 4000 as the total. A base pair is two bases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
+</figure>
+
+
 ## 3.1.5.2 DNA replication
 
 Semi-conservative replication ensures **genetic continuity between generations of cells**. "Semi-conservative" means each new DNA molecule keeps one original strand and gains one new strand.
@@ -163,6 +190,17 @@ The specification wants you to **evaluate the work of scientists in validating**
 - Strengths: it distinguishes three clear models using a prediction that can fail; the result is quantitative, from band positions and amounts; a sample at each generation shows a pattern, not one snapshot.
 - Limits: it shows how the old and new strands are distributed. It does not show the enzymes involved. It used bacteria, so you would need further work to claim the same in other organisms. Density alone cannot tell you the base sequence was copied accurately.
 - Earlier work, such as X-ray diffraction images and the pairing ratios in DNA, supported the structure of the molecule but did not by themselves show how it is copied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--04-replication-fork.webp" width="900" height="1030" alt="A replication fork opens to the right. Helicase at the fork breaks hydrogen bonds so both parent strands act as templates. DNA polymerase adds nucleotides only to the 3′ end, so each new strand grows 5′ to 3′. The leading strand is built continuously towards the fork; the lagging strand is built away from the fork in short fragments that DNA ligase joins. Every daughter duplex has one old and one new strand." loading="lazy">
+  <figcaption>New strands grow 5′ to 3′ only, so one strand is built continuously and the other in fragments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--05-meselson-stahl.webp" width="900" height="1260" alt="Density-gradient tubes show DNA bands. The start sample has one heavy band. After one generation in light nitrogen there is a single intermediate band; after two generations there are equal intermediate and light bands. A grid of predictions shows semi-conservative replication fits both results, conservative replication is ruled out at generation 1 and dispersive replication at generation 2." loading="lazy">
+  <figcaption>Only semi-conservative replication predicts both the generation 1 and generation 2 bands.</figcaption>
+</figure>
+
 
 ## 3.1.6 ATP
 

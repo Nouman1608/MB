@@ -107,6 +107,17 @@ the solid until it melts, and the bulb lights. Explain both observations.*
   bulb stays off.
 - When the solid melts, the ions are free to move. Moving ions carry the current, so the bulb lights.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--03-ionic-conduction.webp" width="900" height="1115" alt="Three circuits with battery, bulb and electrodes. In the solid, the ions are fixed in place and the bulb is off. When molten or dissolved in water, positive ions move to the negative electrode and negative ions to the positive electrode, so the bulb lights." loading="lazy">
+  <figcaption>Ions carry current only when free to move: molten or dissolved, not solid.</figcaption>
+</figure>
+
+
 ## Simple molecular substances (3.2.2 c, d and e)
 
 ### Low melting and boiling points
@@ -130,6 +141,12 @@ whole. When water boils, the steam is still made of H₂O molecules; it is not h
 
 Weak forces need only a small amount of energy to overcome, so the melting and boiling points are
 relatively low.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
+</figure>
+
 
 ### Worked example 2: comparing the energies
 
@@ -170,6 +187,17 @@ and the boiling point means liquid. Above the boiling point means gas.
 
 A, B and C could be simple molecular. D could be ionic, metallic or giant covalent; conductivity
 data would decide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-bonding-structure-and-properties--05-bond-vs-boiling-energy.webp" width="900" height="860" alt="Two HCl molecules show a strong H-Cl bond and a weak force between molecules. A short bar for 16 kJ to boil 1 mol sits beside a bar 27 times longer for 432 kJ to break the H-Cl bonds." loading="lazy">
+  <figcaption>Breaking the bonds needs 27 times the energy of boiling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-bonding-structure-and-properties--04-state-at-25c.webp" width="900" height="980" alt="Four strips for substances A to D, each split into solid, liquid and gas with melting and boiling points at the boundaries and a 25 degree marker in the correct zone: A gas, B liquid, C liquid, D solid. Strips are not to scale." loading="lazy">
+  <figcaption>Compare 25 degrees Celsius with each melting and boiling point to find the state.</figcaption>
+</figure>
+
 
 ## Giant covalent structures (3.2.2 f)
 
@@ -217,6 +245,17 @@ predict which has the higher melting point.*
 - Diagram 1 has the **much higher melting point**, because melting it requires breaking many strong
   covalent bonds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-bonding-structure-and-properties--06-classify-from-diagram.webp" width="900" height="1105" alt="Four diagrams: alternating + and - ions are a giant ionic lattice; positive ions in a sea of electrons are a metal; small separate groups of atoms are simple molecular; atoms joined by bonds running off every edge are giant covalent." loading="lazy">
+  <figcaption>Ask what the particles are and whether the bonds stop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
+
 ## Metals (3.2.2 g)
 
 Section 3.2.1 describes a metal as a giant structure of positive ions with **delocalised electrons**
@@ -238,6 +277,12 @@ two apart.
 - Magnesium contains delocalised electrons, which drift through the metal and carry charge.
 - Magnesium chloride is ionic. In the solid, its ions are fixed in the lattice and cannot move, and
   it has no delocalised electrons. So there are no mobile charged particles and it does not conduct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -58,6 +58,12 @@ Then test yourself with the [practice set](/resources/oxfordaqa-a-level-business
 
 For each group in a case, give one gain and one loss, then say whose interest is likely to win and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+
 ## Barriers to change
 
 General barriers: cost, skills gaps, culture, management time.
@@ -103,6 +109,12 @@ The methods run roughly from slow and consensual to fast and forceful. Match eac
 3. Weigh its drawback against the case constraints: time, cost, managers' power.
 4. Judge: often a combination works, with forceful methods held back as a last resort.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--09-force-field.webp" width="900" height="1070" alt="Arrows scaled to scores for driving and restraining forces before and after action: drivers 12 against restrainers 10 (lead 2), then restrainers fall to 7 (lead 5) after a retraining pledge and course." loading="lazy">
+  <figcaption>Weakening restraining forces widens the lead of driving forces.</figcaption>
+</figure>
+
+
 ## Risk
 
 **Why assess and plan:** protects cash and profit, keeps output flowing, avoids fines, reassures lenders and customers, speeds the response. But excessive caution means missed opportunities.
@@ -136,6 +148,12 @@ The methods run roughly from slow and consensual to fast and forceful. Match eac
 4. Weigh the method's cost against the damage avoided, then judge.
 
 **Mini reminder.** Larkspire's online-only plan raises **strategic** risk (will customers book online?) and **cybersecurity** risk (card data on its site). Market research tests the first; firewalls, backups and staff training reduce the second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--01-ansoff-matrix.webp" width="900" height="1048" alt="A two by two grid of existing/new products against existing/new markets giving market penetration, product development, market development and diversification, with risk rising towards diversification. Orrisdale example: raising share from 15% to 20% needs a 40% revenue rise." loading="lazy">
+  <figcaption>Four options sit in a grid by product and market, and risk rises as the business moves away from what it knows.</figcaption>
+</figure>
+
 
 ## Uncertainty
 

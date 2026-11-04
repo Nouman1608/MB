@@ -93,6 +93,17 @@ Memory hooks:
 3. Calculate, then say what the model leaves out.
 4. Judge whether the answer is valid in the situation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--07-taxi-model-c-4-plus-1p5d.webp" width="900" height="1000" alt="Line C = 4 + 1.5d with the fixed charge 4, the point (12 km, 22) and the point (17 km, 29.5) below a budget line at 30." loading="lazy">
+  <figcaption>The model gives cost from distance and states what it leaves out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--09-representation-y-2x-minus-1.webp" width="900" height="960" alt="Four panels: words, equation, a table (x = 0 to 3 gives y = -1, 1, 3, 5) and a straight-line graph with gradient 2 crossing the y-axis at -1." loading="lazy">
+  <figcaption>The same relationship can be shown in words, an equation, a table or a graph.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Approximation.** 6.1 × 29.8 ≈ 6 × 30 = 180. Exact: 181.78. The estimate is 1.78 too low.
@@ -117,6 +128,12 @@ Memory hooks:
 
 **Validity.** x² + 2x − 24 = 0 gives x = 4 or x = −6 for a length. Reject −6 because a length cannot be negative.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Pair | Difference |
@@ -128,6 +145,12 @@ Memory hooks:
 | Simplification and approximation | Simplifying an expression keeps its value exactly. Approximating changes the value slightly |
 | Quantity and number | A quantity is an amount, usually with units |
 | Validity and correctness | Valid means the reasoning is sound and the result makes sense in context |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--11-validity-negative-width.webp" width="900" height="960" alt="Graph of x squared + 2x - 35 with roots at -7 and 5; the negative-x region is shaded as invalid, and the valid answer is a 7 m by 5 m grid of 35 squares." loading="lazy">
+  <figcaption>A solution of the equation must also make sense in the situation.</figcaption>
+</figure>
+
 
 ## Command terms that go with the concepts
 
@@ -172,6 +195,17 @@ Link to the criteria as well. Criterion B (investigating patterns) leans on patt
 8. 2p / (3q).
 9. 8 + 0 + 2 + 1 = 11.
 10. C = 5 + 2 × 8 = 21. It may ignore discounts for bulk buying, extra charges or limits on n (any sensible point).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve--10-tank-quantity-litres.webp" width="900" height="1000" alt="A 2.5 m by 1.2 m by 0.8 m tank with V = 2.4 m3 and the conversion x 1000 to 2400 litres." loading="lazy">
+  <figcaption>A quantity needs its unit, and converting units is part of the mathematics.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">
+  <figcaption>The context, not the digit after the point, decides whether to round up or down.</figcaption>
+</figure>
+
 
 ## Where credit is usually lost
 

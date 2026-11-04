@@ -82,6 +82,12 @@ hydro-electricity, geothermal, the tides, the Sun and water waves.
 
 Nuclear fuel is **not** a fossil fuel, but it **is** non-renewable. Keep the two ideas apart.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp" width="900" height="1084" alt="Two columns. Non-renewable (tank draining, not refilled): coal, oil, natural gas and nuclear fuel. Renewable (tank refilled naturally): biofuels, hydroelectric, solar, geothermal, wind, tides and waves. Nuclear fuel is finite so it is non-renewable." loading="lazy">
+  <figcaption>Non-renewable resources are used faster than they are replaced; renewable ones are replenished naturally.</figcaption>
+</figure>
+
+
 ## Uses: transport, electricity generation, heating
 
 | Use | Resources commonly used | Note |
@@ -99,6 +105,12 @@ Nuclear fuel is **not** a fossil fuel, but it **is** non-renewable. Keep the two
 *Worked reminder.* Oil gives petrol and diesel, liquid fuels a vehicle carries in its tank. Wind cannot be
 carried, so it powers transport only by generating electricity for electric vehicles. Oil is used directly,
 whereas wind is used only through electricity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-national-and-global-energy-resources-revision-notes--01-uses-matrix.webp" width="900" height="1054" alt="A grid of the eleven resources against vehicle fuel, electricity and heating. Every resource has a tick under electricity. Only oil and bio-fuel are ticked as vehicle fuel. Coal, oil, gas, bio-fuel, the Sun and geothermal are ticked for direct heating. Wind, tides, waves, hydro and nuclear are used only through electricity." loading="lazy">
+  <figcaption>Every resource can generate electricity, but only some are used directly for vehicles or heating.</figcaption>
+</figure>
+
 
 ## Reliability
 
@@ -127,6 +139,22 @@ A resource is **reliable** if it can supply energy whenever it is needed, or if 
   the sea.
 - **Source vs use.** "Electricity" is not an energy resource. It is produced from a resource.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-national-and-global-energy-resources-revision-notes--04-hydro-tides-waves.webp" width="900" height="990" alt="Three scenes. Hydro: river water in a reservoir behind a dam on land. Tides: a barrage across an estuary as the sea level rises and falls, set mainly by the Moon, at known times. Waves: a buoy riding up and down on the sea surface, which depends on the weather." loading="lazy">
+  <figcaption>Hydro uses stored river water, tides use the rising and falling sea, and waves depend on the weather.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--04-availability.webp" width="900" height="950" alt="Three graphs of power over 24 hours. Solar is non-zero only from 06:00 to 18:00 and peaks at midday. Tidal power rises and falls repeatedly in a regular pattern. Fossil and nuclear stations can run steadily at any time." loading="lazy">
+  <figcaption>Availability differs: solar only in daylight, tides in a predictable cycle, fossil and nuclear on demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-national-and-global-energy-resources--07-reliability-vs-impact.webp" width="900" height="1140" alt="A qualitative chart: nuclear is highly reliable but produces radioactive waste; wind has few environmental drawbacks but is weather dependent; fossil fuels are reliable but release carbon dioxide." loading="lazy">
+  <figcaption>Reliability and environmental impact are two separate judgements.</figcaption>
+</figure>
+
+
 ## Environmental impact
 
 Name the impact **and** its cause. "Bad for the environment" earns nothing.
@@ -142,6 +170,17 @@ Name the impact **and** its cause. "Bad for the environment" earns nothing.
 | Sun | Large solar farms take up land; visual impact |
 | Water waves | Equipment can disturb marine habitats and be a hazard to boats; visual impact |
 | Geothermal | Little impact, but only possible in a few places |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-national-and-global-energy-resources-revision-notes--02-fossil-impact.webp" width="900" height="670" alt="Coal, oil and gas all feed into carbon dioxide, which leads to global warming and climate change. Coal and oil also feed into sulfur dioxide, which leads to acid rain. Gas has no arrow to sulfur dioxide." loading="lazy">
+  <figcaption>Name the gas and its effect: CO2 causes global warming, SO2 causes acid rain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-physics-energy--02-renewables-pros-cons.webp" width="900" height="963" alt="Three panels, one per renewable resource. Solar: no fuel and no pollution when running, but no output at night and less in cloud. Wave: renewable with no fuel, but waves vary and equipment is hard to build at sea. Geothermal: works day and night, but only where hot rock is near the surface." loading="lazy">
+  <figcaption>One advantage and one drawback for solar, wave and geothermal power.</figcaption>
+</figure>
+
 
 ## Patterns and trends
 
@@ -186,6 +225,12 @@ A full answer: "The fossil fuel share fell from 72% to 30%, and coal fell to zer
 from 8% to 54%, with wind growing 7.5 times. Total generation stayed at 250 TWh, so renewables replaced
 fossil fuels rather than meeting extra demand, probably to cut carbon dioxide emissions." Always calculate
 percentages from the totals given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-national-and-global-energy-resources-revision-notes--03-trend-2005-2025.webp" width="900" height="800" alt="Two bars each totalling 250 TWh. Fossil fuels fall from 72% to 30%, nuclear from 20% to 16%, and renewables rise from 8% to 54%. Coal falls from 80 TWh to 0 and wind grows 7.5 times from 10 to 75 TWh." loading="lazy">
+  <figcaption>The fossil share fell from 72% to 30% while renewables rose from 8% to 54%, with the same total.</figcaption>
+</figure>
+
 
 ## Science identifies issues but cannot always solve them
 

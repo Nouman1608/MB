@@ -40,6 +40,37 @@ Condensed for the final weeks. For the full explanation, use the
 
 Cells may be **specialised** for a particular function: be ready to link a named cell's structure to its job in a tissue, organ or organism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--01-animal-cell.webp" width="900" height="1050" alt="Schematic animal cell with five numbered structures: cell membrane (outer boundary, controls what enters and leaves), cytoplasm (where reactions happen), nucleus (contains DNA, controls the cell), mitochondria (release energy by respiration) and ribosomes (make proteins). It has no cell wall, chloroplasts or permanent vacuole." loading="lazy">
+  <figcaption>An animal cell has a membrane, cytoplasm, nucleus, mitochondria and ribosomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--02-plant-cell.webp" width="900" height="1242" alt="Schematic rectangular plant cell with eight numbered structures. Three are tagged plant only: the cell wall (strengthens and supports), chloroplasts (photosynthesis) and the large permanent vacuole (stores cell sap, keeps the cell firm). The others are shared with animal cells: membrane, cytoplasm, nucleus, mitochondria and ribosomes." loading="lazy">
+  <figcaption>A plant cell has everything an animal cell has plus a cell wall, chloroplasts and a vacuole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--03-bacterial-cell.webp" width="900" height="1000" alt="Schematic rod-shaped bacterial cell with six numbered structures: cell wall, cell membrane, cytoplasm, ribosomes, a loop of circular DNA lying free with no nucleus, and small extra rings called plasmids." loading="lazy">
+  <figcaption>A bacterial cell has circular DNA and plasmids and no nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--04-cell-comparison.webp" width="900" height="1064" alt="A grid with ticks and crosses for animal, plant and bacterial cells. All three have a membrane, cytoplasm and ribosomes. Animal and plant cells have a nucleus and mitochondria; bacteria do not. Plant cells and bacteria have a cell wall. Only plants have chloroplasts and a vacuole. Only bacteria have circular DNA and plasmids." loading="lazy">
+  <figcaption>Compare the three cell types structure by structure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--05-specialised-cells.webp" width="900" height="1190" alt="Six schematic cells with the syllabus function of each: ciliated cell (movement of mucus in trachea and bronchi), root hair cell (absorption), palisade mesophyll cell (photosynthesis), neurone (conduction of electrical impulses), red blood cell (transport of oxygen, no nucleus) and sperm and egg cells (reproduction)." loading="lazy">
+  <figcaption>Each specialised cell has a shape and structures that suit its job.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
+
 ## Levels of organisation (3.1.2)
 
 ```
@@ -70,6 +101,17 @@ The **digestive system** is the standard example of an organ system:
 - **Small intestine** — where soluble food is absorbed.
 - **Large intestine** — where water is absorbed from the undigested food, producing faeces.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-organisation--04-stomach-tissues.webp" width="900" height="730" alt="Schematic section of the stomach wall: epithelial tissue lines the inside, glandular tissue in flask-shaped glands makes digestive juices, muscular tissue churns the contents and epithelial tissue covers the outside." loading="lazy">
+  <figcaption>The stomach contains muscular, glandular and epithelial tissue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--02-alimentary-canal.webp" width="900" height="1240" alt="Schematic digestive system from mouth to anus with leader-line labels: mouth, salivary glands, oesophagus, stomach, liver, gall bladder, pancreas, duodenum, small intestine, ileum, colon, rectum and anus. Each label gives one short function; the small intestine absorbs nutrients and most water and the colon absorbs some water." loading="lazy">
+  <figcaption>Name the organs of the alimentary canal in order and say what each does.</figcaption>
+</figure>
+
+
 ## Plant tissues and organs (3.1.4)
 
 | Tissue | What it does |
@@ -80,6 +122,17 @@ The **digestive system** is the standard example of an organ system:
 | **Xylem and phloem** | Transport substances around the plant |
 
 Plant **organs** include stems, roots and leaves. Internal structure is limited to the leaf and the position of the xylem and phloem in a dicotyledonous primary root and primary stem.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
+  <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--08-leaf-cross-section.webp" width="900" height="790" alt="Leaf section from top down: cuticle, upper epidermis, palisade mesophyll with many chloroplasts, spongy mesophyll with air spaces, vascular bundle with xylem (water in) and phloem (sugar out), lower epidermis with stomata and guard cells. CO2 enters and O2 leaves through stomata." loading="lazy">
+  <figcaption>Labelled leaf section showing where light, CO2 and water are used.</figcaption>
+</figure>
+
 
 ## Transport in cells (3.1.5)
 
@@ -108,6 +161,57 @@ Plant **organs** include stems, roots and leaves. Internal structure is limited 
 | **Leaves** | Flat, thin shape and air spaces inside (large surface area, short diffusion path for gases) |
 
 **Worked example.** Explain why the small intestine is not ventilated but the lungs are. Both are exchange surfaces with a large surface area, a short diffusion path and a rich blood supply. The lungs exchange **gases with the air**, so fresh air must keep arriving or the air in the alveoli would reach the same concentrations as the blood and diffusion would stop; the small intestine exchanges **dissolved substances** with the blood, so blood flow alone keeps its gradient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-organisation--02-sa-v-ratio.webp" width="900" height="980" alt="Cubes of side 1, 2 and 4 cm have surface areas 6, 24 and 96 cm2 and volumes 1, 8 and 64 cm3, giving surface area to volume ratios of 6:1, 3:1 and 1.5:1. The ratio falls as size increases, so large organisms need exchange surfaces." loading="lazy">
+  <figcaption>As size increases, surface area to volume ratio falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-organisation--03-animal-cell-osmosis-tonicity.webp" width="900" height="805" alt="An animal cell is drawn in three solutions. Hypotonic: fewer dissolved particles outside, water moves in, cell swells and may burst. Isotonic: equal concentration, no net movement, normal shape. Hypertonic: more particles outside, water moves out, cell shrinks and crinkles." loading="lazy">
+  <figcaption>Hypotonic, isotonic and hypertonic solutions change the shape of an animal cell by osmosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms are Extended." loading="lazy">
+  <figcaption>A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
+  <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--08-villus.webp" width="900" height="1250" alt="Extended. A row of villi on the folded small intestine lining, then one villus enlarged. Its surface epithelium is one cell thick with microvilli on the outside. Inside are a capillary network and a central lacteal. Sugars and amino acids enter the capillaries and go into the blood; fatty acids and glycerol enter the lacteal, which is part of the lymphatic system." loading="lazy">
+  <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--02-alveolus-gas-exchange.webp" width="900" height="1080" alt="One alveolus at the end of a bronchiole is wrapped by a capillary. Oxygen diffuses from the air through the thin walls into the blood and carbon dioxide diffuses out into the air. Blood arrives with more carbon dioxide and leaves with more oxygen. Four numbered features (large surface area, thin walls, good blood supply, good ventilation) make the surface efficient." loading="lazy">
+  <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--05-root-hair-cell-adaptations.webp" width="900" height="1290" alt="A root hair cell with a long thin hair in soil, thin wall, large vacuole, many mitochondria and carrier proteins. Water enters by osmosis and mineral ions by active transport." loading="lazy">
+  <figcaption>Each feature of the root hair cell is linked to water uptake by osmosis or ion uptake by active transport.</figcaption>
+</figure>
+
 
 ## Linked Topic 2 notes: enzymes, digestion, the heart and the lungs
 
@@ -195,3 +299,9 @@ The alveoli provide a very large surface area, richly supplied with blood capill
 8. *(Linked Topic 2)* Name the products of lipid digestion and the enzyme responsible.
 
 **Answers:** 1. A tissue is a group of cells with similar structure and function, e.g. muscular tissue; an organ is made of several different tissues, e.g. the stomach. 2. Any two of chloroplasts, a permanent vacuole, a cellulose cell wall; bacterial genes are not in a distinct nucleus, and some are in plasmids. 3. Any one: osmosis is the movement of water only, through a partially permeable membrane, while active transport moves substances such as ions or sugar; osmosis does not need energy from respiration, active transport does; osmosis moves water from a dilute to a more concentrated solution, active transport moves substances against their concentration gradient. 4. Hypotonic (more dilute than the cell contents); water enters the cells by osmosis, so the mass increases. 5. Any three: it is long and folded, with villi and microvilli, giving a large surface area; its wall is thin (one cell thick), giving a short diffusion path; it has a rich blood supply, keeping the concentration gradient steep. 6. It neutralises stomach acid to give the alkaline conditions the enzymes in the small intestine need, and emulsifies fats to increase the surface area for lipase; it is not an enzyme because it does not catalyse a reaction. 7. It must pump blood around the entire body, whereas the right ventricle pumps only to the nearby lungs. 8. Fatty acids and glycerol, produced by lipase.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-organisation--03-exchange-surfaces.webp" width="900" height="1110" alt="Table: both the small intestine and the lungs have a large surface area, thin walls and a rich blood supply; only the lungs are ventilated, because they exchange gases with air, while the intestine gradient is kept steep by blood flow." loading="lazy">
+  <figcaption>Both surfaces share three features; only the lungs are ventilated.</figcaption>
+</figure>
+

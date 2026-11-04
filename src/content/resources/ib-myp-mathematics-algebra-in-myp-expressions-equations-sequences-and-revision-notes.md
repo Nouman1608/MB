@@ -48,6 +48,32 @@ Worked reminder, a proof: show that the sum of three consecutive terms of 4n + 3
 
 Worked reminder, an equation from a pattern: in the arithmetic sequence 4, 10, 16, ... which term equals 82? aₙ = 4 + 6(n − 1) = 6n − 2, and 6n − 2 = 82 gives n = 14.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--03-myp-arith-geom-sigma.webp" width="900" height="1290" alt="Bar charts of the arithmetic sequence 50, 44, 38 (a_n = 56 − 6n), the geometric sequence 5, 15, 45 (a_n = 5 × 3^(n−1)) and the six terms of the sigma sum of 3k − 2, which total 51." loading="lazy">
+  <figcaption>A fixed step, a fixed ratio, and a sigma sum of six terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--05-myp-sequence-proof-groups.webp" width="900" height="990" alt="Sums of consecutive terms of 6n + 7 (32, 44, 56, 68) drawn as 8, 11, 14 and 17 columns of four squares, matching 12n + 20 = 4(3n + 5)." loading="lazy">
+  <figcaption>Each sum is 3n + 5 groups of four.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--01-linear-nth-term.webp" width="900" height="940" alt="Graph of the sequence 5, 8, 11, 14 against n. Each point is 3 higher than the one before, so the points lie on a straight line of gradient 3. Extending the line back to n = 0 gives 2, so the nth term is 3n + 2." loading="lazy">
+  <figcaption>A linear sequence lies on a straight line whose gradient is the common difference.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
+  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
+  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
+</figure>
+
+
 ## Equations and expressions
 
 **Method for an equation**
@@ -81,6 +107,27 @@ Worked reminder, simultaneous equations by elimination: 5x + 2y = 19 and 3x − 
 
 Worked reminder, non-monic factorizing: 2x² + 11x + 12 needs two numbers with product 24 and sum 11, which are 8 and 3. So 2x² + 8x + 3x + 12 = 2x(x + 4) + 3(x + 4) = (2x + 3)(x + 4).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--08-myp-equal-once-not-equivalent.webp" width="900" height="900" alt="The graphs of (x + 3)² and x² + 9 meet only at x = 0 where both are 9. At x = 1 they give 16 and 10. They differ by 6x, so they are not equivalent." loading="lazy">
+  <figcaption>Two expressions can agree at one value and still be different.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--01-myp-simultaneous-scaling-graph.webp" width="900" height="1130" alt="Graph of 4x + 3y = 24 and 3x − 2y = 1 meeting at (3, 4), with the elimination steps (times 2, times 3, add, substitute). A dashed line 4x + 3y = 12, added for illustration, is parallel to the first line and never meets it, so there would be no solution." loading="lazy">
+  <figcaption>Elimination with scaling gives (3, 4); a parallel line never meets, so no solution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--02-matching-bases.webp" width="900" height="990" alt="Two columns show 32^x = 2 and 5^(x+1) = 25^x solved by rewriting 32 as 2^5 and 25 as 5^2, then equating indices. Results are x = 1/5 and x = 1." loading="lazy">
+  <figcaption>Rewrite both sides with the same base, then equate the indices.</figcaption>
+</figure>
+
+
 ## Inequalities
 
 | Type | Handling |
@@ -93,6 +140,27 @@ Worked reminder, non-monic factorizing: 2x² + 11x + 12 needs two numbers with p
 Number line: open circle for < and >, filled circle for ≤ and ≥.
 
 Reminder: 7 − 4x ≥ 31 gives −4x ≥ 24, so **x ≤ −6**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--02-myp-compound-inequalities.webp" width="900" height="1200" alt="Number lines show AND as an overlap (−3 ≤ x &lt; 6), OR as two separate rays (x ≤ −3 or x &gt; 3), and the double inequality −1 ≤ x &lt; 6 with its seven integers." loading="lazy">
+  <figcaption>And keeps the overlap, or keeps both pieces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--01-open-closed-number-line.webp" width="900" height="1110" alt="Four number lines from minus 4 to 4: x &lt; 1 (open circle at 1, shaded left), x at most 1 (closed circle), x &gt; minus 2 (open circle at minus 2, shaded right) and minus 3 at most x &lt; 1 (closed circle at minus 3, open at 1, shaded between). Closed means included, open means excluded." loading="lazy">
+  <figcaption>Closed circles include the value (⩽ ⩾); open circles exclude it (&lt; &gt;).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--02-negative-flips-sign.webp" width="900" height="1030" alt="Values of x from minus 5 to 2 are put through minus 2x and compared with 6. Only x greater than minus 3 passes, so −2x &lt; 6 becomes x &gt; −3, shown on a number line with an open circle at minus 3. Dividing by a negative reverses the sign." loading="lazy">
+  <figcaption>Dividing by a negative number reverses the inequality sign, as testing values confirms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--03-double-inequality-integers.webp" width="900" height="990" alt="Three number lines for −7 ⩽ 3x + 2 &lt; 11. Subtracting 2 from every part gives −9 ⩽ 3x &lt; 9; dividing every part by 3 gives −3 ⩽ x &lt; 3. The integers −3, −2, −1, 0, 1, 2 are marked; 3 has an open circle and is excluded." loading="lazy">
+  <figcaption>Operate on all three parts at once, then check each endpoint separately for integer solutions.</figcaption>
+</figure>
+
 
 ## Quadratic equations
 
@@ -108,6 +176,22 @@ Reminder with the formula: x² + 6x + 4 = 0 has a = 1, b = 6, c = 4, so x = (−
 A negative number under the root means the graph does not meet the x-axis. The line of symmetry sits halfway between the roots.
 
 Worked reminder, a context quadratic: a ball's height in metres is h = 16t − 2t². When is h = 30? Then 2t² − 16t + 30 = 0, so t² − 8t + 15 = 0 and (t − 3)(t − 5) = 0. The ball is at 30 m at t = 3 on the way up and t = 5 on the way down.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--11-myp-quadratic-formula-graph.webp" width="900" height="1024" alt="y = 3x² + 4x − 5 crosses the x-axis at 0.786 and −2.12, symmetric about x = −2/3. The curve y = x² + 2x + 3 has b² − 4ac = −8 and never reaches the axis, so has no real root." loading="lazy">
+  <figcaption>Roots are where the curve meets y = 0; a negative discriminant means no crossing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--04-myp-picture-frame-quadratic.webp" width="900" height="1090" alt="A frame is drawn as a w by w square plus a 4 by w strip, giving w² + 4w = 96. The graph of y = w² + 4w − 96 crosses zero at −12 and 8; the negative root is rejected, so the width is 8 cm and the length 12 cm." loading="lazy">
+  <figcaption>A quadratic from a context: only w = 8 makes sense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is Extended only." loading="lazy">
+  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; Extended adds the turning point.</figcaption>
+</figure>
+
 
 ## Formulae
 
@@ -142,6 +226,12 @@ Worked reminder: set c = 1 and t = 0. Repeat: add 2c + 1 to t, then add 1 to c. 
 | 5 | 35 | 6 |
 
 The output is 35, because the total first passes 30 on the fifth pass.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--09-myp-flowchart-trace.webp" width="900" height="900" alt="A flowchart sets t = 0 and p = 3, adds p to t, doubles p and tests t &gt; 60, looping back on No. A trace table shows t = 3, 9, 21, 45, 93 and p = 6, 12, 24, 48, 96. The output is 93." loading="lazy">
+  <figcaption>A flowchart and its trace table for the doubling-terms algorithm.</figcaption>
+</figure>
+
 
 ## Connecting to the criteria
 

@@ -32,6 +32,12 @@ Use the [OxfordAQA Physics hub](/boards/oxfordaqa/a-level/physics/) and the [pri
 - The **decay constant** λ is that probability per unit time. Unit: s⁻¹, h⁻¹, y⁻¹.
 - Large samples follow smooth curves. Counts for a single measurement scatter by about √C for a count of C.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--03-aphy-nuclear-random-decay.webp" width="900" height="1170" alt="100 dice are thrown repeatedly and every six is removed. Which die goes is unpredictable, but the number left follows the smooth curve 100 x (5/6)^n, halving after about 3.8 throws." loading="lazy">
+  <figcaption>Each nucleus has a constant chance of decaying, so unpredictable single decays give a smooth exponential for a large sample.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Quantity | Equation | Notes |
@@ -57,6 +63,12 @@ N_A is 6.02 × 10²³ mol⁻¹ in the calculations on this page. In an exam ques
 - **N–t graph and ln A–t graph.** The first is a curve with gradient −λN. The second is a straight line with gradient −λ.
 - **ln and log.** The exponential law needs ln. Base 10 logs give gradient −λ log₁₀e, so λ = −gradient × 2.303.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--05-aphy-nuclear-log-graph.webp" width="900" height="990" alt="ln of corrected count rate against time is a straight line falling from 6.461 to 4.710 over 50 minutes. The gradient is -0.0350 per minute, so lambda = 0.0350 per minute and the half-life is 19.8 minutes." loading="lazy">
+  <figcaption>A straight ln graph supports the exponential law and its gradient is minus lambda.</figcaption>
+</figure>
+
+
 ## Methods in steps
 
 ### Activity or nuclei after a time t
@@ -80,6 +92,17 @@ N_A is 6.02 × 10²³ mol⁻¹ in the calculations on this page. In an exam ques
 3. Multiply by N_A.
 4. Use A = λN if the activity is needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--06-aphy-nuclear-mass-defect.webp" width="900" height="920" alt="The four separate nucleons of helium-4 weigh 4.031882 u but the nucleus 4.001505 u. The mass defect 0.030377 u is equivalent to 28.3 MeV, the binding energy, which is 7.07 MeV per nucleon." loading="lazy">
+  <figcaption>The binding energy is the energy equivalent of the mass defect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
+  <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
+</figure>
+
+
 ### Half-life from a log graph
 
 1. Subtract the background rate from each reading.
@@ -87,6 +110,12 @@ N_A is 6.02 × 10²³ mol⁻¹ in the calculations on this page. In an exam ques
 3. Plot ln against t and draw a best-fit line.
 4. Use a large triangle to find the gradient (negative).
 5. λ = −gradient, then T½ = ln2/λ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--04-aphy-nuclear-half-life.webp" width="900" height="1010" alt="Corrected count rate against time for a source starting at 800 counts per minute. The rate halves every 14 minutes whether it starts from 800 or 488, so the half-life is constant and lambda = ln 2 / 14 = 0.0495 per minute." loading="lazy">
+  <figcaption>The half-life is the same wherever on the decay curve you start.</figcaption>
+</figure>
+
 
 ### Half-life from a decay curve
 
@@ -141,6 +170,12 @@ N_A is 6.02 × 10²³ mol⁻¹ in the calculations on this page. In an exam ques
 11. Measured rate = source rate + background. The ln of a sum is not the sum of the ln values, so with background left in the points curve and the gradient is not −λ.
 12. Taking ln of A = A₀e^(−λt) gives ln A = ln A₀ − λt, which is of the form y = mx + c.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--02-aphy-nuclear-decay-modes.webp" width="900" height="990" alt="Graph of neutron number against proton number with a narrow band of stable nuclei above the N = Z line. Neutron-rich nuclei above the band decay by beta-minus (Z+1, N-1), proton-rich nuclei below it by beta-plus or electron capture (Z-1, N+1), and very heavy nuclei by alpha (Z-2, N-2)." loading="lazy">
+  <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using the exponential law with λ in one time unit and t in another.
@@ -156,3 +191,9 @@ N_A is 6.02 × 10²³ mol⁻¹ in the calculations on this page. In an exam ques
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for exams from May/June 2020 onwards, published by Oxford International AQA Examinations: section 3.9.2 Exponential changes in radioactivity (International A-level only).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--08-aphy-nuclear-reactor.webp" width="900" height="960" alt="Cross-section of a reactor with fuel rods in a moderator, control rods that absorb neutrons, coolant leaving hot and returning cool, and thick shielding. Heat passes to a heat exchanger, turbine and generator. Control rods hold k at 1." loading="lazy">
+  <figcaption>The moderator slows neutrons and the control rods absorb them.</figcaption>
+</figure>
+

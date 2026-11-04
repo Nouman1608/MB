@@ -45,6 +45,22 @@ When you are ready, try the [practice questions](/resources/oxfordaqa-a-level-ac
 
 The IESBA International Code of Ethics for Professional Accountants uses the same five principles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--03-audit-opinions.webp" width="900" height="1030" alt="A question chain: enough evidence? If not, disclaimer. Material misstatement? If not, unmodified. Pervasive? If not, qualified (except for); if so, adverse. An OxfordAQA example shows 85,000 left out of 940,000 profit before tax, 9.0 percent, material but not pervasive, so qualified." loading="lazy">
+  <figcaption>Three questions decide which of the four audit opinions is given.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--06-governance-checks.webp" width="900" height="910" alt="Shareholders appoint the board and the external auditors; auditors report back to shareholders. The board has a chair and a CEO who are different people, plus independent non-executive directors. Audit and remuneration committees, made of independent NEDs, sit below; the remuneration committee sets directors’ pay. AQA only: comply or explain." loading="lazy">
+  <figcaption>Independent checks stop directors from marking their own homework.</figcaption>
+</figure>
+
+
 ## Threats and safeguards
 
 The IESBA Code's approach: **identify** the threat, **evaluate** it (would a reasonable and informed third party think it acceptable?), then **address** it.
@@ -58,6 +74,12 @@ The IESBA Code's approach: **identify** the threat, **evaluate** it (would a rea
 | Intimidation | Threat of dismissal or of losing the client | Escalate above the person applying pressure |
 
 If no safeguard works, decline or end the work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--02-threats-safeguards.webp" width="900" height="940" alt="Five threats are named with an example each: self-interest, self-review, advocacy, familiarity and intimidation. Three steps follow: identify, evaluate, address. A safeguard such as a second-person review reduces the threat; if it is too big, decline the work or step away." loading="lazy">
+  <figcaption>Identify and evaluate each threat, then apply a safeguard or step away.</figcaption>
+</figure>
+
 
 ## Six areas the principles affect
 
@@ -88,6 +110,12 @@ No material problem: **unmodified** opinion. These categories come from the Inte
 - **Consequences of failing:** fines, modified audit opinion, restated accounts, legal action or disqualification for directors, disciplinary action against the accountant, harm to stakeholders who relied on the figures.
 - **Establishing a code:** publish it, make it a condition of membership, set exams and continuing professional development.
 - **Enforcing a code:** investigate complaints, hold hearings, impose sanctions up to exclusion from membership.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--05-rule-layers.webp" width="900" height="866" alt="Three layers of rules and the consequence of breaking each. Law (AQA: government and Companies Act; OxfordAQA: company, tax and fraud law) brings fines and court action. Standards (AQA: FRC; OxfordAQA: IASB, IAASB) bring a modified audit opinion. Professional codes (AQA: CCAB bodies and CIMA; OxfordAQA: bodies using the IESBA code) bring warning, fine or exclusion." loading="lazy">
+  <figcaption>Law, standards and professional codes each have their own consequences when broken.</figcaption>
+</figure>
+
 
 ## Acting ethically with each group
 
@@ -120,6 +148,12 @@ The specification's four courses of action, in a workable order:
 5. Escalate internally, above anyone involved.
 6. **Seek external/professional help when necessary**: professional body, lawyer.
 7. Refuse to take part; withdraw or resign as a last resort.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--04-wrongdoing-steps.webp" width="900" height="880" alt="Seven numbered steps: establish the facts, evaluate the threats, apply safeguards, resolve conflicts of interest, escalate internally, take professional or legal advice, and refuse or resign as a last resort. They are grouped as your own checks, inside the organisation, and outside if needed." loading="lazy">
+  <figcaption>Work from your own checks, to internal escalation, to outside help.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

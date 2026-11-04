@@ -56,6 +56,17 @@ A rod has 9 positive and 9 negative units. It loses 4 electrons. Negative units 
 
 An object has 6 positive and 10 negative units, so its net charge is -4. To become neutral it must **lose 4 electrons**. To end at +2 units it must lose 4 + 2 = **6 electrons**. Work from the net charge, then ask whether electrons must be added or removed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-static-electricity-and-electric-fields--01-rubbing-electron-transfer.webp" width="900" height="1160" alt="A plastic strip and a cloth, each neutral, are shown in charge units. After rubbing, 5 electrons have moved from the cloth to the strip, which becomes net minus 5 while the cloth is net plus 5." loading="lazy">
+  <figcaption>Rubbing moves 5 electrons from cloth to strip; the charges are equal and opposite and the total stays zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-static-electricity-and-electric-fields--02-charged-rods-on-threads.webp" width="900" height="1100" alt="Two panels. In the first, a negatively charged polythene rod hangs on a thread and a second negative polythene rod is held near it. The hanging rod swings away, so like charges repel. In the second, a positive acetate rod is held near the hanging negative rod, which swings towards it, so unlike charges attract. The rods do not touch, so the force acts across the air gap. The dashed outline shows where the hanging rod rests uncharged." loading="lazy">
+  <figcaption>Like charges swing apart and unlike charges swing together, without the rods touching.</figcaption>
+</figure>
+
+
 ## P3.1b Making static and sparking
 
 ### Method in steps: describing charging by rubbing
@@ -112,6 +123,17 @@ Reverse the signs for a positive object: electrons shift towards it.
 | Negative rod touches the cap | Rises and stays up | Electrons pass onto the electroscope |
 | Same sign rod brought near afterwards | Rises more | More electrons are pushed down |
 | Opposite sign rod brought near afterwards | Falls | Electrons are pulled up towards the cap |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-static-electricity-and-electric-fields--02-balloon-neutral-wall.webp" width="900" height="880" alt="A negative balloon near a neutral wall. Charges in the wall shift so the near side is slightly positive. The nearer positive charges pull more than the farther negative ones push, so the balloon is attracted." loading="lazy">
+  <figcaption>The wall is neutral overall, but its nearer charges pull harder than its farther charges push.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-static-electricity-and-electric-fields--01-gold-leaf-electroscope.webp" width="900" height="1090" alt="Two panels. In the first, a negatively charged rod is held near the metal cap of a gold leaf electroscope without touching. Electrons in the metal are repelled down towards the rod and gold leaf, leaving the cap short of electrons. The leaf has extra negative charge and lifts because like charges repel. The total charge stays zero, and when the rod is taken away the electrons return and the leaf falls. In the second panel the rod touches the cap, some electrons pass to the electroscope, and after the rod is removed the whole electroscope is negative so the leaf stays raised." loading="lazy">
+  <figcaption>A negative rod lifts the leaf by pushing electrons down; touching leaves the electroscope charged.</figcaption>
+</figure>
+
 
 ## P3.1d Electric fields (Higher Tier only)
 
@@ -182,6 +204,17 @@ Semolina on castor oil, with electrodes connected to a high-voltage supply: the 
 9. Where the lines are closest together.
 10. The opposite direction, because an electron is negative.
 11. The shape of the electric field: the grains line up along the field lines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-static-electricity-and-electric-fields--03-electric-field-lines.webp" width="900" height="1060" alt="Field lines for one positive charge, one negative charge, a positive and negative pair, and two positives. Lines leave positive and enter negative, never cross, and are closest where the field is strongest." loading="lazy">
+  <figcaption>Field lines start on positive charge, end on negative charge and show the force on a small positive charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-static-electricity-and-electric-fields--03-semolina-field-demo.webp" width="900" height="940" alt="A circular dish of castor oil with semolina grains on the surface and two small electrodes, one positive on the left and one negative on the right, connected to a high-voltage supply. The grains line up in curved chains from the positive electrode to the negative electrode, following the electric field lines. The chains are closest together near the electrodes, where the field is strongest, and spread out further away." loading="lazy">
+  <figcaption>Semolina grains in castor oil line up along the field lines between a positive and a negative electrode.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

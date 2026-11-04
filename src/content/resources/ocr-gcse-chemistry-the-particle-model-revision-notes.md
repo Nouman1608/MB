@@ -59,6 +59,22 @@ The gaps between gas particles are **empty space**. Heating gives particles more
 
 Mass stays the same in a change of state because no particles are gained or lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--04-states-from-data.webp" width="900" height="1100" alt="Strips for P, Q, R and S show solid, liquid and gas zones with melting and boiling points. At 20 C P is liquid, Q solid, R gas, S solid; at 60 C only P changes, to gas." loading="lazy">
+  <figcaption>Compare the temperature with the melting and boiling points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--05-subliming-skips-liquid.webp" width="900" height="720" alt="A solid lattice and a gas with a dashed liquid box between marked skipped; a curved arrow labelled subliming goes from solid to gas and energy is taken in." loading="lazy">
+  <figcaption>Subliming goes from solid to gas without a liquid stage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--02-changes-of-state.webp" width="900" height="980" alt="Solid, liquid and gas are stacked with small particle pictures. Melting (solid to liquid) and boiling or evaporating (liquid to gas) take energy in. Freezing (liquid to solid) and condensing (gas to liquid) give energy out." loading="lazy">
+  <figcaption>Melting, boiling or evaporating take in energy; freezing and condensing release it.</figcaption>
+</figure>
+
+
 ### Method in steps: state from melting and boiling points
 
 1. Write the temperature next to the melting point (mp) and boiling point (bp).
@@ -75,6 +91,12 @@ Mass stays the same in a change of state because no particles are gained or lost
 2. Say how the **movement** changes (faster or slower).
 3. Say how the **arrangement** and **spacing** change.
 4. Say that the **particles themselves stay the same**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--01-three-states.webp" width="900" height="990" alt="Three boxes compare the states. Solid particles are closely packed in a regular grid and vibrate in place. Liquid particles are close but irregular and slide past each other, filling the bottom of a container. Gas particles are far apart and move fast in all directions, filling their container." loading="lazy">
+  <figcaption>Arrangement, spacing and movement of particles explain the properties of solids, liquids and gases.</figcaption>
+</figure>
+
 
 ## C1.1b: Physical or chemical?
 
@@ -103,6 +125,17 @@ Mass stays the same in a change of state because no particles are gained or lost
 
 Melt a little wax in a warm water bath, then let it set again. It is the same wax afterwards, so the change is physical. Then heat green copper(II) carbonate: it turns black and gives off a gas that turns limewater cloudy. The black solid stays black on cooling. New substances (copper(II) oxide and carbon dioxide) have formed, so the change is chemical.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--07-wax-vs-copper-carbonate.webp" width="900" height="1130" alt="Wax warmed and cooled returns to solid wax (physical). Green copper(II) carbonate heated gives gas that turns limewater cloudy and a black solid that stays black (chemical)." loading="lazy">
+  <figcaption>Same wax before and after, but new substances from copper carbonate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--01-same-or-new-particles.webp" width="900" height="1000" alt="Top: six water molecules in a neat grid (ice) become the same six molecules jumbled (liquid water), so only the arrangement changes. Bottom: four magnesium atoms and two O2 molecules become four MgO units, so new particles, a new substance, form." loading="lazy">
+  <figcaption>A physical change keeps the same particles; a chemical change makes new ones.</figcaption>
+</figure>
+
+
 ## C1.1c: Limitations of the model (Higher Tier only)
 
 The inelastic sphere model does **not** take into account:
@@ -116,6 +149,17 @@ The inelastic sphere model does **not** take into account:
 **Estimating spacing.** If a gas takes up N times the volume of the same mass of liquid, its particles are about ∛N times further apart. For example, N = 1,000 gives ∛1000 = 10.
 
 The model also cannot explain why different substances have different properties. That needs ideas about bonding and structure from Topic C2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--03-mp-che-16-gas-spacing.webp" width="900" height="1040" alt="Three rows of particles at one scale. In liquid water the centres are one width apart, a typical textbook gas drawing shows two to three, and steam to scale is about 12 widths apart because 1 g expands from 1 cm3 to 1700 cm3 and the cube root of 1700 is about 12." loading="lazy">
+  <figcaption>Real gas particles are much further apart than textbook diagrams show.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--06-cube-64-balls.webp" width="900" height="950" alt="A cube of balls has 4 x 4 x 4 = 64 balls; one face drawn in 2D shows 16; the hidden core is 2 x 2 x 2 = 8, so 56 are on the surface." loading="lazy">
+  <figcaption>A 2D drawing shows only one layer of a 3D solid.</figcaption>
+</figure>
+
 
 ## CM1.1i: 3D to 2D
 
@@ -157,6 +201,12 @@ Robert Brown described the random jiggling of tiny particles from pollen grains 
 9. The forces of attraction between particles, the size of the particles and the space between them.
 10. ∛125 = 5 times.
 11. 3³ = 27 in total; 9 on one face; (3 − 2)³ = 1 hidden.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--08-brownian-motion.webp" width="900" height="880" alt="A pollen grain follows a random zig-zag path as water molecules strike it. Timeline: Brown 1827, Einstein 1905, Perrin 1908-09." loading="lazy">
+  <figcaption>Brownian motion is evidence for moving particles.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

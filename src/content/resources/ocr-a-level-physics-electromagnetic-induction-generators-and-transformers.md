@@ -54,6 +54,17 @@ The unit of flux is the weber (Wb). One weber is the flux through an area of 1 m
 
 With the normal along the field the same frame has Φ = 1.4 × 10⁻³ Wb, its largest value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--01-fields-due-to-currents.webp" width="900" height="1210" alt="Three panels show field lines of a long straight wire (circles, with B falling as 1/r), a flat circular coil and a long solenoid. The wire panel has a 1/r graph; the coil and solenoid lines are computed with the Biot-Savart law. The solenoid has a uniform field inside and a bar-magnet pattern outside." loading="lazy">
+  <figcaption>Field lines of a straight wire, a flat coil and a solenoid, with B falling as 1/r away from the wire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
+  <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
+</figure>
+
+
 ## 6.3.3(b) Magnetic flux linkage
 
 A coil of N turns has the same flux Φ passing through every turn. Each turn is linked by the flux, so the total is the flux linkage:
@@ -78,6 +89,12 @@ An e.m.f. is induced in a conductor or coil whenever the flux linking it changes
 Lenz's law is conservation of energy. Push the north pole of a magnet towards a coil. The induced current makes the nearest face a north pole, which repels the magnet. The work you do against that repulsion becomes electrical energy. If the coil attracted the magnet instead, the magnet would gain kinetic energy while also driving a current, creating energy from nothing.
 
 If the circuit is open, an e.m.f. is still induced but no current flows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--05-lenz-law-magnet-coil.webp" width="900" height="1110" alt="Three rows show a bar magnet with its north pole facing a coil and a centre-zero meter. Moving in: the near end of the coil becomes a north pole and repels the magnet. Held still: no deflection. Moving out: the near end becomes a south pole and attracts the magnet, and the meter deflection reverses." loading="lazy">
+  <figcaption>The induced pole always opposes the magnet movement, so the meter deflects one way going in and the other way coming out.</figcaption>
+</figure>
+
 
 ## 6.3.3(d)(i) Calculating induced e.m.f.
 
@@ -142,6 +159,17 @@ E = NBAω sin ωt, with peak value E₀ = NBAω
 2. E₀ = NBAω = 120 × 0.25 × 4.5 × 10⁻³ × 157 = 21.2 V
 3. Doubling f doubles ω, so E₀ becomes 42.4 V and the period falls from 0.040 s to 0.020 s
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--06-rotating-coil-generator.webp" width="900" height="1165" alt="Four end-on pictures show a coil turning in a uniform field at 0, 90, 180 and 270 degrees. Graphs for one 40 ms period (120 turns, 0.25 T, 4.5e-3 m2, 25 Hz) show N phi = NBA cos wt between plus and minus 0.135 Wb turns and E = NBAw sin wt with peak 21.2 V. E is zero when flux linkage is maximum and largest when it changes fastest." loading="lazy">
+  <figcaption>The e.m.f. of a rotating coil is minus the gradient of the flux linkage, so a cosine flux linkage gives a sine e.m.f.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--08-ac-rms-and-power.webp" width="900" height="945" alt="A mains voltage with peak 325 V and period 20 ms is plotted for two cycles with dashed lines at 230 V r.m.s. and a 650 V peak-to-peak arrow. Below, the power in a resistor, proportional to sin squared and never negative, has a mean of exactly half the peak power." loading="lazy">
+  <figcaption>The r.m.s. value is the peak divided by root 2, and the mean power is half the peak power.</figcaption>
+</figure>
+
+
 
 ## 6.3.3(f)(i) The transformer
 
@@ -162,6 +190,12 @@ The current ratio is inverted. This follows from power in equalling power out: V
 3. Ip = Is × Ns/Np = 2.0 × 120/1840 = 0.13 A
 
 **Worked example 8.** A real transformer with the same load draws 0.150 A from 230 V. Input power = 34.5 W, so efficiency = 30/34.5 = 87%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--07-transformer.webp" width="900" height="935" alt="A laminated iron core carries a primary coil of 1840 turns on 230 V a.c. and a secondary of 120 turns on a 15 V, 30 W load. The changing flux links both coils; Ip = 0.13 A and Is = 2.0 A, so power in equals power out for an ideal transformer. Eddy currents are big loops in a solid core and small loops in a laminated core. A real transformer draws 34.5 W for 30 W out, 87 percent efficient." loading="lazy">
+  <figcaption>An ideal transformer has Ns/Np = Vs/Vp = Ip/Is; the laminated core reduces eddy-current losses.</figcaption>
+</figure>
+
 
 ## 6.3.3(f)(ii) Investigating transformers
 

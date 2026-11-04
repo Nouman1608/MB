@@ -76,6 +76,37 @@ For full explanations and worked examples, read the [Using resources study guide
 
 Advantages: less digging, moving and disposal of rock; uses low-grade ores. Disadvantages: slow; phytomining needs land.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-using-resources--07-sewage-treatment.webp" width="900" height="830" alt="Flow diagram: screening and grit removal, then sedimentation giving sludge and effluent; effluent goes to aerobic treatment and treated water, sludge to anaerobic digestion." loading="lazy">
+  <figcaption>Sewage is treated in four stages that deal with solids, sludge and effluent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-using-resources--01-potable-water-steps.webp" width="900" height="1130" alt="Four steps: choose fresh water, filter beds trap solids, sterilise with chlorine, ozone or UV to kill microbes, giving potable water that is safe but not pure. Desalination is noted for scarce fresh water." loading="lazy">
+  <figcaption>UK potable water: source, filter beds, sterilising (no carbon step).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-using-resources--02-dissolved-solids-calc.webp" width="900" height="1000" alt="A 20.0 cm3 sample is evaporated to leave 0.012 g residue. Since 1 dm3 is 50 such samples, the mass is 0.60 g per dm3, shown also as 0.012 / 0.0200." loading="lazy">
+  <figcaption>Required practical 8: 0.012 g in 20.0 cm3 is 0.60 g/dm3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--07-distillation.webp" width="900" height="1215" alt="Simple distillation: salt solution is heated, water vapour passes through a condenser (water in at the bottom, out at the top) and pure water is collected while salt stays behind. Fractional distillation adds a fractionating column; ethanol, with the lower boiling point, boils first and is collected from ethanol and water." loading="lazy">
+  <figcaption>Simple distillation recovers a solvent; fractional distillation separates miscible liquids by boiling point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--06-rusting-conditions.webp" width="900" height="790" alt="Three tubes with iron nails: in air and water the nail rusts; in dry air above a drying agent it does not; in boiled water under oil it does not. Both oxygen and water are required." loading="lazy">
+  <figcaption>Remove either oxygen or water and rusting stops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--07-phytomining-bioleaching.webp" width="900" height="990" alt="Phytomining: plants grow on copper-rich soil, are harvested and burned and the ash holds copper compounds. Bioleaching: bacteria produce a leachate, a solution with copper compounds. Copper is then obtained by electrolysis or scrap-iron displacement." loading="lazy">
+  <figcaption>Two newer ways to get copper from low-grade ores.</figcaption>
+</figure>
+
+
 ## 4.10.2 LCAs and recycling
 
 **LCA stages:** raw materials → manufacture and packaging → use → disposal, plus transport at every stage.
@@ -100,6 +131,12 @@ Advantages: less digging, moving and disposal of rock; uses low-grade ores. Disa
 - Recycle metals by melting and recasting.
 - Scrap steel added to blast-furnace iron cuts ore extraction.
 - The amount of separation needed depends on the material and the product required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-using-resources--06-lca-bottles.webp" width="900" height="850" alt="Graph of energy per use against number of uses: glass falls as 7.5 divided by uses, plastic stays at 1.5 MJ. They are equal at 5 uses and glass is 0.375 MJ per use at 20 uses." loading="lazy">
+  <figcaption>On energy alone a glass bottle beats plastic if it is reused more than 5 times.</figcaption>
+</figure>
+
 
 ## 4.10.3 Materials
 
@@ -139,6 +176,12 @@ Advantages: less digging, moving and disposal of rock; uses low-grade ores. Disa
 
 **Composites:** matrix + reinforcement, e.g. reinforced concrete, fibreglass, carbon fibre, wood.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--07-sacrificial-protection.webp" width="900" height="1000" alt="A scratched painted steel sheet rusts at the scratch because the barrier is broken. A scratched zinc-coated sheet does not rust: zinc, being more reactive, loses electrons and corrodes instead while electrons flow to the steel." loading="lazy">
+  <figcaption>Sacrificial protection keeps working after the barrier is broken.</figcaption>
+</figure>
+
+
 ## 4.10.4 Haber process and NPK
 
 **Haber process summary**
@@ -174,6 +217,27 @@ Potassium chloride and potassium sulfate are mined. Ammonia makes ammonium salts
 **Percentage by mass -- worked reminder.** Ammonia, NH₃: Mr = 14 + 3(1) = 17. % N = 14 ÷ 17 × 100 = **82.4%**. Method: find Mr, multiply the element's Aᵣ by the number of its atoms in the formula, divide by Mr, multiply by 100. Count atoms carefully inside brackets.
 
 **Lab vs industry:** lab = small batch, titration and crystallisation, dilute reagents. Industry = continuous, large scale, integrated processes, raw materials made on site.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-using-resources--05-haber-process.webp" width="900" height="790" alt="Flow diagram: nitrogen from air and hydrogen from natural gas are compressed to about 200 atm, pass over an iron catalyst at about 450 C, are cooled so ammonia liquefies, and unreacted gases are recycled." loading="lazy">
+  <figcaption>The Haber process makes ammonia and recycles unreacted nitrogen and hydrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-using-resources--03-phosphate-rock-routes.webp" width="900" height="940" alt="Insoluble phosphate rock reacts with nitric, sulfuric or phosphoric acid to give phosphoric acid and calcium nitrate, single superphosphate, or triple superphosphate. N comes from ammonium nitrate and K from mined salts." loading="lazy">
+  <figcaption>Phosphate rock must be treated with acid to make soluble fertilisers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -212,6 +276,17 @@ Potassium chloride and potassium sulfate are mined. Ammonia makes ammonium salts
 10. Nitrogen from the air; hydrogen from natural gas.
 11. Mr = 39 + 14 + 48 = 101; 39 ÷ 101 × 100 = **38.6%**.
 12. Triple superphosphate (calcium phosphate).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--05-aluminium-oxide-layer.webp" width="900" height="1060" alt="Three stages: oxygen reacts with fresh aluminium; a thin aluminium oxide layer seals the metal against oxygen, water and acid; a scratched layer re-forms immediately." loading="lazy">
+  <figcaption>A thin, self-repairing oxide layer protects aluminium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers--02-thermosoftening-thermosetting.webp" width="900" height="1040" alt="Top: separate chains joined only by weak dashed intermolecular forces; heating overcomes them so chains slide and the plastic softens. Bottom: chains joined by strong covalent cross-links drawn as thick bars; heating does not break them so the plastic does not melt." loading="lazy">
+  <figcaption>Weak forces between chains let a thermosoftening polymer soften; covalent cross-links stop a thermosetting polymer melting.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

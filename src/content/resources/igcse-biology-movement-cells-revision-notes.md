@@ -40,12 +40,29 @@ Condensed for the final weeks. For the full explanation, use the
 | Osmosis | High → low water potential | No | Core (basic) / Supplement (full definition) |
 | Active transport | Low → high concentration | Yes (from respiration) | Core (basic) / Supplement (detail) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
+  <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
+</figure>
+
+
 ## Diffusion — all Core, no Supplement-only content
 
 Net movement of particles from higher to lower concentration, down a concentration gradient, from
 random kinetic movement. Factors affecting rate: surface area, temperature, concentration gradient,
 distance. Because 3.1 has no Supplement-only material, it is one of the highest-value topics to secure
 completely regardless of tier.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--02-diffusion-factors.webp" width="900" height="1130" alt="Four paired pictures. Larger surface area: one block versus the same amount cut into four pieces. Higher temperature: short versus long movement arrows. Steeper concentration gradient: small versus big difference between two sides. Shorter distance: thick versus thin layer to cross." loading="lazy">
+  <figcaption>Diffusion is faster with more surface area, higher temperature, a steeper gradient and a shorter distance.</figcaption>
+</figure>
+
 
 ## Osmosis — the Core/Supplement trap
 
@@ -65,6 +82,12 @@ and loss of water by organisms.
 
 Core candidates who half-learn the Supplement definition often lose marks trying to use "water
 potential" language they don't actually need — know which level you're being examined at.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+</figure>
+
 
 ## Active transport — the one that needs energy
 
@@ -97,6 +120,12 @@ becomes **flaccid**, and if enough water is lost the cell membrane pulls away fr
 entirely — a state called **plasmolysis**. This vocabulary is precise and examiners expect exact terms,
 not approximate descriptions like "the cell shrank."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms are Extended." loading="lazy">
+  <figcaption>A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.</figcaption>
+</figure>
+
+
 ## Linking to the practical investigations
 
 For the dialysis-tubing osmosis investigation, be ready to describe the method (filling tubing with a
@@ -117,6 +146,12 @@ to measure how quickly a substance diffuses to the centre.
 - For practicals, not being ready to describe both the dialysis-tubing osmosis investigation and how
   to test factors affecting diffusion rate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--05-dialysis-tubing.webp" width="900" height="960" alt="A bag of dialysis tubing holding strong solution hangs in a beaker of water. At the start the bag is small. Later it has swollen because water entered by osmosis, while the same solute particles stay inside. Measuring its mass before and after shows the change." loading="lazy">
+  <figcaption>Water enters the tubing bag by osmosis, so it swells and gains mass.</figcaption>
+</figure>
+
+
 ## Active transport: the Supplement detail
 
 Supplement candidates must also explain active transport's importance for **ion uptake by root
@@ -126,6 +161,12 @@ the gradient using respiration energy. Also know that **protein carriers** embed
 are what physically move molecules or ions across during active transport — a specific mechanism
 diffusion and osmosis do not require, since they rely on random particle movement alone rather than a
 carrier mechanism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+</figure>
+
 
 ## Building one comparison table from all three sections
 

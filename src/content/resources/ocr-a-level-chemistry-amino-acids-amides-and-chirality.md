@@ -80,6 +80,12 @@ RCH(NH₂)COOH + R′OH ⇌ RCH(NH₂)COOR′ + H₂O
 
 Name the alcohol part first: methanol and 2-aminohexanoic acid give methyl 2-aminohexanoate. The acid catalyst can also protonate the NH₂ group, so in the mixture the ester may be present as its ammonium salt; when asked for the ester, show COOR′ with NH₂ unchanged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--07-racemate-formation.webp" width="900" height="1030" alt="Propanal has a trigonal planar carbonyl carbon drawn as a flat sheet. CN minus can attack from above or below, each 50 percent likely. Attack from the front gives 2-hydroxybutanenitrile with CN on a wedge; from the back, CN on a hashed bond. The two products are mirror images in equal amounts: a racemate. The same logic applies to Br minus attacking the planar carbocation from HBr and an alkene (AQA, OxfordAQA)." loading="lazy">
+  <figcaption>A planar carbon is attacked equally from both faces, so a chiral product forms as a 1:1 racemate.</figcaption>
+</figure>
+
+
 ### Worked example 3: ester yield
 
 **Task:** 5.24 g of 2-aminohexanoic acid is heated with excess methanol and concentrated H₂SO₄. After work-up, 4.06 g of methyl 2-aminohexanoate is collected. Find the percentage yield.
@@ -95,6 +101,22 @@ The nitrogen lone pair accepts a proton, as in the amines of 6.2.1. With dilute 
 
 RCH(NH₂)COOH + HCl → RCH(NH₃⁺)COOH Cl⁻
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--05-sn-mechanism.webp" width="900" height="1170" alt="Curly-arrow mechanism for ethylamine + bromomethane: lone pair on N attacks the delta-plus carbon and the C-Br bond breaks to give Br-; a second ethylamine removes H+ from the N+ intermediate, giving N-methylethylamine and ethylammonium bromide." loading="lazy">
+  <figcaption>Nucleophilic substitution: N lone pair attacks C, Br- leaves, then H+ is removed from N+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--06-acyl-mechanism.webp" width="900" height="1230" alt="Addition-elimination: lone pair on N of methylamine attacks the delta-plus C=O carbon while the C=O pi bond moves onto O. In the tetrahedral intermediate the O- lone pair re-forms C=O and the C-Cl bond breaks to release Cl-. The product is N-methylethanamide, with methylammonium chloride from the second amine." loading="lazy">
+  <figcaption>Amines react with acyl chlorides by addition-elimination to give N-substituted amides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+
+
 ### Worked example 4: methionine and hydrochloric acid
 
 **Task:** write the equation for methionine with dilute HCl, and find the mass of salt from 2.982 g of methionine.
@@ -104,6 +126,12 @@ RCH(NH₂)COOH + HCl → RCH(NH₃⁺)COOH Cl⁻
 3. M(salt) = 149.1 + 36.5 = 185.6 g mol⁻¹, so mass = 0.0200 × 185.6 = **3.71 g**.
 
 A good check: alkali changes only the COOH end; acid only the NH₂ end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--07-amino-acid-ions.webp" width="900" height="930" alt="Glycine shown as H3N+CH2COOH (overall +1) in acid, the zwitterion H3N+CH2COO- (0) in neutral solution and H2NCH2COO- (-1) in alkali, with arrows for adding OH- (down) and H+ (up)." loading="lazy">
+  <figcaption>In acid, neutral and alkaline solution an amino acid is a +1 ion, a zwitterion and a -1 ion.</figcaption>
+</figure>
+
 
 ## 6.2.2(b): primary and secondary amides
 
@@ -131,6 +159,22 @@ The "N-" in a secondary amide's name shows which group sits on the nitrogen. Bot
 4. **D**: there is no C=O next to the nitrogen. It is a secondary **amine**, not an amide.
 5. Making **B**: CH₃CH₂CH(CH₃)COCl + 2CH₃CH₂NH₂ → CH₃CH₂CH(CH₃)CONHCH₂CH₃ + CH₃CH₂NH₃⁺Cl⁻. The second mole of ethylamine reacts with the HCl formed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
+  <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
+
 ## 6.2.2(c): optical isomerism
 
 Two compounds are stereoisomers when their structural formulae match but the 3-D positions of their atoms do not. After E/Z and cis–trans isomerism (4.1.3), optical isomerism is the second kind in the course.
@@ -148,6 +192,12 @@ Use the standard convention around the tetrahedral carbon:
 - one hashed (dashed) wedge, pointing away from you, with both wedges on the side opposite the plain pair.
 
 Draw one isomer, a dotted mirror line, then the reflection: wedges stay wedges and hashed bonds stay hashed; only left and right swap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--03-enantiomer-drawing.webp" width="900" height="780" alt="Two 3D drawings of 2-aminopropanoic acid either side of a dashed mirror line. Enantiomer A has COOH up, H3C lower left, NH2 on a wedge and H on a hashed bond; B is the reflection with left and right swapped and wedge and hash unchanged. A key explains plain, wedge and hashed bonds." loading="lazy">
+  <figcaption>Draw the second enantiomer by reflecting across a mirror line: left and right swap, wedges stay wedges.</figcaption>
+</figure>
+
 
 ### Worked example 6: optical isomers of 2-aminohexanoic acid
 
@@ -169,6 +219,27 @@ Draw one isomer, a dotted mirror line, then the reflection: wedges stay wedges a
 Glycine is the exception: R is H, so its α-carbon carries two hydrogens and it has no optical isomers. Every α-amino acid with R other than H has a chiral α-carbon.
 
 HSW1 and HSW8 point to using the tetrahedral model to explain the isomers and communicating 3-D shape clearly. Optical isomers of complexes with bidentate ligands appear in 5.3.1(f).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--10-chirality.webp" width="900" height="1116" alt="Top: two mirror-image enantiomers of a chiral carbon with four different groups (NH2, COOH, CH3, H), drawn with wedge and dash bonds, which cannot be superimposed. Bottom (AQA only): an active site with three binding points fits one enantiomer; the mirror image has two groups swapped and does not fit." loading="lazy">
+  <figcaption>A chiral centre has four different groups; an enzyme active site binds only one enantiomer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--04-non-superimposable.webp" width="900" height="970" alt="Ball-and-stick models of enantiomer A and its mirror image B. B is turned by a computed rotation so COOH and CH3 coincide with A; then NH2 and H are in each other places, marked with dashed rings and crosses, so B cannot be superimposed on A." loading="lazy">
+  <figcaption>Enantiomers are mirror images that cannot be superimposed: after lining up two groups, the other two are swapped.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--05-polarimeter.webp" width="900" height="800" alt="A light path: lamp, polariser, tube of sample, analyser, eye. End-on dials show every plane after the lamp, one plane after the polariser, the plane turned clockwise through an angle alpha after the sample, and the analyser turned to the same angle. The angle turned is the angle of rotation. Edexcel specifies monochromatic light." loading="lazy">
+  <figcaption>A polarimeter measures how far an optically active sample turns the plane of plane-polarised light (Edexcel: monochromatic light).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--08-sn1-sn2-evidence.webp" width="900" height="1110" alt="Edexcel only. SN1: one enantiomer of 3-chloro-3-methylheptane loses chloride to a planar carbocation; OH minus attacks either face, giving both enantiomers 1:1, a racemate with no rotation. SN2: hydroxide attacks 2-iodohexane from the side opposite iodine; the other three groups flip and a single inverted enantiomer forms, which is optically active." loading="lazy">
+  <figcaption>No rotation points to a planar intermediate (SN1); a single inverted enantiomer that rotates points to SN2 (Edexcel only).</figcaption>
+</figure>
+
 
 ## 6.2.2(d): finding chiral centres in any molecule
 
@@ -192,6 +263,17 @@ For the rest, compare whole groups, not just the first atom: methyl and ethyl di
 | 3-methylcyclopentan-1-ol | ring, OH on C1, CH₃ on C3 | 2 | From C1, one route round the ring meets the CH(CH₃) carbon after one CH₂, the other after two; the same unevenness makes C3 chiral |
 
 Compare 4-methylcyclohexan-1-ol: there the two routes round the ring from C1 are identical, so it has no chiral centre.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--01-chiral-centre.webp" width="900" height="720" alt="Two ball-and-stick tetrahedral carbons. In 2-hydroxypropanoic acid the central carbon carries four different groups (H, CH3, OH, COOH, four colours), so it is a chiral centre C*. In propan-2-ol the central carbon has two identical CH3 groups, so it is not. Bonds are tetrahedral, 109.5 degrees." loading="lazy">
+  <figcaption>A carbon bonded to four different groups is a chiral centre; two identical groups mean it is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--02-spot-chiral-centre.webp" width="900" height="950" alt="Four skeletal formulae with the tested carbon ringed and its four groups as colour-coded chips. 3-methylhexane C3 (H, CH3, C2H5, C3H7) is chiral; 3-methylpentane C3 has two identical ethyl groups so is not; 2-bromo-2-chlorobutane C2 has no hydrogen but four different groups so is chiral; 2-hydroxypropanoic acid C2 is chiral." loading="lazy">
+  <figcaption>Compare whole groups: two ethyl groups make a carbon achiral, and a chiral carbon need not carry hydrogen.</figcaption>
+</figure>
+
 
 ## Common errors
 

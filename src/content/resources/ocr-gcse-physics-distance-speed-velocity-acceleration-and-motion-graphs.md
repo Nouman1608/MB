@@ -51,6 +51,12 @@ To reduce error, repeat the timing and take a mean, start and stop the clock on 
 
 Practical ideas in the specification include calculating the speeds of learners who walk and run a measured distance, and investigating whether the angle of a ramp affects the speed of a trolley (PAG P3). In a ramp investigation the angle is the independent variable, the speed is the dependent variable, and you control the trolley, the release point and the distance timed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--11-measure-distance-time-equipment.webp" width="900" height="1040" alt="A trolley on a ramp with two light gates and a metre rule for short fast motion; a tape or trundle wheel with a stopwatch over a long distance; and bars showing that a 0.2 s reaction error is 20% of a 1.0 s timing but 1% of a 20 s timing." loading="lazy">
+  <figcaption>Pick equipment that suits the distance and time; reaction time matters most for short times.</figcaption>
+</figure>
+
+
 ## Units, ratios and rates (P2.1c)
 
 A rate is a quantity per unit of something else, such as metres per second. Converting units is multiplying by a ratio that equals 1.
@@ -77,6 +83,12 @@ speed    = distance ÷ time = 5400 ÷ 1080 = 5.0 m/s
 
 Proportional reasoning: at constant speed, doubling the time doubles the distance. If a robot covers 450 m in 5 min, it covers 90 m each minute, so 7 min gives 630 m. Non-SI units such as miles per hour appear as well: 1 mile is about 1609 m, so 30 mph is about 13.4 m/s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--12-convert-kmh-to-ms.webp" width="900" height="1060" alt="126 km/h becomes 35 m/s by dividing by 3.6. 5.4 km in 18 min is 5400 m in 1080 s, 5.0 m/s. Divide km/h by 3.6 for m/s and multiply m/s by 3.6 for km/h; 30 mph is about 13.4 m/s." loading="lazy">
+  <figcaption>Divide km/h by 3.6 to get m/s.</figcaption>
+</figure>
+
+
 ## Scalars and vectors (P2.1d)
 
 A **scalar** has size only. A **vector** has size and direction.
@@ -98,6 +110,17 @@ average velocity = 35 ÷ 50 = 0.70 m/s east
 ```
 
 An object moving at a steady speed round a circle has a constant speed but a changing velocity, because its direction keeps changing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--15-circular-constant-speed.webp" width="900" height="990" alt="Four equal-length velocity arrows touch a circle along the tangent: north at the east point, west at the top, south at the west point, east at the bottom. Speed is the same everywhere but the direction keeps changing." loading="lazy">
+  <figcaption>Same speed, changing direction means changing velocity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
+  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
+</figure>
+
 
 ## Distance-time graphs (P2.1b, P2.1e)
 
@@ -122,6 +145,17 @@ The **gradient** (slope) equals speed: gradient = change in distance ÷ change i
 ```
 
 The jogger runs, stops for 30 s, then runs faster. If the graph is a displacement-time graph, a line sloping downwards means moving back towards the start, which is negative velocity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--02-distance-time-gradient.webp" width="900" height="900" alt="A distance-time graph rises 20 m in 4 s (5 m/s), stays flat for 4 s (at rest), then rises 50 m in 4 s (12.5 m/s). The steeper line is faster." loading="lazy">
+  <figcaption>On a distance-time graph the gradient is the speed, and a flat line means at rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--03-distance-time-tangent.webp" width="900" height="900" alt="A curved distance-time graph gets steeper, so the object accelerates. A tangent at 4 s rises 32 m over 4 s, so the speed at that instant is 8 m/s." loading="lazy">
+  <figcaption>For a curve, the speed at an instant is the gradient of the tangent.</figcaption>
+</figure>
+
 
 ## Velocity-time graphs (P2.1e, P2.1f)
 
@@ -153,6 +187,32 @@ Average speed = 420 ÷ 30 = 14 m/s
 
 If any part of a velocity-time graph goes below the axis, that part is motion in the opposite direction. Area above the axis counts as positive displacement and area below as negative; total distance adds both sizes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--10-car-vt-worked.webp" width="900" height="970" alt="Velocity-time graph of a car: 0 to 20 m/s in 8 s (a = 2.5 m/s², area 80 m), 20 m/s for 12 s (a = 0, area 240 m), then to rest in 10 s (a = −2.0 m/s², area 100 m). Total 420 m. A dashed 14 m/s line over 30 s encloses the same area." loading="lazy">
+  <figcaption>Gradients give acceleration and areas give distance; the average speed rectangle has the same area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--11-vt-negative-velocity.webp" width="900" height="990" alt="Velocity-time graph with east positive: +3 m/s for 20 s gives 60 m east, then −2.5 m/s for 10 s gives 25 m west, then rest to 50 s. Distance is 85 m, displacement 35 m east, average speed 1.7 m/s, average velocity 0.70 m/s east." loading="lazy">
+  <figcaption>Area below the axis is motion the opposite way: it reduces displacement but adds to distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--04-speed-time-area.webp" width="900" height="930" alt="Speed rises from 0 to 10 m/s in 5 s then stays constant for 8 s. Gradient of the slope is 2 m/s squared. Triangle area 25 m plus rectangle area 80 m gives 105 m." loading="lazy">
+  <figcaption>Gradient gives acceleration and area gives distance travelled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--05-same-shape.webp" width="900" height="975" alt="Four small graphs compare the same line shapes. A sloping line is constant speed on a distance-time graph but constant acceleration on a speed-time graph. A flat line is rest on distance-time but constant speed on speed-time." loading="lazy">
+  <figcaption>The same line shape means different things on the two graphs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--02-speed-time-graph.webp" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration, Extended). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled (Core)." loading="lazy">
+  <figcaption>The area under a speed-time graph is the distance travelled; its gradient is the acceleration.</figcaption>
+</figure>
+
+
 ## Average speed for non-uniform motion (P2.1g)
 
 When speed changes, use the whole journey:
@@ -168,6 +228,12 @@ average speed  = 1000 ÷ 230 = 4.3 m/s (2 s.f.)
 ```
 
 Do not average the two speeds. The speeds were 5.0 m/s and 4.0 m/s, whose mean is 4.5 m/s, which is wrong because the runner spent different times at each speed. Include any rests in the total time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--12-average-speed-not-mean.webp" width="900" height="970" alt="Speed-time graph of a runner: 400 m in 80 s at 5.0 m/s then 600 m in 150 s at 4.0 m/s. The correct average, 1000 m over 230 s, is 4.3 m/s. The mean of the two speeds, 4.5 m/s, is wrong because more time was spent at the slower speed." loading="lazy">
+  <figcaption>Average speed is total distance over total time, not the mean of the speeds.</figcaption>
+</figure>
+
 
 ## Acceleration and the equations of motion (P2.1h)
 
@@ -207,6 +273,22 @@ v  = √166 = 12.9 m/s (3 s.f.)
 ```
 
 Always take the square root last, and remember a square root has a positive and a negative value: choose the one in the direction of motion. An investigation of acceleration (PAG P3) can use a trolley, light gates and a ramp: find the change in velocity from the gate readings and divide by the time between them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--13-braking-v-squared.webp" width="900" height="980" alt="Velocity-time graph of a car braking from 18 m/s to rest in 3 s. The gradient is −6.0 m/s² and the triangle area is 27 m, the braking distance. v² − u² = 2as checks: 0 − 324 = 2 × (−6.0) × 27 = −324." loading="lazy">
+  <figcaption>The area under the braking line is the stopping distance, which is how v² − u² = 2as links speeds, acceleration and distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--13-vt-acceleration-worked.webp" width="900" height="930" alt="A velocity-time line from 8 m/s at 0 s to 26 m/s at 6 s with a dashed triangle showing the change of 18 m/s over 6 s. Acceleration is 18 divided by 6 = 3.0 m/s squared, the gradient." loading="lazy">
+  <figcaption>Acceleration is the change in velocity divided by time, which is the gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--14-train-v-squared-worked.webp" width="900" height="960" alt="A train at 4 m/s accelerates at 0.5 m/s squared over 150 m. A bar shows v squared as 16 plus 150 = 166, and v = square root of 166 = 12.9 m/s." loading="lazy">
+  <figcaption>Square first, add, and take the square root last.</figcaption>
+</figure>
+
 
 ## Common errors
 

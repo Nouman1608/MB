@@ -78,6 +78,22 @@ The score 0 sits on the diagonal, 5 cells, so P(0) = 5/25 = 1/5. Scores of at le
 
 Write each outcome as a pair, such as (3, T). There are 6 × 2 = 12 outcomes. The primes are 2, 3 and 5, so the outcomes with a prime and tails are (2, T), (3, T) and (5, T). That is 3 out of 12, which is 1/4. Heads with a number greater than 4 gives (5, H) and (6, H), which is 2 out of 12 = 1/6.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sample-spaces-mutually-exclusive-events-and-venn--11-samp-spinner-difference-grid.webp" width="900" height="910" alt="A 5 by 5 grid of scores, first spin minus second spin. The five cells on the diagonal score 0, so P(0) = 5/25 = 1/5. Six cells score 2 or more: 2, 3, 4, 2, 3, 2, so P(at least 2) = 6/25." loading="lazy">
+  <figcaption>Each cell is one equally likely outcome of two spins; count the cells that match the event.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sample-spaces-mutually-exclusive-events-and-venn--12-samp-die-and-coin.webp" width="900" height="630" alt="A grid of 12 outcome pairs, die number 1 to 6 across and heads or tails down. Prime with tails is (2,T), (3,T), (5,T), which is 3 of 12 or 1/4. Heads with a number greater than 4 is (5,H) and (6,H), which is 2 of 12 or 1/6." loading="lazy">
+  <figcaption>Writing every pair shows 6 × 2 = 12 equally likely outcomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--01-two-dice-sample-space.webp" width="900" height="925" alt="A 6 by 6 grid with die faces along both edges; each cell shows the total. The six cells totalling 7 form a diagonal and are highlighted, giving 6 out of 36 = 1/6." loading="lazy">
+  <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
+</figure>
+
+
 ### Successive events without replacement
 
 If the first item is not put back, the same item cannot appear twice. The grid then has a blank diagonal, or you list ordered pairs.
@@ -96,6 +112,12 @@ The first card can be any of 4 and the second any of the other 3, so there are 4
 A total of 7 comes from (1,6), (6,1), (3,4) and (4,3), so P = 4/12 = 1/3. Both odd means (1,3) or (3,1), so P = 2/12 = 1/6.
 
 Order matters here: (1,6) and (6,1) are different outcomes, and both are in the list.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sample-spaces-mutually-exclusive-events-and-venn--06-without-replacement-grid.webp" width="900" height="1060" alt="A 4 by 4 grid for cards numbered 1, 3, 4 and 6 drawn one after another without replacement. The diagonal cells are crossed out because the same card cannot be drawn twice. The 12 remaining cells show the totals. Four of them, from the pairs 1 and 6, 6 and 1, 3 and 4, 4 and 3, equal 7, so the probability is 4 over 12, one third." loading="lazy">
+  <figcaption>Grid for four cards with the diagonal removed.</figcaption>
+</figure>
+
 
 ## S15: Mutually exclusive and exhaustive outcomes
 
@@ -143,6 +165,17 @@ So P(red) = 0.2, P(green) = 0.4. Red and blue are mutually exclusive, so P(red o
 
 P(A or B) = 3/8 + 2/8 = 5/8. The probability of neither is 1 − 5/8 = 3/8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sample-spaces-mutually-exclusive-events-and-venn--05-mutually-exclusive-die.webp" width="900" height="890" alt="Two Venn diagrams of the numbers on a die. Top: prime numbers 2, 3, 5 and square numbers 1, 4 do not overlap, so adding 3 sixths and 2 sixths gives the correct 5 sixths. Bottom: prime numbers and even numbers 2, 4, 6 overlap at 2, so adding gives 1, which is wrong because the number 1 is neither. The true probability is 5 sixths." loading="lazy">
+  <figcaption>Prime/square versus prime/even Venn diagrams.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--02-adds-to-one.webp" width="900" height="850" alt="Two bars of length 1. The spinner bar is red 0.35, blue 0.2, green x, yellow 2x, so x = 0.15 and yellow 0.3. The rain bar is 35 percent rain and 65 percent no rain." loading="lazy">
+  <figcaption>All the probabilities of one event add to 1, so not happening is 1 minus happening.</figcaption>
+</figure>
+
+
 ## S16: Venn diagrams
 
 A **Venn diagram** shows how a group is split by two or more properties. The rectangle is everything being considered. Each circle is one property. Overlapping circles show items with both properties. Items in no circle go inside the rectangle but outside the circles.
@@ -168,6 +201,17 @@ neither = 11
 
 The regions total 14 + 14 + 21 + 11 = 60. So P(coffee only) = 21/60 = 7/20.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
+  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--03-unknown-overlap.webp" width="900" height="1010" alt="Two Venn diagrams of 50 tourists. First the regions are written with x for the overlap (31−x, x, 27−x, x÷2); solving gives x = 16. Then the filled counts 15, 16, 11 and 8 add to 50." loading="lazy">
+  <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
+</figure>
+
+
 ### Venn diagrams with probabilities
 
 **Worked example 9.** For a customer, P(buys A) = 0.5, P(buys B) = 0.4 and P(buys neither) = 0.2. Find P(buys both) and P(buys exactly one).
@@ -191,6 +235,12 @@ Factors of 28: 1, 2, 4, 7, 14, 28 (6 numbers). Primes up to 28: 2, 3, 5, 7, 11, 
 
 The counts total 28. P(neither) = 15/28.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sample-spaces-mutually-exclusive-events-and-venn--13-samp-venn-factors-primes.webp" width="900" height="1010" alt="A Venn diagram of the numbers 1 to 28. Factors of 28 only: 1, 4, 14, 28. Both factors of 28 and prime: 2 and 7. Primes only: 3, 5, 11, 13, 17, 19, 23. In neither set, outside the circles: 15 numbers. The regions total 28, so P(neither) = 15/28." loading="lazy">
+  <figcaption>Test every number for both properties: 4 + 2 + 7 + 15 = 28, so P(neither) = 15/28.</figcaption>
+</figure>
+
+
 ### Three sets
 
 The same method works for three circles. Fill in the centre first (in all three), then the regions shared by exactly two sets, then the sets alone.
@@ -206,6 +256,12 @@ hockey only   = 14 − 3 − 4 − 2 = 5
 Adding all seven regions: 8 + 7 + 5 + 5 + 4 + 2 + 3 = 34. So 40 − 34 = 6 play none.
 
 Exactly two sports means 5 + 4 + 2 = 11 pupils, so P = 11/40.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--05-three-set-venn.webp" width="900" height="990" alt="A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26." loading="lazy">
+  <figcaption>Fill the centre first; the eight regions then add to 60.</figcaption>
+</figure>
+
 
 ## Common errors
 

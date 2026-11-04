@@ -66,6 +66,17 @@ This applies to **every** carbon, so a long chain is a zig-zag, not a straight l
 - The pairs repel equally and move as far apart as possible.
 - The shape around that carbon is tetrahedral, so the angle is **109.5°**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--08-benzene-shape.webp" width="900" height="1180" alt="Top view: flat hexagon with 120 degree angles and three sigma bonds per carbon. Side view: p orbitals above and below the ring overlap into one delocalised pi system of six electrons." loading="lazy">
+  <figcaption>Benzene is a flat ring with a delocalised pi system, not three double bonds (Cambridge).</figcaption>
+</figure>
+
+
 ## 4.1.2(c): Boiling points and London forces
 
 Alkane molecules are non-polar. The only forces between them are **induced dipole–dipole interactions (London forces)**. An uneven electron cloud at any instant gives an instantaneous dipole, which induces a dipole in a neighbouring molecule.
@@ -98,6 +109,17 @@ The first four are gases at room temperature. Plotted as a graph (M3.1), the ris
 
 Always say that **intermolecular** forces are overcome on boiling. No C–C or C–H bonds break.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--04-fractional-distillation.webp" width="900" height="1090" alt="Heated crude oil vapour rises in a column that is cooler at the top; short chains with low boiling points leave near the top, long chains condense lower, residue leaves at the bottom. Only boiling and condensing occur, so no C-C bonds break." loading="lazy">
+  <figcaption>Fractions separate by boiling point, which rises with chain length (AQA, Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--07-boiling-points.webp" width="900" height="1200" alt="Boiling points of methane to decane rise with chain length (data from the OCR lesson); methane to butane are gases at 20 C. Heptane 98, 2-methylhexane 90 and 2,2-dimethylpentane 79 C show branching lowers boiling point." loading="lazy">
+  <figcaption>More electrons and contact give stronger London forces; branching lowers boiling point (AQA, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## 4.1.2(d): Why alkanes are unreactive
 
 Alkanes do not react with many common reagents, such as acids, bases and most oxidising agents at room temperature. Two reasons:
@@ -106,6 +128,12 @@ Alkanes do not react with many common reagents, such as acids, bases and most ox
 - **Very low polarity.** Carbon and hydrogen have very similar electronegativities (2.55 and 2.20 on the Pauling scale). The C–H bond has almost no dipole and the C–C bond has none, so there are no δ+ or δ− sites to attract nucleophiles or electrophiles.
 
 Alkanes do react with oxygen when ignited, and with halogens in UV radiation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
 
 ## 4.1.2(e): Combustion
 
@@ -130,6 +158,12 @@ Alkanes do react with oxygen when ignited, and with halogens in UV radiation.
 - n(C₅H₁₂) = 2.88 ÷ 72.0 = 0.0400 mol
 - n(O₂) = 8 × 0.0400 = 0.320 mol; volume = 0.320 × 24.0 = **7.68 dm³**
 - n(CO₂) = 5 × 0.0400 = 0.200 mol; mass = 0.200 × 44.0 = **8.80 g**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--06-combustion.webp" width="900" height="930" alt="Pentane with plenty of oxygen gives CO2 and water; with limited oxygen gives CO (or soot) and water. CO binds haemoglobin. AQA also: a catalytic converter turns CO and NO into CO2 and N2." loading="lazy">
+  <figcaption>Limited oxygen makes toxic carbon monoxide and soot (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 4.1.2(f): Radical substitution with chlorine and bromine
 
@@ -160,6 +194,17 @@ CH₃CH₂CH₂CH₂• + CH₃CH₂CH₂CH₂• → C₈H₁₈ (octane)
 Check each propagation step: the number of radicals is one on each side. Check each termination step: two radicals become none. Half curly arrows are not required for this mechanism; the specification shows radical mechanisms as a sequence of equations.
 
 Chlorine reacts in exactly the same way, starting with Cl₂ → 2Cl•.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 4.1.2(g): Limits of radical substitution in synthesis
 

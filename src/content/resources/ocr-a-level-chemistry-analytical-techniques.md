@@ -94,6 +94,12 @@ Three bottles hold pentan-1-ol, cyclohexanone and 2-methylbutanoic acid, but the
 
 **Conclusion.** A is **cyclohexanone**, B is **2-methylbutanoic acid** and C is **pentan-1-ol**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
+
 ## 4.2.4(d): Interpreting and predicting unfamiliar spectra
 
 The same data let you work forwards (structure to spectrum) or backwards (spectrum to functional group). To predict:
@@ -131,6 +137,12 @@ The **molecular ion peak** is the peak with the highest m/z, apart from a very s
 
 That small peak is the **M+1 peak**. About 1.1% of carbon atoms are carbon-13, so a few molecules are one unit heavier than the rest. Do not mistake it for the molecular ion. The specification states that you will not be expected to interpret mass spectra of organic halogen compounds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--08-gc-retention-gcms.webp" width="900" height="1090" alt="Simple GC apparatus, standards D, E, F at 3.2, 4.5, 7.8 min and a sample with peaks at 3.2 and 7.8 min; GC-MS identifies m/z 100.0635 as C4H8N2O." loading="lazy">
+  <figcaption>Retention times matched to standards show D and F but no E; GC-MS molecular ion 100.0635 fits only C4H8N2O.</figcaption>
+</figure>
+
+
 ## 4.2.4(g): Fragmentation
 
 Molecular ions can break into a positive ion and a neutral radical:
@@ -165,6 +177,17 @@ For 3-methylbutan-2-one, one fragmentation that gives m/z 43 is:
 
 Breaking on the other side of the C=O, the same ion can lose •CH₃ and give (CH₃)₂CHCO⁺ at m/z 71.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
+
 ## 4.2.4(h): Combining analytical data
 
 Work in this order:
@@ -196,6 +219,17 @@ Empirical formula C₅H₁₀O, mass 86.0.
 **Fragments.** m/z 43 fits CH₃CO⁺ and m/z 71 fits loss of CH₃, so Z is best explained as a methyl ketone, CH₃CO–C₃H₇. An aldehyde would usually show CHO⁺ at 29, which is absent. Pentan-3-one has no CH₃ on the carbonyl carbon, so it cannot give CH₃CO⁺.
 
 **Conclusion.** Z is **pentan-2-one or 3-methylbutan-2-one**; both fit all the data given. Telling them apart needs NMR spectroscopy, which you meet in [6.3.2 Spectroscopy](/resources/ocr-a-level-chemistry-spectroscopy/). Saying that two isomers fit is the honest answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--05-nmr-ester-shift.webp" width="900" height="1000" alt="Ethyl ethanoate and methyl propanoate both give singlet 3H, quartet 2H, triplet 3H; shift of the group bonded to O decides." loading="lazy">
+  <figcaption>Both esters show a singlet, quartet and triplet, but only chemical shift shows which group is bonded to oxygen.</figcaption>
+</figure>
+
 
 ## Common errors
 

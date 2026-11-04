@@ -59,6 +59,22 @@ When you are ready, test yourself with the [practice questions](/resources/o-lev
 
 **One way only:** vesicles on one side, receptors on the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-control--02-neurone-types.webp" width="900" height="830" alt="Three rows compare sensory, relay and motor neurones by shape and position relative to the CNS. Sensory has its cell body on a side branch outside the CNS; relay lies wholly inside; motor has its cell body in the CNS and a long fibre to a muscle." loading="lazy">
+  <figcaption>Identify each neurone by its shape and where it sits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--01-reflex-arc.webp" width="900" height="1000" alt="Schematic reflex arc: a pin pricks the skin, a receptor starts an impulse that travels along a sensory neurone into the spinal cord, a relay neurone, a motor neurone, then to the leg muscle (effector) which contracts. Arrowheads show impulse direction. The sensory neurone cell body sits on a short branch; the motor neurone cell body is in the cord." loading="lazy">
+  <figcaption>Follow the numbered pathway from stimulus to response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
+</figure>
+
+
 ## 14.2 Sense organs and the eye
 
 Stimuli: light, sound, touch, temperature, chemicals.
@@ -92,6 +108,22 @@ Memory hook: *circular closes*.
 
 Memory hook: *near = contract = fat lens*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-control--03-eye-structure.webp" width="900" height="860" alt="A side view of the eye. At the front is the transparent cornea, then the iris with the pupil as a gap, then the lens. Ciliary muscles above and below the lens are joined to it by suspensory ligaments. At the back is the retina with the fovea on the line through the lens; the optic nerve leaves slightly below it where the blind spot is." loading="lazy">
+  <figcaption>The parts of the eye named in the syllabus, with the blind spot where the optic nerve leaves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-control--04-accommodation.webp" width="900" height="1190" alt="Two diagrams. Near object: ciliary muscles contract, suspensory ligaments slacken, the lens is fatter and bends light more so the object is focused on the retina. Distant object: ciliary muscles relax, ligaments are pulled tight, the lens is thinner and bends light less." loading="lazy">
+  <figcaption>Near and distant focusing differ in ciliary muscles, ligament tension and lens shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Extended panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
+</figure>
+
+
 ## 14.3 Hormones
 
 | Gland | Hormone(s) |
@@ -111,6 +143,22 @@ Memory hook: *near = contract = fat lens*.
 | Nervous | Fast | Short |
 | Hormonal | Slower | Longer lasting |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-control--06-endocrine-glands.webp" width="900" height="970" alt="A body outline. Pituitary gland at the base of the brain (FSH, LH); adrenal glands on top of the kidneys (adrenaline); pancreas below the stomach (insulin, glucagon); testes (testosterone) and ovaries (oestrogen, progesterone). A strip notes adrenaline raises heart rate and blood glucose." loading="lazy">
+  <figcaption>Where the five endocrine glands sit and which hormones they release.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-control--05-adrenaline-chain.webp" width="900" height="880" alt="Stress makes the adrenal glands release adrenaline, carried in the blood. Blood glucose and heart rate go up, so muscles respire more and release more energy." loading="lazy">
+  <figcaption>What adrenaline does, step by step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--03-nervous-vs-hormonal.webp" width="900" height="1080" alt="A nervous route (CNS to muscle by neurones) is very fast; a hormonal route (gland, blood, target organ) is slower. A sketch graph shows the nervous effect peaking quickly and ending soon, the hormonal effect rising later and lasting longer." loading="lazy">
+  <figcaption>Nervous control is very fast and short; hormonal control is slower and longer lasting.</figcaption>
+</figure>
+
+
 ## 14.4 Homeostasis and negative feedback
 
 ```
@@ -118,6 +166,12 @@ set point → change detected → corrective response → back towards set point
 ```
 
 Rise → response lowers it. Fall → response raises it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-control--03-set-point-feedback.webp" width="900" height="850" alt="A body value wobbles around a dashed set point line. Too high triggers a response that brings it down; too low triggers a response that brings it up." loading="lazy">
+  <figcaption>Negative feedback: the change switches on a response that reverses it.</figcaption>
+</figure>
+
 
 ## 14.5 Temperature control
 
@@ -133,6 +187,12 @@ Rise → response lowers it. Fall → response raises it.
 | Hair erector muscles relax, hairs lie flat | Hair erector muscles contract, hairs trap air |
 | Vasodilation: skin arterioles widen, more heat lost by radiation | Vasoconstriction: skin arterioles narrow, less heat lost |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-control--05-skin-temperature.webp" width="900" height="1260" alt="Two skin cross-sections. Too hot: sweat glands secrete sweat that evaporates so heat is lost, and the arterioles widen (vasodilation) so more blood flows near the surface. Too cold: arterioles narrow (vasoconstriction), the hair erector muscles contract so the hairs stand up and trap air, and the muscles shiver to release heat. Hair, erector muscle, sweat gland, capillaries, arteriole, receptor, sensory neurone and fatty tissue are labelled; a banner notes the hypothalamus compares blood temperature with the 37 degree set point." loading="lazy">
+  <figcaption>The skin parts and what each does when the body is too hot or too cold.</figcaption>
+</figure>
+
+
 ## 14.6 Blood glucose control
 
 **Why:** steady glucose supply for respiration; too much lowers blood water potential.
@@ -143,6 +203,22 @@ Rise → response lowers it. Fall → response raises it.
 | Low | Glucagon | Glycogen → glucose (released) | Rises |
 
 **Type 1 diabetes:** signs = increased blood glucose concentration, glucose in urine. Treatment = administration of insulin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-control--07-glucose-after-meal.webp" width="900" height="810" alt="A graph of the lesson data: blood glucose in mg per 100 cm3 at 0, 30, 60, 90 and 120 minutes is 85, 135, 115, 95 and 85, with a dashed set point at 85. The rise of 50 is 58.8 percent (about 59 percent). Insulin makes the liver turn glucose into glycogen, so the level falls back to the set point." loading="lazy">
+  <figcaption>Blood glucose rises after a meal then returns to the set point as insulin acts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-control--04-type1-diabetes.webp" width="900" height="910" alt="Type 1 diabetes: the pancreas makes too little insulin; signs are high blood glucose and glucose in the urine; treatment is insulin, usually by injection." loading="lazy">
+  <figcaption>Type 1 diabetes in three steps: cause, signs, treatment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1290" alt="Extended. Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
+  <figcaption>Each response reverses the change, returning glucose towards the set point.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

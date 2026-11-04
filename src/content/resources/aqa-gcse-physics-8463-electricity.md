@@ -68,6 +68,12 @@ lists every specification point. To find your weak spots quickly, try a [free di
 Circuit diagrams use the standard symbols shown in the specification (cells, switches, resistors, lamps, diodes,
 sensors and meters). You must draw and interpret circuit diagrams with them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
+
 ### Charge and current
 
 For charge to flow round a closed circuit, the circuit must include a **source of potential difference**, such as
@@ -114,6 +120,12 @@ temperature**, and **combinations of resistors in series and parallel**. For the
 measured lengths, read V and I, and calculate R. Switch off between readings so the wire does not heat up and
 change its resistance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--01-measure-resistance.webp" width="900" height="1160" alt="A circuit of cell, closed switch, ammeter in series and a resistor with a voltmeter across it. The ammeter reads 0.25 A and the voltmeter 12 V, so R = V / I = 48 ohms. A wire with a movable crocodile clip shows required practical 3." loading="lazy">
+  <figcaption>Ammeter in series and voltmeter in parallel give V and I, and R = V / I.</figcaption>
+</figure>
+
+
 ### Resistors and I–V graphs
 
 | Component | I–V graph | What happens to resistance |
@@ -131,6 +143,17 @@ Two components change resistance with conditions:
 - **Thermistor:** resistance **decreases as temperature increases**. Used in thermostats.
 - **LDR (light-dependent resistor):** resistance **decreases as light intensity increases**. Used to switch lights
   on when it gets dark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--02-thermistor-ldr.webp" width="900" height="1220" alt="Two sketch graphs. Thermistor: resistance falls as temperature rises from 0 to 100 degrees Celsius. LDR: resistance falls from 5000 ohms in the dark to 500 ohms in bright light." loading="lazy">
+  <figcaption>Resistance of a thermistor falls as it gets hotter and of an LDR as it gets brighter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
+  <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
+</figure>
+
 
 ## 4.2.2 Series and parallel circuits
 
@@ -184,6 +207,17 @@ Dark:   R_total = 1000 + 5000 = 6000 Ω
 The pd across the LDR rises in the dark, so it can switch on a lamp. Treating the pair as one **equivalent
 resistance** (1500 Ω or 6000 Ω) gives the current first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--03-ldr-divider.webp" width="900" height="1060" alt="Two series circuits with a 6.0 V battery, a 1.0 kilohm resistor and an LDR with a voltmeter across the LDR. In bright light (500 ohm) the LDR has 2.0 V; in the dark (5.0 kilohm) it has 5.0 V and the resistor only 1.0 V." loading="lazy">
+  <figcaption>In the dark the LDR takes a bigger share of the supply pd.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
+
 ## 4.2.3 Domestic uses and safety
 
 **Direct pd (dc)** acts in one direction only, so the current always flows the same way, as from a cell or battery.
@@ -203,6 +237,12 @@ across it, so a current flows through you: an electric shock.
 
 **Live connected to earth.** This low-resistance path lets a very large current flow, which can cause a fire, or a
 shock if the path is through a person.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--03-mains-cable-safety.webp" width="900" height="1110" alt="A.c. reverses while d.c. flows one way; mains is 50 Hz so a cycle takes 20 ms. A three-core cable has brown live (about 230 V), blue neutral (about 0 V) and green and yellow earth (0 V). Touching a live wire gives a shock; live touching earth gives a very large current and a fire risk." loading="lazy">
+  <figcaption>Which wire carries what, and what goes wrong in the two fault cases.</figcaption>
+</figure>
+
 
 ## 4.2.4 Energy transfers
 
@@ -244,6 +284,12 @@ E = P t = 2300 × 180 = 414 000 J  (414 kJ)
 P = I² R = 0.20² × 150 = 0.040 × 150 = 6.0 W
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--04-kettle-energy.webp" width="900" height="940" alt="A 2.3 kW kettle on 230 V for 180 s: I = 10 A, R = 23 ohms, P = VI = I squared R = 2300 W, Q = It = 1800 C, and E = Pt = QV = 414 000 J." loading="lazy">
+  <figcaption>P = VI, P = I²R, Q = It, E = Pt and E = QV all give the same 414 kJ.</figcaption>
+</figure>
+
+
 ### The National Grid
 
 The National Grid is a system of **cables and transformers** linking power stations to consumers.
@@ -260,6 +306,12 @@ At 25 kV:  I = 1 000 000 ÷ 25 000 = 40 A;   loss = 40² × 5.0 = 8000 W
 At 400 kV: I = 1 000 000 ÷ 400 000 = 2.5 A; loss = 2.5² × 5.0 ≈ 31 W
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="880" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
+  <figcaption>Ten times the voltage means one tenth of the current and one hundredth of the heating loss.</figcaption>
+</figure>
+
+
 ## 4.2.5 Static electricity
 
 ### Static charge
@@ -275,6 +327,12 @@ and towards one with the opposite charge, without touching.
 **Sparking.** As charge builds up on an insulated object, the pd between it and a nearby earthed conductor
 increases and the electric field in the gap gets stronger. When it is strong enough, electrons jump the gap: a spark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--05-static-charge.webp" width="900" height="1150" alt="Rubbing moves electrons from the rod to the cloth, leaving the cloth negative and the rod positive. Hanging balls with the same charge swing apart and with opposite charges swing together. A charged insulated sphere sparks to an earthed sphere when the field in the gap is strong enough." loading="lazy">
+  <figcaption>Only electrons move; like charges repel, unlike attract, and a strong field in a gap gives a spark.</figcaption>
+</figure>
+
+
 ### Electric fields
 
 A charged object creates an **electric field** around itself, **strongest close to the object**. A second charged
@@ -283,6 +341,12 @@ object in the field feels a force, **stronger as the distance decreases**. This 
 For an isolated charged sphere, draw **straight radial lines** starting at the surface, evenly spaced. For a
 positive sphere the arrows point **outwards**; for a negative sphere they point **inwards**. The lines are closer
 together near the sphere, where the field is strongest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--04-sphere-field-lines.webp" width="900" height="810" alt="Two charged spheres each with twelve straight radial field lines. Arrows point out of the positive sphere and into the negative one. Lines are closest together near the sphere, where the field is strongest." loading="lazy">
+  <figcaption>Field lines of an isolated sphere are radial, outward for positive and inward for negative.</figcaption>
+</figure>
+
 
 ## Common errors
 

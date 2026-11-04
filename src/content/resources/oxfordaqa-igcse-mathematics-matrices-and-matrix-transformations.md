@@ -62,6 +62,12 @@ Take each row of the matrix in turn. Multiply it, entry by entry, with the colum
 
 The answer is (17 / 1).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--05-matrix-row-times-column.webp" width="900" height="925" alt="P = (2 1 / -3 4) and Q = (1 5 / 0 -2). The top-right entry of PQ uses row 1 of P and column 2 of Q: 2 × 5 + 1 × (-2) = 8. The top-left entry of QP uses row 1 of Q and column 1 of P: 1 × 2 + 5 × (-3) = -13. PQ and QP are different matrices." loading="lazy">
+  <figcaption>Each entry is a row of the left matrix times a column of the right matrix, so PQ and QP differ.</figcaption>
+</figure>
+
+
 ### Matrix times matrix
 
 Each entry of the answer is a row of the left matrix multiplied by a column of the right matrix. Row 1 with column 1 gives the top-left entry. Row 1 with column 2 gives the top-right entry, and so on.
@@ -132,6 +138,17 @@ M (1 / 0) = ( a )        M (0 / 1) = ( b )
 
 So the **first column** of M is where A(1, 0) goes, and the **second column** is where C(0, 1) goes. To build a matrix for a transformation, find the images of A and C and write them as columns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--01-matrix-read-columns.webp" width="900" height="810" alt="The unit square is rotated 90 degrees anticlockwise about the origin by the matrix (0 -1 / 1 0). A(1,0) lands on (0,1) and C(0,1) lands on (-1,0). The first column of the matrix is where A lands and the second column is where C lands." loading="lazy">
+  <figcaption>The columns of a 2 × 2 matrix are the images of A(1, 0) and C(0, 1).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--06-matrix-columns-are-images.webp" width="900" height="890" alt="The unit square and its image under the matrix (0 -1 / -1 0), reflection in y = -x. A(1, 0) goes to (0, -1), the first column, and C(0, 1) goes to (-1, 0), the second column." loading="lazy">
+  <figcaption>The columns of a transformation matrix are the images of A(1, 0) and C(0, 1).</figcaption>
+</figure>
+
+
 ### Building the standard matrices
 
 **Example 5.** Find the matrix for a rotation of 90° anticlockwise about the origin.
@@ -164,6 +181,12 @@ You do not have to memorise them blindly. Each one can be rebuilt in seconds fro
 
 For example, reflection in y = −x sends A(1, 0) to (0, −1) and C(0, 1) to (−1, 0). The columns are (0 / −1) and (−1 / 0), which gives (0 −1 / −1 0).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--02-matrix-standard-set.webp" width="900" height="1080" alt="Eight small grids show the unit square and its image for rotations of 90, 180 and 270 degrees, reflections in x = 0, y = 0, y = x and y = -x, and an enlargement of scale factor 2, each with its matrix. In every grid the first column of the matrix is where A lands and the second column is where C lands." loading="lazy">
+  <figcaption>Each standard matrix can be rebuilt from where A(1, 0) and C(0, 1) land.</figcaption>
+</figure>
+
+
 ### Transforming a shape
 
 **Example 6.** Triangle T has vertices (2, 1), (4, 1) and (4, 3). Reflect it in y = −x using matrix multiplication.
@@ -189,6 +212,12 @@ For example, reflection in y = −x sends A(1, 0) to (0, −1) and C(0, 1) to (�
 
 The image has vertices (−1, −2), (−1, −4) and (−3, −4). A quick check: each image point should be the original with the coordinates swapped and both signs changed, which is what reflection in y = −x does.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--03-matrix-transform-triangle.webp" width="900" height="1035" alt="Triangle T with vertices (2,1), (4,1) and (4,3) is reflected in the line y = -x by multiplying each vertex by the matrix (0 -1 / -1 0). The image has vertices (-1,-2), (-1,-4) and (-3,-4). Each vertex and its image are joined by a dashed line crossing the mirror at its midpoint." loading="lazy">
+  <figcaption>Multiplying each vertex by (0 −1 / −1 0) sends (x, y) to (−y, −x).</figcaption>
+</figure>
+
+
 ### Describing a transformation from its matrix
 
 **Example 7.** Describe the single transformation with matrix (−1 0 / 0 1).
@@ -202,6 +231,12 @@ For an enlargement matrix (k 0 / 0 k), the unit square becomes a square with sid
 **Example 8.** The unit square is enlarged and its image has A′ = (−3, 0) and C′ = (0, −3). Find the matrix.
 
 The columns are (−3 / 0) and (0 / −3), so the matrix is (−3 0 / 0 −3). This is an enlargement, scale factor −3, centre the origin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--09-matrix-enlargement-half-and-negative.webp" width="900" height="930" alt="With (1/2 0 / 0 1/2) the unit square becomes a smaller square of side 1/2. With (-3 0 / 0 -3) it becomes a square of side 3 on the other side of the origin, with A to (-3, 0) and C to (0, -3)." loading="lazy">
+  <figcaption>A fractional k shrinks the square; a negative k puts it on the opposite side of the origin.</figcaption>
+</figure>
+
 
 ## G26: Combining transformations
 
@@ -254,6 +289,22 @@ R² = RR = ( −1   0 )
 ```
 
 Two rotations of 90° make a rotation of 180°. A reflection done twice gives the identity matrix, because the second reflection undoes the first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--04-matrix-order-matters.webp" width="900" height="815" alt="The point (2,3) is reflected in y = 0 then rotated 90 degrees anticlockwise, ending at (3,2); the single matrix RM = (0 1 / 1 0) is a reflection in y = x. Doing the rotation first and the reflection second ends at (-3,-2); the single matrix MR = (0 -1 / -1 0) is a reflection in y = -x." loading="lazy">
+  <figcaption>Reversing the order of two transformations changes the single transformation, so BA means A is done first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--07-matrix-order-matters.webp" width="900" height="1280" alt="Point (2, 3). Reflecting in y = 0 then rotating 90 degrees gives (2, -3) then (3, 2), combined matrix RM = (0 1 / 1 0), reflection in y = x. Rotating first then reflecting gives (-3, 2) then (-3, -2), MR = (0 -1 / -1 0), reflection in y = -x." loading="lazy">
+  <figcaption>The same two transformations in a different order give different single transformations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--08-matrix-repeat-twice.webp" width="900" height="1200" alt="Top: rotating the unit square 90 degrees twice sends A(1, 0) to (0, 1) then (-1, 0); R squared = (-1 0 / 0 -1). Bottom: reflecting in y = 0 twice returns B to its start and M squared is the identity matrix." loading="lazy">
+  <figcaption>Repeating a transformation squares its matrix; reflecting twice gives the identity.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -75,6 +75,12 @@ The specification links this practical to designing a procedure, risk assessment
 
 **Evaluation.** The commonest problem is contamination. Sodium compounds are everywhere (fingers, dust, unwashed wire) and give a strong yellow colour that can swamp a weaker colour. Potassium's lilac is pale and is easily masked this way. A flame test also only works well for a single metal ion; if a solid contains two of these metals, one colour may hide the other. Repeating each test with a freshly cleaned wire makes the conclusion more reliable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-identification-of-ions--01-flame-test-procedure.webp" width="900" height="1048" alt="Four panels show cleaning a nichrome loop in dilute HCl and heating it, picking up the solid, holding the loop at the edge of the blue flame, and how sodium contamination turns a lilac result yellow. The loop is cleaned again between samples." loading="lazy">
+  <figcaption>How to carry out a flame test and why contamination hides pale colours.</figcaption>
+</figure>
+
+
 ### Worked example 1: reading flame test results
 
 A technician has five unlabelled bottles. Each holds a chloride of a different metal: lithium, sodium, potassium, calcium or barium. A student records these flame colours:
@@ -87,6 +93,12 @@ Identify each metal ion and name each compound.
 
 1. Match each colour to the table above. Green = barium; crimson = lithium; yellow = sodium; lilac = potassium; red = calcium.
 2. Write the names, with the negative ion as chloride: **V barium chloride, W lithium chloride, X sodium chloride, Y potassium chloride, Z calcium chloride**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-identification-of-ions--02-flame-test-colours-9202.webp" width="900" height="990" alt="Six flames: lithium crimson, sodium yellow, potassium lilac, calcium red, barium green; magnesium gives no characteristic colour. The colour depends on the metal ion." loading="lazy">
+  <figcaption>Flame colours as the specification words them, with crimson (Li) separated from red (Ca).</figcaption>
+</figure>
+
 
 ## 3.4.3 b and c: sodium hydroxide solution
 
@@ -124,6 +136,17 @@ A colourless solution of a nitrate gives a white precipitate with a few drops of
 
 Notice that two tests were needed. If one test leaves two possibilities, say which further test would decide between them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-identification-of-ions--03-hydroxide-test-al-ca-mg.webp" width="900" height="1086" alt="Six rows of test tubes: Al gives white precipitate that dissolves in excess; Ca and Mg give white that stays; Cu(II) blue, Fe(II) green, Fe(III) brown all stay. Ca and Mg are separated by flame test." loading="lazy">
+  <figcaption>Only aluminium hydroxide dissolves in excess sodium hydroxide; Ca and Mg need a flame test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--01-cations-naoh.webp" width="900" height="1132" alt="Test tubes show each of eight cations after a few drops of NaOH and in excess. Al, Zn dissolve to colourless; Ca, Cu, Fe(II), Fe(III) stay as precipitates (white, pale blue, green browning, red-brown); Cr(III) green precipitate dissolves. Ammonium gives no precipitate but releases ammonia on warming." loading="lazy">
+  <figcaption>Eight cations, two stages of NaOH: what you see in the tube.</figcaption>
+</figure>
+
+
 ## 3.4.3 d: carbonate ions
 
 Carbonates react with dilute acids to form carbon dioxide gas, along with a salt and water.
@@ -138,6 +161,12 @@ Fizzing alone is not enough: a reactive metal in acid also fizzes, giving hydrog
 A symbol equation, for copper(II) carbonate and dilute nitric acid:
 
 CuCO₃(s) + 2HNO₃(aq) → Cu(NO₃)₂(aq) + H₂O(l) + CO₂(g)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-identification-of-ions--05-carbonate-test.webp" width="900" height="950" alt="Dilute acid on a carbonate fizzes; the gas goes along a delivery tube into limewater, which turns cloudy white. Fizzing alone is not enough because metals in acid also fizz. Equation CuCO3 + 2HNO3 gives Cu(NO3)2 + H2O + CO2." loading="lazy">
+  <figcaption>Fizz, then confirm the gas as CO2 with limewater.</figcaption>
+</figure>
+
 
 ## 3.4.3 e: halide ions (chloride, bromide, iodide)
 
@@ -163,6 +192,12 @@ A white crystalline solid gives a crimson flame. A solution of it, acidified wit
 2. Cream silver halide precipitate: bromide ion, Br⁻.
 3. Li⁺ and Br⁻ have charges of +1 and −1, so they combine 1 : 1. The solid is **lithium bromide, LiBr**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-identification-of-ions--04-halide-sulfate-reagents.webp" width="900" height="870" alt="Halides: acidify with nitric acid then silver nitrate gives white, cream, yellow precipitates for chloride, bromide, iodide. Sulfate: acidify with hydrochloric acid then barium chloride gives a white precipitate. The acid choice avoids adding chloride or sulfate ions." loading="lazy">
+  <figcaption>Which acid and reagent to use for halides and sulfate, and what each result looks like.</figcaption>
+</figure>
+
+
 ## 3.4.3 f: sulfate ions
 
 1. To a solution of the unknown, add a few drops of **dilute hydrochloric acid**.
@@ -185,6 +220,12 @@ A student thinks a white powder is aluminium sulfate. Describe the tests that wo
 4. **Tube 3, ruling out a carbonate.** Add dilute hydrochloric acid: no fizzing, so no carbonate is present.
 
 Why separate tubes? If silver nitrate were added to the solution from tube 2, the chloride ions from the barium chloride and hydrochloric acid would give a white precipitate and suggest a chloride that was never in the powder.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-identification-of-ions--02-unknown-sulfate-three-tubes.webp" width="900" height="1048" alt="A dissolved white powder is split into three tubes. Sodium hydroxide gives a white precipitate that dissolves in excess (Al3+), HCl then BaCl2 gives a white precipitate (sulfate), and HCl alone gives no fizzing (no carbonate). Separate tubes stop chloride ions faking a silver nitrate result." loading="lazy">
+  <figcaption>One solution is split into three tubes, one test each, to confirm aluminium sulfate.</figcaption>
+</figure>
+
 
 ## Common errors
 

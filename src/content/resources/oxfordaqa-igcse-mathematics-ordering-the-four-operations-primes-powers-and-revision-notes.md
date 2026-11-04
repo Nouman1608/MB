@@ -48,6 +48,12 @@ Example: −5/6, −0.8, 3/5, 5/8 become −0.833..., −0.8, 0.6, 0.625. Order:
 
 Symbols: = equal, ≠ not equal, < less than, > greater than.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
+
 ## N2: Four operations
 
 | Operation | Rule |
@@ -72,6 +78,22 @@ Worked reminders:
 ```
 
 In context: decide whether the answer is a whole number of items (round down for "how many full") or an exact amount. Always include units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and--12-decimal-multiply-divide-shift.webp" width="900" height="960" alt="4.07 times 0.35: remove the points, 407 times 35 = 14 245, then put the point back with 4 decimal places to get 1.4245. 7.2 divided by 0.045: multiply both by 1000 to get 7200 divided by 45 = 160." loading="lazy">
+  <figcaption>Multiplying ignores the points then restores total decimal places; dividing scales both numbers until the divisor is whole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--05-ribbon-division.webp" width="900" height="830" alt="A ribbon 7 1/2 m long is drawn to scale on a ruler and cut into 12 numbered pieces of 5/8 m. The working 7 1/2 / 5/8 = 15/2 x 8/5 = 12 matches the count." loading="lazy">
+  <figcaption>Dividing by 5/8 counts how many 5/8 m pieces fit, and the answer is 12.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
 
 ## N3: Inverses and priority
 
@@ -118,6 +140,27 @@ Primality test: try the primes up to √n. 87 = 3 × 29, so 87 is not prime. 100
 
 Question wording: "at the same time again", "next together" mean LCM. "Largest size", "greatest number of identical groups" mean HCF.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and--06-lcm-machines-timeline.webp" width="900" height="740" alt="Two timelines from 0 to 120 minutes. Machine A is serviced every 15 minutes and machine B every 24 minutes. The first time after the start that both are serviced is 120 minutes, which is 2 hours. 15 = 3 × 5, 24 = 2 cubed × 3, so the LCM is 2 cubed × 3 × 5 = 120." loading="lazy">
+  <figcaption>“Next together” is the lowest common multiple: 120 minutes for every 15 and every 24.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and--07-hcf-lcm-index-powers.webp" width="900" height="740" alt="Tiles show the prime factors of 540 = 2² × 3³ × 5 and 756 = 2² × 3³ × 7. The HCF takes the lower number of tiles for each prime and gives 108. The LCM takes the higher number of tiles and gives 3780." loading="lazy">
+  <figcaption>Lower power of each prime gives the HCF; higher power gives the LCM.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and--08-primes-below-30.webp" width="900" height="796" alt="A grid of 1 to 30 with the ten primes highlighted. 1 is not prime and 2 is the only even prime. To test 91, divide by 2, 3, 5 and 7 (the primes up to just under its square root): only 7 divides, since 91 = 7 × 13, so 91 is not prime." loading="lazy">
+  <figcaption>To test n, divide by each prime up to √n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
+
 ## N5: Powers and roots
 
 | Base | Powers to remember |
@@ -135,6 +178,27 @@ Must-know distinctions:
 - ∛(−125) = −5, but √(−25) is not a real number.
 - √49 = 7 (positive root only). Solving x² = 49 gives x = 7 or x = −7.
 - 3⁴ = 81 means 3 × 3 × 3 × 3, not 3 × 4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and--13-powers-of-2-3-4-5-grid.webp" width="900" height="659" alt="Grid of the powers in the lesson: base 2 up to 1024, base 3 up to 729, base 4 up to 1024 and base 5 up to 3125, with 3 to the 4 = 81 highlighted and the fourth root of 81 = 3 shown as its undoing." loading="lazy">
+  <figcaption>The powers of 2, 3, 4 and 5 to learn, with a root undoing a power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and--14-roots-even-odd-graphs.webp" width="900" height="1150" alt="Graph of y = x squared: the line y = 144 crosses at x = 12 and x = -12, but a negative line never crosses, so an even root of a negative has no real value. Graph of y = x cubed crosses y = -125 at x = -5, so the cube root of -125 is -5." loading="lazy">
+  <figcaption>Even powers are never negative, so only odd roots of negatives exist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--01-squares-cubes.webp" width="900" height="940" alt="Squares of side 1 to 5 are drawn as grids with areas 1, 4, 9, 16, 25. Cubes of side 2, 3 and 4 are drawn from unit blocks, giving 8, 27 and 64. A root undoes a power by giving the side." loading="lazy">
+  <figcaption>A square of side n has n squared unit squares and a cube of side n has n cubed unit blocks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--02-negative-powers.webp" width="900" height="890" alt="Bars show (-2) to the powers 1 to 5: -2, 4, -8, 16, -32, alternating negative and positive. A second pair shows (-2)^4 = 16 but -2^4 = -16." loading="lazy">
+  <figcaption>Odd powers of a negative number are negative, even powers are positive, and brackets decide what is raised to the power.</figcaption>
+</figure>
+
 
 ## N10: Calculator use
 
@@ -176,6 +240,17 @@ Evaluate (√(49 − 13) − 2³) ÷ (−1/2).
 6 − 8 = −2
 −2 ÷ (−1/2) = −2 × (−2) = 4
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and--10-mixed-subtract-twelfths.webp" width="900" height="770" alt="Bar model: 2 and 3/4 is 33 twelfths, 1 and 5/6 is 22 twelfths, and taking 22 from 33 leaves 11 twelfths, so the answer is 11/12." loading="lazy">
+  <figcaption>Writing both mixed numbers in twelfths turns the subtraction into 33 - 22.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-ordering-the-four-operations-primes-powers-and--11-divide-mixed-numbers-flow.webp" width="900" height="740" alt="Minus 3 and 1/2 divided by 2 and 1/3: change to improper fractions (-7/2 divided by 7/3), flip and multiply (-7/2 times 3/7), cancel the 7s and get -3/2, which is -1 and 1/2." loading="lazy">
+  <figcaption>Divide mixed numbers by converting, flipping the second fraction, cancelling and multiplying.</figcaption>
+</figure>
+
 
 ## Quick checks before you move on
 

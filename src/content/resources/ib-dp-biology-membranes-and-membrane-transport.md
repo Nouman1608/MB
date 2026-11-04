@@ -50,6 +50,12 @@ A phospholipid is amphipathic. Its head is hydrophilic (it is attracted to water
 
 The tails make a hydrocarbon core that has no charge. Bulky molecules and any hydrophilic particle, such as an ion or a polar molecule, cannot enter that core easily, so the bilayer separates the aqueous solution inside a cell from the aqueous solution outside it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--01-bilayer-barrier.webp" width="900" height="1000" alt="A phospholipid with a hydrophilic head and two hydrophobic tails self-assembles into a bilayer in water with no energy input. In cross-section, oxygen and carbon dioxide pass through between the phospholipids. A sodium ion and a glucose molecule are stopped at the hydrophobic core." loading="lazy">
+  <figcaption>A bilayer lets small non-polar molecules through and blocks ions and polar molecules.</figcaption>
+</figure>
+
+
 ## B2.1.3: Simple diffusion
 Diffusion is the net movement of particles down a concentration gradient, high to low. In simple diffusion the particles pass directly between the phospholipids, with no protein involved and no ATP used. Oxygen and carbon dioxide are small and non-polar, so they dissolve in the hydrocarbon core and cross freely. In a respiring cell, oxygen is used up so it keeps diffusing in, and carbon dioxide is made so it diffuses out.
 
@@ -81,12 +87,29 @@ Step 3. The sign changes between 0.2 and 0.3. Assuming a straight line between t
 
 Step 4. Interpretation: at about 0.21 mol dm⁻³ the sucrose concentration outside matches the effective solute concentration in the potato cells, so there is no net water movement. Below it, water enters the cells and mass rises. Above it, water leaves and mass falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--04-osmosis-aquaporins.webp" width="900" height="1230" alt="A container is divided by a membrane the solute cannot cross: the left has 27 water molecules and 3 solute particles, the right 19 water molecules and 11 solute particles, and net water movement is left to right, towards higher solute concentration. A second panel shows water crossing a bare bilayer slowly and an aquaporin quickly, in single file, in the same direction." loading="lazy">
+  <figcaption>Water moves from lower to higher solute concentration, and aquaporins only make this faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--05-potato-no-change.webp" width="900" height="740" alt="Graph of percentage change in mass of potato cylinders against sucrose concentration from 0.0 to 0.5 mol per cubic decimetre: +17.1, +6.8, +1.0, minus 6.6, minus 11.7 and minus 15.7 percent. The line crosses zero at about 0.21 mol per cubic decimetre. Below that water enters and mass rises; above it water leaves and mass falls." loading="lazy">
+  <figcaption>Percentage change in mass crosses zero at about 0.21 mol dm-3 sucrose.</figcaption>
+</figure>
+
+
 ## B2.1.6 to B2.1.8: Channels, pumps and selectivity
 Channel proteins form a water-filled pore through the bilayer. Each type has a pore whose size, shape and charged lining fit one kind of ion, so only that ion can go through, and only while the channel is open. This is facilitated diffusion: movement down a concentration gradient through a protein, with no ATP.
 
 Pump proteins are different. A pump uses energy from ATP to move specific particles across the membrane, so it can move them against their concentration gradient. This is active transport.
 
 Selectivity is therefore a matter of which route a particle takes. Simple diffusion is not selective; it depends only on a particle's size and on whether it is hydrophobic or hydrophilic. Facilitated diffusion and active transport are selective, because each protein binds or admits only particular particles. A cell controls what crosses by changing which channels and pumps it has and whether channels are open.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--03-transport-routes.webp" width="900" height="1010" alt="Three panels. Simple diffusion moves particles directly through the bilayer down the gradient with no protein or ATP and is not selective. Facilitated diffusion moves ions down the gradient through a channel protein with no ATP and is selective. Active transport uses a pump and ATP to move particles against the gradient and is selective." loading="lazy">
+  <figcaption>The route a particle takes decides whether it needs a protein, uses ATP, and is selective.</figcaption>
+</figure>
+
 
 ## B2.1.10: The fluid mosaic model
 In this model the membrane is a fluid bilayer of phospholipids in which proteins are scattered like tiles in a mosaic. Phospholipids and many proteins can move sideways within their own layer. Be ready to sketch a flat cross-section that shows:
@@ -101,6 +124,12 @@ In this model the membrane is a fluid bilayer of phospholipids in which proteins
 A bilayer measures 17.5 mm across on a micrograph. Its real width is 7 nm.
 Magnification is image size divided by actual size, so both must be in one unit first: 17.5 mm = 17.5 × 10⁶ nm. Then 17.5 × 10⁶ ÷ 7 = 2.5 × 10⁶, so the magnification is ×2 500 000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--02-fluid-mosaic.webp" width="900" height="975" alt="Cross-section showing two rows of phospholipids with heads facing watery sides and tails facing each other, cholesterol between phospholipids, an integral protein spanning the bilayer, another embedded in the outer layer only, a peripheral protein on the inner surface, and a glycoprotein and glycolipid with carbohydrate chains on the outer surface only." loading="lazy">
+  <figcaption>The parts of the fluid mosaic model that the IB syllabus asks you to draw and label.</figcaption>
+</figure>
+
+
 ## B2.1.11 and B2.1.12: Fluidity and cholesterol (HL only)
 Fatty acid tails that are unsaturated have double bonds that put kinks in the chain. Kinked tails pack less tightly, so unsaturated fatty acids have lower melting points and the membrane stays fluid and flexible at the temperatures the cell experiences. Saturated tails are straight, pack closely and have higher melting points, giving stronger membranes at higher temperatures. Organisms can adjust their membrane composition to match their habitat. For example, cold-water fish tend to have a higher proportion of unsaturated fatty acids in their membranes than warm-water fish, which stops the membrane stiffening in the cold.
 
@@ -110,13 +139,36 @@ Cholesterol in animal cell membranes lies between phospholipids, with its small 
 Cells of a fish were kept at 5 °C or 25 °C and the percentage of unsaturated fatty acid chains in the membrane phospholipids was found. At 5 °C it was 58% and at 25 °C it was 41%.
 The difference is 58 − 41 = 17 percentage points. As a relative change from the 25 °C value: 17 ÷ 41 × 100 = 41.5% more unsaturated chains in the cold. Explanation: more kinked tails at 5 °C keep the bilayer fluid when low temperature would otherwise pack the tails together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--06-fluidity-cholesterol.webp" width="900" height="960" alt="Top: straight saturated tails pack tightly, while kinked unsaturated tails pack loosely and keep the membrane fluid. Bottom: cholesterol lies between phospholipids; at higher temperature it restricts phospholipid movement and stabilises the membrane, and at lower temperature it keeps tails apart so the membrane does not stiffen." loading="lazy">
+  <figcaption>Kinked tails and cholesterol keep the membrane fluid and stop it stiffening in the cold.</figcaption>
+</figure>
+
+
 ## B2.1.13: Fluidity and vesicles (HL only)
 A fluid membrane can bend, pinch off and merge with another membrane without leaking. In endocytosis a region of plasma membrane folds inwards and pinches off to make a vesicle that carries material into the cell; phagocytosis of a bacterium by a white blood cell is an example. In exocytosis a vesicle fuses with the plasma membrane and releases its contents outside; release of neurotransmitter at a synapse is an example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--07-vesicles.webp" width="900" height="1010" alt="Two rows of three steps. Endocytosis (phagocytosis of a bacterium): the membrane folds in around the bacterium and pinches off as a vesicle inside the cell. Exocytosis (neurotransmitter release): a vesicle arrives, fuses with the plasma membrane and releases its contents outside." loading="lazy">
+  <figcaption>A fluid membrane can fold, pinch off and fuse, giving endocytosis and exocytosis.</figcaption>
+</figure>
+
 
 ## B2.1.14 and B2.1.15: Neurons (HL only)
 Gated ion channels open or close in response to a signal. Nicotinic acetylcholine receptors are neurotransmitter-gated: when acetylcholine binds, the channel opens and cations flow through. Sodium and potassium channels in an axon are voltage-gated: they open or close as the membrane potential changes.
 
 The sodium-potassium pump is an exchange transporter. Each cycle uses one ATP to move three sodium ions out and two potassium ions in. This keeps sodium concentration low inside and potassium high, and because three positive charges leave for two that enter, it helps to make the inside of the neuron negative. That charge difference is the membrane potential.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--08-gated-channels.webp" width="900" height="1170" alt="Closed and open channels in two rows. A neurotransmitter-gated channel opens when acetylcholine binds and cations such as sodium flow through. A voltage-gated channel opens when the membrane potential changes and cations flow through." loading="lazy">
+  <figcaption>A signal, either a bound neurotransmitter or a change in voltage, opens the gate and cations flow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-membranes-and-membrane-transport--09-sodium-gradient.webp" width="900" height="910" alt="A membrane with a sodium-potassium pump that uses one ATP to move three sodium ions out and two potassium ions in, keeping sodium low inside. Beside it, a sodium-dependent glucose cotransporter lets sodium enter down its gradient and brings glucose in with it, even though glucose is already more concentrated inside." loading="lazy">
+  <figcaption>The pump builds the sodium gradient that the cotransporter uses to bring glucose in.</figcaption>
+</figure>
+
 
 ## B2.1.16: Cotransport of sodium and glucose (HL only)
 In indirect active transport, the energy comes from a gradient set up by a pump, not from ATP directly. A sodium-dependent glucose cotransporter lets sodium ions move into the cell down their gradient and uses that movement to bring glucose in with them, even when glucose is already more concentrated inside. This absorbs glucose in the small intestine and reabsorbs it from the filtrate in the nephron. Sodium-potassium pumps keep the sodium gradient going.

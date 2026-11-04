@@ -54,6 +54,12 @@ The total is 20, so the mean is 2.0 per day. That agrees with the model. The spr
 
 Strengths of a model: it is cheap, quick and can predict. Limits: it depends on its assumptions, and results outside the range of the data are unreliable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--07-extrapolation.webp" width="900" height="818" alt="A graph of the regression line y = 78 minus 2.4x for resting heart rate against weekly training hours. The data covered 2 to 10 hours, shown as a shaded band; the line is solid there and dashed outside. At 5 hours the prediction is 66 beats per minute, which is interpolation and reasonably reliable. At 30 hours the line gives 6 beats per minute, which is not credible, so predicting outside the data range is unreliable. The intercept 78 at x = 0 also lies outside the data." loading="lazy">
+  <figcaption>Predictions are reliable inside the range of the data and unreliable outside it.</figcaption>
+</figure>
+
+
 ## 2.1 Histograms
 
 <!-- marlbridge-diagram:maths-b25-cycling-histogram-frequency-density-interpolation -->
@@ -80,6 +86,12 @@ Classes need not have equal widths, which is why the vertical axis shows frequen
 | Frequency density | 0.9 | 2.8 | 4.0 | 2.4 | 0.65 |
 
 To estimate how many pupils took less than 18 minutes, assume values are spread evenly inside a class. Cumulative frequency to 15 is 9 + 14 = 23, and the part of the 15–20 bar up to 18 has area 3 × 4.0 = 12. So about 35 pupils took under 18 minutes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--01-histogram-area.webp" width="900" height="870" alt="A histogram of 70 puzzle times with unequal class widths. Bar heights are frequency densities: 0.8 for 0 to 10 minutes (frequency 8), 2.8 for 10 to 15 (14), 4.0 for 15 to 20 (20), 1.8 for 20 to 30 (18) and 0.5 for 30 to 50 (10). Area equals frequency, so the bar areas add to 70. The part of the histogram between 12 and 25 minutes is shaded: 3 times 2.8 is 8.4, 5 times 4.0 is 20 and 5 times 1.8 is 9, giving 37.4, so about 37 people, assuming times are spread evenly within each class." loading="lazy">
+  <figcaption>Frequency = frequency density times class width, so areas add up to the total frequency.</figcaption>
+</figure>
+
 
 ## 2.1 Stem and leaf diagrams and box plots
 
@@ -118,6 +130,12 @@ A **box plot** shows the minimum, Q1, median, Q3 and maximum on a scale. A box r
 
 **Comparing distributions.** Make one comment on location and one on spread, each with numbers and in context. Here P has the higher median (55 against 48), so P delivers more on a typical day. Q has the larger interquartile range (16 against 13), so Q is less consistent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--05-sample-variability.webp" width="900" height="955" alt="Three dot plots of one-way commuting times in minutes. Analyst A's random sample of 8 (18, 22, 25, 27, 30, 35, 38, 41) has mean 29.5. Analyst B's random sample of 8 (15, 17, 19, 20, 21, 24, 26, 33) has mean 21.9. Together the 16 values have mean 25.7. Triangles mark each mean. Both samples came from a fair method, so the 7.6 minute gap is sampling variability; combining the samples, or using larger ones, reduces it." loading="lazy">
+  <figcaption>Two fair random samples from the same firm give different means, so samples are only estimates.</figcaption>
+</figure>
+
+
 ## 2.2 Measures of location
 
 - **Mean** = Σx / n, or Σfx / Σf for a frequency table.
@@ -143,6 +161,12 @@ Q3 position 60 lies in 20–30 (43 before it):
 So the IQR is 27.08 − 13.93 = 13.15 minutes.
 
 **Drawing inferences.** The mean uses every value, so extreme values pull it. The median resists them. A mean much larger than the median suggests a few large values. No significance test is expected: describe what the numbers suggest, in context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--02-variance-squares.webp" width="900" height="1058" alt="Eight data values 2, 4, 4, 4, 5, 5, 7 and 9 are shown on a number line with their distances from the mean 5: minus 3, minus 1, minus 1, minus 1, 0, 0, plus 2 and plus 4. A square is drawn on each distance, with areas 9, 1, 1, 1, 0, 0, 4 and 16, which total 32. The mean of these areas is 32 divided by 8, which is 4: that is the variance. Its square root, the side of a square of area 4, is the standard deviation 2. The shortcut sum of x squared over n minus the mean squared gives 232 over 8 minus 25, which is also 4." loading="lazy">
+  <figcaption>Variance is the mean of the squared distances from the mean; the standard deviation is the side of that mean square.</figcaption>
+</figure>
+
 
 ## 2.3 Measures of dispersion
 
@@ -211,6 +235,12 @@ The value 84 is above 80.5, so it is an outlier. On the box plot, mark it with a
 | Mean and median | mean > median | about equal | mean < median |
 
 Courier Q: Q2 − Q1 = 5 and Q3 − Q2 = 11, and the mean 51.07 exceeds the median 48. Q's deliveries show positive skew.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--03-outlier-fence.webp" width="900" height="1103" alt="A dot plot and box plot of 12 apple masses in grams: 138, 142, 144, 146, 147, 149, 150, 151, 153, 155, 160 and 210. The lower quartile is 145, the upper quartile 154 and the interquartile range 9. The outlier fences are 145 minus 13.5, which is 131.5, and 154 plus 13.5, which is 167.5. The value 210 lies beyond the upper fence, so it is marked with a cross as a possible outlier, and the upper whisker stops at 160, the largest value inside the fence. A second chart compares standard deviations: 17.9 grams with all 12 values and 5.91 grams with 210 left out. The figure warns that a value should be removed only if it is an error or does not belong to the population." loading="lazy">
+  <figcaption>A value beyond Q3 + 1.5 x IQR is a possible outlier, but it is removed only if it is an error or not in the population.</figcaption>
+</figure>
+
 
 ## Common errors
 

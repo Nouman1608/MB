@@ -84,6 +84,17 @@ markets self-correct toward equilibrium in a competitive market, absent interven
   the most value — this is **allocative efficiency**. Producing at any other quantity, more or
   less, reduces total surplus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--04-ib-consumer-producer-surplus.webp" width="900" height="962" alt="Demand and supply meet at price 7 and quantity 50. The triangle below demand and above price is consumer surplus (125); the triangle above supply and below price is producer surplus (125). Together they make social surplus of 250." loading="lazy">
+  <figcaption>Consumer surplus plus producer surplus equals social surplus, shown as areas on the equilibrium diagram.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--05-ib-allocative-efficiency.webp" width="900" height="1022" alt="Demand is marginal benefit and supply is marginal cost. At output 30 MB (9) exceeds MC (5); at output 70 MC (9) exceeds MB (5); each loses 40 of surplus. Social surplus is highest, 250, at output 50 where MB equals MC." loading="lazy">
+  <figcaption>Producing more or less than the equilibrium quantity destroys social surplus; only MB = MC is allocatively efficient.</figcaption>
+</figure>
+
+
 ## The functions of the price mechanism
 
 Once equilibrium is established, the price mechanism performs three linked functions worth
@@ -97,6 +108,12 @@ These three functions work together automatically in a competitive market — no
 plans them — which is precisely the feature evaluative essay questions often ask you to assess
 against alternative allocation mechanisms, such as government-planned allocation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--01-ib-price-mechanism-functions.webp" width="900" height="1102" alt="A demand rise creates a shortage at the old price (70 demanded, 50 supplied); price rises from 7 to 8 until 60 units clear. Three icons show signalling (higher price signals demand is up), incentive (sellers supply more, buyers want less) and rationing (goods go to those willing and able to pay)." loading="lazy">
+  <figcaption>A price change performs three linked functions without central planning: signalling, incentive and rationing.</figcaption>
+</figure>
+
+
 ## How a shift changes equilibrium
 
 When a determinant other than price changes, the whole curve shifts and a **new equilibrium** is
@@ -105,6 +122,17 @@ established at the point where the new curve intersects the other (unchanged) cu
 - A rightward (outward) shift of demand, with supply unchanged, raises both equilibrium price and equilibrium quantity.
 - A rightward shift of supply, with demand unchanged, lowers equilibrium price but raises equilibrium quantity.
 - If both curves shift simultaneously, the direction of the change in price or quantity can become ambiguous without more specific information — a common higher-mark question tests exactly this ambiguity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--02-ib-single-shift-equilibrium.webp" width="900" height="1160" alt="Four small diagrams show demand rising, demand falling, supply rising and supply falling, with the original curve dashed. Demand rising raises price and quantity; demand falling lowers both; supply rising lowers price and raises quantity; supply falling raises price and lowers quantity." loading="lazy">
+  <figcaption>A shift of one curve moves equilibrium along the other, unchanged curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--03-ib-both-curves-shift.webp" width="900" height="890" alt="Two diagrams where demand and supply both shift right. If demand shifts further, price rises; if supply shifts further, price falls. Quantity rises either way, and equal shifts leave price unchanged at 7." loading="lazy">
+  <figcaption>When both curves shift, the direction of the price change depends on the relative size of the shifts.</figcaption>
+</figure>
+
 
 ## A first look at price ceilings
 

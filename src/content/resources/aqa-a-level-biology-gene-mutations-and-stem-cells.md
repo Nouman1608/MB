@@ -61,6 +61,12 @@ A change to one triplet has one of three outcomes: it still specifies the origin
 
 If an amino acid changes, the primary structure changes. Different R groups can form different hydrogen, ionic or disulfide bonds, so the tertiary structure may alter. For an enzyme, a change in the shape of the active site means the substrate may no longer fit. See [biological molecules](/resources/aqa-a-level-biology-biological-molecules/) for protein structure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--02-mutation-effects.webp" width="900" height="1110" alt="The mRNA AUG CUU GGC ACC AAG GAU CGU UAG is read in triplets. A silent change (CUU to CUC) keeps Leu, a missense change (CUU to CCU) gives Pro, a nonsense change (AAG to UAG) stops the chain after four amino acids, one added G causes a frame shift so every later amino acid changes, and deleting three bases keeps the frame and loses only Leu." loading="lazy">
+  <figcaption>Silent, missense, nonsense, frame shift and in-frame deletion followed through one mRNA.</figcaption>
+</figure>
+
+
 ### Worked example 1: substitutions
 
 The mRNA transcribed from a gene is AUG CUU GGC ACC AAG GAU CGU UAG. Codon data supplied: AUG Met; CUU, CUC and CUG Leu; CCU Pro; GGC Gly; ACC Thr; AAG Lys; GAU Asp; CGU Arg; UAG and UAA stop.
@@ -99,12 +105,44 @@ In the inversion, the section CTTGGC has been turned round, so the strand now re
 
 A **translocation** moves a section of bases. At the old site the effect is like a deletion; at the new site it is like an addition. If the moved section is not a multiple of three bases, a frame shift can follow at each site that lies inside a gene. Translocation may also affect other genes at the new location.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
+  <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
+
 ### Which mutations are worst?
 
 - A substitution changes one triplet at most, so it has the smallest effect on average.
 - Additions, deletions and duplications that are not a multiple of three cause a frame shift and usually the largest change.
 - Inversions change several triplets but keep the length.
 - A change to a stop codon anywhere early gives a short polypeptide that is unlikely to function.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--01-mutation-types.webp" width="900" height="1108" alt="The same nine-base gene ATGCTTGGC is shown after each mutation with changed bases in gold and lost bases as dashed boxes. Substitution keeps nine bases, addition gives ten, deletion eight, duplication of GGC twelve, inversion of the last six bases (reads GCCAAG) keeps nine, and translocation moves CTT to the other end. OCR names only substitution, insertion and deletion." loading="lazy">
+  <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--03-lac-operon.webp" width="900" height="960" alt="Two panels show lacI (separate repressor gene), promoter, operator, lacZ and lacY. With no lactose the repressor sits on the operator and blocks RNA polymerase so the genes are off. With lactose present, lactose binds the repressor and changes its shape, it leaves the operator, RNA polymerase makes mRNA and the enzymes are made." loading="lazy">
+  <figcaption>The lac operon with and without lactose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--04-oestrogen-transcription-factor.webp" width="900" height="1060" alt="Oestrogen diffuses through the cell-surface membrane, binds a receptor in the cytoplasm to form a complex, the complex enters the nucleus through a nuclear pore, binds a base sequence next to the target gene, and RNA polymerase can then make mRNA." loading="lazy">
+  <figcaption>Five steps by which oestrogen acts as a transcription factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
+  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--07-alternative-splicing.webp" width="900" height="970" alt="A pre-mRNA with five exons of 90, 60, 105, 45 and 72 nucleotides is spliced so introns are removed and exons joined. Keeping exon 1, exon 5 and one of exons 2, 3 or 4 gives mRNAs coding for 73, 88 and 68 amino acids." loading="lazy">
+  <figcaption>Alternative splicing gives three polypeptides from one gene.</figcaption>
+</figure>
+
 
 ## 3.8.2.1 Stem cells and cell potency
 
@@ -152,6 +190,12 @@ Growth of a whole plant from a small piece shows that many plant cells keep the 
 | iPS cells | No embryo needed; made from the patient's own cells, so little risk of rejection; pluripotent | Reprogramming is inefficient; may form tumours; long-term safety still being studied |
 
 **Worked example 5.** A trial gives a stem cell therapy to 80 patients, and 52 improve. A control group of 80 receives standard care, and 32 improve. Percentage improved: 52 ÷ 80 × 100 = **65%** against 32 ÷ 80 × 100 = **40%**, a difference of 25 percentage points. To evaluate, add: group sizes are equal but small; how patients were allocated; how long they were followed; whether side effects (such as tumours) were recorded; and whether the result has been repeated. Then reach a judgement, for example "promising, but not yet enough to show long-term benefit and safety".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--08-stem-cell-potency.webp" width="900" height="1230" alt="A zygote divides into a solid morula, then a hollow blastocyst with trophoblast, cavity and inner cell mass (Edexcel). Four bars narrow from totipotent (any cell type and placenta) through pluripotent and multipotent to unipotent (one cell type). Treating an adult skin cell with transcription factors makes an induced pluripotent stem cell (AQA)." loading="lazy">
+  <figcaption>Potency from totipotent to unipotent, the early embryo, and iPS cells.</figcaption>
+</figure>
+
 
 ## Common errors
 

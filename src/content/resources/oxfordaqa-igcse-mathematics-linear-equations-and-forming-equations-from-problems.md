@@ -100,6 +100,17 @@ x = −2
 
 The bracket (x − 4) is subtracted, so its minus sign changes both terms inside. Check: (−3)/3 − (−6)/2 = −1 + 3 = 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--01-clear-fractions-times-6.webp" width="900" height="900" alt="(2x + 1)/3 minus (x - 4)/2 equals 2. Multiply every term by 6 to get 2(2x + 1) minus 3(x - 4) equals 12. Expanding flips both signs of the bracket, giving x + 14 = 12, so x = -2, and the check gives 2." loading="lazy">
+  <figcaption>Clear fractions by multiplying every term, and flip both signs when subtracting a bracket.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--01-equation-balance.webp" width="900" height="1170" alt="A balance holds two x-bags and three 1-blocks on one side and eleven 1-blocks on the other. Taking three from both sides, then halving both sides, leaves one x-bag against four blocks, so x = 4. Whatever is done to one side is done to the other." loading="lazy">
+  <figcaption>Do the same to both sides and the equation stays balanced.</figcaption>
+</figure>
+
+
 ## 2. Approximate solutions from a graph (A19)
 
 An equation can be solved by drawing a graph for each side and reading the x-coordinate where the two graphs meet. Because you are reading a scale, the answer is approximate. Say "x ≈ 2.3" and give it to the accuracy the scale allows.
@@ -135,6 +146,17 @@ At x = 2 the first line is above the second (2 against 1). At x = 3 it is below 
 Solving algebraically gives 3x = 7, so x = 7/3 ≈ 2.33. The two agree, which is a useful check on a graph question that also asks for the algebra.
 
 A shortcut: to solve 3x − 5 = 4 from the graph of y = 3x − 5, draw the horizontal line y = 4 and read the x-coordinate where it meets the graph. The graph meets y = 4 at x = 3. To solve 3x − 5 = 0, read where the graph meets the x-axis: x = 5/3 ≈ 1.7.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--04-solve-by-graph-crossing.webp" width="900" height="950" alt="Graph of y = 4 - x and y = 2x - 3 crossing at x = 7/3. A dashed line drops to the x-axis at about 2.3; the solution is the x-value, not the y-value." loading="lazy">
+  <figcaption>Solve 4 - x = 2x - 3 by reading the x-coordinate of the crossing point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--03-linear-intersection.webp" width="900" height="970" alt="Graphs of y = 5 - 2x and y = 3(x + 7) cross at x = -3.2, y = 11.4, the solution of the equation." loading="lazy">
+  <figcaption>The solution of an equation is the x where both sides have the same value.</figcaption>
+</figure>
+
 
 ## 3. Translating situations into expressions and formulae (A22)
 
@@ -193,6 +215,17 @@ x = 7
 
 Length = 3(7) − 2 = 19 cm and width = 7 + 4 = 11 cm. Check: 2(19 + 11) = 60.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--02-triangle-angles-equation.webp" width="900" height="940" alt="A triangle drawn to scale with angles (2x + 10), (3x - 5) and (x + 25) degrees. They sum to 180, so 6x + 30 = 180, x = 25 and the angles are 60, 70 and 50 degrees." loading="lazy">
+  <figcaption>Angles in a triangle give the equation 6x + 30 = 180.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--03-rectangle-perimeter-equation.webp" width="900" height="850" alt="A rectangle drawn to scale, length (3x - 2) cm and width (x + 4) cm, perimeter 60 cm. 2[(3x - 2) + (x + 4)] = 60 gives x = 7, so it is 19 cm by 11 cm." loading="lazy">
+  <figcaption>Perimeter is twice (length + width), which gives an equation in x.</figcaption>
+</figure>
+
+
 ### Problems set in context
 
 Worked example 9 (comparing costs). Shop A hires out a bike for a £15 deposit plus £6 per day. Shop B charges £9 per day with no deposit. For how many days is the total cost the same?
@@ -218,6 +251,17 @@ x = 35
 ```
 
 The numbers are 35, 37 and 39. Check: 35 + 37 + 39 = 111.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--05-bike-hire-crossover.webp" width="900" height="950" alt="Graph of cost against days for Shop A (15 + 6d) and Shop B (9d). They cross at 5 days and 45 pounds; B is cheaper before, A after." loading="lazy">
+  <figcaption>Worked example 9: the equation 15 + 6d = 9d is where the two cost lines meet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--04-consecutive-odd-numbers.webp" width="900" height="780" alt="A number line with 35, 37 and 39 marked as x, x + 2 and x + 4, with steps of 2, and a bar showing 35 + 37 + 39 = 111, so 3x + 6 = 111 and x = 35." loading="lazy">
+  <figcaption>Consecutive odd numbers differ by 2, so they are x, x + 2 and x + 4.</figcaption>
+</figure>
+
 
 ### Interpreting the solution
 
@@ -251,6 +295,17 @@ c = 7.50
 Substitute into (2): a + 37.50 = 49.50, so a = 12.
 
 An adult ticket costs £12 and a child ticket costs £7.50. Check in (1): 24 + 22.50 = 46.50.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--05-ticket-prices-two-lines.webp" width="900" height="860" alt="Graph of 2a + 3c = 46.50 and a + 5c = 49.50 with adult price a across and child price c up. They cross at a = 12, c = 7.50, so an adult ticket is 12 pounds and a child ticket 7.50 pounds." loading="lazy">
+  <figcaption>Each fact is a line; the ticket prices are where the two lines cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
 
 ## Common errors
 

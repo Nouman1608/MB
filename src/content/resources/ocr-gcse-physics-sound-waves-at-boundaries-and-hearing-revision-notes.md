@@ -58,6 +58,12 @@ These notes condense statements P5.1f to P5.1i of the OCR GCSE (9-1) Gateway Sci
 
 **Another direction.** A note has wavelength 2.5 m in water, where the speed is 1480 m/s. Frequency = 1480 / 2.5 = 592 Hz. In air, λ = 340 / 592 = 0.57 m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--06-sound-boundary-wavelength.webp" width="900" height="790" alt="A sine wave crosses from air into water. The wavelength grows from 0.80 m to about 3.5 m while the frequency stays at 425 Hz, because the speed rises 4.35 times." loading="lazy">
+  <figcaption>At a boundary the frequency stays fixed, so a faster speed means a longer wavelength.</figcaption>
+</figure>
+
+
 ## P5.1g: interfaces
 
 | Effect | Meaning | Where the energy goes |
@@ -75,6 +81,32 @@ These notes condense statements P5.1f to P5.1i of the OCR GCSE (9-1) Gateway Sci
 **Sonar.** A pulse is sent through water and the echo is timed. Depth or distance = (speed × time) / 2. The halving is for the return journey.
 
 **Worked reminder.** Echo from the seabed after 0.68 s, speed in water 1500 m/s. Distance there and back = 1500 × 0.68 = 1020 m. Depth = **510 m**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--07-sound-interface-three-effects.webp" width="900" height="680" alt="A wave meets an interface between two materials. Part is reflected as an echo, part is transmitted with a new speed and wavelength, and part is absorbed and warms the second material." loading="lazy">
+  <figcaption>At an interface a wave can be reflected, transmitted and absorbed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--05-ultrasound-echo-depth.webp" width="900" height="760" alt="A probe on the skin sends a 2.5 MHz pulse into soft tissue where the speed is 1540 m/s. The echo returns after 78 microseconds. The wavelength is 0.62 mm, the distance there and back is 0.12 m, so the boundary is half of that, 6.0 cm deep." loading="lazy">
+  <figcaption>Echo time gives depth: distance there and back is speed x time, and the depth is half of it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--06-ultrasound-gel-air-gap.webp" width="900" height="760" alt="Two drawings of a probe on the body. With an air gap almost all of the pulse is reflected straight back and very little enters the body. With gel filling the gap the pulse passes into the body and echoes return from deeper boundaries." loading="lazy">
+  <figcaption>Gel removes the air gap so the ultrasound can enter the body instead of reflecting at the surface.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <figcaption>Depth = speed x time / 2, because the pulse travels there and back.</figcaption>
+</figure>
+
 
 ## P5.1h: converting sound and vibrations in solids
 
@@ -98,6 +130,12 @@ Sound (a pressure wave in air) makes a solid surface vibrate. A vibrating solid 
 
 Only a simple structure of the ear is expected, so you do not need to name the individual ossicles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--08-ear-conversion-chain.webp" width="900" height="1010" alt="Five steps: the outer ear collects sound, the eardrum vibrates, three ossicles pass the vibration on, the cochlea turns it into a pressure wave in fluid, and hair cells send electrical signals along the auditory nerve." loading="lazy">
+  <figcaption>In the ear, a sound wave becomes vibrations, a fluid wave and then nerve signals.</figcaption>
+</figure>
+
+
 ## P5.1i: limited range and human hearing
 
 **Why the range is limited**
@@ -115,6 +153,12 @@ Only a simple structure of the ear is expected, so you do not need to name the i
 - With age, the upper limit falls first. Hair cell damage and long-term exposure to loud noise contribute.
 
 **Worked reminder.** Wavelength of a 20 kHz sound in air at 340 m/s: 340 / 20 000 = 0.017 m. A 20 Hz sound: 340 / 20 = 17 m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--09-hearing-range.webp" width="900" height="700" alt="On a log frequency axis a young listener hears 20 Hz to 20 kHz, with infrasound below and ultrasound above. In air the wavelengths are 17 m and 1.7 cm. With the upper limit at 14 kHz a 16 kHz tone is not heard." loading="lazy">
+  <figcaption>Human hearing spans about 20 Hz to 20 kHz, and the top end falls with age.</figcaption>
+</figure>
+
 
 ## Model sentences to learn
 

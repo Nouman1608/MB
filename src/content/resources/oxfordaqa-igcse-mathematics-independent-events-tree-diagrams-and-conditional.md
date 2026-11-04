@@ -72,6 +72,12 @@ Notice the pattern in part (c). Each way is a product, and the separate ways are
 
 You can check whether two events are independent. Multiply P(A) by P(B), then see whether the result matches P(A ∩ B). A match means independent. No match means not independent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional--04-p-independence-test.webp" width="900" height="1020" alt="Two unit squares showing the overlap area P(A) times P(B) beside the given P(A and B). C and D: 0.15 equals 0.15, independent. E and F: 0.15 does not equal 0.2, not independent." loading="lazy">
+  <figcaption>A and B are independent only when P(A) × P(B) equals the given P(A ∩ B).</figcaption>
+</figure>
+
+
 ### Worked example 2: is it independent?
 
 For events C and D, P(C) = 0.25, P(D) = 0.6 and P(C ∩ D) = 0.15. For events E and F, P(E) = 0.3, P(F) = 0.5 and P(E ∩ F) = 0.2.
@@ -85,6 +91,12 @@ E and F: 0.3 × 0.5 = 0.15, which is not equal to 0.2.
 ```
 
 Always show the product and the comparison. A bare "yes" or "no" does not show your reasoning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional--05-p-two-alarms-areas.webp" width="900" height="970" alt="A unit square split by clock 1 (0.9 on time) and clock 2 (0.85 on time) into four regions: both 0.765, clock 1 only 0.135, clock 2 only 0.085, neither 0.015. Exactly one is 0.22 and at least one is 1 minus 0.015 = 0.985." loading="lazy">
+  <figcaption>Multiplying probabilities for independent events gives the four regions 0.765, 0.135, 0.085 and 0.015.</figcaption>
+</figure>
+
 
 ## Tree diagrams
 
@@ -113,6 +125,32 @@ The four path probabilities add to 1. That is a quick check on your tree.
 ### With replacement
 
 If an item is put back, the second stage has the same probabilities as the first. The two stages are independent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional--06-u-tree-sweets.webp" width="900" height="890" alt="Two-stage tree for 6 mint and 4 fruit sweets put back each time. Paths: MM 9/25, MF 6/25, FM 6/25, FF 4/25. Same flavour 13/25, different 12/25." loading="lazy">
+  <figcaption>With replacement, both stages use 3/5 and 2/5: same flavour is 13/25, different is 12/25.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional--07-u-tree-pens.webp" width="900" height="960" alt="Tree for 7 blue and 5 yellow pens kept out. Paths: BB 42/132, BY 35/132, YB 35/132, YY 20/132. Both blue 7/22, different 35/66, at least one blue 28/33." loading="lazy">
+  <figcaption>Without replacement the second-stage fractions change: both blue is 7/22, at least one blue is 28/33.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional--08-u-reverse-pens-grid.webp" width="900" height="792" alt="A 12 by 12 grid of ordered pen pairs with the 12 same-pen cells empty, leaving 132. The 7 blue-second columns hold 77 cells, 42 with a blue first pen, so the probability is 42/77 = 6/11." loading="lazy">
+  <figcaption>Of the 77 equally likely cells with a blue second pen, 42 have a blue first pen: 42/77 = 6/11.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--02-tree-with-replacement.webp" width="900" height="1070" alt="Bag of 5 red and 3 blue, two draws with replacement. Branches are 5/8 and 3/8 both times; ends RR 25/64, RB 15/64, BR 15/64, BB 9/64. One of each is 15/64+15/64 = 15/32." loading="lazy">
+  <figcaption>With replacement the second branches repeat the first; multiply along paths and add the paths you want.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--03-tree-without-replacement.webp" width="900" height="1020" alt="Same bag, first counter not replaced. After a red, 4 red and 3 blue remain (4/7, 3/7); after a blue, 5 red and 2 blue remain (5/7, 2/7). Both red is 5/8 x 4/7 = 5/14." loading="lazy">
+  <figcaption>Without replacement the second branches change because the bag has one fewer counter.</figcaption>
+</figure>
+
 
 ### Worked example 3: sweets with replacement
 
@@ -173,6 +211,12 @@ Stage 2 after a yellow: P(blue) = 7/11, P(yellow) = 4/11
 
 A tree can have three stages. You multiply along three branches instead of two, and the idea does not change. For "at least one", the complement is usually quicker than listing every path.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional--07-p-three-day-tree.webp" width="900" height="914" alt="A three-stage tree with eight paths for a train late with probability 0.2 on each of three days. The three paths with exactly one late day are highlighted at 0.128 each, giving 0.384; never late is 0.512." loading="lazy">
+  <figcaption>Three stages multiply along three branches; exactly one late day can happen in three ways.</figcaption>
+</figure>
+
+
 ### Worked example 5: three days
 
 A commuter's train is late on any day with probability 0.2, independently of other days. Find the probability that over three days
@@ -195,6 +239,12 @@ A commuter's train is late on any day with probability 0.2, independently of oth
 
 The specification says "tree diagrams and other representations". The most useful other representation is a **two-way table**, which also works well for conditional probability. A sample space grid works for two independent events with equally likely outcomes. Choose whichever layout lets you see every outcome once.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--01-two-dice-sample-space.webp" width="900" height="925" alt="A 6 by 6 grid with die faces along both edges; each cell shows the total. The six cells totalling 7 form a diagonal and are highlighted, giving 6 out of 36 = 1/6." loading="lazy">
+  <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
+</figure>
+
+
 ## Conditional probability
 
 A **conditional probability** measures how likely an event is once you know another event has already taken place. The word "given" or the phrase "given that" is the signal.
@@ -208,6 +258,12 @@ Write P(A | B) for "the probability of A given B". The given event B becomes you
 In probability terms this is P(A | B) = P(A ∩ B) ÷ P(B). Both forms give the same answer.
 
 ### From a two-way table
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
+  <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
+</figure>
+
 
 ### Worked example 6: travel to school
 
@@ -238,6 +294,12 @@ The order matters. P(Year 10 | walk) is 5/8, but P(walk | Year 10) = 25/55 = 5/1
 ### From a tree diagram
 
 On a tree for dependent stages, the second-stage branches already show conditional probabilities. For example, the branch from "rain" to "late" carries P(late | rain).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-independent-events-tree-diagrams-and-conditional--06-p-reverse-tree-rain-late.webp" width="900" height="820" alt="A tree for rain (0.3) and the train being late (0.5 after rain, 0.1 without). The late paths 0.15 and 0.07 are highlighted and a bar of 0.22 shows the rain share, so P(rain | late) = 15/22." loading="lazy">
+  <figcaption>P(rain | late) is the rain share of all the paths that end in late: 0.15 out of 0.22.</figcaption>
+</figure>
+
 
 ### Worked example 7: weather and a late train
 
@@ -280,6 +342,12 @@ P(first blue | second blue) = 42/132 ÷ 77/132 = 42/77 = 6/11
 ```
 
 The answer 6/11 matches the direct reasoning: once the second pen is known to be blue, the other 11 pens hold 6 blue ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--04-conditional-venn.webp" width="900" height="910" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
+  <figcaption>Given a condition, only the part of the diagram that satisfies it counts.</figcaption>
+</figure>
+
 
 ## Common errors
 

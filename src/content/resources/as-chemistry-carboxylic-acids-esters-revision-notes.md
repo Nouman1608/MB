@@ -62,6 +62,27 @@ nitrile + dilute HCl(aq), reflux          ->  carboxylic acid (same number of ca
 
 **Reduction:** LiAlH₄ in dry ether gives a **primary alcohol** — CH₃COOH + 4[H] → CH₃CH₂OH + H₂O. NaBH₄ will not work; LiAlH₄ is the stronger reducing agent, needed because a carboxylic acid is harder to reduce than an aldehyde or ketone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-carboxylic-acids-esters-revision-notes--02-carboxylate-delocalisation.webp" width="900" height="1010" alt="The ethanoate ion is drawn as two resonance forms, with the negative charge on one oxygen or the other, equal to a hybrid in which each oxygen carries half a negative charge. Below, the ethoxide ion has all the charge on a single oxygen, so it is not stabilised and an alcohol is not acidic." loading="lazy">
+  <figcaption>Delocalising the charge over two oxygens stabilises the carboxylate ion; an alkoxide cannot do this.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-carboxylic-acids-esters-revision-notes--03-nitrile-carbon-count.webp" width="900" height="1130" alt="Bromomethane (1 carbon) reacts with cyanide to add one carbon, giving ethanenitrile (2 carbons) whose nitrile carbon is highlighted. Refluxing with dilute hydrochloric acid turns that carbon into the carboxyl carbon of ethanoic acid, which still has 2 carbons." loading="lazy">
+  <figcaption>The carbon is added at the cyanide step; nitrile hydrolysis keeps the count.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--03-acid-carbonate-test.webp" width="900" height="950" alt="Ethanoic acid reacts with calcium carbonate in a test tube and carbon dioxide bubbles pass along a delivery tube into limewater, which turns cloudy. The balanced equation needs two acid molecules for each carbonate, and the acid is only partly ionised." loading="lazy">
+  <figcaption>A weak carboxylic acid still releases CO2 from carbonates; limewater turns cloudy. All boards.</figcaption>
+</figure>
+
+
 ## Esters
 
 **Esterification:**
@@ -75,6 +96,22 @@ carboxylic acid + alcohol, conc. H2SO4 catalyst, reflux  <=>  ester + water
 **Naming:** the **alcohol part first**, then the acid part. Ethanol + propanoic acid gives **ethyl propanoate**. Getting the order backwards is a frequent error — the part from the alcohol supplies the alkyl name.
 
 **A Level extension:** acyl chlorides (Topic 33, not examined at AS) offer a faster route to esters — an acyl chloride plus an alcohol reacts rapidly, irreversibly and near-quantitatively at room temperature, releasing HCl. See the [Carboxylic Acids and Acyl Chlorides study guide](/resources/a-carboxylic-acids-and-acyl-chlorides/) for the full A Level treatment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--04-esterification.webp" width="900" height="1120" alt="Propanoic acid and ethanol react with a concentrated sulfuric acid catalyst and heat to give ethyl propanoate and water in an equilibrium. The OH from the acid and the H from the alcohol are ringed. A bar chart shows 6.63 g collected against a 10.2 g maximum, a 65.0 percent yield." loading="lazy">
+  <figcaption>Acid plus alcohol is reversible, so the yield is below 100 percent. All boards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--01-acid-ester-names.webp" width="900" height="1180" alt="Propanoic acid is drawn with its carbons numbered from the COOH carbon. Ethyl propanoate and methyl methanoate are drawn with the acid part in teal and the alcohol part in gold. The alcohol part is named first, then the acid part ending -oate." loading="lazy">
+  <figcaption>An ester name has two words: the alcohol part (alkyl) first, then the acid part ending -oate. All boards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--05-ester-hydrolysis.webp" width="900" height="1160" alt="Ethyl propanoate hydrolysed with dilute acid and water gives propanoic acid and ethanol in a reversible reaction. With sodium hydroxide solution it goes to completion giving sodium propanoate and ethanol, because the carboxylate ion cannot re-form the ester." loading="lazy">
+  <figcaption>Acid hydrolysis is reversible; alkaline hydrolysis goes to completion and gives a salt. All boards.</figcaption>
+</figure>
+
 
 ## Hydrolysis of esters
 
@@ -126,3 +163,9 @@ Esters are **volatile with pleasant, fruity smells**, so they are used in flavou
 6. Write the equation for ethyl ethanoate hydrolysed by excess NaOH, and name both organic products.
 
 **Answers:** 1. Reflux instead of distilling, so the aldehyde is returned to the flask and oxidised further. 2. The carboxylate ion formed is stabilised by delocalisation of the negative charge over both oxygen atoms; an alkoxide ion has no such stabilisation. 3. Ethyl propanoate. 4. The carboxylate salt formed cannot react back with the alcohol, so the product is removed from the equilibrium and the reaction goes to completion. 5. From the alkaline hydrolysis (saponification) of triesters of glycerol with long-chain fatty acids, found in vegetable oils and animal fats. 6. CH₃COOC₂H₅ + NaOH → CH₃COONa + C₂H₅OH; the products are sodium ethanoate and ethanol.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--06-fats-soap-biodiesel.webp" width="900" height="1210" alt="A fat molecule has a glycerol backbone joined by three ester links to three twelve-carbon acid chains. Heating 31.9 g (0.0500 mol) with sodium hydroxide gives three soap molecules per fat (33.3 g maximum) and glycerol; reacting with methanol and a catalyst gives three methyl ester biodiesel molecules (32.1 g maximum) and glycerol." loading="lazy">
+  <figcaption>One fat gives three soap or three biodiesel molecules, the 1:3 ratio. AQA and OxfordAQA.</figcaption>
+</figure>
+

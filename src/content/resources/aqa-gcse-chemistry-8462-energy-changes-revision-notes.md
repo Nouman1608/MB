@@ -56,6 +56,17 @@ lists every spec point, and the [free 10-minute diagnostics](/diagnostics/) show
 - Classify **only** by the temperature change of the surroundings.
 - Calculating energy changes or ΔH from temperature data is **not required**. You measure temperature change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-energy-changes--03-ec-temperature-data.webp" width="900" height="970" alt="Reaction A rises from 21.0 to 29.5 C (+8.5, exothermic) and reaction B falls from 20.5 to 16.0 C (-4.5, endothermic). Three repeat rises of 6.8, 7.2 and 7.0 C have a mean of 7.0 C." loading="lazy">
+  <figcaption>Temperature rise means exothermic, fall means endothermic; the mean of 6.8, 7.2 and 7.0 is 7.0 C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--01-temperature-change.webp" width="900" height="920" alt="Two beakers with thermometers. Exothermic: arrows leave the beaker and the temperature rises from 20 to 35 degrees C. Endothermic: arrows enter the beaker and the temperature falls from 20 to 8 degrees C." loading="lazy">
+  <figcaption>An exothermic reaction gives energy out and warms the surroundings; an endothermic one takes energy in and cools them.</figcaption>
+</figure>
+
+
 ## Required practical 4 -- method in steps
 
 **Aim:** investigate a variable that affects the temperature change in a reacting solution (acid + metal, acid +
@@ -75,6 +86,12 @@ carbonate, neutralisation or metal displacement).
 
 **Improving accuracy:** use a lid, insulate the cup, stir, use a thermometer or probe with a finer scale.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-energy-changes--04-aqa-practical-temperature-change.webp" width="900" height="910" alt="A polystyrene cup stands inside a beaker so it does not tip over. The cup holds 25 cm3 of acid and has a lid. A thermometer and a stirrer pass through the lid into the liquid. A second reactant is added through the lid and the mixture is stirred." loading="lazy">
+  <figcaption>A polystyrene cup with a lid, thermometer and stirrer inside a beaker gives a truer temperature change.</figcaption>
+</figure>
+
+
 ## 4.5.1.2 Reaction profiles
 
 | Feature | Exothermic | Endothermic |
@@ -88,6 +105,27 @@ and "progress of reaction".
 
 **Worked reminder.** Reactants 80 kJ, peak 250 kJ, products 150 kJ.
 Activation energy = 250 − 80 = **170 kJ**. Overall change = 150 − 80 = **+70 kJ**, so **endothermic**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-energy-changes--01-aqa-profile-worked.webp" width="900" height="1010" alt="A reaction profile drawn to scale with energy in kilojoules on the vertical axis. The reactants sit at 120 kJ. The curve rises to a peak at 310 kJ and falls to the products at 40 kJ. A teal arrow from the reactant level up to the peak is the activation energy, 310 minus 120, which is 190 kJ." loading="lazy">
+  <figcaption>Reading energies, activation energy and the overall energy change from a reaction profile drawn to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-energy-changes--02-ec-profile-worked.webp" width="900" height="890" alt="Exothermic reaction profile with reactants at 120 kJ, peak at 310 kJ and products at 40 kJ. Activation energy is 310 - 120 = 190 kJ and the overall change is 40 - 120 = -80 kJ." loading="lazy">
+  <figcaption>A reaction profile worked example: activation energy 190 kJ, overall change -80 kJ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--02-exothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
+</figure>
+
 
 ## 4.5.1.3 Bond energies (Higher tier only)
 
@@ -113,6 +151,22 @@ formed: 2 × 3 × 391       = 2346 kJ/mol   (each NH₃ has three N–H bonds)
 change: 2253 − 2346       = −93 kJ/mol   → exothermic
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-energy-changes--02-aqa-bond-energy-hcl.webp" width="900" height="1000" alt="An energy ladder for hydrogen plus chlorine making hydrogen chloride, drawn to scale. Starting at H2 plus Cl2, breaking the H–H bond (436) and the Cl–Cl bond (243) takes in 679 kJ/mol, lifting the energy up to separate atoms. Making two H–Cl bonds (2 times 432) releases 864 kJ/mol, dropping the energy to two molecules of hydrogen chloride. The overall change is 679 minus 864, which is minus 185 kJ/mol, so the products are lower and the reaction is exothermic." loading="lazy">
+  <figcaption>Bonds broken take in 679 kJ/mol and bonds formed release 864 kJ/mol, so the change is -185 kJ/mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-energy-changes--05-aqa-fuel-cell-half-equations.webp" width="900" height="960" alt="A hydrogen fuel cell with an acidic electrolyte. Hydrogen gas enters at the negative electrode on the left and oxygen enters at the positive electrode on the right. At the negative electrode hydrogen loses electrons: 2H2 gives 4H+ plus 4e-. The electrons travel through the external wire, passing through a motor, to the positive electrode." loading="lazy">
+  <figcaption>At the negative electrode hydrogen loses electrons; at the positive electrode oxygen gains them; the two add to 2H2 + O2 -&gt; 2H2O.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-energy-changes--01-ec-bond-energy-hcl.webp" width="900" height="1021" alt="Energy ladder for H2 + Cl2 making 2HCl using 436, 243 and 432 kJ/mol. Breaking bonds takes in 679, making bonds releases 864, so the net change is -185 kJ/mol, exothermic." loading="lazy">
+  <figcaption>Bond breaking lifts the energy by 679 kJ/mol and bond making drops it by 864, a net change of -185 kJ/mol.</figcaption>
+</figure>
+
+
 ## 4.5.2.1 Cells and batteries
 
 - Simple cell: **two different metals** in contact with an **electrolyte**.
@@ -121,6 +175,22 @@ change: 2253 − 2346       = −93 kJ/mol   → exothermic
 - Batteries: cells in **series** add their voltages. Four 1.2 V cells → 4 × 1.2 = **4.8 V**.
 - **Non-rechargeable** (for example alkaline batteries): reactions stop when one reactant is used up.
 - **Rechargeable:** reactions are **reversed** when an external electrical current is supplied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-energy-changes--03-aqa-cell-voltage.webp" width="900" height="1080" alt="Top: a simple cell, two different metal strips dipping in an electrolyte and joined by wires to a voltmeter. Two identical metals would give 0 volts. Bottom: horizontal bars of the voltage each metal gives when paired with copper: magnesium 2.7 V, zinc 1.1 V, iron 0.8 V and copper 0.0 V, so the more reactive the metal the bigger the voltage. Gold arrows show differences used to predict new cells: magnesium with zinc is about 2.7 minus 1.1, which is 1.6 V, and zinc with iron is 1.1 minus 0.8, which is 0.3 V." loading="lazy">
+  <figcaption>The bigger the reactivity gap between two metals, the bigger the voltage of the cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-energy-changes--04-ec-series-battery.webp" width="900" height="760" alt="Three 1.5 V cells in series, shown as circuit symbols above a bar of three 1.5 V segments. The voltages add to 3 x 1.5 = 4.5 V." loading="lazy">
+  <figcaption>A battery is two or more cells in series, and the voltages add.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-energy-changes--05-ec-rechargeable.webp" width="900" height="900" alt="Two panels. A non-rechargeable cell gives electricity as reactants become products and stops when a reactant is used up. A rechargeable cell can be recharged because an external electrical current reverses the reactions." loading="lazy">
+  <figcaption>Non-rechargeable cells stop; rechargeable cells reverse the reactions with an external current.</figcaption>
+</figure>
+
 
 ## 4.5.2.2 Fuel cells
 
@@ -142,6 +212,12 @@ positive electrode:  O₂ + 4H⁺ + 4e⁻ → 2H₂O     (reduction)
 ```
 
 Alkaline electrolyte: 2H₂ + 4OH⁻ → 4H₂O + 4e⁻ and O₂ + 2H₂O + 4e⁻ → 4OH⁻.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--07-fuel-cell.webp" width="900" height="1040" alt="Hydrogen enters on one side and oxygen on the other, either side of an electrolyte between two electrodes. Electrons pass through a motor in an external circuit, and water is the only chemical product." loading="lazy">
+  <figcaption>A fuel cell turns hydrogen and oxygen into electricity, with water the only chemical product.</figcaption>
+</figure>
+
 
 ## Reading cell data -- method in steps
 

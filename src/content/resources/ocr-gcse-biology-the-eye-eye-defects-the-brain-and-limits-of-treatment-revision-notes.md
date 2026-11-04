@@ -42,6 +42,12 @@ These notes condense statements B3.1d to B3.1h of the OCR *GCSE (9-1) Gateway Sc
 | Bright | Contract | Relax | Smaller |
 | Dim | Relax | Contract | Larger |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Extended panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
+</figure>
+
+
 ### Accommodation (focusing)
 
 | | Near object | Distant object |
@@ -52,6 +58,42 @@ These notes condense statements B3.1d to B3.1h of the OCR *GCSE (9-1) Gateway Sc
 | Light bent | More | Less |
 
 Memory line: near means shorten, loose, fat.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--11-ocr-eye-structure.webp" width="900" height="830" alt="Labels the cornea, iris, pupil, lens, ciliary body, suspensory ligaments, retina and optic nerve in their positions." loading="lazy">
+  <figcaption>Labelled section of the eye.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--12-ocr-accommodation.webp" width="900" height="990" alt="For a close object the muscle shortens, ligaments are loose and the lens is fatter. For a distant object the muscle lengthens, ligaments are taut and the lens is flatter." loading="lazy">
+  <figcaption>How ciliary muscle, ligaments and lens change for near and far objects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--13-ocr-eye-defects.webp" width="900" height="1260" alt="Short-sight focuses in front of the retina and a concave lens corrects it. Long-sight focuses behind the retina and a convex lens corrects it." loading="lazy">
+  <figcaption>Ray diagrams for short-sight and long-sight with and without corrective lenses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--15-ocr-pupil-area.webp" width="900" height="900" alt="Dim light: 7.6 mm diameter, 45.4 mm squared. Bright light: 2.2 mm, 3.80 mm squared. The diameter falls 71.1 percent but the area falls 11.9 times." loading="lazy">
+  <figcaption>Pupil diameters drawn to scale with their areas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--01-rods-cones-colour-blindness.webp" width="900" height="1050" alt="Retina receptor cells: one rod (dim light, no colour) and three cone types (red, green, blue sensitive) for bright light and colour. Normal vision shows red and green patches as different; with one faulty cone type they look alike. Inherited; filters help but cones are not repaired." loading="lazy">
+  <figcaption>Rod and cone cells, and what colour blindness does to red and green.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--02-near-point-age-graph.webp" width="900" height="800" alt="Line graph of near point (cm) against age (years): 8 at 10, 12 at 30, 50 at 50, 100 at 60. The 30 to 50 segment is highlighted: +317%." loading="lazy">
+  <figcaption>The near point moves away much faster after age 30 (lesson data).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--03-laser-lens-replacement.webp" width="900" height="870" alt="Row 1: parallel rays focus in front of the retina when the cornea is too curved; laser reshaping flattens it and the focus lands on the retina. Row 2: rays from a near object focus behind the retina with a weak lens; a stronger replacement lens puts the focus on the retina." loading="lazy">
+  <figcaption>Laser surgery and lens replacement move the focus onto the retina.</figcaption>
+</figure>
+
 
 ## Eye defects (B3.1e)
 
@@ -80,6 +122,12 @@ Method in steps for any defect question:
 
 Distinction to know: the cerebrum controls actions you choose to do; the medulla controls those you do not have to think about.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--14-ocr-brain-regions.webp" width="900" height="800" alt="Cerebrum for thought and voluntary movement, cerebellum for balance, medulla for heart and breathing rate, hypothalamus for temperature and water balance, and pituitary as master gland." loading="lazy">
+  <figcaption>Side view of the brain with five labelled regions.</figcaption>
+</figure>
+
+
 ## Investigating the brain (B3.1g, Higher Tier only)
 
 | Difficulty | Point to make |
@@ -98,6 +146,12 @@ Distinction to know: the cerebrum controls actions you choose to do; the medulla
 | Access | Skull and backbone protect the system, so deep parts are hard and risky to reach |
 
 Treatments often reduce symptoms without replacing lost neurones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment--04-spinal-injury-limits.webp" width="900" height="930" alt="Brain, seven vertebrae and spinal cord with a break. Impulses travel down the cord and stop at the break; the muscle below receives none. Neurones repair poorly and the cord sits inside bone so surgery risks more damage." loading="lazy">
+  <figcaption>Why a broken spinal pathway may not recover (Higher Tier content).</figcaption>
+</figure>
+
 
 ## Worked reminders
 

@@ -69,6 +69,17 @@ Course links: [IB Maths AI course hub](/boards/ib/ib-dp/mathematics-applications
 - Parallel: m₁ = m₂. Perpendicular: m₁ × m₂ = −1.
 - Gradient of a ramp or road = vertical rise ÷ horizontal run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--01-perpendicular-lines.webp" width="900" height="1070" alt="A grid shows A (2, 5) and B (6, -3) with the line AB falling with gradient -2 (run 4, rise -8). A second line through B, marked with a right-angle square, rises with gradient 1/2. The gradients multiply to -1." loading="lazy">
+  <figcaption>Perpendicular lines have gradients whose product is -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--04-asymptotes.webp" width="900" height="1035" alt="f(x) = (2x + 1)/(x - 3) has two branches either side of the dashed vertical asymptote x = 3 and approaches the dashed horizontal asymptote y = 2. It crosses the axes at (-0.5, 0) and (0, -1/3)." loading="lazy">
+  <figcaption>Asymptotes are lines the graph approaches and are written as equations.</figcaption>
+</figure>
+
+
 ## The six models (2.5)
 
 | Model | Form | Key facts |
@@ -88,6 +99,22 @@ Choosing a model from the shape or context:
 - "proportional to" or "inversely proportional to" → variation;
 - two turning points → cubic;
 - repeating pattern (tides, temperatures, wheels) → sinusoidal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--05-six-models.webp" width="900" height="1200" alt="Six small graphs: piecewise linear plan cost, quadratic ball height with vertex, exponential cooling towards y = c, inverse-square variation with the y-axis as asymptote, cubic box volume with turning point, and a sinusoid about a dashed axis y = d." loading="lazy">
+  <figcaption>Each of the six SL models has a recognisable shape and key feature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--06-open-box-domain.webp" width="900" height="1060" alt="A 30 cm by 20 cm sheet has squares of side x cut from the corners. The volume graph V = x(30 - 2x)(20 - 2x) is solid for 0 &lt; x &lt; 10 and dashed outside. The maximum is at x = 3.92 cm, V = 1060 cm cubed." loading="lazy">
+  <figcaption>The real-world situation limits which part of the curve is the model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--07-harbour-sinusoid.webp" width="900" height="890" alt="D(t) = 3 sin(30t) + 8 oscillates about the dashed principal axis D = 8. The amplitude is 3 m, the period is 12 hours (peak to peak, t = 3 to 15) and the depth ranges from 5 m to 11 m." loading="lazy">
+  <figcaption>Amplitude, period and principal axis can be read straight from a sin(bx) + d.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -184,6 +211,17 @@ Example: h(t) = −12 cos(18t) + 15 has amplitude 12, period 20, principal axis 
 10. k = 50, a = 2^(1/4) = **1.19**; N(10) = 50 × 2^2.5 = **283** (3 s.f.).
 11. m = (11 − 3)/4 = 2, so **y = 2x + 3**.
 12. **2040 is outside the data range (extrapolation)**; conditions may change, so the pattern may not continue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--02-inverse-reflection.webp" width="900" height="1045" alt="The curve f(x) = 3 + sqrt(x - 1) starts at (1, 3) and its inverse (x - 3)^2 + 1 starts at (3, 1). They are mirror images in the dashed line y = x and meet at (5, 5). Points (2, 4) and (4, 2) are swapped, showing the domain of the inverse is the range of f." loading="lazy">
+  <figcaption>The graph of f inverse is the graph of f reflected in y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--08-extrapolation-danger.webp" width="900" height="890" alt="N(t) = 120 x 2.5^(t/5) is fitted through (0, 120) and (5, 300), drawn solid in the shaded data range. Beyond t = 5 it is dashed; the prediction N(12) = 1080 assumes the pattern continues." loading="lazy">
+  <figcaption>A fitted model is reliable inside the data range, but extrapolation assumes the pattern continues.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -58,11 +58,38 @@ Geometry: a + b is the diagonal of the parallelogram on a and b, and also the tr
 
 **Reminder.** a = (1, 3, −2), b = (4, 0, 1). Then 2a − b = (2 − 4, 6 − 0, −4 − 1) = (−2, 6, −5).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--01-magnitude-in-3d.webp" width="900" height="910" alt="A box with sides 3, 2 and 6: the floor diagonal is root 13, then the vector a = 3i + 2j + 6k has magnitude 7 (13 + 36 = 49). The angle with the z-axis has cosine 6/7, 31.0 degrees (AQA only; OCR excludes 3D direction)." loading="lazy">
+  <figcaption>The 3D magnitude formula is Pythagoras applied twice, first on the floor and then up the height.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--02-direction-quadrant.webp" width="900" height="1269" alt="Vectors -3i + 7j and 3i - 7j from the origin. Both have the calculator angle 66.8 degrees, but their directions anticlockwise from i are 113.2 degrees (second quadrant) and 293.2 degrees (fourth quadrant)." loading="lazy">
+  <figcaption>The calculator gives only the acute angle, so sketch the vector and adjust for its quadrant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--03-adding-vectors.webp" width="900" height="1161" alt="a = (2, 5) and b = (4, -3). Placing b at the end of a gives a + b = (6, 2) (triangle law); b and a from a common point give the same diagonal (parallelogram law). a - b = (-2, 8) runs from the tip of b to the tip of a." loading="lazy">
+  <figcaption>Add head to tail or complete the parallelogram; a - b joins the tip of b to the tip of a.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--08-scalar-product-angle.webp" width="900" height="917" alt="Vector u = (2, 1) with (1, 2), (-1, 2) and (-2, 1): scalar products 4, 0 and -3 give 36.9 (acute), 90 and 126.9 degrees (obtuse). For lines, directions (2, 1, -2) and (1, -4, 8) give cos = -2/3: 131.8 degrees between the vectors, 48.2 degrees between the lines." loading="lazy">
+  <figcaption>The sign of u.v tells you whether the angle is acute, right or obtuse; for two lines quote the acute angle.</figcaption>
+</figure>
+
+
 ## Method: show two vectors are parallel, or find an unknown
 
 1. Compare one pair of components to find λ.
 2. Apply λ to every other component. All must agree.
 3. If an unknown is in the question, use λ to solve for it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--04-collinear-proof.webp" width="900" height="1029" alt="Trapezium ABCD with AB = a, AD = b, DC = 2a and F on AC with AF:FC = 1:2. Then BF = one third of BD, so B, F and D are collinear and BF:FD = 1:2." loading="lazy">
+  <figcaption>Write each vector in terms of a and b; two parallel vectors sharing a point prove the points are collinear.</figcaption>
+</figure>
+
 
 ## Method: AB, distance, midpoint, ratio
 
@@ -93,6 +120,12 @@ r = a + tb     a = a point on the line     b = direction     t any real number
 
 **Reminder (2D).** r = (4, 1) + t(−3, 2) gives x = 4 − 3t and y = 1 + 2t. So t = (4 − x)/3 and y = 1 + 2(4 − x)/3 = (11 − 2x)/3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--09-foot-of-perpendicular.webp" width="900" height="957" alt="Point P(9, 1) and the line through A(1, 2) with direction (2, 1). Solving PX.d = 5t - 15 = 0 gives t = 3 and X = (7, 5); PX = (-2, 4) is perpendicular to the line and has length 2 root 5. Other points on the line are further from P." loading="lazy">
+  <figcaption>The closest point on a line is where the vector to it is perpendicular to the direction, so set PX.d = 0.</figcaption>
+</figure>
+
+
 ## Method: intersection of two lines
 
 Use different letters: s for line 1, t for line 2.
@@ -103,6 +136,12 @@ Use different letters: s for line 1, t for line 2.
 4. In 2D: that is the answer. In 3D: test the third equation.
 5. Third equation holds: lines intersect. Substitute s into line 1 for the point, and check with t in line 2.
 6. Third equation fails: lines are skew.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--07-intersect-or-skew.webp" width="900" height="916" alt="Top views of two pairs of 3D lines. l1 and l2 cross at (5, 4) and both have z = 5 there, so they intersect at (5, 4, 5). l1 and l3 cross in the top view at (-1, 1) but have z = -4 and z = 2, so they are skew." loading="lazy">
+  <figcaption>Two lines can cross in a top view and still miss; the third component decides.</figcaption>
+</figure>
+
 
 ## Worked reminders for lines
 
@@ -121,6 +160,12 @@ The y equation gives s = 1. Then z gives t = −3. Check x: 2 + 1 = 3 and 5 − 
 **Unknown constant.** If a line contains an unknown such as k, solve for s and t from the two equations without k, then use the remaining equation to find k.
 
 **Geometry with vectors.** In a parallelogram ABCD, AB = DC, so OD = OA + OC − OB. The diagonals AC and BD bisect each other, so the midpoint of AC equals the midpoint of BD.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--06-line-equation.webp" width="900" height="1253" alt="The line r = (3, -1) + t(2, 5): a position vector to the point, the direction vector (2, 5), and points for t = -1, 0, 1, 2. Its gradient is 5/2 so y = 5x/2 - 17/2." loading="lazy">
+  <figcaption>A line is one point plus any multiple of a direction vector, in 2D or 3D.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

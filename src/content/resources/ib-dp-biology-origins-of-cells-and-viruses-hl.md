@@ -53,6 +53,12 @@ Early Earth had almost no free oxygen, so there was no ozone layer and more ultr
 
 These conditions may have driven chemical reactions that formed a variety of carbon compounds spontaneously. Such reactions do not happen today. This stage is called pre-biotic because it came before cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--01-early-earth.webp" width="900" height="860" alt="Schematic of early Earth: strong ultraviolet light reaches the surface because there is no ozone layer, the air has much CO2 and CH4 but almost no O2, and lightning and UV supply energy. Carbon compounds form spontaneously in the water, before any cells exist." loading="lazy">
+  <figcaption>Early Earth had no ozone layer and little oxygen; energy from UV and lightning drove pre-biotic formation of carbon compounds.</figcaption>
+</figure>
+
+
 ## A2.1.2 The cell as the smallest self-sustaining living unit
 
 A cell is the smallest unit that can sustain life on its own. To decide whether something is living, use the characteristics of life: metabolism, response to stimuli, homeostasis, growth, reproduction, nutrition and excretion, all done with its own machinery.
@@ -92,17 +98,40 @@ A student repeats a Miller-Urey type experiment. Amino acids in the trap are mea
 3. The control makes about 1% of the yield on day 7 (0.4 ÷ 41 × 100 = 0.98%), so the energy input is needed.
 4. Evaluation: the data support spontaneous formation of amino acids, but not that early Earth's atmosphere had this composition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--02-miller-urey-apparatus.webp" width="900" height="1050" alt="The closed glass loop of the Miller-Urey experiment: water is boiled, the vapour passes methane, ammonia and hydrogen with electric sparks, is cooled and condensed, and products collect in a trap while water returns to the flask. After days, amino acids were found." loading="lazy">
+  <figcaption>The Miller-Urey apparatus: boil, spark, cool, collect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--03-miller-urey-data.webp" width="900" height="890" alt="Line graph of amino acids in the trap on days 3 and 7. With sparks the amount rises from 14 to 41 micromoles (6.75 micromoles per day, +193%); the control stays near 0.1 to 0.4 micromoles, about 0.98% of the sparks yield." loading="lazy">
+  <figcaption>The worked example as a graph: the gradient is the rate, and the control shows the energy input is needed.</figcaption>
+</figure>
+
+
 ## A2.1.5 Vesicles and membrane-bound compartments
 
 Fatty acids are amphipathic: a hydrophilic head and a hydrophobic hydrocarbon tail. In water they can coalesce spontaneously into spherical bilayers, called vesicles, with tails inward and heads facing water on both sides.
 
 A compartment matters because it lets the inside chemistry become different from the outside. Molecules can be kept at high concentration so reactions speed up and products are not lost by diffusion. A compartment also lets natural selection act, because each vesicle holds its own set of molecules.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--04-fatty-acid-vesicles.webp" width="900" height="790" alt="A fatty acid has a hydrophilic head and a hydrophobic hydrocarbon tail. In water many of them coalesce into a spherical bilayer, a vesicle, with tails inward and heads facing water on both sides, enclosing an inside that can differ from the outside." loading="lazy">
+  <figcaption>Fatty acids spontaneously form vesicles whose inside can hold different chemistry from the outside.</figcaption>
+</figure>
+
+
 ## A2.1.6 RNA as the presumed first genetic material
 
 RNA can be copied by base pairing and also has some catalytic activity, so in the earliest cells a single molecule type could have carried the genes and done the enzymes' work. This avoids the problem of which came first, since DNA needs proteins to be copied and proteins need DNA to be made. RNA catalysts are called ribozymes.
 
 Evidence that this was real: ribozymes in the ribosome still catalyse peptide bond formation during protein synthesis. DNA, which is more stable, probably took over as the store, and proteins became the main catalysts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--05-rna-first.webp" width="900" height="990" alt="RNA is copied by base pairing (A with U, G with C) and can also catalyse reactions as a ribozyme, for example forming peptide bonds in the ribosome. One molecule type could do both jobs; later DNA became the store and proteins the main catalysts." loading="lazy">
+  <figcaption>RNA can carry information and catalyse, avoiding the DNA versus protein chicken-and-egg problem.</figcaption>
+</figure>
+
 
 ## A2.1.7 Evidence that LUCA existed
 
@@ -130,6 +159,12 @@ Suppose Earth formed 4540 million years ago and the oldest accepted evidence of 
 1. Time between: 4540 − 3480 = 1060 million years.
 2. Scale Earth's history to 24 hours: 1060 ÷ 4540 × 24 = 5.60 hours, which is about 05:36 after Earth forms.
 3. Life has therefore been present for 3480 ÷ 4540 × 100 = **77%** of Earth's history.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--06-earth-clock.webp" width="900" height="780" alt="A 24-hour clock stands for 4540 million years. Oldest accepted evidence of life, 3480 million years ago, falls at 5.6 hours (05:36), so life has been present for about 77% of Earth history." loading="lazy">
+  <figcaption>Earth's 4540 million years on a 24-hour clock: life appears at 05:36 and spans 77% of the time.</figcaption>
+</figure>
+
 
 ## A2.1.9 LUCA and hydrothermal vents
 
@@ -167,6 +202,12 @@ Viruses differ widely in shape and structure. Their genetic material can be DNA 
 | Coronaviruses | single-stranded RNA | yes | spike proteins project from envelope |
 | HIV | single-stranded RNA | yes | carries reverse transcriptase |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--07-virus-structures.webp" width="900" height="1110" alt="Bacteriophage lambda has a capsid head with double-stranded DNA, a tail and no envelope. Coronaviruses and HIV are enveloped with single-stranded RNA; coronaviruses carry spike proteins, HIV carries reverse transcriptase. All have nucleic acid and a capsid and no cytoplasm." loading="lazy">
+  <figcaption>Three viruses compared: genetic material, capsid, envelope and enzymes (schematic, not to scale).</figcaption>
+</figure>
+
+
 ## A2.3.3 The lytic cycle
 
 Viruses depend on the host cell for energy, nutrition and protein synthesis. In the lytic cycle of bacteriophage lambda:
@@ -180,6 +221,12 @@ Viruses depend on the host cell for energy, nutrition and protein synthesis. In 
 ### Worked example: burst size
 
 A culture contains 1.5 × 10⁷ infected bacteria per mL. After lysis the phage count is 3.6 × 10⁹ per mL. Burst size = 3.6 × 10⁹ ÷ 1.5 × 10⁷ = **240 phages per cell**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--08-phage-life-cycles.webp" width="900" height="1200" alt="After a phage attaches and injects its DNA, the lytic cycle copies DNA, makes and assembles capsids and ends with lysis, releasing new phages (240 per cell in the worked example). In the lysogenic cycle the DNA integrates as a prophage, is copied at each division, and stress can trigger induction and the lytic cycle." loading="lazy">
+  <figcaption>Lambda phage after injection: the lytic route to lysis, or the lysogenic route with a prophage that can be induced.</figcaption>
+</figure>
+
 
 ## A2.3.4 The lysogenic cycle
 
@@ -199,6 +246,12 @@ Reasons for very rapid evolution: short generation times, huge numbers of offspr
 ### Worked example: mutations per genome
 
 HIV genome length is 9700 nucleotides. With an error rate of 3.0 × 10⁻⁵ per nucleotide per copy, mutations per genome = 9700 × 3.0 × 10⁻⁵ = **0.29**. About one new genome in four differs from its parent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--09-hiv-mutations.webp" width="900" height="1060" alt="Reverse transcriptase makes errors copying HIV RNA to DNA. With 9700 nucleotides and an error rate of 3.0 x 10^-5 per nucleotide, there are 0.29 mutations per genome; in 100 new copies, 75 are identical, 22 carry one mutation and 3 carry two, so about 1 in 4 differs from its parent." loading="lazy">
+  <figcaption>HIV mutation rate: 0.29 mutations per genome means about one new genome in four differs from its parent.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -2,15 +2,17 @@
 title: "IGCSE Accounting: Accounting Procedures (Cambridge 0452)"
 resourceType: "study-guides"
 subject: "accounting"
-level: ["igcse"]
+level: ["igcse","o-levels"]
 topic: "Accounting procedures"
 boards: ["cambridge"]
-qualifications: ["igcse"]
-syllabusCodes: ["0452"]
+qualifications: ["igcse", "o-level"]
+syllabusCodes: ["0452", "7707"]
 syllabusSeries: "2027-2029"
 order: 4
 syllabusTopics:
   - qualification: "igcse"
+    topic: "accounting-procedures"
+  - qualification: "o-level"
     topic: "accounting-procedures"
 description: "Capital and revenue expenditure and receipts, depreciation and disposal of non-current assets, other payables and other receivables, irrecoverable debts and the allowance for irrecoverable debts, and inventory valuation — the year-end procedures of Cambridge IGCSE Accounting (0452) Topic 4, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
@@ -22,7 +24,8 @@ featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> Accounting 0452 syllabus (and Cambridge O Level Accounting 7707, which has the
+> same subject content for the same series) for exams in 2027, 2028 and 2029 (version 1),
 > first examined in the March 2027 series in India and the June 2027 series
 > elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
 > (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
@@ -133,6 +136,12 @@ depreciation policy — for instance a full year's charge in the year of
 purchase and none in the year of disposal, or a charge on a monthly
 basis — follow that policy exactly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+
 ## Worked example: capital or revenue, and the cost of getting it wrong
 
 Riverside Deliveries charges depreciation on vehicles at 20% per year on
@@ -171,6 +180,12 @@ profit. The first error above is also an error of principle, which Topic
 3 corrects with a journal entry (debit vehicle repairs $2,400, credit
 motor vehicles $2,400); the $480 of depreciation charged on the repairs
 must then be removed as well.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--04-capital-or-revenue.webp" width="900" height="1140" alt="Capital expenditure (van, legal fees on premises, fitting a machine) goes to the statement of financial position and is depreciated; revenue expenditure (fuel, repairs, wages, repainting) is expensed. The IGCSE example shows 2,400 dollars of repairs capitalised and depreciated at 20 percent, overstating profit and assets by 1,920." loading="lazy">
+  <figcaption>Capital items are depreciated; revenue items are expensed now, and mixing them up misstates profit and assets.</figcaption>
+</figure>
+
 
 ## Worked example: three depreciation methods
 <!-- marlbridge-diagram:ac-igcse-year-end-procedures-map -->
@@ -231,6 +246,12 @@ small, low-cost items, where recording each item separately would not be
 practical and a year-end valuation is a better guide to how much has
 been used up. Once a method is chosen, it is applied consistently from
 year to year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--05-depreciation-methods.webp" width="900" height="1090" alt="For a 20,000 pound asset with 2,000 residual and four years, straight line charges 4,500 each year to reach 2,000. Reducing balance at 25 percent charges 5,000, 3,750, 2,813 and 2,109 and ends at 6,328. Lines and bars show the carrying value and yearly charge." loading="lazy">
+  <figcaption>Reducing balance front-loads the charge; straight line is level.</figcaption>
+</figure>
+
 
 ## Worked example: depreciation and disposal in the ledger
 
@@ -321,6 +342,17 @@ the statement of financial position shows equipment at cost $45,000,
 less accumulated depreciation $17,400 (the balance on the provision
 account), giving a net book value of $27,600.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--06-disposal-profit-loss.webp" width="900" height="1000" alt="Equipment that cost 9,000 dollars with 2,700 depreciation has a net book value of 6,300. Sold for 4,800 it gives a 1,500 loss. The disposal account shows debit 9,000 and credits 2,700, 4,800 and 1,500." loading="lazy">
+  <figcaption>Profit or loss on disposal compares proceeds with net book value, not cost.</figcaption>
+</figure>
+
+
 ## Worked example: accruals and prepayments
 
 The **matching / accruals concept** says that the expenses and incomes of
@@ -404,6 +436,12 @@ The opening credit balance was income received in advance (an other
 payable); the closing debit balance is accrued income (an other
 receivable). Income of $6,000 — exactly twelve months at $500 — reaches
 the statement of profit or loss, whatever the cash received.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
+  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+</figure>
+
 
 ## Worked example: irrecoverable debts and the allowance
 
@@ -528,6 +566,12 @@ When an allowance is **created** for the first time there is no opening
 balance, so the whole amount is the charge: Dr statement of profit or
 loss, Cr allowance for irrecoverable debts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
+  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
+</figure>
+
+
 ## Worked example: valuing inventory and the effect of errors
 
 Inventory is valued at the **lower of cost and net realisable value**,
@@ -566,6 +610,12 @@ the year, equity and current assets are all understated in Year 1, and
 gross profit and profit for the year are overstated in Year 2. Over the
 two years the total profit is the same; the error moves profit from one
 year to the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

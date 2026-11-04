@@ -37,6 +37,12 @@ Quick recall for statements B6.3r to B6.3u of OCR GCSE (9-1) Gateway Science Bio
 
 Must-know distinction: a risk factor raises the chance of disease. It does not guarantee it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--04-un39-ncd-multifactorial.webp" width="900" height="1080" alt="Inherited, lifestyle and environment factors feed a circle marked factors interact, which leads to the named diseases: cardiovascular disease, cancers, bronchitis, cirrhosis and type 2 diabetes. An illustrative risk bar shows a gene variant alone gives a lower risk, but the variant with smoking and a poor diet gives a much higher risk." loading="lazy">
+  <figcaption>Several factors interact to cause a non-communicable disease, and one factor can make another more harmful.</figcaption>
+</figure>
+
+
 ## B6.3s: cardiovascular disease and its treatments
 
 Coronary heart disease: fatty deposits narrow the coronary arteries, so less oxygenated blood reaches the heart muscle. A blocked artery means a heart attack.
@@ -63,6 +69,22 @@ Coronary heart disease: fatty deposits narrow the coronary arteries, so less oxy
 
 Cholesterol falls from 5.0 to 3.8 mmol/dm³ on a statin.
 Change = 3.8 − 5.0 = −1.2. Percentage change = (−1.2 ÷ 5.0) × 100 = **−24%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--04-chd-surgical-treatments.webp" width="900" height="1210" alt="Three side views of a coronary artery: narrowed by a fatty deposit; a wire mesh stent holding it open (quick recovery); and a bypass graft, often a leg vessel, joined around the blocked section (major surgery, longer recovery)." loading="lazy">
+  <figcaption>A stent props the artery open; a bypass routes blood around the blockage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--05-un39-cvd-treatments-table.webp" width="900" height="1002" alt="Table with icons. Statins lower cholesterol but can cause muscle pain; blood pressure drugs reduce strain but need long-term monitoring; anticoagulants make clots less likely but raise bleeding risk; heart valve replacement uses a mechanical or biological valve (mechanical needs anti-clotting drugs); a heart transplant uses a donor heart but donors are scarce and rejection is a risk." loading="lazy">
+  <figcaption>Each drug or operation has a benefit and a drawback to weigh up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
 
 ## B6.3t: lifestyle factors and incidence
 
@@ -111,6 +133,17 @@ Total = 6 + 14 + 32 + 20 + 8 = 80. Modal class = 60 to 69, which is 32 ÷ 80 × 
 - Smoke damages the airway lining, which leads to bronchitis.
 - Smoking damages artery walls, which helps fatty deposits form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--06-un39-incidence-per-100000.webp" width="900" height="880" alt="Two bar charts. Town A (48 000 people) has 36 new cases and Town B (91 000 people) has 52, so B has more cases. As rates per 100 000, Town A is 75.0 and Town B is 57.1, so B has the lower rate. Raw numbers would mislead." loading="lazy">
+  <figcaption>Town B has more cases but a lower rate per 100 000 than Town A.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--07-un39-alcohol-cirrhosis-scatter.webp" width="900" height="810" alt="Scatter diagram of six regions: alcohol intake 4, 6, 9, 11, 14, 17 units a week against cirrhosis cases per 100 000 of 6, 8, 13, 14, 21, 24. The points rise close to a dashed line of best fit, a positive correlation, which alone does not prove cause." loading="lazy">
+  <figcaption>Cirrhosis incidence rises with alcohol intake, a positive correlation that does not by itself prove cause.</figcaption>
+</figure>
+
+
 ## B6.3u: cancer
 
 - Cancer = changes in cells (mutations) that lead to **uncontrolled growth and division**.
@@ -127,6 +160,17 @@ Total = 6 + 14 + 32 + 20 + 8 = 80. Modal class = 60 to 69, which is 32 ÷ 80 × 
 - Most cancers are not inherited. The mutations arise in body cells.
 
 Doubling reminder: 1 cell doubling 8 times gives 2⁸ = **256** cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--05-benign-malignant.webp" width="900" height="1220" alt="A benign tumour is a mass of abnormal cells that grows in one place, does not spread and is not cancer. A malignant tumour invades nearby tissue; cells break off, travel in the blood and form secondary tumours elsewhere." loading="lazy">
+  <figcaption>Malignant tumours spread and form secondary tumours; benign tumours stay in one place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--08-un39-cancer-doubling.webp" width="900" height="720" alt="Graph of 2^n cells for one cancer cell dividing daily: 1024 cells at day 10, 1 048 576 at day 20 and 1 073 741 824 at day 30. The curve looks flat for 20 days then shoots up." loading="lazy">
+  <figcaption>Doubling every day looks flat at first, then shoots up.</figcaption>
+</figure>
+
 
 ## Key terms
 

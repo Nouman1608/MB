@@ -44,6 +44,12 @@ An organelle is a discrete subunit of a cell with its own structure and a specif
 
 Organelles were hard to study until techniques arrived. In cell fractionation, you break cells open in cold, buffered, isotonic solution, then spin the homogenate in an ultracentrifuge. Denser parts pellet at lower speeds; lighter parts need higher speeds. Nuclei pellet first, then mitochondria and chloroplasts, then smaller fragments. You can then test each fraction for its own enzymes. Progress in science often follows a new technique like this.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--01-cell-fractionation.webp" width="900" height="1040" alt="Four test tubes show a homogenate of broken cells, then pellets forming at increasing centrifuge speeds. Nuclei pellet first at low speed, then mitochondria and chloroplasts, then small fragments at the highest speed. Denser parts pellet at lower speeds." loading="lazy">
+  <figcaption>Spin the homogenate faster and faster: the densest organelles pellet first.</figcaption>
+</figure>
+
+
 ## B2.2.2 Nucleus and cytoplasm as separate compartments
 
 In eukaryotes, transcription happens in the nucleus and translation happens on ribosomes in the cytoplasm. The separation lets the cell modify the primary transcript before any ribosome meets it. Modifications include removing introns, adding a 5' cap and adding a poly-A tail. Only finished mRNA leaves through nuclear pores.
@@ -60,6 +66,12 @@ Membranes divide the cytoplasm. The advantages are:
 
 **Lysosomes** are the clearest example. They contain hydrolytic enzymes that work best at an acidic pH, lower than the pH of the cytoplasm. If these enzymes were free in the cytoplasm they would digest proteins and other cell structures, and they would work badly at the wrong pH. A **phagocytic vacuole** forms when a cell engulfs a particle such as a bacterium. A lysosome fuses with it and releases enzymes into the vacuole, so digestion happens inside a membrane. Products pass into the cytoplasm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--02-lysosome-digestion.webp" width="900" height="940" alt="A cell engulfs a bacterium into a phagocytic vacuole. A lysosome with acidic hydrolytic enzymes fuses with the vacuole and digests the bacterium inside a membrane, so the cytoplasm (higher pH) is protected. Products pass into the cytoplasm." loading="lazy">
+  <figcaption>A lysosome fuses with a phagocytic vacuole so digestion stays inside a membrane.</figcaption>
+</figure>
+
+
 ## B2.2.4 Mitochondrion (HL only)
 
 Aerobic cell respiration makes ATP in the mitochondrion. Its adaptations:
@@ -68,11 +80,23 @@ Aerobic cell respiration makes ATP in the mitochondrion. Its adaptations:
 - **Large surface area of cristae.** Folds of the inner membrane carry many electron transport chains and ATP synthase molecules.
 - **Matrix compartment.** The matrix holds the enzymes and substrates of the Krebs cycle at high concentration, away from the rest of the cytoplasm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--03-mitochondrion-hl.webp" width="900" height="830" alt="A mitochondrion cross-section shows the double membrane with a narrow intermembrane space, an inner membrane folded into cristae carrying electron transport chains and ATP synthase, and the matrix holding Krebs cycle enzymes. The small intermembrane volume lets a proton gradient build quickly." loading="lazy">
+  <figcaption>Narrow intermembrane space, folded cristae and a matrix compartment each suit aerobic respiration.</figcaption>
+</figure>
+
+
 ## B2.2.5 Chloroplast (HL only)
 
 - **Large surface area of thylakoid membranes** carries many photosystems and the other light-dependent components, so more light is absorbed.
 - **Small volume inside each thylakoid.** Protons pumped in build up a gradient quickly, which drives ATP synthesis.
 - **Stroma compartment.** The enzymes and substrates of the Calvin cycle are concentrated in the stroma.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--04-chloroplast-hl.webp" width="900" height="1040" alt="A chloroplast has a double membrane, stacks of thylakoids (grana) in the stroma, and the stroma holds Calvin cycle enzymes. Thylakoid membranes have a large area for photosystems. A magnified thylakoid shows protons pumped into its small interior, building a gradient quickly, then flowing out through ATP synthase to make ATP." loading="lazy">
+  <figcaption>Thylakoid area, thylakoid volume and the stroma compartment each suit photosynthesis.</figcaption>
+</figure>
+
 
 ## B2.2.6 Nuclear envelope and its double membrane (HL only)
 
@@ -94,6 +118,12 @@ The rough endoplasmic reticulum (rER) is a network of flattened membrane sacs, c
 
 The Golgi apparatus is a stack of flattened cisternae. Transport vesicles from the rER fuse with the receiving face. Inside, proteins are processed, for example by adding carbohydrate groups, and then sorted. Vesicles bud from the opposite face and carry proteins to the plasma membrane for secretion by exocytosis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--05-protein-secretion-route-hl.webp" width="900" height="1170" alt="mRNA leaves the nucleus through a pore in the double-membrane envelope. Ribosomes on the rough ER, continuous with the outer nuclear membrane, make the protein, which folds in the lumen. A transport vesicle takes it to the receiving face of the Golgi apparatus; a clathrin-coated vesicle buds from the opposite face and releases it by exocytosis." loading="lazy">
+  <figcaption>A secreted protein travels nucleus, rough ER, Golgi, vesicle, then out by exocytosis.</figcaption>
+</figure>
+
+
 ## B2.2.9 Vesicles (HL only)
 
 Vesicles are small membrane-bound sacs that move materials between compartments, or between a cell and its surroundings. **Clathrin** is a protein that assembles into a lattice-like cage on the cytoplasmic side of a membrane. The cage helps the membrane curve and pinch off as a coated vesicle, for example during endocytosis and from the Golgi apparatus.
@@ -107,6 +137,12 @@ Vesicles are small membrane-bound sacs that move materials between compartments,
 | 60 | 5% | 15% | 40% | 40% |
 
 The peak moves from rER (5 min) to Golgi (25 min) to vesicles and then outside. This fits the route rER, Golgi, secretory vesicle, exocytosis, so the protein is secreted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--06-pulse-chase-hl.webp" width="900" height="940" alt="Line graph of radioactivity (% of total) at 5, 25 and 60 minutes. The rough ER falls 80, 30, 5; the Golgi is 10, 45, 15; vesicles near the surface 5, 20, 40; outside the cell 5, 5, 40. The peak moves rER to Golgi to vesicles and outside, fitting secretion." loading="lazy">
+  <figcaption>The radioactive peak moves along the secretion route over time.</figcaption>
+</figure>
+
 
 ## B2.3.1 Differentiation
 
@@ -133,6 +169,12 @@ A stem cell niche is the microenvironment around stem cells in an adult tissue. 
 | Pluripotent | Most cell types of the body, but not a whole organism | Early embryo, soon after the totipotent stage |
 | Multipotent | A limited range of related cell types | Adult tissue, such as bone marrow |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--07-stem-cell-potency.webp" width="900" height="1130" alt="Three rows compare how many cell types a stem cell can become. Totipotent cells can become any cell type plus extra-embryonic tissue; pluripotent cells most body cell types but not a whole organism; multipotent adult cells, such as in bone marrow, only a limited range of related types. Stem cells self-renew and differentiate." loading="lazy">
+  <figcaption>Potency narrows from totipotent to pluripotent to multipotent.</figcaption>
+</figure>
+
+
 ## B2.3.5 and B2.3.6 Cell size and surface area-to-volume ratio
 
 Cell size matches function. In humans an egg is about 0.1 mm across, erythrocytes about 7 µm, white blood cells somewhat larger, neurons can have axons over a metre long, and striated muscle fibres can reach several centimetres.
@@ -158,6 +200,12 @@ The ratio falls as the cell grows: it is 16 times smaller at 80 µm than at 5 µ
 **Worked example: magnification.** An electron micrograph is printed at ×12 000. A mitochondrion measures 54 mm long on the page.
 Actual length = image length ÷ magnification = 54 mm ÷ 12 000 = 0.0045 mm = **4.5 µm**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--08-surface-area-volume-cubes.webp" width="900" height="1100" alt="Three cubes drawn to scale with their computed surface area, volume and ratio: 150, 125 and 1.2 per micrometre for 5 micrometres; 2400, 8000 and 0.3 for 20; 38 400, 512 000 and 0.075 for 80. Bars show the ratio, which is 16 times smaller at 80 micrometres than at 5." loading="lazy">
+  <figcaption>As a cube grows, surface area:volume ratio falls (ratio = 6/s).</figcaption>
+</figure>
+
+
 ## B2.3.7 Raising the ratio (HL only)
 
 Cells raise surface area without raising volume by flattening, by microvilli and by invagination (infolding).
@@ -166,6 +214,12 @@ Cells raise surface area without raising volume by flattening, by microvilli and
 - **Proximal convoluted tubule cells** have microvilli on the lumen side and infolded membranes at their base. They reabsorb a lot from the filtrate.
 
 **Worked example.** A flat membrane patch is 10 µm × 10 µm (100 µm²). Add 400 microvilli, each a cylinder 0.1 µm wide and 1 µm tall. Each adds a side area of π × 0.1 × 1 = 0.314 µm², which is 125.7 µm² in total. The tip of each cylinder replaces the flat area it covers. New area = 225.7 µm², about 2.3 times the original.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--09-raising-sa-v-hl.webp" width="900" height="1135" alt="Top: a biconcave erythrocyte (area 135, volume 90, ratio 1.5 per micrometre) beside a sphere of the same volume (radius 2.78 micrometres, area 97, ratio 1.08), so about 39% more surface. Bottom: 400 microvilli on a 100 square micrometre patch add 125.7 square micrometres, giving 225.7, about 2.3 times the original." loading="lazy">
+  <figcaption>Flattening and microvilli raise surface area without raising volume.</figcaption>
+</figure>
+
 
 ## B2.3.8 Pneumocytes (HL only)
 

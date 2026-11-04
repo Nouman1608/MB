@@ -49,6 +49,17 @@ chromosome.
 
 Human body cells: **23 pairs = 46 chromosomes**. Mitosis keeps the number the same in each new cell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
+
 ## 4.1.2.2 The cell cycle -- three stages
 
 AQA wants the **three overall stages**. Do not name the phases of mitosis -- they are not required.
@@ -112,11 +123,23 @@ Ask: **is a eukaryotic cell making genetically identical copies of itself?**
 | An embryo increasing its cell number | |
 | A strawberry runner forming a new plant | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--10-where-mitosis-occurs.webp" width="900" height="1060" alt="Five contexts with ticks where mitosis occurs and two crosses (sperm formation, bacterial splitting)." loading="lazy">
+  <figcaption>Mitosis makes identical cells in a eukaryote.</figcaption>
+</figure>
+
+
 ### Data reminders
 
 - **Percentage of cells in mitosis** = (cells in mitosis ÷ total cells counted) × 100.
 - **Time in mitosis** ≈ fraction of cells in mitosis × length of the whole cycle.
 - **Cells after n cycles** from one cell = 2ⁿ (not 2 × n).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--03-cell-cycle-dna.webp" width="900" height="980" alt="Three drawn stages: grow and copy DNA, mitosis moves one set of chromosomes to each end, the cell splits into two identical cells. Graph of DNA per cell: 8 units, rising to 16 in stage 1, flat at 16 through mitosis, then 8 in each new cell." loading="lazy">
+  <figcaption>DNA doubles from 8 to 16 units, then each new cell has 8 again.</figcaption>
+</figure>
+
 
 ## 4.1.2.3 Stem cells
 
@@ -151,6 +174,12 @@ Most / many / any: learn the three words in that order.
 
 **Evaluate = both sides + a conclusion linked to them.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--11-stem-cell-uses-risks.webp" width="900" height="900" alt="A stem cell differentiating into nerve cells (paralysis) and insulin-making cells (diabetes), with the risk of viral infection and the ethical objection." loading="lazy">
+  <figcaption>Possible uses are weighed against risks and objections.</figcaption>
+</figure>
+
+
 ### Plant cloning from meristems
 
 Clones are produced **quickly and economically**. Two uses to quote:
@@ -158,6 +187,32 @@ Clones are produced **quickly and economically**. Two uses to quote:
 1. **Rare species** cloned to protect them from **extinction**.
 2. **Crop plants** with special features (e.g. **disease resistance**) cloned to give **large numbers of
    identical plants** for farmers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--04-stem-cell-sources.webp" width="900" height="910" alt="Three panels: embryonic stem cells make most human cell types (six shown), adult bone marrow stem cells make blood cells and a narrower range (two shown), plant meristem stem cells make any plant cell type throughout life." loading="lazy">
+  <figcaption>Embryonic, adult and meristem stem cells differ in the range of cells they can become.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--05-therapeutic-cloning-rejection.webp" width="900" height="1020" alt="Two lanes. An embryo made with the patient's genes gives stem cells with the same genes, which the body does not reject. An unrelated donor embryo gives stem cells with different genes, which are rejected." loading="lazy">
+  <figcaption>Stem cells with the patient's own genes are not rejected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--08-mitotic-fraction.webp" width="900" height="1110" alt="400 cells with 36 in mitosis highlighted; 36/400 = 0.09, 0.09 x 20 h = 1.8 h = 108 min." loading="lazy">
+  <figcaption>Fraction of cells in mitosis equals fraction of the cycle spent in mitosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--09-doubling-cells.webp" width="900" height="940" alt="Branching tree from 1 cell to 64 cells over six 12 hour cycles." loading="lazy">
+  <figcaption>Six doublings give 2^6 = 64 cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--12-meristem-cloning.webp" width="900" height="800" alt="A parent plant with a meristem at the shoot tip, mitosis giving identical clones, and the two uses." loading="lazy">
+  <figcaption>Meristem cells are used to clone plants quickly.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

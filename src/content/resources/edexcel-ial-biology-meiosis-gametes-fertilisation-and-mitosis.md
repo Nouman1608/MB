@@ -74,6 +74,17 @@ Meiosis is a reduction division. One diploid cell (2n) divides twice, giving fou
 
 **Worked example: counting combinations.** An organism has 2n = 12, so n = 6 and there are 6 homologous pairs. Independent assortment alone gives 2^6 = 64 different chromosome combinations in gametes. Random fusion of two such gametes gives 64 × 64 = 4096 combinations. In humans (n = 23) a gamete has 2^23 = 8 388 608 possible combinations before crossing over is counted. Crossing over increases the variety far beyond these figures, because each chromosome is itself a new mixture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--05-meiosis-halves-number.webp" width="900" height="1110" alt="A parent cell with four chromosomes in two homologous pairs divides twice. Meiosis I separates the homologous pairs into two haploid cells with double chromosomes; meiosis II separates chromatids into four haploid cells with single chromosomes. DNA per cell goes 4, 2, 1 units." loading="lazy">
+  <figcaption>Meiosis I halves the chromosome number; meiosis II separates chromatids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--06-meiosis-variation.webp" width="900" height="1260" alt="Top: a chiasma between non-sister chromatids turns AB, AB, ab, ab into AB, Ab, aB and ab. Bottom: three homologous pairs give 2^3 = 8 different gametes, humans 2^23 = 8 388 608, and random fertilisation of 8 by 8 gives 64." loading="lazy">
+  <figcaption>Crossing over and independent assortment make every gamete different.</figcaption>
+</figure>
+
+
 ## 3.11 Mammalian gametes
 
 | Feature | Sperm | Egg cell (secondary oocyte) |
@@ -86,6 +97,12 @@ Meiosis is a reduction division. One diploid cell (2n) divides twice, giving fou
 | Cytoplasm | Very little | Large volume with food stores; cortical granules just under the membrane |
 
 The acrosome lets the sperm digest a path through the zona pellucida. The zona pellucida contains the molecules the sperm recognises and binds to, and after fertilisation it hardens. Cortical granules hold the enzymes that cause that change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
+  <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
+</figure>
+
 
 ## 3.12 Fertilisation in mammals
 
@@ -125,6 +142,27 @@ Mitosis is nuclear division giving two nuclei genetically identical to the paren
 
 Cytokinesis then divides the cytoplasm. Mitosis produces genetically identical cells for growth, replacing damaged cells and asexual reproduction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--01-chromosome-structure.webp" width="900" height="1230" alt="A replicated chromosome drawn as two sister chromatids joined at the centromere, with gold telomeres at the four ends. Zooming in, DNA is coiled round histone proteins. A final panel shows a DNA end shortening with each copy: the telomere is used up first and the genes stay intact." loading="lazy">
+  <figcaption>Telomeres are lost from chromosome ends at each replication, so genes are protected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--02-cell-cycle-dna.webp" width="900" height="1100" alt="A ring diagram of G1, S, G2 and M sized from a 500-cell count (53%, 25%, 14%, 8% of a 20 hour cycle) with a graph of DNA per cell: 16 pg in G1, rising to 32 pg in S, level through G2 and mitosis, halving at cytokinesis." loading="lazy">
+  <figcaption>DNA doubles during S phase and halves at cytokinesis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp" width="900" height="1276" alt="Six drawings of an animal cell with four chromosomes: interphase, prophase, metaphase, anaphase, telophase and cytokinesis, each with a short description. Spindle fibres, centrioles and nuclei are labelled in a key; cytokinesis shows an animal cell pinching in and a plant cell forming a cell plate." loading="lazy">
+  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--09-mutation-to-tumour.webp" width="900" height="1240" alt="A proto-oncogene stimulates division and a tumour suppressor gene slows it. Mutation turns the first into an always-on oncogene and disables the second, so cells double each cycle (1, 2, 4, 8, 16) into a tumour. A benign tumour stays in a capsule; a malignant one invades and spreads through the blood." loading="lazy">
+  <figcaption>Mutations in genes that control division cause uncontrolled division and tumours.</figcaption>
+</figure>
+
+
 ## 3.15 Core Practical 6: root tip squash
 
 Typical method (follow your centre's version):
@@ -147,6 +185,12 @@ Mitotic index = 57 / 412 = 0.138, or 13.8%.
 If the whole cell cycle takes 18 hours, the time spent in mitosis is about 0.138 × 18 = 2.5 hours. The time in prophase is 29 / 412 × 18 = 1.3 hours. This assumes cells are spread evenly through the cycle.
 
 **Comparison.** A treated root tip has 21 cells in mitosis out of 390. Mitotic index = 21 / 390 = 5.4%. Percentage decrease = (13.8 − 5.4) / 13.8 × 100 = about 61% (using unrounded values, 61.1%). A substance that cuts the mitotic index may slow or stop cells entering mitosis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--04-mitotic-index.webp" width="900" height="1232" alt="A grid of 500 root tip cells, one symbol each: 440 interphase and 60 in mitosis (30 prophase, 12 metaphase, 8 anaphase, 10 telophase). A table gives time in a 24 hour cycle for each stage and the mitotic index 60/500 = 12%." loading="lazy">
+  <figcaption>The fraction of cells in a stage equals the fraction of the cycle spent in it.</figcaption>
+</figure>
+
 
 ## Common errors
 

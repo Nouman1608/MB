@@ -4,15 +4,17 @@ seoTitle: "IGCSE Accounting 0452 Ratios and Analysis Revision Notes"
 seoDescription: "Revision notes for Cambridge IGCSE Accounting 0452: the ten accounting ratios, interpreting them, profit vs cash, comparisons and users of accounts."
 resourceType: "revision-notes"
 subject: "accounting"
-level: ["igcse"]
+level: ["igcse","o-levels"]
 topic: "Analysis and interpretation"
 boards: ["cambridge"]
-qualifications: ["igcse"]
-syllabusCodes: ["0452"]
+qualifications: ["igcse", "o-level"]
+syllabusCodes: ["0452", "7707"]
 syllabusSeries: "2027-2029"
 order: 6
 syllabusTopics:
   - qualification: "igcse"
+    topic: "analysis-and-interpretation"
+  - qualification: "o-level"
     topic: "analysis-and-interpretation"
 description: "Condensed recall notes on the ten accounting ratios, interpreting them, profit versus cash, inter-business comparison, interested parties and the limitations of accounting statements for Cambridge IGCSE Accounting (0452) Topic 6, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
@@ -24,7 +26,8 @@ featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> Accounting 0452 syllabus (and Cambridge O Level Accounting 7707, which has the
+> same subject content for the same series) for exams in 2027, 2028 and 2029 (version 1),
 > first examined in the March 2027 series in India and the June 2027 series
 > elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
 > (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
@@ -77,6 +80,22 @@ the only formulas accepted in candidate responses."
 
 Average inventory = (opening inventory + closing inventory) ÷ 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-analysis-revision-notes--03-acc-roce-before-interest.webp" width="900" height="860" alt="Harbour Traders Limited. 2025: profit 60,000 plus interest 4,000 gives 64,000; divided by capital employed 360,000 is 17.78 percent (using profit after interest would wrongly give 16.67 percent). 2026: 48,000 plus 4,000 gives 52,000; divided by 380,000 is 13.68 percent (wrong: 12.63 percent). Capital employed is issued shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE uses profit before interest, so add the interest back to profit for the year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--05-ratio-margin-to-markup.webp" width="900" height="900" alt="A graph of markup against gross profit margin drawn from markup = margin / (100 - margin). The curve is above the equal line everywhere, with marked points 20% to 25%, 25% to 33.3%, 37.5% to 60% and 50% to 100%." loading="lazy">
+  <figcaption>For the same trading, markup is always the bigger percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--03-ratio-inventory-turnover.webp" width="900" height="840" alt="Opening inventory 20,000 and closing 30,000 average 25,000. Cost of sales 140,000 is drawn as blocks of 25,000: five whole blocks and 0.6 of a sixth, so turnover is 5.6 times." loading="lazy">
+  <figcaption>Turnover shows how many times average inventory is sold and replaced in a year.</figcaption>
+</figure>
+
+
 ## 6.2 Interpretation of accounting ratios
 
 | Ratio | What it shows | A rise usually means |
@@ -128,6 +147,27 @@ capital introduced, loans received and repaid, shares issued; drawings
 and dividends (cash out, not expenses in the statement of profit or
 loss).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--11-ratios-days-vs-terms.webp" width="900" height="915" alt="Receivable days rose from 47.15 to 63.48 against 45 allowed (18.48 over). Payable days rose from 41.93 to 56.41 against 60 allowed (3.59 inside). Inventory days fell from 50.69 to 46.64." loading="lazy">
+  <figcaption>Compare actual days with the credit terms in the scenario.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--09-ratios-gp-causes.webp" width="900" height="1010" alt="Ferndale 2026 gross profit and margin under four causes: reported 287,000 (41.59%); inventory 4,000 too high 291,000 (42.17%); prices 5% higher 321,500 (44.38%); purchases 3% dearer 275,120 (39.87%); 10% more units 315,700 (41.59%)." loading="lazy">
+  <figcaption>Four causes change gross profit differently; more units leave the margin unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--08-ratios-profit-bridge.webp" width="900" height="785" alt="From profit 72,400 in 2025, gross profit adds 47,000, expenses deduct 46,000 and loan interest deducts 2,800, giving 70,600." loading="lazy">
+  <figcaption>Profit for the year can fall even when gross profit rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--09-ratios-cash-bridge.webp" width="900" height="926" alt="A waterfall runs from profit 70,600 through depreciation, asset purchases, working capital, dividends and the new loan to a change in bank of -5,000." loading="lazy">
+  <figcaption>Profit and cash differ because of non-cash costs, asset purchases, working capital, dividends and loans.</figcaption>
+</figure>
+
+
 ## 6.3 Inter-business comparison
 
 **Factors that may affect two businesses' ratios:** type of goods or
@@ -164,6 +204,12 @@ inventory valuation and allowances are choices and estimates, so
 figures vary between businesses and after a change of policy.
 - **Non-financial aspects** — e.g. skill of the workforce, location of
 the business, economic climate: not measured in money, so not shown.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-analysis-revision-notes--02-u2-009-three-limitations.webp" width="900" height="1132" alt="Three cards. Historic cost: assets are at original cost while value today is unknown. Accounting policies: two businesses with the same assets can report different figures because methods are choices. Non-financial aspects such as workforce skill, location and economic climate are not measured in money, so they are not shown." loading="lazy">
+  <figcaption>Why correct figures can still mislead: historic cost, accounting policies and non-financial aspects.</figcaption>
+</figure>
+
 
 ## Worked example: two years at a glance
 

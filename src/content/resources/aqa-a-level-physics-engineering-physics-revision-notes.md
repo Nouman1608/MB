@@ -129,6 +129,12 @@ overall    = thermal × mechanical
 
 **Reversed heat engines (3.11.2.6).** Work moves energy from cold to hot: Q_H = Q_C + W. A fridge's useful output is Q_C; a heat pump's is Q_H. COP can be greater than 1. For the same temperatures, COP_hp = COP_ref + 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--09-aphy-medical-engine-cycle.webp" width="900" height="1050" alt="On a p-V graph the theoretical petrol cycle is two adiabatics joined by two constant-volume lines. The loop is clockwise, so it is an engine, and its area is the work per cycle: 380 J here. With 25 cycles a second in four cylinders that gives an indicated power of 38 kW." loading="lazy">
+  <figcaption>The area of the p-V loop is the work done per cycle, which gives indicated power.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Angular speed vs angular velocity:** angular velocity includes the sense of rotation.
@@ -167,6 +173,12 @@ overall    = thermal × mechanical
 10. (600 − 300)/600 = **0.50**
 11. 255/45 = **5.7**
 12. 24/30 = **0.80**; friction power = **6 kW**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--03-aphy-medical-doppler.webp" width="900" height="1100" alt="A probe sends ultrasound at 60 degrees to blood flowing along a vessel and the echo is shifted in frequency by delta f = 2 f v cos(theta)/c. For 5.0 MHz, 0.45 m/s and c = 1570 m/s the shift is 1.4 kHz at 60 degrees; it is largest along the flow and zero at 90 degrees." loading="lazy">
+  <figcaption>The Doppler shift depends on cos of the angle between beam and flow, so the beam must not be directed across the vessel.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

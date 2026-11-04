@@ -48,6 +48,12 @@ Do not use these when a changes with time. That is the subject of sections 3 to 
 
 Method: draw a force diagram, mark the direction of motion, write one equation of motion for each direction, then solve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--03-suvat-trapezium.webp" width="900" height="920" alt="A straight-line velocity-time graph from 5 to 13 m/s over 4 s has gradient 2. The area is a 36 m trapezium that splits into a rectangle of 20 and a triangle of 16. These give v = u + at, s = ½(u+v)t, s = ut + ½at², and eliminating t gives v² = u² + 2as." loading="lazy">
+  <figcaption>The suvat equations are the gradient and area of one straight-line velocity-time graph.</figcaption>
+</figure>
+
+
 ## 2. Motion on an inclined plane
 
 A particle of mass m on a plane at angle θ to the horizontal has weight mg acting vertically downwards. Resolve it along and perpendicular to the plane:
@@ -108,6 +114,17 @@ Each integration gives a constant. Use the given conditions (for example, the ve
 
 The velocity is negative for 0 < t < 1 and positive for 1 < t < 5, so the particle turns round at t = 1. Distance = |x(1)| + (x(5) − x(1)) = 7/3 + 32/3 = **13 m**. Displacement alone, 25/3 m, would be the wrong answer to a "distance travelled" question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--02-vt-graph-areas.webp" width="900" height="900" alt="A velocity-time graph rises to 12 m/s in 5 s, stays level to t = 11, then falls to minus 4 m/s at t = 15, crossing zero at t = 14. The areas are 30, 72, 18 above the axis and 2 below. Displacement is 118 m and distance 122 m." loading="lazy">
+  <figcaption>Gradients give acceleration; areas give displacement, and distance counts every area as positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--07-projectile-two-motions.webp" width="900" height="800" alt="A projectile launched at 24.5 m/s with sin α = 0.6, drawn to scale with dots every 0.5 s. The dots are 9.8 m apart horizontally (constant 19.6 m/s) while vertical speed falls from 14.7 to zero at the top and to minus 14.7 on landing. T = 3 s, R = 58.8 m, H = 11.0 m." loading="lazy">
+  <figcaption>Horizontal motion is uniform and vertical motion has acceleration −g; time links the two.</figcaption>
+</figure>
+
+
 ## 4. Variable acceleration in two dimensions
 
 Forces and motion are written as vectors in i and j (or as column vectors; the specification allows either). Each component obeys Newton's law separately: F = ma means Fx = max and Fy = may. Integrating a vector integrates each component and adds a constant vector, found from the initial velocity or position.
@@ -123,6 +140,17 @@ Forces and motion are written as vectors in i and j (or as column vectors; the s
     angle above the i direction: tan⁻¹(5/8) = 32.0°
 
 **v = (8i + 5j) m s⁻¹, r = (4i + j) m, speed 9.43 m s⁻¹ at 32.0° to i.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--05-calculus-turning-points.webp" width="900" height="1040" alt="Two graphs share a time axis. Displacement x = 2t³ − 15t² + 24t reaches 11 m at t = 1, minus 16 m at t = 4 and minus 5 m at t = 5. Velocity, its derivative, is zero at t = 1 and 4 and negative between. Displacement is minus 5 m but distance is 11 + 27 + 11 = 49 m." loading="lazy">
+  <figcaption>Find where v = 0, split the motion there, and add the sizes of the stages for distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--09-two-angles-one-point.webp" width="900" height="910" alt="Two parabolas from the origin at 14 m/s pass through (10, 5). Using sec²α = 1 + tan²α gives T² − 4T + 3 = 0, so tan α = 1 or 3, α = 45° or 71.6°. The 45° path has range 20 m and is at its top at the point; the 71.6° path has range 12 m and passes it on the way down." loading="lazy">
+  <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
+</figure>
+
 
 ## 5. Variable acceleration in three dimensions, and using differentiation
 
@@ -141,6 +169,12 @@ Sometimes you are given the position vector r(t) and asked for the force. Then y
         v = 4√2 i + 4 k,  speed = √(32 + 16) = √48 = 4√3 = 6.93 m s⁻¹
 
 **(a) F = 8i + 12t j N, (b) t = 0.5 s, (c) 6.93 m s⁻¹.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
+  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
+</figure>
+
 
 ## 6. Modelling comments
 

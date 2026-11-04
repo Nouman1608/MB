@@ -79,6 +79,22 @@ In this specification the scalar product is written with a dot. The vector produ
 3. Solve PF·d = 0 for t.
 4. Distance from P to the line is |PF|.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--06-line-equation.webp" width="900" height="1253" alt="The line r = (3, -1) + t(2, 5): a position vector to the point, the direction vector (2, 5), and points for t = -1, 0, 1, 2. Its gradient is 5/2 so y = 5x/2 - 17/2." loading="lazy">
+  <figcaption>A line is one point plus any multiple of a direction vector, in 2D or 3D.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--08-scalar-product-angle.webp" width="900" height="917" alt="Vector u = (2, 1) with (1, 2), (-1, 2) and (-2, 1): scalar products 4, 0 and -3 give 36.9 (acute), 90 and 126.9 degrees (obtuse). For lines, directions (2, 1, -2) and (1, -4, 8) give cos = -2/3: 131.8 degrees between the vectors, 48.2 degrees between the lines." loading="lazy">
+  <figcaption>The sign of u.v tells you whether the angle is acute, right or obtuse; for two lines quote the acute angle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--09-foot-of-perpendicular.webp" width="900" height="957" alt="Point P(9, 1) and the line through A(1, 2) with direction (2, 1). Solving PX.d = 5t - 15 = 0 gives t = 3 and X = (7, 5); PX = (-2, 4) is perpendicular to the line and has length 2 root 5. Other points on the line are further from P." loading="lazy">
+  <figcaption>The closest point on a line is where the vector to it is perpendicular to the direction, so set PX.d = 0.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Magnitude and unit vector.** For v = i − 2j + 2k, |v| = √(1 + 4 + 4) = 3, so v̂ = (i − 2j + 2k)/3.
@@ -107,6 +123,12 @@ From the first two, 3 − 2s = s, so s = 1 and t = 2. In the k equation the left
 
 For the angle, d₁·d₂ = 2 − 1 − 2 = −1 and |d₁| = |d₂| = √6, so cos θ = −1/6 and θ = 99.6°. The acute angle between the lines is 180° − 99.6° = **80.4°**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--07-intersect-or-skew.webp" width="900" height="916" alt="Top views of two pairs of 3D lines. l1 and l2 cross at (5, 4) and both have z = 5 there, so they intersect at (5, 4, 5). l1 and l3 cross in the top view at (-1, 1) but have z = -4 and z = 2, so they are skew." loading="lazy">
+  <figcaption>Two lines can cross in a top view and still miss; the third component decides.</figcaption>
+</figure>
+
+
 ### Collinear points
 
 Three points are collinear when AB is a scalar multiple of BC. The two vectors are parallel and share the point B, so all three points sit on one line. For A(1, 2, 3), B(3, 5, 2) and C(7, 11, 0):
@@ -118,6 +140,12 @@ BC = 4i + 6j − 2k = 2AB
 
 So A, B and C lie on one straight line. State the multiple and the shared point in your conclusion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--04-collinear-proof.webp" width="900" height="1029" alt="Trapezium ABCD with AB = a, AD = b, DC = 2a and F on AC with AF:FC = 1:2. Then BF = one third of BD, so B, F and D are collinear and BF:FD = 1:2." loading="lazy">
+  <figcaption>Write each vector in terms of a and b; two parallel vectors sharing a point prove the points are collinear.</figcaption>
+</figure>
+
+
 ### Parallelograms and rhombuses
 
 - In a parallelogram ABCD, AB = DC and AD = BC. Use whichever pair gives you the missing vertex quickly.
@@ -125,12 +153,24 @@ So A, B and C lie on one straight line. State the multiple and the shared point 
 - The diagonals of a rhombus are perpendicular, so you can test a·b = 0 for the two diagonal vectors.
 - The diagonals of any parallelogram bisect each other, so both have the same midpoint.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--03-adding-vectors.webp" width="900" height="1161" alt="a = (2, 5) and b = (4, -3). Placing b at the end of a gives a + b = (6, 2) (triangle law); b and a from a common point give the same diagonal (parallelogram law). a - b = (-2, 8) runs from the tip of b to the tip of a." loading="lazy">
+  <figcaption>Add head to tail or complete the parallelogram; a - b joins the tip of b to the tip of a.</figcaption>
+</figure>
+
+
 ### Writing answers
 
 - Say "end minus start" in your head before you write each vector.
 - Show the equations for each component when solving for an intersection, not just the answers.
 - Write the conclusion in words: "the lines intersect at ...", "the lines are skew because ...", "the vectors are perpendicular because a·b = 0".
 - Give exact values such as 2√14 when the question asks for them, and decimals to the accuracy requested.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--01-magnitude-in-3d.webp" width="900" height="910" alt="A box with sides 3, 2 and 6: the floor diagonal is root 13, then the vector a = 3i + 2j + 6k has magnitude 7 (13 + 36 = 49). The angle with the z-axis has cosine 6/7, 31.0 degrees (AQA only; OCR excludes 3D direction)." loading="lazy">
+  <figcaption>The 3D magnitude formula is Pythagoras applied twice, first on the floor and then up the height.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -166,6 +206,12 @@ So A, B and C lie on one straight line. State the multiple and the shared point 
 8. (p, 3, −2)·(4, −2, p) = 4p − 6 − 2p = 2p − 6 = 0, so **p = 3**.
 9. i: 2 + t = 2 + 2s; j: 1 + t = 3; so t = 2, s = 1. k: 2 on the left and 3 − 1 = 2 on the right. **Yes, at (4, 3, 2).**
 10. **(2, 3, −1)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--02-direction-quadrant.webp" width="900" height="1269" alt="Vectors -3i + 7j and 3i - 7j from the origin. Both have the calculator angle 66.8 degrees, but their directions anticlockwise from i are 113.2 degrees (second quadrant) and 293.2 degrees (fourth quadrant)." loading="lazy">
+  <figcaption>The calculator gives only the acute angle, so sketch the vector and adjust for its quadrant.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

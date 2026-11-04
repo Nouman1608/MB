@@ -56,6 +56,17 @@ The output is 4x − 9.
 
 Working backwards means undoing each step in reverse order, using the inverse operation each time. The Extension material below turns this idea into a formal tool.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--05-order-matters.webp" width="900" height="650" alt="Two function machines start with x = 4. Add 3 then multiply by 5 gives 7 then 35, the expression 5(x + 3). Multiply by 5 then add 3 gives 20 then 23, the expression 5x + 3. The outputs differ, so brackets record the order." loading="lazy">
+  <figcaption>The same two steps in a different order give different outputs, 35 and 23, for input 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--01-function-machine.webp" width="900" height="1030" alt="A function machine for f(x) = 3x minus 5. The input 4 is multiplied by 3 to give 12, then 5 is subtracted to give 7. Putting 2a in the brackets gives 6a and then 6a minus 5. Whatever is in the brackets replaces x." loading="lazy">
+  <figcaption>Whatever goes in the brackets replaces x in the rule.</figcaption>
+</figure>
+
+
 ## A9 (Extension only): f(x) notation, domain and range
 
 A **function** is a rule that pairs every allowed input with a single output. We write f(x) = 2x + 5 to name the function f and its rule. Then f(3) means "put x = 3 into the rule", so f(3) = 11. The letter x is only a placeholder: f(a + 1) = 2(a + 1) + 5 = 2a + 7.
@@ -79,6 +90,22 @@ The smallest output is 2 (at x = 0) and the largest is 11 (at x = −3). The ran
 
 **Example 4.** g(x) = 2x − 1 for 1 ≤ x ≤ 6. A straight-line rule only increases, so the endpoints give the extremes: g(1) = 1 and g(6) = 11. The range is 1 ≤ g(x) ≤ 11.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--05-restricted-range.webp" width="900" height="910" alt="The curve f(x) = x squared + 2 is drawn only for x from minus 3 to 2. The lowest output is 2 at x = 0, the dip, and the highest is 11 at the left end x = minus 3. The right end gives only 6. The range is 2 up to 11." loading="lazy">
+  <figcaption>On a restricted domain the range comes from the shape of the curve, not just from the end values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--02-mapping-domain-range.webp" width="900" height="990" alt="A mapping diagram for h(x) = x squared minus 4 with domain minus 2, minus 1, 0, 1, 3. The arrows give outputs 0, minus 3, minus 4, minus 3, 5. The range is minus 4, minus 3, 0, 5, each listed once; two inputs may share an output." loading="lazy">
+  <figcaption>The range lists each different output once; two inputs can share an output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--03-domain-range-graphs.webp" width="900" height="1110" alt="Top graph: g(x) = 3x squared plus 1 has lowest point (0, 1), so its range is g(x) at least 1. Bottom graph: k(x) = 5 over (x minus 4) has a gap at x = 4 where the rule divides by zero, so x = 4 is not in the domain." loading="lazy">
+  <figcaption>g(x) = 3x² + 1 never goes below 1, and k(x) = 5/(x − 4) has no value at x = 4.</figcaption>
+</figure>
+
+
 ## A9 (Extension only): composite functions
 
 The composite function **fg(x)** means "do g first, then f". It is f(g(x)). Read it from the right.
@@ -100,6 +127,17 @@ x = 4 or x = −4
 ```
 
 Keep both roots unless the domain rules one out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--06-composite-two-roots.webp" width="900" height="910" alt="The composite fg(x) = 2x squared minus 7 is a U-shaped curve with lowest point (0, minus 7). A horizontal line at 25 meets it at x = minus 4 and x = 4, so solving fg(x) = 25 gives two answers." loading="lazy">
+  <figcaption>Solving fg(x) = 25 gives two roots because the horizontal line meets the curve twice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--06-composite-order.webp" width="900" height="840" alt="With f(x) = 3x minus 1 and g(x) = x squared plus 4, starting from 2: fg(2) applies g first to give 8 then f to give 23; gf(2) applies f first to give 5 then g to give 29. So fg(x) = 3x squared plus 11 and gf(x) = 9x squared minus 6x plus 5 differ." loading="lazy">
+  <figcaption>In gf(x) the function nearest x acts first, so fg(x) and gf(x) usually differ.</figcaption>
+</figure>
+
 
 ## A9 (Extension only): inverse functions
 
@@ -133,6 +171,17 @@ x = (2y + 1)/(y − 1)
 
 So k⁻¹(x) = (2x + 1)/(x − 1). Collecting every x-term on one side, then factorising, is the key step.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--04-inverse-machine.webp" width="900" height="810" alt="The same four numbers 5, 10, 3, 1 in two rows. f multiplies by 2, subtracts 7, divides by 3, taking 5 to 1. The inverse runs right to left and undoes each step in reverse order: times 3, add 7, divide by 2, taking 1 back to 5." loading="lazy">
+  <figcaption>The inverse undoes each step of f in the reverse order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--05-inverse-graph.webp" width="900" height="1034" alt="Graphs of f(x) = (2x minus 7) over 3 and its inverse (3x plus 7) over 2, with the dashed line y = x. Point (5, 1) on f matches (1, 5) on the inverse, the mirror image in y = x. The link between them crosses y = x at (3, 3)." loading="lazy">
+  <figcaption>The graph of f⁻¹ is the reflection of the graph of f in the line y = x.</figcaption>
+</figure>
+
+
 ## A10 (Core): coordinates in four quadrants
 
 The axes cross at the origin (0, 0). They split the plane into four quadrants, numbered anticlockwise from the top right.
@@ -149,6 +198,17 @@ A point is written (x, y): along first, then up or down. Points on an axis belon
 **Example 8.** A(−3, 2), B(1, 2) and C(3, −1) are three vertices of parallelogram ABCD, taken in order. Find D.
 
 Moving from A to B is 4 across and 0 up. D to C must be the same move, so D = C − (4, 0) = (−1, −1). Check: A to D is 2 across and 3 down, and B to C is 2 across and 3 down. ✓
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--08-parallelogram-vertex.webp" width="900" height="880" alt="A, B and C of parallelogram ABCD are plotted at (minus 3, 2), (1, 2) and (3, minus 1). Moving A to B is 4 across, so D to C is also 4 across, giving D = (minus 1, minus 1). A to D and B to C are both 2 across and 3 down." loading="lazy">
+  <figcaption>Opposite sides of a parallelogram make the same move, which locates the fourth vertex.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--02-quadrants.webp" width="900" height="980" alt="A grid from -6 to 6 is split into four coloured quadrants labelled with the signs of x and y, with a point in each: (3, 4), (-3, 4), (-3, -4), (3, -4). (6, 0) lies on the x-axis and (0, -2) on the y-axis." loading="lazy">
+  <figcaption>The signs of x and y tell you the quadrant; on the x-axis y = 0 and on the y-axis x = 0.</figcaption>
+</figure>
+
 
 ## A11 (Core): plotting straight-line graphs
 
@@ -187,9 +247,36 @@ y = −(3/4)x + 3
 
 The gradient is −3/4 and the y-intercept is 3. For the x-intercept set y = 0: 3x = 12, so x = 4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--02-gradient-signs.webp" width="900" height="880" alt="Four small graphs: a rising line has positive gradient, a falling line negative, a horizontal line zero, and a vertical line has no gradient because the run is zero." loading="lazy">
+  <figcaption>Uphill is positive, downhill is negative, flat is zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--06-axis-intercepts.webp" width="900" height="1120" alt="The line 4x + 3y = 12 is drawn through (0, 4) and (3, 0), found by putting x = 0 then y = 0, with a check point (6, -4). All three points are on one line." loading="lazy">
+  <figcaption>For x and y on the same side, set x = 0 and y = 0 to find the axis crossing points, then check a third point.</figcaption>
+</figure>
+
+
 ### Parallel lines
 
 Lines with the same gradient are **parallel**. So y = 2x − 5, y = 2x and 4x − 2y = 7 are all parallel. The third one rearranges to y = 2x − 3.5. A line parallel to y = 2x − 5 with y-intercept 4 is y = 2x + 4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--05-draw-line-table.webp" width="900" height="1180" alt="A table gives six points for y = -3x + 4 from x = -2 to 3. They lie on one straight line and a step triangle shows y falls by 3 for each +1 in x. The line crosses the y-axis at (0, 4)." loading="lazy">
+  <figcaption>Make a table, plot every point and rule one line across the whole range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+
 
 ## A11 (Extension only): finding equations of lines
 
@@ -223,6 +310,22 @@ y − 6 = −(4/3)(x − 5)
 ```
 
 It meets the x-axis where y = 0: 4x = 38, so x = 9.5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--07-line-two-points.webp" width="900" height="910" alt="A straight line passes through (minus 3, minus 4) and (5, 8). A step triangle of 8 across and 12 up gives gradient 3/2. Using one point, y + 4 = 3/2 (x + 3), so y = 3/2 x + 1/2; the line crosses the y-axis at (0, one half)." loading="lazy">
+  <figcaption>Gradient from two points, then the equation of the line through them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--06-point-gradient-line.webp" width="900" height="880" alt="A line through (4, minus 1) with gradient minus 2/3 drawn on a grid. A step triangle goes across 3 and down 2 to (7, minus 3). The equation y minus (minus 1) = minus 2/3 (x minus 4) rearranges to y = minus 2/3 x + 5/3, or 2x + 3y = 5, and the line crosses the y-axis at (0, 5/3)." loading="lazy">
+  <figcaption>A point and a gradient fix the line: y - y1 = m(x - x1), checked by substituting the point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+
 
 ## Common errors
 

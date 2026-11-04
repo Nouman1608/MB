@@ -77,6 +77,12 @@ The auxin explanation is for **shoots only**. For roots, describe the response; 
 6. Shaded side grows longer → shoot bends TOWARDS light
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--10-phototropism-tip-experiments.webp" width="900" height="950" alt="Four oat seedlings with light from the left. A untreated: bends towards the light. B tip cut off: little growth, no bend. C tip covered by a light-proof cap: grows straight up. D region below the tip covered by a sleeve: still bends towards the light." loading="lazy">
+  <figcaption>The shoot tip makes auxin and detects the light; covering the region below it does not stop bending.</figcaption>
+</figure>
+
+
 ### Method in steps: horizontal shoot curving upwards
 
 ```
@@ -104,11 +110,38 @@ The auxin explanation is for **shoots only**. For roots, describe the response; 
 - **Independent variable:** direction of light. **Dependent variable:** direction or angle of growth.
 - **Measure:** angle of curvature of each shoot with a protractor; calculate a mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--11-clinostat-control.webp" width="900" height="1006" alt="Two dishes of pinned seeds in the dark with roots pointing down, up and sideways. Still dish: roots curve down and shoots curve up. Clinostat that turns the seedlings slowly: roots and shoots keep growing in the direction they started because no side is affected by gravity for longer." loading="lazy">
+  <figcaption>The clinostat is the control: without one-sided gravity the curving does not happen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--07-phototropism-setup.webp" width="900" height="840" alt="Two light-proof boxes of seedlings: one with a slit giving one-sided light, where shoots curve towards it and the angle from the vertical is measured; and a control with even light where they grow straight. Other variables are kept the same." loading="lazy">
+  <figcaption>Test box with one-sided light versus an evenly lit control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1080" alt="Extended. Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
+  <figcaption>Longer shaded-side cells bend the shoot towards the light.</figcaption>
+</figure>
+
+
 ### Gravitropism (roots and shoots)
 
 - **Test:** soaked bean seeds pinned to damp cotton wool in a Petri dish, roots pointing in different directions; dish kept still, **in the dark**.
 - **Control:** a dish on a **clinostat**, also in the dark.
 - **Result:** still dish, roots curve down and shoots up; clinostat, both keep growing in their starting direction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--08-gravitropism-roots-shoots.webp" width="900" height="740" alt="Three seeds in soil: upright, upside down and sideways. Whichever way it first points, every root curves to grow downwards and every shoot curves to grow upwards. Roots are positively gravitropic, shoots negatively." loading="lazy">
+  <figcaption>Roots grow towards gravity and shoots away from it, whichever way the seed lies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--09-shoot-root-summary.webp" width="900" height="800" alt="Shoot: away from gravity (negative), towards one-sided light (positive). Root: towards gravity (positive), little or no response to one-sided light, any curve away from the light." loading="lazy">
+  <figcaption>Shoot and root responses to gravity and light compared.</figcaption>
+</figure>
+
 
 ### Phototropism (roots)
 
@@ -180,6 +213,17 @@ The inner side of the curve always faces the light (phototropism) or points upwa
 11. 108 ÷ 4 = **27°**.
 12. (35 − 15) ÷ 4 = 20 ÷ 4 = **5 mm per day**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--09-gravitropism-auxin-shoot.webp" width="900" height="920" alt="A shoot lying on its side in the dark. Auxin from the tip collects on the lower side (many more dots below than above). Auxin stimulates cell elongation, so the lower cells are longer and the shoot curves upwards." loading="lazy">
+  <figcaption>More auxin below makes the lower cells longer, so the shoot curves up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--08-results-data.webp" width="900" height="830" alt="Five angles 32, 35, 28, 41 and 34 degrees sum to 170 so the mean is 34 degrees. A root growing from 12 mm to 30 mm in 3 days grew 18 mm, 6 mm per day." loading="lazy">
+  <figcaption>Worked examples 3 and 4 shown as charts with the arithmetic.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Definitions that leave out "grow": a tropism is a **growth** response, not a movement of the whole plant.
@@ -192,6 +236,12 @@ The inner side of the curve always faces the light (phototropism) or points upwa
 - Explaining root responses with auxin when the question asks about shoots, or mixing the two.
 - Missing the control (clinostat or even light) in a planning question, or not keeping a gravitropism experiment in the dark.
 - Giving a mean angle or growth rate without units (° or mm per day).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--06-cell-lengths-40pc.webp" width="900" height="860" alt="Lit-side cells 60 micrometres and shaded-side cells 84 micrometres, drawn to scale. The 24 micrometre difference is 40% longer; the cells are longer, not more numerous." loading="lazy">
+  <figcaption>Shaded-side cells are 40% longer than lit-side cells.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

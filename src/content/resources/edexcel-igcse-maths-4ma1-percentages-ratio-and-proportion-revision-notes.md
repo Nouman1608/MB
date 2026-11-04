@@ -41,6 +41,17 @@ For the rest of topic 1, use the [topic 1 revision notes](/resources/edexcel-igc
 - **Direct proportion (1.7D):** y = kx. When one quantity is multiplied by a number, the other is multiplied by the same number.
 - **Map scale 1 : n (1.7E):** 1 unit on the map stands for n of the same units in real life.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--02-unitary-best-buy.webp" width="900" height="1100" alt="Six pens cost 8.70, so one pen is 1.45 and eleven pens 15.95. A 400 g pack is 4 blocks of 100 g at 0.65 each and a 750 g pack is 7.5 blocks at 0.62 each, so the larger pack is better value." loading="lazy">
+  <figcaption>Find the cost of one unit, then scale up or compare per 100 g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--03-direct-prop-table.webp" width="900" height="1010" alt="A straight line through the origin for s = 3.5t with the points (4, 14), (7, 24.5) and (10, 35), and a table in which s divided by t is 3.5 each time. Linear proportion only; powers belong to section 2.5." loading="lazy">
+  <figcaption>In direct proportion s divided by t is constant and the graph is a straight line through the origin.</figcaption>
+</figure>
+
+
 ## Formulas and methods
 
 | You want | Use |
@@ -61,6 +72,12 @@ For the rest of topic 1, use the [topic 1 revision notes](/resources/edexcel-igc
 | Real to map | real length (in map units) ÷ n |
 
 Useful conversions: 1 m = 100 cm, 1 km = 100 000 cm, 1 kg = 1000 g, 1 litre = 1000 ml.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--01-pct-base-compare.webp" width="900" height="1090" alt="Two strips show 63 of 75 is 84 percent and 750 g of 2.5 kg is 30 percent; two bars show a fare falling from 250 to 215, a 14 percent decrease. Always divide by the whole or the original." loading="lazy">
+  <figcaption>Divide the part by the whole, or the change by the original, then multiply by 100.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -127,6 +144,27 @@ Small reminder: share 96 in the ratio 5 : 3. Total 8 parts, one part 12, shares 
 - If a : b = 2 : 7, then a is 2/9 of the total and a is 2/7 of b.
 - Three-part ratios work the same way. To combine a : b and b : c, scale both so the b values match.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--09-ratio-given-difference.webp" width="900" height="790" alt="Two rows of blocks show 7 parts and 3 parts. The 4 extra parts equal 48, so one part is 12. The numbers are 84 and 36." loading="lazy">
+  <figcaption>The difference in the ratio (4 parts) is 48, so one part is 12.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--04-ratio-rewrite.webp" width="900" height="1000" alt="Block bars show 45 cm : 2 m becoming 9 : 40, 8 : 28 becoming 1 : 3.5, and a : b = 2 : 3 with b : c = 4 : 5 becoming 8 : 12 : 15 once b is matched at 12." loading="lazy">
+  <figcaption>Use the same units, divide by the first part for 1 : n, and match the shared term to combine ratios.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--05-ratio-one-share.webp" width="900" height="840" alt="Five blocks of 17 make the larger share 85 and two blocks make the smaller share 34." loading="lazy">
+  <figcaption>When one share is given, find one part first and then multiply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
+
 ## Equivalents worth knowing (1.6C)
 
 | Percentage | Fraction | Decimal |
@@ -149,6 +187,12 @@ Knowing these lets you check a calculator answer quickly. For example, 25% of a 
 - Convert to cm **before** dividing by n, and convert back to m or km **after** multiplying.
 - Sense check: the real distance must always be much bigger than the map distance.
 - A plan or scale drawing works the same way. A scale of 1 : 50 means 1 cm on the drawing is 50 cm in real life.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--04-map-scale.webp" width="900" height="880" alt="Two map-scale conversions at 1 to 50 000. Map 7.3 cm times 50 000 is 365 000 cm, which is 3.65 km. Real 2.4 km is 240 000 cm, divided by 50 000 gives 4.8 cm on the map." loading="lazy">
+  <figcaption>Map to real: multiply. Real to map: divide.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -194,6 +238,27 @@ Higher tier reminder: a 6% rise then a 6% fall gives 1.06 × 0.94 = 0.9964, an o
 11. 1.4 × 0.75 = 1.05, so an overall **increase of 5%**.
 12. m² = 40 500/50 000 = 0.81, m = 0.9, so **10% per year**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--07-reverse-percentage-blocks.webp" width="900" height="830" alt="Three blocks of £21 make the £63 sale price (75%); a fourth block is the 25% taken off. Dividing by 0.75 gives the original £84. Adding 25% of £63 gives £78.75, which is wrong." loading="lazy">
+  <figcaption>£63 is 75% of the original, so divide by 0.75 to get £84.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--08-repeated-percentage-change.webp" width="900" height="850" alt="100 rises by 25% to 125, then falls by 12% of 125 (15) to 110. Adding the percentages gives 113, which is wrong. The multipliers 1.25 and 0.88 multiply to 1.1, an overall rise of 10%." loading="lazy">
+  <figcaption>Multiply the multipliers: 1.25 × 0.88 = 1.1, an overall increase of 10%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Dividing the change by the new value in a percentage change question.
@@ -208,6 +273,12 @@ Higher tier reminder: a 6% rise then a 6% fall gives 1.06 × 0.94 = 0.9964, an o
 - (Higher tier only) Adding successive percentage changes instead of multiplying the multipliers.
 
 When you are ready, work through the [practice questions](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-practice/), which have full mark schemes, and the [topic 1 practice questions](/resources/edexcel-igcse-mathematics-number-practice/) for wider number work. The free [10-minute diagnostics](/diagnostics/) help you find other weak spots.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--06-compound-interest-years.webp" width="900" height="870" alt="Bars show the interest earned each year on £5000 at 4%: £200, £208 and £216.32. The extra over £200 is interest on earlier interest. The total is £5624.32, an interest of £624.32, compared with £600 simple." loading="lazy">
+  <figcaption>Each year interest is paid on the new total, so it grows: £200, £208, £216.32.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

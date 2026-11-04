@@ -30,6 +30,12 @@ This guide covers AQA A-level Biology (7402) sections 3.4.5, *Species and taxono
 
 The specification says you do not need to recall different taxonomic systems, such as the three domain or five kingdom systems. It also says knowledge of gene technologies will not be tested, and that you will not be required to calculate standard deviations in written papers. Interpreting them is required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
+</figure>
+
+
 ## 3.4.5 Species
 
 Two organisms belong to the same species if they are able to **produce fertile offspring**. Both words matter. A pairing that produces no offspring, or offspring that cannot themselves breed, does not show membership of one species. If the offspring are fertile, the parents' genes can pass into the next generation and mix in a shared gene pool.
@@ -44,6 +50,22 @@ Limits of this definition are worth knowing even though the specification gives 
 - It plays a role in **species recognition**.
 
 Courtship is usually species specific. Males of one firefly species, for example, flash in a particular pattern, and females respond only to their own species' pattern. An animal that responds only to the correct signal avoids wasting gametes and energy on a mating that would give no offspring, or sterile ones. Courtship can also show that a partner is sexually mature and ready to mate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
+  <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
 
 ## 3.4.5 Phylogenetic classification
 
@@ -86,6 +108,12 @@ You must appreciate that advances in **immunology** and **genome sequencing** he
 - **Genome sequencing.** Reading the base sequences of whole genomes gives a large amount of data that can be compared directly. Two species whose sequences are very similar probably shared a common ancestor recently.
 
 These methods can overturn classifications based on appearance. Whales and dolphins look very different from hippopotamuses, but DNA evidence indicates that hippopotamuses are their closest living relatives. Organisms can resemble each other because they live in similar ways rather than because they are closely related, so appearance alone can mislead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--01-taxonomic-hierarchy.webp" width="900" height="1115" alt="A tree with eight ranks from domain to species for cat, lion, bear and frog. All share Eukarya, Animalia and Chordata; the frog splits at class, the bear at family, and cat and lion split only at genus. The cat is written Felis catus with a capital genus." loading="lazy">
+  <figcaption>Each rank sits wholly inside the one above, and closer relatives share more ranks.</figcaption>
+</figure>
+
 
 ## 3.4.7 Comparing genetic diversity
 
@@ -152,6 +180,12 @@ Species A, B and C have **different DNA but identical amino acids**, because the
 
 A short sequence gives a weak conclusion. Real comparisons use long sequences and many genes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1210" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">
+  <figcaption>Proportion of polymorphic loci = polymorphic loci / total loci.</figcaption>
+</figure>
+
+
 ## 3.4.7 Quantitative investigation of variation
 
 A quantitative investigation of variation within a species involves three steps:
@@ -170,6 +204,12 @@ A sample is **random** when every individual or position has an equal chance of 
 4. Collect enough samples to reduce the effect of chance.
 
 To investigate the effect of position on leaf growth, number the leaves on a shrub and choose leaves with random numbers, rather than picking the leaves that are easiest to reach.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
+</figure>
+
 
 ### Mean and standard deviation
 

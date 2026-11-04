@@ -56,6 +56,12 @@ Ribose has a hydroxyl group on the carbon next to the one that carries the base;
 
 In diagrams the carbons of the sugar are numbered 1′ to 5′ ("one prime" and so on). The base attaches to carbon 1′, the phosphate to carbon 5′, and a hydroxyl group sits on carbon 3′. You need these numbers to understand bonding and direction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--09-atp-adp.webp" width="900" height="915" alt="ATP is made of adenine, the sugar ribose and three phosphate groups; adenine plus ribose is adenosine. Hydrolysis with water splits ATP into ADP, which has two phosphates, and an inorganic phosphate Pi, releasing energy. Condensation of ADP and Pi resynthesises ATP in respiration or photosynthesis. Example: releasing 30.5 kilojoules per mole coupled to a reaction needing 14.0 gives a net 16.5." loading="lazy">
+  <figcaption>ATP is hydrolysed to ADP and Pi to release energy, and resynthesised by condensation.</figcaption>
+</figure>
+
+
 ## Phosphodiester bonds (2.1.3(b))
 
 Nucleotides join in a **condensation reaction**. The phosphate on the 5′ carbon of one nucleotide bonds to the hydroxyl on the 3′ carbon of the next. The new link is a **phosphodiester bond**: a phosphate group joined by two ester bonds, one to each sugar. One molecule of water is released for every bond formed.
@@ -73,6 +79,12 @@ A single-stranded polynucleotide has 22 nucleotides. A double-stranded DNA fragm
 3. Completely hydrolysing the fragment to separate nucleotides needs one water molecule per bond: **42 water molecules**.
 
 Always count the bonds *between* units, not the units themselves. Hydrogen bonds between bases are separate, and are not phosphodiester bonds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp" width="900" height="1100" alt="Three nucleotides are stacked one below another. Each has a pentose sugar, a phosphate and a nitrogenous base. The 3′ carbon of one sugar is joined through a phosphate to the 5′ carbon of the next sugar by a phosphodiester bond, releasing one water molecule per bond. The top end has a free phosphate (5′) and the bottom end a free OH (3′); n nucleotides give n minus 1 bonds." loading="lazy">
+  <figcaption>Each condensation reaction joins two nucleotides with a phosphodiester bond and releases one water molecule.</figcaption>
+</figure>
+
 
 ## ADP and ATP (2.1.3(c))
 
@@ -117,12 +129,24 @@ Substituting a = 40 − g gives 80 − 2g + 3g = 104, so g = 24 and a = 16.
 
 The fragment has **16 A–T pairs and 24 G–C pairs**: 16 adenine, 16 thymine, 24 guanine, 24 cytosine. The GC content is 24 ÷ 40 = **60%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--02-bases-pairing.webp" width="900" height="990" alt="Adenine and guanine are purines with a double ring. Cytosine, thymine and uracil are pyrimidines with a single ring; thymine is only in DNA and uracil only in RNA. Adenine pairs with thymine through two hydrogen bonds and guanine with cytosine through three. Each pair is one double ring plus one single ring, so every pair has the same width." loading="lazy">
+  <figcaption>A purine always pairs with a pyrimidine: A with T (two hydrogen bonds), G with C (three).</figcaption>
+</figure>
+
+
 ### Worked example 4: length of a helix
 
 Data supplied for this example: 10 base pairs per turn and 0.34 nm between neighbouring base pairs. A segment has 2,040 base pairs.
 
 - Turns = 2,040 ÷ 10 = **204 turns**
 - Length = 2,040 × 0.34 = **693.6 nm**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--03-dna-helix.webp" width="900" height="880" alt="A double helix of two strands with the sugar-phosphate backbones outside and base pairs inside. One turn has 10 base pairs and measures 3.4 nanometres. A flattened ladder shows the strands are antiparallel: one runs 5′ to 3′ downwards, the other 3′ to 5′, with ATGCCG pairing with TACGGC." loading="lazy">
+  <figcaption>The two strands run in opposite directions and wind round each other, with base pairs inside.</figcaption>
+</figure>
+
 
 ## Practical: purifying DNA by precipitation (2.1.3(d)(ii))
 
@@ -176,6 +200,22 @@ A conservative model would have kept a fully original molecule intact and produc
 
 After n rounds from one molecule, 2ⁿ molecules exist but only two contain an original strand. After 4 rounds: 16 molecules, 2 with original strands (12.5%), and 2 of 32 strands are original (6.25%).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--04-replication-fork.webp" width="900" height="1030" alt="A replication fork opens to the right. Helicase at the fork breaks hydrogen bonds so both parent strands act as templates. DNA polymerase adds nucleotides only to the 3′ end, so each new strand grows 5′ to 3′. The leading strand is built continuously towards the fork; the lagging strand is built away from the fork in short fragments that DNA ligase joins. Every daughter duplex has one old and one new strand." loading="lazy">
+  <figcaption>New strands grow 5′ to 3′ only, so one strand is built continuously and the other in fragments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--05-meselson-stahl.webp" width="900" height="1260" alt="Density-gradient tubes show DNA bands. The start sample has one heavy band. After one generation in light nitrogen there is a single intermediate band; after two generations there are equal intermediate and light bands. A grid of predictions shows semi-conservative replication fits both results, conservative replication is ruled out at generation 1 and dispersive replication at generation 2." loading="lazy">
+  <figcaption>Only semi-conservative replication predicts both the generation 1 and generation 2 bands.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
+</figure>
+
+
 ## Spontaneous mutation (2.1.3(e))
 
 Copying is accurate but not perfect. A **mutation** is a change in the order of the bases along a DNA molecule. **Spontaneous** mutations arise without a mutagen, for example when a wrong nucleotide is paired and joined during replication. They are **random**: you cannot predict which base, which gene or which cell. The specification notes that at AS Level learners are not required to distinguish between different types of mutation, so here the idea matters more than the classification.
@@ -188,6 +228,12 @@ Data supplied: a bacterial genome of 4.6 × 10⁶ base pairs, with 5 × 10⁻¹�
 - In 10⁹ replications: 2.3 × 10⁻³ × 10⁹ = **2.3 × 10⁶** errors
 
 A tiny rate per replication still produces many mutations across a large population, and these give variation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1200" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
+  <figcaption>A substitution changes at most one amino acid; a deletion or insertion shifts the reading frame.</figcaption>
+</figure>
+
 
 ## Common errors
 

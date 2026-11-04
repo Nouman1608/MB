@@ -67,6 +67,12 @@ That energy is used to pump H⁺ ions into the thylakoid space. A high concentra
 
 Products: ATP, reduced NADP and oxygen. Photolysis is the only source of oxygen and the source of the electrons and H⁺ for reducing NADP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--04-light-dependent-stage.webp" width="900" height="960" alt="A thylakoid membrane with thylakoid space above and stroma below. Light excites electrons in photosystem II, replaced by photolysis of water, and they pass along the electron transport chain, which pumps protons into the thylakoid space. Electrons reach photosystem I and reduce NADP, while protons flow back through ATP synthase to make ATP." loading="lazy">
+  <figcaption>Where ATP, reduced NADP and oxygen come from on the thylakoid membrane.</figcaption>
+</figure>
+
+
 ### Cyclic photophosphorylation
 
 Only PSI is used. Excited electrons leave PSI, pass along a chain and return to PSI. They are not given to NADP.
@@ -81,6 +87,12 @@ Products: ATP only. There is no reduced NADP, no photolysis and no oxygen. The c
 | ATP made | Yes | Yes |
 | Reduced NADP made | Yes | No |
 | Oxygen released | Yes | No |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--05-cyclic-vs-noncyclic.webp" width="900" height="900" alt="Two panels compare electron routes. Non-cyclic uses PSII and PSI, takes electrons from water and makes ATP, reduced NADP and oxygen. Cyclic uses PSI only, returns electrons to PSI and makes ATP only." loading="lazy">
+  <figcaption>Which products each photophosphorylation route makes.</figcaption>
+</figure>
+
 
 ## 5.4 The light-independent reactions
 
@@ -106,6 +118,17 @@ In the dark, ATP and reduced NADP fall. GP cannot be reduced, so GP accumulates.
 
 (ii) The products are simple sugars. Plants, animals and other organisms use them in respiration, and to synthesise new molecules: polysaccharides (starch for storage, cellulose for cell walls), amino acids and so proteins (with nitrogen from nitrate), lipids (from glycerol and fatty acids made from GALP-derived compounds) and nucleic acids (sugars and the phosphate-containing nucleotides). Animals depend on this because they eat plants or other organisms that did.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--06-calvin-cycle.webp" width="900" height="820" alt="The Calvin cycle for three turns: 3 CO2 and 3 RuBP (15C) give 6 GP (18C), reduced to 6 TP. Five TP (15C) regenerate 3 RuBP and one TP leaves. In total 9 ATP and 6 reduced NADP are used, 3 and 2 per CO2." loading="lazy">
+  <figcaption>Counting carbon, ATP and reduced NADP through the Calvin cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--07-gp-rubp-levels.webp" width="900" height="960" alt="Two model graphs. When light is switched off GP rises and RuBP falls. When carbon dioxide is removed RuBP rises and GP falls. Each follows from which reactions still run." loading="lazy">
+  <figcaption>Predicting how GP and RuBP change when light or CO2 is removed.</figcaption>
+</figure>
+
+
 ## 5.5 Chloroplast structure and function
 
 | Feature | Role |
@@ -120,6 +143,12 @@ In the dark, ATP and reduced NADP fall. GP cannot be reduced, so GP accumulates.
 
 Chloroplast ribosomes are smaller than those of the cytoplasm. The pigments are arranged in photosystems so that energy is funnelled to the reaction centre. Having the light-dependent stage on membranes and the light-independent stage in the surrounding stroma means the products of one are right next to the enzymes that need them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--01-chloroplast-structure.webp" width="900" height="1000" alt="A chloroplast drawn as an oval with a double membrane. Three grana of stacked thylakoids are joined by lamellae, and the stroma holds a starch grain, circular DNA and ribosomes. Colour coding shows the light-dependent stage on the thylakoid membranes and the Calvin cycle in the stroma." loading="lazy">
+  <figcaption>Where each part of a chloroplast sits and which stage happens there.</figcaption>
+</figure>
+
+
 ## 5.6 Absorption and action spectra
 
 An absorption spectrum plots the absorbance of a pigment against wavelength. An action spectrum is a graph of the rate of photosynthesis (for example oxygen release) at each wavelength.
@@ -131,6 +160,12 @@ The action spectrum is similar in shape to the combined absorption spectra, whic
 ### Worked interpretation
 
 At 450 nm the rate is 78 units and at 550 nm it is 20 units. At 550 nm the rate is 20 ÷ 78 × 100 = 26% of the rate at 450 nm. Green light is not useless: some is absorbed by accessory pigments, so the rate is low but not zero.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--02-pigment-spectra.webp" width="900" height="900" alt="Schematic absorption curves for chlorophyll a, chlorophyll b and carotenoids are plotted with an action spectrum over a coloured wavelength strip. The chlorophylls absorb mainly blue and red and little green, and the action spectrum follows the combined absorption. At 450 nm the action spectrum is 78 units and at 550 nm 20 units, 26 percent." loading="lazy">
+  <figcaption>The action spectrum follows the pigments absorption spectra, with low but non-zero rate in green.</figcaption>
+</figure>
+
 
 ## 5.7 Separating pigments by chromatography
 
@@ -145,6 +180,12 @@ Worked example. Solvent front 8.0 cm. Spots at 7.6, 6.0, 4.0 and 2.4 cm.
 Rf = 7.6 ÷ 8.0 = 0.95; 6.0 ÷ 8.0 = 0.75; 4.0 ÷ 8.0 = 0.50; 2.4 ÷ 8.0 = 0.30.
 
 The pigment with the highest Rf is the most soluble in the solvent. Pencil is used for the origin because ink would dissolve and run.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--03-chromatography-rf.webp" width="900" height="880" alt="A chromatography strip stands in solvent with a pencil origin and a solvent front 84 mm above it. Four pigment spots at 80, 55, 50 and 42 mm give Rf values 0.95, 0.65, 0.60 and 0.50. Rf has no units and is less than 1." loading="lazy">
+  <figcaption>How Rf is measured from the origin and calculated for each pigment.</figcaption>
+</figure>
+
 
 ## 5.8 Core Practical 10: rate of photosynthesis in an aquatic plant
 
@@ -168,6 +209,12 @@ Gas volume: a bubble 12.0 mm long in a tube of radius 0.5 mm has volume πr²l =
 Improving reliability: allow the plant to adjust to each new condition for a few minutes, repeat readings and take a mean, and use a water bath or heat shield so that the lamp does not heat the water. Limitations: bubble counting assumes bubbles are the same size, and some oxygen dissolves or is used in respiration.
 
 Making a 0.05 mol dm⁻³ solution from a 0.10 mol dm⁻³ stock: 25 cm³ stock + 25 cm³ water gives 50 cm³.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--09-pondweed-practical.webp" width="900" height="1090" alt="Apparatus for the pondweed investigation: a lamp at distance d, a water heat shield, and pondweed in hydrogencarbonate solution releasing oxygen into a capillary. A bar chart shows intensity is proportional to 1/d squared: 1, 0.25 and 0.0625 at 10, 20 and 40 cm." loading="lazy">
+  <figcaption>How moving the lamp changes light intensity in the pondweed practical.</figcaption>
+</figure>
+
 
 ## Common errors
 

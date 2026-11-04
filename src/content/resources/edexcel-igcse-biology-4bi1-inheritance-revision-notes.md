@@ -45,6 +45,17 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 | Codominance (Paper 2 only) | Both alleles in a heterozygote are expressed in the phenotype |
 | Mutation | A rare, random change in genetic material that can be inherited |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-inheritance--06-genotype-phenotype-terms.webp" width="900" height="960" alt="Chromosome pairs for BB, Bb and bb with the matching guinea pig: homozygous black, heterozygous black, homozygous white." loading="lazy">
+  <figcaption>Genotype is the alleles; phenotype is the characteristic shown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+
 ## 3.16B–3.17B DNA and RNA -- Paper 2 only
 
 | Feature | DNA | RNA |
@@ -52,6 +63,17 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 | Strands | Two, coiled into a double helix | One |
 | Bases | A, T, C, G | A, U, C, G |
 | Pairing | A–T, C–G | A on DNA pairs with U on RNA |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-inheritance--02-codominance-roan.webp" width="900" height="1200" alt="Red CR CR crossed with white CW CW gives all roan CR CW. Roan crossed with roan gives a Punnett square of 1 red, 2 roan and 1 white, so the phenotype ratio equals the genotype ratio 1 : 2 : 1." loading="lazy">
+  <figcaption>Both alleles show in a codominant heterozygote, giving 1 red : 2 roan : 1 white.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
 
 ## 3.18B Protein synthesis -- Paper 2 only
 
@@ -66,12 +88,29 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 
 **Quick numbers:** bases ÷ 3 = number of codons = number of amino acids coded. An mRNA of 18 bases has 6 codons and codes for 6 amino acids. The codon GCA on mRNA pairs with the anticodon CGU on tRNA.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-inheritance--01-codon-anticodon.webp" width="900" height="1080" alt="Worked example. The DNA template TAC GGA TTC is transcribed into mRNA codons AUG CCU AAG (T pairs with A, A with U). Each tRNA anticodon (UAC, GGA, UUC) pairs with its codon and carries one amino acid, so three codons give three amino acids." loading="lazy">
+  <figcaption>Template, mRNA codons and tRNA anticodons for TAC GGA TTC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
+
 ## 3.19–3.22 Alleles, codominance and polygenic features
 
 - Two alleles per gene in a body cell; one allele per gamete.
 - Use one letter: capital for dominant, lower-case for recessive (H and h, never H and t).
 - **Codominance (Paper 2 only):** give each allele its own label on the same gene letter (e.g. CR and CW). The heterozygote shows both phenotypes at once. Two heterozygotes give a **1 : 2 : 1** phenotype ratio.
 - **Polygenic (3.22):** most features (height, skin colour) are controlled by several genes, so they show a range of values rather than a few distinct types.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-inheritance--05-polygenic-height.webp" width="900" height="1045" alt="Three bar charts for an illustrative additive model: one gene gives 3 classes (1:2:1), two genes 5 classes (1:4:6:4:1), four genes 9 classes (1:8:28:56:70:56:28:8:1)." loading="lazy">
+  <figcaption>More genes acting together give more classes and a smoother range of values.</figcaption>
+</figure>
+
 
 ## 3.23 and 3.25 Genetic diagrams and probability
 
@@ -102,6 +141,17 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 
 **Worked reminder.** A purple-flowered plant (P, dominant to white p) is crossed with a white plant. The offspring are 46 purple and 44 white. The white offspring are pp, so each received a p from the purple parent. The purple parent must be **Pp**, and the close to 1 : 1 ratio fits Pp × pp.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">
+  <figcaption>A heterozygous by homozygous recessive cross gives a 1 : 1 ratio.</figcaption>
+</figure>
+
+
 ## 3.24 Pedigree clues
 
 - Square = male, circle = female, shaded = affected.
@@ -111,12 +161,24 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 - An unaffected person with an affected parent (recessive condition) must be heterozygous.
 - Work out the certain genotypes first, then use them to deduce the others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--07-pedigree-recessive.webp" width="900" height="1140" alt="Pedigree: two unaffected parents have an affected daughter (shaded circle), so the condition is recessive and both parents are Aa. A Aa x Aa Punnett square gives a 1 in 4 chance of aa for each further child." loading="lazy">
+  <figcaption>Unaffected parents with an affected child show the allele is recessive.</figcaption>
+</figure>
+
+
 ## 3.26–3.27 Sex determination
 
 - Female **XX**, male **XY**: one pair of chromosomes.
 - Eggs: all X. Sperm: half X, half Y.
 - The sperm decides the sex at fertilisation.
 - Probability of a boy (or a girl) = 1/2 at every fertilisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--02-sex-inheritance.webp" width="900" height="990" alt="Punnett square: mother XX gives X eggs, father XY gives X or Y sperm. Four equally likely children: two XX girls and two XY boys, ratio 1:1, so each child has a 50% chance of being a boy. The sperm decides the sex." loading="lazy">
+  <figcaption>Half of sperm carry Y, so each child has a 50% chance of being a boy.</figcaption>
+</figure>
+
 
 ## 3.28–3.32 Cell division in one glance
 
@@ -130,6 +192,17 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 
 - Humans: diploid **46**, haploid **23**. Sperm 23 + egg 23 → zygote 46.
 - **Random fertilisation**: any gamete can fuse with any gamete of the other sex, giving genetic variation in offspring.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-inheritance--07-chromosome-numbers-20.webp" width="900" height="900" alt="Mitosis keeps 20 chromosomes in each daughter cell, meiosis gives gametes with 10, and two gametes fuse to give a zygote with 20." loading="lazy">
+  <figcaption>Chromosome counts for diploid number 20 through mitosis, meiosis and fertilisation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
 
 ## 3.33–3.37B Variation and mutation
 
@@ -145,6 +218,17 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 - **3.36B** Most mutations: **no effect**. Some: **small effect**. Rarely: **significant effect**.
 - **3.37B** Mutation rate increased by **ionising radiation** (gamma rays, X-rays, ultraviolet rays) and **chemical mutagens** (e.g. chemicals in tobacco).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--01-variation-types.webp" width="900" height="1050" alt="Two sketch graphs. A histogram with touching bars shows continuous variation using the hand span example (3, 7, 12, 6, 2 students in 2 cm classes from 16 to 26 cm); it has a range between two extremes and is caused by genes and the environment. A bar chart with separate bars for blood groups A, B, AB and O shows discontinuous variation: limited groups, genes only. Blood group bar heights are illustrative." loading="lazy">
+  <figcaption>Continuous data give a histogram with touching bars; discontinuous data give a bar chart with gaps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
+</figure>
+
+
 ## 3.38–3.39 Natural selection
 
 **Method in steps** -- use these words in this order:
@@ -152,6 +236,17 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 **variation** (from mutation) → **competition** / selection pressure → **survival** of the better-adapted → **reproduction** → **alleles passed on** → **allele frequency increases** over many generations.
 
 Antibiotic resistance: a random mutation gives resistance → the antibiotic kills non-resistant bacteria → resistant bacteria survive and multiply → the resistant population grows → infections become **difficult to control** because the antibiotic no longer works against them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

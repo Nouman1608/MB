@@ -94,11 +94,33 @@ v = u + at   with u = 12, a = -3, t = 5:   v = 12 + (-3)(5) = 12 - 15 = -3
 - **Changing the subject:** treat the formula like an equation — whatever you do to isolate the new subject, do to both sides, in the same order you'd solve an equation for it.
 - **Simultaneous linear + quadratic** *(Extended)*: substitute the linear equation into the quadratic one, then solve the resulting quadratic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--01-equation-balance.webp" width="900" height="1170" alt="A balance holds two x-bags and three 1-blocks on one side and eleven 1-blocks on the other. Taking three from both sides, then halving both sides, leaves one x-bag against four blocks, so x = 4. Whatever is done to one side is done to the other." loading="lazy">
+  <figcaption>Do the same to both sides and the equation stays balanced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--03-inequality-number-line.webp" width="900" height="860" alt="Solving minus 5 less than 2x plus 3, at most 11, gives minus 4 less than x, at most 4. An open circle at minus 4 and a closed circle at 4 are joined by a line. The whole-number solutions are minus 3 to 4." loading="lazy">
+  <figcaption>Open circles exclude an end value, closed circles include it.</figcaption>
+</figure>
+
+
 ## Inequalities
 
 - On a number line: open circle (○) for < or >, filled circle (●) for ≤ or ≥.
 - **Solving** a linear inequality *(Extended)*: solve exactly like an equation, **except**: multiplying or dividing both sides by a **negative** number reverses the inequality sign.
 - **Two-variable regions** *(Extended)*: draw the boundary line (solid for ≤/≥, broken for </>), then shade the **unwanted** side, the syllabus convention unless the question says otherwise — test a point like (0,0) if unsure which side is wanted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="890" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
+  <figcaption>The region is where all the inequalities are true at once.</figcaption>
+</figure>
+
 
 ## Sequences
 
@@ -112,6 +134,12 @@ Core asks for the nth term of linear, **simple** quadratic and **simple** cubic 
 
 **Method:** write out the sequence, then the differences between consecutive terms, then the differences of those (2nd differences), then — if the 2nd differences are still changing — the differences of *those* (3rd differences), to identify the type before finding the nth term. A cubic sequence is identified by a constant 3rd difference, not by a roughly constant ratio between 2nd differences; for n³, for example, the 2nd differences are 12, 18, 24, ... (a changing ratio) while the 3rd differences are a constant 6.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
+  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
+</figure>
+
+
 ## Graphs
 
 - **Gradient of a straight line** = (change in y) / (change in x), read from any two points on the line.
@@ -120,6 +148,12 @@ Core asks for the nth term of linear, **simple** quadratic and **simple** cubic 
   - *Reading* a given graph: use the axes and scale as drawn to find gradients, intercepts, or approximate solutions where the graph crosses a line.
   - *Sketching* (Core C2.11, linear/quadratic): show only the general shape and key features (intercepts, symmetry, direction) — no need for a table of values or exact scale. (Extended E2.11 adds cubic, reciprocal and exponential shapes, and requires turning points and asymptotes too.)
 - **Quadratic graph shape:** a positive x² coefficient gives a U-shape (minimum); a negative x² coefficient gives an n-shape (maximum).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--07-gradient-turning-points.webp" width="900" height="980" alt="The curve y = x cubed minus 12x has a maximum at (minus 2, 16) and a minimum at (2, minus 16), where the tangent is flat and the gradient is 0. At x = 3 the tangent has gradient 15. The gradient is positive, negative, positive across the three sections." loading="lazy">
+  <figcaption>Turning points are where the gradient dy/dx is zero.</figcaption>
+</figure>
+
 
 ## Extended-only: proportion, differentiation, functions
 
@@ -151,3 +185,9 @@ Core asks for the nth term of linear, **simple** quadratic and **simple** cubic 
 5. *(Extended)* A straight line passes through (0, 3) and (4, 11). Find its gradient.
 
 **Answers:** 1. (x + 7)(x − 7). 2. 3x = 18, x = 6. 3. −2x ≥ 6, x ≤ −3 (dividing by a negative reverses the sign) — filled circle at −3, shading to the left. 4. Constant difference of 3, so nth term = 3n + 2. 5. gradient = (11 − 3)/(4 − 0) = 8/4 = 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+

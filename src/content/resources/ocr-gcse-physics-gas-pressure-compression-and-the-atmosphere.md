@@ -56,6 +56,12 @@ Both effects raise the force on the wall, and so the pressure.
 
 **Common errors:** saying the particles "expand", saying the particles hit each other more and that is the pressure, or leaving out the words "more often" or "harder".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--02-gas-pressure.webp" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
+  <figcaption>Faster particles or a smaller volume mean more forceful or more frequent wall collisions, so higher pressure.</figcaption>
+</figure>
+
+
 ## P1.3b: Temperature and pressure at constant volume
 
 The specification asks for the relationship **qualitatively only**. At constant volume, raising the temperature of a fixed amount of gas raises its pressure. Lowering the temperature lowers the pressure. You explain it with the same two ideas as above: faster particles, more frequent and harder collisions.
@@ -66,6 +72,12 @@ Do not write that pressure is "proportional to temperature in degrees Celsius". 
 > **Worked example.** A student warms a sealed flask in a water bath and reads a pressure gauge. The gauge reading rises from 100 kPa to 106 kPa. Explain the change.
 >
 > Heating raises the temperature of the gas. Its particles gain kinetic energy and move faster. In the rigid flask the volume is constant, so the faster particles collide with the walls more often and with greater force. The pressure increases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--03-gauge-warm-flask.webp" width="900" height="910" alt="Two identical rigid flasks, each with 10 gas particles and a pressure gauge. In a cool water bath the particles have short motion trails and the gauge reads 100 kPa. In a warm water bath the same particles have long trails, meaning they move faster, and the gauge reads 106 kPa. Faster particles hit the walls more often and harder, so the pressure rises at constant volume." loading="lazy">
+  <figcaption>At constant volume, warming a gas raises its pressure.</figcaption>
+</figure>
+
 
 ## P1.3c (Higher Tier only): Compression and force at right angles
 
@@ -93,6 +105,27 @@ Here you use pressure (Pa) = force normal to the surface (N) ÷ area (m²), writ
 >
 > Nothing "sucks" the can in. The outside air hits it harder than the few particles inside.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--02-net-force-both-sides.webp" width="900" height="1170" alt="A window has air at 1.0 x 10^5 Pa on both sides so the net force is about zero. A cooled can has 1.0 x 10^5 Pa outside and 4.0 x 10^4 Pa inside; the 6.0 x 10^4 Pa difference acts on 0.015 m2 giving 900 N inwards." loading="lazy">
+  <figcaption>The net force comes from the pressure difference times the area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--05-syringe-air-water.webp" width="900" height="1120" alt="Two syringes with blocked nozzles. The air syringe has 10 widely spaced particles and the plunger pushes in from 60 cubic centimetres to 24 cubic centimetres, crowding the particles together. The water syringe is full of touching particles and the plunger hardly moves under the same push, because the particles are already close together." loading="lazy">
+  <figcaption>Air compresses because its particles are far apart; water does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--01-pressure-force-area.webp" width="900" height="850" alt="Two blocks each press with 600 N. On 0.5 m2 the pressure is 1200 Pa and the block sinks little into sand; on 0.1 m2 it is 6000 Pa and it sinks deeper." loading="lazy">
+  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
+</figure>
+
+
 ## P1.3d (Higher Tier only): Volume, pressure and pV = constant
 
 Keep the temperature constant and the amount of gas fixed. Now make the container bigger. The particles travel at the same average speed, but they have further to go between hitting the walls. Each wall is hit less often. The average force from a collision is unchanged. So the force on each unit of wall area falls, and **the pressure falls**. Making the container smaller does the opposite.
@@ -119,6 +152,17 @@ With a fixed mass of gas held at one temperature, p₁V₁ = p₂V₂. Doubling 
 
 **Marshmallow in a vacuum.** Pumping air out of a bell jar lowers the pressure outside the marshmallow. The gas bubbles inside it are now at higher pressure than the surroundings, so they expand and the marshmallow swells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--01-gas-volume-pressure.webp" width="900" height="1030" alt="Two syringes hold the same 12 particles. At 60 cm3 the pressure is 1.0 x 10^5 Pa; pushed in to 24 cm3 it is 2.5 x 10^5 Pa. A pressure-volume curve passes through both points and p x V is 6.0 x 10^6 at each." loading="lazy">
+  <figcaption>Squeezing a gas at constant temperature raises its pressure while pV stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--04-marshmallow-bell-jar.webp" width="900" height="850" alt="Two bell jars. In the left jar there is plenty of air (24 particles) and the marshmallow with small gas bubbles is its normal size. In the right jar a pump has removed most of the air (5 particles left), so the pressure outside the marshmallow is lower. The gas bubbles inside are at higher pressure than the surroundings, so they expand and the marshmallow swells." loading="lazy">
+  <figcaption>Lower pressure outside lets the gas bubbles inside expand.</figcaption>
+</figure>
+
+
 ## P1.3e (Higher Tier only): Work done on a gas
 
 When you push a piston into a gas, you do work on it. The pump example in the specification is a bicycle pump. Particles bouncing off the moving piston leave it faster than they arrived, in the same way that a ball leaves a bat faster than it arrived. The average kinetic energy of the particles rises, which is a rise in temperature. The energy has been transferred by the work done by the force on the piston.
@@ -130,6 +174,12 @@ When you push a piston into a gas, you do work on it. The pump example in the sp
 > If little energy escapes, most of this raises the internal energy of the gas, so its temperature rises. A real pump also warms by friction.
 
 Link with P1.3d: the rule pV = constant holds only at constant temperature. A fast compression warms the gas, so the pressure rises by more than pV = constant predicts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--05-pump-work-heats-gas.webp" width="900" height="980" alt="A piston is pushed 0.20 m by 45 N. A particle bouncing off a fixed wall leaves at the same speed (3 units) but off the moving piston it leaves faster (5 units). The work done is 9.0 J, so the gas is hotter." loading="lazy">
+  <figcaption>Work done on a gas speeds up its particles and raises its temperature.</figcaption>
+</figure>
+
 
 ## P1.3f (Higher Tier only): A simple model of the atmosphere
 
@@ -161,6 +211,17 @@ The fall is not the same for every kilometre, because the density changes with h
 > V₂ = 240 ÷ 25 = **9.6 m³**
 >
 > The outside pressure is lower, so the gas inside pushes the skin out until the inside pressure matches. In reality the air is also colder at height, which would reduce the volume a little.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--03-air-column-pressure.webp" width="900" height="1060" alt="Three boxes of air particles at weather-balloon height, the top of the highest mountains and the ground have pressures of 25 kPa, about 33 kPa and 100 kPa. The weight of air above 1 m2 is 1.0 x 10^5 N, a mass of 1.0 x 10^4 kg." loading="lazy">
+  <figcaption>Less air above means lower pressure; every square metre of ground carries about ten tonnes of air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--04-weather-balloon-volume.webp" width="900" height="1110" alt="A balloon of 2.4 m3 at 100 kPa rises to where the pressure is 25 kPa and grows to 9.6 m3. Rectangles with width p and height V have equal area 240." loading="lazy">
+  <figcaption>As outside pressure falls the balloon expands so that p x V stays the same.</figcaption>
+</figure>
+
 
 ## Common errors in this unit
 

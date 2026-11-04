@@ -75,6 +75,17 @@ Unit prefixes to recall: 1 mA = 0.001 A, 1 ms = 0.001 s, 1 kJ = 1000 J, 1 minute
 3. The potential difference between cloud and ground becomes very large.
 4. The air stops insulating, a conducting path forms and charge flows in a flash. This is the discharge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--10-free-electrons-in-wire.webp" width="900" height="930" alt="Cell and lamp circuit with conventional current arrows, and a magnified wire with fixed positive ions and free electrons drifting opposite to conventional current. Insulators have almost no free charges." loading="lazy">
+  <figcaption>Free electrons carry the current in a metal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--11-static-charge-and-lightning.webp" width="900" height="1070" alt="A rod rubbed with a cloth gains electrons and the cloth is positive. A storm cloud separates charge, the ground takes opposite charge, the potential difference grows very large and the air breaks down as a flash." loading="lazy">
+  <figcaption>Static charge is an imbalance; lightning is a large discharge.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Charge from current.** A current of 1.8 A flows for 2.5 minutes.
@@ -112,6 +123,12 @@ Buzzer transfers = 240 - 100 = 140 J, so V = 140 / 40 = 3.5 V
 
 **Reading thermistor data.** A thermistor on a fixed supply carries 8.0 mA at 25 °C and 26 mA at 55 °C. The current rises, so the resistance falls. In 5.0 minutes at 55 °C, Q = 0.026 × 300 = 7.8 C.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--03-energy-per-coulomb.webp" width="900" height="1000" alt="12 V battery drives 20 C through a lamp (7.5 V, 150 J) and a motor (4.5 V, 90 J) in series; battery supplies 240 J." loading="lazy">
+  <figcaption>Energy supplied by the battery is shared between components.</figcaption>
+</figure>
+
+
 ## Circuit symbols
 
 | Component | Symbol in words |
@@ -130,6 +147,22 @@ Buzzer transfers = 240 - 100 = 140 J, so V = 140 / 40 = 3.5 V
 | Ammeter | A in a circle, in the loop being measured |
 | Voltmeter | V in a circle, across the component being measured |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--14-ammeter-voltmeter-placement.webp" width="900" height="690" alt="Cell, lamp, ammeter in the main loop and voltmeter on a branch across the lamp." loading="lazy">
+  <figcaption>Ammeter in series, voltmeter across the component in parallel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
+
 ## Thermistors and LDRs
 
 | Device | Rule | Example use |
@@ -140,6 +173,12 @@ Buzzer transfers = 240 - 100 = 140 J, so V = 140 / 40 = 3.5 V
 - With a fixed potential difference, lower resistance means a larger current. So a thermistor circuit carries more current when hot, and an LDR circuit carries more current when bright.
 - Thermostat: the sensing circuit responds as the thermistor warms or cools, and the heater is switched off or on.
 - Dark switch: as the light falls, the LDR's resistance rises and the current in the sensing circuit changes. That change operates the switch for the lamp.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--13-thermistor-ldr-trends.webp" width="900" height="1100" alt="Thermistor currents 5.0, 12.0, 31.0 mA at 20, 40, 60 C mean resistance falls as temperature rises; LDR currents 9.0, 3.5, 0.8 mA from daylight to dark mean resistance rises. Chains show a thermostat and a light switch." loading="lazy">
+  <figcaption>Thermistor and LDR resistance trends and how sensors switch things.</figcaption>
+</figure>
+
 
 ## Model sentences for explanation questions
 
@@ -188,6 +227,12 @@ Buzzer transfers = 240 - 100 = 140 J, so V = 140 / 40 = 3.5 V
 9. The thermistor at **80 °C**, because its resistance decreases as the temperature increases.
 10. A rectangle inside a circle, with arrows pointing towards it.
 11. The **long thin line**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--12-charge-flow-q-equals-it.webp" width="900" height="930" alt="1 A is 1 C per second. For 0.45 A the Q-t graph is a straight line, giving 94.5 C at 210 s (3.5 minutes)." loading="lazy">
+  <figcaption>Charge = current x time, with time in seconds.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

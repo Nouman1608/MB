@@ -80,6 +80,22 @@ An **entrepreneur** organises the other factors and bears risk. Motives include 
 
 Objectives differ by stage: a start-up prioritises **survival** and cash flow, while an established firm pursues profit, growth or market share.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--02-objectives-by-stage.webp" width="900" height="950" alt="A start-up, shown as one small shop, prioritises survival and cash flow. An established firm, shown as larger buildings, pursues profit, growth or market share (pie slice)." loading="lazy">
+  <figcaption>Objectives change with stage: survival and cash flow first, then profit, growth or market share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--03-external-growth-types.webp" width="900" height="1070" alt="Three rows: horizontal (bakery + bakery), vertical (bakery + shop) and diversification (bakery + gym), each ending in one merged firm." loading="lazy">
+  <figcaption>External growth combines with another business: horizontal, vertical or diversification.</figcaption>
+</figure>
+
+
 ## Ownership and stakeholders
 
 <!-- marlbridge-diagram:business-ocr-gcse-stakeholder-conflict-map -->
@@ -109,6 +125,17 @@ The **marketing mix** is the four Ps:
 
 The elements must be consistent: premium pricing with poor-quality packaging and discount retailers will fail regardless of how good each decision looks alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--04-research-grid.webp" width="900" height="970" alt="A grid: primary research is specific, slow and costly; secondary is quick, cheap and not tailored. Quantitative gives numbers, qualitative gives reasons. Example items fill the four cells." loading="lazy">
+  <figcaption>Primary and secondary research differ from quantitative and qualitative data; primary is not simply better.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
+
 ## People
 
 **Recruitment** may be internal (cheaper, faster, known quantity, but no fresh ideas and leaves another vacancy) or external (wider pool and new perspectives, but slower and costlier).
@@ -131,6 +158,12 @@ Profit               = 700 - 400   = £300 per day
 Break-even output = fixed costs / contribution per unit
                   = 400 / 1.40 = 286 loaves (to the nearest whole loaf)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--06-bakery-break-even.webp" width="900" height="1060" alt="Revenue at 2.20 per loaf, fixed costs 400 and 0.80 variable cost per loaf. The lines cross at 286 loaves; at 500 loaves profit is 300 pounds." loading="lazy">
+  <figcaption>Break-even output is fixed costs divided by contribution per loaf: 400 / 1.40 = 286 loaves.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

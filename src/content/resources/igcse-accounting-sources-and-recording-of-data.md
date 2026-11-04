@@ -2,15 +2,17 @@
 title: "IGCSE Accounting: Sources and Recording of Data (Cambridge 0452)"
 resourceType: "study-guides"
 subject: "accounting"
-level: ["igcse"]
+level: ["igcse","o-levels"]
 topic: "Sources and recording of data"
 boards: ["cambridge"]
-qualifications: ["igcse"]
-syllabusCodes: ["0452"]
+qualifications: ["igcse", "o-level"]
+syllabusCodes: ["0452", "7707"]
 syllabusSeries: "2027-2029"
 order: 2
 syllabusTopics:
   - qualification: "igcse"
+    topic: "sources-and-recording-of-data"
+  - qualification: "o-level"
     topic: "sources-and-recording-of-data"
 description: "The double entry system of book-keeping, the business documents that trigger it, and the seven books of prime entry that feed it -- the full content of Topic 2 for Cambridge IGCSE Accounting 0452, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
@@ -22,7 +24,8 @@ featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> Accounting 0452 syllabus (and Cambridge O Level Accounting 7707, which has the
+> same subject content for the same series) for exams in 2027, 2028 and 2029 (version 1),
 > first examined in the March 2027 series in India and the June 2027 series
 > elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
 > (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
@@ -146,6 +149,17 @@ each one correctly, this kind of end-to-end rehearsal — rather than
 book-by-book memorisation — is the single highest-value use of
 revision time for this topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
+
 ## Three-column running balance accounts
 <!-- marlbridge-diagram:ac-igcse-source-document-to-ledger-flow -->
 <figure class="lesson-diagram" style="margin: 2rem 0;">
@@ -178,6 +192,12 @@ The closing balance, $200 Dr, is what K Lee still owes: the same figure
 a two-sided account would give after balancing. Label every balance Dr
 or Cr, because a credit balance on a customer's account (for example,
 after an overpayment) means the business owes the customer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
 
 ## Cash, digital records and manual entry
 

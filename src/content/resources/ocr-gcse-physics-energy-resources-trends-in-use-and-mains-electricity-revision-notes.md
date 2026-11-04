@@ -54,6 +54,32 @@ Quick recall notes for OCR GCSE (9-1) Physics A (Gateway Science), J249, Version
 
 **Worked reminder: hydroelectricity.** Water stored at height has gravitational potential energy. It runs down through turbines, which turn generators. Output can be adjusted quickly by changing how much water flows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--03-wind-farm-example.webp" width="900" height="784" alt="12 turbines of 2.5 MW give 30 MW maximum. At 30% the average is 9 MW, so 216 MWh in 24 h against 720 MWh at full output, a gap of 504 MWh." loading="lazy">
+  <figcaption>A wind farm at 30% of maximum delivers 216 of a possible 720 MWh a day.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp" width="900" height="1084" alt="Two columns. Non-renewable (tank draining, not refilled): coal, oil, natural gas and nuclear fuel. Renewable (tank refilled naturally): biofuels, hydroelectric, solar, geothermal, wind, tides and waves. Nuclear fuel is finite so it is non-renewable." loading="lazy">
+  <figcaption>Non-renewable resources are used faster than they are replaced; renewable ones are replenished naturally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp" width="900" height="920" alt="Fossil fuels, biofuels, nuclear fuel and geothermal heat all supply heat to a boiler. The boiler turns water to steam, which spins a turbine. The turbine turns a generator that makes electricity." loading="lazy">
+  <figcaption>Fossil fuels, biofuels, nuclear fuel and geothermal all heat water to steam to spin a turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp" width="900" height="990" alt="Wind, falling water, tides and waves spin a turbine directly with no boiler, and the turbine turns a generator. Solar cells below convert radiation to electricity directly with no turbine or generator." loading="lazy">
+  <figcaption>Wind, water, tides and waves spin a turbine directly; solar cells skip the turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--04-availability.webp" width="900" height="950" alt="Three graphs of power over 24 hours. Solar is non-zero only from 06:00 to 18:00 and peaks at midday. Tidal power rises and falls repeatedly in a regular pattern. Fossil and nuclear stations can run steadily at any time." loading="lazy">
+  <figcaption>Availability differs: solar only in daylight, tides in a predictable cycle, fossil and nuclear on demand.</figcaption>
+</figure>
+
+
 ## Trends in use (P8.2b)
 
 **Method in steps**
@@ -71,6 +97,12 @@ Quick recall notes for OCR GCSE (9-1) Physics A (Gateway Science), J249, Version
 **Worked reminder: percentage change.** Wind output rises from 10 TWh to 100 TWh. Change = 90 TWh. Percentage change = 90 ÷ 10 × 100 = 900%. Coal falls from 120 TWh to 8 TWh. Change = 112 TWh. Percentage fall = 112 ÷ 120 × 100 = 93.3%.
 
 **Writing a trend answer.** A strong answer follows this pattern: "Coal fell from 120 TWh to 8 TWh between 2005 and 2025, a fall of 93.3%. This is because coal is a non-renewable fossil fuel that releases carbon dioxide when burned, so the country replaced it with wind and solar."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--07-energy-trends-stacked-bars.webp" width="900" height="910" alt="Three stacked bars show electricity generated in an example country in 2005, 2015 and 2025. Fossil fuels fall from 270 to 118 TWh while renewables rise from 24 to 165 TWh and nuclear drifts from 80 to 65 TWh. The renewable share rises from 6% to 24% to 47%." loading="lazy">
+  <figcaption>In the lesson example data renewables grow from 6% to 47% of the total while fossil fuels shrink.</figcaption>
+</figure>
+
 
 ## Mains supply (P8.2g, P8.2h)
 
@@ -98,6 +130,12 @@ Quick recall notes for OCR GCSE (9-1) Physics A (Gateway Science), J249, Version
 
 **Worked reminder: why a d.c. cell and a.c. mains differ on a trace.** A cell gives the same p.d. at every moment, so the trace is a flat horizontal line. Mains p.d. changes continually, crossing zero as it reverses, so the trace repeats as a wave.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--08-mains-ac-vs-dc-trace.webp" width="900" height="940" alt="Two graphs of p.d. against time with 10 ms divisions. A cell gives a flat line on one side of zero. UK mains is a wave that crosses zero and reverses with period 20 ms, so the frequency is 1 divided by 0.020 s = 50 Hz." loading="lazy">
+  <figcaption>A cell gives a steady line; mains reverses with a 20 ms period (50 Hz).</figcaption>
+</figure>
+
+
 ## Live, neutral and earth (P8.2i, P8.2j)
 
 | Wire | Colour | Function | P.d. to earth |
@@ -122,6 +160,27 @@ Quick recall notes for OCR GCSE (9-1) Physics A (Gateway Science), J249, Version
 - Without an earth wire: the case is at about 230 V. A person who touches it provides a path to earth and receives a shock.
 
 **Plug wiring in order.** The live wire is brown, the neutral is blue and the earth is green and yellow. The plug practical in the specification is wiring a plug.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--09-switch-live-or-neutral.webp" width="900" height="1120" alt="With the switch in the live wire, the lamp side of an open switch is at about 0 V and is safe. With the switch in the neutral wire, an open switch still leaves the lamp connected to the live wire at about 230 V, so touching it gives a shock." loading="lazy">
+  <figcaption>A switch must open the live wire, or the appliance stays at about 230 V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--10-live-neutral-earth-wires.webp" width="900" height="940" alt="The live wire is brown at about 230 V to earth, the neutral wire is blue at about 0 V and returns current, and the earth wire is green and yellow at 0 V and carries no current in normal use. The p.d. is about 230 V between live and neutral, about 230 V between live and earth and about 0 V between neutral and earth." loading="lazy">
+  <figcaption>The three wires and the p.d. between each pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--11-live-to-earth-fault.webp" width="900" height="950" alt="A loose live wire at about 230 V touches the earthed metal case of a toaster. A large current flows through the case and the earth wire to earth rather than through the user. For example 230 V across 46 ohms gives 5 A, and more if the resistance is lower." loading="lazy">
+  <figcaption>A live-to-earth connection gives a large current in the earth wire, protecting the user.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--04-insulation-shock.webp" width="900" height="830" alt="Left: intact insulation keeps the hand from the live copper so no current flows. Right: frayed or wet insulation lets the hand touch copper at about 230 V and current passes through the body to earth." loading="lazy">
+  <figcaption>Damaged insulation lets a person complete a path from live to earth.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

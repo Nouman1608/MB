@@ -54,6 +54,22 @@ Browse other H432 units from the [OCR chemistry hub](/boards/ocr/a-level/chemist
 
 You may draw benzene as a Kekulé hexagon or a hexagon with a circle (the π-system). The change of model shows science revising a model as evidence builds (HSW1,7).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--01-benzene-orbitals.webp" width="900" height="1230" alt="From above, six carbons form a flat regular hexagon, each bonded to one hydrogen, with 120 degree bond angles. From the side, p orbitals above and below each carbon overlap sideways into a ring of pi electron density above and below the plane, so six p electrons are delocalised." loading="lazy">
+  <figcaption>Benzene is flat with 120 degree angles and a delocalised pi ring above and below the plane. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--02-bond-lengths.webp" width="900" height="880" alt="The Kekule model would have 3 short (0.134 nm) and 3 long (0.154 nm) bonds. Real benzene has six equal bonds of 0.140 nm, plotted between the C=C and C-C values on a number line." loading="lazy">
+  <figcaption>All six benzene C-C bonds are equal, between a single and a double bond in length. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+</figure>
+
+
 ## 6.1.1(b): Evidence for delocalisation
 
 Three kinds of evidence led chemists to accept the delocalised model (HSW11).
@@ -71,6 +87,17 @@ Use these values. Bond lengths: C–C in ethane 153 pm; C=C in ethene 134 pm; ev
 **Step 2: predicted value for Kekulé benzene.** Three C=C bonds: 3 × (−119) = −357 kJ mol⁻¹.
 
 **Step 3: compare with experiment.** −207 − (−357) = +150. Benzene releases 150 kJ mol⁻¹ less energy than predicted, so it is 150 kJ mol⁻¹ more stable than the Kekulé structure. The difference is the extra stability from delocalisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--03-hydrogenation-energy.webp" width="900" height="960" alt="Energy levels: cyclohexane at the bottom, benzene + 3H2 208 kJ/mol above, hypothetical triene + 3H2 360 kJ/mol above. The 152 kJ/mol gap is benzene extra stability from delocalisation." loading="lazy">
+  <figcaption>Benzene releases 152 kJ/mol less energy than three C=C bonds would, so it is more stable. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--08-chlorine-uv.webp" width="900" height="1190" alt="With UV light, benzene adds chlorine to the ring to give C6H6Cl6, losing delocalisation, while methylbenzene is substituted in the CH3 side chain and the ring stays. Further substitution raises Mr from 92.0 to 126.5, 161.0 and 195.5." loading="lazy">
+  <figcaption>UV chlorine adds to the benzene ring but substitutes only the side chain of methylbenzene. (OxfordAQA only)</figcaption>
+</figure>
+
 
 ## 6.1.1(c): Naming aromatic compounds
 
@@ -111,6 +138,17 @@ Friedel–Crafts reactions matter in synthesis because they make a new **C–C b
 2. n(benzene) = 6.24 ÷ 78.0 = 0.0800 mol
 3. Mr(C₁₁H₁₄O) = 162.0, so theoretical mass = 0.0800 × 162.0 = 12.96 g
 4. Percentage yield = 9.72 ÷ 12.96 × 100 = **75.0%**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--04-nitration-mechanism.webp" width="900" height="1260" alt="Four stages: HNO3 and H2SO4 make NO2+; a curly arrow from inside the ring to N; a horseshoe intermediate with + and the attacked carbon bearing H and NO2; a second arrow from the C-H bond restores the ring, giving nitrobenzene and H+." loading="lazy">
+  <figcaption>The ring attacks NO2+, forms a positive intermediate, then loses H+ to restore the ring. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--05-electrophiles.webp" width="900" height="1130" alt="Five rows: reagents, the electrophile formed, and the product. Nitration (NO2+) and acylation (RCO+) are in all boards; alkylation (R+) is OCR, Edexcel and OxfordAQA; bromination (Br+) is OCR and Edexcel; sulfonation (SO3) is Edexcel and OxfordAQA." loading="lazy">
+  <figcaption>Each electrophilic substitution replaces one ring hydrogen, but the electrophile depends on the reagents. (Mixed, board-tagged)</figcaption>
+</figure>
+
 
 ## 6.1.1(e): Mechanisms for nitration and halogenation
 
@@ -177,6 +215,12 @@ C₆H₅OH + HNO₃ → C₆H₄(OH)NO₂ + H₂O
 3. Volume = 0.00750 ÷ 0.0500 = 0.150 dm³ = **150 cm³**
 4. Mr(C₆H₃Br₃O) = 330.7; mass = 0.00250 × 330.7 = **0.827 g**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--07-phenol-bromine.webp" width="900" height="960" alt="Benzene with bromine water gives no reaction, so the tube stays orange. Phenol decolourises bromine water at room temperature and gives a white precipitate of 2,4,6-tribromophenol; the oxygen lone pair feeds electron density into the ring." loading="lazy">
+  <figcaption>Phenol, unlike benzene, decolourises bromine water at room temperature to give a white precipitate. (Edexcel and OCR)</figcaption>
+</figure>
+
+
 ## 6.1.1(j): Why phenol reacts more easily
 
 One lone pair on the oxygen sits in a p-orbital. It overlaps with the ring and is partly donated into the π-system. The electron density of the ring increases. The ring is now more susceptible to attack by electrophiles: it polarises Br₂ without a carrier and reacts with dilute nitric acid.
@@ -201,6 +245,12 @@ For any other group, the exam supplies the directing information.
 **Plan:** to make 1-bromo-3-nitrobenzene from benzene, nitrate first, then brominate. The NO₂ group sends bromine to position 3. If you brominated first, you would be told that Br directs to 2- and 4-, giving the wrong isomers.
 
 Order matters in synthesis (6.2.5): the right sequence gives the target isomer as the main product.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--06-directing-effects.webp" width="900" height="1000" alt="Numbered benzene rings: OH (also NH2, CH3) directs to positions 2, 4, 6 and NO2 directs to 3 and 5. Phenol with dilute HNO3 gives 2- and 4-nitrophenol; nitrobenzene gives 1,3-dinitrobenzene." loading="lazy">
+  <figcaption>OH, NH2 and CH3 direct to 2, 4 and 6; NO2 directs to 3 and 5. (OCR and Cambridge)</figcaption>
+</figure>
+
 
 ## Common errors
 

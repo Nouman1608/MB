@@ -58,6 +58,12 @@ A fully labelled diagram has these stages. Leave none out.
 
 Use one letter per gene, capital for dominant. For codominance or multiple alleles use a base letter with superscripts, such as Fᴮ and Fᵂ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--02-monohybrid-test-cross.webp" width="900" height="1230" alt="Vv crossed with Vv gives VV, Vv, Vv and vv, so three normal-winged flies to one vestigial. A test cross with vv gives 1 normal to 1 vestigial if the unknown fly is Vv, and all normal if it is VV." loading="lazy">
+  <figcaption>Gametes, a Punnett square and the ratio, then a test cross to reveal an unknown genotype.</figcaption>
+</figure>
+
+
 ## Monohybrid crosses
 
 A monohybrid cross follows one gene. Assume that in the fast-growing plant *Brassica rapa* purple stem (P) is dominant to green stem (p). Cross two heterozygous plants.
@@ -86,6 +92,22 @@ Ratio 2 group A : 1 group AB : 1 group B. Group O is impossible, because the fat
 
 **Dominance series.** Assume a beetle's wing-case colour has three alleles, Cᵈ (dark) > Cᵐ (mid) > Cˡ (light), each dominant to those after it. Cross CᵈCˡ × CᵐCˡ: offspring CᵈCᵐ dark, CᵈCˡ dark, CᵐCˡ mid, CˡCˡ light, so 2 dark : 1 mid : 1 light. The number of possible genotypes for n alleles is n(n + 1)/2, which is 6 for three alleles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
+  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--03-codominance-multiple-alleles.webp" width="900" height="980" alt="Crossing two patched plants CRCW gives red, patched and white in a 1 : 2 : 1 ratio, where the genotype ratio equals the phenotype ratio. The ABO cross IAi by IBi gives one each of groups AB, A, B and O; three alleles exist in a population but each person carries two." loading="lazy">
+  <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
+</figure>
+
+
 ## Dihybrid crosses
 
 A dihybrid cross follows two genes. If they are on different chromosomes they assort independently at meiosis. Assume in *Brassica rapa* that hairy leaves (H) are dominant to hairless (h) and that this gene is on a different chromosome from the stem colour gene.
@@ -100,6 +122,12 @@ Cross PpHh × PpHh. Each parent makes four gamete types in equal numbers: PH, Ph
 | Green, hairless | 1 |
 
 The quick route is probability. Purple and hairless is 3/4 × 1/4 = 3/16. From 320 offspring expect 180 : 60 : 60 : 20. If the genes assort independently, a test cross PpHh × pphh gives four equally sized classes. If one gene is codominant, its heterozygote forms an extra class: a 1 : 2 : 1 gene crossed with a 3 : 1 gene gives six phenotypes in the ratio 3 : 6 : 3 : 1 : 2 : 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
+  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+</figure>
+
 
 ## Sex-linkage
 
@@ -118,6 +146,12 @@ All daughters are red-eyed and all sons white-eyed. In an autosomal cross, sons 
 
 **X-linked dominant.** An affected father passes the allele to every daughter and to no son, because sons receive his Y.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--04-sex-linkage.webp" width="900" height="1000" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters (AQA and OxfordAQA)." loading="lazy">
+  <figcaption>A son has one X, so one recessive allele shows; the father passes his Y to sons.</figcaption>
+</figure>
+
+
 ## Autosomal linkage
 
 Genes lying on the same chromosome are **linked**, and their alleles tend to travel together. Alleles on one chromosome are written together (CSh / csh). Linked genes do not assort independently, so results depart from the unlinked ratios.
@@ -135,6 +169,12 @@ Crossing over between non-sister chromatids in prophase I (meiosis I) can separa
 
 The parental combinations are far commoner than 1 : 1 : 1 : 1, so the genes are linked. The two small classes are recombinants: (72 + 72)/1200 = 0.12, a 12% recombination frequency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--06-autosomal-linkage.webp" width="900" height="1110" alt="A parent with A and B on one chromosome and a and b on the other makes mostly parental gametes AB and ab; crossing over makes recombinant Ab and aB. In 1000 offspring 412 and 398 are parental, 93 and 97 recombinant, 19 percent, instead of 250 of each." loading="lazy">
+  <figcaption>Linked alleles travel together unless crossing over separates them.</figcaption>
+</figure>
+
+
 ## Epistasis
 
 **Epistasis** occurs when a gene at one locus masks or alters how a gene at another locus is expressed. It alters the 9 : 3 : 3 : 1 ratio by merging classes. The total stays 16.
@@ -146,6 +186,12 @@ The parental combinations are far commoner than 1 : 1 : 1 : 1, so the genes are 
 **Complementary genes, 9 : 7.** If two enzymes act in sequence to make a pigment, a flower needs a functional allele of each gene. Only A_B_ (9/16) is coloured. The other 7/16 lack one enzyme and are white.
 
 To decode a ratio: add the numbers, check whether it totals 16, find which classes merged, then state which gene masks which and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--07-epistasis.webp" width="900" height="1222" alt="Allele A makes the enzyme that turns a colourless precursor into yellow pigment and B the enzyme that turns yellow into red; aa gives white whatever B is, so AaBb by AaBb gives 9 red, 3 yellow and 4 white. Rows of 16 squares show how 12:3:1, 9:7 and 15:1 arise from other gene interactions." loading="lazy">
+  <figcaption>One gene can mask another, merging classes of the 16 boxes.</figcaption>
+</figure>
+
 
 ## The chi-squared test
 
@@ -171,6 +217,12 @@ The chi-squared (χ²) test decides whether the difference between observed and 
 **Example 4 (epistasis).** For the monkeyflower, observed 78 red, 31 pink, 35 white; expected 81, 27, 36. χ² = 0.111 + 0.593 + 0.028 = **0.73**. With df = 2 the critical value is 5.99, so the flowers fit 9 : 3 : 4.
 
 A significant result shows the data do not fit the expected ratio. It does not prove which alternative explains them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--08-chi-squared.webp" width="900" height="1090" alt="Observed 279, 97, 83 and 21 are compared with expected 270, 90, 90 and 30 from 9 : 3 : 3 : 1. The parts of chi-squared are 0.300, 0.544, 0.544 and 2.700, total 4.09 with 3 degrees of freedom. This is below the critical value 7.81 at p = 0.05, so the difference is not significant." loading="lazy">
+  <figcaption>Add (O minus E) squared over E for every class and compare with the critical value.</figcaption>
+</figure>
+
 
 ## Common errors
 

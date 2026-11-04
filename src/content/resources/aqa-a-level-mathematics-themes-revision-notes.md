@@ -81,6 +81,37 @@ Of any two consecutive integers n and n+1, one must be even, so
 n(n+1) is a multiple of 2. Hence 4n(n+1) is a multiple of 8.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-themes-revision-notes--03-implication-nested-sets.webp" width="900" height="850" alt="Nested sets: x = 2 inside x^2 = 4 (which also holds x = -2), and squares inside shapes with four equal sides (which also holds rhombuses). Inner implies outer only; equal sets give a two-way implication." loading="lazy">
+  <figcaption>An arrow runs from the inner set to the outer set; a two-way arrow needs the sets to be equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-themes-revision-notes--04-exhaustion-last-digits.webp" width="900" height="835" alt="Ten digit boxes 0 to 9 map to the last digit of their squares: 0,1,4,9,6,5,6,9,4,1. Bottom boxes 2, 3, 7 and 8 receive nothing and are crossed out." loading="lazy">
+  <figcaption>Checking the ten possible last digits covers every integer, so no square ends in 2, 3, 7 or 8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--05-counter-example-graph.webp" width="900" height="920" alt="The graph of y = x² with the line y = 25 shows x² &gt; 25 for x &lt; −5 or x &gt; 5. The claim only fits x &gt; 5. The point (−6, 36) is above the line but −6 is not greater than 5, so it disproves the claim." loading="lazy">
+  <figcaption>One case that meets the condition but breaks the conclusion disproves a general claim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--06-examples-not-proof.webp" width="900" height="860" alt="Four rows of dots, one per n, show each expression is prime until a single failure. 3^n + 2 fails at n = 5 (245), n² + n + 11 at n = 10 (121), 2n² + 11 at n = 11 (253) and n² + n + 41 at n = 40 (1681 = 41²)." loading="lazy">
+  <figcaption>Long runs of examples can still end in a counter-example, so examples are not a proof.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--07-root2-contradiction.webp" width="900" height="830" alt="Assume √2 = p/q in lowest terms. Squaring gives p² = 2q², so p is even, and p = 2r then gives q even. Both are even so they share the factor 2, shown as a Venn overlap, which clashes with lowest terms. So √2 is irrational." loading="lazy">
+  <figcaption>The assumption of lowest terms is what the contradiction clashes with.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--01-proof-anatomy.webp" width="900" height="680" alt="A 7 by 7 grid with a 5 by 5 square in one corner shows 7² − 5² = 24 left over. Beside it are the three parts of a proof: assume 2n+1 and 2n+3, show (2n+3)² − (2n+1)² = 8(n+1), conclude a multiple of 8 for every n. For n = 2 this is 49 − 25 = 24 = 8 × 3." loading="lazy">
+  <figcaption>A proof starts from stated assumptions, makes valid steps and ends with a conclusion that holds for every n.</figcaption>
+</figure>
+
+
 ## Modelling
 
 The modelling cycle: **real problem → assumptions → mathematical model → solve → interpret → validate → refine**.
@@ -96,6 +127,17 @@ The modelling cycle: **real problem → assumptions → mathematical model → s
 **Questions asking "criticise the model" want the assumption named, and the direction of the resulting error stated** — not just "it is unrealistic".
 
 **Limitations of a model** are not failures. A model is judged by whether it is **useful for its purpose**, not by whether its assumptions are literally true.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-themes-revision-notes--01-modelling-cycle.webp" width="900" height="910" alt="Seven-step ring: real problem, assumptions, model, solve, interpret, validate, refine, back to the start. Assumptions is highlighted because the modeller chooses and must state them." loading="lazy">
+  <figcaption>A model is built, tested and refined in a cycle, and judged by whether it is useful.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-themes-revision-notes--02-assumption-drag-range.webp" width="900" height="660" alt="Two projectile paths at 20 m/s and 45 degrees: the no-drag parabola lands at 40.8 m, a path with illustrative drag lands at 25.8 m. The gap is labelled overestimate." loading="lazy">
+  <figcaption>Ignoring air resistance overestimates the range, so a criticism of the model states the direction of the error.</figcaption>
+</figure>
+
 
 ## Problem solving
 
@@ -139,3 +181,9 @@ Know what the calculator can and cannot do. It can solve equations, integrate nu
 5. Why does working matter even when the answer is wrong?
 
 **Answers:** 1. A general statement claims something for all cases, so one failing case refutes it; but confirming any finite number of cases leaves the remaining ones untested. 2. Assume the opposite of the statement, derive a logical contradiction, and conclude that the original statement must be true. 3. ⟹ means implies in one direction only: x = 2 ⟹ x² = 4, but x² = 4 does not imply x = 2, so ⟺ would be false there. 4. The direction of the resulting error — for example, ignoring air resistance overestimates the range. 5. Method marks are awarded for a correct approach independently of the final answer, so working can earn most of the marks even after an arithmetic slip.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--04-squaring-implication.webp" width="900" height="955" alt="The line y = x meets the upper curve y = √(x+2) at (2, 2), a true solution. Squaring brings in the lower branch y = −√(x+2), which the line meets at (−1, −1), an extra root. Check every answer in the original equation, because squaring gives ⇒ only." loading="lazy">
+  <figcaption>Squaring is an implication one way only, so it can add false roots.</figcaption>
+</figure>
+

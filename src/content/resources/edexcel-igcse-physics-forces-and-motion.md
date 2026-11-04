@@ -108,6 +108,22 @@ v² = u² + 2as
 a = 2.5 m/s²
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-forces-and-motion--05-suvat-worked.webp" width="900" height="890" alt="Velocity-time graph of a car from 5.0 to 15 m/s. Gradient 2.5 m/s2, time 4 s, area 40 m. Agrees with v^2 = u^2 + 2as giving a = 2.5." loading="lazy">
+  <figcaption>The lesson example solved by equation and checked on a v-t graph (area = 40 m).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--01-distance-time-graph.webp" width="900" height="970" alt="A distance-time graph rises steeply for 40 m in 10 s, is flat for 10 s, then rises less steeply by 60 m in 20 s. Steeper means faster, flat means stopped; the last gradient triangle gives 60 / 20 = 3 m/s." loading="lazy">
+  <figcaption>The gradient of a distance-time graph is the speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--02-speed-time-graph.webp" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration, Extended). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled (Core)." loading="lazy">
+  <figcaption>The area under a speed-time graph is the distance travelled; its gradient is the acceleration.</figcaption>
+</figure>
+
+
 ## Forces and Newton's second law
 
 A **force** is a vector quantity that can change an object's speed, shape
@@ -142,6 +158,32 @@ only because you are in equilibrium. The two forces of a Newton's third law
 pair always act on **different objects**, which is why they never cancel
 each other out for a single object.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-forces-and-motion--03-friction-resultant.webp" width="900" height="1218" alt="A 4.0 kg block. Weight and normal force (39.2 N) cancel. With push 30 N and friction 30 N the resultant is 0 N; push 50 N gives 20 N and a = 5.0 m/s2; with no push, friction 30 N gives a deceleration of 7.5 m/s2." loading="lazy">
+  <figcaption>Friction acts against the motion, so the resultant is push minus friction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--01-resultant-force.webp" width="900" height="830" alt="A block has a 4 N and a 7 N force to the right and a 3 N force to the left, drawn to one scale. (4 + 7) - 3 = 8 N, shown as a single 8 N arrow to the right." loading="lazy">
+  <figcaption>Resultant force: add forces in one direction and subtract those opposing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--02-f-equals-ma.webp" width="900" height="870" alt="Two trolleys receive the same 15 N push. The 3 kg trolley accelerates at 5 m/s squared and the 6 kg trolley at 2.5 m/s squared, with arrows to scale." loading="lazy">
+  <figcaption>Acceleration = resultant force divided by mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--04-mass-and-weight.webp" width="900" height="970" alt="A 5.0 kg block has a weight arrow of 49 N on Earth (g = 9.8 N/kg) but only about 8.2 N on the Moon, where g is about a sixth as large. Mass stays 5.0 kg." loading="lazy">
+  <figcaption>Mass stays the same everywhere, but weight (W = mg) depends on the gravitational field strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--03-third-law-pairs.webp" width="900" height="870" alt="A book rests on a table on the Earth. The table pushes the book up and the book pushes the table down (contact pair); the Earth pulls the book down and the book pulls the Earth up (gravity pair). Weight and table push act on one object so are not a pair." loading="lazy">
+  <figcaption>A third-law pair is the same type of force acting on two different objects.</figcaption>
+</figure>
+
+
 ## Stopping distance and terminal velocity
 
 A vehicle's **stopping distance** is the sum of its **thinking distance**
@@ -154,6 +196,17 @@ gravity, but as its speed increases, resistive forces (such as air
 resistance) increase too. Eventually these balance the object's weight, and
 it falls at a constant **terminal velocity**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--05-stopping-distance.webp" width="900" height="910" alt="Bars to scale: at 20 m/s thinking 14 m plus braking 33 m gives 47 m; at 30 m/s thinking 21 m plus braking 75 m gives 96 m. Tiredness, alcohol and drugs lengthen thinking; tyres, road and load lengthen braking; speed lengthens both." loading="lazy">
+  <figcaption>Stopping distance = thinking distance + braking distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--03-terminal-velocity.webp" width="900" height="1067" alt="An illustrative skydiver speed-time curve rises and levels at 50 m/s. Three force diagrams: at A only weight acts; at B drag is smaller than weight so speed still rises; at C drag equals weight so the speed is constant (terminal velocity)." loading="lazy">
+  <figcaption>Terminal velocity is reached when drag has grown to balance the weight.</figcaption>
+</figure>
+
+
 ## Hooke's law and elastic behaviour
 
 Investigating how the extension of springs, wires or rubber bands varies
@@ -163,6 +216,17 @@ directly proportional to the applied force — this is **Hooke's law**.
 original shape once the deforming force is removed; beyond a certain point
 (the limit of proportionality), this linear, elastic behaviour no longer
 holds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-forces-and-motion--04-force-extension-materials.webp" width="900" height="1098" alt="Three qualitative force-extension graphs. Spring: straight line then not proportional beyond the limit. Wire stretched past the limit: unloading line parallel to the start, leaving a permanent extension. Rubber band: curved loading and unloading curves, returning to zero." loading="lazy">
+  <figcaption>Springs obey Hooke’s law up to the limit; rubber bands are elastic but not linear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
+  <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
+</figure>
+
 
 ## Momentum (Physics only)
 
@@ -193,6 +257,17 @@ combined velocity afterward:
 v = 1.0 m/s
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--02-collision-stick.webp" width="900" height="780" alt="A 2 kg trolley at 3 m/s hits a stationary 1 kg trolley. Momentum before is 6 kg m/s, shown as a bar. After they stick, 3 kg moves at 2 m/s and the bar is the same length." loading="lazy">
+  <figcaption>Total momentum before a collision equals total momentum after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--05-impulse-force-time.webp" width="900" height="940" alt="Two force-time graphs with the same momentum change of 900 kg m/s for a 60 kg person stopping from 15 m/s. A 0.05 s stop needs 18000 N; a 0.2 s airbag stop needs 4500 N. Both areas are 900 N s." loading="lazy">
+  <figcaption>The same impulse over a longer time needs a smaller force.</figcaption>
+</figure>
+
+
 ## Moments (Physics only)
 
 The **moment** of a force about a pivot is the product of the force and its
@@ -201,6 +276,22 @@ its **centre of gravity**. The **principle of moments** states that, for a
 system in equilibrium, the sum of clockwise moments about a pivot equals
 the sum of anticlockwise moments — used to analyse how the upward support
 forces on a beam vary with the position of a load placed along it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-forces-and-motion--06-beam-supports.webp" width="900" height="1060" alt="A light 2.0 m beam on supports A and B with a 100 N load at 0.5, 1.0 and 1.5 m. Support forces 75/25, 50/50 and 25/75 N, each pair summing to 100 N." loading="lazy">
+  <figcaption>Support forces change with load position, from moments about a support.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--06-moments-balance.webp" width="900" height="830" alt="A beam on a central pivot with 2.0 N at 0.30 m on the left and W at 0.20 m on the right. The anticlockwise moment 0.60 N m equals the clockwise moment 0.60 N m, so W = 3.0 N and the beam balances." loading="lazy">
+  <figcaption>A beam balances when the clockwise and anticlockwise moments about the pivot are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--05-plumb-line-lamina.webp" width="900" height="1160" alt="A plane lamina is hung from pin A with a plumb line, then from pin B. The two vertical lines, drawn on the lamina, cross at the centre of gravity." loading="lazy">
+  <figcaption>The centre of gravity is where the plumb lines from two suspension points cross.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

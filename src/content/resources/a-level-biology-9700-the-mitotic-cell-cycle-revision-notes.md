@@ -45,6 +45,12 @@ Then test yourself with the [mitotic cell cycle practice questions](/resources/a
 | Centromere | Region joining sister chromatids; spindle attachment point |
 | Telomeres | Repeated non-coding sequences at the chromosome ends |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
+  <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
+</figure>
+
+
 ### Why genetically identical cells matter
 
 | Need | Example |
@@ -66,6 +72,22 @@ Identical because: DNA copied exactly in S phase, then each daughter nucleus get
 | Mitosis | Nuclear division | 2x |
 | Cytokinesis | Cytoplasm divides | x in each new cell |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--02-cell-cycle-dna.webp" width="900" height="1100" alt="A ring diagram of G1, S, G2 and M sized from a 500-cell count (53%, 25%, 14%, 8% of a 20 hour cycle) with a graph of DNA per cell: 16 pg in G1, rising to 32 pg in S, level through G2 and mitosis, halving at cytokinesis." loading="lazy">
+  <figcaption>DNA doubles during S phase and halves at cytokinesis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--05-meiosis-halves-number.webp" width="900" height="1110" alt="A parent cell with four chromosomes in two homologous pairs divides twice. Meiosis I separates the homologous pairs into two haploid cells with double chromosomes; meiosis II separates chromatids into four haploid cells with single chromosomes. DNA per cell goes 4, 2, 1 units." loading="lazy">
+  <figcaption>Meiosis I halves the chromosome number; meiosis II separates chromatids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--08-gene-mutation-effects.webp" width="900" height="1090" alt="An mRNA read in codons codes Met, Gly, Leu, Thr, Lys, Pro then stop. A silent substitution leaves the protein unchanged, another changes one amino acid to Val, another makes an early stop codon, and a deletion shifts every codon after it." loading="lazy">
+  <figcaption>Substitutions may change one amino acid or nothing; a deletion changes everything after it.</figcaption>
+</figure>
+
+
 ### Telomeres in three steps
 
 1. Each DNA replication cannot copy the very end of the molecule.
@@ -82,6 +104,12 @@ Identical because: DNA copied exactly in S phase, then each daughter nucleus get
 
 Mutation in a gene controlling cell division → cell no longer stops dividing → repeated, uncontrolled mitosis → all daughter cells carry the mutation → mass of cells = **tumour**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--09-mutation-to-tumour.webp" width="900" height="1240" alt="A proto-oncogene stimulates division and a tumour suppressor gene slows it. Mutation turns the first into an always-on oncogene and disables the second, so cells double each cycle (1, 2, 4, 8, 16) into a tumour. A benign tumour stays in a capsule; a malignant one invades and spreads through the blood." loading="lazy">
+  <figcaption>Mutations in genes that control division cause uncontrolled division and tumours.</figcaption>
+</figure>
+
+
 ### Worked reminder: reading a DNA mass graph
 
 A graph shows DNA per cell of 8 pg, rising to 16 pg, then falling back to 8 pg.
@@ -92,6 +120,12 @@ A graph shows DNA per cell of 8 pg, rising to 16 pg, then falling back to 8 pg.
 - Sudden drop to 8 pg: **cytokinesis**, when the cell splits.
 
 Quote the values with units when you describe a graph like this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--01-chromosome-structure.webp" width="900" height="1230" alt="A replicated chromosome drawn as two sister chromatids joined at the centromere, with gold telomeres at the four ends. Zooming in, DNA is coiled round histone proteins. A final panel shows a DNA end shortening with each copy: the telomere is used up first and the genes stay intact." loading="lazy">
+  <figcaption>Telomeres are lost from chromosome ends at each replication, so genes are protected.</figcaption>
+</figure>
+
 
 ## 5.2 Chromosome behaviour in mitosis
 
@@ -131,6 +165,12 @@ Name the stage for every event. An event without a stage rarely scores.
 4. Convert hours to minutes if the stage is short (× 60).
 5. State the assumption: cells are dividing at random times (not in step).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--04-mitotic-index.webp" width="900" height="1232" alt="A grid of 500 root tip cells, one symbol each: 440 interphase and 60 in mitosis (30 prophase, 12 metaphase, 8 anaphase, 10 telophase). A table gives time in a 24 hour cycle for each stage and the mitotic index 60/500 = 12%." loading="lazy">
+  <figcaption>The fraction of cells in a stage equals the fraction of the cycle spent in it.</figcaption>
+</figure>
+
+
 ### Worked reminder
 
 900 cells counted; 45 in prophase; the cycle lasts 16 h.
@@ -152,6 +192,12 @@ time = 0.05 × 16 = 0.8 h = 48 min
 1. Measure the image in mm with a ruler.
 2. Actual size = image size / magnification.
 3. Multiply mm by 1000 to give µm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp" width="900" height="1276" alt="Six drawings of an animal cell with four chromosomes: interphase, prophase, metaphase, anaphase, telophase and cytokinesis, each with a short description. Spindle fibres, centrioles and nuclei are labelled in a key; cytokinesis shows an animal cell pinching in and a plant cell forming a cell plate." loading="lazy">
+  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
+</figure>
+
 
 ## Command words for this topic
 

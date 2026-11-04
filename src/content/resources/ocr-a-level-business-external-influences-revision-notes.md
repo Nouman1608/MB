@@ -46,6 +46,17 @@ These three structures are linked to decision-making power and barriers to entry
 
 Firms **enter** a market where profit opportunity and low barriers exist, and **exit** where losses persist or barriers to survival rise — the strength of competition directly affects both decisions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
+  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
+</figure>
+
+
 ## The global context
 
 **Globalisation** — the growing interconnectedness of economies, markets and cultures — is driven by: the internet and communication technologies, e-commerce, trade liberalisation, transport infrastructure, and multinationals expanding across borders.
@@ -70,6 +81,12 @@ Firms **enter** a market where profit opportunity and low barriers exist, and **
 
 **Ethical ≠ legal.** Law is compulsory and enforceable; ethics is a business choice beyond the legal minimum. Exam questions test this distinction directly — do not treat the two as interchangeable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+
 ## Worked link: connecting factors, not listing them
 
 A UK manufacturer faces rising import costs after a currency depreciation. Link: **exchange rate movement (global context)** → **higher cost of imported raw materials (economic factor)** → **squeezed margins or higher prices (business impact)**. A strong answer traces this chain for the *named* business, rather than separately describing "economic factors" and "the global context" as unconnected checklist items — OCR weights evaluation and analysis as heavily as knowledge.
@@ -77,6 +94,12 @@ A UK manufacturer faces rising import costs after a currency depreciation. Link:
 ## How this area links to Business Objectives and Strategic Decisions
 
 Business Objectives and Strategic Decisions covers what a business decides internally; External Influences Facing Businesses covers the market and environmental forces a business must respond to but cannot fully control. A strong exam answer treats these as connected -- for example, a firm's strategic objectives should adapt when market forces or PESTLE factors shift significantly, rather than staying fixed regardless of the external environment. Examiners reward candidates who can trace this link explicitly: naming which external influence has changed, and then explaining how a specific strategic decision should respond, rather than discussing the two areas of study as entirely separate bodies of content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
 
 ## Common mistakes to avoid
 

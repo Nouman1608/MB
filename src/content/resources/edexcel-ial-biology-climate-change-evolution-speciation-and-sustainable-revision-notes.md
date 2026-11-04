@@ -36,6 +36,12 @@ These are condensed notes for statements 5.16 to 5.26 of Topic 5 in the Pearson 
 
 **Reminder (rings).** Rings of 1.4, 1.6, 0.6 and 1.8 mm have a mean of 5.4 ÷ 4 = 1.35 mm. The 0.6 mm ring is the poor year: cold, dry or disease. Compare many trees before inferring climate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
+
 ## 5.17 Greenhouse effect and anthropogenic causes
 
 Method in steps:
@@ -78,6 +84,12 @@ Anthropogenic means caused by humans. The greenhouse effect itself is natural; t
 - **Seasonal mismatch:** a predator and its food respond at different rates, so timing no longer overlaps.
 - **Rainfall change:** drought lowers plant growth; flooding damages roots.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
+
 ## 5.21 Temperature, enzymes and Q₁₀
 
 - Rate rises with temperature: more kinetic energy, more frequent and more energetic collisions.
@@ -117,6 +129,12 @@ Evolution is a change in allele frequency in a population over generations.
 
 Allele frequency = number of copies of the allele ÷ total number of alleles. **Reminder:** 20 copies among 200 alleles is 0.10. If later there are 70 copies among 200, the frequency is 0.35, so the population has evolved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
+
 ## 5.24 Isolation and speciation
 
 | | Allopatric | Sympatric |
@@ -127,6 +145,12 @@ Allele frequency = number of copies of the allele ÷ total number of alleles. **
 | End point | Cannot interbreed to produce fertile offspring: separate species | Same |
 
 **Exam link.** To explain why a population evolved, name the selection pressure and the allele, say what the survivors did, and show the frequency changed across generations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
+  <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
+</figure>
+
 
 ## 5.25 Controversial issues
 
@@ -179,6 +203,12 @@ Conclusions can depend on who reaches them. Look at: funding source, vested inte
 10. Allopatric: geographical barrier separates populations. Sympatric: speciation within the same area.
 11. Fertilisers and machinery use fossil fuel energy; land use change releases stored carbon.
 12. The funder may have an interest, so data or interpretation may be selective.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

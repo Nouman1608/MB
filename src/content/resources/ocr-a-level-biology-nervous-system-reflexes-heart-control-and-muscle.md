@@ -136,6 +136,22 @@ Pulse counts over 15 s: rest 18, immediately after exercise 42, two minutes late
 
 An ECG sensor gives the same information. At a chart speed of 25 mm/s, an R-to-R distance of 21 mm is 21 ÷ 25 = 0.84 s, so heart rate = 60 ÷ 0.84 = 71 beats per minute. Control exercise intensity and time, use the same volunteer, and repeat for reliability. Use healthy, consenting volunteers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--05-heart-structure.webp" width="900" height="1110" alt="Frontal section of the heart with the four chambers, septum, tricuspid and bicuspid valves, tendons and papillary muscles, semilunar valves, coronary artery and the four main vessels with flow arrows. The left ventricle wall is thicker than the right. Red marks oxygenated and blue deoxygenated blood." loading="lazy">
+  <figcaption>Where each vessel and valve sits and which way blood flows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--07-heart-conduction.webp" width="900" height="820" alt="Heart section showing the SAN starting a wave across the atria, a non-conducting gap, the AVN delay, the bundle of His down the septum and Purkyne tissue carrying the wave up the ventricle walls from the apex." loading="lazy">
+  <figcaption>The order in which excitation travels explains why atria contract before ventricles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--08-heart-rate-control.webp" width="900" height="1170" alt="Feedback loop: chemoreceptors and pressure receptors signal the cardiac control centre in the medulla, which uses the sympathetic nerve to speed up or the vagus to slow down the SAN. Adrenaline (OCR) also acts on the SAN. Bars show rest, exercise and recovery rates with blood pH." loading="lazy">
+  <figcaption>Heart rate is adjusted by negative feedback using opposite nerves.</figcaption>
+</figure>
+
+
 ## 5.1.5(l) Muscle
 
 ### Types of muscle
@@ -154,6 +170,13 @@ In a **longitudinal** section, skeletal muscle shows parallel fibres with regula
 
 <figure class="my-8" id="objective-bio-82bf2160-cardiac-branching" data-objective-id="82bf216097a50342a0b3"><img src="/images/learning/biology/bio-b57-cardiac-muscle-histology-400x.jpg" alt="Authentic light micrograph of cardiac muscle at 400×, showing striated fibres with central nuclei and visible branching between fibres." width="3072" height="4096" loading="lazy" decoding="async" /><figcaption>Cardiac muscle histology at 400×. Alexander G. Cheroske, <a href="https://commons.wikimedia.org/wiki/File:Cardiac_muscle_histology_400x.jpg">Wikimedia Commons source record</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. The branching pattern is visible in the tissue field; the image does not label individual cell boundaries or provide a calibrated scale bar.</figcaption></figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--09-atheroma.webp" width="900" height="1180" alt="Two artery cross-sections to the same scale: a 4.0 mm lumen (12.57 mm2) and a lumen narrowed by atheroma to 2.8 mm (6.16 mm2), a 30% fall in diameter but 51% in area. A chain shows clot formation, a blocked coronary artery and heart muscle death." loading="lazy">
+  <figcaption>A 30% narrowing in diameter halves the cross-sectional area.</figcaption>
+</figure>
+
+
+
 ### Structure of a skeletal muscle fibre
 
 A fibre contains many **myofibrils**, each made of repeating **sarcomeres** between Z lines. Thin **actin** filaments (with tropomyosin and troponin) attach to the Z lines; thick **myosin** filaments, with heads, lie between them. The fibre is wrapped in the sarcolemma, which folds into **T tubules**, and it is full of sarcoplasmic reticulum and mitochondria.
@@ -163,6 +186,12 @@ A fibre contains many **myofibrils**, each made of repeating **sarcomeres** betw
 | A band | The whole length of the myosin filaments | Dark |
 | I band | Actin only | Light |
 | H zone | Myosin only (centre of A band) | Lighter band within A band |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--01-vessels.webp" width="900" height="1150" alt="Three cross-sections side by side: a thick-walled artery with a narrow lumen (wall to lumen 3:5 as in the lesson example), a thin-walled vein with a wide lumen and a long section showing a valve, and a capillary whose one-cell wall holds red cells in single file. Each layer is labelled." loading="lazy">
+  <figcaption>Artery, vein and capillary structure matched to function.</figcaption>
+</figure>
+
 
 ### Neuromuscular junction
 

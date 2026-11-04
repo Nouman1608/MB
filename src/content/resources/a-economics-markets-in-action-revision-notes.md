@@ -37,6 +37,17 @@ Conditions of supply: costs, technology, taxes, subsidies, number of firms, weat
 
 **Total surplus** (consumer + producer) falls when a market moves away from equilibrium — this fall is the **welfare loss** measured on a diagram. The two components need not move together: a binding **maximum price** raises consumer surplus at producers' expense; a binding **minimum price** raises producer surplus at consumers' expense; a **subsidy** raises both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-economics-markets-in-action-revision-notes--04-intervention-surplus-changes.webp" width="900" height="954" alt="Bars show changes in consumer, producer and government surplus in an illustrative market. A maximum price of 6 gives consumers +160 and producers -320; a minimum price of 14 gives consumers -320 and producers +160; a subsidy of 5 gives each of consumers and producers +281.25 at a government cost of 625. Net welfare loss is 160, 160 and 62.5." loading="lazy">
+  <figcaption>Each intervention moves surplus between groups, but only total surplus necessarily falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-economics-markets-in-action-revision-notes--01-surplus-max-price.webp" width="900" height="1040" alt="Demand and supply with equilibrium at price 6 and quantity 40. A maximum price of 4 cuts trade to 20 and creates a shortage. Consumer surplus rises from 80 to 100, producer surplus falls from 80 to 20, and total surplus falls from 160 to 120, a welfare loss of 40 shown as a triangle." loading="lazy">
+  <figcaption>A binding maximum price shifts surplus to consumers but shrinks the total.</figcaption>
+</figure>
+
+
 ## Elasticity
 
 ```
@@ -54,6 +65,32 @@ YED = %change in Qd / %change in income   XED = %change in Qd of A / %change in 
 
 **Tax incidence follows elasticity**, and this is the single most useful application: the more **inelastic** side of the market bears more of the tax. Where demand is inelastic and supply elastic, consumers pay most of it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-economics-markets-in-action-revision-notes--02-tax-incidence-inelastic-side.webp" width="900" height="1260" alt="Two diagrams with a 3 pound per unit tax. With steep demand and flat supply, consumers pay 2.40 more and producers keep 0.60 less. With flat demand and steep supply, consumers pay 0.60 more and producers keep 2.40 less. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears more of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--07-ped-curve-shapes.webp" width="900" height="1190" alt="Five price-quantity graphs through one point: vertical (PED 0), steep (-0.5), hyperbola (-1), flat (-3) and horizontal (minus infinity), plus a scale of PED sizes." loading="lazy">
+  <figcaption>The shape of the demand curve shows how elastic demand is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-price-determination-surplus-the-price-mechanism--13-pd-tax-incidence-inelastic-demand.webp" width="900" height="890" alt="A second illustrative market: demand Qd = 700 minus 20P and supply Qs = 40P minus 260 cross at price 16 and 380 units. A tax of 6 per unit shifts supply up and the new equilibrium is price 20 and 300 units. Consumers pay 4 more, two thirds of the tax; producers keep 14, which is 2 less, one third. Tax revenue is 6 times 300, which is 1,800, split 1,200 borne by buyers and 600 by sellers. At equilibrium price elasticity of demand is minus 0.84 and of supply is 1.68, so the less elastic side, demand, bears more of the tax." loading="lazy">
+  <figcaption>A tax of 6 raises the price from 16 to 20, so buyers bear 4 and sellers 2, because demand (elasticity minus 0.84) is less elastic than supply (1.68).</figcaption>
+</figure>
+
+
 ## Market failure
 
 | Failure | Mechanism |
@@ -70,6 +107,42 @@ YED = %change in Qd / %change in income   XED = %change in Qd of A / %change in 
 
 **Asymmetric information** produces two distinct problems worth naming: **adverse selection** (the wrong people select in — the used-car and insurance cases) and **moral hazard** (behaviour changes once insured).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market--01-negative-externality-welfare-loss.webp" width="900" height="880" alt="Graph with quantity on the x axis and price on the y axis. MPB equals MSB and falls from 100 at zero. MPC is 20 + 2Q and MSC is 12 higher, 32 + 2Q. The market equilibrium Qm is 20 tonnes at price 60. The social optimum Qs is 17 tonnes at price 66. The welfare loss triangle between Qs and Qm has base 3 and height 12, so area 18." loading="lazy">
+  <figcaption>Shows why the market overproduces when there is an external cost, and how big the welfare loss is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market--02-positive-externality-welfare-gain.webp" width="900" height="880" alt="Graph with quantity on the x axis and price on the y axis. MPB is 90 - 3Q and MSB sits 8 above it. MC is 18 + Q. The market equilibrium Qm is 18 classes at price 36. The social optimum Qs is 20 classes where MSB meets MC at 38. The welfare gain triangle has base 2 and height 8, so area 8." loading="lazy">
+  <figcaption>Shows why the market underprovides when there is an external benefit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--03-excludable-rival-grid.webp" width="900" height="860" alt="A grid of rival or non-rival against excludable or non-excludable. Private goods are rival and excludable. Public goods are non-excludable and non-rival, such as defence and street lighting. The other two cells are mixed cases." loading="lazy">
+  <figcaption>Public goods are non-excludable and non-rival; private goods can be withheld from non-payers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market--03-street-lighting-free-riders.webp" width="900" height="1040" alt="Five households value street lighting at 40, 30, 25, 20 and 15, a total benefit of 130 against a cost of 100, so it is worth having. With an equal split of 20 each, the household valuing it at 15 refuses. Contributions reach only 80, short of 100 by 20, so the lights are not provided." loading="lazy">
+  <figcaption>A worthwhile public good is not supplied because contributions fall short.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--06-insurance-market-unravels.webp" width="900" height="890" alt="Twenty person icons each stand for 50 drivers: 16 low-risk, 4 high-risk. The average premium of 360 exceeds the 300 low-risk drivers value cover at, so they leave and the premium rises to 1,000. Lost gain is 800 x 100 = 80,000." loading="lazy">
+  <figcaption>Asymmetric information drives low-risk customers out and shrinks the market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--07-moral-hazard-insurance-claims.webp" width="900" height="870" alt="Bars of expected claim cost per policy: 200 priced in, 300 with full cover (a loss of 100 per policy), 180 with a 1,000 excess. Across 10,000 policies the loss is 1,000,000 a year." loading="lazy">
+  <figcaption>Full cover changes behaviour and raises claims; an excess restores incentives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--09-bubble-feedback-loops.webp" width="900" height="920" alt="Two clockwise loops. Boom: good news or cheap credit, price rises and early buyers gain, the herd copies and expectations rise, more credit funds more buying. Burst: a few sell and price dips, loss-making buyers must sell, expectations reverse, credit dries up and price falls." loading="lazy">
+  <figcaption>Positive feedback inflates a bubble, and the same feedback works downward when confidence breaks.</figcaption>
+</figure>
+
+
 ## Government intervention
 
 | Policy | Strength | Weakness |
@@ -84,6 +157,37 @@ YED = %change in Qd / %change in income   XED = %change in Qd of A / %change in 
 **Government failure** — intervention producing a worse outcome than the market: information gaps, administrative costs, unintended consequences (black markets, smuggling), and regulatory capture. **A strong evaluation of intervention usually raises it.**
 
 **The tax paradox is worth stating explicitly:** a tax on a demerit good with inelastic demand raises large, stable revenue *and* barely reduces consumption. Those are not contradictory findings — they are the same fact viewed from two ends, and combining the tax with education (which shifts demand left and makes it more elastic over time) is the standard evaluated recommendation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--02-rent-cap-shortage.webp" width="900" height="1000" alt="Flats market with demand Qd = 1,000 - 2R and supply Qs = 3R - 500. A cap at 250 gives 250 flats supplied against 500 demanded, a shortage of 250; tenants would pay 375 at 250 flats, a gap of 125. The welfare loss is 9,375 cu a month." loading="lazy">
+  <figcaption>A cap below equilibrium rent leaves 250 flats short and a 9,375 cu monthly welfare loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--03-minimum-price-surplus.webp" width="900" height="970" alt="Wheat market with Qd = 600 - 10P and Qs = 20P - 300. A minimum price of 36 gives demand 240 and supply 420, a surplus of 180 tonnes. Buying the surplus costs 180 x 36 = 6,480; farmers receive 15,120 against 9,000 before." loading="lazy">
+  <figcaption>A price floor of 36 creates a surplus of 180 tonnes that costs 6,480 to buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--04-tradeable-permits-saving.webp" width="900" height="1040" alt="Two stacked bars of abatement cost under a 150-tonne cap. Without trading J spends 500 and K 1,250, total 1,750. With trading J cuts 50 tonnes for 1,000 and K cuts none, total 1,000, a saving of 750." loading="lazy">
+  <figcaption>Permits let the firm with cheaper abatement do the cutting, saving 750 for the same cap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--05-government-failure-tax-too-high.webp" width="900" height="1040" alt="Fizzy drink market where the social optimum is 25 thousand litres. With no tax the welfare loss is 11.25. A tax set at 3.5 instead of 1.5 cuts output to 5, giving a loss of 20, so the net welfare loss from intervening is 8.75." loading="lazy">
+  <figcaption>A mis-set tax can leave society worse off than doing nothing, which is government failure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
 
 ## Reasons consumers may not maximise utility
 
@@ -118,3 +222,9 @@ Traditional theory assumes **rational** utility-maximising agents with full info
 5. Name three reasons, other than imperfect information, why a consumer may not maximise utility.
 
 **Answers:** 1. The more inelastic side of the market; if demand is inelastic relative to supply, consumers bear most of it. 2. Non-excludable and non-rival. 3. Adverse selection occurs before the transaction — the worse risks are the ones who select in; moral hazard occurs after — behaviour becomes riskier once covered. 4. Demand is inelastic, so quantity barely falls while the tax is collected on nearly the same volume; the two results are the same fact seen from opposite ends. 5. Any three of: herding (the influence of other people's behaviour), habitual behaviour, inertia, poor computational skills, the need to feel valued, and framing and bias.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--06-six-reasons-not-maximising-utility.webp" width="900" height="1140" alt="Six small pictures, one for each reason: herding, habit, inertia, poor computation, need to feel valued and framing, with the lesson numbers where it gives them." loading="lazy">
+  <figcaption>Six ways real consumers depart from utility maximisation.</figcaption>
+</figure>
+

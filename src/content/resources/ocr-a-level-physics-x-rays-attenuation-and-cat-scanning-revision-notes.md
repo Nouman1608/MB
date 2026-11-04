@@ -56,6 +56,12 @@ Reminder: at 120 kV, E_max = 1.60 × 10⁻¹⁹ × 120 000 = 1.92 × 10⁻¹⁴ 
 
 Reminder: power in = VI. Electrons per second = I/e.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--04-aphy-medical-xray-production.webp" width="900" height="1210" alt="A heated filament releases electrons that a high voltage accelerates onto a tungsten target in a copper anode inside a lead-lined, evacuated tube. The spectrum has a sharp cut-off at the shortest wavelength hc/eV: 1.55 and 3.11 times 10 to the minus 11 m for 80 kV and 40 kV. Narrow characteristic lines depend on the target and appear only if eV is large enough." loading="lazy">
+  <figcaption>Tube voltage sets the shortest wavelength (maximum photon energy); tube current sets the intensity.</figcaption>
+</figure>
+
+
 ## 6.5.1(c): attenuation mechanisms
 
 | Mechanism | Photon fate | Electron fate | Key facts |
@@ -110,6 +116,12 @@ Reminder: 2.0 cm of tissue (μ = 0.20 cm⁻¹) then 1.5 cm of bone (μ = 0.60 cm
 4. Large gradient triangle. μ = −gradient.
 5. A straight line confirms the exponential law.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--05-aphy-medical-attenuation-contrast.webp" width="900" height="1060" alt="X-ray intensity falls exponentially, I = I0 e^(-mu x), with a half-value thickness ln2/mu (3.3 cm for mu = 0.21 per cm). A beam crossing a 1.8 cm bone block ends at 7.8 percent of its original intensity against 15.1 percent through tissue alone, about half. That difference is the image contrast." loading="lazy">
+  <figcaption>Bone has a larger attenuation coefficient than soft tissue, so the beam behind it is weaker: this is image contrast.</figcaption>
+</figure>
+
+
 ## 6.5.1(e): contrast media
 
 | Medium | Atomic number | Use | Delivery |
@@ -134,6 +146,12 @@ Safety point: barium sulfate is insoluble and stays in the gut. Some patients re
 Why the computer is essential: no single detector reading tells you where along the beam the attenuation happened. Only by combining readings from many angles can the software assign an attenuation value to each voxel.
 
 Order to quote: tube rotates, detectors record, computer reconstructs, display shows. The couch moves the patient through so slices can be stacked into a 3D view.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--08-aphy-medical-pet.webp" width="900" height="1030" alt="A positron from a tracer such as fluorine-18 annihilates with an electron to give two 0.511 MeV gamma photons travelling in opposite directions. A ring of detectors records photons that arrive together; the source lies on the line joining the two detectors. Lines from many events cross at the tracer-rich tissue." loading="lazy">
+  <figcaption>PET detects pairs of back-to-back photons, so each coincidence marks a line through the source.</figcaption>
+</figure>
+
 
 ## 6.5.1(g): CAT scan against X-ray image
 
@@ -169,6 +187,12 @@ Order to quote: tube rotates, detectors record, computer reconstructs, display s
 9. High atomic number, so it absorbs strongly, and the insoluble sulfate is not absorbed into the body.
 10. Any two of: no overlapping structures, better soft tissue contrast, 3D views, measurement of position and size.
 11. −μ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--06-aphy-medical-ct-scanner.webp" width="900" height="1110" alt="A CT scanner rotates an X-ray tube so that a thin fan beam crosses one slice of the body from many angles, recorded by a ring of detectors. A computer combines the readings into a grey-scale image whose pixel brightness shows how strongly each small volume absorbs. Moving the couch gives a series of slices that build a 3-D image." loading="lazy">
+  <figcaption>CT combines many angled X-ray views of each slice, then stacks slices into a 3-D image.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

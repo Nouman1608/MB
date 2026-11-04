@@ -90,6 +90,12 @@ growth
 
 Worked reminder: frequency falls from 18 to 5 quadrats out of 20. Percentage change = (5 − 18) ÷ 18 × 100 = −72.2 %.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--03-tolerance.webp" width="900" height="810" alt="Growth of a fish in mm per day against temperature from 4 to 32 degrees Celsius, plotted from the lesson data. Growth peaks at 3.9 at 16 degrees (optimum) and is zero at 4 and 32 degrees, a range of 28 degrees. Growth at 24 degrees is 53.8 percent lower than at the optimum." loading="lazy">
+  <figcaption>Growth is highest at the optimum, falls in the zones of stress and reaches zero at the limits of tolerance.</figcaption>
+</figure>
+
+
 ## B4.1.5: coral reefs
 
 | Factor | Requirement | Reason |
@@ -102,12 +108,24 @@ Worked reminder: frequency falls from 18 to 5 quadrats out of 20. Percentage cha
 
 pH is a logarithmic scale. A fall from pH 8.1 to 7.9 is a 10^0.2 = 1.58-fold rise in hydrogen ion concentration, a 58 % increase.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--05-coral.webp" width="900" height="960" alt="Seawater column from the surface to 20 m getting darker with depth, with coral on a sloping seabed in shallow water. Bars show light remaining: 100, 50, 25, 12.5 and 6.25 percent at 0, 5, 10, 15 and 20 m. Tiles give warm water 23 to 29 degrees Celsius, clear water, stable salinity and pH about 8.1." loading="lazy">
+  <figcaption>Light halves every 5 m, so reef-building corals and their algae are restricted to shallow, clear, warm water of stable salinity and pH about 8.1.</figcaption>
+</figure>
+
+
 ## B4.1.6: biome distribution
 
 - For a given temperature and rainfall, one ecosystem type is likely to develop.
 - Graph: temperature on the horizontal axis, rainfall on the vertical axis, regions for each biome.
 - Hot and wet: tropical forest. Hot and dry: hot desert. Cold and dry: tundra. Cold with more precipitation: taiga. Moderate temperature: temperate forest (wetter) or grassland (drier).
 - Overlap areas: seasonality, soil and disturbance decide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--06-biomes.webp" width="900" height="980" alt="A schematic biome graph with mean annual temperature across and rainfall up. Warm and very wet is tropical forest; colder at high rainfall gives temperate forest then taiga; cold and dry gives tundra; hot and very dry gives hot desert; intermediate rainfall gives grassland." loading="lazy">
+  <figcaption>Mean annual temperature and rainfall together determine which biome develops.</figcaption>
+</figure>
+
 
 ## B4.1.7: biome climates and convergence
 
@@ -134,6 +152,22 @@ Convergent evolution examples: cacti (Americas) and succulent *Euphorbia* (Afric
 | Rainforest | Many canopy plants | Drip tips shed water |
 | Rainforest | Three-toed sloth | Slow metabolism, algae-green fur camouflage |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--01-marram.webp" width="900" height="1080" alt="Top: a marram leaf cross-section rolled inwards, with a thick waxy cuticle on the outside and sunken stomata with hairs in grooves on the inside, around a humid air pocket so little vapour escapes. Bottom: the plant in sand with very long roots, rhizomes and growth up through buried sand." loading="lazy">
+  <figcaption>A rolled leaf traps humid air by the stomata, and roots, rhizomes and upward growth cope with dry, shifting sand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--02-mangrove.webp" width="900" height="910" alt="Two mangrove trees in salty tidal water over oxygen-poor mud. Rhizophora has prop roots that anchor it and seedlings that grow on the tree; Avicennia has upward-growing pneumatophores with pores for gas exchange. A leaf inset shows salt glands excreting salt." loading="lazy">
+  <figcaption>Prop roots anchor, pneumatophores supply air, salt glands remove salt and seedlings germinate on the tree.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--08-desert-forest.webp" width="900" height="1110" alt="Top: a saguaro cactus in a hot desert with a pleated stem that swells with stored water, spines, shallow wide roots and stomata that open at night. Bottom: a kapok tree in rainforest with buttress roots in thin soil, drip-tip leaves that shed water and an epiphyte reaching light." loading="lazy">
+  <figcaption>Each feature solves a problem: water storage and shade in deserts; support, shedding water and reaching light in rainforest.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 ### Reading a tolerance table
@@ -144,6 +178,12 @@ A fish grows 0, 1.1, 2.6, 3.9, 3.1, 1.8, 0.4 and 0 mm per day at 4, 8, 12, 16, 2
 - Limits for growth: 4 °C and 32 °C, a range of 28 °C.
 - Drop from optimum to 24 °C: (3.9 − 1.8) ÷ 3.9 × 100 = 53.8 %.
 - Shape: gradual rise, steeper fall, so high temperatures are the greater danger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--04-transect.webp" width="900" height="1110" alt="Six quadrats along a 50 m transect show species A in 18, 15, 9, 5, 2 and 0 of 20 squares while soil pH falls from 8.2 to 6.1. A scatter graph of quadrats against pH shows a strong positive correlation. Correlation is not proof that pH is the cause." loading="lazy">
+  <figcaption>Species A declines as soil pH falls, a correlation that does not on its own prove pH is the cause.</figcaption>
+</figure>
+
 
 ### Water loss from a rolled leaf
 
@@ -203,6 +243,12 @@ If a place has a mean annual temperature of 26 °C and 2,800 mm of rain a year (
 8. Temperature (horizontal axis) and rainfall (vertical axis).
 9. Kangaroo rat: concentrated urine; fennec fox: large ears to lose heat.
 10. Unrelated plants in different continents evolved similar succulent, spiny, water-storing stems under similar dry conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--07-convergent.webp" width="900" height="1020" alt="Two pairs of unrelated desert organisms with similar features: American cacti and African Euphorbia have succulent, spiny, water-storing stems; kangaroo rats and jerboas are small, nocturnal, hopping rodents. The similarity arises from the same selection pressure, not from a recent shared ancestor." loading="lazy">
+  <figcaption>Unrelated species in similar conditions evolve similar solutions.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

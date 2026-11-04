@@ -59,11 +59,23 @@ Memory hook: only phenolphthalein is **colourless** in acid; only methyl orange 
 
 Universal indicator gives an **approximate** pH. It is a mixture, so its colour changes gradually.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--08-ph-bands-indicators.webp" width="900" height="930" alt="Universal indicator bar from pH 0 to 14 marked with the five Edexcel bands, plus tubes for litmus, phenolphthalein and methyl orange in acid and alkali. Methyl orange is yellow in alkali." loading="lazy">
+  <figcaption>The five pH bands and the three indicators named in the specification.</figcaption>
+</figure>
+
+
 ## 2.31–2.32 Ions and neutralisation
 
 - Acids in aqueous solution are a source of **H⁺** ions.
 - Alkalis in aqueous solution are a source of **OH⁻** ions.
 - Alkalis neutralise acids: `H⁺(aq) + OH⁻(aq) → H₂O(l)`
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--03-neutralisation.webp" width="900" height="900" alt="A larger oval of bases contains a smaller oval of alkalis; copper(II) oxide is a base but not an alkali. Beakers show five H+ ions plus five OH- ions giving five water molecules." loading="lazy">
+  <figcaption>Every alkali is a base, and neutralisation is H+ + OH- making water.</figcaption>
+</figure>
+
 
 ## 2.33C Titration (Paper 2 only)
 
@@ -85,6 +97,17 @@ Universal indicator gives an **approximate** pH. It is a mixture, so its colour 
 - Mean titre uses only concordant results, never the rough one.
 - Use a white tile. Never universal indicator (no sharp end point).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--09-concordant-titres.webp" width="900" height="890" alt="Dot plot of titres 23.20 (rough), 22.60, 22.95, 22.70 and 22.65 cm3. The three within 0.10 cm3 are kept and their mean is 22.65 cm3." loading="lazy">
+  <figcaption>Ignore the rough titre and any result not within 0.10 cm3, then average the rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--02-titration.webp" width="900" height="1075" alt="A burette of acid sits above a conical flask of alkali plus indicator, with a pipette measuring the alkali. An inset shows reading the bottom of the meniscus at eye level. Three flasks show the colour at first, a flash that fades on swirling, and one drop giving a permanent colour change: the end-point." loading="lazy">
+  <figcaption>The end-point is where one drop makes the colour change permanent; read the burette at the bottom of the meniscus.</figcaption>
+</figure>
+
+
 ## 2.34 Solubility rules
 
 | Always or usually soluble | Exceptions (insoluble) |
@@ -101,6 +124,12 @@ Universal indicator gives an **approximate** pH. It is a mixture, so its colour 
 
 Lead(II) appears in two exception lists: its chloride and its sulfate are both insoluble.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--07-solubility-rules.webp" width="900" height="979" alt="Six rows: sodium, potassium and ammonium salts and nitrates are soluble; chlorides are soluble except silver and lead; sulfates soluble except barium, calcium and lead; carbonates insoluble except sodium, potassium, ammonium; hydroxides insoluble except sodium, potassium, ammonium and (slightly) calcium." loading="lazy">
+  <figcaption>Use the rules to decide whether a salt dissolves.</figcaption>
+</figure>
+
+
 ## 2.35–2.36 Proton transfer
 
 - H⁺ is a proton.
@@ -113,6 +142,12 @@ Small reminders:
 OH⁻ + H⁺ → H₂O          (hydroxide ion accepts a proton)
 NH₃ + H⁺ → NH₄⁺         (ammonia accepts a proton)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--11-proton-transfer.webp" width="900" height="880" alt="An H+ ion passes from acid (donor) to base (acceptor). Examples: NH3 + H+ gives NH4+, O2- + 2H+ gives H2O, and CO3 2- + 2H+ gives H2O + CO2." loading="lazy">
+  <figcaption>An acid donates a proton and a base accepts it.</figcaption>
+</figure>
+
 
 ## 2.38 Bases and alkalis
 
@@ -142,6 +177,17 @@ CuO(s) + 2HCl(aq) → CuCl₂(aq) + H₂O(l)
 Na₂CO₃(aq) + 2HNO₃(aq) → 2NaNO₃(aq) + H₂O(l) + CO₂(g)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--02-acid-reactions.webp" width="900" height="975" alt="Four test tubes: acid with metal gives salt and hydrogen; acid with base gives salt and water; acid with carbonate gives salt, water and carbon dioxide; a base warmed with an ammonium salt releases ammonia." loading="lazy">
+  <figcaption>Know the products of each reaction, including the easily forgotten carbon dioxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--06-soluble-salt-prep.webp" width="900" height="1130" alt="Four steps: add excess solid to acid, filter off the unreacted solid, evaporate the filtrate until crystals start to form, then crystallise, filter and dry. A note says that with an alkali you titrate to the exact volume." loading="lazy">
+  <figcaption>Excess solid guarantees all the acid reacts; filter before evaporating.</figcaption>
+</figure>
+
+
 ## Choosing a salt preparation
 
 | Salt wanted | Reactants | Method | Spec |
@@ -149,6 +195,12 @@ Na₂CO₃(aq) + 2HNO₃(aq) → 2NaNO₃(aq) + H₂O(l) + CO₂(g)
 | Soluble; base, metal or carbonate insoluble | acid + excess solid | add excess, filter, crystallise | 2.39, 2.42 |
 | Soluble; Na, K or NH₄ salt | acid + alkali | titrate, repeat without indicator, crystallise | 2.40C |
 | Insoluble | two soluble solutions | precipitate, filter, wash, dry | 2.41C, 2.43C |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--10-salt-method-choice.webp" width="900" height="900" alt="Decision chart: insoluble salt by precipitation; soluble salt with an insoluble reactant by excess solid and filtering; soluble salt from acid and alkali by titration." loading="lazy">
+  <figcaption>Two questions decide which method makes a given salt.</figcaption>
+</figure>
+
 
 ## 2.39 and 2.42 Excess-solid method
 
@@ -166,6 +218,12 @@ Na₂CO₃(aq) + 2HNO₃(aq) → 2NaNO₃(aq) + H₂O(l) + CO₂(g)
 - Excess solid means all the acid is used up.
 - Copper(II) sulfate: black solid dissolves, solution turns blue, blue crystals of CuSO₄·5H₂O.
 - Do not evaporate to dryness: the crystals lose their water of crystallisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--10-cuso4-crystals-steps.webp" width="900" height="800" alt="Copper(II) oxide is added to warm dilute sulfuric acid until some stays, filtered off, the filtrate partly evaporated and cooled to give blue crystals. Do not heat to dryness." loading="lazy">
+  <figcaption>Make blue CuSO4.5H2O crystals from excess black copper(II) oxide.</figcaption>
+</figure>
+
 
 ## 2.40C Acid + alkali (Paper 2 only)
 
@@ -187,6 +245,17 @@ Why: both reactants are soluble, so an excess could not be filtered off, and ind
 ```
 
 Lead(II) sulfate: lead(II) nitrate solution + dilute sulfuric acid or a soluble sulfate. Ionic equation: `Pb²⁺(aq) + SO₄²⁻(aq) → PbSO₄(s)`. Lead compounds are toxic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--12-pbso4-precipitation.webp" width="900" height="960" alt="Lead(II) nitrate and dilute sulfuric acid are mixed to give white lead(II) sulfate precipitate, which is filtered, washed with distilled water and dried in a warm oven. Lead compounds are toxic." loading="lazy">
+  <figcaption>Precipitate, filter, wash and dry lead(II) sulfate, wearing gloves and eye protection.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--08-precipitation.webp" width="900" height="1040" alt="Two clear solutions, silver nitrate and sodium chloride, are mixed and white solid silver chloride forms. It is filtered, washed with water and dried, with no evaporation. The equation is balanced." loading="lazy">
+  <figcaption>An insoluble salt is made by mixing solutions, then filtering, washing and drying.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -226,6 +295,12 @@ Lead(II) sulfate: lead(II) nitrate solution + dilute sulfuric acid or a soluble 
 10. Mr Pb(NO₃)₂ = 331; Mr PbSO₄ = 303. Moles = 6.62 ÷ 331 = 0.0200 mol. Mass = 0.0200 × 303 = **6.06 g**.
 11. To remove the soluble by-product (and leftover solution) so the salt is pure.
 12. It accepts protons (reacts with acids), so it is a base, but it is insoluble in water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--11-cuso4-yield.webp" width="900" height="880" alt="2.00 g CuO is 0.02516 mol; 1:1 gives 0.02516 mol crystals; times 249.5 gives 6.277 g. Actual 5.02 g gives 80.0%." loading="lazy">
+  <figcaption>The yield is 5.02 divided by 6.277, times 100, which is 80.0%.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

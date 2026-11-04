@@ -72,6 +72,17 @@ Endocrine glands are **ductless**. Examples: **ADH** (collecting ducts), **gluca
 3. Vesicles release **neurotransmitter** onto the sensory neurone.
 4. Threshold reached → **action potential** to the brain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--01-reflex-arc.webp" width="900" height="1270" alt="A cross-section of the spinal cord shows the reflex pathway from a hot stimulus. The receptor excites a sensory neurone whose cell body lies in the dorsal root swelling; it synapses with a relay neurone in the grey matter, which synapses with a motor neurone leaving by the ventral root to a muscle. Impulses also pass up the white matter to the brain. The lesson example gives a 20 ms reflex time." loading="lazy">
+  <figcaption>The three-neurone reflex arc: receptor, sensory, relay and motor neurones, effector (Edexcel adds roots and grey/white matter).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--07-pacinian-corpuscle.webp" width="900" height="1130" alt="A Pacinian corpuscle has concentric lamellae separated by gel, with a sensory neurone ending at the centre. Pressure stretches the membrane and widens stretch-mediated Na+ channels, so Na+ enters and the membrane depolarises: the generator potential. In the lesson example pressures of 0.5, 1.0 and 1.5 kPa give 6, 12 and 18 mV; only 1.5 kPa passes the 15 mV needed to reach threshold and fire an action potential." loading="lazy">
+  <figcaption>Pressure opens stretch-mediated Na+ channels; only a generator potential reaching threshold fires an impulse.</figcaption>
+</figure>
+
+
 ## 15.1.6–15.1.8 Membrane potentials
 
 ```
@@ -97,6 +108,22 @@ Endocrine glands are **ductless**. Examples: **ADH** (collecting ducts), **gluca
 
 **Saltatory conduction:** myelin (Schwann cells) insulates; channels concentrated at **nodes of Ranvier**; local circuits between nodes; faster than in unmyelinated axons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--02-saltatory-conduction.webp" width="900" height="1080" alt="Two axons are compared. In the non-myelinated axon every patch of membrane depolarises in turn, with local current flowing to the next patch. In the myelinated axon, Schwann cell myelin insulates the axon so the local current runs from node of Ranvier to node and the impulse jumps between nodes. In the lesson example the myelinated axon conducts at 70 m/s and the non-myelinated at 2.0 m/s, 35 times slower." loading="lazy">
+  <figcaption>Myelin makes the action potential jump from node to node, so conduction is much faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--03-resting-potential.webp" width="900" height="1010" alt="A membrane separates the outside above from the inside of the axon below. A sodium-potassium pump moves 3 Na+ out for every 2 K+ in, using ATP. Open K+ channels let K+ diffuse out quickly while Na+ channels are mostly closed, and negatively charged proteins stay inside. The inside is therefore negative, about -70 mV." loading="lazy">
+  <figcaption>The pump, leaky K+ channels and trapped negative proteins make the inside of the axon about -70 mV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--04-action-potential.webp" width="900" height="1010" alt="A graph of membrane potential against time rests at -70 mV, depolarises past the -55 mV threshold to +40 mV, repolarises as K+ leaves, dips below -70 mV (hyperpolarisation) and returns to rest. Bars show Na+ channels open on the rising phase and K+ channels open on the falling phase. A 2.5 ms refractory period limits the frequency to 400 impulses per second." loading="lazy">
+  <figcaption>Membrane potential during one action potential, with channel activity and the refractory period.</figcaption>
+</figure>
+
+
 ## 15.1.9 Cholinergic synapse: method in steps
 
 1. Action potential arrives at the **presynaptic knob**.
@@ -105,6 +132,17 @@ Endocrine glands are **ductless**. Examples: **ADH** (collecting ducts), **gluca
 4. ACh diffuses across the **cleft**; binds to receptors on the **postsynaptic membrane**.
 5. **Ligand-gated Na⁺ channels** open; Na⁺ in; depolarisation; action potential if threshold reached.
 6. **Acetylcholinesterase** hydrolyses ACh → choline + ethanoic acid; choline recycled to the knob.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--05-cholinergic-synapse.webp" width="900" height="1110" alt="A presynaptic knob sits above a postsynaptic neurone with a 20 nm cleft between. An action potential opens Ca2+ channels, Ca2+ enters and vesicles release acetylcholine by exocytosis. ACh binds receptors that are Na+ channels, so Na+ enters and the membrane depolarises. Acetylcholinesterase splits ACh and choline is taken back in. Receptors are only on the postsynaptic side, so transmission is one way." loading="lazy">
+  <figcaption>The six steps of transmission across a cholinergic synapse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--06-summation.webp" width="900" height="1010" alt="Two small diagrams show spatial summation (five neurones at once) and temporal summation (one neurone firing five times quickly). A staircase graph rises from -70 mV by 3 mV per impulse to the -55 mV threshold on the fifth impulse, where an action potential starts. One impulse alone gives -67 mV, below threshold. No decay is assumed, as in the lesson example." loading="lazy">
+  <figcaption>Small depolarisations add up to reach threshold: 5 x 3 mV = 15 mV.</figcaption>
+</figure>
+
 
 ## 15.1.10–15.1.12 Muscle
 
@@ -130,6 +168,17 @@ motor neurone → neuromuscular junction (ACh) → sarcolemma depolarised
 5. **ATP binds** → myosin head **detaches**.
 6. **ATP hydrolysed** → head re-cocked.
 7. Relaxation: Ca²⁺ **actively pumped** back into the sarcoplasmic reticulum.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
+  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--09-cross-bridge-cycle.webp" width="900" height="1290" alt="Five stages show a myosin head and an actin filament with tropomyosin and troponin. At rest tropomyosin blocks the binding sites. Ca2+ binds troponin, tropomyosin moves aside and the head binds actin. The head tilts in the power stroke, pulling actin toward the M line and releasing ADP and Pi. ATP binds and the head detaches; hydrolysis of ATP resets it. AQA does not require troponin." loading="lazy">
+  <figcaption>The cross-bridge cycle: calcium, binding, power stroke, ATP detachment and reset.</figcaption>
+</figure>
+
 
 ## 15.2 Plants
 

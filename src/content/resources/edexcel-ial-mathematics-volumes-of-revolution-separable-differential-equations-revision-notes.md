@@ -43,6 +43,12 @@ You are not expected to sketch a curve from its parametric equations.
 2. Integrate with respect to x between the given limits.
 3. Keep π outside, and give the answer as a multiple of π unless a decimal is asked for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--07-volume-of-revolution.webp" width="900" height="870" alt="The region under y = e^(2x) from x = 0 to x = ½ is spun about the x-axis. The picture shows the curve, its mirror image and eight thin discs, each with radius equal to y. One disc is highlighted with its radius marked. Adding the disc volumes gives V = π∫y² dx = π(e² − 1)/4, about 5.02." loading="lazy">
+  <figcaption>Each thin slice is nearly a disc of volume πy² δx; adding them gives the volume of revolution.</figcaption>
+</figure>
+
+
 ### Volume between a curve and a line
 
 1. Find where the curve meets the line to get the limits.
@@ -56,12 +62,24 @@ You are not expected to sketch a curve from its parametric equations.
 3. Substitute into π ∫ y² (dx/dt) dt or ∫ y (dx/dt) dt, then integrate in t.
 4. If x decreases as t increases, take the limits so that x goes from smaller to larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--08-parametric-area-backwards.webp" width="900" height="740" alt="The curve x = 5 cos t, y = 2 sin t for 0 ≤ t ≤ π is the top half of an ellipse. It starts at (5, 0), passes (0, 2) and ends at (−5, 0), so x decreases as t increases and dx/dt = −5 sin t is negative. Integrating y dx/dt from t = π down to 0 gives the positive area 5π, about 15.7." loading="lazy">
+  <figcaption>When x runs backwards, take the limits in the order that makes x increase, otherwise the area comes out negative.</figcaption>
+</figure>
+
+
 ### Separable differential equation
 
 1. Check the equation factorises as f(x) × g(y).
 2. Separate: g-terms with dy, f-terms with dx.
 3. Integrate both sides and add one constant c.
 4. Use the given values to find c, then rearrange to y = ... if asked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--01-family-of-solutions.webp" width="900" height="920" alt="A slope field for dy/dx = 3x²y with the solution curves y = Ae^(x³) for A = 0.5, 1, 2 and 3. Each curve follows the short gradient marks. The thick curve through (0, 2) is the particular solution with A = 2; the others share the same equation but have different values of the constant." loading="lazy">
+  <figcaption>The constant A gives a whole family of solutions; an initial condition picks out one curve.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -84,6 +102,22 @@ ln y = 3x + c, so y = A e^(3x); A = 2
 ```
 
 y = 2e^(3x)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--03-half-life-decay.webp" width="900" height="920" alt="Graph of mass against time for dm/dt = −km with m = 50 at t = 0 and 38 g at 4 hours. Each interval of 10.1 hours halves the mass: 25 g, 12.5 g, 6.25 g. The tangent at 25 g is half as steep as the tangent at 50 g, because the rate is proportional to the mass." loading="lazy">
+  <figcaption>Equal time steps halve the mass because the rate is proportional to what is left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--05-rate-in-minus-out.webp" width="900" height="990" alt="Top graph: the amount of drug rises from 0, is 15.5 mg at 5 hours and levels off at 20 mg. Bottom graph: rate in is constant at 6 mg per hour and rate out 0.3x rises with x; they cross at x = 20. Below 20 the amount rises, above 20 it would fall." loading="lazy">
+  <figcaption>The long-term amount is where the rate in equals the rate out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--06-finite-or-never.webp" width="900" height="920" alt="Water depth against time for two models with the same start (4 m) and the same depth after 10 minutes (2.25 m). The solid curve from dh/dt = −k√h hits zero at exactly 40 minutes. The dashed exponential curve from dh/dt = −ch keeps falling but never reaches zero." loading="lazy">
+  <figcaption>The form of the equation decides whether the tank empties in finite time.</figcaption>
+</figure>
+
 
 ### Square-root equation
 
@@ -131,9 +165,21 @@ t = 6:  30 = 60 e^(−6k), so e^(−6k) = ½ and k = (ln 2)/6
 
 k = (ln 2)/6, about 0.116
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--04-newton-cooling.webp" width="900" height="920" alt="Graph of temperature against time for a drink cooling in a 20 degree room, T = 20 + 65e^(−kt). It starts at 85, is 60 at 5 minutes and 30 at 19.3 minutes. It flattens towards the dashed line T = 20 but never reaches it." loading="lazy">
+  <figcaption>The temperature approaches room temperature but never reaches it, because the model uses the gap T − 20.</figcaption>
+</figure>
+
+
 ### Checking a solution
 
 Differentiate your answer and put it back in. For y = 6/(x + 1): dy/dx = −6/(x + 1)², and −y/(x + 1) = −6/(x + 1)². The two sides agree, and y = 6 at x = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--02-constant-solution.webp" width="900" height="920" alt="A slope field for dy/dx = 3x(y − 4). The marks are flat along y = 4, which is itself a solution (A = 0). Other solutions y = 4 + Ae^(3x²/2) curve away from it; the thick one through (0, 7) has A = 3." loading="lazy">
+  <figcaption>Dividing by y − 4 hides the constant solution y = 4, which is the case A = 0.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

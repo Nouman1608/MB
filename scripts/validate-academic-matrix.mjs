@@ -182,6 +182,11 @@ console.log(`  Publishable now: ${publishable.length}`);
 
 // ---------------------------------------------------------------------------
 // APPROVED SCOPE LOCK
+// UPDATED 2026-10-27 (D-433): added edexcel|igcse|business (owner request in chat).
+// UPDATED 2026-10-27 (D-436): added edexcel|gcse|business (owner request in chat).
+// UPDATED 2026-10-25 (D-431): owner asked in chat for Accounting resources at
+// every level and board; Cambridge O Level Accounting (7707) and Edexcel IGCSE
+// Accounting (4AC1) added as resources-only combinations (classesOffered false).
 // Business decision, 2026-08-18: Marlbridge teaches every subject and board
 // currently represented in this repository's data model (matrix.ts, boards.ts,
 // qualifications.ts) — superseding the earlier Chemistry-only scope. This is
@@ -231,6 +236,7 @@ const APPROVED = [
   'aqa|a-level|psychology',
   'aqa|a-level|sociology',
   'aqa|as-level|business',
+  'aqa|as-level|economics',
   'aqa|gcse|biology',
   'aqa|gcse|business',
   'aqa|gcse|chemistry',
@@ -279,6 +285,7 @@ const APPROVED = [
   'cambridge|igcse|statistics',
   'cambridge|igcse|urdu-language',
   'cambridge|igcse|world-history',
+  'cambridge|o-level|accounting',
   'cambridge|o-level|biology',
   'cambridge|o-level|business',
   'cambridge|o-level|chemistry',
@@ -306,7 +313,10 @@ const APPROVED = [
   'edexcel|a-level|mathematics',
   'edexcel|a-level|physics',
   'edexcel|a-level|urdu-language',
+  'edexcel|gcse|business',
+  'edexcel|igcse|accounting',
   'edexcel|igcse|biology',
+  'edexcel|igcse|business',
   'edexcel|igcse|chemistry',
   'edexcel|igcse|economics',
   'edexcel|igcse|english-language',
@@ -345,6 +355,7 @@ const APPROVED = [
   'ocr|a-level|economics',
   'ocr|a-level|mathematics',
   'ocr|a-level|physics',
+  'ocr|as-level|economics',
   'ocr|gcse|biology',
   'ocr|gcse|business',
   'ocr|gcse|chemistry',

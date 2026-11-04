@@ -46,12 +46,24 @@ Use one transformation per description. If a question asks for a single transfor
 * Lengths scale by k and areas by k². The perimeter scales by k.
 * Invariant points do not move. On a reflection they are the points on the mirror line. On a rotation it is the centre only. On an enlargement it is the centre only. A translation has none.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-transformations-of-2d-shapes--03-what-each-move-keeps.webp" width="900" height="1010" alt="Four panels show a triangle and its image after a translation, a reflection, a rotation and an enlargement of scale factor 2. The first three images are congruent to the object, the reflection being turned over. The enlargement is similar but not congruent, with lengths doubled and area four times as big. Angles never change." loading="lazy">
+  <figcaption>Translations, reflections and rotations give congruent images; an enlargement gives a similar one.</figcaption>
+</figure>
+
+
 ## Translation
 
 * Vector (a, b): a is the horizontal move (right is positive) and b is the vertical move (up is positive).
 * Image = (x + a, y + b).
 * Find the vector by taking the image point minus the object point.
 * The inverse translation uses (−a, −b).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--03-translation-column-vector.webp" width="900" height="970" alt="Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1)." loading="lazy">
+  <figcaption>A translation slides every point by the same column vector without turning or resizing the shape.</figcaption>
+</figure>
+
 
 ## Reflection
 
@@ -63,6 +75,17 @@ Use one transformation per description. If a question asks for a single transfor
 | y = −x | (−y, −x) |
 
 **To find the mirror line:** take any point and the point it maps to, find their midpoint, then draw the line through it at right angles to the join. For (2, 7) and (2, 1) the mirror line is horizontal through the midpoint (2, 4), so it is y = 4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-transformations-of-2d-shapes--11-reflection-rules-table.webp" width="900" height="1145" alt="P(3,1) is reflected in x = 1, y = -1, y = x and y = -x to give (-1,1), (3,-3), (1,3) and (-1,-3), with each rule in a matching colour." loading="lazy">
+  <figcaption>Where one point lands for each of the four common mirror lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="845" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
+  <figcaption>A reflection puts each image point the same distance behind the mirror line, and is described by its mirror line.</figcaption>
+</figure>
+
 
 ## Rotation
 
@@ -82,6 +105,22 @@ Use one transformation per description. If a question asks for a single transfor
 
 Quick check: a point and its image must be equally far from the centre.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-transformations-of-2d-shapes--12-rotation-rules-origin.webp" width="900" height="1128" alt="P(3,1) maps to (-1,3) for 90 degrees anticlockwise, (1,-3) for 90 degrees clockwise and (-3,-1) for 180 degrees." loading="lazy">
+  <figcaption>The three rotation rules about the origin shown on one point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="1065" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
+  <figcaption>A rotation is described by its centre, angle and direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--04-find-rotation-centre.webp" width="900" height="1030" alt="Perpendicular bisectors of two point-to-image joins cross at (3, 0), the centre of rotation. From there a vertex and its image are a quarter turn apart, anticlockwise." loading="lazy">
+  <figcaption>The centre of a rotation is where the perpendicular bisectors of point-to-image joins meet.</figcaption>
+</figure>
+
+
 ## Enlargement (positive scale factor)
 
 * Image = centre + k × (point − centre).
@@ -91,6 +130,17 @@ Quick check: a point and its image must be equally far from the centre.
 * Area and volume: multiply areas by k², not k.
 
 **Worked reminder.** Enlarge (3, 2) by scale factor 4, centre (1, 1). The relative position is (2, 1). Multiply by 4 to get (8, 4). Add the centre to get (9, 5).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="945" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
+  <figcaption>An enlargement multiplies every distance from the centre, and every side, by the scale factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--04-find-the-centre.webp" width="900" height="1060" alt="Triangle K with vertices (4,1), (6,1), (4,3) is enlarged to K-prime with vertices (5,2), (9,2), (5,6). A line through each matching pair of vertices runs to (3, 0), the centre, and the base lengths 2 and 4 give scale factor 2." loading="lazy">
+  <figcaption>Lines through matching vertices meet at the centre of enlargement.</figcaption>
+</figure>
+
 
 ## Extension only: fractional and negative scale factors
 
@@ -108,6 +158,17 @@ Quick check: a point and its image must be equally far from the centre.
 
 **Worked reminder.** Centre (0, 0), k = −½, point (6, −4). The image is −½ × (6, −4) = (−3, 2).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-transformations-of-2d-shapes--09-enlargement-half-oxfordaqa.webp" width="900" height="1100" alt="Triangle (0,0), (4,0), (0,6) is enlarged by scale factor 1/2 from (6, 2) to (3,1), (5,1), (3,4). Every length halves and the area falls from 12 to 3." loading="lazy">
+  <figcaption>A fractional scale factor shrinks the image towards the centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--04-enlargement-negative.webp" width="900" height="890" alt="Triangle (2,1), (4,1), (4,2) is enlarged by scale factor -2 from the centre (1, 0). The image (-1,-2), (-5,-2), (-5,-4) lies on the opposite side of the centre, twice the size and upside down, with lines through the centre joining matching vertices." loading="lazy">
+  <figcaption>A negative scale factor puts the image on the other side of the centre, upside down.</figcaption>
+</figure>
+
+
 ## Extension only: combined transformations
 
 * Work through the transformations in the order given. The first one is applied first.
@@ -117,6 +178,32 @@ Quick check: a point and its image must be equally far from the centre.
 * Two translations add their vectors. Two enlargements about the same centre multiply their scale factors.
 
 **To describe the single transformation:** follow two or three points through every step. Then compare their final positions with their starting positions. Decide which single transformation fits, and check it with a third point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-transformations-of-2d-shapes--10-two-mirrors-rotation.webp" width="900" height="1092" alt="Triangle S is reflected in y = 0 then in y = x, ending as a 90 degree anticlockwise rotation about O, twice the 45 degrees between the mirrors." loading="lazy">
+  <figcaption>Two crossing mirrors turn a shape through twice the angle between them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-transformations-of-2d-shapes--13-combined-order-matters.webp" width="900" height="900" alt="Reflect in the x-axis then rotate 90 degrees anticlockwise gives (1,1), (1,3), (2,3), a reflection in y = x. Rotating first then reflecting gives (-1,-1), (-1,-3), (-2,-3), a reflection in y = -x." loading="lazy">
+  <figcaption>Example 8 with both orders drawn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--01-parallel-mirrors-translation.webp" width="900" height="700" alt="A triangle is reflected in x = 1 and then in x = 5. Each point ends 8 units right of where it began, twice the 4 units between the mirrors, so the combination is a translation by the column vector (8, 0)." loading="lazy">
+  <figcaption>Two reflections in parallel lines give a translation of twice the distance between them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--02-order-of-reflections.webp" width="900" height="970" alt="The point (2, 1) is reflected in the x-axis then y = x, ending at (-1, 2), a 90 degree anticlockwise turn about the origin. In the other order it ends at (1, -2), a clockwise turn." loading="lazy">
+  <figcaption>Reflecting in the same two lines in a different order gives a different image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--06-combination.webp" width="900" height="858" alt="Triangle B is reflected in the x-axis (dashed B1) then in the y-axis to give B2. A dashed line from (5,3) through the origin to (-5,-3) shows each point (x, y) goes to (-x, -y), which is a rotation of 180 degrees about the origin." loading="lazy">
+  <figcaption>Reflecting in the x-axis and then the y-axis equals a single rotation of 180 degrees about the origin.</figcaption>
+</figure>
+
 
 ## Identifying a single transformation from a diagram
 

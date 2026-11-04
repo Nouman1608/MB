@@ -39,6 +39,12 @@ Course hub: [Cambridge A Level Mathematics](/boards/cambridge/a-level/mathematic
 
 sec, cosec, cot and compound angles are not in 1.5. They come in [Pure Mathematics 2](/resources/a-level-mathematics-pure-mathematics-2-revision-notes/) (2.3) and [Pure Mathematics 3](/resources/a-level-maths-9709-pure-mathematics-3-revision-notes/) (3.3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--07-small-angle-approximations.webp" width="900" height="1100" alt="For θ from 0 to 1 radian, sin θ and tan θ hug the line y = θ near zero and cos θ hugs 1 − θ²/2. At θ = 0.2, sin = 0.1987, tan = 0.2027, cos = 0.9801 and 1 − θ²/2 = 0.9800." loading="lazy">
+  <figcaption>For small θ in radians, sin θ and tan θ are close to θ and cos θ is close to 1 − θ²/2.</figcaption>
+</figure>
+
+
 ## Key facts table
 
 | Fact | Value | In MF19? |
@@ -74,6 +80,22 @@ Positive ratios by quadrant, going anticlockwise from 0°: **all**, then **sin**
 
 *Reminder.* cos 200° = −cos 20° (third quadrant), sin 290° = −sin 70° (fourth), tan 140° = −tan 40° (second).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--01-unit-circle-any-angle.webp" width="900" height="850" alt="A circle of radius 1 with P at 210 degrees, measured anticlockwise from the positive x-axis. P = (cos 210°, sin 210°) = (−√3/2, −1/2) lies in the third quadrant, with reference angle 30°. Corner notes give where sin, cos and tan are positive." loading="lazy">
+  <figcaption>The point P on the unit circle gives cos θ and sin θ for any angle, and its quadrant gives the signs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--02-exact-value-triangles.webp" width="900" height="948" alt="Two right-angled triangles: legs 1, 1 and hypotenuse √2 (45°, 45°); and half an equilateral triangle with sides 1, √3, 2 (30°, 60°). A table gives sin, cos and tan of 30°, 45° and 60° read from them, with radian equivalents." loading="lazy">
+  <figcaption>Two triangles generate every exact value you need for 30°, 45° and 60°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--03-sector-triangle-segment.webp" width="900" height="765" alt="A sector of radius 10 cm and angle π/3 has area 50π/3. Subtracting the triangle of area 25√3 leaves the segment, ½r²(θ − sin θ), about 9.06 cm². The arc length is rθ = 10π/3 cm and θ must be in radians." loading="lazy">
+  <figcaption>Segment area is sector area minus triangle area.</figcaption>
+</figure>
+
+
 ## Graph facts
 
 | | sin x | cos x | tan x |
@@ -97,6 +119,12 @@ y = tan(x + k): shift left by k. Zeros where x + k = 0, π, 2π, …; asymptotes
 *Reminder.* y = 1 + 4 sin 3x for 0° ≤ x ≤ 120°: period 360° ÷ 3 = 120°, so one cycle. It starts at (0, 1), reaches its greatest value 5 at (30°, 5), its least value −3 at (90°, −3), and ends at (120°, 1).
 
 y = −a cos x starts at a minimum, not a maximum. A sketch must show the start and end points, the maximum and minimum points and the axis intercepts, with coordinates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--08-reciprocal-graphs.webp" width="900" height="1102" alt="y = sec x, cosec x and cot x drawn over their parent functions. sec has asymptotes at 90° and 270°, cosec and cot at 0°, 180° and 360°. sec and cosec only take values y ≥ 1 or y ≤ −1 with period 360°; cot takes all real values with period 180°." loading="lazy">
+  <figcaption>A reciprocal graph has an asymptote wherever the parent function is zero.</figcaption>
+</figure>
+
 
 ## Principal values
 
@@ -197,6 +225,17 @@ A square root always gives two signs.
 10. tan⁻¹(−2) = −63.4°; add 180° and 360°: **x = 116.6°, 296.6°**.
 11. sin(x + 30°) = 1/2 with 30° ≤ x + 30° ≤ 390°: x + 30° = 30°, 150°, 390°, so **x = 0°, 120°, 360°**.
 12. 0° ≤ 4x ≤ 720° is two full cycles, each with two solutions: **4**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--06-trig-graphs.webp" width="900" height="930" alt="y = sin x and y = cos x over 0 to 360° have period 360° and range −1 to 1; cos is sin shifted. y = tan x has period 180°, zeros at 0, 180 and 360 degrees, passes through 1 at 45° and 225°, and has asymptotes at 90° and 270°." loading="lazy">
+  <figcaption>Sine and cosine repeat every 360°; tangent repeats every 180° and has asymptotes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--09-inverse-trig-graphs.webp" width="900" height="1218" alt="y = sin x restricted to −π/2 ≤ x ≤ π/2 reflects in y = x to give y = arcsin x, with domain −1 to 1 and range −π/2 to π/2. y = arccos x has range 0 to π; y = arctan x has range strictly between −π/2 and π/2 with horizontal asymptotes." loading="lazy">
+  <figcaption>Restrict the domain so the function is one-to-one, then reflect in y = x to get the inverse.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

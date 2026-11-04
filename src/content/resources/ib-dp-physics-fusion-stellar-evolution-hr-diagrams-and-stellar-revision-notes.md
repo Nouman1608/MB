@@ -70,6 +70,12 @@ These constants are data for working. In an exam, use whatever values the questi
 
 **Conditions.** Two protons at 1.0 × 10⁻¹⁵ m have a potential energy of about 1.4 MeV, while the mean thermal energy at 1.5 × 10⁷ K is only about 1.9 keV. The gap is bridged by the fastest nuclei and by quantum effects.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--03-fusion-barrier.webp" width="900" height="1030" alt="A log-log graph shows the electric potential energy of two protons falling as 1/r, 1.44 MeV at 1 fm. A dashed line marks the mean thermal energy at 1.5e7 K, 1.9 keV, about 740 times smaller. Fast nuclei and tunnelling still allow fusion." loading="lazy">
+  <figcaption>The electric barrier is about 740 times the average thermal energy, so fusion needs very high temperature and density.</figcaption>
+</figure>
+
+
 ## Evolution by mass
 
 | Stage | Low and moderate mass | High mass |
@@ -80,6 +86,17 @@ These constants are data for working. In an exam, use whatever values the questi
 | End | Outer layers shed, white dwarf remains | Supernova, neutron star or black hole |
 
 Fusion up to iron releases energy. Fusion beyond iron does not, so an iron core cannot support itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--02-hydrogen-fusion.webp" width="900" height="1030" alt="Four hydrogen nuclei fuse into one helium-4 nucleus, releasing positrons, neutrinos and 26.7 MeV. A true-scale bar shows the mass lost is 0.028697 u, 0.71 percent of the original. For the Sun, 6.0e11 kg of hydrogen is fused per second but only 4.3e9 kg becomes energy." loading="lazy">
+  <figcaption>Hydrogen fusion converts 0.71 % of the mass into 26.7 MeV per helium nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--04-evolution-by-mass.webp" width="900" height="1060" alt="A flow chart splits at the gas cloud. Low or moderate mass: main sequence, red giant, white dwarf. High mass: short main sequence, super giant, supernova, neutron star or black hole." loading="lazy">
+  <figcaption>Mass decides a star’s lifetime and its end state.</figcaption>
+</figure>
+
 
 ## HR diagram: regions at a glance
 
@@ -94,6 +111,12 @@ Fusion up to iron releases energy. Fusion beyond iron does not, so an iron core 
 
 **Moving across the diagram.** A star with the same luminosity but half the surface temperature has a radius four times larger, because R ∝ 1/T² when L is fixed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--05-hr-diagram.webp" width="900" height="1060" alt="A log-log HR diagram with temperature reversed so hot is on the left. It shows the main sequence band with the Sun, red giants, super giants, white dwarfs, the instability strip and dashed lines of constant radius computed from L = 4 pi sigma R^2 T^4. A red super giant of 2e5 Suns and 3500 K sits just above the 1000 R line, radius about 1220 Sun radii." loading="lazy">
+  <figcaption>Position on the HR diagram shows luminosity, temperature and, by the dashed lines, radius.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Luminosity** is the total power emitted by the star. It is not the same as the brightness you see from Earth.
@@ -101,6 +124,12 @@ Fusion up to iron releases energy. Fusion beyond iron does not, so an iron core 
 - **Parsec versus light year:** the parsec is defined from the angle, the light year from the distance light travels in a year. 1 pc is about 3.26 ly.
 - **Mass defect versus mass lost by the star:** a star converts 0.7 % of the hydrogen it fuses into energy. It does not lose all of that hydrogen.
 - **Temperature from the spectrum versus composition from the spectrum:** peak wavelength gives temperature, absorption lines give elements.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--06-parallax.webp" width="900" height="1165" alt="Earth at two points six months apart views a nearby star against distant stars; the apparent shift is 2p, where p is the angle subtended by 1 AU at the star (drawn exaggerated). d in parsecs = 1/p in arc-seconds; p = 0.0832 arc-second gives 12.0 pc or 39.1 ly." loading="lazy">
+  <figcaption>The parallax angle is half the apparent shift, and distance in parsecs is 1/p.</figcaption>
+</figure>
+
 
 ## Radius method in steps
 
@@ -150,6 +179,17 @@ A white dwarf with L = 1.2 × 10⁻³ L☉ and T = 12 000 K: L = 4.60 × 10²³ 
 10. Fusing iron would absorb energy instead of releasing it, so the core cannot be held up by fusion.
 11. Upper right, in the red giant or super giant region.
 12. A high density makes collisions frequent enough for the fusion rate to be large.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--01-star-stability.webp" width="900" height="890" alt="Three stars show outward pressure arrows longer than, equal to and shorter than inward gravity arrows. When the core is too hot the star expands and cools; too cool and it shrinks and heats. Equal arrows mean a stable main sequence star." loading="lazy">
+  <figcaption>A star is stable when outward pressure balances inward gravity, and this balance corrects itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--07-stellar-spectra.webp" width="900" height="1030" alt="Three black-body curves peak at shorter wavelength for hotter stars (320 nm at 9100 K, 502 nm at 5800 K, 828 nm at 3500 K). Wien’s law turns a 3.2e-7 m peak into 9.1e3 K. A rainbow spectrum with dark absorption lines shows that cooler outer gas absorbs at wavelengths characteristic of its elements." loading="lazy">
+  <figcaption>The peak wavelength gives surface temperature and the dark lines identify elements.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

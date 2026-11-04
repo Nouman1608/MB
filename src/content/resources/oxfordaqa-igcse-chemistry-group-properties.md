@@ -81,6 +81,12 @@ Step 6  Mass = 0.20 × 87 = 17.4 g
 
 **Answer: 17.4 g of lithium bromide**, a white solid that would dissolve to give a colourless solution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--11-group-calc-routes.webp" width="900" height="855" alt="Each example is a chain: mass divided by Mr gives moles, the equation ratio gives moles of the target, then multiply by Mr (or 24 dm3). Answers 17.4 g LiBr, 0.48 dm3 H2, 0.20 mol/dm3 NaOH, 2.54 g I2." loading="lazy">
+  <figcaption>The same mass-to-moles route solves worked examples 1 to 3.</figcaption>
+</figure>
+
+
 ### Worked example 2: hydrogen and alkali from one reaction
 
 *0.92 g of sodium reacts with water. The solution is then made up to 200 cm³. Find the hydrogen volume at RTP and the sodium hydroxide concentration. (Ar: Na = 23; molar gas volume 24 dm³ at RTP)*
@@ -97,6 +103,17 @@ Step 7  Concentration = 0.040 ÷ 0.200 = 0.20 mol/dm³
 
 **Answers: 480 cm³ of hydrogen; 0.20 mol/dm³ sodium hydroxide.** The [quantitative chemistry guide](/resources/oxfordaqa-igcse-chemistry-quantitative-chemistry/) covers the mole and gas-volume methods used here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--08-group1-formula-pattern.webp" width="900" height="830" alt="Na+ with Cl- gives NaCl; two K+ with O2- give K2O; two Li+ with S2- give Li2S. Charges add to zero. The compounds are white solids with colourless solutions." loading="lazy">
+  <figcaption>The metal ion is always 1+, so only the non-metal ion charge sets the formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--12-group1-float-sink.webp" width="900" height="710" alt="Lithium, sodium and potassium float on water; rubidium and caesium sink. Reactivity increases from Li to Cs." loading="lazy">
+  <figcaption>Li, Na and K float; Rb and Cs sink.</figcaption>
+</figure>
+
+
 ## 3.7.1 b: reactivity increases down Group 1
 
 The further down Group 1 an element is, the more reactive it is. You can see it in the water reaction:
@@ -108,6 +125,17 @@ The further down Group 1 an element is, the more reactive it is. You can see it 
 | Potassium | Floats; reacts so fast that the hydrogen ignites with a lilac flame |
 
 Each metal makes the same type of products. Only the speed and violence change. So for a metal lower in the group, predict the same products (hydroxide and hydrogen) but a faster, more violent reaction. Rubidium and caesium are not normally reacted with water in school laboratories because the reactions are too violent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp" width="900" height="900" alt="Three beakers show lithium fizzing steadily, sodium fizzing and possibly melting into a ball, and potassium igniting the hydrogen. Hydrogen bubbles rise in each and the solution becomes alkaline. Reactivity increases down the group; melting point decreases and density increases." loading="lazy">
+  <figcaption>Group I metals react with cold water to give hydrogen and an alkaline solution, more vigorously down the group.</figcaption>
+</figure>
+
 
 ## 3.7.1 c: halogens react with metals to form halides
 
@@ -131,6 +159,12 @@ Ca + I₂ → CaI₂
 
 Note the naming change: the element is chlorine, but the ion in a compound is chloride.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--09-halide-formula-balance.webp" width="900" height="835" alt="Ca2+ with two I- gives CaI2; Al3+ with three Cl- gives AlCl3; Fe3+ with three Br- gives FeBr3; K+ with F- gives KF." loading="lazy">
+  <figcaption>Balance the charges to get the halide formula.</figcaption>
+</figure>
+
+
 ## 3.7.1 d: trends down Group 7
 
 The further down Group 7 an element is:
@@ -148,6 +182,17 @@ At room temperature the states change down the group:
 | Iodine | Grey-black solid that forms a purple vapour on warming |
 
 Gas, then liquid, then solid is the boiling-point trend made visible. The halogens exist as small diatomic molecules. Larger molecules further down the group have stronger forces between the molecules, so more energy is needed to separate them. This links to the [bonding, structure and properties guide](/resources/oxfordaqa-igcse-chemistry-bonding-structure-and-properties/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--10-halogen-states-trend.webp" width="900" height="910" alt="Fluorine pale yellow gas, chlorine pale yellow-green gas, bromine red-brown liquid with orange-brown vapour, iodine grey-black solid with purple vapour when warmed. Reactivity falls and melting and boiling points rise down the group." loading="lazy">
+  <figcaption>Gas, liquid, solid: states and colours down Group 7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
 
 ## 3.7.1 e: halogen displacement reactions
 
@@ -185,6 +230,12 @@ Step 6  Mr of I₂ = 254; mass = 0.010 × 254 = 2.54 g
 
 **Answer: yes, it reacts; maximum mass of iodine = 2.54 g.** You would see the solution turn brown. The ionic equation removes the calcium ions, which do not change: Br₂ + 2I⁻ → 2Br⁻ + I₂.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
+
 ## 3.7.1 f: explaining the trends with energy levels
 
 The specification explains both trends with one idea: the higher the energy level of the outer electrons, the more easily electrons are lost and the less easily electrons are gained. You may answer in terms of energy levels or shells.
@@ -207,6 +258,12 @@ A full answer links four points in order:
 4. Iodine's outer energy level is higher than chlorine's, so an extra electron arriving there feels a weaker pull from the nucleus. Iodine takes on an electron less readily, so it reacts more slowly.
 
 The same structural change (an extra energy level) causes opposite trends, because metals react by losing electrons and halogens react by gaining them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-group-properties--01-group-trends-energy-levels.webp" width="900" height="1000" alt="Electron-shell diagrams of lithium (2 levels) and rubidium (5 levels) each lose a gold outer electron, which is lost more easily from rubidium. Chlorine (3 levels) and iodine (5 levels) each have seven outer electrons and a gap for one more; the pull on the incoming electron is weaker in iodine. The same extra energy level gives opposite trends." loading="lazy">
+  <figcaption>One extra energy level makes Group 1 more reactive down the group and Group 7 less reactive.</figcaption>
+</figure>
+
 
 ## Common errors
 

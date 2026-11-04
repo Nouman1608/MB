@@ -79,6 +79,27 @@ The specification's practical suggestion for C3.2a is measuring the temperature 
 
 **Handling repeat data.** Suppose four repeats give temperature rises of 6.4, 6.9, 6.8 and 8.7 °C. The 8.7 °C result is far from the others, so treat it as **anomalous** and leave it out. Mean = (6.4 + 6.9 + 6.8) ÷ 3 = 20.1 ÷ 3 = **6.7 °C**. The range of the three is 6.9 − 6.4 = 0.5 °C, so one simple estimate of the uncertainty is half the range, **±0.25 °C**. Results that sit close together are **precise** and show good **repeatability**. If another group using the same method gets similar values, the results are **reproducible**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--06-en-cup-apparatus.webp" width="900" height="880" alt="Polystyrene cup in a beaker with lid, thermometer and stirrer; heat loss gives a systematic error." loading="lazy">
+  <figcaption>Each part of the apparatus reduces heat exchange with the room.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--07-en-repeats.webp" width="900" height="710" alt="Dot plot of 6.4, 6.9, 6.8 and 8.7 degrees C; 8.7 is anomalous, mean 6.7, half range 0.25." loading="lazy">
+  <figcaption>Drop the anomaly, average the rest and use half the range as uncertainty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--02-en-classify-temps.webp" width="900" height="880" alt="Bars show A +12.5 C, B -5.8 C and C +6.5 C. A rise means exothermic and a fall means endothermic." loading="lazy">
+  <figcaption>Final minus start gives the sign: A and C exothermic, B endothermic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--01-temperature-change.webp" width="900" height="920" alt="Two beakers with thermometers. Exothermic: arrows leave the beaker and the temperature rises from 20 to 35 degrees C. Endothermic: arrows enter the beaker and the temperature falls from 20 to 8 degrees C." loading="lazy">
+  <figcaption>An exothermic reaction gives energy out and warms the surroundings; an endothermic one takes energy in and cools them.</figcaption>
+</figure>
+
+
 ## Reaction profiles (C3.2b, CM3.2i)
 
 A **reaction profile** is a graph of energy, plotted up the page, against how far the reaction has gone, plotted across. It shows four things you must label:
@@ -117,6 +138,22 @@ A profile shows the reactants at 250 kJ/mol, the top of the curve at 330 kJ/mol 
 
 Measure both arrows from the **reactants** line. A common slip is measuring activation energy from the products line or from the axis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--03-en-profile-numbers.webp" width="900" height="1115" alt="Profile with reactants 250, peak 330, products 60 kJ/mol: Ea = 80, energy change = -190, exothermic." loading="lazy">
+  <figcaption>Measure both arrows from the reactants line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--02-exothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
+</figure>
+
+
 ## Activation energy (C3.2c)
 
 **Activation energy** is the minimum energy needed for a reaction to occur. Particles must collide with at least this much energy for bonds in the reactants to start breaking.
@@ -124,6 +161,12 @@ Measure both arrows from the **reactants** line. A common slip is measuring acti
 This explains why many exothermic reactions need a "start". A candle, a gas cooker or a firework needs a flame or spark first. That initial energy supplies the activation energy. After that, the energy released keeps it going. So a burning candle is **exothermic**, even though you had to light it. The specification lists this exact confusion as a common misconception: needing heat to start a reaction does **not** make it endothermic. Whether a reaction is exothermic or endothermic depends only on the **overall** energy change, from reactants to products.
 
 On a profile, a large activation energy shows as a tall peak above the reactants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--03-en-candle-activation.webp" width="900" height="900" alt="Reaction profile with products below reactants. A flame or spark supplies the activation energy, then energy released keeps it going. Needing a start does not make a reaction endothermic." loading="lazy">
+  <figcaption>A spark supplies Ea, but products are lower than reactants, so the reaction is exothermic.</figcaption>
+</figure>
+
 
 ## Bond energies (C3.2d, Higher Tier only)
 
@@ -148,6 +191,12 @@ Each bond has a **bond energy**: the energy needed to break one mole of that bon
 3. List and add up the bonds made in the same way.
 4. Subtract: broken − made. Give the sign and the unit, kJ/mol.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--04-bond-energy-calculation.webp" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic." loading="lazy">
+  <figcaption>Breaking bonds takes in 678 kJ/mol and making bonds releases 862 kJ/mol, so delta H is -184 kJ/mol.</figcaption>
+</figure>
+
+
 ### Worked example 1: ethene and bromine
 
 CH₂=CH₂ + Br–Br → CH₂Br–CH₂Br
@@ -157,6 +206,12 @@ Use these values (kJ/mol): C=C 612, Br–Br 193, C–C 348, C–Br 276. The four
 - Bonds broken: C=C + Br–Br = 612 + 193 = **805 kJ**
 - Bonds made: C–C + 2 × C–Br = 348 + (2 × 276) = 348 + 552 = **900 kJ**
 - Energy change = 805 − 900 = **−95 kJ/mol**, exothermic
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--01-en-ethene-br2.webp" width="900" height="800" alt="Displayed formulae of ethene, Br-Br and the product. Bonds broken total 805 kJ and bonds made total 900 kJ, giving -95 kJ/mol, exothermic. The four C-H bonds are unchanged." loading="lazy">
+  <figcaption>Only C=C, Br-Br, C-C and two C-Br change; broken 805 minus made 900 gives -95 kJ/mol.</figcaption>
+</figure>
+
 
 ### Worked example 2: nitrogen and oxygen
 
@@ -169,6 +224,12 @@ Use these values (kJ/mol): N≡N 945, O=O 498, N=O 630.
 - Energy change = 1443 − 1260 = **+183 kJ/mol**, endothermic
 
 Breaking the very strong triple bond in nitrogen takes in more energy than forming the two new bonds gives out. That strong bond also means a high activation energy, which is one reason the nitrogen and oxygen in air do not react at room temperature. They combine only at very high temperatures, such as inside a car engine or in a lightning strike.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--04-en-n2o2-ladder.webp" width="900" height="1020" alt="Energy ladder: break bonds +1443, make bonds -1260, products 183 kJ/mol above reactants, endothermic." loading="lazy">
+  <figcaption>Breaking N≡N costs more than the new bonds return, so the reaction is endothermic.</figcaption>
+</figure>
+
 
 ### Worked example 3: burning propane
 
@@ -188,6 +249,17 @@ Propane has 2 C–C bonds and 8 C–H bonds. Each CO₂ has 2 C=O bonds and each
 Energy change = 6490 − 8542 = **−2052 kJ/mol**, exothermic. The equation is per mole of propane, so this is the energy change when one mole of propane burns.
 
 The value from bond energies is an estimate. Bond energies are averages taken over many different molecules, so a calculated answer is usually a little different from a measured one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--05-en-propane-bonds.webp" width="900" height="1085" alt="Stacked columns to scale: 6490 kJ broken, 8542 kJ made, difference -2052 kJ/mol." loading="lazy">
+  <figcaption>Count every bond and multiply before adding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--05-bond-energy-ladder.webp" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol." loading="lazy">
+  <figcaption>Up 678 to break bonds, down 862 as bonds form: a net fall of 184 kJ/mol.</figcaption>
+</figure>
+
 
 ## Maths skills (CM3.2i and CM3.2ii)
 

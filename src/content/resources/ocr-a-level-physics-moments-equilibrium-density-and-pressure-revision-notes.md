@@ -39,6 +39,17 @@ Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/) | [checkli
 | Upthrust (3.2.4(c)) | Upward force on an object in a fluid, from higher pressure on its lower surface than its upper surface |
 | Archimedes' principle (3.2.4(c)) | The upthrust on an object in a fluid equals the weight of fluid it displaces |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--01-slope-forces.webp" width="900" height="840" alt="Free-body diagram of a 12 kg block on a 25 degree slope with arrows to scale. Weight 118 N acts down, the normal contact force 107 N is perpendicular to the slope and friction 18 N acts up the slope. Weight is resolved into mg sin 25 = 49.8 N down the slope and mg cos 25 = 107 N into it, giving a net 31.8 N and a = 2.6 m s-2." loading="lazy">
+  <figcaption>The normal force is perpendicular to the slope, and the weight splits into components along and into it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--02-third-law-pairs.webp" width="900" height="1090" alt="Two third-law pairs for a book on a table: Earth pulls book with book pulls Earth, and table pushes book with book pushes table. A pair is the same kind of force, equal and opposite, on different bodies. Weight and the normal force both act on the book, so they are not a pair." loading="lazy">
+  <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
+</figure>
+
+
 ## Equations and units
 
 | Quantity | Equation | Unit |
@@ -70,6 +81,12 @@ Conversions: 1 g cm⁻³ = 1000 kg m⁻³. 1 cm² = 1 × 10⁻⁴ m². 1 litre =
 5. Apply the force condition (upward = downward) to find the others.
 6. Check the answer is sensible: the support nearer the load carries more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--09-moments-beam.webp" width="900" height="930" alt="A 4.0 m, 220 N board rests on supports A and B with a 650 N worker 1.0 m from the left end. Taking moments about A removes R_A: 220 x 1.5 + 650 x 0.5 = R_B x 2.7, so R_B = 243 N, and balancing forces gives R_A = 627 N." loading="lazy">
+  <figcaption>Choose a pivot where an unknown force acts, equate clockwise and anticlockwise moments, then balance forces.</figcaption>
+</figure>
+
+
 ## Centre of gravity (3.2.3(d))
 
 - A regular uniform object has its centre of gravity at its geometric centre.
@@ -92,6 +109,12 @@ Three coplanar forces in equilibrium:
 - Solve with a scale drawing, Pythagoras, trigonometry or the sine rule: each force divided by the sine of the angle between the other two is constant.
 
 **Reminder.** A 60 N weight hangs from a rope and is pulled sideways by a horizontal force until the rope makes 40° with the vertical. Tension = 60 / cos 40° = 78.3 N. Horizontal force = 60 tan 40° = 50.3 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
+</figure>
+
 
 ## Density, pressure and upthrust (3.2.4)
 
@@ -141,6 +164,12 @@ Three coplanar forces in equilibrium:
 8. The forces sum to zero and the moments about any point sum to zero.
 9. Make three holes. Hang the card freely from one hole with a weighted string from the same pin and draw the vertical. Repeat for the other holes. The intersection is the centre of gravity.
 10. The rule's weight acts at 50.0 cm, 10.0 cm from the pivot. M × 10.0 = 0.30 × 30.0, so M = **0.90 kg**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

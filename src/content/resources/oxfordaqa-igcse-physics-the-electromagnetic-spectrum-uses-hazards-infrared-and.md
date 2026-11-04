@@ -96,6 +96,17 @@ Calculate the frequency of EM waves of wavelength 10⁴ m and of wavelength 10�
 
 The shortest wavelength has the highest frequency, and so the highest energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and--04-em-wave-equation-scale.webp" width="900" height="1100" alt="A log scale of wavelength from 10^4 m to 10^-15 m with the lesson worked examples: 10^4 m gives 3.0x10^4 Hz, 1.8 GHz gives 0.17 m, 532 nm gives 5.64x10^14 Hz, 0.020 nm gives 1.5x10^19 Hz and 10^-15 m gives 3.0x10^23 Hz." loading="lazy">
+  <figcaption>Shorter wavelength means higher frequency, because c is the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
+
 ## 3.3.2 c: visible light
 
 **Visible light** is the part of the spectrum detected by our eyes. We see different wavelengths as different colours. Red light has the longest wavelength we can see and violet the shortest, roughly 700 nm down to 400 nm. Light with a mixture of wavelengths looks white.
@@ -125,11 +136,28 @@ In a second test both cans are filled with water at 85 °C and left to cool. Aft
 
 **Controlling variables.** Use the same mass and starting temperature of water, cans of the same size and material, and the same distance from the heater. Only the surface should change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and--03-cans-absorb-emit.webp" width="900" height="1030" alt="Heated for ten minutes the black can rises 18 degrees and the silver can 6; cooled from 85 degrees the black can falls 24 and the silver can 12. Black is the better absorber and emitter." loading="lazy">
+  <figcaption>Matt black cans heat up and cool down faster than shiny silver ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
+</figure>
+
+
 ## 3.3.2 e and f: black-body radiation (Physics only)
 
 As an object heats up, it radiates **more and more infrared**, and it also radiates **at higher frequencies**. A cool electric heater element gives out infrared that you feel but cannot see. As it gets hotter it begins to glow dull red. A very hot filament glows brighter and looks whiter, because the radiation now includes a wider range of visible frequencies.
 
 **Black-body radiation** is the range of electromagnetic radiation emitted by an object at a particular temperature. Two objects at different temperatures emit different ranges, with the hotter one giving out more radiation overall and reaching higher frequencies. A good answer states both points: more radiation, and higher frequencies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and--03-black-body-curves.webp" width="900" height="930" alt="Three curves of radiation against frequency for 1000, 2000 and 3000 K. Hotter objects emit more at every frequency and their peak is at a higher frequency. The visible band is shaded." loading="lazy">
+  <figcaption>A hotter object gives out more radiation and reaches higher frequencies.</figcaption>
+</figure>
+
 
 ## 3.3.2 g and h: communication and applications
 
@@ -161,6 +189,12 @@ Too much exposure of the human body to EM waves can be harmful. **Low-energy wav
 
 Ionising waves can damage the molecules inside cells. Damage to a cell's DNA can cause a mutation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and--05-em-hazards-protection.webp" width="900" height="1000" alt="Five waves in order of energy with hazard and protection. Microwaves and infrared heat tissue; ultraviolet, X-rays and gamma rays ionise, causing skin cancer and blindness, cell death and mutations." loading="lazy">
+  <figcaption>Low-energy waves heat; high-energy waves ionise.</figcaption>
+</figure>
+
+
 ## 3.3.2 j to l: X-rays
 
 X-rays are part of the EM spectrum. They have a **very short wavelength, high energy and cause ionisation**.
@@ -187,6 +221,12 @@ An X-ray has wavelength 0.020 nm. Green light has wavelength 550 nm. Find the fr
 2. f = c / λ = (3.00 × 10⁸) / (2.0 × 10⁻¹¹) = **1.5 × 10¹⁹ Hz**.
 3. Wavelength ratio = 550 / 0.020 = 27 500, so the light's wavelength is about 2.8 × 10⁴ times longer.
 4. In a vacuum both have the speed 3.00 × 10⁸ m/s. The X-ray has the higher frequency and higher energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and--04-xray-bone-image.webp" width="900" height="680" alt="X-rays pass from a source through an arm to film. Rays through soft tissue are transmitted and darken the film; rays meeting bone are absorbed, leaving a pale shadow of the bone." loading="lazy">
+  <figcaption>Bone absorbs X-rays and shows as a pale shadow on the film.</figcaption>
+</figure>
+
 
 ## 3.3.2 m: working safely with ionising radiation
 

@@ -71,6 +71,12 @@ With plenty of chlorine, brown ICl turns to yellow crystals of ICl₃. Let the c
 3. Adding the water back reverses the reaction, re-forming pink hydrated cobalt(II) chloride.
 4. The forward reaction is endothermic, so the reverse is exothermic: energy is released and the tube warms up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--05-hydrated-anhydrous.webp" width="900" height="970" alt="Copper(II) sulfate: blue hydrated crystals turn white when heated and blue again on adding water. Cobalt(II) chloride: pink hydrated turns blue when heated and pink again with water." loading="lazy">
+  <figcaption>Heating hydrated crystals drives off water; adding water reverses the change.</figcaption>
+</figure>
+
+
 ## C5.3b Dynamic equilibrium
 
 Picture a reversible reaction in a **closed system**, a container from which nothing can escape and to which nothing is added.
@@ -136,6 +142,12 @@ B : A = 0.70 : 0.30 = 7 : 3
 percentage of A converted = (0.70 ÷ 1.00) × 100 = 70%
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-equilibria--08-eq-conc-time.webp" width="900" height="1030" alt="Concentration of A and B against time from the lesson table, with tangent at 10 s (rate 0.026) and equilibrium at 0.70 and 0.30." loading="lazy">
+  <figcaption>Concentrations level off at equilibrium; a tangent gives the rate at one instant.</figcaption>
+</figure>
+
+
 
 ### Proportionality and rate (CM5.3iv)
 
@@ -148,6 +160,17 @@ forward rate = 0.070 × (0.30 ÷ 1.00) = 0.021 mol/dm³/s
 ```
 
 At equilibrium the reverse rate must also be 0.021 mol/dm³/s. Work out the scale factor, then multiply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-equilibria--05-eq-rate-proportional.webp" width="900" height="860" alt="Bars: forward rate 0.070 and reverse 0 at the start; both 0.021 mol/dm3/s at equilibrium where [A] is 0.30. 0.070 x 0.30/1.00 = 0.021." loading="lazy">
+  <figcaption>Scale factor 0.30/1.00 turns 0.070 into 0.021, the equilibrium rate in both directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
 
 ## C5.3c Changing the position of equilibrium (Higher Tier only)
 
@@ -162,12 +185,24 @@ The **position of equilibrium** tells you how much reactant and how much product
 
 For ICl + Cl₂ ⇌ ICl₃, pumping in more chlorine shifts the position right, and more yellow ICl₃ forms. Removing chlorine shifts it left, so the solid turns back to brown liquid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-equilibria--04-eq-icl-chlorine.webp" width="900" height="880" alt="Three tubes of brown ICl liquid and yellow ICl3 solid at equilibrium, after adding chlorine (more yellow) and after removing chlorine (more brown). Concentration rules for shifts right and left are given." loading="lazy">
+  <figcaption>Adding Cl2 shifts right to more yellow ICl3; removing it shifts left to brown ICl.</figcaption>
+</figure>
+
+
 ### Temperature
 
 - Raise the temperature: the position shifts in the **endothermic** direction, which takes in heat and opposes the rise.
 - Lower the temperature: the position shifts in the **exothermic** direction.
 
 So if the forward reaction is exothermic, a higher temperature gives **less** product at equilibrium.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-equilibria--10-eq-temperature.webp" width="900" height="1000" alt="Bar chart of 31, 44, 58 percent T at 150, 250, 350 degrees C shows the forward reaction is endothermic; methanol, exothermic forward, shifts left when hotter." loading="lazy">
+  <figcaption>Raising the temperature favours the endothermic direction.</figcaption>
+</figure>
+
 
 ### Pressure (reactions with gases)
 
@@ -176,6 +211,12 @@ So if the forward reaction is exothermic, a higher temperature gives **less** pr
 - Equal numbers of gas molecules on the left and right: pressure leaves the position unchanged.
 
 Count gas molecules from the balancing numbers; ignore solids and liquids.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-equilibria--09-eq-pressure.webp" width="900" height="920" alt="CO + 2H2 has 3 gas molecules, CH3OH has 1; raising pressure shifts right." loading="lazy">
+  <figcaption>Raise the pressure and the position moves to the side with fewer gas molecules.</figcaption>
+</figure>
+
 
 ### Worked example 3
 
@@ -224,6 +265,12 @@ yellow       colourless       blood red
 5. Wear eye protection.
 
 Prediction from Le Chatelier's principle: adding either reactant shifts the position right, so the colour becomes a deeper red.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-equilibria--11-eq-fescn.webp" width="900" height="1005" alt="Three tubes of red FeSCN2+ mixture: water gives paler red; extra Fe3+ or SCN- gives deeper red." loading="lazy">
+  <figcaption>Adding either reactant shifts the position right and deepens the colour.</figcaption>
+</figure>
+
 
 ## Common errors
 

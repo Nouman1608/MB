@@ -50,6 +50,12 @@ In triangle ABC, the **angles** are A, B and C (capital letters). The **sides** 
 
 Every rule below depends on this pairing. Side a faces angle A, and the rule only works when you keep each side with its own angle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--03-label-triangle-abc.webp" width="900" height="880" alt="Triangle ABC with capital letters at the corners and small letters on the opposite sides. Dashed lines join each corner to the middle of its opposite side: A to a, B to b, C to c." loading="lazy">
+  <figcaption>Each small letter names the side opposite the capital-letter angle.</figcaption>
+</figure>
+
+
 ## Which rule do you need?
 
 Look at what the question gives you and what it asks for.
@@ -63,6 +69,12 @@ Look at what the question gives you and what it asks for.
 | Two sides and the angle between them | The area | Area = ½ab sin C |
 
 If the triangle has a right angle, the right-angled methods from G19 are usually quicker.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--01-which-rule-chooser.webp" width="900" height="1290" alt="Five small triangles pair what you know with what you want: two angles and a side or two sides and a non-enclosed angle use the sine rule; two sides and the enclosed angle or three sides use the cosine rule; two sides and the enclosed angle also give the area by half ab sin C." loading="lazy">
+  <figcaption>Match what the question gives you to the right rule.</figcaption>
+</figure>
+
 
 ## The sine rule
 
@@ -110,6 +122,17 @@ B = sin⁻¹(0.7468...) = 48.3176...
 B = 48.3° (1 d.p.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--02-cosine-rule-find-angle.webp" width="900" height="930" alt="A triangle with sides 7.4, 9.1 and 12.6 cm: cos A = (54.76 + 82.81 - 158.76) / 134.68 = -0.157, so A = 99.1 degrees. A negative cosine means the angle is obtuse." loading="lazy">
+  <figcaption>Rearranged cosine rule for the largest angle; a negative cosine means an obtuse angle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--05-area-gives-two-angles.webp" width="900" height="810" alt="Two triangles share an 11 cm base and have a 9.5 cm side at 50.0 degrees and at 130.0 degrees. Their third corners are at the same height, so both have area 40 square centimetres, which is why sin C = 80/104.5 gives two angles." loading="lazy">
+  <figcaption>An area fixes sin C, so C can be acute or obtuse.</figcaption>
+</figure>
+
+
 ### The two-answer problem
 <!-- marlbridge-diagram:maths-b21-sine-rule-two-solutions -->
 <figure class="lesson-diagram" style="margin: 2rem 0;">
@@ -132,6 +155,22 @@ Check: 28° + 135.8° = 163.8°, which is less than 180°
 ```
 
 Both triangles fit, because the given angle faces the shorter of the two given sides. Unless the question tells you that the angle is acute or obtuse, or the diagram shows it, give both. If the angle is opposite the longer given side, as in example 2, only the acute value works.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--04-sine-rule-only-acute.webp" width="900" height="960" alt="Worked example 2 drawn to scale: a = 16.3, b = 12.8, A = 72 degrees gives B = 48.3 degrees and C = 59.7 degrees, totalling 180. The obtuse option 131.7 degrees would give 72 + 131.7 = 203.7, over 180, so it is impossible." loading="lazy">
+  <figcaption>The angle opposite the shorter given side is acute only, because the angles would exceed 180.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--03-sine-rule.webp" width="900" height="860" alt="Triangle ABC with A = 48, B = 65, C = 67 degrees and a = 9 cm drawn to scale. a over sin A equals b over sin B gives b = 9 sin 65 over sin 48 = 11.0 cm. The rule needs a side and its opposite angle." loading="lazy">
+  <figcaption>Pair each side with the angle opposite it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--04-ambiguous-case.webp" width="900" height="850" alt="Angle A = 30 degrees, AC = 10, BC = 6. BC can meet the base at two points, giving two triangles with B = 56.4 degrees (acute) or 123.6 degrees (obtuse), both with sin B = 0.833." loading="lazy">
+  <figcaption>Two different triangles can fit the same sine rule data.</figcaption>
+</figure>
+
 
 ## The cosine rule
 
@@ -181,6 +220,12 @@ A = 99.1° (1 d.p.)
 
 Unlike the sine rule, the inverse cosine gives the correct angle straight away, including an obtuse angle. A negative cos A means the angle is obtuse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--05-cosine-rule.webp" width="900" height="860" alt="The lesson worked example drawn to scale: AB = 7, AC = 10, angle A = 110 degrees. A bar shows BC squared = 149 + 47.9 = 196.9, so BC = 14.0 cm. The extra 47.9 is added because cos 110 degrees is negative." loading="lazy">
+  <figcaption>With an obtuse angle the cosine term adds, so BC is longer than the right-angle case.</figcaption>
+</figure>
+
+
 ## The area of a triangle
 
 For any triangle, with C the angle **between** sides a and b:
@@ -223,6 +268,17 @@ x = 35 / (4 × sin 125°) = 10.6818...
 x = 10.7 cm (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--06-area-find-side.webp" width="900" height="800" alt="Worked example 8 drawn to scale: area 35, side 8, included angle 125 degrees. 35 = half x 8 x x x sin 125 gives x = 10.7 cm. The dashed height of 8.75 cm equals 2 x 35 / 8." loading="lazy">
+  <figcaption>Put the known values into the area formula and solve for the unknown side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
+  <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
+</figure>
+
+
 ## Putting the rules together
 
 Many questions need two steps. A common pattern is cosine rule first (to find a missing side), then sine rule or the area formula.
@@ -254,6 +310,12 @@ The obtuse value 134.4° is not possible. PQ = 240 m is the shortest side, so th
 Area = ½ × 240 × 310 × sin 67° = 34 242.78...
 Area = 34 200 m² (3 s.f.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--03-three-step-plot-pqr.webp" width="900" height="1040" alt="Triangle PQR with PQ 240 m, PR 310 m and angle P 67 degrees: cosine rule gives QR = 309 m, sine rule gives angle R = 45.6 degrees (acute only because PQ is shortest), and half ab sin C gives an area of about 34 200 square metres." loading="lazy">
+  <figcaption>Worked example 9: cosine rule, then sine rule, then area.</figcaption>
+</figure>
+
 
 ## Common errors
 

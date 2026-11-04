@@ -55,6 +55,22 @@ Change the angle and the opposite and adjacent swap. The hypotenuse stays put.
 
 **Reminder.** Short sides 9.6 cm and 12.8 cm: c² = 92.16 + 163.84 = 256, so c = 16 cm. Hypotenuse 16 cm and short side 9.6 cm: b² = 256 − 92.16 = 163.84, so b = 12.8 cm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--08-wire-and-pole.webp" width="900" height="650" alt="A 7.5 m pole and 4.2 m of ground form a right angle, with the wire as hypotenuse. 7.5^2 + 4.2^2 = 73.89, so the wire is 8.60 m, longer than both other sides." loading="lazy">
+  <figcaption>Draw the triangle first, then use Pythagoras for the wire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--01-squares-on-sides.webp" width="900" height="890" alt="A 3, 4, 5 right-angled triangle has a square on each side, with 9, 16 and 25 unit cells. 9 plus 16 equals 25, so the squares on the short sides together equal the square on the hypotenuse." loading="lazy">
+  <figcaption>The squares on the two shorter sides add up to the square on the hypotenuse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--02-hypotenuse-first.webp" width="900" height="1010" alt="Two scaled triangles with the hypotenuse highlighted opposite the right angle. For PQR, add 7.4 squared and 5.9 squared to get 9.46 cm. For ABC, subtract 4.7 squared from 9.2 squared to get 7.91 cm." loading="lazy">
+  <figcaption>Find the hypotenuse, then add the squares for it or subtract to find a shorter side.</figcaption>
+</figure>
+
+
 ## Trigonometry: choosing the ratio
 
 | Sides involved | Ratio |
@@ -71,6 +87,12 @@ Change the angle and the opposite and adjacent swap. The hypotenuse stays put.
 4. Unknown on top: multiply. x = 15 × sin 40°.
 5. Unknown underneath: swap places. If cos 40° = 15/h then h = 15 / cos 40°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--06-pyth-find-length.webp" width="900" height="860" alt="Triangle 1: hypotenuse 14.6, angle 33 degrees, opposite x: x = 14.6 sin 33 = 7.95 cm. Triangle 2: adjacent 7.9, angle 57 degrees, hypotenuse h: h = 7.9 / cos 57 = 14.5 cm, longer than 7.9 as required." loading="lazy">
+  <figcaption>If the unknown is on top multiply; if underneath, rearrange then divide.</figcaption>
+</figure>
+
+
 ### Finding an angle
 
 1. Write the ratio of the two known sides.
@@ -80,6 +102,22 @@ Change the angle and the opposite and adjacent swap. The hypotenuse stays put.
 **Reminder.** Adjacent 7.2 cm, hypotenuse 11.5 cm: cos θ = 7.2/11.5 = 0.6261, so θ = cos⁻¹(0.6261) = 51.2° (1 d.p.).
 
 The other acute angle is 90° − θ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--05-pyth-which-ratio.webp" width="900" height="1070" alt="Three copies of one right-angled triangle with angle theta. Opposite and hypotenuse highlighted: use sin. Adjacent and hypotenuse: use cos. Opposite and adjacent: use tan." loading="lazy">
+  <figcaption>Match the two sides in the question to sin, cos or tan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--08-pyth-pyramid.webp" width="900" height="1170" alt="Pyramid with 8 by 6 base and apex 7 cm above the centre O. Half base diagonal OA = 5, edge VA = root 74 = 8.60, edge angle 54.5 degrees (tan 7/5). M is the midpoint of the 8 cm edge, OM = 3, face angle 66.8 degrees (tan 7/3)." loading="lazy">
+  <figcaption>Two flat right-angled triangles give the edge angle and the face angle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--09-find-an-angle.webp" width="900" height="960" alt="Two scaled right-angled triangles. Opposite 6.4 and adjacent 9.1 give tan theta = 0.7033 and theta = 35.1 degrees; opposite 5.2 and hypotenuse 8.3 give sin theta = 0.6265 and theta = 38.8 degrees. The other angle is 90 degrees minus theta." loading="lazy">
+  <figcaption>Use the inverse function on the ratio of the two known sides.</figcaption>
+</figure>
+
 
 ## Which method? A decision table
 
@@ -97,6 +135,12 @@ The other acute angle is 90° − θ.
 - **Rhombus.** The diagonals cross at right angles and bisect each other, so four matching right-angled triangles form.
 - **Trapezium with a right angle.** Draw a perpendicular height to make a right-angled triangle.
 - **Two triangles in a row.** Find a shared side first, and keep its unrounded value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--04-hidden-right-angle.webp" width="900" height="870" alt="An isosceles triangle with equal sides 17 cm and base 16 cm is split by its height into two right-angled triangles with base 8 cm. The height is 15 cm and the area is 120 cm squared." loading="lazy">
+  <figcaption>Split an isosceles triangle down the middle and use half the base.</figcaption>
+</figure>
+
 
 ## Worked reminders: mixed 2D problems
 
@@ -132,6 +176,12 @@ The other acute angle is 90° − θ.
 **Reminder (Extension only).** Cuboid 12 by 5 by 9: base diagonal = 13, space diagonal = √(169 + 81) = √250 = 15.8 cm, and the angle with the base has tan θ = 9/13, so θ = 34.7° (1 d.p.).
 
 **Reminder (Extension only).** Pyramid on a 6 by 6 square base with height 9: half the base diagonal is 3√2 = 4.243, the edge is √(18 + 81) = √99 = 9.95 cm, and the edge makes tan θ = 9/4.243, so θ = 64.8° (1 d.p.) with the base.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--07-pyth-cuboid.webp" width="900" height="1050" alt="A 10 by 6 by 7 cuboid. Base diagonal AC = root 136; with the 7 cm edge CG it forms right-angled triangle ACG. AG squared = 136 + 49 = 185, so AG = 13.6 cm, and tan theta = 7/root 136 gives 31.0 degrees with the base." loading="lazy">
+  <figcaption>The space diagonal is the hypotenuse of a triangle built on the base diagonal.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -184,3 +234,14 @@ Answer each question, then check the answers below.
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.2 Mensuration and calculation, statement G19.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--01-soh-cah-toa.webp" width="900" height="890" alt="A right-angled triangle with sides 3, 4, 5 and angle theta. Opposite is 3, adjacent 4, hypotenuse 5. Sine is 3/5 = 0.6, cosine 4/5 = 0.8, tangent 3/4 = 0.75, and inverse sine of 0.6 gives theta = 36.9 degrees." loading="lazy">
+  <figcaption>Name the sides from the angle, then pick sin, cos or tan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--07-trig-3d.webp" width="900" height="960" alt="A cuboid 8 by 6 by 5 cm. The base diagonal AC = 10 cm, and with CG = 5 and AG = 11.2 it forms a right-angled triangle. The angle between AG and the base has tan x = 5/10, so x = 26.6 degrees. The triangle is also shown flat." loading="lazy">
+  <figcaption>Pull the right-angled triangle out of the solid, then use ordinary trigonometry.</figcaption>
+</figure>
+

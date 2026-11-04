@@ -79,6 +79,12 @@ y = 0.5x − 6           (general form: x − 2y − 12 = 0)
 
 Gradient in context is rise ÷ horizontal run. An access ramp that rises 0.5 m over a horizontal distance of 6 m has gradient 0.5/6 = 0.0833 (3 s.f.), about 1 in 12.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--01-perpendicular-lines.webp" width="900" height="1070" alt="A grid shows A (2, 5) and B (6, -3) with the line AB falling with gradient -2 (run 4, rise -8). A second line through B, marked with a right-angle square, rises with gradient 1/2. The gradients multiply to -1." loading="lazy">
+  <figcaption>Perpendicular lines have gradients whose product is -1.</figcaption>
+</figure>
+
+
 ## 2.2 Functions, domain, range and inverses
 
 A **function** gives exactly one output for each input. Notation such as f(x), v(t) or C(n) names the input variable. The **domain** is the set of allowed inputs. The **range** is the set of outputs. Unless told otherwise, take the largest domain for which the function is defined. A graph is the easiest way to see the range.
@@ -99,6 +105,12 @@ Swap and rearrange: x = (y − 32)/1.8
 F⁻¹(x) = (x − 32)/1.8
 F⁻¹(77) = (77 − 32)/1.8 = 25    → 77 °F is 25 °C
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--02-inverse-reflection.webp" width="900" height="1045" alt="The curve f(x) = 3 + sqrt(x - 1) starts at (1, 3) and its inverse (x - 3)^2 + 1 starts at (3, 1). They are mirror images in the dashed line y = x and meet at (5, 5). Points (2, 4) and (4, 2) are swapped, showing the domain of the inverse is the range of f." loading="lazy">
+  <figcaption>The graph of f inverse is the graph of f reflected in y = x.</figcaption>
+</figure>
+
 
 ## 2.3 Drawing and sketching graphs
 
@@ -123,6 +135,12 @@ GDC maximum:    (130, 1490)
 
 The business makes a profit for 8 ≤ x ≤ 252 items (x is a whole number), and the maximum profit is 1490 at 130 items.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--03-profit-break-even.webp" width="900" height="1030" alt="Revenue 30x - 0.1x^2 and cost 200 + 4x are graphed. The region where revenue exceeds cost is shaded, between break-even points x = 7.93 and x = 252. The largest gap, 1490, is at x = 130." loading="lazy">
+  <figcaption>Graphing revenue and cost together shows break-even points and maximum profit.</figcaption>
+</figure>
+
+
 ## 2.4 Key features and intersections
 
 With technology you must find:
@@ -146,6 +164,12 @@ Zero:                 2x + 1 = 0  → (−0.5, 0)
 Confirm each asymptote by tracing the graph on the GDC. Write asymptotes as equations, not as numbers.
 
 **Intersections.** To solve f(x) = g(x), graph both and use the intersect tool. For y = 2ˣ and y = x + 3 the GDC gives (−2.86, 0.137) and (2.44, 5.44). Write down both functions you entered.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--04-asymptotes.webp" width="900" height="1035" alt="f(x) = (2x + 1)/(x - 3) has two branches either side of the dashed vertical asymptote x = 3 and approaches the dashed horizontal asymptote y = 2. It crosses the axes at (-0.5, 0) and (0, -1/3)." loading="lazy">
+  <figcaption>Asymptotes are lines the graph approaches and are written as equations.</figcaption>
+</figure>
+
 
 ## 2.5 The six modelling functions
 
@@ -183,6 +207,22 @@ GDC maximum: x = 3.92 cm, V = 1060 cm³ (3 s.f.)
 
 **Sinusoidal.** The depth of water in a harbour is D(t) = 3 sin(30t) + 8 metres, t hours after midnight, with the angle in degrees. Amplitude = 3 m. Period = 360°/30 = 12 hours. Principal axis D = 8. So the depth runs from 5 m to 11 m. The guide says you will not need to convert between sin and cos, and you will be asked for amplitude, period or principal axis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--05-six-models.webp" width="900" height="1200" alt="Six small graphs: piecewise linear plan cost, quadratic ball height with vertex, exponential cooling towards y = c, inverse-square variation with the y-axis as asymptote, cubic box volume with turning point, and a sinusoid about a dashed axis y = d." loading="lazy">
+  <figcaption>Each of the six SL models has a recognisable shape and key feature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--06-open-box-domain.webp" width="900" height="1060" alt="A 30 cm by 20 cm sheet has squares of side x cut from the corners. The volume graph V = x(30 - 2x)(20 - 2x) is solid for 0 &lt; x &lt; 10 and dashed outside. The maximum is at x = 3.92 cm, V = 1060 cm cubed." loading="lazy">
+  <figcaption>The real-world situation limits which part of the curve is the model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--07-harbour-sinusoid.webp" width="900" height="890" alt="D(t) = 3 sin(30t) + 8 oscillates about the dashed principal axis D = 8. The amplitude is 3 m, the period is 12 hours (peak to peak, t = 3 to 15) and the depth ranges from 5 m to 11 m." loading="lazy">
+  <figcaption>Amplitude, period and principal axis can be read straight from a sin(bx) + d.</figcaption>
+</figure>
+
+
 ## 2.6 Developing, fitting and using a model
 
 The guide splits modelling into three stages.
@@ -216,6 +256,12 @@ Keep the unrounded a in your GDC for the prediction.
 **Test and reflect.** Say whether the model is appropriate and reasonable. Justify the model choice from the shape of the data (steady rate → linear; one turning point → quadratic; repeats → sinusoidal; levels off → exponential with asymptote), from properties of the curve, or from the context.
 
 **Use the model.** Read values, interpret them in context and make predictions. Be wary of **extrapolation**: a prediction outside the data range assumes the pattern continues, and it often does not. The bacteria model above gives huge values for large t, which a real dish of nutrients cannot support.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--08-extrapolation-danger.webp" width="900" height="890" alt="N(t) = 120 x 2.5^(t/5) is fitted through (0, 120) and (5, 300), drawn solid in the shaded data range. Beyond t = 5 it is dashed; the prediction N(12) = 1080 assumes the pattern continues." loading="lazy">
+  <figcaption>A fitted model is reliable inside the data range, but extrapolation assumes the pattern continues.</figcaption>
+</figure>
+
 
 ## Common errors
 

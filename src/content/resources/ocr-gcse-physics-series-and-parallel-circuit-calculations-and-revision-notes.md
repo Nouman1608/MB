@@ -59,6 +59,12 @@ Model sentence: "Adding a resistor in parallel gives the charge another path, so
 3. Find each p.d.: V = I × R for each resistor.
 4. Check the p.d.s add to the supply p.d.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
+
 ### Method in steps: parallel circuit
 
 1. Write the supply p.d. against every branch.
@@ -70,6 +76,12 @@ Model sentence: "Adding a resistor in parallel gives the charge another path, so
 
 A 10 V supply, 2.0 Ω and 3.0 Ω in series. R = 5.0 Ω, I = 10 / 5.0 = 2.0 A. p.d.s: 2.0 × 2.0 = 4.0 V and 2.0 × 3.0 = 6.0 V. They add to 10 V.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-series-and-parallel-circuit-calculations-and--03-bulb-brightness-series-parallel.webp" width="900" height="970" alt="Three circuits with identical bulbs and the same cell. A single bulb carries current I and is bright. Two bulbs in series each carry half of I and are dim. Two bulbs in parallel each carry I and are as bright as the single bulb, while the cell supplies 2 I." loading="lazy">
+  <figcaption>Series bulbs share one path and dim; parallel bulbs each get the full cell p.d. and the cell supplies more current.</figcaption>
+</figure>
+
+
 ### Worked reminder: parallel
 
 A 6.0 V supply, 4.0 Ω and 12 Ω in parallel. Currents: 6.0 / 4.0 = 1.5 A and 6.0 / 12 = 0.50 A. Supply current = 2.0 A. Net R = 6.0 / 2.0 = 3.0 Ω, which is below 4.0 Ω.
@@ -77,6 +89,12 @@ A 6.0 V supply, 4.0 Ω and 12 Ω in parallel. Currents: 6.0 / 4.0 = 1.5 A and 6.
 ### Finding a missing resistance
 
 A resistor has 5.0 V across it and 0.25 A through it. R = V / I = 5.0 / 0.25 = 20 Ω. In a series circuit, a missing resistor's value is the equivalent resistance minus the known ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-series-and-parallel-circuit-calculations-and--04-series-parallel-mixed.webp" width="900" height="830" alt="A 4.0 ohm resistor has 6.0 V across it, leaving 6.0 V across both parallel branches. The branches carry 1.0 A and 0.50 A, which add to the 1.5 A ammeter reading." loading="lazy">
+  <figcaption>Find the p.d. or current you are sure of, then apply the series and parallel rules one section at a time.</figcaption>
+</figure>
+
 
 ## P3.2k: measurement and testing circuits
 
@@ -100,6 +118,22 @@ An LDR is in series with a 400 Ω fixed resistor on an 8.0 V supply. In bright l
 - What is varied, what is measured, and which equation is applied?
 - How is the reading made more reliable (repeat, take a range, average)?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-series-and-parallel-circuit-calculations-and--05-thermistor-sensor-circuit.webp" width="900" height="880" alt="With a 200 ohm thermistor the current is 0.020 A and the voltmeter across the 100 ohm resistor reads 2.0 V. When heated to 50 ohm the current is 0.040 A and the reading rises to 4.0 V." loading="lazy">
+  <figcaption>A voltmeter across the fixed resistor turns a temperature change into a voltage change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-series-and-parallel-circuit-calculations-and--04-voltmeter-fault-finding.webp" width="900" height="900" alt="Two series circuits with both lamps unlit and a voltmeter across lamp 1. If lamp 1 has a broken filament the voltmeter reads close to the supply p.d. If lamp 1 is fine and the break is elsewhere in the wire, no current flows and the voltmeter reads close to zero." loading="lazy">
+  <figcaption>A voltmeter across an unlit lamp reads close to the supply p.d. only if that lamp is the break.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
+
 ## P3.2l and P3.2m: power, energy and charge
 
 - Power is the rate of energy transfer. 1 W = 1 J transferred per second.
@@ -119,6 +153,12 @@ A 4.0 Ω resistor carries 3.0 A. P = 3.0² × 4.0 = 9.0 × 4.0 = 36 W.
 ### Worked reminder: kilowatt-hours
 
 A 3.0 kW oven runs for 90 minutes (1.5 h). E = 3.0 × 1.5 = 4.5 kW h. In joules this is 4.5 × 3 600 000 = 16 200 000 J.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-series-and-parallel-circuit-calculations-and--02-series-power-energy-charge.webp" width="900" height="920" alt="A 9.0 V cell drives 0.20 A through a 15 ohm and a 30 ohm resistor in series. The resistors transfer 0.60 W and 1.2 W, which add to the 1.8 W supplied (9.0 V x 0.20 A). In 300 s that is 540 J, and the 60 C of charge that flows through 9.0 V also gives 540 J." loading="lazy">
+  <figcaption>The power in each resistor adds up to V x I, and E = Pt agrees with E = QV.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

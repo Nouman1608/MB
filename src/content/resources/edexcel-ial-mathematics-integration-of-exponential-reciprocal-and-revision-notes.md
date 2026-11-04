@@ -214,6 +214,12 @@ Answer each question, then check below. Assume x > 0 where a logarithm of x appe
 10. [−ln cos x] from 0 to π/6 = −ln(√3/2) = ln(2/√3) = ½ ln(4/3).
 11. (x³ − 1)⁴/4 + c
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--08-ln-calculus.webp" width="900" height="1050" alt="The tangent to y = ln x at x = 2 has gradient one half, equal to 1/x. Below, the area under y = 1/x from 1 to e is shaded and equals 1, because the integral is ln x and ln e minus ln 1 is 1." loading="lazy">
+  <figcaption>ln x differentiates to 1/x and the area under 1/x from 1 to e is 1.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving out the 1/k when integrating e^kx, sin kx or cos kx with a linear argument.

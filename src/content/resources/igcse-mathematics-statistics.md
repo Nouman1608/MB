@@ -87,6 +87,12 @@ cumulative frequency diagrams
 with frequency density, defined as frequency density = frequency ÷
 class width, with the vertical axis labelled "Frequency density"
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--02-frequency-table-averages.webp" width="900" height="950" alt="A frequency table of pets owned by 20 students. Multiplying pets by students gives 0, 8, 8, 6 and 4, a total of 26, so the mean is 26 / 20 = 1.3. The mode is 1 and the median is 1." loading="lazy">
+  <figcaption>For a frequency table, multiply each value by its frequency, add, then divide by the total frequency.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 <!-- marlbridge-diagram:math-b57-statistics-method-selection -->
@@ -113,6 +119,12 @@ plots frequency density, not frequency directly — this is essential
 whenever class widths are unequal, since frequency alone would
 visually exaggerate wider classes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--04-correlation-types.webp" width="900" height="1010" alt="Three scatter diagrams: positive correlation (y rises with x), negative correlation (y falls as x rises) and zero correlation (no pattern, so no line of best fit)." loading="lazy">
+  <figcaption>Judge the correlation by eye before drawing any line.</figcaption>
+</figure>
+
+
 ## Worked example: estimating the mean of grouped data (Extended)
 
 A survey of 40 students' heights (cm) is grouped as: 150–<160 (8
@@ -136,6 +148,22 @@ This is only an estimate because the exact individual values within
 each class are unknown — the midpoint stands in for every value in
 that class, which is why the syllabus specifically calls this an
 "estimate of the mean" rather than the mean itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--01-three-averages.webp" width="900" height="770" alt="Six values 2, 3, 3, 4, 5, 13 on a dot plot. The mode is 3 (most common), the median is 3.5 (middle of 3 and 4), the mean is 30 divided by 6 = 5, and the range is 13 - 2 = 11. The large value 13 pulls the mean above the median." loading="lazy">
+  <figcaption>The mean, median, mode and range of one small list of data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--03-grouped-mean-midpoints.webp" width="900" height="932" alt="Heights of 40 students in four 10 cm classes. Each class midpoint (155, 165, 175, 185) times its frequency totals 6740, giving an estimated mean of 168.5 cm. The modal class is 160 to under 170." loading="lazy">
+  <figcaption>Use the midpoint of each class, not a boundary, so the mean is only an estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--05-line-of-best-fit.webp" width="900" height="850" alt="A scatter diagram of revision hours and test score with a line of best fit through the mean point. Reading up from 6 hours gives a predicted score of about 67. The line is dashed beyond 8 hours where there is no data." loading="lazy">
+  <figcaption>A line of best fit passes through the mean point and is used to predict inside the range of the data.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -163,6 +191,17 @@ only the modal class (Extended).
   histograms with unequal class widths.
 - For Extended, practise reading percentiles, quartiles and the
   interquartile range directly from a cumulative frequency diagram.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
+  <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--07-stem-and-leaf-order.webp" width="900" height="680" alt="The same 15 values as an unordered and an ordered stem-and-leaf diagram. Counting to the 8th leaf unordered gives 38, which is wrong. Ordered, the 8th leaf is 31, the median. Key: 3 | 1 means 31." loading="lazy">
+  <figcaption>Order the leaves in each row before counting to the median.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

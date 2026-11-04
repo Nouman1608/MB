@@ -48,6 +48,17 @@ Two features explain this section:
 - **The C=O bond is polar.** Oxygen is more electronegative than carbon, so the carbon is δ+ and the oxygen δ−. Electron-pair donors (nucleophiles) are drawn to the δ+ carbon.
 - **The C=O double bond contains a π bond**, which can break while the σ bond stays, so a nucleophile can add across C=O. Compare alkenes: non-polar C=C is attacked by electrophiles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--01-carbonyl-group.webp" width="900" height="660" alt="An aldehyde (propanal) and a ketone (propanone) are drawn with the carbonyl carbon at the centre of a flat shaded triangle. The three bonds are 120 degrees apart. The carbon is marked delta plus and the oxygen delta minus." loading="lazy">
+  <figcaption>The C=O carbon is delta plus and trigonal planar, so nucleophiles attack it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--09-iodoform-test.webp" width="900" height="1100" alt="A yellow precipitate of CHI3 forms with iodine and sodium hydroxide. Five skeletal formulae have the CH3-C=O group shaded where present: ethanal, propanone and butanone are positive; propanal and pentan-3-one are negative." loading="lazy">
+  <figcaption>Only compounds with a CH3-C=O group, including ethanal, give the yellow iodoform precipitate.</figcaption>
+</figure>
+
+
 ## 6.1.2(a): Oxidising aldehydes
 
 Acidified dichromate, Cr₂O₇²⁻/H⁺ (K₂Cr₂O₇ with dilute H₂SO₄), oxidises an aldehyde to a carboxylic acid. Reflux with excess oxidising agent so the volatile aldehyde cannot escape unreacted. As the aldehyde is oxidised, the mixture turns from orange (Cr₂O₇²⁻) to green (Cr³⁺).
@@ -87,6 +98,12 @@ C₆H₅CHO + 2[H] → C₆H₅CH₂OH
 
 (CH₃)₂CHCH₂COCH₃ + 2[H] → (CH₃)₂CHCH₂CH(OH)CH₃
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
+  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
+</figure>
+
+
 ### (b)(ii) Addition of HCN
 
 Adding HCN across C=O produces a **hydroxynitrile**: one carbon ends up carrying both an –OH group and a –C≡N group. HCN is very toxic and volatile, so the specification gives the reagent as NaCN(aq)/H⁺(aq): sodium cyanide supplies CN⁻ ions and the acid supplies H⁺ ions.
@@ -97,6 +114,12 @@ The new bond is between carbon atoms, so the chain grows by one carbon. This is 
 
 **Naming the product.** The –C≡N carbon is carbon 1 of the nitrile chain, so the former carbonyl carbon becomes carbon 2 and the name starts "2-hydroxy…".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--07-kcn-hazard.webp" width="900" height="890" alt="A beaker of KCN solution has dilute acid added by a dropper, producing HCN gas marked with a hazard diamond. The precautions shown are gloves and eye protection, a fume cupboard and adding acid slowly." loading="lazy">
+  <figcaption>Acid turns CN- into toxic, volatile HCN gas, so use protection, a fume cupboard and add acid slowly.</figcaption>
+</figure>
+
+
 ### Worked example 3: a hydroxynitrile from benzaldehyde
 
 5.30 g of benzaldehyde reacts with NaCN(aq)/H⁺(aq). 4.79 g of product is isolated. Name the product and find the percentage yield. (Mᵣ: C₇H₆O 106.0, C₈H₇NO 133.0)
@@ -106,6 +129,17 @@ The new bond is between carbon atoms, so the chain grows by one carbon. This is 
 3. Maximum n(product) = 0.0500 mol (1 : 1)
 4. Theoretical mass = 0.0500 × 133.0 = 6.65 g
 5. Percentage yield = 4.79 ÷ 6.65 × 100 = **72.0%**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--04-hydride-mechanism.webp" width="900" height="1300" alt="Step 1 shows a hydride ion with a lone pair attacking the carbonyl carbon by a curly arrow, while a second arrow moves the C=O bond onto oxygen. Step 2 shows the O- taking H from water, giving propan-2-ol." loading="lazy">
+  <figcaption>H- attacks the delta plus carbon, then O- is protonated, giving a secondary alcohol from a ketone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
+  <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
+</figure>
+
 
 ## 6.1.2(c): The two mechanisms
 
@@ -149,6 +183,12 @@ The orange solid is a derivative of the particular carbonyl compound, and each d
 
 An impure solid starts melting too low and melts gradually, so a crude sample can match the wrong entry in the table. A pure sample melts sharply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--08-dnph-melting-point.webp" width="900" height="1050" alt="An orange precipitate with 2,4-DNPH shows a carbonyl group. A number line gives derivative melting temperatures, with an unknown at 125 degrees C between butanal and propanone. A negative Tollens’ test rules out the aldehyde, so it is propanone." loading="lazy">
+  <figcaption>2,4-DNPH shows C=O; a close melting temperature needs a second test such as Tollens’.</figcaption>
+</figure>
+
+
 ### Worked example 4: identifying a C₇H₁₄O ketone
 
 With 2,4-DNP, compound K (C₇H₁₄O) forms an orange precipitate; with Tollens' reagent it forms no silver mirror. Its recrystallised derivative melts at 74–75 °C. Use these values for the derivatives: heptanal 108 °C, heptan-2-one 89 °C, heptan-3-one 81 °C, heptan-4-one 75 °C.
@@ -184,6 +224,17 @@ The ratio follows from the electrons: 1 mol of –CHO groups gives up 2 mol of e
 1. n(aldehyde) = 1.34 ÷ 134.0 = 0.0100 mol
 2. n(Ag) = 2 × 0.0100 = 0.0200 mol
 3. Mass of Ag = 0.0200 × 107.9 = **2.16 g**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--02-carbonyl-tests.webp" width="900" height="1110" alt="Three rows of test tubes compare an aldehyde with a ketone. Tollens’ gives a silver mirror only with the aldehyde, Fehling’s a red precipitate on blue only with the aldehyde, and acidified dichromate(VI) turns orange to green only with the aldehyde." loading="lazy">
+  <figcaption>Aldehydes are oxidised by Tollens’, Fehling’s and dichromate; ketones are not (Fehling’s not on OCR; dichromate for OCR and Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--03-silver-ratio.webp" width="900" height="1010" alt="RCHO is oxidised to RCOOH, releasing two electrons. Each electron reduces an Ag+ ion to Ag, so one mole of aldehyde gives two moles of silver. 1.16 g of propanal gives 0.0200 mol aldehyde, 0.0400 mol Ag and 4.32 g silver." loading="lazy">
+  <figcaption>One mole of aldehyde releases two electrons and so deposits two moles of silver.</figcaption>
+</figure>
+
 
 ## The three tests side by side
 

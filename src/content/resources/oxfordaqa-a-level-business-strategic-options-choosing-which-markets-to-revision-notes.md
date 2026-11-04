@@ -71,6 +71,12 @@ Practise: [practice questions](/resources/oxfordaqa-a-level-business-strategic-o
 | Product development | Uses brand and customer knowledge | R&D cost; new products often fail; may cannibalise sales |
 | Diversification | Spreads risk; access to new growth | No product or market knowledge; biggest outlay |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--01-ansoff-matrix.webp" width="900" height="1048" alt="A two by two grid of existing/new products against existing/new markets giving market penetration, product development, market development and diversification, with risk rising towards diversification. Orrisdale example: raising share from 15% to 20% needs a 40% revenue rise." loading="lazy">
+  <figcaption>Four options sit in a grid by product and market, and risk rises as the business moves away from what it knows.</figcaption>
+</figure>
+
+
 ## Assessing value: what the right choice depends on
 
 An "assess the value" answer weighs the option against the case, not against the textbook. Check:
@@ -82,6 +88,17 @@ An "assess the value" answer weighs the option against the case, not against the
 - **Return against risk**: a bigger expected gain can justify a riskier box if failure would not sink the business.
 
 **Worked reminder.** A regional ice-cream maker has a loyal customer base, little cash and a stable market. Product development (new flavours for existing stockists) uses its brand at modest cost; diversification would need finance it does not have.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--04-price-war.webp" width="900" height="1020" alt="Profit bars for the low cost and differentiated e-bike options before and after a price war: 460,000 to 190,000 (down 58.7%) against 420,000 to 346,500 (down 17.5%)." loading="lazy">
+  <figcaption>A low contribution per bike leaves the low cost option far more exposed to price cuts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ## Method in steps: using SWOT to choose a strategy
 

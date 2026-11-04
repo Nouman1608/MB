@@ -65,6 +65,12 @@ Find (a) p(orange), (b) p(red or yellow), (c) p(not green).
 
 Check (c) another way: 0.25 + 0.15 + 0.25 = 0.65.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--02-adds-to-one.webp" width="900" height="850" alt="Two bars of length 1. The spinner bar is red 0.35, blue 0.2, green x, yellow 2x, so x = 0.15 and yellow 0.3. The rain bar is 35 percent rain and 65 percent no rain." loading="lazy">
+  <figcaption>All the probabilities of one event add to 1, so not happening is 1 minus happening.</figcaption>
+</figure>
+
+
 ## The general addition law (11.02e)
 
 If events can happen together, adding p(A) and p(B) counts the overlap twice. Subtract it once:
@@ -83,6 +89,17 @@ p(neither) = 1 - 0.63 = 0.37
 ```
 
 The common mistake is to answer 0.75 by adding without subtracting. That would count the 0.12 twice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--03-addition-law-overlap.webp" width="900" height="810" alt="A Venn diagram of football 0.45 and chess 0.30 with overlap 0.12: football only 0.33, chess only 0.18, neither 0.37. Adding 0.45 and 0.30 counts the overlap twice; subtracting 0.12 gives 0.63." loading="lazy">
+  <figcaption>Adding p(A) and p(B) counts the overlap twice, so subtract p(A and B) once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
+  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
+</figure>
+
 
 ## Tree diagrams for successive events (11.02d)
 
@@ -121,9 +138,21 @@ The four routes sum to 0.12 + 0.28 + 0.18 + 0.42 = 1.
 
 (b) Stopped at least once: use the opposite. Only GG gives no stop, so 1 - 0.42 = **0.58**. Adding the three routes with a stop gives 0.12 + 0.28 + 0.18 = 0.58 as well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--02-tree-with-replacement.webp" width="900" height="1070" alt="Bag of 5 red and 3 blue, two draws with replacement. Branches are 5/8 and 3/8 both times; ends RR 25/64, RB 15/64, BR 15/64, BB 9/64. One of each is 15/64+15/64 = 15/32." loading="lazy">
+  <figcaption>With replacement the second branches repeat the first; multiply along paths and add the paths you want.</figcaption>
+</figure>
+
+
 ### Three or more stages
 
 The same method extends. If each of three independent attempts succeeds with probability 0.2, p(at least one success) = 1 - 0.8 × 0.8 × 0.8 = 1 - 0.512 = **0.488**. Drawing the whole tree would need eight routes, so "at least one" is a good moment to use p(not A).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--12-at-least-one-three.webp" width="900" height="834" alt="A three-stage tree with eight routes. Only the route with three failures (0.8 x 0.8 x 0.8 = 0.512) has no success; the other seven total 0.488." loading="lazy">
+  <figcaption>For at least one, work out the single route for none and subtract from 1.</figcaption>
+</figure>
+
 
 ### Dependent events
 
@@ -162,6 +191,17 @@ p(rain on Tuesday) = 0.18 + 0.14 = 0.32
 ```
 
 The Tuesday branches are different on the two Monday branches, which tells you the events are dependent. You still multiply along and add across.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--13-rain-dependent-tree.webp" width="900" height="710" alt="A two-stage tree: Monday rain 0.3, dry 0.7. After rain Tuesday rain is 0.6, after dry 0.2. Routes 0.18, 0.12, 0.14, 0.56 total 1; the Tuesday-rain routes give 0.18 + 0.14 = 0.32." loading="lazy">
+  <figcaption>The second-stage branches change with the first result, so the events are dependent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--03-tree-without-replacement.webp" width="900" height="1020" alt="Same bag, first counter not replaced. After a red, 4 red and 3 blue remain (4/7, 3/7); after a blue, 5 red and 2 blue remain (5/7, 2/7). Both red is 5/8 x 4/7 = 5/14." loading="lazy">
+  <figcaption>Without replacement the second branches change because the bag has one fewer counter.</figcaption>
+</figure>
+
 
 ## Conditional probability from first principles (Higher tier only)
 
@@ -204,6 +244,17 @@ First rock and exactly one rock is the route RN: 5/18.
 p(first rock given exactly one rock) = (5/18) ÷ (10/18) = 1/2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--04-conditional-venn.webp" width="900" height="910" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
+  <figcaption>Given a condition, only the part of the diagram that satisfies it counts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
+  <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
+</figure>
+
+
 ## The multiplication law and conditional probability (Higher tier only)
 
 Rearranging the reasoning above gives
@@ -220,6 +271,12 @@ This is the tree rule in symbols: first B happens, then A happens given B. Divid
 p(rain and late) = 0.25 × 0.6 = 0.15
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--10-mult-law-area.webp" width="900" height="820" alt="A unit square: width 0.6 is rain, and in that column the bottom 0.25 is a late bus. The shaded rectangle has area 0.25 x 0.6 = 0.15 = p(rain and late)." loading="lazy">
+  <figcaption>p(A and B) = p(A given B) x p(B) shown as the area of a rectangle.</figcaption>
+</figure>
+
+
 ## Testing for independence (Higher tier only)
 
 Events A and B are independent if and only if p(A given B) = p(A). Equivalently, knowing B tells you nothing about A.
@@ -232,6 +289,12 @@ This equals p(A) = 0.4, so A and B are independent.
 ```
 
 In example 6, p(diamond given red) = 1/2 but p(diamond) = 1/4. The two are different, so "diamond" and "red" are not independent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--11-independence-bars.webp" width="900" height="820" alt="Two squares split into columns. In example 10 the bar for A is 0.4 high in both B and not B, equal to p(A), so independent. In example 6, diamonds fill 1/2 of the red column but p(diamond) is 1/4, so not independent." loading="lazy">
+  <figcaption>Independent means p(A given B) = p(A).</figcaption>
+</figure>
+
 
 ## Common errors
 

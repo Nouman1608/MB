@@ -83,6 +83,17 @@ rate = 33 / 5.0 = 6.6 mm³ per minute
 
 Two readings on a ruler with 1 mm divisions give ±1 mm in 42 mm, about 2.4 %. Divided by a leaf area of 48 cm², the rate is 0.14 mm³ per cm² per minute.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--01-colorimeter-calibration.webp" width="900" height="920" alt="A graph of absorbance against protein concentration for the five standards. The straight line has gradient 0.23 per g per 100 cm³. A sample reading of 0.28 is traced across to the line and down to 1.2 g per 100 cm³; the area beyond 2.0 is shaded as no data." loading="lazy">
+  <figcaption>Read an unknown from the calibration line, never beyond the standards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--02-potometer-rate.webp" width="900" height="840" alt="A potometer capillary with a bubble that moves 42 mm toward the cut shoot in 5.0 minutes. With radius 0.50 mm the volume is about 33 mm³, so the rate is 6.6 mm³ per minute, or 0.14 mm³ per cm² per minute for a 48 cm² leaf area." loading="lazy">
+  <figcaption>Volume of water taken up is pi r squared times the distance the bubble moves, then divide by time.</figcaption>
+</figure>
+
+
 ## 1.2.2(c) Glassware and serial dilutions
 
 A serial dilution makes a range of concentrations from one stock with the same factor at each step. For a doubling series from 1.0 mol dm⁻³, mix 5 cm³ of the previous solution with 5 cm³ of water each time: 0.50, 0.25, 0.125. For a tenfold series use 1 cm³ plus 9 cm³ of diluent.
@@ -96,6 +107,17 @@ colonies per cm³ in the diluted sample = 36 / 0.1 = 360
 original culture = 360 / 10⁻⁴ = 3.6 × 10⁶ per cm³
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--04-serial-dilution.webp" width="900" height="920" alt="Four tubes show a doubling dilution from 1.0 to 0.50, 0.25 and 0.125 mol dm⁻³, moving 5 cm³ and adding 5 cm³ water each time. A bar shows 10 cm³ of stock plus 40 cm³ of water makes 50 cm³ of 0.20." loading="lazy">
+  <figcaption>A serial dilution uses the same factor at every step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--05-colony-count.webp" width="900" height="830" alt="A tenfold series (1 cm³ plus 9 cm³ diluent) reaches 10⁻⁴. 0.1 cm³ spread on agar gives 36 colonies, so 360 per cm³ in the diluted sample and 3.6 x 10⁶ per cm³ in the original culture." loading="lazy">
+  <figcaption>Divide the colony count by the volume plated, then by the dilution factor.</figcaption>
+</figure>
+
+
 ## 1.2.2(d) The light microscope and graticule
 
 Start on low power with coarse then fine focus, then move to high power using fine focus only. Use a thin section and lower the cover slip at an angle to avoid bubbles. Total magnification = eyepiece × objective.
@@ -103,6 +125,17 @@ Start on low power with coarse then fine focus, then move to high power using fi
 An eyepiece graticule has arbitrary divisions. Calibrate it for each objective against a stage micrometer, then convert.
 
 *Worked example.* At ×10, 100 µm on the stage micrometer spans 20 graticule divisions: 1 division = 5.0 µm. At ×40, 100 µm spans 80 divisions: 1 division = 1.25 µm. A cell is 14 divisions long at ×40, so its length is 14 × 1.25 = 17.5 µm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--03-graticule-magnification.webp" width="900" height="1060" alt="Rulers show 20 graticule divisions spanning 100 µm at x10 (5.0 µm each) and 80 divisions at x40 (1.25 µm each). A cell 14 divisions long at x40 is 17.5 µm. A drawing 52.5 mm long gives magnification 52.5 / 0.0175 = x3000." loading="lazy">
+  <figcaption>Calibrate the graticule for each objective, then convert and use consistent units for magnification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--01-slide-method.webp" width="900" height="1010" alt="Four panels show a drop on a slide, epidermis laid on the drop with forceps, a cover slip lowered at an angle supported by a needle, and the shortest objective lens used first with the large then small focus wheel." loading="lazy">
+  <figcaption>Make a temporary slide by lowering the cover slip slowly, then focus from the shortest objective.</figcaption>
+</figure>
+
 
 ## 1.2.2(e) Scientific drawings
 
@@ -124,6 +157,17 @@ A low-power plan shows tissue regions, never single cells; a high-power drawing 
 
 *Worked example.* Sample A is Benedict's negative, but gives brick red after acid hydrolysis and neutralising, so it contains a non-reducing sugar. Colour is only a rough guide to amount.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--08-non-reducing-sugar-test.webp" width="900" height="1020" alt="Three tubes: Benedict test stays blue; after acid boil and neutralising it is colourless; Benedict again gives brick red, so non-reducing sugar. Positive colours for reducing sugar, starch, protein and lipid are shown below." loading="lazy">
+  <figcaption>A non-reducing sugar only gives a Benedict colour change after acid hydrolysis and neutralising.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
+</figure>
+
+
 ## 1.2.2(g) Chromatography and electrophoresis
 
 **Chromatography (paper or thin layer).** Draw the baseline in pencil, spot on it, stand the paper in solvent below the baseline, cover the tank, and mark the solvent front before it reaches the top. Colourless compounds need a locating agent, such as ninhydrin for amino acids (fume cupboard).
@@ -135,6 +179,22 @@ Rf = spot distance from baseline / solvent front distance from baseline
 *Worked example.* Front at 9.5 cm; spots at 2.85, 5.70 and 7.60 cm give Rf of 0.30, 0.60 and 0.80. Compare with known standards on the same sheet, because Rf depends on the solvent.
 
 **Electrophoresis.** Samples go into wells in a gel in buffer and a current is applied. Molecules separate by charge and size. DNA is negatively charged (phosphate groups), so it travels toward the positive electrode, and small fragments pass through the gel faster, ending further along. Compare unknown bands with a ladder of known sizes. Wear gloves for stains.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--06-chromatography-rf.webp" width="900" height="980" alt="A chromatography strip stands in solvent below a pencil baseline. The solvent front is 9.5 cm from the baseline and spots at 2.85, 5.70 and 7.60 cm give Rf values 0.30, 0.60 and 0.80. Rf has no units." loading="lazy">
+  <figcaption>Rf is the spot distance divided by the solvent front distance, both from the baseline.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--09-electrophoresis-gel.webp" width="900" height="1060" alt="A gel with wells near the negative electrode and a ladder plus three samples. DNA is negative, moves toward the positive electrode and smaller fragments travel further; bands are compared with the ladder." loading="lazy">
+  <figcaption>DNA runs to the positive electrode and small fragments go furthest; compare bands with a ladder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--06-gel-electrophoresis.webp" width="900" height="1109" alt="An agarose gel has wells at the negative end and DNA runs towards the positive electrode. Smaller fragments travel further. Linear 6000 bp DNA cut twice gives 3300, 1500 and 1200 bp bands; a 5000 bp circle cut twice gives 2300 and 2700 bp bands." loading="lazy">
+  <figcaption>Negatively charged DNA runs to the anode, with smaller fragments travelling further.</figcaption>
+</figure>
+
 
 ## 1.2.2(h) Safe and ethical use of organisms
 
@@ -157,11 +217,28 @@ The aim is to keep contaminants out and your culture in. Disinfect the bench, fl
 
 *Worked example.* Antibiotic discs on a lawn: A gives a clear zone radius 9 mm, B gives 6 mm. Area = πr²: A = 254 mm², B = 113 mm². A's zone is 2.25 times the area. A disc with no antibiotic is the control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--10-antibiotic-disc-zones.webp" width="900" height="1050" alt="A Petri dish with a bacterial lawn and discs with clear zones of radius 9 mm (A) and 6 mm (B) and a control disc with none. Areas are 254 and 113 mm2, so A clears 2.25 times the area." loading="lazy">
+  <figcaption>Compare clear zones by area (pi r squared), with a no-antibiotic disc as the control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--09-aseptic-technique.webp" width="900" height="1140" alt="Six panels: wipe the bench with alcohol; autoclave glassware and media at about 121 degrees for 15 minutes; flame the loop red hot and cool it in air; work near a Bunsen flame whose updraught carries microbes away; lift the lid only slightly and briefly; hold the lid on with a few short pieces of tape." loading="lazy">
+  <figcaption>Aseptic technique keeps unwanted microorganisms out of a culture.</figcaption>
+</figure>
+
+
 ## 1.2.2(j) Dissection
 
 Use a sharp scalpel on a tile, cut away from your body and wear gloves and eye protection. Plant organs such as a stem or root are cut into thin sections. Identify structures before cutting, dispose of tissue as instructed and disinfect surfaces.
 
 *Worked example.* In a mammalian heart the left ventricle wall is 12.5 mm and the right is 4.0 mm. Ratio = 3.1 : 1. The left side pumps blood around the body at higher pressure, so a thicker wall fits its function. A ruler gives ±1 mm on 4.0 mm (25 %), so the ratio is approximate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--12-heart-wall-ratio.webp" width="900" height="940" alt="Two ventricle cross-sections to scale: left wall 12.5 mm, right wall 4.0 mm, ratio 3.1 to 1, matching higher pressure on the left. A 1 mm ruler error on 4.0 mm is 25 percent." loading="lazy">
+  <figcaption>The left ventricle wall is about three times thicker than the right, fitting its higher pressure.</figcaption>
+</figure>
+
 
 ## 1.2.2(k) Fieldwork sampling
 
@@ -173,6 +250,22 @@ Record abiotic factors such as light at each point, and take enough samples for 
 *Worked example.* Ten 0.25 m² quadrats gave counts 6, 3, 0, 4, 7, 2, 5, 1, 4 and 8. Mean = 4.0 per quadrat = 16 per m². A field of 600 m² holds about 9600 plants.
 
 For mobile animals, capture–mark–recapture: N = (M × n) / m, where M is the number first marked, n the second catch and m the marked animals recaptured. With 45, 38 and 9, N = 190. It assumes no births, deaths or migration, and harmless marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--07-quadrat-scaling.webp" width="900" height="780" alt="Ten 0.25 m² quadrats contain 6, 3, 0, 4, 7, 2, 5, 1, 4 and 8 plants, total 40. The mean is 4.0 per quadrat, 16 per m², so a 600 m² field holds about 9600 plants." loading="lazy">
+  <figcaption>Find the mean count, convert to per m², then multiply by the field area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--11-capture-mark-recapture-190.webp" width="900" height="1180" alt="A grid of 190 animals with 45 marked and a second catch of 38 containing 9 marked. N = 45 x 38 / 9 = 190, assuming no births, deaths or migration." loading="lazy">
+  <figcaption>The marked fraction in the second catch estimates the marked fraction of the whole population.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
+</figure>
+
 
 ## 1.2.2(l) ICT
 

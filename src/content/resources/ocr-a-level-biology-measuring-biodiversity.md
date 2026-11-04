@@ -36,6 +36,17 @@ Use it with the [revision notes](/resources/ocr-a-level-biology-measuring-biodiv
 
 The specification says that Simpson's formula will be provided where needed in assessments and does not need to be recalled. You still need to substitute into it accurately and say what the answer means.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
+
 ## 4.2.1(a) Levels of biodiversity
 
 Biodiversity is the variety and complexity of life. It is an important indicator in the study of habitats. The specification names three levels.
@@ -87,6 +98,17 @@ Thirty random quadrats, each 0.25 m², were placed in a rectangular field of 400
 3. Estimated population = 20.8 × 4000 = **83 200 plants**.
 
 The answer is an estimate. It assumes the quadrats were random and the plants are spread evenly enough for the mean to represent the field. Data from several samples can also be compared using a statistical test, such as a Student's t-test for the difference between two means, or Spearman's rank correlation for change along a transect. Standard deviation shows how variable the counts were.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--07-spearman-correlation.webp" width="900" height="1050" alt="A scatter of eight quadrats shows moss cover falling as light rises, with a downward trend line. On a scale from -1 to +1, rs = -0.952 lies beyond the critical value 0.738 for n = 8 at p = 0.05, so the negative correlation is significant, but it does not show cause." loading="lazy">
+  <figcaption>A significant negative correlation, which still does not prove cause.</figcaption>
+</figure>
+
 
 ## 4.2.1(c) Species richness and species evenness
 
@@ -152,6 +174,12 @@ Give the value to a sensible number of significant figures. Say what D shows abo
 
 Limits to bear in mind: D depends on the quality of the sampling, a small sample gives an unreliable value, D describes the sampled habitat at one time, and it does not say which species matter most. To compare habitats fairly, sample them in the same way and with similar effort.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+</figure>
+
+
 ## 4.2.1(e) Genetic biodiversity
 
 Genetic diversity is the variety of alleles present in a population or species. A gene locus is **polymorphic** if more than one allele of the gene is found in the population. One simple measure is the proportion of polymorphic gene loci:
@@ -172,6 +200,17 @@ Several years later, with a smaller breeding group, only 12 of the same 60 loci 
 ### Interpreting genetic diversity
 
 A small isolated population tends to lose alleles by chance, and mating between relatives (inbreeding) becomes more likely. This reduces the variety of alleles. A population with low genetic diversity has less variation for natural selection or breeders to work on, so it is less able to adapt to a change such as a new disease. In captive breeding, keeping pedigree records helps managers choose pairings that avoid mating between close relatives and keep as many alleles as possible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
+  <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1210" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">
+  <figcaption>Proportion of polymorphic loci = polymorphic loci / total loci.</figcaption>
+</figure>
+
 
 ## Common errors
 

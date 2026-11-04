@@ -53,6 +53,12 @@ Because the π-bond depends on the two p-orbitals staying parallel, the carbons 
 
 Each carbon in C=C has three regions of electron density: two single bonds and the double bond, which counts as one region. These repel as far apart as possible, so the arrangement around each carbon is **trigonal planar** with bond angles of about **120°**. The two carbons and the four atoms attached to them all lie in one plane.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--01-sigma-pi-bond.webp" width="900" height="1080" alt="Top view of ethene with computed 120 degree angles in one plane; edge-on view with a sigma bond on the axis and pi clouds above and below; bars show C=C 612 = sigma 347 + pi 265 kJ/mol (Edexcel data; OCR 614 and 348)." loading="lazy">
+  <figcaption>The C=C is one σ bond plus a weaker π bond, in a flat trigonal planar arrangement (Edexcel, OCR).</figcaption>
+</figure>
+
+
 ## 4.1.3(c) and (d): Stereoisomerism in alkenes
 
 **Stereoisomers** share one structural formula, yet their atoms are arranged differently in space.
@@ -73,6 +79,12 @@ To name an isomer E or Z, rank the two groups on each carbon separately.
 1. Look at the atom joined directly to the C=C carbon. Higher atomic number means higher priority. So Br > Cl > O > C > H.
 2. If those atoms are the same, move out one bond and compare the sets of atoms attached there, highest first. Ethyl (C attached to C, H, H) beats methyl (C attached to H, H, H).
 3. **Z** (zusammen): the higher-priority groups are on the same side. **E** (entgegen): they are on opposite sides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--02-ez-isomers.webp" width="900" height="1060" alt="Z and E isomers of 2-chlorobut-2-ene drawn with 120 degree geometry, priority 1 and 2 at each carbon by atomic number (Cl 17, C 6, H 1), plus pent-2-ene (has E/Z) and pent-1-ene (does not)." loading="lazy">
+  <figcaption>Rank groups by atomic number; same side is Z, opposite is E (Edexcel, OCR only).</figcaption>
+</figure>
+
 
 ### Worked example 1: when cis is not Z
 
@@ -124,6 +136,27 @@ For example, but-2-ene with steam: CH₃CH=CHCH₃ + H₂O → CH₃CH(OH)CH₂C
 
 Shake the sample with bromine water. If the sample contains C=C, the orange colour disappears and the mixture becomes **colourless**, because bromine adds across the double bond. A saturated compound leaves the orange colour unchanged. Record "orange to colourless", not "clear", which describes transparency rather than colour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--03-addition-reactions.webp" width="900" height="1210" alt="Ethene and its six addition products drawn bond by bond: ethane (H2, Ni), 1,2-dibromoethane (Br2), bromoethane (HBr), ethanol (steam, H3PO4), ethyl hydrogensulfate (cold conc. H2SO4) and ethane-1,2-diol (acidified KMnO4). Each card is tagged with the boards that teach it." loading="lazy">
+  <figcaption>Addition across C=C gives a saturated product; the reagent decides which.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--04-bromine-test.webp" width="900" height="975" alt="Two tubes of orange bromine water shaken with an alkene (turns colourless, Br2 used up, dibromoethane shown) and an alkane (stays orange, no reaction)." loading="lazy">
+  <figcaption>An alkene decolourises bromine water; an alkane leaves it orange.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--05-hbr-mechanism.webp" width="900" height="923" alt="Curly arrow 1 from the C=C bond to the delta-plus H, arrow 2 from the H-Br bond to Br, giving CH3CH2+ and Br-; arrow 3 from a Br- lone pair to C+ gives bromoethane." loading="lazy">
+  <figcaption>Three curly arrows: from the C=C, from the H-Br bond, and from a bromide lone pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--06-br2-mechanism.webp" width="900" height="1287" alt="The pi electrons repel the Br-Br electrons giving an induced dipole; arrows from C=C to the delta-plus Br and from Br-Br to the other Br make BrCH2CH2+ and Br-; a lone pair on Br- then attacks C+ to give 1,2-dibromoethane. OCR also accepts a bromonium ion." loading="lazy">
+  <figcaption>Br2 becomes polar near the C=C, then adds by the same two-step pattern (OCR also accepts a bromonium ion).</figcaption>
+</figure>
+
+
 ## 4.1.3(g) and (h): Electrophiles and the mechanism
 
 An **electrophile** is an **electron pair acceptor**. It is attracted to the π-bond's electron density. The δ+ hydrogen in H–Br and a δ+ bromine in polarised Br₂ both act as electrophiles.
@@ -155,6 +188,12 @@ When H–X adds to an unsymmetrical alkene, two carbocations are possible. The m
 3. The tertiary carbocation is more stable, so it forms more often.
 4. Major product: **2-bromo-2-methylbutane**. Minor product: 1-bromo-2-methylbutane.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--07-major-minor-product.webp" width="900" height="1236" alt="H adds to C1 giving a secondary carbocation (two alkyl groups) and 2-bromopropane as major product; H adds to C2 giving a primary carbocation (one alkyl group) and 1-bromopropane as minor. Bars show stability rising primary &lt; secondary &lt; tertiary." loading="lazy">
+  <figcaption>The more stable secondary carbocation forms faster, so 2-bromopropane is the major product.</figcaption>
+</figure>
+
+
 ## 4.1.3(j): Addition polymers
 
 Many alkene monomers join through their C=C bonds to form a long saturated chain.
@@ -173,6 +212,12 @@ A section reads –CH(CH₃)–CH(CH₃)–CH(CH₃)–CH(CH₃)–.
 1. Every main-chain carbon is the same, so the repeat unit is two adjacent ones: –CH(CH₃)–CH(CH₃)–.
 2. Put C=C between them and remove the extension bonds: CH₃CH=CHCH₃.
 3. Monomer: **but-2-ene**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--08-addition-polymers.webp" width="900" height="1160" alt="Chloroethene opens its C=C to give the bracketed repeat unit with extension bonds and n; a chain section shows the repeating two-carbon unit; a poly(2-methylpropene) section is reversed to the monomer by putting C=C back." loading="lazy">
+  <figcaption>Open the C=C, keep substituents, add extension bonds and brackets; reverse by finding the repeating pair of carbons.</figcaption>
+</figure>
+
 
 ## 4.1.3(k) and (l): Waste polymers and alternatives
 

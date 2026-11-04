@@ -55,6 +55,12 @@ Conversions: multiply degrees by π/180 to get radians, and multiply radians by 
 
 Using degrees in a formula that needs radians is a common source of wrong answers in this topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--01-radian-omega-v.webp" width="900" height="1160" alt="A circle with a 1 radian sector: the arc along the edge is as long as the radius and the angle is about 57.3 degrees, with quarter, half and three-quarter turns marked as pi/2, pi, 3pi/2 and 2pi. Below, a turntable at 45 rpm has omega 4.71 rad/s everywhere; a point at 0.10 m moves at 0.47 m/s and a point at 0.20 m at 0.94 m/s, so v = omega r." loading="lazy">
+  <figcaption>One radian is the angle whose arc equals the radius, and at the same ω a point further out moves faster.</figcaption>
+</figure>
+
+
 ## 5.2.1(b) Period and frequency
 
 The **period** T is the time taken by a single revolution, in seconds. The **frequency** f is the number of revolutions per second, in hertz (Hz). They are linked by
@@ -62,6 +68,12 @@ The **period** T is the time taken by a single revolution, in seconds. The **fre
 f = 1 / T
 
 Divide revolutions per minute by 60 to get hertz.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--08-damping-resonance.webp" width="900" height="1110" alt="Top: displacement against time for light, critical and heavy damping, with a dashed envelope on the light-damping curve. Bottom: amplitude of a forced oscillation against driving frequency over natural frequency; light damping gives a tall sharp peak near f0 and heavy damping a lower, broader peak at slightly lower frequency." loading="lazy">
+  <figcaption>Damping removes energy; resonance is largest when the driving frequency matches the natural frequency, and damping flattens it.</figcaption>
+</figure>
+
 
 ## 5.2.1(c) Angular velocity
 
@@ -84,6 +96,12 @@ T = 1/f = 1.33 s
 T = 3600 s, so ω = 2π/3600 = 1.75 × 10⁻³ rad s⁻¹.
 v = ωr = 1.75 × 10⁻³ × 1.8 = 3.1 × 10⁻³ m s⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--06-shm-graphs.webp" width="900" height="1110" alt="Three stacked graphs over one period for amplitude 0.050 m and omega 4.0 per second: x is a cosine, v a negative sine with maximum 0.20 m/s a quarter cycle ahead of x, and a a negative cosine with maximum 0.80 m/s^2 in antiphase with x. Dotted lines mark quarter periods." loading="lazy">
+  <figcaption>v leads x by a quarter cycle and a is in antiphase with x.</figcaption>
+</figure>
+
+
 ## 5.2.2(a) Why a force is needed
 
 Velocity is a vector. An object going round a circle at constant speed changes direction all the time, so it accelerates, and by Newton's second law a net force must act.
@@ -104,6 +122,12 @@ The force and the acceleration point towards the centre. If the force vanishes, 
 
 On a free-body diagram, draw the real forces only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--07-shm-energy.webp" width="900" height="1080" alt="For a 0.250 kg oscillator with A 0.080 m and f 1.8 Hz the total energy is 0.102 J. Against displacement, Ep is an upright parabola and Ek an inverted parabola under a flat total line, crossing at plus and minus A over root 2. Against time each energy completes two cycles per oscillation and they are in antiphase." loading="lazy">
+  <figcaption>Energy swaps between kinetic and potential, with the total constant when there is no damping.</figcaption>
+</figure>
+
+
 ## 5.2.2(b) Speed in a circle: v = ωr
 
 In one period the object travels the circumference 2πr, so
@@ -115,6 +139,12 @@ With ω = 2π/T this gives
 v = ωr
 
 The speed is constant but the velocity, along the tangent, keeps changing direction. Every point on a rigid spinning disc has the same ω and T, but a point at a larger radius travels a longer circumference in the same time, so it has a greater speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--04-vertical-circle.webp" width="900" height="810" alt="A 0.50 kg ball on a 0.80 m string. At the top (4.0 m/s) tension 5.1 N and weight 4.9 N both point down; at the bottom (6.9 m/s) tension 34.5 N points up and weight 4.9 N down, arrows to scale. The bottom tension exceeds the top by 6mg = 29.4 N, and the minimum speed at the top (T = 0) is sqrt(gr) = 2.8 m/s." loading="lazy">
+  <figcaption>Tension is least at the top and greatest at the bottom, differing by 6mg for a freely moving ball.</figcaption>
+</figure>
+
 
 ## 5.2.2(c) Centripetal acceleration
 
@@ -133,6 +163,17 @@ Use v²/r when you have speed and radius, and ω²r when you have period, freque
 f = 30/60 = 0.50 Hz, so ω = 2π × 0.50 = 3.14 rad s⁻¹.
 a = ω²r = 3.14² × 2.2 = 21.7 m s⁻² (about 2.2 times the acceleration of free fall, using g = 9.81 m s⁻²).
 F = ma = 60 × 21.7 = 1.3 × 10³ N, provided by the wall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--02-centripetal-acceleration.webp" width="900" height="710" alt="Balls on a circle have tangent velocity arrows of equal length and acceleration arrows pointing to the centre, at right angles to the velocity. A vector triangle shows v1 and v2 and their difference delta v pointing towards the centre. A dashed line shows a ball moving straight on if the force is removed." loading="lazy">
+  <figcaption>Speed is constant but the velocity turns, so the change in velocity and the acceleration point towards the centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--05-shm-restoring-force.webp" width="900" height="1000" alt="A 0.40 kg mass on a 25 N/m spring at x = -0.050 m, 0 and +0.050 m with restoring force arrows to scale (1.25 N towards equilibrium, zero at equilibrium). An acceleration-displacement graph is a straight line through the origin with gradient -omega squared = -62.5 per second squared, so omega squared = k/m and T = 0.795 s." loading="lazy">
+  <figcaption>The restoring force and acceleration are proportional to displacement and opposite to it.</figcaption>
+</figure>
+
 
 ## 5.2.2(d)(i) Centripetal force
 
@@ -153,6 +194,12 @@ T = 2π/ω = 0.31 s.
 The tension equals the weight of the hanging mass: F = 0.50 × 9.81 = 4.905 N.
 v² = Fr/m = (4.905 × 0.40)/0.20 = 9.81, so v = 3.13 m s⁻¹.
 ω = v/r = 7.83 rad s⁻¹, so T = 2π/ω = 0.80 s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--03-centripetal-force-sources.webp" width="900" height="1090" alt="Four top-view pictures: a bung on a string (tension), a coin on a turntable (friction), a rider in a spinning drum (push of the wall) and a satellite (gravity). In each the real force points to the centre and the velocity is tangent. The resultant is mv^2/r = m omega^2 r." loading="lazy">
+  <figcaption>Centripetal force is not an extra force: it is the real force or resultant pointing to the centre.</figcaption>
+</figure>
+
 
 ## 5.2.2(d)(ii) The whirling bung investigation
 

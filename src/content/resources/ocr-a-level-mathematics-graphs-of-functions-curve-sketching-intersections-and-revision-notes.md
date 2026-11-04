@@ -37,6 +37,12 @@ Related pages: the [course hub](/boards/ocr/a-level/mathematics/), the [printabl
 | Intersection | A point lying on both graphs; its x-coordinate solves f(x) = g(x) |
 | Proportional | y = k f(x) for a constant k |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--03-tracking-points.webp" width="900" height="1050" alt="The cubic x^2(x-3) and the curve y = -2f(x+1)+5 with gold arrows carrying (0,0), (2,-4) and (3,0) to (-1,5), (1,13) and (2,5). The y-intercept (0,9) is marked separately because it is found from the new equation." loading="lazy">
+  <figcaption>Track each key point through the map (x, y) to (x-1, -2y+5).</figcaption>
+</figure>
+
+
 ## Sketching a polynomial (1.02n)
 
 Method in steps:
@@ -62,6 +68,22 @@ Roots: −1 (touches) and 3 (crosses). y-intercept: (1)(−3) = −3. Positive c
 
 **Finding an equation from a sketch.** Write the factorised form with an unknown constant k, then use one known point (often the y-intercept) to find k.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--02-reflections.webp" width="900" height="880" alt="y = -f(x) reflects the cubic in the x-axis so the maximum becomes a minimum and vice versa, while (3, 0) stays put. y = f(-x) reflects in the y-axis so the minimum moves to (-2, -4) and is still a minimum." loading="lazy">
+  <figcaption>Reflections are stretches with scale factor -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--05-two-routes-f2x-1.webp" width="900" height="1110" alt="The curve y = f(2x-1) against the dashed cubic, with roots at 1/2 and 2 and a minimum at (3/2,-4). Two number lines follow the root x = 3: stretch by 1/2 then translate right 1/2, or translate right 1 then stretch by 1/2; both reach 2." loading="lazy">
+  <figcaption>The same transformation can be built two ways, so state the order with the number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--06-sketching-polynomials.webp" width="900" height="1230" alt="Three small graphs show a linear factor crossing, a squared factor touching and a cubed factor flattening as it crosses. Below, y = (2-x)(x+1)^3 is sketched with the flat point (-1,0), root (2,0), y-intercept (0,2) and maximum (5/4, 2187/256)." loading="lazy">
+  <figcaption>Odd powers cross the axis, even powers touch it.</figcaption>
+</figure>
+
+
 ## Reciprocal graphs (1.02o)
 
 | | y = a/x | y = a/x² |
@@ -73,6 +95,12 @@ Roots: −1 (touches) and 3 (crosses). y-intercept: (1)(−3) = −3. Positive c
 | Symmetry | Half-turn about the origin | Mirror image in the y-axis |
 
 For y = a/(x − p) the vertical asymptote moves to x = p. The horizontal asymptote is still y = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--08-reciprocal-shapes.webp" width="900" height="1190" alt="Four graphs: y = 2/x in quadrants 1 and 3, y = -2/x in quadrants 2 and 4, y = 2/x^2 with both branches above the axis and y = -2/x^2 with both below. The axes are asymptotes and (1, a) fixes the scale." loading="lazy">
+  <figcaption>Both axes are asymptotes of a/x and a/x^2.</figcaption>
+</figure>
+
 
 ## Algebra and graphs together (1.02p, 1.02q)
 
@@ -100,6 +128,12 @@ Method in steps:
 3. For f(x) > g(x), take the x-values where the graph of f is above the graph of g. For f(x) < g(x), take where it is below.
 4. Check one value in each interval.
 5. Exclude any x-value where a graph is undefined, such as x = 0 for a/x.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--07-inequalities-from-graphs.webp" width="900" height="1110" alt="The cubic y = (x+2)(x-1)^2 and the line y = 4(x-1) meet at x = -3, 1 and 2. Shaded bands show where the cubic is above the line: -3 &lt; x &lt; 1 and x &gt; 2, repeated on a number line." loading="lazy">
+  <figcaption>Read inequalities from where one graph lies above the other.</figcaption>
+</figure>
+
 
 ## Curves you may be asked to intersect
 
@@ -131,6 +165,12 @@ To count solutions, ask where each pair of curves can possibly meet. A bounded c
 Method in steps: write the equation with k, substitute the known pair to find k, then use the full equation.
 
 To test a relationship, plot y against xⁿ (or against 1/xⁿ). A straight line through the origin shows proportion, and its gradient is k. A line with a non-zero intercept is linear, not proportional.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--09-testing-proportionality.webp" width="900" height="1070" alt="The points (1,4), (2,32), (3,108), (4,256) lie on a curve when y is plotted against x but on a straight line through the origin of gradient 4 against x^3. A table shows y/x^2 varies while y/x^3 is always 4." loading="lazy">
+  <figcaption>A straight line through the origin confirms y is proportional to x^n; its gradient is k.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -177,6 +217,12 @@ To test a relationship, plot y against xⁿ (or against 1/xⁿ). A straight line
 - Giving an inequality answer without checking one value from each interval.
 - Calling a linear graph with an intercept a direct proportion.
 - Stopping at "three intersections" without saying that this means three real solutions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--04-asymptotes-move.webp" width="900" height="1300" alt="Top: y = 1/x becomes y = 4/(x+3)-2 with asymptotes x = -3 and y = -2 and intercepts (-1,0) and (0,-2/3). Bottom: y = 3^x becomes y = 5-2x3^x with asymptote y = 5, y-intercept (0,3) and x-intercept about 0.83." loading="lazy">
+  <figcaption>Asymptotes are transformed like any other feature of the graph.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

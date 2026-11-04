@@ -49,6 +49,12 @@ A **saprobiont** is an organism, usually a fungus or a bacterium, that feeds on 
 
 Two points matter for recycling. Some of the products leak into the soil and are available to other organisms. And when the saprobiont respires, it releases carbon dioxide and mineral ions such as ammonium and phosphate. This is **decomposition**: dead organic compounds are broken down and their elements return to the environment as inorganic ions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--06-carbon-cycle.webp" width="900" height="1230" alt="Producers fix carbon dioxide by photosynthesis and carbon passes along food chains. Respiration by all organisms and decomposition return carbon dioxide; combustion releases it quickly, fossilisation stores carbon for very long periods, and the oceans dissolve carbon dioxide and form shells and limestone." loading="lazy">
+  <figcaption>Carbon moves between air, organisms, fossil stores and the sea.</figcaption>
+</figure>
+
+
 ## Mycorrhizae
 
 A **mycorrhiza** is a mutualistic association between a fungus and the root of a plant. Fungal hyphae wrap around, or grow into, the root.
@@ -66,6 +72,12 @@ Percentage increase in dry mass: (2.4 − 1.5) ÷ 1.5 × 100 = **60%**.
 Phosphorus taken up: 4.2 ÷ 1.4 = 3 times as much, an increase of **200%**.
 
 Phosphorus uptake rose much more than dry mass. Phosphorus per gram of dry mass was 4.2 ÷ 2.4 = 1.75 mg g⁻¹ with the fungus and 1.4 ÷ 1.5 = 0.93 mg g⁻¹ without. The infected plants take up more phosphate than their growth needs, so they are better supplied. A correct conclusion is that the fungus increases phosphate uptake and this is associated with greater growth. A causal claim needs the sterile soil, the equal ages and the same conditions as controls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--08-population-growth.webp" width="900" height="900" alt="Counts of a mammal population on a predator-free island rise from 20 to about 200 in an S-shaped curve. The greatest yearly increase (+45) is between years 3 and 4; growth then slows and levels off at the carrying capacity. Population change equals births plus immigration minus deaths plus emigration." loading="lazy">
+  <figcaption>Limiting factors make growth level off at the carrying capacity.</figcaption>
+</figure>
+
 
 ## The nitrogen cycle
 
@@ -92,6 +104,12 @@ A field of wheat has these yearly nitrogen flows in kg per hectare (kg ha⁻¹ y
 Total input = 40 + 120 = 160. Total output = 110 + 35 + 15 = 160. The budget is balanced, so the soil nitrogen store stays the same.
 
 Harvest removes 110 ÷ 160 × 100 = **68.75%, or 69%**, of the input. Leaching equals 35 ÷ 120 × 100 = 29% of the fertiliser applied. If the farmer stopped using fertiliser, the input would fall to 40 while the crop still removed up to 110, so the soil store would run down and yield would fall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--05-nitrogen-cycle.webp" width="900" height="1200" alt="Nitrogen gas is fixed to ammonium by bacteria. Dead matter and urea are ammonified to ammonium by saprobionts, nitrifying bacteria oxidise ammonium to nitrite and nitrate, and plants take up nitrate. Denitrifying bacteria in waterlogged anaerobic soil return nitrogen to the air." loading="lazy">
+  <figcaption>Five bacterial processes move nitrogen between air, soil and living things.</figcaption>
+</figure>
+
 
 ## The phosphorus cycle
 
@@ -157,6 +175,12 @@ The oxygen fall lags behind the nitrate rise because the algae must grow, die an
 ### Worked example 5: planning a mineral investigation
 
 To test the effect of nitrate on plant growth you would grow identical seedlings in culture solutions that differ only in nitrate concentration. Control the volume of solution, light, temperature and seedling mass. Include a solution with no nitrate. Dry the plants to constant mass and compare. With five plants in each group, the mean dry mass was 3.1 g with nitrate and 1.9 g without. The difference of 1.2 g is 63% of the no-nitrate mean. A statistical test would show whether it is significant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--07-eutrophication.webp" width="900" height="1110" alt="Fertiliser nitrate and phosphate leach into a pond. Algae bloom and shade out plants; dead material feeds bacteria whose respiration lowers oxygen and fish die. Example data: nitrate +277%, algae x34.5, oxygen -73%." loading="lazy">
+  <figcaption>Leached ions trigger an algal bloom and then oxygen loss through bacterial respiration.</figcaption>
+</figure>
+
 
 ## Common errors
 

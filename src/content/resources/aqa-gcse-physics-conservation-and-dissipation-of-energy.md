@@ -74,6 +74,17 @@ meaning it becomes stored in less useful ways and spreads out into the
 surroundings. This is often described as "wasted" energy — not lost, but
 harder to make use of again.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--03-sankey-lift.webp" width="900" height="840" alt="A Sankey diagram drawn to scale: 200 J from a battery splits into 147 J gravitational potential energy and 53 J thermal and sound." loading="lazy">
+  <figcaption>Energy in equals energy out: 200 J = 147 J + 53 J.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--08-sankey-diagram.webp" width="900" height="1000" alt="A Sankey diagram: 100 J enters; 10 J, 50 J and 5 J are wasted at the boiler, turbine and generator, leaving 35 J electrical. Efficiency is 35 / 100 = 35%." loading="lazy">
+  <figcaption>A Sankey diagram shows energy flow with arrow width in proportion to energy; efficiency = useful / total.</figcaption>
+</figure>
+
+
 ## Reducing unwanted energy transfer
 
 Unwanted energy transfer can be reduced by **lubrication** (reducing
@@ -105,6 +116,37 @@ time intervals as it cools. The material producing the **smallest
 temperature drop over the same time** is the most effective insulator —
 comparing several materials, or the same material at different
 thicknesses, this way is what the practical tests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-conservation-and-dissipation-of-energy--06-insulation-cooling-practical.webp" width="900" height="1035" alt="Three identical beakers of hot water: unwrapped, thin wrap, thick wrap. A graph shows temperature over 30 minutes. The thick wrap drops least (about 24 degrees), the thin wrap about 38 and the unwrapped beaker about 52. The smallest drop marks the best insulator." loading="lazy">
+  <figcaption>The smallest temperature drop over the same time shows the most effective insulator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-conservation-and-dissipation-of-energy--07-wall-conduction-rate.webp" width="900" height="1085" alt="Three walls, hot inside and cold outside, with arrows showing energy transferred. A thin high-conductivity wall transfers at rate 8, a wall twice as thick at rate 4, and a wall twice as thick with a quarter of the conductivity at rate 1." loading="lazy">
+  <figcaption>Energy transfer through a wall falls with greater thickness and with lower thermal conductivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-conservation-and-dissipation-of-energy--02-streamlining-drag.webp" width="900" height="1200" alt="A boxy shape makes air pile up and swirl, giving a large drag force. A streamlined shape lets air flow smoothly round it, giving a small drag force and less energy dissipated." loading="lazy">
+  <figcaption>Streamlining reduces drag, so less energy is dissipated to the surroundings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--06-conduction-rods.webp" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
+  <figcaption>The pin on the best conductor falls first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--05-convection-current.webp" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
+  <figcaption>Heated water becomes less dense and rises; cooler, denser water sinks to replace it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss--09-lubrication-friction.webp" width="900" height="1060" alt="Two magnified views of sliding surfaces. Dry: bumps on the surfaces catch at contact points, so work is done against friction and energy is stored thermally. Oiled: an oil layer keeps the surfaces apart, so friction and the thermal store are smaller." loading="lazy">
+  <figcaption>A layer of oil keeps rubbing surfaces apart, so less input energy is stored thermally.</figcaption>
+</figure>
+
 
 ## Efficiency
 
@@ -143,6 +185,22 @@ power of 500 W and a useful output power of 400 W:
 efficiency = useful power output ÷ total power input
 efficiency = 400 ÷ 500 = 0.8 = 80%
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-conservation-and-dissipation-of-energy--01-efficiency-lamp-and-motor.webp" width="900" height="940" alt="Two Sankey-style bands drawn to scale. A lamp takes in 100 J, gives 20 J as light and 80 J as thermal energy, so efficiency is 20 percent. A motor takes in 500 W, gives 400 W useful and wastes 100 W, so efficiency is 80 percent." loading="lazy">
+  <figcaption>The lesson's lamp and motor examples drawn as bands whose widths show the shares.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-conservation-and-dissipation-of-energy--03-raising-efficiency.webp" width="900" height="930" alt="Two bars for 100 J of input. Before: 20 J useful, 80 J wasted. After reducing friction and unwanted heating: 30 J useful, 70 J wasted. Efficiency rises from 20 percent to 30 percent. Numbers are illustrative." loading="lazy">
+  <figcaption>Lubrication and insulation raise efficiency by cutting wasted energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--05-efficiency-sankey.webp" width="900" height="920" alt="Two Sankey diagrams with band widths in proportion. A motor takes in 500 J, 350 J is useful and 150 J wasted, so efficiency is 70%. A generator takes in 2000 W, 1600 W is useful and 400 W wasted, so efficiency is 80%." loading="lazy">
+  <figcaption>Efficiency is useful output divided by total input, times 100%.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -105,6 +105,17 @@ dS/dt = 8π(5)(−3/(25π)) = −4.8 cm² min⁻¹
 
 The negative signs show both quantities are decreasing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--01-chain-rule-sin3x.webp" width="900" height="738" alt="The graphs of sin x and sin 3x are drawn together. Because sin 3x oscillates three times as fast, its tangent at the origin has gradient 3 while the tangent to sin x has gradient 1. So d/dx (sin 3x) = 3 cos 3x: the outer derivative is multiplied by the rate of the inner function." loading="lazy">
+  <figcaption>The chain rule multiplies by 3 because the inside function 3x changes three times as fast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--02-related-rates-snowball.webp" width="900" height="844" alt="The radius of a snowball whose volume falls at 12 cm³ per minute is plotted against time. It starts at 5 cm, falls ever more steeply, and reaches 0 at about 43.6 minutes. The tangent at the start has gradient −3/(25π) ≈ −0.0382 cm per minute, and the surface area falls at 4.8 cm² per minute at that instant." loading="lazy">
+  <figcaption>Differentiating V = (4/3)πr³ with respect to t links dV/dt to dr/dt, giving dr/dt ≈ −0.0382 cm min⁻¹.</figcaption>
+</figure>
+
+
 ## 5.10 The second derivative
 
 Differentiate f′(x) again to get f′′(x), also written d²y/dx². It measures how the gradient is changing.
@@ -126,6 +137,12 @@ Concavity changes, so (2, 4) is a point of inflexion.
 ```
 
 **Interpreting in context.** If N(t) is the number of people who have heard a rumour, a point of inflexion where the curve changes from concave-up to concave-down is the moment the rumour is spreading fastest: dN/dt is at its greatest there.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--03-concavity-inflexion.webp" width="900" height="778" alt="The cubic is shaded copper where it is concave down (x &lt; 2) and teal where it is concave up (x &gt; 2). The local maximum (1, 6) has f″ = −6, the local minimum (3, 2) has f″ = 6, and the point of inflexion (2, 4) is where f″ = 0 and changes sign, with a tangent of gradient −3 that crosses the curve." loading="lazy">
+  <figcaption>A point of inflexion is where the second derivative changes sign, here at (2, 4).</figcaption>
+</figure>
+
 
 ## 5.11 Further integration
 
@@ -179,6 +196,12 @@ u = x³,  du = 3x² dx;  x = 0 → u = 0,  x = 1 → u = 1
 
 Change the limits to u-values, or substitute back to x before using the original limits. Never mix the two.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--04-substitution-same-area.webp" width="900" height="792" alt="Two graphs show the same shaded area. On the left, 3x²e^(x³) is integrated from x = 0 to 1; on the right, e^u is integrated from u = 0 to 1 after the substitution u = x³. Both areas equal e − 1 ≈ 1.72." loading="lazy">
+  <figcaption>Substitution turns an integral in x into an equal-area integral in u, with the limits changed.</figcaption>
+</figure>
+
+
 ## 5.12 Areas and volumes of revolution
 
 ### Area and negative integrals
@@ -229,6 +252,22 @@ x² = y
 V = π ∫₀⁹ y dy = π[y²/2]₀⁹ = 81π/2 ≈ 127 cm³
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--05-net-integral-vs-area.webp" width="900" height="764" alt="The parabola y = x² − 4x + 3 crosses the x-axis at x = 1 and x = 3. The region above the axis from 0 to 1 gives +4/3 and the region below the axis from 1 to 3 gives −4/3, so the net integral is 0 but the area is 4/3 + 4/3 = 8/3." loading="lazy">
+  <figcaption>A definite integral counts area below the axis as negative, so split at the roots to find the total area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--06-volume-about-x-axis.webp" width="900" height="818" alt="The region under y = e^(x/2) from x = 0 to 2 is shaded, with its reflection shown below the axis to suggest the solid. A thin vertical slice is a disc of radius y and area πy². Adding the discs gives V = π∫₀² eˣ dx = π(e² − 1) ≈ 20.1." loading="lazy">
+  <figcaption>Each thin slice of the solid is a disc of area πy², so V = π∫y² dx.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--07-bowl-about-y-axis.webp" width="900" height="878" alt="The region between y = x² and the y-axis up to y = 9 is shaded, with its mirror image in copper. A thin horizontal slice at y = 6 is a disc of radius x, where x² = y. The volume is π∫₀⁹ y dy = 81π/2 ≈ 127 cm³." loading="lazy">
+  <figcaption>About the y-axis, use y-limits and write x² in terms of y.</figcaption>
+</figure>
+
+
 ## 5.13 Kinematics
 
 For motion in a straight line:
@@ -268,6 +307,17 @@ The displacement is small because the particle goes back about 2.59 m and then f
 dv/ds = 2s
 a = v(dv/ds) = (s² + 1)(2s) = 5 × 4 = 20 m s⁻²
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--08-displacement-vs-distance.webp" width="900" height="1128" alt="Two graphs share a time axis from 0 to 5 s: displacement s above and velocity v = 3(t − 1)(t − 3) below. The particle is at rest at t = 1 and t = 3. The areas under v are +4, −4 and +20, so displacement is 20 m but total distance is 28 m. At t = 2.5 s, v = −2.25 and a = 3, so the particle is slowing down." loading="lazy">
+  <figcaption>Displacement adds the signed areas under v, but distance adds their sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-further-calculus-kinematics--09-back-then-forward.webp" width="900" height="800" alt="The velocity v = e^(0.5t) − 3 is negative until t = 2 ln 3 ≈ 2.20 s and positive after. The backward area is −2.59 and the forward area is +3.37, so displacement is 2e² − 14 ≈ 0.778 m while total distance is about 5.96 m." loading="lazy">
+  <figcaption>The particle moves back about 2.59 m then forward 3.37 m, so displacement is small but distance is larger.</figcaption>
+</figure>
+
 
 ## Common errors
 

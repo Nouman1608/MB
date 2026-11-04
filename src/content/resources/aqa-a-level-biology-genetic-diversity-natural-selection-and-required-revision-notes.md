@@ -33,6 +33,12 @@ These revision notes condense AQA A-level Biology (7402) section 3.4.4, *Genetic
 | Adaptation | A feature that increases an organism's chance of survival and reproduction in its environment |
 | Antibiotic resistance | The ability of bacteria to survive an antibiotic that would normally kill or stop them |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
+  <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
+</figure>
+
+
 ## Natural selection in five steps
 
 1. Variation exists in the population because of different alleles.
@@ -42,6 +48,12 @@ These revision notes condense AQA A-level Biology (7402) section 3.4.4, *Genetic
 5. Over many generations the allele frequency increases.
 
 **Genetic diversity matters** because a population with many alleles is more likely to contain individuals that survive a change in the environment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -71,6 +83,12 @@ These revision notes condense AQA A-level Biology (7402) section 3.4.4, *Genetic
 
 Worked reminder: a broth holds 5.0 × 10⁸ cells and 1 cell in 10⁶ carries a resistance allele. Resistant cells = 5.0 × 10⁸ × 10⁻⁶ = **500**. After the antibiotic kills the susceptible cells, these 500 are almost all that is left to divide, so they found the next population.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--04-antibiotic-resistance.webp" width="900" height="1100" alt="A rare bacterium already carries a resistance allele, the antibiotic kills the susceptible cells, and the survivors divide. A log-scale chart shows the resistant share rising from 0.001 to 0.0099, 0.091 and 0.50 over three doses that each kill 90 percent of susceptible cells." loading="lazy">
+  <figcaption>Antibiotics select for resistance alleles that mutation had already produced.</figcaption>
+</figure>
+
+
 ## Birth weight: method for an explanation
 
 - Very low birth mass: heat loss, and organs may be less developed, so higher mortality.
@@ -99,6 +117,12 @@ Adaptation and selection are major factors in evolution. Different environments 
 3. Decide the type of selection from what happens to the mean and range.
 4. Explain with the selection chain, using the context of the question.
 5. Note limitations: correlation is not proof of cause, and a small sample size reduces confidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
 
 ## Explaining change in an unfamiliar population
 
@@ -172,6 +196,17 @@ Aim: use aseptic techniques to investigate the effect of antimicrobial substance
 9. 0.301 / 0.903 = 0.333 h = **20 minutes**.
 10. Condensation does not drip on to the agar and disturb colonies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
+  <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Defining genetic diversity as the number of individuals or "variety" without alleles.
@@ -183,6 +218,17 @@ Aim: use aseptic techniques to investigate the effect of antimicrobial substance
 - Omitting the control or the controlled variables in the practical.
 - Treating log scale steps as equal additions.
 - Giving a general answer that does not use the organism in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

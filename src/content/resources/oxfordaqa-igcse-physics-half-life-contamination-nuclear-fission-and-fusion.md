@@ -79,6 +79,12 @@ A detector counts the radiation reaching it. Count rate is the number of counts 
 - Half-lives = 75 ÷ 25 = 3, so the corrected rate = 320 ÷ 8 = 40 counts per minute.
 - Detector reading = 40 + 20 = **60 counts per minute**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--01-bg-subtraction.webp" width="900" height="770" alt="Four bars show counts per minute. The detector starts at 340, which is 20 background plus 320 from the source. Subtracting background leaves 320, three halvings over 75 minutes leave 40, and adding the 20 background back gives a reading of 60 counts per minute." loading="lazy">
+  <figcaption>Subtract the background, halve the source counts once per half-life, then add the background back.</figcaption>
+</figure>
+
+
 ### Finding half-life from data
 
 Read the time for the corrected count rate to halve. Check with a second pair.
@@ -94,6 +100,12 @@ Read the time for the corrected count rate to halve. Check with a second pair.
 - Half-life = **10 minutes**.
 
 On a graph, draw a horizontal line at half the initial value, read across to the curve and then down to the time axis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--05-half-life-curve.webp" width="900" height="810" alt="A decay curve of count rate against time for half-life 8.0 days. The rate falls 1200, 600, 300, 150, 75 at 0, 8, 16, 24 and 32 days. After 24 days (three half-lives) it is 150 counts/s." loading="lazy">
+  <figcaption>The count rate halves after each half-life.</figcaption>
+</figure>
+
 
 ## 3.7.2 i: Contamination and irradiation
 
@@ -111,6 +123,17 @@ On a graph, draw a horizontal line at half the initial value, read across to the
 Because contaminating atoms can enter the body, the type of radiation matters. Alpha is strongly ionising and is absorbed within a short distance, so alpha-emitting atoms inside the body put all their energy into nearby cells. Alpha from a source outside the body is far less of a problem, as it travels only a short distance in air. Gamma is weakly ionising but penetrates, so it can reach the body from outside.
 
 Precautions for irradiation sources include keeping the exposure time short, staying as far away as practical, using shielding, and handling the source with tongs or remotely. These all lower the dose received.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--04-contamination-irradiation.webp" width="900" height="1000" alt="Top panel: a source outside the body sends radiation to a person; the exposure lasts only while the person is near the source and the person does not become radioactive. Bottom panel: radioactive atoms on and inside a person, each emitting radiation, so the body is irradiated until the atoms are removed or decay." loading="lazy">
+  <figcaption>Irradiation is exposure to an outside source; contamination is having radioactive atoms on or in the body.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
 
 ## 3.7.2 j: The range of half-lives
 
@@ -148,6 +171,12 @@ To choose an isotope or weigh up a hazard, ask these questions.
 - **B is the better choice.**
 
 Uses follow from the radiation type. Gamma passes through materials, so it suits tracers detected outside the body and sterilising equipment. Beta is stopped by thin metal, so it suits checking the thickness of sheet material. Alpha has a very short range, so it suits sealed sources where nothing must pass through. A long half-life suits a source that must keep working for years. A short half-life suits a tracer, where you want the activity gone soon afterwards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--02-half-life-range.webp" width="900" height="888" alt="A bar chart on a log scale ranks eight isotopes by half-life, from technetium-99m at 6 hours to uranium-235 at 700 million years, each with its radiation type. Technetium-99m (gamma, 6 hours) is marked B and the 430-year alpha source is marked A. For a body scan with the detector outside, B is better because gamma escapes the body and the activity soon fades, whereas alpha stays in tissue for years." loading="lazy">
+  <figcaption>Half-lives span hours to billions of years, and the right choice depends on radiation type and half-life together.</figcaption>
+</figure>
+
 
 ## 3.7.3: Nuclear fission
 
@@ -190,9 +219,21 @@ In a reactor, **control rods** absorb fission neutrons so that on average only o
 
 For your own labelled diagram, label the neutron, the U-235 nucleus, the daughter nuclei, the released neutrons and the energy, and show at least two neutrons hitting further nuclei. For a reactor, add a control rod absorbing some neutrons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--02-chain-control-rods.webp" width="900" height="1060" alt="Top: with each fission releasing two neutrons that each cause a fission, the number of fissions doubles each generation: 1, 2, 4, 8 and so on (16 in the fifth). Bottom: in a reactor, boron control rods absorb the extra neutrons so only one neutron from each fission goes on to cause another fission." loading="lazy">
+  <figcaption>A chain reaction doubles each generation unless control rods absorb the spare neutrons.</figcaption>
+</figure>
+
+
 ### Waste
 
 Nuclear reactions produce waste that may be dangerous because it is radioactive, and it may stay so for a long time, depending on its half-life and products. Its disposal needs careful management, and this is a factor that may influence whether nuclear power is used to generate electricity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--01-fission-event.webp" width="900" height="780" alt="A neutron is absorbed by a uranium-235 nucleus, which splits into barium-141 and krypton-92 and releases three neutrons and energy. Mass numbers balance (1 + 235 = 141 + 92 + 3) and proton numbers balance (92 = 56 + 36)." loading="lazy">
+  <figcaption>Fission of U-235: two smaller nuclei, three neutrons and energy, with both numbers balanced.</figcaption>
+</figure>
+
 
 ## 3.7.4: Nuclear fusion
 
@@ -216,6 +257,12 @@ Nuclear fusion is the process by which energy is released in stars. In the core 
 | What happens | One large unstable nucleus splits | Two light nuclei join |
 | Starting condition | Nucleus must absorb a neutron | Very high temperature and pressure |
 | Used in | Nuclear reactors | Stars |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--03-fusion-conditions.webp" width="900" height="940" alt="Two positively charged nuclei, hydrogen-2 and hydrogen-3, move towards each other but repel. Very high temperature and pressure let them get close enough to fuse into helium-4, a neutron and energy. Mass number 2 + 3 = 4 + 1 and proton number 1 + 1 = 2." loading="lazy">
+  <figcaption>Fusion needs very high temperature and pressure to overcome the repulsion between positive nuclei.</figcaption>
+</figure>
+
 
 ## Common errors
 

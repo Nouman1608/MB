@@ -52,6 +52,12 @@ The specification says ∫ x dy will not be required, so all areas use dx.
 4. Find d²y/dx² and test the sign at each root.
 5. If it is zero, test the sign of dy/dx either side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--02-second-derivative-zero.webp" width="900" height="850" alt="Graph of y = 3x^5 - 5x^3 with a maximum at (-1, 2) and minimum at (1, -2). At the origin f″ = 0 so the second-derivative test fails; the gradient is -2.8125 at x = -0.5 and x = 0.5 and 0 at x = 0, so the origin is a point of inflection." loading="lazy">
+  <figcaption>When f″(x) = 0, check the gradient on both sides: the same sign means a point of inflection.</figcaption>
+</figure>
+
+
 ### Optimisation problem
 
 1. Define variables; write the quantity to optimise.
@@ -66,6 +72,17 @@ The specification says ∫ x dy will not be required, so all areas use dx.
 2. Split the integral at every root inside the interval.
 3. Integrate each part. Make every part positive before adding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--05-signed-area.webp" width="900" height="920" alt="Graph of y = x(x-2)(x-5) from 0 to 5. The region above the axis from 0 to 2 has area 16/3 and the region below from 2 to 5 has area 63/4, total 253/12. Integrating 0 to 5 in one step gives the signed value -125/12, not an area." loading="lazy">
+  <figcaption>Integrate each section between roots separately and add the magnitudes to get the true area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--07-crossing-curves-split.webp" width="900" height="990" alt="y = x^3 and y = 4x - 3x^2 meet at x = -4, 0 and 1. The cubic is above on -4 to 0 (area 32) and the quadratic above on 0 to 1 (area 3/4, shown zoomed), total 131/4." loading="lazy">
+  <figcaption>When the upper curve changes at a crossing point, split the integral there.</figcaption>
+</figure>
+
+
 ### Area between two graphs
 
 1. Equate the equations to find intersections.
@@ -79,6 +96,17 @@ The specification says ∫ x dy will not be required, so all areas use dx.
 3. Substitute into the formula; keep full figures until the final line.
 4. Comment on over- or under-estimate if asked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--08-trapezium-three-strips.webp" width="900" height="1085" alt="Three trapezia approximate the area under y = sqrt(x) from 1 to 4 using y-values 1, 1.414, 1.732 and 2. The chords lie just below the curve, so the estimate 4.646 is slightly below the exact 14/3 = 4.667." loading="lazy">
+  <figcaption>Over or under? A curve that bends downwards makes the trapezium rule under-estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--09-trapezium-more-strips.webp" width="900" height="1125" alt="The trapezium rule for x^2 from 1 to 3 gives 8.75 with 4 strips and 8.6875 with 8 strips against the exact 26/3. The errors, 1/12 and 1/48, are drawn as bars in the ratio 4 to 1: doubling the strips cuts the error to a quarter." loading="lazy">
+  <figcaption>Doubling the number of strips cuts the trapezium-rule error to about a quarter for smooth curves.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 ### Stationary points
@@ -90,6 +118,12 @@ dy/dx = 3x² + 6x − 24 = 3(x + 4)(x − 2)
 x = 2: y = −27, d²y/dx² = 6x + 6 = 18 > 0     minimum at (2, −27)
 x = −4: y = 81, d²y/dx² = −18 < 0             maximum at (−4, 81)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--01-gradient-sign-nature.webp" width="900" height="870" alt="Graph of y = x^3 - 9x^2 + 15x + 8 with the gradient sign marked in three zones. The curve increases for x &lt; 1, decreases for 1 &lt; x &lt; 5 and increases for x &gt; 5. It has a maximum at (1, 15) and a minimum at (5, -17), both with horizontal tangents." loading="lazy">
+  <figcaption>The sign of dy/dx either side of a stationary point tells you whether it is a maximum or a minimum.</figcaption>
+</figure>
+
 
 ### Optimisation
 
@@ -126,6 +160,17 @@ x² = 4x + 5  →  x² − 4x − 5 = 0  →  x = −1 or x = 5
 = 100/3 − (−8/3)
 = 36
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--03-sketch-with-calculus.webp" width="900" height="830" alt="Graph of y = x^2(9 - x). It touches the x-axis at the origin (a minimum), rises to a maximum at (6, 108) and crosses the x-axis at (9, 0) before falling without limit." loading="lazy">
+  <figcaption>A repeated root touches the axis and a single root crosses it; calculus places the turning points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--06-curve-and-line-area.webp" width="900" height="840" alt="The parabola y = x^2 + 1 and line y = 7 - x meet at (-3, 10) and (2, 5). The shaded region between them has height (7-x)-(x^2+1) = 6 - x - x^2 and area 125/6." loading="lazy">
+  <figcaption>The area between a line above a curve is the integral of upper minus lower between the intersection points.</figcaption>
+</figure>
+
 
 ### Trapezium rule and error estimate
 

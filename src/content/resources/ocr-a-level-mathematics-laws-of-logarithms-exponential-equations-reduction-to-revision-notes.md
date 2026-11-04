@@ -56,12 +56,24 @@ Reminder: 2 ln 3 + ln 4 − ln 6 = ln (9 × 4 / 6) = ln 6.
 3. Solve, then substitute back into every original logarithm.
 4. Reject any root that makes an input zero or negative.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--05-solve-index.webp" width="900" height="1160" alt="The graph of 5^x meets y = 40 at x = 2.29 (ln 40 divided by ln 5). Below, points 0.8^n fall; n = 13 gives 0.0550 and n = 14 gives 0.0440, the first below 0.05. Dividing by the negative ln 0.8 reverses the inequality, so n &gt; 13.4." loading="lazy">
+  <figcaption>Taking logs solves aˣ = b, and a negative log reverses an inequality.</figcaption>
+</figure>
+
+
 ### Must-know distinctions
 
 - log x + log y is log (xy), but log (x + y) cannot be split.
 - log x / log y is not log (x/y), and it does not simplify to x/y.
 - (log x)² is not 2 log x. The power law applies to the input of the log only.
 - Reject a root only because of the domain, not because it is negative. A negative root is fine if every log input stays positive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--04-log-ruler-laws.webp" width="900" height="940" alt="A log ruler marks 1 to 10 at their base-10 logs. Bars of length lg 2 and lg 3 end at 6, so lg 2 + lg 3 = lg 6. A bar lg 8 minus lg 2 has length lg 4. Two bars of lg 3 end at 9, so 2 lg 3 = lg 9." loading="lazy">
+  <figcaption>Logarithms turn products into sums: lengths on a log ruler add.</figcaption>
+</figure>
+
 
 ## Exponential equations (1.06g)
 
@@ -92,6 +104,12 @@ x = ln 7 / (2 ln 7 − ln 4) = 0.777 (3 s.f.)
 
 e^(2x) − 7e^x + 12 = 0. Let t = e^x, so t² − 7t + 12 = 0 and (t − 3)(t − 4) = 0. Then e^x = 3 or e^x = 4, so x = ln 3 or x = ln 4. Both are valid because e^x is always positive. If a factor gives a negative or zero value for t, reject it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--06-hidden-quadratic.webp" width="900" height="1080" alt="The parabola u^2 - 5u + 6 crosses the u-axis at 2 and 3; u &lt; 0 is shaded as impossible since e^x &gt; 0. The curve y = e^(2x) - 5e^x + 6 crosses the x-axis at x = ln 2 and ln 3." loading="lazy">
+  <figcaption>Substituting u = eˣ turns e²ˣ − 5eˣ + 6 = 0 into a quadratic with roots ln 2 and ln 3.</figcaption>
+</figure>
+
+
 ## Reduction to linear form (1.06h)
 
 | Model | Take logs | Plot | Gradient | Intercept | Parameters |
@@ -120,6 +138,12 @@ A line of lg y against lg x with gradient 3 and intercept 0.6 gives n = 3 and a 
 - On a log-log plot the gradient is the power n. On a log y against x plot the gradient is the log of the base b.
 - Use the same base for every log in one question.
 - Take points from the line, not from the data table, when you find the gradient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--07-linear-form.webp" width="900" height="1110" alt="ln y against ln x is a straight line for y = ax^n: through (0.5, 1.85) and (2.5, 4.85), gradient n = 1.5 and intercept ln a = 1.10. lg y against x is a straight line for y = kb^x with intercept lg k = 0.70 and gradient lg b = 0.14." loading="lazy">
+  <figcaption>A straight line on log axes gives gradient and intercept for power and exponential laws.</figcaption>
+</figure>
+
 
 ## Modelling with exponentials (1.06i)
 
@@ -166,6 +190,22 @@ Always link the comment to the context. A statement like "the model is not accur
 9. A mass decays as m = m₀e^(−0.2t). Find the half-life to 3 significant figures.
 10. Give one limitation of the model P = P₀e^(kt) for a population.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--03-gradient-ekx.webp" width="900" height="1040" alt="On y = e^(2x), the tangent at (0, 1) has gradient 2 and at x = 0.6 (height 3.32) has gradient 6.64, shown by a triangle with run 0.4 and rise 2.66. Each gradient is 2 times the height, so dy/dx = ky." loading="lazy">
+  <figcaption>The gradient of e^kx is k times its height, so growth is proportional to size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--08-ln-calculus.webp" width="900" height="1050" alt="The tangent to y = ln x at x = 2 has gradient one half, equal to 1/x. Below, the area under y = 1/x from 1 to e is shaded and equals 1, because the integral is ln x and ln e minus ln 1 is 1." loading="lazy">
+  <figcaption>ln x differentiates to 1/x and the area under 1/x from 1 to e is 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--09-decay-half-life.webp" width="900" height="1020" alt="C = 15e^(-0.2t) falls from 15 mg/L. It halves to 7.5 after 3.47 hours and to 3.75 after another 3.47 hours, so the half-life is constant (ln 2 divided by k). It reaches 2 mg/L at t = 10.1 hours." loading="lazy">
+  <figcaption>Exponential decay has a constant half-life of ln 2 ÷ k.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. log₅ (50/2) = log₅ 25 = **2**.
@@ -189,6 +229,12 @@ Always link the comment to the context. A statement like "the model is not accur
 - Choosing points from the data table, not from the line of best fit, to find a gradient.
 - Giving an exact answer when the question asks for 3 significant figures, or the reverse.
 - Making a comment about a model that is generic ("it is not realistic") with no link to the context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--01-inverse-graphs.webp" width="900" height="900" alt="The orange curve y = e^x passes through (0, 1) and (1, e) and approaches the x-axis. The blue curve y = ln x passes through (1, 0) and (e, 1) and approaches the y-axis. They are mirror images in the dashed line y = x, so the functions are inverses." loading="lazy">
+  <figcaption>The graph of ln x is the reflection of eˣ in y = x.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

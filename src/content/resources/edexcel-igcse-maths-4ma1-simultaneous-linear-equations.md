@@ -134,6 +134,17 @@ Check in (2): 6(2) − 5(−1) = 12 + 5 = 17. Correct, so **x = 2, y = −1**.
 
 The dangerous line is 9y − (−10y). Subtracting a negative gives +10y, so the total is 19y. Write this line out in full rather than doing it in your head.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--04-sim-add-or-subtract.webp" width="900" height="900" alt="Two elimination examples. 4x + 3y = 26 and 2x − 3y = 4 have opposite y signs, so adding gives 6x = 30, x = 5, y = 2. 15p + 3q = 78 and 2p + 3q = 13 have the same q signs, so subtracting gives 13p = 65, p = 5, q = 1." loading="lazy">
+  <figcaption>Opposite signs: add. Same signs: subtract.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--09-simultaneous-multiply-both.webp" width="900" height="910" alt="Worked example 3 laid out step by step: multiply by 3 and 2, subtract, y = −1, x = 2. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>When neither coefficient divides the other, multiply both equations to match.</figcaption>
+</figure>
+
+
 ## Method 2: substitution
 
 Substitution works best when one equation already says "y = …" or "x = …", or can easily be made to.
@@ -162,6 +173,12 @@ Check: 5(3) + 2(2) = 15 + 4 = 19. Correct, so **x = 3, y = 2**.
 
 The brackets matter. Writing 5x + 2 × 3x − 7 loses the "2 × −7" and gives the wrong answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--05-sim-substitute.webp" width="900" height="940" alt="Solving y = 3x − 7 and 5x + 2y = 19: y in the second equation is replaced by (3x − 7) in brackets, giving 5x + 6x − 14 = 19, then 11x = 33, x = 3, and y = 2." loading="lazy">
+  <figcaption>Replace the letter with the whole expression, in brackets.</figcaption>
+</figure>
+
+
 ## Exact answers that are not whole numbers
 
 Examination questions often have whole-number answers, but not always. Do not assume you have made a mistake because a fraction appears. Keep it as a fraction.
@@ -180,6 +197,12 @@ Substitute into (1): 3(1/3) + 2y = 5, so 1 + 2y = 5 and **y = 2**.
 Check in (2): 6(1/3) − 2(2) = 2 − 4 = −2. Correct, so **x = 1/3, y = 2**.
 
 If you had written x = 0.33, then 3x = 0.99 and y = 2.005, which is wrong. Rounding part-way through spoils the second value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--10-simultaneous-fraction-answer.webp" width="900" height="910" alt="Graph of the lines from worked example 5 crossing at (1/3, 2), with the exact and rounded working. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>The lines cross at a fractional point, so keep the exact fraction.</figcaption>
+</figure>
+
 
 ## Setting up the equations from a context
 
@@ -214,6 +237,12 @@ Check in (2): 2(11) + 5(6) = 22 + 30 = 52. Correct.
 
 End with a sentence that answers the question. "a = 11, c = 6" is not quite the same as saying what each ticket costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--06-sim-ticket-prices.webp" width="900" height="880" alt="Orders of 3 adult and 4 child tickets (£57) and 2 adult and 5 child tickets (£52). Scaling by 2 and 3 gives 6 adult + 8 child (£114) and 6 adult + 15 child (£156). The 7 extra child tickets cost £42, so a child ticket is £6, then an adult ticket is £11." loading="lazy">
+  <figcaption>Matching the adult tickets leaves the extra children to price.</figcaption>
+</figure>
+
+
 ## Lines and their point of intersection (Higher tier only)
 
 Statement 2.6B asks you to see the algebra as a graph. Every linear equation in x and y is a straight line: each point on the line is one solution of that equation. Two lines that cross meet at exactly one point, and that point lies on both lines. So **the solution of the simultaneous equations is the point of intersection of the two lines**.
@@ -240,9 +269,26 @@ Rearrange 4x − 2y = 6 to get y = 2x − 3. Compare it with y = 2x + 1. Both ha
 
 To compare two lines given in the form ax + by = c, rearrange each into y = mx + c first. The gradient is not the coefficient of x until y is the subject.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--08-sim-parallel-lines.webp" width="900" height="1260" alt="Higher tier. The lines y = 2x + 1 and y = 2x − 3 (4x − 2y = 6) both have gradient 2 and different intercepts, so never meet. Subtracting 4x − 2y = −2 from 4x − 2y = 6 gives 0 = 8, which is false, so there is no solution." loading="lazy">
+  <figcaption>Same gradient, different intercept: no solution, and elimination gives a false statement.</figcaption>
+</figure>
+
+
 ### A drawn graph versus algebra
 
 A graph drawn by hand shows roughly where the lines cross, and is useful for checking. The specification asks for the **exact** solution in 2.6A, so when a question says "solve", use algebra. Read values from a graph only when the question tells you to use it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-simultaneous-linear-equations--07-sim-lines-cross.webp" width="900" height="1070" alt="Higher tier. The lines y = 2x − 1 and x + y = 5 are plotted with their intercepts (0, −1), (0, 5) and (5, 0). They cross at (2, 3), shown with dashed guides, so x = 2 and y = 3." loading="lazy">
+  <figcaption>The crossing point lies on both lines, so it solves both equations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
 
 ## About your calculator
 

@@ -103,6 +103,17 @@ Count the cells showing 3 or more: the score 3 appears 6 times, 4 appears 4 time
 
 **Higher tier only.** Some questions do not say how to organise the working. Ask yourself: are there two or more stages, and are the outcomes of each stage equally likely? If yes, a grid or list of all outcomes is usually the safest route. If a question gives group sizes and overlaps, a Venn diagram or two-way table is usually better (see below). If you are unsure, sketch the simplest diagram that holds all the given information and see whether the missing value drops out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--06-two-spinners-grid.webp" width="900" height="1020" alt="Grid of the 12 sums of spinner A (1 to 4) and spinner B (2, 4, 6); four sums are at least 8 and six are even." loading="lazy">
+  <figcaption>The sample space grid for Worked example 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--01-two-dice-sample-space.webp" width="900" height="925" alt="A 6 by 6 grid with die faces along both edges; each cell shows the total. The six cells totalling 7 form a diagonal and are highlighted, giving 6 out of 36 = 1/6." loading="lazy">
+  <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
+</figure>
+
+
 ## Systematic listing and the product rule (11.02b)
 
 A **systematic list** follows a fixed pattern, for example alphabetical or numerical order, or "first item fixed, then vary the second". It makes missing items obvious.
@@ -144,6 +155,17 @@ When a choice cannot be repeated, the number of options falls at each stage.
 **Worked example 7.** Six runners are in a race. In how many ways can the first three places be filled?
 
 The winner can be any of 6, the second place any of the remaining 5, third place any of the remaining 4: 6 × 5 × 4 = **120**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--07-systematic-listing.webp" width="900" height="990" alt="Digits 2, 5, 8 listed by fixing the first digit gives six numbers, four over 500; three coin flips grouped by heads give 1, 3, 3, 1 outcomes." loading="lazy">
+  <figcaption>Systematic lists for Worked examples 3 and 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--08-product-rule-slots.webp" width="900" height="1100" alt="Boxes of choices multiply: meals 4x5x3 = 60; codes 6x6x10x10x10 = 36 000 or 6x5x10x10x10 = 30 000; runners 6x5x4 = 120." loading="lazy">
+  <figcaption>The product rule for Worked examples 5 to 7.</figcaption>
+</figure>
+
 
 ## Venn diagrams and sets (11.02c)
 
@@ -198,6 +220,17 @@ Multiples of 3 are 3, 6, 9, 12, 15, 18. Even numbers are 2, 4, ..., 20 (10 numbe
 
 The counts total 20. P(neither) = 7/20.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--09-venn-1-to-20.webp" width="900" height="880" alt="Venn diagram of 1 to 20: multiples of 3 only 3, 9, 15; both 6, 12, 18; even only 2, 4, 8, 10, 14, 16, 20; neither 1, 5, 7, 11, 13, 17, 19. Counts 3, 3, 7, 7 total 20." loading="lazy">
+  <figcaption>Fill every number into the four regions and check the total is 20.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
+  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
+</figure>
+
+
 ### Higher tier only: more complex problems and conditional probability
 
 **Higher tier only.** The specification says the structure of the diagram may not be given. You choose a Venn diagram, a two-way table or a tree diagram. A **conditional probability** is the probability of an outcome given that another is already known. Knowing the condition shrinks the group you are choosing from: the new "total" is the size of the group named after "given that".
@@ -217,6 +250,22 @@ The counts total 20. P(neither) = 7/20.
 **Worked example 11.** Of 60 learners, 35 study French, 28 study Spanish and 12 study neither. Find the probability that a Spanish learner also studies French.
 
 Learners studying at least one language: 60 − 12 = 48. Both = 35 + 28 − 48 = 15. French only = 20, Spanish only = 13. The group is the 28 Spanish learners, 15 of whom study French, so the probability is 15/28.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--09-set-builder-lines.webp" width="900" height="1030" alt="D (real numbers between 1 and 3), D with integers only = {2}, F = {2,3,4,5,6} and E = factors of 30, each on a number line." loading="lazy">
+  <figcaption>The lesson's set-builder examples drawn on number lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
+  <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--04-conditional-venn.webp" width="900" height="910" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
+  <figcaption>Given a condition, only the part of the diagram that satisfies it counts.</figcaption>
+</figure>
+
 
 ## Common errors
 

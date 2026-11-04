@@ -81,6 +81,12 @@ In years: 2.4 × 10¹⁷ ÷ 3.156 × 10⁷ = 7.5 × 10⁹ years.
 
 Conclusion: about 7.5 billion years. Fusing nearly 600 billion kilograms of hydrogen every second still leaves a supply that lasts billions of years, because the fuel mass is so large. That is why a star's energy output can continue for millions of years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--01-star-balance.webp" width="900" height="1290" alt="Three stars with inward gravity arrows and outward push arrows. A small star has longer outward arrows and swells; a steady main sequence star has equal arrows; a large star has longer inward arrows and shrinks. The star settles where the forces are balanced." loading="lazy">
+  <figcaption>A star is steady because gravity in equals the push out from hot gas.</figcaption>
+</figure>
+
+
 ## Mass decides everything (3.8.1 d, e, f)
 
 A star's mass fixes its whole life cycle. Two links to remember.
@@ -113,6 +119,12 @@ R's lifetime is 10 000 million ÷ 8 million = 1250 times shorter than P's. R's r
 Conclusion: the more massive the star, the faster it uses its hydrogen, so a larger star has a shorter life even though it has more fuel.
 
 When the hydrogen in the core runs out, the main sequence ends. What happens next depends on mass (statement f). There are two routes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--02-star-lifetime.webp" width="900" height="870" alt="Log-scale bars show stars P, Q and R lasting 10 billion, 100 million and 8 million years. Q uses its fuel 500 times faster than P and R 25 000 times faster. More mass means a hotter core, faster fusion and a shorter life." loading="lazy">
+  <figcaption>A more massive star has more fuel but uses it far faster, so it lives for less time.</figcaption>
+</figure>
+
 
 ## Route 1: a larger star (3.8.1 g)
 
@@ -151,6 +163,17 @@ Dust and gas (gravity pulls together)
 
 Check three things when you read or draw one: the start is the same for both, the split depends on mass, and the supernova belongs only to the larger-star branch.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--01-life-route.webp" width="900" height="1100" alt="A flow chart from a dust and gas cloud to a main sequence star, then two routes. A smaller star like the Sun becomes a red giant, a white dwarf and finally a black dwarf (none yet exist). A larger star becomes a red supergiant, a supernova, then a neutron star or black hole." loading="lazy">
+  <figcaption>The route depends on mass: the supernova belongs only to the larger-star branch and the Sun ends as a black dwarf.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
+
+
 ## Where the elements come from (3.8.1 i)
 
 The early universe contained only hydrogen. The specification wording is "only hydrogen"; if you want to add detail, a little helium also formed, but hydrogen is the key point. Fusion in stars is the source of energy and produces all the naturally occurring elements.
@@ -171,6 +194,12 @@ Model answer, one point per step:
 2. Stars formed from the hydrogen and fusion in their cores made helium and then heavier nuclei.
 3. Any element heavier than iron comes from a supernova.
 4. A supernova explosion distributes the elements through the universe.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--03-star-elements.webp" width="900" height="1110" alt="A five-step chain: the early universe had only hydrogen; main sequence stars fuse hydrogen to helium; red giants make carbon then nitrogen and oxygen; the hottest cores make the heaviest nuclei up to iron; elements heavier than iron come only from a supernova, which spreads all the elements into space." loading="lazy">
+  <figcaption>Stars made the elements, and supernovae spread them.</figcaption>
+</figure>
+
 
 ## Common errors
 

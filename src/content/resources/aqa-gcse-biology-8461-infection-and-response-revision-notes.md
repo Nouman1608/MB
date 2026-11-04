@@ -50,6 +50,17 @@ lists every specification point.
 | Destroying or controlling vectors | Removes the organism that carries the pathogen |
 | Vaccination | Makes people immune, so the pathogen has fewer hosts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-infection-and-response-revision-notes--02-infection-four-controls.webp" width="900" height="905" alt="Four panels: hygiene, isolating infected people, controlling vectors such as mosquitoes, and vaccination. Each breaks the route from pathogen to a new host." loading="lazy">
+  <figcaption>Each control cuts the route from an infected source to a new host.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--01-transmission.webp" width="900" height="1000" alt="Six icon cards. Direct: touching an infected wound; blood and body fluids such as sharing needles. Indirect: contaminated surfaces such as a door handle, food such as undercooked meat, animals such as flies and rats, and air in droplets breathed out with a respiratory infection. Red-brown dots are pathogens." loading="lazy">
+  <figcaption>Pathogens pass directly between hosts or indirectly via surfaces, food, animals and air.</figcaption>
+</figure>
+
+
 ## The seven named diseases (4.3.1.2 to 4.3.1.5)
 
 | Disease | Pathogen | Host | Spread | Key symptoms or signs | Control or treatment |
@@ -64,6 +75,22 @@ lists every specification point.
 
 **Why plant diseases reduce growth:** TMV and black spot both reduce the area of healthy green leaf, so
 **less photosynthesis** takes place and less glucose is available for growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--05-named-diseases.webp" width="900" height="963" alt="Seven diseases in four pathogen groups. Viruses: measles, HIV, TMV (plant). Bacteria: salmonella, gonorrhoea. Fungi: rose black spot (plant). Protists: malaria. One spread route or symptom is shown for each." loading="lazy">
+  <figcaption>Seven named diseases grouped by the type of pathogen that causes them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--10-malaria-cycle.webp" width="900" height="895" alt="A mosquito bites an infected person, picks up the malaria protist, and bites a second person, passing it on. Control by stopping mosquito breeding in standing water and by using nets." loading="lazy">
+  <figcaption>Malaria passes between people by mosquito; stop breeding and use nets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--08-plant-disease-signs.webp" width="900" height="1000" alt="Three panels: TMV (virus) gives a mosaic of light and dark patches and less photosynthesis; rose black spot (fungus) gives purple or black spots and less photosynthesis; aphids are insect pests, not pathogens." loading="lazy">
+  <figcaption>The three plant problems named in the specification: TMV, black spot and aphids.</figcaption>
+</figure>
+
 
 ## 4.3.1.6 Human defences
 
@@ -82,6 +109,22 @@ lists every specification point.
 2. **Antibody production** -- antibodies bind to a specific pathogen and help destroy it.
 3. **Antitoxin production** -- antitoxins neutralise the toxins released by bacteria.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--02-defences.webp" width="900" height="980" alt="Schematic body with five numbered defences: 1 skin as the outline, a physical barrier; 2 nose hairs, in a magnified circle, trap dust and pathogens; 3 sticky mucus traps pathogens in the airways; 4 stomach acid kills pathogens in food and drink; 5 white blood cells in a vessel engulf pathogens and make antibodies. Defences 1 to 4 act before the blood." loading="lazy">
+  <figcaption>Four barriers act before pathogens reach the blood; white blood cells deal with those that get in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--05-white-cell-defences.webp" width="900" height="1060" alt="Phagocytosis: a white cell takes in a pathogen. Antibodies: Y-shaped proteins bind the matching pathogen only. Antitoxins: attach to toxins released by bacteria." loading="lazy">
+  <figcaption>Antibodies act on the pathogen; antitoxins act on the toxin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination--01-phagocytosis.webp" width="900" height="1130" alt="Three steps drawn on a white blood cell with a lobed nucleus. 1: it detects a pathogen and moves towards it. 2: it engulfs the pathogen, which ends up in a vacuole. 3: lysosome enzymes enter the vacuole and digest the pathogen into fragments." loading="lazy">
+  <figcaption>A phagocyte engulfs a pathogen into a vacuole and lysosome enzymes digest it.</figcaption>
+</figure>
+
+
 ## 4.3.1.7 Vaccination -- method in steps
 
 1. Small quantities of a **dead or inactive** form of the pathogen are put into the body.
@@ -92,6 +135,17 @@ lists every specification point.
 **Population effect:** if a large proportion of people are immune, the pathogen has few hosts to pass to,
 so spread falls and unvaccinated people are also protected. You do not need to learn vaccination schedules
 or the side effects of particular vaccines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <figcaption>Memory cells make the second response faster and larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--06-herd-immunity.webp" width="900" height="1220" alt="Extended. Two grids of 40 people with one case each. With 20 percent vaccinated, 31 of 40 become ill; with 90 percent vaccinated, 2 of 40 become ill. A baby too young to be vaccinated surrounded by vaccinated people stays well." loading="lazy">
+  <figcaption>When most people are vaccinated the pathogen finds few people to infect.</figcaption>
+</figure>
+
 
 ## 4.3.1.8 Antibiotics and painkillers
 
@@ -104,6 +158,22 @@ or the side effects of particular vaccines.
 - Specific bacteria should be treated with **specific antibiotics**.
 - Antibiotics have greatly reduced deaths from bacterial disease, but **resistant strains** are a serious concern.
 - Drugs that kill viruses are hard to develop, because viruses live inside cells and the drug may **damage body tissues**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--07-cause-or-symptom.webp" width="900" height="780" alt="An antibiotic kills bacteria, cannot kill viruses, and a painkiller treats the symptom (pain) only while the pathogen is still present." loading="lazy">
+  <figcaption>Antibiotics act on bacteria; painkillers act on symptoms only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--05-only-when-essential.webp" width="900" height="1010" alt="Extended. A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
+  <figcaption>Using antibiotics only when essential gives resistant bacteria fewer chances to be selected.</figcaption>
+</figure>
+
 
 ## 4.3.1.9 Discovery and development of drugs
 
@@ -125,6 +195,22 @@ may still be a chemical extracted from a plant.
 3. If safe, further trials find the **optimum dose**.
 4. In **double blind** trials, some patients get a **placebo**; neither patients nor doctors know who has which.
 5. Results are published only after **peer review**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--06-drug-origins.webp" width="900" height="860" alt="Foxglove gives digitalis, willow gives aspirin, and Penicillium mould (discovered by Fleming) gives penicillin. Most modern drugs are synthesised by chemists." loading="lazy">
+  <figcaption>Some traditional drugs came from plants and microorganisms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--06-drug-trial-stages.webp" width="900" height="1060" alt="Stage 1 preclinical testing on cells, tissues and live animals. Stage 2 a low-dose clinical trial on healthy volunteers. Stage 3 an optimum-dose trial on patients in which one group gets the drug and one a placebo and neither patients nor researchers know which until results are analysed (double-blind)." loading="lazy">
+  <figcaption>Preclinical, low-dose and optimum-dose stages, ending in a double-blind trial.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--11-placebo-comparison.webp" width="900" height="980" alt="Two grids of 120 patients. 78 improved on the new drug (65 percent) and 42 on the placebo (35 percent). The difference of 30 percentage points is credited to the drug." loading="lazy">
+  <figcaption>A placebo group shows how much improvement is not caused by the drug.</figcaption>
+</figure>
+
 
 ## 4.3.2 Monoclonal antibodies (Higher tier only)
 
@@ -151,6 +237,22 @@ You do not need to recall specific tests or treatments, but you must be able to 
 given to you. Monoclonal antibodies have caused **more side effects than expected**, so they are not yet as
 widely used as was hoped.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--07-mab-production.webp" width="900" height="1060" alt="Higher tier only. A mouse lymphocyte is fused with a tumour cell to form a hybridoma cell. The hybridoma divides into many identical cells, which produce one specific antibody." loading="lazy">
+  <figcaption>Hybridoma cells make a single specific (monoclonal) antibody.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--08-mab-cancer-targeting.webp" width="900" height="960" alt="Higher tier only. An antibody carrying a drug or radioactive substance fits antigens on a cancer cell and delivers it there, but does not bind a healthy cell. Other uses: pregnancy tests, measuring hormone levels, research with a fluorescent dye." loading="lazy">
+  <figcaption>A monoclonal antibody delivers treatment only to cancer cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--08-pregnancy-strip.webp" width="900" height="1040" alt="A strip with mobile antibodies on beads at the wet end. hCG binds them and flows along; the test line fixes hCG-bead complexes; the control line fixes all mobile antibodies. Two lines: positive. Control only: negative. No control line: invalid." loading="lazy">
+  <figcaption>A pregnancy test uses antibodies to detect the hormone hCG; the control line shows the test worked.</figcaption>
+</figure>
+
+
 ## 4.3.3 Plant disease
 
 **Detection (Higher tier only):** stunted growth; spots on leaves; areas of decay (rot); growths; malformed
@@ -176,6 +278,17 @@ and **aphids** (insects).
 | Physical | Cellulose cell walls; tough waxy cuticle on leaves; layers of dead cells around stems (bark) that fall off |
 | Chemical | Antibacterial chemicals; poisons to deter herbivores |
 | Mechanical adaptations | Thorns and hairs; leaves that droop or curl when touched; mimicry to trick animals |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--09-ion-deficiency.webp" width="900" height="760" alt="Three plants: a tall healthy green plant, a half-height stunted plant short of nitrate, and a tall plant with yellow leaves (chlorosis) short of magnesium." loading="lazy">
+  <figcaption>Nitrate deficiency stunts growth; magnesium deficiency causes chlorosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--09-plant-defences.webp" width="900" height="1140" alt="Physical barriers: waxy cuticle, cellulose cell walls, bark. Chemical defences: antibacterial chemicals and poisons. Mechanical adaptations: thorns, hairs, leaf curling and mimicry (not drawn)." loading="lazy">
+  <figcaption>Plants defend themselves physically, chemically and mechanically.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -215,6 +328,12 @@ and **aphids** (insects).
 10. It can divide and it makes the antibody.
 11. Magnesium (chlorosis).
 12. Antibacterial chemicals, or poisons that deter herbivores.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-infection-and-response-revision-notes--01-infection-percent-infected.webp" width="900" height="940" alt="Two grids of 100 squares. Vaccinated: 36 of 1200 is 3 percent, 3 squares filled. Unvaccinated: 150 of 1200 is 12.5 percent, 12.5 squares filled." loading="lazy">
+  <figcaption>36 ÷ 1200 × 100 = 3% against 150 ÷ 1200 × 100 = 12.5%.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -36,9 +36,21 @@ Condensed for the final weeks. For the full explanation, use the
 
 As a business takes a more formal legal structure, ask: **who owns it, who is liable for its debts, how can it raise money, what must it report publicly?** This comparison structure is what exam questions on this topic typically expect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+
 ## Sources of finance
 
 **Owner's capital** — sole traders only. **Partners' capital** — partnerships only. **Bank overdraft, bank loan, mortgage** — available to all four types (security offered affects terms). **Ordinary shares, debentures** — realistically only limited companies, usually plc, given the scale of capital raised.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--03-finance-access.webp" width="900" height="1086" alt="A grid shows which of seven named sources each ownership type can use: owner's capital for sole traders, partners' capital for partnerships, shares and debentures for limited companies (mainly large-scale for plcs), and overdraft, loan and mortgage for all. A Cambridge-only box names instalments, leasing, trade credit and secured/unsecured loans." loading="lazy">
+  <figcaption>Match each source of finance to the ownership types that can realistically use it.</figcaption>
+</figure>
+
 
 ## Worked example: matching risk to finance source
 
@@ -54,6 +66,12 @@ Issuing shares to existing shareholders:
 ```
 
 Pairing each source with a **specific, reasoned risk** — not just naming the source — is the level of analysis this topic is assessed at.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
+</figure>
+
 
 ## Worked example: comparing reporting burden across the four types
 
@@ -78,6 +96,12 @@ The underlying logic to state explicitly: reporting requirements exist to protec
 ## Why incorporation changes liability
 
 Incorporating as a limited company creates a distinct legal entity separate from its owners -- this is the mechanism, not just the label, behind limited liability. Because the company itself, not the shareholder personally, owns its assets and owes its debts, a shareholder's exposure is capped at what they invested even if the company becomes insolvent. A sole trader or ordinary partner has no such separation: the business and the individual are legally the same entity, so business debts are the individual's debts. Being able to explain *why* incorporation produces limited liability, rather than only stating that it does, is worth practising as a short written answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--02-liability.webp" width="900" height="870" alt="With illustrative numbers, debts of 50,000 pounds exceed business assets of 20,000 pounds by 30,000. A sole trader's own assets can be used to pay the shortfall, while a limited company shareholder loses at most the 10,000 pounds invested." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
 
 ## Key terms
 

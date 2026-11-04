@@ -66,6 +66,12 @@ Total beads = 4 + 6 + 10 = 20
     P(not green) = 16/20 = 4/5   -> mark at 0.8 (likely)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--01-probability-scale.webp" width="900" height="840" alt="A bag of 20 beads (4 green, 6 yellow, 10 white) above a number line from 0 impossible to 1 certain. A black bead sits at 0, a white bead at 0.5 and the event not green at 0.8. The left half is unlikely and the right half likely." loading="lazy">
+  <figcaption>Probabilities run from 0 (impossible) to 1 (certain), with 0.5 an even chance.</figcaption>
+</figure>
+
+
 ## Probability notation (Extended only)
 
 - **P(A)** means "the probability of event A".
@@ -163,6 +169,12 @@ Check total: 8 + 10 + 6 + 4 + 3 + 5 + 2 + 22 = 60
     P(C) = 16/60, so P(C′) = 1 − 16/60 = 44/60 = 11/15
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
+  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
+</figure>
+
+
 ## 8.1 The probability of an event not occurring
 
 An event either happens or it does not, so the two probabilities add to 1:
@@ -205,6 +217,12 @@ Complements in context:
 - The probability it rains tomorrow is 35%. The probability it does not rain is 100% − 35% = **65%**.
 - (Extended) A train is late with probability P(L) = 0.08. Then P(L′) = 1 − 0.08 = **0.92**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--02-adds-to-one.webp" width="900" height="850" alt="Two bars of length 1. The spinner bar is red 0.35, blue 0.2, green x, yellow 2x, so x = 0.15 and yellow 0.3. The rain bar is 35 percent rain and 65 percent no rain." loading="lazy">
+  <figcaption>All the probabilities of one event add to 1, so not happening is 1 minus happening.</figcaption>
+</figure>
+
+
 ## 8.2 Relative frequency as an estimate of probability
 
 When outcomes are not equally likely (a badly made spinner, a drawing pin landing point up), you estimate the probability from an experiment.
@@ -235,6 +253,12 @@ The full results after 200 spins are:
 
 The relative frequencies add to 1, as they must.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--04-relative-frequency.webp" width="900" height="740" alt="A graph of relative frequency of a 4 against spins: 0.5 at 10, 0.38 at 50, 0.37 at 100 and 0.355 at 200. It falls then levels off, so more trials give a more reliable estimate." loading="lazy">
+  <figcaption>With more trials the relative frequency settles, so use the estimate from the most trials.</figcaption>
+</figure>
+
+
 ## 8.2 Fair, bias and random
 
 - **Fair**: every outcome is equally likely. A fair four-sided spinner lands on each number with probability 1/4 = 0.25.
@@ -242,6 +266,12 @@ The relative frequencies add to 1, as they must.
 - **Random**: chosen by chance, with no pattern and no outcome favoured. "A student is chosen at random" means every student has the same chance of being picked.
 
 To judge bias, compare relative frequencies from a **large** number of trials with the fair-case probabilities. In worked example 6, a fair spinner would give each score a relative frequency near 0.25. After 200 spins, 4 has 0.355 and 1 has 0.155. Both are a long way from 0.25, so the results **suggest the spinner is biased** (towards 4). Say "suggests", not "proves". After only 10 spins you could not draw a sensible conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--05-fair-or-biased.webp" width="900" height="850" alt="Bar chart of relative frequencies after 200 spins: 1 is 0.155, 2 is 0.26, 3 is 0.23, 4 is 0.355. A dashed line at 0.25 shows a fair spinner. Scores 1 and 4 are far from it, which suggests bias." loading="lazy">
+  <figcaption>Results far from 0.25 after many spins suggest, but do not prove, a biased spinner.</figcaption>
+</figure>
+
 
 ## 8.2 Expected frequencies
 
@@ -296,6 +326,12 @@ At a school fair, the probability of winning a prize on a game is 0.15. The orga
 0.15 × n = 36
 n = 36 ÷ 0.15 = 3600 ÷ 15 = 240
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--06-expected-frequency.webp" width="900" height="990" alt="Three bars with the expected share shaded: a fair ten-sided dice rolled 150 times gives 45 multiples of 3; a spinner with P(4) 0.355 spun 600 times gives 213; a town of 18400 adults with probability 0.065 gives 1196 cyclists." loading="lazy">
+  <figcaption>Expected frequency is probability times number of trials, an average rather than an exact result.</figcaption>
+</figure>
+
 
 ## Calculator and non-calculator skills
 

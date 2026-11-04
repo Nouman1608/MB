@@ -34,6 +34,8 @@
 /syllabus/0976/                                           /boards/cambridge/igcse/geography/  301
 /syllabus/0992/                                           /boards/cambridge/igcse/english-literature/  301
 /syllabus/1123/                                           /boards/cambridge/o-level/english-language/  301
+/syllabus/1BS0/                                           /boards/edexcel/gcse/business/  301
+/syllabus/1bs0/                                           /boards/edexcel/gcse/business/  301
 /syllabus/2058/                                           /boards/cambridge/o-level/islamiyat/  301
 /syllabus/2059/                                           /boards/cambridge/o-level/pakistan-studies/  301
 /syllabus/2147/                                           /boards/cambridge/o-level/world-history/  301
@@ -45,8 +47,12 @@
 /syllabus/3248/                                           /boards/cambridge/o-level/urdu-language/  301
 /syllabus/4024/                                           /boards/cambridge/o-level/mathematics/  301
 /syllabus/4040/                                           /boards/cambridge/o-level/statistics/  301
+/syllabus/4AC1/                                           /boards/edexcel/igcse/accounting/  301
+/syllabus/4ac1/                                           /boards/edexcel/igcse/accounting/  301
 /syllabus/4BI1/                                           /boards/edexcel/igcse/biology/  301
 /syllabus/4bi1/                                           /boards/edexcel/igcse/biology/  301
+/syllabus/4BS1/                                           /boards/edexcel/igcse/business/  301
+/syllabus/4bs1/                                           /boards/edexcel/igcse/business/  301
 /syllabus/4CH1/                                           /boards/edexcel/igcse/chemistry/  301
 /syllabus/4ch1/                                           /boards/edexcel/igcse/chemistry/  301
 /syllabus/4EC1/                                           /boards/edexcel/igcse/economics/  301
@@ -70,6 +76,7 @@
 /syllabus/7127/                                           /boards/aqa/a-level/accounting/  301
 /syllabus/7131/                                           /boards/aqa/as-level/business/  301
 /syllabus/7132/                                           /boards/aqa/a-level/business/  301
+/syllabus/7135/                                           /boards/aqa/as-level/economics/  301
 /syllabus/7136/                                           /boards/aqa/a-level/economics/  301
 /syllabus/7137/                                           /boards/aqa/as-level/business/  301
 /syllabus/7162/                                           /boards/aqa/a-level/law/  301
@@ -81,6 +88,7 @@
 /syllabus/7408/                                           /boards/aqa/a-level/physics/  301
 /syllabus/7517/                                           /boards/aqa/a-level/computer-science/  301
 /syllabus/7702/                                           /boards/aqa/a-level/english-language/  301
+/syllabus/7707/                                           /boards/cambridge/o-level/accounting/  301
 /syllabus/7712/                                           /boards/aqa/a-level/english-literature/  301
 /syllabus/7717/                                           /boards/aqa/a-level/english-literature/  301
 /syllabus/8132/                                           /boards/aqa/gcse/business/  301
@@ -144,6 +152,8 @@
 /syllabus/9990/                                           /boards/cambridge/a-level/psychology/  301
 /syllabus/9UR0/                                           /boards/edexcel/a-level/urdu-language/  301
 /syllabus/9ur0/                                           /boards/edexcel/a-level/urdu-language/  301
+/syllabus/H060/                                           /boards/ocr/as-level/economics/  301
+/syllabus/h060/                                           /boards/ocr/as-level/economics/  301
 /syllabus/H240/                                           /boards/ocr/a-level/mathematics/  301
 /syllabus/h240/                                           /boards/ocr/a-level/mathematics/  301
 /syllabus/H420/                                           /boards/ocr/a-level/biology/  301

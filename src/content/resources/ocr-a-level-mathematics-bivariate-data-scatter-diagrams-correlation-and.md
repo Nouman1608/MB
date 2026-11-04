@@ -89,6 +89,12 @@ A single line of best fit through all twelve points would predict about 17 minut
 
 When you see two clusters, ask what category could separate them. In work with the large data set, this is often a categorical column such as location, which you can use to colour or filter the points in a spreadsheet.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--06-two-groups-one-line.webp" width="900" height="910" alt="A scatter diagram of journey time in minutes against distance in kilometres for 6 cyclists (circles) and 6 van drivers (squares). Both groups rise left to right but the cyclists form a steeper band. A single dashed line fitted to all 12 points predicts about 17 minutes for 4 km, but the cyclist took 21.5 minutes and the van driver 14 minutes, so the line matches neither. The better approach is a separate line for each type of courier." loading="lazy">
+  <figcaption>One line through two distinct groups matches neither, so fit and use a separate line for each group.</figcaption>
+</figure>
+
+
 ## 3. Regression lines
 
 A regression line is a straight line fitted to bivariate data so it can be used to predict y from a value of x. This specification excludes calculating its equation, so a question will give you the equation or draw the line.
@@ -151,6 +157,12 @@ The specification says you may be asked to add to a diagram. Typical tasks are p
 - A regression line of y on x passes through the mean point (x̄, ȳ). If you are told the means, you can plot this point as a check.
 
 Using the gym line, if the mean training time is 6 hours then the mean point has y = 78 − 2.4 × 6 = 63.6, so the line passes through (6, 63.6).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--07-extrapolation.webp" width="900" height="818" alt="A graph of the regression line y = 78 minus 2.4x for resting heart rate against weekly training hours. The data covered 2 to 10 hours, shown as a shaded band; the line is solid there and dashed outside. At 5 hours the prediction is 66 beats per minute, which is interpolation and reasonably reliable. At 30 hours the line gives 6 beats per minute, which is not credible, so predicting outside the data range is unreliable. The intercept 78 at x = 0 also lies outside the data." loading="lazy">
+  <figcaption>Predictions are reliable inside the range of the data and unreliable outside it.</figcaption>
+</figure>
+
 
 ## 4. Informal interpretation of correlation
 

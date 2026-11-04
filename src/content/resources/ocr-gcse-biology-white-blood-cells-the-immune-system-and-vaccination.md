@@ -80,6 +80,27 @@ percentage increase = 8500 / 7000 x 100 = 121.4... = 121 %
 
 **(c)** Explain why the white blood cell count rises during infection. More lymphocytes are made and more phagocytes are produced, so that there are enough cells to engulf pathogens and make antibodies against them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination--01-phagocytosis.webp" width="900" height="1130" alt="Three steps drawn on a white blood cell with a lobed nucleus. 1: it detects a pathogen and moves towards it. 2: it engulfs the pathogen, which ends up in a vacuole. 3: lysosome enzymes enter the vacuole and digest the pathogen into fragments." loading="lazy">
+  <figcaption>A phagocyte engulfs a pathogen into a vacuole and lysosome enzymes digest it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination--06-blood-count-calc.webp" width="900" height="1170" alt="Bars show white blood cells rising from 7000 to 15 500 per cubic millimetre, an increase of 8500 or 121 percent. A grid of 714 red cells next to one white cell shows 5 000 000 divided by 7000 is about 714." loading="lazy">
+  <figcaption>White cells rise 121% in infection and a healthy adult has about 714 red cells per white cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--07-clotting.webp" width="900" height="1130" alt="Extended. A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out." loading="lazy">
+  <figcaption>A fibrin mesh traps blood cells to seal a wound.</figcaption>
+</figure>
+
+
 ## B6.3k: Non-specific defences
 
 Non-specific defences work against any pathogen. They do not need to recognise a particular microbe. They have two jobs: to stop pathogens getting in, and to destroy those that do.
@@ -95,6 +116,17 @@ Non-specific defences work against any pathogen. They do not need to recognise a
 | Phagocytes | Engulf and digest any pathogen that gets into the body. |
 
 The word non-specific is the key. A phagocyte will engulf many different microbes, and stomach acid kills most of what it meets. Compare this with the next section, where each response targets one type of pathogen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--02-defences.webp" width="900" height="980" alt="Schematic body with five numbered defences: 1 skin as the outline, a physical barrier; 2 nose hairs, in a magnified circle, trap dust and pathogens; 3 sticky mucus traps pathogens in the airways; 4 stomach acid kills pathogens in food and drink; 5 white blood cells in a vessel engulf pathogens and make antibodies. Defences 1 to 4 act before the blood." loading="lazy">
+  <figcaption>Four barriers act before pathogens reach the blood; white blood cells deal with those that get in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--08-airway-protection.webp" width="900" height="900" alt="Extended. Goblet cells make mucus that forms a layer on the airway lining and traps dust and bacteria from the air. Ciliated cells have cilia that beat and move the mucus to the throat, where it is swallowed. The mucus traps; the cilia move the mucus." loading="lazy">
+  <figcaption>Goblet cells make mucus to trap particles and ciliated cells move it to the throat.</figcaption>
+</figure>
+
 
 ## B6.3l: The immune system
 
@@ -135,6 +167,22 @@ A person is exposed to an antigen on day 0 and again on day 28. Antibody concent
 
 **(c)** Explain the difference. Memory cells made after the first exposure recognise the antigen. They divide and make antibodies faster and in larger numbers than the first lymphocytes did.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination--02-antibody-response-data.webp" width="900" height="980" alt="Line graph from the lesson table: antibody level against day. Exposure on day 0 and day 28. First peak 10 units on day 14; second peak 90 units on day 35, 7 days after exposure. The second peak is 9 times the first." loading="lazy">
+  <figcaption>Plotted from the lesson data: the second response is faster (7 days) and 9 times higher.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination--08-lymphocyte-clone-antibodies.webp" width="900" height="1080" alt="Three lymphocytes carry different receptor shapes and only the one that matches the antigen on the pathogen is selected. It divides to a clone of identical cells, most making antibodies, with some kept as memory cells. Antibodies can clump pathogens, mark them for phagocytes, or neutralise toxins." loading="lazy">
+  <figcaption>Only the lymphocyte with the matching receptor divides, and its clone makes antibodies that clump, mark or neutralise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
+</figure>
+
+
 ## B6.3o: Vaccines and medicines
 
 ### Vaccination (prevention)
@@ -173,6 +221,12 @@ survivors = 0.05 / 100 x 4 000 000 = 2000
 
 If these 2000 are resistant, they reproduce with little competition and the next population is resistant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination--07-survivors-grid.webp" width="900" height="950" alt="A grid of 2000 squares stands for 4 000 000 bacteria, each square 2000. One red square marks the 0.05 percent that survive, which is 2000 resistant bacteria. The two calculation lines are shown below." loading="lazy">
+  <figcaption>0.05% of 4 000 000 is 2000, one square out of 2000.</figcaption>
+</figure>
+
+
 ### Worked example 4: choosing a treatment
 
 | Situation | Best choice | Reason |
@@ -181,6 +235,27 @@ If these 2000 are resistant, they reproduce with little competition and the next
 | Influenza virus infection | Antiviral, not antibiotic | Antibiotics do not act on viruses. |
 | Graze on a knee | Antiseptic on the skin | Kills microbes on tissue before infection starts. |
 | Child due for measles protection | Vaccine | Prevents the disease. |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination--05-choose-treatment.webp" width="900" height="900" alt="Four rows match a situation to a treatment. A bacterial throat infection needs an antibiotic. An influenza virus infection needs an antiviral, not an antibiotic. A knee graze needs an antiseptic on the skin. A child due for measles cover needs a vaccine, which prevents the disease." loading="lazy">
+  <figcaption>Match the problem to antibiotic, antiviral, antiseptic or vaccine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <figcaption>Memory cells make the second response faster and larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
+</figure>
+
 
 ## Common errors
 

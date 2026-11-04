@@ -36,6 +36,22 @@ Other pages for this section and topic: the [set language practice questions](/r
 
 Listing rules: use curly brackets, separate elements with commas, list each element once, and order does not matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--01-set-place-elements.webp" width="900" height="850" alt="A Venn diagram of the numbers 1 to 12 with A the multiples of 3 and B the factors of 12. The overlap holds 3, 6 and 12, A only holds 9, B only holds 1, 2 and 4, and 5, 7, 8, 10, 11 sit outside both circles. The counts 3, 1, 3 and 5 add to 12." loading="lazy">
+  <figcaption>Fill the overlap first, then the single-set parts, then the outside.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--08-complement-shading.webp" width="900" height="1060" alt="Two Venn diagrams of the worked example 1 sets with (A ∩ B)′ and A′ ∩ B shaded. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>Shading everything except the overlap is (A ∩ B)′; B only is A′ ∩ B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--02-two-set-regions.webp" width="900" height="1060" alt="Six two-set Venn diagrams with regions numbered 1 to 4 (A only, both, B only, neither). The shaded regions show A∩B, A∪B, A′, (A∪B)′, A∩B′ and A′∪B." loading="lazy">
+  <figcaption>Each set expression is just a list of numbered regions.</figcaption>
+</figure>
+
+
 ## Notation table
 
 | Symbol | Read as | Tier |
@@ -52,6 +68,12 @@ Listing rules: use curly brackets, separate elements with commas, list each elem
 | ⊂ | is a subset of | Higher tier only |
 | n(A) | the number of elements in A | Higher tier only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--07-empty-set-and-membership.webp" width="900" height="1000" alt="Three ovals showing 4 ∈ {2, 4, 6}, 5 ∉ {2, 4, 6}, {0} with one element and the empty set. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>Membership symbols, the one-element set {0} and the empty set are different things.</figcaption>
+</figure>
+
+
 ## Venn diagram regions (two sets)
 
 | Words | Notation | Regions shaded |
@@ -66,6 +88,12 @@ Listing rules: use curly brackets, separate elements with commas, list each elem
 | in exactly one | (A ∩ B′) ∪ (A′ ∩ B) | both circles minus overlap |
 
 Note the pair that is easy to confuse: (A ∪ B)′ is **one** region (outside both circles), while (A ∩ B)′ is **three** regions (everything but the overlap).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--03-unknown-overlap.webp" width="900" height="1010" alt="Two Venn diagrams of 50 tourists. First the regions are written with x for the overlap (31−x, x, 27−x, x÷2); solving gives x = 16. Then the filled counts 15, 16, 11 and 8 add to 50." loading="lazy">
+  <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -94,6 +122,12 @@ Note the pair that is easy to confuse: (A ∪ B)′ is **one** region (outside b
 **Three sets (Higher tier only)**
 
 Start with the centre region (in all three). Next, the three "two sets only" regions: subtract the centre from each pairwise total. Then the three "one set only" regions: subtract the three regions already inside that circle from its total. Finally, "none" = n(ℰ) minus the sum of the seven regions inside the circles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--03-set-count-overlap-once.webp" width="900" height="880" alt="Higher tier. A Venn diagram with S the squares up to 20 and T the integers with 2x + 3 &lt; 15. S only is 9 and 16, T only is 2, 3 and 5, the overlap is 1 and 4. Counting S then T gives 9 tiles with 1 and 4 twice; counting each once gives 7, so n(S ∪ T) = 4 + 5 − 2 = 7." loading="lazy">
+  <figcaption>Subtract the overlap so each element is counted once.</figcaption>
+</figure>
+
 
 ## Formulae and facts to recall
 
@@ -168,6 +202,12 @@ Questions 1–6 suit both tiers; questions 7–11 are Higher tier only.
 10. 30 − 6 = 24 have at least one pet; 18 + 15 − 24 = 9 have both.
 11. Yes: 2 and 4 are both elements of {1, 2, 3, 4}.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--02-set-element-vs-subset.webp" width="900" height="890" alt="Higher tier. A circle S holds 1, 4, 9 and 16. The number 4 is ringed as an element, 4 in S. A dashed oval around 4 and 16 is the subset {4, 16} contained in S. n(S) is the number 4." loading="lazy">
+  <figcaption>An element belongs to a set; a set is contained in a set.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Listing a shared element twice in a union, which loses the accuracy mark even when the method is clear.
@@ -184,6 +224,17 @@ Questions 1–6 suit both tiers; questions 7–11 are Higher tier only.
 ## Next steps
 
 Go back to the [study guide](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation/) for any self-test question you got wrong, then try the full [practice set](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation-practice/). For Venn diagrams in probability, see the [statistics and probability revision notes](/resources/edexcel-igcse-maths-4ma1-statistics-and-probability-revision-notes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--06-subset-plain-symbol.webp" width="900" height="910" alt="Venn diagram of S and T from worked example 4 plus a nested circle showing {4, 16} ⊂ S. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>One element in S but not in T shows S is not a subset of T.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--01-listing-vs-rule.webp" width="900" height="870" alt="Two number lines. Top: the integers from -3 up to but not including 2 are the five elements of A, with 2 shown as a hollow ring. Bottom: every number from 2 to 4 is in C, so it has infinitely many elements and cannot be listed." loading="lazy">
+  <figcaption>A rule can describe a set you can list or one you cannot.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -41,6 +41,12 @@ Use this page with the [revision notes](/resources/a-level-maths-9709-pure-mathe
 
 Two boundaries are worth knowing. First, recognising kf′(x)/f(x), partial fractions, integration by parts and substitution all belong to section 3.5 (Paper 3), not to Paper 2. Second, the trapezium rule is listed in section 2.5 but not in section 3.5, so it is Paper 2 content. The [Pure Mathematics 3 guide](/resources/a-level-maths-9709-pure-mathematics-3/) covers the Paper 3 techniques.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--09-partial-fractions-area.webp" width="900" height="876" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
+  <figcaption>Splitting into partial fractions splits the area into two simple logarithmic bands.</figcaption>
+</figure>
+
+
 ## Standard integrals of linear composites
 
 ### Why the 1/a appears
@@ -104,6 +110,12 @@ When a is negative, the 1/a factor is negative too.
 
 Differentiate each answer to see the signs come out right: d/dx[(1/3) cos(1 − 3x)] = (1/3)(−sin(1 − 3x))(−3) = sin(1 − 3x).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--02-area-below-axis.webp" width="900" height="760" alt="The curve y = x² − 3x lies below the x-axis from 0 to 3 (integral −9/2) and above it from 3 to 4 (integral 11/6). The area is found by adding the sizes, 19/3, whereas the single integral from 0 to 4 is −8/3." loading="lazy">
+  <figcaption>Regions below the axis give negative integrals, so find the area in separate pieces.</figcaption>
+</figure>
+
+
 ### Definite integrals with exact answers
 
 Worked example 3. Find the exact value of ∫₁⁴ 5/(2x + 1) dx.
@@ -128,6 +140,22 @@ Integral = 5/2 − 3/2 = 1
 ```
 
 The key facts are e^(2 ln 2) = e^(ln 4) = 4 and e^(−ln 2) = 1/2. On a "show that", write both limit values out in full.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--04-limit-of-a-sum.webp" width="900" height="886" alt="Six rectangles of width 0.5 under y = 2x + 1 give lower and upper totals 10.5 and 13.5. With 30 and 300 strips the bounds tighten to 11.7 to 12.3 and 11.97 to 12.03. The limit is the integral, 12. AQA and OCR content." loading="lazy">
+  <figcaption>As strips get thinner, the rectangle sums close in on the integral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--05-improper-integral.webp" width="900" height="800" alt="The area under y = 8/x³ from x = 2 to x = R is 1 − 4/R². It equals 0.75, 0.96 and 0.9996 for R = 4, 10 and 100, and tends to 1 as R grows. Cambridge 9709 only." loading="lazy">
+  <figcaption>An infinitely long region can still have a finite area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
+  <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
+</figure>
+
 
 ### Simplify before you integrate
 

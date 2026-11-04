@@ -36,6 +36,17 @@ These revision notes condense nuclear structure, isotopes and decay equations fo
 - Neutrons: N = A - Z.
 - An uncharged atom has Z electrons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--04-emission-moves.webp" width="900" height="1044" alt="On a chart of neutrons against protons, alpha moves a nucleus two left and two down, beta one left and one up, neutron emission one left, and gamma does not move it." loading="lazy">
+  <figcaption>Each emission moves the nucleus by a fixed step on an N-Z chart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--05-particle-charge-mass.webp" width="900" height="830" alt="Proton: in the nucleus, charge +1, mass 1. Neutron: in the nucleus, charge 0, mass 1. Electron: outside the nucleus, charge -1, mass about 1/1800 (negligible). A bar shows each relative mass." loading="lazy">
+  <figcaption>Relative charge and mass of the three atomic particles.</figcaption>
+</figure>
+
+
 ## Isotopes (P6.1b)
 
 - Same element, same Z, different number of neutrons, so different A.
@@ -46,6 +57,12 @@ These revision notes condense nuclear structure, isotopes and decay equations fo
 |---|---|---|
 | Copper-63 | 29 | 34 |
 | Copper-65 | 29 | 36 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
+
 
 ## Nuclear notation (P6.1c)
 
@@ -60,6 +77,12 @@ Write as ᴬ_Z with the symbol: top number is A, bottom number is Z, as in ⁶³
 | Gamma | γ | 0 | 0 |
 
 To compare isotopes using symbols, state three things: same element (same bottom number), same nuclear charge, different mass (different top number).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--06-reading-notation.webp" width="900" height="790" alt="Aluminium-27 (Z = 13) has 13 protons and 14 neutrons; sulfur-33 (Z = 16) has 16 protons and 17 neutrons; calcium-42 (Z = 20) has 20 protons and 22 neutrons. Neutrons = A - Z." loading="lazy">
+  <figcaption>The top number is the nucleon total; subtract the bottom number to find neutrons.</figcaption>
+</figure>
+
 
 ## The four emissions (P6.1d)
 
@@ -92,6 +115,17 @@ To compare isotopes using symbols, state three things: same element (same bottom
 - Gamma: ²⁰⁸₈₂Pb (excited) → ²⁰⁸₈₂Pb + γ.
 - Neutron: ⁵₂He → ⁴₂He + ¹₀n.
 - Two-step chain: ²¹²₈₂Pb → ²¹²₈₃Bi + ⁰₋₁e, then ²¹²₈₃Bi → ²¹²₈₄Po + ⁰₋₁e.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--04-gamma-neutron-equations.webp" width="900" height="850" alt="Excited magnesium-24 emits a gamma ray (0, 0) and stays magnesium-24, so 24 = 24 + 0 and 12 = 12 + 0. Helium-5 emits a neutron (1, 0) to become helium-4, so 5 = 4 + 1 and 2 = 2 + 0." loading="lazy">
+  <figcaption>Gamma and neutron emission equations, with both numbers balanced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -194,6 +228,12 @@ Beta emission moves you one place along the periodic table to the right. Alpha e
 10. A = 26, Z = 12: ²⁶₁₂Mg, a different isotope of magnesium.
 11. Neither changes. The nucleus loses energy only.
 12. ²⁰⁶₈₂Pb (A = 210 - 4 = 206, Z = 84 - 2 = 82). The nuclear charge falls from +84 to +82 because two protons leave in the alpha particle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--05-bismuth-chain.webp" width="900" height="1040" alt="Bismuth-212 emits a beta particle to become polonium-212, one square up and left. Polonium-212 emits an alpha particle to become lead-208, two squares down and left. Both steps balance in mass number and charge." loading="lazy">
+  <figcaption>Bi-212 to Po-212 to Pb-208 plotted step by step, with balance checks.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

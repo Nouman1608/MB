@@ -52,6 +52,12 @@ subtopics 25.1 Acids and bases and 25.2 Partition coefficients.
 
 Water can act as an acid or as a base, depending on what it reacts with.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--01-conjugate-pairs.webp" width="900" height="890" alt="Water (acid, two H) and ammonia (base, three H) are shown with a gold arrow carrying one proton from water to ammonia. The products are hydroxide (conjugate base, one H) and ammonium (conjugate acid, four H). Members of each conjugate pair differ by exactly one H." loading="lazy">
+  <figcaption>In NH3 + H2O the acid H2O gives a proton to the base NH3; each acid and its conjugate base differ by one H+.</figcaption>
+</figure>
+
+
 ### Definitions: pH, Ka, pKa and Kw
 
     pH  = –log₁₀[H⁺]              so  [H⁺] = 10^(–pH)
@@ -62,6 +68,12 @@ Water can act as an acid or as a base, depending on what it reacts with.
 - **Ka** is the acid dissociation constant: a **larger Ka** (a **smaller pKa**) means a **stronger** acid.
 - In pure water at 298 K, [H⁺] = [OH⁻] = 1.00 × 10⁻⁷ mol dm⁻³, so pH = 7.00.
 - Kb and the relationship Kw = Ka × Kb are **not** tested.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--02-ph-scale.webp" width="900" height="990" alt="A colour bar from pH 0 to 14 with pins for 0.0250 M HNO3 (1.60), blood (7.35-7.45) and 0.0400 M NaOH (12.60). Below, [H+] falls from 1 to 1e-14 while [OH-] rises, and their product is Kw so pH + pOH = 14.00." loading="lazy">
+  <figcaption>Each pH unit is a tenfold change in [H+], and [H+][OH-] = Kw = 1.00e-14 at 298 K.</figcaption>
+</figure>
+
 
 ### Calculating [H⁺] and pH
 
@@ -94,6 +106,22 @@ starting concentration (dissociation is very small).
 
     [H⁺] = 10⁻³·⁰⁰ = 1.0 × 10⁻³ mol dm⁻³
     Ka = (1.0 × 10⁻³)² / 0.050 = 2.0 × 10⁻⁵ mol dm⁻³
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-acids-bases-partition-revision-notes--10-partial-neutralisation-buffer.webp" width="900" height="880" alt="50.0 cm3 of 0.200 M ethanoic acid holds 0.0100 mol and 25.0 cm3 of 0.200 M NaOH holds 0.00500 mol. They react to leave 0.00500 mol CH3COOH and 0.00500 mol CH3COO-. With equal amounts pH = pKa = 4.77 using Ka 1.7e-5." loading="lazy">
+  <figcaption>Using up half the acid with alkali leaves equal amounts of acid and conjugate base, a buffer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-acids-bases-partition-revision-notes--04-buffer-ratio-ethanoate.webp" width="900" height="1050" alt="0.10 mol dm-3 ethanoic acid with 0.20 mol dm-3 ethanoate has ratio 2:1 so pH = 4.77 + 0.30 = 5.07. The graph shows pH against ratio on a log scale: at 1:1, pH = pKa = 4.77." loading="lazy">
+  <figcaption>Buffer pH = pKa + log of the base to acid ratio; equal amounts give pH = pKa.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--04-strong-weak-acid.webp" width="900" height="900" alt="Two grids of 100 acid particles at 0.100 M. In HCl all 100 are split into ions (pH 1.00). In ethanoic acid only 1 of 100 is split (pH 2.88)." loading="lazy">
+  <figcaption>A strong acid splits almost completely into ions; a weak acid only slightly, even at the same concentration.</figcaption>
+</figure>
+
 
 ### Buffer solutions
 
@@ -129,6 +157,12 @@ changes, so [H⁺] and the pH hardly change.
   only in a narrow pH range.
 - Other uses: calibrating pH meters; keeping the pH constant for enzyme-catalysed reactions and cell
   cultures; shampoos and some foods and medicines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--08-buffer-action.webp" width="900" height="940" alt="A beaker holds eight HA and six A- particles (0.200 mol HA, 0.150 mol A-, pH 4.63). Adding a little H+ turns A- into HA and moves pH to 4.58; adding a little OH- turns HA into A- and moves pH to 4.68. Water would fall from 7 to 2.00." loading="lazy">
+  <figcaption>Both HA and A- are plentiful, so adding a little acid or alkali barely changes their ratio or the pH.</figcaption>
+</figure>
+
 
 ### Calculating the pH of a buffer
 
@@ -169,6 +203,12 @@ be s, so [Ca²⁺] = s and [F⁻] = 2s.
 **Will a precipitate form?** Calculate the ionic product using the concentrations after mixing. If it is
 **greater than Ksp**, a precipitate forms until the product falls to Ksp.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-acids-bases-partition-revision-notes--06-ksp-caf2.webp" width="900" height="940" alt="A saturated solution above solid CaF2 holds one Ca2+ for every two F-. Bars show [Ca2+] = s = 2.0e-4 and [F-] = 2s = 4.0e-4 mol per cubic decimetre. Ksp = [Ca2+][F-]^2 = s x (2s)^2 = 4s^3 = 3.2e-11 mol^3 dm^-9." loading="lazy">
+  <figcaption>Doubling the fluoride concentration is why the solubility is cubed and multiplied by four.</figcaption>
+</figure>
+
+
 ### The common ion effect
 
 A sparingly soluble salt is **less soluble** in a solution that already contains one of its ions (a
@@ -181,6 +221,12 @@ A sparingly soluble salt is **less soluble** in a solution that already contains
     [Ag⁺] = Ksp / [Cl⁻] = 1.8 × 10⁻¹⁰ / 0.10 = 1.8 × 10⁻⁹ mol dm⁻³
 
 Compare the solubility in pure water: √(1.8 × 10⁻¹⁰) = 1.3 × 10⁻⁵ mol dm⁻³, several thousand times greater.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-acids-bases-partition-revision-notes--07-common-ion-agcl.webp" width="900" height="900" alt="Two beakers of AgCl solid. In pure water [Ag+] = sqrt(1.8e-10) = 1.3e-5 mol per cubic decimetre. In 0.10 mol per cubic decimetre NaCl, [Ag+] = 1.8e-10 / 0.10 = 1.8e-9, over 7000 times smaller, because extra Cl- pushes the equilibrium left. Ksp is unchanged." loading="lazy">
+  <figcaption>A common ion lowers solubility but never changes Ksp.</figcaption>
+</figure>
+
 
 ## Partition coefficients (25.2)
 
@@ -262,3 +308,14 @@ that solvent. A more polar organic solvent will also take up a polar solute bett
 *These are original notes written for revision. Ka, Ksp and Kpc values marked illustrative or approximate
 are not data-book values. Check the full syllabus wording in the
 [official 9701 syllabus](https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-acids-bases-partition-revision-notes--08-kpc-meaning.webp" width="900" height="910" alt="A tube with hexane above water in equal volumes. Solute X is 0.24 mol per cubic decimetre in hexane (eight particles) and 0.030 in water (one particle). Kpc(hexane/water) = 8.0 with no units; reversing the ratio gives 0.125." loading="lazy">
+  <figcaption>Kpc is a ratio of concentrations in two layers and needs the solvent order stated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-acids-bases-partition-revision-notes--09-extraction-portions.webp" width="900" height="950" alt="Stacked bars of 1.00 g of X with Kpc(organic/water) = 4.0. One 50 cm3 extraction removes 0.67 g. Two 25 cm3 extractions remove 0.50 g then 0.25 g, a total of 0.75 g." loading="lazy">
+  <figcaption>The same volume of solvent extracts more when used in several small portions.</figcaption>
+</figure>
+

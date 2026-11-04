@@ -49,6 +49,12 @@ Method for a temporary slide, for example onion epidermis:
 4. Begin on the shortest objective lens. Bring the image into view with the large focus wheel, then sharpen it with the small one.
 5. Switch to a longer objective only once the specimen is centred and sharp.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--01-slide-method.webp" width="900" height="1010" alt="Four panels show a drop on a slide, epidermis laid on the drop with forceps, a cover slip lowered at an angle supported by a needle, and the shortest objective lens used first with the large then small focus wheel." loading="lazy">
+  <figcaption>Make a temporary slide by lowering the cover slip slowly, then focus from the shortest objective.</figcaption>
+</figure>
+
+
 ### Magnification
 
 magnification = image size ÷ actual size, or image size = actual size × magnification
@@ -64,6 +70,12 @@ Total magnification = eyepiece magnification × objective magnification. Use one
 - Convert the bar: 15 mm = 15 000 µm.
 - Magnification = 15 000 ÷ 100 = ×150.
 - Actual length = 33 ÷ 150 = 0.22 mm = **220 µm**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--02-magnification-worked.webp" width="900" height="940" alt="Example A: x10 eyepiece times x40 objective is x400, so a 30 mm image is 0.075 mm = 75 micrometres. Example B: a 15 mm bar labelled 100 micrometres gives x150, so a 33 mm drawing is 0.22 mm = 220 micrometres." loading="lazy">
+  <figcaption>Both worked examples, with sizes drawn to the stated proportions and the unit conversion shown.</figcaption>
+</figure>
+
 
 ### Labelled scientific drawings
 
@@ -84,6 +96,12 @@ Total magnification = eyepiece magnification × objective magnification. Use one
 | Volume of liquid | Measuring cylinder, pipette or syringe | Read the bottom of the meniscus at eye level |
 | Volume of gas | Gas syringe, or a measuring cylinder inverted in a trough | Check for leaks |
 | pH | Indicator solution or paper, or a pH meter or probe | Rinse the probe between solutions |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--06-drawing-rules.webp" width="900" height="870" alt="A good drawing of an onion epidermis cell has a single clear line, no shading, ruled label lines that end on the cell wall, vacuole and nucleus without crossing, a title with the magnification and a scale bar. The poor drawing is shaded, its label lines cross and it has no title or scale." loading="lazy">
+  <figcaption>Do and do not for a labelled scientific drawing.</figcaption>
+</figure>
+
 
 ## PAG 2: Testing for biological molecules
 
@@ -106,11 +124,33 @@ A negative Benedict's result stays blue. The colour moves towards brick-red as t
 
 **Worked example 3.** A food extract gives these results: iodine stays orange-brown, Benedict's turns brick-red, biuret stays blue, ethanol test stays clear. Conclusion: it contains a reducing sugar and no detectable starch, protein or lipid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--04-emulsion-test.webp" width="900" height="1010" alt="Step 1: shake the food with ethanol so fat dissolves. Step 2: pour the ethanol into water. Fat present gives a cloudy white emulsion of tiny droplets; no fat leaves the mixture clear. Ethanol goes first, then water." loading="lazy">
+  <figcaption>Fat dissolves in ethanol but forms a cloudy emulsion in water.</figcaption>
+</figure>
+
+
 ### Continuous sampling
 
 In continuous sampling you take small samples from one reaction mixture at regular intervals and test each one. For starch digestion by amylase, put drops of iodine in the wells of a spotting tile. Every 30 seconds, move a drop of the reaction mixture into a new well. The mixture is blue-black while starch remains. The time at which the drop first stays orange-brown is the end point.
 
 **Worked example 4.** The end point is reached at 80 s. Rate = 1 ÷ time = 1 ÷ 80 = 0.0125 per second (s⁻¹).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--03-continuous-sampling-end-point.webp" width="900" height="900" alt="A tube of amylase and starch is sampled every 30 s onto iodine in a spotting tile. Wells are blue-black while starch remains and orange-brown when it has gone. An end point of 80 s gives a rate of 0.0125 per second." loading="lazy">
+  <figcaption>Starch end point from a spotting tile, and rate = 1 divided by time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--07-safe-heating.webp" width="900" height="905" alt="Two Bunsen burners: air hole closed gives a yellow safety flame, air hole open gives a blue heating flame. Below, a boiling tube held in a holder in a beaker of hot water on a heatproof mat, a water bath. Eye protection, tied-back hair and tubes pointed away from people." loading="lazy">
+  <figcaption>Safety flame versus heating flame, and heating in a water bath.</figcaption>
+</figure>
+
 
 ## PAG 3: Sampling techniques
 
@@ -124,6 +164,12 @@ A quadrat is a square frame; the one used here is 0.5 m by 0.5 m, so its area is
 - Total = 44, so mean = 44 ÷ 9 = 4.9 per quadrat (2 significant figures).
 - Per m² = 4.89 ÷ 0.25 = 19.6 (using the unrounded mean).
 - Scaling up: (44 ÷ 9 ÷ 0.25) × 450 = **8800 buttercups**, an estimate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--04-random-quadrats-scaling.webp" width="900" height="940" alt="Nine quadrats in a 450 square metre meadow hold 6, 2, 9, 4, 0, 7, 3, 5 and 8 buttercups. Total 44, mean 4.9 per quadrat, 19.6 per square metre, estimate about 8800." loading="lazy">
+  <figcaption>From counts in nine quadrats to an estimate for the whole meadow.</figcaption>
+</figure>
+
 
 ### Transects
 
@@ -139,9 +185,21 @@ population = (first sample × second sample) ÷ marked animals found in the seco
 
 Pooters collect small insects, nets sample flying or pond animals, and a key identifies them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--05-capture-recapture-beetles.webp" width="900" height="910" alt="40 beetles are marked and released; a second sample of 35 contains 7 marked. Population = 40 x 35 / 7 = 200." loading="lazy">
+  <figcaption>The capture-recapture estimate worked with the lesson numbers.</figcaption>
+</figure>
+
+
 ### Biotic and abiotic factors
 
 Measure abiotic factors where you sample: a light meter for light intensity, a thermometer for temperature, a moisture meter for soil moisture and a pH probe for soil pH. Biotic factors include predators and food. Finding that an organism and a factor change together shows a correlation, not proof of cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--08-transect-belt.webp" width="900" height="700" alt="Plan view from a path to woodland with a tape line and six quadrats at regular intervals, plant dots in each quadrat, and a smaller sun under each to show a falling light reading. The idea is that organisms and abiotic readings are recorded at each point along the gradient." loading="lazy">
+  <figcaption>A transect samples a gradient with quadrats at regular intervals.</figcaption>
+</figure>
+
 
 ## PAG 4: Rates of enzyme-controlled reactions
 
@@ -170,6 +228,22 @@ Control the other variables: water bath for temperature, buffers for pH, equal v
 
 **Worked example 9.** In a potometer, a bubble moves 42 mm in 6 minutes in a capillary of radius 0.5 mm. Volume = π r² × length = π × 0.5² × 42 = 33 mm³. Rate = 33 ÷ 6 = **5.5 mm³ per minute**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--06-catalase-rate-graph.webp" width="900" height="950" alt="Oxygen volume against time rises from 0 to 40 cm3 over 180 s and levels off. The initial rate is 0.40 cm3/s, the rate from 90 to 120 s is 0.20 cm3/s and the mean is 0.22 cm3/s." loading="lazy">
+  <figcaption>The rate falls as substrate is used up; three rates read from one curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--07-potometer-uptake.webp" width="900" height="890" alt="A cut shoot on a water-filled tube with a capillary of radius 0.5 mm. The bubble moves 42 mm in 6 minutes: volume 33 mm3, rate 5.5 mm3 per minute." loading="lazy">
+  <figcaption>Converting bubble movement in a capillary into a volume rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--09-repeat-anomaly-mean.webp" width="900" height="690" alt="A number line from 50 to 90 seconds with repeats of 58, 60 and 62 close together and 85 far away, crossed out as an anomaly. Leaving it out the mean is (62 + 58 + 60) divided by 3, which is 60 s. Averaging all four would give 66.3 s, which is too high." loading="lazy">
+  <figcaption>Spot the anomaly and leave it out of the mean.</figcaption>
+</figure>
+
+
 ## Working scientifically skills 2a to 2d
 
 - **2a Carry out experiments** with correct handling of apparatus, accurate measurements, safety and written instructions.
@@ -180,6 +254,12 @@ Control the other variables: water bath for temperature, buffers for pH, equal v
 OCR also expects scientific diagrams of apparatus: ruled lines, labelled parts and a clear set-up for any procedure.
 
 Accuracy means close to the true value. Precision means repeats close together. Repeatable results come back when you rerun the work yourself; reproducible results come back when someone else, or another method, is used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--10-accuracy-precision-targets.webp" width="900" height="900" alt="Four targets with five readings each. Tight and central: accurate and precise. Tight but off to one side: precise, not accurate (systematic error). Scattered around the centre: accurate on average, not precise (random error). Scattered and off-centre: neither." loading="lazy">
+  <figcaption>Accuracy is closeness to the true value; precision is how close repeats are to each other.</figcaption>
+</figure>
+
 
 ## Common errors
 

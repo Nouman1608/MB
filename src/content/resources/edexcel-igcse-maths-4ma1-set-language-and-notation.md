@@ -99,6 +99,12 @@ Notice that 3, 6 and 12 appear in both lists, but appear only once in A ∪ B.
 
 **Empty set check.** With the same ℰ, let C = {odd multiples of 4}. Every multiple of 4 is even, so C = ∅, and A ∩ C = ∅.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--07-empty-set-and-membership.webp" width="900" height="1000" alt="Three ovals showing 4 ∈ {2, 4, 6}, 5 ∉ {2, 4, 6}, {0} with one element and the empty set. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>Membership symbols, the one-element set {0} and the empty set are different things.</figcaption>
+</figure>
+
+
 ## 1.5 D: The complement of a set (both tiers)
 
 The **complement** of A, written **A′**, is the set of elements of ℰ that are **not** in A. You cannot find a complement without knowing ℰ.
@@ -158,6 +164,22 @@ If instead only the right circle is shaded, apart from the overlap, the region i
 
 Venn diagrams also appear in probability questions; see the [statistics and probability study guide](/resources/edexcel-igcse-maths-4ma1-statistics-and-probability/) for that use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--01-set-place-elements.webp" width="900" height="850" alt="A Venn diagram of the numbers 1 to 12 with A the multiples of 3 and B the factors of 12. The overlap holds 3, 6 and 12, A only holds 9, B only holds 1, 2 and 4, and 5, 7, 8, 10, 11 sit outside both circles. The counts 3, 1, 3 and 5 add to 12." loading="lazy">
+  <figcaption>Fill the overlap first, then the single-set parts, then the outside.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--08-complement-shading.webp" width="900" height="1060" alt="Two Venn diagrams of the worked example 1 sets with (A ∩ B)′ and A′ ∩ B shaded. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>Shading everything except the overlap is (A ∩ B)′; B only is A′ ∩ B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--02-two-set-regions.webp" width="900" height="1060" alt="Six two-set Venn diagrams with regions numbered 1 to 4 (A only, both, B only, neither). The shaded regions show A∩B, A∪B, A′, (A∪B)′, A∩B′ and A′∪B." loading="lazy">
+  <figcaption>Each set expression is just a list of numbered regions.</figcaption>
+</figure>
+
+
 ## 1.5 A: Sets in algebraic terms and subsets (Higher tier only)
 
 A set can be defined by a rule using the notation **{x : …}**, read "the set of all x such that …".
@@ -186,6 +208,22 @@ Is S ⊂ T?  9 ∈ S but 9 ∉ T, so S is not a subset of T.
 
 **Subsets.** A ⊂ B means "A is a subset of B": every element of A is also an element of B. If A ⊂ B, the circle for A sits wholly inside the circle for B on a Venn diagram. {4, 16} ⊂ S above, because both 4 and 16 are in S. To show a set is **not** a subset, give one element that is in the first set but not the second.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--02-set-element-vs-subset.webp" width="900" height="890" alt="Higher tier. A circle S holds 1, 4, 9 and 16. The number 4 is ringed as an element, 4 in S. A dashed oval around 4 and 16 is the subset {4, 16} contained in S. n(S) is the number 4." loading="lazy">
+  <figcaption>An element belongs to a set; a set is contained in a set.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--06-subset-plain-symbol.webp" width="900" height="910" alt="Venn diagram of S and T from worked example 4 plus a nested circle showing {4, 16} ⊂ S. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>One element in S but not in T shows S is not a subset of T.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--01-listing-vs-rule.webp" width="900" height="870" alt="Two number lines. Top: the integers from -3 up to but not including 2 are the five elements of A, with 2 shown as a hollow ring. Bottom: every number from 2 to 4 is in C, so it has infinitely many elements and cannot be listed." loading="lazy">
+  <figcaption>A rule can describe a set you can list or one you cannot.</figcaption>
+</figure>
+
+
 ## 1.5 B and C: Counting elements with n(A) (Higher tier only)
 
 **n(A)** is the number of elements in A. It is a number, not a set, so you write n(A) = 4, never n(A) = {1, 4, 9, 16}.
@@ -199,6 +237,12 @@ n(A ∪ B) = n(A) + n(B) − n(A ∩ B)
 ```
 
 Using S and T from worked example 4: n(S) = 4, n(T) = 5, S ∩ T = {1, 4} so n(S ∩ T) = 2, and n(S ∪ T) = 4 + 5 − 2 = 7. Listing S ∪ T = {1, 2, 3, 4, 5, 9, 16} confirms 7.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--03-set-count-overlap-once.webp" width="900" height="880" alt="Higher tier. A Venn diagram with S the squares up to 20 and T the integers with 2x + 3 &lt; 15. S only is 9 and 16, T only is 2, 3 and 5, the overlap is 1 and 4. Counting S then T gives 9 tiles with 1 and 4 twice; counting each once gives 7, so n(S ∪ T) = 4 + 5 − 2 = 7." loading="lazy">
+  <figcaption>Subtract the overlap so each element is counted once.</figcaption>
+</figure>
+
 
 ## 1.5 D: Sets in practical situations (Higher tier only)
 
@@ -239,6 +283,12 @@ x = 10
 ```
 
 So 10 play both and 5 play neither. Check: 25 + 10 + 20 + 5 = 60 ✓.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--03-unknown-overlap.webp" width="900" height="1010" alt="Two Venn diagrams of 50 tourists. First the regions are written with x for the overlap (31−x, x, 27−x, x÷2); solving gives x = 16. Then the filled counts 15, 16, 11 and 8 add to 50." loading="lazy">
+  <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
+</figure>
+
 
 ## Common errors
 

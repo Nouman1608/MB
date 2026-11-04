@@ -87,6 +87,12 @@ each monomer** and one complete ester link, plus the bonds that continue to the 
 
 **Typical uses of Terylene:** fibres for clothing (often blended with cotton) and plastic drinks bottles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-polymers--02-repeat-units.webp" width="900" height="1022" alt="Skeletal repeat units in square brackets with n: Terylene (ester link, benzene ring, CH2CH2), nylon 6,6 (4 CH2 and 6 CH2 with amide link) and Kevlar (two benzene rings with amide links)." loading="lazy">
+  <figcaption>Terylene, nylon 6,6 and Kevlar repeat units, each with one residue of each monomer. (AQA, OxfordAQA (OCR does not require recall of named polymers))</figcaption>
+</figure>
+
+
 ### Polyamides: nylon 6,6 and Kevlar
 
 Nylon 6,6 is made from **hexanedioic acid** and **hexane-1,6-diamine**. The –COOH reacts with –NH₂,
@@ -106,6 +112,12 @@ and for ropes and protective clothing where great strength for low weight is nee
 In the laboratory, nylon 6,6 is usually made with **hexanedioyl dichloride** in place of the acid. The
 acyl chloride is more reactive, and HCl is lost instead of water. This links to the reactions of acyl
 chlorides with primary amines in 3.3.9.2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-polymers--03-nylon-formation.webp" width="900" height="1065" alt="Hexanedioic acid above hexane-1,6-diamine; the OH from the acid and an H from the amine leave as water and an amide link forms in the product, which still has free COOH and NH2 ends. A strip shows the diacyl chloride laboratory route losing HCl instead." loading="lazy">
+  <figcaption>The OH of an acid and an H of an amine leave as water, leaving an amide link and free ends that can react again. (All boards; acyl chloride OCR/AQA)</figcaption>
+</figure>
+
 
 ### Polyamides from amino acids
 
@@ -129,6 +141,12 @@ propane-1,3-diol, and state what else forms.
 - Repeating unit: **–[CO–CH₂CH₂–CO–O–CH₂CH₂CH₂–O]–**, with the n outside the brackets.
 - The other product is **water**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--07-proteins.webp" width="900" height="1140" alt="Three amino acid monomers, each with an NH2 end and a COOH end, join into a chain. Each join is a CO-NH peptide bond and releases water. A comparison shows nylon uses two monomers while a protein uses one monomer carrying both groups." loading="lazy">
+  <figcaption>Proteins are condensation polymers of amino acids joined by peptide (amide) bonds.</figcaption>
+</figure>
+
+
 ### Repeating units from a section of chain
 
 1. Find the linkages (–CO–O– or –CO–NH–) along the chain.
@@ -136,6 +154,12 @@ propane-1,3-diol, and state what else forms.
    atoms: one diacid residue and one diol or diamine residue.
 3. Cut through the middle of a linkage (between C and O, or C and N) at each end, so the unit begins with
    the CO or the O/NH. Draw extension bonds and put n outside.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-polymers--04-chain-to-monomers.webp" width="900" height="810" alt="A polyamide chain section with four shaded pieces, dashed cuts through each CO-N link and a brace marking one repeat unit; an arrow adds OH to each C=O carbon and H to each N, giving butanedioic acid and ethane-1,2-diamine." loading="lazy">
+  <figcaption>Cut every amide link, then add OH to each carbonyl carbon and H to each nitrogen to recover the monomers. (All boards)</figcaption>
+</figure>
+
 
 ### Monomers from a section of chain
 
@@ -164,6 +188,17 @@ hexane-1,6-diamine, taking two water molecules lost per repeating unit.
 - Atom economy = 226.0 / (146.0 + 116.0) × 100 = **86.3%**.
 - It is below 100% because water is a by-product. Addition polymerisation has an atom economy of 100%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--08-plastic-waste.webp" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET." loading="lazy">
+  <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
+</figure>
+
+
 ### Intermolecular forces between condensation polymers
 
 All polymer chains have **van der Waals forces** between them. Condensation polymers also have stronger
@@ -181,6 +216,47 @@ forces, because their linkages are polar.
 Stronger forces between chains mean the polymer needs more energy to melt and is stronger as a fibre.
 This is why polyamides and polyesters make good fibres, while polyalkenes such as poly(ethene), which
 have only van der Waals forces, are softer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-polymers--01-condensation-links.webp" width="900" height="1136" alt="Three panels: dicarboxylic acid (COOH ends) plus diol (OH ends) gives a polyester with ester links; diacid plus diamine (NH2 ends) gives a polyamide with amide links; one amino acid joins head to tail to give a polyamide. Each link releases one water molecule." loading="lazy">
+  <figcaption>Monomers with two reactive ends join into chains, losing water at every ester or amide link (OCR also covers hydroxy acids). (All boards; hydroxy acids OCR only)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-polymers--05-chain-forces.webp" width="900" height="1285" alt="Polyamide chains: N-H of one chain points at C=O of the next with dashed hydrogen bonds. Polyester chains: C=O groups attract each other by dipole-dipole forces, with no N-H or O-H. A bar ranks polyalkene (van der Waals), polyester (dipole-dipole) and polyamide (hydrogen bonds)." loading="lazy">
+  <figcaption>Polyamides form hydrogen bonds between chains, polyesters only dipole-dipole forces, so polyamides are stronger. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-polymers--06-kevlar-sheet.webp" width="900" height="680" alt="Three Kevlar chain sections lie in parallel; their benzene rings are shaded; dashed lines show six hydrogen bonds from N-H groups to C=O groups on neighbouring chains." loading="lazy">
+  <figcaption>Flat, rigid Kevlar chains line up in parallel and form many hydrogen bonds. (AQA, OxfordAQA)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--02-poly-ethene.webp" width="900" height="990" alt="Four ethene molecules each have a C=C double bond. The double bonds open and the molecules join into one long chain of single-bonded carbons with new bonds between units. One CH2-CH2 repeat unit is bracketed and repeated n times, and nothing else is made." loading="lazy">
+  <figcaption>Opening each C=C bond joins ethene monomers into poly(ethene) with no other product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--04-addition-vs-condensation.webp" width="900" height="1150" alt="Addition: monomers with C=C join into a chain and nothing else is made. Condensation: monomers with an end group at both ends join into a chain and a water molecule is given off at every join." loading="lazy">
+  <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--05-amide-ester-links.webp" width="900" height="1130" alt="Bond by bond: an acid end loses OH and an amine end loses H, which leave as water, and the acid carbon bonds to nitrogen to make a CO-NH amide link. The same happens with an alcohol end to make a CO-O ester link." loading="lazy">
+  <figcaption>An amide or ester link forms when H and OH leave as water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--06-nylon-and-pet.webp" width="900" height="830" alt="Nylon is a diacid and a diamine alternating, joined by CO-NH and NH-CO amide links. PET is a diacid and a diol alternating, joined by CO-O and O-CO ester links. Each link releases water and each repeat unit contains two links." loading="lazy">
+  <figcaption>Nylon and PET follow the same pattern; only the second monomer and the link change.</figcaption>
+</figure>
+
 
 ## Biodegradability and disposal (3.3.12.2)
 
@@ -200,6 +276,17 @@ condensation reaction. It happens faster with an acid or alkali. These links mak
 
 - The ester links are hydrolysed. The diol is released as **ethane-1,2-diol**.
 - The acid groups end up as their sodium salt in alkali: **sodium benzene-1,4-dicarboxylate**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-polymers--07-hydrolysis-attack.webp" width="900" height="970" alt="An ester and an amide fragment each have a delta-plus carbonyl carbon attacked by a water molecule via a curly arrow from its lone pair, and the link breaks. A polyalkene chain of C-C and C-H bonds has no delta-plus carbon, so the attack is crossed out." loading="lazy">
+  <figcaption>Ester and amide links have a delta-plus carbon that water can attack; polyalkenes do not. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-polymers--08-hydrolysis-products.webp" width="900" height="740" alt="A grid: polyester with hot acid gives diacid and diol; with alkali gives diacid salt and diol; polyamide with acid gives diacid and diammonium salt; with alkali gives diacid salt and free diamine." loading="lazy">
+  <figcaption>Acid hydrolysis gives acids and ammonium salts; alkaline hydrolysis gives carboxylate salts and free alcohols or amines. (All boards)</figcaption>
+</figure>
+
 
 ### Why polyalkenes cannot be hydrolysed
 

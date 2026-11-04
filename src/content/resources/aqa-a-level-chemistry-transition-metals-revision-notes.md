@@ -60,6 +60,22 @@ Key equations:
 
 **Haem**: iron(II) complex with a multidentate ligand. O₂ forms a co-ordinate bond to Fe(II) for transport in blood. **CO is toxic** because it replaces the O₂ co-ordinately bonded to Fe(II).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--01-complex-anatomy.webp" width="900" height="1160" alt="An octahedral copper(II) ion has six water ligands, each joined by a dative bond (a lone pair donated by the ligand); labels name the metal ion, ligand and dative bond. Below, three bidentate ethanedioate ligands (coloured curves) give six bonds to chromium, so the coordination number is 6 and Cr is +3." loading="lazy">
+  <figcaption>A complex is a metal ion with ligands bonded by dative bonds; count the bonds, not the ligands, for coordination number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--05-ligand-exchange.webp" width="900" height="1295" alt="Pale blue [Cu(H2O)6]2+ gives deep blue [Cu(NH3)4(H2O)2]2+ with ammonia (still six bonds) and yellow tetrahedral [CuCl4]2- with concentrated HCl (six bonds to four). Pink [Co(H2O)6]2+ becomes blue [CoCl4]2- with chloride." loading="lazy">
+  <figcaption>Ammonia swaps for water without changing coordination number, but larger chloride ions give a four-coordinate tetrahedral complex.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--06-chelate-effect.webp" width="900" height="990" alt="Left: a nickel water complex plus three en molecules, 4 particles. Right: the nickel en complex plus six free water molecules, 7 particles. A stacked bar shows illustrative dG = -8.0 + (-32.8) = -40.8 kJ/mol at 298 K, which is negative." loading="lazy">
+  <figcaption>More particles means positive entropy change, so dG is negative and the chelate forms.</figcaption>
+</figure>
+
+
 ## 3.2.5.3 Shapes and isomers
 
 | Shape | Typical ligands | Angle | Isomerism |
@@ -73,6 +89,22 @@ Key equations:
 - Optical isomers of [M(en)₃]ⁿ⁺ are non-superimposable mirror images. Draw both with wedges, as mirror images.
 
 **Must-know distinction**: co-ordination number counts **bonds**, not ligands. [Fe(C₂O₄)₃]³⁻ has three ligands but co-ordination number 6.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--02-complex-shapes.webp" width="900" height="1160" alt="Four ball-and-stick drawings: octahedral [Cu(H2O)6]2+ (90 degrees), tetrahedral [CuCl4]2- (109.5), square planar cisplatin (90) and linear [Ag(NH3)2]+ (180). Small ligands give octahedral, larger Cl- gives tetrahedral." loading="lazy">
+  <figcaption>Complex ions are octahedral, tetrahedral, square planar or linear depending on the ligands.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--03-cis-trans-isomers.webp" width="900" height="1040" alt="Octahedral [Co(NH3)4Cl2]+ and square planar [Pt(NH3)2Cl2] each shown twice: with the two Cl ligands 90 degrees apart (cis) and 180 degrees apart (trans). The cis square planar form is cisplatin." loading="lazy">
+  <figcaption>Cis isomers have the two Cl ligands at 90 degrees and trans at 180 degrees; cisplatin is cis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--04-optical-isomers.webp" width="900" height="870" alt="Two drawings of [Ni(en)3]2+ stand either side of a mirror line. Each has three curved bidentate ligands joining pairs of nitrogen atoms. They are mirror images and cannot be superimposed." loading="lazy">
+  <figcaption>[Ni(en)3]2+ exists as two non-superimposable mirror images, so it shows optical isomerism.</figcaption>
+</figure>
+
 
 ## 3.2.5.4 Colour
 
@@ -112,6 +144,12 @@ Zinc in acid reduces vanadate(V): **VO₂⁺ (+5, yellow) → VO²⁺ (+4, blue)
 
 Self-indicating: end point is the **first permanent pale pink**. Use **dilute sulfuric acid**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--08-vanadium-oxidation-states.webp" width="900" height="810" alt="Four test tubes show yellow VO2+ (+5), blue VO2+ (+4), green V3+ (+3) and violet V2+ (+2), joined by arrows labelled Zn with E cell values +1.76 V, +1.10 V and +0.50 V. An arrow shows the oxidation state falling from +5 to +2." loading="lazy">
+  <figcaption>Zinc reduces vanadium from +5 to +2 in steps, each with a colour change.</figcaption>
+</figure>
+
+
 ## 3.2.5.6 Catalysts
 
 | | Heterogeneous | Homogeneous |
@@ -131,6 +169,12 @@ Mn²⁺:      4Mn²⁺ + MnO₄⁻ + 8H⁺ → 5Mn³⁺ + 4H₂O;   2Mn³⁺ + C
 ```
 
 **Small worked reminder: why Fe²⁺ can catalyse S₂O₈²⁻ + I⁻.** Iron must be able to do both steps. Fe²⁺ is oxidised by S₂O₈²⁻ (step 1), and the Fe³⁺ formed oxidises I⁻ (step 2). Both steps are feasible because the Fe³⁺/Fe²⁺ electrode potential (+0.77 V) lies between those of I₂/I⁻ (+0.54 V) and S₂O₈²⁻/SO₄²⁻ (+2.01 V). Use the values a question gives you.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--09-catalyst-cycles.webp" width="900" height="1270" alt="Two cycles. Top, heterogeneous: V2O5 (V +5) reacts with SO2 giving SO3 and becomes V2O4 (V +4), then reacts with half an O2 to return to V2O5. Bottom, homogeneous: Fe2+ is oxidised by S2O8 2- to Fe3+, which is reduced back by I- forming iodine." loading="lazy">
+  <figcaption>A transition metal catalyst changes oxidation state to give an easier route and is then regenerated.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

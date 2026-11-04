@@ -86,6 +86,17 @@ Left on N: 5 - 3 = 2  ->  1 non-shared pair
 Check N: 3 x 2 shared + 2 = 8   Each H: 2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding--09-cov-dotcross-set.webp" width="900" height="1100" alt="Dot and cross diagrams of H2, Cl2, O2, N2 and NH3. H2 and Cl2 share one pair, O2 two pairs (double bond), N2 three pairs (triple bond), NH3 three pairs with one lone pair on nitrogen. Each hydrogen has 2 electrons in its shell and every other atom 8." loading="lazy">
+  <figcaption>The remaining dot and cross diagrams the spec requires: H2, Cl2, O2, N2 and NH3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
+
 ## Three kinds of covalent substance
 
 | Kind | How to spot it in a diagram | Examples you must know |
@@ -95,6 +106,17 @@ Check N: 3 x 2 shared + 2 = 8   Each H: 2
 | Giant covalent | Network with bonds running off every edge | diamond, silicon dioxide |
 
 **Formula trap.** CO₂ is a small molecule. SiO₂ is giant covalent. For a giant structure the formula gives the ratio of atoms only. In silicon dioxide each Si bonds to 4 O and each O bonds to 2 Si.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding--11-cov-three-kinds.webp" width="900" height="1000" alt="Small molecules are separate identical groups with space between them. A polymer is a chain inside brackets with a small n. A giant covalent structure is a network whose bonds run off the edge of the diagram." loading="lazy">
+  <figcaption>How to tell small molecules, polymers and giant covalent structures apart by their diagrams.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
 
 ## Representing bonds with lines
 
@@ -120,6 +142,27 @@ Check N: 3 x 2 shared + 2 = 8   Each H: 2
 5. Do NOT cancel to a simpler ratio.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding--12-cov-ethanol-model.webp" width="900" height="1090" alt="A ball and stick model of ethanol: two carbon balls, three hydrogens on the first, two hydrogens and an oxygen on the second, and one hydrogen on the oxygen. Counting gives carbon 2, hydrogen 3 + 2 + 1 = 6, oxygen 1, so C2H6O." loading="lazy">
+  <figcaption>Worked example 3: counting the balls to get C2H6O.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding--13-cov-diamond.webp" width="900" height="830" alt="A three-dimensional view of part of diamond: a central carbon bonded to four carbons arranged tetrahedrally, each with three more bonds fading into dotted lines to show the network continues in all directions." loading="lazy">
+  <figcaption>Part of diamond: every carbon bonds to four others and the structure continues.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--02-poly-ethene.webp" width="900" height="990" alt="Four ethene molecules each have a C=C double bond. The double bonds open and the molecules join into one long chain of single-bonded carbons with new bonds between units. One CH2-CH2 repeat unit is bracketed and repeated n times, and nothing else is made." loading="lazy">
+  <figcaption>Opening each C=C bond joins ethene monomers into poly(ethene) with no other product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--01-formula-from-model.webp" width="900" height="890" alt="Two ball-and-stick models. One nitrogen bonded to three hydrogens gives NH3. Two carbons each with three hydrogens give C2H6, which is not simplified to CH3." loading="lazy">
+  <figcaption>Count every atom in a molecule to write its molecular formula.</figcaption>
+</figure>
+
+
 ## Limitations of each representation
 
 | Representation | Main limitation |
@@ -131,6 +174,12 @@ Check N: 3 x 2 shared + 2 = 8   Each H: 2
 | Diagram of a giant structure | Shows only a tiny part of a structure that continues in all directions |
 
 Give a **specific** limitation for the named model. "It is not accurate" scores nothing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding--10-cov-model-limits.webp" width="900" height="960" alt="Water drawn four ways: dot and cross (no 3D shape), displayed formula (no electrons shown), ball and stick (bonds are not real sticks) and space-filling (bonds are hard to see)." loading="lazy">
+  <figcaption>Each way of drawing a molecule hides something.</figcaption>
+</figure>
+
 
 ## Metallic bonding (4.2.1.5)
 
@@ -147,6 +196,22 @@ Number of delocalised electrons per atom = number of outer electrons:
 | Sodium | 1 | 1 | Na⁺ |
 | Calcium | 2 | 2 | Ca²⁺ |
 | Aluminium | 3 | 3 | Al³⁺ |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding--12-cov-magnesium.webp" width="900" height="890" alt="Three magnesium atoms each have two outer electrons. They become three Mg2+ ions in a regular pattern with six delocalised electrons. The strong electrostatic attraction between ions and electrons is the metallic bond." loading="lazy">
+  <figcaption>Magnesium: 2 delocalised electrons per atom and a strong ion-electron attraction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding--11-cov-valency.webp" width="900" height="1010" alt="For hydrogen, chlorine, oxygen, nitrogen and carbon, a circle with bond lines, a shell ring with filled outer electrons and dashed spaces still to fill, and the number of bonds: 1, 1, 2, 3 and 4." loading="lazy">
+  <figcaption>The number of covalent bonds an atom forms equals the electrons it needs to fill its outer shell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

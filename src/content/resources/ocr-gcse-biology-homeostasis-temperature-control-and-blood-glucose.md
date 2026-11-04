@@ -65,6 +65,22 @@ Calculate the rate of temperature rise over the 30 minutes and explain why the r
 
 The rise slows (0.6, 0.5, then 0.4 °C per 10 minutes), which fits negative feedback starting to work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose--01-core-temperature-rise.webp" width="900" height="910" alt="Line graph of core temperature at 0, 10, 20 and 30 minutes: 37.0, 37.6, 38.1, 38.5 degrees C. Each 10-minute rise is 0.6, 0.5 then 0.4, so the rise slows. Total 1.5 degrees C in 30 minutes, 0.05 degrees C per minute." loading="lazy">
+  <figcaption>The rise in core temperature slows as negative feedback starts to work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--04-temperature-graph.webp" width="900" height="800" alt="Sketch graph of enzyme activity against temperature. Activity rises to a peak at the optimum (about 37 degrees Celsius for many human enzymes) then falls quickly to near zero. Cold enzymes are slow but not denatured; hot enzymes are denatured and do not recover on cooling." loading="lazy">
+  <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose--02-control-system-chain.webp" width="900" height="800" alt="Stimulus, receptors, coordination centre (thermoregulatory centre), effectors (sweat glands, skin vessels, muscles), response, with a feedback arrow back to the stimulus." loading="lazy">
+  <figcaption>Every control system has receptors, a coordination centre and effectors.</figcaption>
+</figure>
+
+
 ## B3.3b: The skin and body temperature control
 
 Temperature receptors in the skin detect external temperature, and the brain monitors the temperature of the blood. Impulses pass along sensory neurones to the brain, which sends impulses to effectors: sweat glands, muscles and the blood vessels of the skin.
@@ -98,6 +114,12 @@ A volunteer rests in rooms at different air temperatures. Blood flow through the
 
 In very humid air sweat evaporates slowly, so cooling is less effective.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose--03-skin-temperature.webp" width="900" height="1260" alt="Two skin cross-sections. Too hot: wide arteriole, three large heat arrows, sweat evaporating, skin blood flow 240 units at 40 C. Too cold: narrow arteriole, a small heat arrow, no sweat, shivering muscle, flow 15 units at 10 C. The vessels stay in place; only their width changes." loading="lazy">
+  <figcaption>Same vessels, different width: that is vasodilation and vasoconstriction.</figcaption>
+</figure>
+
+
 ## B3.3c: How insulin controls blood sugar
 
 Blood glucose is kept in a narrow range, roughly 4 to 6 mmol/dm³ in a healthy person (in questions, use the values given). After a meal, carbohydrate is digested to glucose, which is absorbed into the blood, so the concentration rises.
@@ -126,6 +148,12 @@ A healthy person eats a meal at time 0. Blood glucose and insulin are measured.
 
 (c) Glucose peaks at 30 minutes and insulin at 60 minutes. The pancreas responds to high glucose by secreting insulin, which takes time to be released and carried in the blood. Glucose falls as insulin acts on liver and muscle cells, and insulin returns to its starting value as glucose returns to about 5 mmol/dm³.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose--02-insulin-steps.webp" width="900" height="900" alt="Five steps: a meal raises blood glucose; the pancreas detects it; it releases insulin into the blood; liver and muscle cells take up glucose and store glycogen; glucose falls and insulin release falls." loading="lazy">
+  <figcaption>Insulin lowers blood glucose by making liver and muscle cells take it up.</figcaption>
+</figure>
+
+
 ## B3.3d: How glucagon interacts with insulin (Higher Tier only)
 
 Blood glucose can also fall too low, for example after fasting or long exercise. A second pancreatic hormone, **glucagon**, deals with this. Insulin and glucagon have opposite effects, and together they keep glucose near the normal level.
@@ -141,6 +169,12 @@ Blood glucose falls from 5.0 to 4.4 mmol/dm³ in 8 hours without food.
 
 1. Fall = 0.6, which is 0.6 ÷ 5.0 × 100 = **12%**. Mean rate = 0.6 ÷ 8 = **0.075 mmol/dm³ per hour**.
 2. The fall is small because the falling level stimulates glucagon secretion. Glucagon makes the liver convert glycogen to glucose and release it, which slows the fall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1290" alt="Extended. Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
+  <figcaption>Each response reverses the change, returning glucose towards the set point.</figcaption>
+</figure>
+
 
 ## B3.3e: Type 1 and type 2 diabetes
 
@@ -189,6 +223,17 @@ A survey of 3500 adults gives this table.
 | BMI 30 or over | 800 | 88 |
 
 Percentages: 18 ÷ 1200 = **1.5%**; 66 ÷ 1500 = **4.4%**; 88 ÷ 800 = **11%**. The higher the BMI group, the higher the percentage with type 2 diabetes: a positive correlation. The 11% group is about 7.3 times the 1.5% group. A correlation does not prove that weight causes the disease, but it is consistent with obesity being a risk factor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose--04-glucose-tolerance-test.webp" width="900" height="930" alt="Line graph of glucose over 3 hours for P, Q, R using the lesson data. P rises to 7.6 and returns to 4.7 (healthy); Q starts at 9.5, peaks at 17.5 and stays high (type 1); R peaks at 14.8 and falls slowly to 12.0 (type 2)." loading="lazy">
+  <figcaption>Only the healthy person returns to the normal band.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose--03-bmi-type2-survey.webp" width="900" height="900" alt="Bar chart: 1.5 percent (18 of 1200), 4.4 percent (66 of 1500) and 11 percent (88 of 800) have type 2 diabetes at BMI under 25, 25 to 29.9 and 30 or over. A positive correlation that does not prove cause." loading="lazy">
+  <figcaption>The percentage with type 2 diabetes rises with BMI in this survey of 3500 adults.</figcaption>
+</figure>
+
 
 ## Common errors
 

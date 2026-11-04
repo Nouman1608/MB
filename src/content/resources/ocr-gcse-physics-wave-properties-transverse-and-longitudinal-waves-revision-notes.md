@@ -81,6 +81,12 @@ More reminders. An oscilloscope trace with 8 complete waves across 10 ms has T =
 
 An oscilloscope trace is a displacement-time graph. Peak to peak along the axis is a period, not a wavelength. Amplitude is measured from the middle line, which is half the trough-to-crest height.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--06-distance-vs-time-graphs.webp" width="900" height="1010" alt="Two sine graphs of a rope wave. Displacement against distance shows the wavelength, 0.36 m. Displacement against time shows the period, 0.20 s. Amplitude is the same on both." loading="lazy">
+  <figcaption>Check the horizontal axis: distance gives wavelength, time gives period.</figcaption>
+</figure>
+
+
 ## Transverse and longitudinal waves (P5.1e)
 
 | | Transverse | Longitudinal |
@@ -91,6 +97,17 @@ An oscilloscope trace is a displacement-time graph. Peak to peak along the axis 
 | Wavelength | Crest to crest | Compression to compression |
 
 Model: a slinky. Side to side movement of the end gives transverse pulses. In and out movement along the spring gives longitudinal pulses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--12-slinky-pulses.webp" width="900" height="940" alt="A slinky with a ribbon on one coil. A transverse pulse moves the coils sideways and the ribbon returns afterwards. A longitudinal pulse bunches coils into a compression and spreads them into a rarefaction; the ribbon again ends where it started." loading="lazy">
+  <figcaption>On a slinky the pulse travels along while each coil only moves a short way and returns.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
+
 
 ## Ripples, sound and measuring speed (P5.1j)
 
@@ -107,12 +124,44 @@ Model: a slinky. Side to side movement of the end gives transverse pulses. In an
 
 For a short time interval, an electronic timer beats a hand-held stopwatch. Repeating and averaging improves reliability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--08-echo-speed-of-sound.webp" width="900" height="860" alt="A pupil 51 m from a wall hears the echo 0.30 s after a clap. The sound travels 2 x 51 = 102 m, so the speed is 102 / 0.30 = 340 m/s." loading="lazy">
+  <figcaption>Echo method: speed = 2d divided by t.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--09-ripple-tank-speed.webp" width="900" height="860" alt="Plane ripples from a dipper cross a ripple tank. Six wavelengths span 0.21 m so one is 0.035 m; nine ripples pass a mark in 3.0 s so f = 3.0 Hz; v = 0.105 m/s, about 0.11 m/s." loading="lazy">
+  <figcaption>Measure several wavelengths and count ripples over time, then use v = f x lambda.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--10-two-microphone-speed.webp" width="900" height="850" alt="Microphone 1 starts a timer and microphone 2, 1.50 m further, stops it. The timer reads 4.4 ms so v = 1.50 / 0.0044, about 340 m/s." loading="lazy">
+  <figcaption>Electronic timing between two microphones removes human reaction time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--11-oscilloscope-speed.webp" width="900" height="890" alt="A microphone linked to an oscilloscope is moved away from a loudspeaker driven at 1700 Hz. After 0.10 m the trace is upside down; after 0.20 m it is in step again, one whole wavelength, so v = 1700 x 0.20 = 340 m/s." loading="lazy">
+  <figcaption>Move the microphone until the trace repeats: that distance is one wavelength.</figcaption>
+</figure>
+
+
 ## Evidence that the wave travels, not the medium (P5.1k)
 
 - **Ripples:** a floating cork bobs up and down about the same spot while the ripples pass. It is not carried across the tank.
 - **Sound in air:** you hear sound at a distance without a steady wind. Smoke or light dust near a speaker shakes to and fro about its position and does not drift away.
 - **Slinky:** a pulse runs along the spring, but each coil returns to where it started.
 - A wave transfers energy, not matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--07-wave-not-water.webp" width="900" height="920" alt="Two side views of ripples a quarter period apart. The crest moves right by a quarter wavelength but a floating cork stays at the same horizontal position and only moves up and down." loading="lazy">
+  <figcaption>The wave moves along but the water only vibrates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
 
 ## Model answers to learn
 

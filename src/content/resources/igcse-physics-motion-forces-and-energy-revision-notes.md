@@ -89,11 +89,33 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Speed** is a **scalar** — magnitude only. **Velocity is speed in a given direction** — a **vector**. An object can have constant speed but changing velocity if its direction is changing (e.g. moving at constant speed around a bend), and this changing velocity is itself an acceleration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--01-distance-time-graph.webp" width="900" height="970" alt="A distance-time graph rises steeply for 40 m in 10 s, is flat for 10 s, then rises less steeply by 60 m in 20 s. Steeper means faster, flat means stopped; the last gradient triangle gives 60 / 20 = 3 m/s." loading="lazy">
+  <figcaption>The gradient of a distance-time graph is the speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--02-speed-time-graph.webp" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration, Extended). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled (Core)." loading="lazy">
+  <figcaption>The area under a speed-time graph is the distance travelled; its gradient is the acceleration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--03-terminal-velocity.webp" width="900" height="1067" alt="An illustrative skydiver speed-time curve rises and levels at 50 m/s. Three force diagrams: at A only weight acts; at B drag is smaller than weight so speed still rises; at C drag equals weight so the speed is constant (terminal velocity)." loading="lazy">
+  <figcaption>Terminal velocity is reached when drag has grown to balance the weight.</figcaption>
+</figure>
+
+
 ## Mass vs weight — the single most common mix-up
 
 - **Mass** is the amount of matter in an object. Measured in **kg**. The same everywhere.
 - **Weight** is the pull of gravity on that mass — a **force**, measured in **newtons (N)**. Changes if gravitational field strength changes (e.g. weight on the Moon is about 1/6 of weight on Earth; mass is unchanged).
 - Link them with **g = W/m**, so **W = mg**. On Earth's surface, g ≈ 9.8 N/kg (equivalently, free-fall acceleration ≈ 9.8 m/s²).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--04-mass-and-weight.webp" width="900" height="970" alt="A 5.0 kg block has a weight arrow of 49 N on Earth (g = 9.8 N/kg) but only about 8.2 N on the Moon, where g is about a sixth as large. Mass stays 5.0 kg." loading="lazy">
+  <figcaption>Mass stays the same everywhere, but weight (W = mg) depends on the gravitational field strength.</figcaption>
+</figure>
+
 
 ## Density and floating
 
@@ -101,6 +123,12 @@ Condensed for the final weeks. For the full explanation, use the
 - A 54 g stone raises the level from 40.0 cm³ to 60.0 cm³: ρ = 54 ÷ 20.0 = 2.7 g/cm³.
 - An object **floats** if its density is less than the liquid's (water: 1.0 g/cm³), and sinks if it is greater.
 - *(Supplement)* Of two liquids that do not mix, the less dense floats on top (oil on water).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--05-float-or-sink.webp" width="900" height="880" alt="A block of density 0.80 g/cm3 floats in water with 80% submerged, a stone of 2.7 g/cm3 sinks. In a second beaker (Extended) oil of 0.92 g/cm3 floats on water of 1.0 g/cm3." loading="lazy">
+  <figcaption>An object floats if its density is less than the liquid's; a less dense liquid floats on a denser one.</figcaption>
+</figure>
+
 
 ## Forces
 
@@ -111,6 +139,17 @@ Condensed for the final weeks. For the full explanation, use the
 - **Centre of gravity**: the single point where an object's whole weight can be considered to act. A wider base and lower centre of gravity make an object more stable — this is worth being able to explain, not just state.
 - **Finding it for a flat card:** hang the card from a pin so it swings freely, hang a plumb line from the same pin and mark its line; repeat from a second hole; the centre of gravity is where the lines cross.
 - **Load–extension experiment:** spring, clamp, vertical ruler, pointer; add loads one at a time; extension = new length − original length; plot load against extension.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--06-moments-balance.webp" width="900" height="830" alt="A beam on a central pivot with 2.0 N at 0.30 m on the left and W at 0.20 m on the right. The anticlockwise moment 0.60 N m equals the clockwise moment 0.60 N m, so W = 3.0 N and the beam balances." loading="lazy">
+  <figcaption>A beam balances when the clockwise and anticlockwise moments about the pivot are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
+  <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
+</figure>
+
 
 ## Momentum *(Supplement only)*
 
@@ -140,6 +179,12 @@ F = Δp/Δt  (resultant force = rate of change of momentum)
 - **Renewable:** biofuels, hydroelectric, tides, waves, geothermal, solar, wind. **Not renewable:** fossil fuels, nuclear fuel.
 - Compare them on **renewability, availability, reliability, scale and environmental impact**: fossil fuels are reliable and large-scale but release CO₂; wind and solar release no CO₂ in operation but depend on the weather; nuclear is reliable with no CO₂ in operation, but leaves radioactive waste.
 - *(Supplement)* The Sun is the main source of energy for all our resources except **geothermal, nuclear and tidal**. The Sun releases energy by **nuclear fusion**; research is under way into generating electricity from fusion on a large scale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--08-sankey-diagram.webp" width="900" height="1000" alt="A Sankey diagram: 100 J enters; 10 J, 50 J and 5 J are wasted at the boiler, turbine and generator, leaving 35 J electrical. Efficiency is 35 / 100 = 35%." loading="lazy">
+  <figcaption>A Sankey diagram shows energy flow with arrow width in proportion to energy; efficiency = useful / total.</figcaption>
+</figure>
+
 
 ## Pressure
 

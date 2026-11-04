@@ -30,6 +30,17 @@ Condensed notes for section 6.2 (Electric fields) of OCR A Level Physics A (H556
 - **Permittivity, ε:** property of the material between plates, ε = εᵣε₀. Relative permittivity εᵣ is at least 1. (6.2.3(b))
 - **Point-charge model:** a uniformly charged sphere acts, for points outside, as if its charge were at its centre. (6.2.1(b))
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--01-field-line-patterns.webp" width="900" height="1100" alt="Field lines for a positive point charge point radially outwards and for a negative charge radially inwards. Two opposite charges give curved lines from + to −. Parallel plates give evenly spaced lines in the middle, bending outwards at the edges. Closer lines mean a stronger field." loading="lazy">
+  <figcaption>Field lines show the direction of force on a positive test charge; closer lines mean a stronger field.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--04-charged-sphere-field.webp" width="900" height="1040" alt="A −45 nC sphere of radius 2.0 cm acts, outside it, like a point charge at its centre, so r is measured from the centre. At r = 6.0 cm E = 1.1×10⁵ N C⁻¹ inwards. OCR only: C = 4πε₀R for an isolated sphere." loading="lazy">
+  <figcaption>Outside a charged sphere, measure distance from its centre and use the point-charge formula.</figcaption>
+</figure>
+
+
 ## Formulae
 
 | Result | Equation | Spec |
@@ -67,6 +78,17 @@ Data used in the examples: ε₀ = 8.85 × 10⁻¹² F m⁻¹; elementary charge
 1. V = Q/(4πε₀r) at each radius, keeping the sign of Q.
 2. W = qΔV (or the change in Qq/(4πε₀r)).
 3. Positive work done on the charge when like charges are pushed together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--02-coulombs-law.webp" width="900" height="1100" alt="Like charges repel and unlike charges attract, with equal and opposite forces. +4.8 nC and −3.2 nC at 6.0 cm exert 3.8×10⁻⁵ N on each other. Doubling one charge and tripling the separation multiplies the force by 2/9, from 0.80 mN to 0.18 mN." loading="lazy">
+  <figcaption>The force between point charges follows an inverse square law and acts along the line joining them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--06-particle-in-uniform-field.webp" width="900" height="840" alt="An electron enters midway between plates at 2.0×10⁷ m s⁻¹. Along the plates its speed is constant (t = 2.5 ns); across them it accelerates at 1.76×10¹⁵ m s⁻², deflecting 5.5 mm towards the positive plate and leaving at 12.4° to its original path." loading="lazy">
+  <figcaption>The path is a parabola between the plates and a straight line after them.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -110,6 +132,17 @@ Data used in the examples: ε₀ = 8.85 × 10⁻¹² F m⁻¹; elementary charge
 - **F against r (point charge):** a curve that falls steeply then flattens, never touching the axis. Doubling r quarters F.
 - **V against r (positive charge):** a similar but less steep curve, V ∝ 1/r. For a negative charge V is negative and rises towards zero at infinity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--03-inverse-square-force.webp" width="900" height="880" alt="A graph of F against r for +8.0 nC and +0.60 nC falls as 1/r²: F at 0.10 m, F/4 at 0.20 m, F/9 at 0.30 m. OCR only: the area under the curve from 0.40 m to 0.10 m is the work done, 3.2×10⁻⁷ J." loading="lazy">
+  <figcaption>Doubling the separation divides the force by four.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--07-electric-potential.webp" width="900" height="1290" alt="Equipotentials cross field lines at right angles: rings around a point charge get further apart, and are evenly spaced in a uniform field. A V–r graph for +4.0 nC falls as 1/r; its gradient at 0.10 m is −3600 V m⁻¹, so E = 3600 N C⁻¹, and moving 2.0 nC from 0.30 m to 0.10 m takes 4.8×10⁻⁷ J." loading="lazy">
+  <figcaption>Field strength is minus the gradient of the potential–distance graph.</figcaption>
+</figure>
+
+
 ## Links to other sections
 
 - **Section 3.1 to 3.3 (motion, forces, Newton's laws):** a charged particle in a uniform field has constant force, so use constant-acceleration equations and resolve motion into two perpendicular components.
@@ -146,6 +179,17 @@ Data used in the examples: ε₀ = 8.85 × 10⁻¹² F m⁻¹; elementary charge
 10. v = √(2eV/m) = **1.3 × 10⁷ m s⁻¹**.
 11. Work done moving the charge between the two distances.
 12. Alike: both follow an inverse square law for a point source. Different: gravity only attracts, but electric forces can attract or repel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--05-uniform-field-plates.webp" width="900" height="1250" alt="Between plates 3.0 cm apart at 1500 V the field is E = V/d = 5.0×10⁴ V m⁻¹ and a charge feels F = QE. Halving the gap at the same p.d. doubles E. OxfordAQA only: a droplet held still by QE = mg carries 4.9×10⁻¹⁹ C, about 3.1e." loading="lazy">
+  <figcaption>E = V/d for the uniform field between charged parallel plates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--08-gravity-vs-electric.webp" width="900" height="1290" alt="Both forces are inverse square laws. Gravity always attracts so its potential is always negative; the electric force can attract or repel, so potential takes the sign of the source charge. Between an electron and a proton the electric force is about 2.3×10³⁹ times the gravitational force." loading="lazy">
+  <figcaption>Gravity and electric force are alike in form but the electric force is vastly stronger and can repel.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

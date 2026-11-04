@@ -39,6 +39,12 @@ Once the self-test below feels easy, go on to the [Amines practice questions](/r
 
 Naming reminders: primary amines take "-amine" on the stem (hexan-2-amine) or the alkylamine form (propylamine). Groups on nitrogen in secondary and tertiary amines use N-, as in N-methylethanamine or N,N-dimethylpropan-1-amine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+
 ## 6.2.1(a): Basicity and salts
 
 **The explanation in one line:** the lone pair on the nitrogen atom accepts a proton (H⁺), forming a dative covalent bond, so the amine is a base.
@@ -95,6 +101,27 @@ Naming reminders: primary amines take "-amine" on the stem (hexan-2-amine) or th
 C₆H₁₁CH₂Br + 2NH₃ → C₆H₁₁CH₂NH₂ + NH₄Br
 
 Product: cyclohexylmethanamine, a primary amine with the same carbon skeleton as the haloalkane.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--03-prep-routes.webp" width="900" height="1130" alt="Three routes: halogenoalkane with excess ammonia in ethanol (sealed tube, heat) gives a mixture of amines; a nitrile reduced with LiAlH4 in dry ether or H2/Ni gives only the primary amine; a nitro compound reduced with Sn and conc. HCl under reflux then NaOH gives a phenylamine plus water." loading="lazy">
+  <figcaption>Amines are made from halogenoalkanes, by reducing nitriles, or by reducing nitro compounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--05-sn-mechanism.webp" width="900" height="1170" alt="Curly-arrow mechanism for ethylamine + bromomethane: lone pair on N attacks the delta-plus carbon and the C-Br bond breaks to give Br-; a second ethylamine removes H+ from the N+ intermediate, giving N-methylethylamine and ethylammonium bromide." loading="lazy">
+  <figcaption>Nucleophilic substitution: N lone pair attacks C, Br- leaves, then H+ is removed from N+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--06-acyl-mechanism.webp" width="900" height="1230" alt="Addition-elimination: lone pair on N of methylamine attacks the delta-plus C=O carbon while the C=O pi bond moves onto O. In the tetrahedral intermediate the O- lone pair re-forms C=O and the C-Cl bond breaks to release Cl-. The product is N-methylethanamide, with methylammonium chloride from the second amine." loading="lazy">
+  <figcaption>Amines react with acyl chlorides by addition-elimination to give N-substituted amides.</figcaption>
+</figure>
+
 
 ## 6.2.1(b)(ii): Aromatic amines by reduction
 
@@ -169,6 +196,12 @@ Carry unrounded values through to the last step, and give the answer to the prec
 8. **C₆H₄(NO₂)₂ + 12[H] → C₆H₄(NH₂)₂ + 4H₂O**.
 9. M = 4(12.0) + 11(1.0) + 14.0 = 73.0 g mol⁻¹; n = 1.46 ÷ 73.0 = 0.0200 mol; ratio 1 : 1, so V = 0.0200 ÷ 0.500 = 0.0400 dm³ = **40.0 cm³**.
 10. Heat it **with a haloalkane in ethanol**; the N lone pair substitutes the halogen, giving R₂NR′.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--02-base-strength.webp" width="900" height="1030" alt="Three rows compare the lone pair on N as a teal cloud: dense in ethylamine (alkyl pushes electrons onto N), average in ammonia, spread into the ring in phenylamine. A gauge ranks base strength ethylamine &gt; ammonia &gt; phenylamine." loading="lazy">
+  <figcaption>The more available the nitrogen lone pair, the stronger the base: ethylamine &gt; ammonia &gt; phenylamine.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

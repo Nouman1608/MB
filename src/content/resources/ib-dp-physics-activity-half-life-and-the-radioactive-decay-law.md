@@ -44,11 +44,28 @@ The **activity** A of a sample is the number of nuclei that decay per unit time.
 
 The **count rate** is the number of particles or photons your detector registers per unit time. It is always smaller than the activity, because the source emits in all directions, radiation is absorbed on the way and the detector is not perfectly efficient. If the geometry stays the same, count rate is proportional to activity. So the count rate falls in the same proportion as the activity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--01-random-fixed-fraction.webp" width="900" height="1150" alt="Four grids of 64 nuclei show the start and after 1, 2 and 3 half-lives. Gold nuclei are undecayed and dashed grey ones have decayed. Which nuclei go is random, but 32, 16 and 8 are left, which is 1/2, 1/4 and 1/8." loading="lazy">
+  <figcaption>Which nucleus decays is random, yet the fraction left after each half-life is fixed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--02-activity-count-rate.webp" width="900" height="1110" alt="A source emits 20 particles in one second in all directions (20 Bq) but only 3 reach the Geiger-Muller detector, so the count rate is 3 per second. Some miss and some are absorbed. Halving the activity halves the count rate for the same set-up." loading="lazy">
+  <figcaption>Count rate is only part of the activity, but they fall in the same proportion.</figcaption>
+</figure>
+
+
 ## Background radiation
 
 A detector clicks even with no source nearby. This **background radiation** comes from natural sources such as radon gas seeping from rocks and soil, cosmic rays, building materials and food, and from medical and industrial sources.
 
 To find the count rate due to your source, measure the background count rate with the source removed, over a long time, and subtract it from every reading. A long counting time matters because the counts are random, so the average is more reliable. Use the **corrected count rate** when you compare readings or judge halving.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--03-background-correction.webp" width="900" height="1090" alt="Two stacked bars: now 212 counts/min is 12 background plus 200 from the source. After 12 h (4 half-lives of 3.0 h) the source part is 12.5 and background is still 12, giving 24.5. Halving 212 would wrongly give 13.25." loading="lazy">
+  <figcaption>Halve only the corrected count rate; the background does not halve.</figcaption>
+</figure>
+
 
 ## Half-life and integer half-lives
 
@@ -103,6 +120,12 @@ You must be able to determine a half-life from measurements. A typical method us
 
 Because decay is random, each count fluctuates. A larger total count gives a smaller fractional spread, so count for longer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--04-half-life-from-graph.webp" width="900" height="1010" alt="A decay curve starts at 160 counts per minute and halves every 3.0 h: 80 at 3 h, 40 at 6 h, 20 at 9 h. Arrows mark the time for each halving, all 3.0 h, which are averaged." loading="lazy">
+  <figcaption>Read several halving times from the curve and average them to get the half-life.</figcaption>
+</figure>
+
+
 ## Real-life uses of radioisotopes
 
 The choice of isotope depends on the type of radiation and how far it penetrates, and on the half-life. The guide names four contexts.
@@ -130,6 +153,17 @@ Age = 3 × 5730 = 17 190 years
 Answer: **about 1.7 × 10⁴ years**. This assumes the activity per gram of carbon in living material was the same then as now.
 
 The half-life must be comparable to the age. Carbon-14 suits samples up to some tens of thousands of years old. Rocks millions of years old need an isotope with a much longer half-life, such as potassium-40 (about 1.25 × 10⁹ years, supplied as data).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--05-radioisotope-uses.webp" width="900" height="1290" alt="Four rows pair a picture with radiation type and half-life. Medical imaging: gamma, short half-life of hours. Leak tracing: gamma, short. Sheet thickness: beta or gamma, long half-life of months. Dating: carbon-14 beta, 5730 years." loading="lazy">
+  <figcaption>Choose the radiation by what must get through, and the half-life by how long the signal must last.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--06-carbon-dating.webp" width="900" height="1170" alt="Bars of activity per gram of carbon halve from 0.24 Bq (living) to 0.12, 0.060 and 0.030 at 5730, 11 460 and 17 190 years. The bone at 0.030 has ratio 8 = 2 cubed, so 3 half-lives, 17 190 years." loading="lazy">
+  <figcaption>Ratio of activities gives the number of half-lives; multiply by 5730 years.</figcaption>
+</figure>
+
 
 ## HL only: the decay constant and the decay law
 
@@ -197,6 +231,17 @@ exact probability = 1 − e^(−0.1155) = 0.1091
 ```
 
 The approximation is about 6% too high. At t = T½, λt = 0.693, but the exact probability is 0.50.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--07-decay-law-hl.webp" width="900" height="1110" alt="Iodine-131 (half-life 8.0 days) falls to 1/2, 1/4 and 1/8 at 8, 16 and 24 days. At 20 days the curve reads 0.177, so 17.7 percent remains, from lambda = ln2/8.0 = 0.0866 per day and e to the minus 1.73." loading="lazy">
+  <figcaption>N = N0 e^(-lambda t) works for any time, and agrees with (1/2)^2.5 at 20 days.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--08-decay-probability-hl.webp" width="900" height="1100" alt="The exact probability 1 - e^(-lambda dt) bends below the straight line lambda dt and never exceeds 1. At one half-life the line gives 0.69 but the exact value is 0.50. For technetium-99m over 1.0 h, 0.1155 is about 6 percent above the exact 0.1091." loading="lazy">
+  <figcaption>Use lambda dt as a probability only when it is much smaller than 1.</figcaption>
+</figure>
+
 
 ## Common errors
 

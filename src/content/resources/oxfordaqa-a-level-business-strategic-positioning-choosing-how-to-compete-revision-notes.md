@@ -36,6 +36,12 @@ Also useful: [9725 checklist](/checklists/oxfordaqa/a-level/business/) · [pract
 | Benefits of competitive advantage | Higher margins, loyalty, bargaining power, reinvestment, growth |
 | Difficulties of maintaining it | Imitation, changing tastes, technology, entrants, rising costs, complacency |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--02-unit-cost-capacity.webp" width="900" height="840" alt="Unit cost curves for one furnace and two furnaces with points A (1.8m bottles, 90% used, 0.60), B (3.2m, 80%, 0.54) and C (2.4m, 60%, 0.635). Growth lowers unit cost only if the new capacity is used." loading="lazy">
+  <figcaption>Unit cost falls with the second furnace only while capacity is well used.</figcaption>
+</figure>
+
+
 ## Key definitions
 
 - **Strategic positioning**: the long-term choice of how a business will compete against rivals in its chosen market.
@@ -55,6 +61,12 @@ Also useful: [9725 checklist](/checklists/oxfordaqa/a-level/business/) · [pract
 **Value:** fast, visual, shows rivals and gaps, guides positioning. **Limits:** only two variables, a gap may have no demand, perceptions differ by segment and change, opinion-based maps may be biased.
 
 **Worked reminder.** Two car washes in Pebblerow: Brightsuds charges £9, scores 5.0 for quality; a hand-wash rival charges £15 and scores 8.0. Nothing sits at around £12 with a score near 7. That is a possible gap, not proof of a market.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--03-market-map.webp" width="900" height="836" alt="Scatter of five swimming schools by price and benefits score. Finwise Academy is dearest but scores below two rivals (2.29 pounds per point). No school scores over 8 for under 12 pounds, a possible gap, but a map shows a gap, not demand." loading="lazy">
+  <figcaption>A market map shows close rivals and gaps, but a gap is not proof of demand.</figcaption>
+</figure>
+
 
 ## Benefits and price: the positions
 
@@ -80,6 +92,22 @@ Rule of thumb: a price above rivals needs benefits customers can see and believe
 **Must-know distinction:** low **cost** is about the cost base; low **price** is a choice the low cost firm may or may not make. Matching rivals' prices with lower costs gives a higher margin per unit.
 
 **Worked reminder.** Two mid-range Pebblerow car washes both charge £12 a wash. One has a cost of £7.50 per wash; a rival with 20% lower costs (£6.00) earns £6.00 a wash instead of £4.50 at the same price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--04-price-war.webp" width="900" height="1020" alt="Profit bars for the low cost and differentiated e-bike options before and after a price war: 460,000 to 190,000 (down 58.7%) against 420,000 to 346,500 (down 17.5%)." loading="lazy">
+  <figcaption>A low contribution per bike leaves the low cost option far more exposed to price cuts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--07-net-present-value.webp" width="900" height="890" alt="Cash flows and their present values for years 1 to 5 at 7% using the lesson discount factors; total 269,661 less 222,000 cost gives NPV +47,661." loading="lazy">
+  <figcaption>Discounting makes later cash flows worth less; NPV compares their total with the cost.</figcaption>
+</figure>
+
 
 ## Influences on the choice
 

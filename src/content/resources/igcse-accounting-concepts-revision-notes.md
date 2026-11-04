@@ -2,15 +2,17 @@
 title: "IGCSE Accounting: Accounting Concepts and Modern Practice — Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
-level: ["igcse"]
+level: ["igcse","o-levels"]
 topic: "Accounting concepts and modern practice"
 boards: ["cambridge"]
-qualifications: ["igcse"]
-syllabusCodes: ["0452"]
+qualifications: ["igcse", "o-level"]
+syllabusCodes: ["0452", "7707"]
 syllabusSeries: "2027-2029"
 order: 7
 syllabusTopics:
   - qualification: "igcse"
+    topic: "accounting-concepts-and-modern-practice"
+  - qualification: "o-level"
     topic: "accounting-concepts-and-modern-practice"
 description: "Condensed recall notes on the ten accounting concepts and their applications, the five fundamental ethical principles, and digital records and the four types of data storage for Cambridge IGCSE Accounting (0452) Topic 7, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
@@ -22,7 +24,8 @@ featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> Accounting 0452 syllabus (and Cambridge O Level Accounting 7707, which has the
+> same subject content for the same series) for exams in 2027, 2028 and 2029 (version 1),
 > first examined in the March 2027 series in India and the June 2027 series
 > elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
 > (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
@@ -71,6 +74,12 @@ making them, and 7.3 the tools used to keep and store them. 7.2 and
 **Answer pattern:** name the concept → what it means → what it requires
 in *this* business's records → the effect on profit or assets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use--05-gc-ten-concepts.webp" width="900" height="1060" alt="Ten cards with a small picture and one-line definition: business entity, money measurement, duality, historic cost, going concern, accruals, consistency, prudence, materiality and realisation, using the lesson examples (land 40,000 not 65,000; a 14 dollar stapler)." loading="lazy">
+  <figcaption>The ten named concepts at a glance.</figcaption>
+</figure>
+
+
 ## 7.2 Ethical considerations
 
 **Need for a framework:** others rely on accounting information they
@@ -91,6 +100,12 @@ employees and governments / tax authorities (6.4,
 [Analysis and Interpretation](/resources/igcse-accounting-analysis-and-interpretation/)) decide using the
 figures. Unethical figures lead to bad loans, unpaid suppliers, lost
 jobs, lost tax revenue and lost trust in financial information.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
+
 
 ## 7.3 Technology and sustainability
 
@@ -116,6 +131,12 @@ cost of rebuilding records; reputational damage; waste.
 
 **Note (7.3):** "Candidates do not need to have knowledge of or access to
 specific accounting software packages or programs."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--04-tech-storage-compare.webp" width="900" height="925" alt="Four cards compare manual, devices, cloud and other digital services on access, loss risk and footprint, using the lesson's own table entries." loading="lazy">
+  <figcaption>The four storage types compared on access, loss risk and footprint.</figcaption>
+</figure>
+
 
 ## Worked example: concept, correction, figure
 
@@ -181,3 +202,9 @@ storage devices, cloud services, other digital services. 8. Advantage:
 accessible from anywhere by authorised users, or provider back-ups, or
 safe from fire or theft at the premises. Disadvantage: needs a reliable
 internet connection, or ongoing cost, or dependence on the provider.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-concepts-revision-notes--01-concepts-corrected-profit.webp" width="900" height="1011" alt="Bars to the right of a centre line add to profit and bars to the left subtract. Business entity adds 600 and 400, matching adds 2,700 and subtracts 750, prudence subtracts 500 and 150, realisation subtracts 2,500 and materiality changes nothing. Draft profit 48,000 becomes 47,800." loading="lazy">
+  <figcaption>Each concept moves the draft profit up or down, ending at $47,800.</figcaption>
+</figure>
+

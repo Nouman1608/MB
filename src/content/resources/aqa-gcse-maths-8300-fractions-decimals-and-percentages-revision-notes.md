@@ -80,6 +80,12 @@ Check: in simplest form, a fraction terminates only when its denominator has no 
 - Decimal → percentage: multiply by 100. 1.3 = 130%.
 - Percentage → fraction: put over 100 and simplify. 85% = 85/100 = 17/20.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+
 ## Ordering (N10)
 
 1. Convert every value to a decimal.
@@ -88,6 +94,17 @@ Check: in simplest form, a fraction terminates only when its denominator has no 
 4. Write the answer using the **original** values.
 
 Negative values reverse the order: −0.45 is smaller than −0.4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-fractions-decimals-and-percentages--01-decimal-to-fraction-0875.webp" width="900" height="1110" alt="Place-value strip for 0.0875 with the last digit in the ten-thousandths column, then 875/10 000, divided by 25 to 35/400 and by 5 to 7/80. A factor panel shows 80 = 2x2x2x2x5, only 2s and 5s, so it terminates." loading="lazy">
+  <figcaption>Read the last digit's place value, simplify, and check the denominator for 2s and 5s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
+</figure>
+
 
 ## Recurring decimals to fractions (Higher tier only)
 
@@ -116,6 +133,22 @@ Negative values reverse the order: −0.45 is smaller than −0.4.
 
 For a "show that" question, the full algebra must be written. Quoting "two digits recurring goes over 99" with no working does not show anything.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-fractions-decimals-and-percentages--03-fdp-partly-recurring.webp" width="900" height="840" alt="Digit boxes for x, 10x and 100x where x = 0.3666…. The tails after the point match, so 100x minus 10x = 33, 90x = 33 and x = 11/30. When only the 6 repeats, multiply by 10 and 100 so the recurring tails line up and cancel." loading="lazy">
+  <figcaption>When only the 6 repeats, multiply by 10 and 100 so the recurring tails line up and cancel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-fractions-decimals-and-percentages--05-fdp-remainders-repeat.webp" width="900" height="920" alt="Six circles show the remainders 2, 6, 4, 5, 1, 3 when dividing 2 by 7, with arrows carrying the digits 2, 8, 5, 7, 1, 4. Remainder 2 returns, so the digits repeat. Once a remainder repeats, the digits of the decimal repeat too." loading="lazy">
+  <figcaption>Once a remainder repeats, the digits of the decimal repeat too.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
+</figure>
+
+
 ## Fractions in ratio (N11)
 
 For a ratio **a : b**:
@@ -136,6 +169,17 @@ For a ratio **a : b**:
 1. Turn the fraction of the total into a ratio (2/9 of the total → 2 : 7).
 2. Find what one part is worth from the information given (a difference, a total or one share).
 3. Scale up to the quantity asked for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-fractions-decimals-and-percentages--01-fdp-fractions-in-a-ratio.webp" width="900" height="810" alt="A bar of 7 equal parts splits 2 parts for Sana and 5 for Tom. Tom's 3 extra parts are 45 pounds, so a part is 15 pounds and the total is 105 pounds. Turn &quot;2/7 of the money&quot; into the ratio 2 : 5, then use the difference in parts." loading="lazy">
+  <figcaption>Turn &quot;2/7 of the money&quot; into the ratio 2 : 5, then use the difference in parts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
 
 ## Fractions and percentages as operators (N12)
 
@@ -168,6 +212,27 @@ Increase by 2/3, then decrease by 2/5:   5/3 × 3/5 = 1   (no overall change)
 **Undoing an operator:** divide by it. If 2/5 of a number is 18, the number is 18 ÷ 2/5 = 45.
 
 **Fraction of a fraction:** when a fraction acts on part of a group, multiply along the chain, then add the separate branches with a common denominator.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-fractions-decimals-and-percentages--02-fdp-fraction-of-a-fraction.webp" width="900" height="820" alt="A rectangle shows girls 3/5 and boys 2/5. A quarter of the girls and a third of the boys play, giving 3/20 and 2/15, which add to 17/60. Fractions of different groups multiply along the chain, then add over a common denominator." loading="lazy">
+  <figcaption>Fractions of different groups multiply along the chain, then add over a common denominator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-fractions-decimals-and-percentages--04-fdp-combining-multipliers.webp" width="900" height="1000" alt="Bars of 100, 110 and 99 show up 10 percent then down 10 percent, multiplying 1.1 by 0.9 to make 0.99. A second pair shows 80 up a quarter to 100 then down a fifth to 80, a multiplier of 1. Two operators in a row combine by multiplying their multipliers." loading="lazy">
+  <figcaption>Two operators in a row combine by multiplying their multipliers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-fractions-decimals-and-percentages--02-multiplier-bars.webp" width="900" height="905" alt="Two bars. A bar of five fifths plus two more fifths is 7/5 of the original, the multiplier for an increase by 2/5. A bar for 86.40 pounds plus 10.80 pounds is 1.125 times the original, so 86.40 x 1.125 = 97.20 pounds." loading="lazy">
+  <figcaption>A multiplier is the whole bar after the change: 1 plus the fraction or decimal added.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-fractions-decimals-and-percentages--03-undo-three-quarters.webp" width="900" height="1000" alt="Bar of four quarters, three shaded and worth 45. Dividing by 3 gives 15 per quarter and multiplying by 4 gives 60, matching 45 / (3/4) = 45 x 4/3 = 60." loading="lazy">
+  <figcaption>To undo 3/4 of a number, divide by 3 then multiply by 4, which is dividing by 3/4.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -219,6 +284,12 @@ Increase by 2/3, then decrease by 2/5:   5/3 × 3/5 = 1   (no overall change)
 - Turning "A gets 3/8" into the ratio 3 : 8 instead of 3 : 5.
 - Using 0.3 as the multiplier for a 30% increase.
 - Adding percentage changes in a two-step problem instead of multiplying the multipliers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

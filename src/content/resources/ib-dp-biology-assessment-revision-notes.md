@@ -35,6 +35,12 @@ The 80% external / 20% internal balance reflects that the IA tests focused pract
 External examination (Papers 1 + 2) = **80%**. Internal assessment = **20%**. This split is the
 same at both SL and HL — the papers differ in length and demand, not in this weighting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-assessment-revision-notes--06-ib-bio-assessment-split.webp" width="900" height="850" alt="A bar shows Paper 1 36%, Paper 2 44% and internal assessment 20%. Papers 1 and 2 make 80% external. Within the external marks Paper 1 is 45% and Paper 2 is 55%." loading="lazy">
+  <figcaption>Paper 2 carries the largest weighting; the split is the same at SL and HL.</figcaption>
+</figure>
+
+
 ## Two things not to confuse
 
 - The graded **internal assessment** is an *individually* designed, carried out and written
@@ -42,6 +48,12 @@ same at both SL and HL — the papers differ in length and demand, not in this w
 - The **interdisciplinary collaborative sciences project**, done with peers from other group 4
   subjects, builds investigative skills but is **not itself graded** — don't confuse the two when
   planning your IA timeline.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-assessment-revision-notes--07-ib-bio-ia-vs-collab-project.webp" width="900" height="880" alt="Left, one person and a report: the individual IA, up to 3,000 words, graded at 20%. Right, three people: the collaborative sciences project with other Group 4 subjects, which builds skills but is not graded." loading="lazy">
+  <figcaption>Only the individual IA counts towards the grade.</figcaption>
+</figure>
+
 
 ## Why this split matters for revision
 
@@ -53,9 +65,21 @@ written scientific answer** is worth dedicated revision time, not just content r
 
 The IA report is graded against criteria covering the whole investigative process: formulating a focused, testable research question grounded in a clear scientific rationale; designing a method capable of generating sufficient, reliable data to answer it; recording and processing that data appropriately, including a genuine treatment of uncertainty and error; and evaluating the investigation critically, including specific, actionable improvements rather than generic ones. A common weakness examiners note is an evaluation section that lists limitations without connecting them concretely to how they affected the specific data collected -- a strong evaluation ties each limitation back to its actual impact on the results, and proposes a feasible, specific improvement rather than a vague one such as "use better equipment."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-assessment-revision-notes--09-ib-bio-strong-evaluation.webp" width="900" height="830" alt="A strip of IA stages ending in evaluation. A weak evaluation lists limitations and says use better equipment. A strong one links each limitation to its effect on this data and gives a specific feasible fix." loading="lazy">
+  <figcaption>Tie each limitation to its impact and propose a specific fix.</figcaption>
+</figure>
+
+
 ## Command terms across both papers
 
 Both papers draw from the same command-term glossary shared across the DP sciences: **state**, **define**, **identify** and **describe** at the lower end (recall and straightforward description); **explain**, **compare**, **deduce** and **suggest** in the middle; **evaluate**, **discuss** and **justify** at the top, requiring a reasoned judgement or synthesis across multiple pieces of evidence. The command terms are not assigned to either paper. Paper 2 carries the larger share of the external mark (44 of the 80 percentage points, or 55%), so practising **evaluate** and **discuss**-style answers -- weighing evidence, acknowledging limitations, reaching a justified conclusion -- is worth the time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-assessment-revision-notes--08-ib-bio-command-term-ladder.webp" width="900" height="1000" alt="Three rising steps. Lower: state, define, identify, describe (recall, simple description). Middle: explain, compare, deduce, suggest. Top: evaluate, discuss, justify (reasoned judgement, synthesis)." loading="lazy">
+  <figcaption>Command terms rise in demand and are not tied to one paper.</figcaption>
+</figure>
+
 
 ## How Biology's assessment compares to its sibling sciences
 

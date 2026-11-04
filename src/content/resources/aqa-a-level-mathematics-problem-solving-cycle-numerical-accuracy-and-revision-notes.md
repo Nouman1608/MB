@@ -47,12 +47,34 @@ Quick recall for outcomes OT2.1 to OT2.7 and OT3.1 to OT3.5 of the AQA A-level M
 
 **Quick reminder.** A taxi model says cost = 8 + 1.6d pounds for d km. For 20 km it predicts £40. If the actual fare was £44, the model underestimates. Refine by naming a missing feature (waiting time, a minimum charge), adjust the model, and test it on fresh data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and--01-problem-solving-cycle.webp" width="900" height="840" alt="A loop of four boxes: Specify, Collect, Process, Interpret, joined by clockwise arrows. A dashed arrow from Interpret back to Specify says that if the answer fails you go round again. Each box shows what that stage was in the poster example." loading="lazy">
+  <figcaption>The cycle has four stages and interpretation may send you round again.</figcaption>
+</figure>
+
+
 ## Diagrams (OT2.7)
 
 - Bearings: three figures, clockwise from north. A change of direction of θ° gives an interior angle of 180° − θ° at the turning point.
 - Forces: draw every force on the body, with the angle stated to a named line. Resolve along two perpendicular directions.
 - Vectors, triangles and graphs: mark known values on the diagram before calculating.
 - Resolving a force F at α° to the horizontal: horizontal component F cos α, vertical component F sin α. For 10 N at 40°, these are 7.66 N and 6.43 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and--03-bearings-diagram.webp" width="900" height="880" alt="A boat goes 11 km on 035 degrees then 8 km on 120 degrees. Bearings are shown as arcs clockwise from north lines. The interior angle at B is 95 degrees, the distance AC is 14.2 km and the bearing of C from A is 069 degrees." loading="lazy">
+  <figcaption>Bearings are measured clockwise from north; the turn of 85 degrees leaves an interior angle of 95 degrees at B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and--04-lamp-two-strings.webp" width="900" height="880" alt="A 6 kg lamp hangs from two strings at 30 and 50 degrees to the ceiling. Force arrows are drawn to scale: T1 38.4 N, T2 51.7 N and weight 58.8 N. Both horizontal components are 33.2 N so they balance." loading="lazy">
+  <figcaption>The horizontal components of the tensions balance and the vertical components support the 58.8 N weight.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1270" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
+  <figcaption>Where the curve y = g(x) meets y = x is the root; the path converges when the curve is flatter than the line there.</figcaption>
+</figure>
+
 
 ## Numerical methods (OT2.4)
 
@@ -68,6 +90,17 @@ Quick recall for outcomes OT2.1 to OT2.7 and OT3.1 to OT3.5 of the AQA A-level M
 
 **Worked reminder.** For x³ − x − 3 = 0, rearrange to x = (x + 3)^(1/3). From x₀ = 1.5: x₁ = 1.651, x₂ = 1.669, x₃ = 1.671, settling at 1.672. The values rise towards the root from below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and--05-root-sign-change-iteration.webp" width="900" height="1290" alt="The graph of x^5 + x - 3 changes sign between 1.125 and 1.135 so the root is 1.13 to 2 decimal places. A cobweb of x(n+1) = (3 - x(n))^(1/5) from 1 settles on the root, whereas x(n+1) = 3 - x(n)^5 runs 1, 2, -29, 20 511 152 and diverges." loading="lazy">
+  <figcaption>A sign change locates the root, and only a rearrangement whose gradient has modulus below 1 near the root converges.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--02-sign-change-fails.webp" width="900" height="1000" alt="Three graphs: 1/(x-2) on 1 to 3 changes sign across an asymptote with no root; (2x-3)^2 on 1 to 2 touches the axis with equal signs at the ends; (x-1)(x-2)(x+3) on 0.5 to 2.5 has two roots but positive ends." loading="lazy">
+  <figcaption>A sign change proves a root only if the function is continuous, and no sign change proves nothing.</figcaption>
+</figure>
+
+
 ## Accuracy and estimation (OT2.5)
 
 - **Bounds from rounding.** A value given to 1 decimal place lies within ±0.05 of the stated value. Sums use lower with lower and upper with upper. Products of positive quantities do the same.
@@ -78,6 +111,17 @@ Quick recall for outcomes OT2.1 to OT2.7 and OT3.1 to OT3.5 of the AQA A-level M
 **Worked reminder.** A frame is 6.3 cm by 4.8 cm, each to 1 d.p. The perimeter lies between 2(6.25 + 4.75) = 22.0 cm and 2(6.35 + 4.85) = 22.4 cm. Both round to 22 at 2 significant figures, so the perimeter is **22 cm to 2 significant figures**.
 
 **Why early rounding is dangerous.** 1000(√2 − 1.41) = 4.21 to 3 significant figures. Rounding √2 to 1.41 first would give 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and--06-tray-area-bounds.webp" width="900" height="960" alt="A tray of 12.4 cm by 8.3 cm, each to 1 d.p., has area between 101.89 and 103.96 square centimetres. All of that range rounds to 100 at 2 significant figures, so quoting 102.92 claims too much." loading="lazy">
+  <figcaption>Both area bounds round to 100, so the area is 100 cm² to 2 significant figures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and--05-pool-estimate.webp" width="900" height="810" alt="A pool 25 m by 10 m by 1.5 m holds 375 cubic metres, which is 375 000 litres. If the hose delivers between 10 and 30 litres per minute, filling takes between 12 500 and 37 500 minutes. On a number line of days the range runs from about 8.7 days (30 L/min) to 26 days (10 L/min): weeks, not hours, and the flow rate matters most." loading="lazy">
+  <figcaption>A reasoned estimate gives a range and names the assumption that matters most.</figcaption>
+</figure>
+
 
 ## Modelling assumptions (OT3.5)
 
@@ -93,6 +137,12 @@ Quick recall for outcomes OT2.1 to OT2.7 and OT3.1 to OT3.5 of the AQA A-level M
 | Unlimited growth | Exponential model | Overestimates once a limit is reached |
 
 **To evaluate a model (OT3.4):** compare predictions with data, find the largest disagreement, link it to a named assumption, say how to change it, then test the new version on new data. A model is appropriate when it is accurate enough for its purpose over the range where it is used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and--07-model-refinement.webp" width="900" height="1060" alt="A trolley and hanging mass: the smooth model predicts 1.63 m per second squared against a trial value of 1.20, an overestimate. Adding friction with mu = 0.053 matches the trial. With 0.8 kg hanging the smooth model predicts 2.38 and the refined model 1.98. Mu was fitted to one trial." loading="lazy">
+  <figcaption>A model that overestimates in the expected direction is refined by adding an assumption back, then tested again.</figcaption>
+</figure>
+
 
 ## Interpreting outputs (OT2.3, OT3.3)
 

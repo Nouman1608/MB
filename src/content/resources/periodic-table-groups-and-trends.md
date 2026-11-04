@@ -107,6 +107,12 @@ structure (outer electron distance from the nucleus, shielding, etc.), and
 state the direction of the trend and a structural reason for it, exactly
 as you would for lithium/sodium/potassium or fluorine/chlorine/bromine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
+
 ## 8.2 Group I properties — the alkali metals
 
 **CORE (0620) · REQUIRED (5070)** — describe lithium, sodium and potassium as
@@ -124,6 +130,17 @@ cold water, releasing hydrogen gas and forming an alkaline hydroxide solution �
 and the vigour of that reaction is itself the clearest evidence of the reactivity
 trend, from lithium (steady fizzing) to sodium (fizzes and may melt into a ball)
 to potassium (ignites the hydrogen released).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp" width="900" height="900" alt="Three beakers show lithium fizzing steadily, sodium fizzing and possibly melting into a ball, and potassium igniting the hydrogen. Hydrogen bubbles rise in each and the solution becomes alkaline. Reactivity increases down the group; melting point decreases and density increases." loading="lazy">
+  <figcaption>Group I metals react with cold water to give hydrogen and an alkaline solution, more vigorously down the group.</figcaption>
+</figure>
+
 
 ## 8.3 Group VII properties — the halogens
 
@@ -157,6 +174,17 @@ silver halide precipitates in the **same order** (Cl > Br > I) as halogen reacti
 which can help you remember one trend from the other, though the two arise from
 different underlying causes (solubility is not explained by reactivity).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
+
 ## 8.4 Transition elements
 
 **CORE (0620) · REQUIRED (5070)** — describe the transition elements as metals
@@ -179,6 +207,17 @@ is unlike Group I metals, which only ever form one ion charge, and it's
 exactly the property tested by the [iron(II)/iron(III) precipitate colours](/resources/identification-of-ions-and-gases/)
 in qualitative analysis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--06-transition-elements.webp" width="900" height="1226" alt="Four panels: a balance where an iron block outweighs an equal sodium block; melting-point bars (Na 98 °C, Fe 1538 °C); coloured transition-metal solutions beside colourless NaCl; and Fe or MnO2 as catalysts." loading="lazy">
+  <figcaption>Transition elements are dense, high-melting, form coloured compounds and often act as catalysts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
+  <figcaption>Iron forms two stable ions, iron(II) and iron(III), unlike Group I metals.</figcaption>
+</figure>
+
+
 ## 8.5 Noble gases — Group VIII
 
 **CORE (0620) · REQUIRED (5070)** — describe the Group VIII noble gases as
@@ -190,6 +229,12 @@ electrons, which is precisely the driving force behind bonding for every other
 group. "Monatomic" means they exist as single, separate atoms rather than as
 molecules (unlike Group VII, which is diatomic) — there's simply no bonding
 pulling their atoms together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--08-noble-gases.webp" width="900" height="960" alt="Electron shells of He (2), Ne (2,8) and Ar (2,8,8) each have a full outer shell, so they do not gain, lose or share electrons. Noble gas particles are single atoms, whereas chlorine exists as Cl2 molecules." loading="lazy">
+  <figcaption>Noble gases are unreactive and monatomic because their outer shell is full.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -60,6 +60,12 @@ A sample starting as 0.400 mol C₆H₁₂ reaches equilibrium after 0.250 mol h
 4. Partial pressures (use unrounded fractions): p(C₆H₁₂) = 15.0 kPa; p(C₆H₆) = 25.0 kPa; p(H₂) = 75.0 kPa.
 5. Check: 15.0 + 25.0 + 75.0 = 115 kPa.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--08-kp-partial-pressure.webp" width="900" height="930" alt="Two aligned bars show mole fractions of N2, H2 and NH3 (0.250, 0.625, 0.125) multiplied by 20.0 MPa to give partial pressures 5.00, 12.5 and 2.50 MPa. Kp = 2.50^2 / (5.00 x 12.5^3) = 6.40 x 10^-4 MPa^-2." loading="lazy">
+  <figcaption>Partial pressure is mole fraction times total pressure, and Kp uses partial pressures of gases only.</figcaption>
+</figure>
+
+
 ## 5.1.2(b): Quantities present at equilibrium
 
 Most problems give you starting amounts and one equilibrium amount. A three-row table keeps the working clear: **initial**, **change**, **equilibrium**. Fill in the change row using the coefficients of the balanced equation. Then convert to whatever K needs: concentrations (divide by volume) for Kc, or partial pressures for Kp.
@@ -81,6 +87,12 @@ Kc = [ester][water] / ([acid][methanol]). Every concentration equals amount ÷ V
 Kc = (0.320 × 0.320) / (0.180 × 0.280) = **2.03** (no units)
 
 Water is included: it is mixed into one liquid phase, not present as a separate pure liquid, so this equilibrium is homogeneous.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--01-dynamic-equilibrium.webp" width="900" height="1010" alt="Two graphs of a reversible reaction A to B. Concentrations of A and B level off at constant but unequal values. The forward rate falls and the reverse rate rises until they are equal, which marks equilibrium." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and concentrations are constant, not equal.</figcaption>
+</figure>
+
 
 ## 5.1.2(c): Finding equilibrium quantities by experiment
 
@@ -121,6 +133,12 @@ For Ni(s) + 4CO(g) ⇌ Ni(CO)₄(g) at one temperature, the gas phase at equilib
 
 Nickel does not appear. Adding more nickel does not move this equilibrium.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--09-solids-left-out.webp" width="900" height="1030" alt="A furnace shows FeO(s) and Fe(s) greyed as left out, with CO and CO2 gas particles counted. Kp = p(CO2)/p(CO) with no units. A second example, CaCO3(s) = CaO(s) + CO2(g), gives Kp = p(CO2)." loading="lazy">
+  <figcaption>Pure solids are left out of Kc and Kp; only gases (Kp) or aqueous species (Kc) appear.</figcaption>
+</figure>
+
+
 ## 5.1.2(e): Calculating K and its units
 
 **Units method.** Replace each term with its unit (mol dm⁻³ for Kc, kPa or Pa or atm for Kp), then cancel. Equivalently, count (moles of terms on top) − (moles of terms below) = n:
@@ -142,6 +160,12 @@ The vessel starts with 1.20 mol ethanol. At equilibrium there is 0.450 mol H₂.
 3. Kc = (0.180 × 0.180) / 0.300 = **0.108 mol dm⁻³**.
 4. Units: (mol dm⁻³ × mol dm⁻³) / mol dm⁻³ = mol dm⁻³.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--06-kc-expression.webp" width="900" height="1010" alt="Three reactions each show Kc as products over reactants raised to their coefficients, coloured teal for products and gold for reactants, with units: none, mol dm-3, and mol-1 dm3." loading="lazy">
+  <figcaption>Kc is products over reactants, each concentration raised to the power of its coefficient.</figcaption>
+</figure>
+
+
 ### Worked example 5: Kp with units
 
 Using worked example 1, Kp = p(C₆H₆) × p(H₂)³ / p(C₆H₁₂) = 25.0 × 75.0³ / 15.0 = 703 125, so Kp = **7.03 × 10⁵ kPa³**. Units: kPa × kPa³ / kPa = kPa³.
@@ -161,6 +185,17 @@ You can run this backwards. If a table shows Kp rising as temperature rises, the
 
 **(ii) K is constant** when you change concentration, pressure, or add a catalyst (at constant temperature). A catalyst raises the rates of both directions by the same factor. Equilibrium arrives sooner; the final composition and the value of K do not change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--03-temperature-k.webp" width="900" height="1020" alt="A graph of K against temperature shows K falling for an exothermic reaction and rising for an endothermic one. Two rows summarise: raising T lowers K and shifts left for exothermic, and raises K and shifts right for endothermic." loading="lazy">
+  <figcaption>Only temperature changes K: it falls for exothermic reactions and rises for endothermic ones as T increases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--04-catalyst.webp" width="900" height="1000" alt="Product against time with and without a catalyst: the catalysed curve rises faster but both level at the same equilibrium amount. An energy profile shows the same start and end levels but a lower peak with the catalyst." loading="lazy">
+  <figcaption>A catalyst makes equilibrium arrive sooner but leaves the position and K unchanged.</figcaption>
+</figure>
+
+
 ## 5.1.2(g): How K controls the position of equilibrium
 
 Think of the expression as a ratio the mixture must return to. Call the value of the same expression, worked out with the current (non-equilibrium) values, the quotient.
@@ -176,6 +211,22 @@ Take the equilibrium in worked example 1 and suddenly double the total pressure 
 quotient = (2 × 25.0)(2 × 75.0)³ / (2 × 15.0) = 2³ × Kp = 8 × Kp
 
 The quotient is now larger than Kp. To bring it back down, the numerator must fall and the denominator must rise, so the equilibrium shifts to the **left**, towards fewer gas moles. Le Chatelier's principle predicts the same, but 5.1.2(g) wants the argument through the fixed value of Kp.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--02-pressure-shift.webp" width="900" height="1030" alt="Two syringes hold the same gas particles at low and high pressure. Molecule models of 2SO2 + O2 and 2SO3 show 3 gas molecules on the left and 2 on the right, so higher pressure shifts right." loading="lazy">
+  <figcaption>Higher pressure shifts the equilibrium towards the side with fewer gas molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--05-haber-compromise.webp" width="900" height="900" alt="Percentage of ammonia at equilibrium falls as temperature rises and increases with pressure (10, 100, 200 atm). A bar shows rate rising with temperature, so a moderate temperature and high pressure are chosen. The catalyst only speeds up the approach." loading="lazy">
+  <figcaption>A moderate temperature and high pressure balance yield, rate and cost; the catalyst does not raise yield.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--07-kc-calculation.webp" width="900" height="1020" alt="Bars show PCl5 falling from 0.250 to 0.150 mol while PCl3 and Cl2 rise to 0.100 mol. Dividing by 5.00 dm3 gives concentrations, and Kc = 0.0200 x 0.0200 / 0.0300 = 0.0133 mol dm-3." loading="lazy">
+  <figcaption>Convert equilibrium amounts to concentrations before substituting into Kc.</figcaption>
+</figure>
+
 
 ## 5.1.2(h): Other equilibrium constants
 

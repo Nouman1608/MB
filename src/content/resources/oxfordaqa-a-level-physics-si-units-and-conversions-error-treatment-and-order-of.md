@@ -56,6 +56,12 @@ The specification says you do not need the candela, the definitions of the base 
 
 A derived unit is a product or quotient of base units. Useful ones, in base units: the newton is kg m s⁻², the joule is kg m² s⁻², the watt is kg m² s⁻³ and the pascal is kg m⁻¹ s⁻². The kilogram is the base unit of mass, so a gram is 10⁻³ kg.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--01-units-from-base.webp" width="900" height="890" alt="Six base unit boxes (kg, m, s, A, K, mol) above a chain of derived units. The newton, kg m s^-2, times metre gives the joule, divided by second gives the watt, and divided by ampere gives the volt (OCR). Newton divided by metre squared gives the pascal. Cambridge 9702 does not use the mole." loading="lazy">
+  <figcaption>Each derived unit is a product or quotient of base units.</figcaption>
+</figure>
+
+
 ### Prefixes and standard form
 
 | T | G | M | k | c | m | μ | n | p | f |
@@ -95,6 +101,17 @@ Time = 50/60 h = 0.833 h.
 Energy = 1.8 kW × 0.833 h = **1.5 kW h**.
 In joules: 1.5 × 3.6 × 10⁶ = **5.4 × 10⁶ J**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--02-prefix-powers.webp" width="900" height="956" alt="Bars show prefixes from tera 10^12 down to femto 10^-15. Deci is used by Cambridge and OCR only; femto by AQA and OxfordAQA only. Examples: 250 mA = 0.25 A and 5.6 MeV = 5.6 x 10^6 eV." loading="lazy">
+  <figcaption>Replace the prefix with its power of ten before substituting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--03-squared-units.webp" width="900" height="890" alt="A 1 cm square divided into 100 one-millimetre squares shows 1 cm^2 = 100 mm^2. Then 1 mm^2 = 10^-6 m^2, 3.5 mm^2 = 3.5 x 10^-6 m^2, 1 cm^3 = 10^-6 m^3 and 7.8 g cm^-3 = 7800 kg m^-3." loading="lazy">
+  <figcaption>The prefix is raised to the same power as the unit.</figcaption>
+</figure>
+
+
 ## 3.1.2 Limitation of physical measurements
 
 ### Types of error and how to reduce them
@@ -130,6 +147,12 @@ For repeated readings, the mean is the best value. A common estimate of its unce
 
 Worked example 4. Five timings of a trolley are 2.46, 2.52, 2.49, 2.44 and 2.51 s. Mean = 12.42 ÷ 5 = 2.484 s. Half-range = (2.52 − 2.44) ÷ 2 = 0.04 s. Result: **2.48 ± 0.04 s**, a percentage uncertainty of 0.04/2.48 × 100 = 1.6%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--07-error-bars-gradient.webp" width="900" height="1030" alt="Extension against force with +/-2 mm error bars. Best line gradient 12.0, steepest 13.0, shallowest 11.0 mm per N, so gradient = 12.0 +/- 1.0 mm per N." loading="lazy">
+  <figcaption>Half the difference between the steepest and shallowest gradients.</figcaption>
+</figure>
+
+
 ### Combining uncertainties
 
 | Calculation | What to do with the uncertainties |
@@ -139,6 +162,12 @@ Worked example 4. Five timings of a trolley are 2.46, 2.52, 2.49, 2.44 and 2.51 
 | aⁿ | the percentage uncertainty becomes n times larger (n can be negative or fractional, as for a root) |
 
 Never subtract uncertainties: a difference of two readings is less certain in percentage terms, not more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--06-combining-uncertainties.webp" width="900" height="1120" alt="Falling ball: h = 1.200 +/- 0.002 m, t = 0.495 +/- 0.005 s. A bar shows 0.17 percent from h and 1.01 percent from t counted twice, 2.19 percent total, so g = 9.8 +/- 0.2 m s^-2." loading="lazy">
+  <figcaption>Percentage uncertainties add for products and quotients; a power multiplies the percentage.</figcaption>
+</figure>
+
 
 ### Worked example 5: products and powers
 
@@ -159,6 +188,12 @@ A liquid warms from 21.0 ± 0.5 °C to 63.5 ± 0.5 °C. The rise is 63.5 − 21.
 ### Significant figures and uncertainty
 
 Quote the uncertainty to one significant figure (two at most), then give the value to the same decimal place. The result in example 5 is 9.8 ± 0.2, not 9.795 ± 0.2142 and not 9.8 ± 0.21. Record each reading to the resolution of the instrument: 125.30 g implies a resolution of 0.01 g.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+
 
 ### Error bars, gradient and intercept
 
@@ -204,6 +239,12 @@ Time = 100 ÷ 340 = 0.29 s. The leading figure 2.9 is below 3.2, so the order of
 
 Rounding every intermediate estimate to a power of ten before multiplying can shift the answer by a factor of ten, so round at the end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Converting mm² or cm³ with the linear factor.
@@ -217,6 +258,12 @@ Rounding every intermediate estimate to a power of ten before multiplying can sh
 ## Next steps
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of-revision-notes/) to check recall. The [earlier measurements practice set](/resources/oxfordaqa-a-level-physics-measurements-practice/) gives extra questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

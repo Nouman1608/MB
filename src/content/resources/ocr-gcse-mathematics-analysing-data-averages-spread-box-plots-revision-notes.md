@@ -37,6 +37,12 @@ These notes condense section 12.03 (Analysing data) of the OCR GCSE (9-1) Mathem
 | Interpolation | A prediction from within the span of the given data |
 | Extrapolation | A prediction from beyond the span of the given data |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--04-misleading-charts-more-ways.webp" width="900" height="1120" alt="Three ways a chart misleads: an uneven axis scale, an icon drawn twice as wide and tall so area is four times larger with no key, and a 3D bar whose top looks higher than a flat bar of the same value." loading="lazy">
+  <figcaption>Uneven scales, different-sized icons with no key, and 3D effects change the apparent size.</figcaption>
+</figure>
+
+
 ## 12.03a Ungrouped data: method in steps
 
 1. Put the data in order.
@@ -48,6 +54,12 @@ These notes condense section 12.03 (Analysing data) of the OCR GCSE (9-1) Mathem
 **Reminder.** Data: 2, 5, 6, 8, 9, 9, 9, 12. Sum = 60, so mean = 7.5. Median = (8 + 9)/2 = 8.5. Mode = 9. Range = 10.
 
 **Working back.** If you know the mean of n values, the total is mean × n. Use this to find a missing value or the effect of adding one more value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--01-three-averages.webp" width="900" height="770" alt="Six values 2, 3, 3, 4, 5, 13 on a dot plot. The mode is 3 (most common), the median is 3.5 (middle of 3 and 4), the mean is 30 divided by 6 = 5, and the range is 13 - 2 = 11. The large value 13 pulls the mean above the median." loading="lazy">
+  <figcaption>The mean, median, mode and range of one small list of data.</figcaption>
+</figure>
+
 
 ## 12.03a Grouped data: method in steps
 
@@ -61,6 +73,17 @@ These notes condense section 12.03 (Analysing data) of the OCR GCSE (9-1) Mathem
 **Why estimates?** Individual values are not known, only which class they fall in. Using midpoints assumes values are evenly spread, which is rarely exactly true.
 
 **Reminder.** Frequencies 3, 5, 2 for midpoints 5, 15, 25. Mean = (15 + 75 + 50) ÷ 10 = 14.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--06-grouped-median-interpolation.webp" width="900" height="830" alt="Frequencies 5, 9, 18, 13 and 5 with running totals 5, 14, 32, 45 and 50. The 25th value lies in the class 20 to 30, 11 of 18 steps in, so the median is about 26.1 minutes." loading="lazy">
+  <figcaption>The median of grouped data is found by placing the 25th value within its class in proportion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--03-grouped-mean-midpoints.webp" width="900" height="932" alt="Heights of 40 students in four 10 cm classes. Each class midpoint (155, 165, 175, 185) times its frequency totals 6740, giving an estimated mean of 168.5 cm. The modal class is 160 to under 170." loading="lazy">
+  <figcaption>Use the midpoint of each class, not a boundary, so the mean is only an estimate.</figcaption>
+</figure>
+
 
 ## 12.03a Describing, comparing and choosing a summary value
 
@@ -76,6 +99,12 @@ These notes condense section 12.03 (Analysing data) of the OCR GCSE (9-1) Mathem
 
 Compare like with like: median with median, range with range, IQR with IQR. Always include context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--07-extreme-value-summaries.webp" width="900" height="820" alt="A dot plot of eight plant heights, seven between 12 and 16 cm and one at 130 cm. The median of 14 sits with the group, the mean of 28.4 is pulled away and the range of 118 depends only on the extremes." loading="lazy">
+  <figcaption>One extreme value pulls the mean and sets the range, while the median stays put.</figcaption>
+</figure>
+
+
 ## Cumulative frequency and quartiles: Higher tier only
 
 1. Make a running total of the frequencies.
@@ -88,6 +117,12 @@ Compare like with like: median with median, range with range, IQR with IQR. Alwa
 Draw the reading lines on the graph so your working shows. Values read from a graph are estimates.
 
 **Reminder.** n = 80: read at heights 20, 40 and 60. If Q1 = 3.7 and Q3 = 7.2, then IQR = 3.5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="920" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
+  <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
+</figure>
+
 
 ## Box plots: Higher tier only
 
@@ -117,6 +152,17 @@ A box plot uses five numbers, in order along a number line:
 
 State the feature and its effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--01-compare-two-box-plots.webp" width="900" height="870" alt="Two box plots on one scale for test scores out of 40. Class A runs 13 to 38 with median 25 and IQR 12. Class B runs 19 to 32 with median 26 and IQR 7. B has the higher median and the narrower box." loading="lazy">
+  <figcaption>Compare medians for typical value and IQRs for consistency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--11-box-plot-build.webp" width="900" height="760" alt="Eleven ordered values from 3 to 22 sit on a number line. The 3rd value 6 is the lower quartile, the 6th value 10 is the median and the 9th value 15 is the upper quartile. The box runs from 6 to 15 with a line at 10, and whiskers reach 3 and 22, so the IQR is 9 and the range is 19." loading="lazy">
+  <figcaption>Pick the minimum, three quartiles and maximum from the ordered list and draw them on one scale.</figcaption>
+</figure>
+
+
 ## 12.03c Scatter graphs
 
 - **Positive correlation:** both variables increase together.
@@ -135,6 +181,27 @@ State the feature and its effect.
 
 **Reminder.** Line y ≈ 15.4 − 1.3x (value against age). At x = 4.5, y ≈ 9.55 (interpolation, fairly reliable). At x = 12, y ≈ −0.2 (extrapolation, impossible value, unreliable).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--03-correlation-not-causation.webp" width="900" height="1000" alt="A scatter graph of shoe size against reading score shows strong positive correlation, with points marked by age band. A diagram shows age driving both variables, so bigger feet do not cause better reading." loading="lazy">
+  <figcaption>Shoe size and reading score rise together only because both rise with age.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--02-misleading-axis.webp" width="900" height="1010" alt="Two bar charts of A = 52 and B = 56. With the axis starting at 50, B looks three times as tall as A. With the axis starting at 0, B is about 1.08 times A." loading="lazy">
+  <figcaption>A vertical axis that does not start at zero exaggerates differences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--04-correlation-types.webp" width="900" height="1010" alt="Three scatter diagrams: positive correlation (y rises with x), negative correlation (y falls as x rises) and zero correlation (no pattern, so no line of best fit)." loading="lazy">
+  <figcaption>Judge the correlation by eye before drawing any line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--03-using-the-line.webp" width="900" height="870" alt="The line of best fit gives about 10.3 thousand dollars at age 6.5. A triangle shows a drop of 2.85 over 2 years, gradient -1.425, so the value falls about 1 400 dollars a year. Beyond age 9 the line is dotted in a shaded region marked outside the data; age 12 gives about 2.4, which is unreliable." loading="lazy">
+  <figcaption>Readings inside the data are reliable; extending the line beyond age 9 is not.</figcaption>
+</figure>
+
+
 ## 12.03d Outliers
 
 - Look for a value that is far from the others. In simple cases this is obvious by eye.
@@ -142,6 +209,17 @@ State the feature and its effect.
 - Effect: the mean and range change a lot. The median changes little.
 - On a scatter graph, an outlier is a point well away from the trend. Draw the line through the main pattern.
 - Say what you would do: check the original data before removing anything.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--05-scatter-outlier.webp" width="900" height="920" alt="A scatter graph of car age and value with a clear downward trend and one outlier far below it. A line through the main pattern is compared with a dashed line pulled towards the outlier." loading="lazy">
+  <figcaption>An outlier pulls a line of best fit away from the pattern, so draw the line ignoring it and comment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--01-four-measures-outlier.webp" width="900" height="700" alt="A dot plot of eight delivery times: 9, 9, 9, 11, 12, 14, 22, 35. Mode 9, median 11.5, mean 121/8 = 15.1 and range 26. The outlier 35 pulls the mean above six of the eight values." loading="lazy">
+  <figcaption>The mean, median, mode and range of one data set, with an outlier pulling the mean up.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

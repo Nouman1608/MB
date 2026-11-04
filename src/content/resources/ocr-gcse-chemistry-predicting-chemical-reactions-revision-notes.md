@@ -50,6 +50,37 @@ Water observations: lithium fizzes steadily; sodium melts into a ball and whizze
 
 **Why reactivity rises:** outer electron further from the nucleus + more shielding → weaker attraction → electron lost more easily.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-predicting-chemical-reactions--07-un112-group-mp-trends.webp" width="900" height="1210" alt="Group 1 melting points fall from lithium 181 to caesium 29 degrees C. Group 7 melting and boiling points rise from chlorine to iodine." loading="lazy">
+  <figcaption>Opposite melting-point trends in Groups 1 and 7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp" width="900" height="900" alt="Three beakers show lithium fizzing steadily, sodium fizzing and possibly melting into a ball, and potassium igniting the hydrogen. Hydrogen bubbles rise in each and the solution becomes alkaline. Reactivity increases down the group; melting point decreases and density increases." loading="lazy">
+  <figcaption>Group I metals react with cold water to give hydrogen and an alkaline solution, more vigorously down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--08-noble-gases.webp" width="900" height="960" alt="Electron shells of He (2), Ne (2,8) and Ar (2,8,8) each have a full outer shell, so they do not gain, lose or share electrons. Noble gas particles are single atoms, whereas chlorine exists as Cl2 molecules." loading="lazy">
+  <figcaption>Noble gases are unreactive and monatomic because their outer shell is full.</figcaption>
+</figure>
+
+
 ## Group 7 summary (C4.1a, C4.1b)
 
 | Halogen | Room temperature | In water |
@@ -91,6 +122,42 @@ Typical examples: iron, copper, nickel, manganese, chromium.
 | Coloured compounds | Cu²⁺ blue; Fe²⁺ pale green; Fe³⁺ orange-brown |
 | Catalysts | iron (Haber process); nickel (adding hydrogen to alkenes); manganese(IV) oxide (decomposing hydrogen peroxide) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-predicting-chemical-reactions--06-displacement-temperature-rise.webp" width="900" height="890" alt="Temperature rises with copper sulfate solution: X +12.5, Z +5.0, Y 0 degrees C. X and Z displace copper, Y does not, so the order is X, Z, copper, Y." loading="lazy">
+  <figcaption>A larger temperature rise means a more reactive metal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-predicting-chemical-reactions--05-un112-fecl3-empirical.webp" width="900" height="950" alt="1.12 g of iron gives 3.25 g of product so chlorine is 2.13 g. Moles are 0.020 Fe and 0.060 Cl, a ratio of 1 to 3, giving FeCl3 and Fe3+." loading="lazy">
+  <figcaption>Finding FeCl3 from masses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-predicting-chemical-reactions--06-un112-ca-mg-rate.webp" width="900" height="1110" alt="Volume against time lines show calcium giving 72 cm3 in 40 s (1.8 cm3/s) and magnesium 3 cm3 in 600 s (0.005 cm3/s), with a flask and gas syringe for collecting the gas." loading="lazy">
+  <figcaption>Calcium is 360 times faster than magnesium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--06-transition-elements.webp" width="900" height="1226" alt="Four panels: a balance where an iron block outweighs an equal sodium block; melting-point bars (Na 98 °C, Fe 1538 °C); coloured transition-metal solutions beside colourless NaCl; and Fe or MnO2 as catalysts." loading="lazy">
+  <figcaption>Transition elements are dense, high-melting, form coloured compounds and often act as catalysts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
+  <figcaption>Iron forms two stable ions, iron(II) and iron(III), unlike Group I metals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--02-reactivity-ladder.webp" width="900" height="1089" alt="A ladder from potassium (most reactive) to gold (least) with carbon and hydrogen as dashed reference rows. Ticks, half circles and crosses show reaction with cold water, steam and dilute hydrochloric acid; aluminium is starred for its oxide layer." loading="lazy">
+  <figcaption>Position in the series predicts reactions with water, steam and acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--03-acid-test.webp" width="900" height="970" alt="Three test tubes of dilute hydrochloric acid. Magnesium fizzes fast with many hydrogen bubbles, iron fizzes slowly with a few, and copper shows none, giving the order magnesium, iron, copper." loading="lazy">
+  <figcaption>More vigorous fizzing in dilute acid means a more reactive metal.</figcaption>
+</figure>
+
+
 ## Predicting from position (C4.1d)
 
 | Position | Likely behaviour |
@@ -101,6 +168,17 @@ Typical examples: iron, copper, nickel, manganese, chromium.
 | Group 0 | no reaction expected |
 
 A reaction is likely when a metal meets a non-metal, or when a more reactive element meets a compound of a less reactive one in the same group or series.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-predicting-chemical-reactions--05-group1-caesium-prediction.webp" width="900" height="960" alt="Reaction times with water: Li 75 s, Na 21 s, K 6 s, Rb 2 s, each about a third of the one before. Caesium is predicted at under 1 s and explosive, as its outer electron is lost most easily." loading="lazy">
+  <figcaption>Continue the trend down the group to predict caesium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
 
 ## Reactivity of metals (C4.1e, C4.1f)
 
@@ -119,6 +197,12 @@ A useful order, most reactive first: potassium, sodium, lithium, calcium, magnes
 5. Check that your order is consistent with every result, not just one.
 
 Worked reminder: sodium in water gives 45 cm³ of hydrogen in 15 s. Mean rate = 45 ÷ 15 = **3.0 cm³/s**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
+</figure>
+
 
 ## Practical links
 

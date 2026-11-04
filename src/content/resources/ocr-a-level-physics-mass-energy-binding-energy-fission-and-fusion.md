@@ -56,6 +56,12 @@ E in MeV = 1.49e-10 / 1.60e-13 = 934 MeV
 
 With more precise constants the figure is 931.5 MeV per u. Use the constants you are given and do not mix routes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--06-aphy-nuclear-mass-defect.webp" width="900" height="920" alt="The four separate nucleons of helium-4 weigh 4.031882 u but the nucleus 4.001505 u. The mass defect 0.030377 u is equivalent to 28.3 MeV, the binding energy, which is 7.07 MeV per nucleon." loading="lazy">
+  <figcaption>The binding energy is the energy equivalent of the mass defect.</figcaption>
+</figure>
+
+
 ## 6.4.4(b) Energy released or absorbed in reactions
 
 Compare total mass before and after. If the products have less mass, the difference is released as energy. If they have more, energy must be supplied.
@@ -130,6 +136,17 @@ energy released = 184 MeV
 
 **Worked example (fusion).** ²₁H + ³₁H → ⁴₂He + ¹₀n. Total binding energies: H-2 2.22 MeV, H-3 8.48 MeV, He-4 28.3 MeV. Released = 28.3 − (2.22 + 8.48) = **17.6 MeV**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--04-aphy-nuclear-half-life.webp" width="900" height="1010" alt="Corrected count rate against time for a source starting at 800 counts per minute. The rate halves every 14 minutes whether it starts from 800 or 488, so the half-life is constant and lambda = ln 2 / 14 = 0.0495 per minute." loading="lazy">
+  <figcaption>The half-life is the same wherever on the decay curve you start.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--07-aphy-nuclear-binding-curve.webp" width="900" height="980" alt="Binding energy per nucleon rises steeply for light nuclei, peaks near iron-56 at about 8.8 MeV and falls slowly to about 7.6 MeV for uranium-235. Fusion of light nuclei and fission of heavy nuclei both move nuclei towards the peak and release energy: 17.6 MeV for deuterium plus tritium and about 184 MeV for a uranium-235 fission." loading="lazy">
+  <figcaption>Both fusion and fission release energy because their products sit nearer the peak of the curve.</figcaption>
+</figure>
+
+
 ## 6.4.4(g) Induced fission and the chain reaction
 
 In a reactor fission is **induced**. A slow (thermal) neutron is absorbed by a uranium-235 nucleus. The nucleus becomes unstable, splits into two smaller nuclei (fission fragments) and releases typically two or three neutrons. Most of the energy is the kinetic energy of the fragments, which becomes thermal energy in collisions.
@@ -192,6 +209,12 @@ Z: 92 + 0 = 92 = 55 + 37 + 0, which balances
 
 For decays use the same rule: in beta-minus decay a neutron becomes a proton, so Z rises by 1 and A is unchanged, with an electron and an antineutrino emitted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--02-aphy-nuclear-decay-modes.webp" width="900" height="990" alt="Graph of neutron number against proton number with a narrow band of stable nuclei above the N = Z line. Neutron-rich nuclei above the band decay by beta-minus (Z+1, N-1), proton-rich nuclei below it by beta-plus or electron capture (Z-1, N+1), and very heavy nuclei by alpha (Z-2, N-2)." loading="lazy">
+  <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Using grams or u in ΔE = Δmc² without converting to kilograms.
@@ -202,3 +225,14 @@ For decays use the same rule: in beta-minus decay a neutron becomes a proton, so
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Physics A (H556), Version 3.0 (March 2026), first assessment 2017, published by OCR. Section 6.4.4, outcomes (a) to (k).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--08-aphy-nuclear-reactor.webp" width="900" height="960" alt="Cross-section of a reactor with fuel rods in a moderator, control rods that absorb neutrons, coolant leaving hot and returning cool, and thick shielding. Heat passes to a heat exchanger, turbine and generator. Control rods hold k at 1." loading="lazy">
+  <figcaption>The moderator slows neutrons and the control rods absorb them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
+  <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
+</figure>
+

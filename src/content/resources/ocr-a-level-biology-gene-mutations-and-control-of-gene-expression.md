@@ -54,6 +54,17 @@ Ask three questions in order.
 
 A change in primary structure can alter the R-group interactions that hold the tertiary structure, so an enzyme's active site or a receptor's binding site may change shape.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--02-mutation-effects.webp" width="900" height="1110" alt="The mRNA AUG CUU GGC ACC AAG GAU CGU UAG is read in triplets. A silent change (CUU to CUC) keeps Leu, a missense change (CUU to CCU) gives Pro, a nonsense change (AAG to UAG) stops the chain after four amino acids, one added G causes a frame shift so every later amino acid changes, and deleting three bases keeps the frame and loses only Leu." loading="lazy">
+  <figcaption>Silent, missense, nonsense, frame shift and in-frame deletion followed through one mRNA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
+  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
+</figure>
+
+
 ### Worked example 1: following a mutation through
 
 Codons are read from the standard genetic code.
@@ -76,6 +87,12 @@ Deleting the first C of CCU also gives a frameshift (Met-Glu-Leu-Gly-Asn-Leu-Val
 - **Neutral.** Silent substitutions, and changes in non-coding DNA or away from an active site, may have no effect on the phenotype.
 - **Beneficial.** A mutation that gives a selective advantage in a particular environment, for example a change that makes a bacterium resistant to an antibiotic, or the sickle cell allele giving heterozygotes protection against malaria where malaria is common. The same allele is harmful in homozygotes, so "beneficial" depends on the context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--01-mutation-types.webp" width="900" height="1108" alt="The same nine-base gene ATGCTTGGC is shown after each mutation with changed bases in gold and lost bases as dashed boxes. Substitution keeps nine bases, addition gives ten, deletion eight, duplication of GGC twelve, inversion of the last six bases (reads GCCAAG) keeps nine, and translocation moves CTT to the other end. OCR names only substitution, insertion and deletion." loading="lazy">
+  <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
+</figure>
+
+
 ## 6.1.1(b) Control of gene expression
 
 A cell does not need every protein at all times, so the use of a gene's information is controlled at three stages.
@@ -95,6 +112,17 @@ In prokaryotes, genes for related functions can be grouped as an **operon** unde
 | Lactose present | Lactose (strictly, allolactose made from it) binds the repressor and changes its shape | Free | Transcribes the structural genes | Enzymes made |
 
 When lactose disappears, the repressor binds the operator again and transcription stops, saving the cell the cost of unneeded enzymes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--03-lac-operon.webp" width="900" height="960" alt="Two panels show lacI (separate repressor gene), promoter, operator, lacZ and lacY. With no lactose the repressor sits on the operator and blocks RNA polymerase so the genes are off. With lactose present, lactose binds the repressor and changes its shape, it leaves the operator, RNA polymerase makes mRNA and the enzymes are made." loading="lazy">
+  <figcaption>The lac operon with and without lactose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
+  <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
 
 ### Worked example 2: interpreting lac mutants
 
@@ -116,11 +144,23 @@ Beta-galactosidase activity (arbitrary units) was measured in strains grown with
 
 Eukaryotic genes are switched by **transcription factors**: proteins that bind to specific DNA sequences near a gene, or to other proteins bound there. Some **activators** help RNA polymerase bind to the promoter so transcription starts; others are **repressors** that prevent this. A signal such as a hormone can alter whether a factor is active. A steroid hormone, for example, can bind a receptor to form a complex that acts as a transcription factor. Different cell types hold different active factors, so they transcribe different genes from the same DNA. You are not required to recall specific factors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--04-oestrogen-transcription-factor.webp" width="900" height="1060" alt="Oestrogen diffuses through the cell-surface membrane, binds a receptor in the cytoplasm to form a complex, the complex enters the nucleus through a nuclear pore, binds a base sequence next to the target gene, and RNA polymerase can then make mRNA." loading="lazy">
+  <figcaption>Five steps by which oestrogen acts as a transcription factor.</figcaption>
+</figure>
+
+
 ### Post-transcriptional level: processing primary mRNA
 
 In eukaryotes the first RNA made is **primary mRNA** (pre-mRNA). It contains **exons**, which stay, and **introns**, which are removed. Introns are cut out and exons joined (**splicing**) to give **mature mRNA**, which then leaves the nucleus through a nuclear pore. Other editing adds a cap at one end and a tail of adenine nucleotides at the other, which protect the mRNA. Exons can be joined in different combinations, so one gene can give more than one polypeptide.
 
 **Worked example 3.** A gene has four exons of 210, 156, 183 and 264 nucleotides, separated by introns of 480, 1150 and 390 nucleotides. Primary transcript: 813 + 2020 = 2833 nucleotides. Introns are 2020 / 2833 × 100 = **71.3%** of it. Treating the 813 nucleotides as all coding with a stop codon, 813 / 3 = 271 codons, so **270** amino acids plus the stop codon.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--07-alternative-splicing.webp" width="900" height="970" alt="A pre-mRNA with five exons of 90, 60, 105, 45 and 72 nucleotides is spliced so introns are removed and exons joined. Keeping exon 1, exon 5 and one of exons 2, 3 or 4 gives mRNAs coding for 73, 88 and 68 amino acids." loading="lazy">
+  <figcaption>Alternative splicing gives three polypeptides from one gene.</figcaption>
+</figure>
+
 
 ### Post-translational level: activation of proteins by cyclic AMP
 

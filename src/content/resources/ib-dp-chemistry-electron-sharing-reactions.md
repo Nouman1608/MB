@@ -55,6 +55,12 @@ Add up the valence electrons of every atom, subtract one for each positive charg
 - C₂H₅: 2 × 4 + 5 = 13, odd, so **radical** (the ethyl radical, CH₃CH₂•).
 - Br⁻: 7 + 1 = 8, even, so not a radical.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--02-odd-or-even.webp" width="900" height="800" alt="Six species drawn as pairs of dots. OH (7), NO (11) and C2H5 (13) have an odd count and one unpaired electron, so they are radicals. OH minus (8), CH3 plus (6) and Br minus (8) have even counts and are not." loading="lazy">
+  <figcaption>An odd valence-electron total means at least one unpaired electron, so the species is a radical.</figcaption>
+</figure>
+
+
 ### Atom, molecule, cation or anion
 
 The guide asks how radicals can include atoms, molecules, cations and anions. The definition only needs one unpaired electron, so the charge does not matter:
@@ -67,6 +73,12 @@ The guide asks how radicals can include atoms, molecules, cations and anions. Th
 | Anion | O₂•⁻, the superoxide ion | 13 |
 
 Notice that a radical and an ion are different ideas. Cl• is a radical but not an ion; Cl⁻ is an ion but not a radical.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--01-what-is-a-radical.webp" width="900" height="800" alt="Three electron diagrams. Cl has seven valence electrons, three pairs and one unpaired, so it is a radical. Cl minus has eight, all paired, so it is not. HO has seven electrons with the unpaired one on oxygen, so it is a radical." loading="lazy">
+  <figcaption>A radical has an unpaired electron, shown as a dot on the atom that carries it.</figcaption>
+</figure>
+
 
 ## Homolytic fission and initiation (Reactivity 3.3.2)
 
@@ -107,6 +119,17 @@ Homolytic fission of the halogen is the **initiation step** of a **chain reactio
 - **CFCs and chlorine radicals.** In the stratosphere, UV breaks the C–Cl bonds in chlorofluorocarbons and releases Cl•. Using C–Cl 324 and C–F 492 kJ mol⁻¹, the C–F bond needs 168 kJ mol⁻¹ more energy, so fluorine radicals are not typically released.
 - **Ozone and oxygen.** Chlorine radicals can break down ozone, O₃, but not O₂. The oxygen–oxygen bonds in ozone have a bond order of about 1.5 (resonance), so they are weaker than the O=O double bond in O₂.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--03-homolytic-fission.webp" width="900" height="1040" alt="A Br-Br bond splits when UV light or heat is supplied. Two fish-hook arrows start at the middle of the bond, one to each atom, giving two bromine radicals each with one unpaired electron. A full arrow instead would give ions." loading="lazy">
+  <figcaption>Homolytic fission shares the bonding pair one electron each, using one fish-hook arrow per electron.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--04-halogen-bond-energy.webp" width="900" height="850" alt="A bar chart of X-X bond enthalpies: F-F 158, Cl-Cl 242, Br-Br 193, I-I 151 kJ per mole. The bond weakens from Cl to I as atoms get bigger, and F-F is weak because of lone pair repulsion." loading="lazy">
+  <figcaption>Cl-Cl needs most energy to split; I-I least of the three larger halogens, and F-F breaks the trend.</figcaption>
+</figure>
+
+
 ## Substitution of alkanes by halogens (Reactivity 3.3.3)
 
 ### Why alkanes are hard to react
@@ -141,6 +164,17 @@ Overall: C₇H₁₄ + Cl₂ → C₇H₁₃Cl + HCl
 
 Check each step: in propagation, the dot count is one on each side. In termination, there are two dots on the left and none on the right. The chlorine radical made in the second propagation step goes back into the first, which is why one initiation can lead to many product molecules before the chain ends. All fourteen hydrogens in cycloheptane are equivalent, so only one monochloro product is possible here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--05-propagation.webp" width="900" height="870" alt="After initiation makes Cl radicals, a cycle repeats: Cl radical plus C7H14 gives C7H13 radical and HCl (-17 kJ per mole), then C7H13 radical plus Cl2 gives C7H13Cl and a new Cl radical (-82). The overall delta H is -99." loading="lazy">
+  <figcaption>Each propagation step uses one radical and makes one, so one initiation can make many product molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--06-termination.webp" width="900" height="890" alt="Two radicals meet and their unpaired electrons form a bond: Cl plus Cl gives Cl2, C7H13 plus Cl gives C7H13Cl, and two C7H13 give C14H26. No radical is left, so the chain stops." loading="lazy">
+  <figcaption>Termination removes two radicals and makes none.</figcaption>
+</figure>
+
+
 ### Energy changes in the steps
 
 **Worked example 4.** Use these average bond enthalpies (kJ mol⁻¹): C–H 414, Cl–Cl 242, C–Cl 324, H–Cl 431. Calculate ΔH for each propagation step in worked example 3 and for the overall reaction.
@@ -166,6 +200,12 @@ The guide says substitution produces a **mixture of products**. There are three 
 2. The environments are: the end CH₃ groups, the CH₂ groups, the single C–H on carbon 3, and the CH₃ branch.
 3. The four products are 1-chloro-3-methylpentane, 2-chloro-3-methylpentane, 3-chloro-3-methylpentane and 3-(chloromethyl)pentane.
 4. So there are **four** monochloro structural isomers, before any further substitution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-sharing-reactions--07-product-mixture.webp" width="900" height="890" alt="3-methylpentane drawn as a skeleton with carbons coloured by hydrogen environment: carbons 1 and 5, 2 and 4, 3, and the methyl branch. Four environments give four monochloro isomers, listed by name." loading="lazy">
+  <figcaption>Four different hydrogen environments mean four monochloro structural isomers.</figcaption>
+</figure>
+
 
 ## Common errors
 

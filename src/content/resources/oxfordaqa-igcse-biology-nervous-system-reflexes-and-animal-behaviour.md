@@ -73,6 +73,22 @@ A synapse is a junction between two neurones. The signal crosses it as a chemica
 
 An **effector** is either a muscle or a gland. A muscle responds by contracting. A gland responds by releasing (secreting) chemical substances. In the pain-withdrawal reflex the effector is a muscle in the arm, which contracts and pulls the hand away.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour--08-muscle-or-gland-effector.webp" width="900" height="960" alt="Two pathways: hot handle to arm muscle that contracts, and onion smell to salivary glands that secrete saliva." loading="lazy">
+  <figcaption>Muscles contract; glands secrete.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--01-reflex-arc.webp" width="900" height="1000" alt="Schematic reflex arc: a pin pricks the skin, a receptor starts an impulse that travels along a sensory neurone into the spinal cord, a relay neurone, a motor neurone, then to the leg muscle (effector) which contracts. Arrowheads show impulse direction. The sensory neurone cell body sits on a short branch; the motor neurone cell body is in the cord." loading="lazy">
+  <figcaption>Follow the numbered pathway from stimulus to response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
+</figure>
+
+
 ### Worked example 1: analysing a reflex
 
 *A person touches a hot saucepan handle and snatches their hand back before feeling pain.*
@@ -109,6 +125,12 @@ time = distance / speed = 1.2 / 60 = 0.020 s, which is 20 milliseconds.
 
 A reflex arc in the spinal cord is much shorter than a path that goes through the brain and back, so the response is faster. The synapses add a small delay, so a pathway with fewer synapses is quicker.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour--05-reflex-time.webp" width="900" height="960" alt="Impulse path of 1.2 m from finger via the CNS to the arm muscle at 60 m/s: 1.2 divided by 60 is 0.020 s, which is 20 ms." loading="lazy">
+  <figcaption>1.2 m at 60 m/s takes 0.020 s, or 20 milliseconds.</figcaption>
+</figure>
+
+
 ## 3.4.6 Behaviour
 
 ### Mate choice, courtship and mating strategies (a)
@@ -132,6 +154,12 @@ Some animals have special behaviours for rearing young: feeding, guarding, keepi
 
 - It increases the chance that offspring survive.
 - It increases the chance that the parents' genes are passed on by the offspring.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour--10-parental-care-survival.webp" width="900" height="790" alt="Two grids of 40 eggs: 2 survive unguarded (5.0%), 26 survive guarded (65%)." loading="lazy">
+  <figcaption>Guarding raised survival from 5.0% to 65%.</figcaption>
+</figure>
+
 
 ### Worked example 4: interpreting survival data
 
@@ -199,6 +227,32 @@ Animals use signals to communicate with each other. The types you need to descri
 | Visual | Colour, posture, movement or light that another animal can see | A peacock's tail display; a dog's body posture; flashes of light from fireflies |
 
 Sound works in the dark but can attract predators. Chemical signals last but change slowly. Visual signals are quick but need light and a clear line of sight.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour--09-learning-curves.webp" width="900" height="1050" alt="Two graphs: snail withdrawal time 42 to 4 s over 20 taps (90.5% fall); saliva drops to a buzzer 0, 2, 6, 11, 12 over 20 pairings, levelling off." loading="lazy">
+  <figcaption>Habituation reduces a response; conditioning builds one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour--01-mating-strategies.webp" width="900" height="1070" alt="A courtship strip shows a displaying male and a female choosing. Four rows over five seasons show a mate for life, several mates over a lifetime, a mate for a breeding season and several mates in one season." loading="lazy">
+  <figcaption>Courtship leads to mate choice, and the four strategies differ in how many partners an animal has and when.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour--02-five-behaviour-types.webp" width="900" height="940" alt="Five pictured rows: innate turtle heading to the sea, imprinting goslings following a large moving object, habituation of a pigeon to traffic, classical conditioning with bell and food, operant conditioning with a rat and lever." loading="lazy">
+  <figcaption>Innate behaviour is inborn; the other four types are learned in different ways.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour--03-training-sniffer-police.webp" width="900" height="940" alt="Sniffer dog chain: target scent, dog indicates it, reward, which is operant conditioning. Police horse chain: flags and noise, repeated safe exposure, stays calm, which is habituation." loading="lazy">
+  <figcaption>Rewards train sniffer dogs (operant) and repeated safe exposure trains police horses (habituation).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour--04-communication-signals.webp" width="900" height="940" alt="Sound, chemical and visual signals each shown with an example, a strength and a weakness." loading="lazy">
+  <figcaption>Each type of signal has an advantage and a limit.</figcaption>
+</figure>
+
 
 ## Common errors
 
