@@ -59,6 +59,7 @@ import { DECK_OCR_A_LEVEL_CHEMISTRY } from './ocr-a-level-chemistry.ts';
 import { DECK_OCR_A_LEVEL_ECONOMICS } from './ocr-a-level-economics.ts';
 import { DECK_OCR_A_LEVEL_MATHEMATICS } from './ocr-a-level-mathematics.ts';
 import { DECK_OCR_A_LEVEL_PHYSICS } from './ocr-a-level-physics.ts';
+import { DECK_OCR_AS_LEVEL_ECONOMICS } from './ocr-as-level-economics.ts';
 import { DECK_OCR_GCSE_BIOLOGY } from './ocr-gcse-biology.ts';
 import { DECK_OCR_GCSE_BUSINESS } from './ocr-gcse-business.ts';
 import { DECK_OCR_GCSE_CHEMISTRY } from './ocr-gcse-chemistry.ts';
@@ -138,6 +139,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OCR_A_LEVEL_ECONOMICS,
   DECK_OCR_A_LEVEL_MATHEMATICS,
   DECK_OCR_A_LEVEL_PHYSICS,
+  DECK_OCR_AS_LEVEL_ECONOMICS,
   DECK_OCR_GCSE_BIOLOGY,
   DECK_OCR_GCSE_BUSINESS,
   DECK_OCR_GCSE_CHEMISTRY,
