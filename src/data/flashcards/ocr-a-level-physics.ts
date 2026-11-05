@@ -111,11 +111,11 @@ export const DECK_OCR_A_LEVEL_PHYSICS: FlashcardDeck = {
       { n: 6, f: 'Common estimates of uncertainty for a single reading and for repeats', b: 'Single reading: half the smallest scale division.\nRepeated readings: half the range.\nQuote it to 1 significant figure (occasionally 2) and match the decimal places of the value.' },
     ]),
     ...sub(M2, 'nature-of-quantities-ocr-alevel', '2.3', [
-      { n: 1, f: 'Scalar vs vector, with examples', b: 'Scalar: magnitude only, e.g. distance, speed, mass, energy, temperature.\nVector: magnitude and direction, e.g. displacement, velocity, acceleration, force, momentum.' },
-      { n: 2, f: 'Forces of 24 N and 10 N act at right angles. Find the resultant.', b: '√(24² + 10²) = 26 N, at tan⁻¹(10/24) = 22.6° to the 24 N force.' },
-      { n: 3, f: 'Resolving a force F at angle θ to an axis', b: 'Along the axis: F cos θ. Perpendicular to it: F sin θ. Cos goes with the axis the angle is measured from.' },
-      { n: 4, f: 'Weight components of a 5.0 kg block on a 20° slope (g = 9.81 N kg⁻¹)', b: 'Weight = 49.05 N.\nAlong the slope: 49.05 sin 20° = 16.8 N.\nPerpendicular to the slope: 49.05 cos 20° = 46.1 N.' },
-      { n: 5, f: 'How do you add two vectors that are not at right angles?', b: 'Draw them tip to tail; the resultant joins the start to the finish. Use a scale drawing (stating the scale), or the cosine and sine rules, or resolve both into perpendicular components first.' },
+      { n: 1, f: 'Scalar vs vector, with examples', b: 'Scalar: magnitude only, e.g. distance, speed, mass, energy, temperature.\nVector: magnitude and direction, e.g. displacement, velocity, acceleration, force, momentum.', src: 'ocr-a-level-physics-units-measurement-uncertainty-and-vectors-revision-notes' },
+      { n: 2, f: 'Forces of 24 N and 10 N act at right angles. Find the resultant.', b: '√(24² + 10²) = 26 N, at tan⁻¹(10/24) = 22.6° to the 24 N force.', src: 'ocr-a-level-physics-units-measurement-uncertainty-and-vectors-revision-notes' },
+      { n: 3, f: 'Resolving a force F at angle θ to an axis', b: 'Along the axis: F cos θ. Perpendicular to it: F sin θ. Cos goes with the axis the angle is measured from.', src: 'ocr-a-level-physics-units-measurement-uncertainty-and-vectors-revision-notes' },
+      { n: 4, f: 'Weight components of a 5.0 kg block on a 20° slope (g = 9.81 N kg⁻¹)', b: 'Weight = 49.05 N.\nAlong the slope: 49.05 sin 20° = 16.8 N.\nPerpendicular to the slope: 49.05 cos 20° = 46.1 N.', src: 'ocr-a-level-physics-units-measurement-uncertainty-and-vectors-revision-notes' },
+      { n: 5, f: 'How do you add two vectors that are not at right angles?', b: 'Draw them tip to tail; the resultant joins the start to the finish. Use a scale drawing (stating the scale), or the cosine and sine rules, or resolve both into perpendicular components first.', src: 'ocr-a-level-physics-units-measurement-uncertainty-and-vectors-revision-notes' },
       { n: 6, f: 'How do you subtract one vector from another, A − B?', b: 'Add the negative of B: reverse the direction of B and add it tip to tail to A, so A − B = A + (−B). Example: change in velocity Δv = v − u.' },
     ]),
 
