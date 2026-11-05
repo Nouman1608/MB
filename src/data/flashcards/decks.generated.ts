@@ -6,6 +6,7 @@ import { DECK_AQA_A_LEVEL_MATHEMATICS } from './aqa-a-level-mathematics.ts';
 import { DECK_AQA_A_LEVEL_PHYSICS } from './aqa-a-level-physics.ts';
 import { DECK_AQA_GCSE_BIOLOGY } from './aqa-gcse-biology.ts';
 import { DECK_AQA_GCSE_CHEMISTRY } from './aqa-gcse-chemistry.ts';
+import { DECK_AQA_GCSE_ECONOMICS } from './aqa-gcse-economics.ts';
 import { DECK_AQA_GCSE_MATHEMATICS } from './aqa-gcse-mathematics.ts';
 import { DECK_AQA_GCSE_PHYSICS } from './aqa-gcse-physics.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_BIOLOGY } from './cambridge-a-level-biology.ts';
@@ -20,6 +21,7 @@ import { DECK_CAMBRIDGE_O_LEVEL_CHEMISTRY } from './cambridge-o-level-chemistry.
 import { DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS } from './cambridge-o-level-mathematics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_PHYSICS } from './cambridge-o-level-physics.ts';
 import { DECK_EDEXCEL_A_LEVEL_CHEMISTRY } from './edexcel-a-level-chemistry.ts';
+import { DECK_EDEXCEL_A_LEVEL_ECONOMICS } from './edexcel-a-level-economics.ts';
 import { DECK_EDEXCEL_A_LEVEL_MATHEMATICS } from './edexcel-a-level-mathematics.ts';
 import { DECK_EDEXCEL_A_LEVEL_PHYSICS } from './edexcel-a-level-physics.ts';
 import { DECK_EDEXCEL_IGCSE_BIOLOGY } from './edexcel-igcse-biology.ts';
@@ -31,6 +33,7 @@ import { DECK_IB_IB_DP_MATHEMATICS_ANALYSIS_AND_APPROACHES } from './ib-ib-dp-ma
 import { DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION } from './ib-ib-dp-mathematics-applications-and-interpretation.ts';
 import { DECK_IB_IB_DP_PHYSICS } from './ib-ib-dp-physics.ts';
 import { DECK_IB_IB_MYP_MATHEMATICS } from './ib-ib-myp-mathematics.ts';
+import { DECK_OCR_A_LEVEL_BIOLOGY } from './ocr-a-level-biology.ts';
 import { DECK_OCR_A_LEVEL_CHEMISTRY } from './ocr-a-level-chemistry.ts';
 import { DECK_OCR_A_LEVEL_MATHEMATICS } from './ocr-a-level-mathematics.ts';
 import { DECK_OCR_A_LEVEL_PHYSICS } from './ocr-a-level-physics.ts';
@@ -39,10 +42,12 @@ import { DECK_OCR_GCSE_MATHEMATICS } from './ocr-gcse-mathematics.ts';
 import { DECK_OCR_GCSE_PHYSICS } from './ocr-gcse-physics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_BIOLOGY } from './oxfordaqa-a-level-biology.ts';
 import { DECK_OXFORDAQA_A_LEVEL_CHEMISTRY } from './oxfordaqa-a-level-chemistry.ts';
+import { DECK_OXFORDAQA_A_LEVEL_MATHEMATICS } from './oxfordaqa-a-level-mathematics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_PHYSICS } from './oxfordaqa-a-level-physics.ts';
 import { DECK_OXFORDAQA_IGCSE_CHEMISTRY } from './oxfordaqa-igcse-chemistry.ts';
 import { DECK_OXFORDAQA_IGCSE_ECONOMICS } from './oxfordaqa-igcse-economics.ts';
 import { DECK_OXFORDAQA_IGCSE_MATHEMATICS } from './oxfordaqa-igcse-mathematics.ts';
+import { DECK_OXFORDAQA_IGCSE_PHYSICS } from './oxfordaqa-igcse-physics.ts';
 
 export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_AQA_A_LEVEL_BIOLOGY,
@@ -51,6 +56,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_AQA_A_LEVEL_PHYSICS,
   DECK_AQA_GCSE_BIOLOGY,
   DECK_AQA_GCSE_CHEMISTRY,
+  DECK_AQA_GCSE_ECONOMICS,
   DECK_AQA_GCSE_MATHEMATICS,
   DECK_AQA_GCSE_PHYSICS,
   DECK_CAMBRIDGE_A_LEVEL_BIOLOGY,
@@ -65,6 +71,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_O_LEVEL_PHYSICS,
   DECK_EDEXCEL_A_LEVEL_CHEMISTRY,
+  DECK_EDEXCEL_A_LEVEL_ECONOMICS,
   DECK_EDEXCEL_A_LEVEL_MATHEMATICS,
   DECK_EDEXCEL_A_LEVEL_PHYSICS,
   DECK_EDEXCEL_IGCSE_BIOLOGY,
@@ -76,6 +83,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION,
   DECK_IB_IB_DP_PHYSICS,
   DECK_IB_IB_MYP_MATHEMATICS,
+  DECK_OCR_A_LEVEL_BIOLOGY,
   DECK_OCR_A_LEVEL_CHEMISTRY,
   DECK_OCR_A_LEVEL_MATHEMATICS,
   DECK_OCR_A_LEVEL_PHYSICS,
@@ -84,8 +92,10 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OCR_GCSE_PHYSICS,
   DECK_OXFORDAQA_A_LEVEL_BIOLOGY,
   DECK_OXFORDAQA_A_LEVEL_CHEMISTRY,
+  DECK_OXFORDAQA_A_LEVEL_MATHEMATICS,
   DECK_OXFORDAQA_A_LEVEL_PHYSICS,
   DECK_OXFORDAQA_IGCSE_CHEMISTRY,
   DECK_OXFORDAQA_IGCSE_ECONOMICS,
   DECK_OXFORDAQA_IGCSE_MATHEMATICS,
+  DECK_OXFORDAQA_IGCSE_PHYSICS,
 ];
