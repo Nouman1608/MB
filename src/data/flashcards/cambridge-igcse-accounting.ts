@@ -256,7 +256,7 @@ export const DECK_CAMBRIDGE_IGCSE_ACCOUNTING: FlashcardDeck = {
     ]),
     ...sub(T6, 'interested-parties', '6.4', [
       { n: 1, f: 'What do owners and managers want from accounting statements?', b: 'Owners: is my money earning enough? (profit, ROCE).\nManagers: where do I act? (margins, expenses, inventory and receivables days).' },
-      { n: 2, f: 'What do banks and other lenders look at?', b: 'Whether the loan and interest will be repaid: current ratio, acid test, profit, existing loans and assets available as security.' },
+      { n: 2, f: 'What do banks and other lenders look at?', b: 'Whether the loan and interest will be repaid: current ratio, acid test, profit, existing loans and assets.' },
       { n: 3, f: 'What do suppliers and customers want to know?', b: 'Suppliers: will we be paid on time? (liquidity, payables days).\nCustomers: will the business still be trading? (profit, liquidity).' },
       { n: 4, f: 'Investors compared with lenders', b: 'Investors share the risk and look for growth and dividends (profit trend, ROCE). Lenders want interest paid and the loan repaid (liquidity).' },
       { n: 5, f: 'Employees, governments and club members as users', b: 'Employees: job security and pay (profit trend, liquidity).\nGovernments: tax, grants and statistics (profit).\nClub members: did subscriptions cover costs? (surplus or deficit).' },
