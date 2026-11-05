@@ -38,9 +38,11 @@ const topicCards = cardsForTopic(deck, topic.slug);
 const cs = codeSuffix(deck);
 const codeWord = cs ? deck.syllabusCode : `${c.qualification} ${c.subject}`;
 const groups = topic.subtopics.length > 0
-  ? topic.subtopics.filter((s) => topicCards.some((x) => x.subtopic === s.slug)).map((s) => ({ key: s.slug, label: `${s.number} ${s.name}` }))
+  ? topic.subtopics.filter((s) => topicCards.some((x) => x.subtopic === s.slug)).map((s) => ({ key: s.slug, label: s.number ? `${s.number} ${s.name}` : s.name }))
   : [{ key: topic.slug, label: `Topic ${topic.number}: ${topic.name}` }];
 const cards = topicCards.map((card) => ({ ...card, group: card.subtopic ?? card.topic }));
+// Some records leave subtopic numbers empty (e.g. OxfordAQA 9215); never print an empty range.
+const subNumbers = topic.subtopics.map((s) => s.number).filter(Boolean);
 const topicWord = `${topic.stage ? `${topic.stage === 'A' ? 'A Level' : 'AS'} ` : ''}Topic ${topic.number}`;
 
 // The same topic's own study resources, one of each kind where they exist.
@@ -54,11 +56,11 @@ const study = (['learn', 'review', 'practice'] as const).flatMap((k) => {
 ---
 <PageLayout
   title={`${topic.name} Flashcards — ${cs ? `${c.subject} ${deck.syllabusCode}` : codeWord}`}
-  description={`${topicCards.length} free flashcards on ${topic.name} for ${c.board} ${c.qualification} ${c.subject}${cs ? ` ${deck.syllabusCode}` : ''} (${deck.syllabusSeries})${topic.subtopics.length ? `, covering ${topic.subtopics.map((s) => s.number).join(', ')}` : ''}.`}
+  description={`${topicCards.length} free flashcards on ${topic.name} for ${c.board} ${c.qualification} ${c.subject}${cs ? ` ${deck.syllabusCode}` : ''} (${deck.syllabusSeries})${subNumbers.length ? `, covering ${subNumbers.join(', ')}` : ''}.`}
   path={path}
   eyebrow={`Flashcards · ${codeWord} · ${topicWord}`}
   heading={`${topic.name} flashcards`}
-  lead={`${topicCards.length} cards on ${topicWord}${topic.subtopics.length ? `, subtopics ${topic.subtopics[0].number} to ${topic.subtopics[topic.subtopics.length - 1].number}` : ''}. Pick a subtopic or study them all.`}
+  lead={`${topicCards.length} cards on ${topicWord}${subNumbers.length > 1 ? `, subtopics ${subNumbers[0]} to ${subNumbers[subNumbers.length - 1]}` : ''}. Pick a subtopic or study them all.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Flashcards', href: '/flashcards/' },
