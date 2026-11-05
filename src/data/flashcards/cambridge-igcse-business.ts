@@ -123,7 +123,7 @@ export const DECK_CAMBRIDGE_IGCSE_BUSINESS: FlashcardDeck = {
     ...sub('people-in-business-0264', 'motivating-employees-0264', '2.4', [
       { n: 1, f: 'Motivation', b: 'The desire and willingness to put effort into a job.' },
       { n: 2, f: 'Four benefits of a well-motivated workforce', b: 'Improved labour productivity, reduced absenteeism, lower labour turnover, and greater willingness to accept change or new methods of working.' },
-      { n: 3, f: 'Labour turnover (%) formula, and an example', b: 'Labour turnover = leavers in the period ÷ average number of staff × 100.\nExample: 6 leavers from an average of 48 staff: 6 ÷ 48 × 100 = 12.5%.' },
+      { n: 3, f: 'Labour turnover (%) formula, and an example', b: 'Labour turnover = leavers in the period ÷ average number of staff × 100.\nExample: 6 leavers from an average of 48 staff: 6 ÷ 48 × 100 = 12.5%.\nA standard form: it is not in the 0264 syllabus formula list.' },
       { n: 4, f: 'Maslow’s hierarchy of needs, lowest first', b: 'Physiological (wage to live on), safety (secure contract, safe conditions), social (teamwork), esteem (praise, status, promotion), self-actualisation (challenge, reaching potential).' },
       { n: 5, f: 'Herzberg: hygiene factors and motivators', b: 'Hygiene factors (pay, conditions, job security, supervision) stop dissatisfaction but do not motivate on their own.\nMotivators (achievement, recognition, responsibility, the work itself, advancement) create satisfaction and effort.' },
       { n: 6, f: 'Taylor’s view of motivation', b: 'Workers are motivated mainly by money. Break the job into tasks, find the best method, train workers and pay by output (piece-rate). It ignores boredom, teamwork and the quality of work.' },
