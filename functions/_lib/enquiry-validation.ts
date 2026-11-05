@@ -81,8 +81,10 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
   // as a hidden value filled from ?course / ?program, and `timezone` stays
   // allow-listed so an older cached page still submits cleanly.
   trial: {
-    required: ['name', 'email', 'country'],
-    optional: ['phone', 'qualification', 'board', 'subject', 'course', 'format', 'timezone', 'availability', 'teacher', 'source', 'message'],
+    // D-439: email is checked below instead -- optional on the English form
+    // (which requires a phone), still compulsory on the translated forms.
+    required: ['name', 'country'],
+    optional: ['email', 'phone', 'qualification', 'board', 'subject', 'course', 'format', 'timezone', 'availability', 'teacher', 'source', 'message'],
   },
   // Deliberately NOT name/phone/country -- a correction report is not a
   // tuition enquiry and shouldn't ask for enrolment-shaped fields. pageUrl
@@ -217,14 +219,17 @@ export function validateEnquiry(
     if (!data.subject && !data.message && !errors.subject) {
       errors.subject = 'Please tell us which subjects you need help with.';
     }
-    // D-438 (owner, 5 Nov 2026) relaxes D-293: on the English structured form
-    // only subjects, name, email and country are compulsory. A missing board
-    // or format means "Not sure" / "Help me decide". A phone number is
-    // optional, but one that is given must look like a number.
+    // D-438/D-439 (owner, 5 Nov 2026) relax D-293: on the English structured
+    // form subjects, name, phone/WhatsApp and country are compulsory; email is
+    // optional. A missing board or format means "Not sure" / "Help me decide".
+    // The translated five-field forms send no subject and still need an email.
     if (data.subject) {
       if (!data.board) data.board = 'not-sure';
       if (!data.format && !errors.format) data.format = 'help-me-decide';
-      if (data.phone && (data.phone.replace(/\D/g, '').length < 7 || data.phone.length > 30)) errors.phone = 'Please enter a valid phone or WhatsApp number.';
+      if (!data.phone) errors.phone = 'Please enter a phone or WhatsApp number.';
+      else if (data.phone.replace(/\D/g, '').length < 7 || data.phone.length > 30) errors.phone = 'Please enter a valid phone or WhatsApp number.';
+    } else if (!data.email && !errors.email) {
+      errors.email = 'This field is required.';
     }
   }
 

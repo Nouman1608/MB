@@ -12,6 +12,11 @@ Live: https://marlbridge.com (Cloudflare Pages, builds from `main`).
     npm run build    # production build to ./dist (also runs postbuild: Pagefind indexing)
     npm run preview  # serve ./dist
 
+The `dev` and `build` scripts start Astro with a 6 GB Node heap (`--max-old-space-size=6144`):
+the content store is too large for Node's default (~2 GB) and the build ran out of memory
+without it (D-439). `npm run check:content-store` (part of `audit:all`) reports how close the
+content store is to V8's hard string-length limit, which no heap setting can raise.
+
 Every `dev`/`build` run first executes, in order: `setup:routes` (see below),
 `generate:redirects`, `generate:llms`, and the full `validate:academic` chain. A build does not
 start until all four pass.

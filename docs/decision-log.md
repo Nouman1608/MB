@@ -15807,6 +15807,14 @@ Three more problems turned up:
 - **Result.** The strict check (topic and subtopic level) lists no Accounting gap for O Level 7707 or Edexcel IGCSE 4AC1. `validate:academic` passes; the duplicate-scope script reports nothing new.
 - **Open items.** Business for Edexcel International GCSE is not on the site; AQA AS 7126 not added; the pages state amounts in dollars in words because the specification names no currency.
 
+## D-439 - Trial form needs a phone, not an email; compact cookie banner on phones; build memory (5 Nov 2026)
+
+- Owner, 5 Nov 2026: "email could be optional not the phone number. Phone number is a must"; fix the cookie banner covering the screen; find a workaround for the build running out of memory.
+- **Trial form (amends D-438).** On the English `/trial/` form, subjects, name, phone/WhatsApp and country are compulsory and email is optional (checked only if given). The server enforces the same rule; when no email is given there is no Reply-To and no acknowledgement email (both were already conditional), and the success panel says we will contact the family on their phone or WhatsApp. The translated `/ar/` `/ur/` `/bn/` five-field forms send no subject and no compulsory phone, so they keep email compulsory.
+- **Cookie banner.** On phones only: shorter copy ("Allow analytics cookies? None are set unless you accept." / the opt-out equivalent), less padding, and the buttons on the left with room on the right for the WhatsApp button, which previously sat on top of the banner. Buttons keep 44px tap targets. The wording on wider screens is unchanged. The homepage hero is tighter on phones (less top padding, a 16.5px lead) so the trial button clears the banner on a 390px-wide phone; on a 375x667 phone such as the iPhone SE it is still just below the first screen.
+- **Build memory.** `dev` and `build` now start Astro with `--max-old-space-size=6144`. Earlier full builds ran out of memory locally (D-433, D-436, and again on 5 Nov). 6 GB leaves room under an 8 GB build machine.
+- **The real limit.** The cause is that Astro keeps all content (146 MB of Markdown plus rendered HTML) in one data store, serialised as one string of about 319 million characters. V8 cannot hold a string longer than about 536 million characters at any heap size, so content can grow by roughly two thirds before builds fail outright. `scripts/check-content-store-size.mjs` (in `audit:all`) warns at 75% and fails at 90%. The lasting fix is to move the largest collections (resources, AP resources) out of the single store; that is not done here.
+
 ## D-438 - Homepage shortened, trial form relaxed, homepage made online-only (5 Nov 2026)
 
 - Owner, 5 Nov 2026, after a site review: fix the long mobile homepage, fix the trial form friction, and make the homepage "only for online students". Baseline: GA4 recorded 6 `generate_lead` events from about 607 consenting users in 28 days (D-308 baseline).

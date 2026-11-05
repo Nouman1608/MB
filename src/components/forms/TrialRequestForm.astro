@@ -17,10 +17,10 @@
  * empty field gets a red * on its label and a message. Preferred times and
  * the message stay folded and optional (owner's choice, 2026-09-23).
  *
- * D-438 (owner, 5 Nov 2026) relaxes D-293: only subjects, name, email and
- * country are compulsory. The exam board starts on "Not sure" and the format
+ * D-438 (owner, 5 Nov 2026) relaxes D-293, and D-439 swaps email for phone:
+ * only subjects, name, phone/WhatsApp and country are compulsory. The exam board starts on "Not sure" and the format
  * on "Help me decide", so both are still shown and can be changed but never
- * block a send. Phone/WhatsApp is optional, and checked only if filled in.
+ * block a send. Email is optional, and checked only if filled in.
  *
  * PRESELECTION (build-time allow-lists; nothing from the URL is shown or
  * submitted unless it matches):
@@ -140,13 +140,13 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       <p id="trial-name-err" data-error-for="name" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
-      <label for="trial-email" class={labelCls}>Email<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
-      <input id="trial-email" name="email" type="email" required autocomplete="email" inputmode="email" class={field} aria-describedby="trial-email-err" />
+      <label for="trial-email" class={labelCls}>Email <span class="font-normal text-ink-mute">(optional)</span></label>
+      <input id="trial-email" name="email" type="email" autocomplete="email" inputmode="email" class={field} aria-describedby="trial-email-err" />
       <p id="trial-email-err" data-error-for="email" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
-      <label for="trial-phone" class={labelCls}>Phone or WhatsApp <span class="font-normal text-ink-mute">(optional)</span></label>
-      <input id="trial-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" maxlength="30" class={field} placeholder="e.g. +92 300 1234567" aria-describedby="trial-phone-err" />
+      <label for="trial-phone" class={labelCls}>Phone or WhatsApp<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
+      <input id="trial-phone" name="phone" type="tel" required autocomplete="tel" inputmode="tel" maxlength="30" class={field} placeholder="e.g. +92 300 1234567" aria-describedby="trial-phone-err" />
       <p id="trial-phone-err" data-error-for="phone" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
@@ -326,14 +326,14 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     const val = (id: string) => form.querySelector<HTMLInputElement>(`#trial-${id}`)!.value.trim();
     const formatVal = () => form.querySelector<HTMLInputElement>('input[name="format"]:checked')?.value ?? '';
     const phoneOk = (v: string) => /^\+?[\d\s\-().]{7,30}$/.test(v) && v.replace(/\D/g, '').length >= 7;
-    // D-438 (relaxing D-293): subjects, name, email and country are compulsory.
-    // An empty one gets a red * on its label plus a message. Board and format
-    // start on "Not sure" / "Help me decide"; phone is checked only if given.
+    // D-438/D-439 (relaxing D-293): subjects, name, phone and country are
+    // compulsory. An empty one gets a red * on its label plus a message. Board
+    // and format start on "Not sure" / "Help me decide"; email is checked only if given.
     const rules: [string, () => string, () => string | null][] = [
       ['subject', () => val('subject'), () => (val('subject') ? null : 'Please type your subjects, for example "A Level Maths, IGCSE Chemistry".')],
       ['name', () => val('name'), () => (val('name') ? null : 'Please enter your name.')],
-      ['email', () => val('email'), () => (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val('email')) ? null : 'Please enter a valid email address.')],
-      ['phone', () => val('phone'), () => (!val('phone') || phoneOk(val('phone')) ? null : 'Please enter a phone or WhatsApp number, with the country code if outside Pakistan.')],
+      ['email', () => val('email'), () => (!val('email') || /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val('email')) ? null : 'Please enter a valid email address.')],
+      ['phone', () => val('phone'), () => (phoneOk(val('phone')) ? null : 'Please enter a phone or WhatsApp number, with the country code if outside Pakistan.')],
       ['country', () => val('country'), () => (val('country') ? null : 'Please tell us your country.')],
     ];
     const mark = (name: string, empty: boolean) => {
@@ -403,7 +403,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
         }
         panel.querySelector<HTMLElement>('[data-trial-ack]')!.textContent = result.acknowledged
           ? 'We have also emailed a copy of this request to the address you gave. If it has not arrived within an hour, please check your spam folder.'
-          : 'We will reply to the email address you gave.';
+          : val('email') ? 'We will reply to the email address you gave.' : 'We will contact you on the phone or WhatsApp number you gave.';
         const next = panel.querySelector<HTMLElement>('[data-trial-next]')!;
         const course = courseIn.value && has(data.courses, courseIn.value) ? data.courses[courseIn.value] : null;
         const a = document.createElement('a');

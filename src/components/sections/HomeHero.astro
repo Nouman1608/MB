@@ -66,18 +66,19 @@ const proof = [
 <section aria-labelledby="hero-heading" class="relative overflow-hidden bg-navy-800 text-ivory">
   {/* D-397: the figure fades out behind the text column so lines never cross the lead paragraph. */}
   <PathwayFigure class="max-md:opacity-40 [mask-image:linear-gradient(to_right,transparent_42%,black_78%)] [-webkit-mask-image:linear-gradient(to_right,transparent_42%,black_78%)]" />
-  <Container class="relative pb-[clamp(64px,10vh,120px)] pt-[clamp(56px,9vh,112px)]">
+  {/* D-439: tighter on phones so the trial button clears the cookie banner on a 390px-wide phone. */}
+  <Container class="relative pb-[clamp(64px,10vh,120px)] pt-8 sm:pt-[clamp(56px,9vh,112px)]">
     {/* D-438 (owner, 5 Nov 2026): the homepage speaks to online students only.
         In-person teaching in Lahore is still described on /pakistan/ and /about/. */}
     <p class="m-0 mb-[clamp(16px,2.5vh,24px)] mb-eyebrow text-teal-300">Live online tuition</p>
     <h1 id="hero-heading" class="m-0 max-w-[20ch] font-display text-[length:var(--text-hero)] font-bold leading-[0.98] tracking-[-0.035em] text-white">
       Online IGCSE, O Level, A Level, GCSE and IB tuition.
     </h1>
-    <p class="mt-[clamp(22px,3.5vh,32px)] max-w-[52ch] text-[length:var(--text-lead)] leading-[1.55] text-on-navy">
+    <p class="mt-4 max-w-[52ch] text-[16.5px] leading-[1.55] text-on-navy sm:mt-[clamp(22px,3.5vh,32px)] sm:text-[length:var(--text-lead)]">
       {/* D-438: shortened so the trial button stays in the first screen on a phone. */}
       Live classes, one-to-one or in small groups, at times agreed in your own time zone. {boardList} courses{teachesIb && ', and IB one-to-one'}, each taught by a named subject specialist.
     </p>
-    <div class="mt-[clamp(28px,4vh,40px)] flex flex-wrap gap-3.5">
+    <div class="mt-6 flex flex-wrap gap-3.5 sm:mt-[clamp(28px,4vh,40px)]">
       <Button href={`${routes.trial}?source=home`} variant="highlight" size="lg" data-cta="hero-trial">Request a free trial</Button>
       {/* Navigation round (6 Oct 2026): the second hero action is the free
           library ("Meet the teachers" is the band two sections down). */}

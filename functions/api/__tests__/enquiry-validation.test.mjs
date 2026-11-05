@@ -207,34 +207,42 @@ test('validateEnquiry: trial drops out-of-list values instead of trusting them',
   assert.equal(badFormat.ok, false);
 });
 
-// D-438 (relaxing D-293) -- on the English form only subjects, name, email and
-// country are compulsory; board and format default, phone is optional.
-test('validateEnquiry: trial with a typed subject needs only name, email and country', () => {
-  const r = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'A Level Maths' });
+// D-438/D-439 (relaxing D-293) -- on the English form subjects, name, phone and
+// country are compulsory; email is optional; board and format default.
+test('validateEnquiry: trial with a typed subject needs name, phone and country, not email', () => {
+  const base = { name: 'Z', phone: '+971 50 123 4567', country: 'AE', subject: 'A Level Maths' };
+  const r = validateEnquiry('trial', base);
   assert.equal(r.ok, true);
   if (r.ok) {
     assert.equal(r.data.board, 'not-sure');
     assert.equal(r.data.format, 'help-me-decide');
-    assert.equal('phone' in r.data && r.data.phone !== '', false);
+    assert.equal('email' in r.data, false);
   }
-  for (const missing of ['name', 'email', 'country']) {
-    const data = { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'A Level Maths' };
+  for (const missing of ['name', 'phone', 'country']) {
+    const data = { ...base };
     delete data[missing];
     const m = validateEnquiry('trial', data);
     assert.equal(m.ok, false, missing);
     if (!m.ok) assert.ok(m.errors[missing], missing);
   }
+  // An email that is given must still be valid.
+  const badEmail = validateEnquiry('trial', { ...base, email: 'not-an-email' });
+  assert.equal(badEmail.ok, false);
+  if (!badEmail.ok) assert.ok(badEmail.errors.email);
   // A tampered board is dropped and treated as "Not sure", never trusted.
-  const badBoard = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'A Level Maths', board: 'made-up', format: 'group' });
+  const badBoard = validateEnquiry('trial', { ...base, board: 'made-up', format: 'group' });
   assert.equal(badBoard.ok, true);
   if (badBoard.ok) assert.equal(badBoard.data.board, 'not-sure');
-  // A phone number that is given must still look like one.
-  const shortPhone = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phone: '12345', country: 'PK', subject: 'A Level Maths' });
+  // A phone number must look like one.
+  const shortPhone = validateEnquiry('trial', { ...base, phone: '12345' });
   assert.equal(shortPhone.ok, false);
   if (!shortPhone.ok) assert.ok(shortPhone.errors.phone);
-  // The translated five-field forms (no subject) are unchanged.
+  // The translated five-field forms (no subject) still need an email, not a phone.
   const translated = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', message: 'A Level Maths please' });
   assert.equal(translated.ok, true);
+  const translatedNoEmail = validateEnquiry('trial', { name: 'Z', phone: '03001234567', country: 'PK', message: 'A Level Maths please' });
+  assert.equal(translatedNoEmail.ok, false);
+  if (!translatedNoEmail.ok) assert.ok(translatedNoEmail.errors.email);
 });
 
 test('renderEmailBody: trial shows readable choices and says it is a request, not a booking', () => {
@@ -252,7 +260,10 @@ test('renderEmailBody: trial shows readable choices and says it is a request, no
 test('ALLOWED_FIELDS_BY_KIND: only the trial kind changed; student and tutoring keep five fields', () => {
   assert.deepEqual(ALLOWED_FIELDS_BY_KIND.student, ALLOWED_FIELDS_BY_KIND.tutoring);
   assert.deepEqual(ALLOWED_FIELDS_BY_KIND.student.required.sort(), ['country', 'email', 'message', 'name']);
-  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.required.sort(), ['country', 'email', 'name']);
+  // D-439: email moved to a conditional check (optional on the English form,
+  // which requires a phone; still compulsory on the translated forms).
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.required.sort(), ['country', 'name']);
+  assert.ok(ALLOWED_FIELDS_BY_KIND.trial.optional.includes('email'));
 });
 
 // Flagship Dominance/Trust programme, Section 9 (2026-08-31, D-095) --
