@@ -12,11 +12,13 @@ import { DECK_AQA_GCSE_CHEMISTRY } from './aqa-gcse-chemistry.ts';
 import { DECK_AQA_GCSE_ECONOMICS } from './aqa-gcse-economics.ts';
 import { DECK_AQA_GCSE_MATHEMATICS } from './aqa-gcse-mathematics.ts';
 import { DECK_AQA_GCSE_PHYSICS } from './aqa-gcse-physics.ts';
+import { DECK_CAMBRIDGE_A_LEVEL_ACCOUNTING } from './cambridge-a-level-accounting.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_BIOLOGY } from './cambridge-a-level-biology.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_BUSINESS } from './cambridge-a-level-business.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY } from './cambridge-a-level-chemistry.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS } from './cambridge-a-level-mathematics.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_PHYSICS } from './cambridge-a-level-physics.ts';
+import { DECK_CAMBRIDGE_IGCSE_ACCOUNTING } from './cambridge-igcse-accounting.ts';
 import { DECK_CAMBRIDGE_IGCSE_BIOLOGY } from './cambridge-igcse-biology.ts';
 import { DECK_CAMBRIDGE_IGCSE_BUSINESS } from './cambridge-igcse-business.ts';
 import { DECK_CAMBRIDGE_IGCSE_CHEMISTRY } from './cambridge-igcse-chemistry.ts';
@@ -77,11 +79,13 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_AQA_GCSE_ECONOMICS,
   DECK_AQA_GCSE_MATHEMATICS,
   DECK_AQA_GCSE_PHYSICS,
+  DECK_CAMBRIDGE_A_LEVEL_ACCOUNTING,
   DECK_CAMBRIDGE_A_LEVEL_BIOLOGY,
   DECK_CAMBRIDGE_A_LEVEL_BUSINESS,
   DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY,
   DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_A_LEVEL_PHYSICS,
+  DECK_CAMBRIDGE_IGCSE_ACCOUNTING,
   DECK_CAMBRIDGE_IGCSE_BIOLOGY,
   DECK_CAMBRIDGE_IGCSE_BUSINESS,
   DECK_CAMBRIDGE_IGCSE_CHEMISTRY,
