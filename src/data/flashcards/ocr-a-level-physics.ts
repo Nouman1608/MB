@@ -116,6 +116,7 @@ export const DECK_OCR_A_LEVEL_PHYSICS: FlashcardDeck = {
       { n: 3, f: 'Resolving a force F at angle θ to an axis', b: 'Along the axis: F cos θ. Perpendicular to it: F sin θ. Cos goes with the axis the angle is measured from.' },
       { n: 4, f: 'Weight components of a 5.0 kg block on a 20° slope (g = 9.81 N kg⁻¹)', b: 'Weight = 49.05 N.\nAlong the slope: 49.05 sin 20° = 16.8 N.\nPerpendicular to the slope: 49.05 cos 20° = 46.1 N.' },
       { n: 5, f: 'How do you add two vectors that are not at right angles?', b: 'Draw them tip to tail; the resultant joins the start to the finish. Use a scale drawing (stating the scale), or the cosine and sine rules, or resolve both into perpendicular components first.' },
+      { n: 6, f: 'How do you subtract one vector from another, A − B?', b: 'Add the negative of B: reverse the direction of B and add it tip to tail to A, so A − B = A + (−B). Example: change in velocity Δv = v − u.' },
     ]),
 
     // Module 3 Forces and motion
@@ -287,12 +288,12 @@ export const DECK_OCR_A_LEVEL_PHYSICS: FlashcardDeck = {
       { n: 8, f: 'Why are atomic energy levels negative?', b: 'Zero is the energy of a free electron at rest; a bound electron has less energy than that. Ionisation from a level needs energy equal to its magnitude.' },
       { n: 9, f: 'Emission line vs absorption line spectrum', b: 'Emission: bright lines on dark, from hot low-pressure gas.\nAbsorption: dark lines on a continuous spectrum, from light passing through cooler gas.\nAn element\'s lines are at the same wavelengths in both.' },
       { n: 10, f: 'Wien\'s law and Stefan\'s law', b: 'Wien: λmax T = 2.90 × 10⁻³ m K.\nStefan: L = 4πr²σT⁴. Use Wien for T, then Stefan for r.' },
-      { n: 11, f: 'Astronomical unit, light-year and parsec', b: 'AU: mean Earth–Sun distance, 1.50 × 10¹¹ m.\nLight-year: distance light travels in a vacuum in one year, 9.46 × 10¹⁵ m.\nParsec: distance at which a star has a parallax of 1 second of arc, 3.09 × 10¹⁶ m.' },
+      { n: 11, f: 'Astronomical unit, light-year and parsec', b: 'AU: mean Earth–Sun distance, 1.50 × 10¹¹ m.\nLight-year: distance light travels in a vacuum in one year, about 9.5 × 10¹⁵ m.\nParsec: distance at which a star has a parallax of 1 second of arc, about 3.1 × 10¹⁶ m (Data booklet values).' },
       { n: 12, f: 'A star has a parallax angle of 0.20 seconds of arc. How far away is it?', b: 'd = 1/p = 1/0.20 = 5.0 pc (about 16 ly).' },
       { n: 13, f: 'Cosmological principle', b: 'On a large scale the universe is homogeneous, isotropic, and the laws of physics are the same everywhere.' },
       { n: 14, f: 'Doppler red shift and Hubble\'s law', b: 'Δλ/λ ≈ Δf/f ≈ v/c (v ≪ c); a receding source is red shifted.\nHubble: v ≈ H₀d, so recession speed is proportional to distance.' },
       { n: 15, f: 'Two pieces of evidence for the Big Bang', b: 'Galactic red shift and Hubble\'s law (expansion). The cosmic microwave background, observed from all directions at about 2.7 K.' },
-      { n: 16, f: 'Estimate the age of the universe from H₀ = 70 km s⁻¹ Mpc⁻¹', b: 'H₀ = 70 ÷ 3.09 × 10¹⁹ = 2.27 × 10⁻¹⁸ s⁻¹.\nt ≈ 1/H₀ = 4.4 × 10¹⁷ s ≈ 1.4 × 10¹⁰ years.' },
+      { n: 16, f: 'Estimate the age of the universe from H₀ = 70 km s⁻¹ Mpc⁻¹', b: '1 Mpc ≈ 3.1 × 10²² m, so H₀ = 70 × 10³ ÷ 3.1 × 10²² ≈ 2.3 × 10⁻¹⁸ s⁻¹.\nt ≈ 1/H₀ ≈ 4.4 × 10¹⁷ s ≈ 1.4 × 10¹⁰ years.' },
     ]),
 
     // Module 6 Particles and medical physics

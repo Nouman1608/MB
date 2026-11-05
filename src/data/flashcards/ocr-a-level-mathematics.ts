@@ -203,7 +203,7 @@ export const DECK_OCR_A_LEVEL_MATHEMATICS: FlashcardDeck = {
       { n: 6, f: 'Binomial test: which tail probability is the p-value for H₁: p > p₀, p < p₀ and p ≠ p₀?', b: 'p > p₀: P(X ≥ x) = 1 − P(X ≤ x − 1).\np < p₀: P(X ≤ x).\np ≠ p₀: compare each tail with half the level (or double the smaller tail).' },
       { n: 7, f: 'Normal test for a mean: distribution under H₀ and test statistic', b: 'X̄ ~ N(μ₀, σ²/n), so z = (x̄ − μ₀)/(σ/√n).' },
       { n: 8, f: 'H₀: μ = 60, H₁: μ < 60, σ = 5, n = 25, 5% level. Find the critical region for X̄.', b: 'Under H₀, X̄ ~ N(60, 1²). Critical region: X̄ < 60 − 1.645 × 1 = 58.36 (2 d.p.).' },
-      { n: 9, f: 'Testing for correlation with the product moment correlation coefficient', b: 'H₀: ρ = 0; H₁: ρ > 0, ρ < 0 or ρ ≠ 0 (ρ is the population coefficient). Compare the sample r with the critical value for n pairs and the significance level, then conclude in context.' },
+      { n: 9, f: 'Testing for correlation with Pearson’s product-moment correlation coefficient', b: 'H₀: ρ = 0; H₁: ρ > 0, ρ < 0 or ρ ≠ 0 (ρ is the population coefficient). Compare the sample r with the critical value from the table for n pairs and the significance level (or compare a given p-value with the level), then conclude in context. The data are assumed to come from a bivariate normal distribution.' },
       { n: 10, f: 'What does the value of r tell you?', b: '−1 ≤ r ≤ 1. The sign gives the direction; the size gives how close the points lie to a straight line (not the gradient). r near 0 means no linear pattern, though a curve is still possible.' },
     ]),
 

@@ -213,7 +213,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY: FlashcardDeck = {
       { n: 1, f: "Hess's law", b: 'The total enthalpy change for a reaction is independent of the route taken, provided the initial and final conditions are the same.' },
       { n: 2, f: 'ΔHr from formation data, and from combustion data', b: 'Formation: ΔHr = ΣΔHf(products) − ΣΔHf(reactants).\nCombustion: ΔHr = ΣΔHc(reactants) − ΣΔHc(products).\nMultiply each value by its coefficient.' },
       { n: 3, f: 'Find ΔHf⦵(CH₄) from ΔHc: C(graphite) −394, H₂ −286, CH₄ −890 kJ mol⁻¹', b: 'ΔHf = [ΔHc(C) + 2ΔHc(H₂)] − ΔHc(CH₄) = [−394 + 2(−286)] − (−890) = −966 + 890 = −76 kJ mol⁻¹' },
-      { n: 4, f: 'ΔH from bond enthalpies; H–H 436, Cl–Cl 243, H–Cl 432 kJ mol⁻¹. Find ΔH for H₂ + Cl₂ → 2HCl.', b: 'ΔH = Σ(bonds broken) − Σ(bonds made) = (436 + 243) − (2 × 432) = 679 − 864 = −185 kJ mol⁻¹' },
+      { n: 4, f: 'ΔH from bond enthalpies; H–H 436, Cl–Cl 242, H–Cl 431 kJ mol⁻¹. Find ΔH for H₂ + Cl₂ → 2HCl.', b: 'ΔH = Σ(bonds broken) − Σ(bonds made) = (436 + 242) − (2 × 431) = 678 − 862 = −184 kJ mol⁻¹' },
       { n: 5, f: 'Why do Hess cycles let you find enthalpy changes that cannot be measured directly?', b: 'Because ΔH is independent of route, an unmeasurable change (such as ΔHf of methane) can be found from measurable ones (such as enthalpies of combustion) that link the same start and end.' },
     ]),
 
