@@ -14,7 +14,9 @@ import { DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY } from './cambridge-a-level-chemistry.
 import { DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS } from './cambridge-a-level-mathematics.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_PHYSICS } from './cambridge-a-level-physics.ts';
 import { DECK_CAMBRIDGE_IGCSE_BIOLOGY } from './cambridge-igcse-biology.ts';
+import { DECK_CAMBRIDGE_IGCSE_BUSINESS } from './cambridge-igcse-business.ts';
 import { DECK_CAMBRIDGE_IGCSE_CHEMISTRY } from './cambridge-igcse-chemistry.ts';
+import { DECK_CAMBRIDGE_IGCSE_ECONOMICS } from './cambridge-igcse-economics.ts';
 import { DECK_CAMBRIDGE_IGCSE_MATHEMATICS } from './cambridge-igcse-mathematics.ts';
 import { DECK_CAMBRIDGE_IGCSE_PHYSICS } from './cambridge-igcse-physics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_BIOLOGY } from './cambridge-o-level-biology.ts';
@@ -65,7 +67,9 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_A_LEVEL_PHYSICS,
   DECK_CAMBRIDGE_IGCSE_BIOLOGY,
+  DECK_CAMBRIDGE_IGCSE_BUSINESS,
   DECK_CAMBRIDGE_IGCSE_CHEMISTRY,
+  DECK_CAMBRIDGE_IGCSE_ECONOMICS,
   DECK_CAMBRIDGE_IGCSE_MATHEMATICS,
   DECK_CAMBRIDGE_IGCSE_PHYSICS,
   DECK_CAMBRIDGE_O_LEVEL_BIOLOGY,
