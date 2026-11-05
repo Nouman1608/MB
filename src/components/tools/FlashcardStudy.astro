@@ -1,0 +1,133 @@
+---
+/**
+ * D-438 -- the flashcard study panel shared by the course and topic flashcard
+ * pages. Server-renders every card as a plain list (works without JavaScript,
+ * prints, and is what search engines read); src/scripts/flashcard-ui.ts adds
+ * the one-card-at-a-time study mode on top.
+ */
+import type { Flashcard } from '../../data/flashcards/types';
+
+interface Group { key: string; label: string }
+interface Props {
+  code: string;
+  scope: 'course' | 'topic';
+  tiered: boolean;
+  /** 'subtopic' on a topic page, 'topic' on the course page. */
+  groupNoun: 'subtopic' | 'topic';
+  groups: Group[];
+  /** Cards in syllabus order, each with the key of the group it is listed under. */
+  cards: (Flashcard & { group: string })[];
+}
+const { code, scope, tiered, groupNoun, groups, cards } = Astro.props;
+const hasSupplement = tiered && cards.some((c) => c.tier === 'supplement');
+const payload = JSON.stringify({
+  code, scope, tiered, groupNoun, groups,
+  cards: cards.map((c) => ({ id: c.id, f: c.front, b: c.back, g: c.group, sup: c.tier === 'supplement' })),
+}).replace(/</g, '\\u003c');
+const btn = 'inline-flex min-h-11 items-center justify-center rounded-sm px-5 text-[14.5px] font-medium transition-colors';
+const primary = `${btn} bg-navy-800 text-ivory hover:bg-navy-700 disabled:cursor-not-allowed disabled:opacity-50`;
+const secondary = `${btn} border border-rule bg-white hover:border-teal-500`;
+const listed = groups.map((g) => ({ ...g, cards: cards.filter((c) => c.group === g.key) })).filter((g) => g.cards.length > 0);
+---
+<script type="application/json" id="fc-data" set:html={payload} />
+
+<p id="fc-nojs" class="m-0 mb-6 text-[14.5px] text-ink-mute">Study mode needs JavaScript. Every card is listed below, so you can still cover the answers and test yourself.</p>
+
+<div id="fc-setup" hidden class="grid gap-8 lg:grid-cols-[1.3fr_1fr]">
+  <div class="rounded-sm border border-rule bg-ivory p-[clamp(18px,2.4vw,28px)]">
+    <h2 class="m-0 mb-4 text-[18px] font-semibold text-navy-800">Choose your cards</h2>
+    <label for="fc-group" class="block text-[14px] font-medium">{groupNoun === 'subtopic' ? 'Subtopic' : 'Topic'}</label>
+    <select id="fc-group" class="mt-1.5 w-full rounded-sm border border-rule bg-white px-3 py-2.5 text-[15px]">
+      <option value="">All {groupNoun}s</option>
+      {groups.map((g) => <option value={g.key}>{g.label}</option>)}
+    </select>
+    <div class="mt-4 grid gap-2.5 text-[15px]">
+      {hasSupplement && (
+        <label class="flex items-start gap-2.5"><input id="fc-core" type="checkbox" class="mt-1 size-4" /> <span>Core only <span class="text-ink-mute">— hide the Extended (Supplement) cards</span></span></label>
+      )}
+      <label class="flex items-start gap-2.5"><input id="fc-unknown" type="checkbox" class="mt-1 size-4" /> <span>Only cards I have not got yet</span></label>
+      <label class="flex items-start gap-2.5"><input id="fc-shuffle" type="checkbox" checked class="mt-1 size-4" /> <span>Shuffle</span></label>
+    </div>
+    <p id="fc-count" class="m-0 mt-4 text-[15px] font-medium text-navy-800" role="status" aria-live="polite"></p>
+    <p id="fc-known" class="m-0 mt-1 text-[14px] text-ink-mute"></p>
+    <div class="mt-5 flex flex-wrap items-center gap-3">
+      <button type="button" id="fc-start" class={primary}>Start studying</button>
+      <button type="button" id="fc-reset" hidden class="min-h-11 px-2 text-[14px] text-ink-mute underline decoration-rule underline-offset-2 hover:text-ink">Reset my progress</button>
+    </div>
+  </div>
+  <aside class="text-[14.5px] leading-[1.6] text-ink-mute">
+    <h2 class="m-0 mb-2 text-[16px] font-semibold text-navy-800">How this works</h2>
+    <ol class="m-0 grid gap-2 pl-5">
+      <li>Read the front and say or write your answer before you turn the card.</li>
+      <li>Turn it over and be honest: <strong class="text-ink">Again</strong> if you did not have it, <strong class="text-ink">Got it</strong> if you did. Nothing is marked automatically.</li>
+      <li>Cards you mark Again come back later in the same session, until you get them all.</li>
+    </ol>
+    <p class="m-0 mt-3">Keyboard: <kbd class="rounded border border-rule bg-white px-1.5 text-[13px]">Space</kbd> turns the card, <kbd class="rounded border border-rule bg-white px-1.5 text-[13px]">1</kbd> Again, <kbd class="rounded border border-rule bg-white px-1.5 text-[13px]">2</kbd> Got it.</p>
+    <p class="m-0 mt-3">Your “Got it” marks are kept in this browser only, so “Only cards I have not got yet” works next time. They are never sent anywhere.</p>
+  </aside>
+</div>
+
+<div id="fc-session" hidden>
+  <p id="fc-progress" class="m-0 mb-3 text-[13.5px] font-medium text-navy-800" aria-live="polite"></p>
+  <article class="rounded-sm border border-rule bg-white p-[clamp(20px,3.4vw,40px)]" aria-labelledby="fc-front">
+    <div class="flex flex-wrap items-center gap-2">
+      <span id="fc-card-group" class="mb-label text-teal-700"></span>
+      <span id="fc-card-tier" hidden class="rounded-full bg-teal-50 px-2.5 py-0.5 text-[12.5px] font-medium text-teal-800">Extended</span>
+    </div>
+    <p id="fc-front" class="fc-text m-0 mt-4 min-h-[3.2em] text-[clamp(19px,1.2rem+0.6vw,24px)] font-semibold leading-[1.4] text-navy-800"></p>
+    <div id="fc-back-wrap" hidden class="mt-5 border-t border-rule pt-5">
+      <p class="m-0 mb-2 mb-label text-ink-mute">Answer</p>
+      <p id="fc-back" class="fc-text m-0 text-[17px] leading-[1.6] text-ink" aria-live="polite"></p>
+    </div>
+    <div class="mt-6 flex flex-wrap gap-3">
+      <button type="button" id="fc-reveal" class={primary}>Show answer</button>
+      <div id="fc-grade" hidden class="flex flex-wrap gap-3">
+        <button type="button" id="fc-again" class={secondary}>Again <span class="ms-2 text-[12.5px] text-ink-mute">1</span></button>
+        <button type="button" id="fc-got" class={primary}>Got it <span class="ms-2 text-[12.5px] opacity-70">2</span></button>
+      </div>
+    </div>
+  </article>
+  <button type="button" id="fc-end" class="mt-4 min-h-11 px-1 text-[14px] text-ink-mute underline decoration-rule underline-offset-2 hover:text-ink">End session</button>
+</div>
+
+<div id="fc-done" hidden class="rounded-sm border border-rule bg-ivory p-[clamp(18px,2.4vw,28px)]">
+  <h2 id="fc-done-heading" tabindex="-1" class="m-0 text-[length:var(--text-h3)] font-semibold text-navy-800">Session complete</h2>
+  <p id="fc-done-summary" class="m-0 mt-2 text-[15.5px] text-ink"></p>
+  <div id="fc-done-missed-wrap" hidden class="mt-4">
+    <p class="m-0 text-[14.5px] font-medium text-ink">Worth another look:</p>
+    <ul id="fc-done-missed" class="m-0 mt-2 grid gap-1 pl-5 text-[14.5px] text-ink-mute"></ul>
+  </div>
+  <div class="mt-5 flex flex-wrap gap-3">
+    <button type="button" id="fc-again-missed" class={primary}>Study those again</button>
+    <button type="button" id="fc-restart" class={secondary}>Choose other cards</button>
+  </div>
+</div>
+
+<section class="mt-12" aria-labelledby="fc-all-heading">
+  <h2 id="fc-all-heading" class="m-0 text-[length:var(--text-h3)] font-semibold text-navy-800">All {cards.length} cards</h2>
+  <p class="m-0 mt-1 text-[14.5px] text-ink-mute">For a quick read-through or printing. Cover the right-hand side to test yourself.{hasSupplement && ' Cards marked Extended are Supplement content.'}</p>
+  {listed.map((g) => (
+    <div class="mt-6">
+      <h3 class="m-0 mb-2 text-[16px] font-semibold text-navy-800">{g.label}</h3>
+      <dl class="m-0 divide-y divide-rule rounded-sm border border-rule bg-white">
+        {g.cards.map((c) => (
+          <div class="grid gap-1 px-4 py-3 sm:grid-cols-[minmax(0,2fr)_minmax(0,3fr)] sm:gap-6">
+            <dt class="fc-text m-0 text-[15px] font-medium text-navy-800">{c.front}{tiered && c.tier === 'supplement' && <span class="ms-2 rounded-full bg-teal-50 px-2 py-0.5 text-[12px] font-medium text-teal-800">Extended</span>}</dt>
+            <dd class="fc-text m-0 text-[15px] text-ink">{c.back}</dd>
+          </div>
+        ))}
+      </dl>
+    </div>
+  ))}
+</section>
+
+<script>
+  import '../../scripts/flashcard-ui';
+</script>
+
+<style>
+  .fc-text { white-space: pre-line; overflow-wrap: anywhere; }
+  @media print {
+    #fc-setup, #fc-session, #fc-done, #fc-nojs { display: none !important; }
+  }
+</style>

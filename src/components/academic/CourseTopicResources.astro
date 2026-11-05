@@ -45,8 +45,10 @@ interface Props {
   isMyp: boolean;
   /** D-397: names the course on screen, so resource titles can drop them. */
   context: ShortTitleContext;
+  /** D-438: topic slug -> that topic's flashcard page and card count, when the course has a deck. */
+  flashcards?: Record<string, { href: string; count: number }>;
 }
-const { data, record, courseLabel, searchLabel, groups, tools, board, officialTitle, isMyp, context } = Astro.props;
+const { data, record, courseLabel, searchLabel, groups, tools, board, officialTitle, isMyp, context, flashcards } = Astro.props;
 const rtl = recordRtlLang(record?.topics ?? []);
 const bySlug = new Map(data.topics.map((t) => [t.topic.slug, t]));
 const covered = data.topics.filter((t) => t.count > 0).length;
@@ -157,6 +159,9 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
                         return <>{i > 0 && ', '}{sl ? <bdi dir="rtl" lang={sl}>{st.name}</bdi> : st.name}</>;
                       })}
                     </p>
+                  )}
+                  {flashcards?.[t.slug] && (
+                    <p class="m-0 mt-2 text-[14.5px]"><a href={flashcards[t.slug].href} data-cta="hub-topic-flashcards" class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{flashcards[t.slug].count} flashcards for this topic</a></p>
                   )}
                   {entry.count > 0
                     ? <ModeColumns groups={entry.groups} context={context} scope="this topic" />

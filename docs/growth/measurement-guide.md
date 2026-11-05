@@ -23,6 +23,8 @@ types. `mbTrack` also drops any parameter whose key contains `name`, `email`,
 | `revision_plan_generated` | A plan was actually built and shown (`/revision-planner/`) | `subjects_count`, `weeks`, `has_unknown_date`, `plan_fits` |
 | `diagnostic_start` | The student pressed Start on a 10-minute diagnostic; once per run (a Restart begins a new run). Added 2026-09-25, D-329 | `course_code`, `diagnostic_set`, `question_count` |
 | `diagnostic_complete` | The student finished marking and the results were shown; once per run | `course_code`, `diagnostic_set`, `question_count`, `duration_bucket` |
+| `flashcards_start` | The student pressed Start studying (or "Study those again") on a flashcard page; once per session. Added 2026-11-05, D-438 | `course_code`, `scope` (`course` or `topic`), `card_count` |
+| `flashcards_complete` | The student went through every card in the session (or pressed End session) and the summary was shown | `course_code`, `scope`, `card_count`. No card ids, topics or Again/Got it counts |
 | `recommended_resource_click` | A student followed a link the tools recommended | `source` (`planner`, `diagnostic`, `resource_next_steps`, `finder_home`; from 27 Sep 2026 also `on_this_topic` for the line under a resource page's title, and `practice_diagnostic` / `practice_weak_topics` for retest links on the practice page), `link_kind` (`retest_topic` = "Retest this topic", which opens the practice bank filtered to that topic), sometimes `course_code`. No topic is sent |
 | `syllabus_finder_select` | A course was chosen in the homepage finder | `source`, `qualification`, `board`, `course_code` |
 | `workshop_registration_success` | The server accepted the registration and both emails were sent | `workshop` (slug) |

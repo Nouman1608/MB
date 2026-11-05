@@ -1,0 +1,85 @@
+---
+/**
+ * D-438 -- /flashcards/{board}/{qualification}/{subject}/: every card in a
+ * course's deck, studied by topic or all together, with links to one page per
+ * topic. Built only for decks in src/data/flashcards/ whose course is
+ * publishable (validate-flashcards.mjs checks the syllabus mapping).
+ */
+import PageLayout from '../../../../../layouts/PageLayout.astro';
+import Section from '../../../../../components/layout/Section.astro';
+import Container from '../../../../../components/layout/Container.astro';
+import FlashcardStudy from '../../../../../components/tools/FlashcardStudy.astro';
+import { FLASHCARD_DECKS, flashcardsPath, topicCardCounts, type FlashcardDeck } from '../../../../../data/flashcards';
+import { topicsFor } from '../../../../../data/academic/syllabus-topics';
+import { syllabusFor } from '../../../../../data/academic/syllabuses';
+import { activeOnly, academicHubPath, type Combination } from '../../../../../utils/academic';
+import { getEntry } from 'astro:content';
+import { routes } from '../../../../../utils/urls/routes';
+
+export function getStaticPaths() {
+  return FLASHCARD_DECKS.flatMap((deck) => {
+    const c = activeOnly().find((x) => x.boardSlug === deck.boardSlug && x.qualificationSlug === deck.qualificationSlug && x.subjectSlug === deck.subjectSlug);
+    return c ? [{ params: { board: deck.boardSlug, qualification: deck.qualificationSlug, subject: deck.subjectSlug }, props: { deck, c } }] : [];
+  });
+}
+
+const { deck, c } = Astro.props as { deck: FlashcardDeck; c: Combination };
+const version = topicsFor(c.boardSlug, c.qualificationSlug, c.subjectSlug)!;
+const syllabus = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+const courseTitle = syllabus?.officialTitle ?? `${c.board} ${c.qualification} ${c.subject}`;
+const path = flashcardsPath(deck);
+const hub = academicHubPath(c);
+const counts = topicCardCounts(deck);
+const topicLabel = (t: (typeof version.topics)[number]) => `${t.stage ? `${t.stage === 'A' ? 'A Level' : 'AS'} ` : ''}Topic ${t.number}: ${t.name}`;
+const groups = version.topics.filter((t) => counts[t.slug]).map((t) => ({ key: t.slug, label: topicLabel(t) }));
+const cards = deck.cards.map((card) => ({ ...card, group: card.topic }));
+const supplementCount = deck.cards.filter((x) => x.tier === 'supplement').length;
+const author = await getEntry('authors', deck.author);
+const reviewer = deck.deckReview ? await getEntry('authors', deck.deckReview.reviewerSlug) : undefined;
+const fromNotes = deck.cards.filter((x) => x.origin === 'revision-notes').length;
+---
+<PageLayout
+  title={`${c.qualification} ${c.subject} (${deck.syllabusCode}) Flashcards`}
+  description={`${deck.cards.length} free flashcards for ${courseTitle} (${deck.syllabusSeries}), one set per syllabus topic and subtopic. Study online, track what you know, or print.`}
+  path={path}
+  eyebrow={`Free flashcards · ${c.board} ${c.qualification} · ${deck.syllabusCode}`}
+  heading={`${c.subject} flashcards`}
+  lead={`${deck.cards.length} cards covering every topic of the ${deck.syllabusCode} syllabus (${deck.syllabusSeries}). Study one topic or mix them all, turn each card, and mark yourself honestly.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Flashcards', href: '/flashcards/' },
+    { label: `${c.subject} (${deck.syllabusCode})`, href: path },
+  ]}
+>
+  <Section surface="white" spacing="md">
+    <Container>
+      <FlashcardStudy code={deck.syllabusCode} scope="course" tiered={version.tiered} groupNoun="topic" groups={groups} cards={cards} />
+    </Container>
+  </Section>
+
+  <Section surface="ivory" spacing="md" border labelledby="fc-topics-heading">
+    <Container>
+      <h2 id="fc-topics-heading" class="m-0 mb-5 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Flashcards by topic</h2>
+      <ol class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2 lg:grid-cols-3">
+        {version.topics.filter((t) => counts[t.slug]).map((t) => (
+          <li class="m-0">
+            <a href={flashcardsPath(deck, t.slug)} class="block h-full rounded-sm border border-rule bg-white p-4 no-underline hover:border-teal-500">
+              <span class="mb-label text-teal-700">Topic {t.number}</span>
+              <span class="mt-1 block text-[16px] font-semibold text-navy-800">{t.name}</span>
+              <span class="mt-1 block text-[14px] text-ink-mute">{counts[t.slug]} card{counts[t.slug] === 1 ? '' : 's'}{t.subtopics.length > 0 && ` · ${t.subtopics.length} subtopic${t.subtopics.length === 1 ? '' : 's'}`}</span>
+            </a>
+          </li>
+        ))}
+      </ol>
+      <div class="mt-8 max-w-[75ch] text-[14.5px] leading-[1.6] text-ink-mute">
+        <p class="m-0">Written for {courseTitle}, syllabus {deck.syllabusCode} ({deck.syllabusSeries}).{version.tiered && supplementCount > 0 && ` ${supplementCount} cards cover Supplement content for Extended candidates; Core candidates can hide them with “Core only”.`}</p>
+        <p class="m-0 mt-3">Cards by <a href={routes.author(deck.author)} class="underline decoration-teal-500 underline-offset-2">{author?.data.name ?? deck.author}</a>{fromNotes > 0 && `; ${fromNotes} restate definitions from the ${deck.syllabusCode} revision notes`}.
+          {reviewer
+            ? <> This deck was reviewed by <a href={routes.author(reviewer.id)} class="underline decoration-teal-500 underline-offset-2">{reviewer.data.name}</a> on {deck.deckReview!.reviewedOn}.</>
+            : <> This deck has not yet been reviewed as a whole by a subject teacher.</>}
+          {' '}<a href={routes.reportCorrection} class="underline decoration-teal-500 underline-offset-2">Report an error</a>.</p>
+        <p class="m-0 mt-3"><a href={hub} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2">All {deck.syllabusCode} notes, practice and topics</a></p>
+      </div>
+    </Container>
+  </Section>
+</PageLayout>
