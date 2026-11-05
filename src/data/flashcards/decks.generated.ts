@@ -40,6 +40,7 @@ import { DECK_EDEXCEL_A_LEVEL_CHEMISTRY } from './edexcel-a-level-chemistry.ts';
 import { DECK_EDEXCEL_A_LEVEL_ECONOMICS } from './edexcel-a-level-economics.ts';
 import { DECK_EDEXCEL_A_LEVEL_MATHEMATICS } from './edexcel-a-level-mathematics.ts';
 import { DECK_EDEXCEL_A_LEVEL_PHYSICS } from './edexcel-a-level-physics.ts';
+import { DECK_EDEXCEL_IGCSE_ACCOUNTING } from './edexcel-igcse-accounting.ts';
 import { DECK_EDEXCEL_IGCSE_BIOLOGY } from './edexcel-igcse-biology.ts';
 import { DECK_EDEXCEL_IGCSE_BUSINESS } from './edexcel-igcse-business.ts';
 import { DECK_EDEXCEL_IGCSE_CHEMISTRY } from './edexcel-igcse-chemistry.ts';
@@ -48,6 +49,7 @@ import { DECK_EDEXCEL_IGCSE_MATHEMATICS } from './edexcel-igcse-mathematics.ts';
 import { DECK_EDEXCEL_IGCSE_PHYSICS } from './edexcel-igcse-physics.ts';
 import { DECK_IB_IB_DP_BIOLOGY } from './ib-ib-dp-biology.ts';
 import { DECK_IB_IB_DP_CHEMISTRY } from './ib-ib-dp-chemistry.ts';
+import { DECK_IB_IB_DP_ECONOMICS } from './ib-ib-dp-economics.ts';
 import { DECK_IB_IB_DP_MATHEMATICS_ANALYSIS_AND_APPROACHES } from './ib-ib-dp-mathematics-analysis-and-approaches.ts';
 import { DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION } from './ib-ib-dp-mathematics-applications-and-interpretation.ts';
 import { DECK_IB_IB_DP_PHYSICS } from './ib-ib-dp-physics.ts';
@@ -69,6 +71,7 @@ import { DECK_OXFORDAQA_A_LEVEL_CHEMISTRY } from './oxfordaqa-a-level-chemistry.
 import { DECK_OXFORDAQA_A_LEVEL_ECONOMICS } from './oxfordaqa-a-level-economics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_MATHEMATICS } from './oxfordaqa-a-level-mathematics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_PHYSICS } from './oxfordaqa-a-level-physics.ts';
+import { DECK_OXFORDAQA_IGCSE_BIOLOGY } from './oxfordaqa-igcse-biology.ts';
 import { DECK_OXFORDAQA_IGCSE_BUSINESS } from './oxfordaqa-igcse-business.ts';
 import { DECK_OXFORDAQA_IGCSE_CHEMISTRY } from './oxfordaqa-igcse-chemistry.ts';
 import { DECK_OXFORDAQA_IGCSE_ECONOMICS } from './oxfordaqa-igcse-economics.ts';
@@ -116,6 +119,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_EDEXCEL_A_LEVEL_ECONOMICS,
   DECK_EDEXCEL_A_LEVEL_MATHEMATICS,
   DECK_EDEXCEL_A_LEVEL_PHYSICS,
+  DECK_EDEXCEL_IGCSE_ACCOUNTING,
   DECK_EDEXCEL_IGCSE_BIOLOGY,
   DECK_EDEXCEL_IGCSE_BUSINESS,
   DECK_EDEXCEL_IGCSE_CHEMISTRY,
@@ -124,6 +128,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_EDEXCEL_IGCSE_PHYSICS,
   DECK_IB_IB_DP_BIOLOGY,
   DECK_IB_IB_DP_CHEMISTRY,
+  DECK_IB_IB_DP_ECONOMICS,
   DECK_IB_IB_DP_MATHEMATICS_ANALYSIS_AND_APPROACHES,
   DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION,
   DECK_IB_IB_DP_PHYSICS,
@@ -145,6 +150,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OXFORDAQA_A_LEVEL_ECONOMICS,
   DECK_OXFORDAQA_A_LEVEL_MATHEMATICS,
   DECK_OXFORDAQA_A_LEVEL_PHYSICS,
+  DECK_OXFORDAQA_IGCSE_BIOLOGY,
   DECK_OXFORDAQA_IGCSE_BUSINESS,
   DECK_OXFORDAQA_IGCSE_CHEMISTRY,
   DECK_OXFORDAQA_IGCSE_ECONOMICS,
