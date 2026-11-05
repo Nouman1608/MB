@@ -36,7 +36,7 @@ if (fileArg !== -1) {
   const onDisk = existsSync('src/data/flashcards/decks.generated.ts') ? readFileSync('src/data/flashcards/decks.generated.ts', 'utf8') : '';
   if (onDisk !== renderIndex()) preProblems.push('src/data/flashcards/decks.generated.ts is out of date — run: npm run generate:flashcards');
 }
-const TIER_SCHEMES = ['core-extended', 'foundation-higher', 'sl-hl', 'standard-extended'];
+const TIER_SCHEMES = ['core-extended', 'core-extension', 'foundation-higher', 'sl-hl', 'standard-extended'];
 
 const FRONT_MAX = 180;
 const BACK_MAX = 420;

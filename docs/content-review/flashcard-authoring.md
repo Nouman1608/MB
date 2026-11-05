@@ -47,7 +47,8 @@ The deck's `tierScheme` is set only when the syllabus record has `tiered: true`:
 | Scheme | Courses | `u: true` marks a card that is… |
 |---|---|---|
 | `core-extended` | Cambridge IGCSE 0580, 0610, 0620, 0625 | Supplement (Extended only) |
-| `foundation-higher` | AQA, OCR, Edexcel and OxfordAQA tiered GCSE / International GCSE | Higher tier only |
+| `core-extension` | OxfordAQA International GCSE Mathematics 9260 | Extension only |
+| `foundation-higher` | AQA, OCR and Edexcel tiered GCSE / International GCSE | Higher tier only |
 | `sl-hl` | IB DP Mathematics AA and AI | HL only |
 | `standard-extended` | IB MYP Mathematics | Extended only |
 

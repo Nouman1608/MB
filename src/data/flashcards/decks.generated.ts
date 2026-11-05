@@ -35,6 +35,7 @@ import { DECK_OCR_GCSE_PHYSICS } from './ocr-gcse-physics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_CHEMISTRY } from './oxfordaqa-a-level-chemistry.ts';
 import { DECK_OXFORDAQA_A_LEVEL_PHYSICS } from './oxfordaqa-a-level-physics.ts';
 import { DECK_OXFORDAQA_IGCSE_CHEMISTRY } from './oxfordaqa-igcse-chemistry.ts';
+import { DECK_OXFORDAQA_IGCSE_MATHEMATICS } from './oxfordaqa-igcse-mathematics.ts';
 
 export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_AQA_A_LEVEL_BIOLOGY,
@@ -72,4 +73,5 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OXFORDAQA_A_LEVEL_CHEMISTRY,
   DECK_OXFORDAQA_A_LEVEL_PHYSICS,
   DECK_OXFORDAQA_IGCSE_CHEMISTRY,
+  DECK_OXFORDAQA_IGCSE_MATHEMATICS,
 ];

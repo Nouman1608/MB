@@ -54,11 +54,12 @@ export interface Flashcard {
   source?: string;
 }
 
-export type TierScheme = 'core-extended' | 'foundation-higher' | 'sl-hl' | 'standard-extended';
+export type TierScheme = 'core-extended' | 'core-extension' | 'foundation-higher' | 'sl-hl' | 'standard-extended';
 
 /** Words shown for each scheme: the filter ("Core only") and the badge on an upper-tier card. */
 export const TIER_LABELS: Record<TierScheme, { lower: string; upper: string; badge: string }> = {
   'core-extended': { lower: 'Core', upper: 'Extended (Supplement)', badge: 'Extended' },
+  'core-extension': { lower: 'Core', upper: 'Extension', badge: 'Extension' },
   'foundation-higher': { lower: 'Foundation', upper: 'Higher tier', badge: 'Higher' },
   'sl-hl': { lower: 'SL', upper: 'HL', badge: 'HL' },
   'standard-extended': { lower: 'Standard', upper: 'Extended', badge: 'Extended' },
@@ -74,6 +75,7 @@ export interface FlashcardDeck {
   /**
    * Set when the syllabus has two tiers and some cards are upper-tier only:
    *   'core-extended'      Cambridge IGCSE Core / Extended (Supplement)
+   *   'core-extension'     OxfordAQA International GCSE Core / Extension (e.g. Mathematics 9260)
    *   'foundation-higher'  GCSE / International GCSE Foundation / Higher tier
    *   'sl-hl'              IB Diploma SL / HL
    *   'standard-extended'  IB MYP Mathematics standard / extended
