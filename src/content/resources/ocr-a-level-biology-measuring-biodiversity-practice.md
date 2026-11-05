@@ -13,6 +13,9 @@ order: 215
 syllabusTopics:
   - qualification: "a-level"
     topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+    subtopic: "biodiversity-ocr-alevel-biology"
 description: "Original practice questions on sampling, richness and evenness, Simpson's Index and genetic diversity for OCR A Level Biology A (H420), with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

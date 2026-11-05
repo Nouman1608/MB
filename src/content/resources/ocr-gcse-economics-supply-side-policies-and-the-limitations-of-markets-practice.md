@@ -13,6 +13,10 @@ order: 203
 syllabusTopics:
   - qualification: "gcse"
     topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "supply-side-policies-ocr-gcse-economics"
+  - qualification: "gcse"
+    topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "limitations-of-markets-ocr-gcse-economics"
 description: "Original practice questions with worked answers on supply side policy, externalities, taxes, subsidies and regulation for OCR GCSE (9-1) Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

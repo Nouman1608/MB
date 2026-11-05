@@ -13,6 +13,10 @@ order: 201
 syllabusTopics:
   - qualification: "gcse"
     topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "fair-distribution-of-income-ocr-gcse-economics"
+  - qualification: "gcse"
+    topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "price-stability-ocr-gcse-economics"
 description: "Condensed recall notes on income, wealth, CPI, real and nominal values and inflation, with a self-test, for OCR GCSE Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

@@ -13,6 +13,9 @@ order: 216
 syllabusTopics:
   - qualification: "a-level"
     topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+    subtopic: "biodiversity-ocr-alevel-biology"
 description: "Original practice questions with worked answers on threats to biodiversity, conservation methods and agreements, OCR A Level Biology A (H420) 4.2.1(f)-(i)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

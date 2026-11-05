@@ -13,6 +13,9 @@ order: 236
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+    subtopic: "populations-and-sustainability-ocr-alevel-biology"
 description: "Study guide to OCR A Level Biology A (H420) 6.3.2(a)-(e): limiting factors, predator-prey cycles, competition, conservation, timber and fishing."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

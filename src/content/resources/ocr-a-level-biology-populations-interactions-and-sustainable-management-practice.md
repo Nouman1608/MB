@@ -13,6 +13,9 @@ order: 236
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+    subtopic: "populations-and-sustainability-ocr-alevel-biology"
 description: "Original practice questions with worked answers for OCR A Level Biology A (H420) 6.3.2: populations, predator-prey, conservation, sustainability."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

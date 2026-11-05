@@ -13,6 +13,9 @@ order: 213
 syllabusTopics:
   - qualification: "a-level"
     topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+    subtopic: "communicable-diseases-disease-prevention-and-the-immune-system-ocr-alevel-biology"
 description: "Study guide to pathogen types, transmission, plant defences, non-specific defences, phagocytes and blood smears for OCR A Level Biology A (4.1.1(a)-(e))."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

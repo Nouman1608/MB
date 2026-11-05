@@ -13,6 +13,9 @@ order: 233
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+    subtopic: "cloning-and-biotechnology-ocr-alevel-biology"
 description: "Original practice questions with worked answers on cuttings, micropropagation, embryo twinning, SCNT and cloning ethics, OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

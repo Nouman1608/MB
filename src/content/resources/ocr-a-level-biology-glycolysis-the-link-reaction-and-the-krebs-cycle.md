@@ -13,6 +13,9 @@ order: 226
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "respiration-ocr-alevel-biology"
 description: "Study guide to why cells respire, the mitochondrion, glycolysis, link reaction, Krebs cycle and coenzymes for OCR A Level Biology A, 5.2.2(a)-(g)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

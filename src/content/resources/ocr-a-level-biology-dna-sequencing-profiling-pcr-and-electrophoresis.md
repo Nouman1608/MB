@@ -13,6 +13,9 @@ order: 231
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+    subtopic: "manipulating-genomes-ocr-alevel-biology"
 description: "Study guide to DNA sequencing, bioinformatics, DNA profiling, PCR and electrophoresis for OCR A Level Biology A (H420), with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

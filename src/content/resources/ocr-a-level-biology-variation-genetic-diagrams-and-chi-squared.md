@@ -13,6 +13,9 @@ order: 229
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+    subtopic: "patterns-of-inheritance-ocr-alevel-biology"
 description: "Study guide to variation, genetic diagrams, linkage, epistasis, chi-squared and continuous variation for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

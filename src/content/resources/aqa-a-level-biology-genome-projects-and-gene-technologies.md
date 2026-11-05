@@ -14,6 +14,12 @@ order: 174
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-control-of-gene-expression-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "the-control-of-gene-expression-aqa-alevel-biology"
+    subtopic: "using-genome-projects-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "the-control-of-gene-expression-aqa-alevel-biology"
+    subtopic: "gene-technologies-aqa-alevel-biology"
 description: "Study guide to genome projects, recombinant DNA, PCR, probes, electrophoresis and genetic fingerprinting for AQA A-level Biology 7402 sections 3.8.3-3.8.4."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

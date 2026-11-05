@@ -14,6 +14,9 @@ order: 165
 syllabusTopics:
   - qualification: "a-level"
     topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+    subtopic: "nervous-coordination-aqa-alevel-biology"
 description: "Condensed notes on action potentials, saltatory conduction, cholinergic synapses, summation and drug effects for AQA A-level Biology section 3.6.2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

@@ -1,11 +1,11 @@
 /**
  * D-438 -- flashcards for AQA A-level Biology 7402 (for first teaching 2015).
  *
- * One block per subtopic (topics 1-2) or per topic (topics 3-8, which the
- * syllabus record does not yet itemise into subtopics), in syllabus order.
- * Card ids are `<subtopic number>-<n>` or `<topic number>-<n>` and are
- * permanent (browser progress is keyed by them): add a new card with the
- * next unused n, never renumber.
+ * One block per subtopic, in syllabus order. Card ids are
+ * `<subtopic number>-<n>` and are permanent (browser progress is keyed by
+ * them): add a new card with the next unused n, never renumber. Topics 3-8
+ * (and 3.2.2-3.2.4) were itemised on 2026-11-05; the earlier topic-level
+ * cards (ids `<topic>-<n>`) moved to subtopic ids then.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs 7402, or a definition table
@@ -23,17 +23,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     id: `${number}-${n}`,
     topic,
     subtopic,
-    front: f,
-    back: b,
-    ...(u ? { tier: 'upper' as const } : {}),
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, u, src }) => ({
-    id: `${number}-${n}`,
-    topic,
     front: f,
     back: b,
     ...(u ? { tier: 'upper' as const } : {}),
@@ -68,6 +57,12 @@ const REG = 'aqa-a-level-biology-regulation-of-gene-expression-and-cancer-revisi
 
 const T1 = 'biological-molecules-aqa-alevel-biology';
 const T2 = 'cells-aqa-alevel-biology';
+const T3 = 'organisms-exchange-substances-with-their-environment-aqa-alevel-biology';
+const T4 = 'genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology';
+const T5 = 'energy-transfers-in-and-between-organisms-aqa-alevel-biology';
+const T6 = 'organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology';
+const T7 = 'genetics-populations-evolution-and-ecosystems-aqa-alevel-biology';
+const T8 = 'the-control-of-gene-expression-aqa-alevel-biology';
 
 export const DECK_AQA_A_LEVEL_BIOLOGY: FlashcardDeck = {
   boardSlug: 'aqa',
@@ -216,100 +211,200 @@ export const DECK_AQA_A_LEVEL_BIOLOGY: FlashcardDeck = {
       { n: 11, f: "25 eyepiece divisions line up with 10 stage-micrometer divisions of 10 µm. What is one eyepiece division worth?", b: "10 × 10 µm = 100 µm. 100 ÷ 25 = 4 µm. Recalibrate for each objective lens." },
     ]),
 
+    ...sub(T2, 'all-cells-arise-from-other-cells-aqa-alevel-biology', '3.2.2', [
+      { n: 1, f: "The cell cycle and the stages of mitosis", b: "Interphase: DNA replicates (S phase) and the cell grows. Mitosis: prophase (chromosomes condense, nuclear envelope breaks down), metaphase (chromosomes line up at the equator on the spindle), anaphase (chromatids separate to the poles), telophase (nuclear envelopes reform). Then cytokinesis." },
+      { n: 2, f: "How do prokaryotic cells divide?", b: "By binary fission: the circular DNA and any plasmids replicate, the cell grows, the DNA copies move to opposite poles and the cytoplasm divides, forming two daughter cells." },
+      { n: 3, f: "How do viruses replicate?", b: "Viruses are non-living and do not undergo cell division. A virus attaches to a host cell by its attachment proteins and injects its nucleic acid; the host cell then makes new viral particles." },
+      { n: 4, f: "Mitotic index, and why cancer is linked to mitosis", b: "Mitotic index = number of cells in mitosis ÷ total number of cells observed. Cancer results from uncontrolled cell division; many cancer treatments act on the cell cycle to stop rapid division." },
+    ]),
+    ...sub(T2, 'transport-across-cell-membranes-aqa-alevel-biology', '3.2.3', [
+      { n: 1, f: "Fluid mosaic model of the cell-surface membrane", b: "A phospholipid bilayer with proteins (channel and carrier proteins) scattered through it, plus glycoproteins, glycolipids and cholesterol. Cholesterol restricts the movement of other molecules, making the membrane less fluid." },
+      { n: 2, f: "Simple diffusion vs facilitated diffusion", b: "Both are passive, down a concentration gradient. Simple diffusion: small non-polar molecules pass through the phospholipid bilayer. Facilitated diffusion: ions and polar molecules pass through channel or carrier proteins." },
+      { n: 3, f: "Osmosis and water potential", b: "Osmosis: the net movement of water from a higher to a lower water potential across a partially permeable membrane. Pure water has a water potential of 0 kPa; adding solute makes it negative." },
+      { n: 4, f: "Active transport and co-transport", b: "Active transport moves substances against a concentration gradient through carrier proteins, using ATP. In co-transport in the ileum, Na⁺ is pumped out of epithelial cells into the blood, and Na⁺ then diffuses back in from the lumen carrying glucose with it." },
+    ]),
+    ...sub(T2, 'cell-recognition-and-the-immune-system-aqa-alevel-biology', '3.2.4', [
+      { n: 1, f: "Antigen", b: "A molecule, usually a protein, on the surface of a cell or virus that generates an immune response. Antigens let the immune system identify pathogens, cells from other organisms, abnormal body cells and toxins." },
+      { n: 2, f: "Phagocytosis in order", b: "The phagocyte recognises the pathogen and engulfs it in a phagosome; a lysosome fuses with the phagosome and its lysozymes hydrolyse the pathogen; the phagocyte presents the antigens on its surface." },
+      { n: 3, f: "Cellular vs humoral response", b: "Cellular: T cells respond to antigens presented on body cells; helper T cells stimulate cytotoxic T cells, phagocytes and B cells.\nHumoral: B cells are activated, divide by mitosis (clonal selection) into plasma cells that secrete antibodies, and memory cells." },
+      { n: 4, f: "Structure of an antibody", b: "Four polypeptide chains (two heavy, two light) held by disulfide bridges. Each has two variable regions with antigen-binding sites complementary to one antigen, and a constant region. Antibody–antigen complexes cause agglutination." },
+      { n: 5, f: "Primary vs secondary immune response", b: "Primary: slow, few antibodies, symptoms likely, memory cells made.\nSecondary: memory cells divide rapidly on re-infection, so antibodies are made faster and in larger amounts, and symptoms usually do not appear. Vaccines use this to give immunity." },
+      { n: 6, f: "Active vs passive immunity", b: "Active: the body makes its own antibodies after exposure to an antigen (natural infection or vaccination); memory cells give long-term protection.\nPassive: antibodies are introduced from outside (across the placenta or by injection); protection is immediate but short-term." },
+    ]),
+
     // 3 Organisms exchange substances with their environment
-    ...topicOnly('organisms-exchange-substances-with-their-environment-aqa-alevel-biology', '3', [
+    ...sub(T3, 'surface-area-to-volume-ratio-aqa-alevel-biology', '3.3.1', [
       { n: 1, f: "Why do large organisms need specialised exchange surfaces and mass transport?", b: "Surface area to volume ratio falls as size increases, because volume grows faster than surface area. Diffusion across the body surface can no longer meet demand." },
-      { n: 2, f: "Counter-current principle in fish gills", b: "Blood in the lamellae flows in the opposite direction to water. Water always meets blood with a lower oxygen concentration, so a diffusion gradient is kept along the whole lamella and more oxygen is absorbed than with parallel flow." },
-      { n: 3, f: "Gas exchange in insects", b: "Air enters through spiracles into tracheae and then tracheoles, which reach the muscle cells; gases diffuse along these air-filled tubes. Spiracles can close and a waterproof cuticle limits water loss." },
-      { n: 4, f: "How is the alveolar epithelium adapted for gas exchange?", b: "One flattened cell thick (short diffusion distance), very many alveoli (large surface area), a dense capillary network keeping the gradient steep, and a moist lining in which gases dissolve." },
-      { n: 5, f: "Inspiration: muscles and pressure", b: "Diaphragm contracts and flattens; external intercostal muscles contract, moving the ribs up and out. Thoracic volume increases, pressure falls below atmospheric, and air flows in." },
-      { n: 6, f: "Pulmonary ventilation rate", b: "PVR = tidal volume × breathing rate." },
-      { n: 7, f: "How are lipids absorbed in the ileum?", b: "Bile salts help form micelles holding monoglycerides and fatty acids. Micelles carry them to the epithelial cell surface, where these lipid-soluble molecules diffuse across the membrane." },
-      { n: 8, f: "Bohr effect", b: "A higher carbon dioxide concentration shifts the oxygen dissociation curve to the right, so haemoglobin unloads oxygen more readily at a given partial pressure (as in respiring tissue)." },
-      { n: 9, f: "Cardiac output", b: "Cardiac output = stroke volume × heart rate." },
-      { n: 10, f: "How is tissue fluid formed and returned?", b: "At the arteriole end, high hydrostatic pressure forces fluid out of the capillary; plasma proteins stay behind, lowering blood water potential. At the venule end, water returns by osmosis. Excess drains into the lymph system." },
-      { n: 11, f: "Cohesion–tension theory of water movement in xylem", b: "Water evaporates from leaves (transpiration), creating tension. Hydrogen bonds make water molecules cohesive, so the column is pulled up the xylem as a continuous chain; adhesion to the walls helps." },
-      { n: 12, f: "Mass flow hypothesis of translocation in phloem", b: "Sucrose is loaded into phloem at the source; water follows by osmosis, raising hydrostatic pressure. Sap flows toward the sink, where sucrose is removed or used." },
+      { n: 2, f: "Surface area to volume ratio of a 3 cm cube", b: "SA = 6 × 3 × 3 = 54 cm²; V = 3 × 3 × 3 = 27 cm³; SA:V = 54 ÷ 27 = 2 : 1." },
+      { n: 3, f: "Why do small mammals have a high metabolic rate?", b: "A small animal has a large surface area to volume ratio, so it loses heat quickly. It needs a high rate of respiration to release enough heat to keep its body temperature constant." },
+    ]),
+    ...sub(T3, 'gas-exchange-aqa-alevel-biology', '3.3.2', [
+      { n: 1, f: "Counter-current principle in fish gills", b: "Blood in the lamellae flows in the opposite direction to water. Water always meets blood with a lower oxygen concentration, so a diffusion gradient is kept along the whole lamella and more oxygen is absorbed than with parallel flow." },
+      { n: 2, f: "Gas exchange in insects", b: "Air enters through spiracles into tracheae and then tracheoles, which reach the muscle cells; gases diffuse along these air-filled tubes. Spiracles can close and a waterproof cuticle limits water loss." },
+      { n: 3, f: "How is the alveolar epithelium adapted for gas exchange?", b: "One flattened cell thick (short diffusion distance), very many alveoli (large surface area), a dense capillary network keeping the gradient steep, and a moist lining in which gases dissolve." },
+      { n: 4, f: "Inspiration: muscles and pressure", b: "Diaphragm contracts and flattens; external intercostal muscles contract, moving the ribs up and out. Thoracic volume increases, pressure falls below atmospheric, and air flows in." },
+      { n: 5, f: "Pulmonary ventilation rate", b: "PVR = tidal volume × breathing rate." },
+    ]),
+    ...sub(T3, 'digestion-and-absorption-aqa-alevel-biology', '3.3.3', [
+      { n: 1, f: "How are lipids absorbed in the ileum?", b: "Bile salts help form micelles holding monoglycerides and fatty acids. Micelles carry them to the epithelial cell surface, where these lipid-soluble molecules diffuse across the membrane." },
+      { n: 2, f: "Digestion of carbohydrates in mammals", b: "Amylases (in saliva and from the pancreas) hydrolyse starch to maltose. Membrane-bound disaccharidases on the ileum epithelium (maltase, sucrase, lactase) hydrolyse disaccharides to monosaccharides." },
+      { n: 3, f: "Endopeptidases, exopeptidases and dipeptidases", b: "Endopeptidases hydrolyse peptide bonds within a polypeptide. Exopeptidases hydrolyse bonds at the ends, removing single amino acids. Membrane-bound dipeptidases hydrolyse dipeptides into two amino acids." },
+      { n: 4, f: "How are monosaccharides and amino acids absorbed in the ileum?", b: "By co-transport with sodium ions: Na⁺ is actively pumped out of the epithelial cell into the blood, keeping its concentration low in the cell, so Na⁺ diffuses in from the lumen through a co-transporter protein, carrying glucose or amino acids with it." },
+    ]),
+    ...sub(T3, 'mass-transport-aqa-alevel-biology', '3.3.4', [
+      { n: 1, f: "Bohr effect", b: "A higher carbon dioxide concentration shifts the oxygen dissociation curve to the right, so haemoglobin unloads oxygen more readily at a given partial pressure (as in respiring tissue)." },
+      { n: 2, f: "Cardiac output", b: "Cardiac output = stroke volume × heart rate." },
+      { n: 3, f: "How is tissue fluid formed and returned?", b: "At the arteriole end, high hydrostatic pressure forces fluid out of the capillary; plasma proteins stay behind, lowering blood water potential. At the venule end, water returns by osmosis. Excess drains into the lymph system." },
+      { n: 4, f: "Cohesion–tension theory of water movement in xylem", b: "Water evaporates from leaves (transpiration), creating tension. Hydrogen bonds make water molecules cohesive, so the column is pulled up the xylem as a continuous chain; adhesion to the walls helps." },
+      { n: 5, f: "Mass flow hypothesis of translocation in phloem", b: "Sucrose is loaded into phloem at the source; water follows by osmosis, raising hydrostatic pressure. Sap flows toward the sink, where sucrose is removed or used." },
     ]),
 
     // 4 Genetic information, variation and relationships between organisms
-    ...topicOnly('genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology', '4', [
+    ...sub(T4, 'dna-genes-and-chromosomes-aqa-alevel-biology', '3.4.1', [
       { n: 1, f: "Gene", b: "A base sequence of DNA that codes for the amino acid sequence of a polypeptide, or for a functional RNA (including ribosomal RNA and tRNAs).", src: DNA },
       { n: 2, f: "Three properties of the genetic code", b: "Universal: the same triplet codes for the same amino acid in all organisms.\nNon-overlapping: each base belongs to one triplet only.\nDegenerate: most amino acids are coded by more than one triplet." },
-      { n: 3, f: "Splicing of pre-mRNA in eukaryotes", b: "Transcription in the nucleus produces pre-mRNA. Introns (non-coding) are removed and exons joined to give mRNA, which leaves through a nuclear pore. Prokaryotes make mRNA directly, with no splicing." },
-      { n: 4, f: "Genome and proteome", b: "Genome: the complete set of genes in a cell.\nProteome: the full range of proteins the cell is able to produce.", src: DNA },
-      { n: 5, f: "Base substitution compared with base deletion", b: "Substitution changes one triplet: no change (degenerate code), one amino acid changed, or an early stop codon.\nDeletion shifts the reading frame, changing every triplet after it." },
-      { n: 6, f: "Non-disjunction", b: "Failure of chromosomes (or chromatids) to separate in meiosis, giving gametes with one extra or one missing chromosome.", src: MUT },
-      { n: 7, f: "Two ways meiosis produces genetic variation", b: "Independent segregation: homologous chromosomes go to either pole at random in meiosis I.\nCrossing over: non-sister chromatids of homologous chromosomes exchange DNA at chiasmata." },
-      { n: 8, f: "A species has 2n = 20. How many genetically different gametes can independent segregation give (no crossing over)?", b: "n = 10 homologous pairs, so 2¹⁰ = 1024. Use the number of pairs, not the diploid number." },
-      { n: 9, f: "Genetic diversity", b: "The number of different alleles of genes in a population.", src: GDNS },
-      { n: 10, f: "Directional and stabilising selection", b: "Directional: one extreme phenotype is favoured and the mean shifts (example: antibiotic resistance).\nStabilising: phenotypes near the mean are favoured; the mean stays the same and the range narrows (example: human birth weight)." },
-      { n: 11, f: "Species, and the role of courtship behaviour", b: "A species is a group of organisms able to interbreed to produce fertile offspring. Courtship is species-specific, so it allows species recognition and is a necessary precursor to successful mating.", src: SPEC },
-      { n: 12, f: "Index of diversity", b: "d = N(N − 1) ÷ Σn(n − 1), where N is the total number of organisms of all species and n the number of one species. A higher d means more species and a more even spread.", src: BIOD },
+      { n: 3, f: "DNA in prokaryotes vs eukaryotes", b: "Prokaryotes: short, circular DNA not associated with proteins.\nEukaryotes: very long, linear DNA associated with histone proteins, forming chromosomes. DNA in mitochondria and chloroplasts is like prokaryotic DNA: short, circular, not associated with protein." },
+      { n: 4, f: "Locus, introns and exons", b: "Locus: the fixed position of a gene on a DNA molecule. In eukaryotes much nuclear DNA does not code for polypeptides: genes contain introns (non-coding) separating exons (coding), and there are non-coding multiple repeats between genes." },
+    ]),
+    ...sub(T4, 'dna-and-protein-synthesis-aqa-alevel-biology', '3.4.2', [
+      { n: 1, f: "Splicing of pre-mRNA in eukaryotes", b: "Transcription in the nucleus produces pre-mRNA. Introns (non-coding) are removed and exons joined to give mRNA, which leaves through a nuclear pore. Prokaryotes make mRNA directly, with no splicing." },
+      { n: 2, f: "Genome and proteome", b: "Genome: the complete set of genes in a cell.\nProteome: the full range of proteins the cell is able to produce.", src: DNA },
+      { n: 3, f: "Transcription in order", b: "DNA helicase breaks hydrogen bonds so the strands separate; free RNA nucleotides pair with complementary bases on the template strand; RNA polymerase joins them, forming pre-mRNA (in eukaryotes), which is then spliced to mRNA." },
+      { n: 4, f: "Translation in order", b: "mRNA attaches to a ribosome. tRNA molecules, each carrying a specific amino acid, bind by their anticodons to complementary codons; peptide bonds form between adjacent amino acids, using ATP, until a stop codon is reached." },
+    ]),
+    ...sub(T4, 'genetic-diversity-mutation-and-meiosis-aqa-alevel-biology', '3.4.3', [
+      { n: 1, f: "Base substitution compared with base deletion", b: "Substitution changes one triplet: no change (degenerate code), one amino acid changed, or an early stop codon.\nDeletion shifts the reading frame, changing every triplet after it." },
+      { n: 2, f: "Non-disjunction", b: "Failure of chromosomes (or chromatids) to separate in meiosis, giving gametes with one extra or one missing chromosome.", src: MUT },
+      { n: 3, f: "Two ways meiosis produces genetic variation", b: "Independent segregation: homologous chromosomes go to either pole at random in meiosis I.\nCrossing over: non-sister chromatids of homologous chromosomes exchange DNA at chiasmata." },
+      { n: 4, f: "A species has 2n = 20. How many genetically different gametes can independent segregation give (no crossing over)?", b: "n = 10 homologous pairs, so 2¹⁰ = 1024. Use the number of pairs, not the diploid number." },
+    ]),
+    ...sub(T4, 'genetic-diversity-and-adaptation-aqa-alevel-biology', '3.4.4', [
+      { n: 1, f: "Genetic diversity", b: "The number of different alleles of genes in a population.", src: GDNS },
+      { n: 2, f: "Directional and stabilising selection", b: "Directional: one extreme phenotype is favoured and the mean shifts (example: antibiotic resistance).\nStabilising: phenotypes near the mean are favoured; the mean stays the same and the range narrows (example: human birth weight)." },
+      { n: 3, f: "How does natural selection change allele frequency?", b: "Random mutation produces new alleles. If an allele gives an advantage, individuals carrying it are more likely to survive and reproduce, passing it on, so its frequency rises over many generations." },
+      { n: 4, f: "Required practical 6: testing antimicrobial substances", b: "Spread bacteria on agar using aseptic technique; place paper discs soaked in different antimicrobial substances (and a control disc) on the plate; incubate; measure the clear zone of inhibition around each disc." },
+    ]),
+    ...sub(T4, 'species-and-taxonomy-aqa-alevel-biology', '3.4.5', [
+      { n: 1, f: "Species, and the role of courtship behaviour", b: "A species is a group of organisms able to interbreed to produce fertile offspring. Courtship is species-specific, so it allows species recognition and is a necessary precursor to successful mating.", src: SPEC },
+      { n: 2, f: "The taxonomic hierarchy", b: "Domain, kingdom, phylum, class, order, family, genus, species. Each species is named by the binomial system: genus then species, for example Homo sapiens." },
+      { n: 3, f: "Phylogenetic classification", b: "Classification that groups organisms according to their evolutionary origins and relationships, often shown as a phylogenetic tree. Each group is placed within a larger group, with no overlap." },
+    ]),
+    ...sub(T4, 'biodiversity-within-a-community-aqa-alevel-biology', '3.4.6', [
+      { n: 1, f: "Index of diversity", b: "d = N(N − 1) ÷ Σn(n − 1), where N is the total number of organisms of all species and n the number of one species. A higher d means more species and a more even spread.", src: BIOD },
+      { n: 2, f: "Species richness", b: "The number of different species in a community. It does not take account of how many individuals of each species there are, unlike the index of diversity." },
+      { n: 3, f: "How does farming reduce biodiversity?", b: "Removing hedgerows, growing monocultures, using pesticides and herbicides, and filling in ponds reduce the number of habitats and species. Conservation schemes, such as keeping field margins, balance this against food production." },
+    ]),
+    ...sub(T4, 'investigating-diversity-aqa-alevel-biology', '3.4.7', [
+      { n: 1, f: "How can genetic diversity within or between species be compared?", b: "By comparing the frequency of measurable or observable characteristics, the base sequence of DNA, the base sequence of mRNA, or the amino acid sequence of the proteins encoded by DNA and mRNA." },
+      { n: 2, f: "Why has gene technology changed how diversity is investigated?", b: "It allows direct comparison of DNA base sequences and of proteins, rather than inferring diversity only from observable characteristics, which can be affected by the environment and by several genes." },
+      { n: 3, f: "Sampling for investigating diversity: random sampling, mean and standard deviation", b: "Random sampling avoids bias, and a large sample reduces the effect of chance. The mean summarises the sample; the standard deviation shows the spread of the data about the mean." },
     ]),
 
     // 5 Energy transfers in and between organisms
-    ...topicOnly('energy-transfers-in-and-between-organisms-aqa-alevel-biology', '5', [
+    ...sub(T5, 'photosynthesis-aqa-alevel-biology', '3.5.1', [
       { n: 1, f: "Light-dependent reaction: site, inputs and products", b: "Thylakoid membranes. Uses light, water, ADP, Pi and NADP; produces ATP, reduced NADP and oxygen." },
       { n: 2, f: "Photoionisation", b: "Light energy makes chlorophyll lose electrons, so the chlorophyll becomes ionised.", src: PHOTO },
       { n: 3, f: "Photolysis of water: equation and use of the products", b: "H₂O → 2H⁺ + 2e⁻ + ½O₂. Electrons replace those lost from chlorophyll; protons help reduce NADP; oxygen is released." },
       { n: 4, f: "Light-independent reaction (Calvin cycle) in three steps", b: "1 CO₂ + RuBP, catalysed by rubisco, gives two GP.\n2 GP is reduced to TP using ATP and reduced NADP.\n3 Most TP regenerates RuBP (using ATP); some makes glucose and other organic substances." },
-      { n: 5, f: "Glycolysis: site and net products per glucose", b: "Cytoplasm. Glucose is phosphorylated, split into two triose phosphate and oxidised to 2 pyruvate. Net: 2 ATP (4 made, 2 used) and 2 reduced NAD." },
-      { n: 6, f: "Link reaction: products per pyruvate", b: "In the mitochondrial matrix, pyruvate (3C) is oxidised to acetate, which combines with coenzyme A: 1 acetyl CoA, 1 CO₂ and 1 reduced NAD per pyruvate." },
-      { n: 7, f: "Krebs cycle: products per turn", b: "1 ATP (substrate-level phosphorylation), 3 reduced NAD, 1 reduced FAD and 2 CO₂. Two turns per glucose." },
-      { n: 8, f: "Oxidative phosphorylation", b: "Electrons from reduced NAD and FAD pass along the electron transfer chain, releasing energy that pumps protons into the intermembrane space. Protons flow back through ATP synthase, making ATP. Oxygen is the final electron acceptor, forming water." },
-      { n: 9, f: "Lactate and ethanol pathways: why do they happen?", b: "To regenerate NAD from reduced NAD so glycolysis can continue.\nLactate: pyruvate + reduced NAD → lactate + NAD (no CO₂).\nEthanol: pyruvate → ethanal + CO₂; ethanal + reduced NAD → ethanol + NAD.", src: RESP },
-      { n: 10, f: "Net primary production", b: "NPP = GPP − R, where R is respiratory loss. NPP is the chemical energy store in plant biomass after respiratory losses.", src: ETP },
-      { n: 11, f: "Net production of consumers", b: "N = I − (F + R). I: chemical energy in ingested food; F: energy lost in faeces and urine; R: respiratory losses.", src: ETP },
-      { n: 12, f: "Ammonification, nitrification and denitrification", b: "Ammonification: saprobionts turn organic nitrogen compounds into ammonium ions.\nNitrification: ammonium → nitrite → nitrate (aerobic).\nDenitrification: nitrate → nitrogen gas (anaerobic).", src: NUT },
+    ]),
+    ...sub(T5, 'respiration-aqa-alevel-biology', '3.5.2', [
+      { n: 1, f: "Glycolysis: site and net products per glucose", b: "Cytoplasm. Glucose is phosphorylated, split into two triose phosphate and oxidised to 2 pyruvate. Net: 2 ATP (4 made, 2 used) and 2 reduced NAD." },
+      { n: 2, f: "Link reaction: products per pyruvate", b: "In the mitochondrial matrix, pyruvate (3C) is oxidised to acetate, which combines with coenzyme A: 1 acetyl CoA, 1 CO₂ and 1 reduced NAD per pyruvate." },
+      { n: 3, f: "Krebs cycle: products per turn", b: "1 ATP (substrate-level phosphorylation), 3 reduced NAD, 1 reduced FAD and 2 CO₂. Two turns per glucose." },
+      { n: 4, f: "Oxidative phosphorylation", b: "Electrons from reduced NAD and FAD pass along the electron transfer chain, releasing energy that pumps protons into the intermembrane space. Protons flow back through ATP synthase, making ATP. Oxygen is the final electron acceptor, forming water." },
+      { n: 5, f: "Lactate and ethanol pathways: why do they happen?", b: "To regenerate NAD from reduced NAD so glycolysis can continue.\nLactate: pyruvate + reduced NAD → lactate + NAD (no CO₂).\nEthanol: pyruvate → ethanal + CO₂; ethanal + reduced NAD → ethanol + NAD.", src: RESP },
+    ]),
+    ...sub(T5, 'energy-and-ecosystems-aqa-alevel-biology', '3.5.3', [
+      { n: 1, f: "Net primary production", b: "NPP = GPP − R, where R is respiratory loss. NPP is the chemical energy store in plant biomass after respiratory losses.", src: ETP },
+      { n: 2, f: "Net production of consumers", b: "N = I − (F + R). I: chemical energy in ingested food; F: energy lost in faeces and urine; R: respiratory losses.", src: ETP },
+      { n: 3, f: "Gross primary production (GPP), and how biomass is measured", b: "GPP: the chemical energy store in plant biomass in a given area or volume. Biomass is measured as mass of carbon or dry mass of tissue per unit area; its chemical energy store can be found by calorimetry." },
+    ]),
+    ...sub(T5, 'nutrient-cycles-aqa-alevel-biology', '3.5.4', [
+      { n: 1, f: "Ammonification, nitrification and denitrification", b: "Ammonification: saprobionts turn organic nitrogen compounds into ammonium ions.\nNitrification: ammonium → nitrite → nitrate (aerobic).\nDenitrification: nitrate → nitrogen gas (anaerobic).", src: NUT },
+      { n: 2, f: "Role of mycorrhizae", b: "Associations between fungi and plant roots. The fungal hyphae increase the surface area for absorbing water and mineral ions, such as phosphate; the fungus receives carbohydrates from the plant." },
+      { n: 3, f: "Leaching and eutrophication", b: "Leaching: water-soluble nutrients such as nitrates are washed out of soil into rivers. Eutrophication: algae grow rapidly and block light, plants below die, saprobionts decompose them using oxygen, and fish die from lack of oxygen." },
     ]),
 
     // 6 Organisms respond to changes in their internal and external environments
-    ...topicOnly('organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology', '6', [
+    ...sub(T6, 'stimuli-are-detected-and-lead-to-a-response-aqa-alevel-biology', '3.6.1', [
       { n: 1, f: "Taxis and kinesis", b: "Taxis: directional movement in response to the direction of a stimulus.\nKinesis: change in speed or rate of turning in response to stimulus intensity; random, not directional.", src: SURV },
       { n: 2, f: "How does IAA cause positive phototropism in a shoot?", b: "IAA moves to the shaded side, where it increases cell elongation, so the shaded side grows faster and the shoot bends towards the light. In roots, high IAA inhibits elongation." },
       { n: 3, f: "How does a Pacinian corpuscle produce a generator potential?", b: "Pressure deforms the lamellae and the neurone membrane, widening stretch-mediated sodium ion channels. Na⁺ diffuses in, depolarising the membrane. If threshold is reached, an action potential is sent." },
       { n: 4, f: "Rods and cones: sensitivity and visual acuity", b: "Rods: many share one bipolar neurone, so generator potentials summate; high sensitivity in dim light, low acuity.\nCones: one cone to one bipolar neurone; low sensitivity, high acuity, colour vision from three types." },
-      { n: 5, f: "How is the resting potential maintained?", b: "The sodium–potassium pump moves 3 Na⁺ out and 2 K⁺ in using ATP. The membrane is more permeable to K⁺, which diffuses out. Inside is about −70 mV relative to outside." },
-      { n: 6, f: "Ion movements in depolarisation and repolarisation", b: "Depolarisation: voltage-gated Na⁺ channels open and Na⁺ diffuses in; past threshold (about −55 mV) positive feedback opens more, to about +40 mV.\nRepolarisation: Na⁺ channels close, voltage-gated K⁺ channels open, K⁺ diffuses out." },
-      { n: 7, f: "Three roles of the refractory period", b: "Keeps action potentials discrete (separate), makes them travel in one direction only, and limits the maximum frequency of impulses." },
-      { n: 8, f: "Saltatory conduction", b: "In a myelinated axon, depolarisation occurs only at the nodes of Ranvier, so the action potential jumps from node to node, which is faster.", src: NERVE },
-      { n: 9, f: "Role of calcium ions at a cholinergic synapse", b: "An action potential opens voltage-gated Ca²⁺ channels in the presynaptic knob. Ca²⁺ enters and causes vesicles to fuse with the membrane, releasing acetylcholine by exocytosis." },
-      { n: 10, f: "Roles of calcium ions and ATP in muscle contraction", b: "Ca²⁺ from the sarcoplasmic reticulum moves tropomyosin, exposing binding sites on actin for myosin heads. ATP detaches the head from actin, is hydrolysed to reset the head, and powers pumping of Ca²⁺ back." },
-      { n: 11, f: "Second messenger model (adrenaline and glucagon)", b: "Hormone binds a surface receptor → adenylate cyclase activated → ATP converted to cyclic AMP (second messenger) → cAMP activates protein kinase → enzymes break down glycogen to glucose." },
-      { n: 12, f: "Response to low blood water potential", b: "Osmoreceptors in the hypothalamus shrink; more ADH is released from the posterior pituitary. ADH makes the DCT and collecting duct insert more aquaporins, so more water is reabsorbed by osmosis: small volume of concentrated urine.", src: OSMO },
+      { n: 5, f: "How is heart rate increased during exercise?", b: "Chemoreceptors detect a rise in CO₂ (fall in blood pH); the cardiac centre in the medulla oblongata sends more impulses along sympathetic neurones to the SAN, so heart rate rises. Parasympathetic impulses slow it." },
+    ]),
+    ...sub(T6, 'nervous-coordination-aqa-alevel-biology', '3.6.2', [
+      { n: 1, f: "How is the resting potential maintained?", b: "The sodium–potassium pump moves 3 Na⁺ out and 2 K⁺ in using ATP. The membrane is more permeable to K⁺, which diffuses out. Inside is about −70 mV relative to outside." },
+      { n: 2, f: "Ion movements in depolarisation and repolarisation", b: "Depolarisation: voltage-gated Na⁺ channels open and Na⁺ diffuses in; past threshold (about −55 mV) positive feedback opens more, to about +40 mV.\nRepolarisation: Na⁺ channels close, voltage-gated K⁺ channels open, K⁺ diffuses out." },
+      { n: 3, f: "Three roles of the refractory period", b: "Keeps action potentials discrete (separate), makes them travel in one direction only, and limits the maximum frequency of impulses." },
+      { n: 4, f: "Saltatory conduction", b: "In a myelinated axon, depolarisation occurs only at the nodes of Ranvier, so the action potential jumps from node to node, which is faster.", src: NERVE },
+      { n: 5, f: "Role of calcium ions at a cholinergic synapse", b: "An action potential opens voltage-gated Ca²⁺ channels in the presynaptic knob. Ca²⁺ enters and causes vesicles to fuse with the membrane, releasing acetylcholine by exocytosis." },
+    ]),
+    ...sub(T6, 'skeletal-muscles-aqa-alevel-biology', '3.6.3', [
+      { n: 1, f: "Roles of calcium ions and ATP in muscle contraction", b: "Ca²⁺ from the sarcoplasmic reticulum moves tropomyosin, exposing binding sites on actin for myosin heads. ATP detaches the head from actin, is hydrolysed to reset the head, and powers pumping of Ca²⁺ back." },
+      { n: 2, f: "Structure of a sarcomere", b: "The unit between two Z-lines. Thick myosin filaments form the A-band; thin actin filaments form the I-band; the H-zone holds only myosin. On contraction, the I-band and H-zone shorten, the A-band stays the same length." },
+      { n: 3, f: "Slow-twitch vs fast-twitch muscle fibres", b: "Slow-twitch: contract slowly, for endurance; many mitochondria, much myoglobin and many capillaries; aerobic respiration.\nFast-twitch: contract quickly and powerfully but tire quickly; more glycogen and phosphocreatine; anaerobic respiration." },
+      { n: 4, f: "Role of phosphocreatine", b: "It is stored in muscle and gives its phosphate to ADP, regenerating ATP quickly during short bursts of intense activity." },
+    ]),
+    ...sub(T6, 'homeostasis-aqa-alevel-biology', '3.6.4', [
+      { n: 1, f: "Second messenger model (adrenaline and glucagon)", b: "Hormone binds a surface receptor → adenylate cyclase activated → ATP converted to cyclic AMP (second messenger) → cAMP activates protein kinase → enzymes break down glycogen to glucose." },
+      { n: 2, f: "Response to low blood water potential", b: "Osmoreceptors in the hypothalamus shrink; more ADH is released from the posterior pituitary. ADH makes the DCT and collecting duct insert more aquaporins, so more water is reabsorbed by osmosis: small volume of concentrated urine.", src: OSMO },
+      { n: 3, f: "Glycogenesis, glycogenolysis and gluconeogenesis", b: "Glycogenesis: glucose → glycogen (stimulated by insulin).\nGlycogenolysis: glycogen → glucose (stimulated by glucagon and adrenaline).\nGluconeogenesis: glucose made from non-carbohydrates such as glycerol and amino acids (stimulated by glucagon)." },
+      { n: 4, f: "Role of the loop of Henle", b: "The ascending limb actively transports Na⁺ and Cl⁻ out into the medulla, which lowers its water potential. Water leaves the descending limb and the collecting duct by osmosis, so it can be reabsorbed into the blood." },
     ]),
 
     // 7 Genetics, populations, evolution and ecosystems
-    ...topicOnly('genetics-populations-evolution-and-ecosystems-aqa-alevel-biology', '7', [
+    ...sub(T7, 'inheritance-aqa-alevel-biology', '3.7.1', [
       { n: 1, f: "Genotype and phenotype", b: "Genotype: the genetic constitution of an organism.\nPhenotype: the expression of this genetic constitution and its interaction with the environment.", src: INH },
       { n: 2, f: "Codominance, with the ABO example", b: "Both alleles are expressed in the heterozygote. Iᴬ and Iᴮ are codominant, and i is recessive to both, so IᴬIᴮ is group AB and group O is always ii." },
       { n: 3, f: "Why are X-linked recessive conditions more common in males?", b: "Males (XY) have only one X chromosome, so a single recessive allele on it is always expressed. Females need two copies." },
       { n: 4, f: "Autosomal linkage", b: "Genes on the same autosome are inherited together unless crossing over separates them. A test cross gives two large parental classes and two small recombinant classes.", src: INH },
       { n: 5, f: "Epistasis, and the ratios it gives from AaBb × AaBb", b: "An allele at one locus masks or suppresses expression of alleles at another locus. Recessive epistasis gives 9 : 3 : 4; dominant epistasis gives 12 : 3 : 1.", src: INH },
       { n: 6, f: "Chi-squared test: formula, degrees of freedom and decision", b: "χ² = Σ(O − E)² ÷ E. Degrees of freedom = number of classes − 1. If χ² is below the critical value at p = 0.05 (3.84 for 1 df), the difference is not significant and is probably due to chance." },
-      { n: 7, f: "Hardy–Weinberg equations and conditions", b: "p + q = 1 and p² + 2pq + q² = 1 (p² homozygous dominant, 2pq heterozygous, q² homozygous recessive). Valid for a large population with random mating and no mutation, migration or selection.", src: POP },
-      { n: 8, f: "A recessive condition affects 81 in 10 000 people. What proportion are carriers?", b: "q² = 0.0081, so q = 0.09 and p = 0.91. Carriers: 2pq = 2 × 0.91 × 0.09 = 0.1638 (1638 per 10 000)." },
-      { n: 9, f: "Allopatric and sympatric speciation", b: "Allopatric: a geographical barrier separates populations.\nSympatric: no geographical barrier; reproductive isolation arises in the same area.\nEither way gene pools diverge until they cannot interbreed to give fertile offspring." },
-      { n: 10, f: "Genetic drift", b: "Chance change in allele frequency, with no direction; important in small populations.", src: POP },
-      { n: 11, f: "Mark-release-recapture: 36 animals marked; a second sample of 40 contains 9 marked. Estimate the population.", b: "N = (n₁ × n₂) ÷ m = (36 × 40) ÷ 9 = 160." },
-      { n: 12, f: "Why does one community replace another during succession?", b: "Each stage changes the abiotic environment (soil depth, water, nutrients, light), making it less hostile and suitable for new species, which may out-compete the earlier ones. It ends in a relatively stable climax community.", src: ECO },
+    ]),
+    ...sub(T7, 'populations-aqa-alevel-biology', '3.7.2', [
+      { n: 1, f: "Hardy–Weinberg equations and conditions", b: "p + q = 1 and p² + 2pq + q² = 1 (p² homozygous dominant, 2pq heterozygous, q² homozygous recessive). Valid for a large population with random mating and no mutation, migration or selection.", src: POP },
+      { n: 2, f: "A recessive condition affects 81 in 10 000 people. What proportion are carriers?", b: "q² = 0.0081, so q = 0.09 and p = 0.91. Carriers: 2pq = 2 × 0.91 × 0.09 = 0.1638 (1638 per 10 000)." },
+      { n: 3, f: "Population, gene pool and allele frequency", b: "Population: all the organisms of one species in one area at the same time, able to interbreed. Gene pool: all the alleles of all the genes in a population. Allele frequency: how often an allele occurs in the gene pool." },
+    ]),
+    ...sub(T7, 'evolution-may-lead-to-speciation-aqa-alevel-biology', '3.7.3', [
+      { n: 1, f: "Allopatric and sympatric speciation", b: "Allopatric: a geographical barrier separates populations.\nSympatric: no geographical barrier; reproductive isolation arises in the same area.\nEither way gene pools diverge until they cannot interbreed to give fertile offspring." },
+      { n: 2, f: "Genetic drift", b: "Chance change in allele frequency, with no direction; important in small populations.", src: POP },
+      { n: 3, f: "Disruptive selection", b: "Both extreme phenotypes are favoured over the intermediate, so the population may split into two groups; it can lead to speciation." },
+      { n: 4, f: "How does reproductive isolation lead to a new species?", b: "Separated populations experience different mutations, selection pressures and genetic drift, so their allele frequencies change until they can no longer interbreed to produce fertile offspring." },
+    ]),
+    ...sub(T7, 'populations-in-ecosystems-aqa-alevel-biology', '3.7.4', [
+      { n: 1, f: "Mark-release-recapture: 36 animals marked; a second sample of 40 contains 9 marked. Estimate the population.", b: "N = (n₁ × n₂) ÷ m = (36 × 40) ÷ 9 = 160." },
+      { n: 2, f: "Why does one community replace another during succession?", b: "Each stage changes the abiotic environment (soil depth, water, nutrients, light), making it less hostile and suitable for new species, which may out-compete the earlier ones. It ends in a relatively stable climax community.", src: ECO },
+      { n: 3, f: "Community, ecosystem and niche", b: "Community: all the populations of different species in one area at the same time. Ecosystem: a community and the non-living components of its environment. Niche: the role of a species in its habitat; no two species occupy exactly the same niche." },
+      { n: 4, f: "Carrying capacity, and what limits it", b: "The maximum population size an ecosystem can support. It is limited by abiotic factors (such as light and temperature) and biotic factors (interspecific and intraspecific competition, and predation)." },
     ]),
 
     // 8 The control of gene expression
-    ...topicOnly('the-control-of-gene-expression-aqa-alevel-biology', '8', [
+    ...sub(T8, 'alteration-of-the-base-sequence-can-alter-protein-structure-aqa-alevel-biology', '3.8.1', [
       { n: 1, f: "Which gene mutations cause a frame shift?", b: "Additions, deletions and duplications, unless the number of bases is a multiple of three. Substitutions and inversions do not change the reading frame." },
-      { n: 2, f: "Totipotent and pluripotent cells", b: "Totipotent: can divide and produce any type of body cell (early mammalian embryo, for a limited time).\nPluripotent: found in embryos; can form many cell types and divide without limit.", src: GMSC },
-      { n: 3, f: "Multipotent and unipotent cells", b: "Both found in mature mammals.\nMultipotent: form a limited number of cell types.\nUnipotent: form one cell type, for example cardiomyocytes.", src: GMSC },
-      { n: 4, f: "Induced pluripotent stem (iPS) cells", b: "Made from adult somatic cells (such as skin cells) treated with protein transcription factors, which switch on genes that give pluripotency.", src: GMSC },
-      { n: 5, f: "How does oestrogen stimulate transcription of a target gene?", b: "Lipid-soluble oestrogen diffuses into the cell and binds a receptor in the cytoplasm. The hormone–receptor complex acts as a transcription factor: it enters the nucleus, binds a specific base sequence near the gene, and RNA polymerase can bind." },
-      { n: 6, f: "Epigenetics: methylation and acetylation", b: "Heritable changes in gene function without changes to the base sequence. Increased DNA methylation and decreased histone acetylation both pack DNA more tightly, inhibiting transcription.", src: REG },
-      { n: 7, f: "RNA interference (RNAi)", b: "Small RNA (siRNA) in a protein complex pairs with an mRNA of complementary base sequence; the mRNA is hydrolysed, so it is not translated. The gene is still transcribed." },
-      { n: 8, f: "Oncogenes and tumour suppressor genes in cancer", b: "Oncogene: a mutated or over-expressed proto-oncogene that stimulates continuous division (hypomethylation can raise expression).\nTumour suppressor gene: loses function, e.g. by mutation or hypermethylation, so division is no longer slowed." },
-      { n: 9, f: "PCR: the three temperature stages", b: "Denature at about 95 °C (strands separate). Anneal at about 50–65 °C (primers bind). Extend at about 72 °C (Taq polymerase builds new strands). Each cycle doubles the DNA." },
-      { n: 10, f: "How is cDNA made, and why is it useful?", b: "Reverse transcriptase makes single-stranded cDNA from mRNA; DNA polymerase makes the second strand. The mRNA has no introns, so bacteria can express the gene." },
-      { n: 11, f: "DNA probe", b: "A short, single-stranded, labelled (radioactive or fluorescent) piece of DNA complementary to a target allele. It hybridises only where the complementary sequence is present." },
-      { n: 12, f: "Genetic fingerprinting: what VNTRs are and how fragments are separated", b: "VNTRs are short sequences repeated in a row; the number of repeats varies between people. In gel electrophoresis DNA (negatively charged) moves to the positive electrode; shorter fragments move further." },
+      { n: 2, f: "Types of gene mutation", b: "Addition, deletion, substitution, inversion, duplication and translocation of bases. Mutations arise spontaneously during DNA replication; the rate is increased by mutagenic agents such as ionising radiation and some chemicals." },
+      { n: 3, f: "Why may a base substitution not change the polypeptide?", b: "The genetic code is degenerate, so the new triplet may code for the same amino acid. Even if the amino acid changes, it may not affect the tertiary structure or function of the protein." },
+    ]),
+    ...sub(T8, 'gene-expression-is-controlled-by-a-number-of-features-aqa-alevel-biology', '3.8.2', [
+      { n: 1, f: "Totipotent and pluripotent cells", b: "Totipotent: can divide and produce any type of body cell (early mammalian embryo, for a limited time).\nPluripotent: found in embryos; can form many cell types and divide without limit.", src: GMSC },
+      { n: 2, f: "Multipotent and unipotent cells", b: "Both found in mature mammals.\nMultipotent: form a limited number of cell types.\nUnipotent: form one cell type, for example cardiomyocytes.", src: GMSC },
+      { n: 3, f: "Induced pluripotent stem (iPS) cells", b: "Made from adult somatic cells (such as skin cells) treated with protein transcription factors, which switch on genes that give pluripotency.", src: GMSC },
+      { n: 4, f: "How does oestrogen stimulate transcription of a target gene?", b: "Lipid-soluble oestrogen diffuses into the cell and binds a receptor in the cytoplasm. The hormone–receptor complex acts as a transcription factor: it enters the nucleus, binds a specific base sequence near the gene, and RNA polymerase can bind." },
+      { n: 5, f: "Epigenetics: methylation and acetylation", b: "Heritable changes in gene function without changes to the base sequence. Increased DNA methylation and decreased histone acetylation both pack DNA more tightly, inhibiting transcription.", src: REG },
+      { n: 6, f: "RNA interference (RNAi)", b: "Small RNA (siRNA) in a protein complex pairs with an mRNA of complementary base sequence; the mRNA is hydrolysed, so it is not translated. The gene is still transcribed." },
+      { n: 7, f: "Oncogenes and tumour suppressor genes in cancer", b: "Oncogene: a mutated or over-expressed proto-oncogene that stimulates continuous division (hypomethylation can raise expression).\nTumour suppressor gene: loses function, e.g. by mutation or hypermethylation, so division is no longer slowed." },
+    ]),
+    ...sub(T8, 'using-genome-projects-aqa-alevel-biology', '3.8.3', [
+      { n: 1, f: "What do genome projects do?", b: "They sequence the whole genome (the complete set of bases in the DNA) of an organism, using automated sequencing methods." },
+      { n: 2, f: "Why is the proteome easier to work out for prokaryotes than for eukaryotes?", b: "Prokaryotes have simple genomes with little non-coding DNA, so the proteome can be worked out from the genome. In complex eukaryotes non-coding DNA and regulatory genes make it hard to translate the genome into the proteome." },
+      { n: 3, f: "Uses of determining the proteome of a pathogen", b: "Identifying the antigens of a pathogen helps in developing vaccines." },
+    ]),
+    ...sub(T8, 'gene-technologies-aqa-alevel-biology', '3.8.4', [
+      { n: 1, f: "PCR: the three temperature stages", b: "Denature at about 95 °C (strands separate). Anneal at about 50–65 °C (primers bind). Extend at about 72 °C (Taq polymerase builds new strands). Each cycle doubles the DNA." },
+      { n: 2, f: "How is cDNA made, and why is it useful?", b: "Reverse transcriptase makes single-stranded cDNA from mRNA; DNA polymerase makes the second strand. The mRNA has no introns, so bacteria can express the gene." },
+      { n: 3, f: "DNA probe", b: "A short, single-stranded, labelled (radioactive or fluorescent) piece of DNA complementary to a target allele. It hybridises only where the complementary sequence is present." },
+      { n: 4, f: "Genetic fingerprinting: what VNTRs are and how fragments are separated", b: "VNTRs are short sequences repeated in a row; the number of repeats varies between people. In gel electrophoresis DNA (negatively charged) moves to the positive electrode; shorter fragments move further." },
     ]),
   ],
 };

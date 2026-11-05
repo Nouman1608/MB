@@ -13,6 +13,9 @@ order: 233
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+    subtopic: "cloning-and-biotechnology-ocr-alevel-biology"
 description: "Study guide to natural plant and animal clones, cuttings, micropropagation, embryo splitting, SCNT and the debate, for OCR A Level Biology A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

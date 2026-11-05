@@ -13,6 +13,12 @@ order: 219
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "communication-and-homeostasis-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "excretion-as-an-example-of-homeostatic-control-ocr-alevel-biology"
 description: "Condensed revision notes on cell signalling, feedback, temperature control, excretion and the liver for OCR A Level Biology A (H420), with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

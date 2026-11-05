@@ -14,6 +14,9 @@ order: 164
 syllabusTopics:
   - qualification: "a-level"
     topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+    subtopic: "stimuli-are-detected-and-lead-to-a-response-aqa-alevel-biology"
 description: "Condensed revision notes on IAA, tropisms, taxes, kineses, reflexes, the Pacinian corpuscle and rods and cones for AQA A-level Biology 7402 section 3.6.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

@@ -1,11 +1,13 @@
 /**
  * D-438 -- flashcards for AQA GCSE Biology 8461 (for first teaching 2016).
  *
- * Topics 1 and 2 are itemised into sub-sections (4.1.1-4.1.3, 4.2.1, 4.2.2.1,
- * 4.2.2.2), so ids are `<sub-section number>-<n>`. Topics 3-8 itemise no
- * sub-topics in the syllabus record, so their cards sit on the topic and ids
- * are `<topic number>-<n>`. Ids are permanent (browser progress is keyed by
- * them): add a new card with the next unused n, never renumber.
+ * Topics 1-7 are itemised into specification sections (4.1.1-4.1.3; 4.2.1,
+ * 4.2.2.1-4.2.2.7, 4.2.3.1-4.2.3.2; 4.3.1-4.7.5), so ids are
+ * `<section number>-<n>`. Topics 3-7 were itemised on 2026-11-05; their
+ * earlier topic-level cards (ids `<topic>-<n>`) moved to section ids then.
+ * Topic 8 (Key ideas) has no sub-sections, so its cards sit on the topic and
+ * ids are `8-<n>`. Ids are permanent (browser progress is keyed by them): add
+ * a new card with the next unused n, never renumber.
  *
  *   u: true     Upper tier: content the specification marks "(HT only)", following
  *               the "Higher tier only" labels on Marlbridge's own 8461 revision
@@ -45,6 +47,11 @@ const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
 
 const CB = 'cell-biology-aqa-gcse-biology';
 const ORG = 'organisation-aqa-gcse-biology';
+const IR = 'infection-and-response-aqa-gcse-biology';
+const BE = 'bioenergetics-aqa-gcse-biology';
+const HR = 'homeostasis-and-response-aqa-gcse-biology';
+const IV = 'inheritance-variation-and-evolution-aqa-gcse-biology';
+const EC = 'ecology-aqa-gcse-biology';
 
 const CS = 'aqa-gcse-biology-8461-cell-structure-revision-notes';
 const CD = 'aqa-gcse-biology-8461-cell-division-revision-notes';
@@ -151,8 +158,50 @@ export const DECK_AQA_GCSE_BIOLOGY: FlashcardDeck = {
       { n: 12, f: 'A heart pumps 65 cm³ per beat at 80 beats per minute. Volume pumped per minute?', b: '65 × 80 = 5200 cm³ per minute (5.2 dm³ per minute).' },
     ]),
 
+    ...sub(ORG, 'blood-aqa-gcse-biology', '4.2.2.3', [
+      { n: 1, f: 'The four components of blood', b: 'Plasma, the liquid part, in which red blood cells, white blood cells and platelets are suspended. Blood is a tissue.' },
+      { n: 2, f: 'Red blood cells: function and adaptations', b: 'They carry oxygen from the lungs to body cells. The biconcave disc shape gives a large surface area, and having no nucleus leaves more room for haemoglobin, which binds oxygen.' },
+      { n: 3, f: 'White blood cells and platelets: functions', b: 'White blood cells: part of the immune system, defending the body against pathogens; they have a nucleus.\nPlatelets: small fragments of cells, with no nucleus, that help the blood to clot at a wound.' },
+      { n: 4, f: 'What does plasma transport?', b: 'The blood cells, and dissolved substances including glucose, amino acids, carbon dioxide, urea, hormones, proteins and antibodies.' },
+    ]),
+    ...sub(ORG, 'coronary-heart-disease-aqa-gcse-biology', '4.2.2.4', [
+      { n: 1, f: 'Coronary heart disease: cause and effect', b: 'Layers of fatty material build up inside the coronary arteries, narrowing them. Less blood flows through them, so the heart muscle lacks oxygen.' },
+      { n: 2, f: 'Stents vs statins', b: 'Stent: a mesh tube placed in a narrowed coronary artery to keep it open; it works at once but involves a medical procedure.\nStatin: a drug that lowers blood cholesterol, slowing the rate at which fatty material is deposited; it must be taken long term and can have side effects.' },
+      { n: 3, f: 'Faulty heart valves: effect and treatment', b: 'A valve may not open fully, or may leak, so the heart pumps blood less efficiently. Faulty valves can be replaced with biological valves or mechanical valves.' },
+      { n: 4, f: 'Heart failure: treatments', b: 'A donor heart, or heart and lungs, can be transplanted. Artificial hearts are occasionally used to keep a patient alive while waiting for a transplant, or to let the heart rest as an aid to recovery.' },
+    ]),
+    ...sub(ORG, 'health-issues-aqa-gcse-biology', '4.2.2.5', [
+      { n: 1, f: 'Health, and what affects it', b: 'Health is the state of physical and mental well-being. Communicable and non-communicable diseases are major causes of ill health; diet, stress and life situations can also affect physical and mental health.' },
+      { n: 2, f: 'Communicable vs non-communicable disease', b: 'Communicable: caused by a pathogen and can spread between people or animals (for example measles).\nNon-communicable: cannot be passed from one person to another (for example coronary heart disease).' },
+      { n: 3, f: 'Four ways different types of disease can interact', b: 'Defects in the immune system make infectious diseases more likely. Viruses living in cells can trigger cancers. Immune reactions first caused by a pathogen can trigger allergies such as skin rashes and asthma. Severe physical ill health can lead to depression and other mental illness.' },
+    ]),
+    ...sub(ORG, 'the-effect-of-lifestyle-on-some-non-communicable-diseases-aqa-gcse-biology', '4.2.2.6', [
+      { n: 1, f: 'Risk factor', b: 'Something linked to an increased rate of a disease: an aspect of a person\'s lifestyle, or a substance in the person\'s body or environment. A causal mechanism has been proven for some risk factors but not for others.' },
+      { n: 2, f: 'Lifestyle risk factors and the diseases linked to them', b: 'Diet, smoking and lack of exercise: cardiovascular disease. Obesity: Type 2 diabetes. Alcohol: liver and brain function. Smoking: lung disease and lung cancer. Smoking and alcohol: harm to unborn babies. Carcinogens, including ionising radiation: cancer.' },
+      { n: 3, f: 'What does a scatter diagram of a risk factor against the rate of a disease show?', b: 'Whether the two variables are correlated. A correlation alone does not prove that the factor causes the disease; a causal mechanism is also needed.' },
+      { n: 4, f: 'Costs of non-communicable diseases', b: 'Human cost: illness, a lower quality of life and early death, for individuals and their families.\nFinancial cost: treatment and care, and lost earnings and productivity, for a local community, a nation or globally.' },
+    ]),
+    ...sub(ORG, 'cancer-aqa-gcse-biology', '4.2.2.7', [
+      { n: 1, f: 'What is cancer?', b: 'The result of changes in cells that lead to uncontrolled growth and division.' },
+      { n: 2, f: 'Benign vs malignant tumours', b: 'Benign: abnormal cells contained in one area, usually within a membrane; they do not invade other parts of the body.\nMalignant: cancers; the cells invade neighbouring tissues and spread in the blood to other parts of the body, where they form secondary tumours.' },
+      { n: 3, f: 'Risk factors for cancer', b: 'Lifestyle risk factors (such as smoking, obesity and alcohol) and carcinogens, including ionising radiation. Some cancers also have genetic risk factors.' },
+    ]),
+    ...sub(ORG, 'plant-tissues-aqa-gcse-biology', '4.2.3.1', [
+      { n: 1, f: 'Tissues in a leaf and their functions', b: 'Epidermis: covers the leaf. Palisade mesophyll: most photosynthesis. Spongy mesophyll: air spaces for diffusion of gases. Xylem and phloem: transport. Guard cells: open and close the stomata.' },
+      { n: 2, f: 'How is the palisade mesophyll adapted for photosynthesis?', b: 'Its cells lie near the upper surface, are tightly packed and contain many chloroplasts, so they absorb as much light as possible.' },
+      { n: 3, f: 'Meristem tissue', b: 'Tissue at the growing tips of shoots and roots, with undifferentiated cells that divide to make new cells for growth.' },
+      { n: 4, f: 'Why is a leaf an organ?', b: 'It is made of several tissues (epidermis, palisade and spongy mesophyll, xylem and phloem) working together to carry out a function, photosynthesis.' },
+    ]),
+    ...sub(ORG, 'plant-organ-system-aqa-gcse-biology', '4.2.3.2', [
+      { n: 1, f: 'Root hair cells: adaptations', b: 'A long extension gives a large surface area for taking up water by osmosis and mineral ions by active transport.' },
+      { n: 2, f: 'Xylem vs phloem', b: 'Xylem: hollow tubes strengthened by lignin; carry water and mineral ions from the roots to the stems and leaves (the transpiration stream).\nPhloem: tubes of elongated cells with pores in the end walls; carry dissolved sugars from the leaves to the rest of the plant (translocation).' },
+      { n: 3, f: 'Transpiration, and the role of stomata', b: 'Transpiration: the loss of water vapour from the leaves, mainly through the stomata, which draws water up through the xylem. Guard cells open and close the stomata to control gas exchange and water loss.' },
+      { n: 4, f: 'Four factors that increase the rate of transpiration', b: 'Higher temperature, lower humidity, more air movement and higher light intensity.' },
+      { n: 5, f: 'A bubble in a potometer moves 30 mm in 5 minutes. What is the rate of water uptake?', b: '30 ÷ 5 = 6 mm per minute.' },
+    ]),
+
     // 3 Infection and response
-    ...topicOnly('infection-and-response-aqa-gcse-biology', '3', [
+    ...sub(IR, 'communicable-diseases-aqa-gcse-biology', '4.3.1', [
       { n: 1, f: 'Pathogen: definition, the four types, and how bacteria and viruses make us ill', b: 'A microorganism that causes infectious disease: viruses, bacteria, protists, fungi. Bacteria reproduce rapidly and may release toxins that damage tissues. Viruses live and reproduce inside cells, causing cell damage.', src: INF },
       { n: 2, f: 'Measles and HIV: spread and control', b: 'Measles (virus): inhaled droplets from sneezes and coughs; fever and red rash; controlled by vaccinating young children.\nHIV (virus): sexual contact or exchange of body fluids such as blood; attacks immune cells; antiretroviral drugs.' },
       { n: 3, f: 'Tobacco mosaic virus and rose black spot', b: 'TMV (virus): mosaic discolouration of leaves.\nBlack spot (fungus): purple or black leaf spots, spread by water or wind; fungicides and removing affected leaves.\nBoth reduce photosynthesis, so less glucose for growth.' },
@@ -163,12 +212,22 @@ export const DECK_AQA_GCSE_BIOLOGY: FlashcardDeck = {
       { n: 8, f: 'How does vaccination work?', b: 'Small amounts of a dead or inactive pathogen stimulate white blood cells to produce antibodies. If the live pathogen enters later, white blood cells respond quickly with the right antibodies. If most people are immune, spread falls.' },
       { n: 9, f: 'Antibiotics vs painkillers', b: 'Antibiotics (e.g. penicillin) kill infective bacteria inside the body, not viruses; specific bacteria need specific antibiotics, and resistant strains are a concern. Painkillers treat symptoms only and kill no pathogens.' },
       { n: 10, f: 'Testing a new drug: the stages', b: 'Preclinical testing on cells, tissues and live animals; then clinical trials on healthy volunteers and patients, starting with very low doses, then finding the optimum dose. Double blind trials with a placebo; results peer reviewed.' },
-      { n: 11, f: 'How are monoclonal antibodies produced?', b: 'Mouse lymphocytes are stimulated to make an antibody and combined with a tumour cell to form a hybridoma cell, which divides and makes the antibody. A single hybridoma is cloned, and the antibody collected and purified.', u: true },
-      { n: 12, f: 'Plant deficiency signs: nitrate and magnesium ions', b: 'Nitrate (for protein synthesis): stunted growth.\nMagnesium (for chlorophyll): chlorosis, yellow leaves.', src: INF },
+    ]),
+    ...sub(IR, 'monoclonal-antibodies-aqa-gcse-biology', '4.3.2', [
+      { n: 1, f: 'How are monoclonal antibodies produced?', b: 'Mouse lymphocytes are stimulated to make an antibody and combined with a tumour cell to form a hybridoma cell, which divides and makes the antibody. A single hybridoma is cloned, and the antibody collected and purified.', u: true },
+      { n: 2, f: 'Monoclonal antibodies: what are they?', b: 'Antibodies produced from a single clone of cells. They are specific to one binding site on one protein antigen, so they can target a specific chemical or specific cells in the body.', u: true },
+      { n: 3, f: 'Four uses of monoclonal antibodies', b: 'Pregnancy tests; measuring levels of hormones and other chemicals in blood, or detecting pathogens; locating or identifying specific molecules in a cell or tissue with a fluorescent dye; treating some diseases, such as delivering a drug or radioactive substance to cancer cells.', u: true },
+      { n: 4, f: 'Why are monoclonal antibodies not as widely used as was first hoped?', b: 'They create more side effects than expected.', u: true },
+    ]),
+    ...sub(IR, 'plant-disease-aqa-gcse-biology', '4.3.3', [
+      { n: 1, f: 'Plant deficiency signs: nitrate and magnesium ions', b: 'Nitrate (for protein synthesis): stunted growth.\nMagnesium (for chlorophyll): chlorosis, yellow leaves.', src: INF },
+      { n: 2, f: 'Signs of plant disease, and ways to identify the cause', b: 'Signs: stunted growth, spots on leaves, areas of decay, growths, malformed stems or leaves, discolouration, pests.\nIdentify by a gardening manual or website, a laboratory test of the infected plant, or testing kits containing monoclonal antibodies.', u: true },
+      { n: 3, f: 'Physical, chemical and mechanical plant defences', b: 'Physical: cellulose cell walls, a tough waxy cuticle, layers of dead cells such as bark.\nChemical: antibacterial chemicals, poisons that deter herbivores.\nMechanical: thorns and hairs, leaves that droop or curl when touched, mimicry.' },
+      { n: 4, f: 'Aphids as plant pests', b: 'Aphids are insects that feed on phloem sap, taking sugars from the plant and weakening it.' },
     ]),
 
     // 4 Bioenergetics
-    ...topicOnly('bioenergetics-aqa-gcse-biology', '4', [
+    ...sub(BE, 'photosynthesis-aqa-gcse-biology', '4.4.1', [
       { n: 1, f: 'Photosynthesis: word equation, and why it is endothermic', b: 'carbon dioxide + water → glucose + oxygen (light needed).\nEndothermic: energy is transferred from the environment to the chloroplasts by light.', src: BIO },
       { n: 2, f: 'Four factors that affect the rate of photosynthesis', b: 'Temperature, light intensity, carbon dioxide concentration, and the amount of chlorophyll.' },
       { n: 3, f: 'Limiting factor, and how to spot one on a graph', b: 'The factor in shortest supply, which holds the rate back. Where the line rises, the x-axis factor is limiting; where it is flat, another factor is limiting.' },
@@ -177,30 +236,42 @@ export const DECK_AQA_GCSE_BIOLOGY: FlashcardDeck = {
       { n: 6, f: 'When is it worth adding heat, light or CO₂ in a greenhouse?', b: 'Only if the value of the extra yield is greater than the cost. Adding a factor that is not limiting raises the cost but not the yield.', u: true },
       { n: 7, f: 'Required practical 6: rate of photosynthesis with pondweed', b: 'Lamp at measured distances; a heat shield and thermometer keep temperature constant; let the weed adjust, then count bubbles or collect oxygen in a fixed time; repeat for a mean. Control: temperature, CO₂, same pondweed.' },
       { n: 8, f: 'Five uses of glucose in a plant', b: 'Respiration; insoluble starch for storage; fat or oil for storage; cellulose to strengthen the cell wall; amino acids for protein synthesis (with nitrate ions from the soil).', src: BIO },
-      { n: 9, f: 'Aerobic respiration vs anaerobic respiration in muscles and in yeast', b: 'Aerobic: glucose + oxygen → carbon dioxide + water.\nMuscles: glucose → lactic acid.\nPlants and yeast: glucose → ethanol + carbon dioxide (fermentation in yeast).\nAnaerobic transfers much less energy: glucose is oxidised incompletely.' },
-      { n: 10, f: 'How does the body respond to exercise, and why do muscles fatigue?', b: 'Heart rate, breathing rate and breath volume rise, so more oxygenated blood reaches the muscles. If oxygen is still too low, muscles respire anaerobically; lactic acid builds up (an oxygen debt) and long activity fatigues the muscles.' },
-      { n: 11, f: 'Oxygen debt, and what happens to lactic acid after exercise', b: 'Oxygen debt: the extra oxygen the body needs after exercise to react with the accumulated lactic acid and remove it from cells. Blood carries lactic acid to the liver, where it is converted back into glucose.', u: true },
-      { n: 12, f: 'Metabolism, with examples', b: 'The sum of all the reactions in a cell or the body. Examples: glucose → starch, glycogen and cellulose; glycerol + 3 fatty acids → lipid; glucose + nitrate → amino acids → proteins; respiration; excess protein → urea.', src: BIO },
+    ]),
+    ...sub(BE, 'respiration-aqa-gcse-biology', '4.4.2', [
+      { n: 1, f: 'Aerobic respiration vs anaerobic respiration in muscles and in yeast', b: 'Aerobic: glucose + oxygen → carbon dioxide + water.\nMuscles: glucose → lactic acid.\nPlants and yeast: glucose → ethanol + carbon dioxide (fermentation in yeast).\nAnaerobic transfers much less energy: glucose is oxidised incompletely.' },
+      { n: 2, f: 'How does the body respond to exercise, and why do muscles fatigue?', b: 'Heart rate, breathing rate and breath volume rise, so more oxygenated blood reaches the muscles. If oxygen is still too low, muscles respire anaerobically; lactic acid builds up (an oxygen debt) and long activity fatigues the muscles.' },
+      { n: 3, f: 'Oxygen debt, and what happens to lactic acid after exercise', b: 'Oxygen debt: the extra oxygen the body needs after exercise to react with the accumulated lactic acid and remove it from cells. Blood carries lactic acid to the liver, where it is converted back into glucose.', u: true },
+      { n: 4, f: 'Metabolism, with examples', b: 'The sum of all the reactions in a cell or the body. Examples: glucose → starch, glycogen and cellulose; glycerol + 3 fatty acids → lipid; glucose + nitrate → amino acids → proteins; respiration; excess protein → urea.', src: BIO },
     ]),
 
     // 5 Homeostasis and response
-    ...topicOnly('homeostasis-and-response-aqa-gcse-biology', '5', [
+    ...sub(HR, 'homeostasis-aqa-gcse-biology', '4.5.1', [
       { n: 1, f: 'Homeostasis', b: 'The regulation of the internal conditions of a cell or organism to maintain optimum conditions for function, in response to internal and external changes. In humans: blood glucose, body temperature and water levels.', src: HOM },
-      { n: 2, f: 'The reflex arc, in order', b: 'Stimulus → receptor → sensory neurone → synapse → relay neurone (CNS) → synapse → motor neurone → effector (muscle contracts or gland secretes). Reflexes are automatic and rapid.' },
-      { n: 3, f: 'Accommodation: focusing on a near object vs a distant object', b: 'Near: ciliary muscles contract, suspensory ligaments slacken, lens thicker, refracts more.\nDistant: ciliary muscles relax, suspensory ligaments tighten, lens thinner, refracts less.' },
-      { n: 4, f: 'Myopia vs hyperopia, and the lens used to correct each', b: 'Myopia (short sight): image forms in front of the retina; concave lens.\nHyperopia (long sight): image forms behind the retina; convex lens.' },
-      { n: 5, f: 'Body temperature: responses when too hot and when too cold', b: 'Monitored by the thermoregulatory centre in the brain.\nToo hot: vasodilation, sweating.\nToo cold: vasoconstriction, sweating stops, shivering.' },
-      { n: 6, f: 'Type 1 vs Type 2 diabetes', b: 'Type 1: the pancreas makes too little insulin; treated with insulin injections.\nType 2: body cells no longer respond to insulin; treated with a carbohydrate-controlled diet and exercise. Obesity is a risk factor.' },
-      { n: 7, f: 'Negative feedback in blood glucose control', b: 'Glucose too high: the pancreas releases insulin, glucose moves into cells and is stored as glycogen. Glucose too low: the pancreas releases glucagon, glycogen → glucose, released into the blood.', u: true },
-      { n: 8, f: 'ADH and water balance', b: 'Blood too concentrated → the pituitary releases more ADH → kidney tubules become more permeable → more water reabsorbed → blood less concentrated (negative feedback).', u: true },
-      { n: 9, f: 'FSH, LH, oestrogen and progesterone: gland and role', b: 'FSH (pituitary): egg matures in the ovary.\nLH (pituitary): egg released (ovulation).\nOestrogen (ovary): main female hormone; uterus lining.\nProgesterone (ovary): maintains the uterus lining.' },
-      { n: 10, f: 'Hormonal vs non-hormonal contraception', b: 'Hormonal: the pill (inhibits FSH), progesterone injection, implant or patch.\nNon-hormonal: condom, diaphragm, spermicide, an IUD that only prevents implantation, abstinence at fertile times, sterilisation.' },
-      { n: 11, f: 'Auxin and tropisms', b: 'Unequal distribution of auxin causes unequal growth. Shoots bend towards light (phototropism); roots grow down (gravitropism). Auxin collects on the shaded side of a shoot.' },
-      { n: 12, f: 'Uses of auxin, ethene and gibberellins', b: 'Auxin: weed killers, rooting powder, tissue culture.\nEthene: control ripening of fruit in storage and transport.\nGibberellins: end seed dormancy, promote flowering, increase fruit size.', u: true },
+      { n: 2, f: 'The three parts of an automatic control system', b: 'Receptors detect stimuli; coordination centres (such as the brain, spinal cord and pancreas) receive and process the information; effectors (muscles or glands) bring about responses that restore optimum levels.' },
+      { n: 3, f: 'Why is homeostasis important, and what does it control in humans?', b: 'It maintains optimal conditions for enzyme action and all cell functions. In the human body it includes control of blood glucose concentration, body temperature and water levels.' },
+    ]),
+    ...sub(HR, 'the-human-nervous-system-aqa-gcse-biology', '4.5.2', [
+      { n: 1, f: 'The reflex arc, in order', b: 'Stimulus → receptor → sensory neurone → synapse → relay neurone (CNS) → synapse → motor neurone → effector (muscle contracts or gland secretes). Reflexes are automatic and rapid.' },
+      { n: 2, f: 'Accommodation: focusing on a near object vs a distant object', b: 'Near: ciliary muscles contract, suspensory ligaments slacken, lens thicker, refracts more.\nDistant: ciliary muscles relax, suspensory ligaments tighten, lens thinner, refracts less.' },
+      { n: 3, f: 'Myopia vs hyperopia, and the lens used to correct each', b: 'Myopia (short sight): image forms in front of the retina; concave lens.\nHyperopia (long sight): image forms behind the retina; convex lens.' },
+      { n: 4, f: 'Body temperature: responses when too hot and when too cold', b: 'Monitored by the thermoregulatory centre in the brain.\nToo hot: vasodilation, sweating.\nToo cold: vasoconstriction, sweating stops, shivering.' },
+      { n: 5, f: 'Cerebral cortex, cerebellum and medulla: roles', b: 'Cerebral cortex: consciousness, intelligence, memory and language. Cerebellum: coordination of muscular activity. Medulla: unconscious activities such as heartbeat and breathing.' },
+    ]),
+    ...sub(HR, 'hormonal-coordination-in-humans-aqa-gcse-biology', '4.5.3', [
+      { n: 1, f: 'Type 1 vs Type 2 diabetes', b: 'Type 1: the pancreas makes too little insulin; treated with insulin injections.\nType 2: body cells no longer respond to insulin; treated with a carbohydrate-controlled diet and exercise. Obesity is a risk factor.' },
+      { n: 2, f: 'Negative feedback in blood glucose control', b: 'Glucose too high: the pancreas releases insulin, glucose moves into cells and is stored as glycogen. Glucose too low: the pancreas releases glucagon, glycogen → glucose, released into the blood.', u: true },
+      { n: 3, f: 'ADH and water balance', b: 'Blood too concentrated → the pituitary releases more ADH → kidney tubules become more permeable → more water reabsorbed → blood less concentrated (negative feedback).', u: true },
+      { n: 4, f: 'FSH, LH, oestrogen and progesterone: gland and role', b: 'FSH (pituitary): egg matures in the ovary.\nLH (pituitary): egg released (ovulation).\nOestrogen (ovary): main female hormone; uterus lining.\nProgesterone (ovary): maintains the uterus lining.' },
+      { n: 5, f: 'Hormonal vs non-hormonal contraception', b: 'Hormonal: the pill (inhibits FSH), progesterone injection, implant or patch.\nNon-hormonal: condom, diaphragm, spermicide, an IUD that only prevents implantation, abstinence at fertile times, sterilisation.' },
+    ]),
+    ...sub(HR, 'plant-hormones-aqa-gcse-biology', '4.5.4', [
+      { n: 1, f: 'Auxin and tropisms', b: 'Unequal distribution of auxin causes unequal growth. Shoots bend towards light (phototropism); roots grow down (gravitropism). Auxin collects on the shaded side of a shoot.' },
+      { n: 2, f: 'Uses of auxin, ethene and gibberellins', b: 'Auxin: weed killers, rooting powder, tissue culture.\nEthene: control ripening of fruit in storage and transport.\nGibberellins: end seed dormancy, promote flowering, increase fruit size.', u: true },
+      { n: 3, f: 'Required practical 8: effect of light or gravity on seedlings', b: 'Grow seedlings from cress or mung beans in dishes, with light from one side or the dish turned on its side, and a control. After a few days measure and record the direction and length of shoot and root growth.' },
     ]),
 
     // 6 Inheritance, variation and evolution
-    ...topicOnly('inheritance-variation-and-evolution-aqa-gcse-biology', '6', [
+    ...sub(IV, 'reproduction-aqa-gcse-biology', '4.6.1', [
       { n: 1, f: 'Sexual vs asexual reproduction', b: 'Sexual: two parents; gametes made by meiosis fuse; offspring varied.\nAsexual: one parent; mitosis only; no fusion of gametes; offspring are identical clones.' },
       { n: 2, f: 'Meiosis: what it produces', b: 'Genetic information is copied, the cell divides twice, forming four gametes, each with a single set of chromosomes, all genetically different. Fertilisation restores the full number (23 + 23 = 46 in humans).', src: IVE },
       { n: 3, f: 'DNA, gene and genome', b: 'DNA: a polymer of two strands forming a double helix, in chromosomes.\nGene: a small section of DNA coding for a sequence of amino acids, making a specific protein.\nGenome: all the genetic material of an organism.', src: IVE },
@@ -208,27 +279,60 @@ export const DECK_AQA_GCSE_BIOLOGY: FlashcardDeck = {
       { n: 5, f: 'Complementary base pairs, and how a protein is made', b: 'A pairs with T, C with G. Proteins are made on ribosomes from a template; carrier molecules bring amino acids in the right order; the chain folds into a unique shape (an enzyme, hormone or collagen).', u: true },
       { n: 6, f: 'Aa × Aa: genotypes and phenotype ratio', b: '1 AA : 2 Aa : 1 aa, so 3 dominant : 1 recessive. As probabilities: 3/4 and 1/4. With 20 offspring, expect 15 and 5.' },
       { n: 7, f: 'Polydactyly and cystic fibrosis: dominant or recessive?', b: 'Polydactyly: dominant allele. Cystic fibrosis (a disorder of cell membranes): recessive allele. Two carriers have a 1/4 chance of an affected child.' },
-      { n: 8, f: 'Natural selection, and when a new species has formed', b: 'Variation exists from mutation; individuals better suited to the environment are more likely to survive and breed, passing on their alleles, which become more common over many generations. A new species: populations can no longer interbreed to produce fertile offspring.' },
-      { n: 9, f: 'Selective breeding: steps and risk', b: 'Choose parents with the desired characteristic, breed them, select the best offspring and repeat over many generations. Risk: inbreeding, making some breeds prone to disease or inherited defects.' },
-      { n: 10, f: 'Genetic engineering: the steps', b: 'Enzymes isolate the required gene; it is inserted into a vector, usually a bacterial plasmid or a virus; the vector carries the gene into the required cells, at an early stage of development.', u: true },
-      { n: 11, f: 'How do antibiotic-resistant bacteria develop, and how can it be slowed?', b: 'A mutation gives a resistant strain; the antibiotic kills non-resistant bacteria; resistant ones survive, reproduce and spread. Slow it by not using antibiotics for viral or non-serious infections, finishing the course, and restricting farm use.' },
-      { n: 12, f: 'Darwin vs Lamarck, and Woese\'s three domains', b: 'Darwin: evolution by natural selection (On the Origin of Species, 1859). Lamarck: changes during a lifetime are inherited, now known not to happen in most cases.\nWoese: archaea, bacteria, eukaryota.' },
+    ]),
+    ...sub(IV, 'variation-and-evolution-aqa-gcse-biology', '4.6.2', [
+      { n: 1, f: 'Natural selection, and when a new species has formed', b: 'Variation exists from mutation; individuals better suited to the environment are more likely to survive and breed, passing on their alleles, which become more common over many generations. A new species: populations can no longer interbreed to produce fertile offspring.' },
+      { n: 2, f: 'Selective breeding: steps and risk', b: 'Choose parents with the desired characteristic, breed them, select the best offspring and repeat over many generations. Risk: inbreeding, making some breeds prone to disease or inherited defects.' },
+      { n: 3, f: 'Genetic engineering: the steps', b: 'Enzymes isolate the required gene; it is inserted into a vector, usually a bacterial plasmid or a virus; the vector carries the gene into the required cells, at an early stage of development.', u: true },
+      { n: 4, f: 'Variation: causes, and how mutations affect it', b: 'Differences in characteristics are caused by genes, the environment, or both. Mutations occur continuously; most have no effect on the phenotype, a few influence it, and very rarely a new phenotype suits a change in the environment, leading to rapid change in the species.' },
+      { n: 5, f: 'Methods of cloning plants and animals', b: 'Plants: cuttings, and tissue culture (small groups of cells grown into new plants).\nAnimals: embryo transplants (an embryo split into cells, each implanted in a host mother) and adult cell cloning (a body cell nucleus put into an enucleated egg cell, stimulated by an electric shock).' },
+    ]),
+    ...sub(IV, 'the-development-of-understanding-of-genetics-and-evolution-aqa-gcse-biology', '4.6.3', [
+      { n: 1, f: 'How do antibiotic-resistant bacteria develop, and how can it be slowed?', b: 'A mutation gives a resistant strain; the antibiotic kills non-resistant bacteria; resistant ones survive, reproduce and spread. Slow it by not using antibiotics for viral or non-serious infections, finishing the course, and restricting farm use.' },
+      { n: 2, f: 'Darwin vs Lamarck, and Woese\'s three domains', b: 'Darwin: evolution by natural selection (On the Origin of Species, 1859). Lamarck: changes during a lifetime are inherited, now known not to happen in most cases.\nWoese: archaea, bacteria, eukaryota.' },
+      { n: 3, f: 'How do fossils form?', b: 'From parts of organisms that have not decayed because conditions for decay were absent; when parts are replaced by minerals as they decay; or as preserved traces such as footprints, burrows and root pathways.' },
+      { n: 4, f: 'Why is the fossil record incomplete?', b: 'Many early forms of life were soft-bodied and left few traces, and many fossils have been destroyed by geological activity.' },
+      { n: 5, f: 'Factors that may cause extinction', b: 'New predators, new diseases, more successful competitors, changes to the environment over geological time, and single catastrophic events such as massive volcanic eruptions or asteroid collisions.' },
+    ]),
+    ...sub(IV, 'classification-of-living-organisms-aqa-gcse-biology', '4.6.4', [
+      { n: 1, f: 'Linnaean classification: the ranks, largest first', b: 'Kingdom, phylum, class, order, family, genus, species. Organisms are named by the binomial system of genus and species, for example Homo sapiens.' },
+      { n: 2, f: 'The three-domain system', b: 'Proposed by Carl Woese, using evidence from chemical analysis. Archaea: primitive bacteria, often in extreme environments. Bacteria: true bacteria. Eukaryota: protists, fungi, plants and animals.' },
+      { n: 3, f: 'Evolutionary trees', b: 'Diagrams showing how closely related organisms are thought to be. They use current classification data for living organisms and fossil data for extinct organisms.' },
     ]),
 
     // 7 Ecology
-    ...topicOnly('ecology-aqa-gcse-biology', '7', [
+    ...sub(EC, 'adaptations-interdependence-and-competition-aqa-gcse-biology', '4.7.1', [
       { n: 1, f: 'Ecosystem, population and community', b: 'Ecosystem: the interaction of a community of living organisms with the non-living parts of their environment.\nPopulation: all the organisms of one species in a habitat.\nCommunity: all the populations of different species in a habitat.', src: ECO },
       { n: 2, f: 'Interdependence', b: 'Each species depends on others for food, shelter, pollination, seed dispersal and so on, so removing one species can affect the whole community.', src: ECO },
       { n: 3, f: 'What do plants and animals compete for?', b: 'Plants: light, space, water and mineral ions from the soil.\nAnimals: food, mates and territory.' },
       { n: 4, f: 'Four biotic factors that affect a community', b: 'Availability of food; new predators arriving; new pathogens; one species outcompeting another so its numbers are too low to breed.' },
-      { n: 5, f: 'Four 1 m² quadrats hold 3, 5, 0 and 4 plants. Estimate the number in a 200 m² field.', b: 'Mean = 12 ÷ 4 = 3.0 per m². 3.0 × 200 = 600 plants. Quadrats are placed at random coordinates.' },
-      { n: 6, f: 'How is a transect used?', b: 'Run a tape across a change in conditions; place a quadrat at regular intervals along it; record the species and measure the abiotic factor at each point. It shows distribution, not abundance.' },
-      { n: 7, f: 'Predator–prey cycles', b: 'Prey increase → more food → predators increase (with a lag) → more prey eaten → prey fall → less food → predators fall.' },
-      { n: 8, f: 'Factors that increase the rate of decay, and what anaerobic decay produces', b: 'Warmth (up to the enzymes\' optimum), water and oxygen. Anaerobic decay produces methane, which can be collected as biogas fuel.' },
-      { n: 9, f: 'Required practical 10: milk falls from pH 6.7 to 5.5 in 40 minutes. Rate of decay?', b: '1.2 ÷ 40 = 0.03 pH units per minute. The pH falls because microorganisms decaying the milk produce acid.' },
-      { n: 10, f: 'A trophic level holds 2400 g of biomass; the next holds 180 g. Efficiency of transfer?', b: '180 ÷ 2400 × 100 = 7.5%. Biomass is lost as faeces (egestion), as waste such as urea and CO₂, and as glucose used in respiration.' },
-      { n: 11, f: 'Why is destroying peat bogs harmful?', b: 'Habitat and biodiversity are lost, and the decay or burning of the peat releases carbon dioxide.' },
-      { n: 12, f: 'The three environmental changes that affect the distribution of species', b: 'Temperature, availability of water, and the composition of atmospheric gases. They may be seasonal, geographic or caused by human interaction.', u: true },
+      { n: 5, f: 'Adaptations and extremophiles', b: 'Adaptations may be structural, behavioural or functional, and let organisms survive where they live. Extremophiles live in extreme environments: high temperature, high pressure or high salt concentration, for example bacteria in deep-sea vents.' },
+    ]),
+    ...sub(EC, 'organisation-of-an-ecosystem-aqa-gcse-biology', '4.7.2', [
+      { n: 1, f: 'Four 1 m² quadrats hold 3, 5, 0 and 4 plants. Estimate the number in a 200 m² field.', b: 'Mean = 12 ÷ 4 = 3.0 per m². 3.0 × 200 = 600 plants. Quadrats are placed at random coordinates.' },
+      { n: 2, f: 'How is a transect used?', b: 'Run a tape across a change in conditions; place a quadrat at regular intervals along it; record the species and measure the abiotic factor at each point. It shows distribution, not abundance.' },
+      { n: 3, f: 'Predator–prey cycles', b: 'Prey increase → more food → predators increase (with a lag) → more prey eaten → prey fall → less food → predators fall.' },
+      { n: 4, f: 'Factors that increase the rate of decay, and what anaerobic decay produces', b: 'Warmth (up to the enzymes\' optimum), water and oxygen. Anaerobic decay produces methane, which can be collected as biogas fuel.' },
+      { n: 5, f: 'Required practical 10: milk falls from pH 6.7 to 5.5 in 40 minutes. Rate of decay?', b: '1.2 ÷ 40 = 0.03 pH units per minute. The pH falls because microorganisms decaying the milk produce acid.' },
+      { n: 6, f: 'The three environmental changes that affect the distribution of species', b: 'Temperature, availability of water, and the composition of atmospheric gases. They may be seasonal, geographic or caused by human interaction.', u: true },
+    ]),
+    ...sub(EC, 'biodiversity-and-the-effect-of-human-interaction-on-ecosystems-aqa-gcse-biology', '4.7.3', [
+      { n: 1, f: 'Why is destroying peat bogs harmful?', b: 'Habitat and biodiversity are lost, and the decay or burning of the peat releases carbon dioxide.' },
+      { n: 2, f: 'Biodiversity, and why it matters', b: 'The variety of all the different species of organisms on Earth, or within an ecosystem. High biodiversity makes ecosystems more stable, because species depend less on a single other species for food, shelter and a stable environment.' },
+      { n: 3, f: 'Effects of global warming on living things', b: 'Loss of habitat as sea levels rise, changes in the distribution of species as temperature and rainfall change, and changes to migration patterns, all of which may reduce biodiversity.' },
+      { n: 4, f: 'Ways to maintain biodiversity', b: 'Breeding programmes for endangered species; protecting and regenerating rare habitats; reintroducing field margins and hedgerows; reducing deforestation and carbon dioxide emissions; recycling instead of dumping waste in landfill.' },
+    ]),
+    ...sub(EC, 'trophic-levels-in-an-ecosystem-aqa-gcse-biology', '4.7.4', [
+      { n: 1, f: 'A trophic level holds 2400 g of biomass; the next holds 180 g. Efficiency of transfer?', b: '180 ÷ 2400 × 100 = 7.5%. Biomass is lost as faeces (egestion), as waste such as urea and CO₂, and as glucose used in respiration.' },
+      { n: 2, f: 'Trophic levels, from the bottom', b: 'Level 1: producers (plants and algae). Level 2: primary consumers (herbivores). Level 3: secondary consumers (carnivores eating herbivores). Level 4: tertiary consumers. Apex predators have no predators. Decomposers break down dead plant and animal matter.' },
+      { n: 3, f: 'Why is only about 10% of biomass passed to the next trophic level?', b: 'Not all the biomass is eaten (such as bones and roots); some eaten material is egested as faeces; much glucose is used in respiration, releasing carbon dioxide and water; and some is lost in waste such as urea in urine.' },
+      { n: 4, f: 'Pyramid of biomass', b: 'A diagram with a bar for each trophic level, drawn to scale to show the mass of living material at that level. Producers are at the bottom.' },
+    ]),
+    ...sub(EC, 'food-production-aqa-gcse-biology', '4.7.5', [
+      { n: 1, f: 'Food security, and biological factors threatening it', b: 'Food security: having enough food to feed a population. Threats: increasing birth rate, changing diets in developed countries, new pests and pathogens, environmental change such as failed rains, the cost of agricultural inputs, and conflicts affecting water or food.' },
+      { n: 2, f: 'How can farming make food production more efficient?', b: 'Restrict energy transfer from food animals to the environment by limiting their movement and controlling the temperature of their surroundings. Some animals are fed high-protein foods to increase growth.' },
+      { n: 3, f: 'How are fish stocks kept sustainable?', b: 'Control of net size (so young fish escape and breed) and fishing quotas, keeping stocks at a level where breeding continues.' },
+      { n: 4, f: 'Mycoprotein: what it is and how it is made', b: 'A protein-rich food suitable for vegetarians, made from the fungus Fusarium grown on glucose syrup in aerobic conditions; the biomass is harvested and purified.' },
     ]),
 
     // 8 Key ideas

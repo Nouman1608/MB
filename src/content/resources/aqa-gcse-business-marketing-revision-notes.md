@@ -13,6 +13,16 @@ order: 804
 syllabusTopics:
   - qualification: "gcse"
     topic: "marketing-aqa-gcse-business"
+    subtopic: "identifying-and-understanding-customers-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "marketing-aqa-gcse-business"
+    subtopic: "segmentation-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "marketing-aqa-gcse-business"
+    subtopic: "the-purpose-and-methods-of-market-research-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "marketing-aqa-gcse-business"
+    subtopic: "the-marketing-mix-aqa-gcse-business"
 description: "Condensed AQA GCSE Business revision notes on marketing: segmentation, research methods, pricing, life cycle, Boston Matrix, promotion and place."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25

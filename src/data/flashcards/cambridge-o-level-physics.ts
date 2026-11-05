@@ -1,12 +1,11 @@
 /**
  * D-438 -- flashcards for Cambridge O Level Physics 5054 (2026-2028).
  *
- * Topic 1 itemises sub-topics 1.1-1.8, so its cards are `<subtopic number>-<n>`.
- * Topics 2-6 are recorded name-only in syllabus-topics.ts (no sub-topics yet), so
- * their cards hang on the topic and use `<topic number>-<n>`. Ids are permanent
- * (browser progress is keyed by them): add a new card with the next unused n,
- * never renumber. If sub-topics are later itemised for topics 2-6, new cards go
- * on the sub-topics; these topic-level ids stay as they are.
+ * Every topic itemises its x.y sub-topics, so card ids are `<subtopic number>-<n>`.
+ * Ids are permanent (browser progress is keyed by them): add a new card with the
+ * next unused n, never renumber. Topics 2-6 were itemised (2.1-6.2) on 2026-11-05;
+ * their former topic-level cards (2-n to 6-n) moved to the matching sub-topic and
+ * took new ids there.
  *
  * 5054 is not tiered, so no card is marked upper tier.
  *   src: '...'  The card restates that revision-notes page (found with
@@ -23,17 +22,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     id: `${number}-${n}`,
     topic,
     subtopic,
-    front: f,
-    back: b,
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
-/** For a topic that itemises no sub-topics: the card names the topic only. */
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, src }) => ({
-    id: `${number}-${n}`,
-    topic,
     front: f,
     back: b,
     origin: src ? 'revision-notes' as const : 'authored' as const,
@@ -138,84 +126,134 @@ export const DECK_CAMBRIDGE_O_LEVEL_PHYSICS: FlashcardDeck = {
       { n: 7, f: 'What does a manometer measure?', b: 'The pressure of a gas supply: the difference in the two liquid levels of the U-tube gives the pressure above atmospheric.' },
     ]),
 
-    // 2 Thermal physics (no sub-topics itemised)
-    ...topicOnly('thermal-physics', '2', [
+    // 2 Thermal physics
+    ...sub('thermal-physics', 'kinetic-particle-model-of-matter', '2.1', [
       { n: 1, f: 'Particles in solids, liquids and gases: spacing and movement', b: 'Solid: close, regular, vibrate in place.\nLiquid: close, irregular, slide past each other.\nGas: far apart, random, fast with straight paths between collisions.' },
       { n: 2, f: 'Absolute zero, and converting °C to K. What is 25 °C in kelvin?', b: 'Absolute zero, −273 °C = 0 K, is the lowest possible temperature (particles have least kinetic energy). T = θ + 273, so 25 °C = 298 K.' },
       { n: 3, f: 'Explain why a sealed rigid can of gas has a higher pressure when warm', b: 'Gas pressure is the force per unit area from particles hitting the walls. Warmer particles move faster, so they hit the walls more often and with greater force.' },
       { n: 4, f: 'Gas at 90 kPa and 50 cm³ is compressed to 30 cm³ at constant temperature. New pressure?', b: 'p₁V₁ = p₂V₂ (fixed mass, constant temperature): p₂ = 90 × 50 ÷ 30 = 150 kPa.' },
-      { n: 5, f: 'What happens to particles when a substance expands on heating? Which state expands most?', b: 'They move or vibrate more, so their average spacing increases; the particles do not get bigger. Gases expand most, then liquids, then solids.' },
-      { n: 6, f: 'Specific heat capacity', b: 'The energy required per unit mass per unit temperature increase. c = ΔE/(mΔθ), in J/(kg °C).' },
-      { n: 7, f: 'A heater warms 2.0 kg of water by 10 °C in 5.0 min (c = 4200 J/(kg °C)). Power, if no losses?', b: 'E = mcΔθ = 2.0 × 4200 × 10 = 84 000 J.\nP = 84 000 ÷ 300 = 280 W.' },
-      { n: 8, f: 'Latent heat', b: 'The energy transferred for a substance to change state, at constant temperature. It overcomes the forces between particles, raising their potential energy, not their kinetic energy.' },
-      { n: 9, f: 'Boiling vs evaporation', b: 'Boiling: one fixed temperature, throughout the liquid, bubbles, fast.\nEvaporation: any temperature, surface only, no bubbles, slow.' },
-      { n: 10, f: 'Why does evaporation cool a liquid, and what makes it faster?', b: 'Only the fastest particles leave the surface, so the remaining liquid has a lower average kinetic energy. Faster with higher temperature, larger surface area and moving air.' },
-      { n: 11, f: 'Conduction vs convection', b: 'Conduction: energy passes between neighbouring particles that stay in place (lattice vibrations; free electrons in metals). Best in solids.\nConvection: the heated fluid itself moves; warm, less dense fluid rises.' },
-      { n: 12, f: 'Thermal radiation: what it is, and the best and worst surfaces', b: 'Infrared electromagnetic waves; needs no medium. Dull black: best emitter and absorber. Shiny silver or white: worst emitter and absorber, best reflector.' },
+    ]),
+    ...sub('thermal-physics', 'thermal-properties-and-temperature', '2.2', [
+      { n: 1, f: 'What happens to particles when a substance expands on heating? Which state expands most?', b: 'They move or vibrate more, so their average spacing increases; the particles do not get bigger. Gases expand most, then liquids, then solids.' },
+      { n: 2, f: 'Specific heat capacity', b: 'The energy required per unit mass per unit temperature increase. c = ΔE/(mΔθ), in J/(kg °C).' },
+      { n: 3, f: 'A heater warms 2.0 kg of water by 10 °C in 5.0 min (c = 4200 J/(kg °C)). Power, if no losses?', b: 'E = mcΔθ = 2.0 × 4200 × 10 = 84 000 J.\nP = 84 000 ÷ 300 = 280 W.' },
+      { n: 4, f: 'Latent heat', b: 'The energy transferred for a substance to change state, at constant temperature. It overcomes the forces between particles, raising their potential energy, not their kinetic energy.' },
+      { n: 5, f: 'Boiling vs evaporation', b: 'Boiling: one fixed temperature, throughout the liquid, bubbles, fast.\nEvaporation: any temperature, surface only, no bubbles, slow.' },
+      { n: 6, f: 'Why does evaporation cool a liquid, and what makes it faster?', b: 'Only the fastest particles leave the surface, so the remaining liquid has a lower average kinetic energy. Faster with higher temperature, larger surface area and moving air.' },
+    ]),
+    ...sub('thermal-physics', 'transfer-of-thermal-energy', '2.3', [
+      { n: 1, f: 'Conduction vs convection', b: 'Conduction: energy passes between neighbouring particles that stay in place (lattice vibrations; free electrons in metals). Best in solids.\nConvection: the heated fluid itself moves; warm, less dense fluid rises.' },
+      { n: 2, f: 'Thermal radiation: what it is, and the best and worst surfaces', b: 'Infrared electromagnetic waves; needs no medium. Dull black: best emitter and absorber. Shiny silver or white: worst emitter and absorber, best reflector.' },
+      { n: 3, f: 'What does the rate of emission of infrared radiation from a surface depend on?', b: 'Its surface temperature (a hotter surface emits more), its surface area (a larger area emits more), and its colour and texture (dull black emits most).' },
+      { n: 4, f: 'Explain a metal pan with a plastic handle, and a heater that warms a whole room', b: 'The metal base is a good conductor, so energy passes quickly to the food; the plastic handle is a poor conductor, so it stays cool to hold.\nThe heater warms nearby air, which becomes less dense and rises; cooler, denser air sinks to replace it, setting up a convection current.' },
+      { n: 5, f: 'How does thermal insulation in buildings reduce energy transfer?', b: 'Materials such as loft insulation, cavity-wall foam and double glazing trap air, which is a poor conductor, and stop it moving, so conduction and convection are reduced.' },
     ]),
 
     // 3 Waves
-    ...topicOnly('waves', '3', [
+    ...sub('waves', 'general-properties-of-waves', '3.1', [
       { n: 1, f: 'Transverse vs longitudinal waves, with examples', b: 'Transverse: vibration at right angles to the energy transfer (electromagnetic waves, water waves, seismic S-waves).\nLongitudinal: vibration parallel to it, with compressions and rarefactions (sound, seismic P-waves).' },
       { n: 2, f: 'Wave speed and period. Waves of 12 Hz have λ = 0.25 m: speed?', b: 'v = fλ and T = 1/f.\nv = 12 × 0.25 = 3.0 m/s.' },
       { n: 3, f: 'What happens to speed, wavelength and frequency when a wave refracts?', b: 'Speed and wavelength change; frequency stays the same. Entering a slower medium the ray bends towards the normal.' },
       { n: 4, f: 'When is diffraction through a gap greatest?', b: 'When the gap is about one wavelength wide. A much wider gap gives little spreading; a longer wavelength spreads more.' },
-      { n: 5, f: 'Plane mirror: law of reflection and the image', b: 'Angle of incidence = angle of reflection (from the normal). The image is the same size, as far behind the mirror as the object is in front, and virtual.' },
-      { n: 6, f: 'Refractive index and critical angle. Find c for glass with n = 1.5.', b: 'n = sin i / sin r (i in air). sin c = 1/n = 0.667, so c = 41.8°.' },
-      { n: 7, f: 'Two conditions for total internal reflection, and two advantages of optical fibres', b: 'Light travels from the more dense to the less dense medium, and the angle of incidence is greater than the critical angle.\nFibres carry a large amount of information and avoid electrical interference.' },
-      { n: 8, f: 'Converging lens images: object beyond 2F, between F and 2F, inside F', b: 'Beyond 2F: inverted, real, diminished.\nBetween F and 2F: inverted, real, magnified.\nInside F: upright, virtual, magnified (magnifying glass).' },
-      { n: 9, f: 'Electromagnetic spectrum order and speed', b: 'Increasing frequency: radio, microwaves, infrared, visible, ultraviolet, X-rays, gamma rays. All travel at 3.0 × 10⁸ m/s in a vacuum.' },
-      { n: 10, f: 'Which electromagnetic waves are ionising, and what harm do they do?', b: 'Ultraviolet (skin cancer, cataracts), X-rays and gamma rays (cell mutation, cancer). Microwaves and infrared cause heating of tissue and burns.' },
-      { n: 11, f: 'Sound: nature, audible range, speed in air, ultrasound', b: 'Longitudinal; cannot travel in a vacuum. Audible range 20 Hz to 20 000 Hz. Speed in air about 330–350 m/s (faster in liquids, faster still in solids). Ultrasound: above 20 kHz.' },
-      { n: 12, f: 'A sonar pulse returns after 0.40 s; sound travels at 1500 m/s in water. Depth?', b: 'distance = v × t ÷ 2 = 1500 × 0.40 ÷ 2 = 300 m. Halve because the pulse goes there and back.' },
+    ]),
+    ...sub('waves', 'light', '3.2', [
+      { n: 1, f: 'Plane mirror: law of reflection and the image', b: 'Angle of incidence = angle of reflection (from the normal). The image is the same size, as far behind the mirror as the object is in front, and virtual.' },
+      { n: 2, f: 'Refractive index and critical angle. Find c for glass with n = 1.5.', b: 'n = sin i / sin r (i in air). sin c = 1/n = 0.667, so c = 41.8°.' },
+      { n: 3, f: 'Two conditions for total internal reflection, and two advantages of optical fibres', b: 'Light travels from the more dense to the less dense medium, and the angle of incidence is greater than the critical angle.\nFibres carry a large amount of information and avoid electrical interference.' },
+      { n: 4, f: 'Converging lens images: object beyond 2F, between F and 2F, inside F', b: 'Beyond 2F: inverted, real, diminished.\nBetween F and 2F: inverted, real, magnified.\nInside F: upright, virtual, magnified (magnifying glass).' },
+    ]),
+    ...sub('waves', 'electromagnetic-spectrum', '3.3', [
+      { n: 1, f: 'Electromagnetic spectrum order and speed', b: 'Increasing frequency: radio, microwaves, infrared, visible, ultraviolet, X-rays, gamma rays. All travel at 3.0 × 10⁸ m/s in a vacuum.' },
+      { n: 2, f: 'Which electromagnetic waves are ionising, and what harm do they do?', b: 'Ultraviolet (skin cancer, cataracts), X-rays and gamma rays (cell mutation, cancer). Microwaves and infrared cause heating of tissue and burns.' },
+      { n: 3, f: 'Uses of radio waves, microwaves and infrared', b: 'Radio: radio and television communications, astronomy.\nMicrowaves: satellite television, mobile phones, Bluetooth, microwave ovens.\nInfrared: remote controllers, intruder alarms, thermal imaging, optical fibres, household appliances such as toasters.' },
+      { n: 4, f: 'Uses of visible light, ultraviolet, X-rays and gamma rays', b: 'Visible: vision and photography.\nUltraviolet: security marking, detecting forged bank notes, sterilising water.\nX-rays: medical imaging, security scanners, detecting cracks in metal.\nGamma: killing cancer cells, sterilising food and medical equipment.' },
+    ]),
+    ...sub('waves', 'sound', '3.4', [
+      { n: 1, f: 'Sound: nature, audible range, speed in air, ultrasound', b: 'Longitudinal; cannot travel in a vacuum. Audible range 20 Hz to 20 000 Hz. Speed in air about 330–350 m/s (faster in liquids, faster still in solids). Ultrasound: above 20 kHz.' },
+      { n: 2, f: 'A sonar pulse returns after 0.40 s; sound travels at 1500 m/s in water. Depth?', b: 'distance = v × t ÷ 2 = 1500 × 0.40 ÷ 2 = 300 m. Halve because the pulse goes there and back.' },
+      { n: 3, f: 'How do amplitude and frequency affect a sound?', b: 'A larger amplitude gives a louder sound. A higher frequency gives a higher pitch.' },
+      { n: 4, f: 'Why can sound not travel through a vacuum, and how is this shown?', b: 'Sound is passed on by vibrating particles, and a vacuum has none. A ringing electric bell in a jar goes quiet as the air is pumped out, although the bell can still be seen vibrating.' },
+      { n: 5, f: 'A student stands 85 m from a wall and hears the echo of a clap 0.50 s later. Speed of sound?', b: 'The sound travels to the wall and back: 2 × 85 = 170 m. v = 170 ÷ 0.50 = 340 m/s.' },
     ]),
 
     // 4 Electricity and magnetism
-    ...topicOnly('electricity-and-magnetism', '4', [
+    ...sub('electricity-and-magnetism', 'simple-magnetism-and-magnetic-fields', '4.1', [
       { n: 1, f: 'Magnets: the test for a magnet, soft iron vs steel, and field direction', b: 'Only repulsion proves a magnet. Soft iron: temporary magnet (easily magnetised and demagnetised); steel: permanent. Field direction = force on an N pole; lines run N to S outside the magnet.' },
-      { n: 2, f: 'Charging by friction', b: 'Only electrons move. The object that gains electrons becomes negative; the one that loses them becomes positive. Like charges repel; unlike attract.' },
-      { n: 3, f: 'Current and charge. 540 C passes a point in 30 minutes: current?', b: 'I = Q/t. t = 1800 s, so I = 540 ÷ 1800 = 0.30 A.' },
-      { n: 4, f: 'e.m.f. vs p.d.', b: 'e.m.f.: work done by a source per unit charge, E = W/Q.\np.d.: work done by unit charge passing through a component, V = W/Q. Both in volts (J/C).' },
-      { n: 5, f: 'Ohm\'s law and the I–V graphs of a resistor, a filament lamp and a diode', b: 'Current is proportional to p.d. at constant temperature (resistor: straight line through origin). Filament lamp: curve flattening (hot filament, higher R). Diode: conducts one way only.' },
-      { n: 6, f: 'Combined resistance of 6.0 Ω and 12 Ω in parallel, and in series', b: 'Parallel: R = (R₁ × R₂) ÷ (R₁ + R₂) = 72 ÷ 18 = 4.0 Ω.\nSeries: 6.0 + 12 = 18 Ω.' },
-      { n: 7, f: 'A thermistor in series with a fixed resistor warms up. What happens to the p.d.s?', b: 'The thermistor\'s resistance falls, so its p.d. falls and the fixed resistor\'s p.d. rises. (The larger resistance takes the larger share.)' },
-      { n: 8, f: 'Where do the fuse and switch go, and why is a metal case earthed?', b: 'Both in the live wire, so the appliance is disconnected from the live supply when off or after a fault. If live touches an earthed case, a large current flows to earth and the fuse melts.' },
-      { n: 9, f: 'A 2.4 kW heater runs for 3.0 h at 15 cents per kW h. Cost?', b: 'Energy = 2.4 kW × 3.0 h = 7.2 kW h. Cost = 7.2 × 15 = 108 cents.' },
-      { n: 10, f: 'Electromagnetic induction and Lenz\'s law', b: 'An e.m.f. is induced when a magnet and coil move relative to each other; larger with faster cutting of field lines and more turns. Lenz\'s law: the induced current opposes the change that causes it.' },
-      { n: 11, f: 'Fleming\'s left-hand rule, and how to increase a motor\'s turning effect', b: 'First finger = field, second finger = current, thumb = force. More turns, a larger current or a stronger field increase the turning effect.' },
-      { n: 12, f: 'Transformer: 2300 primary turns on 230 V, 150 secondary turns. Output p.d.?', b: 'Vp/Vs = Np/Ns, so Vs = 230 × 150 ÷ 2300 = 15 V (step-down). Transformers need a.c.' },
+      { n: 2, f: 'Induced magnetism', b: 'A magnetic material (iron, steel, nickel, cobalt) placed near a magnet becomes a magnet itself, with the end nearest the magnet an opposite pole, so it is attracted.' },
+      { n: 3, f: 'How are magnetic field lines plotted, and what does their spacing show?', b: 'With a plotting compass (its N end points along the field direction) or with iron filings. Lines closer together show a stronger field, so the field is strongest near the poles.' },
+      { n: 4, f: 'Uses of permanent magnets and electromagnets', b: 'Permanent: compasses, loudspeakers, motors, fridge door seals.\nElectromagnets (can be switched off and their strength changed): relays, electric bells, scrapyard cranes.' },
+    ]),
+    ...sub('electricity-and-magnetism', 'electrical-quantities', '4.2', [
+      { n: 1, f: 'Charging by friction', b: 'Only electrons move. The object that gains electrons becomes negative; the one that loses them becomes positive. Like charges repel; unlike attract.' },
+      { n: 2, f: 'Current and charge. 540 C passes a point in 30 minutes: current?', b: 'I = Q/t. t = 1800 s, so I = 540 ÷ 1800 = 0.30 A.' },
+      { n: 3, f: 'e.m.f. vs p.d.', b: 'e.m.f.: work done by a source per unit charge, E = W/Q.\np.d.: work done by unit charge passing through a component, V = W/Q. Both in volts (J/C).' },
+      { n: 4, f: 'Ohm\'s law and the I–V graphs of a resistor, a filament lamp and a diode', b: 'Current is proportional to p.d. at constant temperature (resistor: straight line through origin). Filament lamp: curve flattening (hot filament, higher R). Diode: conducts one way only.' },
+    ]),
+    ...sub('electricity-and-magnetism', 'electric-circuits', '4.3', [
+      { n: 1, f: 'Combined resistance of 6.0 Ω and 12 Ω in parallel, and in series', b: 'Parallel: R = (R₁ × R₂) ÷ (R₁ + R₂) = 72 ÷ 18 = 4.0 Ω.\nSeries: 6.0 + 12 = 18 Ω.' },
+      { n: 2, f: 'A thermistor in series with a fixed resistor warms up. What happens to the p.d.s?', b: 'The thermistor\'s resistance falls, so its p.d. falls and the fixed resistor\'s p.d. rises. (The larger resistance takes the larger share.)' },
+      { n: 3, f: 'Current and p.d. rules for series and parallel circuits', b: 'Series: the current is the same everywhere; the p.d.s across the components add up to the supply p.d.\nParallel: the currents into a junction equal the currents out; each branch has the same p.d.' },
+      { n: 4, f: 'A 2.0 kΩ and a 3.0 kΩ resistor form a potential divider across 10 V. Find the p.d. across each.', b: 'The p.d. divides in the ratio of the resistances (R₁/R₂ = V₁/V₂): 2.0 kΩ gets 10 × 2/5 = 4.0 V and 3.0 kΩ gets 6.0 V.' },
+      { n: 5, f: 'How does a light-dependent resistor (LDR) act as a sensor?', b: 'Its resistance falls as the light gets brighter. In a potential divider its share of the p.d. changes with light level, which can switch a circuit, such as a lamp that comes on when it gets dark.' },
+    ]),
+    ...sub('electricity-and-magnetism', 'practical-electricity', '4.4', [
+      { n: 1, f: 'Where do the fuse and switch go, and why is a metal case earthed?', b: 'Both in the live wire, so the appliance is disconnected from the live supply when off or after a fault. If live touches an earthed case, a large current flows to earth and the fuse melts.' },
+      { n: 2, f: 'A 2.4 kW heater runs for 3.0 h at 15 cents per kW h. Cost?', b: 'Energy = 2.4 kW × 3.0 h = 7.2 kW h. Cost = 7.2 × 15 = 108 cents.' },
+      { n: 3, f: 'A kettle takes 10 A from a 230 V supply for 2.0 minutes. Power and energy?', b: 'P = IV = 10 × 230 = 2300 W.\nE = IVt = 10 × 230 × 120 = 276 000 J.' },
+      { n: 4, f: 'Hazards of using mains electricity', b: 'Damaged insulation, overheating cables, damp conditions, and excess current from overloading plugs, extension leads and sockets.' },
+      { n: 5, f: 'Advantages of connecting lamps in parallel in a lighting circuit', b: 'Each lamp gets the full supply p.d., each can be switched on and off independently, and if one fails the others stay lit.' },
+    ]),
+    ...sub('electricity-and-magnetism', 'electromagnetic-effects', '4.5', [
+      { n: 1, f: 'Electromagnetic induction and Lenz\'s law', b: 'An e.m.f. is induced when a magnet and coil move relative to each other; larger with faster cutting of field lines and more turns. Lenz\'s law: the induced current opposes the change that causes it.' },
+      { n: 2, f: 'Fleming\'s left-hand rule, and how to increase a motor\'s turning effect', b: 'First finger = field, second finger = current, thumb = force. More turns, a larger current or a stronger field increase the turning effect.' },
+      { n: 3, f: 'Transformer: 2300 primary turns on 230 V, 150 secondary turns. Output p.d.?', b: 'Vp/Vs = Np/Ns, so Vs = 230 × 150 ÷ 2300 = 15 V (step-down). Transformers need a.c.' },
+      { n: 4, f: 'The a.c. generator: slip rings, and coil position against e.m.f.', b: 'A coil rotates in a magnetic field; slip rings and brushes connect it to the circuit. The e.m.f. is a peak or trough when the coil is parallel to the field and zero when it is perpendicular. Faster rotation gives higher peaks and a shorter period.' },
+      { n: 5, f: 'How do a relay and a loudspeaker use the magnetic effect of a current?', b: 'Relay: a small current in an electromagnet closes a switch in a separate high-current circuit. Loudspeaker: a varying current in a coil in a permanent magnet\'s field makes the coil and cone vibrate.' },
+      { n: 6, f: 'Why is electricity transmitted at high voltage?', b: 'For the same power, a higher voltage means a smaller current, so less power is lost heating the cables (and thinner cables can be used).' },
+    ]),
+    ...sub('electricity-and-magnetism', 'uses-of-an-oscilloscope', '4.6', [
+      { n: 1, f: 'What does an oscilloscope show, and what do the Y-gain and timebase set?', b: 'It displays a waveform as a trace. The Y-gain sets the p.d. per vertical division; the timebase sets the time per horizontal division.' },
+      { n: 2, f: 'Y-gain 5.0 V/div, timebase 2.0 ms/div. The peak is 2.4 divisions above the centre and one cycle spans 5.0 divisions. Find the peak p.d., period and frequency.', b: 'Peak p.d. = 2.4 × 5.0 = 12 V.\nPeriod = 5.0 × 2.0 = 10 ms = 0.010 s.\nFrequency = 1 ÷ 0.010 = 100 Hz.' },
+      { n: 3, f: 'On an oscilloscope trace, what shows a louder note and what shows a higher note?', b: 'Louder: a taller trace (larger amplitude). Higher pitch: more complete waves across the screen (shorter period, higher frequency).' },
     ]),
 
     // 5 Nuclear physics
-    ...topicOnly('nuclear-physics', '5', [
+    ...sub('nuclear-physics', 'the-nuclear-model-of-the-atom', '5.1', [
       { n: 1, f: 'Proton number, nucleon number and isotopes', b: 'Z = number of protons; A = protons + neutrons; neutrons = A − Z.\nIsotopes: same element (same Z), different A, so different numbers of neutrons.' },
       { n: 2, f: 'Alpha scattering: what each observation shows', b: 'Most pass straight through: mostly empty space.\nA few deflect a lot: a small, positive nucleus holding most of the mass.\nA very few bounce back: repelled by a heavy, positive nucleus.' },
-      { n: 3, f: 'Alpha, beta and gamma: nature and penetration', b: 'α: helium nucleus (2p + 2n), stopped by paper or a few cm of air.\nβ: electron from the nucleus, stopped by a few mm of aluminium.\nγ: very high frequency EM wave, reduced by thick lead or concrete.' },
-      { n: 4, f: 'Ionising power, and deflection in an electric field', b: 'Ionising: α strongest, β medium, γ weakest (the reverse of penetrating power).\nElectric field: α bends slightly to the negative plate, β bends a lot to the positive plate, γ is not deflected.' },
-      { n: 5, f: 'Background radiation sources, and corrected count rate', b: 'Cosmic rays, radon gas, rocks and buildings, food and drink.\nCorrected count rate = count rate with the source − background count rate.' },
-      { n: 6, f: 'Changes in A and Z for α, β and γ emission', b: 'α: A − 4, Z − 2.\nβ: A unchanged, Z + 1.\nγ: no change.\ne.g. ²¹⁰₈₄Po → ²⁰⁶₈₂Pb + ⁴₂He.' },
-      { n: 7, f: 'Half-life. 720 counts/min, half-life 5 min: count rate after 20 min?', b: 'The time for half the nuclei of an isotope in any sample to decay (decay is random).\n20 ÷ 5 = 4 half-lives: 720 ÷ 16 = 45 counts/min.' },
-      { n: 8, f: 'Fission of uranium-235, and a chain reaction', b: 'U-235 absorbs a neutron and splits into two daughter nuclei, releasing energy and two or more neutrons. In a chain reaction these neutrons cause further fissions.' },
-      { n: 9, f: 'Jobs of the moderator, control rods and coolant in a reactor', b: 'Moderator: slows neutrons so they can be absorbed.\nControl rods: absorb neutrons (in to reduce power).\nCoolant: carries thermal energy out of the core to make steam.' },
-      { n: 10, f: 'Carbon-14 dating: a sample has one quarter of the activity of living material. Age? (half-life 5730 years)', b: 'One quarter = two half-lives, so 2 × 5730 = 11 460 years. Living things keep a constant proportion of carbon-14; after death intake stops and it decays.' },
-      { n: 11, f: 'Radiation for a smoke alarm, thin-sheet thickness control and a medical tracer', b: 'Smoke alarm: alpha (ionises air, easily stopped; long half-life).\nThin sheet: beta (partly absorbed).\nTracer: gamma (detected outside the body) with a short half-life.' },
-      { n: 12, f: 'Effects of ionising radiation, and the three ways to reduce exposure', b: 'Cell death, mutations, cancer.\nReduce exposure time, increase distance (use tongs), use shielding (lead-lined containers).' },
+      { n: 3, f: 'Structure of the atom', b: 'A small, positively charged nucleus of protons (positive) and neutrons (no charge), with negatively charged electrons in orbit around it.' },
+      { n: 4, f: 'How do atoms form ions?', b: 'A positive ion forms when an atom loses electrons; a negative ion forms when it gains electrons. The nucleus does not change.' },
+      { n: 5, f: 'A nuclide is written ²³⁵₉₂U. How many protons, neutrons and nucleons?', b: 'Proton number Z = 92 and nucleon number A = 235, so neutrons = 235 − 92 = 143 and there are 235 nucleons.' },
+    ]),
+    ...sub('nuclear-physics', 'radioactivity', '5.2', [
+      { n: 1, f: 'Alpha, beta and gamma: nature and penetration', b: 'α: helium nucleus (2p + 2n), stopped by paper or a few cm of air.\nβ: electron from the nucleus, stopped by a few mm of aluminium.\nγ: very high frequency EM wave, reduced by thick lead or concrete.' },
+      { n: 2, f: 'Ionising power, and deflection in an electric field', b: 'Ionising: α strongest, β medium, γ weakest (the reverse of penetrating power).\nElectric field: α bends slightly to the negative plate, β bends a lot to the positive plate, γ is not deflected.' },
+      { n: 3, f: 'Background radiation sources, and corrected count rate', b: 'Cosmic rays, radon gas, rocks and buildings, food and drink.\nCorrected count rate = count rate with the source − background count rate.' },
+      { n: 4, f: 'Changes in A and Z for α, β and γ emission', b: 'α: A − 4, Z − 2.\nβ: A unchanged, Z + 1.\nγ: no change.\ne.g. ²¹⁰₈₄Po → ²⁰⁶₈₂Pb + ⁴₂He.' },
+      { n: 5, f: 'Half-life. 720 counts/min, half-life 5 min: count rate after 20 min?', b: 'The time for half the nuclei of an isotope in any sample to decay (decay is random).\n20 ÷ 5 = 4 half-lives: 720 ÷ 16 = 45 counts/min.' },
+      { n: 6, f: 'Fission of uranium-235, and a chain reaction', b: 'U-235 absorbs a neutron and splits into two daughter nuclei, releasing energy and two or more neutrons. In a chain reaction these neutrons cause further fissions.' },
+      { n: 7, f: 'Jobs of the moderator, control rods and coolant in a reactor', b: 'Moderator: slows neutrons so they can be absorbed.\nControl rods: absorb neutrons (in to reduce power).\nCoolant: carries thermal energy out of the core to make steam.' },
+      { n: 8, f: 'Carbon-14 dating: a sample has one quarter of the activity of living material. Age? (half-life 5730 years)', b: 'One quarter = two half-lives, so 2 × 5730 = 11 460 years. Living things keep a constant proportion of carbon-14; after death intake stops and it decays.' },
+      { n: 9, f: 'Radiation for a smoke alarm, thin-sheet thickness control and a medical tracer', b: 'Smoke alarm: alpha (ionises air, easily stopped; long half-life).\nThin sheet: beta (partly absorbed).\nTracer: gamma (detected outside the body) with a short half-life.' },
+      { n: 10, f: 'Effects of ionising radiation, and the three ways to reduce exposure', b: 'Cell death, mutations, cancer.\nReduce exposure time, increase distance (use tongs), use shielding (lead-lined containers).' },
     ]),
 
     // 6 Space physics
-    ...topicOnly('space-physics', '6', [
+    ...sub('space-physics', 'earth-and-the-solar-system', '6.1', [
       { n: 1, f: 'Earth and Moon: rotation, orbit periods, and Sun–Earth light time', b: 'Earth rotates once in about 24 hours and orbits the Sun in about 365 days (an ellipse, nearly circular). The Moon orbits the Earth in about one month. Sunlight takes about 500 s to reach us.' },
       { n: 2, f: 'Average orbital speed equation', b: 'v = 2πr/T, where r is the average orbit radius and T the orbital period (in seconds). Rearranged: r = vT/2π, T = 2πr/v.' },
       { n: 3, f: 'A body orbits at r = 2.0 × 10⁸ km in 300 days. Average orbital speed?', b: 'T = 300 × 24 × 3600 = 2.59 × 10⁷ s.\nv = 2π × 2.0 × 10⁸ ÷ 2.59 × 10⁷ = 48 km/s.' },
       { n: 4, f: 'Members of the Solar System, and the planets in order', b: 'The Sun, eight planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune), minor planets (dwarf planets such as Pluto, asteroids), moons, and smaller bodies such as comets.' },
       { n: 5, f: 'What does gravitational field strength depend on in the Solar System?', b: 'At a planet\'s surface: the planet\'s mass. Around a planet: it decreases with distance. The Sun\'s surface field is greater than any planet\'s.' },
       { n: 6, f: 'What keeps planets in orbit, and how does orbital speed change with distance from the Sun?', b: 'The gravitational attraction of the Sun, acting towards the Sun. Further from the Sun its field is weaker and the orbital speed is lower.' },
-      { n: 7, f: 'The Sun as a star', b: 'A medium-sized star, mostly hydrogen and helium. Radiates most energy as infrared, visible and ultraviolet. Powered by fusion of hydrogen into helium.' },
-      { n: 8, f: 'Galaxy, Milky Way and light-year', b: 'A galaxy is many billions of stars; the Milky Way contains the Sun and is about 100 000 light-years across. A light-year is the distance light travels in a vacuum in one year (a distance, not a time).' },
-      { n: 9, f: 'How does a protostar become a stable star?', b: 'The protostar collapses and warms under its own gravity. It is stable when the inward gravitational force is balanced by an outward force from the high temperature at its centre.' },
-      { n: 10, f: 'End points of less massive and more massive stars', b: 'Less massive: red giant → planetary nebula and white dwarf.\nMore massive: red supergiant → supernova → nebula with heavier elements, leaving a neutron star or black hole.' },
-      { n: 11, f: 'Redshift. Galaxy X has a larger redshift than galaxy Y: compare them.', b: 'Redshift: an increase in the observed wavelength of radiation from receding galaxies. X is further away and moving away faster than Y.' },
-      { n: 12, f: 'How does redshift support the Big Bang?', b: 'Light from distant galaxies is redshifted, so they are receding and the Universe is expanding. Reversing the expansion, everything started close together.' },
+    ]),
+    ...sub('space-physics', 'stars-and-the-universe', '6.2', [
+      { n: 1, f: 'The Sun as a star', b: 'A medium-sized star, mostly hydrogen and helium. Radiates most energy as infrared, visible and ultraviolet. Powered by fusion of hydrogen into helium.' },
+      { n: 2, f: 'Galaxy, Milky Way and light-year', b: 'A galaxy is many billions of stars; the Milky Way contains the Sun and is about 100 000 light-years across. A light-year is the distance light travels in a vacuum in one year (a distance, not a time).' },
+      { n: 3, f: 'How does a protostar become a stable star?', b: 'The protostar collapses and warms under its own gravity. It is stable when the inward gravitational force is balanced by an outward force from the high temperature at its centre.' },
+      { n: 4, f: 'End points of less massive and more massive stars', b: 'Less massive: red giant → planetary nebula and white dwarf.\nMore massive: red supergiant → supernova → nebula with heavier elements, leaving a neutron star or black hole.' },
+      { n: 5, f: 'Redshift. Galaxy X has a larger redshift than galaxy Y: compare them.', b: 'Redshift: an increase in the observed wavelength of radiation from receding galaxies. X is further away and moving away faster than Y.' },
+      { n: 6, f: 'How does redshift support the Big Bang?', b: 'Light from distant galaxies is redshifted, so they are receding and the Universe is expanding. Reversing the expansion, everything started close together.' },
     ]),
   ],
 };

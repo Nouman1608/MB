@@ -13,6 +13,10 @@ order: 203
 syllabusTopics:
   - qualification: "gcse"
     topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "supply-side-policies-ocr-gcse-economics"
+  - qualification: "gcse"
+    topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "limitations-of-markets-ocr-gcse-economics"
 description: "Condensed revision notes on supply side policy, externalities and government correction, with a self-test, for OCR GCSE (9-1) Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

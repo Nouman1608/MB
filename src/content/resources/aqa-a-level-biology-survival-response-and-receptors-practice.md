@@ -14,6 +14,9 @@ order: 164
 syllabusTopics:
   - qualification: "a-level"
     topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+    subtopic: "stimuli-are-detected-and-lead-to-a-response-aqa-alevel-biology"
 description: "Original practice questions with worked answers on IAA, taxes, kineses, reflexes, the Pacinian corpuscle and retina for AQA A-level Biology 7402 3.6.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

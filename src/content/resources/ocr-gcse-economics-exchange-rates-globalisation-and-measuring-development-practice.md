@@ -13,6 +13,10 @@ order: 205
 syllabusTopics:
   - qualification: "gcse"
     topic: "international-trade-and-the-global-economy-ocr-gcse-economics"
+    subtopic: "exchange-rates-ocr-gcse-economics"
+  - qualification: "gcse"
+    topic: "international-trade-and-the-global-economy-ocr-gcse-economics"
+    subtopic: "globalisation-ocr-gcse-economics"
 description: "Original OCR GCSE Economics J205 practice questions with worked answers on exchange rates, currency conversion, globalisation and development."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

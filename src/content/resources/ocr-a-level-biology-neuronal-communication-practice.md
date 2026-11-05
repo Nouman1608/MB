@@ -13,6 +13,9 @@ order: 221
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "neuronal-communication-ocr-alevel-biology"
 description: "Original practice questions with full worked answers on receptors, neurones, action potentials, myelination and synapses for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

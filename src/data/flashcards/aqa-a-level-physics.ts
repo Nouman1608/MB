@@ -275,7 +275,7 @@ export const DECK_AQA_A_LEVEL_PHYSICS: FlashcardDeck = {
       { n: 8, f: 'Type 1a supernova', b: 'Always the same peak absolute magnitude, so it is a standard candle; quick rise, slow fall. Faint distant ones suggest the Universe\'s expansion is accelerating (dark energy, controversial).', src: AST },
     ]),
     ...sub('astrophysics-aqa-alevel', 'cosmology-aqa-alevel', '3.9.3', [
-      { n: 1, f: 'Red shift and recession speed', b: 'A receding source is red shifted, z positive. z = Δλ/λ = v/c, for v ≪ c. Applies to optical and radio frequencies.', src: AST },
+      { n: 1, f: 'Red shift and recession speed', b: 'z = Δλ/λ = −v/c for v ≪ c, with v positive for approach. A receding source has negative v, so λ increases (red shift), z is positive and the recession speed is zc. Applies to optical and radio frequencies.', src: AST },
       { n: 2, f: 'Hubble\'s law and the age of the Universe', b: 'v = Hd. The Universe is expanding; if H has been constant, its age ≈ 1/H (H in s⁻¹).', src: AST },
       { n: 3, f: 'H = 70 km s⁻¹ Mpc⁻¹ (1 Mpc = 3.08 × 10²² m). Estimate the age of the Universe.', b: 'H = 70 × 10³ ÷ 3.08 × 10²² = 2.27 × 10⁻¹⁸ s⁻¹.\n1/H = 4.4 × 10¹⁷ s ≈ 1.4 × 10¹⁰ years.' },
       { n: 4, f: 'Two pieces of evidence for the Big Bang (besides Hubble\'s law)', b: 'The cosmic microwave background (about 2.7 K, nearly uniform in all directions), and the relative abundance of hydrogen and helium (about 3 : 1 by mass).', src: AST },

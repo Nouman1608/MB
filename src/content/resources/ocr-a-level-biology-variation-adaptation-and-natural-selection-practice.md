@@ -13,6 +13,9 @@ order: 218
 syllabusTopics:
   - qualification: "a-level"
     topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+    subtopic: "classification-and-evolution-ocr-alevel-biology"
 description: "Original practice questions with worked answers on evolution evidence, variation, adaptation, selection and resistance for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

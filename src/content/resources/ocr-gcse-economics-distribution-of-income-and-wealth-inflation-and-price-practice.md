@@ -13,6 +13,10 @@ order: 201
 syllabusTopics:
   - qualification: "gcse"
     topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "fair-distribution-of-income-ocr-gcse-economics"
+  - qualification: "gcse"
+    topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "price-stability-ocr-gcse-economics"
 description: "Original practice questions with worked answers on income, wealth, CPI, real values and inflation for OCR GCSE (9-1) Economics sections 3.3 and 3.4."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

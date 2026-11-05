@@ -14,6 +14,9 @@ order: 156
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "genetic-diversity-mutation-and-meiosis-aqa-alevel-biology"
 description: "Condensed revision notes on gene mutation, non-disjunction, meiosis, life cycles and 2ⁿ calculations for AQA A-level Biology 7402 section 3.4.3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

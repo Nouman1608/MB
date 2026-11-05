@@ -14,6 +14,9 @@ order: 165
 syllabusTopics:
   - qualification: "a-level"
     topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+    subtopic: "nervous-coordination-aqa-alevel-biology"
 description: "Twelve original practice questions with worked answers on action potentials, conduction speed, synapses, summation and drugs for AQA A-level Biology."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

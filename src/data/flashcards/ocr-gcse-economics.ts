@@ -2,10 +2,11 @@
  * D-438 -- flashcards for OCR GCSE (9-1) Economics J205
  * (Version 2.0, June 2026, for first assessment in 2019).
  *
- * One block per subtopic, in specification order. Topics 3 and 4 itemise no
- * subtopics in syllabus-topics.ts, so their cards sit on the topic itself
- * (ids `<topic number>-<n>`, via topicOnly). Card ids are permanent (browser
- * progress is keyed by them): add a new card with the next unused n, never renumber.
+ * One block per subtopic, in specification order. Card ids are `<subtopic number>-<n>`
+ * and are permanent (browser progress is keyed by them): add a new card with the
+ * next unused n, never renumber. Topics 3 and 4 were itemised into 3.1-3.8 and
+ * 4.1-4.4 on 2026-11-05; their former topic-level cards (3-n, 4-n) moved to the
+ * matching subtopic and took new ids there.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs J205); origin 'revision-notes'.
@@ -23,17 +24,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     id: `${number}-${n}`,
     topic,
     subtopic,
-    front: f,
-    back: b,
-    ...(u ? { tier: 'upper' as const } : {}),
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, u, src }) => ({
-    id: `${number}-${n}`,
-    topic,
     front: f,
     back: b,
     ...(u ? { tier: 'upper' as const } : {}),
@@ -188,36 +178,101 @@ export const DECK_OCR_GCSE_ECONOMICS: FlashcardDeck = {
       { n: 10, f: 'Insurance versus saving', b: 'Insurance pays out only if a loss happens; savings are yours to withdraw. A bank and a building society both take deposits and lend, but a building society is owned by its members.' },
     ]),
 
-    // 3 Economic objectives and the role of government (no itemised subtopics)
-    ...topicOnly(GOVT, '3', [
+    // 3 Economic objectives and the role of government
+    ...sub(GOVT, 'economic-growth-ocr-gcse-economics', '3.1', [
       { n: 1, f: 'Economic growth and GDP', b: 'Economic growth: a rise in an economy\'s production over time, shown by a rise in real GDP.\nGDP: the money value of all final output made inside a country\'s borders in a set period, usually a year.', src: GROW },
       { n: 2, f: 'GDP rises from 2,000 to 2,090 billion while population rises from 40 to 41.2 million. Find growth and the change in GDP per capita.', b: 'Growth = 90 ÷ 2,000 × 100 = 4.5%.\nGDP per capita: 50,000 → 50,728, a rise of only about 1.5%, because population grew 3%.' },
-      { n: 3, f: 'Unemployment, labour force and the unemployment rate', b: 'Unemployment: having no job but being available for and looking for work. Labour force = employed + unemployed. Rate = unemployed ÷ labour force × 100: 1.2 million out of 20.0 million is 6.0%.' },
-      { n: 4, f: 'Four types of unemployment, each with its cause', b: 'Cyclical: weak total demand in a downturn.\nFrictional: moving between jobs.\nSeasonal: time-of-year demand.\nStructural: skills or location mismatch, often after an industry declines (often long-lasting).' },
-      { n: 5, f: 'Claimant Count: one strength and one limit', b: 'It counts people claiming unemployment-related benefits. It is quick and available by area, but it misses people who do not claim and changes when benefit rules change.' },
-      { n: 6, f: 'Income versus wealth', b: 'Income is money received over a period (a flow). Wealth is the value of assets owned less liabilities owed, at a moment (a stock).', src: DIST },
-      { n: 7, f: 'Inflation, deflation and the CPI', b: 'Inflation: a continuing rise in the average level of prices. Deflation: a sustained fall in it. CPI: a weighted index of a typical household\'s spending. Falling inflation means prices rise more slowly, not that they fall.', src: DIST },
-      { n: 8, f: 'Pay rises from £2,500 to £2,650 while the price index rises from 100 to 112. What happens to real pay?', b: 'Real pay = 2,650 ÷ 112 × 100 = £2,366, a real fall of about 5.4% against £2,500. Nominal pay rose 6%, but real pay fell.' },
-      { n: 9, f: 'Demand-pull, cost-push and imported inflation', b: 'Demand-pull: spending grows faster than output.\nCost-push: higher wages, raw materials, energy or indirect taxes passed on in prices.\nImported: a weaker currency makes imports dearer.' },
-      { n: 10, f: 'Fiscal policy versus monetary policy', b: 'Fiscal: the government changes its spending and taxes. Monetary: the central bank (the Bank of England in the UK) uses interest rates. Fiscal acts on disposable income and public services; monetary acts on the cost of borrowing and reward for saving.' },
-      { n: 11, f: 'Supply side policy, with examples', b: 'Government action to raise the economy\'s productive capacity: education and training, infrastructure, support for research, lower taxes on work or profits, less red tape and more competition. It suits long-run goals but works too slowly alone for a short-run problem.', src: SSP },
-      { n: 12, f: 'Negative and positive externalities: market output and the usual policy fix', b: 'Negative (pollution, congestion): market output too high; tax, regulation or information.\nPositive (education, vaccination): market output too low; subsidy, state provision or information. Markets ignore effects on third parties.' },
+      { n: 3, f: 'The determinants of economic growth named in J205', b: 'Investment (more capital per worker), changes in technology, the size of the workforce, education and training, the availability of natural resources, and government policies such as infrastructure and tax incentives.' },
+      { n: 4, f: 'Real GDP versus nominal GDP: which one measures growth?', b: 'Real GDP, because it removes the effect of price changes. Nominal GDP can rise just because prices rose, with no extra output.' },
+      { n: 5, f: 'Costs and benefits of economic growth', b: 'Economic: higher incomes, more jobs and tax revenue, but a risk of inflation and uneven gains.\nSocial: better health, education and housing, but inequality and congestion.\nEnvironmental: money for clean technology, but pollution and resource depletion.' },
+      { n: 6, f: 'Sustainable growth', b: 'Growth that serves people today while leaving later generations able to meet their own needs.', src: GROW },
+    ]),
+    ...sub(GOVT, 'low-unemployment-ocr-gcse-economics', '3.2', [
+      { n: 1, f: 'Unemployment, labour force and the unemployment rate', b: 'Unemployment: having no job but being available for and looking for work. Labour force = employed + unemployed. Rate = unemployed ÷ labour force × 100: 1.2 million out of 20.0 million is 6.0%.' },
+      { n: 2, f: 'Four types of unemployment, each with its cause', b: 'Cyclical: weak total demand in a downturn.\nFrictional: moving between jobs.\nSeasonal: time-of-year demand.\nStructural: skills or location mismatch, often after an industry declines (often long-lasting).' },
+      { n: 3, f: 'Claimant Count: one strength and one limit', b: 'It counts people claiming unemployment-related benefits. It is quick and available by area, but it misses people who do not claim and changes when benefit rules change.' },
+      { n: 4, f: 'Consequences of unemployment for individuals, regions and the government', b: 'Individuals: lower income, debt, lost skills, poorer health and confidence.\nRegions: less local spending, shop closures, people moving away.\nGovernment: more benefit spending and lower tax receipts, with an opportunity cost.' },
+      { n: 5, f: 'The unemployment rate rises from 3.6% to 4.4%. Describe the change correctly.', b: 'It rose by 0.8 percentage points (4.4 − 3.6). As a percentage of the old rate that is 0.8 ÷ 3.6 × 100 ≈ 22.2%. Say which measure you are using.' },
+    ]),
+    ...sub(GOVT, 'fair-distribution-of-income-ocr-gcse-economics', '3.3', [
+      { n: 1, f: 'Income versus wealth', b: 'Income is money received over a period (a flow). Wealth is the value of assets owned less liabilities owed, at a moment (a stock).', src: DIST },
+      { n: 2, f: 'The main types of income and their sources', b: 'Wages and salaries (labour), interest (savings and lending), rent (land and property), profit and dividends (enterprise and shares), and benefits and pensions (government transfers).' },
+      { n: 3, f: 'A household owns a house worth 200,000 and savings of 12,000. It owes 120,000 on a mortgage and 6,000 on a loan. Find its net wealth.', b: 'Net wealth = total assets − total liabilities = 212,000 − 126,000 = 86,000.' },
+      { n: 4, f: 'Causes of differences in the distribution of income and wealth', b: 'Education, skills and training; occupation and sector pay; unemployment and part-time hours; owning property and shares; inheritance; age, region and discrimination; and taxes, benefits and the minimum wage.' },
+      { n: 5, f: 'Consequences of a very unequal distribution of income', b: 'Poverty (poorer housing, health and education), weaker spending because poorer households spend most of any extra income, more benefits paid and less tax collected, and social tension. Some gap rewards skill and effort.' },
+      { n: 6, f: 'The richest fifth of households receive 44% of income and the poorest fifth 6%. Compare them.', b: 'The groups are the same size, so the richest fifth receive 44 ÷ 6 ≈ 7.3 times as much income per household as the poorest fifth.' },
+    ]),
+    ...sub(GOVT, 'price-stability-ocr-gcse-economics', '3.4', [
+      { n: 1, f: 'Inflation, deflation and the CPI', b: 'Inflation: a continuing rise in the average level of prices. Deflation: a sustained fall in it. CPI: a weighted index of a typical household\'s spending. Falling inflation means prices rise more slowly, not that they fall.', src: DIST },
+      { n: 2, f: 'Pay rises from £2,500 to £2,650 while the price index rises from 100 to 112. What happens to real pay?', b: 'Real pay = 2,650 ÷ 112 × 100 = £2,366, a real fall of about 5.4% against £2,500. Nominal pay rose 6%, but real pay fell.' },
+      { n: 3, f: 'Demand-pull, cost-push and imported inflation', b: 'Demand-pull: spending grows faster than output.\nCost-push: higher wages, raw materials, energy or indirect taxes passed on in prices.\nImported: a weaker currency makes imports dearer.' },
+      { n: 4, f: 'Nominal value and real value', b: 'Nominal: measured in current money, not adjusted for prices. Real: adjusted for inflation, so it shows purchasing power.', src: DIST },
+      { n: 5, f: 'Weights 0.5, 0.3 and 0.2 have price indices 106, 110 and 100 (base year = 100). Find the CPI and the inflation since the base year.', b: 'CPI = 0.5 × 106 + 0.3 × 110 + 0.2 × 100 = 53 + 33 + 20 = 106. Prices have risen 6% since the base year.' },
+      { n: 6, f: 'Consequences of inflation for consumers, producers, savers and the government', b: 'Consumers: purchasing power falls if pay lags. Producers: higher costs and uncertainty, weaker competitiveness if inflation is higher than abroad. Savers lose when interest is below inflation. Government: tax revenue rises and the real value of its debt falls.' },
+    ]),
+    ...sub(GOVT, 'fiscal-policy-ocr-gcse-economics', '3.5', [
+      { n: 1, f: 'Fiscal policy versus monetary policy', b: 'Fiscal: the government changes its spending and taxes. Monetary: the central bank (the Bank of England in the UK) uses interest rates. Fiscal acts on disposable income and public services; monetary acts on the cost of borrowing and reward for saving.' },
+      { n: 2, f: 'Balanced budget, budget surplus and budget deficit', b: 'Balanced: revenue equals spending. Surplus: revenue is greater than spending in a year. Deficit: spending is greater than revenue. Example: revenue 410, spending 385 gives a surplus of 25.' },
+      { n: 3, f: 'Expansionary fiscal policy: the chain and its risk', b: 'Lower taxes or higher spending → more disposable income and demand → more consumption → more output and jobs. Risk: higher prices if the economy is near full capacity, and more borrowing.' },
+      { n: 4, f: 'Progressive, proportional and regressive taxes', b: 'Progressive: the average tax rate rises as income rises (bands of 0%, 20%, 40%).\nProportional: the same rate at every income.\nRegressive: the average rate falls as income rises (e.g. a sales tax on a necessity).' },
+      { n: 5, f: 'Evaluating fiscal policy: arguments for and against', b: 'For: direct and targeted, funds public services, can tackle a recession, can reduce inequality.\nAgainst: time lags, borrowing and interest payments, the opportunity cost of other uses, possible disincentives and tax avoidance.' },
+      { n: 6, f: 'A 2 per-unit tax raises the price buyers pay from 10 to 11.50. Who bears the tax?', b: 'Buyers bear 1.50 of the 2 and sellers bear 0.50 (they now keep 9.50). The more inelastic the demand, the more of the tax falls on buyers. Revenue = tax × new quantity.' },
+    ]),
+    ...sub(GOVT, 'monetary-policy-ocr-gcse-economics', '3.6', [
+      { n: 1, f: 'Monetary policy', b: 'Use of interest rates (and sometimes the money supply) by the central bank to influence the economy.', src: FISC },
+      { n: 2, f: 'What happens when the central bank cuts interest rates?', b: 'Borrowing is cheaper and saving earns less → more consumption and investment → higher total demand → growth and more jobs → but more pressure on prices.' },
+      { n: 3, f: 'A rise in interest rates: effect on borrowers, savers, firms and consumers', b: 'Borrowers worse off, savers better off, firms invest less and consumers spend less, so demand, growth and inflation all slow.' },
+      { n: 4, f: 'A machine costs 12,000 and adds 840 a year of profit before interest. Is it worth borrowing for at 5%? At 9%?', b: 'Return = 840 ÷ 12,000 = 7%. At 5% interest is 600, a gain of 240. At 9% interest is 1,080, a loss of 240. Higher rates reduce investment.' },
+      { n: 5, f: 'Limits of monetary policy', b: 'Time lags, weak confidence (people may not borrow even when rates are low), banks may not pass on the change, heavily indebted households, and low rates hurt savers.' },
+      { n: 6, f: 'Real interest rate (approximate)', b: 'Nominal interest rate − inflation. A 3% rate with 4% inflation gives about −1%: savings lose purchasing power.' },
+    ]),
+    ...sub(GOVT, 'supply-side-policies-ocr-gcse-economics', '3.7', [
+      { n: 1, f: 'Supply side policy, with examples', b: 'Government action to raise the economy\'s productive capacity: education and training, infrastructure, support for research, lower taxes on work or profits, less red tape and more competition. It suits long-run goals but works too slowly alone for a short-run problem.', src: SSP },
+      { n: 2, f: 'How supply side policy links to the economic objectives', b: 'Growth: higher capacity raises potential output. Unemployment: training and job matching cut structural unemployment. Prices: lower costs and higher productivity ease price pressure. Distribution: skills can raise low pay, but tax cuts for the rich may widen gaps.' },
+      { n: 3, f: 'Evaluation chain for any supply side policy', b: 'Benefit: potential output rises, so growth is possible without inflation. Cost: government spending or lost tax revenue, with an opportunity cost. Limit: time lags and uncertain results. Judgement: sensible for the long run.' },
+      { n: 4, f: 'Output of £30bn is made by 1.5 million workers. Training raises output by 1.5%. Find output per worker before and after.', b: 'Before: 30bn ÷ 1.5 million = £20,000. After: 30.45bn ÷ 1.5 million = £20,300.' },
+      { n: 5, f: 'Supply side policy versus demand-side policy', b: 'Supply side policy raises long-run productive capacity. Demand-side policy (fiscal and monetary) changes short-run spending.' },
+    ]),
+    ...sub(GOVT, 'limitations-of-markets-ocr-gcse-economics', '3.8', [
+      { n: 1, f: 'Negative and positive externalities: market output and the usual policy fix', b: 'Negative (pollution, congestion): market output too high; tax, regulation or information.\nPositive (education, vaccination): market output too low; subsidy, state provision or information. Markets ignore effects on third parties.' },
+      { n: 2, f: 'Externality', b: 'A cost or benefit to a third party, not reflected in the market price.', src: SSP },
+      { n: 3, f: 'Social cost and social benefit', b: 'Social cost = private cost + external cost. Social benefit = private benefit + external benefit. Example: private cost £9 + external cost £2.50 = social cost £11.50 a unit.' },
+      { n: 4, f: 'The government policies J205 names for correcting externalities', b: 'Taxation and subsidies, state provision, legislation and regulation, and information provision.' },
+      { n: 5, f: 'A £3 tax raises the price from £12.00 to £13.80 and 5,000 units are sold. Find each side\'s burden and the revenue.', b: 'Consumers bear £1.80 (60%), producers £1.20 (40%). Revenue = 5,000 × £3 = £15,000.' },
+      { n: 6, f: 'State provision versus a subsidy', b: 'State provision: the government supplies the good itself, funded by taxation. Subsidy: the government pays part of the cost so private firms supply more at a lower price. Both have an opportunity cost.' },
     ]),
 
-    // 4 International trade and the global economy (no itemised subtopics)
-    ...topicOnly(INTL, '4', [
+    // 4 International trade and the global economy
+    ...sub(INTL, 'importance-of-international-trade-ocr-gcse-economics', '4.1', [
       { n: 1, f: 'Why do countries import and export?', b: 'Import: resources lacking at home, lower prices, variety and inputs for firms.\nExport: a larger market, specialisation, and foreign currency to pay for imports.' },
       { n: 2, f: 'Tariff and quota', b: 'Tariff: a tax on imports.\nQuota: a limit on the quantity of an import.', src: TRADE },
       { n: 3, f: 'Free trade agreement, customs union and single market', b: 'Free trade agreement: a deal to remove or cut barriers between members.\nCustoms union: members share a common tariff on imports from outside.\nSingle market: goods, services, capital and people move freely between members.', src: TRADE },
-      { n: 4, f: 'The four parts of the current account, with an example credit for each', b: 'Goods: selling machinery abroad.\nServices: a foreign tourist spending in the country.\nPrimary income: profits sent home by an overseas branch.\nSecondary income: money sent home by workers abroad.\nBalance = total credits − total debits.' },
-      { n: 5, f: 'Credits: goods 150, services 60, primary 18, secondary 5. Debits: 175, 40, 10, 16. Find the current account balance.', b: 'Credits 233, debits 241, so the balance is −8: a current account deficit of 8 billion.' },
-      { n: 6, f: 'A 25% tariff is charged on an import with a pre-tax price of 48. By what percentage does the price fall if the tariff is removed?', b: 'Shelf price with tariff: 48 × 1.25 = 60. Removing it cuts the price by 12 ÷ 60 × 100 = 20% (divide by the old price).' },
-      { n: 7, f: 'Appreciation and depreciation', b: 'Appreciation: the currency buys more foreign currency.\nDepreciation: the currency buys less foreign currency.', src: EXGL },
-      { n: 8, f: 'At £1 = €1.30, what does a €300 bill cost in pounds? What if the pound falls to €1.20?', b: 'Divide by the rate: 300 ÷ 1.30 = £230.77; at 1.20 it is 300 ÷ 1.20 = £250.00. Pounds to euros: multiply. A weaker pound makes foreign goods and holidays dearer.' },
-      { n: 9, f: 'Exchange rate diagram: what happens when interest rates rise relative to other countries?', b: 'Vertical axis: exchange rate (e.g. euros per pound); horizontal: quantity of pounds. Foreign savers want more pounds, so demand for pounds shifts right and the pound appreciates. More imports would shift supply right, causing depreciation.' },
-      { n: 10, f: 'Effects of a depreciation on exports, imports and firms', b: 'Exports become cheaper abroad, so more are sold (more if demand is elastic). Imports and holidays abroad become dearer. Firms using imported inputs face higher costs, which reduces the gain.' },
-      { n: 11, f: 'Globalisation and its driving factors', b: 'The growing integration of economies through trade, capital, people, information and ideas. Drivers: falling transport costs, communications technology, trade agreements, multinational companies, rising incomes and freer movement of capital.' },
-      { n: 12, f: 'Measures of development, and why GDP per capita alone is limited', b: 'GDP per capita, life expectancy, access to health care, technology (internet users) and education (schooling, literacy). GDP per capita hides inequality and non-market activity; composite measures such as the Human Development Index combine income, health and education.' },
+      { n: 4, f: 'A 25% tariff is charged on an import with a pre-tax price of 48. By what percentage does the price fall if the tariff is removed?', b: 'Shelf price with tariff: 48 × 1.25 = 60. Removing it cuts the price by 12 ÷ 60 × 100 = 20% (divide by the old price).' },
+      { n: 5, f: 'Benefits of trade for consumers and producers, and one cost', b: 'Consumers: lower prices, more choice, better quality through competition. Producers: a bigger market, economies of scale, cheaper inputs. Cost: job losses in industries facing imports and dependence on other countries.' },
+      { n: 6, f: 'How is the European Union more than a free trade agreement?', b: 'It is a single market plus a customs union with a common external tariff. The UK has left the EU; its trade with the EU now runs under a trade agreement, and the EU remains a very important market.' },
+    ]),
+    ...sub(INTL, 'balance-of-payments-ocr-gcse-economics', '4.2', [
+      { n: 1, f: 'The four parts of the current account, with an example credit for each', b: 'Goods: selling machinery abroad.\nServices: a foreign tourist spending in the country.\nPrimary income: profits sent home by an overseas branch.\nSecondary income: money sent home by workers abroad.\nBalance = total credits − total debits.' },
+      { n: 2, f: 'Credits: goods 150, services 60, primary 18, secondary 5. Debits: 175, 40, 10, 16. Find the current account balance.', b: 'Credits 233, debits 241, so the balance is −8: a current account deficit of 8 billion.' },
+      { n: 3, f: 'Current account deficit, surplus and balance', b: 'Deficit: debits exceed credits (balance below zero). Surplus: credits exceed debits (above zero). Balanced: credits equal debits.', src: TRADE },
+      { n: 4, f: 'What makes a current account deficit more likely?', b: 'A strong exchange rate, fast growth in household spending, low productivity or high inflation, weak growth in trading partners, and few natural resources to export.' },
+      { n: 5, f: 'Why does the current account matter to the UK economy?', b: 'The UK is open to trade, a persistent deficit has to be financed by borrowing or selling assets, the currency may come under pressure, and exports support jobs. The cause matters as much as the size.' },
+      { n: 6, f: 'Exports rise from 80 to 90 billion over two years. Find the percentage change.', b: '(90 − 80) ÷ 80 × 100 = 12.5%. Always divide by the old value.' },
+    ]),
+    ...sub(INTL, 'exchange-rates-ocr-gcse-economics', '4.3', [
+      { n: 1, f: 'Appreciation and depreciation', b: 'Appreciation: the currency buys more foreign currency.\nDepreciation: the currency buys less foreign currency.', src: EXGL },
+      { n: 2, f: 'At £1 = €1.30, what does a €300 bill cost in pounds? What if the pound falls to €1.20?', b: 'Divide by the rate: 300 ÷ 1.30 = £230.77; at 1.20 it is 300 ÷ 1.20 = £250.00. Pounds to euros: multiply. A weaker pound makes foreign goods and holidays dearer.' },
+      { n: 3, f: 'Exchange rate diagram: what happens when interest rates rise relative to other countries?', b: 'Vertical axis: exchange rate (e.g. euros per pound); horizontal: quantity of pounds. Foreign savers want more pounds, so demand for pounds shifts right and the pound appreciates. More imports would shift supply right, causing depreciation.' },
+      { n: 4, f: 'Effects of a depreciation on exports, imports and firms', b: 'Exports become cheaper abroad, so more are sold (more if demand is elastic). Imports and holidays abroad become dearer. Firms using imported inputs face higher costs, which reduces the gain.' },
+      { n: 5, f: 'Who demands and who supplies a currency on the foreign exchange market?', b: 'Demand comes from overseas buyers of exports, tourists visiting and foreign investors. Supply comes from residents buying imports, travelling abroad and investing abroad.' },
+    ]),
+    ...sub(INTL, 'globalisation-ocr-gcse-economics', '4.4', [
+      { n: 1, f: 'Globalisation and its driving factors', b: 'The growing integration of economies through trade, capital, people, information and ideas. Drivers: falling transport costs, communications technology, trade agreements, multinational companies, rising incomes and freer movement of capital.' },
+      { n: 2, f: 'Measures of development, and why GDP per capita alone is limited', b: 'GDP per capita, life expectancy, access to health care, technology (internet users) and education (schooling, literacy). GDP per capita hides inequality and non-market activity; composite measures such as the Human Development Index combine income, health and education.' },
+      { n: 3, f: 'Costs and benefits of globalisation in developed countries', b: 'Producers: bigger markets and cheaper inputs, but more competition. Workers: export jobs, but job losses and wage pressure in some industries. Consumers: lower prices and more choice, but fewer local firms.' },
+      { n: 4, f: 'Costs and benefits of globalisation in less developed countries', b: 'Producers gain market access, investment and technology but face multinational competition and reliance on a few exports. Workers gain new jobs but may face low pay, long hours and weak protection. Consumers get cheaper goods.' },
+      { n: 5, f: 'GDP grows 3% and population 1.2%. By about how much does GDP per capita grow?', b: '1.03 ÷ 1.012 − 1 ≈ 0.018, so about 1.8%.' },
+      { n: 6, f: 'The three sustainability tests for globalisation', b: 'Economic: lasting income and skills, or dependence on one product? Social: less poverty, or wider inequality? Environmental: transport emissions, pollution and resource use, set against cleaner technology.' },
     ]),
   ],
 };

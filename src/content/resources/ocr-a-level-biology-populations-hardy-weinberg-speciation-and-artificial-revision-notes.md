@@ -13,6 +13,9 @@ order: 230
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+    subtopic: "patterns-of-inheritance-ocr-alevel-biology"
 description: "Condensed revision notes on selection, drift, Hardy-Weinberg, speciation and artificial selection for OCR A Level Biology A (H420), with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

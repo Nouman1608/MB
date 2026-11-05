@@ -14,6 +14,12 @@ order: 155
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "dna-genes-and-chromosomes-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "dna-and-protein-synthesis-aqa-alevel-biology"
 description: "Original AQA A-level Biology practice questions with worked answers on chromosomes, the genetic code, transcription, translation and experiment data."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

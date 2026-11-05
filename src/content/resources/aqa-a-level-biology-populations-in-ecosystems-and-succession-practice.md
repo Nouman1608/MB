@@ -14,6 +14,9 @@ order: 171
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+    subtopic: "populations-in-ecosystems-aqa-alevel-biology"
 description: "Original AQA A-level Biology questions on sampling, mark-release-recapture, competition, succession and conservation data, with worked answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

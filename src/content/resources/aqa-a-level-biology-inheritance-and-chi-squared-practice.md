@@ -14,6 +14,9 @@ order: 169
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+    subtopic: "inheritance-aqa-alevel-biology"
 description: "Original practice questions with worked answers on crosses, sex linkage, linkage, epistasis and chi-squared for AQA A-level Biology 7402 section 3.7.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

@@ -14,6 +14,9 @@ order: 168
 syllabusTopics:
   - qualification: "a-level"
     topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+    subtopic: "homeostasis-aqa-alevel-biology"
 description: "Study guide to AQA A-level Biology 7402 section 3.6.4.3: ADH, the hypothalamus, nephron structure, filtration, reabsorption and the loop of Henle."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

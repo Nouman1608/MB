@@ -14,6 +14,9 @@ order: 157
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "genetic-diversity-and-adaptation-aqa-alevel-biology"
 description: "Study guide to genetic diversity, natural selection, antibiotic resistance, birth weight and aseptic technique for AQA A-level Biology section 3.4.4."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

@@ -13,6 +13,10 @@ order: 200
 syllabusTopics:
   - qualification: "gcse"
     topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "economic-growth-ocr-gcse-economics"
+  - qualification: "gcse"
+    topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "low-unemployment-ocr-gcse-economics"
 description: "Revision notes on GDP, growth, the Claimant Count and unemployment for OCR GCSE (9-1) Economics sections 3.1 and 3.2, with a ten-question self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

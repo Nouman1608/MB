@@ -14,6 +14,9 @@ order: 168
 syllabusTopics:
   - qualification: "a-level"
     topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+    subtopic: "homeostasis-aqa-alevel-biology"
 description: "Condensed revision notes for AQA A-level Biology 7402 3.6.4.3: ADH feedback, ultrafiltration, PCT, loop of Henle and collecting duct, with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

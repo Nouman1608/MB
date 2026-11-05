@@ -2,11 +2,11 @@
  * D-438 -- flashcards for OCR A Level Biology A H420
  * (Version 4.1 (April 2026), for first assessment in 2025).
  *
- * The syllabus record itemises subtopics for Modules 1 and 2 only (1.1-1.2,
- * 2.1.1-2.1.3); Modules 3-6 are recorded as topics with no subtopics, so their
- * cards use topicOnly() and ids `<module number>-<n>`. Ids are permanent
- * (browser progress is keyed by them): add a new card with the next unused n,
- * never renumber.
+ * Every card sits on a subtopic of the syllabus record (1.1-1.2, 2.1.1-2.1.6,
+ * 3.1.1-6.3.2), id `<subtopic number>-<n>`. Modules 3-6 were itemised on
+ * 2026-11-05; their earlier topic-level cards (ids `<module>-<n>`) moved to
+ * subtopic ids then. Ids are permanent (browser progress is keyed by them):
+ * add a new card with the next unused n, never renumber.
  *
  *   H420 is not tiered, so no card is upper tier.
  *   src: '...'  The card restates that revision-notes page (found with
@@ -31,10 +31,6 @@ const card = (topic: string, subtopic: string | undefined, number: string, { n, 
 
 const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Flashcard[] =>
   specs.map((s) => card(topic, subtopic, number, s));
-
-/** For a topic that itemises no subtopics: the card names the topic only. */
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map((s) => card(topic, undefined, number, s));
 
 const M1 = 'development-of-practical-skills-in-biology-ocr-alevel-biology';
 const M2 = 'foundations-in-biology-ocr-alevel-biology';
@@ -143,26 +139,61 @@ export const DECK_OCR_A_LEVEL_BIOLOGY: FlashcardDeck = {
       { n: 14, f: 'An mRNA coding region is 1260 bases long, including the stop codon. How many amino acids?', b: '1260 ÷ 3 = 420 codons. Subtract 1 for the stop codon: 419 amino acids.' },
     ]),
 
+    ...sub(M2, 'enzymes-ocr-alevel-biology', '2.1.4', [
+      { n: 1, f: 'Lock and key vs induced-fit hypothesis', b: 'Lock and key: the substrate fits an active site of exactly complementary shape.\nInduced fit: the active site changes shape slightly as the substrate binds, giving a closer fit and straining bonds in the substrate, which lowers the activation energy.' },
+      { n: 2, f: 'Intracellular vs extracellular enzymes: the H420 examples', b: 'Intracellular: catalase, inside cells, breaks down toxic hydrogen peroxide to water and oxygen.\nExtracellular: amylase, secreted (for example in saliva), hydrolyses starch to maltose outside the cell.' },
+      { n: 3, f: 'How does temperature affect enzyme activity, and what is Q10?', b: 'Rising temperature gives molecules more kinetic energy and more successful collisions, so the rate rises to the optimum. Above it, vibrations break bonds holding the tertiary structure, the active site changes shape and the enzyme denatures. Q10 = R2 ÷ R1, the ratio of rates for a 10 °C rise.' },
+      { n: 4, f: 'How does substrate concentration affect the rate of an enzyme-controlled reaction?', b: 'The rate rises as substrate concentration rises, because more enzyme–substrate complexes form. It levels off when all the active sites are occupied; enzyme concentration is then the limiting factor.' },
+      { n: 5, f: 'Cofactor vs coenzyme vs prosthetic group', b: 'Cofactor: a non-protein substance an enzyme needs, such as the chloride ion for amylase.\nCoenzyme: an organic cofactor, often made from a vitamin (NAD from nicotinamide, vitamin B3).\nProsthetic group: a cofactor permanently bound to the enzyme, such as Zn²⁺ in carbonic anhydrase.' },
+      { n: 6, f: 'Competitive vs non-competitive inhibition', b: 'Competitive: similar in shape to the substrate and binds the active site; raising substrate concentration reduces the effect.\nNon-competitive: binds elsewhere (an allosteric site) and changes the shape of the active site; raising substrate concentration does not overcome it.' },
+      { n: 7, f: 'End-product inhibition', b: 'The final product of a metabolic pathway inhibits an enzyme early in the pathway, usually non-competitively and reversibly, so the product regulates its own production. Example: ATP inhibits phosphofructokinase in glycolysis.' },
+    ]),
+    ...sub(M2, 'biological-membranes-ocr-alevel-biology', '2.1.5', [
+      { n: 1, f: 'Roles of membranes within and at the surface of cells', b: 'Partially permeable barriers (between the cell and its surroundings, around organelles and within them); sites of chemical reactions (such as the inner mitochondrial membrane and thylakoid membranes); sites of cell communication (cell signalling).' },
+      { n: 2, f: 'Fluid mosaic model: components and their roles', b: 'Phospholipid bilayer: a barrier to polar and charged substances. Cholesterol: regulates fluidity and stability. Channel and carrier proteins: transport. Glycoproteins and glycolipids: cell recognition, signalling and attachment. Membrane-bound receptors: sites where hormones and drugs bind.' },
+      { n: 3, f: 'How do temperature and organic solvents affect membrane permeability?', b: 'Higher temperature gives phospholipids more kinetic energy, so the bilayer becomes more fluid and leaky; high temperatures also denature membrane proteins. Organic solvents such as ethanol dissolve the bilayer. Leakage of pigment from beetroot, measured with a colorimeter, shows the effect.' },
+      { n: 4, f: 'Facilitated diffusion vs active transport', b: 'Facilitated diffusion: passive, down a concentration gradient, through channel or carrier proteins.\nActive transport: against a concentration gradient, through carrier proteins, using ATP.' },
+      { n: 5, f: 'Endocytosis vs exocytosis', b: 'Endocytosis: the membrane folds around material and pinches off a vesicle to bring it into the cell (phagocytosis for solids, pinocytosis for liquids).\nExocytosis: vesicles fuse with the plasma membrane to release their contents. Both need ATP.' },
+      { n: 6, f: 'Effects of solutions of different water potential on animal and plant cells', b: 'Higher water potential outside: water enters by osmosis; animal cells swell and may burst (haemolysis of red blood cells); plant cells become turgid.\nLower water potential outside: water leaves; animal cells shrink (crenation); plant cells become flaccid, then plasmolysed.' },
+    ]),
+    ...sub(M2, 'cell-division-cell-diversity-and-cellular-organisation-ocr-alevel-biology', '2.1.6', [
+      { n: 1, f: 'Stages of the cell cycle', b: 'Interphase: G1 (growth, proteins and organelles made), S (DNA replicated), G2 (further growth and checks). Then mitosis (the nucleus divides) and cytokinesis (the cytoplasm divides), giving two genetically identical cells.' },
+      { n: 2, f: 'How is the cell cycle regulated?', b: 'Checkpoints check the cell before it moves on: at G1 (cell size, nutrients, DNA damage), at G2 (DNA replicated without damage) and the spindle assembly checkpoint in mitosis (every chromosome attached to the spindle). A cell that fails may repair, leave the cycle (G0) or undergo apoptosis.' },
+      { n: 3, f: 'Main stages of mitosis', b: 'Prophase: chromosomes condense; the nuclear envelope breaks down; centrioles move to the poles and spindle fibres form.\nMetaphase: chromosomes line up at the equator, attached by their centromeres.\nAnaphase: centromeres divide; chromatids are pulled to opposite poles.\nTelophase: nuclear envelopes reform.' },
+      { n: 4, f: 'Significance of mitosis vs meiosis in life cycles', b: 'Mitosis: growth, tissue repair and asexual reproduction in plants, animals and fungi; the cells are genetically identical.\nMeiosis: makes haploid cells, so the diploid number is restored at fertilisation, and creates genetic variation by crossing over and independent assortment.' },
+      { n: 5, f: 'Specialised animal cells in H420 and one adaptation of each', b: 'Erythrocyte: biconcave, no nucleus, for carrying oxygen. Neutrophil: multilobed nucleus and many lysosomes, for phagocytosis. Squamous epithelial cell: very flat, a short diffusion path. Ciliated epithelial cell: cilia move mucus. Sperm cell: flagellum and many mitochondria.' },
+      { n: 6, f: 'Specialised plant cells in H420 and one adaptation of each', b: 'Palisade cell: many chloroplasts, for photosynthesis. Root hair cell: a long extension giving a large surface area for water and mineral ion uptake. Guard cells: change shape with turgor to open and close the stoma.' },
+      { n: 7, f: 'Stem cell, and the source of stem cells in plants', b: 'An undifferentiated cell that can divide repeatedly and differentiate into specialised cell types, a renewing source of cells. In plants, meristems at root and shoot tips and in the cambium are the stem cells; cambium cells differentiate into xylem and phloem.' },
+    ]),
+
     // Module 3 Exchange and transport
-    ...topicOnly(M3, '3', [
+    ...sub(M3, 'exchange-surfaces-ocr-alevel-biology', '3.1.1', [
       { n: 1, f: 'Why do larger, more active organisms need specialised exchange surfaces?', b: 'Surface area to volume ratio falls as size increases, while a higher metabolic rate raises demand, so diffusion across the body surface is too slow. They need a large, thin exchange surface with a maintained gradient.' },
       { n: 2, f: 'Mechanism of inspiration in mammals', b: 'External intercostal muscles and the diaphragm contract: the ribs move up and out and the diaphragm flattens. Thorax volume increases, pressure falls below atmospheric, and air moves in.' },
       { n: 3, f: 'Tidal volume, vital capacity and ventilation rate', b: 'Tidal volume: volume per resting breath.\nVital capacity: maximum volume exhaled after a maximal inhalation.\nVentilation rate = tidal volume × breathing rate.' },
       { n: 4, f: 'Countercurrent flow in fish gills', b: 'Blood in the lamellae flows in the opposite direction to water, so water always meets blood with less oxygen. A diffusion gradient is kept along the whole lamella; with parallel flow, net uptake would stop partway along.' },
       { n: 5, f: 'Gas exchange in insects', b: 'Air enters through spiracles into tracheae and tracheoles. Exchange happens at the tracheal fluid at the ends of the tracheoles. Movements of the thorax and abdomen change body volume to ventilate.' },
-      { n: 6, f: 'Open vs closed, single vs double circulation', b: 'Insect: open (fluid bathes tissues at low pressure).\nFish: closed, single (blood passes the heart once per circuit).\nMammal: closed, double (twice per circuit, so pressure is restored after the lungs).' },
-      { n: 7, f: 'How tissue fluid forms and returns (hydrostatic and oncotic pressure)', b: 'At the arteriole end hydrostatic pressure exceeds oncotic pressure, forcing fluid out. Hydrostatic pressure falls along the capillary, so at the venule end oncotic pressure from plasma proteins draws water back in. Excess drains into lymph.' },
-      { n: 8, f: 'Pressures and valves during the cardiac cycle', b: 'Atrial systole: AV valves open; atrial pressure above ventricular.\nVentricular systole: AV valves shut, semilunar valves open; ventricle pressure above aorta.\nDiastole: semilunar valves shut, AV valves open; atria fill.' },
-      { n: 9, f: 'Cardiac output', b: 'Cardiac output = heart rate × stroke volume.' },
-      { n: 10, f: 'How is the heartbeat coordinated?', b: 'Cardiac muscle is myogenic. The SAN starts a wave of excitation across the atria; the AVN delays it; Purkyne tissue carries it through the ventricles.' },
-      { n: 11, f: 'ECG terms: tachycardia, bradycardia, fibrillation, ectopic beat', b: 'Tachycardia: faster than normal. Bradycardia: slower. Fibrillation: irregular, uncoordinated. Ectopic beat: an extra beat that comes early. Heart rate = 60 ÷ time between R waves (s).' },
-      { n: 12, f: 'Fetal haemoglobin and the Bohr effect', b: 'Fetal haemoglobin has a higher affinity for oxygen, so its dissociation curve lies to the left of adult haemoglobin. More carbon dioxide shifts the curve to the right (Bohr effect), so more oxygen is unloaded.' },
-      { n: 13, f: 'How does water move up the xylem?', b: 'Water evaporates from leaf cells and diffuses out through the stomata, lowering water potential. Cohesion between water molecules pulls the column up under tension (the transpiration stream); adhesion to the walls helps.' },
-      { n: 14, f: 'Translocation: active loading of sucrose', b: 'Companion cells pump H⁺ out using ATP; H⁺ returns with sucrose by co-transport. Sieve tube water potential falls, water enters, hydrostatic pressure rises, and sap flows from source to sink, where sucrose is removed.' },
+    ]),
+    ...sub(M3, 'transport-in-animals-ocr-alevel-biology', '3.1.2', [
+      { n: 1, f: 'Open vs closed, single vs double circulation', b: 'Insect: open (fluid bathes tissues at low pressure).\nFish: closed, single (blood passes the heart once per circuit).\nMammal: closed, double (twice per circuit, so pressure is restored after the lungs).' },
+      { n: 2, f: 'How tissue fluid forms and returns (hydrostatic and oncotic pressure)', b: 'At the arteriole end hydrostatic pressure exceeds oncotic pressure, forcing fluid out. Hydrostatic pressure falls along the capillary, so at the venule end oncotic pressure from plasma proteins draws water back in. Excess drains into lymph.' },
+      { n: 3, f: 'Pressures and valves during the cardiac cycle', b: 'Atrial systole: AV valves open; atrial pressure above ventricular.\nVentricular systole: AV valves shut, semilunar valves open; ventricle pressure above aorta.\nDiastole: semilunar valves shut, AV valves open; atria fill.' },
+      { n: 4, f: 'Cardiac output', b: 'Cardiac output = heart rate × stroke volume.' },
+      { n: 5, f: 'How is the heartbeat coordinated?', b: 'Cardiac muscle is myogenic. The SAN starts a wave of excitation across the atria; the AVN delays it; Purkyne tissue carries it through the ventricles.' },
+      { n: 6, f: 'ECG terms: tachycardia, bradycardia, fibrillation, ectopic beat', b: 'Tachycardia: faster than normal. Bradycardia: slower. Fibrillation: irregular, uncoordinated. Ectopic beat: an extra beat that comes early. Heart rate = 60 ÷ time between R waves (s).' },
+      { n: 7, f: 'Fetal haemoglobin and the Bohr effect', b: 'Fetal haemoglobin has a higher affinity for oxygen, so its dissociation curve lies to the left of adult haemoglobin. More carbon dioxide shifts the curve to the right (Bohr effect), so more oxygen is unloaded.' },
+    ]),
+    ...sub(M3, 'transport-in-plants-ocr-alevel-biology', '3.1.3', [
+      { n: 1, f: 'How does water move up the xylem?', b: 'Water evaporates from leaf cells and diffuses out through the stomata, lowering water potential. Cohesion between water molecules pulls the column up under tension (the transpiration stream); adhesion to the walls helps.' },
+      { n: 2, f: 'Translocation: active loading of sucrose', b: 'Companion cells pump H⁺ out using ATP; H⁺ returns with sucrose by co-transport. Sieve tube water potential falls, water enters, hydrostatic pressure rises, and sap flows from source to sink, where sucrose is removed.' },
+      { n: 3, f: 'Xylem vessels vs phloem sieve tubes', b: 'Xylem: dead, hollow, lignified cells joined end to end with no end walls, with pits; carry water and mineral ions up the plant.\nPhloem: living sieve tube elements joined by perforated sieve plates, with few organelles, supported by companion cells; carry assimilates up and down.' },
+      { n: 4, f: 'Symplast vs apoplast pathway', b: 'Symplast: water moves through the cytoplasm of cells, linked by plasmodesmata.\nApoplast: water moves through cell walls and the spaces between cells. At the endodermis the Casparian strip blocks the apoplast, so water must enter the symplast.' },
+      { n: 5, f: 'Factors that affect the rate of transpiration', b: 'Light intensity (stomata open in light), temperature, humidity, air movement and the water available in the soil. A potometer measures water uptake, which is close to the rate of transpiration.' },
+      { n: 6, f: 'Adaptations of xerophytes', b: 'Thick waxy cuticle; sunken stomata; rolled leaves and hairs that trap moist air; fewer stomata; leaves reduced to spines; long or spreading roots. Example: marram grass. Hydrophytes such as water lilies instead have large air spaces and stomata on the upper leaf surface.' },
     ]),
 
     // Module 4 Biodiversity, evolution and disease
-    ...topicOnly(M4, '4', [
+    ...sub(M4, 'communicable-diseases-disease-prevention-and-the-immune-system-ocr-alevel-biology', '4.1.1', [
       { n: 1, f: 'Pathogen types with one plant and one animal disease each', b: 'Bacterium: ring rot; tuberculosis.\nVirus: Tobacco Mosaic Virus; HIV/AIDS, influenza.\nProtoctist: potato and tomato late blight; malaria.\nFungus: black sigatoka; athlete\'s foot.' },
       { n: 2, f: 'Plant defences against pathogens', b: 'Chemicals (terpenoids, phenols, alkaloids, defensins, chitinase); callose deposited in plasmodesmata and sieve plates to block spread; lignin and thicker walls; the hypersensitive response; stomatal closure.' },
       { n: 3, f: 'How does a blood clot form?', b: 'Platelets release substances at the damaged vessel, starting a cascade of reactions. Soluble fibrinogen is converted to insoluble fibrin, whose threads form a mesh that traps platelets and red blood cells.' },
@@ -170,49 +201,114 @@ export const DECK_OCR_A_LEVEL_BIOLOGY: FlashcardDeck = {
       { n: 5, f: 'Plasma cell vs B memory cell; T helper vs T killer', b: 'Plasma cell secretes antibody now; memory cell is long-lived and waits for a secondary response. T helper releases cytokines (interleukins) that activate B cells and T killers; T killer destroys infected body cells.', src: IMMO },
       { n: 6, f: 'Autoimmune disease', b: 'The immune system attacks the body\'s own cells because self and non-self are not distinguished. Example: rheumatoid arthritis, in which joint tissues are attacked.' },
       { n: 7, f: 'Herd immunity: proportion that must be immune', b: 'So many people are immune that spread is limited, protecting those who cannot be vaccinated. Simple model: proportion immune needed = 1 − 1/R₀ (R₀ = 4 needs 75 %).', src: IMMO },
-      { n: 8, f: 'Species richness vs species evenness', b: 'Richness: the number of different species in a habitat.\nEvenness: how similar the numbers of individuals of each species are.\nSpecies biodiversity includes both.', src: BIOD },
-      { n: 9, f: "Simpson's Index of Diversity for counts of 10, 5, 3 and 2", b: 'N = 20. n/N = 0.5, 0.25, 0.15, 0.1. Squares sum to 0.25 + 0.0625 + 0.0225 + 0.01 = 0.345. D = 1 − Σ(n/N)² = 1 − 0.345 = 0.655.' },
-      { n: 10, f: 'Random, systematic and stratified sampling', b: 'Random: random-number coordinates; for a uniform area.\nSystematic: regular intervals, such as a transect; for a gradient.\nStratified: each distinct zone sampled in proportion to its size.' },
-      { n: 11, f: 'Bacteria vs Archaea vs Eukarya', b: 'Bacteria: peptidoglycan wall, ester-linked lipids, no histones.\nArchaea: no peptidoglycan, ether-linked branched lipids, DNA with histones.\nBoth: no nucleus, 70S ribosomes.\nEukarya: nucleus, 80S ribosomes, linear DNA with histones.' },
-      { n: 12, f: 'Why is the binomial system useful?', b: 'It is universal: the same two-part name (genus, then species) is used worldwide, avoiding confusion over common names. A shared genus shows a close relationship.' },
-      { n: 13, f: 'Mechanism of natural selection', b: 'Variation exists (mutation, sexual reproduction). A selection pressure acts. Individuals with advantageous alleles are more likely to survive and reproduce, passing the alleles on, so the allele frequency rises over generations.' },
-      { n: 14, f: 'In situ vs ex situ conservation, with examples', b: 'In situ: in the natural habitat, such as wildlife reserves and marine conservation zones.\nEx situ: away from it, such as zoos (captive breeding), botanic gardens and seed banks.' },
+    ]),
+    ...sub(M4, 'biodiversity-ocr-alevel-biology', '4.2.1', [
+      { n: 1, f: 'Species richness vs species evenness', b: 'Richness: the number of different species in a habitat.\nEvenness: how similar the numbers of individuals of each species are.\nSpecies biodiversity includes both.', src: BIOD },
+      { n: 2, f: "Simpson's Index of Diversity for counts of 10, 5, 3 and 2", b: 'N = 20. n/N = 0.5, 0.25, 0.15, 0.1. Squares sum to 0.25 + 0.0625 + 0.0225 + 0.01 = 0.345. D = 1 − Σ(n/N)² = 1 − 0.345 = 0.655.' },
+      { n: 3, f: 'Random, systematic and stratified sampling', b: 'Random: random-number coordinates; for a uniform area.\nSystematic: regular intervals, such as a transect; for a gradient.\nStratified: each distinct zone sampled in proportion to its size.' },
+      { n: 4, f: 'In situ vs ex situ conservation, with examples', b: 'In situ: in the natural habitat, such as wildlife reserves and marine conservation zones.\nEx situ: away from it, such as zoos (captive breeding), botanic gardens and seed banks.' },
+    ]),
+    ...sub(M4, 'classification-and-evolution-ocr-alevel-biology', '4.2.2', [
+      { n: 1, f: 'Bacteria vs Archaea vs Eukarya', b: 'Bacteria: peptidoglycan wall, ester-linked lipids, no histones.\nArchaea: no peptidoglycan, ether-linked branched lipids, DNA with histones.\nBoth: no nucleus, 70S ribosomes.\nEukarya: nucleus, 80S ribosomes, linear DNA with histones.' },
+      { n: 2, f: 'Why is the binomial system useful?', b: 'It is universal: the same two-part name (genus, then species) is used worldwide, avoiding confusion over common names. A shared genus shows a close relationship.' },
+      { n: 3, f: 'Mechanism of natural selection', b: 'Variation exists (mutation, sexual reproduction). A selection pressure acts. Individuals with advantageous alleles are more likely to survive and reproduce, passing the alleles on, so the allele frequency rises over generations.' },
+      { n: 4, f: 'Intraspecific vs interspecific variation', b: 'Intraspecific: differences between individuals of the same species.\nInterspecific: differences between different species.' },
+      { n: 5, f: 'Anatomical, physiological and behavioural adaptations', b: 'Anatomical: structural features, such as the rolled leaves of marram grass.\nPhysiological: processes in the body, such as a lowered metabolic rate in hibernation.\nBehavioural: actions, such as migration or courtship.' },
+      { n: 6, f: 'Evidence for the theory of evolution by natural selection', b: 'Palaeontology (the fossil record), comparative anatomy (homologous structures such as the pentadactyl limb) and comparative biochemistry (differences in DNA base sequences and in proteins such as cytochrome c). Darwin and Wallace proposed the theory.' },
     ]),
 
     // Module 5 Communication, homeostasis and energy
-    ...topicOnly(M5, '5', [
+    ...sub(M5, 'communication-and-homeostasis-ocr-alevel-biology', '5.1.1', [
       { n: 1, f: 'Negative vs positive feedback', b: 'Negative feedback: the response reverses the change, returning the factor towards the set point (homeostatic).\nPositive feedback: the response increases the change, as with oxytocin and uterine contractions during birth.', src: LIV },
       { n: 2, f: 'Responses of an endotherm that is too hot', b: 'Detected by the hypothalamus and skin receptors. Skin arterioles dilate (vasodilation), sweat glands secrete sweat that evaporates, hairs lie flat, no shivering, and metabolic rate is lowered.' },
-      { n: 3, f: 'Generator potential vs action potential', b: 'Generator potential: graded and local; a bigger stimulus gives a bigger potential.\nAction potential: all-or-nothing and travels along the neurone; starts only when the generator potential reaches threshold.', src: NEUR },
-      { n: 4, f: 'Stages of an action potential', b: 'Threshold (about −55 mV): many voltage-gated Na⁺ channels open. Depolarisation: Na⁺ floods in, up to about +40 mV. Repolarisation: Na⁺ channels close, voltage-gated K⁺ channels open, K⁺ leaves. Hyperpolarisation: K⁺ channels slow to close.' },
-      { n: 5, f: 'Spatial vs temporal summation', b: 'Spatial: several presynaptic neurones release transmitter together to reach threshold.\nTemporal: repeated impulses from one presynaptic neurone add up to reach threshold.' },
-      { n: 6, f: 'How does a beta cell secrete insulin when blood glucose rises?', b: 'Glucose enters by facilitated diffusion; respiration makes more ATP; ATP closes K⁺ channels; the membrane depolarises; voltage-gated Ca²⁺ channels open and Ca²⁺ enters; insulin vesicles fuse with the membrane (exocytosis).' },
-      { n: 7, f: 'Type 1 vs Type 2 diabetes', b: 'Type 1: autoimmune destruction of beta cells, so little or no insulin; treated with insulin.\nType 2: target cells respond poorly to insulin; linked to obesity and inactivity; treated with diet, exercise and drugs such as metformin.' },
-      { n: 8, f: 'Role of the loop of Henle', b: 'The ascending limb pumps ions out but is impermeable to water, so the medulla has a very low water potential; water leaves the descending limb. This gradient lets the collecting duct reabsorb water. Longer loops allow more concentrated urine.' },
-      { n: 9, f: 'Glomerular filtration rate (GFR)', b: 'The volume of filtrate formed per minute by all nephrons. A falling GFR shows kidney failure, with urea and creatinine rising in the blood.', src: KID },
-      { n: 10, f: 'How does a pregnancy test strip detect hCG?', b: 'Mobile monoclonal antibodies to hCG on coloured beads bind hCG in urine. Immobilised antibodies to hCG at the test line trap the complexes, giving a coloured line; a control line shows the strip works. Two lines: hCG present.' },
-      { n: 11, f: 'Sympathetic vs parasympathetic control of heart rate', b: 'Sympathetic neurones release noradrenaline and speed up the heart (via the SAN). Parasympathetic neurones release acetylcholine and slow it down.' },
-      { n: 12, f: 'Effects of auxin on shoots and roots, and of gibberellin and ABA in seeds', b: 'High auxin concentration stimulates shoot elongation but inhibits root elongation. Gibberellin promotes germination; abscisic acid maintains dormancy.' },
-      { n: 13, f: 'Glycolysis: gross and net ATP', b: 'Glucose is phosphorylated, split into two triose phosphate and oxidised to two pyruvate. 4 ATP are made and 2 used, so the net gain is 2 ATP, with 2 reduced NAD.' },
-      { n: 14, f: 'Chemiosmosis in mitochondria vs chloroplasts', b: 'Mitochondria: H⁺ pumped into the intermembrane space; electrons from reduced NAD and FAD; final acceptor oxygen.\nChloroplasts: H⁺ pumped into the thylakoid space; electrons from light-excited chlorophyll; final acceptor NADP (non-cyclic).' },
+      { n: 3, f: 'Cell signalling between adjacent and distant cells', b: 'Adjacent cells: neurones release neurotransmitters across synapses.\nDistant cells: endocrine glands release hormones into the blood, which act on target cells with complementary receptors.' },
+      { n: 4, f: 'Ectotherm vs endotherm', b: 'Ectotherm: relies on external heat sources and mainly behavioural responses, such as basking (a lizard).\nEndotherm: generates heat from metabolism and uses physiological and behavioural responses to keep its core temperature fairly constant (a mammal).' },
+    ]),
+    ...sub(M5, 'excretion-as-an-example-of-homeostatic-control-ocr-alevel-biology', '5.1.2', [
+      { n: 1, f: 'Role of the loop of Henle', b: 'The ascending limb pumps ions out but is impermeable to water, so the medulla has a very low water potential; water leaves the descending limb. This gradient lets the collecting duct reabsorb water. Longer loops allow more concentrated urine.' },
+      { n: 2, f: 'Glomerular filtration rate (GFR)', b: 'The volume of filtrate formed per minute by all nephrons. A falling GFR shows kidney failure, with urea and creatinine rising in the blood.', src: KID },
+      { n: 3, f: 'How does a pregnancy test strip detect hCG?', b: 'Mobile monoclonal antibodies to hCG on coloured beads bind hCG in urine. Immobilised antibodies to hCG at the test line trap the complexes, giving a coloured line; a control line shows the strip works. Two lines: hCG present.' },
+      { n: 4, f: 'Roles of the liver in excretion', b: 'Excess amino acids are deaminated, giving ammonia, which the ornithine cycle converts to less toxic urea for excretion by the kidneys. The liver also detoxifies substances such as alcohol, using enzymes such as alcohol dehydrogenase and catalase.' },
+      { n: 5, f: 'Ultrafiltration and selective reabsorption in the nephron', b: 'Ultrafiltration: high blood pressure in the glomerulus forces small molecules (water, glucose, urea, ions) through the capillary endothelium, basement membrane and podocytes into the Bowman capsule.\nSelective reabsorption: in the proximal convoluted tubule, glucose, amino acids, ions and much water return to the blood.' },
+      { n: 6, f: 'How does ADH regulate water reabsorption?', b: 'Osmoreceptors in the hypothalamus detect a low blood water potential and the posterior pituitary releases more ADH. ADH makes the collecting duct walls more permeable to water, so more water is reabsorbed and a small volume of concentrated urine is made.' },
+    ]),
+    ...sub(M5, 'neuronal-communication-ocr-alevel-biology', '5.1.3', [
+      { n: 1, f: 'Generator potential vs action potential', b: 'Generator potential: graded and local; a bigger stimulus gives a bigger potential.\nAction potential: all-or-nothing and travels along the neurone; starts only when the generator potential reaches threshold.', src: NEUR },
+      { n: 2, f: 'Stages of an action potential', b: 'Threshold (about −55 mV): many voltage-gated Na⁺ channels open. Depolarisation: Na⁺ floods in, up to about +40 mV. Repolarisation: Na⁺ channels close, voltage-gated K⁺ channels open, K⁺ leaves. Hyperpolarisation: K⁺ channels slow to close.' },
+      { n: 3, f: 'Spatial vs temporal summation', b: 'Spatial: several presynaptic neurones release transmitter together to reach threshold.\nTemporal: repeated impulses from one presynaptic neurone add up to reach threshold.' },
+      { n: 4, f: 'Resting potential: value and how it is maintained', b: 'About −70 mV, inside negative to outside. The sodium–potassium pump moves 3 Na⁺ out for every 2 K⁺ in, using ATP, and the membrane is more permeable to K⁺, which diffuses back out.' },
+      { n: 5, f: 'Saltatory conduction in myelinated neurones', b: 'The myelin sheath made by Schwann cells insulates the axon, so depolarisation happens only at the nodes of Ranvier. The action potential jumps from node to node, so it travels much faster than along a non-myelinated axon.' },
+    ]),
+    ...sub(M5, 'hormonal-communication-ocr-alevel-biology', '5.1.4', [
+      { n: 1, f: 'How does a beta cell secrete insulin when blood glucose rises?', b: 'Glucose enters by facilitated diffusion; respiration makes more ATP; ATP closes K⁺ channels; the membrane depolarises; voltage-gated Ca²⁺ channels open and Ca²⁺ enters; insulin vesicles fuse with the membrane (exocytosis).' },
+      { n: 2, f: 'Type 1 vs Type 2 diabetes', b: 'Type 1: autoimmune destruction of beta cells, so little or no insulin; treated with insulin.\nType 2: target cells respond poorly to insulin; linked to obesity and inactivity; treated with diet, exercise and drugs such as metformin.' },
+      { n: 3, f: 'Endocrine vs exocrine glands', b: 'Endocrine glands secrete hormones directly into the blood, with no ducts, such as the adrenal glands.\nExocrine glands secrete into ducts, such as the pancreas releasing digestive enzymes into the pancreatic duct.' },
+      { n: 4, f: 'Adrenal cortex vs adrenal medulla', b: 'Cortex: secretes steroid hormones such as cortisol and aldosterone.\nMedulla: secretes adrenaline and noradrenaline, which prepare the body for fight or flight.' },
+      { n: 5, f: 'Roles of insulin and glucagon', b: 'Insulin (from beta cells in the islets of Langerhans) lowers blood glucose: cells take up more glucose and the liver converts glucose to glycogen.\nGlucagon (from alpha cells) raises it: glycogenolysis and gluconeogenesis in the liver.' },
+    ]),
+    ...sub(M5, 'plant-and-animal-responses-ocr-alevel-biology', '5.1.5', [
+      { n: 1, f: 'Sympathetic vs parasympathetic control of heart rate', b: 'Sympathetic neurones release noradrenaline and speed up the heart (via the SAN). Parasympathetic neurones release acetylcholine and slow it down.' },
+      { n: 2, f: 'Effects of auxin on shoots and roots, and of gibberellin and ABA in seeds', b: 'High auxin concentration stimulates shoot elongation but inhibits root elongation. Gibberellin promotes germination; abscisic acid maintains dormancy.' },
+      { n: 3, f: 'Organisation of the mammalian nervous system', b: 'Central nervous system: brain and spinal cord.\nPeripheral nervous system: sensory and motor neurones. The motor system has a somatic (voluntary) part and an autonomic (involuntary) part, which has sympathetic and parasympathetic divisions.' },
+      { n: 4, f: 'Knee-jerk reflex vs blinking reflex', b: 'Both are rapid, involuntary responses. Knee-jerk: a spinal reflex that helps keep balance. Blinking: a cranial reflex, coordinated in the brain stem, that protects the cornea from damage.' },
+      { n: 5, f: 'Skeletal, cardiac and involuntary muscle', b: 'Skeletal: striated, voluntary, contracts quickly and tires quickly.\nCardiac: striated, branched cells, myogenic and involuntary.\nInvoluntary (smooth): not striated, spindle-shaped cells, in the walls of the gut and blood vessels.' },
+      { n: 6, f: 'Sliding filament model in outline', b: 'Ca²⁺ binds troponin, moving tropomyosin off the binding sites on actin. Myosin heads bind actin, forming cross-bridges, and tilt (the power stroke), pulling actin towards the centre of the sarcomere. ATP detaches each head and its hydrolysis re-cocks it.' },
+    ]),
+    ...sub(M5, 'photosynthesis-ocr-alevel-biology', '5.2.1', [
+      { n: 1, f: 'Photosynthetic pigments: which, where and how they are separated', b: 'Chlorophyll a, chlorophyll b and carotenoids, in the thylakoid membranes, grouped in photosystems. Each absorbs different wavelengths. They are separated by thin layer chromatography and identified by Rf values.' },
+      { n: 2, f: 'Light-dependent stage: what happens and what it makes', b: 'In the thylakoids: photolysis of water gives H⁺, electrons and oxygen; excited electrons pass along the electron transport chain; ATP is made by photophosphorylation (chemiosmosis) and NADP is reduced. Cyclic photophosphorylation makes ATP only.' },
+      { n: 3, f: 'Calvin cycle in three steps', b: 'In the stroma: CO₂ combines with RuBP, catalysed by RuBisCO, giving two GP; GP is reduced to triose phosphate (TP) using ATP and reduced NADP; most TP regenerates RuBP using ATP, and the rest is used to make glucose, amino acids and lipids.' },
+      { n: 4, f: 'Limiting factors of photosynthesis, and the effect of low light on the Calvin cycle', b: 'Light intensity, carbon dioxide concentration and temperature; the factor in shortest supply limits the rate. In low light less ATP and reduced NADP are made, so GP is not reduced: GP builds up while TP and RuBP fall.' },
+    ]),
+    ...sub(M5, 'respiration-ocr-alevel-biology', '5.2.2', [
+      { n: 1, f: 'Glycolysis: gross and net ATP', b: 'Glucose is phosphorylated, split into two triose phosphate and oxidised to two pyruvate. 4 ATP are made and 2 used, so the net gain is 2 ATP, with 2 reduced NAD.' },
+      { n: 2, f: 'Chemiosmosis in mitochondria vs chloroplasts', b: 'Mitochondria: H⁺ pumped into the intermembrane space; electrons from reduced NAD and FAD; final acceptor oxygen.\nChloroplasts: H⁺ pumped into the thylakoid space; electrons from light-excited chlorophyll; final acceptor NADP (non-cyclic).' },
+      { n: 3, f: 'Link reaction and Krebs cycle: products per glucose', b: 'Link reaction (matrix): 2 pyruvate → 2 acetyl CoA, 2 CO₂ and 2 reduced NAD.\nKrebs cycle (two turns): 4 CO₂, 6 reduced NAD, 2 reduced FAD and 2 ATP by substrate-level phosphorylation.' },
+      { n: 4, f: 'Anaerobic respiration in mammals vs yeast', b: 'Mammals: pyruvate is reduced to lactate by lactate dehydrogenase.\nYeast: pyruvate is decarboxylated to ethanal, which is reduced to ethanol.\nBoth regenerate NAD so glycolysis continues, giving 2 ATP per glucose.' },
+      { n: 5, f: 'Respiratory quotient (RQ)', b: 'RQ = CO₂ produced ÷ O₂ taken in. Typical values: carbohydrate 1.0, protein about 0.9, lipid about 0.7. Measured with a respirometer.' },
     ]),
 
     // Module 6 Genetics, evolution and ecosystems
-    ...topicOnly(M6, '6', [
+    ...sub(M6, 'cellular-control-ocr-alevel-biology', '6.1.1', [
       { n: 1, f: 'Silent, missense and nonsense mutations', b: 'Silent: the altered codon codes for the same amino acid (the code is degenerate).\nMissense: one amino acid is changed.\nNonsense: a stop codon forms, giving a shorter polypeptide.', src: MUT },
       { n: 2, f: 'When does an insertion or deletion cause a frameshift?', b: 'When the number of nucleotides added or lost is not a multiple of three. Adding or losing 3, 6, 9… nucleotides keeps the frame, adding or losing amino acids at that site only.' },
       { n: 3, f: 'The lac operon: lactose absent vs present', b: 'Absent: the repressor (from lacI) binds the operator, blocking RNA polymerase, so lacZ and lacY are not transcribed.\nPresent: lactose binds the repressor, changing its shape so it leaves the operator; lacZ (β-galactosidase) and lacY (permease) are transcribed.' },
       { n: 4, f: 'Homeobox sequences vs Hox genes', b: 'A homeobox is a conserved sequence of about 180 base pairs coding for a DNA-binding domain of about 60 amino acids, found in plants, animals and fungi; the proteins act as transcription factors. Hox genes are a subset in animals, in clusters whose order matches the head-to-tail order in which they act.' },
-      { n: 5, f: 'Linkage vs epistasis', b: 'Linkage: genes on the same chromosome are inherited together, so parental classes are commonest.\nEpistasis: one gene masks another because their products interact, giving a modified 9 : 3 : 3 : 1 ratio.', src: VAR6 },
-      { n: 6, f: 'Hardy–Weinberg equations', b: 'p + q = 1 (allele frequencies).\np² + 2pq + q² = 1 (genotype frequencies).\nDominant phenotype = p² + 2pq; recessive phenotype = q².' },
-      { n: 7, f: 'Genetic bottleneck vs founder effect', b: 'Bottleneck: an existing population falls sharply in number, so the survivors carry a reduced, random sample of alleles.\nFounder effect: a new population is started by a few migrants carrying only some of the alleles.' },
-      { n: 8, f: 'Embryo twinning vs somatic cell nuclear transfer (SCNT)', b: 'Embryo twinning splits an embryo from a sexual cross, so the adult features are unknown. SCNT puts the nucleus of an adult body cell into an enucleated egg, so it copies an existing adult.' },
-      { n: 9, f: 'Batch vs continuous culture', b: 'Batch: a closed system that passes through all four growth phases (lag, exponential, stationary, death).\nContinuous: nutrients added and products removed, holding the culture in the exponential phase.', src: BIOT },
-      { n: 10, f: 'Why does a dideoxynucleotide stop DNA synthesis in sequencing?', b: 'It has no 3′ hydroxyl group, so no further nucleotide can be joined to it and the growing strand ends.' },
-      { n: 11, f: 'DNA profiling: what is compared?', b: 'Short tandem repeats (STRs): short base sequences repeated head to tail, with a variable number of repeats. A DNA profile is the combination of repeat lengths at several loci, separated by PCR and electrophoresis.' },
-      { n: 12, f: 'Somatic vs germ line gene therapy', b: 'Somatic: body cells are treated; the change is not inherited.\nGerm line: gametes, a zygote or early embryo are changed; the change is inherited.', src: GENG },
-      { n: 13, f: 'Nitrogen fixation vs nitrification', b: 'Fixation: nitrogen gas → ammonium, by Azotobacter (free-living) and Rhizobium (in root nodules).\nNitrification: ammonium → nitrite (Nitrosomonas) → nitrate (Nitrobacter).' },
-      { n: 14, f: 'Density-dependent vs density-independent factors, and carrying capacity', b: 'Density-dependent: effect strengthens as density rises (food, disease, predation, competition).\nDensity-independent: effect is unrelated to density (frost, flood, drought).\nCarrying capacity: the maximum population an environment can sustain long term.' },
+      { n: 5, f: 'Apoptosis and its role in development', b: 'Programmed cell death: the cytoskeleton breaks down, the chromatin condenses and the cell breaks into vesicles that phagocytes take up. It removes unwanted cells, such as the tissue between developing fingers and toes, and is controlled by cell signals.' },
+    ]),
+    ...sub(M6, 'patterns-of-inheritance-ocr-alevel-biology', '6.1.2', [
+      { n: 1, f: 'Linkage vs epistasis', b: 'Linkage: genes on the same chromosome are inherited together, so parental classes are commonest.\nEpistasis: one gene masks another because their products interact, giving a modified 9 : 3 : 3 : 1 ratio.', src: VAR6 },
+      { n: 2, f: 'Hardy–Weinberg equations', b: 'p + q = 1 (allele frequencies).\np² + 2pq + q² = 1 (genotype frequencies).\nDominant phenotype = p² + 2pq; recessive phenotype = q².' },
+      { n: 3, f: 'Genetic bottleneck vs founder effect', b: 'Bottleneck: an existing population falls sharply in number, so the survivors carry a reduced, random sample of alleles.\nFounder effect: a new population is started by a few migrants carrying only some of the alleles.' },
+      { n: 4, f: 'Chi-squared test: what it tells you', b: 'Whether the difference between observed and expected results is significant. Compare the calculated χ² with the critical value at p = 0.05 for (number of categories − 1) degrees of freedom: if it is larger, the difference is significant and not due to chance.' },
+      { n: 5, f: 'Stabilising vs directional selection', b: 'Stabilising: the average phenotype is favoured and both extremes are selected against, so variation narrows (human birth mass).\nDirectional: one extreme phenotype is favoured, so the mean shifts (antibiotic resistance in bacteria).' },
+      { n: 6, f: 'Allopatric vs sympatric speciation', b: 'Allopatric: a geographical barrier separates populations, which then evolve separately until they cannot interbreed.\nSympatric: populations in the same area become reproductively isolated by reproductive mechanisms, such as different courtship or breeding seasons.' },
+    ]),
+    ...sub(M6, 'manipulating-genomes-ocr-alevel-biology', '6.1.3', [
+      { n: 1, f: 'Why does a dideoxynucleotide stop DNA synthesis in sequencing?', b: 'It has no 3′ hydroxyl group, so no further nucleotide can be joined to it and the growing strand ends.' },
+      { n: 2, f: 'DNA profiling: what is compared?', b: 'Short tandem repeats (STRs): short base sequences repeated head to tail, with a variable number of repeats. A DNA profile is the combination of repeat lengths at several loci, separated by PCR and electrophoresis.' },
+      { n: 3, f: 'Somatic vs germ line gene therapy', b: 'Somatic: body cells are treated; the change is not inherited.\nGerm line: gametes, a zygote or early embryo are changed; the change is inherited.', src: GENG },
+      { n: 4, f: 'PCR: the three steps and temperatures', b: 'Denaturation at about 95 °C separates the strands; annealing at about 55 °C lets primers bind; extension at about 72 °C, where Taq polymerase adds nucleotides. Each cycle doubles the amount of DNA.' },
+      { n: 5, f: 'Steps in genetic engineering', b: 'Cut out the gene with restriction enzymes (or make it from mRNA using reverse transcriptase); cut a plasmid vector with the same enzyme and join the sticky ends with DNA ligase; put the recombinant plasmid into host cells (for example by electroporation); identify transformed cells using marker genes.' },
+    ]),
+    ...sub(M6, 'cloning-and-biotechnology-ocr-alevel-biology', '6.2.1', [
+      { n: 1, f: 'Embryo twinning vs somatic cell nuclear transfer (SCNT)', b: 'Embryo twinning splits an embryo from a sexual cross, so the adult features are unknown. SCNT puts the nucleus of an adult body cell into an enucleated egg, so it copies an existing adult.' },
+      { n: 2, f: 'Batch vs continuous culture', b: 'Batch: a closed system that passes through all four growth phases (lag, exponential, stationary, death).\nContinuous: nutrients added and products removed, holding the culture in the exponential phase.', src: BIOT },
+      { n: 3, f: 'Natural cloning in plants (vegetative propagation)', b: 'Plants reproduce asexually by structures such as runners (strawberry), rhizomes, bulbs and suckers (elm). Gardeners take cuttings, which grow roots and form genetically identical plants.' },
+      { n: 4, f: 'Micropropagation (tissue culture)', b: 'Small pieces of tissue (explants), often from meristems, are sterilised and grown on a sterile medium with nutrients and plant hormones (auxin and cytokinin); they form a callus, which is divided and grows into many identical plantlets.' },
+      { n: 5, f: 'Advantages of immobilised enzymes', b: 'The enzyme does not contaminate the product, can be recovered and reused, and is often more stable over a wider range of temperature and pH. Example: immobilised lactase used to make lactose-free milk.' },
+    ]),
+    ...sub(M6, 'ecosystems-ocr-alevel-biology', '6.3.1', [
+      { n: 1, f: 'Nitrogen fixation vs nitrification', b: 'Fixation: nitrogen gas → ammonium, by Azotobacter (free-living) and Rhizobium (in root nodules).\nNitrification: ammonium → nitrite (Nitrosomonas) → nitrate (Nitrobacter).' },
+      { n: 2, f: 'Efficiency of transfer between trophic levels', b: 'Efficiency = energy (or biomass) in the higher trophic level ÷ energy (or biomass) in the lower one × 100. Energy is lost as heat from respiration, in parts not eaten, in faeces and in excretory products.' },
+      { n: 3, f: 'Primary succession', b: 'Pioneer species such as lichens colonise bare rock; their decay forms a thin soil; mosses, then grasses, shrubs and trees follow, until a stable climax community forms. Deflected succession: human activity, such as grazing, holds the community at a plagioclimax.' },
+      { n: 4, f: 'Abiotic vs biotic factors in an ecosystem', b: 'Abiotic: non-living, such as light, temperature, water availability, pH and soil type.\nBiotic: living, such as predation, competition, parasites and disease.' },
+    ]),
+    ...sub(M6, 'populations-and-sustainability-ocr-alevel-biology', '6.3.2', [
+      { n: 1, f: 'Density-dependent vs density-independent factors, and carrying capacity', b: 'Density-dependent: effect strengthens as density rises (food, disease, predation, competition).\nDensity-independent: effect is unrelated to density (frost, flood, drought).\nCarrying capacity: the maximum population an environment can sustain long term.' },
+      { n: 2, f: 'Interspecific vs intraspecific competition', b: 'Interspecific: between different species for the same resource; one species may outcompete the other.\nIntraspecific: between individuals of the same species; it keeps the population near the carrying capacity.' },
+      { n: 3, f: 'Conservation vs preservation', b: 'Conservation: active management to maintain biodiversity, which can include sustainable use of the resource.\nPreservation: protecting an area by keeping it untouched by human activity.' },
+      { n: 4, f: 'Sustainable management of timber and fish stocks', b: 'Timber: coppicing, selective felling and replanting.\nFish: quotas, minimum mesh sizes, closed seasons and fish farming.' },
     ]),
   ],
 };

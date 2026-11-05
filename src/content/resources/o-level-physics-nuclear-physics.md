@@ -13,6 +13,10 @@ order: 512
 syllabusTopics:
   - qualification: "o-level"
     topic: "nuclear-physics"
+    subtopic: "the-nuclear-model-of-the-atom"
+  - qualification: "o-level"
+    topic: "nuclear-physics"
+    subtopic: "radioactivity"
 description: "A full study guide to nuclear physics for Cambridge O Level Physics 5054: the nuclear atom, radioactivity, half-life, fission, fusion and safety."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25

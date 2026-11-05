@@ -13,6 +13,10 @@ order: 205
 syllabusTopics:
   - qualification: "gcse"
     topic: "international-trade-and-the-global-economy-ocr-gcse-economics"
+    subtopic: "exchange-rates-ocr-gcse-economics"
+  - qualification: "gcse"
+    topic: "international-trade-and-the-global-economy-ocr-gcse-economics"
+    subtopic: "globalisation-ocr-gcse-economics"
 description: "Study guide to OCR GCSE Economics J205 sections 4.3 and 4.4: exchange rate determination, conversion, globalisation and measuring development."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

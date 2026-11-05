@@ -13,6 +13,10 @@ order: 513
 syllabusTopics:
   - qualification: "o-level"
     topic: "space-physics"
+    subtopic: "earth-and-the-solar-system"
+  - qualification: "o-level"
+    topic: "space-physics"
+    subtopic: "stars-and-the-universe"
 description: "Condensed revision notes on space physics for Cambridge O Level Physics (5054): key facts, orbital speed method, star life cycle, redshift and a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25

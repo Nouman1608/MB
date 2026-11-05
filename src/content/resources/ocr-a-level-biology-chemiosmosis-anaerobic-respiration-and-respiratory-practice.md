@@ -13,6 +13,9 @@ order: 227
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "respiration-ocr-alevel-biology"
 description: "Original practice questions with full worked answers on chemiosmosis, anaerobic respiration, RQ and respirometers for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

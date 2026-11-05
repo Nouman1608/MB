@@ -13,6 +13,9 @@ order: 224
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "plant-and-animal-responses-ocr-alevel-biology"
 description: "Condensed revision notes on the nervous system, brain, reflexes, adrenaline, heart rate control and the sliding filament model for OCR A Level Biology A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

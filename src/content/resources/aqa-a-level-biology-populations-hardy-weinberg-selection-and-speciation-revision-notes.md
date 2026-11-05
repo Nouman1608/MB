@@ -14,6 +14,12 @@ order: 170
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+    subtopic: "populations-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+    subtopic: "evolution-may-lead-to-speciation-aqa-alevel-biology"
 description: "Condensed revision notes on gene pools, Hardy-Weinberg calculations, selection types, genetic drift and speciation for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

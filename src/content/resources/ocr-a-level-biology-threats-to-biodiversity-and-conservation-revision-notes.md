@@ -13,6 +13,9 @@ order: 216
 syllabusTopics:
   - qualification: "a-level"
     topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+    subtopic: "biodiversity-ocr-alevel-biology"
 description: "Condensed revision notes for OCR A Level Biology A (H420) 4.2.1(f)-(i): threats, reasons for conservation, in situ and ex situ methods, CITES, CBD and CSS."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

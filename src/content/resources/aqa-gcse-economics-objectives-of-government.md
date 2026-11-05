@@ -12,6 +12,10 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "how-the-economy-works-aqa-gcse-economics"
+    subtopic: "economic-objectives-of-the-government-aqa-gcse-economics"
+  - qualification: "gcse"
+    topic: "how-the-economy-works-aqa-gcse-economics"
+    subtopic: "inflation-and-price-stability-aqa-gcse-economics"
 description: "Stable prices, economic growth, full employment and the balance of payments -- the government's four principal economic objectives, and how pursuing one can undermine another. From section 3.2.2 Government objectives, which follows 3.2.1 (the site's existing guide to Interest Rates and Government Income and Expenditure)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

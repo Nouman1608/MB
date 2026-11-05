@@ -1,10 +1,11 @@
 /**
  * D-438 -- flashcards for AQA GCSE Business 8132 (for first teaching from September 2017).
  *
- * One block per subtopic (topics 1 and 2) or per topic (topics 3 to 6, which the
- * syllabus record lists without subtopics), in syllabus order. Card ids are
- * `<subtopic number>-<n>` or `<topic number>-<n>` and are permanent (browser
- * progress is keyed by them): add a new card with the next unused n, never renumber.
+ * One block per subtopic, in specification order. Card ids are `<subtopic number>-<n>`
+ * and are permanent (browser progress is keyed by them): add a new card with the
+ * next unused n, never renumber. Topics 3 to 6 were itemised into 3.3.1-3.6.4 (and
+ * 3.2.6 added) on 2026-11-05; their former topic-level cards (3-n to 6-n) moved to
+ * the matching subtopic and took new ids there.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs 8132, or a definition from the
@@ -28,17 +29,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, u, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    ...(u ? { tier: 'upper' as const } : {}),
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 const PNB = 'aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership-revision-notes';
 const AIMS = 'aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders-revision-notes';
 const LOC = 'aqa-gcse-business-business-location-and-business-planning-revision-notes';
@@ -48,9 +38,15 @@ const EEC = 'aqa-gcse-business-ethical-and-environmental-considerations-and-the-
 const GL = 'aqa-gcse-business-globalisation-and-legislation-revision-notes';
 const OPS = 'aqa-gcse-business-business-operations-revision-notes';
 const HR = 'aqa-gcse-business-human-resources-revision-notes';
+const MKG = 'aqa-gcse-business-marketing-revision-notes';
+const FIN = 'aqa-gcse-business-finance-revision-notes';
 
 const T1 = 'business-in-the-real-world-aqa-gcse-business';
 const T2 = 'influences-on-business-aqa-gcse-business';
+const T3 = 'business-operations-aqa-gcse-business';
+const T4 = 'human-resources-aqa-gcse-business';
+const T5 = 'marketing-aqa-gcse-business';
+const T6 = 'finance-aqa-gcse-business';
 
 export const DECK_AQA_GCSE_BUSINESS: FlashcardDeck = {
   boardSlug: 'aqa',
@@ -207,69 +203,125 @@ export const DECK_AQA_GCSE_BUSINESS: FlashcardDeck = {
       { n: 8, f: "8 staff each work 15 hours a week for 52 weeks. The legal hourly rate rises by 40p. What is the extra annual wage cost?", b: "Hours = 8 × 15 × 52 = 6,240. Extra cost = 6,240 × £0.40 = £2,496 a year." },
       { n: 9, f: "Law versus ethics", b: "The law is the minimum a business must do. Ethical behaviour can go beyond what the law requires." },
     ]),
+    ...sub(T2, 'competitive-environment-aqa-gcse-business', '3.2.6', [
+      { n: 1, f: "Market and competition", b: "A market is where buyers and sellers come together to exchange goods and services. Competition is rivalry between businesses selling similar products to the same customers." },
+      { n: 2, f: "How can operating in a competitive market affect a business?", b: "It is under pressure to keep prices down, improve quality and customer service, and innovate. It may spend more on promotion, and its market share and profit can fall if rivals do better. Customers gain from more choice and lower prices." },
+      { n: 3, f: "When might a business face little or no competition?", b: "When it is the only supplier in an area (such as the one shop in a village), has a new or unique product that rivals cannot yet copy, or is in a market that is very costly for new firms to enter." },
+      { n: 4, f: "Why do all businesses face uncertainty and risk?", b: "The future cannot be known: customer tastes, competitors' actions, the economic climate, technology and laws can all change, so sales, costs and profit cannot be predicted with certainty." },
+      { n: 5, f: "Why do entrepreneurs start businesses despite the risks, and how can a business reduce risk?", b: "Reasons: profit, independence, being their own boss and meeting a need they have spotted. Reducing risk: market research, a business plan, starting small, insurance, limited liability and selling a range of products." },
+    ]),
 
     // 3 Business operations
-    ...topicOnly('business-operations-aqa-gcse-business', '3', [
+    ...sub(T3, 'production-processes-aqa-gcse-business', '3.3.1', [
       { n: 1, f: "Job production versus flow production", b: "Job: one item at a time, made to order; flexible and personal but slow, needs skilled labour, high unit cost.\nFlow: large volumes of identical items made continuously; low unit cost but costly machinery, inflexible, needs large demand." },
       { n: 2, f: "Fixed costs £18,000 a month, variable cost £6 per unit. Find the unit cost at 3,000 and at 6,000 units.", b: "3,000: (18,000 + 18,000) ÷ 3,000 = £12.\n6,000: (18,000 + 36,000) ÷ 6,000 = £9.\nFixed costs are spread over more units, which is why flow production lowers unit cost." },
       { n: 3, f: "Lean production", b: "Producing with as little waste as possible: of time, materials, space, effort and money. Techniques include removing unnecessary steps, keeping stock low, fixing faults where they occur and involving workers in improvements.", src: OPS },
       { n: 4, f: "Just in time (JIT)", b: "A lean technique: materials arrive just before they are needed and finished goods go out quickly, so little stock is held.", src: OPS },
-      { n: 5, f: "JIT versus just in case (JIC) stock management", b: "JIT: minimal stock; lower holding costs and less cash tied up, but more frequent deliveries, lost bulk discounts, and a late delivery stops production.\nJIC: buffer stock meets sudden demand, but costs money to hold and may go out of date." },
-      { n: 6, f: "Procurement and logistics", b: "Procurement: obtaining the goods and services a business needs from suppliers. Logistics: moving and storing those goods (transport, warehousing, delivery).", src: OPS },
-      { n: 7, f: "The three factors in choosing a supplier", b: "Price (lower cuts costs but may mean lower quality), quality (poor materials cause faults and complaints) and reliability (late deliveries disrupt production, especially under JIT)." },
-      { n: 8, f: "Supply chain, and what effective supply chain management means", b: "The series of businesses and activities that take a product from raw materials to the final customer. Managing it well means working with suppliers efficiently, getting the best price and value, and cutting waste for fast production." },
-      { n: 9, f: "Total quality management (TQM)", b: "Quality is the responsibility of every employee in every department, aiming to get things right first time rather than checking at the end. Gives fewer defects, less waste and higher customer satisfaction.", src: OPS },
-      { n: 10, f: "Costs and benefits of maintaining quality", b: "Costs: inspection, staff training, time and effort in providing services.\nBenefits: additional sales, a better image and reputation, the ability to charge a higher price, fewer costly product recalls." },
-      { n: 11, f: "Defect rate: formula and example", b: "Defect rate = faulty items ÷ items produced × 100.\nExample: 45 faulty out of 1,500: 45 ÷ 1,500 × 100 = 3%." },
-      { n: 12, f: "Methods of good customer service, and the dangers of poor service", b: "Methods: product knowledge, customer engagement, post-sales services (user training, help lines, servicing).\nDangers of poor service: dissatisfied customers, a poor reputation through word of mouth, lower revenue." },
+    ]),
+    ...sub(T3, 'the-role-of-procurement-aqa-gcse-business', '3.3.2', [
+      { n: 1, f: "JIT versus just in case (JIC) stock management", b: "JIT: minimal stock; lower holding costs and less cash tied up, but more frequent deliveries, lost bulk discounts, and a late delivery stops production.\nJIC: buffer stock meets sudden demand, but costs money to hold and may go out of date." },
+      { n: 2, f: "Procurement and logistics", b: "Procurement: obtaining the goods and services a business needs from suppliers. Logistics: moving and storing those goods (transport, warehousing, delivery).", src: OPS },
+      { n: 3, f: "The three factors in choosing a supplier", b: "Price (lower cuts costs but may mean lower quality), quality (poor materials cause faults and complaints) and reliability (late deliveries disrupt production, especially under JIT)." },
+      { n: 4, f: "Supply chain, and what effective supply chain management means", b: "The series of businesses and activities that take a product from raw materials to the final customer. Managing it well means working with suppliers efficiently, getting the best price and value, and cutting waste for fast production." },
+    ]),
+    ...sub(T3, 'the-concept-of-quality-aqa-gcse-business', '3.3.3', [
+      { n: 1, f: "Total quality management (TQM)", b: "Quality is the responsibility of every employee in every department, aiming to get things right first time rather than checking at the end. Gives fewer defects, less waste and higher customer satisfaction.", src: OPS },
+      { n: 2, f: "Costs and benefits of maintaining quality", b: "Costs: inspection, staff training, time and effort in providing services.\nBenefits: additional sales, a better image and reputation, the ability to charge a higher price, fewer costly product recalls." },
+      { n: 3, f: "Defect rate: formula and example", b: "Defect rate = faulty items ÷ items produced × 100.\nExample: 45 faulty out of 1,500: 45 ÷ 1,500 × 100 = 3%." },
+      { n: 4, f: "Why can outsourcing and franchising cause quality problems as a business grows?", b: "Another business does the work, so the firm has less direct control over standards. A poor supplier or franchisee can damage the whole brand, so it needs clear standards, agreements and checks." },
+    ]),
+    ...sub(T3, 'good-customer-services-aqa-gcse-business', '3.3.4', [
+      { n: 1, f: "Methods of good customer service, and the dangers of poor service", b: "Methods: product knowledge, customer engagement, post-sales services (user training, help lines, servicing).\nDangers of poor service: dissatisfied customers, a poor reputation through word of mouth, lower revenue." },
+      { n: 2, f: "The sales process", b: "The customer finds out about the product, is helped to choose, buys, and is supported afterwards.", src: OPS },
+      { n: 3, f: "Benefits of good customer service", b: "Greater customer satisfaction, customer loyalty, increased spend and so higher profitability." },
+      { n: 4, f: "How have advances in ICT changed customer service?", b: "Websites give information and support at any hour; e-commerce lets customers order online; social media allows quick two-way contact and public replies to complaints, so poor service also becomes visible quickly." },
+      { n: 5, f: "A shop has 1,500 customers a month spending £12 each. Poor service loses 4% of them. What revenue is lost?", b: "1,500 × 0.04 = 60 customers; 60 × £12 = £720 a month, or £8,640 a year." },
     ]),
 
     // 4 Human resources
-    ...topicOnly('human-resources-aqa-gcse-business', '4', [
+    ...sub(T4, 'organisational-structures-aqa-gcse-business', '3.4.1', [
       { n: 1, f: "Organisational structure and chain of command", b: "Organisational structure: how the business is arranged, with roles, responsibilities and reporting lines. Chain of command: the route by which authority passes from senior to junior staff.", src: HR },
       { n: 2, f: "Span of control, with an example", b: "How many staff report directly to a single manager. 35 mechanics and 5 team leaders: 35 ÷ 5 = a span of 7.", src: HR },
       { n: 3, f: "Tall structure versus flat structure", b: "Tall: many levels, narrow spans, long chain of command, slower communication, close control, higher wage cost.\nFlat: few levels, wide spans, short chain, quicker communication, more independent staff, lower wage cost." },
       { n: 4, f: "Delegation and delayering", b: "Delegation: handing a task and the authority to decide it to a lower level (the manager stays accountable). Delayering: taking out a layer or layers of management.", src: HR },
       { n: 5, f: "Centralised versus decentralised decision-making", b: "Centralised (decisions at the top): consistent, tight control, but slow and may demotivate.\nDecentralised (decisions lower down): fast, locally informed, motivating, but decisions may differ between sites." },
-      { n: 6, f: "Internal versus external recruitment", b: "Internal: cheaper, quicker, a known person, motivates staff, but a narrow choice, no fresh ideas, and creates another vacancy.\nExternal: wider choice and new ideas, but costly, slower and an unknown person." },
-      { n: 7, f: "Job description versus person specification", b: "Job description: about the job, with its title, duties and responsibilities. Person specification: about the person wanted, with qualifications, skills, experience and qualities." },
-      { n: 8, f: "Types of employment contract", b: "Full time: a standard full working week. Part time: fewer hours. Job share: one job split between two people. Zero hours: no guaranteed hours; flexible and low cost when quiet, but uncertain income for the worker and less loyalty." },
-      { n: 9, f: "Financial methods of motivation", b: "Salary: a fixed yearly sum. Wage: an hourly rate × hours worked. Commission: a percentage of sales. Profit sharing: employees receive a share of profits." },
-      { n: 10, f: "Salary £1,500 a month plus 3% commission on sales of £20,000. What is the total pay?", b: "Commission = 3% × £20,000 = £600. Total = £1,500 + £600 = £2,100." },
-      { n: 11, f: "Non-financial methods of motivation, and why motivation matters", b: "Methods: styles of management, training, greater responsibility, fringe benefits. A motivated workforce brings staff retention and high productivity. Named motivation theories (such as Maslow) are not examined in 8132." },
-      { n: 12, f: "Induction, on-the-job and off-the-job training", b: "Induction: settles new staff, covers rules and safety. On the job: cheaper, relevant, but the trainer's output falls and bad habits can pass on. Off the job: expert teaching and qualifications, but dearer and the worker is absent." },
+    ]),
+    ...sub(T4, 'recruitment-and-selection-of-employees-aqa-gcse-business', '3.4.2', [
+      { n: 1, f: "Internal versus external recruitment", b: "Internal: cheaper, quicker, a known person, motivates staff, but a narrow choice, no fresh ideas, and creates another vacancy.\nExternal: wider choice and new ideas, but costly, slower and an unknown person." },
+      { n: 2, f: "Job description versus person specification", b: "Job description: about the job, with its title, duties and responsibilities. Person specification: about the person wanted, with qualifications, skills, experience and qualities." },
+      { n: 3, f: "Types of employment contract", b: "Full time: a standard full working week. Part time: fewer hours. Job share: one job split between two people. Zero hours: no guaranteed hours; flexible and low cost when quiet, but uncertain income for the worker and less loyalty." },
+      { n: 4, f: "The stages of recruitment and selection, in order", b: "Job analysis, job description, person specification, advertise, shortlist, selection methods (interview, tests, assessment centre, references), then offer and contract." },
+      { n: 5, f: "Why do businesses recruit, and what are the benefits of an effective recruitment process?", b: "Reasons: growth, replacing leavers, new skills, new roles. Benefits: high productivity from the right skills, high quality output or customer service, and staff retention, which saves repeated recruitment costs." },
+    ]),
+    ...sub(T4, 'motivating-employees-aqa-gcse-business', '3.4.3', [
+      { n: 1, f: "Financial methods of motivation", b: "Salary: a fixed yearly sum. Wage: an hourly rate × hours worked. Commission: a percentage of sales. Profit sharing: employees receive a share of profits." },
+      { n: 2, f: "Salary £1,500 a month plus 3% commission on sales of £20,000. What is the total pay?", b: "Commission = 3% × £20,000 = £600. Total = £1,500 + £600 = £2,100." },
+      { n: 3, f: "Non-financial methods of motivation, and why motivation matters", b: "Methods: styles of management, training, greater responsibility, fringe benefits. A motivated workforce brings staff retention and high productivity. Named motivation theories (such as Maslow) are not examined in 8132." },
+      { n: 4, f: "Profit sharing: 12% of a £40,000 profit is shared equally among 16 staff. How much does each receive?", b: "12% × £40,000 = £4,800; £4,800 ÷ 16 = £300 each." },
+      { n: 5, f: "When do financial methods of motivation work best, and when do non-financial methods matter more?", b: "Financial methods suit low-paid staff and sales roles. Non-financial methods (management style, training, responsibility, fringe benefits) matter more where pay is already fair. A mix often works best." },
+    ]),
+    ...sub(T4, 'training-aqa-gcse-business', '3.4.4', [
+      { n: 1, f: "Induction, on-the-job and off-the-job training", b: "Induction: settles new staff, covers rules and safety. On the job: cheaper, relevant, but the trainer's output falls and bad habits can pass on. Off the job: expert teaching and qualifications, but dearer and the worker is absent." },
+      { n: 2, f: "Benefits of training the workforce", b: "Increased productivity, the ability to cope with changes in technology, increased motivation, staff retention, high-quality goods and good customer service." },
+      { n: 3, f: "Why is induction training useful?", b: "It settles new staff in, covers rules and safe working, gets them productive more quickly and helps keep them. Its drawback is the time before real work starts." },
+      { n: 4, f: "How do you choose between on-the-job and off-the-job training for a business?", b: "Say which suits the business and give a reason from the case (cost, size, technology, risk to customers), then weigh the alternative. Off the job suits specialist skills or work where errors in front of customers are costly." },
     ]),
 
     // 5 Marketing
-    ...topicOnly('marketing-aqa-gcse-business', '5', [
+    ...sub(T5, 'identifying-and-understanding-customers-aqa-gcse-business', '3.5.1', [
       { n: 1, f: "Why is it important to identify and satisfy customer needs?", b: "To provide a product customers will buy, increase sales, select the correct marketing mix, avoid costly mistakes and be competitive." },
-      { n: 2, f: "The four types of market segmentation named in the specification", b: "Gender, age, location and income. Segmenting lets the mix fit each group; too narrow a target can limit sales." },
-      { n: 3, f: "Primary versus secondary market research", b: "Primary: collected first-hand (questionnaires, surveys, interviews, focus groups). Secondary: information that already exists (internet research, the printed press)." },
-      { n: 4, f: "Quantitative versus qualitative data", b: "Quantitative: numbers (60% like the flavour). Qualitative: opinions and reasons (they find it too sweet)." },
-      { n: 5, f: "A firm sells 9,000 units in a market of 150,000. The market grows to 165,000 and its sales stay the same. What happens to its market share?", b: "Before: 9,000 ÷ 150,000 × 100 = 6%. After: 9,000 ÷ 165,000 × 100 = 5.5% (1 d.p.). Same sales, smaller share." },
-      { n: 6, f: "The five pricing methods in the specification", b: "Price skimming: high at first, then lowered. Price penetration: low at first to gain share. Competitive pricing: close to rivals. Loss leader: below cost to bring in customers. Cost-plus: unit cost plus a mark-up." },
-      { n: 7, f: "A unit costs £12 and the mark-up is 25%. What is the cost-plus price?", b: "£12 × 1.25 = £15, giving £3 profit per unit. (Mark-up is profit as a percentage of cost.)" },
-      { n: 8, f: "The stages of the product life cycle", b: "Research and development (no sales), introduction (low sales, heavy promotion), growth (sales rising fast), maturity (sales peak and flatten), decline (sales fall: extension strategy or withdraw)." },
-      { n: 9, f: "Extension strategies named in the specification", b: "Update the packaging, add more or different features, change the target market, advertising, price reduction." },
-      { n: 10, f: "The Boston Matrix: the four categories", b: "Star: high share, high market growth. Cash cow: high share, low growth. Question mark: low share, high growth. Dog: low share, low growth. Used to balance the portfolio, with cash cows funding stars and question marks." },
-      { n: 11, f: "Reasons for promotion, and factors that influence the promotional mix", b: "Reasons: inform or remind, create or increase sales, create or change image, persuade.\nFactors: finance available, competitor actions, nature of the product, nature of the market, target market." },
-      { n: 12, f: "Methods of place (distribution) and e-commerce / m-commerce", b: "Retailers reach the public but take a margin; wholesalers buy in bulk and reach many shops; telesales sell by phone. E-commerce (internet) and m-commerce (mobile) give wider reach and are always open, but bring security and delivery issues." },
+      { n: 2, f: "How does marketing link to the business's objectives and other functions?", b: "Business objectives are split into functional plans with clear links between operations, human resources, marketing and finance. Marketing plans follow from the objectives and depend on the other functions." },
+      { n: 3, f: "What can go wrong if a business does not understand its customers?", b: "It may make a product few will buy, choose the wrong marketing mix, waste money on costly mistakes and lose sales to competitors who meet customer needs better." },
+    ]),
+    ...sub(T5, 'segmentation-aqa-gcse-business', '3.5.2', [
+      { n: 1, f: "The four types of market segmentation named in the specification", b: "Gender, age, location and income. Segmenting lets the mix fit each group; too narrow a target can limit sales." },
+      { n: 2, f: "Market segmentation", b: "Splitting a market into groups so each can be targeted.", src: MKG },
+      { n: 3, f: "Give an example of each type of segmentation", b: "Gender: different ranges for men and women. Age: toys for under-fives versus teenagers. Location: raincoats stocked in wet regions. Income: budget and premium versions." },
+      { n: 4, f: "Why segment a market?", b: "So the marketing mix fits each group and money is not wasted on customers who will not buy. The risk is that too narrow a target limits sales." },
+    ]),
+    ...sub(T5, 'the-purpose-and-methods-of-market-research-aqa-gcse-business', '3.5.3', [
+      { n: 1, f: "Primary versus secondary market research", b: "Primary: collected first-hand (questionnaires, surveys, interviews, focus groups). Secondary: information that already exists (internet research, the printed press)." },
+      { n: 2, f: "Quantitative versus qualitative data", b: "Quantitative: numbers (60% like the flavour). Qualitative: opinions and reasons (they find it too sweet)." },
+      { n: 3, f: "A firm sells 9,000 units in a market of 150,000. The market grows to 165,000 and its sales stay the same. What happens to its market share?", b: "Before: 9,000 ÷ 150,000 × 100 = 6%. After: 9,000 ÷ 165,000 × 100 = 5.5% (1 d.p.). Same sales, smaller share." },
+      { n: 4, f: "Why do businesses carry out market research?", b: "To identify market opportunities and get a better insight into customers and competitors, collecting information about demand, competition and the target market." },
+      { n: 5, f: "One benefit and one drawback of a focus group and of internet research", b: "Focus group (primary): gives reasons and opinions, but the group is small and may not be representative.\nInternet research (secondary): fast and often free, but may be out of date or unreliable." },
+      { n: 6, f: "Market size versus market share", b: "Market size: the total sales of every business in the market. Market share: one firm's sales as a percentage of that total (its sales ÷ market sales × 100)." },
+    ]),
+    ...sub(T5, 'the-marketing-mix-aqa-gcse-business', '3.5.4', [
+      { n: 1, f: "The five pricing methods in the specification", b: "Price skimming: high at first, then lowered. Price penetration: low at first to gain share. Competitive pricing: close to rivals. Loss leader: below cost to bring in customers. Cost-plus: unit cost plus a mark-up." },
+      { n: 2, f: "A unit costs £12 and the mark-up is 25%. What is the cost-plus price?", b: "£12 × 1.25 = £15, giving £3 profit per unit. (Mark-up is profit as a percentage of cost.)" },
+      { n: 3, f: "The stages of the product life cycle", b: "Research and development (no sales), introduction (low sales, heavy promotion), growth (sales rising fast), maturity (sales peak and flatten), decline (sales fall: extension strategy or withdraw)." },
+      { n: 4, f: "Extension strategies named in the specification", b: "Update the packaging, add more or different features, change the target market, advertising, price reduction." },
+      { n: 5, f: "The Boston Matrix: the four categories", b: "Star: high share, high market growth. Cash cow: high share, low growth. Question mark: low share, high growth. Dog: low share, low growth. Used to balance the portfolio, with cash cows funding stars and question marks." },
+      { n: 6, f: "Reasons for promotion, and factors that influence the promotional mix", b: "Reasons: inform or remind, create or increase sales, create or change image, persuade.\nFactors: finance available, competitor actions, nature of the product, nature of the market, target market." },
+      { n: 7, f: "Methods of place (distribution) and e-commerce / m-commerce", b: "Retailers reach the public but take a margin; wholesalers buy in bulk and reach many shops; telesales sell by phone. E-commerce (internet) and m-commerce (mobile) give wider reach and are always open, but bring security and delivery issues." },
     ]),
 
     // 6 Finance
-    ...topicOnly('finance-aqa-gcse-business', '6', [
+    ...sub(T6, 'sources-of-finance-aqa-gcse-business', '3.6.1', [
       { n: 1, f: "Internal and external sources of finance", b: "Internal: retained profit, selling unwanted assets.\nExternal: family and friends, new share issue, loan or mortgage, overdraft, trade credit, hire purchase, government grants." },
       { n: 2, f: "Overdraft versus loan", b: "Overdraft: short term and flexible, for a temporary gap; interest is high and the bank can withdraw it.\nLoan: a fixed amount with set repayments, suited to a big long-term purchase; interest is paid and security may be needed." },
       { n: 3, f: "Why does a start-up find it harder to raise finance than an established business?", b: "It has no retained profit, no track record and little security, so it often relies on the owner's savings, family and friends, grants or a loan backed by a business plan." },
       { n: 4, f: "Hire purchase: a £600 deposit plus 10 payments of £250. What is the total paid?", b: "£600 + (10 × £250) = £3,100. The extra cost is the total paid minus the cash price." },
-      { n: 5, f: "Net cash flow and closing balance: formulas and example", b: "Net cash flow = inflows − outflows. Closing balance = opening balance + net cash flow, and it becomes next month's opening balance.\nExample: opening £2,200, inflows £9,100, outflows £10,000: net −£900, closing £1,300." },
-      { n: 6, f: "Why is cash not the same as profit?", b: "A business can make a profit on paper from credit sales while short of cash to pay staff and suppliers now. It can also have plenty of cash from a loan while making a loss." },
-      { n: 7, f: "Ways to improve cash flow", b: "Re-schedule payments, use an overdraft, reduce outflows, increase inflows, or find new finance. First identify what caused the problem." },
-      { n: 8, f: "Average rate of return (ARR): formula and example", b: "ARR = [(total return − cost of investment) ÷ years] ÷ cost of investment × 100.\nCost £20,000, total return £29,000 over 3 years: £9,000 ÷ 3 = £3,000 a year; 3,000 ÷ 20,000 × 100 = 15%." },
-      { n: 9, f: "Reading a break-even chart", b: "Fixed costs: a horizontal line. Total costs: start at fixed costs and slope up. Revenue: starts at zero and slopes up more steeply. Break-even is where revenue meets total costs; loss to the left, profit to the right. AQA asks you to read the chart, not draw it." },
-      { n: 10, f: "Margin of safety, with an example", b: "Actual output − break-even output. Break-even 900 units, sales 1,150 units: margin of safety = 250 units." },
-      { n: 11, f: "Sales revenue £120,000, cost of sales £78,000, expenses £33,000. Find gross and net profit and their margins.", b: "Gross profit = £42,000; margin 42,000 ÷ 120,000 × 100 = 35%.\nNet profit = £42,000 − £33,000 = £9,000; margin 9,000 ÷ 120,000 × 100 = 7.5%." },
-      { n: 12, f: "Income statement versus statement of financial position", b: "Income statement: performance over a period (sales revenue, cost of sales, gross profit, expenses, net profit). Statement of financial position: a snapshot on one date of assets, liabilities, net assets and owners' funds." },
+    ]),
+    ...sub(T6, 'cash-flow-aqa-gcse-business', '3.6.2', [
+      { n: 1, f: "Net cash flow and closing balance: formulas and example", b: "Net cash flow = inflows − outflows. Closing balance = opening balance + net cash flow, and it becomes next month's opening balance.\nExample: opening £2,200, inflows £9,100, outflows £10,000: net −£900, closing £1,300." },
+      { n: 2, f: "Why is cash not the same as profit?", b: "A business can make a profit on paper from credit sales while short of cash to pay staff and suppliers now. It can also have plenty of cash from a loan while making a loss." },
+      { n: 3, f: "Ways to improve cash flow", b: "Re-schedule payments, use an overdraft, reduce outflows, increase inflows, or find new finance. First identify what caused the problem." },
+      { n: 4, f: "Why is cash important to a business, and what can a cash flow problem lead to?", b: "Cash pays staff, suppliers and bills when they are due. Without it a business may miss payments, lose supplier trust, pay overdraft interest or even fail, however profitable it is. Positive cash flow allows it to pay on time and invest." },
+    ]),
+    ...sub(T6, 'financial-terms-and-calculations-aqa-gcse-business', '3.6.3', [
+      { n: 1, f: "Average rate of return (ARR): formula and example", b: "ARR = [(total return − cost of investment) ÷ years] ÷ cost of investment × 100.\nCost £20,000, total return £29,000 over 3 years: £9,000 ÷ 3 = £3,000 a year; 3,000 ÷ 20,000 × 100 = 15%." },
+      { n: 2, f: "Reading a break-even chart", b: "Fixed costs: a horizontal line. Total costs: start at fixed costs and slope up. Revenue: starts at zero and slopes up more steeply. Break-even is where revenue meets total costs; loss to the left, profit to the right. AQA asks you to read the chart, not draw it." },
+      { n: 3, f: "Margin of safety, with an example", b: "Actual output − break-even output. Break-even 900 units, sales 1,150 units: margin of safety = 250 units." },
+      { n: 4, f: "Fixed costs, variable costs and total costs", b: "Fixed costs do not change with output; variable costs change with output; total costs are fixed plus variable costs. Profit (or loss) = revenue − total costs, where revenue = price × quantity sold." },
+      { n: 5, f: "The value and limits of break-even analysis", b: "Value: shows the sales needed to survive, supports a loan application and tests price and cost changes. Limits: assumes all output sells at a constant price and variable cost per unit, depends on forecasts and ignores the timing of cash." },
+    ]),
+    ...sub(T6, 'analysing-the-financial-performance-of-a-business-aqa-gcse-business', '3.6.4', [
+      { n: 1, f: "Sales revenue £120,000, cost of sales £78,000, expenses £33,000. Find gross and net profit and their margins.", b: "Gross profit = £42,000; margin 42,000 ÷ 120,000 × 100 = 35%.\nNet profit = £42,000 − £33,000 = £9,000; margin 9,000 ÷ 120,000 × 100 = 7.5%." },
+      { n: 2, f: "Income statement versus statement of financial position", b: "Income statement: performance over a period (sales revenue, cost of sales, gross profit, expenses, net profit). Statement of financial position: a snapshot on one date of assets, liabilities, net assets and owners' funds." },
+      { n: 3, f: "Asset and liability", b: "Asset: what the business owns or is owed. Liability: what it owes.", src: FIN },
+      { n: 4, f: "How do you judge a business's financial performance from its statements?", b: "Compare current figures with previous years and with competitors, and look at them from each stakeholder's view: owners want profit, lenders the ability to repay, employees security and suppliers prompt payment." },
     ]),
   ],
 };

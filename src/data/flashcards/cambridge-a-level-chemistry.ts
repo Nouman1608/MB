@@ -609,7 +609,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY: FlashcardDeck = {
       { n: 3, f: 'Why are transition metal complexes coloured?', b: 'Ligands split the d orbitals. An electron absorbs visible light of frequency given by ΔE = hf and is promoted to the higher set. The colour seen is the complementary colour of the light absorbed.' },
       { n: 4, f: 'Why are Sc³⁺ and Zn²⁺ compounds colourless?', b: 'Sc³⁺ is d⁰ (no electron to promote) and Zn²⁺ is d¹⁰ (no vacancy in the higher set), so no d–d transition is possible.' },
       { n: 5, f: 'Why does ligand exchange change the colour of a complex?', b: 'Different ligands split the d orbitals by different amounts, so ΔE changes, a different frequency is absorbed and a different complementary colour is seen.' },
-      { n: 6, f: 'Cobalt(II): aqua ion, with excess NH₃(aq), and with concentrated HCl', b: '[Co(H₂O)₆]²⁺: pink.\nExcess NH₃: [Co(NH₃)₆]²⁺, pale brown (straw), darkens in air.\nConc. HCl: [CoCl₄]²⁻, blue, tetrahedral.' },
+      { n: 6, f: 'Cobalt(II): aqua ion, with excess NH₃(aq), and with concentrated HCl', b: '[Co(H₂O)₆]²⁺: pink.\nExcess NH₃: [Co(NH₃)₆]²⁺, pale yellow-brown (straw), darkens in air.\nConc. HCl: [CoCl₄]²⁻, blue, tetrahedral.' },
     ]),
     ...sub('a-chemistry-of-transition-elements', 'a-stereoisomerism-in-transition-element-complexes', '28.4', [
       { n: 1, f: 'Cis and trans isomers of [Pt(NH₃)₂Cl₂]', b: 'Square planar. Cis: the two Cl⁻ at 90° (cisplatin, an anti-cancer drug). Trans: the two Cl⁻ at 180°.' },

@@ -14,6 +14,12 @@ order: 155
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "dna-genes-and-chromosomes-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "dna-and-protein-synthesis-aqa-alevel-biology"
 description: "Condensed AQA A-level Biology revision notes on sections 3.4.1 and 3.4.2: chromosomes, the genetic code, transcription, translation and a short self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

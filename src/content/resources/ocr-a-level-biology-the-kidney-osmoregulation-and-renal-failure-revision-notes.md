@@ -13,6 +13,9 @@ order: 220
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "excretion-as-an-example-of-homeostatic-control-ocr-alevel-biology"
 description: "Condensed revision notes on the nephron, ultrafiltration, ADH, kidney failure, dialysis, transplants and urine tests for OCR A Level Biology A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

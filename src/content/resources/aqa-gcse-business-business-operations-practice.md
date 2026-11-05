@@ -13,6 +13,16 @@ order: 802
 syllabusTopics:
   - qualification: "gcse"
     topic: "business-operations-aqa-gcse-business"
+    subtopic: "production-processes-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "business-operations-aqa-gcse-business"
+    subtopic: "the-role-of-procurement-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "business-operations-aqa-gcse-business"
+    subtopic: "the-concept-of-quality-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "business-operations-aqa-gcse-business"
+    subtopic: "good-customer-services-aqa-gcse-business"
 description: "Original short-answer, calculation and case-study questions with worked answers on production, procurement, quality and service for AQA GCSE Business."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25

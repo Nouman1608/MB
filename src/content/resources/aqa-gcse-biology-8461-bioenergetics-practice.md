@@ -13,6 +13,12 @@ order: 4
 syllabusTopics:
   - qualification: "gcse"
     topic: "bioenergetics-aqa-gcse-biology"
+  - qualification: "gcse"
+    topic: "bioenergetics-aqa-gcse-biology"
+    subtopic: "photosynthesis-aqa-gcse-biology"
+  - qualification: "gcse"
+    topic: "bioenergetics-aqa-gcse-biology"
+    subtopic: "respiration-aqa-gcse-biology"
 description: "Eleven original AQA GCSE Biology 8461 Bioenergetics questions on photosynthesis rate, limiting factors, respiration and exercise, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

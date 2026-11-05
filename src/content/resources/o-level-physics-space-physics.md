@@ -13,6 +13,10 @@ order: 513
 syllabusTopics:
   - qualification: "o-level"
     topic: "space-physics"
+    subtopic: "earth-and-the-solar-system"
+  - qualification: "o-level"
+    topic: "space-physics"
+    subtopic: "stars-and-the-universe"
 description: "Study guide to space physics for Cambridge O Level Physics (5054): orbital speed, the Solar System, the Sun, the life cycle of stars and redshift."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25

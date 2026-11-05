@@ -14,6 +14,9 @@ order: 171
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+    subtopic: "populations-in-ecosystems-aqa-alevel-biology"
 description: "Niche, carrying capacity, quadrats, transects, mark-release-recapture, succession and conservation for AQA A-level Biology, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

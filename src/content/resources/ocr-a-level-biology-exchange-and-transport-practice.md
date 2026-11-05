@@ -13,6 +13,15 @@ order: 518
 syllabusTopics:
   - qualification: "a-level"
     topic: "exchange-and-transport-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "exchange-and-transport-ocr-alevel-biology"
+    subtopic: "exchange-surfaces-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "exchange-and-transport-ocr-alevel-biology"
+    subtopic: "transport-in-animals-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "exchange-and-transport-ocr-alevel-biology"
+    subtopic: "transport-in-plants-ocr-alevel-biology"
 description: "Twelve original worked questions on gas exchange, the heart, haemoglobin and plant transport for OCR A Level Biology A (H420), Module 3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
