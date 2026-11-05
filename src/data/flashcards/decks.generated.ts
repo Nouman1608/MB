@@ -6,6 +6,7 @@ import { DECK_AQA_A_LEVEL_CHEMISTRY } from './aqa-a-level-chemistry.ts';
 import { DECK_AQA_A_LEVEL_ECONOMICS } from './aqa-a-level-economics.ts';
 import { DECK_AQA_A_LEVEL_MATHEMATICS } from './aqa-a-level-mathematics.ts';
 import { DECK_AQA_A_LEVEL_PHYSICS } from './aqa-a-level-physics.ts';
+import { DECK_AQA_AS_LEVEL_BUSINESS } from './aqa-as-level-business.ts';
 import { DECK_AQA_AS_LEVEL_ECONOMICS } from './aqa-as-level-economics.ts';
 import { DECK_AQA_GCSE_BIOLOGY } from './aqa-gcse-biology.ts';
 import { DECK_AQA_GCSE_BUSINESS } from './aqa-gcse-business.ts';
@@ -68,6 +69,7 @@ import { DECK_OXFORDAQA_A_LEVEL_CHEMISTRY } from './oxfordaqa-a-level-chemistry.
 import { DECK_OXFORDAQA_A_LEVEL_ECONOMICS } from './oxfordaqa-a-level-economics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_MATHEMATICS } from './oxfordaqa-a-level-mathematics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_PHYSICS } from './oxfordaqa-a-level-physics.ts';
+import { DECK_OXFORDAQA_IGCSE_BUSINESS } from './oxfordaqa-igcse-business.ts';
 import { DECK_OXFORDAQA_IGCSE_CHEMISTRY } from './oxfordaqa-igcse-chemistry.ts';
 import { DECK_OXFORDAQA_IGCSE_ECONOMICS } from './oxfordaqa-igcse-economics.ts';
 import { DECK_OXFORDAQA_IGCSE_MATHEMATICS } from './oxfordaqa-igcse-mathematics.ts';
@@ -80,6 +82,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_AQA_A_LEVEL_ECONOMICS,
   DECK_AQA_A_LEVEL_MATHEMATICS,
   DECK_AQA_A_LEVEL_PHYSICS,
+  DECK_AQA_AS_LEVEL_BUSINESS,
   DECK_AQA_AS_LEVEL_ECONOMICS,
   DECK_AQA_GCSE_BIOLOGY,
   DECK_AQA_GCSE_BUSINESS,
@@ -142,6 +145,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OXFORDAQA_A_LEVEL_ECONOMICS,
   DECK_OXFORDAQA_A_LEVEL_MATHEMATICS,
   DECK_OXFORDAQA_A_LEVEL_PHYSICS,
+  DECK_OXFORDAQA_IGCSE_BUSINESS,
   DECK_OXFORDAQA_IGCSE_CHEMISTRY,
   DECK_OXFORDAQA_IGCSE_ECONOMICS,
   DECK_OXFORDAQA_IGCSE_MATHEMATICS,
