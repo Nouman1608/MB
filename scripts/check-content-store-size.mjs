@@ -9,12 +9,15 @@
  * and no --max-old-space-size setting can fix it.
  *
  * On 5 Nov 2026 the store was about 319 million characters (59% of the
- * limit). This check runs after a build (in audit:all) and:
+ * limit). D-440 then stopped keeping each resource's Markdown source
+ * (`retainBody: false`), which brought it to about 196 million (36.5%).
+ *
+ * This check runs after a build (in audit:all) and:
  *   - warns at 75% of the limit, so there is time to plan the fix;
  *   - fails at 90%, before the build itself starts failing.
  *
- * The fix, when it is needed, is to move the largest collections out of the
- * single store (for example, loading the resource Markdown per page), not to
+ * The next fix, when it is needed, is to stop keeping the rendered HTML
+ * (about 160 MB) in the store (`deferRender`; untried, see D-440), not to
  * raise the heap again.
  */
 import { statSync } from 'node:fs';
@@ -42,11 +45,11 @@ const pct = (share * 100).toFixed(1);
 const msg = `Content store size: ${(bytes / 1e6).toFixed(0)} MB in ${path}, ${pct}% of the ${(V8_MAX_STRING / 1e6).toFixed(0)}M-character string limit.`;
 
 if (share >= FAIL) {
-  console.error(`FAIL: ${msg} Builds will soon fail outright. Move the largest collections out of the single content store (see D-439).`);
+  console.error(`FAIL: ${msg} Builds will soon fail outright. Stop keeping rendered HTML in the content store (see D-440).`);
   process.exit(1);
 }
 if (share >= WARN) {
-  console.warn(`WARN: ${msg} Plan the move of the largest collections out of the single content store (see D-439).`);
+  console.warn(`WARN: ${msg} Plan the next content-store reduction (see D-440).`);
   process.exit(0);
 }
 console.log(`PASS: ${msg}`);
