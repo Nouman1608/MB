@@ -12,9 +12,12 @@ import { DECK_CAMBRIDGE_O_LEVEL_CHEMISTRY } from './cambridge-o-level-chemistry.
 import { DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS } from './cambridge-o-level-mathematics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_PHYSICS } from './cambridge-o-level-physics.ts';
 import { DECK_EDEXCEL_IGCSE_CHEMISTRY } from './edexcel-igcse-chemistry.ts';
+import { DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION } from './ib-ib-dp-mathematics-applications-and-interpretation.ts';
+import { DECK_OCR_A_LEVEL_CHEMISTRY } from './ocr-a-level-chemistry.ts';
 import { DECK_OCR_GCSE_CHEMISTRY } from './ocr-gcse-chemistry.ts';
 import { DECK_OXFORDAQA_A_LEVEL_CHEMISTRY } from './oxfordaqa-a-level-chemistry.ts';
 import { DECK_OXFORDAQA_A_LEVEL_PHYSICS } from './oxfordaqa-a-level-physics.ts';
+import { DECK_OXFORDAQA_IGCSE_CHEMISTRY } from './oxfordaqa-igcse-chemistry.ts';
 
 export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_AQA_A_LEVEL_CHEMISTRY,
@@ -29,7 +32,10 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_O_LEVEL_PHYSICS,
   DECK_EDEXCEL_IGCSE_CHEMISTRY,
+  DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION,
+  DECK_OCR_A_LEVEL_CHEMISTRY,
   DECK_OCR_GCSE_CHEMISTRY,
   DECK_OXFORDAQA_A_LEVEL_CHEMISTRY,
   DECK_OXFORDAQA_A_LEVEL_PHYSICS,
+  DECK_OXFORDAQA_IGCSE_CHEMISTRY,
 ];
