@@ -1,7 +1,7 @@
 ---
 /**
- * D-438 -- /flashcards/: every published flashcard deck. Grows as decks are
- * added to src/data/flashcards/index.ts.
+ * D-438 -- /flashcards/: every published flashcard deck, grouped by subject,
+ * then by qualification. Grows as decks are added (npm run generate:flashcards).
  */
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
@@ -16,14 +16,33 @@ const decks = FLASHCARD_DECKS.flatMap((deck) => {
   return c ? [{ deck, c, topics: Object.keys(topicCardCounts(deck)).length }] : [];
 });
 const total = decks.reduce((n, d) => n + d.deck.cards.length, 0);
+
+/** Subject families shown as sections; IB's two DP Mathematics courses sit under Mathematics. */
+const FAMILY: Record<string, string> = {
+  'mathematics-analysis-and-approaches': 'mathematics',
+  'mathematics-applications-and-interpretation': 'mathematics',
+};
+const FAMILY_ORDER = ['mathematics', 'physics', 'chemistry', 'biology', 'economics', 'business', 'accounting'];
+const QUAL_ORDER = ['igcse', 'o-level', 'gcse', 'as-level', 'a-level', 'ib-myp', 'ib-dp'];
+const familyOf = (s: string) => FAMILY[s] ?? s;
+const families = [...new Set(decks.map((d) => familyOf(d.c.subjectSlug)))]
+  .sort((a, b) => (FAMILY_ORDER.indexOf(a) + 1 || 99) - (FAMILY_ORDER.indexOf(b) + 1 || 99))
+  .map((fam) => {
+    const inFam = decks.filter((d) => familyOf(d.c.subjectSlug) === fam);
+    const label = inFam.find((d) => d.c.subjectSlug === fam)?.c.subject ?? fam.replace(/-/g, ' ').replace(/^./, (x) => x.toUpperCase());
+    const quals = [...new Set(inFam.map((d) => d.c.qualificationSlug))]
+      .sort((a, b) => (QUAL_ORDER.indexOf(a) + 1 || 99) - (QUAL_ORDER.indexOf(b) + 1 || 99))
+      .map((q) => ({ label: inFam.find((d) => d.c.qualificationSlug === q)!.c.qualification, items: inFam.filter((d) => d.c.qualificationSlug === q).sort((x, y) => x.c.board.localeCompare(y.c.board)) }));
+    return { id: fam, label, count: inFam.reduce((n, d) => n + d.deck.cards.length, 0), quals };
+  });
 ---
 <PageLayout
   title="Free Revision Flashcards by Syllabus"
-  description={`Free flashcards written to the official syllabus, one set per topic and subtopic: ${total} cards so far. Study online, track what you know, or print.`}
+  description={`Free flashcards written to the official syllabus for ${decks.length} courses, one set per topic and subtopic: ${total.toLocaleString('en-GB')} cards. Study online, track what you know, or print.`}
   path={path}
   eyebrow="Free revision tools"
   heading="Flashcards"
-  lead="Short question-and-answer cards for each topic and subtopic of the syllabus. Turn a card, say whether you knew it, and the ones you missed come back until you have them."
+  lead={`${total.toLocaleString('en-GB')} short question-and-answer cards for ${decks.length} courses, set out by topic and subtopic of each syllabus. Turn a card, say whether you knew it, and the ones you missed come back until you have them.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Flashcards', href: path },
@@ -31,18 +50,33 @@ const total = decks.reduce((n, d) => n + d.deck.cards.length, 0);
 >
   <Section surface="white" spacing="md">
     <Container>
-      <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-        {decks.map(({ deck, c, topics }) => (
-          <li class="m-0">
-            <a href={flashcardsPath(deck)} class="block h-full rounded-sm border border-rule bg-white p-5 no-underline hover:border-teal-500">
-              <span class="mb-label text-teal-700">{c.board} {c.qualification}{codeSuffix(deck) && ` · ${deck.syllabusCode}`}</span>
-              <span class="mt-1 block text-[18px] font-semibold text-navy-800">{c.subject}</span>
-              <span class="mt-1 block text-[14.5px] text-ink-mute">{deck.cards.length} cards across {topics} topics · {deck.syllabusSeries}</span>
-            </a>
-          </li>
-        ))}
-      </ul>
-      <p class="m-0 mt-8 max-w-[70ch] text-[14.5px] leading-[1.6] text-ink-mute">More courses are being added. For any course without flashcards yet, the <a href="/checklists/" class="underline decoration-teal-500 underline-offset-2">printable topic checklists</a> and <a href="/practice/" class="underline decoration-teal-500 underline-offset-2">self-check practice questions</a> cover the same syllabus.</p>
+      {families.length > 1 && (
+        <nav aria-label="Subjects" class="mb-10 flex flex-wrap gap-2">
+          {families.map((f) => <a href={`#${f.id}`} class="rounded-full border border-rule px-3.5 py-1.5 text-[14.5px] font-medium text-navy-800 no-underline hover:border-teal-500">{f.label}</a>)}
+        </nav>
+      )}
+      {families.map((f) => (
+        <section id={f.id} class="mb-12 scroll-mt-24" aria-labelledby={`${f.id}-heading`}>
+          <h2 id={`${f.id}-heading`} class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{f.label} <span class="text-[16px] font-normal text-ink-mute">{f.count.toLocaleString('en-GB')} cards</span></h2>
+          {f.quals.map((q) => (
+            <div class="mt-5">
+              <h3 class="m-0 mb-3 text-[16px] font-semibold text-ink">{q.label}</h3>
+              <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2 lg:grid-cols-3">
+                {q.items.map(({ deck, c, topics }) => (
+                  <li class="m-0">
+                    <a href={flashcardsPath(deck)} class="block h-full rounded-sm border border-rule bg-white p-4 no-underline hover:border-teal-500">
+                      <span class="mb-label text-teal-700">{c.board}{codeSuffix(deck) && ` · ${deck.syllabusCode}`}</span>
+                      <span class="mt-1 block text-[16.5px] font-semibold text-navy-800">{c.qualification} {c.subject}</span>
+                      <span class="mt-1 block text-[14px] text-ink-mute">{deck.cards.length} cards · {topics} topic{topics === 1 ? '' : 's'} · {deck.syllabusSeries}</span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </section>
+      ))}
+      <p class="m-0 mt-4 max-w-[70ch] text-[14.5px] leading-[1.6] text-ink-mute">For a course without flashcards, the <a href="/checklists/" class="underline decoration-teal-500 underline-offset-2">printable topic checklists</a> and <a href="/practice/" class="underline decoration-teal-500 underline-offset-2">self-check practice questions</a> cover the same syllabus.</p>
     </Container>
   </Section>
 </PageLayout>
