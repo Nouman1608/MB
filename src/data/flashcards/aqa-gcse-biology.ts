@@ -64,6 +64,11 @@ const HOM = 'aqa-gcse-biology-8461-homeostasis-and-response-revision-notes';
 const IVE = 'aqa-gcse-biology-8461-inheritance-variation-and-evolution-revision-notes';
 const ECO = 'aqa-gcse-biology-8461-ecology-revision-notes';
 const KEY = 'aqa-gcse-biology-8461-key-ideas-revision-notes';
+const BLD = 'aqa-gcse-biology-8461-blood-revision-notes';
+const CHD = 'aqa-gcse-biology-8461-coronary-heart-disease-revision-notes';
+const HL = 'aqa-gcse-biology-8461-health-issues-and-lifestyle-revision-notes';
+const CAN = 'aqa-gcse-biology-8461-cancer-revision-notes';
+const PLT = 'aqa-gcse-biology-8461-plant-tissues-and-organ-system-revision-notes';
 
 export const DECK_AQA_GCSE_BIOLOGY: FlashcardDeck = {
   boardSlug: 'aqa',
@@ -159,45 +164,60 @@ export const DECK_AQA_GCSE_BIOLOGY: FlashcardDeck = {
     ]),
 
     ...sub(ORG, 'blood-aqa-gcse-biology', '4.2.2.3', [
-      { n: 1, f: 'The four components of blood', b: 'Plasma, the liquid part, in which red blood cells, white blood cells and platelets are suspended. Blood is a tissue.' },
-      { n: 2, f: 'Red blood cells: function and adaptations', b: 'They carry oxygen from the lungs to body cells. The biconcave disc shape gives a large surface area, and having no nucleus leaves more room for haemoglobin, which binds oxygen.' },
-      { n: 3, f: 'White blood cells and platelets: functions', b: 'White blood cells: part of the immune system, defending the body against pathogens; they have a nucleus.\nPlatelets: small fragments of cells, with no nucleus, that help the blood to clot at a wound.' },
-      { n: 4, f: 'What does plasma transport?', b: 'The blood cells, and dissolved substances including glucose, amino acids, carbon dioxide, urea, hormones, proteins and antibodies.' },
+      { n: 1, f: 'The four components of blood', b: 'Plasma, the liquid part, in which red blood cells, white blood cells and platelets are suspended. Blood is a tissue.', src: BLD },
+      { n: 2, f: 'Red blood cells: function and adaptations', b: 'They carry oxygen from the lungs to body cells. The biconcave disc shape gives a large surface area, and having no nucleus leaves more room for haemoglobin, which binds oxygen.', src: BLD },
+      { n: 3, f: 'White blood cells and platelets: functions', b: 'White blood cells: part of the immune system, defending the body against pathogens; they have a nucleus.\nPlatelets: small fragments of cells, with no nucleus, that help the blood to clot at a wound.', src: BLD },
+      { n: 4, f: 'What does plasma transport?', b: 'The blood cells, and dissolved substances including glucose, amino acids, carbon dioxide, urea, hormones, proteins and antibodies.', src: BLD },
+      { n: 5, f: 'How do you tell red blood cells, white blood cells and platelets apart in a micrograph?', b: 'Red blood cells: very many, round, pale in the centre, no nucleus. White blood cells: fewer and larger, with a darkly stained nucleus. Platelets: tiny fragments between the cells.', src: BLD },
+      { n: 6, f: 'Blood transfusion: one benefit and two risks', b: 'Benefit: replaces blood lost in an accident, surgery or childbirth, and can save a life quickly.\nRisks: a pathogen could be passed on in donated blood (so donations are screened); the blood must be matched to the recipient, or their immune system may react against it.', src: BLD },
     ]),
     ...sub(ORG, 'coronary-heart-disease-aqa-gcse-biology', '4.2.2.4', [
-      { n: 1, f: 'Coronary heart disease: cause and effect', b: 'Layers of fatty material build up inside the coronary arteries, narrowing them. Less blood flows through them, so the heart muscle lacks oxygen.' },
-      { n: 2, f: 'Stents vs statins', b: 'Stent: a mesh tube placed in a narrowed coronary artery to keep it open; it works at once but involves a medical procedure.\nStatin: a drug that lowers blood cholesterol, slowing the rate at which fatty material is deposited; it must be taken long term and can have side effects.' },
-      { n: 3, f: 'Faulty heart valves: effect and treatment', b: 'A valve may not open fully, or may leak, so the heart pumps blood less efficiently. Faulty valves can be replaced with biological valves or mechanical valves.' },
-      { n: 4, f: 'Heart failure: treatments', b: 'A donor heart, or heart and lungs, can be transplanted. Artificial hearts are occasionally used to keep a patient alive while waiting for a transplant, or to let the heart rest as an aid to recovery.' },
+      { n: 1, f: 'Coronary heart disease: cause and effect', b: 'Layers of fatty material build up inside the coronary arteries, narrowing them. Less blood flows through them, so the heart muscle lacks oxygen.', src: CHD },
+      { n: 2, f: 'Stents vs statins', b: 'Stent: a mesh tube placed in a narrowed coronary artery to keep it open; it works at once but involves a medical procedure.\nStatin: a drug that lowers blood cholesterol, slowing the rate at which fatty material is deposited; it must be taken long term and can have side effects.', src: CHD },
+      { n: 3, f: 'Faulty heart valves: effect and treatment', b: 'A valve may not open fully, or may leak, so the heart pumps blood less efficiently. Faulty valves can be replaced with biological valves or mechanical valves.', src: CHD },
+      { n: 4, f: 'Heart failure: treatments', b: 'A donor heart, or heart and lungs, can be transplanted. Artificial hearts are occasionally used to keep a patient alive while waiting for a transplant, or to let the heart rest as an aid to recovery.', src: CHD },
+      { n: 5, f: 'Biological vs mechanical replacement heart valves', b: 'Biological (animal or human tissue): works like a natural valve and usually needs no lifelong anti-clotting drugs, but wears out sooner.\nMechanical (man-made): very long-lasting, but the patient usually needs anti-clotting drugs for life because clots can form on it.', src: CHD },
+      { n: 6, f: 'Heart transplant: advantage and disadvantages', b: 'Advantage: can give a long-term solution to heart failure.\nDisadvantages: few donors so long waits; major surgery; risk of rejection, so immunosuppressant drugs are needed for life.', src: CHD },
     ]),
     ...sub(ORG, 'health-issues-aqa-gcse-biology', '4.2.2.5', [
-      { n: 1, f: 'Health, and what affects it', b: 'Health is the state of physical and mental well-being. Communicable and non-communicable diseases are major causes of ill health; diet, stress and life situations can also affect physical and mental health.' },
-      { n: 2, f: 'Communicable vs non-communicable disease', b: 'Communicable: caused by a pathogen and can spread between people or animals (for example measles).\nNon-communicable: cannot be passed from one person to another (for example coronary heart disease).' },
-      { n: 3, f: 'Four ways different types of disease can interact', b: 'Defects in the immune system make infectious diseases more likely. Viruses living in cells can trigger cancers. Immune reactions first caused by a pathogen can trigger allergies such as skin rashes and asthma. Severe physical ill health can lead to depression and other mental illness.' },
+      { n: 1, f: 'Health, and what affects it', b: 'Health is the state of physical and mental well-being. Communicable and non-communicable diseases are major causes of ill health; diet, stress and life situations can also affect physical and mental health.', src: HL },
+      { n: 2, f: 'Communicable vs non-communicable disease', b: 'Communicable: caused by a pathogen and can spread between people or animals (for example measles).\nNon-communicable: cannot be passed from one person to another (for example coronary heart disease).', src: HL },
+      { n: 3, f: 'Four ways different types of disease can interact', b: 'Defects in the immune system make infectious diseases more likely. Viruses living in cells can trigger cancers. Immune reactions first caused by a pathogen can trigger allergies such as skin rashes and asthma. Severe physical ill health can lead to depression and other mental illness.', src: HL },
+      { n: 4, f: 'A town of 250 000 people has 340 new cases of a disease in a year. What is the rate per 100 000?', b: '340 ÷ 250 000 × 100 000 = 136 per 100 000 per year. Rates let you compare populations of different sizes.' },
+      { n: 5, f: 'Bar chart vs histogram for disease data', b: 'Bar chart: categories (for example cases in different countries), with gaps between bars.\nHistogram: continuous data in classes (for example cases by age group), with no gaps; with unequal class widths, bar area shows frequency.', src: HL },
+      { n: 6, f: 'Principles of sampling for epidemiological data', b: 'Study a sample, not the whole population. It should be large, so chance results matter less, and representative and chosen at random, so the results are not biased. Repeated studies make results more trustworthy.', src: HL },
     ]),
     ...sub(ORG, 'the-effect-of-lifestyle-on-some-non-communicable-diseases-aqa-gcse-biology', '4.2.2.6', [
-      { n: 1, f: 'Risk factor', b: 'Something linked to an increased rate of a disease: an aspect of a person\'s lifestyle, or a substance in the person\'s body or environment. A causal mechanism has been proven for some risk factors but not for others.' },
-      { n: 2, f: 'Lifestyle risk factors and the diseases linked to them', b: 'Diet, smoking and lack of exercise: cardiovascular disease. Obesity: Type 2 diabetes. Alcohol: liver and brain function. Smoking: lung disease and lung cancer. Smoking and alcohol: harm to unborn babies. Carcinogens, including ionising radiation: cancer.' },
-      { n: 3, f: 'What does a scatter diagram of a risk factor against the rate of a disease show?', b: 'Whether the two variables are correlated. A correlation alone does not prove that the factor causes the disease; a causal mechanism is also needed.' },
-      { n: 4, f: 'Costs of non-communicable diseases', b: 'Human cost: illness, a lower quality of life and early death, for individuals and their families.\nFinancial cost: treatment and care, and lost earnings and productivity, for a local community, a nation or globally.' },
+      { n: 1, f: 'Risk factor', b: 'Something linked to an increased rate of a disease: an aspect of a person\'s lifestyle, or a substance in the person\'s body or environment. A causal mechanism has been proven for some risk factors but not for others.', src: HL },
+      { n: 2, f: 'Lifestyle risk factors and the diseases linked to them', b: 'Diet, smoking and lack of exercise: cardiovascular disease. Obesity: Type 2 diabetes. Alcohol: liver and brain function. Smoking: lung disease and lung cancer. Smoking and alcohol: harm to unborn babies. Carcinogens, including ionising radiation: cancer.', src: HL },
+      { n: 3, f: 'What does a scatter diagram of a risk factor against the rate of a disease show?', b: 'Whether the two variables are correlated. A correlation alone does not prove that the factor causes the disease; a causal mechanism is also needed.', src: HL },
+      { n: 4, f: 'Costs of non-communicable diseases', b: 'Human cost: illness, a lower quality of life and early death, for individuals and their families.\nFinancial cost: treatment and care, and lost earnings and productivity, for a local community, a nation or globally.', src: HL },
+      { n: 5, f: 'How can smoking and alcohol in pregnancy harm the unborn baby?', b: 'Smoking: carbon monoxide reduces the oxygen the blood carries, linked to low birth weight and premature birth.\nAlcohol: can damage the baby\'s development, including the brain.', src: HL },
+      { n: 6, f: '24 in 1000 smokers and 3 in 1000 non-smokers develop a disease. Compare the risk.', b: '24 ÷ 3 = 8, so smokers in this sample were 8 times as likely to develop it. This is a correlation; a causal link needs a known mechanism and repeated studies.' },
     ]),
     ...sub(ORG, 'cancer-aqa-gcse-biology', '4.2.2.7', [
-      { n: 1, f: 'What is cancer?', b: 'The result of changes in cells that lead to uncontrolled growth and division.' },
-      { n: 2, f: 'Benign vs malignant tumours', b: 'Benign: abnormal cells contained in one area, usually within a membrane; they do not invade other parts of the body.\nMalignant: cancers; the cells invade neighbouring tissues and spread in the blood to other parts of the body, where they form secondary tumours.' },
-      { n: 3, f: 'Risk factors for cancer', b: 'Lifestyle risk factors (such as smoking, obesity and alcohol) and carcinogens, including ionising radiation. Some cancers also have genetic risk factors.' },
+      { n: 1, f: 'What is cancer?', b: 'The result of changes in cells that lead to uncontrolled growth and division.', src: CAN },
+      { n: 2, f: 'Benign vs malignant tumours', b: 'Benign: abnormal cells contained in one area, usually within a membrane; they do not invade other parts of the body.\nMalignant: cancers; the cells invade neighbouring tissues and spread in the blood to other parts of the body, where they form secondary tumours.', src: CAN },
+      { n: 3, f: 'Risk factors for cancer', b: 'Lifestyle risk factors (such as smoking, obesity and alcohol) and carcinogens, including ionising radiation. Some cancers also have genetic risk factors.', src: CAN },
+      { n: 4, f: 'Can a benign tumour be harmful?', b: 'Yes. It does not spread, but a large benign tumour can press on an organ, for example in the brain. Benign means it does not invade other parts of the body.', src: CAN },
+      { n: 5, f: 'Give an example of a genetic risk factor for cancer', b: 'Inheriting certain alleles, for example of the BRCA genes, which raise the risk of breast cancer.', src: CAN },
     ]),
     ...sub(ORG, 'plant-tissues-aqa-gcse-biology', '4.2.3.1', [
-      { n: 1, f: 'Tissues in a leaf and their functions', b: 'Epidermis: covers the leaf. Palisade mesophyll: most photosynthesis. Spongy mesophyll: air spaces for diffusion of gases. Xylem and phloem: transport. Guard cells: open and close the stomata.' },
-      { n: 2, f: 'How is the palisade mesophyll adapted for photosynthesis?', b: 'Its cells lie near the upper surface, are tightly packed and contain many chloroplasts, so they absorb as much light as possible.' },
-      { n: 3, f: 'Meristem tissue', b: 'Tissue at the growing tips of shoots and roots, with undifferentiated cells that divide to make new cells for growth.' },
-      { n: 4, f: 'Why is a leaf an organ?', b: 'It is made of several tissues (epidermis, palisade and spongy mesophyll, xylem and phloem) working together to carry out a function, photosynthesis.' },
+      { n: 1, f: 'Tissues in a leaf and their functions', b: 'Epidermis: covers the leaf. Palisade mesophyll: most photosynthesis. Spongy mesophyll: air spaces for diffusion of gases. Xylem and phloem: transport. Guard cells: open and close the stomata.', src: PLT },
+      { n: 2, f: 'How is the palisade mesophyll adapted for photosynthesis?', b: 'Its cells lie near the upper surface, are tightly packed and contain many chloroplasts, so they absorb as much light as possible.', src: PLT },
+      { n: 3, f: 'Meristem tissue', b: 'Tissue at the growing tips of shoots and roots, with undifferentiated cells that divide to make new cells for growth.', src: PLT },
+      { n: 4, f: 'Why is a leaf an organ?', b: 'It is made of several tissues (epidermis, palisade and spongy mesophyll, xylem and phloem) working together to carry out a function, photosynthesis.', src: PLT },
+      { n: 5, f: 'How is the upper epidermis of a leaf adapted?', b: 'It is a single layer of transparent cells, so light passes through to the palisade layer, covered by a waxy cuticle that reduces water loss.', src: PLT },
     ]),
     ...sub(ORG, 'plant-organ-system-aqa-gcse-biology', '4.2.3.2', [
-      { n: 1, f: 'Root hair cells: adaptations', b: 'A long extension gives a large surface area for taking up water by osmosis and mineral ions by active transport.' },
-      { n: 2, f: 'Xylem vs phloem', b: 'Xylem: hollow tubes strengthened by lignin; carry water and mineral ions from the roots to the stems and leaves (the transpiration stream).\nPhloem: tubes of elongated cells with pores in the end walls; carry dissolved sugars from the leaves to the rest of the plant (translocation).' },
-      { n: 3, f: 'Transpiration, and the role of stomata', b: 'Transpiration: the loss of water vapour from the leaves, mainly through the stomata, which draws water up through the xylem. Guard cells open and close the stomata to control gas exchange and water loss.' },
-      { n: 4, f: 'Four factors that increase the rate of transpiration', b: 'Higher temperature, lower humidity, more air movement and higher light intensity.' },
+      { n: 1, f: 'Root hair cells: adaptations', b: 'A long extension gives a large surface area for taking up water by osmosis and mineral ions by active transport.', src: PLT },
+      { n: 2, f: 'Xylem vs phloem', b: 'Xylem: hollow tubes strengthened by lignin; carry water and mineral ions from the roots to the stems and leaves (the transpiration stream).\nPhloem: tubes of elongated cells with pores in the end walls; carry dissolved sugars from the leaves to the rest of the plant (translocation).', src: PLT },
+      { n: 3, f: 'Transpiration, and the role of stomata', b: 'Transpiration: the loss of water vapour from the leaves, mainly through the stomata, which draws water up through the xylem. Guard cells open and close the stomata to control gas exchange and water loss.', src: PLT },
+      { n: 4, f: 'Four factors that increase the rate of transpiration', b: 'Higher temperature, lower humidity, more air movement and higher light intensity.', src: PLT },
       { n: 5, f: 'A bubble in a potometer moves 30 mm in 5 minutes. What is the rate of water uptake?', b: '30 ÷ 5 = 6 mm per minute.' },
+      { n: 6, f: 'Potometer: key steps and its main assumption', b: 'Cut the shoot under water and fit it under water, seal the joints, then time how far an air bubble moves; change one factor and keep the others constant. It measures water uptake, used as an estimate of water loss (a little water is used by the plant).', src: PLT },
+      { n: 7, f: 'A bubble moves 24 mm in 4 min in a tube of radius 0.5 mm. Rate of water uptake in mm³ per minute? (π = 3.14)', b: 'Volume = π r² × distance = 3.14 × 0.25 × 24 = 18.8 mm³. Rate = 18.8 ÷ 4 = 4.7 mm³ per minute.' },
+      { n: 8, f: 'How do you investigate the distribution of stomata?', b: 'Paint clear nail varnish on the leaf surface, peel it off with sticky tape onto a slide, and count stomata in several fields of view on several leaves; find the mean. Compare the lower and upper surfaces (most stomata are on the lower surface).', src: PLT },
     ]),
 
     // 3 Infection and response
