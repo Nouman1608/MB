@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1820" viewBox="0 0 1800 1820" role="img" aria-labelledby="t d"><title id="t">From revenue to profit</title><desc id="d">Sandrow Kite Supplies, dollars. Four bars drawn to scale: revenue 240,000, gross profit 100,000, profit from operations 40,000 and profit for the year 36,000 after 4,000 loan interest. Gross profit margin 41.7% and markup 71.4% use gross profit; ROCE 25.6% and profit in relation to revenue 16.7% both use profit from operations, as the OxfordAQA 9215 mark scheme does.</desc>
+<rect width="1800" height="1820" fill="#F5F7F7"/>
+<text x="900" y="112" font-family="Arial,sans-serif" font-size="68" font-weight="700" fill="#1C2B4A" text-anchor="middle">From revenue to profit</text>
+<text x="900" y="188" font-family="Arial,sans-serif" font-size="44" fill="#4A5A6E" text-anchor="middle">Sandrow Kite Supplies, dollars</text>
+<g font-family="Arial,sans-serif" font-weight="700" fill="#1C2B4A">
+<text x="80" y="260" font-size="52">Revenue</text>
+<rect x="80" y="292" width="1120" height="112" rx="8" fill="#B5D4D0" stroke="#1C2B4A" stroke-width="5"/>
+<text x="1225" y="370" font-size="54">240,000</text>
+<text x="80" y="480" font-size="52">Gross profit</text>
+<rect x="80" y="512" width="467" height="112" rx="8" fill="#D4B12F" stroke="#1C2B4A" stroke-width="5"/>
+<text x="572" y="590" font-size="54">100,000</text>
+<rect x="140" y="664" width="720" height="104" rx="52" fill="#F3E7B6" stroke="#1C2B4A" stroke-width="5"/>
+<text x="500" y="734" font-size="50" text-anchor="middle">Margin 41.7%</text>
+<rect x="940" y="664" width="720" height="104" rx="52" fill="#F3E7B6" stroke="#1C2B4A" stroke-width="5"/>
+<text x="1300" y="734" font-size="50" text-anchor="middle">Markup 71.4%</text>
+<text x="80" y="860" font-size="52">Profit from operations</text>
+<rect x="80" y="892" width="187" height="112" rx="8" fill="#73A9A3" stroke="#1C2B4A" stroke-width="5"/>
+<text x="292" y="970" font-size="54">40,000</text>
+<rect x="140" y="1044" width="720" height="104" rx="52" fill="#F3E7B6" stroke="#1C2B4A" stroke-width="5"/>
+<text x="500" y="1114" font-size="50" text-anchor="middle">ROCE 25.6%</text>
+<rect x="940" y="1044" width="720" height="104" rx="52" fill="#F3E7B6" stroke="#1C2B4A" stroke-width="5"/>
+<text x="1300" y="1114" font-size="50" text-anchor="middle">Profit to revenue 16.7%</text>
+<text x="80" y="1240" font-size="52">Profit for the year</text>
+<rect x="80" y="1272" width="168" height="112" rx="8" fill="#2F6B66" stroke="#1C2B4A" stroke-width="5"/>
+<text x="273" y="1350" font-size="54">36,000</text>
+<text x="520" y="1350" font-size="42" font-weight="400" fill="#4A5A6E">after 4,000 loan interest</text>
+</g>
+<g font-family="Arial,sans-serif" font-size="44" fill="#4A5A6E" text-anchor="middle">
+<text x="900" y="1500">Profit to revenue: 40,000 ÷ revenue 240,000</text>
+<text x="900" y="1572">ROCE: 40,000 ÷ capital employed 156,000</text>
+<text x="900" y="1644">Markup divides by cost of sales 140,000</text>
+<text x="900" y="1740" font-size="38">Both use profit from operations, as the 9215 mark scheme does</text>
+</g>
+</svg>

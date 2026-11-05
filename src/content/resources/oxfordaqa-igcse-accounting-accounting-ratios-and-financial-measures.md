@@ -116,8 +116,8 @@ Statement of financial position extract at 30 June:
 **Reading the results.** Customers take about 55 days to pay but the business takes about 67 days to pay its own suppliers. That helps cash, but suppliers may withdraw credit terms if the gap grows. A current ratio of 2.2 : 1 looks safe, and the liquid capital ratio of 1.2 : 1 shows the business does not rely on selling kites to meet its short-term debts.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--04-ratio-revenue-to-profit.webp" width="900" height="910" alt="Four bars drawn to scale show revenue 240,000, gross profit 100,000, profit from operations 40,000 and profit for the year 36,000. Labels give gross profit margin 41.7%, markup 71.4%, ROCE 25.6% (40,000 over capital employed 156,000) and profit in relation to revenue 15.0%." loading="lazy">
-  <figcaption>Each profitability measure takes a different profit and a different base. The figure divides profit for the year (15.0%); following the 9215 mark scheme, use profit from operations: 40,000 / 240,000 = 16.7%.</figcaption>
+  <img src="/images/learning/accounting/oxfordaqa-igcse-accounting-revenue-to-profit-ratios.svg" width="900" height="910" alt="Four bars drawn to scale show revenue 240,000, gross profit 100,000, profit from operations 40,000 and profit for the year 36,000 after 4,000 loan interest. Labels give gross profit margin 41.7%, markup 71.4%, and, from profit from operations, ROCE 25.6% (40,000 over capital employed 156,000) and profit in relation to revenue 16.7% (40,000 over revenue 240,000)." loading="lazy">
+  <figcaption>Each profitability measure takes a different profit and a different base. Profit in relation to revenue and ROCE both use profit from operations, as the 9215 mark scheme does.</figcaption>
 </figure>
 
 <figure class="topic-figure">
