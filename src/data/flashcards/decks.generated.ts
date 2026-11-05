@@ -41,6 +41,7 @@ import { DECK_EDEXCEL_A_LEVEL_CHEMISTRY } from './edexcel-a-level-chemistry.ts';
 import { DECK_EDEXCEL_A_LEVEL_ECONOMICS } from './edexcel-a-level-economics.ts';
 import { DECK_EDEXCEL_A_LEVEL_MATHEMATICS } from './edexcel-a-level-mathematics.ts';
 import { DECK_EDEXCEL_A_LEVEL_PHYSICS } from './edexcel-a-level-physics.ts';
+import { DECK_EDEXCEL_GCSE_BUSINESS } from './edexcel-gcse-business.ts';
 import { DECK_EDEXCEL_IGCSE_ACCOUNTING } from './edexcel-igcse-accounting.ts';
 import { DECK_EDEXCEL_IGCSE_BIOLOGY } from './edexcel-igcse-biology.ts';
 import { DECK_EDEXCEL_IGCSE_BUSINESS } from './edexcel-igcse-business.ts';
@@ -56,6 +57,7 @@ import { DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION } from './ib-
 import { DECK_IB_IB_DP_PHYSICS } from './ib-ib-dp-physics.ts';
 import { DECK_IB_IB_MYP_MATHEMATICS } from './ib-ib-myp-mathematics.ts';
 import { DECK_OCR_A_LEVEL_BIOLOGY } from './ocr-a-level-biology.ts';
+import { DECK_OCR_A_LEVEL_BUSINESS } from './ocr-a-level-business.ts';
 import { DECK_OCR_A_LEVEL_CHEMISTRY } from './ocr-a-level-chemistry.ts';
 import { DECK_OCR_A_LEVEL_ECONOMICS } from './ocr-a-level-economics.ts';
 import { DECK_OCR_A_LEVEL_MATHEMATICS } from './ocr-a-level-mathematics.ts';
@@ -122,6 +124,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_EDEXCEL_A_LEVEL_ECONOMICS,
   DECK_EDEXCEL_A_LEVEL_MATHEMATICS,
   DECK_EDEXCEL_A_LEVEL_PHYSICS,
+  DECK_EDEXCEL_GCSE_BUSINESS,
   DECK_EDEXCEL_IGCSE_ACCOUNTING,
   DECK_EDEXCEL_IGCSE_BIOLOGY,
   DECK_EDEXCEL_IGCSE_BUSINESS,
@@ -137,6 +140,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_IB_IB_DP_PHYSICS,
   DECK_IB_IB_MYP_MATHEMATICS,
   DECK_OCR_A_LEVEL_BIOLOGY,
+  DECK_OCR_A_LEVEL_BUSINESS,
   DECK_OCR_A_LEVEL_CHEMISTRY,
   DECK_OCR_A_LEVEL_ECONOMICS,
   DECK_OCR_A_LEVEL_MATHEMATICS,
