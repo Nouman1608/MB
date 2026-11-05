@@ -10,9 +10,10 @@
  *
  * The specification is not tiered, so no card is marked upper tier. Worked
  * examples use the same invented figures as the Marlbridge 8136 revision notes.
- * Sub-topics 3.2.2.2-3.2.5.2 were itemised on 2026-11-05; most have no 8136
- * revision-notes page, so their cards are authored from the specification content
- * (with the 3.2.2 objectives guide for inflation) and their figures are invented.
+ * Sub-topics 3.2.2.2-3.2.5.2 were itemised on 2026-11-05 and their cards were
+ * first authored from the specification; on 2026-11-05 they were re-checked against
+ * the new 8136 revision-notes pages for those sub-topics (GRO ... MON below) and the
+ * specification, and cards restating those pages carry src.
  * Plain text only (see types.ts).
  */
 import type { Flashcard, FlashcardDeck } from './types.ts';
@@ -47,6 +48,14 @@ const PROD = 'aqa-gcse-economics-productivity-and-economies-of-scale-revision-no
 const RA = 'aqa-gcse-economics-resource-allocation-markets-economic-sectors-and-revision-notes';
 const LAB = 'aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-revision-notes';
 const REV = 'aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect-revision-notes';
+const GRO = 'aqa-gcse-economics-economic-growth-and-unemployment-revision-notes';
+const INF = 'aqa-gcse-economics-inflation-and-price-stability-revision-notes';
+const BOP = 'aqa-gcse-economics-balance-of-payments-and-distribution-of-income-revision-notes';
+const FMP = 'aqa-gcse-economics-fiscal-and-monetary-policy-revision-notes';
+const SSX = 'aqa-gcse-economics-supply-side-and-externality-policies-revision-notes';
+const TRX = 'aqa-gcse-economics-international-trade-and-exchange-rates-revision-notes';
+const FTG = 'aqa-gcse-economics-free-trade-agreements-and-globalisation-revision-notes';
+const MON = 'aqa-gcse-economics-money-and-the-financial-sector-revision-notes';
 
 export const DECK_AQA_GCSE_ECONOMICS: FlashcardDeck = {
   boardSlug: 'aqa',
@@ -184,27 +193,34 @@ export const DECK_AQA_GCSE_ECONOMICS: FlashcardDeck = {
       { n: 12, f: 'Value judgement', b: 'A view about what ought to be, not a fact. A fact can be tested. Keep the two apart, then use ethical points to strengthen evaluation.', src: GOV },
     ]),
     ...sub(ECO, 'economic-growth-aqa-gcse-economics', '3.2.2.2', [
-      { n: 1, f: 'Economic growth', b: 'An increase in the output of goods and services in an economy over time, measured by the percentage change in real GDP.' },
-      { n: 2, f: 'GDP, real GDP and GDP per capita', b: 'GDP: the total value of goods and services produced in a country in a year.\nReal GDP: GDP adjusted for inflation (at constant prices).\nGDP per capita: GDP divided by the population, an average per person.' },
+      { n: 1, f: 'Economic growth', b: 'An increase in the output of goods and services in an economy over time, measured by the percentage change in real GDP.', src: GRO },
+      { n: 2, f: 'GDP, real GDP and GDP per capita', b: 'GDP: the total value of goods and services produced in a country in a year.\nReal GDP: GDP adjusted for inflation (at constant prices).\nGDP per capita: GDP divided by the population, an average per person.', src: GRO },
       { n: 3, f: 'Real GDP rises from £2,400bn to £2,460bn while the population stays at 60 million. Find the growth rate and the new GDP per capita.', b: 'Growth = 60 ÷ 2,400 × 100 = 2.5%.\nGDP per capita = £2,460bn ÷ 60 million = £41,000.' },
       { n: 4, f: 'Causes of economic growth', b: 'More or better resources: investment in capital and new technology, education and training that raise productivity, a larger workforce and natural resources. In the short run, higher spending by consumers, firms, government or overseas buyers also raises output.' },
-      { n: 5, f: 'Benefits and costs of economic growth', b: 'Benefits: higher incomes and living standards, more jobs, more tax revenue for public services.\nCosts: pollution and use of finite resources, possible inflation, and gains that may be shared unequally.' },
+      { n: 5, f: 'Benefits and costs of economic growth', b: 'Benefits: higher incomes and living standards, more jobs, more tax revenue for public services.\nCosts: pollution and use of finite resources, possible inflation, more imports, and gains that may be shared unequally.' },
       { n: 6, f: 'Government policies to achieve economic growth', b: 'Lower interest rates (monetary), higher government spending or lower taxes (fiscal), and supply-side policies such as education, training and infrastructure that raise productive capacity.' },
+      { n: 7, f: 'Nominal GDP rises from £2,000bn to £2,100bn and prices rise by 3%. Find real growth.', b: 'Real GDP in Year 2 at Year 1 prices = 2,100 ÷ 1.03 = £2,038.8bn. Real growth = 38.8 ÷ 2,000 × 100 = 1.9%. Nominal growth (5%) minus inflation (3%) gives roughly the same answer.' },
+      { n: 8, f: 'Exam trap: the growth rate falls from 3% to 1%. Is output falling?', b: 'No. Output is still rising, only more slowly. Output falls only when growth is negative; in the UK a recession is two quarters in a row of falling real GDP.' },
     ]),
     ...sub(ECO, 'employment-and-unemployment-aqa-gcse-economics', '3.2.2.3', [
       { n: 1, f: 'Unemployment, and the two UK measures', b: 'Unemployment: people of working age who are without a job but are available for and actively seeking work. Measured by the Claimant Count (people claiming unemployment-related benefits) and the Labour Force Survey (the ILO measure, from a survey).' },
-      { n: 2, f: 'Structural, seasonal, frictional and cyclical unemployment', b: 'Structural: an industry declines, so skills or location no longer match jobs.\nSeasonal: demand changes with the time of year.\nFrictional: people between jobs.\nCyclical: too little demand in a downturn or recession.' },
+      { n: 2, f: 'Structural, seasonal, frictional and cyclical unemployment', b: 'Structural: an industry declines, so skills or location no longer match jobs.\nSeasonal: demand changes with the time of year.\nFrictional: people between jobs.\nCyclical: too little demand in a downturn or recession.', src: GRO },
       { n: 3, f: 'Consequences of unemployment for different groups', b: 'The unemployed: lower income, lost skills, poorer health. Firms: lower sales, but a larger pool of labour. Government: more spending on benefits and less tax revenue. The economy: lost output, since the resource is wasted.' },
       { n: 4, f: 'Government policies to reduce unemployment', b: 'Cyclical: raise demand by cutting interest rates, cutting taxes or raising government spending.\nStructural: supply-side policies such as training and retraining, and help for people to move to where jobs are.' },
       { n: 5, f: 'A labour force of 32 million includes 1.28 million unemployed. Find the unemployment rate.', b: '1.28 ÷ 32 × 100 = 4.0%.' },
+      { n: 6, f: 'Why is the ILO (Labour Force Survey) measure usually higher than the Claimant Count?', b: 'Many unemployed people who are looking for work do not or cannot claim benefits, so the Claimant Count misses them. The survey asks people directly whether they are out of work and seeking a job.' },
+      { n: 7, f: 'Exam trap: unemployed rise from 1.50m (labour force 30m) to 1.53m (labour force 32m). What happens to the rate?', b: 'It falls, from 5.0% to 1.53 ÷ 32 × 100 = 4.8%, because the labour force grew faster. Divide by the labour force (employed + unemployed), not the population.' },
     ]),
     ...sub(ECO, 'inflation-and-price-stability-aqa-gcse-economics', '3.2.2.4', [
-      { n: 1, f: 'Inflation and the rate of inflation', b: 'Inflation: a sustained rise in the general level of prices. The rate of inflation is the percentage increase in the price level over a year. Lower inflation means prices rise more slowly, not that they fall.' },
+      { n: 1, f: 'Inflation and the rate of inflation', b: 'Inflation: a sustained rise in the general level of prices. The rate of inflation is the percentage increase in the price level over a year. Lower inflation means prices rise more slowly, not that they fall.', src: INF },
       { n: 2, f: 'How the Consumer Price Index (CPI) measures inflation', b: 'Prices of a typical basket of goods and services are surveyed each month. Each item is weighted by its share of household spending, and the result is shown as an index (base year = 100). The rate of inflation is the percentage change in the CPI.' },
       { n: 3, f: 'The CPI rises from 125.0 to 130.0 in a year. Find the rate of inflation. What would a £50 item then cost?', b: '(130.0 − 125.0) ÷ 125.0 × 100 = 4.0%. A £50 item would cost 50 × 1.04 = £52.' },
       { n: 4, f: 'Cost-push versus demand-pull inflation', b: 'Cost-push: production costs rise (wages, raw materials, imported inputs), so firms raise prices.\nDemand-pull: total demand in the economy outstrips its capacity to supply, pulling prices up.' },
       { n: 5, f: 'Consequences of inflation for different groups', b: 'Savers lose if interest is below inflation; borrowers gain as the real value of debt falls. People on fixed incomes lose purchasing power. Firms face rising costs, and exporters become less competitive if UK prices rise faster than abroad.' },
       { n: 6, f: 'Government policies to manage inflation', b: 'Raise interest rates (monetary policy) or raise taxes and cut government spending (fiscal policy) to reduce demand-pull inflation. Supply-side policies that cut costs and raise productivity help with cost-push inflation.' },
+      { n: 7, f: 'Pay rises by 5% while inflation is 3%. What happens to real pay?', b: 'Real pay rises by about 2% (exactly 1.05 ÷ 1.03 = 1.019, so 1.9%). If inflation were higher than the pay rise, real pay would fall.' },
+      { n: 8, f: 'Food has weight 0.4 and price index 110; transport has weight 0.6 and index 105. Find the overall index.', b: '0.4 × 110 + 0.6 × 105 = 44 + 63 = 107. The bigger weight pulls the answer towards transport.' },
+      { n: 9, f: 'Exam trap: CPI goes from 130.0 to 133.9. Is inflation 3.9%?', b: 'No. That is 3.9 index points, but 3.9 ÷ 130 × 100 = 3.0%. Index points equal per cent only when the starting value is 100.' },
     ]),
     ...sub(ECO, 'balance-of-payments-aqa-gcse-economics', '3.2.2.5', [
       { n: 1, f: 'Balance of trade and the current account of the balance of payments', b: 'Balance of trade: the value of exports minus the value of imports of goods and services. The current account adds income flows to and from abroad to the trade balance. Exports are credits; imports are debits.' },
@@ -212,55 +228,71 @@ export const DECK_AQA_GCSE_ECONOMICS: FlashcardDeck = {
       { n: 3, f: 'Reasons for a current account deficit', b: 'Strong demand at home drawing in imports, a strong exchange rate making exports dear and imports cheap, low productivity or higher inflation than competitors, and weak demand in trading partners.' },
       { n: 4, f: 'Why does a current account deficit matter?', b: 'It must be paid for by borrowing from abroad or selling assets, and spending that leaks abroad means fewer jobs in exporting and import-competing firms. It matters less if it is small, temporary or caused by importing machinery that raises future output.' },
       { n: 5, f: 'Government policies to influence the balance of payments', b: 'Supply-side policies to make UK firms more competitive, reducing demand at home through fiscal or monetary policy, and a lower exchange rate. Tariffs and quotas also cut imports but invite retaliation.' },
+      { n: 6, f: 'Exam trap: current account deficit versus budget deficit', b: 'A current account deficit is about money flows with the rest of the world (trade and income). A budget deficit is the government spending more than its revenue. They are different things.' },
+      { n: 7, f: 'The usual pattern of the UK current account', b: 'A deficit for many years: a large deficit on trade in goods, partly offset by a surplus on trade in services, especially financial and business services.', src: BOP },
     ]),
     ...sub(ECO, 'distribution-of-income-aqa-gcse-economics', '3.2.2.6', [
-      { n: 1, f: 'Income inequality versus wealth inequality', b: 'Income inequality: differences in the flow of money people receive (wages, interest, rent, profit, benefits). Wealth inequality: differences in the assets people own (property, savings, shares). Wealth is usually shared far more unequally than income.' },
+      { n: 1, f: 'Income inequality versus wealth inequality', b: 'Income inequality: differences in the flow of money people receive (wages, interest, rent, profit, benefits). Wealth inequality: differences in the assets people own (property, savings, shares). Wealth is usually shared far more unequally than income.', src: BOP },
       { n: 2, f: 'Causes of income and wealth inequality', b: 'Differences in skills, education and qualifications; pay in different jobs; unemployment and part-time work; inheritance; ownership of property and shares; and the effects of the tax and benefit system.' },
       { n: 3, f: 'Consequences of income and wealth inequality', b: 'Poverty, poorer health and education for low-income groups, and social tension. Some inequality gives an incentive to work, train and take risks.' },
       { n: 4, f: 'Government policies to redistribute income and wealth, and their consequences', b: 'Progressive taxes, benefits and pensions, free public services such as health and education, and a minimum wage. They reduce inequality, but high tax rates may reduce the incentive to work and benefits cost the government money.' },
+      { n: 5, f: 'Household S earns £15,000, pays £1,000 tax, gets £4,000 benefits. T earns £90,000, pays £25,000 tax. Compare the gap before and after.', b: 'Disposable income: S £18,000, T £65,000. Before: 90,000 ÷ 15,000 = 6 times. After: 65,000 ÷ 18,000 = about 3.6 times. Taxes and benefits narrowed the gap.' },
+      { n: 6, f: 'How is the distribution of income in the UK shown?', b: 'The ONS ranks households from poorest to richest and splits them into fifths (quintiles) or tenths (deciles). The gap between the top and bottom fifth is much narrower after taxes, benefits and services such as the NHS than before.' },
     ]),
     ...sub(ECO, 'fiscal-policy-aqa-gcse-economics', '3.2.3.1', [
-      { n: 1, f: 'Fiscal policy', b: 'The use of government spending and taxation to influence the level of income and spending in the economy and to achieve the government\'s economic objectives.' },
-      { n: 2, f: 'Balanced budget, budget surplus and budget deficit', b: 'Balanced: government revenue equals spending. Surplus: revenue is greater than spending, so debt can be repaid. Deficit: spending is greater than revenue, so the government borrows and pays interest.' },
+      { n: 1, f: 'Fiscal policy', b: 'The use of government spending and taxation to influence the level of income and spending in the economy and to achieve the government\'s economic objectives.', src: FMP },
+      { n: 2, f: 'Balanced budget, budget surplus and budget deficit', b: 'Balanced: government revenue equals spending. Surplus: revenue is greater than spending, so debt can be repaid. Deficit: spending is greater than revenue, so the government borrows and pays interest.', src: FMP },
       { n: 3, f: 'Expansionary versus contractionary fiscal policy', b: 'Expansionary: higher spending or lower taxes raise demand, output and employment, but may raise inflation and the deficit.\nContractionary: lower spending or higher taxes reduce demand and inflation, but may slow growth and cost jobs.' },
       { n: 4, f: 'Government spending is £1,100bn and revenue is £1,040bn. What is the budget position?', b: 'Spending is greater than revenue, so there is a budget deficit of £60bn, which must be borrowed.' },
       { n: 5, f: 'Limits of fiscal policy', b: 'Time lags before changes take effect, extra borrowing and debt interest, possible disincentives from higher taxes, and the opportunity cost of what else the money could fund.' },
+      { n: 6, f: 'Consequences of running a budget surplus', b: 'The government can repay debt, so future interest payments fall, and it has room to borrow in a later recession. But a surplus may mean taxes are high or services cut, and it takes spending power out of the economy.' },
     ]),
     ...sub(ECO, 'monetary-policy-aqa-gcse-economics', '3.2.3.2', [
       { n: 1, f: 'Monetary policy', b: 'The use of interest rates by the central bank to influence spending in the economy. In the UK the Bank of England sets Bank Rate, mainly to keep inflation close to the government\'s target of 2% (CPI).' },
       { n: 2, f: 'How does a rise in interest rates help to control inflation?', b: 'Borrowing costs more and saving pays more, so households spend less and firms invest less. Lower total demand reduces demand-pull inflation. A stronger pound can also make imports cheaper.' },
       { n: 3, f: 'How can monetary policy help other objectives, and what is the conflict?', b: 'Cutting interest rates encourages borrowing and spending, so output and employment rise. The conflict: higher demand may raise inflation and draw in imports, worsening the balance of payments.' },
       { n: 4, f: 'Limits of monetary policy', b: 'Changes take time to work, confidence may be so low that people do not borrow even at low rates, banks may not pass changes on, and low rates hurt savers.' },
+      { n: 5, f: 'Who sets UK interest rates, and what happens if inflation misses the target?', b: 'The Bank of England\'s nine-member Monetary Policy Committee, independent of the government since 1997. If CPI inflation is more than 1 percentage point above or below 2%, the Governor writes an open letter to the Chancellor.' },
+      { n: 6, f: 'An interest-only mortgage of £150,000 moves from 4% to 5%. What happens to yearly payments?', b: '0.04 × 150,000 = £6,000; 0.05 × 150,000 = £7,500. Payments rise by £1,500 a year, so the household has less to spend.' },
     ]),
     ...sub(ECO, 'supply-side-policies-aqa-gcse-economics', '3.2.3.3', [
-      { n: 1, f: 'Supply-side policies, with the examples AQA names', b: 'Policies to increase the productive capacity of the economy: investment in education and training, lower direct taxes, lower taxes on business profits, trade union reform, and privatisation and deregulation.' },
+      { n: 1, f: 'Supply-side policies, with the examples AQA names', b: 'Policies to increase the productive capacity of the economy: investment in education and training, lower direct taxes, lower taxes on business profits, trade union reform, and privatisation and deregulation.', src: SSX },
       { n: 2, f: 'Advantages of supply-side policies', b: 'They raise productivity and capacity, so the economy can grow without inflation; they make firms more competitive, helping exports; and training reduces structural unemployment.' },
       { n: 3, f: 'Disadvantages of supply-side policies', b: 'They take a long time to work, can be costly to the government, results are uncertain, and some (tax cuts for high earners, weaker union rights) may increase inequality.' },
-      { n: 4, f: 'Privatisation and deregulation', b: 'Privatisation: selling state-owned businesses to the private sector. Deregulation: removing rules that limit competition in a market. Both aim to raise efficiency through competition and the profit motive.' },
+      { n: 4, f: 'Privatisation and deregulation', b: 'Privatisation: selling state-owned businesses to the private sector (e.g. BT, British Gas, Royal Mail). Deregulation: removing rules that limit competition in a market. Both aim to raise efficiency through competition and the profit motive.' },
+      { n: 5, f: '60 workers produce 2,400 units a week; after training they produce 2,760. Find the change in productivity.', b: 'Output per worker rises from 2,400 ÷ 60 = 40 to 2,760 ÷ 60 = 46 units, a rise of 6 ÷ 40 × 100 = 15%.' },
+      { n: 6, f: 'Exam trap: when is a tax cut a supply-side policy rather than fiscal policy?', b: 'When the point is the incentive effect: lower direct taxes reward extra work, and lower profit taxes leave firms more to invest, so capacity grows. A tax cut aimed at raising spending now is fiscal policy.' },
     ]),
     ...sub(ECO, 'policies-to-correct-positive-and-negative-externalities-aqa-gcse-economics', '3.2.3.4', [
-      { n: 1, f: 'Government policies to reduce negative externalities', b: 'Indirect taxes (raise cost, so output falls), laws and regulation (limits or bans backed by penalties), and information and education campaigns to change what people buy.' },
-      { n: 2, f: 'Government policies to encourage positive externalities', b: 'Subsidies (lower cost, so output rises), direct provision by the government funded by taxes, and information and education to encourage use.' },
+      { n: 1, f: 'Government policies to reduce negative externalities', b: 'Indirect taxes (raise cost, so output falls), laws and regulation (limits or bans backed by penalties), charges such as the London congestion charge, tradable pollution permits, and information and education campaigns.' },
+      { n: 2, f: 'Government policies to encourage positive externalities', b: 'Subsidies (lower cost, so output rises), direct provision by the government funded by taxes, regulation making use compulsory (such as schooling), and information and education to encourage use.' },
       { n: 3, f: 'A tax of £3 per unit is placed on a good, and 4,000 units are then sold. How much revenue is raised?', b: '3 × 4,000 = £12,000.' },
       { n: 4, f: 'Evaluating policies to correct externalities', b: 'External costs and benefits are hard to measure, so the right tax or subsidy is hard to set. Ask who pays (firms, consumers or taxpayers), whether rules can be enforced, and whether a tax hits low-income households hardest.' },
+      { n: 5, f: 'Why may a tax on cigarettes cut smoking only a little?', b: 'Demand is price inelastic because smoking is addictive, so a higher price reduces quantity only slightly. The tax raises plenty of revenue, but regulation or information may be needed as well.' },
+      { n: 6, f: 'UK examples of policies on externalities', b: 'Negative: the Soft Drinks Industry Levy (2018), landfill tax, the ban on smoking in enclosed public places (England, 2007), the London congestion charge (2003).\nPositive: state schools and NHS vaccinations provided free.' },
     ]),
     ...sub(ECO, 'why-countries-trade-and-the-importance-of-international-trade-to-the-uk-aqa-gcse-economics', '3.2.4.1', [
       { n: 1, f: 'Exports and imports', b: 'Exports: goods and services produced in one country and sold to another. Imports: goods and services bought from other countries.' },
       { n: 2, f: 'Benefits of international trade to countries', b: 'Wider choice and lower prices for consumers, specialisation in what each country produces best, bigger markets and economies of scale for firms, access to resources not found at home, and more competition.' },
-      { n: 3, f: 'Main types of UK exports and imports', b: 'The UK exports many services, such as financial and business services, as well as goods such as machinery, cars and medicines. It imports goods such as machinery, cars, fuels, food and clothing.' },
+      { n: 3, f: 'Main types of UK exports and imports', b: 'Exports: services (about half of the total), especially financial and business services, plus goods such as machinery, cars and medicines. Imports: goods such as machinery, cars, fuels, food and clothing.' },
       { n: 4, f: 'Global interdependence: what it means for the UK', b: 'Countries rely on each other for goods, markets and supply chains. The UK gains choice and export markets, but a recession or supply problem abroad can reduce UK exports, output and jobs.' },
+      { n: 5, f: 'The UK\'s main trading partners', b: 'The European Union, taken as a group, is the UK\'s largest trading partner. The USA is the largest single country for UK exports.', src: TRX },
     ]),
     ...sub(ECO, 'exchange-rates-aqa-gcse-economics', '3.2.4.2', [
-      { n: 1, f: 'Exchange rate', b: 'The price of one currency in terms of another (e.g. £1 = $1.25). In a floating system it is set by the demand for and supply of the currency.' },
+      { n: 1, f: 'Exchange rate', b: 'The price of one currency in terms of another (e.g. £1 = $1.25). In a floating system it is set by the demand for and supply of the currency.', src: TRX },
       { n: 2, f: 'What creates demand for and supply of pounds?', b: 'Demand: foreign buyers of UK exports, tourists visiting the UK and foreign investors (more if UK interest rates rise). Supply: UK buyers of imports, UK tourists abroad and UK investment abroad.' },
       { n: 3, f: 'At £1 = $1.25, what does a $500 item cost in pounds? What if the pound falls to £1 = $1.00?', b: '500 ÷ 1.25 = £400. At $1.00 it costs £500. A weaker pound makes imports dearer.' },
       { n: 4, f: 'Effects of a rise in the value of the pound on consumers and producers', b: 'Imports become cheaper, helping consumers and firms that buy imported inputs. Exports become dearer abroad, so exporters may sell less. Memory aid: strong pound, imports cheap, exports dear.' },
+      { n: 5, f: 'At £1 = $1.25 a UK good costs £40. What is its US price, and what if the pound falls to $1.10?', b: '40 × 1.25 = $50. At $1.10 it costs 40 × 1.10 = $44, so UK exports become cheaper for US buyers. Pounds to dollars: multiply; dollars to pounds: divide.' },
+      { n: 6, f: 'What happens to the pound when UK interest rates rise relative to other countries?', b: 'Saving in the UK pays more, so foreign savers buy pounds. Demand for pounds shifts right and the pound appreciates.' },
     ]),
     ...sub(ECO, 'free-trade-agreements-including-the-european-union-aqa-gcse-economics', '3.2.4.3', [
       { n: 1, f: 'Free trade and a free-trade agreement', b: 'Free trade: trade between countries without barriers such as tariffs (taxes on imports) or quotas (limits on quantity). A free-trade agreement is a deal between countries to remove or reduce these barriers.' },
       { n: 2, f: 'Arguments for free trade', b: 'Lower prices and more choice for consumers, larger markets and economies of scale for firms, more competition and efficiency, and specialisation in what each country does best.' },
       { n: 3, f: 'Arguments against free trade', b: 'Jobs may be lost in industries that cannot compete with imports, new (infant) industries may need protection to grow, and countries may want to protect strategic industries or avoid relying on others.' },
-      { n: 4, f: 'The European Union and the benefits of free-trade agreements', b: 'The EU is a single market and customs union: no tariffs between members and a common tariff on goods from outside. Such agreements give firms a larger market and consumers lower prices. The UK left the EU in 2020 and trades with it under a trade agreement.' },
+      { n: 4, f: 'The European Union and the benefits of free-trade agreements', b: 'The EU is a single market and customs union: no tariffs between members and a common tariff on goods from outside. Such agreements give firms a larger market and consumers lower prices. The UK left on 31 January 2020; since 1 January 2021 it trades with the EU under the Trade and Cooperation Agreement.' },
+      { n: 5, f: 'Free-trade area, customs union and single market', b: 'Free-trade area: no tariffs between members, each sets its own tariffs on outsiders.\nCustoms union: also a common tariff on imports from outside.\nSingle market: also free movement of services, capital and people, with shared product rules.', src: FTG },
+      { n: 6, f: 'A car imported for £20,000 faces a 10% tariff. What is its new price, and who gains?', b: '0.10 × 20,000 = £2,000, so it costs £22,000. Domestic producers and the government (tariff revenue) gain; consumers pay more.' },
     ]),
     ...sub(ECO, 'globalisation-benefits-and-drawbacks-aqa-gcse-economics', '3.2.4.4', [
       { n: 1, f: 'Globalisation, and the factors behind its growth', b: 'The increasing integration of the world\'s economies through trade, investment, people and information. Driven by new technology (communications, the internet, container shipping), multinational companies, lower transport costs and trade agreements.' },
@@ -272,15 +304,18 @@ export const DECK_AQA_GCSE_ECONOMICS: FlashcardDeck = {
     ...sub(ECO, 'the-role-of-money-aqa-gcse-economics', '3.2.5.1', [
       { n: 1, f: 'The four functions of money', b: 'Medium of exchange, unit of account, store of value and means of deferred payment.' },
       { n: 2, f: 'Explain each function of money with an example', b: 'Medium of exchange: accepted in payment for goods. Unit of account: prices of different goods can be compared. Store of value: it can be saved for later spending. Means of deferred payment: debts, such as a loan, can be repaid later in money.' },
-      { n: 3, f: 'Why is money more than notes and coins?', b: 'Most money is held as deposits in bank and building society accounts and spent by card or transfer. Notes and coins are only a small part of the money in the economy.' },
+      { n: 3, f: 'Why is money more than notes and coins?', b: 'Most money is held as deposits in bank and building society accounts and spent by card or transfer. Notes and coins are only a small part of the money in the economy.', src: MON },
       { n: 4, f: 'Why is money better than barter?', b: 'Barter needs a double coincidence of wants: each trader must want what the other has. Money is accepted by everyone, so exchange is quicker and specialisation is easier.' },
+      { n: 5, f: 'How does inflation weaken money as a store of value? Use 4% inflation and £100.', b: 'Each pound buys less over time. With 4% inflation, £100 kept for a year buys only what 100 ÷ 1.04 = £96.15 bought at the start.' },
     ]),
     ...sub(ECO, 'the-role-and-importance-of-the-financial-sector-for-the-economy-aqa-gcse-economics', '3.2.5.2', [
       { n: 1, f: 'The main agents in the financial sector', b: 'The Bank of England (the central bank), commercial (high street) banks and building societies, together with other institutions such as insurance companies.' },
-      { n: 2, f: 'The role of the Bank of England', b: 'It sets Bank Rate to influence interest rates and control inflation, and works to keep the financial system stable, for example by overseeing banks and lending to them in a crisis. It also issues banknotes.' },
+      { n: 2, f: 'The role of the Bank of England', b: 'It sets Bank Rate to influence interest rates and control inflation, and works to keep the financial system stable, for example by overseeing banks and lending to them in a crisis. It also issues banknotes in England and Wales.' },
       { n: 3, f: 'The role of high street banks', b: 'They take deposits from savers, pay interest and keep money safe, and lend to households and firms, helping to fund investment. They also provide payment services such as cards and transfers.' },
       { n: 4, f: 'Bank versus building society', b: 'A bank is a company owned by shareholders. A building society is a mutual, owned by its members (savers and borrowers), and mainly provides savings accounts and mortgages.' },
       { n: 5, f: 'Why is the financial sector important to the economy?', b: 'It channels savings into loans for spending and investment, provides payment systems, helps people and firms manage risk, and is a large source of UK output, jobs and exports.' },
+      { n: 6, f: 'Lender of last resort', b: 'The Bank of England lends to banks in difficulty when no one else will, to stop a collapse spreading through the financial system, as with Northern Rock in 2007.' },
+      { n: 7, f: 'A bank pays savers 2% and charges borrowers 6% on £1 million lent. Find its interest margin.', b: 'Received 0.06 × 1,000,000 = £60,000; paid 0.02 × 1,000,000 = £20,000. Margin = £40,000 before costs. Banks profit from the gap between lending and saving rates.' },
     ]),
   ],
 };
