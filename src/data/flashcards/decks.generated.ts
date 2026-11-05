@@ -2,7 +2,9 @@
 import type { FlashcardDeck } from './types.ts';
 import { DECK_AQA_A_LEVEL_BIOLOGY } from './aqa-a-level-biology.ts';
 import { DECK_AQA_A_LEVEL_CHEMISTRY } from './aqa-a-level-chemistry.ts';
+import { DECK_AQA_A_LEVEL_MATHEMATICS } from './aqa-a-level-mathematics.ts';
 import { DECK_AQA_A_LEVEL_PHYSICS } from './aqa-a-level-physics.ts';
+import { DECK_AQA_GCSE_BIOLOGY } from './aqa-gcse-biology.ts';
 import { DECK_AQA_GCSE_CHEMISTRY } from './aqa-gcse-chemistry.ts';
 import { DECK_AQA_GCSE_MATHEMATICS } from './aqa-gcse-mathematics.ts';
 import { DECK_AQA_GCSE_PHYSICS } from './aqa-gcse-physics.ts';
@@ -10,6 +12,7 @@ import { DECK_CAMBRIDGE_A_LEVEL_BIOLOGY } from './cambridge-a-level-biology.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY } from './cambridge-a-level-chemistry.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS } from './cambridge-a-level-mathematics.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_PHYSICS } from './cambridge-a-level-physics.ts';
+import { DECK_CAMBRIDGE_IGCSE_BIOLOGY } from './cambridge-igcse-biology.ts';
 import { DECK_CAMBRIDGE_IGCSE_CHEMISTRY } from './cambridge-igcse-chemistry.ts';
 import { DECK_CAMBRIDGE_IGCSE_MATHEMATICS } from './cambridge-igcse-mathematics.ts';
 import { DECK_CAMBRIDGE_IGCSE_PHYSICS } from './cambridge-igcse-physics.ts';
@@ -23,8 +26,10 @@ import { DECK_EDEXCEL_IGCSE_BIOLOGY } from './edexcel-igcse-biology.ts';
 import { DECK_EDEXCEL_IGCSE_CHEMISTRY } from './edexcel-igcse-chemistry.ts';
 import { DECK_EDEXCEL_IGCSE_MATHEMATICS } from './edexcel-igcse-mathematics.ts';
 import { DECK_EDEXCEL_IGCSE_PHYSICS } from './edexcel-igcse-physics.ts';
+import { DECK_IB_IB_DP_CHEMISTRY } from './ib-ib-dp-chemistry.ts';
 import { DECK_IB_IB_DP_MATHEMATICS_ANALYSIS_AND_APPROACHES } from './ib-ib-dp-mathematics-analysis-and-approaches.ts';
 import { DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION } from './ib-ib-dp-mathematics-applications-and-interpretation.ts';
+import { DECK_IB_IB_DP_PHYSICS } from './ib-ib-dp-physics.ts';
 import { DECK_IB_IB_MYP_MATHEMATICS } from './ib-ib-myp-mathematics.ts';
 import { DECK_OCR_A_LEVEL_CHEMISTRY } from './ocr-a-level-chemistry.ts';
 import { DECK_OCR_A_LEVEL_MATHEMATICS } from './ocr-a-level-mathematics.ts';
@@ -32,15 +37,19 @@ import { DECK_OCR_A_LEVEL_PHYSICS } from './ocr-a-level-physics.ts';
 import { DECK_OCR_GCSE_CHEMISTRY } from './ocr-gcse-chemistry.ts';
 import { DECK_OCR_GCSE_MATHEMATICS } from './ocr-gcse-mathematics.ts';
 import { DECK_OCR_GCSE_PHYSICS } from './ocr-gcse-physics.ts';
+import { DECK_OXFORDAQA_A_LEVEL_BIOLOGY } from './oxfordaqa-a-level-biology.ts';
 import { DECK_OXFORDAQA_A_LEVEL_CHEMISTRY } from './oxfordaqa-a-level-chemistry.ts';
 import { DECK_OXFORDAQA_A_LEVEL_PHYSICS } from './oxfordaqa-a-level-physics.ts';
 import { DECK_OXFORDAQA_IGCSE_CHEMISTRY } from './oxfordaqa-igcse-chemistry.ts';
+import { DECK_OXFORDAQA_IGCSE_ECONOMICS } from './oxfordaqa-igcse-economics.ts';
 import { DECK_OXFORDAQA_IGCSE_MATHEMATICS } from './oxfordaqa-igcse-mathematics.ts';
 
 export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_AQA_A_LEVEL_BIOLOGY,
   DECK_AQA_A_LEVEL_CHEMISTRY,
+  DECK_AQA_A_LEVEL_MATHEMATICS,
   DECK_AQA_A_LEVEL_PHYSICS,
+  DECK_AQA_GCSE_BIOLOGY,
   DECK_AQA_GCSE_CHEMISTRY,
   DECK_AQA_GCSE_MATHEMATICS,
   DECK_AQA_GCSE_PHYSICS,
@@ -48,6 +57,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY,
   DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_A_LEVEL_PHYSICS,
+  DECK_CAMBRIDGE_IGCSE_BIOLOGY,
   DECK_CAMBRIDGE_IGCSE_CHEMISTRY,
   DECK_CAMBRIDGE_IGCSE_MATHEMATICS,
   DECK_CAMBRIDGE_IGCSE_PHYSICS,
@@ -61,8 +71,10 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_EDEXCEL_IGCSE_CHEMISTRY,
   DECK_EDEXCEL_IGCSE_MATHEMATICS,
   DECK_EDEXCEL_IGCSE_PHYSICS,
+  DECK_IB_IB_DP_CHEMISTRY,
   DECK_IB_IB_DP_MATHEMATICS_ANALYSIS_AND_APPROACHES,
   DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION,
+  DECK_IB_IB_DP_PHYSICS,
   DECK_IB_IB_MYP_MATHEMATICS,
   DECK_OCR_A_LEVEL_CHEMISTRY,
   DECK_OCR_A_LEVEL_MATHEMATICS,
@@ -70,8 +82,10 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OCR_GCSE_CHEMISTRY,
   DECK_OCR_GCSE_MATHEMATICS,
   DECK_OCR_GCSE_PHYSICS,
+  DECK_OXFORDAQA_A_LEVEL_BIOLOGY,
   DECK_OXFORDAQA_A_LEVEL_CHEMISTRY,
   DECK_OXFORDAQA_A_LEVEL_PHYSICS,
   DECK_OXFORDAQA_IGCSE_CHEMISTRY,
+  DECK_OXFORDAQA_IGCSE_ECONOMICS,
   DECK_OXFORDAQA_IGCSE_MATHEMATICS,
 ];
