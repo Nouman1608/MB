@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Eleven original questions with worked answers on the motor effect, Fleming's left-hand rule, F = BIl and d.c. motors for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,31 +27,31 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions are aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), topic P4.2, statements P4.2a to P4.2d. All of them are suitable for both Foundation and Higher Tier. Work from the [study guide](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors/) and the [revision notes](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors-revision-notes/). The [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/) show where this unit sits, and the [free diagnostics](/diagnostics/) help you decide what to do next.
+These questions are aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), topic P4.2, statements P4.2a to P4.2d. All four are printed in bold in the specification, so every question is **(Higher Tier only)**. Work from the [study guide](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors/) and the [revision notes](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors-revision-notes/). The [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/) show where this unit sits, and the [free diagnostics](/diagnostics/) help you decide what to do next.
 
 ## Questions
 
-**1.** State what the first finger, the second finger and the thumb of the left hand represent in Fleming's left-hand rule. **[3]**
+**1.** (Higher Tier only) State what the first finger, the second finger and the thumb of the left hand represent in Fleming's left-hand rule. **[3]**
 
-**2.** A wire of length 0.15 m lies at right angles to a uniform magnetic field of flux density 0.35 T. The current in the wire is 4.0 A. Calculate the force on the wire. **[3]**
+**2.** (Higher Tier only) A wire of length 0.15 m lies at right angles to a uniform magnetic field of flux density 0.35 T. The current in the wire is 4.0 A. Calculate the force on the wire. **[3]**
 
-**3.** A straight conductor with 0.30 m inside a uniform 0.20 T field, perpendicular to it, feels a force of 0.90 N. Calculate the current in the conductor. **[3]**
+**3.** (Higher Tier only) A straight conductor with 0.30 m inside a uniform 0.20 T field, perpendicular to it, feels a force of 0.90 N. Calculate the current in the conductor. **[3]**
 
-**4.** A short wire rests across two metal rails between the poles of a horseshoe magnet. When a switch is closed, the wire jumps out of the gap. Explain why the wire moves. **[4]**
+**4.** (Higher Tier only) A short wire rests across two metal rails between the poles of a horseshoe magnet. When a switch is closed, the wire jumps out of the gap. Explain why the wire moves. **[4]**
 
-**5.** A wire carries a current that flows out of the page towards you. It is in a uniform field that points from left to right across the page. State the direction of the force on the wire and explain how you worked it out. **[3]**
+**5.** (Higher Tier only) A wire carries a current that flows out of the page towards you. It is in a uniform field that points from left to right across the page. State the direction of the force on the wire and explain how you worked it out. **[3]**
 
-**6.** Explain how a d.c. motor keeps a coil turning in the same direction. **[5]**
+**6.** (Higher Tier only) Explain how a d.c. motor keeps a coil turning in the same direction. **[5]**
 
-**7.** A wire 2.5 cm long carries a current of 800 mA at right angles to a field of 0.60 T. Calculate the force on the wire. **[3]**
+**7.** (Higher Tier only) A wire 2.5 cm long carries a current of 800 mA at right angles to a field of 0.60 T. Calculate the force on the wire. **[3]**
 
-**8.** A strong magnet sits on a top-pan balance. A rigid wire is held in a fixed clamp so that 0.050 m of it lies at right angles to the field between the poles. The flux density is 0.12 T. A current of 5.0 A is switched on.
+**8.** (Higher Tier only) A strong magnet sits on a top-pan balance. A rigid wire is held in a fixed clamp so that 0.050 m of it lies at right angles to the field between the poles. The flux density is 0.12 T. A current of 5.0 A is switched on.
 
 **(a)** Calculate the force on the wire. **[3]**
 **(b)** Explain why the reading on the balance changes. **[1]**
 **(c)** The force on the magnet is equal to your answer to part (a). Use g = 10 N/kg to calculate the change in the balance reading, in grams. **[2]**
 
-**9.** A student measures the force on a wire with 0.10 m in a uniform field for four values of current.
+**9.** (Higher Tier only) A student measures the force on a wire with 0.10 m in a uniform field for four values of current.
 
 | Current (A) | 1.0 | 2.0 | 3.0 | 4.0 |
 |---|---|---|---|---|
@@ -60,14 +61,14 @@ These questions are aligned to the OCR GCSE (9-1) Gateway Science Physics A (J24
 **(b)** Use the data for a current of 3.0 A to calculate the magnetic flux density. **[3]**
 **(c)** Describe the shape of the graph of force against current. **[1]**
 
-**10.** A wire in a magnetic field is pushed upwards by the motor effect. State the direction of the force after each change below, taking each change from the starting situation.
+**10.** (Higher Tier only) A wire in a magnetic field is pushed upwards by the motor effect. State the direction of the force after each change below, taking each change from the starting situation.
 
 **(a)** The current is reversed. **[1]**
 **(b)** The magnet is turned over so its poles swap. **[1]**
 **(c)** The current is reversed and the magnet is turned over. **[1]**
 **(d)** The wire is turned to lie along the field lines. **[1]**
 
-**11.** A rectangular coil in a uniform field of 0.25 T has two opposite sides, each with 0.060 m of wire at right angles to the field. The current in the coil is 1.8 A.
+**11.** (Higher Tier only) A rectangular coil in a uniform field of 0.25 T has two opposite sides, each with 0.060 m of wire at right angles to the field. The current in the coil is 1.8 A.
 
 **(a)** Calculate the force on one of these sides. **[3]**
 **(b)** State the direction of the force on the other side compared with the first, and explain how the two forces make the coil turn. **[2]**

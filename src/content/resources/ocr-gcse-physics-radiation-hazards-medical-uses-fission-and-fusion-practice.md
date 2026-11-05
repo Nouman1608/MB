@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original practice questions with worked answers on contamination, half-life hazards, tracers, radiotherapy, fission and fusion, OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions follow the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. They cover statements P6.2a to P6.2e. Questions 1 to 3 are on P6.2a, which is assessed in both tiers. Questions 4 to 12 are on P6.2b to P6.2e, which are tested only in the Higher Tier papers, and are labelled "(Higher Tier only)". Read the [study guide](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion/) first, or use the [revision notes](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion-revision-notes/). Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checklist](/checklists/ocr/gcse/physics/). Find weak spots with the [free diagnostics](/diagnostics/).
+These questions follow the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. They cover statements P6.2a to P6.2e. Questions 1 to 3 are on P6.2a, which is assessed in both tiers. Questions 4 to 12 are on P6.2b to P6.2e, which are also assessed in both tiers; they are separate Physics only content (not in Combined Science). Questions 5 and 8 need the net decline after a whole number of half-lives (P6.1k), which is in bold in the specification, so they are labelled "(Higher Tier only)". Read the [study guide](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion/) first, or use the [revision notes](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion-revision-notes/). Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checklist](/checklists/ocr/gcse/physics/). Find weak spots with the [free diagnostics](/diagnostics/).
 
 ## Questions
 
@@ -44,19 +45,19 @@ These questions follow the OCR *GCSE (9-1) Gateway Science Physics A* specificat
 **(a)** Explain why the risk is low while the source is sealed in a case. **[2]**
 **(b)** Explain why the risk is much greater if a sample of the same source is swallowed. **[2]**
 
-**4.** (Higher Tier only) Waste A has a half-life of 20 minutes. Waste B has a half-life of 24 000 years. Each sample has the same number of undecayed nuclei and emits the same type of radiation.
+**4.** Waste A has a half-life of 20 minutes. Waste B has a half-life of 24 000 years. Each sample has the same number of undecayed nuclei and emits the same type of radiation.
 
 **(a)** State which sample has the greater activity at first, and explain why. **[2]**
 **(b)** State which sample stays hazardous for longer, and explain what this means for how it is stored. **[2]**
 
 **5.** (Higher Tier only) Radioactive material is spilt in a laboratory. The activity is 5600 Bq. The area is safe when the activity is 175 Bq or below. The half-life of the material is 4 days. Calculate how long it will be before the area is safe. **[3]**
 
-**6.** (Higher Tier only) A smoke detector contains a small source of an alpha emitter with a half-life of about 430 years.
+**6.** A smoke detector contains a small source of an alpha emitter with a half-life of about 430 years.
 
 **(a)** Explain why a long half-life suits this use. **[2]**
 **(b)** Explain why an alpha emitter is suitable for a device used in homes. **[1]**
 
-**7.** (Higher Tier only) A hospital wants a radioactive tracer to scan an organ. Four isotopes are considered.
+**7.** A hospital wants a radioactive tracer to scan an organ. Four isotopes are considered.
 
 | Isotope | Radiation | Half-life |
 |---|---|---|
@@ -73,25 +74,25 @@ These questions follow the OCR *GCSE (9-1) Gateway Science Physics A* specificat
 **(a)** Calculate the activity of the tracer after 24 hours, assuming none leaves the body. **[3]**
 **(b)** State one reason why the actual activity in the patient would be lower. **[1]**
 
-**9.** (Higher Tier only) Radiotherapy is used to treat a tumour with gamma rays from an external source.
+**9.** Radiotherapy is used to treat a tumour with gamma rays from an external source.
 
 **(a)** Describe how the gamma rays treat the tumour. **[2]**
 **(b)** Explain why the beam is directed at the tumour from several different directions. **[2]**
 **(c)** Explain why the treatment has side effects. **[1]**
 
-**10.** (Higher Tier only) Uranium-235 is used as a fuel in nuclear fission.
+**10.** Uranium-235 is used as a fuel in nuclear fission.
 
 **(a)** State what a uranium-235 nucleus usually has to do before it splits. **[1]**
 **(b)** State two things, other than the smaller nuclei, that are released when the nucleus splits. **[2]**
 **(c)** Explain how a chain reaction can happen. **[2]**
 
-**11.** (Higher Tier only) In a model of a chain reaction, each fission causes an average of 3 further fissions. One fission starts the chain (generation 0).
+**11.** In a model of a chain reaction, each fission causes an average of 3 further fissions. One fission starts the chain (generation 0).
 
 **(a)** Calculate the number of fissions in generation 5. **[2]**
 **(b)** Calculate the total number of fissions from generation 0 to generation 5 inclusive. **[2]**
 **(c)** State the average number of further fissions per fission that gives a steady release of energy. **[1]**
 
-**12.** (Higher Tier only) Two nuclei of hydrogen-2 can fuse to form helium-3 and a neutron.
+**12.** Two nuclei of hydrogen-2 can fuse to form helium-3 and a neutron.
 
 **(a)** Describe what nuclear fusion is and state what happens to some of the mass. **[2]**
 **(b)** Explain why fusion needs a very high temperature. **[2]**

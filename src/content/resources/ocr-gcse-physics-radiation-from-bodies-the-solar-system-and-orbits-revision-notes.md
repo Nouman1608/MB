@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed OCR GCSE Physics A revision notes on thermal radiation, solar system features, circular orbits and Earth's radiation balance, with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense statements P8.3d to P8.3h of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018. All five statements are **Higher Tier only**. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits/). Then test yourself with the [practice questions](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits-practice/). Planning links: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).
+These notes condense statements P8.3d to P8.3h of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018. P8.3f, P8.3g and P8.3h are in bold in the specification, so they are **Higher Tier only**. P8.3d and P8.3e are for both tiers. All five are separate Physics only content (not in Combined Science). For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits/). Then test yourself with the [practice questions](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits-practice/). Planning links: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).
 
 ## Key ideas at a glance
 
@@ -32,7 +33,7 @@ These notes condense statements P8.3d to P8.3h of OCR GCSE (9-1) Gateway Science
 | P8.3g | A stable orbit has one speed for its radius. Change the speed and the radius must change |
 | P8.3h | Temperature depends on absorbed radiation against emitted radiation. Equilibrium means they are equal |
 
-## P8.3d: emitted radiation (Higher Tier only)
+## P8.3d: emitted radiation (separate Physics only)
 
 - Every body emits electromagnetic radiation at every temperature.
 - The emission is a **continuous range** of wavelengths, not one value.
@@ -67,7 +68,7 @@ Sketch to remember: two smooth humps on one axis. The hot one is taller and sits
 </figure>
 
 
-## P8.3e: solar system facts (Higher Tier only)
+## P8.3e: solar system facts (separate Physics only)
 
 Order from the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
 

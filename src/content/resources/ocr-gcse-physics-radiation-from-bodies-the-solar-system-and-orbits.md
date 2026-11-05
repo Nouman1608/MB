@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Study guide to thermal radiation, the solar system, circular orbits and Earth's temperature balance for OCR GCSE Physics A, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide covers statements P8.3d, P8.3e, P8.3f, P8.3g and P8.3h of the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), first assessment 2018. They sit in Topic P8.3 Beyond Earth. Every statement here is **Higher Tier only**. Red-shift, the Big Bang and the formation of stars are taught on separate pages, so they are not repeated here.
+This guide covers statements P8.3d, P8.3e, P8.3f, P8.3g and P8.3h of the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), first assessment 2018. They sit in Topic P8.3 Beyond Earth. P8.3f, P8.3g and P8.3h are printed in bold in the specification, so they are **Higher Tier only**. P8.3d and P8.3e are not in bold, so they are assessed in both tiers. All five are marked in the specification as separate Physics only content (not in Combined Science). Red-shift, the Big Bang and the formation of stars are taught on separate pages, so they are not repeated here.
 
 Related pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/), the [revision notes](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits-revision-notes/) and the [practice questions](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits-practice/). For circular motion in general, see [Newton's second law, inertia, momentum and circular motion](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion/). To find your weak spots first, try the [free 10-minute diagnostics](/diagnostics/).
 
@@ -28,13 +29,13 @@ Related pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [print
 
 | Statement | What you must be able to do | Tier |
 |---|---|---|
-| P8.3d | Explain that all bodies emit radiation, and that the intensity and wavelength distribution depend on temperature | Higher Tier only |
-| P8.3e | Recall the main features of the solar system: planets, moons, artificial satellites | Higher Tier only |
+| P8.3d | Explain that all bodies emit radiation, and that the intensity and wavelength distribution depend on temperature | Both (separate Physics only) |
+| P8.3e | Recall the main features of the solar system: planets, moons, artificial satellites | Both (separate Physics only) |
 | P8.3f | Explain how gravity changes the velocity but not the speed of a body in a circular orbit | Higher Tier only |
 | P8.3g | Explain why the radius of a stable orbit must change if the speed changes | Higher Tier only |
 | P8.3h | Explain a body's temperature as a balance of absorbed and emitted radiation, with Earth as the example | Higher Tier only |
 
-## P8.3d: all bodies emit radiation (Higher Tier only)
+## P8.3d: all bodies emit radiation (separate Physics only)
 
 Every object emits electromagnetic radiation, whatever its temperature. You are not a source of visible light, but you emit infrared all the time. A hot object emits a continuous range of wavelengths, not one single value. At each wavelength it emits a different amount of energy, and that pattern is the **wavelength distribution** of the emission.
 
@@ -58,7 +59,7 @@ A rough sketch in words: draw wavelength across the bottom and intensity up the 
 </figure>
 
 
-## P8.3e: the solar system (Higher Tier only)
+## P8.3e: the solar system (separate Physics only)
 
 The solar system is the Sun and everything held in orbit around it by gravity. The Sun is a star, and it contains almost all of the mass.
 

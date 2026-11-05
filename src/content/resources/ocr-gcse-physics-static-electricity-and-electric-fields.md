@@ -17,9 +17,10 @@ syllabusTopics:
 description: "Study guide to charge, charging by rubbing, electron transfer and electric fields for OCR GCSE Physics A (Gateway Science), with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
-This guide teaches static electricity for OCR GCSE Physics A (Gateway Science, J249), using the specification Version 5.0 (July 2026). It covers learning outcomes P3.1a to P3.1d of topic P3.1 Static and charge. Statement P3.1d is in bold in the specification, so it is tested only in the Higher Tier papers. P3.1a to P3.1c are assessed in both tiers. The later outcomes in P3.1 (current as a flow of charge, and charge = current x time) are covered separately and are not repeated here.
+This guide teaches static electricity for OCR GCSE Physics A (Gateway Science, J249), using the specification Version 5.0 (July 2026). It covers learning outcomes P3.1a to P3.1d of topic P3.1 Static and charge. None of these statements is printed in bold, so P3.1a to P3.1d are all assessed in both tiers. P3.1d is marked in the specification as separate Physics only content (not in Combined Science). The later outcomes in P3.1 (current as a flow of charge, and charge = current x time) are covered separately and are not repeated here.
 
 Related pages: [revision notes](/resources/ocr-gcse-physics-static-electricity-and-electric-fields-revision-notes/) and [practice questions](/resources/ocr-gcse-physics-static-electricity-and-electric-fields-practice/). Course links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free 10-minute diagnostics](/diagnostics/).
 
@@ -30,7 +31,7 @@ Related pages: [revision notes](/resources/ocr-gcse-physics-static-electricity-a
 | P3.1a | Describe charge as a property of all matter; positive and negative charge; most bodies have equal amounts, so zero net charge | Both |
 | P3.1b | Describe how rubbing produces static electricity and sparking; give evidence for forces between charged objects not in contact; explain why charge can remain on insulators and on conductors insulated from Earth | Both |
 | P3.1c | Explain static electricity in terms of the transfer of electrons between objects | Both |
-| P3.1d | Explain the concept of an electric field and how it helps explain static electricity; relate fields to forces of attraction and repulsion | Higher Tier only |
+| P3.1d | Explain the concept of an electric field and how it helps explain static electricity; relate fields to forces of attraction and repulsion | Both (separate Physics only) |
 
 ## P3.1a Charge is a property of all matter
 
@@ -135,9 +136,9 @@ A gold leaf electroscope has a metal cap, a metal rod and a thin gold leaf hangi
 </figure>
 
 
-## P3.1d Electric fields (Higher Tier only)
+## P3.1d Electric fields (separate Physics only)
 
-**Higher Tier only.** An **electric field** is the space surrounding a charged object in which any other charge experiences a force. It is a way to explain how a force can act without contact. The charged object does not reach out and touch the other one. It creates a field, and the field exerts a force on any charge placed in it.
+An **electric field** is the space surrounding a charged object in which any other charge experiences a force. It is a way to explain how a force can act without contact. The charged object does not reach out and touch the other one. It creates a field, and the field exerts a force on any charge placed in it.
 
 ### Field lines
 

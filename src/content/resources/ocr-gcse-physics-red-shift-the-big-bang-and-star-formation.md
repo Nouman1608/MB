@@ -14,13 +14,14 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "global-challenges-ocr-gcse"
     subtopic: "beyond-earth-ocr-gcse"
-description: "Study guide to red-shift, evidence for an expanding universe, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249), Higher Tier."
+description: "Study guide to red-shift, evidence for an expanding universe, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide follows the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. It covers statements P8.3a, P8.3b and P8.3c in topic P8.3, Beyond Earth. All three are printed in bold in the specification, so they are tested only in the Higher Tier papers and are labelled "Higher Tier only" below. Other statements in P8.3 are taught on separate pages and are not repeated here.
+This guide follows the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. It covers statements P8.3a, P8.3b and P8.3c in topic P8.3, Beyond Earth. None of the three is printed in bold, so they are assessed in both Foundation and Higher Tier papers. The specification marks all three as separate Physics only content (not in Combined Science). Other statements in P8.3 are taught on separate pages and are not repeated here.
 
 Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checklist](/checklists/ocr/gcse/physics/). Companion pages: [revision notes](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation-revision-notes/) and [practice questions](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation-practice/). Find weak spots with the [free diagnostics](/diagnostics/).
 
@@ -28,13 +29,13 @@ Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checkl
 
 | Statement | What you must be able to do | Tier |
 |---|---|---|
-| P8.3a | Explain the red-shift of light from receding galaxies (qualitative only), including changes in frequency and wavelength. Explain how the change of each galaxy's speed with distance is evidence of an expanding universe | Higher Tier only |
-| P8.3b | Explain how red-shift and other evidence, including the cosmic microwave background radiation (CMBR), link to the Big Bang model | Higher Tier only |
-| P8.3c | Recall that the Sun formed from dust and gas drawn together by gravity. Explain how this caused fusion reactions, leading to equilibrium between gravitational collapse and expansion due to the energy released during fusion. The specification also lists the life cycle of a star | Higher Tier only |
+| P8.3a | Explain the red-shift of light from receding galaxies (qualitative only), including changes in frequency and wavelength. Explain how the change of each galaxy's speed with distance is evidence of an expanding universe | Both (separate Physics only) |
+| P8.3b | Explain how red-shift and other evidence, including the cosmic microwave background radiation (CMBR), link to the Big Bang model | Both (separate Physics only) |
+| P8.3c | Recall that the Sun formed from dust and gas drawn together by gravity. Explain how this caused fusion reactions, leading to equilibrium between gravitational collapse and expansion due to the energy released during fusion. The specification also lists the life cycle of a star | Both (separate Physics only) |
 
 Red-shift is qualitative only. You are not asked to calculate a speed from a wavelength. You are asked to describe what changes, which way, and what that tells you.
 
-## Light from galaxies and the idea of red-shift (P8.3a, Higher Tier only)
+## Light from galaxies and the idea of red-shift (P8.3a, separate Physics only)
 
 Light is an electromagnetic wave. Visible light runs from violet (shortest wavelength, highest frequency) to red (longest wavelength, lowest frequency). The wave equation connects the two: wave speed = frequency × wavelength. Light travels through space at a fixed speed, so if the wavelength gets longer, the frequency gets lower. See [electromagnetic waves and the spectrum](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum/) if this needs refreshing.
 
@@ -65,7 +66,7 @@ Almost all galaxies that astronomers observe, apart from a few close to our own,
 </figure>
 
 
-## Speed, distance and an expanding universe (P8.3a, Higher Tier only)
+## Speed, distance and an expanding universe (P8.3a, separate Physics only)
 
 The size of the shift tells you how fast a galaxy is moving away. The distance to the same galaxy can be found by other methods. When both are plotted for many galaxies, a clear pattern appears: **the more distant a galaxy, the greater its red-shift, so the faster it is receding.**
 
@@ -109,12 +110,12 @@ The balloon is a model, so it has limits. The galaxies themselves do not grow, o
 - Therefore the universe is expanding.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--06-speed-distance-data.webp" width="900" height="830" alt="Graph of speed against distance for galaxies A to E from the lesson table. The points lie near a straight line through the origin; doubling the distance roughly doubles the speed. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--06-speed-distance-data.webp" width="900" height="830" alt="Graph of speed against distance for galaxies A to E from the lesson table. The points lie near a straight line through the origin; doubling the distance roughly doubles the speed." loading="lazy">
   <figcaption>The lesson data show recession speed rising in step with distance.</figcaption>
 </figure>
 
 
-## The Big Bang model (P8.3b, Higher Tier only)
+## The Big Bang model (P8.3b, separate Physics only)
 
 If the universe is expanding today, then in the past everything was closer together. Imagine running the expansion backwards. All matter and space would be squeezed into a very small, extremely hot and dense region. The **Big Bang** model says the universe began from such a state and has been expanding ever since. Current estimates put the beginning at about 13.8 billion years ago.
 
@@ -154,7 +155,7 @@ Explain how the CMBR is evidence for the Big Bang.
 2. The universe has expanded since, which stretches the wavelengths of that radiation.
 3. The radiation should now reach us from all directions with a much longer wavelength, in the microwave region. CMBR is observed at exactly these wavelengths, from all directions.
 
-## Formation of the Sun and equilibrium in stars (P8.3c, Higher Tier only)
+## Formation of the Sun and equilibrium in stars (P8.3c, separate Physics only)
 
 ### From cloud to star
 
@@ -205,7 +206,7 @@ When hydrogen in the core runs low, fusion no longer balances gravity. What happ
 - A supernova scatters heavier elements. New stars and planets can later form from dust and gas that includes these elements.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--07-cloud-to-star.webp" width="900" height="1110" alt="Four steps: a cloud of dust and gas; gravity pulls a denser region together; falling inwards heats it into a protostar; the core becomes hot enough for fusion and outward and inward effects balance. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--07-cloud-to-star.webp" width="900" height="1110" alt="Four steps: a cloud of dust and gas; gravity pulls a denser region together; falling inwards heats it into a protostar; the core becomes hot enough for fusion and outward and inward effects balance." loading="lazy">
   <figcaption>From gas cloud to stable star in four steps.</figcaption>
 </figure>
 

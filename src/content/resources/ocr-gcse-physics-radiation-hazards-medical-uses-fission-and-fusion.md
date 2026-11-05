@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Study guide to contamination and irradiation, hazards by half-life, medical tracers and radiotherapy, fission and fusion for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide follows the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. It covers statements P6.2a to P6.2e in topic P6.2, Uses and hazards. P6.2a is assessed in both Foundation and Higher Tier papers. P6.2b, P6.2c, P6.2d and P6.2e are printed in bold in the specification and are tested only in the Higher Tier papers, so they are labelled "Higher Tier only" below.
+This guide follows the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. It covers statements P6.2a to P6.2e in topic P6.2, Uses and hazards. None of these statements is printed in bold, so all five are assessed in both Foundation and Higher Tier papers. P6.2b, P6.2c, P6.2d and P6.2e are marked in the specification as separate Physics only content (not in Combined Science), and are labelled that way below. Calculating the net decline after a whole number of half-lives (P6.1k) is Higher Tier only, so the worked examples that do it are labelled.
 
 Related pages: [revision notes](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion-revision-notes/), [practice questions](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion-practice/), [half-life and penetrating power](/resources/ocr-gcse-physics-ionisation-half-life-and-penetrating-power/), [nuclear structure and decay equations](/resources/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free diagnostics](/diagnostics/).
 
@@ -37,10 +38,10 @@ Related pages: [revision notes](/resources/ocr-gcse-physics-radiation-hazards-me
 | Statement | What you must be able to do | Tier |
 |---|---|---|
 | P6.2a | Recall the differences between contamination and irradiation effects and compare the hazards of the two | Both tiers |
-| P6.2b | Explain why the hazards of radioactive material differ according to the half-life involved | Higher Tier only |
-| P6.2c | Describe the uses of nuclear radiations for exploring internal organs and for controlling or destroying unwanted tissue | Higher Tier only |
-| P6.2d | Recall that some nuclei are unstable and may split, and relate this to emitted radiation, energy transfer to other particles and chain reactions | Higher Tier only |
-| P6.2e | Describe nuclear fusion | Higher Tier only |
+| P6.2b | Explain why the hazards of radioactive material differ according to the half-life involved | Both (separate Physics only) |
+| P6.2c | Describe the uses of nuclear radiations for exploring internal organs and for controlling or destroying unwanted tissue | Both (separate Physics only) |
+| P6.2d | Recall that some nuclei are unstable and may split, and relate this to emitted radiation, energy transfer to other particles and chain reactions | Both (separate Physics only) |
+| P6.2e | Describe nuclear fusion | Both (separate Physics only) |
 
 The specification adds two notes. For fission you need the term *nuclear fission*, and the unstable nucleus must usually first absorb a neutron. For fusion you need to know that some mass can be converted into energy carried by radiation. 
 
@@ -83,7 +84,7 @@ State whether each is contamination or irradiation, and give a reason.
 </figure>
 
 
-## Hazards and half-life (P6.2b, Higher Tier only)
+## Hazards and half-life (P6.2b, separate Physics only)
 
 Half-life is how long a sample takes to lose half of its undecayed nuclei, which also halves its activity. Two samples with different half-lives are hazardous in different ways.
 
@@ -97,7 +98,7 @@ Also remember the type of radiation. A long-lived alpha emitter is a minor hazar
 
 *Practical link.* The specification suggests discussing smoke detectors as an everyday use of radioactive sources. A detector needs a source that gives a steady output for years, so a long half-life is suitable. The radiation chosen should be easily stopped, so that people near the detector are not irradiated.
 
-### Worked example 2: how long until a spill is safe
+### Worked example 2: how long until a spill is safe (Higher Tier only: net decline after whole half-lives, P6.1k)
 
 A spill has an activity of 3200 Bq. The activity is considered safe at 100 Bq or below. The half-life of the isotope is 3 days. How long is it before the area is safe?
 
@@ -124,7 +125,7 @@ If the half-life were 3 years, the same working would give 15 years.
 </figure>
 
 
-## Medical uses of radiation (P6.2c, Higher Tier only)
+## Medical uses of radiation (P6.2c, separate Physics only)
 
 <!-- marlbridge-diagram:phys-ocr-b19-medical-radiation -->
 <figure class="lesson-diagram" style="margin: 2rem 0;">
@@ -160,7 +161,7 @@ Ionising radiation damages cells. If enough radiation is absorbed by cancer cell
 
 Radiotherapy has side effects, because healthy cells are also damaged, so the risk is weighed against the benefit.
 
-### Worked example 3: tracer activity
+### Worked example 3: tracer activity (Higher Tier only: net decline after whole half-lives, P6.1k)
 
 A patient is injected with a tracer of activity 480 MBq. The half-life is 6.0 hours. Find the activity of the tracer in the patient after 24 hours, if none has been removed from the body.
 
@@ -176,12 +177,12 @@ The ratio of original to final activity is 16 : 1. In practice the body also rem
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--02-radiotherapy-beams.webp" width="900" height="920" alt="Three gamma beams from different directions cross at a tumour inside the body. Healthy tissue on each path gets only one beam, so the tumour receives the highest total dose. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--02-radiotherapy-beams.webp" width="900" height="920" alt="Three gamma beams from different directions cross at a tumour inside the body. Healthy tissue on each path gets only one beam, so the tumour receives the highest total dose." loading="lazy">
   <figcaption>Beams from several angles give the tumour a high dose and spare healthy tissue.</figcaption>
 </figure>
 
 
-## Nuclear fission (P6.2d, Higher Tier only)
+## Nuclear fission (P6.2d, separate Physics only)
 
 **Nuclear fission** happens when a heavy, unstable nucleus breaks into two smaller nuclei. Most nuclei do not split easily. For fission to occur, the unstable nucleus must usually first absorb a neutron. A common example is uranium-235, which absorbs a neutron and becomes an unstable nucleus that then splits.
 
@@ -219,12 +220,12 @@ Doubling every generation becomes enormous quickly, which is why a chain reactio
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--03-fission-event-u235.webp" width="900" height="880" alt="A neutron is absorbed by uranium-235, giving an unstable nucleus that splits into two fission products with kinetic energy, plus two or three neutrons and gamma radiation. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--03-fission-event-u235.webp" width="900" height="880" alt="A neutron is absorbed by uranium-235, giving an unstable nucleus that splits into two fission products with kinetic energy, plus two or three neutrons and gamma radiation." loading="lazy">
   <figcaption>Uranium-235 absorbs a neutron, becomes unstable and splits.</figcaption>
 </figure>
 
 
-## Nuclear fusion (P6.2e, Higher Tier only)
+## Nuclear fusion (P6.2e, separate Physics only)
 
 In **nuclear fusion**, two light nuclei combine into one heavier nucleus. This is how stars release energy.
 
@@ -243,7 +244,7 @@ An isotope of hydrogen with mass number 2 fuses with an isotope of hydrogen with
 ²H + ³H → ⁴He + ¹n
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--04-fusion-h2-h3.webp" width="900" height="890" alt="Hydrogen-2 and hydrogen-3 are pushed together at very high temperature, forming helium-4, a neutron and energy. Nucleon number 5 and proton number 2 balance on both sides. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--04-fusion-h2-h3.webp" width="900" height="890" alt="Hydrogen-2 and hydrogen-3 are pushed together at very high temperature, forming helium-4, a neutron and energy. Nucleon number 5 and proton number 2 balance on both sides." loading="lazy">
   <figcaption>Fusion joins light nuclei; a little mass becomes energy and the equation balances.</figcaption>
 </figure>
 

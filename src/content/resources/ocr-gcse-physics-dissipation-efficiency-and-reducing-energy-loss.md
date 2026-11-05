@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Study guide to dissipation, power ratings, efficiency calculations and cutting energy loss for OCR GCSE (9-1) Physics A (J249), with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide covers statements P7.2a to P7.2g of topic P7.2, Power and efficiency, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). It explains how energy ends up stored in less useful ways, how devices transfer energy from a battery or the a.c. mains, how power ratings link to energy changes, how to calculate efficiency, and how lubrication and insulation cut waste. All of this content is assessed in both the Foundation and Higher Tier papers.
+This guide covers statements P7.2a to P7.2g of topic P7.2, Power and efficiency, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). It explains how energy ends up stored in less useful ways, how devices transfer energy from a battery or the a.c. mains, how power ratings link to energy changes, how to calculate efficiency, and how lubrication and insulation cut waste. All of this content is assessed in both the Foundation and Higher Tier papers except P7.2e (describe ways to increase efficiency), which is printed in bold in the specification and is **Higher Tier only**. Reducing unwanted energy transfer by lubrication and insulation (P7.2f) is for both tiers.
 
 Course pages: the [hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). Companion pages: the [revision notes](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss-revision-notes/) and the [practice questions](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss-practice/). For the energy ideas that come before this, see [work done, stored energy and power from forces](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces/). To find out where you stand, try the [free 10-minute diagnostics](/diagnostics/).
 
@@ -32,7 +33,7 @@ Course pages: the [hub](/boards/ocr/gcse/physics/) and the [printable checklist]
 | P7.2b | Describe how energy is transferred from batteries or the a.c. mains in different domestic devices, including how it is wasted in motors and heating devices |
 | P7.2c | Describe, with examples, how power ratings of domestic appliances link to changes in stored energy during use |
 | P7.2d | Calculate energy efficiency for any energy transfer |
-| P7.2e | Describe ways to increase efficiency |
+| P7.2e | Describe ways to increase efficiency (Higher Tier only) |
 | P7.2f | Explain ways of reducing unwanted energy transfer, including lubrication and thermal insulation |
 | P7.2g | Describe how the rate of cooling of a building depends on the thickness and thermal conductivity of its walls (qualitative only) |
 
@@ -168,7 +169,7 @@ In each case the useful and wasted energies add up to the input.
 </figure>
 
 
-## Increasing efficiency (P7.2e)
+## Increasing efficiency (P7.2e, Higher Tier only)
 
 Efficiency rises when less of the input is stored in unwanted ways. Ideas to describe:
 

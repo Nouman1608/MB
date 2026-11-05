@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Study guide to wave interactions for OCR GCSE (9-1) Physics A: absorption, reflection, refraction, lens ray diagrams and colour, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), and covers topic P5.3 Wave interactions, statements P5.3a to P5.3e. Statements P5.3a and P5.3b are assessed on both tiers. Statements P5.3c, P5.3d and P5.3e are in bold in the specification, so they are **Higher Tier only**, and each is labelled that way below.
+This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), and covers topic P5.3 Wave interactions, statements P5.3a to P5.3e. Statements P5.3a and P5.3b are in bold in the specification, so they are **Higher Tier only**, and each is labelled that way below. Statements P5.3c, P5.3d and P5.3e are not in bold, so they are assessed on both tiers; the specification marks them as separate Physics only content (not in Combined Science).
 
 Use it with the [revision notes](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour-revision-notes/) and the [practice questions](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour-practice/). Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). To find weak spots first, try the [free diagnostics](/diagnostics/).
 
@@ -28,13 +29,13 @@ Use it with the [revision notes](/resources/ocr-gcse-physics-reflection-refracti
 
 | Statement | What you must be able to do | Tier |
 |---|---|---|
-| P5.3a | Recall that substances absorb, transmit, refract or reflect electromagnetic waves in ways that vary with wavelength | Both |
-| P5.3b | Explain how some effects relate to differences in the velocity of electromagnetic waves in different substances | Both |
-| P5.3c | Use ray diagrams to illustrate reflection and refraction, and the similarities and differences between convex and concave lenses (qualitative only) | Higher Tier only |
-| P5.3d | Construct two-dimensional ray diagrams to illustrate reflection and refraction (qualitative only, equations not needed) | Higher Tier only |
-| P5.3e | Explain how colour relates to differential absorption, transmission and reflection, including specular reflection and scattering | Higher Tier only |
+| P5.3a | Recall that substances absorb, transmit, refract or reflect electromagnetic waves in ways that vary with wavelength | Higher Tier only |
+| P5.3b | Explain how some effects relate to differences in the velocity of electromagnetic waves in different substances | Higher Tier only |
+| P5.3c | Use ray diagrams to illustrate reflection and refraction, and the similarities and differences between convex and concave lenses (qualitative only) | Both (separate Physics only) |
+| P5.3d | Construct two-dimensional ray diagrams to illustrate reflection and refraction (qualitative only, equations not needed) | Both (separate Physics only) |
+| P5.3e | Explain how colour relates to differential absorption, transmission and reflection, including specular reflection and scattering | Both (separate Physics only) |
 
-## P5.3a: what happens when a wave meets a substance
+## P5.3a: what happens when a wave meets a substance (Higher Tier only)
 
 When an electromagnetic wave reaches a boundary or travels through a material, four things can happen:
 
@@ -60,7 +61,7 @@ A good answer names the substance, names the type of wave and says what happens.
 </figure>
 
 
-## P5.3b: wave velocity and refraction
+## P5.3b: wave velocity and refraction (Higher Tier only)
 
 Electromagnetic waves travel fastest in a vacuum (about 3.00 × 10⁸ m/s, and almost as fast in air). In denser transparent materials such as glass, perspex or water they travel more slowly. Changing speed is the cause of **refraction**.
 
@@ -138,7 +139,7 @@ The same equation works across the whole electromagnetic spectrum. Always conver
 </figure>
 
 
-## P5.3d: ray diagrams for reflection and refraction (Higher Tier only)
+## P5.3d: ray diagrams for reflection and refraction (separate Physics only)
 
 You need to **construct** two-dimensional ray diagrams. They are qualitative: no equations are needed, but the geometry must be right.
 
@@ -181,7 +182,7 @@ A faint reflected ray also appears at each surface. Add one if the question asks
 </figure>
 
 
-## P5.3c: convex and concave lenses (Higher Tier only)
+## P5.3c: convex and concave lenses (separate Physics only)
 
 A lens refracts light at both surfaces. Its shape decides what it does to a beam. Qualitative work only is required.
 
@@ -252,7 +253,7 @@ The specification's practical suggestions include investigating how a convex len
 </figure>
 
 
-## P5.3e: colour (Higher Tier only)
+## P5.3e: colour (separate Physics only)
 
 White light is a mixture of all visible colours. Colour depends on frequency. The primary colours of light are **red, green and blue**. Adding two gives a secondary colour: red + green = yellow, green + blue = cyan, red + blue = magenta.
 

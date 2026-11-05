@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original practice questions with worked answers on OCR GCSE Physics A (J249) P2.1 Motion: speed, velocity, acceleration and motion graphs."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **P2.1 Motion** (P2.1a to P2.1h) in OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018. All P2.1 statements are assessed at both tiers, so every question here is suitable for both. Learn the content first from the [study guide](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs/) and the [revision notes](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-revision-notes/). See also the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/) and the [Forces practice questions](/resources/ocr-gcse-physics-forces-practice/).
+These questions cover **P2.1 Motion** (P2.1a to P2.1h) in OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018. All P2.1 statements are assessed at both tiers except P2.1f (the area under a velocity-time graph), which is bold in the specification and **Higher Tier only**; the part that tests it, Question 6(b), is marked **(Higher Tier only)**. Every other question is suitable for both tiers. Learn the content first from the [study guide](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs/) and the [revision notes](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-revision-notes/). See also the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/) and the [Forces practice questions](/resources/ocr-gcse-physics-forces-practice/).
 
 ## Questions
 
@@ -60,7 +61,7 @@ These questions cover **P2.1 Motion** (P2.1a to P2.1h) in OCR GCSE (9-1) Gateway
 **6.** The velocity-time graph for a rider is made of straight lines joining: (0 s, 0 m/s), (5 s, 10 m/s), (15 s, 10 m/s), (18 s, 0 m/s).
 
 **(a)** Calculate the acceleration during the first 5 s. **[2]**
-**(b)** Calculate the total distance travelled using the area under the graph. **[3]**
+**(b)** (Higher Tier only) Calculate the total distance travelled using the area under the graph. **[3]**
 **(c)** Calculate the acceleration between 15 s and 18 s. Give your answer to 2 significant figures. **[2]**
 **(d)** Calculate the average speed over the 18 s, to 2 significant figures. **[1]**
 

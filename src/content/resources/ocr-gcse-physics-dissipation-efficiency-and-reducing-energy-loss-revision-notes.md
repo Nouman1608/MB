@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed revision notes on dissipation, power ratings, efficiency and insulation for OCR GCSE (9-1) Physics A (J249), with a self-test and answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense statements P7.2a to P7.2g, Power and efficiency, from the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). They are for the final weeks of revision and are assessed in both tiers. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss/). When you are ready to test yourself, use the [practice questions](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss-practice/), the [course hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). Earlier ideas on work and power from forces are in [work done, stored energy and power from forces](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces/). The [free 10-minute diagnostics](/diagnostics/) show which parts to revise first.
+These notes condense statements P7.2a to P7.2g, Power and efficiency, from the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). They are for the final weeks of revision and are assessed in both tiers, except P7.2e (ways to increase efficiency), which is printed in bold in the specification and is **Higher Tier only**. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss/). When you are ready to test yourself, use the [practice questions](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss-practice/), the [course hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). Earlier ideas on work and power from forces are in [work done, stored energy and power from forces](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces/). The [free 10-minute diagnostics](/diagnostics/) show which parts to revise first.
 
 ## Key ideas in one place
 
@@ -30,7 +31,7 @@ These notes condense statements P7.2a to P7.2g, Power and efficiency, from the O
 | P7.2b | Batteries start with a chemical store. The a.c. mains supplies energy electrically. Motors and heating devices waste some on the way in and inside |
 | P7.2c | Power rating = energy transferred per second. A higher rating means stores change faster, not that the device is more efficient |
 | P7.2d | efficiency = useful output energy transfer / input energy transfer |
-| P7.2e | Increase efficiency by reducing the unwanted stores that fill |
+| P7.2e (Higher Tier only) | Increase efficiency by reducing the unwanted stores that fill |
 | P7.2f | Lubrication cuts friction. Thermal insulation slows energy escaping |
 | P7.2g | Thicker walls and lower thermal conductivity both slow the cooling of a building (qualitative) |
 
@@ -156,6 +157,8 @@ Check that useful and wasted energies add up to the input.
 
 
 ## Increasing efficiency and reducing waste (P7.2e, P7.2f)
+
+Describing ways to increase efficiency (P7.2e) is Higher Tier only. Reducing unwanted energy transfer by lubrication and thermal insulation (P7.2f) is for both tiers.
 
 | Method | How it helps |
 |---|---|

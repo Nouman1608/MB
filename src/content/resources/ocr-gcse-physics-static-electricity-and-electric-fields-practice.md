@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Eleven original OCR GCSE Physics A (J249) questions on charge, electron transfer, the electroscope and electric fields, with worked answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -25,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover OCR GCSE Physics A (Gateway Science, J249), specification Version 5.0 (July 2026), learning outcomes P3.1a to P3.1d. Questions and parts marked (Higher Tier only) test P3.1d, which is Higher Tier only. All other questions cover content assessed in both tiers. Read the [study guide](/resources/ocr-gcse-physics-static-electricity-and-electric-fields/) first, or use the [revision notes](/resources/ocr-gcse-physics-static-electricity-and-electric-fields-revision-notes/). Course links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free 10-minute diagnostics](/diagnostics/).
+These questions cover OCR GCSE Physics A (Gateway Science, J249), specification Version 5.0 (July 2026), learning outcomes P3.1a to P3.1d. None of these statements is printed in bold, so every question is for both tiers. Questions 8 to 10 and part 11(e) test P3.1d, which is separate Physics only content (not in Combined Science). Read the [study guide](/resources/ocr-gcse-physics-static-electricity-and-electric-fields/) first, or use the [revision notes](/resources/ocr-gcse-physics-static-electricity-and-electric-fields-revision-notes/). Course links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free 10-minute diagnostics](/diagnostics/).
 
 ## Questions
 
@@ -55,15 +56,15 @@ These questions cover OCR GCSE Physics A (Gateway Science, J249), specification 
 **(b)** The rod is taken away and the leaf falls. Explain why. **[1]**
 **(c)** The experiment is repeated, but this time the rod touches the cap before it is taken away. The leaf stays raised. Explain why. **[2]**
 
-**8.** (Higher Tier only) Describe the electric field around an isolated negatively charged sphere, and state where the field is strongest. **[3]**
+**8.** Describe the electric field around an isolated negatively charged sphere, and state where the field is strongest. **[3]**
 
-**9.** (Higher Tier only) Two equal positive spheres are placed a short distance apart.
+**9.** Two equal positive spheres are placed a short distance apart.
 
 **(a)** Describe the pattern of field lines. **[2]**
 **(b)** State what the field is like midway between the spheres. **[1]**
 **(c)** Use the idea of an electric field to explain why the spheres repel each other. **[2]**
 
-**10.** (Higher Tier only) A student places two metal electrodes in a shallow dish of castor oil and sprinkles semolina on the surface. When the electrodes are connected to a high-voltage supply, the grains line up in curved lines from one electrode to the other. The lines are close together near the electrodes and further apart near the edge of the dish.
+**10.** A student places two metal electrodes in a shallow dish of castor oil and sprinkles semolina on the surface. When the electrodes are connected to a high-voltage supply, the grains line up in curved lines from one electrode to the other. The lines are close together near the electrodes and further apart near the edge of the dish.
 
 **(a)** State what the lines of grains represent. **[1]**
 **(b)** Say where the field is strongest, and give the reason. **[2]**
@@ -77,7 +78,7 @@ These questions cover OCR GCSE Physics A (Gateway Science, J249), specification 
 **(b)** Explain why the strands of her hair move apart. **[2]**
 **(c)** Explain why she must stand on an insulating stool. **[1]**
 **(d)** State what the spark does to the charge on the dome. **[1]**
-**(e)** (Higher Tier only) Explain, using the idea of an electric field, why the spark happens. **[2]**
+**(e)** Explain, using the idea of an electric field, why the spark happens. **[2]**
 
 ## Answers
 

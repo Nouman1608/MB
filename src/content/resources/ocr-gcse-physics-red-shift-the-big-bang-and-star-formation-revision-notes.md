@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed revision notes on red-shift, expanding universe evidence, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense statements P8.3a to P8.3c of the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. All three statements are printed in bold in the specification, so they are tested only in the Higher Tier papers. For full explanations, read the [study guide](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation/), then try the [practice questions](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation-practice/).
+These notes condense statements P8.3a to P8.3c of the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. None of the three statements is printed in bold, so they are assessed in both tiers. All three are separate Physics only content (not in Combined Science). For full explanations, read the [study guide](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation/), then try the [practice questions](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation-practice/).
 
 Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checklist](/checklists/ocr/gcse/physics/). Find weak spots with the [free diagnostics](/diagnostics/).
 
@@ -42,7 +43,7 @@ Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checkl
 </figure>
 
 
-## Red-shift (P8.3a, Higher Tier only)
+## Red-shift (P8.3a, separate Physics only)
 
 Qualitative only: no calculation of speed from wavelength is asked for.
 
@@ -69,7 +70,7 @@ Qualitative only: no calculation of speed from wavelength is asked for.
 </figure>
 
 
-## Speed and distance: evidence for expansion (P8.3a, Higher Tier only)
+## Speed and distance: evidence for expansion (P8.3a, separate Physics only)
 
 | Observation | What it shows |
 |---|---|
@@ -94,12 +95,12 @@ Qualitative only: no calculation of speed from wavelength is asked for.
 A line of 656 nm in the laboratory is observed at 661 nm from galaxy P and 679 nm from galaxy R. Both are red-shifted. R has the larger shift, so R recedes faster. If the expansion pattern holds, R is the more distant galaxy.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--06-speed-distance-data.webp" width="900" height="830" alt="Graph of speed against distance for galaxies A to E from the lesson table. The points lie near a straight line through the origin; doubling the distance roughly doubles the speed. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--06-speed-distance-data.webp" width="900" height="830" alt="Graph of speed against distance for galaxies A to E from the lesson table. The points lie near a straight line through the origin; doubling the distance roughly doubles the speed." loading="lazy">
   <figcaption>The lesson data show recession speed rising in step with distance.</figcaption>
 </figure>
 
 
-## Big Bang model (P8.3b, Higher Tier only)
+## Big Bang model (P8.3b, separate Physics only)
 
 - Expansion run backwards: everything was once closer together, in a very small, hot, dense state.
 - The Big Bang was the expansion of space, not an explosion of matter into empty space.
@@ -120,7 +121,7 @@ A line of 656 nm in the laboratory is observed at 661 nm from galaxy P and 679 n
 
 Two or more independent lines of evidence agreeing makes a model more convincing. Further evidence could still change it.
 
-## Star formation and equilibrium (P8.3c, Higher Tier only)
+## Star formation and equilibrium (P8.3c, separate Physics only)
 
 ### Order of events
 
@@ -159,7 +160,7 @@ A supernova spreads heavier elements, and later stars and planets can form from 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--07-cloud-to-star.webp" width="900" height="1110" alt="Four steps: a cloud of dust and gas; gravity pulls a denser region together; falling inwards heats it into a protostar; the core becomes hot enough for fusion and outward and inward effects balance. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation--07-cloud-to-star.webp" width="900" height="1110" alt="Four steps: a cloud of dust and gas; gravity pulls a denser region together; falling inwards heats it into a protostar; the core becomes hot enough for fusion and outward and inward effects balance." loading="lazy">
   <figcaption>From gas cloud to stable star in four steps.</figcaption>
 </figure>
 

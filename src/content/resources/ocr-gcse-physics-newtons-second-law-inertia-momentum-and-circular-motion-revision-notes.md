@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed OCR GCSE Physics A revision notes on F = ma, inertial mass, momentum, collisions and circular motion, with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-Quick recall for statements P2.2i, P2.2j, P2.2k, P2.2l (Higher Tier only) and P2.2q of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026). For full explanations, start with the [study guide](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion/). Then test yourself with the [practice questions](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion-practice/), tick off the [printable checklist](/checklists/ocr/gcse/physics/), see the [course hub](/boards/ocr/gcse/physics/) and take the [free 10-minute diagnostics](/diagnostics/).
+Quick recall for statements P2.2i, P2.2j, P2.2k, P2.2l and P2.2q of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026). P2.2j, P2.2k and P2.2q are printed in bold in the specification, so they are Higher Tier only; P2.2i is for both tiers. P2.2l is not printed in bold (it is separate Physics only content), but its force and change in momentum work is treated as Higher Tier only here because it depends on momentum (P2.2k), which is bold. For full explanations, start with the [study guide](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion/). Then test yourself with the [practice questions](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion-practice/), tick off the [printable checklist](/checklists/ocr/gcse/physics/), see the [course hub](/boards/ocr/gcse/physics/) and take the [free 10-minute diagnostics](/diagnostics/).
 
 ## Equations and units
 
@@ -28,8 +29,8 @@ Quick recall for statements P2.2i, P2.2j, P2.2k, P2.2l (Higher Tier only) and P2
 |---|---|---|
 | Newton's second law (P2.2i) | F = m a | N, kg, m/s² |
 | Acceleration from a speed change | a = (v - u) / t | m/s², m/s, s |
-| Inertial mass (P2.2j) | m = F / a | kg, N, m/s² |
-| Momentum (P2.2k) | p = m v | kg m/s, kg, m/s |
+| Inertial mass (P2.2j, Higher Tier only) | m = F / a | kg, N, m/s² |
+| Momentum (P2.2k, Higher Tier only) | p = m v | kg m/s, kg, m/s |
 | Force and momentum (P2.2l, Higher Tier only) | F = (change in p) / t | N, kg m/s, s |
 
 Always convert to kg, m/s, N and s before substituting. The force in F = ma is the resultant force.
@@ -84,7 +85,7 @@ a = 260 / 1300 = 0.20 m/s²
 </figure>
 
 
-## Inertia and inertial mass
+## Inertia and inertial mass (Higher Tier only)
 
 - **Inertia**: a measure of how difficult it is to change the velocity of an object.
 - **Inertial mass**: the ratio of force over acceleration, m = F / a.
@@ -103,7 +104,7 @@ Cart B has more inertia. It is harder to speed up, slow down or turn.
 </figure>
 
 
-## Momentum and collisions
+## Momentum and collisions (Higher Tier only)
 
 **Momentum = mass × velocity.** It is a vector, in kg m/s, with the direction of the velocity.
 
@@ -145,7 +146,7 @@ The water rocket: the water goes down with the same momentum as the rocket gains
 </figure>
 
 
-## More worked reminders
+## More worked reminders (Higher Tier only)
 
 **Bounce apart.** A 0.80 kg trolley moving at 3.0 m/s hits a stationary 0.40 kg trolley. Afterwards the 0.80 kg trolley moves on at 1.0 m/s and the 0.40 kg trolley moves off.
 
@@ -173,7 +174,7 @@ F = ma and a = (v - u) / t combine to give F = (m v - m u) / t. So force = chang
 - Seat belts, air bags and crumple zones lengthen the stopping time and reduce the force.
 - Reminder example: a 0.30 kg ball stopped from 12 m/s in 0.020 s needs F = 0.30 × 12 / 0.020 = 180 N.
 
-## Circular motion at constant speed
+## Circular motion at constant speed (Higher Tier only)
 
 - Speed is constant. Direction keeps changing.
 - Velocity is a vector, so its direction changing means the velocity is changing.
@@ -192,13 +193,13 @@ F = ma and a = (v - u) / t combine to give F = (m v - m u) / t. So force = chang
 
 1. A 6.0 kg cart has a resultant force of 15 N. Find its acceleration.
 2. A resultant force of 48 N gives an object an acceleration of 6.0 m/s². Find its mass.
-3. A force of 7.5 N gives an acceleration of 1.5 m/s². What is the inertial mass?
-4. Find the momentum of a 1400 kg car moving at 15 m/s.
-5. A 9.0 kg trolley has a momentum of 27 kg m/s. Find its velocity.
-6. A 2.5 kg cart at 4.8 m/s runs into a resting 1.5 kg cart and the two lock together. Find their speed.
-7. A gun of mass 4.0 kg fires a 0.020 kg bullet at 300 m/s. Find the recoil speed of the gun.
+3. (Higher Tier only) A force of 7.5 N gives an acceleration of 1.5 m/s². What is the inertial mass?
+4. (Higher Tier only) Find the momentum of a 1400 kg car moving at 15 m/s.
+5. (Higher Tier only) A 9.0 kg trolley has a momentum of 27 kg m/s. Find its velocity.
+6. (Higher Tier only) A 2.5 kg cart at 4.8 m/s runs into a resting 1.5 kg cart and the two lock together. Find their speed.
+7. (Higher Tier only) A gun of mass 4.0 kg fires a 0.020 kg bullet at 300 m/s. Find the recoil speed of the gun.
 8. (Higher Tier only) A 0.30 kg ball moving at 12 m/s is stopped in 0.020 s. Find the average force.
-9. Why does a car going round a roundabout at constant speed have a changing velocity?
+9. (Higher Tier only) Why does a car going round a roundabout at constant speed have a changing velocity?
 10. A van at 0.50 m/s² under a resultant force of 650 N: what is its mass?
 
 ### Answers
