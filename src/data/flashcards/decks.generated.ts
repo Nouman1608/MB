@@ -34,6 +34,7 @@ import { DECK_CAMBRIDGE_O_LEVEL_CHEMISTRY } from './cambridge-o-level-chemistry.
 import { DECK_CAMBRIDGE_O_LEVEL_ECONOMICS } from './cambridge-o-level-economics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS } from './cambridge-o-level-mathematics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_PHYSICS } from './cambridge-o-level-physics.ts';
+import { DECK_EDEXCEL_A_LEVEL_ACCOUNTING } from './edexcel-a-level-accounting.ts';
 import { DECK_EDEXCEL_A_LEVEL_BIOLOGY } from './edexcel-a-level-biology.ts';
 import { DECK_EDEXCEL_A_LEVEL_BUSINESS } from './edexcel-a-level-business.ts';
 import { DECK_EDEXCEL_A_LEVEL_CHEMISTRY } from './edexcel-a-level-chemistry.ts';
@@ -114,6 +115,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_O_LEVEL_ECONOMICS,
   DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_O_LEVEL_PHYSICS,
+  DECK_EDEXCEL_A_LEVEL_ACCOUNTING,
   DECK_EDEXCEL_A_LEVEL_BIOLOGY,
   DECK_EDEXCEL_A_LEVEL_BUSINESS,
   DECK_EDEXCEL_A_LEVEL_CHEMISTRY,
