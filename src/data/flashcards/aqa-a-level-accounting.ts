@@ -56,6 +56,7 @@ export const DECK_AQA_A_LEVEL_ACCOUNTING: FlashcardDeck = {
   syllabusSeries: '2017-onwards',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'javaid-iqbal-sabri', reviewedOn: '2026-11-05' },
   cards: [
     // 1 An introduction to the role of the accountant in business
     ...topicOnly('an-introduction-to-the-role-of-the-accountant-in-business', '1', [

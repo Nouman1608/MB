@@ -46,6 +46,7 @@ export const DECK_OCR_GCSE_PHYSICS: FlashcardDeck = {
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'iftikhar-azeemi', reviewedOn: '2026-11-05' },
   cards: [
     // P1 Matter
     ...sub('matter-ocr-gcse', 'the-particle-model-ocr-gcse', 'P1.1', [

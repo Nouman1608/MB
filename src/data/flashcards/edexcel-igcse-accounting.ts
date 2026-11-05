@@ -50,6 +50,7 @@ export const DECK_EDEXCEL_IGCSE_ACCOUNTING: FlashcardDeck = {
   syllabusSeries: 'Issue 1, October 2016',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'javaid-iqbal-sabri', reviewedOn: '2026-11-05' },
   cards: [
     // 1 The accounting environment
     ...sub(T1, 'types-of-business-organisation-4ac1', '1.1', [

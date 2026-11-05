@@ -57,6 +57,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
   syllabusSeries: '2025-2027',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Number
     ...topicOnly('number', 1, [

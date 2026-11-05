@@ -19,7 +19,9 @@ syllabusTopics:
     subtopic: "transport-across-cell-membranes-aqa-alevel-biology"
 description: "Condensed AQA A-level Biology 7402 notes on section 3.2.3: the fluid-mosaic model, diffusion, osmosis, active transport, co-transport, and practicals on water potential and membrane permeability."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

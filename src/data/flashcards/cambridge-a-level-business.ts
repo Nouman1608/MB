@@ -52,6 +52,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_BUSINESS: FlashcardDeck = {
   syllabusSeries: 'For examination in 2026, 2027 and 2028',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Business and its environment (AS)
     ...sub(T1, 'enterprise-cambridge-alevel-business', '1.1', [

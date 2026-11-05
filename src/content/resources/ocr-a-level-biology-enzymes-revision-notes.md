@@ -16,7 +16,9 @@ syllabusTopics:
     subtopic: "enzymes-ocr-alevel-biology"
 description: "Condensed revision notes on enzyme action, factors affecting rate, Q₁₀, cofactors, coenzymes, inhibitors and the PAG4 enzyme practicals for OCR A Level Biology A (H420) 2.1.4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

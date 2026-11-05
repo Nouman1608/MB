@@ -54,6 +54,7 @@ export const DECK_OCR_GCSE_MATHEMATICS: FlashcardDeck = {
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Number operations and integers
     ...sub(T1, 'calculations-with-integers-ocr-gcse-maths', '1.01', [

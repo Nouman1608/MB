@@ -45,6 +45,7 @@ export const DECK_AQA_GCSE_PHYSICS: FlashcardDeck = {
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'iftikhar-azeemi', reviewedOn: '2026-11-05' },
   cards: [
     // 4.1 Energy
     ...sub('energy-aqa-gcse', 'energy-changes-in-a-system', '4.1.1', [

@@ -52,6 +52,7 @@ export const DECK_EDEXCEL_A_LEVEL_BUSINESS: FlashcardDeck = {
   syllabusSeries: 'Issue 1, September 2017',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // Unit 1 Marketing and people
     ...sub(T1, 'meeting-customer-needs-ybs11', '1.3.1', [

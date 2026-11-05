@@ -19,7 +19,9 @@ syllabusTopics:
     subtopic: "all-cells-arise-from-other-cells-aqa-alevel-biology"
 description: "Condensed AQA A-level Biology 7402 notes on section 3.2.2: the cell cycle, the stages of mitosis, cancer, binary fission, virus replication and the root tip squash practical."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

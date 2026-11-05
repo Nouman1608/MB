@@ -51,6 +51,7 @@ export const DECK_EDEXCEL_A_LEVEL_MATHEMATICS: FlashcardDeck = {
   syllabusSeries: 'Specification Issue 3, April 2019',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // Unit P1: Pure Mathematics 1
     ...sub(P1, 'p1-algebra-and-functions-edexcel-alevel-maths', 'P1.1', [

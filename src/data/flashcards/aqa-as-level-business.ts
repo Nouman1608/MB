@@ -42,6 +42,7 @@ export const DECK_AQA_AS_LEVEL_BUSINESS: FlashcardDeck = {
   syllabusSeries: 'For first teaching from September 2026',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 3.1 What is business? Managing marketing and finance
     ...sub(T1, 'business-and-objectives-aqa-aslevel-business', '3.1.1', [

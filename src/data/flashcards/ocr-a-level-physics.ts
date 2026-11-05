@@ -71,6 +71,7 @@ export const DECK_OCR_A_LEVEL_PHYSICS: FlashcardDeck = {
   syllabusSeries: 'Version 3.0 (March 2026), for first assessment in 2017',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'iftikhar-azeemi', reviewedOn: '2026-11-05' },
   cards: [
     // Module 1 Development of practical skills in physics
     ...sub(M1, 'practical-skills-assessed-in-a-written-examination', '1.1', [

@@ -49,6 +49,7 @@ export const DECK_IB_IB_DP_BUSINESS: FlashcardDeck = {
   syllabusSeries: 'First assessments 2024',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // Unit 1: Introduction to business management
     ...sub(U1, 'ib-dp-business-1-1', '1.1', [

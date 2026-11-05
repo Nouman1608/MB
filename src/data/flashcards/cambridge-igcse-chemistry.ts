@@ -48,6 +48,7 @@ export const DECK_CAMBRIDGE_IGCSE_CHEMISTRY: FlashcardDeck = {
   tierScheme: 'core-extended',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'farhat-ul-ain-sehgal', reviewedOn: '2026-11-05' },
   cards: [
     // 1 States of matter
     ...sub('states-of-matter', 'solids-liquids-and-gases', '1.1', [

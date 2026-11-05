@@ -47,6 +47,7 @@ export const DECK_EDEXCEL_IGCSE_BUSINESS: FlashcardDeck = {
   syllabusSeries: 'Issue 2, February 2026',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Business activity and influences on business
     ...sub(T1, 'business-objectives-4bs1', '1.1', [

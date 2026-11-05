@@ -55,6 +55,7 @@ export const DECK_IB_IB_DP_MATHEMATICS_ANALYSIS_AND_APPROACHES: FlashcardDeck = 
   tierScheme: 'sl-hl',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'muhammad-ghazali-siddiqui', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Number and algebra
     ...sub(T1, ss('1.1'), '1.1', [

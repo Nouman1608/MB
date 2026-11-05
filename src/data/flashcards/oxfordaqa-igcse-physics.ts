@@ -43,6 +43,7 @@ export const DECK_OXFORDAQA_IGCSE_PHYSICS: FlashcardDeck = {
   syllabusSeries: 'For exams May/June 2018 onwards',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'iftikhar-azeemi', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Forces and their effects
     ...sub(T1, 'forces-and-their-interactions-oxfordaqa', '3.1.1', [

@@ -41,6 +41,7 @@ export const DECK_EDEXCEL_A_LEVEL_PHYSICS: FlashcardDeck = {
   syllabusSeries: 'Issue 3',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hassan', reviewedOn: '2026-11-05' },
   cards: [
     // Unit 1 Mechanics and Materials
     ...sub('unit-1-mechanics-and-materials', 'mechanics', '1.3', [

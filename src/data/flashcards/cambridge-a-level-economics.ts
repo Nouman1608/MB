@@ -91,6 +91,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_ECONOMICS: FlashcardDeck = {
   syllabusSeries: 'For examination in 2026, 2027 and 2028',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Basic economic ideas and resource allocation (AS)
     ...sub(T1, 'scarcity-choice-and-opportunity-cost-cambridge-alevel-economics', '1.1', [

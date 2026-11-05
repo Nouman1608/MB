@@ -63,6 +63,7 @@ export const DECK_EDEXCEL_IGCSE_MATHEMATICS: FlashcardDeck = {
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Numbers and the number system
     ...sub(T1, 'integers-edexcel-igcse-maths', '1.1', [

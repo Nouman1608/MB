@@ -75,6 +75,7 @@ export const DECK_AQA_A_LEVEL_BIOLOGY: FlashcardDeck = {
   syllabusSeries: 'For first teaching 2015',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Biological molecules
     ...sub(T1, 'monomers-and-polymers-aqa-alevel-biology', '3.1.1', [

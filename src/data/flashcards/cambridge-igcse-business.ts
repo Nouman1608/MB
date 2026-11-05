@@ -39,6 +39,7 @@ export const DECK_CAMBRIDGE_IGCSE_BUSINESS: FlashcardDeck = {
   syllabusSeries: '2027-2029',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Understanding business activity
     ...sub('understanding-business-activity-0264', 'business-activity-0264', '1.1', [

@@ -52,6 +52,7 @@ export const DECK_AQA_A_LEVEL_PHYSICS: FlashcardDeck = {
   syllabusSeries: 'For first teaching 2015',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hassan', reviewedOn: '2026-11-05' },
   cards: [
     // 3.1 Measurements and their errors
     ...sub('measurements-and-their-errors-aqa-alevel', 'use-of-si-units-and-their-prefixes', '3.1.1', [

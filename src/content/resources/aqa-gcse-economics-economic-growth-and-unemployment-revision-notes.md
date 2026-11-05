@@ -19,7 +19,9 @@ syllabusTopics:
     subtopic: "employment-and-unemployment-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes for 3.2.2.2 and 3.2.2.3: growth, GDP, real GDP and GDP per capita, unemployment measures, types and policies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

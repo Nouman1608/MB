@@ -18,7 +18,9 @@ syllabusTopics:
     subtopic: "coronary-heart-disease-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on coronary heart disease, stents, statins, faulty valves, transplants and artificial hearts, with an evaluation frame and self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

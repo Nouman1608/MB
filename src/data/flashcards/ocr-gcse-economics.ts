@@ -56,6 +56,7 @@ export const DECK_OCR_GCSE_ECONOMICS: FlashcardDeck = {
   syllabusSeries: 'Version 2.0 (June 2026), for first assessment in 2019',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Introduction to economics
     ...sub(INTRO, 'main-economic-groups-and-factors-of-production-ocr-gcse-economics', '1.1', [

@@ -43,6 +43,7 @@ export const DECK_OCR_GCSE_BUSINESS: FlashcardDeck = {
   syllabusSeries: 'Version 2.0 (January 2026), for first assessment in 2019',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // Business 1 (J204/01): business activity, marketing and people
     ...sub(T1, 'business-activity-ocr-gcse-business', '1', [

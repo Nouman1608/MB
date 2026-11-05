@@ -49,6 +49,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_CHEMISTRY: FlashcardDeck = {
   syllabusSeries: '2026-2028',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'farhat-ul-ain-sehgal', reviewedOn: '2026-11-05' },
   cards: [
     // 1 States of matter
     ...sub('states-of-matter', 'solids-liquids-and-gases', '1.1', [

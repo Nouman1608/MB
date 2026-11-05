@@ -21,7 +21,9 @@ syllabusTopics:
     subtopic: "plant-organ-system-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on leaf tissues, root hair cells, xylem, phloem, stomata, transpiration, translocation, potometer and stomata-count maths, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

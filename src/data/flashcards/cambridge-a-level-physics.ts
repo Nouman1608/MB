@@ -51,6 +51,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_PHYSICS: FlashcardDeck = {
   syllabusSeries: '2025-2027',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hassan', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Physical quantities and units
     ...sub('as-physical-quantities-and-units', 'as-physical-quantities', '1.1', [

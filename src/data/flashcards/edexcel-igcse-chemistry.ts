@@ -59,6 +59,7 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
   syllabusSeries: 'Issue 3, September 2024',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Principles of chemistry
     ...sub(P, 'states-of-matter-4ch1', '1a', [

@@ -52,6 +52,7 @@ export const DECK_OXFORDAQA_IGCSE_CHEMISTRY: FlashcardDeck = {
   syllabusSeries: 'Version 6.2, for exams May/June 2018 onwards',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Atomic structure and the periodic table
     ...sub(T1, 'solids-liquids-and-gases-9202', '3.1.1', [

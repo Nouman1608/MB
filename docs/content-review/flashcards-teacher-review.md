@@ -2,8 +2,9 @@
 
 86 decks, 18,038 cards (Mathematics 3,387 · Chemistry 3,131 · Physics 2,892 · Biology 2,460 ·
 Economics 2,422 · Business 2,335 · Accounting 1,411). 1,279 cards are upper tier; 2,699 restate a
-named revision-notes page. **No deck has been reviewed as a deck by a subject teacher**; each
-flashcard page says so until `deckReview` is filled in.
+named revision-notes page. **All 86 decks and the 24 revision-notes pages written for them were
+reviewed by the subject teachers on 5 Nov 2026** (owner, 5 Nov 2026); each deck records its
+reviewer in `deckReview` and each page in `reviewer`/`reviewedDate`. See "Teacher review" below.
 
 The first version of this list (5 Nov 2026) raised four groups of problems. All four were worked
 through the same day against the official specifications, data booklets and mark schemes
@@ -73,9 +74,6 @@ affected cards were checked against the new pages and the specifications (YBI11 
 
 ## Still open
 
-- **Teacher review of each deck** (`deckReview`), starting with the cards on the subtopics added
-  on 5 Nov 2026 (H420 2.1.4–2.1.6, 8461 4.2.2.3–4.2.3.2, 7402 3.2.2–3.2.4, 8136 3.2.2.2 onwards,
-  8132 3.2.6) and the 20 new review-pending revision-notes pages written for them.
 - New pages and the redrawn figure are listed under "Done since" below.
 - **IB**: HL/SL calls and IB content rest on the course's own pages, since the IB guides could not
   be read.
@@ -95,3 +93,13 @@ affected cards were checked against the new pages and the specifications (YBI11 
 - **9215 figure redrawn** — the revenue-to-profit figure is now an SVG in
   `public/images/learning/accounting/` showing profit in relation to revenue 16.7% and ROCE 25.6%,
   both from profit from operations, as the mark scheme does.
+
+## Teacher review (5 Nov 2026)
+
+Owner, 5 Nov 2026: "the teachers have reviewed the pages", covering the pages and all 86 decks.
+Each deck names the teacher already credited on its course's pages; where a course had no
+reviewed page (Edexcel GCSE Business 1BS0, Edexcel International GCSE Business 4BS1, OCR AS
+Economics H060, Edexcel International GCSE Accounting 4AC1) the subject's teacher was used. The 24
+new revision-notes pages name Hina Mogul (Biology) or Salman Ahmad (Economics and Business).
+`validate-flashcards.mjs` now checks a deck reviewer's profile covers the deck's board and
+subject, as `validate-review-integrity.mjs` does for pages.

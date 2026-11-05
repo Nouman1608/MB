@@ -48,6 +48,7 @@ export const DECK_OXFORDAQA_A_LEVEL_ECONOMICS: FlashcardDeck = {
   syllabusSeries: 'First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 The operation of markets, market failure and the role of government (AS)
     ...sub(T1, 'the-economic-problem-and-methodology-oxfordaqa-alevel-economics', '3.1.1', [

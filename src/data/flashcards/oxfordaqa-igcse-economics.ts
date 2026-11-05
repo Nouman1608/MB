@@ -55,6 +55,7 @@ export const DECK_OXFORDAQA_IGCSE_ECONOMICS: FlashcardDeck = {
   syllabusSeries: 'First teaching September 2023, first examined May/June 2025',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 How markets work
     ...sub(MKT, 'economic-foundations-oxfordaqa-igcse-economics', '3.1.1', [

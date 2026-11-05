@@ -16,7 +16,9 @@ syllabusTopics:
     subtopic: "biological-membranes-ocr-alevel-biology"
 description: "Condensed revision notes on the fluid mosaic model, membrane permeability, diffusion, active transport, bulk transport, osmosis and water potential, with the PAG5 and PAG8 practicals, for OCR A Level Biology A (H420) 2.1.5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

@@ -71,6 +71,7 @@ export const DECK_EDEXCEL_IGCSE_BIOLOGY: FlashcardDeck = {
   syllabusSeries: 'Issue 3',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // 1 The nature and variety of living organisms
     ...topicOnly(T1, '1', [

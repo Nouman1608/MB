@@ -16,7 +16,9 @@ syllabusTopics:
     topic: "the-diversity-of-living-organisms-oxfordaqa-alevel-biology"
 description: "Condensed revision notes for OxfordAQA International AS and A-level Biology 9610 Unit 1 on biological molecules, enzymes, transport across membranes, DNA and protein synthesis, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

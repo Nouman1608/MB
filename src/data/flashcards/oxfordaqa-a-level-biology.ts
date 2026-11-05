@@ -77,6 +77,7 @@ export const DECK_OXFORDAQA_A_LEVEL_BIOLOGY: FlashcardDeck = {
   syllabusSeries: 'Version 5.1, for International A-level exams May/June 2018 onwards',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // 1 The diversity of living organisms
     ...topicOnly('the-diversity-of-living-organisms-oxfordaqa-alevel-biology', '1', [

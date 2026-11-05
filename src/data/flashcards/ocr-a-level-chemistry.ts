@@ -55,6 +55,7 @@ export const DECK_OCR_A_LEVEL_CHEMISTRY: FlashcardDeck = {
   syllabusSeries: 'Version 3.1 (May 2026), for first assessment in 2017',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
   cards: [
     // Module 1 Development of practical skills in chemistry
     ...sub(T1, s('1-1-1'), '1.1.1', [

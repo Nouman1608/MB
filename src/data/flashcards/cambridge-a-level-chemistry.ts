@@ -60,6 +60,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_CHEMISTRY: FlashcardDeck = {
   syllabusSeries: '2025-2027',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'farhat-ul-ain-sehgal', reviewedOn: '2026-11-05' },
   cards: [
     // ===== AS LEVEL =====
 

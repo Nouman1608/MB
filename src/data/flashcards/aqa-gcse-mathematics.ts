@@ -54,6 +54,7 @@ export const DECK_AQA_GCSE_MATHEMATICS: FlashcardDeck = {
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Number
     ...sub('number-aqa-gcse-maths', 'structure-and-calculation-aqa-gcse-maths', '3.1.1', [

@@ -65,6 +65,7 @@ export const DECK_AQA_GCSE_ECONOMICS: FlashcardDeck = {
   syllabusSeries: 'For first teaching from September 2017',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 How markets work
     ...sub(MKT, 'economic-foundations-aqa-gcse-economics', '3.1.1', [

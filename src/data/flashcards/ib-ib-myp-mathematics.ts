@@ -58,6 +58,7 @@ export const DECK_IB_IB_MYP_MATHEMATICS: FlashcardDeck = {
   tierScheme: 'standard-extended',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Branches of mathematical study
     ...sub(BR, `${BR}-numerical-and-abstract-reasoning`, '1', [

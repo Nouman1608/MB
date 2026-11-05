@@ -48,6 +48,7 @@ export const DECK_OXFORDAQA_A_LEVEL_MATHEMATICS: FlashcardDeck = {
   syllabusSeries: 'International AS exams from May/June 2018, International A-level exams from May/June 2019, Version 5.2',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // Unit P1: Pure Maths (International AS)
     ...sub(P1, 'p1-algebra-oxfordaqa-alevel-maths', 'P1.1', [

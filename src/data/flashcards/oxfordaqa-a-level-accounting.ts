@@ -61,6 +61,7 @@ export const DECK_OXFORDAQA_A_LEVEL_ACCOUNTING: FlashcardDeck = {
   syllabusSeries: '2024-onwards',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'javaid-iqbal-sabri', reviewedOn: '2026-11-05' },
   cards: [
     // 1 An introduction to the role of the accountant in business
     ...topicOnly('an-introduction-to-the-role-of-the-accountant-in-business-oxfordaqa', '1', [

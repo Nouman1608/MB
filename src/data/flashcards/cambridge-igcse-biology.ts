@@ -72,6 +72,7 @@ export const DECK_CAMBRIDGE_IGCSE_BIOLOGY: FlashcardDeck = {
   tierScheme: 'core-extended',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Characteristics and classification of living organisms
     ...sub(T1, t('characteristics-of-living-organisms'), '1.1', [

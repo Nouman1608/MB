@@ -17,7 +17,9 @@ syllabusTopics:
     subtopic: "measures-of-economic-performance-edexcel-alevel-economics"
 description: "Condensed notes with formulas, worked reminders and a self-test on inflation, the CPI, causes of inflation and deflation, the ILO unemployment measure and the causes and effects of unemployment, Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

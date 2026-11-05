@@ -58,6 +58,7 @@ export const DECK_EDEXCEL_A_LEVEL_BIOLOGY: FlashcardDeck = {
   syllabusSeries: 'Issue 2',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // Topic 1 Molecules, Transport and Health
     ...topicOnly(T1, '1', [

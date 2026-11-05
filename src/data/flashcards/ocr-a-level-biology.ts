@@ -64,6 +64,7 @@ export const DECK_OCR_A_LEVEL_BIOLOGY: FlashcardDeck = {
   syllabusSeries: 'Version 4.1 (April 2026), for first assessment in 2025',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // Module 1 Development of practical skills in biology
     ...sub(M1, 'practical-skills-written-examination-ocr-alevel-biology', '1.1', [

@@ -45,6 +45,7 @@ export const DECK_OCR_A_LEVEL_MATHEMATICS: FlashcardDeck = {
   syllabusSeries: 'Version 3.1 (August 2026), for first assessment in 2018',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Pure mathematics
     ...sub(PURE, 'proof-ocr-alevel-maths', '1.01', [

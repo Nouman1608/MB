@@ -58,6 +58,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
   syllabusSeries: '2026-2028',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Cells
     ...sub('cells', 'cell-structure-and-function', '1.1', [

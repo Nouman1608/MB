@@ -16,7 +16,9 @@ syllabusTopics:
     subtopic: "cell-division-cell-diversity-and-cellular-organisation-ocr-alevel-biology"
 description: "Condensed revision notes on the cell cycle and checkpoints, mitosis, meiosis, the PAG1 root tip squash, specialised cells, tissues and stem cells for OCR A Level Biology A (H420) 2.1.6."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

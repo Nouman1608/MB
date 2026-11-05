@@ -49,6 +49,7 @@ export const DECK_OCR_AS_LEVEL_ECONOMICS: FlashcardDeck = {
   syllabusSeries: 'For first assessment in 2016',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Scarcity and choice
     ...sub(T1, 'the-basic-economic-problem-ocr-aslevel-economics', '1.1', [

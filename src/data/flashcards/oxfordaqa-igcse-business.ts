@@ -57,6 +57,7 @@ export const DECK_OXFORDAQA_IGCSE_BUSINESS: FlashcardDeck = {
   syllabusSeries: 'First teaching September 2020, first examined May/June 2022',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Business in the real world
     ...topicOnly('business-in-the-real-world-oxfordaqa-igcse-business', '1', [

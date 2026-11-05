@@ -47,6 +47,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_MATHEMATICS: FlashcardDeck = {
   syllabusSeries: '2026-2027',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Pure Mathematics 1
     ...sub(P1, 'quadratics-cambridge-alevel-maths', '1.1', [

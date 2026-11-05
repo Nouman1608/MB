@@ -47,6 +47,7 @@ export const DECK_AQA_AS_LEVEL_ECONOMICS: FlashcardDeck = {
   syllabusSeries: 'For first teaching from September 2015',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 3.1 The operation of markets and market failure
     ...sub(MICRO, 'economic-methodology-and-the-economic-problem-aqa-aslevel-economics', '3.1.1', [

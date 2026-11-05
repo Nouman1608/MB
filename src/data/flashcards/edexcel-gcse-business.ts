@@ -55,6 +55,7 @@ export const DECK_EDEXCEL_GCSE_BUSINESS: FlashcardDeck = {
   syllabusSeries: 'Issue 2, July 2022',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1.1 Enterprise and entrepreneurship
     ...sub('enterprise-and-entrepreneurship-1bs0', 'the-dynamic-nature-of-business-1bs0', '1.1.1', [

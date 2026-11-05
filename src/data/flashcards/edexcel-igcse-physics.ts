@@ -48,6 +48,7 @@ export const DECK_EDEXCEL_IGCSE_PHYSICS: FlashcardDeck = {
   syllabusSeries: 'Issue 4',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hassan', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Forces and motion
     ...sub(T1, 'units-forces-and-motion', '1a', [

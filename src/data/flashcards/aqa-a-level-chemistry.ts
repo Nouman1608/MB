@@ -66,6 +66,7 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
   syllabusSeries: 'For teaching from September 2015',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Atomic structure (3.1.1)
     ...sub('atomic-structure-7405', 'fundamental-particles-7405', '3.1.1.1', [

@@ -67,6 +67,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_BIOLOGY: FlashcardDeck = {
   syllabusSeries: 'For examination in 2025, 2026 and 2027',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Cell structure
     ...sub(T1, 'the-microscope-in-cell-studies-cambridge-alevel-biology', '1.1', [

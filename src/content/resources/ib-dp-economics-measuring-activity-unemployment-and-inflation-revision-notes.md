@@ -19,7 +19,9 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-3"
 description: "Condensed revision notes for IB DP Economics sub-topics 3.1 and 3.3: GDP and GNI, real and nominal, per capita and PPP measures, types of unemployment and the natural rate, and inflation, disinflation and deflation, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

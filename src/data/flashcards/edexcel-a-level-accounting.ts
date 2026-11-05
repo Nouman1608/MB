@@ -74,6 +74,7 @@ export const DECK_EDEXCEL_A_LEVEL_ACCOUNTING: FlashcardDeck = {
   syllabusSeries: '2015-onwards',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'javaid-iqbal-sabri', reviewedOn: '2026-11-05' },
   cards: [
     // 1.1 Principles of accounting and double entry bookkeeping
     ...sub(T11, 'role-and-purpose-of-accounting-yac11', '1.1.1-1.1.2', [

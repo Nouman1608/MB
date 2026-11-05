@@ -55,6 +55,7 @@ export const DECK_OCR_A_LEVEL_BUSINESS: FlashcardDeck = {
   syllabusSeries: 'Version 2.1 (January 2026), for first assessment in 2017; final assessment summer 2027',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Business objectives and strategic decisions
     ...sub(T1, 'different-stakeholder-and-business-objectives-ocr-alevel-business', '1.1', [

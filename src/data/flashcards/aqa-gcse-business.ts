@@ -57,6 +57,7 @@ export const DECK_AQA_GCSE_BUSINESS: FlashcardDeck = {
   syllabusSeries: 'For first teaching from September 2017',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Business in the real world
     ...sub(T1, 'purpose-and-nature-of-businesses-aqa-gcse-business', '3.1.1', [

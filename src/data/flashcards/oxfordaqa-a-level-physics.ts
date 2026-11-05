@@ -63,6 +63,7 @@ export const DECK_OXFORDAQA_A_LEVEL_PHYSICS: FlashcardDeck = {
   syllabusSeries: 'International AS and A-level',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'iftikhar-azeemi', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Measurements and their errors (AS)
     ...sub(MEAS, 'use-of-si-units-and-their-prefixes-oxfordaqa', '3.1.1', [

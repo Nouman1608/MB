@@ -44,6 +44,7 @@ export const DECK_CAMBRIDGE_IGCSE_ACCOUNTING: FlashcardDeck = {
   syllabusSeries: '2027-2029',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'javaid-iqbal-sabri', reviewedOn: '2026-11-05' },
   cards: [
     // 1 The fundamentals of accounting
     ...sub(T1, 'the-purpose-of-accounting', '1.1', [

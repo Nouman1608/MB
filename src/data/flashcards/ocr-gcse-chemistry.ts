@@ -53,6 +53,7 @@ export const DECK_OCR_GCSE_CHEMISTRY: FlashcardDeck = {
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
   cards: [
     // C1 Particles
     ...sub(C1, 'c1-1-particle-model-j248', 'C1.1', [

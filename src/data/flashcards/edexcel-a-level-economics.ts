@@ -44,6 +44,7 @@ export const DECK_EDEXCEL_A_LEVEL_ECONOMICS: FlashcardDeck = {
   syllabusSeries: 'Issue 2, June 2018',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Markets in action
     ...sub(T1, 'introductory-concepts-edexcel-alevel-economics', '1.3.1', [

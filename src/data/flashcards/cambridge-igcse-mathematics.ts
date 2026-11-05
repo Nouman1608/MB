@@ -56,6 +56,7 @@ export const DECK_CAMBRIDGE_IGCSE_MATHEMATICS: FlashcardDeck = {
   tierScheme: 'core-extended',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Number
     ...sub(NUMBER, m('types-of-number'), '1.1', [

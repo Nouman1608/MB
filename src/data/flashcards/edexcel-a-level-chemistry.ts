@@ -67,6 +67,7 @@ export const DECK_EDEXCEL_A_LEVEL_CHEMISTRY: FlashcardDeck = {
   syllabusSeries: 'Issue 1, September 2017',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
   cards: [
     // Unit 1 Structure, Bonding and Introduction to Organic Chemistry
     ...sub(U1, 'formulae-equations-and-amount-of-substance-ych11', '1.1', [

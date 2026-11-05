@@ -71,6 +71,7 @@ export const DECK_OXFORDAQA_A_LEVEL_BUSINESS: FlashcardDeck = {
   syllabusSeries: '9725 Version 1.1 (first teaching September 2026; first AS exams May/June 2027, first A-level exams May/June 2028)',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 What is business? (International AS, Unit 1)
     ...sub(T1, 'the-nature-and-purpose-of-business-9725', '3.1.1.1', [

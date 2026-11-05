@@ -55,6 +55,7 @@ export const DECK_AQA_A_LEVEL_BUSINESS: FlashcardDeck = {
   syllabusSeries: 'For first teaching from September 2023',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 3.1 What is business?
     ...sub(T1, 'nature-and-purpose-of-business-aqa-alevel-business', '3.1.1', [

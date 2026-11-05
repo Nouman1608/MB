@@ -63,6 +63,7 @@ export const DECK_OXFORDAQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
   syllabusSeries: 'For teaching from September 2019 (exams from May/June 2020) onwards',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Atomic structure (3.1.1)
     ...sub(`${P}atomic-structure`, `${P}3-1-1-1`, '3.1.1.1', [

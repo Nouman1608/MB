@@ -60,6 +60,7 @@ export const DECK_OCR_A_LEVEL_ECONOMICS: FlashcardDeck = {
   syllabusSeries: 'Version 3.0 (June 2026), for first assessment in 2021',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Microeconomics (n from 1)
     ...sub(MICRO, 'introduction-to-microeconomics-ocr-alevel-economics', '1', [

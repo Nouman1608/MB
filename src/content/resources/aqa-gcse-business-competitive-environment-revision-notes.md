@@ -16,7 +16,9 @@ syllabusTopics:
     subtopic: "competitive-environment-aqa-gcse-business"
 description: "Condensed revision notes on markets and competition, situations with little or no competition, uncertainty and risk, why entrepreneurs start businesses and how firms reduce risk, for AQA GCSE Business 8132, 3.2.6."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

@@ -44,6 +44,7 @@ export const DECK_IB_IB_DP_PHYSICS: FlashcardDeck = {
   syllabusSeries: 'First assessment 2025',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'iftikhar-azeemi', reviewedOn: '2026-11-05' },
   cards: [
     // A. Space, time and motion
     ...sub('ib-dp-physics-topic-a', 'ib-dp-physics-a-1', 'A.1', [

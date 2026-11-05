@@ -58,6 +58,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_ACCOUNTING: FlashcardDeck = {
   syllabusSeries: '2026-2028',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'javaid-iqbal-sabri', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Financial accounting (AS Level)
     ...sub(FA, 'types-of-business-entity', '1.1', [

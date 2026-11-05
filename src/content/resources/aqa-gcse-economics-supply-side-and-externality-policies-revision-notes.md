@@ -19,7 +19,9 @@ syllabusTopics:
     subtopic: "policies-to-correct-positive-and-negative-externalities-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes for 3.2.3.3 and 3.2.3.4: supply-side policies, their pros and cons, and policies to correct externalities."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

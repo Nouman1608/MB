@@ -59,6 +59,7 @@ export const DECK_AQA_A_LEVEL_MATHEMATICS: FlashcardDeck = {
   syllabusSeries: 'For first teaching 2017',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Overarching themes
     ...sub(OT, 'ot1-mathematical-argument-language-and-proof-aqa-alevel-maths', 'OT1', [

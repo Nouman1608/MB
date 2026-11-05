@@ -57,6 +57,7 @@ export const DECK_IB_IB_DP_MATHEMATICS_APPLICATIONS_AND_INTERPRETATION: Flashcar
   tierScheme: 'sl-hl',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'muhammad-ghazali-siddiqui', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Number and algebra
     ...sub(NUM, `${P}1-1`, '1.1', [

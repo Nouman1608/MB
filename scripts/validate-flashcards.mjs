@@ -18,6 +18,7 @@ import { resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { SYLLABUS_VERSIONS } from '../src/data/academic/syllabus-topics.ts';
 import { render as renderIndex } from './generate-flashcard-index.mjs';
+import { subjectCovered } from '../src/utils/content/subject-match.mjs';
 
 /**
  * `--file <deck.ts>` validates just that deck file (it need not be registered
@@ -82,6 +83,16 @@ for (const deck of FLASHCARD_DECKS) {
     const fm = frontmatter(`src/content/authors/${deck.deckReview.reviewerSlug}.md`);
     if (fm === null) problems.push(`${at}: deckReview names '${deck.deckReview.reviewerSlug}', who has no author profile`);
     else if (!/^isReviewer:\s*true\s*$/m.test(fm)) problems.push(`${at}: deckReview names '${deck.deckReview.reviewerSlug}', who is not marked isReviewer: true`);
+    else {
+      // Same accountability rule as resource pages (validate-review-integrity [9], [10]):
+      // the named teacher's profile must cover the deck's board and subject.
+      const list = (k) => JSON.parse(fm.match(new RegExp(`^${k}:\\s*(\\[.*\\])`, 'm'))?.[1] ?? '[]');
+      const boards = list('boardsTaught');
+      const subjects = [...list('subjectsTaught'), ...list('subjectsReviewed')];
+      if (!boards.includes(deck.boardSlug)) problems.push(`${at}: deckReview names '${deck.deckReview.reviewerSlug}', whose profile does not list the board '${deck.boardSlug}'`);
+      const subj = deck.subjectSlug.startsWith('mathematics') ? 'mathematics' : deck.subjectSlug;
+      if (!subjectCovered(subjects, subj)) problems.push(`${at}: deckReview names '${deck.deckReview.reviewerSlug}', whose profile subjects (${subjects.join('; ')}) do not cover '${deck.subjectSlug}'`);
+    }
     if (!/^\d{4}-\d{2}-\d{2}$/.test(deck.deckReview.reviewedOn) || deck.deckReview.reviewedOn > today) problems.push(`${at}: deckReview.reviewedOn must be a real ISO date that is not in the future`);
   }
 

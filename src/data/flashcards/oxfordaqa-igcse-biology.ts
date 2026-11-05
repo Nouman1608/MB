@@ -68,6 +68,7 @@ export const DECK_OXFORDAQA_IGCSE_BIOLOGY: FlashcardDeck = {
   syllabusSeries: 'Version 5.2, for exams May/June 2018 onwards',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Organisation
     ...topicOnly('organisation-oxfordaqa-igcse-biology', '1', [

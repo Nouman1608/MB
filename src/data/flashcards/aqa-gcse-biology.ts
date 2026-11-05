@@ -79,6 +79,7 @@ export const DECK_AQA_GCSE_BIOLOGY: FlashcardDeck = {
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Cell biology
     ...sub(CB, 'cell-structure-aqa-gcse-biology', '4.1.1', [

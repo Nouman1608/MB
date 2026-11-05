@@ -59,6 +59,7 @@ export const DECK_IB_IB_DP_CHEMISTRY: FlashcardDeck = {
   syllabusSeries: 'First assessment 2025',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
   cards: [
     // Structure 1 Models of the particulate nature of matter
     ...sub(S1, 'ib-dp-chemistry-structure-1-1', '1.1', [

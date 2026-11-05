@@ -49,6 +49,7 @@ export const DECK_CAMBRIDGE_IGCSE_PHYSICS: FlashcardDeck = {
   tierScheme: 'core-extended',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'iftikhar-azeemi', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Motion, forces and energy
     ...sub(T1, 'physical-quantities-and-measurement-techniques-cambridge-igcse-physics', '1.1', [

@@ -65,6 +65,7 @@ export const DECK_EDEXCEL_IGCSE_ECONOMICS: FlashcardDeck = {
   syllabusSeries: 'Issue 3, February 2026',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1.1 The market system
     ...sub(MKT, 'the-economic-problem-edexcel-igcse-economics', '1.1.1', [

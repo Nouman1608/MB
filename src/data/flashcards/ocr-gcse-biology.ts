@@ -91,6 +91,7 @@ export const DECK_OCR_GCSE_BIOLOGY: FlashcardDeck = {
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // B1 Cell level systems
     ...sub(B1, 'cell-structures-ocr-gcse-biology', 'B1.1', [

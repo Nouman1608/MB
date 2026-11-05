@@ -58,6 +58,7 @@ export const DECK_OXFORDAQA_IGCSE_ACCOUNTING: FlashcardDeck = {
   syllabusSeries: '2024-onwards',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'javaid-iqbal-sabri', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Sources and recording of data (no subtopics)
     ...topicOnly(T1, 1, [

@@ -15,7 +15,9 @@ syllabusTopics:
     topic: "membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology"
 description: "Revision notes with a self-test on proteins, enzymes, DNA replication, protein synthesis, mutation, inheritance, cystic fibrosis and genetic screening for Edexcel International A Level Biology, statements 2.6 to 2.18."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

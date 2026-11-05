@@ -19,7 +19,9 @@ syllabusTopics:
     subtopic: "cell-recognition-and-the-immune-system-aqa-alevel-biology"
 description: "Condensed AQA A-level Biology 7402 notes on section 3.2.4: antigens, phagocytosis, T and B cells, antibodies, vaccines, HIV, monoclonal antibodies and the ELISA test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 ---

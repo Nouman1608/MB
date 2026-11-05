@@ -57,6 +57,7 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Atomic structure and the periodic table
     ...sub(T1, 'atomic-structure-8462', '4.1.1', [

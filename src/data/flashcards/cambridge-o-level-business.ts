@@ -39,6 +39,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_BUSINESS: FlashcardDeck = {
   syllabusSeries: '2026',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Understanding business activity
     ...sub('understanding-business-activity', 'business-activity', '1.1', [

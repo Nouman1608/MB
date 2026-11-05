@@ -45,6 +45,7 @@ export const DECK_IB_IB_DP_ECONOMICS: FlashcardDeck = {
   syllabusSeries: 'First assessment 2022',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // Unit 1 Introduction to economics
     ...sub(U1, 'ib-dp-economics-1-1', '1.1', [

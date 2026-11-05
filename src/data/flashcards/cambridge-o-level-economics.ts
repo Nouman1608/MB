@@ -75,6 +75,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_ECONOMICS: FlashcardDeck = {
   syllabusSeries: '2026',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   cards: [
     // 1 The basic economic problem
     ...sub(T1, 'the-nature-of-the-economic-problem', '1.1', [

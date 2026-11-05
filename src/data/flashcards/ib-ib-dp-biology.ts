@@ -86,6 +86,7 @@ export const DECK_IB_IB_DP_BIOLOGY: FlashcardDeck = {
   syllabusSeries: 'First assessment 2025',
   author: 'marlbridge-academic-team',
   updated: '2026-11-05',
+  deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // Theme A: Unity and diversity
     ...sub(TA, 'ib-dp-biology-1-a1-1', 'A1.1', [
