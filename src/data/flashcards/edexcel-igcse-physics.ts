@@ -202,7 +202,7 @@ export const DECK_EDEXCEL_IGCSE_PHYSICS: FlashcardDeck = {
       { n: 3, f: 'Why does the temperature stay constant during a change of state?', b: 'The energy supplied breaks the forces between particles instead of increasing their kinetic energy. On a temperature–time graph this is a flat section. (Paper 2 only)' },
       { n: 4, f: 'Specific heat capacity', b: 'The energy needed to raise the temperature of 1 kg of a substance by 1 °C. ΔQ = m × c × ΔT. (Paper 2 only)' },
       { n: 5, f: 'Energy to heat 2.0 kg of water (c = 4200 J/kg °C) from 20 °C to 100 °C?', b: 'ΔQ = mcΔT = 2.0 × 4200 × 80 = 672 000 J. (Paper 2 only)' },
-      { n: 6, f: 'Do particles expand when a solid is heated?', b: 'No. They vibrate more vigorously and take up more space; the particles themselves do not expand.' },
+      { n: 6, f: 'Do particles expand when a solid is heated?', b: 'No. They vibrate more vigorously and take up more space; the particles themselves do not expand. (Paper 2 only)' },
     ]),
     ...sub(T5, 'ideal-gas-molecules', '5d', [
       { n: 1, f: 'What causes gas pressure?', b: 'Molecules in random motion collide with the container walls and exert a force on them.' },
