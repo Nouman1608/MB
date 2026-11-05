@@ -108,14 +108,16 @@ export const DECK_AQA_GCSE_MATHEMATICS: FlashcardDeck = {
     ...sub('algebra-aqa-gcse-maths', 'graphs-aqa-gcse-maths', '3.2.2', [
       { n: 1, f: 'Gradient of the line through (x₁, y₁) and (x₂, y₂)', b: 'm = (y₂ − y₁) ÷ (x₂ − x₁), subtracting in the same order top and bottom.\nExample: (2, 5) and (6, 17): 12 ÷ 4 = 3.' },
       { n: 2, f: 'In y = mx + c, what are m and c?', b: 'm is the gradient; c is the y-intercept. Rearrange to y = … first: 3x + 2y = 12 → y = −1.5x + 6, gradient −3/2, intercept 6.' },
-      { n: 3, f: 'Gradients of parallel and perpendicular lines', b: 'Parallel lines have the same gradient.\nPerpendicular: m₁ × m₂ = −1, so m₂ = −1/m₁. A line perpendicular to y = 4x − 7 has gradient −1/4.', u: true },
+      { n: 3, f: 'Gradients of perpendicular lines', b: 'm₁ × m₂ = −1, so m₂ = −1/m₁. A line perpendicular to y = 4x − 7 has gradient −1/4.', u: true },
       { n: 4, f: 'Turning point of y = (x + p)² + q', b: '(−p, q). Example: x² + 10x + 18 = (x + 5)² − 7, turning point (−5, −7).', u: true },
       { n: 5, f: 'Shapes of y = x³ and y = 1/x', b: 'y = x³: an S-shape through the origin, flat at (0, 0).\ny = 1/x: two branches in the first and third quadrants that never touch the axes.' },
       { n: 6, f: 'Equation of a circle centre the origin, and its tangent', b: 'x² + y² = r² has centre (0, 0) and radius r. A tangent is perpendicular to the radius at that point, so its gradient is the negative reciprocal of the radius gradient.', u: true },
       { n: 7, f: 'Effect on the point (a, b): y = f(x) + k and y = f(x + k)', b: 'y = f(x) + k: (a, b + k), a move up by k.\ny = f(x + k): (a − k, b), a move left by k (opposite to the sign).', u: true },
       { n: 8, f: 'Effect on the point (a, b): y = −f(x) and y = f(−x)', b: 'y = −f(x): (a, −b), a reflection in the x-axis.\ny = f(−x): (−a, b), a reflection in the y-axis.', u: true },
-      { n: 9, f: 'Distance-time and velocity-time graphs: what do gradient and area give?', b: 'Distance-time: gradient = speed; a horizontal section means stationary.\nVelocity-time (Higher): gradient = acceleration; area under the graph = distance travelled.' },
+      { n: 9, f: 'Distance-time and velocity-time graphs: what does the gradient of a straight section give?', b: 'Distance-time: gradient = speed; a horizontal section means stationary.\nVelocity-time: gradient = acceleration; a horizontal section means constant velocity.' },
       { n: 10, f: 'How do you estimate the area under a curve?', b: 'Split it into equal-width trapezia: area ≈ (h/2) × [first + 2(middle values) + last]. Say whether it is an over- or underestimate: if the curve bends down, the trapezia sit below it (underestimate).', u: true },
+      { n: 11, f: 'What does the area under a velocity-time graph give?', b: 'The distance travelled. Split the area into triangles, rectangles and trapezia; for a curve, estimate it with trapezia.', u: true },
+      { n: 12, f: 'Gradients of parallel lines', b: 'Parallel lines have the same gradient. y = 3x + 1 and y = 3x − 4 are parallel (both have gradient 3).' },
     ]),
     ...sub('algebra-aqa-gcse-maths', 'solving-equations-and-inequalities-aqa-gcse-maths', '3.2.3', [
       { n: 1, f: 'How do you solve a quadratic equation by factorising?', b: '1. Rearrange to … = 0.\n2. Factorise.\n3. Set each bracket equal to 0.\nExample: x² − 7x + 12 = 0 → (x − 3)(x − 4) = 0 → x = 3 or x = 4.' },
@@ -195,7 +197,8 @@ export const DECK_AQA_GCSE_MATHEMATICS: FlashcardDeck = {
       { n: 7, f: 'Cumulative frequency graph: where are the points plotted, and how do you read the median?', b: 'Plot each running total at the upper class boundary. Read the median across from n/2, the lower quartile from n/4 and the upper quartile from 3n/4.', u: true },
       { n: 8, f: 'Box plot and interquartile range', b: 'A box plot shows minimum, LQ, median, UQ and maximum. IQR = UQ − LQ. The IQR is not affected by extreme values, so it is a better measure of spread than the range when there are outliers.', u: true },
       { n: 9, f: 'Scatter graphs: correlation, causation and extrapolation', b: 'Correlation does not mean one variable causes the other. Interpolation (inside the data) is fairly reliable; extrapolation (outside the data) may not be.' },
-      { n: 10, f: 'How do you compare two distributions?', b: 'Compare an average (such as the median or mean) and a measure of spread (such as the range or IQR), each in a sentence about the context.' },
+      { n: 10, f: 'How do you compare two distributions?', b: 'Compare an average (such as the median or mean) and a measure of spread (the range), each in a sentence about the context.' },
+      { n: 11, f: 'Comparing two distributions with box plots', b: 'Compare the medians (average) and the interquartile ranges (spread), each in a sentence about the context. A smaller IQR means the middle half of the data is more consistent.', u: true },
     ]),
   ],
 };

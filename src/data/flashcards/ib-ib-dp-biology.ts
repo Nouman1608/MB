@@ -238,6 +238,10 @@ export const DECK_IB_IB_DP_BIOLOGY: FlashcardDeck = {
       { n: 3, f: "Holozoic and saprotrophic nutrition", b: "Holozoic (all animals): ingest food, digest it internally, absorb and assimilate.\nSaprotrophic (some fungi and bacteria): secrete enzymes onto dead matter and absorb the products; decomposers." },
       { n: 4, f: "Mixotrophic nutrition", b: "Both autotrophic and heterotrophic, as in Euglena. Obligate mixotrophs need both modes; facultative mixotrophs can switch between them." },
       { n: 5, f: "Herbivore adaptations and plant defences", b: "Herbivores: chewing mouthparts, piercing mouthparts (stylet into phloem), detoxifying enzymes.\nPlants: physical defences (thorns, spines, tough or hairy leaves) and chemical defences (toxic secondary compounds in leaves and seeds)." },
+      { n: 6, f: "Fundamental niche", b: "The potential niche set by a species' adaptations and tolerance limits, with no competitor.", src: NICHE },
+      { n: 7, f: "Realized niche", b: "The niche actually occupied when competing species are present. It is usually smaller than the fundamental niche and never larger.", src: NICHE },
+      { n: 8, f: "Competitive exclusion: the two possible outcomes when two species compete for the same limiting resource", b: "Two species cannot occupy exactly the same niche in the same place. Either one species is eliminated from the area, or both survive but each is restricted to part of its fundamental niche." },
+      { n: 9, f: "A species tolerates 10 to 34 °C alone, but with a competitor it is found only at 16 to 28 °C. Realized niche as a percentage of the fundamental niche?", b: "Fundamental width 34 − 10 = 24 °C; realized width 28 − 16 = 12 °C.\n12 ÷ 24 × 100 = 50%." },
     ]),
 
     // Theme C: Interaction and interdependence

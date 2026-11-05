@@ -456,7 +456,7 @@ export const DECK_CAMBRIDGE_IGCSE_MATHEMATICS: FlashcardDeck = {
       { n: 2, f: 'A semicircle of diameter 6 cm is cut from a 10 cm × 6 cm rectangle. Find the remaining area.', b: '60 − ½ × π × 3² = 60 − 14.14 = 45.9 cm² (3 s.f.)' },
       { n: 3, f: 'Area of a semicircle of radius r', b: '½πr². Use the radius, not the diameter.' },
       { n: 4, f: 'Perimeter of a compound shape', b: 'Add only the lengths round the outside. Leave out any edges where two parts join.' },
-      { n: 5, f: 'Volume and curved surface area of a hemisphere', b: 'Volume = ½ × (4/3)πr³ = (2/3)πr³\nCurved surface area = ½ × 4πr² = 2πr² (add πr² for the flat face).', u: true },
+      { n: 5, f: 'Volume and curved surface area of a hemisphere (half a sphere)', b: 'Volume = ½ × (4/3)πr³ = (2/3)πr³\nCurved surface area = ½ × 4πr² = 2πr² (add πr² for the flat face).' },
       { n: 6, f: 'How do you find the volume of a frustum of a cone?', b: 'Volume of the whole cone minus the volume of the small cone cut off the top.', u: true },
     ]),
 
