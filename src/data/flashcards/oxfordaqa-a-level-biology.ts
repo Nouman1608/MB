@@ -44,6 +44,7 @@ const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
 
 const P = 'oxfordaqa-a-level-biology-';
 const DIV = `${P}diversity-revision-notes`;
+const BMOL = `${P}biological-molecules-enzymes-membranes-and-nucleic-acids-revision-notes`;
 const CAUSE = `${P}causes-of-disease-revision-notes`;
 const DAC = `${P}digestion-absorption-and-cholera-revision-notes`;
 const HIVA = `${P}hiv-and-plant-virus-transmission-by-aphids-revision-notes`;
@@ -87,10 +88,16 @@ export const DECK_OXFORDAQA_A_LEVEL_BIOLOGY: FlashcardDeck = {
       { n: 6, f: "A community has 3 species with 10, 4 and 1 individuals. Calculate the index of diversity, d = N(N − 1) ÷ Σn(n − 1).", b: "N = 15, so N(N − 1) = 210. Σn(n − 1) = 90 + 12 + 0 = 102. d = 210 ÷ 102 = 2.06" },
       { n: 7, f: "How can genetic diversity be measured (3.1.11.1)?", b: "By comparing the base sequence of DNA or of mRNA, the frequency of specific base sequences or alleles in populations, or the amino acid sequence of the proteins they code for.", src: DIV },
       { n: 8, f: "Three causes of genetic diversity", b: "Mutation; meiosis (crossing over and independent assortment); and random fertilisation.", src: DIV },
-      { n: 9, f: "Why are quadrats placed at random coordinates, and why does sample size matter?", b: "Random coordinates remove bias from the person sampling, so the sample represents the area. The sample must be large enough for a reliable mean; a small one may miss species by chance." },
-      { n: 10, f: "Condensation and hydrolysis", b: "Condensation joins two molecules by a chemical bond, releasing a water molecule.\nHydrolysis breaks the bond using a water molecule." },
-      { n: 11, f: "Facilitated diffusion compared with active transport", b: "Facilitated diffusion: passive movement down a concentration gradient through channel or carrier proteins; no ATP.\nActive transport: movement against a concentration gradient by carrier proteins, using ATP." },
-      { n: 12, f: "Properties of the genetic code", b: "A triplet of bases codes for each amino acid. It is universal (same in all organisms), non-overlapping and degenerate (most amino acids have more than one triplet)." },
+      { n: 9, f: "Why are quadrats placed at random coordinates, and why does sample size matter?", b: "Random coordinates remove bias from the person sampling, so the sample represents the area. The sample must be large enough for a reliable mean; a small one may miss species by chance.", src: DIV },
+      { n: 10, f: "Condensation and hydrolysis", b: "Condensation joins two molecules by a chemical bond, releasing a water molecule.\nHydrolysis breaks the bond using a water molecule.", src: BMOL },
+      { n: 11, f: "Facilitated diffusion compared with active transport", b: "Facilitated diffusion: passive movement down a concentration gradient through channel or carrier proteins; no ATP.\nActive transport: movement against a concentration gradient by carrier proteins, using ATP.", src: BMOL },
+      { n: 12, f: "Properties of the genetic code", b: "A triplet of bases codes for each amino acid. It is universal (same in all organisms), non-overlapping and degenerate (most amino acids have more than one triplet).", src: BMOL },
+      { n: 13, f: "Starch compared with cellulose", b: "Starch: α-glucose; amylose (unbranched, coiled) and amylopectin (branched); insoluble, compact energy store in plants.\nCellulose: β-glucose; straight, unbranched chains joined by hydrogen bonds into microfibrils, giving the cell wall high tensile strength.", src: BMOL },
+      { n: 14, f: "Test for a non-reducing sugar", b: "After a negative Benedict's test, boil a fresh sample with dilute hydrochloric acid, neutralise with sodium hydrogencarbonate, then heat with Benedict's reagent. A coloured precipitate shows a non-reducing sugar (the acid hydrolysed it).", src: BMOL },
+      { n: 15, f: "Triglyceride compared with phospholipid", b: "Triglyceride: one glycerol and three fatty acids joined by ester bonds in condensation reactions.\nPhospholipid: one fatty acid is replaced by a phosphate-containing group, giving a hydrophilic head and hydrophobic tails.", src: BMOL },
+      { n: 16, f: "Competitive compared with non-competitive inhibitors", b: "Competitive: similar shape to the substrate, binds the active site; its effect is reduced by adding more substrate.\nNon-competitive: binds away from the active site and changes its shape; adding more substrate does not overcome it.", src: BMOL },
+      { n: 17, f: "Transcription in prokaryotes compared with eukaryotes", b: "In both, RNA polymerase joins mRNA nucleotides. In prokaryotes transcription produces mRNA directly. In eukaryotes it produces pre-mRNA, which is spliced (introns removed) to form mRNA.", src: BMOL },
+      { n: 18, f: "Nuclear DNA of a eukaryote compared with DNA of a prokaryote", b: "Eukaryotic nucleus: long, linear, associated with proteins such as histones that package it into chromosomes.\nProkaryotes (and mitochondria and chloroplasts): shorter, circular, not associated with proteins.", src: BMOL },
     ]),
 
     // 2 Biological systems and disease

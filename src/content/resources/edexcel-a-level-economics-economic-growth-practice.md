@@ -6,7 +6,7 @@ level: ["a-levels"]
 topic: "Macroeconomic performance and policy"
 boards: ["edexcel"]
 qualifications: ["a-level"]
-syllabusCodes: ["WEC12/01"]
+syllabusCodes: ["YEC11"]
 syllabusSeries: "Issue 2, June 2018"
 order: 1
 stage: "AS"
@@ -20,6 +20,7 @@ reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
+updatedDate: 2026-11-05
 featured: false
 ---
 

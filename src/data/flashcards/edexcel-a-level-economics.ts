@@ -33,6 +33,8 @@ const T3 = 'business-behaviour-edexcel-alevel-economics';
 const T4 = 'developments-in-the-global-economy-edexcel-alevel-economics';
 
 const RC = 'edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand-revision-notes';
+const GROW = 'edexcel-a-level-economics-economic-growth-revision-notes';
+const INFU = 'edexcel-ial-economics-inflation-employment-and-unemployment-revision-notes';
 
 export const DECK_EDEXCEL_A_LEVEL_ECONOMICS: FlashcardDeck = {
   boardSlug: 'edexcel',
@@ -100,14 +102,18 @@ export const DECK_EDEXCEL_A_LEVEL_ECONOMICS: FlashcardDeck = {
 
     // 2 Macroeconomic performance and policy
     ...sub(T2, 'measures-of-economic-performance-edexcel-alevel-economics', '2.3.1', [
-      { n: 1, f: 'GDP vs GNI', b: 'GDP: the value of goods and services produced within a country\'s borders.\nGNI: income earned by a country\'s residents and businesses wherever it was earned. Profit sent abroad by foreign-owned firms reduces GNI, not GDP.' },
-      { n: 2, f: 'Real vs nominal, and why use per capita and PPP figures?', b: 'Real figures are adjusted to remove inflation; nominal are not.\nPer capita divides by population to compare countries of different size.\nPPP adjusts for differences in the cost of living.' },
-      { n: 3, f: 'Recession (Edexcel definition)', b: 'Two consecutive quarters of negative economic growth (falling real GDP). One negative quarter is not a recession.' },
-      { n: 4, f: 'Country A: real GDP $2 trillion, population 200 million. Country B: $500 billion, 20 million. Which has the higher real GDP per capita?', b: 'A: $10,000 per head. B: $25,000 per head. B is higher, although A\'s total GDP is four times larger.' },
-      { n: 5, f: 'Limits of GDP as a measure of living standards', b: 'It ignores income distribution, non-market activity (unpaid work), environmental costs and subjective wellbeing. Beyond a certain income, extra income is less strongly linked to reported happiness.' },
-      { n: 6, f: 'How is inflation measured, and the inflation rate from an index?', b: 'By the consumer prices index (CPI): a weighted basket of goods and services bought by households.\nInflation rate = (new index − old index) ÷ old index × 100. CPI 131.0 to 134.9 is a 3.0% rise.' },
-      { n: 7, f: 'The unemployment rate, and two ways unemployment is measured', b: 'Unemployed ÷ labour force × 100 (labour force = employed + unemployed).\nThe ILO (Labour Force Survey) measure counts those without work, available and seeking it. The claimant count counts those claiming unemployment-related benefits.' },
-      { n: 8, f: 'Demand-pull vs cost-push inflation', b: 'Demand-pull: aggregate demand grows faster than the economy\'s capacity to supply.\nCost-push: rising costs (wages, raw materials, import prices) shift short-run aggregate supply left.' },
+      { n: 1, f: 'GDP vs GNI', b: 'GDP: the value of goods and services produced within a country\'s borders.\nGNI: income earned by a country\'s residents and businesses wherever it was earned. Profit sent abroad by foreign-owned firms reduces GNI, not GDP.', src: GROW },
+      { n: 2, f: 'Real vs nominal, and why use per capita and PPP figures?', b: 'Real figures are adjusted to remove inflation; nominal are not.\nPer capita divides by population to compare countries of different size.\nPPP adjusts for differences in the cost of living.', src: GROW },
+      { n: 3, f: 'Recession (Edexcel definition)', b: 'Two consecutive quarters of negative economic growth (falling real GDP). One negative quarter is not a recession.', src: GROW },
+      { n: 4, f: 'Country A: real GDP $2 trillion, population 200 million. Country B: $500 billion, 20 million. Which has the higher real GDP per capita?', b: 'A: $10,000 per head. B: $25,000 per head. B is higher, although A\'s total GDP is four times larger.', src: GROW },
+      { n: 5, f: 'Limits of GDP as a measure of living standards', b: 'It ignores income distribution, non-market activity (unpaid work), environmental costs and subjective wellbeing. Beyond a certain income, extra income is less strongly linked to reported happiness.', src: GROW },
+      { n: 6, f: 'How is inflation measured, and the inflation rate from an index?', b: 'By the consumer prices index (CPI): a weighted basket of goods and services bought by households.\nInflation rate = (new index − old index) ÷ old index × 100. CPI 131.0 to 134.9 is a 3.0% rise.', src: INFU },
+      { n: 7, f: 'The unemployment rate, and two ways unemployment is measured', b: 'Unemployed ÷ labour force × 100 (labour force = employed + unemployed).\nThe ILO (Labour Force Survey) measure counts those without work, available and seeking it. The claimant count counts those claiming unemployment-related benefits.', src: INFU },
+      { n: 8, f: 'Demand-pull vs cost-push inflation', b: 'Demand-pull: aggregate demand grows faster than the economy\'s capacity to supply.\nCost-push: rising costs (wages, raw materials, import prices) shift short-run aggregate supply left.', src: INFU },
+      { n: 9, f: 'Inflation vs disinflation vs deflation', b: 'Inflation: a sustained rise in the general price level.\nDisinflation: a fall in the rate of inflation; prices are still rising, more slowly (6% to 3%).\nDeflation: a sustained fall in the general price level.', src: INFU },
+      { n: 10, f: 'Why is the producer price index watched alongside the CPI?', b: 'It measures the prices firms pay for inputs and charge for output. Rises in producer prices are usually passed on to consumers later, so it is an early indicator of future CPI inflation.', src: INFU },
+      { n: 11, f: 'The five causes of unemployment in the specification', b: 'Frictional: between jobs. Seasonal: demand varies with the seasons. Structural: decline of an industry; skills or location mismatch. Demand deficiency: too little aggregate demand. Real wage inflexibility: the real wage held above the market-clearing level, so labour supply exceeds demand.', src: INFU },
+      { n: 12, f: 'Unemployment vs underemployment vs economic inactivity', b: 'Unemployed (ILO): no job, looking and available for work.\nUnderemployed: in work but wanting more hours, or in a job below their skills.\nEconomically inactive: working age but neither employed nor unemployed, for example students, carers or the long-term sick.', src: INFU },
     ]),
     ...sub(T2, 'aggregate-demand-edexcel-alevel-economics', '2.3.2', [
       { n: 1, f: 'Aggregate demand: definition and components', b: 'Total planned spending on a country\'s output at a given price level in a given period.\nAD = C + I + G + (X − M).' },

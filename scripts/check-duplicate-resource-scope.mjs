@@ -2774,6 +2774,18 @@ const REVIEWED_LEGITIMATE = [
     evidence:
       "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
   },
+  {
+    files: ["edexcel-a-level-biology-membranes-gas-exchange-revision-notes.md", "edexcel-ial-biology-proteins-enzymes-dna-protein-synthesis-and-inheritance-revision-notes.md"],
+    evidence: "Flashcard review fixes (D-438, 5 Nov 2026). New revision notes written to cover content the existing page did not; the two pages share one tag only because the syllabus map does not split the topic finer. YBI11 Topic 2: the first page covers specification statements 2.1–2.5 (membranes, gas exchange), the second 2.6–2.18 (proteins, enzymes, DNA, protein synthesis, inheritance); no overlap.",
+  },
+  {
+    files: ["oxfordaqa-a-level-biology-diversity-revision-notes.md", "oxfordaqa-a-level-biology-biological-molecules-enzymes-membranes-and-nucleic-acids-revision-notes.md"],
+    evidence: "Flashcard review fixes (D-438, 5 Nov 2026). New revision notes written to cover content the existing page did not; the two pages share one tag only because the syllabus map does not split the topic finer. 9610 Unit 1: the first page covers 3.1.10–3.1.11 (diversity, classification), the second 3.1.1, 3.1.3, 3.1.4, 3.1.7, 3.1.8 (molecules, enzymes, membranes, nucleic acids); no overlap.",
+  },
+  {
+    files: ["edexcel-a-level-economics-economic-growth-revision-notes.md", "edexcel-ial-economics-inflation-employment-and-unemployment-revision-notes.md"],
+    evidence: "Flashcard review fixes (D-438, 5 Nov 2026). New revision notes written to cover content the existing page did not; the two pages share one tag only because the syllabus map does not split the topic finer. YEC11 2.3.1: the first page covers item 1 (economic growth), the second items 2–3 (inflation, employment and unemployment); no overlap.",
+  },
 ];
 const legitimateKeyOf = (fs) => [...fs].sort().join('|');
 const REVIEWED_KEYS = new Map(

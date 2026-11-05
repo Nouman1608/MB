@@ -171,6 +171,7 @@ export const DECK_IB_IB_DP_ECONOMICS: FlashcardDeck = {
       { n: 4, f: 'Nominal versus real GDP, and the GDP deflator', b: 'Nominal GDP is valued at current prices; real GDP removes the effect of price changes.\nReal GDP = nominal GDP ÷ price deflator × 100. Nominal GDP 1,200 with a deflator of 120 gives real GDP 1,000 in base-year prices.' },
       { n: 5, f: 'Why use real GDP per capita at PPP to compare living standards between countries?', b: 'Per capita divides by population, so countries of different size can be compared. PPP converts at a rate that makes the same basket cost the same in each country, so it reflects what incomes can actually buy.' },
       { n: 6, f: 'Limitations of GDP as a measure of well-being', b: 'It is an average that hides distribution; it misses unpaid and informal work; it ignores leisure, the quality of goods, and environmental damage and resource depletion. Composite measures such as the HDI try to capture more.' },
+      { n: 7, f: 'Nominal GDP by the expenditure method: C 620, I 180, G 240, X 210, M 250', b: 'GDP = C + I + G + (X − M) = 620 + 180 + 240 + (210 − 250) = 1,000. The output, income and expenditure methods measure the same flow, so in principle they give the same total.' },
     ]),
     ...sub(U3, 'ib-dp-economics-3-2', '3.2', [
       { n: 1, f: 'Aggregate demand and its components', b: 'Total planned spending on a country\'s output at each price level.\nAD = C + I + G + (X − M): consumption, investment, government spending, net exports. A change in any component shifts AD.' },
@@ -188,6 +189,8 @@ export const DECK_IB_IB_DP_ECONOMICS: FlashcardDeck = {
       { n: 5, f: 'Inflation, disinflation and deflation', b: 'Inflation: a sustained rise in the general price level.\nDisinflation: the inflation rate falls but prices still rise. Steady 2% inflation still means a rising price level.\nDeflation: a sustained fall in the general price level.' },
       { n: 6, f: 'Inflation from a price index that rises from 125.0 to 128.5', b: 'Inflation rate = (new index − old index) ÷ old index × 100 = 3.5 ÷ 125.0 × 100 = 2.8%.' },
       { n: 7, f: 'Weighted price index: weights 60 and 40 with category indices 110 and 95', b: 'Multiply each index by its weight, add, and divide by the total weight: (60 × 110 + 40 × 95) ÷ 100 = 104.0. Categories with a bigger share of spending move the index more. (HL only)' },
+      { n: 8, f: 'Why might the official unemployment rate understate unemployment?', b: 'Hidden unemployment: discouraged workers who have stopped looking are not counted. Underemployment: part-time workers who want full-time work count as employed. The national average also hides differences by region, age, gender and education.' },
+      { n: 9, f: 'Deflation from falling AD versus deflation from rising AS', b: 'Falling AD: the price level and real GDP both fall, unemployment rises, and consumers may delay spending, so it is harmful.\nRising AS (for example new technology): prices fall while real GDP rises, so it is far less harmful.' },
     ]),
     ...sub(U3, 'ib-dp-economics-3-4', '3.4', [
       { n: 1, f: 'Equality versus equity in the distribution of income', b: 'Equality: similar economic outcomes for different people or groups.\nEquity: fairness, a normative idea, so views differ.' },
