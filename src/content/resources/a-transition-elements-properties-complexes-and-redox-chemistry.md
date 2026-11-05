@@ -23,7 +23,7 @@ reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
-updatedDate: 2026-08-17
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -183,7 +183,7 @@ standard examples:
   reflects Cl⁻'s larger size, which can't fit six around the same copper
   ion.
 - **[Co(H₂O)₆]²⁺** (pink, octahedral) + excess NH₃(aq) → **[Co(NH₃)₆]²⁺**
-  (straw/yellow-brown, octahedral).
+  (pale yellow-brown (straw), octahedral; darkens in air).
 - **[Co(H₂O)₆]²⁺** (pink) + excess concentrated HCl → **[CoCl₄]²⁻** (blue,
   tetrahedral).
 

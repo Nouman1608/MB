@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Condensed revision notes on the current account of the balance of payments for Pearson Edexcel International GCSE Economics, with a short self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -27,7 +28,7 @@ These notes condense statement 2.1.1 d) of the Pearson Edexcel International GCS
 | Term | Definition |
 |---|---|
 | Balance of payments | A record of all money flowing into and out of a country in a period |
-| Current account | The part of the balance of payments recording trade in goods and services |
+| Current account | The part of the balance of payments recording trade in goods and services (fuller accounts also record income earned abroad and transfers; the 4EC1 specification lists only goods and services) |
 | Current account surplus | More money coming in than going out on trade in goods and services |
 | Current account deficit | More money going out than coming in on trade in goods and services |
 | Visibles | Traded goods |

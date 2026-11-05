@@ -26,6 +26,7 @@ reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -72,7 +73,7 @@ T / K = theta / C + 273.15
 
 Two fixed points:
 
-- **Absolute zero, 0 K** — the temperature at which substances have **minimum internal (kinetic) energy** — zero, per mean translational KE = (3/2)kT.
+- **Absolute zero, 0 K** — the lowest possible temperature, at which substances have their **minimum internal energy**. The ideal-gas relation mean translational KE = (3/2)kT extrapolates to zero there, but write "minimum", not "zero".
 - **Triple point of water, 273.16 K** — the unique temperature and pressure at which ice, water and water vapour coexist in equilibrium.
 
 The triple point is used rather than the melting point because it occurs at **one unique pressure**, so it is perfectly reproducible; a melting point varies with pressure.
@@ -129,7 +130,7 @@ Fusion refers to melting/freezing; vaporisation refers to boiling/condensing. On
 
 ## Exam traps
 
-- Saying molecules retain some residual motion at absolute zero — per mean translational KE = (3/2)kT, kinetic energy is exactly zero at 0 K.
+- Saying internal energy is "zero" or that molecules "stop moving" at absolute zero. The syllabus answer is that 0 K is the lowest possible temperature, where internal energy is a **minimum**.
 - Converting an interval from °C to K by adding 273.
 - Using °C in pV = nRT.
 - Saying thermal energy flows from higher internal energy to lower.

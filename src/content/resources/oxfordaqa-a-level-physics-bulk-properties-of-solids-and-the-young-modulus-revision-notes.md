@@ -21,6 +21,7 @@ syllabusTopics:
 description: "Condensed revision notes on density, Hooke's law, stress, strain, strain energy and the Young modulus for OxfordAQA International AS and A-level Physics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 These notes condense sections 3.2.9 and 3.2.10 of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. This is shared content for International AS and International A-level. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-physics-bulk-properties-of-solids-and-the-young-modulus/), then test yourself with the [practice set](/resources/oxfordaqa-a-level-physics-bulk-properties-of-solids-and-the-young-modulus-practice/). Course pages: [OxfordAQA A-level Physics hub](/boards/oxfordaqa/a-level/physics/) and the [printable checklist](/checklists/oxfordaqa/a-level/physics/). Not sure where to start? Take a [free diagnostic](/diagnostics/). Related: [mechanics and materials revision notes](/resources/oxfordaqa-a-level-physics-mechanics-materials-revision-notes/).
@@ -30,7 +31,7 @@ Use g = 9.81 N kg⁻¹.
 ## Definitions
 
 - **Density:** mass per unit volume.
-- **Hooke's law:** extension is proportional to the applied force, up to the elastic limit.
+- **Hooke's law:** extension is proportional to the applied force, up to the limit of proportionality.
 - **Elastic limit:** the point beyond which the material does not return to its original length when the force is removed.
 - **Stiffness (spring constant) k:** force per unit extension, in N m⁻¹.
 - **Tensile stress:** the force acting on each unit of cross-sectional area.

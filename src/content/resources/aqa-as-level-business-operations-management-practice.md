@@ -14,9 +14,10 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "managing-people-and-operations-aqa-aslevel-business"
     subtopic: "operations-management-aqa-aslevel-business"
-description: "Original practice questions with worked answers on productivity, capacity, resource mix, quality, inventory and suppliers for AQA AS-Level Business (7137)."
+description: "Original practice questions with worked answers on productivity, capacity, automation, quality, inventory, projects and suppliers for AQA AS-Level Business (7137)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **operations management** for AQA AS-Level Business (7137), listed on this site as 3.2.2 and numbered 3.4.1 to 3.4.5 in the earlier AQA text on file (7131/7132, first teaching 2015), which "the specification" means below; the current 7137 wording has not been checked against these questions. The businesses are invented. Learn the content first from the [study guide](/resources/aqa-as-level-business-operations-management/) or the [revision notes](/resources/aqa-as-level-business-operations-management-revision-notes/). Course pages: the [AQA AS Business hub](/boards/aqa/as-level/business/) and the [printable checklist](/checklists/aqa/as-level/business/). Formulas are the standard forms.
+These questions cover **operations management** for AQA AS-Level Business (7137), section 3.2.2, checked on 5 November 2026 against AQA's 7137/7138 specification, Version 1.1 (November 2025), which "the specification" means below. The businesses are invented. Learn the content first from the [study guide](/resources/aqa-as-level-business-operations-management/) or the [revision notes](/resources/aqa-as-level-business-operations-management-revision-notes/). Course pages: the [AQA AS Business hub](/boards/aqa/as-level/business/) and the [printable checklist](/checklists/aqa/as-level/business/). Formulas are those in the specification's annex.
 
 ## Questions
 
@@ -40,16 +41,18 @@ These questions cover **operations management** for AQA AS-Level Business (7137)
 **(b)** Calculate unit cost. **[2]**
 **(c)** Calculate capacity utilisation. **[2]**
 
-**4.** Upperby Fabrics uses 25 rolls of cloth a day. Lead time is 8 days, the buffer level is 120 rolls and the re-order quantity is 400 rolls. Assume each delivery arrives just as stock reaches the buffer level.
+**4.** Upperby Fabrics had cost of sales of £540,000 last year. Its inventory was £40,000 at the start of the year and £50,000 at the end.
 
-**(a)** Work out the re-order level. **[2]**
-**(b)** Work out the maximum stock held. **[1]**
-**(c)** Explain why the firm holds a buffer level of inventory. **[2]**
-**(d)** Calculate how many days pass between one order being placed and the next. **[2]**
+**(a)** Calculate the inventory turnover. **[2]**
+**(b)** Explain one reason why the firm might choose to hold buffer inventory (just in case) rather than use just in time. **[2]**
+**(c)** Upperby cuts its average inventory to £30,000 with no change in cost of sales. Calculate the new inventory turnover. **[1]**
 
 **5.** Explain **one** benefit and **one** difficulty of Just in Time production for a small caterer. **[4]**
 
-**6.** Explain what is meant by mass customisation and **one** benefit it could give a trainer manufacturer. **[4]**
+**6.** A café refit has four activities. A (strip out, 2 days) starts first. B (new kitchen, 5 days) and C (decorate, 3 days) both follow A. D (final inspection, 1 day) follows both B and C.
+
+**(a)** Identify the critical path and the minimum project time. **[2]**
+**(b)** Calculate the float time for activity C. **[2]**
 
 **7.** Thornhaugh Print completes 25,000 orders a year. Last year 4% had to be reprinted because of errors. Each reprint cost £18 in materials and labour.
 
@@ -72,28 +75,28 @@ These questions cover **operations management** for AQA AS-Level Business (7137)
 
 ## Answers
 
-**1.** Any two of: costs, quality, speed of response and flexibility, dependability, environmental objectives, added value. [1] [1] **[2]**
-*Examiner insight:* The specification groups speed of response with flexibility, so naming either as one objective is safe, but repeating one objective in different words earns the mark once.
+**1.** Any two of: efficiency, quality, volume of goods and services, flexibility, environmental impact. [1] [1] **[2]**
+*Examiner insight:* Repeating one objective in different words (for example "low costs" and "efficiency") earns the mark once.
 
 **2.** Actual output compared with the maximum output possible (capacity) [1], expressed as a percentage: actual output ÷ capacity × 100 [1]. **[2]**
 *Examiner insight:* "How much of the factory is used" on its own is vague; naming output and capacity makes the definition exact.
 
-**3. (a)** 1,800 ÷ 15 [1] = **120 bicycles per employee** [1]
+**3. (a)** Employee productivity = 1,800 ÷ 15 [1] = **120 bicycles per employee** [1]
 **(b)** £243,000 ÷ 1,800 [1] = **£135 per bicycle** [1]
 **(c)** 1,800 ÷ 2,400 × 100 [1] = **75%** [1]
 *Examiner insight:* Show the substitution so the method is visible, and give units, since "120" alone does not say what is measured.
 
-**4. (a)** 25 × 8 + 120 [1] = **320 rolls** [1]
-**(b)** 120 + 400 = **520 rolls** [1]
-**(c)** It is a minimum stock kept as a cushion [1] so production can continue if a delivery is late or use rises unexpectedly [1].
-**(d)** 400 ÷ 25 [1] = **16 days** [1]
-*Examiner insight:* The buffer level and the re-order level are different numbers; stating the buffer as the re-order level is a common slip, so write the formula first.
+**4. (a)** Average inventory = (40,000 + 50,000) ÷ 2 = £45,000 [1]; inventory turnover = 540,000 ÷ 45,000 = **12 times a year** [1]
+**(b)** Buffer stock lets production continue if a supplier delivers late or demand rises suddenly [1], so Upperby does not lose orders or leave machines idle, which matters if its suppliers are unreliable [1].
+**(c)** 540,000 ÷ 30,000 = **18 times a year** [1]
+*Examiner insight:* Use average inventory, not the closing figure alone, unless only one figure is given.
 
 **5.** Benefit: holding little inventory cuts storage costs and the cash tied up in ingredients [1], which matters to a small caterer with limited funds and little space [1]. Difficulty: any late delivery from a supplier leaves no stock to fall back on [1], so an event could be spoiled and customers lost [1]. **[4]**
 *Examiner insight:* A benefit or difficulty gains most when it is linked to the caterer; a general statement about "reducing costs" is only partly developed.
 
-**6.** Mass customisation is producing large volumes of items that are each tailored to the individual customer, for example by combining standard parts with personal options [2]. Benefit: customers who can choose colours or names may value the product more and accept a higher price [1], and the firm keeps unit costs close to mass production [1]. **[4]**
-*Examiner insight:* Define the term in your own words with a clear idea of "large volume" and "individual", then give a benefit that is about this business rather than customisation in general.
+**6. (a)** A–B–D takes 2 + 5 + 1 = 8 days; A–C–D takes 6 days. The critical path is **A–B–D** [1] and the minimum project time is **8 days** [1].
+**(b)** C has an earliest start time of 2 and a latest finish time of 7 (D cannot start before day 7). Float = 7 − 3 − 2 [1] = **2 days** [1]. **[4]**
+*Examiner insight:* Write the float formula (latest finish time − duration − earliest start time) before substituting; leaving out the earliest start time is the usual slip.
 
 **7. (a)** 25,000 × 0.04 = 1,000 reprints [1]; 1,000 × £18 = **£18,000** [1]
 **(b)** Any two developed consequences, for example: late delivery of the reprinted orders means customers may lose trust in the firm's dependability [1], so some may switch to rivals and sales fall [1]; staff and machine time spent on reprints is time not spent on new orders [1], which reduces output and lowers capacity available for profitable work [1]. **[4]**
@@ -121,10 +124,10 @@ These questions cover **operations management** for AQA AS-Level Business (7137)
 - Omitting units, or giving a percentage as a decimal.
 - Dividing by the wrong figure: capacity instead of output, or variable cost instead of total cost for unit cost.
 - Mixing time periods, such as monthly output with weekly capacity.
-- Forgetting the buffer when calculating the re-order level.
+- Using closing inventory instead of average inventory in inventory turnover.
 - Explaining Just in Time without applying it to the business in the question.
 - Describing quality assurance as inspection at the end of production.
-- Choosing labour or capital intensive production without referring to the volume at which costs are equal.
+- Choosing manual or automated production without referring to the volume at which costs are equal.
 - Ending an evaluation with advantages and disadvantages but no decision and no condition on which it depends.
 
 ## Next steps
@@ -136,4 +139,4 @@ These questions cover **operations management** for AQA AS-Level Business (7137)
 
 ## Official syllabus
 
-AQA AS and A-level Business specification text held for this site (7131/7132, first teaching 2015), subject content section 3.4 (3.4.1 to 3.4.5), AQA. It is used here as the nearest available text for AS 7137 operations management, listed on this site as 3.2.2. The current 7137 wording has not been checked against these pages.
+AQA AS and A-level Business (7137, 7138) specification, Version 1.1 (November 2025), for first teaching from September 2026: section 3.2.2 Operations management and Annex 7, Formulae and key data. Checked against these questions on 5 November 2026.

@@ -32,6 +32,7 @@ syllabusTopics:
 description: "Revision notes for OxfordAQA International AS Business 9725 human resources: HR formulas, key terms, theories, distinctions and a quick self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -88,7 +89,7 @@ From the specification's Appendix: Formulae and Key data:
 | Measure | Formula |
 |---|---|
 | Labour turnover (%) | leavers in a year ÷ average number of total employees × 100 |
-| Employee retention rate (%) | employees at end of period ÷ average employees at start of period × 100 |
+| Employee retention rate (%) | employees at end of period ÷ average employees at start of period × 100 (the appendix wording; in practice, count only the staff who were there at the start and are still there at the end, so new joiners do not push it above 100%) |
 | Labour productivity | output in period ÷ average employees in period |
 | Employee costs as % of turnover | total employee costs ÷ total revenue × 100 |
 | Labour costs per unit | total labour costs ÷ units of output |

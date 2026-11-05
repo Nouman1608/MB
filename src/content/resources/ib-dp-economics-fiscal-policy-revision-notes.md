@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Condensed revision notes on fiscal policy for IB Diploma Programme Economics 3.6: definitions, diagram steps, HL multiplier formulas and a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-19
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -65,6 +66,7 @@ Goals can conflict. A boost to demand that cuts unemployment may push up inflati
 | Low inflation | Cut spending or raise taxes in a boom |
 | Fairer income distribution | Progressive taxes and transfer payments |
 | Long-term growth | Capital spending on infrastructure, stable tax rules |
+| Reduced business cycle fluctuations | Counter-cyclical spending and tax changes |
 | External balance | Restrain spending on imports, or support exports |
 
 ## Diagram method

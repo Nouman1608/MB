@@ -21,6 +21,7 @@ syllabusTopics:
 description: "Original practice questions with worked answers on density, Hooke's law, strain energy and the Young modulus for OxfordAQA AS and A-level Physics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -63,7 +64,7 @@ These questions follow sections 3.2.9 and 3.2.10 of the OxfordAQA International 
 
 **8.** A copper wire of original length 2.20 m and diameter 0.46 mm extends by 3.4 mm under a load of 28 N. Calculate the Young modulus of copper and the energy stored in the wire. **[5]**
 
-**9.** Wire A has length L and diameter d. Wire B is made of the same material, with length 2L and diameter 2d. The same force acts on each and neither passes its elastic limit. Give the ratio B : A for **(a)** the stress **[1]**, **(b)** the extension **[2]**, and **(c)** the energy stored. **[2]**
+**9.** Wire A has length L and diameter d. Wire B is made of the same material, with length 2L and diameter 2d. The same force acts on each and neither passes its limit of proportionality. Give the ratio B : A for **(a)** the stress **[1]**, **(b)** the extension **[2]**, and **(c)** the energy stored. **[2]**
 
 **10.** A student finds the Young modulus of a steel wire of original length 1.85 m. The diameter is 0.28 ± 0.01 mm.
 

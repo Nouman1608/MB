@@ -25,6 +25,7 @@ syllabusTopics:
 description: "Study guide to the AQA A-Level Physics 7408 Astrophysics option: telescopes, magnitudes, black bodies, HR diagram, Doppler, Hubble and exoplanets."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -185,7 +186,7 @@ Absolute magnitude (+15 bottom to −10 top) against temperature **falling** lef
 
 ### Doppler effect
 
-For v ≪ c: **Δf/f = v/c** and **z = Δλ/λ = −v/c** (v positive for approach). Recession gives red shift (λ increases); use magnitudes, z = v/c. It applies to optical and radio frequencies, galaxies and quasars.
+For v ≪ c: **Δf/f = v/c** and **z = Δλ/λ = −v/c**, with v positive for approach. A receding source has negative v, so λ increases (red shift) and z is positive: the recession speed is zc. It applies to optical and radio frequencies, galaxies and quasars.
 
 **Binary stars in the plane of orbit**: lines shift periodically. Maximum shift → orbital speed v; cycle time → period T; r = vT/2π.
 
@@ -193,7 +194,7 @@ For v ≪ c: **Δf/f = v/c** and **z = Δλ/λ = −v/c** (v positive for approa
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--06-aphy-astro-redshift.webp" width="900" height="980" alt="Hydrogen absorption lines at 434.0, 486.1 and 656.3 nm in the laboratory are shifted to 442.7, 495.8 and 669.4 nm in a distant galaxy, all by the same fraction z = 0.020. z = delta lambda / lambda = v/c gives a recession speed of about 6.0e6 m/s." loading="lazy">
-  <figcaption>Spectral lines of a receding galaxy shift to longer wavelength by z = v/c.</figcaption>
+  <figcaption>Spectral lines of a receding galaxy shift to longer wavelength; z = Δλ/λ, and the recession speed is zc.</figcaption>
 </figure>
 
 

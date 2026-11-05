@@ -21,6 +21,7 @@ syllabusTopics:
 description: "Study guide to density, Hooke's law, stress, strain, elastic energy and the Young modulus for OxfordAQA International AS and A-level Physics (9630)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 This guide covers sections 3.2.9 (Bulk properties of solids) and 3.2.10 (The Young modulus) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. Both sections are shared content: they are part of International AS and also of International A-level. It includes Required practical 2. Condensed recall is in the [revision notes](/resources/oxfordaqa-a-level-physics-bulk-properties-of-solids-and-the-young-modulus-revision-notes/) and exam-style questions are in the [practice set](/resources/oxfordaqa-a-level-physics-bulk-properties-of-solids-and-the-young-modulus-practice/). Course pages: [OxfordAQA A-level Physics hub](/boards/oxfordaqa/a-level/physics/) and the [printable checklist](/checklists/oxfordaqa/a-level/physics/). Related: [mechanics and materials revision notes](/resources/oxfordaqa-a-level-physics-mechanics-materials-revision-notes/). To find weak spots first, try the [free diagnostics](/diagnostics/).
@@ -52,11 +53,11 @@ V = π r² l = π × (0.0120)² × 0.0550 = 2.49 × 10⁻⁵ m³.
 
 ## Hooke's law and the elastic limit
 
-Hooke's law: the extension of a material is proportional to the force applied, provided the elastic limit is not exceeded. In symbols, F = kΔL, where ΔL is the extension and k is the stiffness (spring constant), in N m⁻¹. A stiffer spring has a larger k.
+Hooke's law: the extension of a material is proportional to the force applied, provided the limit of proportionality is not exceeded. In symbols, F = kΔL, where ΔL is the extension and k is the stiffness (spring constant), in N m⁻¹. A stiffer spring has a larger k.
 
 Beyond the limit of proportionality the graph curves. The elastic limit is the largest extension from which the material still recovers its original length once the force is removed. For many metals the two points are close together, but they are different ideas. For a spring that obeys Hooke's law, a force-extension graph is a straight line through the origin whose gradient is k.
 
-**Worked example 2.** A spring stretches by 62 mm when a 0.450 kg mass hangs from it. Find k, then the extension for a 0.80 kg mass, assuming the elastic limit is not passed.
+**Worked example 2.** A spring stretches by 62 mm when a 0.450 kg mass hangs from it. Find k, then the extension for a 0.80 kg mass, assuming the limit of proportionality is not passed.
 
 F = mg = 0.450 × 9.81 = 4.41 N. k = F/ΔL = 4.41 / 0.062 = **71.2 N m⁻¹**.
 For 0.80 kg: F = 7.85 N, so ΔL = F/k = 7.85 / 71.2 = **0.110 m**.

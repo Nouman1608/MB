@@ -14,63 +14,70 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "managing-people-and-operations-aqa-aslevel-business"
     subtopic: "operations-management-aqa-aslevel-business"
-description: "Study guide to operational objectives, productivity, capacity, lean production, quality and inventory control for AQA AS-Level Business (7137)."
+description: "Study guide to operations objectives, KPIs, efficiency, quality, environmental impact, supply chains, inventory, innovation, projects and scale for AQA AS Business (7137)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide covers **operations management** for AQA AS-Level Business (7137), the sub-topic listed on this site as 3.2.2. It follows the operations content in the earlier AQA text on file (7131/7132, first teaching 2015), which numbers it 3.4.1 to 3.4.5 under "Decision making to improve operational performance"; "the specification" below means that text. The current 7137 wording has not been checked against this guide, so confirm the detail with the current specification. Where the text gives no formula, this guide states the standard form and says so.
+This guide covers **3.2.2 Operations management** for AQA AS-Level Business (7137). It was checked on 5 November 2026 against AQA's AS and A-level Business specification (7137/7138), Version 1.1, November 2025, including its annex of formulae; "the specification" below means that document. Formulas are the ones in the annex.
 
 Related: [revision notes](/resources/aqa-as-level-business-operations-management-revision-notes/), [practice questions](/resources/aqa-as-level-business-operations-management-practice/), [course structure](/resources/aqa-as-level-business-course-structure/), [AQA AS Business hub](/boards/aqa/as-level/business/), [checklist](/checklists/aqa/as-level/business/) and [free diagnostics](/diagnostics/).
 
-## What the specification asks you to consider
+## What the specification asks of you
 
-Throughout operations the specification tells you to keep five things in view: how technology affects operations (more online businesses, better links with customers, suppliers and inventory control); ethical and environmental influences; market conditions and competition; how operations decisions improve competitiveness; and how operations links to other functions. Use these as case-study prompts.
-
-| Section | You must be able to |
+| Content area | You must be able to |
 |---|---|
-| 3.4.1 | Explain the value of operational objectives and the influences on them |
-| 3.4.2 | Calculate and interpret productivity, unit costs, capacity and capacity utilisation |
-| 3.4.3 | Judge ways to raise efficiency, including lean production, resource mix and technology |
-| 3.4.4 | Explain why quality matters and how to improve it |
-| 3.4.5 | Match supply to demand, control inventory and manage suppliers |
+| Managing operations | Explain operations objectives and the influences on them; how operations adds value; choice of location; links with other functions; effect on competitiveness |
+| Operations data and KPIs | Calculate employee productivity, unit costs and resource (capacity) utilisation; interpret KPIs and environmental measures |
+| Efficiency | Judge ways of improving resource utilisation and efficiency, including lean production |
+| Quality | Explain the costs of poor quality and judge methods of improving quality |
+| Environmental impact | Explain why and how operations can be made more sustainable, and the challenges |
+| Matching output to demand | Judge ways of matching supply to high, low and fluctuating demand |
+| Supply chain and inventory | Compare making with buying in; manage suppliers; judge just in time against just in case; calculate inventory turnover |
+| Innovation, projects, scale, technology | Ways to innovate and protect innovation; network analysis (float and critical path); economies and diseconomies of scale; technology (including AI) in operations |
 
-## Operational objectives (3.4.1)
+Ethics in operations (supplier codes of conduct and audits, sourcing, product safety) is A-level only (7138), so it is not covered here.
 
-**Operations** is the function that converts inputs (labour, materials, equipment) into the goods or services customers buy. An **operational objective** is a target for that function that supports the wider business objectives. Objectives give direction and a way to judge performance. The specification names six:
+## 1. Managing operations
 
-- **Costs.** Keep unit costs low enough to price competitively or protect profit.
-- **Quality.** Meet the standard customers expect, with few errors or complaints.
-- **Speed of response and flexibility.** How quickly orders are met, and how well the firm copes with changes in volume or specification.
-- **Dependability.** Delivering on time and as promised.
-- **Environmental objectives.** For example less waste, less energy used or fewer emissions.
-- **Added value.** The standard form is the selling price less what was paid for bought-in materials and inputs. A cake sold for £12 using £4.80 of ingredients adds £7.20, which is 60% of the price.
+**Operations** is the function that converts inputs (labour, materials, equipment) into the goods or services customers buy. An **operations objective** is a target for that function that supports the wider business objectives. The specification names five:
 
-Objectives can conflict, so say which should come first and why.
+- **Efficiency.** Getting the most output from the resources used, so unit costs are low.
+- **Quality.** Meeting the standard customers expect, with few errors or complaints.
+- **Volume of goods and services.** Producing enough to meet demand.
+- **Flexibility.** Coping with changes in volume, product mix or specification.
+- **Environmental impact.** For example less waste, less energy used or fewer emissions.
 
-**Internal influences** include the business's financial resources, its staff skills, its existing equipment and its other objectives. **External influences** include competitors' prices and service, customer expectations, technology, suppliers, legislation and environmental concerns. A firm in a price-sensitive market will stress costs; a firm selling premium goods will stress quality and dependability.
+Objectives can conflict (more volume may cost quality), so say which should come first and why.
+
+**Influences on operations objectives.** Internal: finance available, staff skills, existing equipment and the business's other objectives. External: competitors, customer expectations, technology, suppliers, legislation and environmental pressure. A firm in a price-sensitive market will stress efficiency; a premium brand will stress quality.
+
+**Adding value.** Added value is the difference between the selling price and the cost of bought-in materials and services. Operations adds value by making a product customers will pay more for (better quality, design or speed) or by producing it with less waste. A cake sold for £12 using £4.80 of ingredients adds £7.20, which is 60% of the price.
+
+**Choosing a location.** The specification lists costs, demand, access to resources and markets, infrastructure, government incentives, ethical and people considerations, break-even, return on investment and environmental factors. A good answer weighs quantitative factors (costs, break-even, ROI) against qualitative ones (access to skilled staff, ethics).
+
+**Links and competitiveness.** Operations decisions depend on finance (capital), marketing (forecast demand) and people (skills and staffing). Lower unit costs, better quality and greater flexibility all make a business more competitive.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
   <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
 </figure>
 
+## 2. Operations data: objectives and KPIs
 
-## Analysing operational performance (3.4.2)
+The specification asks you to calculate three measures (formulas from its annex):
 
-Managers use operations data to judge performance against past results, targets and rivals, and to plan ahead. The specification says you must be able to calculate four measures. The formulas are not given in the text, so these are the standard forms.
-
-| Measure | Standard form |
+| Measure | Formula |
 |---|---|
-| Labour productivity | Output in a period ÷ number of employees |
-| Unit cost (average cost) | Total costs ÷ output |
-| Capacity | The maximum output possible in a period with current resources |
-| Capacity utilisation | Actual output ÷ capacity × 100 |
+| Employee productivity | Output over a time period ÷ number of employees |
+| Unit costs (average costs) | Total costs ÷ number of units of output |
+| Capacity utilisation (%) | Actual output ÷ maximum possible output × 100 |
 
-**Worked example.** Ostrowick Bakehouse produced 9,600 loaves in a week with 12 employees. Total costs were £7,680 (fixed costs £2,880 plus variable costs of £0.50 per loaf). The ovens can produce 12,000 loaves a week.
+**Worked example 1.** Ostrowick Bakehouse produced 9,600 loaves in a week with 12 employees. Total costs were £7,680 (fixed costs £2,880 plus variable costs of £0.50 per loaf). The ovens can produce 12,000 loaves a week.
 
-- Labour productivity = 9,600 ÷ 12 = **800 loaves per employee**.
+- Employee productivity = 9,600 ÷ 12 = **800 loaves per employee**.
 - Unit cost = £7,680 ÷ 9,600 = **£0.80 per loaf**.
 - Capacity utilisation = 9,600 ÷ 12,000 × 100 = **80%**.
 
@@ -82,153 +89,136 @@ Next month output rises to 10,800 loaves with the same 12 employees. Total costs
 
 Unit cost fell because fixed costs were spread over more loaves: the link between utilisation and cost.
 
-**Using data in decisions.** Data supports decisions such as whether to hire, buy equipment, change suppliers or accept a large order. Its limits: it may be out of date, hide causes, and need a benchmark.
+**Other KPIs to interpret** (no calculation is required): wait times, returns, defects, complaints, speed of response, delivery times, and customer service or satisfaction ratings, plus measures of environmental impact and sustainability such as waste, energy use or emissions per unit. Compare each with past results, targets and rivals, using index numbers and percentage changes. Data has limits: it may be out of date, hide causes, or need a benchmark.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-as-level-business-operations-management--06-ops-three-measures.webp" width="900" height="990" alt="Three pairs of bars: labour productivity 800 to 900 loaves per employee (+12.5%), unit cost 0.80 to about 0.77 pounds (-4.2%), capacity utilisation 80% to 90%." loading="lazy">
   <figcaption>Higher output spreads fixed costs, so unit cost falls as productivity and utilisation rise.</figcaption>
 </figure>
 
+## 3. Efficiency
 
-## Efficiency and productivity (3.4.3)
+**Resource utilisation and efficiency** matter because idle resources and waste raise unit costs. The specification's ways of improving them:
 
-### Capacity and efficiency
+- **Improved capacity utilisation:** win more orders, share or rent out spare capacity, or cut surplus capacity. Very high utilisation leaves no slack for rush orders.
+- **Lean production:** reducing inventory, reducing re-works, reducing waiting times, reducing transportation times, **kaizen** (continuous small improvements suggested by staff) and standardised processes.
+- **Reducing waste, recycling and reusing materials.**
+- **Effective scheduling** of staff and machines so work flows without gaps.
+- **Improving employee productivity and performance**, for example through training, motivation or better equipment.
+- **Improving cost control.**
 
-**Capacity** matters because a business cannot sell more than it can make. **Efficiency** means getting the most output from the resources used, so lower waste and lower unit costs. **Labour productivity** matters because labour is often a large share of costs, so higher productivity can mean lower unit costs and more competitive prices.
-
-**To increase efficiency and labour productivity:** train staff, improve motivation, invest in equipment, reorganise workflow, reduce waste, use technology.
-
-**Difficulties:** training and equipment cost money before any gain appears; staff may resist change or fear job losses; the gains may be small if the business is already efficient; pushing staff harder can harm quality.
-
-### Utilising capacity efficiently
-
-Low utilisation spreads fixed costs over few units, so unit costs are high. Ways to improve it: win more orders, share or rent out machines, or cut surplus capacity. Very high utilisation leaves no slack for rush orders. A peak week of 14,400 loaves at Ostrowick would be 120% of capacity, impossible without extra shifts or ovens.
-
-### Lean production and Just in Time
-
-**Lean production** aims to cut waste in all forms: time, materials, stock and effort. The specification says it should include **Just in Time (JIT)**, where materials arrive from suppliers only as they are needed and finished goods are made to meet orders, so little inventory is held.
-
-- **Benefits:** lower holding costs and less storage space; less cash tied up; less waste and obsolete stock; problems are exposed quickly.
-- **Difficulties:** it depends on reliable suppliers and quick deliveries; any delay stops production; there is no stock to cope with a sudden rise in demand; ordering small amounts may lose bulk discounts and raise delivery costs; and it needs well-trained staff and accurate information.
-
-### Choosing the optimal mix of resources
-
-A process is **labour intensive** if labour is a high proportion of the costs, and **capital intensive** if machinery and equipment are. The optimal mix depends on volume, product type, cost and the quality needed. Low volume often suits labour; high volume suits capital.
-
-**Worked example.** Brackenrigg Joinery can make a standard door by hand or by a machine line. The hand method has fixed costs of £4,000 a month and variable costs of £22 a door. The machine line has fixed costs of £14,500 and variable costs of £10.
-
-- At 600 doors: hand £17,200 (£28.67 each), machine £20,500 (£34.17 each). Hand is cheaper.
-- At 1,200 doors: hand £30,400 (£25.33 each), machine £26,500 (£22.08 each). Machine is cheaper.
-- Costs are equal where 4,000 + 22q = 14,500 + 10q, so q = **875 doors**.
-
-The machine line is the better choice only if demand is reliably above 875. Non-financial factors also matter: flexibility, consistency and the risk of redundancies.
-
-### Technology
-
-Technology can improve operational efficiency through automation, computer-aided design and manufacture, robots, and online ordering that links customers and suppliers directly to the production schedule. The costs are investment, training, the risk of system failure and lost jobs.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-as-level-business-operations-management--07-ops-labour-vs-capital.webp" width="900" height="1086" alt="Total cost lines for hand (4,000 + 22 a door) and machine (14,500 + 10 a door) cross at 875 doors and 23,250 pounds. Hand is cheaper below, machine above. Per-door costs at 600 and 1,200 doors are shown." loading="lazy">
-  <figcaption>The machine line is the better choice only if demand is reliably above 875 doors.</figcaption>
-</figure>
+**Advantages and disadvantages.** These methods lower unit costs and can raise quality, but they often cost money before any gain appears (training, equipment), staff may resist change or fear job losses, gains are small if the business is already efficient, and pushing staff harder can harm quality.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
   <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
-  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
-</figure>
+## 4. Quality
 
+**Quality** means meeting customer expectations: the product does what is promised, is reliable and comes with good service. It supports repeat purchases, reputation and higher prices.
 
-## Quality (3.4.4)
+**Costs of poor quality:** returns, repairs and re-works, wasted materials, lost sales, damaged reputation, compensation and low staff morale.
 
-**Quality** means meeting customer expectations: whether the product does what is promised, is reliable and is delivered with good service. It supports repeat purchases, reputation and higher prices.
-
-**Methods of improving quality.** The specification says these should include **quality assurance**. Quality assurance builds quality into every stage of the process, from supplier checks to design and training, so that problems are prevented. This contrasts with inspecting finished items at the end to find faults. Other methods include staff training, better materials, better equipment and customer feedback.
-
-| | Benefits | Difficulties |
+| Method | What it means | Watch for |
 |---|---|---|
-| Improving quality | Fewer returns and complaints; stronger brand; scope for higher prices; less waste | Training, equipment and better materials cost more; checking takes time; staff may resist new routines; customers may not pay more |
+| Quality control | Inspecting output, usually at the end, to find faults | Faults are found after the cost has been incurred |
+| Quality assurance | Building quality into every stage, from supplier checks to training, to prevent faults | Set-up and checking costs; needs commitment at every stage |
+| Total Quality Management (TQM) | Every employee is responsible for quality, all the time | Needs a culture change and training; slow to take hold |
+| Quality circles | Small groups of staff meet regularly to solve quality problems | Takes time from production; ideas must be acted on |
+| Benchmarking | Comparing processes with the best businesses and adopting their methods | Rivals may not share data; copying may not fit the business |
 
-**Consequences of poor quality:** returns and repairs, wasted materials, lost sales, damaged reputation, compensation and low staff morale. 
+**Worked example 2.** Thornhaugh Print completes 25,000 orders a year and reprints 4% because of errors, at £18 a reprint. Poor quality costs 25,000 × 0.04 × £18 = **£18,000 a year** before any lost customers are counted, so a £10,000 training programme that halved errors would pay for itself within about a year (£9,000 saved).
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
   <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
 </figure>
 
+## 5. Environmental impact of operations
 
-## Inventory and supply chains (3.4.5)
+**Purpose and value:** lower energy and material costs, meeting regulations, a better reputation with customers and investors, and access to buyers who demand sustainable suppliers.
 
-### Flexibility, speed and dependability
+**Ways to reduce environmental impact:** waste reduction, resource efficiency, reducing emissions, cutting the carbon footprint, sustainable sourcing and circularity (designing products and processes so materials are reused or recycled rather than thrown away).
 
-**Flexibility** is the ability to change output volume, product mix or specification. The specification says you must understand **mass customisation**: producing large volumes of items that are each tailored to the individual customer, usually by combining standard components with personalised options, for example trainers with a chosen colour and name. It needs flexible equipment and good information systems. **Speed of response** wins sales where customers will not wait; ways to improve it include simpler workflows, spare capacity and faster delivery. **Dependability** builds trust, and a late promise can lose a repeat customer; ways to improve it include reliable suppliers, realistic delivery promises and a buffer level of inventory.
+**Challenges:** the costs of new equipment or materials, supply chain limitations (sustainable inputs may be scarce or dearer) and the operational disruption needed to change processes.
 
-### Matching supply to demand
+## 6. Matching output to demand
 
-Matching supply to demand avoids lost sales when demand is high and idle resources or unsold stock when it is low. The specification names three ways:
+Demand can be high, low, or fluctuating (cyclical with the economy, or seasonal). Mismatches lose sales when demand is high and leave idle resources or unsold stock when it is low. The specification's ways of managing supply:
 
-- **Outsourcing.** Using an outside firm to do some work at peak times.
-- **Temporary and part-time employees.** Staff numbers can follow demand, but training is needed and commitment may be lower.
-- **Producing to order.** Making goods only once an order is received, so there is little unsold stock, though customers may wait.
+- **Changing production scheduling:** extra shifts in peaks, fewer in troughs.
+- **Increasing or decreasing inventory:** build stock in quiet months to sell in busy ones (costs storage and cash).
+- **Different forms of employment:** part-time, temporary, zero-hours and freelance staff let labour follow demand, but training is needed and commitment may be lower.
+- **Outsourcing:** another firm does some of the work at peak times, at the cost of control.
+- **Investment in capital and technology:** faster or more flexible equipment raises the ability to respond.
+- **Increasing or decreasing capacity:** a long-term change, worth it only if the change in demand will last.
 
-### Inventory control
+Failing to match supply to demand risks lost sales and customers, or high unit costs from idle capacity and waste.
 
-The amount of inventory held depends on storage cost, cash tied up, supplier reliability, lead time, how predictable demand is and how quickly goods go out of date. The specification lists these terms:
+## 7. Supply chain management and inventory
 
-- **Lead time:** the time between placing an order and receiving it.
-- **Buffer level of inventory:** the minimum stock held in case of delays or a rise in demand.
-- **Re-order level:** the stock level at which a new order is placed. Standard form where usage is steady: usage per day × lead time + buffer.
-- **Re-order quantity:** how much is ordered each time.
+**Producing internally or buying in.** Making a part yourself gives control of quality and timing and keeps the profit margin; buying in can be cheaper, gives access to specialist skill and needs no capital, but brings dependence on the supplier.
 
-An **inventory control chart** plots stock against time. The line falls as stock is used, an order is placed when it reaches the re-order level, and stock jumps up when the delivery arrives.
+**Managing the supply chain** means managing relationships with suppliers and the logistics from suppliers and to customers. Its value: lower costs, fewer delays, faster response. Influences on sourcing include the number and choice of suppliers (one supplier gives bulk discounts and close relations; several spread the risk). Supply chain issues such as delays, shortages or price rises can halt production. How profits are shared along the chain depends on the bargaining power of each business. **Supply chain transparency** and **third-party accreditations** (for example a recognised sustainability or labour standard) reassure customers and reduce the risk of reputational damage.
 
-**Worked example.** Mereton Foods uses 50 tins of paint pigment a day. Lead time is 4 days, the buffer is 150 and the re-order quantity is 600.
+**Inventory.** Businesses hold inventory to meet demand without delay, to cope with late deliveries, and to gain bulk discounts. The amount held depends on storage cost, cash tied up, supplier reliability, how predictable demand is and how quickly goods go out of date.
 
-- Re-order level = 50 × 4 + 150 = **350**.
-- Maximum stock = 150 + 600 = **750**.
-- Stock falls from 750 to 350 in 8 days, the order arrives 4 days later with stock at the buffer of 150, and the cycle repeats every 600 ÷ 50 = **12 days**.
+- **Just in time (JIT):** materials arrive only as needed. Lower holding costs and less cash tied up, but any delivery delay stops production and there is no stock for a sudden rise in demand.
+- **Just in case (JIC):** buffer stock is held. Covers delays and demand spikes, but storage costs and cash tied up are higher and stock may become obsolete.
 
-A lead time of 6 days would raise the re-order level to 450.
+**Inventory turnover** = cost of sales ÷ average inventories held.
 
-### Suppliers and the supply chain
-
-Influences on the choice of supplier: price, quality, reliability, speed, flexibility, payment terms, location and ethical or environmental practices. The **supply chain** runs from raw materials to the end customer. Managing it well means sharing information, building relationships, checking performance and using technology to track orders. Its value is lower costs, fewer delays and faster response.
-
-### Outsourcing
-
-**Outsourcing** means paying another business to carry out an activity. Its value: expertise, lower costs and more focus on core activities. Its risks: less control of quality, dependence on the supplier and damage to reputation if the supplier behaves badly.
+**Worked example 3.** Mereton Foods has cost of sales of £480,000 a year. It held inventory of £36,000 at the start of the year and £44,000 at the end, so average inventory is £40,000. Inventory turnover = 480,000 ÷ 40,000 = **12 times a year**, so stock is replaced about once a month. A switch towards JIT that halved average inventory would double turnover to 24 times.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-as-level-business-operations-management--06-ops-mereton-inventory.webp" width="900" height="970" alt="Stock starts at 750 and falls 50 a day. At day 8 it hits the re-order level of 350, the order of 600 arrives at day 12 when stock is at the 150 buffer, and the cycle repeats every 12 days." loading="lazy">
-  <figcaption>Mereton Foods drawn exactly: 50 a day, lead time 4, buffer 150, order 600.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-as-level-business-operations-management--07-ops-match-supply-demand.webp" width="900" height="1060" alt="Illustrative weekly demand bars against a fixed capacity line. Gold shows demand above capacity, met by outsourcing or temporary staff; dashed gaps show spare capacity, where staff hours follow demand and goods are made to order." loading="lazy">
-  <figcaption>Demand above capacity needs extra supply; demand below it needs flexible staffing and make-to-order.</figcaption>
-</figure>
+## 8. Innovation
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-as-level-business-operations-management--08-ops-mass-customisation.webp" width="900" height="1060" alt="Standard components (sole, upper, laces) plus customer options (colour and name) give each pair of trainers a unique look while the firm still produces in volume." loading="lazy">
-  <figcaption>Mass customisation combines standard parts with personalised options.</figcaption>
-</figure>
+**Purpose, value and challenges.** New products and processes can create a competitive advantage, open markets and cut costs, but innovation is expensive, slow and risky, since many ideas fail.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
-  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
-</figure>
+**Ways of developing innovation:** research and development, talent acquisition and retention, cross-functional teams (staff from different functions working together) and **intrapreneurship** (encouraging employees to act like entrepreneurs inside the business).
 
+**Protecting innovation:** **patents** protect an invention and **copyrights** protect original creative work, so rivals cannot simply copy it.
+
+## 9. Project management and network analysis
+
+**Project management** plans and controls a one-off task so it finishes on time and within budget. **Network analysis** shows the order of activities and which can run at the same time. You must be able to interpret and amend a network diagram and calculate float times and the critical path.
+
+- **Earliest start time (EST):** the earliest an activity can begin.
+- **Latest finish time (LFT):** the latest an activity can finish without delaying the project.
+- **Float time** = latest finish time − duration − earliest start time.
+- The **critical path** is the chain of activities with zero float: delay any of them and the whole project is late.
+
+**Worked example 4.** A shop refit has four activities: A (strip out, 3 days) starts first; B (rewire, 4 days) and C (order fittings, 2 days) both follow A; D (install fittings, 5 days) follows both B and C.
+
+| Activity | Duration | EST | LFT | Float |
+|---|---|---|---|---|
+| A | 3 | 0 | 3 | 3 − 3 − 0 = 0 |
+| B | 4 | 3 | 7 | 7 − 4 − 3 = 0 |
+| C | 2 | 3 | 7 | 7 − 2 − 3 = **2** |
+| D | 5 | 7 | 12 | 12 − 5 − 7 = 0 |
+
+The critical path is **A–B–D**, taking **12 days**. Activity C can be up to 2 days late without delaying the refit.
+
+**Value:** network analysis identifies the activities to watch, helps plan resources and shows the shortest possible time. Its limits: durations are estimates, and a diagram does not manage people.
+
+## 10. Scale of operations and technology
+
+**Economies of scale** lower unit costs as output grows: **technical** (bigger, more efficient equipment), **purchasing** (bulk-buying discounts) and **financial** (larger firms borrow more cheaply). **Diseconomies of scale** raise unit costs when a business grows too large: problems of **control**, **communication** and **coordination**.
+
+**Technology, including AI, in operations** improves competitiveness through **inventory management** (automatic tracking and re-ordering), **supply chain management** (tracking deliveries, forecasting demand) and **automation** (robots and automated lines). Costs and risks: investment, training, system failure and job losses.
 
 ## Common errors
 
 - Using total costs as unit cost, or forgetting to divide by output.
 - Writing capacity utilisation as a decimal or as capacity ÷ output.
-- Confusing productivity (output per worker) with production (total output).
-- Forgetting the buffer when finding the re-order level.
+- Confusing productivity (output per employee) with production (total output).
+- Using closing inventory instead of average inventory in inventory turnover.
+- Forgetting to subtract the earliest start time when calculating float.
 - Saying JIT removes risk, when it moves the risk to the supply chain.
 - Listing benefits and difficulties with no judgement.
 
@@ -236,4 +226,4 @@ Next, try the [practice questions](/resources/aqa-as-level-business-operations-m
 
 ## Official syllabus
 
-AQA AS and A-level Business specification text held for this site (7131/7132, first teaching 2015), subject content section 3.4 (3.4.1 to 3.4.5), AQA. It is used here as the nearest available text for AS 7137 operations management, listed on this site as 3.2.2. The current 7137 wording has not been checked against these pages.
+AQA AS and A-level Business (7137, 7138) specification, Version 1.1 (November 2025), for first teaching from September 2026: section 3.2.2 Operations management and Annex 7, Formulae and key data. Checked against this guide on 5 November 2026.

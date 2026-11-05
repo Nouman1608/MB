@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Condensed revision notes on PED, PES and income elasticity with formulas, factors, tables and a self-test for Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -123,8 +124,10 @@ Total revenue = price × quantity.
 | YED | Type |
 |---|---|
 | Above 1 | Luxury good |
-| 0 to 1 | Normal good |
+| 0 to 1 | Normal good (a necessity) |
 | Below 0 | Inferior good |
+
+The specification uses these three labels. Strictly, every good with a positive YED is a normal good: a luxury is a normal good whose YED is above 1, and a necessity is a normal good with YED between 0 and 1.
 
 *Worked reminder.* Income falls 10% and quantity demanded falls 25%. YED = −25 ÷ −10 = **+2.5**, a luxury good.
 

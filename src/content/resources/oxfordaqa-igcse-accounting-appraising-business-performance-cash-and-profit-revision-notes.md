@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Condensed formulas, interpretation phrases, cash versus profit grids and a self-test on ratios and appraisal for OxfordAQA IGCSE Accounting 9215."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -31,7 +32,7 @@ The specification says the formulae are in OxfordAQA's guide "Formulae for accou
 | Gross profit margin | gross profit / revenue x 100 | % |
 | Markup | gross profit / cost of sales x 100 | % |
 | Profit in relation to revenue | profit for the year / revenue x 100 | % |
-| Return on capital employed | profit for the year / capital employed x 100 | % |
+| Return on capital employed | profit from operations / capital employed x 100 | % |
 | Rate of inventory turnover | cost of sales / average inventory | times |
 | Current ratio | current assets : current liabilities | x : 1 |
 | Liquid capital ratio | (current assets - inventory) : current liabilities | x : 1 |
@@ -40,6 +41,7 @@ The specification says the formulae are in OxfordAQA's guide "Formulae for accou
 
 Supporting definitions
 
+- Profit from operations = gross profit - expenses, before loan interest. With no loan interest it equals profit for the year.
 - Capital employed = non-current assets + current assets - current liabilities = capital + non-current liabilities.
 - Average inventory = (opening + closing) / 2.
 - Working capital = current assets - current liabilities.
@@ -185,7 +187,7 @@ A transaction affects profitability if it changes revenue or expenses. It affect
 5. Inventory in question 4 is 15,000. Find the liquid capital ratio.
 6. Trade receivables are 24,000 and credit sales 240,000. Find the receivable days to one decimal place.
 7. Trade payables are 15,000 and credit purchases 120,000. Find the payable days to one decimal place.
-8. Profit for the year is 18,000 and capital employed 120,000. Find ROCE.
+8. Profit from operations is 18,000 and capital employed 120,000. Find ROCE.
 9. A business buys inventory on credit. State the effect on profit and on the current ratio, assuming the ratio started above 1.
 10. A business charges depreciation. State the effect on profit and on cash.
 11. Name two reasons a profitable business may have a bank overdraft.

@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Study guide to the nine financial ratios and measures in OxfordAQA International GCSE Accounting 9215: standard forms, worked examples and interpretation."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -64,7 +65,7 @@ Where the pieces come from:
 
 - Cost of sales = opening inventory + purchases - closing inventory.
 - Average inventory = (opening inventory + closing inventory) / 2.
-- Profit from operations is the profit before interest on loans is deducted. Profit for the year is after that interest.
+- Profit from operations is the profit before interest on loans is deducted. Profit for the year is after that interest. ROCE uses profit from operations, as OxfordAQA's own 9215 mark scheme does (Paper 2, May/June 2026).
 - Capital employed = total assets - current liabilities. This equals equity plus non-current liabilities.
 - Use credit revenue and credit purchases for the days measures. If the question only gives total revenue, say that you have used it.
 

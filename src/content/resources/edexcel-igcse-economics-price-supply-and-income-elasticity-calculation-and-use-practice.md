@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original practice questions with worked answers on PED, PES, income elasticity, taxes and subsidies for Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -103,7 +104,7 @@ Small share of income [1]: a packet costs very little compared with income [1], 
 *Examiner insight:* Compare the two products explicitly. Describing only bicycles does not answer why one rises by more.
 
 **9. (a)** X: 12 ÷ 8 = **+1.5** [1]. Y: 2.4 ÷ 8 = **+0.3** [1]. Z: −4 ÷ 8 = **−0.5** [1].
-**(b)** X is a luxury good, since YED is above 1 [1]. Y is a normal good, since YED is between 0 and 1 [1]. Z is an inferior good, since YED is negative [1]. **[6]**
+**(b)** X is a luxury good, since YED is above 1 [1]. Y is a normal good (a necessity), since YED is between 0 and 1 [1]. Z is an inferior good, since YED is negative [1]. **[6]**
 *Examiner insight:* Support each label with the value. The sign is part of the answer for income elasticity.
 
 **10. (a)** New price = 4.50, a rise of 12.5% [1]. PED −0.8: quantity falls 10% to 18,000 and revenue is 18,000 × 0.50 = **9,000** [1]. PED −2.0: quantity falls 25% to 15,000 [1] and revenue is **7,500** [1].

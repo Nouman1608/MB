@@ -18,6 +18,7 @@ reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -146,12 +147,12 @@ The elements must be consistent: premium pricing with poor-quality packaging and
 
 ## Worked example
 
-> **Not Business 1 content.** Added value is not a J204 term, and break-even is topic 5.4 of Business 2 (J204/02), which is where synoptic questions are set. This example is kept as background for Business 2; Business 1 (J204/01) does not examine it.
+> **Not Business 1 content.** Break-even is topic 5.4 of Business 2 (J204/02), which is where synoptic questions are set. This example is kept as background for Business 2; Business 1 (J204/01) does not examine it.
 
 A bakery pays 80p in ingredients and packaging per loaf and sells at £2.20. It sells 500 loaves a day with fixed costs of £400 a day.
 
 ```
-Added value per loaf = 2.20 - 0.80 = £1.40
+Price - variable cost per loaf = 2.20 - 0.80 = £1.40
 Total contribution   = 1.40 x 500  = £700
 Profit               = 700 - 400   = £300 per day
 

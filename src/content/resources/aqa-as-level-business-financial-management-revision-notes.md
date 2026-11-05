@@ -17,12 +17,13 @@ syllabusTopics:
 description: "Condensed revision notes for AQA AS Business (7137) 3.1.4 financial management: formulas, methods, key distinctions and a self-test with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
+updatedDate: 2026-11-05
 featured: false
 ---
 
 Condensed notes for **3.1.4 Financial management** in AQA AS Business (7137), for first teaching from September 2026. For full explanations and worked examples, read the [study guide](/resources/aqa-as-level-business-financial-management/). Test yourself afterwards with the [practice questions](/resources/aqa-as-level-business-financial-management-practice/), and see the [course structure guide](/resources/aqa-as-level-business-course-structure/) for how the sub-topic fits the course. Course hub: [AQA AS Business](/boards/aqa/as-level/business/). Tick-off list: [checklist](/checklists/aqa/as-level/business/). To find weak spots first, try [all free 10-minute diagnostics](/diagnostics/).
 
-The notes follow the four groups of points in sections 3.5.1 to 3.5.4 of AQA's earlier specification (7131/7132), as the 7137 text was not available to check: financial objectives, analysing financial performance, sources of finance, and improving cash flow and profits.
+The notes were checked on 5 November 2026 against AQA's AS and A-level Business specification (7137/7138), Version 1.1, November 2025. They follow its headings: managing finance, sources of finance, break-even, profit, budgets, cash flow and liquidity, financial reporting, and assessing financial position and performance. Formulas are those in the specification's annex. Ethics in finance is A-level only and is left out.
 
 ## Key definitions
 
@@ -31,10 +32,13 @@ The notes follow the four groups of points in sections 3.5.1 to 3.5.4 of AQA's e
 | Cash flow | Money moving into and out of the business |
 | Profit | Revenue minus costs over a period |
 | Gross profit | Revenue − cost of sales |
-| Operating profit (profit from operations) | Gross profit − operating expenses |
-| Profit for the year | Operating profit − finance costs − tax |
+| Operating profit | Gross profit − operating expenses |
+| Profit for the year | Operating profit + profit from other activities − net finance costs − tax |
+| Profitability | Profit measured against revenue or capital |
+| Liquidity | Ability to pay short-term debts as they fall due |
 | Budget | A financial plan for income and spending |
-| Variance | Actual figure − budgeted figure |
+| Zero-based budget | A budget built from zero, every item justified afresh |
+| Budget variance | Budgeted figure − actual figure |
 | Favourable variance | Improves profit |
 | Adverse variance | Reduces profit |
 | Contribution per unit | Selling price − variable cost per unit |
@@ -44,17 +48,24 @@ The notes follow the four groups of points in sections 3.5.1 to 3.5.4 of AQA's e
 
 ## Formulas
 
-Every formula here is the standard form, in the writer's own presentation, not copied from a specification.
+As in the specification's annex of formulae (closing cash balance is the standard method).
 
 | Measure | Formula |
 |---|---|
-| Return on investment (standard form) | Profit gained ÷ amount invested × 100 |
-| Debt as a proportion of long-term funding (standard form) | Long-term debt ÷ (long-term debt + equity) × 100 |
-| Gross profit margin | Gross profit ÷ revenue × 100 |
-| Operating profit margin | Operating profit ÷ revenue × 100 |
-| Profit for the year margin | Profit for the year ÷ revenue × 100 |
+| Return on investment (%) | Profit from the investment ÷ cost of the investment × 100 |
+| Gearing (%) | Non-current liabilities ÷ (total equity + non-current liabilities) × 100 |
+| ROCE (%) | Operating profit ÷ (total equity + non-current liabilities) × 100 |
+| Gross profit margin (%) | Gross profit ÷ revenue × 100 |
+| Operating profit margin (%) | Operating profit ÷ revenue × 100 |
+| Profit for the year margin (%) | Profit for the year ÷ revenue × 100 |
+| Current ratio | Current assets ÷ current liabilities |
+| Acid test ratio | (Current assets − inventory) ÷ current liabilities |
+| Payables days | Payables ÷ cost of sales × 365 |
+| Receivables days | Receivables ÷ revenue × 365 |
+| Dividend per share | Total dividend paid ÷ number of ordinary shares in issue |
+| Dividend yield (%) | Dividend per share (pence) ÷ share price (pence) × 100 |
 | Break-even output | Fixed costs ÷ contribution per unit |
-| Total contribution | Contribution per unit × output |
+| Total contribution | Contribution per unit × units sold |
 | Profit (break-even setting) | Total contribution − fixed costs |
 | Closing cash balance | Opening balance + cash in − cash out |
 
@@ -64,34 +75,30 @@ Every formula here is the standard form, in the writer's own presentation, not c
 </figure>
 
 
-## Objectives: what to remember
+## Managing finance: what to remember
 
 - Value of objectives: they give targets, allow comparison with results and guide other functions.
-- Six types: revenue, cost, profit, cash flow, capital expenditure (spending on long-term assets) and capital structure (mix of debt and share capital).
+- Five financial objectives in the specification: profit, profitability, cash flow, liquidity and levels of borrowing.
 - Cash flow is not profit. Profit can be earned on credit sales long before cash arrives, and cash can arrive (from a loan) without any profit.
 - Internal influences: owners' attitude to risk, size, cash position, other functions' needs. External influences: interest rates, competitors, the economic climate, lenders, ethical expectations.
-- High debt raises the commitment to repay and pay interest; low debt may mean growth is slower because retained profits and share capital are limited.
+- High borrowing raises the commitment to repay and pay interest; low borrowing may mean growth is slower because retained profits and share capital are limited.
+- Financial decisions link to every other function, and affect competitiveness.
 
-**Worked reminder.** Zelmore Ltd earns extra profit of £8,400 a year from a £60,000 machine. ROI = 8,400 ÷ 60,000 × 100 = **14%**. Its long-term funding is £80,000 of loans and £240,000 of equity, so debt is 80,000 ÷ 320,000 × 100 = **25%**.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--06-objective-types.webp" width="900" height="881" alt="Six tiles with small pictures: revenue, cost, profit, cash flow, capital expenditure and capital structure, each with the lesson example." loading="lazy">
-  <figcaption>Each objective type gives managers a measurable target.</figcaption>
-</figure>
+**Worked reminder.** Zelmore Ltd earns extra profit of £8,400 a year from a £60,000 machine. ROI = 8,400 ÷ 60,000 × 100 = **14%**. Its long-term funding is £80,000 of loans and £240,000 of equity, so gearing = 80,000 ÷ 320,000 × 100 = **25%**.
 
 
 ## Budgets and variances
 
 Method in steps:
 
-1. Find actual minus budget for each line.
+1. Find budgeted minus actual for each line.
 2. Decide the label by the effect on profit: higher revenue or lower cost is favourable; lower revenue or higher cost is adverse.
 3. Find the profit variance by comparing budgeted and actual profit.
 4. Give a cause, then say what action management might take.
 
 Example: Zelmore budgeted £18,000 for materials and spent £16,200. The variance is £1,800 (10% of budget) and **favourable**, though a good answer asks whether cheaper materials lowered quality.
 
-Value of budgeting: sets targets, controls spending, gives responsibility, coordinates departments, flags problems early. Limits: forecasts may be wrong, rigid budgets discourage flexibility, and variances only show what changed, not why.
+Value of budgeting: sets targets, controls spending, gives responsibility, coordinates departments, flags problems early. Limits: forecasts may be wrong, rigid budgets discourage flexibility, and variances only show what changed, not why. **Zero-based budgeting** makes every item justify itself from zero: it cuts spending that is no longer needed but takes much more management time.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
@@ -113,7 +120,7 @@ Value of budgeting: sets targets, controls spending, gives responsibility, coord
 5. Carry the closing balance to the next month's opening balance.
 6. Look for months where the balance goes negative and plan short-term finance.
 
-Common finance fixes: overdraft for a short gap, chasing receivables, longer terms with payables, or debt factoring.
+Common fixes: an overdraft for a short gap, plus the ways of improving cash flow listed below.
 
 ## Break-even: method
 
@@ -156,11 +163,14 @@ Value of break-even: simple, supports pricing and risk judgements. Limits: assum
 </figure>
 
 
-## Profitability ratios
+## Profit and financial reporting
 
-- Compare gross, operating and profit for the year margins with earlier years and with competitors.
+- Profit is not cash, and profit is not profitability (profit relative to revenue or capital).
+- Interpret and amend an income statement and a statement of financial position.
+- Compare gross, operating and profit for the year margins, ROCE, ROI and gearing with earlier years (trends), with competitors (benchmarking) and with objectives; use index numbers and percentage changes.
 - A fall in gross margin points to higher cost of sales or lower prices; a fall in operating margin with a steady gross margin points to rising operating expenses; a gap between operating margin and profit-for-the-year margin points to finance costs and tax.
-- Example: Zelmore has revenue £90,000, cost of sales £54,000 and operating expenses £25,200. Gross profit £36,000 (**40%**); operating profit £10,800 (**12%**).
+- Example: Zelmore has revenue £90,000, cost of sales £54,000 and operating expenses £25,200. Gross profit £36,000 (**40%**); operating profit £10,800 (**12%**). With capital employed of £320,000 (above), ROCE = 10,800 ÷ 320,000 × 100 = **3.4%**.
+- Limitations of financial reporting: historic figures; leaves out morale, brand reputation and environmental impact.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
@@ -168,11 +178,11 @@ Value of break-even: simple, supports pricing and risk judgements. Limits: assum
 </figure>
 
 
-## Payables, receivables and timing
+## Cash flow and liquidity
 
 - Cash trouble arises when payables are paid before receivables arrive.
-- Remedies: negotiate longer terms with suppliers, give customers an incentive to pay early, chase late payers, use debt factoring.
-- Risks of remedies: suppliers may refuse, discounts cut income, tough terms may lose customers, factoring costs a fee.
+- Liquidity ratios: current ratio, acid test ratio, payables days, receivables days (formulas above).
+- Example: current assets £60,000 including inventory £18,000; current liabilities £30,000. Current ratio = **2.0**; acid test = 42,000 ÷ 30,000 = **1.4**.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--07-cash-gap-days.webp" width="900" height="930" alt="A copper bar of 20 days (payables days) and a teal bar of 35 days (receivables days) share a day scale. The 15 days between them is a cash gap the business must finance." loading="lazy">
@@ -184,21 +194,22 @@ Value of break-even: simple, supports pricing and risk judgements. Limits: assum
 
 | Source | Internal or external | Best for | Main drawback |
 |---|---|---|---|
-| Overdraft | External | Short-term gaps | Costly if used for long |
-| Debt factoring | External | Releasing cash from unpaid invoices | Fee; loss of some control |
-| Loan | External | Medium and long-term assets | Interest and repayment commitment |
-| Retained profits | Internal | Long-term growth without outside help | Limited by profits earned |
+| Owners' investment | Internal | Start-ups and small firms | Limited by owners' wealth |
+| Retained profits | Internal | Growth without outside help | Limited by profits earned |
+| Sale of assets | Internal | Raising cash from unused assets | Asset is lost; forced sales fetch less |
+| Sale and leaseback | Internal | Releasing cash from assets still needed | Lease payments; asset no longer owned |
+| Working capital | Internal | Freeing cash from inventory and receivables | Too little leaves orders or bills unmet |
+| Trade credit | External | Paying for supplies later | Strains supplier relations if abused |
 | Share capital | External | Long-term funds with no repayment | Dilutes ownership |
-| Venture capital | External | Risky, fast-growing firms | Investor takes a share and a say |
+| Overdraft | External | Short-term gaps | Costly if used for long; can be withdrawn |
+| Loans | External | Medium and long-term assets | Interest and repayment commitment |
+| Business angels | External | Small, growing firms needing money and advice | Angel takes a share of ownership |
+| Private equity | External | Large sums for growth or buy-outs | Investors want high returns and control |
+| Crowd funding | External | Raising many small sums online | Fees, effort, and the target may be missed |
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--08-factoring-example.webp" width="900" height="1020" alt="A bar of £60,000 unpaid invoices shows an 80% advance of £48,000 arriving at once and £12,000 later, less a £1,200 fee. A second bar shows the total received, £58,800. Rates are marked as invented." loading="lazy">
   <figcaption>Factoring brings cash early at the cost of a fee.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--09-sources-by-time.webp" width="900" height="784" alt="Grid of six sources by internal or external and short, medium to long or long term, matching the lesson table." loading="lazy">
-  <figcaption>Match the source to the time need.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -214,9 +225,9 @@ Value of break-even: simple, supports pricing and risk judgements. Limits: assum
 
 ## Improving cash flow and profit
 
-- Cash flow: collect faster, pay later, hold less stock, delay purchases, borrow short term.
-- Profit and profitability: higher price or volume, lower costs, better product mix, higher productivity.
-- Difficulties: price rises may cut demand, discounts reduce income, supplier relations may suffer, and cost cuts can lower quality.
+- Cash flow (the specification's list): debt factoring, shortening payment time from customers, early payment incentives, credit checks, increasing payment time to suppliers, reducing outgoings, better invoice management.
+- Gross and operating profit: increase revenue and/or decrease costs.
+- Difficulties: factoring costs a fee, discounts reduce income, tough terms may lose customers, suppliers may refuse longer terms, price rises may cut demand, and cost cuts can lower quality.
 - A recommendation needs a figure, a reason and a risk.
 
 <figure class="topic-figure">
@@ -225,9 +236,9 @@ Value of break-even: simple, supports pricing and risk judgements. Limits: assum
 </figure>
 
 
-## Context to bring to answers
+## Assessing financial position and performance
 
-Technology (for example crowd funding), market conditions and competition, ethical and environmental influences, competitiveness, and links to marketing, operations and people management. Use data from the case and say how reliable it is.
+Judge profits and margins, ROCE, ROI, cash flow and liquidity, gearing, shareholder rewards (dividend per share and dividend yield), break-even output, margin of safety and budget variances **relative to** objectives, competitors, business plans and the context of the business. Use data from the case and say how reliable it is.
 
 ## Quick self-test
 
@@ -239,7 +250,7 @@ Technology (for example crowd funding), market conditions and competition, ethic
 6. A cost budget is £18,000 and actual spending is £16,200. State the variance and whether it is favourable or adverse.
 7. A business has revenue £90,000 and cost of sales £54,000. Find the gross profit margin.
 8. Opening cash £4,000, cash in £12,500, cash out £15,800. Find the closing balance.
-9. Long-term debt is £80,000 and equity is £240,000. Find debt as a proportion of long-term funding.
+9. Non-current liabilities are £80,000 and total equity is £240,000. Find gearing.
 10. Give one internal source of finance and one external source.
 11. State one difference between cash flow and profit.
 12. Define receivables.
@@ -251,11 +262,11 @@ Technology (for example crowd funding), market conditions and competition, ethic
 3. Margin of safety 700; 700 ÷ 4,200 × 100 = **16.7%**.
 4. Fixed costs £61,600; 61,600 ÷ 16 = **3,850 units**.
 5. Contribution £20; 56,000 ÷ 20 = **2,800 units**.
-6. **£1,800 favourable**.
+6. 18,000 − 16,200 = **£1,800 favourable** (spending was below budget).
 7. Gross profit £36,000; 36,000 ÷ 90,000 × 100 = **40%**.
 8. 4,000 + 12,500 − 15,800 = **£700**.
 9. 80,000 ÷ 320,000 × 100 = **25%**.
-10. Internal: retained profits. External: any of overdraft, debt factoring, loan, share capital or venture capital.
+10. Internal: any of owners' investment, retained profits, sale of assets, sale and leaseback or working capital. External: any of trade credit, share capital, overdraft, loans, business angels, private equity or crowd funding.
 11. Profit counts revenue earned whether or not cash has been received; cash flow records only money actually moving.
 12. Customers who owe the business money for goods or services supplied on credit.
 
@@ -272,4 +283,4 @@ Technology (for example crowd funding), market conditions and competition, ethic
 
 ## Official syllabus
 
-AQA AS Business (7137), 3.1.4 Financial management, for first teaching from September 2026. Content points come from sections 3.5.1 to 3.5.4 of AQA's earlier specification (7131/7132, version 1.0, 2014); the 7137 text was not available to check.
+AQA AS and A-level Business (7137, 7138) specification, Version 1.1 (November 2025), for first teaching from September 2026: section 3.1.4 Financial management and Annex 7, Formulae and key data. Checked against these notes on 5 November 2026.
