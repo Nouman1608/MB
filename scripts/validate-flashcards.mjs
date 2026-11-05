@@ -121,7 +121,9 @@ for (const deck of FLASHCARD_DECKS) {
         if (!r) problems.push(`${c}: source '${card.source}' is not a resource`);
         else {
           if (r.type !== 'revision-notes') problems.push(`${c}: source '${card.source}' is ${r.type}, not revision-notes`);
-          if (!r.codes.includes(deck.syllabusCode)) problems.push(`${c}: source '${card.source}' is not written for ${deck.syllabusCode}`);
+          // A dual code such as '9625 / 9725' matches a page tagged with either part.
+          const deckCodes = deck.syllabusCode.split(/\s*\/\s*/);
+          if (!r.codes.some((x) => deckCodes.includes(x))) problems.push(`${c}: source '${card.source}' is not written for ${deck.syllabusCode}`);
           const maps = r.mappings.some((m) => m.qualification === deck.qualificationSlug && m.topic === card.topic && (!card.subtopic || m.subtopic === card.subtopic));
           if (!maps) problems.push(`${c}: source '${card.source}' does not map to ${scope}`);
         }
