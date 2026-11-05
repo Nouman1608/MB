@@ -73,16 +73,25 @@ affected cards were checked against the new pages and the specifications (YBI11 
 
 ## Still open
 
-- **Teacher review of each deck** (`deckReview`), starting with the newest cards: the cards added
-  from the specification alone for H420 2.1.4–2.1.6, 8461 4.2.2.3–4.2.3.2, 4.3.2, 4.6.4, 4.7.5,
-  7402 3.2.2–3.2.4, 3.4.7, 3.8.3, 8136 3.2.2.2 onwards, and 8132 3.2.6 (no Marlbridge page covers
-  these yet).
-- **New pages needed**: the subtopics just listed have no Marlbridge revision notes.
-- **Images**: the 9215 ratio-bars figure still shows 15.0% (profit for the year); the caption
-  corrects it, but the image should be redrawn.
+- **Teacher review of each deck** (`deckReview`), starting with the cards on the subtopics added
+  on 5 Nov 2026 (H420 2.1.4–2.1.6, 8461 4.2.2.3–4.2.3.2, 7402 3.2.2–3.2.4, 8136 3.2.2.2 onwards,
+  8132 3.2.6) and the 20 new review-pending revision-notes pages written for them.
+- New pages and the redrawn figure are listed under "Done since" below.
 - **IB**: HL/SL calls and IB content rest on the course's own pages, since the IB guides could not
   be read.
 - **Judgement calls to confirm**: J249 P2.2l (F = Δp/Δt) kept Higher; collinear resultants left
   both tiers; 9215 sole-trader ROCE (no official definition found).
 - **YEC11 WEC11/01 pages** carry a unit code instead of YEC11, as the WEC12/01 pages did.
 - **Large subtopics** that could be trimmed: up to 19 cards (9260 3.2.2).
+
+## Done since (5 Nov 2026, later)
+
+- **Revision notes for every new subtopic** — 20 review-pending pages written to the official
+  specifications: OCR H420 2.1.4–2.1.6 (3 pages); AQA 7402 3.2.2–3.2.4 (3); AQA 8461
+  4.2.2.3–4.2.3.2 (5); AQA 8136 3.2.2.2–3.2.5.2 (8); AQA 8132 3.2.6 (1). Every subtopic of every
+  flashcard course now has a revision-notes page. The cards on these subtopics were re-checked
+  against the pages and cite them; four cards were corrected (7402 3.2.2-2, 3.2.3-4, 3.2.4-3;
+  8132 3.2.6-5) and new cards were added.
+- **9215 figure redrawn** — the revenue-to-profit figure is now an SVG in
+  `public/images/learning/accounting/` showing profit in relation to revenue 16.7% and ROCE 25.6%,
+  both from profit from operations, as the mark scheme does.

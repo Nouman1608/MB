@@ -1,6 +1,6 @@
 ---
 title: "AQA A-level Biology: Transport Across Cell Membranes and Required Practicals 3 and 4 (7402) -- Revision Notes"
-seoTitle: "AQA A-level Biology Transport Across Membranes Revision Notes"
+seoTitle: "AQA A-level Biology Membrane Transport Revision Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["a-levels"]
