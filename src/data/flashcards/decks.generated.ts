@@ -63,6 +63,7 @@ import { DECK_OCR_GCSE_ECONOMICS } from './ocr-gcse-economics.ts';
 import { DECK_OCR_GCSE_MATHEMATICS } from './ocr-gcse-mathematics.ts';
 import { DECK_OCR_GCSE_PHYSICS } from './ocr-gcse-physics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_BIOLOGY } from './oxfordaqa-a-level-biology.ts';
+import { DECK_OXFORDAQA_A_LEVEL_BUSINESS } from './oxfordaqa-a-level-business.ts';
 import { DECK_OXFORDAQA_A_LEVEL_CHEMISTRY } from './oxfordaqa-a-level-chemistry.ts';
 import { DECK_OXFORDAQA_A_LEVEL_ECONOMICS } from './oxfordaqa-a-level-economics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_MATHEMATICS } from './oxfordaqa-a-level-mathematics.ts';
@@ -136,6 +137,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OCR_GCSE_MATHEMATICS,
   DECK_OCR_GCSE_PHYSICS,
   DECK_OXFORDAQA_A_LEVEL_BIOLOGY,
+  DECK_OXFORDAQA_A_LEVEL_BUSINESS,
   DECK_OXFORDAQA_A_LEVEL_CHEMISTRY,
   DECK_OXFORDAQA_A_LEVEL_ECONOMICS,
   DECK_OXFORDAQA_A_LEVEL_MATHEMATICS,
