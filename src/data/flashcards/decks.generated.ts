@@ -13,6 +13,7 @@ import { DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS } from './cambridge-o-level-mathemat
 import { DECK_CAMBRIDGE_O_LEVEL_PHYSICS } from './cambridge-o-level-physics.ts';
 import { DECK_EDEXCEL_IGCSE_CHEMISTRY } from './edexcel-igcse-chemistry.ts';
 import { DECK_OCR_GCSE_CHEMISTRY } from './ocr-gcse-chemistry.ts';
+import { DECK_OXFORDAQA_A_LEVEL_CHEMISTRY } from './oxfordaqa-a-level-chemistry.ts';
 import { DECK_OXFORDAQA_A_LEVEL_PHYSICS } from './oxfordaqa-a-level-physics.ts';
 
 export const GENERATED_DECKS: readonly FlashcardDeck[] = [
@@ -29,5 +30,6 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_O_LEVEL_PHYSICS,
   DECK_EDEXCEL_IGCSE_CHEMISTRY,
   DECK_OCR_GCSE_CHEMISTRY,
+  DECK_OXFORDAQA_A_LEVEL_CHEMISTRY,
   DECK_OXFORDAQA_A_LEVEL_PHYSICS,
 ];
