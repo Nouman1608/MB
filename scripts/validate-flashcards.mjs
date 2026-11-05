@@ -14,8 +14,29 @@
  * can be published topic by topic. Run: npm run validate:flashcards
  */
 import { readFileSync, existsSync } from 'node:fs';
-import { FLASHCARD_DECKS } from '../src/data/flashcards/index.ts';
+import { resolve } from 'node:path';
+import { pathToFileURL } from 'node:url';
 import { SYLLABUS_VERSIONS } from '../src/data/academic/syllabus-topics.ts';
+import { render as renderIndex } from './generate-flashcard-index.mjs';
+
+/**
+ * `--file <deck.ts>` validates just that deck file (it need not be registered
+ * yet) -- the mode used while a deck is being written. Without it, every
+ * registered deck is checked and the registry must be up to date.
+ */
+const fileArg = process.argv.indexOf('--file');
+let FLASHCARD_DECKS;
+const preProblems = [];
+if (fileArg !== -1) {
+  const mod = await import(pathToFileURL(resolve(process.argv[fileArg + 1])).href);
+  FLASHCARD_DECKS = Object.entries(mod).filter(([k]) => k.startsWith('DECK_')).map(([, v]) => v);
+  if (FLASHCARD_DECKS.length !== 1) preProblems.push(`${process.argv[fileArg + 1]}: must export exactly one DECK_ constant`);
+} else {
+  FLASHCARD_DECKS = (await import('../src/data/flashcards/index.ts')).FLASHCARD_DECKS;
+  const onDisk = existsSync('src/data/flashcards/decks.generated.ts') ? readFileSync('src/data/flashcards/decks.generated.ts', 'utf8') : '';
+  if (onDisk !== renderIndex()) preProblems.push('src/data/flashcards/decks.generated.ts is out of date — run: npm run generate:flashcards');
+}
+const TIER_SCHEMES = ['core-extended', 'foundation-higher', 'sl-hl', 'standard-extended'];
 
 const FRONT_MAX = 180;
 const BACK_MAX = 420;
@@ -36,7 +57,7 @@ function resourceInfo(id) {
   return { type: fm.match(/^resourceType:\s*"([^"]+)"/m)?.[1], codes, mappings };
 }
 
-const problems = [];
+const problems = [...preProblems];
 const notes = [];
 const seenDecks = new Set();
 
@@ -51,6 +72,10 @@ for (const deck of FLASHCARD_DECKS) {
   if (version.syllabusCode !== deck.syllabusCode) problems.push(`${at}: syllabusCode ${deck.syllabusCode} does not match the current version's ${version.syllabusCode}`);
   if (version.syllabusSeries !== deck.syllabusSeries) problems.push(`${at}: series '${deck.syllabusSeries}' is not the current series '${version.syllabusSeries}' — a deck must not silently span series`);
 
+  if (deck.tierScheme !== undefined) {
+    if (!TIER_SCHEMES.includes(deck.tierScheme)) problems.push(`${at}: unknown tierScheme '${deck.tierScheme}'`);
+    if (!version.tiered) problems.push(`${at}: tierScheme set, but the syllabus record is not tiered`);
+  }
   if (!existsSync(`src/content/authors/${deck.author}.md`)) problems.push(`${at}: author '${deck.author}' has no profile in src/content/authors/`);
   if (!/^\d{4}-\d{2}-\d{2}$/.test(deck.updated) || deck.updated > today) problems.push(`${at}: updated '${deck.updated}' must be an ISO date that is not in the future`);
   if (deck.deckReview) {
@@ -83,9 +108,10 @@ for (const deck of FLASHCARD_DECKS) {
     const scope = `${card.topic}/${card.subtopic ?? ''}`;
     perSubtopic.set(scope, (perSubtopic.get(scope) ?? 0) + 1);
 
-    if (card.tier === 'supplement') {
-      if (!version.tiered) problems.push(`${c}: tier 'supplement' on a syllabus that is not tiered`);
-      else if (sub?.tier === 'core') problems.push(`${c}: tier 'supplement' on subtopic ${sub.number}, whose outcomes are all Core`);
+    if (card.tier !== undefined) {
+      if (card.tier !== 'upper') problems.push(`${c}: tier must be 'upper' or absent`);
+      else if (!deck.tierScheme) problems.push(`${c}: tier 'upper' needs the deck to set tierScheme`);
+      else if (deck.tierScheme === 'core-extended' && sub?.tier === 'core') problems.push(`${c}: tier 'upper' (Extended) on subtopic ${sub.number}, whose outcomes are all Core`);
     }
 
     if (card.origin === 'revision-notes') {

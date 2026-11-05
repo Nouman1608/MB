@@ -27,7 +27,7 @@ import { track } from './catalogue-client';
 
 interface Card { id: string; f: string; b: string; g: string; sup: boolean }
 interface Group { key: string; label: string }
-interface Data { code: string; scope: 'course' | 'topic'; tiered: boolean; groupNoun: string; groups: Group[]; cards: Card[] }
+interface Data { code: string; scope: 'course' | 'topic'; badge: string; groupNoun: string; groups: Group[]; cards: Card[] }
 interface Store { v: 1; cards: Record<string, { k: 0 | 1; t: string }> }
 
 const dataEl = document.getElementById('fc-data');
@@ -134,7 +134,7 @@ function init(d: Data): void {
     current = id;
     revealed = false;
     groupEl.textContent = groupLabel.get(c.g) ?? '';
-    tierEl.hidden = !(d.tiered && c.sup);
+    tierEl.hidden = !c.sup;
     frontEl.textContent = c.f;
     backEl.textContent = c.b;
     backWrap.hidden = true;

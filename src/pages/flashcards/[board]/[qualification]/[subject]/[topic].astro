@@ -8,7 +8,7 @@ import PageLayout from '../../../../../layouts/PageLayout.astro';
 import Section from '../../../../../components/layout/Section.astro';
 import Container from '../../../../../components/layout/Container.astro';
 import FlashcardStudy from '../../../../../components/tools/FlashcardStudy.astro';
-import { FLASHCARD_DECKS, flashcardsPath, cardsForTopic, type FlashcardDeck } from '../../../../../data/flashcards';
+import { FLASHCARD_DECKS, flashcardsPath, deckStorageId, codeSuffix, cardsForTopic, type FlashcardDeck } from '../../../../../data/flashcards';
 import { topicsFor, type SyllabusTopic } from '../../../../../data/academic/syllabus-topics';
 import { activeOnly, academicHubPath, type Combination } from '../../../../../utils/academic';
 import { topicAnchor } from '../../../../../utils/academic/course-topics';
@@ -24,17 +24,19 @@ export function getStaticPaths() {
     const withCards = version.topics.filter((t) => cardsForTopic(deck, t.slug).length > 0);
     return withCards.map((topic, i) => ({
       params: { board: deck.boardSlug, qualification: deck.qualificationSlug, subject: deck.subjectSlug, topic: topic.slug },
-      props: { deck, c, topic, tiered: version.tiered, prev: withCards[i - 1], next: withCards[i + 1] },
+      props: { deck, c, topic, prev: withCards[i - 1], next: withCards[i + 1] },
     }));
   });
 }
 
-interface P { deck: FlashcardDeck; c: Combination; topic: SyllabusTopic; tiered: boolean; prev?: SyllabusTopic; next?: SyllabusTopic }
-const { deck, c, topic, tiered, prev, next } = Astro.props as P;
+interface P { deck: FlashcardDeck; c: Combination; topic: SyllabusTopic; prev?: SyllabusTopic; next?: SyllabusTopic }
+const { deck, c, topic, prev, next } = Astro.props as P;
 const path = flashcardsPath(deck, topic.slug);
 const coursePath = flashcardsPath(deck);
 const hub = academicHubPath(c);
 const topicCards = cardsForTopic(deck, topic.slug);
+const cs = codeSuffix(deck);
+const codeWord = cs ? deck.syllabusCode : `${c.qualification} ${c.subject}`;
 const groups = topic.subtopics.length > 0
   ? topic.subtopics.filter((s) => topicCards.some((x) => x.subtopic === s.slug)).map((s) => ({ key: s.slug, label: `${s.number} ${s.name}` }))
   : [{ key: topic.slug, label: `Topic ${topic.number}: ${topic.name}` }];
@@ -51,22 +53,22 @@ const study = (['learn', 'review', 'practice'] as const).flatMap((k) => {
 });
 ---
 <PageLayout
-  title={`${topic.name} Flashcards — ${c.subject} ${deck.syllabusCode}`}
-  description={`${topicCards.length} free flashcards on ${topic.name} for ${c.board} ${c.qualification} ${c.subject} ${deck.syllabusCode} (${deck.syllabusSeries})${topic.subtopics.length ? `, covering ${topic.subtopics.map((s) => s.number).join(', ')}` : ''}.`}
+  title={`${topic.name} Flashcards — ${cs ? `${c.subject} ${deck.syllabusCode}` : codeWord}`}
+  description={`${topicCards.length} free flashcards on ${topic.name} for ${c.board} ${c.qualification} ${c.subject}${cs ? ` ${deck.syllabusCode}` : ''} (${deck.syllabusSeries})${topic.subtopics.length ? `, covering ${topic.subtopics.map((s) => s.number).join(', ')}` : ''}.`}
   path={path}
-  eyebrow={`Flashcards · ${c.subject} ${deck.syllabusCode} · ${topicWord}`}
+  eyebrow={`Flashcards · ${codeWord} · ${topicWord}`}
   heading={`${topic.name} flashcards`}
   lead={`${topicCards.length} cards on ${topicWord}${topic.subtopics.length ? `, subtopics ${topic.subtopics[0].number} to ${topic.subtopics[topic.subtopics.length - 1].number}` : ''}. Pick a subtopic or study them all.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Flashcards', href: '/flashcards/' },
-    { label: `${c.subject} (${deck.syllabusCode})`, href: coursePath },
+    { label: `${c.qualification} ${c.subject}${cs}`, href: coursePath },
     { label: topic.name, href: path },
   ]}
 >
   <Section surface="white" spacing="md">
     <Container>
-      <FlashcardStudy code={deck.syllabusCode} scope="topic" tiered={tiered} groupNoun="subtopic" groups={groups} cards={cards} />
+      <FlashcardStudy code={deckStorageId(deck)} scope="topic" tierScheme={deck.tierScheme} groupNoun="subtopic" groups={groups} cards={cards} />
     </Container>
   </Section>
 
@@ -85,8 +87,8 @@ const study = (['learn', 'review', 'practice'] as const).flatMap((k) => {
       <nav aria-label="Other topics" class="mt-8 flex flex-wrap gap-x-6 gap-y-3 text-[14.5px]">
         {prev && <a href={flashcardsPath(deck, prev.slug)} class="underline decoration-teal-500 underline-offset-2">← Topic {prev.number}: {prev.name}</a>}
         {next && <a href={flashcardsPath(deck, next.slug)} class="underline decoration-teal-500 underline-offset-2">Topic {next.number}: {next.name} →</a>}
-        <a href={coursePath} class="underline decoration-teal-500 underline-offset-2">All {deck.syllabusCode} flashcards</a>
-        <a href={`${hub}#${topicAnchor(topic.slug)}`} class="underline decoration-teal-500 underline-offset-2">{topic.name} on the {deck.syllabusCode} course page</a>
+        <a href={coursePath} class="underline decoration-teal-500 underline-offset-2">All {codeWord} flashcards</a>
+        <a href={`${hub}#${topicAnchor(topic.slug)}`} class="underline decoration-teal-500 underline-offset-2">{topic.name} on the {codeWord} course page</a>
       </nav>
     </Container>
   </Section>

@@ -43,15 +43,26 @@ export interface Flashcard {
   /** The answer, as a student should be able to say it. */
   back: string;
   /**
-   * Tiered syllabuses only (0620 Core/Extended): 'supplement' marks a card on
-   * Supplement (Extended-only) content, so Core candidates can leave it out.
-   * Must not be set on a subtopic whose outcomes are all Core.
+   * Tiered decks only: 'upper' marks a card on content for the UPPER tier of
+   * the deck's `tierScheme` only (Extended/Supplement, Higher tier, HL or MYP
+   * Extended), so students on the lower tier can hide it. On a Core/Extended
+   * syllabus it must not be set on a subtopic whose outcomes are all Core.
    */
-  tier?: 'supplement';
+  tier?: 'upper';
   origin: 'authored' | 'revision-notes';
   /** Resource id (file name without .md) the card restates; required when origin is 'revision-notes'. */
   source?: string;
 }
+
+export type TierScheme = 'core-extended' | 'foundation-higher' | 'sl-hl' | 'standard-extended';
+
+/** Words shown for each scheme: the filter ("Core only") and the badge on an upper-tier card. */
+export const TIER_LABELS: Record<TierScheme, { lower: string; upper: string; badge: string }> = {
+  'core-extended': { lower: 'Core', upper: 'Extended (Supplement)', badge: 'Extended' },
+  'foundation-higher': { lower: 'Foundation', upper: 'Higher tier', badge: 'Higher' },
+  'sl-hl': { lower: 'SL', upper: 'HL', badge: 'HL' },
+  'standard-extended': { lower: 'Standard', upper: 'Extended', badge: 'Extended' },
+};
 
 export interface FlashcardDeck {
   boardSlug: string;
@@ -60,6 +71,15 @@ export interface FlashcardDeck {
   syllabusCode: string;
   /** Must equal the current SyllabusVersion.syllabusSeries -- a deck never silently spans series. */
   syllabusSeries: string;
+  /**
+   * Set when the syllabus has two tiers and some cards are upper-tier only:
+   *   'core-extended'      Cambridge IGCSE Core / Extended (Supplement)
+   *   'foundation-higher'  GCSE / International GCSE Foundation / Higher tier
+   *   'sl-hl'              IB Diploma SL / HL
+   *   'standard-extended'  IB MYP Mathematics standard / extended
+   * Requires the SyllabusVersion to be `tiered`.
+   */
+  tierScheme?: TierScheme;
   /** Author profile slug (src/content/authors/). */
   author: string;
   /** ISO date the deck was published or last materially changed. */

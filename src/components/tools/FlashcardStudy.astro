@@ -5,24 +5,26 @@
  * prints, and is what search engines read); src/scripts/flashcard-ui.ts adds
  * the one-card-at-a-time study mode on top.
  */
-import type { Flashcard } from '../../data/flashcards/types';
+import { TIER_LABELS, type Flashcard, type TierScheme } from '../../data/flashcards/types';
 
 interface Group { key: string; label: string }
 interface Props {
+  /** Storage id (deckStorageId) and analytics course code. */
   code: string;
   scope: 'course' | 'topic';
-  tiered: boolean;
+  tierScheme?: TierScheme;
   /** 'subtopic' on a topic page, 'topic' on the course page. */
   groupNoun: 'subtopic' | 'topic';
   groups: Group[];
   /** Cards in syllabus order, each with the key of the group it is listed under. */
   cards: (Flashcard & { group: string })[];
 }
-const { code, scope, tiered, groupNoun, groups, cards } = Astro.props;
-const hasSupplement = tiered && cards.some((c) => c.tier === 'supplement');
+const { code, scope, tierScheme, groupNoun, groups, cards } = Astro.props;
+const tl = tierScheme ? TIER_LABELS[tierScheme] : undefined;
+const hasUpper = !!tl && cards.some((c) => c.tier === 'upper');
 const payload = JSON.stringify({
-  code, scope, tiered, groupNoun, groups,
-  cards: cards.map((c) => ({ id: c.id, f: c.front, b: c.back, g: c.group, sup: c.tier === 'supplement' })),
+  code, scope, groupNoun, groups, badge: tl?.badge ?? '',
+  cards: cards.map((c) => ({ id: c.id, f: c.front, b: c.back, g: c.group, sup: !!tl && c.tier === 'upper' })),
 }).replace(/</g, '\\u003c');
 const btn = 'inline-flex min-h-11 items-center justify-center rounded-sm px-5 text-[14.5px] font-medium transition-colors';
 const primary = `${btn} bg-navy-800 text-ivory hover:bg-navy-700 disabled:cursor-not-allowed disabled:opacity-50`;
@@ -42,8 +44,8 @@ const listed = groups.map((g) => ({ ...g, cards: cards.filter((c) => c.group ===
       {groups.map((g) => <option value={g.key}>{g.label}</option>)}
     </select>
     <div class="mt-4 grid gap-2.5 text-[15px]">
-      {hasSupplement && (
-        <label class="flex items-start gap-2.5"><input id="fc-core" type="checkbox" class="mt-1 size-4" /> <span>Core only <span class="text-ink-mute">— hide the Extended (Supplement) cards</span></span></label>
+      {hasUpper && (
+        <label class="flex items-start gap-2.5"><input id="fc-core" type="checkbox" class="mt-1 size-4" /> <span>{tl!.lower} only <span class="text-ink-mute">— hide the {tl!.upper} cards</span></span></label>
       )}
       <label class="flex items-start gap-2.5"><input id="fc-unknown" type="checkbox" class="mt-1 size-4" /> <span>Only cards I have not got yet</span></label>
       <label class="flex items-start gap-2.5"><input id="fc-shuffle" type="checkbox" checked class="mt-1 size-4" /> <span>Shuffle</span></label>
@@ -72,7 +74,7 @@ const listed = groups.map((g) => ({ ...g, cards: cards.filter((c) => c.group ===
   <article class="rounded-sm border border-rule bg-white p-[clamp(20px,3.4vw,40px)]" aria-labelledby="fc-front">
     <div class="flex flex-wrap items-center gap-2">
       <span id="fc-card-group" class="mb-label text-teal-700"></span>
-      <span id="fc-card-tier" hidden class="rounded-full bg-teal-50 px-2.5 py-0.5 text-[12.5px] font-medium text-teal-800">Extended</span>
+      <span id="fc-card-tier" hidden class="rounded-full bg-teal-50 px-2.5 py-0.5 text-[12.5px] font-medium text-teal-800">{tl?.badge}</span>
     </div>
     <p id="fc-front" class="fc-text m-0 mt-4 min-h-[3.2em] text-[clamp(19px,1.2rem+0.6vw,24px)] font-semibold leading-[1.4] text-navy-800"></p>
     <div id="fc-back-wrap" hidden class="mt-5 border-t border-rule pt-5">
@@ -105,14 +107,14 @@ const listed = groups.map((g) => ({ ...g, cards: cards.filter((c) => c.group ===
 
 <section class="mt-12" aria-labelledby="fc-all-heading">
   <h2 id="fc-all-heading" class="m-0 text-[length:var(--text-h3)] font-semibold text-navy-800">All {cards.length} cards</h2>
-  <p class="m-0 mt-1 text-[14.5px] text-ink-mute">For a quick read-through or printing. Cover the right-hand side to test yourself.{hasSupplement && ' Cards marked Extended are Supplement content.'}</p>
+  <p class="m-0 mt-1 text-[14.5px] text-ink-mute">For a quick read-through or printing. Cover the right-hand side to test yourself.{hasUpper && ` Cards marked ${tl!.badge} are ${tl!.upper} content only.`}</p>
   {listed.map((g) => (
     <div class="mt-6">
       <h3 class="m-0 mb-2 text-[16px] font-semibold text-navy-800">{g.label}</h3>
       <dl class="m-0 divide-y divide-rule rounded-sm border border-rule bg-white">
         {g.cards.map((c) => (
           <div class="grid gap-1 px-4 py-3 sm:grid-cols-[minmax(0,2fr)_minmax(0,3fr)] sm:gap-6">
-            <dt class="fc-text m-0 text-[15px] font-medium text-navy-800">{c.front}{tiered && c.tier === 'supplement' && <span class="ms-2 rounded-full bg-teal-50 px-2 py-0.5 text-[12px] font-medium text-teal-800">Extended</span>}</dt>
+            <dt class="fc-text m-0 text-[15px] font-medium text-navy-800">{c.front}{hasUpper && c.tier === 'upper' && <span class="ms-2 rounded-full bg-teal-50 px-2 py-0.5 text-[12px] font-medium text-teal-800">{tl!.badge}</span>}</dt>
             <dd class="fc-text m-0 text-[15px] text-ink">{c.back}</dd>
           </div>
         ))}
