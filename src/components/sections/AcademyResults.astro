@@ -22,8 +22,10 @@ import Button from '../ui/Button.astro';
 import { LA_EVIDENCE as E } from '../../data/learners-academy-evidence';
 import { routes } from '../../utils/urls/routes';
 
-interface Props { surface?: 'white' | 'ivory'; showCta?: boolean }
-const { surface = 'white', showCta = true } = Astro.props;
+/** D-438: `mobileTestimonials` limits how many quotes show below the sm
+ * breakpoint (all stay in the page). Omitted = show every quote, as before. */
+interface Props { surface?: 'white' | 'ivory'; showCta?: boolean; mobileTestimonials?: number }
+const { surface = 'white', showCta = true, mobileTestimonials } = Astro.props;
 
 const maxCount = Math.max(...E.grades.map((g) => g.count));
 ---
@@ -62,8 +64,8 @@ const maxCount = Math.max(...E.grades.map((g) => g.count));
       <div>
         <p class="m-0 mb-label text-teal-700">In their own words</p>
         <ul class="m-0 mt-5 grid list-none gap-4 p-0 sm:grid-cols-2">
-          {E.testimonials.map((t) => (
-            <li class="m-0">
+          {E.testimonials.map((t, i) => (
+            <li class:list={['m-0', mobileTestimonials !== undefined && i >= mobileTestimonials && 'max-sm:hidden']}>
               <figure class="m-0 flex h-full flex-col rounded-sm border border-rule p-5">
                 <blockquote class="m-0 text-[15.5px] leading-[1.65] text-ink">&ldquo;{t.quote}&rdquo;</blockquote>
                 <figcaption class="mt-4 text-[13.5px] text-ink-mute">

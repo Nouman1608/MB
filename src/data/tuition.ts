@@ -96,7 +96,8 @@ export const TUITION_FAQS: readonly { question: string; answer: string }[] = [
   },
   {
     question: 'Can I be taught online?',
-    answer: 'Yes. Marlbridge teaches in person in Pakistan and online everywhere else, with lesson times agreed in your own time zone.',
+    // D-438: online-first answer (shared by /, /tutoring/ and program pages).
+    answer: 'Yes. Classes are taught live online wherever you are, one-to-one or in small groups, with lesson times agreed in your own time zone.',
   },
   {
     question: 'When do I start paying?',

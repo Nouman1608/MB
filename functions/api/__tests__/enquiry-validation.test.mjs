@@ -207,22 +207,32 @@ test('validateEnquiry: trial drops out-of-list values instead of trusting them',
   assert.equal(badFormat.ok, false);
 });
 
-// D-293 -- every visible field on the English form is compulsory.
-test('validateEnquiry: trial with a typed subject also needs board, format and phone', () => {
+// D-438 (relaxing D-293) -- on the English form only subjects, name, email and
+// country are compulsory; board and format default, phone is optional.
+test('validateEnquiry: trial with a typed subject needs only name, email and country', () => {
   const r = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'A Level Maths' });
-  assert.equal(r.ok, false);
-  if (!r.ok) {
-    assert.ok(r.errors.board);
-    assert.ok(r.errors.format);
-    assert.ok(r.errors.phone);
+  assert.equal(r.ok, true);
+  if (r.ok) {
+    assert.equal(r.data.board, 'not-sure');
+    assert.equal(r.data.format, 'help-me-decide');
+    assert.equal('phone' in r.data && r.data.phone !== '', false);
   }
-  const badBoard = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phone: '03001234567', country: 'PK', subject: 'A Level Maths', board: 'made-up', format: 'group' });
-  assert.equal(badBoard.ok, false);
-  if (!badBoard.ok) assert.ok(badBoard.errors.board);
-  const shortPhone = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phone: '12345', country: 'PK', subject: 'A Level Maths', board: 'cambridge', format: 'group' });
+  for (const missing of ['name', 'email', 'country']) {
+    const data = { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'A Level Maths' };
+    delete data[missing];
+    const m = validateEnquiry('trial', data);
+    assert.equal(m.ok, false, missing);
+    if (!m.ok) assert.ok(m.errors[missing], missing);
+  }
+  // A tampered board is dropped and treated as "Not sure", never trusted.
+  const badBoard = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'A Level Maths', board: 'made-up', format: 'group' });
+  assert.equal(badBoard.ok, true);
+  if (badBoard.ok) assert.equal(badBoard.data.board, 'not-sure');
+  // A phone number that is given must still look like one.
+  const shortPhone = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phone: '12345', country: 'PK', subject: 'A Level Maths' });
   assert.equal(shortPhone.ok, false);
   if (!shortPhone.ok) assert.ok(shortPhone.errors.phone);
-  // The translated five-field forms (no subject) keep phone optional.
+  // The translated five-field forms (no subject) are unchanged.
   const translated = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', message: 'A Level Maths please' });
   assert.equal(translated.ok, true);
 });

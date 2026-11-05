@@ -17,6 +17,11 @@
  * empty field gets a red * on its label and a message. Preferred times and
  * the message stay folded and optional (owner's choice, 2026-09-23).
  *
+ * D-438 (owner, 5 Nov 2026) relaxes D-293: only subjects, name, email and
+ * country are compulsory. The exam board starts on "Not sure" and the format
+ * on "Help me decide", so both are still shown and can be changed but never
+ * block a send. Phone/WhatsApp is optional, and checked only if filled in.
+ *
  * PRESELECTION (build-time allow-lists; nothing from the URL is shown or
  * submitted unless it matches):
  *   ?course=board/qualification/subject  fills the subject text and the board,
@@ -107,19 +112,18 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       <p id="trial-subject-err" data-error-for="subject" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
-      <label for="trial-board" class={labelCls}>Exam board<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
-      <select id="trial-board" name="board" required class={field} aria-describedby="trial-board-err">
-        <option value="" selected disabled>Choose an exam board</option>
-        {BOARDS.map((b) => <option value={b.value}>{b.label}</option>)}
+      <label for="trial-board" class={labelCls}>Exam board</label>
+      <select id="trial-board" name="board" class={field} aria-describedby="trial-board-err">
+        {BOARDS.map((b) => <option value={b.value} selected={b.value === 'not-sure'}>{b.label}</option>)}
       </select>
       <p id="trial-board-err" data-error-for="board" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <fieldset id="trial-format" tabindex="-1" class="m-0 border-0 p-0 sm:col-span-2" aria-describedby="trial-format-err">
-      <legend class={`mb-2 p-0 ${labelCls}`}>Group classes or one-to-one?<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></legend>
+      <legend class={`mb-2 p-0 ${labelCls}`}>Group classes or one-to-one?</legend>
       <div class="flex flex-wrap gap-2">
         {[['help-me-decide', 'Help me decide'], ['group', `Group (up to ${PRICING_TERMS.maxGroupSize}, fee per month)`], ['one-to-one', 'One-to-one (fee per class)']].map(([v, l]) => (
           <label class="flex min-h-11 cursor-pointer items-center gap-2 rounded-sm border border-rule px-3 text-[14.5px] has-[:checked]:border-navy-800 has-[:checked]:bg-ivory">
-            <input type="radio" name="format" value={v} required class="h-4 w-4" />{l}
+            <input type="radio" name="format" value={v} checked={v === 'help-me-decide'} class="h-4 w-4" />{l}
           </label>
         ))}
       </div>
@@ -141,8 +145,8 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       <p id="trial-email-err" data-error-for="email" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
-      <label for="trial-phone" class={labelCls}>Phone or WhatsApp<span data-req-mark hidden aria-hidden="true" class="text-error"> *</span></label>
-      <input id="trial-phone" name="phone" type="tel" required autocomplete="tel" inputmode="tel" maxlength="30" class={field} placeholder="e.g. +92 300 1234567" aria-describedby="trial-phone-err" />
+      <label for="trial-phone" class={labelCls}>Phone or WhatsApp <span class="font-normal text-ink-mute">(optional)</span></label>
+      <input id="trial-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" maxlength="30" class={field} placeholder="e.g. +92 300 1234567" aria-describedby="trial-phone-err" />
       <p id="trial-phone-err" data-error-for="phone" hidden class="m-0 text-[13.5px] text-error"></p>
     </div>
     <div class="grid gap-1.5">
@@ -322,15 +326,14 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
     const val = (id: string) => form.querySelector<HTMLInputElement>(`#trial-${id}`)!.value.trim();
     const formatVal = () => form.querySelector<HTMLInputElement>('input[name="format"]:checked')?.value ?? '';
     const phoneOk = (v: string) => /^\+?[\d\s\-().]{7,30}$/.test(v) && v.replace(/\D/g, '').length >= 7;
-    // D-293: every visible field is compulsory. An empty one gets a red * on its
-    // label plus a message; the * goes as soon as the field is filled.
+    // D-438 (relaxing D-293): subjects, name, email and country are compulsory.
+    // An empty one gets a red * on its label plus a message. Board and format
+    // start on "Not sure" / "Help me decide"; phone is checked only if given.
     const rules: [string, () => string, () => string | null][] = [
       ['subject', () => val('subject'), () => (val('subject') ? null : 'Please type your subjects, for example "A Level Maths, IGCSE Chemistry".')],
-      ['board', () => val('board'), () => (val('board') ? null : 'Please choose an exam board, or "Not sure".')],
-      ['format', formatVal, () => (formatVal() ? null : 'Please choose group, one-to-one, or "Help me decide".')],
       ['name', () => val('name'), () => (val('name') ? null : 'Please enter your name.')],
       ['email', () => val('email'), () => (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val('email')) ? null : 'Please enter a valid email address.')],
-      ['phone', () => val('phone'), () => (phoneOk(val('phone')) ? null : 'Please enter a phone or WhatsApp number, with the country code if outside Pakistan.')],
+      ['phone', () => val('phone'), () => (!val('phone') || phoneOk(val('phone')) ? null : 'Please enter a phone or WhatsApp number, with the country code if outside Pakistan.')],
       ['country', () => val('country'), () => (val('country') ? null : 'Please tell us your country.')],
     ];
     const mark = (name: string, empty: boolean) => {
