@@ -65,7 +65,7 @@ Where the pieces come from:
 
 - Cost of sales = opening inventory + purchases - closing inventory.
 - Average inventory = (opening inventory + closing inventory) / 2.
-- Profit from operations is the profit before interest on loans is deducted. Profit for the year is after that interest. Profit in relation to revenue and ROCE both use profit from operations, as OxfordAQA's own 9215 mark scheme (Paper 2, May/June 2026) does.
+- Profit from operations is the profit before interest on loans is deducted. Profit for the year is after that interest. Profit in relation to revenue and ROCE both use profit from operations, as OxfordAQA's own 9215 mark scheme (Paper 2, May/June 2026) does. OxfordAQA's 9215 vocabulary list defines profit from operations as the profit for the year before finance charges and taxation, and the 9215 materials give no separate version of ROCE for a sole trader.
 - Capital employed = total assets - current liabilities. This equals equity plus non-current liabilities.
 - Use credit revenue and credit purchases for the days measures. If the question only gives total revenue, say that you have used it.
 

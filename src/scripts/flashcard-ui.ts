@@ -4,7 +4,8 @@
  *
  * Two phases:
  *   setup    choose which cards (a subtopic or topic, Core only, only the
- *            cards not yet marked "Got it", shuffled or in syllabus order)
+ *            cards not yet marked "Got it", shuffled or in syllabus order, and
+ *            10, 20 or all of them per session)
  *   session  one card at a time: show the front, reveal the back, then the
  *            student says "Again" or "Got it". "Again" puts the card back
  *            into the queue (requeueIndex below); "Got it" retires it for
@@ -85,6 +86,9 @@ function init(d: Data): void {
   const coreOnly = $<HTMLInputElement>('fc-core');
   const unknownOnly = $<HTMLInputElement>('fc-unknown');
   const shuffle = $<HTMLInputElement>('fc-shuffle');
+  // Optional: only rendered when the deck has more than 10 cards.
+  const limitSel = document.getElementById('fc-limit') as HTMLSelectElement | null;
+  const sessionLimit = (): number => (limitSel ? Number.parseInt(limitSel.value, 10) || 0 : 0);
   const countEl = $('fc-count');
   const knownEl = $('fc-known');
   const startBtn = $<HTMLButtonElement>('fc-start');
@@ -121,7 +125,7 @@ function init(d: Data): void {
     const n = selection().length;
     countEl.textContent = n === 0
       ? (unknownOnly.checked ? 'You have marked every card in this selection “Got it”. Untick “Only cards I have not got yet” to go through them again.' : 'No cards match this selection.')
-      : `${n} card${n === 1 ? '' : 's'} selected.`;
+      : `${n} card${n === 1 ? '' : 's'} selected${sessionLimit() > 0 && n > sessionLimit() ? `; this session uses ${sessionLimit()}. “Only cards I have not got yet” takes you through the rest next time.` : '.'}`;
     startBtn.disabled = n === 0;
     const scope = d.cards.filter((c) => (groupSel.value === '' || c.g === groupSel.value) && (!coreOnly?.checked || !c.sup));
     const known = scope.filter((c) => store.cards[c.id]?.k === 1).length;
@@ -213,14 +217,16 @@ function init(d: Data): void {
 
   function begin(): void {
     const cards = selection();
-    start((shuffle.checked ? shuffled(cards) : cards).map((c) => c.id));
+    const ordered = (shuffle.checked ? shuffled(cards) : cards).map((c) => c.id);
+    const limit = sessionLimit();
+    start(limit > 0 ? ordered.slice(0, limit) : ordered);
   }
 
   // Deep link from a hub topic or the course page: ?group=<subtopic or topic slug>
   const wanted = new URLSearchParams(window.location.search).get('group');
   if (wanted && d.groups.some((g) => g.key === wanted)) groupSel.value = wanted;
 
-  [groupSel, coreOnly, unknownOnly].forEach((x) => x?.addEventListener('change', refreshSetup));
+  [groupSel, coreOnly, unknownOnly, limitSel].forEach((x) => x?.addEventListener('change', refreshSetup));
   startBtn.addEventListener('click', begin);
   resetBtn.addEventListener('click', () => {
     if (!window.confirm('Clear your saved “Got it” marks for every card in this deck, in this browser?')) return;

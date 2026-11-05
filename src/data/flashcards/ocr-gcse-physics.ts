@@ -9,9 +9,12 @@
  *   u: true     Upper tier: statements the specification prints in bold (Higher Tier
  *               only). Checked against the bold type in the official J249 PDF on
  *               5 Nov 2026. The tick symbol in the specification marks separate-
- *               physics-only content, not tier, so it is not used here. Cards on
- *               F = change in momentum ÷ time stay upper tier because momentum
- *               (PM2.2ii, P2.2k) is bold. Foundation candidates can hide these cards.
+ *               physics-only content, not tier, so it is not used here. J249 does not
+ *               state F = change in momentum ÷ time. The qualitative card on a longer
+ *               collision time stays upper tier because it rests on momentum
+ *               (PM2.2ii, P2.2k, bold); the worked calculation is F = m × a with
+ *               a = change in velocity ÷ time, which is P2.2l (not bold), so it is
+ *               not upper tier. Foundation candidates can hide the upper-tier cards.
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs J249); origin 'revision-notes'.
  *
@@ -109,8 +112,8 @@ export const DECK_OCR_GCSE_PHYSICS: FlashcardDeck = {
       { n: 8, f: 'Inertial mass', b: 'The ratio of force over acceleration, m = F / a.', u: true, src: NSL },
       { n: 9, f: 'Momentum, and conservation of momentum', b: 'p = m × v (kg m/s), a vector. With no external force, total momentum before a collision = total momentum after.', u: true },
       { n: 10, f: 'A 2.5 kg cart at 4.8 m/s hits a resting 1.5 kg cart and they lock together. Velocity?', b: 'Momentum = 2.5 × 4.8 = 12 kg m/s. v = 12 ÷ 4.0 = 3.0 m/s', u: true },
-      { n: 11, f: 'Force and change in momentum', b: 'Force = change in momentum ÷ time. The same change in momentum over a longer time needs a smaller force.', u: true },
-      { n: 12, f: 'A 0.30 kg ball moving at 12 m/s is stopped in 0.020 s. Average force?', b: 'F = 0.30 × 12 ÷ 0.020 = 180 N', u: true },
+      { n: 11, f: 'Why does a longer collision time mean a smaller force?', b: 'A longer time gives a smaller acceleration for the same change in velocity, so the force is smaller. In terms of momentum: force = change in momentum ÷ time, so the same change in momentum over a longer time needs a smaller force.', u: true },
+      { n: 12, f: 'A 0.30 kg ball moving at 12 m/s is stopped in 0.020 s. Average force?', b: 'a = change in velocity ÷ time = 12 ÷ 0.020 = 600 m/s². F = m × a = 0.30 × 600 = 180 N' },
       { n: 13, f: 'Why does an object moving in a circle at constant speed need a resultant force?', b: 'Its direction keeps changing, so its velocity changes: it is accelerating. A resultant force towards the centre is needed.', u: true },
       { n: 14, f: 'Newton’s third law pair', b: 'Two forces from one interaction: equal in size, opposite in direction, the same type, acting on different objects. They never cancel.' },
       { n: 15, f: 'Work done (by a force)', b: 'Energy transferred when a force moves an object along the line of action of the force. W = F × s (J, N, m).', src: WDP },

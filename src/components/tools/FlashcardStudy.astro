@@ -50,6 +50,16 @@ const listed = groups.map((g) => ({ ...g, cards: cards.filter((c) => c.group ===
       <label class="flex items-start gap-2.5"><input id="fc-unknown" type="checkbox" class="mt-1 size-4" /> <span>Only cards I have not got yet</span></label>
       <label class="flex items-start gap-2.5"><input id="fc-shuffle" type="checkbox" checked class="mt-1 size-4" /> <span>Shuffle</span></label>
     </div>
+    {cards.length > 10 && (
+      <div class="mt-4">
+        <label for="fc-limit" class="block text-[14px] font-medium">Session length</label>
+        <select id="fc-limit" class="mt-1.5 w-full rounded-sm border border-rule bg-white px-3 py-2.5 text-[15px]">
+          <option value="">All the selected cards</option>
+          <option value="10">10 cards at a time</option>
+          <option value="20">20 cards at a time</option>
+        </select>
+      </div>
+    )}
     <p id="fc-count" class="m-0 mt-4 text-[15px] font-medium text-navy-800" role="status" aria-live="polite"></p>
     <p id="fc-known" class="m-0 mt-1 text-[14px] text-ink-mute"></p>
     <div class="mt-5 flex flex-wrap items-center gap-3">

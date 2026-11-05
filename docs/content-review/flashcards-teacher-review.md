@@ -74,13 +74,9 @@ affected cards were checked against the new pages and the specifications (YBI11 
 
 ## Still open
 
-- New pages and the redrawn figure are listed under "Done since" below.
-- **IB**: HL/SL calls and IB content rest on the course's own pages, since the IB guides could not
-  be read.
-- **Judgement calls to confirm**: J249 P2.2l (F = Δp/Δt) kept Higher; collinear resultants left
-  both tiers; 9215 sole-trader ROCE (no official definition found).
-- **YEC11 WEC11/01 pages** carry a unit code instead of YEC11, as the WEC12/01 pages did.
-- **Large subtopics** that could be trimmed: up to 19 cards (9260 3.2.2).
+- **IB**: HL/SL calls and IB content rest on the course's own pages, since the IB subject guides
+  are licensed and ibo.org blocks automated access. A teacher with the guides should check the
+  IB decks' "(HL only)" marks, the IB Economics macro page, and the IB Physics orbital-speed call.
 
 ## Done since (5 Nov 2026, later)
 
@@ -103,3 +99,22 @@ Economics H060, Edexcel International GCSE Accounting 4AC1) the subject's teache
 new revision-notes pages name Hina Mogul (Biology) or Salman Ahmad (Economics and Business).
 `validate-flashcards.mjs` now checks a deck reviewer's profile covers the deck's board and
 subject, as `validate-review-integrity.mjs` does for pages.
+
+## Done since (5 Nov 2026, last round)
+
+- **YEC11 unit codes** — the three WEC11/01 "Markets in action" pages are retagged to YEC11 (as the
+  WEC12/01 growth pages were), `updatedDate` 2026-11-05.
+- **J249 P2.2l** — the specification never states F = Δp/Δt. The worked calculation (0.30 kg ball
+  stopped in 0.020 s) is F = m × a with a = Δv/t, which is P2.2l (separate Physics, not bold), so it
+  is no longer upper tier; the qualitative longer-collision-time card stays Higher (momentum is
+  bold). Deck header updated.
+- **J249 free body diagrams** — P2.2g and P2.2h are bold, so practice Q4 (lamp at rest) is now
+  marked Higher; Q5 (adding collinear forces for a resultant) stays both tiers (P2.2i).
+- **9215 ROCE** — OxfordAQA's 9215 vocabulary list defines "profit from operations" as the profit
+  for the year before finance charges and taxation, and no 9215 document gives a sole-trader
+  version of ROCE (the A-level sheet's sole-trader formula belongs to 9615). The pages' single
+  formula is right; the source is now cited on the ratios page.
+- **Large subtopics** — 74 of about 2,640 subtopics have 13 or more cards, mostly broad units
+  (a whole Edexcel A Level Biology topic, for example). Reviewed cards were kept; the study panel
+  now has a "Session length" choice (all, 10 or 20 cards) on decks of more than 10 cards, and
+  "Only cards I have not got yet" carries on through the rest.

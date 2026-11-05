@@ -27,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, for first assessment in 2018). P2.2e to P2.2h are printed in bold in the specification, so they are **Higher Tier only**. Questions 6, 7, 8, 10 and 12, which test vector diagrams at right angles, resolution, equilibrium and terminal velocity, are marked **(Higher Tier only)**. The other questions are for both tiers. Read the [study guide](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams/) or the [revision notes](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams-revision-notes/) first if you need to. See also the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/) and [OCR GCSE Physics: Forces practice](/resources/ocr-gcse-physics-forces-practice/). Check your level with the [free 10-minute diagnostics](/diagnostics/).
+These questions cover statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, for first assessment in 2018). P2.2e to P2.2h are printed in bold in the specification, so they are **Higher Tier only**. Questions 4, 6, 7, 8, 10 and 12, which test free body diagrams, vector diagrams at right angles, resolution, equilibrium and terminal velocity, are marked **(Higher Tier only)**. Question 5 only adds forces along one line to find a resultant, which both tiers need for Newton's second law (P2.2i), so it is for both tiers. The other questions are for both tiers. Read the [study guide](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams/) or the [revision notes](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams-revision-notes/) first if you need to. See also the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/) and [OCR GCSE Physics: Forces practice](/resources/ocr-gcse-physics-forces-practice/). Check your level with the [free 10-minute diagnostics](/diagnostics/).
 
 ## Questions
 
@@ -43,7 +43,7 @@ These questions cover statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) 
 **(a)** State the force the wall exerts on the boy. **[2]**
 **(b)** Explain why these two forces do not cancel each other. **[2]**
 
-**4.** A lamp of weight 18 N hangs at rest from a ceiling by a cable. Describe the free body diagram for the lamp. **[4]**
+**4.** (Higher Tier only) A lamp of weight 18 N hangs at rest from a ceiling by a cable. Describe the free body diagram for the lamp. **[4]**
 
 **5.** A trolley is pushed to the right with 48 N. Friction of 12 N and air resistance of 9 N act to the left. Calculate the resultant force, with its direction. **[3]**
 
