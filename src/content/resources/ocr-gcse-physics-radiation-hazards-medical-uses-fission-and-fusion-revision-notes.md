@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed revision notes on contamination, irradiation, half-life hazards, tracers, radiotherapy, fission and fusion for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense statements P6.2a to P6.2e of the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. Only P6.2a is assessed in both tiers. P6.2b to P6.2e are bold in the specification and are tested only in the Higher Tier papers, so they are marked "Higher Tier only". For full explanations use the [study guide](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion-practice/).
+These notes condense statements P6.2a to P6.2e of the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. None of these statements is printed in bold in the specification, so all of them are assessed in both tiers. Calculating activity after a whole number of half-lives belongs to P6.1k, which is in bold, so those calculations are marked "Higher Tier only". For full explanations use the [study guide](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion-practice/).
 
 Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checklist](/checklists/ocr/gcse/physics/). Earlier radioactivity content: [half-life and penetrating power](/resources/ocr-gcse-physics-ionisation-half-life-and-penetrating-power/). Find weak spots with the [free diagnostics](/diagnostics/).
 
@@ -68,7 +69,7 @@ Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checkl
 </figure>
 
 
-## Hazards and half-life (P6.2b, Higher Tier only)
+## Hazards and half-life (P6.2b)
 
 | | Short half-life | Long half-life |
 |---|---|---|
@@ -79,7 +80,7 @@ Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checkl
 
 **Why shorter means higher activity.** Half the nuclei decay in one half-life. A shorter half-life squeezes the same number of decays into less time, so the rate is higher. A half-life ten times shorter gives roughly ten times the activity at first.
 
-**Method: time for activity to reach a safe level**
+**Method: time for activity to reach a safe level (Higher Tier only, P6.1k)**
 
 1. Divide the starting activity by the safe activity.
 2. Write the answer as a power of 2, so 2ⁿ.
@@ -88,7 +89,7 @@ Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checkl
 *Reminder:* a spill of 960 Bq with a safe level of 120 Bq: 960 ÷ 120 = 8 = 2³, so three half-lives. With a half-life of 2 hours the wait is 6 hours.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--05-spill-half-lives.webp" width="900" height="920" alt="Bars show a spill activity halving every 3 days from 3200 Bq to 100 Bq, reached after 5 half-lives, which is 15 days. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--05-spill-half-lives.webp" width="900" height="920" alt="Bars show a spill activity halving every 3 days from 3200 Bq to 100 Bq, reached after 5 half-lives, which is 15 days." loading="lazy">
   <figcaption>Five halvings take 3200 Bq down to the safe 100 Bq in 15 days.</figcaption>
 </figure>
 
@@ -103,7 +104,7 @@ Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checkl
 </figure>
 
 
-## Medical uses (P6.2c, Higher Tier only)
+## Medical uses (P6.2c)
 
 | Use | Radiation | Key properties | Why |
 |---|---|---|---|
@@ -122,17 +123,17 @@ Radiotherapy also damages healthy cells, so side effects are weighed against the
 *Practical link in the specification:* research medical tracers and radiotherapy.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--01-tracer-gamma-camera.webp" width="900" height="950" alt="A patient lies below a gamma camera. Technetium-99m has collected in an organ and its gamma rays pass out of the body to the camera. Bars show activity halving every 6 hours from 480 to 30 MBq over 24 hours. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--01-tracer-gamma-camera.webp" width="900" height="950" alt="A patient lies below a gamma camera. Technetium-99m has collected in an organ and its gamma rays pass out of the body to the camera. Bars show activity halving every 6 hours from 480 to 30 MBq over 24 hours." loading="lazy">
   <figcaption>A gamma-emitting tracer with a half-life of hours lets a camera see the organ, then fades quickly.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--02-radiotherapy-beams.webp" width="900" height="920" alt="Three gamma beams from different directions cross at a tumour inside the body. Healthy tissue on each path gets only one beam, so the tumour receives the highest total dose. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--02-radiotherapy-beams.webp" width="900" height="920" alt="Three gamma beams from different directions cross at a tumour inside the body. Healthy tissue on each path gets only one beam, so the tumour receives the highest total dose." loading="lazy">
   <figcaption>Beams from several angles give the tumour a high dose and spare healthy tissue.</figcaption>
 </figure>
 
 
-## Fission (P6.2d, Higher Tier only)
+## Fission (P6.2d)
 
 1. A uranium-235 nucleus usually first absorbs a neutron.
 2. The nucleus becomes unstable and splits into two smaller nuclei.
@@ -156,12 +157,12 @@ An example equation: ²³⁵U + ¹n → ¹⁴¹Ba + ⁹²Kr + 3 ¹n. Check nucle
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--03-fission-event-u235.webp" width="900" height="880" alt="A neutron is absorbed by uranium-235, giving an unstable nucleus that splits into two fission products with kinetic energy, plus two or three neutrons and gamma radiation. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--03-fission-event-u235.webp" width="900" height="880" alt="A neutron is absorbed by uranium-235, giving an unstable nucleus that splits into two fission products with kinetic energy, plus two or three neutrons and gamma radiation." loading="lazy">
   <figcaption>Uranium-235 absorbs a neutron, becomes unstable and splits.</figcaption>
 </figure>
 
 
-## Fusion (P6.2e, Higher Tier only)
+## Fusion (P6.2e)
 
 - Two light nuclei combine into one heavier nucleus, for example isotopes of hydrogen forming helium.
 - Nuclei repel because both are positive, so very high temperature and pressure are needed to bring them close enough.
@@ -179,7 +180,7 @@ Example: ²H + ³H → ⁴He + ¹n. Nucleon number: 2 + 3 = 5 and 4 + 1 = 5. Pro
 | Neutrons | Released, and keep the chain going | A neutron may be released, as in the example |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--04-fusion-h2-h3.webp" width="900" height="890" alt="Hydrogen-2 and hydrogen-3 are pushed together at very high temperature, forming helium-4, a neutron and energy. Nucleon number 5 and proton number 2 balance on both sides. Higher Tier only." loading="lazy">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--04-fusion-h2-h3.webp" width="900" height="890" alt="Hydrogen-2 and hydrogen-3 are pushed together at very high temperature, forming helium-4, a neutron and energy. Nucleon number 5 and proton number 2 balance on both sides." loading="lazy">
   <figcaption>Fusion joins light nuclei; a little mass becomes energy and the equation balances.</figcaption>
 </figure>
 
@@ -199,13 +200,13 @@ Example: ²H + ³H → ⁴He + ¹n. Nucleon number: 2 + 3 = 5 and 4 + 1 = 5. Pro
 1. Define irradiation.
 2. Define contamination.
 3. Explain why an alpha emitter is more dangerous as a contaminant than as an irradiating source.
-4. (Higher Tier only) A source has activity 960 Bq and half-life 5 days. Find the activity after 15 days.
-5. (Higher Tier only) Give two reasons why a gamma emitter with a half-life of a few hours suits a medical tracer.
-6. (Higher Tier only) Explain why waste with a half-life of thousands of years needs long-term storage.
-7. (Higher Tier only) A tracer has activity 600 MBq and half-life 2.0 hours. Find the activity after 6.0 hours.
-8. (Higher Tier only) State what must happen to an average fission for the chain reaction to be steady.
-9. (Higher Tier only) Why does fusion need a very high temperature?
-10. (Higher Tier only) Show that ²H + ³H → ⁴He + ¹n balances for nucleon number.
+4. (Higher Tier only, P6.1k) A source has activity 960 Bq and half-life 5 days. Find the activity after 15 days.
+5. Give two reasons why a gamma emitter with a half-life of a few hours suits a medical tracer.
+6. Explain why waste with a half-life of thousands of years needs long-term storage.
+7. (Higher Tier only, P6.1k) A tracer has activity 600 MBq and half-life 2.0 hours. Find the activity after 6.0 hours.
+8. State what must happen to an average fission for the chain reaction to be steady.
+9. Why does fusion need a very high temperature?
+10. Show that ²H + ³H → ⁴He + ¹n balances for nucleon number.
 
 ### Answers
 

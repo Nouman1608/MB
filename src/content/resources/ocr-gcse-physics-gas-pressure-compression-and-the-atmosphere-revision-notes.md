@@ -17,9 +17,10 @@ syllabusTopics:
 description: "Condensed revision notes with a self-test on gas pressure, pV = constant, work done on gas and atmospheric pressure for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
-Condensed recall for the final weeks. For full explanations use the [study guide](/resources/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere/). These notes follow the OCR *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), statements P1.3a to P1.3g. P1.3a and P1.3b are in both tiers. P1.3c to P1.3g appear in bold type: **Higher Tier only**.
+Condensed recall for the final weeks. For full explanations use the [study guide](/resources/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere/). These notes follow the OCR *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), statements P1.3a to P1.3g. Only P1.3e is printed in bold type, so it is **Higher Tier only**. P1.3a to P1.3d, P1.3f and P1.3g are in both tiers.
 
 Also useful: the [practice questions](/resources/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere-practice/), the [Matter revision notes](/resources/ocr-gcse-physics-matter-revision-notes/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free diagnostics](/diagnostics/).
 
@@ -29,11 +30,11 @@ Also useful: the [practice questions](/resources/ocr-gcse-physics-gas-pressure-c
 |---|---|---|
 | P1.3a | Both | Gas pressure comes from particle collisions with the walls. Faster particles mean more frequent, harder collisions. Closed systems only. |
 | P1.3b | Both | Constant volume: temperature up, pressure up (qualitative only). |
-| P1.3c | Higher Tier only | Pressure changes compress or expand gases. The pressure acts as a net force normal to a surface. |
-| P1.3d | Higher Tier only | Constant temperature: bigger volume, lower pressure. pressure × volume = constant. |
+| P1.3c | Both | Pressure changes compress or expand gases. The pressure acts as a net force normal to a surface. |
+| P1.3d | Both | Constant temperature: bigger volume, lower pressure. pressure × volume = constant. |
 | P1.3e | Higher Tier only | Work done on a gas can raise its temperature (bicycle pump). |
-| P1.3f | Higher Tier only | Atmosphere: a layer of air held by gravity; simple model uses uniform density. |
-| P1.3g | Higher Tier only | Atmospheric pressure falls with height: less air above, and thinner air. |
+| P1.3f | Both | Atmosphere: a layer of air held by gravity; simple model uses uniform density. |
+| P1.3g | Both | Atmospheric pressure falls with height: less air above, and thinner air. |
 
 ## P1.3a and P1.3b: Temperature, motion and pressure (both tiers)
 
@@ -67,7 +68,7 @@ Also useful: the [practice questions](/resources/ocr-gcse-physics-gas-pressure-c
 </figure>
 
 
-## P1.3c (Higher Tier only): Compression and force direction
+## P1.3c (both tiers): Compression and force direction
 
 - Gases compress easily because the particles are far apart. Liquids and solids hardly compress.
 - Pressure acts at **right angles** to a surface. Sideways parts of the particle bounces cancel, leaving a normal force.
@@ -97,7 +98,7 @@ Also useful: the [practice questions](/resources/ocr-gcse-physics-gas-pressure-c
 </figure>
 
 
-## P1.3d (Higher Tier only): Volume and pressure
+## P1.3d (both tiers): Volume and pressure
 
 **Explanation.** Larger volume at constant temperature means the particles travel further between wall collisions. The collisions happen less often. Same speed, so the same force per collision. Total force per unit area falls. Pressure falls.
 
@@ -157,7 +158,7 @@ pressure (Pa) × volume (m³) = constant, so p₁V₁ = p₂V₂
 </figure>
 
 
-## P1.3f and P1.3g (Higher Tier only): The atmosphere
+## P1.3f and P1.3g (both tiers): The atmosphere
 
 **Simple model (P1.3f).** A layer of air held around the Earth by gravity. Assume uniform density. Knowledge of layers is not expected. Atmospheric pressure is the force per unit area from the weight of air above, and it acts in all directions.
 
@@ -175,13 +176,13 @@ pressure (Pa) × volume (m³) = constant, so p₁V₁ = p₂V₂
 1. A sealed rigid tin of gas is cooled. What happens to the pressure, and why? (both tiers)
 2. Name two ways the collisions change when a gas in a closed container is heated. (both tiers)
 3. A student says that gas pressure is caused by particles hitting each other. What is wrong with that? (both tiers)
-4. Why is it easy to compress a syringe of air but not a syringe of water? (Higher Tier only)
-5. In which direction does gas pressure produce a force on a wall? (Higher Tier only)
-6. A gas at 90 kPa has volume 0.40 m³. It is expanded to 0.60 m³ at constant temperature. Find the new pressure. (Higher Tier only)
-7. Calculate the force from a pressure difference of 5.0 × 10⁴ Pa on a surface of area 0.30 m². (Higher Tier only)
+4. Why is it easy to compress a syringe of air but not a syringe of water? (both tiers)
+5. In which direction does gas pressure produce a force on a wall? (both tiers)
+6. A gas at 90 kPa has volume 0.40 m³. It is expanded to 0.60 m³ at constant temperature. Find the new pressure. (both tiers)
+7. Calculate the force from a pressure difference of 5.0 × 10⁴ Pa on a surface of area 0.30 m². (both tiers)
 8. Why does a hand pump warm up when it is used quickly to inflate a ball? (Higher Tier only)
-9. In the simple model of the atmosphere, what is assumed about density? (Higher Tier only)
-10. Give two reasons why atmospheric pressure is lower on a mountain top than at sea level. (Higher Tier only)
+9. In the simple model of the atmosphere, what is assumed about density? (both tiers)
+10. Give two reasons why atmospheric pressure is lower on a mountain top than at sea level. (both tiers)
 
 ### Answers
 

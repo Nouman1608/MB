@@ -14,9 +14,10 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-in-matter-ocr-gcse"
     subtopic: "wave-behaviour-ocr-gcse"
-description: "Original practice questions with worked answers on sound at boundaries, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), Higher Tier."
+description: "Original practice questions with worked answers on sound at boundaries, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), Foundation and Higher Tier."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,24 +27,24 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover statements P5.1f to P5.1i of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026): sound at boundaries, interfaces, conversions between sound and vibrations, and the limits of hearing. Every question is **Higher Tier only**. Use v = f λ throughout, and take the speed of sound in air as 340 m/s unless the question gives another value. Read the [study guide](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing/) and [revision notes](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-revision-notes/) first if you need to. Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/).
+These questions cover statements P5.1f to P5.1i of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026): sound at boundaries, interfaces, conversions between sound and vibrations, and the limits of hearing. Only P5.1h and P5.1i are printed in bold in the specification, so questions 7, 8, 9 and 11, which test them, are **Higher Tier only**. P5.1f and P5.1g are for both tiers, so questions 1 to 6 and 10 suit both. Use v = f λ throughout, and take the speed of sound in air as 340 m/s unless the question gives another value. Read the [study guide](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing/) and [revision notes](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-revision-notes/) first if you need to. Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/).
 
 ## Questions
 
-**1.** (Higher Tier only) A sound wave travels from air into steel.
+**1.** A sound wave travels from air into steel.
 
 **(a)** State which quantity of the wave does not change. **[1]**
 **(b)** State what happens to the wavelength, and give the reason. **[2]**
 
-**2.** (Higher Tier only) A note of frequency 275 Hz travels in air. It then passes into a liquid where the speed of sound is 1400 m/s. Calculate the wavelength of the note in the air and in the liquid. Give each answer to 2 significant figures. **[4]**
+**2.** A note of frequency 275 Hz travels in air. It then passes into a liquid where the speed of sound is 1400 m/s. Calculate the wavelength of the note in the air and in the liquid. Give each answer to 2 significant figures. **[4]**
 
-**3.** (Higher Tier only) A note of frequency 1750 Hz has a wavelength of 3.2 m as it travels along a metal bar. Calculate the speed of sound in the metal, then calculate the wavelength of the same note when it leaves the bar and travels in air. **[4]**
+**3.** A note of frequency 1750 Hz has a wavelength of 3.2 m as it travels along a metal bar. Calculate the speed of sound in the metal, then calculate the wavelength of the same note when it leaves the bar and travels in air. **[4]**
 
-**4.** (Higher Tier only) A pulse of ultrasound meets the boundary between two different tissues. Describe what can happen to the pulse at the boundary. **[3]**
+**4.** A pulse of ultrasound meets the boundary between two different tissues. Describe what can happen to the pulse at the boundary. **[3]**
 
-**5.** (Higher Tier only) Before an ultrasound scan, a gel is spread on the skin. Explain why. **[3]**
+**5.** Before an ultrasound scan, a gel is spread on the skin. Explain why. **[3]**
 
-**6.** (Higher Tier only) A survey vessel fires a downward pulse of sound into the sea, where sound travels at 1500 m/s.
+**6.** A survey vessel fires a downward pulse of sound into the sea, where sound travels at 1500 m/s.
 
 **(a)** The echo from the seabed is detected 0.52 s after firing. Find the depth of the seabed. **[2]**
 **(b)** An earlier echo, from a shoal of fish, is detected 0.30 s after firing. Find the depth of the shoal. **[2]**
@@ -58,7 +59,7 @@ These questions cover statements P5.1f to P5.1i of the OCR GCSE (9-1) Gateway Sc
 
 **9.** (Higher Tier only) Explain why the ear can only respond to sound over a limited range of frequencies. **[4]**
 
-**10.** (Higher Tier only) A hammer strikes a steel rail. A listener stands 850 m away with an ear pressed to the rail and hears the sound twice: once through the steel and once through the air. The speed of sound is 5100 m/s in steel and 340 m/s in air.
+**10.** A hammer strikes a steel rail. A listener stands 850 m away with an ear pressed to the rail and hears the sound twice: once through the steel and once through the air. The speed of sound is 5100 m/s in steel and 340 m/s in air.
 
 **(a)** Calculate the time for the sound to reach the listener through the air. **[2]**
 **(b)** Calculate the time for the sound to reach the listener through the steel. **[2]**
@@ -143,7 +144,7 @@ In air the frequency is still 1750 Hz [1], so λ = 340 / 1750 = **0.19 m** [1]. 
 - Re-read the [revision notes](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing/).
 - Tick off statements on the [checklist](/checklists/ocr/gcse/physics/) and visit the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/).
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find your next weak spot.
-- [Book a free trial class](/trial/) for help with Higher Tier waves.
+- [Book a free trial class](/trial/) for help with waves.
 
 ## Official syllabus
 

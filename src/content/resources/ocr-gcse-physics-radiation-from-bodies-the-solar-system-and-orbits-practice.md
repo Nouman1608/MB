@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original OCR GCSE Physics A practice questions on thermal radiation, the solar system, circular orbits and Earth's radiation balance, with worked answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,22 +27,22 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover statements P8.3d, P8.3e, P8.3f, P8.3g and P8.3h of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026). Every question is Higher Tier only. Learn the content first in the [study guide](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits/) or the [revision notes](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits-revision-notes/). The [course hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free 10-minute diagnostics](/diagnostics/) are linked for planning.
+These questions cover statements P8.3d, P8.3e, P8.3f, P8.3g and P8.3h of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026). The specification prints P8.3f, P8.3g and P8.3h in bold, so questions 6 to 11, which test them, are labelled (Higher Tier only). P8.3d and P8.3e are not in bold, so questions 1 to 5 and 12 are for both tiers. Learn the content first in the [study guide](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits/) or the [revision notes](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits-revision-notes/). The [course hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free 10-minute diagnostics](/diagnostics/) are linked for planning.
 
 ## Questions
 
-**1.** (Higher Tier only) State two ways in which the radiation emitted by a body changes when its temperature increases. **[2]**
+**1.** State two ways in which the radiation emitted by a body changes when its temperature increases. **[2]**
 
-**2.** (Higher Tier only) A steel bar is heated slowly in a furnace. At first it gives out no visible light. Later it glows dull red, and later still it glows yellow-white. Explain these observations. **[3]**
+**2.** A steel bar is heated slowly in a furnace. At first it gives out no visible light. Later it glows dull red, and later still it glows yellow-white. Explain these observations. **[3]**
 
-**3.** (Higher Tier only) Describe three differences between the inner planets and the outer planets of the solar system. **[3]**
+**3.** Describe three differences between the inner planets and the outer planets of the solar system. **[3]**
 
-**4.** (Higher Tier only) Two artificial satellites orbit Earth. One is in a geostationary orbit and one is in a polar orbit.
+**4.** Two artificial satellites orbit Earth. One is in a geostationary orbit and one is in a polar orbit.
 
 **(a)** State two features of a geostationary orbit. **[2]**
 **(b)** Give one use of a polar satellite and explain why its orbit suits that use. **[2]**
 
-**5.** (Higher Tier only) A satellite moves in a circular orbit of radius 7.4 × 10⁶ m. It completes one orbit in 6330 s. Calculate its speed. Give your answer to 3 significant figures. **[3]**
+**5.** A satellite moves in a circular orbit of radius 7.4 × 10⁶ m. It completes one orbit in 6330 s. Calculate its speed. Give your answer to 3 significant figures. **[3]**
 
 **6.** (Higher Tier only) A satellite orbits Earth in a circle at constant speed. A student says that no force is needed because the speed does not change. Explain why the student is wrong, and state the direction of the force. **[4]**
 
@@ -68,7 +69,7 @@ These questions cover statements P8.3d, P8.3e, P8.3f, P8.3g and P8.3h of OCR GCS
 **(b)** Describe the pattern in your results. **[2]**
 **(c)** Explain the pattern in terms of gravity, and state why satellite R cannot move at the speed of satellite P while staying at the same radius. **[3]**
 
-**12.** (Higher Tier only) Three stars have the surface temperatures and strongest-emission wavelengths shown below.
+**12.** Three stars have the surface temperatures and strongest-emission wavelengths shown below.
 
 | Star | Surface temperature (K) | Wavelength of strongest emission (nm) |
 |---|---|---|

@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed revision notes for OCR GCSE Physics A (J249) P2.1 Motion: equations, graph rules, unit conversions and a self-test with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense **P2.1 Motion** (P2.1a to P2.1h) from OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018. All of P2.1 is assessed at both tiers. For full explanations read the [study guide](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs/); to test yourself use the [practice questions](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-practice/). Related pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/), the [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/) and the [free 10-minute diagnostics](/diagnostics/).
+These notes condense **P2.1 Motion** (P2.1a to P2.1h) from OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018. All of P2.1 is assessed at both tiers except P2.1f (the enclosed area under a velocity-time graph), which is printed in bold in the specification and so is Higher Tier only. For full explanations read the [study guide](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs/); to test yourself use the [practice questions](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-practice/). Related pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/), the [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/) and the [free 10-minute diagnostics](/diagnostics/).
 
 ## Equations to recall and apply
 
@@ -96,13 +97,13 @@ Symbols: u initial velocity, v final velocity, a acceleration, s distance, t tim
 | Graph | Gradient | Area under line | Flat line means |
 |---|---|---|---|
 | Distance-time | speed | no meaning needed | stationary |
-| Velocity-time | acceleration | distance travelled | constant velocity |
+| Velocity-time | acceleration | distance travelled (Higher Tier only) | constant velocity |
 
 **Distance-time:** straight slope is constant speed, steeper is faster, curve steepening is speeding up, curve flattening is slowing down. On a curve, use the gradient of a tangent at that point.
 
 **Velocity-time:** upward straight slope is uniform acceleration, downward straight slope is uniform deceleration, a curve is changing acceleration. Below the time axis means motion the other way.
 
-**Method for area:** split into rectangles and triangles, work out each, add. Triangle ½ × base × height. Trapezium ½ × (sum of parallel sides) × width.
+**Method for area (Higher Tier only, P2.1f):** split into rectangles and triangles, work out each, add. Triangle ½ × base × height. Trapezium ½ × (sum of parallel sides) × width.
 
 **Worked reminder.** Velocity rises from 0 to 12 m/s in 4 s, then stays at 12 m/s for 6 s. Distance = ½ × 4 × 12 + 6 × 12 = 24 + 72 = 96 m.
 
@@ -156,7 +157,7 @@ Symbols: u initial velocity, v final velocity, a acceleration, s distance, t tim
 **Worked reminders**
 - Start at rest, a = 3.2 m/s², s = 40 m: v² = 2 × 3.2 × 40 = 256, so v = 16 m/s.
 - Brakes to rest with a = −5.0 m/s² over 22.5 m: u² = 2 × 5.0 × 22.5 = 225, so u = 15 m/s.
-- Velocity 6 m/s to 14 m/s in 5 s: a = 8 ÷ 5 = 1.6 m/s², and distance = ½ × (6 + 14) × 5 = 50 m (area of a trapezium).
+- Velocity 6 m/s to 14 m/s in 5 s: a = 8 ÷ 5 = 1.6 m/s², and (Higher Tier only) distance = ½ × (6 + 14) × 5 = 50 m (area of a trapezium).
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs--10-car-vt-worked.webp" width="900" height="970" alt="Velocity-time graph of a car: 0 to 20 m/s in 8 s (a = 2.5 m/s², area 80 m), 20 m/s for 12 s (a = 0, area 240 m), then to rest in 10 s (a = −2.0 m/s², area 100 m). Total 420 m. A dashed 14 m/s line over 30 s encloses the same area." loading="lazy">
@@ -203,7 +204,7 @@ Use a fixed pattern for each section of the graph: say what the line does, say w
 | u, v and a, no time | distance | v² − u² = 2as |
 | u, a and distance, no time | v | v² = u² + 2as |
 | a graph with a sloping line | speed or acceleration | gradient |
-| a velocity-time graph | distance | area |
+| a velocity-time graph | distance | area (Higher Tier only) |
 
 Rearranging: t = s ÷ v, v = s ÷ t, v = u + at, and a = (v² − u²) ÷ 2s. Practise cover-up triangles only if you can also rearrange without them.
 
@@ -218,7 +219,7 @@ Rearranging: t = s ÷ v, v = s ÷ t, v = u + at, and a = (v² − u²) ÷ 2s. Pr
 
 - Speed has size only (scalar); velocity also has direction (vector).
 - Gradient of distance-time is speed; gradient of velocity-time is acceleration.
-- Area of velocity-time is distance; area of distance-time has no use here.
+- (Higher Tier only) Area of velocity-time is distance; area of distance-time has no use here.
 - Constant speed does not mean constant velocity if direction changes.
 - Deceleration means a negative acceleration when forward is positive.
 

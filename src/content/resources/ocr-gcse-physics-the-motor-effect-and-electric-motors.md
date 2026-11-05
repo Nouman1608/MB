@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Study guide to the motor effect, Fleming's left-hand rule, F = BIl and how d.c. motors turn, for OCR GCSE Physics A (J249) statements P4.2a to P4.2d."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), topic P4.2 Uses of magnetism, statements P4.2a to P4.2d. All four statements are assessed in both Foundation and Higher Tier papers. Induction, generators and transformers (the later statements in P4.2) have their own pages. Start with the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), tick off what you know on the [checklist](/checklists/ocr/gcse/physics/), and test yourself with the [free diagnostics](/diagnostics/). You need the fields from P4.1 first, so read [Magnets, magnetic fields and electromagnets](/resources/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets/) if poles and field lines are shaky.
+This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), topic P4.2 Uses of magnetism, statements P4.2a to P4.2d. All four statements, and the equation F = B I l (PM4.2i), are printed in bold in the specification, so everything on this page is **Higher Tier only**. Induction, generators and transformers (the later statements in P4.2) have their own pages. Start with the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), tick off what you know on the [checklist](/checklists/ocr/gcse/physics/), and test yourself with the [free diagnostics](/diagnostics/). You need the fields from P4.1 first, so read [Magnets, magnetic fields and electromagnets](/resources/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets/) if poles and field lines are shaky.
 
 Companion pages: [revision notes](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors-revision-notes/) and [practice questions](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors-practice/).
 
@@ -28,14 +29,14 @@ Companion pages: [revision notes](/resources/ocr-gcse-physics-the-motor-effect-a
 
 | Statement | What you must be able to do |
 |---|---|
-| P4.2a | Describe how a magnet and a current-carrying conductor exert a force on one another |
-| P4.2b | Show that Fleming's left-hand rule represents the relative orientations of the force, the current and the magnetic field |
-| P4.2c | Apply the equation linking force on a conductor to magnetic flux density, current and length, to calculate the forces involved |
-| P4.2d | Explain how the force from a magnet on a current-carrying conductor causes rotation in electric motors |
+| P4.2a | Describe how a magnet and a current-carrying conductor exert a force on one another (**Higher Tier only**) |
+| P4.2b | Show that Fleming's left-hand rule represents the relative orientations of the force, the current and the magnetic field (**Higher Tier only**) |
+| P4.2c | Apply the equation linking force on a conductor to magnetic flux density, current and length, to calculate the forces involved (**Higher Tier only**) |
+| P4.2d | Explain how the force from a magnet on a current-carrying conductor causes rotation in electric motors (**Higher Tier only**) |
 
 For P4.2d the specification says you need to understand how electric motors work, but you are not expected to know the structure of a motor. The suggested practical work is the jumping wire demonstration and building simple motors.
 
-## P4.2a: the force between a magnet and a current-carrying conductor
+## P4.2a: the force between a magnet and a current-carrying conductor (Higher Tier only)
 
 A wire carrying a current has its own magnetic field (see P4.1). Put that wire in the field of a magnet and the two fields interact. The result is a force on the wire. This is called the motor effect.
 
@@ -74,7 +75,7 @@ Describe this in an exam as a cause and effect chain: current in the wire gives 
 </figure>
 
 
-## P4.2b: Fleming's left-hand rule
+## P4.2b: Fleming's left-hand rule (Higher Tier only)
 
 The rule links three directions that are all at right angles to one another. Use your left hand and spread the thumb and the first two fingers so that each is perpendicular to the other two.
 
@@ -108,7 +109,7 @@ A horizontal wire lies on a table, between a north pole on the west side and a s
 </figure>
 
 
-## P4.2c: the size of the force
+## P4.2c: the size of the force (Higher Tier only)
 
 For a conductor at right angles to the magnetic field:
 
@@ -213,7 +214,7 @@ l = 0.10 m
 </figure>
 
 
-## P4.2d: how the motor effect makes a motor turn
+## P4.2d: how the motor effect makes a motor turn (Higher Tier only)
 
 An electric motor turns because the motor effect pushes in opposite directions on opposite sides of a coil.
 

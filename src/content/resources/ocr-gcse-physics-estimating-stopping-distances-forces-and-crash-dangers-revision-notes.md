@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed revision notes on estimating stopping distances, road forces and large accelerations, and on crash dangers, for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense the [full study guide](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers/) for OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0, July 2026, statements P8.1f to P8.1i. P8.1f, P8.1h and P8.1i are Higher Tier only; P8.1g is for both tiers. Test yourself with the [practice questions](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-practice/), tick off topics on the [checklist](/checklists/ocr/gcse/physics/), see the [course hub](/boards/ocr/gcse/physics/) and take a [free diagnostic](/diagnostics/).
+These notes condense the [full study guide](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers/) for OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0, July 2026, statements P8.1f to P8.1i. Only P8.1h is printed in bold in the specification, so it is Higher Tier only; P8.1f, P8.1g and P8.1i are for both tiers. Test yourself with the [practice questions](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-practice/), tick off topics on the [checklist](/checklists/ocr/gcse/physics/), see the [course hub](/boards/ocr/gcse/physics/) and take a [free diagnostic](/diagnostics/).
 
 ## Equations
 
@@ -35,7 +36,7 @@ These notes condense the [full study guide](/resources/ocr-gcse-physics-estimati
 
 Convert first: 1 mph is about 0.447 m/s. Divide km/h by 3.6 to get m/s.
 
-## P8.1f Stopping distances (Higher Tier only)
+## P8.1f Stopping distances (both tiers)
 
 | Part | Rule | Speed doubles |
 |---|---|---|
@@ -122,7 +123,7 @@ Alternative route using energy: braking force = kinetic energy ÷ braking distan
 </figure>
 
 
-## P8.1i Large accelerations (Higher Tier only)
+## P8.1i Large accelerations (both tiers)
 
 | Situation | Estimated acceleration (size) |
 |---|---|
@@ -164,7 +165,7 @@ A 60 kg cyclist at 8.0 m/s hits a wall. Compare a head stop in 0.020 s with a st
 - With: a = 8.0 ÷ 0.10 = 80 m/s², F = 60 × 80 = 4800 N.
 - Five times the time gives one fifth of the force. The helmet works on the head and neck, so the figures are a model of the whole body, not an exact head force.
 
-### Force from a stopping distance
+### Force from a stopping distance (Higher Tier only)
 
 A van of mass 2000 kg slows from 15 m/s to rest in 45 m.
 
@@ -201,11 +202,11 @@ Checks that an estimate is sensible:
 2. Find the thinking distance at 12 m/s with a reaction time of 0.9 s.
 3. Find the braking distance at 12 m/s with a deceleration of 5.0 m/s².
 4. A braking distance is 20 m from 8 m/s. Estimate it from 24 m/s on the same road.
-5. A car of mass 1000 kg decelerates at 7.5 m/s². Find the braking force.
+5. (Higher Tier only) A car of mass 1000 kg decelerates at 7.5 m/s². Find the braking force.
 6. A person of mass 80 kg moving at 10 m/s is stopped in 0.25 s. Find the average force.
 7. Skid marks are 25 m long and the deceleration was 8.0 m/s². Estimate the speed at the start of the skid.
 8. A 1400 kg car reaches 25 m/s from rest in 10 s. Find the force.
-9. A 1000 kg car at 20 m/s is stopped over 40 m. Use kinetic energy to find the average force.
+9. (Higher Tier only) A 1000 kg car at 20 m/s is stopped over 40 m. Use kinetic energy to find the average force.
 10. Explain why a crumple zone reduces injury.
 
 ### Answers

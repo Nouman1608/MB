@@ -14,13 +14,14 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-in-matter-ocr-gcse"
     subtopic: "wave-behaviour-ocr-gcse"
-description: "Study guide to sound crossing boundaries, ultrasound, sonar, the ear and the limits of hearing, for OCR GCSE Physics A (J249), Higher Tier."
+description: "Study guide to sound crossing boundaries, ultrasound, sonar, the ear and the limits of hearing, for OCR GCSE Physics A (J249), Foundation and Higher Tier."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide covers four statements from topic P5.1, Wave behaviour, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026): P5.1f, P5.1g, P5.1h and P5.1i. All four are shown in bold in the specification, so they are tested in the **Higher Tier only**. Foundation Tier candidates do not need them. The statements on wave speed, frequency and wavelength in general (P5.1a to P5.1e) are taught elsewhere. Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/). If you are unsure where you stand, try the [free diagnostics](/diagnostics/) first.
+This guide covers four statements from topic P5.1, Wave behaviour, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026): P5.1f, P5.1g, P5.1h and P5.1i. Only P5.1h and P5.1i are shown in bold in the specification, so they are tested in the **Higher Tier only**. P5.1f and P5.1g are not in bold, so they are tested in both tiers. (All four carry the tick symbol, which marks content in the separate physics qualification, not tier.) The statements on wave speed, frequency and wavelength in general (P5.1a to P5.1e) are taught elsewhere. Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/). If you are unsure where you stand, try the [free diagnostics](/diagnostics/) first.
 
 Companion pages: the [revision notes](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-revision-notes/) and the [practice questions](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-practice/).
 
@@ -28,8 +29,8 @@ Companion pages: the [revision notes](/resources/ocr-gcse-physics-sound-waves-at
 
 | Statement | What you must do | Tier |
 |---|---|---|
-| P5.1f | Show how changes in velocity, frequency and wavelength are inter-related when sound passes from one medium to another | Higher Tier only |
-| P5.1g | Describe reflection, transmission and absorption of waves at a material interface (examples such as ultrasound and sonar) | Higher Tier only |
+| P5.1f | Show how changes in velocity, frequency and wavelength are inter-related when sound passes from one medium to another | Both |
+| P5.1g | Describe reflection, transmission and absorption of waves at a material interface (examples such as ultrasound and sonar) | Both |
 | P5.1h | Describe, with examples, processes that convert wave disturbances between sound waves and vibrations in solids (a simple structure of the parts of the ear is expected) | Higher Tier only |
 | P5.1i | Explain why such processes only work over a limited frequency range, and the relevance of this to human hearing (including why hearing changes with ageing) | Higher Tier only |
 
@@ -148,7 +149,7 @@ The very short wavelength is useful. Waves reflect from detail that is about as 
 </figure>
 
 
-## Converting between sound waves and vibrations in solids (P5.1h)
+## Converting between sound waves and vibrations in solids (P5.1h, Higher Tier only)
 
 A sound wave in air is a pressure disturbance. When it meets a solid surface, the changing pressure pushes the surface to and fro, so the solid vibrates at the same frequency as the sound. The process also works in reverse: a vibrating solid pushes the air next to it and makes a sound wave. Examples:
 
@@ -175,7 +176,7 @@ The sound wave in air becomes a vibration of solid membrane and bones, then a wa
 </figure>
 
 
-## Why the range is limited, and human hearing (P5.1i)
+## Why the range is limited, and human hearing (P5.1i, Higher Tier only)
 
 Every device that converts sound to vibration, and every part of the ear, has mass and stiffness. A mass on a spring cannot follow an oscillation that is too fast, because its inertia stops it changing direction quickly enough. Very slow, small pressure changes also produce only a weak response. So each conversion works properly only over a limited range of frequencies, and outside it the vibration is too small to be useful.
 

@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed revision notes on gravitational fields, weight, free fall, fluid pressure and hydraulics for OCR GCSE Physics A, with a short self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 Forces in the OCR GCSE (9-1) Physics A (Gateway Science) specification, Version 5.0 (July 2026), first assessment 2018. P2.3g to P2.3i are assessed on both tiers. P2.3j, P2.3n and P2.3o are **Higher Tier only**. For full explanations read the [study guide](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-practice/). Course pages: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free diagnostics](/diagnostics/). For the wider topic see [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/).
+These notes condense statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 Forces in the OCR GCSE (9-1) Physics A (Gateway Science) specification, Version 5.0 (July 2026), first assessment 2018. None of these statements is printed in bold in the specification, so all of them are assessed on both tiers. (P2.3j, P2.3n and P2.3o carry the tick symbol, which marks content in the separate physics qualification, not tier.) For full explanations read the [study guide](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-practice/). Course pages: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free diagnostics](/diagnostics/). For the wider topic see [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/).
 
 ## Key definitions
 
@@ -39,10 +40,10 @@ These notes condense statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 Fo
 | Statement | Equation | Symbols and units | Tier |
 |---|---|---|---|
 | P2.3h | W = m g | W in N, m in kg, g in N/kg | Both |
-| P2.3j | m = W / g and g = W / m | rearrangements of the above | Higher Tier only |
-| P2.3o | p = F / A | p in Pa, F in N, A in m² | Higher Tier only |
-| P2.3o | F = p A and A = F / p | rearrangements | Higher Tier only |
-| P2.3o | F₁ / A₁ = F₂ / A₂ | pressure equal at both pistons | Higher Tier only |
+| P2.3j | m = W / g and g = W / m | rearrangements of the above | Both |
+| P2.3o | p = F / A | p in Pa, F in N, A in m² | Both |
+| P2.3o | F = p A and A = F / p | rearrangements | Both |
+| P2.3o | F₁ / A₁ = F₂ / A₂ | pressure equal at both pistons | Both |
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids--07-weight-mass-gradient.webp" width="900" height="1010" alt="Weight against mass gives straight lines through the origin with gradients g = 10 (Earth), 4.0 and 1.6 (Moon) N/kg. A 3.0 kg mass weighs 30 N on Earth and 12 N where g = 4.0." loading="lazy">
@@ -133,7 +134,7 @@ Small reminder: a 2.4 kg mass weighs 24 N on Earth. On the Moon, with g = 1.6 N/
 </figure>
 
 
-## P2.3j: applying the formulae (Higher Tier only)
+## P2.3j: applying the formulae
 
 | If this changes | Then |
 |---|---|
@@ -151,7 +152,7 @@ Method for a multi-step problem:
 
 Worked reminder: an object weighs 7.4 N where g = 3.7 N/kg. Its mass is 7.4 / 3.7 = 2.0 kg, so on Earth it weighs 2.0 × 10 = 20 N. The mass is found first because it is the quantity that stays the same.
 
-## P2.3n: pressure force in fluids (Higher Tier only)
+## P2.3n: pressure force in fluids
 
 - Fluid particles collide with surfaces and each collision pushes on the surface.
 - The net force from fluid pressure acts **at right angles** to the surface.
@@ -174,7 +175,7 @@ Worked reminder: an object weighs 7.4 N where g = 3.7 N/kg. Its mass is 7.4 / 3.
 </figure>
 
 
-## P2.3o: p = F / A and hydraulics (Higher Tier only)
+## P2.3o: p = F / A and hydraulics
 
 Method:
 
@@ -198,7 +199,7 @@ Worked reminder: pistons of area 3.0 × 10⁻⁴ m² and 9.0 × 10⁻³ m², wit
 
 ## Quick self-test
 
-Questions 1 to 4 are both tiers. Questions 5 to 12 are Higher Tier only.
+All twelve questions are for both tiers.
 
 1. What does a newtonmeter measure, and in what unit?
 2. Find the weight of a 0.75 kg object at the Earth's surface.

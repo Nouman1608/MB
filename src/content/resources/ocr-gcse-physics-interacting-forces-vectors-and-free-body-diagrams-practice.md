@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original practice questions with worked answers on interacting forces, resultants, equilibrium and free body diagrams for OCR GCSE Physics A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, for first assessment in 2018). None of these statements is Higher Tier only. Read the [study guide](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams/) or the [revision notes](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams-revision-notes/) first if you need to. See also the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/) and [OCR GCSE Physics: Forces practice](/resources/ocr-gcse-physics-forces-practice/). Check your level with the [free 10-minute diagnostics](/diagnostics/).
+These questions cover statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, for first assessment in 2018). The specification prints P2.2e, P2.2f, P2.2g and P2.2h in bold, so questions on vector diagrams, resolution, equilibrium and terminal velocity (questions 6, 7, 8, 10 and 12) are labelled (Higher Tier only). The other questions are for both tiers. Read the [study guide](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams/) or the [revision notes](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams-revision-notes/) first if you need to. See also the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/) and [OCR GCSE Physics: Forces practice](/resources/ocr-gcse-physics-forces-practice/). Check your level with the [free 10-minute diagnostics](/diagnostics/).
 
 ## Questions
 
@@ -46,29 +47,29 @@ These questions cover statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) 
 
 **5.** A trolley is pushed to the right with 48 N. Friction of 12 N and air resistance of 9 N act to the left. Calculate the resultant force, with its direction. **[3]**
 
-**6.** A drone is pushed by wind with a horizontal force of 24 N east. Its rotors give a force of 7.0 N north. Ignore all other forces.
+**6.** (Higher Tier only) A drone is pushed by wind with a horizontal force of 24 N east. Its rotors give a force of 7.0 N north. Ignore all other forces.
 
 **(a)** Describe a scale drawing to find the resultant, using 1 cm to represent 2 N. **[2]**
 **(b)** Calculate the size of the resultant force. **[2]**
 **(c)** Calculate the angle of the resultant north of east. **[1]**
 
-**7.** A child pulls a sledge with a rope. The force in the rope is 85 N. Its horizontal and vertical sides in a scale drawing are in the ratio 15 : 8 : 17 (horizontal : vertical : rope). Use a scale of 1 cm to 5 N to find the horizontal and vertical components. **[4]**
+**7.** (Higher Tier only) A child pulls a sledge with a rope. The force in the rope is 85 N. Its horizontal and vertical sides in a scale drawing are in the ratio 15 : 8 : 17 (horizontal : vertical : rope). Use a scale of 1 cm to 5 N to find the horizontal and vertical components. **[4]**
 
-**8.** A ring is pulled with 12 N east and 16 N north. A third force acts on it so that it is in equilibrium. Determine the size and direction of the third force, and describe the vector diagram. **[5]**
+**8.** (Higher Tier only) A ring is pulled with 12 N east and 16 N north. A third force acts on it so that it is in equilibrium. Determine the size and direction of the third force, and describe the vector diagram. **[5]**
 
 **9.** A lorry travels at a constant 20 m/s on a level road with a driving force of 5200 N.
 
 **(a)** Explain what this tells you about the resistive forces. **[2]**
 **(b)** The driver brakes. Describe the resultant force and the change in velocity. **[2]**
 
-**10.** A parachutist of weight 650 N opens the parachute while falling fast. At that moment drag is 1100 N.
+**10.** (Higher Tier only) A parachutist of weight 650 N opens the parachute while falling fast. At that moment drag is 1100 N.
 
 **(a)** Calculate the resultant force, with its direction. **[2]**
 **(b)** Explain how the parachutist reaches a new constant velocity. **[4]**
 
 **11.** A student says: "A book's weight and the table's normal contact force are a Newton's third law pair, because they are equal and opposite." Evaluate this claim. **[4]**
 
-**12.** A child sits on a sledge on level snow. The rope force is 80 N, at an angle such that the horizontal and vertical sides are in the ratio 4 : 3 : 5 (horizontal : vertical : rope). The combined weight is 300 N. Friction is 40 N.
+**12.** (Higher Tier only) A child sits on a sledge on level snow. The rope force is 80 N, at an angle such that the horizontal and vertical sides are in the ratio 4 : 3 : 5 (horizontal : vertical : rope). The combined weight is 300 N. Friction is 40 N.
 
 **(a)** Find the horizontal and vertical components of the rope force. **[2]**
 **(b)** Describe the free body diagram for the sledge. **[2]**

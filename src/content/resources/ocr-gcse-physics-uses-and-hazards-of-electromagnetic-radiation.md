@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Study guide to practical uses and hazards of each electromagnetic wave group, medical imaging and radio circuits, for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide covers statements P5.2g to P5.2j of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, first assessment 2018). They sit in topic P5, Waves in matter, under P5.2 The electromagnetic spectrum. The statement on hidden structures, P5.2i, is tested only in the Higher Tier papers. The other three statements are assessed in both tiers. The nature of the waves, their common speed and the frequency and wavelength relationships are separate statements and are not taught here.
+This guide covers statements P5.2g to P5.2j of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, first assessment 2018). They sit in topic P5, Waves in matter, under P5.2 The electromagnetic spectrum. The statements on hidden structures (P5.2i) and on radio waves and circuits (P5.2j) are printed in bold, so they are tested only in the Higher Tier papers. P5.2g and P5.2h are assessed in both tiers. The nature of the waves, their common speed and the frequency and wavelength relationships are separate statements and are not taught here.
 
 Related pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/), the [revision notes](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation-revision-notes/), the [practice questions](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation-practice/) and the free [10-minute diagnostics](/diagnostics/).
 
@@ -31,7 +32,7 @@ Related pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [print
 | P5.2g | Give examples of practical uses of radio, microwave, infrared, visible, ultraviolet, X-ray and gamma waves | Both |
 | P5.2h | Describe how ultraviolet waves, X-rays and gamma rays can have hazardous effects, notably on human bodily tissues | Both |
 | P5.2i | Explain, in qualitative terms, how differences in velocity, absorption and reflection between different types of waves in solids and liquids are used to detect and explore hidden structures, notably in the body. The specification names infrared, X-rays, gamma rays and ultrasound as an alternative in medical imaging | Higher Tier only |
-| P5.2j | Recall that radio waves can be produced by, or can themselves induce, oscillations in electrical circuits | Both |
+| P5.2j | Recall that radio waves can be produced by, or can themselves induce, oscillations in electrical circuits | Higher Tier only |
 
 ## P5.2g: Practical uses of each wave group
 
@@ -188,7 +189,7 @@ Explain why an X-ray image of a broken arm shows the break but an ultrasound pro
 </figure>
 
 
-## P5.2j: Radio waves and circuits
+## P5.2j: Radio waves and circuits (Higher Tier only)
 
 Radio waves are produced by oscillations in an electrical circuit, and radio waves can also cause oscillations in a circuit. This is how radio communication works.
 

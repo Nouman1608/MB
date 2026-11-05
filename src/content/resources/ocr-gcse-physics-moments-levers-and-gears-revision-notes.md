@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed revision notes on moments, the principle of moments, levers and gears for OCR GCSE (9-1) Physics A (Gateway Science), J249, with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense statements P2.3k, P2.3l and P2.3m of OCR GCSE (9-1) Gateway Science Physics A (J249, Version 5.0, July 2026), topic P2.3 Forces in action. The specification prints all three in bold, so everything here is **Higher Tier only**. Look in the [study guide](/resources/ocr-gcse-physics-moments-levers-and-gears/); test yourself afterwards with the [practice set](/resources/ocr-gcse-physics-moments-levers-and-gears-practice/). Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/). Not sure where to begin? Use the [free 10-minute diagnostics](/diagnostics/).
+These notes condense statements P2.3k, P2.3l and P2.3m of OCR GCSE (9-1) Gateway Science Physics A (J249, Version 5.0, July 2026), topic P2.3 Forces in action. None of the three is printed in bold in the specification, so everything here is assessed in both tiers. (The tick symbol beside them marks content in the separate physics qualification, not tier.) Look in the [study guide](/resources/ocr-gcse-physics-moments-levers-and-gears/); test yourself afterwards with the [practice set](/resources/ocr-gcse-physics-moments-levers-and-gears-practice/). Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/). Not sure where to begin? Use the [free 10-minute diagnostics](/diagnostics/).
 
 ## Key definitions
 
@@ -51,7 +52,7 @@ These notes condense statements P2.3k, P2.3l and P2.3m of OCR GCSE (9-1) Gateway
 
 In M = F × d, d is the **perpendicular** distance between the pivot and the force's line of action. Convert centimetres to metres first. Gravitational field strength is given as data when needed, for example g = 10 N/kg.
 
-## P2.3k: forces causing rotation (Higher Tier only)
+## P2.3k: forces causing rotation
 
 - A force turns an object only if its line of action does not pass through the pivot.
 - Direction: hold the pivot fixed, picture the object moving under that force alone, and decide clockwise or anticlockwise.
@@ -70,7 +71,7 @@ In M = F × d, d is the **perpendicular** distance between the pivot and the for
 </figure>
 
 
-## P2.3l: moments and balance (Higher Tier only)
+## P2.3l: moments and balance
 
 ### Method for a balance problem
 
@@ -119,7 +120,7 @@ The specification suggests investigating moments with a metre ruler, a pivot and
 </figure>
 
 
-## P2.3m: levers and gears (Higher Tier only)
+## P2.3m: levers and gears
 
 ### Levers
 

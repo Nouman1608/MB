@@ -14,13 +14,14 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
     subtopic: "newtons-laws-ocr-gcse"
-description: "Study guide to F = ma, inertia, momentum, collisions and circular motion for OCR GCSE Physics A, with worked examples and a Higher Tier section."
+description: "Study guide to F = ma, inertia, momentum, collisions and circular motion for OCR GCSE Physics A, with worked examples and Higher Tier labels."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide covers statements P2.2i, P2.2j, P2.2k, P2.2l and P2.2q of the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), first assessment 2018. They sit in the Newton's laws part of Topic P2 Forces. Statement P2.2l is Higher Tier only. Everything else is for both tiers.
+This guide covers statements P2.2i, P2.2j, P2.2k, P2.2l and P2.2q of the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), first assessment 2018. They sit in the Newton's laws part of Topic P2 Forces. The specification prints P2.2j, P2.2k and P2.2q in bold, together with the momentum equation p = m v (PM2.2ii), so inertia, momentum and circular motion are Higher Tier only. P2.2i and P2.2l are for both tiers; where P2.2l is combined with momentum (force = change in momentum ÷ time), that part is Higher Tier only because it needs momentum.
 
 Related pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/), the [revision notes](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion-revision-notes/) and the [practice questions](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion-practice/). The wider topic is in [OCR GCSE Physics: Forces](/resources/ocr-gcse-physics-forces/). To find your weak spots first, try the [free 10-minute diagnostics](/diagnostics/).
 
@@ -29,10 +30,10 @@ Related pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [print
 | Statement | What you must be able to do | Tier |
 |---|---|---|
 | P2.2i | Apply Newton's second law in calculations relating force, mass and acceleration | Both |
-| P2.2j | Explain that inertia measures how hard it is to change an object's velocity; inertial mass is force divided by acceleration | Both |
-| P2.2k | Define momentum and describe examples of momentum in collisions (the idea of conservation of momentum) | Both |
-| P2.2l | Apply formulae relating force, mass, velocity and acceleration to explain how the changes involved are inter-related | Higher Tier only |
-| P2.2q | Explain why an object moving in a circle at constant speed has a changing velocity (qualitative only) | Both |
+| P2.2j | Explain that inertia measures how hard it is to change an object's velocity; inertial mass is force divided by acceleration | Higher Tier only |
+| P2.2k | Define momentum and describe examples of momentum in collisions (the idea of conservation of momentum) | Higher Tier only |
+| P2.2l | Apply formulae relating force, mass, velocity and acceleration to explain how the changes involved are inter-related | Both |
+| P2.2q | Explain why an object moving in a circle at constant speed has a changing velocity (qualitative only) | Higher Tier only |
 
 Work done, power and Newton's third law are separate statements and are not taught here.
 
@@ -105,7 +106,7 @@ Acceleration is proportional to force, because doubling the force roughly double
 </figure>
 
 
-## Inertia and inertial mass (P2.2j)
+## Inertia and inertial mass (P2.2j, Higher Tier only)
 
 **Inertia** is a measure of how difficult it is to change the velocity of an object. A stationary object resists being set moving. A moving object resists being slowed, sped up or turned.
 
@@ -134,7 +135,7 @@ Everyday examples to explain: a loaded shopping trolley is harder to start and h
 </figure>
 
 
-## Momentum and collisions (P2.2k)
+## Momentum and collisions (P2.2k, Higher Tier only)
 
 **Momentum** is the product of an object's mass and its velocity.
 
@@ -198,9 +199,9 @@ The specification gives the water rocket as a demonstration: the explosion prope
 </figure>
 
 
-## Force, mass, velocity and acceleration (P2.2l) -- Higher Tier only
+## Force, mass, velocity and acceleration (P2.2l), and force and momentum (Higher Tier only)
 
-The specification asks Higher Tier candidates to apply formulae relating force, mass, velocity and acceleration, and explain how the changes involved are inter-related. You can link F = ma, p = mv and a = (v - u) / t.
+Statement P2.2l (both tiers) asks you to apply formulae relating force, mass, velocity and acceleration, and explain how the changes involved are inter-related. Linking these to momentum, which is Higher Tier only, gives the result below, so this section is Higher Tier only. You can link F = ma, p = mv and a = (v - u) / t.
 
 Start with F = ma and replace a with (v - u) / t:
 
@@ -240,7 +241,7 @@ If the mass stays the same, this is just F = ma again: the change in velocity pe
 </figure>
 
 
-## Circular motion (P2.2q)
+## Circular motion (P2.2q, Higher Tier only)
 
 Speed is a scalar: it has size only. Velocity is a vector: it has size and direction. An object moving round a circle at constant speed has a velocity that keeps changing, because its direction keeps changing.
 

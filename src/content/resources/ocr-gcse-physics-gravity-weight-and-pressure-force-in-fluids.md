@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Study guide to gravitational fields, weight, free fall and pressure force in fluids for OCR GCSE Physics A, with fully worked calculations."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide covers statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 Forces in the OCR GCSE (9-1) Physics A (Gateway Science) specification, Version 5.0 (July 2026), first assessment 2018. P2.3g, P2.3h and P2.3i are assessed on both tiers. P2.3j, P2.3n and P2.3o are marked in bold in the specification, so they are **Higher Tier only**. Other pages cover springs and moments: see the [Forces study guide](/resources/ocr-gcse-physics-forces/) for the wider topic.
+This guide covers statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 Forces in the OCR GCSE (9-1) Physics A (Gateway Science) specification, Version 5.0 (July 2026), first assessment 2018. None of these statements is printed in bold in the specification, so all of them are assessed on both tiers. (P2.3j, P2.3n and P2.3o carry the tick symbol, which marks content in the separate physics qualification, not tier.) Other pages cover springs and moments: see the [Forces study guide](/resources/ocr-gcse-physics-forces/) for the wider topic.
 
 Related pages: [revision notes](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-revision-notes/), [practice questions](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-practice/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free diagnostics](/diagnostics/).
 
@@ -31,9 +32,9 @@ Related pages: [revision notes](/resources/ocr-gcse-physics-gravity-weight-and-p
 | P2.3g | Describe that all matter has a gravitational field that causes attraction, and that the field strength is much greater for massive objects | Both |
 | P2.3h | Define weight, describe how it is measured, and describe the relationship between weight and the gravitational field strength, g | Both |
 | P2.3i | Recall the acceleration in free fall | Both |
-| P2.3j | Apply formulae relating force, mass and physical constants, including g, to explore how changes in these are inter-related | Higher Tier only |
-| P2.3n | Recall that pressure in fluids (gases and liquids) causes a net force at right angles to any surface | Higher Tier only |
-| P2.3o | Use the relationship between force, pressure and area in contact, including how simple hydraulic systems work | Higher Tier only |
+| P2.3j | Apply formulae relating force, mass and physical constants, including g, to explore how changes in these are inter-related | Both |
+| P2.3n | Recall that pressure in fluids (gases and liquids) causes a net force at right angles to any surface | Both |
+| P2.3o | Use the relationship between force, pressure and area in contact, including how simple hydraulic systems work | Both |
 
 ## Gravitational fields (P2.3g)
 
@@ -120,9 +121,9 @@ A free-falling object gains about 10 m/s of speed every second. After 3.0 s from
 </figure>
 
 
-## Applying the formulae (P2.3j, Higher Tier only)
+## Applying the formulae (P2.3j)
 
-At Higher Tier you must use W = m g flexibly and explore how its quantities depend on each other. The four ideas below cover the usual questions.
+You must be able to use W = m g flexibly and explore how its quantities depend on each other. The four ideas below cover the usual questions.
 
 - **Direct proportion:** at one place, weight is directly proportional to mass. Doubling the mass doubles the weight. A graph of weight against mass is a straight line through the origin, and its gradient is g.
 - **Changing g:** for the same mass, weight is directly proportional to g. A planet with half the field strength gives half the weight.
@@ -165,7 +166,7 @@ A 5.0 kg crate is lifted by a rope with an upward pull of 70 N. Find its acceler
 </figure>
 
 
-## Pressure in fluids and the force it causes (P2.3n, Higher Tier only)
+## Pressure in fluids and the force it causes (P2.3n)
 
 A **fluid** is a gas or a liquid. Its particles move constantly and collide with any surface they touch. Each collision pushes on the surface. Billions of collisions each second add up to a steady pressure.
 
@@ -179,7 +180,7 @@ If fluid acts on both sides of a surface, it is the **difference** in pressure t
 </figure>
 
 
-## Pressure, force and area (P2.3o, Higher Tier only)
+## Pressure, force and area (P2.3o)
 
 The relationship is:
 
@@ -224,7 +225,7 @@ A lid of area 0.012 m² closes a container. The pressure inside is 1.8 × 10⁵ 
 </figure>
 
 
-## Simple hydraulic systems (P2.3o, Higher Tier only)
+## Simple hydraulic systems (P2.3o)
 
 A hydraulic system uses a liquid to transmit pressure. It has a small piston (the effort) joined by a pipe to a large piston (the load). Liquids are almost impossible to compress, and the pressure applied to an enclosed liquid is passed on through it. So the pressure is the same at both pistons:
 

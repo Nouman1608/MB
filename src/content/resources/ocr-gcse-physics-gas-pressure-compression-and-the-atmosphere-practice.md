@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original practice questions with worked answers on gas pressure, pV = constant, work done on a gas and atmospheric pressure for OCR GCSE Physics A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -25,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions follow the OCR *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), statements P1.3a to P1.3g. Questions 1 to 3 cover Foundation and Higher Tier content. Questions 4 to 11 test statements that are bold in the specification, so they are marked **(Higher Tier only)**. Take g = 10 N/kg where needed and use atmospheric pressure as given in each question.
+These questions follow the OCR *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), statements P1.3a to P1.3g. Of these, only P1.3e (doing work on a gas raises its temperature) is printed in bold in the specification, so question 8, which tests it, is marked **(Higher Tier only)**. Every other question is for both Foundation and Higher Tier. Take g = 10 N/kg where needed and use atmospheric pressure as given in each question.
 
 Links: [study guide](/resources/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere/), [revision notes](/resources/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere-revision-notes/), [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and the [free diagnostics](/diagnostics/).
 
@@ -45,28 +46,28 @@ Links: [study guide](/resources/ocr-gcse-physics-gas-pressure-compression-and-th
 
 **3.** A student says: "When a balloon of gas is heated, the gas particles expand. They take up more room, so they hit each other more and the pressure goes up." Identify the error and write a correct version of the explanation. **[3]**
 
-**4.** **(Higher Tier only)** A syringe containing air has its nozzle sealed.
+**4.** A syringe containing air has its nozzle sealed.
 **(a)** Explain why the air can be compressed a long way but a syringe full of sand cannot. **[2]**
 **(b)** Explain why the gas pressure on the inside wall of the syringe produces a force at right angles to the wall. **[2]**
 
-**5.** **(Higher Tier only)** A sealed container has a flat lid of area 0.12 m². The pressure inside is 60 kPa and the pressure outside is 100 kPa. Calculate the net force on the lid and state its direction. **[4]**
+**5.** A sealed container has a flat lid of area 0.12 m². The pressure inside is 60 kPa and the pressure outside is 100 kPa. Calculate the net force on the lid and state its direction. **[4]**
 
-**6.** **(Higher Tier only)** Assume the temperature is constant in each part.
+**6.** Assume the temperature is constant in each part.
 **(a)** A gas of volume 150 cm³ is at a pressure of 1.0 × 10⁵ Pa. It is compressed to 40 cm³. Calculate the new pressure. **[3]**
 **(b)** A tank of volume 0.30 m³ holds gas at 4.0 × 10⁵ Pa. The gas then spreads into a volume of 1.5 m³. Calculate the new pressure. **[2]**
 
-**7.** **(Higher Tier only)** A marshmallow contains many tiny gas bubbles. It is placed in a bell jar and air is pumped out. The marshmallow swells. Explain why. **[4]**
+**7.** A marshmallow contains many tiny gas bubbles. It is placed in a bell jar and air is pumped out. The marshmallow swells. Explain why. **[4]**
 
 **8.** **(Higher Tier only)** A hand pump is used to inflate a football quickly, and the metal barrel of the pump becomes warm.
 **(a)** Explain why the air in the pump becomes warmer. **[3]**
 **(b)** In one stroke the average force on the piston is 60 N and it moves through 0.25 m. Calculate the work done on the air. **[2]**
 
-**9.** **(Higher Tier only)**
+**9.**
 **(a)** Describe a simple model of the Earth's atmosphere. **[2]**
 **(b)** At ground level the atmospheric pressure is 1.0 × 10⁵ Pa. A flat roof has area 2.5 m². Calculate the force of the air on the roof. **[2]**
 **(c)** Use your answer to (b) to find the mass of air above the roof. **[1]**
 
-**10.** **(Higher Tier only)** The table gives atmospheric pressure at four heights.
+**10.** The table gives atmospheric pressure at four heights.
 
 | Height (km) | 0 | 2 | 4 | 6 |
 |---|---|---|---|---|
@@ -75,7 +76,7 @@ Links: [study guide](/resources/ocr-gcse-physics-gas-pressure-compression-and-th
 **(a)** Describe how the pressure changes with height. **[2]**
 **(b)** Explain why atmospheric pressure falls with height. **[3]**
 
-**11.** **(Higher Tier only)** A weather balloon has volume 5.0 m³ at the ground, where the pressure is 1.0 × 10⁵ Pa. It rises to a height where the pressure is 20 kPa.
+**11.** A weather balloon has volume 5.0 m³ at the ground, where the pressure is 1.0 × 10⁵ Pa. It rises to a height where the pressure is 20 kPa.
 **(a)** Assume the temperature stays constant. Calculate the volume of the balloon at that height. **[3]**
 **(b)** Explain, in terms of particles and forces, why the balloon expands as it rises. **[3]**
 **(c)** The air at that height is colder than at the ground. Suggest the effect of this on the volume you calculated. **[2]**

@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Study guide to interacting forces, vectors, resultants, free body diagrams and Newton's first and third laws for OCR GCSE (9-1) Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide covers statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, for first assessment in 2018). They sit in topic P2, section P2.2 Newton's laws. None of these statements is marked Higher Tier only, so all of this content is for both tiers. Newton's second law, inertia, momentum and circular motion are taught separately, as are work done, stored energy and power.
+This guide covers statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, for first assessment in 2018). They sit in topic P2, section P2.2 Newton's laws. The specification prints P2.2e, P2.2f, P2.2g and P2.2h in bold, so they are **Higher Tier only**: vector diagrams for resultants, resolution and equilibrium; forces on an isolated object or system, including terminal velocity; and using free body diagrams to describe resultant and balanced forces. P2.2a to P2.2d and P2.2p are for both tiers, including drawing a free body diagram (P2.2c) and Newton's first law (P2.2d). Higher Tier only material is labelled below. Newton's second law, inertia, momentum and circular motion are taught separately, as are work done, stored energy and power.
 
 Use the [revision notes](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams-revision-notes/) for quick recall and the [practice questions](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams-practice/) to test yourself. The wider topic is in [OCR GCSE Physics: Forces](/resources/ocr-gcse-physics-forces/), with its [practice set](/resources/ocr-gcse-physics-forces-practice/). See the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). Not sure where you stand? Try the [free 10-minute diagnostics](/diagnostics/).
 
@@ -32,10 +33,10 @@ Use the [revision notes](/resources/ocr-gcse-physics-interacting-forces-vectors-
 | P2.2b | Describe how each interaction involves a pair of objects, producing a force on each |
 | P2.2c | Represent forces as vectors, drawing free body diagrams |
 | P2.2d | Apply Newton's first law to uniform velocity and to changes of speed and/or direction (qualitative only) |
-| P2.2e | Use vector diagrams for resolution, resultant force and equilibrium (scale drawings limited to parallel and perpendicular vectors) |
-| P2.2f | Describe forces on an isolated solid object or system, for example terminal velocity |
-| P2.2g | Use free body diagrams where two or more forces give a resultant |
-| P2.2h | Use free body diagrams where forces balance to give zero resultant (qualitative only) |
+| P2.2e | Use vector diagrams for resolution, resultant force and equilibrium (scale drawings limited to parallel and perpendicular vectors). **Higher Tier only** |
+| P2.2f | Describe forces on an isolated solid object or system, for example terminal velocity. **Higher Tier only** |
+| P2.2g | Use free body diagrams where two or more forces give a resultant. **Higher Tier only** |
+| P2.2h | Use free body diagrams where forces balance to give zero resultant (qualitative only). **Higher Tier only** |
 | P2.2p | Recall and apply Newton's third law to equilibrium and non-equilibrium situations |
 
 ## Forces come from interactions (P2.2a, P2.2b)
@@ -73,7 +74,7 @@ A vector has both size and direction. A force is a vector. In a diagram:
 
 Forces in opposite directions along a line are given opposite signs when you add them. Always state which direction you are treating as positive.
 
-## Free body diagrams (P2.2c, P2.2f, P2.2g, P2.2h)
+## Free body diagrams (P2.2c; the P2.2f, P2.2g and P2.2h uses are Higher Tier only)
 
 A free body diagram shows **one object only**, drawn as a box or dot, with arrows for **only the forces acting on that object**. Rules that gain credit:
 
@@ -97,7 +98,7 @@ A book on a table:
 
 The two arrows are the same length because the book is not accelerating vertically.
 
-**Forces on an isolated object or system.** A system is a chosen object or group treated as one thing. A car being driven forward at constant speed on a flat road has:
+**Forces on an isolated object or system (P2.2f, Higher Tier only).** A system is a chosen object or group treated as one thing. A car being driven forward at constant speed on a flat road has:
 
 - thrust (driving force) forward
 - drag and friction backward
@@ -124,7 +125,7 @@ A common misconception is that a stationary object has no forces on it. It has f
 
 The specification suggests measuring the velocity of ball bearings in glycerol (at different temperatures or of differing sizes), and designing a parachute and measuring its terminal velocity as it is dropped.
 
-### Terminal velocity (P2.2f)
+### Terminal velocity (P2.2f, Higher Tier only)
 
 A falling skydiver starts with weight larger than drag, so the resultant is downward and speed rises. As speed rises, drag rises. The resultant shrinks. When drag equals weight, the resultant is zero and the skydiver falls at constant velocity: **terminal velocity**. Opening the parachute raises drag above weight. The resultant is then upward, so the skydiver slows until drag again equals weight, at a smaller terminal velocity. The same ideas apply to a vehicle: top speed is reached when drag and friction equal the driving force.
 
@@ -144,11 +145,11 @@ A falling skydiver starts with weight larger than drag, so the resultant is down
 </figure>
 
 
-## Resultant forces (P2.2e, P2.2g)
+## Resultant forces (P2.2e, P2.2g, Higher Tier only)
 
 The **resultant force** is one force that could replace all the forces on the object and give the same overall effect.
 
-**Forces along one line.** Add forces in the same direction. Subtract those in opposite directions.
+**Forces along one line.** Adding forces along one line is also needed for Newton's first and second laws, which are for both tiers. Add forces in the same direction. Subtract those in opposite directions.
 
 **Worked example 1.** A crate is pushed east with 260 N. Friction of 180 N acts west. The weight and normal contact force are equal and opposite.
 
@@ -177,7 +178,7 @@ Scale: 1 cm represents 2 N, so the arrows are 7.5 cm and 4.0 cm.
 </figure>
 
 
-## Resolution of forces (P2.2e)
+## Resolution of forces (P2.2e, Higher Tier only)
 
 Resolving does the reverse: a single force is replaced by two perpendicular forces (components) that together have the same effect. Scale drawings are limited to parallel and perpendicular vectors, so you draw the force as the diagonal of a rectangle and read off the sides.
 
@@ -199,7 +200,7 @@ The horizontal component pulls the trolley along. The vertical component partly 
 </figure>
 
 
-## Equilibrium and balanced forces (P2.2e, P2.2h)
+## Equilibrium and balanced forces (P2.2e, P2.2h, Higher Tier only)
 
 An object is in **equilibrium** when the resultant force is zero. The forces balance: for every force in one direction there are forces totalling the same size in the opposite direction. A vector diagram of forces in equilibrium forms a **closed shape**: the arrows, placed head to tail, return to the start.
 

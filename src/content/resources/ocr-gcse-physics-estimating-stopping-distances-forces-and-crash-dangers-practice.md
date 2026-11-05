@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original worked practice questions on estimating stopping distances and road forces, and on crash decelerations, for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,18 +27,18 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions follow the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0, July 2026, statements P8.1f to P8.1i. Statements P8.1f, P8.1h and P8.1i are Higher Tier only, and questions on them are labelled. P8.1g is for both tiers. Revise first with the [study guide](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers/) or the [revision notes](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-revision-notes/). Other links: the [course hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/) and the [free diagnostics](/diagnostics/). Take g as 9.8 N/kg where weight is needed.
+These questions follow the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0, July 2026, statements P8.1f to P8.1i. Only P8.1h (estimating the forces in typical situations on a public road) is printed in bold in the specification, so it is Higher Tier only, and questions and parts on it are labelled. P8.1f, P8.1g and P8.1i are for both tiers. Revise first with the [study guide](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers/) or the [revision notes](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-revision-notes/). Other links: the [course hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/) and the [free diagnostics](/diagnostics/). Take g as 9.8 N/kg where weight is needed.
 
 ## Questions
 
-**1.** (Higher Tier only) A car travels at 72 km/h. A driver's reaction time is 0.75 s and the car then decelerates steadily at 6.0 m/s². Estimate the stopping distance. **[4]**
+**1.** A car travels at 72 km/h. A driver's reaction time is 0.75 s and the car then decelerates steadily at 6.0 m/s². Estimate the stopping distance. **[4]**
 
-**2.** (Higher Tier only) A car's braking distance on a dry road is 12 m from 15 m/s.
+**2.** A car's braking distance on a dry road is 12 m from 15 m/s.
 
 **(a)** Estimate the braking distance from 30 m/s on the same road. **[2]**
 **(b)** State how the thinking distance changes when the speed doubles. **[1]**
 
-**3.** (Higher Tier only) Explain why a graph of stopping distance against speed is a curve and not a straight line. **[3]**
+**3.** Explain why a graph of stopping distance against speed is a curve and not a straight line. **[3]**
 
 **4.** Explain why a passenger who is not wearing a seat belt is likely to be more seriously hurt when a car stops suddenly. **[3]**
 
@@ -51,28 +52,28 @@ These questions follow the OCR GCSE (9-1) Gateway Science Physics A specificatio
 
 **7.** (Higher Tier only) Estimate the average force needed to bring a cyclist and bicycle to rest from a typical cycling speed in a typical time. State the values you assume. **[4]**
 
-**8.** (Higher Tier only) An electric car of mass 1600 kg accelerates from rest to 27 m/s in 5.4 s.
+**8.** An electric car of mass 1600 kg accelerates from rest to 27 m/s in 5.4 s.
 
 **(a)** Calculate its acceleration. **[2]**
 **(b)** Calculate the resultant force. **[1]**
 **(c)** Calculate the distance travelled, assuming constant acceleration. **[2]**
 
-**9.** (Higher Tier only) Skid marks are 36 m long on a wet road. Assume the deceleration was 4.0 m/s².
+**9.** Skid marks are 36 m long on a wet road. Assume the deceleration was 4.0 m/s².
 
 **(a)** Estimate the car's speed at the start of the skid, in m/s. **[3]**
 **(b)** Give one reason the estimate may be unreliable. **[1]**
 
-**10.** (Higher Tier only) A car of mass 1000 kg travelling at 15 m/s hits a barrier. The front of the car crumples by 0.75 m as the car stops.
+**10.** A car of mass 1000 kg travelling at 15 m/s hits a barrier. The front of the car crumples by 0.75 m as the car stops.
 
 **(a)** Calculate the car's kinetic energy before the impact. **[2]**
 **(b)** Calculate the average force on the car while it crumples. **[2]**
 **(c)** Calculate the deceleration, and state how many times larger it is than 9.8 m/s². **[2]**
 **(d)** Explain why designers want a longer crumple distance. **[2]**
 
-**11.** (Higher Tier only) A car of mass 1500 kg is driven at 22 m/s. The driver reacts after 0.50 s and the brakes then give a steady deceleration of 6.0 m/s².
+**11.** A car of mass 1500 kg is driven at 22 m/s. The driver reacts after 0.50 s and the brakes then give a steady deceleration of 6.0 m/s².
 
 **(a)** Estimate the stopping distance. **[3]**
-**(b)** Calculate the braking force. **[2]**
+**(b)** (Higher Tier only) Calculate the braking force. **[2]**
 **(c)** A hazard is 50 m ahead when the driver first sees it. Calculate the speed of the car when it reaches the hazard. **[3]**
 **(d)** Explain why a collision at this speed (about 9 mph) could still seriously injure a pedestrian. **[2]**
 

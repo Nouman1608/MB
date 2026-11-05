@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original practice questions with worked answers on moments, balance, levers and gears for OCR GCSE (9-1) Physics A (Gateway Science), J249."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,63 +27,63 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover statements P2.3k, P2.3l and P2.3m of OCR GCSE (9-1) Gateway Science Physics A (J249, Version 5.0, July 2026). The specification prints all three statements in bold, so every question is **Higher Tier only**. Where a question needs g, it is given as 10 N/kg. Revise first with the [study guide](/resources/ocr-gcse-physics-moments-levers-and-gears/) and the [revision notes](/resources/ocr-gcse-physics-moments-levers-and-gears-revision-notes/). Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/).
+These questions cover statements P2.3k, P2.3l and P2.3m of OCR GCSE (9-1) Gateway Science Physics A (J249, Version 5.0, July 2026). None of the three is printed in bold in the specification, so every question is suitable for both Foundation and Higher Tier. (The tick symbol beside them marks content in the separate physics qualification, not tier.) Where a question needs g, it is given as 10 N/kg. Revise first with the [study guide](/resources/ocr-gcse-physics-moments-levers-and-gears/) and the [revision notes](/resources/ocr-gcse-physics-moments-levers-and-gears-revision-notes/). Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/).
 
 ## Questions
 
-**1.** (Higher Tier only) Define the moment of a force, write down the equation used to calculate it, and give the unit. **[3]**
+**1.** Define the moment of a force, write down the equation used to calculate it, and give the unit. **[3]**
 
-**2.** (Higher Tier only) A see-saw is pivoted at its middle. A child on the right pushes down on the seat.
+**2.** A see-saw is pivoted at its middle. A child on the right pushes down on the seat.
 
 **(a)** State the direction of the turning effect of this force about the pivot. **[1]**
 **(b)** Describe what happens to the left-hand end of the see-saw. **[1]**
 **(c)** A second child sits directly above the pivot. Explain why this child's weight has no turning effect. **[1]**
 
-**3.** (Higher Tier only) A cyclist pushes down on a pedal with a force of 220 N. The crank is horizontal and 0.17 m long, and the force is vertical.
+**3.** A cyclist pushes down on a pedal with a force of 220 N. The crank is horizontal and 0.17 m long, and the force is vertical.
 
 **(a)** Calculate the moment of the force about the axle. **[2]**
 **(b)** The crank is now vertical, with the same vertical force. State the moment and explain your answer. **[2]**
 
-**4.** (Higher Tier only) A nut needs a moment of 85 N m to loosen it. A spanner has an effective length of 0.34 m.
+**4.** A nut needs a moment of 85 N m to loosen it. A spanner has an effective length of 0.34 m.
 
 **(a)** Calculate the force needed at the end of the spanner, at right angles to it. **[2]**
 **(b)** A pipe is slid over the handle so that the effective length becomes 0.85 m. Calculate the new force needed. **[2]**
 
-**5.** (Higher Tier only) A uniform plank is pivoted at its centre. A girl of weight 520 N sits 1.5 m from the pivot. A boy sits on the other side, 1.95 m from the pivot, and the plank balances. The plank weighs 180 N.
+**5.** A uniform plank is pivoted at its centre. A girl of weight 520 N sits 1.5 m from the pivot. A boy sits on the other side, 1.95 m from the pivot, and the plank balances. The plank weighs 180 N.
 
 **(a)** Calculate the weight of the boy. **[3]**
 **(b)** Calculate the upward force of the pivot on the plank and explain how you know it. **[2]**
 
-**6.** (Higher Tier only) A uniform metre rule of mass 0.100 kg is pivoted at its 50 cm mark. A mass of 0.150 kg hangs from the 20 cm mark. A 0.100 kg mass is hung on the right-hand side to balance the rule.
+**6.** A uniform metre rule of mass 0.100 kg is pivoted at its 50 cm mark. A mass of 0.150 kg hangs from the 20 cm mark. A 0.100 kg mass is hung on the right-hand side to balance the rule.
 
 **(a)** Calculate the distance from the pivot at which the 0.100 kg mass must hang. **[4]**
 **(b)** Explain why the weight of the rule can be left out of your calculation. **[1]**
 
-**7.** (Higher Tier only) A uniform plank is 3.0 m long and weighs 240 N. It rests on a pivot 1.0 m from its left end. A person of weight 300 N stands on the left end. A weight is placed on the right end so the plank balances.
+**7.** A uniform plank is 3.0 m long and weighs 240 N. It rests on a pivot 1.0 m from its left end. A person of weight 300 N stands on the left end. A weight is placed on the right end so the plank balances.
 
 **(a)** Calculate the weight placed on the right end. **[4]**
 **(b)** Calculate the upward force of the pivot on the plank. **[2]**
 **(c)** The right-hand weight is removed. State, with a reason, the direction in which the plank starts to turn. **[2]**
 
-**8.** (Higher Tier only) A crowbar is used to lift the lid of a crate. The crowbar presses on the lid 0.10 m from the pivot with a force of 1650 N. The hand pushes at right angles to the bar 1.1 m from the pivot.
+**8.** A crowbar is used to lift the lid of a crate. The crowbar presses on the lid 0.10 m from the pivot with a force of 1650 N. The hand pushes at right angles to the bar 1.1 m from the pivot.
 
 **(a)** Calculate the force applied by the hand. **[3]**
 **(b)** Explain why a crowbar is called a force multiplier, and state one disadvantage of using it. **[2]**
 
-**9.** (Higher Tier only) A driver gear with 18 teeth applies a moment of 4.2 N m and turns at 150 revolutions per minute. It meshes with a driven gear with 54 teeth. Ignore friction.
+**9.** A driver gear with 18 teeth applies a moment of 4.2 N m and turns at 150 revolutions per minute. It meshes with a driven gear with 54 teeth. Ignore friction.
 
 **(a)** Calculate the gear ratio. **[1]**
 **(b)** Calculate the moment on the driven gear. **[2]**
 **(c)** Calculate the speed of the driven gear. **[2]**
 **(d)** State the direction in which the driven gear turns, compared with the driver. **[1]**
 
-**10.** (Higher Tier only) In a gear train, gear A (10 teeth) is on a motor shaft and drives gear B (40 teeth). Gear C (12 teeth) is on the same shaft as B and drives gear D (36 teeth). The motor supplies a moment of 0.80 N m at 3600 revolutions per minute. Ignore friction.
+**10.** In a gear train, gear A (10 teeth) is on a motor shaft and drives gear B (40 teeth). Gear C (12 teeth) is on the same shaft as B and drives gear D (36 teeth). The motor supplies a moment of 0.80 N m at 3600 revolutions per minute. Ignore friction.
 
 **(a)** Calculate the gear ratio for each pair. **[2]**
 **(b)** Calculate the overall ratio. **[1]**
 **(c)** Calculate the moment and the speed of gear D. **[3]**
 
-**11.** (Higher Tier only) A uniform horizontal pole of length 1.2 m and weight 80 N is hinged at a wall. A sign of weight 150 N hangs from its far end. A cable from the wall to the pole holds it level. The perpendicular distance from the hinge to the line of the cable is 0.76 m.
+**11.** A uniform horizontal pole of length 1.2 m and weight 80 N is hinged at a wall. A sign of weight 150 N hangs from its far end. A cable from the wall to the pole holds it level. The perpendicular distance from the hinge to the line of the cable is 0.76 m.
 
 **(a)** Calculate the total clockwise moment of the pole and the sign about the hinge. **[3]**
 **(b)** Calculate the force in the cable. **[2]**

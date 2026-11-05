@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original OCR GCSE Physics A practice questions on F = ma, inertia, momentum, collisions and circular motion, with worked answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover statements P2.2i, P2.2j, P2.2k, P2.2l (Higher Tier only) and P2.2q of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026). Questions 8 and 9 are Higher Tier only. Learn the content first in the [study guide](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion/) or the [revision notes](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion-revision-notes/). The [course hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free 10-minute diagnostics](/diagnostics/) are linked for planning.
+These questions cover statements P2.2i, P2.2j, P2.2k, P2.2l and P2.2q of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026). The specification prints P2.2j (inertia), P2.2k (momentum), P2.2q (circular motion) and the momentum equation p = m v (PM2.2ii) in bold, so questions 4 to 11, which use them, are Higher Tier only. Questions 1 to 3 (Newton's second law) are for both tiers. Learn the content first in the [study guide](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion/) or the [revision notes](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion-revision-notes/). The [course hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free 10-minute diagnostics](/diagnostics/) are linked for planning.
 
 ## Questions
 
@@ -44,16 +45,16 @@ These questions cover statements P2.2i, P2.2j, P2.2k, P2.2l (Higher Tier only) a
 **(b)** Calculate the mass of the system, using the 2.0 N result. **[2]**
 **(c)** Suggest how the mass of the system can be kept constant as the force is increased. **[1]**
 
-**4.** **(a)** Define inertial mass. **[1]**
+**4.** (Higher Tier only) **(a)** Define inertial mass. **[1]**
 **(b)** The same resultant force of 12 N is applied separately to two objects. Object P accelerates at 3.0 m/s² and object R at 0.50 m/s². Calculate the inertial mass of each. **[2]**
 **(c)** State which object has more inertia and explain how you know. **[1]**
 
-**5.** **(a)** A lorry of mass 7500 kg travels at 8.0 m/s. Calculate its momentum. **[2]**
+**5.** (Higher Tier only) **(a)** A lorry of mass 7500 kg travels at 8.0 m/s. Calculate its momentum. **[2]**
 **(b)** A cyclist and bicycle have a combined mass of 90 kg and a momentum of 540 kg m/s. Calculate their velocity. **[2]**
 
-**6.** A trolley of mass 0.60 kg moves at 2.0 m/s towards a stationary trolley of mass 0.40 kg. They stick together. Calculate the velocity of the joined trolleys, stating its direction. **[4]**
+**6.** (Higher Tier only) A trolley of mass 0.60 kg moves at 2.0 m/s towards a stationary trolley of mass 0.40 kg. They stick together. Calculate the velocity of the joined trolleys, stating its direction. **[4]**
 
-**7.** An astronaut of mass 80 kg floats at rest in space. She throws a 4.0 kg tool away from her at 5.0 m/s. Calculate the velocity of the astronaut, including its direction relative to the tool. **[4]**
+**7.** (Higher Tier only) An astronaut of mass 80 kg floats at rest in space. She throws a 4.0 kg tool away from her at 5.0 m/s. Calculate the velocity of the astronaut, including its direction relative to the tool. **[4]**
 
 **8.** (Higher Tier only) A cricket ball of mass 0.16 kg moving at 30 m/s is brought to rest by a fielder's hands in 0.040 s. Calculate the average force on the ball. **[3]**
 
@@ -63,11 +64,11 @@ These questions cover statements P2.2i, P2.2j, P2.2k, P2.2l (Higher Tier only) a
 **(b)** Calculate the average force if an air bag makes the stopping time 0.20 s. **[1]**
 **(c)** Explain why the air bag reduces the risk of injury. **[2]**
 
-**10.** A car travels round a roundabout at a constant speed of 9 m/s.
+**10.** (Higher Tier only) A car travels round a roundabout at a constant speed of 9 m/s.
 **(a)** Explain why the velocity of the car is changing. **[2]**
 **(b)** A rubber bung is whirled in a horizontal circle on a string. The string breaks. Describe the motion of the bung afterwards. **[2]**
 
-**11.** A bumper car A of mass 200 kg moves at 3.0 m/s and hits a stationary bumper car B of mass 150 kg. The cars lock together.
+**11.** (Higher Tier only) A bumper car A of mass 200 kg moves at 3.0 m/s and hits a stationary bumper car B of mass 150 kg. The cars lock together.
 **(a)** Calculate the momentum of A before the collision. **[1]**
 **(b)** Calculate the speed of the locked cars immediately after the collision. **[2]**
 **(c)** State what happens to the momentum of A during the collision. **[1]**

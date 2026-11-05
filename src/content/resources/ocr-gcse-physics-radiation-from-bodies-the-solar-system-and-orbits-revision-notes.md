@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed OCR GCSE Physics A revision notes on thermal radiation, solar system features, circular orbits and Earth's radiation balance, with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense statements P8.3d to P8.3h of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018. All five statements are **Higher Tier only**. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits/). Then test yourself with the [practice questions](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits-practice/). Planning links: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).
+These notes condense statements P8.3d to P8.3h of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018. P8.3f, P8.3g and P8.3h are printed in bold in the specification, so they are **Higher Tier only**. P8.3d and P8.3e are assessed in both tiers. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits/). Then test yourself with the [practice questions](/resources/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits-practice/). Planning links: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).
 
 ## Key ideas at a glance
 
@@ -28,11 +29,11 @@ These notes condense statements P8.3d to P8.3h of OCR GCSE (9-1) Gateway Science
 |---|---|
 | P8.3d | All bodies emit radiation. Hotter means greater intensity and a distribution shifted to shorter wavelengths |
 | P8.3e | Eight planets, minor planets, moons, artificial satellites. Geostationary and polar orbits differ |
-| P8.3f | Gravity acts towards the centre, so velocity changes while speed stays constant |
-| P8.3g | A stable orbit has one speed for its radius. Change the speed and the radius must change |
-| P8.3h | Temperature depends on absorbed radiation against emitted radiation. Equilibrium means they are equal |
+| P8.3f (Higher Tier only) | Gravity acts towards the centre, so velocity changes while speed stays constant |
+| P8.3g (Higher Tier only) | A stable orbit has one speed for its radius. Change the speed and the radius must change |
+| P8.3h (Higher Tier only) | Temperature depends on absorbed radiation against emitted radiation. Equilibrium means they are equal |
 
-## P8.3d: emitted radiation (Higher Tier only)
+## P8.3d: emitted radiation (both tiers)
 
 - Every body emits electromagnetic radiation at every temperature.
 - The emission is a **continuous range** of wavelengths, not one value.
@@ -67,7 +68,7 @@ Sketch to remember: two smooth humps on one axis. The hot one is taller and sits
 </figure>
 
 
-## P8.3e: solar system facts (Higher Tier only)
+## P8.3e: solar system facts (both tiers)
 
 Order from the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
 
@@ -179,9 +180,9 @@ Useful relation from speed = distance / time: orbital speed = 2πr / T.
 1. Circumference = 2π × 4.22 × 10⁷ = 2.652 × 10⁸ m
 2. Speed = 2.652 × 10⁸ / 86 400 = 3070 m/s
 
-**Comparing two orbits without numbers.** A is closer to the planet than B. Gravity at A is stronger, so A needs a higher speed to stay in a stable circular orbit, and A completes an orbit in a shorter time.
+**Comparing two orbits without numbers (Higher Tier only).** A is closer to the planet than B. Gravity at A is stronger, so A needs a higher speed to stay in a stable circular orbit, and A completes an orbit in a shorter time.
 
-**Heating balance.** A drinks can in sunshine absorbs 25 W and emits 10 W. Net gain = 15 W. In 4 minutes it gains 15 × 240 = 3600 J. It keeps warming until emission is 25 W.
+**Heating balance (Higher Tier only).** A drinks can in sunshine absorbs 25 W and emits 10 W. Net gain = 15 W. In 4 minutes it gains 15 × 240 = 3600 J. It keeps warming until emission is 25 W.
 
 **Explaining a glow.** Question: why does a hotter filament look whiter? Answer: higher temperature moves the strongest emission to shorter wavelength, so the visible output includes more of the shorter (blue and green) wavelengths as well as red, and the intensity is greater.
 
@@ -193,10 +194,10 @@ Useful relation from speed = distance / time: orbital speed = 2πr / T.
 4. State one similarity and one difference between a moon and an artificial satellite.
 5. Why can a geostationary satellite stay above one place on Earth?
 6. A satellite orbits with radius 8.0 × 10⁶ m and period 7100 s. Calculate its speed to 3 significant figures.
-7. Explain why a planet in a circular orbit is accelerating at constant speed.
-8. A satellite speeds up and keeps a stable orbit. What must happen to its radius?
-9. A roof absorbs 400 W and emits 340 W. Calculate the energy gained in 5 minutes.
-10. Explain why extra carbon dioxide warms Earth until a new equilibrium.
+7. (Higher Tier only) Explain why a planet in a circular orbit is accelerating at constant speed.
+8. (Higher Tier only) A satellite speeds up and keeps a stable orbit. What must happen to its radius?
+9. (Higher Tier only) A roof absorbs 400 W and emits 340 W. Calculate the energy gained in 5 minutes.
+10. (Higher Tier only) Explain why extra carbon dioxide warms Earth until a new equilibrium.
 
 ### Answers
 

@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original practice questions with worked answers on dissipation, power ratings, efficiency and insulation for OCR GCSE (9-1) Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover statements P7.2a to P7.2g, Power and efficiency, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). All of the content is assessed in both tiers. Learn the ideas first from the [study guide](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss/) or the [revision notes](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss-revision-notes/). Course pages: the [hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). Where a question needs g, it is given as 9.8 N/kg in the question.
+These questions cover statements P7.2a to P7.2g, Power and efficiency, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). All of the content is assessed in both tiers except P7.2e (describe ways to increase efficiency), which is printed in bold in the specification and so is Higher Tier only; the part that tests it is labelled. Learn the ideas first from the [study guide](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss/) or the [revision notes](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss-revision-notes/). Course pages: the [hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). Where a question needs g, it is given as 9.8 N/kg in the question.
 
 ## Questions
 
@@ -65,7 +66,7 @@ These questions cover statements P7.2a to P7.2g, Power and efficiency, in the OC
 **(a)** Calculate the gain in gravitational potential energy of the load. **[2]**
 **(b)** Calculate the efficiency of the winch. **[2]**
 **(c)** Calculate the average input power. **[2]**
-**(d)** Suggest two changes that would increase the efficiency of the winch. **[2]**
+**(d)** (Higher Tier only) Suggest two changes that would increase the efficiency of the winch. **[2]**
 
 ## Answers
 
