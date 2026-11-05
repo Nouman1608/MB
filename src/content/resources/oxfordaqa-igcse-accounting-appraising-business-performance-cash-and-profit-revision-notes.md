@@ -31,7 +31,7 @@ The specification says the formulae are in OxfordAQA's guide "Formulae for accou
 |---|---|---|
 | Gross profit margin | gross profit / revenue x 100 | % |
 | Markup | gross profit / cost of sales x 100 | % |
-| Profit in relation to revenue | profit for the year / revenue x 100 | % |
+| Profit in relation to revenue | profit from operations / revenue x 100 | % |
 | Return on capital employed | profit from operations / capital employed x 100 | % |
 | Rate of inventory turnover | cost of sales / average inventory | times |
 | Current ratio | current assets : current liabilities | x : 1 |
@@ -41,7 +41,7 @@ The specification says the formulae are in OxfordAQA's guide "Formulae for accou
 
 Supporting definitions
 
-- Profit from operations = gross profit - expenses, before loan interest. With no loan interest it equals profit for the year.
+- Profit from operations = gross profit - expenses, before loan interest. With no loan interest it equals profit for the year. Profit in relation to revenue and ROCE both use it, as OxfordAQA's own 9215 mark scheme (Paper 2, May/June 2026) does.
 - Capital employed = non-current assets + current assets - current liabilities = capital + non-current liabilities.
 - Average inventory = (opening + closing) / 2.
 - Working capital = current assets - current liabilities.

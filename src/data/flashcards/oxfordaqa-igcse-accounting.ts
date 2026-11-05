@@ -235,7 +235,7 @@ export const DECK_OXFORDAQA_IGCSE_ACCOUNTING: FlashcardDeck = {
     ]),
     ...unnumbered(T5, 'accounting-ratios-oxfordaqa-igcse-accounting', 20, [
       { n: 1, f: 'Gross profit margin and markup', b: 'Gross profit margin = gross profit ÷ revenue × 100.\nMarkup = gross profit ÷ cost of sales × 100.\nMarkup is the larger figure for the same trading.' },
-      { n: 2, f: 'Profit in relation to revenue, and return on capital employed', b: 'Profit in relation to revenue = profit for the year ÷ revenue × 100.\nROCE = profit from operations ÷ capital employed × 100, where capital employed = equity + non-current liabilities.' },
+      { n: 2, f: 'Profit in relation to revenue, and return on capital employed', b: 'Profit in relation to revenue = profit from operations ÷ revenue × 100.\nROCE = profit from operations ÷ capital employed × 100, where capital employed = equity + non-current liabilities. Both use profit from operations, as in the 9215 mark scheme (May/June 2026).' },
       { n: 3, f: 'Current ratio and liquid capital ratio', b: 'Current ratio = current assets : current liabilities.\nLiquid capital ratio = (current assets − inventory) : current liabilities.\nBoth written as x : 1.' },
       { n: 4, f: 'Rate of inventory turnover, trade receivable days and trade payable days', b: 'Inventory turnover = cost of sales ÷ average inventory (times).\nReceivable days = trade receivables ÷ credit revenue × 365.\nPayable days = trade payables ÷ credit purchases × 365.' },
       { n: 5, f: 'Revenue $96,000; cost of sales $72,000. Gross profit margin and markup?', b: 'Gross profit 24,000. Margin 24,000 ÷ 96,000 × 100 = 25.0%. Markup 24,000 ÷ 72,000 × 100 = 33.3%.' },

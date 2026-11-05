@@ -20,6 +20,7 @@ syllabusTopics:
 description: "Eleven original questions with worked answers on limits of financial statements, ratios and computers in accounting for OxfordAQA IGCSE Accounting 9215."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -73,7 +74,7 @@ Learn the content from the [study guide](/resources/oxfordaqa-igcse-accounting-l
 | Trade receivables at year end | 36,000 | 66,000 |
 
 **(a)** Calculate the gross profit margin for each year. **[2]**
-**(b)** Calculate profit in relation to revenue (profit for the year divided by revenue) for each year. **[2]**
+**(b)** Calculate profit in relation to revenue (profit from operations divided by revenue; there is no loan interest) for each year. **[2]**
 **(c)** Calculate trade receivable days for each year, to 1 decimal place. **[2]**
 **(d)** Assess the change in performance, referring to limitations of the figures. **[4]**
 

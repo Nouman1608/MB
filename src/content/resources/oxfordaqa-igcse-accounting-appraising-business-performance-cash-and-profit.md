@@ -44,11 +44,11 @@ Profitability measures
 |---|---|---|
 | Gross profit margin % | gross profit / revenue x 100 | Gross profit earned from each 100 of revenue |
 | Markup % | gross profit / cost of sales x 100 | Gross profit added on top of cost |
-| Profit in relation to revenue % | profit for the year / revenue x 100 | How much of each 100 of revenue is left after all expenses |
+| Profit in relation to revenue % | profit from operations / revenue x 100 | How much of each 100 of revenue is left after operating expenses |
 | Return on capital employed % | profit from operations / capital employed x 100 | Profit earned from the money invested in the business |
 | Rate of inventory turnover | cost of sales / average inventory (times) | How often inventory is sold and replaced in a year |
 
-ROCE uses profit from operations (before loan interest), as OxfordAQA's own 9215 mark scheme does (Paper 2, May/June 2026). Where there is no loan interest, as in the examples on this page, profit from operations and profit for the year are the same figure.
+Profit in relation to revenue and ROCE both use profit from operations (before loan interest), as OxfordAQA's own 9215 mark scheme (Paper 2, May/June 2026) does. Where there is no loan interest, as in the examples on this page, profit from operations and profit for the year are the same figure.
 
 Capital employed is non-current assets plus current assets minus current liabilities. It also equals capital plus non-current liabilities. Average inventory is (opening inventory + closing inventory) / 2. If only closing inventory is given, use that and say so.
 
@@ -97,7 +97,7 @@ Kesterwick Outdoor Supplies is a sole trader. The figures for the years ended 31
 | Bank (overdraft in 2026) | 12,000 | (9,000) |
 | Non-current assets (net) | 250,000 | 262,000 |
 
-Step 1: profit. Gross profit is 180,000 in 2025 and 196,000 in 2026. Profit for the year is 60,000 and 56,000; with no loan interest, these are also the profits from operations used for ROCE.
+Step 1: profit. Gross profit is 180,000 in 2025 and 196,000 in 2026. Profit for the year is 60,000 and 56,000; with no loan interest, these are also the profits from operations used for profit in relation to revenue and ROCE.
 
 Step 2: current assets and liabilities. In 2025, current assets are 38,000 + 38,000 + 12,000 = 88,000 and current liabilities are 38,000. In 2026, current assets are 56,000 + 72,000 = 128,000 and current liabilities are 70,000 + 9,000 overdraft = 79,000. Capital employed is 250,000 + 88,000 - 38,000 = 300,000 in 2025 and 262,000 + 128,000 - 79,000 = 311,000 in 2026.
 
