@@ -36,6 +36,7 @@ const EXP = 'aqa-gcse-business-expanding-a-business-revision-notes';
 const TECH = 'aqa-gcse-business-technology-ethical-revision-notes';
 const EEC = 'aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-on-businesses-revision-notes';
 const GL = 'aqa-gcse-business-globalisation-and-legislation-revision-notes';
+const CE = 'aqa-gcse-business-competitive-environment-revision-notes';
 const OPS = 'aqa-gcse-business-business-operations-revision-notes';
 const HR = 'aqa-gcse-business-human-resources-revision-notes';
 const MKG = 'aqa-gcse-business-marketing-revision-notes';
@@ -204,11 +205,12 @@ export const DECK_AQA_GCSE_BUSINESS: FlashcardDeck = {
       { n: 9, f: "Law versus ethics", b: "The law is the minimum a business must do. Ethical behaviour can go beyond what the law requires." },
     ]),
     ...sub(T2, 'competitive-environment-aqa-gcse-business', '3.2.6', [
-      { n: 1, f: "Market and competition", b: "A market is where buyers and sellers come together to exchange goods and services. Competition is rivalry between businesses selling similar products to the same customers." },
-      { n: 2, f: "How can operating in a competitive market affect a business?", b: "It is under pressure to keep prices down, improve quality and customer service, and innovate. It may spend more on promotion, and its market share and profit can fall if rivals do better. Customers gain from more choice and lower prices." },
-      { n: 3, f: "When might a business face little or no competition?", b: "When it is the only supplier in an area (such as the one shop in a village), has a new or unique product that rivals cannot yet copy, or is in a market that is very costly for new firms to enter." },
-      { n: 4, f: "Why do all businesses face uncertainty and risk?", b: "The future cannot be known: customer tastes, competitors' actions, the economic climate, technology and laws can all change, so sales, costs and profit cannot be predicted with certainty." },
-      { n: 5, f: "Why do entrepreneurs start businesses despite the risks, and how can a business reduce risk?", b: "Reasons: profit, independence, being their own boss and meeting a need they have spotted. Reducing risk: market research, a business plan, starting small, insurance, limited liability and selling a range of products." },
+      { n: 1, f: "Market and competition", b: "A market is anywhere buyers and sellers come together to exchange goods or services, physical or online. Competition is rivalry between businesses selling similar goods or services to the same customers.", src: CE },
+      { n: 2, f: "How can operating in a competitive market affect a business?", b: "Pressure to keep prices down, improve quality and customer service, innovate and cut costs. It may spend more on promotion, and its market share and profit can fall if rivals do better. Customers gain more choice and lower prices.", src: CE },
+      { n: 3, f: "When might a business face little or no competition?", b: "When it is the only supplier in an area (such as the one shop in a remote village), has a new or unique product rivals cannot yet copy (for example patented), the market is very costly to enter, or the market is small and specialist.", src: CE },
+      { n: 4, f: "Why do all businesses face uncertainty?", b: "The future cannot be known and the business environment keeps changing: competitors, customer tastes, the economic climate, technology and laws, so sales, costs and profit cannot be predicted with certainty.", src: CE },
+      { n: 5, f: "Why do entrepreneurs start businesses despite the risks?", b: "The objectives in the specification: to be their own boss, flexible working hours, to pursue an interest, to earn more money, to fill a gap in the market, and dissatisfaction with their current job. Higher possible reward usually means higher risk.", src: CE },
+      { n: 6, f: "Activities a business can undertake to minimise risk", b: "Market research, business planning, cash-flow forecasting, starting small or testing first, insurance, limited liability, selling a range of products or in several markets, keeping cash reserves. These reduce risk but cannot remove it.", src: CE },
     ]),
 
     // 3 Business operations
