@@ -55,12 +55,11 @@ export const DECK_EDEXCEL_A_LEVEL_MATHEMATICS: FlashcardDeck = {
     // Unit P1: Pure Mathematics 1
     ...sub(P1, 'p1-algebra-and-functions-edexcel-alevel-maths', 'P1.1', [
       { n: 1, f: 'Laws of indices, and the meaning of a⁰, a⁻ⁿ and a^(m/n)', b: 'aᵐ × aⁿ = aᵐ⁺ⁿ, aᵐ ÷ aⁿ = aᵐ⁻ⁿ, (aᵐ)ⁿ = aᵐⁿ (same base).\na⁰ = 1 (a ≠ 0). a⁻ⁿ = 1/aⁿ, a reciprocal, not a negative number.\na^(m/n) = (ⁿ√a)ᵐ: root first, then power. Example: 16^(3/4) = 2³ = 8.' },
-      { n: 2, f: 'What do a⁰, a⁻ⁿ and a^(m/n) mean?', b: 'a⁰ = 1 (a ≠ 0).\na⁻ⁿ = 1/aⁿ, a reciprocal, not a negative number.\na^(m/n) = (ⁿ√a)ᵐ: take the root first, then the power. Example: 16^(3/4) = 2³ = 8.' },
-      { n: 3, f: 'How do you rationalise the denominator of k/(p + q√r)?', b: 'Multiply top and bottom by the conjugate (p − q√r). The denominator becomes p² − q²r, a rational number.\nExample: 10/(√7 − √2) = 10(√7 + √2)/5 = 2√7 + 2√2.' },
-      { n: 4, f: 'Completed-square form of ax² + bx + c, and the turning point of a(x + p)² + q', b: 'ax² + bx + c = a(x + b/(2a))² + (c − b²/(4a)).\nThe turning point of a(x + p)² + q is (−p, q): a minimum if a > 0, a maximum if a < 0.\nExample: x² − 12x + 29 = (x − 6)² − 7, minimum (6, −7).' },
-      { n: 5, f: 'The discriminant of ax² + bx + c = 0 and what each sign means', b: 'b² − 4ac > 0: two different real roots. = 0: one repeated root (graph touches the x-axis). < 0: no real roots.\nax² + bx + c is positive for all x only if a > 0 and b² − 4ac < 0 (both conditions are needed).' },
-      { n: 6, f: 'Solve x² + 4x − 21 > 0', b: '(x + 7)(x − 3) > 0. The parabola opens upwards, so the region is outside the roots:\nx < −7 or x > 3.\n(For "< 0" with a positive x² coefficient, the answer is between the roots.)' },
-      { n: 7, f: 'Describe y = f(x + a), y = f(x) + a, y = af(x) and y = f(ax)', b: 'f(x + a): translation a to the left.\nf(x) + a: translation a up.\naf(x): stretch in the y-direction, scale factor a.\nf(ax): stretch in the x-direction, scale factor 1/a.\nInside the bracket acts in reverse; outside acts as written.' },
+      { n: 2, f: 'How do you rationalise the denominator of k/(p + q√r)?', b: 'Multiply top and bottom by the conjugate (p − q√r). The denominator becomes p² − q²r, a rational number.\nExample: 10/(√7 − √2) = 10(√7 + √2)/5 = 2√7 + 2√2.' },
+      { n: 3, f: 'Completed-square form of ax² + bx + c, and the turning point of a(x + p)² + q', b: 'ax² + bx + c = a(x + b/(2a))² + (c − b²/(4a)).\nThe turning point of a(x + p)² + q is (−p, q): a minimum if a > 0, a maximum if a < 0.\nExample: x² − 12x + 29 = (x − 6)² − 7, minimum (6, −7).' },
+      { n: 4, f: 'The discriminant of ax² + bx + c = 0 and what each sign means', b: 'b² − 4ac > 0: two different real roots. = 0: one repeated root (graph touches the x-axis). < 0: no real roots.\nax² + bx + c is positive for all x only if a > 0 and b² − 4ac < 0 (both conditions are needed).' },
+      { n: 5, f: 'Solve x² + 4x − 21 > 0', b: '(x + 7)(x − 3) > 0. The parabola opens upwards, so the region is outside the roots:\nx < −7 or x > 3.\n(For "< 0" with a positive x² coefficient, the answer is between the roots.)' },
+      { n: 6, f: 'Describe y = f(x + a), y = f(x) + a, y = af(x) and y = f(ax)', b: 'f(x + a): translation a to the left.\nf(x) + a: translation a up.\naf(x): stretch in the y-direction, scale factor a.\nf(ax): stretch in the x-direction, scale factor 1/a.\nInside the bracket acts in reverse; outside acts as written.' },
     ]),
     ...sub(P1, 'p1-coordinate-geometry-edexcel-alevel-maths', 'P1.2', [
       { n: 1, f: 'Gradient of the line through (x₁, y₁) and (x₂, y₂), and the equation of a line through (x₁, y₁) with gradient m', b: 'm = (y₂ − y₁)/(x₂ − x₁).\nLine: y − y₁ = m(x − x₁).' },
@@ -73,10 +72,9 @@ export const DECK_EDEXCEL_A_LEVEL_MATHEMATICS: FlashcardDeck = {
       { n: 1, f: 'The sine rule, and the ambiguous case', b: 'a/sin A = b/sin B = c/sin C. Use it when a side and its opposite angle are known.\nWhen finding an angle, sin B = k also gives 180° − B (since sin(180° − θ) = sin θ). Keep the obtuse value only if the angles still total less than 180°.' },
       { n: 2, f: 'The cosine rule for a side and for an angle', b: 'a² = b² + c² − 2bc cos A (two sides and the included angle).\ncos A = (b² + c² − a²)/(2bc) (all three sides).' },
       { n: 3, f: 'Area of a triangle from two sides and an angle', b: 'Area = ½ab sin C, where C is the angle between sides a and b (the included angle).' },
-      { n: 4, f: 'The ambiguous case of the sine rule', b: 'Given two sides and a non-included angle, sin B = k gives B and 180° − B, because sin(180° − θ) = sin θ.\nKeep the obtuse value only if the angles still total less than 180°.' },
-      { n: 5, f: 'What is one radian, and how do you convert between degrees and radians?', b: 'One radian is the angle at the centre when the arc length equals the radius (about 57.3°).\nπ radians = 180°. Degrees to radians: × π/180. Radians to degrees: × 180/π.' },
-      { n: 6, f: 'Arc length, sector area and segment area (θ in radians)', b: 'Arc s = rθ.\nSector area = ½r²θ; sector perimeter = 2r + rθ.\nSegment area = sector − triangle = ½r²(θ − sin θ).\nThese need θ in radians.' },
-      { n: 7, f: 'Exact values of sin, cos and tan at π/6, π/4 and π/3', b: 'π/6 (30°): sin ½, cos √3/2, tan 1/√3.\nπ/4 (45°): sin √2/2, cos √2/2, tan 1.\nπ/3 (60°): sin √3/2, cos ½, tan √3.' },
+      { n: 4, f: 'What is one radian, and how do you convert between degrees and radians?', b: 'One radian is the angle at the centre when the arc length equals the radius (about 57.3°).\nπ radians = 180°. Degrees to radians: × π/180. Radians to degrees: × 180/π.' },
+      { n: 5, f: 'Arc length, sector area and segment area (θ in radians)', b: 'Arc s = rθ.\nSector area = ½r²θ; sector perimeter = 2r + rθ.\nSegment area = sector − triangle = ½r²(θ − sin θ).\nThese need θ in radians.' },
+      { n: 6, f: 'Exact values of sin, cos and tan at π/6, π/4 and π/3', b: 'π/6 (30°): sin ½, cos √3/2, tan 1/√3.\nπ/4 (45°): sin √2/2, cos √2/2, tan 1.\nπ/3 (60°): sin √3/2, cos ½, tan √3.' },
     ]),
     ...sub(P1, 'p1-differentiation-edexcel-alevel-maths', 'P1.4', [
       { n: 1, f: 'Differentiation from first principles: the limit definition of f′(x)', b: 'f′(x) = lim (h → 0) [f(x + h) − f(x)]/h.\nThe mark is for writing the limit notation, not just the algebra.' },
