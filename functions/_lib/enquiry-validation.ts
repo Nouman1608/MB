@@ -299,7 +299,9 @@ export const ALLOWED_FIELDS_BY_KIND = FIELDS_BY_KIND;
  * booked, and gives the response commitment and the correction routes. It
  * never states a teacher, time or price as agreed: those come from a person.
  */
-export const ACK_RESPONSE_SUMMARY = 'We reply to WhatsApp messages within an hour, between 9am and 10pm Pakistan time, and to email enquiries the same day.';
+// D-346: 8am to 11pm every day. Must equal PRICING_TERMS.enquiryResponse.summary
+// (src/data/pricing.ts); a unit test checks they match.
+export const ACK_RESPONSE_SUMMARY = 'We reply to WhatsApp messages within an hour, between 8am and 11pm Pakistan time every day, and to email enquiries the same day.';
 export const ACK_WHATSAPP = '+92 323 9149918';
 export function renderTrialAcknowledgement(data: Record<string, string>): { subject: string; text: string } {
   const lines: string[] = [];

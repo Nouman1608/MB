@@ -10,6 +10,7 @@ import {
   renderEmailBody,
   ALLOWED_FIELDS_BY_KIND,
   CORRECTION_ISSUE_TYPES,
+  ACK_RESPONSE_SUMMARY,
 } from '../../_lib/enquiry-validation.ts';
 
 test('sanitizeField strips CRLF and control chars (header-injection defence)', () => {
@@ -340,4 +341,10 @@ test('renderEmailBody: correction kind body is labelled distinctly from a tuitio
   assert.ok(!body.includes('Student / parent enquiry'));
   assert.ok(!body.includes('Tutoring enquiry'));
   assert.ok(body.includes('Page: https://marlbridge.com/resources/some-resource/'));
+});
+
+// D-346 -- the acknowledgement email must promise the same reply window as the site.
+test('ACK_RESPONSE_SUMMARY matches the site wording in PRICING_TERMS', async () => {
+  const { PRICING_TERMS } = await import('../../../src/data/pricing.ts');
+  assert.equal(ACK_RESPONSE_SUMMARY, PRICING_TERMS.enquiryResponse.summary);
 });

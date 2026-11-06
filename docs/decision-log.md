@@ -15807,6 +15807,10 @@ Three more problems turned up:
 - **Result.** The strict check (topic and subtopic level) lists no Accounting gap for O Level 7707 or Edexcel IGCSE 4AC1. `validate:academic` passes; the duplicate-scope script reports nothing new.
 - **Open items.** Business for Edexcel International GCSE is not on the site; AQA AS 7126 not added; the pages state amounts in dollars in words because the specification names no currency.
 
+## D-441 - Confirmation email reply hours corrected to D-346 (6 Nov 2026)
+
+- The trial acknowledgement email still said WhatsApp replies come "between 9am and 10pm Pakistan time" (D-337), while the site says 8am to 11pm every day (D-346, owner, 27 Sep 2026). The owner confirmed on 6 Nov 2026 that the site's hours are correct. `ACK_RESPONSE_SUMMARY` in `functions/_lib/enquiry-validation.ts` now equals `PRICING_TERMS.enquiryResponse.summary`, and a unit test fails if they differ.
+
 ## D-440 - Content store cut from 321 MB to 196 MB by not keeping resource Markdown (5 Nov 2026)
 
 - Owner, 5 Nov 2026: "start with the restructuring of how the study pages load", following the D-439 finding that the content store was at 60% of V8's string limit.
