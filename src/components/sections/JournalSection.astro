@@ -22,7 +22,8 @@ const articles = (await getArticles()).slice(0, 3);
         <Button href={routes.articles} variant="quiet">All articles</Button>
       </div>
       <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-        {articles.map((article) => <li class="m-0"><ArticleCard entry={article} /></li>)}
+        {/* D-438: one article on phones; "All articles" links to the rest. */}
+        {articles.map((article, i) => <li class:list={['m-0', i >= 1 && 'max-sm:hidden']}><ArticleCard entry={article} /></li>)}
       </ul>
     </Container>
   </Section>

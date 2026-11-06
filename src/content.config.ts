@@ -91,8 +91,13 @@ const subjects = defineCollection({
   }),
 });
 
+// D-440: `retainBody: false` on the two big collections. Astro would otherwise keep
+// every page's Markdown source in the content store next to its rendered HTML
+// (about 120 MB of 319 MB). Nothing reads a resource's `body`: the hub page's
+// word count now comes from src/utils/seo/word-count.ts. Do not read `.body` on
+// these collections; it is undefined by design.
 const resources = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/resources' }),
+  loader: glob({ pattern: '**/*.md', base: './src/content/resources', retainBody: false }),
   schema: z.object({
     title: z.string(),
     resourceType: z.enum([
@@ -432,7 +437,7 @@ const apResourceType = z.enum([
   'topic-checklist', 'unit-diagnostic', 'unit-review', 'exam-skills',
 ]);
 const apResources = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/ap-resources' }),
+  loader: glob({ pattern: '**/*.md', base: './src/content/ap-resources', retainBody: false }),
   schema: z.object({
     /** Permanent unique identifier, e.g. "mb-ap-chem-1.1-study-guide". Never reused. */
     resourceId: z.string().regex(/^mb-ap-[a-z0-9.-]+$/),

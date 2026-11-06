@@ -9,6 +9,7 @@ import { activeOnly, academicHubPath, LEVEL_FOR_QUALIFICATION } from './src/util
 import { subjectBySlug } from './src/data/academic/subjects.ts';
 import { topicsFor } from './src/data/academic/syllabus-topics.ts';
 import { isIndexableAcademicPage } from './src/utils/seo/indexability.ts';
+import { bodyWordCount } from './src/utils/seo/word-count.ts';
 import { AP_LIBRARY_PUBLIC, AP_LIBRARY_BASE } from './src/data/ap/config.ts';
 
 /**
@@ -95,14 +96,13 @@ function buildIndexabilityExclusions() {
     const raw = readFileSync(new URL(`src/content/resources/${file}`, import.meta.url), 'utf-8');
     const parts = raw.split('---');
     const frontmatter = parts[1] ?? '';
-    const body = parts.slice(2).join('---');
     const resourceType = frontmatter.match(/^resourceType:\s*"?([\w-]+)"?/m)?.[1];
     const subject = frontmatter.match(/^subject:\s*"?([\w-]+)"?/m)?.[1];
     const levelLine = frontmatter.match(/^level:\s*\[(.*?)\]/m)?.[1] ?? '';
     const level = levelLine.split(',').map((s) => s.trim().replace(/['"]/g, '')).filter(Boolean);
     const boardsLine = frontmatter.match(/^boards:\s*\[(.*?)\]/m)?.[1] ?? '';
     const boards = boardsLine.split(',').map((s) => s.trim().replace(/['"]/g, '')).filter(Boolean);
-    const wordCount = body.trim().split(/\s+/).filter(Boolean).length;
+    const wordCount = bodyWordCount(raw); // D-440: the same function the hub page uses
     if (!resourceType || !subject) continue;
     resourceRecords.push({ resourceType, subject, level, boards, wordCount });
   }

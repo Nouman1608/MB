@@ -10,6 +10,7 @@ import {
   renderEmailBody,
   ALLOWED_FIELDS_BY_KIND,
   CORRECTION_ISSUE_TYPES,
+  ACK_RESPONSE_SUMMARY,
 } from '../../_lib/enquiry-validation.ts';
 
 test('sanitizeField strips CRLF and control chars (header-injection defence)', () => {
@@ -207,24 +208,42 @@ test('validateEnquiry: trial drops out-of-list values instead of trusting them',
   assert.equal(badFormat.ok, false);
 });
 
-// D-293 -- every visible field on the English form is compulsory.
-test('validateEnquiry: trial with a typed subject also needs board, format and phone', () => {
-  const r = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'A Level Maths' });
-  assert.equal(r.ok, false);
-  if (!r.ok) {
-    assert.ok(r.errors.board);
-    assert.ok(r.errors.format);
-    assert.ok(r.errors.phone);
+// D-438/D-439 (relaxing D-293) -- on the English form subjects, name, phone and
+// country are compulsory; email is optional; board and format default.
+test('validateEnquiry: trial with a typed subject needs name, phone and country, not email', () => {
+  const base = { name: 'Z', phone: '+971 50 123 4567', country: 'AE', subject: 'A Level Maths' };
+  const r = validateEnquiry('trial', base);
+  assert.equal(r.ok, true);
+  if (r.ok) {
+    assert.equal(r.data.board, 'not-sure');
+    assert.equal(r.data.format, 'help-me-decide');
+    assert.equal('email' in r.data, false);
   }
-  const badBoard = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phone: '03001234567', country: 'PK', subject: 'A Level Maths', board: 'made-up', format: 'group' });
-  assert.equal(badBoard.ok, false);
-  if (!badBoard.ok) assert.ok(badBoard.errors.board);
-  const shortPhone = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phone: '12345', country: 'PK', subject: 'A Level Maths', board: 'cambridge', format: 'group' });
+  for (const missing of ['name', 'phone', 'country']) {
+    const data = { ...base };
+    delete data[missing];
+    const m = validateEnquiry('trial', data);
+    assert.equal(m.ok, false, missing);
+    if (!m.ok) assert.ok(m.errors[missing], missing);
+  }
+  // An email that is given must still be valid.
+  const badEmail = validateEnquiry('trial', { ...base, email: 'not-an-email' });
+  assert.equal(badEmail.ok, false);
+  if (!badEmail.ok) assert.ok(badEmail.errors.email);
+  // A tampered board is dropped and treated as "Not sure", never trusted.
+  const badBoard = validateEnquiry('trial', { ...base, board: 'made-up', format: 'group' });
+  assert.equal(badBoard.ok, true);
+  if (badBoard.ok) assert.equal(badBoard.data.board, 'not-sure');
+  // A phone number must look like one.
+  const shortPhone = validateEnquiry('trial', { ...base, phone: '12345' });
   assert.equal(shortPhone.ok, false);
   if (!shortPhone.ok) assert.ok(shortPhone.errors.phone);
-  // The translated five-field forms (no subject) keep phone optional.
+  // The translated five-field forms (no subject) still need an email, not a phone.
   const translated = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', message: 'A Level Maths please' });
   assert.equal(translated.ok, true);
+  const translatedNoEmail = validateEnquiry('trial', { name: 'Z', phone: '03001234567', country: 'PK', message: 'A Level Maths please' });
+  assert.equal(translatedNoEmail.ok, false);
+  if (!translatedNoEmail.ok) assert.ok(translatedNoEmail.errors.email);
 });
 
 test('renderEmailBody: trial shows readable choices and says it is a request, not a booking', () => {
@@ -242,7 +261,10 @@ test('renderEmailBody: trial shows readable choices and says it is a request, no
 test('ALLOWED_FIELDS_BY_KIND: only the trial kind changed; student and tutoring keep five fields', () => {
   assert.deepEqual(ALLOWED_FIELDS_BY_KIND.student, ALLOWED_FIELDS_BY_KIND.tutoring);
   assert.deepEqual(ALLOWED_FIELDS_BY_KIND.student.required.sort(), ['country', 'email', 'message', 'name']);
-  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.required.sort(), ['country', 'email', 'name']);
+  // D-439: email moved to a conditional check (optional on the English form,
+  // which requires a phone; still compulsory on the translated forms).
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.required.sort(), ['country', 'name']);
+  assert.ok(ALLOWED_FIELDS_BY_KIND.trial.optional.includes('email'));
 });
 
 // Flagship Dominance/Trust programme, Section 9 (2026-08-31, D-095) --
@@ -319,4 +341,10 @@ test('renderEmailBody: correction kind body is labelled distinctly from a tuitio
   assert.ok(!body.includes('Student / parent enquiry'));
   assert.ok(!body.includes('Tutoring enquiry'));
   assert.ok(body.includes('Page: https://marlbridge.com/resources/some-resource/'));
+});
+
+// D-346 -- the acknowledgement email must promise the same reply window as the site.
+test('ACK_RESPONSE_SUMMARY matches the site wording in PRICING_TERMS', async () => {
+  const { PRICING_TERMS } = await import('../../../src/data/pricing.ts');
+  assert.equal(ACK_RESPONSE_SUMMARY, PRICING_TERMS.enquiryResponse.summary);
 });
