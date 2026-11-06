@@ -52,9 +52,10 @@ const onTrialPage = Astro.url.pathname.startsWith('/trial');
           it does not compete with the gold trial CTA, which stays the
           single highlighted action. */}
       <a href="https://portal.marlbridge.com/login" class="hidden rounded-sm border-2 border-navy-rule px-5 py-2.5 text-sm font-semibold text-white hover:border-teal-300 hover:text-white lg:inline-flex">Portal Login</a>
-      <a href="/trial/" class="hidden rounded-sm bg-gold-500 px-5 py-3 text-sm font-bold text-navy-800 hover:bg-gold-400 hover:text-navy-800 active:bg-[#C99A1F] lg:inline-flex">Free Trial Class</a>
+      {/* D-443: ?source=header and data-cta so leads and clicks from the header are counted apart from the trial page itself. */}
+      <a href="/trial/?source=header" data-cta="header-trial" class="hidden rounded-sm bg-gold-500 px-5 py-3 text-sm font-bold text-navy-800 hover:bg-gold-400 hover:text-navy-800 active:bg-[#C99A1F] lg:inline-flex">Free Trial Class</a>
       {!onTrialPage && (
-        <a href="/trial/" data-cta="header-trial-mobile" class="inline-flex h-11 items-center rounded-sm bg-gold-500 px-3.5 text-[14px] font-bold text-navy-800 hover:bg-gold-400 hover:text-navy-800 active:bg-[#C99A1F] lg:hidden">Free trial</a>
+        <a href="/trial/?source=header" data-cta="header-trial-mobile" class="inline-flex h-11 items-center rounded-sm bg-gold-500 px-3.5 text-[14px] font-bold text-navy-800 hover:bg-gold-400 hover:text-navy-800 active:bg-[#C99A1F] lg:hidden">Free trial</a>
       )}
       <button
         type="button"

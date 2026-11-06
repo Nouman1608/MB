@@ -348,3 +348,14 @@ test('ACK_RESPONSE_SUMMARY matches the site wording in PRICING_TERMS', async () 
   const { PRICING_TERMS } = await import('../../../src/data/pricing.ts');
   assert.equal(ACK_RESPONSE_SUMMARY, PRICING_TERMS.enquiryResponse.summary);
 });
+
+// D-443 -- leads from the header trial buttons carry source=header; unknown sources are still dropped.
+test('validateEnquiry: trial accepts source=header and drops an unknown source', () => {
+  const base = { name: 'Z', phone: '+971 50 123 4567', country: 'AE', subject: 'A Level Maths' };
+  const ok = validateEnquiry('trial', { ...base, source: 'header' });
+  assert.equal(ok.ok, true);
+  if (ok.ok) assert.equal(ok.data.source, 'header');
+  const bad = validateEnquiry('trial', { ...base, source: 'made-up-source' });
+  assert.equal(bad.ok, true);
+  if (bad.ok) assert.equal('source' in bad.data, false);
+});

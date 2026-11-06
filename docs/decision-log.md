@@ -15807,12 +15807,19 @@ Three more problems turned up:
 - **Result.** The strict check (topic and subtopic level) lists no Accounting gap for O Level 7707 or Edexcel IGCSE 4AC1. `validate:academic` passes; the duplicate-scope script reports nothing new.
 - **Open items.** Business for Edexcel International GCSE is not on the site; AQA AS 7126 not added; the pages state amounts in dollars in words because the specification names no currency.
 
+## D-443 - Header leads counted apart; trial button on the translated phone header (6 Nov 2026)
+
+- Owner, 6 Nov 2026, accepting two follow-ups from D-442.
+- **Analytics source.** `header` is a new value in `TRIAL_SOURCES` (`functions/_lib/enquiry-validation.ts`). Both English header trial buttons (phone and desktop) now link to `/trial/?source=header`, so `generate_lead` carries `trial_source=header`. The desktop button also gained `data-cta="header-trial"` (the phone one is `header-trial-mobile`), so `trial_cta_click` tells the two apart. Effect on history: leads from the desktop header used to be counted as `trial-page`, so that count will drop by the amount that now shows as `header`; read the two together for any trend across 6 Nov 2026. A unit test covers `header` accepted and an unknown source dropped; `audit:trial-sources` passes.
+- **Translated pages (`/ar/` `/ur/` `/bn/`, `LocaleLayout`).** The trial button there was hidden below 640px, and the sticky header was 129px tall on a phone because the 8 menu links wrapped into it. Now the sticky header is a single 64px row: logo and the trial button, using the existing translated label (`nav.ctaTrial`, so no new wording). The menu links, and on phones the language switcher (which spells out full names and does not fit beside the button), move into a row that scrolls away. From 640px up the switcher stays in the header as before. Result: the button is always on screen and the sticky header is half as tall.
+- **Not done.** Source and click tracking on the translated pages: they do not load `TrialFunnelEvents` and their trial form does not read `?source=`, so their trial leads cannot be separated by entry point. That would be a separate feature.
+
 ## D-442 - Trial button in the phone header (6 Nov 2026)
 
 - Owner, 6 Nov 2026: the trial button is still hidden on very small phones. Measured on the live site with the cookie banner showing: the banner covered 8px of the hero button at 375x667, most of it at 360x640 and all of it at 320x568. Real browsers make it worse, because the address bar takes a further 80 to 110px of the visible height.
 - **Cause.** Below the `lg` breakpoint the header showed only the logo and the menu icon; the "Free Trial Class" link was inside the menu. So a phone visitor had no trial button on screen once the hero scrolled away, and the cookie banner could cover the hero's own.
 - **Change.** `src/components/navigation/Header.astro` now shows a compact gold "Free trial" button (44px tall, `data-cta="header-trial-mobile"`) beside the menu icon below `lg`. The header is sticky, so the button stays on screen down the whole page and the banner never covers it. It is not shown on `/trial/`. The row gap is 12px on phones (was 32px) to make room. The desktop header is unchanged. The link has no `?source=` (the trial form allow-list has no value for the header, and `audit:trial-sources` would reject an unknown one), so leads from it count as `trial-page`; its clicks are told apart in GA4 by `cta_location` = `header-trial-mobile` on `trial_cta_click`.
-- **Not changed.** The hero button and its position, and the translated `/ar/` `/ur/` `/bn/` pages, which use their own header (`LocaleLayout`) and have the same gap. That is a separate change if wanted.
+- **Not changed.** The hero button and its position. The translated pages are handled in D-443.
 
 ## D-441 - Confirmation email reply hours corrected to D-346 (6 Nov 2026)
 
