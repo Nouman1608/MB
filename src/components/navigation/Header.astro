@@ -5,9 +5,16 @@ import MobileMenu from './MobileMenu.astro';
 
 // Navigation round (6 Oct 2026) -- mark the section the page belongs to.
 const isCurrent = (href: string) => isCurrentSection(href, Astro.url.pathname);
+
+// D-442: below the large-screen breakpoint the header showed only the logo and
+// the menu icon, so a phone visitor had no trial button on screen once the hero
+// scrolled away, and on small phones the cookie banner covered the hero's.
+// A compact trial button now sits in the sticky header on phones and tablets
+// (never on /trial/ itself, where it would link to the page it is on).
+const onTrialPage = Astro.url.pathname.startsWith('/trial');
 ---
 <header class="sticky top-0 z-50 border-b border-navy-rule bg-navy-800">
-  <div class="mx-auto flex h-16 max-w-[var(--container-site)] items-center justify-between gap-8 px-[var(--spacing-gutter)] lg:h-20">
+  <div class="mx-auto flex h-16 max-w-[var(--container-site)] items-center justify-between gap-3 px-[var(--spacing-gutter)] lg:h-20 lg:gap-8">
     <a href="/" aria-label="Marlbridge — home" class="flex shrink-0 items-center">
       <Logo height={28} />
     </a>
@@ -46,6 +53,9 @@ const isCurrent = (href: string) => isCurrentSection(href, Astro.url.pathname);
           single highlighted action. */}
       <a href="https://portal.marlbridge.com/login" class="hidden rounded-sm border-2 border-navy-rule px-5 py-2.5 text-sm font-semibold text-white hover:border-teal-300 hover:text-white lg:inline-flex">Portal Login</a>
       <a href="/trial/" class="hidden rounded-sm bg-gold-500 px-5 py-3 text-sm font-bold text-navy-800 hover:bg-gold-400 hover:text-navy-800 active:bg-[#C99A1F] lg:inline-flex">Free Trial Class</a>
+      {!onTrialPage && (
+        <a href="/trial/" data-cta="header-trial-mobile" class="inline-flex h-11 items-center rounded-sm bg-gold-500 px-3.5 text-[14px] font-bold text-navy-800 hover:bg-gold-400 hover:text-navy-800 active:bg-[#C99A1F] lg:hidden">Free trial</a>
+      )}
       <button
         type="button"
         id="menu-toggle"
