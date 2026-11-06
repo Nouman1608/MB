@@ -157,7 +157,7 @@ What it means, and no more than this:
 | Diagnostic viewed | `page_view` on `/practice/<code>/diagnostic/<set>/` | Yes |
 | Diagnostic finished | `diagnostic_complete` with `course_code`, `diagnostic_set`, `duration_bucket` | Yes (all three registered) |
 | Diagnostic → next step | `recommended_resource_click` with `source=diagnostic` | Yes |
-| Any page → trial | `/trial/?…&source=<resource\|diagnostic\|region\|tuition-page…>` then `generate_lead` with `trial_source` | Yes: `trial_source` registered 23 Sep 2026 |
+| Any page → trial | `/trial/?…&source=<resource\|diagnostic\|region\|tuition-page\|header…>` then `generate_lead` with `trial_source` | Yes: `trial_source` registered 23 Sep 2026 |
 | Which trial button | `trial_cta_click` with `cta_location` | **No.** `cta_location` is sent but is not a registered custom dimension, so GA4 reports cannot split it. Owner action: GA4 → Admin → Custom definitions → Create custom dimension, event scope, parameter `cta_location` |
 | Started a diagnostic but did not finish | nothing | Not recorded. A page view without `diagnostic_complete` is the only proxy |
 
