@@ -35,7 +35,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
 const IPR = 'edexcel-igcse-maths-4ma1-integers-powers-and-roots-revision-notes';
 const FD = 'edexcel-igcse-maths-4ma1-fractions-and-decimals-revision-notes';
 const SET = 'edexcel-igcse-maths-4ma1-set-language-and-notation-revision-notes';
-const PRP = 'edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-revision-notes';
 const ACC = 'edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form-revision-notes';
 const SYM = 'edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-revision-notes';
 const EXP = 'edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations-revision-notes';

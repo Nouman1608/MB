@@ -1,7 +1,7 @@
 # Flashcards: review status and what a teacher should check (D-438)
 
-86 decks, 18,038 cards (Mathematics 3,387 · Chemistry 3,131 · Physics 2,892 · Biology 2,460 ·
-Economics 2,422 · Business 2,335 · Accounting 1,411). 1,279 cards are upper tier; 2,699 restate a
+86 decks, 18,099 cards (Mathematics 3,387 · Chemistry 3,131 · Physics 2,892 · Biology 2,494 ·
+Economics 2,448 · Business 2,336 · Accounting 1,411). 1,278 cards are upper tier; 2,808 restate a
 named revision-notes page. **All 86 decks and the 24 revision-notes pages written for them were
 reviewed by the subject teachers on 5 Nov 2026** (owner, 5 Nov 2026); each deck records its
 reviewer in `deckReview` and each page in `reviewer`/`reviewedDate`. See "Teacher review" below.

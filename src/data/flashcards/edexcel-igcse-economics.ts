@@ -42,7 +42,6 @@ const ELA = 'edexcel-igcse-economics-price-supply-and-income-elasticity-calculat
 const MIXE = 'edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and-revision-notes';
 const FOP = 'edexcel-igcse-economics-factors-of-production-sectors-productivity-and-revision-notes';
 const CRP = 'edexcel-igcse-economics-costs-revenue-profit-economies-and-diseconomies-of-revision-notes';
-const COMP = 'edexcel-igcse-economics-business-competition-revision-notes';
 const LAB = 'edexcel-igcse-economics-the-labour-market-and-government-intervention-in-revision-notes';
 const GROW = 'edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle-revision-notes';
 const UNEM = 'edexcel-igcse-economics-unemployment-and-its-consequences-revision-notes';

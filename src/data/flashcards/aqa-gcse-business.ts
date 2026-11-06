@@ -31,7 +31,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
 
 const PNB = 'aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership-revision-notes';
 const AIMS = 'aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders-revision-notes';
-const LOC = 'aqa-gcse-business-business-location-and-business-planning-revision-notes';
 const EXP = 'aqa-gcse-business-expanding-a-business-revision-notes';
 const TECH = 'aqa-gcse-business-technology-ethical-revision-notes';
 const EEC = 'aqa-gcse-business-ethical-and-environmental-considerations-and-the-economic-climate-on-businesses-revision-notes';

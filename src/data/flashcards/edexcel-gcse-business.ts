@@ -36,7 +36,6 @@ const AIM = 'edexcel-gcse-business-aims-objectives-revenue-costs-and-profit-revi
 const CASH = 'edexcel-gcse-business-cash-flow-and-sources-of-finance-for-a-small-business-revision-notes';
 const LIAB = 'edexcel-gcse-business-limited-liability-and-business-location-revision-notes';
 const MIX = 'edexcel-gcse-business-the-marketing-mix-and-the-business-plan-revision-notes';
-const STK = 'edexcel-gcse-business-stakeholders-and-technology-revision-notes';
 const LEG = 'edexcel-gcse-business-legislation-the-economy-and-external-influences-revision-notes';
 const GRW = 'edexcel-gcse-business-business-growth-and-changing-aims-revision-notes';
 const GLB = 'edexcel-gcse-business-globalisation-ethics-and-the-environment-revision-notes';

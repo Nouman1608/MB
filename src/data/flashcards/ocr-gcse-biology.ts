@@ -57,7 +57,6 @@ const R = (slug: string) => `ocr-gcse-biology-${slug}-revision-notes`;
 const MIC = R('microscopy-eukaryotic-and-prokaryotic-cells-and');
 const DNA = R('dna-structure-protein-synthesis-and-enzyme-action');
 const RESP = R('respiration-and-the-synthesis-and-breakdown-of');
-const PHOTO = R('photosynthesis-process-investigation-and-limiting');
 const TAM = R('transport-across-membranes-mitosis-and-stem-cells');
 const ESC = R('exchange-surfaces-and-the-human-circulatory-system');
 const TIP = R('transport-in-plants-water-uptake-transpiration-and');
@@ -78,7 +77,6 @@ const FOOD = R('food-security-agricultural-solutions-and-selective');
 const GE = R('genetic-engineering-and-biotechnology-in-food');
 const DIS = R('health-disease-types-and-the-spread-and-prevention-of');
 const WBC = R('white-blood-cells-the-immune-system-and-vaccination');
-const MAB = R('monoclonal-antibodies-aseptic-technique-and-drug');
 const STEM = R('stem-cells-gene-technology-and-genomics-in-medicine');
 const WS = R('working-scientifically-planning-recording-presenting');
 

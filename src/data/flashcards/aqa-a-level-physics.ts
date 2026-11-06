@@ -29,7 +29,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const EST = 'aqa-alevel-physics-estimation-of-physical-quantities-revision-notes';
 const MEAS = 'aqa-a-level-physics-measurements-revision-notes';
 const PR = 'aqa-a-level-physics-particles-and-radiation-revision-notes';
 const WAV = 'aqa-a-level-physics-waves-revision-notes';
@@ -40,8 +39,6 @@ const FLD = 'aqa-a-level-physics-fields-and-their-consequences-revision-notes';
 const NUC = 'aqa-a-level-physics-nuclear-physics-revision-notes';
 const AST = 'aqa-a-level-physics-astrophysics-revision-notes';
 const MED = 'aqa-a-level-physics-medical-physics-revision-notes';
-const ENG = 'aqa-a-level-physics-engineering-physics-revision-notes';
-const TP = 'aqa-a-level-physics-turning-points-in-physics-revision-notes';
 const ELN = 'aqa-a-level-physics-electronics-revision-notes';
 
 export const DECK_AQA_A_LEVEL_PHYSICS: FlashcardDeck = {
