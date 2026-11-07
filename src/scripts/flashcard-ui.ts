@@ -1,5 +1,5 @@
 /**
- * D-438 -- browser logic for the flashcard pages (/flashcards/{board}/{qualification}/{subject}/
+ * D-444 -- browser logic for the flashcard pages (/flashcards/{board}/{qualification}/{subject}/
  * and .../{topic}/).
  *
  * Two phases:
@@ -42,7 +42,7 @@ if (dataEl) init(JSON.parse(dataEl.textContent ?? '{}') as Data);
  * "Again" in this session (1 the first time). Return the index at which to
  * re-insert it (0 = it comes straight back next; queue.length = the very end).
  *
- * TODO(owner): choose the re-study gap. See the note in the D-438 entry of
+ * TODO(owner): choose the re-study gap. See the note in the D-444 entry of
  * docs/decision-log.md. The default below brings the card back after a few
  * others, or at the end of a short queue.
  */

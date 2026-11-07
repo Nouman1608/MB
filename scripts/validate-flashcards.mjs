@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * D-438 -- build-failing checks for the flashcard decks (src/data/flashcards/).
+ * D-444 -- build-failing checks for the flashcard decks (src/data/flashcards/).
  *
  * A deck is published study content, so it is held to the same bar as a
  * resource's syllabus mapping: every card must sit on a real topic/subtopic of

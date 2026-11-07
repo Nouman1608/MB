@@ -88,7 +88,7 @@ const checklistHref = checklistVersion && checklistVersion.status === 'current'
 const practiceCount = syllabus && isFlagshipCode(syllabus.code) ? practiceQuestionsForCode(syllabus.code).length : 0;
 // D-319: link the free 10-minute diagnostic(s) for this syllabus, when any exist.
 const hubDiagnostics = syllabus && practiceCount > 0 ? diagnosticsForCode(syllabus.code) : [];
-// D-438: the course's flashcard deck, when one exists, and per-topic links into it.
+// D-444: the course's flashcard deck, when one exists, and per-topic links into it.
 const hubDeck = deckFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
 const hubDeckCounts = hubDeck ? topicCardCounts(hubDeck) : {};
 const topicFlashcards = hubDeck

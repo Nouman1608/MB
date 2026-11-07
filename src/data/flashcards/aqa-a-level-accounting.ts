@@ -1,5 +1,5 @@
 /**
- * D-438 -- flashcards for AQA A-level Accounting 7127 (first teaching 2017).
+ * D-444 -- flashcards for AQA A-level Accounting 7127 (first teaching 2017).
  *
  * One block per topic, in specification order: the syllabus record lists 18
  * subject-content sections (3.1-3.18) with no itemised subtopics. Card ids are

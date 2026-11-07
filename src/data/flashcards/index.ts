@@ -1,5 +1,5 @@
 /**
- * Flashcards (D-438) -- registry of published decks and the URL helpers.
+ * Flashcards (D-444) -- registry of published decks and the URL helpers.
  * Add a deck by writing src/data/flashcards/<board>-<qualification>-<subject>.ts
  * and running `npm run generate:flashcards`; scripts/validate-flashcards.mjs
  * (part of validate:academic) checks it.

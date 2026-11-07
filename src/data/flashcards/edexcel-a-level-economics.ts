@@ -1,5 +1,5 @@
 /**
- * D-438 -- flashcards for Pearson Edexcel International A Level Economics YEC11
+ * D-444 -- flashcards for Pearson Edexcel International A Level Economics YEC11
  * (Issue 2, June 2018).
  *
  * One block per subtopic, in syllabus order. Card ids are `<subtopic number>-<n>`

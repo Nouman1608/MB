@@ -1,5 +1,5 @@
 /**
- * D-438 -- flashcards for AQA A-level Physics 7408 (for first teaching 2015).
+ * D-444 -- flashcards for AQA A-level Physics 7408 (for first teaching 2015).
  *
  * One block per subtopic, in syllabus order. Card ids are `<subtopic number>-<n>`
  * and are permanent (browser progress is keyed by them): add a new card with

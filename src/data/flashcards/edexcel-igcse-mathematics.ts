@@ -1,5 +1,5 @@
 /**
- * D-438 -- flashcards for Pearson Edexcel International GCSE Mathematics A 4MA1
+ * D-444 -- flashcards for Pearson Edexcel International GCSE Mathematics A 4MA1
  * (Specification Issue 2, November 2017).
  *
  * One block per subtopic, in syllabus order. Card ids are `<subtopic number>-<n>`

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * D-438 -- writes src/data/flashcards/decks.generated.ts, the list of every
+ * D-444 -- writes src/data/flashcards/decks.generated.ts, the list of every
  * deck file in src/data/flashcards/. A deck file is named
  * <board>-<qualification>-<subject>.ts and exports one
  * `DECK_<BOARD>_<QUALIFICATION>_<SUBJECT>` constant. Run after adding a deck:

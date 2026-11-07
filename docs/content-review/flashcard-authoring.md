@@ -1,4 +1,4 @@
-# Writing a flashcard deck (D-438)
+# Writing a flashcard deck (D-444)
 
 How every deck in `src/data/flashcards/` is written. The model deck is
 `src/data/flashcards/cambridge-igcse-chemistry.ts` (Cambridge IGCSE Chemistry 0620): copy its

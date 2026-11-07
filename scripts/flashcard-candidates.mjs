@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * D-438 -- find flashcard CANDIDATES in a course's published revision notes.
+ * D-444 -- find flashcard CANDIDATES in a course's published revision notes.
  *
  *   node scripts/flashcard-candidates.mjs <syllabusCode> [--json]
  *

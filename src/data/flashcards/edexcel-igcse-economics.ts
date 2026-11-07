@@ -1,5 +1,5 @@
 /**
- * D-438 -- flashcards for Pearson Edexcel International GCSE Economics 4EC1
+ * D-444 -- flashcards for Pearson Edexcel International GCSE Economics 4EC1
  * (specification Issue 3, February 2026).
  *
  * One block per subtopic, in specification order. Topic numbers are the

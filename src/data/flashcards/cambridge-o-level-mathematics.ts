@@ -1,5 +1,5 @@
 /**
- * D-438 -- flashcards for Cambridge O Level Mathematics (Syllabus D) 4024 (2025-2027).
+ * D-444 -- flashcards for Cambridge O Level Mathematics (Syllabus D) 4024 (2025-2027).
  *
  * One block per subtopic (or per topic, where the syllabus record lists no
  * subtopics), in syllabus order. Card ids are `<subtopic number>-<n>` or

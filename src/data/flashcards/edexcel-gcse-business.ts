@@ -1,5 +1,5 @@
 /**
- * D-438 -- flashcards for Pearson Edexcel GCSE (9-1) Business 1BS0 (Issue 2, July 2022).
+ * D-444 -- flashcards for Pearson Edexcel GCSE (9-1) Business 1BS0 (Issue 2, July 2022).
  *
  * One block per subtopic (the specification's numbered content items 1.1.1 to
  * 2.5.4), in syllabus order. Card ids are `<item number>-<n>` and are permanent

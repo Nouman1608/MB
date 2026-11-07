@@ -1,5 +1,5 @@
 /**
- * D-438 -- flashcards for OxfordAQA International AS and A-level Chemistry 9620
+ * D-444 -- flashcards for OxfordAQA International AS and A-level Chemistry 9620
  * (for teaching from September 2019, exams from May/June 2020 onwards).
  *
  * One block per subtopic, in syllabus order. Card ids are `<subtopic number>-<n>`

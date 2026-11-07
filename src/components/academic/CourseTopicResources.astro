@@ -45,7 +45,7 @@ interface Props {
   isMyp: boolean;
   /** D-397: names the course on screen, so resource titles can drop them. */
   context: ShortTitleContext;
-  /** D-438: topic slug -> that topic's flashcard page and card count, when the course has a deck. */
+  /** D-444: topic slug -> that topic's flashcard page and card count, when the course has a deck. */
   flashcards?: Record<string, { href: string; count: number }>;
 }
 const { data, record, courseLabel, searchLabel, groups, tools, board, officialTitle, isMyp, context, flashcards } = Astro.props;
