@@ -26,7 +26,7 @@ reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
-updatedDate: 2026-08-18
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -53,8 +53,8 @@ equilibrium.
 **14.2 Temperature scales** — understanding that a physical property that
 varies with temperature can be used for the measurement of temperature, and
 identifying such properties; understanding that the thermodynamic
-(Kelvin) scale is the absolute scale, and that absolute zero is the
-temperature at which all substances have a minimum internal energy;
+(Kelvin) scale does not depend on the property of any particular substance,
+and that the lowest possible temperature, zero kelvin, is absolute zero;
 converting between Kelvin and Celsius temperatures, T/K = θ/°C + 273.15.
 
 **14.3 Specific heat capacity and specific latent heat** — defining and using

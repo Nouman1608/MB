@@ -26,6 +26,7 @@ reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -84,7 +85,7 @@ exchange changes the colour**. A change of shape (octahedral to tetrahedral) als
 |---|---|---|
 | none: aqua ion | [Cu(H₂O)₆]²⁺, **pale blue** solution | [Co(H₂O)₆]²⁺, **pink** solution |
 | OH⁻(aq), or a little NH₃(aq) | [Cu(OH)₂(H₂O)₄], **pale blue precipitate** | [Co(OH)₂(H₂O)₄], **blue precipitate** |
-| excess NH₃(aq) | [Cu(NH₃)₄(H₂O)₂]²⁺, **deep blue** solution | [Co(NH₃)₆]²⁺, **pale brown (straw)** solution, which darkens in air |
+| excess NH₃(aq) | [Cu(NH₃)₄(H₂O)₂]²⁺, **deep blue** solution | [Co(NH₃)₆]²⁺, **pale yellow-brown (straw)** solution, which darkens in air |
 | concentrated HCl (excess Cl⁻) | [CuCl₄]²⁻, **yellow-green** solution (tetrahedral) | [CoCl₄]²⁻, **blue** solution (tetrahedral) |
 
 Equations:

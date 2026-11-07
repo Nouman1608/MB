@@ -13,6 +13,16 @@ order: 803
 syllabusTopics:
   - qualification: "gcse"
     topic: "human-resources-aqa-gcse-business"
+    subtopic: "organisational-structures-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "human-resources-aqa-gcse-business"
+    subtopic: "recruitment-and-selection-of-employees-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "human-resources-aqa-gcse-business"
+    subtopic: "motivating-employees-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "human-resources-aqa-gcse-business"
+    subtopic: "training-aqa-gcse-business"
 description: "A full study guide to topic 3.4 Human resources in AQA GCSE Business 8132: structures, recruitment, motivation and training, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25

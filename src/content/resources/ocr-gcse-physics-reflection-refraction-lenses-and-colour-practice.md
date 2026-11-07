@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original practice questions with worked answers on refraction, ray diagrams, lenses and colour for OCR GCSE (9-1) Physics A topic P5.3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,44 +27,44 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions follow the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), topic P5.3 Wave interactions. Questions 1, 2, 3 and 12 cover statements on both tiers. Questions marked (Higher Tier only) cover P5.3c, P5.3d or P5.3e. Where needed, use a speed of light in air of 3.00 × 10⁸ m/s. Describe ray diagrams in words or sketch them on paper.
+These questions follow the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), topic P5.3 Wave interactions. Questions 1, 2, 3 and 12 cover P5.3a and P5.3b, which are in bold in the specification, so they are marked (Higher Tier only). Questions 4 to 11 cover P5.3c, P5.3d or P5.3e, which are for both tiers (separate Physics only content, not in Combined Science). Where needed, use a speed of light in air of 3.00 × 10⁸ m/s. Describe ray diagrams in words or sketch them on paper.
 
 Links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/), [study guide](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour/), [revision notes](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour-revision-notes/), [free diagnostics](/diagnostics/).
 
 ## Questions
 
-**1.** State three things that can happen to an electromagnetic wave when it meets a boundary between two substances. **[3]**
+**1.** (Higher Tier only) State three things that can happen to an electromagnetic wave when it meets a boundary between two substances. **[3]**
 
-**2.** A red laser emits light of wavelength 633 nm in air. In a clear plastic the wavelength is 422 nm.
+**2.** (Higher Tier only) A red laser emits light of wavelength 633 nm in air. In a clear plastic the wavelength is 422 nm.
 
 **(a)** Calculate the frequency of the light in air. **[2]**
 **(b)** Explain why the same frequency is used to find the speed in the plastic, then calculate that speed. **[3]**
 
-**3.** Explain, in terms of wave speed, why a ray of light bends towards the normal when it passes from air into glass at an angle. **[5]**
+**3.** (Higher Tier only) Explain, in terms of wave speed, why a ray of light bends towards the normal when it passes from air into glass at an angle. **[5]**
 
-**4.** (Higher Tier only) A ray of light hits a plane mirror at an angle of incidence of 35°.
+**4.** A ray of light hits a plane mirror at an angle of incidence of 35°.
 
 **(a)** State the angle of reflection and the angle between the reflected ray and the mirror surface. **[2]**
 **(b)** A ray enters a rectangular glass block from air at an angle to the normal. Describe how to draw its path through the block and out of the other side. **[3]**
 
-**5.** (Higher Tier only) An object stands on the axis of a convex lens, further from the lens than twice the focal length. Describe how to draw the image of the top of the object, and state the nature of the image. **[4]**
+**5.** An object stands on the axis of a convex lens, further from the lens than twice the focal length. Describe how to draw the image of the top of the object, and state the nature of the image. **[4]**
 
-**6.** (Higher Tier only) A convex lens is used as a magnifying glass. Explain how it forms an image of a small object and state what kind of image it is. **[3]**
+**6.** A convex lens is used as a magnifying glass. Explain how it forms an image of a small object and state what kind of image it is. **[3]**
 
-**7.** (Higher Tier only) Compare convex and concave lenses by stating one similarity and three differences in how they affect light. **[4]**
+**7.** Compare convex and concave lenses by stating one similarity and three differences in how they affect light. **[4]**
 
-**8.** (Higher Tier only) A short-sighted person sees distant objects as blurred because the rays focus in front of the retina. Explain which type of lens corrects this. **[3]**
+**8.** A short-sighted person sees distant objects as blurred because the rays focus in front of the retina. Explain which type of lens corrects this. **[3]**
 
-**9.** (Higher Tier only) A red book is lit by white light.
+**9.** A red book is lit by white light.
 
 **(a)** Explain why it looks red. **[2]**
 **(b)** Explain what you would see if it were lit by green light only. **[2]**
 
-**10.** (Higher Tier only) White light passes through a magenta filter, then through a green filter. Describe and explain what emerges. **[4]**
+**10.** White light passes through a magenta filter, then through a green filter. Describe and explain what emerges. **[4]**
 
-**11.** (Higher Tier only) You can read a page of white paper from many positions, but you only see a clear image of a window in a mirror from certain positions. Explain the difference. **[5]**
+**11.** You can read a page of white paper from many positions, but you only see a clear image of a window in a mirror from certain positions. Explain the difference. **[5]**
 
-**12.** A pulse of light crosses a glass slab of thickness 0.60 m. Its speed in the glass is 2.0 × 10⁸ m/s. In the glass its wavelength is 350 nm.
+**12.** (Higher Tier only) A pulse of light crosses a glass slab of thickness 0.60 m. Its speed in the glass is 2.0 × 10⁸ m/s. In the glass its wavelength is 350 nm.
 
 **(a)** Calculate the time taken to cross the slab. **[2]**
 **(b)** Calculate how much longer this is than the time to travel 0.60 m in air. **[2]**

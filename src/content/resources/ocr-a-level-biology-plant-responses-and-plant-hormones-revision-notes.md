@@ -13,6 +13,9 @@ order: 223
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "plant-and-animal-responses-ocr-alevel-biology"
 description: "Condensed revision notes on tropisms, plant hormones, auxin, gibberellin, serial dilution and commercial uses of plant hormones for OCR A Level Biology A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

@@ -26,6 +26,7 @@ reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
+updatedDate: 2026-11-05
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -90,7 +91,7 @@ Related: [Temperature revision notes](/resources/a-physics-temperature-revision-
 **(b)** It has a **small thermal capacity**, so it responds quickly [1], and it absorbs very little energy from the system, so it barely disturbs what it is measuring [1].
 **(c)** Its response is **non-linear** and it requires calibration against known fixed points before use [1].
 
-**7.** They have the **minimum possible internal (kinetic) energy** [1] — since mean translational kinetic energy is proportional to absolute temperature, this minimum is zero at 0 K, the lowest temperature theoretically attainable [1].
+**7.** They have the **minimum possible internal energy** [1]; 0 K is the lowest possible temperature, so their energy cannot be reduced any further [1]. (Mean translational kinetic energy = (3/2)kT extrapolates to zero at 0 K, but say "minimum", not "zero".)
 
 **8.** Temperature measures the **mean kinetic energy per molecule**, which is higher in the boiling water [1]. Thermal energy is the **total** over all molecules [1], and the bath contains **very many more molecules**, so its total exceeds that of the cup despite the lower temperature [1].
 
@@ -105,7 +106,7 @@ Related: [Temperature revision notes](/resources/a-physics-temperature-revision-
 ## Where marks are usually lost
 
 - Converting a temperature **interval** by adding 273.
-- Saying molecules have some residual motion left at absolute zero — per the syllabus relation, mean kinetic energy is proportional to temperature, so it is zero at 0 K.
+- Saying the energy of the molecules is zero, or that they stop moving, at absolute zero. Internal energy is a **minimum** at 0 K, the lowest possible temperature.
 - Confusing temperature with thermal energy.
 - Forgetting to use the correct differences (X_θ − X₀ over X₁₀₀ − X₀) when calculating an empirical temperature.
 - Using Q = mcΔθ across a change of state — it only applies while the substance stays in a single state; a change of state needs Q = mL instead.

@@ -14,6 +14,9 @@ order: 157
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "genetic-diversity-and-adaptation-aqa-alevel-biology"
 description: "Revision notes on genetic diversity, natural selection, directional and stabilising selection, log scales and practical 6 for AQA A-level Biology."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

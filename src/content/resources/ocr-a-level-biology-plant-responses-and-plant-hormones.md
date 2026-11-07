@@ -13,6 +13,9 @@ order: 223
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "plant-and-animal-responses-ocr-alevel-biology"
 description: "Study guide to plant responses, tropisms, auxin, gibberellin, abscisic acid, ethene and commercial uses for OCR A Level Biology A, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

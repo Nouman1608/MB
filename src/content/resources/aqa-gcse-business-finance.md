@@ -13,6 +13,16 @@ order: 805
 syllabusTopics:
   - qualification: "gcse"
     topic: "finance-aqa-gcse-business"
+    subtopic: "sources-of-finance-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "finance-aqa-gcse-business"
+    subtopic: "cash-flow-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "finance-aqa-gcse-business"
+    subtopic: "financial-terms-and-calculations-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "finance-aqa-gcse-business"
+    subtopic: "analysing-the-financial-performance-of-a-business-aqa-gcse-business"
 description: "Study guide to AQA GCSE Business Finance: sources of finance, cash flow, break-even, average rate of return and financial statements, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25

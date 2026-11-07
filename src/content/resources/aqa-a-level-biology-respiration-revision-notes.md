@@ -14,6 +14,9 @@ order: 161
 syllabusTopics:
   - qualification: "a-level"
     topic: "energy-transfers-in-and-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "energy-transfers-in-and-between-organisms-aqa-alevel-biology"
+    subtopic: "respiration-aqa-alevel-biology"
 description: "Condensed revision notes on glycolysis, the Krebs cycle, chemiosmosis, other substrates and required practical 9 for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

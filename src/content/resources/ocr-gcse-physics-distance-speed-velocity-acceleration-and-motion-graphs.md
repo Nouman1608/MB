@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Study guide to OCR GCSE Physics A (J249) P2.1 Motion: speed, velocity, acceleration, distance-time and velocity-time graphs, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide teaches **P2.1 Motion** (statements P2.1a to P2.1h) from the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), for first assessment in 2018. Every P2.1 statement is assessed at both Foundation and Higher Tier. It sits inside Topic P2 Forces, so use it with the [Forces study guide](/resources/ocr-gcse-physics-forces/), the [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/) and the [Forces practice questions](/resources/ocr-gcse-physics-forces-practice/).
+This guide teaches **P2.1 Motion** (statements P2.1a to P2.1h) from the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), for first assessment in 2018. Every P2.1 statement except P2.1f is assessed at both Foundation and Higher Tier. P2.1f (interpreting the enclosed area in velocity-time graphs) is printed in bold in the specification, so it is **Higher Tier only**. It sits inside Topic P2 Forces, so use it with the [Forces study guide](/resources/ocr-gcse-physics-forces/), the [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/) and the [Forces practice questions](/resources/ocr-gcse-physics-forces-practice/).
 
 Quick links: [revision notes for this unit](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-revision-notes/), [practice questions for this unit](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-practice/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).
 
@@ -33,7 +34,7 @@ Quick links: [revision notes for this unit](/resources/ocr-gcse-physics-distance
 | P2.1c | Use ratios and proportional reasoning to convert units (including non-SI to SI) and compute rates |
 | P2.1d | Explain the vector-scalar distinction: displacement and distance, velocity and speed |
 | P2.1e | Relate changes and differences in motion to distance-time and velocity-time graphs; interpret lines and slopes |
-| P2.1f | Interpret the enclosed area in velocity-time graphs |
+| P2.1f | Interpret the enclosed area in velocity-time graphs (Higher Tier only) |
 | P2.1g | Calculate average speed for non-uniform motion |
 | P2.1h | Apply the equations linking distance, time and speed for uniform motion, and for uniform acceleration |
 
@@ -169,7 +170,7 @@ Velocity goes on the vertical axis. Here the slope means something different.
 | Line on the time axis | Stationary |
 | Curved line | Changing acceleration |
 
-**Gradient = acceleration.** **Area between the line and the time axis = distance travelled.** For a velocity-time graph this area is exact: split the shape into triangles and rectangles (or a trapezium), find each area and add them. Units: m/s × s = m.
+**Gradient = acceleration.** **Area between the line and the time axis = distance travelled** (P2.1f, Higher Tier only). For a velocity-time graph this area is exact: split the shape into triangles and rectangles (or a trapezium), find each area and add them. Units: m/s × s = m.
 
 **Worked example 5.** A car's velocity rises steadily from 0 to 20 m/s in 8 s, stays at 20 m/s for 12 s, then falls steadily to 0 in 10 s. Find the accelerations, the distance and the average speed.
 

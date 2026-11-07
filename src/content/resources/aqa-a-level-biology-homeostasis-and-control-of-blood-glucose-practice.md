@@ -14,6 +14,9 @@ order: 167
 syllabusTopics:
   - qualification: "a-level"
     topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+    subtopic: "homeostasis-aqa-alevel-biology"
 description: "Twelve original questions with worked answers on feedback, insulin, glucagon, cAMP, diabetes and Required practical 11 for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

@@ -12,6 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "waves"
+    subtopic: "general-properties-of-waves"
+  - qualification: "o-level"
+    topic: "waves"
+    subtopic: "light"
+  - qualification: "o-level"
+    topic: "waves"
+    subtopic: "sound"
 description: "Original exam-style questions with full worked answers on sound as a longitudinal wave, frequency and period, loudness and pitch, diffraction, echoes, refraction of light and total internal reflection, for Cambridge O Level Physics (5054)."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"

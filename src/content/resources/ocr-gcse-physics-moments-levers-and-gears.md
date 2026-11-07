@@ -17,20 +17,21 @@ syllabusTopics:
 description: "Study guide to turning forces for OCR GCSE (9-1) Physics A (Gateway Science), J249: moments, the principle of moments, levers and gears, worked through."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide teaches statements P2.3k, P2.3l and P2.3m of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026), within topic P2.3 Forces in action. The specification prints all three in bold, which marks them as **Higher Tier only**. Foundation Tier papers do not test them. Turn to the [revision notes](/resources/ocr-gcse-physics-moments-levers-and-gears-revision-notes/) when you need fast recall, and the [practice set](/resources/ocr-gcse-physics-moments-levers-and-gears-practice/) for questions. The rest of topic P2 is in the [forces guide](/resources/ocr-gcse-physics-forces/). Course pages are at the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). Not sure what you already know? Try the [free 10-minute diagnostics](/diagnostics/) first.
+This guide teaches statements P2.3k, P2.3l and P2.3m of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026), within topic P2.3 Forces in action. None of the three is printed in bold, so they are assessed in both Foundation Tier and Higher Tier. The specification marks all three as separate Physics only content (not in Combined Science). Turn to the [revision notes](/resources/ocr-gcse-physics-moments-levers-and-gears-revision-notes/) when you need fast recall, and the [practice set](/resources/ocr-gcse-physics-moments-levers-and-gears-practice/) for questions. The rest of topic P2 is in the [forces guide](/resources/ocr-gcse-physics-forces/). Course pages are at the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). Not sure what you already know? Try the [free 10-minute diagnostics](/diagnostics/) first.
 
 ## What you must be able to do
 
 | Statement | Outcome | Tier |
 |---|---|---|
-| P2.3k | Describe examples in which forces cause rotation, including the location of pivot points and whether the resultant turning force is clockwise or anticlockwise | Higher Tier only |
-| P2.3l | Define and calculate the moment of a force, and apply the principle of moments to objects that are balanced | Higher Tier only |
-| P2.3m | Explain how levers and gears transmit the rotational effects of forces, using ratios, so that they work as force multipliers | Higher Tier only |
+| P2.3k | Describe examples in which forces cause rotation, including the location of pivot points and whether the resultant turning force is clockwise or anticlockwise | Both (separate Physics only) |
+| P2.3l | Define and calculate the moment of a force, and apply the principle of moments to objects that are balanced | Both (separate Physics only) |
+| P2.3m | Explain how levers and gears transmit the rotational effects of forces, using ratios, so that they work as force multipliers | Both (separate Physics only) |
 
-## P2.3k: forces that cause rotation (Higher Tier only)
+## P2.3k: forces that cause rotation (separate Physics only)
 
 A force can change how an object moves in a straight line. It can also turn an object about a fixed point. That fixed point is the **pivot**. A turning effect needs a force whose line of action does not pass through the pivot.
 
@@ -61,7 +62,7 @@ A force acting through the pivot has no turning effect about it. This idea retur
 </figure>
 
 
-## P2.3l: the moment of a force (Higher Tier only)
+## P2.3l: the moment of a force (separate Physics only)
 
 The **moment** of a force is the size of its turning effect about a pivot. It depends on how big the force is and how far from the pivot it acts:
 
@@ -143,7 +144,7 @@ Balance: 0.12 + 2.0x = 0.75, so 2.0x = 0.63 and x = 0.315 m. The mass hangs 0.31
 </figure>
 
 
-## P2.3m: levers and gears (Higher Tier only)
+## P2.3m: levers and gears (separate Physics only)
 
 ### Levers
 

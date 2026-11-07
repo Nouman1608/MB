@@ -13,6 +13,9 @@ order: 227
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "respiration-ocr-alevel-biology"
 description: "Study guide to chemiosmosis, anaerobic respiration, substrate energy values, respiratory quotient and respirometers for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

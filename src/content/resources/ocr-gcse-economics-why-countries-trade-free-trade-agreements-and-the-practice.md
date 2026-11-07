@@ -13,6 +13,10 @@ order: 204
 syllabusTopics:
   - qualification: "gcse"
     topic: "international-trade-and-the-global-economy-ocr-gcse-economics"
+    subtopic: "importance-of-international-trade-ocr-gcse-economics"
+  - qualification: "gcse"
+    topic: "international-trade-and-the-global-economy-ocr-gcse-economics"
+    subtopic: "balance-of-payments-ocr-gcse-economics"
 description: "Original practice questions with worked answers on trade, free trade agreements, the EU and the current account for OCR GCSE (9-1) Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

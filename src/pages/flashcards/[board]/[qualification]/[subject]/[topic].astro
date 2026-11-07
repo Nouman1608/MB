@@ -1,0 +1,99 @@
+---
+/**
+ * D-444 -- /flashcards/{board}/{qualification}/{subject}/{topic}/: one
+ * syllabus topic's cards, filterable by subtopic, with links to the same
+ * topic's study guide, revision notes and practice questions.
+ */
+import PageLayout from '../../../../../layouts/PageLayout.astro';
+import Section from '../../../../../components/layout/Section.astro';
+import Container from '../../../../../components/layout/Container.astro';
+import FlashcardStudy from '../../../../../components/tools/FlashcardStudy.astro';
+import { FLASHCARD_DECKS, flashcardsPath, deckStorageId, codeSuffix, cardsForTopic, type FlashcardDeck } from '../../../../../data/flashcards';
+import { topicsFor, type SyllabusTopic } from '../../../../../data/academic/syllabus-topics';
+import { activeOnly, academicHubPath, type Combination } from '../../../../../utils/academic';
+import { topicAnchor } from '../../../../../utils/academic/course-topics';
+import { getResources } from '../../../../../utils/content/collections';
+import { resourcesForCombination, STUDY_KIND } from '../../../../../utils/academic/combination-resources';
+import { routes } from '../../../../../utils/urls/routes';
+
+export function getStaticPaths() {
+  return FLASHCARD_DECKS.flatMap((deck) => {
+    const c = activeOnly().find((x) => x.boardSlug === deck.boardSlug && x.qualificationSlug === deck.qualificationSlug && x.subjectSlug === deck.subjectSlug);
+    const version = topicsFor(deck.boardSlug, deck.qualificationSlug, deck.subjectSlug);
+    if (!c || !version) return [];
+    const withCards = version.topics.filter((t) => cardsForTopic(deck, t.slug).length > 0);
+    return withCards.map((topic, i) => ({
+      params: { board: deck.boardSlug, qualification: deck.qualificationSlug, subject: deck.subjectSlug, topic: topic.slug },
+      props: { deck, c, topic, prev: withCards[i - 1], next: withCards[i + 1] },
+    }));
+  });
+}
+
+interface P { deck: FlashcardDeck; c: Combination; topic: SyllabusTopic; prev?: SyllabusTopic; next?: SyllabusTopic }
+const { deck, c, topic, prev, next } = Astro.props as P;
+const path = flashcardsPath(deck, topic.slug);
+const coursePath = flashcardsPath(deck);
+const hub = academicHubPath(c);
+const topicCards = cardsForTopic(deck, topic.slug);
+const cs = codeSuffix(deck);
+const codeWord = cs ? deck.syllabusCode : `${c.qualification} ${c.subject}`;
+const groups = topic.subtopics.length > 0
+  ? topic.subtopics.filter((s) => topicCards.some((x) => x.subtopic === s.slug)).map((s) => ({ key: s.slug, label: s.number ? `${s.number} ${s.name}` : s.name }))
+  : [{ key: topic.slug, label: `Topic ${topic.number}: ${topic.name}` }];
+const cards = topicCards.map((card) => ({ ...card, group: card.subtopic ?? card.topic }));
+// Some records leave subtopic numbers empty (e.g. OxfordAQA 9215); never print an empty range.
+const subNumbers = topic.subtopics.map((s) => s.number).filter(Boolean);
+// AS and A Level stages reuse topic names (for example Equilibria), so the stage goes in the title and heading.
+const stageLabel = topic.stage ? (topic.stage === 'A' ? 'A Level' : 'AS Level') : '';
+const topicWord = `${topic.stage ? `${topic.stage === 'A' ? 'A Level' : 'AS'} ` : ''}Topic ${topic.number}`;
+
+// The same topic's own study resources, one of each kind where they exist.
+const courseResources = resourcesForCombination(c, await getResources());
+const onTopic = courseResources.filter((r) => r.data.syllabusTopics.some((m) => m.qualification === c.qualificationSlug && m.topic === topic.slug));
+const KIND_LABEL = { learn: 'Study guide', review: 'Revision notes', practice: 'Practice questions' } as const;
+const study = (['learn', 'review', 'practice'] as const).flatMap((k) => {
+  const r = onTopic.find((x) => STUDY_KIND[x.data.resourceType] === k);
+  return r ? [{ kind: KIND_LABEL[k], title: r.data.title, href: routes.resource(r.id) }] : [];
+});
+---
+<PageLayout
+  title={`${topic.name}${stageLabel ? ` (${stageLabel})` : ''} Flashcards — ${cs ? `${c.subject} ${deck.syllabusCode}` : codeWord}`}
+  description={`${topicCards.length} free flashcards on ${topic.name} for ${c.board} ${c.qualification} ${c.subject}${cs ? ` ${deck.syllabusCode}` : ''} (${deck.syllabusSeries})${subNumbers.length ? `, covering ${subNumbers.join(', ')}` : ''}.`}
+  path={path}
+  eyebrow={`Flashcards · ${codeWord} · ${topicWord}`}
+  heading={`${topic.name}${stageLabel ? ` (${stageLabel})` : ''} flashcards`}
+  lead={`${topicCards.length} cards on ${topicWord}${subNumbers.length > 1 ? `, subtopics ${subNumbers[0]} to ${subNumbers[subNumbers.length - 1]}` : ''}. Pick a subtopic or study them all.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Flashcards', href: '/flashcards/' },
+    { label: `${c.qualification} ${c.subject}${cs}`, href: coursePath },
+    { label: stageLabel ? `${topic.name} (${stageLabel})` : topic.name, href: path },
+  ]}
+>
+  <Section surface="white" spacing="md">
+    <Container>
+      <FlashcardStudy code={deckStorageId(deck)} scope="topic" tierScheme={deck.tierScheme} groupNoun="subtopic" groups={groups} cards={cards} />
+    </Container>
+  </Section>
+
+  <Section surface="ivory" spacing="md" border labelledby="fc-next-heading">
+    <Container>
+      <h2 id="fc-next-heading" class="m-0 mb-4 text-[length:var(--text-h3)] font-semibold text-navy-800">Revise {topic.name} further</h2>
+      {study.length > 0 ? (
+        <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-3">
+          {study.map((s) => (
+            <li class="m-0"><a href={s.href} class="block h-full rounded-sm border border-rule bg-white p-4 no-underline hover:border-teal-500"><span class="mb-label text-teal-700">{s.kind}</span><span class="mt-1 block text-[15px] font-medium text-navy-800">{s.title}</span></a></li>
+          ))}
+        </ul>
+      ) : (
+        <p class="m-0 text-[15px] text-ink-mute">No Marlbridge notes for this topic yet.</p>
+      )}
+      <nav aria-label="Other topics" class="mt-8 flex flex-wrap gap-x-6 gap-y-3 text-[14.5px]">
+        {prev && <a href={flashcardsPath(deck, prev.slug)} class="underline decoration-teal-500 underline-offset-2">← Topic {prev.number}: {prev.name}</a>}
+        {next && <a href={flashcardsPath(deck, next.slug)} class="underline decoration-teal-500 underline-offset-2">Topic {next.number}: {next.name} →</a>}
+        <a href={coursePath} class="underline decoration-teal-500 underline-offset-2">All {codeWord} flashcards</a>
+        <a href={`${hub}#${topicAnchor(topic.slug)}`} class="underline decoration-teal-500 underline-offset-2">{topic.name} on the {codeWord} course page</a>
+      </nav>
+    </Container>
+  </Section>
+</PageLayout>

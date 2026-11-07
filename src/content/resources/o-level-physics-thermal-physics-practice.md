@@ -12,6 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "thermal-physics"
+    subtopic: "kinetic-particle-model-of-matter"
+  - qualification: "o-level"
+    topic: "thermal-physics"
+    subtopic: "thermal-properties-and-temperature"
+  - qualification: "o-level"
+    topic: "thermal-physics"
+    subtopic: "transfer-of-thermal-energy"
 description: "Original exam-style questions with full worked answers on specific heat capacity, gas pressure and the particle model, momentum of gas particles, pressure and volume of a gas, evaporation and thermal energy transfer, for Cambridge O Level Physics (5054)."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"

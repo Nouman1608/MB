@@ -17,9 +17,10 @@ syllabusTopics:
 description: "Condensed recall notes on charge, rubbing, electron transfer, the electroscope and electric field lines for OCR GCSE Physics A (J249), with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
-These are condensed notes for OCR GCSE Physics A (Gateway Science, J249), specification Version 5.0 (July 2026), learning outcomes P3.1a to P3.1d. P3.1d is Higher Tier only; P3.1a to P3.1c are assessed in both tiers. For full explanations, read the [study guide](/resources/ocr-gcse-physics-static-electricity-and-electric-fields/). Then use the [practice questions](/resources/ocr-gcse-physics-static-electricity-and-electric-fields-practice/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).
+These are condensed notes for OCR GCSE Physics A (Gateway Science, J249), specification Version 5.0 (July 2026), learning outcomes P3.1a to P3.1d. All four are assessed in both tiers; P3.1d is separate Physics only content (not in Combined Science). For full explanations, read the [study guide](/resources/ocr-gcse-physics-static-electricity-and-electric-fields/). Then use the [practice questions](/resources/ocr-gcse-physics-static-electricity-and-electric-fields-practice/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free 10-minute diagnostics](/diagnostics/).
 
 ## Key ideas at a glance
 
@@ -28,7 +29,7 @@ These are condensed notes for OCR GCSE Physics A (Gateway Science, J249), specif
 | P3.1a | All matter has charge, positive or negative; most bodies have equal amounts, so net charge is zero | Both |
 | P3.1b | Rubbing insulators makes static; charge can spark across a gap; charged objects push or pull without touching | Both |
 | P3.1c | Static charge comes from electrons moving from one object to another | Both |
-| P3.1d | An electric field is where a charge feels a force; field lines show direction and strength | Higher Tier only |
+| P3.1d | An electric field is where a charge feels a force; field lines show direction and strength | Both (separate Physics only) |
 
 ## P3.1a Charge
 
@@ -135,9 +136,7 @@ Reverse the signs for a positive object: electrons shift towards it.
 </figure>
 
 
-## P3.1d Electric fields (Higher Tier only)
-
-**Higher Tier only.**
+## P3.1d Electric fields (separate Physics only)
 
 - An **electric field** is the space surrounding a charged object in which any other charge experiences a force.
 - It explains forces without contact: the field acts on the second charge.
@@ -170,7 +169,7 @@ A diagram shows lines leaving a sphere A and ending on a sphere B, packed tightl
 
 Semolina on castor oil, with electrodes connected to a high-voltage supply: the grains line up along the field lines and show the pattern.
 
-### Method in steps: explaining a spark with fields (Higher Tier only)
+### Method in steps: explaining a spark with fields (separate Physics only)
 
 1. Rubbing or a moving belt builds up charge on the object.
 2. The field between the object and a nearby earthed conductor gets stronger.
@@ -186,10 +185,10 @@ Semolina on castor oil, with electrodes connected to a high-voltage supply: the 
 5. Why can a metal rod held in the hand not keep a static charge?
 6. Two suspended strips carry the same type of charge and hang close together. What do you see?
 7. A negative rod is brought near the cap of an uncharged electroscope without touching it. Why does the leaf rise?
-8. (Higher Tier only) Which way do the arrows point on field lines around an isolated positive sphere?
-9. (Higher Tier only) Where is the field strongest on a field line diagram?
-10. (Higher Tier only) An electron sits in a field. Compared with the field line arrow, which way is the force on it?
-11. (Higher Tier only) What does semolina on castor oil show?
+8. Which way do the arrows point on field lines around an isolated positive sphere?
+9. Where is the field strongest on a field line diagram?
+10. An electron sits in a field. Compared with the field line arrow, which way is the force on it?
+11. What does semolina on castor oil show?
 
 ### Answers
 
@@ -225,7 +224,7 @@ Semolina on castor oil, with electrodes connected to a high-voltage supply: the 
 - Writing the net charge with the wrong sign after a transfer. Gaining electrons gives a negative net charge.
 - Drawing field lines that cross, that have no arrows or that point the wrong way at a positive source.
 - Spreading field lines evenly when asked to show where the field is strongest. Lines must bunch where the field is strongest.
-- Explaining a spark by only saying "charge jumps". For the Higher Tier explanation, link it to a strong field in the gap.
+- Explaining a spark by only saying "charge jumps". For the field explanation (P3.1d), link it to a strong field in the gap.
 
 ## Official syllabus
 

@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed revision notes on uses, hazards, medical imaging and radio circuits for the electromagnetic spectrum, for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense statements P5.2g to P5.2j of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026), topic P5 Waves in matter. P5.2i is tested only in the Higher Tier papers and is labelled below. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation/) first.
+These notes condense statements P5.2g to P5.2j of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026), topic P5 Waves in matter. P5.2i and P5.2j are printed in bold in the specification, so they are tested only in the Higher Tier papers and are labelled below. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation/) first.
 
 Other links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/), [practice questions](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation-practice/) and the free [10-minute diagnostics](/diagnostics/).
 
@@ -127,7 +128,7 @@ Choosing between methods (use these phrases):
 </figure>
 
 
-## Radio waves and circuits (P5.2j)
+## Radio waves and circuits (P5.2j, Higher Tier only)
 
 - A transmitter has an alternating current. It makes electrons in the aerial oscillate, and the aerial gives out radio waves of the same frequency.
 - A receiver works in reverse. Radio waves make electrons in the receiving aerial oscillate, which produces an alternating current of the same frequency in the receiver circuit.
@@ -175,7 +176,7 @@ Example: why is ultraviolet used in a water steriliser? Ultraviolet damages the 
 7. (Higher Tier only) Why does bone show up on an X-ray image?
 8. (Higher Tier only) Why is gel applied to the skin for an ultrasound scan?
 9. (Higher Tier only) A pulse at 1500 m/s returns after 160 microseconds. How deep is the boundary?
-10. Describe what happens in a receiving aerial.
+10. (Higher Tier only) Describe what happens in a receiving aerial.
 11. (Higher Tier only) Why is a gamma tracer better than infrared for finding how a deep organ works?
 12. State one difference between imaging with X-rays and treating cancer with gamma rays.
 

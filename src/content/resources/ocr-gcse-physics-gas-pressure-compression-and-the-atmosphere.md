@@ -17,9 +17,10 @@ syllabusTopics:
 description: "Study guide to gas pressure, compression, work done on a gas and atmospheric pressure for OCR GCSE (9-1) Physics A Gateway Science, J249 P1.3a-g."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
-This guide follows the OCR *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), for first assessment in 2018. It covers statements P1.3a to P1.3g in topic P1 Matter: pressure in gases and in the atmosphere. P1.3a and P1.3b are assessed in both Foundation Tier and Higher Tier. The specification prints P1.3c to P1.3g in bold type, which makes them **Higher Tier only**. Liquid pressure and floating and sinking (P1.3h to P1.3j) are covered elsewhere.
+This guide follows the OCR *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), for first assessment in 2018. It covers statements P1.3a to P1.3g in topic P1 Matter: pressure in gases and in the atmosphere. Only P1.3e is printed in bold type in the specification, which makes it **Higher Tier only**; the other statements are assessed in both Foundation Tier and Higher Tier. P1.3c to P1.3g are marked in the specification as separate Physics only content (not in Combined Science). Liquid pressure and floating and sinking (P1.3h to P1.3j) are covered elsewhere.
 
 Related pages: [revision notes](/resources/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere-revision-notes/), [practice questions](/resources/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere-practice/), the wider [Matter study guide](/resources/ocr-gcse-physics-matter/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free diagnostics](/diagnostics/).
 
@@ -29,11 +30,11 @@ Related pages: [revision notes](/resources/ocr-gcse-physics-gas-pressure-compres
 |---|---|---|
 | P1.3a | Explain how gas particle motion relates to temperature and pressure (closed systems only) | Both |
 | P1.3b | Explain how temperature and pressure of a gas are related at constant volume (qualitative only) | Both |
-| P1.3c | Recall that pressure changes can compress or expand a gas, and that the pressure acts as a net force normal to every surface | Higher Tier only |
-| P1.3d | Explain how increasing the volume at constant temperature can lower the pressure; use pressure × volume = constant | Higher Tier only |
+| P1.3c | Recall that pressure changes can compress or expand a gas, and that the pressure acts as a net force normal to every surface | Both (separate Physics only) |
+| P1.3d | Explain how increasing the volume at constant temperature can lower the pressure; use pressure × volume = constant | Both (separate Physics only) |
 | P1.3e | Explain how doing work on a gas can raise its temperature | Higher Tier only |
-| P1.3f | Describe a simple model of the atmosphere and of atmospheric pressure | Higher Tier only |
-| P1.3g | Explain why atmospheric pressure varies with height | Higher Tier only |
+| P1.3f | Describe a simple model of the atmosphere and of atmospheric pressure | Both (separate Physics only) |
+| P1.3g | Explain why atmospheric pressure varies with height | Both (separate Physics only) |
 
 ## P1.3a: Particle motion, temperature and pressure
 
@@ -79,7 +80,7 @@ Do not write that pressure is "proportional to temperature in degrees Celsius". 
 </figure>
 
 
-## P1.3c (Higher Tier only): Compression and force at right angles
+## P1.3c (separate Physics only): Compression and force at right angles
 
 Gases can be compressed because most of a gas is empty space. A syringe of air can be squeezed a long way. A syringe of water or sand hardly moves, because those particles are already close together. Reducing the pressure lets a gas expand again.
 
@@ -126,7 +127,7 @@ Here you use pressure (Pa) = force normal to the surface (N) ÷ area (m²), writ
 </figure>
 
 
-## P1.3d (Higher Tier only): Volume, pressure and pV = constant
+## P1.3d (separate Physics only): Volume, pressure and pV = constant
 
 Keep the temperature constant and the amount of gas fixed. Now make the container bigger. The particles travel at the same average speed, but they have further to go between hitting the walls. Each wall is hit less often. The average force from a collision is unchanged. So the force on each unit of wall area falls, and **the pressure falls**. Making the container smaller does the opposite.
 
@@ -181,7 +182,7 @@ Link with P1.3d: the rule pV = constant holds only at constant temperature. A fa
 </figure>
 
 
-## P1.3f (Higher Tier only): A simple model of the atmosphere
+## P1.3f (separate Physics only): A simple model of the atmosphere
 
 The atmosphere is a layer of gas held around the Earth by gravity. Air has mass, so the air above any point has weight. **Atmospheric pressure** at a place is the force from that weight of air pressing on each unit area below it. It acts in all directions, not only downwards.
 
@@ -196,7 +197,7 @@ The specification asks for a simple model that assumes **uniform density**, and 
 
 Real air has no sharp top and thins gradually, so the uniform model is only a simplification.
 
-## P1.3g (Higher Tier only): Why pressure falls with height
+## P1.3g (separate Physics only): Why pressure falls with height
 
 Two reasons explain why atmospheric pressure decreases as you go higher:
 

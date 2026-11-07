@@ -13,6 +13,9 @@ order: 218
 syllabusTopics:
   - qualification: "a-level"
     topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+    subtopic: "classification-and-evolution-ocr-alevel-biology"
 description: "Revision notes on evolution evidence, variation, adaptations, natural selection and resistance for OCR A Level Biology A (H420), with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

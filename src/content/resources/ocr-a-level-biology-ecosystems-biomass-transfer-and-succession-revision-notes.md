@@ -13,6 +13,9 @@ order: 235
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+    subtopic: "ecosystems-ocr-alevel-biology"
 description: "Condensed revision notes on ecosystems, biomass efficiency, nitrogen and carbon cycles, succession and sampling statistics for OCR A Level Biology A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

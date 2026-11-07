@@ -14,6 +14,9 @@ order: 173
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-control-of-gene-expression-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "the-control-of-gene-expression-aqa-alevel-biology"
+    subtopic: "gene-expression-is-controlled-by-a-number-of-features-aqa-alevel-biology"
 description: "Condensed revision notes on transcription factors, epigenetics, RNAi, oncogenes, tumour suppressor genes and cancer data for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

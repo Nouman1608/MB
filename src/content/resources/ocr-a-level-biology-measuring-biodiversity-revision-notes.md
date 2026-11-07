@@ -13,6 +13,9 @@ order: 215
 syllabusTopics:
   - qualification: "a-level"
     topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+    subtopic: "biodiversity-ocr-alevel-biology"
 description: "Condensed revision notes on biodiversity levels, sampling, Simpson's Index and genetic diversity for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

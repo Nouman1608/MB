@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Revision notes on interacting forces, vectors, resultants, equilibrium, free body diagrams and Newton's first and third laws for OCR GCSE Physics A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, for first assessment in 2018). None of these statements is Higher Tier only. For full explanations read the [study guide](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams/), then try the [practice questions](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams-practice/). Related: [OCR GCSE Physics: Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/). Check your level with the [free 10-minute diagnostics](/diagnostics/).
+These notes condense statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, for first assessment in 2018). P2.2e to P2.2h are printed in bold in the specification, so they are **Higher Tier only**: resultants at right angles, resolution, equilibrium vector diagrams and terminal velocity. The rest is for both tiers, including adding forces along one line. For full explanations read the [study guide](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams/), then try the [practice questions](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams-practice/). Related: [OCR GCSE Physics: Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/). Check your level with the [free 10-minute diagnostics](/diagnostics/).
 
 ## Key definitions
 
@@ -100,12 +101,12 @@ Typical forces to include:
 |---|---|
 | Same line, same direction | Add |
 | Same line, opposite directions | Subtract: bigger minus smaller, direction of the bigger |
-| At right angles | Head-to-tail scale drawing, or Pythagoras: R = √(a² + b²) |
+| At right angles (Higher Tier only) | Head-to-tail scale drawing, or Pythagoras: R = √(a² + b²) |
 | Direction of the resultant | tan θ = opposite / adjacent |
 
-Resolution is the reverse: draw the force as the diagonal of a rectangle and read the horizontal and vertical sides to scale. Scale drawings are limited to parallel and perpendicular vectors.
+Resolution (Higher Tier only) is the reverse: draw the force as the diagonal of a rectangle and read the horizontal and vertical sides to scale. Scale drawings are limited to parallel and perpendicular vectors.
 
-Equilibrium test: vectors placed head to tail form a closed shape.
+Equilibrium test (Higher Tier only): vectors placed head to tail form a closed shape.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams--02-resultant-perpendicular.webp" width="900" height="665" alt="A scale drawing places a 15 N arrow east and an 8.0 N arrow north head to tail. The resultant joining start to finish is 17 N at 28 degrees north of east. Adding the sizes to get 23 N is marked wrong." loading="lazy">
@@ -118,7 +119,7 @@ Equilibrium test: vectors placed head to tail form a closed shape.
 </figure>
 
 
-## Terminal velocity (P2.2f)
+## Terminal velocity (P2.2f, Higher Tier only)
 
 1. Start: weight greater than drag, so a resultant downward and speed rises.
 2. Speed rises, so drag rises, so the resultant falls.
@@ -154,7 +155,7 @@ Equilibrium test: vectors placed head to tail form a closed shape.
 
 **Same line.** A barge: tow rope force 540 N forward, water resistance 410 N backward. Resultant = 540 − 410 = **130 N forward**.
 
-**Perpendicular.** 21 N west and 20 N south. R = √(21² + 20²) = **29 N**. Angle south of west = tan⁻¹(20/21) = **44°**.
+**Perpendicular (Higher Tier only).** 21 N west and 20 N south. R = √(21² + 20²) = **29 N**. Angle south of west = tan⁻¹(20/21) = **44°**.
 
 **Equilibrium.** 9 N right, 4 N left and 5 N left on a block. Net = 9 − 4 − 5 = **0 N**.
 
@@ -184,7 +185,7 @@ Always link the motion to the resultant force. Do not describe it with "the forc
 
 Before you leave a diagram, check that you have: only one object; every arrow starting at the object; a label on every arrow; matching lengths for balanced forces; no force that the object exerts on something else; and no extra arrow for the resultant.
 
-## Resolution reminder
+## Resolution reminder (Higher Tier only)
 
 A 130 N force is drawn at an angle whose triangle has sides in the ratio 5 : 12 : 13. Scale 1 cm to 10 N: the arrow is 13.0 cm. Its sides measure 12.0 cm and 5.0 cm. The components are **120 N** and **50 N**. Check: 120² + 50² = 16 900 = 130².
 
@@ -218,12 +219,12 @@ A 130 N force is drawn at an angle whose triangle has sides in the ratio 5 : 12 
 2. Which contact force acts at right angles to a surface?
 3. State Newton's first law.
 4. A cyclist moves at a steady 6 m/s on level ground. What is the resultant force?
-5. Find the resultant of 7.5 N and 10 N acting at right angles.
+5. Find the resultant of 7.5 N and 10 N acting at right angles. (Higher Tier only)
 6. A box has 90 N pushing it right and 55 N of friction acting left. State the resultant.
 7. Why do a book's weight and the table's normal contact force not form a third-law pair? Give two reasons.
-8. A skydiver weighs 700 N and falls at terminal velocity. State the drag.
+8. A skydiver weighs 700 N and falls at terminal velocity. State the drag. (Higher Tier only)
 9. A magnet pulls a nail with 0.4 N. What force does the nail exert on the magnet?
-10. What shape does a vector diagram of three forces in equilibrium make?
+10. What shape does a vector diagram of three forces in equilibrium make? (Higher Tier only)
 11. A lift cable pulls up with 4500 N and the lift's weight is 4200 N. State the resultant force and its direction.
 12. A sledge is in equilibrium on level snow. A rope pulls it forward with 64 N. Give the friction force.
 

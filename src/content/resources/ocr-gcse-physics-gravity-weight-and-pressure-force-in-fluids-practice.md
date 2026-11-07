@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Twelve original practice questions with worked answers on weight, free fall, fluid pressure force and hydraulics for OCR GCSE Physics A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 Forces in the OCR GCSE (9-1) Physics A (Gateway Science) specification, Version 5.0 (July 2026), first assessment 2018. Questions 1 to 5 are both tiers. Questions 6 to 12 are marked (Higher Tier only). Use g = 10 N/kg at the Earth's surface unless told otherwise. Learn the content first from the [study guide](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids/) and [revision notes](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-revision-notes/). Course pages: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free diagnostics](/diagnostics/).
+These questions cover statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 Forces in the OCR GCSE (9-1) Physics A (Gateway Science) specification, Version 5.0 (July 2026), first assessment 2018. All the questions are for both tiers. Questions 6 to 12 test P2.3j, P2.3n and P2.3o, which the specification marks as separate Physics only content (not in Combined Science). Use g = 10 N/kg at the Earth's surface unless told otherwise. Learn the content first from the [study guide](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids/) and [revision notes](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-revision-notes/). Course pages: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free diagnostics](/diagnostics/).
 
 ## Questions
 
@@ -54,13 +55,13 @@ These questions cover statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 F
 **(a)** Calculate the weight of each ball. **[2]**
 **(b)** Use acceleration = resultant force / mass to calculate the acceleration of each ball. **[2]**
 
-**6.** (Higher Tier only) A probe has weight 54 N on a planet where g = 3.6 N/kg.
+**6.** A probe has weight 54 N on a planet where g = 3.6 N/kg.
 
 **(a)** Calculate the mass of the probe. **[2]**
 **(b)** Calculate the weight of the probe on Earth. **[2]**
 **(c)** Explain why the probe's mass is the same on both planets. **[1]**
 
-**7.** (Higher Tier only) A pupil measures the weight of masses on an unknown planet.
+**7.** A pupil measures the weight of masses on an unknown planet.
 
 | Mass (kg) | 0.20 | 0.40 | 0.60 | 0.80 |
 |---|---|---|---|---|
@@ -71,29 +72,29 @@ These questions cover statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 F
 **(c)** State what the gradient represents. **[1]**
 **(d)** Predict the weight of a 3.0 kg mass on this planet. **[2]**
 
-**8.** (Higher Tier only) A sealed balloon contains air. Explain the direction of the net force of the air on the balloon skin. **[3]**
+**8.** A sealed balloon contains air. Explain the direction of the net force of the air on the balloon skin. **[3]**
 
-**9.** (Higher Tier only) A skier has mass 72 kg.
+**9.** A skier has mass 72 kg.
 
 **(a)** Calculate the skier's weight. **[1]**
 **(b)** The boots have total contact area 0.032 m² on snow. Calculate the pressure on the snow. **[2]**
 **(c)** With snowshoes the contact area is 0.24 m². Calculate the pressure. **[1]**
 **(d)** Explain how snowshoes help the skier stay on top of soft snow. **[1]**
 
-**10.** (Higher Tier only) An aircraft door has area 1.5 m². Cabin air pressure is 8.0 × 10⁴ Pa and the outside pressure is 3.0 × 10⁴ Pa.
+**10.** An aircraft door has area 1.5 m². Cabin air pressure is 8.0 × 10⁴ Pa and the outside pressure is 3.0 × 10⁴ Pa.
 
 **(a)** Calculate the pressure difference. **[1]**
 **(b)** Calculate the net force on the door. **[2]**
 **(c)** State the direction of this force relative to the door. **[1]**
 
-**11.** (Higher Tier only) A garage jack has a small piston of area 2.0 × 10⁻⁴ m² and a large piston of area 4.0 × 10⁻² m². A force of 150 N acts on the small piston.
+**11.** A garage jack has a small piston of area 2.0 × 10⁻⁴ m² and a large piston of area 4.0 × 10⁻² m². A force of 150 N acts on the small piston.
 
 **(a)** Calculate the pressure in the liquid. **[2]**
 **(b)** Calculate the force on the large piston. **[2]**
 **(c)** A car has mass 1200 kg. Decide whether the jack can lift it. **[2]**
 **(d)** The small piston moves 0.50 m. Calculate how far the large piston moves. **[1]**
 
-**12.** (Higher Tier only) A lander of mass 900 kg stands on three equal pads, each of area 0.20 m². On Mars g = 3.7 N/kg.
+**12.** A lander of mass 900 kg stands on three equal pads, each of area 0.20 m². On Mars g = 3.7 N/kg.
 
 **(a)** Calculate its weight on Mars. **[2]**
 **(b)** Calculate the pressure of the pads on the ground. **[2]**

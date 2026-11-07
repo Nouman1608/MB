@@ -13,6 +13,10 @@ order: 200
 syllabusTopics:
   - qualification: "gcse"
     topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "economic-growth-ocr-gcse-economics"
+  - qualification: "gcse"
+    topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "low-unemployment-ocr-gcse-economics"
 description: "Study guide to growth, GDP per capita, the Claimant Count and the types and effects of unemployment for OCR GCSE (9-1) Economics, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

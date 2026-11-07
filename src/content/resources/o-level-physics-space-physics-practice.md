@@ -12,6 +12,10 @@ order: 6
 syllabusTopics:
   - qualification: "o-level"
     topic: "space-physics"
+    subtopic: "earth-and-the-solar-system"
+  - qualification: "o-level"
+    topic: "space-physics"
+    subtopic: "stars-and-the-universe"
 description: "Original exam-style questions with full worked answers on the order of the planets, the Sun's gravitational attraction on a comet, average orbital speed, comparing orbital periods, the formation of a stable star, and redshift as evidence for the Big Bang, for Cambridge O Level Physics (5054)."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"

@@ -13,6 +13,9 @@ order: 225
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "photosynthesis-ocr-alevel-biology"
 description: "Condensed revision notes on photosynthesis for OCR A Level Biology A (H420) 5.2.1: pigments, light-dependent stage, Calvin cycle, limiting factors."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

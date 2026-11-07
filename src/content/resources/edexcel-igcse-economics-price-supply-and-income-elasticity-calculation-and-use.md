@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Study guide to price elasticity of demand and supply and income elasticity of demand, with worked calculations, for Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -213,7 +214,7 @@ Staple foods in the same period rise by 2%, giving 2 ÷ 5 = **+0.4**. Bus travel
 | Between 0 and 1 | Normal good (necessity) | Demand rises, but by less than income |
 | Negative | Inferior good | Demand falls |
 
-Classify by the size of the value. Restaurant meals (+1.6) are a luxury, staples (+0.4) are normal and bus travel (−0.6) is inferior for that group of households. 
+Classify by the size of the value. Restaurant meals (+1.6) are a luxury, staples (+0.4) are normal and bus travel (−0.6) is inferior for that group of households. The specification's three labels treat "normal" as the 0 to 1 band, but strictly every good with positive YED is a normal good: a luxury is a normal good with YED above 1, and a necessity is one with YED between 0 and 1.
 If income falls 4% and YED is +2.5, quantity demanded falls 2.5 × 4 = 10%.
 
 <figure class="topic-figure">

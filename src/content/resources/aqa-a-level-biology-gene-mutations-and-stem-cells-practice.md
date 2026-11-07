@@ -14,6 +14,12 @@ order: 172
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-control-of-gene-expression-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "the-control-of-gene-expression-aqa-alevel-biology"
+    subtopic: "alteration-of-the-base-sequence-can-alter-protein-structure-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "the-control-of-gene-expression-aqa-alevel-biology"
+    subtopic: "gene-expression-is-controlled-by-a-number-of-features-aqa-alevel-biology"
 description: "Original practice questions with worked answers on gene mutations, frame shifts, stem cell potency and iPS cells for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

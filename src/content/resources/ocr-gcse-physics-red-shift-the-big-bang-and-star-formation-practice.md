@@ -14,9 +14,10 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "global-challenges-ocr-gcse"
     subtopic: "beyond-earth-ocr-gcse"
-description: "Original practice questions with worked answers on red-shift, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249), Higher Tier."
+description: "Original practice questions with worked answers on red-shift, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,18 +27,18 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions follow the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. They cover statements P8.3a, P8.3b and P8.3c. All three are printed in bold in the specification and are tested only in the Higher Tier papers, so every question is labelled "(Higher Tier only)". Read the [study guide](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation/) first, or use the [revision notes](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation-revision-notes/). Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checklist](/checklists/ocr/gcse/physics/). Find weak spots with the [free diagnostics](/diagnostics/).
+These questions follow the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. They cover statements P8.3a, P8.3b and P8.3c. None of the three is printed in bold, so every question is for both tiers. All three are separate Physics only content (not in Combined Science). Read the [study guide](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation/) first, or use the [revision notes](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation-revision-notes/). Hub: [OCR GCSE Physics](/boards/ocr/gcse/physics/). Checklist: [printable checklist](/checklists/ocr/gcse/physics/). Find weak spots with the [free diagnostics](/diagnostics/).
 
 ## Questions
 
-**1.** (Higher Tier only) Describe what is meant by the red-shift of light from a galaxy. **[2]**
+**1.** Describe what is meant by the red-shift of light from a galaxy. **[2]**
 
-**2.** (Higher Tier only) Light from most galaxies is red-shifted.
+**2.** Light from most galaxies is red-shifted.
 
 **(a)** State what the red-shift of a galaxy tells you about its motion. **[1]**
 **(b)** Predict how the light from a galaxy moving towards us would differ from the light it emitted. **[1]**
 
-**3.** (Higher Tier only) The calcium K spectral line is at 393 nm in a laboratory measurement. Astronomers find this line in light from four galaxies.
+**3.** The calcium K spectral line is at 393 nm in a laboratory measurement. Astronomers find this line in light from four galaxies.
 
 | Galaxy | Distance (million light years) | Observed wavelength (nm) |
 |---|---|---|
@@ -50,30 +51,30 @@ These questions follow the OCR *GCSE (9-1) Gateway Science Physics A* specificat
 **(b)** State which galaxy is moving away fastest and give a reason. **[1]**
 **(c)** Describe the pattern between distance and speed, and state what it suggests about the universe. **[2]**
 
-**4.** (Higher Tier only) A student says, "Red-shift means that the light has slowed down, so it looks redder." Explain why this is not correct. **[2]**
+**4.** A student says, "Red-shift means that the light has slowed down, so it looks redder." Explain why this is not correct. **[2]**
 
-**5.** (Higher Tier only) A balloon with small coins stuck on it is inflated. Explain how this models the motion of galaxies, and state one limitation of the model. **[4]**
+**5.** A balloon with small coins stuck on it is inflated. Explain how this models the motion of galaxies, and state one limitation of the model. **[4]**
 
-**6.** (Higher Tier only) Astronomers identify the elements in a galaxy from the pattern of dark lines in its light. Explain how they can tell that the lines in the light from a distant galaxy have been red-shifted. **[2]**
+**6.** Astronomers identify the elements in a galaxy from the pattern of dark lines in its light. Explain how they can tell that the lines in the light from a distant galaxy have been red-shifted. **[2]**
 
-**7.** (Higher Tier only) Explain how the expansion of the universe leads to the idea of the Big Bang. **[3]**
+**7.** Explain how the expansion of the universe leads to the idea of the Big Bang. **[3]**
 
-**8.** (Higher Tier only) Cosmic microwave background radiation (CMBR) is detected from every direction in space.
+**8.** Cosmic microwave background radiation (CMBR) is detected from every direction in space.
 
 **(a)** State the part of the electromagnetic spectrum in which CMBR is found. **[1]**
 **(b)** Explain how the Big Bang model accounts for CMBR. **[3]**
 
-**9.** (Higher Tier only) A student writes, "The Big Bang was an explosion at a point in space, and the galaxies have been moving outward from that point ever since. We are near the centre because we see all galaxies moving away from us." Evaluate the student's statement. **[3]**
+**9.** A student writes, "The Big Bang was an explosion at a point in space, and the galaxies have been moving outward from that point ever since. We are near the centre because we see all galaxies moving away from us." Evaluate the student's statement. **[3]**
 
-**10.** (Higher Tier only) Describe the stages by which a cloud of interstellar dust and gas became the Sun and began releasing energy by fusion. **[4]**
+**10.** Describe the stages by which a cloud of interstellar dust and gas became the Sun and began releasing energy by fusion. **[4]**
 
-**11.** (Higher Tier only) The Sun has stayed about the same size for billions of years.
+**11.** The Sun has stayed about the same size for billions of years.
 
 **(a)** Name the two effects that are in equilibrium in the Sun. **[2]**
 **(b)** Explain what causes each effect. **[2]**
 **(c)** Explain how this equilibrium would restore itself if the rate of fusion in the core increased slightly. **[2]**
 
-**12.** (Higher Tier only) Read the two statements about the early universe.
+**12.** Read the two statements about the early universe.
 
 Statement 1: Light from distant galaxies is red-shifted by more for the galaxies that are further away.
 Statement 2: Microwaves arrive at Earth from all directions with almost the same intensity.

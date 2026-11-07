@@ -13,6 +13,13 @@ order: 509
 syllabusTopics:
   - qualification: "o-level"
     topic: "thermal-physics"
+    subtopic: "kinetic-particle-model-of-matter"
+  - qualification: "o-level"
+    topic: "thermal-physics"
+    subtopic: "thermal-properties-and-temperature"
+  - qualification: "o-level"
+    topic: "thermal-physics"
+    subtopic: "transfer-of-thermal-energy"
 description: "Condensed revision notes for thermal physics in Cambridge O Level Physics 5054, with key equations, comparisons, a self-test and common mark losses."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25

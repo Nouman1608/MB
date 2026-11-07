@@ -13,6 +13,16 @@ order: 805
 syllabusTopics:
   - qualification: "gcse"
     topic: "finance-aqa-gcse-business"
+    subtopic: "sources-of-finance-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "finance-aqa-gcse-business"
+    subtopic: "cash-flow-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "finance-aqa-gcse-business"
+    subtopic: "financial-terms-and-calculations-aqa-gcse-business"
+  - qualification: "gcse"
+    topic: "finance-aqa-gcse-business"
+    subtopic: "analysing-the-financial-performance-of-a-business-aqa-gcse-business"
 description: "Condensed AQA GCSE Business Finance revision notes: sources of finance, cash flow, break-even, ARR, profit margins and statements, plus a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25

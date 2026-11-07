@@ -12,6 +12,10 @@ order: 5
 syllabusTopics:
   - qualification: "o-level"
     topic: "nuclear-physics"
+    subtopic: "the-nuclear-model-of-the-atom"
+  - qualification: "o-level"
+    topic: "nuclear-physics"
+    subtopic: "radioactivity"
 description: "Original exam-style questions with full worked answers on the parts of a nuclear reactor, fission of uranium-235, chain reactions, nuclide notation and alpha decay, half-life, and the properties of alpha, beta and gamma radiation, for Cambridge O Level Physics (5054)."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"

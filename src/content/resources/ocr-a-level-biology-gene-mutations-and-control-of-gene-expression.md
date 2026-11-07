@@ -13,6 +13,9 @@ order: 228
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+    subtopic: "cellular-control-ocr-alevel-biology"
 description: "Study guide to gene mutations, the lac operon, transcription factors, Hox genes, mitosis and apoptosis for OCR A Level Biology A (H420), module 6.1.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

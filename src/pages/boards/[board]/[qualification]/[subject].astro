@@ -45,6 +45,7 @@ import { FALLBACK_EMAIL } from '../../../../utils/forms/submit';
 import { site } from '../../../../data/site';
 import TuitionPanel from '../../../../components/sections/TuitionPanel.astro';
 import { diagnosticsForCode, diagnosticPath } from '../../../../data/diagnostics';
+import { deckFor, flashcardsPath, topicCardCounts } from '../../../../data/flashcards';
 import VideoSection from '../../../../components/media/VideoSection.astro';
 import { tuitionPageFor } from '../../../../data/tuition-pages';
 import { tuitionFaqs } from '../../../../utils/content/tuition';
@@ -88,6 +89,12 @@ const checklistHref = checklistVersion && checklistVersion.status === 'current'
 const practiceCount = syllabus && isFlagshipCode(syllabus.code) ? practiceQuestionsForCode(syllabus.code).length : 0;
 // D-319: link the free 10-minute diagnostic(s) for this syllabus, when any exist.
 const hubDiagnostics = syllabus && practiceCount > 0 ? diagnosticsForCode(syllabus.code) : [];
+// D-444: the course's flashcard deck, when one exists, and per-topic links into it.
+const hubDeck = deckFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+const hubDeckCounts = hubDeck ? topicCardCounts(hubDeck) : {};
+const topicFlashcards = hubDeck
+  ? Object.fromEntries(Object.entries(hubDeckCounts).map(([slug, count]) => [slug, { href: flashcardsPath(hubDeck, slug), count }]))
+  : undefined;
 
 /**
  * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS2 -- every academic
@@ -669,8 +676,10 @@ const jsonLd = [
         courseLabel={`${heading}${syllabus && hasRealCode ? ` (${syllabus.code})` : ''}`}
         searchLabel={syllabus && hasRealCode ? `${courseRenamed ? heading : c.subject} (${syllabus.code})` : heading}
         groups={topicGroups}
+        flashcards={topicFlashcards}
         tools={[
           ...hubDiagnostics.map((d) => ({ href: diagnosticPath(d), label: 'Test yourself in 10 minutes', detail: d.scopeLabel, cta: 'hub-tool-diagnostic' })),
+          ...(hubDeck ? [{ href: flashcardsPath(hubDeck), label: 'Flashcards', detail: `${hubDeck.cards.length} cards, by topic and subtopic`, cta: 'hub-tool-flashcards' }] : []),
           ...(practiceCount > 0 ? [{ href: `/practice/${syllabus!.code}/`, label: 'Self-check practice', detail: `${practiceCount} questions with worked answers`, cta: 'hub-tool-practice' }] : []),
           ...(checklistHref ? [{ href: checklistHref, label: 'Printable topic checklist', detail: 'Tick off each topic as you revise', cta: 'hub-tool-checklist' }] : []),
         ]}

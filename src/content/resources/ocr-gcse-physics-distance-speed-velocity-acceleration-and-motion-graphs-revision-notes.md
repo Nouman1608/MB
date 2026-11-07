@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Condensed revision notes for OCR GCSE Physics A (J249) P2.1 Motion: equations, graph rules, unit conversions and a self-test with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense **P2.1 Motion** (P2.1a to P2.1h) from OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018. All of P2.1 is assessed at both tiers. For full explanations read the [study guide](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs/); to test yourself use the [practice questions](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-practice/). Related pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/), the [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/) and the [free 10-minute diagnostics](/diagnostics/).
+These notes condense **P2.1 Motion** (P2.1a to P2.1h) from OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018. All of P2.1 is assessed at both tiers except P2.1f (the area under a velocity-time graph), which is printed in bold in the specification and is **Higher Tier only**. For full explanations read the [study guide](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs/); to test yourself use the [practice questions](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-practice/). Related pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [checklist](/checklists/ocr/gcse/physics/), the [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/) and the [free 10-minute diagnostics](/diagnostics/).
 
 ## Equations to recall and apply
 
@@ -102,7 +103,7 @@ Symbols: u initial velocity, v final velocity, a acceleration, s distance, t tim
 
 **Velocity-time:** upward straight slope is uniform acceleration, downward straight slope is uniform deceleration, a curve is changing acceleration. Below the time axis means motion the other way.
 
-**Method for area:** split into rectangles and triangles, work out each, add. Triangle ½ × base × height. Trapezium ½ × (sum of parallel sides) × width.
+**Method for area (P2.1f, Higher Tier only):** split into rectangles and triangles, work out each, add. Triangle ½ × base × height. Trapezium ½ × (sum of parallel sides) × width.
 
 **Worked reminder.** Velocity rises from 0 to 12 m/s in 4 s, then stays at 12 m/s for 6 s. Distance = ½ × 4 × 12 + 6 × 12 = 24 + 72 = 96 m.
 

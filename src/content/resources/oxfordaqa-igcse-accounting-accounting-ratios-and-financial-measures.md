@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Study guide to the nine financial ratios and measures in OxfordAQA International GCSE Accounting 9215: standard forms, worked examples and interpretation."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -53,7 +54,7 @@ The same section also asks you to appraise business performance on profitability
 | Gross profit margin % | gross profit / revenue x 100 |
 | Markup % | gross profit / cost of sales x 100 |
 | Rate of inventory turnover | cost of sales / average inventory (times per year) |
-| Profit in relation to revenue % | profit for the year / revenue x 100 |
+| Profit in relation to revenue % | profit from operations / revenue x 100 |
 | Return on capital employed % | profit from operations / capital employed x 100 |
 | Current ratio | current assets : current liabilities |
 | Liquid capital ratio | (current assets - inventory) : current liabilities |
@@ -64,7 +65,7 @@ Where the pieces come from:
 
 - Cost of sales = opening inventory + purchases - closing inventory.
 - Average inventory = (opening inventory + closing inventory) / 2.
-- Profit from operations is the profit before interest on loans is deducted. Profit for the year is after that interest.
+- Profit from operations is the profit before interest on loans is deducted. Profit for the year is after that interest. Profit in relation to revenue and ROCE both use profit from operations, as OxfordAQA's own 9215 mark scheme (Paper 2, May/June 2026) does. OxfordAQA's 9215 vocabulary list defines profit from operations as the profit for the year before finance charges and taxation, and the 9215 materials give no separate version of ROCE for a sole trader.
 - Capital employed = total assets - current liabilities. This equals equity plus non-current liabilities.
 - Use credit revenue and credit purchases for the days measures. If the question only gives total revenue, say that you have used it.
 
@@ -97,7 +98,7 @@ Statement of financial position extract at 30 June:
 
 - Gross profit margin = 100,000 / 240,000 x 100 = 41.7%.
 - Markup = 100,000 / 140,000 x 100 = 71.4%.
-- Profit in relation to revenue = 36,000 / 240,000 x 100 = 15.0%.
+- Profit in relation to revenue = 40,000 / 240,000 x 100 = 16.7%.
 - Capital employed = (120,000 + 66,000) - 30,000 = 156,000. Check: equity of 116,000 plus the loan of 40,000 is 156,000.
 - Return on capital employed = 40,000 / 156,000 x 100 = 25.6%.
 
@@ -115,8 +116,8 @@ Statement of financial position extract at 30 June:
 **Reading the results.** Customers take about 55 days to pay but the business takes about 67 days to pay its own suppliers. That helps cash, but suppliers may withdraw credit terms if the gap grows. A current ratio of 2.2 : 1 looks safe, and the liquid capital ratio of 1.2 : 1 shows the business does not rely on selling kites to meet its short-term debts.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--04-ratio-revenue-to-profit.webp" width="900" height="910" alt="Four bars drawn to scale show revenue 240,000, gross profit 100,000, profit from operations 40,000 and profit for the year 36,000. Labels give gross profit margin 41.7%, markup 71.4%, ROCE 25.6% (40,000 over capital employed 156,000) and profit in relation to revenue 15.0%." loading="lazy">
-  <figcaption>Each profitability measure takes a different profit and a different base.</figcaption>
+  <img src="/images/learning/accounting/oxfordaqa-igcse-accounting-revenue-to-profit-ratios.svg" width="900" height="910" alt="Four bars drawn to scale show revenue 240,000, gross profit 100,000, profit from operations 40,000 and profit for the year 36,000 after 4,000 loan interest. Labels give gross profit margin 41.7%, markup 71.4%, and, from profit from operations, ROCE 25.6% (40,000 over capital employed 156,000) and profit in relation to revenue 16.7% (40,000 over revenue 240,000)." loading="lazy">
+  <figcaption>Each profitability measure takes a different profit and a different base. Profit in relation to revenue and ROCE both use profit from operations, as the 9215 mark scheme does.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -225,7 +226,7 @@ Fairmead Furnishings has two years of figures (revenue and cost of sales in doll
 | Cost of sales | 150,000 | 178,750 |
 | Gross profit | 100,000 | 96,250 |
 | Expenses | 55,000 | 44,000 |
-| Profit for the year | 45,000 | 52,250 |
+| Profit from operations (no loan interest) | 45,000 | 52,250 |
 | Gross profit margin | 40.0% | 35.0% |
 | Profit in relation to revenue | 18.0% | 19.0% |
 

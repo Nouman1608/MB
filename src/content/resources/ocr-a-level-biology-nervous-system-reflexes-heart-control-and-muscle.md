@@ -13,6 +13,9 @@ order: 224
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "plant-and-animal-responses-ocr-alevel-biology"
 description: "Study guide to nervous system organisation, the brain, reflexes, fight or flight, heart rate control and muscle contraction for OCR A Level Biology A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

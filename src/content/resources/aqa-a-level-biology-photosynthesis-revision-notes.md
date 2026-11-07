@@ -14,6 +14,9 @@ order: 160
 syllabusTopics:
   - qualification: "a-level"
     topic: "energy-transfers-in-and-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "energy-transfers-in-and-between-organisms-aqa-alevel-biology"
+    subtopic: "photosynthesis-aqa-alevel-biology"
 description: "Condensed revision notes on photosynthesis for AQA A-level Biology 7402: light reactions, Calvin cycle, limiting factors and required practicals 7 and 8."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

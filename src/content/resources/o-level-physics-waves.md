@@ -13,6 +13,16 @@ order: 510
 syllabusTopics:
   - qualification: "o-level"
     topic: "waves"
+    subtopic: "general-properties-of-waves"
+  - qualification: "o-level"
+    topic: "waves"
+    subtopic: "light"
+  - qualification: "o-level"
+    topic: "waves"
+    subtopic: "electromagnetic-spectrum"
+  - qualification: "o-level"
+    topic: "waves"
+    subtopic: "sound"
 description: "Study guide to Waves for Cambridge O Level Physics 5054: wave properties, light, lenses, the electromagnetic spectrum and sound, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25

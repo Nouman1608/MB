@@ -13,6 +13,9 @@ order: 222
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "communication-homeostasis-and-energy-ocr-alevel-biology"
+    subtopic: "hormonal-communication-ocr-alevel-biology"
 description: "Revision notes on hormones, the adrenal glands, pancreas histology, insulin and glucagon, diabetes and treatments for OCR A Level Biology A (H420) 5.1.4."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

@@ -14,6 +14,9 @@ order: 163
 syllabusTopics:
   - qualification: "a-level"
     topic: "energy-transfers-in-and-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "energy-transfers-in-and-between-organisms-aqa-alevel-biology"
+    subtopic: "nutrient-cycles-aqa-alevel-biology"
 description: "Original practice questions on nutrient cycles for AQA A-level Biology, with data tasks, fertiliser calculations and worked answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

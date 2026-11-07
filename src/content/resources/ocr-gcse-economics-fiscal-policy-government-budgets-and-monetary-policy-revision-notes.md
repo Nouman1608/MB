@@ -13,6 +13,10 @@ order: 202
 syllabusTopics:
   - qualification: "gcse"
     topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "fiscal-policy-ocr-gcse-economics"
+  - qualification: "gcse"
+    topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
+    subtopic: "monetary-policy-ocr-gcse-economics"
 description: "Condensed revision notes on taxes, budgets, fiscal policy, redistribution and monetary policy, with formulas and a self-test, for OCR GCSE Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

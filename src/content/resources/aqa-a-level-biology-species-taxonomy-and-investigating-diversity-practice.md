@@ -14,6 +14,12 @@ order: 158
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "species-and-taxonomy-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "investigating-diversity-aqa-alevel-biology"
 description: "Original practice questions with worked answers on species, classification, sequence data and standard deviation for AQA A-level Biology, 3.4.5 and 3.4.7."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

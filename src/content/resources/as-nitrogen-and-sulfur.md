@@ -20,7 +20,7 @@ reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
-updatedDate: 2026-08-17
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -60,7 +60,7 @@ catalysing the oxidation of atmospheric sulfur dioxide.
 Nitrogen gas, N₂, is strikingly unreactive despite being roughly 78% of the
 atmosphere. Two factors explain this together:
 
-- The **N≡N triple bond is exceptionally strong** (around 945 kJ mol⁻¹,
+- The **N≡N triple bond is exceptionally strong** (944 kJ mol⁻¹ in the data booklet,
 among the strongest bonds known) — breaking it to start a reaction requires
 a large amount of energy.
 - The **molecule is non-polar** — two identical nitrogen atoms share the

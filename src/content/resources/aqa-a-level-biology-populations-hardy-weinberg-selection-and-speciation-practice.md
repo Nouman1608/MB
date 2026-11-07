@@ -14,6 +14,12 @@ order: 170
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+    subtopic: "populations-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-populations-evolution-and-ecosystems-aqa-alevel-biology"
+    subtopic: "evolution-may-lead-to-speciation-aqa-alevel-biology"
 description: "Original practice questions with worked answers on Hardy-Weinberg, selection, genetic drift and speciation for AQA A-level Biology 7402, 3.7.2-3.7.3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

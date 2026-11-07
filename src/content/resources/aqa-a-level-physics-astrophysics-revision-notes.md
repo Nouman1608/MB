@@ -25,6 +25,7 @@ syllabusTopics:
 description: "Condensed AQA A-Level Physics 7408 Astrophysics revision notes: formula table, method steps, key distinctions and a quick self-test with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -123,7 +124,7 @@ Unit conversions: 1 pc ≈ 3.08 × 10¹⁶ m; 1 Mpc ≈ 3.08 × 10²² m; 1 ly �
 
 ## 3.9.3 Cosmology
 
-- **Doppler**: recession → red shift, z positive. Use z = Δλ/λ = v/c for the speed (v ≪ c). Applies to optical and radio frequencies.
+- **Doppler**: z = Δλ/λ = −v/c (v ≪ c), with v positive for approach. A receding source has negative v, so λ increases (red shift) and z is positive; its recession speed is zc. Applies to optical and radio frequencies.
 - **Binary star**: maximum shift → orbital speed; time for one cycle of shifts → period.
 - **Hubble**: v = Hd; expansion; age ≈ 1/H.
 - **Big Bang evidence**: microwave background (about 2.7 K, nearly uniform in all directions); hydrogen and helium abundance (about 3 : 1 by mass).
@@ -184,7 +185,7 @@ Unit conversions: 1 pc ≈ 3.08 × 10¹⁶ m; 1 Mpc ≈ 3.08 × 10²² m; 1 ly �
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--06-aphy-astro-redshift.webp" width="900" height="980" alt="Hydrogen absorption lines at 434.0, 486.1 and 656.3 nm in the laboratory are shifted to 442.7, 495.8 and 669.4 nm in a distant galaxy, all by the same fraction z = 0.020. z = delta lambda / lambda = v/c gives a recession speed of about 6.0e6 m/s." loading="lazy">
-  <figcaption>Spectral lines of a receding galaxy shift to longer wavelength by z = v/c.</figcaption>
+  <figcaption>Spectral lines of a receding galaxy shift to longer wavelength; z = Δλ/λ, and the recession speed is zc.</figcaption>
 </figure>
 
 

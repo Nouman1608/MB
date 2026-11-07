@@ -13,6 +13,9 @@ order: 214
 syllabusTopics:
   - qualification: "a-level"
     topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+    subtopic: "communicable-diseases-disease-prevention-and-the-immune-system-ocr-alevel-biology"
 description: "Original practice questions with worked answers on lymphocytes, antibodies, vaccination, herd immunity, medicines and antibiotics, OCR A Level Biology A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

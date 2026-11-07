@@ -14,20 +14,21 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-in-matter-ocr-gcse"
     subtopic: "wave-behaviour-ocr-gcse"
-description: "Condensed revision notes on sound at boundaries, echoes, ultrasound, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), Higher Tier only."
+description: "Condensed revision notes on sound at boundaries, echoes, ultrasound, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), including Higher Tier only content."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-These notes condense statements P5.1f to P5.1i of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). They are **Higher Tier only**. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing/). Test yourself with the [practice questions](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-practice/), tick topics off on the [checklist](/checklists/ocr/gcse/physics/), see the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and find weak spots with the [free diagnostics](/diagnostics/).
+These notes condense statements P5.1f to P5.1i of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). P5.1h and P5.1i are in bold in the specification, so they are **Higher Tier only**; P5.1f and P5.1g are for both tiers. All four are separate Physics only content (not in Combined Science). For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing/). Test yourself with the [practice questions](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-practice/), tick topics off on the [checklist](/checklists/ocr/gcse/physics/), see the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and find weak spots with the [free diagnostics](/diagnostics/).
 
 ## Key facts at a glance
 
 | Statement | Key point | Tier |
 |---|---|---|
-| P5.1f | Crossing a boundary: frequency fixed, speed and wavelength change together | Higher Tier only |
-| P5.1g | Reflection, transmission and absorption at an interface; ultrasound and sonar use echoes | Higher Tier only |
+| P5.1f | Crossing a boundary: frequency fixed, speed and wavelength change together | Both (separate Physics only) |
+| P5.1g | Reflection, transmission and absorption at an interface; ultrasound and sonar use echoes | Both (separate Physics only) |
 | P5.1h | Sound in air and vibrations in solids convert both ways; the ear is the main example | Higher Tier only |
 | P5.1i | Conversions work over a limited frequency range; human range is roughly 20 Hz to 20 kHz; it narrows with age | Higher Tier only |
 
@@ -108,7 +109,7 @@ These notes condense statements P5.1f to P5.1i of the OCR GCSE (9-1) Gateway Sci
 </figure>
 
 
-## P5.1h: converting sound and vibrations in solids
+## P5.1h: converting sound and vibrations in solids (Higher Tier only)
 
 Sound (a pressure wave in air) makes a solid surface vibrate. A vibrating solid pushes air and makes sound. Both directions occur.
 
@@ -136,7 +137,7 @@ Only a simple structure of the ear is expected, so you do not need to name the i
 </figure>
 
 
-## P5.1i: limited range and human hearing
+## P5.1i: limited range and human hearing (Higher Tier only)
 
 **Why the range is limited**
 

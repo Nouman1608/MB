@@ -13,6 +13,9 @@ order: 232
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+    subtopic: "manipulating-genomes-ocr-alevel-biology"
 description: "Condensed revision notes on genetic engineering techniques, GM ethics and somatic versus germ line gene therapy for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

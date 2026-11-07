@@ -13,6 +13,9 @@ order: 234
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetics-evolution-and-ecosystems-ocr-alevel-biology"
+    subtopic: "cloning-and-biotechnology-ocr-alevel-biology"
 description: "Original practice questions with worked answers on aseptic culture, growth curves, fermenters, antibiotic zones and immobilised enzymes, OCR Biology A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

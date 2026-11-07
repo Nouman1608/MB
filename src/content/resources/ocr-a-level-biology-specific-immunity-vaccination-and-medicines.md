@@ -13,6 +13,9 @@ order: 214
 syllabusTopics:
   - qualification: "a-level"
     topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+    subtopic: "communicable-diseases-disease-prevention-and-the-immune-system-ocr-alevel-biology"
 description: "Study guide to T and B lymphocytes, antibodies, vaccination, herd immunity, sources of medicines and antibiotics for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

@@ -13,6 +13,13 @@ order: 509
 syllabusTopics:
   - qualification: "o-level"
     topic: "thermal-physics"
+    subtopic: "kinetic-particle-model-of-matter"
+  - qualification: "o-level"
+    topic: "thermal-physics"
+    subtopic: "thermal-properties-and-temperature"
+  - qualification: "o-level"
+    topic: "thermal-physics"
+    subtopic: "transfer-of-thermal-energy"
 description: "Study guide to thermal physics for Cambridge O Level Physics 5054: particle model, gas laws, expansion, heat capacity, state changes, energy transfer."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25

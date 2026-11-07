@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Condensed formulae, method steps, interpretation cues and a ten-question self-test on the nine ratios in OxfordAQA International GCSE Accounting 9215."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -33,7 +34,7 @@ The specification says the formulae are in an OxfordAQA guide, "Formulae for acc
 | Gross profit margin % | gross profit / revenue x 100 | percentage |
 | Markup % | gross profit / cost of sales x 100 | percentage |
 | Rate of inventory turnover | cost of sales / average inventory | times per year |
-| Profit in relation to revenue % | profit for the year / revenue x 100 | percentage |
+| Profit in relation to revenue % | profit from operations / revenue x 100 | percentage |
 | Return on capital employed % | profit from operations / capital employed x 100 | percentage |
 | Current ratio | current assets : current liabilities | ratio, for example 2 : 1 |
 | Liquid capital ratio | (current assets - inventory) : current liabilities | ratio |
@@ -41,8 +42,8 @@ The specification says the formulae are in an OxfordAQA guide, "Formulae for acc
 | Trade payable days | trade payables / credit purchases x 365 | days |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures--04-ratio-revenue-to-profit.webp" width="900" height="910" alt="Four bars drawn to scale show revenue 240,000, gross profit 100,000, profit from operations 40,000 and profit for the year 36,000. Labels give gross profit margin 41.7%, markup 71.4%, ROCE 25.6% (40,000 over capital employed 156,000) and profit in relation to revenue 15.0%." loading="lazy">
-  <figcaption>Each profitability measure takes a different profit and a different base.</figcaption>
+  <img src="/images/learning/accounting/oxfordaqa-igcse-accounting-revenue-to-profit-ratios.svg" width="900" height="910" alt="Four bars drawn to scale show revenue 240,000, gross profit 100,000, profit from operations 40,000 and profit for the year 36,000 after 4,000 loan interest. Labels give gross profit margin 41.7%, markup 71.4%, and, from profit from operations, ROCE 25.6% (40,000 over capital employed 156,000) and profit in relation to revenue 16.7% (40,000 over revenue 240,000)." loading="lazy">
+  <figcaption>Each profitability measure takes a different profit and a different base. Profit in relation to revenue and ROCE both use profit from operations, as the 9215 mark scheme does.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -104,7 +105,7 @@ Revenue 96,000 (73,000 on credit). Cost of sales 72,000, from opening inventory 
 | Gross profit margin | 24,000 / 96,000 x 100 | 25.0% |
 | Markup | 24,000 / 72,000 x 100 | 33.3% |
 | Rate of inventory turnover | 72,000 / 12,000 | 6.0 times |
-| Profit in relation to revenue | 18,000 / 96,000 x 100 | 18.75% |
+| Profit in relation to revenue | 18,500 / 96,000 x 100 | 19.3% |
 | Capital employed | 58,000 + 32,000 - 16,000 | 74,000 |
 | Return on capital employed | 18,500 / 74,000 x 100 | 25.0% |
 | Current ratio | 32,000 : 16,000 | 2.0 : 1 |
@@ -138,7 +139,7 @@ Customers take 75 days to pay but suppliers are paid in 50. That squeezes cash, 
 - Margin divides by revenue. Markup divides by cost of sales. Markup is the larger figure for the same trading.
 - Margin to markup: margin / (100 - margin) x 100. Markup to margin: markup / (100 + markup) x 100. For example, 40% margin is 66.7% markup, and 80% markup is 44.4% margin.
 - Current ratio includes inventory. The liquid capital ratio does not.
-- Profit in relation to revenue uses profit for the year. ROCE uses profit from operations and capital employed.
+- Profit in relation to revenue and ROCE both use profit from operations (before loan interest), as OxfordAQA's own 9215 mark scheme (Paper 2, May/June 2026) does.
 - Profit is not cash. Credit sales raise profit but not cash. Depreciation lowers profit but not cash. Buying equipment, repaying loans and drawings lower cash without lowering profit when they happen.
 - Paying a trade payable from the bank lowers current assets and current liabilities by the same amount. A current ratio above 1 : 1 then rises. Buying a non-current asset from the bank lowers current assets only, so the ratio falls.
 

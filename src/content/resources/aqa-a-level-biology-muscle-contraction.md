@@ -14,6 +14,9 @@ order: 166
 syllabusTopics:
   - qualification: "a-level"
     topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+    subtopic: "skeletal-muscles-aqa-alevel-biology"
 description: "Study guide to myofibril structure, sliding filaments, calcium ions, ATP, phosphocreatine and fibre types for AQA A-level Biology 7402 section 3.6.3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

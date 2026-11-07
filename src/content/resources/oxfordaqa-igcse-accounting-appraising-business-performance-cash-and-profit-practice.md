@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Eleven original questions with worked answers on profitability and liquidity ratios, appraisal, and cash versus profit for OxfordAQA IGCSE Accounting 9215."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -38,7 +39,7 @@ These questions are aligned to the OxfordAQA International GCSE Accounting (9215
 
 **4.** Hollinwray Garden Centre has inventory 30,000, trade receivables 14,000 and bank 6,000. Its current liabilities are trade payables 21,000 and accrued expenses 4,000. Calculate the current ratio and liquid capital ratio, and comment. **[5]**
 
-**5.** Marchmont Bakery has revenue 380,000, gross profit 152,000, profit for the year 38,000 and capital employed 190,000. Calculate the gross profit margin, profit in relation to revenue and return on capital employed. **[4]**
+**5.** Marchmont Bakery has revenue 380,000, gross profit 152,000, profit for the year 38,000 (there is no loan interest, so this is also the profit from operations) and capital employed 190,000. Calculate the gross profit margin, profit in relation to revenue and return on capital employed. **[4]**
 
 **6.** For each transaction, state the effect on profit and on cash (increase, decrease or no effect). Each part is separate.
 

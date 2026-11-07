@@ -17,10 +17,11 @@ syllabusTopics:
 description: "Estimate stopping distances, road forces and crash accelerations, and explain why large decelerations injure, for OCR GCSE Physics A (Gateway Science)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0, July 2026. It covers statements P8.1f to P8.1i in topic P8.1, Physics on the move. P8.1f, P8.1h and P8.1i are Higher Tier only. P8.1g is assessed in both tiers. The sibling unit on everyday speeds, reaction times and the factors that change stopping distance covers P8.1a to P8.1e, so this guide builds on those ideas rather than repeating them.
+This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0, July 2026. It covers statements P8.1f to P8.1i in topic P8.1, Physics on the move. Only P8.1h is printed in bold in the specification, so it is Higher Tier only. P8.1f, P8.1g and P8.1i are assessed in both tiers. P8.1f, P8.1h and P8.1i are marked in the specification as separate Physics only content (not in Combined Science). The sibling unit on everyday speeds, reaction times and the factors that change stopping distance covers P8.1a to P8.1e, so this guide builds on those ideas rather than repeating them.
 
 Useful links: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/), the [revision notes](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-revision-notes/), the [practice questions](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-practice/) and the [free diagnostics](/diagnostics/). For the underlying equations, see [Newton's second law, inertia and momentum](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion/), [work done and stored energy](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces/) and [motion graphs and acceleration](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs/).
 
@@ -28,10 +29,10 @@ Useful links: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printa
 
 | Statement | What you must be able to do | Tier |
 |---|---|---|
-| P8.1f | Estimate how the distances needed for road vehicles to stop in an emergency vary over a range of typical speeds | Higher Tier only |
+| P8.1f | Estimate how the distances needed for road vehicles to stop in an emergency vary over a range of typical speeds | Both (separate Physics only) |
 | P8.1g | Explain the dangers caused by large decelerations | Both tiers |
 | P8.1h | Estimate the forces involved in typical situations on a public road | Higher Tier only |
-| P8.1i | Estimate, for everyday road transport, the speed, accelerations and forces involved in large accelerations | Higher Tier only |
+| P8.1i | Estimate, for everyday road transport, the speed, accelerations and forces involved in large accelerations | Both (separate Physics only) |
 
 The specification's practical suggestions are to research stopping distances using the Highway Code, and to research and build casings for eggs on trolleys to investigate crumple zones and safety features in cars.
 
@@ -48,7 +49,7 @@ The specification's practical suggestions are to research stopping distances usi
 
 A deceleration is an acceleration in the opposite direction to the motion. In calculations, use its size as a positive number and say that it acts against the motion.
 
-## Estimating stopping distances (P8.1f, Higher Tier only)
+## Estimating stopping distances (P8.1f, separate Physics only)
 
 Stopping distance = thinking distance + braking distance. Each part depends on speed in a different way.
 
@@ -174,7 +175,7 @@ The lorry needs a force about 240 times larger than the cyclist, mainly because 
 </figure>
 
 
-## Large accelerations in road transport (P8.1i, Higher Tier only)
+## Large accelerations in road transport (P8.1i, separate Physics only)
 
 Large accelerations are accelerations well above the everyday values. Examples are an emergency stop, a very fast sports car pulling away, and a crash. Typical sizes to quote as estimates:
 

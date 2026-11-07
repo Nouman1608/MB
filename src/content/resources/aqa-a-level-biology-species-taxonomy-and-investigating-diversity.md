@@ -14,6 +14,12 @@ order: 158
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "species-and-taxonomy-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "investigating-diversity-aqa-alevel-biology"
 description: "Study guide to species, courtship, taxonomic ranks, binomials and comparing DNA, mRNA and protein data for AQA A-level Biology, sections 3.4.5 and 3.4.7."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

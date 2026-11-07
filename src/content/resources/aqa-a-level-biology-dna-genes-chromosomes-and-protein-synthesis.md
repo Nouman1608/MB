@@ -14,6 +14,12 @@ order: 155
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "dna-genes-and-chromosomes-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "dna-and-protein-synthesis-aqa-alevel-biology"
 description: "Study guide to AQA A-level Biology sections 3.4.1 and 3.4.2: DNA and chromosomes, the genetic code, transcription, translation and worked codon problems."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

@@ -14,6 +14,9 @@ order: 159
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
+    subtopic: "biodiversity-within-a-community-aqa-alevel-biology"
 description: "Original practice questions with worked answers on species richness, index of diversity calculations and farming, AQA A-level Biology 7402 section 3.4.6."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

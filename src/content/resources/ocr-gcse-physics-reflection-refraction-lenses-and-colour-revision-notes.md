@@ -17,14 +17,15 @@ syllabusTopics:
 description: "Condensed revision notes for OCR GCSE Physics A topic P5.3 wave interactions: refraction, ray diagrams, lenses and colour, with a quick self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
-Quick recall for OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), topic P5.3 Wave interactions. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour/). P5.3a and P5.3b are on both tiers. P5.3c, P5.3d and P5.3e are **Higher Tier only**.
+Quick recall for OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), topic P5.3 Wave interactions. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour/). P5.3a and P5.3b are in bold in the specification, so they are **Higher Tier only**. P5.3c, P5.3d and P5.3e are on both tiers; they are separate Physics only content (not in Combined Science).
 
 Links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/), [practice questions](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour-practice/), [free diagnostics](/diagnostics/).
 
-## P5.3a: four outcomes at a boundary
+## P5.3a: four outcomes at a boundary (Higher Tier only)
 
 | Outcome | Meaning | Example |
 |---|---|---|
@@ -35,7 +36,7 @@ Links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](
 
 What happens depends on the **substance** and the **wavelength**. Always name both in an answer.
 
-## P5.3b: velocity and refraction
+## P5.3b: velocity and refraction (Higher Tier only)
 
 Key facts:
 
@@ -86,7 +87,7 @@ Worked reminder: infrared with frequency 3.0 × 10¹⁴ Hz has wavelength 1.0 ×
 </figure>
 
 
-## P5.3d: ray diagram rules (Higher Tier only)
+## P5.3d: ray diagram rules (separate Physics only)
 
 | Situation | Rule |
 |---|---|
@@ -100,7 +101,7 @@ Checklist for any ray diagram: straight lines with a ruler, arrows on rays, dash
 
 Equations are not needed for this statement.
 
-## P5.3c: lenses (Higher Tier only)
+## P5.3c: lenses (separate Physics only)
 
 | Feature | Convex | Concave |
 |---|---|---|
@@ -162,7 +163,7 @@ Similarities between lenses: both refract at two surfaces, both have principal f
 </figure>
 
 
-## P5.3e: colour (Higher Tier only)
+## P5.3e: colour (separate Physics only)
 
 - Primary colours of light: red, green, blue.
 - Secondary: red + green = yellow; green + blue = cyan; red + blue = magenta.
@@ -193,7 +194,7 @@ Method for a colour question:
 
 ## Worked reminders
 
-**Wavelength change (both tiers).** Green light of frequency 5.5 × 10¹⁴ Hz is in air (3.00 × 10⁸ m/s) and then in water (2.25 × 10⁸ m/s).
+**Wavelength change (Higher Tier only).** Green light of frequency 5.5 × 10¹⁴ Hz is in air (3.00 × 10⁸ m/s) and then in water (2.25 × 10⁸ m/s).
 
 ```
 Air:    λ = 3.00 × 10⁸ ÷ 5.5 × 10¹⁴ = 5.45 × 10⁻⁷ m  (545 nm)
@@ -202,17 +203,17 @@ Water:  λ = 2.25 × 10⁸ ÷ 5.5 × 10¹⁴ = 4.09 × 10⁻⁷ m  (409 nm)
 
 The frequency is the same in both. The wavelength is shorter in water because the speed is lower.
 
-**Reading a speed change (both tiers).** If light's speed falls from 3.00 × 10⁸ m/s to 2.0 × 10⁸ m/s, it has lost one third of its speed. Its wavelength falls by the same fraction.
+**Reading a speed change (Higher Tier only).** If light's speed falls from 3.00 × 10⁸ m/s to 2.0 × 10⁸ m/s, it has lost one third of its speed. Its wavelength falls by the same fraction.
 
-**Colour chain (Higher Tier only).** White light passes through a cyan filter, then a yellow filter.
+**Colour chain.** White light passes through a cyan filter, then a yellow filter.
 
 1. Cyan transmits green and blue, and absorbs red.
 2. Yellow transmits red and green, and absorbs blue.
 3. Only green is transmitted by both. The light that emerges is green.
 
-**Colour of an object (Higher Tier only).** A green leaf in white light reflects green and absorbs red and blue. In red light it has nothing to reflect, so it looks black.
+**Colour of an object.** A green leaf in white light reflects green and absorbs red and blue. In red light it has nothing to reflect, so it looks black.
 
-**Choosing the lens (Higher Tier only).** Rays from a distant object come to a focus in front of the retina. The eye is too strong for its length. Fit a concave lens so the rays diverge slightly before they enter the eye.
+**Choosing the lens.** Rays from a distant object come to a focus in front of the retina. The eye is too strong for its length. Fit a concave lens so the rays diverge slightly before they enter the eye.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
@@ -241,17 +242,17 @@ For a method or evaluation question, say what you change, what you measure, and 
 
 ## Quick self-test
 
-1. Name the four things that can happen to an electromagnetic wave at a boundary.
-2. Which quantity stays the same when light enters glass from air?
-3. A ray goes from air into water. Does it bend towards or away from the normal?
+1. (Higher Tier only) Name the four things that can happen to an electromagnetic wave at a boundary.
+2. (Higher Tier only) Which quantity stays the same when light enters glass from air?
+3. (Higher Tier only) A ray goes from air into water. Does it bend towards or away from the normal?
 4. A wave has frequency 9.0 × 10⁷ Hz. Find its wavelength in air, using 3.00 × 10⁸ m/s.
-5. Light of frequency 5.0 × 10¹⁴ Hz has wavelength 380 nm in a plastic. Find its speed there.
+5. (Higher Tier only) Light of frequency 5.0 × 10¹⁴ Hz has wavelength 380 nm in a plastic. Find its speed there.
 6. A ray hits a plane mirror at 40° to the normal. What is the angle between the reflected ray and the mirror?
-7. (Higher Tier only) Which lens can form a real image on a screen?
-8. (Higher Tier only) Describe the image of an object placed inside the focal length of a convex lens.
-9. (Higher Tier only) What colour does a yellow filter transmit from white light, in terms of primary colours?
-10. (Higher Tier only) A blue shirt is lit by pure red light. What colour does it look, and why?
-11. (Higher Tier only) Why can you see a sheet of paper from every angle but only see your face in a mirror from some positions?
+7. Which lens can form a real image on a screen?
+8. Describe the image of an object placed inside the focal length of a convex lens.
+9. What colour does a yellow filter transmit from white light, in terms of primary colours?
+10. A blue shirt is lit by pure red light. What colour does it look, and why?
+11. Why can you see a sheet of paper from every angle but only see your face in a mirror from some positions?
 
 ### Answers
 

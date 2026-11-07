@@ -13,6 +13,12 @@ order: 4
 syllabusTopics:
   - qualification: "gcse"
     topic: "bioenergetics-aqa-gcse-biology"
+  - qualification: "gcse"
+    topic: "bioenergetics-aqa-gcse-biology"
+    subtopic: "photosynthesis-aqa-gcse-biology"
+  - qualification: "gcse"
+    topic: "bioenergetics-aqa-gcse-biology"
+    subtopic: "respiration-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 Bioenergetics notes: equations, limiting factors, inverse square law, respiration and oxygen debt, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

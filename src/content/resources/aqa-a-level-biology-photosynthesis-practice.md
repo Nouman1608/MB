@@ -14,6 +14,9 @@ order: 160
 syllabusTopics:
   - qualification: "a-level"
     topic: "energy-transfers-in-and-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "energy-transfers-in-and-between-organisms-aqa-alevel-biology"
+    subtopic: "photosynthesis-aqa-alevel-biology"
 description: "Original practice questions with worked answers on photosynthesis for AQA A-level Biology 7402, including data, limiting factors and required practicals."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

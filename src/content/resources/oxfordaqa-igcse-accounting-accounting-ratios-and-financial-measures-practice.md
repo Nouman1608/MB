@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Eleven original practice questions with worked answers on the nine ratios and financial measures in OxfordAQA International GCSE Accounting 9215."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -80,7 +81,7 @@ Revise first with the [study guide](/resources/oxfordaqa-igcse-accounting-accoun
 | Cost of sales | 90,000 | 117,000 |
 | Operating expenses | 33,000 | 45,000 |
 
-**(a)** Calculate the gross profit margin % and profit in relation to revenue % for each year. Treat revenue less cost of sales and operating expenses as profit for the year. **[4]**
+**(a)** Calculate the gross profit margin % and profit in relation to revenue % for each year. Treat revenue less cost of sales and operating expenses as profit from operations. **[4]**
 **(b)** Appraise the profitability of the bakery. **[5]**
 
 **9.** Explain two limitations of ratio analysis when assessing business performance. One must be a financial limitation and one must be non-financial. **[4]**
@@ -111,10 +112,10 @@ Statement of financial position: non-current assets 260,000; inventory 60,000; t
 **(c)** Inventory is sold and replaced more often [1], so less cash is tied up in inventory or there is less risk of it becoming out of date [1]. **[6]**
 *Examiner insight:* give the unit and use average inventory when both opening and closing figures are given.
 
-**3. (a)** 18,000 / 120,000 x 100 [1] = **15.0%** [1]
+**3. (a)** 22,000 / 120,000 x 100 [1] = **18.3%** [1]
 **(b)** Capital employed = 95,000 + 25,000 = **120,000** [1]
 **(c)** 22,000 / 120,000 x 100 [1] = **18.3%** [1] **[5]**
-*Examiner insight:* both profit figures are given, so label each before choosing one for ROCE.
+*Examiner insight:* both profit figures are given; label each, then use profit from operations for both ratios, as OxfordAQA's own 9215 mark scheme (Paper 2, May/June 2026) does.
 
 **4. (a)** Current assets = 26,000 + 18,000 + 6,000 = 50,000. Current liabilities = 21,000 + 3,000 = 24,000 [1]. Current ratio = 50,000 : 24,000 = **2.08 : 1** [1]
 **(b)** Liquid capital ratio = (50,000 - 26,000) : 24,000 [1] = **1.00 : 1** [1]
@@ -146,7 +147,7 @@ Statement of financial position: non-current assets 260,000; inventory 60,000; t
 Gross profit margin = 200,000 / 500,000 x 100 = **40.0%** [1]
 Markup = 200,000 / 300,000 x 100 = **66.7%** [1]
 Average inventory = 50,000. Turnover = 300,000 / 50,000 = **6.0 times** [1]
-Profit in relation to revenue = 60,000 / 500,000 x 100 = **12.0%** [1]
+Profit in relation to revenue = 66,000 / 500,000 x 100 = **13.2%** [1]
 Current assets = 120,000. Current liabilities = 80,000. Capital employed = 260,000 + 120,000 - 80,000 = 300,000. ROCE = 66,000 / 300,000 x 100 = **22.0%** [1]
 Current ratio = 120,000 : 80,000 = **1.50 : 1** [1]
 Liquid capital ratio = 60,000 : 80,000 = **0.75 : 1** [1]

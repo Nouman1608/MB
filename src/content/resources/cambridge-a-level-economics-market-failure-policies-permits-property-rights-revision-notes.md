@@ -18,6 +18,7 @@ syllabusTopics:
 description: "Condensed revision notes on pollution permits, property rights, privatisation, nudges and government failure for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -46,7 +47,7 @@ Method in steps:
 3. Trading continues until every firm's marginal abatement cost equals the permit price.
 4. The cap is met at the lowest total cost.
 
-**Reminder example.** Three factories, each 120 tonnes, cap 240, permits 80 each. Abatement costs per tonne: 50, 30, 10. No trading: total cost 3,600. Trading: the 10 and 30 factories cut 100 and 20 tonnes, total cost 1,600, saving 2,000, price 30.
+**Reminder example.** Three factories, each 120 tonnes, cap 240 (so 120 tonnes must be cut), permits 80 each. Abatement costs per tonne: 50, 30, 10; the 10 factory can cut at most 100 tonnes. No trading: each cuts 40, total cost 3,600. Trading: the 10 factory cuts its maximum 100 and the 30 factory the remaining 20, total cost 1,600, saving 2,000, price 30.
 
 Strengths: cap fixes total pollution, cheapest cuts happen first, firms keep cutting if they can sell spare permits, auctions raise revenue.
 

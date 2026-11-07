@@ -14,6 +14,9 @@ order: 165
 syllabusTopics:
   - qualification: "a-level"
     topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology"
+    subtopic: "nervous-coordination-aqa-alevel-biology"
 description: "Study guide to resting and action potentials, conduction speed, cholinergic synapses, the neuromuscular junction and drug effects for AQA A-level Biology."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

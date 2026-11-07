@@ -13,6 +13,9 @@ order: 216
 syllabusTopics:
   - qualification: "a-level"
     topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+  - qualification: "a-level"
+    topic: "biodiversity-evolution-and-disease-ocr-alevel-biology"
+    subtopic: "biodiversity-ocr-alevel-biology"
 description: "Study guide to OCR A Level Biology A (H420) 4.2.1(f)-(i): what threatens biodiversity, why it matters, in situ and ex situ conservation, and agreements."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12

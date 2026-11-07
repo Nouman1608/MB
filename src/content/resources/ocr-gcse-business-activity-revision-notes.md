@@ -18,6 +18,7 @@ reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,26 +27,9 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Purpose and ownership
 
-> **Not Business 1 content.** Added value is not a J204 term, and break-even is topic 5.4 of Business 2 (J204/02), which is where synoptic questions are set. This example is kept as background for Business 2; Business 1 (J204/01) does not examine it.
+Break-even (topic 5.4) belongs to Business 2 (J204/02); see the [finance revision notes](/resources/ocr-gcse-business-finance-revision-notes/).
 
-```
-added value = selling price - cost of bought-in materials
-```
-
-**Added value is not profit** — wages, rent and overheads still come out of it.
-
-**Worked example.** A bakery pays 80p in ingredients and packaging per loaf and sells at £2.20, selling 500 loaves a day with fixed costs of £400 a day.
-
-```
-added value per loaf = 2.20 - 0.80 = 1.40
-total contribution   = 1.40 x 500  = 700
-profit               = 700 - 400   = 300 per day
-
-break-even output = fixed costs / contribution per unit
-                  = 400 / 1.40 = 286 loaves (nearest whole loaf)
-```
-
-**Business 1 content (1.3):**
+**Ownership (1.3):**
 
 | Structure | Liability |
 |---|---|
@@ -70,16 +54,6 @@ break-even output = fixed costs / contribution per unit
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/business-activity-and-classification--04-private-public-sector.webp" width="900" height="1020" alt="Private sector: owned and controlled by individuals or groups, generally to make a profit. Public sector: owned and controlled by the government or state, often providing services such as healthcare, education and infrastructure where profit is not the main aim." loading="lazy">
   <figcaption>The sectors are defined by ownership and control, not only by profit motive.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
-  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--06-bakery-break-even.webp" width="900" height="1060" alt="Revenue at 2.20 per loaf, fixed costs 400 and 0.80 variable cost per loaf. The lines cross at 286 loaves; at 500 loaves profit is 300 pounds." loading="lazy">
-  <figcaption>Break-even output is fixed costs divided by contribution per loaf: 400 / 1.40 = 286 loaves.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -124,12 +98,7 @@ break-even output = fixed costs / contribution per unit
 
 **Quantitative** tells you *how many*; **qualitative** tells you *why*. Most decisions need both.
 
-**Segmentation:** demographic, geographic, psychographic, behavioural.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-business-activity-revision-notes--10-segmentation-four-types.webp" width="900" height="850" alt="Four cards: demographic (age, gender, income), geographic (city, region, climate), psychographic (lifestyle, values, interests), behavioural (how often they buy, brand loyalty)." loading="lazy">
-  <figcaption>Four ways to split customers into segments.</figcaption>
-</figure>
+**Segmentation (2.3):** the specification's five bases are **age, gender, income, location and lifestyle**. Segmenting lets a business target the marketing mix at one group.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--04-research-grid.webp" width="900" height="970" alt="A grid: primary research is specific, slow and costly; secondary is quick, cheap and not tailored. Quantitative gives numbers, qualitative gives reasons. Example items fill the four cells." loading="lazy">
@@ -149,7 +118,7 @@ break-even output = fixed costs / contribution per unit
 
 ## The marketing mix
 
-**Product** — the product life cycle runs introduction → growth → maturity → decline, with **extension strategies** (new packaging, new markets, updates, price cuts) used to delay decline.
+**Product** — design, invention and innovation; the product life cycle runs introduction → growth → maturity → decline, with **extension strategies** (new packaging, new markets, updates, price cuts) used to delay decline.
 
 **Price:**
 
@@ -158,11 +127,11 @@ break-even output = fixed costs / contribution per unit
 | **Skimming** | High launch price for something new |
 | **Penetration** | Low launch price to win share |
 | Cost-plus | Simple but ignores the market |
-| Competitive | Matching rivals |
-| Psychological | £9.99 |
+| Competitor | Set near what rivals charge |
+| Promotional | Short-term price cut to boost sales |
 
-**Promotion** — advertising, sales promotion, PR, social media, sponsorship.
-**Place** — shops, e-commerce, wholesalers, direct.
+**Promotion** — point of sale (price reductions, loss leaders, competitions, free samples) and advertising (social media, websites, print media, television, radio).
+**Place** — digital and physical distribution channels.
 
 **The four Ps must be consistent with each other.** Premium pricing sold through discount channels sends contradictory signals — spotting that in a case study is worth more than listing the four Ps.
 
@@ -208,7 +177,9 @@ break-even output = fixed costs / contribution per unit
 
 **Training:** induction, on-the-job (cheap, relevant, but the trainer's bad habits pass on), off-the-job (broader and higher quality, but expensive and time away from work).
 
-**Motivation:**
+**Motivation (3.5):** the specification's **financial** methods are pay, bonuses, profit sharing and fringe benefits; its **non-financial** methods are praise, award schemes and the working environment. Motivation improves performance and helps **retention**, which saves the time and cost of recruiting.
+
+Background theory (J204 does not name these theorists, but they help explain why methods work):
 
 - **Taylor** — money is the main motivator.
 - **Maslow** — a hierarchy from physiological needs to self-actualisation.
@@ -216,7 +187,6 @@ break-even output = fixed costs / contribution per unit
 
 **Herzberg's distinction is the one that pays:** pay is a hygiene factor, so a pay rise removes dissatisfaction but does not motivate — which is why its effect fades while job enrichment lasts.
 
-**Financial methods:** wages, salary, commission, bonus, profit share. **Non-financial:** job enrichment, rotation, empowerment, teamworking, flexible working.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-activity-revision-notes--06-herzberg-two-factors.webp" width="900" height="960" alt="A scale runs dissatisfied, not dissatisfied, satisfied. Hygiene factors such as pay and conditions only move people to not dissatisfied; motivators such as achievement, recognition and responsibility move them to satisfied. An illustrative graph shows a pay rise lifting then fading, while job enrichment keeps satisfaction rising." loading="lazy">
@@ -238,11 +208,9 @@ break-even output = fixed costs / contribution per unit
 
 **Tall** structures have many levels and **narrow** spans of control — close supervision, clear promotion, but slow communication. **Flat** structures have few levels and **wide** spans — fast communication and empowerment, but managers can be overstretched.
 
-```
-labour turnover = leavers / average number employed x 100
-```
+Organisation charts also show the **chain of command**, **delegation**, **subordinates** and **authority**. Ways of working include full-time, part-time, flexible, temporary, working from home, working whilst mobile and self-employed.
 
-High turnover raises recruitment and training costs and loses knowledge, though some turnover brings in fresh ideas.
+Losing staff raises recruitment and training costs and loses knowledge, which is why the specification stresses retention.
 
 ## Exam traps
 

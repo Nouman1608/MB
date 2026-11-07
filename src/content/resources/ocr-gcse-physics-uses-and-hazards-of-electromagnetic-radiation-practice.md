@@ -17,6 +17,7 @@ syllabusTopics:
 description: "Original practice questions with worked answers on uses and hazards of electromagnetic waves, medical imaging and radio circuits, for OCR GCSE Physics A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
+updatedDate: 2026-11-05
 featured: false
 ---
 
@@ -26,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover statements P5.2g to P5.2j of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026). Questions 8 to 12 test P5.2i and are marked (Higher Tier only). The other questions are for both tiers. Where a question needs the speed of ultrasound it is given in the question.
+These questions cover statements P5.2g to P5.2j of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026). Question 6 tests P5.2j and Questions 8 to 12 test P5.2i. Both statements are in bold in the specification, so these questions are marked (Higher Tier only). The other questions are for both tiers. Where a question needs the speed of ultrasound it is given in the question.
 
 Links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/), [study guide](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation/) and [revision notes](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation-revision-notes/).
 
@@ -49,7 +50,7 @@ Links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](
 **(b)** Explain the advantage of using several directions. **[2]**
 **(c)** State one reason why staff operate the machine from another room. **[1]**
 
-**6.** Describe how a radio programme is sent from a transmitter and detected by a portable radio. **[4]**
+**6.** (Higher Tier only) Describe how a radio programme is sent from a transmitter and detected by a portable radio. **[4]**
 
 **7.** Gamma rays are used to sterilise packaged surgical gloves.
 

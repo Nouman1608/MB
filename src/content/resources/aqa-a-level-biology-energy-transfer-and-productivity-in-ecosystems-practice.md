@@ -14,6 +14,9 @@ order: 162
 syllabusTopics:
   - qualification: "a-level"
     topic: "energy-transfers-in-and-between-organisms-aqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "energy-transfers-in-and-between-organisms-aqa-alevel-biology"
+    subtopic: "energy-and-ecosystems-aqa-alevel-biology"
 description: "Original AQA A-level Biology practice questions on biomass, calorimetry, GPP, NPP, consumer production, efficiency and farming, with worked answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
