@@ -147,8 +147,11 @@ await journey('Finder never shows another qualification or board', async (page) 
   const catalogue = await (await page.request.get(`${BASE}/tools-data/catalogue.json`)).json();
   const pairSet = new Set(catalogue.map((e) => `${e.qs}/${e.bs}`));
   for (const e of catalogue) if (e.qs === 'a-level') pairSet.add(`as-level/${e.bs}`);
-  const pairs = pairSet.size;
-  expect(combos === pairs, `checked ${combos} qualification/board pairs, catalogue has ${pairs}`);
+  // AP (College Board) comes from the separate AP library, not catalogue.json: one extra
+  // qualification/board pair, college-board/ap, listing every published AP course.
+  expect(quals.includes('ap'), 'AP is not offered as a qualification');
+  const pairs = pairSet.size + 1;
+  expect(combos === pairs, `checked ${combos} qualification/board pairs, catalogue has ${pairs - 1} plus AP`);
 });
 
 // 6. Keyboard only: choose a course and open it.
