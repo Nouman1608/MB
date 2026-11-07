@@ -299,7 +299,7 @@ const courseLabel = (e: { bs: string; q: string; b: string; s: string; code?: st
       const id = a.dataset.courseLink!;
       setCourse({ id, label: a.dataset.courseLabel ?? id, hub: a.getAttribute('href') ?? '', code: a.dataset.courseCode || undefined });
       const [bs, qs] = id.split('/');
-      track('syllabus_finder_select', { source, qualification: qs, board: bs, course_code: a.dataset.courseCode || 'none' });
+      track('syllabus_finder_select', { module: source, qualification: qs, board: bs, course_code: a.dataset.courseCode || 'none' });
     });
 
     const preselect = (qs: string, bs?: string) => {

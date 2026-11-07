@@ -190,7 +190,7 @@ function init(d: Data): void {
         for (const r of d.recs[slug]) {
           const a = el('a', 'underline decoration-teal-500 underline-offset-2 hover:text-teal-700', r.t);
           a.href = r.u;
-          a.addEventListener('click', () => track('recommended_resource_click', { source: 'diagnostic', link_kind: r.k, course_code: d.code }));
+          a.addEventListener('click', () => track('recommended_resource_click', { module: 'diagnostic', link_kind: r.k, course_code: d.code, link_url: a.href }));
           const item = el('li', 'm-0');
           item.append(el('span', 'mr-1 text-ink-mute', r.k === 'learn' ? 'Study guide:' : r.k === 'review' ? 'Revision notes:' : 'Practice:'), a);
           ul.append(item);
@@ -204,7 +204,7 @@ function init(d: Data): void {
         a.href = rt.u;
         // The accessible name starts with the visible text (WCAG 2.5.3); the topic is added for screen readers.
         a.append(el('span', 'sr-only', `: ${t.name}`));
-        a.addEventListener('click', () => track('recommended_resource_click', { source: 'diagnostic', link_kind: 'retest_topic', course_code: d.code }));
+        a.addEventListener('click', () => track('recommended_resource_click', { module: 'diagnostic', link_kind: 'retest_topic', course_code: d.code, link_url: a.href }));
         li.append(a);
       }
       list.append(li);

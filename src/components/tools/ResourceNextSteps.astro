@@ -57,7 +57,7 @@ const { course, steps } = given ?? await resourceNextSteps(resource);
   document.querySelectorAll<HTMLAnchorElement>('[data-next-step]').forEach((a) => {
     a.addEventListener('click', () => {
       try {
-        (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('recommended_resource_click', { source: 'resource_next_steps', link_kind: a.dataset.nextStep ?? 'unknown' });
+        (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('recommended_resource_click', { module: 'resource_next_steps', link_kind: a.dataset.nextStep ?? 'unknown', link_url: a.href });
       } catch { /* never block navigation */ }
     });
   });

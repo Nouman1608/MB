@@ -561,15 +561,15 @@ const jsonLd = [articleNode({
     el.addEventListener('toggle', () => {
       if (!el.open) return;
       try {
-        (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('recommended_resource_click', { source: 'syllabus_points', link_kind: 'open' });
+        (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('recommended_resource_click', { module: 'syllabus_points', link_kind: 'open' });
       } catch { /* never block */ }
     }, { once: true });
   });
-  // B8 -- clicks on the "On this topic" line; same event as the Next steps block, told apart by source.
+  // B8 -- clicks on the "On this topic" line; same event as the Next steps block, told apart by module.
   document.querySelectorAll<HTMLAnchorElement>('[data-on-this-topic]').forEach((a) => {
     a.addEventListener('click', () => {
       try {
-        (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('recommended_resource_click', { source: 'on_this_topic', link_kind: a.dataset.onThisTopic ?? 'unknown' });
+        (window as unknown as { mbTrack?: (n: string, p: Record<string, unknown>) => void }).mbTrack?.('recommended_resource_click', { module: 'on_this_topic', link_kind: a.dataset.onThisTopic ?? 'unknown', link_url: a.href });
       } catch { /* never block navigation */ }
     });
   });
