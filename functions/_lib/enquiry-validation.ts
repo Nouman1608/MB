@@ -81,8 +81,10 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
   // as a hidden value filled from ?course / ?program, and `timezone` stays
   // allow-listed so an older cached page still submits cleanly.
   trial: {
-    required: ['name', 'email', 'country'],
-    optional: ['phone', 'qualification', 'board', 'subject', 'course', 'format', 'timezone', 'availability', 'teacher', 'source', 'message'],
+    // D-439: email is checked below instead -- optional on the English form
+    // (which requires a phone), still compulsory on the translated forms.
+    required: ['name', 'country'],
+    optional: ['email', 'phone', 'qualification', 'board', 'subject', 'course', 'format', 'timezone', 'availability', 'teacher', 'source', 'message'],
   },
   // Deliberately NOT name/phone/country -- a correction report is not a
   // tuition enquiry and shouldn't ask for enrolment-shaped fields. pageUrl
@@ -102,7 +104,7 @@ export const TRIAL_AVAILABILITY = [
   'weekday-morning', 'weekday-afternoon', 'weekday-evening',
   'weekend-morning', 'weekend-afternoon', 'weekend-evening',
 ] as const;
-export const TRIAL_SOURCES = ['home', 'trial-page', 'teacher', 'tuition-page', 'hub', 'diagnostic', 'resource', 'planner', 'practice', 'program', 'pricing', 'region', 'other'] as const;
+export const TRIAL_SOURCES = ['home', 'header', 'trial-page', 'teacher', 'tuition-page', 'hub', 'diagnostic', 'resource', 'planner', 'practice', 'program', 'pricing', 'region', 'other'] as const;
 
 const TRIAL_RULES: Record<string, (v: string) => boolean> = {
   qualification: (v) => (TRIAL_QUALIFICATIONS as readonly string[]).includes(v),
@@ -217,15 +219,17 @@ export function validateEnquiry(
     if (!data.subject && !data.message && !errors.subject) {
       errors.subject = 'Please tell us which subjects you need help with.';
     }
-    // D-293 (owner request, 2026-09-23): on the English structured form
-    // (recognised by the typed subject) every visible field is compulsory:
-    // board, group/one-to-one and a phone/WhatsApp number as well. The
-    // translated five-field forms send no subject and keep their own rule.
+    // D-438/D-439 (owner, 5 Nov 2026) relax D-293: on the English structured
+    // form subjects, name, phone/WhatsApp and country are compulsory; email is
+    // optional. A missing board or format means "Not sure" / "Help me decide".
+    // The translated five-field forms send no subject and still need an email.
     if (data.subject) {
-      if (!data.board) errors.board = 'Please choose an exam board, or "Not sure".';
-      if (!data.format && !errors.format) errors.format = 'Please choose group, one-to-one, or "Help me decide".';
+      if (!data.board) data.board = 'not-sure';
+      if (!data.format && !errors.format) data.format = 'help-me-decide';
       if (!data.phone) errors.phone = 'Please enter a phone or WhatsApp number.';
       else if (data.phone.replace(/\D/g, '').length < 7 || data.phone.length > 30) errors.phone = 'Please enter a valid phone or WhatsApp number.';
+    } else if (!data.email && !errors.email) {
+      errors.email = 'This field is required.';
     }
   }
 
@@ -295,7 +299,9 @@ export const ALLOWED_FIELDS_BY_KIND = FIELDS_BY_KIND;
  * booked, and gives the response commitment and the correction routes. It
  * never states a teacher, time or price as agreed: those come from a person.
  */
-export const ACK_RESPONSE_SUMMARY = 'We reply to WhatsApp messages within an hour, between 9am and 10pm Pakistan time, and to email enquiries the same day.';
+// D-346: 8am to 11pm every day. Must equal PRICING_TERMS.enquiryResponse.summary
+// (src/data/pricing.ts); a unit test checks they match.
+export const ACK_RESPONSE_SUMMARY = 'We reply to WhatsApp messages within an hour, between 8am and 11pm Pakistan time every day, and to email enquiries the same day.';
 export const ACK_WHATSAPP = '+92 323 9149918';
 export function renderTrialAcknowledgement(data: Record<string, string>): { subject: string; text: string } {
   const lines: string[] = [];

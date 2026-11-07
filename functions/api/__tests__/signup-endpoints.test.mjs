@@ -42,7 +42,12 @@ test('tokens are encrypted, authentic and expire', async () => {
   assert.equal((await verifyToken(t, 'secret-1')).e, 'person@example.com');
   assert.equal(await verifyToken(t, 'secret-2'), null);
   assert.equal(await verifyToken(t, 'secret-1', Date.now() + 5000), null);
-  assert.equal(await verifyToken(t.slice(0, -2) + 'AA', 'secret-1'), null);
+  // Tamper with a character in the middle: it always changes the data. (Replacing the
+  // last characters failed about 1 run in 700, because the final base64 character
+  // holds unused bits, so some replacements decode to the same bytes.)
+  const mid = Math.floor(t.length / 2);
+  const tampered = t.slice(0, mid) + (t[mid] === 'A' ? 'B' : 'A') + t.slice(mid + 1);
+  assert.equal(await verifyToken(tampered, 'secret-1'), null);
 });
 
 test('subscribe: 503 (never a false success) until configured', async () => {

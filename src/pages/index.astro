@@ -32,9 +32,6 @@ import AcademyResults from '../components/sections/AcademyResults.astro';
 import TuitionOptions from '../components/sections/TuitionOptions.astro';
 import HomeFaq from '../components/sections/HomeFaq.astro';
 import FinalCta from '../components/sections/FinalCta.astro';
-import EditorialBand from '../components/sections/EditorialBand.astro';
-import WhyMarlbridge from '../components/sections/WhyMarlbridge.astro';
-import GlobalVision from '../components/sections/GlobalVision.astro';
 import LearnersAcademy from '../components/sections/LearnersAcademy.astro';
 import JournalSection from '../components/sections/JournalSection.astro';
 import SchoolsBand from '../components/sections/SchoolsBand.astro';
@@ -72,7 +69,7 @@ const faq = faqNode(TUITION_FAQS);
       outcomes and still renders nothing, because none exist yet -- the two
       are deliberately not merged. */}
   <HowTuitionWorks />
-  <AcademyResults surface="white" showCta={false} />
+  <AcademyResults surface="white" showCta={false} mobileTestimonials={2} />
   <StudentOutcomes />
 
   {/* 7. Group vs one-to-one, and the entry point to real fees. */}
@@ -86,10 +83,10 @@ const faq = faqNode(TUITION_FAQS);
   <HomeFaq />
   <FinalCta />
 
-  {/* Below the decision path: who Marlbridge is and where it came from. */}
-  <EditorialBand />
-  <WhyMarlbridge />
-  <GlobalVision />
+  {/* Below the decision path: who Marlbridge is and where it came from.
+      D-438: the classroom photo band, "Why Marlbridge" and "Global Vision"
+      were removed from the homepage to shorten it (about 2,000px on a phone);
+      /about/ remains the home of Marlbridge's story. */}
   <LearnersAcademy />
   <JournalSection />
   <SchoolsBand />

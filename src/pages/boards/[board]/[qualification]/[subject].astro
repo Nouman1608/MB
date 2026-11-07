@@ -32,6 +32,7 @@ import { assessmentsFor, type AssessmentComponent } from '../../../../data/acade
 import { topicsFor, hasStages } from '../../../../data/academic/syllabus-topics';
 import { getResources } from '../../../../utils/content/collections';
 import { resourcesForCombination } from '../../../../utils/academic/combination-resources';
+import { resourceWordCount } from '../../../../utils/seo/word-count';
 import { isIndexableAcademicPage } from '../../../../utils/seo/indexability';
 import { relatedArticles } from '../../../../utils/content/related';
 import { courseNode } from '../../../../utils/schema/course';
@@ -393,7 +394,8 @@ const hasSyllabusTopics = (syllabusTopics?.topics ?? []).length > 0;
 const indexability = isIndexableAcademicPage({
   resources: resources.map((r) => ({
     resourceType: r.data.resourceType,
-    wordCount: r.body?.trim().split(/\s+/).filter(Boolean).length ?? 0,
+    // D-440: read from the file, not the content store (which no longer keeps resource bodies).
+    wordCount: resourceWordCount(r.filePath),
   })),
   hasSyllabusTopics,
 });

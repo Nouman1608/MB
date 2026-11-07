@@ -66,11 +66,15 @@ const actions = [
     <nav aria-labelledby="home-subjects-label" class="mt-8 border-t border-rule pt-6">
       <p id="home-subjects-label" class="m-0 mb-3 text-[15px] text-ink">Know your subject but not your exam board? Start with the subject:</p>
       <ul class="m-0 flex list-none flex-wrap gap-x-4 gap-y-2 p-0 text-[15px]">
-        {withResources.map((s) => (
-          <li class="m-0"><a href={routes.subject(s.id)} class="inline-flex min-h-11 items-center text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700 sm:min-h-0">{s.data.title}</a></li>
+        {/* D-438: the first 8 subjects on phones; the rest stay in the page for wider screens. */}
+        {withResources.map((s, i) => (
+          <li class:list={['m-0', i >= 8 && 'max-sm:hidden']}><a href={routes.subject(s.id)} class="inline-flex min-h-11 items-center text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700 sm:min-h-0">{s.data.title}</a></li>
         ))}
       </ul>
-      <p class="m-0 mt-4 text-[15px]"><a href={routes.resources} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">All study resources</a></p>
+      <p class="m-0 mt-4 flex flex-wrap gap-x-6 gap-y-2 text-[15px]">
+        {withResources.length > 8 && <a href={routes.subjects} class="inline-flex min-h-11 items-center font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700 sm:hidden">All {withResources.length} subjects</a>}
+        <a href={routes.resources} class="inline-flex min-h-11 items-center font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700 sm:min-h-0">All study resources</a>
+      </p>
     </nav>
   </Container>
 </Section>
