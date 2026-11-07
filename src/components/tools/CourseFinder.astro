@@ -22,6 +22,8 @@ import { getResources } from '../../utils/content/collections';
 import { catalogueIndex } from '../../utils/tools/catalogue';
 import { QUALIFICATIONS } from '../../data/academic/qualifications';
 import { routes } from '../../utils/urls/routes';
+import { AP_COURSES } from '../../data/ap/frameworks';
+import { apLibraryBuilt, apUrls, getApResources, apVisibleName } from '../../utils/ap/library';
 
 interface Props {
   id?: string;
@@ -59,7 +61,48 @@ const tree = quals.map((q) => {
   }));
   return { qs: q.slug, q: q.name, boards };
 });
-const allBoards = [...new Map(catalogue.map((e) => [e.bs, e.b])).entries()].sort((a, b) => a[1].localeCompare(b[1]));
+
+/**
+ * AP (College Board advanced courses). The AP library lives in its own
+ * collection (/advanced-course-resources/), so it is not in catalogueIndex();
+ * it is added here as a qualification of its own, with one exam board and one
+ * link per course, so a student looking for AP finds it in the same three
+ * steps as everything else. Present only while the library is built
+ * (src/data/ap/config.ts). Course ids follow board/qualification/subject.
+ */
+const AP_QS = 'ap';
+const AP_BS = 'college-board';
+const apCounts = new Map<string, number>();
+if (apLibraryBuilt()) {
+  for (const r of await getApResources()) apCounts.set(r.data.course, (apCounts.get(r.data.course) ?? 0) + 1);
+  const apCourses = AP_COURSES.filter((c) => (apCounts.get(c.slug) ?? 0) > 0)
+    .map((c) => ({
+      id: `${AP_BS}/${AP_QS}/${c.slug}`,
+      q: 'AP®',
+      qs: AP_QS,
+      b: 'College Board',
+      bs: AP_BS,
+      s: c.name,
+      ss: c.slug,
+      code: undefined as string | undefined,
+      hub: apUrls.course(c.slug),
+      n: apCounts.get(c.slug) ?? 0,
+      asVia: false,
+      label: apVisibleName(c),
+    }))
+    .sort((x, y) => x.s.localeCompare(y.s));
+  if (apCourses.length) {
+    tree.push({ qs: AP_QS, q: 'AP®', boards: [{ bs: AP_BS, b: 'College Board', courses: apCourses as any }] });
+  }
+}
+const qualChips = tree.map((q) => ({ slug: q.qs, name: q.q }));
+const apTotal = tree.find((q) => q.qs === AP_QS)?.boards[0]?.courses.length ?? 0;
+const allBoards = [
+  ...new Map([
+    ...catalogue.map((e) => [e.bs, e.b] as [string, string]),
+    ...(apTotal ? ([[AP_BS, 'College Board']] as [string, string][]) : []),
+  ]).entries(),
+].sort((a, b) => a[1].localeCompare(b[1]));
 const qualsForBoard = (bs: string) => [...new Set(tree.filter((q) => q.boards.some((b) => b.bs === bs)).map((q) => q.qs))].join(' ');
 const H = `h${level}` as 'h2' | 'h3';
 const H2 = `h${level + 1}` as 'h3' | 'h4';
@@ -68,7 +111,8 @@ const full = mode === 'full';
 /** Compact mode renders no qualification headings, so board headings move up a level. */
 const BoardH = full ? H3 : H2;
 const chip = 'flex min-h-11 cursor-pointer items-center gap-2 rounded-full border-2 border-rule bg-white px-4 text-[15px] font-medium text-ink transition-colors hover:border-teal-500 has-[:checked]:border-teal-700 has-[:checked]:bg-teal-50 has-[:checked]:font-semibold has-[:checked]:text-teal-800 has-[:focus-visible]:outline has-[:focus-visible]:outline-2 has-[:focus-visible]:outline-offset-2 has-[:focus-visible]:outline-teal-700';
-const courseLabel = (e: (typeof catalogue)[number]) => `${e.bs === 'ib' ? e.q : `${e.b} ${e.q}`} ${e.s}${e.code && e.bs !== 'ib' ? ` (${e.code})` : ''}`;
+const courseLabel = (e: { bs: string; q: string; b: string; s: string; code?: string; label?: string }) =>
+  e.label ?? `${e.bs === 'ib' ? e.q : `${e.b} ${e.q}`} ${e.s}${e.code && e.bs !== 'ib' ? ` (${e.code})` : ''}`;
 ---
 <div id={id} data-course-finder data-source={source} data-mode={mode} class="scroll-mt-24">
   <div class={full ? '' : 'rounded-md border border-rule bg-white p-[clamp(20px,2.6vw,32px)]'}>
@@ -87,7 +131,7 @@ const courseLabel = (e: (typeof catalogue)[number]) => `${e.bs === 'ib' ? e.q : 
       <fieldset class="m-0 border-0 p-0">
         <legend class="mb-2.5 p-0 text-[15px] font-semibold text-navy-800">1. Qualification</legend>
         <div class="flex flex-wrap gap-2">
-          {quals.map((q) => (
+          {qualChips.map((q) => (
             <label class={chip}><input type="radio" name={`${id}-q`} value={q.slug} class="h-4 w-4 accent-[#0C6964]" />{q.name}</label>
           ))}
         </div>
@@ -112,7 +156,7 @@ const courseLabel = (e: (typeof catalogue)[number]) => `${e.bs === 'ib' ? e.q : 
     <p data-finder-status role="status" aria-live="polite" class="m-0 mt-3 min-h-[1.25em] text-[14px] text-ink-mute"></p>
     {full && (
       <p data-finder-all-wrap hidden class="m-0 mt-2">
-        <button type="button" data-finder-showall class="inline-flex min-h-11 items-center text-[15px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Or show every course ({catalogue.length})</button>
+        <button type="button" data-finder-showall class="inline-flex min-h-11 items-center text-[15px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Or show every course ({catalogue.length + apTotal})</button>
       </p>
     )}
 
