@@ -43,6 +43,8 @@ const groups = topic.subtopics.length > 0
 const cards = topicCards.map((card) => ({ ...card, group: card.subtopic ?? card.topic }));
 // Some records leave subtopic numbers empty (e.g. OxfordAQA 9215); never print an empty range.
 const subNumbers = topic.subtopics.map((s) => s.number).filter(Boolean);
+// AS and A Level stages reuse topic names (for example Equilibria), so the stage goes in the title and heading.
+const stageLabel = topic.stage ? (topic.stage === 'A' ? 'A Level' : 'AS Level') : '';
 const topicWord = `${topic.stage ? `${topic.stage === 'A' ? 'A Level' : 'AS'} ` : ''}Topic ${topic.number}`;
 
 // The same topic's own study resources, one of each kind where they exist.
@@ -55,17 +57,17 @@ const study = (['learn', 'review', 'practice'] as const).flatMap((k) => {
 });
 ---
 <PageLayout
-  title={`${topic.name} Flashcards — ${cs ? `${c.subject} ${deck.syllabusCode}` : codeWord}`}
+  title={`${topic.name}${stageLabel ? ` (${stageLabel})` : ''} Flashcards — ${cs ? `${c.subject} ${deck.syllabusCode}` : codeWord}`}
   description={`${topicCards.length} free flashcards on ${topic.name} for ${c.board} ${c.qualification} ${c.subject}${cs ? ` ${deck.syllabusCode}` : ''} (${deck.syllabusSeries})${subNumbers.length ? `, covering ${subNumbers.join(', ')}` : ''}.`}
   path={path}
   eyebrow={`Flashcards · ${codeWord} · ${topicWord}`}
-  heading={`${topic.name} flashcards`}
+  heading={`${topic.name}${stageLabel ? ` (${stageLabel})` : ''} flashcards`}
   lead={`${topicCards.length} cards on ${topicWord}${subNumbers.length > 1 ? `, subtopics ${subNumbers[0]} to ${subNumbers[subNumbers.length - 1]}` : ''}. Pick a subtopic or study them all.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Flashcards', href: '/flashcards/' },
     { label: `${c.qualification} ${c.subject}${cs}`, href: coursePath },
-    { label: topic.name, href: path },
+    { label: stageLabel ? `${topic.name} (${stageLabel})` : topic.name, href: path },
   ]}
 >
   <Section surface="white" spacing="md">
