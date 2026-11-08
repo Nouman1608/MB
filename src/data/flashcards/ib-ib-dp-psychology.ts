@@ -98,7 +98,7 @@ export const DECK_IB_IB_DP_PSYCHOLOGY: FlashcardDeck = {
       { n: 9, f: 'Internal validity vs external validity vs ecological validity', b: 'Internal: the IV really caused the change in the DV.\nExternal: the findings apply beyond the study to other people, settings and times.\nEcological: the setting and task are realistic.' },
       { n: 10, f: 'What are credibility, transferability and triangulation in qualitative research?', b: 'Credibility: the qualitative equivalent of validity.\nTransferability: the equivalent of generalisation.\nTriangulation: using several methods, researchers or data sources to strengthen credibility.' },
       { n: 11, f: 'What is the internal assessment in IB Psychology?', b: 'A simple experimental study, usually carried out in a small group, but designed, analysed and written up individually. Students evaluate it and suggest modifications, and it is externally moderated. It is 25% at SL and 20% at HL.' },
-      { n: 12, f: 'What does Paper 3 assess?', b: 'Research methodology: three short-answer questions in which students analyse qualitative and quantitative methods and evaluate a research scenario methodologically and ethically. It is worth 20%. (HL only)' },
+      { n: 12, f: 'What does Paper 3 assess?', b: 'Research methodology, HL only: three compulsory questions on an unseen study summary (1 hour, 24 marks, 20%). Question 1 has three 3-mark parts on method, sampling and an alternative method; Question 2 is on ethics (6 marks); Question 3 is on generalisation, credibility or bias (9 marks).' },
     ]),
 
     // 5 Option: Abnormal psychology
