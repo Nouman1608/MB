@@ -135,6 +135,20 @@ These questions follow the OCR A Level Mathematics A specification (Version 3.1,
 - Starting a proof from both sides at once or skipping the line that reaches the target.
 - Leaving out a force component when resolving, or using the wrong function for each.
 
+## Frequently asked questions
+
+**Why should you factorise instead of cancelling a trig factor?**
+Cancelling a factor such as sin x or cos x removes the solutions where that factor is zero. Factorise and solve each factor equal to zero instead.
+
+**How do you find all solutions when the equation has a multiple angle?**
+Widen the interval first. For example, if 0 ≤ x < 180°, then 2x runs from 0 to 360°, so find every value of 2x in that wider interval before dividing by 2.
+
+**What should you do with a root like sec θ = 1/3?**
+Reject it and say why: sec θ is always at most −1 or at least 1, so sec θ = 1/3 can never occur.
+
+**How should you set out a trigonometric proof in OCR A Level Mathematics?**
+Start from one side and work step by step until you reach the other side, showing the line that reaches the target. Starting from both sides at once is a common way to lose marks.
+
 ## Next steps
 
 - Revise from the [revision notes](/resources/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities-revision-notes/).

@@ -143,6 +143,20 @@ These questions cover exponential and logarithmic functions in OCR A Level Mathe
 - Forgetting that the domain of an inverse function is the range of the original.
 - Taking the logarithm of zero or a negative number.
 
+## Frequently asked questions
+
+**What is the asymptote of y = a^x + c?**
+The horizontal asymptote is y = c, not y = 0. Adding a constant moves the whole graph, and its asymptote, up or down by c.
+
+**What is the gradient of y = e^(kx)?**
+The gradient is k e^(kx), so it is k times the value of the function. Leaving out the factor k, or the minus sign when k is negative, is a common error.
+
+**Should exponential and logarithm answers be exact or decimal in OCR A Level Mathematics?**
+Give an exact form, such as ln 7, when the question asks for it, and avoid rounding intermediate values, which can make the final digit wrong.
+
+**Why can you not take the logarithm of a negative number?**
+ln x and log_a x are only defined for x > 0, so an equation such as e^x = −3 has no solution. Taking the logarithm of zero or a negative number is a common slip.
+
 ## Next steps
 
 - Review the methods in the [revision notes](/resources/ocr-a-level-mathematics-exponential-and-logarithmic-functions-e-x-a-x-ln-x-and-revision-notes/).

@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
-description: "Proof, algebra and functions, coordinate geometry, sequences and series, trigonometry, exponentials and logarithms, differentiation, integration, numerical methods, and vectors -- the full content of Pure Mathematics for OCR A-Level Mathematics A (H240)."
+description: "Guide to pure mathematics in OCR A Level Mathematics A (H240): proof, algebra, coordinate geometry, sequences, trigonometry, calculus and vectors."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Pure mathematics**, the first of three
@@ -159,3 +161,17 @@ Translating the wrong way for f(x + a) — it moves *left* for positive a. Omitt
 - Use compound and double angle formulae and the R sin(x + alpha) form.
 - Apply chain, product and quotient rules, and integrate by substitution, parts and partial fractions.
 - Solve differential equations by separating variables and apply the numerical methods.
+
+## Frequently asked questions
+
+**Which papers is pure mathematics assessed on in OCR A Level Mathematics A (H240)?**
+Pure mathematics is assessed within all three two-hour components: Pure mathematics; Pure mathematics and statistics; and Pure mathematics and mechanics. Each component is worth 33⅓% of the award.
+
+**Which pure topics are in the OCR H240 specification?**
+The pure content is 1.1 Proof, 1.2 Algebra and functions, 1.3 Coordinate geometry, 1.4 Sequences and series, 1.5 Trigonometry, 1.6 Exponentials and logarithms, 1.7 Differentiation, 1.8 Integration, 1.9 Numerical methods and 1.10 Vectors.
+
+**Does the AS Level cover all of the A Level pure content?**
+No. The AS Level, H230, shares most but not all of the pure sub-topics; numerical methods and the more advanced vectors content are A Level only.
+
+**Which way does y = f(x + a) move the graph?**
+For positive a, y = f(x + a) translates the graph a units to the left, not the right. Getting this direction wrong is one of the common mistakes listed for this topic.

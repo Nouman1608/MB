@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on proof, algebra, functions, sequences, trigonometry, calculus and vectors for OCR A Level Mathematics H240."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -293,3 +295,20 @@ Vectors are **parallel** if one is a scalar multiple of the other. Position vect
 5. Why must arc length and sector area formulae use radians?
 
 **Answers:** 1. Assume the opposite of the statement, derive a logical contradiction, and conclude that the original statement must be true. 2. g. 3. Only when |r| < 1. 4. The one that simplifies when differentiated — logarithms first, then polynomials — because the aim is to make the remaining integral easier. 5. The formulae s = rθ and ½r²θ are derived from the definition of the radian as the angle subtending an arc equal in length to the radius, so they are only valid with θ in radians.
+
+## Frequently asked questions
+
+**When does a geometric series have a sum to infinity?**
+A sum to infinity exists only when |r| < 1. State the condition as part of your answer, because giving the sum without it is incomplete.
+
+**When is a binomial expansion valid for a negative or fractional power?**
+For negative or fractional n, the expansion of (1 + x)ⁿ is infinite and valid only for |x| < 1. You need to state this range of validity.
+
+**What are the small angle approximations?**
+For θ in radians, sin θ ≈ θ, tan θ ≈ θ and cos θ ≈ 1 − θ²/2.
+
+**How do you choose u when integrating by parts?**
+Pick the term that simplifies when differentiated, with logarithms first and then polynomials. Choosing the wrong way round makes the integral harder.
+
+**What do you need to remember with integration by substitution in OCR A Level Mathematics?**
+Change the variable and the limits together, or convert back to the original variable before evaluating. Forgetting to change the limits is a routine loss of marks.

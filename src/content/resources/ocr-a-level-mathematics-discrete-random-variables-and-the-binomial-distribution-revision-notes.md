@@ -233,6 +233,20 @@ Worked reminder: X ~ B(50, 0.1) has μ = 5, σ² = 50 × 0.1 × 0.9 = 4.5. A nor
 </figure>
 
 
+## Frequently asked questions
+
+**What are the four conditions for a binomial distribution?**
+There must be a fixed number of trials n, two outcomes for each trial, independent trials, and the same probability of success p for every trial.
+
+**What is the difference between a condition and an assumption?**
+A condition is a general requirement of the binomial model, such as independent trials. An assumption is a statement about the real context that lets the condition be taken to hold, so it must mention the situation.
+
+**How do you find an unknown in a discrete probability distribution?**
+Use the fact that the probabilities sum to 1. Write the sum-to-one equation for the table or formula and solve it for the unknown.
+
+**How do you find P(X ≥ 1) quickly for X ~ B(n, p)?**
+Use the complement: P(X ≥ 1) = 1 − P(X = 0) = 1 − qⁿ, where q = 1 − p.
+
 ## Official syllabus
 
 OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR: sections 2.04a to 2.04d.

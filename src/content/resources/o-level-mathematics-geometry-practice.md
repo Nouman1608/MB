@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "o-level"
     topic: "geometry"
-description: "Original exam-style questions with full worked answers on polygon angles, isosceles triangles, circle theorems, tangents and similar shapes, for Cambridge O Level Mathematics 4024."
+description: "Original Cambridge O Level Mathematics 4024 geometry questions on polygon angles, isosceles triangles, circle theorems, tangents and similarity, with answers."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -120,6 +122,20 @@ These twelve questions cover angles in polygons, isosceles triangles, circle the
 - Not stating that the angle in a semicircle needs a diameter.
 - Leaving out a sum of angles in a quadrilateral or polygon when forming an equation.
 - Giving answers without units, such as cm² for area.
+
+## Frequently asked questions
+
+**Do you need to give reasons in O Level geometry angle questions?**
+Yes, when the question asks for reasons. Name the fact or theorem used, such as "alternate segment theorem" or "angles on a straight line"; writing "angles are equal" with no theorem named is a common way to lose marks.
+
+**What is the difference between interior and exterior angles of a polygon?**
+An exterior angle is formed by extending one side, and the interior and exterior angles at a vertex add to 180°. The exterior angles of any polygon sum to 360°, so mixing the two up gives the wrong number of sides.
+
+**How do area and volume scale factors work for similar shapes?**
+If the length scale factor is k, areas multiply by k² and volumes by k³. Using the area scale factor as the volume scale factor, or a part-to-part ratio as the scale factor, is a frequent error.
+
+**Which circle theorem facts are most often missed in Cambridge O Level Mathematics?**
+Common slips include forgetting that a tangent meets the radius at 90°, applying the alternate segment theorem to an angle in the wrong segment, and not stating that the angle in a semicircle needs a diameter.
 
 ## Next steps
 

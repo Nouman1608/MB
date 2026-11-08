@@ -252,6 +252,20 @@ Check the signs in (b): the derivative of cos kx is −k sin kx, and the −5 in
 - Using degrees when differentiating trigonometric functions.
 - Confusing the sketch of f' with the sketch of f: the roots of f' are the turning points of f.
 
+## Frequently asked questions
+
+**What does differentiation fundamentals cover in OCR A Level Mathematics A (H240)?**
+Specification references 1.07a to 1.07l cover the derivative as a gradient and limit, sketching gradient functions, second derivatives, convexity, first principles and standard derivatives of powers, exponentials, logarithms and trigonometric functions.
+
+**Which powers of x can be asked from first principles in OCR H240?**
+Reference 1.07g covers differentiation from first principles for small positive integer powers of x; the specification excludes powers above 4. First principles for sin x and cos x is A Level only.
+
+**Is a point where f''(x) = 0 always a point of inflection?**
+No. You also need f'' to change sign either side. For y = x⁴, f''(0) = 0 but f'' is positive on both sides, so there is no inflection.
+
+**Why can't you use the power rule on 5^(2x)?**
+The power rule only works when the variable is in the base. When the variable is in the power, use the exponential rule: the derivative of a^kx is k ln a · a^kx.
+
 ## Official syllabus
 
 *OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR: section 1.07, Differentiation, references 1.07a to 1.07l.

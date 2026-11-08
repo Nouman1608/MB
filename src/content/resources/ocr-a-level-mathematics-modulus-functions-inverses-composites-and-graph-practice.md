@@ -140,6 +140,20 @@ These questions follow the OCR A Level Mathematics A (H240) specification, Versi
 - Moving f(x + a) to the right, or giving scale factor a for f(ax).
 - Describing a transformation without a vector, scale factor or axis.
 
+## Frequently asked questions
+
+**Why must you check solutions of |linear| = linear?**
+A modulus can never equal a negative number, so any root that makes the right-hand side negative must be rejected. Accepting such a root is a common error.
+
+**What order do you apply composite functions in?**
+fg(x) means f(g(x)), so apply g first and then f. fg and gf are usually different functions.
+
+**How do you find the range of a function on a restricted domain?**
+Check any turning point inside the domain as well as the values at the end points. Using only the end points can give the wrong range.
+
+**How should you describe a graph transformation in OCR A Level Mathematics?**
+Give its full name with the details: "translation by the vector", or "stretch, scale factor k, parallel to the x-axis". A description without the vector, scale factor or axis loses marks.
+
 ## Next steps
 
 - Read the [study guide](/resources/ocr-a-level-mathematics-modulus-functions-inverses-composites-and-graph/) for the full method.

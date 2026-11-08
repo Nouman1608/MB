@@ -269,6 +269,20 @@ P(Type II) = P(X̄ < 34.728) = P(Z < −1.066) = 0.143
 - Dividing by σ rather than σ/√n when standardising a sample mean.
 - Concluding "the machine has changed" with certainty, or writing "accept H₀".
 
+## Frequently asked questions
+
+**What does hypothesis testing cover in OCR A Level Mathematics A (H240)?**
+Sections 2.05a to 2.05e cover the language of hypothesis testing, binomial tests, inference and the significance level, the sample mean, and the test for a normal mean. The sample mean and normal mean test, 2.05d and 2.05e, are A Level only.
+
+**What is a critical region?**
+The critical region is every outcome that would make you reject H₀. Its boundary is the critical value, and the outcomes outside it form the acceptance region.
+
+**What significance levels are used in hypothesis tests?**
+The significance level is set before you look at the data; typical levels are 10%, 5% and 1%.
+
+**Why should you never write "accept H₀"?**
+A test cannot prove anything, so conclusions must be tentative. Say that the data do not support rejecting H₀ at the stated level, and give the meaning in context.
+
 ## Next steps
 
 Condense this with the [revision notes](/resources/ocr-a-level-mathematics-hypothesis-testing-language-binomial-tests-and-the-revision-notes/), then try the [practice questions](/resources/ocr-a-level-mathematics-hypothesis-testing-language-binomial-tests-and-the-practice/). The [free diagnostics](/diagnostics/) show which topics need more work.

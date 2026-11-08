@@ -211,6 +211,20 @@ To find where two **paths** cross, eliminate the parameter in each and solve the
 - Mixing degrees and radians in a model with π in it.
 - Finishing a modelling question with a bare number and no units or context.
 
+## Frequently asked questions
+
+**How do you write a circle in parametric form?**
+For a circle of radius r with centre (a, b), use x = a + r cos θ and y = b + r sin θ. Take care with the sign of the centre: (x − 3)² gives a centre x-coordinate of +3.
+
+**What is the difference between a circle and an ellipse in parametric form?**
+A circle has the same coefficient on cos θ and sin θ. An ellipse, such as x = a + p cos θ and y = b + q sin θ, has different coefficients p and q.
+
+**Are parametric equations for a curve unique?**
+No. Many correct parametric forms exist for the same curve. For any curve y = f(x), one simple choice is x = t, y = f(t).
+
+**Is parametric equations content AS or A Level in OCR H240?**
+Content statements 1.03g and 1.03h, on parametric equations of curves and their use in modelling, are A Level only in OCR A Level Mathematics A (H240).
+
 ## Next steps
 
 Try the [practice questions](/resources/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in-practice/) under timed conditions, and use the [free 10-minute diagnostics](/diagnostics/) to check wider Pure Mathematics. The course-level [Pure Mathematics revision notes](/resources/ocr-a-level-mathematics-pure-revision-notes/) put this unit in context.

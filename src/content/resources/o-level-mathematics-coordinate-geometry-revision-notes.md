@@ -267,6 +267,23 @@ Answer without looking, then check below.
 - Leaving the final equation unsimplified, or in a different form from the one requested.
 - Claiming lines are parallel or perpendicular without stating the gradients and the conclusion.
 
+## Frequently asked questions
+
+**What is the formula for the gradient between two points?**
+The gradient is m = (y₂ − y₁) ÷ (x₂ − x₁). Subtract the coordinates in the same order on the top and the bottom, or the sign of the gradient will be wrong.
+
+**How do you find the length and midpoint of a line segment?**
+For the length, find the differences in x and in y, square them, add, and take the square root. For the midpoint, add the x-coordinates and halve, then add the y-coordinates and halve.
+
+**What is the difference between the lines x = 3 and y = 3?**
+The line x = 3 is vertical and runs up and down through (3, 0). The line y = 3 is horizontal and runs across through (0, 3).
+
+**How do you find an end point if you know the midpoint?**
+If M is the midpoint of AB, then B = 2M − A, worked out separately for the x- and y-coordinates. For example, a midpoint of (1, 3) and an end point of (−4, 7) give B = (6, −1).
+
+**Should coordinate geometry answers be exact or rounded in Cambridge O Level Mathematics 4024?**
+Give a surd if the question asks for an exact value. Otherwise, the 4024 syllabus asks for non-exact answers to 3 significant figures unless the question says otherwise.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027, topic 3 Coordinate geometry (Cambridge University Press & Assessment).

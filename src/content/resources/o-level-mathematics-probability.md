@@ -322,6 +322,23 @@ All four path probabilities (0.14, 0.06, 0.04 and 0.76) add to 1, which is a goo
 - Treating an expected frequency as a guaranteed result.
 - Giving a probability outside the range 0 to 1, or writing a ratio such as 3:7 instead of a fraction, decimal or percentage.
 
+## Frequently asked questions
+
+**What does probability cover in Cambridge O Level Mathematics 4024?**
+Topic 8 covers the probability scale and single events, relative and expected frequencies, and combined events using sample space diagrams, Venn diagrams and tree diagrams, including picks with and without replacement.
+
+**What does fair, biased and random mean in probability?**
+Fair means every outcome is equally likely. Biased means some outcomes are favoured. Random means each item has a chance of being picked and the choice cannot be predicted or controlled.
+
+**What is the complement of an event?**
+The complement A′ is the event that A does not happen, and P(A) + P(A′) = 1. Use it when a question says "not" or "at least one".
+
+**Is an expected frequency a guaranteed result?**
+No. An expected frequency is an estimate of how many times an outcome is likely to happen, found by multiplying the probability by the number of trials; the actual result can differ.
+
+**How do you choose between a Venn diagram and a tree diagram?**
+Use a Venn diagram for counts of people or objects in overlapping groups. Use a tree diagram for events in sequence, especially with or without replacement or with more than two stages.
+
 ## Where to go next
 
 Use the [revision notes](/resources/o-level-mathematics-probability-revision-notes/) for a self-test, then the [practice questions](/resources/o-level-mathematics-probability-practice/). Venn work in the [Number guide](/resources/o-level-mathematics-number/) builds the counting skills. Check your progress against the [checklist](/checklists/cambridge/o-level/mathematics/) or run a [free diagnostic](/diagnostics/).

@@ -253,6 +253,20 @@ If 52 was a typing error for 25, the mean becomes (277 − 52 + 25)/11 ≈ 22.7 
 - Calling every outlier an error, or removing one without giving a reason.
 - Writing "it is random" for an opportunity or quota sample.
 
+## Frequently asked questions
+
+**What is the difference between a sample and a census?**
+A census observes every member of the population, while a sample observes only part of it. A sample gives an informal inference: an estimate that something is probably true of the population, never a certainty.
+
+**How do you take a simple random sample?**
+Number every member of a sampling frame, then use random numbers to choose members, rejecting numbers that are out of range or repeated, until you have the sample size you need.
+
+**Should you delete an outlier from a data set?**
+Not automatically. An outlier is only a flag: correct or remove a value only if you can show it is an error, and otherwise keep it and comment, or report results with and without it.
+
+**How should you deal with missing data?**
+Do not enter 0. Exclude those cases from the calculation, state the new sample size, and consider whether the gaps are random or hide a pattern.
+
 ## Official syllabus
 
 The OCR A Level in Mathematics A (H240) specification, Version 3.1 (August 2026), published by OCR, sections 2.01 and 2.02.

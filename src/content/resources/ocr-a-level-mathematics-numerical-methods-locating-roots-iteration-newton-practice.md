@@ -136,6 +136,20 @@ These questions follow section 1.09, Numerical Methods, of the OCR A Level Mathe
 - Giving "overestimate" with no mention of the curve's shape or the sign of f″.
 - Swapping upper and lower rectangle bounds for a decreasing function.
 
+## Frequently asked questions
+
+**What must you state when using a sign change to locate a root?**
+State that the function is continuous on the interval, then show the two values of opposite sign and conclude that there is a root between them.
+
+**How do you show that a root is correct to 2 decimal places?**
+Test the two numbers either side of the rounded value, such as 2.925 and 2.935 for a root of 2.93, and show that the function changes sign between them.
+
+**How do you decide whether an iteration converges?**
+Look at g′ at the root: the iteration converges if |g′(α)| < 1. Judging convergence from the first few terms alone is a common error.
+
+**How do you explain whether the trapezium rule over- or underestimates?**
+Give a reason based on the shape of the curve: for a convex curve (f″ > 0) it overestimates, and for a concave curve (f″ < 0) it underestimates.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-numerical-methods-locating-roots-iteration-newton-revision-notes/).

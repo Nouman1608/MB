@@ -365,6 +365,23 @@ To solve 2ˣ = 1/32, write 1/32 as 2⁻⁵, so x = −5.
 - Showing no rounded values in an estimation question.
 - Multiplying the two numbers together and calling the result the LCM.
 
+## Frequently asked questions
+
+**What is the difference between rational and irrational numbers?**
+A rational number can be written as a/b, where a and b are integers. An irrational number, such as π or √2, cannot, and its decimal neither terminates nor recurs.
+
+**How do you add numbers in standard form?**
+Match the powers of 10 first, then add the number parts. For example, 3.2 × 10⁻³ + 4.5 × 10⁻⁴ = 3.2 × 10⁻³ + 0.45 × 10⁻³ = 3.65 × 10⁻³.
+
+**How do you rationalise a denominator of the form a + √b?**
+Multiply the top and bottom by a − √b. For example, 9/(4 + √7) becomes 9(4 − √7)/(16 − 7), which simplifies to 4 − √7.
+
+**What is the difference between simple and compound interest?**
+Simple interest is the same amount every year. Compound interest is earned on the interest already added, so the value after n years is the start value times the multiplier to the power n.
+
+**Which rates formulas are given in the Cambridge O Level Mathematics 4024 exam?**
+According to the syllabus, formulas for pressure, density and similar rates are given in the question, but speed, distance and time are not, so you must learn those.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment.

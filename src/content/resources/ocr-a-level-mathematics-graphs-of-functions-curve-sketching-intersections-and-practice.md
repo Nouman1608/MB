@@ -124,6 +124,20 @@ Equate: −8/x = 8/x², so −8x = 8 and x = −1. [1] y = 8/1 = 8, so **(−1, 
 - Writing only x-values when the question asks for coordinates.
 - Treating a linear graph with a non-zero intercept as a proportional relationship.
 
+## Frequently asked questions
+
+**How do you show a repeated root on a sketch?**
+A factor raised to an even power, such as (x − 3)², makes the curve touch the x-axis; a single or odd-powered factor makes it cross. Drawing a repeated root as a crossing is a common error.
+
+**Why should you not divide both sides of an equation by x?**
+Dividing by x, or by any factor containing x, can lose a solution. Factorise instead, so every root is kept.
+
+**How do you solve an inequality using a graph?**
+Find where the two graphs intersect, then decide which intervals satisfy the inequality by testing one value in each interval. Reading the wrong side of an intersection is a frequent slip.
+
+**Is a straight-line graph always a proportional relationship?**
+No. Direct proportion, y = kx, is a straight line through the origin. A linear graph with a non-zero intercept is not a proportional relationship.
+
 ## Next steps
 
 - Review the method in the [revision notes](/resources/ocr-a-level-mathematics-graphs-of-functions-curve-sketching-intersections-and-revision-notes/).

@@ -374,6 +374,20 @@ The region lies between the parabola (dashed) and the line (solid), above the cu
 - Dividing by a negative number but leaving the inequality sign unchanged.
 - Giving "−4 ≥ x ≥ 3/2" for an "or" answer. Write two separate conditions.
 
+## Frequently asked questions
+
+**Which specification references does this OCR A Level Mathematics topic cover?**
+It covers OCR A Level Mathematics A (H240) sections 1.02a to 1.02i: indices, surds, simultaneous equations, quadratic functions and the discriminant, completing the square, solving quadratics, inequalities, set notation and regions.
+
+**How do you decide how many times a line meets a curve?**
+Substitute the line into the curve to form a quadratic, then use its discriminant: positive means two intersections, zero means the line is a tangent, and negative means they do not meet.
+
+**How do you solve an equation like 2x⁴ − 9x² + 4 = 0?**
+Treat it as a quadratic in disguise: let u = x², solve for u, then take square roots, keeping both the positive and negative roots.
+
+**How do you show a quadratic is negative for all x?**
+Complete the square. For example, −x² + 4x − 7 = −(x − 2)² − 3, and since −(x − 2)² ≤ 0, the expression is at most −3, so it is always negative.
+
 ## Next steps
 
 Work through the [revision notes](/resources/ocr-a-level-mathematics-indices-surds-simultaneous-equations-quadratics-and-revision-notes/), then try the [practice questions](/resources/ocr-a-level-mathematics-indices-surds-simultaneous-equations-quadratics-and-practice/). Tick off outcomes on the [checklist](/checklists/ocr/a-level/mathematics/), and use the [diagnostics](/diagnostics/) to check progress. Do these skills by hand, because they underpin later work in the [Pure Mathematics overview](/resources/ocr-a-level-mathematics-pure-mathematics/).

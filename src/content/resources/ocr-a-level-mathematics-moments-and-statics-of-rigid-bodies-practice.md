@@ -158,6 +158,20 @@ Both tensions are positive here, so **1 ≤ x ≤ 7**. [1]
 - Rounding part-way through and losing accuracy in the final answer.
 - Omitting the unit N m or the sense of a resultant moment.
 
+## Frequently asked questions
+
+**How do you take moments when a force is at an angle to a rod?**
+Use the perpendicular distance from the point to the line of action, d sin θ, or resolve the force and use its perpendicular component. Measuring along the rod is a common error.
+
+**Where does the weight of a uniform beam act?**
+The weight of a uniform beam or rod acts at its midpoint. Leaving it out, or putting it at an end, loses marks.
+
+**How do you give a hinge force in OCR A Level Mathematics?**
+Find both the horizontal and vertical components, then give the magnitude and the direction, for example as an angle above the horizontal. A single component, or a magnitude with no direction, is incomplete.
+
+**What units should a moment have?**
+A moment is measured in newton metres (N m), and a resultant moment needs its sense, clockwise or anticlockwise.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-revision-notes/) or the [study guide](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies/).

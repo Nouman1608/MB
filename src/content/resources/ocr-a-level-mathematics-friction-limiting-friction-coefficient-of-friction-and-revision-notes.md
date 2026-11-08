@@ -178,6 +178,20 @@ Stage 2: deceleration = 0.2 × 9.8 = 1.96 m s⁻²
 - Writing a bare number with no comparison of F and μR when asked to show that a body does not move.
 - Mixing up the least and greatest force: the least force has friction up the slope at its maximum.
 
+## Frequently asked questions
+
+**Which parts of friction are A Level only in OCR A Level Mathematics A (H240)?**
+Reference 3.03r, the idea of a frictional force, is Stage 1 content shared with AS. References 3.03s to 3.03v, including F ≤ μR and rough slopes, are A Level only.
+
+**What is the acceleration of a body sliding down a rough slope?**
+Resolving along the slope gives a = g sin α − μg cos α. If this is negative the body decelerates.
+
+**What is the deceleration of a body sliding on rough horizontal ground?**
+With no driving force and R = mg, the friction is μmg, so the deceleration is μg. The mass cancels.
+
+**How do you show that a body on a rough surface does not move?**
+Compare the force trying to move it with the maximum friction μR, and conclude in words. A bare number with no comparison of F and μR does not answer the question.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240) specification*, Version 3.1 (August 2026), for first assessment in 2018. These notes follow references 3.03r to 3.03v.

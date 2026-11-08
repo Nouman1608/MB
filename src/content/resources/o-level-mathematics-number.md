@@ -323,6 +323,23 @@ A surd is an irrational root such as √5. Simplify using the largest square fac
 - Reading 3.25 as 3 hours 25 minutes.
 - Taking the mean of two speeds instead of total distance over total time.
 
+## Frequently asked questions
+
+**What does the Number topic cover in Cambridge O Level Mathematics 4024?**
+Topic 1 runs from types of number and sets through powers and roots, fractions and percentages, indices, standard form, estimation, limits of accuracy, ratio, rates, calculator use, time, money, growth and decay, to surds.
+
+**How do you find average speed for a journey with two parts?**
+Divide the total distance by the total time. Taking the mean of the two speeds gives the wrong answer.
+
+**How do you convert a recurring decimal to a fraction?**
+Let x be the decimal, multiply by a power of 10 so the repeating part lines up, and subtract to remove it. For 0.6̇3̇, 100x − x = 63, so x = 63/99 = 7/11.
+
+**How do you handle time zones in Cambridge O Level Mathematics?**
+Add the journey time to the departure time first, then add or subtract the time difference to get the local arrival time.
+
+**Is 3.25 hours the same as 3 hours 25 minutes?**
+No. 0.25 of an hour is 15 minutes, so 3.25 hours is 3 hours 15 minutes. Reading it as 3 hours 25 minutes is a common error.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment.

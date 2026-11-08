@@ -135,6 +135,20 @@ Review the ideas in the [study guide](/resources/ocr-a-level-mathematics-applica
 - Leaving out units, or giving an optimum without checking it lies in the allowed range.
 - Skipping the algebra of "show that" and writing only the target.
 
+## Frequently asked questions
+
+**How do you find the equation of a normal to a curve?**
+Differentiate, substitute the x-value to get the tangent gradient m, then use the negative reciprocal −1/m with the point on the curve. Writing the normal gradient as −m or 1/m is a common error.
+
+**How do you show that a stationary point is a maximum or minimum in OCR A Level Mathematics?**
+Quote evidence: the sign of d²y/dx² at the point, or the signs of dy/dx on either side. Asserting "maximum" or "minimum" without sign evidence loses marks.
+
+**How should you answer "where is the function increasing"?**
+Solve dy/dx > 0 and give the answer as an interval of x-values, not as the roots of dy/dx = 0.
+
+**Why check the end values in an optimisation question?**
+A local minimum or maximum is not always the least or greatest value over the allowed range. Compare it with the values at the ends of the range, and check the answer makes sense in context.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-a-level-mathematics-applications-of-differentiation-tangents-normals-revision-notes/) and the [study guide](/resources/ocr-a-level-mathematics-applications-of-differentiation-tangents-normals/).

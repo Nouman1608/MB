@@ -290,6 +290,20 @@ After 4 s the velocity is **(4, 3) m s⁻¹**, the speed is **5 m s⁻¹** and t
 - Missing that "starts from rest" means u = 0, and "comes to rest" means v = 0.
 - Quoting a final answer without a unit, or giving a speed as a negative number.
 
+## Frequently asked questions
+
+**What is the difference between displacement and distance travelled?**
+Displacement is the change in position from start to finish, a vector that can be negative. Distance travelled is the total length of the path covered, a scalar. They differ whenever the motion reverses.
+
+**What does the gradient of a velocity-time graph represent?**
+The gradient of a velocity-time graph is the acceleration, and the area under it is the displacement. On a displacement-time graph the gradient is the velocity.
+
+**How can the constant acceleration formulae be derived?**
+From a velocity-time graph, the gradient gives v = u + at and the trapezium area gives s = ½(u + v)t. Substituting one into the other, or integrating a constant acceleration twice, gives s = ut + ½at².
+
+**What does "starts from rest" mean in a kinematics question?**
+"Starts from rest" means the initial velocity u = 0, and "comes to rest" means the final velocity v = 0.
+
 ## Next steps
 
 Work through the [revision notes](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant-revision-notes/), then attempt the [practice questions](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant-practice/) without looking at the answers. Use the [checklist](/checklists/ocr/a-level/mathematics/) to record what you have covered and the [course hub](/boards/ocr/a-level/mathematics/) to move on.

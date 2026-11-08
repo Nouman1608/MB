@@ -272,6 +272,20 @@ The values differ by about 0.0002, so with a large population the independence m
 - Writing "the events are independent" without showing that P(A ∩ B) = P(A) × P(B) was tested.
 - Commenting on a model with "it is not realistic" alone. Name the assumption and give the direction of the effect.
 
+## Frequently asked questions
+
+**What does probability cover in OCR A Level Mathematics A (H240)?**
+Section 2.03 covers notation, mutually exclusive and independent events, and diagrams (Stage 1, shared with AS), then conditional probability, first-principles conditional probability and modelling with probability (A Level only).
+
+**How do you use a two-way table for conditional probability?**
+Use the row or column total for the condition as the denominator. For example, P(car | North) is the number of North staff who drive divided by the North total.
+
+**When does sampling without replacement matter?**
+Without replacement, the second-stage probabilities depend on the first outcome. From a very large population the change is small, so treating the picks as independent can be a reasonable approximation.
+
+**What is the addition rule for two events that overlap?**
+P(A ∪ B) = P(A) + P(B) − P(A ∩ B). Subtracting the overlap stops it being counted twice.
+
 ## Official syllabus
 
 OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR. Section 2.03 Probability.

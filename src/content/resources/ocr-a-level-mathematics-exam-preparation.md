@@ -9,13 +9,15 @@ qualifications: ["a-level"]
 syllabusCodes: ["H240"]
 syllabusSeries: "Version 3.1 (August 2026), for first assessment in 2018"
 order: 3
-description: "Why pure mathematics appears on all three OCR A Level Mathematics H240 components, what the pre-release data set on Component 02 requires, and a worked routine for protecting method marks."
+description: "How pure mathematics runs through all three OCR A Level Mathematics H240 papers, what the Component 02 pre-release data set needs, and a method-mark routine."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 OCR A Level Mathematics A (H240) is linear and untiered, with three compulsory components each worth
@@ -122,6 +124,20 @@ become quick marks rather than a first encounter. 3. Because their content is na
 mathematics, so a given amount of revision covers proportionally more of what can be asked. 4. Stating
 the theorem, rule or distribution being used before substituting -- the method mark depends on the
 method being visible, in every component alike.
+
+## Frequently asked questions
+
+**How many papers are there in OCR A Level Mathematics A (H240)?**
+There are three compulsory components, each worth 100 marks, lasting 2 hours and counting for one third of the qualification. The qualification is linear and untiered.
+
+**What is on each OCR A Level Mathematics H240 paper?**
+Component 01 is pure mathematics. Component 02 is pure mathematics and statistics, roughly half each, with some questions set on a pre-release data set. Component 03 is pure mathematics and mechanics, again roughly half each.
+
+**How much of OCR A Level Mathematics is pure mathematics?**
+Roughly two-thirds of the total assessment, because Component 01 is entirely pure and Components 02 and 03 are each about half pure. Statistics and mechanics together make up the other third.
+
+**How long should you spend on each mark in an OCR A Level Mathematics paper?**
+Two hours for 100 marks works out at 1.2 minutes per mark. Practise complete papers to time and bank time early, because extended multi-step questions typically appear later in the paper.
 
 *Written against OCR's own live A Level Mathematics A (H240) specification-at-a-glance page (official
 OCR page, verified 2026-08-28); OCR prints each component's weighting as 33⅓%. The exam routine above

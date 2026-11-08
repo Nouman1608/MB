@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "statistics-ocr-alevel-maths"
-description: "Condensed recall notes on sampling, data presentation including bivariate data, probability, statistical distributions and hypothesis testing (including the correlation test), for OCR A Level Mathematics A (H240), the Statistics strand."
+description: "Condensed OCR A Level Mathematics A (H240) statistics notes on sampling, data, correlation, probability, binomial and normal distributions and hypothesis tests."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -151,6 +153,20 @@ Statistics is examined together with Pure Mathematics in component 02, so practi
 6. X ~ N(60, 16). Find P(X < 64).
 
 **Answers:** 1. A fixed number of independent trials, each with the same two possible outcomes and the same probability of success. 2. One-tailed, testing H1: p < the stated value. 3. Because a numerically correct test with no contextual conclusion, or one that inverts "reject" and "do not reject," loses marks even when the calculation is right — OCR's mark schemes require conclusions written back into the original question's context. 4. Any three: random, systematic, stratified, opportunity, quota, cluster. 5. Because some data presentation and interpretation questions are set directly on it, so genuine familiarity with its specific variables and structure is required, not generic data-handling skill alone. 6. sigma = 4; z = (64 − 60) / 4 = 1; P(X < 64) = P(Z < 1) = 0.8413.
+
+## Frequently asked questions
+
+**How should you word the conclusion of a hypothesis test in OCR A Level Mathematics?**
+Write it in context and show that it is not certain, for example "There is evidence at the 5% level to reject H₀. It is likely that the defect rate has increased." The specification lists a flat statement of change as fact as incorrect.
+
+**How do you find a normal probability such as P(X > 182)?**
+Standardise using z = (x − μ)/σ, taking the square root of the variance first, then use the standard normal table or a calculator. For X ~ N(175, 49), z = (182 − 175)/7 = 1 and P(Z > 1) = 0.1587.
+
+**Do you have to calculate Pearson's correlation coefficient in OCR H240?**
+No. Calculating r is excluded; you are given r and compare it with a critical value, or use a p-value and the table of critical values OCR provides.
+
+**Why does the pre-release large data set matter for OCR A Level Mathematics statistics?**
+Some data presentation and interpretation questions are set directly on it, so you need to have explored its variables and context before the exam.
 
 ## Related resources
 

@@ -300,6 +300,23 @@ The product is (1/2) × (−2) = −1, so AB and BC are perpendicular and angle 
 - Calling a vertical line y = k, or a horizontal line x = k.
 - Leaving a final line equation unsimplified when the question asks for a fully simplified form.
 
+## Frequently asked questions
+
+**What does coordinate geometry cover in Cambridge O Level Mathematics 4024?**
+Topic 3 covers coordinates, drawing linear graphs, gradient, length and midpoint of a line segment, equations of linear graphs, and parallel and perpendicular lines.
+
+**How do you draw a straight-line graph from an equation like 3x + 4y = 12?**
+Use the intercepts: set x = 0 to find where the line crosses the y-axis, set y = 0 to find where it crosses the x-axis, then join the two points. For equations with y as the subject, a table of values also works.
+
+**How do you find the equation of a line through two points?**
+Find the gradient from the two points, then substitute one point into y − y₁ = m(x − x₁) and rearrange. Check by substituting the second point into your final equation.
+
+**How do you find the equation of a perpendicular bisector?**
+Find the midpoint of the segment, find the gradient of the segment and take its negative reciprocal, then write the equation of the line through the midpoint with that gradient.
+
+**How do you prove that an angle is a right angle using coordinates?**
+Find the gradients of the two lines that meet at the angle and show that their product is −1. Then state the conclusion that the lines are perpendicular, so the angle is 90°.
+
 ## Next steps
 
 Work through the [revision notes](/resources/o-level-mathematics-coordinate-geometry-revision-notes/), try the [practice set](/resources/o-level-mathematics-coordinate-geometry-practice/), and take a [free diagnostic](/diagnostics/) to find any gaps.
