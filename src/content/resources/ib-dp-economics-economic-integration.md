@@ -237,6 +237,23 @@ Judgement depends on the size of the members, how different their costs are, how
 - Listing monetary union points without applying them to a case.
 - Giving a one-sided answer to an AO3 question.
 
+## Frequently asked questions
+
+**What is the difference between a free trade area and a customs union?**
+Both remove tariffs and quotas between members. In a free trade area each member sets its own tariffs on outsiders, while a customs union has a common external tariff.
+
+**What are the advantages of trading blocs?**
+The IB DP Economics guide lists greater access to markets and economies of scale, greater employment opportunities where labour can move, stronger bargaining power, greater political stability and cooperation, and (HL only) trade creation.
+
+**What are the disadvantages of trading blocs?**
+The guide lists loss of sovereignty, the challenge to multilateral trading negotiations and (HL only) trade diversion.
+
+**What are the advantages and disadvantages of monetary union?**
+Members save on conversion costs, face no exchange-rate risk with each other and can compare prices easily. But they lose their own monetary policy, cannot use a falling exchange rate to regain competitiveness, and may have to support weaker members.
+
+**What limits the influence of the WTO?**
+Agreement is difficult on services and primary products, because services barriers are rules and regulations rather than simple tariffs. Bargaining power is also unequal, since large economies can threaten bigger retaliation and employ more trade lawyers.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization, February 2020. Sub-topic 4.4, Economic integration.

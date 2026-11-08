@@ -237,6 +237,20 @@ Use these to turn description into a judgement.
 - Calling a good inferior because its YED is small, when it is negative YED that marks inferior goods.
 - Leaving the HL straight-line result as "PED is constant because the slope is constant".
 
+## Frequently asked questions
+
+**What is price elasticity of demand in IB DP Economics?**
+Price elasticity of demand measures how responsive quantity demanded is to a change in the good's own price, calculated as the percentage change in quantity demanded divided by the percentage change in price. It is sub-topic 2.5 of the IB DP Economics guide.
+
+**How does PED affect total revenue?**
+With elastic demand, price and revenue move in opposite directions, so a price rise lowers revenue. With inelastic demand, they move together, so a price rise raises revenue. With unitary demand, revenue does not change.
+
+**What is an Engel curve?**
+An Engel curve shows how the quantity demanded of one good changes as income changes. A normal good slopes upward, while an inferior good slopes backwards.
+
+**Why is PED for primary commodities usually lower than for manufactured goods?**
+Primary commodities often have few close substitutes and are necessities or essential inputs, they are a small share of the cost of the final good, and demand for them is derived from the final product. This is HL only content.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published February 2020, International Baccalaureate Organization. Sub-topic 2.5 Elasticity of demand, within Unit 2: Microeconomics.

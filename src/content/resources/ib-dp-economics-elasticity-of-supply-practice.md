@@ -127,6 +127,20 @@ These questions follow the IB Diploma Programme *Economics guide* (first assessm
 - Leaving out the judgement in a "discuss" answer.
 - Mixing up a movement along a supply curve with a shift of the curve.
 
+## Frequently asked questions
+
+**Can price elasticity of supply be negative?**
+Normally no. Because the supply curve slopes upward, price and quantity supplied move in the same direction, so PES is positive. A negative answer usually means a sign was dropped when entering a price fall.
+
+**How do you find the price change needed for a target rise in output?**
+Rearrange the formula: percentage change in price = percentage change in quantity supplied ÷ PES. Then apply that percentage to the current price.
+
+**Do you need to state whether supply is elastic after calculating PES?**
+Yes. Stopping at the number loses marks, so say whether supply is relatively elastic, relatively inelastic or unitary over that range.
+
+**What are common mistakes in IB Economics PES questions?**
+Common errors include putting price on top of the formula, using absolute rather than percentage changes, sketching diagrams without axis or curve labels, and naming a determinant without showing which way it moves PES.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ib-dp-economics-elasticity-of-supply-revision-notes/) for the gaps you found.

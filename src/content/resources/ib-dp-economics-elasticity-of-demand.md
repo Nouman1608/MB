@@ -260,6 +260,23 @@ An Engel curve shows how the quantity demanded of one good changes with income. 
 - Treating revenue as profit.
 - Drawing a unitary demand curve as a straight line.
 
+## Frequently asked questions
+
+**What are the determinants of price elasticity of demand?**
+The number and closeness of substitutes, the degree of necessity, the proportion of income spent on the good, and time. More substitutes, luxuries, a large share of income and a longer time period make demand more elastic.
+
+**Does PED stay the same along a straight-line demand curve?**
+No. The slope is constant but PED changes: the upper half of the line is price elastic, the midpoint is unitary and the lower half is price inelastic. This is HL only content.
+
+**What does a perfectly inelastic demand curve look like?**
+It is a vertical line, because quantity demanded does not change when price changes. A perfectly elastic demand curve is horizontal, and a unitary demand curve is a rectangular hyperbola, not a straight line.
+
+**Why does PED matter to governments?**
+A tax on a good with inelastic demand brings in more revenue because buyers cut back only slightly. The same fact limits a tax meant to reduce consumption of a harmful good.
+
+**How does YED affect the sectoral structure of an economy?**
+As incomes grow, demand for agricultural goods with low YED grows more slowly than income, while demand for services with high YED grows faster, so the economy's structure shifts toward services. This is HL only.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published February 2020, International Baccalaureate Organization. Sub-topic 2.5 Elasticity of demand, within Unit 2: Microeconomics.

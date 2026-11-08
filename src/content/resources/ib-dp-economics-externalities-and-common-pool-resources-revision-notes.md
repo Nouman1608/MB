@@ -252,6 +252,20 @@ Use this fictional market for questions 7 to 10: MPB P = 40 − Q, MPC P = 4 + Q
 - Skipping the working in a calculation. Show every step.
 - Mixing up common pool resources and public goods.
 
+## Frequently asked questions
+
+**What is an externality in IB DP Economics?**
+An externality is a side effect of buying or selling that falls on an outsider to the deal, who is neither paid for a benefit nor compensated for a cost. Externalities are part of sub-topic 2.8 of the IB DP Economics guide.
+
+**What is the difference between MPC and MSC?**
+MPC, the marginal private cost, is what the producer pays. MSC, the marginal social cost, is MPC plus the extra cost borne by others.
+
+**What is the difference between a common pool resource and a public good?**
+A common pool resource is rivalrous but non-excludable, so one person's use leaves less for others. A public good is both non-rival and non-excludable.
+
+**What is the difference between a Pigouvian tax and tradable permits?**
+A Pigouvian tax fixes the price per unit of pollution, while tradable permits fix the total quantity of pollution and let the price of permits settle in the market.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published February 2020, International Baccalaureate Organization. This page covers sub-topic 2.8 (Unit 2: Microeconomics).

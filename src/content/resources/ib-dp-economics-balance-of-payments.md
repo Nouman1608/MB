@@ -275,6 +275,23 @@ A surplus is not simply success. Weigh jobs, export growth and foreign assets ag
 - Drawing a currency diagram without labelled axes, curves and equilibrium.
 - Claiming depreciation must cure a deficit, ignoring elasticities and time lags.
 
+## Frequently asked questions
+
+**What is the Marshall-Lerner condition?**
+The Marshall-Lerner condition says a depreciation improves the current account only if the price elasticities of demand for exports and imports, taken as positive numbers, add up to more than 1.
+
+**What is the J-curve effect?**
+After a depreciation, demand is usually less elastic in the short run because contracts are fixed and buyers take time to switch. The current account first gets worse, then improves as elasticities rise, tracing a J shape over time.
+
+**How can a country correct a persistent current account deficit?**
+It can use expenditure switching, such as tariffs, quotas or a depreciation; expenditure reducing, such as tax rises, spending cuts or dearer borrowing; or supply-side policies that raise productivity and competitiveness over time.
+
+**Is a persistent current account deficit always a problem?**
+It depends on its size relative to GDP, how long it lasts, how it is financed and what the imports are used for. A deficit financed by FDI in new factories is less worrying than one driven by consumption.
+
+**Is a current account surplus always a sign of success?**
+No. Output sold abroad is not used at home, and strong foreign demand can push the currency up, which hurts exporters. The benefits of jobs and foreign assets have to be weighed against these costs.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020), sub-topic 4.6 Balance of payments (includes HL only sub-topics).

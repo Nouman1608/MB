@@ -214,6 +214,23 @@ Watch the command terms. *Explain* asks for reasons or causes. *Discuss* asks fo
 - Giving only the arguments against in a final judgement, with no condition under which protection could be justified.
 - Naming an example and not explaining it.
 
+## Frequently asked questions
+
+**What is the infant industry argument?**
+A new industry has high costs because its output is small and its workers lack experience. Temporary protection shelters it from established foreign rivals until scale and experience bring its costs down, after which the protection should be removed.
+
+**What is dumping in IB Economics?**
+Dumping is when an exporter charges a foreign buyer less than the cost of making the good, or less than it charges at home. A low price alone is not dumping, because the foreign firm may simply be more efficient.
+
+**Why does retaliation make protection harmful for both countries?**
+Each country may gain by protecting while the other stays open, but if both protect, trade shrinks and both end up worse off than under free trade. This is why trade wars hurt both sides.
+
+**Why might an ELDC have a stronger case for protection?**
+An economically least developed country with a narrow export base and a weak tax system may find the diversification and government revenue arguments stronger than a rich, diversified country would.
+
+**How do you reach a judgement on free trade versus protection?**
+Weigh the short run against the long run, name who gains and who loses, consider the size of the effect, alternatives such as subsidies or retraining, the risk of retaliation and the type of country. The verdict should say under what conditions protection could be justified.
+
 ## What to do next
 
 Test yourself on the [practice questions](/resources/ib-dp-economics-arguments-for-and-against-protection-practice/) and keep the [revision notes](/resources/ib-dp-economics-arguments-for-and-against-protection-revision-notes/) for the last weeks. Paper 1 is an extended response paper in which the (a) part is worth 10 marks and the (b) part 15, and calculators are not allowed. Paper 2 is a data response paper and allows calculators.

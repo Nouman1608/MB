@@ -206,6 +206,23 @@ Why firms depart from profit maximisation: owners and managers differ (separatio
 
 The guide says HL papers draw on the whole syllabus including HL-only content. Paper 1 (1 hour 15 minutes, 20%) is an extended response paper, Paper 2 (1 hour 45 minutes, 30%) is a data response paper, and Paper 3 (1 hour 45 minutes, 30%) is a policy paper with two compulsory questions. In Paper 3, evaluation is assessed in part (b). Command terms such as "discuss" and "evaluate" ask for a balanced judgement. Advice: support each point with a named bias and a short example.
 
+## Frequently asked questions
+
+**What is bounded rationality?**
+Bounded rationality, an idea from Herbert Simon, means people have limited information, time and thinking capacity, so they cannot find the best option and instead make decisions that are rational within those limits.
+
+**What is the difference between bounded self-control and bounded selfishness?**
+Bounded self-control describes someone who knows the better long-term option but fails to follow it because rewards now outweigh rewards later. Bounded selfishness means people care about fairness and others' welfare, so they do not always maximise their own gain.
+
+**What is nudge theory?**
+A nudge steers behaviour predictably without banning options or changing prices much, for example by making a green tariff the default. The idea was popularised by Richard Thaler and Cass Sunstein.
+
+**Why might firms not maximise profit?**
+Owners and managers may want different things because ownership is separate from control, information is limited, and reputation and long-run survival matter. Alternatives in the guide are corporate social responsibility, market share, satisficing and growth.
+
+**Are nudges always a good policy?**
+Not always. Nudges are cheap and keep freedom of choice, but their effects can fade, they may not suit all groups, and critics question who decides what is better for people.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published February 2020 by the International Baccalaureate Organization. Sub-topic 2.4 (HL only), Unit 2 Microeconomics.

@@ -146,6 +146,20 @@ Give 1 mark for each correct part. **[5]**
 - Treating a complement like a substitute.
 - Forgetting that a consumer who is priced out contributes zero to market demand.
 
+## Frequently asked questions
+
+**How do you build market demand from individual demand schedules?**
+Add the quantities each consumer demands at each price, price by price. Do not add the prices, and remember that a consumer who is priced out contributes zero at that price.
+
+**What should a demand shift diagram include in IB Economics?**
+Label price on the vertical axis and quantity per period on the horizontal axis, draw and label the original curve and the new curve, and mark the quantities at the original price. Give the direction of the shift and its cause.
+
+**Which demand content is HL only in IB Economics?**
+The income and substitution effects and the law of diminishing marginal utility, which explain the law of demand, are HL only. The law of demand, demand curves, market demand, non-price determinants, and movements and shifts are for SL and HL.
+
+**What are common mistakes in IB Economics demand questions?**
+Common slips include writing "demand falls" when the price rose instead of calling it a contraction, calculating a percentage change against the new value, treating a complement like a substitute, and giving a shift with no cause.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/ib-dp-economics-demand-revision-notes/) and the [study guide](/resources/ib-dp-economics-demand/).

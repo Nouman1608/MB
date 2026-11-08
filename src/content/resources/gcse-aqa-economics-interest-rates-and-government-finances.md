@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "how-the-economy-works-aqa-gcse-economics"
     subtopic: "interest-rates-saving-borrowing-spending-investment-aqa-gcse-economics"
-description: "How interest rates affect consumer and producer decisions, and UK government revenue, spending, and direct versus indirect taxation -- 3.2.1.1 and 3.2.1.2 of AQA GCSE Economics (8136), opening Paper 2: How the Economy Works."
+description: "How interest rates affect saving, borrowing and investment, and UK government revenue, spending and direct and indirect taxes, for AQA GCSE Economics 8136."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **3.2.1.1 Interest Rates, Saving, Borrowing,
@@ -180,6 +182,23 @@ decimals correctly.
   <figcaption>The current account adds income flows to the balance of trade.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**How does a rise in interest rates affect consumers?**
+A rise in interest rates makes loans more expensive, which discourages borrowing and spending, and improves the return on savings, which encourages saving. State the direction of each effect and a brief reason.
+
+**How does a rise in interest rates affect businesses?**
+Higher interest rates raise the cost of borrowing, so businesses borrow and invest less. Keeping cash in savings also becomes relatively more attractive than expanding operations.
+
+**How do you calculate interest on savings in AQA GCSE Economics?**
+Multiply the amount saved by the interest rate written as a decimal. For example, £1,800 at 5% a year earns 1,800 × 0.05 = £90 in one year.
+
+**What is the difference between a progressive and a regressive tax?**
+A progressive tax takes a larger percentage of income from higher earners. A regressive tax takes a larger percentage of income from lower earners, such as a flat-rate tax on a good that lower earners spend a bigger share of their income on.
+
+**Why do different loans have different interest rates?**
+Rates differ with the risk of the borrower, since a riskier borrower usually pays more, the length of the loan or savings term, and the general level of interest rates set by the central bank.
 
 ## Official syllabus
 

@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-economics-unit-2"
-description: "An original SL-level practice question in the Paper 2 part structure, (a) to (g) for 40 marks, with full worked answers on demand, supply and competitive market equilibrium, for IB Diploma Programme Economics."
+description: "Original SL practice question for IB DP Economics in the Paper 2 part structure, (a) to (g) for 40 marks, with worked answers on demand, supply and equilibrium."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -102,5 +104,19 @@ to society goes unproduced, so total surplus is lower [2].
 - Naming only one or two of the price mechanism's three functions (signalling, incentive, rationing) when a question asks for all of them.
 - Claiming a definite direction for both price *and* quantity when demand and supply shift simultaneously — only one of the two is certain unless the relative size of each shift is also given.
 - Answering the extended part (g) at only an "explain" level, without a final judgement that directly compares the two systems.
+
+## Frequently asked questions
+
+**How is IB Economics Paper 2 structured?**
+Paper 2 offers a choice of one question from two, each split into parts (a) to (g) totalling 40 marks. Part (g), worth 15 marks, is the extended evaluation part.
+
+**How is IB Economics Paper 1 structured?**
+Paper 1 offers a choice of one question from three, each split into part (a) for 10 marks and part (b) for 15 marks.
+
+**What should a fully labelled demand and supply diagram include?**
+Label price on the vertical axis and quantity on the horizontal axis, label each curve, and mark the original and new equilibrium price and quantity. Explaining a change in words only, when a diagram is asked for, loses marks.
+
+**How do you answer a 15-mark evaluate question in IB Economics?**
+Go beyond explaining: weigh arguments on both sides, apply them to the question, and finish with a judgement that directly answers it. Stopping at an "explain" level without a final judgement is a common way to lose marks.
 
 For condensed recall notes on this topic, see the [Demand, Supply and Market Equilibrium revision notes](/resources/ib-dp-economics-demand-supply-equilibrium-revision-notes/).

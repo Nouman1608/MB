@@ -127,6 +127,20 @@ Read the [study guide](/resources/ib-dp-economics-balance-of-payments/) or the [
 - Assuming depreciation must cure a deficit, with no elasticities or time lag.
 - Listing implications of a deficit with no judgement about size, cause or financing.
 
+## Frequently asked questions
+
+**How do you find the financial account balance from the other accounts?**
+The three accounts sum to zero, so the financial account equals minus the sum of the current account and the capital account. For example, a current account of −44 and a capital account of +1 give a financial account of +43.
+
+**How do you express a current account balance as a percentage of GDP?**
+Divide the current account balance by GDP and multiply by 100, keeping the sign. State whether the result is a surplus or a deficit and give the units.
+
+**What should a currency market diagram show for the balance of payments?**
+Label the exchange rate on the vertical axis and the quantity of the currency on the horizontal axis, draw the demand and supply curves, and mark the equilibrium. If the rate is held above equilibrium, show the excess supply of the currency.
+
+**What are common mistakes in IB Economics balance of payments questions?**
+Common slips include writing "deficit in the balance of payments" without naming an account, reversing credits and debits, getting the sign of the financial account wrong, and assuming depreciation must cure a deficit with no mention of elasticities or the time lag.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ib-dp-economics-balance-of-payments-revision-notes/) and the [study guide](/resources/ib-dp-economics-balance-of-payments/).

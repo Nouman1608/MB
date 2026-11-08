@@ -226,6 +226,20 @@ State the assumption that the same rate would apply.
 - Writing a real-world example without explaining how it relates to the question.
 - Forgetting to link a strategy to the barrier it addresses.
 
+## Frequently asked questions
+
+**What is the difference between economic growth and economic development?**
+Economic growth means more output. Economic development means better lives, including health, education and freedom, so one can happen without the other.
+
+**What is the difference between a poverty cycle and a poverty trap?**
+A poverty cycle is the loop of linked factors, such as low income, low saving and low investment, that keeps people poor. A poverty trap is the situation that results, which is hard to leave.
+
+**What is the difference between the World Bank and the IMF?**
+The World Bank lends and gives technical help for development projects. The International Monetary Fund lends to governments with balance of payments problems, usually with conditions attached.
+
+**What is microfinance?**
+Microfinance means small loans and savings services for people excluded from formal banks. It is one of the institutional changes listed under sub-topic 4.10 of the IB DP Economics guide.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020). These notes cover sub-topics 4.9 and 4.10.

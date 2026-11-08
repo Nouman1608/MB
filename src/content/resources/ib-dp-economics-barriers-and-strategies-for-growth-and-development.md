@@ -211,6 +211,23 @@ For the Sustainable Development Goals, compare chosen countries on selected goal
 - Calling aid, FDI or privatisation simply good or bad, with no strengths and limitations.
 - Confusing the debt service ratio with the size of the debt.
 
+## Frequently asked questions
+
+**What are the barriers to economic growth and development in IB Economics?**
+The IB DP Economics guide lists economic barriers such as inequality, poor infrastructure, low human capital, dependence on primary products, informal economies, capital flight, indebtedness and geography, plus political and social barriers such as weak institutions, gender inequality, corruption and unequal political power.
+
+**Why is dependence on primary products a barrier to development?**
+Primary goods often have volatile prices, low value added and weak long-run demand growth. When most export earnings come from one product, a fall in its price sharply cuts export earnings, tax revenue and investment.
+
+**How does corruption hold back development?**
+Bribes act like an arbitrary tax, public funds are diverted, investors are deterred and trust in the state weakens.
+
+**How do you judge which barrier to development is most significant?**
+Consider its size, whether it is a root cause or a symptom, the country context and how it interacts with other barriers. Weak institutions, for example, can explain corruption, capital flight and informality together.
+
+**Is government intervention or the market better for development?**
+Markets bring efficiency, competition and FDI, but under-supply merit goods and ignore equity. Intervention can fund education, health and infrastructure, but governments may lack capacity or face corruption, so the best mix depends on the country's institutions, the barrier targeted and the time frame.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020). This page covers sub-topics 4.9 and 4.10.

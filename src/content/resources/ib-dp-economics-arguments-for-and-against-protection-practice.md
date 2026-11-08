@@ -149,6 +149,20 @@ Evaluation: the answer depends on whether protection is temporary and targeted [
 - Listing arguments instead of weighing them against each other.
 - A conclusion that restates the arguments and takes no position.
 
+## Frequently asked questions
+
+**How do you calculate tariff revenue when the tariff is a percentage?**
+Turn the percentage tariff into a per-unit amount by multiplying it by the world price, then multiply by the quantity imported after the tariff. Using the pre-tariff import quantity is a common error.
+
+**How do you calculate the cost to consumers of each job saved by protection?**
+Work out the extra amount consumers pay because of the higher price, which is the price rise times the quantity bought, then divide by the number of jobs protected.
+
+**How are IB Economics discuss and evaluate questions on protection marked?**
+Longer answers are marked against markbands, not point by point. Credit goes to answers that weigh arguments against each other, apply them to the case and reach a supported position, rather than listing arguments.
+
+**Why should balance of payments answers mention retaliation?**
+A tariff may cut imports, but trading partners can retaliate with their own barriers, which reduces exports and can undo the improvement. Ignoring this is a common way to lose marks.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ib-dp-economics-arguments-for-and-against-protection-revision-notes/) and [study guide](/resources/ib-dp-economics-arguments-for-and-against-protection/).

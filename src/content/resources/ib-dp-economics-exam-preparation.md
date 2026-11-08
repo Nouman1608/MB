@@ -9,13 +9,15 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 5
-description: "Paper-by-paper exam preparation for IB Diploma Programme Economics -- diagram practice, evaluation-writing strategy, HL Paper 3's policy focus, a worked scenario and a before/during-exam checklist."
+description: "IB DP Economics exam preparation, paper by paper: diagram practice, evaluation strategy, the HL Paper 3 policy focus, a worked scenario and an exam checklist."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 The [full syllabus guide](/resources/ib-dp-economics-syllabus-guide/) sets out what each paper
@@ -127,6 +129,23 @@ requires applying theory quickly to unfamiliar, often data-rich policy scenarios
 pressure, rather than recalling and applying theory in the more general way Papers 1 and 2 test. 5.
 State the relevant theory, build a diagram-supported argument for the claim, introduce a genuine
 counter-argument or limitation, then reach an explicit, reasoned judgement.
+
+## Frequently asked questions
+
+**How many papers are there in IB DP Economics?**
+SL students sit Paper 1 and Paper 2, three hours in total and 70% of the grade. HL students also sit Paper 3, a policy paper, taking external assessment to four hours forty-five minutes and 80% of the HL grade.
+
+**How is IB Economics Paper 1 structured?**
+Paper 1 lasts 1 hour 15 minutes and is worth 25 marks. You answer one question from a choice of three, in two parts: part (a) for 10 marks and part (b) for 15 marks.
+
+**How should you structure an evaluate answer in IB Economics?**
+State the relevant theory, build a diagram-supported argument for the claim, add a genuine counter-argument or limitation, and finish with an explicit, reasoned judgement.
+
+**Why are diagrams so important in IB Economics exams?**
+Diagrams are assessed as part of the answer in their own right, so an unlabelled diagram or a shift drawn in the wrong direction loses its marks even if the written explanation is correct.
+
+**How should HL students prepare for Paper 3?**
+Practise reading short, data-rich policy scenarios, identifying which syllabus units they draw on, and building a diagram-supported answer under timed conditions.
 
 ## Official syllabus
 

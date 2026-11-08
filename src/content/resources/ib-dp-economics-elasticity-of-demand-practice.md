@@ -142,6 +142,20 @@ Elastic demand means the percentage rise in quantity exceeds the percentage fall
 - Treating revenue as profit in a discussion.
 - Answering "classify" with only "normal" and no mention of the size of YED.
 
+## Frequently asked questions
+
+**How do you find a missing quantity using PED?**
+Rearrange the formula: percentage change in quantity demanded = PED × percentage change in price. Then apply that percentage change to the original quantity.
+
+**Should you keep the minus sign when quoting PED?**
+These IB DP Economics pages keep the sign in the working and judge elastic or inelastic by the size of the value ignoring the sign. Check which convention your teacher expects, and never quote a size such as 0.6 and then call demand elastic.
+
+**What does "classify" need in a YED question?**
+Give both the sign and the size: a negative YED means an inferior good, a YED between 0 and 1 means an income inelastic necessity, and a YED above 1 means an income elastic good. Writing only "normal" misses the size.
+
+**What are common mistakes in IB Economics elasticity calculations?**
+Frequent slips include measuring percentage changes from the end figure instead of the start, putting the price change over the quantity change, and treating revenue as profit in a discussion.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ib-dp-economics-elasticity-of-demand-revision-notes/) and the [study guide](/resources/ib-dp-economics-elasticity-of-demand/).
