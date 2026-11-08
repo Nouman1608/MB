@@ -270,6 +270,20 @@ When a question asks you to assess or evaluate, weigh the elasticity against som
 - Forgetting that a negative YED means an inferior good.
 - Giving one-sided policy answers: tax and subsidy effects depend on both the elasticity and the aim.
 
+## Frequently asked questions
+
+**What is the difference between PED and YED?**
+Price elasticity of demand (PED) measures how strongly quantity demanded responds to a change in the good's own price. Income elasticity of demand (YED) measures how strongly quantity demanded responds to a change in consumers' incomes.
+
+**Why is price elasticity of supply usually positive?**
+Supply curves slope upwards, so a rise in price leads producers to supply more. The percentage changes in price and quantity supplied have the same sign, giving a positive PES.
+
+**Is an inferior good a low-quality good?**
+No. An inferior good is one with a negative income elasticity of demand, meaning demand falls as income rises. The label is about how demand responds to income, not about quality or price.
+
+**Which elasticities are in the Edexcel IGCSE Economics specification?**
+The Pearson Edexcel International GCSE Economics (4EC1) specification, section 1.1.4, covers price elasticity of demand, price elasticity of supply and income elasticity of demand, including how to calculate, interpret and use each one.
+
 ## Official syllabus
 
 Source: Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, section 1.1.4 Elasticity.

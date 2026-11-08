@@ -142,6 +142,20 @@ These questions cover statements 2.2.2 d), e) and f) of the Pearson Edexcel Inte
 - Leaving out workings in calculations.
 - Ending an evaluation without a decision.
 
+## Frequently asked questions
+
+**How do you tell whether a trading bloc creates or diverts trade?**
+Compare the prices including any tariff before and after the bloc forms. If a high-cost home producer is replaced by a cheaper partner, trade is created; if a cheaper outsider is replaced by a dearer partner, trade is diverted.
+
+**What must a definition of a customs union include?**
+It must say that members remove tariffs on each other's goods and apply one common external tariff to goods from non-members. Leaving out the common external tariff is a common way to lose the mark.
+
+**How do you calculate the fall in export earnings when one product's price falls?**
+Find the earnings from that product as a share of total exports, apply the price fall to that part only, then work out the new total and the percentage change from the original total.
+
+**What mistakes do students make on WTO questions?**
+Common errors are describing the WTO as a trading bloc, saying it forces members to obey or bans all tariffs, and naming its actions without developing them. The WTO rules on disputes and may authorise retaliation, but it has no power to force compliance.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns/).

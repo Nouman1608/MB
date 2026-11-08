@@ -133,6 +133,23 @@ Judgement: it depends on how fast prices are rising and how much slack there is 
 - Writing generic points that ignore the country or situation in the question.
 - Giving an evaluation with no conclusion, or one that does not follow from the points.
 
+## Frequently asked questions
+
+**How do you calculate income tax when there are tax bands?**
+Work out the tax on each band separately by multiplying the income in that band by its rate, then add the bands together. Net pay is gross pay minus total tax, and the average tax rate is total tax divided by gross pay, multiplied by 100.
+
+**How do you work out whether a government has a fiscal deficit or a surplus?**
+Add up total government revenue and total government spending, then subtract one from the other. If spending is larger, the gap is a fiscal deficit; if revenue is larger, it is a fiscal surplus.
+
+**What do you need for full marks on a "What is meant by fiscal policy" question?**
+A two-part definition: the tools (government spending and taxation) and the purpose (influencing the economy or meeting macroeconomic objectives). Naming only one part, or writing just "government policy", loses marks.
+
+**What are the most common mistakes in Edexcel IGCSE Economics fiscal policy questions?**
+Common slips include mixing up direct and indirect taxes, confusing the deficit with the national debt, using the wrong base in a percentage, and stopping an analysis chain before it reaches the objective named in the question.
+
+**How should you answer an evaluate question on fiscal policy?**
+Give the case for and against using the facts of the country in the question, then reach a supported judgement. Say what the outcome depends on, such as how much spare capacity there is or how fast prices are rising.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses/) and the [revision notes](/resources/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses-revision-notes/).

@@ -139,6 +139,23 @@ Links: [study guide](/resources/edexcel-igcse-economics-free-trade-protectionism
 - Ignoring retaliation when judging a current account measure.
 - Ending with a conclusion that restates the question without choosing.
 
+## Frequently asked questions
+
+**How do you calculate tariff revenue?**
+Multiply the tariff per unit by the quantity of imports after the tariff has been added. A common mistake is to use the imports before the tariff, which gives too high a figure.
+
+**Does a quota raise money for the government?**
+Not by itself. The gap between the higher home price and the world price goes to whoever holds the import licences, so the government gains only if it sells those licences.
+
+**How do you define dumping for full marks?**
+Dumping is exporting a good at a price below its cost of production, or below the price charged in the exporter's own market. Writing only "cheap imports" misses the comparison of price with cost or home price.
+
+**What should a tariff diagram show in Edexcel IGCSE Economics?**
+Label the price and quantity axes, the demand curve, the home supply curve, a horizontal world price line and a second line at the world price plus the tariff. Mark home supply, demand and imports at both prices.
+
+**Why might a tariff fail to reduce a current account deficit?**
+If demand for imports is price inelastic, spending on imports falls only a little when their price rises. Trading partners may also retaliate with their own tariffs, which reduces exports.
+
 ## Next steps
 
 - Revisit the [study guide](/resources/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy/) for any question that cost you marks.

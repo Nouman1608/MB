@@ -139,6 +139,20 @@ Judgement (3 marks): weigh the two sets using the case [1]; name a deciding fact
 - Describing the problem for the home country when the question asks about the host.
 - Concluding "it depends" without naming what it depends on.
 
+## Frequently asked questions
+
+**How do you calculate the landed cost of an imported good?**
+Add the factory price, the transport cost and the tariff. When the tariff is a percentage of the factory price, work it out as that percentage of the factory price rather than adding the percentage to transport.
+
+**How do you calculate a percentage change in Economics?**
+Divide the change by the original (earlier) figure and multiply by 100. Using the later figure as the base is a common way to lose the mark, and a fall should be stated as a fall or a negative number.
+
+**How do you get full marks when writing about MNC jobs?**
+Do not just write "jobs". Build a chain: the plant creates direct jobs, workers earn wages, and those wages are spent locally, which raises demand for local shops and suppliers.
+
+**What is the difference between tax avoidance and tax evasion?**
+Tax avoidance uses legal rules to reduce a tax bill, for example by moving profit to a low-tax country. Tax evasion is illegal. The Edexcel IGCSE Economics specification names avoiding paying taxes as a disadvantage of MNCs.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct/).

@@ -225,6 +225,20 @@ The specification describes how the command words work. Use these as a guide to 
 - Giving a calculation answer without working.
 - Ending an "Evaluate" answer without a supported judgement.
 
+## Frequently asked questions
+
+**What is unemployment in Edexcel IGCSE Economics?**
+Unemployment means people who are able and willing to work, and are looking for work, but cannot find a job. In the Pearson Edexcel International GCSE Economics (4EC1) specification, low unemployment is point c) of section 2.1.1.
+
+**What is the ILO measure of unemployment?**
+Under the International Labour Organization measure, a person is unemployed if they have no paid work in the reference week, are available to start within about two weeks, and have actively looked for work in about the last four weeks.
+
+**What is the difference between cyclical and structural unemployment?**
+Cyclical unemployment comes from a fall in total demand, affects many industries together and eases when demand recovers. Structural unemployment comes from the decline of an industry or a skills mismatch, is concentrated in certain industries or regions and can last a long time.
+
+**What is the difference between seasonal and frictional unemployment?**
+Seasonal unemployment repeats because the work disappears for part of the year, as in tourism or farming. Frictional unemployment is the short time people spend moving between jobs or looking for a first job.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited: section 2.1.1 c), Low unemployment.

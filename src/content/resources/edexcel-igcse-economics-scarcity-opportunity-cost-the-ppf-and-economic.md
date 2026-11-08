@@ -218,6 +218,20 @@ The assumptions are useful when you need a clear prediction, and they are often 
 - Treating scarcity as a lack of money.
 - Saying all firms always maximise profit.
 
+## Frequently asked questions
+
+**What is opportunity cost?**
+Opportunity cost is the value of the next best alternative given up when a choice is made. It is one option only, not the total of everything else that could have been chosen.
+
+**Why is a PPF curved outwards?**
+Resources are not equally good at producing both goods, so as more of one good is made, more and more of the other must be given up. This rising opportunity cost makes the curve bow outwards from the origin.
+
+**What causes a PPF to shift outwards or inwards?**
+An outward shift comes from more or better resources, such as investment in capital, education and training, new mineral finds or better technology. An inward shift comes from losing resources, for example through war, natural disasters, depleted mines or workers leaving the country.
+
+**What assumptions do economists make about consumers and businesses?**
+Economists assume that consumers aim to maximise their benefit and businesses aim to maximise their profit. In practice, managers may aim for higher sales, and firms may care for customers or do charitable work instead.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited, sections 1.1.1 and 1.1.2.

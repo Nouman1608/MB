@@ -151,6 +151,20 @@ Higher rates raise the cost of borrowing [1]. Consumption and investment fall [1
 - Writing a long chain of reasoning with missing links.
 - Finishing an evaluation with no verdict, or a verdict that ignores the data given.
 
+## Frequently asked questions
+
+**How do you calculate the extra interest on a loan when interest rates rise?**
+Find the change in the rate in percentage points and multiply it by the amount borrowed. State the time period, such as a year or a month, because answers without one can lose marks.
+
+**How do you work out the expected cost of a fine?**
+Multiply the fine by the chance of being caught. A firm compares this expected fine, not the headline fine, with what it saves by breaking the rule.
+
+**How do you convert prices when an exchange rate changes?**
+To find what a home export costs abroad, multiply its home price by the exchange rate; to find what an import costs at home, divide its foreign price by the exchange rate. Reversing the multiply and divide steps is a common slip.
+
+**What do you need for a good evaluation of monetary policy in Edexcel IGCSE Economics?**
+Give both sides, use the data in the question, and reach a verdict. Say what the outcome depends on, such as whether inflation is demand-pull or cost-push, how much debt is on variable rates and how long the time lag is.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-igcse-economics-monetary-policy-and-government-controls-revision-notes/) and re-read the [study guide](/resources/edexcel-igcse-economics-monetary-policy-and-government-controls/).

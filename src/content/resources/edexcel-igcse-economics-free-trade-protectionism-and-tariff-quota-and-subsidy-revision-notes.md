@@ -219,6 +219,20 @@ Use the Country B data above where numbers are needed.
 - Missing units, such as thousand units or currency units.
 - Writing that a subsidy is free. Taxpayers pay.
 
+## Frequently asked questions
+
+**What are the advantages and disadvantages of free trade in Edexcel IGCSE Economics?**
+In the Pearson Edexcel International GCSE Economics (4EC1) specification, the advantages are lower prices and more choice for consumers, lower input costs for firms and wider markets for businesses. The disadvantages are foreign competition harming domestic businesses and rising unemployment in affected industries.
+
+**What is an infant industry?**
+An infant industry is a young industry whose unit costs are still high, so it cannot yet compete with established foreign rivals. Protection is meant to be temporary shelter while growing output brings its costs down.
+
+**What is the difference between a tariff, a quota and a subsidy?**
+A tariff is a tax on imported goods, a quota is a limit on the quantity that can be imported, and a subsidy is government money paid to home producers to cut their costs. A tariff and a quota raise the price buyers pay, while a subsidy keeps the price unchanged or lower.
+
+**Who loses from a subsidy to home producers?**
+Taxpayers, because the government has to pay for it, and that money has an opportunity cost. Home firms and consumers gain, since the price does not rise.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited. Section 2.2.2 a), b) and c).

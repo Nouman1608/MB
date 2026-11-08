@@ -140,6 +140,20 @@ A balanced answer reaches a judgement, for example that the size and cause of th
 - Applying a price rise to total costs instead of to the imported part.
 - Writing a conclusion in the evaluation that is not supported by the points above it.
 
+## Frequently asked questions
+
+**How do you calculate the current account balance?**
+Work out the visible balance (goods exports minus goods imports) and the invisible balance (services exports minus services imports), then add them. Always give the sign and say whether the result is a deficit or a surplus.
+
+**Is a foreign tourist spending money in your country an export or an import?**
+It is an invisible export, because a service is sold and money comes into your country. A resident who holidays abroad is an invisible import.
+
+**How do you work out how long foreign reserves will last?**
+Divide the reserves by the yearly current account deficit, assuming reserves alone fund the deficit. For example, reserves of 30 billion and a deficit of 12 billion a year last 2.5 years.
+
+**What are common mistakes in Edexcel IGCSE Economics current account questions?**
+Frequent errors include giving a balance with no sign or label, mixing up exports and imports for services, multiplying instead of dividing in an exchange rate conversion, and applying a cost rise to total costs instead of only the imported part.
+
 ## Next steps
 
 - Read the [revision notes](/resources/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments-revision-notes/).

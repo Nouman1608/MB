@@ -135,6 +135,20 @@ Country B produces rice and textiles. Its production possibilities (thousands of
 - Giving a reason why consumers or firms depart from the assumptions with no development.
 - Writing an evaluation answer with no judgement at the end.
 
+## Frequently asked questions
+
+**How do you identify the opportunity cost in an exam question?**
+Rank the options and pick the single next best alternative that is given up. Do not list every alternative, and do not give the price paid, because the opportunity cost is the thing sacrificed.
+
+**How do you calculate opportunity cost from a PPF table?**
+Find how much of one good is given up when output of the other good rises between two points, then divide by the extra units gained. This gives the opportunity cost per unit, which usually rises as you move along the curve.
+
+**How should you answer a question about why consumers do not maximise benefit?**
+Name a specific reason from the Edexcel specification, such as habit, poor calculation of costs and benefits, or copying others, and develop it using the facts of the question. Writing only "consumers are irrational" earns little credit.
+
+**What are the most common mistakes in Edexcel IGCSE Economics PPF questions?**
+Common slips include treating a point inside the curve as unobtainable, showing growth as a movement along the curve instead of a shift, and naming a cause of growth without linking it to resources and output.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic/).

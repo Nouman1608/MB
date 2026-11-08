@@ -263,6 +263,23 @@ An evaluation answer weighs points and reaches a supported conclusion. Useful po
 - Describing only the first step of a chain and not reaching the named objective.
 - Calling a surplus always good. It can reduce demand.
 
+## Frequently asked questions
+
+**What is the difference between a fiscal deficit and the national debt?**
+A fiscal deficit is the gap between government spending and revenue in one year, which is a flow. The national debt is the total owed, a stock built up by adding past deficits together.
+
+**How can fiscal policy reduce unemployment?**
+Higher government spending or lower taxes raise total demand, so firms produce more and hire more workers. Public works such as road building also create jobs directly.
+
+**What is crowding out?**
+Crowding out is when large government borrowing pushes up interest rates, which raises firms' borrowing costs and reduces private investment. It is one of the possible harms of a fiscal deficit.
+
+**Can a fiscal surplus be bad for the economy?**
+Yes. A surplus comes from taxing more, spending less or both, which takes demand out of the economy and may slow growth and raise unemployment. Spending cuts to health, education or infrastructure can also reduce long-run output.
+
+**Why does only part of a tax cut add to domestic demand?**
+Households save some of their extra income and spend some of it on imports, which leaks out of the economy. Only the remaining spending on domestic goods and services adds to domestic demand.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, February 2026, published by Pearson Education Limited, section 2.1.2 a). Your teacher or Pearson's website has the official text.

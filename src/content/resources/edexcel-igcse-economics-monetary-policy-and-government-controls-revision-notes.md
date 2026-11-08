@@ -268,6 +268,20 @@ For an extended answer, make a point, develop it with "so" links, then weigh it.
 - Dropping the units or the time period (a year or a month) in a calculation.
 - Judging a policy without saying what it depends on, such as the cause of inflation.
 
+## Frequently asked questions
+
+**What is monetary policy in Edexcel IGCSE Economics?**
+Monetary policy is the central bank's use of changes in interest rates to influence the economy, such as spending, prices and jobs. In the Pearson Edexcel International GCSE Economics (4EC1) specification it is part of 2.1.2 Government policies, with asset purchasing and government controls.
+
+**What is the difference between the nominal and the real interest rate?**
+The nominal interest rate is the rate in money terms. The real interest rate is roughly the nominal rate minus inflation, so a 6% rate with 4% inflation gives a real rate of about 2%.
+
+**What is the difference between a fine and a pollution permit?**
+A fine punishes a firm after it breaks a rule. A pollution permit sets a limit before pollution happens, allowing the holder to release only a set amount.
+
+**What is the difference between regulation and legislation?**
+Regulation means rules on how firms must behave, enforced by a public body, such as safety standards or waste limits. Legislation means laws passed by the government that make acts legal or illegal. Both need enforcement.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), Specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited. Section 2.1.2 Government policies, parts b) and d).

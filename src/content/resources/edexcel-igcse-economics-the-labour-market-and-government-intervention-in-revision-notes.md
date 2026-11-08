@@ -296,6 +296,20 @@ At 12, employment falls from 500 to 400 (−20%). Wage bill: 10 × 500 = 5,000 b
 - Explaining one policy when asked to evaluate between two.
 - Ending an Evaluate answer without a conclusion.
 
+## Frequently asked questions
+
+**What is derived demand for labour?**
+Labour demand is derived because firms hire workers to make goods and services, so the demand for labour follows from the demand for the product it helps to make. This is part of section 1.2.5 of the Pearson Edexcel International GCSE Economics (4EC1) specification.
+
+**What is human capital?**
+Human capital is the skills, knowledge and health of the workforce. Education and training raise it, so output per worker rises and cost per unit falls.
+
+**What is the difference between a movement along and a shift of the labour demand curve?**
+A change in the wage moves along the demand curve. A change in another factor, such as demand for the final product, substitutes like machines, or productivity, shifts the whole curve.
+
+**What factors affect the supply of labour?**
+The main factors are population size, migration, age distribution, retirement and school-leaving ages, female participation, skills and qualifications, and how easily workers can move location or type of work.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited: sections 1.2.5 The labour market and 1.2.6 Government intervention.
