@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-1-non-fiction-texts-and-transactional-writing-4ea1"
+  - qualification: "igcse"
+    topic: "component-1-non-fiction-texts-and-transactional-writing-4ea1"
+    subtopic: "section-a-non-fiction-texts-4ea1"
+  - qualification: "igcse"
+    topic: "component-1-non-fiction-texts-and-transactional-writing-4ea1"
+    subtopic: "section-b-transactional-writing-4ea1"
 description: "Condensed recall notes on reading non-fiction, language analysis, comparison and transactional writing for Edexcel International GCSE English Language 4EA1."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+  - qualification: "igcse"
+    topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+    subtopic: "section-a-poetry-and-prose-texts-4ea1"
+  - qualification: "igcse"
+    topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+    subtopic: "section-b-imaginative-writing-4ea1"
 description: "Anthology poetry and prose analysis paired with imaginative writing -- Component 2 of Pearson Edexcel International GCSE English Language A (4EA1), the examined alternative to Component 3's non-exam assessment."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
