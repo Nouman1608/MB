@@ -28,7 +28,7 @@ description: "Revision notes for IB DP History HL Paper 3: the four regional opt
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the regional section lists and Paper 3 rules against the IB History guide (first assessment 2017); this page deliberately names content areas, not official section titles."
+reviewNote: "Check the regional section lists and Paper 3 rules against the IB History guide (first assessment 2017); this page deliberately names content areas, not official section titles. 2026-11-08 recheck: added essay skeleton."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -101,6 +101,13 @@ You studied three Europe sections: Russia to 1924, Europe and the First World Wa
 1. **Fit to evidence:** pick the question where you can name five or six precise pieces of evidence in planning.
 2. **Clear judgement:** avoid a question if you cannot write a one-line thesis within two minutes.
 3. **Time:** 150 / 3 = 50 minutes each; never "borrow" from the third essay.
+
+## Essay skeleton for a 50-minute Paper 3 answer
+
+1. **Introduction (5 minutes):** define the key term in the question, set the date range and state your thesis.
+2. **Three or four analytical paragraphs (35 minutes):** one factor or argument each, with precise evidence and a mini-judgement.
+3. **Counter-argument (included in the body):** the strongest case against your thesis, and why it is weaker.
+4. **Conclusion (5 minutes):** answer the question directly, weighing the factors.
 
 ## Common mistakes / exam traps
 
