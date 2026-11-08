@@ -98,6 +98,16 @@ These questions cover **sections 3.2.4.3 Free-trade agreements including the Eur
 - Writing about globalisation in general when the question names a particular country or group.
 - Missing the moral or ethical angle when the question asks for it.
 
+## Frequently asked questions
+
+**What is the difference between free trade and a free-trade agreement?** Free trade is trade between countries without barriers such as tariffs and quotas. A free-trade agreement is a deal between a group of countries to remove or reduce those barriers between themselves, while each may keep barriers against non-members.
+
+**Is the EU still on the AQA GCSE Economics specification after Brexit?** Yes. Section 3.2.4.3 names free-trade agreements "such as the EU", so you should know the significance and benefits of EU membership as an example, and you can use the UK's departure in 2020 as context.
+
+**How do I calculate the price of an import after a tariff?** Multiply the original price by (1 + the tariff rate). A 15% tariff on a 300-unit good gives 300 × 1.15 = 345 units.
+
+**What do examiners mean by moral, ethical and sustainability considerations?** Issues such as low wages and poor conditions in overseas factories, child labour, and the environmental cost of transporting goods long distances. Explain who is affected and why it matters.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-free-trade-agreements-and-globalisation-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-free-trade-agreements-and-globalisation/).

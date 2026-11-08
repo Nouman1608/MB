@@ -177,9 +177,9 @@ These extra questions go deeper into price stability, one of the four objectives
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other/).
 - Check coverage on the [checklist](/checklists/aqa/gcse/economics/) and see the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/).
-- Take one of the [all free 10-minute diagnostics](/diagnostics/).
+- Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Want a teacher's help? [Book a free trial class](/trial/).
 
 ## Official syllabus
 
-AQA GCSE Economics (8136) specification, for first teaching from September 2017, published by AQA: section 3.2.2.1 Economic objectives of the government.
+AQA GCSE Economics (8136) specification, for first teaching from September 2017, published by AQA: sections 3.2.2.1 Economic objectives of the government and 3.2.2.4 Inflation and price stability.

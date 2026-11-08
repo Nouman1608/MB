@@ -96,6 +96,16 @@ A) Medium of exchange  B) Unit of account  C) Store of value  D) Means of deferr
 - Giving the Bank of England's role as "printing money" without mentioning interest rates or stability.
 - Writing one-sided answers to evaluation questions.
 
+## Frequently asked questions
+
+**What are the four functions of money in the AQA specification?** A medium of exchange, a store of value, a unit of account and a means of deferred payment. Learn an everyday example of each, because multiple-choice questions often describe a situation and ask which function it shows.
+
+**How does inflation affect money as a store of value?** If prices rise, each pound buys fewer goods, so money kept as cash loses real value. To find the real value of cash after inflation, divide by (1 + the inflation rate): £500 after 8% inflation is worth 500 ÷ 1.08 = £463 in the original prices.
+
+**What is the difference between a commercial bank and a building society?** A commercial bank is a company owned by shareholders and aims to make a profit. A building society is a mutual, owned by its members (savers and borrowers), and traditionally specialises in savings and mortgages.
+
+**How do banks make a profit from lending?** They charge borrowers a higher interest rate than they pay savers. The difference between the interest received and the interest paid covers the bank's costs and provides its profit.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-money-and-the-financial-sector-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-money-and-the-financial-sector/).
