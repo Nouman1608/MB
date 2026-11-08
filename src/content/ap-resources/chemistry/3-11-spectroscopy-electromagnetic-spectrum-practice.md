@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All compounds labelled with a letter are fictional, and their data are invented for practice. Approximate region boundaries for every question: microwave 1 mm to 1 m; infrared 700 nm to 1 mm; visible 400 nm to 700 nm; ultraviolet 10 nm to 400 nm. 1 mm = 10⁻³ m, 1 μm = 10⁻⁶ m, 1 nm = 10⁻⁹ m.

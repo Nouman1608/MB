@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. The bead in Question 6 is invented. Assumptions: **no calculator** except in Questions 3 and 6; exact answers unless a calculator is allowed, then three decimal places. Notation: π ∫ (a to b) [R(x)² − r(x)²] dx means π times the definite integral from x = a to x = b; R is the outer radius and r the inner radius. This set is for both Calculus AB and Calculus BC students.

@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **Course note.** This guide is for the **calculus-based** Physics C: Electricity and Magnetism course, Topic 11.5. It turns the loops and junctions of Topic 11.2 and Ohm's law from Topic 11.3 into a method for solving circuits with several resistors. Unless a question says otherwise, treat every battery, wire and meter as **ideal**. Circuits with batteries of different emf connected in parallel are outside this course.

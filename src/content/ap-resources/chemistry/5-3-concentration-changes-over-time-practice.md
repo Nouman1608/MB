@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. All reactions and data are invented unless a real isotope is named. Data for every question: [A]ₜ − [A]₀ = −kt; ln[A]ₜ − ln[A]₀ = −kt; 1/[A]ₜ − 1/[A]₀ = kt; t½ = 0.693/k. Temperature is constant in every question.

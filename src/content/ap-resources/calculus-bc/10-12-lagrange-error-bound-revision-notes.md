@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the reasoning, the number-line diagram and worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/10-12-lagrange-error-bound-study-guide/). **BC-only material.** You need Taylor polynomials (10.11) and the alternating series error bound (10.10); see the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

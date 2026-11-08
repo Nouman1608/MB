@@ -33,10 +33,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This review pulls together the five topics of Unit 3 (Work, Energy, and Power). Read the big ideas and table, then try the seven mixed-topic questions **without notes**. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s² and ignore air resistance unless told otherwise. If you have not yet done the [Unit 3 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-3-diagnostic/), do it first.

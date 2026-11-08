@@ -33,10 +33,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This review pulls Unit 5 (Torque and Rotational Dynamics) together. Read the big ideas and the table, then try the seven questions **without notes**. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s². Strings are light and do not slip or stretch. If you have not yet done the [Unit 5 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-5-diagnostic/), do it first.

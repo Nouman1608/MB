@@ -23,10 +23,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 **BC-only material.** Work through the list without notes. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/calculus-bc/10-3-nth-term-test-divergence-study-guide/); Practice = [practice questions](/advanced-course-resources/calculus-bc/10-3-nth-term-test-divergence-practice/). Prerequisites (Topics 1.15, 4.7, 10.1 and 10.2) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

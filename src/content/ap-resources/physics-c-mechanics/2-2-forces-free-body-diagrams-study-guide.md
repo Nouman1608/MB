@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses**, and both have a Topic 2.2 with the same title and the same diagram rules. This guide is the **calculus-based** one. It writes forces in unit-vector notation and treats a force that changes with time, which prepares you for the time-, position- and velocity-dependent forces later in the unit. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/2-2-forces-free-body-diagrams-study-guide/); do not mix the two when you revise.

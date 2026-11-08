@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ameer Hamza"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: χ² = Σ (o − e)² ÷ e; degrees of freedom = number of categories − 1; critical values at p = 0.05 are 3.84 (1 df), 5.99 (2 df) and 7.81 (3 df); recombination frequency = recombinants ÷ total × 100%, and 1% = 1 map unit. All organisms with letter-named genes, and all data sets, are fictional.

@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 3.3 called Potential Energy. This guide is the **calculus-based** one. It builds each potential energy from an integral of force, gets forces back as derivatives, and uses the shape of U(x) to find and classify equilibrium positions. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/3-3-potential-energy-study-guide/); do not mix the two when you revise. This topic follows [Topic 3.2, Work](/advanced-course-resources/physics-c-mechanics/3-2-work-study-guide/).

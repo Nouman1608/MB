@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ameer Hamza"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: Ψ = Ψp + Ψs; Ψs = −iCRT; R = 0.0831 L bar mol⁻¹ K⁻¹; T in kelvin = °C + 273; i = 1 for sucrose, 2 for NaCl and 3 for CaCl₂. A calculator is assumed. Keep full calculator values until the last step. All data sets are fictional.

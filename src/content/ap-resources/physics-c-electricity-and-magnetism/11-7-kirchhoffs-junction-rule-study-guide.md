@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **Course note.** This guide is for the **calculus-based** Physics C: Electricity and Magnetism course, Topic 11.7. The loop rule (Topic 11.6) told you how potential changes round a closed path. The junction rule tells you how current divides where wires meet. Together they let you solve circuits that series and parallel rules cannot handle alone. As in the rest of Unit 11, batteries, wires and meters are ideal unless a question says otherwise.

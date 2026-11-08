@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This guide is for the **algebra-based Physics 1 course**. It uses algebra and graphs only. It brings together two ideas from earlier in Unit 6: the total kinetic energy of something that moves and spins ([Topic 6.1](/advanced-course-resources/physics-1/6-1-rotational-kinetic-energy-study-guide/)), and energy and angular momentum transfer by torques ([Topics 6.2 to 6.4](/advanced-course-resources/physics-1/6-4-conservation-angular-momentum-study-guide/)).

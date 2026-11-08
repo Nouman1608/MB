@@ -23,10 +23,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Work through the list without notes or a calculator. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/calculus-ab/7-7-finding-particular-solutions-initial-conditions-study-guide/); Practice = [practice questions](/advanced-course-resources/calculus-ab/7-7-finding-particular-solutions-initial-conditions-practice/). This topic is shared by Calculus AB and Calculus BC.

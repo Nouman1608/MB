@@ -29,10 +29,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: Wien's constant b = 2.898 × 10⁻³ m·K; Stefan–Boltzmann constant σ = 5.67 × 10⁻⁸ W/(m²·K⁴); every object is an ideal blackbody; λ_max = b/T and P = σAT⁴, with T in kelvin. The stars in these questions are invented. A scientific calculator is assumed. Round only at the end.

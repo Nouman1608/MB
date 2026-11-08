@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this fits with Physics 1.** Physics C: Mechanics and Physics 1 are **separate courses**. Physics 1 meets only the simple pendulum formula, in its [Topic 7.2 study guide](/advanced-course-resources/physics-1/7-2-frequency-period-shm-study-guide/). This guide is the **calculus-based** treatment: it derives the motion of any rigid pendulum from Newton's second law in rotational form, then shows the simple pendulum and the torsion pendulum as cases of the same idea.

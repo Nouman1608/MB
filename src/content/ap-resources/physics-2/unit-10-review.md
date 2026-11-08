@@ -33,10 +33,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 The questions in this review are **original Marlbridge practice questions**, not past exam questions, and each combines two or more topics. The rubrics are a **suggested Marlbridge rubric**, not official scoring. Data: k = 9.0 × 10⁹ N·m²/C²; ε₀ = 8.85 × 10⁻¹² C²/(N·m²); e = 1.60 × 10⁻¹⁹ C; mₑ = 9.11 × 10⁻³¹ kg; mₚ = 1.67 × 10⁻²⁷ kg. Potential is zero very far from all charges. All data are invented.

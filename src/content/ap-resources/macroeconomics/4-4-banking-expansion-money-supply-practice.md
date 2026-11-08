@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Salman Ahmad"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All questions use **Valdoria**, a fictional country whose currency is the **valda (VD)**; all banks and figures are fictional. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Unless a question says otherwise, assume banks lend all their excess reserves, every loan is fully redeposited, and the public holds no extra currency.

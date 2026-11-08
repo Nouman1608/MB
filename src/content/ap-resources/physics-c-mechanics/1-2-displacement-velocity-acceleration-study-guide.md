@@ -38,10 +38,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 1.2 with the same title. This guide is the **calculus-based** one. It defines velocity and acceleration as derivatives, uses integrals to go back from acceleration to position, and handles acceleration that changes with time. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/1-2-displacement-velocity-acceleration-study-guide/); do not mix the two when you revise.

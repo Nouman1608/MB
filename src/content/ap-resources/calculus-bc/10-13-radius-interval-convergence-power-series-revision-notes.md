@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the number-line diagram and worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/10-13-radius-interval-convergence-power-series-study-guide/). **BC-only material.** Prerequisites (geometric series 10.2, p-series 10.5, alternating series test 10.7, ratio test 10.8) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data (Pauling electronegativities, no unit): H 2.20, B 2.04, C 2.55, N 3.04, O 3.44, F 3.98, Si 1.90, P 2.19, S 2.58, Cl 3.16, Br 2.96, I 2.66, Ca 1.00. Experimental data in Questions 6 and 7 are invented for practice.

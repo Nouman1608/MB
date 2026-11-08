@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 6.3 called Angular Momentum and Angular Impulse. This guide is the **calculus-based** one. It writes angular momentum as the vector product r × p, integrates torques that change with time, and derives τ_net = dL/dt from Newton's second law. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/6-3-angular-momentum-angular-impulse-study-guide/); do not mix the two when you revise.

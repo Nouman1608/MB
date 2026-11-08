@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the derivations, the partial-sum graph and worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/10-14-finding-taylor-maclaurin-series-function-study-guide/). **BC-only material.** Prerequisites (Taylor polynomials 10.11, radius and interval 10.13, geometric series 10.2) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 2.8 called Spring Forces. This guide is the **calculus-based** one. It covers the same ideal spring and Hooke's law, then adds combinations of springs in series and in parallel, derived from first principles, and treats the spring constant as a slope that can change for a nonideal spring. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/2-8-spring-forces-study-guide/); do not mix the two when you revise. This topic follows [Topic 2.7, Kinetic and Static Friction](/advanced-course-resources/physics-c-mechanics/2-7-kinetic-static-friction-study-guide/).

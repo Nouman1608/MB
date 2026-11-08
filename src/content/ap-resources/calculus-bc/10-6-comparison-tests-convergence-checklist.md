@@ -23,10 +23,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 **BC-only material.** Work through the list without notes. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/calculus-bc/10-6-comparison-tests-convergence-study-guide/); Practice = [practice questions](/advanced-course-resources/calculus-bc/10-6-comparison-tests-convergence-practice/). Prerequisites (Topics 1.15, 10.2, 10.3 and 10.5) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

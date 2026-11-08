@@ -33,10 +33,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This review pulls the four topics of Unit 4 (Linear Momentum) together. Read the big ideas and the table, then try the seven questions **without notes**. Each one combines two or more topics. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. Use g = 9.8 m/s². Units are SI; tracks and air tables are level and frictionless unless stated. If you have not yet done the [Unit 4 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-4-diagnostic/), do it first.

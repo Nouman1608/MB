@@ -23,10 +23,10 @@ keyPoints:
 version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 **BC-only material.** Work through the list without notes. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/calculus-bc/6-11-integration-by-parts-study-guide/); Practice = [practice questions](/advanced-course-resources/calculus-bc/6-11-integration-by-parts-practice/). Prerequisites (Topics 2.8, 6.7, 6.8, 6.9) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

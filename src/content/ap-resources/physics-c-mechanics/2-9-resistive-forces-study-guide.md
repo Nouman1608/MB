@@ -41,10 +41,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **A topic only in the calculus-based course.** Physics 1 has no Topic 2.9 on resistive forces. Here the force depends on velocity, so Newton's second law becomes a **differential equation**, and you need calculus to solve it. This topic follows [Topic 2.8, Spring Forces](/advanced-course-resources/physics-c-mechanics/2-8-spring-forces-study-guide/), where the force depended on position instead.

@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. **BC-only material.** Assumptions: angles in radians; e ≈ 2.71828; every series starts at n = 1 unless stated; no calculator except in Question 7(d), where decimals should be given to 3 decimal places. Notation: "∫ from 1 to ∞ of f(x) dx" means the limit as b → ∞ of ∫ from 1 to b of f(x) dx, and "[F(x)] from a to b" means F(b) − F(a).

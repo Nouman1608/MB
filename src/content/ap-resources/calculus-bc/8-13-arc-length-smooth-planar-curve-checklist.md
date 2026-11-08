@@ -23,10 +23,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 **BC-only material.** Work through the list without notes. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/calculus-bc/8-13-arc-length-smooth-planar-curve-study-guide/); Practice = [practice questions](/advanced-course-resources/calculus-bc/8-13-arc-length-smooth-planar-curve-practice/). Prerequisites (chain rule, Mean Value Theorem 5.1, Riemann sums 6.2 to 6.6, FTC 6.7) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

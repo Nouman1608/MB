@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Use this page after you have studied the topics of Unit 3, Differentiation: Composite, Implicit, and Inverse Functions, or after the [Unit 3 diagnostic](/advanced-course-resources/calculus-ab/unit-3-diagnostic/). The unit is shared by Calculus AB and Calculus BC, and every question here is for both courses. The questions below are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not official scoring. No calculator for any question; angles are in radians.

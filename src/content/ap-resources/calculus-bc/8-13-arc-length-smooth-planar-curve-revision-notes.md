@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the derivation, the diagrams and worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/8-13-arc-length-smooth-planar-curve-study-guide/). **BC-only material.** Prerequisites (chain rule, Mean Value Theorem 5.1, Riemann sums 6.2 to 6.6, FTC 6.7) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

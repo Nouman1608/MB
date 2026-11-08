@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: k_B = 1.38 × 10⁻²³ J/K; mass of a helium atom = 6.65 × 10⁻²⁷ kg; mass of an argon atom = 6.63 × 10⁻²⁶ kg; every gas is ideal and every collision with a wall is elastic; K_avg = (3/2)k_B T = ½m v_rms² with T in kelvin. A scientific calculator is assumed. Round only at the end.

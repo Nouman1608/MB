@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: H 1.008, C 12.01, N 14.01, O 16.00, Na 22.99, Cl 35.45, K 39.10 g mol⁻¹; N_A = 6.022 × 10²³ mol⁻¹. Assume every solute dissolves completely, and that volumes add when dilute aqueous solutions are mixed.

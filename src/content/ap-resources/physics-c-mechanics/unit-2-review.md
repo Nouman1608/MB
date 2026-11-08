@@ -33,10 +33,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This review pulls together the ten topics of Unit 2 (Force and Translational Dynamics). Read the big ideas and the table, then try the seven questions **without notes**. Each combines two or more topics. These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric, not official scoring. If you have not yet done the [Unit 2 diagnostic](/advanced-course-resources/physics-c-mechanics/unit-2-diagnostic/), do it first.

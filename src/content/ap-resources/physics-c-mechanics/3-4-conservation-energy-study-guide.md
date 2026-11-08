@@ -41,10 +41,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 3.4 called Conservation of Energy. This guide is the **calculus-based** one. It applies energy conservation to potential energy functions U(x), to the general gravitational form −GMm/r, and to friction that varies with position, using derivatives and integrals. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/3-4-conservation-energy-study-guide/); do not mix the two when you revise. This topic follows [Topic 3.3, Potential Energy](/advanced-course-resources/physics-c-mechanics/3-3-potential-energy-study-guide/).

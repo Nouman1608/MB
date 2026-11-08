@@ -33,10 +33,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 The questions in this review are **original Marlbridge practice questions**, not past exam questions, and each combines two or more topics. The rubrics are a **suggested Marlbridge rubric**, not official scoring. Data: c = 3.00 × 10⁸ m/s; n for air = 1.00; n for water = 1.33. Angles are measured from the normal. Sign conventions: f > 0 for a concave mirror or converging lens; sᵢ > 0 for a real image. All data are invented.

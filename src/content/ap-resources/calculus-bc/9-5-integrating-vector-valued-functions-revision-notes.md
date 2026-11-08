@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the explanations, the path diagram and three worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/9-5-integrating-vector-valued-functions-study-guide/). **BC-only material.** Prerequisites (vector derivatives 9.4, FTC 6.7, antiderivatives and substitution 6.8–6.9, particular solutions 7.7) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

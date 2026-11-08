@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data and assumptions for every question: e = 1.60 × 10⁻¹⁹ C; electron mass m_e = 9.11 × 10⁻³¹ kg; proton mass m_p = 1.67 × 10⁻²⁷ kg; k = 8.99 × 10⁹ N·m²/C². Ignore gravity. Any charges that create the field are fixed in place. A scientific calculator is assumed. Round only at the end.

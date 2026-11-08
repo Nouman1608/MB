@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: h = 6.63 × 10⁻³⁴ J·s = 4.14 × 10⁻¹⁵ eV·s; c = 3.00 × 10⁸ m/s; 1 eV = 1.60 × 10⁻¹⁹ J; hc ≈ 1.24 × 10³ eV·nm, so λ (nm) ≈ 1240 ÷ E (eV). Visible light runs from about 400 nm to 700 nm. All atoms and gases in these questions are **invented** for practice.

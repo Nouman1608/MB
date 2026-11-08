@@ -22,10 +22,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Work through the list without notes. Use a calculator only where a statement mentions one. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/calculus-ab/8-12-volume-washer-method-revolving-around-study-guide/); Practice = [practice questions](/advanced-course-resources/calculus-ab/8-12-volume-washer-method-revolving-around-practice/). This topic is shared by Calculus AB and Calculus BC.

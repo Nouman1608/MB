@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the reasoning behind the test, the ratio graph and full worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/10-8-ratio-test-convergence-study-guide/). **BC-only material.** Prerequisites (geometric series 10.2, nth term test 10.3, p-series 10.5, comparison tests 10.6) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

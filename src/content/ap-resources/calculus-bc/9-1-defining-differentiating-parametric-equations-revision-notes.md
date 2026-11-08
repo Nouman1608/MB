@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the chain-rule derivation, the graphs and the worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/9-1-defining-differentiating-parametric-equations-study-guide/). **BC-only material.** Prerequisites (basic derivatives 2.5–2.7, chain rule 3.1, tangent lines) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

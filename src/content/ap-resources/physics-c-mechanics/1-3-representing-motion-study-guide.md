@@ -39,10 +39,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 1.3 called Representing Motion. This guide is the **calculus-based** one: slopes are derivatives and areas are integrals, so you can handle graphs of any shape, not only straight lines. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/1-3-representing-motion-study-guide/). This topic builds directly on [Topic 1.2](/advanced-course-resources/physics-c-mechanics/1-2-displacement-velocity-acceleration-study-guide/).

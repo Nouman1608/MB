@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ameer Hamza"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Formulas: cube SA = 6s², V = s³; sphere SA = 4πr², V = (4/3)πr³; rectangular solid SA = 2lh + 2lw + 2wh, V = lwh; cylinder SA = 2πrh + 2πr², V = πr²h. A calculator is assumed. All data sets and organisms are fictional.

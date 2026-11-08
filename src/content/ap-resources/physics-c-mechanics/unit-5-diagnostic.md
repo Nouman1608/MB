@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **What this is for.** This diagnostic shows which Unit 5 (Torque and Rotational Dynamics) topics to revisit. These are **original Marlbridge practice questions**, not past exam questions. It is not calibrated against exam results, so it **gives no predicted score**.

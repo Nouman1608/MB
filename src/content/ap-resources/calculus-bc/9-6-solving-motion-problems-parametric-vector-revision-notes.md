@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the explanations, the hovercraft diagram and the worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/9-6-solving-motion-problems-parametric-vector-study-guide/). **BC-only material.** Prerequisites (vector derivatives 9.4, vector integrals 9.5, arc length 9.3, line motion 4.2 and 8.2) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

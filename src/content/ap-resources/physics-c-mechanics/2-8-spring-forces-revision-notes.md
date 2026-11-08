@@ -25,10 +25,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap for the **calculus-based** course (separate from Physics 1, which does not combine springs). For explanations, diagrams and worked examples, use the [full study guide](/advanced-course-resources/physics-c-mechanics/2-8-spring-forces-study-guide/).

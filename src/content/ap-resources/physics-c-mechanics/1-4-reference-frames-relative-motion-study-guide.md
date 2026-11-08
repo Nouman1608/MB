@@ -39,10 +39,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 1.4 with this title. In Physics 1, adding velocities between frames stays in one dimension. In this **calculus-based** course you add them as full vectors in two or three dimensions, and you prove the acceleration rule by differentiating. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/1-4-reference-frames-relative-motion-study-guide/); do not mix the two when you revise.

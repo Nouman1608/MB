@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. This set is for the calculus-based course. Data: μ₀/4π = 1 × 10⁻⁷ T·m/A, e = 1.60 × 10⁻¹⁹ C, mₚ = 1.67 × 10⁻²⁷ kg. Use right-handed axes (î × ĵ = k̂). Ignore gravity. Speeds are much less than the speed of light. A scientific calculator is assumed; round only at the end.

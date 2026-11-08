@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Nouman Ahmed"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All experimental data are invented for practice. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Data for every question: C 12.01, O 16.00, Ca 40.08 g mol⁻¹; molar volume of a gas at the lab conditions used here = 24.5 L mol⁻¹.

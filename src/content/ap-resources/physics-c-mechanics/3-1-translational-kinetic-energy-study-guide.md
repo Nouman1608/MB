@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 3.1 called Translational Kinetic Energy. This guide is the **calculus-based** one. It uses the same definition, then finds kinetic energy from position and velocity functions, uses the rate of change dK/dt, and works with velocity components. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/3-1-translational-kinetic-energy-study-guide/); do not mix the two when you revise. This topic opens Unit 3 and follows [Topic 2.10, Circular Motion](/advanced-course-resources/physics-c-mechanics/2-10-circular-motion-study-guide/).

@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the graph, the telescoping method and full worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/10-1-defining-convergent-divergent-infinite-series-study-guide/). **BC-only material.** Prerequisites (limits at infinity 1.15, partial fractions 6.12, laws of logarithms) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

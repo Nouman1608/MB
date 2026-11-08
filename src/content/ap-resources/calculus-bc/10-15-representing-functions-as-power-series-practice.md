@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. **BC-only material.** Assumptions: series are about x = 0 unless a centre is given; angles in radians; no calculator for Questions 1–5; in Questions 6 and 7 a calculator may be used for decimal values, given to 6 decimal places. Notation: "Σ from n = 0 to ∞" is an infinite sum, and "∫ from a to b of f(t) dt" is a definite integral. You may use the series for 1/(1 − x), eˣ, sin x and cos x without proof.

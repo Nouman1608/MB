@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The mark points are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. This set is for the calculus-based Physics C: Mechanics course. Use G = 6.67 × 10⁻¹¹ N·m²/kg², g = 9.8 N/kg at Earth's surface, Earth's mass 5.97 × 10²⁴ kg and Earth's radius 6.37 × 10⁶ m. Planets, moons and asteroids named here are fictional, and all spheres are uniform unless stated. Air resistance is negligible. Round final answers to 2 significant figures unless told otherwise.

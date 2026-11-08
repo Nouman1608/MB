@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the rectangle diagram and worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/10-4-integral-test-convergence-study-guide/). **BC-only material.** Prerequisites (decreasing functions 5.3, substitution 6.9, parts 6.11, improper integrals 6.13, nth term test 10.3) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

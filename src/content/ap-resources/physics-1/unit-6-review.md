@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This review is for the **algebra-based Physics 1 course**, Unit 6 (Energy and Momentum of Rotating Systems). Do the [unit diagnostic](/advanced-course-resources/physics-1/unit-6-diagnostic/) first if you have not yet done it.

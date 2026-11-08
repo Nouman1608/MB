@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For the proofs, the partial-sum graph and worked examples, use the [full study guide](/advanced-course-resources/calculus-bc/10-5-harmonic-series-p-series-study-guide/). **BC-only material.** Prerequisites (partial sums 10.1, geometric series 10.2, nth term test 10.3, integral test 10.4) are on the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

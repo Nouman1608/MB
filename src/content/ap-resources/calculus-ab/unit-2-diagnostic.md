@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Muhammad Ghazali Siddiqui"
+reviewedDate: 2026-11-08
 ---
 
 **What this is for.** Use this diagnostic to find which topics of Unit 2, Differentiation: Definition and Fundamental Properties, to revisit. There is one question per topic, and two for Topics 2.2, 2.4 and 2.7. These are **original Marlbridge practice questions**, not past exam questions. They are not calibrated, and your result is not a predicted score.

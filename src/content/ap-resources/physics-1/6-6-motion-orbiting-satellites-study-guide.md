@@ -43,10 +43,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 This guide is for the **algebra-based Physics 1 course**. It uses algebra and graphs only. It brings together circular orbits from [Topic 2.9](/advanced-course-resources/physics-1/2-9-circular-motion-study-guide/), gravitational potential energy from [Topic 3.3](/advanced-course-resources/physics-1/3-3-potential-energy-study-guide/) and conservation of angular momentum from [Topic 6.4](/advanced-course-resources/physics-1/6-4-conservation-angular-momentum-study-guide/). The planets, moons and probes in the examples are fictional.

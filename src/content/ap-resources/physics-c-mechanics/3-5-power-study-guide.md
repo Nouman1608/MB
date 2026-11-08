@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Iftikhar Azeemi"
+reviewedDate: 2026-11-08
 ---
 
 **How this differs from the Physics 1 version.** Physics C: Mechanics and Physics 1 are **separate courses** that both have a Topic 3.5 called Power. This guide is the **calculus-based** one. It defines instantaneous power as a derivative, derives P = F·v as a dot product, and integrates power to find work and speed when the force or the power changes with time. The algebra-based treatment is in the [Physics 1 study guide](/advanced-course-resources/physics-1/3-5-power-study-guide/); do not mix the two when you revise. This topic follows [Topic 3.4, Conservation of Energy](/advanced-course-resources/physics-c-mechanics/3-4-conservation-energy-study-guide/).
