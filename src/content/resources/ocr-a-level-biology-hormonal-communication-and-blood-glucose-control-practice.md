@@ -155,6 +155,23 @@ At 12 mmol dm⁻³, adding diazoxide, a drug that holds potassium channels open,
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does the pancreas convert glucose to glycogen?**
+No. The pancreas secretes insulin and glucagon, but the conversion of glucose to glycogen happens in liver and muscle cells. Saying the pancreas does it is a common way to lose marks.
+
+**How do you remember glycogenesis, glycogenolysis and gluconeogenesis?**
+Glycogenesis makes glycogen from glucose, glycogenolysis breaks glycogen down ("lysis" means splitting) to glucose, and gluconeogenesis makes new glucose from non-carbohydrates such as amino acids and glycerol.
+
+**How do you finish a negative feedback answer?**
+Describe the change, the detection, the response and then the return of blood glucose to the set point, followed by reduced secretion of the hormone. Leaving the loop unfinished is a frequent reason for losing marks.
+
+**What should an evaluate question on diabetes treatments include?**
+Give points for and against each treatment, such as insulin from genetically modified bacteria or stem cells, and then reach a judgement. One-sided answers do not score full marks.
+
+**Which specification topic do these questions cover?**
+They cover OCR A Level Biology A (H420) topic 5.1.4 Hormonal communication: endocrine signalling, the adrenal glands, the pancreas, blood glucose control and diabetes.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR. These questions cover 5.1.4(a) to 5.1.4(f).

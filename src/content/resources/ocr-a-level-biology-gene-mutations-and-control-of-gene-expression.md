@@ -205,6 +205,23 @@ Development is a balance between division and death. In the roundworm *Caenorhab
 - Saying introns are removed from DNA. They are removed from the primary mRNA.
 - Confusing apoptosis with damage-caused cell death. Apoptosis is controlled and tidy.
 
+## Frequently asked questions
+
+**What is a gene mutation?**
+A gene mutation is a permanent alteration to the order of nucleotides in a gene. The three types named in OCR A Level Biology A (H420) are substitution, insertion and deletion of one or more nucleotides.
+
+**What is the difference between silent, missense and nonsense mutations?**
+A silent mutation changes a codon but not the amino acid, because the genetic code is degenerate. A missense mutation codes for a different amino acid, and a nonsense mutation creates a stop codon that ends translation early, giving a shorter polypeptide.
+
+**What mutation causes sickle cell anaemia?**
+The sickle cell allele has a substitution that changes the codon GAG for glutamic acid to GUG for valine at position 6 of the beta polypeptide of haemoglobin. The resulting haemoglobin S can form fibres in low oxygen and distort red blood cells.
+
+**Can a mutation be beneficial?**
+Yes. Mutations can be beneficial, neutral or harmful depending on how they change protein production and function; silent substitutions and changes in non-coding DNA are often neutral.
+
+**Do I need to learn specific transcription factors?**
+No. You need to explain the general role of transcription factors in eukaryotes, but the H420 specification states that you do not have to recall specific transcription factors.
+
 ## Official syllabus
 
 Source: OCR, A Level Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, module 6.1.1 Cellular control, learning outcomes (a) to (d).

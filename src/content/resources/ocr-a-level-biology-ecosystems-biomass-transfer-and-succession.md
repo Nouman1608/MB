@@ -263,6 +263,23 @@ For n = 8 the critical value at P = 0.05 is 0.738 (ignoring the sign). Since 0.9
 - Confusing nitrification with nitrogen fixation, or saying Nitrosomonas makes nitrate.
 - Saying a test "proves" something, instead of rejecting the null hypothesis.
 
+## Frequently asked questions
+
+**What is the difference between biotic and abiotic factors?**
+Biotic factors are caused by living things, such as predation, competition, disease and grazing. Abiotic factors are non-living conditions, such as temperature, light intensity, soil pH, water availability, salinity and wind speed.
+
+**Why does a calorimeter underestimate the energy in biomass?**
+Some heat escapes to the surroundings rather than warming the water, and combustion may be incomplete. Both mean the measured energy is lower than the true value.
+
+**What are pioneer species?**
+Pioneer species, such as lichens, algae, mosses or marram grass on dunes, are the first to colonise bare land in primary succession. They tolerate extreme conditions, and when they die and decompose they help form a thin soil that other species can colonise.
+
+**What is deflected succession?**
+Deflected succession happens when human activity, such as mowing, grazing, burning or ploughing, stops succession from reaching the climax community. Chalk grassland grazed by sheep stays as grassland, but shrubs and then woodland take over if grazing stops.
+
+**What is the difference between distribution and abundance?**
+Distribution is where a species is found and abundance is how many there are. Both are measured by sampling, as required by OCR A Level Biology A (H420) section 6.3.1(e), because counting every organism is not practical.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 6.3.1(a) to (e), Ecosystems.

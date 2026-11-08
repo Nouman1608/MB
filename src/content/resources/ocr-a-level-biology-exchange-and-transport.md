@@ -21,13 +21,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "exchange-and-transport-ocr-alevel-biology"
     subtopic: "transport-in-plants-ocr-alevel-biology"
-description: "Gas exchange, mass transport in animals, and transport in plants -- Module 3 of OCR A Level Biology A (H420), distinct from the site's existing guides to Foundations in Biology and Development of Practical Skills."
+description: "OCR A Level Biology A (H420) Module 3 guide to exchange surfaces, gas exchange, the heart, haemoglobin and transport in plants, with common mistakes to avoid."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Module 3: Exchange and Transport** in OCR A Level Biology A (H420), following the
@@ -176,3 +178,16 @@ level, and environment.
   <figcaption>Opposite flows keep a gradient along the whole lamella, so more oxygen is taken up.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why do larger organisms need specialised exchange surfaces?**
+As organisms get larger their surface area to volume ratio falls, and more active organisms need more oxygen and must remove more carbon dioxide. Together these make diffusion across the body surface too slow, so specialised exchange surfaces and transport systems are needed.
+
+**Why is the oxygen dissociation curve S-shaped?**
+The sigmoid shape reflects cooperative binding: once the first oxygen molecule binds to haemoglobin, it becomes easier for further oxygen molecules to bind. Each haemoglobin molecule can carry up to four oxygen molecules, one for each haem group.
+
+**What is mass transport?**
+Mass transport is the bulk movement of substances driven by pressure differences, rather than by diffusion alone. Examples are blood flow in the circulatory system and the movement of water in xylem and sugars in phloem.
+
+**How do insects exchange gases?**
+Insects use a tracheal system that carries air to the tissues. In larger or more active insects, abdominal muscle movements ventilate the tracheae, adding mass transport of air to simple diffusion along the tubes.

@@ -185,6 +185,23 @@ C  ATGAGGCTAGATTTCGATCCGATA
 * All free [10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the most common mistake when reading a Sanger sequencing result?**
+The detector reads the new strand, not the template, so students often give the wrong strand. If the template is asked for, write the complementary bases and reverse them so the answer runs 5′ to 3′.
+
+**How do you explain why a dideoxynucleotide stops a DNA strand growing?**
+State that it has no hydroxyl group on carbon 3 of its sugar, so no phosphodiester bond can form with the next nucleotide. Saying only that it "stops DNA polymerase" does not give the reason and usually misses the mark.
+
+**How should a DNA profile match probability be written?**
+If the question asks for "1 in n", convert the decimal probability into that form rather than leaving it as a decimal. Multiplying the frequencies at each locus is valid only if the loci are inherited independently.
+
+**Why does DNA move towards the anode in electrophoresis?**
+DNA is negatively charged because of its phosphate groups, so it moves towards the positive electrode. Proteins are treated with SDS so that they carry a negative charge too, which is a point students often forget.
+
+**Which specification content do these questions cover?**
+They cover OCR A Level Biology A (H420) section 6.1.3, learning outcomes (a) to (e): DNA sequencing, bioinformatics, DNA profiling, PCR and electrophoresis.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420) specification, Version 4.1, April 2026, for first assessment in 2025, published by OCR (Cambridge University Press and Assessment): module 6.1.3, learning outcomes (a) to (e).

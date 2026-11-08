@@ -240,6 +240,23 @@ proportion of polymorphic gene loci = number of polymorphic gene loci ÷ total n
 - Dividing by the wrong total in a proportion of polymorphic loci.
 - Suggesting a larger sample but not saying why it improves reliability.
 
+## Frequently asked questions
+
+**What is the difference between species richness and species evenness?**
+Species richness is the number of different species in a habitat, not the number of individuals. Species evenness is how close in number the populations of the different species are.
+
+**Is opportunistic sampling the same as random sampling?**
+No. Opportunistic sampling uses whatever positions are convenient or easy to reach, so it is quick but non-random and biased. Random sampling uses positions chosen by chance.
+
+**Do I need to memorise Simpson's Index formula for OCR?**
+No. The OCR A Level Biology A (H420) specification states that the formula will be provided where needed, but you must substitute into it accurately and interpret the result.
+
+**Why does a larger sample improve reliability?**
+A larger sample reduces the effect of chance unusual results, so the mean is more likely to represent the whole habitat. Say why it helps rather than simply suggesting a larger sample.
+
+**What does a high Simpson's Index value mean?**
+A value of D close to 1 indicates high diversity, with many species and individuals spread evenly between them. A low value suggests few species or a community dominated by one or two species.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 4.2.1(a) to (e), Biodiversity.

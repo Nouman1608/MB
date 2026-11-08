@@ -241,6 +241,23 @@ Idea: turn stem cells into beta cells and transplant them. Issues: rejection and
 - Calling Type 2 diabetes a simple lack of insulin.
 - Giving only advantages of stem cell treatment, with no mention of rejection, ethics or limited evidence.
 
+## Frequently asked questions
+
+**What is the difference between an endocrine and an exocrine gland?**
+An endocrine gland is ductless and secretes hormones directly into blood capillaries. An exocrine gland secretes through a duct; the pancreas has both kinds of tissue.
+
+**What is a second messenger?**
+A second messenger, such as cyclic AMP, is a molecule made inside a cell after a hormone binds to its receptor on the cell surface. It passes the signal on inside the cell.
+
+**What are the islets of Langerhans?**
+The islets of Langerhans are clusters of endocrine cells in the pancreas. Their alpha cells secrete glucagon and their beta cells secrete insulin.
+
+**What is a target cell?**
+A target cell has receptors with a shape complementary to a particular hormone, so it responds to that hormone while other cells ignore it.
+
+**What does topic 5.1.4 of OCR A Level Biology cover?**
+Topic 5.1.4 of OCR A Level Biology A (H420) covers endocrine communication, the adrenal glands, pancreas histology, blood glucose regulation, Type 1 and Type 2 diabetes, and potential treatments.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR. These notes cover 5.1.4(a) to 5.1.4(f).

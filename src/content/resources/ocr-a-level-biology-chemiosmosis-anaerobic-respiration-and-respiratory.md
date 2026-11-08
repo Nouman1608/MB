@@ -249,6 +249,23 @@ Carbon dioxide produced is proportional to 46 − 11 = 35 mm. RQ = 35 ÷ 46 = **
 - Writing RQ upside down.
 - Using diameter instead of radius in π r².
 
+## Frequently asked questions
+
+**What is the chemiosmotic theory in OCR A Level Biology?**
+The chemiosmotic theory states that energy released as electrons pass along an electron transport chain is used to pump protons across a membrane, building a proton gradient. Protons then flow back down the gradient through ATP synthase, and this flow drives the synthesis of ATP from ADP and inorganic phosphate.
+
+**Why does chemiosmosis stop when there is no oxygen?**
+Oxygen is the final electron acceptor at the end of the chain. Without it the last carrier cannot pass its electrons on, the chain backs up, reduced NAD and FAD are not reoxidised, and no more protons are pumped, so ATP synthesis by chemiosmosis stops.
+
+**What is the difference between anaerobic respiration in mammals and yeast?**
+In mammals, pyruvate accepts hydrogen from reduced NAD to form lactate, which can be converted back to pyruvate in the liver. In yeast, pyruvate is decarboxylated to ethanal, releasing carbon dioxide, and ethanal is then reduced to ethanol, which is not reversible; both routes regenerate NAD so that glycolysis can continue.
+
+**Why do lipids release more energy per gram than carbohydrates?**
+Lipid molecules have many more hydrogen atoms for each oxygen atom. More hydrogen means more reduced NAD and reduced FAD per gram, more protons pumped across the inner mitochondrial membrane and more ATP made, giving about 37 kJ per gram compared with about 17 kJ per gram for carbohydrate.
+
+**How do you calculate the respiratory quotient?**
+The respiratory quotient (RQ) is the carbon dioxide produced divided by the oxygen consumed over the same period, and it has no units. Typical values are about 1.0 for carbohydrate, 0.9 for protein and 0.7 for lipid, as required by section 5.2.2 of OCR A Level Biology A (H420).
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, published by OCR. This guide follows section 5.2.2 Respiration, learning outcomes (h) to (l).

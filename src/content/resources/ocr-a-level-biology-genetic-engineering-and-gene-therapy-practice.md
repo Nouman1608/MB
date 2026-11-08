@@ -165,6 +165,23 @@ These questions cover OCR A Level Biology A (H420), Version 4.1 (April 2026), mo
 - Take [all free 10-minute diagnostics](/diagnostics/) to find your weakest topics.
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How should the role of DNA ligase be described for the mark?**
+Say that DNA ligase forms phosphodiester bonds in the sugar-phosphate backbone, sealing the gene into the plasmid. Writing only that it "joins" or "sticks" the DNA is usually too vague.
+
+**How many fragments does a restriction enzyme digest give?**
+Two cuts in a linear DNA molecule give three fragments, but two cuts in a circular plasmid give only two. Mixing these up is a common error in digest calculations.
+
+**What should an evaluate question on genetic engineering include?**
+Give arguments on both sides and then reach a judgement. Listing advantages and disadvantages without a conclusion does not answer an evaluate question.
+
+**What is the key difference between somatic and germ line gene therapy in exam answers?**
+Only germ line changes, made to gametes, a zygote or an early embryo, are inherited by offspring; somatic therapy treats body cells and is not passed on. Treating the two as the same loses marks.
+
+**Which part of the H420 specification do these questions cover?**
+They cover OCR A Level Biology A (H420) section 6.1.3, learning outcomes (f) to (h): genetic engineering techniques, the ethics of genetic manipulation, and gene therapy.
+
 ## Official syllabus
 
 These questions follow OCR Level 3 Advanced GCE in Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR (Cambridge University Press & Assessment), module 6.1.3(f) to (h).

@@ -217,6 +217,20 @@ Hormone binds a surface receptor, so the cell makes **cAMP**. cAMP binds an inac
 - Giving a homeobox sequence and a Hox gene as the same thing.
 - Not giving units or working in a percentage question: write the formula, then the answer.
 
+## Frequently asked questions
+
+**What is the difference between a homeobox sequence and a Hox gene?**
+A homeobox is a DNA sequence that is similar and highly conserved in plants, animals and fungi. Hox genes are a group of genes that contain a homeobox and control the development of the body plan, so the two terms are not the same thing.
+
+**What are the three levels of control of gene expression for OCR A Level Biology?**
+OCR A Level Biology A (H420) section 6.1.1(b) covers control at the transcriptional level, such as the lac operon and transcription factors, the post-transcriptional level, such as removing introns from primary mRNA, and the post-translational level, such as the activation of proteins by cyclic AMP.
+
+**What is apoptosis?**
+Apoptosis is programmed, controlled cell death. It is not cell death caused by damage, and together with mitosis it shapes the body form during development.
+
+**How do you explain why a mutation is harmful?**
+Say how the change in the base sequence alters the amino acid sequence, and then how that changes the protein's structure or function, for example the shape of an enzyme's active site. Stating that a mutation is harmful without this link loses marks.
+
 ## Official syllabus
 
 Source: OCR, A Level Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, module 6.1.1 Cellular control, learning outcomes (a) to (d).

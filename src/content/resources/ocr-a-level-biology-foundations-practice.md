@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "foundations-in-biology-ocr-alevel-biology"
-description: "Original exam-style practice questions with full worked answers on microscopy and magnification, cell structure, biological molecules, and nucleic acids, for OCR A Level Biology A (H420)."
+description: "Exam-style questions with worked answers on microscopy, magnification, cell structure, biological molecules and nucleic acids for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -218,3 +220,20 @@ Question 18 tests the version of the magnification formula that students most of
 ## Approaching foundations in biology questions
 
 Before attempting any magnification calculation, identify which of the three quantities — image size, object size, or magnification — is missing, and rearrange the formula for that variable before substituting numbers, converting both given measurements to the same unit as the very first step. For questions on organelles, always pair a named structure with its function in the same sentence, since OCR mark schemes typically award separate marks for each and a correct name alone earns only partial credit. When a question asks about biological molecules, look for an opportunity to trace the answer back to a more fundamental principle — hydrogen bonding for water's properties, or the condensation/hydrolysis pair for how monomers and polymers interconvert — since this kind of explanatory depth is what distinguishes full-mark answers from ones that only state a fact without justifying it.
+
+## Frequently asked questions
+
+**Why do electron microscopes show more detail than light microscopes?**
+Electron microscopes have a much higher resolution than light microscopes, which is why they reveal organelle ultrastructure. Saying they show more detail only because they "magnify more" is a common way to lose the mark.
+
+**How do you avoid mistakes in magnification calculations?**
+Identify which of image size, object size or magnification is missing, rearrange the formula for it, and convert both given measurements to the same unit before substituting. Forgetting the unit conversion is one of the most frequent errors.
+
+**How should organelle questions be answered?**
+Pair each named structure with its function in the same sentence, because mark schemes typically credit the name and the function separately. A correct name alone usually earns only partial credit.
+
+**Which topics do these Foundations in Biology practice questions cover?**
+They cover the opening content of Module 2 of OCR A Level Biology A (H420): microscopy and magnification, cell structure, biological molecules, and nucleotides and nucleic acids. The set has a multiple-choice section followed by short-answer and extended questions.
+
+**How do you write full-mark answers about water's properties?**
+Link each property back to hydrogen bonding and the polarity of water molecules instead of listing properties as unconnected facts. This explanatory link is what separates full-mark answers from ones that only state a fact.

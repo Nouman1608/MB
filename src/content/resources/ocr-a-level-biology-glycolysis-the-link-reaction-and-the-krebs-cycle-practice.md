@@ -147,6 +147,23 @@ These questions cover learning outcomes 5.2.2(a) to 5.2.2(g) of the OCR A Level 
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where does glycolysis take place?**
+Glycolysis takes place in the cytoplasm, not in the mitochondrion. The link reaction and the Krebs cycle happen in the mitochondrial matrix.
+
+**Why do the link reaction and Krebs cycle numbers need doubling?**
+Each glucose molecule produces two pyruvate molecules, so the link reaction and the Krebs cycle each run twice per glucose. Forgetting to double the products is a common error in totals questions.
+
+**Does the link reaction make ATP?**
+No. The link reaction makes acetyl CoA, carbon dioxide and reduced NAD but no ATP directly. Saying it makes ATP is one of the most frequent mistakes on this topic.
+
+**How should decarboxylation and dehydrogenation be described?**
+Say what is removed: decarboxylation removes carbon dioxide, and dehydrogenation removes hydrogen, which is accepted by NAD or FAD. Using the terms without this detail can lose the mark.
+
+**Which learning outcomes do these questions test?**
+They test OCR A Level Biology A (H420) section 5.2.2, learning outcomes (a) to (g): why cells respire, the mitochondrion, glycolysis, the link reaction, the Krebs cycle, coenzymes and the site of oxidative phosphorylation.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: section 5.2.2, learning outcomes (a) to (g).
