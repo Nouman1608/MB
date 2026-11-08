@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-exploring-sociology-9292"
     subtopic: "differences-and-inequalities-9292"
-description: "Condensed notes on life chances, Marx, Weber, Davis and Moore, Walby, Crenshaw, du Bois and reducing inequality for OxfordAQA IGCSE Sociology 9292, section 3.2.1."
+description: "Notes on life chances, Marx, Weber, Davis and Moore, Walby, Crenshaw, du Bois and reducing inequality for OxfordAQA IGCSE Sociology 9292, section 3.2.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
@@ -110,6 +110,17 @@ roles, so inequality reflects merit. (2)
 - Treating race and ethnicity as identical.
 - Calling Weber a Marxist.
 - Naming a sociologist without stating their idea.
+
+## Frequently asked questions
+
+**How is Paper 2 of OxfordAQA International GCSE Sociology structured?**
+1 hour 30 minutes, 60 marks: Section A Differences and inequalities (22 marks), Section B Socialisation and social control (22 marks) and Section C Research methods (16 marks).
+
+**What is intersectionality?**
+The idea, associated with Crenshaw, that inequalities such as class, gender and ethnicity combine, so a person's life chances cannot be explained by one alone.
+
+**What counts as a life chance?**
+The specification lists employment, education, health, life expectancy and social mobility as areas of inequality in life chances.
 
 ## Self-test
 
