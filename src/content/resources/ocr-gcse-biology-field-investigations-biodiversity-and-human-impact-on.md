@@ -265,6 +265,19 @@ When evaluating, comment on sample size, repeats, control of other variables, an
   <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between distribution and abundance?**
+Distribution means where organisms are found, and abundance means how many there are. A field investigation measures one or both, often to relate them to an abiotic factor.
+
+**How do you carry out random sampling with quadrats?**
+Lay tape measures along two sides of the area to form axes, generate pairs of random numbers as coordinates, and place a quadrat at each coordinate to count the organisms.
+
+**Why do we use sampling in field investigations?**
+It is not possible to count every organism in a habitat, so you count in small, representative areas and scale up. The sample must be large enough and unbiased to give a good estimate.
+
+**Which maths skills are needed for this topic?**
+The OCR GCSE Biology A (J247) specification lists calculating arithmetic means, plotting graphs with suitable scales, using percentiles, extracting information from charts, graphs and tables, and understanding the principles of sampling.
 
 ## Official syllabus
 

@@ -242,6 +242,20 @@ Artery wall ÷ lumen = 1.2 ÷ 4.8 = 0.25. Vein wall ÷ lumen = 0.3 ÷ 6.0 = 0.05
 - Explaining slow capillary flow by narrow diameter alone. Use total cross-sectional area.
 - Writing "oxygen is carried in plasma". Oxygen is carried by haemoglobin in red cells.
 
+## Frequently asked questions
+
+**Why do large organisms need exchange surfaces and a transport system?**
+As an organism gets bigger, its surface area to volume ratio falls and cells in the middle are far from the surface, so diffusion alone is too slow. It needs an exchange surface with a large surface area and a transport system to carry substances around the body.
+
+**What substances are moved into and out of organisms?**
+The OCR GCSE Biology A (J247) specification lists oxygen, carbon dioxide, water, urea, mineral ions and dissolved food molecules.
+
+**What is the difference between arteries and veins?**
+Arteries carry blood away from the heart under high pressure and have thick, muscular walls. Veins carry blood back to the heart at lower pressure, with thinner walls, a wider lumen and valves to stop blood flowing backwards.
+
+**Is this topic on both tiers?**
+Yes. No statement in B2.2a to B2.2e is printed in bold, so all of this content is assessed in both Foundation and Higher Tier papers.
+
 ## Official syllabus
 
 This guide follows OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR: module B2.2, statements B2.2a to B2.2e.

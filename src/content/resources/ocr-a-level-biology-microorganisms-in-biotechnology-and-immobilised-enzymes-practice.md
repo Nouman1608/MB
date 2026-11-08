@@ -148,8 +148,8 @@ Multiply by the dilution factor and divide by the volume plated so that the answ
 **Why should zones of inhibition be compared by area?**
 When a question asks about the effect of an antibiotic, the area of the clear zone , found from πr², is a better measure than its diameter because it reflects the whole zone. Comparing diameters when area is asked for loses marks.
 
-**How should aseptic technique precautions be written?**
-Give a reason for each precaution, saying what it prevents, such as flaming the loop to kill microorganisms on it. Listing steps without reasons does not earn full marks.
+**How should a batch and continuous fermentation comparison be written?**
+Make each point about both methods, stating how batch and continuous fermentation differ for the same feature. Describing only one of them does not count as a comparison.
 
 **Which syllabus outcomes do these questions cover?**
 They cover OCR A Level Biology A (H420) learning outcomes 6.2.1(e) to (i): microorganisms in biotechnology, aseptic culture, growth curves, fermenters and immobilised enzymes.

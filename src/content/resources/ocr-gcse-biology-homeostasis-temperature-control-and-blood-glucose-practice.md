@@ -166,6 +166,23 @@ These questions cover statements B3.3a to B3.3e of module B3.3 in OCR GCSE (9-1)
 - Find your weak spots with the [free 10-minute diagnostics](/diagnostics/).
 - Want a teacher to go through your answers? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why should a response be linked to its effect?**
+Examiners want the effect as well as the response, for example how a change in skin blood flow alters heat transfer to the surroundings. Naming a response such as vasoconstriction with no effect usually loses a mark.
+
+**How does sweating cool the body?**
+Sweat cools the body only as it evaporates, because evaporation transfers energy from the skin to the surroundings. Saying sweating cools you without mentioning evaporation is incomplete.
+
+**What is the difference between glycogen and glucagon?**
+Glycogen is the storage carbohydrate made from glucose in the liver, while glucagon is a hormone. Mixing up the two names is a frequent mistake.
+
+**How should type 2 diabetes be described?**
+In type 2 diabetes the body's cells respond poorly to insulin; it does not mean there is no insulin at all. Giving "no insulin" as the cause is incorrect.
+
+**Which J247 statements do these questions cover?**
+They cover OCR GCSE Biology A (J247) statements B3.3a to B3.3e: homeostasis, temperature control, insulin, glucagon and diabetes, with glucagon Higher Tier only.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Module B3.3, statements B3.3a to B3.3e.

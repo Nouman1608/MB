@@ -185,8 +185,8 @@ A density-dependent factor, such as food supply, disease, predation or competiti
 **How should a predator-prey graph be described?**
 Describe the rise and fall of both populations and state the lag between the prey peak and the predator peak, using the years on the graph. Missing the lag is a common reason for losing marks.
 
-**What is the difference between conservation and preservation?**
-Conservation maintains ecosystems and biodiversity through active management while allowing sustainable human use. Preservation protects an area or species as it is, with human interference minimised or excluded.
+**How should conservation questions be answered?**
+Apply your reasons to the context given in the question, such as the named species or ecosystem, rather than giving general reasons for conservation. When asked to evaluate, finish with a judgement.
 
 **How should I read values from a logarithmic scale?**
 A value read from a logarithmic axis is not a count; convert it back before quoting a population size. Treating a log value as if it were a count is a common error.

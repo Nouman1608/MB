@@ -141,8 +141,8 @@ No. Antibodies are secreted by plasma cells, which develop from B lymphocytes. T
 **How should antibiotic resistance be explained?**
 Explain it through mutation and selection: a random mutation gives some bacteria resistance, the antibiotic kills the susceptible bacteria, and the resistant ones survive and reproduce. Saying the bacteria "get used to" the drug is incorrect.
 
-**How do I name a type of immunity correctly?**
-Use two words, one from active or passive and one from natural or artificial, for example "artificial active immunity" for vaccination. Giving only one word is incomplete.
+**How should rates be given in immunity data questions?**
+Give a rate with units that include time, for example arbitrary units per day. Using raw numbers when proportions or percentages are needed is another common mistake.
 
 **Which syllabus content do these questions cover?**
 They cover OCR A Level Biology A (H420) learning outcomes 4.1.1(f) to (n): lymphocytes, antibodies, types of immunity, vaccination, medicines and antibiotics.

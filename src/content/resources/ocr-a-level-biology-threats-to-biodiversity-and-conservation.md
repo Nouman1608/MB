@@ -212,8 +212,8 @@ Always round up because you cannot sow part of a seed. Seed banks regularly repe
 **What are the main threats to biodiversity in OCR A Level Biology?**
 The OCR A Level Biology A (H420) specification names human population growth, agriculture (monoculture) and climate change as the factors affecting biodiversity.
 
-**How does human population growth reduce biodiversity?**
-More people need more food, housing, water, fuel and materials, so habitats are destroyed or fragmented, resources are over-extracted, pollution increases and more carbon dioxide is released.
+**Does monoculture reduce biodiversity?**
+Yes. Agriculture, especially monoculture, is one of the three factors affecting biodiversity named in OCR A Level Biology A (H420) section 4.2.1(f), along with human population growth and climate change.
 
 **What are the three types of reason for maintaining biodiversity?**
 The specification asks for ecological, economic and aesthetic reasons for maintaining biodiversity.

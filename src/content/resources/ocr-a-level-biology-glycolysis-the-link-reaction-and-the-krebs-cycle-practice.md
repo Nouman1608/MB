@@ -149,8 +149,8 @@ These questions cover learning outcomes 5.2.2(a) to 5.2.2(g) of the OCR A Level 
 
 ## Frequently asked questions
 
-**Where does glycolysis take place?**
-Glycolysis takes place in the cytoplasm, not in the mitochondrion. The link reaction and the Krebs cycle happen in the mitochondrial matrix.
+**How should data be used in respiration data questions?**
+Quote values from the table or graph in your answer rather than describing the trend in words alone. Interpreting data without quoting any values is a common reason for losing marks.
 
 **Why do the link reaction and Krebs cycle numbers need doubling?**
 Each glucose molecule produces two pyruvate molecules, so the link reaction and the Krebs cycle each run twice per glucose. Forgetting to double the products is a common error in totals questions.

@@ -128,8 +128,8 @@ These questions follow the OCR A Level Biology A specification (H420), Version 4
 
 ## Frequently asked questions
 
-**How many peptide bonds are in a polypeptide?**
-A single polypeptide chain has one fewer peptide bond than it has amino acids, because each bond joins two neighbouring amino acids. Giving the same number of bonds as amino acids is a common error.
+**What is the difference between quaternary and tertiary structure?**
+Tertiary structure is the folding of a single polypeptide chain, while quaternary structure is the arrangement of two or more polypeptide chains together. Describing quaternary structure as the folding of one polypeptide is a common error.
 
 **What does the biuret test actually detect?**
 The biuret test detects peptide bonds, so it shows the presence of proteins and polypeptides. Saying it detects amino acids loses the mark.

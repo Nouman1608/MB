@@ -236,6 +236,20 @@ Worked reminder. Normal enzyme makes product at 3.0 units per minute; the varian
 - Writing "the mutation damages the enzyme" without the chain from amino acid sequence to shape to active site.
 - Mixing up coding and non-coding effects: non-coding variants change expression, not the amino acid sequence.
 
+## Frequently asked questions
+
+**What is a gene?**
+A gene is a section of DNA that codes for a protein. Loose definitions such as "a piece of chromosome" or "what you inherit" do not earn the mark.
+
+**What is the difference between homozygous and heterozygous?**
+Homozygous means having two identical alleles of a gene, such as GG or gg. Heterozygous means having two different alleles, such as Gg.
+
+**Does the dominant allele kill the recessive one?**
+No. The recessive allele is still present in a heterozygous organism; it is simply not expressed in the phenotype. Writing that the dominant allele "takes over" or "kills" it is incorrect.
+
+**Do most mutations change the phenotype?**
+No. Most mutations leave the phenotype unchanged, some influence it and very few determine it, as stated in OCR GCSE Biology A (J247) statement B5.1d.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR: module B5.1, statements B5.1a to B5.1e.

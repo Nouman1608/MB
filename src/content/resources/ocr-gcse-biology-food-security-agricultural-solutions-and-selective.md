@@ -233,6 +233,20 @@ Keeping wild relatives and seed banks preserves alleles that breeders can use la
 
 Test yourself with the [practice questions](/resources/ocr-gcse-biology-food-security-agricultural-solutions-and-selective-practice/) and check weak spots with the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is food security?**
+Food security means that people can reliably get enough safe, nutritious food. It falls when food demand rises faster than supply, or when supply becomes less reliable.
+
+**What factors affect food security?**
+The OCR GCSE Biology A (J247) specification names increasing human population, changing diets in wealthier populations, new pests and pathogens, environmental change, and the sustainability and cost of agricultural inputs.
+
+**Why does a meat-based diet need more farmland?**
+Animals are fed crops, and energy is lost at each stage of the food chain as heat from respiration, in waste and in parts of the animal that humans do not eat. So more land is needed to provide the same energy than with a plant-based diet.
+
+**Is genetic engineering covered in this food security guide?**
+No. Genetic engineering and gene technology are taught on a separate page. This guide covers outcomes B6.2a to B6.2c, none of which is Higher Tier only.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)*, Version 4.0 (August 2026), for first assessment in 2018, topic B6.2 Feeding the human race, outcomes B6.2a to B6.2c.

@@ -145,8 +145,8 @@ These questions follow the OCR *A Level Biology A* specification (H420, Version 
 **Which bond joins nucleotides in the same DNA strand?**
 Nucleotides in the same strand are joined by phosphodiester bonds. Hydrogen bonds join the complementary bases of the two strands, and mixing these up is the most common error on this topic.
 
-**How should the roles of helicase and DNA polymerase be described?**
-Name the bond each enzyme affects: helicase breaks the hydrogen bonds between bases, and DNA polymerase forms phosphodiester bonds between nucleotides. Describing them without the bond is usually too vague for the mark.
+**Why should DNA, gene and base not be used interchangeably?**
+They mean different things: DNA is the whole molecule, a gene is a section of DNA, and a base is one part of a nucleotide. Using the words interchangeably makes an answer inaccurate and can lose marks.
 
 **What is the difference between purines and pyrimidines?**
 Purines, adenine and guanine, have a double-ring structure. Pyrimidines, cytosine, thymine and uracil, have a single ring.

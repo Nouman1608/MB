@@ -235,8 +235,8 @@ D) The standard deviation of the data set **[1]**
 
 ## Frequently asked questions
 
-**What is the difference between accuracy and precision?**
-Accurate results are close to the true value, while precise results are repeat readings that are close to each other. Confusing the two is one of the most common errors in OCR A Level Biology A (H420) practical questions.
+**What do these practical skills practice questions cover?**
+They cover Module 1 practical skills for OCR A Level Biology A (H420): variables, reliability, validity, error, uncertainty and choosing graphs and statistical tests. The set has a multiple-choice section followed by short-answer and extended questions.
 
 **Do more repeats fix a systematic error?**
 No. Repeats improve reliability and reduce the effect of random error on the mean, but a systematic error needs the instrument to be recalibrated.
@@ -244,8 +244,8 @@ No. Repeats improve reliability and reduce the effect of random error on the mea
 **When should a bar chart not be used?**
 A bar chart should not be used when both variables are continuous; plot a line graph or scatter graph instead.
 
-**Should anomalous readings be included in a mean?**
-No. Identify and discard anomalous readings first, then calculate the mean from the remaining values.
+**Why should control variables be explained, not just named?**
+Say why each variable matters, that is, how it would affect the dependent variable if it changed. Naming control variables without this reason is a common way to lose marks in OCR A Level Biology A (H420).
 
 **How do you choose between a t-test and a correlation coefficient?**
 Use a t-test to compare two means, and a correlation coefficient to test for an association between two variables. Choosing the wrong one for the question is a common mistake.
