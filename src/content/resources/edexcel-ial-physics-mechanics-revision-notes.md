@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-mechanics-and-materials"
     subtopic: "mechanics"
-description: "Condensed recall notes on kinematics, projectiles, Newton laws, momentum and energy for Edexcel International A Level Physics YPH11."
+description: "Condensed recall notes on kinematics, projectiles, Newton's laws, momentum, moments, work and power for Edexcel International A Level Physics YPH11 Unit 1."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: labelled impulse as Unit 4 topic 4.3 content (not Unit 1); please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -92,13 +94,13 @@ d = 48 / 40 = 1.2 m
 </figure>
 
 
-## Momentum and impulse
+## Momentum (and a note on impulse)
 
 ```
-p = mv          impulse = Ft = delta-p
+p = mv          impulse = Ft = delta-p   (impulse: Unit 4, topic 4.3)
 ```
 
-Impulse is the **area under a force–time graph**.
+Unit 1 needs **p = mv** and **conservation of linear momentum in one dimension**. Impulse, FΔt = Δp, is listed in the specification under Unit 4 topic 4.3 Further Mechanics, not Unit 1; it is shown here because it links the two units. Impulse is the **area under a force–time graph**.
 
 **Momentum is conserved in all collisions; kinetic energy only in elastic ones.** In an inelastic collision the missing kinetic energy becomes thermal energy, sound and deformation.
 
