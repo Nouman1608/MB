@@ -21,10 +21,12 @@ syllabusTopics:
 description: "The four units of the IB Diploma Programme Economics syllabus -- Introduction to economics, Microeconomics, Macroeconomics and The global economy -- with the real HL-only content marked, for first assessment 2022."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: corrected IA portfolio rules (three different units excluding Unit 1, max 800 words, 45 marks, different key concept each) against the guide; please re-review."
 ---
 
 This guide covers all four units of the **IB Diploma Programme Economics**
@@ -160,13 +162,15 @@ secure.
 ## The internal assessment portfolio
 
 The IA is a portfolio of **three commentaries**, each based on a
-different section of the syllabus (one from Microeconomics, one from
-Macroeconomics, and one from either Introduction to economics or The
-global economy), each built around a published news article no more
-than one year old at the time of submission and roughly 800 words of
-commentary. Each commentary must apply a different economic concept
-or theory -- examiners specifically penalise near-duplicate concepts
-appearing across the three pieces. Because the commentaries draw on
+different unit of the syllabus excluding the introductory unit -- so in
+practice one each on Unit 2 (Microeconomics), Unit 3 (Macroeconomics)
+and Unit 4 (The global economy). Each commentary is built around a
+published extract from the news media and has a **maximum of 800
+words**; the whole portfolio is marked out of 45. Each of the three
+commentaries must use a **different key concept** (scarcity, choice,
+efficiency, equity, economic well-being, sustainability, change,
+interdependence or intervention) as the lens through which the extract
+is analysed. Because the commentaries draw on
 real, dated news articles, the same source-verification discipline
 that applies to written revision content applies here: cite the
 article's publication and date precisely, since a stale or

@@ -11,8 +11,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: replaced the fieldwork/primary-data-only IA description with the 2026 brief's open-ended individual investigation and added Paper 1/Paper 2 structure, durations and SL/HL weights from the 2026 subject brief; please re-review."
 ---
 
 Environmental Systems and Societies (ESS) is an interdisciplinary IB
@@ -83,19 +85,25 @@ extra depth and breadth within shared topics and three HL-only content
 areas SL students never study (see below).
 
 The internal assessment is worth 25% at SL and 20% at HL. It takes the
-form of an individual investigation, normally built around fieldwork,
-in which students formulate their own research question, collect
-primary data, apply relevant ESS techniques to analyse it, and draw
+form of an individual investigation, an open-ended task in which
+students formulate their own research question, gather and analyse
+data to answer it (fieldwork is a common route), and draw
 evidence-based conclusions in a written report capped at 3,000 words
 and around 10 teaching hours of work. Because ESS is designed to be
 studied as either a sciences or an individuals-and-societies subject,
-this fieldwork-based investigation is deliberately built to draw on
+this investigation is deliberately built to draw on
 methods from both disciplines rather than treating them separately --
 a strong investigation typically combines a scientific data-collection
 method (such as quadrat sampling or water-quality testing) with an
 analysis that also considers the social, economic or political
 dimensions of the issue under study, rather than treating the
-fieldwork as a purely scientific exercise.
+investigation as a purely scientific exercise.
+
+The written papers are Paper 1, built on data from one previously
+unseen case study (1 hour and 25% at SL; 2 hours and 30% at HL), and
+Paper 2, with short-answer and data-based questions in Section A and
+structured essays in Section B (2 hours at SL, 2 hours 30 minutes at
+HL, 50% at both levels).
 
 ## How HL extends beyond SL
 

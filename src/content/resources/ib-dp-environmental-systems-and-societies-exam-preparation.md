@@ -13,23 +13,35 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: replaced the fieldwork/primary-data-only IA description with the 2026 brief's open-ended individual investigation and added Paper 1/Paper 2 structure, durations and SL/HL weights from the 2026 subject brief; please re-review."
 ---
 
 The [assessment revision notes](/resources/ib-dp-environmental-systems-and-societies-assessment-revision-notes/)
-set out how ESS's written papers and fieldwork investigation are weighted. These notes turn that
+set out how ESS's written papers and individual investigation are weighted. These notes turn that
 into an exam-day plan -- specifically how to answer questions that deliberately combine scientific
 and societal reasoning -- with a worked scenario and a checklist, alongside the
 [full syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/) already
 on the site.
 
+## What are ESS Paper 1 and Paper 2?
+
+- **Paper 1** gives you data in a variety of forms on one previously unseen case study. All
+  questions are compulsory and test analysis and evaluation of that data. SL: 1 hour, 25%.
+  HL: 2 hours, 30%.
+- **Paper 2** has Section A (short-answer and data-based questions) and Section B (structured
+  essays, with a limited choice). SL: 2 hours. HL: 2 hours 30 minutes. 50% at both levels.
+
+For Paper 1, practise reading unfamiliar graphs, maps and tables quickly. For Paper 2 Section B,
+practise planning a structured essay in a few minutes.
+
 ## The core exam-preparation skill: answering across both strands
 
 Because ESS can count as a sciences subject, an individuals-and-societies subject, or both, its
-written papers are deliberately built to combine short-answer, data-based and extended-response
-questions drawing on scientific methodology **and** societal analysis side by side, rather than
-separating the two into different papers. The single most valuable exam-preparation habit is
+written papers deliberately draw on scientific methodology **and** societal analysis side by
+side, rather than separating the two into different papers. The single most valuable exam-preparation habit is
 therefore **checking every "evaluate" or "discuss" answer for both dimensions** before finishing it
 -- a strong answer on an environmental policy, for instance, weighs both its scientific
 effectiveness (does it actually reduce the measured environmental impact) and its social/economic
