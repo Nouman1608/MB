@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Twelve original AQA GCSE Chemistry 8462 Energy changes questions on temperature change, profiles, bond energies and cells, with fully marked answers."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -223,6 +225,20 @@ without fossil fuels, because hydrogen is often made using fossil fuels [1].
 - [Printable checklist](/checklists/aqa/gcse/chemistry/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which questions on this AQA GCSE Chemistry 8462 Energy changes page are Higher tier only?**
+The bond energy calculation questions are labelled Higher tier only, because 4.5.1.3 is Higher tier content. The rest of section 4.5 is examined on Paper 1 at both Foundation and Higher tier.
+
+**How do you tell if a reaction is exothermic or endothermic from temperature data?**
+If the temperature of the surroundings increases, the reaction is exothermic; if it decreases, it is endothermic. Saying a reaction is endothermic because it "needs heat" does not use the data.
+
+**What are the common mistakes in bond energy calculations?**
+Forgetting to multiply by the number of identical bonds, such as four C–H bonds in methane, and subtracting the wrong way round so the sign is wrong. Always calculate bonds broken minus bonds formed and give the unit kJ/mol.
+
+**How should you measure activation energy on a reaction profile?**
+Measure from the energy level of the reactants up to the top of the curve. Measuring from the products is a common error.
 
 ## Official syllabus
 

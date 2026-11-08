@@ -16,7 +16,9 @@ syllabusTopics:
 description: "AQA GCSE Chemistry 8462 Chemical changes taught from scratch: reactivity, redox, acids, salts, pH, titrations and electrolysis, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -401,6 +403,23 @@ Use the [revision notes](/resources/aqa-gcse-chemistry-8462-chemical-changes-rev
 [practice questions](/resources/aqa-gcse-chemistry-8462-chemical-changes-practice/). Titration moles are in the
 [Quantitative chemistry revision notes](/resources/aqa-gcse-chemistry-8462-quantitative-chemistry-revision-notes/).
 The [free 10-minute diagnostics](/diagnostics/) show where to focus next.
+
+## Frequently asked questions
+
+**Which paper is Chemical changes assessed on in AQA GCSE Chemistry 8462?**
+Chemical changes (section 4.4) is assessed on Paper 1, which covers Topics 1 to 5. It is set at both Foundation and Higher tier, with some content such as half equations and strong and weak acids marked Higher tier only.
+
+**What is the difference between a strong acid and a concentrated acid?**
+Strong and weak describe how completely an acid ionises in water, while concentrated and dilute describe how much acid is in a given volume. A dilute strong acid and a concentrated weak acid are both possible.
+
+**How do you know which metals can be extracted using carbon?**
+Metals less reactive than carbon, such as zinc and iron, can be extracted from their oxides by reduction with carbon. Metals more reactive than carbon, such as aluminium, have to be extracted by electrolysis.
+
+**What forms at each electrode when an aqueous solution is electrolysed?**
+At the cathode, hydrogen forms if the metal is more reactive than hydrogen; otherwise the metal forms. At the anode, oxygen forms unless halide ions are present, in which case the halogen forms.
+
+**Why is the copper oxide added in excess when making copper sulfate crystals?**
+Adding copper oxide until some is left unreacted makes sure all the acid is used up. The excess solid is then filtered off before the solution is evaporated and left to crystallise.
 
 ## Official syllabus
 

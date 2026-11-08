@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on Bronsted-Lowry theory, strong and weak acids, pH and buffers for AS Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -129,3 +131,17 @@ vice versa, is one of the most common and avoidable errors in this topic.
 - Using the strong-acid method for a weak acid.
 - Not stating both assumptions in a weak-acid pH calculation.
 - Explaining a buffer without naming the reserve species.
+
+## Frequently asked questions
+
+**Are these AS Chemistry acids and bases questions from Cambridge past papers?**
+No. They are original exam-style questions with full worked answers, written for practice alongside official Cambridge 9701 past papers.
+
+**What is the difference between a strong acid and a concentrated acid?**
+Strong refers to the degree of dissociation: a strong acid dissociates completely. Concentrated refers to the amount of acid dissolved per unit volume, so the two terms describe different things.
+
+**What are the common mistakes in pH calculations?**
+Common errors include forgetting to use Kw when calculating the pH of an alkali, using the strong-acid method for a weak acid, and not stating both assumptions in a weak-acid calculation.
+
+**How should you explain how a buffer works?**
+Name the reserve species in the buffer, such as the large reserve of ethanoate ions and undissociated ethanoic acid, and show with an equation how each removes added H⁺ or OH⁻. Explaining a buffer without naming the reserve species loses marks.

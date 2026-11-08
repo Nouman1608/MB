@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on ammonia, nitrogen oxides, acid rain and the Contact process for AS Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -107,3 +109,17 @@ Related: [Nitrogen and Sulfur revision notes](/resources/as-chem-nitrogen-sulfur
 - Confusing acid rain (from SO₂/NOx dissolving to form acids) with photochemical smog (from NOx and hydrocarbons reacting in sunlight) — they are distinct pollution mechanisms with the same pollutant gases.
 
 Work through the [Nitrogen and Sulfur revision notes](/resources/as-chem-nitrogen-sulfur-revision-notes/) alongside these questions: the notes summarise the structure and bonding arguments in condensed form, while these questions test whether you can apply them to natural formation, catalytic pathways and atmospheric pollution — situations that go beyond the basic definitions.
+
+## Frequently asked questions
+
+**Why is nitrogen gas so unreactive?**
+The N≡N triple bond has a very high bond enthalpy, so a large amount of energy is needed to break it. Explaining nitrogen's inertness by saying "it is a gas" earns no credit.
+
+**Why does ammonia act as a base?**
+The nitrogen atom in ammonia has a lone pair of electrons that can accept a proton, forming the ammonium ion. The dative bond formed becomes identical to the other N–H bonds.
+
+**What catalyst is used in the Contact process?**
+The Contact process uses vanadium(V) oxide, V₂O₅, as the catalyst to convert sulfur dioxide into sulfur trioxide.
+
+**What is the difference between acid rain and photochemical smog?**
+Acid rain forms when SO₂ and nitrogen oxides are oxidised and dissolve to form acids. Photochemical smog forms when nitrogen oxides and unburned hydrocarbons react in sunlight, producing pollutants such as PAN.

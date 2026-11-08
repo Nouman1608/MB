@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Deducing polymer repeat units and monomers, and the disposal problems addition polymers cause, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -146,6 +148,20 @@ by-product
 alkanes
 - PVC's chlorine content causing HCl (and other harmful products) on
 combustion
+
+## Frequently asked questions
+
+**What is addition polymerisation in Cambridge 9701 Chemistry?**
+Addition polymerisation is the joining of many alkene monomers: the C=C double bond in each monomer opens up to form single bonds linking the monomers into a long chain. It is subtopic 20.1 of Cambridge International AS & A Level Chemistry 9701.
+
+**Does the repeat unit of an addition polymer contain a double bond?**
+No. The double bond opens up to form the new single bonds between monomers, so the repeat unit is fully saturated. Drawing the repeat unit with a C=C still present is a common mistake.
+
+**Why are addition polymers difficult to dispose of?**
+Addition polymers have a saturated carbon backbone with strong, non-polar C–C and C–H bonds, so they are unreactive and not biodegradable. They can persist in landfill for a very long time.
+
+**Why is burning PVC more harmful than burning poly(ethene)?**
+PVC contains chlorine, so burning it releases toxic and corrosive hydrogen chloride gas. Plain hydrocarbon polymers such as poly(ethene) produce the same combustion products as any hydrocarbon.
 
 ## Related resources
 

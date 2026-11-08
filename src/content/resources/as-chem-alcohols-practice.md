@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-hydroxy-compounds"
     subtopic: "as-alcohols"
-description: "Original exam-style practice questions with full worked answers on alcohol classification, oxidation, dehydration, the iodoform test and the preparation of alcohols by reduction and ester hydrolysis for AS Chemistry."
+description: "Original practice questions with worked answers for Cambridge AS & A Level Chemistry 9701: classifying, oxidising and dehydrating alcohols, plus iodoform."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -135,3 +137,17 @@ undergoes condensation (esterification) to form an ester; and with
 characteristic misty fumes used as a simple confirmatory test for the
 -OH group in an unknown compound. For the full reaction scheme and
 oxidation-product table by alcohol class, see the [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/).
+
+## Frequently asked questions
+
+**How do you classify an alcohol as primary, secondary or tertiary?**
+Count the carbon atoms attached to the carbon bearing the OH group: one for primary, two for secondary and three for tertiary. In Cambridge 9701 the class decides how the alcohol reacts with oxidising agents.
+
+**Why does ethanol have a higher boiling point than propane?**
+Ethanol molecules form hydrogen bonds with each other because they contain an O–H group, while propane has only weak instantaneous dipole–induced dipole forces. Far more energy is needed to separate ethanol molecules.
+
+**What do examiners expect for the result of the PCl₅ test on an alcohol?**
+Describe the distinctive misty or steamy white fumes of hydrogen chloride gas. Writing "bubbles" instead is a common way to lose the mark.
+
+**Do tertiary alcohols react slowly with acidified dichromate?**
+No. Tertiary alcohols are not oxidised by acidified potassium dichromate(VI) under these conditions at all. Saying they "react slowly" is marked wrong.

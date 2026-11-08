@@ -20,10 +20,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-the-periodic-table-chemical-periodicity"
     subtopic: "as-chemical-periodicity-of-other-elements"
-description: "Original exam-style practice questions with full worked answers on period 3 trends, oxides and chlorides for AS Chemistry."
+description: "Original practice questions with worked answers for Cambridge AS & A Level Chemistry 9701 on Period 3 trends in radius, melting point, oxides and chlorides."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -131,3 +133,17 @@ It is described as **amphoteric** [1].
 - Explaining the Al and S ionisation-energy dips with vague phrases like "it's an exception" instead of naming the specific electron configuration reason (subshell energy for Al, electron pairing for S).
 
 Questions 7 and 8 draw on the chlorides-with-water table and the first-ionisation-energy trend in the [Periodicity revision notes](/resources/as-chem-periodicity-revision-notes/), material the earlier questions on this page don't reach.
+
+## Frequently asked questions
+
+**Why does atomic radius decrease across Period 3?**
+Nuclear charge increases while electrons are added to the same outer shell with roughly constant shielding. The outer electrons are pulled closer to the nucleus, so the radius decreases.
+
+**Why does melting point fall sharply after silicon in Period 3?**
+Silicon has a giant covalent structure, while phosphorus, sulfur and chlorine are simple molecular substances. Melting them only overcomes weak intermolecular forces, not covalent bonds.
+
+**Is SiCl₄ dissolving or reacting when it is added to water?**
+Silicon tetrachloride is hydrolysed by water, which is a chemical reaction, not dissolving. Sodium chloride, by contrast, dissolves with no visible reaction to give a neutral solution.
+
+**How do you show that aluminium oxide is amphoteric?**
+Give an equation for its reaction with an acid, such as hydrochloric acid, and another for its reaction with a base, such as sodium hydroxide. Naming it amphoteric without both equations is incomplete.

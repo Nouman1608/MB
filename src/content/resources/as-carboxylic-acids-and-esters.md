@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-carboxylic-acids-and-derivatives"
     subtopic: "as-esters"
-description: "Producing and reacting carboxylic acids, esterification, and the difference between acid and alkaline ester hydrolysis, for Cambridge International AS & A Level Chemistry 9701."
+description: "Carboxylic acids and esters for Cambridge AS & A Level Chemistry 9701: making and reacting acids, esterification, and acid versus alkaline ester hydrolysis."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -152,6 +154,20 @@ reduction
 viewed from opposite directions
 - Acid hydrolysis (equilibrium, gives the free acid) vs alkaline
 hydrolysis (complete, gives the carboxylate salt)
+
+## Frequently asked questions
+
+**What is the difference between acid and alkaline hydrolysis of an ester?**
+Acid hydrolysis is a reversible equilibrium that gives the carboxylic acid and the alcohol. Alkaline hydrolysis goes to completion and gives the carboxylate salt and the alcohol.
+
+**Why does alkaline hydrolysis of an ester not give a free carboxylic acid?**
+With alkali present, the carboxylic acid is immediately deprotonated to its carboxylate salt. Only acid hydrolysis gives the free acid back.
+
+**Can NaBH₄ reduce a carboxylic acid?**
+No. NaBH₄ is not a strong enough reducing agent for carboxylic acids; LiAlH₄ is needed. This is tested in subtopic 18.1 of Cambridge International AS & A Level Chemistry 9701.
+
+**How can you test for a carboxylic acid?**
+A carboxylic acid reacts with a carbonate to give effervescence of carbon dioxide. This distinguishes it from alcohols, which do not react with carbonates.
 
 ## Related resources
 

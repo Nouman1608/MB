@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Condensed recall notes on atomic models, isotopes, electron configuration, group trends and separation techniques for AQA GCSE Chemistry 8462."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -223,3 +225,16 @@ Unreactive because they have **full outer shells**, so there is no tendency to l
   <figcaption>Filter the insoluble solid first, then crystallise the dissolved one.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What did the alpha scattering experiment show?**
+Most alpha particles passed straight through gold foil but a few were deflected, showing that the mass of an atom is concentrated in a small, positively charged nucleus. This replaced the plum pudding model in AQA GCSE Chemistry 8462.
+
+**Do isotopes of an element react differently?**
+No. Isotopes have the same number of protons and electrons, so they have the same chemical properties. They differ only in their number of neutrons and so their mass.
+
+**Does reactivity increase down both Group 1 and Group 7?**
+No. Reactivity increases down Group 1 but decreases down Group 7. Saying it increases down both groups is a common exam trap.
+
+**What is the difference between a group and a period?**
+A group is a vertical column of the periodic table, and elements in the same group have the same number of outer-shell electrons. A period is a horizontal row, and its number matches the number of occupied electron shells.

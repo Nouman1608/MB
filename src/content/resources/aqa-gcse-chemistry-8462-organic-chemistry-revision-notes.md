@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed revision notes for AQA GCSE Chemistry 8462 Organic chemistry, with homologous series tables, reaction summaries and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -351,6 +353,20 @@ Worked reminder (Higher tier only): ethanediol (Mr 62) and hexanedioic acid (Mr 
 - Writing a formula for an ester or carboxylic acid equation when only a word description is needed -- and then getting it wrong. Keep to what is asked.
 - Calling a carboxylic acid weak "because it is dilute" (Higher tier).
 - Saying a condensation polymer's repeating unit has the same atoms as the monomers. Water has been lost.
+
+## Frequently asked questions
+
+**What is a homologous series?**
+A homologous series is a family of compounds with the same general formula and the same functional group. AQA GCSE Chemistry 8462 covers alkanes, alkenes, alcohols and carboxylic acids.
+
+**What is the difference between saturated and unsaturated hydrocarbons?**
+Saturated hydrocarbons, the alkanes, have only single C–C bonds. Unsaturated hydrocarbons, the alkenes, contain a C=C double bond.
+
+**Why are hydrocarbons cracked?**
+Cracking breaks large hydrocarbon molecules into smaller, more useful molecules, such as shorter alkanes for fuels and alkenes for making polymers.
+
+**Which Organic chemistry content is Higher tier only?**
+The explanation of why carboxylic acids are weak acids, condensation polymerisation and amino acids are Higher tier only. The rest of Topic 7 is for both tiers.
 
 ## Official syllabus
 

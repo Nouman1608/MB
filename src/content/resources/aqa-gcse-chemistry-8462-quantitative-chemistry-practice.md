@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Eleven original AQA GCSE Chemistry 8462 quantitative chemistry questions on moles, limiting reactants, yield, titrations and gas volumes, with marks."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -187,6 +189,20 @@ Route B: CH₄ + H₂O → CO + 3H₂
 - [Printable AQA GCSE Chemistry checklist](/checklists/aqa/gcse/chemistry/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which Quantitative chemistry questions are Higher tier only in AQA GCSE Chemistry 8462?**
+Questions on moles, reacting masses from moles, balancing from masses and limiting reactants test Higher tier only content and are labelled. Section 4.3 is assessed on Paper 1 at Foundation and Higher tier.
+
+**How do you work out the uncertainty from repeat measurements?**
+The uncertainty is half the range of the results either side of the mean. Quoting the full range instead of half of it is a common mistake.
+
+**Why does the mass change when a carbonate is heated in an open crucible?**
+A gas, carbon dioxide, is produced and escapes into the air, so the mass of solid left goes down. Answers should name the gas leaving rather than saying mass is lost or destroyed.
+
+**How do you find the limiting reactant?**
+Convert each mass to moles and compare them using the ratio in the balanced equation. Choosing the reactant with the smaller mass, rather than comparing moles, is a common error.
 
 ## Official syllabus
 

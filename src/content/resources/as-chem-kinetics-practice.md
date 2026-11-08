@@ -23,7 +23,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on collision theory, activation energy, catalysts and Boltzmann distributions for AS Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -132,3 +134,17 @@ at the end, no effect on ΔH, yield, or equilibrium position — the
 phase relationship only determines the specific mechanism by which the
 rate increase is achieved. For the full comparison and Boltzmann
 distribution diagrams, see the [Reaction Kinetics revision notes](/resources/as-chem-kinetics-revision-notes/).
+
+## Frequently asked questions
+
+**What two conditions must a collision meet to cause a reaction?**
+The particles must collide with energy greater than or equal to the activation energy and in the correct orientation. These are the core ideas of collision theory in Cambridge 9701.
+
+**How does increasing temperature change the Boltzmann distribution?**
+The peak moves to the right and becomes lower, and the curve broadens, but the total area under the curve stays the same. More particles then have energy at least equal to the activation energy.
+
+**Does a catalyst increase the yield of a reaction?**
+No. A catalyst increases the rates of the forward and reverse reactions equally, so equilibrium is reached sooner but the yield is unchanged.
+
+**What is the difference between homogeneous and heterogeneous catalysis?**
+A homogeneous catalyst is in the same phase as the reactants, such as an enzyme in solution. A heterogeneous catalyst is in a different phase, such as solid iron in the gas-phase Haber process.

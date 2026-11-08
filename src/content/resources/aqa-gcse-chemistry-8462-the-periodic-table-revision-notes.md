@@ -315,6 +315,20 @@ Br₂ + 2NaI → 2NaBr + I₂     solution turns from orange to brown
 - Saying isotopes have different chemical properties when explaining Mendeleev's swaps. Only their masses
   differ.
 
+## Frequently asked questions
+
+**Why does reactivity increase down Group 1?**
+Down Group 1 the outer electron is further from the nucleus, so it is less strongly attracted and is lost more easily. Just saying "more shells" without linking it to attraction is not enough.
+
+**Why does reactivity decrease down Group 7?**
+Halogens react by gaining an electron. Down the group the outer shell is further from the nucleus, so an incoming electron is attracted less strongly and the halogen is less reactive.
+
+**What is the balanced equation for a Group 1 metal reacting with water?**
+The general equation is 2M + 2H₂O → 2MOH + H₂, giving a metal hydroxide and hydrogen. Forgetting to balance it is a common error.
+
+**Why are the noble gases unreactive?**
+The noble gases in Group 0 have a full outer shell, a stable arrangement of electrons, so they do not easily gain, lose or share electrons. They do not have an empty or missing outer shell.
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, Version 1.1 (October 2019), for teaching from September 2016 and exams

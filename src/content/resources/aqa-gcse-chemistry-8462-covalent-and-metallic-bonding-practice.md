@@ -205,6 +205,23 @@ A ball and stick model of molecule Y shows two red balls joined to each other by
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these AQA GCSE Chemistry 8462 bonding questions Higher tier only?**
+No. Nothing in sections 4.2.1.4 Covalent bonding and 4.2.1.5 Metallic bonding is Higher tier only, so every question suits both tiers. The content is examined on Paper 1.
+
+**How many electrons are in a single covalent bond?**
+A single covalent bond is one shared pair, which is two electrons. Confusing electrons with pairs is a common way to lose marks on dot and cross questions.
+
+**What do you need to include in a dot and cross diagram for marks?**
+Show each shared pair inside the overlap of the two atoms and include any non-shared pairs, for example on nitrogen, oxygen or chlorine, so the outer shell is complete. Missing non-shared pairs is a frequent error.
+
+**What key words are needed when describing metallic bonding?**
+Describe a giant structure of atoms in a regular pattern, with outer-shell electrons delocalised and shared through the whole structure. Answers that miss "regular pattern", "delocalised" or "whole structure" often lose marks.
+
+**How are the extended response questions on bonding marked?**
+The six-mark comparison questions on this page use indicative content, with one mark per valid point up to six. Making clear comparisons, rather than describing each substance separately, helps cover the points.
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, for teaching from September 2016, GCSE exams June 2018 onwards, version 1.1, published by AQA -- sections 4.2.1.4 Covalent bonding and 4.2.1.5 Metallic bonding.

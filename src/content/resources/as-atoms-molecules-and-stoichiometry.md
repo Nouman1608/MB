@@ -23,10 +23,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atoms-molecules-and-stoichiometry"
     subtopic: "as-reacting-masses-and-volumes-of-solutions-and-gases"
-description: "Ionic formulae from Roman-numeral oxidation numbers, ionic equations, and stoichiometric calculations including limiting reagent and percentage yield, for Cambridge International AS & A Level Chemistry 9701."
+description: "Cambridge AS & A Level Chemistry 9701 stoichiometry: ionic formulae from oxidation numbers, ionic equations, limiting reagents, yield and gas volumes."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -200,6 +202,20 @@ and calculation types genuinely does.
 - Empirical vs molecular formula, and calculating each from data
 - Percentage yield, limiting reagent, gas volume and solution concentration
 calculations, worked to the correct number of significant figures
+
+## Frequently asked questions
+
+**Which syllabus points does Atoms, molecules and stoichiometry cover in Cambridge 9701?**
+It is Topic 2 of Cambridge International AS & A Level Chemistry 9701, subtopics 2.1 to 2.4: relative masses, the mole and the Avogadro constant, formulas, and reacting masses and volumes. It is AS Level content.
+
+**How do you write the formula of an ionic compound with a Roman numeral?**
+The Roman numeral gives the oxidation number, and so the charge, of the metal ion. Combine the ions in the ratio that makes the total charge zero, for example iron(III) and sulfate give Fe₂(SO₄)₃.
+
+**What is an ionic equation?**
+An ionic equation shows only the species that take part in the reaction, with spectator ions removed. If every species from the full equation is still present, it is not an ionic equation.
+
+**How do you identify the limiting reagent?**
+Convert each reactant to moles and compare the mole ratio available with the ratio required by the balanced equation. Do not simply pick whichever reactant's mass is given first or is smaller.
 
 ## Related resources
 

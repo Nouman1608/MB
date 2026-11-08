@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Condensed recall notes on Br\u00f8nsted-Lowry theory, conjugate pairs, titration curves and indicator choice for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -116,3 +118,17 @@ At exactly half the equivalence volume of a weak acid–strong base titration, [
 7. Explain why ammonia is classed as a Brønsted-Lowry base despite containing no hydroxide ion in its own formula.
 
 **Answers:** 1. NH₃/NH₄⁺ and H₂O/OH⁻. 2. Weak means only partially dissociated into ions; dilute means a small amount of acid per unit volume — a weak acid can be concentrated. 3. The salt formed contains the conjugate base of the weak acid, which hydrolyses in water to produce hydroxide ions. 4. Phenolphthalein — the vertical section runs roughly pH 7–11, and phenolphthalein's range (8.3–10.0) lies entirely within it. 5. At equivalence the solution contains the salt of a weak acid, whose anion is a base strong enough to raise the pH above 7. 6. The strong acid reacts faster with a reactive metal, has a lower pH, and conducts electricity better, because full dissociation gives more free ions. 7. Dissolved in water, ammonia accepts a proton from H₂O to form NH₄⁺ and OH⁻ — the Brønsted-Lowry definition is behavioural (what a substance does), not based on its own formula.
+
+## Frequently asked questions
+
+**What is a conjugate acid–base pair?**
+A conjugate acid–base pair is two species that differ by exactly one H⁺, one on each side of the equation. In HCl + H₂O → H₃O⁺ + Cl⁻, the pairs are HCl/Cl⁻ and H₃O⁺/H₂O.
+
+**What does amphoteric mean in Brønsted-Lowry theory?**
+An amphoteric species can act as either a proton donor or a proton acceptor. Examples include water, HCO₃⁻, HSO₄⁻ and amino acids.
+
+**Is the equivalence point of a titration always at pH 7?**
+No. Only a strong acid–strong base titration has its equivalence point close to pH 7. Strong acid–weak base titrations end below pH 7 and weak acid–strong base titrations end above it.
+
+**Do you need to calculate pH at AS Level in Cambridge 9701?**
+According to these notes, pH is treated qualitatively at AS, and Ka, pKa and pH calculations are A Level content in Cambridge International AS & A Level Chemistry 9701.

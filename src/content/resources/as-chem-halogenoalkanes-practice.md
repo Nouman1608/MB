@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on nucleophilic substitution, elimination and hydrolysis rates for AS Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -112,3 +114,17 @@ Related: [Halogenoalkanes revision notes](/resources/as-chem-halogenoalkanes-rev
 - Naming ethanolic ammonia at room temperature instead of a sealed tube — without the sealed tube, ammonia gas simply escapes rather than reacting under pressure.
 
 Questions 7 and 8 draw on the mechanism-selection table and the "three routes" and "reactions to know" sections of the [Halogenoalkanes revision notes](/resources/as-chem-halogenoalkanes-revision-notes/) — material the questions above don't reach, since they focus on primary-halogenoalkane SN2 substitution, elimination and the aqueous silver nitrate rate test.
+
+## Frequently asked questions
+
+**Are SN1 and SN2 rate equations examined at AS in Cambridge 9701?**
+According to this page, rate equations and rate-determining steps for SN1 and SN2 are A Level extension content; at AS you compare rates qualitatively.
+
+**What decides whether a halogenoalkane undergoes substitution or elimination with hydroxide?**
+The solvent decides: aqueous hydroxide gives nucleophilic substitution to an alcohol, while ethanolic hydroxide gives elimination to an alkene.
+
+**Why does iodobutane hydrolyse faster than chlorobutane?**
+The C–I bond has a lower bond enthalpy than the C–Cl bond, so it breaks more easily. Explaining the order using electronegativity instead of bond enthalpy is a common error.
+
+**Why does reaction with cyanide lengthen the carbon chain?**
+The cyanide ion attacks through its carbon atom, so a new C–C bond forms and the product, a nitrile, has one more carbon than the halogenoalkane.

@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on nucleophilic addition, distinguishing tests and hydroxynitriles for AS Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -118,3 +120,17 @@ Related: [Aldehydes and Ketones revision notes](/resources/as-chem-carbonyls-rev
 The recurring theme across this table and the distinguishing tests is that an **aldehyde sits at an intermediate oxidation state** — it can be pushed further to a carboxylic acid or pulled back to a primary alcohol — while a **ketone is a dead end** for oxidation, which is exactly why Tollens' and Fehling's give a positive result only with the aldehyde.
 
 For the full reaction schemes and curly-arrow mechanism, see the [Carbonyl Compounds study guide](/resources/as-carbonyl-compounds-aldehydes-and-ketones/); for condensed recall notes covering the same preparation and test tables, see the [Aldehydes and Ketones revision notes](/resources/as-chem-carbonyls-revision-notes/).
+
+## Frequently asked questions
+
+**Are these aldehyde and ketone questions from Cambridge 9701 past papers?**
+No. They are original exam-style questions with full worked answers, written for practice on the Cambridge International AS & A Level Chemistry 9701 carbonyl content.
+
+**Is HCN or CN⁻ the nucleophile in nucleophilic addition?**
+The cyanide ion, CN⁻, is the nucleophile, and it attacks through its carbon atom. Naming HCN as the nucleophile is a common way to lose marks.
+
+**Why can't infrared spectroscopy easily distinguish an aldehyde from a ketone?**
+Both aldehydes and ketones show a strong C=O absorption near 1700 cm⁻¹, so the carbonyl peak alone does not tell them apart. A chemical test such as Tollens' or Fehling's is more reliable.
+
+**How many marks does a distinguishing test usually need?**
+Questions asking for a distinguishing test expect the reagent and an observation for each compound. Giving only one observation, for example only the positive result, loses marks.

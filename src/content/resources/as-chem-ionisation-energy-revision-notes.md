@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Condensed recall notes on orbitals, electron configuration and ionisation energy trends for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -120,3 +122,17 @@ Two outer electrons  ->  GROUP 2
 7. Draw the electrons-in-boxes for fluorine's 2p⁵ and explain which rule you have applied.
 
 **Answers:** 1. The energy required to remove one electron from each atom in one mole of gaseous atoms: Na(g) → Na⁺(g) + e⁻. 2. 1s²2s²2p⁶3s²3p⁶3d⁵4s¹ — a half-filled 3d sub-shell is more stable than 3d⁴4s². 3. Its outer electron occupies a 3p orbital, which is higher in energy and better shielded than the 3s orbital, so it is removed more easily. 4. Sulfur has two electrons paired in one 3p orbital; their mutual repulsion makes one easier to remove. 5. The big jump is between the 2nd and 3rd, so there are two outer electrons — **Group 2**. 6. Two lobes either side of the nucleus (a dumbbell/figure-of-eight shape); a p sub-shell has three orbitals. 7. Three separate arrows, one per 2p orbital, pointing the same way, then a fourth arrow doubling up (opposite spin) in one orbital and a fifth doubling up in a second — this is Hund's rule, filling orbitals singly before pairing.
+
+## Frequently asked questions
+
+**What three factors affect ionisation energy?**
+Ionisation energy depends on nuclear charge, the distance of the outer electron from the nucleus and shielding by inner electrons. These factors explain the trends in Cambridge International AS & A Level Chemistry 9701.
+
+**Is ionisation energy ever exothermic?**
+No. Ionisation energy is the energy required to remove electrons, so it is always endothermic and positive. Writing "energy released" is an exam trap.
+
+**What is Hund's rule?**
+Electrons fill orbitals of the same sub-shell singly, with parallel spins, before they pair up. For example, three 2p electrons go one into each 2p orbital.
+
+**Why does chromium have the configuration 3d⁵4s¹?**
+Chromium is 1s²2s²2p⁶3s²3p⁶3d⁵4s¹ rather than 3d⁴4s², giving a half-filled 3d sub-shell. This is one of the configurations to learn precisely.

@@ -268,6 +268,20 @@ Number of delocalised electrons per atom = number of outer electrons:
 - Metallic bonding described as "free electrons" without saying they are **delocalised outer-shell** electrons moving through the **whole structure**.
 - Forgetting the word "regular" (or "pattern") when describing how metal atoms are arranged.
 
+## Frequently asked questions
+
+**What is a covalent bond in AQA GCSE Chemistry 8462?**
+A covalent bond is a shared pair of electrons between two atoms, and covalent bonds are strong. A single, double or triple bond has one, two or three shared pairs between the same two atoms.
+
+**Is silicon dioxide a small molecule like carbon dioxide?**
+No. Silicon dioxide has a giant covalent structure, a continuous network of atoms joined by covalent bonds, even though its formula looks like CO₂. Classifying it as a small molecule is a common error.
+
+**How many shared pairs are there in nitrogen and oxygen molecules?**
+A nitrogen molecule, N₂, has a triple bond (three shared pairs) and an oxygen molecule, O₂, has a double bond (two shared pairs). Drawing either with too few shared pairs loses marks.
+
+**What are delocalised electrons in a metal?**
+They are the outer-shell electrons from the metal atoms, which are free to move through the whole structure. Sharing these delocalised electrons gives strong metallic bonding in a giant regular structure.
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, for teaching from September 2016, GCSE exams June 2018 onwards, version 1.1, published by AQA -- sections 4.2.1.4 Covalent bonding and 4.2.1.5 Metallic bonding.

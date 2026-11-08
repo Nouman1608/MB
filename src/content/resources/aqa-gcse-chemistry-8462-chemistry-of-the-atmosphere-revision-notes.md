@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed AQA GCSE Chemistry 8462 revision notes on the atmosphere: gas proportions, early atmosphere, greenhouse effect and pollutants, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -279,6 +281,20 @@ Small reminder: C₂H₆ burning to carbon monoxide gives 2C₂H₆ + 5O₂ → 
 - Giving reasons why carbon footprint actions are limited that are too vague ("it's hard"). Name cost, cooperation or lifestyle.
 - Percentage change divided by the final value instead of the starting value.
 - Describing coal formation as "from dead animals". Coal came from plants.
+
+## Frequently asked questions
+
+**What was the Earth's early atmosphere mainly made of?**
+According to the theory in the AQA GCSE Chemistry 8462 specification, the early atmosphere was mainly carbon dioxide released by volcanoes, with little or no oxygen. Nitrogen built up gradually and oxygen came later from photosynthesis.
+
+**Which gases are greenhouse gases at GCSE?**
+The specification names water vapour, carbon dioxide and methane. They absorb long wavelength radiation emitted by the Earth's surface and keep the lower atmosphere warm enough to support life.
+
+**What is a carbon footprint?**
+A carbon footprint is the total amount of carbon dioxide and other greenhouse gases emitted over the full life cycle of a product, service or event. It can be reduced by cutting emissions, but actions are limited by cost, cooperation and lifestyle.
+
+**Which pollutants cause acid rain and which cause global dimming?**
+Sulfur dioxide and oxides of nitrogen cause acid rain and respiratory problems. Particulates cause global dimming and health problems; carbon monoxide is toxic but does not cause acid rain.
 
 ## Official syllabus
 

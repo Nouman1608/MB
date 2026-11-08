@@ -26,7 +26,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on the mole, empirical formulae, gas volumes and limiting reagents for AS Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -139,3 +141,17 @@ m = 0.200 × 44.0 = **8.80 g** [1].
 - Forgetting to double the ethanol moles when the balanced equation gives **two** moles of product per mole of glucose — a very common one-mark slip in yield calculations with a coefficient other than 1.
 
 Questions 7 and 8 draw on the ideal gas equation and percentage yield/atom economy sections of the [Stoichiometry revision notes](/resources/as-chem-stoichiometry-revision-notes/), material the earlier questions on this page don't reach.
+
+## Frequently asked questions
+
+**What are the four expressions used to calculate moles?**
+Moles can be found from n = m ÷ M, n = c × V, n = V ÷ 24 for a gas at room temperature and pressure with V in dm³, and n = N ÷ N_A. These are core to Cambridge 9701 stoichiometry.
+
+**How do you work out an empirical formula from percentages?**
+Divide each percentage by the element's relative atomic mass to get moles, then divide every value by the smallest to find the simplest whole-number ratio. Forgetting to divide by the smallest value is a common error.
+
+**How do you identify the limiting reagent correctly?**
+Convert each reactant to moles and divide by its coefficient in the balanced equation; the smaller value is the limiting reagent. Comparing raw masses or raw moles can give the wrong answer.
+
+**Is atom economy the same as percentage yield?**
+No. Atom economy measures how much of the reactant mass ends up in the desired product according to the equation, while percentage yield measures how much product was actually obtained compared with the theoretical maximum.

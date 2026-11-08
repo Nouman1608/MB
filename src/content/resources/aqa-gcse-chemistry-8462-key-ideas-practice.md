@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Twelve original questions linking the AQA GCSE Chemistry 8462 key ideas, from atoms and bonding to rates, acids and energy, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -187,6 +189,20 @@ Use ideas about structure and bonding to explain the properties of A, B and C. *
 - See every topic on the [AQA GCSE Chemistry hub](/boards/aqa/gcse/chemistry/) and tick them off on the [printable checklist](/checklists/aqa/gcse/chemistry/).
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What are the key ideas in AQA GCSE Chemistry 8462?**
+Section 4.11 lists key ideas such as atoms and elements, periodic relationships, transferring or sharing electrons, structure, barriers to reaction and conservation of energy. They are assessed across all papers, so questions on them can appear on Paper 1 or Paper 2.
+
+**How do you explain why reactivity increases down Group 1?**
+Explain that the outer electron is further from the nucleus and so less strongly attracted, making it easier to lose. Answers that just say "more electrons" do not earn the mark.
+
+**What does a catalyst do to a reaction?**
+A catalyst changes the rate of reaction without being used up by providing a pathway with a lower activation energy. Saying it "gives particles more energy" is a common error.
+
+**What units should a rate of reaction have?**
+A rate from a volume of gas and a time is given in cm³/s, for example. Leaving out the unit, or writing only cm³, loses marks.
 
 ## Official syllabus
 

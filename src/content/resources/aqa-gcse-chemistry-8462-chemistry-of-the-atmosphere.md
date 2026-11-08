@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Study guide for AQA GCSE Chemistry 8462 Topic 9: the early atmosphere, greenhouse gases, climate change, carbon footprint and pollutants from fuels."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -309,6 +311,20 @@ Acid rain damages buildings and statues made of limestone, harms trees and plant
 ## Next steps
 
 Go to the [revision notes](/resources/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere-revision-notes/) for a condensed version and a quick self-test, then try the [practice questions](/resources/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere-practice/) with full mark schemes. To find gaps across the whole course, take one of the [free 10-minute diagnostics](/diagnostics/).
+
+## Frequently asked questions
+
+**Which paper is Chemistry of the atmosphere on in AQA GCSE Chemistry 8462?**
+Topic 9 is assessed on Paper 2, together with Topics 6 to 10. Every statement in the topic is for both Foundation and Higher tier.
+
+**Where did the oxygen in the atmosphere come from?**
+Oxygen came from photosynthesis by algae and plants, not from volcanoes. Photosynthesis also removed carbon dioxide from the atmosphere as the oxygen level increased.
+
+**Is the greenhouse effect the same as ozone depletion or acid rain?**
+No. The greenhouse effect is the absorption of long wavelength radiation by greenhouse gases, while acid rain is caused by sulfur dioxide and oxides of nitrogen. They are separate processes and should not be mixed up in answers.
+
+**Where do oxides of nitrogen from engines come from?**
+At GCSE, oxides of nitrogen form when nitrogen and oxygen from the air react at the high temperatures inside engines. The nitrogen does not come from the fuel.
 
 ## Official syllabus
 
