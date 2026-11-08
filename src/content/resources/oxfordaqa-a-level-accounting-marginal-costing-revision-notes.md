@@ -231,6 +231,22 @@ Next: [practice questions](/resources/oxfordaqa-a-level-accounting-marginal-cost
   <figcaption>Overheads are allocated where one department caused them and apportioned on a fair basis where they are shared.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between traceability and cost behaviour?**
+Traceability asks whether a cost can be traced to one unit (direct or indirect), while behaviour asks how it changes with output (variable, fixed, semi-variable or stepped). They are separate labels, so one cost has both.
+
+**What is a stepped cost?**
+A stepped cost stays flat over a range of output and then jumps when more capacity is needed, such as paying one more forklift driver once the existing drivers' monthly limit is reached.
+
+**Should break-even and target-profit volumes be rounded up or down?**
+Round up to the next whole unit. Rounding down leaves the business just short of break-even or the target profit.
+
+**What costs belong in a make-or-buy or closure decision?**
+Only amounts that the choice itself would alter. Absorbed overheads that are paid under every option, or that would simply be reshared, drop out of the working.
+
+**What shifts the break-even point?**
+Break-even rises with a lower selling price, a higher variable cost or higher fixed costs, and falls with the opposite changes.
 
 ## Official syllabus
 

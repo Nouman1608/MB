@@ -232,6 +232,20 @@ Non-current assets [1]; current assets [1]; equity [1]; debentures as non-curren
 - Try [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on limited company accounts questions?**
+Common losses are taking finance costs as the amount paid rather than the full year's charge, leaving interest or taxation owing out of current liabilities, and carrying profit before tax rather than profit after tax into retained earnings.
+
+**Where should a loan instalment due within 12 months go?**
+Under current liabilities. Leaving an instalment that is due within 12 months of the year end under non-current liabilities is a common mistake.
+
+**What should I check before calculating carrying amounts?**
+Update accumulated depreciation for the current year's charge first, then deduct it from cost. Using the trial balance figure without the year's charge gives the wrong carrying amount.
+
+**Which part of OxfordAQA International AS and A-level Accounting 9615 do these questions cover?**
+Section 3.1.7 Limited company accounts, which covers a company's internal income statement, statement of changes in equity and statement of financial position, including share issues at a premium.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.1.7, Limited company accounts.

@@ -185,6 +185,23 @@ Premium per share = issue price - nominal value. Share capital and share premium
 - Showing only one profit line when the question asks for an income statement of a limited company.
 - Leaving out the five sub-headings, or putting an item under the wrong one.
 
+## Frequently asked questions
+
+**How is a share issue at a premium recorded?**
+Share capital is recorded at nominal value and any excess received over nominal value is share premium. Share capital and share premium together always equal the cash received.
+
+**Are directors' salaries an expense of the company?**
+Yes. Directors' fees or salaries are an expense of the company even if the directors also own shares. Dividends are the return on owning shares and are not an expense.
+
+**Which profit figure goes to retained earnings?**
+Only profit for the year after tax. Adding profit before tax to retained earnings is a common mistake.
+
+**Is section 3.1.7 about published accounts?**
+No. Section 3.1.7 covers internal statements only. Published accounts and stakeholders' use of them are in section 3.2.6, which is International A-level only.
+
+**What does the difference between profit from operations and profit before tax show?**
+Finance costs explain the difference between profit from operations and profit before tax, and taxation explains the difference between profit before tax and profit for the year after tax.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.1.7, Limited company accounts.

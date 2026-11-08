@@ -218,6 +218,20 @@ Non-current assets with cost, depreciation and carrying amount [1]; total 25,710
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on sole trader financial statements questions?**
+Common losses are deducting an opening prepayment instead of adding it to the expense charge, using cost for every year of reducing balance depreciation, and calculating the provision for doubtful debts before writing off year-end irrecoverable debts.
+
+**How should I answer a name the concept question?**
+Give the name of the concept. A definition with no name, or two different names, may not earn the mark.
+
+**How should I show a depreciation calculation?**
+Write the formula with the figures substituted before giving the answer, so the examiner can follow your method.
+
+**What is different about a service business income statement?**
+A service business has no cost of sales or gross profit line: list its fees or revenue and deduct the expenses. Giving a service business a cost of sales line is a common mistake.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, section 3.1.6 Preparation of financial statements of sole traders. Published by OxfordAQA.

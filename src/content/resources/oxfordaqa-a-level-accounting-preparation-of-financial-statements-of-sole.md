@@ -287,6 +287,23 @@ A **service business** follows the same pattern but has no cost of sales or gros
 
 For a step-by-step adjusting routine, see the [exam preparation guide](/resources/oxfordaqa-a-level-accounting-exam-preparation/). Then try the [practice questions](/resources/oxfordaqa-a-level-accounting-preparation-of-financial-statements-of-sole-practice/) and check gaps with the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Are FIFO, AVCO and LIFO examined in OxfordAQA 9615 section 3.1.6?**
+No. The specification states that these methods of inventory valuation are outside this topic.
+
+**How do you calculate straight-line depreciation?**
+Straight-line depreciation = (cost − residual value) ÷ useful life, giving the same charge each year. For a machine costing 32,000 with a residual value of 2,000 and a 6-year life, the charge is 5,000 a year.
+
+**How is the provision for doubtful debts adjusted?**
+Write off irrecoverable debts first, then calculate the new provision on the remaining trade receivables. Only the increase or decrease in the provision goes to the income statement, and the full provision is deducted from trade receivables.
+
+**How are goods on sale or return treated at the year end?**
+If goods sent on sale or return have been recorded as a sale but not yet accepted, remove them from revenue and receivables and add them to inventory at cost, not at selling price.
+
+**How is a disposal of a non-current asset recorded?**
+Use a disposal account: transfer in the cost, transfer out the accumulated depreciation and the proceeds, and the balance is the profit or loss on disposal, taken to the income statement.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, section 3.1.6 Preparation of financial statements of sole traders. Published by OxfordAQA.

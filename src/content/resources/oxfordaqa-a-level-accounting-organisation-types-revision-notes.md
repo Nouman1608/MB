@@ -13,13 +13,15 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "types-of-business-organisation-oxfordaqa"
-description: "Condensed recall notes on sole traders, partnerships, and private and public limited companies, their liability and reporting obligations, and sources of finance, for OxfordAQA International A-Level Accounting (9615), sub-topic 3.1.2."
+description: "OxfordAQA International A-level Accounting 9615 notes on sole traders, partnerships and limited companies: liability, reporting and sources of finance."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -132,6 +134,23 @@ This topic sits early in the AS course deliberately: the ownership model chosen 
 
 - [Types of Business Organisation study guide](/resources/a-level-oxfordaqa-accounting-types-of-business-organisation/)
 - [Types of Business Organisation practice questions](/resources/oxfordaqa-a-level-accounting-organisation-types-practice/)
+
+## Frequently asked questions
+
+**Which business ownership types have unlimited liability?**
+Sole traders and ordinary partners in a partnership have unlimited liability. Shareholders in private and public limited companies have limited liability.
+
+**What does limited mean in a limited company?**
+It refers to the limit on an owner's financial liability for the business's debts, not to the size of the company. Assuming it means size is a common mistake.
+
+**Which sources of finance are only available to limited companies?**
+Ordinary shares and debentures are realistically only available to limited companies, because a sole trader or partnership has no share capital to issue.
+
+**Why does incorporation change the liability of owners?**
+Incorporating as a limited company creates a distinct legal entity separate from its owners, so the company's debts belong to the company rather than to the shareholders personally.
+
+**Do all four ownership types have the same reporting obligations?**
+No. Reporting requirements exist to protect people with a financial stake in a business but no direct control over it, so a public limited company has far more extensive reporting requirements than a sole trader, who is not legally required to publish accounts.
 
 ## Official syllabus
 
