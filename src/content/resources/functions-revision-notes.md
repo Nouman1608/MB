@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "functions"
-description: "Condensed recall notes on function notation, domain and range, composite and inverse functions for Cambridge O Level Mathematics 4024."
+description: "Condensed exam recall notes on function notation, domain and range, composite and inverse functions for Cambridge O Level Mathematics 4024 subtopic 2.12."
 author: "muhammad-ghazali-siddiqui"
 reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
