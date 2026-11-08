@@ -41,7 +41,7 @@ reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review."
+reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review. Fix pass: softened unverifiable claim that examiners return to the New Right vs postmodernist pairing most."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -62,7 +62,7 @@ taught; a working knowledge of a third is only a safety net.
 | Marxism | Family as unit of consumption |
 | Feminism | Joint vs segregated conjugal roles; domestic division of labour |
 
-**New Right vs Postmodernist on family diversity** — the pairing examiners return to most:
+**New Right vs Postmodernist on family diversity** — a key contrast to learn:
 - **New Right**: diversity = dysfunction; favours the traditional nuclear family.
 - **Postmodernist**: diversity = positive, evidence of individual choice.
 

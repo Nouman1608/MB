@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: replaced doubtful claim that limits and boundaries coincide for continuous data, and unsupported most-common-error claim, with the 0479 syllabus wording."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -39,11 +39,10 @@ a generic response.
 | Data type | What's required |
 |---|---|
 | Discrete (e.g. number of siblings) | Class limits, boundaries, midpoints AND widths |
-| Continuous (e.g. height, time) | Class boundaries, midpoints and widths ONLY — limits and boundaries coincide, so only boundaries are examined |
+| Continuous (e.g. height, time) | Class boundaries, midpoints and widths only |
 
-For continuous data, the stated class limits and the class boundaries coincide, so only the boundaries
-need to be examined separately -- that is different from limits simply not existing. Using discrete-style
-limits for continuous data (or vice versa) is the single most common error Cambridge flags in this outcome.
+The 0479 syllabus asks for class limits as well as boundaries only for discrete data; for continuous data
+it asks for class boundaries, midpoints and widths. Keep the two cases apart.
 (This is separate from the equal-class-widths rule below, which applies to frequency polygons specifically
 -- histograms must still handle unequal class widths via frequency density.)
 
@@ -119,8 +118,7 @@ not just each representation in isolation.
    cumulative frequency?
 
 **Answers:** 1. Discrete data requires class limits, boundaries, midpoints and widths; continuous data
-requires only class boundaries, midpoints and widths, since for continuous data the stated limits and the
-boundaries coincide, so only the boundaries need to be examined separately. 2. Whenever class widths are unequal; frequency density = frequency ÷ class width. 3. Each
+requires only class boundaries, midpoints and widths. 2. Whenever class widths are unequal; frequency density = frequency ÷ class width. 3. Each
 class's midpoint, plotted against its frequency; this differs from a histogram, which uses bars
 positioned at class boundaries rather than single points at midpoints. 4. From each cumulative
 total, subtract the cumulative total before it (the running total up to the previous class boundary);
