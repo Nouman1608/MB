@@ -20,7 +20,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-shakespeare-and-drama-9695"
     subtopic: "section-b-drama-9695"
-description: "Original Cambridge 9695 Paper 3 essay and passage questions on Hamlet, The Taming of the Shrew, Long Day's Journey Into Night and Sweat, with indicative content."
+description: "Original Cambridge 9695 Paper 3 essay and passage questions on Hamlet, The Taming of the Shrew, Long Day's Journey Into Night and Sweat, with answer guidance."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
