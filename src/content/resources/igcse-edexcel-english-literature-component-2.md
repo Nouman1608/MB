@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
+  - qualification: "igcse"
+    topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
+    subtopic: "section-a-modern-drama-4et1"
+  - qualification: "igcse"
+    topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
+    subtopic: "section-b-literary-heritage-texts-4et1"
 description: "One modern drama text and one literary heritage text, assessed through open-book essay questions -- Component 2 of Pearson Edexcel International GCSE English Literature (4ET1), the examined alternative to Component 3's non-exam assessment."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
