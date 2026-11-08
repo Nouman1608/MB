@@ -211,6 +211,20 @@ If power in exceeds power out, the net power divides into the heat capacity to g
 - Naming a gas without giving both its natural and human sources.
 - In a layer model, forgetting the layer radiates both up and down.
 
+## Frequently asked questions
+
+**Is there HL-only content in IB DP Physics B.2?**
+No. The guide sets no extra content for Higher Level alone in B.2, Greenhouse effect, so these notes apply to SL and HL.
+
+**How does the solar constant change with distance from the star?**
+Intensity from a point source falls with the square of distance, so a planet twice as far away receives one quarter of the solar constant.
+
+**Do greenhouse gases reflect infrared radiation?**
+No. Greenhouse gases absorb infrared and re-emit it in all directions, so some returns to the surface; they do not mirror the radiation.
+
+**What happens to the equilibrium temperature if albedo rises?**
+A rise in albedo means less absorbed power, so the equilibrium temperature falls, all else being equal.
+
 ## Official syllabus
 
 Source: the *Physics guide* for the IB Diploma Programme (first assessment 2025), International Baccalaureate Organization. Topic B.2, Greenhouse effect.

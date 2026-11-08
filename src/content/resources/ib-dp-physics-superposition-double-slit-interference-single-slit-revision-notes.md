@@ -217,6 +217,20 @@ White light: a white central maximum, then spectra with violet nearest the centr
 - Calling the white central maximum coloured, or putting red nearest the centre.
 - Explaining coherence without constant phase difference.
 
+## Frequently asked questions
+
+**Is energy lost at an interference minimum?**
+No. Energy is not lost at a minimum; it is redistributed to the maxima.
+
+**Why does Young's double-slit experiment support the wave model of light?**
+Particles travelling in straight lines would not give alternating bright and dark bands, so the fringe pattern is evidence for the wave nature of light.
+
+**Where does violet light appear in a grating spectrum?**
+Violet has the shortest wavelength, so sin θ is smallest and it appears nearest the centre of each order, with red furthest out. The central maximum itself is white.
+
+**Can θ = λ/b be used for any angle?**
+No. θ = λ/b, with θ in radians, only works when the angle is small.
+
 ## Official syllabus
 
 *Physics guide*, first assessment 2025, International Baccalaureate Organization, sub-topic C.3 Wave phenomena.

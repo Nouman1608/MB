@@ -273,6 +273,20 @@ A block sliding without friction would reach √(2gh) = 3.43 m s⁻¹. The cylin
 - Applying conservation of L when an external torque, such as friction at a bearing, acts during the process.
 - Assuming kinetic energy is conserved whenever L is.
 
+## Frequently asked questions
+
+**How long is IB DP Physics A.4 Rigid body mechanics?**
+A.4 is allotted 7 hours and is HL only. SL students can skip it.
+
+**Do I need the vector direction of a torque?**
+No. The vector direction of a torque is not needed, but you must state whether it is clockwise or counter-clockwise.
+
+**Do I have to calculate a centre of mass?**
+No. You are not asked to calculate the position of a centre of mass; for a uniform beam the weight acts at its midpoint.
+
+**Which combined rotation and translation problems are examined?**
+Combined rotation and translation is limited to rolling without slipping, where v = ωr and the kinetic energy has a translational and a rotational part.
+
 ## Official syllabus
 
 This page follows sub-topic A.4 (Rigid body mechanics) of the IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. A.4 is additional higher level content only.

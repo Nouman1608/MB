@@ -159,6 +159,20 @@ These questions cover sub-topic C.1, Simple harmonic motion, in the IB *Physics 
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics SHM questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Which of these SHM questions are HL only?**
+Questions and parts marked "HL only" use additional higher level content, including Questions 8, 9, 10 and 12 and parts of Question 11. Everything else is for SL and HL.
+
+**What value of g do these questions use?**
+Take g = 9.81 m s⁻² wherever it is needed.
+
+**What slips lose marks in SHM calculations?**
+Common slips are mixing up hertz and radians per second, working in degrees for a phase angle, and rounding ω early so the final answer drifts.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic C.1 Simple harmonic motion.

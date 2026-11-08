@@ -230,6 +230,20 @@ Now raise a to 0.82 as the concentration of greenhouse gases grows: Ts = **290 K
 - Treating albedo as a percentage of what is emitted, when it is a fraction of what is incident.
 - Treating emissivity above 1 as possible.
 
+## Frequently asked questions
+
+**What is the average albedo of Earth?**
+A convenient average value for Earth's albedo is about 0.30, although it changes with cloud cover, latitude and the angle of the Sun's rays.
+
+**Why is Earth's surface warmer than its no-atmosphere temperature?**
+With no atmosphere Earth's equilibrium temperature would be about 255 K, but the actual mean surface temperature is nearer 288 K. The 33 K gap is the greenhouse effect, which keeps the surface warm enough for liquid water.
+
+**Can emissivity be greater than 1?**
+No. Emissivity compares a surface with an ideal black surface at the same temperature, so its value cannot exceed 1.
+
+**What is the main human cause of the enhanced greenhouse effect?**
+The guide singles out the burning of fossil fuels as the main human cause of the enhanced greenhouse effect.
+
 ## Official syllabus
 
 Source: the *Physics guide* for the IB Diploma Programme (first assessment 2025), International Baccalaureate Organization. Topic B.2, Greenhouse effect.
