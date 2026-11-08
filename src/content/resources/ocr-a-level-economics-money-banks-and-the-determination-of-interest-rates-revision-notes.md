@@ -255,6 +255,20 @@ Always label both axes, both curves, the original and new equilibrium and the ar
 - Giving a list of weaknesses without a judgement about when the theory is more or less relevant.
 - Mixing up the two theories: liquidity preference is about money, loanable funds is about saving and borrowing.
 
+## Frequently asked questions
+
+**What is the difference between narrow and broad money?**
+Narrow money covers notes and coins plus current account deposits. Broad money adds savings and time deposits, so moving money between current and savings accounts changes narrow money but not broad money.
+
+**What is liquidity preference theory?**
+Liquidity preference theory explains the interest rate through the money market: the rate settles where the demand for money equals the money supply. A rise in the money supply lowers the equilibrium interest rate.
+
+**What is loanable funds theory?**
+Loanable funds theory explains the interest rate through saving and borrowing: the rate settles where the supply of funds from savers equals the demand for funds from borrowers.
+
+**Is MV = PT a theory?**
+MV = PT, the Fisher equation of exchange, is an identity that is true by definition. It becomes the quantity theory of money only when velocity and transactions are assumed constant, so that the price level changes in proportion to the money supply.
+
 ## Official syllabus
 
 *OCR A Level in Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021, published by OCR.

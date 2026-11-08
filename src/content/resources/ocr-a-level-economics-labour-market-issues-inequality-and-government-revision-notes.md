@@ -222,6 +222,23 @@ Examples to know: the National Minimum Wage Act, the Equality Act and EU working
 - Mixing up stocks and flows in inequality answers.
 - Ignoring time lags and cost in training and education policy.
 
+## Frequently asked questions
+
+**What is the replacement ratio?**
+The replacement ratio is income out of work (benefits) as a percentage of income in work. A high replacement ratio weakens the financial incentive to take a job.
+
+**What is the difference between occupational and geographical mobility of labour?**
+Occupational mobility is the ease of moving between jobs or industries, while geographical mobility is the ease of moving to work in another area. Barriers include skills gaps, house prices, family ties, information gaps and transport costs.
+
+**What is productivity bargaining?**
+Productivity bargaining links higher pay to productivity gains or changes in working practices. If output per hour rises by more than pay, labour cost per unit falls; if pay rises faster, the deal is not self-financing.
+
+**What is a marginal effective tax rate?**
+It is the share of an extra pound of gross earnings lost through tax and reduced benefits combined. When benefits are withdrawn steeply as income rises, this rate can be very high and weaken the incentive to work more.
+
+**Why is wealth usually more unequal than income?**
+Income is a flow received over a period, while wealth is the value of assets held. Wealth generates income such as rent and interest, which can be saved and added to wealth, so wealth is normally distributed more unequally than income.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460) specification*, Version 3.0 (June 2026), first assessment 2021.

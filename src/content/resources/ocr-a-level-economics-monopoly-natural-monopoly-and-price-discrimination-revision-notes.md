@@ -252,6 +252,20 @@ Price
 - Listing advantages and disadvantages with no judgement or no "it depends on".
 - Treating a natural monopoly as an ordinary monopoly and ignoring its falling ATC.
 
+## Frequently asked questions
+
+**Why can a monopolist keep making supernormal profit in the long run?**
+Barriers to entry stop new firms entering, so no new supply takes customers away and the monopolist's demand curve does not shift left. The barriers are the reason the profit persists.
+
+**Why is a monopolist a price maker?**
+Its demand curve is the market demand curve and slopes down, so there is a different price for each output. The firm picks a point on that curve, and blocked entry means rivals cannot undercut it.
+
+**What conditions are needed for price discrimination?**
+The firm needs market power, markets that can be kept separate with no resale between them, and different price elasticities of demand in each market.
+
+**Is a natural monopoly good or bad?**
+Falling average cost means one firm is the cheapest way to supply the market, and duplication would raise cost per unit. Without regulation, however, it can charge a high price, so the judgement depends on regulation and on how well the regulator knows the firm's costs.
+
 ## Official syllabus
 
 OCR A Level in Economics (H460), Version 3.0 (June 2026), for first assessment in 2021, published by OCR (Oxford Cambridge and RSA Examinations).

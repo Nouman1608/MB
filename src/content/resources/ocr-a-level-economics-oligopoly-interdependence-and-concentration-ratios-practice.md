@@ -122,6 +122,23 @@ These questions follow the oligopoly statements in OCR A Level Economics (H460),
 - Drawing a diagram with unlabelled axes, curves or equilibrium.
 - Listing advantages and disadvantages without weighing them.
 
+## Frequently asked questions
+
+**How do you calculate a concentration ratio?**
+An n-firm concentration ratio adds the market shares of the n largest firms, usually by sales, though output or employment can be used. Always state n and the measure used, and give the ratio as a share of the market, not as a number of firms.
+
+**How do you find a Nash equilibrium in a game theory question?**
+Check each player's best reply to every choice the other could make. A Nash equilibrium is an outcome where neither firm can gain by changing its own choice given the other's, so calling an outcome a Nash equilibrium without checking each best reply loses marks.
+
+**Which side of the kinked demand curve is elastic?**
+Demand is elastic above the kink, because rivals do not copy a price rise, and inelastic below it, because rivals match a price cut. Mixing up the two sides is a common error.
+
+**How do you work out whether an advertising campaign pays for itself?**
+Divide the cost of the campaign by the contribution per unit, which is price minus variable cost, to find the extra sales needed. Dividing by the price alone is a common mistake.
+
+**What makes a strong answer to an oligopoly evaluation question?**
+Weigh the advantages and disadvantages rather than just listing them, use examples, and reach a judgement. Diagrams should have labelled axes, curves and equilibrium in OCR A Level Economics (H460) answers.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios/).

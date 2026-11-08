@@ -264,6 +264,20 @@ Judgement frame: it is a useful benchmark, strongest where firms are profit-driv
 - Comparing market structures feature by feature without a view on efficiency.
 - Ending an evaluation question with no conclusion or no example.
 
+## Frequently asked questions
+
+**What is the prisoner's dilemma in oligopoly?**
+The prisoner's dilemma is a situation where self-interest drives both firms to an outcome that leaves each worse off than if they had cooperated, such as both choosing a low price.
+
+**What is the difference between formal and tacit collusion?**
+Formal (overt) collusion is an explicit agreement, such as a cartel fixing price or output quotas. Tacit collusion involves no agreement, but firms follow a common practice, such as price leadership or avoiding price cuts.
+
+**What does the kinked demand curve explain?**
+It explains price rigidity in oligopoly: because a price rise is not followed and a price cut is matched, the firm has little reason to change its price while marginal cost stays within the gap in marginal revenue.
+
+**How useful is the theory of the firm in explaining real behaviour?**
+The OCR A Level Economics (H460) notes judge it a useful benchmark, strongest where firms are profit-driven and markets stable, and weaker where firms have mixed objectives. Always support the judgement with an example.
+
 ## Official syllabus
 
 Source: OCR A Level in Economics (H460), specification Version 3.0 (June 2026), for first assessment in 2021, published by OCR. Area of study: Competition and market power.

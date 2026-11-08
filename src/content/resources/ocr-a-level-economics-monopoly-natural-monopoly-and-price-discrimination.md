@@ -233,6 +233,23 @@ Build a chain, not a list. For example: *large profits can fund research and dev
 - Saying "monopoly is always bad". A natural monopoly may be the lowest-cost structure.
 - Shading supernormal profit between price and MC. It is between price and ATC.
 
+## Frequently asked questions
+
+**What is the difference between a monopoly and a monopsony?**
+A monopoly is a market with one seller, which controls the supply side. A monopsony is a market with one buyer, which controls the demand side and can push the price it pays below the competitive level, as with a sole buyer of milk from many small farms.
+
+**What are examples of barriers to entry in a monopoly?**
+The OCR A Level Economics (H460) guide lists economies of scale, legal protection such as patents and licences, control of a key resource, heavy sunk costs and strong branding.
+
+**Why does marginal revenue lie below average revenue for a monopolist?**
+To sell one more unit, a monopolist must cut the price on every unit it sells, so the extra revenue from the last unit is less than its price. For a linear demand curve, MR is twice as steep as AR.
+
+**Why is a monopolist not allocatively or productively efficient?**
+At the profit-maximising output price is above marginal cost, so output is too low and there is a deadweight loss. The firm also usually produces on the falling part of its average total cost curve, above the lowest possible cost.
+
+**Is monopoly always bad for consumers?**
+No. A natural monopoly may be the lowest-cost market structure, and supernormal profit can fund research and development that leads to new products and lower costs, but only if the firm reinvests and faces some pressure to do so.
+
 ## Official syllabus
 
 OCR A Level in Economics (H460), Version 3.0 (June 2026), for first assessment in 2021, published by OCR (Oxford Cambridge and RSA Examinations).

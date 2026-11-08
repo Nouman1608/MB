@@ -224,6 +224,20 @@ Aid: finances investment, health and education, and relief; but risks dependency
 - Listing the assumptions of comparative advantage but not saying which matter most.
 - Concluding on aid without distinguishing types or recipients.
 
+## Frequently asked questions
+
+**What is the difference between absolute and comparative advantage?**
+A country has an absolute advantage if it can produce a good using fewer resources per unit than another country. It has a comparative advantage if it gives up less of other output to make that good, whatever its absolute productivity.
+
+**What does Heckscher-Ohlin theory say?**
+Heckscher-Ohlin theory states that a country has a comparative advantage in goods that use intensively the factor of production it has in abundance, and imports goods that use its scarce factor intensively.
+
+**What determines a country's terms of trade?**
+The terms of trade depend on world demand and supply for the goods traded, their income and price elasticities, the exchange rate, relative inflation and productivity, market power, and subsidies and trade barriers.
+
+**How well does comparative advantage explain real trade patterns?**
+It explains much resource-based trade well, but it is a weaker guide to trade in differentiated manufactures and services. Much trade happens between similar countries because of product differentiation and economies of scale, and opportunity costs usually rise as a country specialises.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021. Component 2, Macroeconomics: area of study The global context, topic International trade.

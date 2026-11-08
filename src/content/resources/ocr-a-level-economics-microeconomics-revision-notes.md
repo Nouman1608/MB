@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on elasticity, costs and revenue, market structures, labour markets and market failure for OCR A Level Economics H460."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -162,3 +164,20 @@ Externalities in production and consumption, public goods, information gaps (**a
 5. Why might a minimum wage raise employment in a monopsony?
 
 **Answers:** 1. The more inelastic side of the market, because it can least easily change quantity in response to the price change. 2. While MC is below AC it pulls the average down and once above it pulls the average up, so the curves must intersect where AC is at its lowest. 3. Barriers to entry prevent new firms entering to compete it away. 4. Adverse selection occurs before the transaction, when the worse risks are the ones who choose to participate; moral hazard occurs afterwards, when behaviour becomes riskier once covered. 5. A monopsonist restricts employment to keep wages down; a minimum wage removes that ability, so both wages and employment can rise.
+
+## Frequently asked questions
+
+**Who pays more of an indirect tax?**
+Tax incidence follows elasticity: the more inelastic side of the market bears more of the tax, because it can least easily change quantity in response to the price change.
+
+**Why does marginal cost cut average cost at its minimum?**
+While marginal cost is below average cost it pulls the average down, and once it is above it pulls the average up, so the two curves must cross where average cost is at its minimum.
+
+**What is the difference between allocative, productive and dynamic efficiency?**
+Allocative efficiency occurs where price equals marginal cost, productive efficiency where output is at minimum average cost, and dynamic efficiency refers to innovation over time, which supernormal profit can fund.
+
+**What conditions are needed for price discrimination?**
+A firm needs market power, markets that can be kept separate, and different price elasticities of demand in each market.
+
+**What is government failure?**
+Government failure occurs when intervention leads to a worse allocation of resources, through information gaps, administrative cost, unintended consequences or regulatory capture. The OCR A Level Economics (H460) notes say a strong evaluation of intervention usually includes it.

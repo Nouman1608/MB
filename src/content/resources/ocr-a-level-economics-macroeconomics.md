@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
-description: "Aggregate demand and supply, economic policy objectives, implementing policy, the global context, and the financial sector -- a syllabus map and study guide for Component 2, Macroeconomics, for OCR A Level Economics (H460)."
+description: "Syllabus map and study guide to OCR A Level Economics (H460) Component 2: AD/AS, policy objectives, fiscal and monetary policy, global context and finance."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Component 2: Macroeconomics (H460/02)**, one of
@@ -168,6 +170,20 @@ financial sector sections with an eye to how they connect back to
 microeconomic content such as market structures and exchange-rate
 determination, rather than treating Macroeconomics as entirely
 self-contained.
+
+## Frequently asked questions
+
+**What topics are in OCR A Level Economics Component 2 Macroeconomics?**
+Component 2 (H460/02) covers five areas: aggregate demand and aggregate supply, economic policy objectives, implementing policy, the global context, and the financial sector.
+
+**How much is the macroeconomics component worth in OCR A Level Economics?**
+Component 2 is one of three equally weighted components, each worth 33.33% of the full OCR A Level Economics (H460) qualification.
+
+**What is supply-side policy?**
+Supply-side policy aims to shift long-run aggregate supply through structural reform. Describing it only as "cutting taxes" misses this aim.
+
+**Why do exchange rates matter in a domestic policy question?**
+Exchange rates, international competitiveness and trade policy often interact with domestic fiscal and monetary decisions. For example, an interest rate cut can weaken the currency, which affects import prices, inflation and the balance of payments.
 
 ## Related resources
 

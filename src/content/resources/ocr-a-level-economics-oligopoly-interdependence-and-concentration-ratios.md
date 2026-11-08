@@ -273,6 +273,23 @@ Use examples. A small bakery in a town centre may fit monopolistic competition. 
 - Naming a Nash equilibrium without checking each firm's best reply.
 - Giving a concentration ratio without n, or as a number of firms.
 
+## Frequently asked questions
+
+**What is non-price competition?**
+Non-price competition is rivalry based on anything other than a lower price, such as branding and advertising, quality and design, after-sales service, delivery speed, loyalty schemes, product range and innovation.
+
+**What is a dominant strategy?**
+A dominant strategy is a choice that gives a firm a better result whatever its rival does. If both firms have the same dominant strategy, the outcome is a Nash equilibrium.
+
+**What are the limitations of the kinked demand curve model?**
+It says nothing about how the starting price was set, rivals may react differently from what the model assumes, and prices do change in practice, sometimes in price wars.
+
+**What is price leadership?**
+Price leadership is a form of tacit collusion in which a dominant firm sets the price and rival firms follow it, without any formal agreement.
+
+**Is an oligopoly allocatively efficient?**
+No. An oligopolist sets price above marginal cost, so the market is not allocatively efficient, and output is probably below the level of minimum average cost.
+
 ## Official syllabus
 
 Source: OCR A Level in Economics (H460), specification Version 3.0 (June 2026), for first assessment in 2021, published by OCR. Content from the Competition and market power area of study, topic Market structures and their implications for the way resources are allocated and the interdependence of firms.

@@ -233,6 +233,20 @@ Perfect competition: none. Monopolistic competition: low. A barrier to exit can 
 - An evaluation that lists strengths and limits but gives no judgement.
 - Listing barriers without saying how each one blocks entry or exit.
 
+## Frequently asked questions
+
+**What are the characteristics of perfect competition?**
+Perfect competition has many buyers and sellers, an identical product, perfect knowledge, free entry and exit, and profit-maximising firms.
+
+**What are the characteristics of monopolistic competition?**
+Monopolistic competition has many firms selling differentiated products, each facing a downward-sloping, fairly elastic demand curve, with low barriers to entry and exit, non-price competition and independent decisions.
+
+**What is the difference between shut-down and break-even?**
+A firm shuts down in the short run when price is below average variable cost. It breaks even, earning normal profit, when price equals average cost.
+
+**Why is perfect competition still useful if its assumptions are unrealistic?**
+The OCR A Level Economics (H460) notes treat it as better as a yardstick than as a description: it is a benchmark for efficiency, shows how entry erodes supernormal profit, and helps explain price-taking in markets for standardised goods.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021, Component 1 Microeconomics, topic on market structures.
