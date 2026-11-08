@@ -5245,6 +5245,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 2, name: 'Paper 2 – The Environment of Pakistan', slug: 'paper-2-environment-2059', subtopics: [
         { number: '2.1', name: 'The land of Pakistan', slug: 'the-land-of-pakistan-2059' },
         { number: '2.2', name: 'Natural resources – an issue of sustainability', slug: 'natural-resources-sustainability-2059' },
+        { number: '2.3', name: 'Power', slug: 'power-2059' },
+        { number: '2.4', name: 'Agricultural development', slug: 'agricultural-development-2059' },
+        { number: '2.5', name: 'Industrial development', slug: 'industrial-development-2059' },
+        { number: '2.6', name: 'Trade', slug: 'trade-2059' },
+        { number: '2.7', name: 'Transport and telecommunications', slug: 'transport-and-telecommunications-2059' },
+        { number: '2.8', name: 'Population and employment', slug: 'population-and-employment-2059' },
       ] },
     ],
   },
