@@ -7,7 +7,7 @@ topic: "Exam preparation -- Papers 1 and 2"
 boards: ["edexcel"]
 qualifications: ["a-level"]
 syllabusCodes: ["YLA1"]
-syllabusSeries: "Specification Issue 4, November 2021"
+syllabusSeries: "Issue 4, November 2021"
 order: 3
 description: "Why Edexcel IAL Law YLA1 is linear rather than modular, what sitting two 3-hour papers in one June series demands, how Paper 2's synoptic content works, and a worked application routine."
 author: "marlbridge-academic-team"

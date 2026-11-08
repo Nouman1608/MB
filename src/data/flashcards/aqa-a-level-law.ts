@@ -67,7 +67,7 @@ export const DECK_AQA_A_LEVEL_LAW: FlashcardDeck = {
     ...unnumbered(T1, 'nature-of-law-law-and-morality-7162', 3, [
       { n: 1, f: 'How do law and morality differ?', b: 'Law is made formally, changes deliberately, is enforced by the state and is obligatory. Morality develops gradually, varies between people and groups, and is enforced by conscience and social pressure. They overlap (e.g. murder, theft) but are not the same.' },
       { n: 2, f: 'What was the Hart–Devlin debate?', b: 'After the Wolfenden Report (1957). Lord Devlin: society may use the law to enforce its shared morality, or it may disintegrate. Professor Hart, following Mill’s harm principle: the law should intervene only to prevent harm to others.' },
-      { n: 3, f: 'How does R v Brown (1994) show the link between law and morality?', b: 'The House of Lords held that consent was no defence to actual bodily harm inflicted in private sadomasochistic activity, enforcing a moral view even though those involved consented.' },
+      { n: 3, f: 'How does R v Brown (1993) show the link between law and morality?', b: 'The House of Lords held that consent was no defence to actual bodily harm inflicted in private sadomasochistic activity, enforcing a moral view even though those involved consented.' },
       { n: 4, f: 'What is the difference between natural law and legal positivism?', b: 'Natural law: a rule must be morally just to be valid law.\nLegal positivism: a rule is valid law if made by the proper procedure, whatever its moral content.' },
       { n: 5, f: 'How has the law changed with moral attitudes? Give an example.', b: 'R v R (1991): the House of Lords held that a husband can be guilty of raping his wife, reflecting the changed view of marriage.' },
     ]),
