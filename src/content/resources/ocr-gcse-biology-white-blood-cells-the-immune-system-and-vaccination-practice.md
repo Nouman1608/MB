@@ -141,6 +141,20 @@ Judgement: benefits outweigh risks, so the vaccine is worthwhile for most childr
 - Take one of the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does a vaccine contain antibodies?**
+No. A vaccine supplies antigens, and the person's lymphocytes make the antibodies. Saying the vaccine contains antibodies is a common slip.
+
+**How do you explain blood clotting for four marks?**
+Say that platelets release chemicals at the damaged area, that soluble fibrinogen is converted into insoluble fibrin, that fibrin forms a mesh which traps red blood cells, and that the clot stops blood loss and pathogens entering. "The blood goes solid" is not enough.
+
+**How do you compare primary and secondary antibody responses on a graph?**
+Quote figures, such as the peak antibody levels and the time taken to reach each peak, and explain the difference using memory cells. Leaving memory cells out of the explanation loses marks.
+
+**Why can't antibiotics treat a viral infection?**
+Antibiotics act on bacterial structures and processes, so they do not work on viruses. A full answer states that the cause is a virus and that the antibiotic acts on bacteria.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), first assessment 2018, published by OCR. These questions cover statements B6.3j, B6.3k, B6.3l and B6.3o.

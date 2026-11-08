@@ -146,6 +146,20 @@ These questions cover statements B6.3v, B6.3w and B6.3x of OCR GCSE (9-1) Gatewa
 - Take one of our [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you write a good "discuss" answer on stem cells or gene therapy?**
+Give benefits and risks, use figures from any data supplied, and reach a reasoned conclusion. Keep points distinct, because repeating the same point in new words adds nothing.
+
+**What is the difference between rejection and graft-versus-host disease?**
+In rejection, the patient's immune system attacks the donor cells. In graft-versus-host disease, donor white blood cells attack the recipient's body.
+
+**How do you calculate the chance of at least one sibling being a tissue match?**
+Find the chance that none match by multiplying the chance of no match for each sibling, then subtract from 1. If each sibling has a 1 in 4 chance, the chance of at least one match among n siblings is 1 − (3/4)ⁿ.
+
+**How should you use percentages when evaluating a medical trial?**
+Quote the figures for both groups and say which group each percentage applies to, then compare them. An overall figure on its own can hide differences between groups.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B6.3v, B6.3w and B6.3x.

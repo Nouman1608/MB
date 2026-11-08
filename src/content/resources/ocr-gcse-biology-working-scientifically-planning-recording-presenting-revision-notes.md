@@ -245,6 +245,20 @@ A conclusion refers to the data, matches the hypothesis, and goes no further tha
 </figure>
 
 
+## Frequently asked questions
+
+**How do you work out the median of a set of results?**
+Put the values in order and take the middle value; for an even number of values, take the mean of the two middle values. The median resists an anomaly better than the mean does.
+
+**How do you find a rate from a straight-line graph?**
+Calculate the gradient as the change in y divided by the change in x, and give units such as cm³ per min. A steeper line means a faster rate.
+
+**What is extrapolation?**
+Extrapolation is extending a line of best fit beyond the measured data to predict a value. It is a prediction, not a measurement, because conditions may change outside the range tested.
+
+**How do you round to significant figures in biology calculations?**
+Give no more significant figures than the least precise data justify, and round only at the end. For example, 0.04567 to 2 significant figures is 0.046.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), first assessment 2018, published by OCR: section 5e Working scientifically (statements 1.2, 1.3, 1.4 and 2a to 2d), section 5f mathematical skills, and Topic B7 Practical skills.

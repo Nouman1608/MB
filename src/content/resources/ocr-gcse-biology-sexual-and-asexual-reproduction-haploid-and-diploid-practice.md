@@ -168,6 +168,20 @@ Evaluate which method the gardener should use (i) to grow a large number of flow
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How many chromosomes should you give for a human gamete?**
+Write 23 chromosomes, not 23 pairs. A gamete contains one chromosome from each pair, so writing "23 pairs" or "46" shows a pair and set confusion.
+
+**How do you calculate the number of possible chromosome combinations in gametes?**
+Use 2 raised to the power of the number of chromosome pairs, not the total number of chromosomes, because each pair contributes two choices. Using the wrong number as the power is a common route to a wrong answer.
+
+**How do you explain the risk of growing a crop as clones?**
+Link the steps: the plants are genetically identical, so they share the same weakness, so one disease that infects one plant can infect them all. Saying "no variation" on its own does not explain the risk.
+
+**How do you answer an evaluate question on sexual and asexual reproduction?**
+Reach a clear choice for each situation given, supported by a reason linked to that situation. Treating sexual reproduction as simply "better" without reference to the organism and environment loses marks.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Biology A (Gateway Science) specification J247, Version 4.0 (August 2026), for first assessment in 2018, published by OCR: statements B5.1f, B5.1g and B5.1h.

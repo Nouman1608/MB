@@ -160,6 +160,20 @@ These questions cover statements B3.2a to B3.2d of module B3.2 in OCR GCSE (9-1)
 - Find your weak spots with the [free 10-minute diagnostics](/diagnostics/).
 - Want a teacher to go through your answers? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you explain why a hormone only affects certain organs?**
+Make both points: the hormone travels in the blood to nearly every tissue, but only target cells with receptors that fit the hormone respond. Saying only that "it goes to the target organ" misses the explanation.
+
+**How do you use hormone data to identify the day of ovulation?**
+Find the day of the LH peak in the data and quote its value, because the LH surge triggers ovulation. Using the data shows you have read it, rather than just recalling day 14.
+
+**How do you describe negative feedback in an exam answer?**
+Say that the change causes a response that reverses it, so a fall leads to a rise and a rise leads to a fall. "The body balances it" is too vague to show negative feedback.
+
+**What causes menstruation according to the hormone changes?**
+Menstruation happens because progesterone and oestrogen levels fall, so the lining can no longer be maintained. Writing that progesterone causes the bleeding is a common error.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Module B3.2, statements B3.2a to B3.2d.

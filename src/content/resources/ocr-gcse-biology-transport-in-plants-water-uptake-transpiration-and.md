@@ -273,6 +273,23 @@ density    = 14 / 0.196 = 71 stomata per mm^2
 - Calculating percentage change from the final value instead of the starting value.
 - Writing a rate without units, or giving a volume rate when only a distance rate was asked for.
 
+## Frequently asked questions
+
+**How do root hair cells absorb water and mineral ions?**
+Water enters root hair cells by osmosis from the more dilute soil water. Mineral ions are usually at a lower concentration in the soil, so they enter by active transport using carrier proteins and energy from respiration.
+
+**What is transpiration?**
+Transpiration is the loss of water vapour from a plant, mainly from the leaves through the stomata. Water evaporates from mesophyll cells into air spaces, diffuses out through open stomata, and is replaced by water pulled up the xylem.
+
+**How are xylem vessels adapted to their function?**
+Xylem vessels are made from dead cells with no cytoplasm and no end walls, forming hollow tubes with little resistance to flow. Their walls are strengthened with lignin, which stops them collapsing and supports the plant.
+
+**What does a potometer measure?**
+A potometer measures the rate of water uptake by a leafy shoot. Uptake is a good estimate of transpiration, because nearly all the water taken in is lost, though a small amount is used in photosynthesis and to keep cells turgid.
+
+**Is plant transport Higher Tier only in OCR GCSE Biology A (J247)?**
+No. Statements B2.2f to B2.2j, covering water uptake, transpiration, translocation and potometers, are not marked as Higher Tier only, so they are for both tiers.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Biology A (Gateway Science) J247 Specification*, Version 4.0 (August 2026), first assessment 2018, statements B2.2f to B2.2j.

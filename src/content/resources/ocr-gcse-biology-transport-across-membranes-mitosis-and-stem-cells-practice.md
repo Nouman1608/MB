@@ -151,6 +151,20 @@ These questions cover statements B2.1a to B2.1f of the OCR GCSE (9-1) Biology A 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Want a tutor? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you describe osmosis correctly in an exam answer?**
+Refer to water and water potential: water moves across a partially permeable membrane from higher to lower water potential. Writing "high to low concentration" without mentioning water is a common way to lose marks.
+
+**What should you say about energy in an active transport answer?**
+Say that the energy comes from respiration, not just that "energy" is needed. Linking the energy to respiration, and so to oxygen, explains data such as reduced uptake when oxygen is removed.
+
+**How do you explain why daughter cells from mitosis are genetically identical?**
+Explain that DNA replication copies each chromosome and the copies are shared out evenly between the two daughter cells. Writing that the cells are "similar", or stating "identical" without a reason, is incomplete.
+
+**How do you answer a question on specialised cells?**
+Link each adaptation to its function, for example a sperm cell's tail lets it swim to the egg. Listing a feature without its purpose is a frequent incomplete answer.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Biology A (Gateway Science), specification J247, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B2.1a to B2.1f.

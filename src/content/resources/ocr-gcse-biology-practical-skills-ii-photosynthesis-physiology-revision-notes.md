@@ -214,6 +214,20 @@ Conversions: 1 cm = 10 mm; 1 mm = 1000 µm. For magnification, convert both leng
 - Saying bacteria were killed when the data show only a clear zone.
 - Drawing diagrams with shading, crossing label lines or no labels on the water level and measuring device.
 
+## Frequently asked questions
+
+**How do you find the concentration with no net water movement in potato tissue?**
+Plot percentage change in mass against concentration and find where the line of best fit crosses zero. At that concentration the water potentials of the solution and the potato cells are about equal.
+
+**What is the difference between sterilising and disinfecting in microbiology practicals?**
+Autoclaving sterilises glassware and media by killing all organisms on them. A disinfectant or alcohol wipe is used to clean work surfaces.
+
+**How can you improve the accuracy of a biology practical?**
+Use measuring equipment with a finer scale, such as a syringe graduated in 0.1 cm³ rather than 1 cm³, a balance that reads to 0.01 g, and a timer rather than a guess.
+
+**What safety and ethical points apply when using human volunteers in exercise practicals?**
+Explain the task and get agreement, allow anyone to stop at any time, exclude anyone with a relevant medical condition, and stop if someone feels unwell.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Biology A (Gateway Science) specification J247, Version 4.0, for first assessment in 2018, published by OCR: Topic B7 Practical skills, Practical Activity Groups 5 to 8, with the Working scientifically section.

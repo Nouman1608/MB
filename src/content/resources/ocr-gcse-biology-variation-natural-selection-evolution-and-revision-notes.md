@@ -261,6 +261,20 @@ Reducing resistance: do not use antibiotics for viral infections, finish prescri
 - Calculating percentage change against the new value instead of the original.
 - Writing that antibiotics "cause" resistance, when the antibiotic selects for resistance that arises by mutation.
 
+## Frequently asked questions
+
+**What are the sources of genetic variation?**
+Genetic variation comes from mutation, which is the only way a completely new allele appears, from meiosis, which gives gametes a random mix of alleles, and from random fertilisation.
+
+**What is a species?**
+A species is a group of organisms that can breed with each other to produce fertile offspring. New species can form when separated populations change so much that they can no longer produce fertile offspring together.
+
+**What is the purpose of a seedbank?**
+Seedbanks store seeds of many species, kept cold and dry, as a store of biodiversity. They keep genetic variation that could be needed if wild populations are lost or the environment changes.
+
+**How did Darwin and Wallace contribute to the theory of evolution?**
+Darwin and Wallace developed the idea of natural selection independently, and their ideas were presented together in 1858. Darwin published On the Origin of Species in 1859.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)* specification, Version 4.0 (August 2026), first assessment 2018, topic B5.2.

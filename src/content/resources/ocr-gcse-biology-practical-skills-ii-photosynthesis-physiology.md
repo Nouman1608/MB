@@ -204,6 +204,23 @@ For 0.0 M: (2.86 - 2.48) / 2.48 x 100 = 15.3%. The graph of percentage change ag
 - Not blotting chips dry.
 - Writing "the bacteria were killed" when the evidence only shows growth was stopped.
 
+## Frequently asked questions
+
+**Which practicals are in PAG 5 to PAG 8 of OCR GCSE Biology A (J247)?**
+PAG 5 is photosynthesis (for example Cabomba), PAG 6 is physiology, responses and respiration (such as pulse rate and exercise), PAG 7 is microbiological techniques (antimicrobial agents on a bacterial lawn) and PAG 8 is transport in and out of cells (potato chips in different solutions). No Higher Tier only labels apply.
+
+**Why is a beaker of water placed between the lamp and the Cabomba?**
+The beaker of water absorbs heat from the lamp and keeps the temperature steady, so temperature stays a control variable while light intensity is changed.
+
+**Why is percentage change in mass used in the potato chip osmosis practical?**
+The chips start with different masses, so raw changes in mass cannot be compared fairly. Percentage change is the change divided by the starting mass, multiplied by 100.
+
+**Does a clear zone around an antibiotic disc show the bacteria were killed?**
+No. A clear zone shows that bacterial growth was prevented near the disc, not necessarily that the bacteria were killed.
+
+**What is the difference between random and systematic error?**
+Random error scatters readings both ways around the true value. Systematic error shifts all readings the same way, such as a balance that always reads 0.05 g too high.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Biology A (Gateway Science) specification J247, Version 4.0, for first assessment in 2018, published by OCR: Topic B7 Practical skills (PAGs 5 to 8), with links to B1.4, B2.1a, B3.1 and B6.3p, and the Working scientifically section.

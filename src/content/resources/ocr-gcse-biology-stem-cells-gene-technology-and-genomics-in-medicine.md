@@ -238,6 +238,23 @@ The overall figure hides the difference. Testing for the marker would let doctor
 
 Good answers give a benefit, a risk and a judgement that uses the information supplied. Quote figures from data in the question, compare like with like, and say what the data cannot show, such as long-term safety.
 
+## Frequently asked questions
+
+**Why are transplanted stem cells rejected?**
+Donor cells carry different antigens on their surface, so the patient's lymphocytes recognise them as foreign and attack them. This is rejection.
+
+**How can rejection of stem cell transplants be reduced?**
+Rejection can be reduced by matching the tissue type, using immunosuppressant drugs (which raise the risk of infection), using the patient's own adult stem cells, or using therapeutic cloning to make embryonic stem cells genetically identical to the patient.
+
+**What is gene therapy?**
+Gene therapy tries to treat a genetic disorder by giving cells a working copy of an allele, often carried into the patient's cells by a modified virus called a vector. It could treat the cause of a disorder, but the allele may insert in the wrong place and the immune system may attack the vector.
+
+**Does a genetic test show whether someone will definitely get a disease?**
+No. A genetic test usually gives a risk, not a certainty, because many diseases also depend on environment and lifestyle.
+
+**Are these medical technologies Higher Tier only in OCR GCSE Biology A (J247)?**
+No. Statements B6.3v, B6.3w and B6.3x, on stem cells, gene technology and the human genome in medicine, are not printed in bold and are assessed in both tiers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B6.3v, B6.3w and B6.3x.

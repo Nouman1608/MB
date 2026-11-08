@@ -285,6 +285,20 @@ A source is where sugar is made or released, such as a photosynthesising leaf. A
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between xylem and phloem?**
+Xylem is made of dead, lignified, hollow cells and carries water and mineral ions upwards only. Phloem is made of living sieve tubes with companion cells and carries dissolved sugars up and down by translocation.
+
+**What is translocation?**
+Translocation is the movement of dissolved food, mainly sucrose, in the phloem from sources such as leaves to sinks such as growing tips, roots, fruits and storage organs. It can move in both directions and uses energy.
+
+**How do guard cells open and close stomata?**
+When guard cells take in water they become turgid and the pore opens, allowing gas exchange for photosynthesis. When they lose water they become flaccid and the pore closes, limiting water loss.
+
+**How does air movement affect the rate of transpiration?**
+Moving air sweeps water vapour away from the leaf surface, so the concentration gradient between the leaf and the air stays steep and the rate increases. In still air, vapour builds up near the leaf.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Biology A (Gateway Science) J247 Specification*, Version 4.0 (August 2026), first assessment 2018, statements B2.2f to B2.2j.

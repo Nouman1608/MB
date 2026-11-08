@@ -241,6 +241,23 @@ To draw this table as a graph: put day on the x-axis (0 to 28, a linear scale, w
 
 Condense with the [revision notes](/resources/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the-practice/). For exam technique see [OCR GCSE Biology exam preparation](/resources/ocr-gcse-biology-exam-preparation/), and check gaps with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is a hormone?**
+A hormone is a chemical messenger made in an endocrine gland and released directly into the blood. It is carried around the body but only changes target cells that have the right receptor for it.
+
+**How is hormonal control different from nervous control?**
+The nervous system sends electrical impulses along neurones, giving very fast, short, targeted responses. The endocrine system sends chemicals in the blood, giving slower responses that often last longer and can be widespread.
+
+**Why is thyroxine an example of negative feedback?**
+If the blood thyroxine level falls below normal, more thyroxine is released by the thyroid; if it rises above normal, less is released. The response reverses the change, so the level stays close to normal.
+
+**What do FSH and LH do in the menstrual cycle?**
+FSH, made in the pituitary gland, causes an egg to mature in a follicle and stimulates the ovary to make oestrogen. A surge of LH, also from the pituitary, triggers ovulation.
+
+**Which parts of the endocrine topic are Higher Tier only in OCR GCSE Biology A (J247)?**
+Statements B3.2b (thyroxine and adrenaline) and B3.2d (interactions of FSH, LH, oestrogen and progesterone) are in bold and tested in Higher Tier papers only. B3.2a and B3.2c are for both tiers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Module B3.2, statements B3.2a to B3.2d.

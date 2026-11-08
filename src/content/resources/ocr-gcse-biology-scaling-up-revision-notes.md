@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "scaling-up-ocr-gcse-biology"
-description: "Condensed recall notes on diffusion/osmosis/active transport, mitosis, stem cells, surface area to volume ratio, and the human and plant transport systems for OCR GCSE (9-1) Biology A Gateway Science (J247), Topic B2."
+description: "Revision notes for OCR GCSE Biology A (J247) Topic B2 Scaling Up: transport mechanisms, stem cells, SA:V ratio, double circulation, xylem and phloem."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -198,6 +200,20 @@ The specification groups this topic's practical work into Practical Activity Gro
   <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**How do you calculate the surface area to volume ratio of a cube?**
+Surface area is 6 × (side × side) and volume is side × side × side; divide the surface area by the volume to give the ratio. For a 2 cm cube this is 24 cm² to 8 cm³, a ratio of 3:1.
+
+**What is a double circulatory system?**
+In a double circulatory system, blood passes through the heart twice in each full circuit: once on the way to the lungs and once on the way to the rest of the body. This maintains a higher pressure than a single circuit would allow.
+
+**How are red blood cells adapted to carry oxygen?**
+Red blood cells have a biconcave shape, which gives a large surface area, and no nucleus, which leaves more space for haemoglobin.
+
+**What is the difference between diffusion and active transport?**
+Diffusion moves particles down a concentration gradient and needs no energy. Active transport moves substances against a concentration gradient and requires energy.
 
 ## Official syllabus
 

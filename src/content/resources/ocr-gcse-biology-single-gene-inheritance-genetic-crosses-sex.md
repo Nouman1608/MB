@@ -225,6 +225,23 @@ Modern knowledge raises ethical issues, such as who should have access to a pers
 - Giving the ratio when asked for a probability. 3:1 is not 3/4.
 - Saying a family of girls makes the next child more likely to be a boy.
 
+## Frequently asked questions
+
+**What is the difference between homozygous and heterozygous?**
+Homozygous means the two alleles of a gene are the same, such as VV or vv. Heterozygous means the two alleles are different, such as Vv.
+
+**What ratio do you get from crossing two heterozygous parents?**
+A cross between two heterozygous parents (Vv × Vv) gives genotypes in the ratio 1 VV : 2 Vv : 1 vv, so the phenotype ratio is 3 dominant : 1 recessive. The probability of an offspring showing the recessive feature is 1/4.
+
+**Does a dominant allele mean the feature is stronger or more common?**
+No. Dominance only describes which feature shows in the phenotype; the dominant allele does not suppress or destroy its partner, and dominant does not mean common or stronger. An allele causing a disorder can be dominant or recessive.
+
+**Who decides the sex of a baby in humans?**
+The sperm decides. Every egg carries an X chromosome, while half of sperm carry X and half carry Y, so each baby has a 50% chance of being a boy (XY) or a girl (XX).
+
+**Why was Mendel's work ignored at first?**
+Mendel published in the 1860s, but chromosomes and cell division were not yet understood, so his "units" had no physical explanation, and his work was not widely read. His ideas were not widely accepted until around 1900.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR (Oxford Cambridge and RSA). Statements B5.1i to B5.1m.
