@@ -142,7 +142,7 @@ See the [Rights and justice](/resources/ib-dp-global-politics-rights-justice/) a
 ## How this topic is examined
 
 - **Paper 1** (1 hour 15 minutes, 25 marks; 30% at SL, 20% at HL) is source-based and draws on the core topics. It has four sources and four compulsory questions worth 3, 4, 6 and 12 marks. Sovereignty is a likely focus.
-- **Paper 2** (1 hour 30 minutes, 30 marks) section B has integrating questions that link the thematic studies and the core topics.
+- **Paper 2** (1 hour 45 minutes, 30 marks) section B has integrating questions that link the thematic studies and the core topics.
 - Examples should mostly be contemporary (roughly the past two decades, in the guide's terms); use older cases only as background.
 - "Distinguish" (AO2) needs the difference made explicit; "evaluate" and "to what extent" (AO3) need a weighed judgement.
 
