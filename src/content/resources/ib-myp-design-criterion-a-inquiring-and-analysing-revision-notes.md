@@ -175,6 +175,20 @@ Notice that every sentence of the brief points back to evidence, and there are n
 - A design brief that repeats the design situation and ignores the research findings.
 - A brief overloaded with measurements that belong in the Criterion B specification.
 
+## Frequently asked questions
+
+**What is the difference between a client and a target audience?**
+A client is a specific person or organisation you design for and can consult. The target audience is the wider group who will use the solution, and a project can have both.
+
+**What is the difference between a design brief and a design specification?**
+The design brief summarises your research and states what is needed and why, which belongs in Criterion A. The specification sets measurable requirements and belongs in Criterion B.
+
+**What is ACCESS FM in MYP Design?**
+ACCESS FM is a common prompt for analysing existing products: aesthetics, cost, customer, environment, size, safety, function and materials. It is not an IB requirement, so use only the headings that matter for your client.
+
+**How do you prioritise research questions in Criterion A?**
+Put first the questions whose answers would change the design most. For example, "What does the client need to carry?" outranks "What colours does the client like?" because it decides size and structure.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014 (published by the IB, 2015). The brief names Criterion A: Inquiring and analysing and requires the ePortfolio design folder to contain a design brief and specification. All examples and data here are fictional.

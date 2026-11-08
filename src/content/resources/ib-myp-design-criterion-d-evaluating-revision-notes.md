@@ -171,6 +171,20 @@ One row per specification point keeps the evaluation complete and makes gaps obv
 - Impact written as a feature list, or only positive, or with no evidence.
 - No reference to the client's own feedback when explaining impact.
 
+## Frequently asked questions
+
+**What is the difference between quantitative and qualitative test data?**
+Quantitative data is numbers, such as mass, time, counts or ratings. Qualitative data is words, such as comments, observations and interview answers, and strong evaluations use both.
+
+**How do you judge whether a specification point is met?**
+State the target, state the result with units, compare them in the same form, then decide whether the point is met, partly met or not met, giving a one-line reason. Stating the size of any shortfall shows how big the fix needs to be.
+
+**Which test types can be used in Criterion D?**
+Common test types are performance tests, user trials, questionnaires or ratings, interviews, expert appraisals and comparison tests. Choose the type that fits each specification point.
+
+**What does objective evaluation mean in MYP Design?**
+Objective evaluation is a judgement that follows the evidence, including reporting honestly when a result falls short of the specification.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014 (published by the IB, 2015). These notes follow the brief's description of criterion D and its assessment details. Level descriptors and task-specific clarifications come from your school.

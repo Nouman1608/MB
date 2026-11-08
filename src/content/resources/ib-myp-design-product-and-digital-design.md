@@ -187,6 +187,20 @@ Your unit will also sit in one of the six global contexts. For example, the plan
 
 Recall the key points with the [revision notes](/resources/ib-myp-design-product-and-digital-design-revision-notes/), try the [practice questions](/resources/ib-myp-design-product-and-digital-design-practice/), and plan your folder with [ePortfolio exam preparation](/resources/ib-myp-design-eportfolio-exam-preparation/) and the [syllabus guide](/resources/ib-myp-design-syllabus-guide/).
 
+## Frequently asked questions
+
+**Do the MYP Design criteria change for product or digital design?**
+No. The design cycle and the four criteria are the same for all three types. What changes is the evidence, the tools and the tests.
+
+**What counts as a solution in MYP Design?**
+The subject brief says a solution can be a model, prototype, product or system that you create and develop yourself.
+
+**What are examples of combined digital and product design?**
+Examples include a board game with a companion scoring app, a sensor housing linked to a web page showing the readings, or packaging with a code that opens an instruction video you made.
+
+**Does the IB give a list of materials or software for MYP Design?**
+No. The brief states the three assessed types and the criteria, but advice on materials, software, prototypes and tests is general design practice rather than an IB list.
+
 ## Official syllabus
 
 This guide is aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014.

@@ -183,6 +183,20 @@ Mini-example: "Changed the lid hinge from a printed pin hinge to a metal piano h
 - Justifications that give the cause but not the effect on the specification or the plan.
 - A prototype left unfinished, so the planned Criterion D tests cannot be run.
 
+## Frequently asked questions
+
+**What does the MYP Design brief say Criterion C requires?**
+The subject brief says you plan the creation of the chosen solution and then follow the plan to create a prototype sufficient for testing and evaluation. That breaks down into a logical plan, technical skill, following the plan and justifying changes.
+
+**What should each step in a Criterion C plan include?**
+Each step should give one clear action, its time, the materials with sizes and quantities, the tools or software, any safety control and a quality check to pass before moving on.
+
+**What is a production log in MYP Design?**
+A production log is a dated record of what was actually done, how long it took and any problems that came up. Comparing planned and actual times in it shows how you followed and adapted your plan.
+
+**What does a prototype sufficient for testing mean?**
+It means a prototype complete enough that your Criterion D tests can be run on it. A solution can be a model, prototype, product or system.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014. Published by the International Baccalaureate Organization.

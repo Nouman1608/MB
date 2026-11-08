@@ -132,6 +132,20 @@ honest, evidence-based evaluation of Criterion D, enters DP Design Technology wi
 its own internally assessed coursework, which follows a very similar inquiry-to-evaluation
 structure.
 
+## Frequently asked questions
+
+**What is IB MYP Design?**
+IB MYP Design is a Middle Years Programme subject that challenges students to apply practical and creative-thinking skills to solve design problems using the design cycle. It also explores the role of design in historical and contemporary contexts and the responsibilities involved in design decisions.
+
+**Can two students in the same MYP Design class produce different solutions?**
+Yes. The design cycle is applied to a genuine problem of the student's own framing, so students can produce entirely different solutions while being assessed against the same four criteria.
+
+**What is the maximum total score in MYP Design?**
+Each of the four criteria is scored from 0 to 8, so the four-criterion subject total is 0–32.
+
+**Why is MYP Design assessed by ePortfolio rather than an on-screen exam?**
+Design's four criteria are best evidenced through a sustained body of process work, which suits a design folder better than timed on-screen questions.
+
 ## Source
 
 International Baccalaureate Organization, Design subject brief (Middle

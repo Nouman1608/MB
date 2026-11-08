@@ -211,6 +211,20 @@ Test ergonomic claims with real users across the size range, not only yourself. 
 - Listing universal design principles without applying one to your product.
 - Collecting personal data "just in case" in a digital solution.
 
+## Frequently asked questions
+
+**Is sustainability a separate criterion in MYP Design?**
+No. Sustainability and ergonomics are related concepts named in the brief, and they provide evidence for Criterion A research and judgement in Criterion D rather than forming a separate criterion.
+
+**Which global contexts suit sustainable and ethical design?**
+Globalization and sustainability suits life-cycle and materials work, while fairness and development suits inclusive and ethical design.
+
+**What is inclusive design?**
+Inclusive or universal design means designing for the widest range of users without special adaptation, rather than for an average user.
+
+**What does design for disassembly mean?**
+It means joining parts so they separate easily for repair or recycling, for example using screws and clips rather than glue and avoiding mixed-material laminates.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Middle Years Programme Subject Brief -- Design*, from 2014 (published by the International Baccalaureate Organization, © 2015). Ergonomics and sustainability appear in the brief as examples of related concepts; subject content on this page is standard design practice written by Marlbridge.

@@ -11,7 +11,7 @@ order: 4
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-design-assessment-criteria"
-description: "Worked, criterion-by-criterion guidance on what top-band evidence actually looks like for MYP Design's four assessment criteria -- Inquiring and analysing, Developing ideas, Creating the solution, and Evaluating -- mapped onto the design cycle."
+description: "What top-band evidence looks like for each IB MYP Design assessment criterion, A to D, applied to a real design project and mapped onto the design cycle."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -141,6 +141,20 @@ general, unsupported statement of success rather than testing the solution again
 in the original specification. Writing up the inquiry, specification or process documentation only
 after the practical work is finished, rather than as the work happens, which tends to produce vaguer,
 less specific evidence than genuine contemporaneous documentation.
+
+## Frequently asked questions
+
+**Which MYP subjects are assessed by ePortfolio?**
+For IB-validated MYP results, the certificate requires an ePortfolio in language acquisition and in one of design, arts or physical and health education. On-screen examinations cover language and literature, individuals and societies, sciences, mathematics and interdisciplinary learning.
+
+**Should you write up MYP Design documentation as you go or at the end?**
+Document as you work rather than reconstructing the process afterwards from memory. A moderator can generally tell contemporaneous process evidence from a tidied-up account written after the prototype was finished.
+
+**What does top-band Criterion D evidence include?**
+It designs specific, measurable tests against the original specification, carries them out and evaluates success against each specification point individually. It also identifies specific improvements and explains the solution's impact on the client or target audience.
+
+**What is the scoring range for each MYP Design criterion?**
+Each criterion has levels 1–8 across four descriptor bands, plus a level of 0 for work that does not reach the level 1 standard, so a criterion's attainable range is 0–8.
 
 ## Official syllabus
 

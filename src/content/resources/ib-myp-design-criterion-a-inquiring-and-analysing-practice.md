@@ -163,6 +163,20 @@ Support:
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What is the difference between primary and secondary research in MYP Design?**
+Primary research is collected first-hand by you for the project, such as a questionnaire or observation. Secondary research has already been collected or published by someone else, so online reviews are secondary even though you found them yourself.
+
+**How should you report survey results in Criterion A?**
+Give the sample size alongside the percentage, for example "9 of 12 coaches (75%)", and say what the result means for the design. Bare percentages, or data without interpretation, lose marks.
+
+**Should Criterion A start with a product idea?**
+No. Criterion A should start with a problem and a named client or target audience, and end with a design brief. Opening with "I will design an app" skips the inquiry.
+
+**Are these MYP Design Criterion A marks real IB marks?**
+No. The bracketed points are a revision aid only. Real MYP work is judged against criterion level descriptors on achievement levels 1–8.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014 (published by the IB, 2015). The brief names Criterion A: Inquiring and analysing and states that the ePortfolio design folder contains a design brief and specification. All questions here are original.

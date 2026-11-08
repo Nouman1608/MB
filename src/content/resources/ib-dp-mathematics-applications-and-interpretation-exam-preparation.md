@@ -9,13 +9,15 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
 syllabusSeries: "First assessment 2021"
 order: 3
-description: "Paper-by-paper exam preparation for IB DP Mathematics: Applications and Interpretation -- technology-fluency strategy for every paper, interpreting results in context, HL Paper 3 strategy, a worked modelling example and a checklist."
+description: "Exam preparation for IB DP Maths Applications and Interpretation: GDC fluency on every paper, interpreting results in context, HL Paper 3 and a checklist."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 The [assessment revision notes](/resources/ib-dp-mathematics-applications-and-interpretation-assessment-revision-notes/)
@@ -137,6 +139,20 @@ model was never tested against, making an estimate there far less reliable. 4. B
 timed exam paper, the exploration is completed over an extended period without exam-day time
 pressure, so starting early leaves time for a full draft to be checked against the criteria and
 revised at least once, which consistently outperforms work rushed in the final weeks.
+
+## Frequently asked questions
+
+**Why should you revise IB Maths AI with your GDC in hand?**
+Every paper permits technology and the questions are written expecting it, so using your GDC efficiently needs to be automatic. Practising with it throughout revision avoids learning its functions for the first time under exam pressure.
+
+**How do you comment on the reliability of a regression estimate?**
+Say whether the value used lies inside the range of the data (interpolation, more reliable) or outside it (extrapolation, far less reliable), and tie the comment to the context. A number alone is not a reliability comment.
+
+**What does HL Paper 3 test in IB Maths AI?**
+HL Paper 3 has two extended-response problem-solving questions using technology, worth 20%. It rewards carrying one modelling scenario through several connected parts, often reusing earlier results.
+
+**How should you scope an IB Maths AI exploration?**
+Choose a tightly scoped question and develop it in depth. A topic so broad that the mathematics ends up superficial generally scores lower than a focused one.
 
 ## Official syllabus
 

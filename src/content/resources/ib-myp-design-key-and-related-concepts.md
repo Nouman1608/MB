@@ -224,6 +224,20 @@ Test for a debatable question: could two well-informed people give different ans
 - The whole framework: [MYP Design syllabus guide](/resources/ib-myp-design-syllabus-guide/)
 - Course hub: [/boards/ib/ib-myp/myp-design/](/boards/ib/ib-myp/myp-design/)
 
+## Frequently asked questions
+
+**What is the difference between a concept and a topic in MYP Design?**
+A topic is a subject area such as chairs or lighting. A concept such as ergonomics applies across many topics, which lets you transfer what you learn in one project to the next.
+
+**What are factual, conceptual and debatable questions in MYP Design?**
+Factual questions have a checkable answer, conceptual questions explore how ideas connect, and debatable questions invite argued positions. The brief says the curriculum explores all three types.
+
+**How does communication apply in design?**
+It works at two levels: the product communicates with its user, for example through a warning light or loading bar, and the designer communicates through the folder, sketches, specification and presentation to the client.
+
+**Can a school use different concepts from those in the MYP Design brief?**
+Yes. MYP has no prescribed content list and schools design their own units, so a unit may be framed with a different MYP key concept or related concept. The same methods still apply.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014. The brief names communication, communities, development and systems as key concepts, gives adaptation, ergonomics, sustainability and innovation as examples of related concepts, and lists the six global contexts. All anthropometric data on this page are fictional.

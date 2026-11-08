@@ -159,6 +159,20 @@ Under Globalization and sustainability, the matching test would measure plate wa
 
 Condense this into recall with the [revision notes](/resources/ib-myp-design-global-contexts-and-design-situations-revision-notes/), then try the [practice questions](/resources/ib-myp-design-global-contexts-and-design-situations-practice/). For how the ePortfolio is put together, read the [ePortfolio preparation checklist](/resources/ib-myp-design-eportfolio-exam-preparation/) and the [syllabus guide](/resources/ib-myp-design-syllabus-guide/).
 
+## Frequently asked questions
+
+**How do global contexts work in an MYP Design project?**
+The global context is the lens that decides which problem you pick out of a design situation, who you research and what success means when you test. It is not just a label for the cover page.
+
+**Where does Criterion A start in MYP Design?**
+The subject brief says Criterion A starts with a design situation, from which you identify a problem to solve, analyse the need for a solution and inquire into the nature of the problem.
+
+**What are the key concepts in MYP Design?**
+The brief's examples of key concepts for design are communication, communities, development and systems. Its related concept examples include adaptation, ergonomics, sustainability and innovation.
+
+**Does the IB define each global context for MYP Design?**
+The subject brief lists the six global contexts but does not define them, so your teacher can share fuller descriptions.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014. The brief lists the six global contexts and says criterion A begins from a design situation; the worked examples, context summaries and data on this page are Marlbridge's own and are fictional.

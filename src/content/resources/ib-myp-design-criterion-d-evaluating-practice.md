@@ -138,6 +138,20 @@ Study first with the [criterion D study guide](/resources/ib-myp-design-criterio
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What four things does MYP Design Criterion D ask you to do?**
+The subject brief says you design tests to evaluate the solution, carry out the tests and objectively evaluate its success, identify areas where the solution could be improved, and explain its impact on the client or target audience.
+
+**Why can the mean be misleading when judging a specification point?**
+If the specification sets a proportion, such as "at least 80% of users finish in under 3 minutes", judge the proportion of users who met it. A mean time under the target can hide the fact that too few individual users met it.
+
+**What makes a user test unfair in MYP Design?**
+Leading questions such as "Don't you love how stylish it is?", very small samples, and testers who are friends rather than the real target audience all weaken a test. Use neutral questions and enough people from the target audience.
+
+**How do you make an improvement suggestion evidence-based?**
+Link it to a specific test result or comment, state the exact change, and explain how it fixes the problem. "Make it better and more colourful" is not linked to any evidence.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014 (published by the IB, 2015). These questions follow the brief's description of criterion D. Level descriptors and task-specific clarifications come from your school.

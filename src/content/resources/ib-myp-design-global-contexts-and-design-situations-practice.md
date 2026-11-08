@@ -154,6 +154,20 @@ Improvements: rewrite the statement around new students' need with evidence, for
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the six MYP global contexts?**
+The six global contexts are identities and relationships, orientation in space and time, personal and cultural expression, scientific and technical innovation, globalization and sustainability, and fairness and development.
+
+**What is a common weakness in a design problem statement?**
+Common weaknesses are naming a product instead of a need, leaving out the target audience or evidence, and packing several needs into one statement. A good statement has one audience, one need, evidence and no named solution.
+
+**Is it enough to write the global context on the front page of a design folder?**
+No. The context should shape who you research and what you test. If every test ignores the chosen context, it has been used as a label rather than a lens.
+
+**Are these MYP Design global context questions real IB marks?**
+No. They are original questions, and the bracketed points are a revision aid. Real MYP work is judged against criterion level descriptors on achievement levels 1–8.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014. The six global contexts, the concept examples and the criterion names come from the brief; all questions, scenarios and data are original to Marlbridge and fictional.

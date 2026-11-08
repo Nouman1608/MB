@@ -165,6 +165,20 @@ Evaluate this evaluation. Use the data, and explain what a stronger Criterion D 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How is MYP Design formally assessed?**
+The MYP Design subject brief says design courses are assessed in one of three forms: product design, digital design, or combined digital and product design. Your school decides which type you follow.
+
+**When do you need a low-fidelity or a high-fidelity prototype?**
+A low-fidelity prototype, such as a card model or paper mock-up, is enough to check size or whether users understand menu labels. Tests of real performance, such as whether a shelf holds a load, need a high-fidelity prototype made from the final materials.
+
+**Can an average result show that a specification is met?**
+Not always. If the specification requires every device or every drop to pass, one failure means it is not met, even if the overall percentage or mean looks good.
+
+**Are these MYP Design product and digital design marks real IB marks?**
+No. The bracketed points are a revision aid, and all the data is fictional. Real MYP work is judged against criterion level descriptors on levels 1–8 in four bands.
+
 ## Official syllabus
 
 This practice set is aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014.

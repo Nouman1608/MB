@@ -174,6 +174,20 @@ Improvements then target the screens where users hesitated or failed, and impact
 
 Condense this with the [revision notes](/resources/ib-myp-design-criterion-d-evaluating-revision-notes/), then try the [practice questions](/resources/ib-myp-design-criterion-d-evaluating-practice/). For the whole folder, read [ePortfolio preparation](/resources/ib-myp-design-eportfolio-exam-preparation/) and [how MYP Design is assessed](/resources/ib-myp-design-assessment-revision-notes/). Tick progress on the [MYP Design checklist](/checklists/ib/ib-myp/myp-design/).
 
+## Frequently asked questions
+
+**Why does Criterion D depend on Criterion B?**
+The specification written in Criterion B drives the development of the solution and also the evaluation. A vague specification leaves nothing precise to test against, which makes a strong evaluation almost impossible.
+
+**How many times should you repeat a measurement in a design test?**
+Three readings is a sensible minimum, using the mean, with conditions kept the same each time, such as the same load, surface and instructions.
+
+**Who should test an MYP Design solution?**
+Test with enough people from the real target audience, in real conditions where possible, not just yourself or friends at home.
+
+**What does impact mean in MYP Design Criterion D?**
+Impact is the effect the solution has on the client, the target audience and the wider world. Explain both positive and negative or limiting effects.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014 (published by the IB, 2015). This guide follows the brief's description of criterion D, its statement that each criterion has eight achievement levels in four bands, and its ePortfolio details. Task-specific level descriptors come from your school.
