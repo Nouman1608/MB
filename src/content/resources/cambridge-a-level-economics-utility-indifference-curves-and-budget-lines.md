@@ -232,6 +232,23 @@ Substitution effect on X = 12.25 − 10 = +2.25. Income effect = 15 − 12.25 = 
 - Treating all inferior goods as Giffen goods. Giffen goods are a special case.
 - Not holding real income constant in the substitution effect.
 
+## Frequently asked questions
+
+**Is utility and indifference curve analysis examined at AS Level in Cambridge 9708?**
+No. Sections 7.1 and 7.2 are A Level content in the Cambridge International AS & A Level Economics 9708 syllabus, so this unit is not examined at AS.
+
+**What is diminishing marginal utility?**
+As a consumer takes more units of a good in a given time, the extra satisfaction from each extra unit falls. Total utility keeps rising while marginal utility is positive and is at its maximum when marginal utility is zero.
+
+**Why does a demand curve slope downwards in marginal utility theory?**
+A consumer buys a unit if its marginal utility is worth at least its price. Because marginal utility diminishes, a lower price makes lower-value units worth buying, so quantity demanded rises as price falls.
+
+**Where does a consumer maximise utility on an indifference curve diagram?**
+At the point where the budget line just touches the highest affordable indifference curve, where the marginal rate of substitution equals the ratio of the two prices.
+
+**What are the limitations of marginal utility theory?**
+Utils cannot be measured, the marginal utility of money may not stay constant, and consumers may not be rational because of habit, advertising, limited information or addiction. The theory still explains why demand curves usually slope down.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 7.1 and 7.2 (Cambridge University Press & Assessment).

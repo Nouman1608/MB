@@ -138,6 +138,20 @@ This set covers sections 6.4.1 to 6.4.4 of the Cambridge IGCSE Economics 0455 sy
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How should you write a current account deficit in an answer?**
+Show a deficit with a minus sign or the word deficit, and a surplus with a plus sign or the word surplus. Dropping the sign or the label is one of the most common ways to lose marks.
+
+**What is the difference between the goods balance and the current account balance?**
+The goods balance covers trade in goods only. The current account balance adds together four sections: trade in goods, trade in services, primary income and secondary income, so check which one the question asks for.
+
+**Does a depreciation always improve the current account?**
+No. Whether a fall in the exchange rate improves the balance depends on the price elasticity of demand for exports and imports. If demand for both is inelastic, import spending could rise by more than export earnings.
+
+**How do you get evaluation marks on balance of payments policies in Cambridge IGCSE Economics 0455?**
+Match the policy to the cause of the imbalance, explain how it changes the balance, then say when and why it might fail, for example because of low price elasticity, time lags, retaliation or side effects such as unemployment.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education), section 6.4.

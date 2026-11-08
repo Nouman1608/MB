@@ -256,6 +256,20 @@ Training is cheaper per job and the jobs are lasting. Public works help immediat
 - Offering a demand-side remedy for structural unemployment, or retraining for cyclical unemployment.
 - Listing consequences without saying who bears them.
 
+## Frequently asked questions
+
+**What does section 4.7 of Cambridge O Level Economics 2281 cover?**
+Section 4.7 covers definitions of employment, unemployment and full employment, changing patterns and levels of employment, how unemployment is measured, the three types, their consequences and policies to reduce unemployment.
+
+**Does full employment mean nobody is unemployed?**
+No. Full employment means everyone willing and able to work at the going wage has a job, but a few people will always be unemployed while they change jobs.
+
+**Why do more women join the labour force as economies develop?**
+Attitudes change so paid work outside the home is more accepted, more girls finish school, laws can ban discrimination, smaller families free up time and many households want a second income.
+
+**Does a rise in employment always lower the unemployment rate?**
+No. If the labour force grows by more than the number of new jobs, the unemployment rate can rise even though more people are in work.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: section 4.7 Employment and unemployment, covering 4.7.1 to 4.7.6.

@@ -138,6 +138,20 @@ These questions cover section 4.8 (4.8.1 to 4.8.5, inflation and deflation) of t
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What words must a definition of inflation include?**
+Include "general" and "sustained": inflation is a sustained increase in the general price level. One price rising, or prices rising for a single week, is not inflation.
+
+**Which CPI value do you divide by to find the inflation rate?**
+Divide the change in the CPI by the old CPI and multiply by 100. Using the new CPI as the denominator is a common error.
+
+**Is falling inflation the same as deflation?**
+No. If inflation falls from 2% to 1%, prices are still rising. Deflation means the price level itself falls, so the inflation rate is negative and the minus sign is part of the answer.
+
+**How do you evaluate an anti-inflation policy in Cambridge O Level Economics 2281?**
+Explain the chain from the policy to demand or costs and then to prices, match the policy to the cause of inflation, and give a judgement with at least one limit such as a time lag.
+
 ## Official syllabus
 
 Source: the Cambridge O Level Economics (2281) syllabus for the 2026 examinations (version 2), from Cambridge University Press & Assessment; this page follows section 4.8.

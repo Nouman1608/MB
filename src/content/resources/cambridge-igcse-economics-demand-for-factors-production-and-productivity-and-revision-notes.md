@@ -234,6 +234,20 @@ Evaluation: low prices can push firms to cut corners; small firms may miss econo
 - Writing "more competition means more profit". The effect is the opposite.
 - Skipping a judgement in an evaluation question. State which side is stronger and why.
 
+## Frequently asked questions
+
+**What is derived demand?**
+The demand for a factor of production is a derived demand: it comes from the demand for the product the factor helps make. If sales of the product rise, firms need more labour, machines and materials.
+
+**What influences a firm's demand for factors of production?**
+The Cambridge IGCSE Economics 0455 syllabus names four influences: demand for the product, the price of different factors, their availability and their productivity.
+
+**What is the difference between labour-intensive and capital-intensive production?**
+Labour-intensive production uses a large amount of labour compared with capital, so wages are a large share of costs. Capital-intensive production uses a lot of machinery and equipment compared with labour.
+
+**What is the effect of many firms in a market?**
+A high number of firms tends to mean lower prices, higher or maintained quality, wider choice and lower profit, because buyers can easily switch between sellers.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 3.6 Firms and production and 3.8 Market structure.

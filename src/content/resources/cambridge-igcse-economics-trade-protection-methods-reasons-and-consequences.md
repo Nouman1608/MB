@@ -219,6 +219,20 @@ A good evaluation uses a two-sided chain.
 
 Test yourself with the [practice questions](/resources/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences-practice/), use the [revision notes](/resources/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences-revision-notes/) to recall, or take a [10-minute diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What do sections 6.2.4 to 6.2.6 of Cambridge IGCSE Economics 0455 cover?**
+They cover the methods of protection, the reasons for protection and its consequences for the home country and its trading partners.
+
+**Who pays a tariff?**
+Consumers in the importing country usually pay a tariff through the higher price of the good, not the foreign exporter.
+
+**What is the difference between a tariff and a subsidy as protection?**
+A tariff raises the home price, cuts imports and earns the government revenue. A subsidy to home producers leaves the price consumers pay unchanged, cuts imports by less and costs the taxpayer money.
+
+**What is the main risk of protecting an infant industry?**
+The industry may never become competitive, and protection can become permanent because workers and owners lobby to keep it. Temporary protection with a clear end date is easier to defend.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education). Content: section 6.2, subtopics 6.2.4 to 6.2.6.

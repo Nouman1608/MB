@@ -239,6 +239,20 @@ The link to price elasticity of demand helps in evaluation. With a minimum price
 - Analysing only consumers or only producers in a price control.
 - Giving evaluation as a list of points without a judgement or a condition.
 
+## Frequently asked questions
+
+**What are the main reasons for government intervention in markets?**
+Section 3.1 of Cambridge 9708 gives three: addressing the non-provision of public goods, addressing the over-consumption of demerit goods and under-consumption of merit goods, and controlling prices in markets.
+
+**Why does the free market provide no public goods?**
+Because a public good is non-excludable, each person gains whether or not they pay, so everyone hopes others will pay (the free-rider problem). A private firm cannot earn revenue, so the market provides none of the good, which governments address by providing it and funding it through compulsory taxation.
+
+**What are the consequences of a maximum price?**
+Those who obtain the good pay less, but quantity demanded exceeds quantity supplied, so there is a shortage. This can lead to queues, a black market, lower quality and fewer suppliers.
+
+**How does elasticity affect the impact of a price control?**
+The size of the effects depends on elasticity. If supply is inelastic, a maximum price removes few suppliers and the shortage is small; and because supply and demand become more elastic over time, the effects of a control grow the longer it lasts.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028*, Subject content, section 3.1 Reasons for government intervention in markets, with definitions from section 1.6.

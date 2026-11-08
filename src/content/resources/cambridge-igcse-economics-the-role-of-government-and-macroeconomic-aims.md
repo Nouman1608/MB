@@ -251,6 +251,20 @@ Creating jobs through higher demand raises incomes and spending on imports, so i
 - Explaining a conflict with an assertion ("growth is bad for the balance of payments") instead of a chain of cause and effect.
 - Ending a discussion answer without a judgement. Say which effect matters more and why, for example because of spare capacity or how large the import share is.
 
+## Frequently asked questions
+
+**What do sections 4.1 and 4.2 of Cambridge IGCSE Economics 0455 cover?**
+They cover the role of government at local, national and international levels, the five macroeconomic aims and the reasons for them, and the conflicts between the aims. Causes and policies for growth, unemployment and inflation come later in the syllabus.
+
+**Why do governments choose particular macroeconomic aims?**
+Choices depend on welfare, current problems such as high unemployment, the country's stage of development, public opinion and politics, and the need for measurable targets.
+
+**Why can economic growth conflict with balance of payments stability?**
+As incomes rise, households and firms buy more imports, so the current account can worsen. The conflict is smaller if growth is led by exports or if the extra imports are machinery that raises future output.
+
+**Is a balance of payments deficit always a problem?**
+No. Balance of payments stability does not mean zero; a small, temporary deficit or surplus is acceptable. A large deficit that persists is a worry because the country must keep borrowing or selling assets to pay for it.
+
 ## Official syllabus
 
 This page is aligned to the Cambridge IGCSE Economics 0455 syllabus for examination in 2026 (version 2), published by Cambridge University Press & Assessment (Cambridge International), sections 4.1.1, 4.2.1 and 4.2.2.

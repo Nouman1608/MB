@@ -296,6 +296,23 @@ Debt of 20,000 cu fixed in money terms: real value = 20,000 ÷ 1.056 = 18,939.4 
 - Using the wrong formula for real values: real = nominal ÷ index × 100.
 - Drawing cost-push as an AD shift.
 
+## Frequently asked questions
+
+**Are unemployment and price stability AS or A Level content in Cambridge 9708?**
+They are sections 4.5 and 4.6 of the Cambridge International AS & A Level Economics 9708 syllabus, which is AS Level content in topic 4. The syllabus treats it as assumed knowledge for A Level Papers 3 and 4.
+
+**Who counts as unemployed?**
+A person is unemployed if they are able and willing to work at the going wage, are actively looking for work and have no job. Full-time students, carers and the retired who are not looking are not counted.
+
+**What is the difference between the labour force survey and the claimant count?**
+A labour force survey asks a sample of households about their situation using an agreed definition of looking for work, which allows comparison across countries and years. The claimant count counts people registered for unemployment benefit, so it is quick but depends on benefit rules.
+
+**What are the difficulties of measuring inflation with the CPI?**
+The basket and weights go out of date, a fixed basket ignores switching to cheaper items, and quality changes and new products are hard to price. No household matches the average, so groups such as pensioners face different inflation rates.
+
+**What is a wage-price spiral?**
+A wage-price spiral happens when higher prices lead workers to demand higher pay, which raises firms' costs and pushes prices up again, and so on.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 4.5 and 4.6 (Cambridge University Press & Assessment).

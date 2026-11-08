@@ -227,6 +227,20 @@ Say what the consequences are in real terms: pollution, ill health, lower skills
 - Leaving out units, or leaving out the working in a percentage calculation.
 - Writing a long list of advantages and disadvantages without any judgement at the end.
 
+## Frequently asked questions
+
+**What is a market economic system?**
+It is an economic system in which resource allocation is decided by buyers and sellers through the price mechanism, with resources mostly privately owned and little direction from the government.
+
+**What are the advantages and disadvantages of a market economy?**
+Advantages include wide choice, competition that lowers costs and prices, price signals and rewards for effort and risk. Disadvantages include no provision of public goods, ignored external costs, inequality, monopoly power and the wrong consumption of merit and demerit goods.
+
+**What causes market failure?**
+The syllabus causes are public goods, merit goods and external benefits, demerit goods and external costs, abuse of monopoly power and factor immobility.
+
+**Should you explain government solutions in a question on the causes of market failure?**
+No. Questions on section 2.10 ask what goes wrong in the market. Government intervention to correct market failure belongs to section 2.11.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455, syllabus for examination in 2026, Version 2, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 2.9 and 2.10.

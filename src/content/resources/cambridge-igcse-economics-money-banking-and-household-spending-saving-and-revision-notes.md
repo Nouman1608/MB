@@ -258,6 +258,20 @@ Always finish an evaluation with a judgement and a reason for it.
 - Stopping at one step of the chain, instead of showing what it does to spending.
 - Evaluating with a bare "it depends", without naming what it depends on.
 
+## Frequently asked questions
+
+**What is a double coincidence of wants?**
+Barter needs a double coincidence of wants: you must find someone who has what you want and who wants what you have. Money removes this need, which is one reason it replaced barter.
+
+**What is the difference between the measure of value and store of value functions of money?**
+As a measure of value, money lets the prices of different goods be compared. As a store of value, it lets purchasing power be kept for the future, although it is a weaker store of value when prices are rising.
+
+**What influences household spending, saving and borrowing?**
+The syllabus names income, the rate of interest and confidence. Higher income allows more spending and saving, higher interest rates reward saving and make borrowing dearer, and confident households spend and borrow more.
+
+**Why do saving and borrowing differ between households?**
+Better-off households tend to save a bigger proportion of their income, while poorer households spend nearly all of it on necessities and may borrow. Life stage, confidence and attitudes to debt also matter.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 3.1.1, 3.1.2 and 3.2.1.

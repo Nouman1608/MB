@@ -206,6 +206,20 @@ Protection is a trade-off. It helps a named group of producers and workers, ofte
 - Leaving out the elasticity link when asked how effective a tariff is.
 - Confusing a subsidy to home producers with a tax on imports.
 
+## Frequently asked questions
+
+**What are the four methods of protection?**
+The four methods are tariffs (taxes on imports), import quotas (limits on the quantity imported), subsidies to home producers and embargoes (bans on trade).
+
+**What is dumping?**
+Dumping is selling goods in another country for less than they cost to make, or for less than the seller charges in its home market. It is not the same as any cheap import.
+
+**How does elasticity affect whether a tariff works?**
+A tariff cuts imports more when demand for imports is elastic. If demand is inelastic, imports hardly fall, so the tariff raises revenue but gives home firms little protection.
+
+**What is the difference between a subsidy and a tariff as protection?**
+A subsidy is a payment from the government to home producers, so buyers still pay the world price and taxpayers fund it. A tariff is a tax on imports, which raises the price buyers pay.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 6.2.4 Methods of protection, 6.2.5 Reasons for protection and 6.2.6 Consequences of protection.

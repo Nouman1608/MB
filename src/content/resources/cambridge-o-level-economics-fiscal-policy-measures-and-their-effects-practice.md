@@ -149,6 +149,20 @@ These questions are for Cambridge O Level Economics 2281, syllabus for examinati
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How should you state a budget balance?**
+Subtract total government spending from total revenue and always add the word "deficit" or "surplus". Subtracting the wrong way round makes a deficit look like a surplus.
+
+**Should interest rates appear in a fiscal policy answer?**
+No. Fiscal policy uses government spending and taxation. Interest rates and the money supply belong to monetary policy, so using them in a fiscal answer loses marks.
+
+**How do you calculate the effect of a tax rate change on revenue?**
+Apply the new rate to the whole tax base. If the question allows, note that the base may change too, because a tax cut does not always reduce revenue by the full arithmetic amount.
+
+**What makes a good evaluation of fiscal policy in Cambridge O Level Economics 2281?**
+Use the figures in the question, link each effect to the named aim through a chain of reasoning, and end with a judgement about how far the measure works.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026 (version 2), published by Cambridge University Press and Assessment (Cambridge International Education), section 4.3 Fiscal policy, statements 4.3.7 to 4.3.9.

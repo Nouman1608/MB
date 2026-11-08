@@ -145,6 +145,20 @@ These questions cover all four outcomes of section 6.4 of the Cambridge O Level 
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you find a missing component of the current account?**
+Add up the known component balances, then subtract that total from the overall current account balance. Take care when subtracting a negative balance, which is a frequent source of error.
+
+**Where do remittances and aid go in the current account?**
+Gifts, aid and remittances belong in secondary income, not in trade in services. Profit, interest and wages earned abroad belong in primary income.
+
+**Is a tariff paid to the foreign seller?**
+No. A tariff is collected by the government of the importing country, not paid to the foreign seller, so do not count it as a payment for imports.
+
+**Is every current account deficit harmful?**
+Not necessarily. In Cambridge O Level Economics 2281 answers, discuss the cause, size and time period: a deficit caused by importing machines that raise future output is less worrying than one caused by weak competitiveness.
+
 ## Official syllabus
 
 The source is the Cambridge O Level Economics 2281 syllabus for 2026 (version 2), published by Cambridge International. This set covers section 6.4.

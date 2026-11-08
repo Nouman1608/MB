@@ -224,6 +224,20 @@ A short judgement sentence is stronger than a long list: "On balance, a deprecia
 - Listing floating and fixed points without a judgement for the country given.
 - Using "weaker currency" and "lower rate of interest" as if they were the same.
 
+## Frequently asked questions
+
+**What is a foreign exchange rate?**
+A foreign exchange rate shows how many units of one currency are swapped for one unit of another. In effect, it is the price of a currency.
+
+**What is the difference between appreciation and depreciation?**
+An appreciation is a rise in the value of a currency, so it buys more of another currency. A depreciation is a fall in its value.
+
+**Which curve shifts when a country's imports rise?**
+More imports mean residents sell more of their currency to buy foreign currency, so the supply curve of the home currency shifts right and the exchange rate tends to fall.
+
+**Is a weaker currency the same as a lower interest rate?**
+No. A weaker currency means a lower exchange rate, while the interest rate is the cost of borrowing. A lower interest rate can lead to a weaker currency, but the two terms mean different things.
+
 ## Official syllabus
 
 These notes follow the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: section 6.3 Foreign exchange rates.

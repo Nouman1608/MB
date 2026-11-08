@@ -230,6 +230,20 @@ A balanced answer gives a reasoned judgement: for example, a tax and a subsidy c
 - Forgetting opportunity cost when evaluating direct provision or a subsidy.
 - Listing points without a judgement in an evaluation answer.
 
+## Frequently asked questions
+
+**What does section 2.11 of Cambridge IGCSE Economics 0455 cover?**
+Section 2.11 covers the definition of a mixed economic system and the government measures used to address market failure, including price controls, indirect taxes, subsidies, regulation, privatisation and nationalisation, and direct provision.
+
+**Which diagrams are required for section 2.11?**
+Diagrams of maximum and minimum prices, indirect taxes and subsidies are required in 2.11, even though diagrams of market failure itself are not required in 2.10.
+
+**What are the drawbacks of a maximum price?**
+A maximum price set below equilibrium causes a shortage, which can lead to queues or rationing, black markets where the good sells above the legal price, and lower supply because producers earn less.
+
+**How does a minimum wage affect employment?**
+A minimum wage set above the equilibrium wage raises pay for workers who keep their jobs, but firms demand less labour and more people want to work, so some unemployment can result. Its size depends on how responsive firms' demand for labour is to the wage.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, Cambridge University Press & Assessment (Cambridge International), version 2, section 2.11.

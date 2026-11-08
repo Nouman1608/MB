@@ -244,6 +244,20 @@ Country R has 4 million workers. Primary workers produce 5,000 each and secondar
 - Giving a list of factors in an evaluation with no judgement on which matters most and why.
 - Mixing up saving and investment, or saying that saving is spent.
 
+## Frequently asked questions
+
+**What are the seven areas that explain differences in development?**
+The Cambridge O Level Economics 2281 syllabus lists income, productivity, population growth, the size of the primary, secondary and tertiary sectors, saving and investment, education and healthcare.
+
+**What is the difference between saving and investment?**
+Saving is income not spent. Investment is spending on capital goods such as machines and buildings, often financed by banks lending savings to firms. Mixing up the two, or saying that saving is spent, is a common error.
+
+**Why can a large primary sector hold back development?**
+Output per worker in farming, mining and fishing is often low, incomes depend on weather and world prices so they fluctuate, and raw materials usually add less value than finished goods.
+
+**Does income per head show how income is shared?**
+No. Income per head is an average, so it hides inequality within a country and says nothing about health, schooling or the environment.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education).

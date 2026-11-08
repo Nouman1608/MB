@@ -296,6 +296,20 @@ Hub: [Cambridge A Level Economics](/boards/cambridge/a-level/economics/). Checkl
 - Forgetting to say that real values need a price index.
 - Evaluating with "it depends" and no reason for what it depends on.
 
+## Frequently asked questions
+
+**What is the difference between inflation, deflation and disinflation?**
+Inflation is a persistent rise in the average price level and deflation is a persistent fall. Disinflation is inflation that is still positive but lower than before, so prices are still rising, only more slowly.
+
+**What are the main types of unemployment?**
+The Cambridge 9708 syllabus lists frictional, structural, cyclical (demand-deficient), seasonal and technological unemployment. Each should be linked to its cause, such as a fall in aggregate demand for cyclical unemployment or a lasting skills or location mismatch for structural unemployment.
+
+**What is the difference between demand-pull and cost-push inflation?**
+Demand-pull inflation comes from aggregate demand rising faster than the economy can supply, shown by AD shifting right, and output and employment rise. Cost-push inflation comes from higher production costs, shown by SRAS shifting left, and output and employment fall.
+
+**How do you convert a nominal value into a real value?**
+Divide the nominal value by the price index and multiply by 100. Real values show purchasing power, and real growth is roughly nominal growth minus inflation.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 4.5 and 4.6 (Cambridge University Press & Assessment).

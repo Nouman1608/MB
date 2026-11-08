@@ -153,6 +153,20 @@ These questions cover section 4.7 (4.7.1 to 4.7.6) of the Cambridge O Level Econ
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the correct definition of unemployment?**
+Unemployment means being without a job while willing and able to work and actively looking for work. Defining it as simply "no job" misses key parts of the definition.
+
+**What do you divide by to find the unemployment rate?**
+Divide the number unemployed by the labour force, which is the employed plus the unemployed, then multiply by 100. Dividing by the number employed is a frequent error.
+
+**Can the same policy fix every type of unemployment?**
+No. Cyclical unemployment needs more demand, structural unemployment needs skills or mobility, and frictional unemployment needs better information about vacancies, so the policy must match the type.
+
+**How do you avoid repeating yourself in a two-reason question in Cambridge O Level Economics 2281?**
+Make sure the two reasons are genuinely different points, not the same idea reworded, and explain the cause behind each type of unemployment you name.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: section 4.7 Employment and unemployment, covering 4.7.1 to 4.7.6.

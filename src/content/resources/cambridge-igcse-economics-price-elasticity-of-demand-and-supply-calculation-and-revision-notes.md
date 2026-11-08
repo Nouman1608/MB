@@ -221,6 +221,19 @@ The inelastic good raises more revenue. The elastic good cuts consumption more.
   <figcaption>PED changes along a straight demand line.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is a PED of -0.6 elastic or inelastic?**
+Compare the size of the figure, ignoring the minus sign, with 1. A PED of -0.6 is below 1 in size, so demand is inelastic; the negative sign only shows that price and quantity move in opposite directions.
+
+**What is the link between PED and total revenue?**
+If demand is elastic, a price cut raises total revenue and a price rise lowers it. If demand is inelastic, a price rise raises revenue and a price cut lowers it.
+
+**What determines price elasticity of supply?**
+PES depends on spare capacity, stocks of finished goods, time, the ease of switching factors of production, the supply of raw materials and the length of the production process.
+
+**Why does the time period matter for elasticity?**
+Over a longer period buyers find substitutes and firms can build capacity, so both demand and supply tend to be more elastic in the long run than in the short run.
 
 ## Official syllabus
 

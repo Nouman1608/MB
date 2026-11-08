@@ -226,6 +226,20 @@ Worked reminder: 500 + 60 − (500 × 0.08) = 500 + 60 − 40 = 520.
 - Confusing quantity (how many) with quality (how productive).
 - Leaving out units or the working in a calculation.
 
+## Frequently asked questions
+
+**What is the economic problem?**
+The economic problem is that resources are finite while wants are unlimited, so there are never enough resources to satisfy every want and choices must be made. This is scarcity.
+
+**What are the four factors of production and their rewards?**
+The four factors are land (reward: rent), labour (wages), capital (interest) and enterprise (profit).
+
+**What is the difference between the quantity and quality of a factor of production?**
+Quantity is how much of a factor there is, such as the number of workers. Quality is how productive each unit is, such as how well trained workers are.
+
+**Why is enterprise called the risk-taking factor?**
+Profit is a residual: it is what is left after land, labour and capital have been paid. If revenue falls below those costs, the owner bears the loss.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 1.1 The nature of the economic problem and 1.2 The factors of production.

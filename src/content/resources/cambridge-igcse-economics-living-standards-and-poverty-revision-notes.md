@@ -246,6 +246,20 @@ Pay bill rises from 900 x 5 = 4,500 to 700 x 7 = 4,900, but some workers lose ou
 - Evaluation that only repeats advantages: always add a limit, a cost or a time lag.
 - Calculating a percentage change against the wrong base year.
 
+## Frequently asked questions
+
+**What is the difference between absolute and relative poverty?**
+Absolute poverty is not having enough income to buy basic necessities such as food, clean water, shelter and clothing. Relative poverty is having much less income than most others in the same society, such as below a set fraction of median income.
+
+**Can relative poverty exist in rich countries?**
+Yes. Relative poverty is measured against incomes in the same society, so it can exist in any country, and it can even rise while absolute poverty falls.
+
+**What causes poverty?**
+The syllabus names unemployment, low wages, illness and age. Other causes include little education, large families, discrimination, conflict and a lack of land or capital.
+
+**Which policies reduce poverty and redistribute income?**
+Policies include promoting economic growth, improving education, more generous state benefits, progressive taxation and a national minimum wage. Each has limits, such as cost, time lags or reduced work incentives.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education): sections 5.1 and 5.2.

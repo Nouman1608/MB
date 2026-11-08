@@ -254,6 +254,20 @@ Objectives often conflict. Profit now may reduce growth later, and social goals 
 
 Condense this with the [revision notes](/resources/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms-revision-notes/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-costs-revenue-and-objectives-of-firms-practice/). Tick off the topic on the [checklist](/checklists/cambridge/igcse/economics/), or try a [free diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What does section 3.7 of Cambridge IGCSE Economics 0455 cover?**
+Section 3.7 covers firms' costs, revenue and objectives: defining and calculating fixed, variable, total and average costs, total and average revenue, and the objectives of survival, social welfare, profit maximisation and growth. Marginal cost and marginal revenue are not required.
+
+**Why does average fixed cost fall as output rises?**
+The same fixed cost is shared among more units of output, so the fixed cost carried by each unit falls. The curve keeps approaching the horizontal axis but never reaches it.
+
+**Is revenue the same as profit?**
+No. Revenue is the money a firm takes in from sales, while profit is total revenue minus total cost. A firm with high revenue can still make a loss.
+
+**Why might a firm accept lower profit?**
+A firm aiming for growth may cut prices to build a larger customer base, and a firm aiming for survival may accept low profit to keep trading against a new rival. The firm's objective decides whether a lower-profit choice is sensible.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment (Cambridge International), section 3.7.

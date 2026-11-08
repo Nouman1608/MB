@@ -260,6 +260,20 @@ Use the same order for "what, how, for whom" answers: state the question, say wh
 - Giving a list of strengths with no limitation, or the reverse, in an evaluation.
 - Leaving out units, or leaving percentage answers with no working.
 
+## Frequently asked questions
+
+**What is the difference between microeconomics and macroeconomics?**
+Microeconomics is about the choices of single households, workers and firms and how single markets work. Macroeconomics studies the economy as a whole, such as total output, unemployment and the general price level.
+
+**What is market equilibrium?**
+Market equilibrium is the price at which quantity demanded equals quantity supplied, so there is no pressure for the price to change. Writing that "demand equals supply" without the word quantity is a frequent slip.
+
+**What are the three functions of the price mechanism?**
+Prices signal to producers what buyers want, give an incentive to supply more of products whose prices rise, and ration scarce goods to those willing and able to pay.
+
+**What are the three key allocation questions?**
+Because wants are unlimited and resources are scarce, every society must decide what to produce, how to produce it and for whom to produce it. Each answer has an opportunity cost.
+
 ## Official syllabus
 
 The Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education), sections 2.1 and 2.2.

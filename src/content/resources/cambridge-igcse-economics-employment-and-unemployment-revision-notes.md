@@ -221,6 +221,20 @@ Use short chains, with each link causing the next.
 - Leaving an evaluation with no judgement or no reason for the judgement.
 - Leaving out the units or the percentage sign on a calculation.
 
+## Frequently asked questions
+
+**Does full employment mean nobody is unemployed?**
+No. Full employment means everyone who wants a job at the going wage can find one. Some people are always between jobs, so frictional unemployment remains.
+
+**What are the three types of unemployment at IGCSE?**
+The Cambridge IGCSE Economics 0455 syllabus distinguishes frictional unemployment (time spent moving between jobs), structural unemployment (a lasting mismatch after an industry declines or technology changes) and cyclical unemployment (a fall in total demand).
+
+**Why is the share of tertiary sector jobs rising?**
+As incomes rise, households spend more on services, machinery means fewer workers are needed in farming, and firms buy more banking, transport and advertising services, so employment shifts towards the tertiary sector.
+
+**What are the consequences of unemployment for the economy?**
+The economy loses output and operates inside its production possibility curve, tax revenue falls while benefit spending rises, income inequality widens and social problems can increase.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics (0455) syllabus for examination in 2026, version 2, Cambridge University Press & Assessment (Cambridge International), section 4.7.

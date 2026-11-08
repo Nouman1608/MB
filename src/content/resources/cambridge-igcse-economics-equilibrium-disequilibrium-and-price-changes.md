@@ -245,6 +245,20 @@ Good answers go beyond the four cases.
 
 Revise from the [revision notes](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-revision-notes/), then try the [practice questions](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-practice/) and the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What do sections 2.5 and 2.6 of Cambridge IGCSE Economics 0455 cover?**
+They cover price determination (market equilibrium and disequilibrium, with shortages and surpluses) and price changes (their causes and the new equilibrium price and sales). The shapes and shifts of demand and supply from sections 2.3 and 2.4 are assumed.
+
+**What causes the equilibrium price to change?**
+The equilibrium price changes only when demand, supply or both shift, for example because of changes in income, tastes, costs of production, technology or taxes. A change in price on its own only moves the market along a curve.
+
+**What happens to price and sales when demand increases?**
+When the demand curve shifts right, there is a shortage at the old price, so price rises until a new equilibrium is reached with a higher price and higher sales.
+
+**What happens in a market where supply is fixed?**
+If supply cannot respond in the short run, such as seats in a hall, the supply curve is vertical. All the adjustment to a change in demand happens through price, while the quantity sold stays the same.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 2.5 Price determination and 2.6 Price changes.

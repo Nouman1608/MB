@@ -233,6 +233,20 @@ Moving from good A to good B first uses the resources best suited to B. As outpu
 - Giving a list of causes of growth with no link to capacity, for example "technology" with no statement of what it changes.
 - Evaluation that says "it depends" without saying on what.
 
+## Frequently asked questions
+
+**What is opportunity cost?**
+Opportunity cost is the value of the best option given up when making a choice. Scarcity forces choice, so every choice has an opportunity cost.
+
+**Why does a PPC bow outwards?**
+Resources differ in how well they suit each good. As more of one good is made, resources poorly suited to it must be switched, so more of the other good is given up for each extra unit; this increasing opportunity cost gives the curve its bowed shape.
+
+**What is the difference between actual and potential growth?**
+Potential growth is an outward shift of the PPC, meaning more productive capacity. Actual growth is a move from a point inside the curve towards it as idle resources are used.
+
+**What causes a PPC to shift inwards?**
+Inward shifts come from events that reduce capacity, such as war, natural disasters, disease reducing the labour force, depletion of resources and emigration of skilled workers.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 1.3 Opportunity cost and 1.4 Production possibility curve (PPC) diagrams.

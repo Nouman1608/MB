@@ -246,6 +246,20 @@ Add one or two of these when a question asks you to assess or discuss, not just 
 
 Work through the [practice questions](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-practice/) and return to the [study guide](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes/) for any weak point.
 
+## Frequently asked questions
+
+**What is market equilibrium?**
+Market equilibrium is the position where quantity demanded equals quantity supplied at the prevailing price. At the equilibrium price there is no shortage or surplus, so buyers and sellers have no reason to change their plans.
+
+**How does a shortage get removed?**
+At a price below equilibrium some buyers cannot get the product, so price rises. As it rises, quantity demanded contracts and quantity supplied extends until the gap closes at the equilibrium price.
+
+**What happens to price and sales when supply decreases?**
+A fall in supply shifts the supply curve left, so the equilibrium price rises and sales fall. Saying sales rise because the price rose is a common error.
+
+**How should you draw a price change on a demand and supply diagram?**
+Label both axes and both curves, show the shift of the curve that changed, and mark the old and new equilibrium price and quantity on the axes.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 2.5 Price determination and 2.6 Price changes.

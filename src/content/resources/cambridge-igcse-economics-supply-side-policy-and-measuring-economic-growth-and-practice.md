@@ -144,6 +144,20 @@ This set tests sections 4.5 and 4.6.1 to 4.6.3 of the Cambridge IGCSE Economics 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Should you use nominal or real GDP to measure economic growth?**
+Use real GDP, which removes the effect of price changes. Nominal GDP can rise because prices rise even when output does not, so using it for growth loses marks.
+
+**How do you calculate real GDP with a price index?**
+Divide nominal GDP by the price index and multiply by 100. Forgetting to multiply by 100 is a frequent slip.
+
+**Does a recession shift the production possibility curve?**
+No. In a recession output falls and resources are unemployed or underused, so the economy moves from a point on the PPC to a point inside it. The curve itself does not move because the quantity and quality of resources have not changed.
+
+**How do you explain a supply-side measure in Cambridge IGCSE Economics 0455?**
+Use a chain: name the measure, say who changes behaviour, say what happens to output, productivity or costs, then link it to a macroeconomic aim. Avoid treating results such as those of lower taxes as certain.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 4.5 Supply-side policy and 4.6 Economic growth (4.6.1 to 4.6.3).

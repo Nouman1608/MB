@@ -294,6 +294,20 @@ Consider the limits of these arguments. Several things may change at once, so yo
 - Adding prices rather than quantities in aggregation.
 - Treating a tax as an increase in supply: a tax raises costs and decreases supply.
 
+## Frequently asked questions
+
+**What do sections 2.3 and 2.4 of Cambridge IGCSE Economics 0455 cover?**
+These sections cover demand and supply: defining each, drawing and reading the curves, movements along them (extension and contraction), building market curves by aggregation, and the causes of shifts (increase and decrease). Price determination follows in section 2.5.
+
+**Why does the demand curve slope downwards?**
+A higher price makes the good dearer than substitutes, so some buyers switch, and it lowers real income, so buyers can afford less. Each extra unit also usually gives less satisfaction than the last.
+
+**Why does the supply curve slope upwards?**
+A higher price means more revenue per unit, so producing is more profitable and firms want to sell more. Higher prices also cover rising costs as firms expand and attract new sellers.
+
+**How do you decide whether a change causes a movement or a shift?**
+Check what changed. If it is the good's own price, there is a movement along the same curve; if it is anything else, decide whether it affects buyers or sellers and show a shift of that curve.
+
 ## Official syllabus
 
 Syllabus document: Cambridge IGCSE Economics (0455), examination in 2026, version 2, sections 2.3 and 2.4. Publisher: Cambridge University Press & Assessment (Cambridge International Education).

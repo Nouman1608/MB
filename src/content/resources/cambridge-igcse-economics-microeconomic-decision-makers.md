@@ -12,10 +12,12 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "microeconomic-decision-makers-cambridge-igcse-economics"
-description: "Money and banking, households, workers, trade unions, firms, and market structure -- Topic 3 of Cambridge IGCSE Economics (0455), distinct from the site's existing guides to the basic economic problem and the allocation of resources."
+description: "Overview of Topic 3 of Cambridge IGCSE Economics 0455, Microeconomic decision makers: money and banking, households, workers, trade unions, firms and markets."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
@@ -201,3 +203,17 @@ naming the specific methods (such as collective bargaining) unions use to pursue
 - Distinguish clearly between production (total output) and productivity (output per unit of input).
 - Practise applying household, worker and firm decision-making to real or hypothetical case-study
   scenarios, since this topic is frequently tested through applied questions rather than pure recall.
+
+## Frequently asked questions
+
+**What does Topic 3 of Cambridge IGCSE Economics 0455 cover?**
+Topic 3, Microeconomic decision makers, has eight sub-topics: money and banking, households, workers, trade unions, firms, firms and production, firms' costs, revenue and objectives, and market structure.
+
+**Is marginal cost required for Cambridge IGCSE Economics 0455?**
+No. The syllabus states that marginal cost and marginal revenue are not required for section 3.7. You need total, fixed, variable and average costs, and total and average revenue.
+
+**Do you need market structure diagrams for IGCSE Economics?**
+No. For section 3.8 the syllabus says the theory of perfect and imperfect competition and diagrams are not required. You need the effect of a high number of firms on price, quality, choice and profit, and the characteristics, advantages and disadvantages of monopoly.
+
+**What is the difference between production and productivity?**
+Production is the total output a firm creates, while productivity is output per unit of input, such as output per worker. A firm can raise production by hiring more workers without becoming more productive.

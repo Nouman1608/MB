@@ -250,6 +250,20 @@ A balanced conclusion names the cause, chooses a policy and states one limit.
 - Leaving out the minus sign for deflation.
 - Describing consequences without saying who gains and who loses.
 
+## Frequently asked questions
+
+**What does section 4.8 of Cambridge O Level Economics 2281 cover?**
+Section 4.8 covers the definitions of inflation and deflation, measurement using the Consumer Prices Index, their causes, their consequences and the policies used to control them.
+
+**What is the difference between demand-side and supply-side deflation?**
+Demand-side deflation comes from falling total demand and usually goes with falling output and rising unemployment. Supply-side deflation comes from lower costs or higher productivity and goes with rising output, so it can be healthy.
+
+**What are the limits of the CPI?**
+The CPI is an average that may not match an individual's spending, its weights become out of date, quality improvements and new products are hard to capture, and it does not show which groups are hit hardest.
+
+**Why can deflation be harmful?**
+Deflation raises the real value of fixed debts, so borrowers repay more in real terms. Demand-side deflation also goes with falling output and jobs, and households may delay spending.
+
 ## Official syllabus
 
 Source: the Cambridge O Level Economics (2281) syllabus for the 2026 examinations (version 2), from Cambridge University Press & Assessment; this page follows section 4.8.

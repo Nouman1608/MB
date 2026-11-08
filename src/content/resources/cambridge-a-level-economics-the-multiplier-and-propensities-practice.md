@@ -135,6 +135,20 @@ These questions cover outcome 9.1.1 (the multiplier process) of the Cambridge In
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the most common mistake in multiplier calculations?**
+Using 1/mpc instead of 1/(1 - mpc) or 1/mps. Another frequent error is leaving out a leakage, such as the marginal propensity to import, that the question gives.
+
+**Should the multiplier be applied to the total change in aggregate demand?**
+No. Multiply the multiplier by the autonomous change in spending only. A total change in aggregate demand already includes induced spending, so multiplying it again double counts.
+
+**What happens to the multiplier if the tax rate changes?**
+A change in a propensity, such as the tax rate, changes the size of the multiplier itself. Recalculate the multiplier with the new rate rather than applying the old one.
+
+**How do you get evaluation credit on a multiplier question in Cambridge 9708?**
+Do not treat the multiplier as certain. Comment on spare capacity, time lags and possible crowding out, and keep the sign and the units (cu) on money answers.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 9.1.1.

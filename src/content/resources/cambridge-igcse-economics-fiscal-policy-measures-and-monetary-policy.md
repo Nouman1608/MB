@@ -255,6 +255,20 @@ Exports become dearer abroad and imports cheaper at home. A fall in the rate (de
 - Confusing an appreciation, which raises export prices abroad, with a depreciation.
 - Judging a policy without naming a limit, such as a time lag or a conflicting aim.
 
+## Frequently asked questions
+
+**What does this part of the Cambridge IGCSE Economics 0455 syllabus cover?**
+It covers sections 4.3.7 to 4.3.9 (fiscal policy measures and their effects on the macroeconomic aims) and 4.4.1 to 4.4.3 (monetary policy). The budget, spending and taxes in sections 4.3.1 to 4.3.6 are taught separately.
+
+**How is a budget deficit financed?**
+A deficit must be financed, usually by borrowing, which adds to the national debt and to future interest payments. A surplus can pay off debt, build reserves or fund later spending.
+
+**What are the limits of fiscal policy?**
+Limits include time lags before projects spend money, the opportunity cost and debt from borrowing, a lack of spare capacity, extra income leaking into imports, conflicts between aims, and the unpopularity of tax rises and spending cuts.
+
+**What is the difference between fiscal and monetary policy?**
+Fiscal policy is run by the government and uses taxes and spending; monetary policy is usually run by the central bank and uses interest rates, the money supply and the exchange rate. Fiscal policy affects the budget directly and is the stronger tool for redistribution.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 4.3.7 to 4.3.9 and 4.4.1 to 4.4.3.

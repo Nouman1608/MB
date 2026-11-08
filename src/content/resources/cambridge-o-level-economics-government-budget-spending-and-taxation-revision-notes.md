@@ -235,6 +235,20 @@ Reminder: a sales tax on basic food is cheap to collect and certain, so it score
 - Writing about aggregate demand and supply in place of effects on incomes, prices and output.
 - Writing a one-sided answer to an impact question with no judgement.
 
+## Frequently asked questions
+
+**What are the two ways of classifying taxes?**
+Taxes are classified as direct or indirect, depending on whether they are charged on income and wealth or on spending, and as progressive, regressive or proportional, depending on how the average tax rate changes as income rises.
+
+**What are the qualities of a good tax?**
+A good tax is usually described as equitable, certain, convenient and economical to collect, with efficiency or flexibility often added. No tax scores top on every quality.
+
+**Does an indirect tax always fall entirely on consumers?**
+No. The burden is split between consumers and producers. Whichever side reacts less to a price change carries more of the tax.
+
+**Why does government spending have an opportunity cost?**
+Every unit of government spending must be paid for from taxes or borrowing, and money spent in one area cannot be used in another, so spending decisions involve giving something up.
+
 ## Official syllabus
 
 Aligned to the Cambridge O Level Economics 2281 syllabus for examination in 2026, published by Cambridge University Press and Assessment (Cambridge International), subject content statements 4.3.1 to 4.3.6.

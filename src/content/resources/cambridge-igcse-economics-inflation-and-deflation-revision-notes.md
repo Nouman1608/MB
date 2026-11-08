@@ -246,6 +246,20 @@ Evaluation prompts: What caused the price change? How long will the policy take?
 - Evaluation that lists drawbacks without judging which matters most in the case given.
 - Treating all deflation as harmful.
 
+## Frequently asked questions
+
+**What is the difference between demand-pull and cost-push inflation?**
+Demand-pull inflation happens when total demand rises faster than the economy's ability to produce. Cost-push inflation happens when rising production costs, such as wages, raw materials, energy or indirect taxes, are passed on in higher prices.
+
+**Who loses from inflation?**
+Savers whose interest rate is below inflation and lenders at fixed rates lose in real terms, and workers lose if pay rises more slowly than prices. Borrowers with fixed repayments can gain.
+
+**Is deflation always harmful?**
+No. Supply-side deflation from falling costs or new technology usually comes with rising output and is often welcome. Demand-side deflation from weak total demand usually comes with falling output and rising unemployment.
+
+**What are the limits of the CPI?**
+The CPI reflects an average household, so groups such as pensioners or students may face different rates. The basket and weights must be updated as habits change, and it does not fully capture improvements in quality.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics syllabus for examination in 2026, section 4.8, published by Cambridge University Press & Assessment.

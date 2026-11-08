@@ -256,6 +256,20 @@ Add the name of the good, one named person or group who gains or loses, and one 
 - Stating a consequence with no chain: say why the quantity is wrong and what happens to resources.
 - Missing the units or the word "per" in a cost-per-unit answer.
 
+## Frequently asked questions
+
+**How do you calculate social cost and social benefit?**
+Social cost is private cost plus external cost, and social benefit is private benefit plus external benefit. Markets work on private figures only, so market failure appears when the social and private figures differ.
+
+**What are the causes of market failure in the O Level syllabus?**
+The causes are public goods, merit goods, demerit goods, external costs, external benefits, abuse of monopoly power and factor immobility.
+
+**What are safe examples of each type of market failure?**
+Common examples are defence or lighthouses for public goods, education and healthcare for merit goods, tobacco and alcohol for demerit goods, factory smoke for external costs and one firm controlling local water supply for monopoly abuse.
+
+**What is the consequence of market failure?**
+The consequence is misallocation of resources: too many resources go into goods that harm society and too few into goods that benefit it.
+
 ## Official syllabus
 
 Source: Cambridge International, Cambridge O Level Economics (2281), examination year 2026, version 2, section 2.10 headed Market failure.

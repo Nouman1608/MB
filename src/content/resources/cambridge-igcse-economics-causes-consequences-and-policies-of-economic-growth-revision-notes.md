@@ -222,6 +222,20 @@ Supply-side measures have their own unit in section 4.5. In growth answers, link
 - Evaluating with a generic "it depends" and no stated factor, such as spare capacity, delay or cost.
 - Leaving out units or the percentage sign in a calculation.
 
+## Frequently asked questions
+
+**What causes the PPC to shift to the right?**
+The four causes named in the syllabus are investment, technology, an increase in the quantity of the factors of production, and an improvement in their quality, such as through training or better health.
+
+**Does economic growth always reduce poverty?**
+Not necessarily. Growth can raise average incomes while the gains go mainly to people who are already rich, so the gap between groups can widen even when everyone is better off in money terms.
+
+**What are the costs of economic growth?**
+Costs can include pollution, climate damage and resource depletion, congestion and pressure on housing, wider inequality, structural unemployment as old industries decline, inflation if demand outruns capacity and more imports.
+
+**Why does the type of economy matter when discussing growth?**
+Costs and benefits carry different weight in different economies. A low-income farming economy may value escaping poverty most, while a resource-rich exporter may worry most about depleting resources it cannot replace, so answers should refer to the economy named in the question.
+
 ## Official syllabus
 
 Aligned to the Cambridge IGCSE Economics 0455 syllabus for examination in 2026, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 4.6.4 to 4.6.6.

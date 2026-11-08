@@ -189,6 +189,19 @@ Always finish with a sentence on who gains (consumers) and who loses (home produ
   <figcaption>Most of an MNC's spending stays in the host country, but the profit sent home is lost income to the host.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is a multinational company?**
+A multinational company (MNC) is a firm that owns or controls production or other operations in more than one country. Its headquarters are in the home country, and each other country where it operates is a host country.
+
+**Is profit sent abroad a loss for the MNC?**
+No. Profit sent home is income for the MNC and its home country. It is a cost to the host country, which loses that income.
+
+**How do consumers benefit from free trade?**
+Foreign producers with lower costs add supply, so prices fall, and consumers gain more choice and quality. The chain runs from lower prices to more quantity demanded and higher real income.
+
+**When are jobs created by an MNC a real benefit?**
+Explain how many jobs there are, what skills they need and whether they replace existing jobs. Listing "jobs" with no reasoning earns little credit.
 
 ## Official syllabus
 

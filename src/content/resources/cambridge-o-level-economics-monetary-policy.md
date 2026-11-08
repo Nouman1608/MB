@@ -198,6 +198,20 @@ Diagram in words: draw a market for A-dollars with the exchange rate (B-dollars 
 
 Work through the [revision notes](/resources/cambridge-o-level-economics-monetary-policy-revision-notes/) and then the [practice set](/resources/cambridge-o-level-economics-monetary-policy-practice/). The wider topic has its own [practice questions](/resources/o-level-economics-government-and-the-macroeconomy-practice/).
 
+## Frequently asked questions
+
+**What does section 4.4 of Cambridge O Level Economics 2281 cover?**
+Section 4.4 covers the definitions of the money supply and monetary policy, the three measures (interest rates, the money supply and exchange rates) and their effects on the government's macroeconomic aims.
+
+**What is the money supply?**
+The money supply is the stock of money held by households and firms at a given moment: notes and coins in circulation plus the balances in bank accounts.
+
+**Why might a cut in interest rates fail to boost the economy?**
+In a gloomy economy firms may not borrow even at low rates, effects can take many months to appear, and banks may refuse to lend or not pass on the rate change.
+
+**Can monetary policy aims conflict?**
+Yes. A rate cut to create jobs can raise inflation, a stronger currency to lower prices can hurt exporters and jobs, and a boost to growth may raise imports and worsen the balance of payments.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, published by Cambridge University Press & Assessment (Cambridge Assessment International Education): section 4.4, Monetary policy.

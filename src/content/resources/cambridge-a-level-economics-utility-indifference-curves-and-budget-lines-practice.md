@@ -156,6 +156,20 @@ These questions cover sections 7.1 and 7.2 (outcomes 7.1.1 to 7.2.4) of the Camb
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you choose the utility-maximising bundle in a table question?**
+Rank units by marginal utility per currency unit (MU divided by price), not by marginal utility alone, and buy the highest first until the budget is spent. Only compare bundles that cost the same amount.
+
+**How does a budget line move when one price changes?**
+A change in the price of one good pivots the budget line on the intercept of the other good, whose maximum quantity is unchanged. A change in income shifts it in parallel; pivoting on the wrong intercept is a common error.
+
+**Is every inferior good a Giffen good?**
+No. A Giffen good is a special case of an inferior good in which the income effect is larger than the substitution effect, so a price rise increases quantity demanded. Most inferior goods still have downward-sloping demand curves.
+
+**What do examiners look for when you assess the limitations of utility theory in Cambridge 9708?**
+Weigh the limitations rather than listing them, judging how serious each is. For the substitution effect, remember it is found holding real income constant.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 7.1 and 7.2 (Cambridge University Press & Assessment).

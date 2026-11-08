@@ -136,6 +136,20 @@ These questions cover section 3.7, Firms' costs, revenue and objectives, of the 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between total cost and average total cost?**
+Total cost is fixed cost plus variable cost. Average total cost is average fixed cost plus average variable cost, or total cost divided by output; adding the two averages and calling the result total cost is a common mistake.
+
+**Can the ATC and AVC curves meet?**
+No. The vertical gap between average total cost and average variable cost equals average fixed cost, which narrows as output rises but never disappears, so the two curves should not meet or cross.
+
+**Does cutting the price always raise revenue?**
+No. When a firm cuts its price to sell more, total revenue rises only if the extra sales outweigh the lower price on every unit, so it can rise or fall.
+
+**How do you show working on a costs calculation in Cambridge IGCSE Economics 0455?**
+Write the formula, substitute the figures and give the answer with units, saying when a figure is per unit. Where a question asks you to show or check a result, missing working costs marks.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment (Cambridge International), section 3.7.

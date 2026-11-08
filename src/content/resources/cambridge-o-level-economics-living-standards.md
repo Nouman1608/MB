@@ -239,6 +239,20 @@ When asked to judge which country has the higher living standard:
 - Saying the HDI measures happiness. It measures three things only.
 - Giving a list of reasons for differences without linking each to living standards.
 
+## Frequently asked questions
+
+**What does section 5.1 of Cambridge O Level Economics 2281 cover?**
+Section 5.1 covers real GDP per head and the Human Development Index as indicators of living standards (5.1.1), and comparing living standards and income distribution between and within countries (5.1.2).
+
+**Do you need to calculate the HDI for O Level Economics?**
+No. The syllabus prints no formula for the HDI and does not ask you to work out an index. You need to read figures, compare countries and judge what a measure shows or hides.
+
+**What are the disadvantages of real GDP per head?**
+It is an average that hides how income is shared, it leaves out subsistence farming, unpaid work and the hidden economy, it ignores pollution and leisure, and it does not directly measure health, education or freedom.
+
+**What are the limits of the HDI?**
+It has only three components, so it leaves out inequality, safety, freedom and pollution. It is still an average, its equal weighting is a judgement, and because its scores tend to move together it often ranks countries much like income does.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education). The content follows section 5.1, Living standards.

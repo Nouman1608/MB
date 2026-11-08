@@ -157,6 +157,20 @@ The questions below test topic 3.5, Firms, from the Cambridge O Level Economics 
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your weak topics.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you classify a merger in a case question?**
+Apply the test: a horizontal merger joins firms in the same industry at the same stage of production, a vertical merger joins firms in the same industry at different stages, and a conglomerate merger joins firms in unrelated industries. Naming a type without applying the test loses marks.
+
+**Should you compare sales or market shares?**
+Compare market shares or growth rates rather than raw sales figures. A firm's sales can rise while its market share falls if the market grows faster.
+
+**Are economies of scale automatic when a firm grows?**
+No. A bigger firm that is badly managed can meet diseconomies of scale, such as slow communication and low morale, so treating cost savings as automatic is a common error.
+
+**What do examiners want in an evaluation of a merger in Cambridge O Level Economics 2281?**
+Say who benefits and who may lose, such as owners, workers and consumers, and finish with a reasoned conclusion that depends on factors like the number of rivals left and the size of the cost savings.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International). Section 3.5, Firms.

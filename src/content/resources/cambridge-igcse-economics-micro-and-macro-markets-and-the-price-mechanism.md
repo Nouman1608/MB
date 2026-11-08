@@ -237,6 +237,20 @@ A balanced answer says which limitation matters most in the context given and wh
 - Writing that the price mechanism answers "for whom" by need. It answers by ability and willingness to pay.
 - Describing the three questions as separate topics. They are linked: a change in what is produced changes how and for whom.
 
+## Frequently asked questions
+
+**What do sections 2.1 and 2.2 of Cambridge IGCSE Economics 0455 cover?**
+Section 2.1 separates microeconomics from macroeconomics and their decision makers. Section 2.2 covers how a market system works, market equilibrium and disequilibrium, the three allocation questions and the price mechanism.
+
+**Who are the decision makers in microeconomics and macroeconomics?**
+Households, workers and firms make microeconomic decisions. The government acts at both levels, for example taxing one product or changing taxation to affect national output, and the central bank sets policy on interest rates and money for the whole economy.
+
+**What is a market?**
+A market is any set-up in which buyers and sellers meet to trade, whether in a shop, a street or online. It does not need a physical place.
+
+**What are the limitations of the price mechanism?**
+Output goes to those with money rather than those with the greatest need, products with no profitable price or with effects on third parties may be under- or over-provided, and adjustment is not instant, so shortages and surpluses can persist.
+
 ## Official syllabus
 
 The Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education), sections 2.1 and 2.2.

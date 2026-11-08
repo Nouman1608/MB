@@ -226,6 +226,20 @@ A good judgement depends on the product and the conditions. Markets work well fo
 - Describing a market system as having "no government" or as "the government sets prices".
 - Giving only advantages or only disadvantages when the command word asks you to assess or evaluate.
 
+## Frequently asked questions
+
+**What do sections 2.6 and 2.9 of Cambridge O Level Economics 2281 cover?**
+Section 2.6 covers the causes and consequences of price changes, shown on demand and supply diagrams. Section 2.9 covers the definition of the market economic system and its advantages and disadvantages.
+
+**What happens to price when demand and supply both increase?**
+Sales rise because both curves move right, but the effect on price depends on which shift is bigger. If demand rises by more, price rises; if supply rises by more, price falls; if the shifts are equal, price stays the same.
+
+**How do prices reallocate resources in a market economy?**
+Prices act as signals. A rising price raises profit per unit and pulls land, labour and capital towards that product, while a falling price releases them, so resources move without anyone planning it.
+
+**Does more sales always mean more revenue after a price change?**
+No. If price rises but sales fall by a larger percentage, total spending falls. Check the percentage changes in both price and quantity before deciding what happens to revenue.
+
 ## Official syllabus
 
 Aligned to the Cambridge O Level Economics 2281 syllabus for examination in 2026, sections 2.6 and 2.9, published by Cambridge International. Check the current syllabus on the Cambridge International website.

@@ -251,6 +251,20 @@ Use this for questions that ask "assess", "evaluate" or "to what extent".
 - Reaching a verdict that ignores the evidence given.
 - Forgetting units or the word "per head".
 
+## Frequently asked questions
+
+**What is real GDP per head?**
+Real GDP per head is real GDP divided by the population. It is an average, showing what each person would receive if output were shared equally.
+
+**What are the three components of the HDI?**
+The Human Development Index combines health (life expectancy), education (years of schooling) and income per head into one figure between 0 and 1.
+
+**Why do living standards differ within a country?**
+Differences come from wages and skills, ownership of assets such as land and shares, unemployment, age and illness, region, and the effect of taxes and benefits.
+
+**Does GDP per head show how income is shared?**
+No. Two countries can have the same average income while income is far more equal in one of them, so GDP per head is a poor guide to how most people live.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education). The content follows section 5.1, Living standards.

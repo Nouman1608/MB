@@ -165,6 +165,20 @@ This set tests sections 3.3 (Workers) and 3.4 (Trade unions) of the Cambridge IG
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does a minimum wage always cause unemployment?**
+No. A minimum wage set below the equilibrium wage has no effect because the market wage is already higher. Only one set above equilibrium creates a surplus of workers.
+
+**What does an increase in the supply of labour do to wages?**
+A rise in the supply of labour shifts the supply curve right, which lowers the equilibrium wage and raises employment. Treating a rise in supply as raising the wage is a common error.
+
+**What must a definition of a trade union include?**
+A trade union is an organisation of workers that aims to protect and improve its members' pay and working conditions. Leaving out pay or conditions loses the mark.
+
+**How do you evaluate trade unions or the division of labour in Cambridge IGCSE Economics 0455?**
+Consider the views of firms and the government as well as workers, use the right base in any percentage gap, and finish with a judgement.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment, sections 3.3 and 3.4.
