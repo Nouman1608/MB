@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-literature-readers-writers-texts"
-description: "Condensed revision notes on the Readers, Writers and Texts area of exploration of IB Diploma Programme Language A: Literature -- close literary analysis of narrative voice, form and craft."
+description: "Revision notes on Readers, writers and texts in IB DP Language A: Literature: narrative voice, form and craft across fiction, non-fiction, poetry and drama."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 The [full syllabus guide](/resources/ib-dp-language-a-literature-syllabus-guide/) confirms all three
@@ -131,3 +133,14 @@ teaching time within this component goes into literary technique rather than bei
 non-literary text types. 3. Staging, dialogue and dramatic irony — considerations specific to a work
 being performed. 4. Explaining the effect a named technique has on how the reader constructs meaning,
 rather than simply identifying that the technique is present. 5. Fiction, non-fiction, poetry and drama.
+
+## Frequently asked questions
+
+**What are the four literary forms in IB Language A: Literature?**
+The IB's prescribed reading list defines four literary forms: fiction, non-fiction, poetry and drama. Revise technique vocabulary separately for each form rather than using one generic list.
+
+**How is Readers, writers and texts different in Literature and in Language and Literature?**
+Because IB DP Language A: Literature studies literary works only, this area goes deeper into literary technique than the same-named area in Language and Literature, which splits time with non-literary texts.
+
+**How should you prepare studied works for Paper 2 and the oral?**
+For each work, list the writer's most distinctive techniques, such as a narrative structure, a recurring type of imagery or a use of dialogue, with a clear account of how each shapes the reader's interpretation.

@@ -18,10 +18,12 @@ syllabusTopics:
 description: "Original IB DP Literature Paper 2 practice: thesis, integrated comparison and remembered-quotation tasks, with indicative answers and a full essay plan."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -216,6 +218,20 @@ reader learns" [1].
 - Checklist: [printable checklist](/checklists/ib/ib-dp/language-a-literature/)
 - Try [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**How is the Paper 2 essay marked in IB Language A: Literature?**
+The real Paper 2 essay in IB DP Language A: Literature is marked holistically against the IB assessment criteria, which your teacher will share, not point by point.
+
+**Is using "similarly" enough to make a comparison?**
+No. A connective signals a comparison but does not make one; each paragraph needs a sentence that says what the likeness or difference in method shows.
+
+**What should you do with a "to what extent" question?**
+Give a judgement. Ignoring "to what extent" and only describing the two works is a common way to lose marks.
+
+**What goes wrong with remembered quotations?**
+Quotations are often misremembered, reordered, merged or dropped in without comment. If you are unsure of the exact words, paraphrase precisely instead.
 
 ## Official syllabus
 

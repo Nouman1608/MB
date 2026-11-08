@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-literature-intertextuality"
-description: "How works of literature echo, respond to or subvert each other, and how to build a genuine comparative analysis across two studied works -- one of three areas of exploration of IB Diploma Programme Language A: Literature, first assessment 2021."
+description: "How literary works echo, respond to or subvert each other, and how to build a real comparison of two studied works, for IB DP Language A: Literature."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Intertextuality: Connecting Texts**, one of three
@@ -142,6 +144,17 @@ fluency in this structure over recalling a memorised comparison of two
 particular works. Keep the individual oral's paired-text comparison in
 mind while preparing this component, since the two are the same
 analytical skill applied in different formats.
+
+## Frequently asked questions
+
+**Why is a broad shared theme not enough for a comparison?**
+Saying "both are about love" or "both are about power" does not show how each work treats the theme differently or why that matters. Name the specific relationship between the works instead.
+
+**Should you memorise a comparison of two works for Paper 2?**
+Practise the three-question structure under timed conditions instead. In IB DP Language A: Literature, Paper 2 rewards fluency in building a comparison over recalling a memorised comparison of two particular works.
+
+**How does intertextuality connect to the individual oral?**
+The oral pairs a work originally written in the language studied with a work studied in translation around a common global issue, so it is a spoken version of the same context-aware comparison.
 
 ## Official syllabus
 

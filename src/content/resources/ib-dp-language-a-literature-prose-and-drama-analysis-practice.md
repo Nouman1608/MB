@@ -18,10 +18,12 @@ syllabusTopics:
 description: "Original IB DP Language A: Literature practice on prose and drama: three passages, short analysis questions, two extended tasks and model answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -246,6 +248,20 @@ one per text, read as two single-text essays placed side by side.
 - [Printable checklist](/checklists/ib/ib-dp/language-a-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**How do you analyse a drama extract in IB Language A: Literature?**
+Read every stage direction first and picture what the audience sees, then look at who holds power in the dialogue and what pauses and unfinished lines hide. Stage directions are evidence, not background.
+
+**Why do prose and drama answers lose marks?**
+Common reasons are naming a technique such as analepsis or soliloquy without its effect, retelling a flashback instead of linking it to the present scene, and writing "this creates tension" without naming what creates it.
+
+**How should you use a flashback in a prose analysis?**
+Explain how the move back in time changes the reader's understanding of the present scene, rather than retelling what happens in the flashback.
+
+**Can you compare a prose passage and a play in IB Literature?**
+Yes. Paper 2 of IB DP Language A: Literature is a comparative essay on two literary works, and comparing how prose and drama handle the same concern by different methods makes a strong comparison. Link the texts throughout rather than in separate blocks.
 
 ## Official syllabus
 

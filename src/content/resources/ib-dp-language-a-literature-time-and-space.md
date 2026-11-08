@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Study guide to Time and space in IB DP Language A: Literature: context of production and reception, works in translation and cultural perspectives."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide teaches **Time and space**, the second of the three areas of exploration in IB Diploma
@@ -222,6 +224,20 @@ Your teacher will share the assessment criteria for each component. For exam tec
 Condense this guide with the [revision notes](/resources/ib-dp-language-a-literature-time-and-space-revision-notes/),
 then test yourself with the [practice questions](/resources/ib-dp-language-a-literature-time-and-space-practice/),
 which include passages to analyse and an individual oral plan.
+
+## Frequently asked questions
+
+**What is context of production in IB Language A: Literature?**
+Context of production is the set of conditions a work was written in: period, place, language, politics, beliefs, the writer's position and the literary conventions available. In IB DP Language A: Literature you link it to a choice in the text and its effect.
+
+**How should you write about a work studied in translation?**
+Name your translator and edition, build arguments on what survives translation such as structure, events, images and point of view, and phrase claims about single words as claims about the translation.
+
+**Which IB Literature assessments use Time and space?**
+All four. Paper 1 asks you to infer context from unseen passages, Paper 2 can use context to explain differences between works, the individual oral requires a work in translation, and the HL essay can follow a line of inquiry about context.
+
+**Should you judge a character by today's values?**
+Not on its own. First explain what the work shows about its own culture, then say how a reader now might respond; calling a character "backward" and stopping there is a common error.
 
 ## Official syllabus
 

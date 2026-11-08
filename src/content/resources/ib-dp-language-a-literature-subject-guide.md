@@ -6,13 +6,15 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Literature"]
-description: "An overview of IB Diploma Programme Language A: Literature -- its exploration of literature across cultures and history, its three areas of exploration, and teaching hours at SL and HL."
+description: "Overview of IB DP Language A: Literature: literature across cultures, the three areas of exploration, works studied, aims and how SL and HL are assessed."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 IB Diploma Programme Language A: Literature explores the various
@@ -174,6 +176,20 @@ SL (35%) than at HL (25%), where the balance shifts instead toward the
 independently produced HL essay. Students should read this as a signal
 about where preparation time is best spent at each level, not simply
 as an administrative detail.
+
+## Frequently asked questions
+
+**How many works do you study in IB Language A: Literature?**
+The IB's Language A: literature guide sets a minimum of 9 works at SL and 13 at HL, including works originally written in the language studied, works in translation and freely chosen works. The IB's course webpage states lower figures (7 at SL and 10 at HL), so check with your school.
+
+**How much is each IB Literature component worth?**
+At SL, Paper 1 is worth 35%, Paper 2 35% and the individual oral 30%. At HL, Paper 1 is worth 35%, Paper 2 25%, the HL essay 20% and the individual oral 20%.
+
+**What are the seven central concepts in IB Literature?**
+They are identity, culture, creativity, communication, perspective, transformation and representation. They structure teaching across the three areas of exploration but are not directly assessed.
+
+**What is the difference between IB Literature and IB Language and Literature?**
+Both Language A courses share the same assessment structure, but IB DP Language A: Literature studies literary works only, while Language and Literature also studies non-literary texts such as advertisements and speeches.
 
 ## Source
 
