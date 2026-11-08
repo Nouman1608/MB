@@ -309,6 +309,23 @@ table of velocity readings.
 - Calling a trapezium estimate an overestimate without a reason based on the curve's shape.
 - Rounding iterates early, which drifts the final answer.
 
+## Frequently asked questions
+
+**Why are numerical methods needed in AQA A-level Maths?**
+Many equations, such as e^(−x) = x or ln x + x = 3, cannot be solved with algebra. Numerical methods give a solution to a required level of accuracy instead, as overarching theme OT2.4 describes.
+
+**Does every rearrangement of an equation give a useful iteration?**
+No. Different rearrangements of the same equation can behave differently: one may converge to the root you want, while another moves away from it or settles on a different root.
+
+**What calculator feature does AQA 7357 require?**
+The specification says the calculator used in every 7357 paper must have an iterative function, so you can enter x₁ and repeat a formula using the Ans key.
+
+**How do you find the limits an integral must lie between?**
+Use rectangle sums: for an increasing function, left-hand heights give a lower sum and right-hand heights give an upper sum. A trapezium estimate known to be an overestimate can replace the upper bound for a tighter interval.
+
+**How accurate should an answer from a numerical method be in context?**
+Give a sensible accuracy for the situation and units, and note the model's limits, rather than quoting every decimal place.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams

@@ -237,6 +237,23 @@ T = 0.25 × (1 + 1.4142 + 2.4495) = 1.2159. The curve is concave, so this is an 
 - Saying "overestimate" with no reason based on the shape of the curve.
 - Giving a context answer to six decimal places with no units.
 
+## Frequently asked questions
+
+**What is the Newton-Raphson formula?**
+xₙ₊₁ = xₙ − f(xₙ)/f′(xₙ). Differentiate f first, then iterate until two values agree to the required accuracy.
+
+**When does a change of sign test fail?**
+It fails across a vertical asymptote, misses a repeated root where the graph only touches the axis, and can miss an even number of roots in one interval. No sign change does not prove there is no root.
+
+**How do you know whether the trapezium rule over- or underestimates?**
+For a convex curve (f″ > 0) the chords lie above the curve, so it overestimates. For a concave curve (f″ < 0) it underestimates. If f″ changes sign, you cannot say in general.
+
+**What is the difference between a staircase and a cobweb diagram?**
+In a staircase diagram the iterates approach the root from one side; in a cobweb diagram they alternate above and below it.
+
+**How do you show a root is 1.52 to 2 decimal places?**
+Evaluate f at the rounding bounds 1.515 and 1.525, show there is a change of sign, and conclude that 1.515 < α < 1.525.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams

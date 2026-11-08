@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "overarching-themes-aqa-alevel-maths"
-description: "Mathematical argument, language and proof; mathematical problem solving; and mathematical modelling -- the three overarching themes that apply across all content in AQA A-Level Mathematics (7357)."
+description: "AQA A-Level Maths (7357) overarching themes: mathematical argument, language and proof, problem solving and modelling, which apply across all content."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -231,3 +233,19 @@ Offering examples as proof of a general statement — examples never prove, thou
   <figcaption>Long runs of examples can still end in a counter-example, so examples are not a proof.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the three overarching themes in AQA A-level Maths 7357?**
+OT1 is mathematical argument, language and proof; OT2 is mathematical problem solving; and OT3 is mathematical modelling. They apply across all of the content sections A to S and are assessed in all papers.
+
+**Which proof methods are required in AQA A-level Maths?**
+Four methods are required: proof by deduction, proof by exhaustion, disproof by counter-example, and proof by contradiction, such as the proof that √2 is irrational.
+
+**What are the stages of the modelling cycle?**
+Specify the problem, make simplifying assumptions, set up the model, solve it, interpret the solution, compare it with reality, and then refine the model.
+
+**How should you criticise a mathematical model?**
+Name a specific assumption and state its effect on the answer, for example "air resistance was ignored, so the predicted range is greater than the true range". Saying only that the model is unrealistic is not enough.
+
+**How do you revise the overarching themes?**
+Revise them through the content sections themselves, noticing which skill each question tests, and practise full written proofs and unfamiliar multi-step problems set in context.

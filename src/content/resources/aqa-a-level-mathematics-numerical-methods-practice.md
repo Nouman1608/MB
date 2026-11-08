@@ -182,6 +182,23 @@ and there is a change of sign, so **there is a root between 2.5 and 2.7** [1].
 - Upper and lower rectangle sums swapped for a decreasing function.
 - Context answers given with no units or to an unrealistic accuracy.
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 Section I cover?**
+Section I covers locating roots by a change of sign, fixed-point iteration with staircase and cobweb diagrams, the Newton-Raphson method, the trapezium rule and area bounds, and applying these methods in context, content references I1 to I4.
+
+**When does Newton-Raphson fail?**
+It fails if f′(xₙ) = 0, because the formula divides by zero, and it behaves badly when the starting value is near a stationary point, where the small gradient sends the next value far away.
+
+**How can you tell whether fixed-point iteration converges?**
+Near the root, if −1 < g′(x) < 1 the iteration converges from a close starting value: a staircase if 0 < g′ < 1, a cobweb if −1 < g′ < 0. If |g′| > 1, the iterates move away.
+
+**How do you find upper and lower bounds for an area with rectangles?**
+For a decreasing function, left-hand heights give an upper bound and right-hand heights give a lower bound. Swap them for an increasing function.
+
+**Why should the calculator be in radians for numerical methods?**
+Questions with trigonometric functions use radians, and degree mode gives wrong values of sin θ and cos θ, which loses every accuracy mark that follows.
+
 ## Next steps
 
 - [Numerical methods revision notes](/resources/aqa-a-level-mathematics-numerical-methods-revision-notes/)

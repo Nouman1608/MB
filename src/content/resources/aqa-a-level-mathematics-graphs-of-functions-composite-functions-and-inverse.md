@@ -255,6 +255,23 @@ f⁻¹(x) = √(x + 5) − 2,   domain x ≥ −5,   range f⁻¹(x) ≥ −2
 - Drawing y = a/x² so that it crosses an axis, or giving it no vertical asymptote.
 - Giving f⁻¹ without its domain, or using the wrong sign of the square root after a domain restriction.
 
+## Frequently asked questions
+
+**What does gf(x) mean in AQA A-level Maths 7357?**
+gf(x) means g(f(x)): apply f first, then g. In general gf and fg are different functions.
+
+**How do you show that an equation has a certain number of real roots by sketching?**
+Rearrange the equation into two curves you can sketch, such as x² − 4 = 1/x, and count their intersections. Each intersection gives one real root.
+
+**How do you solve a modulus inequality such as |x − 4| < 2x?**
+Sketch both graphs, solve the equality on each arm of the V, reject any root from the wrong arm, then read off where the line is above the V.
+
+**How do you restrict the domain of a quadratic so it has an inverse?**
+Restrict the domain to one side of the turning point, found by completing the square. Then choose the square root sign that matches that side when inverting.
+
+**What does "y is inversely proportional to x²" mean?**
+It means y = k/x² for some constant k. Find k from one pair of values, then use the equation for any other value.
+
 ## Next steps
 
 Do the [practice questions](/resources/aqa-a-level-mathematics-graphs-of-functions-composite-functions-and-inverse-practice/), then recall the key results with the [revision notes](/resources/aqa-a-level-mathematics-graphs-of-functions-composite-functions-and-inverse-revision-notes/). Check your readiness with the [free diagnostics](/diagnostics/).

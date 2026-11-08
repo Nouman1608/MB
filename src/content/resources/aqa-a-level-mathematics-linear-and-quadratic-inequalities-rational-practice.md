@@ -134,6 +134,23 @@ Quick links: [course hub](/boards/aqa/a-level/mathematics/) | [checklist](/check
 - Choosing the region from a point on the boundary, or not testing at all.
 - Dropping the context in a modelling question, so a negative width stays in the answer.
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 content reference B5 cover?**
+B5 covers linear and quadratic inequalities, inequalities with brackets and fractions, writing solutions with "and", "or" or set notation, and representing inequalities as regions on a graph.
+
+**How do you solve a fraction inequality such as 7/(2x − 1) ≥ 1?**
+Note the excluded value, multiply both sides by the square of the denominator (which is positive), collect on one side and factorise. Then read off the solution and remove the value that makes the denominator zero.
+
+**Why shouldn't you cancel x in an inequality such as x + 4 > 12/x?**
+x could be negative, which would reverse the sign, so cancelling or multiplying by x loses solutions. Multiply by x² instead and use a sign diagram.
+
+**How do you decide whether a point lies in a region with a dashed boundary?**
+A point on a dashed boundary is not in the region, because the inequality is strict. Test points by substituting into every inequality.
+
+**When must a quadratic be positive for every real x?**
+When the coefficient of x² is positive and the discriminant is negative, so the curve never meets the x-axis. For x² + kx + 9, that gives −6 < k < 6.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-a-level-mathematics-linear-and-quadratic-inequalities-rational-revision-notes/) for the method boxes.

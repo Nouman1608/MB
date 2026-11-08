@@ -221,6 +221,23 @@ A second moments equation, about a different point, can replace the resolving st
 - Using centimetres in a moment and giving an answer 100 times too large.
 - Rounding a tension early, then using it to find a reaction.
 
+## Frequently asked questions
+
+**What are the conditions for a rigid body to be in equilibrium?**
+The resultant force is zero and the resultant moment about any point is zero. A particle only needs the first condition.
+
+**What is the unit of a moment?**
+The moment of a force is measured in newton metres (N m), so distances must be in metres. Using centimetres gives an answer 100 times too large.
+
+**Where should you take moments about?**
+Take moments about the point where the most unknown forces act, such as a hinge, a support or the foot of a ladder, so their moments are zero and drop out.
+
+**What is the difference between tilting and slipping?**
+Tilting means a support reaction becomes zero. Slipping means friction reaches its limiting value μR.
+
+**Which distances do you use for forces on a ladder?**
+A vertical force such as weight uses the horizontal distance, d cos θ, and a horizontal force such as the reaction from a smooth wall uses the vertical distance, d sin θ, where θ is the angle to the horizontal.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3, 31 January 2018, for A-level exams June 2018 onwards: Section 3.20 S: Moments (S1), with Section 3.19 R: Forces and Newton's laws (R4, R6), Section 3.1.3 OT3: Mathematical modelling, and Appendix B: mathematical formulae and identities.

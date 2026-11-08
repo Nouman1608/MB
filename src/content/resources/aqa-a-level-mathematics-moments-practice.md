@@ -168,6 +168,23 @@ so the true moment about the clamp may be slightly different from the calculated
 - Rounding a tension or reaction before using it again.
 - Leaving out units (N, N m) on final answers.
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 Section S cover?**
+Section S (S1) covers understanding and using moments in simple static contexts, such as beams, planks, hinged rods and ladders. It is examined on Paper 2.
+
+**How do you find the moment of a force acting at an angle to a rod?**
+Multiply the force by the perpendicular distance from the pivot to its line of action, F × d sin θ, or multiply the perpendicular component of the force by the distance along the rod.
+
+**What happens to the reactions when a beam is about to tilt?**
+The beam is about to turn about one support, so the reaction at the other support is zero. State this in words before taking moments about the tilting support.
+
+**How do you find the centre of mass of a non-uniform rod?**
+Put the weight at an unknown distance x from one end, find the reactions, then take moments about that end to solve for x. Never assume the midpoint for a non-uniform rod.
+
+**What does a "magnitude and direction" answer for a hinge force need?**
+Find the horizontal and vertical components by resolving, then give both the magnitude, using Pythagoras, and the angle, using tan⁻¹. Giving only the magnitude is incomplete.
+
 ## Next steps
 
 - Recap the methods: [Moments revision notes](/resources/aqa-a-level-mathematics-moments-revision-notes/).
