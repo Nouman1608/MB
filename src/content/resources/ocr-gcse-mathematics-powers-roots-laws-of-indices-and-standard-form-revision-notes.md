@@ -250,6 +250,20 @@ With a calculator, bracket carefully, keep the full unrounded value until the en
 * Cubing before rooting with a fractional index, which makes the numbers large and error-prone.
 * Skipping the working on a hand calculation. Showing the matched powers or the reciprocal step lets an examiner see your method.
 
+## Frequently asked questions
+
+**What are the three laws of indices?**
+Add the indices when multiplying, a^m × a^n = a^(m+n); subtract when dividing, a^m ÷ a^n = a^(m−n); and multiply when raising a power to a power, (a^m)^n = a^(mn). The laws only work when the bases are the same.
+
+**Can you combine powers with different bases using index laws?**
+No. The laws of indices need the same base, so 2³ × 3² cannot be written as 6⁵; it stays as 8 × 9 = 72.
+
+**What is the rule for standard form?**
+A number in standard form is written A × 10ⁿ, where 1 ≤ A < 10 and n is a whole number. Large numbers have a positive n and numbers between 0 and 1 have a negative n.
+
+**Are fractional indices on the OCR GCSE Maths Foundation tier?**
+No. In OCR GCSE Mathematics J560, fractional indices, fractional powers and estimating powers and roots are Higher tier only. Positive and negative integer indices, the laws of indices and standard form are for both tiers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections 3.01 and 3.02.

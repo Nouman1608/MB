@@ -177,6 +177,20 @@ Check: 4 x 27 x 5 = 540.
 - Find your weak spots with the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these integer and number theory questions cover?**
+They cover sections 1.01 to 1.04 of OCR GCSE (9-1) Mathematics J560: integer arithmetic, whole number theory, priority of operations and inverse operations. All of it is Foundation and Higher content, so every question suits both tiers.
+
+**What does "use power notation" mean in a prime factorisation question?**
+It means writing repeated primes as powers, such as 2³ × 3² × 7 rather than 2 × 2 × 2 × 3 × 3 × 7. Leaving out the powers when power notation is requested is a common way to lose marks.
+
+**How do you tell whether a word problem needs the HCF or the LCM?**
+Use the LCM when events repeat and you want to know when they coincide, or for the smallest number that works. Use the HCF when quantities are shared into equal groups with nothing left over.
+
+**How should you check an answer to a number puzzle or missing-digit question?**
+Run your answer forwards through the original steps, or add or multiply it out, and check that you reach the given result. This catches reversing the steps in the wrong order or forgetting a carry.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), published by OCR (Cambridge OCR): sections 1.01a, 1.02a to 1.02c, 1.03a and 1.04a.

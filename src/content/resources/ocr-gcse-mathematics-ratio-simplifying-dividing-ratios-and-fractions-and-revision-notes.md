@@ -230,6 +230,20 @@ Answer these without looking, then check below.
 - Not showing the value of one part, which leaves nothing to credit if an arithmetic slip occurs later.
 - Writing 1 : n with n the wrong way up. Divide the second part by the first.
 
+## Frequently asked questions
+
+**How do you share an amount in a ratio?**
+Add the ratio numbers to find the total number of parts, divide the amount by that total to find one part, then multiply by each ratio number. Check that the shares add up to the original amount.
+
+**How do you write a ratio in the form 1 : n?**
+Divide both parts by the first part. For 25 : 40, 40 ÷ 25 = 1.6, so the ratio is 1 : 1.6; n can be a decimal or a fraction.
+
+**What is the difference between part-to-part and part-to-whole?**
+A part-to-part ratio compares one part with another, such as 3 : 4. A part-to-whole fraction compares a part with the total, so in the ratio 3 : 4 the first part is 3/7 of the whole.
+
+**How can you check a ratio answer quickly?**
+Add the shares to check they equal the original quantity, and check that the larger ratio number has the larger share. Dividing your answers back down should give the original ratio.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics (J560), specification Version 2.1 (August 2026), first assessment 2017, section 5.01 Calculations with ratio.

@@ -306,6 +306,20 @@ The curve is upside down with its highest point at (2, −3), which is below the
 
 Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and-practice/), then condense the unit with the [revision notes](/resources/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and-revision-notes/). Use the [checklist](/checklists/ocr/gcse/mathematics/) to mark off 7.01a to 7.01c, and the [diagnostics](/diagnostics/) to find weak spots.
 
+## Frequently asked questions
+
+**What does the graph of y = 1/x look like?**
+It has two separate branches in the first and third quadrants and never touches either axis. There is no point at x = 0, because you cannot divide by zero.
+
+**What is the difference between the graphs of y = x² and y = x³?**
+Both pass through the origin. y = x² is a U-shape symmetrical about the y-axis and never below the x-axis, while y = x³ rises from the bottom left through the origin to the top right, in quadrants 1 and 3.
+
+**What is the equation of a horizontal or vertical line?**
+A horizontal line through (0, c) has equation y = c, and a vertical line through (c, 0) has equation x = c. For example, y = −3 is horizontal and x = 4 is vertical.
+
+**How do you find where a line like 3x + 2y = 12 crosses the axes?**
+Put x = 0 to find the y-intercept and y = 0 to find the x-intercept. For 3x + 2y = 12, the line crosses at (0, 6) and (4, 0).
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 7.01 Graphs of equations and functions (7.01a to 7.01c).

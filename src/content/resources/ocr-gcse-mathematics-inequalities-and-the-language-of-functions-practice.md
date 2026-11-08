@@ -171,6 +171,20 @@ Total **10 points** [1]
 - Find weak spots with the [free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are quadratic inequalities on the OCR GCSE Maths Foundation tier?**
+No. In OCR GCSE Mathematics J560 sections 6.04 and 6.05, quadratic inequalities, set notation, regions on a graph, inverse functions and composite functions are Higher tier only. Linear inequalities, number lines and functions as machines are for both tiers.
+
+**What is the most common mistake when solving a linear inequality?**
+Keeping the original inequality sign after multiplying or dividing both sides by a negative number. The sign must be reversed, so −2x ≥ 8 becomes x ≤ −4.
+
+**What should you do with the critical values of a quadratic inequality?**
+The critical values are only the roots, not the answer. Sketch the curve and state the range: between the roots for less than zero, and outside the roots for greater than zero.
+
+**Should you round up or down in a context inequality question?**
+Choose the whole number that actually satisfies the inequality. If n < 10.67 and n must be a whole number, the greatest value is 10, so rounding up to 11 would be wrong.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026), first assessment 2017, published by OCR (Oxford Cambridge and RSA) - sections 6.04 Algebraic inequalities and 6.05 Language of functions.

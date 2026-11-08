@@ -294,6 +294,20 @@ Worked reminder for identifying a line: the triangle with a vertex at (−3, 5) 
 </figure>
 
 
+## Frequently asked questions
+
+**What does isometric mean for a transformation?**
+An isometric transformation keeps every length and angle, so the image is congruent to the object. Reflection, rotation and translation are isometric, but enlargement is not.
+
+**How do you reflect a point in the line y = x or y = −x?**
+In y = x, swap the coordinates, so (x, y) goes to (y, x). In y = −x, swap them and change both signs, so (x, y) goes to (−y, −x).
+
+**What single transformation is a reflection in two parallel lines?**
+It is a translation at right angles to the lines, through twice the distance between them, in the direction from the first line to the second. Combinations of transformations are Higher tier only in OCR GCSE Mathematics J560.
+
+**What is the difference between vector AB and vector BA?**
+They have the same size but opposite directions, so BA = −AB. Writing BA when the question asks for AB flips every sign in the answer.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, published by OCR. These notes cover sections 9.01a to 9.01d and 9.03a and 9.03b.

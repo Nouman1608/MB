@@ -167,6 +167,20 @@ Tree: 320 tickets, adult 200 (popcorn 140, no popcorn 60), child 120 (popcorn 90
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - For help with any question you could not do, [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths unit do these probability questions cover?**
+They cover unit 11.01, Basic probability and experiments, of OCR GCSE (9-1) Mathematics J560: the probability scale, relative frequency, equally likely outcomes and expected numbers. Nothing in this unit is Higher tier only.
+
+**Can you write a probability as a ratio or as "1 in 6"?**
+No. When a question asks for a probability, give it as a fraction, a decimal or a percentage. A ratio or a phrase such as "1 in 6" does not answer the question.
+
+**How many outcomes are there when two dice are thrown?**
+There are 36 equally likely pairs of scores. Using the 11 possible totals, 2 to 12, as the sample space is a common mistake, because those totals are not equally likely.
+
+**Can a short run of results show that a spinner or coin is biased?**
+No. Small samples can be far from the theoretical probability by chance, so a few trials do not prove bias. Compare the relative frequency from a large number of trials, and say that more trials are needed if you are unsure.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Unit 11.01: Basic probability and experiments.

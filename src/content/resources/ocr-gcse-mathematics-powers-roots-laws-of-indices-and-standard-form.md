@@ -360,6 +360,20 @@ Answer: **3 × 10³ bytes**.
 
 Condense this with the [revision notes](/resources/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form-practice/). Tick off progress on the [checklist](/checklists/ocr/gcse/mathematics/) and use the [diagnostics](/diagnostics/) to find weak spots.
 
+## Frequently asked questions
+
+**What does a negative index mean?**
+A negative index means take the reciprocal: a⁻ⁿ = 1/aⁿ. It does not make the answer negative, so 3⁻² = 1/9.
+
+**Why is any number to the power zero equal to 1?**
+By the division law, 5³ ÷ 5³ = 5⁰, and any non-zero number divided by itself is 1. So a⁰ = 1 for any non-zero base a.
+
+**How do you work out a fractional power such as 125^(2/3)?**
+The denominator names the root and the numerator is the power, so take the root first and then apply the power. 125^(2/3) = (∛125)² = 5² = 25.
+
+**How do you order numbers written in standard form?**
+Compare the powers of 10 first, and only compare the A values when the powers are the same. Put every number into standard form before comparing.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections 3.01 and 3.02.

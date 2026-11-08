@@ -271,6 +271,20 @@ Check: 16 + 48 + 16 = 80 m
 - Writing "the area is the distance" without checking that the vertical axis is velocity or speed.
 - Stating an estimate without saying whether it is an over- or under-estimate when the question asks.
 
+## Frequently asked questions
+
+**What does the gradient of a distance-time graph show?**
+The gradient of a distance-time graph is the speed, or velocity if direction matters. A horizontal line means the object is stationary, not moving at constant speed.
+
+**What does the area under a velocity-time graph represent?**
+The area under a velocity-time graph is the distance travelled. Finding it, along with using the gradient as acceleration, is Higher tier only in OCR GCSE Mathematics J560.
+
+**What is the difference between a chord and a tangent on a curve?**
+A chord joins two points on the curve, and its gradient gives the average rate of change between them. A tangent touches the curve at one point, and its gradient gives the instantaneous rate of change there.
+
+**Is every straight-line graph a direct proportion graph?**
+No. A direct proportion graph is a straight line through the origin, so a straight line that misses the origin, such as F = 1.8C + 32, is linear but not proportional.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. These notes follow section 7.04, Interpreting graphs.

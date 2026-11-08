@@ -382,6 +382,20 @@ PR = OR − OP = 6a + 9b = 3(2a + 3b) = 3PQ
 - Writing **BA** when asked for **AB**: the sign flips.
 - Claiming vectors are parallel without showing a scalar multiple.
 
+## Frequently asked questions
+
+**How do you find the mirror line of a reflection?**
+Join a point to its image and find the perpendicular bisector of that line; this is the mirror line. If the x-coordinates match, the line is horizontal through the midpoint of the y-values.
+
+**How do you find the centre of a rotation?**
+Join two different points to their images and draw the perpendicular bisector of each join. The bisectors cross at the centre of rotation.
+
+**Does the order of transformations matter?**
+Yes, the order often changes the result. Reflecting in the x-axis and then in y = x gives a 90° anticlockwise rotation about the origin, but the opposite order gives a 90° clockwise rotation.
+
+**How do you prove three points are collinear using vectors?**
+Show that two vectors joining the points are multiples of each other and share a point. For example, if PR = 3PQ, the lines PQ and PR are parallel and both pass through P, so P, Q and R lie on a straight line.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, published by OCR. This guide covers sections 9.01a to 9.01d and 9.03a and 9.03b.

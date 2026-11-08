@@ -180,6 +180,20 @@ These questions follow sections 7.01a to 7.01c of the OCR GCSE (9-1) Mathematics
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these plotting and sketching questions cover?**
+They follow sections 7.01a to 7.01c of OCR GCSE (9-1) Mathematics J560: coordinates, plotting graphs from tables, and recognising and sketching graphs. Solving with the quadratic formula or completing the square, and sketching from a completed square, are Higher tier only.
+
+**How should you join the points when plotting a curve?**
+Join them with one smooth curve, not straight segments, and round the bottom of a parabola rather than drawing a point there. For a reciprocal graph, draw each branch separately and never join them across x = 0.
+
+**What is the most common error when completing a table of values for a quadratic?**
+Squaring a negative number and getting a negative answer. Use brackets, so (−3)² = 9, not −9.
+
+**What does a sketch need to show compared with a plot?**
+A sketch is freehand but needs labelled axes, the right quadrants, the correct shape and the correct contact with the axes. Label intercepts and turning points with coordinates when the question asks for them.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 7.01 Graphs of equations and functions (7.01a to 7.01c).
