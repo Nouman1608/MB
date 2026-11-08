@@ -148,6 +148,20 @@ These questions test the Cambridge O Level Economics 2281 syllabus for examinati
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is a government budget?**
+A government budget is a plan of how much the government expects to spend and raise in revenue over a set period, usually a year. Defining it as "the money a government has" misses the point.
+
+**How do you calculate tax under a banded income tax?**
+Apply each rate only to the slice of income inside its band, then add the amounts. Charging the top rate on the whole income is a common error.
+
+**How do you prove a tax is progressive?**
+Compare average tax rates, which are tax paid divided by income multiplied by 100. A tax is progressive if the average rate rises as income rises, not simply because richer people pay more money.
+
+**How do you check an indirect tax calculation in Cambridge O Level Economics 2281?**
+Replace P with P minus the tax in the supply equation to find the new equilibrium, then check that the consumers' share and the producers' share of the tax add up to total tax revenue.
+
 ## Official syllabus
 
 Aligned to the Cambridge O Level Economics 2281 syllabus for examination in 2026, published by Cambridge University Press and Assessment (Cambridge International), subject content statements 4.3.1 to 4.3.6.

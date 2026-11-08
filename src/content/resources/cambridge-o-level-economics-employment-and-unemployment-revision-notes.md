@@ -241,6 +241,20 @@ Consequence for a firm: When many households lose their jobs, they cut spending,
 - Never judging effectiveness: no mention of time lags, cost or size.
 - Missing units, such as the percentage sign.
 
+## Frequently asked questions
+
+**What are the three types of unemployment at O Level?**
+The three types are frictional (time spent moving between jobs), structural (a lasting mismatch of skills or location after industries change) and cyclical (a fall in total demand, also called demand-deficient unemployment).
+
+**What is the difference between the claimant count and a labour force survey?**
+The claimant count records people claiming unemployment benefit. A labour force survey asks a sample of people about their situation, so it can include jobless people who are not on the benefit register, although it carries sampling error.
+
+**What are the consequences of unemployment?**
+The unemployed lose income and skills, firms face weaker demand, the government loses tax revenue and pays more in benefits, and the economy loses output, which is the opportunity cost of idle labour.
+
+**How do you evaluate a policy to reduce unemployment?**
+Identify the type of unemployment, then consider how fast the policy works, how large its effect is compared with the problem, what it costs and who pays, and any side effects such as higher prices or more borrowing.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: section 4.7 Employment and unemployment, covering 4.7.1 to 4.7.6.

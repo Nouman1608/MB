@@ -249,6 +249,20 @@ Explain these effects through incomes, prices, costs, jobs and output.
 - Writing "indirect taxes are paid by firms". Firms collect them, but the burden can pass to consumers.
 - Saying a tax is regressive because it is unfair. Regressive is a mathematical description, not an opinion.
 
+## Frequently asked questions
+
+**What do statements 4.3.1 to 4.3.6 of Cambridge O Level Economics 2281 cover?**
+They cover what a government budget is, the main areas of public spending, why taxes are raised, how taxes are classified, the qualities of a good tax and the impact of taxation.
+
+**Why do governments tax?**
+Governments tax to fund public spending, to make the distribution of income fairer, to discourage demerit goods, to protect home industry through import duties and to reward behaviour they want, such as training.
+
+**Why are indirect taxes often regressive?**
+Low-income households spend a larger share of their income on taxed goods, so even with the same tax rate for everyone they pay a larger percentage of their income than high-income households.
+
+**How does elasticity affect revenue from an indirect tax?**
+A tax raises more revenue when demand is inelastic, because quantity falls only a little. This is why governments raise most indirect tax revenue from goods with inelastic demand.
+
 ## Official syllabus
 
 Aligned to the Cambridge O Level Economics 2281 syllabus for examination in 2026, published by Cambridge University Press and Assessment (Cambridge International), subject content statements 4.3.1 to 4.3.6.

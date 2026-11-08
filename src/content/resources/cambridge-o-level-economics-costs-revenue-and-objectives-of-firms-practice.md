@@ -151,6 +151,20 @@ These questions cover section 3.7, Firms' costs, revenue and objectives, of the 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a [free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where does the total cost curve start?**
+The total cost curve starts on the vertical axis at the level of fixed cost, not at the origin, because fixed cost must be paid even when output is zero.
+
+**Is average fixed cost constant?**
+No. Fixed cost stays the same, but average fixed cost falls as output rises because the same fixed cost is spread over more units.
+
+**How do you find total cost from variable cost?**
+Add fixed cost to variable cost: TC = FC + VC. Forgetting to add fixed cost, or reporting total cost when average total cost was asked for, are common errors.
+
+**How do you identify a firm's objective in Cambridge O Level Economics 2281?**
+Point to evidence about the firm in the question, such as its age, ownership or competition, rather than naming an objective on its own, and end any evaluation with a conclusion and the condition it depends on.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge O Level Economics 2281 syllabus for examination in 2026*, version 2, section 3.7. Cambridge University Press & Assessment.

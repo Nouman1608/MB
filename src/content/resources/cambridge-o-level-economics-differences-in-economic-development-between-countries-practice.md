@@ -131,6 +131,20 @@ These questions cover section 5.4 (5.4.1) of the Cambridge O Level Economics (22
 - Try a [free 10-minute diagnostic](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between GDP and income per head?**
+GDP is a country's total output or income, while income per head is GDP divided by the population. Giving one when the question asks for the other loses marks.
+
+**Should you explain causes or impacts in a development question?**
+Check the command and the question. Section 5.4.1 of Cambridge O Level Economics 2281 asks for both the causes of differences and their impacts, so explaining causes only can leave marks unearned.
+
+**Is a large population always bad for development?**
+No. A large young population means many dependants and heavy spending on schools, but more workers can be an advantage if there are enough jobs and enough capital for each of them.
+
+**How do you make a development answer analytical?**
+Build a chain from the cause to output or income, such as poor health leading to lost working days, lower productivity and lower income. Stating "low income" or "poor health" without the link earns little.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education).

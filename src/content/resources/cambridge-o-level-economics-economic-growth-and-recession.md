@@ -272,6 +272,20 @@ To judge effectiveness, ask four things. Is there spare capacity? How long will 
 - Describing costs and benefits of growth with no reference to the type of economy.
 - Giving policies without evaluating how effective they are.
 
+## Frequently asked questions
+
+**What does section 4.6 of Cambridge O Level Economics 2281 cover?**
+Section 4.6 covers economic growth from 4.6.1 to 4.6.6: what it is, how it is measured with real GDP and GDP per head, recession, the causes of growth, its consequences and policies to promote it.
+
+**Why is GDP per head used as well as total GDP?**
+Total real GDP can rise while the average person gains nothing if population grows as fast or faster. GDP per head is a better guide to average living standards.
+
+**What causes a recession?**
+A recession usually starts with a fall in total demand: consumers cut spending, firms cut investment, exports fall, the government cuts spending or raises taxes, or a banking crisis cuts lending. A supply shock such as a sharp rise in input prices can also cause one.
+
+**Does growth matter more to some economies than others?**
+Yes. A low-income economy where many people lack basic needs usually gains most from growth, while a high-income economy gains less and may weigh the environmental costs more heavily.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026 (version 2), published by Cambridge University Press & Assessment (Cambridge International), section 4.6.

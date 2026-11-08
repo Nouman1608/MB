@@ -205,6 +205,20 @@ To evaluate, name the condition that decides the answer, such as how much money 
 - Defining an objective but never tying it to the evidence about the firm.
 - Assuming the output with the highest TR has the highest profit.
 
+## Frequently asked questions
+
+**What are the formulas for average costs?**
+Average fixed cost is fixed cost divided by output, average variable cost is variable cost divided by output, and average total cost is total cost divided by output. Average total cost also equals average fixed cost plus average variable cost.
+
+**Is the output with the highest total revenue the most profitable?**
+Not necessarily. Profit is total revenue minus total cost, so the output with the highest revenue may also have high costs. Compare revenue and cost at each output.
+
+**Are wages a fixed or a variable cost?**
+It depends on how they behave. Wages are variable if workers are paid per item or per hour worked, but fixed if a worker receives a monthly salary whatever the output, so say which you are assuming.
+
+**Are marginal cost and marginal revenue needed for Cambridge O Level Economics 2281?**
+No. The 2281 syllabus states that marginal cost and marginal revenue are not required for section 3.7.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge O Level Economics 2281 syllabus for examination in 2026*, version 2, section 3.7. Cambridge University Press & Assessment.

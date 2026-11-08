@@ -141,6 +141,20 @@ This set tests section 4.6 (Economic growth) of the Cambridge O Level Economics 
 - Try a [free 10-minute diagnostic](/diagnostics/).
 - Book a [free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you measure real economic growth?**
+Divide nominal GDP by the price index and multiply by 100 to get real GDP, then find the percentage change from the earlier year. Using nominal figures without deflating them is a common error.
+
+**Should growth rates be added or multiplied?**
+Multiply them. For example, growth from more workers and higher output per worker compounds, so adding the two rates gives a slightly wrong answer.
+
+**Does a recession shift the PPC inwards?**
+No. In a recession some resources are unemployed, so the economy moves to a point further inside its PPC. The curve shifts inwards only if capacity is lost, for example if factories are scrapped or skills are lost.
+
+**How do you answer a costs and benefits of growth question in Cambridge O Level Economics 2281?**
+Give both sides and link them to the type of economy named in the question, such as a low-income economy or one dependent on a single export. For policies, comment on effectiveness and side effects.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026 (version 2), published by Cambridge University Press & Assessment (Cambridge International), section 4.6.
