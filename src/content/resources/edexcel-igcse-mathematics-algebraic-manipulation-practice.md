@@ -12,14 +12,16 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on index notation, expanding, factorising, algebraic fractions and completing the square, for Pearson Edexcel International GCSE Mathematics Higher Tier (4MA1)."
+description: "Practice questions with worked answers on indices, three-bracket expansion, factorising, algebraic fractions and completing the square for Edexcel 4MA1."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 updatedDate: 2026-09-28
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -157,3 +159,17 @@ worth building into every longer algebra question attempted under exam condition
 - Sign errors when expanding three linear expressions, particularly with a negative bracket like (x − 1).
 - Cancelling additive terms in an algebraic fraction as though they were multiplicative common factors.
 - Forgetting to multiply the adjustment term by the factored-out coefficient when completing the square.
+
+## Frequently asked questions
+
+**How can you check a completed-the-square answer?**
+Expand a(x + b)² + c back out and confirm it matches the original quadratic. This catches the most common error, which is forgetting to multiply the adjustment term by the factored-out coefficient.
+
+**Should you factorise or complete the square for a quadratic?**
+Try factorising first, which is quickest when the roots are clean integers. Switch to completing the square when factors do not appear cleanly, as with 2x² − 10x + 3.
+
+**How do you check an algebraic expansion quickly?**
+Substitute a simple value such as x = 2 into both the original expression and your simplified answer. If the two results differ, look for a sign error or a dropped term.
+
+**Is completing the square on the Foundation tier of Edexcel IGCSE Maths 4MA1?**
+In the 4MA1 specification, completing the square, algebraic fractions and expanding three brackets are listed as Higher tier content, which is why those questions on this page are marked Higher tier only.

@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on fractions, ratio, percentages, indices, standard form, surds and bounds for Edexcel International GCSE Mathematics 4MA1."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -276,3 +278,19 @@ The **universal set** 𝓔 contains every element under consideration. **A′** 
   <figcaption>Shading everything except the overlap is (A ∩ B)′; B only is A′ ∩ B.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is 1 a prime number?**
+No. A prime has exactly two factors, so 1 is not prime, and 2 is the only even prime number.
+
+**How do you find the HCF and LCM using prime factors?**
+For the HCF, multiply the lowest power of each prime common to both numbers. For the LCM, multiply the highest power of every prime that appears in either number.
+
+**How do you work out a reverse percentage?**
+Divide by the multiplier rather than subtracting the percentage. For example, if a price is $90 after a 20% increase, the original price is 90 ÷ 1.2 = $75.
+
+**How do you find the bounds of a subtraction?**
+For the maximum, subtract the lower bound from the upper bound; for the minimum, subtract the upper bound from the lower bound. Subtraction and division both cross over in this way.
+
+**What does A ∩ B mean in set notation?**
+A ∩ B is the intersection, the elements in both A and B. A ∪ B is the union, the elements in A or B or both.

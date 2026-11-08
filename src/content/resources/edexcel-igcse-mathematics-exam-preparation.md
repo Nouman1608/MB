@@ -9,13 +9,15 @@ qualifications: ["igcse"]
 syllabusCodes: ["4MA1"]
 syllabusSeries: "Specification Issue 2, November 2017"
 order: 3
-description: "What the Foundation and Higher tier grade ranges of Pearson Edexcel IGCSE Mathematics A 4MA1 mean in practice, how to work two equal 2-hour papers, calculator discipline and a worked method-marks routine."
+description: "Tier choice, pacing two equal 2-hour papers, calculator habits and a routine for protecting method marks in Pearson Edexcel International GCSE Maths A (4MA1)."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Pearson Edexcel International GCSE Mathematics A (4MA1) is a tiered, linear qualification. Foundation
@@ -124,6 +126,23 @@ tier; there is no split by topic, so a dropped topic can appear on either paper.
 marks can only be awarded for method that is visible -- mental or calculator working earns nothing if
 the final answer is wrong. 4. It accumulates rounding error through the calculation and can cost the
 final accuracy mark even when the method is entirely correct.
+
+## Frequently asked questions
+
+**How many papers are there in Edexcel IGCSE Maths 4MA1?**
+There are two papers for each tier: Papers 1F and 2F for Foundation, and Papers 1H and 2H for Higher. Each lasts 2 hours, is worth 100 marks and makes up 50% of the qualification.
+
+**What grades can you get on Foundation and Higher tier 4MA1?**
+The Foundation tier targets grades 5 to 1. The Higher tier targets grades 9 to 4, with grade 3 allowed.
+
+**Is there a non-calculator paper in Edexcel IGCSE Maths 4MA1?**
+No. A scientific calculator meeting the board's minimum function specification is required on every paper, so both papers are calculator papers.
+
+**Do you get marks for working if the final answer is wrong?**
+Yes, method marks can be awarded for a correct method even when the final answer is wrong. They can only be given for working that is written down, not for steps done mentally or on a calculator.
+
+**Can you leave out a topic because there are two papers?**
+No. Both papers may draw on the whole specification content for your tier, so a topic you have dropped could appear on either paper.
 
 *Written against the Pearson Edexcel International GCSE Mathematics A 4MA1 specification (official
 specification PDF, Issue 2, November 2017, verified 2026-08-28). A separate modular version also
