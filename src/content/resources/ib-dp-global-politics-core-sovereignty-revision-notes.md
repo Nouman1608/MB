@@ -197,6 +197,23 @@ Worked reminder: the claim "Sovereignty is being eroded by TNCs" is strong under
 - [Legitimacy study guide](/resources/ib-dp-global-politics-core-legitimacy/) for the sovereignty--legitimacy distinction, and [Interdependence study guide](/resources/ib-dp-global-politics-core-interdependence/) for global governance
 - [Assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/)
 
+## Frequently asked questions
+
+**What is the difference between de jure and de facto sovereignty?**
+De jure sovereignty is the legal right to rule, while de facto sovereignty is actual control on the ground. Kosovo has many recognitions but no UN seat, while Taiwan has strong de facto control but few formal recognitions.
+
+**What are the Montevideo Convention criteria for statehood?**
+The Montevideo Convention (1933) sets out four criteria: a permanent population, a defined territory, a government, and the capacity to enter into relations with other states.
+
+**What is the difference between Westphalian and popular sovereignty?**
+Westphalian sovereignty is territorial, supreme authority with no outside actor in domestic affairs and legal equality between states. Popular sovereignty places final authority with the people, so the state rules by their consent.
+
+**Does EU membership remove a state's sovereignty?**
+No. EU membership is a form of pooled sovereignty: members choose to exercise some powers jointly and keep international legal sovereignty, and pooling can be reversed, as when the UK left the EU in January 2020.
+
+**What are Krasner's four meanings of sovereignty?**
+Stephen Krasner (1999) distinguishes domestic sovereignty (control at home), interdependence sovereignty (control of cross-border flows), international legal sovereignty (recognition) and Westphalian sovereignty (no outside authority inside).
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024) -- core topics, prescribed topic "Sovereignty in global politics".

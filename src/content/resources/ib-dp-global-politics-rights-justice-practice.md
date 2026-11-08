@@ -12,7 +12,7 @@ order: 5
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-global-politics-rights-and-justice"
-description: "Original practice questions with full worked answers applying the four core concepts to how rights are claimed, contested and enforced, for IB Diploma Programme Global Politics's Rights and justice thematic study."
+description: "Original IB DP Global Politics practice questions on Rights and justice, with worked answers using power, sovereignty, legitimacy and interdependence."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -82,6 +82,20 @@ Related: [Rights and Justice study guide](/resources/ib-dp-global-politics-right
 **6.** A strong answer takes a clear position and supports it with named, specific examples rather than describing sovereignty and human rights law only in the abstract. Evidence for the statement might include an example where a state has resisted findings from a named body such as the International Court of Justice (ICJ) or the International Criminal Court (ICC), or a regional court such as the European Court of Human Rights, citing sovereign authority over its own internal affairs -- illustrating how sovereignty can genuinely block enforcement even where legitimacy (wide international acceptance that a violation occurred) is high. Evidence against, or limiting, the statement might include an example where international pressure, sanctions, or reputational costs have led a state to change a rights-related policy despite initially claiming sovereign authority over the matter -- illustrating that sovereignty is a real constraint but not always an absolute one, since interdependence (economic ties, alliance relationships, reputational concerns) can still create effective pressure. The strongest answers explicitly weigh these named examples against each other and reach a substantiated conclusion, for example that sovereignty limits the speed and directness of enforcement more consistently than it prevents any external influence at all, rather than simply listing examples under each heading and stopping. **[10]**
 
 **7.** A student might engage directly with a local rights campaign, a legal case, or an advocacy organisation's work relevant to a specific rights issue -- for example, volunteering with an organisation supporting a particular group's rights, or following a live legal case closely enough to interview someone involved. In the written report, the four core concepts can structure the analysis of the issue itself: which actors hold power to define or enforce the right in question; whether sovereignty or international authority is contested in the case; whether the position taken by the relevant actors is seen as legitimate; and how the issue connects to interdependence, for example through wider advocacy networks or international attention. Using the same four concepts that structure the taught thematic study gives the engagement project's analysis a clear, examinable structure, and demonstrates the kind of consistency between personal engagement and course content that strengthens the analytical depth examiners look for. **[6]**
+
+## Frequently asked questions
+
+**How should you use examples in a Rights and justice essay?**
+Take a clear position and support it with named, specific examples, such as a state's response to a ruling from the ICJ, the ICC or the European Court of Human Rights. The strongest IB DP Global Politics answers weigh examples against each other and reach a substantiated conclusion rather than listing them under headings.
+
+**Can the engagement project be about a Rights and justice issue?**
+Yes. A student might engage directly with a local rights campaign, a legal case or an advocacy organisation, then use the four core concepts to structure the analysis in the written report.
+
+**How do you choose which core concept fits a Global Politics scenario?**
+Ask what the dispute is really about: who can act points to power, who has authority points to sovereignty, whether an action is accepted as valid points to legitimacy, and how effects spread across borders points to interdependence. Then justify the choice with details from the scenario.
+
+**What makes a strong discuss answer on human rights enforcement?**
+A strong answer weighs evidence for and against the claim, using named cases, and recognises where a factor is a real constraint but not an absolute one. It ends with a judgement that follows from that weighing.
 
 ## Official syllabus
 

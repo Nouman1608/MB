@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-global-politics-peace-and-conflict"
-description: "Condensed revision notes on IB Diploma Programme Global Politics's compulsory thematic study, Peace and conflict, with key vocabulary tied to the four core concepts and self-test questions."
+description: "Condensed revision notes on the IB DP Global Politics Peace and conflict thematic study: conflict types, six causes, peace approaches and self-test questions."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -129,6 +129,20 @@ strong answer explains how multiple of the six named causes (identity, ideology,
 socio-economic divisions, institutional arrangements) interact rather than reducing a conflict to one
 label; socio-economic divisions and institutional arrangements are the two most directly linked to
 structural violence.
+
+## Frequently asked questions
+
+**What are the four types of conflict in IB Global Politics?**
+The IB DP Global Politics Peace and conflict thematic study distinguishes interstate conflict (between states), intrastate conflict (within a state), non-state conflict (between non-state actors with no state as a direct party) and extra-state conflict (between a state and a non-state actor beyond that state's borders).
+
+**What is the difference between peacemaking, peacekeeping and peacebuilding?**
+Peacemaking covers negotiations and treaties aimed at ending violence, peacekeeping covers maintaining a ceasefire or preventing renewed violence, for example through UN missions, and peacebuilding covers post-conflict work such as rebuilding institutions and reconciliation to prevent recurrence.
+
+**Which causes of conflict are linked to structural violence?**
+Of the six named causes of conflict (identity, ideology, interests, resources, socio-economic divisions and institutional arrangements), socio-economic divisions and institutional arrangements are the two most directly linked to the concept of structural violence.
+
+**Is Peace and conflict compulsory in IB Global Politics?**
+Yes. Peace and conflict is one of three thematic studies that are all compulsory at both SL and HL, alongside Rights and justice and Development and sustainability, and Paper 2 can draw on any of them.
 
 ## Official syllabus
 

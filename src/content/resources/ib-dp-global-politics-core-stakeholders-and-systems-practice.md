@@ -165,6 +165,20 @@ Longer answers list creditworthy points with `[1]` each as a revision aid. Real 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What is the difference between a stakeholder and an actor in IB Global Politics?**
+In IB DP Global Politics, a stakeholder is any individual or group affected by a political issue, while an actor has the agency and means to exercise power on it. Every actor involved is a stakeholder, but not every stakeholder is an actor.
+
+**Is a local government a non-state actor?**
+No. Subnational and local governments are a separate actor type in the IB guide, and counting a local or regional government as a non-state actor is a common way to lose marks.
+
+**How should a recommendation question be answered at HL?**
+An HL recommendation should propose a clear course of action, justify it using concepts such as actors, systems and institutions, and acknowledge its limitations. A recommendation with no justification and no limitation scores poorly.
+
+**How are the longest Global Politics answers marked?**
+The longest Paper 1 question and Paper 2 essays are marked holistically against the IB markbands rather than point by point. The top essay band needs diverse perspectives explored and evaluated and implications considered, so a one-sided answer cannot reach it.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Core topics: Understanding power and global politics -- prescribed topic "Framing global politics / Systems and interactions in global politics".

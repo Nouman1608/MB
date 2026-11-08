@@ -9,7 +9,7 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Global Politics"]
 syllabusSeries: "First assessment 2026"
 order: 2
-description: "The core theme (understanding power and three thematic studies), engagement project and HL-only extension of IB Diploma Programme Global Politics, with recommended teaching hours for SL and HL, for first assessment 2026."
+description: "Syllabus guide to IB DP Global Politics from 2026: the core, three compulsory thematic studies, the engagement project, the HL extension and teaching hours."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -138,6 +138,20 @@ as the course progresses, noting which political concepts each example
 illustrates, so that by the time Paper 2 and the engagement project
 arrive you have a ready bank of material rather than needing to research
 examples from scratch under time pressure.
+
+## Frequently asked questions
+
+**How many teaching hours does IB Global Politics have?**
+IB DP Global Politics has 150 teaching hours at SL and 240 at HL. The 125-hour core is the same at both levels; the difference comes from the engagement project allocation (25 hours SL, 35 hours HL) and the 80-hour HL extension.
+
+**What happens if a Global Politics engagement project goes over the word limit?**
+The written report has a limit of 2,000 words at SL and 2,400 words at HL, and a teacher assesses only the first 2,000 or 2,400 words of a report that runs over.
+
+**How many marks is the HL recommendation in the engagement project worth?**
+The HL recommendation is assessed by an extra criterion, F: Recommendation, worth 6 marks. Criteria A to E are the same at both SL and HL.
+
+**Are there optional themes in IB Global Politics?**
+No. All three thematic studies (rights and justice, development and sustainability, and peace and conflict) are compulsory for every student at both SL and HL, so there is no teacher-selected subset.
 
 ## Official syllabus
 

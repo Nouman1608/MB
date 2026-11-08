@@ -198,3 +198,17 @@ lower purely for its order — but the recommended sequence maps onto
 everything the marking criteria reward, and structure and clarity are
 marked in their own right, so following it makes every requirement far
 easier to evidence clearly.
+
+## Frequently asked questions
+
+**What makes a good research question for the IGCSE Global Perspectives Individual Report?**
+A strong research question for the Cambridge IGCSE Global Perspectives (0457) Individual Report names a specific place and a specific issue, and leaves room for at least two genuinely contrasting perspectives. A broad topic title on its own gives no structure for organising the research and analysis.
+
+**Does the Individual Report have to follow a set structure?**
+No single order is required by the mark scheme, but the syllabus recommends a sequence: the issue and its perspectives, then causes and consequences, then evaluated courses of action with a proposed option, then reflection and a conclusion. Because structure and clarity are marked in their own right, following that sequence makes every assessed element easier to evidence.
+
+**Why is source evaluation important in the Individual Report?**
+Evaluation of evidence and sources is one of the areas the report is marked against, so listing sources in a bibliography without discussing their reliability or credibility leaves that criterion under-evidenced. Comment on sources within the report itself, not just in the reference list.
+
+**How much can a teacher help with the Individual Report?**
+A teacher can guide a candidate towards a feasible topic and a researchable question and support research, referencing and time management. The final report must be the candidate's own independent work, because it is marked externally by Cambridge International.

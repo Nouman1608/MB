@@ -156,6 +156,20 @@ It names a perspective, uses a real case, links to key concepts and turns to oth
 
 Condense this with the [revision notes](/resources/ib-dp-global-politics-core-theoretical-perspectives-revision-notes/), then try the [practice questions](/resources/ib-dp-global-politics-core-theoretical-perspectives-practice/). For paper structure, see the [assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/). To test lenses on thematic content, use the [peace and conflict](/resources/ib-dp-global-politics-peace-conflict/) and [rights and justice](/resources/ib-dp-global-politics-rights-justice/) study guides.
 
+## Frequently asked questions
+
+**Is any political theory prescribed in IB Global Politics?**
+No. The IB DP Global Politics guide does not prescribe a particular theory, but it strongly encourages a range and names realism, liberalism, feminism, postcolonialism and social constructivism. What is prescribed is the skill of using theory to analyse political issues.
+
+**What is the difference between a theory and a model in Global Politics?**
+A theory is a set of linked assumptions that claims to explain how politics works, while a model is a simplified picture of one part of politics, often a set of categories. The hard, soft and smart power classification is a model because it sorts types of power without explaining why states choose them.
+
+**What is the security dilemma?**
+The security dilemma, a realist idea, describes how one state's defensive arming is seen as a threat by others, who arm in response, so every state ends up less safe.
+
+**Is social constructivism the same as idealism?**
+No. Constructivism argues that ideas, identities and norms shape what states want; it does not claim that states are kind. Alexander Wendt's 1992 argument that "anarchy is what states make of it" shows how the same anarchy can mean different things between friends and rivals.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Core topics: "Understanding power and global politics" -- prescribed topic "Theoretical perspectives in global politics".

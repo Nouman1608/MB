@@ -170,6 +170,20 @@ Recommend a course of action to address the political issue in Stimulus D, justi
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which paper examines Development and sustainability in IB Global Politics?**
+Development and sustainability is one of the three compulsory thematic studies in IB DP Global Politics, common to SL and HL, and it is examined in Paper 2. Paper 1 is set on the core topics, but development content can still be used to practise source skills.
+
+**How do you answer a distinguish question in Global Politics?**
+Make the difference explicit with a contrast word such as "whereas" or "but", rather than writing two separate definitions side by side. Two unconnected definitions risk losing the mark for the distinction.
+
+**What does an HL recommendation on a development issue need?**
+An HL recommendation needs a clear course of action supported by evidence from a case study you have researched, with the actors, funding and a risk or limitation considered. A sensible plan with no case evidence cannot reach full marks.
+
+**What are common mistakes on development and sustainability questions?**
+Common slips include omitting working in index calculations, comparing sources one after another instead of point by point, naming examples without explaining them, presenting only one side of a debate, and leaving the key concepts out of Paper 2 essays.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Thematic studies: Development and sustainability.

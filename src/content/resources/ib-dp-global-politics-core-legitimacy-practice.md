@@ -162,6 +162,20 @@ All four sources describe **Norland**, a fictional country. All names and figure
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What is legitimacy in IB Global Politics?**
+In IB DP Global Politics, legitimacy is broad acceptance of an actor or action as proper or rightful by a population or other audience, which gives it the right to exercise power or authority. Defining it simply as being legal or having power earns no credit.
+
+**What is the difference between state legitimacy and government legitimacy?**
+State legitimacy is acceptance of the state itself and its right to exist and rule a territory, while government legitimacy is acceptance of those in office and of how they gained and use power. A government can lose legitimacy while the state it runs remains accepted.
+
+**How should you answer a compare and contrast question in Global Politics Paper 1?**
+Keep a running, point-by-point comparison of the two sources rather than summarising each one separately. Name the source of legitimacy or concept each source shows instead of only quoting it.
+
+**What are common mistakes on legitimacy questions?**
+Frequent slips include defining legitimacy as legality, writing about the state when a source criticises only the government, judging an NGO on efficacy alone while ignoring representation, and treating a partisan source as neutral fact.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Prescribed topic: "Legitimacy in global politics", within the core topics "Understanding power and global politics".

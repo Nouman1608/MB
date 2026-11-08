@@ -83,6 +83,20 @@ Like other individuals-and-societies DP subjects, Global Politics combines exter
 
 **Answers:** 1. Core topic: understanding power and global politics; thematic studies: rights and justice, development and sustainability, peace and conflict. 2. It requires direct engagement with a real political issue, not desk research alone, complemented afterward with theoretical perspectives; HL students additionally formulate a recommendation. 3. A stimulus-based paper on the HL-only global political challenges extension, sat only by HL students. 4. Paper 1: 30%, Paper 2: 40%. 5. Any of: the research and engagement process, analysis and synthesis of the political issue, evaluation and reflection, or communication. 6. Because Global Politics is built around contested concepts and competing perspectives, so a one-sided answer at the top command-term tier typically loses marks against those criteria.
 
+## Frequently asked questions
+
+**How long is the IB Global Politics engagement project?**
+The IB DP Global Politics engagement project is a written report of up to 2,000 words at SL or 2,400 words at HL. HL students also formulate a recommendation on the political issue, assessed by an extra criterion.
+
+**What is the most common weakness in a Global Politics engagement project?**
+A common weakness is staying descriptive, recounting what was done and observed without connecting it back to core political concepts such as power, legitimacy and sovereignty. The strongest reports analyse the direct engagement as evidence through a political-science lens.
+
+**Can you specialise in one thematic study for IB Global Politics?**
+It is risky to do so. The core topic and all three thematic studies (rights and justice, development and sustainability, and peace and conflict) are examined at every level, and Papers 1 and 2 draw questions from across them, so under-preparing one area can leave a significant gap on exam day.
+
+**Why do evaluate and discuss answers in Global Politics need more than one viewpoint?**
+Global Politics is built around contested concepts and competing perspectives, so top-tier command terms such as evaluate, discuss and to what extent expect a reasoned judgement that weighs more than one viewpoint or theoretical framework. A one-sided answer, however well argued, typically loses marks.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Subject
