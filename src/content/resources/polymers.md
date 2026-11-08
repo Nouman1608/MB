@@ -80,7 +80,9 @@ monomers (11.8)
 **CAMBRIDGE O LEVEL CHEMISTRY 5070**
 
 5070 has no Core/Extended split — every outcome above, Core and Supplement
-alike, is required for every O Level candidate.
+alike, is required for every O Level candidate, except the named
+poly(ethene)-from-ethene outcome, which 5070 does not list separately (see
+the scope note under addition polymerisation).
 
 ## What a polymer is
 

@@ -131,10 +131,9 @@ sub-topics marked HL-only, such as the origins of cells and
 classification and cladistics in Theme A, muscle and motility in
 Theme B, chemical signalling in Theme C, and gene expression in
 Theme D -- content that
-carries extra weight in both Papers 1 and 2 and is, in practice, the
-material most often under-revised by HL students who default to
-SL-level depth out of habit rather than deliberately tracking which
-content is genuinely additional to their level.
+carries extra weight in both Papers 1 and 2 and is easy to under-revise
+if you default to SL-level depth out of habit rather than deliberately
+tracking which content is genuinely additional to your level.
 
 ## Frequently asked questions
 

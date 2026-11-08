@@ -33,7 +33,7 @@ featured: false
 Work through these **before** looking at the answers. Write full answers — the
 marks are for the reasoning, not the conclusion.
 
-Related: [Optical Isomerism and Chirality revision notes](/resources/a-optical-isomerism-and-chirality/)
+Related: [Optical Isomerism and Chirality study guide](/resources/a-optical-isomerism-and-chirality/)
 
 ---
 

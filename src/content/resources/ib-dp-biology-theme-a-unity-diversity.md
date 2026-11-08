@@ -126,8 +126,8 @@ divide into two fundamentally different organisational plans: **prokaryotic** an
 Prokaryotic cells lack a membrane-bound nucleus and membrane-bound organelles, and typically carry a
 single circular chromosome; eukaryotic cells have both a membrane-bound nucleus and membrane-bound
 organelles, and typically carry multiple linear chromosomes. Eukaryotic cells are also typically much
-larger than prokaryotic cells. This prokaryotic-versus-eukaryotic contrast is one of the most
-frequently examined ideas in Theme A precisely because it demonstrates both unity (every cell shares
+larger than prokaryotic cells. This prokaryotic-versus-eukaryotic contrast is a central idea in
+Theme A because it demonstrates both unity (every cell shares
 the same basic components) and a fundamental point of divergence (how those components are organised)
 in a single comparison.
 

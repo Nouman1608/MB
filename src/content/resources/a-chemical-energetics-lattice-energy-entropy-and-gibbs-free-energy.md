@@ -159,11 +159,6 @@ of the separation.
   <figcaption>Higher ionic charge and smaller ionic radius give a more exothermic lattice energy (and hydration enthalpy).</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--03-polarisation-covalent-character.webp" width="900" height="1150" alt="Left: Cs+ and Cl- as spheres; experiment (-668) is close to the ionic model (-652). Right: small Ag+ pulls the Cl- cloud towards it, giving shared electron density; experiment (-905) is clearly more exothermic than the model (-833). The gaps are 2.5 and 8.6 percent." loading="lazy">
-  <figcaption>A larger experimental-versus-model gap shows more covalent character, caused by a cation polarising the anion (AQA, OxfordAQA, Edexcel).</figcaption>
-</figure>
-
 
 ## Enthalpies of solution and hydration
 
@@ -251,11 +246,6 @@ before.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--06-entropy-change-calc.webp" width="900" height="1070" alt="Bar chart: CaCO3(s) 92.9 J per K per mole against products CaO(s) 40.0 stacked with CO2(g) 213.6, total 253.6. The difference, +160.7, is the entropy change; most of it is the gas." loading="lazy">
   <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--09-total-entropy.webp" width="900" height="1070" alt="Grouped bars for CaCO3 decomposition at 298, 1079 and 1500 K. System entropy change is +165 each time; surroundings entropy change is -ΔH/T: -597, -165, -119. Total is -432 (not feasible), about 0 (borderline) and +46 (feasible)." loading="lazy">
-  <figcaption>For Edexcel, a reaction is feasible when ΔS(total) = ΔS(system) + ΔS(surroundings) is positive, with ΔS(surroundings) = −ΔH/T.</figcaption>
 </figure>
 
 

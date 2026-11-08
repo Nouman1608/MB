@@ -167,7 +167,7 @@ Ar values C = 12.0, H = 1.0, O = 16.0.
 *Examiner insight:* Each identification needs evidence from the data; a correct name with no reason gets only the name mark.
 
 **12. (a)** Fermentation of glucose with yeast, about 35 °C, no air [1]; ethanol (after fractional distillation) heated with concentrated phosphoric or sulfuric acid to give ethene [1]; addition polymerisation of ethene to poly(ethene) [1]
-**(b)** Any four: sugar cane is renewable [1]; less use of finite crude oil [1]; land used for fuel crops is not used for food and may raise food prices [1]; clearing forest destroys habitats and releases CO₂ [1]; fertiliser run-off; fossil-fuel energy is still used in farming and distillation. **[7]**
+**(b)** Any four: sugar cane is renewable [1]; less use of finite crude oil [1]; land used for fuel crops is not used for food and may raise food prices [1]; clearing forest destroys habitats and releases CO₂ [1]; fertiliser run-off [1]; fossil-fuel energy is still used in farming and distillation [1]. Maximum **[4]**.
 *Examiner insight:* "Discuss" expects points on both sides; four advantages with no drawbacks will not reach full marks.
 
 ## Where marks are usually lost

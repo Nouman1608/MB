@@ -181,11 +181,6 @@ Data: Cr³⁺/Cr²⁺ −0.41 V; H₂O₂/H₂O +1.78 V.
 5. EMF = 1.78 − (−0.41) = **+2.19 V**
 6. Overall (chromium equation × 2): **H₂O₂ + 2H⁺ + 2Cr²⁺ → 2H₂O + 2Cr³⁺**
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--07-quantitative-electrolysis.webp" width="900" height="1195" alt="A cell with copper electrodes carries 2.00 A for 3860 s. Charge Q = It = 7720 C, moles of electrons = 7720 / 96 500 = 0.0800 mol, moles of copper = 0.0800 / 2 = 0.0400 mol, and mass = 0.0400 x 63.5 = 2.54 g." loading="lazy">
-  <figcaption>Charge to moles of electrons to moles of copper to mass: 2.00 A for 3860 s deposits 2.54 g.</figcaption>
-</figure>
-
 
 ## Required practical 6: measuring the EMF of a cell
 
@@ -210,11 +205,6 @@ Cells are a commercial source of electrical energy, of three kinds:
 
 Oxidation at the negative electrode releases electrons. They flow through the external circuit to the positive electrode, where reduction uses them, while ions move through the electrolyte to balance charge.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--05-nernst.webp" width="900" height="890" alt="A straight-line graph shows E for the Cu2+/Cu half-cell rising from about 0.25 V at 0.001 mol per dm3 to +0.340 V at 1.00 mol per dm3 as log[Cu2+] increases. The point at 0.0100 mol per dm3 is +0.281 V. Higher Cu2+ concentration makes E more positive." loading="lazy">
-  <figcaption>E rises linearly with log[Cu2+] with slope 0.059/z, so diluting Cu2+ makes the electrode less positive.</figcaption>
-</figure>
-
 
 ### The lithium cell
 
@@ -226,11 +216,6 @@ Negative electrode:  Li → Li⁺ + e⁻
 ```
 
 Li⁺ ions move through the electrolyte to the positive electrode; the electrons go round the external circuit to meet them, and cobalt is reduced from +4 to +3. Recharging reverses both: Li⁺[CoO₂]⁻ → Li⁺ + CoO₂ + e⁻, and Li⁺ + e⁻ → Li.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--06-delta-g.webp" width="900" height="1120" alt="Bars show E° cell for three reactions (+1.10 V, +0.23 V, -0.59 V) above the matching delta G values from delta G = -nFE (-212.3, -44.4 and +113.9 kJ). A positive E° cell gives a negative delta G, a feasible reaction and, for Edexcel, K greater than 1." loading="lazy">
-  <figcaption>A positive E° cell always corresponds to a negative delta G, because F is positive.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--08-lithium-cell.webp" width="900" height="1000" alt="Lithium is the negative electrode and CoO2 the positive electrode, with Li+ ions moving through the electrolyte and electrons through the external lamp circuit from lithium to CoO2. At the negative electrode Li loses an electron (0 to +1); at the positive electrode cobalt is reduced from +4 to +3. Recharging reverses both reactions." loading="lazy">

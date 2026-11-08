@@ -36,7 +36,7 @@ Condensed for the final weeks. For the full explanation, use the
 > back, condensation polymers, nylon and PET, the differences between addition and condensation
 > polymerisation, recycling PET back to monomers, and proteins). 0620 Core is 11.8 outcomes 1–5: what a
 > polymer is, poly(ethene) made from ethene by addition polymerisation, plastics, and the disposal and
-> environmental problems of plastics. 5070 has no tiers, so O Level candidates need all of it.
+> environmental problems of plastics. 5070 has no tiers, so O Level candidates need all of it, except that 5070 has no separate outcome on making poly(ethene) from ethene: it is covered by the general skill of deducing an addition polymer from a given alkene.
 
 ## The two types *(0620 Extended, 5070 required)*
 

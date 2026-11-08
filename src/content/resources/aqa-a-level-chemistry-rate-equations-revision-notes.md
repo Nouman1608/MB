@@ -162,7 +162,7 @@ Worked reminder: Rate = k[A][B]². Halve [A] and triple [B]: factor = ½ × 3² 
 
 - Species in the rate equation are involved in the rate-determining step (or a step before it).
 - The order tells you how many of that particle are involved up to and including that step.
-- Zero-order reactants react **after** the rate-determining step.
+- In the simple mechanisms met at A-level, a zero-order reactant is not in the rate-determining step and usually reacts **after** it. Zero order alone does not prove when it reacts; it only shows that its concentration does not affect the rate over the tested range.
 - A valid mechanism must fit the rate equation **and** its steps must add up to the overall equation.
 
 <figure class="topic-figure">
@@ -216,7 +216,7 @@ Apparatus and techniques: AT a, k and l. Wear eye protection and handle chemical
 3. A straight line through the origin.
 4. Ea = 5.5 × 10³ × 8.31 = 4.57 × 10⁴ J mol⁻¹ = **45.7 kJ mol⁻¹**
 5. k = 3.0 × 10⁻³ ÷ (0.10 × 0.25) = **0.12 mol⁻¹ dm³ s⁻¹**
-6. No. It reacts in a step after the rate-determining step.
+6. Not in the simple mechanisms used at A-level: it usually reacts in a step after the rate-determining step. Zero order alone does not prove this, so use the proposed mechanism to confirm it.
 7. k = 2.5 × 10⁻⁴ mol dm⁻³ s⁻¹
 8. k increases.
 9. Ea in J mol⁻¹ and T in K.

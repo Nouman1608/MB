@@ -114,7 +114,7 @@ Related: [Amines revision notes](/resources/a-chemistry-amines-revision-notes/)
 **(b)** **Propylamine (1-aminopropane)**, CH₃CH₂CH₂NH₂ [1].
 **(c)** The original halogenoalkane, CH₃CH₂Br, has only **two** carbons; reacting it with KCN adds a third carbon (as the nitrile carbon), giving propanenitrile [1]. Reducing the nitrile then converts that extra carbon's triple-bonded nitrogen into a CH₂NH₂ group, so the overall two-step sequence has **increased the chain length by one carbon**, something a direct substitution reaction with ammonia cannot achieve [1].
 
-**8. (a)** A **deep blue solution** forms [1].
+**8. (a)** A **pale blue precipitate** (copper(II) hydroxide) forms at first, which dissolves in excess ethylamine to give a **deep blue solution** [1].
 **(b)** Ethylamine acts as a **ligand**, donating its nitrogen lone pair to the Cu²⁺ ion to form a **complex ion** [1], in the same way aqueous ammonia forms a deep blue complex with copper(II) ions — the amine's lone pair behaves like ammonia's in this respect, since both donate through nitrogen [1].
 
 **9. (a)** An **immediate white precipitate** forms [1].
