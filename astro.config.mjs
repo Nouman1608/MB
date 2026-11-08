@@ -11,6 +11,7 @@ import { topicsFor } from './src/data/academic/syllabus-topics.ts';
 import { isIndexableAcademicPage } from './src/utils/seo/indexability.ts';
 import { bodyWordCount } from './src/utils/seo/word-count.ts';
 import { AP_LIBRARY_PUBLIC, AP_LIBRARY_BASE } from './src/data/ap/config.ts';
+import { apFlashcardCourses, apFlashcardsPath, apUnitsWithCards, apDeckUpdated } from './src/data/ap-flashcards/index.ts';
 
 /**
  * lastmod lookup for the sitemap (Phase 6 — technical SEO / crawlability).
@@ -58,6 +59,14 @@ function buildLastmodMap() {
       }
     }
   } catch { /* no AP library */ }
+  // Advanced-course flashcard hubs and unit pages: the deck's `updated` (or its parent's, if later).
+  for (const c of apFlashcardCourses()) {
+    const date = apDeckUpdated(c.slug);
+    if (!date) continue;
+    const iso = new Date(date).toISOString();
+    map.set(apFlashcardsPath(c.slug), iso);
+    for (const { unit } of apUnitsWithCards(c.slug)) map.set(apFlashcardsPath(c.slug, unit.number), iso);
+  }
   return map;
 }
 

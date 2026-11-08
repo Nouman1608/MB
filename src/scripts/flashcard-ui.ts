@@ -20,7 +20,7 @@
  *                           "Reset my progress" removes the record.
  *
  * Analytics: `flashcards_start` and `flashcards_complete`, with the course
- * code, the page scope ('course' or 'topic') and the number of cards in the
+ * code, the page scope ('course', 'topic' or 'unit') and the number of cards in the
  * session. No card ids, no topics, no Again/Got it counts
  * (docs/growth/measurement-guide.md).
  */
@@ -28,7 +28,7 @@ import { track } from './catalogue-client';
 
 interface Card { id: string; f: string; b: string; g: string; sup: boolean }
 interface Group { key: string; label: string }
-interface Data { code: string; scope: 'course' | 'topic'; badge: string; groupNoun: string; groups: Group[]; cards: Card[] }
+interface Data { code: string; scope: 'course' | 'topic' | 'unit'; badge: string; groupNoun: string; groups: Group[]; cards: Card[] }
 interface Store { v: 1; cards: Record<string, { k: 0 | 1; t: string }> }
 
 const dataEl = document.getElementById('fc-data');
