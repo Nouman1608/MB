@@ -232,6 +232,20 @@ Debit side 5,000 + 12,000 = 17,000. Credit side known: 9,500 + 200 + 400 = 10,10
 - Describing digital records as removing all errors. Say that input errors remain.
 - Writing "trade payables" for the sales ledger control account balance, or the reverse.
 
+## Frequently asked questions
+
+**What are the purposes of control accounts?**
+Control accounts give total trade receivables or payables at any date, act as an independent check on ledger postings, help control error and fraud when different people keep them, and supply figures for the statement of financial position.
+
+**Where do the figures in a control account come from?**
+They come from totals of the books of prime entry, such as the sales and purchases journals, the returns journals, the cash book and the general journal, not from the individual customer or supplier accounts.
+
+**How are closing credit balances in the sales ledger shown?**
+Customers with credit balances, for example after an overpayment, are carried down on the debit side of the sales ledger control account so that they are brought down as a credit. Putting them on the credit side makes the totals disagree.
+
+**Are cash sales included in the sales ledger control account?**
+No. Only credit transactions belong in the sales ledger control account, so cash sales from the cash book are left out.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge University Press & Assessment (Cambridge International Education): section 3.4 Control accounts.

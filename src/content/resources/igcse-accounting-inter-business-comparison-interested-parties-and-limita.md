@@ -323,6 +323,23 @@ limitations in the syllabus.
 - Giving a non-financial aspect as a figure. It must be something the
 statements cannot show.
 
+## Frequently asked questions
+
+**Why can two businesses have different ratios even if both are well managed?**
+Ratios can differ because of the type of goods sold, whether sales are mainly for cash or credit, how each business is financed, pricing and size. For example, a business with a large loan has higher capital employed, which lowers its ROCE.
+
+**How do accounting policies affect inter-business comparison?**
+Different choices of depreciation method, inventory valuation or allowance for irrecoverable debts give different profits and asset values from the same events. Any gap in ratios between two businesses may partly be a policy gap.
+
+**How do lenders and investors use accounting statements differently?**
+An investor buying shares looks for profit growth and dividend prospects. A lender wants interest paid on time and repayment, so it studies liquidity, assets and existing non-current liabilities.
+
+**How does historic cost limit accounting statements in Cambridge IGCSE Accounting 0452?**
+Assets are recorded at what they cost, so land bought long ago may be shown well below its current value, which can make ratios such as ROCE look higher. Figures from different years also use money of different purchasing power.
+
+**What non-financial aspects are not shown in accounting statements?**
+The syllabus examples are the skill of the workforce, the location of the business and the economic climate. None can be measured in money, yet each can affect how well the business does.
+
 ## Official syllabus
 
 Cambridge International Education, *Cambridge IGCSE Accounting 0452

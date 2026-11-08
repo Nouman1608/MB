@@ -288,6 +288,20 @@ method, inventory valuation, allowance for irrecoverable debts).
 price, not current value.
 - Stating a conclusion without one limit on the comparison.
 
+## Frequently asked questions
+
+**What are the three limitations of accounting statements in the 0452 syllabus?**
+The syllabus names historic cost, the application of accounting policies and non-financial aspects. A question asking for the syllabus limitations expects all three.
+
+**How do club members use accounting information?**
+Club members use the income and expenditure figures to decide whether to raise subscriptions, cut costs or run a fund-raising event, for example when running costs exceed subscription income.
+
+**Can different interested parties want opposite things?**
+Yes. Owners may want to withdraw large amounts while lenders prefer cash to stay in the business. A good answer names the party, the decision and the figure used.
+
+**Why should a non-financial aspect not be given as a figure?**
+A non-financial aspect, such as staff skill or location, is something the statements cannot show in money. Quoting it as a number misses the point of the limitation.
+
 ## Official syllabus
 
 Cambridge International Education, *Cambridge IGCSE Accounting 0452

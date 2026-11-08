@@ -268,6 +268,20 @@ conclusion usually leaves them unclaimed.
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How should you answer a question about an interested party?**
+Name the party, the decision it makes and the figure it uses, for example a bank using the acid test to decide whether to lend. Naming a party with no decision earns no mark.
+
+**Is historic cost inaccurate?**
+Historic cost is not inaccurate; it shows the price paid in the past rather than current value. Explain that difference rather than calling the figure wrong.
+
+**How should an evaluation of inter-business comparison end?**
+End with a judgement on what the ratios suggest, plus at least one limit on the comparison, such as different accounting policies or year ends. An evaluation without a judgement loses marks in Cambridge IGCSE Accounting (0452).
+
+**How do you explain a problem of comparison?**
+Say how the problem changes the ratios, for example that different year ends mean seasonal inventory and receivables differ. Naming the problem alone is not enough.
+
 ## Official syllabus
 
 Cambridge International Education, *Cambridge IGCSE Accounting 0452

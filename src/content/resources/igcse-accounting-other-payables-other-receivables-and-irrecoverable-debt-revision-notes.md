@@ -246,6 +246,23 @@ Closing balances: telephone credit 210 and bank interest debit 60 (accrued); rat
 - Recording a recovery as a bank receipt only, with no entry in the customer's account.
 - Writing a vague account name such as bad debts where the syllabus term is irrecoverable debts.
 
+## Frequently asked questions
+
+**What is the formula for an expense with accruals and prepayments in Cambridge IGCSE Accounting 0452?**
+Expense for the year equals cash paid minus opening accrued plus closing accrued plus opening prepaid minus closing prepaid. Income works the same way, using amounts accrued and received in advance.
+
+**What is the difference between accrued income and income received in advance?**
+Accrued income has been earned but not yet received, so it is a debit balance and an other receivable. Income received in advance is cash received before it is earned, so it is a credit balance and an other payable.
+
+**What happens to profit if an accrued expense is left out?**
+If an accrued expense is omitted, the expense is too low, so profit is too high and liabilities in the statement of financial position are too low.
+
+**What is an irrecoverable debt recovered?**
+It is a debt written off earlier that the customer later pays. First debit the customer and credit irrecoverable debts recovered, then debit bank and credit the customer, so the recovery is income of the year it is received.
+
+**What is the correct syllabus term for bad debts?**
+The 0452 syllabus uses the term irrecoverable debts, and the allowance for irrecoverable debts for the estimate of debts that will probably not be collected. Using vague names such as bad debts can cost marks.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge University Press and Assessment (Cambridge International), sections 4.3 and 4.4.

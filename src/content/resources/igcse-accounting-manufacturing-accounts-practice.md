@@ -167,6 +167,20 @@ Raw materials consumed [1] with correct figure [1]; prime cost [1]; power [1]; r
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why is raw materials consumed used instead of purchases in prime cost?**
+Some raw materials are in inventory at the start and end of the year, so direct material is the cost of raw materials consumed: opening inventory plus purchases plus carriage inwards, less returns outwards, less closing inventory. Using purchases is a common error.
+
+**Should accruals and prepayments on factory expenses be adjusted?**
+Yes. Adjust each factory expense for amounts owing or prepaid before totalling factory overheads, exactly as for office expenses. Skipping the adjustment is a common way to lose marks in Cambridge IGCSE Accounting (0452).
+
+**How do you split an expense shared by the factory and the office?**
+Apply the fraction the question gives and put each part in its own statement: the factory share in the manufacturing account and the office share in the statement of profit or loss.
+
+**Why should each total in a manufacturing account be labelled?**
+Marks are given for prime cost, factory overheads and factory cost of production as separate lines, so label each total clearly. Mixing up prime cost and factory cost of production is a common error.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), Cambridge International, section 5.4 Manufacturing accounts.

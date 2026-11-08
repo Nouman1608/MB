@@ -308,6 +308,23 @@ Other chains: higher closing inventory lowers cost of sales and raises profit an
 
 Test yourself with the [practice questions](/resources/igcse-accounting-financial-statements-of-sole-traders-practice/).
 
+## Frequently asked questions
+
+**What are the advantages and disadvantages of being a sole trader in Cambridge IGCSE Accounting 0452?**
+A sole trader keeps all the profit, makes decisions alone and faces few legal formalities. The disadvantages include unlimited liability, limited funds from one person's savings and borrowing, and the risk that illness stops trading.
+
+**Why does a sole trader need both a statement of profit or loss and a statement of financial position?**
+The statement of profit or loss reports what the business earned or lost over a period. The statement of financial position lists assets, liabilities and capital on a specified date, showing what the business owns and owes and how much of the funding is the owner's.
+
+**How are goods taken by the owner treated?**
+Goods taken by the owner are added to drawings at cost and deducted from purchases. Other assets taken for private use are added to drawings at their carrying value.
+
+**How do you calculate depreciation by revaluation?**
+Depreciation by revaluation is the opening value plus additions minus the closing value. It is used for items such as small tools or teaching aids.
+
+**What happens if a prepayment is ignored in the final accounts?**
+The expense would be too high, so profit would be too low, and other receivables and capital in the statement of financial position would also be too low. Every adjustment affects both statements.
+
 ## Official syllabus
 
 Cambridge International Education, Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), section 5.1 Sole traders.

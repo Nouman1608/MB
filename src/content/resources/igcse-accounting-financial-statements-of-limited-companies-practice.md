@@ -219,6 +219,20 @@ Non-current assets, carrying value $104,400 [2]; net trade receivables &#36;7,50
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How is a transfer to the general reserve shown in the statement of changes in equity?**
+A transfer moves an amount from retained earnings to the general reserve within equity, so it does not change total equity. Adding it into the total column is a common error.
+
+**Where is unpaid debenture interest shown?**
+The full year's debenture interest is a finance cost in the statement of profit or loss, and any amount unpaid at the year end is included in other payables. Leaving out the unpaid half is a common mistake.
+
+**Are debentures part of equity?**
+No. Debentures are loan capital and are shown under non-current liabilities in the statement of financial position. Equity is made up of share capital and reserves.
+
+**How do you answer an evaluation question on limited companies in Cambridge IGCSE Accounting (0452)?**
+Link each advantage or disadvantage to the business described, for example explaining why raising large sums matters for a planned factory. Listing points without that link earns little credit.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for examination in 2027, 2028 and 2029 (Version 1), section 5.3 Limited companies, Cambridge International.

@@ -326,6 +326,23 @@ Another case: revenue 80,000, margin 25%. Cost of sales is 75% x 80,000 = 60,000
 - [Ratios in Topic 6](/resources/igcse-accounting-analysis-and-interpretation/)
 - [Free 10-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Which businesses are examined on incomplete records in Cambridge IGCSE Accounting 0452?**
+The syllabus says incomplete records questions are asked only for sole trader businesses, never for service or manufacturing businesses. Every example is therefore a trading sole trader.
+
+**Why do some sole traders keep incomplete records?**
+The owner may lack bookkeeping knowledge, cannot spare the cost of a bookkeeper or software, can see most transactions personally in a small business, or mainly wants to know the bank balance and who owes what.
+
+**What is a statement of affairs?**
+A statement of affairs lists assets and liabilities on one date, using the same layout as a statement of financial position. Its balancing figure is capital, equal to assets minus liabilities.
+
+**How do you convert a margin into a mark-up?**
+A margin of 20% means gross profit is 20 on revenue of 100, so cost of sales is 80 and the mark-up is 20/80 = 25%. Converting back, a mark-up of 25% gives a margin of 25/125 = 20%.
+
+**How do you find closing inventory using a margin?**
+Use the margin to find gross profit and so cost of sales, then rearrange the cost of sales calculation: closing inventory equals opening inventory plus purchases minus cost of sales.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029 (version 1), Cambridge University Press & Assessment, section 5.6 and the Accounting ratios list.
