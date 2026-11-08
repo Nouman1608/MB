@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity"
     subtopic: "electric-charge"
-description: "Original exam-style practice questions with full worked answers on mains safety, circuits, resistance and electrostatic charge for Edexcel International GCSE Physics 4PH1."
+description: "Original practice questions with answers on mains safety, circuits, resistance, I-V graphs and static charge for Edexcel International GCSE Physics 4PH1."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
@@ -124,6 +126,17 @@ Describe how the current–voltage graph for each of the three components would 
 *Mark-scheme insight (Pearson Edexcel 4PH1 June 2024 mark scheme, Paper 1PR, Question 2(b)(ii)):* the mark scheme gives separate marks for the answer in W and for converting it to kW, so check the unit the question asks for. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 2.
 
 *Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Physics 4PH1 Paper 1PR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Physics/2017/Exam-materials/4ph1-1pr-rms-20240822.pdf), paraphrased.*
+
+## Frequently asked questions
+
+**Are these Edexcel IGCSE electricity questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from Pearson Edexcel.
+
+**Which real past paper question can I try next?**
+Try Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 2, whose mark scheme is paraphrased on this page.
+
+**Which specification do these questions follow?**
+They follow the Pearson Edexcel International GCSE in Physics (4PH1) specification, Issue 4, the same specification cited by the Electricity study guide and revision notes.
 
 ## Official syllabus
 

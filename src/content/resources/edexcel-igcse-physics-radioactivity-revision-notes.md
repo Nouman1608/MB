@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Condensed recall notes on atomic structure, radiation types, half-life, nuclear equations, fission and fusion for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -237,3 +239,16 @@ Reduce exposure by **shielding** (lead, concrete), **distance**, and **limiting 
   <figcaption>A gamma source passes out of the body; a short half-life makes the activity fade fast.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is Rutherford's alpha-scattering experiment examinable for Edexcel IGCSE?**
+No. 4PH1 does not name Rutherford, alpha scattering or the nuclear model of the atom, so this content is background only.
+
+**What are isotopes?**
+Isotopes have the same number of protons but different numbers of neutrons. They have identical chemistry but different nuclear stability.
+
+**Does temperature change the half-life of a source?**
+No. Half-life is unaffected by temperature, pressure or chemical state, because decay is random and spontaneous.
+
+**Where does background radiation come from?**
+Background radiation comes from rocks (notably radon), cosmic rays, food and medical sources. It must be subtracted from measured count rates before half-life calculations.

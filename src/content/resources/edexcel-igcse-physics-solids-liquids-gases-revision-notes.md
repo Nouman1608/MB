@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Condensed recall notes on density, pressure, the gas laws, kinetic theory and specific heat capacity for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -186,3 +188,16 @@ E = m c dt = 2.0 x 4200 x 80 = 672 000 J
   <figcaption>Heated particles vibrate wider, so the material expands; the particles do not get bigger.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is the combined gas law needed for Edexcel IGCSE Physics?**
+No. 4PH1 lists only p₁V₁ = p₂V₂ and p₁/T₁ = p₂/T₂, each for a fixed mass of gas. The combined gas law pV/T = constant is beyond the specification and not supplied.
+
+**Is specific latent heat examinable in 4PH1?**
+No. The latent heat equation E = mL is beyond the 4PH1 specification, and only ΔQ = mcΔθ is examinable.
+
+**How is Kelvin temperature related to the kinetic energy of gas molecules?**
+The Kelvin temperature of a gas is directly proportional to the average kinetic energy of its molecules, so doubling the Kelvin temperature doubles the average kinetic energy.
+
+**In which direction does pressure act in a fluid?**
+In a liquid or gas at rest, pressure at a given point acts equally in all directions; it has no preferred direction, unlike a force.

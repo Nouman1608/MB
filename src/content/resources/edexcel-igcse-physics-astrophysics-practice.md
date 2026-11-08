@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on the solar system, orbits, stellar life cycles, red shift and the Big Bang."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -124,3 +126,14 @@ Related: [Astrophysics revision notes](/resources/edexcel-igcse-physics-astrophy
 - Forgetting the CMB as separate evidence from red shift.
 - Confusing absolute magnitude (standard-distance brightness) with apparent brightness (brightness as observed).
 - Forgetting that Δλ/λ₀ = v/c requires the reference (laboratory) wavelength, not the observed wavelength, as the denominator.
+
+## Frequently asked questions
+
+**Are these Edexcel IGCSE astrophysics questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from your board.
+
+**Does the specification name the stages in the life cycle of a massive star?**
+No. The specification's own outcome is a single general statement and does not itself name the stages. The named stages are standard astrophysics background.
+
+**Does red shift mean Earth is at the centre of the universe?**
+No. Space itself is expanding, so every observer sees the same pattern of receding galaxies and there is no privileged centre.

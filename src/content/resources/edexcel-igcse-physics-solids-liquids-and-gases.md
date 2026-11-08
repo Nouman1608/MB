@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Density and pressure, specific heat capacity and changes of state, and the kinetic theory of gases, for Pearson Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -267,6 +269,20 @@ change.
 - Particle arrangement in solids, liquids and gases; flat regions on a temperature-time graph during state change (Physics only)
 - ΔQ = mcΔT (Physics only)
 - T(K) = T(°C) + 273; p₁/T₁ = p₂/T₂; p₁V₁ = p₂V₂
+
+## Frequently asked questions
+
+**Which parts of Edexcel IGCSE solids, liquids and gases are Physics only?**
+Sub-topic (c), change of state, is marked P, including specific heat capacity and ΔQ = mcΔT, along with the unit joules per kilogram degree Celsius.
+
+**Is latent heat needed for Edexcel IGCSE Physics?**
+No. ΔQ = mcΔT applies to temperature changes without a change of state, and the separate latent heat calculation for a state change is beyond this specification.
+
+**Does pressure in a fluid act in one direction?**
+No. In a liquid or gas at rest, the pressure at a given point acts equally in all directions.
+
+**Must temperatures be in kelvin for the gas laws?**
+Yes. Both p₁/T₁ = p₂/T₂ and the related gas calculations need Kelvin temperature, so convert using T(K) = T(°C) + 273 first.
 
 ## Related resources
 

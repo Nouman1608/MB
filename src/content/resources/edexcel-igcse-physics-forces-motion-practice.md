@@ -19,10 +19,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "forces-and-motion"
     subtopic: "forces-movement-shape-and-momentum"
-description: "Original exam-style practice questions with full worked answers on motion graphs, Newton laws, momentum and stopping distance for Edexcel International GCSE Physics 4PH1."
+description: "Original practice questions with answers on motion graphs, terminal velocity, Newton's laws, momentum and moments for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -143,3 +145,14 @@ d = **20 cm** from the pivot [1].
 - Omitting "perpendicular distance" in moment calculations.
 - Forgetting to convert extension to metres before calculating a spring constant.
 - Saying a spring "always" returns to its original length, regardless of how far it is stretched.
+
+## Frequently asked questions
+
+**Are these Edexcel IGCSE forces and motion questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from Pearson Edexcel.
+
+**Which real past paper question can I try next?**
+Try Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 2PR, Question 5, whose mark scheme is paraphrased on this page.
+
+**What wording loses marks in forces and motion answers?**
+Saying a crumple zone "absorbs the force" loses marks, and so does leaving out "perpendicular distance" in moment calculations.

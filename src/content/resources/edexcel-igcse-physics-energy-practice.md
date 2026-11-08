@@ -117,3 +117,17 @@ Transfers: **mechanically**, **electrically**, **by heating**, **by radiation** 
 - Classifying nuclear power as renewable because it does not burn fossil fuels — it is non-renewable because its fuel reserve is finite.
 
 Work through the [Energy revision notes](/resources/edexcel-igcse-physics-energy-revision-notes/) alongside these questions: the notes summarise the stores, transfers and resource classifications in condensed form, while these questions test whether you can apply the work, kinetic-energy and renewable/non-renewable definitions to a specific example rather than just recall them.
+
+## Frequently asked questions
+
+**Are these Edexcel IGCSE energy questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from Pearson Edexcel.
+
+**Which specification do these questions follow?**
+They follow the Pearson Edexcel International GCSE Physics (4PH1) content on energy stores, efficiency, thermal energy transfer and energy resources.
+
+**What mistakes lose marks in energy questions?**
+Common errors include comparing energy resources on one dimension only, and using a distance in work-done calculations that is not along the line of the force.
+
+**How should I use the revision notes with these questions?**
+The Energy revision notes summarise the stores, transfers and resource classifications in condensed form. These questions then test whether you can apply those definitions to a specific example rather than just recall them.
