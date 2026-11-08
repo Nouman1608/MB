@@ -27,7 +27,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Paper 1 Reading**, one of two AS Level papers in
@@ -157,6 +157,18 @@ sympathy is directed at the loss rather than at any cause.
 ## Common mistakes
 
 Feature-spotting with no explanation of effect. Summarising content instead of analysing language. Lifting phrasing from the source in directed writing. Ignoring one of form, audience or purpose. Treating the 1(b) comparison as a summary of your own response rather than a comparison of form, structure and language against the source.
+
+## Frequently asked questions
+
+**How long is Cambridge 9093 Paper 1?**
+2 hours 15 minutes for 50 marks: 50% of the AS Level and 25% of the A Level.
+
+**How long is the directed response?**
+Question 1(a) asks for 150–200 words, based on a text of about 550–750 words.
+
+**Which assessment objectives are tested?**
+Question 1(a) assesses AO1 and AO2; Question 1(b) and Question 2 assess AO1 and AO3.
+
 
 ## Quick revision checklist
 

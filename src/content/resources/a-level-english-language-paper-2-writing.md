@@ -21,7 +21,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Paper 2 Writing**, the second of the two AS Level papers in Cambridge International AS & A Level English Language (9093). Where Paper 1 tests reading and analysis, Paper 2 tests production: writing to a brief, then reflecting on your own choices, followed by a longer piece of extended writing.
@@ -71,6 +71,18 @@ Having written the leaflet above, a strong commentary sentence might read: "I us
 ## Common mistakes
 
 Writing part (a) without first deciding on form, audience and purpose, so the piece drifts into generic prose. Treating the reflective commentary as a second essay about the topic rather than analysis of the writing itself. Choosing a Section B option based on which sounds most impressive rather than which can genuinely be sustained and controlled for 600–900 words. Assuming the three categories vary from series to series -- they do not; only the specific topic within each fixed category changes. Running well under or well over the word ranges given for either section. Neglecting register — writing a leaflet in an academic-essay register, or a discursive article in a casual, unstructured one.
+
+## Frequently asked questions
+
+**How long is Cambridge 9093 Paper 2?**
+2 hours for 50 marks: 50% of the AS Level and 25% of the A Level.
+
+**How long is the Section A writing?**
+No more than 400 words for Question 1(a) (15 marks), followed by a reflective commentary (10 marks).
+
+**Is Section B compulsory?**
+You answer one Section B question from a choice of three, worth 25 marks.
+
 
 ## Quick revision checklist
 
