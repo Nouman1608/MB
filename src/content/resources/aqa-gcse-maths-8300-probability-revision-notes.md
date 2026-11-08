@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed AQA GCSE Maths 8300 Probability revision notes: key rules, tree and Venn methods, a quick self-test with answers and common mark losses."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes cover Topic 5, **Probability** (P1 to P9), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). P1 to P8 are for Foundation and Higher tier; P9 (conditional probability) is Higher tier only. Probability can appear on the non-calculator Paper 1 or on the calculator Papers 2 and 3, in the May/June and November series.
@@ -234,6 +236,20 @@ Small reminder: 60% of pupils take the bus and 25% of bus users arrive late. Ove
 - Writing a probability as a ratio or as "3 in 8".
 - In a Venn diagram, forgetting the region outside the circles.
 - (Higher tier only) Dividing by the grand total instead of the "given" total in a conditional question.
+
+## Frequently asked questions
+
+**Can you write a probability as a ratio?**
+No. Write probabilities as fractions, decimals or percentages, never as a ratio or in the form 3 in 8.
+
+**Why do more trials give a better estimate of probability?**
+Relative frequency from more trials is more reliable, so always use the largest set of results available when estimating a probability.
+
+**How do you find P(A or B) when the events overlap?**
+Use P(A or B) = P(A) + P(B) − P(A and B). Adding P(A) and P(B) alone counts the overlap twice.
+
+**Do you need to remember the probability formulas for AQA GCSE Maths?**
+Yes. The or rule and the and rule are on the AQA 8300 list of formulae you must know or be able to derive; they are not given in the exam.
 
 ## Official syllabus
 

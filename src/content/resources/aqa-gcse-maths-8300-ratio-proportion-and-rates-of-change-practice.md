@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Twelve original AQA GCSE Maths 8300 questions on ratio, percentages, compound units, proportion, rates of change and growth, with fully worked answers."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,6 +163,20 @@ Learn the content first in the [study guide](/resources/aqa-gcse-mathematics-rat
 - Using the simple interest method for compound growth, or rounding to the nearest pound when pence are needed.
 - Reading gradients from a tangent without stating the units of the rate.
 - Not showing the values either side of a target in a "how many years" question.
+
+## Frequently asked questions
+
+**How do you simplify a ratio with different units?**
+Convert both quantities to the same unit first, then divide by the highest common factor. A ratio written with mixed units, such as 45 : 1.2, scores nothing.
+
+**How do you solve a ratio problem when you are given the difference between shares?**
+Find the difference in parts, divide the actual difference by it to get one part, then scale up. Sharing the difference itself in the ratio is a common wrong start.
+
+**How do you find the density of a mixture of two metals?**
+Find the total mass and the total volume, then divide total mass by total volume. Averaging the two densities gives the wrong answer.
+
+**Which references does AQA GCSE Maths Topic 3 Ratio cover?**
+Topic 3 Ratio, proportion and rates of change in AQA GCSE Mathematics 8300 covers references R1 to R16, including units, ratio, percentages, compound units, proportion, rates of change and growth and decay.
 
 ## Next steps
 

@@ -181,6 +181,20 @@ t = 2.125 h after noon, which is **14:07:30** [1]
 - In "show that" parts, skipping the line that turns a scalar multiple into a conclusion.
 - Rounding decimals early in multi-step distance or time questions, so the final answer drifts.
 
+## Frequently asked questions
+
+**How do you find the vector from A to B?**
+Use →AB = b − a, the position vector of the end point minus the position vector of the start point. Writing a − b is one of the most common errors.
+
+**How do you show that three points are collinear using vectors?**
+Show that two of the vectors joining them are scalar multiples of each other, so they are parallel, and state that they share a common point. Leaving out the shared point loses the final mark.
+
+**Is |2p − 3q| the same as 2|p| − 3|q|?**
+No. Find the vector 2p − 3q first and then its magnitude. 2|p| − 3|q| is a different quantity and earns no credit.
+
+**Which part of AQA A-level Maths covers vectors?**
+Section J: Vectors (J1 to J5) of the AQA 7357 specification covers vectors in two and three dimensions, magnitude and direction, addition and scalar multiples, position vectors, and vectors in pure and applied contexts.
+
 ## Next steps
 
 - Recap with the [Vectors revision notes](/resources/aqa-a-level-mathematics-vectors-revision-notes/).

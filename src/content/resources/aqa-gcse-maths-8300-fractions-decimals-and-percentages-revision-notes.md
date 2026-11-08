@@ -290,6 +290,19 @@ Increase by 2/3, then decrease by 2/5:   5/3 × 3/5 = 1   (no overall change)
   <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How can you tell if a fraction gives a terminating decimal?**
+In its simplest form, a fraction terminates only when its denominator has no prime factors other than 2 and 5. For example, 3/16 terminates but 3/14 recurs.
+
+**What is the multiplier for a percentage decrease?**
+Subtract the percentage from 100% and write it as a decimal. A 4.5% decrease has multiplier 0.955 and a 30% increase has multiplier 1.3.
+
+**How do you combine two percentage changes?**
+Multiply the two multipliers together rather than adding the percentages. For example, an increase of 2/3 then a decrease of 2/5 gives 5/3 × 3/5 = 1, so there is no overall change.
+
+**What does dot notation mean on a recurring decimal?**
+A dot goes over the first and last digits of the repeating block. Dots over both digits of 0.16 mean 0.161616..., while a single dot over the 6 means 0.1666...
 
 ## Official syllabus
 

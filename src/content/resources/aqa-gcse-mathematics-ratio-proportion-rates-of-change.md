@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "gcse"
     topic: "ratio-proportion-and-rates-of-change-aqa-gcse"
-description: "Percentages, direct and inverse proportion, and compound units -- Topic 3 of AQA GCSE Mathematics (8300), the third of six content strands and a common source of exam marks across both Foundation and Higher tiers."
+description: "Percentages, ratio, direct and inverse proportion, compound interest and compound units: Topic 3 of AQA GCSE Mathematics 8300, at Foundation and Higher tier."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 3: Ratio, proportion and rates of change** in AQA GCSE Mathematics (8300),
@@ -229,3 +231,16 @@ a compound-unit formula, such as mixing minutes and hours within a speed calcula
   <figcaption>Minutes and decimal hours are different scales, so convert by dividing or multiplying by 60.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between direct and inverse proportion?**
+In direct proportion both quantities increase together, written y = kx, with a straight-line graph through the origin. In inverse proportion one increases as the other decreases, written y = k/x, with a reciprocal curve.
+
+**How do you share an amount in a ratio?**
+Add the parts of the ratio to find the total number of parts, divide the amount by that total to find one part, then multiply by each share. For £40 in the ratio 3 : 5, one part is £5, giving £15 and £25.
+
+**What is the difference between simple and compound interest?**
+Simple interest adds the same amount each year, so 3% for 5 years multiplies the original by 1.15. Compound interest raises the multiplier to a power, 1.03⁵, because each year's interest also earns interest.
+
+**Can ratio and proportion questions appear on the non-calculator paper?**
+Yes. The AQA 8300 specification states that all content can be assessed on any of the three papers, so these questions can appear on Paper 1 as well as Papers 2 and 3.

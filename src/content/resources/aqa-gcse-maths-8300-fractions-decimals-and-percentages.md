@@ -346,6 +346,20 @@ On Paper 1 you must convert, order and apply operators by hand: powers-of-10 con
 - Using 0.35 as the multiplier for a 35% increase. That finds 35% of the amount, not the new amount.
 - Adding the percentage changes in a two-step problem instead of multiplying the multipliers.
 
+## Frequently asked questions
+
+**How do you convert a decimal to a fraction?**
+Use the place value of the last digit as the denominator, write the digits over it, then simplify fully. For example, 0.0875 = 875/10000 = 7/80.
+
+**How do you find a fraction of a fraction of a group?**
+Multiply the fractions along the chain for each part of the group, then add the separate results. You cannot add fractions that are of different groups directly.
+
+**How do you find the original amount after a fraction has been applied?**
+Divide by the operator. If 3/4 of a number is 45, the number is 45 ÷ 3/4 = 60.
+
+**Are recurring decimals on the Foundation tier of AQA GCSE Maths?**
+Converting between recurring decimals and fractions is Higher tier only in AQA GCSE Mathematics 8300. Terminating decimals and ordering are assessed at both tiers.
+
 ## Where to go next
 
 Fix the facts in the [revision notes](/resources/aqa-gcse-maths-8300-fractions-decimals-and-percentages-revision-notes/), then try the [practice questions](/resources/aqa-gcse-maths-8300-fractions-decimals-and-percentages-practice/).

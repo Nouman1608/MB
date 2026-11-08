@@ -288,6 +288,20 @@ Displacement after 2 s = 2(3i − 4j) = 6i − 8j, distance = 10 m
 - Adding force magnitudes instead of force vectors.
 - Leaving out units (N, m, m s⁻¹) or the direction when a question asks for a velocity or force, not a speed or magnitude.
 
+## Frequently asked questions
+
+**What is the difference between a vector and a scalar?**
+A vector has both magnitude and direction, such as displacement, velocity, acceleration or force. A scalar has magnitude only.
+
+**How do you find the magnitude of a 3D vector?**
+Use Pythagoras: |xi + yj + zk| = √(x² + y² + z²). Remember that squaring a negative component gives a positive value.
+
+**What does equilibrium mean in vector terms?**
+A particle is in equilibrium when the resultant of the forces on it, found by adding the force vectors, is the zero vector.
+
+**How do you find a point that divides AB in a given ratio?**
+For AP : PB = m : n, move from A a fraction m/(m + n) of the vector →AB. For example, AP : PB = 2 : 1 means P = a + (2/3)→AB.
+
 ## Next steps
 
 - Condensed recall: [Vectors revision notes](/resources/aqa-a-level-mathematics-vectors-revision-notes/).

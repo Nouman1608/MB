@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on indices, surds, standard form, bounds and percentages."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -155,3 +157,17 @@ avoids a common and entirely avoidable source of lost marks.
 - (Higher) Using the lower bound of the width when finding an upper bound of an area.
 - Calculating 30% of £84 instead of treating £84 as 70%.
 - (Higher) Multiplying by 10 instead of 100 for a two-digit recurring block.
+
+## Frequently asked questions
+
+**How do you find the original price after a percentage reduction?**
+Treat the sale price as the remaining percentage of the original and divide by that multiplier. After a 30% reduction the price is 70% of the original, so divide by 0.7; finding 30% of the sale price and adding it on is wrong.
+
+**How do you calculate compound interest in GCSE Maths?**
+Multiply by the multiplier once for each year, which is the same as raising it to the power of the number of years. For 3.5% over 4 years, multiply by 1.035⁴ rather than adding 3.5% four times.
+
+**Does a negative index make a number negative?**
+No. A negative index means a reciprocal, so 4⁻³ = 1/4³ = 1/64, not a negative number.
+
+**Which number topics are Higher tier only in AQA GCSE Maths 8300?**
+Fractional indices (N7), surds (N8), converting recurring decimals to fractions (N10) and calculating with upper and lower bounds (N16) are Higher tier only. Writing error intervals is Foundation content.

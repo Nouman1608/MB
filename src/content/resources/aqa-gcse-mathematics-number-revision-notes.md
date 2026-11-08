@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on indices, surds, standard form, fractions, percentages and bounds for AQA GCSE Mathematics 8300."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -238,3 +240,16 @@ The trap here is finding 15% of £68 and adding it on — that gives £78.20, wh
   <figcaption>Divide by the multiplier to get back to the original price.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Does a 15% increase followed by a 15% decrease give the original value?**
+No. The multipliers give 1.15 × 0.85 = 0.9775, which is a 2.25% overall loss, because the decrease is applied to the already-increased value.
+
+**How do you find the HCF and LCM using prime factors?**
+Write each number as a product of prime factors. The HCF is the product of the lowest power of each common prime, and the LCM is the product of the highest power of every prime that appears.
+
+**How do you write an error interval?**
+For a value rounded to the nearest unit u, add and subtract half of u. For example, 24 cm to the nearest cm gives 23.5 ≤ L < 24.5.
+
+**How do you find the maximum value of a division from bounds?**
+Divide the upper bound of the numerator by the lower bound of the denominator. For subtraction and division the bounds cross over, which is the main difficulty of the topic at Higher tier.

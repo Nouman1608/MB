@@ -219,6 +219,20 @@ Reminder: r = (4i − 3j) + t(−2i + 5j). The i component 4 − 2t is 0 at t = 
 - Squaring a negative component as a negative number when finding a magnitude.
 - Rounding too early, so a final distance or angle is wrong in the third significant figure.
 
+## Frequently asked questions
+
+**Do you need the scalar product for AQA A-level Maths?**
+No. Appendix A of the AQA 7357 specification lists the scalar product a.b under Further Maths only, so it is not needed for A-level Mathematics.
+
+**How do you find a unit vector?**
+Divide the vector by its magnitude. For example, 3i + 4j − 12k has magnitude 13, so the unit vector is (3i + 4j − 12k)/13.
+
+**How do you convert a force given as magnitude and direction into components?**
+Write the angle θ anticlockwise from i, then the components are r cos θ and r sin θ. The signs come out automatically for any angle.
+
+**When can you equate coefficients in a vector equation?**
+When the base vectors are not parallel, pa + qb = ra + sb gives p = r and q = s. In a proof, state that a and b are not parallel before equating.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3, 31 January 2018, for A-level exams June 2018 onwards: Section 3.11 J: Vectors (J1 to J5), with Appendix A: mathematical notation (vectors) and Appendix B: mathematical formulae and identities.
