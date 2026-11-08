@@ -18,7 +18,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oscillations-and-waves-oxfordaqa-alevel"
     subtopic: "longitudinal-and-transverse-waves-oxfordaqa"
-description: "Revision notes on wave quantities, phase difference, transverse and longitudinal waves, ultrasound and polarisation for OxfordAQA Physics."
+description: "Revision notes on wave quantities, phase difference, transverse and longitudinal waves, ultrasound and polarisation for OxfordAQA A-level Physics 9630."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

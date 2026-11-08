@@ -18,7 +18,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "electric-fields-and-capacitance"
     subtopic: "capacitors-oxfordaqa-alevel"
-description: "Condensed revision notes on electric potential, equipotentials, capacitance, dielectrics and stored energy for OxfordAQA A-level Physics."
+description: "Condensed revision notes on electric potential, equipotentials, capacitance, dielectrics and stored energy for OxfordAQA International A-level Physics 9630."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

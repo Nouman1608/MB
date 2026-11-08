@@ -18,7 +18,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "particles-radiation-and-radioactivity"
     subtopic: "elementary-particles-oxfordaqa"
-description: "Original practice questions with worked answers on Rutherford scattering, specific charge, antiparticles, annihilation and pair production."
+description: "Original practice questions with worked answers on Rutherford scattering, specific charge, antiparticles, annihilation and pair production for OxfordAQA 9630."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
