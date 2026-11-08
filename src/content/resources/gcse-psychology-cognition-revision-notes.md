@@ -12,6 +12,18 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-cognition-and-behaviour-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "memory-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "perception-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "development-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "research-methods-8182"
 description: "Condensed recall notes on memory models, perception, development and research methods for GCSE Psychology."
 author: "marlbridge-academic-team"
 specCheck:
