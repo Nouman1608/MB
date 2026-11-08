@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-environment-2059"
     subtopic: "natural-resources-sustainability-2059"
-description: "Condensed recall notes on water, forests, mineral resources and fish -- with the sustainability-evaluation framework each Paper 2 question rewards -- for Section 2 of Cambridge O Level Pakistan Studies Paper 2 (2059)."
+description: "Revision notes on water, forests, minerals and fish, with the sustainability evaluation Paper 2 rewards, for Cambridge O Level Pakistan Studies 2059 Section 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -178,3 +180,14 @@ revenue or industrial input) with a named environmental cost.
 methods with the problems the industry faces — the two are meant to
 be addressed together, not separately. 5. Location, use, and
 sustainability issue — applied to water, forests, minerals and fish.
+
+## Frequently asked questions
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 30 minutes, 75 marks, 50%) asks you to answer three questions from a choice of five, each worth 25 marks, in four parts (a) to (d) built around maps, graphs, photographs and other resources; part (d) tests analysis.
+
+**What is the most exam-heavy part of this section?**
+Water: the three named dams, barrages and the reasons for and consequences of the Indus Waters Treaty.
+
+**What is the difference between a plantation and afforestation?**
+A plantation is new forest planted in the Indus Plain for commercial use; afforestation is planting on mountains and plateaux to prevent erosion.

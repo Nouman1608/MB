@@ -17,6 +17,8 @@ description: "Recall notes for Cambridge O Level Pakistan Studies 2059 Paper 1 S
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense Section 3 of Cambridge O Level Pakistan Studies 2059 Paper 1, Nationhood
@@ -122,6 +124,10 @@ Each point should be explained with evidence.
 - **Mixing the constitutions.** Learn which was parliamentary (1956, 1973) and which presidential (1962).
 - **Describing Hyderabad's accession as peaceful.** It followed Indian military action in September 1948.
 - **One-sided "how successful" answers.** Always give both successes and failures.
+
+## How long should each Section B answer be?
+
+The 2059 syllabus sets the length expected for each part: the **4-mark** part needs a factual answer of no more than one short paragraph; the **7-mark** part needs at least two paragraphs explaining reasons; and the **14-mark** part is an essay of about two pages in continuous prose, weighing factors and reaching a judgement. Use the timeline above to supply the dates that lift a 7- or 14-mark answer.
 
 ## Frequently asked questions
 

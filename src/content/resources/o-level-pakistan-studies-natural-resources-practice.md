@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-environment-2059"
     subtopic: "natural-resources-sustainability-2059"
-description: "Exam-style questions with full worked answers on water, forests, mineral resources and fish, applying the location-use-sustainability framework, for Cambridge O Level Pakistan Studies (2059) Paper 2 Section 2."
+description: "Exam-style questions with worked answers on water, forests, minerals and fish, judged for sustainability, for Cambridge O Level Pakistan Studies 2059."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -168,3 +170,14 @@ reasons and consequences), not simply a fact to state existed. Keep
 Section 1's map knowledge (dams, rivers, coastal regions) close at
 hand while revising this section, since nearly every sub-topic here
 asks you to locate a feature before analysing it.
+
+## Frequently asked questions
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 30 minutes, 75 marks, 50%) asks you to answer three questions from a choice of five, each worth 25 marks, in four parts (a) to (d) built around maps, graphs, photographs and other resources; part (d) tests analysis.
+
+**Which three dams are named?**
+Mangla, Tarbela and Warsak.
+
+**How should a sustainability answer be shaped?**
+Name a specific resource and place, describe its use, then judge whether the use can continue, with evidence for and against.
