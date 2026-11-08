@@ -304,6 +304,23 @@ Standards do not remove judgement: estimates are still needed.
 - Crediting a revaluation surplus to the income statement or to retained earnings.
 - Calculating bonus shares on the share total before an earlier rights issue.
 
+## Frequently asked questions
+
+**What does section 3.16 of AQA A-Level Accounting 7127 cover?**
+Section 3.16 Accounting for limited companies covers schedules of non-current assets, revaluation, rights and bonus issues, the statement of cash flows under IAS7, published accounts and the international accounting standards framework. Group financial statements and the statement of comprehensive income are excluded.
+
+**Is a revaluation surplus treated as profit?**
+No. The asset has not been sold, so the gain is unrealised. The surplus is credited to a revaluation reserve, shown in the statement of changes in equity, and is not available for paying cash dividends.
+
+**What is the difference between a rights issue and a bonus issue?**
+A rights issue sells new shares to existing shareholders for cash, so total equity rises by the cash received. A bonus issue gives free shares funded from reserves such as share premium, so it only moves amounts between parts of equity and raises no cash.
+
+**How do you calculate tax paid for a statement of cash flows?**
+Tax paid = opening tax payable + tax charge for the year − closing tax payable. Interest paid is found in the same way.
+
+**Why are depreciation and a loss on disposal added back in the statement of cash flows?**
+Under the indirect method, both reduced profit without any cash leaving the business, so they are added back to profit from operations. A profit on disposal is deducted, and the sale proceeds go under investing activities.
+
 Next, use the [revision notes](/resources/aqa-a-level-accounting-accounting-for-limited-companies-revision-notes/), then the [practice questions](/resources/aqa-a-level-accounting-accounting-for-limited-companies-practice/). For ratios, see [analysis and evaluation of financial information](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information/).
 
 ## Official syllabus

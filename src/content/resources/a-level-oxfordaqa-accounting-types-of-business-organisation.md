@@ -13,10 +13,12 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "types-of-business-organisation-oxfordaqa"
-description: "Sole traders, partnerships, private and public limited companies, and the sources of finance available to each -- Topic 3.1.2 of OxfordAQA International AS and A-Level Accounting (9615)."
+description: "Sole traders, partnerships, Ltd and plc companies, their risks and reporting duties, and the finance each can use: Topic 3.1.2 of OxfordAQA Accounting (9615)."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -178,6 +180,23 @@ applied, since a sole trader's accounts and a limited company's
 statutory accounts are prepared and presented differently. Building a
 solid grasp of the four ownership types here pays off directly when
 those later topics introduce structure-specific accounting treatment.
+
+## Frequently asked questions
+
+**What types of business organisation are in OxfordAQA A-Level Accounting 9615?**
+The specification names four ownership models: sole traders, partnerships, private limited liability companies (Ltd) and public limited liability companies (plc).
+
+**How do reporting requirements change with the type of business?**
+A sole trader has minimal external reporting obligations and a partnership reports mainly to its own partners. A limited company must file accounts, and a public limited company faces the most extensive disclosure and audit requirements because its shares are open to public investment.
+
+**Which sources of finance does the 9615 specification name?**
+It names seven: owner's capital, partners' capital, bank overdraft, bank loan, mortgage, ordinary shares and debentures. Shares and debentures are realistically only available to limited companies, while overdrafts, loans and mortgages are open to all four types.
+
+**What is the risk of financing a business with a bank loan?**
+A bank loan carries fixed interest and repayment obligations whatever the business's profit, and may require security against assets, which are at risk if the business defaults.
+
+**What does limited liability mean?**
+Limited liability means a shareholder's maximum loss is capped at the value of their investment in the company. It does not refer to the size of the company.
 
 ## Related resources
 

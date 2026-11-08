@@ -231,6 +231,20 @@ Ready to test yourself properly? Go to the
 [practice questions](/resources/aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re-practice/),
 or try the free [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What does the realisation concept mean?**
+Revenue is recognised when it is earned, which for goods is normally when they pass to the customer and the customer accepts them. It does not mean when the cash is received.
+
+**How do you calculate net realisable value?**
+Net realisable value is the expected selling price less the costs still to be incurred to complete and sell the item. Using the selling price as NRV without deducting these costs is a common mistake.
+
+**Which costs are capitalised when a non-current asset is bought?**
+Every cost needed to get the asset ready for use is capitalised, including purchase price, delivery and installation. Running costs such as insurance and fuel are revenue expenditure and go to the income statement.
+
+**Why are the owner's private bills treated as drawings?**
+Under the business entity concept the business is separate from its owner, so the owner's private spending paid from the business is drawings, not a business expense.
+
 ## Official syllabus
 
 AQA, *A-level Accounting (7127) Specification*, Version 1.1, October 2026, for teaching from September 2017

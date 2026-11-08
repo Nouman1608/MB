@@ -292,6 +292,23 @@ In an evaluation, weigh the size and complexity of the business. A market trader
 - Charging depreciation on an asset sold when the policy says none in the year of disposal.
 - Writing that a statement of affairs is "the same as" a statement of financial position. It is built from lists and valuations, not ledger balances.
 
+## Frequently asked questions
+
+**How do you calculate profit from statements of affairs?**
+Profit = closing capital − opening capital + drawings − capital introduced. Capital is found from each statement of affairs as assets less liabilities.
+
+**What is a statement of affairs?**
+A statement of affairs lists a business's assets and liabilities at one date, with capital as the balancing figure. It is built from lists and valuations rather than ledger balances, so it is not the same as a statement of financial position.
+
+**How do you find credit sales when there is no sales ledger?**
+Rebuild a total (control) trade receivables account from opening and closing receivables, receipts from customers and items such as irrecoverable debts. Credit sales is the balancing figure.
+
+**How do you convert a mark-up into a margin?**
+Build the price from 100. A 25% mark-up gives cost 100, gross profit 25 and revenue 125, so the margin is 25 ÷ 125 = 20%. Mark-up is based on cost; margin is based on selling price.
+
+**What is the limitation of the capital comparison method?**
+It gives one profit figure only. It cannot show revenue, gross profit or individual expenses, so it supports little analysis.
+
 ## Official syllabus
 
 AQA, A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams from June 2019 onwards: section 3.14, Accounting for organisations with incomplete records.

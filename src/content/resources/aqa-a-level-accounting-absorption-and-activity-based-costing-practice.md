@@ -242,6 +242,20 @@ this year, so absorption profit is lower [1]: 58 000 − 3 000 = **£55 000** [1
 - Charging fixed production overheads twice in an absorption profit statement.
 - Evaluations with no decision or no figures from the question.
 
+## Frequently asked questions
+
+**Are these AQA 7127 absorption costing questions taken from past papers?**
+No. They are original questions on section 3.12 of AQA A-Level Accounting 7127, written for revision, with invented businesses and figures. Use them alongside the official past papers.
+
+**Should overheads absorbed be calculated on budgeted or actual activity?**
+Overheads absorbed are always the predetermined OAR × actual activity. Using budgeted activity is one of the most common ways marks are lost.
+
+**What is the most common mistake in activity based costing calculations?**
+Dividing a cost pool by the number of units made instead of by the total quantity of the cost driver. Another is stopping at the total attributed overheads without dividing by units to get a cost per unit.
+
+**How do you earn marks on an evaluation question about costing methods?**
+Make points on both sides using figures from the question, then reach a decision. Evaluations with no decision or no figures from the question are a common reason marks are lost.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-accounting-absorption-and-activity-based-costing-revision-notes/)

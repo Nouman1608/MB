@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "financial-accounting"
     subtopic: "reconciliation-and-verification"
-description: "Condensed recall notes on the six trial-balance-proof error types, bank reconciliation, and control accounts for Cambridge International AS & A Level Accounting (9706), Topic 1.4."
+description: "Revision notes on errors the trial balance cannot reveal, suspense accounts, bank reconciliations and control accounts, for Cambridge 9706 Accounting topic 1.4."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -205,3 +207,16 @@ marks for that evaluative commentary separately from the calculation.
   <figcaption>Updating the cash book and adjusting the statement for timing differences reach the same figure.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is a suspense account?**
+A suspense account is opened only when an error unbalances the trial balance. It holds the difference until correcting journal entries clear it.
+
+**What causes the difference between a cash book and a bank statement?**
+After the cash book is updated for items such as bank charges and standing orders, the remaining difference is usually caused by timing differences, such as unpresented cheques and outstanding lodgements. These are not recording errors.
+
+**What is a sales ledger control account?**
+A sales ledger control account is a summary account whose balance should equal the sum of all the individual customer balances in the sales ledger. A purchases ledger control account does the same for supplier balances.
+
+**What is the limitation of a trial balance?**
+A trial balance gives a quick check that double entry has been applied, but it cannot detect omission, commission, principle, original entry, reversal or compensating errors, because they do not unbalance it.

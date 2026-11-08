@@ -13,10 +13,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "principles-of-accounting-and-double-entry-bookkeeping"
-description: "The role and purpose of accounting, the double entry system, accounting concepts and conventions, capital and revenue expenditure, and non-current asset depreciation -- the full content of Topic 1 for Pearson Edexcel International A Level Accounting (YAC11), Unit 1."
+description: "Purpose of accounting, double entry, accounting concepts, capital versus revenue spending and depreciation: Topic 1 of Edexcel IAL Accounting (YAC11), Unit 1."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -201,6 +203,23 @@ classification carrying as much credit as the answer itself.
   <figcaption>Costs needed to get an asset ready for use are capital; running costs are revenue.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What is the double entry principle?**
+Every transaction affects at least two accounts with equal debits and credits. Increases in assets and expenses are debits; increases in liabilities, income and capital are credits.
+
+**Which accounting concepts are in Edexcel YAC11 Topic 1?**
+The specification lists going concern, prudence, accruals, consistency, historic cost, materiality, money measurement, realisation and business entity, together with the use of International Accounting Standards (IAS).
+
+**How does the choice of depreciation method affect profit?**
+Reducing balance gives higher depreciation charges in an asset's early years and lower charges later, so profit is lower at first and higher later than under straight line. Total depreciation over the asset's life is the same under both methods.
+
+**What is the difference between capital and revenue expenditure?**
+Capital expenditure acquires or improves a non-current asset, such as buying a delivery van, and is spread over the asset's life through depreciation. Revenue expenditure covers day-to-day running costs, such as fuel or routine servicing, and is charged against profit in the year it is incurred.
+
+**How is the Edexcel IAL Accounting Unit 1 exam assessed?**
+Unit 1 is assessed by a single 3-hour paper worth 200 marks, with a compulsory Section A and an optional Section B. Questions are data-based rather than essay-style.
 
 ## Official syllabus
 

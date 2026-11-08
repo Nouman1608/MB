@@ -243,6 +243,20 @@ Equipment [1]; current assets [1]; current liabilities [1]; net assets [1]; capi
 - Depreciating on the opening cost when the policy says cost held at the year end.
 - Evaluation answers with no final judgement.
 
+## Frequently asked questions
+
+**Are these AQA 7127 incomplete records questions from past papers?**
+No. They are original practice questions with marked answers on section 3.14 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**Why should I label balancing figures in incomplete records workings?**
+Showing the full account with the balancing figure labelled lets the method be credited even if one entry is wrong. A bare figure leaves nothing to credit.
+
+**What is the most common mistake in theft and fire inventory questions?**
+Using a mark-up percentage on sales as though it were a margin, and forgetting goods taken by the owner when working out the expected closing inventory.
+
+**How should I answer an evaluation of single entry records?**
+Apply each point to the business in the question, such as its credit customers or loans, and finish with a supported conclusion. Answers with no final judgement are a common reason marks are lost.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records-revision-notes/)

@@ -264,6 +264,23 @@ Outlay recovered in (1,800,000 + 240,000) / 450,000 = 4.53 years
 - Saying a high dividend yield is always good, without checking cover.
 - Assessing a recommendation only on the figures, or only on non-financial points, with no judgement.
 
+## Frequently asked questions
+
+**Which investors' ratios are in AQA A-Level Accounting 7127 section 3.17?**
+Section 3.17 uses earnings per share (EPS), price/earnings (P/E), dividend per share, dividend yield, dividend cover and interest cover. The specification's appendix says you must know these formulae.
+
+**Why should you not compare EPS between two companies?**
+EPS depends on the number of issued shares, so a company with fewer shares can show a higher EPS without performing better. EPS is most useful for comparing one company over time.
+
+**What does dividend cover show?**
+Dividend cover, profit after tax ÷ ordinary dividends, shows how safe the dividend is. Cover of 2.50 times means profit after tax could fall by more than half before the dividend could not be paid from that year's profit.
+
+**Is a high dividend yield always good?**
+No. A high yield may reflect a falling share price or a dividend that is poorly covered, so check dividend cover before calling it good.
+
+**How do you critically assess a recommendation in AQA Accounting?**
+Work through the financial case, the impact on stakeholders, the effects on the local and national economy and the environment, and then give a judgement. Assessing only the figures, or only the non-financial points, is a common error.
+
 Next, use the [revision notes](/resources/aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info-revision-notes/), the [practice questions](/resources/aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info-practice/) and the [exam preparation guide](/resources/aqa-a-level-accounting-exam-preparation/).
 
 ## Official syllabus

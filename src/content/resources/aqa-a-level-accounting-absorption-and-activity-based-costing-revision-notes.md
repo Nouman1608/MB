@@ -259,6 +259,23 @@ high-volume one. Prices set from absorption cost can then sell the complex produ
   inventory.
 - Listing benefits of ABC without applying them to the business in the question.
 
+## Frequently asked questions
+
+**Which section of AQA A-Level Accounting 7127 covers absorption and activity based costing?**
+Section 3.12 covers absorption and activity based costing, and it is assessed on Paper 2. The course is untiered.
+
+**Which apportionment basis should be used for each overhead?**
+Rent, rates, heating, lighting and building insurance are usually apportioned on floor area; machinery depreciation and insurance on the cost or value of machinery; machine power on machine hours; and canteen, welfare and personnel costs on the number of employees.
+
+**What is the difference between a mark-up and a margin?**
+A mark-up is a percentage of cost, while a margin is a percentage of selling price. For example, a 25% mark-up and a 20% margin give the same selling price.
+
+**When does activity based costing make the biggest difference to product costs?**
+ABC changes costs most when products differ a lot in batch size, when overheads are a large share of total cost, and when a low-volume, complex product shares a factory with a high-volume, simple one.
+
+**Why are overheads under- or over-absorbed?**
+Because the OAR uses budgeted figures, a difference arises when actual activity differs from budgeted activity, when actual overhead spending differs from the budget, or both.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019

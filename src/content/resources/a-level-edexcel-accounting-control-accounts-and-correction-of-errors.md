@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "control-procedures"
     subtopic: "control-accounts-yac11"
-description: "Using control accounts to check receivable and payable ledgers, and correcting errors that do and do not affect the trial balance, using journal entries and the suspense account -- 1.2.3-1.2.9 of Pearson Edexcel International A-Level Accounting (YAC11)."
+description: "Control accounts as a check on receivable and payable ledgers, plus error correction, journals and the suspense account, for Edexcel IAL Accounting (YAC11)."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -200,6 +202,23 @@ transposition error.
 as an independent check.
 - Practise building a statement of revised profit that adjusts line by
 line for each correction.
+
+## Frequently asked questions
+
+**What is a control account in accounting?**
+A control account, also called a total account, summarises all the entries in the trade receivables or trade payables ledger using totals from the books of prime entry. Its balance should equal the sum of the individual personal account balances, so a difference shows an error exists somewhere in the ledger.
+
+**Which errors do not affect the balancing of the trial balance?**
+Errors of omission, commission, principle, original entry and complete reversal do not cause the trial balance to disagree, although they still need correcting journal entries. One-sided entries, transposition errors and casting errors do cause an imbalance.
+
+**What is a suspense account used for?**
+A suspense account is a temporary account opened to hold the difference when a trial balance fails to balance. It is cleared by journal entries once the underlying errors are found and corrected.
+
+**How can you tell if an error is a transposition error?**
+A transposition error reverses digits in a figure, for example 540 recorded as 450. It makes the trial balance fail to balance by a difference that is divisible by 9, which is a useful check when searching for the error.
+
+**What is a statement of revised profit?**
+It starts from the originally calculated profit and adjusts it line by line for each correction that affected an income or expense account. In Edexcel YAC11 it follows directly from the correcting journal entries.
 
 ## Related resources
 

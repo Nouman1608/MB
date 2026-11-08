@@ -149,6 +149,20 @@ Ratios for 2025: earnings per share 10.50p; dividend per share 4.20p; dividend c
 - Recommending the highest dividend yield without checking dividend cover and gearing.
 - Assessing a recommendation without a final, conditional judgement.
 
+## Frequently asked questions
+
+**Are these AQA 7127 section 3.17 questions from past papers?**
+No. They are original practice questions with marked answers on section 3.17 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**Why do pounds and pence matter in investors' ratio questions?**
+Mixing pounds and pence in EPS, P/E and dividend yield gives nonsense results. Convert profit to pence first so EPS and the share price are in the same units.
+
+**How should I answer a stakeholder question?**
+Naming a stakeholder is not enough; say what each one looks for in the accounts and why, linking it to a ratio or need.
+
+**How do I earn full marks when assessing a recommendation?**
+Use your calculated figures, cover every area the question names, such as stakeholders, the economy and the environment, and end with a final, conditional judgement.
+
 ## Next steps
 
 - [Revision notes for this topic](/resources/aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info-revision-notes/)

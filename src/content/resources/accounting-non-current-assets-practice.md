@@ -185,6 +185,20 @@ Judgement: change only if use has really changed. [1] **[10]**
 - Recording the new asset at the cash paid rather than the full price after a part exchange.
 - Taking a revaluation gain to profit instead of a revaluation reserve.
 
+## Frequently asked questions
+
+**What is section 1.3 of the Cambridge 9706 Accounting syllabus?**
+Section 1.3 is Accounting for non-current assets, part of the AS Level content of the Cambridge International AS and A Level Accounting 9706 syllabus for 2026 to 2028. It covers capital and revenue items, depreciation, revaluation and disposal.
+
+**What is the most common mistake with reducing balance depreciation?**
+Applying the percentage to the original cost every year instead of to the carrying value, which is cost less accumulated depreciation.
+
+**How are marks given when a question asks you to classify an item and give a reason?**
+A bare label such as "capital expenditure" earns little on its own; the reason, such as the item acquiring a non-current asset, is what gains the credit.
+
+**Why does the depreciation policy in the question matter?**
+Questions state a policy for the year of purchase or disposal, such as a full year's charge on purchase and none in the year of sale. Ignoring it carries an error through every later calculation in the question.
+
 ## Next steps
 
 - [Revision notes](/resources/accounting-non-current-assets-revision-notes/) and [study guide](/resources/accounting-non-current-assets/)

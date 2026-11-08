@@ -315,6 +315,23 @@ The £2 000 fall is the unrealised profit that had been taken too early.
 - Treating the owner's private spending as a business expense instead of drawings.
 - Describing prudence as deliberately understating profit.
 
+## Frequently asked questions
+
+**How many accounting concepts are in AQA A-Level Accounting 7127 section 3.5?**
+Section 3.5 names ten general concepts: money measurement, duality, cost, going concern, accruals, consistency, prudence, materiality, realisation and business entity. It is assessed on Paper 1.
+
+**How is inventory valued under the lower of cost and net realisable value rule?**
+Inventory is valued at the lower of cost and net realisable value (NRV), where NRV is the expected selling price less costs still to be incurred to complete and sell. The comparison is made item by item, not on the totals.
+
+**How are goods on sale or return treated at the year end?**
+Under the realisation concept, goods not yet accepted by the customer are not a sale. They are removed from revenue and trade receivables and included in closing inventory at cost, or NRV if lower.
+
+**What happens when prudence and accruals conflict?**
+Accruals would spread a cost or income over periods, while prudence says a foreseeable loss should be recognised now. Where a loss is likely, prudence wins.
+
+**Does prudence mean deliberately understating profit?**
+No. Prudence means not overstating assets or profit and not understating liabilities or losses; it is not a licence to understate profit on purpose.
+
 ## Where to go next
 
 Work through the

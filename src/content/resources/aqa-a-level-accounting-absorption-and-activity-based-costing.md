@@ -383,6 +383,23 @@ ABC profit is highest because unsold Premium units carry a large ABC overhead.
 
 Next: the [practice questions](/resources/aqa-a-level-accounting-absorption-and-activity-based-costing-practice/).
 
+## Frequently asked questions
+
+**What is the difference between allocation and apportionment of overheads?**
+Allocation charges a whole cost to the one product or cost centre that caused it, such as a department's own supervisor. Apportionment shares an indirect cost between cost centres on a fair basis, such as rent shared on floor area.
+
+**How do you calculate an overhead absorption rate?**
+The overhead absorption rate (OAR) is set in advance as budgeted overheads of the cost centre ÷ budgeted level of activity. Use machine hours for a machine-intensive department, direct labour hours for a labour-intensive one, and units only when every unit is identical.
+
+**What does under-absorption of overheads mean?**
+Under-absorption means the overheads absorbed into products, calculated as the OAR × actual activity, are less than the overheads actually incurred. Products were charged too little, so the difference is deducted from profit.
+
+**What is a cost driver in activity based costing?**
+A cost driver is the factor that causes the cost of a cost pool to change, such as the number of machine set-ups for a set-up cost pool. In AQA 7127, ABC divides each pool by the total driver quantity and attributes the cost to products by their use of the driver.
+
+**Is absorption costing profit always higher than marginal costing profit?**
+No. Absorption profit is higher only when inventory rises, because some fixed production overheads are carried forward in closing inventory. When production equals sales, profit is the same under both methods.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019

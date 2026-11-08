@@ -186,6 +186,23 @@ Fixtures £17 400 [1]; trade receivables £9 000 [1]; bank £4 500 [1]; inventor
 - Flexing fixed overheads.
 - Ending an evaluation without a judgement.
 
+## Frequently asked questions
+
+**Are these AQA 7127 budgeting questions from past papers?**
+No. They are original practice questions with worked answers on section 3.9 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in cash budget questions?**
+Common errors include putting depreciation, irrecoverable debts or provisions into a cash budget, and receiving credit sales in the wrong month or ignoring discount allowed.
+
+**Should a materials budget be priced on usage or purchases?**
+Price the purchases quantity, not the usage. Pricing usage instead of purchases is a common way to lose the final mark.
+
+**Are fixed overheads flexed in a flexed budget?**
+No. Only revenue and variable costs are flexed to the actual output; flexing fixed overheads is a common slip that loses marks.
+
+**How should I end a budgeting evaluation answer?**
+End with a reasoned judgement tied to the business in the question. Without a conclusion full marks are out of reach.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-accounting-budgeting-revision-notes/) and [study guide](/resources/aqa-a-level-accounting-budgeting/).

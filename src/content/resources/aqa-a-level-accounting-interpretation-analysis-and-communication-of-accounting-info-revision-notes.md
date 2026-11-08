@@ -245,6 +245,20 @@ Profit after tax        -> EPS and dividend cover
 - Ignoring the environment or the national economy when the question names them.
 - Giving no final judgement on "evaluate" or "assess".
 
+## Frequently asked questions
+
+**How do you calculate earnings per share?**
+Earnings per share = profit after tax ÷ number of issued ordinary shares. Keep EPS and the share price both in pence when calculating P/E.
+
+**What is the difference between trend analysis and inter-firm comparison?**
+Trend analysis compares a business's results across periods, against last year, a budget or a target. Inter-firm comparison compares it with a competitor or industry average to show whether a result is good for the sector.
+
+**Are dividends an expense in the income statement?**
+No. Dividends are a distribution of profit to shareholders, so treating them as an expense in the income statement is a common mistake.
+
+**What profit figure is used for interest cover?**
+Interest cover uses profit before interest and tax divided by interest payable. Using profit after interest understates cover.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.17, Interpretation, analysis and communication of accounting information.

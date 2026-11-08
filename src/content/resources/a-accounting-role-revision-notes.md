@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed recall notes on accounting concepts, financial statements, adjustments and ratio analysis for A Level Accounting."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -193,3 +195,19 @@ payables days       = payables / credit purchases x 365
   <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the accounting equation in A Level Accounting?**
+The accounting equation is Assets = Capital + Liabilities. Capital sits with liabilities because, under the business entity concept, the business is separate from its owner and the capital is treated as owed back to the owner.
+
+**Which accounting concept drives the year-end adjustments?**
+The accruals (matching) concept: income and expenses are recorded when they are incurred, not when cash moves. It is the reason for accruals, prepayments and depreciation adjustments at the year end.
+
+**Is depreciation a fund for replacing an asset?**
+No. Depreciation allocates the cost of a non-current asset over its useful life to match it against the revenue it helps generate. It is not saving up to replace the asset and it is not a measure of the fall in market value.
+
+**What are the limitations of ratio analysis?**
+Ratios use historic data, ignore non-financial factors, are distorted by different accounting policies between firms, are affected by inflation and seasonality, and a single figure can be manipulated by year-end timing.
+
+**Are drawings an expense?**
+No. Drawings reduce the owner's capital, not profit, so they are never charged in the income statement.

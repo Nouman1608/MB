@@ -313,6 +313,23 @@ training, and incremental budgeting otherwise.
 - Comparing actual with the fixed budget when output differs, without flexing.
 - Treating the cash budget closing balance as profit.
 
+## Frequently asked questions
+
+**What is the principal budget factor?**
+The principal budget factor is the factor that limits a business's activity, often sales demand, so its budget is prepared first. The sales budget then drives the production, materials purchases and labour budgets.
+
+**What does not appear in a cash budget?**
+A cash budget records cash flows only, so depreciation, irrecoverable debts written off and provisions never appear. Capital receipts and payments such as loans received, new non-current assets, capital introduced and drawings do appear.
+
+**What is a flexed budget?**
+A flexed budget recalculates revenue and variable costs at the actual level of output, with fixed costs unchanged. Comparing actual results with a flexed budget, rather than the original fixed budget, shows efficiency and pricing variances without the effect of volume.
+
+**What is the difference between incremental and zero-based budgeting?**
+Incremental budgeting adjusts last period's budget or actual figures, for example by adding inflation; it is quick but carries forward past inefficiency. Zero-based budgeting starts every budget from zero, so each activity must be justified as if it were new; it removes waste but is slow and costly.
+
+**Which AQA 7127 paper assesses budgeting?**
+Section 3.9 Budgeting is examined on Paper 2 of AQA A-Level Accounting 7127, which assesses sections 1–3, 8–13 and 17–18.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, A-level exams June 2019

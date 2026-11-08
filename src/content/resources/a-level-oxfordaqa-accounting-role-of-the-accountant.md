@@ -13,10 +13,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "an-introduction-to-the-role-of-the-accountant-in-business-oxfordaqa"
-description: "The purpose of accounting and the role of the accountant -- the opening topic of OxfordAQA International AS & A-Level Accounting (9615), a 20-topic, modular syllabus."
+description: "The purpose of accounting, its users, key concepts and professional ethics: Topic 1 of OxfordAQA International AS and A-Level Accounting (9615)."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -180,3 +182,20 @@ Treating drawings as an expense. Recording on a cash basis where accruals apply.
 - Calculate straight-line depreciation, accruals and prepayments, and place them correctly.
 - Apply the ethical principles to a pressure scenario.
 - State the limitations of published accounts.
+
+## Frequently asked questions
+
+**What is the difference between financial and management accounting in OxfordAQA 9615?**
+Financial accounting records completed transactions and reports to external users such as shareholders, lenders and tax authorities; it is historic and governed by law and accounting standards. Management accounting serves internal decision-makers, is forward-looking and is produced in whatever form managers need.
+
+**Who uses accounting information and what do they want to know?**
+Shareholders look at profitability and dividends, lenders at liquidity and ability to service debt, suppliers at whether invoices will be paid, employees at job security, government at tax liability, and managers at everything needed to plan, control and decide.
+
+**What are the professional ethical principles for accountants?**
+The principles are integrity, objectivity, professional competence and due care, confidentiality, and professional behaviour.
+
+**Why is depreciation charged instead of expensing a machine in full?**
+Charging the full cost in one year would breach the accruals concept, because the machine benefits several years. Depreciation spreads the cost over the asset's useful life.
+
+**What are the limitations of published accounts?**
+Accounts are historic, largely ignore non-financial factors such as staff morale and brand strength, and depend on estimates like depreciation and provisions.
