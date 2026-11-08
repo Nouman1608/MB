@@ -131,6 +131,20 @@ These questions cover section 2.5, Organizational (corporate) culture, of the IB
 - Take all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is organizational culture HL only in IB Business Management?**
+Yes. All of section 2.5, Organizational (corporate) culture, is HL only in the IB Business management guide, first assessment 2024.
+
+**What are common mistakes on organizational culture questions?**
+Students often define culture as rules or dress code with no mention of shared values, name a Handy type with no evidence from the case, confuse Apollo (role) with Athena (task), and list clash problems in an "evaluate" question with no judgement. Treating Hofstede scores as true of every person in a country also loses marks.
+
+**How do you tell a role culture from a task culture?**
+A role culture (Apollo) runs on rules, defined roles and procedures within a hierarchy. A task culture (Athena) forms teams around projects, with members chosen for their expertise.
+
+**What are the limitations of using Hofstede's dimensions to plan a cross-border merger?**
+Hofstede's scores describe national averages, not individuals, and firms and teams can differ from their country's culture. Answers that use the scores as if every person in a country were the same lose marks.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide* (first assessment 2024), International Baccalaureate Organization, Unit 2, section 2.5 Organizational (corporate) culture (HL only).

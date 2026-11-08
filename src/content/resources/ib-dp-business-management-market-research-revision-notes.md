@@ -231,6 +231,20 @@ Remedies include testing the questionnaire on a few people first, using neutral 
 - Forgetting to give a judgment at the end of a longer answer.
 - Writing about market research in general terms and not about the product or market in the case.
 
+## Frequently asked questions
+
+**What are the five types of secondary research in IB Business Management?**
+Section 4.4 lists market analyses, academic journals, government publications, media articles and online content as secondary research.
+
+**How do you calculate a quota for a group in a sample?**
+The quota for a group is the group size divided by the population size, multiplied by the total sample. For example, 2,000 juniors in a club of 5,000 gives a quota of 20 in a sample of 50.
+
+**Is an online survey qualitative or quantitative?**
+It depends on the questions, not the delivery method. A survey with closed questions produces mainly quantitative data, while open questions produce qualitative data.
+
+**Why might observation give different results from a survey?**
+People may report their behaviour inaccurately in a survey, while observation records what they actually do.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. These notes cover section 4.4 Market research.

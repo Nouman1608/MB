@@ -7,13 +7,15 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
 syllabusSeries: "First assessment 2024"
-description: "An overview of IB Diploma Programme Business Management -- its four interdisciplinary concepts (creativity, change, ethics, sustainability), its core business functions, and what the course aims to develop, for both Standard Level and Higher Level."
+description: "Overview of IB DP Business Management: its four concepts, five units, toolkit and how SL and HL are assessed, including the pre-released Paper 1 statement."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 IB Diploma Programme Business Management is designed to meet the needs
@@ -151,6 +153,23 @@ structural difference -- a genuinely separate set of tasks, rather
 than simply a longer or harder version of the SL papers -- is why the
 shift from SL to HL Business Management involves a meaningfully
 different course, not the same course examined at a higher difficulty.
+
+## Frequently asked questions
+
+**How is IB DP Business Management assessed at SL and HL?**
+At SL, Paper 1 is worth 35%, Paper 2 35% and the internal assessment 30%. At HL, Paper 1 is worth 25%, Paper 2 30%, Paper 3 (built around a social-enterprise stimulus) 25% and the internal assessment 20%.
+
+**Is the internal assessment different at SL and HL?**
+No. SL and HL students complete the same business research project on a real organization, against the same criteria; only the weighting differs. It is marked by the student's teacher and then externally moderated.
+
+**Is Paper 1 the same for SL and HL?**
+Yes. Paper 1 is identical at SL and HL, built around the same pre-released statement and unseen case study, and it does not draw on HL extension content.
+
+**What is the business management toolkit?**
+The toolkit is a set of fifteen named quantitative and qualitative tools, such as SWOT analysis, the Ansoff matrix, STEEPLE analysis and decision trees, applied across units. Seven of the tools are HL only, and the toolkit has 10 teaching hours at SL against 35 at HL.
+
+**Is break-even analysis part of the toolkit?**
+No. Break-even analysis is syllabus content in sub-topic 5.5 of Unit 5 (Operations management), not one of the toolkit's tools.
 
 ## Source
 

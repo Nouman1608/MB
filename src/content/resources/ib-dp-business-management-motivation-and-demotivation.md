@@ -248,6 +248,20 @@ Training can motivate because it signals investment and builds competence. It ma
 - Calculating turnover using the opening headcount rather than the average number of employees.
 - Writing HL content in an SL answer without being asked.
 
+## Frequently asked questions
+
+**What did Taylor believe motivates workers?**
+Frederick Taylor's scientific management holds that workers are motivated mainly by pay, so jobs are broken into small tasks, workers are trained in one method and paid a piece rate so that more output earns more money.
+
+**What is the difference between job enrichment and job enlargement?**
+Job enrichment adds more responsibility, challenge and planning to a role, a vertical change that targets Herzberg's motivators. Job enlargement adds similar tasks at the same level, a horizontal change that reduces boredom but may not motivate.
+
+**What is self-determination theory?**
+Deci and Ryan's self-determination theory says motivation is highest when three needs are met: autonomy, competence and relatedness. It is an HL only theory in section 2.4.
+
+**What is the difference between on the job and off the job training?**
+On the job training is learning while working, for example by shadowing a colleague, which is cheaper and directly relevant. Off the job training uses courses away from the workplace, which can give wider skills from experts but costs more and takes time away from work.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 2.4, Motivation and demotivation, in Unit 2: Human resource management.

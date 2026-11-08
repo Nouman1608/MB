@@ -243,6 +243,20 @@ Write the formula, substitute, then give the answer with its unit.
 - Giving a calculation answer with no working or no units.
 - Ending an evaluation with no conclusion that weighs the arguments.
 
+## Frequently asked questions
+
+**What are the three forms of intellectual property in IB Business Management?**
+The guide names copyrights, patents and trademarks. Copyright covers creative works, a patent covers an invention, and a trademark covers a sign that identifies a brand.
+
+**What is the difference between incremental and disruptive innovation?**
+Incremental innovation improves an existing product or process in small steps with lower risk. Disruptive innovation creates a product or business model that changes how a market works, with higher risk.
+
+**What is Digital Taylorism?**
+Digital Taylorism is using digital tools to monitor and measure work broken into small tasks, applying Taylor's scientific management ideas. It gives clear targets but can raise stress, lower trust and reduce privacy.
+
+**How do you calculate R&D intensity?**
+R&D intensity is R&D spending divided by sales revenue, multiplied by 100. It is a standard ratio rather than one named in the guide.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. Sections 5.8 and 5.9 (both HL only).

@@ -226,6 +226,20 @@ Ethical questions include informed consent, how long data is kept, who is respon
 
 Test yourself with the [practice questions](/resources/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only-practice/).
 
+## Frequently asked questions
+
+**Why is research and development important for a business?**
+R&D feeds the product portfolio, can create a competitive advantage that rivals find hard to copy, can lower costs through better processes and can open new markets. Its spending is certain while results are not, and payback can be slow.
+
+**What is the difference between a known and a latent unmet need?**
+With a known unmet need, customers can describe the problem, so research such as surveys can measure it. With a latent need, customers do not realize it until a product shows them, so the business may have to observe behaviour or test a prototype.
+
+**Does a patent guarantee profit?**
+No. A patent, like other intellectual property protection, only stops others copying without permission. It helps the owner recover R&D costs but does not guarantee that the product will sell.
+
+**What is a management information system?**
+A management information system collects, stores, processes and presents information so that managers can make decisions. Section 5.9 covers tools such as data analytics, databases, cloud computing, artificial intelligence, loyalty programmes and data mining, along with their risks and ethics.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. Sections 5.8 and 5.9 (both HL only).

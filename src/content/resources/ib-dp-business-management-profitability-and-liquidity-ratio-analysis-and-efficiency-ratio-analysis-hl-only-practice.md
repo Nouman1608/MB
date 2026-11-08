@@ -151,6 +151,20 @@ These questions practise sections 3.5 (Profitability and liquidity ratio analysi
 - Practise the wider unit with the [Unit 3 practice set](/resources/ib-dp-business-management-finance-accounts-practice/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**Which profit figure do you use for profit margin and ROCE in IB Business Management?**
+The guide's formulae use profit before interest and tax for both profit margin and ROCE. Using a profit figure after interest is a common way to lose marks.
+
+**What are common mistakes on ratio analysis questions?**
+Students often leave non-current liabilities out of capital employed, drop the 365 in days ratios, mix up cost of sales and sales revenue, use closing stock instead of average stock, and quote a ratio with no unit. Calling a figure good or bad with no comparison also loses marks.
+
+**Which ratios are HL only in IB Business Management?**
+The efficiency ratios in section 3.6, which are stock turnover, debtor days, creditor days and the gearing ratio, are HL only, along with insolvency versus bankruptcy. The profitability and liquidity ratios in section 3.5 are studied at SL and HL.
+
+**How should you recommend a strategy to improve a ratio?**
+Choose a strategy that affects the ratio in the question, link it to the case, and state its cost or risk. A strategy with no trade-off, or one that improves a different ratio, earns less credit.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024: sections 3.5 and 3.6, the formulae for ratio analysis and the glossary of command terms.
