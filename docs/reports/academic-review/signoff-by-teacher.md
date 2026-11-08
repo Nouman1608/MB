@@ -18,7 +18,7 @@ review.
 
 | Teacher | Profile slug | Pages eligible |
 | --- | --- | --- |
-| Salman Ahmad | `salman-ahmad` | 1688 |
+| Salman Ahmad | `salman-ahmad` | 1694 |
 | Asif Iqbal | `asif-iqbal` | 954 |
 | Muhammad Ghazali Siddiqui | `muhammad-ghazali-siddiqui` | 846 |
 | Sajawal Zahid | `sajawal-zahid` | 846 |
@@ -31,12 +31,16 @@ review.
 | Javaid Iqbal Sabri | `javaid-iqbal-sabri` | 343 |
 | Zain Ud Din Ahmed | `zain-ud-din-ahmed` | 343 |
 | Hassan | `hassan` | 309 |
-| Harris Khan | `harris-khan` | 97 |
-| *No eligible teacher* | — | 292 |
+| Harris Khan | `harris-khan` | 147 |
+| Azam Siddique | `azam-siddique` | 16 |
+| Ammar Bilal | `ammar-bilal` | 14 |
+| Lubna Waseem | `lubna-waseem` | 6 |
+| Aizaz Raoof Ali | `aizaz-raoof-ali` | 4 |
+| *No eligible teacher* | — | 298 |
 
-5099 review-pending pages in total; a page can appear under more than one teacher.
+5195 review-pending pages in total; a page can appear under more than one teacher.
 
-## Salman Ahmad (`salman-ahmad`) — 1688
+## Salman Ahmad (`salman-ahmad`) — 1694
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
@@ -496,6 +500,9 @@ review.
 | `cambridge-a-level-economics-utility-indifference-curves-and-budget-lines-practice` | cambridge a-level economics (9708) | practice-questions | UNVERIFIED | 1 |
 | `cambridge-a-level-economics-utility-indifference-curves-and-budget-lines-revision-notes` | cambridge a-level economics (9708) | revision-notes | UNVERIFIED | 1 |
 | `cambridge-a-level-economics-utility-indifference-curves-and-budget-lines` | cambridge a-level economics (9708) | study-guides | UNVERIFIED | 1 |
+| `cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide` | cambridge igcse commerce (0715) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-commerce-logistics-in-commerce-study-guide` | cambridge igcse commerce (0715) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-commerce-sustainability-and-ethics-study-guide` | cambridge igcse commerce (0715) | study-guides | UNVERIFIED | 0 |
 | `cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth-practice` | cambridge igcse economics (0455) | practice-questions | UNVERIFIED | 1 |
 | `cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth-revision-notes` | cambridge igcse economics (0455) | revision-notes | UNVERIFIED | 1 |
 | `cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth` | cambridge igcse economics (0455) | study-guides | UNVERIFIED | 1 |
@@ -574,6 +581,9 @@ review.
 | `cambridge-igcse-economics-workers-wages-and-trade-unions-practice` | cambridge igcse economics (0455) | practice-questions | UNVERIFIED | 1 |
 | `cambridge-igcse-economics-workers-wages-and-trade-unions-revision-notes` | cambridge igcse economics (0455) | revision-notes | UNVERIFIED | 1 |
 | `cambridge-igcse-economics-workers-wages-and-trade-unions` | cambridge igcse economics (0455) | study-guides | UNVERIFIED | 1 |
+| `cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide` | cambridge o-level commerce (7100) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-commerce-logistics-in-commerce-study-guide` | cambridge o-level commerce (7100) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-commerce-sustainability-and-ethics-study-guide` | cambridge o-level commerce (7100) | study-guides | UNVERIFIED | 0 |
 | `cambridge-o-level-economics-causes-and-effects-of-price-changes-and-the-market-practice` | cambridge o-level economics (2281) | practice-questions | UNVERIFIED | 1 |
 | `cambridge-o-level-economics-causes-and-effects-of-price-changes-and-the-market-revision-notes` | cambridge o-level economics (2281) | revision-notes | UNVERIFIED | 1 |
 | `cambridge-o-level-economics-causes-and-effects-of-price-changes-and-the-market` | cambridge o-level economics (2281) | study-guides | UNVERIFIED | 1 |
@@ -8891,7 +8901,7 @@ review.
 | `oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power-revision-notes` | oxfordaqa igcse physics (9203) | revision-notes | UNVERIFIED | 1 |
 | `oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power` | oxfordaqa igcse physics (9203) | study-guides | UNVERIFIED | 1 |
 
-## Harris Khan (`harris-khan`) — 97
+## Harris Khan (`harris-khan`) — 147
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
@@ -8949,6 +8959,50 @@ review.
 | `a-level-cambridge-ict-video-and-audio-editing-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
 | `a-level-cambridge-ict-video-and-audio-editing-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
 | `a-level-cambridge-ict-video-and-audio-editing` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `aqa-a-level-computer-science-big-data-study-guide` | aqa a-level computer-science (7517) | study-guides | UNVERIFIED | 0 |
+| `aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide` | aqa a-level computer-science (7517) | study-guides | UNVERIFIED | 0 |
+| `aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide` | aqa a-level computer-science (7517) | study-guides | UNVERIFIED | 0 |
+| `aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide` | aqa a-level computer-science (7517) | study-guides | UNVERIFIED | 0 |
+| `aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide` | aqa a-level computer-science (7517) | study-guides | UNVERIFIED | 0 |
+| `aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide` | aqa a-level computer-science (7517) | study-guides | UNVERIFIED | 0 |
+| `aqa-a-level-computer-science-fundamentals-of-databases-study-guide` | aqa a-level computer-science (7517) | study-guides | UNVERIFIED | 0 |
+| `aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide` | aqa a-level computer-science (7517) | study-guides | UNVERIFIED | 0 |
+| `aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide` | aqa a-level computer-science (7517) | study-guides | UNVERIFIED | 0 |
+| `aqa-a-level-computer-science-theory-of-computation-study-guide` | aqa a-level computer-science (7517) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-data-types-and-structures-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-ethics-and-ownership-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-hardware-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-programming-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-security-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-software-development-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-computer-science-system-software-study-guide` | cambridge a-level computer-science (9618) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide` | cambridge igcse computer-science (0478) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide` | cambridge igcse computer-science (0478) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-computer-science-boolean-logic-study-guide` | cambridge igcse computer-science (0478) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-computer-science-databases-study-guide` | cambridge igcse computer-science (0478) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-computer-science-programming-study-guide` | cambridge igcse computer-science (0478) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-computer-science-software-study-guide` | cambridge igcse computer-science (0478) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide` | cambridge igcse computer-science (0478) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-audience-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-communication-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-databases-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-document-production-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-file-management-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-graphs-and-charts-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-images-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-layout-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-presentations-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-proofing-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-safety-and-security-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-spreadsheets-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-styles-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-the-systems-life-cycle-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-website-authoring-study-guide` | cambridge igcse ict (0417) | study-guides | UNVERIFIED | 0 |
 | `cambridge-o-level-computer-science-2210-past-papers` | cambridge o-level computer-science (2210) | past-papers | UNVERIFIED | 0 |
 | `oxfordaqa-a-level-computer-science-advanced-algorithms-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
 | `oxfordaqa-a-level-computer-science-advanced-algorithms-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
@@ -8992,8 +9046,74 @@ review.
 | `oxfordaqa-a-level-computer-science-theory-of-computation-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
 | `oxfordaqa-a-level-computer-science-theory-of-computation-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
 | `oxfordaqa-a-level-computer-science-theory-of-computation` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-computer-science-computer-networks-study-guide` | oxfordaqa igcse computer-science (9210) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-computer-science-computer-systems-study-guide` | oxfordaqa igcse computer-science (9210) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-computer-science-cyber-security-study-guide` | oxfordaqa igcse computer-science (9210) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-computer-science-data-representation-study-guide` | oxfordaqa igcse computer-science (9210) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide` | oxfordaqa igcse computer-science (9210) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-computer-science-web-page-design-study-guide` | oxfordaqa igcse computer-science (9210) | study-guides | UNVERIFIED | 0 |
 
-## No eligible teacher — 292
+## Azam Siddique (`azam-siddique`) — 16
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-world-history-depth-study-european-interwar-study-guide` | cambridge a-level world-history (9489) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-world-history-depth-study-international-history-study-guide` | cambridge a-level world-history (9489) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-world-history-depth-study-usa-study-guide` | cambridge a-level world-history (9489) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-world-history-historical-interpretations-study-guide` | cambridge a-level world-history (9489) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide` | cambridge igcse environmental-management (0680) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-environmental-management-human-population-study-guide` | cambridge igcse environmental-management (0680) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-environmental-management-natural-hazards-study-guide` | cambridge igcse environmental-management (0680) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-environmental-management-the-atmosphere-and-human-activities-study-guide` | cambridge igcse environmental-management (0680) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide` | cambridge o-level environmental-management (5014) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-environmental-management-human-population-study-guide` | cambridge o-level environmental-management (5014) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-environmental-management-natural-hazards-study-guide` | cambridge o-level environmental-management (5014) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-environmental-management-the-atmosphere-and-human-activities-study-guide` | cambridge o-level environmental-management (5014) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-environmental-management-water-study-guide` | cambridge o-level environmental-management (5014) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-world-history-hl-options-depth-studies-study-guide` | ib ib-dp world-history (DP History) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-world-history-prescribed-subjects-study-guide` | ib ib-dp world-history (DP History) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-world-history-world-history-topics-study-guide` | ib ib-dp world-history (DP History) | study-guides | UNVERIFIED | 0 |
+
+## Ammar Bilal (`ammar-bilal`) — 14
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-gcse-english-language-spoken-language-study-guide` | aqa gcse english (8700) | study-guides | UNVERIFIED | 1 |
+| `aqa-gcse-english-literature-skills-study-guide` | aqa gcse english-literature (8702) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide` | cambridge a-level english-literature (9695) | study-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-english-literature-component-5-coursework-study-guide` | cambridge igcse english-literature (0475) | study-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-english-literature-unit-3-poetry-and-prose-study-guide` | edexcel a-level english-literature (YET01) | study-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-english-literature-unit-4-shakespeare-and-pre-1900-poetry-study-guide` | edexcel a-level english-literature (YET01) | study-guides | UNVERIFIED | 0 |
+| `edexcel-igcse-english-language-spoken-language-endorsement-study-guide` | edexcel igcse english (4EA1) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide` | oxfordaqa a-level english (9670) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide` | oxfordaqa a-level english (9670) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide` | oxfordaqa a-level english-literature (9675) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide` | oxfordaqa a-level english-literature (9675) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-english-language-non-exam-assessment-study-guide` | oxfordaqa igcse english (9270) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide` | oxfordaqa igcse english (9270) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-english-literature-route-b-poetry-and-non-exam-assessment-study-guide` | oxfordaqa igcse english-literature (9275) | study-guides | UNVERIFIED | 0 |
+
+## Lubna Waseem (`lubna-waseem`) — 6
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-gcse-english-language-spoken-language-study-guide` | aqa gcse english (8700) | study-guides | UNVERIFIED | 1 |
+| `edexcel-igcse-english-language-spoken-language-endorsement-study-guide` | edexcel igcse english (4EA1) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide` | oxfordaqa a-level english (9670) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide` | oxfordaqa a-level english (9670) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-english-language-non-exam-assessment-study-guide` | oxfordaqa igcse english (9270) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide` | oxfordaqa igcse english (9270) | study-guides | UNVERIFIED | 1 |
+
+## Aizaz Raoof Ali (`aizaz-raoof-ali`) — 4
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-law-human-rights-study-guide` | aqa a-level law (7162) | study-guides | UNVERIFIED | 0 |
+| `aqa-a-level-law-law-of-contract-study-guide` | aqa a-level law (7162) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-law-law-of-contract-study-guide` | cambridge a-level law (9084) | study-guides | UNVERIFIED | 0 |
+| `cambridge-a-level-law-law-of-tort-study-guide` | cambridge a-level law (9084) | study-guides | UNVERIFIED | 0 |
+
+## No eligible teacher — 298
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
@@ -9118,6 +9238,12 @@ is not a review and does not change their status.
 | `ib-dp-psychology-exam-preparation` | ib ib-dp psychology (DP Psychology) | exam-preparation | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-psychology-subject-guide` | ib ib-dp psychology (DP Psychology) | subject-guides | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-psychology-syllabus-guide` | ib ib-dp psychology (DP Psychology) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
+| `ib-ib-dp-psychology-abnormal-psychology-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-psychology-developmental-psychology-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-psychology-health-psychology-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-psychology-psychology-of-human-relationships-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-psychology-sociocultural-approach-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
 | `ib-myp-design-assessment-revision-notes` | ib ib-myp myp-design (MYP Design) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-myp-design-criteria-in-practice-practice` | ib ib-myp myp-design (MYP Design) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-myp-design-criteria-in-practice-revision-notes` | ib ib-myp myp-design (MYP Design) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |

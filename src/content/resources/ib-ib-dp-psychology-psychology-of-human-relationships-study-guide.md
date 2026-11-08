@@ -1,5 +1,5 @@
 ---
-title: "IB DP Psychology (DP Psychology 2019 / 2027): Option: Psychology of human relationships -- Study Guide"
+title: "IB DP Psychology: Option: Psychology of human relationships -- Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]

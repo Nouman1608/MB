@@ -1,5 +1,5 @@
 ---
-title: "IB DP Psychology (DP Psychology 2019 / 2027): Option: Health psychology -- Study Guide"
+title: "IB DP Psychology: Option: Health psychology -- Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
