@@ -16,9 +16,9 @@
  * ids are `4-<n>`. Ids are permanent: add a card with the next unused n in its
  * block, never renumber.
  *
- *   src: '...'  The card restates that revision-notes page; origin 'revision-notes'.
- *
- * Written from Marlbridge's 4EA1 study guides and revision notes. Not tiered.
+ * Written from Marlbridge's 4EA1 study guides and revision notes; no
+ * revision-notes page maps to a single section, so every card is authored.
+ * Not tiered.
  * Plain text only (see types.ts).
  */
 import type { Flashcard, FlashcardDeck } from './types.ts';
