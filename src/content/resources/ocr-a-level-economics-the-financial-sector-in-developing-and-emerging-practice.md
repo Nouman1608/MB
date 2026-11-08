@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-financial-sector-ocr-alevel-economics"
 description: "Original OCR A Level Economics (H460) practice questions with worked answers on Harrod-Domar, microfinance, capital flows, debt and remittances."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

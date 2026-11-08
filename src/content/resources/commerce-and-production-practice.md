@@ -23,9 +23,10 @@ syllabusTopics:
     subtopic: "wholesaling-0715"
 description: "Original exam-style practice questions with full worked answers on production, commerce, trade, aids to trade and the chain of distribution."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-08-22
 featured: false
 ---

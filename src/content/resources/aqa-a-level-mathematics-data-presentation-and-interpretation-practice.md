@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "l-data-presentation-and-interpretation-aqa-alevel-maths"
 description: "Original practice questions on AQA A-Level Maths Section L: histograms, correlation, standard deviation and outliers, with fully worked answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

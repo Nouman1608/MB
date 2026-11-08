@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-assumptions-edexcel-igcse-economics"
 description: "Study guide to scarcity, opportunity cost, the production possibility frontier and economic assumptions for Pearson Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 1.1.1 (The economic problem) and 1.1.2 (Economic assumptions) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. It is a single-tier qualification, so everything here is for every candidate. The content sits in Paper 1: Microeconomics and Business Economics, and the specification says topics can be interrelated. All figures below are invented and illustrative.

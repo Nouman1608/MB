@@ -23,11 +23,12 @@ syllabusTopics:
     subtopic: "section-b-childrens-language-development-7702"
 description: "Condensed notes on AQA A-Level English Language 7702 Paper 1: exam structure, analysis methods, representation and children's language development."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: corrected Section B (one essay from a choice of two on children's language development, not a generic data question) and the AS 7701 note; expanded CLD content and added FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: corrected Section B (one essay from a choice of two on children's language development, not a generic data question) and the AS 7701 note; expanded CLD content and added FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 **What is AQA A-level English Language Paper 1?** Paper 1, Language, the Individual and Society, is a

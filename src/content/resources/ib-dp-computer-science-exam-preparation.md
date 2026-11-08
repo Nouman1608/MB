@@ -10,9 +10,10 @@ syllabusCodes: ["DP Computer Science"]
 order: 1
 description: "How to prepare for IB DP Computer Science Papers 1 and 2: using the pre-seen case study, practising Java or Python for Paper 2, trace tables and a checklist."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-09-07
 featured: false
 ---

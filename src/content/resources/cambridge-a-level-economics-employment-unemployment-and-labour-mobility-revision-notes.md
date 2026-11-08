@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "employment-unemployment-cambridge-alevel-economics"
 description: "Condensed revision notes on full employment, hysteresis, the natural rate, labour mobility and unemployment policies for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 9.3 (Employment/unemployment), outcomes 9.3.1 to 9.3.7, of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 9 is A Level content only and is not examined at AS. For full explanations read the [study guide](/resources/cambridge-a-level-economics-employment-unemployment-and-labour-mobility/), then test yourself with the [practice questions](/resources/cambridge-a-level-economics-employment-unemployment-and-labour-mobility-practice/). Track coverage on the [course hub](/boards/cambridge/a-level/economics/) and the [checklist](/checklists/cambridge/a-level/economics/), and use a [free 10-minute diagnostic](/diagnostics/) to find weak spots. All figures here are invented for illustration and are not real statistics.

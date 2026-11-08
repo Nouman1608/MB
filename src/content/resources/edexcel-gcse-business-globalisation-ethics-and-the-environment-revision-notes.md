@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "ethics-the-environment-and-business-1bs0"
 description: "Condensed revision notes on globalisation, tariffs, trade blocs, ethics, the environment and pressure groups for Edexcel GCSE Business Theme 2, topic 2.1."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Theme 2: Building a business, topic 2.1 Growing the business, items 2.1.3 and 2.1.4, of the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. For full explanations and worked examples, read the [study guide](/resources/edexcel-gcse-business-globalisation-ethics-and-the-environment/). When you are ready to test yourself, use the [practice questions](/resources/edexcel-gcse-business-globalisation-ethics-and-the-environment-practice/). Course links: the [Edexcel GCSE Business hub](/boards/edexcel/gcse/business/), the [printable checklist](/checklists/edexcel/gcse/business/) and the [free diagnostics](/diagnostics/). Every business and figure here is invented.

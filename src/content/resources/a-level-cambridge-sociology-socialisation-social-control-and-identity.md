@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "social-identity-and-change-9699"
 description: "Cambridge 9699 Paper 1 sections 1.1-1.3 explained: socialisation, nature and nurture, conformity, deviance, resistance and changing social identities."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Socialisation is the lifelong process through which people learn the culture of their society, and

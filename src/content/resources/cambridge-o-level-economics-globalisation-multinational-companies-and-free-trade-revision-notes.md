@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "globalisation-free-trade-and-protection"
 description: "Condensed revision notes on globalisation, MNCs and the benefits of free trade, with a self-test, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 6.2.1 to 6.2.3 of the Cambridge O Level Economics 2281 syllabus for examination in 2026: globalisation, multinational companies (MNCs) and the benefits of free trade. The [study guide](/resources/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade/) has the full explanations. Test yourself afterwards with the [practice questions](/resources/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade-practice/). Protection (6.2.4 to 6.2.6) is covered separately. Course links: [hub](/boards/cambridge/o-level/economics/), [checklist](/checklists/cambridge/o-level/economics/) and [free 10-minute diagnostics](/diagnostics/). All figures are invented and illustrative.

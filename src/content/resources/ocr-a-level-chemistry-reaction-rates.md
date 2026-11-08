@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-3-2-2"
 description: "Study guide to OCR A Level Chemistry A 3.2.2 Reaction rates: collision theory, rates from graph gradients, catalysts and Boltzmann distributions."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.2.2, Reaction rates, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. Within Module 3, 3.2.2 has lettered outcomes (a) to (g), and this page teaches each one. H432 is the full A level. OCR's assessment overview puts Module 3 content into Periodic table, elements and physical chemistry (01), and also into Unified chemistry (03), which samples every module.

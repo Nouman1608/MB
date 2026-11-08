@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "policies-to-correct-balance-of-payments-disequilibrium-cambridge-alevel-economics"
 description: "Study guide to balance of payments accounts and the policies that correct disequilibrium, with worked calculations, for Cambridge 9708 A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 11.1 (Policies to correct disequilibrium in the balance of payments), outcomes 11.1.1 to 11.1.3, of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topics 1 to 6 are AS Level content and topics 7 to 11 are A Level content, so this unit is A Level only. The AS content, including the current account, is assumed knowledge. All countries and figures below are made up as illustrations and are not real statistics. Money is in billions of krona units (bn ku) unless stated.

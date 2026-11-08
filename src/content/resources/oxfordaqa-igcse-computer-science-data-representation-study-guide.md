@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "data-representation-9210"
 description: "OxfordAQA International GCSE Computer Science 9210 guide: number bases to 255, binary addition and shifts, ASCII, Unicode, bitmaps, sound, Huffman and RLE."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check whether the 9210 specification requires Huffman coding or only run-length encoding, and whether hexadecimal is limited to 8-bit values. 2026-11-08 recheck: checked against spec v3.3 section 3.3: Huffman and RLE both required, conversions 0-255, decimal prefixes only; added Huffman section and worked example, removed off-spec overflow/metadata/stereo; please re-review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check whether the 9210 specification requires Huffman coding or only run-length encoding, and whether hexadecimal is limited to 8-bit values. 2026-11-08 recheck: checked against spec v3.3 section 3.3: Huffman and RLE both required, conversions 0-255, decimal prefixes only; added Huffman section and worked example, removed off-spec overflow/metadata/stereo; please re-review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

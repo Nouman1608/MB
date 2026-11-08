@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "implementing-a-strategy-oxfordaqa-alevel-business"
 description: "Study guide for OxfordAQA A-level Business 9725 section 3.4.5: implementation factors, network analysis with float, strategic planning and drift."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide is written to the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. It teaches section 3.4.5 Implementing a strategy, which sits inside 3.4 Business strategy and is **International A-level only** content. If you are completing the older 9625 specification, work from your own specification instead of this page. All businesses here are invented.

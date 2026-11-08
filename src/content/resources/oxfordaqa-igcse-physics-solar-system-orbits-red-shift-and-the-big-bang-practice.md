@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "red-shift-and-the-expanding-universe"
 description: "Original practice questions with worked answers on orbits, satellites, red shift, CMBR and the Big Bang for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

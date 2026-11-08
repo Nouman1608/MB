@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-failure-and-government-intervention-in-markets-oxfordaqa-alevel-economics"
 description: "Study guide to government intervention in markets and government failure for OxfordAQA International AS and A-level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide follows the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. It covers sections 3.1.5.7 (government intervention in markets) and 3.1.5.8 (government failure). Both sit inside section 3.1, which the specification lists as International AS content. All the figures are invented and the countries and markets are illustrative.
 

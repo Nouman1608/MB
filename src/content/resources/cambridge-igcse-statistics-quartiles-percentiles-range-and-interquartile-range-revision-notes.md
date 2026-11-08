@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "quartiles-percentiles-and-measures-of-dispersion-0479"
 description: "Condensed revision notes on quartiles, percentiles, range and IQR from lists, tables and cumulative frequency graphs, for Cambridge IGCSE Statistics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Quick recall for Cambridge IGCSE Statistics (0479), syllabus for examination in 2027, Topic 5 outcomes 5.1 to 5.5. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range/), then test yourself with the [practice questions](/resources/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range-practice/). Related pages: the [course hub](/boards/cambridge/igcse/statistics/), the [checklist](/checklists/cambridge/igcse/statistics/), [Frequency Distributions](/resources/igcse-cambridge-statistics-frequency-distributions/) for building cumulative frequency, and the [free diagnostics](/diagnostics/).

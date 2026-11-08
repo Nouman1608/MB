@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-carbonyls-carboxylic-acids-and-chirality-ych11"
 description: "Revision notes for Edexcel IAL Chemistry Topic 15E: accurate Mr, 13C and 1H NMR, splitting patterns, Rf values, HPLC and GC, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, read the [spectroscopy and chromatography study guide](/resources/edexcel-ial-chemistry-spectroscopy-and-chromatography/) first; this page is the short version for final revision.

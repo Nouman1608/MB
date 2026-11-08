@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-and-newtons-laws-ocr-alevel-maths"
 description: "Study guide to forces, Newton's three laws, weight, normal reaction and equilibrium on a straight line for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide follows the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers section 3.03 (Forces and Newton's Laws), items 3.03a to 3.03k, with the vector form of the second law (3.03d) and the extension to resolved forces (3.03e, **A Level only**). The remaining parts of 3.03k (connected particles and smooth pulleys) are taught in a separate unit, as are two-dimensional equilibrium and friction. Next: [revision notes](/resources/ocr-a-level-mathematics-newtons-laws-weight-and-equilibrium-in-one-dimension-revision-notes/) and [practice questions](/resources/ocr-a-level-mathematics-newtons-laws-weight-and-equilibrium-in-one-dimension-practice/). Course hub: [OCR A Level Mathematics](/boards/ocr/a-level/mathematics/). Printable [checklist](/checklists/ocr/a-level/mathematics/). The free [10-minute diagnostics](/diagnostics/) show where to start.

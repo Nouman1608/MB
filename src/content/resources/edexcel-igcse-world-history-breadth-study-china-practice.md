@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-china-4hi1"
 description: "Original Paper 2 Section B-style questions on China, 1900–89 for Edexcel IGCSE History 4HI1: the Qing, the CCP's rise, Mao and Deng, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

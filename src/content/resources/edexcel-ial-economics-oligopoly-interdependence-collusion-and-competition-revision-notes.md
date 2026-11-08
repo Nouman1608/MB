@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-structures-and-contestability-edexcel-alevel-economics"
 description: "Condensed revision notes on oligopoly, game theory, collusion and price and non-price competition for Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.3.3 item 5, points a to g (oligopoly), of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. The specification labels Unit 3, Business behaviour, an IAL compulsory unit: it is the extra International A2 content, not part of the International AS. Full explanations and longer examples are in the [study guide](/resources/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition/). Test yourself with the [practice questions](/resources/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition-practice/). See also the [course hub](/boards/edexcel/a-level/economics/), the [checklist](/checklists/edexcel/a-level/economics/) and the [diagnostics](/diagnostics/). All figures are invented.

@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "articles-faith-pillars-0493"
 description: "Original practice paper in the Cambridge IGCSE Islamiyat 0493 Paper 2 format: set Hadiths, their compilation, Abu Bakr, angels and zakat, with mark guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "uses-and-hazards-ocr-gcse"
 description: "Study guide to contamination and irradiation, hazards by half-life, medical tracers and radiotherapy, fission and fusion for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. It covers statements P6.2a to P6.2e in topic P6.2, Uses and hazards. None of these statements is printed in bold, so all five are assessed in both Foundation and Higher Tier papers. P6.2b, P6.2c, P6.2d and P6.2e are marked in the specification as separate Physics only content (not in Combined Science), and are labelled that way below. Calculating the net decline after a whole number of half-lives (P6.1k) is Higher Tier only, so the worked examples that do it are labelled.

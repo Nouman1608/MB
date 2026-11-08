@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "partnership-accounts-oxfordaqa"
 description: "Study guide to OxfordAQA A-Level Accounting partnership accounts: appropriation, capital and current accounts, goodwill, admission and retirement."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide teaches section 3.2.5, Partnership accounts, from the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. The whole section is International A-level only content. The specification lists sections 3.2.4 to 3.2.10 as the content assessed in Paper 3: Financial Accounting. All figures are in dollars, and every partner and business here is invented.

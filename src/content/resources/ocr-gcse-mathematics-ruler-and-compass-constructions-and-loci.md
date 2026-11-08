@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ruler-and-compass-constructions-ocr-gcse-maths"
 description: "Study guide to ruler-and-compass constructions and loci for OCR GCSE Mathematics J560: bisectors, perpendiculars, equidistant points and loci problems."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide follows section 8.02 (Ruler and compass constructions) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026): 8.02a to 8.02d. All of it is Foundation and Higher content, so no part of it is restricted to the Higher tier. The specification says any content may be assessed on either the calculator or the non-calculator papers. Constructions are done by hand, with a ruler and a pair of compasses.

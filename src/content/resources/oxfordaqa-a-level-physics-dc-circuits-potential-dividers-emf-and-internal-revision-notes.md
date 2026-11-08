@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "electromotive-force-and-internal-resistance-oxfordaqa"
 description: "Condensed revision notes, formulae and a self-test on circuits, potential dividers and emf for OxfordAQA International AS and A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes are aligned to the *OxfordAQA International AS and A-level Physics (9630)* specification, Version 4.4, sections 3.4.4, 3.4.5 and 3.4.6 (shared International AS and A-level content), for exams May/June 2020 onwards. The [study guide](/resources/oxfordaqa-a-level-physics-dc-circuits-potential-dividers-emf-and-internal/) explains each idea in full with longer worked examples. The [practice set](/resources/oxfordaqa-a-level-physics-dc-circuits-potential-dividers-emf-and-internal-practice/) lets you test yourself. Related pages: [course page](/boards/oxfordaqa/a-level/physics/), [checklist](/checklists/oxfordaqa/a-level/physics/) and [free diagnostics](/diagnostics/).

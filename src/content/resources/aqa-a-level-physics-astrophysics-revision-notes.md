@@ -24,9 +24,13 @@ syllabusTopics:
     subtopic: "cosmology-aqa-alevel"
 description: "Condensed AQA A-Level Physics 7408 Astrophysics revision notes: formula table, method steps, key distinctions and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 These notes condense section 3.9 Astrophysics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.9.1 to 3.9.3. Astrophysics is one of the five options (sections 3.9 to 3.13); you study one, assessed in Paper 3 Section B. It is A-level only. For full explanations and worked examples, read the [Astrophysics study guide](/resources/aqa-a-level-physics-astrophysics/) first.

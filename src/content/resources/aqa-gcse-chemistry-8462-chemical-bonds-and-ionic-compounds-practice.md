@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "ionic-compounds-8462"
 description: "Twelve original AQA GCSE Chemistry 8462 questions on bond types, giant ionic lattices, diagram limits and empirical formulae, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

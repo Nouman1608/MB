@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "solving-equations-and-inequalities-oxfordaqa-igcse-maths"
 description: "Study guide to inequalities for OxfordAQA International GCSE Maths (9260), A23: number lines, quadratic inequalities and graph regions, worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide covers reference **A23** in section 3.2.3 (Solving equations and inequalities) of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams from May/June 2018 onwards. The specification lists Core content and extra Extension content. Core content can also be assessed on the Extension papers, so you need it at both levels. The Extension-only parts are labelled **Extension only** below.

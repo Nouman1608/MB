@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "section-a-diversity-and-change-7702"
 description: "Sociolects, dialects, language change and how context shapes variation: 3.2.1 Language diversity and change for Paper 2 of AQA A-Level English Language 7702."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: section numbering changed from the spec PDF's 4.2.1 to the site's 3.2.1 with a note explaining both; description shortened; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: section numbering changed from the spec PDF's 4.2.1 to the site's 3.2.1 with a note explaining both; description shortened; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers **3.2.1 Language Diversity and Change** (4.2.1 in the specification PDF), the content

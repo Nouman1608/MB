@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "marketing-strategy"
 description: "Study guide to marketing strategy for Cambridge O Level Business 7115: choosing the mix, legal controls and foreign markets, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.4 (Marketing strategy) of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It teaches every content point the syllabus lists for 3.4.1, 3.4.2 and 3.4.3. The syllabus says that each written paper (Paper 1, Short Answer and Data Response, and Paper 2, Case Study) assesses content from the entire syllabus, so strategy questions can appear on either paper.

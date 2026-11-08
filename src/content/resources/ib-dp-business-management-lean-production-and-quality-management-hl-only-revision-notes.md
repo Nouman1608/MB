@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-3"
 description: "Condensed IB DP Business Management 5.3 (HL only) revision notes: lean production, kaizen, JIT, quality methods, TQM, standards and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for section 5.3, Lean production and quality management (HL only), in Unit 5 of the IB *Business management guide*, first assessment 2024. For full explanations and worked examples, read the [study guide](/resources/ib-dp-business-management-lean-production-and-quality-management-hl-only/). Test yourself with the [practice questions](/resources/ib-dp-business-management-lean-production-and-quality-management-hl-only-practice/). The course hub is [IB DP Business Management](/boards/ib/ib-dp/business/), the printable list is the [syllabus checklist](/checklists/ib/ib-dp/business/), and the [free diagnostics](/diagnostics/) help you pick weak areas.

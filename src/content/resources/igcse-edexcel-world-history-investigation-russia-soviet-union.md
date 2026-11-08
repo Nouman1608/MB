@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "investigation-russia-soviet-union-4hi1"
 description: "Study guide to Investigation A2, Russia 1905–24, for Edexcel IGCSE History 4HI1: 1905, Stolypin, February 1917, October, the Civil War and the NEP."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates (old and new style) against a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates (old and new style) against a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

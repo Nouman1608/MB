@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "the-interaction-of-demand-and-supply-cambridge-alevel-economics"
 description: "Original practice questions with worked answers on shifts, equilibrium, related markets and the functions of price for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

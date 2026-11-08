@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "liberalism-nationalism-germany-9489"
 description: "Study guide to Cambridge 9489 History AS topic 2, Germany 1815-71: the Confederation, the 1848-49 revolutions, Bismarck and the wars of unification."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check dates of the 1848-50 and 1863-71 events against standard texts and the 9489 2027-2029 syllabus before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check dates of the 1848-50 and 1863-71 events against standard texts and the 9489 2027-2029 syllabus before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

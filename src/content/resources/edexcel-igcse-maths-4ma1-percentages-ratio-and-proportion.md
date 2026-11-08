@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "ratio-and-proportion-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths 4MA1 sections 1.6 and 1.7: percentages, reverse percentages, compound interest, ratio, direct proportion, map scales."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches sections 1.6 (Percentages) and 1.7 (Ratio and proportion) of topic 1, Numbers and the number system, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. Section 1.6 has Foundation content that both tiers need plus two statements marked **Higher tier only**. Section 1.7 is the same for both tiers.

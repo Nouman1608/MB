@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "origins-development-cold-war-9489"
 description: "Paper 3 revision notes for Cambridge 9489 History: schools of thought on the First World War, the Holocaust and the Cold War and the 40-mark extract skill."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the historians and dates against the 2027-2029 syllabus content lists and a recent Paper 3 mark scheme before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the historians and dates against the 2027-2029 syllabus content lists and a recent Paper 3 mark scheme before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

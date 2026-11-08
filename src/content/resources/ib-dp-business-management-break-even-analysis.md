@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-5"
 description: "Study guide to IB DP Business Management section 5.5: break-even chart, margin of safety, target profit and price, effects of changes and limitations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 5.5 (Break-even analysis) of the IB *Business management guide*, first assessment 2024. The section sits in Unit 5 (Operations management) and applies to both SL and HL, because the guide does not mark any of it as HL only. The guide asks for total contribution versus contribution per unit, a break-even chart with six aspects of break-even analysis, the effects of changes in price or cost using graphical and quantitative methods, and the limitations of break-even as a decision-making tool. The depth-of-teaching labels are AO2 and AO4 for the calculations and chart, and AO3 for the limitations.

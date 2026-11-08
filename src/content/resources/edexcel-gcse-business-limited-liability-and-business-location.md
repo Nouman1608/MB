@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "business-location-1bs0"
 description: "Study guide to limited and unlimited liability, sole traders, partnerships, private limited companies, franchising and location, for Edexcel GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 1, Topic 1.4 Making the business effective, content items 1.4.1 (the options for start-up and small businesses) and 1.4.2 (business location). The specification lists formulae in Appendix 3 and says they are not provided in the examinations, so any calculation on this page is something to practise from memory. Points on partner liability, the Ltd name, personal guarantees, share rules and franchise fee structure are general knowledge, not specification wording, and are worded as general.

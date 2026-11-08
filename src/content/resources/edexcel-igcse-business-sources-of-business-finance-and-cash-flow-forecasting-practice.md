@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "cash-flow-forecasting-4bs1"
 description: "Original practice questions with worked answers on sources of finance, cash versus profit and cash-flow forecasts for Edexcel IGCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

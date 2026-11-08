@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "calculating-and-explaining-energy-change-9202"
 description: "Original practice questions with worked answers for OxfordAQA IGCSE Chemistry (9202) 3.9.1-3.9.2: calorimetry, energy diagrams and bond energies."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "corporate-house-style-t14-0417"
 description: "Original exam-style questions and practical tasks with answers on creating, modifying and applying styles and house style for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 14: creating, editing and applying styles (font, alignment, enhancement, spacing and bullets) and the purpose and uses of a corporate house style. Styles are tested practically in Papers 2 and 3, so the page includes practical-style tasks with an examiner-style checklist as well as theory questions.

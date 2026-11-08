@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "single-and-multi-dimensional-arrays-7517"
 description: "Practice questions with worked answers for AQA A-Level Computer Science 7517 sections 4.2.1.1 and 4.2.1.2: defining data structures and 1-D and 2-D arrays."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-09-03
 featured: false
 ---

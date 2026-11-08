@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-1"
 description: "Original SL and HL practice questions with worked answers on IB DP Physics D.1: Kepler's laws, Newton's law of gravitation, field strength and field lines."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

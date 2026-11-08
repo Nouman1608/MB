@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s1-normal-distribution-edexcel-alevel-maths"
 description: "Condensed revision notes on the Normal distribution for Pearson Edexcel IAL Mathematics: methods, a quick self-test and the usual lost marks."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense the Normal distribution content from the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Specification Issue 3, April 2019. The content is section 6 of Statistics 1, numbered 5.1 in the specification, and S1 is an optional unit for IAS and IAL Mathematics and Further Mathematics. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and/).

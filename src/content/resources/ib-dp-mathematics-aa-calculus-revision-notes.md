@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
 description: "Revision notes on the Calculus strand of IB DP Mathematics: Analysis and Approaches: differentiation rules, applications, integration and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 Calculus is the largest of the five content strands at HL (55 hours, versus 28 at SL), and together

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-2-3"
 description: "Study guide to IB DP Chemistry Structure 2.3, the metallic model: bonding, conductivity, malleability, melting trends and HL transition elements."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Here you will learn **Structure 2.3, The metallic model**, as described by the IB Diploma Programme *Chemistry guide* (February 2023 edition; first examined in 2025). The page works through Structure 2.3.1, 2.3.2 and 2.3.3 in order. The first two are studied at **both SL and HL**. The third, on transition elements, sits in the additional higher level (AHL) part of the sub-topic, so it is **HL only**. The guiding question asks what decides whether an element behaves as a metal, and what gives metals their properties.

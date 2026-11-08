@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "genetically-modified-organisms-in-agriculture-cambridge"
 description: "Original Cambridge 9700 practice questions on gene transfer, PCR, gel electrophoresis, microarrays, gene therapy and GM crops, with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

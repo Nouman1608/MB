@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "biodiversity-ocr-alevel-biology"
 description: "Original practice questions on sampling, richness and evenness, Simpson's Index and genetic diversity for OCR A Level Biology A (H420), with answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

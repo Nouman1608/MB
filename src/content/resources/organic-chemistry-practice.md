@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "naming-organic-compounds"
 description: "Original exam-style practice questions with full worked answers on homologous series, isomerism, alkanes, alkenes and alcohols for IGCSE Chemistry."
 author: "nouman-ahmed"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

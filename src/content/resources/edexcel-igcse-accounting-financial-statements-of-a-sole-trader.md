@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "financial-statements-of-a-sole-trader-4ac1"
 description: "Step-by-step guide to a sole trader's income statement and statement of financial position, with two worked examples, for Edexcel IGCSE Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide covers section 4.1, Financial statements of a sole trader, from Topic 4 (The preparation of financial statements) in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The specification lists no tier labels against these points. Topic 4 sits in Paper 2, Financial Statements, which also builds on the knowledge from topics 1 to 3, so you are expected to read a trial balance and know double entry before you start here.

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "diffraction-oxfordaqa-alevel"
 description: "Condensed revision notes on path difference, Young's slits, single-slit diffraction and gratings for OxfordAQA International AS and A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense sections 3.5.6 (Interference) and 3.5.7 (Diffraction) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. Both are shared content for International AS and A-level. For full explanations and derivations, read the [study guide](/resources/oxfordaqa-a-level-physics-interference-and-diffraction-double-slits-and-gratings/), then test yourself with the [practice set](/resources/oxfordaqa-a-level-physics-interference-and-diffraction-double-slits-and-gratings-practice/). Course pages: [physics hub](/boards/oxfordaqa/a-level/physics/) and [checklist](/checklists/oxfordaqa/a-level/physics/). To find weak spots first, try the free [10-minute diagnostics](/diagnostics/).

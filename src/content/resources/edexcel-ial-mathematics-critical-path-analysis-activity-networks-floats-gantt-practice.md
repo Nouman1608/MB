@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "d1-critical-path-analysis-edexcel-alevel-maths"
 description: "Eleven original questions with worked answers on activity networks, dummies, float, cascade charts and scheduling for Pearson Edexcel IAL Maths D1."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

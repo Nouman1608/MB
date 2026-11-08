@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "the-digital-divide"
 description: "Revision notes on the digital divide for Cambridge AS & A Level IT 9626: definition, causes, effects, groups affected and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 For full explanations and worked examples, read the [study guide on the digital divide](/resources/a-level-cambridge-ict-the-digital-divide/) first. These notes are for quick recall in the final weeks.

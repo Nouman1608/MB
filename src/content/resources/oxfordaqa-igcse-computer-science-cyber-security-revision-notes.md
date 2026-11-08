@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "cyber-security-9210"
 description: "Recall notes on cyber security threats, social engineering, malware, penetration testing and prevention methods for OxfordAQA International GCSE 9210."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Cyber security (topic 3.6 of OxfordAQA International GCSE Computer Science 9210) is about the threats to

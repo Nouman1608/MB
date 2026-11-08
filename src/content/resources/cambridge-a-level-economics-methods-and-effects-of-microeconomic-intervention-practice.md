@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "methods-and-effects-of-government-intervention-in-markets-cambridge-alevel-economics"
 description: "Original practice questions with worked answers on taxes, subsidies, price controls, buffer stocks and information for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

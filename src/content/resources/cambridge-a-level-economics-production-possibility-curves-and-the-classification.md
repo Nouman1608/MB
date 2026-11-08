@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "classification-of-goods-and-services-cambridge-alevel-economics"
 description: "Study guide to production possibility curves and the classification of goods for Cambridge AS and A Level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 1.5 and 1.6 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 1 is AS Level content, and the syllabus says AS Level content is assumed knowledge for A Level Papers 3 and 4. Every firm, country and figure below is invented for illustration. Money is in currency units (cu).

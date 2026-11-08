@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "business-plan-ocr-alevel-business"
 description: "Study guide to strategy, implementation, business plans, Plan-Do-Review and strategic review for OCR A Level Business H431, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide is aligned to the OCR A Level Business (H431) specification, Version 2.1 (January 2026). It covers the "Strategy and implementation" and "Business plan" content within the area of study "Business objectives and strategy", which sits in the unit Business objectives and strategic decisions. The specification is for first assessment in 2017, with final assessment in summer 2027. Pair it with the [revision notes](/resources/ocr-a-level-business-strategy-and-implementation-and-business-plan-revision-notes/) and the [practice questions](/resources/ocr-a-level-business-strategy-and-implementation-and-business-plan-practice/). The wider unit is in the [objectives and strategic decisions guide](/resources/ocr-a-level-business-objectives-and-strategic-decisions/), and the [earlier practice set](/resources/a-business-strategy-practice/) tests Ansoff, Porter and SWOT, which this page does not repeat. Course hub: [OCR A Level Business](/boards/ocr/a-level/business/). Printable list: [checklist](/checklists/ocr/a-level/business/). To find weak spots first, try the [free diagnostics](/diagnostics/).
 

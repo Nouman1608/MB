@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "communication-0715-commerce"
 description: "Recall notes on outsourcing growth, wholesaler functions and survival, and communication types, methods and choice factors for Cambridge IGCSE Commerce 0715."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check examples against the 0715 syllabus for 2028 and examiner guidance before review. 2026-11-08 recheck: added FAQ section to expand a thin page."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check examples against the 0715 syllabus for 2028 and examiner guidance before review. 2026-11-08 recheck: added FAQ section to expand a thin page; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-08
 featured: false
 ---

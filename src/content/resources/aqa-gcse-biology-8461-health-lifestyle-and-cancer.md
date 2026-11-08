@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "cancer-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 study guide to health and disease, risk factors, lifestyle and non-communicable disease, cancer and tumours, with worked data examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Health is the state of physical and mental well-being, and the AQA GCSE Biology (8461) specification asks you to

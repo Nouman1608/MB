@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "extraction-and-uses-of-metals-4ch1"
 description: "Condensed revision notes on extracting metals, uses of aluminium, copper and steels, and alloys for Edexcel IGCSE Chemistry 4CH1, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Condensed recall for the final weeks. For full explanations and worked examples, use the [extraction and uses of metals study guide](/resources/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals/).

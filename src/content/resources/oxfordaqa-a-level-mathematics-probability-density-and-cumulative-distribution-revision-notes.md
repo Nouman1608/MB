@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-continuous-random-variables-oxfordaqa-alevel-maths"
 description: "Condensed revision notes on pdf and cdf for OxfordAQA International A-level Maths: formulae, method steps, medians and quartiles, and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These are condensed notes for the first part of section S2.2 (Continuous random variables) of the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2. The content belongs to International A-level Unit S2 (Statistics) and is not examined at International AS. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-a-level-mathematics-probability-density-and-cumulative-distribution/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-probability-density-and-cumulative-distribution-practice/), tick topics off on the [checklist](/checklists/oxfordaqa/a-level/mathematics/), and see the [course hub](/boards/oxfordaqa/a-level/mathematics/). For a quick check of where you stand, try the [free diagnostics](/diagnostics/).
 

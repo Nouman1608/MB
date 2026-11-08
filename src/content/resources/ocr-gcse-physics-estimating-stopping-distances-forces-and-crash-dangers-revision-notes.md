@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "physics-on-the-move-ocr-gcse"
 description: "Condensed revision notes on estimating stopping distances, road forces and large accelerations, and on crash dangers, for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense the [full study guide](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers/) for OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0, July 2026, statements P8.1f to P8.1i. Only P8.1h is bold in the specification, so it is Higher Tier only; P8.1f, P8.1g and P8.1i are for both tiers. P8.1f, P8.1h and P8.1i are separate Physics only content (not in Combined Science). Test yourself with the [practice questions](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-practice/), tick off topics on the [checklist](/checklists/ocr/gcse/physics/), see the [course hub](/boards/ocr/gcse/physics/) and take a [free diagnostic](/diagnostics/).

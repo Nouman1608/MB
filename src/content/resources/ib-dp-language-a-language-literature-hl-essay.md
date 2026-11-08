@@ -19,11 +19,12 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-intertextuality"
 description: "Study guide to the IB DP Language and Literature HL essay: choosing a work, building a line of inquiry, research, drafting, structure and referencing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This study guide covers **the HL essay** in IB Diploma Programme Language A: Language and

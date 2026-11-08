@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "astrophysics-and-cosmology-ocr-alevel"
 description: "Study guide to star formation, stellar life cycles, white dwarfs, neutron stars, black holes and the HR diagram for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers section 5.5.1 (Stars), outcomes (a) to (g), of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026). It is full A level content. Spectra, Wien's law, Stefan's law and stellar radius (5.5.2) and distances, redshift and the Big Bang (5.5.3) are separate units and are not repeated here.
 

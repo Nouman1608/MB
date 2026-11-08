@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "globalisation-free-trade-and-protection"
 description: "Condensed revision notes on methods, reasons and consequences of protection, with a quick self-test, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 6.2.4 to 6.2.6 of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2: methods of protection, reasons for protection and consequences of protection. There are no tiers. For full explanations read the [study guide](/resources/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection/), then test yourself with the [practice questions](/resources/cambridge-o-level-economics-methods-reasons-and-consequences-of-protection-practice/). Other links: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/). All numbers below are invented and illustrative.

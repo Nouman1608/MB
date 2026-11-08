@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "macroeconomic-policy-oxfordaqa-alevel-economics"
 description: "Study guide to monetary policy for OxfordAQA International AS and A-level Economics: objectives, interest rates, exchange rates, QE and worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers monetary policy for OxfordAQA International AS and A-level Economics (9640), specification section 3.2.4.1, for exams from May/June 2021 (International AS) and May/June 2022 (International A-level). Everything here sits in International AS section 3.2, which the full International A-level also includes. All data are invented; the countries and currencies do not exist. Fiscal policy and supply-side policy are covered in their own sections.
 

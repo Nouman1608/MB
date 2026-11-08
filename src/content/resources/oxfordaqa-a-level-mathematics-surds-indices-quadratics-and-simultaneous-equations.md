@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-algebra-oxfordaqa-alevel-maths"
 description: "Study guide to surds, rational indices, quadratics, the discriminant, simultaneous equations and inequalities for OxfordAQA International AS Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches the first half of specification content P1.1 (Algebra) in the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International AS Unit P1 (Pure Maths, section 3.1) (no Core or Extension labels). It covers surds, indices, quadratics, simultaneous equations and inequalities. Polynomial division, the factor theorem and curve sketching are separate parts of P1.1 and are taught elsewhere.

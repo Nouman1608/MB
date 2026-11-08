@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "business-and-the-environment-0264"
 description: "Condensed revision notes for Cambridge IGCSE Business 0264 section 6.3: environmental harm, business responses and the effects of legal controls."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 6.3, **Business and the environment**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. The single syllabus point is 6.3.1, **Environmental issues**. Read the [study guide](/resources/igcse-business-0264-business-and-the-environment/) first for full explanations, then test yourself with the [practice questions](/resources/igcse-business-0264-business-and-the-environment-practice/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track progress, and the free [diagnostics](/diagnostics/) show gaps. All businesses and figures below are invented, and laws are described in general terms because they differ between countries.

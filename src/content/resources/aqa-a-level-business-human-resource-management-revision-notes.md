@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "human-resource-management-aqa-alevel-business"
 description: "Condensed AQA A-level Business 7132 revision notes on section 3.6 human resource management: formulas, models, distinctions and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.6, Decision making to improve human resource performance, of the AQA A-level Business specification (7132). Full explanations and worked examples are in the [study guide](/resources/aqa-a-level-business-human-resource-management/). Test yourself with the [practice questions](/resources/aqa-a-level-business-human-resource-management-practice/). Course hub: [AQA A-level Business](/boards/aqa/a-level/business/). Printable list: [checklist](/checklists/aqa/a-level/business/). Find weak spots with the [free diagnostics](/diagnostics/). Related: [managers, leadership and decision making](/resources/aqa-a-level-business-managers-leadership-decision-making/).

@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "unification-italy-4hi1"
 description: "Condensed notes on the unification of Italy, 1848–70 for Edexcel IGCSE History 4HI1: timeline, key people, key terms, factor comparison and common exam traps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the timeline dates and key-person entries against the 4HI1 specification and a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the timeline dates and key-person entries against the 4HI1 specification and a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

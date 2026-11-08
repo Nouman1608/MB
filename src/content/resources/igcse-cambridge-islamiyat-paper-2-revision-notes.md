@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "paper-2-0493"
 description: "Revision notes on the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam for Cambridge IGCSE Islamiyat 0493 Paper 2, 2026-2027."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-02
 featured: false
 ---

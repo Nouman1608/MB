@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "proofing-techniques-0417"
 description: "Spell checkers, grammar checkers, validation and proofreading techniques such as visual checking and double entry, for Cambridge IGCSE ICT 0417 Topic 15."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Proofing means checking a document or data for errors before it is finished or sent. Topic 15 of Cambridge IGCSE ICT 0417 has two parts: the **software tools** that help you find mistakes (15.1) and the **proofing techniques** that people use to catch what the tools miss (15.2). The key lesson is that software helps but never replaces a careful human check, so examination answers should use both.

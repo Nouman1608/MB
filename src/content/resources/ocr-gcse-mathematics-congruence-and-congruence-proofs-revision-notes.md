@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "congruence-ocr-gcse-maths"
 description: "Condensed revision notes on congruent triangles and proofs for OCR GCSE (9-1) Mathematics: SSS, SAS, ASA, RHS, proof layouts and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These are condensed revision notes for OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), content references 9.02a and 9.02b. Both tiers are covered and no content here is Higher tier only. For full explanations and longer worked proofs, read the [study guide](/resources/ocr-gcse-mathematics-congruence-and-congruence-proofs/). Test yourself afterwards with the [practice questions](/resources/ocr-gcse-mathematics-congruence-and-congruence-proofs-practice/). Course pages: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), [checklist](/checklists/ocr/gcse/mathematics/) and the [free diagnostics](/diagnostics/).
 

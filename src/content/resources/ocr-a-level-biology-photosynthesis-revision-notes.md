@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "photosynthesis-ocr-alevel-biology"
 description: "Condensed revision notes on photosynthesis for OCR A Level Biology A (H420) 5.2.1: pigments, light-dependent stage, Calvin cycle, limiting factors."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense learning outcomes 5.2.1(a) to 5.2.1(g) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. For full explanations go to the [study guide](/resources/ocr-a-level-biology-photosynthesis/), then test yourself with the [practice set](/resources/ocr-a-level-biology-photosynthesis-practice/).

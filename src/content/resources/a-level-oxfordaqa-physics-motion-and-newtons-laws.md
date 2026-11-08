@@ -19,9 +19,10 @@ syllabusTopics:
     subtopic: "newtons-laws-of-motion-oxfordaqa"
 description: "SUVAT equations, motion graphs and Newton's three laws with F = ma: sub-topics 3.2.3 and 3.2.5 of OxfordAQA International A-Level Physics (9630)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -9,11 +9,12 @@ syllabusCodes: ["DP Language B"]
 syllabusSeries: "First assessment 2020"
 description: "Overview of IB DP Language B, a course for students with some prior experience of the target language: five prescribed themes, aims, SL and HL and assessment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 Language acquisition in the IB Diploma Programme consists of two

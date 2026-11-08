@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "electrolysis-4ch1"
 description: "Study guide to electrolysis for Edexcel International GCSE Chemistry 4CH1: conduction, electrode products, half-equations and the required practical."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches sub-topic 1(i) Electrolysis of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024): statements 1.55C to 1.60C. The qualification is untiered. Every statement in 1(i) is printed in bold with a C reference, so the whole sub-topic is **Paper 2 only**. Chemistry Paper 2 (1 hour 15 minutes, 70 marks) assesses all the content; Paper 1 assesses only the content that is not in bold.

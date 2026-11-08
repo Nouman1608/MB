@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "m-probability-aqa-alevel-maths"
 description: "Study guide to AQA A-Level Maths Section M: mutually exclusive and independent events, conditional probability, trees, Venn diagrams and modelling."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches **Section M: Probability** (content references M1 to M3) of the **AQA

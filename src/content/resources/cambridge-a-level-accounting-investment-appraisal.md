@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "investment-appraisal"
 description: "Payback, accounting rate of return, NPV and IRR, cash flows versus profits, and non-financial factors, for Cambridge A Level Accounting 9706 section 4.4."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 This guide covers **4.4 Investment appraisal** (4.4.1), A Level content within Topic 4, Cost and management accounting, for the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. All businesses and figures are invented and all amounts are in dollars. Practise on the [practice questions](/resources/cambridge-a-level-accounting-investment-appraisal-practice/), condense the ideas with the [revision notes](/resources/cambridge-a-level-accounting-investment-appraisal-revision-notes/), and check your readiness with the free [diagnostics](/diagnostics/). See also the [course hub](/boards/cambridge/a-level/accounting/) and the printable [checklist](/checklists/cambridge/a-level/accounting/).

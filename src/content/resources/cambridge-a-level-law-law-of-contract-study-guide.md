@@ -27,9 +27,10 @@ syllabusTopics:
     subtopic: "remedies-for-breach-of-a-contract-9084"
 description: "Formation, contents, discharge and remedies in the law of contract, with cases and a worked damages problem, for Cambridge A Level Law."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the 9084 syllabus for the exact scope of 3.1 to 3.4, such as capacity, formalities, statutory implied terms and the cases and statutes expected."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the 9084 syllabus for the exact scope of 3.1 to 3.4, such as capacity, formalities, statutory implied terms and the cases and statutes expected; 2026-11-08: reviewed by aizaz-raoof-ali."
 publishedDate: 2026-11-08
 featured: false
 ---

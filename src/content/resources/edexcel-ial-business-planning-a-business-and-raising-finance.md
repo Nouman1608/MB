@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "planning-and-raising-finance-ybs11"
 description: "Study guide to business plans, internal and external finance, forms of business and liability for Edexcel International A Level Business, section 2.3.1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 2.3.1, Planning a business and raising finance, of Unit 2 (Managing business activities) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business (YBS11) specification, Issue 1, September 2017. It follows the five headings the specification lists: planning, internal finance, external finance, forms of business and liability. Amounts are in dollars. For the unit overview see the [Managing business activities study guide](/resources/a-level-edexcel-business-managing-business-activities/); the other 2.3.1 pages are the [revision notes](/resources/edexcel-ial-business-planning-a-business-and-raising-finance-revision-notes/) and the [practice questions](/resources/edexcel-ial-business-planning-a-business-and-raising-finance-practice/). Earlier unit-level pages: [revision notes](/resources/edexcel-a-level-business-managing-activities-revision-notes/) and [practice](/resources/edexcel-a-level-business-managing-activities-practice/). Course hub: [Edexcel A Level Business](/boards/edexcel/a-level/business/). Checklist: [printable checklist](/checklists/edexcel/a-level/business/). To locate your weak spots first, take the [free diagnostics](/diagnostics/).

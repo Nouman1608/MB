@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-4"
 description: "Condensed revision notes on Q = ΔU + W, W = PΔV, ΔU for monatomic gases and gas processes for IB DP Physics HL B.4, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 Full explanations and extra worked examples are in the [study guide](/resources/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work/). These notes follow the IB *Physics guide*, first assessment 2025, topic B.4 (first half), which is additional higher level only. After revising, use the [practice set](/resources/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work-practice/), the [IB DP Physics course page](/boards/ib/ib-dp/physics/), the [printable checklist](/checklists/ib/ib-dp/physics/) and the [free 10-minute diagnostics](/diagnostics/).

@@ -21,11 +21,12 @@ syllabusTopics:
     subtopic: "respiration-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 Bioenergetics notes: equations, limiting factors, inverse square law, respiration and oxygen debt, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed recall notes for section **4.4 Bioenergetics** (4.4.1.1 to 4.4.2.3) of the AQA GCSE Biology

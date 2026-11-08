@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "gene-expression-is-controlled-by-a-number-of-features-aqa-alevel-biology"
 description: "Study guide to gene mutation types, frame shifts, stem cell potency, iPS cells and evaluating stem cell therapies for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide is written against the AQA specification for AS and A-level Biology (7401 and 7402), first teaching 2015. It covers sections 3.8.1 (alteration of the sequence of bases in DNA can alter the structure of proteins) and 3.8.2.1 (most of a cell's DNA is not translated). Neither is part of the AS. Topic 8 sits in the A-level only content: Paper 2 draws on topics 5 to 8, Paper 3 on all eight topics, and Paper 1 stops at topic 4.
 

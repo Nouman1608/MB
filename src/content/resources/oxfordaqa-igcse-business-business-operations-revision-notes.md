@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "business-operations-oxfordaqa-igcse-business"
 description: "Condensed revision notes on production methods, JIT, Kaizen, suppliers, quality, TQM and customer service for OxfordAQA IGCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.3 Business operations of the OxfordAQA International GCSE Business (9225) specification, version 3.1, for exams from May/June 2022 onwards. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-igcse-business-business-operations/). Then test yourself with the [practice questions](/resources/oxfordaqa-igcse-business-business-operations-practice/). The [course hub](/boards/oxfordaqa/igcse/business/), the [printable checklist](/checklists/oxfordaqa/igcse/business/) and the [free diagnostics](/diagnostics/) cover the rest of the course.

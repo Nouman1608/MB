@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-performance-oxfordaqa-alevel-economics"
 description: "Study guide to OxfordAQA International AS and A-level Economics 9640, sections 3.2.3.2-3.2.3.3: unemployment, the ILO measure, inflation and deflation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. It covers section 3.2.3.2 (employment and unemployment) and section 3.2.3.3 (inflation and deflation). Section 3.2 is International AS content; the same ideas support the extra International A2 content. All countries, firms and figures below are invented and illustrative.

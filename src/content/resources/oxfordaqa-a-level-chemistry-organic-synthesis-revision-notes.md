@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "oxfordaqa-a-level-chemistry-organic-synthesis"
 description: "Revision notes for OxfordAQA 9620 organic synthesis: greener design, atom economy, the full reaction map and a method for routes of up to four steps."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Use these condensed notes in the final run-up to your exams. The

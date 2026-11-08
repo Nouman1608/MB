@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "financial-statements-of-organisations"
 description: "Study guide to Edexcel IAL Accounting topic 1.3: sole trader, departmental, incomplete records, partnership, club and manufacturing accounts."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches topic 1.3, Financial statements of organisations, from Unit 1: The Accounting System and Costing of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2 (September 2018). It covers outcomes 1.3.1 to 1.3.22, all International AS content. Unit 1 is available in January, June and October, and calculators may be used in the examination.

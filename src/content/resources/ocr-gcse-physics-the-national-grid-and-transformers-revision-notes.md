@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "powering-earth-ocr-gcse"
 description: "Condensed revision notes on the national grid, transformers and efficient transmission, with a quick self-test, for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P8.2c to P8.2f of topic P8.2, Powering Earth, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). **P8.2f is in bold in the specification, so it is Higher Tier only.** P8.2c, P8.2d and P8.2e are for both tiers. For full explanations, use the [study guide](/resources/ocr-gcse-physics-the-national-grid-and-transformers/), and test yourself with the [practice questions](/resources/ocr-gcse-physics-the-national-grid-and-transformers-practice/).

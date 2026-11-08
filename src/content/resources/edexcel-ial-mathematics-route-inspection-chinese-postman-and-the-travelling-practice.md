@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "d1-algorithms-on-graphs-ii-edexcel-alevel-maths"
 description: "Original worked practice questions on route inspection, travelling salesman bounds and nearest neighbour for Edexcel International A Level Maths D1."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

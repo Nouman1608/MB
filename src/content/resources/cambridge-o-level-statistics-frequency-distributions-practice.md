@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "class-measures-grouped-frequency-4040"
 description: "Original questions with worked answers on class limits, boundaries, mid-points and class intervals, for Cambridge O Level Statistics (4040)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-trigonometry-edexcel-alevel-maths"
 description: "Condensed revision notes on sine and cosine rules, the ambiguous case, radians, arc and sector formulae and trig graphs for Edexcel IAL Mathematics P1."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes condense Unit P1 topics 3.1 to 3.3 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (Issue 3, April 2019): sine and cosine rules, radians, and trigonometric graphs. P1 is a compulsory unit for IAS Mathematics and IAL Mathematics, as the specification states. For full explanations and worked examples, read the [study guide](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs/). Then try the [practice questions](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-practice/).
 

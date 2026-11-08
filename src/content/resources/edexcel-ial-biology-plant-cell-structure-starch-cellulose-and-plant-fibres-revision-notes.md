@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "plant-structure-and-function-biodiversity-and-conservation-edexcel-alevel-biology"
 description: "Condensed notes on plant cell structures, starch, cellulose, sclerenchyma, xylem, phloem, Core Practical 7 and sustainability for Edexcel IAL Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Condensed recall for the Pearson Edexcel International A Level Biology specification (YBI11), Issue 2, Topic 4, statements 4.1 to 4.7 including Core Practical 7. This is International AS (IAS) content. For full explanations use the [study guide](/resources/edexcel-ial-biology-plant-cell-structure-starch-cellulose-and-plant-fibres/), then test yourself with the [practice questions](/resources/edexcel-ial-biology-plant-cell-structure-starch-cellulose-and-plant-fibres-practice/). Also see the [Edexcel A Level Biology hub](/boards/edexcel/a-level/biology/), the [checklist](/checklists/edexcel/a-level/biology/) and the [free diagnostics](/diagnostics/).

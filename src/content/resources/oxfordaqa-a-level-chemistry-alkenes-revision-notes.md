@@ -28,8 +28,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-4-4"
 description: "Condensed OxfordAQA 9620 alkenes notes: addition mechanisms, major products, polymer drawing and naming, PVC, epoxyethane, plus a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 A condensed version of section **3.3.4 Alkenes** in the OxfordAQA International AS and A-level

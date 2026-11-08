@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "analysis-of-accounts"
 description: "Original questions with worked answers on profitability, liquidity, five ratios and users of accounts for Cambridge O Level Business Studies 7115 5.5."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "articles-faith-pillars-2058"
 description: "Mind-map recall notes on the six beliefs, jihad and the Five Pillars, with Qur'an references and significance points, for Cambridge O Level Islamiyat 2058."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes condense Paper 2 Topic 4 of Cambridge O Level Islamiyat 2058, The Articles of Faith and

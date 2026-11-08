@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "radioactivity-oxfordaqa-alevel"
 description: "Original practice questions with worked answers on decay equations, half-life, gamma, absorption and the inverse-square law for OxfordAQA Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

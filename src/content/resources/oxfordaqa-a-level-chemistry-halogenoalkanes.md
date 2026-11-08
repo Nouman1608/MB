@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-3-2"
 description: "OxfordAQA 9620 halogenoalkanes from scratch: polar C–X bonds, substitution by OH⁻, CN⁻ and NH₃, bond enthalpy and rate, and elimination, all worked."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Here you learn section **3.3.3 Halogenoalkanes** from scratch, following the OxfordAQA specification for

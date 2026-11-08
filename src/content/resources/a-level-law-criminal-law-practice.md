@@ -24,11 +24,12 @@ syllabusTopics:
     subtopic: "sentencing-in-england-and-wales-9084"
 description: "Original practice questions with worked answers on elements of a crime, property offences and sentencing for Cambridge AS and A Level Law 9084 Topic 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

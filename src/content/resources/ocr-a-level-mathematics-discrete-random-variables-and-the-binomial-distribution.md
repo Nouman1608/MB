@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "statistical-distributions-ocr-alevel-maths"
 description: "Study guide to discrete distributions and the binomial model B(n, p) for OCR A Level Mathematics A, with worked examples, mean and variance."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide follows the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers 2.04a to 2.04c, which are Stage 1 content (common with AS), and 2.04d, which is Stage 2 and so **A Level only**. The next unit applies the mean and variance formulae when a normal model is chosen.

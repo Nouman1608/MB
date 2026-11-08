@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "analysis-of-accounts-0264"
 description: "Original practice questions with worked answers on analysis of accounts for Cambridge IGCSE Business 0264: ratios, users and limitations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

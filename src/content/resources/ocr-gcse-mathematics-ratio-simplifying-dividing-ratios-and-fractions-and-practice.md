@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "calculations-with-ratio-ocr-gcse-maths"
 description: "Original practice questions with full worked answers on OCR GCSE Mathematics ratio: simplifying, sharing, ratios as fractions and problems (J560)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electrical-circuits-oxfordaqa-igcse"
 description: "Study guide to charge, static electricity, Q = It, V = E/Q, circuit symbols, thermistors and LDRs for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OxfordAQA *International GCSE Physics* (9203) specification, for exams from May/June 2018 onwards. It covers section 3.5.1 Electrical circuits, statements a to g. The qualification is untiered.

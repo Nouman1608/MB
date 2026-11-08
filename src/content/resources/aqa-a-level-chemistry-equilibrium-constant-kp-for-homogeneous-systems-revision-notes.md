@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "equilibrium-constant-kp-for-homogeneous-systems-7405"
 description: "Revision notes for AQA A-Level Chemistry (7405) Kp, section 3.1.10: key formulas, unit patterns, method steps, a quick self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, read the [Kp study guide](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems/) first. These notes are for fast recall in the final weeks.

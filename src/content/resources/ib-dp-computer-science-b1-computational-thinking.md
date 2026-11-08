@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-b-1"
 description: "Overview study guide to B.1 Computational thinking in IB DP Computer Science (first assessment 2027): the four-part process, teaching hours and Paper 2 links."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027, © IBO 2024); the detailed B.1 learning outcomes are in the licensed full guide and are not reproduced; please review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027, © IBO 2024); the detailed B.1 learning outcomes are in the licensed full guide and are not reproduced; please review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

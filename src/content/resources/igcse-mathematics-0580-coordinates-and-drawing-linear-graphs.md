@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "drawing-linear-graphs-cambridge-igcse-maths"
 description: "Study guide for Cambridge IGCSE Maths 0580 sections 3.1-3.2: plotting and reading coordinates, tables of values and drawing straight-line graphs."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches two subtopics of Topic 3, Coordinate geometry, in the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027: **3.1 Coordinates** and **3.2 Drawing linear graphs**. Both are in the Core (C3.1, C3.2) and Extended (E3.1, E3.2) content. The one difference is in 3.2: Core equations are given as y = mx + c unless a table of values is given, while Extended equations can also come in forms such as y = 7 – 4x or 3x + 2y = 5. That part is labelled **Extended only**.

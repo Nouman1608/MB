@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "business-finance-0264"
 description: "Revision notes for Cambridge IGCSE Business 0264 section 5.1: finance needs, working capital, sources of finance, choosing a source, and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 5.1, **Business finance**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029 (5.1.1 The need for business finance and 5.1.2 The main sources of finance). For full explanations read the [study guide](/resources/igcse-business-0264-business-finance/), then try the [practice questions](/resources/igcse-business-0264-business-finance-practice/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track progress, and the free [diagnostics](/diagnostics/) show your weak spots. All businesses named are invented.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-synthesis-ych11"
 description: "Condensed Edexcel IAL Chemistry Topic 20 notes: structure from data, Grignard products, route planning, aspirin and purification, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 20: Organic Synthesis (outcomes 20.1 to 20.5, with Core Practical 16) as set out in Issue 1 (September 2017) of Pearson Edexcel's International Advanced Subsidiary/Advanced Level in Chemistry specification, YCH11. It sits in Unit 5 (Transition Metals and Organic Nitrogen Chemistry), an International A2 (IA2) unit. The [organic synthesis study guide](/resources/edexcel-ial-chemistry-organic-synthesis/) explains each idea in full, with worked examples.

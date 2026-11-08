@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "disease-and-immunity"
 description: "Study guide to disease and immunity for Cambridge O Level Biology 5090: pathogens, malaria, HIV, cholera, alcohol, smoking, antibiotics and vaccination."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches Topic 12, Disease and immunity, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, and covers every learning outcome in sections 12.1 Disease, 12.2 Antibiotics and 12.3 Immunity. The 5090 syllabus is not tiered, so every candidate studies all of it.

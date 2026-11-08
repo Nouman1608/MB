@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "atp-aqa-alevel-biology"
 description: "Twelve original questions with worked answers on DNA and RNA, replication, the Watson-Crick evidence and ATP for AQA A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

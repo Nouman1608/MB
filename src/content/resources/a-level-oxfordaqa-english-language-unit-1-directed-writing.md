@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "section-b-directed-writing-9670"
 description: "OxfordAQA 9670 Unit 1 Section B guide: how to transform source texts into a new text for a set audience, purpose, genre and mode, with a worked plan."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Unit 1 Section B of OxfordAQA International AS and A-level English Language (9670), *Directed Writing*, asks you to

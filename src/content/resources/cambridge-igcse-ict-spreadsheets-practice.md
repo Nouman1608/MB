@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "present-data-20-3-0417"
 description: "Original exam-style spreadsheet questions with worked answers on formulae, cell references, IF, VLOOKUP, sorting and conditional formatting for IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 20: creating a data model (20.1), manipulating data (20.2) and presenting data (20.3). Spreadsheets are assessed practically in Paper 3, so the questions ask you to write the exact formulae you would enter, with worked answers showing each formula and why it works.

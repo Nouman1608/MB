@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "area-calculations-ocr-gcse-maths"
 description: "Study guide to area for OCR GCSE Mathematics J560: triangles, parallelograms, trapezia, circles, sectors and composite shapes, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide follows section 10.03 (Area calculations) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026): 10.03a to 10.03e. Most of it is Foundation and Higher content. One result, the area of a triangle as ½ab sin C, is marked Higher tier only. Because the specification allows any content to appear on either type of paper, practise it by hand and with a calculator.

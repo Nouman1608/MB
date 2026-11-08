@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "cash-flow-forecasting-4bs1"
 description: "Condensed revision notes on sources of finance, cash versus profit and cash-flow forecasts for Edexcel IGCSE Business, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026, Topic 3, sections 3.1 and 3.2. Full explanations and worked examples are in the [study guide](/resources/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting/). Then try the [practice questions](/resources/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting-practice/). Course links: the [4BS1 Business hub](/boards/edexcel/igcse/business/), the [printable checklist](/checklists/edexcel/igcse/business/) and the [free diagnostics](/diagnostics/). The specification says both papers draw on the whole of the subject content.

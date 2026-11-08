@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "lenses-and-the-eye-oxfordaqa"
 description: "Study guide to lenses, image nature, ray diagrams, magnification, the eye, sight defects, lasers and cameras for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This study guide follows the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, and covers section 3.3.6, Lenses and the eye, points a to l. The section is marked for the full Physics award, and the qualification is untiered. Use it with the [revision notes](/resources/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye-practice/). The course home is the [OxfordAQA IGCSE Physics hub](/boards/oxfordaqa/igcse/physics/), and the [printable checklist](/checklists/oxfordaqa/igcse/physics/) lets you tick each point off. Not sure where to start? Try a [free 10-minute diagnostic](/diagnostics/).
 

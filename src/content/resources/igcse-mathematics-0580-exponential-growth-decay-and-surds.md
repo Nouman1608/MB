@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "surds-cambridge-igcse-maths"
 description: "Study guide for Cambridge IGCSE Maths 0580 E1.17-E1.18: exponential growth and decay, simplifying surds and rationalising, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches two subtopics of Topic 1 Number in the Cambridge IGCSE Mathematics 0580 syllabus for examination in 2025, 2026 and 2027: **E1.17 Exponential growth and decay** and **E1.18 Surds**. Both are **Extended only**. The Core column of the syllabus lists C1.17 and C1.18 as "Extended content only", so they are assessed on Paper 2 (non-calculator) and Paper 4 (calculator), not on Papers 1 and 3. Every learning outcome the syllabus lists under the two subtopics is covered below, with worked examples.

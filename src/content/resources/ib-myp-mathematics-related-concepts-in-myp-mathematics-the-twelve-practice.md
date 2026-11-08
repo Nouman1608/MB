@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "ib-myp-mathematics-related-concepts"
 description: "Twelve original practice questions with worked answers on the twelve MYP mathematics related concepts, their meanings, branch links and use in problems."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "activity-based-costing-abc"
 description: "Ten original ABC questions with worked answers for Cambridge A Level Accounting 9706: cost driver rates, unit costs, prices, inventory and recommendations."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

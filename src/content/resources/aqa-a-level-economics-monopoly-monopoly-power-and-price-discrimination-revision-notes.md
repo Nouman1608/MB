@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on monopoly, monopoly power and price discrimination: diagram steps, tables, self-test and common errors."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the Monopoly and monopoly power and Price discrimination sub-sections of the AQA A-level Economics specification (7136, version 1.3, 29 June 2022), numbered 3.1.5 on the AQA website. The [study guide](/resources/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination/) has the full explanations and worked examples. Test yourself with the [practice questions](/resources/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination-practice/). All numbers are invented. See also the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/).

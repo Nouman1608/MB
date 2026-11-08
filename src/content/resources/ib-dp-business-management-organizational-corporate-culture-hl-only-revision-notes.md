@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-5"
 description: "Condensed revision notes for IB DP Business Management 2.5 (HL only): definitions, Handy's four cultures, Hofstede and cultural clashes, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 2.5, Organizational (corporate) culture, of the IB *Business management guide* (first assessment 2024). The section is HL only. For full explanations and worked examples, read the [study guide](/resources/ib-dp-business-management-organizational-corporate-culture-hl-only/), then test yourself with the [practice questions](/resources/ib-dp-business-management-organizational-corporate-culture-hl-only-practice/). The course hub is [IB DP Business Management](/boards/ib/ib-dp/business/), the printable list is the [syllabus checklist](/checklists/ib/ib-dp/business/), and the [free diagnostics](/diagnostics/) can show weak spots. Related pages: [leadership and management](/resources/ib-dp-business-management-leadership-and-management-revision-notes/), [organizational structure](/resources/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure-revision-notes/) and [growth and evolution](/resources/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs-revision-notes/).

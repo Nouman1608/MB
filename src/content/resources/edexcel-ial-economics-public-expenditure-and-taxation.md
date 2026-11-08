@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-role-of-the-state-in-the-macroeconomy-edexcel-alevel-economics"
 description: "Study guide to public expenditure, taxes, the Laffer curve and their macroeconomic effects for Pearson Edexcel International A Level Economics Unit 4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018, first teaching September 2018). It covers section 4.3.5, items 1 and 2: public expenditure and taxation. In the specification, Units 1 and 2 are the International AS content and Units 3 and 4 are the extra International A2 content. This topic sits in Unit 4, Developments in the global economy, which the specification describes as an IAL compulsory unit: it belongs to the full International A Level only, not the International AS.

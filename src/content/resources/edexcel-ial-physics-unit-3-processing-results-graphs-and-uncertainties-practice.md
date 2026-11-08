@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "processing-results-unit-3-yph11"
 description: "Ten original practice questions with worked answers on Edexcel International A Level Physics section 3.5: graphs, gradients and uncertainties."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

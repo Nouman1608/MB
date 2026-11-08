@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c2-3-properties-of-materials-j248"
 description: "Original practice questions with worked answers for OCR GCSE Chemistry A (J248) C2.3 Properties of materials, from carbon structures to nanoparticles."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

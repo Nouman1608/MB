@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-e-3"
 description: "Condensed IB DP Physics E.3 revision notes on activity, count rate, half-life, background, the decay law and uses of radioisotopes, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense the second part of sub-topic E.3, Radioactive decay, in the IB *Physics guide* (first assessment 2025): activity, count rate, half-life, background radiation, finding a half-life and real-life uses. For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law/), then test yourself with the [practice questions](/resources/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law-practice/). Everything applies to SL and HL, except items marked "HL only" (the decay constant, the exponential law and arbitrary time intervals). Types of decay and binding energy are in the [separate unit](/resources/ib-dp-physics-nuclear-structure-binding-energy-and-types-of-revision-notes/). Links: [course hub](/boards/ib/ib-dp/physics/), [printable checklist](/checklists/ib/ib-dp/physics/), [free 10-minute diagnostics](/diagnostics/).

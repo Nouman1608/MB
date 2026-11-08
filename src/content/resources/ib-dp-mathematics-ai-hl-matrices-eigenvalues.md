@@ -19,11 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-1-15"
 description: "Study guide to IB DP Maths AI HL matrices: algebra, inverses, solving Ax = b, coding messages, eigenvalues, diagonalization and powers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 This study guide teaches the matrices unit of IB Diploma Programme Mathematics: Applications and Interpretation from scratch. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 1.14 and 1.15, and all of it is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.

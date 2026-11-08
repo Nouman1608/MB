@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "fieldwork-investigations-5014-2027"
 description: "Study guide to food webs, energy flow, forests, biodiversity and fieldwork sampling for Cambridge O Level Environmental Management 5014 Topic 5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the exact wording and depth of sub-topics 5.1 to 5.4 in the 2027-2029 syllabus, especially which sampling methods and nutrient cycles are named."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the exact wording and depth of sub-topics 5.1 to 5.4 in the 2027-2029 syllabus, especially which sampling methods and nutrient cycles are named; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

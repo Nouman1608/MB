@@ -16,10 +16,12 @@ syllabusTopics:
     subtopic: "statistical-hypothesis-testing-ocr-alevel-maths"
 description: "Condensed revision notes on hypothesis tests for OCR A Level Mathematics A: binomial proportion, errors, the sample mean and the normal mean test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08 recheck: added a specification note labelling Type I/II error material as extension: H240 2.05c only requires the significance level as the probability of incorrectly rejecting H0. Please re-review."
-reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a specification note labelling Type I/II error material as extension: H240 2.05c only requires the significance level as the probability of incorrectly rejecting H0. Please re-review; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections 2.05a to 2.05e of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. Sections 2.05a to 2.05c are Stage 1, common with AS. Sections 2.05d and 2.05e are **A Level only**. For full explanations and worked examples read the [study guide](/resources/ocr-a-level-mathematics-hypothesis-testing-language-binomial-tests-and-the/).

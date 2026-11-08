@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-assessment-criteria-d-applying-mathematics-in-real-life-contexts"
 description: "Eleven original MYP Mathematics practice questions on Criteria C and D: notation, representation, reasoning, accuracy and model validity."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

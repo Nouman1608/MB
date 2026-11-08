@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "option-2b-elements-of-political-and-social-protest-writing-7717"
 description: "Original Paper 2B practice for AQA A-Level English Literature B (7717): an unseen protest extract, essays on every current set text and Section C tasks."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

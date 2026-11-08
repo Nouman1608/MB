@@ -11,11 +11,12 @@ syllabusSeries: "First teaching 2020, first examined 2022"
 order: 3
 description: "OxfordAQA International GCSE Business 9225: how content splits across two 90-mark papers with no coursework, using the case and a recommendation routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 OxfordAQA International GCSE Business (9225) is linear and untiered, assessed entirely by two written

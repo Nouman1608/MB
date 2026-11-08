@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "cancer-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 cancer revision notes: uncontrolled cell division, benign and malignant tumours, secondary tumours and risk factors, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-05
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, worked risk comparison, FAQ, question headings); please re-review; previously reviewed by hina-mogul on 2026-11-05."
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, worked risk comparison, FAQ, question headings); please re-review; previously reviewed by hina-mogul on 2026-11-05; 2026-11-08: reviewed by hina-mogul."
 ---
 
 Cancer is the result of changes in cells that lead to uncontrolled growth and division. For AQA GCSE Biology

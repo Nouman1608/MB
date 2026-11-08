@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "managing-business-activities-edexcel-alevel-business"
 description: "Study guide to Unit 2 Managing business activities (WBS12) for Edexcel International A Level Business: finance, planning, resources and external influences."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **Unit 2 Managing business activities**, the second

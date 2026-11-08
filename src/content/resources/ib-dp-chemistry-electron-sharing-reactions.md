@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-3"
 description: "Study guide to IB DP Chemistry Reactivity 3.3.1 to 3.3.3: radicals, homolytic fission with fish-hook arrows, and halogen substitution of alkanes."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Here you will learn **Reactivity 3.3, Electron sharing reactions**, checked line by line against the *Chemistry guide* for the IB Diploma Programme (February 2023 edition, first assessment 2025). Nothing in the sub-topic is skipped: all of **Reactivity 3.3.1 to 3.3.3** is here. All three are for **SL and HL**, and there is no AHL extension to this sub-topic.

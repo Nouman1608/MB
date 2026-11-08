@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "nanoparticles-9202"
 description: "Study guide to diamond, graphite, fullerenes and nanoparticles for OxfordAQA International GCSE Chemistry 9202, with fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches sections 3.2.3 (Structure and bonding of carbon) and 3.2.4 (Nanoparticles) of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. There are no tiers in this qualification: everyone sits the same papers and learns all of this content. No required practical belongs to these two sections.

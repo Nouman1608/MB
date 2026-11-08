@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p4-integration-edexcel-alevel-maths"
 description: "Study guide to P4 integration for Edexcel International Advanced Level Maths: substitution, integration by parts and partial fractions, fully worked."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide covers Pearson Edexcel International Advanced Level Mathematics (YMA01), aligned to the *International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics* specification (Issue 3, April 2019). It teaches Pure Mathematics 4 (P4) topics 6.2 and 6.3. The specification states that P3 and P4 are compulsory for IAL Mathematics and Pure Mathematics only; they are not part of IAS.

@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "hydroelectric-power-and-pumped-storage-oxfordaqa-alevel-physics"
 description: "Condensed notes on wind, solar and hydroelectric energy, solar cells and pumped storage for OxfordAQA International A-level Physics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense sections 3.13.2 to 3.13.4 of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4. The specification marks section 3.13 as International A-level only. The [study guide](/resources/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy/), has the full explanations; the [practice questions](/resources/oxfordaqa-a-level-physics-wind-solar-and-hydroelectric-energy-practice/). Course pages: [OxfordAQA A-level Physics hub](/boards/oxfordaqa/a-level/physics/) and the printable [checklist](/checklists/oxfordaqa/a-level/physics/). The free [diagnostics](/diagnostics/) show where to focus.

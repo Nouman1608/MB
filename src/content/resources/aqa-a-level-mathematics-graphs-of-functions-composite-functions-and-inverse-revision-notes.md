@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "b8-composite-and-inverse-functions-aqa-alevel-maths"
 description: "Condensed revision notes for AQA A-level Maths 7357 B7 and B8: curve sketching, modulus graphs, asymptotes, proportion, composite and inverse functions."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense AQA A-level Mathematics 7357 content B7 (graphs of functions) and B8 (composite and inverse functions), from the specification version 1.3 dated 31 January 2018. Longer explanations are in the [study guide](/resources/aqa-a-level-mathematics-graphs-of-functions-composite-functions-and-inverse/) first.

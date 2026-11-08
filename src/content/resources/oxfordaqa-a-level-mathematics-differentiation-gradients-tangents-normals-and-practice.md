@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-differentiation-oxfordaqa-alevel-maths"
 description: "Original practice questions with worked answers on OxfordAQA 9660 P1.3 differentiation: tangents, normals, stationary points and optimisation."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

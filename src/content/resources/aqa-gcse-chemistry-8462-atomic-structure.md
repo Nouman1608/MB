@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "atomic-structure-8462"
 description: "AQA GCSE Chemistry 8462 section 4.1.1 taught in depth: symbols and equations, mixtures, atomic models, subatomic particles, isotopes and electrons."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **4.1.1 A simple model of the atom, symbols, relative atomic mass, electronic charge

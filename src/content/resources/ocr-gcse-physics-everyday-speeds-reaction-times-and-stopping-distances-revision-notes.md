@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "physics-on-the-move-ocr-gcse"
 description: "Condensed revision notes on everyday speeds, unit conversion, reaction times and stopping distance factors for OCR GCSE Physics A (J249), P8.1a to P8.1e."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes are for final revision of statements P8.1a to P8.1e of the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0, July 2026, first assessment in 2018. None of the five statements is Higher Tier only, so all of it is for both tiers. For full explanations and worked examples, start with the [study guide](/resources/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "business-objectives-and-stakeholder-objectives"
 description: "Study guide to forms of business organisation, business objectives, stakeholders and public versus private sector aims for Cambridge O Level Business 7115."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide follows the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It covers syllabus sections 1.4 (Types of business organisation) and 1.5 (Business objectives and stakeholder objectives), which sit in Topic 1, Understanding business activity. The syllabus is not tiered.

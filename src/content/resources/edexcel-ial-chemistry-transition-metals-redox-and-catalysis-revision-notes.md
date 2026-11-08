@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "transition-metals-and-their-chemistry-ych11"
 description: "Condensed Edexcel IAL Chemistry notes for 17.18-17.33: vanadium and chromium colours, hydroxide tests, ligand swaps, catalysts and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This page condenses the [study guide](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis/) for last-minute review; go there for the full teaching and worked examples. It follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, outcomes 17.18 to 17.33 of Topic 17, including Core Practical 14. All of it is examined in the IA2 paper Unit 5: Transition Metals and Organic Nitrogen Chemistry.

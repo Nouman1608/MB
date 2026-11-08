@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "effects-of-temperature-and-ph"
 description: "Condensed recall notes on enzyme action, the lock-and-key model and the effects of temperature and pH for Cambridge O Level Biology 5090."
 author: "saad-zai"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "business-ownership-aqa-gcse-business"
 description: "Eleven original questions with worked answers on business purpose, enterprise and ownership structures for AQA GCSE Business (8132) 3.1.1 and 3.1.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

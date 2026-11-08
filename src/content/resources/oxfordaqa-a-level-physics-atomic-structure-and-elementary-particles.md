@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "elementary-particles-oxfordaqa"
 description: "Study guide to the nuclear atom, Rutherford scattering, specific charge, nuclide notation, antiparticles and pair production for OxfordAQA Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers sections 3.3.1 (Constituents of the atom) and 3.3.2 (Elementary particles) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, which is written for exams from May/June 2020 onwards. Both sections are shared content, so they apply at International AS and at International A-level. Sections 3.6 to 3.13 are International A-level only; these two are not.

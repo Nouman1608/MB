@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "human-resources-ocr-alevel-business"
 description: "Study guide to the whole Human resources topic of OCR A Level Business H431: structures, recruitment, motivation, leadership, relations and strategy."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the whole **Human resources** topic of the OCR A Level in Business (H431), Version 2.1 (January 2026). It follows the content headings in the specification's Human resource management and Human resources strategy areas of study, using OCR's wording. For quick recall use the [revision notes](/resources/ocr-a-level-business-human-resources-revision-notes/), then test yourself with the [practice questions](/resources/ocr-a-level-business-human-resources-practice/). Course pages: [OCR A Level Business hub](/boards/ocr/a-level/business/) and [checklist](/checklists/ocr/a-level/business/). To find weak spots first, try the [free diagnostics](/diagnostics/).

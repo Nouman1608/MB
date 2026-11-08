@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "hormonal-communication-ocr-alevel-biology"
 description: "Revision notes on hormones, the adrenal glands, pancreas histology, insulin and glucagon, diabetes and treatments for OCR A Level Biology A (H420) 5.1.4."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense topic 5.1.4, Hormonal communication, from OCR A Level Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025. For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-biology-hormonal-communication-and-blood-glucose-control/), then test yourself with the [practice set](/resources/ocr-a-level-biology-hormonal-communication-and-blood-glucose-control-practice/). The [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and [checklist](/checklists/ocr/a-level/biology/) show where this fits, and the [free diagnostics](/diagnostics/) help you find weak spots. For the microscopy and drawing skills behind outcome (c), see the [practical skills revision notes](/resources/ocr-a-level-biology-practical-skills-revision-notes/).

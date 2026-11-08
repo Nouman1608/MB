@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "marketing-and-people-edexcel-alevel-business"
 description: "Study guide to Unit 1 Marketing and people (WBS11) for Edexcel International A Level Business: customer needs, markets, the marketing mix and managing people."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **Unit 1 Marketing and people**, the compulsory

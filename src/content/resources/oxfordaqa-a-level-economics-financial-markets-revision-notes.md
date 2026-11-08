@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-balance-of-payments-exchange-rates-and-financial-markets-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on financial markets for OxfordAQA International AS and A-level Economics, with key definitions, formulas and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These revision notes condense specification section 3.4.2.3 (financial markets) of OxfordAQA International AS and A-level Economics (9640). Section 3.4 is the extra International A2 content, examined from May/June 2022. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-economics-financial-markets/). Then try the [practice questions](/resources/oxfordaqa-a-level-economics-financial-markets-practice/), the [course hub](/boards/oxfordaqa/a-level/economics/), the [printable checklist](/checklists/oxfordaqa/a-level/economics/) and the [free diagnostics](/diagnostics/). Related: [monetary policy](/resources/oxfordaqa-a-level-economics-monetary-policy-revision-notes/). All figures are invented.
 

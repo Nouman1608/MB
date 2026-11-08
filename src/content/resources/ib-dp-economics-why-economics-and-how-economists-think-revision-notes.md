@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-1-2"
 description: "Condensed revision notes for IB DP Economics Unit 1: scarcity, opportunity cost, PPC and circular flow diagrams, methodology and economic thought."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover sub-topics 1.1 (What is economics?) and 1.2 (How do economists approach the world?). All of it is SL and HL content, with no HL-only parts. For full explanations read the [study guide](/resources/ib-dp-economics-why-economics-and-how-economists-think/).

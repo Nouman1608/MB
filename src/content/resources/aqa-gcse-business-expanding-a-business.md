@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "expanding-a-business-aqa-gcse-business"
 description: "A full study guide to expansion methods, economies and diseconomies of scale and average unit cost for AQA GCSE Business (8132) section 3.1.7."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.1.7 Expanding a business in the AQA GCSE Business (8132) specification, for first teaching from September 2017. It sits in the topic Business in the real world. The specification asks you to discuss the advantages and disadvantages of methods of growth, to understand economies and diseconomies of scale, and to calculate and interpret average unit costs.

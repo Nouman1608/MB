@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "movement-of-substances-into-and-out-of-cells-4bi1"
 description: "Condensed Edexcel IGCSE Biology 4BI1 notes on diffusion, osmosis and active transport, with SA:V steps, practical checks and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells/) first.

@@ -27,8 +27,12 @@ syllabusTopics:
     subtopic: "the-competitive-environment-1bs0"
 description: "Condensed revision notes on customer needs, market research, segmentation, market mapping and competitors for Edexcel GCSE Business 1BS0 Topic 1.2."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Theme 1, Topic 1.2 Spotting a business opportunity (items 1.2.1 to 1.2.4) of the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. For full explanations and worked examples read the [study guide](/resources/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs/). Formulae are listed in Appendix 3 of the specification and are not provided in the examinations, so learn the ones you need.

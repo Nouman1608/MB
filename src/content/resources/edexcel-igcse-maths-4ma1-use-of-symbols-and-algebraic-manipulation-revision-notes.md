@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "algebraic-manipulation-edexcel-igcse-maths"
 description: "Condensed 4MA1 revision notes for sections 2.1-2.2: index laws, factorising, algebraic fractions, completing the square, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 For full explanations and worked examples, use the [study guide for 2.1 and 2.2](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation/). These notes are for the final weeks.

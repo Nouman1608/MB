@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "human-resources-oxfordaqa-igcse-business"
 description: "Study guide to organisational structures, recruitment, motivation and training for the human resources topic of OxfordAQA International GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.4 Human resources of the OxfordAQA International GCSE Business (9225) specification, version 3.1, for exams from May/June 2022 onwards. The specification lists this topic as number 4 in its subject content. The official text divides it into four parts, set out in the map below. Human resources is assessed on Paper 1, which the specification titles as the influences of operations and human resources on business activity. All businesses and figures are invented. The [course hub](/boards/oxfordaqa/igcse/business/), [printable checklist](/checklists/oxfordaqa/igcse/business/) and [free diagnostics](/diagnostics/) cover the rest of the course. The [revision notes](/resources/oxfordaqa-igcse-business-human-resources-revision-notes/) and [practice questions](/resources/oxfordaqa-igcse-business-human-resources-practice/) go with this page.

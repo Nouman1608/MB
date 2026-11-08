@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "structure-and-calculation-aqa-gcse-maths"
 description: "Condensed AQA GCSE Maths 8300 revision notes for 3.1.1 Structure and calculation (N1-N9), with method boxes, a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 For full explanations and worked examples, use the [Structure and calculation study guide](/resources/aqa-gcse-maths-8300-structure-and-calculation/). These notes condense section 3.1.1, **Structure and calculation** (N1 to N9), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Content marked **(Higher)** is in the specification's Higher content only column: the product rule (N5), estimating powers and roots (N6), fractional indices (N7) and surds (N8). Everything else is assessed at both tiers.

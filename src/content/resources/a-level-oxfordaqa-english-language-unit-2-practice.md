@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "section-b-language-and-social-groups-writing-9670"
 description: "Original practice with worked answers on the social functions of language, linking text analysis to argument, and the format of OxfordAQA 9670 Unit 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-05
 featured: false
 ---

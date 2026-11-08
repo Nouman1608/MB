@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-12-1"
 description: "Revision notes on Kp for OxfordAQA International A-level Chemistry 9620 (3.1.12): formulas, unit rules, method steps, a self-test and where marks slip."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This page condenses the

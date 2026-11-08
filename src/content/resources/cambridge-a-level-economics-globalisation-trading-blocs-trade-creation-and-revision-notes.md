@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "globalisation-cambridge-alevel-economics"
 description: "Condensed revision notes on Cambridge 9708 Economics section 11.6: globalisation, types of trading bloc, trade creation and trade diversion."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 11.6 (outcomes 11.6.1 to 11.6.3) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. The syllabus treats topics 1 to 6 as AS Level and topics 7 to 11 as A Level; section 11.6 is A Level content only and is not examined at AS. The [study guide](/resources/cambridge-a-level-economics-globalisation-trading-blocs-trade-creation-and/) has the full explanations and worked examples. Test yourself with the [practice set](/resources/cambridge-a-level-economics-globalisation-trading-blocs-trade-creation-and-practice/). The [course hub](/boards/cambridge/a-level/economics/), [checklist](/checklists/cambridge/a-level/economics/) and [free diagnostics](/diagnostics/) help you plan the rest of your revision. Countries, firms and figures here are invented and money is in currency units (cu).

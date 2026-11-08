@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "coordination-and-control-the-nervous-system-ocr-gcse-biology"
 description: "Condensed revision notes on neurones, synapses, coordinated responses, reflex arcs and reaction time for OCR GCSE Biology A (J247), B3.1a to B3.1c."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes are aligned to the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. They cover B3.1a, B3.1b and B3.1c. No statement here is marked Higher Tier only. For full explanations, read the [study guide](/resources/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs-practice/).

@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "impact-of-media-on-behaviour-9699"
 description: "Cambridge 9699 Paper 4 sections 10.1-10.3 explained: representations of class, gender, ethnicity and age, moral panics, effects models and media violence."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Media representation is how the media portray social groups, and media effects are the influence

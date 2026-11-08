@@ -20,8 +20,12 @@ seoTitle: "Why Did Nations Gain Overseas Empires? 0470 and 2147 Guide"
 seoDescription: "Motives for imperialism, French, British and Belgian rule in Africa, India after 1857 and the Spanish–American War, for Cambridge IGCSE 0470 and O Level 2147."
 description: "Guide to Cambridge 0470 and 2147 key question 1.5: motives for empire, Senegal, Nigeria and the Congo, India after 1857, and US gains from Spain in 1898."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Key question 1.5 asks why, and with what effects, nations gained and

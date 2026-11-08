@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "coronary-heart-disease-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on coronary heart disease, stents, statins, faulty valves, transplants and artificial hearts, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05; 2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed recall notes for **4.2.2.4 Coronary heart disease: a non-communicable disease** of the AQA

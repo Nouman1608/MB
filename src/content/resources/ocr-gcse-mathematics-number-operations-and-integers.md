@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "number-operations-and-integers-ocr-gcse-maths"
 description: "OCR GCSE Maths J560 Topic 1 guide: integer calculations, primes, HCF and LCM, order of operations and inverse operations, plus indices and error intervals."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-08-21
 featured: false
 ---

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "marketing-data-9725"
 description: "Condensed OxfordAQA International AS Business revision notes on marketing objectives, plans, research, sampling and data interpretation, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed notes for sections 3.1.2.1 Marketing objectives and plans and 3.1.2.2 Marketing data of the OxfordAQA International AS and A-level Business specification. The 9625 and 9725 wordings differ, so points are labelled (9625 only) or (9725 only); unlabelled points are in both. For full explanations and worked examples, use the [study guide for this unit](/resources/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data-practice/). Wider context is in the [Marketing overview notes](/resources/oxfordaqa-a-level-business-marketing-revision-notes/). See also the [course hub](/boards/oxfordaqa/a-level/business/), the [printable checklist](/checklists/oxfordaqa/a-level/business/) and the [free diagnostics](/diagnostics/).

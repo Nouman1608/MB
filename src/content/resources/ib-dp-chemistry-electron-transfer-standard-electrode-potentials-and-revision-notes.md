@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-2"
 description: "Condensed HL revision notes for IB DP Chemistry Reactivity 3.2.12-3.2.16: E⦵cell, spontaneity, −nFE⦵, aqueous electrolysis and plating, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes assume you have worked through the [study guide for this unit](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and/), which explains each idea in full.

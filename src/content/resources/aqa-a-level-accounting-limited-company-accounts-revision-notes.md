@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "limited-company-accounts"
 description: "Revision notes for AQA A-Level Accounting 7127 section 3.7: company statement layouts, three profit levels, share premium and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes cover section 3.7, Limited company accounts, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered, and the specification places section 3.7 in the content assessed by Paper 1. For full explanations and a complete trial-balance example, use the [study guide](/resources/aqa-a-level-accounting-limited-company-accounts/). Then work through the [practice questions](/resources/aqa-a-level-accounting-limited-company-accounts-practice/).

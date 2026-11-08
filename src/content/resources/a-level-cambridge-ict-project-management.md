@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "project-management"
 description: "Study guide to project management for Cambridge A Level IT 9626: the project life cycle, project software, Gantt charts, PERT and critical path."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This study guide covers **topic 15, Project management** (sections 15.1–15.3) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). It is **A Level only** content. The syllabus states that Paper 3 (Advanced Theory) questions are based on sections 12–21, so this is a theory topic examined there. Calculators are not allowed in Paper 3, so work timings by hand.

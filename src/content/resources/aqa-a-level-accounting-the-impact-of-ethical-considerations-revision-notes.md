@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "the-impact-of-ethical-considerations"
 description: "Revision notes for AQA A-Level Accounting 7127 section 3.18: principles, threats, governance, audit opinions, regulators and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 3.18, The impact of ethical considerations, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered, and the specification lists section 18 for both Paper 1 and Paper 2. For full explanations and a worked scenario, read the [study guide](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations/), then test yourself with the [practice questions](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations-practice/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/). All businesses and figures are invented.

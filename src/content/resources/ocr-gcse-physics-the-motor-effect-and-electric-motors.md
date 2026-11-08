@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "uses-of-magnetism-ocr-gcse"
 description: "Study guide to the motor effect, Fleming's left-hand rule, F = BIl and how d.c. motors turn, for OCR GCSE Physics A (J249) statements P4.2a to P4.2d."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), topic P4.2 Uses of magnetism, statements P4.2a to P4.2d. All four statements are printed in bold in the specification, so they are **Higher Tier only**. Foundation Tier papers do not test them. Induction, generators and transformers (the later statements in P4.2) have their own pages. Start with the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), tick off what you know on the [checklist](/checklists/ocr/gcse/physics/), and test yourself with the [free diagnostics](/diagnostics/). You need the fields from P4.1 first, so read [Magnets, magnetic fields and electromagnets](/resources/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets/) if poles and field lines are shaky.

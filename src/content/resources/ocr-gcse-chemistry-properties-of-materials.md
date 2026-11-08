@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c2-3-properties-of-materials-j248"
 description: "Study guide for OCR GCSE Chemistry A (J248) C2.3: carbon allotropes, changes of state, bulk properties and nanoparticles, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 This study guide teaches sub-topic **C2.3 Properties of materials** from Topic C2 of OCR GCSE (9-1) Chemistry A (Gateway Science). Following OCR's Version 4.0 J248 specification (August 2026), it works through statements C2.3a to C2.3j, the mathematical learning outcomes CM2.3i to CM2.3vi and the practical suggestion for this sub-topic. None of C2.3 is Higher Tier only: every statement can be tested on both tiers. You meet this content on Paper 1 if you sit Foundation Tier, or Paper 3 if you sit Higher Tier.

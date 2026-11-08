@@ -14,11 +14,12 @@ syllabusTopics:
     subtopic: "methods-in-context-7192"
 description: "Original exam-style practice questions with full worked answers on AQA A Level Sociology's methods in context question (7192)."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-26
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

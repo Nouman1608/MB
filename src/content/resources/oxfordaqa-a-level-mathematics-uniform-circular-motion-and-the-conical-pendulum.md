@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "m2-uniform-circular-motion-oxfordaqa-alevel-maths"
 description: "Study guide to angular speed, v = rω, a = v²/r, vector form and the conical pendulum for OxfordAQA International A-level Maths Unit M2, fully worked."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers section M2.7 (uniform circular motion) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level (A2) Unit M2 (Mechanics), the mechanics option that sits beside Unit S2; it is not examined at International AS. Unit M2 assumes the International AS units, so Newton's second law and resolving forces are your starting point.

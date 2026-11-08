@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "bonding-and-structure-ych11"
 description: "Condensed revision notes on ionic and covalent bonding (outcomes 3.1-3.15) for Edexcel International A Level Chemistry, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 3 parts 3A (Ionic bonding) and 3B (Covalent bonding) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017: outcomes 3.1 to 3.15. This is International AS (IAS) content for Unit 1: Structure, Bonding and Introduction to Organic Chemistry.

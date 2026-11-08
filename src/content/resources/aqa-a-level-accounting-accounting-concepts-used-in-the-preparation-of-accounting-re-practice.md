@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "accounting-concepts-used-in-the-preparation-of-accounting-records"
 description: "Original AQA A-Level Accounting 3.5 practice questions on accounting concepts, inventory at NRV, sale or return and profit corrections, with mark schemes."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "automated-and-emerging-technologies-2210"
 description: "Topic 6 study guide for Cambridge O Level Computer Science 2210: sensor-microprocessor-actuator systems, scenario pros and cons, robots, AI and expert systems."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 6 of Cambridge O Level Computer Science (2210) covers technologies that act on the world with little or no human input: automated systems, robots and artificial intelligence. You need to explain how a sensor, a microprocessor and an actuator cooperate, weigh up the advantages and disadvantages of automation in a given setting, describe what makes a machine a robot, and explain how an expert system and machine learning simulate intelligent behaviour.

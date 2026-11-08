@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "s1-discrete-distributions-edexcel-alevel-maths"
 description: "Condensed revision notes for Edexcel IAL Maths S1 section 5: formulas, method steps, a self-test with answers and the usual ways marks are lost."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes are aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01) specification, Issue 3, April 2019, unit S1 section 5 (topics 5.1 to 5.4). The specification states that S1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics. Read the [study guide](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions/) for the full explanations and examples, then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions-practice/).
 

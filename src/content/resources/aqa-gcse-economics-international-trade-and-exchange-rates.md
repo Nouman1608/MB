@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "exchange-rates-aqa-gcse-economics"
 description: "Study guide to AQA GCSE Economics 8136 sections 3.2.4.1 and 3.2.4.2: why countries trade, UK exports and imports, and how exchange rates are set and matter."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Countries trade because no country can produce everything it needs as efficiently as others can, so specialising and exchanging lets them consume more. An exchange rate is the price of one currency in terms of another, and it is set by the demand for and supply of the currency. AQA GCSE Economics (8136) sections 3.2.4.1 and 3.2.4.2 ask you to explain the benefits of trade, describe the UK's main exports and imports, explain interdependence, and show how exchange rates are determined and how a change affects consumers and producers.

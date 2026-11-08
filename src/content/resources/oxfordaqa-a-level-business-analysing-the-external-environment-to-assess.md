@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "analysing-the-external-environment-oxfordaqa-alevel-business"
 description: "Study guide for OxfordAQA A-level Business 9725 section 3.3.4: PESTLE, law, trade policy, exchange rates, inflation, CSR, AI and climate change."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Aligned to the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1 (International AS exams from May/June 2027, International A-level exams from May/June 2028), this guide teaches section 3.3.4, Analysing the external environment to assess opportunities and threats. None of it is AS content: label it **International A-level only**. If your exams are on the older 9625 specification, follow that document, not this page.

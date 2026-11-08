@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "power-2059"
 description: "Revision notes on fuel extraction, coal, gas and oil supply, generation and renewables for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 3 Power."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes compress Section 3 Power of Cambridge O Level Pakistan Studies 2059 Paper 2 into

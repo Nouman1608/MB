@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-6"
 description: "Condensed revision notes on fiscal policy for IB Diploma Programme Economics 3.6: definitions, diagram steps, HL multiplier formulas and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover sub-topic 3.6, Demand management -- fiscal policy. Most is SL and HL. The multiplier, crowding out and automatic stabilisers are HL only. For full explanations, read the [study guide](/resources/ib-dp-economics-fiscal-policy/).

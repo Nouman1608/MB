@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-4"
 description: "A full HL guide to IB DP Physics D.4 induction: flux, Faraday's and Lenz's laws, moving conductors and rotating-coil generators, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide teaches **sub-topic D.4, Induction**, from Topic D of the IB Diploma Programme *Physics guide*, first assessment 2025. D.4 is **additional higher level (HL only)**: the guide lists no standard level content here, and the sub-topic is allotted 6 hours. If you take Physics at SL, you can skip it. Everything below is HL only.

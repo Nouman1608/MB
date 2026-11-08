@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "alkenes-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 5 Alkenes: pi bonds, E-Z isomers, addition reactions, electrophilic addition mechanisms and polymers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 5: Alkenes of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 5.1 to 5.8. It is International AS content, examined in the IAS unit called Unit 1: Structure, Bonding and Introduction to Organic Chemistry. The specification notes that related topics in Units 2, 4 and 5 assume this material.

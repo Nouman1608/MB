@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "production-possibility-curve-diagrams-cambridge-igcse-economics"
 description: "Study guide to opportunity cost and production possibility curves for Cambridge IGCSE Economics, with worked calculations and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches sections 1.3 and 1.4 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026: opportunity cost (1.3.1 and 1.3.2) and production possibility curve diagrams (1.4.1 to 1.4.4). All countries, firms and figures below are made up for practice and are not real data.

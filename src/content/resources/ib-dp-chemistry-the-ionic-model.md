@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-2-1"
 description: "Study guide to IB DP Chemistry Structure 2.1: ion charges, ionic formulas and names, polyatomic ions, lattices and lattice enthalpy, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches **Structure 2.1, The ionic model**, from the Diploma Programme *Chemistry guide* that the IB issued in February 2023, with first assessment in 2025. It covers all three understandings, Structure 2.1.1 to 2.1.3. Every one of them is studied at **both SL and HL**; this sub-topic has no AHL extension. The guiding question is what makes a compound ionic, and what that does to its properties.

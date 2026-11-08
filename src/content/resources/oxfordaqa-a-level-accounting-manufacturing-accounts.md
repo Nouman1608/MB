@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "manufacturing-accounts-oxfordaqa"
 description: "OxfordAQA A-level Accounting 9615 study guide to 3.2.7: manufacturing accounts, profit on manufacture and provisions for unrealised profit, fully worked."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide teaches section 3.2.7, Manufacturing accounts, of the OxfordAQA International AS and

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "s1-correlation-and-regression-edexcel-alevel-maths"
 description: "Condensed notes on probability laws, tree and Venn diagrams, regression lines and correlation for Edexcel IAL Mathematics Unit S1, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense Unit S1 sections 3 and 4 (topics 3.1 to 3.4 and 4.1 to 4.3) from Pearson's International Advanced Subsidiary/Advanced Level specification (YMA01), Issue 3, April 2019, for Mathematics, Further Mathematics and Pure Mathematics. Per the specification, Unit S1 is optional, both for IAS and for IAL, in Mathematics and in Further Mathematics.

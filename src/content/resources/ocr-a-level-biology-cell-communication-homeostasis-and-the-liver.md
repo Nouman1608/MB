@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "excretion-as-an-example-of-homeostatic-control-ocr-alevel-biology"
 description: "Study guide to cell signalling, negative feedback, thermoregulation, excretion and the liver for OCR A Level Biology A (H420), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers learning outcomes 5.1.1(a) to 5.1.1(d) and 5.1.2(a) to 5.1.2(b) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. They sit in Module 5, Communication, homeostasis and energy. The specification lists Biological processes (Component 01) as assessing modules 1, 2, 3 and 5, and Unified biology (Component 03) as assessing all six modules. Use the [revision notes](/resources/ocr-a-level-biology-cell-communication-homeostasis-and-the-liver-revision-notes/) for recall and the [practice questions](/resources/ocr-a-level-biology-cell-communication-homeostasis-and-the-liver-practice/) to test yourself. The [course hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/) show the rest of the course. Microscopy basics are in the [Foundations in Biology guide](/resources/ocr-a-level-biology-foundations-in-biology/).

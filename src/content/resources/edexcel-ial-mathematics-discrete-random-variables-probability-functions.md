@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "s1-discrete-distributions-edexcel-alevel-maths"
 description: "Worked study guide to Edexcel IAL Maths S1 section 5: probability functions, cumulative distribution, E(X), Var(X) and the discrete uniform."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01) specification, Issue 3, April 2019. It covers unit S1 section 5, topics 5.1 to 5.4: the concept of a discrete random variable, the probability function and cumulative distribution function, the mean and variance, and the discrete uniform distribution. The specification states that S1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics.
 

@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "people-economy-9236"
 description: "Study guide to 9236 topic 3.2.2: Pakistan's population change, migration, economic sectors, trade, GDP and HDI, and urbanisation in Karachi and Lahore."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **The People and Economy of Pakistan is topic 3.2.2 of OxfordAQA International GCSE Pakistan

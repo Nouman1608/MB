@@ -26,11 +26,12 @@ syllabusTopics:
     subtopic: "kq-3-1-0495"
 description: "Cambridge IGCSE Sociology (0495) Paper 1 notes: research methods, perspectives, socialisation and identity, and class, gender and ethnic inequality."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

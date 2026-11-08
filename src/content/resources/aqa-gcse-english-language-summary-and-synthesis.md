@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "summary-and-synthesis-8700"
 description: "AQA GCSE English Language 8700 guide to summary and synthesis: main themes, summarising one text, synthesising two sources and the 8-mark Paper 2 question."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Summary and synthesis is the reading skill of picking out the main ideas in a text, putting them concisely in your

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "control-accounts-oxfordaqa-igcse-accounting"
 description: "Study guide to preparing, understanding and interpreting trade receivables and trade payables ledger control accounts for OxfordAQA IGCSE Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide covers the control accounts content of section 3.2 (Topic 2, Verification of accounting records) in the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026. It teaches you to prepare, understand and interpret trade receivables and trade payables ledger control accounts. All amounts below are in dollars.

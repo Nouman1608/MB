@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "entrepreneurs-and-leaders-ybs11"
 description: "Teaching guide to staffing, structure, motivation, leadership, entrepreneurs and objectives for Edexcel International A Level Business Unit 1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification (Issue 1, September 2017). It covers Unit 1, Marketing and people, sections 1.3.4 Managing people and 1.3.5 Entrepreneurs and leaders, for the International AS unit. The specification says calculators may be used on Unit 1.

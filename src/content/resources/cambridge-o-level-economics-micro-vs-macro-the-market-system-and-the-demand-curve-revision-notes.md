@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "demand"
 description: "Condensed revision notes for Cambridge O Level Economics 2281 sections 2.1 to 2.3: micro and macro, the price mechanism and demand, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes are aligned to the Cambridge O Level Economics 2281 syllabus for examination in 2026 and cover sections 2.1 to 2.3 of topic 2. They are written for the final weeks before the exam. For fuller explanations and longer workings, go to the [study guide](/resources/cambridge-o-level-economics-micro-vs-macro-the-market-system-and-the-demand-curve/). To test yourself, try the [practice questions](/resources/cambridge-o-level-economics-micro-vs-macro-the-market-system-and-the-demand-curve-practice/).

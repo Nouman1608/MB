@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-1-4"
 description: "Condensed revision notes on internal and external stakeholders and stakeholder conflict for IB DP Business Management section 1.4, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 1.4 (Stakeholders) of Unit 1 in the IB *Business management guide*, first assessment 2024, for SL and HL. The section lists two points, each at AO2 depth: internal and external stakeholders, and conflict between stakeholders. For full explanations and two worked cases, use the [study guide](/resources/ib-dp-business-management-stakeholders/). Questions to try afterwards are in the [practice set](/resources/ib-dp-business-management-stakeholders-practice/).

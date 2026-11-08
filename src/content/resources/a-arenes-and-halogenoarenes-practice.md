@@ -19,9 +19,10 @@ syllabusTopics:
     subtopic: "a-halogen-compounds"
 description: "Exam-style practice on benzene's electrophilic substitution, nitration, directing effects and halogenoarene reactivity, with worked answers, for Cambridge 9701."
 author: "nouman-ahmed"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
 publishedDate: 2026-08-29
 featured: false
 ---

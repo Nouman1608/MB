@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "households-cambridge-igcse-economics"
 description: "Study guide to money, central and commercial banks, and what drives household spending, saving and borrowing, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches sections 3.1 and 3.2 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026: money (3.1.1), banking (3.1.2) and the influences on household spending, saving and borrowing (3.2.1). The subject is not tiered, so all of it is for everyone. Every country, bank, household and figure below is invented for practice and is not a real statistic.

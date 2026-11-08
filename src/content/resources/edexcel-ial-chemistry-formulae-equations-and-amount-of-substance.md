@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "formulae-equations-and-amount-of-substance-ych11"
 description: "Study guide for Edexcel IAL Chemistry Topic 1: formulae, ionic equations, moles, ppm, gas volumes, pV = nRT, yield, atom economy and Core Practical 1."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 1, Formulae, Equations and Amount of Substance, of the Pearson Edexcel

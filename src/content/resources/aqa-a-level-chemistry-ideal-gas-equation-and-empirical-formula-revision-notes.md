@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "empirical-and-molecular-formula-7405"
 description: "Condensed notes on pV = nRT, SI unit conversions, gas Mr and empirical and molecular formulae, with a self-test, for AQA A-Level Chemistry 3.1.2.3-3.1.2.4."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense sections **3.1.2.3 The ideal gas equation** and **3.1.2.4 Empirical and molecular

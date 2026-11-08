@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "macroeconomic-objectives-and-policies-edexcel-alevel-economics"
 description: "Condensed notes with formulas, worked reminders and a self-test on macroeconomic objectives and conflicts, Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed recall for the final weeks. For full explanations and longer examples, use the [study guide](/resources/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them/). These notes follow the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, sub-topic 2.3.6 items 1 and 2. The specification places this in Unit 2, an IAS compulsory unit that is also part of the full International Advanced Level (Units 3 and 4 are the extra IA2 content). All data below is invented, for Country S.

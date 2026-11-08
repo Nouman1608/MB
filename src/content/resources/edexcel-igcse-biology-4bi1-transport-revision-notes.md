@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "transport-4bi1"
 description: "Condensed Edexcel IGCSE Biology 4BI1 Transport notes: plant transport, blood, immunity, heart and vessels, with a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense sub-topic (h) **Transport**, points 2.51–2.69 of Topic 2 in the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The course is untiered. Points 2.55B–2.58B, 2.63B and 2.64B are bold **B** statements and are examined on Paper 2 only. For full explanations and worked examples, read the [Transport study guide](/resources/edexcel-igcse-biology-4bi1-transport/) first; then test yourself with the [Transport practice questions](/resources/edexcel-igcse-biology-4bi1-transport-practice/).

@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "interpretation-data-tabular-pictorial-diagrammatic-4040"
 description: "Condensed revision notes on Venn, box-and-whisker and stem-and-leaf diagrams, choosing between them and comparing data, for O Level Statistics 4040."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections 2.2 to 2.4 of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027, version 1: Venn, box-and-whisker and stem-and-leaf diagrams, then choosing and interpreting representations. The detailed teaching and longer examples are in [the study guide](/resources/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams/). Test yourself with [the practice set](/resources/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams-practice/), use [the 4040 hub](/boards/cambridge/o-level/statistics/) and [the printable checklist](/checklists/cambridge/o-level/statistics/), and find gaps with the [free diagnostics](/diagnostics/). The wider topic is in [the topic 2 revision notes](/resources/o-level-statistics-summary-representation-revision-notes/).

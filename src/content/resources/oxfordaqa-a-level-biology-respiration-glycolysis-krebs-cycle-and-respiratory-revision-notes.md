@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on glycolysis, fermentation, the Krebs cycle, ATP synthase, RQ and required practical 8 for OxfordAQA A-level Biology 9610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense section 3.3.3, Respiration, of the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1 (International AS exams May/June 2017 onwards, International A-level exams May/June 2018 onwards). They cover 3.3.3.1 to 3.3.3.4 and required practical 8. The specification lists Unit 3, Populations and genes, as International A-level only.

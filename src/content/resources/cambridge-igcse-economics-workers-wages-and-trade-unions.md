@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "trade-unions-cambridge-igcse-economics"
 description: "Choice of occupation, wage determination, earnings differences, specialisation and trade unions, taught with worked examples for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.3 (Workers) and 3.4 (Trade unions) of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. The subject is not tiered, so all candidates study all of it. Every firm, country and figure below is invented and is there only to show the method. For the wider topic see [Microeconomic decision makers](/resources/cambridge-igcse-economics-microeconomic-decision-makers/). Condensed recall is in the [revision notes](/resources/cambridge-igcse-economics-workers-wages-and-trade-unions-revision-notes/) and exam-style questions are in the [practice set](/resources/cambridge-igcse-economics-workers-wages-and-trade-unions-practice/). The [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/) sit alongside.

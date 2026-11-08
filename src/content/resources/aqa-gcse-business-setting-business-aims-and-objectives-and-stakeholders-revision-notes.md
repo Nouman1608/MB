@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "stakeholders-aqa-gcse-business"
 description: "Condensed revision notes for AQA GCSE Business (8132) 3.1.3 and 3.1.4: objectives, changing objectives, stakeholders, impact, influence and conflict."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense sections 3.1.3 (Setting business aims and objectives) and 3.1.4 (Stakeholders) of the AQA GCSE Business (8132) specification, for first teaching from September 2017. For full explanations and worked examples, read the [study guide](/resources/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders/). When you are ready, try the [practice questions](/resources/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders-practice/), and use the [free diagnostics](/diagnostics/) to check where you stand.

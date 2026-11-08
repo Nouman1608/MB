@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "mutation-and-cancer-oxfordaqa-alevel-biology"
 description: "Study guide to OxfordAQA International AS and A-level Biology 9610, 3.2.10-3.2.11: cell cycle, mitosis, binary fission, mutation, cancer, mitotic index."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide follows the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1 (International AS exams from May/June 2017, International A-level exams from May/June 2018). It covers sections 3.2.10 (cells divide by binary fission and mitosis) and 3.2.11 (mutation and cancer), plus Required practical 4. The specification places both sections in Unit 2, Biological systems and disease, which is listed under "International AS and A-level"; Units 3 and 4 are the International A-level only units.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-nitrogen-compounds-amines-amides-amino-acids-and-proteins-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 19: amines, amides, azo dyes, polyamides, poly(ethenol), amino acids and Core Practical 15, worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 19: Organic Nitrogen Compounds: Amines, Amides, Amino Acids and Proteins of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Learning outcomes 19.1 to 19.12 are covered, including Core Practical 15. The topic belongs to International A2 (IA2), within Unit 5: Transition Metals and Organic Nitrogen Chemistry; its practical skills also feed into Unit 6: Practical Skills in Chemistry II.

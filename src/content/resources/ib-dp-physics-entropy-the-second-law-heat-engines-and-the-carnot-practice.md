@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-4"
 description: "Twelve original IB DP Physics B.4 (HL only) questions on entropy, microstates, the second law, heat engines and the Carnot limit, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

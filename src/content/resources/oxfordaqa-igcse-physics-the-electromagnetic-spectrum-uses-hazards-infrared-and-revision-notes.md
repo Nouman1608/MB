@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-electromagnetic-spectrum-oxfordaqa"
 description: "Condensed revision notes on EM wave order, infrared, black-body radiation, uses, hazards and X-rays for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These revision notes condense section 3.3.2, The electromagnetic spectrum (statements a to m), of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. The qualification is untiered. Statements e and f, and the emission detail in d, are for the full Physics award. For full explanations read the [study guide](/resources/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and/) first, then try the [practice questions](/resources/oxfordaqa-igcse-physics-the-electromagnetic-spectrum-uses-hazards-infrared-and-practice/).
 

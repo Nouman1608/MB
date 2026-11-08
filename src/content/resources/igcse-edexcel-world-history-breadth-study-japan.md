@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-japan-4hi1"
 description: "Study guide to Breadth Study B3, Japan 1853–1945, for Edexcel IGCSE History 4HI1: Perry, the Meiji era, empire, Taisho democracy, militarism and defeat in 1945."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

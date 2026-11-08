@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "energy-resources-oxfordaqa-igcse"
 description: "Study guide to energy transfers, efficiency, Sankey diagrams and energy resources for OxfordAQA International GCSE Physics (9203), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. It covers sections 3.2.2 (energy transfers, conservation and dissipation of energy) and 3.2.3 (energy resources). The qualification is untiered, so everything here is for every candidate. Work, kinetic energy and gravitational potential energy (3.2.1) are used as tools and are explained in the [Energy study guide](/resources/igcse-oxfordaqa-physics-energy/).

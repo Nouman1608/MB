@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "classification"
 description: "Study guide to classification for Cambridge O Level Biology 5090: species, binomial names, keys, the five kingdoms, animal and plant groups, viruses."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches Topic 2, Classification, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 2.1 Concept and use of a classification system and 2.2 Features of organisms. The 5090 syllabus is not tiered, so everything here is examinable for every candidate. Subject content like this is assessed on Paper 1 (Multiple Choice, 1 hour) and Paper 2 (Theory, 1 hour 45 minutes); Papers 3 and 4 assess experimental skills.

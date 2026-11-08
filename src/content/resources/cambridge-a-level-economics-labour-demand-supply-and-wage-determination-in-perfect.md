@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "labour-market-forces-and-government-intervention-cambridge-alevel-economics"
 description: "Study guide to labour demand, MRP theory, labour supply and equilibrium wages in perfect markets for Cambridge A Level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers sections 8.3.1 to 8.3.7 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028: how labour demand, labour supply and the wage are determined when the labour market is perfect. Topic 8 is A Level content. The syllabus says AS Level content is assumed knowledge for A Level Papers 3 and 4, so keep your AS supply and demand analysis to hand. Imperfect markets, wage differentials, transfer earnings and economic rent are separate sections and are not covered here.
 

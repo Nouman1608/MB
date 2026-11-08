@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "classification-and-evolution-ocr-alevel-biology"
 description: "Revision notes on evolution evidence, variation, adaptations, natural selection and resistance for OCR A Level Biology A (H420), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 4.2.2(e) to (i) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. Read the [study guide](/resources/ocr-a-level-biology-variation-adaptation-and-natural-selection/) for full explanations, then test yourself with the [practice questions](/resources/ocr-a-level-biology-variation-adaptation-and-natural-selection-practice/). The [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/) help you plan.

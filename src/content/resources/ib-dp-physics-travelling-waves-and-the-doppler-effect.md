@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-c-5"
 description: "Study guide to IB DP Physics C.2 and C.5: wave types, v = fλ, sound, EM waves and the Doppler effect for sound and light, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers sub-topics C.2 (Wave model) and C.5 (Doppler effect) from the IB *Physics guide* (first assessment 2025). C.2 is the same for SL and HL. In C.5 the nature of the effect, wavefront diagrams and the light-wave relationship are SL and HL; the formulas for sound and other mechanical waves are additional higher level (HL only). For quick recall use the [revision notes](/resources/ib-dp-physics-travelling-waves-and-the-doppler-effect-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-physics-travelling-waves-and-the-doppler-effect-practice/). Find your weak spots first with the [free 10-minute diagnostics](/diagnostics/).

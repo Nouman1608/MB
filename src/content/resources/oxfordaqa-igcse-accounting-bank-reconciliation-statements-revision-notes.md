@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "bank-reconciliation-statements-oxfordaqa-igcse-accounting"
 description: "Condensed recall notes, method steps and a self-test on cash book updating and bank reconciliation statements for OxfordAQA IGCSE Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense the [bank reconciliation statements study guide](/resources/oxfordaqa-igcse-accounting-bank-reconciliation-statements/) for the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, section 3.2. Use the guide for explanations and the [practice questions](/resources/oxfordaqa-igcse-accounting-bank-reconciliation-statements-practice/) once you can recall everything below. All amounts are in dollars. For the other verification techniques see the [Verification of Accounting Records revision notes](/resources/igcse-oxfordaqa-accounting-verification-revision-notes/). Find the course on the [hub](/boards/oxfordaqa/igcse/accounting/), tick it off on the [checklist](/checklists/oxfordaqa/igcse/accounting/) and check your starting level with the [free diagnostics](/diagnostics/).

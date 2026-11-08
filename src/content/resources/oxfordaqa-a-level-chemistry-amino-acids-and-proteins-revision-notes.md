@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-13-3"
 description: "OxfordAQA 9620 revision notes on amino acids and proteins: ion forms, peptide drawing, protein structure, TLC and cisplatin, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, read the [amino acids and proteins study guide](/resources/oxfordaqa-a-level-chemistry-amino-acids-and-proteins/) first.

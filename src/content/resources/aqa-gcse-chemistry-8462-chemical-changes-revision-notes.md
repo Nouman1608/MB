@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "chemical-changes-8462"
 description: "Condensed AQA GCSE Chemistry 8462 Chemical changes notes: reactivity series, redox, salts, pH, titrations and electrolysis products, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These are condensed recall notes for section **4.4 Chemical changes** (4.4.1.1 to 4.4.3.5) of the AQA GCSE

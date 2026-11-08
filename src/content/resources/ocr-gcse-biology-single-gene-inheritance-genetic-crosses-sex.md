@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "inheritance-ocr-gcse-biology"
 description: "Study guide to single gene crosses, Punnett squares, human sex determination, multi-gene features and Mendel for OCR GCSE Biology A (J247)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide covers statements B5.1i to B5.1m of OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. They sit in module B5.1 Inheritance. No statement in this unit is shown in bold, so the content is for both tiers. Terms such as allele, genome and meiosis are taught in other units; here you use them to predict and explain results.
 

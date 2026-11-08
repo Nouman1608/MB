@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "thermal-physics-ocr-alevel"
 description: "Condensed revision notes for OCR A Level Physics A (H556) section 5.1.4: gas equations, kinetic theory assumptions, r.m.s. speed, k and internal energy."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These revision notes condense section 5.1.4 (Ideal gases) of the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, which is part of the full A level. For full explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-physics-ideal-gases-and-kinetic-theory/). Then test yourself with the [practice set](/resources/ocr-a-level-physics-ideal-gases-and-kinetic-theory-practice/). The course hub is [OCR A Level Physics](/boards/ocr/a-level/physics/), the printable list is the [checklist](/checklists/ocr/a-level/physics/), and the [free 10-minute diagnostics](/diagnostics/) show gaps. Temperature scales, specific heat capacity and latent heat are in the [separate revision notes](/resources/ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific-revision-notes/).
 

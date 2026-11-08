@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "beyond-earth-ocr-gcse"
 description: "Condensed revision notes on red-shift, evidence for an expanding universe, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P8.3a to P8.3c of the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. None of the three statements is printed in bold, so they are assessed in both tiers. All three are separate Physics only content (not in Combined Science). For full explanations, read the [study guide](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation/), then try the [practice questions](/resources/ocr-gcse-physics-red-shift-the-big-bang-and-star-formation-practice/).

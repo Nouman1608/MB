@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "fundamentals-of-data-representation"
 description: "Original practice questions with answers on two's complement, floating point, errors, parity, file sizes, compression and ciphers for AQA A-Level CS 7517."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

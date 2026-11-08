@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "rightly-guided-caliphs-0493"
 description: "Recall notes on Abu Bakr, Umar, Uthman and Ali: events, policies, achievements, difficulties and leadership lessons, for Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes condense Paper 2 Topic 3 of Cambridge IGCSE Islamiyat 0493, The Period of Rule of

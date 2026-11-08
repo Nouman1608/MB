@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "trigonometry-cambridge-alevel-maths-1"
 description: "Study guide to Cambridge 9709 Pure Mathematics 1 section 1.5 Trigonometry: graphs, exact values, sin⁻¹x, two identities and equations, fully worked."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-09-28
 featured: false
 ---

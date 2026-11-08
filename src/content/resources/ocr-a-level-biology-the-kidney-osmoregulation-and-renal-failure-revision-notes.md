@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "excretion-as-an-example-of-homeostatic-control-ocr-alevel-biology"
 description: "Condensed revision notes on the nephron, ultrafiltration, ADH, kidney failure, dialysis, transplants and urine tests for OCR A Level Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense learning outcomes 5.1.2(c) to 5.1.2(f) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. For full explanations read the [study guide](/resources/ocr-a-level-biology-the-kidney-osmoregulation-and-renal-failure/), then test yourself with the [practice set](/resources/ocr-a-level-biology-the-kidney-osmoregulation-and-renal-failure-practice/). Course pages: the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/). To find weak spots first, use the [free diagnostics](/diagnostics/).

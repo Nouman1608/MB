@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "managing-stock-and-working-with-suppliers-1bs0"
 description: "Study guide to production processes, technology, bar gate stock graphs, just in time and working with suppliers, for Pearson Edexcel GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 2, Topic 2.3 Making operational decisions, content items 2.3.1 Business operations and 2.3.2 Managing stock (working with suppliers). The specification says formulae are listed in Appendix 3 and are not provided in the examinations. Productivity and unit cost are not in that list, so the forms used below are the standard forms, and you should learn them.

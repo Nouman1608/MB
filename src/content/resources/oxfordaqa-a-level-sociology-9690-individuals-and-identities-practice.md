@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "social-identities-social-change-9690"
 description: "Original OxfordAQA 9690 Unit 2 style questions on culture, subcultures, Mills's sociological imagination and changing gender, ethnic and online identities."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

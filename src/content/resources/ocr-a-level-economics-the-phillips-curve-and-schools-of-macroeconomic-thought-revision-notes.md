@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "aggregate-demand-and-aggregate-supply-ocr-alevel-economics"
 description: "Condensed revision notes on the Phillips Curve, NAIRU, adaptive expectations and the Keynesian, neo-classical and Austrian schools for OCR Economics H460."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for the Phillips Curve topic and the school-of-thought bullet in Component 2, Macroeconomics, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. For full explanations and worked examples read the [study guide](/resources/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought/), then test yourself with the [practice questions](/resources/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought-practice/). Course pages: the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/), the [Macroeconomics revision notes](/resources/ocr-a-level-economics-macroeconomics-revision-notes/) and the free [diagnostics](/diagnostics/). All figures here are invented.

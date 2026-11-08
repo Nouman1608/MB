@@ -11,11 +11,12 @@ syllabusSeries: "For first teaching 2017"
 order: 2
 description: "Exam preparation for AQA GCSE Sociology (8192) Papers 1 and 2: command words, theory and methods in both papers, and a worked evaluate answer plan."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 AQA GCSE Sociology (8192) is assessed through two written papers, not tiered: Paper 1 (The Sociology

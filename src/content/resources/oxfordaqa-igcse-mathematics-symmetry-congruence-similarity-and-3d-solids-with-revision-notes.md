@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "properties-and-constructions-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on symmetry, congruence, similar figures, solid properties and plans and elevations for OxfordAQA IGCSE Maths (9260)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes cover references G6, G7, G10 and G11 in section 3.3.1 of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). The specification states that Extension papers can assess all content, so Core content is also Extension content. Two statements are Extension only: the conditions for congruent triangles (G7) and constructing plans and elevations (G11).

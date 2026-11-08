@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "cell-structure-reproduction-and-development-edexcel-alevel-biology"
 description: "Study guide to Edexcel IAL Biology 3.9-3.16: loci, linkage, meiosis, gametes, fertilisation, mitosis, Core Practical 6 and mitotic index."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. It covers specification statements 3.9 to 3.16 of Topic 3, Cell Structure, Reproduction and Development, including Core Practical 6. Topics 1 to 4 belong to the International AS (IAS), so this unit is IAS content that also supports the International A2 (IA2) topics. There are no tiers.
 

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "marketing-analysis-cambridge-alevel-business"
 description: "Original practice questions with worked answers on elasticity, product development, R&D and sales forecasting, Cambridge A Level Business 9609 8.1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

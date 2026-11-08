@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "organic-chemistry-4ch1"
 description: "Original 4CH1 practice questions with worked answers on crude oil, cracking, alkanes, alkenes, ethanol and polymers for Edexcel International GCSE Chemistry."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p3-algebra-and-functions-edexcel-alevel-maths"
 description: "Study guide to Edexcel IAL Mathematics P3 section 1: rational expressions, functions and inverses, the modulus function and combined graph transformations."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers section 1 (Algebra and functions) of Unit P3 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification, Issue 3 (April 2019): topics 1.1 to 1.4. The specification makes P3 a compulsory unit for IAL Mathematics and IAL Pure Mathematics, and lists its IAS weighting as N/A. It also says that knowledge of P1 and P2 is assumed, so keep the [Pure 1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/) and [Pure 2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/) close.

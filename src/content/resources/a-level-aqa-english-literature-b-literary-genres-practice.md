@@ -20,9 +20,10 @@ syllabusTopics:
     subtopic: "option-1b-aspects-of-comedy-7717"
 description: "Original essay practice with top-band guidance on Paper 1 Literary Genres (tragedy or comedy) of AQA A-Level English Literature B 7717, for any studied texts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-08-26
 featured: false
 ---

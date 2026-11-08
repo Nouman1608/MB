@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "reactions-of-ions-in-aqueous-solution-7405"
 description: "Revision notes for AQA A-Level Chemistry section 3.2.6: aqua ion colours, acidity, precipitate tables, equations and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.2.6, Reactions of ions in aqueous solution, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole section is marked "A-level only". Inorganic chemistry is listed under A-level Paper 1, and Paper 3 can assess any content. Required practical 11 belongs to this section.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-financial-sector-ocr-alevel-economics"
 description: "Study guide to finance in developing and emerging economies for OCR A Level Economics (H460): Harrod-Domar, microfinance, capital flows, debt, remittances."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0, dated June 2026 and first assessed in 2021. It teaches the topic The financial sector in developing and emerging economies, part of The financial sector in Component 2, Macroeconomics (H460/02). The specification labels no content as AS or Extension. Every country, firm and number below is invented for illustration and is not a real statistic.

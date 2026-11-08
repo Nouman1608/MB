@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "sustainability-and-ethics-0715"
 description: "Cambridge IGCSE Commerce 0715 Topic 6 recall notes: sustainable supply chains, eco-friendly actions, fair trade, misleading advertising and consumer complaints."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Topic 6 of Cambridge IGCSE Commerce (0715, 2028) asks how businesses can trade without harming the

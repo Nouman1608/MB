@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "business-plans-1bs0"
 description: "Condensed revision notes on the marketing mix and business plans for Pearson Edexcel GCSE Business Theme 1 topic 1.4, with formulae and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Pearson Edexcel Level 1/Level 2 GCSE (9-1) Business (1BS0), Issue 2, July 2022, Theme 1 topic 1.4 Making the business effective, content items 1.4.3 The marketing mix and 1.4.4 Business plans. For full explanations and worked examples, read the [study guide](/resources/edexcel-gcse-business-the-marketing-mix-and-the-business-plan/). When you are ready to test yourself, use the [practice questions](/resources/edexcel-gcse-business-the-marketing-mix-and-the-business-plan-practice/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "language-of-functions-ocr-gcse-maths"
 description: "Condensed OCR GCSE Maths J560 revision notes on inequalities and functions (6.04-6.05): methods, regions, inverses, composites and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes condense sections 6.04 (Algebraic inequalities) and 6.05 (Language of functions) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). Longer explanations and more examples are in the [study guide](/resources/ocr-gcse-mathematics-inequalities-and-the-language-of-functions/). Content that the specification gives only to Higher tier learners is labelled **Higher tier only**.
 

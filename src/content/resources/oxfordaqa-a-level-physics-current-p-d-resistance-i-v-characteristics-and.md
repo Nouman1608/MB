@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "resistivity-oxfordaqa-alevel"
 description: "Study guide to current, p.d., resistance, I-V characteristics, resistivity, thermistors and superconductors for OxfordAQA AS and A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. It covers sections 3.4.1 (Basics of electricity), 3.4.2 (Current-voltage characteristics) and 3.4.3 (Resistivity). This is shared International AS and A-level content, so it applies to both qualifications. Use it with the [course hub](/boards/oxfordaqa/a-level/physics/) and tick off each point on the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

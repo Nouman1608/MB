@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "reasons-for-government-intervention-in-markets-cambridge-alevel-economics"
 description: "Study guide to why governments intervene: public goods, merit and demerit goods and price controls, with worked examples, for Cambridge 9708 Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028. It covers section 3.1, Reasons for government intervention in markets (3.1.1 to 3.1.3). This is AS Level content, which is also assumed knowledge for the A Level papers. Every number below is invented for illustration: the countries, firms and markets are fictional.

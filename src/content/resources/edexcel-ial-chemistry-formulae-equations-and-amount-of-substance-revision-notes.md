@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "formulae-equations-and-amount-of-substance-ych11"
 description: "Condensed revision notes for Edexcel IAL Chemistry Topic 1: mole formulae, ionic equations, gas calculations, yield, atom economy and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes cover Topic 1, Formulae, Equations and Amount of Substance, of the Pearson

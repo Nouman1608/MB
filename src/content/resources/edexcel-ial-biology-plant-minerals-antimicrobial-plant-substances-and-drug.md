@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "plant-structure-and-function-biodiversity-and-conservation-edexcel-alevel-biology"
 description: "Study guide for Edexcel International A Level Biology (YBI11) 4.8-4.13: plant ions, fibre strength, bacterial growth, antimicrobial plants, drug trials."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology specification (Issue 2) and covers statements 4.8 to 4.13 of Topic 4, including Core Practical 8 and Core Practical 9 and the recommended additional practical on mineral deficiencies. Topic 4 belongs to the International AS (IAS) part of the course. There are no tiers.
 

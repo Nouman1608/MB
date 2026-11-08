@@ -34,11 +34,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-11"
 description: "Condensed IB DP Maths AA revision notes on circular functions, trig identities and equations (3.5-3.11), with method steps and a quick self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 For full explanations and longer worked examples, use the [circular functions study guide](/resources/ib-dp-mathematics-aa-circular-functions-trig-identities/). These notes are for the final weeks of revision.

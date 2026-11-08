@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "differences-in-economic-development-between-countries-cambridge-igcse-economics"
 description: "Original practice questions with worked answers on population and differences in development for Cambridge IGCSE Economics, sections 5.3 and 5.4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

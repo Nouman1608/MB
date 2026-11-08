@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "wholesaling-7100"
 description: "Practice questions with answers on contract manufacturing and logistics, wholesaler functions, cash and carry and voluntary chains for O Level Commerce 7100."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check mark allocations against Cambridge 7100 specimen mark schemes before review."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check mark allocations against Cambridge 7100 specimen mark schemes before review; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-08
 featured: false
 ---

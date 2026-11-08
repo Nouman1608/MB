@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "impact-of-the-new-media-9699"
 description: "Original 9699 Paper 4 style essays on media ownership, pluralism versus Marxism, news selection and whether new media challenge power, with indicative content."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

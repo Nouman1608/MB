@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
 description: "Revision notes for OxfordAQA International A-level Biology 9610, 3.3.8: allele frequency change, selection types, allopatric and sympatric speciation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense sections 3.3.8.1 and 3.3.8.2 of the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1. Unit 3 is listed as International A-level only. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-biology-natural-selection-and-speciation/) first, then test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-natural-selection-and-speciation-practice/). Course links: the [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/), the [checklist](/checklists/oxfordaqa/a-level/biology/) and the [free diagnostics](/diagnostics/).

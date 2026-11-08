@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "simple-circuits-ocr-gcse"
 description: "Study guide to resistance, V = IR, resistors, filament lamps, diodes, thermistors, LDRs and I-V graphs for OCR GCSE (9-1) Gateway Science Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide is written for OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), and covers statements P3.2c to P3.2h in topic P3, Electricity (the simple circuits section). None of these statements is marked as Higher Tier only, so everything here is for Foundation and Higher candidates. Series and parallel calculations, power and charge flow are taught elsewhere, so they are left out. Pair this page with the [revision notes](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-revision-notes/) and the [practice questions](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-practice/). See also the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the printable [checklist](/checklists/ocr/gcse/physics/). Start with the [free 10-minute diagnostics](/diagnostics/). For paper technique, see [OCR GCSE Physics exam preparation](/resources/ocr-gcse-physics-exam-preparation/).

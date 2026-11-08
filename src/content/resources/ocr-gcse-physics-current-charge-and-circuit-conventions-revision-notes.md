@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "simple-circuits-ocr-gcse"
 description: "Condensed revision notes on current, charge, Q = It, series and parallel circuits and circuit symbols for OCR GCSE (9-1) Physics A Gateway Science (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense the OCR *GCSE (9-1) Physics A (Gateway Science)* (J249) specification, Version 5.0, July 2026, statements P3.1e, P3.1f, P3.1g, P3.2a and P3.2b. All five are assessed in both tiers; none is Higher Tier only. For full explanations, read the [study guide](/resources/ocr-gcse-physics-current-charge-and-circuit-conventions/). When you have revised, test yourself with the [practice questions](/resources/ocr-gcse-physics-current-charge-and-circuit-conventions-practice/), tick off statements on the [checklist](/checklists/ocr/gcse/physics/), or find weak spots with the [free diagnostics](/diagnostics/). The course hub is the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/).

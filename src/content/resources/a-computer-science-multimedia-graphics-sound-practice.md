@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "multimedia-graphics-sound"
 description: "Original questions with worked answers on bitmap and vector graphics, image and sound file sizes, and sampling rate and resolution, for Cambridge 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

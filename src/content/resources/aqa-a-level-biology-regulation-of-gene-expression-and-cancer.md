@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "gene-expression-is-controlled-by-a-number-of-features-aqa-alevel-biology"
 description: "Study guide to transcription factors, epigenetics, RNA interference, oncogenes, tumour suppressor genes and cancer data for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide covers AQA A-level Biology (7402) sections 3.8.2.2, *Regulation of transcription and translation*, and 3.8.2.3, *Gene expression and cancer*, from the AQA AS and A-level Biology specification for first teaching 2015. Both sections are A-level only and not AS content. The specification lists topics 5 to 8 for Paper 2 and topics 1 to 8 for Paper 3, so this content can appear on either. Other pages in this unit: the [revision notes](/resources/aqa-a-level-biology-regulation-of-gene-expression-and-cancer-revision-notes/) and the [practice questions](/resources/aqa-a-level-biology-regulation-of-gene-expression-and-cancer-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). To find weak spots first, try the [free diagnostics](/diagnostics/).
 

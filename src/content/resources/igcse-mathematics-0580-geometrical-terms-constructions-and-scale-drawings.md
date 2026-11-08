@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "scale-drawings-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopics 4.1-4.3: geometrical vocabulary, triangle constructions, nets, scale drawings and three-figure bearings, worked through."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches subtopics 4.1 Geometrical terms, 4.2 Geometrical constructions and 4.3 Scale drawings of the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. The wording is almost the same at both tiers (C4.1–C4.3 Core, E4.1–E4.3 Extended). The Extended list adds the terms plane, perpendicular bisector, hemisphere, frustum, and major and minor arc, marked **Extended only** below. Core content is examined on Papers 1 (non-calculator) and 3 (calculator); Extended on Papers 2 (non-calculator) and 4 (calculator).

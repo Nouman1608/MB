@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "links-between-macroeconomic-problems-cambridge-alevel-economics"
 description: "Condensed revision notes on macroeconomic objectives, linked problems and the Phillips curve, with a self-test, for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 10.1.1 and 10.2.1 to 10.2.5 of the Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028. Topic 10 is A Level content (topics 7 to 11), and AS content is assumed knowledge. Full explanations and longer worked examples are in the [study guide](/resources/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships/). Test yourself with the [practice questions](/resources/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships-practice/), then check the [course hub](/boards/cambridge/a-level/economics/), the [checklist](/checklists/cambridge/a-level/economics/) and the [free diagnostics](/diagnostics/). For background see [current account of the balance of payments](/resources/cambridge-a-level-economics-current-account-of-the-balance-of-payments-and/) and [floating exchange rates](/resources/cambridge-a-level-economics-floating-exchange-rates/). The figures here are made up.

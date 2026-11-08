@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-objectives-of-economic-agents-ocr-aslevel-economics"
 description: "Study guide to business objectives for OCR A Level Economics H460: profit maximisation, alternative goals, satisficing, CSR and principal-agent problem."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level in Economics (H460)* specification, version 3.0 (June 2026), first assessment in 2021. It covers the "Business objectives" topic, which sits in the microeconomics content under the area of study "Competition and market power". The specification labels no part of this topic as AS or A level only. Every number below is invented for teaching and is not real data.

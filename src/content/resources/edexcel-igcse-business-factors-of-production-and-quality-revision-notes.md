@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "quality-4bs1"
 description: "Condensed revision notes on enterprise, capital, land, labour, capital and labour intensity, quality control and TQM for Edexcel IGCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense topic 5, sections 5.3 Factors of production and 5.4 Quality, from the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. Read the [study guide](/resources/edexcel-igcse-business-factors-of-production-and-quality/) for full explanations and worked examples, and test yourself with the [practice questions](/resources/edexcel-igcse-business-factors-of-production-and-quality-practice/). Course links: the [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/), the [printable checklist](/checklists/edexcel/igcse/business/) and the [free diagnostics](/diagnostics/). Both Paper 1 (small businesses) and Paper 2 (large businesses) can draw on this content.

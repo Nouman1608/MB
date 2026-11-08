@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-myp-sciences-eassessment-structure"
 description: "Revision notes on the discrete, modular and integrated IB MYP Sciences course models and how the eAssessment option you enter sets the content of your exam."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-09-03
 featured: false
 ---

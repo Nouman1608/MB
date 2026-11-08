@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "writing-skills-7702"
 description: "Original AQA A-level English Language 7702 Paper 2 Section B practice: two short texts on language, analysis and directed writing tasks, and indicative answers."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and practice

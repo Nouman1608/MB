@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "specialisation-and-trade-ocr-aslevel-economics"
 description: "Study guide to opportunity cost, the production possibility frontier, specialisation, division of labour, money and barter for OCR A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers two topics in Component 1, Microeconomics: **Opportunity cost** (area of study Scarcity and choice) and **Specialisation and trade**. The whole specification is A Level and the text labels no content as AS or Extension. Every figure below is invented and illustrative.

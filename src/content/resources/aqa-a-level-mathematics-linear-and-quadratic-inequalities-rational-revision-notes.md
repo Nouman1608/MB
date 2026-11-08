@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "b5-inequalities-aqa-alevel-maths"
 description: "Condensed AQA A-level Maths 7357 B5 revision notes: inequality methods, fraction inequalities, set notation, region shading and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense content B5 of the AQA A-level Mathematics 7357 specification (version 1.3, 31 January 2018): solving inequalities, writing solutions, and showing regions on a graph. For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-mathematics-linear-and-quadratic-inequalities-rational/) first.

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "modelling"
 description: "Study guide for Cambridge AS & A Level IT 9626 Modelling: what-if analysis, goal seek, modelling software, spreadsheet models and simulations."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This study guide covers **topic 9, Modelling**, of Cambridge International AS & A Level Information Technology (9626). It follows the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), section 9.1 Modelling and simulations. Topic 9 is an **AS Level** topic, so it is part of both the AS Level and the full A Level. The syllabus bases **Paper 1 (Theory)** questions on sections 1–11 and **Paper 2 (Practical)** tasks on sections 8–11, so you can meet modelling in both papers. Paper 4 (Advanced Practical) may also include practical tasks from sections 8–10 within a problem-solving context.

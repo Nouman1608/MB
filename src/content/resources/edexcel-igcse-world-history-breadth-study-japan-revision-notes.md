@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-japan-4hi1"
 description: "Condensed notes on Breadth Study B3, Japan 1853–1945, for Edexcel IGCSE History 4HI1: timeline, the five themes traced, key terms, an essay plan and exam traps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the timeline and theme summaries against the 4HI1 specification and a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the timeline and theme summaries against the 4HI1 specification and a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

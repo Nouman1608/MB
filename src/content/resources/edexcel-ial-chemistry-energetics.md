@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "energetics-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 6 Energetics: enthalpy definitions, calorimetry, Hess cycles, Core Practical 2 and bond enthalpies."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 6: Energetics from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It works through learning outcomes 6.1 to 6.11, including Core Practical 2. Topic 6 is International AS (IAS) content and sits in the unit the specification calls Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols.

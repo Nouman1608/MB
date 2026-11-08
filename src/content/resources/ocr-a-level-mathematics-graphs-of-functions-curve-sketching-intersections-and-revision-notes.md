@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "algebra-and-functions-ocr-alevel-maths"
 description: "Condensed revision notes for OCR A Level Mathematics A (H240): sketching polynomials, reciprocal graphs, intersections, proportionality and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense the graph work in section 1.02 (items 1.02m to 1.02r, Stage 1) of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. The modulus parts of 1.02s and 1.02t are A Level only (Stage 2) and are covered in the separate modulus unit. For full explanations and longer worked examples, use the [study guide](/resources/ocr-a-level-mathematics-graphs-of-functions-curve-sketching-intersections-and/). When you are ready to test yourself, move on to the [practice questions](/resources/ocr-a-level-mathematics-graphs-of-functions-curve-sketching-intersections-and-practice/).

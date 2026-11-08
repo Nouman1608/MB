@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "relationship-between-countries-at-different-levels-of-development-cambridge-alevel-economics"
 description: "Study guide to multinational companies, foreign direct investment, external debt, the IMF and the World Bank for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers syllabus outcomes 11.5.3 to 11.5.7 in the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028: multinational companies (MNCs), foreign direct investment (FDI), external debt, the International Monetary Fund (IMF) and the World Bank. Topic 11 is A Level content only, so it is not examined at AS Level. The syllabus says AS content is assumed knowledge for A Level Paper 3 and Paper 4.

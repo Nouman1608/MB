@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "moments-and-levers-oxfordaqa"
 description: "Original practice questions with worked answers on terminal velocity, centre of mass, moments and levers for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-17"
 description: "11 original IB Maths AI HL questions on linear combinations, the CLT, z and t confidence intervals and Poisson models, with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "the-role-of-business-enterprise-1bs0"
 description: "Original practice questions with worked answers on business ideas, risk and reward, adding value and entrepreneurs for Edexcel GCSE Business Topic 1.1."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

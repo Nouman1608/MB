@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "verification-of-accounting-records-oxfordaqa-igcse"
 description: "Condensed recall notes on trial balances, control accounts, bank reconciliation and error correction for OxfordAQA International GCSE Accounting Topic 2 (9215)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

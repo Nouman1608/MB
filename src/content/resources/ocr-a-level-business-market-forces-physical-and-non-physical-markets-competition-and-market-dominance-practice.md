@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-forces-competition-and-market-dominance-ocr-alevel-business"
 description: "Original OCR A Level Business H431 practice questions with worked answers on market forces, physical and non-physical markets, competition and dominance."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

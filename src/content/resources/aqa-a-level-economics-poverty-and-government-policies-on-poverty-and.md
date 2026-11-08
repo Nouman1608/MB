@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-distribution-of-income-and-wealth-poverty-and-inequality-aqa-alevel-economics"
 description: "Study guide to AQA A-level Economics poverty: relative and absolute poverty, causes, effects, redistribution policies, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022), first taught from September 2015. It covers The problem of poverty (3.1.7.2) and Government policies to alleviate poverty and to influence the distribution of income and wealth (3.1.7.3). The combined PDF prints these as 4.1.7.2 and 4.1.7.3; the AQA website numbers the A-level content 3.1.7.2 and 3.1.7.3. Lorenz curves, Gini coefficients and the income-versus-wealth distinction belong to 3.1.7.1 and are not repeated here.

@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "electric-charge"
 description: "Condensed recall notes on mains safety, series and parallel circuits, resistance and electrostatic charge for Edexcel International GCSE Physics 4PH1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-06
 featured: false
 ---

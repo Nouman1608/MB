@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "lines-of-best-fit-4040"
 description: "Condensed revision notes on correlation, the method of semi-averages and prediction from y = mx + c, with a self-test, for O Level Statistics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections 9.1 and 9.2 of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027: elementary ideas of correlation, and lines of best fit by the method of semi-averages. For full explanations and more worked examples, read the [study guide](/resources/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit/). When you are ready to test yourself, use the [practice questions](/resources/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit-practice/).

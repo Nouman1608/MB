@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-labour-market-oxfordaqa-alevel-economics"
 description: "Study guide to wage discrimination and minimum wage laws, with worked examples, for OxfordAQA International AS and A-level Economics (9640)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide is written for the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. It covers sections 3.3.4.5 (discrimination in the labour market) and 3.3.4.6 (minimum wage laws). Section 3.3 is extra International A2 content. The quantitative skills in section 3.5 can be assessed in any unit, so the calculations below use them. Every firm, region and figure is invented.
 

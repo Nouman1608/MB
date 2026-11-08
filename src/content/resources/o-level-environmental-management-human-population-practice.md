@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "managing-human-population-size-5014-2027"
 description: "Practice questions with worked answers on density, dependants, push and pull factors, megacities and anti-natalist policy for O Level 5014 (2027-2029)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 These questions cover every learning outcome in Topic 7, Human population, of the 2027-2029 Cambridge O

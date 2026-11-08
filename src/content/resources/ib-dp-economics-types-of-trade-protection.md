@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-2"
 description: "Study guide to sub-topic 4.2 of IB DP Economics: tariff, quota and subsidy diagrams, administrative barriers and the HL-only calculations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.2, Types of trade protection. Tariffs, quotas, subsidies (including export subsidies) and administrative barriers are SL and HL. The calculations of effects on stakeholders, worked from a diagram, are HL only, and they are marked that way below.

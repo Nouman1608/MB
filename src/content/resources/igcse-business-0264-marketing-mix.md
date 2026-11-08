@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "marketing-mix-0264"
 description: "Study guide to product, price, place, promotion, ecommerce, marketing strategy and entering new markets for Cambridge IGCSE Business 0264."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.3 Marketing mix of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It follows the syllabus order: product, price, place, promotion, ecommerce, marketing strategy and entering new markets in other countries. The syllabus content for this section is not split into tiers. Use it with the [revision notes](/resources/igcse-business-0264-marketing-mix-revision-notes/) and the [practice questions](/resources/igcse-business-0264-marketing-mix-practice/). The course hub is [IGCSE Business](/boards/cambridge/igcse/business/), the printable list is the [checklist](/checklists/cambridge/igcse/business/), and the [free diagnostics](/diagnostics/) show where to start.

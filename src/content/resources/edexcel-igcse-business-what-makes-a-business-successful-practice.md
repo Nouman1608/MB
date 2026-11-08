@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "what-makes-a-business-successful-4bs1"
 description: "Original practice questions with worked answers on measuring success and reasons for business failure, Edexcel IGCSE Business 4BS1 section 1.8."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "books-of-original-entry-4ac1"
 description: "Study guide to Edexcel IGCSE Accounting 4AC1 business documents, day books, cash book, petty cash book and journal, with five worked examples."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches sections 2.1 Business documentation and 2.2 Books of original entry of Topic 2, Introduction to bookkeeping, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. Paper 1 draws on topics 1 to 3, so this content sits in that paper. All businesses and figures are invented, and all amounts are in dollars ($). For condensed recall use the [revision notes](/resources/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry-revision-notes/), and for exam-style questions use the [practice set](/resources/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry-practice/).

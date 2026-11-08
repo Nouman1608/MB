@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "monitoring-and-maintaining-health-ocr-gcse-biology"
 description: "Condensed recall notes on health, types of disease, disease interactions, spread and prevention of communicable disease for OCR GCSE Biology A (J247)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense statements B6.3a to B6.3e of the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), Topic B6 Global challenges. All five statements are assessed in both Foundation and Higher Tier papers. For full explanations, read the [study guide](/resources/ocr-gcse-biology-health-disease-types-and-the-spread-and-prevention-of/). Then test yourself with the [practice questions](/resources/ocr-gcse-biology-health-disease-types-and-the-spread-and-prevention-of-practice/). Course pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), [checklist](/checklists/ocr/gcse/biology/) and [free diagnostics](/diagnostics/).

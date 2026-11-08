@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "criticisms-of-families-8192"
 description: "Original AQA GCSE Sociology 8192 practice on Parsons, the Rapoports, Willmott and Young, Zaretsky and Delphy and Leonard, with item-based and 12-mark answers."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

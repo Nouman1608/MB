@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-c-4"
 description: "Study guide to standing waves, pipes and strings, resonance and damping for IB Diploma Physics, section C.4, with worked examples for SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This study guide follows the IB *Physics guide*, first assessment 2025, and covers section C.4 (standing waves and resonance), which is taught to both SL and HL. The guide adds no higher-level content to C.4, so everything here applies at both levels. It sits within topic C, wave behaviour. You can check your progress against the [printable checklist](/checklists/ib/ib-dp/physics/) and the [IB Physics hub](/boards/ib/ib-dp/physics/). Condensed recall is in the [revision notes](/resources/ib-dp-physics-standing-waves-resonance-and-damping-revision-notes/) and exam-style questions are in the [practice set](/resources/ib-dp-physics-standing-waves-resonance-and-damping-practice/). For the wider course map see the [IB DP Physics syllabus guide](/resources/ib-dp-physics-syllabus-guide/), and to find out where you stand today try the [free diagnostics](/diagnostics/).

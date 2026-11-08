@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "moving-charges-in-a-magnetic-field-oxfordaqa-alevel-physics"
 description: "Original practice questions with worked answers on F = BIL, the tesla, F = BQv, circular paths and the cyclotron for OxfordAQA A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

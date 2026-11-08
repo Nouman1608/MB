@@ -30,9 +30,10 @@ syllabusTopics:
     subtopic: "static-electricity"
 description: "AQA GCSE Physics 8463 Electricity taught from scratch: current, resistance, series and parallel circuits, mains, power and static, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-27
 featured: false
 ---

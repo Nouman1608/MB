@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "chemical-bonds-ionic-covalent-and-metallic-9202"
 description: "Condensed revision notes for OxfordAQA International GCSE Chemistry 3.2.1: ion charges, ionic lattices, covalent diagrams and metallic bonding."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.2.1, Chemical bonds: ionic, covalent and metallic, of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Statements a to j are all here, and with no tiers in this qualification every line is examinable. The full teaching, with seven worked examples, is in the [chemical bonds study guide](/resources/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic/).

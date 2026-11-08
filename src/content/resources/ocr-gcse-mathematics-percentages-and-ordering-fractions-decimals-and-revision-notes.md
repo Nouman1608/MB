@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ordering-fractions-decimals-and-percentages-ocr-gcse-maths"
 description: "Condensed OCR GCSE Mathematics revision notes on percentages, multipliers, percentage change, reverse percentages, simple interest and ordering."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections 2.03 and 2.04 of the OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026). Everything here is Foundation and Higher tier content; nothing in this unit is Higher tier only. Read the [full study guide](/resources/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and/) for explanations, then test yourself with the [practice questions](/resources/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and-practice/). Course links: the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), the [printable checklist](/checklists/ocr/gcse/mathematics/), the [fractions, decimals and percentages overview](/resources/ocr-gcse-mathematics-fractions-decimals-and-percentages/) and the [free diagnostics](/diagnostics/).

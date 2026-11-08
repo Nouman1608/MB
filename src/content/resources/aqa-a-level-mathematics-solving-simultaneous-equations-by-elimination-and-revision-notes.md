@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "b4-simultaneous-equations-aqa-alevel-maths"
 description: "Condensed revision notes on simultaneous equations by elimination and substitution, line-curve cases and a self-test, for AQA A-level Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense statement B4 of Section B (Algebra and functions) in the AQA A-level Mathematics specification, first teaching 2017. For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and/). When you are ready to test yourself, use the [practice set](/resources/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and-practice/). Course links: [AQA A-level Mathematics hub](/boards/aqa/a-level/mathematics/), [printable checklist](/checklists/aqa/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).

@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "work-poverty-and-welfare-7192"
 description: "Condensed AQA 7192 Work, Poverty and Welfare revision notes: key terms, studies at a glance, essay plan, self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense the [Work, Poverty and Welfare study guide](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare/). Read that first if a term here is new to you.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "accounting-concepts-oxfordaqa-igcse-accounting"
 description: "Condensed notes on the ten general accounting concepts in OxfordAQA International GCSE Accounting 9215, with worked reminders and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 3.3 of the OxfordAQA International GCSE Accounting (9215) specification, version 1.2 (exams from May/June 2026 onwards): the ten general accounting concepts and their use in the listed situations. For full explanations read the [study guide](/resources/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-accounting-general-accounting-concepts-and-their-use-practice/). Also see the [course hub](/boards/oxfordaqa/igcse/accounting/), the [printable checklist](/checklists/oxfordaqa/igcse/accounting/) and the [free diagnostics](/diagnostics/). Amounts are in dollars; all businesses and figures are invented.

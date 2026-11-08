@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-integration-oxfordaqa-alevel-maths"
 description: "Condensed revision notes for P1.4 integration in OxfordAQA International AS and A-level Mathematics 9660, with methods, a self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense section P1.4 (Integration) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places the content in International AS, Unit P1 (Pure Maths); there are no Core, Extension or Higher labels. The [study guide](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and/) has the explanations and longer worked examples. Then use the [practice questions](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and-practice/), the [course hub](/boards/oxfordaqa/a-level/mathematics/), the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/) and the [free diagnostics](/diagnostics/) to find weak spots.
 

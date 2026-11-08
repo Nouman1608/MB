@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "plant-organ-system-aqa-gcse-biology"
 description: "Original AQA GCSE Biology 8461 questions on leaf tissues, root hair cells, xylem, phloem, stomata, transpiration and potometer rates, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

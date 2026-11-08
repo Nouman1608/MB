@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "trends-in-macroeconomic-indicators-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to trends in macroeconomic indicators: reading data, UK phases, and comparing economies."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. It covers the topic **Trends in macroeconomic indicators**, in the Area of Study Economic policy objectives and indicators of macroeconomic performance, within Component 02, Macroeconomics. The specification asks you to explain the key trends in UK macroeconomic performance in the last 20 years and to evaluate the current performance of the UK economy compared with other developed, emerging and developing economies. All countries and figures in the worked examples are invented. The short account of the UK is broad-brush: check exact figures against the latest release from the Office for National Statistics.

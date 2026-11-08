@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "automated-and-emerging-technologies-2210"
 description: "Recall notes for Topic 6 of Cambridge O Level Computer Science 2210: the control loop, automation pros and cons, robots, expert systems and machine learning."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 6 of Cambridge O Level Computer Science (2210) rewards a small set of definitions applied carefully to scenarios: the sensor–microprocessor–actuator loop, the three characteristics of a robot, the characteristics of AI, the four parts of an expert system and the meaning of machine learning. These notes give each in exam-ready form, with answer frames you can reuse on Paper 1.

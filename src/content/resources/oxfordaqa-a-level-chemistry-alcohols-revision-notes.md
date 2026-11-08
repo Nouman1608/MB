@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-5-2"
 description: "Condensed OxfordAQA 9620 alcohols notes: classes, [O] equations, distil vs reflux, Fehling's and Tollens', elimination, practical 4 and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Start with the [alcohols study guide](/resources/oxfordaqa-a-level-chemistry-alcohols/) if any idea here is new:

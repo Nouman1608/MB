@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "kq-4-1-2251"
 description: "Original Cambridge O Level Sociology 2251 Family practice on family structures, diversity, New Right and postmodern views and marriage types, with answers."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

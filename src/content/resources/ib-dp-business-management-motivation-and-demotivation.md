@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-4"
 description: "Study guide to section 2.4 of IB DP Business Management: motivation theories, rewards, training, and the HL points on turnover, appraisal and recruitment."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 2.4, Motivation and demotivation, in Unit 2 (Human resource management) of the IB *Business management guide*, first assessment 2024. The guide labels several content points in this section "HL only". Those are marked below, and everything else applies to SL and HL. The official text lists names and headings without long explanations, so where this guide gives the standard textbook account of a theory or formula it says so. All amounts of money are in dollars.

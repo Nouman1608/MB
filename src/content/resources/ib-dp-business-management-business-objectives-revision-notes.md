@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-1-3"
 description: "Condensed revision notes on vision and mission, business objectives, strategic versus tactical aims and CSR for IB DP Business Management section 1.3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for section 1.3, Business objectives, in the IB *Business management guide* (first assessment 2024), for SL and HL. Full explanations and two worked examples are in the [study guide](/resources/ib-dp-business-management-business-objectives/). When you are ready to test yourself, use the [practice questions](/resources/ib-dp-business-management-business-objectives-practice/), the [syllabus checklist](/checklists/ib/ib-dp/business/), the [course hub](/boards/ib/ib-dp/business/) and the [free diagnostics](/diagnostics/).

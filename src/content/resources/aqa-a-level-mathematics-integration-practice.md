@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "h-integration-aqa-alevel-maths"
 description: "Original integration questions with mark-by-mark answers for AQA A-level Maths (7357) Section H, from standard integrals to differential equations."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

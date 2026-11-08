@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "inventory-and-supply-chain-management-9725"
 description: "Eleven original OxfordAQA 9725 Business questions on operations calculations, inventory charts, make or buy, quality and lean, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

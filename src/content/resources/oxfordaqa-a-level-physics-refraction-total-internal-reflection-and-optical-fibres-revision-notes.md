@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "refraction-at-a-plane-surface-oxfordaqa"
 description: "Condensed revision notes on refractive index, Snell's law, critical angle, step index fibres, dispersion and absorption for OxfordAQA Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense section 3.5.8 (Refraction at a plane surface) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. This is shared AS and A-level content. The [study guide](/resources/oxfordaqa-a-level-physics-refraction-total-internal-reflection-and-optical-fibres/). Check what to revise with the [free diagnostics](/diagnostics/), tick the [printable checklist](/checklists/oxfordaqa/a-level/physics/) and see the [course hub](/boards/oxfordaqa/a-level/physics/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-refraction-total-internal-reflection-and-optical-fibres-practice/).

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "trade-and-the-global-economy-edexcel-alevel-economics"
 description: "Condensed revision notes on the WTO, trading blocs, tariffs, quotas and protectionism for Pearson Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes cover section 4.3.2 items 4 and 5 of the *Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics* specification (YEC11), Issue 2, June 2018: trade liberalisation and trading blocs, and restrictions on free trade. The specification lists Unit 4 among the International A2 units, so this content is for the full International A Level only (Units 1 and 2 are the International AS). For full explanations see the [study guide](/resources/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism/). Then test yourself with the [practice questions](/resources/edexcel-ial-economics-trading-blocs-the-wto-and-protectionism-practice/), the [Edexcel economics hub](/boards/edexcel/a-level/economics/), the [printable checklist](/checklists/edexcel/a-level/economics/) and the free [diagnostics](/diagnostics/). All numbers are invented.

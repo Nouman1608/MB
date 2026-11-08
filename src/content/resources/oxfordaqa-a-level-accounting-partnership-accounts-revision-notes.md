@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "partnership-accounts-oxfordaqa"
 description: "Revision notes for OxfordAQA A-Level Accounting 9615 partnership accounts: Act 1890 defaults, appropriation steps, ratio rules and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 3.2.5, Partnership accounts, of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. All of 3.2.5 is International A-level only, and the specification places it among the sections assessed in Paper 3: Financial Accounting. The full method and longer examples are in the [study guide](/resources/oxfordaqa-a-level-accounting-partnership-accounts/); to test yourself, use the [practice questions](/resources/oxfordaqa-a-level-accounting-partnership-accounts-practice/).

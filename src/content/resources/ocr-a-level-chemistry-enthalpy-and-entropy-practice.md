@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-2-2"
 description: "Original practice questions with marked answers on OCR A Level Chemistry A 5.2.2: entropy, ∆S, Gibbs free energy, feasibility and kinetics."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

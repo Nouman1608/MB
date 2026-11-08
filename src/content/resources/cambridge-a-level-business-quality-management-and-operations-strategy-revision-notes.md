@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "operations-strategy-cambridge-alevel-business"
 description: "Condensed revision notes for 9.2 Quality management and 9.3 Operations strategy in Cambridge A Level Business 9609, with a self-test and lost marks."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These are condensed notes for sections 9.2 Quality management and 9.3 Operations strategy of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Both are A Level topics. For explanations and worked examples use the [study guide](/resources/cambridge-a-level-business-quality-management-and-operations-strategy/), then test yourself with the [practice questions](/resources/cambridge-a-level-business-quality-management-and-operations-strategy-practice/). See also the [Topic 9 practice set](/resources/a-level-business-operations-a-level-practice/) and [inventory management notes](/resources/cambridge-a-level-business-inventory-management-revision-notes/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

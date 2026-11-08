@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "rate-of-reaction-9202"
 description: "Condensed OxfordAQA IGCSE Chemistry (9202) notes on rate of reaction: rate units, graphs, collision theory, the four factors, catalysts and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, use the [rate of reaction study guide](/resources/oxfordaqa-igcse-chemistry-rate-of-reaction/). Use these pages for quick recall once you have learned the content.

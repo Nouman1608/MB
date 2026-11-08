@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "speaking-and-listening-optional-endorsement-9270"
 description: "Speaking purposefully, listening actively and taking part in discussion for the optional endorsement in OxfordAQA IGCSE English Language 9270."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the task types, timing, criteria, grade labels, and recording and moderation rules for the endorsement in the specification, as only general speaking and listening skills are taught here. 2026-11-08 recheck: FAQ added."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the task types, timing, criteria, grade labels, and recording and moderation rules for the endorsement in the specification, as only general speaking and listening skills are taught here. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

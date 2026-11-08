@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "analysing-the-strategic-position-of-a-business-aqa-alevel-business"
 description: "Study guide to AQA A-Level Business 7132 topic 7: mission and strategy, ratios, performance, external change, Porter and investment appraisal."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the whole of topic 3.7, Analysing the strategic position of a business, in the AQA AS and A-level Business specification (7131 and 7132). The topic is A-level only. Every content point in its eight sections is covered, the external-environment sections most briefly. 

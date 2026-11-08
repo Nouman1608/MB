@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c1-1"
 description: "Original IB DP Biology C1.1 practice questions on enzymes and metabolism, with worked answers and examiner insights; HL inhibition questions are labelled."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

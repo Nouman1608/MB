@@ -21,9 +21,12 @@ syllabusTopics:
     subtopic: "boolean-algebra-and-logic-circuits"
 description: "Cambridge A Level Computer Science 9618 Topic 15 guide: RISC and CISC, pipelining, parallel processing, virtual machines, Karnaugh maps, adders, flip-flops."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This A Level topic extends the AS work on processors and logic gates. It asks why different processor designs exist, how instructions can be overlapped or executed at the same time, how a virtual machine lets one computer behave like another, and how Boolean algebra and Karnaugh maps are used to design and simplify logic circuits, including adders and flip-flops.

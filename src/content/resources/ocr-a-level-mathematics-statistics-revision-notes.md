@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "statistics-ocr-alevel-maths"
 description: "Condensed OCR A Level Mathematics A (H240) statistics notes on sampling, data, correlation, probability, binomial and normal distributions and hypothesis tests."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

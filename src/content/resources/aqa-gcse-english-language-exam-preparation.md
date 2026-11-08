@@ -11,11 +11,12 @@ syllabusSeries: "First assessed 2017"
 order: 3
 description: "How AQA GCSE English Language 8700's two papers each split evenly between Reading and Writing marks, and a worked timing-allocation routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-09
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 AQA GCSE English Language (8700) is a linear, non-tiered qualification of two equally weighted written

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electrolysis-9202"
 description: "Electrolysis for OxfordAQA International GCSE Chemistry (9202) taught from scratch: ions, half equations, mixed ions, electroplating, aluminium and brine."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches electrolysis for OxfordAQA International GCSE Chemistry (9202). It follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and covers every statement in section 3.3.2 (statements a to j) plus the required practical on copper sulfate solution. The qualification is untiered, so everything here applies to every candidate.

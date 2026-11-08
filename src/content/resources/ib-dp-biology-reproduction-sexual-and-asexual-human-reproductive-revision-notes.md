@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d3-1"
 description: "Condensed IB DP Biology revision notes on D3.1.1-D3.1.12: reproduction types, hormone cycles, fertilization, IVF, flowers and seeds, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense statements D3.1.1 to D3.1.12 of the IB *Biology guide*, first assessment 2025, for DP Biology (SL and HL). For full explanations read the [study guide](/resources/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive/), then test yourself with the [practice questions](/resources/ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive-practice/). Links: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [printable checklist](/checklists/ib/ib-dp/biology/), [free 10-minute diagnostics](/diagnostics/).

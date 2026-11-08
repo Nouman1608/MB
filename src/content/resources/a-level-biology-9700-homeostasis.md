@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "homeostasis-in-plants-cambridge-alevel-biology"
 description: "Study guide for Cambridge 9700 topic 14: negative feedback, the kidney and nephron, ADH, glucagon cell signalling, insulin, biosensors and guard cells."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches topic 14, Homeostasis, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers section 14.1 Homeostasis in mammals (learning outcomes 1–11) and section 14.2 Homeostasis in plants (outcomes 1–4). Topic 14 is **A Level content**, not AS: it is examined on Paper 4 (A Level Structured Questions), which also expects AS knowledge, and it can supply the context for Paper 5 (Planning, Analysis and Evaluation).

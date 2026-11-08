@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "q-kinematics-aqa-alevel-maths"
 description: "Study guide for AQA A-level Maths (7357) Section Q: kinematics language, motion graphs, suvat, calculus, vectors and projectiles, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches **Section Q: Kinematics (Q1 to Q5)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section Q under **Paper 2**, with vectors, units, forces and moments. A calculator is required in every 7357 paper.

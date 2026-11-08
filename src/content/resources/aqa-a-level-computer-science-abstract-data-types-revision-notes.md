@@ -39,8 +39,12 @@ syllabusTopics:
     subtopic: "vectors-7517"
 description: "Condensed recall notes on files, static and dynamic structures, queues, stacks, graphs, trees, hash tables, dictionaries and vectors for AQA A-Level 7517."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Condensed for the final weeks. These notes cover 4.2.1.3–4.2.8 of AQA

@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "wave-behaviour-ocr-gcse"
 description: "Original practice questions with worked answers on sound at boundaries, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), incl. Higher Tier."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

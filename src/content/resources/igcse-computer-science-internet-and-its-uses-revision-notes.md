@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "the-internet-and-its-uses"
 description: "Revision notes on the internet and WWW, URLs, HTTP/HTTPS, browsers, DNS, cookies, blockchain, cyber threats and security solutions for Cambridge IGCSE CS 0478."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 5 covers how the web works on top of the internet, how a browser finds and displays a page, what cookies and digital currencies are, and how cyber security threats are carried out and defended against. In Cambridge IGCSE Computer Science (0478) it is examined on Paper 1; the cyber security section (5.3) is one of the most heavily tested parts of the paper, and most marks come from describing a process step by step.

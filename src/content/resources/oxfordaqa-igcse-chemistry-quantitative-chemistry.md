@@ -23,11 +23,12 @@ syllabusTopics:
     subtopic: "molar-concentrations-9202"
 description: "OxfordAQA International GCSE Chemistry 9202 guide to conservation of mass, the mole, reacting masses, concentrations and gas volumes, with worked examples."
 author: "nouman-ahmed"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 This guide covers **Quantitative chemistry**, one of the ten topic areas of

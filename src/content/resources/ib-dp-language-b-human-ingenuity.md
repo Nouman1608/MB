@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "ib-dp-language-b-human-ingenuity"
 description: "Study guide to the Human ingenuity theme in IB DP Language B: its five recommended topics, two possible questions and worked examples for every component."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This study guide teaches **Human ingenuity**, the third of the five prescribed themes in IB Diploma Programme Language B. It is aligned to the IB *Diploma Programme Subject Brief: Language B*, first assessment 2020, and covers the theme exactly as its content outline sets it out: the guiding principle, the optional recommended topics and the possible questions. Both SL and HL students study the theme; what changes between levels is the complexity of language you handle, not the theme. It follows the IB Language B subject brief for first assessment 2020, which remains the examined course until the new syllabus is first assessed in May 2029, so it applies to the 2026, 2027 and 2028 sessions.

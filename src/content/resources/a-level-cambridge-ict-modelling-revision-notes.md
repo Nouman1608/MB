@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "modelling"
 description: "Revision notes for Cambridge AS & A Level IT 9626 Modelling: what-if and goal seek steps, uses, model strengths and limits, and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 For full explanations and worked examples, use the [Modelling study guide](/resources/a-level-cambridge-ict-modelling/). These notes condense **topic 9, Modelling**, of Cambridge International AS & A Level Information Technology (9626), following the syllabus for examination in 2025, 2026 and 2027 (version 3), section 9.1 Modelling and simulations. It is an **AS Level** topic. Paper 1 (Theory) questions are based on sections 1–11 and Paper 2 (Practical) tasks on sections 8–11, so revise both the theory and the spreadsheet skills.

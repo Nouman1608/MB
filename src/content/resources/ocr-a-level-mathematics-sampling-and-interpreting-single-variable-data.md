@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "data-presentation-and-interpretation-ocr-alevel-maths"
 description: "Study guide to sampling, histograms, averages, standard deviation, outliers and data cleaning for OCR A Level Mathematics A, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches specification sections 2.01a to 2.01d (statistical sampling) and 2.02a, 2.02b and 2.02f to 2.02j (single-variable data) of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026). All of this content is in Stage 1, the column shared with AS Level, and there is no A Level only item here. The specification places Statistics in component 02 and says some items there are set in the context of the pre-release large data set, so practise reading summary statistics and diagrams from real data.

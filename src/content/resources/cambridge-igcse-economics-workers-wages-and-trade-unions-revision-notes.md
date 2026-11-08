@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "trade-unions-cambridge-igcse-economics"
 description: "Condensed definitions, diagrams, formulas and a self-test on workers, wages and trade unions for Cambridge IGCSE Economics 0455."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 

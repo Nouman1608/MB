@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "segmentation-targeting-and-positioning-9725"
 description: "Original practice questions with worked answers on segmentation, targeting and positioning for OxfordAQA International AS and A-level Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

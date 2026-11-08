@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "cash-flow-forecasting-and-working-capital"
 description: "Why cash matters, how to build, complete and interpret a simple cash-flow forecast, fixes for short-term shortfalls, and working capital."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 5.2 (Cash-flow forecasting and working capital) of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It covers 5.2.1 (the importance of cash and of cash-flow forecasting) and 5.2.2 (working capital). Everything is explained from scratch, with worked examples built on invented businesses. All amounts are in dollars, and tables show plain numbers.

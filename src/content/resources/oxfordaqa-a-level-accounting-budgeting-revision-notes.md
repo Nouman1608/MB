@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "budgeting-oxfordaqa"
 description: "Condensed OxfordAQA A-level Accounting revision notes on 3.1.9 Budgeting: formulas, budget layouts, ZBB versus incremental, and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 For full explanations and longer worked examples, read the

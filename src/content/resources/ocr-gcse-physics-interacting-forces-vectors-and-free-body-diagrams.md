@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "newtons-laws-ocr-gcse"
 description: "Study guide to interacting forces, vectors, resultants, free body diagrams and Newton's first and third laws for OCR GCSE (9-1) Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, for first assessment in 2018). They sit in topic P2, section P2.2 Newton's laws. P2.2e to P2.2h are printed in bold in the specification, so they are **Higher Tier only**: vector diagrams for resultants at right angles, resolution and equilibrium, and describing the forces on an isolated object (such as terminal velocity) with free body diagrams. P2.2a to P2.2d and P2.2p are for both tiers, and adding or subtracting forces along one line is also used at both tiers with Newton's first and second laws. Newton's second law, inertia, momentum and circular motion are taught separately, as are work done, stored energy and power.

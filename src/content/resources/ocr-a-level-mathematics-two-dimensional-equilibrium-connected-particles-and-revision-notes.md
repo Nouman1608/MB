@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-and-newtons-laws-ocr-alevel-maths"
 description: "Condensed revision notes on resultants, 2D equilibrium, inclined planes, connected particles, pulleys and vector dynamics for OCR A Level Mathematics A."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense outcomes 3.03l to 3.03q of the OCR A Level Mathematics A specification (H240, Version 3.1, August 2026, for first assessment in 2018). Only 3.03n is Stage 1 (common with AS); everything else here is Stage 2, so it is **A Level only**. For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-mathematics-two-dimensional-equilibrium-connected-particles-and/). Test yourself with the [practice questions](/resources/ocr-a-level-mathematics-two-dimensional-equilibrium-connected-particles-and-practice/). The course page is [OCR A Level Mathematics](/boards/ocr/a-level/mathematics/), the printable list is the [checklist](/checklists/ocr/a-level/mathematics/), and the [free diagnostics](/diagnostics/) help you decide what to revise first. Take g = 9.8 m s⁻² unless told otherwise. All surfaces on this page are smooth.
 

@@ -29,9 +29,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-prescribed-subjects-5"
 description: "How to study the five Paper 1 prescribed subjects in IB DP History: source skills, the four question types, case-study themes and a worked source analysis."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the current subject guide for the case studies named under each prescribed subject, as only one prescribed subject is studied and the named examples differ by subject. 2026-11-08 recheck: added the ten named case studies, corrected Question 1 and Question 4 descriptions, added FAQ."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the current subject guide for the case studies named under each prescribed subject, as only one prescribed subject is studied and the named examples differ by subject. 2026-11-08 recheck: added the ten named case studies, corrected Question 1 and Question 4 descriptions, added FAQ; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

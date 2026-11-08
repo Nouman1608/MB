@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "straight-line-graphs-ocr-gcse-maths"
 description: "Condensed revision notes on lines, gradients, parallel and perpendicular lines, inequality regions and circle tangents for OCR GCSE Mathematics J560."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections 7.01f, 7.02a and 7.02b of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). Read the [full study guide](/resources/ocr-gcse-mathematics-straight-line-graphs-parallel-and-perpendicular-lines/) for explanations, then test yourself with the [practice questions](/resources/ocr-gcse-mathematics-straight-line-graphs-parallel-and-perpendicular-lines-practice/). Items marked **Higher tier only** are not needed on the Foundation tier. See also the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), the [checklist](/checklists/ocr/gcse/mathematics/) and the [10-minute diagnostics](/diagnostics/).

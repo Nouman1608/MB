@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "energy-and-ecosystems-aqa-alevel-biology"
 description: "Condensed AQA A-level Biology revision notes on biomass, calorimetry, GPP, NPP, N = I - (F + R), productivity, efficiency and farming, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed revision notes for section 3.5.3, Energy and ecosystems, in the AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015. The section is A-level only. For full explanations and longer worked examples read the [study guide](/resources/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). If you are unsure which topics to revise first, use the [free diagnostics](/diagnostics/).

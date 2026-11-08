@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "monetary-policy"
 description: "Study guide to monetary policy for Cambridge O Level Economics 2281: money supply, interest rates, exchange rates and their effects on government aims."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches Monetary policy, sections 4.4.1 to 4.4.3, from the Cambridge O Level Economics 2281 syllabus for examination in 2026 (topic 4, Government and the macroeconomy). The syllabus is not tiered. The countries, firms and numbers here are all made up. For quick recall use the [revision notes](/resources/cambridge-o-level-economics-monetary-policy-revision-notes/), then test yourself with the [practice set](/resources/cambridge-o-level-economics-monetary-policy-practice/). The course [hub](/boards/cambridge/o-level/economics/) and [printable checklist](/checklists/cambridge/o-level/economics/) show the rest of the syllabus, and the free [diagnostics](/diagnostics/) show where you are weakest.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "transition-metals-9202"
 description: "Revision notes for OxfordAQA International GCSE Chemistry 3.7.2 transition metals, with comparison tables, ion charges, catalysts and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.7.2 Transition metals (statements a and b) of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. The qualification is not tiered, and the specification says either paper may assess any part of it. Section 3.7.2 has no required practical.

@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "fracking-0680"
 description: "Practice questions with answers on rock formation, the rock cycle, sustainable mineral use, energy management, hydrogen, heat pumps and fracking for IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check mark allocations against Cambridge 0680 mark schemes before review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check mark allocations against Cambridge 0680 mark schemes before review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

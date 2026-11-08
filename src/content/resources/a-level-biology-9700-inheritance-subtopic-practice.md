@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "gene-control-cambridge-alevel-biology"
 description: "Practice questions by subtopic for Cambridge 9700 Inheritance: meiosis, sex-linked and linked crosses, epistasis, chi-squared and the lac operon."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-estimation-oxfordaqa-alevel-maths"
 description: "Revision notes on population and sample, unbiased estimators, standard error and the Central Limit Theorem for OxfordAQA International A-level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense section S2.5 (Estimation) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level (A2) Unit S2 (Statistics); it is not examined at International AS. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-a-level-mathematics-sampling-unbiased-estimators-and-the-central-limit/).
 

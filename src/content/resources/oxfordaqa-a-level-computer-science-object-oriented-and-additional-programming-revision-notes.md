@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "object-oriented-and-additional-programming"
 description: "Condensed notes for OxfordAQA A-Level Computer Science (9645) on classes, access modifiers, inheritance, overriding, association, files and recursion."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These notes condense section 3.9 Object-oriented and additional programming (3.9.1 to 3.9.4) of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. Nothing here is in the International AS; the content is assessed in Unit 3: Advanced Programming, which you sit on screen using C#, Python or VB.Net. If a point below is unfamiliar, go back to the [study guide](/resources/oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming/), which explains each idea with longer examples.

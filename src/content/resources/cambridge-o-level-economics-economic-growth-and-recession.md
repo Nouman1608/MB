@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "economic-growth"
 description: "Study guide to economic growth and recession for Cambridge O Level Economics 2281: real GDP, GDP per head, the PPC, causes, costs, benefits and policies."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 4.6 (Economic growth) of the Cambridge O Level Economics 2281 syllabus for 2026, which sits inside topic 4, Government and the macroeconomy. It covers 4.6.1 to 4.6.6 in full. The syllabus is not tiered, so everything here is for every candidate. Every country and figure in the worked examples is made up for teaching and does not describe a real economy. For a short recall version use the [revision notes](/resources/cambridge-o-level-economics-economic-growth-and-recession-revision-notes/), then test yourself with the [practice questions](/resources/cambridge-o-level-economics-economic-growth-and-recession-practice/). Use the [course hub](/boards/cambridge/o-level/economics/) and the [printable checklist](/checklists/cambridge/o-level/economics/) to track progress, and the [10-minute diagnostics](/diagnostics/) to find weak spots.

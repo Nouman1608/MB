@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c6-3-earth-systems-j248"
 description: "Study guide for OCR GCSE Chemistry A (J248) C6.3: the early atmosphere, oxygen, greenhouse effect, climate evidence, air pollutants and potable water."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 This study guide teaches **C6.3 Interpreting and interacting with earth systems**, the final sub-topic of Topic C6 Global challenges in OCR's J248 specification for GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 of August 2026. It works through learning outcomes C6.3a to C6.3g plus the mathematical learning outcomes CM6.3i and CM6.3ii. Every C6.3 statement is assessed on both tiers; none is Higher Tier only. According to the assessment overview, Topic C6 is tested in Paper 2 for Foundation entrants and Paper 4 for Higher entrants. No practical suggestions are listed for C6.3.

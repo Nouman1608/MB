@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "differentiation-ocr-alevel-maths"
 description: "Condensed revision notes for OCR A Level Mathematics A (H240) differentiation: gradient, second derivative, first principles and standard derivatives."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These are condensed notes for OCR A Level Mathematics A (H240), content references 1.07a to 1.07l, specification Version 3.1 (August 2026). For full explanations read the [study guide](/resources/ocr-a-level-mathematics-differentiation-fundamentals-gradients-second/), then test yourself with the [practice questions](/resources/ocr-a-level-mathematics-differentiation-fundamentals-gradients-second-practice/). Items marked **A Level only** are Stage 2 content. See also the [course hub](/boards/ocr/a-level/mathematics/), the [printable checklist](/checklists/ocr/a-level/mathematics/), the [pure mathematics revision notes](/resources/ocr-a-level-mathematics-pure-revision-notes/) and the [free diagnostics](/diagnostics/).

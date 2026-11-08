@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-2-10"
 description: "Study guide for IB Maths AI HL sections 2.7-2.10: composite and inverse functions, transformations, further models and log scales, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 This study guide covers the HL-only functions content of IB Diploma Programme Mathematics: Applications and Interpretation, aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021. It teaches syllabus sections AHL 2.7–2.10: composite and inverse functions, transformations of graphs, further modelling functions, and logarithmic scales and linearizing data. All of this content is HL only. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.

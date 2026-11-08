@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "entropy-and-energetics-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 12B: Born-Haber cycles, covalent character, hydration, enthalpy of solution and solubility."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches part 12B, Lattice energy, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, taking outcomes 12.12 to 12.19 in order. All of it is International A2 (IA2) content, assessed in the specification's Unit 4: Rates, Equilibria and Further Organic Chemistry. It builds on Hess's law and Group 2 chemistry (Unit 2) and on ionic bonding (Unit 1).

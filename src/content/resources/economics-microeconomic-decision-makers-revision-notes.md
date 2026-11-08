@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "microeconomic-decision-makers"
 description: "Condensed recall notes on money and banking, households, workers, trade unions and firms for Topic 3 of Cambridge O Level Economics (2281), 2026 series."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "safety-in-public-transport"
 description: "Condensed revision notes on momentum, conservation, impact force and stopping distance for OxfordAQA International GCSE Physics sections 3.1.4 and 3.1.5."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes condense sections 3.1.4 (Momentum, full Physics content marked P) and 3.1.5 (Safety in public transport) of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. For full explanations read the [study guide](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport-practice/).
 

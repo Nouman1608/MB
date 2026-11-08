@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "decimal-fractions-ocr-gcse-maths"
 description: "Condensed revision notes on fractions and decimal fractions for OCR GCSE Mathematics J560, sections 2.01 and 2.02, with a self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections **2.01 Fractions** and **2.02 Decimal fractions** of OCR GCSE (9-1) Mathematics, J560, in Version 2.1 of the specification (August 2026). The [study guide](/resources/ocr-gcse-mathematics-fractions-and-decimal-fractions/) has the full explanations and longer worked examples. Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-fractions-and-decimal-fractions-practice/). Everything is for both tiers except recurring decimals to fractions, which is **Higher tier only**. The course page is the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [printable checklist](/checklists/ocr/gcse/mathematics/) lets you tick off each reference. To find weak spots first, use the [free diagnostics](/diagnostics/).

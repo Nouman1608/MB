@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "theory-of-computation-7517"
 description: "Original practice questions with worked answers on abstraction, sets, FSMs, regex, BNF, Big-O, the Halting problem and Turing machines for AQA A-Level 7517."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

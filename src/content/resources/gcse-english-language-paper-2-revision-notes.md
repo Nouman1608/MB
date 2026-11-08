@@ -23,9 +23,10 @@ syllabusTopics:
     subtopic: "comparing-texts-8700"
 description: "Condensed recall notes on comparing two non-fiction texts and writing to a specified viewpoint for AQA GCSE English Language (8700) Paper 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-03
 featured: false
 ---

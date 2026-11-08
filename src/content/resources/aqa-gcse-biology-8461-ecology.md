@@ -30,11 +30,12 @@ syllabusTopics:
     subtopic: "food-production-aqa-gcse-biology"
 description: "Study guide for AQA GCSE Biology 8461 Topic 7 Ecology: communities, sampling, cycles, decay, biodiversity, trophic levels and food production."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches Topic 7, **Ecology** (sections 4.7.1 to 4.7.5), of the AQA GCSE Biology (8461) specification, for first teaching 2016 with exams from 2018 (version 1.0). Ecology is assessed on Paper 2, alongside Homeostasis and response and Inheritance, variation and evolution. Both tiers sit this topic; the one Higher tier only subsection, 4.7.2.4, is labelled below. The exams run every May/June for the life of the specification.

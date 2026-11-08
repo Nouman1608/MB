@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "functional-programming"
 description: "Original Haskell practice questions with worked answers on function types, composition, recursion, map, filter, folds and lists for OxfordAQA A-level CS."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

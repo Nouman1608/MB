@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "materials-aqa-alevel"
 description: "Condensed AQA A-Level Physics 7408 revision notes on mechanics and materials: key equations, methods, distinctions and a quick self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 For full explanations and worked examples, use the [Mechanics and materials study guide](/resources/aqa-a-level-physics-mechanics-and-materials/).

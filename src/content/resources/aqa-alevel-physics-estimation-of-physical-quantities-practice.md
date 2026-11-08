@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "estimation-of-physical-quantities"
 description: "Original practice questions with worked answers on orders of magnitude and derived estimates for sub-topic 3.1.3 of AQA A-level Physics (7408)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-04
 featured: false
 ---

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "introductory-organic-chemistry-and-alkanes-ych11"
 description: "Study guide for Edexcel IAL Chemistry Topic 4: hazard and risk, IUPAC naming, isomers, crude oil, fuels, pollutants and free radical substitution."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 4, Introductory Organic Chemistry and Alkanes, of the Pearson Edexcel

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "energy-flow-ecosystems-and-the-environment-edexcel-alevel-biology"
 description: "Study guide to climate change evidence, enzymes and Q₁₀, Core Practical 12, evolution, speciation and sustainable resources for Edexcel IAL Biology YBI11."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers statements 5.16 to 5.26 of Topic 5 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. That includes Core Practical 12. Topics 1 to 4 are International AS (IAS) and Topics 5 to 8 are International A2 (IA2), so this material is A2. There are no tiers. Use it with the [revision notes](/resources/edexcel-ial-biology-climate-change-evolution-speciation-and-sustainable-revision-notes/) and the [practice questions](/resources/edexcel-ial-biology-climate-change-evolution-speciation-and-sustainable-practice/). See also the [course hub](/boards/edexcel/a-level/biology/), [checklist](/checklists/edexcel/a-level/biology/) and [free diagnostics](/diagnostics/).

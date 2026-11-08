@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-carbonyls-carboxylic-acids-and-chirality-ych11"
 description: "Condensed Edexcel IAL Chemistry notes on carboxylic acids, acyl chlorides, esters and polyesters (15.9-15.16), with a quick self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, use the [carboxylic acids and derivatives study guide](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives/). Once the ideas make sense, use this page to drill the facts. Aldehyde oxidation and LiAlH₄ reduction also appear in the [carbonyl compounds study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/) for 15B.

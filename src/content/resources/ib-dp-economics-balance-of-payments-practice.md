@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-6"
 description: "Original IB DP Economics practice questions with worked answers on 4.6 Balance of payments, including HL exchange rate, correction and J-curve questions."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

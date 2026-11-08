@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "criminal-and-deviant-behaviour-8192"
 description: "Revision notes for AQA GCSE Sociology 8192 sections 3.5.1 and 3.5.3: social construction, Merton, Becker, Albert Cohen, Carlen and public debates on crime."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense two sub-sections of AQA GCSE Sociology (8192) Crime and deviance: 3.5.1 *The

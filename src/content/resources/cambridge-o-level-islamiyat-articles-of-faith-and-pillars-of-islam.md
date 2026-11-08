@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "articles-faith-pillars-2058"
 description: "Question-led study guide to Allah, angels, books, prophets, qadr, the Last Day, jihad and the Five Pillars for Cambridge O Level Islamiyat 2058 Paper 2."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **The Articles of Faith and the Pillars of Islam is Paper 2 Topic 4 of Cambridge O Level Islamiyat

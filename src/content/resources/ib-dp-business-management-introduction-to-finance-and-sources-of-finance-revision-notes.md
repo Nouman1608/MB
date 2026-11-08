@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-2"
 description: "Condensed revision notes for IB DP Business Management 3.1 and 3.2: expenditure types, each source of finance compared, and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for sections 3.1 Introduction to finance and 3.2 Sources of finance in the IB *Business management guide* (first assessment 2024), SL and HL. For full explanations and worked examples go to the [study guide](/resources/ib-dp-business-management-introduction-to-finance-and-sources-of-finance/). Test yourself with the [practice questions](/resources/ib-dp-business-management-introduction-to-finance-and-sources-of-finance-practice/). Wider unit material is in the [Unit 3 revision notes](/resources/ib-dp-business-management-finance-accounts-revision-notes/). Course hub: [IB DP Business Management](/boards/ib/ib-dp/business/). Tick-list: [printable checklist](/checklists/ib/ib-dp/business/). Find gaps with the [free diagnostics](/diagnostics/).

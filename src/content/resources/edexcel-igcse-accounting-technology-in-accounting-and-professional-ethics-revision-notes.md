@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "professional-ethics-4ac1"
 description: "Condensed 4AC1 Accounting notes on software, spreadsheets, data security, protection methods, ethics principles and public interest, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense sections 1.3 Use of technology in accounting and 1.4 Professional ethics of Topic 1, The accounting environment, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. Paper 1 draws exclusively on Topics 1 to 3. For full explanations and worked examples, use the [study guide](/resources/edexcel-igcse-accounting-technology-in-accounting-and-professional-ethics/).

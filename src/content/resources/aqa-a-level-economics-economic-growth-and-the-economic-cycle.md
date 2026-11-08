@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-performance-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics (7136) economic growth and the economic cycle: output gaps, trend growth, shocks, instability, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the content point "Economic growth and the economic cycle" in the AQA A-level Economics (7136) specification, version 1.3 (29 June 2022). It is numbered 3.2.3.1 on the AQA website and appears as 4.2.3.1 in the combined AS and A-level PDF. The topic belongs to the national and international economy content, which is assessed in Paper 2 and can also appear in Paper 3. The specification does not mark any of it as AS-only or A-level-only.

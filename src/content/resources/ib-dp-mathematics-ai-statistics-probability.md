@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-mathematics-applications-and-interpretation-statistics-and-probability"
 description: "The IB DP Maths AI statistics and probability strand: descriptive statistics, probability, binomial and normal models, inference and how to interpret results."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 This guide covers **Statistics and Probability**, one of this course's

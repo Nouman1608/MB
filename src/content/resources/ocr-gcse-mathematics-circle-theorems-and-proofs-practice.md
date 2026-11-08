@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "circles-ocr-gcse-maths"
 description: "Original exam-style practice questions with worked answers on OCR GCSE Mathematics J560 section 8.05: circle terms, circle theorems and proofs."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "methods-of-studying-cells-aqa-alevel-biology"
 description: "Study guide to AQA A-level Biology 3.2.1.3: optical, TEM and SEM microscopes, magnification and resolution, graticules, and cell fractionation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide is aligned to the AQA AS and A-level Biology specification (A-level 7402), for first teaching 2015 with exams from June 2016, Version 1.5. It covers section 3.2.1.3, Methods of studying cells. Nothing in this section is marked as A-level only. Use it with the [revision notes](/resources/aqa-a-level-biology-microscopy-magnification-and-cell-fractionation-revision-notes/) and the [practice questions](/resources/aqa-a-level-biology-microscopy-magnification-and-cell-fractionation-practice/). The organelles you are looking at are covered in the [cell structure revision notes](/resources/aqa-a-level-biology-cell-structure-revision-notes/). Course hub: [AQA A-level Biology](/boards/aqa/a-level/biology/). Printable [checklist](/checklists/aqa/a-level/biology/). If you are unsure where you stand, try the free [diagnostics](/diagnostics/).

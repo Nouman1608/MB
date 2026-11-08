@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "analysis-and-evaluation-of-financial-information-oxfordaqa"
 description: "Condensed revision notes on the ratio formulae, appraisal method, cash versus profit and limitations, with a self-test, for OxfordAQA A-Level Accounting."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 The [study guide](/resources/oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information/) has the full teaching and worked statements; start there if any of this is new.

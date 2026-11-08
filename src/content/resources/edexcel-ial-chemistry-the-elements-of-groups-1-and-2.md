@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "redox-chemistry-and-groups-1-2-and-7-ych11"
 description: "Study guide for Edexcel IAL Chemistry Topic 8B: Group 1 and 2 trends, thermal stability, flame tests, ion tests, titrations and Core Practicals 3 and 4."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 8B, The elements of Groups 1 and 2, of the Pearson Edexcel International

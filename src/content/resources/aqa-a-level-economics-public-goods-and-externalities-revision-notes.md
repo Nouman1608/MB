@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on public goods, free riders, commons, externalities, social cost and benefit diagrams, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the AQA AS and A-level Economics specification (version 1.3, 29 June 2022), A-level sub-sections 3.1.8.3 Public goods, private goods and quasi-public goods and 3.1.8.4 Positive and negative externalities in consumption and production (4.1.8.3 and 4.1.8.4 in the combined PDF). For full explanations read the [study guide](/resources/aqa-a-level-economics-public-goods-and-externalities/), then test yourself with the [practice questions](/resources/aqa-a-level-economics-public-goods-and-externalities-practice/). The hub is [AQA A-level Economics](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) records progress, and the [free 10-minute diagnostics](/diagnostics/) find gaps. All figures are invented.

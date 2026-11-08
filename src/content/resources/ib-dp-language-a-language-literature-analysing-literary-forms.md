@@ -17,11 +17,12 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Study guide to close reading of prose, poetry and drama for IB DP Language A: Language and Literature, with original and pre-1929 worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This study guide teaches the close-reading tools for the three main literary forms -- prose, poetry

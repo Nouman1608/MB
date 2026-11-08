@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-1-3"
 description: "Original OxfordAQA 9620 atomic structure questions with worked answers: isotopes, TOF mass spectra, configurations and ionisation energy evidence."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

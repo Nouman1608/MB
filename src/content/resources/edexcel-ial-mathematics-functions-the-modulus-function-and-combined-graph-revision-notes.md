@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p3-algebra-and-functions-edexcel-alevel-maths"
 description: "Condensed revision notes for Edexcel IAL Mathematics P3 section 1: rational expressions, composites, inverses, modulus graphs and transformations."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense topics 1.1 to 1.4 of Unit P3 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification, Issue 3 (April 2019). For full explanations and worked examples, read the [study guide](/resources/edexcel-ial-mathematics-functions-the-modulus-function-and-combined-graph/). The specification lists P3 as compulsory for IAL Mathematics and IAL Pure Mathematics, with IAS weighting N/A.

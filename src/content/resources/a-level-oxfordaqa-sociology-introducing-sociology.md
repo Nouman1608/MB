@@ -30,11 +30,12 @@ syllabusTopics:
     subtopic: "research-methods-9690"
 description: "Families (3.1.1), and research methods and theory (3.1.3) -- the content of Unit 1 for OxfordAQA International A-Level Sociology (9690)."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers **Unit 1 Introducing Sociology**, one of two units

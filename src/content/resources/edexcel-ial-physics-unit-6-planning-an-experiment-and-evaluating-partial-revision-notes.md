@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "implementation-and-measurements-unit-6-yph11"
 description: "Condensed revision notes for Edexcel International A Level Physics Unit 6: the planning checklist, fixing partial methods, and log graph recipes."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 These revision notes follow the Pearson Edexcel International Advanced Subsidiary/Advanced Level Physics specification (YPH11), Issue 3. They cover section 6.3 Planning, section 6.4 Implementation and Measurements, and the unit description's log graphs. Unit 6 is an IA2 unit, linked to the experiments in Units 4 and 5. For full explanations read the [study guide](/resources/edexcel-ial-physics-unit-6-planning-an-experiment-and-evaluating-partial/).
 

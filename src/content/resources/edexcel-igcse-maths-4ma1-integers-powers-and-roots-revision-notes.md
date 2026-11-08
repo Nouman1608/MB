@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "powers-and-roots-edexcel-igcse-maths"
 description: "Condensed revision notes for Edexcel IGCSE Maths 4MA1 sections 1.1 and 1.4: directed numbers, order of operations, primes, HCF, LCM, indices and surds."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed for the final weeks. For full explanations and longer worked examples, use the [Integers, powers and roots study guide](/resources/edexcel-igcse-maths-4ma1-integers-powers-and-roots/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "properties-of-polygons-ocr-gcse-maths"
 description: "Study guide to angle facts, polygons, triangle and quadrilateral properties and symmetry for OCR GCSE Mathematics, with worked examples and proofs."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is written for OCR GCSE (9-1) Mathematics, specification Version 2.1 (August 2026), sections 8.03 (angles) and 8.04 (properties of polygons). Most of the content is for both tiers. Where the specification places something in the Higher tier column only, it is labelled **Higher tier only**. For quick recall use the [revision notes](/resources/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral-practice/). The [course hub](/boards/ocr/gcse/mathematics/), the [checklist](/checklists/ocr/gcse/mathematics/) and the free [diagnostics](/diagnostics/) show where you stand.

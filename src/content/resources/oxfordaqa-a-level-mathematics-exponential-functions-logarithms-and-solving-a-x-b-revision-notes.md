@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "pp1-exponential-and-logarithms-oxfordaqa-alevel-maths"
 description: "Condensed revision notes on y = a^x, logarithm laws and solving a^x = b for OxfordAQA International AS and A-level Mathematics, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense section PP1.3 (Exponential and logarithms) of the *OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2*. The specification places this content in International AS, Unit PSM1 (3.2, PP1), for International AS exams from May/June 2018 and International A-level exams from May/June 2019. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-a-level-mathematics-exponential-functions-logarithms-and-solving-a-x-b/).

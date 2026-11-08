@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-9-2"
 description: "OxfordAQA 9620 study guide to section 3.1.9: cell notation, the hydrogen electrode, EMF, redox predictions, lithium, flow and fuel cells."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide covers section 3.1.9, Electrode potentials and electrochemical cells, of the OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards. It teaches 3.1.9.1 and 3.1.9.2. The whole section is International A2 content, so it is **International A-level only**. The specification places 3.1.8 to 3.1.10 in Unit 3 (Inorganic 2 and Physical 2), and Unit 5 (Practical and synoptic) can draw on all content, including required practical 6.

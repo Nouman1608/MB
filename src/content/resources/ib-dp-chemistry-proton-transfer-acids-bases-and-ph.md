@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-1"
 description: "Study guide for IB DP Chemistry Reactivity 3.1.1 to 3.1.8: Brønsted–Lowry acids and bases, conjugate pairs, pH, Kw, neutralization and pH curves."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches the standard level part of IB DP Chemistry Reactivity 3.1, "Proton transfer reactions", from first principles. Its source is the IB Diploma Programme Chemistry guide (first assessment 2025; February 2023 edition), and every understanding from Reactivity 3.1.1 to 3.1.8 gets a worked example. All of it is for both SL and HL; the additional higher level material that follows (Reactivity 3.1.9 onwards) has its own [HL study guide](/resources/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves/). The page applies to sessions from 2025 onwards.

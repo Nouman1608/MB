@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "major-teachings-hadiths-2058"
 description: "Keyword cues, teachings and modern examples for all 20 set Hadiths in Cambridge O Level Islamiyat 2058 Paper 2 Question 1, plus a model answer and exam traps."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes support Paper 2 Question 1 of Cambridge O Level Islamiyat 2058, Major Teachings in the

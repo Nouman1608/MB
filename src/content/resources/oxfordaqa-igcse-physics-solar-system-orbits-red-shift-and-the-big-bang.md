@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "red-shift-and-the-expanding-universe"
 description: "Study guide to the solar system, satellite orbits, red shift and the Big Bang for OxfordAQA International GCSE Physics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide is written for the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. It covers sections 3.8.2 (solar system and orbital motion) and 3.8.3 (red shift and the expanding universe). The qualification is untiered. Section 3.8.3 is for the full Physics award only.
 

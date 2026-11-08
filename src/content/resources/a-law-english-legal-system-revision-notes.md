@@ -24,11 +24,12 @@ syllabusTopics:
     subtopic: "legal-personnel-9084"
 description: "Revision notes on sources of law, legislation, precedent, statutory interpretation, the courts and legal personnel for Cambridge AS and A Level Law 9084."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

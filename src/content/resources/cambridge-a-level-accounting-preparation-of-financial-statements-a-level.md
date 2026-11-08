@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "a-preparation-of-financial-statements"
 description: "Partnerships, clubs and societies, manufacturing accounts and limited company statements taught with worked examples for Cambridge A Level Accounting 9706."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 This guide follows the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028, section 3.1 Preparation of financial statements (A Level content, assessed on Paper 3, Financial Accounting). It covers 3.1.1 to 3.1.5. AS Level content, including the adjustments in 1.5.1 and basic partnership and company statements, is assumed knowledge. The syllabus points to its Teacher Guidance document for the expected formats. All businesses and figures here are invented and amounts are in dollars. Use the [course hub](/boards/cambridge/a-level/accounting/), the printable [checklist](/checklists/cambridge/a-level/accounting/), the [revision notes](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-a-level-revision-notes/), the [practice questions](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-a-level-practice/) and the free [diagnostics](/diagnostics/) alongside it.

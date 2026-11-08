@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-structures-and-contestability-edexcel-alevel-economics"
 description: "Condensed revision notes on monopolistic competition, limit pricing and sunk costs for Edexcel International A Level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense 3.3.3 item 4 (monopolistic competition, a to d) and item 8 (contestability, a to d) from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. They belong to Unit 3, Business behaviour, which the specification labels an IAL compulsory unit: it is International A2 content for the full International Advanced Level, not part of the IAS. Figures are invented. For full explanations read the [study guide](/resources/edexcel-ial-economics-monopolistic-competition-and-contestable-markets/), then test yourself with the [practice questions](/resources/edexcel-ial-economics-monopolistic-competition-and-contestable-markets-practice/). Also see the [course hub](/boards/edexcel/a-level/economics/), the [checklist](/checklists/edexcel/a-level/economics/), [exam preparation](/resources/edexcel-ial-economics-exam-preparation/) and the [free diagnostics](/diagnostics/).

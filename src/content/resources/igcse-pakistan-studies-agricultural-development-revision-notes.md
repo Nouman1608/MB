@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "agricultural-development-0448"
 description: "Condensed notes on crops, livestock, irrigation types, waterlogging and salinity and land reform for Cambridge IGCSE Pakistan Studies 0448 Paper 2 Section 4."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes summarise Section 4 Agricultural development of Cambridge IGCSE Pakistan Studies

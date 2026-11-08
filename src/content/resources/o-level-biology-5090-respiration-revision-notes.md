@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "respiration"
 description: "Revision notes on respiration for Cambridge O Level Biology 5090: equations to learn, energy uses, the yeast practical, oxygen debt and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, use the [study guide for this topic](/resources/o-level-biology-5090-respiration/). These notes condense Topic 10, Respiration, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4): every learning outcome in sections 10.1 Respiration, 10.2 Aerobic respiration and 10.3 Anaerobic respiration. The syllabus is not tiered, so all of it applies to every candidate.

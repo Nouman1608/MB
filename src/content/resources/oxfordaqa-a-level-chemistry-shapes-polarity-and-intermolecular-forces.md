@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-3-7"
 description: "OxfordAQA 9620 Chemistry guide to electron-pair repulsion shapes, bond polarity and the three intermolecular forces, including hydrogen bonding and ice density."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide covers **sections 3.1.3.5 to 3.1.3.7**, the shapes, polarity

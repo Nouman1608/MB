@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "algorithms-9-2"
 description: "Cambridge 9618 Topic 9 study guide: abstraction, decomposition, identifier tables, structured English, flowcharts, pseudocode and stepwise refinement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: realigned to 9.1-9.2; bubble sort and linear search (10.2) and structure charts (12.2) moved to cross-references; added identifier tables, structured English/flowchart conversion, stepwise refinement and logic statements; please re-review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: realigned to 9.1-9.2; bubble sort and linear search (10.2) and structure charts (12.2) moved to cross-references; added identifier tables, structured English/flowchart conversion, stepwise refinement and logic statements; please re-review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

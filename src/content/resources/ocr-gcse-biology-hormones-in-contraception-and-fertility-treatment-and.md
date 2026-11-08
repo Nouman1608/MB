@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "coordination-and-control-the-endocrine-system-ocr-gcse-biology"
 description: "Study guide to hormonal contraception, IVF and plant hormones (auxins, gibberellins, ethene) for OCR GCSE Biology A (J247), with worked data examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers statements B3.2e to B3.2i of module B3.2 (Coordination and control: the endocrine system) in the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. In the specification, B3.2f and B3.2i are in bold, and so is the part of B3.2h on gibberellins and ethene. Those parts are tested in the Higher Tier papers only and are labelled "Higher Tier only" below. B3.2e, B3.2g and the auxin part of B3.2h are for both tiers. The hormones of the menstrual cycle (B3.2a to B3.2d) are in a [separate guide](/resources/ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the/).

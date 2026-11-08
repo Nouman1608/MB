@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-arenes-ych11"
 description: "Condensed Edexcel IAL Chemistry revision notes on arenes: evidence for delocalisation, benzene reactions, electrophile equations and phenol."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 18: Organic Chemistry – Arenes from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 18.1 to 18.6. The topic is part of Unit 5: Transition Metals and Organic Nitrogen Chemistry, an International A2 (IA2) unit. For full explanations and worked examples, use the [arenes study guide](/resources/edexcel-ial-chemistry-organic-chemistry-arenes/); to practise, go to the [arenes practice questions](/resources/edexcel-ial-chemistry-organic-chemistry-arenes-practice/).

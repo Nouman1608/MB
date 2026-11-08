@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "incomplete-records-oxfordaqa-igcse-accounting"
 description: "Statements of affairs, profit from changes in capital, missing figures, and single versus double entry for OxfordAQA International GCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the last content group of specification section 3.4 (topic 4, Preparation of financial statements): accounting for organisations with incomplete records. The specification asks for two things. You must calculate the profit of an organisation where there are insufficient records to prepare income statements, and you must explain the benefits and limitations of different record-keeping systems, including single and double entry. It adds that calculations could include statements of affairs. All amounts on this page are in dollars.

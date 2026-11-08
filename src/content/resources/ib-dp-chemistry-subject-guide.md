@@ -8,9 +8,10 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Chemistry"]
 description: "Overview of IB DP Chemistry: its focus on patterns in matter, scientific inquiry, the Structure and Reactivity strands, and how SL and HL are assessed."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -23,9 +23,10 @@ syllabusTopics:
     subtopic: "nationhood-1947-99-2059"
 description: "A full original Cambridge O Level Pakistan Studies 2059 Paper 1 practice paper: a source-based Section A and four Section B questions, with levels mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-08-26
 featured: false
 ---

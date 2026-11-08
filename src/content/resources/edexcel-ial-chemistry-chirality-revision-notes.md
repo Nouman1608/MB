@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-carbonyls-carboxylic-acids-and-chirality-ych11"
 description: "Condensed Edexcel IAL Chemistry chirality notes: chiral centres, enantiomer drawings, optical activity, racemates, SN1/SN2 evidence and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 15A: Chirality of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 15.1 to 15.5. You meet it in Unit 4: Rates, Equilibria and Further Organic Chemistry, one of the International A2 (IA2) units. The [chirality study guide](/resources/edexcel-ial-chemistry-chirality/) has the full explanations and longer worked examples; read it first.

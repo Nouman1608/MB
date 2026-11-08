@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "pp1-trigonometry-oxfordaqa-alevel-maths"
 description: "Condensed revision notes on sine and cosine rules, triangle area, radians, arcs, sectors and trig graphs for OxfordAQA International AS and A-level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense content statement PP1.2 (Trigonometry, first part) from Version 5.2 of the OxfordAQA International AS and A-level Mathematics (9660) specification, where it sits in International AS Unit PSM1 (section 3.2, PP1). When you need the reasoning and longer solutions, use the [study guide](/resources/oxfordaqa-a-level-mathematics-sine-and-cosine-rules-radians-arcs-and-sectors/). Test yourself afterwards with the [practice questions](/resources/oxfordaqa-a-level-mathematics-sine-and-cosine-rules-radians-arcs-and-sectors-practice/), tick the [checklist](/checklists/oxfordaqa/a-level/mathematics/), and see the [course hub](/boards/oxfordaqa/a-level/mathematics/). The [free 10-minute diagnostics](/diagnostics/) help you decide where to begin.
 

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-objectives-of-individuals-and-firms-oxfordaqa-alevel-economics"
 description: "Study guide to firm objectives and the growth of firms for OxfordAQA International A-level Economics, with worked calculations and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2 (first A-level exams May/June 2022). It covers sections 3.3.1.3 (the objectives of firms) and 3.3.1.4 (the growth of firms). Section 3.3 is extra International A2 content, assessed in Unit 3, and the specification expects you to use the knowledge and skills you developed in Unit 1 to support Unit 3. All figures below are invented for teaching and are not real statistics.

@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-b-1"
 description: "Revision notes on IB DP Computer Science B.1 Computational thinking: specify, decompose, abstract and generalize, test and evaluate, with hours and assessment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027, © IBO 2024); detailed B.1 outcomes follow the full IB guide; please review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027, © IBO 2024); detailed B.1 outcomes follow the full IB guide; please review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

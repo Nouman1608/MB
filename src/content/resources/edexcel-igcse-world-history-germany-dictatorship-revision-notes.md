@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "germany-dictatorship-4hi1"
 description: "Condensed notes on Germany, 1918–45 for Edexcel IGCSE History 4HI1: timeline, Reichstag seats, key terms, Nazi control methods and the traps examiners flag."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the timeline, election figures and key terms against the 4HI1 specification and a standard textbook before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the timeline, election figures and key terms against the 4HI1 specification and a standard textbook before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

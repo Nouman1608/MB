@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "types-of-business-organisation-oxfordaqa"
 description: "OxfordAQA International A-level Accounting 9615 practice questions with marked answers on business ownership types, liability, reporting and finance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-05
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

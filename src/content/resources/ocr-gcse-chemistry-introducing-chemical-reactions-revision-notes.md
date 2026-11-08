@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c3-1-introducing-chemical-reactions-j248"
 description: "Condensed J248 C3.1 revision notes: ion formulae, equations, state symbols, moles, conservation of mass and limiting reactants, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 These notes condense sub-topic **C3.1 Introducing chemical reactions** of the OCR GCSE (9-1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026). They cover statements C3.1a to C3.1l and the maths outcomes CM3.1i to CM3.1iv. Statements C3.1e, C3.1g, C3.1h, C3.1k and C3.1l are **Higher Tier only**; the rest apply to both tiers. The [C3.1 study guide](/resources/ocr-gcse-chemistry-introducing-chemical-reactions/) has the full explanations.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-labour-market-ocr-alevel-economics"
 description: "Study guide to labour market issues, minimum wages, mobility, bargaining, migration, inequality and government intervention for OCR A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Every figure below is invented and illustrative. This guide follows the OCR A Level Economics (H460) specification, Version 3.0 (June 2026), first assessment 2021. It covers the topics "Labour market issues and themes" and "Government intervention" in the Labour market area of study within Component 1, Microeconomics. The whole specification is A Level. Demand for labour, productivity and unit labour costs, and supply of labour, economic rent and wage models, have their own pages, so this guide stays on the issues, the policies and inequality.

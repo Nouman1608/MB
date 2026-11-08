@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology"
 description: "Revision notes and self-test on proteins, enzymes, DNA replication, protein synthesis, mutation, inheritance and screening for Edexcel IAL Biology, 2.6-2.18."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05; 2026-11-08: reviewed by hina-mogul."
 ---
 Quick recall for specification statements 2.6 to 2.18 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. These statements complete Topic 2 (Membranes, Proteins, DNA and Gene Expression), which is part of the International AS (IAS) content and is examined in Unit 1. Statements 2.1 to 2.5 (gas exchange, membranes and transport) are in the separate [gas exchange, membranes and osmosis revision notes](/resources/edexcel-a-level-biology-membranes-gas-exchange-revision-notes/).
 

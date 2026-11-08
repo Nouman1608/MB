@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economies-and-diseconomies-of-scale-ocr-aslevel-economics"
 description: "Condensed revision notes on LRAC, economies of scale, MES, TR, AR, MR, accounting and economic profit and MC=MR for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the [full study guide](/resources/ocr-a-level-economics-economies-of-scale-revenue-and-profit/) for the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021. They cover long run costs, revenue and profit in Component 1, Microeconomics. The specification labels no content as AS or Extension. All figures are invented and illustrative.

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "statement-of-cash-flows"
 description: "Revision notes for Edexcel IAL Accounting topic 2.3: IAS 7 headings, adjustment signs, key workings, liquidity points and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 For full explanations and a complete worked statement, read the [study guide](/resources/edexcel-ial-accounting-statement-of-cash-flows/) first.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ratio-and-proportion-oxfordaqa-igcse-maths"
 description: "Condensed revision notes for OxfordAQA International GCSE Mathematics on percentage change, interest, reverse percentages and exponential growth and decay."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes are aligned to the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams from May/June 2018 onwards. They cover N15 (section 3.1.2) and the repeated proportional change and exponential growth and decay parts of N20 (section 3.1.3). Core content applies at both tiers. Content marked **Extension only** is for the Extension tier.
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-differentiation-oxfordaqa-alevel-maths"
 description: "Condensed exam revision notes on OxfordAQA 9660 P1.3 differentiation: rules, tangents, normals, stationary points, optimisation and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense specification section P1.3 (Differentiation) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It is part of International AS Unit P1, which also counts towards the International A-level. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-a-level-mathematics-differentiation-gradients-tangents-normals-and/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-differentiation-gradients-tangents-normals-and-practice/), then check the [course hub](/boards/oxfordaqa/a-level/mathematics/), the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/) and the [free diagnostics](/diagnostics/). For the whole unit, see the [Unit P1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "energy-power-and-resistance"
 description: "Condensed revision notes on resistance, Ohm's law, I-V graphs, resistivity, NTC thermistors, power and kW h for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 Quick recall for OCR A Level Physics A (H556), Version 3.0 (March 2026), sections 4.2.3 (Resistance), 4.2.4 (Resistivity) and 4.2.5 (Power). For full explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-physics-resistance-resistivity-and-electrical-power/). Then try the [practice questions](/resources/ocr-a-level-physics-resistance-resistivity-and-electrical-power-practice/), the [free diagnostics](/diagnostics/), the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [printable checklist](/checklists/ocr/a-level/physics/).
 

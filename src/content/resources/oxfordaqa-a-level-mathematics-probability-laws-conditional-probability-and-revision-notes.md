@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s1-further-probability-oxfordaqa-alevel-maths"
 description: "Revision notes for OxfordAQA International AS and A-level Mathematics S1.1: addition and multiplication laws, conditional probability, independence."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes follow the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, section S1.1 (Further probability). The spec states this content is part of International AS, Unit PSM1. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-mathematics-probability-laws-conditional-probability-and/) first. Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-probability-laws-conditional-probability-and-practice/), and tick off progress on the [course checklist](/checklists/oxfordaqa/a-level/mathematics/). The whole course sits on the [OxfordAQA Mathematics hub](/boards/oxfordaqa/a-level/mathematics/), and the [free 10-minute diagnostics](/diagnostics/) show where to focus.
 

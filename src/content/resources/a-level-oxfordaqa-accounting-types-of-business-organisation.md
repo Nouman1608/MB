@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "types-of-business-organisation-oxfordaqa"
 description: "Sole traders, partnerships, Ltd and plc companies, their risks and reporting duties, and the finance each can use: Topic 3.1.2 of OxfordAQA Accounting (9615)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 publishedDate: 2026-09-02
 featured: false
 ---

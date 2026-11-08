@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "notation-vocabulary-and-manipulation-aqa-gcse-maths"
 description: "Study guide for AQA GCSE Maths 8300 section 3.2.1 (A1-A7): notation, substitution, expanding, factorising, rearranging, identities and functions."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches section **3.2.1 Notation, vocabulary and manipulation** (specification references A1 to A7) of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). The specification splits every reference into three columns: basic foundation content, additional foundation content and Higher content only. Foundation papers can test the first two columns; Higher papers can test all three. Content from the third column is labelled **Higher tier only** below.

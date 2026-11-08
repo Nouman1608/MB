@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-2-10"
 description: "Condensed IB Maths AI HL revision notes for sections 2.7-2.10: inverses, transformations, logistic and log models, linearizing data, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 For full explanations and longer worked examples, read the [study guide for this unit](/resources/ib-dp-mathematics-ai-hl-further-functions-modelling/) first.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "nervous-coordination-aqa-alevel-biology"
 description: "Study guide to resting and action potentials, conduction speed, cholinergic synapses, the neuromuscular junction and drug effects for AQA A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers AQA A-level Biology (7402) sections 3.6.2.1 (Nerve impulses) and 3.6.2.2 (Synaptic transmission), from the AQA AS and A-level Biology specification for first teaching 2015. Both sections are marked A-level only. Topic 6 is part of the content of the A-level papers that list topics 5 to 8 and topics 1 to 8. It follows on from [Survival, Response and Receptors](/resources/aqa-a-level-biology-survival-response-and-receptors/) and leads into skeletal muscle in 3.6.3.

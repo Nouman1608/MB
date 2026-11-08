@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "business-and-the-international-economy"
 description: "Original practice questions with worked answers on externalities, ethics, tariffs, multinationals and exchange rates for Cambridge O Level Business 7115."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

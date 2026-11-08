@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-balance-of-payments-exchange-rates-and-financial-markets-oxfordaqa-alevel-economics"
 description: "Study guide to the balance of payments for OxfordAQA International AS and A-level Economics: accounts, deficits, FDI, policies and their side effects."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide follows the OxfordAQA *International AS and A-level Economics (9640)* specification, version 1.2 (International AS exams from May/June 2021, International A-level exams from May/June 2022). It covers section 3.4.2.1, the balance of payments. Section 3.4 is the extra International A2 content, so this material sits beyond the International AS.
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-3"
 description: "Study guide to IB DP Business Management 5.3 (HL only): lean production, kaizen, JIT, cradle to cradle, quality methods, TQM and quality standards."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 5.3, Lean production and quality management, in Unit 5 (Operations management) of the IB *Business management guide*, first assessment 2024. The whole section is HL only, so SL candidates do not need it. The guide says HL Paper 2 and Paper 3 draw on HL extension topics, while Paper 1 does not.

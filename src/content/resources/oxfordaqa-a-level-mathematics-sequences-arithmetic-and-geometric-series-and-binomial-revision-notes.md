@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-sequences-and-series-oxfordaqa-alevel-maths"
 description: "Condensed formulae, methods and a self-test on sequences, series and binomial expansion for OxfordAQA International AS and A-level Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Quick recall for section P1.5 of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places it in International AS Unit P1 (Pure Maths). For full explanations, read the [study guide](/resources/oxfordaqa-a-level-mathematics-sequences-arithmetic-and-geometric-series-and-binomial/), then test yourself with the [practice set](/resources/oxfordaqa-a-level-mathematics-sequences-arithmetic-and-geometric-series-and-binomial-practice/).

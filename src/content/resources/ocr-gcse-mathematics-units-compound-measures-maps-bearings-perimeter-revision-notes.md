@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "perimeter-calculations-ocr-gcse-maths"
 description: "Condensed revision notes on unit conversion, compound measures, bearings, scale, circumference and arc length for OCR GCSE Mathematics J560."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections 10.01 (units and measurement) and 10.02 (perimeter calculations) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). All of it is for both Foundation and Higher tier; none of it is Higher tier only. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter/). When you are ready to test yourself, use the [practice questions](/resources/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter-practice/). The [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), the [checklist](/checklists/ocr/gcse/mathematics/) and the [10-minute diagnostics](/diagnostics/) help you plan which parts to revisit.

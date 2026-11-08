@@ -42,9 +42,10 @@ syllabusTopics:
     subtopic: "complex-numbers-cambridge-alevel-maths"
 description: "Condensed revision notes for Cambridge 9709 Pure Mathematics 3: key formulae, method steps, must-know distinctions and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-09-27
 featured: false
 ---

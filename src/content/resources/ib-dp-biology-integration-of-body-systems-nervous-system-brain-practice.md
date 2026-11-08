@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c3-1"
 description: "Original practice questions with worked answers on IB DP Biology C3.1.1 to C3.1.10: nervous system, spinal cord, nerves, reflex arcs and cerebellum."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

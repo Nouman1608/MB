@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "elimination-alcohols-7405"
 description: "AQA A-Level Chemistry alcohols taught from scratch: hydration and fermentation, biofuels, oxidation with dichromate, Tollens' and Fehling's, elimination."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.3.5 Alcohols** of the AQA AS and A-level Chemistry specification (7404/7405),

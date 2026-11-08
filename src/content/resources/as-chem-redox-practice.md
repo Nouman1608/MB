@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "as-redox-processes"
 description: "Original exam-style questions with worked answers on oxidation numbers, half-equations, redox titrations and oxidising agents for Cambridge AS Chemistry 9701."
 author: "nouman-ahmed"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added questions on oxidising/reducing agents and Roman-numeral names (6.1.4, 6.1.5, previously untested), working for oxidation-number answers, opening and FAQ; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: added questions on oxidising/reducing agents and Roman-numeral names (6.1.4, 6.1.5, previously untested), working for oxidation-number answers, opening and FAQ; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

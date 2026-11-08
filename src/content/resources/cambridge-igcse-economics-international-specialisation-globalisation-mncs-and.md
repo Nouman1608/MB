@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "globalisation-free-trade-and-protection-cambridge-igcse-economics"
 description: "Study guide to specialisation, globalisation, multinational companies and free trade for Cambridge IGCSE Economics, with fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Cambridge IGCSE Economics 0455 syllabus for examination in 2026 and covers sections 6.1.1 and 6.1.2 (specialisation at a national level) and 6.2.1 to 6.2.3 (globalisation, multinational companies and the benefits of free trade). The course is not tiered. Methods of protection, reasons for protection and consequences of protection (6.2.4 to 6.2.6) are taught in a separate unit, so this page does not cover them. All countries, firms and figures below are invented for illustration.

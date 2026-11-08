@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on market structures, firms' objectives and competitive markets for OxfordAQA International AS and A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.1.4.1 to 3.1.4.3 of the OxfordAQA *International AS and A-level Economics* specification (version 1.2; International AS from May/June 2021, International A-level from May/June 2022). Section 3.1 is International AS content, also examined in the full International A-level. Section 3.5 quantitative skills can be assessed in any unit. For full explanations use the [study guide](/resources/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive/); for questions use the [practice set](/resources/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive-practice/). Course hub: [OxfordAQA A-level Economics](/boards/oxfordaqa/a-level/economics/). Checklist: [printable checklist](/checklists/oxfordaqa/a-level/economics/). Check your gaps with the [free diagnostics](/diagnostics/). Related: [The operation of markets revision notes](/resources/oxfordaqa-a-level-economics-markets-revision-notes/).

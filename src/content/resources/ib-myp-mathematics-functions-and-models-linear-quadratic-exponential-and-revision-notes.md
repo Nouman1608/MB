@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-branches-of-mathematical-study-thinking-with-models"
 description: "Condensed revision notes on functions and models for IB MYP Mathematics: formulas, methods, a self-test and the mistakes that cost the most."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense functions and models from the thinking with models framework of the IB Middle Years Programme *Mathematics guide* (first assessment 2022). The [study guide](/resources/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and/) has the explanations and fully worked examples. Test yourself with the [practice set](/resources/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and-practice/). Course page: [MYP Mathematics](/boards/ib/ib-myp/mathematics/). Progress tracker: [checklist](/checklists/ib/ib-myp/mathematics/). To find weak spots first, try the [all free 10-minute diagnostics](/diagnostics/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-7-1"
 description: "OxfordAQA 9620 study guide to section 3.3.7: asymmetric carbons, enantiomers, plane-polarised light, 3D drawings and racemates, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.3.7, Optical isomerism, from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020. Its only subsection is 3.3.7.1. The specification places it in the International A2 organic content, so everything here is **International A-level only**. Unit 4 (Organic 2 and Physical 2) assesses sections 3.3.7 to 3.3.16, and the practical and synoptic Unit 5 can draw on any content.

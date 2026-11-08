@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-aqa-alevel-economics"
 description: "Condensed revision notes on productive, allocative and dynamic efficiency, conduct and performance, and surplus diagrams for AQA A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense AQA A-level Economics (7136) content sections 4.1.5.10 and 4.1.5.11 (website numbering 3.1.5): efficiency, market structure and consumer and producer surplus. Neither section carries an AS-only or A-level-only marker in the specification. Fuller explanations sit in the [study guide](/resources/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer/). Test yourself with the [practice set](/resources/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer-practice/), the [free diagnostics](/diagnostics/), the [course hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/). Every figure here is made up.

@@ -33,12 +33,13 @@ syllabusTopics:
     subtopic: "perpendicular-lines-cambridge-igcse-maths"
 description: "Quick-recall notes on coordinates, gradient, y = mx + c, length, midpoint and parallel and perpendicular lines for Cambridge IGCSE Mathematics 0580 Topic 3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-04
 updatedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed for the final weeks. Pair these notes with the

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "quantum-physics-ocr-alevel"
 description: "Condensed revision notes on photons, eV, LED estimates of h, the photoelectric effect and de Broglie waves for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These revision notes condense section 4.5 (Quantum physics: 4.5.1, 4.5.2 and 4.5.3) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. Read the [study guide](/resources/ocr-a-level-physics-photons-photoelectric-effect-and-wave-particle-duality/) for full explanations and the [practice questions](/resources/ocr-a-level-physics-photons-photoelectric-effect-and-wave-particle-duality-practice/) to test yourself.
 

@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "power-and-efficiency-ocr-gcse"
 description: "Study guide to dissipation, power ratings, efficiency calculations and cutting energy loss for OCR GCSE (9-1) Physics A (J249), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers statements P7.2a to P7.2g of topic P7.2, Power and efficiency, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). It explains how energy ends up stored in less useful ways, how devices transfer energy from a battery or the a.c. mains, how power ratings link to energy changes, how to calculate efficiency, and how lubrication and insulation cut waste. All of this content is assessed in both the Foundation and Higher Tier papers except P7.2e (describe ways to increase efficiency), which is printed in bold in the specification and is **Higher Tier only**. Reducing unwanted energy transfer by lubrication and insulation (P7.2f) is for both tiers.

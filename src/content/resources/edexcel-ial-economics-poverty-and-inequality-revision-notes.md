@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "poverty-and-inequality-edexcel-alevel-economics"
 description: "Condensed revision notes for Edexcel IAL Economics topic 4.3.4: poverty measures, Lorenz and Gini method, causes and effects of inequality, self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense topic 4.3.4, Poverty and inequality, from Unit 4: Developments in the global economy, in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (Issue 2, June 2018). Unit 4 is one of the extra International A2 units, so it is full International A Level only. For explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-economics-poverty-and-inequality/). Then test yourself with the [practice questions](/resources/edexcel-ial-economics-poverty-and-inequality-practice/). Also see the [Edexcel A Level Economics hub](/boards/edexcel/a-level/economics/), the [printable checklist](/checklists/edexcel/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures here are invented for illustration.

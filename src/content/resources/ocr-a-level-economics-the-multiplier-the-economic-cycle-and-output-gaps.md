@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "circular-flow-of-income-ocr-aslevel-economics"
 description: "Study guide to the economic cycle, trend growth, the national income multiplier, the multiplier-accelerator model and output gaps, OCR A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers the topic **The economic cycle**, in the area of study Aggregate demand and aggregate supply, which sits in the Macroeconomics content (Component 02). The text labels none of it as AS or Extension. The countries and figures below are made up for illustration. Money is in currency units (cu).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "economic-issues-0264"
 description: "Study guide to the business cycle, taxes, government spending and interest rates for Cambridge IGCSE Business 0264, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 6.1, **Economic issues**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It follows syllabus points 6.1.1 (Business cycle) and 6.1.2 (Effects of government policy). All candidates study the same content. The syllabus says both papers are based on all the subject content, so this topic can appear in short answers, data responses and case studies. For quick recall use the [revision notes](/resources/igcse-business-0264-economic-issues-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-economic-issues-practice/). The [course hub](/boards/cambridge/igcse/business/), the printable [checklist](/checklists/cambridge/igcse/business/) and the free [diagnostics](/diagnostics/) help you plan your revision.

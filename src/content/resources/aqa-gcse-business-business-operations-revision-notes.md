@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "good-customer-services-aqa-gcse-business"
 description: "Condensed revision notes on production, procurement, quality and customer service for AQA GCSE Business, with worked reminders and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense topic 3.3 Business operations from the AQA GCSE Business (8132) specification, first teaching September 2017. For full explanations read the [study guide](/resources/aqa-gcse-business-business-operations/); when you are ready to test yourself use the [practice questions](/resources/aqa-gcse-business-business-operations-practice/). The course hub is [AQA GCSE Business](/boards/aqa/gcse/business/), the printable list is the [checklist](/checklists/aqa/gcse/business/), and the [free diagnostics](/diagnostics/) show which topics to prioritise. The specification places this topic in Paper 1, which is titled Influences of operations and HRM on business activity.

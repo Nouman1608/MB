@@ -11,11 +11,12 @@ syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
 description: "Why either OxfordAQA International GCSE Biology 9201 paper can assess any topic, how practicals are examined in writing, and a routine for unfamiliar organisms."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 OxfordAQA International GCSE Biology (9201) is a linear, untiered qualification designed to be taken

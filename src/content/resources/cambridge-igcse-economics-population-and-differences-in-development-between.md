@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "differences-in-economic-development-between-countries-cambridge-igcse-economics"
 description: "Study guide to population and differences in development for Cambridge IGCSE Economics, with worked calculations, pyramid reading and evaluation chains."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is written for the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. It covers sections 5.3 (Population) and 5.4 (Differences in economic development between countries). The course is not tiered. The syllabus says you must be able to interpret a population pyramid, but you do not have to draw one. Every country, firm and number below is invented for teaching. Nothing here is a real statistic.

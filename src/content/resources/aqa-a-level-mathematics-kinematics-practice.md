@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "q-kinematics-aqa-alevel-maths"
 description: "Original kinematics practice questions with mark-by-mark answers for AQA A-level Maths (7357) Section Q, from motion graphs and suvat to projectiles."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

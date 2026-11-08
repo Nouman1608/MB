@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-in-action-ocr-alevel"
 description: "Study guide to moments, couples, equilibrium, centre of gravity, density, pressure and upthrust for OCR A Level Physics A (H556), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers sections 3.2.3 (Equilibrium) and 3.2.4 (Density and pressure) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level. Dynamics, free-body diagrams, drag and terminal velocity (3.2.1 and 3.2.2) are not repeated here.
 

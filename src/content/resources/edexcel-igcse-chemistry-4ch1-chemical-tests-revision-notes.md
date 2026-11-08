@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "chemical-tests-4ch1"
 description: "Condensed 4CH1 revision notes on chemical tests: gas tests, flame colours, hydroxide and anion precipitates, water tests and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense sub-topic (h) Chemical tests of Topic 2, Inorganic chemistry, in the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). They cover points 2.44–2.50. The qualification is untiered, and none of these points carries a C reference, so everything here can appear on Paper 1 and Paper 2. For full explanations and worked identifications, use the [Chemical tests study guide](/resources/edexcel-igcse-chemistry-4ch1-chemical-tests/).

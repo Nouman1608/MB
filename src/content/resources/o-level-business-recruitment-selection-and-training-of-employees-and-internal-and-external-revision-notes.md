@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "internal-and-external-communication"
 description: "Condensed revision notes on recruitment, training, redundancy, employment law and communication for Cambridge O Level Business Studies, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 2.3 (Recruitment, selection and training of employees) and 2.4 (Internal and external communication) of the *Cambridge O Level Business Studies 7115 syllabus for examination in 2026*. For full explanations and worked examples, use the [study guide](/resources/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external/). Then test yourself with the [practice questions](/resources/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external-practice/).

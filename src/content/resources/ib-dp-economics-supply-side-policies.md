@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-7"
 description: "Study guide to IB DP Economics sub-topic 3.7: market-based and interventionist supply-side policies, the LRAS and minimum wage diagrams, and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers **sub-topic 3.7, Supply-side policies**, in Unit 3 Macroeconomics. The sub-topic is part of the core syllabus for both SL and HL, and the guide marks none of its content as HL only.

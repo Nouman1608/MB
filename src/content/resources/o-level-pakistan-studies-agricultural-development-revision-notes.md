@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "agricultural-development-2059"
 description: "Revision notes on farm systems, crops, livestock, irrigation, waterlogging and land reform for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 4."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes condense Section 4 Agricultural development of Cambridge O Level Pakistan Studies

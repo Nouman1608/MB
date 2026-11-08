@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-algebra-and-functions-oxfordaqa-alevel-maths"
 description: "Study guide to functions, domain and range, composite and inverse functions and the modulus for OxfordAQA International A-level Mathematics Unit P2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the first part of content area P2.1 (Algebra and functions) in the OxfordAQA *International AS and A-level Mathematics* specification, Version 5.2. The specification places this content in International A-level (A2) Unit P2 (Pure Maths). It is not examined at International AS. The other parts of P2.1 (graph transformations, rational functions, algebraic division and partial fractions) have their own pages and are not repeated here.

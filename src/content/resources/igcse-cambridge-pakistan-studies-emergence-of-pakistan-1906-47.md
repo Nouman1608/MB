@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "emergence-of-pakistan-0448"
 description: "Study guide to Section 2 of Cambridge IGCSE Pakistan Studies 0448 Paper 1: the Muslim League, Khilafat, the road to 1947, and Jinnah, Iqbal and Rahmat Ali."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **The Emergence of Pakistan, 1906–47 is Section 2 of Paper 1 in Cambridge IGCSE Pakistan Studies

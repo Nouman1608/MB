@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-1-3"
 description: "Original OxfordAQA 9620 practice questions with worked answers on organic formulas, IUPAC naming, radical steps, curly arrows and E–Z isomerism."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

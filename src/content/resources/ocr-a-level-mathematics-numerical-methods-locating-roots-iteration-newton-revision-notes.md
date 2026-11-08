@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "numerical-methods-ocr-alevel-maths"
 description: "Condensed revision notes on sign change, iteration, convergence, Newton-Raphson and the trapezium rule for OCR A Level Mathematics A, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense section 1.09, Numerical Methods, of the OCR A Level Mathematics A specification (H240, Version 3.1, August 2026, for first assessment in 2018). All of 1.09 is Stage 2, so it is **A Level only**. Longer explanations and extra worked examples are in the [study guide](/resources/ocr-a-level-mathematics-numerical-methods-locating-roots-iteration-newton/). To test yourself afterwards, try the [practice questions](/resources/ocr-a-level-mathematics-numerical-methods-locating-roots-iteration-newton-practice/). The course page is [OCR A Level Mathematics](/boards/ocr/a-level/mathematics/), the printable list is the [checklist](/checklists/ocr/a-level/mathematics/), and the [free diagnostics](/diagnostics/) help you pick what to revise first.
 

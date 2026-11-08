@@ -17,9 +17,10 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "Study guide to atoms, isotopes, electron arrangement, ions and ionic, covalent and metallic bonding, with worked examples, for IB MYP Sciences years 4-5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-09-28
 featured: false
 ---

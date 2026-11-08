@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "islam-beliefs-teachings-9237"
 description: "Study guide to 9237 topic 3.1.1: Tawhid and shirk, key beliefs, names of Allah, angels, Al-Qadr, life after death, prophets and books, and the early caliphs."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Islam: Beliefs and Teachings is topic 3.1.1 of OxfordAQA International GCSE Islamiat 9237,

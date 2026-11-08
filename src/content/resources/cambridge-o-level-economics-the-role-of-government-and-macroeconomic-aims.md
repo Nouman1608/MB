@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-macroeconomic-aims-of-government"
 description: "Study guide to the role of government, the five macroeconomic aims and the conflicts between them for Cambridge O Level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Cambridge O Level Economics 2281 syllabus for examination in 2026 (version 2). The topics are 4.1 (the role of government) and 4.2 (the macroeconomic aims of government), inside section 4, Government and the macroeconomy. The course is not tiered, so everything here is for every candidate. Every country, firm and figure in the examples is invented and illustrative.

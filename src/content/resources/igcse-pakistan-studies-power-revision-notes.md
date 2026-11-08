@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "power-0448"
 description: "Quick-recall notes on Pakistan's coal, oil, gas, hydel, nuclear, wind and solar power for Cambridge IGCSE Pakistan Studies 0448 Paper 2, with exam traps."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes condense Section 3 Power of Cambridge IGCSE Pakistan Studies 0448 Paper 2.** You need

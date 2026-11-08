@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "excretion-as-an-example-of-homeostatic-control-ocr-alevel-biology"
 description: "Eleven original questions with worked answers on the nephron, ADH, renal failure, dialysis, transplants and urine tests for OCR A Level Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

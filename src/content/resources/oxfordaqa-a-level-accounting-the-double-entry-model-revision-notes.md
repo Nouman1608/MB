@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "the-double-entry-model-oxfordaqa"
 description: "Condensed revision notes for OxfordAQA AS Accounting 3.1.3: double entries, adjustments, depreciation and statement layouts, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 For full explanations and worked examples, use the [double entry model study guide](/resources/oxfordaqa-a-level-accounting-the-double-entry-model/). These notes condense section **3.1.3 The double entry model** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. All of 3.1.3 is International AS content; the specification includes it in the content for Paper 1 and Paper 2. Amounts are in dollars and all examples are invented.

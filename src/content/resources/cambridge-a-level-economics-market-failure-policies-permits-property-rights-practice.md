@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "government-policies-to-correct-market-failure-cambridge-alevel-economics"
 description: "Eleven original questions with worked answers on permits, property rights, privatisation, information, nudges and government failure."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

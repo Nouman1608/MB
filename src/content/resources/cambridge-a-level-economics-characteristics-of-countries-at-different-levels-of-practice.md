@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "characteristics-of-countries-at-different-levels-of-development-cambridge-alevel-economics"
 description: "Original practice questions with worked answers on population, urbanisation, Gini and Lorenz, sector jobs and trade for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

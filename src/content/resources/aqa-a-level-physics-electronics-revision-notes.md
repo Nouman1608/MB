@@ -33,8 +33,12 @@ syllabusTopics:
     subtopic: "data-communication-systems-aqa-alevel"
 description: "Revision notes for the AQA A-Level Physics 7408 electronics option: key equations, device facts, op-amp and logic methods, and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 These revision notes condense section 3.13 Electronics (3.13.1 to 3.13.6) of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards). The section is **A-level only**. It is one of the five **options** (sections 3.9 to 3.13); you study one, and it is assessed in Paper 3 Section B (35 marks). Paper 3 Section A assesses practical skills and data analysis.

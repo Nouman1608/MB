@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "a-proof-aqa-alevel-maths"
 description: "Condensed AQA A-level Maths proof notes: method steps, algebraic forms, the √2 and primes proofs, key distinctions and a quick self-test (7357)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense section 3.2 **A: Proof** (content reference **A1**) of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. They cover the structure of proof, deduction, exhaustion, disproof by counter-example and proof by contradiction. 7357 is a linear A-level with no AS/A split. Proof is listed in the Paper 1 content, and Papers 2 and 3 can assess any Paper 1 content.

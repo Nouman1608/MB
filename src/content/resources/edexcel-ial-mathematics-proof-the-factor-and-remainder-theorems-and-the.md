@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "p2-coordinate-geometry-edexcel-alevel-maths"
 description: "Study guide to proof, the factor and remainder theorems and circles for Pearson Edexcel International Advanced Level Mathematics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. It covers the P2 content in sections 1 to 3: proof (1.1 to 1.3), the factor and remainder theorems (2.1) and the coordinate geometry of the circle (3.1). Pearson makes P2 a compulsory unit in IAS Mathematics, IAL Mathematics and Pure Mathematics, as it does P1, so everyone on these qualifications meets this material.
 

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "implementing-a-strategy-oxfordaqa-alevel-business"
 description: "Revision notes for OxfordAQA A-level Business 9725 section 3.4.5: implementation factors, EST, LFT, total float, critical path and strategic drift."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.4.5 Implementing a strategy from the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. This content is **International A-level only**, examined on the Unit 4: Business strategy paper. Anyone completing the earlier 9625 course should revise from the 9625 specification. For full explanations and longer worked examples, use the [implementing a strategy study guide](/resources/oxfordaqa-a-level-business-implementing-a-strategy/).

@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "boolean-algebra-and-logic-circuits"
 description: "Revision notes on RISC and CISC, pipelining, Flynn architectures, virtual machines, adders, flip-flops, De Morgan and Karnaugh maps for Cambridge 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 15 Hardware and Virtual Machines covers processor design (RISC versus CISC, pipelining and interrupt handling), parallel computer architectures, virtual machines, and logic design with adders, flip-flops, Boolean algebra and Karnaugh maps. In Cambridge International AS & A Level Computer Science 9618 it is A Level content examined in Paper 3, where you compare designs in contrasting pairs and simplify logic expressions with full working.

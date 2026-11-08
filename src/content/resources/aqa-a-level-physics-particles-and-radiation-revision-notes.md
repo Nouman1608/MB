@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "electromagnetic-radiation-and-quantum-phenomena"
 description: "Condensed revision notes for AQA A-level Physics 7408 Particles and radiation: tables, conservation checks, photon equations and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 These notes condense section 3.2 Particles and radiation of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards): 3.2.1 Particles and 3.2.2 Electromagnetic radiation and quantum phenomena. It is AS and A-level content, examined in A-level Paper 1 and assumed in Paper 2. Sections 3.9-3.13 are options (you study one, assessed in Paper 3 Section B); this topic is compulsory. For full explanations and worked examples, use the [Particles and radiation study guide](/resources/aqa-a-level-physics-particles-and-radiation/).

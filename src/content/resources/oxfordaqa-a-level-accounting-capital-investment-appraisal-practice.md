@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "capital-investment-appraisal-oxfordaqa"
 description: "Original practice questions with full worked answers for OxfordAQA A-level Accounting 3.2.3, covering cash flows, payback, NPV and project evaluation."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

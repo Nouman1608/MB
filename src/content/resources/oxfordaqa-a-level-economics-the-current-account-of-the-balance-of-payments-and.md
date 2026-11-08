@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-performance-oxfordaqa-alevel-economics"
 description: "Guide to the current account of the balance of payments and conflicts between macroeconomic objectives, with worked examples for OxfordAQA Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Economics specification (version 1.2), sections 3.2.3.4 (the balance of payments on current account) and 3.2.3.5 (possible conflicts between macroeconomic policy objectives). Section 3.2 is International AS content; the specification gives May/June 2021 as the first International AS series and May/June 2022 as the first for the International A-level. Every figure below is invented for illustration, and Country A does not exist.

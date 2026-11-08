@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "algebraic-manipulation-cambridge-igcse-maths"
 description: "Study guide for Cambridge IGCSE Maths 0580 sections 2.1-2.2: substitution, collecting like terms, expanding, factorising and completing the square."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide covers sections **2.1 Introduction to algebra** and **2.2 Algebraic manipulation** of the Cambridge IGCSE Mathematics 0580 syllabus for examination in 2025, 2026 and 2027. Sections C2.1/E2.1 and outcomes 1–3 of C2.2/E2.2 are the same for Core and Extended. Outcomes 4 and 5 of E2.2 (factorising five special forms, and completing the square) are **Extended only**. Core candidates take Paper 1 (non-calculator) and Paper 3 (calculator); Extended candidates take Paper 2 (non-calculator) and Paper 4 (calculator). This algebra is tested on both papers of your tier, including the non-calculator one, so you need to do it by hand.

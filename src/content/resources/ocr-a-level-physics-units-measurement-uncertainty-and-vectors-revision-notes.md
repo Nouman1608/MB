@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "nature-of-quantities-ocr-alevel"
 description: "Condensed recall notes on SI units, errors, uncertainty rules, error bars and vectors for OCR A Level Physics A (H556), with a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense sections 2.1.1, 2.1.2, 2.2.1 and 2.3.1 of the OCR *Advanced GCE in Physics A* specification (H556), Version 3.0 (March 2026), for first assessment in 2017. For full explanations, use the [study guide](/resources/ocr-a-level-physics-units-measurement-uncertainty-and-vectors/). Then test yourself with the [practice questions](/resources/ocr-a-level-physics-units-measurement-uncertainty-and-vectors-practice/). The wider module is summarised in the [Foundations of Physics revision notes](/resources/ocr-a-level-physics-foundations-revision-notes/). Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/), [checklist](/checklists/ocr/a-level/physics/) and [free diagnostics](/diagnostics/).

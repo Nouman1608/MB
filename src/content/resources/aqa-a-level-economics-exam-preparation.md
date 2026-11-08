@@ -11,9 +11,10 @@ syllabusSeries: "For first teaching 2015"
 order: 3
 description: "Paper-by-paper exam preparation for AQA A-Level Economics 7136: data-response and essay technique, Paper 3's multiple choice and case study, and a checklist."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-07
 featured: false
 ---

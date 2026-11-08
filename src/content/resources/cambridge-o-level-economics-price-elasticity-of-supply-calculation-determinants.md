@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "price-elasticity-of-supply-pes"
 description: "Study guide to defining, calculating and applying price elasticity of supply, with worked examples, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 2.8 (sub-sections 2.8.1 to 2.8.4) of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2: price elasticity of supply (PES). This syllabus has no tiers, so all of it applies to every candidate. Every firm, market, country and number below is invented for practice and is not a real statistic.

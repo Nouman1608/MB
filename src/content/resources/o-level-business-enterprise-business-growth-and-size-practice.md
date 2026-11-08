@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "enterprise-business-growth-and-size"
 description: "Original worked questions on entrepreneurs, business plans, business size, growth, staying small and failure for Cambridge O Level Business Studies 7115."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

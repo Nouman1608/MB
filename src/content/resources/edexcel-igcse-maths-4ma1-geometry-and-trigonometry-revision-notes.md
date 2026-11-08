@@ -39,11 +39,12 @@ syllabusTopics:
     subtopic: "trigonometry-and-pythagoras-theorem-edexcel-igcse-maths"
 description: "Condensed 4MA1 geometry and trigonometry notes: angle facts, polygons, bearings, compound measures, circle theorems and trig rules, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 For full explanations and worked examples, use the [Geometry and trigonometry study guide](/resources/edexcel-igcse-maths-4ma1-geometry-and-trigonometry/). These notes condense sections 4.1–4.8 of Topic 4 in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Sections 4.1–4.5 are the same on both tiers; parts of 4.6–4.8 are **Higher tier only** and are labelled. A calculator may be used on every paper.

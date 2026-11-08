@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "national-and-global-energy-resources"
 description: "Condensed AQA GCSE Physics 8463 notes on 4.1.3 energy resources: renewables, uses, reliability, impacts, trends and data skills, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These are condensed recall notes for section **4.1.3 National and global energy resources** of the AQA

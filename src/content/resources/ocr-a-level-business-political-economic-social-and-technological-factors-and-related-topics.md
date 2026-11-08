@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "digital-ethical-legal-and-environmental-factors-ocr-alevel-business"
 description: "Study guide to political, economic, social, technological, digital, ethical, legal and environmental factors for OCR A Level Business H431."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is aligned to the OCR A Level Business (H431) specification, Version 2.1 (January 2026), first assessment 2017, final assessment summer 2027. It covers the external influences content on political, economic, social and technological factors, the digital revolution, and ethical, legal and environmental factors (sections 2.5 and 2.6 of our unit plan). It includes the consequences of ignoring external factors.

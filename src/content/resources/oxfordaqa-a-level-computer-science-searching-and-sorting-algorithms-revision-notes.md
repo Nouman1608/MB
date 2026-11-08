@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "searching-and-sorting-algorithms"
 description: "Condensed notes on linear search, binary search, bubble sort and merge sort, with a quick self-test, for OxfordAQA AS and A-level Computer Science."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These revision notes condense section **3.4 Searching and sorting algorithms** (3.4.1 Searching algorithms and 3.4.2 Sorting algorithms) of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It is AS content, assessed in Unit 1: Programming. For full explanations and longer traces, use the [study guide](/resources/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms/).

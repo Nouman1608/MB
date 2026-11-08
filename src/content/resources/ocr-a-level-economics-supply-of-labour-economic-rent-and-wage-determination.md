@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-labour-market-ocr-alevel-economics"
 description: "Study guide to labour supply, economic rent, competitive wages, unions, monopsony and bilateral monopoly for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers the supply side of the Wage determination topic and the wage models, in the Labour market area of study, which is examined in Component 1, Microeconomics. The specification labels no content as AS or Extension. Every figure below is invented and illustrative.

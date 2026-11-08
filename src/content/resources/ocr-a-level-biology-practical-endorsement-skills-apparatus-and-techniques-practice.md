@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "practical-skills-practical-endorsement-ocr-alevel-biology"
 description: "Twelve original questions with worked answers on practical skills and techniques for OCR A Level Biology A, sections 1.2.1 and 1.2.2."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

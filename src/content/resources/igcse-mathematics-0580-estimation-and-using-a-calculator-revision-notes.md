@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "using-a-calculator-cambridge-igcse-maths"
 description: "Revision notes for Cambridge IGCSE Maths 0580 sections 1.9 and 1.14: rounding rules, 1 s.f. estimates, time entry, reading the display and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense **1.9 Estimation** and **1.14 Using a calculator** from Topic 1 Number of the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. The Core (C1.9, C1.14) and Extended (E1.9, E1.14) statements are identical, so every line here is for both tiers; nothing is Extended only. For full explanations and longer worked examples, use the [estimation and calculator study guide](/resources/igcse-mathematics-0580-estimation-and-using-a-calculator/).

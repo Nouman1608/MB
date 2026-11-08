@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "managing-stock-and-working-with-suppliers-1bs0"
 description: "Condensed revision notes on job, batch and flow production, technology, bar gate stock graphs, JIT and suppliers for Edexcel GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Pearson Edexcel Level 1/Level 2 GCSE (9-1) Business (1BS0), Issue 2, July 2022, Theme 2, Topic 2.3 Making operational decisions, items 2.3.1 Business operations and 2.3.2 Managing stock. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-gcse-business-business-operations-and-managing-stock/) first. The specification says formulae are listed in Appendix 3 and are not provided in the examinations; productivity and unit cost are not in that list, so the forms below are standard forms to learn.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-the-government-manages-the-economy-oxfordaqa-igcse-economics"
 description: "Condensed revision notes on fiscal policy, budget balances and monetary policy for OxfordAQA International GCSE Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.2.3.1 (fiscal policy) and 3.2.3.2 (monetary policy) of the OxfordAQA International GCSE Economics specification (9214), first teaching September 2023, first examined May/June 2025. For full explanations start with the [study guide](/resources/oxfordaqa-igcse-economics-fiscal-and-monetary-policy/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-economics-fiscal-and-monetary-policy-practice/). See also the [course hub](/boards/oxfordaqa/igcse/economics/), the [checklist](/checklists/oxfordaqa/igcse/economics/), the [government objectives notes](/resources/igcse-oxfordaqa-economics-government-objectives-revision-notes/) and the [free diagnostics](/diagnostics/).

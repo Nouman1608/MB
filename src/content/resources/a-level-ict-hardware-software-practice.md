@@ -27,9 +27,10 @@ syllabusTopics:
     subtopic: "user-interfaces"
 description: "Original practice questions with worked answers on mainframes, supercomputers, system and utility software, and user interfaces for Cambridge 9626 topic 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

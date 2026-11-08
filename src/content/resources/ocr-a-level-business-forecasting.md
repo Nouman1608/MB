@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forecasting-ocr-alevel-business"
 description: "Study guide to forecasting for OCR A Level Business (H431): qualitative methods, moving averages, correlation and seasonal and cyclical variation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches the Forecasting content point in the Business objectives and strategy area of study of the OCR A Level Business (H431) specification, Version 2.1 (January 2026), for first assessment in 2017 with final assessment in summer 2027. It covers the nature and purpose of forecasting, qualitative methods, quantitative methods (financial forecasts, seasonal and cyclical variation, correlation, extrapolation and moving averages), and how a business should respond. Pair it with the [revision notes](/resources/ocr-a-level-business-forecasting-revision-notes/) and the [practice questions](/resources/ocr-a-level-business-forecasting-practice/). For the wider area of study see the [objectives and strategic decisions guide](/resources/ocr-a-level-business-objectives-and-strategic-decisions/), the [strategy revision notes](/resources/a-business-strategy-revision-notes/) and the [strategy practice set](/resources/a-business-strategy-practice/). Course hub: [OCR A Level Business](/boards/ocr/a-level/business/). Printable list: [checklist](/checklists/ocr/a-level/business/). Not sure where you stand? Try the [free 10-minute diagnostics](/diagnostics/).

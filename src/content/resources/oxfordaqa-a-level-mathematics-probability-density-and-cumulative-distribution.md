@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-continuous-random-variables-oxfordaqa-alevel-maths"
 description: "Study guide to probability density functions and cumulative distribution functions for OxfordAQA International A-level Maths, with fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide covers the first part of section S2.2 (Continuous random variables) in the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2. It teaches how continuous and discrete random variables differ, how a probability density function f(x) and a cumulative distribution function F(x) are linked, how to find the probability of an interval, and how to find a value for a given probability, such as a median or quartile. The specification places this content in International A-level Unit S2 (Statistics), so it is not examined at International AS. Means, variances and the exponential distribution are separate topics and are not covered here.
 

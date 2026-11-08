@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "biodiversity-within-a-community-aqa-alevel-biology"
 description: "Condensed revision notes on species richness, the index of diversity formula, farming and conservation for AQA A-level Biology 7402 section 3.4.6."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 These are condensed notes for AQA A-level Biology (7402) section 3.4.6, *Biodiversity within a community*, from the AQA AS and A-level Biology specification for first teaching 2015. For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming/). Test yourself with the [practice questions](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). Not sure where your gaps are? Take a [free diagnostic](/diagnostics/).
 

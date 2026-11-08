@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "mensuration-and-calculation-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on similar figures, arc lengths and sector areas for OxfordAQA International GCSE Mathematics, with a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense statements G17 and G18 of section 3.3.2, Mensuration and calculation, in the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). Both statements are **Extension only**. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors/).
 

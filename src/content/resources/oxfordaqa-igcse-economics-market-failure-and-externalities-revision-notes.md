@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-failure-oxfordaqa-igcse-economics"
 description: "Condensed notes, formulas and a self-test on market failure, misallocation and externalities for OxfordAQA International GCSE Economics students."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for specification references 3.1.6.1 and 3.1.6.2 in OxfordAQA International GCSE Economics (9214) specification, first teaching September 2023 and first examined May/June 2025. For full explanations and worked tables, read the [study guide](/resources/oxfordaqa-igcse-economics-market-failure-and-externalities/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-economics-market-failure-and-externalities-practice/). Also useful: the [course hub](/boards/oxfordaqa/igcse/economics/), the [printable checklist](/checklists/oxfordaqa/igcse/economics/), the [markets revision notes](/resources/igcse-oxfordaqa-economics-markets-revision-notes/) and the [free 10-minute diagnostics](/diagnostics/).

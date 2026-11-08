@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "methods-and-effects-of-government-intervention-in-markets-cambridge-alevel-economics"
 description: "Study guide to taxes, subsidies, direct provision, price controls, buffer stocks and information in Cambridge AS and A Level Economics, with examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.2 (Methods and effects of government intervention in markets) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 3 is AS Level content, and A Level candidates need it as assumed knowledge for Papers 3 and 4. It builds on [demand, supply and market equilibrium](/resources/cambridge-a-level-economics-demand-supply-and-market-equilibrium/) and on the reasons for intervention in [section 3.1](/resources/a-level-economics-government-microeconomic-intervention/). Every figure below is invented for illustration, in made-up markets.

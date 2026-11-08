@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-1"
 description: "Condensed IB DP Physics HL revision notes on gravitational potential, equipotentials, escape speed and satellite energy, for the AHL part of D.1."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense the additional higher level (AHL) part of D.1 Gravitational fields in the IB *Physics guide*, first assessment 2025. All of it is **HL only**. For full explanations and longer worked examples use the [study guide](/resources/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy/). Test yourself with the [practice questions](/resources/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy-practice/), find your gaps with the [diagnostics](/diagnostics/), and tick off outcomes on the [checklist](/checklists/ib/ib-dp/physics/). The course page is the [IB DP Physics hub](/boards/ib/ib-dp/physics/). For the motion and force background see [forces and momentum](/resources/ib-dp-physics-forces-momentum-revision-notes/).

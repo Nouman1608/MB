@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "operational-strategy-ocr-alevel-business"
 description: "Condensed OCR A Level Business (H431) revision notes on operational strategy: definitions, formulas, method steps, self-test and common errors."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense topic 4, Operational strategy, from the OCR A Level Business (H431) specification, Version 2.1 (January 2026), with final assessment in summer 2027. For full explanations and worked examples read the [study guide](/resources/ocr-a-level-business-operational-strategy/), then test yourself with the [practice questions](/resources/ocr-a-level-business-operational-strategy-practice/). The course hub is [OCR A Level Business](/boards/ocr/a-level/business/), the printable list is the [checklist](/checklists/ocr/a-level/business/), and the [free diagnostics](/diagnostics/) show where to start.

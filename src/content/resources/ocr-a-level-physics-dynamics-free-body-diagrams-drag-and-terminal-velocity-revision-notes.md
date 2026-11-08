@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-in-action-ocr-alevel"
 description: "Condensed notes on F = ma, weight, contact forces, free-body diagrams, drag and terminal velocity for OCR A Level Physics A (H556), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 Quick recall for OCR A Level Physics A (H556), sections 3.2.1 Dynamics and 3.2.2 Motion with non-uniform acceleration (specification Version 3.0, March 2026). For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity/). Then test yourself with the [practice questions](/resources/ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity-practice/). Hub: [OCR A Level Physics](/boards/ocr/a-level/physics/). Tick off topics on the [printable checklist](/checklists/ocr/a-level/physics/), and find weak spots with the [free 10-minute diagnostics](/diagnostics/). Vector resolving is revised in [Foundations of Physics](/resources/ocr-a-level-physics-foundations-of-physics/).

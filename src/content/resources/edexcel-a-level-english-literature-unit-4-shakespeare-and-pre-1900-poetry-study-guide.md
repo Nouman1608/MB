@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "unit-4-poetry-yet01"
 description: "How to analyse a Shakespeare play as drama and verse and to write about pre-1900 poetry, with a method for extracts, essays and short worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check which Shakespeare plays and which poets or collections are set, whether the Shakespeare questions use an extract, and the exact marks and assessment objective weightings for each section. 2026-11-08 recheck: FAQ added."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check which Shakespeare plays and which poets or collections are set, whether the Shakespeare questions use an extract, and the exact marks and assessment objective weightings for each section. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

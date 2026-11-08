@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "statistical-charts-and-diagrams-4024"
 description: "Condensed revision notes on tables, mean, median, mode, range, grouped estimates and charts for Cambridge O Level Mathematics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense sections 9.1 to 9.4 of the Cambridge O Level Mathematics (Syllabus D) syllabus for exams in 2025, 2026 and 2027. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and/). When you are ready to test yourself, use the [practice questions](/resources/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and-practice/), then check your coverage on the [printable checklist](/checklists/cambridge/o-level/mathematics/) and the [course hub](/boards/cambridge/o-level/mathematics/). The [free diagnostics](/diagnostics/) show which topics to revisit first.
 

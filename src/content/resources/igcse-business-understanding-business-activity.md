@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "understanding-business-activity-cambridge-igcse-business"
 description: "Study guide to Topic 1 Understanding business activity for Cambridge IGCSE Business Studies 0450: needs and wants, sectors, growth, ownership and stakeholders."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **Topic 1 Understanding business activity**, for

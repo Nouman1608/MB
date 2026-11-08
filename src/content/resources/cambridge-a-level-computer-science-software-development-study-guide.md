@@ -24,9 +24,12 @@ syllabusTopics:
     subtopic: "program-testing-and-maintenance"
 description: "AS study guide to the program development life cycle, development models, program design tools, test data, test plans and maintenance for Cambridge 9618."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Writing code is only one stage in producing software that works and keeps working. This topic follows a program from the first discussion with a client through design, coding and testing to years of maintenance afterwards. You need to name the stages, compare the common development models, use the standard design tools and design test plans that expose faults.

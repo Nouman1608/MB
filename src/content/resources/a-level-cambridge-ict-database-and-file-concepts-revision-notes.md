@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "database-and-file-concepts"
 description: "Revision notes for Cambridge AS & A Level IT 9626 Database and file concepts: keys, query types, normal forms, data dictionaries and DBMS types."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 For full explanations and worked examples, use the [Database and file concepts study guide](/resources/a-level-cambridge-ict-database-and-file-concepts/).

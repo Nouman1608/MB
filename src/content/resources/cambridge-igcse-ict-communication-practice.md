@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "effective-use-of-the-internet-0417"
 description: "Original exam-style questions with worked answers on email, cc and bcc, spam, intranets, URLs, search engines and protocols for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 10: communication by email (10.1) and effective use of the internet (10.2). They test email features and netiquette, spam, the internet, intranet, extranet and WWW, web address structure, evaluating online information and the protocols HTTP, HTTPS, FTP and SSL.

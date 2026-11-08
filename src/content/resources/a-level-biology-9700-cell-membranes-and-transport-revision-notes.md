@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "movement-into-and-out-of-cells-cambridge-alevel"
 description: "Condensed revision notes for Cambridge 9700 cell membranes and transport: membrane roles, transport processes, water potential, SA:V and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense topic 4, Cell membranes and transport, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. They cover sub-topics 4.1 (Fluid mosaic membranes) and 4.2 (Movement into and out of cells). Everything here is AS Level content, tested on Paper 1 and Paper 2, and assumed knowledge for Paper 4. For full explanations and worked examples, use the [cell membranes and transport study guide](/resources/a-level-biology-9700-cell-membranes-and-transport/).

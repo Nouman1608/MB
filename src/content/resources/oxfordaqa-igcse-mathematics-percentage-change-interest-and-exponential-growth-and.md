@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ratio-and-proportion-oxfordaqa-igcse-maths"
 description: "OxfordAQA International GCSE Mathematics study guide: percentage change, simple and compound interest, reverse percentages, exponential growth and decay."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This study guide is aligned to the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams from May/June 2018 onwards. It covers N15 in section 3.1.2 (percentage change, interest, reverse percentages and the compound interest formula) and the repeated proportional change and exponential growth and decay statements of N20 in section 3.1.3. N15 and the repeated proportional change in N20 are Core content, so they can be assessed at both tiers. Reverse percentages, the compound interest formula and exponential growth and decay are marked **Extension only** below.
 

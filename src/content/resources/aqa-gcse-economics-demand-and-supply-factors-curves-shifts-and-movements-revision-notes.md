@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-prices-are-determined-aqa-gcse-economics"
 description: "Condensed revision notes for AQA GCSE Economics (8136) 3.1.3.1 and 3.1.3.2: demand, supply, their factors, curves, shifts, movements and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense **sections 3.1.3.1 (demand) and 3.1.3.2 (supply)** of the AQA GCSE Economics (8136) specification, first taught from September 2017, part of Paper 1, How markets work. The specification has no tiers. Longer explanations and fuller worked examples are in the [study guide](/resources/aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements/). When you have revised, try the [practice questions](/resources/aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements-practice/), the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/), the [printable checklist](/checklists/aqa/gcse/economics/) and the free [10-minute diagnostics](/diagnostics/). All names and figures below are invented.

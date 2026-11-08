@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "macroeconomic-equilibrium-ocr-aslevel-economics"
 description: "Condensed revision notes on aggregate supply, Keynesian and neo-classical AS, the AD/AS diagram and equilibrium for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021: Aggregate supply, Aggregate demand and aggregate supply, and the first two outcomes of Macroeconomic equilibrium (Component 2, Macroeconomics). The specification marks no content as AS-only or A-level-only. Read the [study guide](/resources/ocr-a-level-economics-aggregate-supply-and-the-ad-as-model/), then try the [practice questions](/resources/ocr-a-level-economics-aggregate-supply-and-the-ad-as-model-practice/). Useful pages: [exam technique](/resources/ocr-a-level-economics-exam-preparation/), [Macroeconomics overview](/resources/ocr-a-level-economics-macroeconomics/), the course [hub](/boards/ocr/a-level/economics/), a topic [checklist](/checklists/ocr/a-level/economics/) and [diagnostics](/diagnostics/). Numbers are illustrative.

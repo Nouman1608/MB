@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "component-5-coursework-0475"
 description: "How to plan, draft and finish a Cambridge IGCSE Literature in English 0475 Component 5 coursework portfolio: texts, tasks, argument, evidence and authenticity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description now names board and code; FAQ added with syllabus word limits and marking. Check the number of assignments, the permitted word limits, any rules about text choice and genre, the mark total, and the teacher's allowed level of support for the 2026 series."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: description now names board and code; FAQ added with syllabus word limits and marking. Check the number of assignments, the permitted word limits, any rules about text choice and genre, the mark total, and the teacher's allowed level of support for the 2026 series; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

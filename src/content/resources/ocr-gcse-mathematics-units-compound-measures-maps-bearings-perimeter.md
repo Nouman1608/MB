@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "perimeter-calculations-ocr-gcse-maths"
 description: "Study guide to unit conversion, speed, density, pressure, maps, bearings, perimeter, circumference and arc length for OCR GCSE Mathematics J560."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide follows sections 10.01 and 10.02 of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). It covers units and measurement (10.01a to 10.01c) and perimeter calculations (10.02a to 10.02c). Everything here is examined on both tiers: the specification lists no Higher tier only content in these sections. For quick recall use the [revision notes](/resources/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter-practice/). The [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [printable checklist](/checklists/ocr/gcse/mathematics/) show where this unit sits. If you are unsure of your starting point, try the [10-minute diagnostics](/diagnostics/).

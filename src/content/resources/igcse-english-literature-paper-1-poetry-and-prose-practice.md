@@ -20,11 +20,12 @@ syllabusTopics:
     subtopic: "section-b-prose-0475"
 description: "Original practice with worked answers on Cambridge IGCSE Literature in English 0475 Paper 1: format, the command word Explore and how AO1 to AO4 are marked."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

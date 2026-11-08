@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "non-exam-assessment-9270"
 description: "Original practice for the OxfordAQA International GCSE English Language (9270) NEA project: source selection, synthesis, task writing and commentary."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

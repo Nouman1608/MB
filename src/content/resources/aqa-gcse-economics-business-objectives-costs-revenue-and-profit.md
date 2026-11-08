@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "production-costs-revenue-and-profit-aqa-gcse-economics"
 description: "Study guide to business objectives, types of cost and revenue, profit and ethics for AQA GCSE Economics (8136), with fully worked calculations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **section 3.1.4.1, The importance of cost, revenue and profit for producers**, in the AQA specification for GCSE Economics (8136), first taught from September 2017. It sits in 3.1, How markets work, which is Paper 1. Productivity and economies of scale (3.1.4.2 and 3.1.4.3) are separate topics and are not taught here. Every firm, country and figure below is invented for practice and is illustrative only.

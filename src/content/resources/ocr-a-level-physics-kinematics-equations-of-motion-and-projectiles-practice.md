@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "motion-ocr-alevel"
 description: "Eleven original, fully worked practice questions on OCR A Level Physics A (H556) 3.1 Motion: graphs, suvat, measuring g, stopping distance and projectiles."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

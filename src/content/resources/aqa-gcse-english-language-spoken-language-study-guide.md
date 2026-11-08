@@ -23,9 +23,10 @@ syllabusTopics:
     subtopic: "spoken-standard-english-8700"
 description: "How to plan, deliver and respond to a formal presentation and use spoken Standard English for the separate AQA GCSE English Language 8700 endorsement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the current grading labels, the required length and format of the presentation, the recording and moderation arrangements, and exactly how the endorsement appears on results against AQA's current guidance. 2026-11-08 recheck: FAQ added."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the current grading labels, the required length and format of the presentation, the recording and moderation arrangements, and exactly how the endorsement appears on results against AQA's current guidance. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

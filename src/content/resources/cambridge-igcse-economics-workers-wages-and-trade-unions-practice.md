@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "trade-unions-cambridge-igcse-economics"
 description: "Eleven original questions with worked answers on occupations, wages, earnings gaps, specialisation and trade unions for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 

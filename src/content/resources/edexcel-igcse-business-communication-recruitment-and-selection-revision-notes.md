@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "recruitment-and-selection-process-4bs1"
 description: "Condensed Edexcel IGCSE Business revision notes on communication methods, barriers, employment types, recruitment documents and law, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026, Topic 2 "People in business", sections 2.1 and 2.2. Full explanations and worked examples are in the [study guide](/resources/edexcel-igcse-business-communication-recruitment-and-selection/); questions to try are in the [practice set](/resources/edexcel-igcse-business-communication-recruitment-and-selection-practice/). Course links: the [4BS1 Business hub](/boards/edexcel/igcse/business/), the [printable checklist](/checklists/edexcel/igcse/business/) and the [free diagnostics](/diagnostics/). The methods, barriers, document contents and legal effects below are standard teaching, not specification wording; the specification states only the numbered points. Papers 1 and 2 both draw on the whole content, so be ready to apply every point to a small business and a large one. Amounts below are invented and in dollars.

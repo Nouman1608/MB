@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "reactions-of-ions-in-aqueous-solution-7405"
 description: "Study guide for AQA A-Level Chemistry section 3.2.6: metal-aqua ions, acidity, reactions with OH⁻, NH₃ and CO₃²⁻, and required practical 11."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide covers section 3.2.6, Reactions of ions in aqueous solution, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole of 3.2.6 is marked "A-level only", so it is not part of AS. The specification lists inorganic chemistry (section 3.2) under A-level Paper 1, and Paper 3 can assess any content. Section 3.2.6 includes required practical 11.

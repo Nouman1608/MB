@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-differentiation-oxfordaqa-alevel-maths"
 description: "Study guide to implicit and parametric differentiation and their tangents and normals, for OxfordAQA International A-level Mathematics Unit P2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide follows the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the second part of content area P2.6: differentiating curves defined implicitly or parametrically, and finding the equations of their tangents and normals. The specification places this content in International A-level (A2) Unit P2 (Pure Maths). It is not examined at International AS. Second derivatives of implicit or parametric curves are not required.
 

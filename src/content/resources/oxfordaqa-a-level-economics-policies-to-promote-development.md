@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-growth-and-development-oxfordaqa-alevel-economics"
 description: "Study guide to policies that promote development for OxfordAQA International A-level Economics: market-based and interventionist strategies, FDI and aid."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide is aligned to the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.4.3.3 Policies to promote development. Section 3.4 is extra International A2 content, examined in the A2 unit on economic development and the global economy. The other 3.4.3 statements (measuring growth and development, and factors affecting development) have their own pages. All figures below are invented and illustrative. Currency is shown as "cu" (currency units).
 

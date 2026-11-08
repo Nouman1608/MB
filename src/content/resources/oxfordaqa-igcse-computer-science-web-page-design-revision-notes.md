@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "web-page-design"
 description: "Recall notes on HTML structure and tags, CSS type and class selectors, the seven CSS properties, scripting and HTML5 for OxfordAQA International GCSE 9210."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Web page design (topic 3.8 of OxfordAQA International GCSE Computer Science 9210) covers building web pages with

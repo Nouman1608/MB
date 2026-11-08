@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "capital-investment-appraisal-oxfordaqa"
 description: "Condensed revision notes for OxfordAQA A-level Accounting 3.2.3: relevant cash flows, payback, NPV, method pros and cons, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section **3.2.3 Capital investment appraisal** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International A-level exams from May/June 2026 onwards. Section 3.2.3 is **International A-level only**, and the specification assesses it in Paper 4: Accounting for analysis and decision making. If a point here is unclear, the [study guide](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal/) explains it step by step. Money is in dollars; the firms are made up.

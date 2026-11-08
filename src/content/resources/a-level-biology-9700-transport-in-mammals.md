@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "the-heart-cambridge-alevel-biology"
 description: "Blood vessels, blood cells, tissue fluid, oxygen and carbon dioxide transport and the cardiac cycle, taught step by step for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches Topic 8, Transport in mammals, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 8.1 The circulatory system, 8.2 Transport of oxygen and carbon dioxide and 8.3 The heart. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions require knowledge of the AS content.

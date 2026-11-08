@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-1"
 description: "Study guide to conduction, convection, black-body radiation, luminosity, apparent brightness and Wien's law for IB DP Physics B.1, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This study guide follows the IB *Physics guide*, first assessment 2025, and covers the second half of topic B.1 (Thermal energy transfers): conduction, convection and thermal radiation. It applies to Standard Level and Higher Level alike, because B.1 contains no material reserved for Higher Level. The first half (molecular model, temperature, internal energy, heating calculations) is taught in a separate unit.

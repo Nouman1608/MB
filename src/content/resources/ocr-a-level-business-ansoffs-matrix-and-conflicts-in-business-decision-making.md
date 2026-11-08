@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "conflicts-in-business-decision-making-ocr-alevel-business"
 description: "Study guide to Ansoff's matrix and to conflicts between decision making tools for OCR A Level Business, with two fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers two pieces of content in the area of study Business objectives and strategy in the OCR A Level Business (H431) specification, Version 2.1 (January 2026): Ansoff's matrix and Conflicts in business decision making. Both sit in the unit Business objectives and strategic decisions. It sits beside the wider [Objectives and Strategic Decisions study guide](/resources/ocr-a-level-business-objectives-and-strategic-decisions/), which gives a short overview, and goes deeper on these two points.

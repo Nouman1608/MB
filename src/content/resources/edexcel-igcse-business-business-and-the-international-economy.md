@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "business-and-the-international-economy-4bs1"
 description: "Study guide to globalisation, multinationals, exchange rate calculations and exchange rate effects for Edexcel IGCSE Business, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 1, section 1.5 "Business and the international economy", points 1.5.1 to 1.5.4. The specification says both papers can draw on the whole of the subject content. Paper 1 focuses on a small business of up to 49 employees and Paper 2 on a large business of more than 250 employees, so you may meet this material in either setting.

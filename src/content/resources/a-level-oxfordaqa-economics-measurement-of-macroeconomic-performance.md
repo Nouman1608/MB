@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "the-measurement-of-macroeconomic-performance-oxfordaqa-alevel-economics"
 description: "OxfordAQA International A-level Economics (9640) 3.2.1: macroeconomic objectives and conflicts, indicators including the Gini coefficient, and index numbers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-02
 featured: false
 ---

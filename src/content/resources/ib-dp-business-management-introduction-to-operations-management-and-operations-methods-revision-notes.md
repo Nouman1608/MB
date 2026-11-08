@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-2"
 description: "Condensed revision notes for IB DP Business Management 5.1 and 5.2: operations roles, four production methods compared, and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for sections 5.1 Introduction to operations management and 5.2 Operations methods in the IB *Business management guide* (first assessment 2024), SL and HL. For full explanations and worked examples go to the [study guide](/resources/ib-dp-business-management-introduction-to-operations-management-and-operations-methods/). Test yourself with the [practice questions](/resources/ib-dp-business-management-introduction-to-operations-management-and-operations-methods-practice/). Course hub: [IB DP Business Management](/boards/ib/ib-dp/business/). Tick-list: [printable checklist](/checklists/ib/ib-dp/business/). Find gaps with the [free diagnostics](/diagnostics/).

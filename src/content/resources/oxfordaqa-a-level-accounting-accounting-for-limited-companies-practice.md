@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "accounting-for-limited-companies-oxfordaqa"
 description: "Original practice questions with worked answers for OxfordAQA 9615 section 3.2.6, from rights issues and revaluations to a full IAS7 cash flow statement."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

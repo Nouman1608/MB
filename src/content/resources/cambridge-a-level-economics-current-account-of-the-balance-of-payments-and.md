@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "policies-to-correct-current-account-imbalances-cambridge-alevel-economics"
 description: "Study guide to the current account, CAB calculations, causes and consequences of imbalances and correcting policies for Cambridge 9708 Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 6.3 (Current account of the balance of payments) and 6.5 (Policies to correct imbalances in the current account), outcomes 6.3.1 to 6.3.4 and 6.5.1 to 6.5.2, of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 6 is AS Level content. A Level candidates study it too, and the syllabus treats it as assumed knowledge for A Level Papers 3 and 4. Every country, firm and figure below is invented for illustration. None is a real statistic. Money is in billions of currency units (bn cu) unless stated.

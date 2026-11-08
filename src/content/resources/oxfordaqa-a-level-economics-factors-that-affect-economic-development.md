@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-growth-and-development-oxfordaqa-alevel-economics"
 description: "Study guide to the factors that affect economic development in OxfordAQA International A-level Economics 9640, with worked examples and evaluation chains."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers section 3.4.3.2, Factors that affect economic development, of the OxfordAQA International AS and A-level Economics (9640) specification (version 1.2). Section 3.4 is the extra International A2 content, assessed in Unit 4, Economic development and the global economy. The specification says AS content is essential when you analyse these factors, so expect to use elasticity, supply and demand and macroeconomic ideas.
 

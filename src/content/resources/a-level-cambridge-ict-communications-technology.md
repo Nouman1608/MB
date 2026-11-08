@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "communications-technology"
 description: "Study guide for Cambridge A Level IT 9626 topic 14: networks, components, servers, cloud, transmission, protocols, wireless, mobile, security and recovery."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This guide teaches **topic 14, Communications technology**, of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), sections 14.1 to 14.10. It is **A Level only**, assessed in **Paper 3 Advanced Theory** (no calculator).

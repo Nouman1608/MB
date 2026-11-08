@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-balance-of-payments-exchange-rates-and-financial-markets-oxfordaqa-alevel-economics"
 description: "Study guide to financial markets for OxfordAQA International AS and A-level Economics: money, banks, central banks and regulation, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers financial markets for OxfordAQA International AS and A-level Economics (9640), specification section 3.4.2.3, for exams from May/June 2022 (International A-level). Section 3.4 is extra International A2 content and sits outside the International AS. Every figure below is invented for teaching, and the currencies, firms and banks are fictional. The balance of payments and exchange-rate determination have their own sections and are not repeated here.
 

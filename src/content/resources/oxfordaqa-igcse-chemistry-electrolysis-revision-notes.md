@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electrolysis-9202"
 description: "Condensed OxfordAQA IGCSE Chemistry (9202) electrolysis notes: half equations, product rules, the copper sulfate practical, plating, aluminium and brine."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense section 3.3.2 Electrolysis of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. They cover statements a to j and the required practical on copper sulfate solution. The qualification is untiered, so all of it is for every candidate. The [electrolysis study guide](/resources/oxfordaqa-igcse-chemistry-electrolysis/) has the full teaching and worked examples.

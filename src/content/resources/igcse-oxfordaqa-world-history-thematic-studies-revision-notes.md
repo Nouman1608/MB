@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "paper-2-section-b-9245"
 description: "Revision notes for OxfordAQA 9245 Paper 2 Section B: people, inventions and dates across the six periods of Technology or Medicine and change, with technique."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "New specification (first exams 2028): check against the 9245 Version 1.1 specification, section 3.2.2, and dates against standard texts before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "New specification (first exams 2028): check against the 9245 Version 1.1 specification, section 3.2.2, and dates against standard texts before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

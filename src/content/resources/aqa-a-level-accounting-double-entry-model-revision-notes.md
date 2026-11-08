@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "the-double-entry-model"
 description: "Condensed recall notes for the double entry model in AQA A-Level Accounting: documents, journals, ledgers, adjustments and statements, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense the double entry content of the AQA A-level Accounting (7127) specification, subject content 3.3, for A-level exams from June 2019 onwards. The specification lists this topic (section 3 in its list of subject content areas) among the content assessed on both papers. Full explanations are in the [study guide](/resources/aqa-a-level-accounting-double-entry-model/). Test yourself with the [practice questions](/resources/aqa-a-level-accounting-double-entry-model-practice/), check progress on the [printable checklist](/checklists/aqa/a-level/accounting/), and find the course on the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/). For the checks that follow recording, see [verification of accounting records](/resources/aqa-a-level-accounting-verification-of-accounting-records/); for full sole trader statements, see [preparation of financial statements of sole traders](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders/). If you are unsure where to start, take a [free diagnostic](/diagnostics/). All amounts on this page are in pounds (£) and every business is invented.

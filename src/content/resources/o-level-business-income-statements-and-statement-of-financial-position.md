@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "statement-of-financial-position"
 description: "Study guide to profit, income statements and the statement of financial position for Cambridge O Level Business 7115, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is aligned to the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It covers syllabus sections 5.3 (Income statements) and 5.4 (Statement of financial position), both part of unit 5, Financial information and decisions. The syllabus says that constructing income statements and statements of financial position will not be assessed. What you need is the ability to read them, explain their parts and use them to support a decision.

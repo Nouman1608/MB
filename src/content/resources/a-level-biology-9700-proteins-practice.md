@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "proteins-cambridge-alevel-biology"
 description: "Eleven original questions for Cambridge 9700 Biology on amino acids, protein structure, haemoglobin and collagen, with mark-by-mark answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

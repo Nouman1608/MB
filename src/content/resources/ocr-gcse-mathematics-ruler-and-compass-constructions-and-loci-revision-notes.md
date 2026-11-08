@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ruler-and-compass-constructions-ocr-gcse-maths"
 description: "Condensed revision notes on constructions, bisectors, perpendiculars and loci for OCR GCSE Mathematics J560, with a quick self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes cover section 8.02 (8.02a to 8.02d) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). Everything here is Foundation and Higher content; no part of it is restricted to the Higher tier. Read the [study guide](/resources/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci/) for the reasoning and longer examples. Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci-practice/). Tick off skills on the [checklist](/checklists/ocr/gcse/mathematics/), look at the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), or find weak spots with the [10-minute diagnostics](/diagnostics/).

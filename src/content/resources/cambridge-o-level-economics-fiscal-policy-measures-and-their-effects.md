@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "fiscal-policy"
 description: "Study guide to fiscal policy for Cambridge O Level Economics: tax and spending changes, budget deficit and surplus sums, and effects on macroeconomic aims."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide is written for Cambridge O Level Economics 2281, using the syllabus for examination in 2026. It covers syllabus statements 4.3.7 (definition of fiscal policy), 4.3.8 (fiscal policy measures, including calculations of the size of a budget deficit or surplus) and 4.3.9 (effects of fiscal policy on the government's macroeconomic aims). There are no separate tiers for this course.
 

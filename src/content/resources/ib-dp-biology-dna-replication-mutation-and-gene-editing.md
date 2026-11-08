@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d1-3"
 description: "A full study guide to IB DP Biology D1.1 DNA replication and D1.3 Mutation and gene editing, with worked data examples, for SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches IB Diploma Programme Biology sections D1.1 (DNA replication) and D1.3 (Mutation and gene editing) from scratch. It follows the IB *Biology guide*, first assessment 2025. Statements D1.1.6 to D1.1.9 and D1.3.8 to D1.3.10 are additional higher level, so each is labelled "HL only"; everything else is SL and HL.

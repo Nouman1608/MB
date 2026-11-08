@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-8-1"
 description: "OxfordAQA 9620 study guide to section 3.3.8: aldehyde oxidation, Fehling's and Tollens', NaBH4 and KCN nucleophilic addition, and racemic products."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.3.8, Aldehydes and ketones, from the OxfordAQA *International AS and A-level Chemistry (9620)* specification (Version 5.3; International AS and A-level exams May/June 2020 onwards). Only one subsection, 3.3.8.1, makes up the section. The specification places the topic among the International A2 organic sections, which makes every point here **International A-level only**. The unit that examines it is Unit 4 (Organic 2 and Physical 2, covering 3.3.7–3.3.16), while Unit 5, the practical and synoptic unit, can assess anything in the course.

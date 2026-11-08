@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-the-government-manages-the-economy-oxfordaqa-igcse-economics"
 description: "Study guide to fiscal policy, the government budget and monetary policy for OxfordAQA International GCSE Economics, with worked examples and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.2.3.1 (fiscal policy) and 3.2.3.2 (monetary policy) of the OxfordAQA International GCSE Economics specification (9214), first teaching September 2023, first examined May/June 2025. Both sit in section 3.2, How economies work. Supply-side policies and externalities (3.2.3.3 and 3.2.3.4) are separate units and are not repeated.

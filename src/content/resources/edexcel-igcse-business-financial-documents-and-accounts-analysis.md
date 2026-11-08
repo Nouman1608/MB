@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "accounts-analysis-4bs1"
 description: "Study guide to statements of comprehensive income, statements of financial position and the six Edexcel IGCSE Business ratios, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 3 (Business finance), sections 3.4 Financial documents and 3.5 Accounts analysis. As both papers draw on the whole content, expect this material in either the small-business paper or the large-business paper.

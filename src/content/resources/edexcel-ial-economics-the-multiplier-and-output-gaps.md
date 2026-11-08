@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "economic-growth-edexcel-alevel-economics"
 description: "Study guide to the multiplier, marginal propensities and output gaps for Pearson Edexcel International Advanced Level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. It covers 2.3.4 item 4 (a to d, the multiplier) and 2.3.5 item 4 (a to d, output gaps). Both sit in Unit 2, Macroeconomic performance and policy. The specification calls Units 1 and 2 the International AS (IAS) units and Units 3 and 4 the additional International A2 (IA2) content for the full International Advanced Level, so this material is IAS content and also part of the full qualification. All figures below are invented for illustration.

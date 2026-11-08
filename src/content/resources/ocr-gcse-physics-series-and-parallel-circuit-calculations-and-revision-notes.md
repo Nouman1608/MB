@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "simple-circuits-ocr-gcse"
 description: "Condensed revision notes for OCR GCSE Physics A (J249) P3.2i-P3.2m: series and parallel rules, measurement circuits, power equations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These revision notes condense the [full study guide](/resources/ocr-gcse-physics-series-and-parallel-circuit-calculations-and/) for the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), learning outcomes P3.2i to P3.2m. All of these statements are assessed in both tiers. Use them with the [practice questions](/resources/ocr-gcse-physics-series-and-parallel-circuit-calculations-and-practice/), the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), the [printable checklist](/checklists/ocr/gcse/physics/) and the [free diagnostics](/diagnostics/).

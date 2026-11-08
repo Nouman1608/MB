@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "m2-kinematics-oxfordaqa-alevel-maths"
 description: "Study guide to modelling assumptions and vector kinematics with calculus for OxfordAQA International A-level Maths Unit M2, with full worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers sections M2.1 (mathematical modelling) and M2.2 (kinematics) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level Unit M2 (Mechanics), taken with Unit P2 as the mechanics option (the alternative is Unit S2); it is not examined at International AS. Unit M2 expects familiarity with the International AS units and Unit P2, so straight-line motion from Unit PSM1 is your starting point.

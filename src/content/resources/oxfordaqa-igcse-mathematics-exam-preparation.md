@@ -11,11 +11,12 @@ syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
 description: "Core (grades 1-5) and Extension (grades 4-9) tiers of OxfordAQA International GCSE Mathematics 9260 explained, with calculator tips and a method-marks routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 OxfordAQA International GCSE Mathematics (9260) is a linear, tiered qualification with no coursework:

@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "forces-ocr-gcse"
 description: "Condensed recall notes on motion, Newton's laws and forces in action for OCR GCSE (9-1) Physics A Gateway Science (J249), Topic P2 Forces."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

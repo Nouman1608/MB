@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "a-proof-aqa-alevel-maths"
 description: "Study guide to AQA A-level Maths section A: Proof -- deduction, exhaustion, counter-examples and contradiction, with fully worked proofs (7357)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches section 3.2 **A: Proof** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The section has one content reference, **A1**, and this guide covers every part of it: the structure of a proof, proof by deduction, proof by exhaustion, disproof by counter-example and proof by contradiction. 7357 is a linear A-level, so there is no AS/A split to worry about. Proof is listed in the content for **Paper 1**, and Papers 2 and 3 can each assess any Paper 1 content, so a proof question can appear on any of the three papers.

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "electronic-calculators-edexcel-igcse-maths"
 description: "Detailed study guide for Edexcel IGCSE Maths 4MA1 sections 1.10-1.11: metric units, time, money, currency conversion and accurate calculator use."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches sections 1.10 (Applying number) and 1.11 (Electronic calculators) of topic 1, Numbers and the number system, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. Both sections are Foundation Tier content. The Higher Tier content for 1.10 and 1.11 simply says "See Foundation Tier", so everything here applies to both tiers and nothing is Higher tier only.

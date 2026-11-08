@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "genetic-diversity-mutation-and-meiosis-aqa-alevel-biology"
 description: "Condensed revision notes on gene mutation, non-disjunction, meiosis, life cycles and 2ⁿ calculations for AQA A-level Biology 7402 section 3.4.3."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 These are condensed revision notes for AQA A-level Biology (7402) section 3.4.3, *Genetic diversity can arise as a result of mutation or during meiosis*, from the AQA AS and A-level Biology specification for first teaching 2015. For full explanations read the [study guide](/resources/aqa-a-level-biology-mutation-and-meiosis/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-mutation-and-meiosis-practice/). See also the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), the [printable checklist](/checklists/aqa/a-level/biology/) and the [free diagnostics](/diagnostics/).
 

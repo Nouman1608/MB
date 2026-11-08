@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "the-operation-of-a-transformer-oxfordaqa-alevel-physics"
 description: "Condensed revision notes on rms values, oscilloscope controls, the transformer, energy losses and power lines for OxfordAQA A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense sections 3.10.5 (Alternating currents) and 3.10.6 (The operation of a transformer) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. Section 3.10 is International A-level only. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-physics-alternating-currents-and-the-transformer/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-alternating-currents-and-the-transformer-practice/), use the [course hub](/boards/oxfordaqa/a-level/physics/) and tick points off the [printable checklist](/checklists/oxfordaqa/a-level/physics/). Not sure where to start? Try a [free diagnostic](/diagnostics/).

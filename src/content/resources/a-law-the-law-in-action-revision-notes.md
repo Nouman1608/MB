@@ -23,11 +23,12 @@ syllabusTopics:
     subtopic: "the-individual-yla1"
 description: "Revision notes for Edexcel International A Level Law Paper 2: contract, negligence, criminal liability, property offences, defamation and occupiers' liability."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-30
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

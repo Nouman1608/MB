@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "s2-hypothesis-tests-edexcel-alevel-maths"
 description: "Study guide to Edexcel IAL Mathematics Statistics 2 section 4: samples, sampling distributions, and hypothesis tests for binomial p and Poisson mean."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Here is section 4 (topics 4.1 to 4.6, headed "Hypothesis tests") of Unit S2: Statistics 2 in the

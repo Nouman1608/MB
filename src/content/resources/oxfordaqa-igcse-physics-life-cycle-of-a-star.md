@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "life-cycle-of-a-star"
 description: "A full study guide to the life cycle of a star for OxfordAQA International GCSE Physics (9203), from nebula to white dwarf, neutron star or black hole."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This study guide follows the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, section 3.8.1 (Life cycle of a star), statements a to i. The qualification is untiered, so this content applies to all candidates. Use it with the [revision notes](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star-practice/). The course page is the [OxfordAQA IGCSE Physics hub](/boards/oxfordaqa/igcse/physics/), the [printable checklist](/checklists/oxfordaqa/igcse/physics/) lists every outcome, and the [10-minute diagnostics](/diagnostics/) show where to start. For the energy ideas behind this topic see [OxfordAQA IGCSE Physics: Energy](/resources/igcse-oxfordaqa-physics-energy/).
 

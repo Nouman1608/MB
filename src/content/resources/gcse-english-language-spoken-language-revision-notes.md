@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "spoken-standard-english-8700"
 description: "Revision notes on AQA GCSE English Language (8700) spoken language: the compulsory presentation, AO7–AO9, Pass/Merit/Distinction criteria and the 3.1.3 content."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Spoken language in AQA GCSE English Language (8700) is a **compulsory** non-exam assessment reported as

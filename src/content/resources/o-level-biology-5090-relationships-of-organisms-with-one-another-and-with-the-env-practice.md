@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "relationships-of-organisms-with-one-another-and-with-the-environment"
 description: "Original practice questions with worked answers on ecology for Cambridge O Level Biology 5090: food webs, energy, cycles, pollution, conservation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

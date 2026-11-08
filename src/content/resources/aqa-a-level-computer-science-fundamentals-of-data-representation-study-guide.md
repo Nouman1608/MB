@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "fundamentals-of-data-representation"
 description: "AQA A Level Computer Science 7517 section 4.5 guide: number bases, two's complement, floating point, character sets, images, sound, compression and encryption."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Every piece of data in a computer, from a bank balance to a photograph, is stored as patterns of bits. This guide covers how numbers, text, images and sound are encoded, how data is compressed and protected, and the arithmetic you must carry out by hand, including floating-point conversions that appear regularly in the written papers.

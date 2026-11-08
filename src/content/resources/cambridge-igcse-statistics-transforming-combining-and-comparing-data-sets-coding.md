@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "transformations-of-data-sets-0479"
 description: "Study guide to Topic 6 of Cambridge IGCSE Statistics (0479): coding, adding or removing values, combined means and SDs, standardising and comparing."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers **Topic 6, Transformations of data sets**, in the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027. It teaches outcomes 6.1 to 6.6: the effect of adding or multiplying by a constant, the effect of adding or removing values, combining two data sets, scaling and standardising, and comparing distributions. It builds on the averages and measures of spread from Topics 4 and 5.

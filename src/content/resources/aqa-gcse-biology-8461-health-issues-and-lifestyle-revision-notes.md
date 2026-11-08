@@ -21,11 +21,12 @@ syllabusTopics:
     subtopic: "the-effect-of-lifestyle-on-some-non-communicable-diseases-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on health and disease, risk factors, lifestyle and non-communicable diseases, and reading disease data, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05; 2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed recall notes for **4.2.2.5 Health issues** and **4.2.2.6 The effect of lifestyle on some

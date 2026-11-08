@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-3-1-4"
 description: "Study guide to OCR A Level Chemistry A 3.1.4 Qualitative analysis: test-tube tests for carbonate, sulfate, halide and ammonium ions, in order."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.1.4, Qualitative analysis, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. Module 3 (Periodic table and energy) is its home, and it contains one lettered learning outcome, 3.1.4(a), with an anion part (i) and a cation part (ii). Both parts, the additional guidance and the PAG4 link are covered below. H432 is the full A level. According to the specification's assessment overview, Module 3 is examined in component 01, Periodic table, elements and physical chemistry, and in component 03, Unified chemistry.

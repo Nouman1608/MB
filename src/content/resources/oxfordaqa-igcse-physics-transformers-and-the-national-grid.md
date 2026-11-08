@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electricity-transmission-and-distribution"
 description: "Study guide to electricity transmission and distribution for OxfordAQA International GCSE Physics: transformers, turns ratios, grid losses and switch mode."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers section 3.6.2 (electricity transmission and distribution) of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. It teaches every statement a to g from scratch, with worked examples. The qualification is untiered, so there is one route through the content.
 

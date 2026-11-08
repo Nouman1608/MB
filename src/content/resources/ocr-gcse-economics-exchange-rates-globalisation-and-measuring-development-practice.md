@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "globalisation-ocr-gcse-economics"
 description: "Original OCR GCSE Economics J205 practice questions with worked answers on exchange rates, currency conversion, globalisation and development."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

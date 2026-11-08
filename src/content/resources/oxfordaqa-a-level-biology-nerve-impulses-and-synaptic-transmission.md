@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "control-oxfordaqa-alevel-biology"
 description: "Study guide to resting and action potentials, conduction speed, synapses, the neuromuscular junction and drug effects, OxfordAQA A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers sections 3.4.3.1 (Nerve impulses) and 3.4.3.2 (Synaptic transmission) of the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1, for International A-level exams May/June 2018 onwards. These sections sit in Unit 4, Control, which the specification lists as International A-level only. Typical values are given for teaching. If a question supplies values, use those.

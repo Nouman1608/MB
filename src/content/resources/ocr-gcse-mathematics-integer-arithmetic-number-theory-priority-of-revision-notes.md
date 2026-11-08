@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "inverse-operations-ocr-gcse-maths"
 description: "Condensed revision notes with a self-test on integer arithmetic, primes, HCF and LCM, priority of operations and inverse operations for OCR GCSE Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections 1.01 to 1.04 of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026): four rules with integers, whole number theory, priority of operations and inverse operations. All of it is Foundation and Higher content, with no Higher tier only statements in this unit. Full explanations are in the [study guide](/resources/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of/), and exam-style questions are in the [practice set](/resources/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of-practice/).

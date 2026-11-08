@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "representation-of-data-cambridge-alevel-maths"
 description: "Original Cambridge 9709 Paper 5 questions on representing data: stem-and-leaf, box plots, histograms, cumulative frequency and Σx, Σx² totals."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

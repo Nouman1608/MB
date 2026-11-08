@@ -11,11 +11,12 @@ syllabusSeries: "First assessment 2020"
 order: 2
 description: "The five prescribed themes of IB DP Language B, with guiding principles and recommended topics, plus SL and HL differences and exam timings at a glance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme

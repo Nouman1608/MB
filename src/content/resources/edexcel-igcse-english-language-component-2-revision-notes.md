@@ -20,9 +20,10 @@ syllabusTopics:
     subtopic: "section-b-imaginative-writing-4ea1"
 description: "Condensed notes on anthology poetry and prose analysis and imaginative writing craft for Pearson Edexcel International GCSE English Language A 4EA1 Component 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-03
 featured: false
 ---

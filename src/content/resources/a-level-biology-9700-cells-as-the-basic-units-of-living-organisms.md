@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "cells-as-the-basic-units-of-living-organisms-cambridge"
 description: "Section 1.2 in depth: eukaryotic organelles, plant and animal cells, ATP, bacteria and viruses, with worked examples, for Cambridge 9700 Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches section 1.2, Cells as the basic units of living organisms, from Topic 1 Cell structure of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It works through all seven learning outcomes in 1.2. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions need knowledge of the AS content. Microscope skills from section 1.1 are covered in the topic-level pages linked below.

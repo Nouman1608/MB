@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-and-newtons-laws-ocr-alevel-maths"
 description: "Study guide to resolving forces, resultants, equilibrium in two dimensions, connected particles and smooth pulleys for OCR A Level Mathematics A."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide covers part of section 3.03, Forces and Newton's Laws, of the OCR A Level Mathematics A specification (H240, Version 3.1, August 2026, for first assessment in 2018): outcomes 3.03l, 3.03m, 3.03n, 3.03o, 3.03p and 3.03q. Only 3.03n is Stage 1, common with AS. The rest is Stage 2, so it is **A Level only**. The specification says the Pure Mathematics and Mechanics component assesses mechanics in its own section. Use g = 9.8 m s⁻² unless told otherwise.
 

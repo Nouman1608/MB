@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "mode-of-action-of-enzymes-cambridge-alevel-biology"
 description: "Eleven original 9700 section 3.1 questions with marked answers: activation energy, induced fit, catalase and amylase rates, and colorimetry."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

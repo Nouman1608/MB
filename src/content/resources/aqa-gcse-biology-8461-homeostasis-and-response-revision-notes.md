@@ -27,11 +27,12 @@ syllabusTopics:
     subtopic: "plant-hormones-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on homeostasis: reflexes, eye, temperature, insulin, kidneys, ADH, menstrual cycle, auxin, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 Condensed recall for the final weeks. For full explanations and worked examples, use the [Homeostasis and response study guide](/resources/aqa-gcse-biology-8461-homeostasis-and-response/).

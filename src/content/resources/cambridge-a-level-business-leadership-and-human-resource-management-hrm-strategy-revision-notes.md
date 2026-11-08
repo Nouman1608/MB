@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "human-resource-management-hrm-strategy-cambridge-alevel-business"
 description: "Condensed revision notes for Cambridge A Level Business 9609 sections 7.3 and 7.4: leadership theories, EQ, flexible contracts, MBO, IT and AI."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense sections 7.3 Leadership and 7.4 Human resource management (HRM) strategy of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Both are A Level content, assessed through case studies on Paper 3 and Paper 4. For full explanations and worked examples, read the [study guide](/resources/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy/).
 

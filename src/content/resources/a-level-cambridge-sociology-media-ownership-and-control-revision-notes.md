@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "impact-of-the-new-media-9699"
 description: "Condensed Cambridge 9699 notes on 9.1-9.3: ownership trends, pluralist, Marxist and postmodern theories, news values, agenda setting and the new media debate."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense heading 9 *Ownership and control of media* from Cambridge International

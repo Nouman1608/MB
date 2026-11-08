@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-challenges-of-size-ocr-gcse-biology"
 description: "Condensed revision notes on surface area to volume ratio, exchange surfaces, the heart, vessels and blood for OCR GCSE Biology A, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Quick recall for OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), first assessment 2018, statements B2.2a to B2.2e. Nothing in this unit is Higher Tier only. Full explanations are in the [study guide](/resources/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system/), and you can test yourself with the [practice set](/resources/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system-practice/). See also the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), the [checklist](/checklists/ocr/gcse/biology/), the wider [Scaling Up revision notes](/resources/ocr-gcse-biology-scaling-up-revision-notes/) and the [free diagnostics](/diagnostics/) for a quick check.

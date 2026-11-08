@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "proportion-cambridge-igcse-maths"
 description: "Direct and inverse proportion in algebraic form, using the ∝ symbol and k, with worked examples for Cambridge IGCSE Mathematics 0580 Extended (E2.8)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches subtopic **E2.8 Proportion** from Topic 2, Algebra and graphs, of the

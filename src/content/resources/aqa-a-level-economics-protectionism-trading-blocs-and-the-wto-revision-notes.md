@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-international-economy-aqa-alevel-economics"
 description: "Condensed AQA A-level Economics revision notes on tariffs, quotas, export subsidies, customs unions, the SEM and the WTO, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense the protectionism content of AQA A-level Economics (7136), specification version 1.3, section 4.2.6.2 (3.2.6.2 on the AQA website): tariffs, quotas, export subsidies, the tariff diagram, causes and consequences of protectionism, customs unions, the Single European Market (SEM) and the World Trade Organisation (WTO). All figures are invented and illustrative. For full explanations and the main worked example, read the [study guide](/resources/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto/), then try the [practice questions](/resources/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto-practice/). Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), [checklist](/checklists/aqa/a-level/economics/) and [free diagnostics](/diagnostics/).
 

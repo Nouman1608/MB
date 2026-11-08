@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-continuous-distributions-edexcel-alevel-maths"
 description: "Condensed revision notes for Edexcel IAL Mathematics S2: uniform results, continuity correction rules, method steps and a self-test (YMA01)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense S2 content 3.1 and 3.2 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. The specification lists S2 as an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics. For full explanations and derivations use the [study guide](/resources/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal/).
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "triangle-mensuration-ocr-gcse-maths"
 description: "Condensed revision notes for OCR GCSE Mathematics J560 10.05d and 10.05e: sine rule, cosine rule, choosing a rule, area, self-test and lost marks."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense sections 10.05d (sine rule) and 10.05e (cosine rule) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), together with the area formula ½ab sin C from 10.03a. All of it is **Higher tier only**: it appears only in the Higher tier column of the specification. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-mathematics-sine-rule-and-cosine-rule/).

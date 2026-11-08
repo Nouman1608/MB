@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "introduction-to-kinetics-and-equilibria-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 9: collision theory, rates from graphs, catalysts, Maxwell-Boltzmann curves and equilibrium shifts."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 9: Introduction to Kinetics and Equilibria from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 9.1 to 9.11, in two parts: 9A Kinetics and 9B Equilibria. Its home in the specification is Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols, an International AS (IAS) unit. Topics 11, 13 and 14 later build on it.

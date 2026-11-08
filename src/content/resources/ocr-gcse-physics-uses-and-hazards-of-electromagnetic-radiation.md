@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "the-electromagnetic-spectrum-ocr-gcse"
 description: "Study guide to practical uses and hazards of each electromagnetic wave group, medical imaging and radio circuits, for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers statements P5.2g to P5.2j of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026, first assessment 2018). They sit in topic P5, Waves in matter, under P5.2 The electromagnetic spectrum. The statement on hidden structures, P5.2i, and the statement on radio waves and circuits, P5.2j, are printed in bold in the specification, so they are tested only in the Higher Tier papers. P5.2g and P5.2h are assessed in both tiers. P5.2i is also marked as separate Physics only content. The nature of the waves, their common speed and the frequency and wavelength relationships are separate statements and are not taught here.

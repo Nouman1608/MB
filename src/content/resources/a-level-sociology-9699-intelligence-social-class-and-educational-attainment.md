@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "social-class-educational-attainment-9699"
 description: "Study guide for 9699 sections 6.1-6.2: defining intelligence, IQ tests, material and cultural factors, labelling, subcultures and compensatory education."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers sections 6.1 (Intelligence and educational attainment) and 6.2 (Social class and educational attainment) of the Cambridge International AS & A Level Sociology (9699) syllabus for examination in 2024, 2025 and 2026. Both sections sit in topic 6, Education and inequality, which is part of Paper 3 – Education, an A Level paper. The syllabus links topic 6 to the key concepts of Inequality and opportunity, and Socialisation, culture and identity.

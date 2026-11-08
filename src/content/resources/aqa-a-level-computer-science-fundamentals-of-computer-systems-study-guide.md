@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "fundamentals-of-computer-systems"
 description: "AQA A Level Computer Science 7517 section 4.6 guide: system software, language types, translators, compilation stages, Boolean algebra, adders and flip-flops."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This topic explains what a computer system is made of and how a program written by a human becomes something hardware can run. It then moves down to the level of logic gates, showing how Boolean algebra describes circuits that add numbers and store bits. The material is mostly definitions and short procedures, which makes it a source of reliable marks if you learn the vocabulary precisely.

@@ -27,11 +27,12 @@ syllabusTopics:
     subtopic: "conservation-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 20: food production, habitat destruction, pollution, eutrophication and conservation, with examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches topic 20, Human influences on ecosystems, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers syllabus sections 20.1 to 20.4: food supply, habitat destruction, pollution and conservation. Everything is Core unless it is labelled **Extended only** (Supplement content). Core candidates are examined on Papers 1 and 3; Extended candidates sit Papers 2 and 4, which test Core and Supplement content together.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "m2-statics-and-forces-oxfordaqa-alevel-maths"
 description: "Study guide to moments, rigid bodies in equilibrium, ladders, centres of mass and suspended bodies (M2.3) for OxfordAQA International A-level Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the moments and centres of mass part of section M2.3 (Statics and forces) in the OxfordAQA *International AS and A-level Mathematics* specification, Version 5.2. The specification places this content in International A-level Unit M2 (Mechanics), so it is not examined at International AS. Forces at a point, friction and resolving are taught on the [forces, Newton's laws and momentum guide](/resources/oxfordaqa-a-level-mathematics-forces-newtons-laws-connected-particles-momentum-and/). Here you learn what happens when forces act at different places on a body.

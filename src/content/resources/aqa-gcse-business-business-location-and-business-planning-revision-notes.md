@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "business-planning-aqa-gcse-business"
 description: "Condensed recall notes on location factors, the purpose and sections of a business plan, and fixed, variable and total costs, revenue and profit."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.1.5 Business location and 3.1.6 Business planning of the AQA GCSE Business (8132) specification, for first teaching from September 2017. For full explanations and worked examples, read the [study guide](/resources/aqa-gcse-business-business-location-and-business-planning/). When you are ready to write answers, use the [practice questions](/resources/aqa-gcse-business-business-location-and-business-planning-practice/).

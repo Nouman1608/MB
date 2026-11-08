@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "globalisation-and-trade-oxfordaqa-alevel-economics"
 description: "Study guide to globalisation for OxfordAQA International AS and A-level Economics (9640), section 3.4.1.1: causes, effects, the environment and TNCs."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches globalisation as set out in the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.4.1.1. Section 3.4 is extra International A2 content, and the specification says it is assessed in Unit 4, where you are expected to use what you learned in Units 1 and 2. Quantitative skills (section 3.5) can be assessed anywhere, so the calculations below are part of the topic. Every country, firm and number here is invented for illustration. Use the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/) to track progress, the [revision notes](/resources/oxfordaqa-a-level-economics-globalisation-revision-notes/) for quick recall, the [practice questions](/resources/oxfordaqa-a-level-economics-globalisation-practice/) for testing, and the [free diagnostics](/diagnostics/) to find weak spots.

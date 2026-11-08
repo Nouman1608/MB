@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "elements-compounds-and-mixtures-4ch1"
 description: "Condensed 4CH1 Chemistry notes on states of matter, solubility, element-compound-mixture, separation methods and Rf values, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense sub-topics 1(a) **States of matter** and 1(b) **Elements, compounds and mixtures** of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024): points 1.1 to 1.13. The qualification is untiered. Points 1.5C, 1.6C and 1.7C (solubility) are **Paper 2 only**; the rest can appear on either paper. For full explanations and worked examples, use the [study guide for this unit](/resources/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures/).

@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "bonding-7405"
 description: "Ionic, covalent, dative and metallic bonding, crystal structures, molecular shapes, bond polarity and intermolecular forces for AQA A-Level Chemistry 7405."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-09
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide covers **3.1.3 Bonding**, part of the Physical Chemistry content in AQA A-level Chemistry

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-1-3"
 description: "Condensed revision notes for OCR A Level Chemistry A 5.1.3: pH and Ka formulas, buffer method, titration curves, indicators and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Full explanations and longer worked examples are in the [Acids, bases and buffers study guide](/resources/ocr-a-level-chemistry-acids-bases-and-buffers/).

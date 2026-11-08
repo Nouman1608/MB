@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "energy-resources-oxfordaqa-igcse"
 description: "Revision notes on energy transfers, dissipation, efficiency, Sankey diagrams and energy resources for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 Quick recall for sections 3.2.2 and 3.2.3 of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. For full explanations and worked examples, use the [study guide](/resources/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy/). Then test yourself with the [practice questions](/resources/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy-practice/). See also the [OxfordAQA IGCSE Physics hub](/boards/oxfordaqa/igcse/physics/), the [printable checklist](/checklists/oxfordaqa/igcse/physics/) and the [free diagnostics](/diagnostics/). Earlier notes on work and power: [Energy revision notes](/resources/oxfordaqa-igcse-physics-energy-revision-notes/).

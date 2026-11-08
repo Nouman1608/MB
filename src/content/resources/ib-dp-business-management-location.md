@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-4"
 description: "Study guide to IB DP Business Management section 5.4: reasons for a production location, outsourcing, offshoring, insourcing and reshoring."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 5.4 (Location) of Unit 5 in the IB *Business management guide*, first assessment 2024. Every point in 5.4 is taught at both SL and HL; none is marked HL only. Use it with the [course hub](/boards/ib/ib-dp/business/), the [printable checklist](/checklists/ib/ib-dp/business/), the [revision notes](/resources/ib-dp-business-management-location-revision-notes/) and the [practice questions](/resources/ib-dp-business-management-location-practice/). To find your weak spots across the course, try the [free 10-minute diagnostics](/diagnostics/). All businesses and figures below are invented.

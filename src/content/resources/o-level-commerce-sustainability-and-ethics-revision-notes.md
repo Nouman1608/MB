@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "sustainability-and-ethics-7100"
 description: "Cambridge O Level Commerce 7100 Topic 6 notes: eco-friendly supply chains, nine sustainability actions, fair trade, unethical practices and consumer protection."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Sustainability and ethics is the last topic in Cambridge O Level Commerce (7100, 2026-2028). It asks how

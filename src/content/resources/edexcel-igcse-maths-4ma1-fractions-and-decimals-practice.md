@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "decimals-edexcel-igcse-maths"
 description: "Twelve original 4MA1 questions on fraction arithmetic, conversions, ordering decimals and recurring decimals, each with a fully worked mark scheme."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

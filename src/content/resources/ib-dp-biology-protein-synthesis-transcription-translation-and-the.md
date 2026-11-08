@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d1-2"
 description: "IB DP Biology D1.2 study guide: transcription, the genetic code, translation, mutations and the HL material on RNA processing, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers IB Diploma Programme Biology section D1.2 (Protein synthesis), as set out in the IB *Biology guide*, first assessment 2025. Statements D1.2.1 to D1.2.11 are for standard level and higher level. Statements D1.2.12 to D1.2.19 are additional higher level, so every part marked **HL only** below is not needed at SL.

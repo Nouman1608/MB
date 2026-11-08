@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "diseases-and-immunity-cambridge-igcse-biology"
 description: "Study guide to pathogens, transmission, body defences, disease control, immunity, vaccination and cholera, Core and Extended, for Cambridge IGCSE 0610."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches topic 10, Diseases and immunity, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. The topic has one section, 10.1 Diseases and immunity. Its Core statements (pathogens, transmission, body defences and controlling the spread of disease) are examined on Papers 1 and 3. Most of the immunity content, and all of the cholera content, is Supplement: it is marked **Extended only** below and is examined on Papers 2 and 4.

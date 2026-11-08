@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-1-2"
 description: "Study guide to OCR A Level Chemistry A 5.1.2 How far?: mole fractions, partial pressures, Kc and Kp with units, and what changes K."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 5.1.2, How far?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. As the second section of Module 5 (Physical chemistry and transition elements), it lists eight lettered learning outcomes, 5.1.2(a) to (h); each is taught below with worked examples. The content belongs to the full A level, H432. In the written exams, Module 5 content can appear on paper 01, Periodic table, elements and physical chemistry, and on paper 03, Unified chemistry, the paper that spans every module. The specification links no PAG to 5.1.2.

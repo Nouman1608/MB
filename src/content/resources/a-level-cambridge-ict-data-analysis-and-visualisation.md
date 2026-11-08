@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "data-analysis-and-visualisation"
 description: "Study guide for Cambridge A Level IT 9626 Data analysis and visualisation: cleaning, splitting and merging data, consolidation, pivot tables and charts."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This study guide covers **topic 17, Data analysis and visualisation** (section 17.1) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). It is **A Level only** content. The syllabus bases **Paper 4 (Advanced Practical)** tasks on sections 17–21 and **Paper 3 (Advanced Theory)** questions on sections 12–21, so you need the practical skills and the reasons behind them.

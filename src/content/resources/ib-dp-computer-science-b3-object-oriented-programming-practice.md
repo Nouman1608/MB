@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-b-3"
 description: "Original warm-up questions with answers for IB DP Computer Science B.3 Object oriented programming: classes, objects, design and the 2027 brief's assessment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: new overview practice page; the subject brief lists no B.3 outcomes, so questions are general class/object warm-ups plus brief-based assessment questions, clearly labelled; replace or extend once checked against the full IB guide; please review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: new overview practice page; the subject brief lists no B.3 outcomes, so questions are general class/object warm-ups plus brief-based assessment questions, clearly labelled; replace or extend once checked against the full IB guide; please review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "b4-simultaneous-equations-aqa-alevel-maths"
 description: "Eleven original practice questions with worked answers on simultaneous equations, line-curve intersections and tangents, for AQA A-level Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

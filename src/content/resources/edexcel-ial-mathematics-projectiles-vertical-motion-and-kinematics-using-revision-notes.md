@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "m2-kinematics-edexcel-alevel-maths"
 description: "Condensed revision notes for Edexcel IAL Maths M2 kinematics: vertical motion, projectiles, calculus and vectors, with formulas and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense Pearson Edexcel International Advanced Level Mathematics (YMA01), Unit M2 section 1, topics 1.1 to 1.4, from the *Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics* specification, Issue 3, April 2019. M2 is listed as an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-mathematics-projectiles-vertical-motion-and-kinematics-using/). Then try the [practice questions](/resources/edexcel-ial-mathematics-projectiles-vertical-motion-and-kinematics-using-practice/).

@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "beyond-earth-ocr-gcse"
 description: "Study guide to red-shift, evidence for an expanding universe, the Big Bang model, CMBR and how stars form for OCR GCSE Physics A (J249), topic P8.3."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. It covers statements P8.3a, P8.3b and P8.3c in topic P8.3, Beyond Earth. None of the three is printed in bold, so they are assessed in both Foundation and Higher Tier papers. The specification marks all three as separate Physics only content (not in Combined Science). Other statements in P8.3 are taught on separate pages and are not repeated here.

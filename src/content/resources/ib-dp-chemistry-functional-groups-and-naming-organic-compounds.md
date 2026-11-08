@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-3-2"
 description: "Study guide to IB DP Chemistry Structure 3.2.1 to 3.2.6: organic formulas, functional groups, homologous series, IUPAC names and structural isomers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches the first part of **Structure 3.2, Functional groups: Classification of organic compounds**, matched to the February 2023 IB *Chemistry guide* for the Diploma Programme, whose first exams ran in 2025. It covers understandings Structure 3.2.1 to 3.2.6, all studied at **both SL and HL**; the later understandings (stereoisomers and spectroscopy) are in a [separate unit](/resources/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic/).

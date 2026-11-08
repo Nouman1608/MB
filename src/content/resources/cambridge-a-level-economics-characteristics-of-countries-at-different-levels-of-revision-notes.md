@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "characteristics-of-countries-at-different-levels-of-development-cambridge-alevel-economics"
 description: "Condensed revision notes on population measures, optimum population, urbanisation, Gini and Lorenz, sector jobs and trade for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 11.4 (outcomes 11.4.1 to 11.4.3) of the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 11 is A Level content only. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of/). All countries and figures here are invented for illustration.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d4-2"
 description: "Original practice questions with worked answers on IB DP Biology D4.2: stability, keystone species, sustainability, pollution, rewilding and HL succession."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

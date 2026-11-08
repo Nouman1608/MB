@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "the-heart-and-blood-vessels-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on organisation levels, heart structure, double circulation, lungs, vessels and blood-flow rates, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed recall notes for **4.2.1 Principles of organisation** and **4.2.2.2 The heart and blood

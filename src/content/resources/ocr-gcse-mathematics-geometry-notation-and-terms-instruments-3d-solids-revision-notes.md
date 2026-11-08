@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "three-dimensional-shapes-ocr-gcse-maths"
 description: "Condensed OCR GCSE Mathematics revision notes on geometry terms, labelling, instruments, solids, plans, elevations and isometric drawing, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 Quick recall for the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), sections 8.01 and 8.06. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids/). Then test yourself with the [practice questions](/resources/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids-practice/), tick off topics on the [checklist](/checklists/ocr/gcse/mathematics/), and find gaps with the [free diagnostics](/diagnostics/). The [course hub](/boards/ocr/gcse/mathematics/) lists every page for this course.
 

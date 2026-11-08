@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics competition policy, public ownership, privatisation, regulation, regulatory capture and government failure."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022), first taught from September 2015. It covers three parts of the sub-section called The market mechanism, market failure and government intervention in markets: competition policy (3.1.8.7), public ownership, privatisation, regulation and deregulation (3.1.8.8) and government failure (3.1.8.10). The combined PDF prints the A-level versions as 4.1.8.7, 4.1.8.8 and 4.1.8.10. Every firm, country and number below is invented, for illustration only.

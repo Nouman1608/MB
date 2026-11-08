@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "analysing-the-external-environment-oxfordaqa-alevel-business"
 description: "Revision notes for OxfordAQA A-level Business 9725 section 3.3.4: PESTLE, government policy, exchange rate and index methods, CSR and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes boil down section 3.3.4, Analysing the external environment to assess opportunities and threats, from the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1 (International AS exams from May/June 2027, International A-level exams from May/June 2028). None of it is AS content (**International A-level only**); Unit 3: Business analysis examines it. If your exams are on the older 9625 specification, revise from that document. Full explanations and worked examples are in the [study guide](/resources/oxfordaqa-a-level-business-analysing-the-external-environment-to-assess/).

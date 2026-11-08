@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "extraction-and-uses-of-metals-4ch1"
 description: "Eleven original questions on metal extraction, steels, alloys and uses of metals for Edexcel IGCSE Chemistry 4CH1, with fully marked answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

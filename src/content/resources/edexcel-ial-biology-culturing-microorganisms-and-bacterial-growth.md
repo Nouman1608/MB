@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "microbiology-immunity-and-forensics-edexcel-alevel-biology"
 description: "Aseptic technique, dilution plating, turbidity, growth curves, growth rate constants and Core Practical 13 for Pearson Edexcel IAL Biology YBI11."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches culturing microorganisms and bacterial growth from scratch for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. It covers statements 6.1 to 6.4 of Topic 6, including Core Practical 13. Topics 1 to 4 are International AS (IAS) and Topics 5 to 8 are International A2 (IA2), so this material is A2. There are no tiers. Pair it with the [revision notes](/resources/edexcel-ial-biology-culturing-microorganisms-and-bacterial-growth-revision-notes/) and the [practice questions](/resources/edexcel-ial-biology-culturing-microorganisms-and-bacterial-growth-practice/). The [course hub](/boards/edexcel/a-level/biology/) and the [printable checklist](/checklists/edexcel/a-level/biology/) show the rest of the course, and the [free diagnostics](/diagnostics/) show where to start. Conditions for bacterial growth and Core Practical 9 are in the [Topic 4 guide](/resources/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug/).

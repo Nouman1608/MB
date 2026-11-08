@@ -29,9 +29,10 @@ syllabusTopics:
     subtopic: "ussr-control-eastern-europe-2147"
 description: "Revision notes for Cambridge O Level History 2147 Option B: Versailles, the League of Nations, Hitler's foreign policy, the Cold War and containment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-03
 featured: false
 ---

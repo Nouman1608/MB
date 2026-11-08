@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "strategic-methods-how-to-pursue-strategies-aqa-alevel-business"
 description: "Study guide to growth and retrenchment, innovation, internationalisation and digital technology for AQA A-Level Business 7132, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.9 of the AQA AS and A-level Business specification (7132), "Strategic methods: how to pursue strategies". The specification marks this section as A-level only. It has four parts: change in scale, innovation, internationalisation and digital technology. Use it with the [A-level Business hub](/boards/aqa/a-level/business/), the [printable checklist](/checklists/aqa/a-level/business/), the [revision notes](/resources/aqa-a-level-business-strategic-methods-how-to-pursue-strategies-revision-notes/) and the [practice questions](/resources/aqa-a-level-business-strategic-methods-how-to-pursue-strategies-practice/). To find weak spots first, try the [free diagnostics](/diagnostics/).

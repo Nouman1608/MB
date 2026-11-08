@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-3"
 description: "Condensed IB DP Business Management revision notes for section 3.3: cost types, total revenue and revenue streams, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.3 (Costs and revenues) of the IB *Business management guide*, first assessment 2024, for revision at SL and HL. The guide marks no part of 3.3 as HL only. For full explanations and a longer worked example, read the [3.3 study guide](/resources/ib-dp-business-management-costs-and-revenues/). Test yourself with the [3.3 practice questions](/resources/ib-dp-business-management-costs-and-revenues-practice/).

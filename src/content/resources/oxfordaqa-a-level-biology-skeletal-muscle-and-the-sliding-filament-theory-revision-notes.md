@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "control-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on skeletal muscle for OxfordAQA International A-level Biology 9610 section 3.4.4, with a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Condensed recall for section 3.4.4, skeletal muscles as effectors, in OxfordAQA International AS and A-level Biology (9610, Version 5.1). For full explanations, use the [study guide](/resources/oxfordaqa-a-level-biology-skeletal-muscle-and-the-sliding-filament-theory/). Test yourself with the [practice set](/resources/oxfordaqa-a-level-biology-skeletal-muscle-and-the-sliding-filament-theory-practice/), tick off the [printable checklist](/checklists/oxfordaqa/a-level/biology/), return to the [course hub](/boards/oxfordaqa/a-level/biology/), and find weak areas with the [free diagnostics](/diagnostics/).

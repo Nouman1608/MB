@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "magnitude-of-a-vector-cambridge-igcse-maths"
 description: "Detailed study guide for Cambridge IGCSE Maths 0580 subtopics E7.2 and E7.3: column vectors, adding, subtracting, scaling and finding magnitude."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches subtopics 7.2 (Vectors in two dimensions) and 7.3 (Magnitude of a vector) from topic 7, Transformations and vectors, of the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. **Both subtopics are Extended only.** The Core column of the syllabus says "Extended content only" at C7.2 and C7.3, so this work is examined on Paper 2 (non-calculator) and Paper 4 (calculator), not on Core Papers 1 and 3. Core candidates still need translation by a column vector, which sits in C7.1 and is covered in the topic study guide.

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "r-forces-and-newtons-laws-aqa-alevel-maths"
 description: "Study guide for AQA A-level Maths (7357) Section R: Newton's three laws, weight, resolving, connected particles, pulleys and friction, worked through."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches **Section R: Forces and Newton's laws (R1 to R6)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section R under **Paper 2**, alongside vectors, quantities and units, kinematics and moments. A calculator is required in every 7357 paper. Take g = 9.8 m s⁻² throughout unless a question says otherwise, and give answers to 3 significant figures where they are not exact.

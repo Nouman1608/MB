@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-global-context-ocr-alevel-economics"
 description: "Study guide to OCR A Level Economics: stages of integration, trade creation and diversion, EU membership and the WTO, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide covers the second part of the topic *Trade policies and negotiations* in the area of study The global context, from the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It teaches the stages of economic integration, trade creation and trade diversion, EU membership and the role of the WTO. Every country, firm and figure in the worked examples is invented and illustrative. Protectionism and the case for free trade have their own pages, so this page leaves them aside.

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "energetics-7405"
 description: "Condensed revision notes for AQA A-Level Chemistry (7405) 3.1.4 Energetics, with definitions, method steps, a formula table and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and worked examples, read the

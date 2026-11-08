@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Study guide to IB MYP Language Acquisition Criterion A: how to understand spoken multimodal texts, with an original transcript and worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-28
 featured: false
 ---

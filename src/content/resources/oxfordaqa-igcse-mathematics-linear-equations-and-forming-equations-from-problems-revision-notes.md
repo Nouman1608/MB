@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "solving-equations-and-inequalities-oxfordaqa-igcse-maths"
 description: "Condensed revision notes with methods, reminders and a self-test on linear equations and forming equations, for OxfordAQA International GCSE Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes summarise references A19 and A22 of section 3.2.3 in the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). All of this content is Core, so it is also assessable on the Extension papers. Longer explanations and more worked examples are in the [study guide](/resources/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems-practice/), see the [course hub](/boards/oxfordaqa/igcse/mathematics/), tick off the [checklist](/checklists/oxfordaqa/igcse/mathematics/) and take a [free diagnostic](/diagnostics/) to find weak spots.
 

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-3-3-2251"
 description: "Original Cambridge O Level Sociology 2251 inequality-question practice on welfare, minimum wage, NGO critics, climate change, urbanisation and colonialism."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

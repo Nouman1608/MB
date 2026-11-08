@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "aids-to-trade-that-support-commerce-0715"
 description: "Exam-style 0715 Commerce questions with answers on advertising appeals, digital media, payments, insurance pooling, sources of finance and profit calculations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These questions test every part of Topic 5, Aids to trade that support commerce, of Cambridge IGCSE

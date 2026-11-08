@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-3"
 description: "Eleven original practice questions with worked answers on IB DP Physics D.3, charges and conductors in electric and magnetic fields, for SL and HL."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

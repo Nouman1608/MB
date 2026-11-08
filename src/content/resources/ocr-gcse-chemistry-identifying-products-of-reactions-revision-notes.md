@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c4-2-identifying-products-j248"
 description: "Revision notes for OCR GCSE Chemistry A (J248) C4.2: every gas, flame, cation and anion test in tables, mass spectra steps and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 For full explanations and six worked examples, read the [C4.2 study guide](/resources/ocr-gcse-chemistry-identifying-products-of-reactions/) first. These notes condense it for the final weeks before the exam.

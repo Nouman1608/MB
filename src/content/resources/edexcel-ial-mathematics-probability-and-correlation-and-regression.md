@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "s1-correlation-and-regression-edexcel-alevel-maths"
 description: "Study guide to probability, Venn and tree diagrams, least-squares regression and correlation for Edexcel IAL Mathematics Unit S1, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide is written against Pearson's International Advanced Subsidiary/Advanced Level specification for Mathematics, Further Mathematics and Pure Mathematics (YMA01), Issue 3, April 2019. It covers Unit S1 section 3 (Probability, topics 3.1 to 3.4) and section 4 (Correlation and regression, topics 4.1 to 4.3). Per the specification, Unit S1 is optional, both for IAS and for IAL, in Mathematics and in Further Mathematics.

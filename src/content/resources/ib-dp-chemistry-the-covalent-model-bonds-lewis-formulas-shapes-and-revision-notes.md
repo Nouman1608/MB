@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-2-2"
 description: "Condensed IB DP Chemistry Structure 2.2 revision notes: Lewis formulas, VSEPR tables, polarity, IMF rankings, networks, RF and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Use these notes for fast recall of Structure 2.2.1 to 2.2.10, the first block of the covalent model in the IB's February 2023 *Chemistry guide*, which applies to Diploma Programme courses first assessed in 2025. Both SL and HL candidates need all of it, apart from transition element complexes, which are HL only. The full teaching, with worked examples, is in the [Structure 2.2 study guide](/resources/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and/).

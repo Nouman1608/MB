@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "elasticity-edexcel-igcse-economics"
 description: "Condensed revision notes on PED, PES and income elasticity with formulas, factors, tables and a self-test for Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 1.1.4 (statements a to s) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026, into recall form. The subject is not tiered. For fuller explanations, go to the [study guide](/resources/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use/); when you are ready, work through the [practice questions](/resources/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use-practice/). Other links: the [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/), the [printable checklist](/checklists/edexcel/igcse/economics/) and the [free diagnostics](/diagnostics/). All firms, countries and figures are invented.

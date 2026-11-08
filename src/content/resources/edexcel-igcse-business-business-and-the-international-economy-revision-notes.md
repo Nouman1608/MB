@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "business-and-the-international-economy-4bs1"
 description: "Condensed revision notes on globalisation, multinationals, exchange rate calculations and their effects for Edexcel IGCSE Business, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These revision notes condense Topic 1, section 1.5 "Business and the international economy" (points 1.5.1 to 1.5.4) of the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-business-business-and-the-international-economy/) first. Then try the [practice questions](/resources/edexcel-igcse-business-business-and-the-international-economy-practice/).

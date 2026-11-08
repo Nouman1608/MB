@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "measures-of-performance-ocr-alevel-business"
 description: "Condensed recall notes on financial and non-financial measures of performance for OCR A Level Business H431: ratios, cash flow, variances and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the Measures of performance: financial and non-financial content point of the OCR A Level Business H431 specification (Version 2.1, January 2026; final assessment summer 2027). For full explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-business-measures-of-performance-financial-and-non-financial/), then test yourself with the [practice questions](/resources/ocr-a-level-business-measures-of-performance-financial-and-non-financial-practice/).

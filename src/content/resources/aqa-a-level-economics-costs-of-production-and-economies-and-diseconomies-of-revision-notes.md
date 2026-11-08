@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "production-costs-and-revenue-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on cost calculations, cost curves, factor inputs, economies of scale, LRAC and minimum efficient scale."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed recall for the AQA AS and A-level Economics specification (version 1.3, 29 June 2022), A-level sub-sections Costs of production and Economies and diseconomies of scale (3.1.4.4 and 3.1.4.5 on the AQA website, 4.1.4.4 and 4.1.4.5 in the combined PDF). For full explanations read the [study guide](/resources/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of/), then test yourself with the [practice questions](/resources/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of-practice/). Hub: [AQA A-level Economics](/boards/aqa/a-level/economics/). Tracker: [printable checklist](/checklists/aqa/a-level/economics/). Not sure where to begin? Try the [free diagnostics](/diagnostics/). All firms and figures are invented.

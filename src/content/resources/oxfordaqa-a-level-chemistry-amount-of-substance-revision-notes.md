@@ -29,8 +29,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-2-5"
 description: "Condensed OxfordAQA 9620 notes on moles, Avogadro, pV = nRT, empirical formulae, equations, yield and atom economy, with a ten-question self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.1.2 (Amount of substance, 3.1.2.1 to 3.1.2.5) of the OxfordAQA International AS and A-level Chemistry 9620 specification, Version 5.3. For full explanations start with the [study guide](/resources/oxfordaqa-a-level-chemistry-amount-of-substance/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-chemistry-amount-of-substance-practice/). Everything here sits in the course [hub](/boards/oxfordaqa/a-level/chemistry/) and the [printable checklist](/checklists/oxfordaqa/a-level/chemistry/). For a quick check of where you stand, try the [free diagnostics](/diagnostics/).

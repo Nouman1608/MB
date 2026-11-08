@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "exact-calculations-ocr-gcse-maths"
 description: "Condensed revision notes on exact fractions, multiples of pi and Higher tier surds for OCR GCSE Mathematics, with a quick self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Short notes for the last weeks before the exam on OCR GCSE (9-1) Mathematics sections 3.03a and 3.03b, from the OCR specification Version 2.1 (August 2026). The [study guide](/resources/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds/) has the full explanations. Then test yourself with the [practice questions](/resources/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds-practice/), tick off topics on the [checklist](/checklists/ocr/gcse/mathematics/), and see the [course hub](/boards/ocr/gcse/mathematics/). The [free diagnostics](/diagnostics/) show which skills to revisit first.

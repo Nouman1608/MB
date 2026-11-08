@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "expert-systems"
 description: "Study guide to expert systems for Cambridge AS & A Level IT 9626: components, scenarios, forward and backward chaining, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This study guide covers **topic 7, Expert systems** (section 7.1) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). It is AS Level content, so it is part of both the AS Level and the full A Level. The syllabus states that Paper 1 (Theory) questions are based on sections 1–11, so this topic is examined there. Paper 2 (Practical) candidates apply knowledge and understanding from sections 1–7, which includes this topic.

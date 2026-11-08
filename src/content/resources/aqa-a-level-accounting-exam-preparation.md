@@ -11,9 +11,10 @@ syllabusSeries: "2017-onwards"
 order: 3
 description: "How the two identical AQA A-Level Accounting 7127 papers, with 30, 40 and 50 mark sections and different content, should shape revision, timing and workings."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 publishedDate: 2026-09-07
 featured: false
 ---

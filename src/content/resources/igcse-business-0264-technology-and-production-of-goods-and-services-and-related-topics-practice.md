@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "sustainable-production-of-goods-and-services-0264"
 description: "Eleven original practice questions with worked answers on Cambridge IGCSE Business 0264 sections 4.2 and 4.3: technology and sustainable production."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

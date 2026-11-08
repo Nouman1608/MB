@@ -16,9 +16,10 @@ syllabusTopics:
     topic: "preparation-of-financial-statements"
 description: "Quick recall for Cambridge IGCSE Accounting 0452 Topic 5: sole traders, partnerships, companies, manufacturing accounts, clubs and incomplete records."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 publishedDate: 2026-09-16
 featured: false
 ---

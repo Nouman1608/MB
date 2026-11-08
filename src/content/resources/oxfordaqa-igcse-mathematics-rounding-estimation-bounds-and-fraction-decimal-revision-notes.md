@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "fractions-decimal-and-percentages-oxfordaqa-igcse-maths"
 description: "Condensed revision notes with method steps and a self-test on rounding, estimation, bounds and fraction-decimal conversion for OxfordAQA IGCSE Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes condense the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), statements N11 (section 3.1.1) and N12 to N14 (section 3.1.2). All content can be assessed on the Extension Tier question papers. Items marked "Extension only" are in the Extension column of the specification only. For full explanations, read the [study guide](/resources/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal/).
 

@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "sound"
 description: "Study guide to Waves for Cambridge O Level Physics 5054: wave properties, light, lenses, the electromagnetic spectrum and sound, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 This guide works through topic 3, Waves, from the Cambridge O Level Physics 5054 syllabus (examined in 2026, 2027 and 2028), following the syllabus order. The syllabus does not mark any of it as extension content.
 

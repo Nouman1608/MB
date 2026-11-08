@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "sustainability-and-ethics-7100"
 description: "The nine sustainability actions, ethics, fair trade and consumer protection explained with a worked example for Cambridge O Level Commerce 7100 Topic 6."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 6.1-6.3 (purpose of sustainability, the nine named actions, ethics and fair trade, consumer protection); removed payback calculation not in the syllabus and added the missing consumer protection section; please review."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 6.1-6.3 (purpose of sustainability, the nine named actions, ethics and fair trade, consumer protection); removed payback calculation not in the syllabus and added the missing consumer protection section; please review; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "clubs-and-non-profit-making-organisations"
 description: "OxfordAQA A-level Accounting 9615 study guide to 3.2.8: receipts and payments, subscriptions, bar trading, life memberships, income and expenditure."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 Clubs and non-profit making organisations is section 3.2.8 of the OxfordAQA International AS and

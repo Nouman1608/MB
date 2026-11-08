@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-c-5"
 description: "Original IB DP Physics practice questions on C.2 Wave model and C.5 Doppler effect, with fully worked answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

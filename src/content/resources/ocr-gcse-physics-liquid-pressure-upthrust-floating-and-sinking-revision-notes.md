@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "pressure-ocr-gcse"
 description: "Condensed revision notes on liquid pressure, upthrust and floating for OCR GCSE (9-1) Physics A: equations, methods, a self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P1.3h, P1.3i and P1.3j of OCR GCSE (9-1) Physics A (Gateway Science), specification Version 5.0 (July 2026). All three are **Higher Tier only**. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking/). Then test yourself with the [practice questions](/resources/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking-practice/).

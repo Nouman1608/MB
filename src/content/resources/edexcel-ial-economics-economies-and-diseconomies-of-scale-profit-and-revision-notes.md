@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "revenue-costs-and-profits-edexcel-alevel-economics"
 description: "Revision notes on scale economies, diseconomies, normal and supernormal profit, losses and shutdown points for Edexcel International A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense 3.3.2 items 3 and 4 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. They belong to Unit 3, Business behaviour, which the specification labels an IAL compulsory unit (full International A Level only, not IAS). Full explanations are in the [study guide](/resources/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and/). Then use the [practice questions](/resources/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and-practice/), the [course hub](/boards/edexcel/a-level/economics/), the [checklist](/checklists/edexcel/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures here are invented.

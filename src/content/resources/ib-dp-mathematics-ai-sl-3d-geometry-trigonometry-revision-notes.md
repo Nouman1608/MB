@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-4"
 description: "Condensed IB DP Maths AI revision notes on 3D solids, sine and cosine rules, bearings and sectors (sections 3.1-3.4), with a checked self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 For full explanations and worked examples, read the [study guide](/resources/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry/) first.

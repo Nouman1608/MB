@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "elasticity-edexcel-igcse-economics"
 description: "Study guide to price elasticity of demand and supply and income elasticity of demand, with worked calculations, for Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 1.1.4 (statements a to s) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. The content sits in Topic 1, The market system. The specification does not tier this subject, so every candidate studies the same content. Every firm, country, price and quantity below is invented for teaching, with prices in made-up currency units, and nothing here is a real statistic.

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "kinetic-theory-of-gases-oxfordaqa-alevel-physics"
 description: "Condensed revision notes on gas laws, pV = nRT, work done, Brownian motion and kinetic theory for OxfordAQA International A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These revision notes are aligned to the *OxfordAQA International AS and A-level Physics (9630)* specification, Version 4.4, sections 3.11.3 (ideal gases) and 3.11.4 (kinetic theory of gases). Section 3.11 is International A-level only. For full explanations and the derivation, read the [study guide](/resources/oxfordaqa-a-level-physics-ideal-gases-and-kinetic-theory/) first, then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-ideal-gases-and-kinetic-theory-practice/).

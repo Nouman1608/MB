@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-challenges-of-size-ocr-gcse-biology"
 description: "Condensed recall notes on plant transport for OCR GCSE Biology A (J247), B2.2f to B2.2j, with formulas, a self-test and common mark-losing slips."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Quick recall for OCR GCSE (9-1) Biology A (J247), statements B2.2f to B2.2j (plant transport, part of topic B2). For explanations, read the [study guide](/resources/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and-practice/). Course hub: [OCR GCSE Biology](/boards/ocr/gcse/biology/). Printable [checklist](/checklists/ocr/gcse/biology/). A quick check of where you stand: [free diagnostics](/diagnostics/). None of these statements is Higher Tier only.

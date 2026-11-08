@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "international-trade-ocr-aslevel-economics"
 description: "Revision notes on comparative advantage, terms of trade, Heckscher-Ohlin, competitiveness, trade and aid for OCR A Level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the topic International trade from Component 2, Macroeconomics, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. All of the specification is A Level. For full explanations read the [study guide](/resources/ocr-a-level-economics-international-trade-comparative-advantage-and-the/), then test yourself with the [practice set](/resources/ocr-a-level-economics-international-trade-comparative-advantage-and-the-practice/). Course pages: the [hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/). Opportunity cost and the PPF are in the [opportunity cost guide](/resources/ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade/), and productivity and ULC in the [labour demand guide](/resources/ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs/). All figures here are invented.

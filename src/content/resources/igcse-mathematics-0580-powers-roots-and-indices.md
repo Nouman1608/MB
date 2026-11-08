@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "indices-i-cambridge-igcse-maths"
 description: "Study guide for Cambridge IGCSE Maths 0580 sections 1.3 and 1.7: squares, cubes, roots, zero and negative indices, the index rules and fractional indices."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches two subtopics of Topic 1 Number in the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027: **1.3 Powers and roots** and **1.7 Indices I**. Section 1.3 is the same for Core and Extended candidates. In section 1.7, positive, zero and negative integer indices and the rules of indices are Core; **fractional indices are Extended only**. Core candidates sit Paper 1 (non-calculator) and Paper 3 (calculator); Extended candidates sit Paper 2 (non-calculator) and Paper 4 (calculator), so you need these skills both with and without a calculator.

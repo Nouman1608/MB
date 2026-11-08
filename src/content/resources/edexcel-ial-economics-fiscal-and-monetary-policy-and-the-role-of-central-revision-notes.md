@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "macroeconomic-objectives-and-policies-edexcel-alevel-economics"
 description: "Condensed revision notes on fiscal policy, monetary policy and central banks for Pearson Edexcel International A Level Economics, with self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018), section 2.3.6 item 4 (demand-side policies). In the specification this is Unit 2 content, an International AS compulsory unit that also counts in the full International A Level. For explanations and fuller worked examples see the [study guide](/resources/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central/), then test yourself with the [practice questions](/resources/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central-practice/). Also useful: the [course hub](/boards/edexcel/a-level/economics/), the [checklist](/checklists/edexcel/a-level/economics/), the [economic growth guide](/resources/a-level-edexcel-economics-economic-growth/) and the [free diagnostics](/diagnostics/).

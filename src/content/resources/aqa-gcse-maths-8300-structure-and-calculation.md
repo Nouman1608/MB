@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "structure-and-calculation-aqa-gcse-maths"
 description: "Study guide for AQA GCSE Maths 8300 section 3.1.1 (N1-N9): ordering, the four operations, primes, listing, indices, surds and standard form."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches section 3.1.1, **Structure and calculation** (specification references N1 to N9), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). It goes deeper than the topic overview: every statement in N1 to N9 is taught with a worked example. Most of this content is assessed at both tiers. Four parts sit in the specification's Higher content only column and are labelled **Higher tier only**: the product rule for counting (N5), estimating powers and roots (N6), fractional indices (N7) and surds (N8).

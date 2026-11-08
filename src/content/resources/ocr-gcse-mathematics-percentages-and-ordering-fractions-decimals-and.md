@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ordering-fractions-decimals-and-percentages-ocr-gcse-maths"
 description: "Step-by-step study guide to OCR GCSE Mathematics percentages, multipliers, original-value problems, simple interest and ordering, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches sections 2.03 and 2.04 of the OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026): percentages, percentage change and simple interest, and ordering fractions, decimals and percentages. All of it is Foundation and Higher tier content, and none of it is Higher tier only. The specification lists a Paper 2 (Foundation) and a Paper 5 (Higher) where a calculator is not permitted, so the by-hand methods below matter. Pair it with the [revision notes](/resources/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and-revision-notes/) and the [practice questions](/resources/ocr-gcse-mathematics-percentages-and-ordering-fractions-decimals-and-practice/). For wider fraction work see the [fractions, decimals and percentages overview](/resources/ocr-gcse-mathematics-fractions-decimals-and-percentages/). The [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [printable checklist](/checklists/ocr/gcse/mathematics/) show the rest of the course, and the [free diagnostics](/diagnostics/) help you find weak spots first.

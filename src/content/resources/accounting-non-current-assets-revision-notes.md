@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "accounting-for-non-current-assets"
 description: "Revision notes on capital versus revenue spending, depreciation methods, cost and revaluation models and disposals, for Cambridge 9706 Accounting topic 1.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 publishedDate: 2026-09-03
 featured: false
 ---

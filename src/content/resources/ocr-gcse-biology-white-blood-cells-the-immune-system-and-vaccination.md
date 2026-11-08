@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "monitoring-and-maintaining-health-ocr-gcse-biology"
 description: "Study guide to white blood cells, platelets, non-specific defences, antibodies, vaccines antibiotics, antivirals and antiseptics for OCR GCSE Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide is aligned to the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. It covers statements B6.3j, B6.3k, B6.3l and B6.3o of module B6.3, Monitoring and maintaining health. None of these four statements is in bold, so all of them are assessed in both Foundation and Higher Tier papers. Types of disease and how they spread, named infections, monoclonal antibodies, aseptic technique and drug testing, and non-communicable disease are taught on other pages.

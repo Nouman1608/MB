@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "externalities-ocr-aslevel-economics"
 description: "Condensed revision notes on efficiency, x-inefficiency, market failure and the four externality cases for OCR A Level Economics (H460), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the topics Productive and allocative efficiency, Market failure and Externalities from Component 1, Microeconomics, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. For full explanations read the [study guide](/resources/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure/), then try the [practice questions](/resources/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure-practice/). Related pages: the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [Microeconomics revision notes](/resources/ocr-a-level-economics-microeconomics-revision-notes/). Find weak spots with the [free diagnostics](/diagnostics/). All figures are invented and illustrative.

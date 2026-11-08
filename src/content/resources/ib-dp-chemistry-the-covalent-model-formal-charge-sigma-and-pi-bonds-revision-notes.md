@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-2-2"
 description: "Condensed HL recall notes for IB DP Chemistry Structure 2.2.11 to 2.2.16, with method steps, shape tables and a checked quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These are recall notes for the HL part of **Structure 2.2, The covalent model**, as listed in the IB *Chemistry guide* for Diploma Programme candidates examined from 2025 (issued February 2023). They cover understandings Structure 2.2.11 to 2.2.16: resonance, benzene, expanded octets, formal charge, σ and π bonds, and hybridization. All six are additional higher level, so this whole page is **HL only**. The reasoning and longer examples behind each point are in the [study guide](/resources/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds/).

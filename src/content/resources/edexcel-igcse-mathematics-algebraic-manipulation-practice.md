@@ -14,12 +14,13 @@ syllabusTopics:
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
 description: "Practice questions with worked answers on indices, three-bracket expansion, factorising, algebraic fractions and completing the square for Edexcel 4MA1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 updatedDate: 2026-09-28
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

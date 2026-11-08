@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-15-1"
 description: "Condensed OxfordAQA 9620 NMR revision notes: chemical shift, TMS, solvents, ¹³C and ¹H spectra, integration, n+1 splitting and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Short notes for the last weeks before the exam. For full explanations and five worked examples, use the

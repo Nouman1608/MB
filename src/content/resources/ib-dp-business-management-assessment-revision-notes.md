@@ -9,11 +9,12 @@ syllabusCodes: ["DP Business Management"]
 order: 1
 description: "Condensed recall notes on how IB Diploma Business Management is assessed at SL and HL: the papers, their weightings and the internal assessment project."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-26
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the

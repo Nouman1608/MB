@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "polymers"
 description: "Guide to polymers for Cambridge IGCSE 0620 and O Level 5070: addition and condensation polymerisation, nylon and PET, proteins and plastic disposal."
 author: "nouman-ahmed"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
 publishedDate: 2026-08-18
 featured: false
 ---

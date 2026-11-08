@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-1-2"
 description: "Original IB DP Economics Unit 1 practice questions with worked answers on scarcity, PPC, circular flow, positive and normative economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "firms-costs-revenue-and-objectives"
 description: "Condensed revision notes on firms' costs, revenue and objectives for Cambridge O Level Economics 2281: formulas, methods, a self-test and slips."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for section 3.7, Firms' costs, revenue and objectives (3.7.1 to 3.7.5), of the Cambridge O Level Economics 2281 syllabus for examination in 2026, version 2. The syllabus is not tiered and says marginal cost and marginal revenue are not required. For full explanations and longer worked examples, use the [study guide](/resources/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms/). All firms and figures here are invented and illustrative.

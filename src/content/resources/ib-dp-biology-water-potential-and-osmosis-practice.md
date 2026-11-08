@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d2-3"
 description: "Original IB DP Biology D2.3 practice questions on osmosis, tonicity, plant tissue data, SE, turgor and HL water potential, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

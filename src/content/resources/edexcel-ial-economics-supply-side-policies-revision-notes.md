@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "macroeconomic-objectives-and-policies-edexcel-alevel-economics"
 description: "Condensed revision notes on supply-side policies for Pearson Edexcel International A Level Economics, with a quick self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense statement 3 of 2.3.6 Macroeconomic objectives and policies in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018). Unit 2 is one of the International AS (IAS) units and also counts towards the full International Advanced Level; Units 3 and 4 add the International A2 content. For full explanations use the [study guide](/resources/edexcel-ial-economics-supply-side-policies/); for exam-style work use the [practice questions](/resources/edexcel-ial-economics-supply-side-policies-practice/). Also see the [course hub](/boards/edexcel/a-level/economics/), the [printable checklist](/checklists/edexcel/a-level/economics/) and the free [diagnostics](/diagnostics/). All figures are invented and illustrative.

@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "external-influences-1bs0"
 description: "Study guide to consumer and employment law, the economic climate and how businesses respond to external change, for Edexcel GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 1, Topic 1.5 Understanding external influences on business, content items 1.5.3 (legislation and business), 1.5.4 (the economy and business) and 1.5.5 (external influences). The specification lists formulae in Appendix 3 and says they are not provided in the examinations, so practise any calculation from memory.

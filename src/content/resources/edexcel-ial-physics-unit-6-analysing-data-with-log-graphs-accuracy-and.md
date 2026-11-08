@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "analysis-unit-6-yph11"
 description: "Study guide to section 6.5 Analysis in Pearson Edexcel International A Level Physics (YPH11): log graphs, accuracy, precision and uncertainties."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 This study guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics specification (YPH11), Issue 3, and covers section 6.5 Analysis in Unit 6: Practical Skills in Physics II. Unit 6 belongs to IA2, the second half of the International Advanced Level. There are no tiers. Unit 6 builds on the Unit 3 skills, and it asks for things Unit 3 does not: you compound percentage uncertainties, you use the terms precision, accuracy and sensitivity, and you may work with log graphs.

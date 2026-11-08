@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-2"
 description: "Twelve original worked practice questions on albedo, emissivity, S/4, greenhouse gases and equilibrium temperature for IB DP Physics B.2."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "current-electricity-aqa-alevel"
 description: "Original practice questions with marked answers for AQA A-Level Physics 7408 Electricity, from charge and I-V graphs to emf and internal resistance."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

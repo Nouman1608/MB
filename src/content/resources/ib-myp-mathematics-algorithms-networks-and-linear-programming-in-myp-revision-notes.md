@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-branches-of-mathematical-study-thinking-with-models"
 description: "Condensed MYP Mathematics revision notes on algorithms, flowcharts, inequalities, linear programming and weighted-network shortest paths, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense the algorithm, network and linear programming content of the Thinking with models branch of the IB *Mathematics guide (for use from September 2020/January 2021)*, MYP Mathematics, first assessment 2022. Algorithms are in the MYP 4-5 standard column (simple flowcharts appear in MYP 1-3 Algebra). Linear programming and networks are in the MYP 4-5 **extended** column. For full explanations, start with the [study guide](/resources/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp/), then test yourself on the [practice questions](/resources/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp-practice/).

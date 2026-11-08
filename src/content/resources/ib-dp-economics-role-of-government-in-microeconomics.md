@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-7"
 description: "Study guide to price ceilings, price floors, indirect taxes and subsidies, with diagrams, stakeholders and HL calculations, for IB DP Economics 2.7."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. Its subject is sub-topic 2.7, Role of government in microeconomics (Unit 2), taught at SL and HL. Two items are HL only: the calculation of effects on markets and stakeholders, and consumer nudges.

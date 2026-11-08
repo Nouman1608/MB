@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "government-macroeconomic-intervention-a-cambridge-alevel-economics"
 description: "Cambridge 9708 A Level practice on macroeconomic intervention: inflation types, interest rates, policy conflicts, the Phillips curve and the multiplier."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

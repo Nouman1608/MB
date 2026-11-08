@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "transformations-matrices-and-vectors-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on matrix multiplication, the identity matrix and matrix transformations for OxfordAQA International GCSE Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes are for the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), section 3.3.3, statements G23 to G26. All four statements are **Extension only**. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations/) first. Then try the [practice questions](/resources/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations-practice/).
 

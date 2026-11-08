@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-branches-of-mathematical-study-numerical-and-abstract-reasoning"
 description: "Study guide to the Number strand of IB MYP Mathematics: number sets, surds, exponents, estimation, bounds, proportion, money and logarithms."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches the **Number** rows of the **numerical and abstract reasoning** branch in the IB *MYP Mathematics guide* (for use from September 2020/January 2021, first assessment 2022). The guide gives topics and skills as examples in three columns: MYP 1-3, MYP 4-5 standard and MYP 4-5 extended, plus optional enrichment. Extended and enrichment items are labelled below. The guide notes that schools decide the exact split between standard and extended, and that enrichment topics are not included in eAssessments.

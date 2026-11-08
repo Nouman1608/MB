@@ -23,11 +23,12 @@ syllabusTopics:
     subtopic: "plant-disease-aqa-gcse-biology"
 description: "Pathogens, named diseases, human defences, vaccines, antibiotics, drug development, monoclonal antibodies and plant disease: AQA GCSE Biology 8461 section 4.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-09
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers **4.3 Infection and response**, the third of the seven assessed subject-content topics in AQA

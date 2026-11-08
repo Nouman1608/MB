@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "genetically-modified-organisms-in-agriculture-cambridge"
 description: "Study guide for Cambridge 9700 topic 19: recombinant DNA, enzymes and vectors, PCR, electrophoresis, microarrays, gene therapy, screening and GM crops."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches topic 19, Genetic technology, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers every learning outcome in sections 19.1 to 19.3. This is A Level content, examined on Paper 4 (A Level Structured Questions). The syllabus says the topic relies on your knowledge of DNA and RNA structure and protein synthesis from topic 6, so revise that first if base pairing, transcription or translation feel shaky.

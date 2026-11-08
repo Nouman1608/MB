@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "coordination-response-and-gene-technology-edexcel-alevel-biology"
 description: "Revision notes on neurones, reflex arcs, action potentials, saltatory conduction, synapses, the pupil and drugs for Edexcel IAL Biology 8.1 to 8.7."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 Quick recall for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, statements 8.1 to 8.7 of Topic 8. This is International A2 (IA2) content: Topics 5 to 8 sit in the A2 half, and nothing is tiered. For full explanations see the [study guide](/resources/edexcel-ial-biology-neurones-reflexes-action-potentials-and-synapses/), then try the [practice questions](/resources/edexcel-ial-biology-neurones-reflexes-action-potentials-and-synapses-practice/). Planning tools: the [course hub](/boards/edexcel/a-level/biology/), the [checklist](/checklists/edexcel/a-level/biology/) and the [free diagnostics](/diagnostics/). Related: [skeletal muscle, cardiac control and adrenaline](/resources/edexcel-ial-biology-skeletal-muscle-cardiac-control-and-adrenaline/).
 

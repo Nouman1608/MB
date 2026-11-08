@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "electronic-calculators-edexcel-igcse-maths"
 description: "Original exam-style practice questions with worked answers for Edexcel IGCSE Maths 4MA1 1.10-1.11: units, time, money, currency and calculator use."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

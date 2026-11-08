@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "sketching-curves-cambridge-igcse-maths"
 description: "Study guide for Cambridge IGCSE Maths 0580 sections 2.10-2.11: tables of values, drawn graphs, graphical solutions and sketching curves, Core and Extended."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches **2.10 Graphs of functions** and **2.11 Sketching curves** from Topic 2 (Algebra and graphs) of the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027, for exams in the June and November series (and the March series in India). Both subtopics appear in the Core content (C2.10, C2.11) and the Extended content (E2.10, E2.11). Extended adds more function types, exponential growth and decay, asymptotes and turning points; that material is marked **Extended only**. Core candidates sit Paper 1 (non-calculator) and Paper 3 (calculator); Extended candidates sit Paper 2 (non-calculator) and Paper 4 (calculator).

@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-china-4hi1"
 description: "Study guide to Breadth Study B4, China 1900–89, for Edexcel IGCSE History 4HI1: the Qing's fall, warlords, the CCP's rise, Mao's China and Deng's reforms."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates and estimates against a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates and estimates against a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-2-1"
 description: "Condensed OCR A Level Chemistry A notes on shells, orbitals, filling order, electrons in boxes and configurations of atoms and ions, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes cover **2.2.1 Electron structure** from Module 2 (Foundations in chemistry) of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They condense every statement in 2.2.1(a) to (d). H432 is the full A level with no tiers. For full explanations and worked examples, read the [electron structure study guide](/resources/ocr-a-level-chemistry-electron-structure/) first.

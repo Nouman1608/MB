@@ -18,8 +18,12 @@ syllabusTopics:
     topic: "crude-and-standardised-rates-0479"
 description: "Crude, age-specific and standardised death, birth and accident rates, and comparing populations: Cambridge O Level Statistics 4040 and IGCSE 0479 study guide."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 This guide covers **crude and standardised rates**: Topic 7 of Cambridge

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "mode-of-action-of-enzymes-cambridge-alevel-biology"
 description: "Study guide to 9700 section 3.1: active sites, activation energy, lock-and-key and induced fit, catalase and amylase rates, and colorimeter use."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches section 3.1, **Mode of action of enzymes**, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content, so it is examined in Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and the practical skills behind it are tested in Paper 3 (Advanced Practical Skills). Paper 4 at A Level also expects you to know AS content. It goes deeper into 3.1 than the [Enzymes topic overview](/resources/a-level-biology-enzymes/).

@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "containment-communism-2147"
 description: "Recall notes on the three containment case studies, Korea, Cuba and Vietnam: dates, tactics and verdicts, for Cambridge IGCSE 0470 and O Level 2147 History."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section."
+reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **Key question 2.5 in Cambridge IGCSE 0470 and O Level 2147 is answered

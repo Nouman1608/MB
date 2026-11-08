@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "depth-study-c-russia-0470"
 description: "Study guide to Cambridge IGCSE History 0470 Depth Study C, Russia 1905-41: the fall of the Tsar, the Bolshevik seizure of power, Stalin, terror and the Plans."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check dates (Old Style/New Style), production and famine figures against standard texts and the 0470 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check dates (Old Style/New Style), production and famine figures against standard texts and the 0470 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain. 2026-11-08 recheck: description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

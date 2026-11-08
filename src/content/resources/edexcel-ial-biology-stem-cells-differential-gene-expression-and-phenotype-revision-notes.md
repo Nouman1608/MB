@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "cell-structure-reproduction-and-development-edexcel-alevel-biology"
 description: "Revision notes with a self-test on stem cells, gene expression, splicing, epigenetics and multiple alleles for Edexcel International A Level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 Quick recall for specification statements 3.17 to 3.21 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. These statements are in Topic 3, which is part of the International AS (IAS) content. For full explanations and longer worked examples use the [study guide](/resources/edexcel-ial-biology-stem-cells-differential-gene-expression-and-phenotype/), then test yourself with the [practice questions](/resources/edexcel-ial-biology-stem-cells-differential-gene-expression-and-phenotype-practice/).
 

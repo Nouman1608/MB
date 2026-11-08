@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-6-1-3"
 description: "Study guide to OCR A Level Chemistry A 6.1.3: carboxylic acid solubility and salts, esterification, ester hydrolysis and acyl chloride synthesis."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 6.1.3, Carboxylic acids and esters, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 6, Organic chemistry and analysis, and its lettered learning outcomes, 6.1.3(a) to (f), are all covered below with worked examples. H432 is the full A level. The specification states that Module 6 content is assessed in Synthesis and analytical techniques (02) and Unified chemistry (03). Outcome 6.1.3(b) is linked to PAG7, qualitative analysis of organic functional groups.

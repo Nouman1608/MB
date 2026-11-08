@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "estimation-of-physical-quantities-oxfordaqa"
 description: "Study guide to SI units, conversions, uncertainty calculations, graph gradients and estimation for OxfordAQA International AS and A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide is aligned to the *OxfordAQA International AS and A-level Physics (9630)* specification, Version 4.4, for International AS and A-level exams from May/June 2020 onwards. It covers section 3.1: 3.1.1 use of SI units and their prefixes, 3.1.2 limitation of physical measurements and 3.1.3 estimation of physical quantities. Section 3.1 is shared content: it is assessed in the International AS and in the full International A-level, and the specification gives no AS/A split inside it.

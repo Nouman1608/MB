@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "the-interaction-of-demand-and-supply-cambridge-alevel-economics"
 description: "Study guide to effective demand, shifts and movements, equilibrium, related markets and the functions of price for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 2.1 (Demand and supply curves) and 2.4 (The interaction of demand and supply) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Both sit in topic 2, which is AS Level content. A Level candidates study it too, and the syllabus treats AS content as assumed knowledge for A Level Papers 3 and 4. Price elasticity (2.2 and 2.3) and surplus (2.5) have their own pages. Every market, firm and figure below is invented for illustration. None is a real statistic.

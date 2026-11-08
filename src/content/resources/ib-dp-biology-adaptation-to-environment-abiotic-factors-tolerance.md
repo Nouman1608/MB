@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b4-1"
 description: "Study guide to habitats, abiotic factors, range of tolerance, coral reefs, biome distribution and desert and rainforest adaptations for IB DP Biology B4.1."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers IB Diploma Programme Biology, section B4.1 (Adaptation to environment), as set out in the IB *Biology guide*, first assessment 2025. It teaches B4.1.1 to B4.1.8 and applies to Standard Level and Higher Level alike, because the guide gives B4.1 no extra higher level material. For condensed notes use the [revision notes](/resources/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance-revision-notes/), and for exam-style questions use the [practice set](/resources/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance-practice/). The wider theme is on the [Theme B study guide](/resources/ib-dp-biology-theme-b-form-function/), the course hub is [IB DP Biology](/boards/ib/ib-dp/biology/), and the printable [checklist](/checklists/ib/ib-dp/biology/) lets you tick off each outcome. To find weak spots first, try the [free diagnostics](/diagnostics/).

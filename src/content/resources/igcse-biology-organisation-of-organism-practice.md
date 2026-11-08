@@ -18,12 +18,13 @@ syllabusTopics:
     subtopic: "size-of-specimens-cambridge-igcse-biology"
 description: "Exam-style questions with worked answers on plant, animal and bacterial cells, specialised cells and magnification for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 > These are original practice questions written in the style of Cambridge IGCSE

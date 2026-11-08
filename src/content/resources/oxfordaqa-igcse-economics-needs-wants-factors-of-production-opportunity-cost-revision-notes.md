@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "resource-allocation-oxfordaqa-igcse-economics"
 description: "Condensed revision notes on needs and wants, factors of production, opportunity cost, markets, sectors and specialisation for OxfordAQA IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.1.1 (Economic foundations) and 3.1.2 (Resource allocation) of the OxfordAQA International GCSE Economics (9214) specification, for exams from May/June 2025 onwards. For full explanations read the [study guide](/resources/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost-practice/). Other useful pages: the [course hub](/boards/oxfordaqa/igcse/economics/), the [checklist](/checklists/oxfordaqa/igcse/economics/), the [markets revision notes](/resources/igcse-oxfordaqa-economics-markets-revision-notes/) and the [free diagnostics](/diagnostics/). All figures here are invented.

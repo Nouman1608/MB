@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "external-influences-1bs0"
 description: "Condensed revision notes on legislation, the economic climate and responses to external change for Edexcel GCSE Business Theme 1, Topic 1.5."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Theme 1, Topic 1.5 items 1.5.3, 1.5.4 and 1.5.5 of the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. For full explanations and worked examples, read the [study guide](/resources/edexcel-gcse-business-legislation-the-economy-and-external-influences/). To test yourself, use the [practice questions](/resources/edexcel-gcse-business-legislation-the-economy-and-external-influences-practice/), the [Business hub](/boards/edexcel/gcse/business/), the [printable checklist](/checklists/edexcel/gcse/business/) and the [free diagnostics](/diagnostics/).

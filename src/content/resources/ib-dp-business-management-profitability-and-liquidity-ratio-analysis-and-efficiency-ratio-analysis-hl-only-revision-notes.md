@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-6"
 description: "Condensed IB DP Business Management revision notes on ratio analysis: formulae, method steps, strategies, insolvency and a self-test for 3.5 and 3.6."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Use these notes after the [study guide](/resources/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only/), which explains each ratio in full. They condense sections 3.5 (Profitability and liquidity ratio analysis, SL/HL) and 3.6 (Efficiency ratio analysis, HL only) of the IB *Business management guide*, first assessment 2024. Money figures are in dollars and the businesses are invented.

@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "reduce-file-sizes-for-storage-or-transmission-0417"
 description: "Original exam-style questions with worked answers on folder structures, file names, generic formats, csv, pdf and zip compression for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 11: managing files effectively (11.1) and reducing file sizes for storage or transmission (11.2). They test folder structures and file naming, the characteristics of the syllabus file formats, the need for generic formats and the use of .zip and .rar compression.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-vectors-oxfordaqa-alevel-maths"
 description: "Eleven original practice questions with worked answers on the scalar product, angles between lines and perpendicular distance, for OxfordAQA 9660 Unit P2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

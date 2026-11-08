@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "formulae-equations-and-amount-of-substance-ych11"
 description: "Original practice questions with worked answers for Edexcel IAL Chemistry Topic 1, from ionic equations and ppm to pV = nRT and Core Practical 1."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

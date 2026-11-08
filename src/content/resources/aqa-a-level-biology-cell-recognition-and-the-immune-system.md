@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "cell-recognition-and-the-immune-system-aqa-alevel-biology"
 description: "Study guide to AQA A-level Biology 3.2.4: antigens, phagocytosis, T and B cells, antibodies, vaccines and herd immunity, HIV, monoclonal antibodies and ELISA."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Section 3.2.4 of the AQA A-level Biology (7402) specification, *Cell recognition and the immune system*, explains how

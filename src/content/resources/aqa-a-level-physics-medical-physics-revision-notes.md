@@ -33,8 +33,12 @@ syllabusTopics:
     subtopic: "radionuclide-imaging-and-therapy-aqa-alevel"
 description: "Condensed revision notes for the AQA A-level Physics 7408 Medical physics option: equations, method steps, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 These notes condense section 3.10 Medical physics (3.10.1 to 3.10.6) of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards). The section is **A-level only** and is one of the five options in sections 3.9-3.13: you study one, assessed in Paper 3 Section B. For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-physics-medical-physics/).

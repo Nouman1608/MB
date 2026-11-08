@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "implementation-and-measurements-unit-3-yph11"
 description: "Condensed revision notes on planning an experiment and checking a student's readings, for Unit 3 of Edexcel International A Level Physics (YPH11)."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 Quick recall for sections 3.3 Planning and 3.4 Implementation and measurements of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics (YPH11) specification, Issue 3. Unit 3 is an International AS (IAS) unit and tests experiments from Units 1 and 2. The [study guide](/resources/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another/) has the full explanations and worked examples.

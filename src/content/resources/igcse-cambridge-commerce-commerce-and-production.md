@@ -20,9 +20,10 @@ syllabusTopics:
     subtopic: "production-0715"
 description: "Guide to Topic 1 of Cambridge IGCSE Commerce 0715, exams from 2028: trade and commerce, sectors of production, specialisation, supply chains, aids to trade."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-08-21
 featured: false
 ---

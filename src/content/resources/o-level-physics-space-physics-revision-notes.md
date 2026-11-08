@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "stars-and-the-universe"
 description: "Condensed revision notes on space physics for Cambridge O Level Physics (5054): key facts, orbital speed method, star life cycle, redshift and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 These revision notes condense topic 6, Space physics, from the Cambridge O Level Physics (5054) syllabus for examination in 2026, 2027 and 2028. They cover sections 6.1 and 6.2. For full explanations and worked examples, read the [study guide](/resources/o-level-physics-space-physics/) first. For exam-style questions, use the [practice questions](/resources/o-level-physics-space-physics-practice/).
 

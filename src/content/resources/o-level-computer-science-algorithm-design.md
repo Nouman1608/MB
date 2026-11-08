@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "algorithm-design-and-problem-solving-2210"
 description: "Topic 7 guide for Cambridge O Level Computer Science 2210: the life cycle, decomposition, standard algorithms, validation, test data and trace tables."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 7 of Cambridge O Level Computer Science (2210) is about designing algorithms that work and proving that they do. You need to follow the program development life cycle, break a problem into parts, write solutions as structure diagrams, flowcharts and pseudocode, use the standard methods (linear search, bubble sort, totalling, counting, maximum, minimum and average), protect input with validation and verification, choose test data, dry-run with trace tables, and find and fix errors.

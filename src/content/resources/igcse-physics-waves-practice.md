@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "sound-cambridge-igcse-physics"
 description: "Original Cambridge IGCSE Physics 0625 Topic 3 questions with worked answers on wave properties, reflection, refraction, lenses, the EM spectrum and sound."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

@@ -11,9 +11,10 @@ syllabusSeries: "For first teaching 2016"
 order: 1
 description: "Paper-by-paper exam preparation for AQA GCSE Physics 8463: tier strategy, recalled equations, units, required practicals, a worked answer and a checklist."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-07
 featured: false
 ---

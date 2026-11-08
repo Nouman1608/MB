@@ -35,11 +35,12 @@ syllabusTopics:
     subtopic: "kq-6-1-2251"
 description: "Cambridge O Level Sociology (2251) Paper 2 recall notes, 2025-2027: family, education, and crime, deviance and social control, with the paper format."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Condensed recall notes for **Paper 2 Family, Education and Crime**,

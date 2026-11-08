@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "electric-field-strength-oxfordaqa"
 description: "Revision notes on Coulomb's law, field lines, E = F/Q, E = V/d, radial fields and charged particles in a field for OxfordAQA International A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes follow the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. They cover sections 3.8.1 (Coulomb's law) and 3.8.2 (Electric field strength), which are marked International A-level only. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-physics-coulombs-law-and-electric-field-strength/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-coulombs-law-and-electric-field-strength-practice/). The [course hub](/boards/oxfordaqa/a-level/physics/) and [printable checklist](/checklists/oxfordaqa/a-level/physics/) show where this unit sits. To find your weak spots first, take one of the [free diagnostics](/diagnostics/).

@@ -21,11 +21,12 @@ syllabusTopics:
     topic: "ib-dp-language-b-social-organization"
 description: "Condensed revision notes for IB DP Language B Paper 2: method boxes for each question format, key distinctions, timing and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 For full explanations and longer worked examples, use the

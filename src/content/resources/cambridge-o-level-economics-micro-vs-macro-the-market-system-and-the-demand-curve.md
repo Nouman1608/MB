@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "demand"
 description: "Study guide to Cambridge O Level Economics 2281 sections 2.1 to 2.3: micro and macro, the price mechanism, and demand curves with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is aligned to the Cambridge O Level Economics 2281 syllabus for examination in 2026 and covers sections 2.1 to 2.3 of topic 2, The allocation of resources: microeconomics and macroeconomics, the role of markets, and demand. The course is not tiered, so everything here applies to every candidate. All the figures in the worked examples are invented for illustration. They describe fictional markets, not real statistics.

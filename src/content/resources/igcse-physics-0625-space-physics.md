@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "stars-and-the-universe-cambridge-igcse-physics"
 description: "Study guide for Cambridge IGCSE Physics 0625 space physics: the Earth, Solar System, orbits, star life cycles, redshift, CMBR and the Hubble constant."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-27
 featured: false
 ---

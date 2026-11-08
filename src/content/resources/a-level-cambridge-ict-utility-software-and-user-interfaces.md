@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "user-interfaces"
 description: "Study guide to 9626 sections 2.3 and 2.5: anti-virus, backup, compression, defragmentation and formatting, and CLI, GUI, dialogue and gesture interfaces."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 **Utility software (2.3) and user interfaces (2.5) are two sections of Topic 2 Hardware and software

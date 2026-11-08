@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "corporate-social-responsibility-ocr-alevel-business"
 description: "Study guide to mission statements and corporate social responsibility for OCR A Level Business, with worked examples and evaluation skills."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This study guide covers sections 1.3 (Mission statement) and 1.4 (Corporate social responsibility (CSR)) of the OCR A Level Business specification (H431, Version 2.1, January 2026), within Business objectives and strategy. Both sections sit alongside the wider topic notes in [Business objectives and strategic decisions](/resources/ocr-a-level-business-objectives-and-strategic-decisions/), the [topic revision notes](/resources/a-business-strategy-revision-notes/) and the [topic practice questions](/resources/a-business-strategy-practice/). Pair this guide with the [revision notes](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-revision-notes/) and the [practice set](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-practice/). Course hub: [OCR A Level Business](/boards/ocr/a-level/business/). Printable list: [checklist](/checklists/ocr/a-level/business/). To find weak spots first, try the [free diagnostics](/diagnostics/).
 

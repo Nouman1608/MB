@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "globalisation-of-trade-7100"
 description: "Cambridge O Level Commerce 7100 Topic 3 notes: trade benefits and challenges, Balance of Trade and Payments sums, trading blocs, tariffs, supply chain risk."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Globalisation of trade is the buying and selling of goods and services across national borders, and the

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "databases-9645"
 description: "Condensed revision notes for OxfordAQA A-level Computer Science databases: key terms, 3NF, SQL syntax, lost updates, Big Data and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 For full explanations and worked examples, read the [Databases study guide](/resources/oxfordaqa-a-level-computer-science-databases/) first.

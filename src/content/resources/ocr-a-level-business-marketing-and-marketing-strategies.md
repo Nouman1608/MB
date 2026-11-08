@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "marketing-and-marketing-strategies-ocr-alevel-business"
 description: "Study guide to marketing and marketing strategies for OCR A Level Business H431: the marketing mix, product life cycle, Boston Matrix and Ansoff's Matrix."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-09
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the content area **Marketing and marketing strategies** in OCR A Level Business (H431), following

@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "depth-study-b-germany-2147"
 description: "Original Paper 1 Section B practice for Cambridge O Level History 2147 Depth Study B, Germany 1918-45: Weimar, Hitler's rise and Nazi rule, with worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check worked-answer facts against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: disclaimer reworded (depth studies are Paper 1 Section B only; no sources on this page)."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check worked-answer facts against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: disclaimer reworded (depth studies are Paper 1 Section B only; no sources on this page); 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

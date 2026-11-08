@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "chemical-analysis-8462"
 description: "Revision notes for AQA GCSE Chemistry 8462 Chemical analysis: Rf method, gas tests, flame colours, precipitate colours and a quick self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 8, **Chemical analysis** (sections 4.8.1 to 4.8.3), of the AQA GCSE Chemistry (8462) specification, for teaching from September 2016 with exams from June 2018 (version 1.1). The topic is examined on Paper 2 at Foundation and Higher tier, and none of it is Higher tier only. It includes Required practical 6 (chromatography) and Required practical 7 (identifying ions).

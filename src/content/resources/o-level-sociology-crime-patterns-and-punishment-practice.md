@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-6-3-2251"
 description: "Original Cambridge O Level Sociology 2251 Crime question practice on gender and ethnic patterns, labelling, punishment, prisons and policing, with answers."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

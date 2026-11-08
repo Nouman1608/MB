@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-labour-market-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on wage setting in competitive labour markets, monopsony, trade unions and imperfect information for OxfordAQA 9640."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes cover OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.3.4.3 (perfectly competitive labour markets) and 3.3.4.4 (imperfectly competitive labour markets). Section 3.3 is extra International A2 content. All figures are invented and illustrative. For full explanations, use the [study guide](/resources/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour/), then try the [practice questions](/resources/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour-practice/).
 

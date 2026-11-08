@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-12"
 description: "Condensed recall notes on how a free market can produce unequal income and wealth: IB DP Economics sub-topic 2.12, HL only, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense **sub-topic 2.12, the market's inability to achieve equity**, which is **HL only**. They follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. For full explanations, read the [study guide](/resources/ib-dp-economics-market-inability-to-achieve-equity/). Then test yourself with the [practice questions](/resources/ib-dp-economics-market-inability-to-achieve-equity-practice/), check progress on the [printable checklist](/checklists/ib/ib-dp/economics/), see the wider course on the [IB DP Economics hub](/boards/ib/ib-dp/economics/), or start with a [free 10-minute diagnostic](/diagnostics/).

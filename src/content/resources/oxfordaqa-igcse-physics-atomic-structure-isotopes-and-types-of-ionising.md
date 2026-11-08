@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ionizing-radiation-from-the-nucleus"
 description: "Study guide to atomic structure, isotopes and alpha, beta and gamma radiation for OxfordAQA International GCSE Physics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide is written for the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. It covers sections 3.7.1 a to f (atomic structure) and 3.7.2 a to g (ionizing radiation from the nucleus). The qualification is untiered. Half-life, contamination and irradiation, fission and fusion are separate parts of the specification and are not taught here.
 

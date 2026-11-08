@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-role-of-markets-in-allocating-resources-cambridge-igcse-economics"
 description: "Study guide to micro and macro, how a market works, the what, how and for whom questions and the price mechanism in Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 2.1 and 2.2 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026 (version 2). Section 2.1 separates microeconomics from macroeconomics. Section 2.2 explains how a market system works, the three key allocation questions and how the price mechanism answers them. The syllabus is not tiered, so all of this applies to every candidate. All names and figures are invented, and each worked example is labelled as illustrative.

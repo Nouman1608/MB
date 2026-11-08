@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "control-oxfordaqa-alevel-biology"
 description: "Eleven original questions with worked answers on skeletal muscle for OxfordAQA International A-level Biology 9610 section 3.4.4, with image and data work."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

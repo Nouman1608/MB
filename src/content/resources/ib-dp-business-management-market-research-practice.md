@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-4-4"
 description: "Original practice questions with worked answers on market research for IB DP Business Management section 4.4, including sampling and short cases."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

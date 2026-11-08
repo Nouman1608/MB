@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "organisation-and-management"
 description: "Condensed revision notes on organisation charts, management functions, delegation, leadership styles and trade unions for Cambridge O Level Business 7115."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 2.2 Organisation and management of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. For full explanations and worked examples, read the [study guide](/resources/o-level-business-organisation-and-management/). Then test yourself with the [practice questions](/resources/o-level-business-organisation-and-management-practice/). The wider topic is summarised in the [People in business revision notes](/resources/business-people-in-business-revision-notes/). Course pages: the [Cambridge O Level Business hub](/boards/cambridge/o-level/business/) and the [printable checklist](/checklists/cambridge/o-level/business/). To see where you stand first, take a [free 10-minute diagnostic](/diagnostics/).

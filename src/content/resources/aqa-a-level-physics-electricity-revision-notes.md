@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "current-electricity-aqa-alevel"
 description: "Condensed AQA A-Level Physics 7408 Electricity notes: key equations, I-V graphs, resistivity, circuit rules, potential dividers and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 Condensed for the final weeks. For full explanations and worked examples, use the [Electricity study guide](/resources/aqa-a-level-physics-electricity/).

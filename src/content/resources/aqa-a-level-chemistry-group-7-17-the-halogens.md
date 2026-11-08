@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "group-7-17-the-halogens-7405"
 description: "AQA A-Level Chemistry halogens taught from scratch: trends, displacement, halides with sulfuric acid, silver nitrate tests and chlorine in water."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.2.3 Group 7(17), the halogens** of the AQA AS and A-level Chemistry

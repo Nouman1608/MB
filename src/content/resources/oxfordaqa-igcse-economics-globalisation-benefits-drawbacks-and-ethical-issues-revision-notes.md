@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "international-trade-and-the-global-economy-oxfordaqa-igcse-economics"
 description: "Condensed revision notes on globalisation, its causes, winners and losers and the ethical issues, for OxfordAQA International GCSE Economics (9214)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These revision notes are for the OxfordAQA International GCSE Economics (9214) specification, for exams from May/June 2025 onwards. They cover section 3.2.4.3, Globalisation: benefits and drawbacks, in Paper 2 (How economies work). For full explanations read the [study guide](/resources/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues-practice/). Course pages: [hub](/boards/oxfordaqa/igcse/economics/) and [checklist](/checklists/oxfordaqa/igcse/economics/). Not sure where to start? Take the [free 10-minute diagnostics](/diagnostics/). All figures below are invented and illustrative.
 

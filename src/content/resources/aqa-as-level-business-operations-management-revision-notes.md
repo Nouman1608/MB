@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "operations-management-aqa-aslevel-business"
 description: "Condensed revision notes on operations objectives, KPIs, efficiency, quality, supply chains, inventory, projects and scale for AQA AS-Level Business (7137)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense **3.2.2 Operations management** for AQA AS-Level Business (7137). They were checked on 5 November 2026 against AQA's AS and A-level Business specification (7137/7138), Version 1.1, November 2025; "the specification" below means that document, and formulas are from its annex. For full explanations and worked examples, read the [study guide](/resources/aqa-as-level-business-operations-management/). Ethics in operations is A-level only and is left out.

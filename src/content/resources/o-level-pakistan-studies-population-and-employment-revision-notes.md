@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "population-and-employment-2059"
 description: "Revision notes on census data, pyramids, migration, density by province and workforce sectors for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 8."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes condense Section 8 Population and employment of Cambridge O Level Pakistan Studies

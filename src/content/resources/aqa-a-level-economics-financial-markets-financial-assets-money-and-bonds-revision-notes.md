@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "financial-markets-and-monetary-policy-aqa-alevel-economics"
 description: "Condensed AQA A-level Economics revision notes on money, narrow and broad money, financial markets, debt and equity, and bond yields and prices."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the AQA AS and A-level Economics specification (version 1.3, 29 June 2022), A-level sub-section The structure of financial markets and financial assets (4.2.4.1 in the combined PDF; 3.2.4.1 on the AQA website). The [study guide](/resources/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds/) gives full explanations and worked examples, and the [practice questions](/resources/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds-practice/) test them. The course page is [AQA A-level Economics](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) tracks coverage, and the [free 10-minute diagnostics](/diagnostics/) reveal weak spots. Banks, credit creation, regulation and central bank policy belong to other units. All figures are invented and illustrative.

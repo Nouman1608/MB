@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "depth-study-a-wwi-0470"
 description: "Study guide to Cambridge IGCSE History 0470 Depth Study A, the First World War 1914-18: the Western Front, the war beyond Europe and Germany's defeat in 1918."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-09
 featured: false
 ---

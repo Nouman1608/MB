@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "measures-of-economic-performance-edexcel-alevel-economics"
 description: "Condensed notes on inflation, the CPI, deflation, ILO unemployment and the causes and effects of unemployment for Edexcel International A Level Economics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-05
 featured: false
 ---

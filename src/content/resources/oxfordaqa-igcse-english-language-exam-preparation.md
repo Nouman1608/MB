@@ -11,11 +11,12 @@ syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
 description: "Exam preparation for OxfordAQA International GCSE English Language 9270: compulsory Paper 1 with Paper 2 or the NEA route, and a worked composition plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 OxfordAQA International GCSE English Language (9270) is a linear qualification with a compulsory

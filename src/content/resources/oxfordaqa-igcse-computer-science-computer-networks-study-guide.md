@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "computer-networks"
 description: "LANs and WANs, network hardware, topologies, client-server and peer-to-peer, protocols and the TCP/IP layers for OxfordAQA International GCSE 9210."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 A computer network is two or more devices connected so that they can share data and resources. Networks are everywhere, from a home router connecting a phone and a laptop to the internet itself. In OxfordAQA International GCSE Computer Science (9210) you need to describe the types of network, the hardware and layouts that build them, and the rules (protocols) that let different devices communicate. Most questions ask you to describe, compare or justify a choice for a given situation.

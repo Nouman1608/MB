@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-2-3"
 description: "Study guide to OCR A Level Chemistry A 5.2.3: redox equations, manganate and thiosulfate titrations, electrode potentials, storage and fuel cells."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 5.2.3, Redox and electrode potentials, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, covering outcomes 5.2.3(a) to (k). It sits in Module 5, which the specification assigns to Component 01 (Periodic table, elements and physical chemistry) and Component 03 (Unified chemistry). PAG8, electrochemical cells, is linked to 5.2.3(g).

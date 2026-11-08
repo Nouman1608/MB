@@ -9,11 +9,12 @@ syllabusCodes: ["DP Biology"]
 order: 1
 description: "Condensed recall notes on the assessment structure -- papers, weightings and the internal assessment -- for IB Diploma Programme Biology."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-26
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the

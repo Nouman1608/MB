@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-b-2"
 description: "Recall notes on IB DP Computer Science B.2 Programming, the largest SL sub-topic: control structures, data, modularity, pseudocode design, testing and Paper 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-09-02
 featured: false
 ---

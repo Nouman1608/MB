@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "enterprise-business-growth-and-size"
 description: "Condensed notes, formulas, a self-test and common mistakes on enterprise, measuring size, growth and failure for Cambridge O Level Business Studies 7115."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 1.3 (Enterprise, business growth and size) of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. They cover 1.3.1 to 1.3.4 and use the syllabus's own wording. For full explanations read the [study guide](/resources/enterprise-business-growth-and-size/), then test yourself with the [practice questions](/resources/o-level-business-enterprise-business-growth-and-size-practice/). The wider course is on the [Cambridge O Level Business hub](/boards/cambridge/o-level/business/) and the [printable checklist](/checklists/cambridge/o-level/business/). To find weak spots first, try the [free diagnostics](/diagnostics/). Money figures in worked reminders are in dollars.

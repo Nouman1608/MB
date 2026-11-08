@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "as-analysis-and-communication-of-accounting-information"
 description: "Condensed recall notes on stakeholders, the AS ratios, evaluation, improvement measures and limitations for Cambridge AS Accounting 9706 section 1.6."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 These are condensed notes for section 1.6, Analysis and communication of accounting information, in the Cambridge International AS & A Level Accounting 9706 syllabus for exams in 2026, 2027 and 2028 (AS Level, Financial accounting). Full explanations and a long worked example are in the [study guide](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as/). Test yourself with the [practice questions](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as-practice/), then use the [Cambridge A Level Accounting hub](/boards/cambridge/a-level/accounting/), the [checklist](/checklists/cambridge/a-level/accounting/) and the free [diagnostics](/diagnostics/).

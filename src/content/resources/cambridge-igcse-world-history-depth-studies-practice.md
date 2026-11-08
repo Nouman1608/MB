@@ -29,9 +29,10 @@ syllabusTopics:
     subtopic: "depth-study-e-wwii-0470"
 description: "Original Paper 1 Section B questions for all five Cambridge IGCSE History 0470 depth studies, with (a), (b) and (c) parts and level-based mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the indicative answers against the 0470 2024-2026 syllabus focus points and a recent Paper 1 mark scheme before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the indicative answers against the 0470 2024-2026 syllabus focus points and a recent Paper 1 mark scheme before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

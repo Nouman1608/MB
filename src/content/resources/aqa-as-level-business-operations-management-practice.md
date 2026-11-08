@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "operations-management-aqa-aslevel-business"
 description: "Original practice questions with worked answers on productivity, capacity, inventory, quality, projects and suppliers for AQA AS-Level Business (7137)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

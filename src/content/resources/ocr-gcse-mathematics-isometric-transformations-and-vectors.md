@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "plane-vector-geometry-ocr-gcse-maths"
 description: "Study guide to reflections, rotations, translations, combined transformations and column vectors for OCR GCSE Mathematics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is for OCR GCSE (9-1) Mathematics, aligned to the OCR specification Version 2.1 (August 2026). It covers sections 9.01a to 9.01d (plane isometric transformations) and 9.03a and 9.03b (plane vector geometry). Most of the content is for both tiers. Combinations of transformations (9.01d) and the use of vectors in geometric arguments and proofs (9.03a) are **Higher tier only**.

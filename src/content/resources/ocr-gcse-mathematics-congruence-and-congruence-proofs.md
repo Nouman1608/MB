@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "congruence-ocr-gcse-maths"
 description: "Study guide to congruent triangles and congruence proofs for OCR GCSE (9-1) Mathematics, with SSS, SAS, ASA and RHS explained and fully worked proofs."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This study guide covers congruence for the OCR GCSE (9-1) Mathematics specification (J560), Version 2.1 (August 2026). It follows content references 9.02a and 9.02b, which sit in content area 9, Congruence and similarity. The content applies to both Foundation tier and Higher tier, and nothing in this unit is marked Higher tier only. The specification expects you to support answers with appropriate working, and some questions ask for an extended line of reasoning, so proofs are written out in full.
 

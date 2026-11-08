@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "depth-study-b-germany-0470"
 description: "Study guide to Cambridge IGCSE History 0470 Depth Study B, Germany 1918-45: Weimar's crises and recovery, Hitler's rise, Nazi control and life in Nazi Germany."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check dates and election figures against standard texts and the 0470 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check dates and election figures against standard texts and the 0470 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "microbiology-immunity-and-forensics-edexcel-alevel-biology"
 description: "Study guide to decomposition, PCR, gel electrophoresis, DNA profiling and estimating time of death for Edexcel International A Level Biology (YBI11)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, and covers statements 6.16 to 6.20 at the end of Topic 6, Microbiology, Immunity and Forensics. Topic 6 is in Unit 4, so it belongs to the International A2 (IA2) part of the course. There are no tiers, and each statement below is covered in full.
 

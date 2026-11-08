@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "globalisation-edexcel-igcse-economics"
 description: "Condensed revision notes on globalisation, MNCs and foreign direct investment for Edexcel International GCSE Economics, with a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 2.2.1 of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3: globalisation, multinational corporations (MNCs) and foreign direct investment (FDI). The specification has a single tier, so nothing here is tier-limited. For full explanations and worked examples read the [study guide](/resources/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct/). Then try the [practice questions](/resources/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct-practice/), the [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/), the [printable checklist](/checklists/edexcel/igcse/economics/) and the [free 10-minute diagnostics](/diagnostics/). All figures are invented.

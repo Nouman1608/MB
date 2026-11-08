@@ -11,11 +11,12 @@ syllabusSeries: "For first teaching 2015"
 order: 3
 description: "How to prepare for the three AQA A-Level Chemistry 7405 papers: what each covers, Paper 3 multiple choice and practical skills, a worked answer and a checklist."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 ---
 
 AQA A-Level Chemistry (7405) is assessed through three written papers, not tiered: Paper 1 (relevant

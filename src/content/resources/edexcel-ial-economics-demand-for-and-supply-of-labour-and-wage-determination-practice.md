@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "labour-markets-edexcel-alevel-economics"
 description: "Eleven original practice questions with worked answers on labour demand, supply and wages for Pearson Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

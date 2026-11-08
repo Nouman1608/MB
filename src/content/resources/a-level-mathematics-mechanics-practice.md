@@ -29,9 +29,10 @@ syllabusTopics:
     subtopic: "energy-work-and-power-cambridge-alevel-maths"
 description: "Original exam-style Cambridge 9709 Paper 4 Mechanics questions with worked answers on work, power, momentum, kinematics, friction and energy methods."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-09-24
 featured: false
 ---

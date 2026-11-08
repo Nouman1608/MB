@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "business-objectives-and-stakeholder-objectives-0264"
 description: "Study guide to business objectives, stakeholder groups, their aims and how those aims conflict, for Cambridge IGCSE Business 0264, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 1.5 (Business objectives and stakeholder objectives, 1.5.1 and 1.5.2) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. All candidates take Paper 1 (Short Answer and Data Response) and Paper 2 (Case Study), and both papers are based on all the subject content. So expect this topic inside stimulus material and case studies as well as in recall questions. Track your progress with the [course hub](/boards/cambridge/igcse/business/) and the [printable checklist](/checklists/cambridge/igcse/business/). When you finish, use the [revision notes](/resources/igcse-business-0264-business-objectives-and-stakeholder-objectives-revision-notes/) and the [practice questions](/resources/igcse-business-0264-business-objectives-and-stakeholder-objectives-practice/). To find weak spots first, try the [free diagnostics](/diagnostics/).

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
 description: "Condensed notes on energy transfer, pyramids, GPP, NPP, net production N = I - (F + U + R) and farming, with a self-test, for OxfordAQA A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Quick recall for sections 3.3.4.1 and 3.3.4.2 of the OxfordAQA International AS and A-level Biology specification, Version 5.1 (Unit 3, International A-level only). For full explanations use the [study guide](/resources/oxfordaqa-a-level-biology-energy-transfer-productivity-and-farming/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-energy-transfer-productivity-and-farming-practice/), tick off outcomes on the [printable checklist](/checklists/oxfordaqa/a-level/biology/), and see the [course hub](/boards/oxfordaqa/a-level/biology/). The [free diagnostics](/diagnostics/) show which topics need most work.

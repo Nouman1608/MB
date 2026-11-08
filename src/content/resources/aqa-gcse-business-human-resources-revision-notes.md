@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "training-aqa-gcse-business"
 description: "Condensed revision notes for AQA GCSE Business 8132 topic 3.4 Human resources: structures, recruitment, motivation and training, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense topic 3.4 Human resources from the AQA GCSE Business (8132) specification, for first teaching from September 2017. The topic sits within Paper 1, "Influences of operations and HRM on business activity". For full explanations, start with the [study guide](/resources/aqa-gcse-business-human-resources/), then use the [practice questions](/resources/aqa-gcse-business-human-resources-practice/). Related reading: [Business operations](/resources/aqa-gcse-business-business-operations/). Course hub: [/boards/aqa/gcse/business/](/boards/aqa/gcse/business/). Printable checklist: [/checklists/aqa/gcse/business/](/checklists/aqa/gcse/business/). Free [diagnostics](/diagnostics/) show which sections need work.

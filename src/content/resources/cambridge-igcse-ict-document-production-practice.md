@@ -32,9 +32,12 @@ syllabusTopics:
     subtopic: "gutter-margin-t17-0417"
 description: "Original questions and Paper 2 style tasks with answers on page layout, breaks, tabs, lists, find and replace, bookmarks and gutters for IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 17: organising page layout, formatting text, find and replace, navigation with bookmarks and hyperlinks, and the purpose of breaks (pagination) and gutter margins. Document production is assessed practically in Paper 2, so Section C contains practical-style tasks with examiner-style checklists.

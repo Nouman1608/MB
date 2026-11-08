@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "entropy-and-energetics-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 12A Entropy: disorder, system and surroundings, total entropy change, feasibility and kinetic stability."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 12A: Entropy from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 12.1 to 12.11. Pearson places Topic 12 in Unit 4: Rates, Equilibria and Further Organic Chemistry, which is examined at International A2 (IA2) level. Part 12B, [lattice energy](/resources/edexcel-ial-chemistry-lattice-energy/), is a separate part of the same topic and is taught on its own page.

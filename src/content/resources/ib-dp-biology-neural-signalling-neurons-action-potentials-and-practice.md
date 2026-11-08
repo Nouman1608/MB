@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c2-2"
 description: "Original IB DP Biology C2.2 practice questions with worked answers on resting potential, action potentials, synapses, summation, pain and R²."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

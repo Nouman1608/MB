@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c3-1"
 description: "Study guide to IB DP Biology C3.1.11 to C3.1.23: melatonin, epinephrine, pituitary, heart and ventilation feedback, peristalsis, HL plant hormones."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers statements C3.1.11 to C3.1.23 of the IB *Biology guide*, first assessment 2025, for DP Biology. C3.1.11 to C3.1.16 are for both SL and HL. C3.1.17 to C3.1.23 (plant growth regulation) are additional higher level, so they are **HL only** and are marked that way below. The nervous system, brain, spinal cord and reflex statements of C3.1 are taught on other pages.

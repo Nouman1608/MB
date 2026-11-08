@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "globalisation-edexcel-igcse-economics"
 description: "Study guide to globalisation, multinational corporations and foreign direct investment for Edexcel International GCSE Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, and covers section 2.2.1 (globalisation, multinational corporations and foreign direct investment), parts a) to d). The specification sets a single tier of entry, so there is no Higher or Foundation content to separate. The topic sits in Paper 2: Macroeconomics and the Global Economy, which the specification describes as four compulsory questions of 20 marks in 1 hour 30 minutes.

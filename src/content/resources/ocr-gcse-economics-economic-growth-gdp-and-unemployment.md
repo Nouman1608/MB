@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "low-unemployment-ocr-gcse-economics"
 description: "Study guide to growth, GDP per capita, the Claimant Count and the types and effects of unemployment for OCR GCSE (9-1) Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.1 (Economic growth) and 3.2 (Low unemployment) of the OCR GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Both sit in topic 3, Economic objectives and the role of government, which is assessed in Component 02, National and International Economics. The specification has no tiers, so all of this is common content. All figures in this guide are invented for illustration. Country Z is a made-up economy, not a real one.

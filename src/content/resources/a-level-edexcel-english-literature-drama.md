@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "unit-2-pre-1900-and-post-1900-drama-yet01"
 description: "Unit 2 Drama of Pearson Edexcel International A Level English Literature YET01: one pre-1900 and one post-1900 play, completing the International AS."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers **Unit 2: Drama**, the second of two units forming

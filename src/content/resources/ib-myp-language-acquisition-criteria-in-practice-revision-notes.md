@@ -13,9 +13,10 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Revision notes on top-band evidence for the four IB MYP Language Acquisition criteria (listening, reading, speaking, writing), with a worked example for each."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-06
 featured: false
 ---

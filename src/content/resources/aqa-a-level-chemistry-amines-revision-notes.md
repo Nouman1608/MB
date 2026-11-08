@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "amines-7405"
 description: "Condensed AQA A-Level Chemistry amines notes: preparation, base strength order, substitution ladder, amide formation, mechanisms and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **3.3.11 Amines** of the AQA AS and A-level Chemistry specification

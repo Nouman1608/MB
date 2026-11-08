@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "pythagoras-theorem-cambridge-igcse-maths"
 description: "Study guide for Cambridge IGCSE Maths 0580 subtopic 6.1: Pythagoras' theorem by hand and by calculator, with worked examples for Core and Extended."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches subtopic 6.1, Pythagoras’ theorem, from topic 6 (Trigonometry) of the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. The learning outcome is the same in both columns of the syllabus: C6.1 (Core) and E6.1 (Extended) both say "Know and use Pythagoras’ theorem." So everything here is needed whichever tier you sit. Core candidates take Paper 1 (non-calculator) and Paper 3 (calculator); Extended candidates take Paper 2 (non-calculator) and Paper 4 (calculator). Pythagoras can appear on any of the four papers, so you need it both with and without a calculator. The only Extended-only material on this page is giving an answer in surd form, which belongs to E1.18 Surds, and it is labelled where it appears.

@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "france-1774-1814-9489"
 description: "Study guide to Cambridge 9489 History AS topic 1, France 1774-1814: causes of 1789, the road to the Republic, Terror and Directory, Napoleon's rise and fall."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check dates (including revolutionary calendar equivalents) against standard texts and the 9489 2027-2029 syllabus before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check dates (including revolutionary calendar equivalents) against standard texts and the 9489 2027-2029 syllabus before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

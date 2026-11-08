@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "testing-for-biological-molecules-cambridge-alevel"
 description: "Study guide for Cambridge 9700 sub-topic 2.1: food tests, the semi-quantitative Benedict's test and the non-reducing sugar test, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches sub-topic 2.1, Testing for biological molecules, from topic 2 (Biological molecules) of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content, so it is tested on Paper 1 (multiple choice) and Paper 2 (AS Level structured questions), and Paper 4 can draw on it because A Level questions require AS knowledge. The tests are also practical skills: Paper 3 expects you to identify the contents of unknown solutions and to estimate concentrations from qualitative results, and Paper 5 expects you to plan dilutions and controls.

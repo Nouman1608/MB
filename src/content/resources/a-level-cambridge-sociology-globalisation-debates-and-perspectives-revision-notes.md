@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "globalisation-power-and-politics-9699"
 description: "Condensed Cambridge 9699 notes on globalisation 7.1-7.3: key terms, who benefits, convergence versus divergence, democracy and the nation state."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense syllabus heading 7 of Cambridge International A Level Sociology (9699),

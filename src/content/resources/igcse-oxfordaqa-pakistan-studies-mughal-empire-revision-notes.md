@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "mughal-empire-9236"
 description: "Recall notes for 9236 optional topic 3.1.4: each Mughal emperor's achievements, Aurangzeb's reforms, and the causes of decline from Karnal and Plassey to 1858."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **These notes condense optional topic 3.1.4 of OxfordAQA International GCSE Pakistan Studies 9236,

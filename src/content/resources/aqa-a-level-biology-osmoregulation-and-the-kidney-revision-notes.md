@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "homeostasis-aqa-alevel-biology"
 description: "Condensed revision notes for AQA A-level Biology 7402 3.6.4.3: ADH feedback, ultrafiltration, PCT, loop of Henle and collecting duct, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 These notes condense AQA A-level Biology (7402) section 3.6.4.3, Control of blood water potential, from the AQA AS and A-level Biology specification for first teaching 2015. The section is A-level only. For full explanations start with the [study guide](/resources/aqa-a-level-biology-osmoregulation-and-the-kidney/), then use the [practice questions](/resources/aqa-a-level-biology-osmoregulation-and-the-kidney-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). If you are unsure where to begin, take a [free diagnostic](/diagnostics/).
 

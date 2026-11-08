@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "file-size-reduction-t12-0417"
 description: "Original exam-style questions with worked answers on placing, resizing, cropping, flipping and layering images and image file size for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 12: placing and editing an image, and reducing image file size. Topic 12 is mainly assessed through practical tasks in Papers 2 and 3, so Sections A and B are theory questions and Section C has practical-style tasks that you can carry out in your own software, with a checklist of what an examiner would look for.

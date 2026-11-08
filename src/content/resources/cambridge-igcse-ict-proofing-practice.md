@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "proofing-techniques-0417"
 description: "Original exam-style questions with worked answers on spell check, validation checks, verification, double entry and proofreading for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 15: software tools for reducing errors (15.1) and proofing techniques (15.2). They test validation checks, the limits of spell checkers, visual verification and double data entry, proofreading for widows, orphans and split tables, and why validation and verification are both needed.

@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "the-nature-purpose-of-and-liability-in-law-yla1"
 description: "Practice questions with worked answers on rules and law, civil and criminal liability, punishment theories, legal theory and morality for Edexcel IAL Law YLA1."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

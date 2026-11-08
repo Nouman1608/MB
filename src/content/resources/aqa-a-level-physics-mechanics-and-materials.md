@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "materials-aqa-alevel"
 description: "Study guide for AQA A-Level Physics 7408 section 3.4: vectors, moments, motion, momentum, energy, materials and the Young modulus, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 This guide teaches section 3.4, Mechanics and materials, of AQA A-level Physics (7408). It follows the AQA AS and A-level Physics specification (7407/7408), version 1.4, for AS and A-level exams from June 2016 onwards, and covers every sub-section from 3.4.1.1 to 3.4.2.2. Section 3.4 is AS and A-level content (no part of it is A-level only). At A-level it is examined on Paper 1, which covers sections 1 to 5 and 6.1, and it is assumed knowledge for Paper 2; Paper 3 Section A tests practical skills and data analysis, and the written papers assess the two required practicals here. Sections 3.9 to 3.13 are options: you study one, assessed in Paper 3 Section B.

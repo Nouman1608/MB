@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "the-calculation-and-interpretation-of-accounting-ratios-4ac1"
 description: "Condensed Edexcel IGCSE Accounting revision notes on the five ratios, profitability versus liquidity, interpretation phrases and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 Quick recall for the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, Topic 4, section 4.4 "The calculation and interpretation of accounting ratios", points (a) to (c). Full explanations and a two-year worked example are in the [study guide](/resources/edexcel-igcse-accounting-accounting-ratios/); questions to try are in the [practice set](/resources/edexcel-igcse-accounting-accounting-ratios-practice/). Course links: the [4AC1 Accounting hub](/boards/edexcel/igcse/accounting/), the [printable checklist](/checklists/edexcel/igcse/accounting/) and the [free diagnostics](/diagnostics/).

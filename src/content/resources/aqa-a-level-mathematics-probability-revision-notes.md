@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "m-probability-aqa-alevel-maths"
 description: "Condensed revision notes for AQA A-Level Maths probability: rules, independence tests, conditional probability methods and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 For full explanations and longer worked examples, use the

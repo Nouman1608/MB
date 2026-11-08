@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "file-processing-and-exception-handling"
 description: "Notes on paradigms, addressing modes, OOP terms, facts, rules and goals, serial, sequential and random files and exception handling for Cambridge 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These notes condense Topic 20 Further Programming, A Level content in Cambridge International AS & A Level Computer Science 9618: the low-level, imperative, object-oriented and declarative paradigms, and file processing with exception handling. It is examined in Paper 3, and in Paper 4 Practical (except low-level and declarative programming), where object-oriented code and file handling carry many marks.

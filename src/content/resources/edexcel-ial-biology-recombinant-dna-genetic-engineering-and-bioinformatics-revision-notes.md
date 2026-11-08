@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "coordination-response-and-gene-technology-edexcel-alevel-biology"
 description: "Condensed revision notes on recombinant DNA, vectors, selection, microarrays, bioinformatics and GMO risks and benefits for Edexcel IAL Biology (YBI11)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense statements 8.17 to 8.22 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. Topic 8 is part of International A2 (IA2); Topics 1 to 4 are International AS. For full explanations use the [study guide](/resources/edexcel-ial-biology-recombinant-dna-genetic-engineering-and-bioinformatics/), and for exam-style work use the [practice questions](/resources/edexcel-ial-biology-recombinant-dna-genetic-engineering-and-bioinformatics-practice/). See also the [hub](/boards/edexcel/a-level/biology/), the [checklist](/checklists/edexcel/a-level/biology/) and the [free diagnostics](/diagnostics/). PCR is covered in the [PCR and electrophoresis notes](/resources/edexcel-ial-biology-decomposition-pcr-electrophoresis-and-forensic-biology-revision-notes/).

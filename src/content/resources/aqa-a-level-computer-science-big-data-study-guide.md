@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "big-data"
 description: "AQA A Level Computer Science 7517 Big Data study guide: the three Vs, lack of structure, fact-based models, graph schema and functional programming for scale."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check whether the specification lists veracity alongside volume, velocity and variety, and how far it expects fact-based and graph schema modelling to go. 2026-11-08 recheck: checked against spec v1.6 4.11.1 (exactly three Vs; veracity removed); added lack-of-structure point and the three named functional features; please re-review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check whether the specification lists veracity alongside volume, velocity and variety, and how far it expects fact-based and graph schema modelling to go. 2026-11-08 recheck: checked against spec v1.6 4.11.1 (exactly three Vs; veracity removed); added lack-of-structure point and the three named functional features; please re-review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

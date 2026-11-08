@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "standard-costing-and-variance-analysis-oxfordaqa"
 description: "Original OxfordAQA A-level Accounting 3.2.1 practice questions on variances and reconciliations, with fully worked answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

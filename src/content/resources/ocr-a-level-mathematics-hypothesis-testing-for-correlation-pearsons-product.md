@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "statistical-hypothesis-testing-ocr-alevel-maths"
 description: "Study guide to Pearson's product-moment coefficient and the hypothesis test for correlation in OCR A Level Mathematics A, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is for OCR A Level Mathematics A and follows the OCR specification (H240, Version 3.1, August 2026, for first assessment in 2018). It covers specification references 2.05f and 2.05g: what Pearson's product-moment correlation coefficient tells you about a scatter of points, and how to use it as the test statistic in a hypothesis test. Both references sit in the Stage 2 column, so they are **A Level only** and not part of the common AS content. Statistics is assessed in component 02, Pure Mathematics and Statistics. The rest of the hypothesis-testing strand is covered elsewhere, so this guide does not teach the general language of tests, binomial tests or tests on a sample mean.

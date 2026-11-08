@@ -20,9 +20,10 @@ syllabusTopics:
     subtopic: "drama-9275"
 description: "Original exam-style practice questions with worked answer plans on Paper 1 Prose and Drama for OxfordAQA International GCSE English Literature (9275)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-08-26
 featured: false
 ---

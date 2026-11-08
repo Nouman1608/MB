@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "effectiveness-of-macroeconomic-policy-options-cambridge-alevel-economics"
 description: "Condensed revision notes on supply-side, exchange rate and trade policy, policy conflicts and government failure for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Full explanations are in the [study guide](/resources/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade/). These notes cover part of section 10.3 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028: supply-side, exchange rate and international trade policy (10.3.1), problems and conflicts (10.3.2) and government failure (10.3.3). Topic 10 is A Level content only. Fiscal policy, the Laffer curve and monetary policy are in a separate unit.

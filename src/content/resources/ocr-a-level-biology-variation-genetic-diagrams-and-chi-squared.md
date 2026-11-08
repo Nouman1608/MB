@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "patterns-of-inheritance-ocr-alevel-biology"
 description: "Study guide to variation, genetic diagrams, linkage, epistasis, chi-squared and continuous variation for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers section 6.1.2(a) to (d), Patterns of inheritance, of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It teaches variation, genetic diagrams, linkage, epistasis, the chi-squared test, and continuous and discontinuous variation. Use it with the [revision notes](/resources/ocr-a-level-biology-variation-genetic-diagrams-and-chi-squared-revision-notes/) and the [practice questions](/resources/ocr-a-level-biology-variation-genetic-diagrams-and-chi-squared-practice/). See also the [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [checklist](/checklists/ocr/a-level/biology/), the [free diagnostics](/diagnostics/), [variation, adaptation and natural selection](/resources/ocr-a-level-biology-variation-adaptation-and-natural-selection/) and the [practical skills revision notes](/resources/ocr-a-level-biology-practical-skills-revision-notes/).

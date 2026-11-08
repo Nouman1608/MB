@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "the-impact-of-ethical-considerations-oxfordaqa"
 description: "Eleven original practice questions with marked answers on OxfordAQA 9615 section 3.2.10, ethics in accounting, from recall to a 12-mark evaluation."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

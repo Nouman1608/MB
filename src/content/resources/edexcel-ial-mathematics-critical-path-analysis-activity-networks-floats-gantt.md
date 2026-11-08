@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "d1-critical-path-analysis-edexcel-alevel-maths"
 description: "Study guide to activity-on-arc networks, dummies, earliest and latest times, total float, cascade charts and scheduling for Edexcel IAL Maths D1."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches critical path analysis for the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics (YMA01), Specification Issue 3, April 2019. It covers unit D1 (Decision Mathematics 1), section 4, topics 4.1 to 4.4. The specification states that D1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics.

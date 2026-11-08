@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "aids-to-trade-that-support-commerce-7100"
 description: "Advertising, banking, insurance, finance and the six commercial calculations explained with worked examples for Cambridge O Level Commerce 7100 Topic 5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 5.1-5.4 (advertising, banking, insurance, sources of finance and calculations); removed tourism and communication (not Topic 5) and the principles of insurance (not in the syllabus); please review."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 5.1-5.4 (advertising, banking, insurance, sources of finance and calculations); removed tourism and communication (not Topic 5) and the principles of insurance (not in the syllabus); please review; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-08
 featured: false
 ---

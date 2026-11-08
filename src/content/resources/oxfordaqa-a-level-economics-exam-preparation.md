@@ -11,11 +11,12 @@ syllabusSeries: "For first teaching 2020"
 order: 3
 description: "Why OxfordAQA International A-Level Economics 9640 weights each A2 paper at 30% and each AS paper at 20%, plus a worked routine for planning essays."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-09
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 OxfordAQA International A-Level Economics (9640) is modular, with four papers that are **not equally

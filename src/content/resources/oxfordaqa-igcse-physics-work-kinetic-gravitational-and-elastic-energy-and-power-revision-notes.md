@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-and-energy-oxfordaqa"
 description: "Revision notes on work, friction heating, elastic, gravitational and kinetic energy and power for OxfordAQA International GCSE Physics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes condense section 3.2.1, Forces and energy (statements a to f), of the OxfordAQA International GCSE Physics (9203) specification, for exams from May/June 2018. The qualification is untiered. For full explanations and worked examples use the [study guide](/resources/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power/), and for exam-style questions use the [practice set](/resources/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power-practice/).
 

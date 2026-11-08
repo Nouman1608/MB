@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "specialisation-and-trade-ocr-aslevel-economics"
 description: "Condensed revision notes on opportunity cost, the PPC/F, specialisation, the division of labour, money and barter for OCR A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the Opportunity cost and Specialisation and trade topics of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content. The whole specification is A Level; the text labels no content AS or Extension. Full explanations are in the [study guide](/resources/ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade/). All figures are invented.

@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Original practice with full worked answers on directed writing, composition, comprehension and summary for Cambridge O Level English Language 1123, both papers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-2"
 description: "Study guide to IB DP Business Management sections 2.1 and 2.2: the role of HRM, resistance to change, organizational structure terms and charts."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 2.1 (Introduction to human resource management) and 2.2 (Organizational structure) of the IB *Business management guide*, first assessment 2024. Both sections are for SL and HL, apart from one HL-only point in 2.2 that is flagged below. It is written for candidates sitting the examinations that follow this guide.

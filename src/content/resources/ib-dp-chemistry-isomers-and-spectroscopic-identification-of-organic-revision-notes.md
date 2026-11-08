@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-3-2"
 description: "Condensed HL revision notes for IB DP Chemistry Structure 3.2.7 to 3.2.12, with spectroscopy tables, method steps and a checked self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Need the full teaching first? The [study guide](/resources/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic/) explains every idea here with worked examples. These notes compress **Structure 3.2.7 to 3.2.12** of IB Diploma Programme Chemistry, following the IB *Chemistry guide* (first assessment 2025, published February 2023) for exams from 2025 onwards: stereoisomers, mass spectrometry, infrared spectroscopy, ¹H NMR and combined structure work. All of it is additional higher level material, so these notes are **HL only**.

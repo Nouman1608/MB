@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "labour-market-forces-and-government-intervention-cambridge-alevel-economics"
 description: "Condensed revision notes on derived demand, MRP, labour supply and equilibrium wages in perfect markets for Cambridge A Level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense sections 8.3.1 to 8.3.7 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028: labour demand, MRP theory, labour supply and the equilibrium wage in a perfect market. Topic 8 is A Level content, and AS Level content is assumed knowledge. For full explanations, read the [study guide](/resources/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect/), then test yourself with the [practice set](/resources/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect-practice/). Find weak spots with the [free diagnostics](/diagnostics/). Course home: [Cambridge A Level Economics](/boards/cambridge/a-level/economics/). Progress tracker: [checklist](/checklists/cambridge/a-level/economics/). All figures are invented.
 

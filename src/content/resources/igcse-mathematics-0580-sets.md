@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "sets-cambridge-igcse-maths"
 description: "Set notation, listing sets, Venn diagram regions and counting, plus Extended-only three-set diagrams, for Cambridge IGCSE Mathematics 0580 subtopic 1.2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches subtopic 1.2 **Sets** from the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. It covers both columns of the syllabus: **C1.2** (Core, Papers 1 and 3) and **E1.2** (Extended, Papers 2 and 4). Core Venn diagrams are limited to two sets; Extended diagrams can have two or three sets, and Extended adds five extra symbols. Anything marked **Extended only** is not examined on the Core papers. Calculators are not allowed on Papers 1 and 2, and every example here can be done without one.

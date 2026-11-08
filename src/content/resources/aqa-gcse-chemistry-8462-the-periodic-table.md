@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "the-periodic-table-8462"
 description: "AQA GCSE Chemistry 8462 section 4.1.2 taught in depth: periodic table layout, Mendeleev, metals and non-metals, Groups 0, 1 and 7, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **4.1.2 The periodic table** of the AQA GCSE Chemistry (8462) specification, for

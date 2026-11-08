@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "m2-newtons-law-of-motion-oxfordaqa-alevel-maths"
 description: "Study guide to Newton's laws on inclined planes and variable acceleration in 1, 2 and 3 dimensions for OxfordAQA International A-level Maths (9660)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers specification section M2.4 (Newton's Law of Motion) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International A-level (A2) Unit M2 (Mechanics), which is part of the International A-level only and is not examined at International AS. Unit M2 is a written paper of 1 hour 30 minutes, 80 marks, with a calculator allowed. The same unit also contains M2.2 (kinematics with calculus) and M2.3 (statics and forces), which you will use throughout.

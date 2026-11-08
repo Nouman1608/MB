@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "price-elasticity-of-supply-pes"
 description: "Eleven original worked questions on price elasticity of supply, its calculation, determinants and significance, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

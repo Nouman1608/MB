@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "production-of-goods-and-services-0264"
 description: "Condensed revision notes for Cambridge IGCSE Business 0264 section 4.1: productivity, efficiency, lean production, inventory and production methods."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.1, **Production of goods and services**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-production-of-goods-and-services/) first. Test yourself afterwards with the [practice questions](/resources/igcse-business-0264-production-of-goods-and-services-practice/). The [course hub](/boards/cambridge/igcse/business/), the [checklist](/checklists/cambridge/igcse/business/) is printable, and the [free diagnostics](/diagnostics/) find weak spots. All businesses below are invented.

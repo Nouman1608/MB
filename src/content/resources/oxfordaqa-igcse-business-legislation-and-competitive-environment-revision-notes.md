@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "competitive-environment-oxfordaqa-igcse-business"
 description: "Condensed notes on employment, health and safety and consumer law, competition, risk and developing-country advantage for OxfordAQA IGCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.2.5 Legislation and 3.2.6 Competitive environment of the OxfordAQA International GCSE Business (9225) specification, version 3.1, for exams from May/June 2022 onwards. For full explanations and worked cost examples, read the [study guide](/resources/oxfordaqa-igcse-business-legislation-and-competitive-environment/). Then try the [practice questions](/resources/oxfordaqa-igcse-business-legislation-and-competitive-environment-practice/).

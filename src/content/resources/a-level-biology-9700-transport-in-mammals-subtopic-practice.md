@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "the-heart-cambridge-alevel-biology"
 description: "Marked practice questions for Cambridge 9700 sections 8.1-8.3: blood cells, tissue fluid, CO2 transport, the dissociation curve and the cardiac cycle."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

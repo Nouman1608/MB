@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "ecology-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on energy transfer, biomass pyramids, competition, adaptations, extremophiles and parasites for OxfordAQA IGCSE Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 Quick recall notes for OxfordAQA International GCSE Biology, Version 5.2 (for exams May/June 2018 onwards), sections 3.3.1 and 3.3.2. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and/), then try the [practice questions](/resources/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and-practice/). Course hub: [OxfordAQA IGCSE Biology](/boards/oxfordaqa/igcse/biology/). Checklist: [printable checklist](/checklists/oxfordaqa/igcse/biology/). To find weak spots first, use the [free diagnostics](/diagnostics/). Photosynthesis and respiration background is in the [bioenergetics notes](/resources/oxfordaqa-igcse-biology-bioenergetics-revision-notes/).
 

@@ -11,9 +11,10 @@ syllabusCodes: ["9609"]
 order: 1
 description: "Grade thresholds and examiner report notes for Cambridge AS & A Level Business 9609, for every series from March 2020 to November 2025."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-28
 featured: false
 ---

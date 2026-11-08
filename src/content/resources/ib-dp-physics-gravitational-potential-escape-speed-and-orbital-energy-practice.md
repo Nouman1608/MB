@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-1"
 description: "Twelve original IB DP Physics HL questions with worked answers on gravitational potential, escape speed, orbital energy and drag, for D.1 AHL."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

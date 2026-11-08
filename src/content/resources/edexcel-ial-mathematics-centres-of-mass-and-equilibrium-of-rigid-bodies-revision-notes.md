@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "m2-statics-of-rigid-bodies-edexcel-alevel-maths"
 description: "Condensed revision notes with formulas, method steps, a self-test and common slips for centres of mass and rigid-body equilibrium in Edexcel IAL Maths M2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense sections 2 and 5 of unit M2 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics specification, Issue 3, April 2019 (centres of mass 2.1 to 2.3, moments and statics of rigid bodies 5.1 and 5.2). The specification lists M2 as an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics.

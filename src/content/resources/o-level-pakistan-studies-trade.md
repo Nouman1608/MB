@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "trade-2059"
 description: "Study guide to Section 6 Trade of Cambridge O Level Pakistan Studies 2059 Paper 2: exports, imports, GNP and GDP, the balance of trade and trading partners."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Trade is Section 6 of Paper 2 in Cambridge O Level Pakistan Studies 2059.** It asks what Pakistan

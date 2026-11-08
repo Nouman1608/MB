@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "globalisation-free-trade-and-protection-cambridge-igcse-economics"
 description: "Study guide to tariffs, quotas, subsidies and embargoes, the four reasons for protection and its effects, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. It covers sections 6.2.4 to 6.2.6: the methods of protection, the reasons for it and its consequences. The syllabus is not tiered, so everything here is for every candidate. Globalisation, multinational companies and the benefits of free trade (6.2.1 to 6.2.3) are taught elsewhere, so this guide uses free trade only as the starting point to compare against.

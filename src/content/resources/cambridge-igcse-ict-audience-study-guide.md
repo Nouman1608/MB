@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "copyright-0417"
 description: "Matching documents to their audience and understanding copyright law and how software and content are protected, for Cambridge IGCSE ICT 0417 Topic 9."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Every document, presentation or website you make is created for someone. Topic 9 of Cambridge IGCSE ICT 0417 asks you to think about that someone, the **audience**, and to make sure the work is suitable for them. It also asks you to understand **copyright**: you may not simply copy other people's text, images, music or software. Both ideas appear in the practical papers, where you must produce work for a stated audience and use only material you have permission to use, and in the theory paper, where you must explain the reasons and the laws.

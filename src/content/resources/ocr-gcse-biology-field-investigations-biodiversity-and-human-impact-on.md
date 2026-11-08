@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "monitoring-and-maintaining-the-environment-ocr-gcse-biology"
 description: "Study guide to field sampling, biodiversity, conservation and environmental change for OCR GCSE Biology A, with worked examples and data evaluation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide follows the OCR GCSE (9-1) Gateway Science Biology A specification (J247), Version 4.0 (August 2026), topic B6.1 "Monitoring and maintaining the environment", statements B6.1a to B6.1d. Statements B6.1a to B6.1c are assessed in both Foundation and Higher Tier papers. Statement B6.1d is printed in bold in the specification, so it is **Higher Tier only**.

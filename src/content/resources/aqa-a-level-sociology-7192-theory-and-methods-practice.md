@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "theory-and-methods-3-3-2-7192"
 description: "Original AQA A-level Sociology 7192 Theory and Methods questions in 10- and 20-mark styles on positivism, theories, science, values and policy."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

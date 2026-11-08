@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "probability-aqa-gcse-maths"
 description: "Study guide for AQA GCSE Maths 8300 Probability (P1-P9): relative frequency, sample spaces, Venn and tree diagrams, and conditional probability."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches Topic 5, **Probability** (specification references P1 to P9), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Probability can be tested on any of the three papers at Foundation or Higher tier. P1 to P8 are for both tiers; P9, conditional probability, is Higher tier only and is labelled where it appears. Exams run every May/June and November.

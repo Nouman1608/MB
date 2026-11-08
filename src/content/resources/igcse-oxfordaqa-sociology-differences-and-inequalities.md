@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "differences-and-inequalities-9292"
 description: "Social differences, life chances, class theories, patriarchy, ethnicity and reducing inequality: section 3.2.1 of OxfordAQA International GCSE Sociology 9292."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 **3.2.1 Differences and inequalities** is the first topic of Paper 2 (Exploring Sociology) in

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "policy-conflicts-ocr-aslevel-economics"
 description: "Condensed revision notes on policy trade-offs, resolving conflicts, macroeconomic debates and the history of policy approaches for OCR A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the topics **Policy conflicts** and **Approaches to policy and macroeconomic context** (Component 2, Macroeconomics) in the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. For fuller explanations, use the [study guide](/resources/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic/). Then try the [practice questions](/resources/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic-practice/). Other links: the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/), the [Phillips Curve and schools of thought notes](/resources/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought-revision-notes/) and the free [diagnostics](/diagnostics/). All figures are invented.

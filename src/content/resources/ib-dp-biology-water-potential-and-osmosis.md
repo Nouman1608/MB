@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d2-3"
 description: "Study guide to IB DP Biology D2.3: solvation, osmosis, tonicity, cells with and without walls, isotonic solutions and the HL water potential equation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers section D2.3 (Water potential) of the IB *Biology guide*, first assessment 2025, for DP Biology. Statements D2.3.1 to D2.3.7 are for both SL and HL. Statements D2.3.8 to D2.3.11 are additional higher level, so they are HL only and are marked that way below.

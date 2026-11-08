@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "plastic-pollution-0680"
 description: "Practice questions with answers on oil spill causes, impacts, prevention and clean-up, and on plastic types, microplastics and plastic pollution for IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check mark allocations against Cambridge 0680 mark schemes before review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check mark allocations against Cambridge 0680 mark schemes before review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

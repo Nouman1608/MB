@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "component-5-coursework-0475"
 description: "Condensed notes on Cambridge IGCSE Literature in English (0475) Component 5: the two-assignment portfolio, 600–1200 word rule, text choice, AO1–AO4 and levels."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Component 5 is the optional coursework component of Cambridge IGCSE Literature in English (0475): you

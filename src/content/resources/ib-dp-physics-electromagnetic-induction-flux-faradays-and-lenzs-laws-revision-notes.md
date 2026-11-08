@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-4"
 description: "Condensed HL revision notes for IB DP Physics D.4 induction: formulas, Lenz's law method, generator results, a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense **sub-topic D.4, Induction**, from Topic D of the IB Diploma Programme *Physics guide*, first assessment 2025. D.4 is **additional higher level (HL only)**; there is no standard level content. For full explanations and worked examples, read the [study guide](/resources/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws/), then test yourself with the [practice questions](/resources/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws-practice/). Track your progress on the [IB Physics hub](/boards/ib/ib-dp/physics/) and the [printable checklist](/checklists/ib/ib-dp/physics/). To find weak spots first, try the [free 10-minute diagnostics](/diagnostics/).

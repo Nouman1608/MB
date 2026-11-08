@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "non-exam-assessment-9270"
 description: "Planning, researching, writing and reflecting on an independent task for the non-exam assessment route of OxfordAQA International GCSE English Language."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the exact task titles, word limits, controlled conditions, supervision rules, the nature of the commentary, and mark allocation for the non-exam assessment route in the specification, as only general project skills are taught here. 2026-11-08 recheck: FAQ added."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the exact task titles, word limits, controlled conditions, supervision rules, the nature of the commentary, and mark allocation for the non-exam assessment route in the specification, as only general project skills are taught here. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

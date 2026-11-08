@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-3"
 description: "Revision notes for IB DP Chemistry Reactivity 3.3: radical definitions, fish-hook arrows, chain reaction steps, product mixtures and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes compress **Reactivity 3.3, Electron sharing reactions** into quick-recall form, checked against the *Chemistry guide* for the IB Diploma Programme (February 2023 edition, first assessment 2025). Nothing in the sub-topic is left out: they span **Reactivity 3.3.1 to 3.3.3**, all of which are for **SL and HL**; Reactivity 3.3 has no additional higher level understandings. The [study guide](/resources/ib-dp-chemistry-electron-sharing-reactions/) has the full explanations and worked examples.

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "the-market-4bs1"
 description: "Condensed revision notes on market research, data, market share, segmentation and market change for Edexcel International GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Topic 4, sections 4.1 Market research and 4.2 The market, from the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. Read the [study guide](/resources/edexcel-igcse-business-market-research-and-the-market/) for full explanations. Then test yourself with the [practice questions](/resources/edexcel-igcse-business-market-research-and-the-market-practice/). Course links: the [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/), the [printable checklist](/checklists/edexcel/igcse/business/) and the [free diagnostics](/diagnostics/). Both Paper 1 (small business, up to 49 employees) and Paper 2 (large business, more than 250 employees) can draw on this topic. Method strengths and weaknesses, the distinctions table and the market share formula are standard teaching, not specification text. Amounts below are in dollars and the businesses are invented.

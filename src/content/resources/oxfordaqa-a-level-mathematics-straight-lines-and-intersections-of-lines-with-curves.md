@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-coordinate-geometry-oxfordaqa-alevel-maths"
 description: "Study guide to straight lines, parallel and perpendicular lines and line-curve intersections for OxfordAQA International AS and A-level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide covers section P1.2 (Coordinate geometry) of the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2, for International AS exams from May/June 2018 and A-level exams from May/June 2019. The specification places this content in International AS Unit P1 (Pure Maths); it is not split into core and extension parts, and it carries on into the A-level. It is also the algebra you rely on when you meet tangents in differentiation.
 

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-6-3-0495"
 description: "Revision notes for Cambridge IGCSE Sociology 0495 key questions 6.2 and 6.3: crime by age, class, gender and ethnicity, five theories, punishment and policing."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes cover key questions 6.2 and 6.3 from the Crime, deviance and social control topic of

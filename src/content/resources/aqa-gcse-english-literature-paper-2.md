@@ -23,11 +23,12 @@ syllabusTopics:
     subtopic: "section-c-unseen-poetry-8702"
 description: "AQA GCSE English Literature 8702 Paper 2 Modern Texts and Poetry: the modern prose or drama text, the anthology cluster, unseen poetry and the paper's format."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers **Paper 2 Modern Texts and Poetry**, the second of

@@ -24,11 +24,12 @@ syllabusTopics:
     subtopic: "legal-personnel-9084"
 description: "Principles and sources of English law, the machinery of justice and legal personnel -- the opening topic of Cambridge International AS & A Level Law (9084)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 This guide covers **Topic 1 English Legal System**, the first of

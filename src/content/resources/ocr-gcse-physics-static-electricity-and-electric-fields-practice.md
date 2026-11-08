@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "static-and-charge-ocr-gcse"
 description: "Eleven original OCR GCSE Physics A (J249) questions on charge, electron transfer, the electroscope and electric fields, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

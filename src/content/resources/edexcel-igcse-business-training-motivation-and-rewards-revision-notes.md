@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "motivation-and-rewards-4bs1"
 description: "Condensed Edexcel IGCSE Business revision notes on training, Herzberg, Maslow, Taylor, financial and non-financial rewards, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026, Topic 2 sections 2.3 Training and 2.4 Motivation and rewards (points 2.3.1, 2.4.1 and 2.4.2). Full explanations and worked examples are in the [study guide](/resources/edexcel-igcse-business-training-motivation-and-rewards/); questions to try are in the [practice set](/resources/edexcel-igcse-business-training-motivation-and-rewards-practice/). Course links: the [4BS1 Business hub](/boards/edexcel/igcse/business/), the [printable checklist](/checklists/edexcel/igcse/business/) and the [free diagnostics](/diagnostics/). Amounts are in dollars and every business is invented.

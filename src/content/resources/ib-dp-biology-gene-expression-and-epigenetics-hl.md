@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d2-2"
 description: "Study guide to gene expression and epigenetics for IB Diploma Biology HL (guide section D2.2), with worked data examples on mRNA, methylation and twins."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers **gene expression and epigenetics**, section D2.2 (statements D2.2.1 to D2.2.11) of the IB *Biology guide*, first assessment 2025. The whole section is **additional higher level (HL only)**: the guide states that there is no SL content in it. It sits in Theme D, Continuity and change, and builds on what you already know about transcription and translation.

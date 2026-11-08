@@ -17,9 +17,12 @@ syllabusTopics:
     subtopic: "create-label-and-edit-a-graph-or-chart-t16-0417"
 description: "Original exam-style questions and chart tasks with worked answers on chart types, data selection, labels, second axis and scales for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 16: creating, labelling and editing graphs and charts. They test choosing data and chart types, every label named in the syllabus, a second data series and axis, number formats, axis scales and enhancements such as extracting a pie sector. Charts are produced in the practical papers, so Section C gives a practical task with an examiner-style checklist.

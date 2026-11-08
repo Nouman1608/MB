@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "the-market-economy-ocr-aslevel-economics"
 description: "Study guide to scarcity, needs and wants, factors of production, the market economy and the margin for OCR A Level Economics (H460), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers the area of study **Scarcity and choice** in Component 1, Microeconomics: the basic economic problem, the market economy and the concept of the margin. The whole specification is A Level and the text labels no content as AS or Extension. All figures in worked examples are invented and illustrative.

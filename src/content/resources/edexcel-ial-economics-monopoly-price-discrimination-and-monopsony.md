@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-structures-and-contestability-edexcel-alevel-economics"
 description: "Study guide to Edexcel IAL Economics 3.3.3 items 6 and 7: monopoly, natural monopoly, third-degree price discrimination and monopsony, with examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.3.3 Market structures and contestability, item 6 (Monopoly, points a to h) and item 7 (Monopsony, points a and b), of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. The specification calls Unit 3 (Business behaviour) an IAL compulsory unit, and labels it IA2: Units 1 and 2 are the International AS (IAS) units, and Units 3 and 4 are the extra International A2 content. So this topic is full International A Level content only.

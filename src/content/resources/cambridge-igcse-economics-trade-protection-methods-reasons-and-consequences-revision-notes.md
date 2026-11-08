@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "globalisation-free-trade-and-protection-cambridge-igcse-economics"
 description: "Condensed revision notes on protection methods, reasons and consequences, with definitions, calculations and a self-test, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 6.2.4 to 6.2.6 of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026: methods of protection, reasons for protection and consequences of protection. For full explanations and a longer worked example, read the [study guide](/resources/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences/). When you are ready to test yourself, use the [practice questions](/resources/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences-practice/), the [course hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free 10-minute diagnostics](/diagnostics/).

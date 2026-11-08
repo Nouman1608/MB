@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-2-2"
 description: "HL study guide for IB DP Chemistry Reactivity 2.2.6 to 2.2.13: mechanisms, rate equations, orders, units of k and Arrhenius plots, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches the second half of **Reactivity 2.2 (How fast?)** for IB DP Chemistry. Its reference document is the IB's DP *Chemistry guide* (2023 edition, first assessed in 2025), so it applies to exams from 2025 onwards. It covers understandings Reactivity 2.2.6 to 2.2.13, which the guide lists as additional higher level material, so **this whole page is HL only**. The SL and HL groundwork (rates, collision theory, activation energy and catalysts, Reactivity 2.2.1 to 2.2.5) is in the [rates and collision theory study guide](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory/).

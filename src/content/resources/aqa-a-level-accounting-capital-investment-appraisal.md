@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "capital-investment-appraisal"
 description: "Study guide to AQA A-Level Accounting 7127 section 3.13: relevant cash flows, payback, net present value and evaluating projects, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide covers section 3.13, Capital investment appraisal, of the AQA A-level Accounting (7127)

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "indices-ii-cambridge-igcse-maths"
 description: "Study guide to algebraic indices and algebraic fractions (0580 sections 2.3 and 2.4) for Cambridge IGCSE Mathematics, with fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches two subtopics of Topic 2 (Algebra and graphs) in the Cambridge IGCSE Mathematics 0580 syllabus for exams in 2025, 2026 and 2027: **2.4 Indices II** and **2.3 Algebraic fractions**. Indices II appears in both tiers: Core (C2.4) covers positive, zero and negative indices, and Extended (E2.4) adds fractional indices. Algebraic fractions (E2.3) is **Extended only** -- the syllabus lists no Core content at C2.3. Core candidates sit Papers 1 (non-calculator) and 3 (calculator); Extended candidates sit Papers 2 (non-calculator) and 4 (calculator).

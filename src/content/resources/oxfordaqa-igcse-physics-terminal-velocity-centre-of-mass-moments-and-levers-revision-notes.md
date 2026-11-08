@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "moments-and-levers-oxfordaqa"
 description: "Condensed revision notes on terminal velocity, centre of mass, moments and levers for OxfordAQA International GCSE Physics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes condense sections 3.1.6 to 3.1.8 of the OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards. Full explanations and worked examples are in the [study guide](/resources/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers-practice/), tick topics off on the [checklist](/checklists/oxfordaqa/igcse/physics/), and find the rest of the course on the [OxfordAQA Physics hub](/boards/oxfordaqa/igcse/physics/). The wider topic notes are [Forces and Their Effects revision notes](/resources/oxfordaqa-igcse-physics-forces-revision-notes/). For a quick check of weak spots, use the [free diagnostics](/diagnostics/).
 

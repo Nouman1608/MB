@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "unit-4-language-exploration-9670"
 description: "Unit 4 Language Exploration for OxfordAQA 9670: the exam and NEA routes, word counts, and how to design, analyse and write up a language investigation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added both routes' format from spec v5.2 and flagged the two Unit 4b word counts (2,500-3,000 in the overview; about 2,500 in 3.4.2). Check the exact content and format of Unit 4 for both routes (exam and non-exam assessment), including word limits, marks and what the exam paper asks, as only general investigation skills are taught here."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: added both routes' format from spec v5.2 and flagged the two Unit 4b word counts (2,500-3,000 in the overview; about 2,500 in 3.4.2). Check the exact content and format of Unit 4 for both routes (exam and non-exam assessment), including word limits, marks and what the exam paper asks, as only general investigation skills are taught here; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

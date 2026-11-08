@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-4"
 description: "IB DP Chemistry study guide for Reactivity 3.4.1 to 3.4.5: nucleophiles, electrophiles, heterolytic fission, substitution and alkene addition."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This page teaches the opening understandings of Reactivity 3.4 in IB DP Chemistry, the part on nucleophiles, electrophiles and substitution. Its reference is the IB's DP *Chemistry guide*, first assessed in 2025 (the February 2023 edition), and it is written for exam sessions from 2025. We cover Reactivity 3.4.1 to 3.4.5. All five are **SL and HL** content, so every DP chemist needs them. The HL-only understandings (3.4.6 onwards) have their [own page](/resources/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and/).

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "macroeconomic-policy-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on monetary policy for OxfordAQA International AS and A-level Economics, with formulas, chains of reasoning and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense specification section 3.2.4.1 (Monetary policy) of OxfordAQA International AS and A-level Economics (9640), for exams from May/June 2021 (International AS) and May/June 2022 (International A-level). Everything here sits in International AS section 3.2, which the full International A-level also includes. For the explanations behind these notes, use the [study guide](/resources/oxfordaqa-a-level-economics-monetary-policy/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-monetary-policy-practice/), find your gaps with the [free diagnostics](/diagnostics/), and tick off outcomes on the [checklist](/checklists/oxfordaqa/a-level/economics/). The course home page is the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/). All data are invented.
 

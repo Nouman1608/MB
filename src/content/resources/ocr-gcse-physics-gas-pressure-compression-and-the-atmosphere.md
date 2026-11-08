@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "pressure-ocr-gcse"
 description: "Study guide to gas pressure, compression, work done on a gas and atmospheric pressure for OCR GCSE (9-1) Physics A Gateway Science, J249 P1.3a-g."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide follows the OCR *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), for first assessment in 2018. It covers statements P1.3a to P1.3g in topic P1 Matter: pressure in gases and in the atmosphere. Only P1.3e is printed in bold type in the specification, which makes it **Higher Tier only**; the other statements are assessed in both Foundation Tier and Higher Tier. P1.3c to P1.3g are marked in the specification as separate Physics only content (not in Combined Science). Liquid pressure and floating and sinking (P1.3h to P1.3j) are covered elsewhere.
 

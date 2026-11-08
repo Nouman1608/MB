@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "the-impact-of-ethical-considerations-oxfordaqa"
 description: "Study guide to OxfordAQA International A-level Accounting section 3.2.10: ethical principles, governance, audit, regulation and handling wrongdoing."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches section 3.2.10, The impact of ethical considerations, of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. Ethics is **International A-level only**; the specification names it for both Paper 3 (Financial Accounting) and Paper 4 (Accounting for analysis and decision making), so expect ethics in reporting scenarios and in costing or investment scenarios.

@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "the-diversity-of-living-organisms-oxfordaqa-alevel-biology"
 description: "Revision notes for OxfordAQA International AS and A-level Biology (9610) Unit 1 on classification, species, the index of diversity and genetic diversity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 publishedDate: 2026-08-22
 featured: false
 ---

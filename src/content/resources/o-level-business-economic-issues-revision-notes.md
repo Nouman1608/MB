@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "economic-issues"
 description: "Condensed revision notes for Cambridge O Level Business 7115 section 6.1: business cycle, inflation, taxes, spending, interest rates and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense section 6.1, Economic issues, of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026 (points 6.1.1 and 6.1.2). For full explanations and worked examples, read the [study guide](/resources/o-level-business-economic-issues/). When you have revised, try the [practice questions](/resources/o-level-business-economic-issues-practice/), tick off the [printable checklist](/checklists/cambridge/o-level/business/) and look at the [course hub](/boards/cambridge/o-level/business/). If you are unsure where to start, use a [free diagnostic](/diagnostics/). The wider unit also has a [topic-level practice set](/resources/o-level-business-external-influences-practice/).
 

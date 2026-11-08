@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "p1-integration-edexcel-alevel-maths"
 description: "Condensed revision notes for Edexcel International Advanced Level Maths P1 differentiation and integration of powers of x, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense Unit P1: Pure Mathematics 1, sections 4.1 to 4.3 and 5.1 to 5.2 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). P1 is a compulsory unit for IAS and IAL Mathematics and Pure Mathematics, as the specification states. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients/).

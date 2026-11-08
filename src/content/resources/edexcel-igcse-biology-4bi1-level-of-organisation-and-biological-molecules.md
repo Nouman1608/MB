@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "biological-molecules-4bi1"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 points 2.1 and 2.7-2.14B: levels of organisation, food molecules, food tests and enzymes."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches sub-topics 2(a) **Level of organisation** (point 2.1) and 2(c) **Biological molecules** (points 2.7–2.14B) of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Point 2.14B is printed in bold with a **B** reference, so it is examined on Paper 2 only; everything else can appear on either paper. It applies to the June and November series examined under Issue 3.

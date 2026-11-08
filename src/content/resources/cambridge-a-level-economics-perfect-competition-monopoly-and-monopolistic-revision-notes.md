@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "different-market-structures-cambridge-alevel-economics"
 description: "Condensed revision notes on revenue curves, profit, shutdown price, firm supply and X-inefficiency for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for Cambridge International AS & A Level Economics, syllabus for examination in 2026, 2027 and 2028, section 7.6.4 (part): revenue curves, output and profit, shutdown price, the competitive supply curve, and efficiency and X-inefficiency. The syllabus places topics 7 to 11 at A Level, so this unit is not examined at AS. Full explanations are in the [study guide](/resources/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic/). Test yourself with the [practice set](/resources/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic-practice/), check progress on the [checklist](/checklists/cambridge/a-level/economics/), and see the [course hub](/boards/cambridge/a-level/economics/). The free [diagnostics](/diagnostics/) show which topics need work. All figures are invented.

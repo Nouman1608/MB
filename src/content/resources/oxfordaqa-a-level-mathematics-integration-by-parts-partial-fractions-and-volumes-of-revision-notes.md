@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-integration-oxfordaqa-alevel-maths"
 description: "Condensed revision notes on integration by parts, partial fractions and volumes of revolution, with a self-test, for OxfordAQA International A-level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense section P2.7 (the second part of Integration) of the *OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2*: integration by parts, partial fractions and volumes of revolution. The content is part of Unit P2 (Pure Maths) in the International A-level and is not examined at International AS. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-mathematics-integration-by-parts-partial-fractions-and-volumes-of/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-integration-by-parts-partial-fractions-and-volumes-of-practice/).

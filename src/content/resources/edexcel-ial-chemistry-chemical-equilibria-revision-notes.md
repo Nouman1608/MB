@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "chemical-equilibria-ych11"
 description: "Condensed Edexcel IAL Chemistry Topic 13 notes: Kc and Kp rules, units, temperature and K, ΔStotal = R lnK and extent, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes are the short version. Every idea here is explained step by step, with longer examples, in the [chemical equilibria study guide](/resources/edexcel-ial-chemistry-chemical-equilibria/).

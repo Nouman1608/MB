@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c3-1-introducing-chemical-reactions-j248"
 description: "Original practice questions with marked, worked answers for OCR GCSE Chemistry A (J248) C3.1: equations, moles, mass changes and limiting reactants."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

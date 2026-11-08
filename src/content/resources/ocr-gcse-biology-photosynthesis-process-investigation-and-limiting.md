@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "photosynthesis-ocr-gcse-biology"
 description: "Study guide to OCR GCSE (9-1) Biology A (J247) Topic B1.4: the photosynthesis equation, practicals and limiting factors, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers OCR GCSE (9-1) Biology A, Gateway Science (J247), Topic B1.4 Photosynthesis, statements B1.4a to B1.4f. It follows the OCR specification, Version 4.0 (August 2026), for first assessment in 2018. Statement B1.4f, the interaction of limiting factors, is printed in bold in the specification and is tested only in the Higher Tier papers. Everything else here is for both tiers.

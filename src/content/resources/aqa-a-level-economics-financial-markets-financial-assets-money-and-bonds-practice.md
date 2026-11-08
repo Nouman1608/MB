@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "financial-markets-and-monetary-policy-aqa-alevel-economics"
 description: "Original AQA A-level Economics practice questions with worked answers on money, narrow and broad money, financial markets, debt, equity and bond yields."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

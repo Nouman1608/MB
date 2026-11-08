@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c5-3-equilibria-j248"
 description: "Condensed OCR GCSE Chemistry A (J248) C5.3 notes: reversible reactions, dynamic equilibrium, Le Chatelier rules, rate graphs and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 For full explanations and longer worked examples, use the [Equilibria study guide](/resources/ocr-gcse-chemistry-equilibria/).

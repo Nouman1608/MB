@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-2-1"
 description: "Study guide for IB DP Chemistry Reactivity 2.1: balanced equations, reacting masses and volumes, limiting reactants, percentage yield and atom economy."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches Reactivity 2.1, "How much? The amount of chemical change", for IB DP Chemistry. It is aligned to the IB's DP Chemistry guide for first assessment 2025 (issued February 2023) and covers understandings Reactivity 2.1.1 to Reactivity 2.1.5. No additional higher level (AHL) material is listed for this sub-topic, so every section is for SL and HL alike, in exam sessions from 2025 onwards.

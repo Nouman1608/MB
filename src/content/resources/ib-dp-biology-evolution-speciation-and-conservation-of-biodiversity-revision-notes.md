@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a4-2"
 description: "Condensed IB DP Biology revision notes for A4: evolution evidence, speciation, biodiversity loss and conservation, with a self-test and HL points marked."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense sections A4.1 (Evolution and speciation) and A4.2 (Conservation of biodiversity) of the IB *Biology guide*, first assessment 2025, for final-weeks recall. A4.1.8 to A4.1.11 are additional higher level and marked **HL only**; everything else is SL and HL. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity/), then test yourself with the [practice questions](/resources/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity-practice/). Course pages: [IB Biology hub](/boards/ib/ib-dp/biology/), [printable checklist](/checklists/ib/ib-dp/biology/) and [free 10-minute diagnostics](/diagnostics/).

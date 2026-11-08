@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-b-2"
 description: "Study guide to emissivity, albedo, the solar constant, greenhouse gases and equilibrium temperature energy balance for IB DP Physics B.2."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This study guide follows the IB *Physics guide*, first assessment 2025, and covers all of topic B.2 (Greenhouse effect) in the theme on the particulate nature of matter. It applies to Standard Level and Higher Level alike: the guide sets no extra content for Higher Level alone in B.2. B.2 builds on the radiation ideas in B.1, so if the Stefan-Boltzmann law is new to you, read the [B.1 study guide on conduction, convection and thermal radiation](/resources/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan/) first.

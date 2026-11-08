@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "pp1-trigonometry-oxfordaqa-alevel-maths"
 description: "Study guide to the sine and cosine rules, triangle area, radians, arc length, sector area and trig graphs for OxfordAQA International AS and A-level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide is written for the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the first part of content statement PP1.2 (Trigonometry): the sine and cosine rules, the area of a triangle, degree and radian measure, arc length and sector area, and the sine, cosine and tangent graphs. The specification files this content under International AS Unit PSM1 (section 3.2, PP1). Solving trigonometric equations and the identities are taught separately.
 

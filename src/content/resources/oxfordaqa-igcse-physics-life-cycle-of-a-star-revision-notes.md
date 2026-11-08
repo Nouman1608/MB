@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "life-cycle-of-a-star"
 description: "Condensed revision notes on the life cycle of a star for OxfordAQA International GCSE Physics, with a quick self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These revision notes cover section 3.8.1 (Life cycle of a star, statements a to i) of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. The qualification is untiered. For full explanations and the longer worked examples, read the [study guide](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star-practice/). Related pages: the [OxfordAQA IGCSE Physics hub](/boards/oxfordaqa/igcse/physics/), the [printable checklist](/checklists/oxfordaqa/igcse/physics/) and the [10-minute diagnostics](/diagnostics/).
 

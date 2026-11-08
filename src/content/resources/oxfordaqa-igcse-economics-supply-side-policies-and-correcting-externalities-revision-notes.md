@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-the-government-manages-the-economy-oxfordaqa-igcse-economics"
 description: "Condensed revision notes on supply-side policies and policies for externalities in OxfordAQA International GCSE Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Policies to correct positive and negative externalities) of the OxfordAQA International GCSE Economics (9214) specification, first teaching September 2023, first examined May/June 2025. The course is not tiered. Both sections are part of Paper 2, "How economies work". For full explanations use the [study guide](/resources/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities/). Then test yourself with the [practice set](/resources/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities-practice/), check the [course hub](/boards/oxfordaqa/igcse/economics/) and [checklist](/checklists/oxfordaqa/igcse/economics/), revisit [government objectives](/resources/igcse-oxfordaqa-economics-government-objectives/), and take a [free diagnostic](/diagnostics/). All figures are invented and illustrative.

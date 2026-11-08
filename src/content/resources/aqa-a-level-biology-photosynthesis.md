@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "photosynthesis-aqa-alevel-biology"
 description: "Study guide to photosynthesis for AQA A-level Biology 7402: both stages, limiting factors, agricultural data and required practicals 7 and 8."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches section 3.5.1 (Photosynthesis) of the AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015. Section 3.5 is A-level only, so none of this is examined at AS. It also covers required practicals 7 and 8. Use the [revision notes](/resources/aqa-a-level-biology-photosynthesis-revision-notes/) for recall and the [practice questions](/resources/aqa-a-level-biology-photosynthesis-practice/) to test yourself. Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/), [printable checklist](/checklists/aqa/a-level/biology/) and [free diagnostics](/diagnostics/).

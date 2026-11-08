@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "cellular-control-ocr-alevel-biology"
 description: "Condensed revision notes on mutations, the lac operon, mRNA processing, cAMP, Hox genes, mitosis and apoptosis for OCR A Level Biology A (H420), 6.1.1."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed notes for OCR A Level Biology A (H420), written to the OCR specification Version 4.1 (April 2026), for first assessment in 2025. They cover module 6.1.1 Cellular control, learning outcomes (a) to (d). The full explanations and worked examples are in the [study guide](/resources/ocr-a-level-biology-gene-mutations-and-control-of-gene-expression/). When you are ready, try the [practice set](/resources/ocr-a-level-biology-gene-mutations-and-control-of-gene-expression-practice/). Course pages: the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/). The free [10-minute diagnostics](/diagnostics/) show which topics to prioritise. Codon background: [the genetic code, transcription and translation](/resources/ocr-a-level-biology-the-genetic-code-transcription-and-translation/).

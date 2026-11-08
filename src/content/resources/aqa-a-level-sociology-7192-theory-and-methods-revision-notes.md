@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "theory-and-methods-3-3-2-7192"
 description: "Condensed AQA A-level Sociology 7192 Theory and Methods notes: methods, social facts, major theories, post-modernity, science, value freedom and social policy."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense AQA A-level Sociology (7192) Theory and Methods, the identical content listed

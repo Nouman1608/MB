@@ -18,8 +18,12 @@ syllabusTopics:
     topic: "index-numbers-0479"
 description: "Practice questions with worked answers on price relatives and weighted aggregate index numbers: O Level Statistics 4040 Topic 8 and IGCSE 0479 Topic 10."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

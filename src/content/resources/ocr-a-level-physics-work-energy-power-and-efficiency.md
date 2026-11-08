@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "work-energy-and-power-ocr-alevel"
 description: "A study guide to work, kinetic and potential energy, power and efficiency for OCR A Level Physics A (H556), with derivations and worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers section 3.3 (Work, energy and power) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017: 3.3.1 work and conservation of energy, 3.3.2 kinetic and potential energies, and 3.3.3 power. H556 is the full A level.
 

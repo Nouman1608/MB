@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "coordinate-geometry-in-the-xy-plane-ocr-alevel-maths"
 description: "Condensed revision notes on lines, gradients, line models, circle equations and tangents for OCR A Level Mathematics A (H240), with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense OCR A Level Mathematics A (H240) content references 1.03a to 1.03f (straight lines and circles) from the OCR specification, Version 3.1 (August 2026). All of it is Stage 1, common to AS and A Level. The [study guide](/resources/ocr-a-level-mathematics-straight-lines-and-circles/) has the full explanations and longer examples. Test yourself with the [practice set](/resources/ocr-a-level-mathematics-straight-lines-and-circles-practice/), tick topics off on the [checklist](/checklists/ocr/a-level/mathematics/), see the [course hub](/boards/ocr/a-level/mathematics/) and try the [free diagnostics](/diagnostics/). Parametric equations (1.03g, 1.03h) are not covered here.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d3-2"
 description: "Condensed IB DP Biology D3.2.1-D3.2.15 revision notes: key terms, cross and pedigree methods, sex linkage, box plots and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed notes for D3.2.1 to D3.2.15 (Inheritance, first part) in the IB *Biology guide*, first assessment 2025, for DP Biology. Everything here is SL and HL. Full explanations are in the [study guide](/resources/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and/); test yourself with the [practice questions](/resources/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and-practice/). Course hub: [/boards/ib/ib-dp/biology/](/boards/ib/ib-dp/biology/). Checklist: [/checklists/ib/ib-dp/biology/](/checklists/ib/ib-dp/biology/). Check your readiness with the [free diagnostics](/diagnostics/).

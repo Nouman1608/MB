@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "probability"
 description: "Condensed revision notes for all of Probability in Cambridge O Level Mathematics 4024: formulas, methods, a quick self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These revision notes are aligned to the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027, and cover topic 8, Probability, sections 8.1 to 8.3. The syllabus is not tiered. For full explanations and worked examples, read the [study guide](/resources/o-level-mathematics-probability/) first, then test yourself on the [practice questions](/resources/o-level-mathematics-probability-practice/). Track progress with the [course hub](/boards/cambridge/o-level/mathematics/), the printable [checklist](/checklists/cambridge/o-level/mathematics/) and the free 10-minute [diagnostics](/diagnostics/).
 

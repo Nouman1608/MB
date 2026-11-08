@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "government-failure-ocr-aslevel-economics"
 description: "OCR A Level Economics study guide to government intervention, cost benefit analysis and government failure, with worked calculations and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR A Level Economics (H460) specification, Version 3.0 (June 2026), for first assessment in 2021. It covers two topics in Component 1 (Microeconomics) under the area of study "Market failure and government intervention": "Alternative methods of government intervention" and "Government failure". All figures are invented; the countries are fictional.

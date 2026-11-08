@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "m1-motion-variable-acceleration-oxfordaqa-alevel-maths"
 description: "Condensed notes and a self-test on straight-line kinematics with constant and variable acceleration for OxfordAQA International AS Maths 9660 (M1.1, M1.2)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These are condensed notes for sections M1.1 and M1.2 of OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, which belong to International AS Unit PSM1. For the full explanations and longer worked examples, use the [study guide](/resources/oxfordaqa-a-level-mathematics-kinematics-in-a-straight-line-constant-and-variable/). When you are ready, test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-kinematics-in-a-straight-line-constant-and-variable-practice/).

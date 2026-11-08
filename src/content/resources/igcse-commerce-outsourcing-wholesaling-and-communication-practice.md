@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "communication-0715-commerce"
 description: "Practice questions with answers on contract manufacturing and logistics, wholesalers, cash and carry, voluntary chains and communication for IGCSE 0715."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check mark allocations against Cambridge 0715 specimen mark schemes before review."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check mark allocations against Cambridge 0715 specimen mark schemes before review; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-08
 featured: false
 ---

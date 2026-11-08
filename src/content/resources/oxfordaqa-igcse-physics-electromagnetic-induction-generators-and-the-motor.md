@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-motor-effect-oxfordaqa-igcse"
 description: "Study guide to the generator effect, alternators, dynamos, power station generators and the motor effect for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards. It covers specification sections 3.6.1 (Generating electricity) and 3.6.4 (The motor effect). The qualification is untiered, so the same content applies to every candidate. Use it with the [revision notes](/resources/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor-practice/). The course hub is at [OxfordAQA International GCSE Physics](/boards/oxfordaqa/igcse/physics/), the printable [checklist](/checklists/oxfordaqa/igcse/physics/) lists every statement, and the [free diagnostics](/diagnostics/) show you where to start. For general exam technique, see the [exam preparation guide](/resources/oxfordaqa-igcse-physics-exam-preparation/).

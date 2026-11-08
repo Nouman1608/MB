@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "depth-study-d-usa-0470"
 description: "Study guide to Cambridge IGCSE History 0470 Depth Study D, the USA 1919-41: the 1920s boom, Prohibition and intolerance, the Wall Street Crash and the New Deal."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check statistics (unemployment, car output, election results) against standard texts and the 0470 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check statistics (unemployment, car output, election results) against standard texts and the 0470 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain. 2026-11-08 recheck: description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

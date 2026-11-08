@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "price-elasticity-of-supply-cambridge-igcse-economics"
 description: "Condensed revision notes on PED and PES: formulas, diagrams, determinants, revenue rules and significance, with a self-test, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense sections 2.7 and 2.8 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. The [study guide](/resources/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and/) for this unit has the full explanations and longer worked examples. Check recall with the [practice questions](/resources/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and-practice/). Also useful: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/), the broader [Topic 2 revision notes](/resources/igcse-economics-allocation-of-resources-revision-notes/) and the [free diagnostics](/diagnostics/). Every name and figure here is made up.

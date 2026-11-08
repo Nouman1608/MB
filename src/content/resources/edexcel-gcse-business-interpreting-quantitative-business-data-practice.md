@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "understanding-business-data-1bs0"
 description: "Original practice questions with worked answers on graphs, financial, marketing and market data and the limits of financial information."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

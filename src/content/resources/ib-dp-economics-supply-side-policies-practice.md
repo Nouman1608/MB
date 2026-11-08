@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-7"
 description: "Eleven original practice questions with worked answers on IB DP Economics sub-topic 3.7 Supply-side policies, from definitions to extended evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

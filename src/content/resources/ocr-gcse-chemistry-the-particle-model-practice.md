@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c1-1-particle-model-j248"
 description: "Twelve original OCR J248 questions on states of matter, physical and chemical change and the particle model's limits, with fully marked answers."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

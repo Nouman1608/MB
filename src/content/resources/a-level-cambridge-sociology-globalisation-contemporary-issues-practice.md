@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "globalisation-and-crime-9699"
 description: "Original 9699 Paper 4 style essays on globalisation and life chances, transnational aid, who gains from migration and global crime, with indicative content."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

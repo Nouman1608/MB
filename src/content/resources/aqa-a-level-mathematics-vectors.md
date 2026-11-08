@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "j-vectors-aqa-alevel-maths"
 description: "Study guide for AQA A-level Maths (7357) Section J: vectors in 2D and 3D, magnitude and direction, position vectors, geometry, forces and kinematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches **Section J: Vectors (J1 to J5)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section J under **Paper 2**, alongside the mechanics sections, so vectors are examined there. A calculator is required in every 7357 paper, but "show that" and geometric proof questions still need every step written out.

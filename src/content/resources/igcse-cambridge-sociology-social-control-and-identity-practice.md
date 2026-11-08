@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-2-3-0495"
 description: "Original Cambridge IGCSE Sociology 0495 Question 2 style practice on social control, sanctions, resistance, digital identity and globalisation, with answers."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

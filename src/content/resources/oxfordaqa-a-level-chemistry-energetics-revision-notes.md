@@ -26,8 +26,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-4-4"
 description: "Condensed OxfordAQA 9620 energetics notes: enthalpy definitions, q = mc∆T, Hess's law cycles, mean bond enthalpies, a self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes are aligned to the OxfordAQA *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams from May/June 2020 onwards. They cover section 3.1.4 (enthalpy change, calorimetry, applications of Hess's law and bond enthalpies, numbered 3.1.4.1 to 3.1.4.4), which the specification labels as International AS content. For full explanations read the [Energetics study guide](/resources/oxfordaqa-a-level-chemistry-energetics/), then test yourself with the [Energetics practice questions](/resources/oxfordaqa-a-level-chemistry-energetics-practice/). Later A-level work extends the ideas in [Thermodynamics](/resources/oxfordaqa-a-level-chemistry-thermodynamics/). The course page is [OxfordAQA A-level Chemistry](/boards/oxfordaqa/a-level/chemistry/), the printable list is the [checklist](/checklists/oxfordaqa/a-level/chemistry/), and the [free diagnostics](/diagnostics/) show where to start.

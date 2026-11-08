@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p4-integration-edexcel-alevel-maths"
 description: "Eleven original practice questions with worked answers on volumes of revolution, separable differential equations and parametric areas, Edexcel IAL Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-differentiation-oxfordaqa-alevel-maths"
 description: "Study guide to OxfordAQA 9660 differentiation: gradients, rational powers, tangents, normals, stationary points, second derivatives and optimisation."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers specification section P1.3 (Differentiation) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The content belongs to International AS Unit P1 (Pure Maths), which also counts towards the International A-level. The series line on this page reads: International AS exams from May/June 2018, A-level from May/June 2019. The spec labels no part of P1.3 as Core, Extension or Higher.

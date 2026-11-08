@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "stimuli-are-detected-and-lead-to-a-response-aqa-alevel-biology"
 description: "Original practice questions with worked answers on IAA, taxes, kineses, reflexes, the Pacinian corpuscle and retina for AQA A-level Biology 7402 3.6.1."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "networking-and-cyber-security"
 description: "Condensed OxfordAQA A-Level Computer Science revision notes on networking and cyber security, with method steps, key contrasts and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 Every idea here is taught in full, with worked examples, in the [study guide](/resources/oxfordaqa-a-level-computer-science-networking-and-cyber-security/). These notes condense section 3.14 (Networking and cyber security) of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. Treat every line as International A-level only content; it sits in Unit 4, the written paper on sections 3.12 to 3.16.
 

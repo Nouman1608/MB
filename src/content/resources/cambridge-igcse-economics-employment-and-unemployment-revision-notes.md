@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "employment-and-unemployment-cambridge-igcse-economics"
 description: "Condensed revision notes on employment and unemployment for Cambridge IGCSE Economics: definitions, formula, types, consequences, policies and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.7 of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. The syllabus is not tiered. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-igcse-economics-employment-and-unemployment/); then test yourself with the [practice questions](/resources/cambridge-igcse-economics-employment-and-unemployment-practice/). Also useful: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/). All countries and figures here are invented.

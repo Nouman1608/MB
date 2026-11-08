@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-carbonyls-carboxylic-acids-and-chirality-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 15C-15D: naming carboxylic acids, acyl chlorides and esters, their reactions, hydrolysis and polyesters."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches parts 15C (Carboxylic acids) and 15D (Carboxylic acid derivatives) of Topic 15 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Learning outcomes 15.9 to 15.16 are all here. The content is International A2 (IA2); Pearson places it in Unit 4: Rates, Equilibria and Further Organic Chemistry. Alcohol oxidation from Unit 2 comes back here.

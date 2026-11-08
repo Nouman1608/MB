@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "biodiversity-ocr-alevel-biology"
 description: "Condensed revision notes on biodiversity levels, sampling, Simpson's Index and genetic diversity for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section 4.2.1(a) to (e) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), first assessment 2025. The [study guide](/resources/ocr-a-level-biology-measuring-biodiversity/) gives the full explanations and extra worked examples. When you can recall everything below, try the [practice questions](/resources/ocr-a-level-biology-measuring-biodiversity-practice/), tick off topics on the [printable checklist](/checklists/ocr/a-level/biology/), and see the [OCR A Level Biology hub](/boards/ocr/a-level/biology/). The [free diagnostics](/diagnostics/) help you find weak spots.

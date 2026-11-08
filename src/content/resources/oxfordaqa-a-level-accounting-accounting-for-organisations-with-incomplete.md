@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "accounting-for-organisations-with-incomplete-records-oxfordaqa"
 description: "OxfordAQA A-level Accounting 9615 study guide to 3.2.4: statements of affairs, total, cash and bank accounts, ratios and disposals with incomplete records."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide teaches section 3.2.4, Accounting for organisations with incomplete records, of the

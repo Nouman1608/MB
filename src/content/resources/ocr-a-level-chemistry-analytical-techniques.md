@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-4-2-4"
 description: "Study guide to OCR A Level Chemistry A 4.2.4: infrared spectra, greenhouse gases, breathalysers, mass spectra and combining data to find structures."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches 4.2.4 Analytical techniques from the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It is part of Module 4, Core organic chemistry, and all of 4.2.4(a) to (h) is taught here (H432 is the full A level). The assessment overview in the specification gives Component 02 (Synthesis and analytical techniques) as assessing modules 1, 2, 4 and 6, and Component 03 (Unified chemistry) as assessing all six modules. This section has no PAG link.

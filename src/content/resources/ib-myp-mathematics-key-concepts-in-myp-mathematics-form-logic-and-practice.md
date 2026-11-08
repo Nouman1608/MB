@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "ib-myp-mathematics-key-concepts"
 description: "Original practice questions with worked answers on MYP mathematics key concepts: form, logic, relationships, statements of inquiry and inquiry questions."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

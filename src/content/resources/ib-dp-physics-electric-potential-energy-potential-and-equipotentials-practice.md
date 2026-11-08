@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-2"
 description: "Original HL practice questions for IB DP Physics D.2 on electric potential energy, potential, potential gradient, work done and equipotentials."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

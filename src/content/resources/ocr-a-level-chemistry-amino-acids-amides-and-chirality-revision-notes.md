@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-6-2-2"
 description: "Revision notes for OCR A Level Chemistry A 6.2.2: RCH(NH2)COOH reactions, primary vs secondary amides, chiral centres, 3-D diagrams and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 6.2.2, Amino acids, amides and chirality, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. Full explanations sit in the [study guide](/resources/ocr-a-level-chemistry-amino-acids-amides-and-chirality/). The notes cover all four outcomes, 6.2.2(a) to (d), from Module 6, Organic chemistry and analysis, which the assessment overview places in components 02 and 03. H432 is the full A level, and no PAG is listed for this section.

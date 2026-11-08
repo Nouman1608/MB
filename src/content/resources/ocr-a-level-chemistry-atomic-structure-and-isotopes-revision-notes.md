@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-1-2"
 description: "Revision notes for OCR A Level Chemistry A 2.1.1 and 2.1.2: isotopes, relative masses, mass spectra, ionic formulae, balanced and ionic equations."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Read the [2.1.1 study guide](/resources/ocr-a-level-chemistry-atomic-structure-and-isotopes/) and the [2.1.2 study guide](/resources/ocr-a-level-chemistry-compounds-formulae-and-equations/) for the full explanations. These notes are the short version for the final weeks.

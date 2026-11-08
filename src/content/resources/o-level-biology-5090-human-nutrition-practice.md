@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "human-nutrition"
 description: "Original practice questions with marked answers on O Level Biology 5090 human nutrition, from deficiency diseases and teeth to bile and villi."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

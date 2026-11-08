@@ -63,12 +63,13 @@ syllabusTopics:
     subtopic: "exponential-growth-and-decay-cambridge-igcse-maths"
 description: "Recall notes on sets, fractions, percentages, ratio, indices, standard form, bounds, rates, calculator use, time and money for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

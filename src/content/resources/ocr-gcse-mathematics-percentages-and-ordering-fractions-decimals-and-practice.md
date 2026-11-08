@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ordering-fractions-decimals-and-percentages-ocr-gcse-maths"
 description: "Original OCR GCSE Mathematics practice questions with fully worked answers on percentages, multipliers, reverse percentages, simple interest and ordering."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

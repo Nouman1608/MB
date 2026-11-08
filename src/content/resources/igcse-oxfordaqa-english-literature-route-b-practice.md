@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "non-exam-assessment-route-b-9275"
 description: "Original OxfordAQA 9275 Route B practice: a Paper 2b anthology question, an original unseen poem and prose NEA tasks, with AO1–AO3 indicative content."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

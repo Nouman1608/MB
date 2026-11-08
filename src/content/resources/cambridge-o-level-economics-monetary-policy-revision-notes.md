@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "monetary-policy"
 description: "Condensed revision notes on monetary policy for Cambridge O Level Economics 2281: definitions, measures, effects on aims and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes shorten Monetary policy, sections 4.4.1 to 4.4.3, from the Cambridge O Level Economics 2281 syllabus for examination in 2026 (topic 4, Government and the macroeconomy). The syllabus is not tiered. Full explanations and more worked examples are in the [study guide](/resources/cambridge-o-level-economics-monetary-policy/); test yourself with the [practice set](/resources/cambridge-o-level-economics-monetary-policy-practice/). Use the course [hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the free [diagnostics](/diagnostics/) to plan the rest of your revision. All figures here are made up.

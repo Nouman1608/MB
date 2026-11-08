@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "manipulating-genomes-ocr-alevel-biology"
 description: "Condensed revision notes on DNA sequencing, bioinformatics, DNA profiling, PCR and electrophoresis for OCR A Level Biology A (H420), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes are for OCR A Level Biology A (H420), written to the OCR specification Version 4.1 (April 2026), for first assessment in 2025. They cover module 6.1.3 learning outcomes (a) to (e): sequencing, bioinformatics, DNA profiling, PCR and electrophoresis. Full explanations and worked examples are in the [study guide](/resources/ocr-a-level-biology-dna-sequencing-profiling-pcr-and-electrophoresis/), and exam-style questions are in the [practice set](/resources/ocr-a-level-biology-dna-sequencing-profiling-pcr-and-electrophoresis-practice/). Course pages: [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the free [10-minute diagnostics](/diagnostics/).

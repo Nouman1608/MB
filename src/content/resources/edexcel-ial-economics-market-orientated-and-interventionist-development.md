@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "growth-and-development-in-developing-emerging-and-developed-economies-edexcel-alevel-economics"
 description: "Study guide to market-orientated and interventionist development strategies for Edexcel International Advanced Level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide is aligned to the *Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics* specification (YEC11 for the full International Advanced Level), Issue 2, June 2018. It covers section 4.3.6 item 3, points a and b: the impact of market-orientated strategies and of interventionist strategies on growth and development. The specification labels Units 1 and 2 as the International AS and Units 3 and 4 as the extra International A2 content, so this material sits in Unit 4, Developments in the global economy, which is compulsory for the full International A Level only. Every figure below is invented and fictional.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-sequences-and-series-edexcel-alevel-maths"
 description: "Study guide to sequences and series in Pearson Edexcel IAL Mathematics Unit P2: arithmetic, geometric, sigma notation and the binomial expansion."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches section 4 (topics 4.1 to 4.5) of Unit P2: Pure Mathematics 2 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification states that P2 is a compulsory unit for both IAS Mathematics and IAL Mathematics (and Pure Mathematics), so there is no optional route around it. The specification also says knowledge of P1 may be tested, so keep your P1 algebra sharp.

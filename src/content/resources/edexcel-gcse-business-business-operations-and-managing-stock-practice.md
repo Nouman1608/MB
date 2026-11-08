@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "managing-stock-and-working-with-suppliers-1bs0"
 description: "Twelve original questions with worked answers on production processes, technology, stock graphs, JIT and suppliers for Edexcel GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-2"
 description: "HL study guide for IB DP Chemistry Reactivity 3.2.12-3.2.16: E⦵ values, cell potentials, ΔG⦵ = −nFE⦵, aqueous electrolysis and electroplating."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This page teaches the higher level end of Reactivity 3.2, "Electron transfer reactions", for IB DP Chemistry. It follows the IB's *Diploma Programme Chemistry guide* (first assessment 2025, published February 2023) and covers understandings Reactivity 3.2.12 to 3.2.16. All five are additional higher level (AHL) material, so everything here is **HL only**, for exam sessions in 2025 and later years.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "energetics-ych11"
 description: "Condensed Edexcel IAL Chemistry Topic 6 Energetics notes: definitions, mcΔT steps, Hess cycle rules, bond enthalpy method and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 6: Energetics of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 6.1 to 6.11 with Core Practical 2. It is IAS material, in Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols. The [energetics study guide](/resources/edexcel-ial-chemistry-energetics/) has the full teaching and longer worked examples; start there if anything here feels unfamiliar.

@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "islam-subcontinent-9236"
 description: "Study guide to optional topic 3.1.3 of 9236 Pakistan Studies: Sufism, Muhammad bin Qasim, al-Ghazali, Sirhindi, Shah Waliullah and Syed Ahmad Barelvi."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 **Islam in the Subcontinent (c700–c1831) is topic 3.1.3 of OxfordAQA International GCSE Pakistan

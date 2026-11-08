@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "quality-4bs1"
 description: "Original practice questions with worked answers on factors of production, capital and labour intensity, quality control and TQM for Edexcel IGCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

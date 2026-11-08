@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c3-3-types-of-chemical-reactions-j248"
 description: "Condensed revision notes for OCR GCSE Chemistry A (J248) C3.3 Types of chemical reactions, with method steps and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 These notes condense sub-topic **C3.3 Types of chemical reactions** for quick recall. Source: the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification (Version 4.0, August 2026), covering learning outcomes C3.3a–C3.3k, mathematical learning outcome CM3.3i, and the PAG C6 (titration) and PAG C7 (production of salts) practical suggestions. C3.3b, C3.3g, C3.3i and C3.3j are **Higher Tier only**; the rest are assessed at both tiers. For full explanations and longer worked examples, read the [Types of chemical reactions study guide](/resources/ocr-gcse-chemistry-types-of-chemical-reactions/) first.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "manufacturing-accounts-oxfordaqa-igcse-accounting"
 description: "Study guide to manufacturing accounts for OxfordAQA International GCSE Accounting 9215: prime cost, overheads, factory cost and final statements."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide follows the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026. It covers the manufacturing organisations part of section 3.4, Preparation of financial statements. The qualification is untiered, and the specification lists content 3 to 5 for Paper 2, Financial Statements. You learn how a business that makes its own goods works out what the goods cost, and how that figure feeds the income statement and the statement of financial position. Use it with the [revision notes](/resources/oxfordaqa-igcse-accounting-manufacturing-accounts-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-accounting-manufacturing-accounts-practice/). Start from the [OxfordAQA IGCSE Accounting hub](/boards/oxfordaqa/igcse/accounting/), tick topics off on the [checklist](/checklists/oxfordaqa/igcse/accounting/) and find weak spots with the [free diagnostics](/diagnostics/). The routine around Paper 2 is in [Two 75-Mark Papers and How to Work Them](/resources/oxfordaqa-igcse-accounting-exam-preparation/), and the trial balance behind every statement is covered in [Verification of Accounting Records](/resources/igcse-oxfordaqa-accounting-verification-of-accounting-records/). All amounts below are in dollars.

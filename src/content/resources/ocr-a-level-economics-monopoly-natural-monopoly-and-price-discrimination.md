@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-structures-ocr-alevel-economics"
 description: "Study guide to monopoly, monopsony, natural monopoly, supernormal profit, efficiency and price discrimination for OCR A Level Economics, with examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the monopoly statements in the market structures topic of Component 01 (Microeconomics) of the OCR A Level Economics specification, H460, Version 3.0 (June 2026), for first assessment in 2021. The specification labels no content AS or Extension, so everything here is A Level content. Each statement says "explain" or "evaluate", and most add "with the aid of a diagram".

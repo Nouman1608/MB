@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "accounting-and-financial-considerations-ocr-alevel-business"
 description: "Condensed revision notes on accounting and financial considerations for OCR A Level Business H431: formulas, definitions, method steps and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed notes for topic 6, Accounting and financial considerations, in OCR A Level Business H431 (Version 2.1, January 2026; final assessment summer 2027). Full explanations and worked examples are in the [study guide](/resources/ocr-a-level-business-accounting-and-financial-considerations/); test yourself with the [practice questions](/resources/ocr-a-level-business-accounting-and-financial-considerations-practice/). See also [measures of performance](/resources/ocr-a-level-business-measures-of-performance-financial-and-non-financial/) and [forecasting](/resources/ocr-a-level-business-forecasting/). Links: [OCR A Level Business hub](/boards/ocr/a-level/business/), [checklist](/checklists/ocr/a-level/business/) and [free 10-minute diagnostics](/diagnostics/).

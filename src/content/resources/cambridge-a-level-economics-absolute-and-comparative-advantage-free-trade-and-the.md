@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-reasons-for-international-trade-cambridge-alevel-economics"
 description: "Study guide to absolute and comparative advantage, the trading possibility curve, the terms of trade and the theory's limits for Cambridge 9708 Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 6.1 (outcomes 6.1.1 to 6.1.4) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topics 1 to 6 are AS Level content, so this is AS Level content and it is assumed knowledge for A Level Papers 3 and 4. All countries, goods and figures below are invented for illustration. Use the [revision notes](/resources/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the-revision-notes/) for recall and the [practice set](/resources/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the-practice/) to test yourself. The [course hub](/boards/cambridge/a-level/economics/) and [checklist](/checklists/cambridge/a-level/economics/) show the rest of the syllabus, and the [diagnostics](/diagnostics/) show where to start. Opportunity cost and the PPC are covered in the [production possibility curves guide](/resources/cambridge-a-level-economics-production-possibility-curves-and-the-classification/).

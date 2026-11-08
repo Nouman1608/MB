@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "globalisation-free-trade-and-protection"
 description: "Study guide to globalisation, multinational companies and the benefits of free trade, with worked examples, for Cambridge O Level Economics (2281)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Cambridge O Level Economics 2281 syllabus for examination in 2026. It covers sections 6.2.1 to 6.2.3: what globalisation means, what multinational companies (MNCs) do and who gains or loses in host and home countries, and why free trade helps. The course is not tiered. Protection (6.2.4 to 6.2.6) has its own pages, so this guide only touches it where it helps you evaluate. All figures are invented and illustrative.

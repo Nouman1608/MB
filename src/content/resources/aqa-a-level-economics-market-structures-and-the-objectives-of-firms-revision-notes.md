@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-aqa-aslevel-economics"
 description: "Revision notes for AQA A-level Economics: the competition spectrum, profit maximisation and MC=MR, ownership and control, other firm objectives."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes boil down the AQA economics specification (AS and A-level combined, version 1.3 of 29 June 2022, first teaching September 2015) for sections 3.1.5.1 Market structures and 3.1.5.2 The objectives of firms (printed as 4.1.5.1 and 4.1.5.2 in the combined PDF). If a point is unclear, the [study guide](/resources/aqa-a-level-economics-market-structures-and-the-objectives-of-firms/) explains it in full. To test yourself, use the [practice questions](/resources/aqa-a-level-economics-market-structures-and-the-objectives-of-firms-practice/).

@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "fundamentals-of-communication-and-networking"
 description: "AQA A Level Computer Science 7517 section 4.9 guide: serial and parallel links, topologies, Wi-Fi, TCP/IP, subnets, packet switching and network security."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This topic explains how data moves between devices, from a single wire inside a computer to the global internet. You need the vocabulary of communication (baud rate, bandwidth, latency), the layered TCP/IP model, how addresses and ports identify a destination, and the main security measures. Calculations are short but they appear regularly, particularly subnet masks and transfer times.

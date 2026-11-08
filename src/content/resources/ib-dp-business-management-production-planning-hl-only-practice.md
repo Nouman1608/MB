@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-6"
 description: "Original practice questions with worked answers on IB DP Business Management 5.6 (HL only): stock control, capacity, productivity and make or buy."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

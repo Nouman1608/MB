@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-oxfordaqa-alevel-economics"
 description: "Study guide to market structures, perfect competition and monopolistic competition for OxfordAQA International A-level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide follows the OxfordAQA *International AS and A-level Economics* specification (9640), version 1.2. It covers sections 3.3.3.1 (market structures), 3.3.3.2 (perfect competition) and 3.3.3.3 (monopolistic competition). Section 3.3 is the extra International A2 content, examined in Unit 3. Quantitative skills (3.5) may appear in any unit, so the calculations use QS4 (graphs), QS6 (cost, revenue and profit, with marginal values for A2), QS8 (elasticity) and QS9. Every name and figure is invented.
 

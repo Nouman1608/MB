@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "electromagnetic-induction-oxfordaqa-alevel-physics"
 description: "Study guide to flux, flux linkage, Faraday's and Lenz's laws, eddy currents and the rotating coil for OxfordAQA International A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide is written for OxfordAQA International AS and A-level Physics (9630), using Version 4.4 of the specification (exams from May/June 2020). It covers sections 3.10.3 (Magnetic flux and flux linkage) and 3.10.4 (Electromagnetic induction). The specification marks section 3.10 as International A-level only, so none of this is part of International AS. Use it with the [course hub](/boards/oxfordaqa/a-level/physics/) and tick points off on the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "d1-algorithms-on-graphs-ii-edexcel-alevel-maths"
 description: "Study guide to route inspection, the travelling salesman problem, bounds and nearest neighbour for Edexcel International A Level D1, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. It covers Unit D1 (Decision Mathematics 1), section 3, "Algorithms on graphs II", topics 3.1 to 3.4. The specification states that D1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics. Check with your teacher whether your course includes it.
 

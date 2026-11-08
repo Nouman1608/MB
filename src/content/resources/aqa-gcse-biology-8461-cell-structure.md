@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "cell-structure-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 cell structure taught in depth: cell types, organelles, specialised cells, microscopy maths and culturing bacteria."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches section **4.1.1 Cell structure** (4.1.1.1 to 4.1.1.6) of the AQA GCSE Biology (8461) specification, for first teaching 2016 with exams from 2018 (version 1.0). Cell biology is assessed on Paper 1, which covers topics 1 to 4 and is set at Foundation and Higher Tier. One statement in 4.1.1.6 is marked (HT only) and is labelled **Higher tier only** below. Required practical activities 1 and 2 both sit in this section.

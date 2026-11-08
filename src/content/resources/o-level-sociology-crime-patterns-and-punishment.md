@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-6-3-2251"
 description: "Cambridge O Level Sociology 2251 key questions 6.2 and 6.3: crime by age, class, gender and ethnicity, five theories, punishment and policing."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Who commits crime, why, and what should societies do about it? Key questions 6.2 and 6.3 of

@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-13-3"
 description: "OxfordAQA 9620 study guide to section 3.3.13: zwitterions, peptides, hydrolysis, protein structure, TLC with Rf values and how cisplatin works."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.3.13, Amino acids and proteins, from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020. It covers all three subsections: 3.3.13.1 Amino acids, 3.3.13.2 Proteins and 3.3.13.3 Action of anticancer drugs. The section belongs to the International A2 organic content: all of it is **International A-level only**. Unit 4 (Organic 2 and Physical 2) assesses sections 3.3.7 to 3.3.16; Unit 5 (Practical and synoptic) can draw on any content.

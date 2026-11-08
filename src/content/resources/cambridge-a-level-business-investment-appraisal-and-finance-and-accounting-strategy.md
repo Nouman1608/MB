@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "finance-and-accounting-strategy-cambridge-alevel-business"
 description: "Study guide to payback, ARR, NPV, investment decisions and using accounting data and ratios in strategy, for Cambridge A Level Business 9609."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide follows the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It covers sections 10.3 Investment appraisal and 10.4 Finance and accounting strategy, which are A Level content. All businesses and figures are invented and money is in pounds. Condensed recall is in the [revision notes](/resources/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy-revision-notes/) and exam-style questions are in the [practice set](/resources/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/). For earlier ratio and appraisal drills, see [Finance and Accounting (A Level) practice](/resources/a-level-business-finance-a-level-practice/).
 

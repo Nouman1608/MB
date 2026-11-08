@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-international-economy-aqa-alevel-economics"
 description: "Condensed revision notes on globalisation and multinational corporations for AQA A-level Economics (7136), with formulas, distinctions and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the "Globalisation" content point of the AQA A-level Economics (7136) specification, version 1.3: section 3.2.6.1 on the AQA website and 4.2.6.1 in the combined PDF. Full explanations are in the [study guide](/resources/aqa-a-level-economics-globalisation-and-multinational-corporations/). Test yourself with the [practice set](/resources/aqa-a-level-economics-globalisation-and-multinational-corporations-practice/), then check the [course hub](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/), the [exam preparation page](/resources/aqa-a-level-economics-exam-preparation/) and the [free diagnostics](/diagnostics/). All figures are invented.

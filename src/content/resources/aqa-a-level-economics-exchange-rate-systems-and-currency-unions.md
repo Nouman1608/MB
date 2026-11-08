@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-international-economy-aqa-alevel-economics"
 description: "AQA A-level Economics study guide to floating and fixed exchange rates, central bank intervention and currency unions, with worked calculations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This study guide covers exchange rate systems for AQA A-level Economics (7136), specification version 1.3. The content is in the PDF's section 4.2.6.4 (the AQA website numbers it 3.2.6.4). The specification assesses content 14, the international economy, in Paper 2 and in Paper 3. Every figure below is invented, set in Country A and Country B, and is there only to show the method. Trade theory, tariffs, the balance of payments and globalisation are separate units, so this guide stays on exchange rate systems.
 

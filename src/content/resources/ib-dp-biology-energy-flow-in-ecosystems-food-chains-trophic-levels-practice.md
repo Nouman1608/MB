@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c4-2"
 description: "Original IB DP Biology practice questions on C4.2.1 to C4.2.14: food webs, nutrition, trophic levels, energy pyramids and losses, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-2"
 description: "Study guide to IB DP Chemistry Reactivity 3.2.1 to 3.2.11: oxidation states, half-equations, voltaic, secondary and electrolytic cells, organic redox."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches **Reactivity 3.2, Electron transfer reactions**, using the February 2023 IB Diploma Programme *Chemistry guide* (first assessment 2025) as its checklist. Understandings **Reactivity 3.2.1 to 3.2.11** are covered, the part common to **SL and HL**. The additional higher level understandings (3.2.12 onwards) are not covered here.

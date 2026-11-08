@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-carbonyls-carboxylic-acids-and-chirality-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 15A Chirality: chiral centres, 3D enantiomer drawings, optical activity, racemates and mechanism evidence."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 15A: Chirality of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers outcomes 15.1 to 15.5. It opens Topic 15: Organic Chemistry: Carbonyls, Carboxylic Acids and Chirality, and is listed under Unit 4: Rates, Equilibria and Further Organic Chemistry, one of the International A2 (IA2) units. It draws on the halogenoalkane mechanisms from Unit 2 and the rate equations of Topic 11.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-electromagnetic-spectrum-ocr-gcse"
 description: "Condensed revision notes on electromagnetic waves for OCR GCSE Physics A (J249): the groups in order, f and wavelength, energy transfer, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P5.2a to P5.2f of topic P5.2, The electromagnetic spectrum, from the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). All six statements are assessed in both Foundation and Higher Tier papers. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum/). When you are ready to test yourself, use the [practice questions](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-practice/). Course pages: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). The [free 10-minute diagnostics](/diagnostics/) show which topics to revise first.

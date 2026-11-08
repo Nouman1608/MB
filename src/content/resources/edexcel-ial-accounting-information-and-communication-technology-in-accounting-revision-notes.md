@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "ict-in-accounting"
 description: "Revision notes for Edexcel IAL Accounting topic 2.9 ICT in accounting: key terms, uses, audit trail, pros and cons, and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense topic 2.9, Information and communication technology (ICT) in accounting, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. Outcomes 2.9.1 and 2.9.2 are both here. Topic 2.9 appears in Unit 2 (Corporate and Management Accounting) and is therefore **Unit 2 (A2) only**. Names and numbers are fictional; money is in dollars.

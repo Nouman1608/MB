@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "unit-4-poetry-yet01"
 description: "Revision notes for Edexcel IAL English Literature (YET01) Unit 4: statement-based essays on Shakespeare and pre-1900 poetry, AO1, AO2, AO3, AO5, set texts."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Unit 4 (WET04) of Pearson Edexcel International Advanced Level English Literature (YET01) is a two-hour,

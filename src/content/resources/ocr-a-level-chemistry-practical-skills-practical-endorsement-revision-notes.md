@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-1-2-2"
 description: "Condensed recall notes for OCR A Level Chemistry A section 1.2: PAG1 to PAG12, CPAC, lab techniques and indicator choice, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 1.2 (statements 1.2.1 and 1.2.2) of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, plus the Practical Endorsement rules in section 5g. H432 is the full A level, so nothing here is labelled AS or A2. The [study guide](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement/) explains each technique in full, and the [practice questions](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement-practice/) let you check your recall.

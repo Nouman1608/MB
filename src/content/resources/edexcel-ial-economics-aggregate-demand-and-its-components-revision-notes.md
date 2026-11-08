@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "aggregate-demand-edexcel-alevel-economics"
 description: "Condensed revision notes on aggregate demand and its components for Pearson Edexcel International A Level Economics, with formulas and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 2.3.2, Aggregate demand (AD), of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. It is Unit 2 content, which the specification places in the International AS (IAS) part of the qualification; Units 3 and 4 are the extra International A2 (IA2) content. For full explanations and worked examples, read the [study guide](/resources/edexcel-ial-economics-aggregate-demand-and-its-components/). Test yourself with the [practice questions](/resources/edexcel-ial-economics-aggregate-demand-and-its-components-practice/), tick off topics on the [checklist](/checklists/edexcel/a-level/economics/), and see the rest of the course on the [hub](/boards/edexcel/a-level/economics/). The [free diagnostics](/diagnostics/) show which topics to prioritise. All figures here are invented.

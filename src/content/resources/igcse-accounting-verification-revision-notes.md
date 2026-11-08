@@ -16,11 +16,12 @@ syllabusTopics:
     topic: "verification-of-accounting-records"
 description: "Cambridge IGCSE Accounting 0452 revision notes on the trial balance, six error types, suspense accounts, bank reconciliation and control accounts (2027-2029)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-05
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE

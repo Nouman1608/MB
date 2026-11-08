@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "soil-erosion-5014-2027"
 description: "Practice questions with worked answers on soils, loam, farming types, GMOs, irrigation, pesticides and erosion control for O Level Environmental Management 5014"
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 These questions practise every learning outcome in Topic 2 Land of the 2027-2029 Cambridge O Level

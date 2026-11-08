@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "practical-skills-practical-endorsement-ocr-alevel-biology"
 description: "Study guide to every skill and technique in sections 1.2.1 and 1.2.2 of OCR A Level Biology A, with worked calculations for each method."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide is written for OCR A Level Biology A (H420), using the specification Version 4.1 (April 2026), for first assessment in 2025. It covers section 1.2, the skills and techniques behind the Practical Endorsement: 1.2.1(a) to (j) and 1.2.2(a) to (l). Pair it with the [revision notes](/resources/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques-revision-notes/) and the [practice questions](/resources/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques-practice/). Course links: [OCR A Level Biology hub](/boards/ocr/a-level/biology/), [printable checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/).
 

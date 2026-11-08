@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "probability-aqa-gcse-maths"
 description: "Condensed AQA GCSE Maths 8300 Probability revision notes: key rules, tree and Venn methods, a quick self-test with answers and common mark losses."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes cover Topic 5, **Probability** (P1 to P9), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). P1 to P8 are for Foundation and Higher tier; P9 (conditional probability) is Higher tier only. Probability can appear on the non-calculator Paper 1 or on the calculator Papers 2 and 3, in the May/June and November series.

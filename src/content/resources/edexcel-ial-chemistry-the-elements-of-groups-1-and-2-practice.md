@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "redox-chemistry-and-groups-1-2-and-7-ych11"
 description: "Original practice questions with worked answers for Edexcel IAL Chemistry Topic 8B, from Group 1 and 2 reactions to titrations and uncertainty."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

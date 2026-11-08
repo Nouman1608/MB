@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-4-2-1"
 description: "Study guide to OCR A Level Chemistry A 4.2.1 Alcohols: hydrogen bonding, classification, combustion, dichromate oxidation, dehydration and substitution."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 4.2.1, Alcohols, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It sits in Module 4, Core organic chemistry, and covers every lettered outcome from 4.2.1(a)(i) to 4.2.1(e), with the additional guidance and the PAG7 link. H432 is the full A level; the specification assesses Module 4 in components 02 (Synthesis and analytical techniques) and 03 (Unified chemistry).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-performance-aqa-aslevel-economics"
 description: "Study guide to inflation, deflation and disinflation, demand-pull and cost-push, MV = PQ, expectations and external influences for AQA A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers inflation and deflation for AQA A-level Economics (7136), specification version 1.3, section 4.2.3.3 (numbered 3.2.3.3 on the AQA website). Every country, firm and figure below is invented and illustrative. Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), [checklist](/checklists/aqa/a-level/economics/) and [free diagnostics](/diagnostics/). Next: the [revision notes](/resources/aqa-a-level-economics-inflation-and-deflation-revision-notes/) and the [practice questions](/resources/aqa-a-level-economics-inflation-and-deflation-practice/). Related pages: [aggregate demand and supply](/resources/aqa-a-level-economics-aggregate-demand-supply/) and [measurement of macroeconomic performance](/resources/a-level-aqa-economics-measurement-of-macroeconomic-performance/).
 

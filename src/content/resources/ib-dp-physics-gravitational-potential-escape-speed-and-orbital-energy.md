@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-1"
 description: "IB DP Physics HL study guide to gravitational potential, escape speed and orbital energy, with worked examples for the additional higher level part of D.1."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This study guide follows the IB *Physics guide*, first assessment 2025, and covers the additional higher level (AHL) part of **D.1 Gravitational fields**: potential energy and potential, the link between potential and field strength, equipotential surfaces, escape speed, orbital speed and the effect of atmospheric drag. Everything here is **HL only**. The standard level and higher level part of D.1 (Kepler's laws, Newton's law, field strength and field lines) is taught separately, so this page assumes you already know g = GM/r². Take the [diagnostics](/diagnostics/) first if you are unsure.

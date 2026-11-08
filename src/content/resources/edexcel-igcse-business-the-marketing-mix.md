@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "the-marketing-mix-4bs1"
 description: "Study guide to product, price, place and promotion for Edexcel IGCSE Business (4BS1), section 4.3, with worked examples on pricing and the Boston matrix."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 4 Marketing, section 4.3 "The marketing mix", points 4.3.1 to 4.3.4: product, price, place (distribution channels) and promotion. The specification says both papers can draw on the whole of the content, so this material can appear in the paper about small businesses (up to 49 employees) and in the paper about large businesses (more than 250 employees). Each paper is 1 hour 30 minutes and 80 marks, made up of four compulsory 20-mark questions.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-6-2-5"
 description: "Revision notes for OCR A Level Chemistry A 6.2.5 Organic synthesis: recrystallisation, melting points, group tests, route maps and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 6.2.5, Organic synthesis, from Module 6 of H432, OCR's A Level Chemistry A, using Version 3.1 of its specification (May 2026; first examined 2017). All of outcomes 6.2.5(a) to (c) are here. Components 02 and 03 examine Module 6, and H432 is one full A level. Full explanations and longer examples are in the [6.2.5 study guide](/resources/ocr-a-level-chemistry-6-2-5-organic-synthesis/). Then test yourself with the [6.2.5 practice questions](/resources/ocr-a-level-chemistry-6-2-5-organic-synthesis-practice/).

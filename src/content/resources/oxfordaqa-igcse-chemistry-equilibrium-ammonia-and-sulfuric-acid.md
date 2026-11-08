@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "production-of-ammonia-and-sulfuric-acid-9202"
 description: "OxfordAQA IGCSE Chemistry (9202) study guide: how temperature and pressure shift equilibrium, the Haber process, fertilizers and the contact process."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches equilibrium and two industrial processes for OxfordAQA International GCSE Chemistry (9202). It follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and covers every statement in section 3.8.2 Factors affecting equilibrium (a to e) and section 3.8.3 Production of ammonia and sulfuric acid (a to d). No required practical belongs to these two sections. The qualification is untiered, so all of it applies to every candidate, and the specification allows content from any part of the course on either paper.

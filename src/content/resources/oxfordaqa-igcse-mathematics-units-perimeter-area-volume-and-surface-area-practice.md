@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "mensuration-and-calculation-oxfordaqa-igcse-maths"
 description: "Original practice questions with full worked answers on units, area, circles, volume and surface area for OxfordAQA International GCSE Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

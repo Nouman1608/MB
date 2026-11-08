@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "measures-of-central-tendency-4040"
 description: "Original questions with worked answers on the mean, median, mode and modal class from lists and frequency tables, for Cambridge O Level Statistics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

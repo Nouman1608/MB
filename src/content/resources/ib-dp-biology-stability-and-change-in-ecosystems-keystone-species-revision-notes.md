@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d4-2"
 description: "Condensed revision notes for IB DP Biology D4.2: stability, tipping points, keystone species, sustainability, pollution, rewilding and HL succession."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense IB Diploma Programme Biology D4.2 Stability and change (D4.2.1 to D4.2.15), from the IB *Biology guide*, first assessment 2025. Statements D4.2.12 to D4.2.15 are **HL only**; the rest are SL and HL. For full explanations read the [study guide](/resources/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species/), then test yourself with the [practice set](/resources/ib-dp-biology-stability-and-change-in-ecosystems-keystone-species-practice/). Also useful: the [IB DP Biology hub](/boards/ib/ib-dp/biology/), the [printable checklist](/checklists/ib/ib-dp/biology/), the [free diagnostics](/diagnostics/) and [energy flow in ecosystems](/resources/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels/).

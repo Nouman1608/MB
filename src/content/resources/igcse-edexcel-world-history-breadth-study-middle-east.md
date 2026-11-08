@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-middle-east-4hi1"
 description: "Study guide to Breadth Study B7, the Middle East 1917–2012, for Edexcel IGCSE History 4HI1: Palestine, Israel's wars, Suez, the PLO, Camp David, Oslo and Gaza."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates and figures against a standard textbook before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates and figures against a standard textbook before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

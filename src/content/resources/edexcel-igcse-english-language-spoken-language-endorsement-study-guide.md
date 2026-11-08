@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "spoken-language-endorsement-4ea1"
 description: "Preparing and giving a talk, answering questions and using spoken Standard English for the optional Spoken Language Endorsement in Edexcel IGCSE English 4EA1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the task format, timing, assessment criteria, grade labels, and the arrangements for recording and moderation in the current Edexcel specification, as only general skills are taught here. 2026-11-08 recheck: FAQ added."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the task format, timing, assessment criteria, grade labels, and the arrangements for recording and moderation in the current Edexcel specification, as only general skills are taught here. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

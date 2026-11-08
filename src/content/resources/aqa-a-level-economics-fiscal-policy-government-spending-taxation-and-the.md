@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "macroeconomic-policy-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics fiscal policy: spending, taxation, multipliers, tax types and principles, and evaluating level and distribution."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Written for the A-level, this guide works from the AQA AS and A-level Economics specification (version 1.3, 29 June 2022). It covers the first part of the sub-section called Fiscal policy: site-map number 3.2.5.1, printed as 4.2.5.1 in the combined PDF. You will meet the tools, their effects, the kinds of spending and tax, and how to assess them. Nothing in this content is labelled AS-only or A-level-only. All countries, households and numbers are invented.

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "quality-4bs1"
 description: "Study guide to factors of production, capital and labour intensity, quality control and TQM for Edexcel IGCSE Business (4BS1), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers topic 5, Business operations, sections 5.3 Factors of production and 5.4 Quality. The specification says both Paper 1 (small businesses, up to 49 employees) and Paper 2 (large businesses, more than 250 employees) can draw on the whole content, so expect this material in either paper, set in a business scenario.

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "proteins-aqa-alevel-biology"
 description: "Condensed revision notes on triglycerides, phospholipids, amino acids, peptide bonds and protein structure for AQA A-level Biology, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense sections 3.1.3 (Lipids) and 3.1.4.1 (General properties of proteins) of the AQA AS and A-level Biology specification, for first teaching 2015, used for A-level Biology 7402. Read the [study guide](/resources/aqa-a-level-biology-lipids-and-protein-structure/) when you need the reasoning behind a point, then attempt the [practice questions](/resources/aqa-a-level-biology-lipids-and-protein-structure-practice/). Other links: [AQA A-level Biology hub](/boards/aqa/a-level/biology/), [printable checklist](/checklists/aqa/a-level/biology/), [free diagnostics](/diagnostics/) and the wider [Biological Molecules revision notes](/resources/aqa-a-level-biology-biological-molecules-revision-notes/).

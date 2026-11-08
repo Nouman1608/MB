@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "preparation-of-financial-statements-of-sole-traders"
 description: "Condensed revision notes for AQA A-Level Accounting 7127 section 3.6: adjustment entries, statement layouts, a trial balance method and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 For full explanations and a complete worked trial balance, use the [study guide](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders/). These notes condense section 3.6, Preparation of financial statements of sole traders, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, A-level exams June 2019 onwards). The qualification is not tiered, and the specification assesses section 3.6 on Paper 1. Practise afterwards with the [practice questions](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-practice/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "integration-ocr-alevel-maths"
 description: "Condensed revision notes on integration as a limit of a sum, the trapezium rule, substitution, parts and partial fractions for OCR A Level Maths A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense the integration techniques in OCR A Level Mathematics A (H240), specification Version 3.1 (August 2026): content statements 1.08g to 1.08j and the numerical integration statement 1.09f. All are Stage 2 content, so they are **A Level only**. For full explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-mathematics-techniques-of-integration-reverse-chain-rule-parts/). Test yourself with the [practice questions](/resources/ocr-a-level-mathematics-techniques-of-integration-reverse-chain-rule-parts-practice/), and tick skills off on the [printable checklist](/checklists/ocr/a-level/mathematics/). The wider course is on the [OCR A Level Mathematics hub](/boards/ocr/a-level/mathematics/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "balance-of-payments-ocr-aslevel-economics"
 description: "Study guide to the balance of payments for OCR A Level Economics (H460): the accounts, calculating balances, causes, consequences and policies."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0, dated June 2026 and first assessed in 2021. It teaches the topic **Balance of payments** within Component 2, Macroeconomics (H460/02), under The global context. No content is labelled AS or Extension. Every country, firm and number below is invented for illustration and is not a real statistic.

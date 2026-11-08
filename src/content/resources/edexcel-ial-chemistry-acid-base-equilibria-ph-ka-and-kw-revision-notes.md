@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "acid-base-equilibria-ych11"
 description: "Condensed Edexcel IAL Chemistry revision notes on pH, Ka, Kw, pKa, pKw, strong and weak acids and bases, with a quick self-test (Topic 14.1-14.14)."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Use these notes for fast recall of outcomes 14.1 to 14.14, from Topic 14 (Acid-base Equilibria). The source document is the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Everything here is Unit 4 (Rates, Equilibria and Further Organic Chemistry) content, so it is International A2 (IA2), and it extends Unit 2, Topic 9B. For full explanations and worked examples, use the [pH, Ka and Kw study guide](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw/).

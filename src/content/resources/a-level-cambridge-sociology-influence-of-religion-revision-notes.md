@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "religion-and-post-modernity-9699"
 description: "Condensed Cambridge 9699 notes on 12.1-12.3: secularisation evidence and critics, feminist views of religion, spiritual shopping, NRMs and fundamentalism."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense heading 12 *The influence of religion* from Cambridge International A Level

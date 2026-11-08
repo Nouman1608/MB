@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "p2-exponentials-and-logarithms-oxfordaqa-alevel-maths"
 description: "Twelve original practice questions with worked answers on parametric equations, e^x, ln x and growth and decay, for OxfordAQA International A-level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

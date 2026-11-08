@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "coordination-and-control"
 description: "Condensed O Level Biology 5090 revision notes on nerves, synapses, the eye, hormones, homeostasis, temperature and glucose control, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, read the [study guide](/resources/o-level-biology-5090-coordination-and-control/) first. These notes cover Topic 14, Coordination and control, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4): every learning outcome in sections 14.1 to 14.6. The syllabus is not tiered, so all of it applies to every candidate, and this topic lists no set practical.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "interdependent-nature-of-business-ocr-gcse-business"
 description: "Twelve original practice questions with worked answers on ethical, environmental, economic and global influences and interdependence, OCR GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

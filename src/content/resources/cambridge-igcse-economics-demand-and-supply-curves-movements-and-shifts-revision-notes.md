@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "supply-cambridge-igcse-economics"
 description: "Condensed revision notes on demand and supply curves, extension and contraction, aggregation and shifts for Cambridge IGCSE Economics 0455."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 2.3 (Demand) and 2.4 (Supply) of the 2026 Cambridge IGCSE Economics (0455) syllabus, which is not tiered. The [study guide](/resources/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts/) has the full explanations. Then try the [practice set](/resources/cambridge-igcse-economics-demand-and-supply-curves-movements-and-shifts-practice/) and the free [diagnostics](/diagnostics/). Also useful: [allocation of resources revision notes](/resources/igcse-economics-allocation-of-resources-revision-notes/), [allocation of resources practice](/resources/allocation-of-resources-practice/), the course hub at [Cambridge IGCSE Economics](/boards/cambridge/igcse/economics/) and the [printable checklist](/checklists/cambridge/igcse/economics/). All figures are invented, and prices are in currency units (cu).

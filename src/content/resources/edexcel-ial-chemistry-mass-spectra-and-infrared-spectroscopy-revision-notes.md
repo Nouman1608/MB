@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-halogenoalkanes-alcohols-and-spectra-ych11"
 description: "Revision notes for Edexcel IAL Chemistry Topic 10D: molecular ions, fragment tables, halogen peak patterns, IR ranges and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 10D, Mass spectra and IR, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, namely outcomes 10.21, 10.22 and 10.23 (Core Practical 8). It is assessed in the IAS written examination for Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols. Each idea is explained in full, with five worked examples, in the [Topic 10D study guide](/resources/edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy/). When these notes feel familiar, move on to the [spectra practice set](/resources/edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy-practice/).

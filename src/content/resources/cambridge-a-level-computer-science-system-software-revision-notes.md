@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "language-translators"
 description: "Revision notes on operating system tasks, utility software, libraries and DLLs, compilers, interpreters, assemblers and IDE features for Cambridge AS 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 5 System Software is about the programs that run the computer rather than do the user's work: the operating system, the utilities supplied with it, program libraries, and the translators and IDEs that turn source code into something the processor can execute. In Cambridge International AS & A Level Computer Science 9618 it is tested in Paper 1, mostly through "explain" and "describe" questions set in a scenario, plus a compiler-versus-interpreter justification.

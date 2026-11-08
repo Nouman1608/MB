@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "organic-compounds-their-structure-and-reactions-9202"
 description: "Condensed OxfordAQA IGCSE Chemistry (9202) notes on alcohols, carboxylic acids and esters: formulae, reactions, weak acids and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense section 3.10.3 Organic compounds – their structure and reactions of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Included: 3.10.3.1 Alcohols (a to c), 3.10.3.2 Carboxylic acids (a and b) and 3.10.3.3 Esters (a and b). Every candidate needs every point, and none of the section 6.2 required practicals falls in 3.10.3. Go to the [full guide to alcohols, acids and esters](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions/) when you need the full teaching.

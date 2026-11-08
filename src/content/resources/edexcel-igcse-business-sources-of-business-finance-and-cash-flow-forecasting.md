@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "cash-flow-forecasting-4bs1"
 description: "Study guide to sources of business finance, why cash matters, and building and reading a cash-flow forecast for Edexcel IGCSE Business (4BS1)."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 3, sections 3.1 "Business finance - sources" and 3.2 "Cash flow forecasting", every numbered point under each. The specification says both papers draw on the whole of the subject content, so finance can appear in either.

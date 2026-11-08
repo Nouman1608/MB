@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "exchange-rates-ocr-aslevel-economics"
 description: "Condensed revision notes on exchange rate determination, measures, causes, consequences and systems, for OCR A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the first part of the OCR *A Level Economics (H460)* topic **Exchange rates** (specification Version 3.0, June 2026, for first assessment in 2021), in the area of study The global context. Read the [full study guide](/resources/ocr-a-level-economics-exchange-rate-determination-measures-and-systems/) for the explanations, then test yourself on the [practice questions](/resources/ocr-a-level-economics-exchange-rate-determination-measures-and-systems-practice/). Use the [OCR Economics hub](/boards/ocr/a-level/economics/), the [printable checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/) to find gaps. Purchasing power parity, the Marshall-Lerner condition and managing a rate for competitiveness are separate units. All figures here are invented.

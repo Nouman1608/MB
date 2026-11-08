@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "measures-and-accuracy-aqa-gcse-maths"
 description: "Eleven original AQA GCSE Maths 8300 questions on units, estimation, rounding, error intervals and bounds (N13-N16), with fully marked answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

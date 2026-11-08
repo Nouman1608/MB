@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-failure-edexcel-alevel-economics"
 description: "Study guide to Edexcel IAL Economics 1.3.5 items 4 to 6: imperfect information, moral hazard, speculation and bubbles, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. It covers section 1.3.5 Market failure, items 4 to 6: imperfect market information, moral hazard, and speculation and market bubbles. The specification labels Units 1 and 2 as International AS (IAS) and Units 3 and 4 as the extra International A2 (IA2) content. This is Unit 1 content, so it is IAS and also part of the full IAL. Externalities and public goods (items 1 to 3) are taught on separate pages.

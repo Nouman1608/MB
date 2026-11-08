@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-failure-edexcel-alevel-economics"
 description: "Original practice questions with worked answers on Edexcel IAL Economics 1.3.5 items 1 to 3: externalities, welfare areas and public goods."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

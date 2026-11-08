@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "proportion"
 description: "Condensed recall notes on nth terms of linear, quadratic and other sequences, and direct and inverse proportion for Cambridge O Level Mathematics 4024."
 author: "muhammad-ghazali-siddiqui"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed for the final weeks. For worked examples, use the

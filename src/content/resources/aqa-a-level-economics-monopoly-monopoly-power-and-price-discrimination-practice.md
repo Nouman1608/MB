@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-aqa-aslevel-economics"
 description: "Original AQA A-level Economics practice questions on monopoly, monopoly power and price discrimination, with worked answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

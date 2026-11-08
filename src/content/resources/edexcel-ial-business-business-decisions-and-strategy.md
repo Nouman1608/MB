@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "business-decisions-and-strategy-edexcel-alevel-business"
 description: "Study guide to every section of Unit 3 Business decisions and strategy in Pearson Edexcel International A Level Business, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification (YBS11), Issue 1, September 2017, and covers all of Unit 3, sections 3.3.1 to 3.3.6. The paper is source-based with quantitative skills; the ratios are not supplied, so learn them. Every business below is invented.

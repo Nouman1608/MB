@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-2"
 description: "Condensed IB DP Chemistry revision notes for Reactivity 3.2.1 to 3.2.11: redox rules, half-equations, cell signs, electrolysis and alcohol oxidation."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense **Reactivity 3.2, Electron transfer reactions**, with the February 2023 IB Diploma Programme *Chemistry guide* (first assessment 2025) as the checklist. They cover understandings **Reactivity 3.2.1 to 3.2.11**, which are common to **SL and HL**; the additional higher level material from 3.2.12 onwards is in the [HL unit on standard electrode potentials](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and/). The [study guide](/resources/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis/) has the longer explanations and worked examples.

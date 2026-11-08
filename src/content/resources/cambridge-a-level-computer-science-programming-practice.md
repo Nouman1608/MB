@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "structured-programming"
 description: "Pseudocode questions with answers on constants, operators, string functions, IF, CASE, loop choice, procedures, functions and BYREF for Cambridge AS 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

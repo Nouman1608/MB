@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "frequency-polygons-and-histograms-4040"
 description: "Step-by-step guide to frequency polygons and histograms for Cambridge O Level Statistics, with frequency density, unequal class widths and worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers section 3.2, representation in frequency polygons and histograms, of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027. It sits inside topic 3, formation of data into ungrouped or grouped frequency distributions, and it assumes you can already find class boundaries and midpoints (section 3.1; see the [frequency distributions guide](/resources/cambridge-o-level-statistics-frequency-distributions/)). The syllabus is not tiered, so everything here is for every candidate.

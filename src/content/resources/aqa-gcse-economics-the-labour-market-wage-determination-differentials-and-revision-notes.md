@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics (8136) revision notes for 3.1.5.4: labour market, wage determination, differentials, gross and net pay, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense **section 3.1.5.4, The labour market**, in AQA's GCSE Economics (8136) specification, which was first taught from September 2017. The specification has no tiers. For full explanations read the [study guide](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and/). Then use the [practice questions](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-practice/), the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/), the [printable checklist](/checklists/aqa/gcse/economics/) and our [free 10-minute diagnostics](/diagnostics/). All figures here are invented.

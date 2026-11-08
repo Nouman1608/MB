@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "kinetic-theory-of-gases-oxfordaqa-alevel-physics"
 description: "A worked study guide to the gas laws, pV = nRT, work done by a gas and the kinetic theory of gases for OxfordAQA International A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This study guide is aligned to the *OxfordAQA International AS and A-level Physics (9630)* specification, Version 4.4, sections 3.11.3 (ideal gases) and 3.11.4 (kinetic theory of gases). Section 3.11 is marked International A-level only. It is not part of the shared International AS and A-level content in sections 3.1 to 3.5.

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "the-periodic-table-4ch1"
 description: "Study guide for Edexcel 4CH1 points 1.14-1.24: sub-atomic particles, isotopes, Ar calculations, electron shells and how the Periodic Table is built."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches sub-topics 1(c) Atomic structure and 1(d) The Periodic Table from Topic 1, Principles of chemistry, of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). It covers specification points 1.14–1.24. The qualification is untiered, and none of these points carries a "C" reference, so all of them can be examined on Paper 1 and on Paper 2. Paper 1 lasts 2 hours (110 marks) and Paper 2 lasts 1 hour 15 minutes (70 marks); a calculator may be used on both.

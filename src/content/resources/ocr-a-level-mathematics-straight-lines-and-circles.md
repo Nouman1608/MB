@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "coordinate-geometry-in-the-xy-plane-ocr-alevel-maths"
 description: "Study guide to straight lines, parallel and perpendicular gradients, line models, circle equations and tangents for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers straight lines and circles in OCR A Level Mathematics A (H240), as set out in the OCR specification (Version 3.1, August 2026): content references 1.03a to 1.03f, within 1.03 Coordinate Geometry in the x-y plane. The specification lists all of this as Stage 1 content, the stage common to AS Level (H230) and A Level, so none of it is A Level only. Parametric equations (1.03g and 1.03h) are not covered here.

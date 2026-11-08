@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "changes-of-state-ocr-gcse"
 description: "Revision notes for P1.2 Changes of state in OCR GCSE Physics A: definitions, equations, method steps, a self-test with answers and common errors."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense topic P1.2 (Changes of state, statements P1.2a to P1.2f) of OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026). Every statement here is for both tiers. For full explanations see the [study guide](/resources/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat/). Test yourself with the [practice questions](/resources/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat-practice/), check progress on the [checklist](/checklists/ocr/gcse/physics/), see the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and take a [free 10-minute diagnostic](/diagnostics/).

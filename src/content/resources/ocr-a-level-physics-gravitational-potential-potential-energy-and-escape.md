@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "gravitational-fields-ocr-alevel"
 description: "Study guide to gravitational potential, gravitational potential energy, the force-distance graph and escape velocity for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This study guide covers section 5.4.4 (Gravitational potential and energy), statements (a) to (e), of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level. Field strength and Newton's law (5.4.1 and 5.4.2) and planetary motion (5.4.3) are taught elsewhere, so here you meet only potential, potential energy, the force-distance graph and escape velocity.
 

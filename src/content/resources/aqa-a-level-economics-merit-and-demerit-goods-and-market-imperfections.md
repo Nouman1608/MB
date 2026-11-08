@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "AQA A-level Economics study guide to merit and demerit goods, imperfect information, monopoly and factor immobility, with worked diagrams and calculations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022). It covers two parts of the A-level sub-section The market mechanism, market failure and government intervention in markets (numbered 3.1.8 on the AQA website and 4.1.8 in the combined PDF): Merit and demerit goods, and Market imperfections. The content is examined in Paper 1, and Paper 3 assesses all content. All countries, firms and figures below are invented.

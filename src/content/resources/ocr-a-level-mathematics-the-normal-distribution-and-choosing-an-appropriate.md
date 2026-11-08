@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "statistical-distributions-ocr-alevel-maths"
 description: "Study guide to the normal distribution, standardising, inverse normal and choosing a model for OCR A Level Mathematics A, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the normal distribution and the choice of a suitable model for **OCR A Level Mathematics A (H240)**, using the OCR specification Version 3.1 (August 2026), for first assessment in 2018. It teaches references 2.04e to 2.04h of the Statistical Distributions content. All four are in the **Stage 2** column, so they are **A Level only**. The specification places statistics content in Paper 2 (Pure Mathematics and Statistics), and it allows a scientific or graphical calculator on every paper.

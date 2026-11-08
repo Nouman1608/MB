@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "unit-4-language-exploration-9670"
 description: "Original OxfordAQA 9670 Unit 4-style data investigation task with three invented data sets, NEA planning questions and a model report outline with levels."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

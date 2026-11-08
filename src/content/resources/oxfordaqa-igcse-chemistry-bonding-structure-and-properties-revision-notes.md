@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-bonding-and-structure-are-related-to-the-properties-of-substances-9202"
 description: "Revision notes for OxfordAQA International GCSE Chemistry 9202 section 3.2.2: each structure type linked to melting point and conductivity."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense section 3.2.2 of OxfordAQA's International GCSE Chemistry (9202)

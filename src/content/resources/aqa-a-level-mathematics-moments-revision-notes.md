@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "s-moments-aqa-alevel-maths"
 description: "Condensed notes on moments for AQA A-level Maths (7357) Section S: rigid-body equilibrium, tilting, non-uniform rods, hinges and ladders, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense **Section S: Moments (S1)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section S under **Paper 2**, and a calculator is required in every 7357 paper. For full explanations and six worked examples, use the [Moments study guide](/resources/aqa-a-level-mathematics-moments/).

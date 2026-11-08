@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "business-ownership-aqa-gcse-business"
 description: "Condensed recall notes with tables and a self-test on business purpose, enterprise and legal structures for AQA GCSE Business (8132) 3.1.1 and 3.1.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.1.1 (The purpose and nature of businesses) and 3.1.2 (Business ownership) of the AQA GCSE Business (8132) specification, for first teaching from September 2017. For full explanations, use the [study guide for this unit](/resources/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership/). Then try the [practice questions](/resources/aqa-gcse-business-the-purpose-and-nature-of-businesses-and-business-ownership-practice/).

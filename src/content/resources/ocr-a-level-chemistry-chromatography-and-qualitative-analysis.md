@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-6-3-1"
 description: "Study guide to OCR A Level Chemistry A 6.3.1: TLC Rf values, gas chromatograms, calibration curves and test-tube tests for organic functional groups."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Section 6.3.1, on chromatography and qualitative analysis, is taught here from scratch, following the H432 Chemistry A specification from OCR (Version 3.1, May 2026, for first assessment in 2017). The section belongs to Module 6, Organic chemistry and analysis. All three lettered outcomes, with their additional guidance and the PAG6 and PAG7 links, are covered here. H432 is the full A level. Its assessment overview lists Module 6 under component 02 (Synthesis and analytical techniques); component 03 (Unified chemistry) draws on it too.

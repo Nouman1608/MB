@@ -17,9 +17,10 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-related-concepts"
 description: "Condensed IB MYP Language Acquisition revision notes on the four key concepts, word choice, conventions, idiom and statements of inquiry, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-28
 featured: false
 ---

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "interdependent-nature-of-business-ocr-gcse-business"
 description: "A full study guide to ethical, environmental, economic and global influences and how business functions depend on each other, for OCR GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 6 (Influences on business) and 7 (The interdependent nature of business) of the OCR GCSE (9-1) Business specification (J204), Version 2.0 (January 2026), for first assessment in 2019. Both sections sit in Business 2: operations, finance and influences on business (J204/02). The specification says this component assumes knowledge of business activity, marketing and people, so some examples below pull in ideas from Business 1.

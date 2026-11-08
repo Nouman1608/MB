@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c2-1"
 description: "Study guide to IB DP Biology C2.1 chemical signalling for HL: ligands, receptors, quorum sensing, G proteins, insulin, steroid hormones and feedback."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers topic C2.1, Chemical signalling, from the IB Diploma Programme *Biology guide*, first assessment 2025, statements C2.1.1 to C2.1.14. The guide gives this topic no standard level content, so everything here is **HL only** (additional higher level). You can see it all on the [IB DP Biology hub](/boards/ib/ib-dp/biology/) and tick it off on the [printable checklist](/checklists/ib/ib-dp/biology/). For condensed recall use the [revision notes](/resources/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal-revision-notes/), and test yourself with the [practice questions](/resources/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal-practice/). Try the [free 10-minute diagnostics](/diagnostics/) to see where you stand.

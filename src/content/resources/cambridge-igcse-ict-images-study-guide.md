@@ -20,9 +20,10 @@ syllabusTopics:
     subtopic: "file-size-reduction-t12-0417"
 description: "Placing, resizing, cropping and editing images in documents, and reducing image file size, for the Cambridge IGCSE ICT 0417 practical skills."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The sub-topics for this practical topic are unnumbered in the source list; check which image-editing operations the 0417 2026-2028 syllabus names."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "The sub-topics for this practical topic are unnumbered in the source list; check which image-editing operations the 0417 2026-2028 syllabus names; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a2-2"
 description: "Study guide to IB DP Biology A2.2: microscopy, magnification, prokaryote and eukaryote cells, micrographs, and HL endosymbiosis and differentiation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers section A2.2 (Cell structure) of the IB *Biology guide*, first assessment 2025, for DP Biology. Statements A2.2.1 to A2.2.11 are for both SL and HL. Statements A2.2.12 to A2.2.14 are additional higher level, so they are HL only and are marked that way below.

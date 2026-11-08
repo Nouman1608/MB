@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "the-legal-system-access-to-justice-and-funding-7162"
 description: "Original exam-style practice questions with full worked answers on law and morality, law and justice, the rule of law and legal institutions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewrote Q4 answer (removed stray natural law/positivism mark points that matched no question; now 8 marks on law and morality), clarified corrective justice in Q5, added FAQ; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: rewrote Q4 answer (removed stray natural law/positivism mark points that matched no question; now 8 marks on law and morality), clarified corrective justice in Q5, added FAQ; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: reviewed by aizaz-raoof-ali."
 publishedDate: 2026-08-22
 featured: false
 ---

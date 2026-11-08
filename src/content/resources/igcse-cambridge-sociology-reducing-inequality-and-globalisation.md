@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-3-3-0495"
 description: "Cambridge IGCSE Sociology 0495 key questions 3.2 and 3.3: laws, welfare states and NGOs against inequality, their critics, and global inequality."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 How have societies tried to reduce inequality, and how has globalisation changed inequality

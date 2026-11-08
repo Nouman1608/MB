@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "classification-and-evolution-ocr-alevel-biology"
 description: "Study guide to evidence for evolution, variation, adaptation, natural selection and resistance for OCR A Level Biology A (H420), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers section 4.2.2(e) to (i) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025: the evidence for evolution by natural selection, variation, adaptation, the mechanism of natural selection, and the implications of evolution for human populations. Classification, in 4.2.2(a) to (d), is a separate unit. Use the guide with the [revision notes](/resources/ocr-a-level-biology-variation-adaptation-and-natural-selection-revision-notes/) and the [practice questions](/resources/ocr-a-level-biology-variation-adaptation-and-natural-selection-practice/). The [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/) show the rest of the course.

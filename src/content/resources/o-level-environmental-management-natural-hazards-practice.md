@@ -26,8 +26,12 @@ syllabusTopics:
     subtopic: "drought-5014-2027"
 description: "Practice questions with worked answers on hotspots, plate margins, tsunamis, cyclone shelters, flood zoning and drought aid for O Level 5014 (2027-2029)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 These questions practise every learning outcome in Topic 6, Natural hazards, of the 2027-2029 Cambridge

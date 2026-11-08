@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-objectives-of-economic-agents-ocr-aslevel-economics"
 description: "Condensed recall notes on business objectives for OCR A Level Economics H460: profit goals, satisficing, CSR, principal-agent problem, with self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the "Business objectives" topic of the OCR *A Level in Economics (H460)* specification, version 3.0 (June 2026), first assessment in 2021. For full explanations and the worked example of Firm Alpha, read the [study guide](/resources/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem/). Practise with the [practice questions](/resources/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem-practice/), see the [OCR Economics hub](/boards/ocr/a-level/economics/), use the [checklist](/checklists/ocr/a-level/economics/), and find gaps with the [free diagnostics](/diagnostics/). All figures here are invented for teaching.

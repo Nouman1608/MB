@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "incomplete-records-oxfordaqa-igcse-accounting"
 description: "Condensed revision notes on statements of affairs, profit from capital, totals accounts and single versus double entry for OxfordAQA IGCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes are aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. They cover the incomplete records content of section 3.4 (topic 4, Preparation of financial statements): the profit of an organisation with insufficient records to prepare income statements, statements of affairs, and the benefits and limitations of different record-keeping systems including single and double entry. Amounts are in dollars. For full explanations read the [study guide](/resources/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry/), then try the [practice questions](/resources/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry-practice/). Related pages: the [course hub](/boards/oxfordaqa/igcse/accounting/), the [checklist](/checklists/oxfordaqa/igcse/accounting/), the [free diagnostics](/diagnostics/) and the page on [correcting errors and the effect of errors on profit](/resources/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit/).

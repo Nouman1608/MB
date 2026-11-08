@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c2-2-bonding-j248"
 description: "Original practice questions with fully worked answers on OCR GCSE Chemistry A (J248) C2.2 Bonding, from dot and cross diagrams to Mendeleev's table."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

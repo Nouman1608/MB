@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "marketing-and-marketing-strategies-ocr-alevel-business"
 description: "Condensed revision notes for every part of OCR A Level Business (H431) content area 3, Marketing and marketing strategies, with formulas and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the whole of content area 3, Marketing and marketing strategies, in the OCR A Level Business (H431) specification (Version 2.1, January 2026). For fuller explanations start with the [study guide](/resources/ocr-a-level-business-marketing-and-marketing-strategies/), then test yourself with the [practice questions](/resources/ocr-a-level-business-marketing-and-marketing-strategies-practice/). Related guides: [business objectives and strategic decisions](/resources/ocr-a-level-business-objectives-and-strategic-decisions/) and [external influences](/resources/ocr-a-level-business-external-influences/). Course hub: [OCR A Level Business](/boards/ocr/a-level/business/). Tick points off on the [checklist](/checklists/ocr/a-level/business/). Not sure where you are weak? Take a [free diagnostic](/diagnostics/).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b3-1"
 description: "Study guide to IB DP Biology B3.1 gas exchange: exchange surfaces, mammalian lungs, ventilation, lung volumes, leaves, stomatal density and haemoglobin."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches section B3.1 (Gas exchange) of the IB *Biology guide*, first assessment 2025. It covers statements B3.1.1 to B3.1.10 for SL and HL, plus B3.1.11 to B3.1.13 (haemoglobin, the Bohr shift and oxygen dissociation curves), which are **HL only**. For condensed recall use the [revision notes](/resources/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin-practice/). The wider theme is in the [Theme B study guide](/resources/ib-dp-biology-theme-b-form-function/). Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Checklist: [printable checklist](/checklists/ib/ib-dp/biology/). To find weak areas first, take the [free 10-minute diagnostics](/diagnostics/).

@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "financial-management-aqa-aslevel-business"
 description: "Thirteen original practice questions with worked answers on financial management for AQA AS Business (7137) 3.1.4: calculations, short answers and cases."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

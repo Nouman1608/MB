@@ -21,11 +21,12 @@ syllabusTopics:
     subtopic: "section-b-unseen-9695"
 description: "Original practice on Cambridge 9695 Paper 2 Prose and Unseen: set-text preparation, unseen reading method and timing, with full mark-scheme style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description shortened and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: description shortened and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, testing exam technique

@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-hl-options-depth-studies-4"
 description: "Revision notes for IB DP History HL Paper 3: the four regional options, how the 36-question paper works, essay markbands, revision grids and common traps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the regional section lists and Paper 3 rules against the IB History guide (first assessment 2017); this page deliberately names content areas, not official section titles. 2026-11-08 recheck: added essay skeleton."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the regional section lists and Paper 3 rules against the IB History guide (first assessment 2017); this page deliberately names content areas, not official section titles. 2026-11-08 recheck: added essay skeleton; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

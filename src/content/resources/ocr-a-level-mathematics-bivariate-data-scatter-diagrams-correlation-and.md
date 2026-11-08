@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "data-presentation-and-interpretation-ocr-alevel-maths"
 description: "Study guide to interpreting scatter diagrams, regression lines and correlation for OCR A Level Mathematics A (H240), with worked examples and errors."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the bivariate data strand of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It teaches specification references 2.02c, 2.02d and 2.02e, all listed in Stage 1, the column shared with AS Level. Statistics is examined in Paper 2, Pure Mathematics and Statistics, and the specification says that some Statistics questions use the pre-release large data set as their setting. Everything here is about reading and interpreting data. Calculating a regression equation is excluded by the specification, so you will be given any equation you need.

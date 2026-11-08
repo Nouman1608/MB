@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-d-1"
 description: "Condensed IB DP Physics D.1 revision notes for SL and HL: Kepler's laws, Newton's law, field strength g, field lines, formulae and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense the standard level and higher level part of **sub-topic D.1, Gravitational fields**, from the IB Diploma Programme *Physics guide*, first assessment 2025. The [study guide](/resources/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field/) has the full explanations and longer examples. Try the [practice questions](/resources/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field-practice/). The potential-based, HL only content of D.1 is not in these notes.

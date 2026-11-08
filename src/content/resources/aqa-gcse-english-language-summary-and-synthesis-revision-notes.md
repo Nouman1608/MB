@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "summary-and-synthesis-8700"
 description: "Condensed AQA GCSE English Language 8700 notes on summary and synthesis: key terms, the 8-mark Paper 2 summary method, inference, connectives and common traps."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 These notes condense the **summary and synthesis** content of 3.1.1 Critical reading and comprehension in AQA GCSE

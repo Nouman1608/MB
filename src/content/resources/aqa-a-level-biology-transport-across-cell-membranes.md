@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "transport-across-cell-membranes-aqa-alevel-biology"
 description: "Study guide to AQA A-level Biology 3.2.3: fluid-mosaic model, diffusion, water potential, active transport, co-transport in the ileum and practicals 3 and 4."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Section 3.2.3 of the AQA A-level Biology (7402) specification, *Transport across cell membranes*, asks you to

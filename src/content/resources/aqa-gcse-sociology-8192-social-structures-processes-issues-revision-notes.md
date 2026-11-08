@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "social-structures-processes-issues-8192"
 description: "Revision notes for AQA GCSE Sociology 8192 section 3.2: perspective grid, named studies by method, extract routine, self-test and mark-loss traps."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense the [study guide](/resources/aqa-gcse-sociology-8192-social-structures-processes-issues/) for section 3.2, Social structures, social processes and social issues.

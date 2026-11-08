@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "p-quantities-and-units-in-mechanics-aqa-alevel-maths"
 description: "Study guide for AQA A-level Maths (7357) Section P: SI units of length, time and mass, and the units of velocity, acceleration, force, weight and moment."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches **Section P: Quantities and units in mechanics (P1)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section P under **Paper 2**, with vectors, kinematics, forces and moments, so this content is examined there. A calculator is required in every 7357 paper.

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "transport-in-cells-aqa-gcse-biology"
 description: "Diffusion, surface area to volume ratio, exchange surfaces, osmosis and active transport taught in depth for AQA GCSE Biology 8461, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches section **4.1.3 Transport in cells** of the AQA GCSE Biology (8461) specification, for

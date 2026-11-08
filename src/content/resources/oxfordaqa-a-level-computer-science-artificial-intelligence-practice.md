@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "artificial-intelligence-9645"
 description: "Original AI questions with marked answers on neural network passes, training bias, machine learning, benefits and risks, for OxfordAQA A-level CS."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

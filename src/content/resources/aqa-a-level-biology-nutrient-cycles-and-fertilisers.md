@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "nutrient-cycles-aqa-alevel-biology"
 description: "Study guide to nutrient cycles for AQA A-level Biology: saprobionts, mycorrhizae, nitrogen and phosphorus cycles, fertilisers, leaching, eutrophication."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches section 3.5.4 Nutrient cycles in the AQA AS and A-level Biology specification (7402 is the A-level), for first teaching 2015. Section 3.5.4 is A-level only, so it is not part of the AS course. The specification lists no required practical for this section. Its skills column suggests that you could plan investigations into the effect of named minerals on plant growth, and that idea is used in the worked examples below.

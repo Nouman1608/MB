@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-4-2"
 description: "Study guide to IB DP Business Management 4.1 and 4.2: orientation, market share and growth, segmentation, targeting, positioning and USPs."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 4.1 Introduction to marketing and 4.2 Marketing planning of the IB *Business management guide*, first assessment 2024. Everything is SL and HL, except one point in 4.1 that the guide marks as HL only; it is labelled below. For the wider unit, see the [Unit 4 overview](/resources/ib-dp-business-management-marketing/). Course hub: [IB DP Business Management](/boards/ib/ib-dp/business/). Tick-list: [printable checklist](/checklists/ib/ib-dp/business/). Companion pages: [revision notes](/resources/ib-dp-business-management-introduction-to-marketing-and-marketing-planning-revision-notes/) and [practice questions](/resources/ib-dp-business-management-introduction-to-marketing-and-marketing-planning-practice/). To find weak spots first, try the [free 10-minute diagnostics](/diagnostics/).

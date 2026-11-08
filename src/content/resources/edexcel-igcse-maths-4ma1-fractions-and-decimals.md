@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "decimals-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths A 4MA1 sections 1.2 and 1.3: fraction arithmetic, conversions, ordering and recurring decimals, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches sections **1.2 Fractions** and **1.3 Decimals** of Topic 1, Numbers and the number system, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. Section 1.2 is the same on both tiers: the Higher tier content simply says "See Foundation Tier". Section 1.3 has Foundation content that both tiers need, plus one extra statement, converting recurring decimals into fractions, which is **Higher tier only**. A calculator may be used on every 4MA1 paper, but fraction questions often ask you to show your working, so every method here is shown by hand.

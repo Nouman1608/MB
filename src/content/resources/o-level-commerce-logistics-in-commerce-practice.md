@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "logistics-in-commerce-7100"
 description: "Cambridge O Level Commerce 7100 practice with worked answers on transport choice, rail or road, containers, cold storage, cash and carry and automation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These questions practise Topic 4, Logistics in commerce, of Cambridge O Level Commerce (7100,

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "global-context-international-trade-and-emerging-markets-ocr-alevel-business"
 description: "Condensed revision notes on globalisation, trade barriers, exchange rates, trading blocs, the EU and emerging markets for OCR A Level Business H431."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for the content headed Global context, International trade and free trade, The European Union, and Emerging markets and the global environment in the OCR A Level Business (H431) specification, Version 2.1 (January 2026). For full explanations read the [study guide](/resources/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets/). Test yourself with the [practice questions](/resources/ocr-a-level-business-global-context-international-trade-the-eu-and-emerging-markets-practice/).

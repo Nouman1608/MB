@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "sustainability-and-ethics-7100"
 description: "Cambridge O Level Commerce 7100 practice with worked answers on sustainable materials, returns, water use, fair trade coffee, false advertising and complaints."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These questions cover Topic 6, Sustainability and ethics, of Cambridge O Level Commerce (7100,

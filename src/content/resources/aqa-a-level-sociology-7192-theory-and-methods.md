@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "theory-and-methods-3-3-2-7192"
 description: "Study guide to AQA A-level Sociology 7192 Theory and Methods: research methods, positivism, major theories, post-modernity, science, values and policy."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Theory and Methods is the part of AQA A-level Sociology (7192) that asks how sociologists know what

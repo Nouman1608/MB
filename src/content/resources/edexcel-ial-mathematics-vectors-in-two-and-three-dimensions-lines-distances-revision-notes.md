@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p4-vectors-edexcel-alevel-maths"
 description: "Condensed revision notes on vectors for Pearson Edexcel IAL Mathematics P4: formulas, methods for lines and angles, a self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense Unit P4 section 7 (Vectors, topics 7.1 to 7.7) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification lists P4 as compulsory for IAL Mathematics and Pure Mathematics, with IAS weighting N/A. For full explanations read the [study guide](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances/), then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances-practice/).

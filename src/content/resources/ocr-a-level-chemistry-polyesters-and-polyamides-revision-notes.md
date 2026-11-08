@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-6-2-3"
 description: "Condensed revision notes for OCR A Level Chemistry A 6.2.3 Polyesters and polyamides: link tables, hydrolysis products, method steps and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense section 6.2.3, Polyesters and polyamides, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover every learning outcome, 6.2.3(a) to (c), within Module 6, Organic chemistry and analysis, and H432 is the full A level. Longer explanations and worked examples are in the [Polyesters and polyamides study guide](/resources/ocr-a-level-chemistry-polyesters-and-polyamides/).

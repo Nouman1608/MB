@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "operations-strategy-cambridge-alevel-business"
 description: "Study guide to 9.2 Quality management and 9.3 Operations strategy in Cambridge A Level Business 9609: TQM, benchmarking, ERP, lean production and CPA."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers sections 9.2 Quality management and 9.3 Operations strategy of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Both are A Level topics, so they are assessed in Papers 3 and 4, and AS knowledge (including inventory management and JIT) is assumed. For quick recall use the [revision notes](/resources/cambridge-a-level-business-quality-management-and-operations-strategy-revision-notes/), then the [practice questions](/resources/cambridge-a-level-business-quality-management-and-operations-strategy-practice/). Related: the [Topic 9 practice set](/resources/a-level-business-operations-a-level-practice/), [inventory management](/resources/cambridge-a-level-business-inventory-management/) and [capacity utilisation](/resources/cambridge-a-level-business-capacity-utilisation-and-outsourcing/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

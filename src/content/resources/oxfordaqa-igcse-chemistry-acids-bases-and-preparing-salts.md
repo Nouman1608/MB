@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "preparation-of-salts-9202"
 description: "Acids, bases, alkalis, pH and making soluble and insoluble salts for OxfordAQA International GCSE Chemistry (9202), taught step by step with examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches acids, bases and the preparation of salts for OxfordAQA International GCSE Chemistry (9202). It follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and covers every statement in sections 3.5.1 (statements a to g) and 3.5.2 (statements a to c). There are no tiers in this qualification, so the whole unit is for every candidate. The specification says any of its content may be assessed on Paper 1 and on Paper 2.

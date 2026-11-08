@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "paper-2-investigation-breadth-studies-4hi1"
 description: "Condensed recall notes on source-based enquiry skills and tracing change across a Breadth Study for Pearson Edexcel International GCSE History Paper 2 (4HI1)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-03
 featured: false
 ---

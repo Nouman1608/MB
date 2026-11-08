@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "fracking-0680"
 description: "Recall notes on the eight energy management strategies, blue and green hydrogen, heat pumps and fracking for Cambridge IGCSE Environmental Management 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check examples against the 2027-2029 syllabus and examiner guidance before review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check examples against the 2027-2029 syllabus and examiner guidance before review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

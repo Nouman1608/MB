@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c3-3-types-of-chemical-reactions-j248"
 description: "Study guide for OCR GCSE Chemistry A (J248) C3.3: redox, acids and alkalis, neutralisation, strong and weak acids, pH and making a pure salt."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 Sub-topic **C3.3 Types of chemical reactions** is part of Topic C3 (Chemical reactions) in the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification (Version 4.0, August 2026). Here it is taught in full: outcomes C3.3a to C3.3k, the mathematical learning outcome CM3.3i, and the practical suggestions linked to PAG C6 (titration) and PAG C7 (production of salts). Outcomes C3.3b, C3.3g, C3.3i and C3.3j are **Higher Tier only**; everything else is assessed at both tiers. The assessment overview places Topic C3 on Paper 1 (Foundation Tier) and Paper 3 (Higher Tier).

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p4-vectors-edexcel-alevel-maths"
 description: "Study guide to vectors in 2D and 3D for Pearson Edexcel IAL Mathematics P4: magnitude, position vectors, lines, skew lines and the scalar product."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches Unit P4 section 7 (topics 7.1 to 7.7, Vectors) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification states that P4 is a compulsory unit for IAL Mathematics and Pure Mathematics, and that its IAS weighting is N/A, so this content is not part of IAS. Coordinate geometry from [Pure Mathematics 1](/resources/a-level-edexcel-mathematics-pure-mathematics-1/) and [Pure Mathematics 2](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) is useful background, since lines in the (x, y) plane are the two-dimensional case of this work.

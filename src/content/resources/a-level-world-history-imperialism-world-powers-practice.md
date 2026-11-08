@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "imperialism-emergence-world-powers-9489"
 description: "Original Paper 1 source and Paper 2 essay practice for Cambridge 9489 topic 7, imperialism and world powers c.1870-1918, with mark-scheme style worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check worked-answer facts against standard texts and the 9489 2027-2029 syllabus before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check worked-answer facts against standard texts and the 9489 2027-2029 syllabus before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

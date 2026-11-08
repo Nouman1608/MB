@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-defensive-functions-of-mammalian-blood-oxfordaqa-alevel-biology"
 description: "Study guide to antigens, T and B cells, antibodies, vaccines and herd immunity for OxfordAQA International AS and A-level Biology 9610 3.2.5."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide is aligned to the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1 (International AS exams May/June 2017 onwards, International A-level exams May/June 2018 onwards). It covers section 3.2.5, the defensive functions of mammalian blood, in three parts: 3.2.5.1 the principles of immunology, 3.2.5.2 the response of B cells to a foreign antigen, and 3.2.5.3 vaccination. Section 3.2.5 sits in Unit 2, Biological systems and disease, which the specification places in both the International AS and the International A-level.

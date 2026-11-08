@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "waves-ocr-alevel"
 description: "Condensed recall notes on the EM spectrum, polarisation, refractive index, critical angle and TIR for OCR A Level Physics A (H556), section 4.4.2."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 Condensed recall for the final weeks. For full explanations and worked examples, use the [study guide](/resources/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal/). These notes follow the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), section 4.4.2 Electromagnetic waves, statements (a) to (e). Related pages: [practice questions](/resources/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal-practice/), the [OCR A Level Physics hub](/boards/ocr/a-level/physics/), the [printable checklist](/checklists/ocr/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).

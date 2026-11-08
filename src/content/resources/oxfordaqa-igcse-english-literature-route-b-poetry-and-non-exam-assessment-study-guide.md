@@ -23,9 +23,10 @@ syllabusTopics:
     subtopic: "non-exam-assessment-route-b-9275"
 description: "Skills for studied poetry, unseen poetry and the non-exam assessment in Route B of OxfordAQA International GCSE English Literature, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check which poems or anthology are set for Route B, the structure and marks of the poetry and unseen poetry questions, and the task requirements, word limits and supervision rules for the non-exam assessment. 2026-11-08 recheck: FAQ added."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check which poems or anthology are set for Route B, the structure and marks of the poetry and unseen poetry questions, and the task requirements, word limits and supervision rules for the non-exam assessment. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

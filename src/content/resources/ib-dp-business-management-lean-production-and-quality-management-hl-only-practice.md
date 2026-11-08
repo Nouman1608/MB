@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-3"
 description: "Original IB DP Business Management 5.3 (HL only) practice questions on lean production, JIT, kaizen, TQM and quality standards, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

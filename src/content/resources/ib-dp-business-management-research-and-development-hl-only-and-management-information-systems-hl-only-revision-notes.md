@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-9"
 description: "Condensed IB DP Business Management revision notes for 5.8 R&D and 5.9 management information systems (both HL only), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense sections 5.8 (Research and development) and 5.9 (Management information systems) of the IB *Business management guide*, first assessment 2024. Both sections are HL only. For full explanations and worked examples, read the [study guide](/resources/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only/), then try the [practice questions](/resources/ib-dp-business-management-research-and-development-hl-only-and-management-information-systems-hl-only-practice/).

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "radioactivity-oxfordaqa-alevel"
 description: "Study guide to decay equations, neutrinos, half-life, gamma and technetium-99m, radiation properties and the inverse-square law for OxfordAQA Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide teaches section 3.3.3 (Radioactivity) of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams from May/June 2020 onwards. Section 3.3 is shared content, so it applies to both International AS and International A-level. The spec says equations for exponential decay are required at International A2 only (section 3.9), so this guide uses half-life with whole numbers of half-lives and no exponential equations.

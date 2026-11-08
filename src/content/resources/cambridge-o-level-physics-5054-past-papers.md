@@ -11,8 +11,12 @@ syllabusCodes: ["5054"]
 order: 1
 description: "Cambridge O Level Physics 5054 past papers guide: grade thresholds and examiner report notes for June 2023 to June 2026, with free practice question links."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 This page is a guide to Cambridge O Level Physics (5054) past papers for the June and November series from June 2023 to June 2026. For each series you get the grade thresholds and a short summary of where candidates lost marks. The thresholds are copied from Cambridge's grade-threshold documents, and the examiner notes are our own summaries of Cambridge's Principal Examiner Reports for Teachers. We do not host any papers: every paper, mark scheme and report comes from Cambridge.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-financial-sector-ocr-alevel-economics"
 description: "Study guide to money, bank credit creation, interest rate determination and the quantity theory for OCR A Level Economics (H460), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the money outcomes in the role of the financial sector topic of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It is macroeconomics content. The specification labels none of it as a separate stage. All figures are invented: Country A, Country B and the small banks and firms below are illustrative, not real statistics.

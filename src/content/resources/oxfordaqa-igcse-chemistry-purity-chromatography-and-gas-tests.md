@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "identification-of-common-gases-9202"
 description: "OxfordAQA IGCSE Chemistry (9202) study guide to purity, melting points, paper chromatography and Rf values, and the five gas tests, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches sections 3.4.1 Purity and chromatography and 3.4.2 Identification of common gases (statements a to e of each) from the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. The qualification is untiered, so all of it is for every candidate. Either written paper can assess content from any part of the specification.

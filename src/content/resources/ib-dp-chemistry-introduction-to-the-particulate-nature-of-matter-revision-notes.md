@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-1-1"
 description: "Condensed IB DP Chemistry Structure 1.1 revision notes: pure substances vs mixtures, separation methods, states, state symbols and kelvin conversions."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes cover **Structure 1.1, Introduction to the particulate nature of matter**, for IB Diploma Programme Chemistry. They follow the IB's Diploma Programme *Chemistry guide* (published February 2023, for first assessment in 2025), understandings Structure 1.1.1 to Structure 1.1.3. Everything here is for SL and HL; the guide has no additional higher level content for this sub-topic. For full explanations and worked examples, use the [Structure 1.1 study guide](/resources/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter/).

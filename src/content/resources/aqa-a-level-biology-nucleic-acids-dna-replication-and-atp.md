@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "atp-aqa-alevel-biology"
 description: "Study guide to DNA and RNA structure, semi-conservative replication, the Watson-Crick evidence and ATP, for AQA A-level Biology, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide follows the AQA *AS and A-level Biology* specification (7401 and 7402, first teaching 2015, exams from June 2016). It covers sections 3.1.5.1 (structure of DNA and RNA), 3.1.5.2 (DNA replication) and 3.1.6 (ATP). Section 3.1 is part of both the AS and the A-level, so everything here applies to either. Nothing in these three sections is marked as A-level only.

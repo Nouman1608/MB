@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "kinetics-7405"
 description: "AQA A-Level Chemistry kinetics taught from scratch: activation energy, Maxwell-Boltzmann curves, temperature, concentration, pressure and catalysts."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.1.5 Kinetics** of the AQA AS and A-level Chemistry specification (7404/7405),

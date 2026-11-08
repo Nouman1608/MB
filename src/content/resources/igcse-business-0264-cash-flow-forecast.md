@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "cash-flow-forecast-0264"
 description: "Study guide to cash and cash flow forecasts for Cambridge IGCSE Business 0264: features, completing and interpreting forecasts, and fixing cash problems."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 5.2 (Cash flow forecast) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. Both papers are based on all the subject content, so cash flow can appear in short answers, data responses or the case study. The syllabus notes that you will not be assessed on constructing a cash flow forecast. You are expected to amend or complete a simple one, and to interpret it.

@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "an-introduction-to-the-role-of-the-accountant-in-business"
 description: "Condensed recall notes on accounting concepts, financial statements, adjustments, ratio analysis and users of accounts for AQA A Level Accounting 7127."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 publishedDate: 2026-08-22
 featured: false
 ---

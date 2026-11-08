@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "p1-integration-edexcel-alevel-maths"
 description: "Study guide to Edexcel International Advanced Level Maths P1 sections 4 and 5: derivatives of powers of x, tangents, normals and indefinite integrals."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P1: Pure Mathematics 1, section 4 (Differentiation, 4.1 to 4.3) and section 5 (Integration, 5.1 and 5.2). As the specification states, P1 is a compulsory unit for IAS Mathematics and Pure Mathematics and for IAL Mathematics and Pure Mathematics. There are no tiers or optional strands inside this content.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-1"
 description: "Eleven original IB DP Physics practice questions on A.1 Kinematics with worked answers: graphs, SUVAT, projectiles and fluid resistance."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

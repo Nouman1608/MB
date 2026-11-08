@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "three-dimensional-shapes-ocr-gcse-maths"
 description: "Study guide to OCR GCSE Mathematics geometry terms, labelling, instruments, 3D solids, plans, elevations and isometric drawing, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide follows the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), for first assessment in 2017. It covers section 8.01 (conventions, notation and terms) and section 8.06 (three-dimensional shapes). The specification says the 8.01 conventions are assessed in questions at both tiers. Nothing in this unit is marked Higher tier only. Interpreting plans and elevations is initial learning; constructing them, and drawing solids on isometric paper from them, is listed for Foundation tier learners and so applies to Higher tier learners too.
 

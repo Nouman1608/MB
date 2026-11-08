@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "p-quantities-and-units-in-mechanics-aqa-alevel-maths"
 description: "Original practice questions with marked worked answers on SI units, conversions, weight, force and moment for AQA A-level Maths (7357) Section P."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

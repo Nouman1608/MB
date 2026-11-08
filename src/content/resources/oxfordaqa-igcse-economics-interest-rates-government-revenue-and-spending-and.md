@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "introduction-to-the-national-economy-oxfordaqa-igcse-economics"
 description: "Study guide to interest rates, sharia-compliant finance, government revenue and spending, direct and indirect taxes, and progressive and regressive taxes."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025. It covers sections 3.2.1.1 (interest rates, saving, borrowing, spending and investment) and 3.2.1.2 (government income and expenditure), which open section 3.2, How economies work. All figures are invented and illustrative.

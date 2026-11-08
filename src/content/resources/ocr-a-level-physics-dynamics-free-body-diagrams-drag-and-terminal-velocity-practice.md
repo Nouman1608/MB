@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-in-action-ocr-alevel"
 description: "Original worked practice questions on F = ma, weight, free-body diagrams, projectiles, drag and terminal velocity for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

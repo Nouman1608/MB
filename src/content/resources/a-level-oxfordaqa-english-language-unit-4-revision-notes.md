@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "unit-4-language-exploration-9670"
 description: "Revision notes for OxfordAQA 9670 Unit 4 Language Exploration: the 4a data-investigation exam, the 4b NEA language investigation, report structure and AOs."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Unit 4 (Language exploration) of OxfordAQA International A-level English Language (9670) is worth 50

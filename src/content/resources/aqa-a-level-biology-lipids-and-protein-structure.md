@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "proteins-aqa-alevel-biology"
 description: "Study guide to triglycerides, phospholipids, amino acids and the four levels of protein structure for AQA A-level Biology, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches section 3.1.3 (Lipids) and section 3.1.4.1 (General properties of proteins) of the AQA AS and A-level Biology specification, for first teaching 2015, as used for A-level Biology 7402. Both sections sit in Topic 1, Biological molecules. Revise with the [revision notes](/resources/aqa-a-level-biology-lipids-and-protein-structure-revision-notes/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-lipids-and-protein-structure-practice/). Course links: [AQA A-level Biology hub](/boards/aqa/a-level/biology/), [printable checklist](/checklists/aqa/a-level/biology/) and the [free diagnostics](/diagnostics/). For the wider topic see [Biological Molecules](/resources/aqa-a-level-biology-biological-molecules/).

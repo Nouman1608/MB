@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "atomic-structure-and-the-periodic-table-ych11"
 description: "Original practice questions with worked answers for Pearson Edexcel International A Level Chemistry YCH11 on subatomic particles, isotopes and mass spectra."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-09-04
 featured: false
 ---

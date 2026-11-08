@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "the-objectives-of-individuals-and-firms-oxfordaqa-alevel-economics"
 description: "Study guide to utility, information, bounded rationality, biases, fairness and nudges for OxfordAQA International A-level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.3.1.1 and 3.3.1.2 of the OxfordAQA *International AS and A-level Economics* specification (9640, version 1.2). Section 3.3 is extra International A2 content, beyond the International AS. It teaches the individual as a rational decision maker, then the behavioural challenge to that picture. The objectives and growth of firms are separate statements and are not covered here. All the countries, firms and figures are made up for illustration.

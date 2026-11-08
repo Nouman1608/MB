@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "economic-growth-cambridge-igcse-economics"
 description: "Study guide to the causes, costs, benefits and policies of economic growth, with worked examples, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches sections 4.6.4, 4.6.5 and 4.6.6 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026: the causes of economic growth, its consequences in different economies, and the policies that promote it. Economics 0455 is not tiered, so everyone studies all of it. The countries and figures below are made up for practice and are not real statistics. Measuring growth and recession, and the supply-side measures themselves, are taught on a separate page ([supply-side policy and measuring economic growth](/resources/cambridge-igcse-economics-supply-side-policy-and-measuring-economic-growth-and/)), so this guide does not repeat them.

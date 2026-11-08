@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-and-newtons-laws-ocr-alevel-maths"
 description: "Study guide to friction for OCR A Level Mathematics A (H240): F ≤ μR, limiting friction, rough horizontal planes and rough slopes, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide teaches the friction content of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers references 3.03r to 3.03v within 3.03 Forces and Newton's laws. The first reference is Stage 1 content, shared with AS. The rest is Stage 2 and is **A Level only**. Use the [course hub](/boards/ocr/a-level/mathematics/) and the [printable checklist](/checklists/ocr/a-level/mathematics/) to see where this unit sits, and the [free diagnostics](/diagnostics/) to find your weak spots. Condensed notes are in the [revision notes](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and-revision-notes/) and exam-style questions are in the [practice set](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and-practice/).
 

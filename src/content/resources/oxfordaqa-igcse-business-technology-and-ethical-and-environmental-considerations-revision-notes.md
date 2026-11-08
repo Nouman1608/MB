@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ethical-and-environmental-considerations-oxfordaqa-igcse-business"
 description: "Condensed recall notes, tables and a self-test on ICT, e-commerce, ethics, the environment and sustainability for OxfordAQA International GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.2.1 Technology and 3.2.2 Ethical and environmental considerations of the OxfordAQA International GCSE Business (9225) specification, version 3.1, first teaching September 2020 and first examined May/June 2022. Fuller explanations and worked examples sit in the [study guide](/resources/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations/). Then try the [practice questions](/resources/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations-practice/). For the whole topic, see the [Influences on business revision notes](/resources/igcse-oxfordaqa-business-influences-revision-notes/). Course links: the [hub](/boards/oxfordaqa/igcse/business/), the [checklist](/checklists/oxfordaqa/igcse/business/) and the free [diagnostics](/diagnostics/).

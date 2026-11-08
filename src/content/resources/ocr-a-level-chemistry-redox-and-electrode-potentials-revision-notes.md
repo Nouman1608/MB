@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-2-3"
 description: "Revision notes for OCR A Level Chemistry A 5.2.3: agents, half-equations, redox titration steps, E⦵ and cell potentials, feasibility, cells."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense section 5.2.3, Redox and electrode potentials, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover outcomes 5.2.3(a) to (k), all in Module 5. The specification assigns Module 5 to Component 01 (Periodic table, elements and physical chemistry) and Component 03 (Unified chemistry). For full explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-chemistry-redox-and-electrode-potentials/).

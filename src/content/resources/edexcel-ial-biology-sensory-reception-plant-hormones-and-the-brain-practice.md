@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "coordination-response-and-gene-technology-edexcel-alevel-biology"
 description: "Original practice questions with answers on rod cells, habituation, plant hormones, Core Practical 18, brain regions and scans, Edexcel IAL Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

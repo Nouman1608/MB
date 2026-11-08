@@ -20,9 +20,10 @@ syllabusTopics:
     subtopic: "writing-skills-8702"
 description: "The reading and writing skills behind AQA GCSE English Literature 8702: understanding texts, analysing language and structure, context and accurate essays."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the wording and weighting of the assessment objectives, and which questions carry marks for spelling, punctuation and grammar, against the current AQA specification. 2026-11-08 recheck: FAQ added."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the wording and weighting of the assessment objectives, and which questions carry marks for spelling, punctuation and grammar, against the current AQA specification. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-11-08
 featured: false
 ---

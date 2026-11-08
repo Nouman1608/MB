@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-2-2"
 description: "Condensed IB DP Chemistry notes on reaction rates, collision theory, Maxwell–Boltzmann curves, activation energy and catalysts, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Reactivity 2.2.1 to 2.2.5, the rate and collision theory part of **Reactivity 2.2, How fast? The rate of chemical change**, from the February 2023 IB Diploma Programme *Chemistry guide*, whose first exams ran in 2025. All of it is examined at **both SL and HL**. The HL-only material that follows in the guide (Reactivity 2.2.6 to 2.2.13) is not included here.

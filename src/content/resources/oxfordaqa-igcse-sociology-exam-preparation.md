@@ -11,11 +11,12 @@ syllabusSeries: "Version 1.0 -- for first teaching September 2026, first exams M
 order: 3
 description: "Exam preparation for OxfordAQA International GCSE Sociology (9292): what each paper covers, research methods across both, and applying concepts to examples."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-09
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 OxfordAQA International GCSE Sociology (9292) is a **brand-new specification**: OxfordAQA states first

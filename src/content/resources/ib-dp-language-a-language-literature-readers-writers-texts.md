@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-readers-writers-and-texts"
 description: "How a writer's choices of language, form and structure shape meaning, and how readers build interpretations, in IB DP Language and Literature's first area."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers **Readers, Writers and Texts**, one of three

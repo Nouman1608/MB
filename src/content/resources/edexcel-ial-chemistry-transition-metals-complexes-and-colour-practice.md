@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "transition-metals-and-their-chemistry-ych11"
 description: "Original Edexcel IAL Chemistry practice questions on outcomes 17.1-17.17, with worked answers on configurations, ligands, shapes, colour and haemoglobin."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

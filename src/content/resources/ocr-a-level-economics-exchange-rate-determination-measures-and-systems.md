@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "exchange-rates-ocr-aslevel-economics"
 description: "Study guide to how exchange rates are determined, measured and changed, and how fixed, floating and hybrid systems compare, for OCR A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers the first part of the topic **Exchange rates**, in the area of study The global context, which sits in the Macroeconomics content (Component 02). The specification labels none of it as AS or Extension. Every country, currency and figure below is invented and illustrative.

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "investment-ratios"
 description: "Revision notes for Edexcel IAL Accounting topic 2.2: the six investment ratio formulae, method steps, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense topic 2.2, Investment ratios, from Unit 2 of Pearson's specification for the Edexcel International Advanced Subsidiary and Advanced Level in Accounting (XAC11/YAC11), Issue 2, September 2018. Outcome 2.2.1 and its note on the Unit 1 ratios are both included. The topic is **Unit 2 (A2) only**, so it is assessed for the full International A Level and not for the International AS. Companies and figures are invented; amounts are in dollars and share prices in cents.

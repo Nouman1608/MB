@@ -23,9 +23,10 @@ syllabusTopics:
     subtopic: "taleem-education-research-subject-9ur0"
 description: "Family, work and equal access to education in Pakistan: vocabulary, ideas and model Urdu writing for Theme 1 of Pearson Edexcel GCE A-Level Urdu (9UR0)."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "Check the Urdu vocabulary, model paragraph and the description of the research-subject task against the 9UR0 specification and with an Urdu specialist."
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the Urdu vocabulary, model paragraph and the description of the research-subject task against the 9UR0 specification and with an Urdu specialist; 2026-11-08: reviewed by farheen-zehra."
 publishedDate: 2026-11-08
 featured: false
 ---

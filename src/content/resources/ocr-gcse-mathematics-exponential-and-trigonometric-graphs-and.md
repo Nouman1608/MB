@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "transformations-of-curves-and-their-equations-ocr-gcse-maths"
 description: "Study guide to plotting exponential graphs, sketching sin, cos and tan, and translating or reflecting curves, for OCR GCSE Mathematics J560 Higher tier."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This guide is written for OCR GCSE (9-1) Mathematics J560, using the specification Version 2.1 (August 2026). It covers statements 7.01b (plotting exponential graphs), 7.01d (exponential functions), 7.01e (trigonometric functions) and 7.03a (translations and reflections of curves). **All of it is Higher tier only.** It sits in column 3 of the specification, so Foundation tier candidates are not assessed on it. Function notation is not required for 7.03a, so this guide talks about "the graph of y = ..." throughout.
 

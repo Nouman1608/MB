@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "size-of-business-cambridge-alevel-business"
 description: "Condensed revision notes for sections 1.2 and 1.3 of Cambridge A Level Business 9609: sectors, ownership forms, size measures, small firms and growth."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 1.2 (Business structure) and 1.3 (Size of business) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. They belong to the AS Level topic Business and its environment. For full explanations and worked examples, read the [study guide](/resources/cambridge-a-level-business-business-structure-and-size-of-business/). Then test yourself with the [practice questions](/resources/cambridge-a-level-business-business-structure-and-size-of-business-practice/).

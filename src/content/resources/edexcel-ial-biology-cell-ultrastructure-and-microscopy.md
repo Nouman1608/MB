@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "cell-structure-reproduction-and-development-edexcel-alevel-biology"
 description: "Study guide to ultrastructure, tissues, EM images, magnification, resolution and staining for Edexcel International A Level Biology (YBI11)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 Here the focus is the Pearson Edexcel International A Level Biology (YBI11) specification, Issue 2, which covers both AS and A2 stages. The guide deals with statements 3.1 to 3.8 of Topic 3 (Cell Structure, Reproduction and Development), with Core Practical 5 included. Topics 1 to 4 sit in the International AS (IAS) half of the qualification, so you meet this material at IAS stage. Nothing here is tiered.
 

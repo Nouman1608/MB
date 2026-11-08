@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "as-chemical-equilibria"
 description: "Original practice questions with worked answers on dynamic equilibrium, Kc, Kp and Le Chatelier's principle for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
 publishedDate: 2026-08-22
 featured: false
 ---

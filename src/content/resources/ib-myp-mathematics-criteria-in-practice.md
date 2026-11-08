@@ -13,11 +13,12 @@ syllabusTopics:
     topic: "ib-myp-mathematics-assessment-criteria"
 description: "Worked guidance on what top-band evidence looks like for each IB MYP Mathematics assessment criterion, from knowing and understanding to real-life application."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide works through what genuinely top-band evidence looks like

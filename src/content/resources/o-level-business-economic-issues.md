@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "economic-issues"
 description: "Study guide to Cambridge O Level Business 7115 section 6.1: the business cycle, government economic objectives, taxes, spending and interest rates."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers section 6.1, Economic issues, of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It teaches the business cycle (6.1.1) and how government control over the economy affects business activity, and how businesses may respond (6.1.2). Work through it with the [revision notes](/resources/o-level-business-economic-issues-revision-notes/) and the [practice questions](/resources/o-level-business-economic-issues-practice/). There is also a topic-level set on the wider unit: [external influences practice](/resources/o-level-business-external-influences-practice/). Check your progress against the [course hub](/boards/cambridge/o-level/business/) and the [printable checklist](/checklists/cambridge/o-level/business/), or take a [free diagnostic](/diagnostics/).
 

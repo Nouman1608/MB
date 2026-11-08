@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "accounting-concepts-oxfordaqa-igcse-accounting"
 description: "Eleven original practice questions with worked answers on the general accounting concepts and their use, for OxfordAQA International GCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

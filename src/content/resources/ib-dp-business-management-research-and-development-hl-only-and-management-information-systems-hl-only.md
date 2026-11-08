@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-9"
 description: "Study guide to IB DP Business Management 5.8 and 5.9 (HL only): R&D, intellectual property, innovation, data, AI, cybersecurity and ethics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 5.8 (Research and development) and 5.9 (Management information systems) in Unit 5 of the IB *Business management guide*, first assessment 2024. Both sections are HL only, so SL candidates do not need them.

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "budgeting-aqa"
 description: "Original practice questions with worked answers for AQA A-Level Accounting 7127 section 3.9: functional, cash and master budgets, variances and ZBB."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

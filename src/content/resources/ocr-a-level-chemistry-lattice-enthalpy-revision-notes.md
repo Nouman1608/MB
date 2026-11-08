@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-2-1"
 description: "Condensed revision notes for OCR A Level Chemistry A 5.2.1 Lattice enthalpy, with term equations, cycle steps, trends and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Use these notes for fast recall of section 5.2.1, Lattice enthalpy, in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They summarise outcomes 5.2.1(a) to (e) in Module 5, Physical chemistry and transition elements, with no AS or A2 split because H432 is the full A level. Fuller teaching, with longer examples, is in the [Lattice enthalpy study guide](/resources/ocr-a-level-chemistry-lattice-enthalpy/).

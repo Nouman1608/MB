@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "non-exam-assessment-9270"
 description: "Revision notes on the OxfordAQA International GCSE English Language (9270) NEA project: five-source research, the written task, Candidate record form and bands."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 The non-exam assessment (NEA) in OxfordAQA International GCSE English Language (9270) is a research

@@ -11,11 +11,12 @@ syllabusSeries: "Version 5.0 (July 2026), for first assessment in 2018"
 order: 3
 description: "How OCR GCSE Physics A (J249) splits topics across its papers, with unit and equation habits, graph gradients and areas, and a worked rearranging routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 OCR GCSE (9-1) Physics A (Gateway Science, J249) is tiered and linear. Foundation candidates sit

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "addressing-income-and-wealth-inequality-cambridge-alevel-economics"
 description: "Study guide to income and wealth, the Gini coefficient, causes of inequality and five redistribution policies for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 3.3 (Addressing income and wealth inequality) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 3 is AS Level content. A Level candidates study it too, because the syllabus assumes AS knowledge for Papers 3 and 4. Every country, household and figure below is invented for illustration and is not a real statistic.

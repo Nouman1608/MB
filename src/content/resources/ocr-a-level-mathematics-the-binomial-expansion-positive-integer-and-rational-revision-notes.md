@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "sequences-and-series-ocr-alevel-maths"
 description: "Condensed recall notes on the binomial expansion for OCR A Level Mathematics A: formulas, methods, validity, approximations and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed for the final weeks. For full explanations and longer worked examples, use the [binomial expansion study guide](/resources/ocr-a-level-mathematics-the-binomial-expansion-positive-integer-and-rational/). These notes follow the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018, sections 1.04a to 1.04d and the partial fractions use in 1.02y. Positive integer n and the probability link are Stage 1 (common with AS). Rational n and validity are **A Level only**.

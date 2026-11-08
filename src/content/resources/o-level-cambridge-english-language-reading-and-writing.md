@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Reading and Writing -- the two skill strands that make up the entirety of Cambridge O-Level English Language (1123), assessed by Paper 1 and Paper 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers the full content structure of Cambridge O-Level

@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "the-internet-and-its-uses-2210"
 description: "Last-weeks notes for Topic 5 of Cambridge O Level Computer Science 2210: web vs internet, URL parts, DNS steps, cookies, blockchain, malware, phishing and SSL."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 5 of Cambridge O Level Computer Science (2210) is mostly about sequences and pairs: the steps from URL to displayed page, the steps of an SSL connection, session versus persistent cookies, phishing versus pharming, and each cyber threat matched with its defence. These notes set each one out in the shortest form that still earns full marks on Paper 1.

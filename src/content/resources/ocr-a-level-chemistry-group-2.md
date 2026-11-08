@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-3-1-2"
 description: "Study guide to OCR A Level Chemistry A 3.1.2 Group 2: s² redox, reactivity Mg to Ba, ionisation energies, oxides in water and bases in use."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.1.2, Group 2, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. In the specification, Group 2 is the second section of Module 3, Periodic table and energy, with five lettered learning outcomes, 3.1.2(a) to (e), each taught below with worked examples. All of it is full A level content. Module 3 is examined in Periodic table, elements and physical chemistry (component 01) and in Unified chemistry (component 03), according to the specification. No PAG is listed against this section; PAG 4 uses a mixture of Group 2 salts, but the specification links it to 3.1.3(g), 3.1.4(a) and 5.3.2(a).

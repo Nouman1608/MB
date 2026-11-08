@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-1-4"
 description: "Study guide for IB DP Chemistry Reactivity 1.4 (HL only): entropy, ΔS from S values, Gibbs energy, spontaneity and ΔG = ΔG⦵ + RT lnQ."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Reactivity 1.4, "Entropy and spontaneity", answers one question: which way will a chemical change go on its own? This page teaches it from scratch for IB DP Chemistry. Its content and numbering come from the IB's 2023 guide to Diploma Programme Chemistry, whose first exams ran in 2025, and each of understandings Reactivity 1.4.1 to 1.4.4 gets its own worked examples. Every understanding in this sub-topic sits in the additional higher level (AHL) material, so the whole page is **HL only**. It is written for exam sessions from 2025 onwards.

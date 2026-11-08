@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "cell-structure-reproduction-and-development-edexcel-alevel-biology"
 description: "Study guide to stem cells, differential gene expression, alternative splicing, epigenetics and multiple alleles for Edexcel International A Level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, and covers specification statements 3.17 to 3.21 in Topic 3, Cell Structure, Reproduction and Development. Topic 3 sits in the International AS (IAS) part of the course, in Unit 2. There are no tiers. Statement 3.17 is split into (i) and (ii), and statement 3.20 into (i), (ii) and (iii); all parts are covered below.
 

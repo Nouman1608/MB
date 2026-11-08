@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "monitoring-and-maintaining-health-ocr-gcse-biology"
 description: "Study guide to stem cells, gene technology and the human genome in medicine for OCR GCSE Biology A (J247), with worked evaluation examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This study guide covers statements B6.3v, B6.3w and B6.3x of OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. They sit in topic B6.3, Monitoring and maintaining health, and ask you to weigh up medical technologies. None of the three statements is printed in bold in the specification text, so none is marked as Higher Tier only. Check your progress against the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), the [printable checklist](/checklists/ocr/gcse/biology/) and the [free diagnostics](/diagnostics/). Then use the [revision notes](/resources/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine-revision-notes/) and the [practice questions](/resources/ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine-practice/).
 

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "decisions-on-location-4bs1"
 description: "Study guide to the primary, secondary and tertiary sectors and the factors behind location and relocation, for Edexcel International GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 1 sections 1.3 (Classification of businesses) and 1.4 (Decisions on location), points 1.3.1 and 1.4.1. The specification says both papers can draw on knowledge from across the entire content, so these ideas can appear in a small-business scenario (Paper 1, up to 49 employees) or a large-business scenario (Paper 2, more than 250 employees).

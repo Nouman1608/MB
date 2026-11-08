@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "business-finance-needs-and-sources"
 description: "Why businesses need finance and where it comes from: internal, external, short-term and long-term sources, for Cambridge O Level Business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 5.1, Business finance: needs and sources, of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It teaches every point the syllabus lists under 5.1.1 and 5.1.2. The syllabus does not split the content into tiers, so all of it can be examined. Section 5.1 sits inside Topic 5, Financial information and decisions. Test yourself afterwards with the [practice questions](/resources/o-level-business-business-finance-needs-and-sources-practice/), and use the [revision notes](/resources/o-level-business-business-finance-needs-and-sources-revision-notes/) in the last weeks. For the wider topic, see the [Financial information and decisions practice set](/resources/o-level-business-financial-information-and-decisions-practice/), the [Cambridge O Level Business hub](/boards/cambridge/o-level/business/) and the [printable checklist](/checklists/cambridge/o-level/business/). If you are not sure where you stand, try the [free diagnostics](/diagnostics/).

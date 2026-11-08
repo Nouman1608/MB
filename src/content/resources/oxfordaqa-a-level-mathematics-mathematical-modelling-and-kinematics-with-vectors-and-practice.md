@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "m2-kinematics-oxfordaqa-alevel-maths"
 description: "Original practice questions with worked answers on modelling and vector kinematics with calculus for OxfordAQA International A-level Maths Unit M2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

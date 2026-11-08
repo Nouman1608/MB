@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "bivariate-distributions-0479"
 description: "Condensed revision notes on correlation, scatter diagrams, semi-averages, y = mx + c and extrapolation for Cambridge IGCSE Statistics Topic 11."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense Topic 11, Bivariate distributions, of the Cambridge IGCSE Statistics 0479 syllabus for examination in 2027 (outcomes 11.1 to 11.7). For full explanations and longer worked examples, read the [study guide](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and/). Then test yourself with the [practice questions](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and-practice/). The [Cambridge IGCSE Statistics hub](/boards/cambridge/igcse/statistics/) and the [printable checklist](/checklists/cambridge/igcse/statistics/) show the rest of the course, and the [free 10-minute diagnostics](/diagnostics/) show where to focus.

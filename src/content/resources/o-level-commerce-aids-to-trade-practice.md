@@ -14,8 +14,12 @@ syllabusTopics:
     topic: "aids-to-trade-that-support-commerce-7100"
 description: "Cambridge O Level Commerce 7100 practice with worked answers on advert types, media choice, loss leaders, standing orders, premiums, debt factoring and margins."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These questions cover all four sections of Topic 5, Aids to trade that support commerce, in Cambridge O

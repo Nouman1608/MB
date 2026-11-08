@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "indices-i-cambridge-igcse-maths"
 description: "Original practice questions with worked mark schemes on powers, roots, negative and fractional indices for Cambridge IGCSE Maths 0580, Core and Extended."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

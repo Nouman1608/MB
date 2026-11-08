@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-9-2"
 description: "OxfordAQA 9620 study guide to section 3.3.9: acids, esters, fats, soap, biodiesel, acylation, the addition-elimination mechanism and required practical 10."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide works through section 3.3.9 (Carboxylic acids and derivatives) of OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020. Both subsections are included (3.3.9.1 on acids and esters, 3.3.9.2 on acylation), along with required practical 10. Because 3.3.9 is International A2 organic content, all of it is **International A-level only**. Its questions sit in Unit 4 (Organic 2 and Physical 2), which covers sections 3.3.7–3.3.16, while Unit 5 (Practical and synoptic) assesses all content.

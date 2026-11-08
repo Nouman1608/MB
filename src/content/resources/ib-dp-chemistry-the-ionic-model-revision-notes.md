@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-2-1"
 description: "Condensed IB DP Chemistry revision notes on the ionic model: ion charges, formula rules, the seven polyatomic ions, lattice properties and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense **Structure 2.1, The ionic model**, for the final weeks before your exams. They follow the IB's Diploma Programme *Chemistry guide* (February 2023 edition, first assessment 2025) and cover understandings Structure 2.1.1, 2.1.2 and 2.1.3. All of it is common to **SL and HL**, because this sub-topic has no AHL extension.

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "an-introduction-to-production-costs-revenue-and-profit-oxfordaqa-alevel-economics"
 description: "Study guide to costs, economies and diseconomies of scale, average and total revenue and profit for OxfordAQA International AS and A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Aligned to the OxfordAQA International AS and A-level Economics specification (9640), version 1.2, this guide covers sections 3.1.3.3 (costs of production), 3.1.3.4 (economies and diseconomies of scale) and 3.1.3.5 (average revenue, total revenue and profit). Section 3.1 is International AS content, and it also forms part of the full International A-level. Quantitative skills (section 3.5) can be assessed in any unit. Every firm and figure is made up for illustration.

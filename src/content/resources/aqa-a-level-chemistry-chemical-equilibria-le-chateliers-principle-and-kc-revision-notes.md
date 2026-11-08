@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "chemical-equilibria-le-chateliers-principle-and-kc-7405"
 description: "Condensed revision notes on equilibria, Le Chatelier's principle and Kc for AQA A-Level Chemistry (7405), with a quick self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes are for the final weeks before your exams. For full explanations and longer worked examples, use the [chemical equilibria study guide](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc/).

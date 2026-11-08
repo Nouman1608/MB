@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "cholera-oxfordaqa-alevel-biology"
 description: "Study guide to digestion, absorption, cholera and oral rehydration solutions, sections 3.2.2 and 3.2.3 of OxfordAQA International AS and A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers sections 3.2.2 (Digestion and absorption) and 3.2.3 (Cholera) of Unit 2, Biological systems and disease, in the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1, for International A-level exams May/June 2018 onwards. The specification lists Unit 2 as content for both the International AS and the International A-level. For the course page see the [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/), and track your progress on the [printable checklist](/checklists/oxfordaqa/a-level/biology/).

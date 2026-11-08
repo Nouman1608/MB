@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "introduction-to-the-national-economy-oxfordaqa-igcse-economics"
 description: "Condensed revision notes on interest rates, sharia-compliant finance, government revenue, spending, and direct, indirect, progressive and regressive taxes."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.2.1.1 and 3.2.1.2 of the OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025. For full explanations and worked examples, use the [study guide](/resources/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and/). When you are ready to test yourself, try the [practice questions](/resources/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and-practice/), the free [10-minute diagnostics](/diagnostics/), the [course hub](/boards/oxfordaqa/igcse/economics/) and the [printable checklist](/checklists/oxfordaqa/igcse/economics/). The next sub-topic is [government objectives](/resources/igcse-oxfordaqa-economics-government-objectives-revision-notes/). All figures are invented.

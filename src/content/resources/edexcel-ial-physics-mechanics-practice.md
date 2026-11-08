@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "mechanics"
 description: "Original Edexcel IAL Physics Unit 1 mechanics questions with worked answers: suvat, projectiles, Newton's laws, momentum, moments, work, power and efficiency."
 author: "iftikhar-azeemi"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: removed impulse from Unit 1 (it is Unit 4 topic 4.3), second law stated as F = ma per spec 1.3.9, added suvat, slope, moments, work-at-angle and energy questions and an FAQ; please re-review; previously reviewed by hassan on 2026-09-29."
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: removed impulse from Unit 1 (it is Unit 4 topic 4.3), second law stated as F = ma per spec 1.3.9, added suvat, slope, moments, work-at-angle and energy questions and an FAQ; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
 publishedDate: 2026-08-22
 featured: false
 ---

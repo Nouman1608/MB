@@ -16,9 +16,10 @@ syllabusTopics:
     topic: "unit-p1-pure-mathematics-1-edexcel-alevel-maths"
 description: "Edexcel International A Level Maths Unit P1 guide: indices, surds, quadratics, straight lines, sine and cosine rules, radians, and first calculus for YMA01."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-08-21
 featured: false
 ---

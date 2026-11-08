@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "boolean-logic-2210"
 description: "Boolean logic recall notes for Cambridge O Level Computer Science 2210: gate output patterns, words-to-gates, truth table drills and circuit-drawing rules."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 10 of Cambridge O Level Computer Science (2210) can be revised almost entirely from one table of gate outputs and a handful of conversion methods. On Paper 2 you will be asked to name gates, complete truth tables, write logic expressions and draw circuits from statements, expressions or tables — for up to three inputs and one output, with every gate except NOT limited to two inputs.

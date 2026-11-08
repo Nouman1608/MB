@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "price-income-and-cross-elasticity-of-demand-cambridge-alevel-economics"
 description: "Condensed revision notes on PED, YED and XED for Cambridge AS and A Level Economics 9708: formulae, values, total expenditure, decisions and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 2.2 (outcomes 2.2.1 to 2.2.8) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 2 is AS Level content and is assumed knowledge for A Level Papers 3 and 4. For full explanations read the [study guide](/resources/cambridge-a-level-economics-price-income-and-cross-elasticity-of-demand/), then test yourself with the [practice questions](/resources/cambridge-a-level-economics-price-income-and-cross-elasticity-of-demand-practice/). The [price system revision notes](/resources/a-level-economics-price-system-revision-notes/) cover the rest of topic 2. All figures here are invented and illustrative.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "analysis-unit-6-yph11"
 description: "Revision notes for section 6.5 Analysis in Pearson Edexcel International A Level Physics (YPH11): rules, method boxes, self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 These revision notes condense section 6.5 Analysis of Unit 6: Practical Skills in Physics II in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics specification (YPH11), Issue 3. Unit 6 is part of IA2 and has no tiers. For full explanations and longer worked examples, use the [study guide](/resources/edexcel-ial-physics-unit-6-analysing-data-with-log-graphs-accuracy-and/). Then test yourself with the [practice questions](/resources/edexcel-ial-physics-unit-6-analysing-data-with-log-graphs-accuracy-and-practice/), check coverage on the [printable checklist](/checklists/edexcel/a-level/physics/), see the [course hub](/boards/edexcel/a-level/physics/) and take a [free 10-minute diagnostic](/diagnostics/).

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "q-kinematics-aqa-alevel-maths"
 description: "Revision notes for AQA A-level Maths (7357) kinematics: key terms, graph rules, suvat, calculus and projectile methods, plus a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 For full explanations and longer worked examples, use the [Kinematics study guide](/resources/aqa-a-level-mathematics-kinematics/). These notes are for quick recall in the final weeks.

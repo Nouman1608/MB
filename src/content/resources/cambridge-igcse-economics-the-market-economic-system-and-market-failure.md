@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-failure-cambridge-igcse-economics"
 description: "Study guide to the market economic system, causes of market failure and over- and under-consumption, with worked examples, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches sections 2.9 and 2.10 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026: the market economic system (2.9.1 and 2.9.2) and market failure (2.10.1 to 2.10.3). Economics 0455 is not tiered, so everyone studies all of it. Every figure and place in the worked examples is invented for practice and is not a real statistic.

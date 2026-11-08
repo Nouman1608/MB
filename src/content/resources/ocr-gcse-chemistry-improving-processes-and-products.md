@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c6-1-improving-processes-products-j248"
 description: "Study guide for OCR GCSE Chemistry A (J248) C6.1: metal extraction, Haber and Contact trade-offs, fertilisers, life-cycle assessment, alloys and corrosion."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 Sub-topic **C6.1 Improving processes and products** opens Topic C6 Global challenges in OCR's Chemistry A (Gateway Science) specification for GCSE (9–1), code J248, in its Version 4.0 issue of August 2026. This guide teaches every learning outcome from C6.1a to C6.1s, the mathematical learning outcomes CM6.1i to CM6.1iv, and the practical suggestions linked to PAG C1, PAG C2 and PAG C6. Outcomes C6.1c, C6.1d, C6.1e and C6.1f are **Higher Tier only**; the other statements can appear on either tier. The assessment overview places Topic C6 on Paper 2 (Foundation) and Paper 4 (Higher), and both papers include synoptic assessment.

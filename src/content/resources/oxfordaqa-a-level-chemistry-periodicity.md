@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-2-1-2"
 description: "OxfordAQA 9620 Chemistry periodicity from scratch: s, p, d and f blocks, then Period 3 radius, first ionisation energy and melting point with real data."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Here you will learn section **3.2.1 Periodicity** from the OxfordAQA International AS and A-level

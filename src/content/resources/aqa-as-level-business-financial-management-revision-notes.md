@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "financial-management-aqa-aslevel-business"
 description: "Condensed revision notes for AQA AS Business (7137) 3.1.4 financial management: formulas, methods, key distinctions and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed notes for **3.1.4 Financial management** in AQA AS Business (7137), for first teaching from September 2026. For full explanations and worked examples, read the [study guide](/resources/aqa-as-level-business-financial-management/). Test yourself afterwards with the [practice questions](/resources/aqa-as-level-business-financial-management-practice/), and see the [course structure guide](/resources/aqa-as-level-business-course-structure/) for how the sub-topic fits the course. Course hub: [AQA AS Business](/boards/aqa/as-level/business/). Tick-off list: [checklist](/checklists/aqa/as-level/business/). To find weak spots first, try [all free 10-minute diagnostics](/diagnostics/).

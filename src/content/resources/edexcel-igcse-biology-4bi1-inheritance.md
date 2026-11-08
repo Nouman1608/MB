@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "inheritance-4bi1"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 Inheritance: DNA, protein synthesis, genetic crosses, pedigrees, cell division, mutation and natural selection."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches sub-topic 3(b), **Inheritance** (specification points 3.14–3.39), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Points with a **B** reference (3.16B, 3.17B, 3.18B, 3.21B, 3.35B, 3.36B and 3.37B) are bold in the specification and are examined on Paper 2 only; everything else can appear on either paper. It applies to the June and November series examined under Issue 3.

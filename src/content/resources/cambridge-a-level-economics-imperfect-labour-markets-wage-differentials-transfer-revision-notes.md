@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "labour-market-forces-and-government-intervention-cambridge-alevel-economics"
 description: "Revision notes on unions, minimum wages, monopsony, wage differentials, transfer earnings and economic rent for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense outcomes 8.3.8 to 8.3.10 of the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 8 is A Level content. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer/). Then try the [practice set](/resources/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer-practice/), tick off the [checklist](/checklists/cambridge/a-level/economics/), see the [course hub](/boards/cambridge/a-level/economics/) and use the [free 10-minute diagnostics](/diagnostics/). Perfect-market labour theory (outcomes 8.3.1 to 8.3.7) is in the [perfect markets guide](/resources/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect/).

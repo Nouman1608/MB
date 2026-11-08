@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-1-3"
 description: "Study guide to vision and mission statements, growth, profit, shareholder value, ethics, strategic and tactical aims and CSR in IB Business Management."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 1.3, Business objectives, of Unit 1 in the IB *Business management guide* (first assessment 2024). The content applies to both SL and HL; nothing in 1.3 is marked as HL only. It sits between 1.2 (types of business entity) and 1.4 (stakeholders), so many answers on objectives also lean on stakeholder ideas.

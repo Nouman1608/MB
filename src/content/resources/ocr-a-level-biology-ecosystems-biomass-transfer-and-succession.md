@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "ecosystems-ocr-alevel-biology"
 description: "Study guide to ecosystems, biomass transfer, the nitrogen and carbon cycles, primary succession and sampling statistics for OCR A Level Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers section 6.3.1(a) to (e) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It sits in Module 6, Genetics, evolution and ecosystems. It teaches ecosystems, biomass transfer, the nitrogen and carbon cycles, primary succession, and measuring distribution and abundance with statistics. Section 6.3.2 is outside this unit.

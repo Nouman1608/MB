@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "amino-acids-proteins-and-dna-7405"
 description: "AQA A-Level Chemistry study guide to amino acids, proteins, enzymes, DNA and cisplatin, with worked examples on zwitterions, peptides and Rf values."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.3.13 Amino acids, proteins and DNA** of the AQA AS and A-level Chemistry

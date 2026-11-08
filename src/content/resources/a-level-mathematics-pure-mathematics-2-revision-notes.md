@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "pure-mathematics-2-cambridge-alevel"
 description: "Cambridge 9709 Pure Mathematics 2 revision notes: modulus, factor and remainder theorems, logs, sec, cosec and cot, calculus combinations and numerical methods."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-09-05
 featured: false
 ---

@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "present-data-20-3-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 Topic 20: formulas, absolute and relative references, IF and LOOKUP functions, sorting, filtering and formatting."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Spreadsheets in Cambridge IGCSE ICT 0417 (Topic 20) cover building a data model with formulae and functions (including absolute and relative references, named ranges, IF, the LOOKUP family and nested functions), manipulating data by sorting and searching with operators and wildcards, and presenting it with number formats, conditional formatting and print settings. It is assessed practically in Paper 3, Spreadsheets and Website Authoring.

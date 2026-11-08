@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "cellular-control-ocr-alevel-biology"
 description: "Study guide to gene mutations, the lac operon, transcription factors, Hox genes, mitosis and apoptosis for OCR A Level Biology A (H420), module 6.1.1."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide is for OCR A Level Biology A (H420), written to the OCR specification Version 4.1 (April 2026), for first assessment in 2025. It covers module 6.1.1, Cellular control, learning outcomes (a) to (d): gene mutations, the control of gene expression at three levels, the genetic control of body plans, and mitosis and apoptosis in development. Use the [revision notes](/resources/ocr-a-level-biology-gene-mutations-and-control-of-gene-expression-revision-notes/) for quick recall and the [practice set](/resources/ocr-a-level-biology-gene-mutations-and-control-of-gene-expression-practice/) to test yourself. Course pages: the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [printable checklist](/checklists/ocr/a-level/biology/). Take the free [10-minute diagnostics](/diagnostics/) to check where you stand. Background on codons and transcription is in [the genetic code, transcription and translation](/resources/ocr-a-level-biology-the-genetic-code-transcription-and-translation/).

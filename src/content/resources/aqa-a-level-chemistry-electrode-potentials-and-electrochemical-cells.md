@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "electrode-potentials-and-electrochemical-cells-7405"
 description: "Study guide for AQA A-Level Chemistry 7405 section 3.1.11: cell notation, the hydrogen electrode, EMF, predicting redox and commercial cells."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide covers section 3.1.11, Electrode potentials and electrochemical cells, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole of 3.1.11 is marked "A-level only", so it is not part of AS. The specification lists it under A-level Paper 1, and Paper 3 can assess any content. Required practical 8, measuring the EMF of an electrochemical cell, belongs to this section.

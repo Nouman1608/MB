@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "control-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on IAA, tropisms, ethene, ripening, ABA and stomatal closure, with a self-test, for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes cover *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, section 3.4.5 and Required practical 10, which the specification places in Unit 4 (International A-level only). Go to the [study guide](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba/). Once the points below come easily, work through the [practice questions](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-practice/). Use the [course hub](/boards/oxfordaqa/a-level/biology/), the [printable checklist](/checklists/oxfordaqa/a-level/biology/) and a [free diagnostic](/diagnostics/) to find gaps.

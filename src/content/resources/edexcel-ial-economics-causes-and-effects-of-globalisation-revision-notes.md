@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "causes-and-effects-of-globalisation-edexcel-alevel-economics"
 description: "Condensed revision notes on the characteristics, causes and effects of globalisation for Pearson Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.3.1, Causes and effects of globalisation, items 1 to 3, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. Unit 4 is an International Advanced Level compulsory unit, part of the additional International A2 content. For full explanations use the [study guide](/resources/edexcel-ial-economics-causes-and-effects-of-globalisation/), then test yourself with the [practice questions](/resources/edexcel-ial-economics-causes-and-effects-of-globalisation-practice/). See also the [course hub](/boards/edexcel/a-level/economics/), the [checklist](/checklists/edexcel/a-level/economics/), [exam preparation](/resources/edexcel-ial-economics-exam-preparation/) and the [free diagnostics](/diagnostics/). All figures are invented for illustration.

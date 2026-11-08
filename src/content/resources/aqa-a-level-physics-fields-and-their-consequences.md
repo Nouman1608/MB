@@ -30,8 +30,12 @@ syllabusTopics:
     subtopic: "magnetic-fields-aqa-alevel"
 description: "Study guide to AQA A-Level Physics 7408 Fields: gravitational and electric fields, orbits, capacitors, magnetic forces, induction and transformers."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 This study guide teaches section 3.7 Fields and their consequences of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.7.1 to 3.7.5. The whole section is A-level only and is assessed in Paper 2. It is core content: sections 3.9 to 3.13 are the options, of which you study one for Paper 3 Section B.

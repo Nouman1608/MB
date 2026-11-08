@@ -26,11 +26,12 @@ syllabusTopics:
     subtopic: "sentencing-in-england-and-wales-9084"
 description: "Condensed revision notes on elements of a crime, offences against property, and sentencing for Cambridge AS & A Level Law Topic 2 Criminal Law (9084)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 Related: [Topic 2 study guide](/resources/a-level-cambridge-law-criminal-law/)

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "red-shift-and-the-expanding-universe"
 description: "Condensed revision notes on orbits, satellites, the Doppler effect, red shift, CMBR and the Big Bang for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes condense sections 3.8.2 (solar system and orbital motion) and 3.8.3 (red shift and the expanding universe) of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. The qualification is untiered, and section 3.8.3 is for the full Physics award only. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang/).
 

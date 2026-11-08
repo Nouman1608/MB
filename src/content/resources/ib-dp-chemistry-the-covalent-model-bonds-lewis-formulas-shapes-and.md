@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-2-2"
 description: "Study guide for IB DP Chemistry Structure 2.2: Lewis formulas, coordination bonds, VSEPR shapes, polarity, networks, intermolecular forces and RF values."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Here you will learn Structure 2.2.1 to 2.2.10, the opening understandings of the covalent model, following the *Chemistry guide* that the IB published in February 2023 for Diploma Programme courses first assessed in 2025. Everything in this range is taught at both SL and HL. The single exception is the extension on transition element complexes, which belongs to the additional higher level material and is marked HL only below.

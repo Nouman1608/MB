@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "moments-oxfordaqa-alevel"
 description: "Study guide to scalars, vectors, equilibrium of coplanar forces, moments, couples and centre of mass for OxfordAQA International AS and A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, sections 3.2.1 (Scalars and vectors) and 3.2.2 (Moments). Both sections are shared International AS and A-level content, so they apply to everyone taking the qualification. Every worked example uses data given in the question; where gravitational field strength is needed, take g = 9.81 N kg⁻¹.

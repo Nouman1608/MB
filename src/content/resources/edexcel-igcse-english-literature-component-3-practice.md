@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "assignment-b-literary-heritage-texts-4et1"
 description: "Original Component 3 coursework tasks for Edexcel IGCSE English Literature (4ET1) on modern drama and literary heritage set texts, with AO1, AO2, AO4 guidance."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

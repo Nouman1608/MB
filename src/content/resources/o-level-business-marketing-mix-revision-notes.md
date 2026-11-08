@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "marketing-mix"
 description: "Condensed revision notes on the marketing mix for Cambridge O Level Business 7115: product, price, place, promotion and e-commerce, plus a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes condense section 3.3 Marketing mix of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026 (3.3.1 to 3.3.5). For explanations and worked examples, read the [full study guide](/resources/o-level-business-marketing-mix/) first. When you are ready, test yourself with the [practice questions](/resources/o-level-business-marketing-mix-practice/). Earlier marketing content is in the [Marketing practice set](/resources/o-level-business-marketing-practice/). Course pages: [Cambridge O Level Business hub](/boards/cambridge/o-level/business/) and [printable checklist](/checklists/cambridge/o-level/business/). Not sure where to start? Use the [free diagnostics](/diagnostics/).

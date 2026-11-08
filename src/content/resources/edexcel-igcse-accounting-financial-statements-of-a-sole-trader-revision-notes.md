@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "financial-statements-of-a-sole-trader-4ac1"
 description: "Condensed notes on sole trader income statements and statements of financial position: layouts, classification tables, a worked reminder and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 4.1, Financial statements of a sole trader, from Topic 4 of the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The two points are 4.1a (income statements showing gross profit and profit for the year) and 4.1b (statements of financial position showing assets, liabilities and equity). No tier labels are given. For full explanations and two complete worked examples, use the [study guide](/resources/edexcel-igcse-accounting-financial-statements-of-a-sole-trader/).

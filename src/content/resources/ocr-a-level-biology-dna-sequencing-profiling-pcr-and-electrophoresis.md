@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "manipulating-genomes-ocr-alevel-biology"
 description: "Study guide to DNA sequencing, bioinformatics, DNA profiling, PCR and electrophoresis for OCR A Level Biology A (H420), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide is for OCR A Level Biology A (H420), written to the OCR specification Version 4.1 (April 2026), for first assessment in 2025. It covers module 6.1.3 (Manipulating genomes), learning outcomes (a) to (e): sequencing, bioinformatics, DNA profiling, the polymerase chain reaction and electrophoresis. For quick recall use the [revision notes](/resources/ocr-a-level-biology-dna-sequencing-profiling-pcr-and-electrophoresis-revision-notes/), then test yourself with the [practice set](/resources/ocr-a-level-biology-dna-sequencing-profiling-pcr-and-electrophoresis-practice/). Course pages: [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the free [10-minute diagnostics](/diagnostics/). Background: [the genetic code](/resources/ocr-a-level-biology-the-genetic-code-transcription-and-translation/) and [DNA structure and replication](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative/). Module 6 content is assessed in components 02 and 03.

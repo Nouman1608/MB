@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "project-appraisal"
 description: "Study guide to Edexcel IAL Accounting topic 2.6: net present value, WACC, profitability index, IRR, ARR and payback, each with a fully worked example."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches topic 2.6, Project appraisal, of the Pearson Edexcel International Advanced

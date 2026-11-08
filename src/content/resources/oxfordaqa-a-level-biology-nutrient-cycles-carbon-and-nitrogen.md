@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
 description: "Decomposers, carbon and nitrogen cycles, greenhouse gases, fertilisers and eutrophication explained for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers section 3.3.5 Nutrient cycles (3.3.5.1 to 3.3.5.3) of the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1. Section 3.3.5 sits in Unit 3, Populations and genes, which the specification lists as International A-level only. The specification asks you to analyse, interpret and evaluate data in this section, and the worked examples below practise that.

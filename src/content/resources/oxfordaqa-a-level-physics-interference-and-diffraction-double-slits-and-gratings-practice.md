@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "diffraction-oxfordaqa-alevel"
 description: "Original practice questions with worked answers on coherence, Young's slits, single-slit diffraction and diffraction gratings for OxfordAQA Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

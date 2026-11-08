@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-b-1"
 description: "Original practice questions with worked answers on the computational thinking process for IB DP Computer Science B.1: success criteria, decomposition, testing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: new overview practice page written only from the IB DP Computer Science subject brief (first assessment 2027); questions test the brief's four-part process, not the full guide's detailed outcomes; please review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: new overview practice page written only from the IB DP Computer Science subject brief (first assessment 2027); questions test the brief's four-part process, not the full guide's detailed outcomes; please review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

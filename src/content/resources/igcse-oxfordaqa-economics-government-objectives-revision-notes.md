@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "government-objectives-oxfordaqa-igcse-economics"
 description: "Revision notes on growth, unemployment, inflation, the balance of payments and income distribution for OxfordAQA International GCSE Economics 9214, 3.2.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "the-role-of-aphids-in-spreading-plant-viruses-oxfordaqa-alevel-biology"
 description: "Eleven original questions with worked answers on HIV structure and replication, HIV drugs, plant viruses and aphid vectors for OxfordAQA Biology 9610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

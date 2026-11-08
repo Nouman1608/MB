@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "inflation-and-price-stability-aqa-gcse-economics"
 description: "Eighteen original practice questions with worked answers for AQA GCSE Economics 3.2.2.1 and 3.2.2.4: objectives, conflicts, inequality, ethics and inflation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

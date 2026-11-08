@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "paper-3-shakespeare-and-drama-9695"
 description: "Original recall practice on Cambridge 9695 Paper 3 Shakespeare and Drama: format, (a) and (b) questions, AO5 and set-text rotation, with worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-04
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description shortened, FAQ with 2027 set plays added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: description shortened, FAQ with 2027 set plays added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

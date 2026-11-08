@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "the-market-4bs1"
 description: "Original practice questions with worked answers on market research, market share and segmentation for Edexcel International GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

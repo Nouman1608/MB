@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "radioactivity"
 description: "Condensed revision notes for Cambridge O Level Physics 5054 nuclear physics: nuclides, radiation, half-life, fission and safety, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 These notes condense topic 5, Nuclear physics, from the Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028 (sections 5.1.1 to 5.2.6). For full explanations and worked examples, read the [study guide](/resources/o-level-physics-nuclear-physics/) first.
 

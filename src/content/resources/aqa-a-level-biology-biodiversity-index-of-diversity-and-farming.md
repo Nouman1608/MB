@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "biodiversity-within-a-community-aqa-alevel-biology"
 description: "Study guide to biodiversity, species richness, the index of diversity calculation and farming for AQA A-level Biology 7402 section 3.4.6."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 This guide covers AQA A-level Biology (7402) section 3.4.6, *Biodiversity within a community*, as set out in the AQA AS and A-level Biology specification for first teaching 2015. Section 3.4.6 sits in topic 4, which is also AS content. The assessment overview lists topics 1 to 4 for A-level Paper 1, and topics 1 to 8 for Paper 3. For the other pages in this unit see the [revision notes](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-revision-notes/) and the [practice questions](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). To find weak spots first, try the [free diagnostics](/diagnostics/). Genetic diversity within a species is covered separately in [mutation and meiosis](/resources/aqa-a-level-biology-mutation-and-meiosis/).
 

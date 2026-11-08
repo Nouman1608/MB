@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "classification-and-evolution-ocr-alevel-biology"
 description: "Twelve original questions with worked answers on ranks, binomial names, kingdoms, domains, sequence data and phylogeny for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

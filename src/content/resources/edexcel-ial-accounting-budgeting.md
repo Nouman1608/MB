@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "budgeting-yac"
 description: "Study guide to Edexcel IAL Accounting topic 2.4 Budgeting: functional budgets, cash budget, budgeted statements and flexible budgets, fully worked."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches topic 2.4, Budgeting, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. It covers learning outcomes 2.4.1 to 2.4.5. The topic sits in Unit 2 (Corporate and Management Accounting), so it is **Unit 2 (A2) only**: it is examined in the second unit of the full International A Level. Every business and figure below is made up; amounts are in dollars.

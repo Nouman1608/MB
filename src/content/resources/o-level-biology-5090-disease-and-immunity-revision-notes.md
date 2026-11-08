@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "disease-and-immunity"
 description: "Condensed revision notes on pathogens, malaria, HIV, cholera, smoking, antibiotics and immunity for Cambridge O Level Biology 5090, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, use the [study guide for this topic](/resources/o-level-biology-5090-disease-and-immunity/). These notes condense Topic 12, Disease and immunity, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028: every learning outcome in sections 12.1 Disease, 12.2 Antibiotics and 12.3 Immunity. The syllabus is not tiered, so all of it applies to every candidate.

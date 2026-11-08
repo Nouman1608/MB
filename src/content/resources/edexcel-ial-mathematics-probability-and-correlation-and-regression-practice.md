@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "s1-correlation-and-regression-edexcel-alevel-maths"
 description: "Original practice questions with worked answers on probability, Venn and tree diagrams, regression and correlation for Edexcel IAL Mathematics Unit S1."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

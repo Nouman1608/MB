@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "transport-in-flowering-plants"
 description: "Condensed revision notes for O Level Biology 5090 transport in flowering plants, with factor tables, method steps and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and worked examples, use the [transport in flowering plants study guide](/resources/o-level-biology-5090-transport-in-flowering-plants/). These notes are for the final weeks of revision.

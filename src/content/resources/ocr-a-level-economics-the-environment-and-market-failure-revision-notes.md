@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "externalities-ocr-aslevel-economics"
 description: "Condensed revision notes on the environment and market failure for OCR A Level Economics: definitions, diagrams, calculations and policy evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the topic **Environment** in Component 1, Microeconomics, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. The whole specification is A Level and no content is labelled AS or Extension. Full explanations and worked examples are in the [study guide](/resources/ocr-a-level-economics-the-environment-and-market-failure/). All figures here are invented and illustrative. Find the [OCR Economics hub](/boards/ocr/a-level/economics/), the [printable checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/) to check progress.

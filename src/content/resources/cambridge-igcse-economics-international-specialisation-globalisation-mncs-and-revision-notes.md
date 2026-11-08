@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "globalisation-free-trade-and-protection-cambridge-igcse-economics"
 description: "Condensed revision notes on national specialisation, globalisation, MNCs and free trade for Cambridge IGCSE Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 6.1.1, 6.1.2 and 6.2.1 to 6.2.3 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. The course is not tiered. Methods, reasons and consequences of protection (6.2.4 to 6.2.6) are in a separate unit. For full explanations read the [study guide](/resources/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-international-specialisation-globalisation-mncs-and-practice/). Other links: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/). All figures are invented.

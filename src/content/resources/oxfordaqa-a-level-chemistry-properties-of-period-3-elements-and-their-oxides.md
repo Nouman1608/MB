@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-2-4-1"
 description: "Study guide for OxfordAQA 9620 Chemistry 3.2.4: Period 3 elements with water, oxygen and chlorine, then their oxides and chlorides in water."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide covers **Properties of Period 3 elements and their oxides and chlorides**, section 3.2.4

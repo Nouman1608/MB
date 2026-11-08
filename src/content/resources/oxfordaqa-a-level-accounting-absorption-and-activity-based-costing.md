@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "absorption-and-activity-based-costing-oxfordaqa"
 description: "Study guide to OxfordAQA International A-level Accounting 3.2.2: overhead analysis, absorption rates, ABC cost pools, pricing and method comparison."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches section **3.2.2 Absorption and activity based costing** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. The whole section is **International A-level only**, and it is assessed on Paper 4: Accounting for analysis and decision making. All figures are in dollars and every business is fictional.

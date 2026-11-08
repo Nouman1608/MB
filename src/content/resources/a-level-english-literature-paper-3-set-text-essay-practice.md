@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "section-b-drama-9695"
 description: "Original Cambridge 9695 Paper 3 essay and passage questions on Hamlet, The Taming of the Shrew, Long Day's Journey Into Night and Sweat, with answer guidance."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

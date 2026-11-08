@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "financial-statements-of-a-partnership-4ac1"
 description: "Study guide to partnership accounts for Edexcel IGCSE Accounting 4AC1: Section 24, LLPs, appropriation and current accounts, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. It covers Topic 4, section 2 (the financial statements of a partnership), content points a to g. Topic 4 is part of the content that Paper 2, Financial Statements, draws on. Amounts below are in dollars and every business and person is invented.

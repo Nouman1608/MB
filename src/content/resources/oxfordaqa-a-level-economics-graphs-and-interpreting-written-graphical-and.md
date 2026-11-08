@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "qs9-quantitative-skills-oxfordaqa-alevel-economics"
 description: "Study guide to building and reading graphs and to interpreting written, graphical and numerical data, for OxfordAQA International AS and A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers quantitative skills QS4 and QS9 in section 3.5 of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. The specification says these skills could be assessed in any of the assessments. Sections 3.1 and 3.2 are International AS content and sections 3.3 and 3.4 are the extra International A2 content, and the specification gives no extra A2 requirement for either skill. All the countries, firms and figures below are made up for illustration. Use the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/) to track progress, and try the [free diagnostics](/diagnostics/) to find weak spots.

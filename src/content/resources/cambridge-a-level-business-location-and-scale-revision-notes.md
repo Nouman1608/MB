@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "location-and-scale-cambridge-alevel-business"
 description: "Condensed revision notes for 9.1 Location and scale in Cambridge A Level Business 9609, with tables, a self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These are condensed notes for section 9.1 Location and scale (9.1.1 Location and 9.1.2 Scale of operations) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is A Level content within Topic 9, Operations management. For full explanations and worked examples, use the [study guide](/resources/cambridge-a-level-business-location-and-scale/), then try the [practice questions](/resources/cambridge-a-level-business-location-and-scale-practice/). Related questions are in the [Topic 9 practice set](/resources/a-level-business-operations-a-level-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

@@ -30,9 +30,10 @@ syllabusTopics:
     subtopic: "static-electricity"
 description: "Eleven original AQA GCSE Physics 8463 Electricity questions on circuits, resistance, mains safety, power, National Grid and static, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-27
 featured: false
 ---

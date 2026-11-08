@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-8-1"
 description: "Condensed OxfordAQA 9620 notes on aldehydes and ketones: tests, [H] and HCN equations, both mechanisms, racemates, KCN hazards and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.3.8 (subsection 3.3.8.1), Aldehydes and ketones, of the OxfordAQA *International AS and A-level Chemistry (9620)* specification (Version 5.3; International AS and A-level exams May/June 2020 onwards). Its content is **International A-level only**, and the unit that examines it is Unit 4 (Organic 2 and Physical 2); Unit 5, the practical and synoptic unit, can also use it. The [aldehydes and ketones study guide](/resources/oxfordaqa-a-level-chemistry-aldehydes-and-ketones/) explains each point in full with worked examples; begin there if anything below is unclear.

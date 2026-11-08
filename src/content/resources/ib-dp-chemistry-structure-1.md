@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-dp-chemistry-structure-1"
 description: "IB DP Chemistry Structure 1 study guide: particle theory, the nuclear atom, electron configurations, the mole and ideal gases, with HL-only extensions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-09-06
 featured: false
 ---

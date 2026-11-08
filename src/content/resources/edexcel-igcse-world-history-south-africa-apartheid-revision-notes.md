@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "south-africa-apartheid-4hi1"
 description: "Condensed notes on South Africa, 1948–94 for Edexcel IGCSE History 4HI1: apartheid laws table, timeline, resistance compared, Botha's reforms and exam traps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the laws table and timeline against the 4HI1 specification and a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the laws table and timeline against the 4HI1 specification and a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

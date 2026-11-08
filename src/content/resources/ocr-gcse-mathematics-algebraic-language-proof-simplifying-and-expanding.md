@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "algebraic-expressions-ocr-gcse-maths"
 description: "Study guide to OCR GCSE Mathematics algebraic language, identities, proof, collecting terms, indices and expanding brackets, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is for OCR GCSE (9-1) Mathematics, aligned to the OCR specification Version 2.1 (August 2026). It covers sections 6.01a to 6.01d: algebraic terminology and proofs, collecting like terms, simplifying products and quotients, and multiplying out brackets. Most of it is for both tiers. Content marked **Higher tier only** is for Higher tier candidates alone. These are algebra skills, so every example is done by hand.

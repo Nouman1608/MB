@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "introduction-to-organic-chemistry-7405"
 description: "Condensed AQA A-Level Chemistry 3.3.1 revision notes: formula types, naming rules, radical and curly-arrow conventions, isomer types, E–Z and CIP."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **3.3.1 Introduction to organic chemistry** of the AQA AS and A-level Chemistry

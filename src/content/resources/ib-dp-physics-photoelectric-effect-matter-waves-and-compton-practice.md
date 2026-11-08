@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-e-2"
 description: "Original worked practice questions on the photoelectric effect, de Broglie waves, electron diffraction and Compton scattering for IB DP Physics HL."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

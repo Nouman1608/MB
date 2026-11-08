@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "kinematics-ocr-alevel-maths"
 description: "A study guide to variable acceleration, vector motion, motion under gravity and projectiles for OCR A Level Mathematics A (H240), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches content references 3.02f to 3.02i of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. Calculus for variable acceleration in one dimension (3.02f) is Stage 1, shared with AS. The two-dimensional extension (3.02g), motion under gravity with vectors (3.02h) and projectiles (3.02i) are **A Level only**. The specification places Mechanics in Paper 3, Pure Mathematics and Mechanics. Constant acceleration formulae are taught in the [units and constant acceleration guide](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant/), so they are used here and not rebuilt. Use the [revision notes](/resources/ocr-a-level-mathematics-variable-acceleration-motion-under-gravity-and-revision-notes/) for recall and the [practice set](/resources/ocr-a-level-mathematics-variable-acceleration-motion-under-gravity-and-practice/) for questions. The [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/) show where to focus.

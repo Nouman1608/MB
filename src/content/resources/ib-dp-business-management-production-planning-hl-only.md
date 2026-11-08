@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-6"
 description: "Study guide to IB DP Business Management 5.6 (HL only): supply chains, JIT and JIC, stock control charts, capacity, defects, productivity and CTB or CTM."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 5.6, Production planning, in Unit 5 (Operations management) of the IB *Business management guide*, first assessment 2024. The whole section is HL only, so SL candidates do not need it. Businesses and figures below are invented.

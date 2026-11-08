@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "finance-oxfordaqa-igcse-business"
 description: "Condensed revision notes for OxfordAQA International GCSE Business 9225 Finance: sources, cash flow, break-even, payback, margins and quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.6 Finance of the OxfordAQA International GCSE Business (9225) specification, version 3.1 (exams from May/June 2022 onwards). For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-igcse-business-finance/). Then test yourself with the [practice questions](/resources/oxfordaqa-igcse-business-finance-practice/), tick off the [printable checklist](/checklists/oxfordaqa/igcse/business/), and see the [course hub](/boards/oxfordaqa/igcse/business/) or the free [10-minute diagnostics](/diagnostics/).

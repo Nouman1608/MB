@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "government-policies-edexcel-igcse-economics"
 description: "Study guide to fiscal policy for Edexcel International GCSE Economics: taxes, spending, deficits, surpluses and their effects, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers specification point 2.1.2 a), fiscal policy, from the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. It sits in Paper 2: Macroeconomics and the Global Economy, under "Government and the economy". The specification has a single tier of entry. Monetary policy, supply-side policy and government controls are the other parts of 2.1.2, and the trade-offs between objectives are 2.1.3. They are not taught here.

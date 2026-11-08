@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "electric-field-strength-oxfordaqa"
 description: "Original practice questions with worked answers on Coulomb's law, field lines, E = F/Q, E = V/d and charged particles in fields, OxfordAQA A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

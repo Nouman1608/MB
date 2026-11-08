@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "business-communication-cambridge-alevel-business"
 description: "Study guide to 7.1 Organisational structure and 7.2 Business communication in Cambridge A Level Business, with worked examples on span and delayering."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers sections 7.1 Organisational structure and 7.2 Business communication of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. These are A Level topics, which the syllabus assesses on Paper 3 and Paper 4, with the AS content assumed knowledge. Use it with the [revision notes](/resources/cambridge-a-level-business-organisational-structure-and-business-communication-revision-notes/) and the [practice questions](/resources/cambridge-a-level-business-organisational-structure-and-business-communication-practice/). Earlier HRM ideas are in the [Topic 2 study guide](/resources/a-level-business-human-resource-management/), and the [A Level HRM practice set](/resources/a-level-business-hrm-a-level-practice/) tests other topic 7 ideas. See also the [course hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

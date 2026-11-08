@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "operational-management-aqa-alevel-business"
 description: "Condensed revision notes on AQA A-Level Business operational management: formulas, lean, quality, inventory and supply chains, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.4 of the AQA A-level Business specification (7132), "Decision making to improve operational performance", which Marlbridge numbers as topic 4. Read the [full study guide](/resources/aqa-a-level-business-operational-management/) for explanations. Test yourself with the [practice questions](/resources/aqa-a-level-business-operational-management-practice/), find the [course hub](/boards/aqa/a-level/business/) and the [printable checklist](/checklists/aqa/a-level/business/), and take a [free diagnostic](/diagnostics/) to find weak spots. The official text names the calculations without giving formulas, so the forms below are the standard ones.

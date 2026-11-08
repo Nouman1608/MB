@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "use-of-si-units-and-their-prefixes"
 description: "Original practice questions with worked answers on SI base and derived units, prefixes, standard form and unit conversions for sub-topic 3.1.1 of AQA 7408."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-04
 featured: false
 ---

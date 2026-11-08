@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-structures-ocr-alevel-economics"
 description: "Study guide to oligopoly for OCR A Level Economics: game theory, the kinked demand curve, collusion, concentration ratios and comparing market structures."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches the oligopoly part of the OCR A Level Economics (H460) specification, Version 3.0 (June 2026). It sits in the Competition and market power area of study, under Market structures, in Component 01, Microeconomics.

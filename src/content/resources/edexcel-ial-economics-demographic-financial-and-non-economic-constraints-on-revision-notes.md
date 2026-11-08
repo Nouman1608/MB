@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "growth-and-development-in-developing-emerging-and-developed-economies-edexcel-alevel-economics"
 description: "Condensed notes on population, debt, credit, infrastructure, skills, corruption, conflict and terrorism as limits on development, Edexcel IAL Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense part of section 4.3.6, item 2 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (YEC11), Issue 2, June 2018: the demographic, debt, credit, infrastructure and skills statements in 2a, and the non-economic statements in 2b. This is International A2 content, in Unit 4 (full International A Level only). Fuller explanations are in the [study guide](/resources/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on/). Check recall with the [practice questions](/resources/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on-practice/). See also the [Edexcel A Level Economics hub](/boards/edexcel/a-level/economics/), the [printable checklist](/checklists/edexcel/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/).

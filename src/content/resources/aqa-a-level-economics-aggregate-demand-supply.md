@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "how-the-macroeconomy-works-aqa-aslevel-economics"
 description: "AQA A-level Economics (7136) 3.2.2 guide: circular flow of income, AD/AS analysis, determinants of AD, the multiplier, and short- and long-run supply."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-09
 featured: false
 ---

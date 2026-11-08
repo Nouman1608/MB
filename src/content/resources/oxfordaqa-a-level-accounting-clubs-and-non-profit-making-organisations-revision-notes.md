@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "clubs-and-non-profit-making-organisations"
 description: "Condensed revision notes for OxfordAQA A-level Accounting 9615 section 3.2.8, club accounts, with layouts, method steps and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 For the full Vellacombe worked example and longer explanations, go to the

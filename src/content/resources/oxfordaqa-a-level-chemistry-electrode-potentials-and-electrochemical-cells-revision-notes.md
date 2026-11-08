@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-9-2"
 description: "Condensed OxfordAQA 9620 notes on electrode potentials: conventions, EMF and feasibility methods, commercial cells and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and worked examples, use the [study guide](/resources/oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells/). These notes condense section 3.1.9, Electrode potentials and electrochemical cells (3.1.9.1 and 3.1.9.2), of the OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards. The section is International A2 content, so it is **International A-level only**. The specification places it in Unit 3 (Inorganic 2 and Physical 2); Unit 5 (Practical and synoptic) can assess all content, including required practical 6.

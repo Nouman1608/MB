@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "types-and-sizes-of-businesses-edexcel-alevel-economics"
 description: "Condensed revision notes on business types, mergers, demergers, objectives and the principal-agent problem for Edexcel IAL Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed notes for the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (Issue 2, June 2018), section 3.3.1, items 1 to 3. This is Unit 3 content, which the specification labels an IAL compulsory unit: it sits in the full International A Level (the extra A2 units), not the International AS. For explanations and fuller worked examples, read the [study guide](/resources/edexcel-ial-economics-types-growth-and-objectives-of-businesses/). When you are ready, try the [practice set](/resources/edexcel-ial-economics-types-growth-and-objectives-of-businesses-practice/), the [free diagnostics](/diagnostics/) and the [course checklist](/checklists/edexcel/a-level/economics/). The [course hub](/boards/edexcel/a-level/economics/) has the rest of the course. All data here are invented.

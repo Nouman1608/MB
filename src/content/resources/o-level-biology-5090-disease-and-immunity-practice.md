@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "disease-and-immunity"
 description: "Original practice questions with marked answers on malaria, HIV, cholera, smoking, antibiotics and vaccination for Cambridge O Level Biology 5090."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

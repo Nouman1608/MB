@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "algebraic-equations-ocr-gcse-maths"
 description: "Study guide to solving linear and quadratic equations for OCR GCSE (9-1) Mathematics J560, with worked examples, contexts and the quadratic formula."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers sections 6.03a and 6.03b of the OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026): solving linear equations and solving quadratic equations. Foundation and Higher tier learners both need the core methods. Statements the specification lists only for Higher tier are labelled "Higher tier only". Use it with the [revision notes](/resources/ocr-gcse-mathematics-solving-linear-and-quadratic-equations-revision-notes/) and the [practice questions](/resources/ocr-gcse-mathematics-solving-linear-and-quadratic-equations-practice/). Course pages: the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), the [checklist](/checklists/ocr/gcse/mathematics/), the [exam preparation guide](/resources/ocr-gcse-mathematics-exam-preparation/) and the [free 10-minute diagnostics](/diagnostics/).

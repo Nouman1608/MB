@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "r-forces-and-newtons-laws-aqa-alevel-maths"
 description: "Condensed AQA A-level Maths (7357) Section R notes: F = ma, weight, resolving, pulleys, equilibrium and F ≤ μR friction, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 For full explanations and worked examples, read the [Forces and Newton's laws study guide](/resources/aqa-a-level-mathematics-forces-and-newtons-laws/) first. These notes are for the final weeks.

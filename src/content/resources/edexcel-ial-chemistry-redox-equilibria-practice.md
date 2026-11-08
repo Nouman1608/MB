@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "redox-equilibria-ych11"
 description: "Original Edexcel IAL Chemistry redox equilibria questions with worked answers: cell emf, feasibility, disproportionation, redox titrations, fuel cells."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

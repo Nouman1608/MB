@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-6"
 description: "A study guide to fiscal policy, sub-topic 3.6 of IB Diploma Programme Economics: budgets, policy goals, AD/AS diagrams, the HL multiplier and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 3.6, Demand management -- fiscal policy, in Unit 3 (Macroeconomics). Most of it is SL and HL. Three items are HL only and labelled "HL only" in the text: the Keynesian multiplier, crowding out (with its diagram), and automatic stabilisers.

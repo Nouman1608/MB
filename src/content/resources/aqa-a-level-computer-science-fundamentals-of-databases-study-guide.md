@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "fundamentals-of-databases"
 description: "AQA A Level Computer Science 7517 section 4.10 databases guide: entity-relationship models, keys, normalisation to 3NF, SQL across tables and concurrent access."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 A database stores organised data so that many users and programs can search, update and share it reliably. This topic covers how a relational database is designed (entities, keys, normalisation), how it is queried with SQL, and how a shared database stays consistent when several users change it at once. The design and SQL material is practical, and you should practise both on paper because the written paper expects you to write queries without a computer.

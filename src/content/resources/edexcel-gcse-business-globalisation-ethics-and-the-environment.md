@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "ethics-the-environment-and-business-1bs0"
 description: "Study guide to globalisation, ethical and environmental considerations and pressure groups for Pearson Edexcel GCSE Business, Theme 2 topic 2.1."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 2: Building a business, topic 2.1 Growing the business, content items 2.1.3 Business and globalisation and 2.1.4 Ethics, the environment and business. The specification has two written papers: Theme 1 Investigating small business (1BS0/01) and Theme 2 Building a business (1BS0/02). Each lasts 1 hour 45 minutes, carries 90 marks and is 50% of the qualification. Each has three sections (A 35 marks, B 30 marks, C 25 marks) of calculations, multiple-choice, short-answer and extended-writing questions, and Sections B and C use business contexts given in the paper. Calculators may be used, and formulae are listed in the specification (Appendix 3) but are not provided in the examinations.

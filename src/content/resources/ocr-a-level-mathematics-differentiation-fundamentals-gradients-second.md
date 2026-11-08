@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "differentiation-ocr-alevel-maths"
 description: "Study guide to OCR A Level Mathematics A (H240) differentiation basics: gradients, second derivatives, first principles and standard derivatives."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the first half of differentiation in OCR A Level Mathematics A (H240), content references 1.07a to 1.07l of the specification, Version 3.1 (August 2026). Most of it is Stage 1, common to AS and A Level. Content marked **A Level only** is Stage 2. Tangents, normals, stationary points, optimisation, the product, quotient and chain rules, implicit and parametric differentiation and differential equations are separate topics, so they are not taught here.

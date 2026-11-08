@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-2-2-1"
 description: "Quick-recall OxfordAQA 9620 Group 2 notes: physical trends, water reactions, uses, solubility, the acidified BaCl₂ test and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes cover section **3.2.2.1 Group 2, the alkaline earth metals** of the OxfordAQA International

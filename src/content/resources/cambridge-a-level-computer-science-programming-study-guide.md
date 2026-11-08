@@ -24,9 +24,12 @@ syllabusTopics:
     subtopic: "structured-programming"
 description: "AS study guide to variables, constants, selection, iteration, string handling, procedures, functions and parameters for Cambridge Computer Science 9618."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Programming is the skill that Paper 2 tests most directly. You must write correct code in a language you have studied (Cambridge allows Python, Java or Visual Basic for the practical paper) and read and write Cambridge pseudocode in the theory papers. This guide uses Cambridge pseudocode and covers the basic building blocks, the three constructs and the structured approach using procedures and functions.

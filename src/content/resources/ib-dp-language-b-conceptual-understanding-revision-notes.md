@@ -19,11 +19,12 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Revision notes for IB DP Language B on context, audience, purpose, meaning and variation: register tables, method steps and a checked self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 For full explanations and worked examples, read the [conceptual understanding study guide](/resources/ib-dp-language-b-conceptual-understanding/) first. These notes are for the final weeks.

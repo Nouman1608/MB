@@ -29,9 +29,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-prescribed-subjects-5"
 description: "An original IB DP History Paper 1 source set with markscheme, plus synthesis questions for all five prescribed subjects, with indicative own-knowledge content."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the markband summaries and indicative content against the IB History guide (first assessment 2017) and a recent Paper 1 markscheme before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the markband summaries and indicative content against the IB History guide (first assessment 2017) and a recent Paper 1 markscheme before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "production-ocr-gcse-economics"
 description: "Condensed revision notes on competition, monopoly, oligopoly, production, costs, revenue, profit and economies of scale for OCR GCSE Economics (J205)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for sections 2.5 (Competition) and 2.6 (Production) of the OCR GCSE (9-1) Economics specification (J205), Version 2.0, for first assessment in 2019. The specification is not tiered. The fuller explanations and longer examples are in the [study guide](/resources/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs/), then test yourself with the [practice questions](/resources/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs-practice/). Other notes for this course: [markets and money revision notes](/resources/ocr-gcse-economics-markets-money-revision-notes/). Tick off topics on the [checklist](/checklists/ocr/gcse/economics/), see the [course hub](/boards/ocr/gcse/economics/) and find gaps with the [free diagnostics](/diagnostics/). All firms and figures below are invented and illustrative.

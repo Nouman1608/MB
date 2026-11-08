@@ -11,9 +11,10 @@ syllabusSeries: "Issue 5, February 2026"
 order: 3
 description: "How to choose and revise your Edexcel International GCSE History 4HI1 options: two depth studies, one investigation and one breadth study, and a revision plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-07
 featured: false
 ---

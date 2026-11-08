@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "rate-of-reaction-9202"
 description: "Original OxfordAQA IGCSE Chemistry (9202) rate of reaction questions with worked answers: rate graphs, collision theory, catalysts and practical skills."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

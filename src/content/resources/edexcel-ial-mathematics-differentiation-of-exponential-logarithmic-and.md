@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p3-differentiation-edexcel-alevel-maths"
 description: "Study guide to Edexcel International Advanced Level Maths P3 section 4: derivatives of e^kx, ln kx and trig, the three rules, a^x and growth models."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P3: Pure Mathematics 3, section 4 (Differentiation, 4.1 to 4.4). The specification states that P3 and P4 are compulsory for IAL Mathematics and Pure Mathematics, and that P3 has no IAS weighting (it is not part of IAS). There are no tiers inside this content.

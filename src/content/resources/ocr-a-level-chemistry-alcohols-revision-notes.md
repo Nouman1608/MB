@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-4-2-1"
 description: "Revision notes for OCR A Level Chemistry A 4.2.1 Alcohols: reaction tables, [O] equations, oxidation conditions, a quick self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense section 4.2.1, Alcohols, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. All of 4.2.1(a)(i) to (e) is here, from Module 4, Core organic chemistry, with the PAG7 link. H432 is the full A level. The [study guide](/resources/ocr-a-level-chemistry-alcohols/) has the full explanations and worked examples.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "uses-of-magnetism-ocr-gcse"
 description: "Condensed OCR GCSE Physics A (J249) notes on transformers, the turns ratio equation, microphones, loudspeakers and headphones, with a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P4.2g to P4.2j of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). All four statements are in bold in the specification, so they are **Higher Tier only**. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-transformers-microphones-and-loudspeakers/). When you are ready, move to the [practice questions](/resources/ocr-gcse-physics-transformers-microphones-and-loudspeakers-practice/).

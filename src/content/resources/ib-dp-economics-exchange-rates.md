@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-5"
 description: "Study guide to IB DP Economics sub-topic 4.5: floating, fixed and managed exchange rates, diagrams, calculations, effects, plus HL fixed versus floating."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers exchange rates, sub-topic 4.5 of Unit 4 (The global economy). It follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. Almost all of 4.5 is for both SL and HL. The comparison of fixed and floating exchange rate systems is **HL only** and is marked that way below.

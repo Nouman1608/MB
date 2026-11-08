@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "nature-of-law-law-and-justice-7162"
 description: "The rule of law, how Parliament makes law and what influences it, the law and morality debate and theories of justice, for AQA A Level Law 7162 essays."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the examples and case list against the specification and current AQA guidance before review."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the examples and case list against the specification and current AQA guidance before review; 2026-11-08: reviewed by aizaz-raoof-ali."
 publishedDate: 2026-11-08
 featured: false
 ---

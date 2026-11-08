@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "financial-management-aqa-aslevel-business"
 description: "Study guide to financial management for AQA AS Business (7137), sub-topic 3.1.4: objectives, budgets, break-even, profitability, cash flow and finance."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **3.1.4 Financial management** in Unit 3.1 of AQA AS Business (7137), for first teaching from September 2026. It was checked on 5 November 2026 against AQA's AS and A-level Business specification (7137/7138), Version 1.1, November 2025, including its annex of formulae. That specification groups the content under managing finance, internal and external sources of finance, break-even, profit, budgets, cash flow and liquidity, financial reporting, and assessing financial position and performance. Each is taught here with a worked example; formulas follow the specification's annex.

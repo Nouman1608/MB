@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Study guide for IB DP Language and Literature on representation, bias, power, gender and identity in texts, and how reception shifts across time and place."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This study guide teaches **Language, context, culture and power** for IB Diploma Programme Language

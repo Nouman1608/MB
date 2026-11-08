@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-coordinate-geometry-edexcel-alevel-maths"
 description: "Study guide to straight-line equations and the parallel and perpendicular conditions in Unit P1 of Pearson Edexcel International A Level Maths (YMA01)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers the heading "Coordinate geometry in the (x, y) plane" in the Unit P1: Pure Mathematics 1 content of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Specification Issue 3, April 2019. It teaches items 2.1 (the equation of a straight line) and 2.2 (conditions for two lines to be parallel or perpendicular) from scratch, with fully worked examples.

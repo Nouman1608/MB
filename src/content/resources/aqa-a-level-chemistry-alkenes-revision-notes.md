@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "alkenes-7405"
 description: "Condensed AQA A-Level Chemistry alkenes notes: electrophilic addition steps, carbocation stability, bromine test, polymer repeating units and PVC."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **3.3.4 Alkenes** of the AQA AS and A-level Chemistry specification

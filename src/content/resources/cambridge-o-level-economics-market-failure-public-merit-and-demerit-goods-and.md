@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-failure"
 description: "Worked study guide to market failure for Cambridge O Level Economics 2281: public, merit and demerit goods, externalities, monopoly and immobility."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 2.10 (Market failure) of the 2026 examination syllabus for Cambridge O Level Economics (2281). It follows the three statements 2.10.1 (definition and key terms), 2.10.2 (causes) and 2.10.3 (consequences). The syllabus is not tiered. It notes that demand and supply diagrams relating to market failure are not required, so every idea here is shown with words and small tables. Practise on the [practice questions](/resources/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and-practice/), recall with the [revision notes](/resources/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and-revision-notes/), and tick off topics on the [checklist](/checklists/cambridge/o-level/economics/). Course home is the [subject hub](/boards/cambridge/o-level/economics/). All names and figures below are invented for illustration, and money is in dollars.

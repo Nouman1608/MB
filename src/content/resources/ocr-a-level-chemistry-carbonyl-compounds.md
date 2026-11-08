@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-6-1-2"
 description: "Study guide to OCR A Level Chemistry A 6.1.2 Carbonyl compounds: dichromate oxidation, NaBH4 and HCN addition, mechanisms, 2,4-DNP and Tollens' tests."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Section 6.1.2, Carbonyl compounds, is taught here as set out in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. Within Module 6 (Organic chemistry and analysis), it has lettered outcomes 6.1.2(a) through 6.1.2(e)(ii); each one is explained below with its additional guidance and PAG7 link. H432 is the full A level, and components 02 and 03 both examine Module 6.

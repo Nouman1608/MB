@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "how-the-macroeconomy-works-oxfordaqa-alevel-economics"
 description: "Study guide to the multiplier, the role of aggregate demand, SRAS shifts and the determinants of LRAS in OxfordAQA International AS and A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide follows the OxfordAQA *International AS and A-level Economics (9640)* specification, version 1.2 (International AS exams from May/June 2021, International A-level exams from May/June 2022). It covers sections 3.2.2.4 (aggregate demand and the level of economic activity), 3.2.2.5 (determinants of short-run aggregate supply) and 3.2.2.6 (determinants of long-run aggregate supply). Section 3.2 is International AS content; the extra International A2 content sits in sections 3.3 and 3.4.
 

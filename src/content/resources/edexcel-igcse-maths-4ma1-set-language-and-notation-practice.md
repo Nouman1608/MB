@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "set-language-and-notation-edexcel-igcse-maths"
 description: "Original practice questions with marked answers for Edexcel IGCSE Maths 4MA1 section 1.5: set notation, Venn diagrams, subsets, n(A) and surveys."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

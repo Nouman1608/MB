@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "people-ocr-gcse-business"
 description: "Condensed recall notes for section 3 People in OCR GCSE Business J204: structures, communication, recruitment, motivation, training and law."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for section 3 People (3.1 to 3.7) of the OCR GCSE (9-1) Business J204 specification, Version 2.0 (January 2026), part of Business 1: business activity, marketing and people (J204/01). For full explanations read the [People study guide](/resources/ocr-gcse-business-people/), then try the [People practice questions](/resources/ocr-gcse-business-people-practice/).

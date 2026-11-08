@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-14"
 description: "Condensed IB DP Maths AA HL complex numbers notes: forms, conversions, De Moivre, roots and conjugate pairs, with a quick self-test and common mark losses."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 For full explanations and longer worked examples, start with the [complex numbers study guide](/resources/ib-dp-mathematics-aa-hl-complex-numbers/). These notes are for the final weeks.

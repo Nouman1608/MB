@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "cyber-security-9210"
 description: "Social engineering, malware, brute force and other cyber threats, and the methods used to detect and prevent them, for OxfordAQA International GCSE 9210."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Cyber security is the protection of computer systems, networks and data from attack, damage and unauthorised access. Almost every organisation stores data about people, so a breach can cause financial loss, identity theft and harm to reputation. In OxfordAQA International GCSE Computer Science (9210) you need to know the main threats, how each works, and the measures that detect or prevent them. The best answers always say how a threat works and which measure stops it, not just the names.

@@ -11,11 +11,12 @@ syllabusSeries: "First assessment 2024"
 order: 2
 description: "The five units of IB DP Business Management, first assessment 2024, with every sub-topic, HL-only content marked and recommended teaching hours at SL and HL."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme

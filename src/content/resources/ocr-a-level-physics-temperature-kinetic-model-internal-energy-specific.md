@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "thermal-physics-ocr-alevel"
 description: "OCR A Level Physics A (H556) study guide to sections 5.1.1-5.1.3: temperature scales, kinetic model, internal energy, specific heat capacity, latent heat."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This study guide follows the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. It covers sections 5.1.1 (Temperature), 5.1.2 (Solid, liquid and gas) and 5.1.3 (Thermal properties of materials), all part of the full A level. The ideal gas statements in 5.1.4 are taught separately. Work through this guide, then use the [revision notes](/resources/ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific-revision-notes/) and the [practice set](/resources/ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific-practice/). The course hub is [OCR A Level Physics](/boards/ocr/a-level/physics/), the printable list is the [checklist](/checklists/ocr/a-level/physics/), and the [free 10-minute diagnostics](/diagnostics/) show which topics need work. For the units and uncertainty skills used in the calculations, see [Foundations of physics](/resources/ocr-a-level-physics-foundations-of-physics/).
 

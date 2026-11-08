@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-vectors-oxfordaqa-alevel-maths"
 description: "Study guide to vectors in 2D and 3D, position vectors, distance and vector equations of lines, with worked intersections, parallel and skew lines (9660)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Mathematics specification (9660, Version 5.2) and covers the first part of section P2.10: vectors in two and three dimensions, and vector equations of lines. This content is part of International A-level (A2) Unit P2 (Pure Maths); it is not examined at International AS. The scalar product and perpendicular distance sit in other pages, so they are not taught here.

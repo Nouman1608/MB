@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "assignment-b-imaginative-writing-4ea1"
 description: "Original Component 3 coursework tasks for Edexcel IGCSE English Language A (4EA1): three-text Anthology essays and imaginative writing, with AO mark guidance."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

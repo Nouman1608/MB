@@ -21,11 +21,12 @@ syllabusTopics:
     subtopic: "leaf-structure-cambridge-igcse-biology"
 description: "Condensed notes on photosynthesis, starch tests, rate experiments, limiting factors and leaf tissues, with a self-test, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense topic 6, Plant nutrition, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028: section 6.1 (Photosynthesis) and section 6.2 (Leaf structure). Everything is Core unless it is marked **Extended only** (the balanced equation, 6.1.10, and limiting factors, 6.1.11), which is examined on Papers 2 and 4, not Papers 1 and 3. For full explanations and worked examples, use the [plant nutrition study guide](/resources/igcse-biology-0610-plant-nutrition/).

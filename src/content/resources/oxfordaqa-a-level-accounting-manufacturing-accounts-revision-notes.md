@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "manufacturing-accounts-oxfordaqa"
 description: "Revision notes for OxfordAQA A-level Accounting 9615 section 3.2.7: prime cost, overheads, work in progress, profit on manufacture and unrealised profit."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 3.2.7, Manufacturing accounts, of the OxfordAQA International AS and A-level

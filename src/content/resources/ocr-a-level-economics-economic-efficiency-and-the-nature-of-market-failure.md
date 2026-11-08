@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "externalities-ocr-aslevel-economics"
 description: "Study guide to productive, allocative and dynamic efficiency, x-inefficiency, market failure and externalities for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers the topic Productive and allocative efficiency, and the topics Market failure and Externalities, all in Component 1, Microeconomics (H460/01). Nothing in the specification text is marked AS or Extension, so all of this is A Level content. All figures in worked examples are invented and illustrative.

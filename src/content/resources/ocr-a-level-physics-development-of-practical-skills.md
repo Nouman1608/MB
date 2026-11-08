@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "practical-skills-assessed-in-a-written-examination"
 description: "Module 1 of OCR A Level Physics A (H556): planning, implementing, analysis and evaluation skills tested in written papers, plus the Practical Endorsement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-08-21
 featured: false
 ---

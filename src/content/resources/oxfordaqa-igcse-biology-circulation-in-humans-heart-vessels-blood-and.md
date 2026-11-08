@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "circulation-in-humans-oxfordaqa-igcse-biology"
 description: "Study guide to the heart, double circulation, blood vessels, blood, clotting, transplants and ABO groups for OxfordAQA International GCSE Biology 9201."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches section 3.2.3, Circulation in humans (statements a to t), from the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams from May/June 2018 onwards. Use the [course hub](/boards/oxfordaqa/igcse/biology/) and the [printable checklist](/checklists/oxfordaqa/igcse/biology/) to track progress, and take a [free 10-minute diagnostic](/diagnostics/) to find weak spots.

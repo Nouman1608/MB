@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "macroeconomic-objectives-edexcel-igcse-economics"
 description: "Condensed revision notes on inflation, deflation, CPI calculations, causes, interest rates and effects for Pearson Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 2.1.1 b), low and stable inflation, from the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. It is a single-tier course and this content is examined in Paper 2. For full explanations and worked examples read the [study guide](/resources/edexcel-igcse-economics-inflation-deflation-and-the-cpi/), then try the [practice questions](/resources/edexcel-igcse-economics-inflation-deflation-and-the-cpi-practice/). The [course hub](/boards/edexcel/igcse/economics/), [checklist](/checklists/edexcel/igcse/economics/) and [free diagnostics](/diagnostics/) show where to go next. All data are invented for illustration.

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "verification-of-accounting-records-aqa"
 description: "Condensed revision notes for AQA A-Level Accounting 7127 section 3.4: error types, suspense journals, control accounts and bank reconciliation."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 For full explanations and longer worked examples, use the

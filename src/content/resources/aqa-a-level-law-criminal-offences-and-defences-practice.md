@@ -36,9 +36,10 @@ syllabusTopics:
     subtopic: "necessity-defences-7162"
 description: "Original practice questions with mark-scheme answers on homicide, assaults, theft, robbery, attempt and criminal defences for AQA A-Level Law 7162 Paper 1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the case list, statute sections and mark allocations against the specification and AQA mark schemes before review."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the case list, statute sections and mark allocations against the specification and AQA mark schemes before review; 2026-11-08: reviewed by aizaz-raoof-ali."
 publishedDate: 2026-11-08
 featured: false
 ---

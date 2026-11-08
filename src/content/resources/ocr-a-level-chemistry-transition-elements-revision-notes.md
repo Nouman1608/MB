@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-3-1"
 description: "Revision notes for OCR A Level Chemistry A 5.3.1: transition element configurations, complex shapes, isomers, colour changes, precipitates and redox."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense section 5.3.1, Transition elements, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. Every lettered outcome, (a) to (l), appears below with its additional guidance. H432 is the full A level, and the assessment overview places Module 5 in components 01 and 03. The [Transition elements study guide](/resources/ocr-a-level-chemistry-transition-elements/) has the full teaching and worked examples.

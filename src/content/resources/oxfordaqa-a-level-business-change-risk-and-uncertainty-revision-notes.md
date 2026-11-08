@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "change-risk-and-uncertainty-oxfordaqa-alevel-business"
 description: "Revision notes for OxfordAQA A-level Business 9725 section 3.4.6: Kotter and Schlesinger, Lewin, six risk types, scenario planning and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.4.6 Change, risk and uncertainty from the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Everything below is **International A-level only** content for Unit 4: Business strategy. If your course is the older 9625 specification, use revision material matched to it. New to the topic? Start with the [study guide](/resources/oxfordaqa-a-level-business-change-risk-and-uncertainty/) for the explanations and worked examples.

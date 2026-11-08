@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "unit-3-elements-of-crime-and-mystery-9675"
 description: "Revision notes for OxfordAQA International A-level English Literature (9675) Unit 3: crime and mystery genre elements, set texts, closed-book essays, AO1–AO3."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 Unit 3 (Elements of crime and mystery) of OxfordAQA International A-level English Literature (9675) is a

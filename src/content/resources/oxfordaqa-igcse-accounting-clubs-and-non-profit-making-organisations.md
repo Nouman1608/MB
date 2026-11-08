@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "club-statements-oxfordaqa-igcse-accounting"
 description: "Study guide to OxfordAQA International GCSE Accounting 9215 club accounts: receipts and payments, trading account, income and expenditure, position."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 This study guide follows the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the clubs and non-profit making organisations part of section 3.4, Preparation of financial statements. The specification places this content on Paper 2: Financial Statements, which assesses content 3 to 5. Go to the [OxfordAQA IGCSE Accounting hub](/boards/oxfordaqa/igcse/accounting/) for the full course, tick off skills on the [printable checklist](/checklists/oxfordaqa/igcse/accounting/), and use the [free diagnostics](/diagnostics/) to find weak spots. The matching [revision notes](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations-revision-notes/) and [practice questions](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations-practice/) are on separate pages.
 

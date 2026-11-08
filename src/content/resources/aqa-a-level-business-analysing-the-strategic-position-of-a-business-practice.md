@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "analysing-the-strategic-position-of-a-business-aqa-alevel-business"
 description: "Original AQA A-Level Business 7132 practice questions on topic 7, with worked answers: ratios, models, external change and investment appraisal."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "relationship-between-countries-at-different-levels-of-development-cambridge-alevel-economics"
 description: "Study guide to aid, and to trade and investment between rich and poor countries, for Cambridge A Level Economics, with worked calculations and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide is aligned to the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. It covers sections 11.5.1 (international aid) and 11.5.2 (trade and investment) of topic 11, International economic issues. Topic 11 is A Level content; the syllabus says AS content is assumed knowledge. The other statements in 11.5 (multinational companies, foreign direct investment, external debt, the IMF and the World Bank) have their own pages and are not taught here. Every figure below is invented for illustration.
 

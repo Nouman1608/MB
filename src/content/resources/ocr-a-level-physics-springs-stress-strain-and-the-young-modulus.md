@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "materials-ocr-alevel"
 description: "Study guide to Hooke's law, elastic potential energy, stress, strain, the Young modulus and stress-strain graphs for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers sections 3.4.1 (Springs) and 3.4.2 (Mechanical properties of matter) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017.
 

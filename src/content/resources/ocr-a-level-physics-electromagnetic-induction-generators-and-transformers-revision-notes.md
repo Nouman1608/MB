@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electromagnetism-ocr-alevel"
 description: "Condensed revision notes on flux, flux linkage, Faraday and Lenz, search coils, a.c. generators and transformers for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes condense statements 6.3.3(a) to 6.3.3(f) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. The [study guide](/resources/ocr-a-level-physics-electromagnetic-induction-generators-and-transformers/) has the full explanations, and these notes are for recall. Afterwards use the [practice questions](/resources/ocr-a-level-physics-electromagnetic-induction-generators-and-transformers-practice/).
 

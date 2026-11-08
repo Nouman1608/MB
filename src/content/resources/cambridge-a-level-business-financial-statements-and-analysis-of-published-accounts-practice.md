@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "analysis-of-published-accounts-cambridge-alevel-business"
 description: "Original practice questions with worked answers on financial statements and ratio analysis for Cambridge A Level Business 9609 sections 10.1 and 10.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

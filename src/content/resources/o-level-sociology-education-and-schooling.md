@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "kq-5-1-2251"
 description: "Cambridge O Level Sociology 2251 key question 5.1: formal and informal education, official and hidden curriculum, school types and alternative learning."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Education is the process of learning knowledge, skills and values; schooling is the formal part of

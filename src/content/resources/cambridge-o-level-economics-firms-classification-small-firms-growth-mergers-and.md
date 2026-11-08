@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "firms"
 description: "Study guide to classifying firms, small firms, how firms grow, three types of merger and economies of scale, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Aligned to the Cambridge O Level Economics 2281 syllabus for examination in 2026 (version 2), this guide teaches topic 3.5, Firms, from 3.5.1 (classification) through 3.5.5 (scale). The syllabus is not tiered, so everything here is for all candidates.

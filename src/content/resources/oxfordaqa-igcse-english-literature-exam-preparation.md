@@ -11,11 +11,12 @@ syllabusSeries: "First teaching 2016; revised set texts for first teaching 2026"
 order: 3
 description: "Exam preparation for OxfordAQA International GCSE English Literature 9275: Paper 1, then Route A's Paper 2a or Route B's Paper 2b with a non-exam assessment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 OxfordAQA International GCSE English Literature (9275) is linear, with one compulsory component and a

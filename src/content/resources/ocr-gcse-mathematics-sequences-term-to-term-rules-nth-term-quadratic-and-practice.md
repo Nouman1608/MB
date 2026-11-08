@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "sequences-ocr-gcse-maths"
 description: "Twelve original OCR GCSE Maths practice questions on sequences, with fully worked answers, covering nth term, special and quadratic sequences."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

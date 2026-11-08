@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "monitoring-and-maintaining-health-ocr-gcse-biology"
 description: "Original practice questions with worked answers for OCR GCSE Biology A (J247) B6.3m, B6.3n, B6.3p, B6.3q: antibodies, aseptic technique, drug trials."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

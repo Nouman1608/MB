@@ -28,9 +28,10 @@ syllabusTopics:
     subtopic: "a-electromagnetic-induction"
 description: "Magnetic forces F = BIL sin θ and F = BQv sin θ, the Hall effect, velocity selection, field patterns and electromagnetic induction: Topic 20 of Cambridge 9702."
 author: "iftikhar-azeemi"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
 publishedDate: 2026-08-18
 updatedDate: 2026-09-27
 featured: false

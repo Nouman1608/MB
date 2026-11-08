@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on monopoly, monopoly power, concentration ratios and the competitive market process for OxfordAQA International Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These revision notes condense sections 3.1.4.4 (Monopoly and monopoly power) and 3.1.4.5 (The competitive market process) of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. Section 3.1 is International AS content, which is also part of the International A-level. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market-practice/), tick off the [printable checklist](/checklists/oxfordaqa/a-level/economics/), see the [course hub](/boards/oxfordaqa/a-level/economics/) and find gaps with the [free diagnostics](/diagnostics/). All figures are invented.
 

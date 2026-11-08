@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ecosystems-ocr-gcse-biology"
 description: "Twelve original OCR GCSE (9-1) Biology A (J247) questions on the carbon and water cycles, decomposers and rate of decay, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

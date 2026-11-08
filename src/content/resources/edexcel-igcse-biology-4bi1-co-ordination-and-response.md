@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "co-ordination-and-response-4bi1"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 co-ordination: tropisms and auxin, nerves, reflex arcs, the eye, skin and hormones."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches sub-topic 2(j), **Co-ordination and response** (specification points 2.80–2.95B), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Point 2.95B is printed in bold with a **B** reference, so it is examined on Paper 2 only; every other point can appear on either paper. It applies to the June and November series examined under Issue 3.

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "budgeting-oxfordaqa"
 description: "OxfordAQA A-level Accounting study guide to 3.1.9 Budgeting: purposes, benefits, limits, budgeted statements and functional budgets, worked in full."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide teaches section 3.1.9, Budgeting, of the OxfordAQA International AS and A-level

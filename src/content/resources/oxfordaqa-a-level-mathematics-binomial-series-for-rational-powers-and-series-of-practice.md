@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-sequences-and-series-oxfordaqa-alevel-maths"
 description: "Twelve original practice questions with worked answers on binomial series for rational powers and partial-fraction series, for OxfordAQA 9660 Unit P2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

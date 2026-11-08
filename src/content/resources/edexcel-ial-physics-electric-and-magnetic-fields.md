@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "electric-and-magnetic-fields"
 description: "Coulomb's law, electric field and potential, capacitors and RC circuits, magnetic flux and induction: sub-topic 4.4 of Edexcel IAL Physics (YPH11)."
 author: "iftikhar-azeemi"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "paper-2-investigation-breadth-studies-4hi1"
 description: "The five historical investigations and eight breadth studies of Edexcel International GCSE History 4HI1 Paper 2, one of each studied, and how to revise them."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-09-02
 featured: false
 ---

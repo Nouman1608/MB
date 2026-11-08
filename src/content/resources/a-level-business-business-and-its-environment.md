@@ -15,11 +15,12 @@ syllabusTopics:
     topic: "business-and-its-environment-as-cambridge-alevel-business"
 description: "Study guide to enterprise, business structure, size, objectives and stakeholders: Topic 1 Business and its environment for Cambridge AS & A Level Business 9609."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **Topic 1 Business and its environment**, an AS

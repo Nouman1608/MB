@@ -32,11 +32,12 @@ syllabusTopics:
     subtopic: "divorce-8192"
 description: "Guide to AQA GCSE Sociology (8192) Paper 1: families, education, perspectives, Zaretsky, Delphy and Leonard, divorce and differential achievement."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-21
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers **Paper 1 The Sociology of Families and Education**,

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "transport-in-cells-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on diffusion, SA:V ratio, exchange surfaces, osmosis, required practical 3 and active transport, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense section **4.1.3 Transport in cells** of the AQA GCSE Biology (8461) specification, for first

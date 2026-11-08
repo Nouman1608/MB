@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "role-and-importance-of-stakeholders-aqa-alevel-business"
 description: "Study guide to AQA A-level Business section 3.2.3: stakeholder needs, power and interest mapping, conflict, influences and managing relationships."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 3.2.3 (Understanding the role and importance of stakeholders) of the AQA A-level Business specification (7132), which sits inside subject content 3.2, Managers, leadership and decision making. The specification lists four content points and one piece of additional information for each of two of them: stakeholder mapping using power and interest, and communication and consultation. All four points are covered below, with invented businesses in every example. Content from every section can be assessed in each of the three A-level papers, so expect stakeholders to appear alongside marketing, finance, operations and strategy questions.

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "f-exponentials-and-logarithms-aqa-alevel-maths"
 description: "Condensed revision notes on exponentials and logarithms for AQA A-Level Maths (7357): key graphs, log laws, method steps and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense **Section F: Exponentials and logarithms** (F1 to F7) of the AQA A-level

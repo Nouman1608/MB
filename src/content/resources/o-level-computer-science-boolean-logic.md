@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "boolean-logic-2210"
 description: "Topic 10 guide for Cambridge O Level Computer Science 2210: six logic gates, truth tables, expressions and circuits, with worked conversions between all forms."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 10 of Cambridge O Level Computer Science (2210) is about logic gates — the simple circuits that combine binary inputs into a binary output — and about describing the same logic in four ways: as a problem statement, a logic expression, a logic circuit and a truth table. The exam expects you to convert from any one of these to any other, for circuits of up to three inputs and one output.

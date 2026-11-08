@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "pressure-ocr-gcse"
 description: "Condensed revision notes with a self-test on gas pressure, pV = constant, work done on gas and atmospheric pressure for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 Condensed recall for the final weeks. For full explanations use the [study guide](/resources/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere/). These notes follow the OCR *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), statements P1.3a to P1.3g. Only P1.3e appears in bold type: **Higher Tier only**. All the other statements are in both tiers. P1.3c to P1.3g are separate Physics only content (not in Combined Science).
 

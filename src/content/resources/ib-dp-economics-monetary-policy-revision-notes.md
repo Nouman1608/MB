@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-5"
 description: "Condensed revision notes for IB DP Economics sub-topic 3.5 monetary policy: definitions, formulas, diagram checklists, HL tools and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sub-topic 3.5 (Demand management: monetary policy) of Unit 3. They follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. Money creation, the tools of monetary policy and the money market diagram are **HL only**; everything else is SL and HL. For full explanations read the [study guide](/resources/ib-dp-economics-monetary-policy/), then test yourself with the [practice set](/resources/ib-dp-economics-monetary-policy-practice/). The course page is [IB DP Economics](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/) tracks your progress. All data below is from Tavoria, an invented country, and is illustrative.

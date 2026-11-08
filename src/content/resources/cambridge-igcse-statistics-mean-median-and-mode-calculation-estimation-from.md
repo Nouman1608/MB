@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "measures-of-central-tendency-0479"
 description: "Study guide to mean, median, mode and modal class from lists, frequency tables and grouped data, and choosing an average, for IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers Topic 4, Measures of central tendency, of the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027. It follows outcomes 4.1 to 4.4: calculating the mean and finding the median and mode, estimating them from grouped data, identifying the modal class, and justifying the choice of average in context. It is written for all candidates on the course, and the syllabus gives no tier split for this topic.

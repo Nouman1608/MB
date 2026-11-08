@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "enterprise-business-growth-and-size-0264"
 description: "Revision notes for Cambridge IGCSE Business 0264 section 1.3: entrepreneurs, plans, business size, growth, small firms and failure, plus a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for section 1.3, **Enterprise, business growth and size**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-enterprise-business-growth-and-size/). When you are ready, try the [practice questions](/resources/igcse-business-0264-enterprise-business-growth-and-size-practice/). The [course hub](/boards/cambridge/igcse/business/), the [checklist](/checklists/cambridge/igcse/business/) lets you tick off points, and the [free diagnostics](/diagnostics/) show your weak spots.

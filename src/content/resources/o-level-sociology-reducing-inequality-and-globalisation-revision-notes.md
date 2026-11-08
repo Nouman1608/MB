@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "kq-3-3-2251"
 description: "Revision notes for Cambridge O Level Sociology 2251 key questions 3.2 and 3.3: anti-poverty laws, welfare, NGOs, critics, migration, climate and colonialism."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense key questions 3.2 and 3.3 of Cambridge O Level Sociology (2251). Laws, welfare

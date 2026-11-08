@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "understanding-business-data-1bs0"
 description: "Study guide to reading graphs, financial, marketing and market data and the limits of financial information, for Pearson Edexcel GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 2, Topic 2.4 Making financial decisions, content item 2.4.2 (headed "Understanding business performance" in the specification). The specification says calculators may be used and that formulae are listed in Appendix 3 but are not provided in the examinations, so learn them.

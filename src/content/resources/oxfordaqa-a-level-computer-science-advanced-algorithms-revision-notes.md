@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "advanced-algorithms"
 description: "Condensed revision notes on graph searches, Dijkstra's algorithm and tree traversals for OxfordAQA A-level Computer Science, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These notes condense the [advanced algorithms study guide](/resources/oxfordaqa-a-level-computer-science-advanced-algorithms/), which has the full explanations and longer worked examples. They cover sections 3.11.1 Graph algorithms and 3.11.2 Tree algorithms from the OxfordAQA 9645 specification (International AS and A-level Computer Science, Version 1.1), which is used for International AS exams in May/June 2025 onwards and International A-level exams in May/June 2026 onwards. Section 3.11 sits entirely in the International A-level, examined in Unit 3: Advanced Programming, the on-screen paper in C#, Python or VB.Net.

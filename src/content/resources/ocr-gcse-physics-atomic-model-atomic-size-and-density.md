@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-particle-model-ocr-gcse"
 description: "Study guide to how the atomic model developed, atom size, and density with worked examples, for OCR GCSE (9-1) Physics A (Gateway Science) J249."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers statements P1.1a to P1.1f of Topic P1 (Matter) in the OCR GCSE (9-1) Physics A (Gateway Science) specification (J249), Version 5.0 (July 2026). None of these statements is in bold in the specification, so all of them are assessed in both the Foundation Tier and Higher Tier papers. It teaches the history of the atomic model, the structure and size of an atom, and density, including density across the states of matter. Use it with the [revision notes](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-revision-notes/) and the [practice questions](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-practice/). The wider topic is in [OCR GCSE Physics: Matter](/resources/ocr-gcse-physics-matter/).

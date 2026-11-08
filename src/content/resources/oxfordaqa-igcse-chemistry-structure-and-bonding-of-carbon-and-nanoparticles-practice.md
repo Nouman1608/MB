@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "nanoparticles-9202"
 description: "Original practice questions with worked answers on diamond, graphite, fullerenes and nanoparticles for OxfordAQA International GCSE Chemistry 9202."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

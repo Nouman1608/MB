@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "a-analysis-and-communication-of-accounting-information"
 description: "Working capital cycle, gearing, interest cover and investor ratios worked through with one company, with analysis and advice, for Cambridge 9706 A Level."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 This guide covers **section 3.5 Analysis and communication of accounting information (A Level)**, from topic 3, Financial accounting, in the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. It is A Level content, examined on Paper 3 (Financial Accounting), where each structured question comes with source material on a separate insert. AS Level content, including the ratios in section 1.6, is assumed knowledge. Use it with the [course hub](/boards/cambridge/a-level/accounting/), the printable [checklist](/checklists/cambridge/a-level/accounting/), the [revision notes](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a-revision-notes/), the [practice questions](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a-practice/), the [exam preparation guide](/resources/cambridge-a-level-accounting-exam-preparation/) and the free [diagnostics](/diagnostics/).

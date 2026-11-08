@@ -30,11 +30,12 @@ syllabusTopics:
     subtopic: "research-issues-9699"
 description: "Condensed recall notes on socialisation, structure versus action, the main perspectives and research methods for Cambridge AS & A Level Sociology 9699."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin page with syllabus 1.2 conformity factors and order mechanisms, 2.1-2.2 research design and approaches, and an FAQ; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08 recheck: expanded thin page with syllabus 1.2 conformity factors and order mechanisms, 2.1-2.2 research design and approaches, and an FAQ; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

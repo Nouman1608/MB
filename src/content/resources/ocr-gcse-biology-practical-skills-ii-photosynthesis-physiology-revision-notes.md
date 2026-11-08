@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "practical-skills-ocr-gcse-biology"
 description: "Condensed revision notes for OCR GCSE Biology A practicals PAG 5 to 8, with method boxes, formulas, a self-test and a list of where marks are lost."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense Practical Activity Groups 5 to 8 of Topic B7 (Practical skills) in the OCR GCSE (9-1) Biology A Gateway Science specification (J247), Version 4.0, for first assessment in 2018. Topic B7 is assessed in the papers for both tiers, and nothing in this unit is Higher Tier only. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology-practice/). The course page is [OCR GCSE Biology](/boards/ocr/gcse/biology/), the printable list is the [OCR GCSE Biology checklist](/checklists/ocr/gcse/biology/), and the [free diagnostics](/diagnostics/) show which topics to revise first.

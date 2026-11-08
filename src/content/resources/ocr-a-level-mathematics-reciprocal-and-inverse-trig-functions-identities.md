@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "trigonometry-ocr-alevel-maths"
 description: "Study guide to sec, cosec, cot, inverse trig, identities, compound and double angles, R-form, proof and modelling for OCR A Level Mathematics A."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This study guide follows the OCR A Level Mathematics A specification (Version 3.1, August 2026, for first assessment in 2018). It covers sections 1.05h to 1.05q of the Pure Mathematics trigonometry content: reciprocal and inverse trigonometric functions, the Pythagorean identities, compound and double angle formulae, the R-form, trigonometric equations, proof and modelling. In the specification, 1.05j and the basic form of 1.05o are Stage 1 (shared with AS Level); everything else here is Stage 2, so A Level only. Pure Mathematics content is assessed on all three written papers.
 

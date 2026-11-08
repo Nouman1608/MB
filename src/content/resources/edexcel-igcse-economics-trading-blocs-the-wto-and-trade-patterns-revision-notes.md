@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "international-trade-edexcel-igcse-economics"
 description: "Condensed revision notes on trading blocs, the WTO and developed and developing country trade patterns for Pearson Edexcel IGCSE Economics, with self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense statements 2.2.2 d), e) and f) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, for Paper 2: Macroeconomics and the Global Economy. For full explanations read the [study guide](/resources/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns/), then test yourself with the [practice questions](/resources/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns-practice/). The [course hub](/boards/edexcel/igcse/economics/), the [printable checklist](/checklists/edexcel/igcse/economics/) and the free [diagnostics](/diagnostics/) help you plan. Tariff, quota and subsidy diagrams are in a different unit. All figures here are invented.

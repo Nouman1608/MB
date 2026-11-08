@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "business-costs-revenues-and-profit-edexcel-igcse-economics"
 description: "Eleven original practice questions with worked answers on costs, revenue, profit, economies and diseconomies of scale for Edexcel IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

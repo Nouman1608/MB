@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-prices-are-determined-aqa-gcse-economics"
 description: "Study guide to AQA GCSE Economics (8136) equilibrium price, excess demand and supply, revenue on diagrams, and complements and substitutes."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.1.3.3 (Equilibrium price) and 3.1.3.4 (Intermarket relationships) of the AQA GCSE Economics (8136) specification, for first teaching from September 2017. The specification marks no tiers, so everything here is common content. It sits in section 3.1, How markets work, which is assessed in Paper 1. It assumes you already know how demand and supply curves are drawn and why they shift; those points are taught separately, as is the calculation of elasticity.

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "manipulating-genomes-ocr-alevel-biology"
 description: "Condensed revision notes on genetic engineering techniques, GM ethics and somatic versus germ line gene therapy for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense OCR A Level Biology A (H420), Version 4.1 (April 2026), module 6.1.3 outcomes (f), (g) and (h): genetic engineering, ethical issues, and gene therapy. The full explanations are in the [study guide](/resources/ocr-a-level-biology-genetic-engineering-and-gene-therapy/), and exam-style questions are in the [practice set](/resources/ocr-a-level-biology-genetic-engineering-and-gene-therapy-practice/). The [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and [printable checklist](/checklists/ocr/a-level/biology/) show the whole course, and the [free diagnostics](/diagnostics/) help you decide what to revise first.

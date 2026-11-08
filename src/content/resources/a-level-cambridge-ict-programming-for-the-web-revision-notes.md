@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "programming-for-the-web"
 description: "Revision notes for Cambridge A Level IT 9626 Programming for the web: JavaScript syntax tables, events, popups, loops, timers and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These revision notes cover **topic 21, Programming for the web**, of Cambridge International AS & A Level Information Technology (9626), following the syllabus for examination in 2025, 2026 and 2027 (version 3), section 21.1. Topic 21 is **A Level only**. Paper 3 (Advanced Theory) questions are based on sections 12–21 and Paper 4 (Advanced Practical) tasks on sections 17–21, so expect JavaScript in both. For full explanations and worked examples, use the [Programming for the web study guide](/resources/a-level-cambridge-ict-programming-for-the-web/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "b11-functions-in-modelling-aqa-alevel-maths"
 description: "Condensed revision notes for AQA A-level Mathematics B10 and B11: partial fraction forms, method, modelling checklist, self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense **B10 (partial fractions)** and **B11 (functions in modelling)** from the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. Both are Section B content, assessed on Paper 1, and Papers 2 and 3 can also assess any Paper 1 content. For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-mathematics-partial-fractions-and-functions-in-modelling/).

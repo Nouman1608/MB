@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "graphs-in-practical-situations"
 description: "Travel graphs, conversion graphs, and applying rate of change to distance-time and speed-time graphs, for Cambridge O Level Mathematics (Syllabus D) 4024."
 author: "muhammad-ghazali-siddiqui"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers subtopic **2.9 Graphs in practical situations**, from

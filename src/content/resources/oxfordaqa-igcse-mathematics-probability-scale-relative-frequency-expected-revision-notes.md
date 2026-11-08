@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "probability-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on probability words, relative frequency, expected frequency and sample size for OxfordAQA International GCSE Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense statements S9 to S13 of section 3.4.3 Probability in the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1. All of this content is Core, so it can be assessed on both the Core and the Extension papers. The [study guide](/resources/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected/) has the full explanations. For testing yourself, try the [practice questions](/resources/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected-practice/).

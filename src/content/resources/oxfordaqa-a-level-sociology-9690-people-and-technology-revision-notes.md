@@ -31,11 +31,12 @@ syllabusTopics:
     subtopic: "artificial-intelligence-and-cyborgs-9690"
 description: "Condensed revision notes for OxfordAQA 9690 Sociology Unit 5: key terms, theorists at a glance, distinctions, an essay plan and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 For full explanations and worked exam paragraphs, read the [People and technology study guide](/resources/oxfordaqa-a-level-sociology-9690-people-and-technology/) first.

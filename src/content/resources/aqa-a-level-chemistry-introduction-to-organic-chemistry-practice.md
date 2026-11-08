@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "introduction-to-organic-chemistry-7405"
 description: "Original AQA A-Level Chemistry 3.3.1 questions with marked answers: formulas, IUPAC names, radical steps, curly arrows, isomers and E–Z."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

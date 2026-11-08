@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "types-of-cost-revenue-and-profit-cambridge-alevel-economics"
 description: "Study guide to short-run production and costs for Cambridge A Level Economics: product, diminishing returns, cost definitions, curve shapes, worked tables."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 7.5.1 and 7.5.2 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topics 1 to 6 of the syllabus are AS Level content and topics 7 to 11 are A Level content, so this unit is A Level only and is not examined at AS. Papers 3 and 4 are based on the A Level content, with AS knowledge assumed. Every firm, market and figure below is invented and illustrative, and money is in currency units (cu).

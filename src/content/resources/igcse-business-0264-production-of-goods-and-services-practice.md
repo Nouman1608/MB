@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "production-of-goods-and-services-0264"
 description: "Twelve original practice questions with worked answers on Cambridge IGCSE Business 0264 section 4.1: productivity, lean production and production methods."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

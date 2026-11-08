@@ -40,11 +40,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-4-14"
 description: "11 original IB DP Maths AA probability, binomial and normal distribution questions, with HL Bayes and pdf problems and mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

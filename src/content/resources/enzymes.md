@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "effects-of-temperature-and-ph"
 description: "Enzymes as biological catalysts, the lock-and-key model, reaction progress, and how temperature and pH affect activity, for Cambridge O Level Biology 5090."
 author: "saad-zai"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers Topic 5, Enzymes, in full — subtopics **5.1 Enzyme

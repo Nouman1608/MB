@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "price-determination"
 description: "Condensed revision notes on supply, aggregation, shifts, equilibrium, shortages and surpluses for Cambridge O Level Economics 2281, with a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 2.4 (Supply) and 2.5 (Price determination) of the Cambridge O Level Economics 2281 syllabus for examination in 2026. The course is not tiered. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices/), then test yourself with the [practice questions](/resources/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices-practice/). The [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/) show where this unit sits. All figures below are invented.

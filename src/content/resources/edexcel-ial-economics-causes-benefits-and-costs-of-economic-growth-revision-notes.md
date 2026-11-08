@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-growth-edexcel-alevel-economics"
 description: "Condensed revision notes on the causes, benefits and costs of economic growth for Pearson Edexcel International A Level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed recall for 2.3.5 Economic growth, statements 1 to 3, in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018). Full explanations are in the [study guide](/resources/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth/); test yourself with the [practice questions](/resources/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth-practice/). The specification lists Units 1 and 2 as International AS and Units 3 and 4 as the extra International A2 content; this topic is in Unit 2. Hub: [Edexcel A Level Economics](/boards/edexcel/a-level/economics/). Checklist: [printable checklist](/checklists/edexcel/a-level/economics/). Find your weak spots with the [free diagnostics](/diagnostics/). All figures here are invented and illustrative.

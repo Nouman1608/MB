@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "transformations-matrices-and-vectors-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on vector notation, sums, differences, scalar multiples and 2D vector geometry for OxfordAQA International GCSE Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense the full explanations in the [study guide](/resources/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry/), so read that first if a step is unfamiliar. They are written for the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), statement G22 in section 3.3.3, Transformations, Matrices and Vectors. G22 appears only in the Extension content column, so all of it is **Extension only**. The specification says all content can be assessed on the Extension papers.
 

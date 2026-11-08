@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "causes-and-effects-of-globalisation-edexcel-alevel-economics"
 description: "Original practice questions with worked answers on the causes and effects of globalisation for Pearson Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

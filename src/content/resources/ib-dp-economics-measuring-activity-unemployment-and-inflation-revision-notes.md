@@ -19,11 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-3"
 description: "Revision notes for IB DP Economics sub-topics 3.1 and 3.3: GDP and GNI, real and PPP measures, types of unemployment, the natural rate, inflation and deflation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-05
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes fill in the measurement content of sub-topics 3.1 (Measuring economic activity and illustrating its variations) and 3.3 (Macroeconomic objectives) of Unit 3. They follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. The business cycle, the AD-AS model and the list of macroeconomic objectives are in the [measuring and managing the economy revision notes](/resources/ib-dp-economics-macroeconomics-measuring-revision-notes/); read those first. Constructing a weighted price index is **HL only**; everything else here is SL and HL. For full explanations read the [study guide](/resources/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy/), then test yourself with the [practice set](/resources/ib-dp-economics-macroeconomics-practice/). The course page is [IB DP Economics](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/) tracks your progress. All data below is from Tavoria, an invented country, and is illustrative.

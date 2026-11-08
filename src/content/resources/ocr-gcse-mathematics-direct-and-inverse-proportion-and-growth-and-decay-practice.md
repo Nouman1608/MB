@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "discrete-growth-and-decay-ocr-gcse-maths"
 description: "Original OCR GCSE Maths J560 practice questions with worked answers on direct and inverse proportion, compound interest, depreciation and growth and decay."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

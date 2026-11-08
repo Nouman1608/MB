@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-bonding-and-structure-are-related-to-the-properties-of-substances-9202"
 description: "Original practice questions with marked, worked answers on structure and properties for OxfordAQA International GCSE Chemistry 9202 section 3.2.2."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

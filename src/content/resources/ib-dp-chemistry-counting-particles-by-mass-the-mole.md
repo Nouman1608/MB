@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-1-4"
 description: "Study guide for IB DP Chemistry Structure 1.4: the mole, Ar and Mr, molar mass, empirical formulae, molar concentration and Avogadro's law."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches Structure 1.4, "Counting particles by mass: the mole", and is aligned to the IB Diploma Programme Chemistry guide for first assessment in 2025 (published in February 2023). Every understanding from Structure 1.4.1 to Structure 1.4.6 is taught. Structure 1.4 has no AHL material, so all of it is common to SL and HL. It applies to the course examined from 2025 onwards on that guide.

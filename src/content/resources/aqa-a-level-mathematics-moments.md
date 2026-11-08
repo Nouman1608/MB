@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "s-moments-aqa-alevel-maths"
 description: "Study guide for AQA A-level Maths (7357) Section S: moments of forces, rigid bodies in equilibrium, beams on supports, tilting, hinged rods and ladders."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches **Section S: Moments (S1)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section S under **Paper 2**, alongside vectors, quantities and units, kinematics, and forces and Newton's laws. A calculator is required in every 7357 paper.

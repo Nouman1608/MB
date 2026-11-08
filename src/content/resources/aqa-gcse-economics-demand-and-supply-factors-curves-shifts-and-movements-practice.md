@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "how-prices-are-determined-aqa-gcse-economics"
 description: "Original practice questions with worked answers for AQA GCSE Economics (8136) 3.1.3.1 and 3.1.3.2: demand, supply, curves, shifts and movements."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

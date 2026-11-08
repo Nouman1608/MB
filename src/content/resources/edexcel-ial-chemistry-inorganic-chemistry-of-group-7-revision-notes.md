@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "redox-chemistry-and-groups-1-2-and-7-ych11"
 description: "Condensed Edexcel IAL Chemistry Topic 8C revision notes: halogen colours, trends, key redox equations, halide tests and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 8C, Inorganic chemistry of Group 7, from the Pearson Edexcel International

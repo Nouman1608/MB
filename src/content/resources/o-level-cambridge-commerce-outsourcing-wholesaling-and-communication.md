@@ -21,9 +21,10 @@ syllabusTopics:
     subtopic: "communication-7100-commerce"
 description: "Contract manufacturing and logistics, the wholesaler's role and survival, and choosing communication methods, explained for Cambridge O Level Commerce 7100."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check examples against the 7100 syllabus for 2026-2028 and examiner guidance before review."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check examples against the 7100 syllabus for 2026-2028 and examiner guidance before review; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-08
 featured: false
 ---

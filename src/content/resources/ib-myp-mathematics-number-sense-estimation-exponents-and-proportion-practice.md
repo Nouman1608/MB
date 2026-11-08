@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-branches-of-mathematical-study-numerical-and-abstract-reasoning"
 description: "Twelve original IB MYP Mathematics practice questions on number sets, surds, exponents, estimation, proportion, money, bounds and logarithms, fully worked."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

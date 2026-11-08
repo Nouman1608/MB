@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-4"
 description: "Original HL practice questions with worked answers on IB DP Physics A.4: torque, moment of inertia, angular momentum and rotational energy."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

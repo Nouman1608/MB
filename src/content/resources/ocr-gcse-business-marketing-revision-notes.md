@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "marketing-ocr-gcse-business"
 description: "Condensed revision notes for OCR GCSE Business section 2, Marketing: research, segmentation, the four Ps, formulas, a self-test and common errors."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Quick recall for section 2, Marketing, of OCR GCSE (9-1) Business (J204), Version 2.0 (January 2026), topics 2.1 to 2.4. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-business-marketing/). Then test yourself with the [practice questions](/resources/ocr-gcse-business-marketing-practice/). The wider component is covered in the [Business 1 overview](/resources/ocr-gcse-business-business-activity-marketing-and-people/), the [overview revision notes](/resources/ocr-gcse-business-activity-revision-notes/) and the [overview practice set](/resources/ocr-gcse-business-activity-practice/). Course links: [OCR GCSE Business hub](/boards/ocr/gcse/business/), [printable checklist](/checklists/ocr/gcse/business/) and [free diagnostics](/diagnostics/).

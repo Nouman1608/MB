@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "capacity-utilisation-and-outsourcing-cambridge-alevel-business"
 description: "Condensed revision notes for 4.3 Capacity utilisation and outsourcing in Cambridge AS & A Level Business 9609, with a self-test and common slips."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These are condensed notes for section 4.3 Capacity utilisation and outsourcing (4.3.1 and 4.3.2) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is an AS Level topic within Topic 4, Operations management. For full explanations and worked examples, use the [study guide](/resources/cambridge-a-level-business-capacity-utilisation-and-outsourcing/), then try the [practice questions](/resources/cambridge-a-level-business-capacity-utilisation-and-outsourcing-practice/). Related inventory and productivity questions are in the [Topic 4 practice set](/resources/a-level-business-operations-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

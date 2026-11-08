@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "cash-flow-forecasting-and-working-capital"
 description: "Condensed revision notes on cash-flow forecasts, fixing short-term cash problems and working capital, with a self-test and common mistakes."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 5.2 (Cash-flow forecasting and working capital) of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026: 5.2.1 (cash and cash-flow forecasting) and 5.2.2 (working capital). For full explanations and longer worked examples, read the [study guide](/resources/o-level-business-cash-flow-forecasting-and-working-capital/) first. When you are ready to test yourself, use the [practice questions](/resources/o-level-business-cash-flow-forecasting-and-working-capital-practice/), the wider [topic practice set](/resources/o-level-business-financial-information-and-decisions-practice/) and the [free diagnostics](/diagnostics/). Course pages: [Cambridge O Level Business hub](/boards/cambridge/o-level/business/) and [checklist](/checklists/cambridge/o-level/business/). Amounts are in dollars.

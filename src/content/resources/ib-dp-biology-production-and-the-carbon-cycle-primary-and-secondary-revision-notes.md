@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c4-2"
 description: "Condensed IB DP Biology revision notes on production, the carbon cycle, sinks and sources, the Keeling Curve and nutrient recycling, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These are condensed revision notes for IB Diploma Programme Biology, aligned to the IB *Biology guide*, first assessment 2025, statements C4.2.15 to C4.2.22 (the second part of C4.2, Transfers of energy and matter). All of it applies at standard level and higher level; C4.2 has no AHL content. For full explanations, read the [study guide](/resources/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary/), then test yourself with the [practice questions](/resources/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary-practice/).

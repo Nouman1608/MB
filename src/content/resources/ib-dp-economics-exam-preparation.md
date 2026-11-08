@@ -11,11 +11,12 @@ syllabusSeries: "First assessment 2022"
 order: 5
 description: "IB DP Economics exam preparation, paper by paper: diagram practice, evaluation strategy, the HL Paper 3 policy focus, a worked scenario and an exam checklist."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 ---
 
 The [full syllabus guide](/resources/ib-dp-economics-syllabus-guide/) sets out what each paper

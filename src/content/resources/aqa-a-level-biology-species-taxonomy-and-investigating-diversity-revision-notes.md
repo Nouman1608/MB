@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "investigating-diversity-aqa-alevel-biology"
 description: "Revision notes on species, courtship, taxonomic ranks, binomials, sequence comparison and standard deviation for AQA A-level Biology, 3.4.5 and 3.4.7."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 These notes condense AQA A-level Biology (7402) sections 3.4.5, *Species and taxonomy*, and 3.4.7, *Investigating diversity*, from the AQA AS and A-level Biology specification for first teaching 2015. For full explanations and worked examples, read the [study guide](/resources/aqa-a-level-biology-species-taxonomy-and-investigating-diversity/), then try the [practice questions](/resources/aqa-a-level-biology-species-taxonomy-and-investigating-diversity-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). If you are unsure where to start, take a [free diagnostic](/diagnostics/). All data on this page are invented for revision. Topic 4 is AS content, and A-level papers on topics 1 to 4 can assess it.
 

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "standard-form-edexcel-igcse-maths"
 description: "Condensed 4MA1 notes on rounding, significant figures, estimation, bounds and standard form (sections 1.8-1.9), with a self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 For full explanations and worked examples, use the [Degree of accuracy and standard form study guide](/resources/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form/). These notes condense sections **1.8** and **1.9** of Topic 1 in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Rounding, identifying bounds, estimation and calculating with standard form are on both tiers. Solving problems with bounds and solving problems involving standard form are **Higher tier only** and are labelled. A calculator may be used on every 4MA1 paper.

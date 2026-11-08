@@ -19,9 +19,10 @@ syllabusTopics:
     subtopic: "electron-configuration-7405"
 description: "Fundamental particles, isotopes, time-of-flight mass spectrometry, electron configuration and ionisation energy: the first topic of AQA A-level Chemistry 7405."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-08-21
 featured: false
 ---

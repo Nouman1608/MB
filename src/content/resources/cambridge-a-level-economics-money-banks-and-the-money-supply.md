@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "money-and-banking-cambridge-alevel-economics"
 description: "Study guide to money, commercial banks, credit creation and the money supply for Cambridge A Level Economics, with fully worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers syllabus outcomes 9.4.1 to 9.4.5 (Money and banking) in the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 9 is A Level content, so it is not examined at AS. The syllabus says AS content is assumed knowledge for the A Level papers. Outcomes 9.4.6 to 9.4.8 (inflation policies, demand for money, interest rates) are taught in separate pages.

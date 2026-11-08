@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "market-structures-and-contestability-edexcel-alevel-economics"
 description: "Condensed revision notes for Edexcel IAL Economics 3.3.3 items 6 and 7: monopoly, price discrimination and monopsony, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.3.3 Market structures and contestability, items 6 (Monopoly, a to h) and 7 (Monopsony, a and b), of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. The specification labels Unit 3 as an IAL compulsory unit (IA2 content, not part of IAS). Full explanations are in the [study guide](/resources/edexcel-ial-economics-monopoly-price-discrimination-and-monopsony/). Test yourself with the [practice questions](/resources/edexcel-ial-economics-monopoly-price-discrimination-and-monopsony-practice/), check the [Edexcel economics hub](/boards/edexcel/a-level/economics/), tick off the [printable checklist](/checklists/edexcel/a-level/economics/), and find gaps with the [free 10-minute diagnostics](/diagnostics/). All figures are invented.

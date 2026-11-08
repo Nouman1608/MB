@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d3-1"
 description: "HL-only study guide to puberty, gametogenesis, polyspermy, implantation, hCG, placenta, childbirth hormones and HRT in IB DP Biology D3.1."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide is aligned to the IB *Biology guide*, first assessment 2025, and covers the second part of sub-topic D3.1 (Reproduction): statements D3.1.13 to D3.1.20. All of it is Additional higher level, so it is **HL only**. If you take SL, you do not need it. The first part of D3.1 (sexual and asexual reproduction, the male and female systems, the ovarian and uterine cycles, fertilization, IVF and flowering plants) is taught elsewhere and is not repeated here.

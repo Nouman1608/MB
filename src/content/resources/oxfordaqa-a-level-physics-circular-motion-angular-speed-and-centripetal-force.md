@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "circular-motion-oxfordaqa-alevel"
 description: "Study guide to circular motion for OxfordAQA International A-level Physics (9630): angular speed, centripetal acceleration and force, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. It covers section 3.6.1 (Circular motion). The specification marks section 3.6 as International A-level only, so this content is not part of International AS. Use it with the [course hub](/boards/oxfordaqa/a-level/physics/) and tick points off on the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

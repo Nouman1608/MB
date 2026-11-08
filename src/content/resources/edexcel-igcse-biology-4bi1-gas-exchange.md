@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "gas-exchange-4bi1"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 points 2.40B-2.50: leaf gas exchange, the thorax, ventilation, alveoli, smoking and both practicals."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches sub-topic (g) **Gas exchange** of Topic 2, Structures and functions in living organisms, in the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. It covers points 2.40B–2.50 in depth. The qualification is untiered. The flowering-plant points (2.40B–2.45B) are bold with a B reference in the specification, so they are assessed on **Paper 2 only**. The human points (2.46–2.50) can appear on either paper.

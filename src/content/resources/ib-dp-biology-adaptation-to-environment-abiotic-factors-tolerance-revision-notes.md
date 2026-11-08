@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b4-1"
 description: "Condensed revision notes on habitat, tolerance, coral reefs, biomes and desert and rainforest adaptations for IB DP Biology section B4.1."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense IB Diploma Programme Biology section B4.1 (Adaptation to environment, outcomes B4.1.1 to B4.1.8) from the IB *Biology guide*, first assessment 2025. All of it applies to both SL and HL, because the guide gives B4.1 no extra higher level material. Full explanations and worked examples are in the [study guide](/resources/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance/); test yourself with the [practice set](/resources/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance-practice/). Use the [IB DP Biology hub](/boards/ib/ib-dp/biology/), the [checklist](/checklists/ib/ib-dp/biology/) and the [free diagnostics](/diagnostics/) to plan your revision.

@@ -20,9 +20,10 @@ syllabusTopics:
     subtopic: "global-supply-chain-management-0715"
 description: "Original practice questions with worked answers for Cambridge IGCSE Commerce 0715 Topic 3: Balance of Trade, trading blocs, restrictions and supply chains."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-06
 featured: false
 ---

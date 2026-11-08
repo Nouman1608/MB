@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "workers"
 description: "Condensed revision notes on occupation choice, wage determination, earnings differences and specialisation for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.3 (Workers) of the Cambridge O Level Economics 2281 syllabus for examination in 2026, covering 3.3.1 to 3.3.4. The syllabus is not tiered. The [study guide](/resources/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and/) explains each idea in full. Then try the [practice questions](/resources/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and-practice/) or a [free diagnostic](/diagnostics/). The course [hub](/boards/cambridge/o-level/economics/) and [printable checklist](/checklists/cambridge/o-level/economics/) list what else to cover. All figures here are invented.

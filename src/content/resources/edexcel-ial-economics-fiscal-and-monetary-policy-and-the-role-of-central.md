@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "macroeconomic-objectives-and-policies-edexcel-alevel-economics"
 description: "Study guide to demand-side policy for Pearson Edexcel International A Level Economics: fiscal and monetary tools, central banks and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018, first teaching September 2018). It covers section 2.3.6, item 4, parts a to e: demand-side policies. In the specification, Units 1 and 2 are the International AS content and Units 3 and 4 are the extra International A2 content. This topic sits in Unit 2, Macroeconomic performance and policy, which is an International AS compulsory unit and is also part of the full International A Level.

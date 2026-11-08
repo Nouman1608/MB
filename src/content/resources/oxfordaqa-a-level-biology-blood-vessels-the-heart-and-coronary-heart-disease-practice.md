@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "heart-disease-may-be-associated-with-specific-risk-factors-oxfordaqa-alevel-biology"
 description: "Original OxfordAQA International AS and A-level Biology practice questions with worked answers on vessels, the cardiac cycle, atheroma and CHD data."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

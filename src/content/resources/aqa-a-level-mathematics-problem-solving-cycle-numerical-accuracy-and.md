@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ot3-mathematical-modelling-aqa-alevel-maths"
 description: "Study guide to AQA A-level Mathematics themes OT2 and OT3: the problem-solving cycle, numerical accuracy, diagrams and modelling, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers outcomes OT2.1 to OT2.7 (mathematical problem solving) and OT3.1 to OT3.5 (mathematical modelling) in the AQA A-level Mathematics (7357) specification, for first teaching 2017. The specification says these skills must be applied across all of content sections A to S, so every outcome here can turn up inside any topic. For the argument-and-proof theme, see the [overarching themes overview](/resources/aqa-a-level-mathematics-overarching-themes/). Use the [course hub](/boards/aqa/a-level/mathematics/) and the [printable checklist](/checklists/aqa/a-level/mathematics/) to track progress, and the [free diagnostics](/diagnostics/) to find weak spots. Companion pages: [revision notes](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and-revision-notes/) and [practice questions](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and-practice/).

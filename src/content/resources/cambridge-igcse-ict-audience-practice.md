@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "copyright-0417"
 description: "Original exam-style questions with worked answers on audience needs, design choices, software copyright and anti-piracy methods for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 9: audience appreciation (9.1) and copyright (9.2). They practise the two skills the exam rewards: justifying a design choice by linking it to a named audience, and explaining software copyright and the methods producers use to stop piracy.

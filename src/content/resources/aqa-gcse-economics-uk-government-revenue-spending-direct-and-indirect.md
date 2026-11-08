@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "government-income-and-expenditure-aqa-gcse-economics"
 description: "Study guide to where UK government money comes from and goes, direct versus indirect tax and progressive versus regressive tax, for AQA GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is written for the AQA GCSE Economics (8136) specification, for first teaching from September 2017. It covers section 3.2.1.2, Government income and expenditure, which sits in 3.2.1 Introduction to the national economy within the unit "How the economy works". The specification is single tier, so everything here applies to every candidate. All figures in the worked examples are invented for illustration and are not real statistics.

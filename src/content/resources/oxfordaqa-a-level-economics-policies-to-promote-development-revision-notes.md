@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-growth-and-development-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on policies to promote development for OxfordAQA International A-level Economics, with quick calculations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These revision notes cover specification section 3.4.3.3 Policies to promote development in OxfordAQA International AS and A-level Economics (9640), version 1.2. Section 3.4 is extra International A2 content. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-economics-policies-to-promote-development/). Then use the [practice questions](/resources/oxfordaqa-a-level-economics-policies-to-promote-development-practice/), the [course hub](/boards/oxfordaqa/a-level/economics/), the [printable checklist](/checklists/oxfordaqa/a-level/economics/) and the free [diagnostics](/diagnostics/). All figures here are invented and illustrative; "cu" means currency units.
 

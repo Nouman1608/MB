@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "differences-in-economic-development-between-countries"
 description: "Condensed revision notes on causes and impacts of differences in development between countries, with formulas and a self-test, for O Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 5.4 (5.4.1) of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2. Tiers do not apply to this course. For the reasoning in full, read the [study guide](/resources/cambridge-o-level-economics-differences-in-economic-development-between-countries/). Test yourself with the [practice questions](/resources/cambridge-o-level-economics-differences-in-economic-development-between-countries-practice/). Other links: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/). All countries and numbers here are invented and illustrative.

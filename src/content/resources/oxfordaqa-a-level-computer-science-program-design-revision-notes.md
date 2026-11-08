@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "program-design-9645"
 description: "Condensed OxfordAQA A-Level Computer Science revision notes on program design, with key definitions, tracing steps and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These notes condense section 3.3 Program design (3.3.1 to 3.3.4) of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. All of it is AS content, also needed for the full International A-level. For full explanations and worked examples, use the [program design study guide](/resources/oxfordaqa-a-level-computer-science-program-design/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-computer-science-program-design-practice/).

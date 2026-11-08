@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-10"
 description: "Condensed revision notes for IB DP Economics 4.9 and 4.10: barriers, strategies, evaluation prompts and a short self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover sub-topic 4.9, barriers to economic growth and/or economic development, and sub-topic 4.10, growth and/or development strategies. Both are SL and HL, with no HL-only content. All countries and figures are invented.

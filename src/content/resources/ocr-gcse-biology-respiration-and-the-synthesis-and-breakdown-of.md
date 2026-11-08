@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "respiration-ocr-gcse-biology"
 description: "Study guide to respiration, ATP and the building and breaking down of carbohydrates, proteins and lipids for OCR GCSE Biology A (J247), topic B1.3."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide follows the OCR *GCSE (9-1) Gateway Science Biology A* specification (J247), Version 4.0 (August 2026), for first assessment in 2018. It covers topic B1.3, Respiration, outcomes B1.3a to B1.3f. The specification marks no B1.3 statement in bold, so none is labelled Higher Tier only. Revise it with the [revision notes](/resources/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of-revision-notes/) and test yourself on the [practice questions](/resources/ocr-gcse-biology-respiration-and-the-synthesis-and-breakdown-of-practice/). Course links: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), [printable checklist](/checklists/ocr/gcse/biology/) and the [free diagnostics](/diagnostics/). For the wider topic, see [Cell level systems](/resources/ocr-gcse-biology-cell-level-systems/).

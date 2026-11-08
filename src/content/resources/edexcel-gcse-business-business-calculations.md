@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "business-calculations-1bs0"
 description: "Study guide to gross profit, net profit, profit margins and average rate of return for Pearson Edexcel GCSE Business 1BS0, Theme 2 topic 2.4.1."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide teaches content item 2.4.1, Business calculations, from Topic 2.4 Making financial decisions in Theme 2, Building a business, of the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. The specification describes Topic 2.4 as exploring the tools a business has to support financial decision making, including ratio analysis. The qualification has two written papers: Theme 1, Investigating small business (1BS0/01), and Theme 2, Building a business (1BS0/02). Each lasts 1 hour 45 minutes, carries 90 marks and is 50% of the qualification. Each has three sections (A 35 marks, B 30 marks, C 25 marks) of calculations, multiple-choice, short-answer and extended-writing questions, and Sections B and C use business contexts given in the paper. Calculators may be used. The formulae are listed in the specification (Appendix 3) and are not provided in the examinations. Every business below is invented.

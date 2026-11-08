@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "analysing-the-existing-internal-position-of-a-business-oxfordaqa-alevel-business"
 description: "Revision notes for OxfordAQA A-level Business 9725 section 3.3.2: ratio formulas, Boston Matrix, profit centres, culture and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Use these pages for last-weeks recall of section 3.3.2, Analysis the existing internal position of a business, in the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, whose first International AS exams are in May/June 2027 and first International A-level exams in May/June 2028. The whole section is **International A-level only**; Unit 3: Business analysis assesses it. Still taking 9625? Work from that specification. The [study guide](/resources/oxfordaqa-a-level-business-analysis-the-existing-internal-position-of-a/) has the full teaching and worked examples.

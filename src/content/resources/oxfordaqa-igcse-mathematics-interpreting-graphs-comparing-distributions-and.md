@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "interpretation-oxfordaqa-igcse-maths"
 description: "Study guide to reading graphs, comparing distributions, correlation and lines of best fit by eye, for OxfordAQA International GCSE Maths (9260)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide is for OxfordAQA International GCSE Mathematics (9260), written to the specification Version 5.1 (for exams May/June 2018 onwards). It covers references S6, S7 and S8 in section 3.4.2, Interpretation. All three are Core content, so they can also be assessed on the Extension papers. There is no Extension-only content in this unit.

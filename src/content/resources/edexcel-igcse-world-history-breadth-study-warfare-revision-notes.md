@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "breadth-study-warfare-4hi1"
 description: "Condensed notes on Breadth Study B6, warfare 1919–2011, for Edexcel IGCSE History 4HI1: timeline, land, sea and air traced, key terms and an essay plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the timeline and theme summaries against the 4HI1 specification and a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the timeline and theme summaries against the 4HI1 specification and a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

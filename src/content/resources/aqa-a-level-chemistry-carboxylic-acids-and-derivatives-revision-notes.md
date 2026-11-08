@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "carboxylic-acids-and-derivatives-7405"
 description: "Condensed AQA A-Level Chemistry notes on carboxylic acids, esters, soap, biodiesel and acylation, with mechanism steps, a self-test and common mark losses."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **3.3.9 Carboxylic acids and derivatives** of the AQA AS and A-level

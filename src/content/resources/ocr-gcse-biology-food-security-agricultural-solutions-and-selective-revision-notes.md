@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "feeding-the-human-race-ocr-gcse-biology"
 description: "Condensed revision notes on food security, fertilisers, pesticides, hydroponics, biological control and selective breeding for OCR GCSE Biology A (J247)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense outcomes B6.2a, B6.2b and B6.2c of the OCR *GCSE (9-1) Gateway Science Biology A* specification (J247), Version 4.0 (August 2026), for first assessment in 2018. None of these statements is in bold, so none is labelled Higher Tier only. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-biology-food-security-agricultural-solutions-and-selective/). When you are ready, use the [practice questions](/resources/ocr-gcse-biology-food-security-agricultural-solutions-and-selective-practice/), the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), the [printable checklist](/checklists/ocr/gcse/biology/) and the [free diagnostics](/diagnostics/). Genetic engineering is on a separate page.

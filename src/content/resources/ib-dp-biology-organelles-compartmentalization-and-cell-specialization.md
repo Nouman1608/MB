@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b2-3"
 description: "Study guide to IB DP Biology B2.2 and B2.3: organelles, compartmentalization, stem cells, cell size and specialized cells, with HL-only content marked."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers sections B2.2 (Organelles and compartmentalization) and B2.3 (Cell specialization) of the IB *Diploma Programme Biology guide*, first assessment 2025. B2.2.1 to B2.2.3 and B2.3.1 to B2.3.6 are SL and HL. B2.2.4 to B2.2.9 and B2.3.7 to B2.3.10 are additional higher level, marked **HL only**. Condensed recall is in the [revision notes](/resources/ib-dp-biology-organelles-compartmentalization-and-cell-specialization-revision-notes/) and exam-style questions are in the [practice set](/resources/ib-dp-biology-organelles-compartmentalization-and-cell-specialization-practice/). See also the [IB Biology hub](/boards/ib/ib-dp/biology/) and the [printable checklist](/checklists/ib/ib-dp/biology/). Find weak spots with the [free diagnostics](/diagnostics/).

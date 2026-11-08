@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "types-of-data-and-variable-4040"
 description: "Topic 1 of Cambridge O Level Statistics 4040: classifying data, primary and secondary sources, census and sampling methods, bias and stratified samples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-08-21
 featured: false
 ---

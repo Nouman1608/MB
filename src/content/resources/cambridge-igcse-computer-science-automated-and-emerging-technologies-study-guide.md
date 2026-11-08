@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "automated-and-emerging-technologies"
 description: "Guide to Cambridge IGCSE Computer Science 0478 Topic 6: automated systems with sensors and actuators, robotics, and AI with its rule base and inference engine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Automated and emerging technologies asks how computers can run processes and make decisions without a person watching every step. The topic is mostly about description and explanation: you are expected to say what each part of an automated system does, give sensible real-world examples, and weigh up advantages and disadvantages. There is very little calculation, so marks are won by precise vocabulary and by applying that vocabulary to the scenario in the question.

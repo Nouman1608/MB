@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "globalisation-oxfordaqa-igcse-business"
 description: "Condensed notes on interest rates, employment, consumer spending, globalisation and exchange rates for OxfordAQA International GCSE Business 3.2.3-3.2.4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.2.3 (The economic climate on business) and 3.2.4 (Globalisation) of the OxfordAQA International GCSE Business (9225) specification, version 3.1, for exams from May/June 2022 onwards. Use the [full study guide](/resources/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation/) for explanations and worked examples, then try the [practice questions](/resources/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation-practice/). The wider topic is in the [Influences on business revision notes](/resources/igcse-oxfordaqa-business-influences-revision-notes/). Also useful: the [course hub](/boards/oxfordaqa/igcse/business/), the [printable checklist](/checklists/oxfordaqa/igcse/business/) and the [free diagnostics](/diagnostics/).

@@ -34,11 +34,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-13"
 description: "12 original IB Maths AI HL questions on radians, the unit circle, matrix transformations and vectors, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "irrecoverable-debts-provisions-and-inventory-oxfordaqa-igcse-accounting"
 description: "Condensed notes on irrecoverable debts, provisions for doubtful debts and opening and closing inventory for OxfordAQA International GCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense part of section 3.3 of the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards: irrecoverable debts, provisions for doubtful debts, and opening and closing inventory at cost or net realisable value. For full explanations and worked ledgers, read the [study guide](/resources/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-accounting-irrecoverable-debts-provisions-for-doubtful-debts-and-i-practice/), check progress with the [free diagnostics](/diagnostics/), and tick off topics on the [printable checklist](/checklists/oxfordaqa/igcse/accounting/). The [course hub](/boards/oxfordaqa/igcse/accounting/) lists the rest of the course. Amounts are in dollars.

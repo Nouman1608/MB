@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-3"
 description: "Original practice questions with worked answers on IB DP Economics sub-topic 4.3: arguments for and against trade protection, calculations and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "coordinate-geometry-in-the-xy-plane-ocr-alevel-maths"
 description: "Condensed formulae, methods, a checked self-test and common slips on parametric curves and their use in modelling for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense parametric equations of curves for OCR A Level Mathematics A (H240), specification Version 3.1 (August 2026), content statements 1.03g and 1.03h. Both statements are in the Stage 2 column, so they are **A Level only**. For full explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in/) first. Differentiating parametric equations is statement 1.07s and is not covered here. Find the rest of the course on the [OCR A Level Mathematics hub](/boards/ocr/a-level/mathematics/) and tick off skills on the [printable checklist](/checklists/ocr/a-level/mathematics/).

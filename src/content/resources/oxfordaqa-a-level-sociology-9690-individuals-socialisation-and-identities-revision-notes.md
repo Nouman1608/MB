@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "social-identities-social-change-9690"
 description: "Revision notes for OxfordAQA 9690 sections 3.1.2.1-3.1.2.3: culture, Mills's sociological imagination, socialisation, Mead, Goffman and identities."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense the first three sections of **3.1.2 Socialisation and social control** in

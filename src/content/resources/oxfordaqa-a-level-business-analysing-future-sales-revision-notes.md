@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "analysing-future-sales-oxfordaqa-alevel-business"
 description: "Condensed revision notes on sales forecasting for OxfordAQA A-level Business 9725: moving average method, extrapolation, qualitative methods, self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.3.5 Analysing future sales of the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Sales forecasting belongs to the second-year (**International A-level only**) content and is examined through Unit 3: Business analysis. On the older 9625 specification? Revise from that document instead. The [study guide](/resources/oxfordaqa-a-level-business-analysing-future-sales/) has the full teaching and the longer examples.

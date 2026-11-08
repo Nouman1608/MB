@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "introduction-to-the-circular-flow-of-income-cambridge-alevel-economics"
 description: "Study guide to GDP, GNI and NNI, basic and market prices, and the circular flow with injections and leakages for Cambridge AS and A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 4.1 (National income statistics) and 4.2 (Introduction to the circular flow of income) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 4 is AS Level content. A Level candidates study it too, and the syllabus treats AS content as assumed knowledge for A Level Papers 3 and 4. Every country, firm and figure below is invented for illustration. None is a real statistic.

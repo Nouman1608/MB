@@ -11,9 +11,10 @@ syllabusSeries: "For examination in 2026"
 order: 3
 description: "How to prepare for Cambridge IGCSE Economics 0455 Paper 1 multiple choice and Paper 2 structured questions: weighting, timing per mark and question choice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-07
 featured: false
 ---

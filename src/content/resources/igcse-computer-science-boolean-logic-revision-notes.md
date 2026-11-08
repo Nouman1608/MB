@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "boolean-logic"
 description: "Revision notes on NOT, AND, OR, NAND, NOR and XOR gates, truth tables, logic expressions and building circuits from problem statements for Cambridge IGCSE 0478."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 10 Boolean logic asks you to know six logic gates, their symbols and truth tables, and to move between four representations of the same logic: a problem statement, a logic expression, a logic circuit and a truth table. In Cambridge IGCSE Computer Science (0478) it is examined on Paper 2, with circuits of up to three inputs and one output, and circuits must be drawn exactly as the statement is given, without simplification.

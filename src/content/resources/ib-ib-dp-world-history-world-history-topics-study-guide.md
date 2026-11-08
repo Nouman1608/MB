@@ -50,9 +50,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-12"
 description: "The twelve IB DP History world history topics, from medieval society to the Cold War, with the comparative and thematic skills needed for Paper 2 essays."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the current subject guide for the named examples and regions required in each topic and the exact Paper 2 format, as teachers choose the case studies within each topic. 2026-11-08 recheck: corrected essay marking (holistic markbands, two questions per topic), added FAQ."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the current subject guide for the named examples and regions required in each topic and the exact Paper 2 format, as teachers choose the case studies within each topic. 2026-11-08 recheck: corrected essay marking (holistic markbands, two questions per topic), added FAQ; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

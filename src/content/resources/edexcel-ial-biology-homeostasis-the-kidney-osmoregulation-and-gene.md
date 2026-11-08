@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "respiration-muscles-and-the-internal-environment-edexcel-alevel-biology"
 description: "Feedback, thermoregulation, kidney structure, ultrafiltration, the loop of Henle, ADH and transcription factors for Edexcel IAL Biology YBI11."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide teaches homeostasis, the kidney, osmoregulation and gene switching from scratch for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. It covers statements 7.16 to 7.22 of Topic 7. Topics 1 to 4 are International AS (IAS) and Topics 5 to 8 are International A2 (IA2), so this material is A2. There are no tiers. Use it with the [revision notes](/resources/edexcel-ial-biology-homeostasis-the-kidney-osmoregulation-and-gene-revision-notes/) and the [practice questions](/resources/edexcel-ial-biology-homeostasis-the-kidney-osmoregulation-and-gene-practice/). The [course hub](/boards/edexcel/a-level/biology/), [printable checklist](/checklists/edexcel/a-level/biology/) and [free diagnostics](/diagnostics/) show the rest of the course.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "understanding-management-decision-making-aqa-alevel-business"
 description: "Study guide to AQA A-Level Business 3.2.2: data versus intuition, decision trees, expected value, net gain, risk, opportunity cost and influences."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 3.2.2, *Understanding management decision making*, from the AQA AS and A-level Business specification (7132, A-level). It follows the wording of the specification's subject content. It is part of the topic *Managers, leadership and decision making*, which also covers leadership styles and stakeholders. All businesses and figures below are invented.

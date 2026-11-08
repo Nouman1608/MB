@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b2-3"
 description: "Original practice questions with worked answers for IB DP Biology B2.2 and B2.3: organelles, compartments, stem cells, SA:V ratio and specialized cells."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

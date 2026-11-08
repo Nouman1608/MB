@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "introductory-concepts-edexcel-alevel-economics"
 description: "Condensed revision notes for Edexcel IAL Economics 1.3.1: models, scarcity, PPFs, specialisation, money and economic systems, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 1.3.1 Introductory concepts, items 1 to 6, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. It is Unit 1 content, which the specification labels IAS and which also counts towards the full IAL. The [study guide](/resources/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and/) has the full explanations and worked examples. Figures here are invented.

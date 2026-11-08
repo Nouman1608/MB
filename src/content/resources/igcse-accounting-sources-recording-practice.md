@@ -16,11 +16,12 @@ syllabusTopics:
     topic: "sources-and-recording-of-data"
 description: "Cambridge IGCSE Accounting 0452 practice questions with marked answers on double entry, documents, books of prime entry, discounts and petty cash (Topic 2)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE

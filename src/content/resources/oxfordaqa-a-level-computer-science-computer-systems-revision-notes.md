@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "computer-systems-9645"
 description: "Condensed revision notes on OxfordAQA A-level Computer Science computer systems: OS functions, utilities, low vs high-level languages and translators."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These notes condense topic 6, Computer systems, of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. They cover sections 3.6.1 to 3.6.3.2, all International AS content listed under Unit 2: Concepts and principles of computer science. For full explanations and worked examples, use the [Computer systems study guide](/resources/oxfordaqa-a-level-computer-science-computer-systems/).

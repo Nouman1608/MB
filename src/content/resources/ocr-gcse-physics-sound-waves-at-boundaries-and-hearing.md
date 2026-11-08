@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "wave-behaviour-ocr-gcse"
 description: "Study guide to sound crossing boundaries, ultrasound, sonar, the ear and the limits of hearing, for OCR GCSE Physics A (J249), including Higher Tier content."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers four statements from topic P5.1, Wave behaviour, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026): P5.1f, P5.1g, P5.1h and P5.1i. P5.1h and P5.1i are shown in bold in the specification, so they are tested in the **Higher Tier only**. P5.1f and P5.1g are not in bold, so they are assessed in both tiers. All four are marked in the specification as separate Physics only content (not in Combined Science). The statements on wave speed, frequency and wavelength in general (P5.1a to P5.1e) are taught elsewhere. Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/). If you are unsure where you stand, try the [free diagnostics](/diagnostics/) first.

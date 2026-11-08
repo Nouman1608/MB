@@ -27,9 +27,10 @@ syllabusTopics:
     subtopic: "general-defences-and-remedies-9084"
 description: "Negligence, nuisance, Rylands v Fletcher, trespass, defences and remedies for Cambridge A Level Law 9084, with key cases and a worked damages calculation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the 9084 syllabus for exactly which torts sit under 4.2 and 4.3, for example occupiers' liability, defamation or vicarious liability, and which cases are expected."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the 9084 syllabus for exactly which torts sit under 4.2 and 4.3, for example occupiers' liability, defamation or vicarious liability, and which cases are expected; 2026-11-08: reviewed by aizaz-raoof-ali."
 publishedDate: 2026-11-08
 featured: false
 ---

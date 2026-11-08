@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "energy-resources-and-electricity-generation"
 description: "Original practice questions with worked answers on energy stores, efficiency, thermal energy transfer and energy resources for Edexcel IGCSE Physics 4PH1."
 author: "iftikhar-azeemi"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewrote a common-mistakes bullet that described friction work not asked in question 8; please re-review; previously reviewed by hassan on 2026-09-29."
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: rewrote a common-mistakes bullet that described friction work not asked in question 8; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
 publishedDate: 2026-08-22
 featured: false
 ---

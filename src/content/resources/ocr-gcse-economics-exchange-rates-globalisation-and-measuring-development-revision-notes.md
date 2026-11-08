@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "globalisation-ocr-gcse-economics"
 description: "Condensed OCR GCSE Economics J205 revision notes for sections 4.3 and 4.4: exchange rates, currency conversion, globalisation and development."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 4.3 and 4.4 of the OCR GCSE (9-1) Economics specification (J205, version 2.0, first assessment 2019). J205 has no tiers. For full explanations and worked examples read the [study guide](/resources/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development/), then try the [practice set](/resources/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development-practice/). Every figure is made up. Other useful pages: the [OCR GCSE Economics hub](/boards/ocr/gcse/economics/), a printable [topic checklist](/checklists/ocr/gcse/economics/) and the [diagnostics](/diagnostics/).

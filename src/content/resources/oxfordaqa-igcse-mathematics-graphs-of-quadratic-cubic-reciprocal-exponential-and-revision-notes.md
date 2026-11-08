@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "functions-graphs-and-calculus-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on quadratic, cubic, reciprocal, exponential and trig graphs for OxfordAQA International GCSE Mathematics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense references A12 and A16 of section 3.2.2 in the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). Core content is also assessable at Extension; items marked "Extension only" are the extra Extension content. The [study guide](/resources/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and/) explains each idea at greater length, with longer worked examples. Test yourself afterwards with the [practice questions](/resources/oxfordaqa-igcse-mathematics-graphs-of-quadratic-cubic-reciprocal-exponential-and-practice/).

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "classification-and-evolution-ocr-alevel-biology"
 description: "Study guide to the taxonomic hierarchy, binomial names, five kingdoms, three domains, molecular evidence and phylogeny for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers section 4.2.2(a) to (d) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It sits in Module 4, Biodiversity, evolution and disease. It teaches the taxonomic hierarchy, the binomial system, the five kingdoms, the three domains, the evidence behind new classification systems, and the link between classification and phylogeny. The rest of 4.2.2, from (e) onwards (evolution, variation, adaptation and natural selection), is outside this unit.

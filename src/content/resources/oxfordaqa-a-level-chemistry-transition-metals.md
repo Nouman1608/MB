@@ -34,8 +34,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-2-5-6"
 description: "OxfordAQA 9620 study guide to section 3.2.5: ligands, the chelate effect, complex shapes, colour, vanadium, MnO₄⁻ titrations and catalysis."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.2.5, Transition metals, from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, which applies to exams from May/June 2020. It covers 3.2.5.1 to 3.2.5.6. This is International A2 content, so everything here is **International A-level only**. Unit 3 assesses it, and the synoptic Unit 5 can draw on any content.

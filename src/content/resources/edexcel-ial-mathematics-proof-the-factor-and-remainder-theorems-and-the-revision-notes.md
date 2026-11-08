@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "p2-coordinate-geometry-edexcel-alevel-maths"
 description: "Revision notes on proof, the factor and remainder theorems and circles for Pearson Edexcel International Advanced Level Mathematics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense P2 sections 1.1 to 1.3 (proof), 2.1 (factor and remainder theorems) and 3.1 (the circle) from the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. Read the [study guide](/resources/edexcel-ial-mathematics-proof-the-factor-and-remainder-theorems-and-the/) for the full explanations, then test yourself with the [practice set](/resources/edexcel-ial-mathematics-proof-the-factor-and-remainder-theorems-and-the-practice/).
 

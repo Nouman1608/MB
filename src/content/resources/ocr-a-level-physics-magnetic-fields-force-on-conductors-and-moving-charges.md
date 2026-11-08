@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electromagnetism-ocr-alevel"
 description: "Study guide to magnetic fields, force on a current-carrying wire, F = BQv, circular orbits and velocity selectors for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This study guide covers the first two parts of section 6.3 (Electromagnetism) of the H556 Physics A specification from OCR (Version 3.0, March 2026): 6.3.1 Magnetic fields and 6.3.2 Motion of charged particles. Flux linkage, Faraday's law, generators and transformers (6.3.3) are taught separately. For condensed recall use the [revision notes](/resources/ocr-a-level-physics-magnetic-fields-force-on-conductors-and-moving-charges-revision-notes/), then test yourself with the [practice questions](/resources/ocr-a-level-physics-magnetic-fields-force-on-conductors-and-moving-charges-practice/). Also see the subject [hub](/boards/ocr/a-level/physics/), the [checklist to print](/checklists/ocr/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/). For the circular-motion ideas, see [circular motion and centripetal force](/resources/ocr-a-level-physics-circular-motion-and-centripetal-force/).

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "the-digital-divide"
 description: "Study guide to the digital divide for Cambridge AS & A Level IT 9626: what it is, its causes and effects, the groups affected, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This study guide covers **topic 6, The digital divide** (section 6.1) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). It is AS Level content, so it is part of both the AS Level and the full A Level. The syllabus states that Paper 1 (Theory) questions are based on sections 1–11, so this topic is examined there. Paper 2 (Practical) tasks are set on sections 8–11, but candidates apply knowledge and understanding from sections 1–7, which includes this topic.

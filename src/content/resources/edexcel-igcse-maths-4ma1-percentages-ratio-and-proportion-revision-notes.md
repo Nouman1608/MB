@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "ratio-and-proportion-edexcel-igcse-maths"
 description: "Condensed Edexcel IGCSE Maths 4MA1 revision notes for 1.6 and 1.7: multipliers, reverse percentages, compound interest, ratio, proportion and scales."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Full explanations and longer worked examples are in the [Percentages, ratio and proportion study guide](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion/). These notes are for the final weeks.

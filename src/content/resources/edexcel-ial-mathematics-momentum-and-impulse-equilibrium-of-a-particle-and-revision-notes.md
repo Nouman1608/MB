@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "m1-moments-edexcel-alevel-maths"
 description: "Condensed revision notes for Edexcel IAL Mathematics M1 momentum, impulse, equilibrium, friction at rest and moments, with a self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 These notes condense the [study guide](/resources/edexcel-ial-mathematics-momentum-and-impulse-equilibrium-of-a-particle-and/) for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019, M1 topics 4.3, 5.1, 5.2, 5.3 and 6.1. The specification lists M1 as an optional unit for IAS and IAL Mathematics and Further Mathematics. Use the [practice questions](/resources/edexcel-ial-mathematics-momentum-and-impulse-equilibrium-of-a-particle-and-practice/) to test yourself, tick off topics on the [checklist](/checklists/edexcel/a-level/mathematics/), start from the [course hub](/boards/edexcel/a-level/mathematics/) and take a [free 10-minute diagnostic](/diagnostics/).
 

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "business-competition-edexcel-igcse-economics"
 description: "Condensed revision notes on competition, firm size, growth, monopoly and oligopoly for Pearson Edexcel International GCSE Economics 4EC1, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 1.2.4 (Business competition) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026, for Paper 1. There is a single tier of entry. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-economics-business-competition/), then test yourself with the [practice questions](/resources/edexcel-igcse-economics-business-competition-practice/). Course pages: [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/) and [printable checklist](/checklists/edexcel/igcse/economics/). To find weak areas first, try the free [10-minute diagnostics](/diagnostics/). All figures below are invented.

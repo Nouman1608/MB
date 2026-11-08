@@ -32,9 +32,12 @@ syllabusTopics:
     subtopic: "evaluation-0417"
 description: "Original exam-style questions with worked answers on analysis, design, test data, implementation, documentation and evaluation for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 These practice questions cover all six stages of the systems life cycle in Cambridge IGCSE ICT 0417 Topic 7: analysis, design, development and testing, implementation, documentation and evaluation. Topic 7 is assessed on Paper 1 (Theory), where questions are set in a scenario and answers must be applied to it.

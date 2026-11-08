@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "the-role-of-business-enterprise-1bs0"
 description: "Study guide to why business ideas arise, risk and reward, adding value and the entrepreneur's role, for Edexcel GCSE Business Theme 1, Topic 1.1."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 1, Topic 1.1 Enterprise and entrepreneurship, content items 1.1.1 (the dynamic nature of business), 1.1.2 (risk and reward) and 1.1.3 (the role of business enterprise). The specification lists formulae in Appendix 3 and says they are not provided in the examinations, so the revenue and profit sums below are worth learning.

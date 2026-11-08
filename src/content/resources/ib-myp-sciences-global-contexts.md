@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "ib-myp-sciences-global-contexts"
 description: "Study guide to the six MYP global contexts in IB MYP Sciences: what each means, example science units, statements of inquiry and the link to criterion D."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide explains the six global contexts in IB MYP Sciences and how they shape a science unit. It is aligned to the IB *MYP Sciences guide* (for use from September 2014/January 2015; published May 2014, updated May 2019), and it suits MYP years 4 and 5. MYP Sciences has no SL/HL split.

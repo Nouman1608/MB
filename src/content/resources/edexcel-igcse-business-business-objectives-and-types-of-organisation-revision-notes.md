@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "types-of-organisations-4bs1"
 description: "Condensed revision notes on business objectives and types of organisation, with a self-test, for Pearson Edexcel International GCSE Business."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026, Topic 1, sections 1.1 and 1.2. Full explanations and worked examples are in the [study guide](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation/); questions to try are in the [practice set](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation-practice/). Course links: the [4BS1 Business hub](/boards/edexcel/igcse/business/), the [printable checklist](/checklists/edexcel/igcse/business/) and the [free diagnostics](/diagnostics/). Paper 1 uses a small business and Paper 2 a large one, and both can draw on all of this content.

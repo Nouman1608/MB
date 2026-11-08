@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "stacks-oxfordaqa-alevel-cs"
 description: "Study guide to 9645 sub-topics 3.2.2 to 3.2.4: records, linear and circular queues, and stacks in one-dimensional arrays, with Python code and library use."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 **Records, queues and stacks are sub-topics 3.2.2, 3.2.3 and 3.2.4 of OxfordAQA International AS and

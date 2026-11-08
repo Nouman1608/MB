@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "demand-supply-and-market-equilibrium-edexcel-igcse-economics"
 description: "Study guide to demand, supply, shifts, equilibrium, excess demand and excess supply for Pearson Edexcel International GCSE Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers outcomes a to j of section 1.1.3, Demand, supply and market equilibrium, in the Pearson Edexcel International GCSE Economics specification (code 4EC1), issued as Issue 3 in February 2026. It is a single-tier qualification, so everything here is for every candidate. The content is listed under Paper 1: Microeconomics and Business Economics. All numbers here are made up for illustration, as are the countries and firms.

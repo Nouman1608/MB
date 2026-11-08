@@ -23,9 +23,10 @@ syllabusTopics:
     subtopic: "unseen-prose-9275"
 description: "Condensed notes on comparing People and Places poems and analysing unseen poetry and prose for OxfordAQA International GCSE English Literature 9275 Paper 2a."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 publishedDate: 2026-09-03
 featured: false
 ---

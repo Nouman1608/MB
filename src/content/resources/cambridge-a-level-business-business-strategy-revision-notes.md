@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "business-strategy-cambridge-alevel-business"
 description: "Condensed revision notes for Cambridge A Level Business 9609 section 6.2: strategic tools, decision tree sums, culture, change and crisis planning."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense section 6.2 Business strategy (6.2.1 Developing business strategy and 6.2.2 Corporate planning and implementation) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is A Level content. For full explanations and worked examples, use the [study guide](/resources/cambridge-a-level-business-business-strategy/), then test yourself with the [practice questions](/resources/cambridge-a-level-business-business-strategy-practice/).
 

@@ -22,8 +22,12 @@ syllabusTopics:
     topic: "time-series-0479"
 description: "Time series graphs, centred moving averages, trend lines, seasonal components and predictions: Cambridge O Level Statistics 4040 and IGCSE 0479 study guide."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 This guide covers **time series**: Topic 10 of Cambridge O Level Statistics

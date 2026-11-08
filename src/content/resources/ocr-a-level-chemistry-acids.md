@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-1-4"
 description: "OCR A Level Chemistry A (H432) 2.1.4 Acids: common acids and alkalis, strong and weak acids, neutralisation, standard solutions and titration calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: reviewed by nouman-ahmed."
 publishedDate: 2026-09-02
 featured: false
 ---

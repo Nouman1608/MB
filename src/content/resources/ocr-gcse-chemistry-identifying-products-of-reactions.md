@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c4-2-identifying-products-j248"
 description: "Study guide for OCR GCSE Chemistry A (J248) C4.2: gas tests, flame tests, hydroxide and anion tests, instrumental analysis and reading mass spectra."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 This guide teaches sub-topic **C4.2 Identifying the products of chemical reactions** (Topic C4) using the OCR specification J248, Chemistry A (Gateway Science) at GCSE (9-1), in its Version 4.0 dated August 2026; it was first assessed in 2018. It works through statements C4.2a to C4.2g, the mathematical learning outcome CM4.2i and the practical suggestions linked to PAG C5. One statement, C4.2b (tests for aqueous cations and anions), is tested only in the Higher Tier papers, so it is labelled **Higher Tier only** wherever it appears; the rest applies to both tiers. The specification places Topic C4 in Paper 2 (Foundation Tier) and Paper 4 (Higher Tier).

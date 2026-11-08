@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "m1-motion-variable-acceleration-oxfordaqa-alevel-maths"
 description: "Study guide to straight-line motion for OxfordAQA International AS Maths 9660: graphs, constant acceleration, gravity and calculus, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers sections M1.1 (motion in a straight line with constant acceleration) and M1.2 (motion in a straight line with variable acceleration) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International AS Unit PSM1 (Pure Maths, Statistics and Mechanics), where Mechanics carries 20 of the 80 marks; it carries no further tier labels.

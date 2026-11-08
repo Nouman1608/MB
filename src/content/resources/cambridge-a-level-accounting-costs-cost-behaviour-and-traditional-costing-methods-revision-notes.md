@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "traditional-costing-methods"
 description: "Condensed revision notes on cost behaviour, FIFO and AVCO, absorption and marginal costing, break-even and decisions for Cambridge 9706 AS Accounting."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 Full explanations and worked examples are in the [study guide](/resources/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods/). These notes condense sections 2.1 Costs and cost behaviour and 2.2 Traditional costing methods of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028 (AS Level content). All businesses and figures are invented and all amounts are in dollars. Test yourself with the [practice questions](/resources/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods-practice/), tick off the [checklist](/checklists/cambridge/a-level/accounting/), find the [course hub](/boards/cambridge/a-level/accounting/) and try the free [diagnostics](/diagnostics/).

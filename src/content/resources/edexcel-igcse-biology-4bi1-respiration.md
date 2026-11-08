@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "respiration-4bi1"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 respiration (2.34-2.39): ATP, aerobic and anaerobic equations and the respiring-seeds practical."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches sub-topic 2(f), **Respiration** (specification points 2.34–2.39), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered, and none of these six points carries a bold **B** reference, so all of them can be examined on Paper 1 and Paper 2. It applies to the November and June series examined under Issue 3.

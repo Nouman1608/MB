@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "m1-kinematics-straight-line-edexcel-alevel-maths"
 description: "Study guide to Edexcel International Advanced Level Maths M1: mechanical models, vectors in mechanics and constant acceleration, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers Unit M1: Mechanics 1, sections 1.1, 2.1, 2.2 and 3.1 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). Under the specification, M1 is optional: it can be taken within IAS Mathematics, IAS Further Mathematics, IAL Mathematics and IAL Further Mathematics. It lists P1, P2 and vectors in two dimensions as prerequisites.

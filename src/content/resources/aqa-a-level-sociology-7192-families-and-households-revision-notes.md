@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "families-and-households-7192"
 description: "Condensed AQA 7192 Families and Households notes: key terms, studies at a glance, must-know distinctions, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 For full explanations and worked paragraphs, use the [Families and Households study guide](/resources/aqa-a-level-sociology-7192-families-and-households/) first.

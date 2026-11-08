@@ -27,8 +27,12 @@ syllabusTopics:
     subtopic: "general-defences-and-remedies-9084"
 description: "Paper 4-style tort scenarios and essays with indicative answers on negligence, occupiers' liability, nuisance, trespass and remedies for Cambridge 9084."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 These questions practise the whole of Topic 4 Law of tort in Cambridge International A Level Law

@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "accounting-for-depreciation-and-disposal-of-non-current-assets"
 description: "Study guide to capital and revenue items, depreciation methods, and ledger accounts for disposals in Cambridge IGCSE Accounting 0452 (2027-2029)."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE

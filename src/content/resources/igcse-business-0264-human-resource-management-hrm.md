@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "human-resource-management-hrm-0264"
 description: "Study guide to human resource management for Cambridge IGCSE Business 0264: recruitment, selection, contracts, legal controls and training."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 2.1 (Human resource management (HRM), points 2.1.1 to 2.1.3) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. All candidates take the same two papers, Paper 1 (Short Answer and Data Response) and Paper 2 (Case Study), and both papers are based on all the subject content. So expect HRM in stimulus material and case studies, not only as recall. Use the [course hub](/boards/cambridge/igcse/business/) and the [printable checklist](/checklists/cambridge/igcse/business/) to track progress, then use the [revision notes](/resources/igcse-business-0264-human-resource-management-hrm-revision-notes/) and the [practice questions](/resources/igcse-business-0264-human-resource-management-hrm-practice/) to test yourself. To find weak spots first, try the [free diagnostics](/diagnostics/).

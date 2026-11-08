@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "human-resource-management-hrm-0264"
 description: "Condensed revision notes on human resource management for Cambridge IGCSE Business 0264, with tables, a self-test and common mistakes."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 2.1 (Human resource management (HRM), points 2.1.1 to 2.1.3) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-human-resource-management-hrm/). Then test yourself with the [practice questions](/resources/igcse-business-0264-human-resource-management-hrm-practice/). Both Paper 1 and Paper 2 are based on all the subject content, so HRM can appear in either. Track your progress on the [printable checklist](/checklists/cambridge/igcse/business/), see the [course hub](/boards/cambridge/igcse/business/), and use the [free diagnostics](/diagnostics/) to find gaps.

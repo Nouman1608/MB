@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "implementation-and-measurements-unit-6-yph11"
 description: "Study guide for Edexcel International A Level Physics Unit 6: planning an experiment, spotting weaknesses in partial methods, and using log graphs."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 This study guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Physics specification (YPH11), Issue 3. It covers section 6.3 Planning and section 6.4 Implementation and Measurements, plus the unit description's call for experience of log graphs. Unit 6 belongs to IA2, the second year. It assesses the experimental procedures and techniques you meet while doing the Unit 4 and Unit 5 experiments. Section 6.5 Analysis is outside this page.
 

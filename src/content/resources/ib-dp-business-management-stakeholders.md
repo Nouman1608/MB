@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-1-4"
 description: "Study guide to internal and external stakeholders and conflict between stakeholders for IB DP Business Management, section 1.4, with two worked cases."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 1.4 (Stakeholders) of Unit 1 in the IB *Business management guide*, first assessment 2024. The section applies to both SL and HL and is not marked as an HL extension. It lists two content points, each with a stated depth of AO2 (application and analysis): internal and external stakeholders, and conflict between stakeholders. The guide also describes stakeholders as a recurring topic across the whole syllabus, so the ideas here come back in finance, marketing, operations and the case-study papers.

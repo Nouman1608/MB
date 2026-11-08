@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "market-structures-ocr-alevel-economics"
 description: "Condensed revision notes on contestable markets, mergers, firm growth, regulation, ownership and competition policy for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the part of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), that deals with contestable markets, integration, growth of firms, regulation, ownership, competition policy and interdependence. It sits within Market structures in Component 1, Microeconomics (H460/01). The specification labels no content as AS or Extension. Figures are invented and illustrative. For full explanations, read the [study guide](/resources/ocr-a-level-economics-contestable-markets-integration-growth-of-firms-and/).

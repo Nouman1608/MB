@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "populations-and-sustainability-ocr-alevel-biology"
 description: "Study guide to OCR A Level Biology A (H420) 6.3.2(a)-(e): limiting factors, predator-prey cycles, competition, conservation, timber and fishing."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers learning outcomes 6.3.2(a) to 6.3.2(e), Populations and sustainability, in the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It sits in Module 6, Genetics, evolution and ecosystems. The specification says that ecosystems may need careful management for economic, social and ethical reasons, and that biological resources must be used sustainably.

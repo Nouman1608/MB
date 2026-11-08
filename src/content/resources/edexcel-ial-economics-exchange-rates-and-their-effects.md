@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "balance-of-payments-exchange-rates-and-competitiveness-edexcel-alevel-economics"
 description: "Study guide to exchange rate systems, intervention, causes of change and effects on the economy for Pearson Edexcel International Advanced Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. It covers 4.3.3 item 2, points a to g: exchange rate systems, intervention, causes of change, the effects of a change and competitive depreciations. In the specification, Units 1 and 2 are IAS units, while Units 3 and 4 hold the extra IA2 content needed for the full IAL. This material sits in Unit 4, Developments in the global economy, so it is IA2 content. Every figure below is invented for illustration. Country A uses the ark and Country B uses the bel.

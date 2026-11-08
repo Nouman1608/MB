@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "regulatory-and-ethical-considerations"
 description: "Condensed recall notes on IAS 1, 2, 7, 8, 10, 16, 36, 37 and 38, ethics, audit and stewardship for Cambridge 9706 A Level Accounting."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 These notes condense section 3.2 Regulatory and ethical considerations of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028 (A Level content). For explanations and worked examples, read the [study guide](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations/) first. Then attempt the [practice questions](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations-practice/). Other links: [course hub](/boards/cambridge/a-level/accounting/), [checklist](/checklists/cambridge/a-level/accounting/), [diagnostics](/diagnostics/), and [non-current assets](/resources/accounting-non-current-assets/) for depreciation methods. Amounts are in dollars.

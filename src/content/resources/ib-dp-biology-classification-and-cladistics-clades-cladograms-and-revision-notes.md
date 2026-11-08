@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a3-2"
 description: "Condensed IB DP Biology HL revision notes on clades, cladograms, parsimony, the molecular clock and the three domains, with a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense section A3.2 of the IB *Biology guide*, first assessment 2025. Everything here is **HL only**. For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-biology-classification-and-cladistics-clades-cladograms-and/). When you are ready to test yourself, use the [practice questions](/resources/ib-dp-biology-classification-and-cladistics-clades-cladograms-and-practice/), the [IB Biology hub](/boards/ib/ib-dp/biology/), the [printable checklist](/checklists/ib/ib-dp/biology/) and the [free 10-minute diagnostics](/diagnostics/). The wider [Theme A revision notes](/resources/ib-dp-biology-theme-a-unity-diversity-revision-notes/) put this section in context.

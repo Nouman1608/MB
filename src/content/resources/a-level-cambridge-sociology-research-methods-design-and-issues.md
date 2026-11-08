@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "research-issues-9699"
 description: "Cambridge 9699 sections 2.1 and 2.3 explained: data types, secondary sources, quantitative and qualitative methods, research design, bias, validity and ethics."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 Research methods are the tools sociologists use to collect evidence, and in Cambridge International

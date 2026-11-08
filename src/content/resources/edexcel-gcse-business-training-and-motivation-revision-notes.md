@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "motivation-1bs0"
 description: "Condensed revision notes with tables, method steps and a self-test on training and motivation for Edexcel GCSE Business Theme 2, items 2.5.3 and 2.5.4."
 author: "marlbridge-academic-team"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
+reviewNote: "2026-11-08: reviewed by asif-iqbal."
 ---
 
 These notes condense Theme 2, Topic 2.5 Making human resource decisions from the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. They cover items 2.5.3 (Effective training and development) and 2.5.4 (Motivation). For full explanations and worked examples, read the [study guide](/resources/edexcel-gcse-business-training-and-motivation/).

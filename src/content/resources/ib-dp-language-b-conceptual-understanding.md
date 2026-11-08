@@ -19,11 +19,12 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Study guide to context, audience, purpose, meaning and variation in IB DP Language B, with register, tone and worked reading and writing examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This study guide teaches the five **conceptual understandings** of IB Diploma Programme Language B: context, audience, purpose, meaning and variation. It is aligned to the IB *Diploma Programme Subject Brief: Language B*, first assessment 2020, which names these five in its curriculum model, and it applies them to reading and writing tasks set in three prescribed themes: human ingenuity, social organization and sharing the planet. The concepts are the same at SL and HL; HL asks you to use them with more complex language. It follows the IB Language B subject brief for first assessment 2020, which remains the examined course until the new syllabus is first assessed in May 2029, so it applies to the 2026, 2027 and 2028 sessions.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-algebra-oxfordaqa-alevel-maths"
 description: "Condensed revision notes on surds, rational indices, quadratics, the discriminant, substitution and inequalities for OxfordAQA International AS Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Condensed recall for specification content P1.1 (Algebra) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification states this content is part of International AS Unit P1 (Pure Maths, section 3.1). The [study guide](/resources/oxfordaqa-a-level-mathematics-surds-indices-quadratics-and-simultaneous-equations/), with full explanations and worked examples, sits behind these notes. Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-surds-indices-quadratics-and-simultaneous-equations-practice/).

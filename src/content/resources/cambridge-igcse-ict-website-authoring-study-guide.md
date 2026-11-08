@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "use-stylesheets-0417"
 description: "The layers of web development, building a web page in HTML and styling it with CSS, including internal and external stylesheets, for IGCSE ICT."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Website authoring is about building web pages from code or from a web-authoring tool and making them look consistent with a stylesheet. In Cambridge IGCSE ICT you are expected to understand how a web page is built in layers, create a page with correct HTML, add images, tables, lists and links, and then control the appearance with CSS. This guide explains each subtopic, with a worked example of a complete page and its stylesheet.

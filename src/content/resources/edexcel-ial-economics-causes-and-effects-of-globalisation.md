@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "causes-and-effects-of-globalisation-edexcel-alevel-economics"
 description: "Study guide to the characteristics, causes and effects of globalisation for Pearson Edexcel International Advanced Level Economics, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. It covers section 4.3.1, Causes and effects of globalisation, items 1 to 3. The specification calls Units 1 and 2 the International AS (IAS) units and Units 3 and 4 the additional International A2 (IA2) content. Unit 4, Developments in the global economy, is an International Advanced Level compulsory unit, so this material is for the full qualification and not for IAS alone. Every figure below is invented for illustration.

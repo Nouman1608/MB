@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-international-economy-aqa-alevel-economics"
 description: "Study guide to tariffs, quotas, export subsidies, the tariff diagram, customs unions, the Single European Market and the WTO for AQA A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 This guide covers the second half of the Trade content for AQA A-level Economics (7136), specification version 1.3, section 4.2.6.2 (numbered 3.2.6.2 on the AQA website): protectionist policies, their causes and consequences, customs unions, the Single European Market (SEM) and the World Trade Organisation (WTO). The specification states no AS-only or A-level-only labels in this section. Comparative advantage and the costs and benefits of trade are taught on other pages. Every country, firm and figure below is invented and illustrative. Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), [checklist](/checklists/aqa/a-level/economics/) and [free diagnostics](/diagnostics/). Next: the [revision notes](/resources/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto-revision-notes/) and the [practice questions](/resources/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto-practice/).
 

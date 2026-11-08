@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "standard-costing"
 description: "Condensed revision notes on standard costing for Cambridge A Level Accounting 9706: every variance formula, causes, pitfalls and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 These notes condense section 4.2 Standard costing (A Level content) of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. For full explanations and a complete worked example, read the [study guide](/resources/cambridge-a-level-accounting-standard-costing/), then test yourself with the [practice questions](/resources/cambridge-a-level-accounting-standard-costing-practice/). See also the [course hub](/boards/cambridge/a-level/accounting/), the printable [checklist](/checklists/cambridge/a-level/accounting/) and the free [diagnostics](/diagnostics/). All businesses and figures are invented and amounts are in dollars.

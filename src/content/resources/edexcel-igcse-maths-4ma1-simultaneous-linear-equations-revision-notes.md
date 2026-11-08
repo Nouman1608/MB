@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "simultaneous-linear-equations-edexcel-igcse-maths"
 description: "Condensed revision notes for Edexcel IGCSE Maths A 4MA1 section 2.6: elimination, substitution, exact answers, lines meeting, and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 For full explanations and longer worked examples, use the [simultaneous linear equations study guide](/resources/edexcel-igcse-maths-4ma1-simultaneous-linear-equations/). These notes condense section **2.6 Simultaneous linear equations** of Topic 2 in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Statement 2.6A is on both tiers; statement 2.6B (lines and their point of intersection) is **Higher tier only**. A calculator may be used on every paper, but the marks are mostly for method.

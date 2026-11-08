@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "differences-and-inequalities-9292"
 description: "Original exam-style questions with full answers on class, gender, ethnicity, life chances, mobility and reducing inequality for OxfordAQA IGCSE Sociology 9292."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

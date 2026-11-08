@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "the-usa-1974-93-9489"
 description: "The USA from 1945 to 1993: Truman and Eisenhower, civil rights, Vietnam and Watergate, then Carter, Reagan and Bush, with a worked chronology and exam guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the syllabus for the key questions under each of the three periods and the paper in which the American depth study is assessed. 2026-11-08 recheck: added the Paper 4 format and command words from the 2027-2029 syllabus; FAQ added; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the syllabus for the key questions under each of the three periods and the paper in which the American depth study is assessed. 2026-11-08 recheck: added the Paper 4 format and command words from the 2027-2029 syllabus; FAQ added; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

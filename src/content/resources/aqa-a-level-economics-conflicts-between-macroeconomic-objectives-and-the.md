@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "economic-performance-aqa-aslevel-economics"
 description: "Study guide to output gaps, the short-run and L-shaped long-run Phillips curve and how policy tries to reconcile conflicts, for AQA A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide is aligned to the AQA AS and A-level Economics specification (7135 and 7136), version 1.3. It covers the sub-section "Possible conflicts between macroeconomic policy objectives", printed as 4.2.3.4 in the combined PDF and numbered 3.2.3 on the AQA website and this site's map. It is part of the A-level content on Economic performance, assessed in Paper 2 (National and international economy), and Paper 3 assesses all content. The specification gives no AS-only or A-level-only labels inside this section. Every country, firm and figure below is invented for illustration.

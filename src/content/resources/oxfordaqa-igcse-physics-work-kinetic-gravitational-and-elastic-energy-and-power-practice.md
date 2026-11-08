@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "forces-and-energy-oxfordaqa"
 description: "Practice questions with answers on work, friction heating, elastic, gravitational and kinetic energy and power for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

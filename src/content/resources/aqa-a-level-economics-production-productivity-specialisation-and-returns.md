@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "production-costs-and-revenue-aqa-aslevel-economics"
 description: "A worked study guide to productivity, specialisation, money, short and long run, diminishing returns and returns to scale for AQA A-level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for AQA A-level Economics (7136). It covers three sub-sections of the production, costs and revenue content: Production and productivity (3.1.4.1), Specialisation, division of labour and exchange (3.1.4.2), and The law of diminishing returns and returns to scale (3.1.4.3). The specification PDF prints the A-level content as sections 4.1.4.1 to 4.1.4.3; the AQA website numbers it 3.1.4.1 to 3.1.4.3. Every firm, country and figure below is invented for illustration.

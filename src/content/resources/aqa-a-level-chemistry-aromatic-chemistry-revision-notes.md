@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "aromatic-chemistry-7405"
 description: "AQA A-Level Chemistry aromatic chemistry revision notes: benzene delocalisation, hydrogenation data, nitration and acylation mechanisms, self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **3.3.10 Aromatic chemistry** of the AQA AS and A-level Chemistry

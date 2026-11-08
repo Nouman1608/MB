@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics"
 description: "Condensed revision notes on equilibrium, disequilibrium, volatility and evaluating the supply and demand model for OCR A Level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the second half of the OCR A Level Economics (H460) topic "Supply and demand and the interaction of markets", from the specification Version 3.0 (June 2026), first assessment 2021. The [study guide](/resources/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the/) has the full explanations and longer worked examples. To test yourself, use the [practice questions](/resources/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the-practice/), the [free diagnostics](/diagnostics/), the [course hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/). Figures are invented.

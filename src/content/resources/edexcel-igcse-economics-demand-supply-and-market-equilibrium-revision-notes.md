@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "demand-supply-and-market-equilibrium-edexcel-igcse-economics"
 description: "Condensed revision notes on demand, supply, shifts, equilibrium, excess demand and excess supply for Pearson Edexcel International GCSE Economics (4EC1)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These condensed notes follow section 1.1.3, Demand, supply and market equilibrium, in the Pearson Edexcel International GCSE Economics specification (code 4EC1), Issue 3 of February 2026. The qualification is single tier. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-economics-demand-supply-and-market-equilibrium/) first, then test yourself with the [practice questions](/resources/edexcel-igcse-economics-demand-supply-and-market-equilibrium-practice/). Other links: the [course hub](/boards/edexcel/igcse/economics/), the [checklist](/checklists/edexcel/igcse/economics/), the [free diagnostics](/diagnostics/) and the wider [market system revision notes](/resources/igcse-edexcel-economics-market-system-revision-notes/). All numbers are made up for illustration.

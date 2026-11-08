@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "evolution-may-lead-to-speciation-aqa-alevel-biology"
 description: "Original practice questions with worked answers on Hardy-Weinberg, selection, genetic drift and speciation for AQA A-level Biology 7402, 3.7.2-3.7.3."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "current-account-of-balance-of-payments-cambridge-igcse-economics"
 description: "Condensed revision notes on the current account of the balance of payments for Cambridge IGCSE Economics, with method steps and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 6.4 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026 (6.4.1 to 6.4.4). For full explanations and longer worked examples, read the [study guide](/resources/cambridge-igcse-economics-current-account-of-the-balance-of-payments/). Test yourself with the [practice questions](/resources/cambridge-igcse-economics-current-account-of-the-balance-of-payments-practice/). Other links: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/). All data on this page is invented.

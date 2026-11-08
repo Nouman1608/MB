@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "homeostasis-aqa-alevel-biology"
 description: "Study guide to negative feedback, the liver, insulin, glucagon, adrenaline, cAMP, diabetes and Required practical 11 for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers sections 3.6.4.1 (principles of homeostasis and negative feedback) and 3.6.4.2 (control of blood glucose concentration) of the AQA AS and A-level Biology specification for first teaching 2015, for A-level Biology (7402). Both sections are A-level only. It ends with Required practical 11. Condensed recall is in the [revision notes](/resources/aqa-a-level-biology-homeostasis-and-control-of-blood-glucose-revision-notes/) and exam-style questions are in the [practice set](/resources/aqa-a-level-biology-homeostasis-and-control-of-blood-glucose-practice/). Course pages: the [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). Free [diagnostics](/diagnostics/) show where to start.

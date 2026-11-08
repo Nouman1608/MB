@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "electromagnetic-induction-oxfordaqa-alevel-physics"
 description: "Original questions with worked answers on flux linkage, Faraday's and Lenz's laws, eddy currents and rotating coils for OxfordAQA A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

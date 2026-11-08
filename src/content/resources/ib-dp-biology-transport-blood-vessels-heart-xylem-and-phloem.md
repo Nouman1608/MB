@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b3-2"
 description: "Study guide to IB DP Biology B3.2 Transport: capillaries, arteries, veins, coronary disease, xylem, phloem, tissue fluid and the cardiac cycle."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers IB Diploma Programme Biology, section B3.2 (Transport), as set out in the IB *Biology guide*, first assessment 2025. Statements B3.2.1 to B3.2.10 are standard level and higher level. Statements B3.2.11 to B3.2.18 are additional higher level, so they are **HL only** and are labelled that way below.

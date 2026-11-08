@@ -21,11 +21,12 @@ syllabusTopics:
     topic: "ib-dp-language-b-social-organization"
 description: "Study guide to IB DP Language B Paper 2: locating evidence, paraphrase, inference, reference words, listening tactics and timing, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This study guide teaches the skills behind **Paper 2 (receptive skills)** in IB Diploma Programme

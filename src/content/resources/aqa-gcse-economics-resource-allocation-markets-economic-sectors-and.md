@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "resource-allocation-aqa-gcse-economics"
 description: "Study guide to AQA GCSE Economics section 3.1.2: how markets allocate scarce resources, the three sectors, and specialisation and division of labour."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers **section 3.1.2, Resource allocation**, in the AQA GCSE Economics specification (code 8136), which began first teaching in September 2017. It follows the three parts in order: markets (3.1.2.1), the economic sectors (3.1.2.2) and specialisation, with the division of labour and exchange (3.1.2.3). The content belongs to the first paper, How markets work, and the specification has no tiers. Every figure below is invented and illustrative: no real firm, country or statistic is being described.

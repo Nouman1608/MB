@@ -20,9 +20,10 @@ syllabusTopics:
     subtopic: "civil-rights-usa-4hi1"
 description: "Original Edexcel International GCSE History 4HI1 Paper 1 practice on Weimar and Nazi Germany and US civil rights 1954-60, with fully worked model answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: replaced the USA 1920s question (Paper 2 content, not a Paper 1 depth study) with a civil rights 1954-60 question; FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: replaced the USA 1920s question (Paper 2 content, not a Paper 1 depth study) with a civil rights 1954-60 question; FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-08-22
 featured: false
 ---

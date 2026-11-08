@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "electromagnetic-induction-oxfordaqa-alevel-physics"
 description: "Condensed revision notes on flux, flux linkage, Faraday's and Lenz's laws, eddy currents and the rotating coil for OxfordAQA A-level Physics (9630)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense sections 3.10.3 (Magnetic flux and flux linkage) and 3.10.4 (Electromagnetic induction) of OxfordAQA International AS and A-level Physics (9630), Version 4.4. The specification marks both as International A-level only. The [study guide](/resources/oxfordaqa-a-level-physics-flux-flux-linkage-and-electromagnetic-induction/) has the full explanations. Then try the [practice questions](/resources/oxfordaqa-a-level-physics-flux-flux-linkage-and-electromagnetic-induction-practice/), check the [course hub](/boards/oxfordaqa/a-level/physics/) and tick off the [checklist](/checklists/oxfordaqa/a-level/physics/). A [free 10-minute diagnostic](/diagnostics/) will show which parts to revise first.

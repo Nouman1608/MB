@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-5-3-2"
 description: "Revision notes for OCR A Level Chemistry A 5.3.2 Qualitative analysis: ion test tables, NaOH and NH₃ results, equations and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and worked examples, read the [5.3.2 study guide](/resources/ocr-a-level-chemistry-5-3-2-qualitative-analysis/) first. These notes are for the final weeks.

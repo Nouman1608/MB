@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
 description: "Study guide to OxfordAQA International AS and A-level Biology 9610, 3.3.8: evolution as allele frequency change, three types of selection, speciation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide follows the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1. It covers sections 3.3.8.1 (the theory of evolution) and 3.3.8.2 (selection and speciation). Both sit in Unit 3, Populations and genes, which the specification lists as International A-level only.

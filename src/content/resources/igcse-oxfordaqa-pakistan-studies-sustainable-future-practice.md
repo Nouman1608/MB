@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "sustainable-future-9236"
 description: "Original questions and answers on pollution, deforestation, climate change, adaptation and uneven development for OxfordAQA International GCSE 9236 topic 3.2.4."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

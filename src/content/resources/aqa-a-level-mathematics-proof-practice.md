@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "a-proof-aqa-alevel-maths"
 description: "Original AQA A-level Maths proof questions with marked worked answers: deduction, exhaustion, counter-examples and proof by contradiction (7357)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

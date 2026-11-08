@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "investigation-russia-soviet-union-4hi1"
 description: "Condensed notes on Investigation A2, Russia 1905–24, for Edexcel IGCSE History 4HI1: timeline, 1905 v 1917, Reds v Whites, War Communism v NEP and source traps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the timeline and key terms against the 4HI1 specification and a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the timeline and key terms against the 4HI1 specification and a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

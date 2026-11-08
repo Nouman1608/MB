@@ -19,11 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-1-15"
 description: "Condensed IB DP Maths AI HL revision notes on matrices and eigenvalues: key results, method steps, a quick self-test and where marks go."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 For full explanations and longer worked examples, use the [matrices and eigenvalues study guide](/resources/ib-dp-mathematics-ai-hl-matrices-eigenvalues/). These notes are for the final weeks.

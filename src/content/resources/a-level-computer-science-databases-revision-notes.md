@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "ddl-and-dml"
 description: "Condensed notes on file-based limits, keys, relationships, 1NF to 3NF, DBMS tools and SQL DDL and DML for Cambridge AS & A Level Computer Science 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Databases (Topic 8) in Cambridge International AS & A Level Computer Science 9618 is about storing data in linked relational tables rather than separate files, designing those tables to third normal form, the features a DBMS provides, and the SQL used to define and query them. It is examined in Paper 1, where marks come from exact terminology, normalised table designs and hand-written SQL in Cambridge's subset.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "linear-transformation-to-given-mean-and-sd-4040"
 description: "Condensed revision notes with rules, method steps, a self-test and common slips on transforming mean and standard deviation, for O Level Statistics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes cover topic 6 of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027: section 6.1 (adding a constant to, and multiplying by a constant, every observation) and section 6.2 (linear transformation to a given mean and standard deviation). For full explanations and worked examples, read the [study guide](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and/) first. When you are ready to test yourself, use the [practice questions](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and-practice/). The [Cambridge O Level Statistics hub](/boards/cambridge/o-level/statistics/) and the [printable checklist](/checklists/cambridge/o-level/statistics/) show the whole course, and the [free 10-minute diagnostics](/diagnostics/) help you decide what to revise next.

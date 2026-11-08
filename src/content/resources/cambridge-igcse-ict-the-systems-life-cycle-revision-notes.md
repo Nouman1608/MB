@@ -32,9 +32,12 @@ syllabusTopics:
     subtopic: "evaluation-0417"
 description: "Revision notes on the systems life cycle for Cambridge IGCSE ICT 0417: research methods, design, test data, changeover methods, documentation and evaluation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 The systems life cycle is the sequence of stages used to replace or build an ICT system: analysis, design, development and testing, implementation, documentation and evaluation. Cambridge IGCSE ICT 0417 (Topic 7, Paper 1 Theory) expects you to describe each stage, compare the methods used within it and apply them to a scenario such as a shop, school or hospital.

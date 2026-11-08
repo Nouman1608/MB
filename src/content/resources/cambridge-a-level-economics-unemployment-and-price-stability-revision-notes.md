@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "price-stability-cambridge-alevel-economics"
 description: "Condensed revision notes on unemployment, inflation, CPI, real and nominal values and causes of inflation for Cambridge 9708 Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 4.5 (Unemployment) and 4.6 (Price stability), outcomes 4.5.1 to 4.5.4 and 4.6.1 to 4.6.5, of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 4 is AS Level content and is assumed knowledge for A Level Papers 3 and 4. For full explanations read the [study guide](/resources/cambridge-a-level-economics-unemployment-and-price-stability/), then test yourself with the [practice questions](/resources/cambridge-a-level-economics-unemployment-and-price-stability-practice/). All countries and figures here are invented and illustrative.

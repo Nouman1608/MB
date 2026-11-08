@@ -11,9 +11,10 @@ syllabusSeries: "For first teaching 2017"
 order: 1
 description: "Paper-by-paper exam preparation for AQA GCSE Economics 8136: why both papers use the whole course, AO1 to AO3 balance, extended answers and a checklist."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-07
 featured: false
 ---

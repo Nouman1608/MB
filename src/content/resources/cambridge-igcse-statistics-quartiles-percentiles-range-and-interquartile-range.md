@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "quartiles-percentiles-and-measures-of-dispersion-0479"
 description: "Study guide to quartiles, percentiles, range and IQR from lists, tables and cumulative frequency graphs, for Cambridge IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is written for Cambridge IGCSE Statistics (0479), aligned to the syllabus for examination in 2027. It covers Topic 5 outcomes 5.1 to 5.5: quartiles, percentiles, the range and the interquartile range, from lists, ungrouped tables and cumulative frequency graphs. Standard deviation (5.6) and choosing a measure of spread (5.7) are in a [separate guide](/resources/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion/).

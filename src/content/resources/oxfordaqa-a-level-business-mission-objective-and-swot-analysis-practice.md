@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "mission-objective-and-swot-analysis-oxfordaqa-alevel-business"
 description: "Original practice questions with worked answers on mission, shareholder ratios, SWOT data and stakeholder mapping for OxfordAQA A-level Business 9725."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

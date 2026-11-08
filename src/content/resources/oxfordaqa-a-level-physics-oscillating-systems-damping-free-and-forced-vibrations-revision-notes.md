@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "forced-vibrations-and-resonance-oxfordaqa"
 description: "Condensed notes on periods, oscillation energy, damping, required practical 4, forced vibrations and resonance for OxfordAQA AS and A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense sections 3.5.1 (Oscillating systems) and 3.5.2 (Forced vibrations and resonance) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, exams from May/June 2020 onwards. Both sections are shared AS and A-level content. The derivation of the period formulae is in 3.6.2, which is International A-level only. For full explanations use the [study guide](/resources/oxfordaqa-a-level-physics-oscillating-systems-damping-free-and-forced-vibrations/), and test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-oscillating-systems-damping-free-and-forced-vibrations-practice/). The [course hub](/boards/oxfordaqa/a-level/physics/) and [printable checklist](/checklists/oxfordaqa/a-level/physics/) show the rest of the course. Not sure where to start? Try the [free diagnostics](/diagnostics/). Related: [measurements and their errors](/resources/a-level-oxfordaqa-physics-measurements-and-their-errors/).

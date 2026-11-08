@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electromagnetism-ocr-alevel"
 description: "Condensed revision notes on magnetic fields, F = BIL sinθ, F = BQv, orbits and velocity selectors for OCR A Level Physics A (H556), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These revision notes condense 6.3.1 (Magnetic fields) and 6.3.2 (Motion of charged particles) from the H556 Physics A specification from OCR (Version 3.0, March 2026). For full explanations and longer worked examples use the [study guide](/resources/ocr-a-level-physics-magnetic-fields-force-on-conductors-and-moving-charges/), then try the [practice questions](/resources/ocr-a-level-physics-magnetic-fields-force-on-conductors-and-moving-charges-practice/). Also see the subject [hub](/boards/ocr/a-level/physics/), the [checklist to print](/checklists/ocr/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).

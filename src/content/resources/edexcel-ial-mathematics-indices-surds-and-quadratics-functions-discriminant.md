@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-algebra-and-functions-edexcel-alevel-maths"
 description: "Study guide to P1 indices, surds, quadratic graphs, the discriminant and completing the square for Edexcel International A Level Maths, fully worked."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. It covers the first five statements of Unit P1, topic 1 (Algebra and functions): topics 1.1 to 1.5. The specification lists P1 as a compulsory unit for IAS Mathematics, IAL Mathematics and Pure Mathematics, so every candidate meets this material. Simultaneous equations and inequalities (1.6 onwards) are taught elsewhere and are not repeated here.

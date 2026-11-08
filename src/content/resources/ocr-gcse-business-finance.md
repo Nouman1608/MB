@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "finance-ocr-gcse-business"
 description: "Study guide to Finance in OCR GCSE (9-1) Business J204: sources of finance, profit, ratios, ARR, break-even and cash flow forecasts, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 5, Finance, of the OCR GCSE (9-1) Business (J204) specification, Version 2.0 (January 2026): topics 5.1 to 5.5. Finance sits in Business 2: operations, finance and influences on business (J204/02). The specification says at least 10% of the total marks for the qualification reward quantitative skills, so the calculations below matter. Work through each example with a calculator and cover the answer before you read it.

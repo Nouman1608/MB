@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-4-3"
 description: "Study guide to the benefits and limitations of sales forecasting, with simple linear regression worked through, for IB DP Business Management HL."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 4.3, Sales forecasting, in Unit 4 (Marketing) of the IB *Business management guide*, first assessment 2024. Section 4.3 is **HL only**. It applies to HL candidates sitting examinations under that guide. The guide lists one content point for the section: the benefits and limitations of sales forecasting, assessed at AO3 (evaluation). It is HL content, so it can appear where an HL paper draws on HL extension topics.

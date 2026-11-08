@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b3-3"
 description: "Study guide to IB DP Biology B3.3 (HL): sliding filaments, titin, motor units, synovial joints, range of motion, intercostals, locomotion, marine mammals."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers section B3.3 (Muscle and motility) of the IB *Biology guide*, first assessment 2025, for DP Biology. The guide states that B3.3 has no SL content, so everything here is additional higher level and is **HL only**. It applies to the examination sessions that follow the first assessment in 2025. Use it with the [revision notes](/resources/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and-revision-notes/) and the [practice questions](/resources/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and-practice/), and see the [IB DP Biology hub](/boards/ib/ib-dp/biology/), the [printable checklist](/checklists/ib/ib-dp/biology/) and the [free diagnostics](/diagnostics/).

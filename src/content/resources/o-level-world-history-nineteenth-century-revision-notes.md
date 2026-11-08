@@ -29,9 +29,10 @@ syllabusTopics:
     subtopic: "causes-first-world-war-2147"
 description: "Condensed recall notes on the 1848 revolutions, unification, alliances, imperialism and the causes of the First World War for Cambridge O Level History 2147."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: replaced the Eastern Question section (outside the 1848-1914 syllabus) with the Balkans 1890-1914 and the syllabus imperialism case studies; added the 1902 Anglo-Japanese Alliance; FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08 recheck: replaced the Eastern Question section (outside the 1848-1914 syllabus) with the Balkans 1890-1914 and the syllabus imperialism case studies; added the 1902 Anglo-Japanese Alliance; FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-08-22
 featured: false
 ---

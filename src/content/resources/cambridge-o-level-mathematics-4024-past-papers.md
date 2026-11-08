@@ -11,8 +11,12 @@ syllabusCodes: ["4024"]
 order: 1
 description: "O Level Maths 4024 past papers guide: grade thresholds and examiner report notes for every series from June 2023 to June 2026, plus free practice links."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This page is a guide to Cambridge O Level Mathematics (Syllabus D) (4024) past papers for the seven series from June 2023 to June 2026. For each series you get the grade thresholds and a short summary of where candidates lost marks. The thresholds are copied from Cambridge's grade-threshold documents, and the examiner notes are our own summaries of Cambridge's Principal Examiner Reports for Teachers. We do not host any papers: every paper, mark scheme and report comes from Cambridge.

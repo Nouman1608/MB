@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
 description: "Entrepreneurs, business planning and objectives, forms of business and stakeholders -- sub-topics 3.1.1 and 3.1.2 of Unit 3.1 for AQA AS-Level Business (7137)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-03
 updatedDate: 2026-09-17
 featured: false

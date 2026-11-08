@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "employment-and-unemployment-aqa-gcse-economics"
 description: "Study guide to AQA GCSE Economics 8136 sections 3.2.2.2 and 3.2.2.3: GDP, real GDP, GDP per capita, causes of growth, unemployment types and policies."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Economic growth is a rise in the quantity of goods and services an economy produces over time, usually measured as the percentage change in real GDP. Unemployment is the number of people who want work and are actively looking for it but do not have a job. In AQA GCSE Economics (8136), sections 3.2.2.2 and 3.2.2.3 ask you to explain why growth matters, calculate GDP, real GDP and GDP per capita, name the four types of unemployment and judge the policies a government can use.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "basic-probability-and-experiments-ocr-gcse-maths"
 description: "Study guide for OCR GCSE Mathematics J560 unit 11.01: the probability scale, relative frequency, equally likely outcomes, two dice and expected outcomes."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers unit 11.01 (Basic probability and experiments) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), outcomes 11.01a to 11.01d. All of this content is for both tiers: the specification lists nothing in this unit as Higher tier only. Outcome 11.01c is split across the columns, so using relative frequency as an estimate is initial learning, and understanding that relative frequencies approach the theoretical probability as trials increase is listed for Foundation tier learners and carries on into Higher.

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-7"
 description: "Study guide to IB DP Business Management 2.6 communication and HL-only 2.7 industrial/employee relations: methods, barriers, conflict, resolution."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 2.6 (Communication) and 2.7 (Industrial/employee relations) in Unit 2, Human resource management, of the IB *Business management guide*, first assessment 2024. Section 2.6 applies to both SL and HL. Section 2.7 is labelled HL only in the guide. The guide lists these points briefly, so where it names an idea without defining it, this page gives the standard textbook account and says so.

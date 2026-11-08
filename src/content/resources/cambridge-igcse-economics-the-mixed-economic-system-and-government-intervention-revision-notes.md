@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "mixed-economic-system-cambridge-igcse-economics"
 description: "Condensed notes on the mixed economy, price ceilings and floors, taxes, subsidies, privatisation and direct provision for Cambridge IGCSE Economics 0455."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes cover section 2.11 (the mixed economic system and government intervention) of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-igcse-economics-the-mixed-economic-system-and-government-intervention/). When you are ready to test yourself, use the [practice questions](/resources/cambridge-igcse-economics-the-mixed-economic-system-and-government-intervention-practice/). Also useful: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free 10-minute diagnostics](/diagnostics/). All figures are invented and illustrative.

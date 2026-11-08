@@ -11,9 +11,10 @@ syllabusSeries: "Specification Issue 2"
 order: 3
 description: "Exam guide to Edexcel IAL Economics (YEC11): what each unit paper contains, how the A2 units differ from AS, section timings and a worked 20-mark essay routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-07
 featured: false
 ---

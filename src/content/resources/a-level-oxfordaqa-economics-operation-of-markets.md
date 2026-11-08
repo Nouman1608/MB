@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "the-operation-of-markets-market-failure-and-the-role-of-government-oxfordaqa-alevel-economics"
 description: "OxfordAQA International A-level Economics (9640) Topic 1 guide: economic problem, how markets work, costs and profit, market structures and market failure."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-08-21
 featured: false
 ---

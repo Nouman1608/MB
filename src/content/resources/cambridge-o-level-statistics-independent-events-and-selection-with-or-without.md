@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "elementary-ideas-of-probability-4040"
 description: "Study guide to independent events, the multiplication rule and tree diagrams for selections with and without replacement, for Cambridge O Level Statistics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers part of topic 11, "Elementary ideas of probability", in the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027. The syllabus text for this topic asks for the treatment of independent events, and for selections made with or without replacement. The course is not tiered. Mutually exclusive events are the other half of the same topic and are not taught here.

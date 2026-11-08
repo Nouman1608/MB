@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "inflation-and-price-stability-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes for 3.2.2.4: inflation, CPI calculations, index numbers, real and nominal values, causes, effects and policies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-11-05
 featured: false
 ---

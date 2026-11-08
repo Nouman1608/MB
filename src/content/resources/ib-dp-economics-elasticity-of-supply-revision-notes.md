@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-6"
 description: "Condensed IB DP Economics revision notes on price elasticity of supply, sub-topic 2.6: formula, diagrams, determinants, HL point and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover **sub-topic 2.6 Elasticity of supply** for SL and HL, with one **HL only** point on primary commodities. Read the [study guide](/resources/ib-dp-economics-elasticity-of-supply/) for full explanations. Test yourself with the [practice questions](/resources/ib-dp-economics-elasticity-of-supply-practice/), tick items off on the [printable checklist](/checklists/ib/ib-dp/economics/), and see the [IB DP Economics hub](/boards/ib/ib-dp/economics/). A short [diagnostics check](/diagnostics/) shows which parts need most work.

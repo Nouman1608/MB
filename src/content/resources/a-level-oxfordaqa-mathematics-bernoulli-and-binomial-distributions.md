@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "s1-bernoulli-and-binomial-distributions-oxfordaqa-alevel-maths"
 description: "OxfordAQA International A-Level Maths (9660) S1.3 guide: Bernoulli trials, deriving mean and variance, and the binomial distribution as a sum of trials."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-09-02
 featured: false
 ---

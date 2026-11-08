@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "energy-and-the-environment-5014"
 description: "Recall notes on fossil fuels, renewable and non-renewable energy, energy demand, conservation and oil pollution for Cambridge O Level 5014, 2025-2026 edition."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 ---
 
 Condensed recall notes for **Topic 2 Energy and the Environment**, the

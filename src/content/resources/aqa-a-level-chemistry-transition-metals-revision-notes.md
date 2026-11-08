@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "transition-metals-7405"
 description: "Revision notes for AQA A-Level Chemistry 7405 transition metals: key definitions, ligand swaps, shapes, colour, MnO4- titrations and catalysis."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section 3.2.5, Transition metals, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. Every part of 3.2.5 (3.2.5.1 to 3.2.5.6) is marked "A-level only", so none of it is on the AS papers. At A-level, inorganic chemistry is listed under Paper 1, and Paper 3 can assess any content.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c3-2-energetics-j248"
 description: "Condensed revision notes for OCR GCSE Chemistry A (J248) C3.2 Energetics, with method steps, key distinctions and a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 Here is the whole of sub-topic **C3.2 Energetics**, cut down for last-minute recall, from the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification (Version 4.0, August 2026). The notes cover learning outcomes C3.2a–C3.2d, mathematical learning outcomes CM3.2i and CM3.2ii, and the temperature-change practical in PAG C8. C3.2a, C3.2b and C3.2c are assessed at both tiers; C3.2d (bond energy calculations) is **Higher Tier only**. For full explanations and longer worked examples, read the [Energetics study guide](/resources/ocr-gcse-chemistry-energetics/) first.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-trigonometry-oxfordaqa-alevel-maths"
 description: "Twelve original questions with worked answers on inverse trig functions, sec, cosec, cot and their identities, for OxfordAQA International A-level Unit P2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

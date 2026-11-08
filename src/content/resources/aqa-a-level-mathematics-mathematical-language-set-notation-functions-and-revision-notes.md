@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ot1-mathematical-argument-language-and-proof-aqa-alevel-maths"
 description: "Condensed AQA A-level Maths 7357 OT1 revision notes: key terms, set symbols, domain and range, inverse and composite functions, and flawed arguments."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense overarching theme OT1.1 to OT1.5 of the AQA 7357 A-level Mathematics specification (version 1.3), including the set and function notation in Appendix A. The [study guide](/resources/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and/) has the full explanations and worked examples. Test yourself with the [practice questions](/resources/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and-practice/).

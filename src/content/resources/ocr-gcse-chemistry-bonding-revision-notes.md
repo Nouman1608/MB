@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c2-2-bonding-j248"
 description: "Condensed revision notes for OCR GCSE Chemistry A (J248) C2.2 Bonding, with method steps, key distinctions and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 For full explanations and worked examples, read the [Bonding study guide](/resources/ocr-gcse-chemistry-bonding/) first. These notes condense sub-topic **C2.2 Bonding** (C2.2a to C2.2i and CM2.2i to CM2.2iii) of the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018. Nothing in C2.2 is restricted to the Higher Tier: Foundation and Higher candidates need all of it. Within the written papers, C2 content is assessed on Paper 1 and Paper 3, and assumed on Papers 2 and 4.

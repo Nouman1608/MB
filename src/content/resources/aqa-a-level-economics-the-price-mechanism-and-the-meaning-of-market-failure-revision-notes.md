@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "Condensed revision notes on the price mechanism and the meaning of market failure for AQA A-level Economics (7136), with a self-test and mark-loss list."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the **How markets and prices allocate resources** and **The meaning of market failure** sub-sections of AQA A-level Economics (7136), from the AQA specification version 1.3 (29 June 2022). The AQA website numbers them 3.1.8.1 and 3.1.8.2; the combined PDF prints 4.1.8.1 and 4.1.8.2. The specification states no AS-only or A-level-only labels for this content. The [study guide](/resources/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure/) has the full explanations. For testing, use the [practice set](/resources/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure-practice/), the [course hub](/boards/aqa/a-level/economics/), the [checklist](/checklists/aqa/a-level/economics/) and the [free diagnostics](/diagnostics/). Related page: [Individuals, firms, markets and market failure](/resources/aqa-a-level-economics-individuals-firms-markets-and-market-failure/). All numbers here are invented.

@@ -36,8 +36,12 @@ syllabusTopics:
     subtopic: "classification-of-programming-languages-and-translators-9210"
 description: "Arrays and records, file handling, string operations, random numbers, subroutines, validation and authentication, and translators for OxfordAQA IGCSE 9210."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This guide covers the second half of Topic 2 Programming in OxfordAQA

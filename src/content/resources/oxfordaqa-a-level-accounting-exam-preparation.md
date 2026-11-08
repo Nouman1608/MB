@@ -11,11 +11,12 @@ syllabusSeries: "For first teaching September 2024"
 order: 3
 description: "How OxfordAQA International A-level Accounting 9615's four papers fit together: AS papers at 20% each, A-level papers at 30%, and an adjusting-entries routine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-09
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 OxfordAQA International A-Level Accounting (9615) is a modular qualification of four papers, sat over

@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "relative-and-expected-frequencies-cambridge-igcse-maths"
 description: "Step-by-step guide to the probability scale, single events, relative frequency and expected frequency for Cambridge IGCSE Maths 0580, Core and Extended."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide covers subtopics **8.1 Introduction to probability** and **8.2 Relative and expected frequencies** for Cambridge IGCSE Mathematics 0580. It is aligned to the *Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027* (Version 3) and teaches both the Core outcomes (C8.1, C8.2) and the Extended outcomes (E8.1, E8.2). The one Extended-only outcome is probability notation, P(A) and P(A′). Core candidates sit Papers 1 (non-calculator) and 3 (calculator); Extended candidates sit Papers 2 (non-calculator) and 4 (calculator).

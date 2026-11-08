@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-research"
 description: "Condensed revision notes on customer needs, market changes, niche and mass marketing, segmentation and research for Cambridge O Level Business 7115."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.1 (Marketing, competition and the customer) and 3.2 (Market research) of the *Cambridge O Level Business Studies (7115) syllabus for examination in 2026*. For full explanations and worked examples, read the [study guide](/resources/o-level-business-marketing-competition-and-the-customer-and-market-research/). Then try the [practice set](/resources/o-level-business-marketing-competition-and-the-customer-and-market-research-practice/) and the topic-level [Marketing practice questions](/resources/o-level-business-marketing-practice/). Tick off topics on the [printable checklist](/checklists/cambridge/o-level/business/), see the [course hub](/boards/cambridge/o-level/business/) and take a [free diagnostic](/diagnostics/) to find weak spots.

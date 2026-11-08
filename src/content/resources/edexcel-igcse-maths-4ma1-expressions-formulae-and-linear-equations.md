@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "linear-equations-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths A 4MA1 sections 2.3-2.4: substitution, writing formulae, changing the subject and solving linear equations."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide covers sections **2.3 Expressions and formulae** and **2.4 Linear equations** from Topic 2, Equations, formulae and identities, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. 4MA1 is tiered: Foundation papers 1F and 2F and Higher papers 1H and 2H, each a 2-hour, 100-mark paper, and a calculator may be used on all of them. Almost everything here is on both tiers. The one extra Higher statement, changing the subject when it appears twice or appears with a power or root, is marked **Higher tier only**.

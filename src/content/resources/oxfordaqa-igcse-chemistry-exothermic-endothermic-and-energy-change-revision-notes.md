@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "calculating-and-explaining-energy-change-9202"
 description: "OxfordAQA IGCSE Chemistry (9202) revision notes for 3.9.1-3.9.2: ΔH signs, Q = mcΔT, energy profiles, bond energy sums and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense sections 3.9.1 Exothermic and endothermic reactions and 3.9.2 Calculating and explaining energy change of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. They cover statements 3.9.1 a to d and 3.9.2 a to h. The qualification is untiered, so every point is for every candidate, and section 6.2 attaches no required practical to these sections. For full teaching and longer worked examples, use the [energy change study guide](/resources/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change/).

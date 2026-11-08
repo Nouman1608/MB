@@ -18,9 +18,10 @@ syllabusTopics:
     subtopic: "stars-and-the-universe"
 description: "Original Cambridge O Level Physics 5054 space physics questions with worked answers on planets, gravity, orbital speed and period, stable stars and redshift."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-24
 featured: false
 ---

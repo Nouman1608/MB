@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "price-determination-in-a-competitive-market-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on demand, shifts in demand, and price, income and cross elasticities of demand, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes condense the AQA A-level Economics (7136) content on the demand curve, shifts in demand and the three elasticities of demand (specification version 1.3, sections 4.1.3.1 and 4.1.3.2, numbered 3.1.3.1 and 3.1.3.2 on the AQA website). For full explanations read the [study guide](/resources/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand/), then try the [practice set](/resources/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand-practice/). Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), [checklist](/checklists/aqa/a-level/economics/), [diagnostics](/diagnostics/). Related notes: [microeconomics revision notes](/resources/aqa-a-level-economics-microeconomics-revision-notes/). All figures are invented.
 

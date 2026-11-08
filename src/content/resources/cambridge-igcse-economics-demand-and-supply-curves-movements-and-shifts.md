@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "supply-cambridge-igcse-economics"
 description: "Study guide to demand and supply curves, movements along them, aggregation and shifts, with worked examples, for Cambridge IGCSE Economics 0455."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide is aligned to the 2026 examination syllabus for Cambridge IGCSE Economics (0455), sections 2.3 (Demand) and 2.4 (Supply). The syllabus is not tiered, so all of it applies to every candidate. All markets, firms and figures are invented for practice, and prices are in currency units (cu). They are not real statistics.

@@ -59,9 +59,10 @@ syllabusTopics:
     subtopic: "reform-7162"
 description: "Convention rights, the Human Rights Act 1998, Articles 2, 5, 8, 10 and 11, restrictions, enforcement and reform for AQA A Level Law human rights."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check which cases and which reform proposals the specification and board guidance expect, and confirm the current status of any proposed Bill of Rights."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check which cases and which reform proposals the specification and board guidance expect, and confirm the current status of any proposed Bill of Rights; 2026-11-08: reviewed by aizaz-raoof-ali."
 publishedDate: 2026-11-08
 featured: false
 ---

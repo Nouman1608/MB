@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "scaling-up-ocr-gcse-biology"
 description: "Study guide to OCR GCSE Biology A (J247) Topic B2 Scaling Up: diffusion, osmosis, active transport, mitosis, stem cells, SA:V ratio and transport systems."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 publishedDate: 2026-09-02
 featured: false
 ---

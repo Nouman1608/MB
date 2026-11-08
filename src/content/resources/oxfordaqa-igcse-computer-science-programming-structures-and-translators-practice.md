@@ -36,8 +36,12 @@ syllabusTopics:
     subtopic: "classification-of-programming-languages-and-translators-9210"
 description: "Original practice questions with worked answers on arrays, records, files, strings, subroutines, validation and translators for OxfordAQA IGCSE 9210."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

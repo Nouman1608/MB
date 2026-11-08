@@ -21,9 +21,12 @@ syllabusTopics:
     subtopic: "recursion"
 description: "A Level study guide to binary search, insertion sort, abstract data types, Big O comparisons and recursion for Cambridge Computer Science 9618."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This A Level topic raises the standard of the AS algorithm work. You must write and trace more efficient searching and sorting algorithms, build and use abstract data types such as stacks, queues, linked lists and binary trees, compare algorithms using Big O notation and understand recursion, including how it uses the call stack. Many of the longest questions on Paper 3 come from here.

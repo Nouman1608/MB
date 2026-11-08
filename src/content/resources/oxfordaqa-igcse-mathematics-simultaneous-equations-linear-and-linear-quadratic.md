@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "solving-equations-and-inequalities-oxfordaqa-igcse-maths"
 description: "Study guide to simultaneous equations for OxfordAQA International GCSE Mathematics: elimination, substitution, graphs and linear-quadratic pairs."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 This study guide covers statement A21 in section 3.2.3 of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). The specification lists Core content and Extension content in two columns, and states that all content can be assessed on the Extension tier papers, so Core content is also Extension content. Solving one linear and one quadratic equation together is **Extension only**. Everything else here is Core.
 

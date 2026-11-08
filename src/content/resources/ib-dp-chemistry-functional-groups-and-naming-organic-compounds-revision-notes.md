@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-3-2"
 description: "Revision notes for IB DP Chemistry Structure 3.2.1 to 3.2.6: formula types, functional groups, general formulas, naming and isomers, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Use these notes in the last weeks of revision for **Structure 3.2, Functional groups: Classification of organic compounds**, understandings 3.2.1 to 3.2.6. Their reference point is the Diploma Programme *Chemistry guide* the IB released in February 2023, first examined in 2025. Every point here applies to **both SL and HL**.

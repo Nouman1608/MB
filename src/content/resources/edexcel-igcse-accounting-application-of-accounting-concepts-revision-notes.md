@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "application-of-accounting-concepts-4ac1"
 description: "Condensed Edexcel IGCSE Accounting revision notes on applying consistency, prudence, accruals, materiality, money measurement and business entity."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 These notes condense section 5.1, Application of accounting concepts, from Topic 5 of the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. For full explanations and worked examples, use the [application of accounting concepts study guide](/resources/edexcel-igcse-accounting-application-of-accounting-concepts/). The specification wording is "apply", so every note below ends with what to do and what changes in the accounts. Amounts are in dollars, written without a currency sign.

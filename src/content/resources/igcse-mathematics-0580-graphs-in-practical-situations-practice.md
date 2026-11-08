@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "graphs-in-practical-situations-cambridge-igcse-maths"
 description: "Original questions with marked worked answers on conversion, travel and speed-time graphs, tangents and area under a graph for Cambridge IGCSE Maths 0580."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

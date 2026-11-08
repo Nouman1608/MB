@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "inheritance-ocr-gcse-biology"
 description: "Study guide to sexual and asexual reproduction, haploid and diploid cells and meiosis for OCR GCSE Biology A (J247), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers statements B5.1f, B5.1g and B5.1h (part of "B5.1 Inheritance") of the OCR GCSE (9-1) Biology A Gateway Science specification (J247), Version 4.0, for first assessment in 2018. None of these statements is printed in bold, so none is marked as Higher Tier only. Use it with the [revision notes](/resources/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid-revision-notes/) and the [practice questions](/resources/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid-practice/). Course links: the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), the [printable checklist](/checklists/ocr/gcse/biology/) and the [free diagnostics](/diagnostics/). Mitosis is explained in [Transport across membranes, mitosis and stem cells](/resources/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells/), and the wider course in [Cell Level Systems](/resources/ocr-gcse-biology-cell-level-systems/).

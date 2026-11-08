@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "unit-3-elements-of-crime-and-mystery-9675"
 description: "Original OxfordAQA 9675 Unit 3-style essay questions on the crime and mystery set texts, with AO1–AO3 indicative content, model paragraphs and level guidance."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

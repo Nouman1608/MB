@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "operational-strategy-ocr-alevel-business"
 description: "Study guide to OCR A Level Business (H431) operational strategy: added value, production, project management, efficiency, quality, location and logistics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers topic 4, Operational strategy, in the OCR A Level Business (H431) specification, Version 2.1 (January 2026), for first assessment in 2017 with final assessment in summer 2027. It follows every area of study the specification lists under operations. Use it with the [revision notes](/resources/ocr-a-level-business-operational-strategy-revision-notes/) and the [practice questions](/resources/ocr-a-level-business-operational-strategy-practice/). The course hub is at [OCR A Level Business](/boards/ocr/a-level/business/) and the printable list is the [checklist](/checklists/ocr/a-level/business/). To find weak spots first, try the [free diagnostics](/diagnostics/).

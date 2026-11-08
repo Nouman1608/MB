@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "price-determination"
 description: "Study guide to supply, market supply, shifts in supply, equilibrium, shortages and surpluses for Cambridge O Level Economics 2281, with worked schedules."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 2.4 (Supply) and 2.5 (Price determination) of the Cambridge O Level Economics 2281 syllabus for examination in 2026. The course is not tiered, so everything here is for every candidate. Calculators may be used in both papers, and the syllabus says multiple-choice questions may include calculations. Every market, farm and number below is invented for practice.

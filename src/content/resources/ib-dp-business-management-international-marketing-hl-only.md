@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-4-6"
 description: "Study guide to IB DP Business Management 4.6 (HL only): the opportunities and threats of entering and operating internationally, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 4.6, International marketing, in Unit 4 (Marketing) of the IB *Business management guide*, first assessment 2024. The whole section is HL only, so SL candidates do not need it.

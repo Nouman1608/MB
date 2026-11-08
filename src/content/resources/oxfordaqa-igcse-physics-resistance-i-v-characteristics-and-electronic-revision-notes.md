@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "electrical-circuits-oxfordaqa-igcse"
 description: "Revision notes on V = IR, I-V graphs, filament lamps, thermistors, LDRs, diodes and LEDs, with a self-test, for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 These notes recap resistance and components for the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, section 3.5.1 Electrical circuits, statements h to o. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic/). Then test yourself with the [practice questions](/resources/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic-practice/). Related pages: the [OxfordAQA Physics hub](/boards/oxfordaqa/igcse/physics/), the [printable checklist](/checklists/oxfordaqa/igcse/physics/) and the [free diagnostics](/diagnostics/).
 

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "acids-and-bases-7405"
 description: "Original AQA A-Level Chemistry acids and bases questions with marked answers: pH, Kw, Ka, titration data, pH curves, indicators, buffers and RP9."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

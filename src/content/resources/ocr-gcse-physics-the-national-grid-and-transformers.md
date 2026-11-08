@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "powering-earth-ocr-gcse"
 description: "Study guide to the national grid, step-up and step-down transformers and why high-voltage transmission wastes less energy, for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers statements P8.2c to P8.2f of topic P8.2, Powering Earth, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). It explains how electrical power travels from power stations to homes, why the potential difference is changed on the way, and why this wastes so little energy. **Statement P8.2f is in bold in the specification, so it is tested only in the Higher Tier papers.** Statements P8.2c, P8.2d and P8.2e can be tested in both tiers.

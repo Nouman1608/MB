@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "accounting-concepts-and-conventions-yac11"
 description: "Study guide to Edexcel IAL Accounting 1.1.1-1.1.2 and 1.1.8-1.1.10: why accounting exists, who uses it, nine concepts and conventions, and IAS."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide teaches outcomes 1.1.1 to 1.1.2 (role and purpose of accounting) and 1.1.8 to 1.1.10 (accounting concepts and conventions) from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. This is Unit 1 (The Accounting System and Costing) content, so it is International AS material that also counts towards the full International A Level. All money amounts are in dollars.

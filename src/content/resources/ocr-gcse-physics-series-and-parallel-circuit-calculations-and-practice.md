@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "simple-circuits-ocr-gcse"
 description: "Original practice questions with answers on OCR GCSE Physics A (J249) P3.2i-P3.2m: series and parallel circuits, measurement, power and energy."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

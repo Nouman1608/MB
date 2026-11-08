@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-1-5"
 description: "Condensed revision notes for IB DP Chemistry Structure 1.5 Ideal gases: model assumptions, real-gas deviation, gas graphs, PV = nRT and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Use these notes once you have learned the unit; the full teaching and longer worked examples are in the [ideal gases study guide](/resources/ib-dp-chemistry-ideal-gases/).

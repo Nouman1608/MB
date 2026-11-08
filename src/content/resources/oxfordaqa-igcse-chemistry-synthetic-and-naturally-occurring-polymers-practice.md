@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "synthetic-and-naturally-occurring-polymers-9202"
 description: "Original practice questions with worked answers on OxfordAQA International GCSE Chemistry polymers: drawing chains, cross-links, density and waste."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

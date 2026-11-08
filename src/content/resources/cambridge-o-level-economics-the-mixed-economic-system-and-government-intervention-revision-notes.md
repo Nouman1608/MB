@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "mixed-economic-system"
 description: "Condensed revision notes on the mixed economy, price controls, taxes, subsidies, regulation and privatisation for Cambridge O Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These are condensed notes for section 2.11 of the Cambridge O Level Economics syllabus for examination in 2026. The [study guide](/resources/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention/) has the fuller explanations; afterwards, test yourself with the [practice questions](/resources/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention-practice/). Course links: [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), [printable checklist](/checklists/cambridge/o-level/economics/) and [free 10-minute diagnostics](/diagnostics/). All numbers here are invented and illustrative. Earlier ideas are in the [allocation of resources revision notes](/resources/o-level-economics-the-allocation-of-resources-revision-notes/).

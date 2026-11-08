@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "overseas-empires-2147"
 description: "Recall notes on motives for empire, Faidherbe, Lugard, Leopold II, India after 1857 and the Spanish–American War, for Cambridge IGCSE 0470 and O Level 2147."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words."
+reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words; 2026-11-08: reviewed by azam-siddique."
 ---
 
 **Key question 1.5 (Cambridge IGCSE 0470 and O Level 2147) covers why

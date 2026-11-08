@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-physics-e-1"
 description: "Original IB DP Physics E.1 practice questions on the nuclear atom, spectra, nuclear radius, closest approach and the Bohr model, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

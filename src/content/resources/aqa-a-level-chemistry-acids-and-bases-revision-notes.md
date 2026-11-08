@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "acids-and-bases-7405"
 description: "Condensed AQA A-Level Chemistry acids and bases notes: pH, Kw, Ka and pKa methods, pH curves, indicator choice, buffers and RP9, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense section **3.1.12 Acids and bases** of the AQA AS and A-level Chemistry specification

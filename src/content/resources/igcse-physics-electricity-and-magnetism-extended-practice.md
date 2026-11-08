@@ -24,9 +24,10 @@ syllabusTopics:
     subtopic: "electromagnetic-effects-cambridge-igcse-physics"
 description: "Original Cambridge IGCSE Physics 0625 Extended questions on charge, parallel resistors, wire resistance, induction, transformers and cable losses, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: reviewed by iftikhar-azeemi."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

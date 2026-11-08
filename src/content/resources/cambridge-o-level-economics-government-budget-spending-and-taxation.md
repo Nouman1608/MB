@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "fiscal-policy"
 description: "Study guide to the government budget, areas of public spending, types and qualities of taxes and their effects, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the Cambridge O Level Economics 2281 syllabus for examination in 2026, statements 4.3.1 to 4.3.6. Topics: what a government budget is, public spending, why tax is raised, how taxes are classified, what makes a tax good and what taxes do to people and firms. There is no tiering. Statements 4.3.7 to 4.3.9 are covered in a different unit. All names and figures here are made up for illustration and are not real statistics.

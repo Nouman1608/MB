@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "energy-transfers-and-particle-motion"
 description: "Study guide to kinetic theory, specific heat, latent heat, cooling curves, conduction, convection and expansion for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers sections 3.4.1 (Kinetic theory) and 3.4.2 (Energy transfers and particle motion) of the OxfordAQA International GCSE Physics (9203) specification, for exams from May/June 2018. The qualification is untiered, so everything here is for every candidate. Use the [OxfordAQA International GCSE Physics hub](/boards/oxfordaqa/igcse/physics/) to see the rest of the course and tick topics off on the [printable checklist](/checklists/oxfordaqa/igcse/physics/). When you finish reading, test yourself with the [revision notes](/resources/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat-practice/), and find weak spots with the [free diagnostics](/diagnostics/).
 

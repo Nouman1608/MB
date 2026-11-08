@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "economic-growth-cambridge-igcse-economics"
 description: "Condensed revision notes on what causes economic growth, its costs and benefits, and growth policies, with a self-test, for Cambridge IGCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 4.6.4 to 4.6.6 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026: causes of growth, costs and benefits of growth, and policies to promote growth. They are for the final weeks. For full explanations and longer worked examples, use the [study guide](/resources/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth/). Economics 0455 is not tiered. The figures are made up for illustration. Check your knowledge with the [practice questions](/resources/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth-practice/), find your weak spots with the [free diagnostics](/diagnostics/), and tick off topics on the [printable checklist](/checklists/cambridge/igcse/economics/). The course home is the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/).

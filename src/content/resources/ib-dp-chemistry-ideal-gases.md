@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-1-5"
 description: "Study guide for IB DP Chemistry Structure 1.5: the ideal gas model, why real gases deviate, molar volume, gas graphs and PV = nRT."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Here you will learn Structure 1.5, "Ideal gases", from scratch. The page is written against the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023) and works through understandings Structure 1.5.1, 1.5.2, 1.5.3 and 1.5.4 with worked examples. Ideal gases carry no additional higher level statements, so SL and HL candidates study identical content. It is for the course examined from 2025 onwards.

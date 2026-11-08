@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-oxfordaqa-alevel-economics"
 description: "Study guide to oligopoly for OxfordAQA International A-level Economics: interdependence, kinked demand, collusion, pricing and non-price competition."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers specification section 3.3.3.4 (Oligopoly) of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. Unit 3 assesses section 3.3, which is extra International A2 content, so this topic belongs to the second stage of the full International A-level. Section 3.5 quantitative skills may be tested anywhere.

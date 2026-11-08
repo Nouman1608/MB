@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "cloning-and-biotechnology-ocr-alevel-biology"
 description: "Study guide to natural plant and animal clones, cuttings, micropropagation, embryo splitting, SCNT and the debate, for OCR A Level Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers section 6.2.1(a) to (d) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It sits in Module 6, Genetics, evolution and ecosystems. It teaches natural and artificial cloning in plants and animals, with the arguments for and against. Sections 6.2.1(e) to (i), on microorganisms and immobilised enzymes in biotechnology, are outside this unit.

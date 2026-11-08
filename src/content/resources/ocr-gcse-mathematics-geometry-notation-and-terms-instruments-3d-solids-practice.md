@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "three-dimensional-shapes-ocr-gcse-maths"
 description: "Twelve original OCR GCSE Mathematics practice questions on geometry terms, instruments, 3D solids, plans and elevations, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

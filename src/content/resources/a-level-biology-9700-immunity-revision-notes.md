@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "antibodies-and-vaccination-cambridge-alevel-biology"
 description: "Condensed 9700 AS Biology notes on the immune response, memory cells, antibody structure, monoclonal antibodies and vaccination, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 For full explanations and a worked data example, use the [immunity study guide](/resources/a-level-biology-9700-immunity/). These notes condense topic 11 of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: section 11.1 The immune system (outcomes 1–4) and section 11.2 Antibodies and vaccination (outcomes 1–6). It is AS Level content, examined on Papers 1 and 2, and Paper 4 can draw on it too. Every outcome applies to all candidates.

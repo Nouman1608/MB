@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "linear-transformation-to-given-mean-and-sd-4040"
 description: "Original questions with worked answers on adding or multiplying by a constant and fitting y = a + bx to a target mean and sd, for O Level Statistics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

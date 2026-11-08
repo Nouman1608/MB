@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "costs-scale-of-production-and-break-even-analysis-0264"
 description: "Condensed revision notes for Cambridge IGCSE Business 0264 section 4.4: cost formulas, economies of scale, break-even and margin of safety."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.4, **Costs, scale of production and break-even analysis**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. They cover 4.4.1 costs, 4.4.2 economies and diseconomies of scale and 4.4.3 break-even analysis. For full explanations and longer worked examples, read the [study guide](/resources/igcse-business-0264-costs-scale-of-production-and-break-even-analysis/) first, then test yourself with the [practice questions](/resources/igcse-business-0264-costs-scale-of-production-and-break-even-analysis-practice/). The [course hub](/boards/cambridge/igcse/business/), the [checklist](/checklists/cambridge/igcse/business/) lets you tick off progress, and the [free diagnostics](/diagnostics/) show weak spots. All businesses below are invented and money is in pounds.

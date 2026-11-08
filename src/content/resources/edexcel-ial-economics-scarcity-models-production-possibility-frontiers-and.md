@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "introductory-concepts-edexcel-alevel-economics"
 description: "Study guide to Edexcel IAL Economics 1.3.1: scarcity, models, positive and normative, PPFs, specialisation, money and economic systems."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This study guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. It covers section 1.3.1 Introductory concepts, items 1 to 6, which sit in Unit 1: Markets in action. The specification labels Units 1 and 2 as International AS (IAS) and Units 3 and 4 as the extra International A2 (IA2) content. This topic is in Unit 1, so it is IAS content and also part of the full IAL.

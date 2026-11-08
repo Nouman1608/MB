@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-6-3-2"
 description: "Revision notes for OCR A Level Chemistry A 6.3.2 Spectroscopy: NMR shift tables, the n + 1 rule, TMS and D₂O, structure-solving steps and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense 6.3.2 Spectroscopy for final revision. For full explanations and five worked examples, use the [Spectroscopy study guide](/resources/ocr-a-level-chemistry-spectroscopy/).

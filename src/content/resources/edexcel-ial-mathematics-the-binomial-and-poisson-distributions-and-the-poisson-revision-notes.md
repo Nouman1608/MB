@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "s2-binomial-and-poisson-distributions-edexcel-alevel-maths"
 description: "Condensed revision notes on binomial and Poisson models, cumulative probabilities, mean and variance and the Poisson approximation for Edexcel IAL Unit S2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense Unit S2 section 1 (topics 1.1 to 1.3) of Pearson's International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. The specification states that Unit S2 is optional for IAS Further Mathematics and for IAL Mathematics and Further Mathematics. For full explanations and worked examples, read the [study guide](/resources/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson/).

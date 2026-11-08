@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-algebra-and-functions-oxfordaqa-alevel-maths"
 description: "Original practice questions with worked answers on domain and range, composite and inverse functions and the modulus for OxfordAQA A-level Mathematics."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

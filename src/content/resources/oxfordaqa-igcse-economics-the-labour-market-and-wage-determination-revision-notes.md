@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "competitive-and-concentrated-markets-oxfordaqa-igcse-economics"
 description: "Condensed revision notes on the labour market, wage determination and wage differentials for OxfordAQA International GCSE Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 These notes summarise section 3.1.5.4, The labour market, from the OxfordAQA International GCSE Economics (9214) specification (first teaching September 2023, first examined May/June 2025). The content sits in Paper 1: How markets work. Full explanations and more worked examples are in the [study guide](/resources/oxfordaqa-igcse-economics-the-labour-market-and-wage-determination/). Once you have revised, try the [practice questions](/resources/oxfordaqa-igcse-economics-the-labour-market-and-wage-determination-practice/).
 

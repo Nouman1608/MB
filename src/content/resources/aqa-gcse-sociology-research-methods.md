@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "sociological-research-methods-8192"
 description: "AQA GCSE Sociology (8192) section 3.7 research methods, examined in both papers: research design, sampling, data types, and practical and ethical issues."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-09
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 This guide covers **Section 3.7: Sociological Research Methods** in AQA GCSE Sociology (8192). Unlike

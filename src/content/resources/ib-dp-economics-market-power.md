@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-11"
 description: "Study guide to IB DP Economics sub-topic 2.11 (HL only): market structures, profit maximisation, monopoly, oligopoly, monopolistic competition and policy."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sub-topic 2.11, market failure -- market power, in Unit 2 Microeconomics. It follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. The whole of 2.11 is **HL only**, so SL candidates do not need it. The firms, countries and figures used as examples are all made up.

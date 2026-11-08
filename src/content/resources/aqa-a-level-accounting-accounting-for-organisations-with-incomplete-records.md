@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "accounting-for-organisations-with-incomplete-records"
 description: "Study guide to AQA A-Level Accounting 7127 section 3.14: statements of affairs, total accounts, mark-up and margin, and finding missing figures."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide covers section 3.14, Accounting for organisations with incomplete records, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification places section 3.14 in the content assessed by Paper 1, a 3-hour written exam, and you must use a calculator in the exam.

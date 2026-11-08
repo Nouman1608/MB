@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "social-and-ethical-accounting"
 description: "Revision notes for Edexcel IAL Accounting topic 1.6: social context, non-financial factors, stakeholders and ethics, plus a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 For full explanations and two longer worked examples, read the [study guide](/resources/edexcel-ial-accounting-social-and-ethical-accounting/) first.

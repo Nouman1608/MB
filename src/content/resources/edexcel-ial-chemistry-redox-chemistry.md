@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "redox-chemistry-and-groups-1-2-and-7-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 8A redox: oxidation number rules, Roman numerals, disproportionation and half-equations, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 8A: Redox chemistry from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 8.1 to 8.10. This is International AS content, examined in the IAS unit called Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols. The rest of Topic 8 (Groups 1, 2 and 7) uses these ideas constantly, so learn this part first.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-3-c3-1"
 description: "Condensed IB DP Biology revision notes on C3.1.11 to C3.1.23: hormones, feedback loops, peristalsis and HL auxin, cytokinin and ethylene, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense statements C3.1.11 to C3.1.23 of the IB *Biology guide*, first assessment 2025, for DP Biology. C3.1.11 to C3.1.16 are SL and HL. C3.1.17 to C3.1.23 are additional higher level, so they are **HL only**. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant/), then test yourself with the [practice set](/resources/ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant-practice/).

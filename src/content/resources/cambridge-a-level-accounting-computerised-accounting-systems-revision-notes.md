@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "computerised-accounting-systems"
 description: "Condensed revision notes on moving accounts to a computerised system and protecting data integrity, with a self-test, for Cambridge A Level Accounting."
 author: "marlbridge-academic-team"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
 ---
 
 These notes condense section 3.4 Computerised accounting systems (A Level) of the Cambridge International AS & A Level Accounting 9706 syllabus for examination in 2026, 2027 and 2028. Full explanations and longer worked examples are in the [study guide](/resources/cambridge-a-level-accounting-computerised-accounting-systems/). Test yourself with the [practice questions](/resources/cambridge-a-level-accounting-computerised-accounting-systems-practice/), tick off the [checklist](/checklists/cambridge/a-level/accounting/), and see the [course hub](/boards/cambridge/a-level/accounting/) and the [free diagnostics](/diagnostics/). The syllabus does not require knowledge of specific software, so answer in general terms. All amounts are in dollars.

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "analysing-the-strategic-position-of-a-business-aqa-alevel-business"
 description: "Condensed AQA A-Level Business 7132 revision notes on topic 7: formulas, models, definitions and a self-test covering all eight sections."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense topic 3.7, Analysing the strategic position of a business (A-level only), from the AQA AS and A-level Business specification (7131 and 7132). For full explanations and worked examples, read the [study guide](/resources/aqa-a-level-business-analysing-the-strategic-position-of-a-business/), then test yourself with the [practice questions](/resources/aqa-a-level-business-analysing-the-strategic-position-of-a-business-practice/). Course hub: [AQA A-level Business](/boards/aqa/a-level/business/). Checklist: [printable checklist](/checklists/aqa/a-level/business/). Find your weak spots with a [free diagnostic](/diagnostics/).

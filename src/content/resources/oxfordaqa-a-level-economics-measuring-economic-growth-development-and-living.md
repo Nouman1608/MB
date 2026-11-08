@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "economic-growth-and-development-oxfordaqa-alevel-economics"
 description: "Study guide to measuring growth, development and living standards for OxfordAQA International AS and A-level Economics (9640), section 3.4.3.1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches section 3.4.3.1 of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2: measuring economic growth, development and living standards. Section 3.4 is extra International A2 content, examined in Unit 4, which builds on Units 1 and 2. Quantitative skills (section 3.5) may be assessed in any unit, so the calculations below count as part of this topic. Every country, currency and number here is invented for illustration. Track progress with the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/). Use the [revision notes](/resources/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living-revision-notes/), the [practice questions](/resources/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living-practice/) and the [free diagnostics](/diagnostics/). For growth and the cycle in the earlier units, see [economic growth and the economic cycle](/resources/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle/).

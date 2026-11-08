@@ -16,9 +16,13 @@ syllabusTopics:
     subtopic: "wave-behaviour-ocr-gcse"
 description: "Condensed revision notes on sound at boundaries, echoes, ultrasound, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), incl. Higher Tier."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 These notes condense statements P5.1f to P5.1i of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). P5.1h and P5.1i are in bold in the specification, so they are **Higher Tier only**; P5.1f and P5.1g are for both tiers. All four are separate Physics only content (not in Combined Science). For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing/). Test yourself with the [practice questions](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-practice/), tick topics off on the [checklist](/checklists/ocr/gcse/physics/), see the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and find weak spots with the [free diagnostics](/diagnostics/).

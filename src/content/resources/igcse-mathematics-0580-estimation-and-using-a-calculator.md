@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "using-a-calculator-cambridge-igcse-maths"
 description: "Study guide for Cambridge IGCSE Mathematics 0580 sections 1.9 and 1.14: rounding, estimating, sensible accuracy and calculator use, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches two subtopics of Topic 1 Number in the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027: **1.9 Estimation** and **1.14 Using a calculator**. The Core statements (C1.9, C1.14) and the Extended statements (E1.9, E1.14) are word-for-word the same, so everything on this page applies to both tiers. There is no Extended-only content in these two subtopics.

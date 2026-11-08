@@ -41,8 +41,12 @@ syllabusTopics:
     subtopic: "remedies-law-of-contract-7162"
 description: "AQA A-level Law 7162 contract notes: offer, consideration and privity, CRA 2015 terms, exclusion clauses, misrepresentation, duress, discharge, remedies."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 Law of contract is section 3.4 of AQA A-level Law (7162). It is one of two options for Paper 3 (2 hours,

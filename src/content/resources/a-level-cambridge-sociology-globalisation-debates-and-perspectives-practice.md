@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "globalisation-power-and-politics-9699"
 description: "Original 9699 Paper 4 style essays on who benefits from globalisation, convergence versus hybrid identity, and the nation state, with essay plans."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

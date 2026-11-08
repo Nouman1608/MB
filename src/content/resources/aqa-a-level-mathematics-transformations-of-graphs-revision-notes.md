@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "b9-transformations-of-graphs-aqa-alevel-maths"
 description: "Revision notes for AQA A-level Maths B9: the four transformations of y = f(x), order of combinations, asymptotes, a self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes condense content reference **B9** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018): the effect of simple transformations on the graph of y = f(x), including y = af(x), y = f(x) + a, y = f(x + a), y = f(ax) and combinations. For the explanations and fully worked examples, read the [Transformations of Graphs study guide](/resources/aqa-a-level-mathematics-transformations-of-graphs/) first.

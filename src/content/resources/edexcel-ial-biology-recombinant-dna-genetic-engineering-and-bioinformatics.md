@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "coordination-response-and-gene-technology-edexcel-alevel-biology"
 description: "Study guide to recombinant DNA, restriction enzymes, vectors, microarrays, bioinformatics and GM risks and benefits for Edexcel IAL Biology (YBI11)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, and covers statements 8.17 to 8.22 in Topic 8. Topics 1 to 4 are International AS (IAS) and Topics 5 to 8 are International A2 (IA2), so this material is part of the IA2 course. There are no tiers. For quick recall use the [revision notes](/resources/edexcel-ial-biology-recombinant-dna-genetic-engineering-and-bioinformatics-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-ial-biology-recombinant-dna-genetic-engineering-and-bioinformatics-practice/). The [Edexcel A Level Biology hub](/boards/edexcel/a-level/biology/) and the [printable checklist](/checklists/edexcel/a-level/biology/) list the rest of the course, and the [free diagnostics](/diagnostics/) show where to start. For PCR and gel electrophoresis see the [PCR and electrophoresis guide](/resources/edexcel-ial-biology-decomposition-pcr-electrophoresis-and-forensic-biology/).

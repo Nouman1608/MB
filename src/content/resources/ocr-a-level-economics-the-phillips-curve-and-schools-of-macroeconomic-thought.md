@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "aggregate-demand-and-aggregate-supply-ocr-alevel-economics"
 description: "Study guide to the Phillips Curve, the natural rate and NAIRU, and the Keynesian, neo-classical and Austrian schools, for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers two parts of Component 2, Macroeconomics, in the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. They are the topic **The Phillips Curve** and the final bullet of **Macroeconomic equilibrium**: evaluate the Keynesian, neo-classical and Austrian schools of thought on how the macroeconomy operates. The specification labels no content as AS or A Level only. Component 03 is synoptic, so these ideas can also turn up there.

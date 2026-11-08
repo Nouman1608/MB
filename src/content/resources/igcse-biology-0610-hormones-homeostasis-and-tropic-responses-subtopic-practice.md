@@ -24,8 +24,12 @@ syllabusTopics:
     subtopic: "tropic-responses-cambridge-igcse-biology"
 description: "Eleven original questions with marked answers on hormones, blood glucose, skin and temperature control, and tropisms for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

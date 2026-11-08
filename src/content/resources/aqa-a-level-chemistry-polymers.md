@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "polymers-7405"
 description: "AQA A-Level Chemistry polymers taught from scratch: polyesters, polyamides, repeating units, chain forces, hydrolysis and polymer disposal."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches section **3.3.12 Polymers** of the AQA AS and A-level Chemistry specification

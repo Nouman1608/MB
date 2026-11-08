@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "profit-and-cash-9725"
 description: "Original practice questions with worked answers for OxfordAQA AS Business 9725 Finance: break-even, margins, variances, cash flow and sources of finance."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

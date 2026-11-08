@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "correction-of-errors-yac11"
 description: "Original Edexcel IAL Accounting practice on the trial balance, error types, correcting journals, suspense accounts, revised profit and control accounts."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

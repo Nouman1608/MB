@@ -25,8 +25,12 @@ syllabusTopics:
     subtopic: "macroeconomic-equilibrium-ocr-aslevel-economics"
 description: "Study guide to aggregate supply, the AD/AS diagram, its assumptions and macroeconomic equilibrium for OCR A Level Economics (H460), with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers the area of study "Aggregate demand and aggregate supply" for the topics Aggregate supply (AS) and Aggregate demand and aggregate supply, plus the first two outcomes of Macroeconomic equilibrium. The material sits in Component 2, Macroeconomics. The specification labels no content as AS-level or A-level only, so all of it is A Level content. The countries and data below are invented purely to demonstrate technique.

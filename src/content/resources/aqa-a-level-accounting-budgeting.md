@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "budgeting-aqa"
 description: "Study guide to AQA A-Level Accounting section 3.9 Budgeting: functional and cash budgets, budgeted statements, variances, ZBB and incremental budgets."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This study guide teaches section 3.9, Budgeting, of the AQA A-level Accounting (7127) specification,

@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-language-b-identities"
 description: "The Identities theme of IB DP Language B: lifestyles, health, beliefs, subcultures and language and identity, and how it appears in unseen Paper 2 texts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
 ---
 
 This guide covers **Identities**, one of five compulsory themes for

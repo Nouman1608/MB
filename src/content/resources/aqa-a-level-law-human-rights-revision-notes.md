@@ -59,8 +59,12 @@ syllabusTopics:
     subtopic: "reform-7162"
 description: "AQA A-level Law 7162 human rights revision notes: rights theory, ECHR Articles 2, 5, 8, 10 and 11, HRA 1998 sections, restrictions, judicial review and reform."
 author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
 ---
 
 Human rights is section 3.5 of AQA A-level Law (7162) and the alternative to contract on Paper 3

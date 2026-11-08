@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "databases-0478"
 description: "Original Paper 2 style database questions with answers on table design, data types, primary keys, and writing, reading and fixing SQL for Cambridge IGCSE 0478."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

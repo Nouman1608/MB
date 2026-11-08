@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "algebraic-expressions-ocr-gcse-maths"
 description: "Condensed revision notes for OCR GCSE Mathematics sections 6.01a to 6.01d: vocabulary, identities, proof, indices and expanding, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense OCR GCSE (9-1) Mathematics, specification Version 2.1 (August 2026), sections 6.01a to 6.01d. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding/). Content marked **Higher tier only** is for Higher tier candidates alone; everything else is for both tiers.

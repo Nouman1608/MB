@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "chromosome-behaviour-in-mitosis-cambridge-alevel"
 description: "Original practice questions with marked answers on Cambridge 9700 mitotic cell cycle: chromosomes, interphase, telomeres, tumours and mitosis stages."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

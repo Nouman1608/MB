@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c4-1-predicting-chemical-reactions-j248"
 description: "Revision notes for OCR GCSE Chemistry A (J248) C4.1: group trends, transition metal properties and reactivity orders, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 For full explanations and longer worked examples, use the [Predicting chemical reactions study guide](/resources/ocr-gcse-chemistry-predicting-chemical-reactions/).

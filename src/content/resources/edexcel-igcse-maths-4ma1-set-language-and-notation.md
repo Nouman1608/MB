@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "set-language-and-notation-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths 4MA1 section 1.5: sets, union, intersection, complements, Venn diagrams, set-builder notation, subsets and n(A)."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide teaches section 1.5, Set language and notation, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. Section 1.5 sits in topic 1, Numbers and the number system. Foundation statements 1.5 A–E are needed for both tiers; the Higher tier adds statements 1.5 A–D, marked **Higher tier only** below.

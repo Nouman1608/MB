@@ -26,9 +26,10 @@ syllabusTopics:
     subtopic: "energy-resources-0680"
 description: "Condensed recall notes on renewable and non-renewable resources, energy sources and sustainable management for Cambridge IGCSE Environmental Management 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-08-22
 featured: false
 ---

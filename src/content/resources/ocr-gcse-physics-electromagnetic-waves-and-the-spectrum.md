@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-electromagnetic-spectrum-ocr-gcse"
 description: "Study guide to electromagnetic waves for OCR GCSE Physics A (J249): speed, energy transfer, the seven groups, frequency and wavelength, the eye and light."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This guide covers statements P5.2a to P5.2f of topic P5.2, The electromagnetic spectrum, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). None of these statements is in bold in the specification, so all of them are assessed in both Foundation and Higher Tier papers. Uses and hazards of the different groups are separate statements and are not taught here. Course pages: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/). Companion pages: [revision notes](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-revision-notes/) and [practice questions](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-practice/). To find out which topics need most work, try the [free 10-minute diagnostics](/diagnostics/).

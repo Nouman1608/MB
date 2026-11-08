@@ -11,11 +11,12 @@ syllabusSeries: "Specification Issue 2, November 2017"
 order: 3
 description: "Tier choice, pacing two equal 2-hour papers, calculator habits and a routine for protecting method marks in Pearson Edexcel International GCSE Maths A (4MA1)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-07
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 ---
 
 Pearson Edexcel International GCSE Mathematics A (4MA1) is a tiered, linear qualification. Foundation

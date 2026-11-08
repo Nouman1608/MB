@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-structure-2-2"
 description: "HL study guide to IB DP Chemistry Structure 2.2.11 to 2.2.16: resonance, benzene, expanded octets, formal charge, sigma and pi bonds and hybridization."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches the higher level end of **Structure 2.2, The covalent model**, as listed in the IB *Chemistry guide* for Diploma Programme candidates examined from 2025 (issued February 2023). It works through understandings Structure 2.2.11 to 2.2.16. All six belong to the guide's additional higher level (AHL) material, so everything on this page is **HL only**. It applies to the course as first assessed in 2025.

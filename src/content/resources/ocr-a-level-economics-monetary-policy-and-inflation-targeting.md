@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "monetary-policy-ocr-aslevel-economics"
 description: "Study guide to monetary policy for OCR A Level Economics (H460): instruments, liquidity trap, inflation targets, effectiveness and the central bank."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers the Monetary policy topic in the application of policy instruments content of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It is macroeconomics content for Component 02, and the specification labels none of it as a separate stage. All figures below are invented. Country M and its currency, the mu, are illustrative.

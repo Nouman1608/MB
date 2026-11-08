@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "money-and-banking-cambridge-alevel-economics"
 description: "Condensed revision notes on anti-inflation policy, liquidity preference and interest rates for Cambridge AS and A Level Economics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 Condensed notes for outcomes 9.4.6 to 9.4.8 (policies to reduce inflation, liquidity preference theory, and loanable funds and Keynesian theories of interest rate determination) in the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. These outcomes are in topic 9, which is A Level content and not examined at AS. All figures are invented.

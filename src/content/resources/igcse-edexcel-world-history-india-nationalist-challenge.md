@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "india-nationalist-challenge-4hi1"
 description: "Study guide to India, 1919–47 for Edexcel International GCSE History 4HI1: Amritsar, Gandhi and Congress, the Salt March, Quit India, Jinnah and partition."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates and casualty figures against a standard textbook before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources and the Bengal famine estimate corrected; figures flag cleared, dates and syllabus check remain."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates and casualty figures against a standard textbook before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources and the Bengal famine estimate corrected; figures flag cleared, dates and syllabus check remain; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

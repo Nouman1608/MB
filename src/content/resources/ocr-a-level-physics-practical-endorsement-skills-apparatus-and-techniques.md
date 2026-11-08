@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "practical-skills-assessed-in-the-practical-endorsement"
 description: "Study guide to the practical skills and apparatus in OCR A Level Physics A (H556) section 1.2, with worked examples for each instrument and technique."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 This guide covers OCR A Level Physics A (H556), Module 1, section 1.2 "Practical skills assessed in the practical endorsement": 1.2.1(a)-(j) practical skills and 1.2.2(a)-(l) use of apparatus and techniques. It follows the OCR specification, Version 3.0 (March 2026), and uses its numbering. Section 1.1 (planning, analysis and evaluation, assessed in the written papers) is covered in [Development of practical skills](/resources/ocr-a-level-physics-development-of-practical-skills/). Course hub: [OCR A Level Physics](/boards/ocr/a-level/physics/). Printable [checklist](/checklists/ocr/a-level/physics/). Condensed recall: [revision notes](/resources/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques-revision-notes/). Questions: [practice set](/resources/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques-practice/). Not sure where to start? Try the [free 10-minute diagnostics](/diagnostics/).
 

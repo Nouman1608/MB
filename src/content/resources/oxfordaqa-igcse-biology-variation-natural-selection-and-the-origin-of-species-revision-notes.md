@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "variation-and-evolution-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on variation, Lamarck, natural selection, evolution time scales and speciation for OxfordAQA International GCSE Biology."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Short recall notes for sections 3.6.1 and 3.6.2 a to c of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams in May/June 2018 onwards. The qualification is untiered. For full explanations and worked examples, use the [study guide](/resources/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species/). Then try the [practice questions](/resources/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species-practice/), the [course hub](/boards/oxfordaqa/igcse/biology/) and the [printable checklist](/checklists/oxfordaqa/igcse/biology/). Unsure where to start? Take a [free diagnostic](/diagnostics/).

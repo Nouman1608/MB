@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "excretion-as-an-example-of-homeostatic-control-ocr-alevel-biology"
 description: "Study guide to nephron structure, ultrafiltration, reabsorption, ADH, renal failure, dialysis, transplants and urine tests for OCR A Level Biology A."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This guide covers learning outcomes 5.1.2(c) to 5.1.2(f) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It teaches kidney and nephron structure, ultrafiltration, reabsorption, ADH, kidney failure and its treatment, urine in diagnosis, and the dissection and histology practicals. The meaning of excretion and the liver (5.1.2(a) and (b)) are separate units.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-4"
 description: "Condensed revision notes for sub-topic 4.4 of IB DP Economics: blocs, trade creation and diversion, monetary union and the WTO, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These revision notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover sub-topic 4.4, Economic integration. Agreements, blocs, their advantages and disadvantages, monetary union and the WTO are SL and HL. Trade creation, trade diversion and the evaluation of monetary union are HL only and are marked so. For fuller explanations, read the [study guide](/resources/ib-dp-economics-economic-integration/).

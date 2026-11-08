@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p2-vectors-oxfordaqa-alevel-maths"
 description: "Study guide to the scalar product, the angle between two lines and the perpendicular distance from a point to a line, for OxfordAQA 9660 Unit P2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide is aligned to the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the second half of section P2.10 (Vectors): the scalar product and its use for the angle between two lines, plus the foot of the perpendicular from a point to a line and the perpendicular distance. The specification places this in International A-level Unit P2 (Pure Maths). It is not examined at International AS. The specification says calculators may be used in Unit P2.

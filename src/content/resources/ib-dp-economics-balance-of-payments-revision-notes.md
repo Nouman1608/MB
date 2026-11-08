@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-4-6"
 description: "Condensed IB DP Economics revision notes for 4.6 Balance of payments: accounts, calculations, plus HL exchange rate links, correction and the J-curve."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sub-topic 4.6, Balance of payments, for the final weeks of revision. They follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. The accounts, their components and the zero balance are for SL and HL. The exchange rate links, persistent deficits and surpluses, correction methods, the Marshall-Lerner condition and the J-curve are **HL only**. For full explanations read the [study guide](/resources/ib-dp-economics-balance-of-payments/).

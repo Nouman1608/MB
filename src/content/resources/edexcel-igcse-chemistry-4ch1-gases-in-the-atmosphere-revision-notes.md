@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "gases-in-the-atmosphere-4ch1"
 description: "Condensed 4CH1 revision notes on air composition, oxygen-in-air methods, burning Mg, H2 and S, carbonate decomposition and CO2, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Condensed for the final weeks. For full explanations and five worked examples, use the [Gases in the atmosphere study guide](/resources/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-2"
 description: "Study guide to IB DP Business Management 5.1 and 5.2: the role of operations management and job, batch, mass/flow and mass customization."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 5.1 Introduction to operations management and 5.2 Operations methods of the IB *Business management guide* (first assessment 2024), for SL and HL. Neither section is marked HL only. The guide sets 5.1 at AO2 (application and analysis) and 5.2 at AO3 (synthesis and evaluation), so for 5.2 you must be ready to weigh methods against each other, not just describe them. Course hub: [IB DP Business Management](/boards/ib/ib-dp/business/). Tick-list: [printable checklist](/checklists/ib/ib-dp/business/). Spot your weak areas with the [free diagnostics](/diagnostics/). Next: the [revision notes](/resources/ib-dp-business-management-introduction-to-operations-management-and-operations-methods-revision-notes/) and the [practice questions](/resources/ib-dp-business-management-introduction-to-operations-management-and-operations-methods-practice/).

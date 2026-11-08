@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "transport-and-telecommunications-0448"
 description: "Original questions with full answers on exports, imports, balance of trade, transport networks, ports and telecoms for Cambridge IGCSE Pakistan Studies 0448."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by azam-siddique."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

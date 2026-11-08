@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "verification-of-accounting-records-oxfordaqa-alevel"
 description: "Original OxfordAQA A-level Accounting practice on 3.1.4: suspense, journals, control accounts, bank reconciliation and error effects, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

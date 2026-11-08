@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "measures-for-combined-sets-of-data-4040"
 description: "Revision notes on quartiles, percentiles, interpolation and combined means and standard deviations for Cambridge O Level Statistics, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These revision notes cover sections 5.3 and 5.4 of the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027, which is not tiered. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets/) first. Then test yourself with the [practice questions](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets-practice/).

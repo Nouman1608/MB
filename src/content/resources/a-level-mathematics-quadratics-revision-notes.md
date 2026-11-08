@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "quadratics-cambridge-alevel-maths"
 description: "Condensed recall notes on completing the square, the discriminant, quadratic inequalities and disguised quadratics for Cambridge AS & A Level Mathematics 9709."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
 publishedDate: 2026-08-22
 featured: false
 ---

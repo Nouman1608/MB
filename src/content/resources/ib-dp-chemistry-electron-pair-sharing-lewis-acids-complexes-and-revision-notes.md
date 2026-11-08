@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-chemistry-reactivity-3-4"
 description: "Condensed HL revision notes for IB DP Chemistry Reactivity 3.4.6-3.4.13: Lewis theory, ligands, SN1 vs SN2, leaving groups and electrophilic mechanisms."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 For full explanations and longer worked examples, read the [electron-pair sharing study guide](/resources/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and/) first. These notes compress IB DP Chemistry understandings Reactivity 3.4.6 to 3.4.13 from the IB's February 2023 *Diploma Programme Chemistry guide*, first assessed in 2025, into a form you can review in one sitting. The guide lists all of these understandings as additional higher level, so the whole page is **HL only**, for examinations from 2025 onwards.

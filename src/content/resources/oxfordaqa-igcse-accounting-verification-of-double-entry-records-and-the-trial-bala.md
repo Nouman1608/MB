@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "the-trial-balance-oxfordaqa-igcse-accounting"
 description: "Guide to preparing, correcting and judging a trial balance, with every error type it does and does not reveal, for OxfordAQA IGCSE Accounting 9215."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 This guide follows the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for International GCSE exams May/June 2026 onwards. It covers the first two content points of section 3.2 Verification of accounting records: verification of the double entry records, and preparing and understanding the use of a trial balance. All amounts in this guide are in dollars.

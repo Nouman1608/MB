@@ -15,9 +15,10 @@ syllabusTopics:
     topic: "the-price-system-and-the-microeconomy-as-cambridge-alevel-economics"
 description: "Cambridge 9708 Topic 2 practice with worked answers: shifts and movements, PED, XED and YED calculations, total revenue, equilibrium and price functions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
 publishedDate: 2026-09-06
 featured: false
 ---

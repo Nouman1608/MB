@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "o-statistical-hypothesis-testing-aqa-alevel-maths"
 description: "Study guide to AQA A-Level Maths Section O: hypothesis test language, binomial tests, Normal mean tests and correlation tests, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide teaches **Section O: Statistical hypothesis testing** (content references O1 to O3) of the

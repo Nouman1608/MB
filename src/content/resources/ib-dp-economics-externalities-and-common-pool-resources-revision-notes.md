@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-8"
 description: "Condensed IB DP Economics revision notes for sub-topic 2.8: definitions, four externality diagrams, policy table, HL welfare loss and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover **sub-topic 2.8, Market failure: externalities and common pool or common access resources**, for SL and HL. The welfare loss calculation is **HL only**. Full explanations are in the [study guide](/resources/ib-dp-economics-externalities-and-common-pool-resources/), and you can check yourself with the [practice questions](/resources/ib-dp-economics-externalities-and-common-pool-resources-practice/). Use the [course hub](/boards/ib/ib-dp/economics/), the [printable checklist](/checklists/ib/ib-dp/economics/) and the [free diagnostics](/diagnostics/) to plan your revision. Examples are invented.

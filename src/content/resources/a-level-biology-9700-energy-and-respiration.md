@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "respiration-cambridge-alevel-biology"
 description: "ATP, RQ, glycolysis, the link reaction, Krebs cycle, oxidative phosphorylation and fermentation taught step by step for Cambridge A Level Biology 9700."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide teaches Topic 12, Energy and respiration, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 12.1 (Energy) and 12.2 (Respiration). This is A Level content, not AS Level content: it is examined in Paper 4 (A Level Structured Questions), and the respirometer and redox-indicator investigations are the kind of practical work that Paper 5 (Planning, Analysis and Evaluation) builds on.

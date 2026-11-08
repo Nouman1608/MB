@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "m2-collisions-edexcel-alevel-maths"
 description: "Study guide to work, energy, power, momentum, impulse and Newton's law of restitution, with worked examples, for Edexcel IAL Mathematics unit M2."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This guide covers Pearson Edexcel International Advanced Level Mathematics (YMA01), following the Pearson Edexcel International Advanced Subsidiary/Advanced Level specification, Issue 3, April 2019. It teaches unit M2 sections 3 and 4: work and energy (3.1) and collisions (4.1 to 4.3). The specification states that M2 is an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics. Use the [revision notes](/resources/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the-revision-notes/) for recall and the [practice set](/resources/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the-practice/) to test yourself. The [Edexcel A-level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/) are there to help you find gaps.

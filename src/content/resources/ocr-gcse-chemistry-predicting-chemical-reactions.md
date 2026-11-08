@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c4-1-predicting-chemical-reactions-j248"
 description: "Study guide for OCR GCSE Chemistry A (J248) C4.1: Groups 1, 7 and 0, transition metals, and ordering metal reactivity from experimental results."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 Sub-topic **C4.1 Predicting chemical reactions** opens Topic C4 of the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification (Version 4.0, August 2026). This guide teaches all of it: learning outcomes C4.1a to C4.1f, the mathematical learning outcome CM4.1i, and the practical suggestions linked to PAG C1, C5, C7 and C8. None of the C4.1 statements is Higher Tier only, so everything here is assessed at both tiers. The specification marks C4.1c (transition metals) as content found only in the separate chemistry qualification, which is the one you are taking. In the assessment overview, Topic C4 is examined on Paper 2 (Foundation Tier) and Paper 4 (Higher Tier).

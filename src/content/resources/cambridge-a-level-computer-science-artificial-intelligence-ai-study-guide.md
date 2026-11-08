@@ -18,9 +18,12 @@ syllabusTopics:
     subtopic: "artificial-intelligence-sub"
 description: "A Level study guide to Dijkstra's algorithm, A* search, machine learning types, neural networks, back-propagation and deep learning for Cambridge 9618."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Artificial intelligence (AI) is the use of computer systems to carry out tasks that normally need human judgement, such as finding the best route, recognising a face or deciding which message is spam. The Cambridge A Level topic has two threads: search algorithms for finding shortest paths in a graph, and machine learning, where a system improves its performance from data instead of following fixed rules written by a programmer.

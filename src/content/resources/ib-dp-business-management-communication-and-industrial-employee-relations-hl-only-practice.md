@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-7"
 description: "Original practice questions with worked answers on IB DP Business Management 2.6 communication and HL-only 2.7 industrial/employee relations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "notation-vocabulary-and-manipulation-aqa-gcse-maths"
 description: "Original practice questions with mark-by-mark answers for AQA GCSE Maths 8300 section 3.2.1: notation, factorising, rearranging, proof and functions."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

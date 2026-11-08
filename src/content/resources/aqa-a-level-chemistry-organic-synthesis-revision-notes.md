@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "organic-synthesis-7405"
 description: "AQA A-Level Chemistry organic synthesis revision notes: green design reasons, atom economy, a reaction map by functional group and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These are condensed notes for the final weeks. For full explanations and worked examples, use the

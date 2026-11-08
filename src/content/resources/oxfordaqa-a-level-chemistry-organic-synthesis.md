@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "oxfordaqa-a-level-chemistry-organic-synthesis"
 description: "OxfordAQA 9620 organic synthesis from scratch: greener process design, atom economy, step yields and planning routes of up to four steps."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 Section **3.3.14 Organic synthesis** of the OxfordAQA International AS and A-level Chemistry (9620)

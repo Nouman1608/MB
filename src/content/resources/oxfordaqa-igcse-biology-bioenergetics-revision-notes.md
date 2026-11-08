@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "bioenergetics-oxfordaqa-igcse-biology"
 description: "Condensed notes on photosynthesis, plant transport, circulation, digestion, breathing and respiration for OxfordAQA IGCSE Biology 9201, Topic 2 Bioenergetics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

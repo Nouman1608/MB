@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "respiration-ocr-alevel-biology"
 description: "Condensed revision notes on glycolysis, the link reaction, the Krebs cycle, coenzymes and the mitochondrion for OCR A Level Biology A, 5.2.2(a)-(g)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These notes condense learning outcomes 5.2.2(a) to 5.2.2(g) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), first assessment 2025. For full explanations read the [study guide](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle/), then test yourself with the [practice questions](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-practice/). Tick off outcomes on the [checklist](/checklists/ocr/a-level/biology/) and find the rest of the course on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/). The [free diagnostics](/diagnostics/) are a quick way to find weak spots. Background on ATP is in [nucleotides and ATP](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative-revision-notes/).

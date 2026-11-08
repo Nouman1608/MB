@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-carbonyls-carboxylic-acids-and-chirality-ych11"
 description: "Condensed Edexcel IAL Chemistry notes on aldehydes and ketones: naming, boiling and solubility, carbonyl tests, LiAlH4, HCN mechanism, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense Topic 15B: Carbonyl compounds (outcomes 15.6 to 15.8) as set out in Issue 1 (September 2017) of Pearson Edexcel's International Advanced Subsidiary/Advanced Level in Chemistry specification, YCH11. Unit 4 (Rates, Equilibria and Further Organic Chemistry), an International A2 (IA2) unit, is where it is examined. The [carbonyl compounds study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/) explains each idea in full, with worked examples.

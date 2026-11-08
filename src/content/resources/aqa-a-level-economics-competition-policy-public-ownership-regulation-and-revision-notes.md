@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on competition policy, public ownership, privatisation, regulation, regulatory capture, government failure."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the AQA AS and A-level Economics specification (version 1.3, 29 June 2022, first taught from September 2015), sections 3.1.8.7, 3.1.8.8 and 3.1.8.10 (printed as 4.1.8.7, 4.1.8.8 and 4.1.8.10 in the combined PDF). The [study guide](/resources/aqa-a-level-economics-competition-policy-public-ownership-regulation-and/) explains each point with worked examples. After revising, test yourself with the [practice questions](/resources/aqa-a-level-economics-competition-policy-public-ownership-regulation-and-practice/). Use the [course hub](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/) to find gaps. All firms and figures here are invented.

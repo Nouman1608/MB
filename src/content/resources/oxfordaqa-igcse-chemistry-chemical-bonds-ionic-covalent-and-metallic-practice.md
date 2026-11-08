@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "chemical-bonds-ionic-covalent-and-metallic-9202"
 description: "Original practice questions with worked answers for OxfordAQA International GCSE Chemistry 3.2.1 on ionic, covalent and metallic bonding."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

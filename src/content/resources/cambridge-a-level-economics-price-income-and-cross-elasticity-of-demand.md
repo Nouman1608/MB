@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "price-income-and-cross-elasticity-of-demand-cambridge-alevel-economics"
 description: "Study guide to PED, YED and XED for Cambridge AS and A Level Economics 9708: formulae, sign and size, straight-line demand, total expenditure, decisions."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers section 2.2 (Price elasticity, income elasticity and cross elasticity of demand), outcomes 2.2.1 to 2.2.8, of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 2 is AS Level content. A Level candidates study it too, and the syllabus treats it as assumed knowledge for A Level Papers 3 and 4. Every firm, market and figure below is invented for illustration. None is a real statistic.

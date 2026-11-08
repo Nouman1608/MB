@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "utmw-section-a-period-studies-8145"
 description: "Revision notes for AQA GCSE History 8145 Paper 1 Section A: key dates for all four period studies, a technique sheet for questions 1-6 and common exam traps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check dates against standard texts and the AQA 8145 specification (3.2.1) before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check dates against standard texts and the AQA 8145 specification (3.2.1) before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "deciding-on-a-strategic-investment-oxfordaqa-alevel-business"
 description: "Study guide for OxfordAQA A-level Business 9725 section 3.4.3: decision trees, payback, average rate of return, net present value and investment factors."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. It teaches section 3.4.3 Deciding on a strategic investment, which is **International A-level only** content in the 3.4 Business strategy block. Anyone part-way through the older 9625 course should rely on the 9625 document rather than this page. Every business on this page is invented.

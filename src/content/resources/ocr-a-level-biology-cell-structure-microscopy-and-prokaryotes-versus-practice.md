@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "cell-structure-ocr-alevel-biology"
 description: "Original practice questions with worked answers on microscopy, magnification, organelles, cytoskeleton and prokaryotes for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

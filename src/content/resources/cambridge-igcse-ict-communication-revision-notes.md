@@ -20,9 +20,12 @@ syllabusTopics:
     subtopic: "effective-use-of-the-internet-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 Topic 10: email netiquette, cc and bcc, spam, internet vs intranet and extranet, URLs, search engines and protocols."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 10 of Cambridge IGCSE ICT 0417 covers communicating with other ICT users by email and using the internet effectively. You need to know email features and constraints (netiquette, cc, bcc, attachments, spam), how the internet differs from an intranet, an extranet and the World Wide Web, the parts of a URL, how to judge information found online, and the protocols HTTP, HTTPS, FTP and SSL.

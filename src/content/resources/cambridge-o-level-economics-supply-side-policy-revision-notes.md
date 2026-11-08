@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "supply-side-policy"
 description: "Condensed revision notes on supply-side policy for Cambridge O Level Economics 2281: definitions, six measures, chains of reasoning, self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 4.5 (4.5.1 to 4.5.3) of the Cambridge O Level Economics 2281 syllabus for examination in 2026. There is no tiering. For full explanations and worked examples, start with the [study guide](/resources/cambridge-o-level-economics-supply-side-policy/), then test yourself with the [practice questions](/resources/cambridge-o-level-economics-supply-side-policy-practice/). Use the [course hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/) to find other gaps. Related unit: [the mixed economic system and government intervention](/resources/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention-revision-notes/). All figures below are invented.

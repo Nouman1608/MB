@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "p1-algebra-oxfordaqa-alevel-maths"
 description: "Study guide to polynomial division, the Factor Theorem, curve sketching and graph transformations for OxfordAQA International AS Mathematics Unit P1."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 This study guide follows the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. It covers the polynomial, graph and transformation content listed under P1.1 (Algebra): manipulating polynomials, algebraic division by (x − a), the Remainder Theorem and Factor Theorem, sketching linear, quadratic and cubic curves, solving equations from intersections, and the transformations y = af(x), y = f(x) + a, y = f(x + a) and y = f(ax). The specification places this content in International AS, Unit P1 (Pure Maths). It gives no Core, Extension or Higher labels. The specification applies to International AS exams from May/June 2018 and International A-level exams from May/June 2019.

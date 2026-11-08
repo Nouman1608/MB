@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "c3-2-energetics-j248"
 description: "Study guide for OCR GCSE Chemistry A (J248) C3.2 Energetics: exothermic and endothermic reactions, reaction profiles and bond energy sums."
 author: "marlbridge-academic-team"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
 ---
 
 Sub-topic **C3.2 Energetics** sits in Topic C3 Chemical reactions of the OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification (Version 4.0, August 2026), and this guide teaches all of it: learning outcomes C3.2a to C3.2d, the mathematical learning outcomes CM3.2i and CM3.2ii, and the practical suggestion linked to PAG C8. Outcomes C3.2a, C3.2b and C3.2c are assessed at both tiers. Outcome C3.2d, calculating energy changes from bond energies, is **Higher Tier only**. In the specification's assessment overview, Topic C3 content belongs to Paper 1 for Foundation Tier candidates and Paper 3 for Higher Tier candidates.

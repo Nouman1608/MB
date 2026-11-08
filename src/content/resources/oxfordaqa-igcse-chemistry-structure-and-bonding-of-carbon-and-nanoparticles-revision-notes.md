@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "nanoparticles-9202"
 description: "Condensed revision notes on diamond, graphite, fullerenes and nanoscience for OxfordAQA International GCSE Chemistry 9202, with a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These notes condense sections 3.2.3 and 3.2.4 of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Everyone takes the same untiered papers, and no required practical sits in these sections. Explanations from first principles, with worked examples, are in the [study guide](/resources/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles/).

@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "cumulative-frequency-diagrams-4024"
 description: "Original practice questions with worked answers on scatter diagrams, correlation, lines of best fit and cumulative frequency for Cambridge O Level Maths."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

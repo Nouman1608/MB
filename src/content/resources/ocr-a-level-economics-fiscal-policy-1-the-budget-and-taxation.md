@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "fiscal-policy-ocr-aslevel-economics"
 description: "Study guide to the government budget, types of tax, average and marginal rates, the Laffer Curve, flat taxes and budget positions, OCR A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers the first part of the topic **Fiscal policy**, under The application of policy instruments (Macroeconomics). The specification labels no content as AS or Extension: all of it is A Level. All countries and figures below are made up as examples, not real data, and money is in currency units (cu).

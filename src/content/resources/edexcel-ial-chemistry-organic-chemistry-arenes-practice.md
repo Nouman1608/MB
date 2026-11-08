@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "organic-chemistry-arenes-ych11"
 description: "Original Edexcel IAL Chemistry practice questions on arenes, with worked answers: benzene evidence, nitration, Friedel-Crafts and phenol tests."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "poverty-and-inequality-oxfordaqa-alevel-economics"
 description: "Condensed revision notes on inequality, Lorenz curves, poverty and redistribution policies for OxfordAQA International A-level Economics (9640)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense sections 3.3.5.1 and 3.3.5.2 of the OxfordAQA International AS and A-level Economics (9640) specification. The specification places section 3.3 in the extra International A2 content. The [study guide](/resources/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution/) has the full explanations and worked examples. Then try the [practice questions](/resources/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution-practice/), take a [free diagnostic](/diagnostics/), and tick off the [course checklist](/checklists/oxfordaqa/a-level/economics/). The [course hub](/boards/oxfordaqa/a-level/economics/) lists everything else. All figures here are invented.

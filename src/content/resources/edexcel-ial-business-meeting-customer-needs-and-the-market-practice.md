@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "the-market-ybs11"
 description: "Original practice questions with worked answers for Edexcel International A Level Business Unit 1, sections 1.3.1 and 1.3.2: PED, YED, research."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

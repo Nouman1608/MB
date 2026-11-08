@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "hydroelectric-power-and-pumped-storage-oxfordaqa-alevel-physics"
 description: "Eleven original questions with worked answers on wind, solar and hydroelectric energy and pumped storage for OxfordAQA International A-level Physics."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

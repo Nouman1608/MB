@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "mensuration-and-calculation-oxfordaqa-igcse-maths"
 description: "Condensed revision notes on Pythagoras' theorem and sin, cos, tan in right-angled triangles and 3D figures for OxfordAQA IGCSE Mathematics 9260."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08: reviewed by sajawal-zahid."
 ---
 
 These notes condense statement G19 in section 3.3.2 of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry-practice/). The [course hub](/boards/oxfordaqa/igcse/mathematics/), the [printable checklist](/checklists/oxfordaqa/igcse/mathematics/) and the [free 10-minute diagnostics](/diagnostics/) help you plan. Core content is 2D right-angled work. **Extension only** content is 3D figures. All content can be assessed on the Extension papers.

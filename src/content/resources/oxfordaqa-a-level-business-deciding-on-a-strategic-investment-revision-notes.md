@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "deciding-on-a-strategic-investment-oxfordaqa-alevel-business"
 description: "Revision notes for OxfordAQA A-level Business 9725 strategic investment: expected value, net gain, payback, ARR, NPV and the factors behind decisions."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense section 3.4.3 Deciding on a strategic investment of the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Every outcome here is **International A-level only**, and Unit 4: Business strategy is where it is examined. Candidates still following 9625 should take their content from the 9625 document. For full explanations and longer worked examples, go to the [study guide](/resources/oxfordaqa-a-level-business-deciding-on-a-strategic-investment/).

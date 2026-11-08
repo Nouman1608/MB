@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-10-2"
 description: "OxfordAQA 9620 study guide to section 3.3.10: benzene bonding, hydrogenation evidence, nitration, sulfonation, Friedel–Crafts and chlorine radicals."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches section 3.3.10, Aromatic chemistry, from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020. It covers 3.3.10.1 Bonding and 3.3.10.2 Electrophilic substitution. Because the specification lists it with the International A2 organic topics, everything here is **International A-level only**. It is examined in Unit 4 (Organic 2 and Physical 2), and Unit 5 (Practical and synoptic) covers all content.

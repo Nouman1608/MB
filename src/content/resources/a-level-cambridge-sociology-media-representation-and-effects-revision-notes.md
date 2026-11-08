@@ -23,8 +23,12 @@ syllabusTopics:
     subtopic: "impact-of-media-on-behaviour-9699"
 description: "Condensed Cambridge 9699 notes on 10.1-10.3: stereotypes of social groups, gender socialisation, moral panics, effects models and media violence."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
 ---
 
 These notes condense heading 10 *Media representation and effects* of Cambridge International

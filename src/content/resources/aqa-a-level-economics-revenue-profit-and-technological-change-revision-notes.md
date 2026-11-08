@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "production-costs-and-revenue-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on revenue formulas, revenue curves, normal and abnormal profit, innovation and creative destruction."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense the revenue, profit and technological change content of the AQA AS and A-level Economics specification (version 1.3, 29 June 2022), A-level sub-section Production, costs and revenue (3.1.4 on the AQA website, 4.1.4 in the combined PDF). The specification does not label any of this content as AS-only or A-level-only. For full explanations, read the [study guide](/resources/aqa-a-level-economics-revenue-profit-and-technological-change/), then test yourself with the [practice questions](/resources/aqa-a-level-economics-revenue-profit-and-technological-change-practice/). Use the [course hub](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) and the [free diagnostics](/diagnostics/) to find gaps. Every firm and figure here is invented.

@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "analysis-and-evaluation-of-financial-information"
 description: "Revision notes for AQA A-Level Accounting 7127 section 3.8: ratio formulae, what each ratio shows, cash versus profit, limitations and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 Condensed recall notes for section 3.8, Analysis and evaluation of financial information, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered, and the specification lists section 8 in the content assessed by both Paper 1 and Paper 2. For full explanations and a worked set of accounts, use the [study guide](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information/).

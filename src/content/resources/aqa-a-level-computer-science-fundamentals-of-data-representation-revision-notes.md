@@ -14,9 +14,12 @@ syllabusTopics:
     topic: "fundamentals-of-data-representation"
 description: "Recall notes on number bases, two's complement, floating point, errors, character codes, images, sound, compression and ciphers for AQA A-Level CS 7517."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Fundamentals of data representation (section 4.5 of AQA A-Level Computer Science 7517) explains how

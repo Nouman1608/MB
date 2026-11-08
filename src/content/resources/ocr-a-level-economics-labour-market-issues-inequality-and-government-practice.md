@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "the-labour-market-ocr-alevel-economics"
 description: "Original practice questions with worked answers on labour market issues, wage controls, migration, inequality and intervention for OCR A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

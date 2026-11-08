@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "thermodynamics-and-engines-aqa-alevel"
 description: "Study guide to the AQA A-Level Physics 7408 engineering physics option: rotational dynamics, flywheels, thermodynamics, engine cycles and heat pumps."
 author: "marlbridge-academic-team"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by hassan."
 ---
 
 This study guide teaches section 3.11 Engineering physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.11.1 Rotational dynamics and 3.11.2 Thermodynamics and engines. Section 3.11 is **A-level only** and is one of the five **options** (sections 3.9 to 3.13). You study one option, assessed in Paper 3 Section B (35 marks); Paper 3 Section A assesses practical skills and data analysis. The specification says questions may use unfamiliar contexts, with the information you need given.

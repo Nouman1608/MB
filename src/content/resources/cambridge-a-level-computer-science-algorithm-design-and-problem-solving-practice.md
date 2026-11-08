@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "algorithms-9-2"
 description: "Paper 2-style questions with answers on abstraction, decomposition, identifier tables, flowcharts, pseudocode and stepwise refinement for Cambridge AS 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

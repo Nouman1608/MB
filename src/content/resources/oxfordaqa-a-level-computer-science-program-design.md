@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "program-design-9645"
 description: "Study guide to OxfordAQA A-Level Computer Science program design: structured code, charts, abstraction, tracing, testing and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 This guide teaches section 3.3 Program design of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It covers sections 3.3.1 to 3.3.4. All of it is AS content, which is also part of the full International A-level. The specification places this section in AS Unit 1: Programming, an on-screen exam available in C#, Python or VB.Net.

@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "monitoring-and-maintaining-health-ocr-gcse-biology"
 description: "Condensed revision notes on non-communicable disease, cardiovascular treatments, lifestyle data and cancer for OCR GCSE Biology A (J247), with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 Quick recall for statements B6.3r to B6.3u of OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. None of these statements is in bold, so they apply to both tiers. For full explanations use the [study guide](/resources/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment-practice/). Course pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) | [printable checklist](/checklists/ocr/gcse/biology/) | [free 10-minute diagnostics](/diagnostics/).

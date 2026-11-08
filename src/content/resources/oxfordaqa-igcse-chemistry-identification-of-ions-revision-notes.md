@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "identification-of-ions-9202"
 description: "Condensed OxfordAQA IGCSE Chemistry (9202) ion test notes: flame colours, hydroxide precipitates, carbonate, halide and sulfate tests, and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 These revision notes condense section 3.4.3 Identification of ions of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. They cover statements a to f and the flame test required practical. There are no tiers, so you need every line. The full teaching, with worked examples, is in the [identification of ions study guide](/resources/oxfordaqa-igcse-chemistry-identification-of-ions/).

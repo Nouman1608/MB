@@ -16,8 +16,12 @@ syllabusTopics:
     topic: "unit-6-practical-skills-in-chemistry-ii-ych11"
 description: "Study guide to Edexcel IAL Chemistry Unit 6: what the paper assesses and Core Practicals 9 to 16, with methods, calculations and sources of error."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide covers Unit 6: Practical Skills in Chemistry II from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Unit 6 is an International A2 (IA2) unit with no new theory. It examines the techniques from Units 4 and 5, including Core Practicals 9 to 16, plus the tests for ions, gases and organic groups from Units 1 and 2.

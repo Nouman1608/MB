@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "waves-ocr-alevel"
 description: "Study guide to the EM spectrum, polarisation, refractive index, Snell's law, critical angle and total internal reflection for OCR A Level Physics A."
 author: "marlbridge-academic-team"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
 ---
 
 This study guide is aligned to the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), section 4.4.2 Electromagnetic waves, statements (a) to (e). It sits inside Module 4, Electrons, waves and photons. It teaches the electromagnetic spectrum, polarisation of EM waves, refraction and refractive index, the refraction and total internal reflection practical, the critical angle and total internal reflection.

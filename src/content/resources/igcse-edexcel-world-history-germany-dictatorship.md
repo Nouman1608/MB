@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "germany-dictatorship-4hi1"
 description: "Study guide to Germany, 1918–45 for Edexcel International GCSE History 4HI1: Weimar's problems and recovery, Hitler's rise, Nazi rule and the Second World War."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "Check the five key topics against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---

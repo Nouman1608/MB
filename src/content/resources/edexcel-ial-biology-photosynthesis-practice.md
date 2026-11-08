@@ -15,8 +15,12 @@ syllabusTopics:
     topic: "energy-flow-ecosystems-and-the-environment-edexcel-alevel-biology"
 description: "Original practice questions with worked answers on photosynthesis, chromatography and Core Practical 10 for Edexcel IAL Biology YBI11."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

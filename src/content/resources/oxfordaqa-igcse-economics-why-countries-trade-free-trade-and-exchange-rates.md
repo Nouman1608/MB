@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "international-trade-and-the-global-economy-oxfordaqa-igcse-economics"
 description: "A full study guide to why countries trade, free trade, free-trade agreements and exchange rates for OxfordAQA International GCSE Economics (9214)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide covers sections 3.2.4.1 and 3.2.4.2 of the OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025 onwards. Both sections sit in the second topic, How economies work (Paper 2). The course is not tiered. Every country, currency, firm and figure below is invented. Condensed recall is in the [revision notes](/resources/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates-revision-notes/) and exam-style questions are in the [practice set](/resources/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates-practice/). See also the [course hub](/boards/oxfordaqa/igcse/economics/), the [checklist](/checklists/oxfordaqa/igcse/economics/) and the [free diagnostics](/diagnostics/).

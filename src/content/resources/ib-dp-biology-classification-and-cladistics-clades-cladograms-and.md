@@ -16,8 +16,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a3-2"
 description: "Study guide to IB DP Biology HL classification and cladistics: clades, molecular clocks, parsimony, cladograms and three domains, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide follows the IB *Biology guide*, first assessment 2025, and covers section A3.2 (Classification and cladistics) in Theme A, Unity and diversity. All of A3.2 is additional higher level content, so it is **HL only**: there is no SL content in this section. It applies to you if you sit the Diploma Programme Biology examinations from the first assessment in 2025.

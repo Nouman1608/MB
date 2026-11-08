@@ -21,8 +21,12 @@ syllabusTopics:
     subtopic: "section-b-post-1900-poetry-and-prose-9695"
 description: "Original Cambridge 9695 Paper 4-style essay and passage questions on 2026 pre- and post-1900 set texts, with AO1–AO5 indicative content and model paragraphs."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by ammar-bilal."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

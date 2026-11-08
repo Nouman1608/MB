@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "calculating-and-explaining-energy-change-9202"
 description: "OxfordAQA IGCSE Chemistry (9202) study guide to 3.9.1-3.9.2: exothermic and endothermic reactions, calorimetry, energy diagrams and bond energies."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This study guide teaches energy changes in reactions for OxfordAQA International GCSE Chemistry (9202). It follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and covers every statement in section 3.9.1 (a to d) and section 3.9.2 (a to h). The qualification is untiered, so all of it applies to every candidate. Content from any part of the specification can appear on Paper 1 or Paper 2.

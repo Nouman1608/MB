@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "money-and-banking-cambridge-alevel-economics"
 description: "Revision notes on money, the money supply, MV = PT, banks, credit creation, QE and the balance of payments for Cambridge A Level Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense syllabus outcomes 9.4.1 to 9.4.5 (Money and banking) of the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 9 is A Level content. For full explanations, read the [study guide](/resources/cambridge-a-level-economics-money-banks-and-the-money-supply/). Test yourself with the [practice set](/resources/cambridge-a-level-economics-money-banks-and-the-money-supply-practice/), then check the [course hub](/boards/cambridge/a-level/economics/), the [printable checklist](/checklists/cambridge/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/).

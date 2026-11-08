@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "effectiveness-of-macroeconomic-policy-options-cambridge-alevel-economics"
 description: "Condensed revision notes on the Laffer curve, fiscal and monetary policy effectiveness, policy conflicts and government failure for Cambridge A Level."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 These notes condense part of outcome 10.3.1 (fiscal policy including Laffer curve analysis, and monetary policy) and outcomes 10.3.2 and 10.3.3 of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topics 1 to 6 are AS Level content and topics 7 to 11 are A Level content, so this unit is A Level only. Figures are invented and money is in zu.

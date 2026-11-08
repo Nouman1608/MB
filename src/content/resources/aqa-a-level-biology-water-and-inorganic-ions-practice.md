@@ -20,8 +20,12 @@ syllabusTopics:
     subtopic: "inorganic-ions-aqa-alevel-biology"
 description: "Original practice questions on water and inorganic ions for AQA A-level Biology, with calculations, data tasks and worked answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

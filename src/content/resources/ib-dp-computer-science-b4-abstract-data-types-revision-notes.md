@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-b-4"
 description: "Revision notes on IB DP Computer Science B.4 Abstract data types (HL only): what the 2027 subject brief says on hours, HL Paper 2 questions and how to revise."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027); detailed B.4 outcomes follow the full IB guide; please review."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
+reviewNote: "2026-11-08: new overview page written only from the IB DP Computer Science subject brief (first assessment 2027); detailed B.4 outcomes follow the full IB guide; please review; 2026-11-08: reviewed by harris-khan."
 publishedDate: 2026-11-08
 featured: false
 ---

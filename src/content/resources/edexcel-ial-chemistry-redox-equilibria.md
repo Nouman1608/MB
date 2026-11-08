@@ -17,8 +17,12 @@ syllabusTopics:
     subtopic: "redox-equilibria-ych11"
 description: "Study guide to Edexcel IAL Chemistry Topic 16 Redox Equilibria: electrode potentials, cells, feasibility, redox titrations and fuel cells, worked."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
+reviewNote: "2026-11-08: reviewed by nouman-ahmed."
 ---
 
 This guide teaches Topic 16: Redox Equilibria from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 16.1 to 16.19, including Core Practicals 12, 13a and 13b. Pearson places it in Unit 5: Transition Metals and Organic Nitrogen Chemistry; this is International A2 (IA2) content. The Unit 6 paper (Practical Skills in Chemistry II) tests procedures from Units 4 and 5, so expect the core practicals there as well.

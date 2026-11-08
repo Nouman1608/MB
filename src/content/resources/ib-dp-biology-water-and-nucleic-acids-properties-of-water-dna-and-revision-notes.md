@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a1-2"
 description: "Condensed revision notes for IB DP Biology A1.1 Water and A1.2 Nucleic acids, with comparison tables, a self-test and common lost marks."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 These revision notes condense IB Diploma Programme Biology A1.1 (Water) and A1.2 (Nucleic acids) from the IB *Biology guide*, first assessment 2025. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and/). Test yourself with the [practice set](/resources/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and-practice/). Statements marked "HL only" are additional higher level; everything else is SL and HL.

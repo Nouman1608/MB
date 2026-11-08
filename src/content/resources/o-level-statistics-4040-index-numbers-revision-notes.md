@@ -17,8 +17,12 @@ syllabusTopics:
     topic: "index-numbers-0479"
 description: "Revision notes on price relatives, weighted aggregate index numbers, interpretation and limitations for Cambridge O Level Statistics 4040 and IGCSE 0479."
 author: "marlbridge-academic-team"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by muhammad-ghazali-siddiqui."
 ---
 
 These revision notes condense **index numbers**: Topic 8 of the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027, and the matching content in Topic 10 of Cambridge IGCSE Statistics 0479. The 4040 text lists price relatives, weighted aggregate index numbers, and their use and limitations. The 0479 learning outcomes spell the same content out in more detail, so these notes follow them. For full explanations, start with the [index numbers study guide](/resources/o-level-statistics-4040-index-numbers/). When you are ready to test yourself, use the [index numbers practice questions](/resources/o-level-statistics-4040-index-numbers-practice/).

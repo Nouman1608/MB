@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "demand-ocr-gcse-economics"
 description: "Study guide to markets, the three sectors, specialisation, demand curves and price elasticity of demand, with worked calculations, for OCR GCSE Economics."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
+reviewNote: "2026-11-08: reviewed by salman-ahmad."
 ---
 
 This guide teaches sections 2.1 (The role of markets) and 2.2 (Demand) of Topic 2 in the OCR GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026). The course is untiered: one set of content applies to every candidate. All numbers, firms and countries below are invented for practice and labelled as illustrative.

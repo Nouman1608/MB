@@ -22,8 +22,12 @@ syllabusTopics:
     subtopic: "file-processing-and-exception-handling"
 description: "Guide to low-level, procedural, object-oriented and declarative paradigms, serial, sequential and random file processing and exceptions for Cambridge 9618."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-08: reviewed by harris-khan."
 ---
 
 Topic 20 Further Programming covers four programming paradigms (low-level, imperative, object-oriented and declarative) and two practical skills: processing serial, sequential and random files, and handling exceptions. In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 3 and, apart from low-level and declarative programming, in program code in Paper 4 Practical.

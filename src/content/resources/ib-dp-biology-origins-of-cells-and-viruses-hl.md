@@ -19,8 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a2-3"
 description: "Study guide to IB DP Biology HL origins of cells and viruses (A2.1, A2.3): early Earth, Miller-Urey, RNA, LUCA, virus structure and life cycles."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
+reviewNote: "2026-11-08: reviewed by hina-mogul."
 ---
 
 This study guide covers IB Diploma Programme Biology, sections A2.1 (Origins of cells) and A2.3 (Viruses), as set out in the IB *Biology guide*, first assessment 2025. Both sections are additional higher level, so everything here is **HL only**: there is no standard level content in either.

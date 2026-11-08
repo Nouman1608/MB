@@ -31,8 +31,12 @@ syllabusTopics:
     subtopic: "limitations-of-accounting-statements"
 description: "Study guide to Cambridge IGCSE Accounting 0452 sections 6.3 to 6.5: inter-business comparison, interested parties and limitations of statements."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
+reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
