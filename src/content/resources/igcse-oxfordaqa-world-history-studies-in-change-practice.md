@@ -12,10 +12,12 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-studies-in-change-9245"
-description: "Original exam-style practice questions with full worked answers on Paper 2's real two-section, four-question-per-section structure at 3, 6, 9 and 12 marks, applicable to any Section A society-in-change option and Section B thematic study."
+description: "Original practice with worked answers on OxfordAQA International GCSE History 9245 Paper 2: four questions per section at 3, 6, 9 and 12 marks, for any option."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -170,3 +172,14 @@ to your own studied content, and revisit the [Studies in Change revision
 notes](/resources/igcse-oxfordaqa-world-history-studies-in-change-revision-notes/)
 for the recommended turning-point and factor-weighing templates to
 prepare in advance.
+
+## Frequently asked questions
+
+**How is Paper 2 of OxfordAQA 9245 structured?**
+Paper 2, Studies in change (1 hour 45 minutes, 60 marks, 50%), has Section A on one society in change and Section B on one thematic study; each section has four questions worth 3, 6, 9 and 12 marks.
+
+**How is the 3-mark question marked?**
+It is point-marked: one mark for each relevant feature, up to three. The other questions are marked with levels of response.
+
+**When is OxfordAQA 9245 first examined?**
+It is taught from September 2026 and first examined in May/June 2028, so no past papers exist yet.

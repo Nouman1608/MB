@@ -18,10 +18,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-international-relations-depth-studies-9245"
     subtopic: "paper-1-section-b-9245"
-description: "Original exam-style practice questions with full worked answers on Paper 1's real two-section structure -- Section A's source-based Peacemaking and League of Nations option, and Section B's knowledge-based Hitler's foreign policy option -- for OxfordAQA International GCSE History (9245)."
+description: "Original OxfordAQA International GCSE History 9245 Paper 1 practice: source-based Peacemaking and the League, and knowledge-based Hitler's foreign policy."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -257,3 +259,14 @@ one risk — a two-front war — that might otherwise have given him pause.
   second, separate cause the question explicitly requires.
 - Writing the 12-mark essays as a list of factors rather than a
   sustained judgement that links and weighs them against each other.
+
+## Frequently asked questions
+
+**What are the four Paper 1 questions in each section of OxfordAQA 9245?**
+Section A (source-based) has questions worth 4, 6, 8 and 12 marks on unseen and pre-released sources; Section B (knowledge-based) has questions worth 3, 6, 9 and 12 marks.
+
+**Which options are in each section?**
+Section A: Peacemaking and the League of Nations, c1919–1939, or Crises of the Cold War, 1960–1975. Section B: one of four, including Hitler's foreign policy and the origins of the Second World War, 1933–1941.
+
+**When is OxfordAQA 9245 first examined?**
+It is taught from September 2026 and first examined in May/June 2028, so no past papers exist yet.

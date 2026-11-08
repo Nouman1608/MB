@@ -18,10 +18,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-international-relations-depth-studies-9245"
     subtopic: "paper-1-section-b-9245"
-description: "The paper structure of Paper 1 for OxfordAQA International GCSE History (9245), a new qualification for teaching from September 2026."
+description: "Paper 1 of OxfordAQA International GCSE History 9245, International relations depth studies: the source-based and knowledge-based sections and their options."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -181,3 +183,14 @@ Narrating events without explaining causation. Making claims with no specific su
 - Explain the origins of the Cold War and the key crises to 1962.
 - Answer "how far" questions by weighing factors and reaching a supported judgement.
 - Evaluate sources on content, provenance and purpose, not type alone.
+
+## Frequently asked questions
+
+**What are the four Paper 1 questions in each section of OxfordAQA 9245?**
+Section A (source-based) has questions worth 4, 6, 8 and 12 marks on unseen and pre-released sources; Section B (knowledge-based) has questions worth 3, 6, 9 and 12 marks.
+
+**What are the Section B options?**
+The origins of the First World War, c1890–1915; Hitler's foreign policy and the origins of the Second World War, 1933–1941; the origins and development of the Cold War, 1945–1960; and détente and the collapse of communism, c1969–1991.
+
+**When is OxfordAQA 9245 first examined?**
+It is taught from September 2026 and first examined in May/June 2028, so no past papers exist yet.
