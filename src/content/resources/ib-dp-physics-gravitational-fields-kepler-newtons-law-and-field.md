@@ -272,6 +272,20 @@ A quarter of one percent is small. Over heights much smaller than R, treating g 
 
 Work through the [practice questions](/resources/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field-practice/) and use the [revision notes](/resources/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field-revision-notes/) for the final weeks.
 
+## Frequently asked questions
+
+**Do I need resultant field strengths anywhere other than on a line?**
+No. The guide says the resultant gravitational field strength is only needed at points along a line joining two bodies.
+
+**Is gravitational potential covered in this IB DP Physics guide?**
+No. The potential-based content of D.1, including potential energy, potential, escape speed and orbital speed, is HL only and is taught separately.
+
+**Why should the test mass be small when defining g?**
+A large test mass would alter the field you are trying to measure, so g is defined using a small point mass.
+
+**Do Kepler's laws apply to moons as well as planets?**
+Yes. They hold for any set of bodies orbiting one central mass, such as moons around a planet, and each system has its own constant of proportionality.
+
 ## Official syllabus
 
 This page follows sub-topic D.1 (Gravitational fields), standard level and higher level content, of the IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. The additional higher level content of D.1 is not covered here.

@@ -203,6 +203,20 @@ A white dwarf with L = 1.2 × 10⁻³ L☉ and T = 12 000 K: L = 4.60 × 10²³ 
 - Giving distances in pc without checking whether the question wants ly or metres.
 - Leaving out units, or quoting more significant figures than the data support.
 
+## Frequently asked questions
+
+**Is there HL-only content in IB DP Physics E.5?**
+No. E.5, Fusion and stars, has no additional higher level content, so these notes apply to SL and HL.
+
+**Why can an iron core not support a star?**
+Fusion up to iron releases energy, but fusion beyond iron does not, so an iron core cannot be held up by fusion.
+
+**What is the parallax angle?**
+The parallax angle is half the total apparent shift of the star, measured with a baseline of 1 AU. Then d (pc) = 1 / p (arc-second).
+
+**Does a star lose all the hydrogen it fuses?**
+No. A star converts only about 0.7% of the mass of the hydrogen it fuses into energy; the rest becomes helium.
+
 ## Official syllabus
 
 Source: IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. These notes are an independent paraphrase and are not an IB publication.

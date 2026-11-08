@@ -9,10 +9,12 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Physics"]
 syllabusSeries: "First assessment 2025"
 order: 4
-description: "Paper-by-paper exam preparation for IB DP Physics -- Paper 1A multiple-choice and Paper 1B data-based strategy, Paper 2's short-and-extended-response strategy, data-booklet fluency, a worked uncertainty-estimation scenario and a checklist, for first assessment 2025."
+description: "Paper-by-paper exam preparation for IB DP Physics (first assessment 2025): Paper 1A and 1B, Paper 2, the data booklet, uncertainty practice and a checklist."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -128,6 +130,20 @@ the same absolute timing uncertainty from reaction time is divided across a larg
 oscillations, reducing the uncertainty in the period calculated per oscillation. 4. A reasoned
 account of why something happens, supported by a named physical law or principle -- not just stating
 and applying a formula.
+
+## Frequently asked questions
+
+**How long are the IB DP Physics written papers?**
+Paper 1 lasts 90 minutes at SL and 120 minutes at HL. Paper 2 lasts 90 minutes at SL and 150 minutes at HL.
+
+**Can I use a calculator in IB DP Physics exams?**
+Yes. A calculator and the official IB Physics data booklet are permitted on both Paper 1 and Paper 2.
+
+**Is the IB DP Physics internal assessment externally moderated?**
+Yes. The scientific investigation is internally assessed against four criteria worth 6 marks each, for 24 marks and 20% of the grade, and it is externally moderated.
+
+**Is the worked uncertainty scenario an IB past paper question?**
+No. It is an original example written for this resource, not a reproduction of any official past or sample paper question.
 
 ## Official syllabus
 

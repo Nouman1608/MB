@@ -213,6 +213,20 @@ R  = 8.46 × 10¹¹ m, about 1220 times the solar radius 6.96 × 10⁸ m
 - Giving a mass defect in u as an energy. Multiply by 931.5 to get MeV.
 - Saying a star is stable because "fusion stops gravity". The correct statement is a balance of forces.
 
+## Frequently asked questions
+
+**Are Cepheid variables required for IB DP Physics E.5?**
+No. Cepheid variables are not required. Every understanding in E.5 applies to both SL and HL.
+
+**What mass separates stars that become white dwarfs from those that go supernova?**
+Roughly eight times the mass of the Sun, but the limits are approximate. The guide asks for the effect of mass: low mass gives a long life ending as a white dwarf, high mass a short life ending in a supernova.
+
+**Why do heavier fusion fuels need higher temperatures?**
+Heavier nuclei carry larger charges, so the electric repulsion between them is stronger and they must move faster to get close enough to fuse.
+
+**Why use atomic masses rather than nuclear masses for hydrogen fusion?**
+Using atomic masses includes the electrons, so the result also counts the energy from positron annihilation. A small part of the energy leaves with the neutrinos.
+
 ## Official syllabus
 
 Source: IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This page is an independent paraphrase and is not an IB publication.

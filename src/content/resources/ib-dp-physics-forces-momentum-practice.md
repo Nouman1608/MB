@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-physics-topic-a"
     subtopic: "ib-dp-physics-a-2"
-description: "Original practice questions with full worked answers covering Newton's laws, momentum, impulse, collisions and circular motion, for sub-topic A.2 of IB Diploma Programme Physics."
+description: "Original practice questions with worked answers on Newton's laws, momentum, impulse, collisions and circular motion for IB DP Physics sub-topic A.2."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -99,6 +101,17 @@ in exactly this kind of extended scenario rather than testing each formula in is
 particular tests whether a student can apply F = Δp/Δt to a situation where no numbers are given at
 all -- a common HL-paper style that rewards conceptual fluency with the relationship over formula
 substitution.
+
+## Frequently asked questions
+
+**Are these IB DP Physics forces and momentum questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these forces and momentum questions for SL or HL?**
+Both. Sub-topic A.2 has identical content at SL and HL, so every question applies to both levels.
+
+**Which official source do these questions follow?**
+They follow the IB Diploma Programme Subject Brief for Physics, first assessment 2025, published January 2022, the same source cited by the Forces and Momentum revision notes.
 
 ## Official syllabus
 

@@ -172,6 +172,20 @@ These questions cover **sub-topic A.5, Galilean and special relativity**, from t
 - Take [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these IB DP Physics relativity questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these special relativity questions for SL or HL?**
+Every question is HL only, because all of sub-topic A.5, Galilean and special relativity, is additional higher level content.
+
+**What value of c do these questions use?**
+Use c = 3.00 × 10⁸ m/s throughout.
+
+**What slips lose marks in relativity calculations?**
+Common slips are rounding γ early, which stops an invariant interval matching in both frames, and mixing light-years, metres and seconds in one line.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic A.5, Galilean and special relativity (additional higher level).

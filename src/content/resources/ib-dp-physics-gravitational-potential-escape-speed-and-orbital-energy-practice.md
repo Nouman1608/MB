@@ -156,6 +156,20 @@ Data: Callisto mass 1.08 × 10²³ kg, radius 2.41 × 10⁶ m. Triton mass 2.14 
 - Take [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics gravitational potential questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these gravitational potential questions for SL or HL?**
+Every question is HL only. They cover the additional higher level part of D.1, Gravitational fields.
+
+**What assumptions do these questions use?**
+Use G = 6.67 × 10⁻¹¹ N m² kg⁻², treat all bodies as non-rotating, ignore drag unless stated, and measure r from the centre of the body.
+
+**What data are supplied for these questions?**
+Callisto has mass 1.08 × 10²³ kg and radius 2.41 × 10⁶ m, Triton has mass 2.14 × 10²² kg and radius 1.35 × 10⁶ m, and the Earth's mass is 5.97 × 10²⁴ kg.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D.1, additional higher level part.
