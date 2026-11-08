@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed AQA GCSE Maths 8300 Statistics revision notes: averages, charts, histograms, box plots and scatter graphs, with a self-test and answers."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes cover Topic 6, **Statistics** (S1 to S6), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Most of the topic is for Foundation and Higher tier. Histograms and cumulative frequency graphs (S3), and box plots, quartiles and interquartile range (S4) are Higher tier only. Statistics can appear on the non-calculator Paper 1 or the calculator Papers 2 and 3, in the May/June and November series.
@@ -304,6 +306,20 @@ Make one comparison of an **average** and one of **spread**, each with a sentenc
 - Using a line of best fit to predict far outside the data without comment.
 - Claiming causation from correlation.
 - Forgetting that a grouped mean is an estimate, when asked to explain why.
+
+## Frequently asked questions
+
+**How do you work out the angles in a pie chart?**
+Divide each frequency by the total and multiply by 360°. Check that the angles add up to 360°.
+
+**What is frequency density in a histogram?**
+Frequency density is frequency divided by class width, and it goes on the vertical axis of a histogram. The area of each bar then represents the frequency; histograms are Higher tier content.
+
+**What is the difference between interpolation and extrapolation?**
+Interpolation uses a line of best fit within the range of the data and is fairly reliable. Extrapolation uses it outside the data, where the trend may not continue.
+
+**Why is the interquartile range better than the range?**
+The interquartile range is not affected by extreme values, so it is a better measure of spread than the range when the data contain outliers.
 
 ## Official syllabus
 

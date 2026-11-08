@@ -208,6 +208,20 @@ Worked reminder: triangle M has a vertex at (1, 2). It is rotated 90° clockwise
 - Mixing up the order in a combination.
 - Giving a translation as coordinates in a bracket with a comma, when the question asks for a column vector.
 
+## Frequently asked questions
+
+**Which transformations give congruent images?**
+Reflection, rotation and translation give congruent images, the same size and shape. Enlargement gives a similar image, the same shape but usually a different size.
+
+**How do you find the centre of a rotation?**
+Draw the perpendicular bisector of the line joining a point to its image, do the same for a second pair, and the centre is where the two bisectors meet.
+
+**What single transformation is two reflections in parallel lines?**
+Two reflections in parallel lines make a translation perpendicular to the lines, through twice the distance between them.
+
+**Does an enlargement with scale factor 1/2 count as an enlargement?**
+Yes. An enlargement by a scale factor of 1/2 makes the shape smaller, but it is still described as an enlargement with its centre and scale factor.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge International), section 7.1 Transformations.

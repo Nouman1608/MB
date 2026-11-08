@@ -183,6 +183,20 @@ Learn the content first in the [study guide](/resources/aqa-gcse-maths-8300-stru
 - Leaving standard form with A outside 1 ≤ A < 10.
 - Rounding down in a "how many must be sold" problem.
 
+## Frequently asked questions
+
+**What is the order of operations in GCSE Maths?**
+Work out brackets first, then powers and roots, then multiplication and division from left to right, then addition and subtraction. Working simply from left to right gives the wrong answer.
+
+**How do you tell whether a question needs the HCF or the LCM?**
+Read the context. Finding the largest equal pieces or groups needs the HCF, while finding when two repeating events next happen together needs the LCM.
+
+**What is the product rule for counting?**
+If one choice can be made in m ways and a second in n ways, together they can be made in m × n ways. This is Higher tier content, and adding the choices instead of multiplying is a common mistake.
+
+**Which references does AQA GCSE Maths 3.1.1 Structure and calculation cover?**
+Section 3.1.1 covers N1 to N9: ordering, the four operations, inverse operations and priority of operations, primes and factors, systematic listing, powers and roots, indices, exact calculation and standard form.
+
 ## Next steps
 
 - [Structure and calculation revision notes](/resources/aqa-gcse-maths-8300-structure-and-calculation-revision-notes/)

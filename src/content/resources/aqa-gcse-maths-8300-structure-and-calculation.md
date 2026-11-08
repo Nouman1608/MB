@@ -349,6 +349,20 @@ On a calculator, a display such as 2.5E−04 means 2.5 × 10⁻⁴ = 0.00025. Wh
 
 Next, test yourself with the [revision notes self-test](/resources/aqa-gcse-maths-8300-structure-and-calculation-revision-notes/) and then the [practice questions](/resources/aqa-gcse-maths-8300-structure-and-calculation-practice/). The [Number practice questions](/resources/aqa-gcse-mathematics-number-practice/) cover the rest of Topic 1.
 
+## Frequently asked questions
+
+**How do you order negative decimals and fractions?**
+Convert everything to decimals and place them on a number line. A negative number closer to zero is greater, so −0.6 is greater than −2/3.
+
+**How do you use a given multiplication fact to find related answers?**
+Count the decimal places in the numbers you are multiplying and adjust the given answer to match, then check the size with a rough estimate.
+
+**How do you add numbers in standard form?**
+Match the powers of 10 first, then add the numbers. For example, 3.4 × 10⁵ + 6.1 × 10⁴ = 3.4 × 10⁵ + 0.61 × 10⁵ = 4.01 × 10⁵.
+
+**What household finance terms do you need for AQA GCSE Maths?**
+The AQA 8300 specification expects you to know terms such as cost price, selling price, profit and loss, along with income tax, VAT and interest rate.
+
 ## Official syllabus
 
 AQA GCSE Mathematics (8300) specification, for teaching from September 2015, exams from May/June 2017, version 1.0, published by AQA -- section 3.1.1 Structure and calculation (N1 to N9).

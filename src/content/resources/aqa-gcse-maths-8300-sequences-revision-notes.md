@@ -279,6 +279,19 @@ Do these without a calculator.
   <figcaption>To run a rule backwards, undo each step in reverse order: add 4, then divide by 3.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you find the nth term of a quadratic sequence?**
+Halve the second difference to get the coefficient of n², subtract an² from each term, then find the nth term of the linear sequence that is left and add the two parts. This is Higher tier content.
+
+**How do you find the first term above or below a value?**
+Write an inequality using the nth term, solve it, and round n up to the next whole number. Then work out the value of that term if the question asks for it.
+
+**How do you find the common ratio of a geometric sequence?**
+Divide a term by the term before it. For 54, 18, 6, ... the ratio is 18 ÷ 54 = 1/3; dividing the wrong way gives 3.
+
+**Do you need to learn other recursive sequences for GCSE Maths?**
+No. Other recursive sequences will be defined in the question, so you only need to follow the rule you are given.
 
 ## Official syllabus
 

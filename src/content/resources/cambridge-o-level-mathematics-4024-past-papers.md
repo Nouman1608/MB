@@ -264,3 +264,20 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 ## About these notes
 
 The grade thresholds come from Cambridge's grade-threshold tables, and the examiner notes are our own summaries of Cambridge's Principal Examiner Reports for Teachers for the seven series from June 2023 to June 2026. Everything is written in our own words. Thresholds change every series and must never be used to predict future ones. If you spot an error, please [report a correction](/report-a-correction/).
+
+## Frequently asked questions
+
+**Where can I get official Cambridge O Level Mathematics 4024 past papers?**
+Cambridge publishes recent 4024 papers, mark schemes, examiner reports and grade thresholds on the syllabus's past-papers page, and older series are available to schools through the School Support Hub.
+
+**Which 4024 papers are non-calculator?**
+The examiner reports treat the Paper 1 components (11, 12 and 13) as non-calculator papers, and from June 2025 they label the Paper 2 components (21, 22 and 23) as calculator papers.
+
+**Were older 4024 past papers set on the current syllabus?**
+No. The 2025-2027 syllabus was first examined in June 2025, so the June 2023 to November 2024 papers were set before it. Check the syllabus version on the front cover before relying on an older question.
+
+**Can grade thresholds predict future 4024 boundaries?**
+No. Thresholds change every series and should never be used to predict future ones.
+
+**What exam technique do 4024 examiner reports repeat?**
+Keep more figures in working and round only the final answer, show every step in show that questions, use the method and form asked for, write down both bounds before combining them, and cross out rejected work rather than overwriting it.

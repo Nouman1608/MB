@@ -201,6 +201,20 @@ Write one comparison of averages (medians) and one of spread (IQRs). Put each in
 - Describing correlation as "going up" without saying what it means for the two variables.
 - Leaving out units in a final answer.
 
+## Frequently asked questions
+
+**How do you draw a line of best fit?**
+Plot the mean point of the two variables, place a ruler through or near it, and pivot until the points are roughly evenly spread on both sides. Draw a single ruled line across the full data set; it does not have to pass through any plotted point.
+
+**Why can a cumulative frequency curve never go down?**
+It is a running total of frequencies, and frequencies cannot be negative, so the total can only stay level or rise.
+
+**Does correlation show that one variable causes the other?**
+No. Correlation shows a link in the data, but it does not prove that one variable causes the other.
+
+**Which sections of the Cambridge 4024 syllabus cover scatter diagrams and cumulative frequency?**
+Section 9.5 covers scatter diagrams and section 9.6 covers cumulative frequency diagrams in the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 9.5 and 9.6.

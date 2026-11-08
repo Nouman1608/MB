@@ -316,6 +316,20 @@ Route 2:  0 1 2 4 5 8 8
 * Comparing data sets using only an average, with no comment on spread.
 * Reading a composite chart's upper section from zero instead of from the top of the section below.
 
+## Frequently asked questions
+
+**How do you estimate the mean from grouped data?**
+Assume each value lies at the midpoint of its class, multiply each frequency by its midpoint, add these products, and divide by the total frequency. The answer is only an estimate.
+
+**What is the modal class?**
+The modal class is the class with the largest frequency. With classes of equal width, it is the tallest bar.
+
+**How do you compare two data sets in Cambridge O Level Maths?**
+Give one comment on an average and one on spread, each with the numbers and a conclusion in context.
+
+**Why should you be careful drawing conclusions from data?**
+A small or biased sample may not represent everyone, grouped data hides exact values, averages hide spread, a chart cannot prove cause, and predicting beyond the data is unreliable.
+
 ## Next steps
 
 Work through the [revision notes](/resources/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and-revision-notes/) to fix the methods, then try the [practice questions](/resources/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and-practice/). The [probability practice set](/resources/o-level-mathematics-probability-practice/) uses frequency tables in a similar way, and the [past papers page](/resources/cambridge-o-level-mathematics-4024-past-papers/) points you to official papers.

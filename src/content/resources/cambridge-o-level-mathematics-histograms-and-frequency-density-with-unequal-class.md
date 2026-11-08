@@ -247,6 +247,20 @@ Sometimes the information is a comparison. Suppose the bar for 10 ≤ x < 20 is 
 - **Dividing when you should multiply.** To go from a bar to a frequency, multiply by the width. Check by asking whether a wide bar should hold more values than a narrow one of the same height.
 - **Ignoring the assumption in an estimate.** Counting part of a class needs the even-spread assumption.
 
+## Frequently asked questions
+
+**Is the tallest bar in a histogram the class with the most values?**
+Not always. The tallest bar is the most crowded class per unit, but the class with the most values is the one with the largest area, which may be a shorter, wider bar.
+
+**How do you work out the class width of a histogram class?**
+Subtract the lower boundary from the upper boundary for each class separately. Do not assume the width repeats down the table.
+
+**Should there be gaps between the bars of a histogram?**
+No. A histogram shows continuous data, so the bars touch and each one runs from its lower class boundary to its upper class boundary.
+
+**How do you fill in a missing value in a histogram question?**
+Use any bar you can read to find its frequency, subtract the known frequencies from the stated total to find the missing one, then divide by that class width to find its height.
+
 ## Next steps
 
 Work through the [practice questions](/resources/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class-practice/), then use the [revision notes](/resources/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class-revision-notes/) for quick recall. If you are not sure where your gaps are, try the [free 10-minute diagnostics](/diagnostics/).

@@ -200,6 +200,20 @@ Do these without looking back. Answers are below.
 - Not showing the division or multiplication, so a single slip leaves nothing to credit.
 - Missing the final check that the frequencies add to the stated total.
 
+## Frequently asked questions
+
+**Why does a histogram use frequency density instead of frequency?**
+When class widths differ, plotting frequency would make wide classes look too large. Using frequency density as the height makes the area of each bar show the frequency.
+
+**What label goes on the vertical axis of a histogram?**
+Label the vertical axis Frequency density, not Frequency, when class widths are unequal.
+
+**How do you estimate the number of values in part of a class?**
+Multiply the frequency density by the width of the part you need, and state that you are assuming the values are spread evenly through the class.
+
+**Which part of the Cambridge 4024 syllabus covers histograms?**
+Histograms are section 9.7 of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus, in the Statistics topic.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027, version 2, published by Cambridge University Press & Assessment (Cambridge Assessment International Education). The relevant section is 9.7 Histograms.

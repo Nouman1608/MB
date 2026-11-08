@@ -168,6 +168,20 @@ Q is common to both, so P, Q and R are collinear (a straight line) [1]
 - Treating |a + b| as |a| + |b|.
 - Not collecting like terms, so that an answer such as a + ½b − b is left unsimplified.
 
+## Frequently asked questions
+
+**How do you find the magnitude of a column vector?**
+Square both entries, add them and take the square root, so the magnitude of (x, y) is √(x² + y²). Remember that squaring a negative entry gives a positive number.
+
+**How do you prove three points are collinear with vectors?**
+Show that two vectors joining the points are scalar multiples of each other, state the point they share, and write the conclusion in words. Stopping at parallel is not enough.
+
+**How do you turn a ratio into a fraction for a vector question?**
+Add the ratio parts to find the whole. If AP : PB = 2 : 3, then AP is 2/5 of AB, not 2/3.
+
+**Is |a + b| equal to |a| + |b|?**
+Usually not. Add the vectors first and then find the magnitude of the result.
+
 ## Next steps
 
 - Return to the [revision notes](/resources/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and-revision-notes/) for quick recall.

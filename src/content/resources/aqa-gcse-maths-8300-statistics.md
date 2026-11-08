@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Study guide for AQA GCSE Maths 8300 Statistics (S1-S6): sampling, charts, averages and spread, histograms, box plots and scatter graphs."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches Topic 6, **Statistics** (specification references S1 to S6), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Statistics can be tested on any of the three papers at Foundation or Higher tier. Most of it is for both tiers. Histograms, cumulative frequency graphs (S3), box plots, quartiles and interquartile range (part of S4) are Higher tier only and are labelled below. Exams run every May/June and November.
@@ -351,6 +353,20 @@ An **outlier** on a scatter graph is a point far from the pattern. Ignore it whe
 - Plotting cumulative frequency at midpoints instead of upper class boundaries.
 - Comparing only averages, or giving comparisons with no context.
 - Saying one variable "causes" the other because the correlation is strong.
+
+## Frequently asked questions
+
+**What is the difference between discrete and continuous data?**
+Discrete data can only take separate values, usually counts such as the number of siblings. Continuous data is measured and can take any value in a range, such as height, time or mass.
+
+**What is the difference between primary and secondary data?**
+Primary data is collected by you, for example through your own survey. Secondary data was collected by someone else, such as figures from a website or published table.
+
+**Does correlation mean one thing causes another?**
+No. Correlation shows that two variables are related, but a third factor may link them. For example, ice-cream sales and sunburn cases both rise in summer.
+
+**What topics are in AQA GCSE Maths Topic 6 Statistics?**
+Topic 6 Statistics (S1 to S6) in AQA GCSE Mathematics 8300 covers sampling, charts and diagrams, histograms and cumulative frequency, averages and spread, using samples to describe populations, and scatter graphs.
 
 ## Next steps
 

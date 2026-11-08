@@ -546,3 +546,20 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 ## About these notes
 
 The grade thresholds on this page are copied from Cambridge's grade-threshold tables, and the examiner notes are written in our own words from Cambridge's Principal Examiner Reports for Teachers for March 2023 to June 2026, the eleven series listed above. Thresholds change every series and must never be used to predict future ones. If you spot an error, please [report a correction](/report-a-correction/).
+
+## Frequently asked questions
+
+**Where can I get official Cambridge 9709 Mathematics past papers?**
+Cambridge publishes recent 9709 papers, mark schemes, examiner reports and grade thresholds on the syllabus's past-papers page, and older series are available to schools through the School Support Hub. This page links to both the syllabus page and the past papers page.
+
+**Which syllabus were older 9709 past papers set on?**
+The March and June 2026 papers were set on the current syllabus for examination in 2026 and 2027. Papers from 2023 to 2025 come from before that, so check the syllabus version on the front cover before relying on an older question.
+
+**Can grade thresholds predict future 9709 boundaries?**
+No. Grade thresholds change every series, so a past threshold should never be used to predict a future one.
+
+**How should I use a past paper, mark scheme and examiner report together?**
+Sit the paper first under timed conditions, mark it strictly with the mark scheme, then read the examiner report for that paper to see why answers lost marks.
+
+**What exam technique do 9709 examiner reports repeat?**
+Show the method rather than unsupported calculator answers, carry four significant figures and round only at the end, follow hence instructions, write every step of a show that, draw diagrams, and present one clear attempt.
