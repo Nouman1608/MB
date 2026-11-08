@@ -168,6 +168,20 @@ These questions follow Unit S1 sections 3 and 4 (probability, then correlation a
 - Commenting on a prediction without referring to the data range given.
 - Saying "no correlation" when the pattern is a curve.
 
+## Frequently asked questions
+
+**How do you show that two events are independent?**
+Calculate P(A) × P(B) and compare it with P(A ∩ B). If they are equal the events are independent; deciding from whether the events look unrelated earns no credit.
+
+**What is the difference between P(A | B) and P(B | A)?**
+P(A | B) is the probability of A given that B has happened, found as P(A ∩ B) ÷ P(B). Swapping it for P(B | A) is a common error, especially when reading a branch value from a tree diagram.
+
+**Why is extrapolation from a regression line unreliable?**
+Outside the range of the data the pattern may not continue, so a prediction there may be meaningless. When commenting on a prediction, refer to the actual data range given in the question.
+
+**Does r = 0 mean there is no relationship between the variables?**
+No. The product moment correlation coefficient only measures linear association, so points lying on a curve can have r = 0 while still having a clear relationship.
+
 ## Next steps
 
 - Revise from the [revision notes](/resources/edexcel-ial-mathematics-probability-and-correlation-and-regression-revision-notes/).

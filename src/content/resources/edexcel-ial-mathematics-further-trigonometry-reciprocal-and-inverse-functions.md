@@ -309,6 +309,20 @@ Check by substitution: sin π/2 − cos π/2 = 1 and sin π − cos π = 1.
 
 Next: condense this into the [revision notes](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-practice/).
 
+## Frequently asked questions
+
+**What is the identity linking sec² θ and tan² θ?**
+sec² θ ≡ 1 + tan² θ, found by dividing sin² θ + cos² θ ≡ 1 by cos² θ. Dividing by sin² θ instead gives cosec² θ ≡ 1 + cot² θ.
+
+**How do you write a cos θ + b sin θ in the form R cos(θ − α)?**
+Expand R cos(θ − α) and compare coefficients to get R cos α = a and R sin α = b. Then R = √(a² + b²) and tan α = b/a, with α acute when a and b are both positive.
+
+**How do you prove a trigonometric identity?**
+Start from the more complicated side and work on that side only until it equals the other side, without moving terms across the identity sign. Converting everything to sin and cos often helps when you are stuck.
+
+**How do you know when an equation in R-form has no solution?**
+The greatest value of R cos(θ ± α) or R sin(θ ± α) is R and the least is −R. If the right-hand side is larger than R in size, the equation has no solutions.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Pearson Education Limited: Unit P3, section 2 (topics 2.1 to 2.3).

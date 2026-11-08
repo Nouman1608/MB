@@ -239,6 +239,22 @@ If the line meets the circle at two points, substituting gives a quadratic with 
   <figcaption>Two different odd numbers need two different letters; using one letter only covers the diagonal.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the remainder theorem?**
+When a polynomial f(x) is divided by (ax + b), the remainder is f(−b/a). For example, dividing by (x + 3) gives the remainder f(−3).
+
+**How do you find the centre and radius from an expanded circle equation?**
+Complete the square separately for x and for y, then move the constants to the right-hand side to get (x − a)² + (y − b)² = r². The centre is (a, b) and the radius is the square root of the right-hand side.
+
+**How do you check whether a point lies on a circle?**
+Substitute its coordinates into the left-hand side of (x − a)² + (y − b)² = r². If the result equals r² the point is on the circle; smaller means inside and larger means outside.
+
+**What is proof by exhaustion?**
+Proof by exhaustion splits a problem into a finite set of cases that cover every possibility and checks each one. You must state that the cases are complete.
+
+**Which P2 topics do these Edexcel IAL notes cover?**
+They cover proof (sections 1.1 to 1.3), the factor and remainder theorems (2.1) and the equation of a circle (3.1) in Unit P2 of the Edexcel IAL Mathematics specification (YMA01).
 
 ## Official syllabus
 

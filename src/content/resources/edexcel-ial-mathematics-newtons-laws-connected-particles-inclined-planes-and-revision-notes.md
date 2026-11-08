@@ -216,6 +216,23 @@ Mass cancels on a slope when only gravity, R and friction act. If a question giv
 - Stating an answer as a magnitude when the question asks for a vector, or the reverse.
 - Forgetting units, or leaving an acceleration negative without saying what the sign means.
 
+## Frequently asked questions
+
+**What is Newton's second law?**
+Newton's second law states that the resultant force on a particle equals its mass times its acceleration, F = ma, and the acceleration is in the same direction as the resultant force.
+
+**What is the difference between mass and weight?**
+Mass is measured in kg and does not change, while weight is a force measured in newtons and equals mg, acting vertically downwards.
+
+**Is the tension the same on both sides of a smooth pulley?**
+Yes. A light string over a smooth fixed pulley has the same tension on each side, so a pulley equation should use T on each side, not 2T.
+
+**Does the mass matter for a particle sliding on a slope?**
+When only weight, the normal reaction and friction act, the mass cancels, so the acceleration is g sin α − μg cos α down a rough plane whatever the mass.
+
+**Which Edexcel IAL M1 topics do these notes cover?**
+They cover topics 4.1 (Newton's laws and vector dynamics), 4.2 (connected particles, pulleys and inclined planes) and 4.4 (friction, F = μR) of Unit M1 in the Edexcel IAL Mathematics specification (YMA01).
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Pearson Education Limited. Unit M1: Mechanics 1, topics 4.1, 4.2 and 4.4.

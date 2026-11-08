@@ -143,6 +143,20 @@ Difference: −3/(4e²) + 1/4 = **(e² − 3)/(4e²)** [1]
 - Giving an answer as separate logarithms when the question asks for a particular form.
 - Omitting + c on an indefinite integral.
 
+## Frequently asked questions
+
+**What are the most common mistakes in integration by substitution?**
+Writing dx = du when the substitution has a coefficient (for u = 5 − x, dx = −du), leaving an x in the integrand after substituting, and applying x-limits to an integral that is already in u.
+
+**Why do sign errors happen in integration by parts?**
+The formula has a minus sign before the second integral, and in repeated parts the sign alternates on each pass. Writing u, du/dx, dv/dx and v in a small table before substituting helps keep the signs right.
+
+**When do you need to divide before using partial fractions?**
+If the degree of the numerator is not lower than the degree of the denominator, divide first to get a polynomial part plus a proper fraction. Skipping the division step means the partial fractions cannot be found correctly.
+
+**Do you need + c on integration answers in Edexcel IAL P4?**
+Yes, an indefinite integral needs an arbitrary constant, and omitting + c is a common way to lose a mark. A definite integral has no constant because the limits are substituted.
+
 ## Next steps
 
 - Revise any weak method with the [revision notes](/resources/edexcel-ial-mathematics-integration-by-substitution-integration-by-parts-and-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-integration-by-substitution-integration-by-parts-and/).

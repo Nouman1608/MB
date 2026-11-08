@@ -228,6 +228,23 @@ y = f(−x) + 1: x-coordinate × (−1), then y-coordinate + 1
 - Translating y = f(x + 2) to the right. It moves left.
 - Applying a stretch and a translation in the wrong order.
 
+## Frequently asked questions
+
+**How do you simplify a rational expression in A Level Maths?**
+Factorise the numerator and denominator completely, then cancel any bracket that is a factor of both. Separate terms cannot be cancelled, and when the numerator's degree is at least the denominator's and nothing cancels, use algebraic division to write a quotient plus a remainder term.
+
+**What is the difference between a one-one and a many-one function?**
+In a one-one function each output comes from exactly one input, while in a many-one function two or more inputs share an output. Only a one-one function has an inverse, so a many-one function such as x² needs its domain restricted first.
+
+**Which way does y = f(x + a) move a graph?**
+y = f(x + a) is a translation left by a, with vector (−a, 0). Changes inside the brackets act on x-coordinates in the opposite way to what you might expect, while y = f(x) + a moves the graph up by a.
+
+**In what order should you apply combined graph transformations?**
+Work in the order you would evaluate the expression for a given x. For y = 2f(x) + 1 stretch first and then translate, but for y = 2(f(x) + 1) translate first and then stretch, because these give different graphs.
+
+**Is y = f(ax + b) required in Edexcel IAL Maths P3?**
+No. The Edexcel IAL Mathematics specification (YMA01) lists combined transformations such as y = 2f(3x) and y = f(−x) + 1 in Unit P3, but states that the graph of y = f(ax + b) will not be required.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification Issue 3, April 2019, Unit P3 content section 1 (Algebra and functions), topics 1.1 to 1.4. Pearson Education Limited.

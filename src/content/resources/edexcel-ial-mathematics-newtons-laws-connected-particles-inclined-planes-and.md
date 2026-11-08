@@ -277,6 +277,20 @@ T = 58.8 − 6 × 2.744 = 42.3 N
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-newtons-laws-connected-particles-inclined-planes-and-practice/) after the [revision notes](/resources/edexcel-ial-mathematics-newtons-laws-connected-particles-inclined-planes-and-revision-notes/).
 
+## Frequently asked questions
+
+**What are Newton's three laws of motion?**
+A particle stays at rest or moves at constant velocity unless a resultant force acts; the resultant force equals mass times acceleration (F = ma); and if A exerts a force on B, B exerts an equal and opposite force on A.
+
+**How do you find the acceleration on a smooth inclined plane?**
+The only force along a smooth slope is the weight component mg sin α, so the acceleration is g sin α down the slope and the mass cancels.
+
+**What is the formula for friction on a moving particle?**
+When a particle slides on a rough surface, friction is F = μR, where μ is the coefficient of friction and R is the normal reaction. Find R by resolving perpendicular to the surface first.
+
+**What does an inextensible string mean in mechanics?**
+An inextensible string does not stretch, so the particles it connects move with the same acceleration. A light string has no mass, so the tension is the same throughout.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Pearson Education Limited. Unit M1: Mechanics 1, topics 4.1, 4.2 and 4.4.

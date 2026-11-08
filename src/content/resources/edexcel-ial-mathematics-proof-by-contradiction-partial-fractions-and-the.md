@@ -294,6 +294,23 @@ Sum: 4 + 10x + 7x² + 22x³,   valid for |x| < 1/2.
 
 Move on to the [practice set](/resources/edexcel-ial-mathematics-proof-by-contradiction-partial-fractions-and-the-practice/) once you can do the worked examples without looking.
 
+## Frequently asked questions
+
+**How do you prove that √2 is irrational?**
+Assume √2 = p/q in lowest terms, so p² = 2q². Then p is even, so q² is even and q is even, contradicting the assumption that p and q have no common factor.
+
+**How do you prove there are infinitely many primes?**
+Assume there is a finite list of primes and let N be their product plus 1. N leaves remainder 1 when divided by every prime on the list, so it has a prime factor not on the list, which contradicts the assumption.
+
+**Is N = (product of primes) + 1 always prime?**
+No. The proof only needs N to have a prime factor that is not on the list; N itself does not have to be prime.
+
+**What is the binomial series for any rational n?**
+(1 + x)ⁿ = 1 + nx + n(n − 1)x²/2! + n(n − 1)(n − 2)x³/3! + ..., valid for |x| < 1 when n is not a positive integer.
+
+**How do you find the range of validity for (2 + 3x)ⁿ?**
+Write it as 2ⁿ(1 + 3x/2)ⁿ, so the condition is |3x/2| < 1, which gives |x| < 2/3. Writing |x| < 3/2 is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Pearson Education Limited. Unit P4: Pure Mathematics 4, sections 1.1, 2.1 and 4.1.

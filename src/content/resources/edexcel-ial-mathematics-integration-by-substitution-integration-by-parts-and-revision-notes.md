@@ -194,6 +194,23 @@ Choosing between methods: x/(x + 1)² can be done by substitution (u = x + 1) or
 
 Differentiate every indefinite answer mentally or on paper: the original integrand should come back. For definite integrals, check that the answer is the right sign for the shape of the curve. A positive integrand on the interval must give a positive value. Check that a logarithm in your answer has a positive argument over the whole interval. These checks take under a minute and catch most slips.
 
+## Frequently asked questions
+
+**What is the formula for integration by parts?**
+∫ u (dv/dx) dx = uv − ∫ v (du/dx) dx. It is the reverse of the product rule, just as substitution is the reverse of the chain rule.
+
+**How do you choose u in integration by parts?**
+Choose u as the factor that becomes simpler when differentiated, such as a power of x, and dv/dx as the factor that is easy to integrate. The exception is ln x, which is taken as u because it differentiates to 1/x.
+
+**Is the integral of 1/x² a logarithm?**
+No. ∫ 1/x² dx is −1/x + c. A logarithm only arises when the linear factor is to the first power, so ∫ 1/(ax + b) dx = (1/a) ln|ax + b| + c.
+
+**How do you check an integration answer?**
+Differentiate an indefinite answer and confirm that the original integrand comes back. For definite integrals, check that the sign and rough size of the value make sense for the integrand on that interval.
+
+**Which integration methods are in Edexcel IAL Maths Unit P4?**
+Unit P4 of the Edexcel IAL Mathematics specification (YMA01) includes integration by substitution, integration by parts and integrating rational functions using partial fractions, in topics 6.2 and 6.3.
+
 ## Next steps
 
 Work through the [practice questions](/resources/edexcel-ial-mathematics-integration-by-substitution-integration-by-parts-and-practice/), then return to the [study guide](/resources/edexcel-ial-mathematics-integration-by-substitution-integration-by-parts-and/) for any method that went wrong.

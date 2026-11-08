@@ -241,6 +241,19 @@ Velocity from 8 to −4 in 6 s: a = −2 m s⁻², rest at t = 4, displacement 1
   <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the suvat equations for constant acceleration?**
+The equations are v = u + at, s = ut + ½at², s = vt − ½at², s = ½(u + v)t and v² = u² + 2as. Each one leaves out one of s, u, v, a and t, so choose the equation without the quantity you neither have nor need.
+
+**Are the suvat equations in the Edexcel IAL formulae booklet?**
+No. The Edexcel IAL Mathematics specification (YMA01) lists the constant acceleration formulae for Unit M1 as formulae you are expected to know, and they are not given in the formulae booklet.
+
+**What does the area under a velocity-time graph give?**
+The area under a velocity-time graph gives displacement, and its gradient gives acceleration. Area below the time axis is negative displacement, but it counts as positive when finding total distance.
+
+**How do you find when a particle is due north of the origin?**
+Write its position vector as r = r₀ + vt, then set the i component equal to zero and solve for t. Substitute that time into the j component to find how far north it is.
 
 ## Official syllabus
 

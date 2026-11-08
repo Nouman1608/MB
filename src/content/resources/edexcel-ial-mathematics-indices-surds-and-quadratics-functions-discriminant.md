@@ -327,6 +327,23 @@ For no real roots you need k² − 8k − 48 < 0. The quadratic k² − 8k − 4
 - Mixing up b and −b in the formula, or dropping brackets when b is negative.
 - Writing "b² − 4ac < 0, so the roots are negative". Negative discriminant means no real roots, nothing about sign.
 
+## Frequently asked questions
+
+**What does a negative power mean in indices?**
+A negative power means a reciprocal, so a^(−n) = 1/aⁿ. It does not make the number negative, so (2/3)^(−2) is 9/4.
+
+**What is a surd?**
+A surd is an irrational root, such as √2 or ∛5, which cannot be written exactly as a fraction of integers. Surds should be left in exact form unless the question asks for a decimal.
+
+**How do you complete the square when the coefficient of x² is not 1?**
+Take the factor a out of the x² and x terms first, complete the square inside the bracket, then multiply back out to find the constant q in a(x + p)² + q. Forgetting to take out a gives the wrong constant term.
+
+**Does a negative discriminant mean the roots are negative?**
+No. A negative discriminant means the quadratic has no real roots at all and the whole graph stays on one side of the x-axis; it says nothing about the sign of any roots.
+
+**Which topics are in Edexcel IAL Maths P1 section 1?**
+Unit P1 section 1 of the Edexcel IAL Mathematics specification (YMA01) covers the laws of indices for rational exponents, surds including rationalising denominators, quadratic functions and their graphs, the discriminant and completing the square.
+
 ## Next steps
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-practice/), then use the [revision notes](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-revision-notes/) before a test. Related material for the wider unit is in [Pure Mathematics 1](/resources/a-level-edexcel-mathematics-pure-mathematics-1/), the [Pure 1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/) and the [Pure 1 practice questions](/resources/edexcel-a-level-mathematics-pure1-practice/).

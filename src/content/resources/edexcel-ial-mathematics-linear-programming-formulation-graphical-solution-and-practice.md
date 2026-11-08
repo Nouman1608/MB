@@ -142,6 +142,20 @@ x, y, z non-negative integers [1]. **[6]**
 - Rounding to an integer without testing every constraint.
 - Stopping at the objective value without stating the plan.
 
+## Frequently asked questions
+
+**What must a full linear programming formulation include?**
+Define the decision variables with their meaning and units, write the objective function stating whether it is maximised or minimised, give one inequality per constraint, and add non-negativity and any integer conditions. Leaving out the variable definitions is a common way to lose a mark.
+
+**Which way should the ruler move when minimising in linear programming?**
+When minimising, slide the objective line from the origin outwards and the first point of the feasible region it touches is optimal. When maximising, the last point touched is optimal.
+
+**Can you round the vertex solution to get an integer answer?**
+No. Rounding may give a point outside the feasible region or one that is feasible but not the best. Test nearby integer points against every constraint and justify why nothing better exists.
+
+**Why do ratio constraints often go wrong?**
+Wording such as "at least twice as many A as B" is easy to reverse. It means x ≥ 2y when x counts A, so check each inequality against the wording with a pair of numbers.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and/).

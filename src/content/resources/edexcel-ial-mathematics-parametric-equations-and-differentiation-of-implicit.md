@@ -311,6 +311,20 @@ dh/dt = 9(20 − k√h)/(πh²)
 - Differentiating a volume formula that still has two variables in it.
 - Ignoring a restriction on t after eliminating the parameter.
 
+## Frequently asked questions
+
+**What is a parametric equation?**
+A curve is given parametrically when x and y are both written as functions of a third variable, the parameter, usually t or θ. Each value of the parameter gives one point on the curve.
+
+**How do you differentiate y² with respect to x?**
+Use the chain rule: d/dx (y²) = 2y dy/dx. In general d/dx [f(y)] = f′(y) × dy/dx.
+
+**How do you find stationary points on an implicit curve?**
+Find dy/dx, set its numerator equal to zero to get a relation between x and y, then substitute that relation into the curve's equation to find the coordinates.
+
+**Is solving differential equations part of this P4 topic?**
+Not in this section. Forming differential equations is topic 5.2 of Edexcel IAL Unit P4, while solving them is topic 6.4 and is covered separately.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, unit P4 sections 3.1, 5.1 and 5.2.

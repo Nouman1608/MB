@@ -217,6 +217,20 @@ The answer is 15 small and 9 large bouquets, with profit £135. All 54 lily stem
 - Choosing the nearest integer point without checking every constraint.
 - Giving the objective value but not the plan, or the plan without context.
 
+## Frequently asked questions
+
+**What is a linear program?**
+A linear program has decision variables, an objective function to maximise or minimise, and a set of linear inequality constraints including non-negativity. The aim is to find the values of the variables that give the best objective value.
+
+**What is the vertex method in linear programming?**
+List the vertices of the feasible region, calculate the objective function at each one, and choose the largest value to maximise or the smallest to minimise. For a bounded region the best value occurs at a vertex, or along an edge between two vertices.
+
+**How do you find a vertex that is not on a grid line?**
+Solve the equations of the two boundary lines that meet there simultaneously. Reading an unclear vertex off the graph instead of solving loses accuracy and marks.
+
+**Why must you interpret a linear programming answer in context?**
+The Edexcel IAL D1 specification expects you to model and interpret situations, so a final answer should state the best plan in words, its objective value, and any resource left unused, not just the numbers.
+
 ## Next steps
 
 Condense the method with the [revision notes](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-ial-mathematics-linear-programming-formulation-graphical-solution-and-practice/). Tick topics off on the [checklist](/checklists/edexcel/a-level/mathematics/) and see the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) for related units.

@@ -218,6 +218,20 @@ r = Sxy / √(Sxx Syy), with −1 ≤ r ≤ 1.
 - Claiming a strong r proves cause, or that r = 0 means there is no relationship at all.
 - Writing the final line in x and y when the question uses other letters.
 
+## Frequently asked questions
+
+**What is the difference between mutually exclusive and independent events?**
+Mutually exclusive events cannot both happen, so P(A ∩ B) = 0. Independent events have P(A ∩ B) = P(A) P(B). Two events with non-zero probabilities cannot be both exclusive and independent.
+
+**How do you find the regression line of y on x?**
+Calculate Sxx and Sxy, then b = Sxy ÷ Sxx and a = ȳ − b x̄, giving y = a + bx. The line always passes through the mean point (x̄, ȳ), which is a useful check.
+
+**Does coding the data change the correlation coefficient?**
+Coding with positive multipliers and added constants leaves r unchanged. If one variable is multiplied by a negative number, r changes sign but keeps its size.
+
+**Are significance tests for correlation in Edexcel IAL S1?**
+No. For Unit S1 of the Edexcel IAL Mathematics specification (YMA01), derivations and tests of significance for the product moment correlation coefficient are not required.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification, Issue 3, April 2019, published by Pearson Education Limited. Unit S1: Statistics 1, sections 3 and 4.

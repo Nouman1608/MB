@@ -225,6 +225,23 @@ To sketch y = −f(x + a) on a trig graph, translate first, then reflect in the 
 - Using a decimal when the question wants an exact value such as √2/2 or π/4.
 - Not stating the range of a function that is restricted by its domain, or the range of a composite.
 
+## Frequently asked questions
+
+**What is the difference between y = |f(x)| and y = f(|x|)?**
+For y = |f(x)|, every part of the graph below the x-axis is reflected upwards in the x-axis. For y = f(|x|), the part with x < 0 is deleted and replaced by a reflection of the x ≥ 0 part in the y-axis, so the graph is symmetrical about the y-axis.
+
+**Does fg(x) mean do f first or g first?**
+fg(x) means f(g(x)), so g is applied first and then f. In general fg(x) and gf(x) are different functions.
+
+**How do you find the domain of an inverse function?**
+The domain of f⁻¹ is the range of f, and the range of f⁻¹ is the domain of f. A many-one function must have its domain restricted until it is one-one before an inverse exists.
+
+**Why must you check solutions of a modulus equation?**
+Solving |ax + b| = cx + d by two cases can produce a value that comes from the wrong branch, and a modulus can never equal a negative number. Substitute each answer into the original equation and reject any that fail.
+
+**Which functions topics are in Edexcel IAL Mathematics Unit P3?**
+Section 1 of Unit P3 (qualification code YMA01) covers rational expressions, functions and inverses, the modulus function, and combined graph transformations. The specification states that the graph of y = f(ax + b) is not required.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification Issue 3, April 2019, Unit P3 content section 1 (Algebra and functions), topics 1.1 to 1.4. Pearson Education Limited.

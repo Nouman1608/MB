@@ -299,6 +299,23 @@ The value is **1 + 3 ln 5 − 5 ln 2**. If the numerator has the same degree as 
 - Giving a repeated factor two logarithms. The term B/(x − 1)² integrates to −B/(x − 1), not a logarithm.
 - Missing + c on indefinite integrals, or leaving it on a definite one.
 
+## Frequently asked questions
+
+**When is the substitution given in Edexcel IAL integration questions?**
+The specification expects you to choose a substitution yourself in simple cases such as x√(x − 2), but for harder integrals the substitution is given in the question.
+
+**How do you integrate ln x?**
+Write ln x as 1 × ln x and use integration by parts with u = ln x and dv/dx = 1. This gives ∫ ln x dx = x ln x − x + c.
+
+**What do you do when integration by parts returns the original integral?**
+For integrals such as eᵏˣ multiplied by sin or cos, call the integral I, apply parts twice using the same type of choice for u each time, and then rearrange the resulting equation to solve for I.
+
+**How do you integrate a repeated factor in partial fractions?**
+A repeated factor such as (x − 1)² gives the terms A/(x − 1) + B/(x − 1)². The first integrates to a logarithm, but B/(x − 1)² integrates to −B/(x − 1), not a logarithm.
+
+**Do you have to change the limits when using substitution?**
+For a definite integral you can either convert the limits to u-values and evaluate in u, or substitute back to x and use the original limits. What you must not do is use x-limits on an expression in u.
+
 ## Next steps
 
 Condense this into the [revision notes](/resources/edexcel-ial-mathematics-integration-by-substitution-integration-by-parts-and-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-integration-by-substitution-integration-by-parts-and-practice/). Tick off topics on the [checklist](/checklists/edexcel/a-level/mathematics/) and take a [free 10-minute diagnostic](/diagnostics/) when you want to see what is left.

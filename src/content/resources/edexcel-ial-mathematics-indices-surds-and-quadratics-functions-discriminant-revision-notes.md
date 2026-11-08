@@ -281,6 +281,23 @@ Do these without notes, by hand where you can.
 - Setting the discriminant greater than zero when the question says "no real roots", or stopping before solving for k.
 - Sketching a parabola with no coordinates labelled, or with a turning point not on the axis of symmetry.
 
+## Frequently asked questions
+
+**What does the discriminant tell you about a quadratic?**
+If b² − 4ac > 0 there are two different real roots and the graph cuts the x-axis twice. If it equals 0 there is one repeated root and the turning point is on the x-axis, and if it is negative there are no real roots.
+
+**How do you find the turning point from completed-square form?**
+For a(x + p)² + q the turning point is (−p, q): the x-coordinate changes sign and the y-coordinate does not. It is a minimum if a > 0 and a maximum if a < 0.
+
+**Is √(a + b) equal to √a + √b?**
+No. A square root cannot be split over a sum, although √a × √b = √(ab) and √a ÷ √b = √(a/b) are both true.
+
+**Do you need to memorise the quadratic formula for Edexcel IAL Maths?**
+Yes. The Edexcel IAL Mathematics specification (YMA01) lists the quadratic formula among the formulae students are expected to know for Unit P1.
+
+**When should you factorise, use the formula or complete the square?**
+Factorise when the roots look rational, use the formula for irrational roots, and complete the square when the question asks for it or when you need the turning point.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019 (first teaching September 2018), published by Pearson Education Limited: Unit P1, topics 1.1 to 1.5.

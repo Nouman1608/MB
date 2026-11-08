@@ -278,6 +278,20 @@ Test any expansion with a small value such as x = 0.01. Work out the original ex
 - Giving |x| < b/a without absolute value signs, or using a wrong ratio such as 3/2 where 2/3 is needed.
 - Not combining ranges when a rational function has two denominators.
 
+## Frequently asked questions
+
+**What is the difference between a counter example and a proof by contradiction?**
+A counter example disproves a claim with one case that breaks it. A proof by contradiction proves a claim by showing that assuming it is false leads to something impossible.
+
+**When does a binomial expansion terminate?**
+Only when the power n is a positive integer (or zero). For negative or fractional powers the expansion is an infinite series, valid for |x| < 1 in (1 + x)ⁿ.
+
+**Are quadratic factors in partial fractions required in Edexcel IAL P4?**
+No. Unit P4 of the Edexcel IAL Mathematics specification (YMA01) covers partial fractions with linear and repeated linear factors, and quadratic factors such as x² + a are not required.
+
+**How can you check a binomial expansion?**
+Substitute a small value such as x = 0.01 into the original expression and into your series. The two values should agree closely if the expansion is right.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Pearson Education Limited. Unit P4: Pure Mathematics 4, sections 1.1, 2.1 and 4.1.
