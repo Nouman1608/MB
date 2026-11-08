@@ -155,6 +155,20 @@ These questions cover section 3.5, Decision making to improve financial performa
 - All free 10-minute diagnostics: [/diagnostics/](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**How do you tell whether a variance is favourable or adverse?**
+Judge it by its effect on profit, not by whether the number is bigger or smaller: higher revenue or lower costs than budget are favourable, and lower revenue or higher costs are adverse. Labelling by the size of the number is a common error.
+
+**Should break-even output be rounded up or down?**
+Round break-even output up to the next whole unit when units cannot be split, because rounding down leaves the business just short of covering its costs. Rounding down is a frequent slip.
+
+**How should you recommend a source of finance in AQA Business?**
+Link the source to the firm's need, its risk and the time horizon, and use the case figures, such as the debt proportion of long-term funding, to support a clear judgement.
+
+**Why should you show the formula before substituting numbers?**
+Writing the formula first shows the examiner your method, so you can earn method marks even if an arithmetic slip affects the final answer.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7131/7132), section 3.5 Decision making to improve financial performance, subsections 3.5.1 to 3.5.4, published by AQA.

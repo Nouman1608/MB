@@ -234,6 +234,20 @@ These notes condense section 3.5, Decision making to improve financial performan
 - Evaluating with a list and no judgement or recommendation.
 - Ignoring the case data on size, competition and timing.
 
+## Frequently asked questions
+
+**How do you calculate contribution per unit?**
+Contribution per unit = selling price − variable cost per unit. Dividing by total variable cost rather than cost per unit is a common mistake.
+
+**How do changes in price and costs affect a break-even chart?**
+A higher price makes the revenue line steeper and break-even falls. A higher variable cost makes the total cost line steeper and break-even rises. Higher fixed costs start the total cost line higher with the same slope, so break-even rises.
+
+**What is the difference between profit and profitability?**
+Profit is an amount of money, while profitability compares profit with revenue or with the investment made, for example as a margin or return on investment.
+
+**What is debt factoring?**
+Debt factoring means selling invoices to a factor, which advances most of their value straight away in return for a fee, so the business receives cash before its customers pay.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7131/7132), section 3.5 Decision making to improve financial performance, subsections 3.5.1 to 3.5.4, published by AQA.

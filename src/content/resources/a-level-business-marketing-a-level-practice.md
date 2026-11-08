@@ -13,14 +13,16 @@ order: 8
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-a-cambridge-alevel-business"
-description: "Original exam-style questions with full worked answers on centred moving averages, seasonal variation, limitations of sales forecasting, correlation, cross elasticity of demand and international marketing strategy, for Cambridge AS & A Level Business (9609)."
+description: "Worked practice questions on moving averages, seasonal variation, forecasting, correlation, cross elasticity and global marketing for Cambridge 9609 Business."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -93,3 +95,17 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 - Assuming that correlation proves cause and effect.
 - Forgetting the sign or the interpretation in elasticity answers.
 - Giving no working in calculation questions, which throws away method marks.
+
+## Frequently asked questions
+
+**How do you calculate a centred moving average?**
+Add two consecutive four-quarter totals to get an eight-quarter total, then divide by 8. Not knowing this method is one of the most common ways marks are lost.
+
+**How is seasonal variation calculated?**
+Seasonal variation = actual value − trend value, and the sign must be kept. Calculating trend − actual reverses the answer.
+
+**Does a strong correlation prove cause and effect?**
+No. A strong correlation between two variables, such as advertising spending and sales, shows they move together but does not prove that one causes the other.
+
+**Which Cambridge 9609 paper do these marketing questions practise?**
+Each question practises a skill tested in the June 2024 A Level Paper 32. Show working in every calculation, because method marks are lost when only a final answer is given.

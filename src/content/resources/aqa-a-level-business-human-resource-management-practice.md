@@ -140,6 +140,20 @@ This set covers section 3.6 (Decision making to improve human resource performan
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak area.
 - [Book a free trial class](/trial/) if you want help with evaluation answers.
 
+## Frequently asked questions
+
+**How do you calculate labour turnover?**
+Labour turnover = number of staff leaving ÷ average number employed × 100. Using the closing headcount instead of the average is the most common error.
+
+**What is the difference between labour productivity and labour cost per unit?**
+Labour productivity measures output per worker, while labour cost per unit measures how much labour costs for each unit produced. Confusing the two loses marks.
+
+**How should you use motivation theories in an answer?**
+Use each theory to advise the manager in the case on what to do, rather than only describing the theory. Describing a theory without advising the manager is a frequent weakness.
+
+**How are Hackman and Oldham's job characteristics used in AQA Business?**
+Link each characteristic to the specific job described in the case, showing how the job could be redesigned. Describing the characteristics without that link earns little credit.
+
 ## Official syllabus
 
 AQA, AS and A-level Business (7131 and 7132) specification, section 3.6 Decision making to improve human resource performance.

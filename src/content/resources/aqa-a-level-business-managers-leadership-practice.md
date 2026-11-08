@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
-description: "Original practice paper in the section layout of AQA A-Level Business (7132) Paper 1 (15 multiple-choice questions, short-answer questions including a decision-tree net gain calculation, and a choice of essays in Sections C and D), with worked answers, all on Topic 2 Managers, leadership and decision making."
+description: "Practice paper in the AQA A-level Business 7132 Paper 1 layout, with worked answers on Topic 2: leadership styles, decision trees and stakeholder mapping."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -215,6 +217,20 @@ gain calculated, and names risks, rewards, uncertainty and opportunity cost as p
 Question 21(c) therefore asks what the net-gain figures leave out. An answer that calculates both net
 gains correctly but concludes "choose Option A because its net gain is higher" misses that Option A's
 $3,000 advantage rests on estimated probabilities and carries a 45% chance of a $20,000 loss.
+
+## Frequently asked questions
+
+**How is AQA A-level Business Paper 1 structured?**
+Paper 1 is a 2-hour written exam worth 100 marks: Section A has 15 multiple-choice questions (15 marks), Section B has short-answer questions (35 marks), and Sections C and D each ask for one essay from a choice of two, worth 25 marks each.
+
+**Is AQA Business Paper 1 set only on Topic 2?**
+No. The real Paper 1 is set on all of the A-level content, so a paper built only on Topic 2 is topic practice rather than a full mock.
+
+**What does a "justify" question need in AQA Business?**
+A clear choice plus reasons tied to the details of the scenario. Marks come from applying the approach to the business described, not from defining the term in general.
+
+**What does an "evaluate" essay need?**
+A balanced argument that reaches a supported judgement. In Sections C and D this means weighing the issue in context and concluding to what extent the statement holds.
 
 ## Official syllabus
 
