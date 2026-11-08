@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-crime-deviance-theory-methods-7192"
+  - qualification: "a-level"
+    topic: "paper-3-crime-deviance-theory-methods-7192"
+    subtopic: "crime-and-deviance-7192"
 description: "The content areas of AQA A-Level Sociology (7192) Paper 3's Crime and Deviance sub-topic -- social order and control, the social distribution of crime, globalisation, media, green and state crime, and criminal justice -- against the course's two core themes."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
