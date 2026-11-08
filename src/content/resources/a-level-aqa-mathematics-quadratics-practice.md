@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "b-algebra-and-functions-aqa-alevel-maths"
     subtopic: "b5-inequalities-aqa-alevel-maths"
-description: "Original exam-style practice questions with full worked answers on the discriminant, completing the square, simultaneous linear-quadratic equations, and linear and quadratic inequalities, for AQA A-Level Mathematics (7357), B3-B5."
+description: "AQA A-level Maths 7357 B3-B5 practice with worked answers: discriminant, completing the square, linear-quadratic simultaneous equations and inequalities."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
