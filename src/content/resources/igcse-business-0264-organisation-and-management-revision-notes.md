@@ -239,6 +239,23 @@ Answer from the employee's viewpoint when the question asks about employees. Ben
 
 Next, work through the [practice questions](/resources/igcse-business-0264-organisation-and-management-practice/) and recheck any gaps in the [study guide](/resources/igcse-business-0264-organisation-and-management/).
 
+## Frequently asked questions
+
+**What is the difference between span of control and levels of hierarchy?**
+Span of control is the number of employees who report directly to one manager, so it runs across the chart. Levels of hierarchy are the ranks from the top of the business downwards.
+
+**What is the difference between democratic and laissez-faire leadership?**
+In democratic leadership the leader asks staff for their views but still takes the final decision. In laissez-faire leadership the leader sets the aim and leaves the staff to decide how to reach it.
+
+**Is redundancy the same as being dismissed?**
+No. Redundancy is about the job no longer being needed, not the person's behaviour or performance, whereas dismissal for misconduct is about the employee.
+
+**What is the difference between downsizing and redundancy?**
+Downsizing is the policy of deliberately cutting the number of staff. Redundancy is what happens to each employee affected when their job is no longer needed.
+
+**What does a "justify" question need in Cambridge IGCSE Business 0264?**
+It needs evidence from the case, a reason for your choice and a reason why the alternative is less suitable. Use the business's own figures, such as span, hours or pay, wherever the case gives them.
+
 ## Official syllabus
 
 Aligned to section 2.2 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

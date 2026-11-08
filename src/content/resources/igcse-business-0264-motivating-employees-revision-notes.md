@@ -278,6 +278,23 @@ A short, strong answer names the theory, picks out the clue from the case, and l
 - Listing advantages only, with no disadvantage or limit.
 - Recommending a method with no reason why it beats the alternative.
 
+## Frequently asked questions
+
+**What is the difference between a bonus, commission and profit sharing?**
+A bonus is an extra payment for meeting a target. Commission is a percentage of the sales a person makes, and profit sharing gives employees a share of the business's profit. Confusing these three methods is a common way to lose marks.
+
+**How do you calculate the absenteeism rate?**
+Absenteeism rate (%) = days lost ÷ days that could have been worked × 100. This is the usual standard form; the Cambridge IGCSE Business 0264 formulas list gives only labour productivity, as output per period divided by number of employees.
+
+**Which motivation methods suit a business with very little cash?**
+Low-cost non-financial methods such as praise and employee of the month are the most realistic choices. A small business short of cash may prefer praise and flexible duties to a costly bonus or profit-sharing scheme.
+
+**How can a business tell whether a motivation method has worked?**
+It can measure labour productivity, absenteeism and labour turnover after the change and compare them with the figures before. Effects can take time, since training and promotion pay off over months while a bonus works faster.
+
+**Can motivation methods be combined?**
+Yes. Fair pay, which Herzberg treats as a hygiene factor, combined with recognition often works better than either on its own.
+
 ## Official syllabus
 
 These notes follow section 2.4 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

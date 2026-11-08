@@ -17,10 +17,12 @@ syllabusTopics:
 description: "Condensed recall notes on niche/mass marketing, market research, the four Ps, and marketing strategy for Cambridge IGCSE Business Studies (0450)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -206,3 +208,17 @@ maturity, decline. 3. No — the concept of price elasticity of demand is examin
 calculations are not. 4. Because penetration pricing (low initial price) suits gaining market share at
 volume, which fits mass marketing's scale-based strategy rather than a niche product's premium
 positioning. 5. Any two valid examples, e.g. joint ventures and licensing.
+
+## Frequently asked questions
+
+**Is primary research better than secondary research?**
+Neither is better in every case. The skill assessed in Cambridge IGCSE Business Studies 0450 is weighing the cost and reliability of primary research against the speed and lower cost of secondary research for the specific business in the question.
+
+**What is the difference between a joint venture and licensing?**
+A joint venture means partnering with a local business, while licensing means allowing a foreign business to produce or sell under licence. The syllabus gives both as examples of ways to overcome barriers to entering a foreign market.
+
+**Should a marketing strategy answer cover the whole marketing mix?**
+Yes. Strategy questions usually expect product, price, place and promotion to be adapted together for the scenario, and treating market entry as a single-element decision leads to thin, low-mark answers.
+
+**Is 0450 being replaced?**
+Yes. 0450 last examines in 2026, and Cambridge replaces it with 0264 (Cambridge IGCSE Business) from 2027, with revised content and assessment weightings. Check which syllabus code your own examination series uses.

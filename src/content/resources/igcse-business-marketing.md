@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "marketing-cambridge-igcse-business"
-description: "Niche versus mass marketing, market segmentation, market research methods, the four Ps of the marketing mix, and marketing strategy for entering foreign markets -- the full content of Topic 3 for Cambridge IGCSE Business Studies 0450, 2026 series."
+description: "Study guide to Topic 3 Marketing for Cambridge IGCSE Business Studies 0450: niche and mass marketing, segmentation, market research, the four Ps and strategy."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 3 Marketing**, for Cambridge IGCSE Business
@@ -218,6 +220,23 @@ sure you can both draw and interpret a life cycle diagram and justify
 a pricing method against the specific circumstances given, since
 "recommend and justify" questions carry Analysis and Evaluation marks
 (AO3 and AO4) that are not available from definitions alone.
+
+## Frequently asked questions
+
+**What is the difference between niche and mass marketing?**
+Niche marketing targets a small, specific segment of the market and often allows premium prices with less direct competition, but limits the customer base. Mass marketing targets the whole market with a single offer, gaining economies of scale but facing more competitors.
+
+**Is the price elasticity of demand formula assessed in IGCSE Business Studies 0450?**
+No. The syllabus states that the PED formula and calculations are not assessed. You need to understand the difference between elastic and inelastic demand and why it matters for pricing decisions.
+
+**What are the stages of the product life cycle?**
+Introduction, growth, maturity and decline. You should be able to draw and interpret a product life cycle diagram and explain how its stages influence promotion and pricing, including the use of extension strategies.
+
+**What are the main pricing methods in 0450?**
+Cost-plus, competitive, penetration, skimming and promotional pricing. Be ready to justify one method against the circumstances of the business in the question.
+
+**How can a business overcome the problems of entering a foreign market?**
+The syllabus gives joint ventures and licensing as methods. Both help a business deal with problems such as cultural differences and a lack of local knowledge.
 
 ## Official syllabus
 

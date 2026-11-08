@@ -269,6 +269,20 @@ Cambridge lists these command words with the meanings below.
 - Making a one-sided judgement that ignores the drawbacks of the type chosen.
 - Writing "profit" when the question asks for revenue or dividends.
 
+## Frequently asked questions
+
+**What is the difference between a private and a public limited company?**
+A private limited company (Ltd) cannot offer its shares to the general public, so they are sold privately. A public limited company (plc) can sell shares to the public, usually through a stock exchange, so it can raise much larger sums.
+
+**Does limited liability mean a company cannot fail?**
+No. A limited company can still fail; limited liability means the owners lose only the money they put into the business, while their personal assets are protected from its debts.
+
+**Is a franchisee an employee of the franchisor?**
+No. The franchisee owns its outlet and pays the franchisor for the right to use the brand, products and methods, usually through an initial fee plus a regular royalty.
+
+**What is a social enterprise?**
+A social enterprise is a business that trades to achieve social or environmental aims, mainly reinvesting any profit in those aims rather than paying it to owners. It still needs sales revenue to cover its costs.
+
 ## Official syllabus
 
 Aligned to section 1.4 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

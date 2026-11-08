@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "influences-on-business-oxfordaqa-igcse-business"
-description: "Condensed recall notes on technology, ethics, the economic climate, globalisation, legislation and competition for OxfordAQA International GCSE Business Topic 2 (9225)."
+description: "Revision notes on technology, ethics, the economic climate, globalisation, legislation and competition for OxfordAQA International GCSE Business 9225 Topic 2."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -204,3 +206,16 @@ undercutting through non-compliance.
   <figcaption>Sharia-compliant finance avoids interest by sharing profit or backing finance with an asset.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is globalisation an opportunity or a threat for a business?**
+Both at once. Globalisation brings bigger markets and cheaper inputs, but it also brings new competitors.
+
+**How does technology influence a business?**
+New ICT and e-commerce widen the market a business can reach and its channels for communicating with stakeholders. They also raise the cost of staying up to date.
+
+**How do employment levels affect a business?**
+Changes in the level of employment change how much households have to spend, which affects demand for the business's products.
+
+**Is acting ethically free for a business?**
+No. Acting beyond the legal minimum can cost profit directly through higher costs or lower short-term margins, even though it protects reputation and stakeholder trust, so state the trade-off.

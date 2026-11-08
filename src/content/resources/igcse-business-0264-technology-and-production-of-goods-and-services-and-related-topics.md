@@ -199,6 +199,20 @@ In Corrimar's case, the wastage saving and the solar panels reduce costs, while 
 - Confusing reusing with recycling.
 - Forgetting to use the figures in the stem when asked to apply or evaluate.
 
+## Frequently asked questions
+
+**What are the disadvantages of new technology for employees?**
+Some jobs disappear, workers may need to retrain and may fear redundancy, and work can become repetitive or machine-paced. Technology can also bring benefits, such as less heavy or dangerous work and chances to learn new skills.
+
+**Why is 3D printing useful for prototypes and small runs?**
+3D printing builds an object layer by layer from a digital design and needs no special mould or tool for each new design. That makes one-off items and small runs cheaper and often quicker to produce.
+
+**Is sustainable production always cheaper for a business?**
+No. Sustainable production can lower running costs over time, but equipment, new materials and redesign often cost more at the start, and the savings may take years to arrive.
+
+**Do you need to use the exact examples named in the 0264 syllabus?**
+Not always. The syllabus lists examples such as CAM, 3D printing and contactless payments with "e.g.", so be ready to use other sensible examples of the same ideas.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education): sections 4.2.1 and 4.3.1.

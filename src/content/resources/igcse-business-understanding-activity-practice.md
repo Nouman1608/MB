@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "understanding-business-activity-cambridge-igcse-business"
-description: "Original exam-style practice questions with full worked answers on added value, ownership, stakeholders and business size for Cambridge IGCSE Business Studies 0450."
+description: "Original practice questions with worked answers on added value, sectors, ownership, stakeholders and business size for Cambridge IGCSE Business Studies 0450."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -134,3 +136,20 @@ syllabus code your own examination series uses.
 - Confusing needs with wants, or defining opportunity cost as simply "the cost of something".
 - Placing a business in the wrong economic sector, e.g. calling a bakery "primary" rather than "secondary".
 - Assuming shareholders and directors always want the same thing.
+
+## Frequently asked questions
+
+**Which syllabus do these Understanding business activity questions cover?**
+They cover Topic 1 Understanding business activity of Cambridge IGCSE Business Studies 0450, with short-answer and structured questions. They are original practice questions, not past-paper questions.
+
+**Is added value the same as profit?**
+No, and confusing the two is a common way to lose marks. Wages, rent and other costs still have to be paid out of added value before what remains counts as profit.
+
+**How do you write a strong answer about stakeholders?**
+Do not just list the groups. Identify a specific conflict between two stakeholders, explain why their interests oppose each other, and say which the business should prioritise and why.
+
+**Why do conclusions lose marks in structured business questions?**
+A conclusion with no justification earns little. Support the judgement with reasons drawn from the business in the question, such as its size, finance needs or the risk to the owner.
+
+**Can you measure business size with a single measure?**
+You can use one, but you should acknowledge its limits, since a business can look small on one measure, such as employee numbers, and large on another. Using a single measure without comment is a common reason for lost marks.

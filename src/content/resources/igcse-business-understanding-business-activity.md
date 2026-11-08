@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "understanding-business-activity-cambridge-igcse-business"
-description: "Needs, wants and scarcity, business classification, enterprise and business growth, types of business organisation, and business/stakeholder objectives -- the full content of Topic 1 for Cambridge IGCSE Business Studies 0450, 2026 series."
+description: "Study guide to Topic 1 Understanding business activity for Cambridge IGCSE Business Studies 0450: needs and wants, sectors, growth, ownership and stakeholders."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 Understanding business activity**, for
@@ -251,6 +253,23 @@ prioritise and why.
   <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**Is profit a valid measure of business size?**
+No. The Cambridge IGCSE Business Studies 0450 syllabus excludes profit, because a small business can be highly profitable and a large one can make a loss. Valid measures include the number employed, the value of output and capital employed.
+
+**What is opportunity cost?**
+Opportunity cost is the value of the next best alternative given up when a choice is made. It exists because resources are scarce while human wants are unlimited.
+
+**What is the divorce of ownership from control?**
+In a public limited company, shareholders own the business but directors run it day to day, and the two groups' objectives may differ. Directors may pursue growth or their own status while shareholders want dividends.
+
+**What is the difference between internal and external growth?**
+Internal (organic) growth comes from reinvesting profit to raise sales, open new outlets or develop new products; it keeps owners in control but is slow. External growth through a merger or takeover is faster but can bring integration problems and culture clashes.
+
+**Why do new businesses face a greater risk of failure?**
+New businesses typically have less capital to fall back on, no track record with lenders or customers, and less management experience than established ones.
 
 ## Official syllabus
 

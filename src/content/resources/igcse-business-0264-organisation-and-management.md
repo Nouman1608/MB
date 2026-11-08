@@ -290,6 +290,20 @@ Answer the question asked: for benefits to employees, do not drift into effects 
 
 Continue with the [revision notes](/resources/igcse-business-0264-organisation-and-management-revision-notes/), then the [practice questions](/resources/igcse-business-0264-organisation-and-management-practice/).
 
+## Frequently asked questions
+
+**What is the difference between a tall and a flat organisational structure?**
+A tall structure has many levels of hierarchy, narrow spans of control and a long chain of command. A flat structure has few levels, wide spans and a short chain, so messages pass more quickly and there are fewer managers to pay.
+
+**What is delegation in IGCSE Business?**
+Delegation means passing the authority to carry out a task, and to make decisions about it, to someone lower in the hierarchy. The manager remains accountable for the result, so it is more than simply giving out work.
+
+**When is an autocratic leadership style the best choice?**
+Autocratic leadership, where the leader decides alone, suits urgent jobs, unskilled or newly started staff and safety tasks that need strict instructions. Its cost is that staff may feel unvalued, so the reasons should be explained to them.
+
+**What costs does a business face when it makes employees redundant?**
+It pays the employees who leave, morale may fall among those who stay, and the skills of the departing staff are lost. Legal controls such as unfair dismissal also mean the choice of who goes must be fair and based on reasons.
+
 ## Official syllabus
 
 Aligned to section 2.2 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).
