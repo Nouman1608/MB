@@ -299,6 +299,20 @@ For a polyamide, cut between C=O and N–H in the same way and give back –OH (
 
 Condense this into recall sheets with the [Polyesters and polyamides revision notes](/resources/ocr-a-level-chemistry-polyesters-and-polyamides-revision-notes/), then test yourself on the [Polyesters and polyamides practice questions](/resources/ocr-a-level-chemistry-polyesters-and-polyamides-practice/). The amine reactions behind polyamide hydrolysis are in [Amines](/resources/ocr-a-level-chemistry-amines/), and the techniques for planning routes between functional groups are in [Organic synthesis](/resources/ocr-a-level-chemistry-organic-synthesis/).
 
+## Frequently asked questions
+
+**What is a polyester in OCR A Level Chemistry?**
+In OCR A Level Chemistry A (H432), a polyester is a condensation polymer whose monomer units are joined by ester links, –COO–. It forms from a dicarboxylic acid or diacyl chloride with a diol, or from a single hydroxycarboxylic acid.
+
+**What is a polyamide?**
+A polyamide is a condensation polymer whose monomer units are joined by amide links, –CONH–, each of which is a secondary amide. It forms from a dicarboxylic acid or diacyl chloride with a diamine, or from a single aminocarboxylic acid.
+
+**How do you find the monomers from a section of a condensation polymer?**
+Cut each ester link between the C=O carbon and the next oxygen, or each amide link between the C=O carbon and the N–H. Then add –OH (or –Cl for an acyl chloride) back to the carbonyl end and H back to the oxygen or nitrogen end.
+
+**How many water molecules are lost when a polyester chain forms?**
+A chain of n repeat units made from a diacid and a diol has 2n − 1 links, so 2n − 1 water molecules are lost. For a long chain this is close to 2n, so the equation is often written with 2n H₂O.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.2.3 Polyesters and polyamides, learning outcomes (a) to (c). Published by OCR.

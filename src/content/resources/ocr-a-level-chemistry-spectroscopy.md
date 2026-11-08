@@ -250,6 +250,20 @@ Compound C contains 50.8% C, 8.5% H and 40.7% O by mass. Relative atomic masses:
 - IR, mass spectra and elemental analysis first: [Analytical techniques](/resources/ocr-a-level-chemistry-analytical-techniques/)
 - Ten-minute course checks: [Marlbridge diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Why is TMS used as the standard in NMR spectroscopy?**
+Tetramethylsilane, Si(CH₃)₄, has 12 equivalent hydrogens, so it gives one sharp signal, defined as δ = 0, that lies away from almost all organic signals. It is also inert and volatile, so it does not react with the sample and is easily removed.
+
+**Why are deuterated solvents such as CDCl₃ used for proton NMR?**
+Deuterium does not absorb in the region recorded for ¹H, so a deuterated solvent gives no large signal. A solvent containing ordinary hydrogen would give a huge signal that swamps the sample's signals.
+
+**How does D₂O help identify O–H and N–H protons?**
+After running the spectrum, the sample is shaken with D₂O and run again. O–H and N–H protons exchange for deuterium, so their signal disappears from the second spectrum, while C–H protons do not exchange.
+
+**Do I need to analyse the splitting of aromatic protons for OCR?**
+No. You should recognise aromatic protons from their chemical shift, around δ 6.5–8.2 on the data used here, but you are not expected to analyse their splitting.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.3.2 Spectroscopy, learning outcomes (a) to (e). Published by OCR.

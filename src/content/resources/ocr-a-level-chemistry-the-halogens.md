@@ -262,6 +262,20 @@ You need the observations with ammonia, not the formulae of the silver–ammonia
 - Mole calculations: [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/)
 - Test yourself across topics: [free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Why do the boiling points of the halogens increase down the group?**
+Halogens are non-polar diatomic molecules held together only by London forces. Down the group the molecules have more electrons, so the London forces are stronger and more energy is needed to overcome them; the covalent X–X bond does not break on boiling.
+
+**Why are halogens oxidising agents?**
+Every halogen has an s²p⁵ outer shell, so in many redox reactions each atom gains one electron to form a 1− ion. Its oxidation number falls from 0 to −1, so the halogen is reduced and acts as an oxidising agent.
+
+**Which halogens are covered in OCR A Level Chemistry 3.1.3?**
+The OCR A Level Chemistry A (H432) specification names chlorine, bromine and iodine in this section. Fluorine and astatine are not part of the listed reactions.
+
+**What is the equation for chlorine reacting with cold dilute sodium hydroxide?**
+Cl₂ + 2NaOH → NaCl + NaClO + H₂O. One chlorine atom is reduced to −1 in NaCl and one is oxidised to +1 in NaClO, sodium chlorate(I), and the resulting solution is household bleach.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.3 The halogens, learning outcomes (a) to (g). Published by OCR.

@@ -173,6 +173,20 @@ A 2.75 g sample was heated under reflux with 40.0 cm³ of 1.00 mol dm⁻³ NaOH(
 - Printable checklist: [OCR A Level Chemistry checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Do I need to memorise polymer structures for OCR A Level Chemistry 6.2.3?**
+No. The OCR A Level Chemistry A (H432) specification states that you will not be expected to recall the structures of synthetic polyesters and polyamides or their monomers. Questions give you the monomers or a section of chain, so practise applying the rules to unfamiliar structures.
+
+**What small molecule is lost when a diacyl chloride forms a polymer?**
+Hydrogen chloride, HCl, is lost when an acyl chloride group reacts with an –OH or –NH₂ group. Water is lost only when a carboxylic acid group reacts, so giving H₂O as the by-product with a diacyl chloride is a common error.
+
+**How do you calculate the amount of NaOH needed to hydrolyse a polyester?**
+Count the ester or amide links in each repeat unit and work out the moles of repeat units from the mass and Mr. A repeat unit from a diacid and a diol contains two links, so it needs two moles of NaOH, not one.
+
+**What are the most common mistakes in polyester and polyamide questions?**
+Common errors include leaving –H or –OH on the ends of a repeat unit, putting two residues of the same monomer in a two-monomer repeat unit, giving a free –NH₂ after acid hydrolysis instead of –NH₃⁺, and giving –COOH after alkaline hydrolysis instead of –COO⁻.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.2.3 Polyesters and polyamides, learning outcomes (a) to (c). Published by OCR.

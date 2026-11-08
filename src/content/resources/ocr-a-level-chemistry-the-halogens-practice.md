@@ -187,6 +187,20 @@ Evaluate the second proposal. Refer to the chemistry of chlorine in water, the b
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OCR A Level Chemistry 3.1.3 The halogens cover?**
+Section 3.1.3 of OCR A Level Chemistry A (H432) covers the boiling points of the halogens, their redox behaviour, displacement reactions and colours, the reactivity trend, disproportionation, chlorine in water treatment and the silver nitrate test for halide ions (PAG4).
+
+**How do you write a good answer to an "evaluate" question on chlorine in water?**
+Give the chemistry of chlorine with water, a benefit such as killing bacteria, named risks such as toxic chlorine gas and chlorinated hydrocarbons, and then a clear judgement. An evaluate answer that ends without a judgement loses credit.
+
+**What are common mistakes in halogens questions?**
+Frequent errors include linking boiling point to "mass" rather than electrons and London forces, giving aqueous colours when the organic layer was asked about, leaving spectator ions in ionic equations, and writing NaClO₃ for the reaction with cold, dilute alkali.
+
+**Why must you acidify with dilute nitric acid before adding silver nitrate?**
+Acidifying removes ions such as carbonate that would also form a precipitate with silver ions. Nitric acid is used rather than hydrochloric acid, which would add chloride ions and give a false positive.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.3 The halogens, learning outcomes (a) to (g). Published by OCR.

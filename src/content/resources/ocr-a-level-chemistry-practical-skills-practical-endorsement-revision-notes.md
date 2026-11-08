@@ -331,6 +331,23 @@ Two half-cells, salt bridge, high-resistance voltmeter. E(cell) = E(positive) âˆ
 - Forgetting to calibrate a pH meter with buffers before use.
 - Calling a clock reaction a continuous monitoring method.
 
+## Frequently asked questions
+
+**How many practicals do you need for the OCR A Level Chemistry Practical Endorsement?**
+You must carry out a minimum of 12 assessed practical activities covering PAG1 to PAG12, and show every 1.2.1 skill and every 1.2.2 technique before the course ends. Competence is judged against CPAC 1 to 5 as shown "consistently and routinely".
+
+**What is the difference between a hazard and a risk?**
+A hazard is something that could cause harm, such as a flammable or corrosive substance. A risk is the chance of harm happening from what you actually do in your method, which your control measures reduce.
+
+**Which indicator should be used for a weak acidâ€“strong base titration?**
+Use phenolphthalein, because the end point is above pH 7. Methyl orange suits a strong acid with a weak base, either indicator works for strong acid with strong base, and a weak acid with a weak base has no sharp change, so a pH meter is used.
+
+**How does an impure solid behave when its melting point is measured?**
+A pure compound melts sharply at its known melting point. Impurities lower the melting point and make it melt over a wider range, so saying an impurity raises the melting point is an error.
+
+**Can I work in a group for the Practical Endorsement?**
+Yes, group work is allowed for OCR A Level Chemistry A (H432) practicals, but the evidence of competence must be your own. You also need to keep a record of all your practical work, such as a lab book or portfolio.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR. Sections 1.2.1, 1.2.2 and 5g.

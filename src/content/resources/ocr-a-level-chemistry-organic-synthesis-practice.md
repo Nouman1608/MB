@@ -153,6 +153,23 @@ Any data you need, such as densities or boiling points, appears in the question 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OCR A Level Chemistry section 4.2.3 Organic synthesis cover?**
+Section 4.2.3 of OCR A Level Chemistry A (H432) covers Quickfit techniques for heating under reflux and distillation, purifying an organic liquid, identifying functional groups and predicting their reactions, and devising two-stage synthetic routes. It sits in Module 4, Core organic chemistry, and includes the PAG5 techniques.
+
+**How do you get full marks on a two-stage synthesis question?**
+Give the reagents and the conditions for each stage, and the structure of the intermediate. A reagent on its own, such as "NaOH" without "aqueous" and "heat under reflux", usually does not earn the conditions mark.
+
+**How do you decide which layer is organic in a separating funnel?**
+Use the density data in the question: the denser liquid forms the lower layer. Many bromo and iodo compounds are denser than water and sink, while most hydrocarbons and alcohols float, so reason from the density rather than assuming organic liquids are on top.
+
+**What are the most common mistakes in OCR organic synthesis questions?**
+Frequent errors include stoppering a reflux condenser, choosing reflux when an aldehyde is wanted, describing drying as "removing impurities" rather than removing water, leaving out redistillation, and oxidising a tertiary alcohol in a route.
+
+**What should I do when a question gives me a reaction that is not in Module 4?**
+Treat it as an extra reaction in your toolkit and use its reagents and conditions exactly as written. Fit it in as one stage of the route, then complete the route with a Module 4 reaction.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.2.3 Organic synthesis, learning outcomes (a) to (c). Published by OCR.

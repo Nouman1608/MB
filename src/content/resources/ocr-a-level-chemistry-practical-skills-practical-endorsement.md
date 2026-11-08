@@ -302,6 +302,22 @@ A **continuous monitoring** method (PAG9) follows gas volume, mass loss or colou
   <figcaption>2,4-DNPH shows C=O; a close melting temperature needs a second test such as Tollens’.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the CPAC in OCR A Level Chemistry?**
+The CPAC are the five Common Practical Assessment Criteria used to judge the Practical Endorsement for OCR A Level Chemistry A (H432): following written procedures, applying investigative approaches, safely using equipment and materials, making and recording observations, and researching, referencing and reporting.
+
+**Can a Practical Endorsement result be carried forward if I retake?**
+Yes. The specification says that if you retake the A level you can carry forward a previous endorsement result, so you do not have to repeat the practical activities.
+
+**How do you make up a standard solution accurately?**
+Dissolve the weighed solid in distilled water in a beaker, then transfer it through a funnel into a volumetric flask, rinsing the beaker, rod and funnel into the flask. Fill until the bottom of the meniscus sits on the line at eye level, then stopper and invert to mix.
+
+**What is the difference between fluted filter paper and filtration under reduced pressure?**
+Fluted filter paper gives fast gravity filtration, used to remove insoluble impurities from a hot solution before crystals form. Filtration under reduced pressure, with a Büchner funnel, collects crystals quickly and pulls more solvent off them.
+
+**What are the two methods for measuring reaction rates in the endorsement?**
+An initial rate method such as a clock reaction (PAG10) times how long a fixed small amount of product takes to form, so rate is proportional to 1/t. A continuous monitoring method (PAG9) follows gas volume, mass loss or colour against time.
 
 ## Official syllabus
 

@@ -172,6 +172,23 @@ Describe and explain the variation in melting point across Period 3 in terms of 
 - Printable checklist: [OCR A Level Chemistry checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**What does OCR A Level Chemistry section 3.1.1 Periodicity test?**
+Section 3.1.1 of OCR A Level Chemistry A (H432) covers the arrangement of the periodic table, electron configurations and blocks, first and successive ionisation energies, metallic and giant covalent lattices, and the melting points of Periods 2 and 3. It opens Module 3, Periodic table and energy.
+
+**How do you find the group of an element from successive ionisation energies?**
+Calculate the ratio between each value and the next and find the largest jump. The electrons removed before that jump are the outer shell, so their number gives the group of an s- or p-block element.
+
+**What must a definition of first ionisation energy include?**
+It must refer to 1 mol of gaseous atoms each losing one electron to form 1 mol of gaseous 1+ ions. Leaving out "gaseous" or the mole quantities is one of the most common ways to lose the mark.
+
+**How should I answer an extended question on melting points across Period 3?**
+Name the structure of each group of elements, say what has to be overcome when it melts, and say whether that is strong or weak. A list of structures with no link to the order of melting points earns only part of the credit.
+
+**What are common mistakes in periodicity questions?**
+Typical errors include swapping the reasons for the two small falls in first ionisation energy across a period, ignoring nuclear charge down a group, describing metallic bonding with "atoms" instead of cations and delocalised electrons, and saying covalent bonds break when a simple molecular element melts.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.1 Periodicity, learning outcomes (a) to (g). Published by OCR.

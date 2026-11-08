@@ -217,6 +217,19 @@ Concentration rule: raising the concentration of a species on the left of a half
   <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you calculate a standard cell potential?**
+Use E⦵cell = E⦵(more positive) − E⦵(less positive). Reduction happens at the half-cell with the more positive electrode potential, and you never multiply an E⦵ value when a half-equation is scaled up.
+
+**What is the end point of an iodine–thiosulfate titration?**
+Starch is added when the solution is pale yellow, giving a blue-black colour, and the end point is when the blue-black colour just disappears. Describing the end point as "turns blue-black" is a common error.
+
+**How does concentration affect an electrode potential?**
+Raising the concentration of a species on the left of a half-equation makes that electrode potential more positive. Raising the concentration of a species on the right makes it less positive.
+
+**How do fuel cells differ from storage cells?**
+A storage cell holds its chemicals sealed inside, and a rechargeable one is recharged by reversing the discharge reaction. A fuel cell has the fuel and oxygen supplied continuously, so it keeps running while they are supplied and needs no recharging.
 
 ## Official syllabus
 

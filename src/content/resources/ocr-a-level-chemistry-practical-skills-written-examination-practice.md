@@ -195,6 +195,20 @@ Plan a titration to find the mass of iron in one tablet. Include quantities, sho
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which OCR A Level Chemistry papers test practical skills?**
+The section 1.1 skills of OCR A Level Chemistry A (H432), planning, implementing, analysis and evaluation, are assessed in the written papers. Module 1 is assessed in Components 01, 02 and 03, so a practical question can be set on any chemistry in the course.
+
+**What uncertainty should be used for a titre?**
+A titre comes from two burette readings, so the two uncertainties are added. With readings of ±0.05 cm³ each, the titre uncertainty is ±0.10 cm³, and using ±0.05 cm³ for a titre is a common error.
+
+**How do you lay out a results table in a chemistry exam?**
+Put the independent variable in the first column, give each heading as quantity / unit, keep units out of the body of the table, and record every value in a column to the same number of decimal places, matching the apparatus resolution.
+
+**How do you plan a titration in an extended answer?**
+Include quantities, show by calculation that the expected titre will be a suitable size for the burette, describe making up the solution and carrying out the titration, and explain how the result is calculated. Plans with no quantities, or with an unsuitable titre size, lose credit.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR -- Module 1, section 1.1 Practical skills assessed in a written examination (1.1.1 to 1.1.4).

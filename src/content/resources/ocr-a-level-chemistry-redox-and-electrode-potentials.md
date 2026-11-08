@@ -277,6 +277,20 @@ In an acidic hydrogen fuel cell:
 
 Condense this with the [revision notes](/resources/ocr-a-level-chemistry-redox-and-electrode-potentials-revision-notes/), then try the [practice questions](/resources/ocr-a-level-chemistry-redox-and-electrode-potentials-practice/). Titration technique also appears in [Acids (2.1.4)](/resources/ocr-a-level-chemistry-acids/).
 
+## Frequently asked questions
+
+**What is a standard electrode potential?**
+In OCR A Level Chemistry A (H432), the standard electrode potential, E⦵, of a half-cell is the e.m.f. measured when it is connected to the standard hydrogen electrode under standard conditions of 298 K, 100 kPa and 1 mol dm⁻³ solutions.
+
+**Why is hydrochloric acid not used to acidify manganate(VII) titrations?**
+Acidified manganate(VII) can oxidise chloride ions to chlorine, since the cell potential for that reaction is positive. This would use up extra manganate(VII) and make the titre too large, so dilute sulfuric acid is used instead.
+
+**How do you set up a half-cell for two ions of the same element?**
+Dip an inert platinum electrode into a solution containing both ions, for example Fe³⁺ and Fe²⁺, each at 1 mol dm⁻³ or equimolar. A metal electrode such as iron must not be used for this type of half-cell.
+
+**What is the difference between an oxidising agent and a reducing agent?**
+An oxidising agent takes electrons from another species and is itself reduced, so its oxidation number falls. A reducing agent gives electrons to another species and is itself oxidised, so its oxidation number rises.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR. Section 5.2.3, Redox and electrode potentials.

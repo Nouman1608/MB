@@ -262,6 +262,20 @@ For example, cobalt(II) turning from pink to blue in concentrated HCl matches th
 - Oxidation numbers and half-equations: [Redox](/resources/ocr-a-level-chemistry-redox/)
 - Catalysts and activation energy: [Reaction rates](/resources/ocr-a-level-chemistry-reaction-rates/)
 
+## Frequently asked questions
+
+**What are the electron configurations of chromium and copper?**
+Chromium is 1s²2s²2p⁶3s²3p⁶3d⁵4s¹ and copper is 1s²2s²2p⁶3s²3p⁶3d¹⁰4s¹, the two exceptions to the simple filling pattern in Period 4. When transition metal ions form, the 4s electrons are lost before the 3d electrons.
+
+**What are the typical properties of transition elements?**
+Transition elements show more than one oxidation state, form coloured ions and act as catalysts. In OCR A Level Chemistry A (H432) each property should be illustrated with at least two elements, and no explanation of colour is required.
+
+**What happens when copper(II) ions react with concentrated hydrochloric acid?**
+Chloride ions replace the water ligands: [Cu(H₂O)₆]²⁺ + 4Cl⁻ ⇌ [CuCl₄]²⁻ + 6H₂O. The colour changes from blue to yellow, often through green, and the shape changes from octahedral to tetrahedral as the coordination number falls from 6 to 4.
+
+**Why is carbon monoxide toxic?**
+In haemoglobin, oxygen binds as a ligand at the sixth site of an octahedral Fe²⁺ ion. Carbon monoxide can replace oxygen at this site, binds much more strongly and is not readily released, so that haemoglobin can no longer carry oxygen.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.3.1 Transition elements, learning outcomes (a) to (l) with their additional guidance. Published by OCR.

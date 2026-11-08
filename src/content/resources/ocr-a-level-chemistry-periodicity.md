@@ -239,6 +239,23 @@ Boron melts at 2076 °C and nitrogen at −210 °C, a gap of 2286 °C. Boron is 
 - Original questions with marked answers: [Periodicity practice questions](/resources/ocr-a-level-chemistry-periodicity-practice/)
 - Find gaps across the course: [all free 10-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What is metallic bonding in OCR A Level Chemistry?**
+In OCR A Level Chemistry A (H432), metallic bonding is the strong electrostatic attraction between cations and delocalised electrons. The cations sit in a regular giant metallic lattice, and details of packing are not required.
+
+**Why does beryllium have a much higher melting point than lithium?**
+Both are giant metallic, but beryllium forms smaller Be²⁺ ions and gives two delocalised electrons per atom, while lithium forms Li⁺ and gives one. The attraction between cations and delocalised electrons is stronger in beryllium, so more energy is needed to overcome it.
+
+**Why is graphene so strong?**
+Graphene is a single layer of carbon atoms, each bonded to three others, with strong covalent bonds across the whole sheet. Its delocalised electrons can also move along the sheet, so it conducts electricity, which leads to suggested uses in flexible electronics, sensors and lightweight composites.
+
+**How did Mendeleev's periodic table come to be accepted?**
+Mendeleev left gaps in his 1869 table and predicted the properties of elements not yet discovered. When germanium was found in 1886 with properties closely matching his prediction, successes like this won acceptance for the Periodic Law.
+
+**Why do simple molecular elements have low melting points?**
+Melting a simple molecular element only overcomes weak London forces between molecules; the covalent bonds inside the molecules are not broken. In Period 3 the order S₈ > P₄ > Cl₂ > Ar follows the number of electrons per particle, since more electrons give stronger London forces.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.1 Periodicity, learning outcomes (a) to (g). Published by OCR.

@@ -185,6 +185,20 @@ State the colour change and the change in oxidation number of chromium, then con
 - Find gaps quickly: [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OCR A Level Chemistry 5.3.1 Transition elements cover?**
+Section 5.3.1 of OCR A Level Chemistry A (H432) covers electron configurations, the definition and properties of transition elements, ligands, complex shapes and stereoisomerism, cis-platin, ligand substitution, haemoglobin, precipitation reactions, redox reactions and unfamiliar reactions, outcomes (a) to (l).
+
+**What are common mistakes in transition elements questions?**
+Frequent errors include removing 3d electrons before 4s when writing ion configurations, counting ligands instead of coordinate bonds for the coordination number, writing "deep blue precipitate" for the copper–ammonia complex, and claiming Cu(OH)₂ or Fe(OH)₃ dissolves in excess NaOH.
+
+**How do you find the Cu²⁺ to thiosulfate ratio in a copper titration?**
+Trace the ratio through the iodine: 2Cu²⁺ releases one I₂, and one I₂ reacts with 2S₂O₃²⁻. So the mole ratio Cu²⁺ : S₂O₃²⁻ is 1 : 1, and using 2 : 1 is a common error.
+
+**Do I need to memorise the redox equations for transition metals?**
+No. The specification says you do not have to recall these equations, but you must be able to build them from half-equations and oxidation numbers, cancelling any OH⁻ or H₂O that appear on both sides.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.3.1 Transition elements, learning outcomes (a) to (l) with their additional guidance. Published by OCR.

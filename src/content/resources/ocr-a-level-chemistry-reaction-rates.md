@@ -247,6 +247,20 @@ Explain, using a Boltzmann distribution, why warming a gas mixture from 300 K to
 
 For quick recall use the [revision notes](/resources/ocr-a-level-chemistry-reaction-rates-revision-notes/), then try the [practice questions](/resources/ocr-a-level-chemistry-reaction-rates-practice/). Revisit [gas volume and mass conversions](/resources/ocr-a-level-chemistry-amount-of-substance/) if the mole steps felt shaky. For PAG9 and planning, see [practical skills for the written papers](/resources/ocr-a-level-chemistry-practical-skills-written-examination/) and [PAG and endorsement notes](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement/), then look again at the PAG9 table above.
 
+## Frequently asked questions
+
+**What is the difference between a homogeneous and a heterogeneous catalyst?**
+A homogeneous catalyst is in the same physical state as the reactants, such as an acid catalysing ester formation in solution. A heterogeneous catalyst is in a different physical state, usually a solid with gases or liquids passing over it, such as iron in ammonia production.
+
+**Why does a higher temperature increase the rate of reaction?**
+At a higher temperature the Boltzmann curve flattens and moves to the right, so a much larger proportion of molecules have energy of at least the activation energy. More collisions succeed each second, which is the main reason the rate increases.
+
+**What are the key features of a Boltzmann distribution curve?**
+The curve starts at the origin, has a single peak at the most probable energy, and has a long high-energy tail that approaches the energy axis without touching it. The area under the curve represents the total number of molecules.
+
+**How does a catalyst increase the rate using the Boltzmann distribution?**
+The catalyst provides a different route with a lower activation energy, so Ea moves to a lower energy while the curve itself is unchanged. A greater proportion of molecules now have enough energy to react on collision.
+
 ## Official syllabus
 
 Source: section 3.2.2 Reaction rates, learning outcomes (a) to (g), in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR.
