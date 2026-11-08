@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-source-based-reading-and-directed-writing-9270"
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-a-reading-9270"
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-b-writing-9270"
 description: "Modern-world source texts and writing for a specified audience and purpose -- Paper 2 of OxfordAQA International GCSE English Language (9270), the mainstream exam alternative to the non-exam assessment route."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

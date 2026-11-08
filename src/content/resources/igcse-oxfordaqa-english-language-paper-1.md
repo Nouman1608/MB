@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-literary-non-fiction-and-composition-9270"
+  - qualification: "igcse"
+    topic: "paper-1-literary-non-fiction-and-composition-9270"
+    subtopic: "section-a-literary-non-fiction-9270"
+  - qualification: "igcse"
+    topic: "paper-1-literary-non-fiction-and-composition-9270"
+    subtopic: "section-b-composition-9270"
 description: "Literary non-fiction analysis and composition writing, with the full assessment structure (duration, marks, weighting), for OxfordAQA International GCSE English Language (9270) Paper 1."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

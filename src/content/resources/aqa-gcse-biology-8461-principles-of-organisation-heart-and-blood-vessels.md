@@ -19,6 +19,12 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "the-heart-and-blood-vessels-aqa-gcse-biology"
+  - qualification: "gcse"
+    topic: "organisation-aqa-gcse-biology"
+    subtopic: "blood-aqa-gcse-biology"
+  - qualification: "gcse"
+    topic: "organisation-aqa-gcse-biology"
+    subtopic: "coronary-heart-disease-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 study guide to levels of organisation, the heart, lungs, double circulation and blood vessels, with blood-flow rate examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
@@ -313,6 +319,47 @@ the cells.
   <figcaption>Flow rate and capillary speed from amount ÷ time.</figcaption>
 </figure>
 
+
+## 4.2.2.3 Blood
+
+The specification describes blood as a **tissue** made of **plasma**, in which **red blood cells**, **white
+blood cells** and **platelets** are suspended. You must know the function of each part and be able to recognise
+the different types of blood cell in a photograph or diagram.
+
+| Component | Appearance | Function |
+|---|---|---|
+| Plasma | Pale yellow liquid | Carries the cells, and transports dissolved substances such as glucose, carbon dioxide, urea and hormones around the body |
+| Red blood cells | Biconcave discs with no nucleus, packed with haemoglobin | Carry oxygen from the lungs to the body cells |
+| White blood cells | Larger cells with a nucleus | Part of the immune system: some engulf pathogens, others make antibodies or antitoxins |
+| Platelets | Small fragments of cells, no nucleus | Help the blood to clot at a wound, sealing it and stopping pathogens getting in |
+
+**How red blood cells are adapted.** The biconcave shape gives a large surface area for oxygen to diffuse in and
+out. Having no nucleus leaves more room for haemoglobin, which combines with oxygen in the lungs and releases it
+in the tissues. Their small size lets them squeeze through narrow capillaries.
+
+**Recognising cells in a micrograph.** Red blood cells are the most numerous, pale-centred discs with no nucleus.
+White blood cells are fewer and larger, with a stained, often lobed nucleus. Platelets appear as tiny specks.
+
+## 4.2.2.4 Coronary heart disease: a non-communicable disease
+
+In **coronary heart disease (CHD)**, layers of fatty material build up inside the **coronary arteries**, which
+supply the heart muscle with oxygenated blood. The arteries narrow, so blood flow to the heart muscle falls. The
+muscle then receives too little oxygen, which can cause chest pain or a heart attack.
+
+The specification asks you to describe and **evaluate** the treatments below.
+
+| Treatment | How it works | Advantages | Disadvantages |
+|---|---|---|---|
+| Stents | A mesh tube inserted into a narrowed coronary artery to keep it open | Restores blood flow quickly; less invasive than major surgery; recovery is fast | Risk of complications during surgery, infection or a blood clot forming in the stent; the artery can narrow again |
+| Statins | Drugs that reduce blood cholesterol, slowing the rate at which fatty material is deposited | No surgery; reduce the risk of a heart attack | Must be taken long term; possible side effects such as liver problems; act slowly |
+| Replacement valves | Faulty valves that do not open fully or that leak can be replaced with biological (from animals or donors) or mechanical valves | Restores normal one-way blood flow | Biological valves may wear out; mechanical valves need lifelong drugs to prevent clots; surgery risks |
+| Heart (or heart and lung) transplant | In heart failure, a donor heart, or heart and lungs, can be transplanted | Can give a long-term solution | Shortage of donors; risk of rejection, so immunosuppressant drugs are needed; major surgery |
+| Artificial heart | Occasionally used to keep a patient alive while waiting for a transplant, or to let the heart rest during recovery | No rejection, as it is not living tissue | Risk of clots and infection; not a long-term replacement in most cases |
+
+**How to evaluate.** In a 6-mark question, compare treatments using the same criteria: how invasive the treatment
+is, how quickly it works, how long the benefit lasts, side effects or risks, and cost or availability. Finish
+with a judgement linked to the patient described, for example a stent for a narrowed artery that needs opening
+now, with statins to slow further build-up.
 
 ## Common errors
 

@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-literary-non-fiction-and-composition-9270"
+  - qualification: "igcse"
+    topic: "paper-1-literary-non-fiction-and-composition-9270"
+    subtopic: "section-a-literary-non-fiction-9270"
+  - qualification: "igcse"
+    topic: "paper-1-literary-non-fiction-and-composition-9270"
+    subtopic: "section-b-composition-9270"
 description: "Condensed recall notes on analysing literary non-fiction, structural analysis and composition technique for OxfordAQA International GCSE English Language 9270."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

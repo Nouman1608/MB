@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+  - qualification: "igcse"
+    topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+    subtopic: "section-a-poetry-and-prose-texts-4ea1"
+  - qualification: "igcse"
+    topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+    subtopic: "section-b-imaginative-writing-4ea1"
 description: "Original exam-style practice questions with a model plan and full worked commentary for Section A analysis and Section B imaginative writing, for Pearson Edexcel International GCSE English Language A Component 2 (4EA1)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

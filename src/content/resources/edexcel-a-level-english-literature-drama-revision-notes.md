@@ -13,6 +13,9 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-drama-yet01"
+  - qualification: "a-level"
+    topic: "unit-2-drama-yet01"
+    subtopic: "unit-2-pre-1900-and-post-1900-drama-yet01"
 description: "Condensed exam-skills notes on the assessment objectives, essay structure and set-text preparation for Unit 2 Drama, Pearson Edexcel International A-Level English Literature (YET01)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

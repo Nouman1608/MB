@@ -13,6 +13,12 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-shakespeare-and-drama-9695"
+  - qualification: "a-level"
+    topic: "paper-3-shakespeare-and-drama-9695"
+    subtopic: "section-a-shakespeare-9695"
+  - qualification: "a-level"
+    topic: "paper-3-shakespeare-and-drama-9695"
+    subtopic: "section-b-drama-9695"
 description: "Condensed recall notes on Paper 3's format, the fifth assessment objective AO5, and the 2026-series set texts, for Cambridge International A Level Literature in English (9695)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

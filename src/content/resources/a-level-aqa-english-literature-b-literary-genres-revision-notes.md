@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-literary-genres-7717"
+  - qualification: "a-level"
+    topic: "paper-1-literary-genres-7717"
+    subtopic: "option-1a-aspects-of-tragedy-7717"
+  - qualification: "a-level"
+    topic: "paper-1-literary-genres-7717"
+    subtopic: "option-1b-aspects-of-comedy-7717"
 description: "Condensed recall notes on Paper 1's genre-led structure and approach for AQA A-Level English Literature B (7717)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

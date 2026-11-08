@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+  - qualification: "igcse"
+    topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+    subtopic: "section-a-poetry-and-prose-texts-4ea1"
+  - qualification: "igcse"
+    topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+    subtopic: "section-b-imaginative-writing-4ea1"
 description: "Condensed recall notes on anthology poetry/prose analysis and imaginative writing craft for Pearson Edexcel International GCSE English Language A Component 2 (4EA1)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

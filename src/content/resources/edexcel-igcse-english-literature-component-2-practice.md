@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
+  - qualification: "igcse"
+    topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
+    subtopic: "section-a-modern-drama-4et1"
+  - qualification: "igcse"
+    topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
+    subtopic: "section-b-literary-heritage-texts-4et1"
 description: "Original exam-style essay questions with model plans and worked commentary for Section A modern drama and Section B literary heritage texts, for Pearson Edexcel International GCSE English Literature Component 2 (4ET1)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

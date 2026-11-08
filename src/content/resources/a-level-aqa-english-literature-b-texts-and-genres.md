@@ -12,6 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-texts-and-genres-7717"
+  - qualification: "a-level"
+    topic: "paper-2-texts-and-genres-7717"
+    subtopic: "option-2a-elements-of-crime-writing-7717"
+  - qualification: "a-level"
+    topic: "paper-2-texts-and-genres-7717"
+    subtopic: "option-2b-elements-of-political-and-social-protest-writing-7717"
 description: "Elements of Crime Writing and Elements of Political and Social Protest Writing -- the two genre options, exam structure and set-text lists for Paper 2 of AQA A-Level English Literature B (7717)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

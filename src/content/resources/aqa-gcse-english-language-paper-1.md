@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-explorations-in-creative-reading-and-writing-8700"
+  - qualification: "gcse"
+    topic: "paper-1-explorations-in-creative-reading-and-writing-8700"
+    subtopic: "critical-reading-and-comprehension-8700"
+  - qualification: "gcse"
+    topic: "paper-1-explorations-in-creative-reading-and-writing-8700"
+    subtopic: "evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features-8700"
 description: "Reading one literature fiction text and writing a creative response to a linked scenario -- the full structure, marks and assessment objectives of Paper 1, Explorations in Creative Reading and Writing, for AQA GCSE English Language (8700)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

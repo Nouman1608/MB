@@ -13,6 +13,12 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-language-and-society-9670"
+  - qualification: "a-level"
+    topic: "unit-2-language-and-society-9670"
+    subtopic: "section-a-language-and-social-groups-texts-9670"
+  - qualification: "a-level"
+    topic: "unit-2-language-and-society-9670"
+    subtopic: "section-b-language-and-social-groups-writing-9670"
 description: "Original exam-style practice questions with full worked answers on the four social functions of language, connecting text analysis to academic argument, and Unit 2's assessment structure."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

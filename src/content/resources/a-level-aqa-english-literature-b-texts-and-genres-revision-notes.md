@@ -12,6 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-texts-and-genres-7717"
+  - qualification: "a-level"
+    topic: "paper-2-texts-and-genres-7717"
+    subtopic: "option-2a-elements-of-crime-writing-7717"
+  - qualification: "a-level"
+    topic: "paper-2-texts-and-genres-7717"
+    subtopic: "option-2b-elements-of-political-and-social-protest-writing-7717"
 description: "Condensed recall notes on open-book exam technique, the elements framework, and structuring the connective essay for AQA A-Level English Literature B Paper 2 (7717)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

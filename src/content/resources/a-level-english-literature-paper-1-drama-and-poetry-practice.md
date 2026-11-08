@@ -13,6 +13,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-drama-and-poetry-9695"
+  - qualification: "a-level"
+    topic: "paper-1-drama-and-poetry-9695"
+    subtopic: "section-a-drama-9695"
+  - qualification: "a-level"
+    topic: "paper-1-drama-and-poetry-9695"
+    subtopic: "section-b-poetry-9695"
 description: "Original exam-style practice questions with full worked answers on Paper 1's structure, and passage-based commentary practice using original drama and poetry extracts."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

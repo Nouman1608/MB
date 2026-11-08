@@ -13,6 +13,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-reading-9093"
+  - qualification: "a-level"
+    topic: "paper-1-reading-9093"
+    subtopic: "knowledge-and-understanding-9093"
+  - qualification: "a-level"
+    topic: "paper-1-reading-9093"
+    subtopic: "skills-and-techniques-9093"
 description: "Knowledge and understanding of textual forms and linguistic features, plus the analytical and creative reading and writing skills tested -- the full content of Paper 1 for Cambridge International AS & A Level English Language (9093)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

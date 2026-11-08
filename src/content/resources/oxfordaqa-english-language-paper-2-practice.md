@@ -12,6 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-source-based-reading-and-directed-writing-9270"
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-a-reading-9270"
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-b-writing-9270"
 description: "Original exam-style practice questions with full worked answers on reading modern-world sources, visual/graphic texts, and directed writing for a specified audience and purpose."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
