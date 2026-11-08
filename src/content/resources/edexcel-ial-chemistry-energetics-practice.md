@@ -165,6 +165,20 @@ C₂H₂(g) + 2½O₂(g) → 2CO₂(g) + H₂O(g)
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are standard conditions for enthalpy changes in Edexcel IAL Chemistry?**
+Standard enthalpy changes in the YCH11 specification use a pressure of 100 kPa; older values such as 101 kPa or 1 atm do not match this specification. Substances are in their standard states, so iodine, for example, is a solid.
+
+**Why do you extrapolate a cooling curve in a calorimetry experiment?**
+Heat is lost to the surroundings while the reaction happens, so the highest reading underestimates the temperature change. Extrapolating the cooling line back to the time of mixing gives a corrected temperature change.
+
+**Which mass do you use in q = m × c × ΔT?**
+Use the mass of the water or solution being heated, not the mass of the fuel or solid. Then divide the energy by the moles of the limiting reagent and convert to kJ mol⁻¹, with a sign.
+
+**What are common mistakes in Hess cycle calculations?**
+Typical errors are reversing the subtraction when using combustion data, forgetting to multiply by the coefficients in the equation, and giving a value to elements in their standard states, whose enthalpy change of formation is zero. Leaving off the + sign on a positive answer can also cost a mark.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Topic 6: Energetics (outcomes 6.1 to 6.11, including Core Practical 2). Published by Pearson Education Limited.

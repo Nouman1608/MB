@@ -227,6 +227,19 @@ Work through the [practice questions](/resources/edexcel-ial-chemistry-chemical-
   <figcaption>Pure solids are left out of Kc and Kp; only gases (Kp) or aqueous species (Kc) appear.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between a homogeneous and a heterogeneous equilibrium?**
+In a homogeneous equilibrium every reactant and product is in one phase; in a heterogeneous equilibrium the species are spread over more than one phase. In either case, solids never appear in the K expression.
+
+**How do you work out the units of Kc?**
+Replace each term in the expression with mol dm⁻³ and cancel. If the powers above and below add to the same total, Kc has no units; for N₂ + 3H₂ ⇌ 2NH₃, the units are dm⁶ mol⁻².
+
+**How does temperature affect K for an exothermic reaction?**
+Raising the temperature makes K smaller for an exothermic forward reaction, so the equilibrium moves left; for an endothermic reaction K gets larger. Temperature changes K first, and the composition then changes to match the new K.
+
+**Does a large equilibrium constant mean a reaction is fast?**
+No. K tells you how far a reaction goes, not how fast. A reaction with a large K can still be too slow to observe if its activation energy is high, which is called kinetic stability.
 
 ## Official syllabus
 

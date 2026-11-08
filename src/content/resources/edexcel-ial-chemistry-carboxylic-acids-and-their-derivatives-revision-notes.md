@@ -231,6 +231,20 @@ To go backwards, cut each ester link between C=O carbon and O, then add OH to th
 - Giving the acid, not the salt, as the product of alkaline hydrolysis.
 - Drawing a polyester repeat unit with a full monomer and both end groups still attached.
 
+## Frequently asked questions
+
+**Why do carboxylic acids have higher boiling temperatures than alcohols of similar Mr?**
+Carboxylic acid molecules hydrogen bond to each other through the O–H and the C=O oxygen, often forming dimers. This gives stronger intermolecular forces than in alcohols, aldehydes, ketones or esters of similar Mr, so more energy is needed to separate the molecules.
+
+**How do you make a carboxylic acid from a primary alcohol?**
+Heat the primary alcohol under reflux with excess potassium dichromate(VI) acidified with dilute sulfuric acid; the colour changes from orange to green. Distilling instead of refluxing collects the aldehyde, not the acid.
+
+**How can you tell a carboxylic acid from an alcohol with a chemical test?**
+Add sodium carbonate or sodium hydrogencarbonate: a carboxylic acid fizzes, giving carbon dioxide, while an alcohol does not. PCl₅ is not enough on its own, because any –OH group, in an alcohol or an acid, gives steamy fumes.
+
+**Does hydrolysing a nitrile add a carbon atom?**
+No. The nitrile carbon becomes the –COOH carbon, so the acid has the same number of carbons as the nitrile; propanenitrile gives propanoic acid. Adding a carbon here is a common error in Edexcel IAL Chemistry (YCH11) answers.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 4, Topic 15, parts 15C Carboxylic acids and 15D Carboxylic acid derivatives, outcomes 15.9 to 15.16.

@@ -184,6 +184,20 @@ The forward reaction is exothermic. At one temperature, with both solids present
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What should not be included in a Kc or Kp expression?**
+Solids are never written into Kc or Kp, and Kp includes only gases, so aqueous ions are left out of a Kp expression. Including them is one of the most common ways to lose marks on Edexcel IAL Chemistry Topic 13 questions.
+
+**How do you calculate a partial pressure for Kp?**
+Work out the mole fraction of each gas by dividing its amount by the total amount of gas, then multiply by the total pressure. Finding the mole fractions but not multiplying by the total pressure is a frequent error.
+
+**Does changing the pressure or adding a catalyst change Kp?**
+No. At a fixed temperature, pressure changes and catalysts can change the composition or how fast equilibrium is reached, but they do not change Kp. Only a change in temperature changes the value of K.
+
+**Why must ΔH be converted to J mol⁻¹ in ΔStotal calculations?**
+ΔSsurroundings = −ΔH / T is added to ΔSsystem, which is in J K⁻¹ mol⁻¹. Leaving ΔH in kJ mol⁻¹ makes every later value, including K from ΔStotal = R lnK, wrong by a factor of 1000.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Topic 13: Chemical Equilibria (outcomes 13.1 to 13.9), in Unit 4: Rates, Equilibria and Further Organic Chemistry. Published by Pearson Education Limited.

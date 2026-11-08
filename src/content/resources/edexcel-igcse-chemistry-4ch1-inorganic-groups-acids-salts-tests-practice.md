@@ -32,7 +32,9 @@ syllabusTopics:
 description: "Twelve original 4CH1 Chemistry questions on Groups 1 and 7, air, indicators, titration, salt preparation and ion and gas tests, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -203,6 +205,20 @@ Explain why potassium is more reactive than sodium, but bromine is less reactive
 - [Edexcel IGCSE Chemistry course hub](/boards/edexcel/igcse/chemistry/)
 - [Printable Edexcel IGCSE Chemistry checklist](/checklists/edexcel/igcse/chemistry/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What topics does this 4CH1 inorganic chemistry practice set cover?**
+It covers Topic 2 sub-topics of Edexcel International GCSE Chemistry (4CH1): Group 1, Group 7, gases in the atmosphere, acids, alkalis, bases and salts, and chemical tests. Some questions, such as the Group trend explanations and titration method, are Paper 2 only.
+
+**Why do "fizzes" and "gas given off" not count as two observations?**
+Both describe the same thing, hydrogen gas being produced, so they score only one mark. When a question asks for two observations, give two different ones, such as floating and moving around.
+
+**What are common mistakes in salt preparation answers?**
+Typical errors include heating a solution to dryness, which drives off water of crystallisation, not adding the insoluble reactant in excess and filtering it off, and leaving out the washing step when making an insoluble salt.
+
+**Why is the starting volume used in an oxygen-in-air calculation?**
+The percentage of oxygen is the volume decrease divided by the starting volume of air, times 100. Dividing by the final volume gives a wrong answer and loses the accuracy mark.
 
 ## Official syllabus
 

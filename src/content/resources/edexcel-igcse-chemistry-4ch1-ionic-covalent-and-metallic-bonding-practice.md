@@ -232,6 +232,20 @@ xx N (xxx •••) N ••
 - [Printable Edexcel IGCSE Chemistry checklist](/checklists/edexcel/igcse/chemistry/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are common mistakes in dot-and-cross diagrams?**
+For ionic compounds, students draw too few positive ions or leave brackets and charges off the ions. For covalent molecules, they often miss lone pairs on nitrogen, oxygen or a halogen; bonding pairs and lone pairs can score separate marks.
+
+**Why is "covalent" not enough to describe a structure?**
+You need to say whether the substance is simple molecular or giant covalent, because the two have very different properties. Writing "covalent" alone usually scores nothing in a structure identification question.
+
+**Do covalent bonds break when a simple molecular substance boils?**
+No. Boiling a simple molecular substance overcomes the weak intermolecular forces between molecules; the covalent bonds inside the molecules do not break. Writing "the bonds get stronger" is ambiguous and does not score.
+
+**What does this 4CH1 bonding practice set cover?**
+It covers sub-topics 1(f) Ionic bonding, 1(g) Covalent bonding and 1(h) Metallic bonding, points 1.37 to 1.54C of the Edexcel International GCSE Chemistry (4CH1) specification. The metallic bonding question is Paper 2 only.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited -- Topic 1 Principles of chemistry, sub-topics (f) Ionic bonding, (g) Covalent bonding and (h) Metallic bonding, points 1.37 to 1.54C.

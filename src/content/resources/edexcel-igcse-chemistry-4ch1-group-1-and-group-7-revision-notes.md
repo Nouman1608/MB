@@ -281,6 +281,20 @@ Also keep apart: **halogen** (the element, Cl₂) and **halide** (the ion, Cl⁻
 - Using "fizzes" and "bubbles" as two separate observations.
 - Stating a trend without its direction ("melting point changes down the group").
 
+## Frequently asked questions
+
+**How does reactivity change down Group 1 and Group 7?**
+Reactivity increases down Group 1 (lithium, sodium, potassium) but decreases down Group 7 (chlorine, bromine, iodine). The causes are the same, increasing distance and shielding, but Group 1 metals lose electrons while halogens gain them.
+
+**What is a halogen displacement reaction?**
+A more reactive halogen displaces a less reactive halogen from a solution of its halide. Chlorine displaces bromide and iodide, bromine displaces only iodide, and iodine displaces neither, which shows the order Cl₂ > Br₂ > I₂.
+
+**What is the difference between a halogen and a halide?**
+A halogen is the element, such as Cl₂, while a halide is the ion, such as Cl⁻, or a compound containing it, such as KCl. Mixing the two words up is a common source of lost marks.
+
+**Why are alkali metals stored under oil?**
+Lithium, sodium and potassium react with oxygen and water vapour in the air, so they are stored under oil to keep these out. A freshly cut surface tarnishes as an oxide layer forms, faster further down the group.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited -- Topic 2 Inorganic chemistry, sub-topics (a) Group 1 (alkali metals) and (b) Group 7 (halogens), points 2.1–2.8C.

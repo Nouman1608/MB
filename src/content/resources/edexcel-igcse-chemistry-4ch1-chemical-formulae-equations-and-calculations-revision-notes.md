@@ -254,6 +254,19 @@ The formula of **water** can be found the same way: reduce copper(II) oxide with
   <figcaption>A ratio such as 1 : 1.33 is not an error: multiply up to whole numbers to get Fe₃O₄.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between an empirical formula and a molecular formula?**
+An empirical formula is the simplest whole-number ratio of atoms of each element in a compound, while a molecular formula gives the actual number of atoms of each element in one molecule. C₂H₆ is a molecular formula and CH₃ is its empirical formula.
+
+**How do you find the empirical formula from masses or percentages?**
+Divide each element's mass or percentage by its relative atomic mass, then divide every answer by the smallest. If you get a value ending in .5, multiply by 2; if it ends in .33 or .67, multiply by 3 rather than rounding.
+
+**Which calculations in this topic are Paper 2 only?**
+In Edexcel International GCSE Chemistry (4CH1), concentration of solutions (point 1.34C) and gas volumes using the molar volume (point 1.35C) are Paper 2 only. The molar volume is 24 dm³ or 24 000 cm³ at room temperature and pressure.
+
+**Why can percentage yield not be more than 100%?**
+Percentage yield is the actual yield divided by the theoretical yield, times 100, and the theoretical yield is the maximum possible mass. A value above 100% means an error, such as putting the theoretical yield on top or weighing a product that is still wet.
 
 ## Official syllabus
 

@@ -267,6 +267,20 @@ Use the specification's wording: "may contribute to climate change".
 
 Condense this with the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere-revision-notes/), then try questions 4 and 5 of the [Groups, acids, salts and tests practice set](/resources/edexcel-igcse-chemistry-4ch1-inorganic-groups-acids-salts-tests-practice/) and questions 2 and 5 of the [Reactivity practice questions](/resources/edexcel-igcse-chemistry-reactivity-practice/).
 
+## Frequently asked questions
+
+**What are the methods for finding the percentage of oxygen in air?**
+In Edexcel International GCSE Chemistry (4CH1), you can use damp iron wool rusting in an inverted measuring cylinder, phosphorus burning over water, or air passed between two gas syringes over hot copper. Each removes oxygen from a trapped volume of air, so the volume falls.
+
+**Why must the iron wool be damp in the oxygen-in-air experiment?**
+Rusting needs both water and oxygen. Iron wool is used because its large surface area makes it react faster than a nail, although the method still takes about a week.
+
+**What do you see when magnesium, hydrogen and sulfur burn in oxygen?**
+Magnesium burns with a very bright white flame and leaves a white powder of magnesium oxide. Hydrogen burns with a pale blue flame to form water, and sulfur burns with a blue flame to form sulfur dioxide.
+
+**How do you prevent suck-back when heating a carbonate?**
+Remove the delivery tube from the limewater before removing the heat. Otherwise cold limewater can be drawn back into the hot boiling tube.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 2: Inorganic chemistry, sub-topic (c) Gases in the atmosphere, points 2.9–2.14.

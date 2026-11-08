@@ -242,6 +242,20 @@ The mole and gas-volume methods here are from 1(e); see the [formulae, equations
 
 Condense this with the [electrolysis revision notes](/resources/edexcel-igcse-chemistry-4ch1-electrolysis-revision-notes/), then test yourself with the [electrolysis practice questions](/resources/edexcel-igcse-chemistry-4ch1-electrolysis-practice/). For the rest of the topic, use the [Principles of chemistry revision notes](/resources/igcse-edexcel-chemistry-principles-revision-notes/) and [Principles of chemistry practice](/resources/igcse-edexcel-chemistry-principles-practice/).
 
+## Frequently asked questions
+
+**What is electrolysis?**
+Electrolysis is the breakdown of an ionic compound, molten or in aqueous solution, by passing a direct current through it. The molten or dissolved compound that conducts is the electrolyte, and inert electrodes are usually graphite or platinum.
+
+**Why does molten lead(II) bromide need a fume cupboard?**
+Bromine vapour, given off as red-brown fumes at the anode, is toxic, and lead compounds are toxic too. Silvery lead forms at the cathode once the solid has melted and the bulb lights.
+
+**Which electrolysis statements are Paper 2 only in 4CH1?**
+The electrolysis statements in this sub-topic, from 1.55C to 1.60C including the required practical, are Paper 2 only. Some related non-bold statements, such as ionic compounds conducting when molten, can be tested on either paper.
+
+**What happens when copper(II) sulfate solution is electrolysed with inert electrodes?**
+A pink-brown coating of copper forms on the cathode, because copper is less reactive than hydrogen, and oxygen bubbles off at the anode. The solution becomes acidic as sulfuric acid is left behind.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 1: Principles of chemistry, sub-topic (i) Electrolysis, statements 1.55C–1.60C.

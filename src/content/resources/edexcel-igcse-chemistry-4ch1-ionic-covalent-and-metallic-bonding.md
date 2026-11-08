@@ -334,6 +334,20 @@ A metal is a giant lattice of **positive metal ions** surrounded by **delocalise
 
 Try the [bonding practice questions](/resources/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-practice/) and the wider [Principles of chemistry practice set](/resources/igcse-edexcel-chemistry-principles-practice/). The [free 4CH1 all-topics diagnostic](/practice/4CH1/diagnostic/all-topics/) shows where to focus.
 
+## Frequently asked questions
+
+**How do ions form?**
+Metal atoms lose their outer electrons to become positive ions, and non-metal atoms gain electrons to fill their outer shell and become negative ions. The number of protons never changes.
+
+**Why do ionic compounds have high melting points?**
+Melting means overcoming the very large number of strong electrostatic attractions between oppositely charged ions throughout the giant lattice, which needs a lot of energy.
+
+**Why is C60 fullerene soft even though it is made of carbon?**
+C60 is a simple molecular substance, not a giant structure: each molecule is a hollow ball of 60 carbon atoms. Only weak intermolecular forces hold the molecules together, so it is soft.
+
+**Why are metals malleable?**
+The positive ions in a metal are arranged in layers that can slide over one another when a force is applied. The delocalised electrons still attract the ions in their new positions, so the metal changes shape without breaking.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited -- Topic 1 Principles of chemistry, sub-topics (f) Ionic bonding, (g) Covalent bonding and (h) Metallic bonding, points 1.37 to 1.54C.

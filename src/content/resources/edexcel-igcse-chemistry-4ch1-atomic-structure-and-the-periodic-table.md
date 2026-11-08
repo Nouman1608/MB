@@ -319,6 +319,20 @@ The noble gases have a **full outer shell** of electrons (2 for helium; 8 for th
 
 Condense this page with the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-practice/). For wider Topic 1 recall use the [Principles of chemistry revision notes](/resources/igcse-edexcel-chemistry-principles-revision-notes/) and [practice questions](/resources/igcse-edexcel-chemistry-principles-practice/). Ar values feed straight into mole work in the [formulae, equations and calculations practice](/resources/edexcel-igcse-chemistry-4ch1-formulae-equations-calculations-practice/).
 
+## Frequently asked questions
+
+**What are isotopes?**
+Isotopes are atoms of the same element with the same atomic number but different mass numbers, because they have different numbers of neutrons. They have the same electron arrangement, so they react in the same way.
+
+**Why is the Periodic Table ordered by atomic number rather than relative atomic mass?**
+Ordering by atomic number puts each element with similar elements. Argon (atomic number 18) comes before potassium (19) even though argon's relative atomic mass is larger.
+
+**How many electrons can each shell hold for the first 20 elements?**
+For the first 20 elements in Edexcel International GCSE Chemistry (4CH1), the first shell holds up to 2 electrons, the second up to 8 and the third up to 8, with the fourth shell starting at potassium. Potassium is therefore 2,8,8,1, not 2,8,9.
+
+**Does an electron have no mass?**
+No. An electron's relative mass is very small, about 1/1840, so it is negligible but not zero. Nearly all of an atom's mass is in the nucleus.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 1 Principles of chemistry, sub-topics (c) Atomic structure (points 1.14–1.17) and (d) The Periodic Table (points 1.18–1.24).
