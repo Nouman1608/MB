@@ -65,7 +65,8 @@ birds. Lizards are eaten by birds and jackals. Antelope are eaten by jackals.
 your answer. **[2]**
 
 **6.** The energy in the grass is 120 000 kJ per square metre per year. Calculate the energy available to
-the jackals through the chain grass → grasshopper → lizard → jackal. **[2]**
+the jackals through the chain grass → grasshopper → lizard → jackal, assuming 10% of the energy is passed
+on at each step. **[2]**
 
 **7.** Describe **two** abiotic and **two** biotic factors that could affect the number of fish in a river.
 **[4]**
