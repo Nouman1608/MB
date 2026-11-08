@@ -43,8 +43,8 @@ and independent revision.
 
 Explores the nature of the self and what it is to be human. Recommended
 topics include lifestyles, health and well-being, beliefs and values,
-subcultures, and language and identity. A guiding question the theme
-returns to repeatedly: how do language and culture contribute to
+subcultures, and language and identity. One of the possible questions
+listed for the theme: how do language and culture contribute to
 forming an identity?
 
 ## Experiences

@@ -176,11 +176,14 @@ The final IF puts the new ID at the end if it is larger than every existing one.
 
 ## Frequently asked questions
 
-**Is a getter the same as a function?** A getter is a method, normally a function, whose only job is to return the value of a private attribute.
+**Is a getter the same as a function?**
+A getter is a method, normally a function, whose only job is to return the value of a private attribute.
 
-**Why must a sequential file be copied to insert a record?** Records are stored in key order with no gaps, so a new record can only be placed in order by writing a new version of the file.
+**Why must a sequential file be copied to insert a record?**
+Records are stored in key order with no gaps, so a new record can only be placed in order by writing a new version of the file.
 
-**Does the 9618 pseudocode guide define TRY and EXCEPT?** No. Exception handling is written in your Paper 4 language (Python, Java or Visual Basic). In Paper 3, describe the try and catch structure in words or use the syntax a question gives.
+**Does the 9618 pseudocode guide define TRY and EXCEPT?**
+No. Exception handling is written in your Paper 4 language (Python, Java or Visual Basic). In Paper 3, describe the try and catch structure in words or use the syntax a question gives.
 
 ## Official syllabus
 

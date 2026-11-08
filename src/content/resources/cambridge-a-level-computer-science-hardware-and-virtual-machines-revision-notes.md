@@ -186,11 +186,14 @@ The corners form one group of four (B = 0, D = 0): B̄.D̄. The centre forms a g
 
 ## Frequently asked questions
 
-**Why are RISC processors better suited to pipelining?** Their instructions are a fixed length and mostly take one cycle, so each stage takes the same time and instructions flow through evenly.
+**Why are RISC processors better suited to pipelining?**
+Their instructions are a fixed length and mostly take one cycle, so each stage takes the same time and instructions flow through evenly.
 
-**Why can a flip-flop store data but an AND gate cannot?** The flip-flop's outputs feed back into its inputs, so it keeps its state after the input changes; a simple gate's output depends only on the current inputs.
+**Why can a flip-flop store data but an AND gate cannot?**
+The flip-flop's outputs feed back into its inputs, so it keeps its state after the input changes; a simple gate's output depends only on the current inputs.
 
-**Do I need to know MISD examples?** It is rarely used in practice. Describe it correctly and give a fault-tolerant system, where several processors handle the same data, as an illustration.
+**Do I need to know MISD examples?**
+It is rarely used in practice. Describe it correctly and give a fault-tolerant system, where several processors handle the same data, as an illustration.
 
 ## Official syllabus
 

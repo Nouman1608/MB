@@ -130,11 +130,14 @@ These questions cover all of Topic 5 System Software in Cambridge International 
 
 ## Frequently asked questions
 
-**How many points do I need for a "justify" question on translators?** One per mark, and each must be linked to the scenario, for example "the student can fix each error and continue at once" rather than "an interpreter is good for testing".
+**How many points do I need for a "justify" question on translators?**
+One per mark, and each must be linked to the scenario, for example "the student can fix each error and continue at once" rather than "an interpreter is good for testing".
 
-**Do I need to know the stages of compilation for AS?** No. Lexical analysis, syntax analysis, code generation and optimisation are in Topic 16 at A Level.
+**Do I need to know the stages of compilation for AS?**
+No. Lexical analysis, syntax analysis, code generation and optimisation are in Topic 16 at A Level.
 
-**Which IDE features does Cambridge name?** Context-sensitive prompts, dynamic syntax checks, prettyprint, expand and collapse code blocks, single stepping, breakpoints, and a report window of variables and expressions.
+**Which IDE features does Cambridge name?**
+Context-sensitive prompts, dynamic syntax checks, prettyprint, expand and collapse code blocks, single stepping, breakpoints, and a report window of variables and expressions.
 
 ## Official syllabus
 

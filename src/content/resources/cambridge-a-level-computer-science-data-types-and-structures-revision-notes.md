@@ -195,11 +195,14 @@ New order: Cairo → Lima → Madrid → Oslo. No data was moved, only pointers 
 
 ## Frequently asked questions
 
-**When should I use a record rather than parallel arrays?** When each item has several fields of different types. A record keeps them together under one identifier and an array of records is easier to sort and pass to a module.
+**When should I use a record rather than parallel arrays?**
+When each item has several fields of different types. A record keeps them together under one identifier and an array of records is easier to sort and pass to a module.
 
-**Do I have to write pseudocode for a stack or queue at AS?** No. The 9618 syllabus says you will not write pseudocode for these structures at AS, but you must add, edit and delete data and describe how they are held in arrays. Writing the algorithms is A Level (Topic 19).
+**Do I have to write pseudocode for a stack or queue at AS?**
+No. The 9618 syllabus says you will not write pseudocode for these structures at AS, but you must add, edit and delete data and describe how they are held in arrays. Writing the algorithms is A Level (Topic 19).
 
-**Why does a bubble sort need n − 1 comparisons per pass?** Each comparison looks at an element and the one after it, so with n elements the last valid pair starts at position n − 1.
+**Why does a bubble sort need n − 1 comparisons per pass?**
+Each comparison looks at an element and the one after it, so with n elements the last valid pair starts at position n − 1.
 
 ## Official syllabus
 

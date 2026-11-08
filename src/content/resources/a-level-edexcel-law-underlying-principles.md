@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Law: Underlying Principles of Law and the English Legal System (YLA1)"
+title: "Edexcel International A Level Law: Underlying Principles of Law and the English Legal System (YLA1)"
 resourceType: "study-guides"
 subject: "law"
 level: ["a-levels"]

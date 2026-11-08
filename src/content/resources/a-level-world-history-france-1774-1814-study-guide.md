@@ -87,11 +87,14 @@ Link factors: (1) bankruptcy caused by war debt and failed reforms meant new tax
 
 ## Frequently asked questions
 
-**Do I need to know Napoleon's battles?** Only their impact on France. The syllabus says foreign policy and campaigns are not required in detail.
+**Do I need to know Napoleon's battles?**
+Only their impact on France. The syllabus says foreign policy and campaigns are not required in detail.
 
-**When is France assessed on Paper 1?** In 2027 under the 2027-2029 rotation; in 2028 and 2029 it is assessed on Paper 2.
+**When is France assessed on Paper 1?**
+In 2027 under the 2027-2029 rotation; in 2028 and 2029 it is assessed on Paper 2.
 
-**What is the hardest key question?** Usually 1.3, because you must judge "how well" France was governed, comparing the Terror and the Directory with clear criteria such as stability, finance and defence.
+**What is the hardest key question?**
+Usually 1.3, because you must judge "how well" France was governed, comparing the Terror and the Directory with clear criteria such as stability, finance and defence.
 
 ## Official syllabus
 

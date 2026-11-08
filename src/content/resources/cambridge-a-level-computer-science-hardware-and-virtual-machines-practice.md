@@ -165,11 +165,14 @@ Check: 1101 gives B.C̄ = 1, so Z = 1; 1110 gives all three terms 0, so Z = 0, a
 
 ## Frequently asked questions
 
-**How do I check a Boolean simplification?** Substitute two or three rows of the truth table, especially rows where the output is 0, into both the original and simplified expressions.
+**How do I check a Boolean simplification?**
+Substitute two or three rows of the truth table, especially rows where the output is 0, into both the original and simplified expressions.
 
-**Does Cambridge accept + and . notation?** Expressions may be written with AND, OR and NOT or with the . + and bar notation; be consistent and use brackets to make the order clear.
+**Does Cambridge accept + and . notation?**
+Expressions may be written with AND, OR and NOT or with the . + and bar notation; be consistent and use brackets to make the order clear.
 
-**Can K-map groups overlap?** Yes. A cell can belong to more than one group if that makes the groups larger.
+**Can K-map groups overlap?**
+Yes. A cell can belong to more than one group if that makes the groups larger.
 
 ## Official syllabus
 

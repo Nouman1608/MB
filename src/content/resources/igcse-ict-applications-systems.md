@@ -241,15 +241,18 @@ expensive; over-reliance on navigation.
 
 ## Frequently asked questions
 
-**What is the difference between POS and EFTPOS?** A POS terminal
+**What is the difference between POS and EFTPOS?**
+A POS terminal
 records the sale and updates stock; an EFTPOS terminal handles the
 electronic card or phone payment and contacts the bank.
 
-**Why is RFID used for stock tracking instead of barcodes?** RFID tags
+**Why is RFID used for stock tracking instead of barcodes?**
+RFID tags
 can be read by radio without line of sight, and many can be read at
 once, which makes tracking faster.
 
-**What does the inference engine do?** It applies the rules in the
+**What does the inference engine do?**
+It applies the rules in the
 rules base to the facts in the knowledge base and the user's answers to
 reach a possible solution.
 

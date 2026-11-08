@@ -89,11 +89,14 @@ Weigh the given factor (isolating Austria in 1866 and France in 1870; Biarritz, 
 
 ## Frequently asked questions
 
-**Is the Zollverein a cause of unification?** It made the smaller states economically dependent on Prussia and excluded Austria, but it did not make them politically pro-Prussian, as the 1868 Zollparlament showed.
+**Is the Zollverein a cause of unification?**
+It made the smaller states economically dependent on Prussia and excluded Austria, but it did not make them politically pro-Prussian, as the 1868 Zollparlament showed.
 
-**What was Olmütz?** The 1850 agreement in which Prussia gave up its union plan under Austrian pressure, restoring the Confederation.
+**What was Olmütz?**
+The 1850 agreement in which Prussia gave up its union plan under Austrian pressure, restoring the Confederation.
 
-**Which year is this topic on Paper 1?** 2028, in the 2027-2029 rotation.
+**Which year is this topic on Paper 1?**
+2028, in the 2027-2029 rotation.
 
 ## Official syllabus
 

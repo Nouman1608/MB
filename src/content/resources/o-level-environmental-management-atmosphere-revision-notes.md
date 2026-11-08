@@ -149,12 +149,15 @@ Judgement: the tax works faster; afforestation gives wider environmental benefit
 
 ## Frequently asked questions
 
-**What are the three greenhouse gases named in 5014?** Carbon dioxide, water vapour and methane.
+**What are the three greenhouse gases named in 5014?**
+Carbon dioxide, water vapour and methane.
 
-**How does cement manufacture cause climate change?** Limestone (calcium carbonate) is heated to make lime
+**How does cement manufacture cause climate change?**
+Limestone (calcium carbonate) is heated to make lime
 (calcium oxide), which releases carbon dioxide.
 
-**Why is the Montreal Protocol seen as a success?** Countries agreed to phase out CFCs and alternatives
+**Why is the Montreal Protocol seen as a success?**
+Countries agreed to phase out CFCs and alternatives
 were available, so production fell sharply, although the ozone layer takes decades to recover.
 
 ## Official syllabus

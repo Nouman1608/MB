@@ -173,14 +173,17 @@ cooperation can achieve.
 
 ## Frequently asked questions
 
-**What is the difference between global warming and climate change?** Global warming is the rise in average
+**What is the difference between global warming and climate change?**
+Global warming is the rise in average
 temperature caused by the enhanced greenhouse effect. Climate change is the resulting long-term change in
 weather patterns.
 
-**Which acid rain strategies are on the 5014 syllabus?** Flue-gas desulfurisation, catalytic converters and
+**Which acid rain strategies are on the 5014 syllabus?**
+Flue-gas desulfurisation, catalytic converters and
 transport policies.
 
-**Do I need to explain thermal expansion?** No. The syllabus lists warming of the ocean surface and melting
+**Do I need to explain thermal expansion?**
+No. The syllabus lists warming of the ocean surface and melting
 ice; thermal expansion is accepted but not required.
 
 ## Official syllabus

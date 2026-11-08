@@ -133,10 +133,12 @@ In Cambridge IGCSE 0493 Paper 2 (1 hour 30 minutes, 50 marks), the history and i
 
 ## Frequently asked questions
 
-**Which collections are most respected by Sunni Muslims?** The Sahih collections of al-Bukhari and
+**Which collections are most respected by Sunni Muslims?**
+The Sahih collections of al-Bukhari and
 Muslim.
 
-**What is a weak Hadith?** One whose chain or text does not meet the conditions for a sound or good
+**What is a weak Hadith?**
+One whose chain or text does not meet the conditions for a sound or good
 Hadith, so it is not used on its own for legal rulings.
 
 ## Related pages

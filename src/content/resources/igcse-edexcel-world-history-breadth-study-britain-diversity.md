@@ -126,13 +126,16 @@ characteristics including race, sex, disability, sexual orientation and religion
 
 ## Frequently asked questions
 
-**Was government or protest more important?** A classic (c) question: protest (Bristol, Dagenham, Lawrence
+**Was government or protest more important?**
+A classic (c) question: protest (Bristol, Dagenham, Lawrence
 campaign) often prompted government action (1965, 1970, 1975, 2010 Acts).
 
-**Did the world wars help equality?** They brought opportunities and votes for women and services for disabled
+**Did the world wars help equality?**
+They brought opportunities and votes for women and services for disabled
 people, but also internment and the colour bar.
 
-**Which groups gained least?** Answers often weigh class inequality, which persisted despite education reform.
+**Which groups gained least?**
+Answers often weigh class inequality, which persisted despite education reform.
 
 ## Official syllabus
 

@@ -249,11 +249,14 @@ Marks: single loop [1]; loop can start at 2 because Max already holds Data[1] [1
 
 ## Frequently asked questions
 
-**Is `WHILE ... DO` correct Cambridge pseudocode?** The 9618 Pseudocode Guide writes the pre-condition loop as `WHILE <condition>` followed by the statements and `ENDWHILE`, with no DO.
+**Is `WHILE ... DO` correct Cambridge pseudocode?**
+The 9618 Pseudocode Guide writes the pre-condition loop as `WHILE <condition>` followed by the statements and `ENDWHILE`, with no DO.
 
-**Can a function change a parameter?** The guide says parameters should not be passed by reference to a function, so a function should return its result rather than change its arguments.
+**Can a function change a parameter?**
+The guide says parameters should not be passed by reference to a function, so a function should return its result rather than change its arguments.
 
-**Do I lose marks for extra declarations?** No. Declaring variables is good practice and is never penalised; missing initialisation of a total or counter often is.
+**Do I lose marks for extra declarations?**
+No. Declaring variables is good practice and is never penalised; missing initialisation of a total or counter often is.
 
 ## Official syllabus
 

@@ -283,18 +283,22 @@ language.
 
 ## Frequently asked questions
 
-**Do I need three-dimensional arrays for 9210?** No. The specification
+**Do I need three-dimensional arrays for 9210?**
+No. The specification
 states that only one- and two-dimensional arrays are required.
 
-**Do I need to encrypt passwords in an authentication routine?** No.
+**Do I need to encrypt passwords in an authentication routine?**
+No.
 OxfordAQA states that plain-text usernames and passwords are used at
 this level.
 
-**What is the difference between a procedure and a function?** Both are
+**What is the difference between a procedure and a function?**
+Both are
 subroutines. A function returns a value to the part of the program that
 called it; a procedure carries out a task without returning a value.
 
-**Why is assembly language still used?** It gives direct control of
+**Why is assembly language still used?**
+It gives direct control of
 specific hardware and is often used for embedded systems, where speed
 and small program size matter.
 

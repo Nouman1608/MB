@@ -136,11 +136,14 @@ in 1967 (after the Six-Day War).* (6 marks)
 
 ## Frequently asked questions
 
-**Why did Britain give up Palestine?** Rising violence, cost, post-war weakness and US pressure.
+**Why did Britain give up Palestine?**
+Rising violence, cost, post-war weakness and US pressure.
 
-**Why did Egypt make peace in 1979?** To regain Sinai, gain US aid and end the costs of war.
+**Why did Egypt make peace in 1979?**
+To regain Sinai, gain US aid and end the costs of war.
 
-**What did Oslo achieve?** Mutual recognition and the Palestinian Authority, but not a final settlement.
+**What did Oslo achieve?**
+Mutual recognition and the Palestinian Authority, but not a final settlement.
 
 ## Source
 

@@ -127,10 +127,12 @@ Maximum 6.
 
 ## Frequently asked questions
 
-**Is the data dictionary visible to ordinary users?** Usually not; it is used by the DBMS and the
+**Is the data dictionary visible to ordinary users?**
+Usually not; it is used by the DBMS and the
 database administrator to manage the structure.
 
-**Where do DDL and DML fit?** They are section 8.3; this page focuses on the DBMS features in 8.2,
+**Where do DDL and DML fit?**
+They are section 8.3; this page focuses on the DBMS features in 8.2,
 which use DDL to define structure and DML to query and maintain data.
 
 *Based on the Cambridge International AS & A Level Computer Science 9618 syllabus for 2027, 2028 and

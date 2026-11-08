@@ -129,13 +129,16 @@ source questions with the [A5 practice questions](/resources/edexcel-igcse-world
 
 ## Frequently asked questions
 
-**Why did the GDR's economy struggle in the 1980s?** Subsidies and welfare cost more than the economy
+**Why did the GDR's economy struggle in the 1980s?**
+Subsidies and welfare cost more than the economy
 produced, debt to the West grew and goods were scarce and poor.
 
-**Why did the Wall open on 9 November 1989?** A hastily announced change to travel rules led crowds to the
+**Why did the Wall open on 9 November 1989?**
+A hastily announced change to travel rules led crowds to the
 crossings, and guards, without clear orders, let them through.
 
-**Why did reunification happen so quickly?** East Germans voted for parties promising unity, the
+**Why did reunification happen so quickly?**
+East Germans voted for parties promising unity, the
 economy collapsed, and the four wartime Allies agreed in the Two Plus Four Treaty.
 
 ## Source

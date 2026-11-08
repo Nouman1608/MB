@@ -109,13 +109,16 @@ number of nobles; and no clear rule of succession.
 
 ## Frequently asked questions
 
-**What was the mansabdari system?** Akbar's system of ranking nobles and officials by a *mansab*
+**What was the mansabdari system?**
+Akbar's system of ranking nobles and officials by a *mansab*
 (rank) that set their pay and the number of troops they had to provide.
 
-**Why was Plassey so important?** It gave the East India Company control of Bengal, India's richest
+**Why was Plassey so important?**
+It gave the East India Company control of Bengal, India's richest
 province, and the money to expand further.
 
-**Was Aurangzeb responsible for the decline?** Partly: his long wars and costly campaigns weakened
+**Was Aurangzeb responsible for the decline?**
+Partly: his long wars and costly campaigns weakened
 the empire, but weak successors, invasions and the rise of other powers after 1707 were also
 decisive.
 

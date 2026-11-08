@@ -107,11 +107,14 @@ For each source: **content** (what it shows -- for example, an invented practice
 
 ## Frequently asked questions
 
-**How long should Section B take?** About an hour; give question 4 around 20-25 minutes.
+**How long should Section B take?**
+About an hour; give question 4 around 20-25 minutes.
 
-**Can I use knowledge from the period study?** Only where it is relevant to the depth study question; answers must focus on international conflict.
+**Can I use knowledge from the period study?**
+Only where it is relevant to the depth study question; answers must focus on international conflict.
 
-**Is Section B the same in every year?** The question types are fixed; the focus of each question can come from any of the three parts.
+**Is Section B the same in every year?**
+The question types are fixed; the focus of each question can come from any of the three parts.
 
 ## Official specification
 

@@ -155,13 +155,17 @@ A circuit has inputs A, B, C and output X = 1 only in the rows A=0, B=1, C=1 and
 
 ## Frequently asked questions
 
-**Is virtual memory part of Topic 3?** No. In 9618 the details of virtual memory, paging and segmentation are in Topic 16 (A Level). In Topic 3 you need RAM, ROM, SRAM, DRAM, PROM, EPROM and EEPROM.
+**Is virtual memory part of Topic 3?**
+No. In 9618 the details of virtual memory, paging and segmentation are in Topic 16 (A Level). In Topic 3 you need RAM, ROM, SRAM, DRAM, PROM, EPROM and EEPROM.
 
-**How much detail do I need on how a laser printer works?** Enough to give the stages in order: charge the drum, form the image with the laser, attract toner, transfer it to charged paper, fuse it with heat, clean the drum. Each correct stage is typically one mark.
+**How much detail do I need on how a laser printer works?**
+Enough to give the stages in order: charge the drum, form the image with the laser, attract toner, transfer it to charged paper, fuse it with heat, clean the drum. Each correct stage is typically one mark.
 
-**Do I need three-input gates?** Not for single gates: the syllabus says all gates except NOT have two inputs. Circuits can still have three or more inputs overall, built from two-input gates.
+**Do I need three-input gates?**
+Not for single gates: the syllabus says all gates except NOT have two inputs. Circuits can still have three or more inputs overall, built from two-input gates.
 
-**What is the difference between a sensor and an actuator?** A sensor is an input device that measures a physical quantity. An actuator is an output device that creates movement, such as opening a valve, in response to a signal from the computer.
+**What is the difference between a sensor and an actuator?**
+A sensor is an input device that measures a physical quantity. An actuator is an output device that creates movement, such as opening a valve, in response to a signal from the computer.
 
 ## Official syllabus
 

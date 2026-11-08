@@ -112,9 +112,11 @@ Depth Study E of Cambridge O Level History 2147 is examined in **Paper 1, Sectio
 
 ## Frequently asked questions
 
-**How long should I spend?** About 40 minutes on your Section B question, giving most time to part (c).
+**How long should I spend?**
+About 40 minutes on your Section B question, giving most time to part (c).
 
-**Does Section B include sources?** No. Section B questions are structured essays; source work is on Paper 2.
+**Does Section B include sources?**
+No. Section B questions are structured essays; source work is on Paper 2.
 
 ## Official syllabus
 

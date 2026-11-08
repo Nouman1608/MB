@@ -109,11 +109,14 @@ Opposition existed but was fragmented: the Edelweiss Pirates and Swing Youth, th
 
 ## Frequently asked questions
 
-**Is Depth Study B examined in Paper 2?** No. Paper 2 is set on a prescribed Core Content topic. Depth Study B is examined in Paper 1 Section B and can be used for Component 3 or Paper 4.
+**Is Depth Study B examined in Paper 2?**
+No. Paper 2 is set on a prescribed Core Content topic. Depth Study B is examined in Paper 1 Section B and can be used for Component 3 or Paper 4.
 
-**What dates should I know best?** January 1919, 1923 (Ruhr, hyperinflation, Munich Putsch), October 1929, July 1932, 30 January 1933, March 1933, 30 June 1934 and 2 August 1934 carry most answers on key questions 1 and 2.
+**What dates should I know best?**
+January 1919, 1923 (Ruhr, hyperinflation, Munich Putsch), October 1929, July 1932, 30 January 1933, March 1933, 30 June 1934 and 2 August 1934 carry most answers on key questions 1 and 2.
 
-**Was Nazi Germany totalitarian?** Arguments for: one party, terror, censorship, control of youth. Arguments against: limited opposition survived, the churches kept some independence, and rival Nazi leaders competed for power. A strong answer reaches a judgement.
+**Was Nazi Germany totalitarian?**
+Arguments for: one party, terror, censorship, control of youth. Arguments against: limited opposition survived, the churches kept some independence, and rival Nazi leaders competed for power. A strong answer reaches a judgement.
 
 ## Official syllabus
 

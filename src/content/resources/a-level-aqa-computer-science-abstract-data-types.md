@@ -215,16 +215,19 @@ has length 5, so cos θ = 24 ÷ (5 × 5) = 0.96 and θ ≈ 16.3°.
 
 ## Frequently asked questions
 
-**What is the difference between a hash table and a dictionary?** A
+**What is the difference between a hash table and a dictionary?**
+A
 dictionary is the abstract idea of key-value pairs; a hash table is a
 common way of implementing it, using a hashing algorithm to place each
 key.
 
-**Why is a circular queue better than a linear queue?** It reuses slots
+**Why is a circular queue better than a linear queue?**
+It reuses slots
 freed at the front, so it does not report full while there is unused
 space, and no items need shuffling.
 
-**Does a tree need a root?** Not in AQA's definition. A tree is any
+**Does a tree need a root?**
+Not in AQA's definition. A tree is any
 connected, undirected graph with no cycles; a rooted tree is one where a
 root has been chosen.
 

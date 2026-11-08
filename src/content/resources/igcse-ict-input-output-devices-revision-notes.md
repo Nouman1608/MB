@@ -51,7 +51,7 @@ Build a device / advantage / disadvantage table for every device in 2.1–2.3, t
 - **School register:** RFID reader beats a keyboard — removes manual entry, faster.
 - **Parcel delivery:** bar code/QR scanner, not OCR — OCR reads printed/handwritten text, not codes.
 - **Hospital wristband:** RFID over bar code — no line of sight needed, works while patient moves.
-- **Large-format poster proof:** plotter, not inkjet — built for large-format, high-precision line work.
+- **Large technical drawings (CAD plans, maps):** plotter — built for large-format, high-precision line work. A full-size colour poster proof needs a large-format inkjet instead, because a plotter is not designed for continuous-tone images.
 
 ## Devices that belong in more than one category
 
@@ -85,9 +85,9 @@ Cambridge also expects comparisons *within* 2.3's printer group, not just across
 3. Give one input use and one output use of a touch screen.
 4. Which output device is correct for a scenario describing a robot arm moving to pick up an object?
 5. State two reasons a chip and PIN reader is preferred over typing a card number by hand.
-6. Why would a graphic designer choose a plotter over an inkjet printer for a large poster proof?
+6. Why would an architect choose a plotter over a standard inkjet printer for printing large building plans?
 
-**Answers:** 1. OMR reads a predefined-position mark sheet; OCR reads printed or handwritten text. 2. RFID does not need a direct line of sight and can be read while the object is moving or the tag is concealed, unlike a bar code reader. 3. Input: making a selection on screen; output: displaying an image or interface. 4. Actuator — it converts an electrical signal into the physical movement described. 5. Faster than typing a full card number, and reduces transcription error; also more secure since the full number is not manually copied down. 6. A plotter is built for large-format, high-precision line work, which an inkjet printer is not designed to match at that scale and precision.
+**Answers:** 1. OMR reads a predefined-position mark sheet; OCR reads printed or handwritten text. 2. RFID does not need a direct line of sight and can be read while the object is moving or the tag is concealed, unlike a bar code reader. 3. Input: making a selection on screen; output: displaying an image or interface. 4. Actuator — it converts an electrical signal into the physical movement described. 5. Faster than typing a full card number, and reduces transcription error; also more secure since the full number is not manually copied down. 6. A plotter is built for large-format, high-precision line work such as technical drawings, which a standard inkjet printer cannot match at that size and precision.
 
 ## Frequently asked questions
 

@@ -125,11 +125,13 @@ This topic is examined in OxfordAQA 9236 Paper 2, Section B, worth 28 of the pap
 
 ## Frequently asked questions
 
-**Why are Karachi and Lahore so large?** Karachi has the main seaport and industry; Lahore is a
+**Why are Karachi and Lahore so large?**
+Karachi has the main seaport and industry; Lahore is a
 historic capital with industry, services and universities. Both attract migrants from across
 Pakistan.
 
-**What is GSP+?** An EU trade scheme that removes or lowers tariffs on many Pakistani exports, in
+**What is GSP+?**
+An EU trade scheme that removes or lowers tariffs on many Pakistani exports, in
 return for commitments on human rights, labour and environmental standards.
 
 ## Related pages

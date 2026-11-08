@@ -184,13 +184,16 @@ act duress is possible only in narrow cases (Times Travel v Pakistan Internation
 
 ## Frequently asked questions
 
-**Is contract compulsory in AQA 7162?** No. On Paper 3 you study either law of contract or human rights,
+**Is contract compulsory in AQA 7162?**
+No. On Paper 3 you study either law of contract or human rights,
 each worth 75 marks, alongside 25 marks of English legal system content.
 
-**Which CRA 2015 sections must I know?** For goods: s9, s10 and s11 with remedies under s20, s23 and s24.
+**Which CRA 2015 sections must I know?**
+For goods: s9, s10 and s11 with remedies under s20, s23 and s24.
 For services: s49 and s52 with remedies under s55 and s56. For exclusions: s31, s57 and s65.
 
-**What is the difference between negligent misrepresentation at common law and under s2(1)?** Under s2(1)
+**What is the difference between negligent misrepresentation at common law and under s2(1)?**
+Under s2(1)
 the burden of proof is reversed, so the defendant must prove reasonable grounds for belief. The
 claimant also gets the fraud measure of damages.
 

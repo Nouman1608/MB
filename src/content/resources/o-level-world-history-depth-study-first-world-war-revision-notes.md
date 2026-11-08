@@ -127,11 +127,14 @@ featured: false
 
 ## Frequently asked questions
 
-**Who won Jutland?** Tactically, Germany sank more ships; strategically, Britain kept control of the North Sea and the blockade.
+**Who won Jutland?**
+Tactically, Germany sank more ships; strategically, Britain kept control of the North Sea and the blockade.
 
-**How many marks are the three parts?** (a) 4, (b) 6, (c) 10 -- 20 marks for the Section B question.
+**How many marks are the three parts?**
+(a) 4, (b) 6, (c) 10 -- 20 marks for the Section B question.
 
-**What should a (c) conclusion do?** Give a clear judgement about the factor in the question compared with at least one other factor, with a reason.
+**What should a (c) conclusion do?**
+Give a clear judgement about the factor in the question compared with at least one other factor, with a reason.
 
 ## Self-test
 

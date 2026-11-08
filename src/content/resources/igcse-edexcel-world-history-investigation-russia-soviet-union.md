@@ -136,14 +136,17 @@ recovered, but many communists saw the NEP as a retreat to capitalism. By Lenin'
 
 ## Frequently asked questions
 
-**Why did the 1905 revolution fail but February 1917 succeed?** In 1905 the army stayed loyal and the
+**Why did the 1905 revolution fail but February 1917 succeed?**
+In 1905 the army stayed loyal and the
 opposition split; in 1917 the Petrograd garrison mutinied and the elite abandoned Nicholas.
 
-**Was the October Revolution a popular rising or a coup?** A classic interpretation debate: weigh
+**Was the October Revolution a popular rising or a coup?**
+A classic interpretation debate: weigh
 mass support for Bolshevik slogans against the small-scale seizure organised by the Military
 Revolutionary Committee.
 
-**Why did Lenin introduce the NEP?** Famine, peasant revolts and the Kronstadt Mutiny showed War
+**Why did Lenin introduce the NEP?**
+Famine, peasant revolts and the Kronstadt Mutiny showed War
 Communism could not continue.
 
 ## Official syllabus

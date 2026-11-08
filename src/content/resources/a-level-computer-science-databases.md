@@ -192,13 +192,17 @@ COUNT counts rows; SUM adds a numeric field; AVG finds its mean. When an aggrega
 
 ## Frequently asked questions
 
-**Is a tuple the same as a record?** Yes. "Tuple" is the formal relational term for one row; "attribute" is the formal term for a field.
+**Is a tuple the same as a record?**
+Yes. "Tuple" is the formal relational term for one row; "attribute" is the formal term for a field.
 
-**Where does the foreign key go in a one-to-many relationship?** In the table on the "many" side. One owner has many pets, so OwnerID is a foreign key in PET.
+**Where does the foreign key go in a one-to-many relationship?**
+In the table on the "many" side. One owner has many pets, so OwnerID is a foreign key in PET.
 
-**Why can't a many-to-many relationship be stored directly?** A field holds a single value, so one record cannot list many linked records without a repeating group. A link table turns the M:M relationship into two 1:M relationships.
+**Why can't a many-to-many relationship be stored directly?**
+A field holds a single value, so one record cannot list many linked records without a repeating group. A link table turns the M:M relationship into two 1:M relationships.
 
-**Do I need to write SQL for three tables?** No. The 9618 syllabus limits DML queries to at most two tables.
+**Do I need to write SQL for three tables?**
+No. The 9618 syllabus limits DML queries to at most two tables.
 
 ## Official syllabus
 

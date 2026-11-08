@@ -139,13 +139,16 @@ Exam tip: say which condition fails, quoting the figure, rather than just "no".
 
 ## Frequently asked questions
 
-**Why are some volcanoes far from plate boundaries?** They form over hotspots, where hot mantle material
+**Why are some volcanoes far from plate boundaries?**
+They form over hotspots, where hot mantle material
 rises beneath the middle of a plate.
 
-**What makes a strong "discuss" answer for hazard management?** Name the strategy and the stage
+**What makes a strong "discuss" answer for hazard management?**
+Name the strategy and the stage
 (before, during or after), give a benefit, give a limitation and finish with a judgement.
 
-**Can floods be good for people?** Yes. The syllabus names two opportunities: nutrient-rich silt on
+**Can floods be good for people?**
+Yes. The syllabus names two opportunities: nutrient-rich silt on
 farmland and recharge of surface and ground water stores.
 
 ## Official syllabus

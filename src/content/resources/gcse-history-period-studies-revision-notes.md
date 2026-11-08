@@ -146,11 +146,14 @@ Strong answer pattern: "Interpretation A was written by **a German banker in 192
 
 ## Frequently asked questions
 
-**Do I need to know historians' names?** No. AQA says the interpretations do not require knowledge of historiography.
+**Do I need to know historians' names?**
+No. AQA says the interpretations do not require knowledge of historiography.
 
-**How many words is each interpretation?** Around 50-100 words, each with an ascription telling you who wrote it.
+**How many words is each interpretation?**
+Around 50-100 words, each with an ascription telling you who wrote it.
 
-**Can question 6 cover more than one part?** Yes, it may focus on one part or on a development that runs across parts.
+**Can question 6 cover more than one part?**
+Yes, it may focus on one part or on a development that runs across parts.
 
 ## Self-test
 

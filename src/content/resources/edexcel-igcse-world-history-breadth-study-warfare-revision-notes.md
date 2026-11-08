@@ -129,13 +129,16 @@ Quick-recall notes for Breadth Study B6 of Pearson Edexcel International GCSE Hi
 
 ## Frequently asked questions
 
-**Why did Blitzkrieg work in 1939–40?** Speed, concentration of tanks, air support and radio communication
+**Why did Blitzkrieg work in 1939–40?**
+Speed, concentration of tanks, air support and radio communication
 against slower, defensive opponents.
 
-**Why were carriers decisive in the Pacific?** Aircraft could strike far beyond the range of battleship
+**Why were carriers decisive in the Pacific?**
+Aircraft could strike far beyond the range of battleship
 guns.
 
-**What made drones important?** Strikes without risk to the operator's life, at long range.
+**What made drones important?**
+Strikes without risk to the operator's life, at long range.
 
 ## Source
 

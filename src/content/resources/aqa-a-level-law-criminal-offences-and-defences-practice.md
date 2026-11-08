@@ -102,11 +102,14 @@ These questions test the offences and defences in AQA A-level Law (7162) section
 
 ## Frequently asked questions
 
-**How do I structure a criminal law problem answer?** Identify the most serious offence the facts support, then state each element with an authority, apply it to the facts and conclude. Only then consider defences, and finish with an overall conclusion on liability.
+**How do I structure a criminal law problem answer?**
+Identify the most serious offence the facts support, then state each element with an authority, apply it to the facts and conclude. Only then consider defences, and finish with an overall conclusion on liability.
 
-**Is self-defence a partial defence to murder?** No. Self-defence is a complete defence: it either succeeds and the defendant is acquitted, or fails and the defendant is guilty. Loss of control and diminished responsibility are the partial defences.
+**Is self-defence a partial defence to murder?**
+No. Self-defence is a complete defence: it either succeeds and the defendant is acquitted, or fails and the defendant is guilty. Loss of control and diminished responsibility are the partial defences.
 
-**What is the difference between assault and battery?** Assault is causing someone to apprehend immediate unlawful force; battery is actually applying unlawful force. A punch the victim sees coming is both.
+**What is the difference between assault and battery?**
+Assault is causing someone to apprehend immediate unlawful force; battery is actually applying unlawful force. A punch the victim sees coming is both.
 
 ---
 

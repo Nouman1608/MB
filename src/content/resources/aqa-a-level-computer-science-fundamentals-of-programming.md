@@ -30,10 +30,10 @@ featured: false
 ---
 
 This guide covers **Topic 1 Fundamentals of programming**, the first
-of 13 named subject-content sections in AQA A-level Computer Science
-(7517), first teaching September 2015. (The non-exam-assessment
-practical project is a coursework component, not part of the
-subject-content sections numbered here.)
+of 14 numbered subject-content sections (4.1-4.14) in AQA A-level
+Computer Science (7517), first teaching September 2015. (Sections
+4.1-4.13 are examined content; 4.14 is the non-exam-assessment
+computing practical project.)
 
 ## Where this fits in 7517
 

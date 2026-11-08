@@ -103,11 +103,14 @@ Strong answers explain two or three reasons, each linked to loss of support: con
 
 ## Frequently asked questions
 
-**Do I need Old Style dates?** No. Know that the revolutions are often called "February" and "October" in books, but the 0470 syllabus uses March and November 1917.
+**Do I need Old Style dates?**
+No. Know that the revolutions are often called "February" and "October" in books, but the 0470 syllabus uses March and November 1917.
 
-**Which key question gives the most (c) questions?** Any can. Prepare a two-sided argument for each focus point, such as whether the war or the Tsar's own failings mattered most in 1917.
+**Which key question gives the most (c) questions?**
+Any can. Prepare a two-sided argument for each focus point, such as whether the war or the Tsar's own failings mattered most in 1917.
 
-**Was the NEP a success?** Economically, largely yes by 1926-27; politically it divided the party and was abandoned by Stalin in 1928-29.
+**Was the NEP a success?**
+Economically, largely yes by 1926-27; politically it divided the party and was abandoned by Stalin in 1928-29.
 
 ## Official syllabus
 

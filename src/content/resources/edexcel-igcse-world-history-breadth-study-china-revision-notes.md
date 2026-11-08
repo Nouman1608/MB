@@ -135,12 +135,15 @@ Quick-recall notes for Breadth Study B4 of Pearson Edexcel International GCSE Hi
 
 ## Frequently asked questions
 
-**Why was the Long March significant?** It saved the CCP, made Mao leader and became a propaganda legend.
+**Why was the Long March significant?**
+It saved the CCP, made Mao leader and became a propaganda legend.
 
-**Why did the Great Leap fail?** Unrealistic targets, false reporting, poor-quality steel and neglect of
+**Why did the Great Leap fail?**
+Unrealistic targets, false reporting, poor-quality steel and neglect of
 harvests.
 
-**What did Deng change?** The economy, through markets and foreign investment; not one-party rule.
+**What did Deng change?**
+The economy, through markets and foreign investment; not one-party rule.
 
 ## Source
 

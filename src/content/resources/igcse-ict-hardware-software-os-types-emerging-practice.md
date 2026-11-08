@@ -145,10 +145,12 @@ needed for full marks. Maximum 6.
 
 ## Frequently asked questions
 
-**Do I need to know how AI works internally?** No. The 0417 syllabus focuses on the impact of AI and
+**Do I need to know how AI works internally?**
+No. The 0417 syllabus focuses on the impact of AI and
 extended reality on everyday life.
 
-**Where is section 1.2 practised?** On the [Computer Systems practice page](/resources/ict-computer-systems-practice/), which covers the CPU,
+**Where is section 1.2 practised?**
+On the [Computer Systems practice page](/resources/ict-computer-systems-practice/), which covers the CPU,
 internal memory, input and output devices and backing storage.
 
 *Based on the Cambridge IGCSE ICT 0417 syllabus for 2026, 2027 and 2028, sections 1.1 and 1.3 to 1.5.*

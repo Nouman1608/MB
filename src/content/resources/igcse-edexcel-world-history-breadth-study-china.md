@@ -128,12 +128,15 @@ army cleared the square, killing many — the true number is unknown.
 
 ## Frequently asked questions
 
-**Why did the CCP win in 1949?** Weigh Mao's leadership and peasant support against GMD weakness,
+**Why did the CCP win in 1949?**
+Weigh Mao's leadership and peasant support against GMD weakness,
 corruption and the effects of the war with Japan.
 
-**Was Deng's China a break with Mao's?** Economically yes; politically, one-party rule continued.
+**Was Deng's China a break with Mao's?**
+Economically yes; politically, one-party rule continued.
 
-**What is the best theme for a long essay?** Leadership (Sun, Chiang, Mao, Deng) or economic transformation.
+**What is the best theme for a long essay?**
+Leadership (Sun, Chiang, Mao, Deng) or economic transformation.
 
 ## Official syllabus
 

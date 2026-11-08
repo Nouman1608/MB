@@ -135,10 +135,12 @@ special requirements, is needed for full marks. Maximum 6.
 
 ## Frequently asked questions
 
-**Will I have to write code in the exam?** Programming questions can ask you to write or complete
+**Will I have to write code in the exam?**
+Programming questions can ask you to write or complete
 code in your chosen language; practise the empty and full tests until they are automatic.
 
-**Should my code clear the array slot after a pop?** It is not required; moving the pointer is what
+**Should my code clear the array slot after a pop?**
+It is not required; moving the pointer is what
 removes the item from the stack's logical contents.
 
 *Based on the OxfordAQA International AS and A-level Computer Science (9645) specification,

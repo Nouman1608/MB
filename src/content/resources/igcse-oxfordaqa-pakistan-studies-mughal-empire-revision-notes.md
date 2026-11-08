@@ -116,13 +116,16 @@ This topic is examined in OxfordAQA 9236 Paper 1, Section C, worth 21 of the pap
 
 ## Frequently asked questions
 
-**Why did Akbar build alliances with the Rajputs?** To secure the loyalty of powerful warrior
+**Why did Akbar build alliances with the Rajputs?**
+To secure the loyalty of powerful warrior
 kingdoms, add their soldiers to his army and stabilise north India.
 
-**How did Nadir Shah weaken the Mughals?** His 1739 victory and sack of Delhi emptied the treasury,
+**How did Nadir Shah weaken the Mughals?**
+His 1739 victory and sack of Delhi emptied the treasury,
 showed the empire could be defeated, and encouraged provincial governors to act independently.
 
-**Why did the Marathas weaken the Mughals?** Their long resistance in the Deccan drained Aurangzeb's
+**Why did the Marathas weaken the Mughals?**
+Their long resistance in the Deccan drained Aurangzeb's
 treasury, and after 1707 they expanded north, collecting revenue from former Mughal lands.
 
 ## Related pages

@@ -135,11 +135,14 @@ These questions cover all of Topic 6 of Cambridge International AS & A Level Com
 
 ## Frequently asked questions
 
-**Do validation questions always ask for an example?** Often. Give an example that fails the check you named; an example that a different check would reject does not score.
+**Do validation questions always ask for an example?**
+Often. Give an example that fails the check you named; an example that a different check would reject does not score.
 
-**How many marks does a parity block question carry?** Typically one each for identifying the row, the column and the bit, as in question 10. Show the count of 1s for the failing row and column.
+**How many marks does a parity block question carry?**
+Typically one each for identifying the row, the column and the bit, as in question 10. Show the count of 1s for the failing row and column.
 
-**Is a type check on the syllabus?** The 9618 syllabus lists range, format, length, presence, existence, limit and check digit. Use those names where they fit the field.
+**Is a type check on the syllabus?**
+The 9618 syllabus lists range, format, length, presence, existence, limit and check digit. Use those names where they fit the field.
 
 ## Official syllabus
 

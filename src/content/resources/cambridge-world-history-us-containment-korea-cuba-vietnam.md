@@ -152,18 +152,22 @@ nationalist guerrilla movement (Vietnam).
 
 ## Frequently asked questions
 
-**What was containment?** The US policy, from the Truman Doctrine of
+**What was containment?**
+The US policy, from the Truman Doctrine of
 1947, of stopping communism from spreading to further countries.
 
-**Was the Korean War a success for containment?** Mostly yes: South
+**Was the Korean War a success for containment?**
+Mostly yes: South
 Korea remained non-communist, although the war ended in stalemate near
 the original border in 1953.
 
-**Who won the Cuban Missile Crisis?** Both sides could claim
+**Who won the Cuban Missile Crisis?**
+Both sides could claim
 something: the Soviet missiles left Cuba, but the USA promised not to
 invade and secretly removed its missiles from Turkey.
 
-**Why did the USA withdraw from Vietnam?** The war could not be won at
+**Why did the USA withdraw from Vietnam?**
+The war could not be won at
 an acceptable cost; after the Tet Offensive public opinion turned
 against it, and Nixon withdrew troops through Vietnamisation and the
 1973 Paris Peace Accords.

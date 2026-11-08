@@ -188,11 +188,14 @@ ENDFUNCTION
 
 ## Frequently asked questions
 
-**Why must the data be sorted for a binary search?** Discarding half the list relies on knowing every item to one side of the middle is smaller and every item to the other side larger.
+**Why must the data be sorted for a binary search?**
+Discarding half the list relies on knowing every item to one side of the middle is smaller and every item to the other side larger.
 
-**Which is faster on nearly sorted data, insertion or bubble sort?** Usually insertion sort: each item moves only a short distance, so there are few shifts and comparisons.
+**Which is faster on nearly sorted data, insertion or bubble sort?**
+Usually insertion sort: each item moves only a short distance, so there are few shifts and comparisons.
 
-**Do I write graph code in Paper 4?** No. The syllabus says you will not write code for a graph structure; you describe and justify it.
+**Do I write graph code in Paper 4?**
+No. The syllabus says you will not write code for a graph structure; you describe and justify it.
 
 ## Official syllabus
 

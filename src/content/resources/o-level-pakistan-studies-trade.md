@@ -47,8 +47,9 @@ increase its share of world trade. Trade links to Section 4 (rice, cotton, fruit
 
 ## What does Pakistan export and import?
 
-The values below are rounded and refer to the fiscal year 2023–24 (July to June), using State Bank
-and Pakistan Bureau of Statistics reporting. Learn the pattern; the exact numbers move each year.
+The values below are rounded and refer to the fiscal year 2023–24 (July to June), using Pakistan
+Bureau of Statistics trade data (exports US$30.6 billion, imports US$54.7 billion, deficit US$24.1
+billion) and State Bank remittance data; State Bank balance-of-payments totals differ slightly. Learn the pattern; the exact numbers move each year.
 
 | | Approximate value (2023–24) | Main items |
 |---|---|---|

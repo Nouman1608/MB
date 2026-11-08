@@ -134,11 +134,13 @@ marks. Maximum 6.
 
 ## Frequently asked questions
 
-**Do I need to know how the mountains were formed?** No. The 0448 syllabus says knowledge of the
+**Do I need to know how the mountains were formed?**
+No. The 0448 syllabus says knowledge of the
 formation of Pakistan's natural topography is not required, but you must use the right vocabulary to
 describe mountains, plateaux, floodplains and deserts.
 
-**Which rain types should I explain?** You must understand the causes of the monsoon. You should know
+**Which rain types should I explain?**
+You must understand the causes of the monsoon. You should know
 the distribution of convectional rain and depressions, but the syllabus does not require you to
 explain their causes.
 

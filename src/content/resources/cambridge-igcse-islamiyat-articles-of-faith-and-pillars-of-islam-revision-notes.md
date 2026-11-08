@@ -110,10 +110,12 @@ In Cambridge IGCSE 0493 Paper 2 (1 hour 30 minutes, 50 marks), the Articles of F
 
 ## Frequently asked questions
 
-**Why is the shahada called the foundation of the other pillars?** Because every other act of worship
+**Why is the shahada called the foundation of the other pillars?**
+Because every other act of worship
 is valid only if done with belief in one God and acceptance of the Prophet's message.
 
-**What is Laylat al-Qadr?** The Night of Power in the last ten nights of Ramadan, when the Qur'an was
+**What is Laylat al-Qadr?**
+The Night of Power in the last ten nights of Ramadan, when the Qur'an was
 first revealed; worship on it is better than a thousand months (Sura 97).
 
 ## Related pages

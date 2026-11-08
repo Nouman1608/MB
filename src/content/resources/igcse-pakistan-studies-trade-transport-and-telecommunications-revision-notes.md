@@ -125,10 +125,12 @@ This content is examined on Cambridge Paper 2, The environment of Pakistan (1 ho
 
 ## Frequently asked questions
 
-**Which three seaports must I locate?** Keamari (Karachi Port), Port Qasim (east of Karachi) and
+**Which three seaports must I locate?**
+Keamari (Karachi Port), Port Qasim (east of Karachi) and
 Gwadar on the Balochistan coast.
 
-**Does a weak rupee help or harm trade?** Both: exports become cheaper for foreign buyers, but
+**Does a weak rupee help or harm trade?**
+Both: exports become cheaper for foreign buyers, but
 imported oil and machinery cost more, which raises production costs.
 
 ## Related pages

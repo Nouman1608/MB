@@ -203,17 +203,21 @@ starting that day. Delivery is three weeks late. The bakery loses 4,200 pounds o
 
 ## Frequently asked questions
 
-**What does Cambridge 9084 Paper 3 test?** Paper 3 Law of Contract tests Topic 3 only, with English
+**What does Cambridge 9084 Paper 3 test?**
+Paper 3 Law of Contract tests Topic 3 only, with English
 legal system assumed. You answer one scenario (25 marks) and two essays (25 marks each) in 1 hour
 30 minutes.
 
-**Do I need to know the Minors' Contracts Act 1987?** Yes. The 9084 syllabus names s2 (guarantees) and
+**Do I need to know the Minors' Contracts Act 1987?**
+Yes. The 9084 syllabus names s2 (guarantees) and
 s3 (restitution of property) under capacity, together with equitable remedies and their limits.
 
-**Is UCTA 1977 still examined?** Yes, for business-to-business contracts: s1(3), s2, s3 and s11. Consumer
+**Is UCTA 1977 still examined?**
+Yes, for business-to-business contracts: s1(3), s2, s3 and s11. Consumer
 contracts fall under CRA 2015, including s62, s65 and s68.
 
-**What is the difference between s1(2) and s1(3) of the 1943 Act?** Section 1(2) deals with money paid or
+**What is the difference between s1(2) and s1(3) of the 1943 Act?**
+Section 1(2) deals with money paid or
 payable before frustration. Section 1(3) lets the court award a just sum for a non-money benefit.
 
 ## Official syllabus

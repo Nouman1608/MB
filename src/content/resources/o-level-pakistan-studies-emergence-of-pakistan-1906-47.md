@@ -151,14 +151,17 @@ reality.
 
 ## Frequently asked questions
 
-**How many factors should a 14-mark answer explain?** At least three, including the factor in the
+**How many factors should a 14-mark answer explain?**
+At least three, including the factor in the
 question, each supported by accurate detail, followed by a judgement.
 
-**What is the difference between the Delhi Proposals and the 14 Points?** The Delhi Proposals (1927)
+**What is the difference between the Delhi Proposals and the 14 Points?**
+The Delhi Proposals (1927)
 offered to give up separate electorates in exchange for safeguards; the 14 Points (1929), written
 after the Nehru Report, insisted on separate electorates and a federal system.
 
-**What is a source-based question?** Section A gives a written or picture source; you must use and
+**What is a source-based question?**
+Section A gives a written or picture source; you must use and
 interpret it, not just describe it, alongside your own knowledge.
 
 ## Related pages

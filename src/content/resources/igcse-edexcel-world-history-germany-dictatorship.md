@@ -137,15 +137,18 @@ Germany surrendered in May 1945.
 
 ## Frequently asked questions
 
-**Was the Weimar Republic doomed from the start?** It is a common essay theme. It survived the
+**Was the Weimar Republic doomed from the start?**
+It is a common essay theme. It survived the
 crises of 1919–23 and recovered in 1924–29, which suggests it was not; but its weaknesses left it
 vulnerable to the Depression.
 
-**What is the difference between the SA and SS?** The SA were the mass stormtroopers who helped the
+**What is the difference between the SA and SS?**
+The SA were the mass stormtroopers who helped the
 Nazis rise; the SS began as Hitler's bodyguard and, under Himmler, became the core of the police
 state after 1934.
 
-**Do I need election figures?** A few key ones (12 seats in 1928, 107 in 1930, 230 in July 1932)
+**Do I need election figures?**
+A few key ones (12 seats in 1928, 107 in 1930, 230 in July 1932)
 make explanations precise.
 
 ## Official syllabus

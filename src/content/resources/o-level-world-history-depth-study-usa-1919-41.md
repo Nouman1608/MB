@@ -92,11 +92,14 @@ Depth Study D is examined in **Paper 1, Section B**: two questions are set on ea
 
 ## Frequently asked questions
 
-**Who were the three Republican presidents?** Harding (1921-23), Coolidge (1923-29) and Hoover (1929-33).
+**Who were the three Republican presidents?**
+Harding (1921-23), Coolidge (1923-29) and Hoover (1929-33).
 
-**What was hire purchase?** Buying goods by paying a deposit and then regular instalments -- it increased sales but also debt.
+**What was hire purchase?**
+Buying goods by paying a deposit and then regular instalments -- it increased sales but also debt.
 
-**Is the New Deal's opposition a likely (c) question?** Yes. Know at least three groups and why each objected.
+**Is the New Deal's opposition a likely (c) question?**
+Yes. Know at least three groups and why each objected.
 
 ## Official syllabus
 

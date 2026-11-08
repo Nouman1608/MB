@@ -137,13 +137,16 @@ Quick-recall notes for Breadth Study B2 of Pearson Edexcel International GCSE Hi
 
 ## Frequently asked questions
 
-**Why was there little progress before 1860?** No knowledge of germs, belief in miasma, and limited
+**Why was there little progress before 1860?**
+No knowledge of germs, belief in miasma, and limited
 government action.
 
-**What was the significance of germ theory?** It explained disease and led to antiseptics, vaccines and
+**What was the significance of germ theory?**
+It explained disease and led to antiseptics, vaccines and
 targeted cures.
 
-**Why was the NHS created in 1948?** Wartime experience, the Beveridge Report and Labour's election victory.
+**Why was the NHS created in 1948?**
+Wartime experience, the Beveridge Report and Labour's election victory.
 
 ## Source
 

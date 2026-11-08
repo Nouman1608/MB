@@ -149,9 +149,11 @@ The life and teachings of Hazrat Muhammad (pbuh) is examined in OxfordAQA 9237 P
 
 ## Frequently asked questions
 
-**Who was the first person to accept Islam?** Hazrat Khadija (RA).
+**Who was the first person to accept Islam?**
+Hazrat Khadija (RA).
 
-**Why is 622 CE important?** The Hijrah marks the start of the Islamic calendar.
+**Why is 622 CE important?**
+The Hijrah marks the start of the Islamic calendar.
 
 ## Related pages
 

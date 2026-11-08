@@ -148,11 +148,14 @@ Example: `9 3 / 2 4 × +` → push 9, 3; `/` gives 3; push 2, 4; `×` gives 8; `
 
 ## Frequently asked questions
 
-**What is the difference between SJF and SRT?** SJF is non-pre-emptive: once a job starts, it finishes. SRT is pre-emptive: if a new process needs less time than the running one has left, it takes over.
+**What is the difference between SJF and SRT?**
+SJF is non-pre-emptive: once a job starts, it finishes. SRT is pre-emptive: if a new process needs less time than the running one has left, it takes over.
 
-**Why does a compiler build a symbol table?** To record each identifier with information such as its type and address, so later stages can check its use and generate code for it.
+**Why does a compiler build a symbol table?**
+To record each identifier with information such as its type and address, so later stages can check its use and generate code for it.
 
-**Does optimisation change what a program does?** No. It changes how the object code achieves the result, making it faster or smaller without changing the output.
+**Does optimisation change what a program does?**
+No. It changes how the object code achieves the result, making it faster or smaller without changing the output.
 
 ## Official syllabus
 

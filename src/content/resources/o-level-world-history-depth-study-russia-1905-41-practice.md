@@ -112,9 +112,11 @@ Cambridge O Level History 2147 examines Depth Study C in **Paper 1, Section B**,
 
 ## Frequently asked questions
 
-**Should I learn production figures?** A few approximate comparisons (for example, coal and steel output rising several times over between 1928 and 1940) help, but explanation matters more.
+**Should I learn production figures?**
+A few approximate comparisons (for example, coal and steel output rising several times over between 1928 and 1940) help, but explanation matters more.
 
-**Which questions overlap with Germany?** Methods of control (terror and propaganda) appear in both Depth Studies B and C, but answer with Soviet evidence here.
+**Which questions overlap with Germany?**
+Methods of control (terror and propaganda) appear in both Depth Studies B and C, but answer with Soviet evidence here.
 
 ## Official syllabus
 

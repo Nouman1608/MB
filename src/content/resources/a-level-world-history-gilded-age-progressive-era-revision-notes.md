@@ -124,11 +124,14 @@ Rotation reminder: Paper 1 (sources) in 2027; Paper 2 (essays) in 2028 and 2029.
 
 ## Frequently asked questions
 
-**What is the single best piece of evidence that the presidency changed?** Roosevelt's intervention in the 1902 coal strike, when he pressed owners into arbitration rather than sending troops against strikers.
+**What is the single best piece of evidence that the presidency changed?**
+Roosevelt's intervention in the 1902 coal strike, when he pressed owners into arbitration rather than sending troops against strikers.
 
-**Which reforms were state rather than federal?** Primaries, initiative, referendum, recall and many labour laws began in the states; Wisconsin under Robert La Follette is a standard example.
+**Which reforms were state rather than federal?**
+Primaries, initiative, referendum, recall and many labour laws began in the states; Wisconsin under Robert La Follette is a standard example.
 
-**How much detail do I need on inventions?** Enough to explain their economic effect: for example, the telephone and typewriter allowed large companies to be managed from a central office.
+**How much detail do I need on inventions?**
+Enough to explain their economic effect: for example, the telephone and typewriter allowed large companies to be managed from a central office.
 
 ## Self-test
 

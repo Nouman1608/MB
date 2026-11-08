@@ -111,11 +111,14 @@ Explain the offensive's failure (exhausted reserves, overstretched lines), then 
 
 ## Frequently asked questions
 
-**Is this Depth Study the same as the IGCSE 0470 one?** The key questions and content are the same in the 2024-2026 syllabuses, but the O Level examines it only through Paper 1 Section B.
+**Is this Depth Study the same as the IGCSE 0470 one?**
+The key questions and content are the same in the 2024-2026 syllabuses, but the O Level examines it only through Paper 1 Section B.
 
-**Which key question is most often neglected?** Key question 2 (the world war); revise all its case studies.
+**Which key question is most often neglected?**
+Key question 2 (the world war); revise all its case studies.
 
-**What date ends the Depth Study?** The Armistice of 11 November 1918. The peace treaties belong to Core Content Option B.
+**What date ends the Depth Study?**
+The Armistice of 11 November 1918. The peace treaties belong to Core Content Option B.
 
 ## Official syllabus
 

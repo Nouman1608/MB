@@ -51,8 +51,8 @@ These facts come from the subject brief.
 | Weighting | 30% of the final grade at SL; 20% at HL |
 | Levels | Taken at both SL and HL |
 
-**Not in the brief -- confirm with your teacher:** the timing, the extract length, whether you may
-use notes, any follow-up questions, and the assessment criteria.
+**Not in the brief:** the timing, the extract length, whether you may
+use notes, any follow-up questions, and the assessment criteria. The full IB Language A guide does set them: the oral lasts 15 minutes (a 10-minute prepared response followed by 5 minutes of teacher questions), each extract is no more than 40 lines, you may take in an outline of no more than 10 bullet points, and it is marked out of 40 on four criteria (A to D, 10 marks each). Confirm the details with your teacher.
 
 ## Key terms
 

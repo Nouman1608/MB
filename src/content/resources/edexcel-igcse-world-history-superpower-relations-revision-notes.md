@@ -126,13 +126,16 @@ practise with the [superpower relations practice questions](/resources/edexcel-i
 
 ## Frequently asked questions
 
-**Why did Stalin want control of Eastern Europe?** As a buffer zone after two German invasions, and
+**Why did Stalin want control of Eastern Europe?**
+As a buffer zone after two German invasions, and
 to spread communism.
 
-**What made the Cuban Missile Crisis end peacefully?** Kennedy chose a quarantine over air strikes,
+**What made the Cuban Missile Crisis end peacefully?**
+Kennedy chose a quarantine over air strikes,
 and both leaders compromised — including the secret deal on US missiles in Turkey.
 
-**What did détente achieve by 1972?** Treaties limiting testing, space weapons, proliferation and
+**What did détente achieve by 1972?**
+Treaties limiting testing, space weapons, proliferation and
 strategic missiles — but no end to rivalry.
 
 ## Source

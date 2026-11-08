@@ -123,15 +123,18 @@ imperialism in Africa.' How far do you agree?*
 
 ## Frequently asked questions
 
-**Which case study shows the harshest impact on Africans?** Leopold
+**Which case study shows the harshest impact on Africans?**
+Leopold
 II's Congo, where forced rubber collection was enforced by violence
 and caused millions of deaths.
 
-**Why did Britain use indirect rule in Nigeria?** It was cheap, needed
+**Why did Britain use indirect rule in Nigeria?**
+It was cheap, needed
 few British officials and worked through the emirs' existing
 government and taxes in the north.
 
-**Did Cuba become fully independent in 1898?** Not fully. The Platt
+**Did Cuba become fully independent in 1898?**
+Not fully. The Platt
 Amendment let the USA intervene, which it did again in 1906.
 
 ## Self-test

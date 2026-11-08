@@ -71,7 +71,7 @@ and its assessment objectives include analysing "relationships among different t
 texts "offer perspectives on human concerns". The oral tests exactly these skills.
 
 The brief does not give the timing, the extract length, the rules on notes or the assessment
-criteria. Your teacher will share these. Plan with the official rules in front of you.
+criteria. The full IB Language A guide does set them: the oral lasts 15 minutes (a 10-minute prepared response followed by 5 minutes of teacher questions), each extract is no more than 40 lines, you may take in an outline of no more than 10 bullet points, and it is marked out of 40 on four criteria (A to D, 10 marks each). Confirm the details with your teacher.
 
 ## Choosing a global issue
 

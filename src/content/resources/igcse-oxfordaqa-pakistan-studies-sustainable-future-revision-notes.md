@@ -134,10 +134,12 @@ This topic is examined in OxfordAQA 9236 Paper 2, Section C, worth 21 of the pap
 
 ## Frequently asked questions
 
-**Why is Lahore's smog worst in winter?** Cold, still air traps pollution near the ground, while crop
+**Why is Lahore's smog worst in winter?**
+Cold, still air traps pollution near the ground, while crop
 burning, traffic and brick kilns add smoke and particles.
 
-**What is the NFC award?** The National Finance Commission award, which sets how federal tax revenue
+**What is the NFC award?**
+The National Finance Commission award, which sets how federal tax revenue
 is shared among the provinces.
 
 ## Related pages

@@ -112,11 +112,14 @@ Unemployment fell from its 1933 peak but rose again in the recession of 1937-38 
 
 ## Frequently asked questions
 
-**What are the key dates?** 1920 (Prohibition, 19th Amendment), 1924 (Immigration Act), October 1929 (Crash), November 1932 (election), March 1933 (Hundred Days begin), 1935 (Second New Deal), December 1933 (repeal).
+**What are the key dates?**
+1920 (Prohibition, 19th Amendment), 1924 (Immigration Act), October 1929 (Crash), November 1932 (election), March 1933 (Hundred Days begin), 1935 (Second New Deal), December 1933 (repeal).
 
-**Do I need the alphabet agencies' exact years?** Know which belong to 1933 and which to 1935; that is how examiners test change after 1933.
+**Do I need the alphabet agencies' exact years?**
+Know which belong to 1933 and which to 1935; that is how examiners test change after 1933.
 
-**Why did agriculture not share in the boom?** Overproduction and falling prices after the war, debt, and loss of European markets.
+**Why did agriculture not share in the boom?**
+Overproduction and falling prices after the war, debt, and loss of European markets.
 
 ## Official syllabus
 

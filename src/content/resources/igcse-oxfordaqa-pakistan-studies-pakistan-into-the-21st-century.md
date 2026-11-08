@@ -139,14 +139,17 @@ protection still lagged, especially in rural areas.
 
 ## Frequently asked questions
 
-**What did the 18th Amendment do?** It strengthened parliament and the Prime Minister by removing the
+**What did the 18th Amendment do?**
+It strengthened parliament and the Prime Minister by removing the
 President's dissolution power, devolved many responsibilities to the provinces, renamed NWFP as
 Khyber Pakhtunkhwa and made education for 5- to 16-year-olds a right.
 
-**Why was the 2013 election important?** It was the first transfer of power from one elected
+**Why was the 2013 election important?**
+It was the first transfer of power from one elected
 government that had served a full term to another.
 
-**What is CPEC?** The China–Pakistan Economic Corridor, launched in 2015, a programme of Chinese
+**What is CPEC?**
+The China–Pakistan Economic Corridor, launched in 2015, a programme of Chinese
 investment in transport, energy and Gwadar port.
 
 ## Related pages

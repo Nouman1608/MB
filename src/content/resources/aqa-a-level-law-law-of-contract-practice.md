@@ -196,13 +196,16 @@ reasoned conclusion should follow.
 
 ## Frequently asked questions
 
-**How should I plan an AQA contract problem?** List each legal issue in the order it arises, then for each
+**How should I plan an AQA contract problem?**
+List each legal issue in the order it arises, then for each
 give the rule, authority, application and a mini-conclusion. Finish with overall advice.
 
-**Will I be asked about theory?** Yes. The specification lists theory topics such as freedom of contract,
+**Will I be asked about theory?**
+Yes. The specification lists theory topics such as freedom of contract,
 the postal rule and the effectiveness of remedies, and these feed into evaluation marks.
 
-**Are consumer and business contracts treated differently?** Yes. Consumers rely on the CRA 2015; business
+**Are consumer and business contracts treated differently?**
+Yes. Consumers rely on the CRA 2015; business
 contracts on UCTA 1977 and the common law, so identify the parties first.
 
 ## Official specification

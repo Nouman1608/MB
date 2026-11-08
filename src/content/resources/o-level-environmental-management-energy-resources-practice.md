@@ -147,8 +147,11 @@ it in the evening, when solar output is low and demand is high [1].
 
 ## Frequently asked questions
 
-**Which sub-topics do these questions cover?** All three energy sub-topics of 5014 Topic 1: energy resources (1.4), conservation and management of energy resources (1.5) and fracking (1.6).
+**Which sub-topics do these questions cover?**
+All three energy sub-topics of 5014 Topic 1: energy resources (1.4), conservation and management of energy resources (1.5) and fracking (1.6).
 
-**How should I answer a "discuss the benefits and limitations" question?** Give at least one benefit and one limitation, each explained, then finish with a short judgement linked to the situation in the question.
+**How should I answer a "discuss the benefits and limitations" question?**
+Give at least one benefit and one limitation, each explained, then finish with a short judgement linked to the situation in the question.
 
-**How do I calculate a percentage fall?** Subtract the new value from the original value, divide by the original value and multiply by 100.
+**How do I calculate a percentage fall?**
+Subtract the new value from the original value, divide by the original value and multiply by 100.

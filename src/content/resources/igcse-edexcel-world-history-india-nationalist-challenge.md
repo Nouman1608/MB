@@ -134,14 +134,17 @@ acceded to India, but Kashmir became a lasting dispute.
 
 ## Frequently asked questions
 
-**Why did Gandhi call off non-cooperation in 1922?** Because the violence at Chauri Chaura breached
+**Why did Gandhi call off non-cooperation in 1922?**
+Because the violence at Chauri Chaura breached
 his principle of non-violence.
 
-**Was partition inevitable?** It is a common essay debate. Evidence for: separate electorates, the
+**Was partition inevitable?**
+It is a common essay debate. Evidence for: separate electorates, the
 1937 Congress ministries, the Lahore Resolution and the League's wartime growth. Evidence against:
 the Cabinet Mission's near-acceptance in 1946.
 
-**Who mattered most?** Gandhi (mass movement), Jinnah (Pakistan), Nehru, Attlee and Mountbatten
+**Who mattered most?**
+Gandhi (mass movement), Jinnah (Pakistan), Nehru, Attlee and Mountbatten
 can all be weighed; good answers link individuals to circumstances.
 
 ## Official syllabus

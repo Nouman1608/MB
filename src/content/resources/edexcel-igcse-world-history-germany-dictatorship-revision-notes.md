@@ -126,13 +126,16 @@ questions on Weimar and Nazi Germany are in the
 
 ## Frequently asked questions
 
-**Which date marks the start of the dictatorship?** Most answers use the Enabling Act (March 1933)
+**Which date marks the start of the dictatorship?**
+Most answers use the Enabling Act (March 1933)
 for legal dictatorship, and August 1934 for Hitler as Führer with total power.
 
-**How did unemployment fall so fast?** Public works such as the autobahns, the Labour Service,
+**How did unemployment fall so fast?**
+Public works such as the autobahns, the Labour Service,
 rearmament and conscription — and statistics that left out women and Jews dismissed from work.
 
-**Was there effective opposition?** It existed (Edelweiss Pirates, White Rose, July Plot) but never
+**Was there effective opposition?**
+It existed (Edelweiss Pirates, White Rose, July Plot) but never
 threatened the regime until military defeat.
 
 ## Source

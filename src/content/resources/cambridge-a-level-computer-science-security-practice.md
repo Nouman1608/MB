@@ -103,11 +103,14 @@ These questions cover Topic 17 Security of Cambridge International AS & A Level 
 
 ## Frequently asked questions
 
-**How many marks does a TLS handshake usually carry?** Typically one per correct step in order. Name the certificate, the check, the session key and which key encrypts it.
+**How many marks does a TLS handshake usually carry?**
+Typically one per correct step in order. Name the certificate, the check, the session key and which key encrypts it.
 
-**Do I need to know how hashing algorithms work?** No. You need to know that hashing produces a digest and that any change to the message changes the digest.
+**Do I need to know how hashing algorithms work?**
+No. You need to know that hashing produces a digest and that any change to the message changes the digest.
 
-**Is SSL still used?** TLS replaced SSL, but the syllabus names both. Describe them as the protocol that secures client-server communication.
+**Is SSL still used?**
+TLS replaced SSL, but the syllabus names both. Describe them as the protocol that secures client-server communication.
 
 ## Official syllabus
 

@@ -130,15 +130,18 @@ announced after independence, drew the boundaries in Punjab and Bengal.
 
 ## Frequently asked questions
 
-**What were the aims of the Muslim League in 1906?** To protect and advance the political rights of
+**What were the aims of the Muslim League in 1906?**
+To protect and advance the political rights of
 Muslims, to promote loyalty to the British government, and to prevent hostility between Muslims and
 other communities.
 
-**Why was the Nehru Report important?** It rejected separate electorates and one-third Muslim
+**Why was the Nehru Report important?**
+It rejected separate electorates and one-third Muslim
 representation, convincing many Muslims, including Jinnah, that Congress would not safeguard their
 interests, and it led directly to the 14 Points.
 
-**Why did the 1945–46 elections matter?** The League's sweeping success in Muslim seats showed it
+**Why did the 1945–46 elections matter?**
+The League's sweeping success in Muslim seats showed it
 represented Muslim opinion, so neither the British nor Congress could ignore the demand for
 Pakistan.
 

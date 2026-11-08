@@ -126,13 +126,16 @@ reservations.
 
 ## Frequently asked questions
 
-**What is the best way to revise a breadth study?** Track each theme across the whole period — for
+**What is the best way to revise a breadth study?**
+Track each theme across the whole period — for
 example, how the slavery question changed from 1787 to 1877.
 
-**Was slavery the main cause of the Civil War?** Strong answers link slavery to states' rights, economic
+**Was slavery the main cause of the Civil War?**
+Strong answers link slavery to states' rights, economic
 difference and expansion rather than treating them as separate causes.
 
-**Did Reconstruction succeed?** Legally it transformed the Constitution; in practice many gains were lost
+**Did Reconstruction succeed?**
+Legally it transformed the Constitution; in practice many gains were lost
 after 1877.
 
 ## Official syllabus

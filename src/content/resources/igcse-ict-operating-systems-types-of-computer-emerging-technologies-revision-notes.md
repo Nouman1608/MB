@@ -119,10 +119,12 @@ real world through a phone, tablet or glasses.
 
 ## Frequently asked questions
 
-**What is a phablet?** A mobile device with a screen size between a smartphone and a tablet,
+**What is a phablet?**
+A mobile device with a screen size between a smartphone and a tablet,
 combining phone calls with a larger display.
 
-**Is a touch screen phone a GUI or gesture-based?** It displays a GUI, and swipes and pinches are
+**Is a touch screen phone a GUI or gesture-based?**
+It displays a GUI, and swipes and pinches are
 gestures, so it uses both.
 
 ## Related pages

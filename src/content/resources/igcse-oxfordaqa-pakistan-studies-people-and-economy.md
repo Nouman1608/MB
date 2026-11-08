@@ -140,13 +140,16 @@ lines; tree planting and controls on brick kilns and crop burning to reduce smog
 
 ## Frequently asked questions
 
-**Why is Pakistan's population so young?** Birth rates have stayed high while death rates fell, so
+**Why is Pakistan's population so young?**
+Birth rates have stayed high while death rates fell, so
 each generation of children has been larger than the last.
 
-**What are remittances?** Money sent home by Pakistanis working abroad. They are a major source of
+**What are remittances?**
+Money sent home by Pakistanis working abroad. They are a major source of
 foreign exchange and help pay for imports.
 
-**What is the quaternary sector?** Knowledge-based work such as IT, research and consultancy, which
+**What is the quaternary sector?**
+Knowledge-based work such as IT, research and consultancy, which
 is growing in Pakistan's large cities.
 
 ## Related pages

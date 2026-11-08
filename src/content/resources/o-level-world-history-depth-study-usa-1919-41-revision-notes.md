@@ -145,11 +145,14 @@ Strong conclusion: "The New Deal succeeded in relief and reform -- saving the ba
 
 ## Frequently asked questions
 
-**Why did agriculture decline?** Prices fell after wartime demand ended, while machinery increased output -- too much food, too little demand.
+**Why did agriculture decline?**
+Prices fell after wartime demand ended, while machinery increased output -- too much food, too little demand.
 
-**What was the Bonus Army?** First World War veterans who camped in Washington in 1932 to demand early payment of a promised bonus; Hoover had the army remove them.
+**What was the Bonus Army?**
+First World War veterans who camped in Washington in 1932 to demand early payment of a promised bonus; Hoover had the army remove them.
 
-**Who was Huey Long?** A Louisiana senator who said the New Deal did not go far enough and proposed redistributing the wealth of the rich; he was assassinated in 1935.
+**Who was Huey Long?**
+A Louisiana senator who said the New Deal did not go far enough and proposed redistributing the wealth of the rich; he was assassinated in 1935.
 
 ## Self-test
 

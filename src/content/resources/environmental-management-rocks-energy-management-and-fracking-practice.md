@@ -98,9 +98,11 @@ These questions cover four sub-topics of Cambridge IGCSE Environmental Managemen
 
 ## Frequently asked questions
 
-**Is shale permeable?** No. The syllabus classifies shale as one of the impermeable sedimentary rocks, while most sedimentary rocks such as limestone and sandstone are permeable.
+**Is shale permeable?**
+No. The syllabus classifies shale as one of the impermeable sedimentary rocks, while most sedimentary rocks such as limestone and sandstone are permeable.
 
-**What is the difference between a finite resource and sustainable management?** A finite resource is used up faster than it is replaced. Sustainable management uses strategies that meet present needs without compromising the ability of future generations to meet theirs.
+**What is the difference between a finite resource and sustainable management?**
+A finite resource is used up faster than it is replaced. Sustainable management uses strategies that meet present needs without compromising the ability of future generations to meet theirs.
 
 ---
 

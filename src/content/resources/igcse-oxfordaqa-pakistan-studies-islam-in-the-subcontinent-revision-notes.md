@@ -131,10 +131,12 @@ This topic is examined in OxfordAQA 9236 Paper 1, Section C, worth 21 of the pap
 
 ## Frequently asked questions
 
-**Who was Shah Ismail Shaheed?** A grandson of Shah Waliullah who joined Syed Ahmad Barelvi in the
+**Who was Shah Ismail Shaheed?**
+A grandson of Shah Waliullah who joined Syed Ahmad Barelvi in the
 jihad movement and died with him at Balakot in 1831.
 
-**What links these reformers?** Each tried to strengthen Muslims by returning to the Qur'an, Sunnah
+**What links these reformers?**
+Each tried to strengthen Muslims by returning to the Qur'an, Sunnah
 and Sharia, and each influenced the next generation.
 
 ## Related pages

@@ -141,14 +141,17 @@ Each effect is named, supported with specific detail and linked back to Varennes
 
 ## Frequently asked questions
 
-**How many dates do I really need?** Enough to place each event in the right key topic and to
+**How many dates do I really need?**
+Enough to place each event in the right key topic and to
 show sequence. The timeline above is a sensible minimum.
 
-**Was Robespierre a dictator?** He was one of twelve members of the Committee of Public Safety
+**Was Robespierre a dictator?**
+He was one of twelve members of the Committee of Public Safety
 and never held sole power, though he was its most prominent voice. A good answer uses this
 distinction.
 
-**What counts as an "achievement of the Revolution"?** Lasting changes such as the end of feudal
+**What counts as an "achievement of the Revolution"?**
+Lasting changes such as the end of feudal
 dues and legal privilege, the Declaration of Rights, the departments and the principle of national
 sovereignty.
 

@@ -142,14 +142,17 @@ Use the same three tests for each case study, then compare:
 
 ## Frequently asked questions
 
-**Why was the USSR not able to veto UN action in Korea?** It was
+**Why was the USSR not able to veto UN action in Korea?**
+It was
 boycotting the Security Council in 1950 in protest at Nationalist
 China, not Communist China, holding China's seat.
 
-**What was the Bay of Pigs?** A failed invasion of Cuba in April 1961
+**What was the Bay of Pigs?**
+A failed invasion of Cuba in April 1961
 by about 1,400 CIA-trained Cuban exiles, approved by Kennedy.
 
-**When did the Vietnam War end?** US combat forces left after the
+**When did the Vietnam War end?**
+US combat forces left after the
 Paris Peace Accords of January 1973; the war ended when Saigon fell to
 North Vietnam on 30 April 1975.
 

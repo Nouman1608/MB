@@ -137,10 +137,12 @@ supported judgement is needed for full marks. Maximum 6.
 
 ## Frequently asked questions
 
-**How do I score full marks on a compare question?** Discuss both methods with advantages and
+**How do I score full marks on a compare question?**
+Discuss both methods with advantages and
 disadvantages, apply them to the crop named, and finish with a clear choice.
 
-**Do I need production statistics?** Not usually for this section, but you must link each crop to
+**Do I need production statistics?**
+Not usually for this section, but you must link each crop to
 named areas and give its natural requirements.
 
 *Based on the Cambridge IGCSE Pakistan Studies 0448 syllabus for examination in 2026, Paper 2

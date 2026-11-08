@@ -162,13 +162,17 @@ Facts: a factory owner stores large tanks of solvent at the edge of the site. A 
 
 ## Frequently asked questions
 
-**What is the Caparo test?** It is the three-part test from *Caparo Industries v Dickman* (1990) used in novel duty situations: was the harm reasonably foreseeable, was there sufficient proximity, and is it fair, just and reasonable to impose a duty?
+**What is the Caparo test?**
+It is the three-part test from *Caparo Industries v Dickman* (1990) used in novel duty situations: was the harm reasonably foreseeable, was there sufficient proximity, and is it fair, just and reasonable to impose a duty?
 
-**Who is a secondary victim?** A person who suffers psychiatric illness from witnessing injury to someone else. They must satisfy the *Alcock* control mechanisms, including a close tie of love and affection and presence at the event or its immediate aftermath.
+**Who is a secondary victim?**
+A person who suffers psychiatric illness from witnessing injury to someone else. They must satisfy the *Alcock* control mechanisms, including a close tie of love and affection and presence at the event or its immediate aftermath.
 
-**What is the difference between private nuisance and Rylands v Fletcher?** Private nuisance concerns unreasonable, usually continuing, interference with the use of land. *Rylands* imposes strict liability for a single escape of something dangerous from a non-natural use of land.
+**What is the difference between private nuisance and Rylands v Fletcher?**
+Private nuisance concerns unreasonable, usually continuing, interference with the use of land. *Rylands* imposes strict liability for a single escape of something dangerous from a non-natural use of land.
 
-**When is an employer vicariously liable?** When the wrongdoer is an employee, or in a relationship akin to employment, and the tort is committed in the course of employment or has a close connection with it.
+**When is an employer vicariously liable?**
+When the wrongdoer is an employee, or in a relationship akin to employment, and the tort is committed in the course of employment or has a close connection with it.
 
 ## Check your understanding
 

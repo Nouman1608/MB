@@ -135,12 +135,15 @@ Muslims believe Ali (RA) should have led immediately after the Prophet (pbuh) as
 
 ## Frequently asked questions
 
-**What is ihsan?** Worshipping Allah as though you see Him, knowing that He sees you; the highest
+**What is ihsan?**
+Worshipping Allah as though you see Him, knowing that He sees you; the highest
 level of faith described in the Hadith of Jibril.
 
-**What is Barzakh?** The barrier or interval between death and the Day of Resurrection.
+**What is Barzakh?**
+The barrier or interval between death and the Day of Resurrection.
 
-**Why is shirk so serious?** It denies Allah's unique right to be worshipped, the foundation of Islam.
+**Why is shirk so serious?**
+It denies Allah's unique right to be worshipped, the foundation of Islam.
 
 ## Related pages
 

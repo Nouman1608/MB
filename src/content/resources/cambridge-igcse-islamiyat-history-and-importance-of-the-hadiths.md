@@ -117,13 +117,16 @@ of conduct" (33.21), and they help scholars answer new questions.
 
 ## Frequently asked questions
 
-**What is the difference between isnad and matn?** The isnad is the chain of narrators; the matn is
+**What is the difference between isnad and matn?**
+The isnad is the chain of narrators; the matn is
 the text of the Hadith.
 
-**Why did Umar ibn Abd al-Aziz order Hadiths to be written down?** The generation that had heard
+**Why did Umar ibn Abd al-Aziz order Hadiths to be written down?**
+The generation that had heard
 them first-hand was passing away, and there was a danger that Hadiths would be lost or fabricated.
 
-**Why is al-Bukhari's collection so respected?** Because of his very strict conditions for accepting
+**Why is al-Bukhari's collection so respected?**
+Because of his very strict conditions for accepting
 a chain of narrators and his careful arrangement by subject.
 
 ## Related pages

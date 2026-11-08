@@ -111,9 +111,11 @@ AQA GCSE History 8145 Paper 1 Section A sets six compulsory questions on your pe
 
 ## Frequently asked questions
 
-**Must I answer all six questions?** Yes. Section A questions are all compulsory.
+**Must I answer all six questions?**
+Yes. Section A questions are all compulsory.
 
-**How do I write a top-level question 3?** Evaluate *both* interpretations with your own knowledge, then decide which is more convincing and why.
+**How do I write a top-level question 3?**
+Evaluate *both* interpretations with your own knowledge, then decide which is more convincing and why.
 
 ## Official specification
 

@@ -154,14 +154,17 @@ emergency kits", "rescue teams flown in from abroad".
 
 ## Frequently asked questions
 
-**Why are there no volcanoes at conservative boundaries?** The plates slide past each other without one
+**Why are there no volcanoes at conservative boundaries?**
+The plates slide past each other without one
 being destroyed or pulled apart, so no magma is produced.
 
-**Which management strategies are listed only for drought?** Emergency water supplies, water conservation
+**Which management strategies are listed only for drought?**
+Emergency water supplies, water conservation
 and increasing water supply through dams and reservoirs, aquifers and wells, desalination and rainwater
 harvesting.
 
-**Are floods always harmful?** No. Floods deposit nutrient-rich silt on farmland and recharge surface and
+**Are floods always harmful?**
+No. Floods deposit nutrient-rich silt on farmland and recharge surface and
 ground water stores, which the syllabus lists as opportunities.
 
 ## Official syllabus

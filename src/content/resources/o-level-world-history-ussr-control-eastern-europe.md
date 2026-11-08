@@ -107,11 +107,14 @@ A top answer explains two or three reasons, each with evidence: (1) the brain dr
 
 ## Frequently asked questions
 
-**Why didn't the West help Hungary in 1956?** It was divided by the Suez Crisis, and intervention inside the Soviet sphere risked nuclear war.
+**Why didn't the West help Hungary in 1956?**
+It was divided by the Suez Crisis, and intervention inside the Soviet sphere risked nuclear war.
 
-**What was the Brezhnev Doctrine?** The 1968 statement that the socialist countries could intervene in any member state where socialism was under threat.
+**What was the Brezhnev Doctrine?**
+The 1968 statement that the socialist countries could intervene in any member state where socialism was under threat.
 
-**Is "how secure" asking for a judgement?** Yes. Weigh the strength shown in 1956, 1961 and 1968 against the weakness revealed by Solidarity and the speed of the 1989 collapse.
+**Is "how secure" asking for a judgement?**
+Yes. Weigh the strength shown in 1956, 1961 and 1968 against the weakness revealed by Solidarity and the speed of the 1989 collapse.
 
 ## Official syllabus
 

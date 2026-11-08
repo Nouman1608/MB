@@ -218,11 +218,14 @@ Marks: open for READ [1]; loop until end of file with EOF and the filename [1]; 
 
 ## Frequently asked questions
 
-**Can I use a FOR loop for a linear search?** Yes, but it keeps going after the item is found unless you RETURN or use a flag. A WHILE loop that stops on finding the item is more efficient.
+**Can I use a FOR loop for a linear search?**
+Yes, but it keeps going after the item is found unless you RETURN or use a flag. A WHILE loop that stops on finding the item is more efficient.
 
-**Should a linked list's null pointer be −1 or 0?** Use whatever the question defines. If your own answer needs one, state it, and make sure it cannot be confused with a real index.
+**Should a linked list's null pointer be −1 or 0?**
+Use whatever the question defines. If your own answer needs one, state it, and make sure it cannot be confused with a real index.
 
-**Do bubble sort questions always use ascending order?** No. Read the question; for descending order, swap when the first value is smaller than the next.
+**Do bubble sort questions always use ascending order?**
+No. Read the question; for descending order, swap when the first value is smaller than the next.
 
 ## Official syllabus
 

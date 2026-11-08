@@ -154,11 +154,14 @@ A function `Discount(Total : REAL) RETURNS REAL` should return 10% of Total when
 
 ## Frequently asked questions
 
-**What is the difference between white-box and black-box testing?** White-box testing uses the code itself to pick tests that cover every path; black-box testing uses only the specification, checking inputs against expected outputs.
+**What is the difference between white-box and black-box testing?**
+White-box testing uses the code itself to pick tests that cover every path; black-box testing uses only the specification, checking inputs against expected outputs.
 
-**When is beta testing used?** After alpha testing, when a nearly finished version is given to real users outside the development team, who find faults in real conditions before the full release.
+**When is beta testing used?**
+After alpha testing, when a nearly finished version is given to real users outside the development team, who find faults in real conditions before the full release.
 
-**Why use a stub?** So a module that calls another can be tested before the called module has been written; the stub returns a fixed value or shows it was called.
+**Why use a stub?**
+So a module that calls another can be tested before the called module has been written; the stub returns a fixed value or shows it was called.
 
 ## Official syllabus
 

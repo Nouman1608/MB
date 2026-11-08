@@ -167,13 +167,16 @@ marks are not lost.
 
 ## Frequently asked questions
 
-**Do I need to name flower parts?** No. The 0680 syllabus states that knowledge of the structure and
+**Do I need to name flower parts?**
+No. The 0680 syllabus states that knowledge of the structure and
 naming of flower parts is not required; only the anther-to-stigma transfer.
 
-**How do I identify an anomaly?** It is a result that does not fit the pattern of the others. Suggest
+**How do I identify an anomaly?**
+It is a result that does not fit the pattern of the others. Suggest
 checking or repeating it, and explain whether it is excluded from the mean.
 
-**Which energy figure should I use?** Use 10% transfer between trophic levels unless the question gives
+**Which energy figure should I use?**
+Use 10% transfer between trophic levels unless the question gives
 different data.
 
 ## Official syllabus

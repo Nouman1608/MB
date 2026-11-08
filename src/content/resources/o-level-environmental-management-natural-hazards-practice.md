@@ -173,13 +173,16 @@ buildings stand. Conclusion: building design is the single most important but is
 
 ## Frequently asked questions
 
-**Do I need to learn the seven continents?** Yes. Syllabus outcome 6.1.2 asks you to identify Africa,
+**Do I need to learn the seven continents?**
+Yes. Syllabus outcome 6.1.2 asks you to identify Africa,
 Antarctica, Asia, Europe, North America, Oceania and South America.
 
-**Is the Richter scale used in 5014?** The syllabus names the Moment Magnitude Scale for earthquake
+**Is the Richter scale used in 5014?**
+The syllabus names the Moment Magnitude Scale for earthquake
 magnitude, so use that term.
 
-**What are the opportunities provided by volcanoes?** Fertile soils, extraction of minerals, building
+**What are the opportunities provided by volcanoes?**
+Fertile soils, extraction of minerals, building
 materials, geothermal power and tourism.
 
 ## Official syllabus

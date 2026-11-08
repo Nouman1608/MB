@@ -126,13 +126,16 @@ on the whole front — some southern sectors did advance. **Judgement:** partly 
 
 ## Frequently asked questions
 
-**What was the main cause of the war?** There is no single answer; build an argument linking long-term
+**What was the main cause of the war?**
+There is no single answer; build an argument linking long-term
 rivalry to the July Crisis decisions.
 
-**Why did Gallipoli fail?** Poor planning, delays that let the Ottomans prepare, difficult terrain and
+**Why did Gallipoli fail?**
+Poor planning, delays that let the Ottomans prepare, difficult terrain and
 strong Turkish defence.
 
-**Why did the USA join in 1917?** Unrestricted submarine warfare and the Zimmermann Telegram.
+**Why did the USA join in 1917?**
+Unrestricted submarine warfare and the Zimmermann Telegram.
 
 ## Source
 

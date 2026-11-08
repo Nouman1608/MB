@@ -181,20 +181,24 @@ only a partial success.
 
 ## Frequently asked questions
 
-**What was the main cause of the American Civil War?** The spread of
+**What was the main cause of the American Civil War?**
+The spread of
 slavery into the western territories. Disputes over states' rights and
 tariffs mattered, but they were closely tied to protecting slavery.
 
-**Why did the South secede after the 1860 election?** Lincoln won
+**Why did the South secede after the 1860 election?**
+Lincoln won
 without any Southern votes on a platform of stopping slavery's
 expansion, so Southern leaders believed slavery would eventually be
 destroyed if they stayed in the Union.
 
-**Why did the North win?** Its larger population, industry and
+**Why did the North win?**
+Its larger population, industry and
 railways, the naval blockade, the failure of Southern diplomacy, and
 better strategy from 1863 under Lincoln, Grant and Sherman.
 
-**Was Reconstruction a success?** Partly. Slavery was abolished and the
+**Was Reconstruction a success?**
+Partly. Slavery was abolished and the
 14th and 15th Amendments were passed, but by 1877 federal protection
 had been withdrawn and most freed people lacked land, votes and safety.
 

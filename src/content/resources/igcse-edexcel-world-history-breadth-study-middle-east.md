@@ -133,13 +133,16 @@ backed by the USA, EU, UN and Russia, failed over violence and settlements. In t
 
 ## Frequently asked questions
 
-**What is the best theme for a (c) essay?** International involvement (Britain, the UN, the USA and USSR) or
+**What is the best theme for a (c) essay?**
+International involvement (Britain, the UN, the USA and USSR) or
 disputed territory, which both span the whole period.
 
-**Why did Oslo fail to bring lasting peace?** Extremists on both sides, Rabin's assassination, settlements,
+**Why did Oslo fail to bring lasting peace?**
+Extremists on both sides, Rabin's assassination, settlements,
 terrorism and disputes over Jerusalem and refugees.
 
-**Why was Suez significant?** It ended Britain's role as the dominant power in the region.
+**Why was Suez significant?**
+It ended Britain's role as the dominant power in the region.
 
 ## Official syllabus
 

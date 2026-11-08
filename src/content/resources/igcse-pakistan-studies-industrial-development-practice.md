@@ -138,10 +138,12 @@ in access and eco-tourism, is needed for full marks. Maximum 6.
 
 ## Frequently asked questions
 
-**How many location factors should I give?** Usually two or three, each explained, unless the mark
+**How many location factors should I give?**
+Usually two or three, each explained, unless the mark
 allocation suggests more.
 
-**Can I use the same example for several questions?** Yes. Sialkot, Karachi EPZ and the cotton chain
+**Can I use the same example for several questions?**
+Yes. Sialkot, Karachi EPZ and the cotton chain
 are strong examples across many parts of this section.
 
 *Based on the Cambridge IGCSE Pakistan Studies 0448 syllabus for examination in 2026, Paper 2

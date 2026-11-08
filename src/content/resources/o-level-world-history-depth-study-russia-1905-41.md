@@ -97,11 +97,14 @@ Specified content includes Tsarist rule and society before 1914, the 1905 Revolu
 
 ## Frequently asked questions
 
-**Which leader should I focus on most?** Stalin covers two of the four key questions, but questions on 1917 are just as common.
+**Which leader should I focus on most?**
+Stalin covers two of the four key questions, but questions on 1917 are just as common.
 
-**What was the NEP's main purpose?** To revive the economy and end peasant unrest after War Communism.
+**What was the NEP's main purpose?**
+To revive the economy and end peasant unrest after War Communism.
 
-**How do I judge "how complete" Stalin's control was?** Compare the absence of open opposition with the hidden cost: purged experts, a weakened army and private discontent.
+**How do I judge "how complete" Stalin's control was?**
+Compare the absence of open opposition with the hidden cost: purged experts, a weakened army and private discontent.
 
 ## Official syllabus
 

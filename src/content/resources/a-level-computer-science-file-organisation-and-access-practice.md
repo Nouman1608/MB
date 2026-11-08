@@ -132,11 +132,13 @@ searched for in following locations or an overflow area, making access slower an
 
 ## Frequently asked questions
 
-**Is a sequential file the same as sequential access?** No. Sequential is a way of organising the
+**Is a sequential file the same as sequential access?**
+No. Sequential is a way of organising the
 file (in key order); sequential access is a way of reading it (one record after another). A
 sequential file can also be accessed directly through an index.
 
-**Which collision method should I use in the exam?** Use the one the question describes. If none is
+**Which collision method should I use in the exam?**
+Use the one the question describes. If none is
 given, describe either next free location or an overflow area clearly.
 
 *Based on the Cambridge International AS & A Level Computer Science 9618 syllabus for 2027, 2028 and

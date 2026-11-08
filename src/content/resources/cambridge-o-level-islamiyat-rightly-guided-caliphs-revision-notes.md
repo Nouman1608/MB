@@ -119,10 +119,12 @@ In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the period of r
 
 ## Frequently asked questions
 
-**Why did Ali move the capital to Kufa?** It was more central to his supporters and to the eastern
+**Why did Ali move the capital to Kufa?**
+It was more central to his supporters and to the eastern
 provinces during the conflicts of his rule.
 
-**What was the bayt al-mal?** The public treasury, which held revenue such as zakat and jizya and paid
+**What was the bayt al-mal?**
+The public treasury, which held revenue such as zakat and jizya and paid
 for the needs of the state and the poor.
 
 ## Related pages

@@ -134,13 +134,16 @@ including John Kerry of Vietnam Veterans Against the War.
 
 ## Frequently asked questions
 
-**Why did the USA lose?** Weigh guerrilla tactics and the Ho Chi Minh Trail, the weakness of the South
+**Why did the USA lose?**
+Weigh guerrilla tactics and the Ho Chi Minh Trail, the weakness of the South
 Vietnamese government, US tactics that alienated civilians, and declining support at home.
 
-**Was Tet a victory or a defeat for the communists?** Militarily a defeat; politically a turning point
+**Was Tet a victory or a defeat for the communists?**
+Militarily a defeat; politically a turning point
 because it destroyed American confidence.
 
-**What was Vietnamisation?** Nixon's policy of replacing US troops with South Vietnamese forces while
+**What was Vietnamisation?**
+Nixon's policy of replacing US troops with South Vietnamese forces while
 withdrawing Americans.
 
 ## Official syllabus

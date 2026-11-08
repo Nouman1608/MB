@@ -159,13 +159,16 @@ and replicates → record → analyse → identify and process anomalies → con
 
 ## Frequently asked questions
 
-**What does the 10% rule mean?** About 10% of the energy at one trophic level passes to the next. The rest is
+**What does the 10% rule mean?**
+About 10% of the energy at one trophic level passes to the next. The rest is
 lost in movement, respiration, digestion and excretion.
 
-**What is the difference between random and systematic sampling?** Random sampling chooses sample points by
+**What is the difference between random and systematic sampling?**
+Random sampling chooses sample points by
 chance to avoid bias. Systematic sampling places them at regular intervals, often along a transect.
 
-**Which conservation strategies are on the 0680 syllabus?** Ten are named, from sustainable harvesting and
+**Which conservation strategies are on the 0680 syllabus?**
+Ten are named, from sustainable harvesting and
 national parks to seed banks, ecotourism, trade regulation and threat classification.
 
 ## Official syllabus

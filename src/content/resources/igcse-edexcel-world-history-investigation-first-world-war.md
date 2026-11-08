@@ -140,13 +140,16 @@ The armistice was signed on **11 November 1918**.
 
 ## Frequently asked questions
 
-**How is this option examined?** Through sources and an interpretation; you need enough context to
+**How is this option examined?**
+Through sources and an interpretation; you need enough context to
 judge what unseen sources say and leave out.
 
-**Was the alliance system the main cause of the war?** Weigh it against the naval race, the Balkan
+**Was the alliance system the main cause of the war?**
+Weigh it against the naval race, the Balkan
 crises, imperial rivalry and the decisions of July 1914.
 
-**Was Haig a "butcher"?** A classic interpretation question: use evidence on both sides.
+**Was Haig a "butcher"?**
+A classic interpretation question: use evidence on both sides.
 
 ## Official syllabus
 

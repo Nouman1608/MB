@@ -114,11 +114,14 @@ Memory hook: **A**pplication formats, **T**ransport splits and guarantees, **I**
 
 ## Frequently asked questions
 
-**Does the internet use circuit switching for voice calls?** Internet calls are carried by packet switching; circuit switching is the approach of traditional telephone networks. In the exam, give the features of each and match them to the scenario.
+**Does the internet use circuit switching for voice calls?**
+Internet calls are carried by packet switching; circuit switching is the approach of traditional telephone networks. In the exam, give the features of each and match them to the scenario.
 
-**What is the difference between a segment and a packet?** The Transport layer splits data into segments; the Internet layer adds IP addresses, forming packets. Many questions use "packet" for both, so follow the wording of the question.
+**What is the difference between a segment and a packet?**
+The Transport layer splits data into segments; the Internet layer adds IP addresses, forming packets. Many questions use "packet" for both, so follow the wording of the question.
 
-**What is a tracker?** A server that keeps a record of the peers sharing a particular file, so a new peer knows whom to connect to. It does not hold the file.
+**What is a tracker?**
+A server that keeps a record of the peers sharing a particular file, so a new peer knows whom to connect to. It does not hold the file.
 
 ## Official syllabus
 

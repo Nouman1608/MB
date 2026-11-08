@@ -170,13 +170,16 @@ the area; benefits are greater with fair prices and mixed farming.
 
 ## Frequently asked questions
 
-**How many strategies to increase food production must I know?** Twelve are listed in syllabus 2.2.3, from
+**How many strategies to increase food production must I know?**
+Twelve are listed in syllabus 2.2.3, from
 mixed cropping and irrigation to GMOs, controlled environments, fertilisers and pest control.
 
-**Do I need soil percentages?** No. The 5014 syllabus says knowledge of the percentage composition of soils
+**Do I need soil percentages?**
+No. The 5014 syllabus says knowledge of the percentage composition of soils
 is not required.
 
-**What is the difference between pest resistance and pest resurgence?** Resistance means the pesticide no
+**What is the difference between pest resistance and pest resurgence?**
+Resistance means the pesticide no
 longer kills the pest. Resurgence means pest numbers rebound, often because the pesticide also killed the
 pest's natural predators.
 

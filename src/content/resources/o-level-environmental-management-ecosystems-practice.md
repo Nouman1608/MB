@@ -170,13 +170,16 @@ size of the area and the plant.
 
 ## Frequently asked questions
 
-**Which way do food web arrows point?** From the organism eaten to the organism that eats it, showing the
+**Which way do food web arrows point?**
+From the organism eaten to the organism that eats it, showing the
 direction of energy flow.
 
-**What is the difference between repeats and replicates?** Repeats measure the same sample point again;
+**What is the difference between repeats and replicates?**
+Repeats measure the same sample point again;
 replicates take further samples, such as extra traps or quadrats. Both make the mean more reliable.
 
-**Do I need to know flower structure?** No. The syllabus requires only that pollen moves from an anther to a
+**Do I need to know flower structure?**
+No. The syllabus requires only that pollen moves from an anther to a
 stigma, by insects or wind, leading to fertilisation and seed formation.
 
 ## Official syllabus

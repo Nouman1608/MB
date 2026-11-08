@@ -133,13 +133,16 @@ limited: rivalry continued in Vietnam and elsewhere, and SALT I did not reduce e
 
 ## Frequently asked questions
 
-**Who was to blame for the Cold War?** A classic essay. Weigh Soviet expansion in Eastern Europe
+**Who was to blame for the Cold War?**
+A classic essay. Weigh Soviet expansion in Eastern Europe
 against US containment, the atomic bomb and the Marshall Plan.
 
-**Why was the Berlin Wall built?** Mainly to stop the loss of skilled workers from the GDR through
+**Why was the Berlin Wall built?**
+Mainly to stop the loss of skilled workers from the GDR through
 West Berlin.
 
-**Did the Cuban Missile Crisis cause détente?** It was a major reason, but cost, Vietnam and the
+**Did the Cuban Missile Crisis cause détente?**
+It was a major reason, but cost, Vietnam and the
 Sino-Soviet split also mattered.
 
 ## Official syllabus

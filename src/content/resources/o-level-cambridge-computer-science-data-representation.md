@@ -42,9 +42,6 @@ programming, where data types and storage limits recur constantly.
 **CAMBRIDGE O-LEVEL COMPUTER SCIENCE (2210) — TOPIC 1 DATA
 REPRESENTATION**
 
-**CAMBRIDGE O-LEVEL COMPUTER SCIENCE (2210) — TOPIC 1 DATA
-REPRESENTATION**
-
 - 1.1 Number systems — denary, binary and hexadecimal, converting
 between them, binary addition and overflow, logical binary shifts, and
 two's complement for negative integers

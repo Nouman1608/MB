@@ -132,12 +132,15 @@ How far do you agree?*
 
 ## Frequently asked questions
 
-**Why was the Missouri Compromise important?** It balanced slave and free states and drew a line that kept
+**Why was the Missouri Compromise important?**
+It balanced slave and free states and drew a line that kept
 the peace until 1854.
 
-**What made 1863 a turning point?** Gettysburg, Vicksburg and the Emancipation Proclamation.
+**What made 1863 a turning point?**
+Gettysburg, Vicksburg and the Emancipation Proclamation.
 
-**Why did Reconstruction end in 1877?** Northern commitment faded, white Southern resistance grew, and
+**Why did Reconstruction end in 1877?**
+Northern commitment faded, white Southern resistance grew, and
 federal troops were withdrawn.
 
 ## Source

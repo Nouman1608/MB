@@ -139,16 +139,20 @@ feasible than grid extension.
 
 ## Frequently asked questions
 
-**What diagrams do I need for 0448 Power?** Open cast, adit and shaft coal mining, and drilling for
+**What diagrams do I need for 0448 Power?**
+Open cast, adit and shaft coal mining, and drilling for
 oil and gas. Keep them simple, but label the seam or reservoir and how the fuel reaches the surface.
 
-**Why does Pakistan import coal when it has large reserves?** Most local coal is low-grade lignite.
+**Why does Pakistan import coal when it has large reserves?**
+Most local coal is low-grade lignite.
 Industries such as iron and steel need higher-quality coking coal, so that has to be imported.
 
-**What is a multi-purpose scheme?** A dam project that does more than one job, usually generating
+**What is a multi-purpose scheme?**
+A dam project that does more than one job, usually generating
 hydel power, storing water for irrigation and controlling floods. Tarbela and Mangla are examples.
 
-**Do I need exact production figures?** The syllabus asks how much is produced and how long reserves
+**Do I need exact production figures?**
+The syllabus asks how much is produced and how long reserves
 will last, so learn up-to-date approximate figures from your course materials and quote the year.
 
 ## Related pages

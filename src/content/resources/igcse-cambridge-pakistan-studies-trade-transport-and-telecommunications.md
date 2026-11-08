@@ -138,13 +138,16 @@ unreliable power and low incomes and literacy in some rural areas.
 
 ## Frequently asked questions
 
-**What is a dry port?** An inland customs terminal linked to a seaport by rail or road, where goods
+**What is a dry port?**
+An inland customs terminal linked to a seaport by rail or road, where goods
 are cleared and containerised. Lahore has one.
 
-**Why does Pakistan have a trade deficit?** It imports expensive oil, machinery and chemicals while
+**Why does Pakistan have a trade deficit?**
+It imports expensive oil, machinery and chemicals while
 its exports rely heavily on lower-value textiles and farm products.
 
-**Why are rail and road networks sparse in Balochistan?** Mountains, plateaux and deserts raise
+**Why are rail and road networks sparse in Balochistan?**
+Mountains, plateaux and deserts raise
 building costs, and the low, scattered population means low demand.
 
 ## Related pages

@@ -137,10 +137,12 @@ In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the Articles of
 
 ## Frequently asked questions
 
-**What is the nisab?** The minimum amount of wealth a Muslim must hold for a full lunar year before
+**What is the nisab?**
+The minimum amount of wealth a Muslim must hold for a full lunar year before
 zakat becomes due.
 
-**What is zakat al-fitr?** A small charitable payment made before the Eid al-Fitr prayer so that the
+**What is zakat al-fitr?**
+A small charitable payment made before the Eid al-Fitr prayer so that the
 poor can also celebrate.
 
 ## Related pages

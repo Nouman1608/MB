@@ -160,13 +160,16 @@ birth rate; many HICs combine the two.
 
 ## Frequently asked questions
 
-**How do I know if a pyramid is from an LIC or an HIC?** Look at the base and the top. A wide base and narrow
+**How do I know if a pyramid is from an LIC or an HIC?**
+Look at the base and the top. A wide base and narrow
 top suggest an LIC; a narrow base and wide top suggest an HIC.
 
-**Why might healthcare increase population at first?** Death rates fall before birth rates do, so for a time
+**Why might healthcare increase population at first?**
+Death rates fall before birth rates do, so for a time
 many more people are born than die.
 
-**What counts as an impact of population growth in 5014?** Twelve are listed, including informal
+**What counts as an impact of population growth in 5014?**
+Twelve are listed, including informal
 settlements, megacities, energy usage, sanitation, water supply, waste, land, infrastructure, pollution,
 traffic congestion and changing employment.
 

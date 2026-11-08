@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Law: The Law in Action (YLA1)"
+title: "Edexcel International A Level Law: The Law in Action (YLA1)"
 resourceType: "study-guides"
 subject: "law"
 level: ["a-levels"]

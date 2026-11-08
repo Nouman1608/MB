@@ -130,14 +130,17 @@ Rome, supports the reading.
 
 ## Frequently asked questions
 
-**What is the best one-line summary of 1848?** Revolutions broke out across Italy but failed
+**What is the best one-line summary of 1848?**
+Revolutions broke out across Italy but failed
 because of Austrian strength, Italian divisions and the Pope's withdrawal; Piedmont alone kept its
 constitution.
 
-**Why did Napoleon III help Piedmont?** He wanted to weaken Austria, gain Nice and Savoy and
+**Why did Napoleon III help Piedmont?**
+He wanted to weaken Austria, gain Nice and Savoy and
 extend French influence, and the Orsini Affair pushed him to act.
 
-**How did Rome become part of Italy?** France withdrew its garrison during the Franco-Prussian War,
+**How did Rome become part of Italy?**
+France withdrew its garrison during the Franco-Prussian War,
 and Italian troops entered the city in September 1870.
 
 ## Source

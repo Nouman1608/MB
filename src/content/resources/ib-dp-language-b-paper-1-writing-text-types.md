@@ -69,8 +69,8 @@ The subject brief gives these facts, and only these, about the paper:
   and structures and demand higher-order thinking skills", and "a higher word range has been
   provided".
 
-The brief does not print the word ranges, the list of text types or the marking criteria. Your
-teacher will share these from the full subject guide.
+The brief does not print the word ranges, the list of text types or the marking criteria. The full subject guide sets the Paper 1 word ranges: 250 to 400 words at SL and 450 to 600 words at HL.
+Your teacher will share the text-type list and marking criteria from the guide.
 
 Two of the brief's assessment objectives describe the task exactly: "Communicate clearly and
 effectively in a range of contexts and for a variety of purposes" and "Understand and use language

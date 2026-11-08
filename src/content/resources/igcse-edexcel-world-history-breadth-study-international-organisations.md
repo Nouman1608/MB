@@ -124,13 +124,16 @@ and funds, and unclear mandates.
 
 ## Frequently asked questions
 
-**Was the UN more successful than the League?** Generally yes — wider membership, its own peacekeeping forces
+**Was the UN more successful than the League?**
+Generally yes — wider membership, its own peacekeeping forces
 and stronger agencies — but the veto meant great-power rivalry still limited it.
 
-**Why did the League fail over Abyssinia?** Britain and France would not risk war or impose oil sanctions,
+**Why did the League fail over Abyssinia?**
+Britain and France would not risk war or impose oil sanctions,
 and the Hoare–Laval Pact exposed their priorities.
 
-**What is the best theme for a (c) essay?** Great-power involvement, which runs from 1919 to 2011.
+**What is the best theme for a (c) essay?**
+Great-power involvement, which runs from 1919 to 2011.
 
 ## Official syllabus
 

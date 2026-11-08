@@ -126,13 +126,16 @@ Land above the ceiling was to be redistributed, but loopholes (transfers to rela
 
 ## Frequently asked questions
 
-**Which crops are recognised from photographs?** Fields of cotton, rice, sugar cane and wheat, and
+**Which crops are recognised from photographs?**
+Fields of cotton, rice, sugar cane and wheat, and
 buffalo, cattle, goats, sheep and poultry.
 
-**Why is barani farming risky?** It depends entirely on rain, so a dry year can ruin the wheat crop
+**Why is barani farming risky?**
+It depends entirely on rain, so a dry year can ruin the wheat crop
 and farmers cannot plan investment.
 
-**Is the tubewell good or bad?** Both. It supplies water when needed and lowers a high water table,
+**Is the tubewell good or bad?**
+Both. It supplies water when needed and lowers a high water table,
 but running costs are high and over-pumping can deplete groundwater.
 
 ## Related pages

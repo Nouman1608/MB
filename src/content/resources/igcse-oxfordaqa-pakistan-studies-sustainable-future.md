@@ -138,15 +138,18 @@ management, strategic wheat reserves, flood-resilient crops and nutrition progra
 
 ## Frequently asked questions
 
-**What is the difference between mitigation and adaptation?** Mitigation reduces the causes of
+**What is the difference between mitigation and adaptation?**
+Mitigation reduces the causes of
 climate change, such as cutting emissions; adaptation reduces the harm, such as building flood
 defences and warning systems.
 
-**Why is Pakistan so vulnerable to climate change?** It relies on glacier-fed rivers and monsoon rain
+**Why is Pakistan so vulnerable to climate change?**
+It relies on glacier-fed rivers and monsoon rain
 for water and farming, has very hot summers, and many people live on floodplains with limited
 resources to recover.
 
-**What was the Billion Tree Tsunami?** A tree-planting and forest-protection programme in Khyber
+**What was the Billion Tree Tsunami?**
+A tree-planting and forest-protection programme in Khyber
 Pakhtunkhwa from 2014, later scaled up nationally as the Ten Billion Tree Tsunami.
 
 ## Related pages

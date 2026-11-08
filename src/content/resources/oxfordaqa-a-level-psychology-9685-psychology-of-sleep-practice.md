@@ -155,7 +155,7 @@ But sleep makes animals unresponsive, which is risky, and bottlenose dolphins sl
 ## Where marks are usually lost
 
 - Using a general jet lag account when the question gives a scenario with directions and timings.
-- Saying west-bound travel or backward shift rotation is easier.
+- Saying east-bound travel or backward shift rotation is easier. West-bound travel and forward rotation need a phase delay, which is the easier adjustment.
 - Mixing up the SCN (pacemaker), light (zeitgeber) and melatonin (hormone).
 - Describing only one side when the question asks for differences.
 - Forgetting to show working in calculations, or rounding too early.

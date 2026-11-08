@@ -127,13 +127,16 @@ miles away, and **unmanned ground vehicles** were used to find and defuse bombs 
 
 ## Frequently asked questions
 
-**What is the biggest change across the period?** The rise of air power, culminating in nuclear weapons and
+**What is the biggest change across the period?**
+The rise of air power, culminating in nuclear weapons and
 drones, is often argued; continuity lies in the importance of ground forces and guerrilla resistance.
 
-**Why did superpowers struggle against guerrillas?** Guerrillas avoided battle, relied on local support and
+**Why did superpowers struggle against guerrillas?**
+Guerrillas avoided battle, relied on local support and
 could outlast foreign forces' political will.
 
-**Did nuclear weapons make conventional war obsolete?** No — Arab–Israeli wars, the Falklands and the Gulf
+**Did nuclear weapons make conventional war obsolete?**
+No — Arab–Israeli wars, the Falklands and the Gulf
 War show its continuing importance.
 
 ## Official syllabus

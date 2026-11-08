@@ -91,10 +91,12 @@ Qur'an, showing how central belief in one God is to the faith.
 
 ## Frequently asked questions
 
-**How many passages must I learn?** All fifteen, because any three may be set and you must answer on
+**How many passages must I learn?**
+All fifteen, because any three may be set and you must answer on
 two of them.
 
-**Do I need to quote the Arabic?** Passages are printed in Arabic and English. Referring accurately
+**Do I need to quote the Arabic?**
+Passages are printed in Arabic and English. Referring accurately
 to key words shows knowledge of the original but is not compulsory for every point.
 
 ## Related pages

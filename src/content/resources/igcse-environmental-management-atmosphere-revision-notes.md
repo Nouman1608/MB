@@ -162,13 +162,16 @@ Exam tip: quote figures from the graph with units, then give a reason (fossil fu
 
 ## Frequently asked questions
 
-**Which greenhouse gases does 0680 require?** Carbon dioxide, water vapour and methane. Learn one human
+**Which greenhouse gases does 0680 require?**
+Carbon dioxide, water vapour and methane. Learn one human
 source of each that the syllabus names.
 
-**What is the difference between mitigation and adaptation?** Reducing carbon footprints tackles the cause
+**What is the difference between mitigation and adaptation?**
+Reducing carbon footprints tackles the cause
 of climate change. Adaptation changes behaviour, practices and infrastructure to cope with its impacts.
 
-**Do I need to know El Nino?** No. The 0680 syllabus states that knowledge of ENSO, El Nino and La Nina is
+**Do I need to know El Nino?**
+No. The 0680 syllabus states that knowledge of ENSO, El Nino and La Nina is
 not required for ocean surface warming.
 
 ## Official syllabus

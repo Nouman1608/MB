@@ -214,11 +214,14 @@ Marks: function header [1]; base case Exponent = 0 returning 1 [1]; recursive ca
 
 ## Frequently asked questions
 
-**Should I check the queue is empty before every dequeue?** Yes. Examiners have noted answers that only checked once at the start; the check belongs inside each operation.
+**Should I check the queue is empty before every dequeue?**
+Yes. Examiners have noted answers that only checked once at the start; the check belongs inside each operation.
 
-**Can a recursive algorithm always be written iteratively?** Yes, though the iterative version may need its own stack. Write whichever form the question asks for.
+**Can a recursive algorithm always be written iteratively?**
+Yes, though the iterative version may need its own stack. Write whichever form the question asks for.
 
-**How is Big O used in the exam?** To compare algorithms: say how the time or memory grows as n increases, for example O(log n) for binary search against O(n) for linear search.
+**How is Big O used in the exam?**
+To compare algorithms: say how the time or memory grows as n increases, for example O(log n) for binary search against O(n) for linear search.
 
 ## Official syllabus
 

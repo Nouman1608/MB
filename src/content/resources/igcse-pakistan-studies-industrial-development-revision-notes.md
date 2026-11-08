@@ -126,10 +126,12 @@ This content is examined on Cambridge Paper 2, The environment of Pakistan (1 ho
 
 ## Frequently asked questions
 
-**Which industries are mainly for export?** Sports goods, surgical instruments and much of the
+**Which industries are mainly for export?**
+Sports goods, surgical instruments and much of the
 cotton textile output; cement also has some exports.
 
-**What makes an industrial estate different from an EPZ?** An industrial estate provides serviced
+**What makes an industrial estate different from an EPZ?**
+An industrial estate provides serviced
 plots and infrastructure for any industry; an EPZ adds tax and customs concessions for firms that
 export their output.
 

@@ -109,11 +109,14 @@ These questions cover Topic 7 Ethics and Ownership of Cambridge International AS
 
 ## Frequently asked questions
 
-**How long should a "discuss" answer on AI be?** About one or two sentences per mark, covering each area named and both sides of each.
+**How long should a "discuss" answer on AI be?**
+About one or two sentences per mark, covering each area named and both sides of each.
 
-**Can a Free Software Foundation licence program be sold?** Yes. "Free" refers to the user's freedom to run, study, change and share it, not to price.
+**Can a Free Software Foundation licence program be sold?**
+Yes. "Free" refers to the user's freedom to run, study, change and share it, not to price.
 
-**Which ethical bodies does the 9618 syllabus name?** The BCS (British Computer Society) and the IEEE (Institute of Electrical and Electronic Engineers).
+**Which ethical bodies does the 9618 syllabus name?**
+The BCS (British Computer Society) and the IEEE (Institute of Electrical and Electronic Engineers).
 
 ## Official syllabus
 

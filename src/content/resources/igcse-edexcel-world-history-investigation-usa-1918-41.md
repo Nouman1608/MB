@@ -130,13 +130,16 @@ radio broadcasts through his **Social Justice** campaign.
 
 ## Frequently asked questions
 
-**Were the 1920s "roaring" for everyone?** No — farmers, black Americans, workers in old industries and
+**Were the 1920s "roaring" for everyone?**
+No — farmers, black Americans, workers in old industries and
 many immigrants missed out; this makes a good interpretation question.
 
-**Did the New Deal end the Depression?** It brought relief and reform, but unemployment stayed high
+**Did the New Deal end the Depression?**
+It brought relief and reform, but unemployment stayed high
 until wartime spending.
 
-**Why did Hoover lose in 1932?** His belief in limited government looked inadequate, and the Bonus
+**Why did Hoover lose in 1932?**
+His belief in limited government looked inadequate, and the Bonus
 Army episode damaged him badly.
 
 ## Official syllabus

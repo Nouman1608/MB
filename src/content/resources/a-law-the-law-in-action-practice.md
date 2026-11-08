@@ -1,5 +1,5 @@
 ---
-title: "A Level Law: The Law in Action — Practice Questions"
+title: "Edexcel International A Level Law: The Law in Action — Practice Questions"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

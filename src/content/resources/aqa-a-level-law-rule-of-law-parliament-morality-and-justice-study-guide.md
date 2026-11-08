@@ -119,13 +119,17 @@ Question: "The law should only enforce moral values where conduct causes harm to
 
 ## Frequently asked questions
 
-**What are the three elements of the rule of law in the AQA specification?** No person shall be sanctioned except in accordance with the law, equality before the law, and fairness and clarity. You must also show how they apply to law making, the legal system and substantive law.
+**What are the three elements of the rule of law in the AQA specification?**
+No person shall be sanctioned except in accordance with the law, equality before the law, and fairness and clarity. You must also show how they apply to law making, the legal system and substantive law.
 
-**What is the difference between a Green Paper and a White Paper?** A Green Paper is a consultation document inviting views on possible proposals. A White Paper sets out the government's firmer proposals for legislation.
+**What is the difference between a Green Paper and a White Paper?**
+A Green Paper is a consultation document inviting views on possible proposals. A White Paper sets out the government's firmer proposals for legislation.
 
-**What was the Hart–Devlin debate?** After the Wolfenden Report (1957), Lord Devlin argued that the law may enforce a society's shared morality, while Professor Hart argued it should only prevent harm to others.
+**What was the Hart–Devlin debate?**
+After the Wolfenden Report (1957), Lord Devlin argued that the law may enforce a society's shared morality, while Professor Hart argued it should only prevent harm to others.
 
-**Does the law achieve justice?** Partly. Procedural safeguards and corrective remedies promote justice, but miscarriages of justice, limited legal aid and rigid rules such as the mandatory life sentence show its limits.
+**Does the law achieve justice?**
+Partly. Procedural safeguards and corrective remedies promote justice, but miscarriages of justice, limited legal aid and rigid rules such as the mandatory life sentence show its limits.
 
 ## Check your understanding
 

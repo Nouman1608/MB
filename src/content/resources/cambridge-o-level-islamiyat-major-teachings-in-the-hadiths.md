@@ -108,13 +108,16 @@ which widens hope of reward and consoles the bereaved.
 
 ## Frequently asked questions
 
-**Are the groups "individual conduct" and "life in the community" tested separately?** The four
+**Are the groups "individual conduct" and "life in the community" tested separately?**
+The four
 passages set may come from either group. Knowing the theme helps your explanation; marks come from
 meaning and application.
 
-**How many Hadiths should I learn?** All twenty, since any four may be set.
+**How many Hadiths should I learn?**
+All twenty, since any four may be set.
 
-**Can I write about the Hadith's background?** Only briefly, where it helps, as with the Hadith about
+**Can I write about the Hadith's background?**
+Only briefly, where it helps, as with the Hadith about
 Abu Musa and Mu'adh being sent to Yemen.
 
 ## Related pages

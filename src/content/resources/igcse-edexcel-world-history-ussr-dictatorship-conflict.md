@@ -136,13 +136,16 @@ its people were poor and many lived in fear.
 
 ## Frequently asked questions
 
-**Was Stalin's success in 1924–29 down to Trotsky's weaknesses?** Partly. A strong answer weighs
+**Was Stalin's success in 1924–29 down to Trotsky's weaknesses?**
+Partly. A strong answer weighs
 Trotsky's mistakes against Stalin's control of the party machine and his tactics.
 
-**Were the Five-year Plans a success?** For heavy industry, largely yes; for living standards and
+**Were the Five-year Plans a success?**
+For heavy industry, largely yes; for living standards and
 consumer goods, no. Say which criterion you are using.
 
-**What is the difference between the NKVD and the gulag?** The NKVD was the secret police; the gulag
+**What is the difference between the NKVD and the gulag?**
+The NKVD was the secret police; the gulag
 was the system of labour camps it ran.
 
 ## Official syllabus

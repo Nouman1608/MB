@@ -134,10 +134,12 @@ example that long-term benefits depend on Pakistan using the infrastructure to r
 
 ## Frequently asked questions
 
-**How much detail should a 9-mark answer have?** Several developed points on each side, specific
+**How much detail should a 9-mark answer have?**
+Several developed points on each side, specific
 examples (named routes, ports or projects), and a conclusion that weighs them.
 
-**Can I use CPEC in answers on transport and on globalisation?** Yes. It is foreign direct investment
+**Can I use CPEC in answers on transport and on globalisation?**
+Yes. It is foreign direct investment
 as well as a transport and energy programme.
 
 *Based on the OxfordAQA International GCSE Pakistan Studies (9236) specification, Version 1.9, topic

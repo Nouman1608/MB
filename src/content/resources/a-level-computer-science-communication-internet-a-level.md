@@ -127,11 +127,14 @@ A **router** receives each packet, reads its destination IP address, and uses it
 
 ## Frequently asked questions
 
-**Why is TCP called reliable?** It numbers segments, waits for acknowledgements and resends anything that is not acknowledged, so the receiver gets all the data in the right order.
+**Why is TCP called reliable?**
+It numbers segments, waits for acknowledgements and resends anything that is not acknowledged, so the receiver gets all the data in the right order.
 
-**Why is packet switching more resilient than circuit switching?** No single path is reserved. If a router or link fails, later packets are routed another way, and missing packets are resent.
+**Why is packet switching more resilient than circuit switching?**
+No single path is reserved. If a router or link fails, later packets are routed another way, and missing packets are resent.
 
-**Is IMAP or POP3 better for someone with a phone and a laptop?** IMAP, because the email stays on the server and both devices show the same, synchronised mailbox.
+**Is IMAP or POP3 better for someone with a phone and a laptop?**
+IMAP, because the email stays on the server and both devices show the same, synchronised mailbox.
 
 ## Official syllabus
 

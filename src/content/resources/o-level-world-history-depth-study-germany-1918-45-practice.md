@@ -96,9 +96,11 @@ In Cambridge O Level History 2147, Depth Study B is examined in **Paper 1, Secti
 
 ## Frequently asked questions
 
-**How precise should dates be?** Month and year for the key events of 1923 and 1933-34 is ideal.
+**How precise should dates be?**
+Month and year for the key events of 1923 and 1933-34 is ideal.
 
-**Can I use statistics?** Yes. Seats won in 1928 (12) and July 1932 (230), and unemployment figures, make arguments stronger.
+**Can I use statistics?**
+Yes. Seats won in 1928 (12) and July 1932 (230), and unemployment figures, make arguments stronger.
 
 ## Official syllabus
 

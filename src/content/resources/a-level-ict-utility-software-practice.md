@@ -128,10 +128,12 @@ older computers [1]. A justified conclusion for the school is needed for full ma
 
 ## Frequently asked questions
 
-**Is backing up the same as file copying?** Copying duplicates files once; a backup utility usually
+**Is backing up the same as file copying?**
+Copying duplicates files once; a backup utility usually
 automates copies on a schedule, keeps versions and supports restoration.
 
-**Does a quick format erase data?** No. It rebuilds the file system structures, so the old data can
+**Does a quick format erase data?**
+No. It rebuilds the file system structures, so the old data can
 often still be recovered until overwritten.
 
 *Based on the Cambridge International AS & A Level Information Technology 9626 syllabus for 2025,

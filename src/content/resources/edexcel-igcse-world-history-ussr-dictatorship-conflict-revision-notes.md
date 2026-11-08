@@ -133,13 +133,16 @@ you agree?*
 
 ## Frequently asked questions
 
-**Why was Kirov's murder significant?** It gave Stalin a pretext for arrests and new laws that led to
+**Why was Kirov's murder significant?**
+It gave Stalin a pretext for arrests and new laws that led to
 the show trials and the Great Terror.
 
-**Why did the USSR survive 1941?** Distance and winter, the defence of Moscow, the evacuation of
+**Why did the USSR survive 1941?**
+Distance and winter, the defence of Moscow, the evacuation of
 industry, war production, Allied aid and enormous sacrifices.
 
-**What does "the revision of history" mean?** Rewriting Soviet history to glorify Stalin and remove
+**What does "the revision of history" mean?**
+Rewriting Soviet history to glorify Stalin and remove
 his enemies, as in the 1938 *Short Course*.
 
 ## Source
