@@ -7,7 +7,7 @@ topic: "Exam preparation -- AS Papers 1-2 and A-level Papers 1-2"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9645"]
-syllabusSeries: "For first teaching September 2024"
+syllabusSeries: "2024-onwards"
 order: 3
 description: "How OxfordAQA International A-Level Computer Science 9645's two on-screen programming papers differ in preparation from its two written theory papers, plus a worked trace-table routine."
 author: "marlbridge-academic-team"

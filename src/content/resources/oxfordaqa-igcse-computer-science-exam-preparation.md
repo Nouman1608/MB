@@ -7,7 +7,7 @@ topic: "Exam preparation -- Papers 1 and 2"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "First teaching 2017, first examined 2019"
+syllabusSeries: "For teaching from September 2017, exams from May/June 2019"
 order: 3
 description: "How to prepare for OxfordAQA International GCSE Computer Science 9210's on-screen Paper 1 built on a pre-released skeleton program, the May/June-only series change, and a worked incremental-coding routine."
 author: "marlbridge-academic-team"

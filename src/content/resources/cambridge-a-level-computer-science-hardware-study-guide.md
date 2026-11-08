@@ -19,57 +19,102 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "hardware"
     subtopic: "logic-gates-and-logic-circuits"
-description: "Computer components, memory and storage, input and output devices, logic gates, truth tables and logic circuits for Cambridge International AS and A Level Computer Science 9618."
+description: "Cambridge 9618 Hardware study guide: memory types, PROM to EEPROM, embedded systems, how devices work, buffers, monitoring and control, and logic gates."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the exact bullet points in 3.1 (devices, ports, memory, virtual memory) and whether 3.2 stops at gates and circuits or also lists adders and flip-flops, and where processor registers sit (Topic 4)."
+reviewNote: "Check the exact bullet points in 3.1 (devices, ports, memory, virtual memory) and whether 3.2 stops at gates and circuits or also lists adders and flip-flops, and where processor registers sit (Topic 4). 2026-11-08 recheck: checked against the syllabus 3.1-3.2; moved ports and interrupts out (they are 4.1), removed virtual memory (16.1) and cloud storage, added PROM/EPROM/EEPROM, the named device operations, buffers and monitoring/control; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
 
-Hardware is the physical side of a computer system: the processor, memory and storage inside the box, the devices that bring data in and take results out, and the logic gates from which all of it is built. This guide covers the two parts of Topic 3 in the AS content: the components of a computer and their roles, and logic gates and circuits, where you must draw circuits, write expressions and complete truth tables with complete accuracy.
+Topic 3 of Cambridge International AS & A Level Computer Science (9618) has two parts. **3.1 Computers and their components** covers why a computer needs input, output, primary memory and secondary storage, embedded systems, how a named list of devices works, buffers, the types of RAM and ROM, and monitoring and control systems. **3.2 Logic gates and logic circuits** covers the six gates and converting between problem statements, circuits, expressions and truth tables. Both are AS content examined on Paper 1 (Theory Fundamentals).
 
-## Where this fits in the syllabus
+## What does the 9618 syllabus list for Topic 3?
 
-Topic 3 is part of the AS Level content of Cambridge 9618 and is examined in Paper 1, Theory Fundamentals, which is a written paper. It leads on to the processor detail in Topic 4 (registers, the fetch-execute cycle and assembly language), and the memory ideas here recur in Topic 5 on system software. Expect short recall questions on devices and a circuit or truth-table question.
+| Ref | Candidates should be able to |
+|---|---|
+| 3.1 | Show understanding of the need for input, output, primary memory and secondary (including removable) storage |
+| 3.1 | Show understanding of embedded systems, including benefits and drawbacks |
+| 3.1 | Describe the principal operations of: laser printer, 3D printer, microphone, speakers, magnetic hard disk, solid state (flash) memory, optical disc reader/writer, touchscreen, virtual reality headset |
+| 3.1 | Show understanding of the use of buffers |
+| 3.1 | Explain the differences between RAM and ROM, and between SRAM and DRAM, including their use in devices and systems |
+| 3.1 | Explain the difference between PROM, EPROM and EEPROM |
+| 3.1 | Show an understanding of monitoring and control systems: the difference between them, sensors (temperature, pressure, infra-red, sound) and actuators, and the importance of feedback |
+| 3.2 | Use the symbols and define the functions of NOT, AND, OR, NAND, NOR and XOR; construct truth tables, logic circuits and logic expressions from each other and from a problem statement |
 
-## 3.1 Computers and their components
+Ports (USB, HDMI, VGA) and interrupts are in **4.1 CPU Architecture**, and virtual memory is in **16.1** (A Level), so they are covered on those pages, not here.
 
-### The central processing unit and main memory
+## 3.1 Why does a computer need input, output, primary memory and secondary storage?
 
-A **central processing unit (CPU)** or **microprocessor** carries out the instructions of a program. A computer needs **main memory** because the processor can only run instructions and use data that are held there. Main memory is **primary storage**; it is directly accessed by the processor, and is faster than secondary storage.
+- **Input** devices capture data from the outside world so it can be processed.
+- **Output** devices present the results of processing to people or other systems.
+- **Primary memory** (RAM and ROM) is directly accessible by the processor. Programs and data must be in main memory for the processor to execute and use them.
+- **Secondary storage** is non-volatile and keeps programs and data when the power is off, with much larger capacity than main memory. **Removable** storage (such as a USB flash drive or an optical disc) lets data be transported between computers and kept off-site as a backup.
 
-- **RAM (random access memory)** is volatile, so its contents are lost when power is removed, and it holds the programs and data in use. It is readable and writable. **DRAM** (dynamic RAM) stores each bit as a charge in a capacitor that leaks and must be refreshed constantly; it is cheaper and denser and is used for main memory. **SRAM** (static RAM) holds each bit in a flip-flop circuit with no need for refresh, so it is faster but more expensive and takes more space, and is used for **cache**.
-- **ROM (read-only memory)** is non-volatile and holds data that is not normally changed, such as the **bootstrap** program that starts the computer and loads the operating system.
+## 3.1 What are embedded systems?
 
-**Cache memory** is a small, fast store between the processor and main memory that holds copies of recently or frequently used data, so the processor waits less. **Virtual memory** uses part of secondary storage as an extension of RAM when RAM is full, so more programs can run than would fit, at the cost of slower access because the disk is much slower than RAM.
+An **embedded system** is a computer system built into a larger device to perform a dedicated function, such as a washing-machine controller, a car's engine management unit or a microwave oven.
 
-### Embedded systems
+| Benefits | Drawbacks |
+|---|---|
+| Small, so it fits inside the device | Difficult or impossible to upgrade |
+| Low power consumption | Hard to repair; the whole unit may need replacing |
+| Cheap to mass-produce | Limited to the one task it was designed for |
+| Reliable: dedicated software with few tasks | If connected to a network, may be vulnerable to attack and hard to patch |
 
-An **embedded system** is a computer built into a device to perform a dedicated function, such as a washing machine controller or a car engine management unit. Unlike a general-purpose computer, it runs fixed software held in ROM; it is typically small, low-power and cheap, but hard to upgrade.
+## 3.1 How do the named hardware devices work?
 
-### Secondary storage
+| Device | Principal operation |
+|---|---|
+| Laser printer | A rotating drum is charged; a laser changes the charge on parts of the drum to form an electrostatic image of the page; charged toner sticks to those parts; the paper is charged so the toner transfers to it; a heated fuser melts the toner onto the paper; the drum is discharged and cleaned |
+| 3D printer | Software slices the design into thin layers; the printer builds the object one layer at a time, for example by extruding melted plastic through a moving nozzle or curing liquid resin with a laser |
+| Microphone | Sound waves vibrate a diaphragm; the movement (for example a coil in a magnetic field) produces a varying analogue electrical signal; an ADC converts it to digital |
+| Speaker | Digital data passes through a DAC and is amplified; the varying current flows through a coil attached to a cone in the field of a permanent magnet; the coil and cone move in and out, creating sound waves |
+| Magnetic hard disk | Platters coated in magnetic material spin at high speed; read/write heads on an actuator arm move across the surface; data is stored as magnetised regions in tracks and sectors |
+| Solid state (flash) memory | Data is stored as charge trapped in transistor cells (floating gates); no moving parts; data is erased and rewritten in blocks, and cells wear out after many writes |
+| Optical disc reader/writer | A laser is shone on the spinning disc; reflected light differs between pits and lands and is detected by a photodiode and read as bits. A writer uses a stronger laser to change the reflectivity of a dye or phase-change layer |
+| Touchscreen | Resistive: pressing pushes two conductive layers together, and the voltage at the contact point gives the position. Capacitive: a finger changes the capacitance of the screen's electrostatic field at that point, and the controller calculates the position |
+| Virtual reality headset | A screen shows a slightly different image to each eye through lenses, giving a 3D effect; sensors such as gyroscopes and accelerometers track head movement so the image changes to match |
 
-**Secondary storage** is non-volatile, holds programs and data when power is off, and has a larger capacity than main memory.
+## 3.1 What is a buffer used for?
 
-| Type | How it works | Strengths | Weaknesses |
-|---|---|---|---|
-| Magnetic (hard disk) | Magnetised regions on spinning platters read by a moving head | High capacity, low cost per gigabyte | Moving parts, slower, can be damaged by knocks |
-| Optical (CD, DVD, Blu-ray) | A laser reads pits and lands, or marks in a dye layer | Cheap, portable, suited to distributing media | Low capacity and slow compared with other types |
-| Solid state (flash, SSD, USB drive) | Charge stored in transistor cells, with no moving parts | Fast, silent, robust, low power | Costs more per gigabyte, cells wear after many writes |
+A **buffer** is a temporary area of memory that holds data while it is transferred between devices or processes working at different speeds. When printing, the processor fills the printer's buffer quickly and then gets on with other work while the slower printer empties it. When streaming video, data is downloaded into a buffer ahead of playback, so short drops in network speed do not stop the picture. The buffer **holds** the data; it does not send it.
 
-**Cloud storage** keeps data on remote servers that are reached over a network. It gives access from anywhere, easy sharing and backup managed by the provider, but it needs an internet connection, depends on the provider for security and availability, and may carry a continuing charge.
+## 3.1 How do RAM, ROM, SRAM and DRAM differ?
 
-### Input, output and ports
+| | RAM | ROM |
+|---|---|---|
+| Volatile? | Yes: contents lost when power is off | No |
+| Written in normal use? | Yes, read and write | No, read only |
+| Typical contents | The operating system in use, running programs and their data | The bootstrap loader, firmware of embedded devices |
 
-**Input devices** convert real-world data into a form the computer can process. Examples are keyboards, a touch screen, a microphone, a barcode or QR code scanner and a camera. **Sensors** measure physical quantities such as temperature, pressure or light, and send analogue readings that an **analogue-to-digital converter (ADC)** turns into digital values. **Output devices** present results: a screen, speakers, and printers (laser, inkjet and 3D). An **actuator** turns a signal from the computer into physical action, such as a motor.
+| | SRAM (static) | DRAM (dynamic) |
+|---|---|---|
+| Stores each bit in | A flip-flop | A capacitor (with a transistor) |
+| Needs refreshing? | No | Yes, constantly, as the charge leaks |
+| Speed | Faster | Slower |
+| Cost and density | More expensive per bit, fewer bits per chip | Cheaper per bit, more bits per chip |
+| Typical use | Cache memory | Main memory |
 
-Devices connect through **ports**, for example USB, HDMI and VGA. A **buffer** is a temporary store that smooths the difference in speed between a fast processor and a slower device, as in a printer. An **interrupt** is a signal that makes the processor pause its current task to deal with an event such as a keypress.
+The choice depends on the device: a processor's cache uses SRAM because speed matters more than size, whereas a computer's main memory uses DRAM because large capacity at low cost matters more.
+
+## 3.1 What is the difference between PROM, EPROM and EEPROM?
+
+- **PROM (programmable ROM)**: blank when made, programmed **once** and then cannot be changed.
+- **EPROM (erasable PROM)**: erased by shining **ultraviolet light** through a window on the chip, usually after removing it from the device, then reprogrammed.
+- **EEPROM (electrically erasable PROM)**: erased and rewritten **electrically** while still in the circuit, so firmware can be updated without removing the chip. Flash memory is a type of EEPROM.
+
+## 3.1 What is the difference between monitoring and control systems?
+
+- A **monitoring** system uses **sensors** to take readings; the computer compares them with stored values and displays, records or raises a warning. It does **not** change the conditions. Example: a hospital monitor that sounds an alarm if a patient's heart rate falls.
+- A **control** system also uses **actuators** (such as motors, valves, pumps and heaters) to **change** the conditions. Example: a greenhouse that opens a window when the temperature is too high.
+- **Sensors** named in the syllabus: temperature, pressure, infra-red and sound. Analogue readings pass through an ADC before processing.
+- **Feedback** is essential in control: after the actuator acts, new sensor readings are taken and compared again, so the output affects the next input and conditions are held near the target continuously.
 
 ## 3.2 Logic gates and logic circuits
 
-Each gate takes one or two binary inputs and gives one output. The six you must know are:
+All gates except NOT have exactly two inputs in this syllabus.
 
 | Gate | Output is 1 when |
 |---|---|
@@ -80,15 +125,11 @@ Each gate takes one or two binary inputs and gives one output. The six you must 
 | NOR | neither input is 1 (NOT OR) |
 | XOR | the inputs are different |
 
-A **truth table** lists the output for every combination of inputs. A circuit with n inputs has 2^n rows; list the inputs in binary counting order so no row is missed. A **logic expression** such as X = (A AND B) OR NOT C is a written form of a circuit. To draw a circuit from an expression, work from the innermost brackets out and give each gate the correct symbol. To write the expression from a circuit, label the output of each gate and build up.
-
-NAND and NOR are **universal gates**, since any other gate can be built from NAND alone. Joining both inputs of a NAND gate makes a NOT. A NAND followed by a NAND with its inputs joined makes an AND.
+A **truth table** lists the output for every combination of inputs; a circuit with n inputs has 2 to the power n rows, listed in binary counting order. A **logic expression** such as X = (A AND B) OR NOT C is the written form of a circuit. You must be able to construct any one of circuit, truth table and expression from the others, or from a problem statement.
 
 ### Worked example 1: truth table for a circuit
 
 Complete the truth table for X = (A AND B) OR NOT C.
-
-Work through the columns: first A AND B, then NOT C, then combine with OR.
 
 | A | B | C | A AND B | NOT C | X |
 |---|---|---|---|---|---|
@@ -101,38 +142,62 @@ Work through the columns: first A AND B, then NOT C, then combine with OR.
 | 1 | 1 | 0 | 1 | 1 | 1 |
 | 1 | 1 | 1 | 1 | 0 | 1 |
 
-X is 0 only in rows 2, 4 and 6, where C = 1 and A AND B is false. Eight rows are listed, since 2^3 = 8.
+X is 0 only where C = 1 and A AND B is 0. There are eight rows, since 2 to the power 3 = 8.
 
-### Worked example 2: designing from a description
+### Worked example 2: from a problem statement
 
 A safe's alarm sounds (S = 1) if the door is open (D = 1) while the system is armed (A = 1), or if the panic button is pressed (P = 1).
 
-1. Express the conditions: the first is D AND A, and the second is P. Either is enough.
-2. Combine them: S = (D AND A) OR P.
-3. The circuit has one AND gate whose output goes to an OR gate together with P.
+1. The first condition is D AND A; the second is P; either is enough.
+2. S = (D AND A) OR P.
+3. The circuit is one AND gate whose output goes into an OR gate with P.
 
-Check against the description: with D = 1, A = 1, P = 0, S = 1; with D = 1, A = 0, P = 0, S = 0; with D = 0, A = 0, P = 1, S = 1. All three agree with the wording. A full table has S = 1 in 5 of its 8 rows: four with P = 1, plus D = 1, A = 1, P = 0.
+Check: D = 1, A = 1, P = 0 gives S = 1; D = 1, A = 0, P = 0 gives S = 0; D = 0, A = 0, P = 1 gives S = 1. A full table has S = 1 in 5 of its 8 rows: the four with P = 1, plus D = 1, A = 1, P = 0.
 
 ## Common mistakes
 
-- Confusing volatile (contents lost without power) with non-volatile.
-- Saying that SRAM is cheaper than DRAM (it is the reverse), or that DRAM is used for cache.
-- Treating virtual memory as a type of RAM chip. It is space on secondary storage.
+- Saying SRAM is cheaper than DRAM, or that DRAM is used for cache.
+- Saying EPROM can only be written once (that is PROM), or that EPROM is erased electrically (that is EEPROM).
+- Giving a monitoring answer (display, alarm) for a control question with no actuator.
+- Saying the buffer "sends" data.
 - Describing a sensor as an output device.
-- Omitting rows from truth tables, or listing the inputs in an irregular order.
-- Writing XOR as "A or B". It excludes both being 1.
+- Omitting rows from truth tables or listing inputs out of order.
+- Writing XOR as "A or B": it excludes both being 1.
 
 ## Exam technique
 
-For a device question, name the device, state what it does and give a feature that suits the scenario. For storage comparisons, make a point on each side: "SSD is faster because it has no moving parts, whereas a hard disk is cheaper per gigabyte". For logic questions, show the working columns in a truth table, as in worked example 1, because partly correct tables still earn marks. 
+For a device question, describe the operation in sequence, as the mark scheme awards a mark per step. For memory comparisons, make a point on each side. For logic questions, show the working columns in the truth table, because partly correct tables still earn marks.
+
+## Frequently asked questions
+
+**Are ports and interrupts part of 9618 Topic 3?**
+No. Ports (USB, HDMI, VGA) and the purpose and handling of interrupts are in 4.1 CPU Architecture.
+
+**What is the difference between EPROM and EEPROM?**
+EPROM is erased with ultraviolet light, usually after removing the chip. EEPROM is erased and rewritten electrically while it stays in the circuit.
+
+**Why is feedback important in a control system?**
+New readings are taken after the actuator acts, so the system can keep adjusting and hold conditions near the target rather than overshooting.
+
+**Which sensors does the syllabus name?**
+Temperature, pressure, infra-red and sound sensors.
 
 ## Check your understanding
 
-1. State why a computer needs RAM as well as secondary storage. *Answer: the processor can only run instructions and use data held in main memory, which is much faster than secondary storage.*
-2. Give two differences between SRAM and DRAM. *Answer: SRAM needs no refresh and is faster but costs more and takes more space; DRAM needs constant refresh, is slower, cheaper and denser.*
-3. What is stored in ROM in a typical computer? *Answer: the bootstrap program that starts the computer.*
-4. Give one advantage and one disadvantage of cloud storage. *Answer: accessible from anywhere; it needs an internet connection.*
-5. What does an actuator do? *Answer: it converts a signal from the computer into physical movement.*
-6. Give the output of NOR for inputs 0 and 0. *Answer: 1.*
-7. How can you make a NOT gate from a NAND gate? *Answer: join both inputs of the NAND gate together.*
-8. In worked example 2, what is S when D = 0, A = 1 and P = 0? *Answer: 0, as D AND A is 0 and P is 0.*
+1. Why does a computer need secondary storage as well as RAM? *RAM is volatile and limited; secondary storage keeps programs and data when power is off and holds far more.*
+2. Give one benefit and one drawback of an embedded system. *Benefit: small, cheap or low power. Drawback: hard to upgrade.*
+3. Give two differences between SRAM and DRAM. *SRAM needs no refresh and is faster but costs more; DRAM must be refreshed and is cheaper and denser.*
+4. Which type of ROM can be updated without removing it from the device? *EEPROM.*
+5. Describe how a microphone works. *Sound vibrates a diaphragm; this produces a varying analogue signal, which an ADC converts to digital.*
+6. What makes a system a control system rather than a monitoring system? *It uses actuators to change conditions, with feedback.*
+7. Give the output of NOR for inputs 0 and 0. *1.*
+8. In worked example 2, what is S when D = 0, A = 1 and P = 0? *0, as D AND A is 0 and P is 0.*
+
+## Related pages
+
+- [Hardware revision notes](/resources/cambridge-a-level-computer-science-hardware-revision-notes/)
+- [Hardware practice questions](/resources/cambridge-a-level-computer-science-hardware-practice/)
+
+## Official syllabus
+
+Cambridge International, *Cambridge International AS & A Level Computer Science 9618*, syllabus for 2026 and syllabus for 2027, 2028 and 2029, section 3 "Hardware" (3.1 and 3.2).

@@ -12,108 +12,166 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "software"
-description: "IGCSE study guide to system and application software, operating system functions, utilities, interrupts, translators and IDEs for Cambridge Computer Science 0478."
+description: "Cambridge IGCSE Computer Science 0478 Topic 4 study guide: system and application software, OS functions, firmware, interrupts, translators and IDE features."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
 featured: false
 ---
 
-Software is the set of programs that tells computer hardware what to do. This topic separates software into types, explains what an operating system does for you behind the scenes, describes the utility programs that keep a computer healthy, and covers how programs written by humans are turned into the machine code a processor can run. It is a short topic with many definitions, so precise wording earns the marks.
+Software is the set of programs that tells computer hardware what to do. Topic 4 of Cambridge IGCSE Computer Science (0478) separates software into system and application software, explains what an operating system does, how hardware, firmware and the operating system work together to run an application, how interrupts are handled, and how program code is translated. It is a short topic with many definitions, so precise wording earns the marks.
 
-## Where this fits in the syllabus
+## What does the 0478 syllabus require in Topic 4?
 
-Topic 4 of Cambridge IGCSE Computer Science (0478) is examined on Paper 1 (Computer Systems). It follows the hardware topic and links to the programming topics on Paper 2. Interrupts also appear in the hardware work on the fetch-decode-execute cycle. Typical questions ask you to state functions, to choose the right type of translator for a situation or to describe a feature of an IDE.
-
-## System software and application software
-
-**System software** manages and controls the computer and provides a platform for other software. The main examples are the **operating system**, **utility software**, **device drivers** and **translators** (compilers, interpreters and assemblers).
-
-**Application software** lets a user do a task that is useful in itself, such as writing a document, editing a photograph or sending email. Examples are a word processor, a spreadsheet, a web browser and a game. A good test is to ask "is this software doing the user's job, or running the computer?" If it does the user's job it is application software.
-
-## The operating system
-
-An **operating system (OS)** is the main system software. It is loaded when the computer starts and stays in control while it runs. Cambridge expects you to know these functions:
-
-- **Managing files**: creating, naming, moving, copying, deleting and organising files and folders, and keeping track of where data is stored.
-- **Handling interrupts**: when a device or program sends an interrupt signal, the OS pauses the current task, runs the correct routine and then resumes.
-- **Providing a user interface**: a graphical interface (windows, icons, menus and pointer), a command line, or a touch interface lets the user control the computer.
-- **Managing peripherals and their drivers**: the OS uses **device drivers**, small programs that translate OS commands into signals a particular printer, keyboard or scanner understands.
-- **Managing memory**: deciding where programs and data are held in RAM, so that programs do not overwrite each other.
-- **Managing multitasking**: sharing processor time between several running programs so they seem to run together.
-- **Providing a platform for running applications**: applications call on the OS for memory, files and input and output.
-- **Managing system security**: user accounts, passwords and access rights controlling who may use the computer and its files.
-- **Managing user accounts**: separate settings and storage for each user.
-
-### Interrupts
-
-An **interrupt** is a signal to the processor that something needs attention at once. Sources include a key press, a printer running out of paper, a software error such as division by zero, or a timer signalling that a program has used its allocation of time. After each fetch-decode-execute cycle the processor checks for interrupts. If one has arrived and has high enough priority, the processor stores the current state, runs the **interrupt service routine** and then restores the state and carries on. Interrupts mean the processor does not waste time repeatedly checking each device.
-
-## Utility software
-
-**Utility software** carries out maintenance tasks. Know these and what each is for.
-
-| Utility | Purpose |
+| Ref | Learning outcome (2026–2028 syllabus) |
 |---|---|
-| Antivirus | Scans for, quarantines and removes malware, and checks new files |
-| Backup software | Makes copies of files so they can be restored after loss or damage |
-| Disk formatter | Prepares a storage device by setting up the structure for storing files |
-| Disk defragmenter | Rearranges the scattered parts of files on a hard disk drive so they are stored together, which can speed up reading; it is not needed for solid-state drives |
-| File compression | Reduces the size of files so they use less storage and transfer faster |
-| Disk content analysis or repair | Checks how storage is used and fixes problems |
-| Firewall | Controls which network traffic is allowed in or out |
+| 4.1.1 | Difference between system software and application software, with examples |
+| 4.1.2 | Role and basic functions of an operating system |
+| 4.1.3 | How hardware, firmware and an operating system are required to run applications software |
+| 4.1.4 | Role and operation of interrupts |
+| 4.2.1 | High-level and low-level languages, with advantages and disadvantages |
+| 4.2.2 | Assembly language uses mnemonics; an assembler translates it into machine code |
+| 4.2.3 | Operation of a compiler and an interpreter, and how each reports errors |
+| 4.2.4 | Advantages and disadvantages of a compiler and an interpreter |
+| 4.2.5 | Role of an IDE and its common functions |
 
-## Programming languages and translators
+Topic 4 is examined on Paper 1 (Computer Systems). It links to hardware (the fetch-decode-execute cycle, where interrupts are checked) and to the programming work on Paper 2.
 
-A **high-level language** such as Python is close to human language, is easier to read, write and debug, and does not depend on one processor. One statement usually becomes many machine instructions. A **low-level language** is closer to the processor. **Machine code** is binary instructions that the processor runs directly. **Assembly language** uses short mnemonics such as LDA and ADD, one for each machine instruction, and gives the programmer direct control over hardware, memory and speed, which is why it is used for device drivers and embedded systems. Low-level code is harder to write and is specific to one type of processor.
+## What is the difference between system software and application software?
 
-Processors only run machine code, so other code needs a **translator**.
+**System software** provides the services that the **computer** requires. The syllabus names the **operating system** and **utility software**. A utility is a small program that helps maintain or protect the computer; anti-virus software is a common example. The syllabus does not list particular utilities, so one clear example is enough.
 
-- A **compiler** translates the whole high-level program into machine code before it is run, producing a separate executable file. It reports all errors after translation and the program runs fast without needing the compiler present. The source code is not shared when the executable is distributed.
-- An **interpreter** translates and runs one statement at a time. It stops at the first error, which is useful for testing and debugging, but running is slower and the interpreter is needed every time.
-- An **assembler** translates assembly language into machine code.
+**Application software** provides the services that the **user** requires, such as writing a document, editing a photograph or browsing the web. Examples are a word processor, a spreadsheet, a web browser and a game. A good test is to ask "is this software doing the user's job, or running the computer?"
 
-### Integrated development environment (IDE)
+## What does an operating system do?
 
-An **IDE** is software that provides tools for writing programs in one place. Features include a **code editor** with colour coding of keywords (syntax highlighting), auto-completion and auto-correction; **error diagnostics** that point to the line with an error; a **run-time environment** to run the code; **translators**; and **debugging tools** such as breakpoints, stepping and variable watching. Pretty printing lays out the code with correct indentation to improve readability.
+An **operating system (OS)** is loaded when the computer starts and stays in control while it runs. The syllabus lists these functions:
 
-## Worked example 1: compression and transfer time
+- **Managing files**: creating, naming, moving, copying, deleting and organising files and folders.
+- **Handling interrupts**: pausing the current task to service an interrupt, then resuming.
+- **Providing an interface**: for example a graphical user interface or a command-line interface.
+- **Managing peripherals and drivers**: using **device drivers**, small programs that let the OS communicate with a particular printer, keyboard or other device.
+- **Managing memory**: deciding where programs and data are held in RAM so they do not overwrite each other.
+- **Managing multitasking**: sharing processor time between several running programs so they appear to run at the same time.
+- **Providing a platform for running applications**: applications use the OS for memory, files, input and output.
+- **Providing system security**: for example controlling access with passwords and access rights.
+- **Managing user accounts**: separate settings, files and permissions for each user.
 
-A 48 MB video file is compressed to 15 MB. A user's connection runs at 20 megabits per second. Use 1 byte = 8 bits.
+## How do hardware, firmware and the operating system work together?
 
-1. Compression ratio: 48 / 15 = 3.2 to 1.
-2. Space saved: 48 - 15 = 33 MB, which is 33 / 48 x 100 = 68.75 percent.
-3. Upload time before compression: 48 x 8 = 384 megabits, and 384 / 20 = 19.2 seconds.
-4. Upload time after: 15 x 8 = 120 megabits, and 120 / 20 = 6 seconds.
+Applications software cannot run on bare hardware. The syllabus describes three layers:
 
-So compression saves 13.2 seconds per upload. The recipient needs decompression software to open the file. Remember that lossy compression (covered in the data representation topic) permanently removes some data, whereas lossless compression does not.
+1. The **bootloader**, which is **firmware** stored in non-volatile memory, is run on the **hardware** when the computer is switched on.
+2. The bootloader loads the **operating system**, so the OS is run on the firmware.
+3. **Applications** are run on the operating system, which gives them access to the hardware.
 
-## Worked example 2: choosing a translator
+An exam answer should keep this order: hardware, then firmware (bootloader), then OS, then application.
+
+## What is an interrupt and how is it handled?
+
+An **interrupt** is a signal sent to the processor to say that something needs attention.
+
+- **Hardware interrupts** include pressing a key on the keyboard and moving the mouse.
+- **Software interrupts** include division by zero and two processes trying to access the same memory location.
+
+How it is handled:
+
+1. A device or program **generates** the interrupt, which is placed in a queue in priority order.
+2. At the end of each fetch-decode-execute cycle the processor checks for interrupts.
+3. If an interrupt has a higher priority than the current task, the processor saves the state of the current task (the contents of its registers).
+4. The correct **interrupt service routine (ISR)** is run to deal with the interrupt.
+5. **As a result**, the saved state is restored and the interrupted task carries on, or another task is started (for example a program is stopped after a division by zero).
+
+Interrupts mean the processor does not waste time repeatedly checking each device.
+
+## What are high-level and low-level languages?
+
+| | High-level language | Low-level language |
+|---|---|---|
+| Ease of reading and writing | Easier: uses English-like keywords | Harder: mnemonics or binary |
+| Ease of debugging | Easier to find and fix errors | Harder |
+| Machine independence | Runs on different processors once translated | Specific to one type of processor |
+| Direct manipulation of hardware | Not usually possible | Possible, for example to control memory locations and registers |
+
+**Machine code** is binary instructions the processor runs directly. **Assembly language** is a form of low-level language that uses **mnemonics** such as LDA and ADD. An **assembler** is needed to translate an assembly language program into machine code.
+
+## How do a compiler and an interpreter differ?
+
+- A **compiler** translates the whole code at once before it is executed, producing an **executable file**. It gives an **error report for the whole code** if errors are detected.
+- An **interpreter** translates and executes the code **line by line**. It **stops execution when an error is found**.
+
+| | Compiler | Interpreter |
+|---|---|---|
+| Advantages | Executable runs without the translator; runs fast once compiled; source code is not distributed | Errors found one at a time, at the line where they occur, so it is easy to test and debug while developing |
+| Disadvantages | Errors are only reported after the whole program is translated; must recompile after every change | Slower to run; the interpreter is needed every time the program runs; the source code must be shared |
+
+The syllabus's key point: an **interpreter is mostly used when developing** a program and a **compiler is used to translate the final program**.
+
+## What is an IDE and what does it provide?
+
+An **integrated development environment (IDE)** is software that provides the tools for writing program code in one place. The syllabus lists:
+
+- **Code editors**: for entering and editing code.
+- **Run-time environment**: lets the program be run within the IDE.
+- **Translators**: a compiler and/or interpreter built in.
+- **Error diagnostics**: identify and report errors, such as highlighting the line with a syntax error.
+- **Auto-completion**: suggests the rest of a keyword or identifier as you type.
+- **Auto-correction**: corrects common errors, such as misspelt keywords.
+- **Prettyprint**: displays code with consistent indentation and colour-coded keywords to improve readability.
+
+## Worked example: choosing a translator
 
 A developer is testing a new program and expects many small errors. A second developer has finished a program that will be sold to customers who do not have programming tools. Which translator suits each?
 
-For the first, an **interpreter**, because it runs the program statement by statement, stops at an error, and the developer can fix it and run again with no wait for full compilation. For the second, a **compiler**, because it produces an executable file that runs without a translator on the customer's machine, runs faster and does not reveal the source code. A good answer names the translator and links each reason to the scenario.
+For the first, an **interpreter**, because it executes the program line by line and stops at an error, so the developer can fix it and run again straight away. For the second, a **compiler**, because it produces an executable file that runs without a translator on the customer's machine and does not reveal the source code. A good answer names the translator and links each reason to the scenario.
+
+## Worked example: describing an interrupt
+
+"A user presses a key while a document is being printed. Describe how the interrupt is handled." A full-mark answer: the keyboard generates a hardware interrupt; the processor checks for interrupts at the end of the current cycle; it saves the current state of the printing task; it runs the interrupt service routine for the keyboard; then it restores the saved state and continues printing.
 
 ## Common mistakes
 
-- Calling a utility such as antivirus "application software". Utilities are system software.
-- Stating the OS "runs the CPU". Say what it manages: files, memory, peripherals, security and multitasking.
+- Calling utility software "application software". The syllabus classes it as system software.
+- Writing that the OS "runs the CPU". Say what it manages: files, memory, peripherals, security, multitasking.
 - Describing an interpreter as translating the whole program first.
-- Saying defragmentation deletes unwanted files; it only rearranges the parts of files.
-- Mixing up the assembler and the compiler.
+- Mixing up the assembler (assembly language) and the compiler (high-level language).
+- Putting the layers in the wrong order: the bootloader runs on the hardware, not on the OS.
 - Saying a high-level language is "better" without saying how.
 
 ## Exam technique
 
-**State** needs a short fact; **describe** needs a sentence on how it works; **explain** needs a reason. Where marks are for a number of functions, give distinct points, not rewordings. For comparison questions on compilers and interpreters, give points about both and about the result (executable file or line by line). In calculations, show conversions such as bytes to bits.
+**State** needs a short fact; **describe** needs a sentence on how it works; **explain** needs a reason. Where marks are for a number of functions, give distinct points, not rewordings. For compiler and interpreter questions, say what each does, how errors are reported and when each is used.
+
+## Frequently asked questions
+
+**Do I need to learn a list of utility programs for 0478?**
+No. The 2026–2028 syllabus names utility software as an example of system software but does not list particular utilities. Be ready to give one example, such as anti-virus software.
+
+**What is firmware in 0478?**
+Firmware is software stored permanently on the hardware. The bootloader is firmware: it runs on the hardware at start-up and loads the operating system.
+
+**Is a keypress a hardware or a software interrupt?**
+A hardware interrupt. Division by zero and two processes trying to access the same memory location are the syllabus's examples of software interrupts.
+
+**Why use an interpreter during development?**
+It stops at the first error and shows where it is, so errors can be fixed and the code re-run quickly. The final program is then compiled.
 
 ## Check your understanding
 
-1. Give two examples of system software. *Operating system, utility programs, device drivers or translators.*
-2. State two functions of an operating system. *Any two such as managing files, handling interrupts, managing memory, providing a user interface or managing security.*
-3. What is a device driver for? *It allows the OS to communicate with a particular peripheral by translating OS commands into signals the device understands.*
-4. Describe what a disk defragmenter does. *It reorders the parts of files that are scattered across a hard disk drive so they are stored together, speeding up access.*
-5. State one advantage of an interpreter over a compiler. *It runs the code line by line and stops at an error, so it helps with testing and debugging.*
-6. Give two features of an IDE. *Code editor with syntax highlighting, error diagnostics, run-time environment, auto-completion or debugging tools.*
-7. A 30 MB file compresses to 12 MB. Calculate the percentage saved. *18 / 30 x 100 = 60 percent.*
-8. Why is assembly language used for a device driver? *It gives direct control of the hardware and uses memory and processing time efficiently.*
+1. Give one example of system software and one of application software. *System: operating system or anti-virus utility. Application: word processor, spreadsheet or web browser.*
+2. State four functions of an operating system. *Any four from the syllabus list, e.g. managing files, handling interrupts, managing memory, managing user accounts.*
+3. What runs on the hardware when a computer is switched on? *The bootloader, which is firmware; it then loads the operating system.*
+4. Give one hardware and one software interrupt. *Hardware: key press or mouse movement. Software: division by zero or two processes accessing the same memory location.*
+5. What is run when an interrupt is serviced? *An interrupt service routine (ISR).*
+6. State one advantage of an interpreter over a compiler. *It stops at the line with an error, which helps testing and debugging.*
+7. Give three functions of an IDE. *Any three of code editor, run-time environment, translators, error diagnostics, auto-completion, auto-correction, prettyprint.*
+8. Why is an assembler needed? *To translate assembly language mnemonics into machine code the processor can execute.*
+
+## Related pages
+
+- [Software revision notes](/resources/igcse-computer-science-software-revision-notes/)
+- [Software practice questions](/resources/igcse-computer-science-software-practice/)
+
+## Official syllabus
+
+Cambridge International, *Cambridge IGCSE Computer Science (0478) syllabus for 2026, 2027 and 2028*, Version 6, Topic 4 "Software" (4.1 and 4.2).
