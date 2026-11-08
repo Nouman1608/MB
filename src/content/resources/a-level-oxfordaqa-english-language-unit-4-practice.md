@@ -123,7 +123,7 @@ about English-only signs in a multilingual area?")
 
 **2.** [4] For example: photograph a defined sample (all signs in one street, or 30 signs of each type),
 record location and type, transcribe the wording into a table; issue: photographing private property or
-people requires care, and sample size must be manageable within about 2,500 words.
+people requires care, and sample size must be manageable within the word limit (section 3.4.2 says about 2,500 words excluding data; the assessment overview says 2,500 to 3,000 words).
 
 **3.** Aim(s); Method; Analysis; Conclusion; References; Appendix (data) [3 for six, 2 for four or five,
 1 for two or three].

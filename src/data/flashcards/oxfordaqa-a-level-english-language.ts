@@ -109,6 +109,7 @@ export const DECK_OXFORDAQA_A_LEVEL_ENGLISH_LANGUAGE: FlashcardDeck = {
       { n: 5, f: 'What should an investigation\'s conclusion include?', b: 'A reasoned answer to the question, how strong the evidence is, its limitations (small sample, one context, the effect of being recorded) and what further research could add.' },
       { n: 6, f: 'What is accommodation theory?', b: 'Speakers adjust their speech towards others (convergence) to build rapport or away from them (divergence) to show distance or identity.' },
       { n: 7, f: 'What is face in politeness theory?', b: 'A person\'s public self-image. Positive face is the wish to be liked and approved of; negative face is the wish not to be imposed on. Politeness strategies protect both.' },
+      { n: 8, f: 'How long is a 9670 Unit 4b investigation?', b: 'The specification gives two figures: 2,500 to 3,000 words in the assessment overview, and approximately 2,500 words excluding data in section 3.4.2. Check the current limit with your teacher.' },
     ]),
   ],
 };
