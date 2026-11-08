@@ -279,6 +279,20 @@ Reading a profile (M4a) means taking levels off the energy axis and subtracting 
 
 Use the [Energetics revision notes](/resources/ocr-gcse-chemistry-energetics-revision-notes/) for a summary and self-test, then the [Energetics practice questions](/resources/ocr-gcse-chemistry-energetics-practice/). Relative formula mass, needed when energy changes are compared per gram, is in the [purity and separating mixtures guide](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/). Activation energy returns in the [controlling reactions guide](/resources/ocr-gcse-chemistry-controlling-reactions/), which covers collision theory and catalysts.
 
+## Frequently asked questions
+
+**What is the difference between exothermic and endothermic reactions?**
+In an exothermic reaction energy is transferred from the reacting chemicals to the surroundings, so the temperature rises. In an endothermic reaction energy is transferred from the surroundings to the chemicals, so the temperature falls.
+
+**What must be labelled on a reaction profile?**
+Label the reactants, the products, the activation energy and the energy change. Both arrows are measured from the reactants line: activation energy goes up to the peak, and the energy change goes to the products line.
+
+**What is activation energy?**
+Activation energy is the minimum energy needed for a reaction to occur. Particles must collide with at least this much energy for bonds in the reactants to start breaking.
+
+**Why is a polystyrene cup with a lid used to measure temperature changes?**
+Expanded polystyrene traps air, so heat passes through it slowly, and a lid stops warm or cool air escaping. This reduces heat transfer to or from the room, which would otherwise make every measured temperature change too small.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C3.2 Energetics, learning outcomes C3.2a–C3.2d, mathematical learning outcomes CM3.2i–CM3.2ii and practical suggestions (PAG C8).

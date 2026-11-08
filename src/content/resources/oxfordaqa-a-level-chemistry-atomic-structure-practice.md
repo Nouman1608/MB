@@ -163,6 +163,20 @@ Calculate the relative atomic mass to 4 significant figures. **[3]**
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.1.1 Atomic structure cover?**
+Section 3.1.1 of OxfordAQA International AS and A-level Chemistry (9620) covers fundamental particles, mass number and isotopes, the time of flight mass spectrometer, electron configurations up to Z = 36 and ionisation energies. It is all International AS content.
+
+**What are common mistakes in atomic structure questions?**
+Frequent errors include calculating electrons as A − Z for an ion, saying ions are accelerated to the same speed rather than the same kinetic energy, not dividing by the total abundance, and leaving state symbols or the electron out of ionisation equations.
+
+**How can you check a relative atomic mass calculation?**
+A sensible relative atomic mass lies between the smallest and largest isotopic masses and closer to the most abundant isotope. An answer outside that range shows an arithmetic slip.
+
+**How do you explain a dip in first ionisation energy to get full marks?**
+Name the sub-shell the electron is removed from and explain why it is easier to remove, then state what the dip shows about electron configuration in sub-shells. Describing the dip without naming the sub-shell loses credit.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and

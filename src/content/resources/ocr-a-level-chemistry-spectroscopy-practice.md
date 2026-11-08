@@ -176,6 +176,20 @@ IR: alcohol O–H 3200–3600 cm⁻¹ (broad); acid O–H 2500–3300 cm⁻¹ (v
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OCR A Level Chemistry 6.3.2 Spectroscopy cover?**
+Section 6.3.2 of OCR A Level Chemistry A (H432) covers carbon-13 NMR, high resolution proton NMR, predicting spectra, the use of TMS, deuterated solvents and D₂O, and combining elemental analysis, mass spectra, IR and NMR to deduce a structure. It sits in Module 6, Organic chemistry and analysis.
+
+**Will chemical shift values be given in the OCR exam?**
+Yes. The specification says NMR chemical shift values will be provided on the Data Sheet in examinations, so use those values rather than memorised ones.
+
+**What are common mistakes when interpreting proton NMR splitting?**
+Students often count protons on only one adjacent carbon when both sides carry hydrogen, or split a signal by O–H or N–H protons or by equivalent protons in the same group. Always add the protons on every adjacent carbon and apply the n + 1 rule.
+
+**How do I approach a combined spectroscopy structure question?**
+Use elemental analysis for the empirical formula and the molecular ion for the molecular formula, then IR for functional groups, carbon-13 NMR for carbon environments and proton NMR for proton environments and neighbours. Check that the integration totals match the formula.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.3.2 Spectroscopy, learning outcomes (a) to (e). Published by OCR.

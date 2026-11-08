@@ -173,6 +173,20 @@ Use these bond energies (kJ/mol) for questions 7 to 11:
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C3.2 Energetics cover?**
+Sub-topic C3.2 of OCR GCSE (9–1) Chemistry A (J248) covers exothermic and endothermic reactions, reaction profiles, activation energy and, for Higher Tier only, bond energy calculations. It links to PAG C8 for measuring temperature changes.
+
+**Are bond energy calculations on the Foundation Tier?**
+No. In OCR GCSE Chemistry A (J248), calculating energy changes from bond energies (C3.2d) is Higher Tier only. Classifying reactions, reaction profiles and activation energy are needed by all candidates.
+
+**What are common mistakes in bond energy calculations?**
+Frequent errors include reversing the rule that bond breaking takes energy in and bond making gives energy out, forgetting multipliers in the equation such as 3O₂, confusing N–N with N≡N, and giving the answer without a sign or unit.
+
+**How do you classify a reaction from temperature data?**
+Use the direction of the temperature change, not its size. A rise means energy was transferred to the surroundings, so the reaction is exothermic; a fall means energy moved from the surroundings into the chemicals, so it is endothermic.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C3.2 Energetics, learning outcomes C3.2a–C3.2d, mathematical learning outcomes CM3.2i–CM3.2ii and the linked practical suggestion (PAG C8).

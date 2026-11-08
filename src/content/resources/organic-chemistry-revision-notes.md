@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Condensed recall notes on homologous series, functional groups, isomerism and naming organic compounds for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -233,3 +235,16 @@ For the full worked explanation with additional detail, see the [Organic Chemist
   <figcaption>An acid and an alcohol with an acid catalyst make an ester and water; ethyl comes from the alcohol, ethanoate from the acid.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you test whether a compound is saturated or unsaturated?**
+Add bromine water. An unsaturated compound such as an alkene turns it from orange-brown to colourless, while a saturated compound leaves it orange-brown.
+
+**How many carbon atoms do the stem names stand for?**
+Meth- means 1 carbon, eth- 2, prop- 3 and but- 4. Cambridge IGCSE 0620 and O Level 5070 limit naming to compounds with up to four carbon atoms per molecule, so pent- and hex- are background only.
+
+**What is the difference between substitution and addition reactions?**
+In substitution, one atom replaces another, which is how alkanes react with halogens in UV light. In addition, atoms add across a double bond, which is how alkenes react with bromine.
+
+**Why do branched isomers have lower boiling points?**
+Branched isomers have less surface contact between molecules than their straight-chain isomers, so the intermolecular forces are weaker and the boiling point is lower.

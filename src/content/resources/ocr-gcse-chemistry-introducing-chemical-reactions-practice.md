@@ -174,6 +174,20 @@ Before you start, read the [C3.1 study guide](/resources/ocr-gcse-chemistry-intr
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C3.1 Introducing chemical reactions cover?**
+Sub-topic C3.1 of OCR GCSE (9–1) Chemistry A (J248) covers formulae, balanced and half equations, state symbols and conservation of mass for all candidates, plus ionic equations, the mole, limiting reactants and reacting masses for Higher Tier only.
+
+**What are common mistakes when balancing equations?**
+The most common error is changing subscripts in a formula instead of adding coefficients in front, which changes what the substance is. Other slips include missing brackets in formulae and writing I or Cl instead of I₂ or Cl₂.
+
+**How do you find the limiting reactant?**
+Convert the mass of each reactant to moles and compare them with the mole ratio in the balanced equation. Comparing masses instead of moles is a common error, because the limiting reactant is not always the one with the smaller mass.
+
+**How should I explain a change in mass during a reaction?**
+Explain it in terms of particles entering or leaving the container, such as a gas escaping or oxygen being gained from the air. Saying mass was "destroyed" is wrong, because atoms are only rearranged.
+
 ## Official syllabus
 
 Source document: the J248 specification for GCSE (9-1) Chemistry A (Gateway Science) from OCR, Version 4.0, dated August 2026 and in use since first assessment in 2018. This page follows its sub-topic C3.1 Introducing chemical reactions.

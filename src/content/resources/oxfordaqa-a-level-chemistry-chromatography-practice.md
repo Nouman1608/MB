@@ -173,6 +173,20 @@ Correct method [1]; all totals correct [1]; formula **C₇H₁₄O₂** [1]
 - Take a free 10-minute [diagnostic](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.3.16 Chromatography cover?**
+Section 3.3.16 of OxfordAQA International AS and A-level Chemistry (9620) covers thin-layer, column and gas chromatography, Rf values and retention times, and the use of mass spectrometry to analyse components separated by gas chromatography (GC-MS).
+
+**What are common mistakes in chromatography questions?**
+Frequent errors include measuring from the plate's bottom edge or to the leading edge of a spot, writing the Rf ratio upside down or with units, explaining separation with only one phase, describing the GC moving phase as a liquid, and treating one spot as proof of purity.
+
+**How do you choose a formula from a precise m/z value?**
+Work out the precise mass of every candidate formula by multiplying each atom count by its precise mass and adding, then pick the one that equals the measured value. Showing the total for only the matching formula loses marks.
+
+**How should Rf values be given?**
+Give Rf values as a ratio with no units, to 2 decimal places in this set, measuring both distances from the baseline: to the centre of the spot and to the solvent front.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards (OxfordAQA). Section 3.3.16 Chromatography (International A2), subsection 3.3.16.1.

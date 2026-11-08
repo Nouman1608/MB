@@ -188,6 +188,20 @@ Revise first with the [study guide](/resources/ocr-gcse-chemistry-predicting-che
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C4.1 Predicting chemical reactions cover?**
+Sub-topic C4.1 of OCR GCSE (9–1) Chemistry A (J248) covers the properties and trends of Groups 1, 7 and 0, transition metals, predicting reactions from position in the Periodic Table, and ordering metal reactivity from experimental results.
+
+**What are common mistakes in group trend questions?**
+Frequent errors include using the Group 1 explanation for Group 7, saying halogens get more reactive down the group, writing "it wants a full shell" instead of describing attraction between the nucleus and the outer electron, and writing chlorine as Cl instead of Cl₂.
+
+**How do you rank metals from temperature change results?**
+Use the temperature change, not the final temperature: a larger rise means a more reactive metal displacing copper from copper(II) sulfate. No change means the metal is less reactive than copper and does not displace it.
+
+**How do you find an empirical formula from heating a metal?**
+Find the mass of the non-metal that combined by subtracting the metal's mass from the product's mass, convert both masses to moles, then find the simplest whole-number ratio. Dividing masses instead of moles is a common error.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C4.1 Predicting chemical reactions, learning outcomes C4.1a–C4.1f, mathematical learning outcome CM4.1i and the linked practical suggestions (PAG C1, C5, C7, C8).

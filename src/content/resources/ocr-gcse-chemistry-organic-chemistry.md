@@ -343,6 +343,23 @@ Other fuel cells use fuels such as methanol: easier to store as a liquid, but it
 
 Background reading: the [C2.3 materials guide](/resources/ocr-gcse-chemistry-properties-of-materials/) for allotropes, the [bonding guide](/resources/ocr-gcse-chemistry-bonding/) for intermolecular forces and the [C3.1 reactions guide](/resources/ocr-gcse-chemistry-introducing-chemical-reactions/) for balancing. Then use the [C6.2 revision notes](/resources/ocr-gcse-chemistry-organic-chemistry-revision-notes/) and the [C6.2 practice set](/resources/ocr-gcse-chemistry-organic-chemistry-practice/).
 
+## Frequently asked questions
+
+**What is a homologous series?**
+A homologous series is a family of organic compounds with the same general formula, differing by CH₂ from one member to the next, with the same functional group and a steady trend in physical properties such as boiling point.
+
+**How do you test for an alkene?**
+Add bromine water: an alkene adds bromine across its C=C bond and the orange bromine water turns colourless. Alkanes have no C=C bond, so the colour stays.
+
+**What happens when an alcohol is oxidised?**
+Warming an alcohol with acidified potassium manganate(VII) turns its –CH₂OH end into –COOH, forming a carboxylic acid with the same number of carbons. The purple solution turns colourless.
+
+**What are natural polymers?**
+DNA is a polymer of four different nucleotides, starch, cellulose and glycogen are polymers of sugars such as glucose, and proteins are polymers of amino acids.
+
+**Why is crude oil described as finite?**
+Crude oil formed over millions of years and is being used much faster than it forms, so it is a finite resource. It supplies fuels and is the feedstock for plastics, solvents and many other products.
+
 ## Official syllabus
 
 Published by OCR: Version 4.0 (August 2026) of specification J248, for the GCSE (9–1) in Chemistry A, Gateway Science, first assessed in 2018. Content taken from it: sub-topic C6.2 Organic chemistry, statements C6.2a–C6.2q, maths outcome CM6.2i, and the practical suggestions "Use of models" and "Making nylon".

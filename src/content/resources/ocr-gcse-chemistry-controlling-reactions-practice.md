@@ -182,6 +182,20 @@ For a refresher beforehand, see the [study guide](/resources/ocr-gcse-chemistry-
 - Take a [free 10-minute diagnostic](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C5.2 Controlling reactions cover?**
+Sub-topic C5.2 of OCR GCSE (9–1) Chemistry A (J248) covers measuring rates of reaction, interpreting rate graphs and tangents, how temperature, concentration, pressure and surface area affect rate, catalysts and their reaction profiles, and enzymes. It links to PAG C8.
+
+**What are common mistakes in rate of reaction questions?**
+Frequent errors include giving rates without units, reading tangent points from the curve instead of the tangent line, drawing a faster curve with a higher final volume when the limiting reactant is unchanged, and writing "more collisions" with no reference to time.
+
+**How do you show that a substance is acting as a catalyst?**
+You need two pieces of evidence: the reaction is faster with the substance present, and the same mass of it is recovered unchanged at the end. A substance that speeds up the reaction but loses mass is reacting, not acting as a catalyst.
+
+**How should rates be given in OCR GCSE answers?**
+Always give a unit that matches the data, such as cm³/s for a gas volume or g/s for a mass. Rates without units, or g/s used for gas volumes, are a common way to lose marks.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C5.2 Controlling reactions, learning outcomes C5.2a–C5.2i, mathematical learning outcomes CM5.2i–CM5.2iv and the linked practical suggestions (PAG C1, PAG C7, PAG C8).

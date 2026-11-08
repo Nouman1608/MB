@@ -249,6 +249,20 @@ Divide the mass by the Mr of the whole silver halide, then by the volume in dm³
 - Describing water treatment risks vaguely ("chlorine is dangerous") instead of naming toxic gas or chlorinated hydrocarbons.
 - In mole questions, using the Ar of the halogen instead of the Mr of the silver halide.
 
+## Frequently asked questions
+
+**What is disproportionation?**
+Disproportionation is a redox reaction in which the same element is both oxidised and reduced. To prove it, show the oxidation number change for the element in both products, such as chlorine going from 0 to −1 in HCl and from 0 to +1 in HClO.
+
+**What colours do halogens show in cyclohexane?**
+In the organic layer, bromine is orange and iodine is violet, while iodine in the aqueous mixture looks brown. Describing iodine in cyclohexane as brown, or bromine as violet, is a common error.
+
+**Which halides can each halogen displace?**
+The reactivity order is Cl₂ > Br₂ > I₂, and a halogen displaces only the halides below it. So chlorine displaces bromide and iodide, bromine displaces iodide only, and iodine displaces neither.
+
+**What is the difference between chlorate(I) and chlorate(V)?**
+Chlorate(I) is ClO⁻, the ion in bleach formed from chlorine and cold, dilute sodium hydroxide. Chlorate(V) is ClO₃⁻ and appears only if a question gives a different reaction.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.3 The halogens, learning outcomes (a) to (g). Published by OCR.

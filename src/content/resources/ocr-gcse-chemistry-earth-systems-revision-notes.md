@@ -265,6 +265,20 @@ The natural effect keeps the Earth habitable. Human activity **enhances** it. Ni
 - Calling potable water "pure" or "clean water with nothing in it".
 - Saying the ozone hole causes global warming.
 
+## Frequently asked questions
+
+**What was the Earth's early atmosphere made of?**
+The early atmosphere is thought to have been mainly carbon dioxide and water vapour from volcanic outgassing, with some nitrogen, possibly a little methane and ammonia, and almost no oxygen. The evidence is indirect, so conclusions are described as "thought" or "suggested".
+
+**What is the difference between the greenhouse effect and ozone depletion?**
+In the greenhouse effect, greenhouse gases absorb and re-emit infrared radiation, warming the Earth. Ozone depletion lets more ultraviolet radiation reach the ground; it is a different problem and does not cause global warming.
+
+**Where do sulfur dioxide and oxides of nitrogen come from?**
+Sulfur dioxide comes from sulfur impurities in the fuel. Oxides of nitrogen form from nitrogen in the air, not from the fuel.
+
+**How do you convert between ppm and percentage?**
+1% is 10 000 ppm, so divide a value in ppm by 10 000 to get a percentage, or multiply a percentage by 10 000 to get ppm. For example, 430 ppm is 0.043%.
+
 ## Official syllabus
 
 This page follows OCR's GCSE (9–1) Chemistry A (Gateway Science) specification J248, Version 4.0 (August 2026), first assessed in 2018, published by OCR. Content used: C6.3 Interpreting and interacting with earth systems (statements C6.3a–C6.3g; maths outcomes CM6.3i and CM6.3ii).

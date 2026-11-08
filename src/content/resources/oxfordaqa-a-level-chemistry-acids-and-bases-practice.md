@@ -176,6 +176,20 @@ If a method is unfamiliar, go back to the [study guide](/resources/oxfordaqa-a-l
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.1.10 Acids and bases cover?**
+Section 3.1.10 of OxfordAQA International AS and A-level Chemistry (9620) covers Brønsted–Lowry acids and bases, pH, the ionic product of water Kw, Ka and pKa, titrations, pH curves and indicators, required practical 7 and buffers. All of it is International A-level content.
+
+**What are common mistakes in acids and bases calculations?**
+Frequent errors include using a hydroxide's concentration as [OH⁻] when each unit releases two OH⁻, writing Kw with [H₂O] still in it, using √(Ka × [HA]) for a buffer, and using one solution's volume rather than the total volume after mixing.
+
+**How do you choose a suitable indicator for a titration?**
+An indicator is suitable only if its whole colour-change range lies inside the vertical section of the pH curve. Choosing an indicator because just one end of its range falls in the steep section loses the mark.
+
+**Do I need to give units for Ka?**
+Yes. Ka has units of mol dm⁻³, and leaving them out loses credit when a question asks for them. Kw has units of mol² dm⁻⁶.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.10 Acids and bases (International A2), with required practical 7. Published by OxfordAQA.

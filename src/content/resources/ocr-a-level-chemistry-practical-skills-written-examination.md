@@ -242,6 +242,23 @@ A limitation (1.1.4(c)) is a specific weakness in the procedure, and each improv
 - Papers: [OCR A Level Chemistry exam preparation](/resources/ocr-a-level-chemistry-exam-preparation/)
 - [Free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**How do you calculate percentage uncertainty?**
+Percentage uncertainty = (uncertainty ÷ measured value) × 100. When a quantity comes from two readings, such as a temperature change, add the two uncertainties first, and for a result calculated by multiplying or dividing measurements, add the percentage uncertainties.
+
+**What does it mean if percentage error is larger than percentage uncertainty?**
+If the percentage error is larger than the total percentage uncertainty, the apparatus uncertainty cannot explain the difference from the accepted value. The cause is mainly systematic, so look for a limitation in the procedure such as heat loss.
+
+**How should controlled variables be described in a plan?**
+Name each controlled variable specifically, such as temperature, the concentration and volume of the other reagent, surface area of a solid and any catalyst, and say how each is kept constant. "Keep conditions the same" is too vague.
+
+**How do you find a gradient from a graph accurately?**
+Draw a best-fit line or curve, ignoring clear anomalies, and take the gradient from two far-apart points on the line rather than from data points off it. For a curve, draw a tangent at the point required.
+
+**What should you do with an anomalous result?**
+An anomaly is a result that does not fit the pattern. Leave it out of means and best-fit lines, and repeat the measurement if possible.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR -- Module 1, section 1.1 Practical skills assessed in a written examination (1.1.1 to 1.1.4).

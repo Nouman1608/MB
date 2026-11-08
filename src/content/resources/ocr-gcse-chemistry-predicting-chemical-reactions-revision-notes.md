@@ -276,6 +276,20 @@ Balancing with ratio: 4Li + O₂ → 2Li₂O. 0.35 g of lithium is 0.050 mol, wh
 - Dividing masses rather than moles when finding an empirical formula.
 - Saying a metal "loses mass" when it forms an oxide or chloride.
 
+## Frequently asked questions
+
+**Why does reactivity increase down Group 1 but decrease down Group 7?**
+Down a group the outer electrons are further from the nucleus and more shielded. Group 1 metals react by losing an electron, which gets easier, so reactivity rises; Group 7 elements react by gaining an electron, which gets harder, so reactivity falls.
+
+**What happens when lithium, sodium and potassium react with water?**
+Lithium fizzes steadily, sodium melts into a ball and whizzes around, and potassium gives a lilac flame. Each forms a metal hydroxide and hydrogen, leaving an alkaline solution.
+
+**What is a halogen displacement reaction?**
+A more reactive halogen displaces a less reactive halogen from its halide salt solution. For example, Cl₂ + 2NaBr → 2NaCl + Br₂, and the colourless solution turns orange.
+
+**How do transition metals differ from Group 1 metals?**
+Transition metals have higher densities and melting points, form ions with different charges and have coloured compounds. Group 1 metals have low densities and melting points, form a single 1+ ion and have white compounds.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C4.1 Predicting chemical reactions, learning outcomes C4.1a–C4.1f, mathematical learning outcome CM4.1i and the linked practical suggestions (PAG C1, C5, C7, C8).

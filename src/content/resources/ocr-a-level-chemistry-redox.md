@@ -286,6 +286,20 @@ Tin(II) chloride solution reacts with iron(III) chloride solution. Tin ends up a
 - Original questions with mark-by-mark answers: [Redox practice questions](/resources/ocr-a-level-chemistry-redox-practice/)
 - Formulae of ions and equation writing: [Compounds, formulae and equations](/resources/ocr-a-level-chemistry-compounds-formulae-and-equations/)
 
+## Frequently asked questions
+
+**What is an oxidation number?**
+An oxidation number shows how many electrons an atom has lost (positive) or gained (negative) compared with the uncombined element, counting every bond as if it were ionic. In OCR A Level Chemistry A (H432), the rules are applied in order, with a higher rule overriding a lower one.
+
+**What salt does iron form with a dilute acid?**
+Iron forms the iron(II) salt with dilute acids, for example FeSO₄ with dilute sulfuric acid, not Fe₂(SO₄)₃. Iron(II) is oxidised to iron(III) by a stronger oxidising agent such as chlorine.
+
+**What happens to the acid's anion when a metal reacts with a dilute acid?**
+The anion passes through unchanged, so it is neither oxidised nor reduced. The metal is oxidised from 0 to a positive oxidation number and hydrogen is reduced from +1 to 0.
+
+**When should a Roman numeral be included in a chemical name?**
+Use a Roman numeral when an element, often a d-block metal, has more than one oxidation number, such as iron(II) or tin(IV); for an oxoanion it refers to the central atom. Do not add one where an element has only one oxidation number, so write sodium chloride, not sodium(I) chloride.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 2.1.5 Redox, learning outcomes (a) to (f). Published by OCR.

@@ -244,6 +244,20 @@ Chlorine in the side chain is therefore **much more reactive** than chlorine on 
 - Saying benzene + Cl₂ in UV light gives chlorobenzene. It gives the addition product C₆H₆Cl₆.
 - Calling SO₃ a positive ion. It is neutral; its sulfur atom is strongly δ+.
 
+## Frequently asked questions
+
+**What is the structure of benzene?**
+Each carbon in benzene forms three σ bonds at 120°, so the molecule is planar. The six p orbitals overlap sideways to delocalise six electrons around the ring, so all six C–C bonds are identical, with a length between a single and a double bond.
+
+**What is the electrophile in the nitration of benzene?**
+The electrophile is the nitronium ion, NO₂⁺, formed when concentrated sulfuric acid protonates concentrated nitric acid: HNO₃ + 2H₂SO₄ → NO₂⁺ + H₃O⁺ + 2HSO₄⁻. The product with benzene is nitrobenzene.
+
+**Why are nitration and sulfonation important in synthesis?**
+Rings carrying several nitro groups are used as explosives, and reducing a nitro group gives an amine. Sulfonation is an important step in making surfactants and sulfonamides.
+
+**Why is chlorine on a benzene ring less reactive than chlorine on a side chain?**
+In chlorobenzene a lone pair on chlorine overlaps with the ring's delocalised electrons, giving the C–Cl bond partial π character so it is shorter and harder to break. In (chloromethyl)benzene the Cl is on an sp³ side-chain carbon and is readily substituted by nucleophiles such as OH⁻.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.10 Aromatic chemistry (International A2): subsections 3.3.10.1 (Bonding) and 3.3.10.2 (Electrophilic substitution).

@@ -235,6 +235,20 @@ Equations: Ag⁺(aq) + I⁻(aq) → AgI(s), and NH₄⁺(aq) + OH⁻(aq) → NH�
 - For mole, mass and gas-volume methods: [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/)
 - Recording observations in practical work: [Practical skills for the Practical Endorsement](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement/)
 
+## Frequently asked questions
+
+**What is the order of anion tests in OCR A Level Chemistry?**
+The OCR A Level Chemistry A (H432) specification sets the order as carbonate, then sulfate, then halide. Each later reagent would also precipitate an ion tested earlier, because BaCO₃, silver carbonate and Ag₂SO₄ are all insoluble.
+
+**Why is nitric acid used to acidify a solution before ion tests?**
+Hydrochloric acid would add chloride ions and sulfuric acid would add sulfate ions, giving false positives. Nitric acid adds only nitrate ions, which none of the test reagents precipitate.
+
+**Is fizzing with acid enough to prove a carbonate is present?**
+No. Other reactions also release gases, so the gas must be bubbled through limewater; it turns milky only if the gas is carbon dioxide, confirming carbonate.
+
+**Do I need to know the formulae of silver–ammonia complexes for OCR?**
+No. The specification says complexes with ammonia are not required other than observations, so you need to know which silver halide precipitates dissolve in dilute and concentrated ammonia, not the formula of the complex.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.4 Qualitative analysis, learning outcome (a)(i) and (ii), with its additional guidance and PAG4. Published by OCR.

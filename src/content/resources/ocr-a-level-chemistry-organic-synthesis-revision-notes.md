@@ -232,6 +232,22 @@ Exam papers may give a reaction that is not in Module 4. Read it as a new row in
   <figcaption>Edexcel only: a Grignard reagent adds carbons from its alkyl group to a carbonyl compound, giving an acid or a primary, secondary or tertiary alcohol.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between heating under reflux and distillation?**
+In heating under reflux the condenser is vertical and open at the top, so vapour condenses and returns to the flask during long heating. In distillation the condenser slopes down to a receiver and the product is collected, with the thermometer bulb level with the side arm.
+
+**How do you oxidise a primary alcohol to an aldehyde instead of a carboxylic acid?**
+Use acidified potassium dichromate(VI) and distil the aldehyde off as it forms, so it escapes before it can be oxidised further. To make the carboxylic acid, heat under reflux with excess oxidising agent; in both cases the colour changes from orange to green.
+
+**What is the difference between washing and drying an organic product?**
+Washing removes water-soluble impurities such as acid and salts, for example by shaking with sodium hydrogencarbonate solution. Drying removes the traces of water left afterwards, using an anhydrous salt such as magnesium sulfate or calcium chloride until the liquid turns clear.
+
+**How do you know when an organic liquid is dry?**
+The cloudy liquid turns clear and some of the anhydrous drying agent moves freely in the flask without clumping. The drying agent is then decanted or filtered off before redistillation.
+
+**Why can a tertiary alcohol not be oxidised by acidified dichromate?**
+The carbon carrying the OH group in a tertiary alcohol has no hydrogen atom to lose, so it resists oxidation and the dichromate stays orange. This means a synthetic route in OCR A Level Chemistry A (H432) cannot turn a tertiary alcohol into an aldehyde, ketone or carboxylic acid by oxidation.
 
 ## Official syllabus
 

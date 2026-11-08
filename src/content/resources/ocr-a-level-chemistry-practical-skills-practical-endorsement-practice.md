@@ -169,6 +169,20 @@ Work through the [study guide](/resources/ocr-a-level-chemistry-practical-skills
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which practical techniques does this OCR set cover?**
+The questions cover OCR A Level Chemistry A (H432) section 1.2 and the Practical Endorsement rules, including risk assessment, standard solutions, titrations, gas volumes, reflux, recrystallisation, chromatography, qualitative tests, cells, rates and pH, in line with the PAG techniques.
+
+**Are practical skills tested in the OCR A Level Chemistry written papers?**
+Yes. Section 1.2 skills are assessed through the endorsement, but practical techniques can also be tested in the written papers through 1.1.2(a), so questions on titrations, standard solutions, gas volumes and purification are worth practising.
+
+**How do you write a good control measure in a risk assessment?**
+Link each control measure to the named hazard in your method. For example, a flammable organic vapour should be heated with an electric heater or water bath with no flames nearby, which earns more credit than a generic "take care" or "wear goggles".
+
+**Which titres should be used to calculate a mean titre?**
+Use only concordant titres, usually within 0.10 cm³ of each other, and leave out the rough titre. Every reading should still be recorded, including the rough one.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR. Sections 1.2.1, 1.2.2 and 5g.

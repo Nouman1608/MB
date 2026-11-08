@@ -225,6 +225,20 @@ Use Ar: H = 1.0, C = 12.0, O = 16.0, S = 32.1, Cl = 35.5.
 - Leaving out HCl in Friedel–Crafts equations, or calling it the catalyst.
 - Explaining the low reactivity of chlorobenzene by bond polarity alone, with no mention of the lone pair overlapping with the ring.
 
+## Frequently asked questions
+
+**Why does benzene undergo substitution rather than addition?**
+An addition product would no longer have a complete delocalised ring, so it would lose benzene's extra stability. Substitution replaces one hydrogen and leaves the delocalised ring intact.
+
+**Why does methylbenzene react faster than benzene?**
+The CH₃ group pushes electron density into the ring, so it is attacked by electrophiles faster than benzene. Substitution happens mainly at positions 2 and 4.
+
+**What happens when benzene and methylbenzene react with chlorine in UV light?**
+In UV light, benzene adds chlorine to the ring, giving C₆H₆Cl₆, while methylbenzene undergoes substitution on the side chain to give (chloromethyl)benzene. Writing chlorobenzene for the benzene product is a common error.
+
+**What is the difference between Friedel–Crafts acylation and alkylation?**
+Acylation uses an acyl chloride and an RCO⁺ electrophile to give a ketone, while alkylation uses a halogenoalkane and an R⁺ electrophile to give an alkylbenzene. Both use an aluminium chloride catalyst and produce HCl.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.10 Aromatic chemistry (International A2): subsections 3.3.10.1 (Bonding) and 3.3.10.2 (Electrophilic substitution).

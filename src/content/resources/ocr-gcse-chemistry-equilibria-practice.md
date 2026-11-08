@@ -177,6 +177,20 @@ Plan an experiment to test the prediction that adding more of either reactant ma
 - Find your next weak spot with a [free 10-minute diagnostic](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C5.3 Equilibria cover?**
+Sub-topic C5.3 of OCR GCSE (9–1) Chemistry A (J248) covers reversible reactions, dynamic equilibrium in a closed system, rates from graphs, and, for Higher Tier only, predicting how changes in concentration, temperature and pressure shift the position of equilibrium.
+
+**Is Le Chatelier's principle on the Foundation Tier?**
+No. Statement C5.3c, changing the position of equilibrium, is Higher Tier only in OCR GCSE Chemistry A (J248). Reversible reactions and dynamic equilibrium are needed by all candidates.
+
+**How should I answer an "explain" question about a shift in equilibrium?**
+State the direction the position moves and say what happens to the substance named in the question, such as more product forming. Stopping at "shifts right" without naming the effect on the substance loses marks.
+
+**What are common mistakes in equilibria questions?**
+Frequent errors include writing "equal concentrations" instead of "constant concentrations", forgetting the closed system, counting solids, liquids or atoms in a pressure question, and linking a temperature rise to the exothermic direction.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C5.3 Equilibria, learning outcomes C5.3a–C5.3c and mathematical learning outcomes CM5.3i–CM5.3iv.

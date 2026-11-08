@@ -184,6 +184,20 @@ C₃H₈ + 5O₂ → 3CO₂ + 4H₂O
 - The H432 [course hub](/boards/ocr/a-level/chemistry/)
 - Tick-off list: [printable OCR checklist](/checklists/ocr/a-level/chemistry/)
 
+## Frequently asked questions
+
+**What does OCR A Level Chemistry 3.2.2 Reaction rates cover?**
+Section 3.2.2 of OCR A Level Chemistry A (H432) covers the effect of concentration and pressure on collision frequency, rates from graph gradients, how catalysts work, homogeneous and heterogeneous catalysts and their sustainability benefits, PAG9 rate techniques and the Boltzmann distribution.
+
+**How do you find the rate at a particular time from a graph?**
+Draw a tangent that touches the curve at that time, extend it well across the grid, and read two points far apart on the drawn line. The gradient of the tangent is the rate at that instant, with units taken from the axes.
+
+**How do extended planning questions on rates earn marks?**
+Marks come from distinct, practical points: what you change, what you keep constant and how, what you measure and how often, and how you process the data. Listing control variables without saying how each is controlled is a common way to lose marks.
+
+**What mistakes lose marks in reaction rates questions?**
+Common errors include saying that concentration or pressure changes the energy of collisions, mixing cm³ and dm³ when converting a gas volume rate to moles, moving the Boltzmann curve for a catalyst, and giving the hotter Boltzmann curve a higher peak.
+
 ## Official syllabus
 
 Source: section 3.2.2 Reaction rates, learning outcomes (a) to (g), in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR.

@@ -156,6 +156,20 @@ Revise first with the [study guide](/resources/oxfordaqa-a-level-chemistry-aldeh
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.3.8 Aldehydes and ketones cover?**
+Section 3.3.8 of OxfordAQA International AS and A-level Chemistry (9620) covers the oxidation of aldehydes, Fehling's and Tollens' tests, reduction with NaBH₄, nucleophilic addition of KCN to form hydroxynitriles, racemic products and the hazards of using KCN.
+
+**What are common mistakes in carbonyl mechanism questions?**
+Frequent errors include starting the cyanide arrow at N instead of C, drawing BH₄⁻ as the nucleophile instead of H⁻, leaving out the arrow from the double bond on to oxygen, and leaving O⁻ unprotonated at the end of the mechanism.
+
+**What mole ratios are used in Tollens' and Fehling's calculations?**
+One mole of aldehyde gives two moles of silver with Tollens' reagent, and one mole of copper(I) oxide with Fehling's solution. Using a 1 : 1 ratio for silver is a common error.
+
+**How should hazards be described in a plan question?**
+Name the specific hazard and pair it with a control measure that addresses that hazard. Pairing a hazard with a control that does not address it is a common way to lose marks.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.8 Aldehydes and ketones (3.3.8.1), International A2 content.

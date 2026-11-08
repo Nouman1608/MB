@@ -359,6 +359,20 @@ Next, use the [alkanes revision notes](/resources/oxfordaqa-a-level-chemistry-al
 then the [alkanes practice questions](/resources/oxfordaqa-a-level-chemistry-alkanes-practice/). For
 chlorine itself, see [Group 7(17), the halogens](/resources/oxfordaqa-a-level-chemistry-group-7-17-the-halogens/).
 
+## Frequently asked questions
+
+**Why do longer alkanes have higher boiling points?**
+Alkanes are non-polar, so the only forces between their molecules are van der Waals forces. Each extra CH₂ group adds electrons and increases surface contact, so the forces are stronger and more energy is needed to overcome them; no covalent bonds break on boiling.
+
+**What are the steps of free-radical substitution of methane?**
+In initiation, UV light breaks the Cl–Cl bond homolytically to form two Cl• radicals. In propagation, CH₄ + Cl• → HCl + •CH₃ and then •CH₃ + Cl₂ → CH₃Cl + Cl•. In termination, two radicals combine and the chain stops.
+
+**Where does the nitrogen in NOₓ from engines come from?**
+The nitrogen comes from the air, not the fuel. At the very high temperatures in the cylinder, nitrogen and oxygen combine: N₂ + O₂ → 2NO, and nitrogen monoxide then oxidises further to NO₂.
+
+**Why does chlorinating methane give a mixture of products?**
+Chlorine radicals can attack any C–H bond still present, so further substitution gives CH₂Cl₂, CHCl₃ and CCl₄, and two-carbon products form when carbon radicals terminate together. Using more methane relative to chlorine gives mainly CH₃Cl.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International

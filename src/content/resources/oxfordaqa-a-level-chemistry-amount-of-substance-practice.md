@@ -165,6 +165,20 @@ These questions cover section 3.1.2 (Amount of substance) of the OxfordAQA Inter
 - Try the [free diagnostics](/diagnostics/) to find your next weak spot.
 - [Book a free trial class](/trial/) if you want to work through these with a teacher.
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.1.2 Amount of substance cover?**
+Section 3.1.2 of OxfordAQA International AS and A-level Chemistry (9620) covers relative masses, the mole and the Avogadro constant, solution concentrations, the ideal gas equation, empirical and molecular formulae, and calculations from balanced equations including yield and atom economy.
+
+**What are common mistakes in amount of substance calculations?**
+Frequent errors include putting cm³ or kPa directly into pV = nRT, forgetting that a molecule such as NH₃ contains more than one atom of the element being counted, skipping the scaling step from a titration portion to the whole solution, and using a 1 : 1 ratio where the equation gives 1 : 2.
+
+**What units are used in pV = nRT?**
+Use pressure in Pa, volume in m³ and temperature in K. Putting cm³ or kPa directly into the equation is one of the most common mistakes in this section.
+
+**What is the difference between percentage yield and atom economy?**
+Percentage yield compares the mass of product actually made with the theoretical mass, so it comes from the experiment. Atom economy compares the mass of desired product with the total mass of reactants in the balanced equation.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620) specification*, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.2 Amount of substance.

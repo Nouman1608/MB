@@ -277,6 +277,20 @@ So use a fume cupboard, gloves and eye protection, and add the dilute acid slowl
 
 For a shorter version, use the [revision notes](/resources/oxfordaqa-a-level-chemistry-aldehydes-and-ketones-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-chemistry-aldehydes-and-ketones-practice/) and the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why are aldehydes easily oxidised but ketones are not?**
+An aldehyde has a hydrogen on its carbonyl carbon, and oxidation replaces that C–H with C–OH to form a carboxylic acid. A ketone has no hydrogen on its carbonyl carbon, so oxidising it would mean breaking a C–C bond and mild oxidising agents leave it unchanged.
+
+**Why does the carbonyl group attract nucleophiles?**
+Oxygen pulls the shared electrons towards itself, so the bond is polarised as Cδ+=Oδ−. A nucleophile, a lone-pair donor, bonds to the δ+ carbon while electrons from the double bond move on to oxygen.
+
+**Why does nucleophilic addition to an aldehyde give a racemic mixture?**
+The carbonyl carbon is trigonal planar, so the nucleophile is equally likely to attack from either face. When the product has a chiral centre, the two enantiomers form in equal amounts, giving a racemate.
+
+**What nucleophile is shown in the NaBH₄ mechanism?**
+The OxfordAQA 9620 specification asks you to show the nucleophile as the hydride ion, H⁻, drawn with its lone pair. The alkoxide intermediate is then protonated by water to give the alcohol.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.8 Aldehydes and ketones (3.3.8.1), International A2 content.

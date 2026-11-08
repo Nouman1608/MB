@@ -246,6 +246,20 @@ Risks to quote, each linked to a property:
 - Stating that a smaller particle has a bigger surface area. It is the ratio (or the total area of many small pieces) that is bigger.
 - Saying ionic compounds conduct when solid.
 
+## Frequently asked questions
+
+**Why does carbon form so many compounds?**
+Carbon forms four covalent bonds, including strong bonds to other carbon atoms. It can therefore form chains, rings and families of similar compounds, giving a vast number of natural and synthetic compounds.
+
+**How do you predict the state of a substance at a given temperature?**
+Below the melting point it is a solid, between the melting and boiling points it is a liquid, and above the boiling point it is a gas. Take care with negative temperatures: −50 °C is higher than −120 °C.
+
+**How does particle size affect the surface area to volume ratio?**
+Smaller particles have a larger surface area to volume ratio; making the side of a cube 10 times smaller makes the ratio 10 times larger. More exposed surface means faster reactions and dissolving, which is why nanoparticles can make good catalysts.
+
+**Is C₆₀ a giant covalent structure?**
+No. C₆₀ is molecular, not giant covalent. Describing it as a giant structure is a common error.
+
 ## Official syllabus
 
 OCR specification J248, Chemistry A (Gateway Science), Cambridge OCR Level 1/Level 2 GCSE (9-1): Version 4.0, August 2026; first assessment 2018. This page draws on sub-topic C2.3 Properties of materials.

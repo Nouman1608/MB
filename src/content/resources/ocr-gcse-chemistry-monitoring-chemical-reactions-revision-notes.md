@@ -235,6 +235,20 @@ Compare the routes factor by factor, then state and justify one choice. Rate is 
 - Leaving out a coefficient, such as the 2 in 2NH₃, when totalling Mr values for atom economy.
 - In pathway questions, naming the route with the best atom economy without using the other data given.
 
+## Frequently asked questions
+
+**What are concordant titres?**
+Concordant titres are accurate titres that agree closely, usually within 0.10 cm³. Only concordant titres are averaged; the rough titre and any outlier are left out.
+
+**What is the molar gas volume at room temperature and pressure?**
+For OCR GCSE Chemistry A (J248), assume one mole of any gas occupies 24 dm³, or 24 000 cm³, at room temperature and pressure. Gas volumes then react in the same ratio as the moles in the equation, counting only gases.
+
+**Why is the actual yield usually lower than the theoretical yield?**
+The reaction may be incomplete or reversible, product is lost during filtering, transferring or crystallising, and side reactions can form unwanted products. A yield above 100% means the product was weighed wet or impure.
+
+**What is the difference between atom economy and percentage yield?**
+Atom economy is fixed by the balanced equation and shows how much of the reactants' mass ends up in the desired product. Percentage yield is measured in the experiment, so one can be high while the other is low.
+
 ## Official syllabus
 
 Aligned to OCR's J248 specification for Chemistry A (Gateway Science) at GCSE (9–1): Version 4.0, dated August 2026, for first assessment in 2018. Sub-topic: C5.1 Monitoring chemical reactions.

@@ -225,6 +225,23 @@ The specification says you should devise two-stage routes using transformations 
 - Related: [Alcohols](/resources/ocr-a-level-chemistry-alcohols/), [Haloalkanes](/resources/ocr-a-level-chemistry-haloalkanes/), [Module 6 organic synthesis](/resources/ocr-a-level-chemistry-6-2-5-organic-synthesis/)
 - Find your gaps first: [free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Which OCR A Level Chemistry papers assess organic synthesis?**
+According to the OCR A Level Chemistry A (H432) specification, Module 4 content, including section 4.2.3 Organic synthesis, is assessed in Synthesis and analytical techniques (02) and Unified chemistry (03). Outcome 4.2.3(a) is linked to PAG5, Synthesis of an organic liquid.
+
+**Why should you never stopper the top of a reflux condenser?**
+Heating a closed system builds up pressure, so a stoppered reflux condenser can shatter. The top of the condenser is left open to the air, and vapour condenses and drips back into the flask.
+
+**Why does the thermometer bulb sit level with the side arm in distillation?**
+In that position the thermometer reads the temperature of the vapour leaving for the condenser. This lets you collect only the liquid that distils over close to the boiling point of the substance you want.
+
+**Why are percentage yields from organic preparations well below 100%?**
+Product is lost at each transfer, in the aqueous layers discarded from the separating funnel and on the drying agent. These losses make yields well below 100% normal for a preparation that is purified in several steps.
+
+**Can a two-stage synthesis in Module 4 change the number of carbon atoms?**
+No Module 4 reaction adds carbon atoms, so in a two-stage route the carbon skeleton of the starting material and the target must match. Compare the two, work backwards from the target, and check the intermediate is one step from the starting material.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.2.3 Organic synthesis, learning outcomes (a) to (c). Published by OCR.

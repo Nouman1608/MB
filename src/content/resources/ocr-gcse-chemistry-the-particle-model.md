@@ -217,6 +217,20 @@ Evidence for particles built up over time (Working Scientifically 1.1a). In 1827
 - Using reversibility alone to decide between physical and chemical change.
 - For Higher Tier, listing limitations of the model without saying what the model leaves out: forces, sizes, spaces.
 
+## Frequently asked questions
+
+**What is between the particles of a gas?**
+The space between gas particles is empty. It is not filled with air, because air is itself made of particles.
+
+**What is the difference between evaporation and boiling?**
+Evaporation happens at a liquid's surface at any temperature, while boiling happens throughout the liquid at its boiling point. Both are changes of state from liquid to gas.
+
+**What is the inelastic sphere model?**
+The inelastic sphere model draws particles as hard, identical balls, like bowling balls. It is useful for describing states of matter, but it leaves out forces between particles, their real sizes and the spaces between them; this is Higher Tier content in OCR GCSE Chemistry A (J248).
+
+**What evidence supports the particle model?**
+In 1827 Robert Brown saw tiny particles from pollen grains jiggling randomly in water. Einstein explained this in 1905 as the particles being hit by moving water molecules too small to see.
+
 ## Official syllabus
 
 J248 is the code for OCR GCSE (9–1) Chemistry A (Gateway Science); this page follows its specification, Version 4.0 (August 2026), for first assessment in 2018 (publisher: OCR); unit C1.1 The particle model.

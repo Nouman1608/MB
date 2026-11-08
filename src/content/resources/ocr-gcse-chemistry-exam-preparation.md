@@ -9,10 +9,12 @@ qualifications: ["gcse"]
 syllabusCodes: ["J248"]
 syllabusSeries: "Version 4.0 (August 2026), for first assessment in 2018"
 order: 3
-description: "Which topics sit on which OCR GCSE Chemistry J248 paper, how to earn the chemistry-specific calculation and equation marks, tier choice, and a worked balancing-and-moles routine."
+description: "How the OCR GCSE Chemistry A (J248) papers split topics, choosing a tier, practical skills on every paper, and a worked routine for equations and moles."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -121,6 +123,23 @@ costing a single mark. 3. Relative formula mass, moles, concentration, percentag
 conversions -- recoverable because they are usually lost to arithmetic slips and unit confusion rather
 than to chemical misunderstanding. 4. The apparatus used, the measurement taken, the main source of
 error, and one improvement that targets that specific error.
+
+## Frequently asked questions
+
+**How long is each OCR GCSE Chemistry A paper?**
+Each OCR GCSE (9–1) Chemistry A (J248) paper is 1 hour 45 minutes long, worth 90 marks and 50% of the qualification. Foundation candidates sit Papers 1 and 2, and Higher candidates sit Papers 3 and 4.
+
+**Which topics are on each OCR GCSE Chemistry paper?**
+Paper 1 or 3 assesses topics 1 to 3 plus topic 7, practical skills. Paper 2 or 4 assesses topics 4 to 6 plus topic 7, with topics 1 to 3 assumed and available for synoptic questions.
+
+**Does OCR GCSE Chemistry have required practicals?**
+OCR sets no list of required practicals. Instead, centres run at least eight practical activities covering the apparatus and techniques of the Practical Activity Groups (PAGs), and practical skills are examined on every paper at both tiers.
+
+**How should I decide between Foundation and Higher tier?**
+Base the decision on recent timed full papers at both tiers rather than on how confident you feel about topics. Both tiers have the same paper lengths and mark totals but differ in question demand.
+
+**Is energetics on OCR GCSE Chemistry Paper 1 or Paper 2?**
+Energetics (C3.2) is Topic C3 content, so it is assessed on the first paper (Paper 1 or 3). Like the rest of topics 1 to 3, it is then assumed knowledge on the second paper.
 
 *Written against OCR's own published "GCSE (9-1) Gateway Science: exploring our question papers" guide
 for J248 (official OCR document, verified 2026-08-28). The calculation routine above is an original
