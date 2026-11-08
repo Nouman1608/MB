@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-hydrocarbons"
     subtopic: "as-alkenes"
-description: "Condensed recall notes on free-radical substitution and electrophilic addition mechanisms for Cambridge AS & A Level Chemistry 9701."
+description: "Condensed 9701 notes on making alkanes and alkenes, cracking, free-radical substitution, electrophilic addition, KMnO4 oxidation and Markovnikov's rule."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"

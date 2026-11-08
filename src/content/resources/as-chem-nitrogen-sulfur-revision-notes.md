@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-and-sulfur"
     subtopic: "as-nitrogen-and-sulfur"
-description: "Condensed recall notes on nitrogen\u2019s inertness, ammonia, oxides of nitrogen, acid rain and the Contact process for Cambridge AS & A Level Chemistry 9701."
+description: "Condensed recall notes on nitrogen's inertness, ammonia and ammonium, oxides of nitrogen, PAN and acid rain for Cambridge AS & A Level Chemistry 9701 Topic 12."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"

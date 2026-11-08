@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-electrochemistry"
     subtopic: "as-redox-processes"
-description: "Original exam-style practice questions with full worked answers on oxidation numbers, half-equations and redox titrations for AS Chemistry."
+description: "Original exam-style questions with worked answers on oxidation numbers, half-equations, redox titrations and oxidising agents for Cambridge AS Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
