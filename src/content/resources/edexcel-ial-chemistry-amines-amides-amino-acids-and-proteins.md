@@ -305,6 +305,23 @@ Record each observation in full (start and end colours), then deduce.
 
 Condense this guide using the [revision notes](/resources/edexcel-ial-chemistry-amines-amides-amino-acids-and-proteins-revision-notes/), test yourself on the [practice questions](/resources/edexcel-ial-chemistry-amines-amides-amino-acids-and-proteins-practice/), and see [how to prepare for each Edexcel IAL Chemistry unit](/resources/edexcel-ial-chemistry-exam-preparation/).
 
+## Frequently asked questions
+
+**How do you make phenylamine from nitrobenzene?**
+Reflux nitrobenzene with tin and concentrated hydrochloric acid, which gives the salt of the amine. Then add sodium hydroxide solution to release the free phenylamine: C₆H₅NO₂ + 6[H] → C₆H₅NH₂ + 2H₂O.
+
+**Why must diazotisation be carried out below 10 °C?**
+Benzenediazonium chloride, made from phenylamine, sodium nitrite and hydrochloric acid, is unstable. Above about 10 °C it decomposes, giving off nitrogen gas and forming phenol, so the reaction is kept in an ice bath before coupling with phenol in sodium hydroxide solution.
+
+**What is a zwitterion in amino acid chemistry?**
+A zwitterion is the form an amino acid takes in the solid and in neutral solution, H₃N⁺–CH(R)–COO⁻, where the –COOH group has given its proton to the –NH₂ group in the same molecule. The ionic lattice of zwitterions explains the high melting temperature of amino acids.
+
+**Why is poly(ethenol) soluble in water?**
+Every second carbon in poly(ethenol) carries an –OH group, and these form hydrogen bonds with water molecules, so the polymer dissolves. This is why it is used for soluble hospital laundry bags and liquid-detergent capsules.
+
+**What is Core Practical 15 in Edexcel IAL Chemistry?**
+Core Practical 15 in the YCH11 specification is the analysis of some inorganic and organic unknowns. You need to recall and interpret tests for ions, gases and organic functional groups from earlier units, recording observations in full before making deductions.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 5, Topic 19: Organic Nitrogen Compounds: Amines, Amides, Amino Acids and Proteins, outcomes 19.1 to 19.12 (Core Practical 15).

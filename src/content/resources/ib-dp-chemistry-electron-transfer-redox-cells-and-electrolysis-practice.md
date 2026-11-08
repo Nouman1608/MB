@@ -203,6 +203,20 @@ Where needed, use Ar(H) = 1.01, Ar(C) = 12.01, Ar(O) = 16.00, Ar(Mg) = 24.31, an
 - Take [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 3.2 practice set cover?**
+It covers Reactivity 3.2, Electron transfer reactions, understandings 3.2.1 to 3.2.11 for SL and HL: oxidation states, half-equations, displacement, metals with acids, voltaic and secondary cells, electrolysis of molten salts, and organic oxidation and reduction.
+
+**What are common mistakes in redox questions?**
+Typical errors include giving oxidation states without a sign, calling the species that is oxidized the oxidizing agent, and balancing atoms but not charge. Saying electrons move through the salt bridge or the molten electrolyte also loses marks.
+
+**How do you write the charging reaction for a secondary cell?**
+The charging reaction is the exact reverse of the discharge reaction at each electrode, with every species and electron reversed. A charging reaction that is not the full reverse is a common error.
+
+**Should you use distillation or reflux to oxidize a primary alcohol?**
+Distil the product off as it forms if the aldehyde is wanted, and heat under reflux with excess oxidizing agent if the carboxylic acid is wanted. Using reflux when the aldehyde is the target is a frequent slip.
+
 ## Official syllabus
 
 Reactivity 3.2 (Electron transfer reactions), understandings 3.2.1 to 3.2.11 for SL and HL, practised from the *Chemistry guide* of the International Baccalaureate Diploma Programme, February 2023, first assessment 2025.

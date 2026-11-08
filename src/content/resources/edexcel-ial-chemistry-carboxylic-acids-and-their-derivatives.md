@@ -252,6 +252,20 @@ To find monomers from a given polyester, split each ester link at the C–O sing
 - Using one NH₃ for each acyl chloride; two are needed.
 - Naming the free acid as a product of alkaline hydrolysis.
 
+## Frequently asked questions
+
+**How do you name a carboxylic acid?**
+Find the longest chain that includes the COOH carbon, replace the final -e of the alkane with -oic acid, and number side chains from the COOH carbon, which is always carbon 1 and takes no number. For example, (CH₃)₂CHCH₂COOH is 3-methylbutanoic acid.
+
+**What is the difference between acidic and alkaline hydrolysis of an ester?**
+Acidic hydrolysis with dilute HCl or H₂SO₄ under reflux is reversible and gives an equilibrium mixture containing the carboxylic acid and alcohol. Alkaline hydrolysis with NaOH(aq) goes to completion and gives the carboxylate salt and the alcohol.
+
+**How is Terylene made?**
+Terylene (PET) is a polyester made by condensation polymerisation of ethane-1,2-diol with benzene-1,4-dicarboxylic acid, losing water at each ester link. Its repeat unit is –OC–C₆H₄–COO–CH₂CH₂–O–, and it is used for clothing fibres.
+
+**Are there Core Practicals for carboxylic acids in Edexcel IAL Chemistry?**
+The YCH11 specification suggests practicals for Topics 15C and 15D, such as solubility, oxidation, ester preparation and hydrolysis, and ethanoyl chloride reactions. None of these is a numbered Core Practical.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 4, Topic 15, parts 15C Carboxylic acids and 15D Carboxylic acid derivatives, outcomes 15.9 to 15.16.

@@ -183,6 +183,20 @@ Use these Ar values: Cu 63.55, H 1.01, O 16.00, Zn 65.38. Vm = 22.7 dm³ mol⁻�
 - Leaving coefficients out when totalling reactant molar masses for atom economy.
 - Claiming that selling a by-product raises the atom economy; the value comes only from the equation.
 
+## Frequently asked questions
+
+**What is atom economy?**
+Atom economy is the molar mass of the desired product as a percentage of the total molar mass of all reactants in the balanced equation. It is fixed by the equation and is inversely related to waste, and the IB data booklet supplies the equation.
+
+**What is the difference between percentage yield and atom economy?**
+Percentage yield compares the experimental yield with the theoretical yield and depends on how the reaction is carried out. Atom economy depends only on the balanced equation, so selling a by-product does not raise it.
+
+**What are the state symbols used in IB DP Chemistry?**
+The state symbols are (s) for solid, (l) for pure liquid, (g) for gas and (aq) for aqueous solution, and the IB guide expects them in equations. Water itself is (l), while a substance dissolved in water is (aq).
+
+**Can percentage yield be above 100%?**
+A yield above 100% is a sign of error, such as a damp or impure product that still contains water or leftover reactant. Losses, side reactions and incomplete reaction make yields lower than 100%.
+
 ## Official syllabus
 
 *Diploma Programme Chemistry guide*, first assessment 2025 (International Baccalaureate Organization, February 2023). These notes follow its Reactivity 2.1 understandings.

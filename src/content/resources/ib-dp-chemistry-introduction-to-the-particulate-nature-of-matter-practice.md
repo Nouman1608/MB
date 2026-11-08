@@ -164,6 +164,20 @@ Use the data given in each question. Give kelvin values using T/K = T/°C + 273.
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Structure 1.1 practice set cover?**
+It covers Structure 1.1, Introduction to the particulate nature of matter: elements, compounds and mixtures, separation methods including chromatography and recrystallization, states of matter and changes of state, and temperature in kelvin.
+
+**What are common mistakes on particulate nature of matter questions?**
+Frequent errors include leaving state symbols off equations for physical changes, classifying alloys or molecules of one element such as O₃ as compounds, and measuring Rf to the end of the paper instead of the solvent front.
+
+**Why must kinetic energy comparisons use kelvin?**
+Average kinetic energy is proportional to temperature in kelvin, not in degrees Celsius. Working out ratios from Celsius values gives the wrong answer, and kelvin values are written without a degree sign and are never negative.
+
+**How should particle explanations be worded in IB Chemistry answers?**
+Answers about states of matter need particle words, such as close together, far apart, moving past one another and attractions between particles. A plateau on a heating curve, for example, should be linked to overcoming the attractions between particles, not just to "changing state".
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023): Structure 1.1, Introduction to the particulate nature of matter.

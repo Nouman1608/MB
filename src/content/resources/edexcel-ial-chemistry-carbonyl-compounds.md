@@ -277,6 +277,23 @@ The organic by-product is sodium 2-methylpropanoate. From 2.58 g of the ketone (
 
 Next, read the condensed [revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/) and then try the [practice questions](/resources/edexcel-ial-chemistry-carbonyl-compounds-practice/). Use the [checklist](/checklists/edexcel/a-level/chemistry/) to tick off each outcome, and take a free [diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**How do you name aldehydes and ketones?**
+Aldehydes end in -al and the CHO carbon is always C1, so no locant is needed, as in hexanal. Ketones end in -one with a locant for the carbonyl carbon, as in pentan-2-one; choose the longest chain through the C=O carbon and give it the lowest number.
+
+**Why are small aldehydes and ketones soluble in water?**
+The δ− carbonyl oxygen has lone pairs and can accept a hydrogen bond from a water hydrogen. Propanone mixes with water in all proportions, but solubility falls as the hydrocarbon chain gets longer.
+
+**What does LiAlH₄ do to aldehydes and ketones?**
+Lithium tetrahydridoaluminate(III) in dry ether reduces an aldehyde to a primary alcohol and a ketone to a secondary alcohol, for example RCHO + 2[H] → RCH₂OH. The ether must be dry because LiAlH₄ reacts violently with water.
+
+**Why is the product of HCN and butanone not optically active?**
+The carbonyl carbon is trigonal planar, so cyanide attacks from above and below with equal probability. Both enantiomers form in equal amounts, giving a racemic mixture whose rotations cancel; with pentan-3-one the product has no chiral centre at all.
+
+**Which outcomes does the Edexcel IAL carbonyl compounds topic cover?**
+Topic 15B in the Edexcel IAL Chemistry specification (YCH11) covers outcomes 15.6 to 15.8: naming and drawing, physical properties, and reactions including oxidation tests, LiAlH₄ reduction, HCN addition, 2,4-DNPH and the iodoform test. It is part of Unit 4.
+
 ## Official syllabus
 
 Source: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, specification XCH11/YCH11, Issue 1, September 2017 (Pearson Education Limited). This page covers Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8, in Unit 4.

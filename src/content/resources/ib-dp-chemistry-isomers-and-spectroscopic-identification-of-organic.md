@@ -255,6 +255,20 @@ Z is **3-hydroxybutan-2-one**, CH₃COCH(OH)CH₃. Carbon 3 carries four differe
 - Counting hydrogens on the same carbon, or the O–H hydrogen, as splitting neighbours.
 - Treating a fragment's m/z as the mass lost; subtract it from M⁺.
 
+## Frequently asked questions
+
+**What is the molecular ion peak in a mass spectrum?**
+The molecular ion, M⁺, forms when a molecule loses an electron, and the peak with the highest significant m/z gives the relative molecular mass. Fragment peaks come only from positive ions; neutral pieces are not detected.
+
+**What is the n + 1 rule in ¹H NMR?**
+A signal is split by hydrogen atoms on adjacent carbons: n such neighbours give n + 1 peaks, so 0 gives a singlet, 1 a doublet and 2 a triplet. Equivalent hydrogens do not split each other, and an alcohol O–H signal usually appears as a singlet.
+
+**Do enantiomers have different properties?**
+Enantiomers share boiling points and densities and react alike with non-chiral reagents. They differ in the direction they rotate plane-polarized light and in how they behave in a chiral environment, such as with enzymes.
+
+**How do you combine spectroscopic techniques to identify a compound?**
+Use percentage composition and M⁺ to find the molecular formula, IR to identify functional groups, ¹H NMR to build the carbon–hydrogen framework and MS fragments to confirm the pieces. Then check your structure against every piece of data.
+
 ## Official syllabus
 
 Aligned to the International Baccalaureate Diploma Programme *Chemistry guide*, first assessment 2025, published by the IB in February 2023. Sections taught here: Structure 3.2.7 to 3.2.12, all additional higher level, so HL only.

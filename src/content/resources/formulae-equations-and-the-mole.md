@@ -31,7 +31,9 @@ syllabusTopics:
 description: "Formulae, balanced equations, relative masses and mole calculations for Cambridge IGCSE 0620 and O Level 5070 — where the two qualifications differ most."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-09-27
@@ -245,6 +247,20 @@ calculations · empirical and molecular formulae from data · percentage yield, 
 and purity
 
 **Ionic equations:** 0620 Extended and all 5070 candidates
+
+## Frequently asked questions
+
+**Do Cambridge IGCSE Core candidates need to do mole calculations?**
+No. In Cambridge IGCSE 0620, almost all mole content is Extended; the only Core outcome in subtopic 3.3 is that concentration can be measured in g/dm³ or mol/dm³. O Level 5070 candidates need all of the mole content, as there is no lower tier.
+
+**What is the difference between an empirical and a molecular formula?**
+A molecular formula gives the number and type of different atoms in one molecule, while an empirical formula is the simplest whole-number ratio of the different atoms or ions in a compound. The molecular formula is a whole-number multiple of the empirical formula.
+
+**What is the molar gas volume?**
+The molar gas volume is taken as 24 dm³ at room temperature and pressure, so volume of gas = amount in moles × 24. It applies only to gases, not to liquids or solids.
+
+**What is the Avogadro constant?**
+The Avogadro constant is the number of particles in one mole of a substance, 6.02 × 10²³. The mole is the unit of amount of substance.
 
 ## Related resources
 

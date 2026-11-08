@@ -199,6 +199,20 @@ Small worked reminder: find ΔrH for 2H₂O₂(l) → 2H₂O(l) + O₂(g), using
 - Using the maximum reading instead of an extrapolated temperature.
 - Saying heat loss makes a combustion value "more exothermic"; it makes it less exothermic.
 
+## Frequently asked questions
+
+**What is Hess's law?**
+Hess's law states that whichever route a reaction takes, the overall enthalpy change is the same, as long as the start and end conditions match. In Edexcel IAL Chemistry (YCH11) you use it to find enthalpy changes from formation or combustion data.
+
+**How do you calculate an enthalpy change from a calorimetry experiment?**
+Calculate the energy transferred with m × c × ΔT using the mass of water or solution, convert to kJ, then divide by the moles of the substance named in the definition. Add a negative sign if the temperature rose and a positive sign if it fell, and give the unit kJ mol⁻¹.
+
+**What is the difference between bond enthalpy and mean bond enthalpy?**
+Bond enthalpy is the enthalpy change to break one mole of a stated bond in one specific molecule, with all species gaseous. Mean bond enthalpy is the average for that bond over many compounds, so calculations using it give an estimate rather than an exact value.
+
+**Why are measured enthalpy changes of combustion usually less exothermic than data-book values?**
+Heat is lost to the air and the can, combustion may be incomplete, some fuel can evaporate, and conditions are not standard. Heat loss makes the value less exothermic, not more.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Topic 6: Energetics (outcomes 6.1 to 6.11, including Core Practical 2). Published by Pearson Education Limited.

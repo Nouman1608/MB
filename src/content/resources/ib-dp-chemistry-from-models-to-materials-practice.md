@@ -176,6 +176,20 @@ Electronegativities are Pauling values given in each question. For masses, take 
 - Check other units with [all free 10-minute diagnostics](/diagnostics/)
 - Learn with a Marlbridge teacher: [book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Structure 2.4 practice set cover?**
+It covers Structure 2.4, From models to materials, understandings 2.4.1 to 2.4.6: the bonding continuum and triangle, alloys, plastics, addition polymers, and HL condensation polymers and biological macromolecules.
+
+**How do you calculate the average electronegativity for the bonding triangle?**
+Use one electronegativity value per element, whatever the subscripts in the formula, and take half their sum. Multiplying a value by a subscript, as for CS₂ or AlCl₃, gives a wrong answer.
+
+**What are common mistakes on polymer questions?**
+Typical errors include drawing a side group of an addition polymer in the main chain, leaving continuation bonds on a monomer or off a repeating unit, and saying covalent bonds break when a plastic softens. At HL, keeping an H or OH that should be lost at each condensation link also loses marks.
+
+**How should you explain why an alloy is harder than the pure metal?**
+Explain that different-sized atoms distort the layers of cations so they cannot slide as easily. Saying the alloy has "stronger bonds" does not explain its hardness.
+
 ## Official syllabus
 
 Document followed: *Chemistry guide*, Diploma Programme, International Baccalaureate Organization (February 2023; first examined 2025). Scope here: Structure 2.4, From models to materials; 2.4.1 to 2.4.5 for SL and HL, 2.4.6 additional higher level.

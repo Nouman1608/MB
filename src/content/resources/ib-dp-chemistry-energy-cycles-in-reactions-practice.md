@@ -158,6 +158,20 @@ Calculate ΔH for Cu₂O(s) + ½O₂(g) → 2CuO(s). **[3]**
 - Use the [DP Chemistry checklist](/checklists/ib/ib-dp/chemistry/) and [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 1.2 practice set cover?**
+It covers bond enthalpy calculations and Hess's law for SL and HL, plus HL questions on formation and combustion equations, calculations from ΔHf⦵ and ΔHc⦵ data, and Born–Haber cycles.
+
+**What are common mistakes in bond enthalpy calculations?**
+Writing bonds formed minus bonds broken gives the right size with the wrong sign, and counting bonds from a condensed formula can miss some, such as the C–O and C–H bonds in CH₃OCH₃. Using bond enthalpies for a reaction forming liquid water without a vaporization correction is another error.
+
+**What mistakes are common in Born–Haber cycle questions?**
+Students forget the second ionization energy for ions such as Ca²⁺ or Mg²⁺, double the wrong terms in MX₂ or M₂X compounds, or use the wrong sign for the lattice enthalpy compared with how the question defines it.
+
+**Why must you show reversed and scaled equations in Hess's law answers?**
+Showing which equations you reversed and scaled lets the reader follow your method, so any slip can be identified. A bare final number gives no way to see where the working went wrong.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023): Reactivity 1.2, "Energy cycles in reactions".

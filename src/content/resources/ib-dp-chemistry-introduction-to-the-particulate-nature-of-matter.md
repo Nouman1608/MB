@@ -248,6 +248,20 @@ A pure substance is heated from −20 °C at a steady rate. The temperature rise
 
 Next, revise from the [revision notes](/resources/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter-revision-notes/), then try the [practice questions](/resources/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter-practice/).
 
+## Frequently asked questions
+
+**What is the difference between an element, a compound and a mixture?**
+An element contains atoms of one kind only, a compound contains two or more elements chemically bonded in a fixed ratio, and a mixture contains elements or compounds not chemically bonded, in no fixed ratio. Elements and compounds are pure substances; a mixture is not.
+
+**Is an alloy a compound?**
+No. Alloys such as brass are treated as mixtures, because the proportions of the metals can vary, despite their metallic bonding.
+
+**What is the difference between evaporation and boiling?**
+Evaporation happens only at the surface of a liquid and can occur at any temperature at which the liquid exists. Boiling happens throughout the liquid at a fixed temperature for a given external pressure.
+
+**What does temperature in kelvin measure?**
+Temperature in kelvin is a measure of the average kinetic energy of the particles. Doubling the kelvin temperature doubles the average kinetic energy, but doubling a Celsius temperature does not.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023): Structure 1.1, Introduction to the particulate nature of matter.

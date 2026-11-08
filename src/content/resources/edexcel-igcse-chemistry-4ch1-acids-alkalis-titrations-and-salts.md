@@ -361,6 +361,20 @@ Lead compounds are toxic: wear gloves and eye protection.
 
 Condense this with the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts-revision-notes/), then try questions 6–10 of the [Groups 1 and 7, acids, salts and tests practice set](/resources/edexcel-igcse-chemistry-4ch1-inorganic-groups-acids-salts-tests-practice/).
 
+## Frequently asked questions
+
+**How do you choose a method to prepare a salt?**
+If the salt is soluble and the base, metal or carbonate is insoluble, add the solid in excess to the acid, filter and crystallise. Sodium, potassium and ammonium salts are made by titrating an acid with an alkali, and insoluble salts are made by mixing two soluble solutions to form a precipitate.
+
+**Which salts are insoluble according to the 4CH1 solubility rules?**
+All common sodium, potassium and ammonium compounds and all nitrates are soluble. Chlorides are soluble except silver and lead(II) chloride, and calcium sulfate is one of the sulfate exceptions; the page's table lists the full rules from the Edexcel International GCSE Chemistry (4CH1) specification.
+
+**Why should hydrated copper(II) sulfate crystals not be heated to dryness?**
+Heating to dryness removes the water of crystallisation, so you would not get the blue hydrated crystals. Instead, evaporate some water until the solution is saturated and leave it to cool and crystallise.
+
+**Why is the titration repeated without indicator when making a salt from an acid and an alkali?**
+Both reactants are soluble, so an excess could not be filtered off, and the indicator would contaminate the salt. The first titration finds the exact volume of acid needed; repeating with that volume and no indicator gives a pure salt solution.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited -- Topic 2 Inorganic chemistry, sub-topics (f) Acids, alkalis and titrations and (g) Acids, bases and salt preparations, points 2.28–2.43.

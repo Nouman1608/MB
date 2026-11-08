@@ -254,6 +254,20 @@ The guide says ¹H NMR data are given in the data booklet; these ranges are appr
 - Leaving an integration ratio as decimals instead of the smallest whole numbers.
 - Proposing a final structure that ignores one of the given pieces of data.
 
+## Frequently asked questions
+
+**When does a compound show cis-trans isomerism?**
+A compound shows cis-trans isomerism when rotation is restricted, by a C=C bond or a three- or four-membered ring, and each of the two key carbons carries two different groups. If either carbon has two identical groups, there is no cis-trans isomerism.
+
+**How do you distinguish an alcohol from a carboxylic acid using IR?**
+An alcohol O–H gives a broad absorption at 3200–3600 cm⁻¹, while a carboxylic acid O–H gives a very broad absorption at 2500–3000 cm⁻¹, together with a C=O absorption near 1700–1750 cm⁻¹. The IB data booklet gives IR data.
+
+**Why are some gases not greenhouse gases?**
+A vibration absorbs infrared radiation only if it changes the dipole moment. N₂ and O₂ stretches cause no dipole change, so they are not IR active, while CO₂'s asymmetric stretch and bend are.
+
+**What information does a ¹H NMR spectrum give?**
+The number of signals gives the number of hydrogen environments, the integration trace gives the ratio of hydrogens, the chemical shift shows which part of the molecule each signal belongs to, and the splitting shows how many hydrogens are on adjacent carbons.
+
 ## Official syllabus
 
 Aligned to the International Baccalaureate Diploma Programme *Chemistry guide* (first assessment 2025; published by the IB, February 2023). Sections condensed here: Structure 3.2.7 to 3.2.12, from the guide's topic on classifying organic compounds by functional group. All are additional higher level (HL only).

@@ -193,6 +193,20 @@ For 2-bromopentanoic acid you might put C₃H₇ and COOH on plain bonds, Br on 
 - Claiming that SN2 turns a (+) reactant into a (−) product.
 - Using optical data as evidence when the product is achiral, so the data cannot distinguish the mechanisms.
 
+## Frequently asked questions
+
+**What is a chiral centre?**
+A chiral centre, or asymmetric carbon atom, is a carbon atom bonded to four different atoms or groups. A molecule with one chiral centre has two optical isomers (enantiomers), which are object and non-superimposable mirror images.
+
+**What is the difference between a racemic mixture and an achiral compound?**
+A racemic mixture contains equal amounts of two enantiomers of a chiral compound, so their rotations cancel. An achiral compound has no chiral centre and no optical isomers at all. Both give a zero polarimeter reading; only the structure tells them apart.
+
+**Why must a polarimeter use monochromatic light?**
+The angle of rotation depends on the wavelength of the light, so light of a single wavelength, for example from a sodium lamp, is needed for readings to be comparable.
+
+**How do you draw two enantiomers in 3D?**
+Draw the chiral carbon with two plain bonds, one solid wedge and one hashed wedge, bonding each group through the correct atom. Then reflect the drawing across a vertical mirror line, and check you have not simply redrawn the same molecule turned round.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 15A: Chirality, outcomes 15.1 to 15.5.

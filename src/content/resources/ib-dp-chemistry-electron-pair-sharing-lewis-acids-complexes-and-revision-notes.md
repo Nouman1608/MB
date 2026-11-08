@@ -226,6 +226,20 @@ Why the split? Three alkyl groups crowd the back of a tertiary carbon and stabil
 - Choosing the product from the less stable carbocation with an unsymmetrical alkene.
 - Drawing the benzene intermediate with a full circle or with + outside the horseshoe.
 
+## Frequently asked questions
+
+**What is a Lewis acid?**
+A Lewis acid is an electron-pair acceptor and a Lewis base is an electron-pair donor. In IB DP Chemistry Reactivity 3.4, a nucleophile is a Lewis base and an electrophile is a Lewis acid.
+
+**How do you work out the charge on a complex ion?**
+Add the charge of the metal ion to the charge of each ligand multiplied by the number of that ligand. Neutral ligands such as H₂O and NH₃ add 0, while Cl⁻, Br⁻, F⁻, CN⁻ and OH⁻ each add −1.
+
+**What is the difference between SN1 and SN2?**
+SN2 typically involves a primary halogenoalkane in one concerted step, with both the halogenoalkane and nucleophile in the rate-determining step. SN1 typically involves a tertiary halogenoalkane in two steps via a carbocation, and only the halogenoalkane is in the rate-determining step; secondary halogenoalkanes react by both mechanisms.
+
+**Why do iodoalkanes react faster than chloroalkanes?**
+The C–I bond is the longest and weakest of the carbon–halogen bonds, so it breaks fastest, and I⁻ is the best leaving group. C–Cl is the most polar bond but reacts slowest, so do not argue from polarity.
+
 ## Official syllabus
 
 Aligned to the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 3.4, understandings 3.4.6 to 3.4.13 (additional higher level).

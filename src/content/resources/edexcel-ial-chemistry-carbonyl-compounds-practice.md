@@ -177,6 +177,20 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 - Want live teaching? [Book a free trial class](/trial/)
 - [Hub page for this course](/boards/edexcel/a-level/chemistry/), listing the other units
 
+## Frequently asked questions
+
+**How do you tell an aldehyde from a ketone in Edexcel IAL Chemistry?**
+Warm the compound with Tollens' reagent, Fehling's solution or Benedict's solution. An aldehyde gives a silver mirror with Tollens' or a red precipitate with Fehling's or Benedict's; a ketone gives no change. 2,4-DNPH cannot separate them, because it reacts with any carbonyl compound.
+
+**Why do aldehydes and ketones boil lower than alcohols of similar Mr?**
+Aldehydes and ketones have no hydrogen bonded to oxygen, so their molecules cannot hydrogen bond to each other. They have London forces plus permanent dipole–dipole forces from the polar C=O bond, which are weaker overall than the hydrogen bonds between alcohol molecules.
+
+**What mole ratio do you use for silver in a Tollens' calculation?**
+One mole of aldehyde gives two moles of silver, because each aldehyde molecule loses two electrons when it is oxidised and each Ag⁺ gains one. Using a 1 : 1 ratio halves the answer.
+
+**Where are marks usually lost on carbonyl compound questions?**
+Common losses include leaving the locant out of a ketone name, saying carbonyl molecules hydrogen bond to each other, writing [H] instead of 2[H] in reduction equations, and starting the cyanide curly arrow from the wrong atom. Calling a racemic hydroxynitrile product "optically active" also loses marks.
+
 ## Official syllabus
 
 Source: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, specification XCH11/YCH11, Issue 1, September 2017 (Pearson Education Limited). This set covers Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8, in Unit 4.

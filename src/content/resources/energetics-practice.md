@@ -16,10 +16,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "chemical-energetics"
     subtopic: "exothermic-and-endothermic-reactions"
-description: "Original exam-style practice questions with full worked answers on energy profiles, bond energies and enthalpy calculations, plus two calorimetry questions labelled as background beyond 0620/5070 for progression to AS."
+description: "Original practice questions with worked answers on energy profiles, bond energies and ΔH for Cambridge IGCSE 0620 and O Level 5070, plus calorimetry background."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
@@ -114,5 +116,19 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 - *(Background questions 6 and 8 only — not a 0620/5070 outcome)* Using the mass of the solute rather than the total solution mass in Q = mcΔT.
 - *(0620 Extended, 5070 required)* Saying a catalyst changes ΔH, or drawing the catalysed curve starting/ending at different energy levels from the uncatalysed one — only the height of the hump should change.
 - *(0620 Extended, 5070 required)* Explaining "increases the rate" without linking it back to activation energy and the proportion of particles with enough energy to react.
+
+## Frequently asked questions
+
+**Which topics in this energetics practice set are on the 0620 and 5070 syllabuses?**
+Questions on exothermic and endothermic reactions, bond energies, energy profiles and catalysts are syllabus content, with the ΔH sign and bond-energy work being 0620 Extended and required for 5070. The two calorimetry questions are background beyond Cambridge IGCSE 0620 and O Level 5070, included for progression to AS.
+
+**What are common mistakes in bond energy calculations?**
+Reversing the subtraction, which should be bonds broken minus bonds made, flips the sign of ΔH. Giving ΔH the wrong sign for an exothermic or endothermic reaction is another frequent error.
+
+**Where should activation energy be measured on an energy profile?**
+Activation energy is measured from the reactants up to the peak of the curve, not from the products. A catalysed curve must start and end at the same energy levels as the uncatalysed one.
+
+**How should you explain the effect of a catalyst on rate?**
+Link the faster rate to the lower activation energy of the alternative pathway and to the greater proportion of particles with enough energy to react. Saying "it increases the rate" without that link misses the explanation marks.
 
 Question 7 draws on the catalyst section of the [Exothermic and Endothermic Reactions revision notes](/resources/energetics-revision-notes/); questions 6 and 8 draw on the calorimetry section instead (background beyond 0620/5070), since question 8 is itself a calorimetry question and has nothing to do with catalysts.

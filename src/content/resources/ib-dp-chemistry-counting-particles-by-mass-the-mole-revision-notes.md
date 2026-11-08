@@ -187,6 +187,19 @@ Use NA = 6.02 × 10²³ mol⁻¹ and Ar values: H 1.01, C 12.01, N 14.01, O 16.0
   <figcaption>At fixed temperature and pressure, gas volumes are in the same ratio as the moles in the equation.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What formulas do you need for IB DP Chemistry Structure 1.4?**
+The key relationships are N = n × NA, n = m / M and n = C × V, with V in dm³. The IB guide notes that these are given in the data booklet, and that its two-decimal-place Ar values should be used.
+
+**How do you work out the empirical formula from percentages?**
+Treat each percentage as grams in a 100 g sample, divide each by its Ar, then divide by the smallest result. Multiply through if a value ends near .5 (by 2), .33 or .67 (by 3), or .25 or .75 (by 4).
+
+**How do you calculate the concentration of an ion in a solution?**
+Multiply the concentration of the salt by the number of that ion in the formula. For calcium chloride, [Cl⁻] is twice [CaCl₂], not equal to it.
+
+**What is the difference between Avogadro's law and molar volume?**
+Avogadro's law gives volume ratios for gases at the same temperature and pressure without any numerical molar volume. The molar volume of an ideal gas belongs to a different part of the IB course.
 
 ## Official syllabus
 

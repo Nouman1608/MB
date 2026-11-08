@@ -349,6 +349,20 @@ This mirrors Group 1: distance and shielding make metals that **lose** electrons
 
 Condense this with the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-group-1-and-group-7-revision-notes/), then try the [Groups 1 and 7 practice questions](/resources/edexcel-igcse-chemistry-4ch1-inorganic-groups-acids-salts-tests-practice/).
 
+## Frequently asked questions
+
+**What do you see when Group 1 metals react with water?**
+Lithium, sodium and potassium all float, fizz as hydrogen is given off, move around and disappear, and the water becomes alkaline. Lithium fizzes steadily, sodium melts into a ball, and potassium reacts violently with a lilac flame.
+
+**Why does reactivity increase down Group 1?**
+For Paper 2 of Edexcel International GCSE Chemistry (4CH1), explain that the outer electron is further from the nucleus with more shielding, so the attraction is weaker and the electron is lost more easily. Stopping at "more shells" gives only the first point.
+
+**What are the colours and states of chlorine, bromine and iodine?**
+At room temperature chlorine is a pale green gas, bromine is a red-brown liquid and iodine is a grey-black solid that gives a purple vapour when warmed. Solid iodine is not purple.
+
+**How do you predict the properties of rubidium or astatine?**
+Continue each trend in the direction it is going. Rubidium and caesium are predicted to be more reactive than potassium with lower melting points, while astatine is predicted to be a black solid, less reactive than iodine.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited -- Topic 2 Inorganic chemistry, sub-topics (a) Group 1 (alkali metals) and (b) Group 7 (halogens), points 2.1–2.8C.

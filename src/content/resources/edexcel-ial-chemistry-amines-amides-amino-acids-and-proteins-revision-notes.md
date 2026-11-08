@@ -255,6 +255,23 @@ Acyl chloride + NH₃ → primary amide + NH₄Cl. Acyl chloride + amine → N-s
 - Forgetting that two different amino acids can make two dipeptides.
 - Recording only the final colour in a test.
 
+## Frequently asked questions
+
+**What are the most important amine reactions to learn for Edexcel IAL Chemistry Topic 19?**
+For YCH11 you need the reactions of butylamine and phenylamine with water, hydrochloric acid, halogenoalkanes, ethanoyl chloride and copper(II) ions. Water gives an alkaline solution, acid gives a salt, halogenoalkanes give secondary and tertiary amines and quaternary ammonium salts, ethanoyl chloride gives an N-substituted amide, and excess amine with copper(II) gives a deep blue complex.
+
+**Why does the reaction of an amine with ethanoyl chloride need two moles of amine?**
+One mole of amine forms the N-substituted amide, and the second mole reacts with the hydrogen chloride produced to form an alkylammonium chloride salt. The equation is CH₃COCl + 2RNH₂ → CH₃CONHR + RNH₃⁺Cl⁻.
+
+**What is the difference between an amine and an amide?**
+Amines contain nitrogen bonded to carbon with a lone pair that can accept a proton, so they act as bases. Amides contain the –CONH– group, which is not usefully basic because the C=O group draws the nitrogen lone pair away.
+
+**Why does a glycine solution not rotate plane-polarised light?**
+Glycine has two hydrogen atoms on its central carbon, so it has no chiral centre and no optical isomers. Racemic mixtures of other amino acids also show no overall rotation, because the rotations of the two enantiomers cancel.
+
+**How do you draw the repeat unit of a condensation polymer such as nylon?**
+Write the two monomers with their reacting groups at the ends, remove –OH (or –Cl) from the acid end and –H from the amine end, then join them with –CONH–. Add brackets with extension bonds; leaving an –OH on the end of the repeat unit is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 5, Topic 19: Organic Nitrogen Compounds: Amines, Amides, Amino Acids and Proteins, outcomes 19.1 to 19.12 (Core Practical 15).

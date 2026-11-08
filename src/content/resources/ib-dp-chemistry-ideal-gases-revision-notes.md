@@ -209,6 +209,20 @@ t/°C + 273.15 = T/K
 - Rounding n early, then carrying the rounded value into a molar-mass division.
 - Dropping units, or giving m³ when the question asks for cm³.
 
+## Frequently asked questions
+
+**What are the assumptions of the ideal gas model?**
+The particles move constantly and randomly, their own volume is negligible compared with the container, there are no intermolecular forces between them, and collisions are elastic, so total kinetic energy is conserved.
+
+**When do real gases deviate most from ideal behaviour?**
+Real gases deviate most at low temperature and high pressure, and for particles with strong intermolecular forces. They behave most ideally at high temperature and low pressure, especially small non-polar particles such as helium.
+
+**Which graphs give straight lines through the origin for a fixed mass of gas?**
+P against 1/V at constant temperature, V against T in kelvin at constant pressure, and P against T in kelvin at constant volume. The IB guide does not assess the names of these gas laws.
+
+**What units do you use in PV = nRT?**
+With R = 8.31 J K⁻¹ mol⁻¹, use pressure in Pa, volume in m³ and temperature in K. The data booklet supplies R, both gas equations and the molar volume at STP.
+
 ## Official syllabus
 
 These notes are based on the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Structure 1.5.

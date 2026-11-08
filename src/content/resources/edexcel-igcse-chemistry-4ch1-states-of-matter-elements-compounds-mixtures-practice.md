@@ -212,6 +212,20 @@ Filter off the crystals and dry them between filter papers [1].
 - See the [course hub](/boards/edexcel/igcse/chemistry/) and the [printable checklist](/checklists/edexcel/igcse/chemistry/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What should you include when describing a change of state?**
+Describe the arrangement, movement and energy of the particles, because each is usually a separate mark. Leaving out energy, or saying the temperature rises during melting of a pure substance, are common errors in Edexcel International GCSE Chemistry (4CH1).
+
+**How do you calculate an Rf value?**
+Divide the distance moved by the spot by the distance moved by the solvent front, measuring both from the baseline. An Rf value has no units and is less than 1; a value above 1 means the division is upside down.
+
+**Why must you say simple or fractional distillation?**
+The type of distillation is often the point being tested: simple distillation separates a solvent from a solution, while fractional distillation separates liquids that mix completely. Writing "distillation" alone may not be accepted.
+
+**What are common mistakes in solubility calculations?**
+Students divide by the mass of the solution instead of the mass of water, use a mass before constant mass was reached, or forget to scale crystal masses to the actual mass of water. Solubility calculations are Paper 2 only.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, Pearson Education Limited. Topic 1 Principles of chemistry, sub-topics (a) States of matter and (b) Elements, compounds and mixtures, points 1.1–1.13.

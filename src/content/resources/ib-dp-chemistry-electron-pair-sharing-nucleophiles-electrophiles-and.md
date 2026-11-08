@@ -239,6 +239,20 @@ A student adds excess bromine to 3.50 g of cyclopentene, C₅H₈, and obtains 9
 - Naming a nitrile without counting the CN carbon: (CH₃)₂CHCH₂CN is a butanenitrile, not a propanenitrile.
 - Calling alkene + halogen a substitution. Nothing leaves; it is addition.
 
+## Frequently asked questions
+
+**What is a nucleophile?**
+A nucleophile is a species that gives both electrons of a new covalent bond to its partner, the electrophile. Nucleophiles can be negatively charged, such as OH⁻ and CN⁻, or neutral, such as H₂O and NH₃.
+
+**Why are alkenes attacked by electrophiles?**
+The pi electrons of the C=C bond lie above and below the plane of the molecule, giving a region of high electron density that attracts electrophiles. The reagent adds across the double bond, so the reactions are electrophilic additions.
+
+**What products do symmetrical alkenes form in addition reactions?**
+With a halogen they form a dihalogenoalkane, with a hydrogen halide a halogenoalkane, and with steam and an acid catalyst an alcohol. Because both ends of the C=C are the same, there is only one possible product.
+
+**Why are alkenes important starting molecules in industry?**
+The reactive C=C double bond converts readily into many products, such as alcohols, halogenoalkanes and addition polymers. This is a linking question to Structure 2.4 in IB DP Chemistry.
+
 ## Official syllabus
 
 Source: the *Chemistry guide* for the IB Diploma Programme (International Baccalaureate, published February 2023; first assessment 2025), Reactivity 3.4, understandings 3.4.1 to 3.4.5, which are standard level and higher level content.

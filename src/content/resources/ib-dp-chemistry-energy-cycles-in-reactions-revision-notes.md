@@ -251,6 +251,20 @@ The large lattice term more than pays for the endothermic steps.
 - In Born–Haber cycles, leaving out IE₂ or failing to double the anion terms in MX₂ compounds.
 - Mixing up the sign of the lattice enthalpy when the question defines it in the forming direction.
 
+## Frequently asked questions
+
+**What is bond enthalpy?**
+Bond enthalpy is the energy absorbed when one mole of a particular covalent bond is broken in the gas phase, so it is always positive. Average bond enthalpy is the mean value for that bond over a range of compounds.
+
+**Why are bond enthalpy calculations only estimates?**
+Each value is an average over many molecules, while the real strength of a bond depends on what else is attached to its atoms. The values also apply only to gases, so liquids or solids need an extra correction.
+
+**How do you calculate ΔH⦵ from formation or combustion data?**
+With formation data, ΔH⦵ = Σ ΔHf⦵(products) − Σ ΔHf⦵(reactants). With combustion data the order is reversed: ΔH⦵ = Σ ΔHc⦵(reactants) − Σ ΔHc⦵(products); both are HL content.
+
+**What is the standard enthalpy of formation of an element?**
+The standard enthalpy change of formation of an element in its standard state is zero. A different allotrope, such as diamond or ozone, has a non-zero value.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023): Reactivity 1.2, "Energy cycles in reactions".

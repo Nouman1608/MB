@@ -172,6 +172,20 @@ Where a question asks you to describe a mechanism in words, say where each curly
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 3.4 HL practice set cover?**
+It covers the additional higher level part of Reactivity 3.4: Lewis acids and bases, coordination bonds, complex ion charges, SN1 and SN2 mechanisms, leaving groups, electrophilic addition to alkenes and electrophilic substitution in benzene.
+
+**Where do curly arrows start in a mechanism?**
+A curly arrow must start at a lone pair or a bond, not at a minus sign or an atom symbol, and it ends where the electron pair goes, such as the δ+ carbon. Describing a mechanism in words should also say where each arrow starts and ends.
+
+**What are common mistakes in Lewis acid and SN1/SN2 questions?**
+Typical errors include swapping "donor" and "acceptor" in Lewis definitions, including the nucleophile in an SN1 rate equation or leaving it out of SN2, and drawing front-side attack in SN2. Explaining halogenoalkane reactivity by bond polarity is also wrong.
+
+**How should the benzene intermediate be drawn in electrophilic substitution?**
+Draw a broken horseshoe with a positive charge over five carbons, leaving out the carbon that carries both H and the electrophile. Drawing a full circle in the intermediate is a common way to lose a mark.
+
 ## Official syllabus
 
 Questions written against the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 3.4, understandings 3.4.6 to 3.4.13 (additional higher level).

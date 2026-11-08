@@ -252,6 +252,20 @@ First IE = 8.62 × 10⁻¹⁹ × 6.02 × 10²³ = 5.19 × 10⁵ J mol⁻¹ = 519
 
 Work through the [Structure 1.3 practice questions](/resources/ib-dp-chemistry-electron-configurations-practice/), then go back to the [study guide](/resources/ib-dp-chemistry-electron-configurations/) for any topic you missed. Tick off progress on the [printable checklist](/checklists/ib/ib-dp/chemistry/).
 
+## Frequently asked questions
+
+**What are the Aufbau principle, Pauli exclusion principle and Hund's rule?**
+The Aufbau principle says electrons fill the lowest-energy orbital first; the Pauli exclusion principle says an orbital holds at most two electrons with opposite spins; and Hund's rule says electrons spread out singly with parallel spins across equal-energy orbitals before pairing.
+
+**Why do chromium and copper have unusual electron configurations?**
+Chromium is [Ar] 3d⁵ 4s¹ and copper is [Ar] 3d¹⁰ 4s¹ because a half-filled or filled 3d sublevel gives a lower overall energy. The 4s and 3d sublevels are close in energy, so one 4s electron moves into 3d.
+
+**Why do hydrogen emission lines converge at higher frequency?**
+The energy levels in the hydrogen atom get closer together as n increases, so the lines in each family crowd together towards higher frequency. The point where they merge is the convergence limit.
+
+**Which electrons are lost first when a transition element forms an ion?**
+For first-row transition elements, 4s electrons are removed before 3d electrons, even though 4s fills first. Removing 3d electrons first, for ions such as Ni²⁺ or Co²⁺, is a common error.
+
 ## Official syllabus
 
 *Chemistry guide*, Diploma Programme, International Baccalaureate Organization: first assessment 2025, published February 2023. Sub-topic Structure 1.3, Electron configurations (1.3.1 to 1.3.5 SL and HL; 1.3.6 and 1.3.7 additional higher level).

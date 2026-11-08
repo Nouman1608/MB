@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "electrochemistry"
     subtopic: "hydrogen-oxygen-fuel-cells"
-description: "Electrolysis of molten and aqueous compounds, predicting electrode products, electroplating, and hydrogen-oxygen fuel cells, for Cambridge IGCSE 0620 and O Level 5070."
+description: "Electrolysis of molten and aqueous compounds, electrode products, electroplating and hydrogen-oxygen fuel cells for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -298,6 +300,20 @@ anode and cathode reactions
 - How and why metal objects are electroplated
 - Hydrogen–oxygen fuel cells: what they produce, and how they compare with
 petrol engines
+
+## Frequently asked questions
+
+**How do you predict the products of electrolysing an aqueous solution?**
+At the cathode, hydrogen forms unless the metal is less reactive than hydrogen, in which case the metal forms. At the anode, a halogen forms only from a concentrated halide solution; from a dilute halide solution, or with no halide present, oxygen forms instead.
+
+**How is an object electroplated?**
+The object to be plated is made the cathode, the plating metal is the anode, and the electrolyte is a solution of the plating metal's ions. Objects are electroplated to improve their appearance and resistance to corrosion.
+
+**What does a hydrogen-oxygen fuel cell produce?**
+A hydrogen-oxygen fuel cell produces electricity from the reaction of hydrogen and oxygen, with water as the only chemical product. Comparing its advantages and disadvantages with a petrol engine is Supplement content for Cambridge IGCSE 0620 and required for O Level 5070.
+
+**What happens when copper(II) sulfate is electrolysed with copper electrodes?**
+Copper still deposits at the cathode, but the copper anode dissolves instead of oxygen being released. With inert carbon electrodes, oxygen forms at the anode; the copper-electrode case is the basis of electroplating and purifying copper.
 
 ## Related resources
 

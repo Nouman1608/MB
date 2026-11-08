@@ -331,6 +331,20 @@ A sample of seawater turns anhydrous copper(II) sulfate blue and boils at 101 °
 
 Learn the tables with the [Chemical tests revision notes](/resources/edexcel-igcse-chemistry-4ch1-chemical-tests-revision-notes/), then try the identification questions in the [Groups 1 and 7, acids, salts and tests practice set](/resources/edexcel-igcse-chemistry-4ch1-inorganic-groups-acids-salts-tests-practice/). Check the whole course with the [free 4CH1 all-topics diagnostic](/practice/4CH1/diagnostic/all-topics/).
 
+## Frequently asked questions
+
+**What does a full answer to a "describe a test" question need?**
+In Edexcel International GCSE Chemistry (4CH1), a test answer needs what you add or do (the reagent named in full), how you do it, and what you see. "White precipitate" is an observation; "chloride ions are present" is a conclusion, not a result.
+
+**How do you carry out a flame test?**
+Clean a nichrome or platinum wire loop in concentrated hydrochloric acid and a hot flame until it gives no colour, dip it in the acid and then the solid, and hold it at the edge of a blue Bunsen flame. A dirty wire or a yellow flame would hide the colour.
+
+**What are the flame test colours for 4CH1?**
+Li⁺ gives red, Na⁺ yellow, K⁺ lilac, Ca²⁺ orange-red and Cu²⁺ blue-green. Sodium's strong yellow can hide a fainter colour such as lilac, and a flame test identifies only the metal ion.
+
+**Why is fizzing with acid not enough to show a carbonate?**
+Metals such as magnesium also fizz with acid, giving hydrogen. To show a carbonate, bubble the gas through limewater: it turns milky if the gas is carbon dioxide.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited -- Topic 2 Inorganic chemistry, sub-topic (h) Chemical tests, points 2.44–2.50.

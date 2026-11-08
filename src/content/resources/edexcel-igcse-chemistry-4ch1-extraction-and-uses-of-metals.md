@@ -283,6 +283,20 @@ Explain why brass is harder than pure copper. **[3]**
 
 Condense this into the [extraction and uses of metals revision notes](/resources/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-revision-notes/), then test yourself with the [extraction and uses of metals practice questions](/resources/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-practice/). For related content, see the [electrolysis study guide](/resources/edexcel-igcse-chemistry-4ch1-electrolysis/), the [bonding study guide](/resources/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding/) for metallic lattices, and the topic-level [reactivity practice](/resources/edexcel-igcse-chemistry-reactivity-practice/).
 
+## Frequently asked questions
+
+**Why are the carbon anodes replaced in aluminium extraction?**
+At the high temperature, the oxygen formed at the anodes reacts with the carbon to make carbon dioxide, so the anodes burn away. Saying they simply "wear out" is not enough.
+
+**Why are alloys harder than pure metals?**
+In a pure metal the atoms are the same size and arranged in regular layers that can slide over each other. In an alloy, atoms of a different size distort the layers, making it harder for them to slide, so the alloy is harder.
+
+**How do you answer a "comment on an extraction process" question?**
+For statement 2.24C of Edexcel International GCSE Chemistry (4CH1), use the information given and test it against points such as reactivity, energy needed and the cost of raw materials. Detailed knowledge of a specific process is not required, and you should not invent facts the information does not support.
+
+**How much energy does recycling aluminium save?**
+Recycling scrap aluminium needs only about 5% of the energy used to make new aluminium from its ore. It also saves ore and reduces mining waste.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 2: Inorganic chemistry, sub-topic (e) Extraction and uses of metals, statements 2.22C–2.27C.

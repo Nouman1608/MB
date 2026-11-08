@@ -250,6 +250,20 @@ These results fit the Topic 11 rate equations: rate = k[halogenoalkane] for SN1 
 
 Use the [revision notes](/resources/edexcel-ial-chemistry-chirality-revision-notes/), then the [practice questions](/resources/edexcel-ial-chemistry-chirality-practice/). Naming and structural isomerism are in the [introductory organic chemistry guide](/resources/edexcel-ial-chemistry-introductory-organic-chemistry-and-alkanes/).
 
+## Frequently asked questions
+
+**What is optical activity in Edexcel IAL Chemistry?**
+In the YCH11 specification, optical activity is the ability of a single optical isomer to rotate the plane of polarisation of plane-polarised monochromatic light. Under the same conditions, two enantiomers rotate the plane by equal angles in opposite directions.
+
+**Can a molecule have more than one chiral centre?**
+Yes. Outcome 15.2 refers to chiral centre(s), so you should be able to find more than one; 2,3-dichloropentane, for example, has chiral centres at C2 and C3. Treat the rest of the molecule attached to each carbon as one whole group.
+
+**Why does HCN addition to a ketone give an optically inactive product?**
+The carbonyl carbon is trigonal planar, so the cyanide ion attacks from above or below with equal probability. If the product is chiral, both enantiomers form in equal amounts, giving a racemic mixture with no overall rotation.
+
+**Do enantiomers have different physical properties?**
+Two enantiomers have the same melting temperature, boiling temperature and density. The difference shows up in how they rotate plane-polarised light.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 15A: Chirality, outcomes 15.1 to 15.5.

@@ -174,6 +174,20 @@ C2 drawn as a tetrahedral centre: two in-plane bonds, a solid wedge and a hashed
 - Try one of our [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you spot a chiral centre in an exam question?**
+Look for a carbon bonded to four different atoms or groups, skipping every CH₃, CH₂ and C=C or C=O carbon. Write each group out in full and compare whole groups; a carbon with two identical chains, such as two propyl groups, is not chiral, while a carbon with no hydrogen can still be chiral.
+
+**How does optical activity show whether a reaction is SN1 or SN2?**
+SN1 goes through a planar carbocation that is attacked from either face equally, so a single enantiomer gives a racemic product with no rotation. SN2 involves attack opposite the halogen with inversion, so a single enantiomer gives an optically active product.
+
+**Where are marks usually lost on Edexcel IAL chirality questions?**
+Common losses include drawing the second enantiomer as the same molecule rotated rather than reflected, naming a mechanism without the planar intermediate or backside attack, and using optical data when the product is achiral. Predicting the sign of rotation of an SN2 product from the reactant's sign is also wrong.
+
+**Can you predict the sign of rotation of an SN2 product?**
+No. SN2 inverts the arrangement of groups in space, but the sign of rotation, (+) or (−), has to be measured and cannot be predicted from the reactant's sign or read off a 3D drawing.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 15A: Chirality, outcomes 15.1 to 15.5.

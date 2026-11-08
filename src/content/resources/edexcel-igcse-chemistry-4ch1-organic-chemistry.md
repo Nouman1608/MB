@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Study guide for Edexcel International GCSE Chemistry 4CH1 Topic 4: crude oil, alkanes, alkenes, alcohols, acids, esters and polymers."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -395,6 +397,20 @@ Each ester link forms by losing one H₂O. Some polyesters, called **biopolyeste
 ## Next steps
 
 Try the [Organic chemistry practice questions](/resources/edexcel-igcse-chemistry-organic-practice/), then use the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-organic-chemistry-revision-notes/). The previous topic is [Physical chemistry](/resources/edexcel-igcse-chemistry-4ch1-physical-chemistry/).
+
+## Frequently asked questions
+
+**What is a homologous series?**
+A homologous series is a family of compounds with the same general formula and functional group, similar chemical properties and a trend in physical properties. Each member differs from the next by CH₂.
+
+**How do you name an ester in Edexcel International GCSE Chemistry (4CH1)?**
+The alcohol gives the first word, ending -yl, and the acid gives the second word, ending -oate. Methanol and propanoic acid, for example, make methyl propanoate, CH₃CH₂COOCH₃; esters are Paper 2 only content.
+
+**Where do the pollutants from burning fuels come from?**
+Carbon monoxide and soot come from incomplete combustion, sulfur dioxide comes from sulfur impurities in the fuel, and oxides of nitrogen form when nitrogen and oxygen from the air react at high engine temperatures. Sulfur dioxide and nitrogen oxides dissolve in rainwater to cause acid rain.
+
+**Why are addition polymers hard to dispose of?**
+Addition polymers are inert and do not biodegrade, so they last a very long time in landfill. Burning them can produce toxic gases.
 
 ## Official syllabus
 

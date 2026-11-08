@@ -175,6 +175,23 @@ Use these values throughout. Relative atomic masses: H = 1.0, C = 12.0, N = 14.0
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Why are acyl chlorides more reactive than carboxylic acids?**
+In an acyl chloride both the oxygen and the chlorine withdraw electrons from the carbonyl carbon, giving it a larger δ+ charge that attracts nucleophiles strongly. Chloride is also a good leaving group, so the C–Cl bond breaks readily.
+
+**How do you name an ester correctly?**
+The alkyl part from the alcohol is written first and the acid part second, so CH₃COOCH₂CH₂CH₃ is propyl ethanoate. Swapping the two halves names a different compound, so check which side of the ester oxygen each chain is on.
+
+**Why does alkaline hydrolysis of an ester go to completion?**
+Excess hydroxide converts the carboxylic acid into its carboxylate ion, and that ion cannot react with the alcohol to re-form the ester. The organic product is therefore the sodium salt, not the free acid.
+
+**What is a common mistake in carboxylic acid reduction equations?**
+Reducing a carboxylic acid to a primary alcohol with LiAlH₄ needs 4[H], not 2[H], and the equation also forms water. Water must be kept out of the reaction because LiAlH₄ reacts violently with it.
+
+**What does this Edexcel IAL carboxylic acids practice set cover?**
+It covers Topic 15C (carboxylic acids) and 15D (carboxylic acid derivatives) of the Edexcel IAL Chemistry specification (YCH11), outcomes 15.9 to 15.16. Questions include naming, boiling temperatures, acyl chloride reactions, ester hydrolysis and Terylene.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 4, Topic 15, parts 15C Carboxylic acids and 15D Carboxylic acid derivatives, outcomes 15.9 to 15.16.

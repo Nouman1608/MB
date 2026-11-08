@@ -308,6 +308,20 @@ Covalent compounds do not usually conduct electricity. Graphite is the exception
 
 Ready to practise? Go to the [bonding practice questions](/resources/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-practice/), the [Principles of chemistry practice set](/resources/igcse-edexcel-chemistry-principles-practice/), or the [free 4CH1 all-topics diagnostic](/practice/4CH1/diagnostic/all-topics/).
 
+## Frequently asked questions
+
+**What is an ionic bond?**
+An ionic bond is the strong electrostatic attraction between oppositely charged ions. Saying it is an attraction "between atoms" loses the mark in Edexcel International GCSE Chemistry (4CH1).
+
+**How do you write the formula of an ionic compound?**
+Make the total positive charge equal the total negative charge by finding the lowest common multiple of the two charges. Use brackets round group ions when more than one is needed, as in Ca(NO₃)₂ or Fe₂(SO₄)₃.
+
+**Why is graphite soft but diamond very hard?**
+Both are giant covalent structures, but in graphite the carbon atoms form layers with weak forces between them, so the layers slide. In diamond every carbon is bonded to four others in a rigid three-dimensional network.
+
+**What is metallic bonding?**
+Metallic bonding is the electrostatic attraction between positive metal ions and delocalised electrons. It is Paper 2 only content, and the particles should be called positive ions, not atoms or protons.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited -- Topic 1 Principles of chemistry, sub-topics (f) Ionic bonding, (g) Covalent bonding and (h) Metallic bonding, points 1.37 to 1.54C.

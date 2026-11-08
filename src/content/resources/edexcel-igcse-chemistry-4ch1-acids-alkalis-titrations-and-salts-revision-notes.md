@@ -315,6 +315,20 @@ Lead(II) sulfate: lead(II) nitrate solution + dilute sulfuric acid or a soluble 
 - In 2.40C, forgetting to repeat the titration without indicator.
 - Leaving out washing in a precipitation method, or heating hydrated crystals to dryness.
 
+## Frequently asked questions
+
+**What colours do litmus, phenolphthalein and methyl orange turn in acid and alkali?**
+Litmus is red in acid and blue in alkali, phenolphthalein is colourless in acid and pink in alkali, and methyl orange is red in acid and yellow in alkali. Giving "orange" for methyl orange in alkali is a common mistake in Edexcel International GCSE Chemistry (4CH1).
+
+**What is the difference between a base and an alkali?**
+A base is a substance such as a metal oxide, metal hydroxide or ammonia that can neutralise an acid by accepting protons. An alkali is a base that is soluble in water, so all alkalis are bases but not all bases are alkalis.
+
+**Why is universal indicator not used in a titration?**
+Universal indicator is a mixture of indicators, so its colour changes gradually and gives no sharp end point. A single indicator such as phenolphthalein or methyl orange is used instead.
+
+**Which titres do you use to calculate the mean titre?**
+Use only concordant titres, usually within 0.10 cm³ of each other, and never include the rough titre. Burette readings are usually taken to the nearest 0.05 cm³.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited -- Topic 2 Inorganic chemistry, sub-topics (f) Acids, alkalis and titrations and (g) Acids, bases and salt preparations, points 2.28–2.43.

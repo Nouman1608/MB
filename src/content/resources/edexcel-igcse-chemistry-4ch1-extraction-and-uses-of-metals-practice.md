@@ -188,6 +188,20 @@ Use the data to choose the most suitable metal. Justify your choice by comparing
 - Take the [free all-topics diagnostic](/practice/4CH1/diagnostic/all-topics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does this 4CH1 extraction and uses of metals practice set cover?**
+It covers sub-topic 2(e) Extraction and uses of metals of the Edexcel International GCSE Chemistry (4CH1) specification: ores, extraction with carbon and by electrolysis, reduction, steels and alloys, and choosing metals for their uses, with reacting-mass and yield calculations.
+
+**How do you decide how a metal is extracted from its ore?**
+Compare the metal with carbon in the reactivity series: metals below carbon can be extracted by heating the oxide with carbon, while metals above carbon need electrolysis. In Edexcel International GCSE Chemistry (4CH1), the reason mark needs that comparison with carbon.
+
+**Where are marks usually lost on extraction of metals questions?**
+Common losses include naming the metal rather than the metal oxide as the substance reduced, giving a property without linking it to a use, and writing "light" instead of "low density". Using 35.5 instead of 71 for the Mr of chlorine gas is another frequent slip.
+
+**How do you answer a "choose the most suitable metal" data question?**
+Pick a metal and justify it by comparing its values with the other metals in the table, for example saying its density is the lowest rather than just quoting the number. Justification marks need comparisons, not repeated data.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 2: Inorganic chemistry, sub-topic (e) Extraction and uses of metals, statements 2.22C–2.27C.

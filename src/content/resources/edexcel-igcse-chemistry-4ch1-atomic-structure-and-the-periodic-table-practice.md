@@ -197,6 +197,20 @@ x = **75%** [1].
 - Find your weak spots: the free [4CH1 all-topics diagnostic](/practice/4CH1/diagnostic/all-topics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you calculate relative atomic mass from isotope abundances?**
+Multiply each isotope's mass number by its percentage abundance, add the results and divide by 100. If the question asks for 1 decimal place, rounding to a whole number can lose the accuracy mark in Edexcel International GCSE Chemistry (4CH1).
+
+**How do you work out the number of electrons in an ion?**
+Start from the number of protons (the atomic number), then subtract the charge for a positive ion or add it for a negative ion. Using the mass number instead of the atomic number is a common error.
+
+**Why do elements in the same group have similar chemical properties?**
+Their atoms have the same number of electrons in the outer shell. Writing "same group" on its own restates the question and is not enough for the explanation mark.
+
+**How can you classify an element as a metal or non-metal from its oxide?**
+Metal oxides are basic: they react with acids to form a salt and water, and soluble ones give alkaline solutions. Non-metal oxides that dissolve give acidic solutions; use the oxide evidence the question gives rather than conductivity alone.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 1 Principles of chemistry, sub-topics (c) Atomic structure (points 1.14–1.17) and (d) The Periodic Table (points 1.18–1.24).

@@ -192,6 +192,20 @@ Step 2 (slow): H₂ + 2I → 2HI
 - [Book a free trial class](/trial/)
 - Mark your progress on the printable [checklist](/checklists/ib/ib-dp/chemistry/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 2.2 HL practice set cover?**
+It covers Reactivity 2.2.6 to 2.2.13: reaction mechanisms, intermediates and transition states, molecularity, orders from initial-rate data, rate equations, units of k and the Arrhenius equation.
+
+**Can you find reaction orders from the balanced equation?**
+No. Orders must be found by experiment. A reactant with a coefficient of 2 in the overall equation can still be first order, so writing the rate equation from coefficients is a common error.
+
+**How should you show your working when finding orders from initial rates?**
+State which experiments you compared and which concentration stayed fixed, then link the change in concentration to the change in rate. An order quoted with no comparison gives the examiner nothing to credit.
+
+**What are common mistakes in Arrhenius calculations?**
+Typical errors include using °C instead of kelvin, mixing kJ and J, and dropping the minus sign from the gradient so that Ea comes out negative. R = 8.31 is in joules, so convert Ea to J mol⁻¹ first.
+
 ## Official syllabus
 
 Source: the *Chemistry guide* for the Diploma Programme (International Baccalaureate, February 2023; first assessment 2025). Every question targets Reactivity 2.2 understandings 2.2.6 to 2.2.13, which are HL only.

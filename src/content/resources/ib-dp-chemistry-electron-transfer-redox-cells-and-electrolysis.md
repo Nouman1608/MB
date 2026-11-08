@@ -290,6 +290,20 @@ Adding hydrogen across C=C or C≡C is a reduction. A catalyst (usually nickel, 
 - Forgetting the water when going straight from alcohol to acid: RCH₂OH + 2[O] → RCOOH + H₂O.
 - Claiming tertiary alcohols oxidize to ketones.
 
+## Frequently asked questions
+
+**What are the four ways to describe oxidation in IB DP Chemistry?**
+Oxidation is loss of electrons, a rise in oxidation state, gain of oxygen or loss of hydrogen. Reduction is the reverse of each of these.
+
+**What does the salt bridge do in a voltaic cell?**
+The salt bridge lets ions move between the half-cells to keep each solution electrically neutral: anions move towards the anode half-cell and cations towards the cathode half-cell. Choose bridge ions that will not precipitate, such as KNO₃ rather than a chloride with a silver half-cell.
+
+**What is the difference between primary and secondary cells?**
+A primary cell has irreversible electrode reactions and is used once, while a secondary cell has reversible reactions and can be recharged many times. Lead–acid, nickel–cadmium and lithium-ion cells are secondary cells.
+
+**How much hydrogen is needed to hydrogenate an alkyne?**
+Each C=C bond uses 1 mol of H₂ and each C≡C bond uses 2 mol of H₂ to reach the alkane, with a heated nickel catalyst. Adding hydrogen is a reduction.
+
 ## Official syllabus
 
 Reactivity 3.2 (Electron transfer reactions), understandings 3.2.1 to 3.2.11 for SL and HL, in the *Chemistry guide* of the International Baccalaureate Diploma Programme, February 2023, first assessment 2025.

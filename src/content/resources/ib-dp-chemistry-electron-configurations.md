@@ -313,6 +313,20 @@ Silicon is in group 14 (configuration [Ne] 3s² 3p²).
 - The [full-course syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/), [course hub](/boards/ib/ib-dp/chemistry/) and [printable checklist](/checklists/ib/ib-dp/chemistry/)
 - Free [diagnostics](/diagnostics/) to find your gaps
 
+## Frequently asked questions
+
+**What is the difference between a continuous spectrum and a line spectrum?**
+A continuous spectrum contains every wavelength across a range with no gaps, as when white light passes through a prism. A line spectrum contains only certain wavelengths, seen as bright lines on a dark background, and shows that electron energies in an atom are fixed.
+
+**Which regions of the spectrum are hydrogen's emission lines in?**
+Electron drops to n = 1 release the most energy and give ultraviolet lines, drops to n = 2 give visible lines, and drops to n = 3 give infrared lines. The names of the series are not needed for IB DP Chemistry.
+
+**How many electrons can a main energy level hold?**
+Main energy level n holds at most 2n² electrons, so level 4 holds 32. Within one level, the sublevels s, p, d and f hold 2, 6, 10 and 14 electrons.
+
+**How do you calculate first ionization energy from a convergence limit?**
+Use E = hf, or E = hc/λ with the wavelength in metres, to find the energy for one atom, then multiply by the Avogadro constant and convert to kJ mol⁻¹. This is HL-only content in Structure 1.3.
+
 ## Official syllabus
 
 *Chemistry guide*, Diploma Programme, International Baccalaureate Organization: first assessment 2025, published February 2023. Sub-topic Structure 1.3, Electron configurations (understandings 1.3.1 to 1.3.5 for SL and HL; 1.3.6 and 1.3.7 additional higher level).

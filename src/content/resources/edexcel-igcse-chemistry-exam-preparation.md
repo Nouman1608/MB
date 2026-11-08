@@ -11,10 +11,12 @@ qualifications: ["igcse"]
 syllabusCodes: ["4CH1"]
 syllabusSeries: "For first teaching 2017"
 order: 3
-description: "Why Paper 2 of Pearson Edexcel IGCSE Chemistry 4CH1 assesses bold-referenced content that Paper 1 does not, how the 61/39 weighting should shape revision, and a worked calculation-marks routine."
+description: "How Paper 1 and Paper 2 of Pearson Edexcel IGCSE Chemistry 4CH1 differ, why the core content comes first, and a routine for earning calculation method marks."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -120,6 +122,20 @@ content, including the bold-referenced extension material -- the split is by dep
 from the balanced equation explicitly -- it is frequently a mark in its own right and is easily lost by
 moving straight to the next number. 4. What was measured, what was controlled, and what the main
 source of error was.
+
+## Frequently asked questions
+
+**What is the difference between Paper 1 and Paper 2 in Edexcel International GCSE Chemistry 4CH1?**
+Paper 1 assesses only the core, non-bold-referenced content, while Paper 2 assesses all content, including the bold-referenced statements. Paper 1 lasts 2 hours for 110 marks, and Paper 2 lasts 1 hour 15 minutes for 70 marks.
+
+**What percentage of the 4CH1 Chemistry grade is each paper worth?**
+Paper 1 is worth 61.1% of the qualification and Paper 2 is worth 38.9%. Both are externally assessed written papers taken in the same series, and the qualification is untiered.
+
+**Should you revise the core content or the bold content first?**
+Secure the core content first, because it is examinable on both papers, while bold-referenced content contributes only to Paper 2's 70 marks.
+
+**How do you earn method marks in chemistry calculations?**
+Write the relationship you are using before substituting numbers, state the mole ratio from the balanced equation explicitly, and show units. A bare wrong answer earns nothing, but visible working can earn method marks.
 
 *Written against the Pearson Edexcel International GCSE Chemistry 4CH1 specification (official
 specification PDF, verified 2026-08-28). The calculation routine above is an original model written

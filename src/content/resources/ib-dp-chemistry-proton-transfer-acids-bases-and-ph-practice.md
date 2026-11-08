@@ -178,6 +178,20 @@ CH₃COOH(aq) + NO₂⁻(aq) ⇌ CH₃COO⁻(aq) + HNO₂(aq) **[3]**
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 3.1 practice set cover?**
+It covers Reactivity 3.1.1 to 3.1.8: Brønsted–Lowry acids and bases and conjugate pairs, amphiprotic species, pH and Kw, strong and weak acids, neutralization reactions and pH curves.
+
+**How should conjugate acid–base pairs be written?**
+Write each pair with the acid first, include charges, and check that the two species differ by exactly one proton. Adding H⁺ raises the charge by one and removing H⁺ lowers it by one.
+
+**Why is a pH difference not a simple ratio?**
+pH is a logarithmic scale, so a difference of 1 pH unit means a tenfold difference in [H⁺]. To compare solutions, convert both pH values to [H⁺] or use 10 raised to the pH difference.
+
+**Is neutral water always pH 7?**
+No. Water is neutral when [H⁺] equals [OH⁻], and Kw changes with temperature, so neutral water has a pH of 7 only at 298 K. Saying neutral water must have pH 7 at all temperatures is a common error.
+
 ## Official syllabus
 
 This unit is drawn from Reactivity 3.1 (understandings 3.1.1 to 3.1.8) of the *Diploma Programme Chemistry guide*, first examined in 2025 and issued by the International Baccalaureate Organization in February 2023.
