@@ -13,6 +13,12 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-language-and-society-9670"
+  - qualification: "a-level"
+    topic: "unit-2-language-and-society-9670"
+    subtopic: "section-a-language-and-social-groups-texts-9670"
+  - qualification: "a-level"
+    topic: "unit-2-language-and-society-9670"
+    subtopic: "section-b-language-and-social-groups-writing-9670"
 description: "Language and social groups -- text analysis and academic writing -- the full content of Unit 2 for OxfordAQA International AS and A-Level English Language (9670), the second and final unit of the International AS."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
