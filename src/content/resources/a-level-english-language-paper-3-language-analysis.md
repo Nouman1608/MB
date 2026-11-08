@@ -13,6 +13,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-language-analysis-9093"
+  - qualification: "a-level"
+    topic: "paper-3-language-analysis-9093"
+    subtopic: "section-a-language-change-9093"
+  - qualification: "a-level"
+    topic: "paper-3-language-analysis-9093"
+    subtopic: "section-b-child-language-acquisition-9093"
 description: "Language change from Early Modern to Contemporary English including named theories of change, and the stages, functions and theories of child language acquisition, for Cambridge International AS & A Level English Language (9093) Paper 3."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

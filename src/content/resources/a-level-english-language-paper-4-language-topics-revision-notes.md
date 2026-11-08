@@ -13,6 +13,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-4-language-topics-9093"
+  - qualification: "a-level"
+    topic: "paper-4-language-topics-9093"
+    subtopic: "section-a-english-in-the-world-9093"
+  - qualification: "a-level"
+    topic: "paper-4-language-topics-9093"
+    subtopic: "section-b-language-and-the-self-9093"
 description: "Condensed recall notes on English in the World and Language and the Self for Cambridge International AS & A Level English Language 9093, Paper 4 Language Topics."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
