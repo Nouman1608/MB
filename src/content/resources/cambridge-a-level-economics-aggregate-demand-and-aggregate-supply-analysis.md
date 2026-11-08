@@ -293,6 +293,23 @@ A rightward shift of the vertical section (LRAS) is the only way to raise output
 - Forgetting that imports are subtracted in AD.
 - Using micro reasons (substitutes) to explain the slope of AD.
 
+## Frequently asked questions
+
+**What are the components of aggregate demand?**
+Consumption, investment, government spending and net exports (exports minus imports): AD = C + I + G + (X - M).
+
+**Why does the AD curve slope downward?**
+Because of the wealth effect, the interest rate effect and the international trade effect: a lower price level raises the real output demanded.
+
+**What determines aggregate supply?**
+Costs of production, the quantity and quality of factors of production, technology and productivity, and institutions and regulation.
+
+**What is macroeconomic equilibrium?**
+Macroeconomic equilibrium is where AD meets AS, so planned spending equals planned output at that price level.
+
+**What happens when AD rises on the vertical section of LRAS?**
+Output cannot rise beyond capacity, so only the price level increases. Only a rightward shift of LRAS raises output at full capacity.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. This guide covers section 4.3.

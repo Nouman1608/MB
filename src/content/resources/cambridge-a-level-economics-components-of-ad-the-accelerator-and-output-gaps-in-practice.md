@@ -137,6 +137,20 @@ These questions cover outcomes 9.1.2 and 9.1.3 of the Cambridge International AS
 - Forgetting that imports are subtracted in AD.
 - Evaluation with no judgement or no condition.
 
+## Frequently asked questions
+
+**Are transfer payments part of government spending in AD?**
+No. Government spending in AD is spending on goods and services; transfer payments such as pensions and benefits are not included in G.
+
+**Can gross investment be negative?**
+No. Net investment can be negative in the accelerator model, but firms can only shrink capital by not replacing it, so gross investment cannot fall below zero.
+
+**What is a common mistake when finding a deflationary or inflationary gap?**
+Subtracting in the wrong order, or mixing up the vertical gap in AD with the gap in income. Say which measure of the gap you are using.
+
+**Which Cambridge 9708 content does this practice cover?**
+It covers the components of aggregate demand and their determinants, the accelerator, and inflationary and deflationary gaps from the Cambridge 9708 A Level macroeconomics content.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in-revision-notes/).

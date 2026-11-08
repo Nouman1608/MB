@@ -16,8 +16,10 @@ syllabusTopics:
 description: "Condensed recall notes on scarcity, opportunity cost, PPCs and classification of goods for Cambridge AS & A Level Economics 9708."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -233,3 +235,19 @@ the same straight-line PPC.
   <figcaption>Moving along a straight PPC always costs 2 food per machine.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is scarcity in economics?**
+Scarcity means resources are finite while wants are infinite. Every economy must therefore decide what to produce, how to produce it and for whom.
+
+**What reward does each factor of production earn?**
+Land earns rent, labour earns wages, capital earns interest and enterprise earns profit. Cambridge 9708 Topic 1 expects all four factors with their correct rewards.
+
+**Can a positive statement be wrong?**
+Yes. A positive statement is one that can be tested against evidence, so it can still turn out to be false. Testability, not truth, is what makes it positive.
+
+**Are externalities part of Cambridge 9708 Topic 1?**
+No. Market failure, externalities and government failure are A Level content (Topics 7 and 8). At AS, merit and demerit goods are defined by imperfect information, not by externalities.
+
+**How do you read opportunity cost from a straight-line PPC?**
+Compare two points: the amount of one good given up is the opportunity cost of the extra units of the other good. On a straight-line PPC this ratio is constant along the whole curve.

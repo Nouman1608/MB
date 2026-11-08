@@ -173,6 +173,20 @@ These extra questions go deeper into price stability, one of the four objectives
 - Concluding with a summary rather than a judgement.
 - Treating a progressive and a regressive tax as the same thing.
 
+## Frequently asked questions
+
+**Which AQA GCSE Economics sections do these questions cover?**
+They cover AQA GCSE Economics 8136 section 3.2.2.1 Economic objectives of the government, with extra questions on 3.2.2.4 Inflation and price stability.
+
+**What is the difference between a percentage change and a percentage-point change?**
+A percentage-point change is the simple difference between two rates, such as 4% to 6% being 2 percentage points. A percentage change compares the change with the starting value.
+
+**What is often missing from answers about government policy?**
+The conflict. Describing only the intended effect of a policy, without how it may harm another objective or group, loses marks.
+
+**What should I write after a current account calculation?**
+Name the result as a deficit or a surplus, not just its sign, and give the unit.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other/).

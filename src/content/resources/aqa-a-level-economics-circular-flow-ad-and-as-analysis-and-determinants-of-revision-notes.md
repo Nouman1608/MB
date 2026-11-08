@@ -235,6 +235,23 @@ They are decided by different people, so planned saving and planned investment m
 - Describing net exports as exports only.
 - Stating a conclusion about a shock with no reference to spare capacity or the time period.
 
+## Frequently asked questions
+
+**How do you convert nominal income to real income?**
+Divide nominal income by the price index over 100. For example, nominal income of 2,725 with an index of 109 gives real income of 2,725 / 1.09 = 2,500.
+
+**What are the injections and withdrawals in the circular flow?**
+Injections are investment, government spending and exports. Withdrawals are saving, taxation and spending on imports.
+
+**What causes a movement along the AD curve rather than a shift?**
+A change in the price level causes a movement along the AD and AS curves. A change in any other determinant, such as confidence or costs, shifts a curve.
+
+**Are net exports the same as exports?**
+No. Net exports are exports minus imports, so a rise in imports on its own reduces aggregate demand.
+
+**What should a conclusion about a demand or supply shock refer to?**
+It should refer to how much spare capacity there is and to the time period, because both change how far output and prices respond.
+
 ## Official syllabus
 
 Source: the AS and A-level Economics specification published by AQA (7135/7136, version 1.3, 29 June 2022), content sections 4.2.2.1 to 4.2.2.3 in the PDF (3.2.2.1 to 3.2.2.3 on the AQA website).

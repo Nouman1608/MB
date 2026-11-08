@@ -232,6 +232,20 @@ The gap is the same £9 each time; the base changes.
 - Leaving out units: pounds, hours or workers.
 - Finishing an evaluation answer without a judgement.
 
+## Frequently asked questions
+
+**What is a wage in economics?**
+A wage is the price of labour, set in the labour market where workers sell their labour and employers buy it.
+
+**What causes a shortage or surplus of labour?**
+A wage below equilibrium causes a shortage, with more workers wanted than willing. A wage above equilibrium causes a surplus.
+
+**Does a gross pay rise give the same percentage rise in net pay?**
+No. Because of deductions, a rise in gross pay usually gives a smaller percentage rise in net pay.
+
+**Can net pay be larger than gross pay?**
+No. Net pay is gross pay minus deductions such as income tax, National Insurance and pension contributions.
+
 ## Next steps
 
 Work through the [study guide](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and/) for anything unclear, then try the [practice questions](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-practice/) and a [free diagnostic](/diagnostics/).

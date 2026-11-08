@@ -218,6 +218,20 @@ Method for a pattern question: pick two reasons, give a chain for each, then jud
 - Using real statistics from memory instead of the data given.
 - Writing about tariffs and quotas in a question about the gains from trade.
 
+## Frequently asked questions
+
+**What is the difference between absolute and comparative advantage?**
+Absolute advantage compares productivity, and one country can have it in every good. Comparative advantage compares opportunity costs, and it decides who should specialise.
+
+**Who gets the gains from trade?**
+The split depends on the price at which goods are exchanged. A price close to one country's own opportunity cost gives that country almost none of the gain.
+
+**What are the costs of international trade?**
+AQA A-level Economics answers can use structural unemployment, over-specialisation, threats to infant industries, environmental costs, import dependence and inequality between groups and regions.
+
+**How do I write a good evaluation on trade?**
+Name the assumption that fails and what happens to the gain, separate the short run from the long run and different groups, and end with a judgement tied to the case in front of you.
+
 ## Official syllabus
 
 AQA Advanced Level GCE in Economics (7136), specification version 1.3, 29 June 2022, published by AQA: section 4.2.6.2 Trade (first part), within The international economy.

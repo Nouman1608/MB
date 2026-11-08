@@ -220,6 +220,20 @@ Finish with a judgement that names a condition, such as "if the elasticities are
 - Missing the exchange rate effect of a rise in interest rates.
 - Closing an evaluation by repeating points rather than giving a verdict that states its condition.
 
+## Frequently asked questions
+
+**What is the difference between a current account deficit and debt?**
+A deficit is measured over a period, while debt is the total amount owed at a point in time.
+
+**What is the difference between direct and portfolio investment?**
+Direct investment is a lasting stake in a foreign firm, such as setting up a plant. Portfolio investment buys financial assets and is more mobile.
+
+**What is the difference between devaluation and depreciation?**
+Devaluation and revaluation are government changes under a fixed exchange rate. Depreciation and appreciation are market changes under a floating rate.
+
+**Does a rise in interest rates affect the current account through the exchange rate?**
+Yes. Higher rates can raise the exchange rate, making exports dearer and imports cheaper, which can worsen the goods balance even as lower income cuts imports.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 11.1 (Cambridge University Press & Assessment).

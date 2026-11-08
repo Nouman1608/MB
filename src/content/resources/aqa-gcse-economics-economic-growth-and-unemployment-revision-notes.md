@@ -20,8 +20,10 @@ syllabusTopics:
 description: "Condensed AQA GCSE Economics revision notes for 3.2.2.2 and 3.2.2.3: growth, GDP, real GDP and GDP per capita, unemployment measures, types and policies."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-11-05
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-11-05
 featured: false
 ---
@@ -201,6 +203,23 @@ Labour force = 31.2 + 1.3 = 32.5 million. Rate = 1.3 ÷ 32.5 × 100 = **4.0%**.
 - Dividing unemployed by population, or by the number employed.
 - Listing types of unemployment without the cause of each.
 - Stating a policy with no chain of effects, or no conflict with another objective.
+
+## Frequently asked questions
+
+**What is a recession in the UK?**
+In the UK, a recession is two quarters in a row in which real GDP falls. A slower growth rate on its own is not a recession.
+
+**What is the difference between the Claimant Count and the ILO measure?**
+The Claimant Count counts people claiming unemployment benefits. The ILO measure comes from the Labour Force Survey and is usually higher, because many unemployed people do not claim.
+
+**Are students and retired people unemployed?**
+No. They are economically inactive, because they are not working and not looking for work.
+
+**What is the difference between a percentage point and a percentage change?**
+If the unemployment rate falls from 5.0% to 4.8%, that is a fall of 0.2 percentage points, but a percentage fall of 4%.
+
+**Does full employment mean zero unemployment?**
+No. Full employment means almost everyone who wants a job has one; a small amount of unemployment remains.
 
 ## Official syllabus
 

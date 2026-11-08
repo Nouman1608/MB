@@ -252,6 +252,20 @@ This is a benefit to the firm. The matching cost is that each trained worker can
 - Making no use of the figures in the question.
 - Leaving out a conclusion on evaluation questions.
 
+## Frequently asked questions
+
+**What is the difference between a product market and a factor market?**
+In a product market finished goods and services are bought and sold. In a factor market the factors of production, land, labour, capital and enterprise, are bought and sold.
+
+**What is the difference between specialisation and the division of labour?**
+Specialisation is the general idea of concentrating on a limited range of tasks or products. The division of labour is one way of doing it: splitting a production process into separate tasks, one per worker.
+
+**What is the difference between percentage points and per cent?**
+Percentage points measure a change in a share, such as 30% to 21% being 9 percentage points. Per cent measures a change in a quantity.
+
+**What is exchange?**
+Exchange is trading what you make for what others make, which specialisation depends on.
+
 ## Official syllabus
 
 AQA, *GCSE Economics* (code 8136): sections 3.1.2.1 to 3.1.2.3 of the specification, first teaching September 2017.

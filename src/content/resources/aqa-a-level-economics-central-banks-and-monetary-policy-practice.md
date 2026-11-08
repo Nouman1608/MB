@@ -123,6 +123,20 @@ Using the data, explain two reasons why members may vote to raise bank rate, and
 - Quoting data without comparing it to a target or another figure.
 - Writing a one-sided answer to an evaluation question, or ending without a judgement.
 
+## Frequently asked questions
+
+**Should an inflation gap be given in percent or percentage points?**
+Give the gap between inflation and the target in percentage points. Writing it in percent is a common way to lose a mark.
+
+**How far should a monetary policy transmission answer go?**
+Complete the chain to inflation. Stopping at interest rates rise, without tracing the effects through spending and aggregate demand, loses marks.
+
+**Is an exchange rate appreciation good or bad?**
+It depends on the objective: an appreciation tends to help reduce inflation but hurts export industries. Name which objective you are judging it against.
+
+**How should I finish an AQA monetary policy evaluation question?**
+Give a balanced answer and end with a judgement. One-sided answers, or answers with no final judgement, score less.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-central-banks-and-monetary-policy-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-central-banks-and-monetary-policy/).

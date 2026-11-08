@@ -230,6 +230,23 @@ The tax creates exactly the same loss as no tax. The cause is inadequate informa
 - Stating that government failure means markets work better. It means the state must be judged against realistic alternatives.
 - Listing causes without a chain. Link each cause to a misallocation.
 
+## Frequently asked questions
+
+**What is regulatory capture?**
+Regulatory capture occurs when a regulator comes to serve the industry it regulates instead of the public. It is a pattern of influence and dependence on the industry's information, not simply corruption.
+
+**What causes government failure?**
+Inadequate information, conflicting objectives, administrative costs, distortions that create a gap between price and marginal cost, and unintended consequences.
+
+**Does privatisation always raise efficiency?**
+No. Privatisation can cut costs, but without competition or regulation the new owners may simply raise prices and keep the gain.
+
+**Is competition policy only about monopolies?**
+No. In AQA 7136 it also covers cartels, mergers and investigations of whole markets that are not working well.
+
+**Does government failure mean markets should be left alone?**
+No. Compare actual market failure with realistic government failure; the state must be judged against realistic alternatives, not a perfect market.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* specification (7135 and 7136), version 1.3, 29 June 2022, first teaching from September 2015: sections 3.1.8.7, 3.1.8.8 and 3.1.8.10 (printed as 4.1.8.7, 4.1.8.8 and 4.1.8.10 in the combined PDF).

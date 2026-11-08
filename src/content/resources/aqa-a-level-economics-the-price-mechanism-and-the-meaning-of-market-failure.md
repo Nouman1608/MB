@@ -220,6 +220,23 @@ The market exists, but it misallocates. Detailed treatment is left to the guides
 - Listing disadvantages of the price mechanism without examples.
 - Treating a blood market as good or bad without weighing motives, safety and cost.
 
+## Frequently asked questions
+
+**What are the three functions of the price mechanism?**
+Rationing, where a higher price limits demand to the available supply; incentive, where higher prices and profits reward producers for supplying more; and signalling, where price changes tell buyers and sellers that conditions have changed.
+
+**How does the price mechanism decide what, how and for whom to produce?**
+Resources move towards goods with rising prices and profits, firms choose the cheapest method at current input prices, and goods go to those willing and able to pay.
+
+**What is the difference between complete and partial market failure?**
+Complete market failure is a missing market, where nothing is produced, as with a pure public good. Partial failure is when a market exists but produces the wrong quantity or price.
+
+**Is the price mechanism impersonal?**
+Yes, in that it allocates by willingness and ability to pay without favouritism. Critics argue this means it responds to purchasing power, not need, especially for necessities.
+
+**What are the causes of market failure in AQA A-level Economics?**
+Public goods, positive and negative externalities, merit and demerit goods, monopoly and other market imperfections, and inequality in the distribution of income and wealth.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* (7135 and 7136), specification version 1.3, 29 June 2022, sections 4.1.8.1 and 4.1.8.2 as printed in the combined PDF; for first teaching from September 2015.

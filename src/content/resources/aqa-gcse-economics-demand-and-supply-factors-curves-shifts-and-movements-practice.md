@@ -150,6 +150,20 @@ These questions cover **sections 3.1.3.1 (demand) and 3.1.3.2 (supply)** of the 
 - Drawing an axis with no label, units or curve label.
 - Confusing substitutes and complements and so reversing the direction of the shift.
 
+## Frequently asked questions
+
+**Should I say demand falls after a price rise?**
+No. After a change in the good's own price, say quantity demanded falls; demand itself only changes when another factor shifts the whole curve.
+
+**How do you build a market demand curve from individual data?**
+Add the quantities demanded by every buyer at each price. Adding prices instead of quantities is a common mistake.
+
+**How do I build a supply schedule from production costs?**
+At each price, count only the units whose cost is at or below that price, adjusting each unit's cost first for any subsidy or cost rise.
+
+**What must I include when I identify a change in a demand or supply question?**
+Say whether it is a movement or a shift and give its direction, such as a shift to the left or a contraction along the curve.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements-revision-notes/).

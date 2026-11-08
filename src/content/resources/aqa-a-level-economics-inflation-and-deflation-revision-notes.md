@@ -249,6 +249,20 @@ Finish each evaluation with a judgement that follows from the points made, not a
 - Ignoring the exchange rate when a commodity is priced in dollars.
 - Stating a conclusion with no judgement about size, duration or cause.
 
+## Frequently asked questions
+
+**What is the difference between benign and malign deflation?**
+Benign deflation is falling prices from rising supply capacity, such as productivity growth. Malign deflation is falling prices from collapsing aggregate demand.
+
+**What is velocity of circulation?**
+Velocity is how many times, on average, each unit of money changes hands in a period. It is V in the equation MV = PQ.
+
+**What is a real interest rate?**
+A real interest rate is the nominal rate adjusted for inflation. Approximately, it is the nominal rate minus inflation.
+
+**Who gains and loses from inflation?**
+Savers whose interest is below inflation and people on fixed incomes lose, while borrowers with fixed-rate debt gain. Answers should identify gainers and losers, not just list effects.
+
 ## Official syllabus
 
 Source: the A-level Economics specification published by AQA (version 1.3, 29 June 2022), content section 4.2.3.3.

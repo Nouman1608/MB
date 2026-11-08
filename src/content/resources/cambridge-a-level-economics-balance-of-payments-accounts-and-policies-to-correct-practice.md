@@ -133,6 +133,20 @@ These questions cover section 11.1 (outcomes 11.1.1 to 11.1.3) of the Cambridge 
 - Saying a devaluation always improves the current account with no mention of elasticities or the J curve.
 - Stopping an evaluation at a list of points with no judgement.
 
+## Frequently asked questions
+
+**Is the current account the same as the balance of payments?**
+No. The whole balance of payments sums to zero; a deficit or surplus refers to an account within it, usually the current account.
+
+**What is a common sign error in balance of payments questions?**
+Giving a financial account item the wrong direction, especially a fall in reserves, or dropping the minus sign on a deficit or on net errors and omissions.
+
+**Is tariff revenue a payment to foreign suppliers?**
+No. Tariff revenue stays at home with the government; only the amount paid to foreign suppliers is an outflow.
+
+**Is a tariff an expenditure-reducing policy?**
+No. A tariff is expenditure-switching, because it makes imports dearer and moves spending towards home-produced goods.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct/).

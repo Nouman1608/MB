@@ -123,6 +123,20 @@ These questions cover three parts of the AQA AS and A-level Economics specificat
 - Describing shortages and surpluses without saying how the wage then moves.
 - Writing about individual labour supply, monopsony or unions when the question is about competitive markets.
 
+## Frequently asked questions
+
+**Should I redraw the labour demand curve when the wage changes?**
+No. A change in the wage is a movement along the existing demand curve for labour; only changes such as product demand or productivity shift it.
+
+**How do I compare a worker's output with the wage?**
+Convert output to money first by working out marginal revenue product. Comparing units of output directly with a wage is a common mistake.
+
+**What must an answer on labour market equilibrium include?**
+Give both the equilibrium wage and the level of employment, and when there is a shortage or surplus, say how the wage then moves.
+
+**Do competitive labour market questions need monopsony or trade unions?**
+No. Writing about individual labour supply, monopsony or unions when the question is about a competitive market wastes time and earns no credit in AQA 7136.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-demand-and-supply-of-labour-and-competitive-labour-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-demand-and-supply-of-labour-and-competitive-labour/).

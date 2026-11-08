@@ -265,6 +265,20 @@ A sustainable policy asks three questions. Does it use resources faster than the
 - A conclusion that repeats the points with no judgement about which matters most in the context given.
 - Applying one objective's reasoning to another, such as using inflation language for unemployment.
 
+## Frequently asked questions
+
+**Is inequality the same as poverty?**
+No. Inequality is the gap between households' incomes; poverty is having too little. They are different ideas.
+
+**Is the balance of payments how much the government owes?**
+No. The balance of payments is about money flows between the country and the rest of the world, not government debt.
+
+**How should I build a conflict between two objectives?**
+Write a chain of cause and effect: the policy, its first effect, the effect on the intended objective, then the side effect on another objective.
+
+**What should a conclusion on government objectives include?**
+A judgement about which objective or effect matters most in the context given, rather than a repeat of the points.
+
 ## Official syllabus
 
 AQA GCSE Economics (8136) specification, for first teaching from September 2017, published by AQA: section 3.2.2.1 Economic objectives of the government.

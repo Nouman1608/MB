@@ -220,6 +220,20 @@ Examiners reward the link between cause and effect. Learn these in the form "cau
 - Reading the wrong row of a table, or counting a unit whose cost is above the price.
 - Giving a percentage change against the new figure instead of the starting figure.
 
+## Frequently asked questions
+
+**What is the difference between an extension and an increase in demand?**
+An extension is a movement down the demand curve after a fall in the good's own price. An increase in demand is a shift of the whole curve to the right caused by another factor.
+
+**What is the difference between a want and demand?**
+A want becomes demand only when it is backed by the ability to pay.
+
+**Which axis does price go on?**
+Price goes on the vertical axis and quantity on the horizontal axis. Plotting price on the horizontal axis loses marks.
+
+**What is the difference between a substitute and a complement?**
+Substitutes compete with each other and can replace one another; complements are used together.
+
 ## Official syllabus
 
 This page follows the AQA GCSE Economics (8136) specification for first teaching in 2017, published by AQA, sections 3.1.3.1 and 3.1.3.2. Check the current specification at aqa.org.uk/8136.

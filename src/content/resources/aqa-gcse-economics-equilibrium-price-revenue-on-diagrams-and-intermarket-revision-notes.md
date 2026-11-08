@@ -248,6 +248,20 @@ Producers decide what to make, and that links markets too.
 - Answering in general terms with no link to the market in the question.
 - Writing numbers without units, such as £ or the number of lunch boxes.
 
+## Frequently asked questions
+
+**What is excess demand?**
+Excess demand, or a shortage, is when quantity demanded is greater than quantity supplied because the price is below equilibrium.
+
+**What is excess supply?**
+Excess supply, or a surplus, is when quantity supplied is greater than quantity demanded because the price is above equilibrium.
+
+**Is revenue the same as profit?**
+No. Revenue is price multiplied by quantity sold; profit is revenue minus costs.
+
+**What should a demand and supply diagram be labelled with?**
+Label both axes, the curves and the original and new equilibrium points, with units.
+
 ## Official syllabus
 
 AQA GCSE Economics (8136) specification, for first teaching from September 2017, published by AQA. Sections 3.1.3.3 and 3.1.3.4.

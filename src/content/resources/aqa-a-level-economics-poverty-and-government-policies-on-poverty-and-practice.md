@@ -131,6 +131,20 @@ Links: the [study guide](/resources/aqa-a-level-economics-poverty-and-government
 - Presenting one-sided policy answers with no cost, time lag or incentive effect.
 - Stating a political view without showing the economic mechanism.
 
+## Frequently asked questions
+
+**Should a relative poverty line use the mean or the median?**
+Use the median income. Using the mean instead of the median is one of the most common mistakes.
+
+**What happens to the poverty line when incomes change?**
+A relative poverty line moves with median income, so recalculate it after incomes change rather than reusing the old line.
+
+**Does economic growth always reduce relative poverty?**
+No. If all incomes grow by the same percentage, the relative poverty line rises too, so relative poverty can stay the same even while absolute poverty falls.
+
+**What should an answer on poverty policies include?**
+Give a chain of reasoning to income, and for each policy a cost, a time lag or an incentive effect such as benefit withdrawal, then a judgement.
+
 ## Next steps
 
 - Revisit the [study guide](/resources/aqa-a-level-economics-poverty-and-government-policies-on-poverty-and/) for any question you lost marks on.

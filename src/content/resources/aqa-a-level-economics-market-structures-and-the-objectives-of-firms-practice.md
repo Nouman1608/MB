@@ -126,6 +126,20 @@ Calculate marginal revenue and marginal cost for each unit, identify the profit-
 - Treating every effect as harmful, with no controls or benefits.
 - Defining satisficing as "no profit" or "loss-making".
 
+## Frequently asked questions
+
+**How do I justify which market structure a market is?**
+Give evidence on all three factors: the number of firms, the degree of product differentiation and the ease of entry. Naming the structure without that evidence loses marks.
+
+**What is the output rule for revenue maximisation?**
+Revenue maximisation is where MR = 0, not where MC = MR, which is the profit-maximising rule.
+
+**What must a market share calculation after growth include?**
+Apply growth to both the firm's sales and total market sales before dividing; forgetting the market's growth is a common slip.
+
+**Is the divorce of ownership from control always harmful?**
+No. State the problem and link it to objectives, conduct and performance, but also mention controls such as performance-related pay and the threat of takeover.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-market-structures-and-the-objectives-of-firms-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-market-structures-and-the-objectives-of-firms/).

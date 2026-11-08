@@ -139,6 +139,20 @@ Teaching is in the [study guide](/resources/aqa-a-level-economics-government-int
 - Listing strengths and weaknesses with no judgement.
 - Ignoring cost and what the government gives up.
 
+## Frequently asked questions
+
+**Which curve moves when a tax or subsidy is added?**
+The supply curve, because a tax or subsidy changes producers' costs. Moving the demand curve is one of the most common mistakes.
+
+**Are the price paid and the price received the same after a tax?**
+No. Buyers pay a higher price than sellers keep; the gap between the two is the tax per unit.
+
+**What should I check before calculating a shortage or surplus from a price control?**
+Check that the control binds: a maximum price must be below equilibrium and a minimum price above it, or it has no effect.
+
+**What should an evaluation of intervention include?**
+Name the failure the policy addresses, weigh its cost and what the government gives up, and reach a judgement rather than listing strengths and weaknesses.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price/).

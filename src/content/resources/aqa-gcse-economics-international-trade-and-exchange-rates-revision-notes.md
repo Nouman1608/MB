@@ -20,8 +20,10 @@ syllabusTopics:
 description: "Condensed AQA GCSE Economics revision notes for 3.2.4.1 and 3.2.4.2: benefits of trade, UK exports and imports, interdependence and exchange rates."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-11-05
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-11-05
 featured: false
 ---
@@ -172,6 +174,23 @@ Rule: going from pounds to dollars, **multiply** by the rate; going from dollars
 - Saying a strong pound "is good for the economy" without saying for whom.
 - Forgetting that the pound's value is set by demand and supply, then giving no shift.
 - Naming UK exports as only goods: services are about half.
+
+## Frequently asked questions
+
+**What does SPICED stand for?**
+Strong Pound, Imports Cheap, Exports Dear. A weak pound does the opposite: imports become dearer and exports cheaper.
+
+**What determines the value of the pound?**
+The demand for and supply of pounds. Demand comes from foreign buyers of UK exports, tourists, investors, savers and speculators; supply comes from UK buyers of imports, tourists and investors going abroad.
+
+**What happens to the pound if UK interest rates rise?**
+It tends to appreciate, because higher returns attract foreign savers, which raises demand for pounds.
+
+**What is global interdependence?**
+Global interdependence is countries relying on each other for goods, services, markets, investment and supply chains, so problems abroad, such as a recession, can affect the UK.
+
+**What does the UK mainly export?**
+Services, especially financial, insurance and other business services, which make up about half of UK exports, plus machinery, cars and medicines. The UK usually has a deficit on goods and a surplus on services.
 
 ## Official syllabus
 

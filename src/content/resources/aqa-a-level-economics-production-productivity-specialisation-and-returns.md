@@ -239,6 +239,23 @@ Both explain the link between inputs and output. A firm can have diminishing ret
 - Saying money is only a store of wealth. The specification asks about it as a medium of exchange.
 - Listing benefits of specialisation without applying them to the firm in the question.
 
+## Frequently asked questions
+
+**What is labour productivity?**
+Labour productivity is output per worker, or output per hour worked: total output divided by the number of workers or by total hours.
+
+**What are the benefits of specialisation and the division of labour?**
+Workers build skill and speed, no time is lost moving between tasks, capital is kept busy and people are matched to their strengths, raising output per worker and lowering unit costs.
+
+**Why does specialisation need money?**
+A specialist makes one thing but wants many. Barter needs a double coincidence of wants, so money as a medium of exchange makes the swaps that specialisation depends on possible.
+
+**What is the law of diminishing returns?**
+As more units of a variable factor are added to a fixed amount of another factor, the marginal product of the variable factor eventually falls.
+
+**What are increasing, constant and decreasing returns to scale?**
+When all inputs rise by the same proportion, output rises by a larger proportion under increasing returns, the same proportion under constant returns and a smaller proportion under decreasing returns.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3, 29 June 2022, published by AQA. Content: Production and productivity, Specialisation, division of labour and exchange, and The law of diminishing returns and returns to scale.

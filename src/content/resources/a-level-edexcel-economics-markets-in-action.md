@@ -13,11 +13,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "markets-in-action-edexcel-alevel-economics"
-description: "Introductory concepts, consumer behaviour and demand, supply, price determination, market failure, and government intervention in markets -- a syllabus map and study guide for Unit 1 Markets in action (WEC11/01) for Pearson Edexcel International A Level Economics."
+description: "Edexcel International A Level Economics Unit 1 (WEC11/01) guide: scarcity, demand and supply, elasticity, price, market failure and intervention."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-08-21
 updatedDate: 2026-11-05
 featured: false
@@ -171,6 +173,23 @@ Evaluative essay answers on 1.3.6 consistently reward identifying which specific
 intervention is meant to correct, and then weighing its likely side-effects (a price ceiling risking
 a shortage, a subsidy's opportunity cost to the government budget) against its intended benefit,
 rather than describing the intervention in the abstract.
+
+## Frequently asked questions
+
+**How is Edexcel International A Level Economics Unit 1 examined?**
+Markets in action (WEC11/01) is examined by a single paper of 1 hour 45 minutes, worth 80 marks across four sections.
+
+**What do the codes WEC11, XEC11 and YEC11 mean?**
+WEC11/01 is the entry code for the Unit 1 exam itself. XEC11 is the cash-in code for the International Advanced Subsidiary award and YEC11 for the full International Advanced Level award.
+
+**Do Edexcel mark schemes give marks for diagram labels?**
+Edexcel mark schemes typically give specific marks for correctly labelled diagram components, separate from the marks for the written explanation, so label axes, curves, equilibrium points and shifts.
+
+**Which elasticity formulas do I need for Unit 1?**
+Price elasticity of demand, income elasticity of demand and price elasticity of supply, each calculated as a percentage change in quantity divided by a percentage change in price or income. You must also interpret the sign and size.
+
+**How do I write a strong answer on government intervention in Unit 1?**
+Identify the specific market failure the intervention is meant to correct, then weigh its likely side-effects, such as a shortage from a price ceiling or a subsidy's cost to the budget, against the intended benefit.
 
 ## Official syllabus
 

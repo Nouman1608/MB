@@ -238,6 +238,23 @@ Supply can also link markets. A farmer who can grow wheat or barley will respond
 - Treating revenue as the area under the curve rather than the price x quantity rectangle.
 - Writing about the market in general terms without using the context.
 
+## Frequently asked questions
+
+**What is equilibrium price?**
+Equilibrium price is the price at which the quantity buyers want to buy equals the quantity sellers want to sell.
+
+**How does a market move back to equilibrium?**
+With excess demand, sellers raise the price, which extends supply and cuts quantity demanded. With excess supply, they cut the price. The curves do not move during this process.
+
+**What happens to price and quantity when demand rises?**
+Excess demand appears at the old price, so the new equilibrium has a higher price and a higher quantity.
+
+**What happens to price and quantity when supply falls?**
+Excess demand appears at the old price, so the new equilibrium has a higher price and a lower quantity.
+
+**What are complements and substitutes?**
+Substitutes are goods that can be used in place of each other, such as tea and coffee. Complements are goods used together, such as printers and ink.
+
 ## Next steps
 
 Test yourself with the [practice questions](/resources/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket-practice/), then use the [revision notes](/resources/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket-revision-notes/) in the last weeks. The [free 10-minute diagnostics](/diagnostics/) show where to focus.

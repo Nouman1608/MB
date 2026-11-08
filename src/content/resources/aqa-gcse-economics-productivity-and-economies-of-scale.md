@@ -230,6 +230,23 @@ Growth to 8,000 units more than doubles profit, because average cost falls. Grow
 
 See the [practice questions](/resources/aqa-gcse-economics-productivity-and-economies-of-scale-practice/) next, then check the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is productivity?**
+Productivity measures how much is made for each worker or each hour worked. It is a ratio, unlike production, which is a total.
+
+**What factors raise productivity?**
+Skills and training, capital and technology, motivation, management and organisation including division of labour, and health and education.
+
+**What are the types of economies of scale?**
+Purchasing, technical, financial, managerial and risk-bearing economies of scale, each of which lowers cost per unit as output rises.
+
+**What causes diseconomies of scale?**
+Communication problems, coordination problems and weaker motivation when a firm grows too large, which raise average cost.
+
+**How do economies of scale affect business behaviour?**
+A firm with lower average costs can cut prices and still make a profit, and its cost advantage acts as a barrier to entry for new competitors.
+
 ## Official syllabus
 
 AQA, *GCSE Economics (8136)* specification, for first teaching from September 2017, sections 3.1.4.2 and 3.1.4.3.

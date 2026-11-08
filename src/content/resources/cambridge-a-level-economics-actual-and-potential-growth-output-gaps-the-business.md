@@ -213,6 +213,23 @@ A strong answer reaches a judgement: supply-side policy gives more durable growt
 - Describing stabilisers as a government decision. They work automatically.
 - Listing policies without judging effectiveness.
 
+## Frequently asked questions
+
+**What is the difference between actual and potential growth?**
+Actual growth is the percentage change in real GDP. Potential growth is the percentage rise in the economy's productive capacity.
+
+**What are the phases of the business cycle?**
+Boom, downturn, recession and recovery, as actual growth fluctuates around the long-run trend.
+
+**What causes the business cycle?**
+Changes in confidence and expectations, investment and the accelerator, the multiplier, credit and interest rates, external shocks, stock cycles and supply shocks, and mistimed policy.
+
+**What are automatic stabilisers?**
+Automatic stabilisers are features of the tax and benefit system that reduce fluctuations without any government decision, such as tax revenue falling and benefit spending rising in a downturn.
+
+**Why is the output gap hard to measure?**
+Potential output cannot be observed; it is estimated, so the size of the gap is uncertain.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics (9708), syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), sections 9.2.1 to 9.2.4.

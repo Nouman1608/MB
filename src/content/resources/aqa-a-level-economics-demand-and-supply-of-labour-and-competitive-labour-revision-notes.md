@@ -224,6 +224,20 @@ Wage below equilibrium  -> shortage of workers -> wage rises
 - Stating that the wage "rises" without saying whether employment rises or falls too.
 - Writing about monopsony or unions when the question is about a competitive market.
 
+## Frequently asked questions
+
+**What is the difference between MPP and MRP?**
+Marginal physical product is the extra output, in units, from one more worker. Marginal revenue product is the money value of that output: MPP multiplied by marginal revenue.
+
+**What is a wage taker?**
+A wage taker is a firm that must pay the market wage and cannot change it by hiring more or fewer workers, as in a perfectly competitive labour market.
+
+**What is a relative wage?**
+A relative wage compares the wage in one occupation with another, for example by dividing one occupation's wage by the other's.
+
+**What non-monetary factors affect labour supply?**
+Job satisfaction, hours, risk and working conditions all affect how many workers are willing to work in an occupation, alongside pay and benefits.
+
 ## Official syllabus
 
 AQA AS and A-level Economics (7135 and 7136), specification version 1.3, 29 June 2022, published by AQA. A-level content: the labour market sections on the demand for labour, influences upon the supply of labour, and perfectly competitive labour markets.

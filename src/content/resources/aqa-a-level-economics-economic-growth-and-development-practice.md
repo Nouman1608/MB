@@ -128,6 +128,20 @@ These questions cover the content point "Economic growth and development" in the
 - Describing a policy but not its limit, so evaluation is missing.
 - Ignoring the context given in the question.
 
+## Frequently asked questions
+
+**Can I subtract growth rates to find growth per head?**
+Subtracting population growth from GDP growth gives only an approximation. When the question asks for exact per capita growth, divide rather than subtract.
+
+**What is a common mistake about the Human Development Index?**
+Stating that HDI includes inequality or the environment. It combines only health, education and income.
+
+**How do I evaluate aid or trade policies for AQA A-level Economics?**
+Avoid one-sided verdicts. Give a judgement with conditions, such as leakage, tied aid or the strength of institutions, and state each policy's limit.
+
+**Which part of AQA 7136 do these questions practise?**
+They practise the content point Economic growth and development: indicators including HDI, barriers to development, policies, and the role of aid and trade.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-economic-growth-and-development-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-economic-growth-and-development/).

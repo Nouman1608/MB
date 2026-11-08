@@ -200,6 +200,20 @@ The 8th unit has MR 36 above MC 31, the 9th has MR 28 below MC 33. Profit peaks 
 - Giving a one-sided verdict where the question says discuss or evaluate.
 - Mixing up satisficing with loss-making.
 
+## Frequently asked questions
+
+**What is the principal-agent problem?**
+It arises when agents, such as managers, act in their own interest rather than in the interest of the principals, the shareholders who own the firm.
+
+**What is satisficing?**
+Satisficing means aiming for a satisfactory outcome rather than the maximum, for example a sufficient profit. It does not mean making a loss or no profit.
+
+**Can a firm raise its market share and lose profit?**
+Yes. Market share is the firm's sales divided by total market sales, and a firm can increase it, for example through lower prices, while its profit falls.
+
+**Does a firm stop producing when profit is zero?**
+No. Profit is highest at the output where MC = MR, with MC crossing MR from below.
+
 ## Official syllabus
 
 Source: the AQA AS and A-level Economics specification (combined AS and A-level document), version 1.3, 29 June 2022. Content revised here: 3.1.5.1 and 3.1.5.2, printed as 4.1.5.1 and 4.1.5.2 in the PDF.

@@ -126,6 +126,20 @@ These questions follow the AQA AS and A-level Economics specification (version 1
 - Treating "assumptions" as a list with no assessment of how far they hold.
 - Leaving out units, the £ sign or the word "per unit" on tax and subsidy figures.
 
+## Frequently asked questions
+
+**What rule should I state when reading a firm's supply from a cost table?**
+State that a price-taking firm supplies up to the output where price equals marginal cost, rather than just reading figures off the table.
+
+**Does price adjustment towards equilibrium shift the curves?**
+No. When price moves to clear excess supply or demand, the economy moves along the existing curves; describing it as a shift loses marks.
+
+**How many steps should a related-markets answer have?**
+More than one. Trace the effect through each linked market, showing the direction of change at every step.
+
+**Is a rise in price an increase in supply?**
+No. A price rise causes an extension along the supply curve; writing supply increased when only the price changed is a common mistake.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related/).

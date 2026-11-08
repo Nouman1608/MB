@@ -284,6 +284,20 @@ For TC = F + aQ + bQ², the lowest ATC is at Q = √(F/b). With F = 100 and b = 
 - Listing indicators without saying what each reveals about efficiency.
 - Describing price discrimination without linking it to surplus.
 
+## Frequently asked questions
+
+**What is the difference between static and dynamic efficiency?**
+Static efficiency is about efficiency now, with technology and capital fixed. Dynamic efficiency is about improvements over time, through research, investment and technological change.
+
+**Can a monopoly have lower average costs than a competitive market?**
+Yes, if economies of scale are large, but it still usually sets price above marginal cost, so it is not allocatively efficient.
+
+**How do you calculate deadweight loss?**
+Use the gap in quantity between the competitive and restricted output as the base and the gap between price and MC at the restricted output as the height, then take half of base times height.
+
+**Is dynamic efficiency guaranteed under monopoly?**
+No. Treat it as possible rather than certain, and give a condition, such as whether profits are actually reinvested in research.
+
 ## Official syllabus
 
 Source: the AQA specification for AS and A-level Economics (versions 7135 and 7136), for first teaching from September 2015, version 1.3, covering content sections 4.1.5.10 and 4.1.5.11.

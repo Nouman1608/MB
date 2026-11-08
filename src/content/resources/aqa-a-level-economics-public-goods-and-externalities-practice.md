@@ -134,6 +134,20 @@ These questions follow the AQA AS and A-level Economics specification (version 1
 - Stating that property rights are missing without explaining the link to misallocation.
 - Finishing an evaluation by repeating points instead of judging.
 
+## Frequently asked questions
+
+**Is a good public because the government supplies it?**
+No. Classify goods by whether they are rival and excludable; a public good is non-rival and non-excludable, whoever supplies it.
+
+**How do you find the social optimum for a common resource?**
+Use marginal values, not average values: add users only while the extra output from one more user is at least its cost.
+
+**How are public-good benefits added together?**
+Add the marginal benefits across users for each quantity, because everyone consumes the same units at once, rather than adding quantities.
+
+**What should an answer about missing property rights explain?**
+Link the absence of property rights to the misallocation, for example how no one is charged for using or damaging an unowned resource, rather than just stating they are missing.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-economics-public-goods-and-externalities-revision-notes/) or the [study guide](/resources/aqa-a-level-economics-public-goods-and-externalities/).

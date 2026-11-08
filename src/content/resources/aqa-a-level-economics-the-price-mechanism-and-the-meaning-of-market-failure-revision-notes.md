@@ -232,6 +232,20 @@ A good judgement names the condition on which the conclusion depends. Use this o
 - Giving causes of market failure with no example.
 - Dropping the units from a welfare-loss answer.
 
+## Frequently asked questions
+
+**What does impersonal allocation mean?**
+Impersonal allocation means goods are allocated by willingness and ability to pay, regardless of who the buyer is or how much they need the good.
+
+**Is every unfair outcome a market failure?**
+No. To call something market failure, show that resources are misallocated, not just that the outcome seems unfair.
+
+**What should I name when describing a price change?**
+Name the function the price change performs, rationing, incentive or signalling, and link it to the buyers or sellers affected.
+
+**How should the blood market example be used in an answer?**
+Argue from incentives and the nature of the activity, such as donor motives and safety, rather than from opinion.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* (7135 and 7136), specification version 1.3, 29 June 2022, sections 4.1.8.1 and 4.1.8.2 as printed in the combined PDF; for first teaching from September 2015.

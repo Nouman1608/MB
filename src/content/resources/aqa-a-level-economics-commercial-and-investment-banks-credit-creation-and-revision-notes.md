@@ -238,6 +238,20 @@ For evaluation: strength of bank capital, speed of regulatory and government res
 - Stopping at "banks fail" without a chain to the real economy.
 - Giving one-sided answers. Add a counterpoint, such as the cost of tighter regulation.
 
+## Frequently asked questions
+
+**What is the difference between liquidity and capital for a bank?**
+Liquidity is the ability to meet payments as they fall due. Capital is the owners' stake, which absorbs losses if assets lose value.
+
+**What is the difference between being illiquid and insolvent?**
+An illiquid bank cannot meet payments as they fall due even though its assets are worth enough in total. An insolvent bank's assets are worth less than its liabilities.
+
+**What is the difference between systemic risk and moral hazard?**
+Systemic risk is about contagion: the failure of one institution spreading through the financial system. Moral hazard is about incentives: being protected from the full cost of risks encourages more risk-taking.
+
+**What is the difference between a commercial and an investment bank?**
+A commercial bank takes deposits from and lends to households and firms. An investment bank works in financial markets for firms and institutions; many banks do both.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* specification (7135 and 7136), version 1.3, 29 June 2022, sections 4.2.4.2 and 4.2.4.4.

@@ -15,8 +15,10 @@ syllabusTopics:
 description: "Condensed recall notes on demand and supply, elasticity, costs and revenue, market structures and market failure for AQA A Level Economics 7136."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -217,3 +219,19 @@ Negative and positive externalities (in production and consumption), public good
   <figcaption>Intervention based on wrong information can cause as much harm as the market failure it was meant to correct.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why does marginal cost cut average cost at its minimum?**
+While MC is below AC, each extra unit pulls the average down; once MC is above AC, it pulls the average up. So MC crosses AC at its lowest point.
+
+**What conditions are needed for price discrimination?**
+The firm needs market power, the ability to separate markets, and different price elasticities of demand in each market.
+
+**Does a minimum wage always cause unemployment?**
+No. In a monopsony labour market, where a single buyer of labour pays below the competitive wage, a minimum wage can raise both wages and employment.
+
+**What is normal profit?**
+Normal profit is the minimum return needed to keep the entrepreneur in the industry, and it is counted as a cost.
+
+**What must an externality diagram show?**
+Label MPC, MSC, MPB and MSB as relevant, mark the market outcome and the social optimum, and shade the welfare loss.

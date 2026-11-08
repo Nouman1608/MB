@@ -105,6 +105,20 @@ These questions cover the budget balance, national debt, cyclical and structural
 - Describing the OBR as setting policy or taxes.
 - Evaluation that lists "advantages and disadvantages" with no judgement about circumstances.
 
+## Frequently asked questions
+
+**How should I present a budget deficit figure in an AQA answer?**
+Give the sign, the units and, where asked, the deficit as a percentage of GDP. A bare number with no sign or units is a common way to lose marks.
+
+**What is a common mistake with debt-to-GDP ratios after growth?**
+Dividing the new debt by the old GDP. After growth, divide the new debt by the new GDP.
+
+**How do I evaluate a question on deficits or rebalancing the budget?**
+Reach a judgement about the circumstances, such as the state of the cycle or what the borrowing financed. A list of advantages and disadvantages with no judgement scores less.
+
+**Which part of the AQA specification do these questions cover?**
+They follow the budget balance and national debt content of the Fiscal policy sub-section of AQA A-level Economics 7136, section 4.2.5.1 in the combined specification PDF.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of/).

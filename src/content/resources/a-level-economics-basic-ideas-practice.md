@@ -16,8 +16,10 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on scarcity, PPCs and classification of goods for Cambridge AS & A Level Economics 9708."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -140,3 +142,17 @@ A **normative** statement contains a **value judgement** and cannot be tested [1
 - Confusing a movement along the PPC with a shift of the whole curve.
 - Explaining the concave PPC as "diminishing returns" rather than imperfect resource substitutability.
 - Naming only one or two factors of production instead of all four with their correct reward.
+
+## Frequently asked questions
+
+**Why do students lose marks defining opportunity cost?**
+The most common reason is leaving out the words next best. Opportunity cost is the single best alternative given up, not everything that is given up.
+
+**What is the most common mistake when drawing a production possibility curve?**
+Examiners reported that some candidates labelled the axes price and quantity instead of the two goods. Confusing a movement along the curve with a shift of the whole curve also loses marks.
+
+**How should I finish a 6-mark evaluate question in Cambridge 9708 Economics?**
+End with a clear judgement and say what the answer depends on. Concluding an evaluation without a judgement is one of the main ways marks are lost.
+
+**Are these real Cambridge 9708 past paper questions?**
+No. They are original questions written for revision and practice; use them alongside the official past papers available free from Cambridge International.

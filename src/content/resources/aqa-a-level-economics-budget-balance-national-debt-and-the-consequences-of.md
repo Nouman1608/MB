@@ -210,6 +210,23 @@ Points to weigh: cuts to capital spending harm future supply; cuts to benefits h
 - Forgetting that a cut in spending also reduces tax revenue.
 - Describing the OBR as setting taxes or targets.
 
+## Frequently asked questions
+
+**What is the difference between a budget deficit and the national debt?**
+A budget deficit is a flow: government spending exceeds revenue over a period, usually a year. The national debt is a stock: the total accumulated borrowing, which a deficit adds to.
+
+**What is the difference between a cyclical and a structural deficit?**
+A cyclical deficit arises from the economic cycle, because tax receipts fall and spending rises when output is below potential. A structural deficit would remain even if output returned to potential with no change in policy.
+
+**What does the Office for Budget Responsibility do?**
+The OBR is an independent body created in 2010. It produces economic and fiscal forecasts for Budgets, assesses performance against fiscal targets and long-term sustainability, and scrutinises tax and welfare costings; it does not set taxes or targets.
+
+**Why does a spending cut reduce the deficit by less than its size?**
+Lower spending reduces income through the multiplier, which also reduces tax revenue, so the deficit falls by less than the headline cut.
+
+**Is a large national debt always a problem?**
+No. AQA 7136 answers should weigh factors such as the interest rate against growth, the share of revenue taken by interest and what the borrowing financed.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, published by AQA. This guide follows the A-level content in section 4.2.5.1.

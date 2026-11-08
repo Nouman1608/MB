@@ -259,6 +259,23 @@ A new entrant selling only 20,000 would have an LRAC of 7.2, which is 50% above 
 - Confusing a movement along LRAC with a shift. Internal effects move, external effects shift.
 - Assuming every large firm has low unit costs. A firm below MES has higher unit costs than one at or above it.
 
+## Frequently asked questions
+
+**What are the types of internal economies of scale?**
+AQA A-level Economics answers can use technical, purchasing, financial, marketing, managerial and risk-bearing economies of scale, each of which lowers long-run average cost as the firm grows.
+
+**What causes diseconomies of scale?**
+Internal diseconomies come from slower communication, harder coordination and control, and less motivated workers in a large firm. External diseconomies come from congestion and higher rents and wages in a crowded area.
+
+**Why is the average cost curve U-shaped?**
+Average cost falls at first because average fixed and average variable cost both fall, then rises once the rise in average variable cost outweighs the fall in average fixed cost.
+
+**Where does the marginal cost curve cut the average cost curve?**
+MC cuts both the average cost and average variable cost curves at their minimum points.
+
+**Why can a high minimum efficient scale be a barrier to entry?**
+A new entrant producing well below MES has much higher unit costs than an incumbent at MES, so it must win a large share of the market or face a cost disadvantage.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA, for first teaching from September 2015: A-level sub-sections Costs of production and Economies and diseconomies of scale.

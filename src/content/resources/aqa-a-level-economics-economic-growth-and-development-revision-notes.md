@@ -232,6 +232,20 @@ Gains: bigger markets, specialisation, technology, competition. Risks: dependenc
 - Ignoring the question's context and writing about development in general.
 - Forgetting to state the assumption behind a calculation.
 
+## Frequently asked questions
+
+**What is human capital?**
+Human capital is the skills, knowledge and health of the workforce. Education and training build it and raise labour productivity.
+
+**What is tied aid?**
+Tied aid is aid given on condition that the recipient buys from suppliers in the donor country, which can reduce its real value.
+
+**What is the informal sector?**
+The informal sector is economic activity outside tax and legal regulation, common in less-developed economies.
+
+**Is growth in total GDP the same as growth per head?**
+No. Total GDP growth must be adjusted for population growth; presenting it as growth per head is a common error.
+
 ## Official syllabus
 
 AQA AS and A-level Economics (7135 and 7136), specification version 1.3, 29 June 2022, published by AQA, for first teaching from September 2015. Section 4.2.6.5 of the combined PDF, "Economic growth and development".

@@ -264,6 +264,20 @@ For any claim about a deficit, surplus, debt or rebalancing measure, test it aga
 - Calling the OBR a lawmaker or a source of tax policy.
 - Ignoring the time frame: short-run effects on demand against long-run effects on supply.
 
+## Frequently asked questions
+
+**What is the difference between the headline and primary budget balance?**
+The headline balance includes interest payments on the national debt; the primary balance leaves interest out.
+
+**Can the debt ratio fall while the national debt grows?**
+Yes. The debt-to-GDP ratio can fall while the debt itself grows, if GDP rises proportionately faster than the debt.
+
+**What is the difference between automatic stabilisers and discretionary fiscal policy?**
+Automatic stabilisers change tax receipts and spending as the economy moves through the cycle without any decision being taken. Discretionary policy is a deliberate decision to change spending or taxes.
+
+**What happens to the debt ratio when interest rates are above nominal growth?**
+The ratio climbs even with a balanced primary budget, so the government needs a primary surplus to stop it rising.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, published by AQA. These notes follow the A-level content in section 4.2.5.1.

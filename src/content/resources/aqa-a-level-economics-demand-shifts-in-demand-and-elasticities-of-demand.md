@@ -264,6 +264,23 @@ A chain for evaluation: a commuter with no alternative faces a rail fare rise; n
 - Reporting an XED sign wrongly because the goods were swapped.
 - Saying "inferior" means poor quality; in economics it means negative YED.
 
+## Frequently asked questions
+
+**How do you calculate price elasticity of demand?**
+Divide the percentage change in quantity demanded by the percentage change in the good's own price, using the original values as the base. PED is normally negative because of the law of demand.
+
+**How does PED affect total revenue?**
+If demand is inelastic, a price rise increases revenue; if it is elastic, a price rise reduces revenue; if it is unit elastic, revenue is unchanged.
+
+**What does income elasticity of demand show?**
+YED shows how demand responds to a change in income. Positive YED means a normal good, negative YED an inferior good, and a value above 1 means demand grows faster than income.
+
+**How do you tell substitutes from complements using cross elasticity?**
+A positive XED means the goods are substitutes and a negative XED means they are complements; a value close to zero means they are unrelated.
+
+**What factors affect price elasticity of demand?**
+The number and closeness of substitutes, the proportion of income spent on the good, whether it is a necessity, the time period, habit or addiction, and how widely the market is defined.
+
 ## Official syllabus
 
 Source: the A-level Economics specification published by AQA (version 1.3, 29 June 2022), content sections 4.1.3.1 and 4.1.3.2.

@@ -210,6 +210,20 @@ Use this pattern for any "explain" or "assess" answer. Cause: interest rates in 
 - Using the same percentage for both directions of a currency change.
 - Forgetting that a union member cannot cut its own interest rate.
 
+## Frequently asked questions
+
+**What is a managed float?**
+A managed float is a floating exchange rate in which the central bank intervenes from time to time, without a fixed target.
+
+**What is hot money?**
+Hot money is short-term funds moved between countries to earn a higher interest rate.
+
+**Does a strong currency always help the economy?**
+No. An appreciation makes imports cheaper and can reduce inflation, but it makes exports dearer abroad and can hurt exporters.
+
+**Why can a currency union member not cut interest rates on its own?**
+Members of a currency union share one currency and one central bank, so a single interest rate has to suit every member.
+
 ## Official syllabus
 
 AQA, AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, section 4.2.6.4 (Exchange rate systems).

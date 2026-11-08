@@ -134,6 +134,20 @@ Identify two characteristics of globalisation shown in the data, and explain one
 - Describing benefits and costs without saying who gains, who loses and over what period.
 - Ending an evaluation with a summary of points and no judgement.
 
+## Frequently asked questions
+
+**What is wrong with defining globalisation as more trade?**
+It is too narrow. A full definition covers the integration of economies through trade, capital flows, labour, technology and supply chains.
+
+**How should growth over several years be calculated?**
+Use a compound rate of growth, not a simple average of the total change divided by the number of years.
+
+**Are all jobs created by a multinational net new jobs?**
+No. Some may replace jobs lost at local firms that the multinational displaces, so the net gain is smaller than the gross figure.
+
+**How do I evaluate the effects of globalisation for AQA?**
+Say who gains, who loses and over what period, and end with a judgement rather than a summary of points.
+
 ## Next steps
 
 - Revisit the [study guide](/resources/aqa-a-level-economics-globalisation-and-multinational-corporations/) for any chain you could not write from memory.

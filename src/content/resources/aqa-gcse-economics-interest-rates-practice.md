@@ -13,11 +13,13 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "how-the-economy-works-aqa-gcse-economics"
     subtopic: "interest-rates-saving-borrowing-spending-investment-aqa-gcse-economics"
-description: "Original exam-style practice questions (multiple-choice and written) with full worked answers on interest rates, saving/borrowing/spending/investment, and government income and expenditure for AQA GCSE Economics (8136), 3.2.1.1 and 3.2.1.2."
+description: "AQA GCSE Economics (8136) practice with worked answers on interest rates, saving, borrowing and investment, and UK government income and spending."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -113,3 +115,17 @@ D) Education **[1]**
 ## Approaching interest rates and government finance questions
 
 For any interest rate question, always state the direction of the change (rise or fall) before explaining the effect, and keep the consumer and producer perspectives separate, since examiners will often ask about one specifically rather than "the economy" in general. For taxation questions, run through both classification axes in turn — how the tax is collected, then how its burden changes with income — rather than trying to describe a tax with a single label, since the specification tests exactly this two-axis reasoning through examples like the cigarette-tax question above. For the final evaluative question style, a reasoned judgement that directly compares the two policy tools on a stated basis (speed, breadth, precision, or certainty of effect) scores considerably more than simply restating the arguments for each tool without weighing them against each other.
+
+## Frequently asked questions
+
+**What should I state first in an interest rate answer?**
+State the direction of the change, a rise or a fall, before explaining its effect on saving, borrowing, spending or investment.
+
+**Are direct and progressive taxes the same thing?**
+No. Direct and indirect describe how a tax is collected; progressive and regressive describe how its burden changes with income. They are two separate classifications.
+
+**What is a common mistake in simple interest calculations?**
+Forgetting to convert the percentage rate to a decimal before multiplying it by the amount saved.
+
+**Which AQA GCSE Economics sections does this practice cover?**
+It covers AQA GCSE Economics 8136 sections 3.2.1.1 Interest rates and 3.2.1.2 Government income and expenditure.

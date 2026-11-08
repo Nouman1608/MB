@@ -208,6 +208,20 @@ Country Tarn has a tariff of 6 per unit on all imports and buys 40 units a year.
 - Mixing up a customs union and a free trade area.
 - Stating a conclusion with no judgement about size, time or who gains.
 
+## Frequently asked questions
+
+**What is quota rent?**
+Quota rent is the gap between the domestic price and the world price per unit, multiplied by the quota quantity.
+
+**What is the difference between a customs union and a free trade area?**
+Both remove barriers between members, but a customs union also applies a common external tariff on imports from non-members, while in a free trade area each member keeps its own external tariffs.
+
+**What is the difference between trade creation and trade diversion?**
+Trade creation replaces high-cost home supply with cheaper supply from a member. Trade diversion replaces low-cost supply from outside the union with higher-cost supply from a member.
+
+**Does the WTO ban all protectionism?**
+No. The WTO promotes freer trade and sets rules, but it allows some exceptions.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* specification (7135 and 7136), version 1.3, first teaching from September 2015, section 4.2.6.2 Trade (the protectionism, customs union, SEM and WTO points).

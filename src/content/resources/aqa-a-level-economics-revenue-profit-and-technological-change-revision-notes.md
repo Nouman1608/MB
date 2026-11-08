@@ -259,6 +259,20 @@ A workshop with 6 workers makes 480 units a week, or 80 each. After adopting new
 - Describing creative destruction without linking it to temporary abnormal profit and entry.
 - Giving a list of roles for profit with no evaluation.
 
+## Frequently asked questions
+
+**Is a firm earning normal profit making a loss?**
+No. Normal profit is counted as a cost, so a firm earning only normal profit covers all its costs, including the owner's opportunity cost.
+
+**How should a total revenue diagram be labelled?**
+Put revenue, not price, on the vertical axis and quantity on the horizontal axis.
+
+**How is creative destruction linked to profit?**
+Innovation earns temporary abnormal profit, which attracts entry and imitation, so new products and firms replace old ones over time.
+
+**How do MR and AR relate on a diagram for a firm with market power?**
+MR lies below AR, and for a straight-line demand curve it is twice as steep. Drawing them parallel, or MR above AR, loses marks.
+
 ## Official syllabus
 
 AQA, AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, first teaching September 2015. Sections covered: marginal, average and total revenue; profit; technological change.

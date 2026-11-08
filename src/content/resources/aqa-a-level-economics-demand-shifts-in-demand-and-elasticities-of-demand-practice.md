@@ -145,6 +145,20 @@ Bus fares then rise, and rentals at £4 become 750.
 - Treating revenue as profit in evaluation answers.
 - Listing factors affecting elasticity without applying them to the context.
 
+## Frequently asked questions
+
+**Which value should be the base in a percentage change for elasticity?**
+Use the starting value as the base, not the end value, and work with percentage changes rather than absolute changes.
+
+**How do I present an elasticity answer for full marks?**
+Give the number with its sign, label it elastic or inelastic, and say what it means. A bare number with no sign or meaning loses marks.
+
+**What does inferior good mean in AQA A-level Economics?**
+An inferior good is one with a negative income elasticity of demand, so demand falls as income rises. It does not mean poor quality.
+
+**Is higher revenue the same as higher profit?**
+No. Revenue leaves out costs, so a price rise that lifts revenue may not raise profit; treating revenue as profit weakens an evaluation.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand/).

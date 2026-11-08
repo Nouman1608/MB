@@ -244,6 +244,23 @@ A rise from 5% to 8% cuts the price from 100 to 62.50, a fall of 37.5%.
 - Saying that shares must be repaid, or that debt gives ownership.
 - Explaining the inverse relationship without mentioning the fixed coupon and the alternative return on new bonds.
 
+## Frequently asked questions
+
+**What are the functions of money?**
+Money is a medium of exchange, a store of value, a unit of account and a standard of deferred payment. High inflation weakens the store of value and deferred payment functions.
+
+**What are the characteristics of money?**
+Acceptability, durability, portability, divisibility, uniformity, limited supply and stable value.
+
+**Why do bond prices fall when interest rates rise?**
+The coupon on an existing bond is fixed, so when new bonds pay higher interest, investors will only buy the old bond at a lower price that gives a competitive yield.
+
+**What are the three financial markets in AQA A-level Economics?**
+The money market for short-term loans and assets, the capital market for long-term finance such as shares and bonds, and the foreign exchange market for trading currencies.
+
+**How can firms raise finance?**
+By issuing shares, issuing corporate bonds or borrowing from a bank. Debt magnifies gains when returns are good and losses when they are poor.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA: A-level content, The structure of financial markets and financial assets (4.2.4.1 in the combined PDF; 3.2.4.1 on the AQA website), within Financial markets and monetary policy.

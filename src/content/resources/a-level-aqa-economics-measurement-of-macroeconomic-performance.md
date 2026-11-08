@@ -16,11 +16,13 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-aslevel-economics"
-description: "Government macroeconomic policy objectives, the indicators used to measure economic performance, how index numbers work, and the uses and limitations of national income data -- 3.2.1 of AQA A-Level Economics (7136). AS Economics (7135) has the first three parts; uses of national income data (3.2.1.4) is A-level only."
+description: "AQA A-level Economics (7136) 3.2.1: macroeconomic objectives, indicators, index numbers and the uses of national income data, with AS (7135) coverage noted."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -201,6 +203,23 @@ without needing RPI/CPI's exact construction method.
 - A-level only: be able to state the limitations of national income data as a
 measure of living standards, and explain why PPP exchange rates are
 used for international comparisons.
+
+## Frequently asked questions
+
+**What are the main macroeconomic objectives in AQA A-level Economics?**
+AQA 7136 names economic growth, price stability, minimising unemployment and a stable balance of payments on current account. Governments may also pursue other objectives, such as balancing the budget and an equitable distribution of income.
+
+**Which indicator measures which macroeconomic objective?**
+Real GDP and real GDP per capita relate to growth and living standards, CPI and RPI to price stability, unemployment measures to the unemployment objective, and the current account balance to the balance of payments objective.
+
+**What does an index number rising from 100 to 103 mean?**
+It means a 3% increase relative to the base year, which is set at 100. An index number is a relative measure, not an absolute value.
+
+**Is uses of national income data in AQA AS Economics?**
+No. 3.2.1.4 Uses of national income data is A-level only; AQA AS Economics (7135) covers the first three parts of this sub-topic.
+
+**Why are PPP exchange rates used to compare living standards?**
+Purchasing power parity exchange rates adjust for differences in the cost of living between countries, so they give a more meaningful comparison of what income can actually buy than market exchange rates.
 
 ## Related resources
 

@@ -239,6 +239,20 @@ Examiner insights in the practice questions give advice on how answers gain or l
 - Giving an evaluation point with no consequence, such as "it costs money" with no mention of opportunity cost.
 - Leaving out the direction (rise or fall) in a calculation answer.
 
+## Frequently asked questions
+
+**What is a third party?**
+A third party is someone who is neither the buyer nor the seller in a transaction but is affected by it.
+
+**Which externality causes over-production?**
+A negative externality causes over-production or over-consumption; a positive externality causes under-production or under-consumption.
+
+**Is a high price a market failure?**
+No. Market failure means resources are misallocated, not that a price is unwelcome or seems unfair.
+
+**Does a tax move the supply or the demand curve?**
+An indirect tax raises firms' costs, so it shifts the supply curve; say which curve moves when you explain it.
+
 ## Official syllabus
 
 AQA, *GCSE Economics (8136) specification*, for first teaching from September 2017, sections 3.1.6.1 and 3.1.6.2.

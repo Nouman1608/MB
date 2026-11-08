@@ -198,6 +198,20 @@ These notes condense supply-side policies for AQA A-level Economics (7136), from
 - Giving one-sided answers that ignore time lags and cost.
 - Forgetting that the current account includes more than trade in goods and services.
 
+## Frequently asked questions
+
+**What is the trend rate of growth?**
+The trend rate of growth is the average rate at which potential output rises over time.
+
+**Does a rise in LRAS automatically raise actual output?**
+No. LRAS shows potential output; actual output rises only if aggregate demand grows to use the extra capacity.
+
+**Is a tax cut a free-market or interventionist supply-side policy?**
+A tax cut is a free-market policy, because it strengthens incentives by removing obstacles. Subsidies and spending on training are interventionist.
+
+**Does a cut in income tax always raise incentives to work?**
+Not always. The income effect means some workers may choose to work fewer hours at a higher net wage, and the tax cut also costs revenue.
+
 ## Official syllabus
 
 AQA, AS and A-level Economics specification, version 1.3 (29 June 2022), A-level content section 4.2.5.2 in the combined PDF (3.2.5.2 on the AQA website): Supply-side policies. Published by AQA.

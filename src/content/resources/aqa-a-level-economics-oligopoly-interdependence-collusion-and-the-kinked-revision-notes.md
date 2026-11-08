@@ -227,6 +227,20 @@ Use this chain whenever a question asks about the significance of interdependenc
 - Forgetting that cheating makes cartels unstable.
 - Giving numbers without units or workings.
 
+## Frequently asked questions
+
+**What is the difference between collusion and cooperation?**
+Judge the effect on competition: collusion is an agreement or understanding that restricts competition, while cooperation is joint action that does not, such as a shared technical standard.
+
+**What is the difference between overt and tacit collusion?**
+Overt collusion is an explicit agreement between firms. Tacit collusion is an understanding without a formal agreement.
+
+**What is the difference between dominant-firm and barometric price leadership?**
+In dominant-firm leadership the largest firm sets the price and others follow. In barometric leadership a firm respected for reading market conditions moves first and others follow.
+
+**How should oligopoly be defined?**
+By structure, a few dominant firms with high concentration and barriers to entry, and by conduct, firms behaving interdependently. Defining it only as a few firms misses interdependence.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* specification (7135 and 7136), version 1.3, 29 June 2022, first teaching from September 2015.

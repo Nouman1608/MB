@@ -126,6 +126,20 @@ These questions follow the AQA AS and A-level Economics specification (version 1
 - Ending with a vague "it depends" and no named condition.
 - Using real-world figures from memory in place of those given.
 
+## Frequently asked questions
+
+**How should government failure be defined in AQA A-level Economics?**
+Define it as intervention that leads to a misallocation of resources. Calling it policy that does not work, with no mention of misallocation, loses marks.
+
+**How do I judge whether a fine deters a cartel?**
+Use the expected fine, allowing for the chance of being caught, not the full fine, and compare it with the cartel's gain.
+
+**Does a high concentration ratio prove a market is harmful?**
+No. Treating a higher concentration ratio as proof of harm is a common error; judge the effects on prices, entry and efficiency.
+
+**Should I use real-world figures in data questions on competition policy?**
+Use the figures given in the question. Replacing them with real-world figures from memory is a listed way to lose marks.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-competition-policy-public-ownership-regulation-and-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-competition-policy-public-ownership-regulation-and/).

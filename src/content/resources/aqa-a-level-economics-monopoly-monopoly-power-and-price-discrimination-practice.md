@@ -136,6 +136,20 @@ These questions follow the Monopoly and monopoly power and Price discrimination 
 - Saying price discrimination always benefits the firm and harms consumers, without weighing groups separately.
 - Omitting units, or forgetting fixed costs.
 
+## Frequently asked questions
+
+**Which curve is the monopoly price read from?**
+Find output where MR = MC, then read the price from the AR (demand) curve at that output. Taking the price off the MR curve is a common mistake.
+
+**Is every firm with a downward-sloping demand curve a monopoly?**
+No. Such a firm is a price maker with some market power; monopolistic competitors and oligopolists are price makers too.
+
+**How should I use the conditions for price discrimination in an answer?**
+Apply each condition to the business in the question, such as how it separates customers and prevents resale, rather than reciting the list.
+
+**Does price discrimination always benefit the firm and harm consumers?**
+Not always for every group. Weigh the effects on each group of customers, since some pay less while others pay more.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination-revision-notes/) and re-read the [study guide](/resources/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination/).

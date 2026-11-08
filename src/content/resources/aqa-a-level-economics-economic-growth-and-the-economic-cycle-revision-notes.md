@@ -291,6 +291,20 @@ Boom-bust chain: easy credit, rising asset prices, higher collateral values, mor
 - Describing a bubble without a chain of reasoning to spending and output.
 - Giving costs and benefits as lists, with no judgement about size, timing or who is affected.
 
+## Frequently asked questions
+
+**What is the difference between actual and potential growth?**
+Actual growth is a rise in real output; potential growth is a rise in the economy's productive capacity.
+
+**What is the difference between an output gap and a growth rate?**
+An output gap is a level, the difference between actual and potential output at a point in time. A growth rate is a change in output over time.
+
+**What is the difference between a global and a domestic shock?**
+A global shock starts abroad, such as a fall in trading partners' incomes or a rise in world commodity prices. A domestic shock starts at home, such as a collapse in consumer confidence or a natural disaster.
+
+**What is sustainable growth?**
+Growth is sustainable if it can continue without damaging the ability of future generations to meet their needs, for example through pollution or resource depletion.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* (7135 and 7136), specification version 1.3, 29 June 2022, section 3.2.3.1 on the AQA website (4.2.3.1 in the combined PDF).

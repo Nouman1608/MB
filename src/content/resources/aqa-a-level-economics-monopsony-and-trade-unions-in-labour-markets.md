@@ -218,6 +218,23 @@ Where one union faces one employer, the market is a bilateral monopoly. The wage
 - Treating union power as fixed. It depends on demand elasticity, density, the product market and the economy.
 - Failing to evaluate: a judgement should depend on the stated conditions, such as how elastic demand is.
 
+## Frequently asked questions
+
+**What is a monopsony in the labour market?**
+A monopsony is a labour market with a single buyer of labour, a single employer, which can pay a lower wage and employ fewer workers than a competitive market.
+
+**Why does the marginal cost of labour lie above the supply curve?**
+A monopsonist pays one wage to all workers, so hiring one more worker means raising pay for everyone already employed. The extra cost is therefore more than the new worker's wage.
+
+**What makes a trade union more powerful?**
+High membership density, inelastic demand for labour, labour being a small share of costs, inelastic product demand, few substitutes for the workers, low unemployment, high profitability and the legal framework.
+
+**What is bilateral monopoly?**
+Bilateral monopoly is where one union faces one employer. The wage then depends on bargaining between the two.
+
+**How does imperfect information affect labour markets?**
+If workers do not know what other employers pay or which vacancies exist, labour supply to an employer is less elastic, which strengthens the employer's power over wages.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA: the A-level sub-sections 3.1.6.4 and 3.1.6.5 on the AQA website (4.1.6.4 and 4.1.6.5 in the combined PDF).

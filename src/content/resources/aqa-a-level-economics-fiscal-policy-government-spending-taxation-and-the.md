@@ -249,6 +249,23 @@ A strong evaluation weighs short-run against long-run effects, equity against ef
 - Assuming that a tax cut and a spending rise of equal size have equal effects.
 - Listing taxes without judging them against a principle.
 
+## Frequently asked questions
+
+**What are the macroeconomic and microeconomic functions of fiscal policy?**
+Macroeconomic functions influence aggregate demand, growth, employment, inflation and the balance of payments. Microeconomic functions change outcomes in particular markets or for particular groups, such as taxing a harmful good.
+
+**What are the three types of public expenditure?**
+Current spending on running services, capital spending on lasting assets such as hospitals and roads, and transfer payments such as pensions and benefits.
+
+**What are the principles of a good tax?**
+Equity, efficiency, certainty and simplicity, low administrative and compliance costs, and flexibility. These principles often conflict.
+
+**Can an indirect tax be regressive?**
+Yes. Poorer households spend a larger share of their income, so a tax on spending such as VAT can take a larger share of a poor household's income than a rich one's.
+
+**How can fiscal policy affect aggregate supply?**
+Capital spending on infrastructure, spending on education, training and health, and tax incentives for work and investment can raise productive capacity and shift LRAS right.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, published by AQA. Sub-section: Fiscal policy (first part).

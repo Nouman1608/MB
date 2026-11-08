@@ -149,6 +149,20 @@ These questions follow the AQA AS and A-level Economics specification, version 1
 - Ignoring time lags in training and R&D policies.
 - Ending with no judgement.
 
+## Frequently asked questions
+
+**Is a supply-side improvement the same as a supply-side policy?**
+No. An improvement is any rise in productive capacity or efficiency, often from the private sector; a policy is a deliberate government action to bring one about.
+
+**Can demand-side policy reduce the natural rate of unemployment?**
+No. The natural rate is changed by supply-side factors; writing that demand-side policy reduces it is a listed mistake.
+
+**What should I remember about the current account in supply-side questions?**
+The current account includes primary income and secondary transfers as well as trade in goods and services.
+
+**What evaluation point is often missed on training and R&D policies?**
+Time lags. Education, training and R&D can take years to raise productivity, so apply the lag to the policy named in the question.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-a-level-economics-supply-side-policies-revision-notes/).

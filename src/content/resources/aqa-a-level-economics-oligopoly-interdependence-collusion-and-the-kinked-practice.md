@@ -133,6 +133,20 @@ These questions cover the Oligopoly sub-section of the AQA A-level Economics spe
 - Describing a cartel without explaining why it may fail.
 - Listing advantages and disadvantages without using the context or reaching a judgement.
 
+## Frequently asked questions
+
+**What is a common mistake when calculating a concentration ratio?**
+Using a single firm's share instead of adding the shares of the n largest firms, or dividing by the wrong total market sales.
+
+**Which section of the kinked demand curve is elastic?**
+The section above the kink is elastic, because rivals do not follow a price rise. Placing the elastic section below the kink is a common error.
+
+**Is the kinked demand curve the theory of oligopoly?**
+No. AQA says to use it only as an illustration of interdependence between firms, not as the whole theory of oligopoly.
+
+**What should an answer on cartels include?**
+Explain why the cartel may fail as well as how it works, since each member has an incentive to cheat on the agreement.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked-revision-notes/) and return to the [study guide](/resources/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked/).

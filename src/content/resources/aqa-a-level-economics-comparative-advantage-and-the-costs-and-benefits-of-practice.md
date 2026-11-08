@@ -125,6 +125,20 @@ These questions cover comparative advantage, the gains from specialisation and t
 - Forgetting to say who bears a cost.
 - Concluding without a judgement.
 
+## Frequently asked questions
+
+**How do I avoid mistakes when working out comparative advantage from hours per unit?**
+Do not compare the hours directly; divide them to get each country's opportunity cost, and check the ratio is the right way round before naming a country.
+
+**What range must a terms-of-trade price fall in for both countries to gain?**
+The exchange price must lie between the two countries' opportunity costs. A price outside that range is a common way to lose marks.
+
+**How do I write about the costs of trade in an AQA answer?**
+Give a chain of reasoning for each cost, use the data in the question and say who bears the cost, then finish with a judgement.
+
+**Which part of the AQA 7136 specification do these questions cover?**
+They cover the first part of section 4.2.6.2 Trade in AQA A-level Economics 7136: comparative advantage and the costs and benefits of international trade.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of-revision-notes/)

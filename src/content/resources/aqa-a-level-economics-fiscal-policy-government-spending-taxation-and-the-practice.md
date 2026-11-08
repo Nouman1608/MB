@@ -124,6 +124,20 @@ The questions below draw on the AQA AS and A-level Economics specification (vers
 - Describing a tax without judging it against a principle.
 - Ending an evaluation without a judgement tied to a condition.
 
+## Frequently asked questions
+
+**How do I show a tax is progressive in a calculation?**
+Compare the average rate of tax, tax paid as a share of income, at different incomes. A rising amount of tax alone does not make a tax progressive.
+
+**What is a common mistake in income tax band calculations?**
+Applying the top rate to the whole income. The higher rate applies only to the slice of income in that band, after any tax-free allowance.
+
+**Is a tax cut the same size injection as an equal rise in government spending?**
+No. Part of a tax cut is saved or spent on imports, so only the part spent at home adds to aggregate demand.
+
+**How should I finish a fiscal policy evaluation?**
+End with a judgement tied to a condition, such as how much spare capacity there is, rather than a summary.
+
 ## Next steps
 
 - Go back over the [revision notes](/resources/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the-revision-notes/) and [study guide](/resources/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the/).

@@ -131,6 +131,20 @@ These questions follow the AQA AS and A-level Economics specification (version 1
 - Writing evaluation as a second list rather than weighing and concluding.
 - Making general points about the environment without tying them to the case.
 
+## Frequently asked questions
+
+**Can a statement be both positive and normative?**
+Yes. A statement such as unemployment is too high, so interest rates should fall mixes a judgement with a recommendation. Calling a mixed statement purely positive or purely normative loses marks.
+
+**How do you work out opportunity cost from a PPD without mistakes?**
+Divide the amount of the good lost by the amount of the other good gained, not the other way round.
+
+**How should I explain rising opportunity cost on a PPD?**
+Explain that resources are not equally suited to both uses, so moving more of them into one good gives up increasing amounts of the other.
+
+**Which part of the AQA specification does this practice cover?**
+It covers section 3.1.1 of AQA A-level Economics 7136: economic methodology, the purpose of economic activity, resources, scarcity and production possibility diagrams.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production-revision-notes/) or reread the [study guide](/resources/aqa-a-level-economics-economic-methodology-scarcity-resources-and-production/).

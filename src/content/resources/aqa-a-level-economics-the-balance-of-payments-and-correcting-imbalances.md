@@ -203,6 +203,23 @@ Every deficit has a matching surplus somewhere. If a major deficit economy corre
 - Forgetting that expenditure-reducing policies hurt growth and employment.
 - Giving evaluation without judging size, cause or financing.
 
+## Frequently asked questions
+
+**What are the three accounts of the balance of payments?**
+The current account records trade in goods and services plus income flows, the capital account records small items such as capital transfers, and the financial account records investment and lending flows.
+
+**What are the components of the current account?**
+Trade in goods, trade in services, primary income and secondary income. AQA 7136 requires detailed knowledge of the current account only.
+
+**What is the J-curve?**
+Elasticities of demand for exports and imports are low in the short run, so after a depreciation the current account may worsen first and improve later as volumes respond.
+
+**What is the difference between FDI and portfolio investment?**
+FDI gives a lasting interest and control, such as building a factory, and is hard to reverse quickly. Portfolio investment buys shares and bonds for a return and can leave fast.
+
+**What factors influence the current account balance?**
+Productivity and unit costs, relative inflation, the exchange rate and elasticities, relative growth in incomes, and non-price competitiveness.
+
 ## Official syllabus
 
 AQA AS and A-level Economics (7135 and 7136), for first teaching from September 2015, version 1.3, 29 June 2022, published by AQA.
