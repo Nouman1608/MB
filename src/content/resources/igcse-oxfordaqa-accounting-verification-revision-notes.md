@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on trial balances, control accounts, bank reconciliation and error correction for OxfordAQA International GCSE Accounting Topic 2 (9215)."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -180,3 +182,20 @@ compensating, omission, original entry or principle). 5. An error in a
 revenue or expense account (e.g. sales understated) changes profit; an
 error confined to two balance-sheet accounts (e.g. one asset
 misclassified as another) leaves profit unchanged.
+
+## Frequently asked questions
+
+**Which four errors does a trial balance reveal?**
+Addition errors, partial omission, transposition and unequal posting all make the debit and credit totals differ, so the trial balance shows them. The six errors it cannot reveal are commission, complete reversal, compensating, omission, original entry and principle.
+
+**Is a control account a replacement for the individual ledger accounts?**
+No. A control account is a memorandum total that summarises the customer or supplier accounts, and its job is to help catch errors in them, not to replace them.
+
+**Can a supplier's account have a debit balance?**
+Yes. A debit balance in the payables ledger can occur when a supplier has been overpaid or goods are returned after payment. Such balances should be shown, not silently left out, when a control account is prepared.
+
+**In what order should I answer a full error-correction question?**
+Identify the error type, decide whether a suspense account is needed, write the correcting journal entry, then state the effect on the suspense account and on reported profit. Skipping the classification step is the most common reason marks are lost in OxfordAQA International GCSE Accounting 9215.
+
+**Which comes first in a bank reconciliation?**
+Update the cash book first for items the bank already knows about but the business has not recorded, such as bank charges, credit transfers and direct debits. Then reconcile the updated balance with the bank statement.

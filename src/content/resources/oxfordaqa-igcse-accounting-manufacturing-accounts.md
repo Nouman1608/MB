@@ -265,6 +265,23 @@ A comment needs a figure, a comparison and a reason. State that a limit applies:
 - Forgetting that goods taken for own use are deducted from cost of sales and added to drawings.
 - Showing only one inventories line in the statement of financial position.
 
+## Frequently asked questions
+
+**What is prime cost in OxfordAQA International GCSE Accounting 9215?**
+Prime cost is the cost of the materials used in the goods plus the wages of the people who make them. Carriage inwards on raw materials is part of the materials cost; carriage outwards is a selling cost.
+
+**How do you calculate the factory cost of finished goods?**
+Factory cost of finished goods = prime cost + overheads. It is the cost of the goods completed in the year, and it replaces purchases in the manufacturer's cost of sales.
+
+**What are factory overheads?**
+Factory overheads are the costs of running the factory that cannot be traced to one unit of output, such as indirect wages for supervisors and cleaners, factory power, insurance, rent and rates, and depreciation of machinery.
+
+**How are a manufacturer's inventories shown in the statement of financial position?**
+Inventories are shown in two lines, raw materials and finished goods, both as current assets at the closing date.
+
+**How should I comment on a manufacturer's results?**
+Work from figures you can calculate, such as overheads as a share of prime cost, and give a figure, a comparison and a reason. One year of figures alone cannot show a trend.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), version 1.2, for exams from May/June 2026, published by OxfordAQA. This guide covers the manufacturing organisations content of section 3.4.

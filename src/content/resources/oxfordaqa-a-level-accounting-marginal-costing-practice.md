@@ -202,6 +202,20 @@ Contribution = 28,800 + 21,600 + 23,400 = 73,800 [1]; profit = 73,800 − 52,000
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on marginal costing decision questions?**
+Comparing a bought-in price with full cost instead of marginal cost, forgetting regular sales that are displaced once spare capacity runs out, and ranking products by contribution per unit when a limiting factor applies.
+
+**Which paper assesses marginal costing in OxfordAQA International AS and A-level Accounting 9615?**
+Section 3.1.10 Marginal costing is International AS content assessed on Paper 2.
+
+**What should I include when a question asks me to recommend a decision?**
+Base the recommendation on the change in contribution and in any fixed costs that would genuinely change, and include relevant non-financial factors. Finish with a clear decision.
+
+**How should I value closing inventory in a marginal costing income statement?**
+Value closing inventory at marginal cost, without any share of fixed overheads. Adding fixed overheads turns it into an absorption costing valuation.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards (OxfordAQA). Section 3.1.10 Marginal costing.

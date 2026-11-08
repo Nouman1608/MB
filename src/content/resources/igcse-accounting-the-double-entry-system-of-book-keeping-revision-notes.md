@@ -265,6 +265,23 @@ All amounts are in dollars.
 
 Work through the [practice questions](/resources/igcse-accounting-the-double-entry-system-of-book-keeping-practice/), try the free 10-minute [diagnostics](/diagnostics/), and read the Topic 2 [overview revision notes](/resources/igcse-accounting-sources-recording-revision-notes/) for documents and books of prime entry.
 
+## Frequently asked questions
+
+**Which accounts are debited when they increase in Cambridge IGCSE Accounting?**
+Assets, expenses and drawings are debited when they rise; liabilities, capital and income are credited when they rise. Debit does not mean bad and credit does not mean good: they are just the two sides of an account.
+
+**Which side are returns accounts recorded on?**
+Returns accounts take the opposite side to the account they reduce. Sales returns are debited, like an expense, and purchases returns are credited, like income.
+
+**What is the difference between carrying a balance down and transferring it?**
+Carrying a balance down (balance c/d) keeps it in the account for the next period, as with assets, liabilities and capital. A transfer to the statement of profit or loss closes an income or expense account to nil at the year end.
+
+**What does a debit balance on a supplier's account mean?**
+It means the supplier owes the business money, for example after an overpayment. Normally a supplier's account has a credit balance, showing that the business owes the supplier.
+
+**Is a running balance account a different double entry from a two-sided account?**
+No. The layout differs, with a balance worked out after every line, but the debits and credits are exactly the same. When the balance is a debit, add debits and subtract credits; when it is a credit, do the reverse.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), Cambridge University Press and Assessment, section 2.1.

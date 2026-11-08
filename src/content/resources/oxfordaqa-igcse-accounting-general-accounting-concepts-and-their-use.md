@@ -216,6 +216,23 @@ If trade receivables are 12,000 and the business estimates that 5% may not pay, 
 5. Treating prudence as permission to understate profit. It requires caution, not bias.
 6. Calling depreciation a way of saving money for replacement. It is an expense with no cash movement.
 
+## Frequently asked questions
+
+**What is the business entity concept?**
+The owner and the business are treated as two different parties for accounting, so only the business's own dealings are recorded. Paying the owner's private bills from the business is drawings, not an expense.
+
+**What does the prudence concept mean?**
+Do not overstate profit or assets and do not understate expenses or liabilities; recognise losses as soon as they are foreseen. Prudence requires caution, not bias, so it is not permission to understate profit.
+
+**When is revenue recognised under the realisation concept?**
+Revenue is recognised when the goods are delivered or the service is performed and the customer becomes liable to pay, not when the order is placed and not necessarily when the cash arrives.
+
+**What is the difference between accruals and prudence?**
+Matching an expense or income to the right year is accruals. Writing down inventory to net realisable value or providing for doubtful debts is prudence.
+
+**What makes an item material?**
+An item is material when a mistake in it, or its omission, could alter what a reader of the statements decides. Trivial items are treated in the simplest way, such as expensing a cheap stapler at once instead of depreciating it.
+
 ## Official syllabus
 
 Source: OxfordAQA International GCSE Accounting (9215), specification version 1.2, for exams from May/June 2026 onwards, section 3.3 Development of the accounting model (general accounting concepts and their use).

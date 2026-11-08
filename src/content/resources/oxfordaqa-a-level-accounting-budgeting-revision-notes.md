@@ -248,6 +248,23 @@ output to meet the extra sales. The right action depends on the cause, so invest
 - Unbalanced budgeted statement of financial position because drawings were missed.
 - Listing benefits of ZBB with no limitation and no judgement in an "evaluate" answer.
 
+## Frequently asked questions
+
+**In what order are budgets prepared?**
+Sales first, then production, then materials usage, purchases and labour, then the cash budget, and finally the budgeted income statement and statement of financial position.
+
+**How do you calculate the production budget in units?**
+Production = budgeted sales + closing inventory of finished goods − opening inventory of finished goods. For example, sales of 900 with 120 at the start and 150 wanted at the end gives production of 930 units.
+
+**What is the difference between incremental and zero-based budgeting?**
+Incremental budgeting starts from the previous period's figure and adjusts it, which is quick and cheap but carries past waste forward. Zero-based budgeting starts every budget from nil and challenges every item, which is slower and costlier and suits discretionary costs such as marketing or training.
+
+**Does depreciation go in a cash budget?**
+No. Depreciation and irrecoverable debts involve no cash, so they are left out of the cash budget but included in the budgeted income statement. Asset purchases, loans, drawings and capital introduced go in the cash budget.
+
+**What are the purposes of budgeting in OxfordAQA 9615?**
+Planning, co-ordination, communication, control, motivation and responsibility. For an explain mark, name the purpose and link it to a consequence, such as the purchases budget being based on planned production so materials arrive when needed.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International

@@ -301,6 +301,23 @@ ABC profit is highest because each unsold Botanical case holds 23.50 of overhead
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-accounting-absorption-and-activity-based-costing-practice/), or skim the [revision notes](/resources/oxfordaqa-a-level-accounting-absorption-and-activity-based-costing-revision-notes/).
 
+## Frequently asked questions
+
+**What is a cost driver in activity based costing?**
+A cost driver is the factor whose quantity makes the cost of an activity's pool change, such as the number of line changeovers. The driver rate is the pool cost divided by the total driver quantity.
+
+**How do you choose a basis for an overhead absorption rate?**
+Use machine hours for machine-led departments, direct labour hours for departments doing hand work, and units only if every unit is identical. The rate is fixed before the year starts, from budgeted figures.
+
+**Why can absorption costing hide a loss on a product?**
+A single labour-hour or machine-hour rate assumes overheads rise with volume, so costs caused by small batches are spread over high-volume products. Activity based costing charges those costs to the products that cause them, which can show that a price is below the true cost.
+
+**How is closing inventory valued under marginal costing compared with absorption costing?**
+Marginal costing values closing inventory at variable production cost and writes off fixed production overheads in full in the period. Absorption costing includes a share of fixed production overheads in the inventory value, so profit differs when inventory levels change.
+
+**Which part of the OxfordAQA International A-level Accounting 9615 specification is this?**
+Section 3.2.2 Absorption and activity based costing, which covers overhead analysis, absorption rates, activity based costing cost pools, pricing and comparing the methods.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards (OxfordAQA). Section 3.2.2 Absorption and activity based costing.

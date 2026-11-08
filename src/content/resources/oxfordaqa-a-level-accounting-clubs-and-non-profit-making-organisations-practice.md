@@ -205,6 +205,20 @@ Non-current assets [1]; current assets [1]; fund plus donation [1]; less deficit
 - Track the course with the [printable checklist](/checklists/oxfordaqa/a-level/accounting/) plus the [hub page](/boards/oxfordaqa/a-level/accounting/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on club accounts questions?**
+Common losses are taking cash received for subscriptions as the year's income, placing arrears or advance balances on the wrong side of the subscriptions account, and using supplier payments as bar purchases without adjusting for payables.
+
+**What should I remember when calculating a club's accumulated fund?**
+Include every asset and liability, including the life membership fund and any overdraft. Forgetting either of these is a common mistake.
+
+**How should I show the purchases figure for a bar or café?**
+Show the working that adjusts supplier payments for the amounts owed at the start and end of the year. Using the payments figure on its own as purchases loses marks.
+
+**How do I answer an evaluate question on club finances in OxfordAQA 9615?**
+Use figures from the club's accounts to support each point and finish with a clear final judgement. Evaluations without figures or without a judgement lose marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

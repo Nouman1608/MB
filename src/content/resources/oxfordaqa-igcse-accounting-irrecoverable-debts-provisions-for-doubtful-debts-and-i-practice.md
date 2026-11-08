@@ -139,6 +139,20 @@ Opening inventory 7,200 transferred to the income statement on the credit side [
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on irrecoverable debts and provision questions?**
+Common losses are reversing the write-off entry, calculating the provision before writing off the irrecoverable debt, charging the full provision instead of the change, and treating a decrease in the provision as an expense.
+
+**What mistakes are common with inventory valuation in this topic?**
+Using net realisable value when it is higher than cost, forgetting repair or selling costs when calculating net realisable value, and adding closing inventory into expenses rather than deducting it in cost of sales.
+
+**How should I answer a question asking me to explain a concept behind an adjustment?**
+Name the concept and link it to the adjustment in the question. Defining the concept without that link loses marks.
+
+**Which part of the 9215 specification do these questions cover?**
+Part of section 3.3 of OxfordAQA International GCSE Accounting 9215: irrecoverable debts, provisions for doubtful debts, and opening and closing inventory.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, for exams from May/June 2026 onwards, published by OxfordAQA. These questions cover part of section 3.3.

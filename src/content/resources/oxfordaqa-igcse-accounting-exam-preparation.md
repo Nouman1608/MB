@@ -9,13 +9,15 @@ qualifications: ["igcse"]
 syllabusCodes: ["9215"]
 syllabusSeries: "First teaching 2024, first examined 2026"
 order: 3
-description: "How OxfordAQA International GCSE Accounting 9215's two equally weighted papers divide book-keeping from financial statements, why the qualification has no coursework, and a worked own-figure routine."
+description: "How OxfordAQA International GCSE Accounting 9215's two 75-mark papers fit together, why there is no coursework, and a worked own-figure exam routine."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 OxfordAQA International GCSE Accounting (9215) is a linear, untiered qualification assessed entirely
@@ -130,6 +132,23 @@ practice rather than relying on accuracy achieved at leisure. 3. Because the exa
 template, and headings, dates, ordering and referenced workings are creditable in their own right.
 4. Applying it in one statement and forgetting the corresponding effect in the other -- every
 adjustment has two sides.
+
+## Frequently asked questions
+
+**How is OxfordAQA International GCSE Accounting 9215 assessed?**
+Entirely by examination, with no coursework. Paper 1 (Introduction to Book-keeping and Financial Accounting) and Paper 2 (Financial Statements) each last 1 hour 45 minutes, carry 75 marks and are worth 50%.
+
+**How long do I have per mark in 9215 Accounting?**
+Seventy-five marks in 105 minutes is about 1.4 minutes per mark, so rehearse statement layouts until producing them is mechanical.
+
+**What is the own-figure rule?**
+Where a later part of a question uses a figure calculated earlier, a wrong earlier figure carried forward correctly normally still earns method marks. State the figure you are carrying and continue rather than abandoning the question.
+
+**How do command words change what an answer needs?**
+State asks for a figure, calculate for a figure with visible method, explain for a figure with its business meaning, and evaluate for a judgement between alternatives. Check each practice answer against its command word before its content.
+
+**When was the 9215 specification first examined?**
+First teaching was September 2024 and the qualification was first examined in May/June 2026.
 
 *Written against the assessment section of OxfordAQA's own International GCSE Accounting (9215)
 qualification page (official OxfordAQA page, verified 2026-08-28). The adjustment routine above is an

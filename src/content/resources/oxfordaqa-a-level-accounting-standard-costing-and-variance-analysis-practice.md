@@ -224,6 +224,20 @@ net total of related variances or on overall profit, with quality checks and reg
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on variance analysis questions?**
+Common losses are basing standard kilograms or standard hours on the budgeted output level instead of actual output, putting actual prices or pay rates into the usage or efficiency formula, and leaving variances unlabelled.
+
+**How should the sales volume variance be valued?**
+At standard contribution per unit, not at selling price. Valuing lost or extra sales at selling price is a common mistake.
+
+**What should I check in a profit or cost reconciliation?**
+In a profit reconciliation, favourable variances are added to budgeted profit and adverse ones deducted. In a cost reconciliation, include the volume adjustment before adding the variances.
+
+**How do I finish an evaluation on standard costing in OxfordAQA 9615?**
+Weigh the arguments using the figures in the question and end with a clear final judgement. Evaluations with no judgement lose marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

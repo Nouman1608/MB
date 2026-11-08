@@ -297,6 +297,23 @@ The specification expects limitations relating to both financial and non-financi
 
 Then move on to the [revision notes](/resources/oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information-practice/). The [exam preparation guide](/resources/oxfordaqa-a-level-accounting-exam-preparation/) outlines the papers.
 
+## Frequently asked questions
+
+**What are the four areas used to appraise performance in OxfordAQA 9615?**
+Profitability, liquidity, efficiency and capital structure. Set this year against last year for each area and explain what caused each change.
+
+**Why are receivable days calculated using credit sales?**
+Only credit sales create trade receivables, so cash sales are left out. Using total revenue when cash sales are given separately understates the receivable days.
+
+**How is ROCE calculated for a limited company?**
+Use profit from operations (before interest and tax) and divide by capital employed, which is equity plus non-current liabilities, then multiply by 100.
+
+**What are the limitations of ratio analysis?**
+Financial limitations include historic figures, no adjustment for inflation and different accounting policies between firms. Non-financial factors such as staff skill, management quality, reputation and market changes are not recorded at all.
+
+**Which section of the 9615 specification covers investors' ratios?**
+Section 3.2.9, which is International A-level only, returns to this material and adds investors' ratios such as earnings per share. Section 3.1.8 covers the core ratios.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.1.8, Analysis and evaluation of financial information. Ratio formulae from the OxfordAQA guide *Formulae for accounting ratios*.

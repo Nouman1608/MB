@@ -201,6 +201,22 @@ Only error 1 used suspense. Errors 2 and 3 are omissions, which a trial balance 
   <figcaption>A reversed entry must be cancelled and then entered correctly, so the journal uses double the figure.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How many error types are in OxfordAQA International GCSE Accounting 9215?**
+Ten. Six are not revealed by a trial balance (commission, principle, original entry, omission, complete reversal and compensating), and four are revealed: addition, partial omission, transposition and unequal posting.
+
+**What is the difference between a transposition error and an error of original entry?**
+If only one side carries the swapped digits, the trial balance disagrees and it is a transposition. If both sides carry them, the trial balance agrees and it is an error of original entry.
+
+**Which side does the suspense account balance go on?**
+Put the difference on the smaller side of the trial balance. If credits exceed debits, the suspense account has a debit balance.
+
+**What is the difference between a compensating error and an error of original entry?**
+A compensating error involves two separate mistakes in different accounts that cancel out. An error of original entry is one mistake carried through both sides of the entry.
+
+**Does an error in sales or purchases affect gross profit?**
+Yes. A sales or purchases error moves gross profit and profit for the year by an equal amount, while an expense error alters profit for the year only.
 
 ## Official syllabus
 

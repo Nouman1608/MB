@@ -257,6 +257,23 @@ the income statement credited, so profit on manufacture is shown **plus** 780.
 - Mislabelling totals: write "prime cost" and "factory cost of finished goods" in full.
 - Comments that never use a cost per unit or a market price, or never reach a decision.
 
+## Frequently asked questions
+
+**What is the difference between direct and indirect labour in a manufacturing account?**
+Operators who make the product are direct labour and part of prime cost. Supervisors, cleaners and maintenance staff are indirect, so their wages are factory overheads.
+
+**Where does carriage go in a manufacturing account?**
+Carriage inwards on raw materials goes in prime cost as part of direct materials consumed. Carriage outwards is a distribution expense in the income statement.
+
+**How is the provision for unrealised profit recorded?**
+It has its own ledger account with a credit balance. An increase is debited to the income statement and credited to the provision; a decrease is debited to the provision and credited to the income statement.
+
+**Where does the work in progress adjustment go?**
+Add opening work in progress and deduct closing work in progress after prime cost and factory overheads, to reach the factory cost of finished goods. Placing the adjustment above prime cost is a common mistake.
+
+**Does profit on manufacture increase total profit?**
+No. Profit on manufacture moves profit between the factory and selling, and the provision for unrealised profit removes any profit on goods that are still unsold.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

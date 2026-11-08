@@ -224,6 +224,22 @@ When asked why profit and cash differ, name the transactions in the question and
   <figcaption>The margin fell but profit share rose because expenses were cut.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between gross profit margin and markup?**
+Margin divides gross profit by revenue, while markup divides gross profit by cost of sales. For the same trading, markup is always the larger figure.
+
+**How do you convert a margin into a markup?**
+Markup = margin / (100 − margin) × 100, and margin = markup / (100 + markup) × 100. For example, a 40% margin is a 66.7% markup.
+
+**What is the difference between the current ratio and the liquid capital ratio?**
+The current ratio includes inventory in current assets; the liquid capital ratio leaves it out.
+
+**Why can a business make a profit but have less cash?**
+Profit is not cash. Credit sales raise profit before cash arrives, depreciation lowers profit without using cash, and buying equipment, repaying loans and drawings lower cash without lowering profit.
+
+**Where are the 9215 ratio formulae published?**
+The specification says the formulae are in an OxfordAQA guide called Formulae for accounting ratios.
 
 ## Official syllabus
 

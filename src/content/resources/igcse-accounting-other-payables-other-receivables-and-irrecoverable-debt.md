@@ -368,6 +368,23 @@ Net charge to profit                        1,229
 - Calculating the percentage before the irrecoverable debts are written off.
 - Treating a decrease in the allowance as an expense. It is income.
 
+## Frequently asked questions
+
+**What is the difference between an accrued expense and a prepaid expense?**
+An accrued expense has been used but not yet paid at the year end, so it is added to the expense and shown as an other payable (a current liability with a credit balance). A prepaid expense has been paid but benefits the next year, so it is deducted from the expense and shown as an other receivable (a current asset with a debit balance).
+
+**How do you work out the expense for the year when amounts are owing?**
+Take the cash paid, subtract the amount owing at the start of the year (last year's cost) and add the amount owing at the end of the year. The figure that makes the ledger account balance is the amount transferred to the statement of profit or loss.
+
+**How do you record an irrecoverable debt in Cambridge IGCSE Accounting 0452?**
+Debit the irrecoverable debts account and credit the customer's account, then transfer the irrecoverable debts to the statement of profit or loss as an expense. Sales are not reduced, because the sale was already recorded as revenue.
+
+**How do you record a debt that was written off and is later paid?**
+First reinstate the debt (debit the customer, credit irrecoverable debts recovered), then record the money received (debit bank, credit the customer). The recovery is income of the year in which it is received.
+
+**How much of the allowance for irrecoverable debts goes to the statement of profit or loss?**
+Only the change in the allowance: an increase is an expense and a decrease is income. The full allowance, calculated as a percentage of trade receivables after known irrecoverable debts are written off, is deducted from trade receivables in the statement of financial position.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge University Press and Assessment (Cambridge International), sections 4.3 and 4.4.

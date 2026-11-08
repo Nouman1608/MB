@@ -253,6 +253,20 @@ Accounting software can keep the sales ledger, purchases ledger and nominal ledg
 
 Condense this into the [revision notes](/resources/igcse-accounting-the-double-entry-system-of-book-keeping-revision-notes/), then test yourself with the [practice questions](/resources/igcse-accounting-the-double-entry-system-of-book-keeping-practice/) and the free 10-minute [diagnostics](/diagnostics/). The Topic 2 [practice questions](/resources/igcse-accounting-sources-recording-practice/) and [revision notes](/resources/igcse-accounting-sources-recording-revision-notes/) cover the whole topic.
 
+## Frequently asked questions
+
+**How do you decide which account to debit and which to credit?**
+Ask three questions: which two accounts change, what type of account each one is, and whether each is increasing or decreasing. The answers, with the debit and credit rules, give the entry.
+
+**Why is a payment to a supplier debited in the supplier's account?**
+The supplier's account is a liability, and paying the supplier reduces that liability, so the entry goes on the debit side. A return by a customer is credited in the customer's account for the same reason, because the asset falls.
+
+**What happens to income and expense accounts at the end of the year?**
+They are closed by transferring their balances to the statement of profit or loss. Asset, liability and capital accounts are instead balanced and carried down to the next period.
+
+**Which ledger is each account kept in for Cambridge IGCSE Accounting 0452?**
+Customers' accounts are kept in the sales ledger, suppliers' accounts in the purchases ledger, and all other accounts, such as assets, expenses, income and capital, in the nominal (general) ledger.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), Cambridge University Press and Assessment, section 2.1.

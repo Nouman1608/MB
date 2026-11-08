@@ -344,6 +344,23 @@ Test each point against the business in the question, then reach a decision.
 - Balancing the bank account on the closing balance when the statement already gives it.
 - Charging depreciation on an asset in its year of sale, against the stated policy.
 
+## Frequently asked questions
+
+**What is a statement of affairs?**
+A statement of affairs sets out what a business owns and owes at one date, valued from counts, invoices and estimates when there is no full set of ledger accounts. Capital is assets minus liabilities.
+
+**What counts as drawings in incomplete records?**
+Drawings include cash, private cheques and goods taken from the business for the owner's own use. Leaving goods taken for own use out of drawings is a common error.
+
+**Where does a loan from a relative go in a statement of affairs?**
+It is a liability, like a bank overdraft. Listing either of them anywhere other than liabilities is a common error.
+
+**How is average inventory calculated for inventory turnover?**
+Average inventory is normally the opening inventory plus the closing inventory, divided by two. The ratios used in OxfordAQA 9615 section 3.2.4 are defined in section 3.1.8 and the OxfordAQA guide Formulae for accounting ratios.
+
+**What currency do OxfordAQA 9615 question papers use?**
+The specification says question papers use the US dollar ($), so the amounts in this guide are in dollars.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

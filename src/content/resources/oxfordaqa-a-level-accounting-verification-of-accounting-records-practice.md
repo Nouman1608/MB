@@ -252,6 +252,20 @@ Judgement: the owner is wrong; the trial balance is a necessary but limited chec
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on verification of accounting records questions?**
+Common losses are opening the suspense account on the wrong side, putting commission, principle or drawings errors through suspense, and journalising a complete reversal for the original amount only.
+
+**What mistakes are common with control accounts?**
+Including cash sales or provisions in a control account, and netting credit balances in the receivables ledger against debit balances. Both balances should be shown separately.
+
+**What should I include when stating the effect of an error on profit?**
+Give the direction and the amount, and name the statement of financial position item affected. Do not change profit for an error that affects only a personal account.
+
+**Which part of OxfordAQA International AS and A-level Accounting 9615 do these questions cover?**
+Section 3.1.4 Verification of accounting records, covering error types, journals and suspense accounts, control accounts, bank reconciliation and the effect of errors.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International

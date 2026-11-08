@@ -267,6 +267,23 @@ Adjusted net profit is 18,640. The net change is +190, from -640 + 1,100 + 210 -
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in-practice/) and keep the [revision notes](/resources/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in-revision-notes/) to hand. The [diagnostics](/diagnostics/) are a quick way to check what you still need to revise.
 
+## Frequently asked questions
+
+**What are other payables?**
+Other payables arise when a business has used something in the year but has not yet paid for it, such as electricity owing at the year end. They are current liabilities.
+
+**What are other receivables?**
+Other receivables arise when a business has paid for something it will use in a later period, such as insurance paid in advance. They are current assets.
+
+**How do you work out a prepaid amount from dates?**
+Count the months used in the year and the months left. For example, an annual licence of 1,800 with 9 months used in the year gives a charge of 1,350 and an other receivable of 450.
+
+**How do you calculate income for the year when some was received in advance?**
+Income = cash received + amount received in advance at the start − amount received in advance at the end. The closing amount is a liability, because the business still owes the customer a service.
+
+**How does each adjustment affect the financial statements?**
+Each adjustment appears twice: once in the income statement, at the adjusted expense or income figure, and once as a current asset or current liability in the statement of financial position.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for teaching from September 2024 and exams from May/June 2026, published by OxfordAQA. Subject content section 3.3 (Development of the accounting model), with the related list in section 3.4.

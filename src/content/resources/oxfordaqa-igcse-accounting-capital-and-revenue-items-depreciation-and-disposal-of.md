@@ -290,6 +290,23 @@ Post the 400 charge to the provision before you open the disposal account.
 - Treating sale proceeds as sales income.
 - Showing the asset at cost in the statement of financial position with no provision.
 
+## Frequently asked questions
+
+**Are delivery and installation costs capital expenditure?**
+Yes. Costs needed to get an asset ready for use, such as delivery, installation and legal fees, count as capital expenditure and are added to the cost of the asset.
+
+**What happens to profit if capital expenditure is treated as revenue?**
+Treating a capital item as revenue expenditure lowers profit and understates assets. Treating a revenue item as capital does the opposite.
+
+**How is reducing balance depreciation calculated?**
+A fixed percentage is applied each year to the net book value at the start of that year, so the charge is largest in the first year and falls each year after.
+
+**How do you find the profit or loss on disposal?**
+Profit or loss = sale proceeds − net book value at the date of sale. In the disposal account, if the credits are less than the debit the balancing figure on the credit side is a loss; if they are more, the balancing figure on the debit side is a profit.
+
+**Why is the asset kept at cost with a separate provision for depreciation?**
+The asset account stays at cost and the provision for depreciation account builds up the total depreciation to date. The statement of financial position then shows cost, less the provision, giving net book value.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, first teaching 2024, first examined 2026, published by OxfordAQA. Section 3.3, Development of the accounting model.

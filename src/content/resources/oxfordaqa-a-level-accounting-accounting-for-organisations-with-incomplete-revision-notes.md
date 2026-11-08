@@ -247,6 +247,23 @@ deducted from the amount paid; a prepayment at the start belongs to this year, s
 - Not reporting a loss clearly when the capital method gives a negative figure.
 - Writing generic points about record keeping in an evaluation instead of linking them to the business described.
 
+## Frequently asked questions
+
+**How do you calculate profit using the capital method?**
+Profit = closing capital − opening capital + drawings − capital introduced. Drawings include goods taken for own use, and capital introduced is deducted, not added.
+
+**What is the difference between markup and margin?**
+Markup is gross profit as a percentage of cost, and margin is gross profit as a percentage of revenue. For the same figures, markup is always the larger percentage.
+
+**How do you find cost of sales from revenue and a markup?**
+Cost of sales = revenue × 100 / (100 + markup). For example, revenue of 57,500 at a markup of 15% gives cost of sales of 50,000.
+
+**What is the difference between a statement of affairs and a statement of financial position?**
+They have the same layout but a different source. A statement of affairs is built from valuations and lists when there is no full ledger, while a statement of financial position comes from ledger balances.
+
+**How do you find a missing figure from a total account?**
+Write the opening balance on its normal side (receivables debit, payables credit), enter every known item on its correct side, and the balancing figure is the missing amount, such as credit sales or credit purchases.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

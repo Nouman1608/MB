@@ -148,6 +148,20 @@ Both opening balances correct [1]; bank and returns credited [1]; contra and irr
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on incomplete records questions?**
+Common losses are treating an overdraft or a loan as an asset in a statement of affairs, missing credit balances in the receivables ledger, using revenue in place of cost of sales in inventory turnover, and applying a markup to revenue as if it were a margin.
+
+**What should I do if the capital method gives a negative figure?**
+Label it clearly as a loss. Calling a negative result profit, or leaving it unlabelled, loses marks.
+
+**How should I set out a markup or margin conversion?**
+Show the fraction you used before the percentage: a bare percentage that is wrong leaves nothing to reward. Remember that markup is based on cost and margin on revenue.
+
+**How do I write a good evaluation on incomplete records in OxfordAQA 9615?**
+Test each point against the business described in the question and reach a judgement about it. Evaluations that list general points and never reach a judgement lose marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

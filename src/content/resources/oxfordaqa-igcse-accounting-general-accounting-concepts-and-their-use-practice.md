@@ -169,6 +169,20 @@ Asset at cost on the debit side [1], depreciation to date on the credit side [1]
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on accounting concepts questions in OxfordAQA 9215?**
+Common losses are defining a concept without applying it to the facts given, naming accruals when the situation calls for prudence or the reverse, and valuing inventory as one total or forgetting selling and repair costs.
+
+**How do I get the marks for naming a concept?**
+Name the concept and apply it to the facts in the question, saying what it means for the figure being recorded or valued. A definition on its own earns little.
+
+**What calculation mistakes are common in this topic?**
+Taking the reducing balance percentage of original cost each year, taking the provision percentage before deducting irrecoverable debts, and putting an accrued expense on the wrong side of the ledger account.
+
+**Which section of the 9215 specification do these questions cover?**
+Section 3.3 of OxfordAQA International GCSE Accounting 9215, the general accounting concepts and their use.
+
 ## Official syllabus
 
 Source: OxfordAQA International GCSE Accounting (9215), specification version 1.2, for exams from May/June 2026 onwards, section 3.3 Development of the accounting model (general accounting concepts and their use).

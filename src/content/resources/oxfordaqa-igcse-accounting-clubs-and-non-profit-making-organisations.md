@@ -268,6 +268,23 @@ The specification asks you to comment as well as prepare. Good comments use the 
 
 Work through the [revision notes](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations-practice/). Return to the [course hub](/boards/oxfordaqa/igcse/accounting/) to choose your next topic.
 
+## Frequently asked questions
+
+**Why do clubs not have profit and capital?**
+A club exists to provide a service to its members, not to make a profit for an owner. A surplus or deficit replaces profit or loss, and the accumulated fund replaces capital.
+
+**What is a receipts and payments account?**
+A summary of the cash book, starting with the opening cash and bank balance, listing receipts and payments, and ending with the closing balance. It does not show whether the club did well: a big equipment purchase can make payments look huge, while unpaid bills do not appear at all.
+
+**How is the opening accumulated fund calculated?**
+If it is not given, it is a balancing figure: opening assets minus opening liabilities, including subscriptions owing and in advance.
+
+**Do equipment purchases appear in the income and expenditure account?**
+No. Equipment bought and sale proceeds appear in the receipts and payments account but not in the income and expenditure account, which shows only depreciation and any profit or loss on disposal.
+
+**How should I comment on a club's statements in OxfordAQA 9215?**
+Use the figures and name a consequence, for example by stating the surplus or deficit against the club's income and saying what it means for the club.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), version 1.2, for International GCSE exams May/June 2026 onwards, section 3.4 Preparation of financial statements (clubs and non-profit making organisations), published by OxfordAQA.

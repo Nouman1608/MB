@@ -121,6 +121,20 @@ These questions are aligned to the OxfordAQA International GCSE Accounting (9215
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on incomplete records questions in OxfordAQA 9215?**
+Common losses are adding capital introduced to profit instead of deducting it, deducting drawings instead of adding them back, and quoting closing capital as profit without subtracting opening capital.
+
+**What should I check in a totals account question?**
+Include the opening balances and every item that affects the account, such as returns, discounts and irrecoverable debts. Leaving any of them out gives the wrong credit sales or purchases figure.
+
+**Should I say whether the answer is a profit or a loss?**
+Yes. Always label the result as a profit or a loss. Leaving it unlabelled loses marks.
+
+**How should I comment on single entry and double entry systems?**
+Link each point to the business in the question, such as its number of credit customers. Generic comments, or saying double entry means there are no errors, lose marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, for International GCSE exams May/June 2026 onwards (OxfordAQA). Section 3.4, Preparation of financial statements: accounting for organisations with incomplete records.

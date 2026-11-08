@@ -204,6 +204,20 @@ Corrected balance                              2,040   [1]
 - Take the [free diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on bank reconciliation questions?**
+Common losses are reconciling to the old cash book balance rather than the updated one, losing the sign on an overdraft, and leaving out the heading, date or labels on the statement.
+
+**How should I set out a bank reconciliation statement in OxfordAQA International GCSE Accounting 9215?**
+Give it a heading with a date and label every line, including the closing figure. A column of bare numbers is harder to follow and may lose credit, because marks can be given for the heading and labels as well as the figures.
+
+**How do I show an overdraft in my answer?**
+Keep the sign or label on every overdrawn balance and say clearly that the result is an overdraft. An unlabelled figure leaves the examiner unable to tell which balance you intended.
+
+**How should I answer an explain question on bank reconciliation?**
+Give each point with a reason attached. A list of names with no explanation does not earn the explain marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for International GCSE exams May/June 2026 onwards, published by OxfordAQA. Section 3.2, Verification of accounting records.

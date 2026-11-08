@@ -300,6 +300,23 @@ the buyer and the production supervisor should agree a grade together.
 - Treating a favourable variance as proof of good management without checking its knock-on effects.
 - In a cost reconciliation, starting from the original budget and skipping the volume adjustment.
 
+## Frequently asked questions
+
+**What is a standard cost?**
+A standard cost is the planned cost of making one unit, fixed before production starts from the quantities and prices the business expects. Variance analysis compares actual results with those standards.
+
+**Which variances are in OxfordAQA International A-level Accounting 9615 section 3.2.1?**
+Six variances: materials price and usage, labour rate and efficiency, and sales price and volume. Overhead variances are not listed in the specification.
+
+**Why are quantity variances priced at standard?**
+Usage and efficiency variances measure the effect of using more or less material or time than the standard, so the quantity difference is always priced at the standard price or rate. Putting the actual price into these formulas is a common error.
+
+**Does a favourable variance prove good management?**
+No. A favourable variance can have knock-on effects, such as cheaper material causing more waste, so judge the net effect on profit rather than each variance alone.
+
+**What are the advantages of standard costing?**
+Responsibility is clear, because each variance points to a manager, such as buying prices to the purchasing manager. Standards also give each manager a target and show where results differ from plan.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

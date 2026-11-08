@@ -256,6 +256,23 @@ The syllabus says candidates may be asked to prepare suspense accounts and journ
 - Forgetting to carry the profit change into capital on the statement of financial position.
 - Naming an error type without giving a reason from the facts.
 
+## Frequently asked questions
+
+**Which six errors do not affect the trial balance?**
+Errors of commission, compensating errors, complete reversal, omission, original entry and principle. In each one the debits and credits stay equal, so the trial balance still agrees even though the books are wrong.
+
+**Which side of the suspense account does the difference go on?**
+If debits are larger than credits, put the difference on the credit side of the suspense account; if credits are larger, put it on the debit side. The suspense account is only a temporary balancing figure and is not part of the final statements.
+
+**Which error corrections change profit?**
+Only a correction that involves a revenue or expense account changes profit. A correction that raises profit also raises capital by the same amount in the statement of financial position.
+
+**How do you write a correcting journal entry in Cambridge IGCSE Accounting 0452?**
+Write down what was done, then what should have been done, and make the difference in each account the journal entry. The journal layout is date, account debited, account credited, amount and narrative.
+
+**Does a trial balance that agrees prove the accounts are correct?**
+No. A trial balance can agree while the accounts still contain one of the six errors that do not affect it, so writing that a balancing trial balance means there are no errors loses marks.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge International Education: sections 3.1 The trial balance and 3.2 Corrections of errors.

@@ -14,13 +14,15 @@ syllabusTopics:
     topic: "sources-and-recording-of-data"
   - qualification: "o-level"
     topic: "sources-and-recording-of-data"
-description: "The double entry system of book-keeping, the business documents that trigger it, and the seven books of prime entry that feed it -- the full content of Topic 2 for Cambridge IGCSE Accounting 0452, 2027-2029 syllabus."
+description: "Cambridge IGCSE Accounting 0452 Topic 2 guide to double entry, running balance accounts, business documents and the seven books of prime entry (2027-2029)."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -227,6 +229,20 @@ documents produced and stored digitally. Limitations: set-up, equipment
 and training costs, the risk of system failure or data loss, and an
 input error is posted everywhere automatically rather than being
 spotted at the next manual step.
+
+## Frequently asked questions
+
+**What is the double entry rule in Cambridge IGCSE Accounting?**
+Debit the account that receives the value and credit the account that gives it. The rule itself is simple; the skill the 0452 exam tests is applying it consistently to every type of transaction.
+
+**What is a three-column running balance account?**
+It records the same double entry as a two-sided ledger account but has debit, credit and balance columns, showing the balance after every entry. Each balance must be labelled Dr or Cr so the reader knows whether it is owed to or by the business.
+
+**What is the imprest system for petty cash?**
+The petty cashier starts each period with a fixed float and is reimbursed with the amount spent, as shown by the vouchers. This restores the float to the same amount each period, so spending can be checked against the vouchers.
+
+**What are the seven books of prime entry in 0452?**
+The cash book, petty cash book, sales journal, purchases journal, sales returns journal, purchases returns journal and general journal. Each transaction is first recorded in one of these before it is posted to the ledger.
 
 ## Official syllabus
 

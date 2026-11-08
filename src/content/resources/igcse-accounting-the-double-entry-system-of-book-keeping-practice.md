@@ -228,6 +228,23 @@ The sale is in the debit column and the return and payment are in the credit col
 - Tick the topic off on the [checklist](/checklists/cambridge/igcse/accounting/) or return to the [hub](/boards/cambridge/igcse/accounting/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on double entry questions in Cambridge IGCSE Accounting 0452?**
+Common losses are entering an amount on the correct account but the wrong side, writing an account's own name in its details column, unequal totals on a balanced account and forgetting to bring the balance down. Putting drawings in the statement of profit or loss is another frequent error.
+
+**What goes in the details column of a ledger account?**
+The name of the other account in the double entry, not the name of the account you are writing in. Naming the other account each time makes both halves of the entry visible to the examiner.
+
+**How should I describe a ledger balance in an exam answer?**
+Say who owes whom, and how much, in words. Calling it a debit or credit balance only describes the layout, not what the balance means for the business.
+
+**Do I need folio columns in 0452 ledger accounts?**
+No. The 0452 syllabus says you do not need to explain or use folio columns, so they can be left out of every account.
+
+**How should I answer a suggest question on this topic?**
+Give one clear reason and develop it, explaining its effect, rather than listing several undeveloped points.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), Cambridge University Press and Assessment, section 2.1.

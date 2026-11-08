@@ -164,6 +164,20 @@ Closing balance c/d = (1,150 plus 5,560) less 4,050 = **2,660** [1]. Both totals
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on club accounts in OxfordAQA International GCSE Accounting 9215?**
+Common losses are using subscriptions received as income without adjusting for arrears and advance, including equipment purchases or sale proceeds in the income and expenditure account, and forgetting the opening accumulated fund.
+
+**What should a club's income and expenditure account show for a café or shop?**
+Show only the gross profit from the café or shop trading account, not its sales. Showing sales in the income and expenditure account is a common mistake.
+
+**What should I call a club's overall result?**
+Call it a surplus or a deficit, not a profit. Using profit is a common way to lose marks.
+
+**How should I set out club statements and comments?**
+Give each statement a title with the period or date, and back each comment with a figure and a consequence. Comments with no figure earn little.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), version 1.2, for International GCSE exams May/June 2026 onwards, section 3.4 Preparation of financial statements (clubs and non-profit making organisations), published by OxfordAQA.

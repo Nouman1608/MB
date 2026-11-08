@@ -260,6 +260,23 @@ Quote figures, then finish with a clear verdict.
 - Labelling the result "profit" instead of "surplus" or "deficit".
 - Commenting without figures, or describing the statements without a final verdict.
 
+## Frequently asked questions
+
+**What is the difference between a receipts and payments account and an income and expenditure account?**
+A receipts and payments account is prepared on a cash basis and includes capital items. An income and expenditure account is prepared on the accruals basis and includes revenue items only.
+
+**Are subscriptions in arrears an asset or a liability?**
+Subscriptions in arrears are an asset, because members owe them to the club. Subscriptions paid in advance are a liability, because the club owes those members a period of membership.
+
+**How is a donation to a club treated?**
+A gift for a named capital project goes to the accumulated fund, while a small unconditional gift is income of the year in the income and expenditure account.
+
+**Does bar takings go in the income and expenditure account?**
+No. Only the bar's profit or loss enters the income and expenditure account, as one line. Takings, purchases and bar wages are dealt with in the bar trading account.
+
+**Is a club's result called a profit?**
+No. A club's income and expenditure account shows a surplus or a deficit, and labelling it profit loses marks. The club equivalent of a sole trader's capital is the accumulated fund.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

@@ -138,6 +138,20 @@ Appraisal: revenue rose by 10% but gross profit margin fell by 5 percentage poin
 - Take the [free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on appraising performance questions?**
+Common losses are giving an answer with no formula, omitting units, using revenue instead of credit sales for receivable days, and commenting on a ratio without comparing, explaining or judging.
+
+**What should I remember when working out current liabilities for a ratio?**
+Include every current liability, such as accrued expenses and a bank overdraft. Forgetting them makes the current and liquid capital ratios too high.
+
+**Does a higher current ratio always mean more cash?**
+No. Saying a higher current ratio always means more cash is a common mistake, because the ratio can rise from extra inventory or receivables rather than cash.
+
+**Which units should ratio answers in OxfordAQA International GCSE Accounting 9215 use?**
+Give margins and ROCE as percentages, inventory turnover in times, receivable and payable days in days, and the current and liquid capital ratios as x : 1.
+
 ## Official syllabus
 
 Source: OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards, published by OxfordAQA, section 3.5.

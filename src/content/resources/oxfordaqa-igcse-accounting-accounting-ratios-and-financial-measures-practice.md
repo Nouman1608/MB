@@ -176,6 +176,20 @@ Trade payable days = 50,000 / 250,000 x 365 = **73.0 days** [1]
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [trial classes](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on ratio questions in OxfordAQA International GCSE Accounting 9215?**
+Common losses are dividing by the wrong base for markup or margin, forgetting to use average inventory for the rate of inventory turnover, and using total figures for the days measures when credit figures are supplied.
+
+**Can I call a ratio good or bad on its own?**
+No. A ratio needs a comparison, such as last year or a similar business, and a reason. Calling a ratio good or bad with no comparison or reason loses marks.
+
+**Which profit figure should I check before calculating ROCE?**
+Check whether the question needs profit from operations or profit for the year, because mixing them up in ROCE and in profit in relation to revenue is a common mistake.
+
+**How should I set out a ratio calculation?**
+Write the formula, put in the figures and give the answer with its correct unit: a percentage, a number of times, days, or a ratio written as x : 1.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, for exams from May/June 2026 onwards, section 3.5: Interpretation, analysis and communication of financial information.

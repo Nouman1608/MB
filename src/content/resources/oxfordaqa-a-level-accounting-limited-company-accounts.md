@@ -320,6 +320,22 @@ Test what you remember using the [revision notes](/resources/oxfordaqa-a-level-a
   <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**In what order should a company's three internal statements be prepared?**
+Prepare the income statement first, then the statement of changes in equity, then the statement of financial position. Each passes a figure to the next: profit after tax goes to the statement of changes in equity, and closing equity goes to the statement of financial position.
+
+**Where do dividends paid go in limited company accounts?**
+Dividends paid belong only in the statement of changes in equity, where they reduce retained earnings. They are a distribution of profit to shareholders, not an expense in the income statement.
+
+**How is debenture or loan interest treated at the year end?**
+Interest on a loan or debentures is charged for the whole year under the accruals concept, even if part is unpaid. Any amount still owing is shown under current liabilities.
+
+**Are preference shares and general reserves examined in OxfordAQA 9615 section 3.1.7?**
+No. According to the specification, preference shares and general reserves are outside the examined content for this section.
+
+**What are the three profit lines in a limited company income statement?**
+Profit from operations, profit before tax and profit for the year after tax. Profit from operations shows what the trading activity earned before any interest is paid on borrowing.
 
 ## Official syllabus
 

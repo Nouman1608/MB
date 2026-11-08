@@ -14,13 +14,15 @@ syllabusTopics:
     topic: "sources-and-recording-of-data"
   - qualification: "o-level"
     topic: "sources-and-recording-of-data"
-description: "Quick-recall revision notes on double entry, running balance accounts, business documents, the seven books of prime entry, the imprest system and manual versus digital records for Cambridge IGCSE Accounting (0452), 2027-2029 syllabus."
+description: "Cambridge IGCSE Accounting 0452 revision notes on double entry, business documents, books of prime entry, petty cash, discounts and digital records (2027-2029)."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -230,3 +232,20 @@ correction such as an undercharge; a credit note corrects an overcharge or recor
 opposite directions. 3. The cash book. 4. It should be recorded in the sales returns journal; a common
 error is reversing it directly in the sales journal instead. 5. The total of the vouchers paid in the
 period, which equals the float minus the cash left.
+
+## Frequently asked questions
+
+**What is the difference between trade discount and cash discount?**
+Trade discount is a reduction given at the point of sale, often for bulk purchase, and is never entered in the accounts; the invoice simply shows the discounted price. Cash discount is given for prompt payment and, unlike trade discount, is recorded in the accounts.
+
+**Why does the cash book have a dual role?**
+Most books of prime entry are posted to a ledger account, but the cash book is both a book of prime entry for cash and bank transactions and the ledger account for cash and bank. It is the only one of the seven books of prime entry with this dual role.
+
+**How do you calculate the amount needed to restore an imprest float?**
+The amount to restore equals the total of the vouchers paid, which is also the float minus the cash left. For example, a $200 float with $148 of vouchers needs $148, leaving $52 in the tin before reimbursement.
+
+**Where is a sales return recorded in Cambridge IGCSE Accounting 0452?**
+A sales return, supported by a credit note sent to the customer, is recorded in the sales returns journal. It is not reversed directly in the sales journal, which is a common structured-question error.
+
+**What are the three divisions of the ledger?**
+The sales ledger holds customers' personal accounts, the purchases ledger holds suppliers' personal accounts, and the nominal (general) ledger holds the other accounts, such as expenses, income, assets and capital.

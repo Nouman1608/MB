@@ -215,6 +215,22 @@ Move on to the [practice questions](/resources/oxfordaqa-igcse-accounting-adjust
   <figcaption>Other receivables and income due are current assets; other payables and income received in advance are current liabilities.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does the accruals concept require?**
+Each item of income or expense is placed in the year it relates to, whatever the date the cash is paid or received. This is why year-end adjustments for other payables, other receivables, income due and income received in advance are needed.
+
+**How do you calculate an expense when amounts are owing?**
+Expense = cash paid − amount owing at the start + amount owing at the end. For example, gas paid of 2,150 with 180 owing at the start and 240 at the end gives a charge of 2,210.
+
+**What is the difference between other receivables and income due?**
+Other receivables are expenses paid early, while income due is income earned but not yet received. Both are current assets, shown as separate lines.
+
+**What is the difference between other payables and trade payables?**
+Other payables are for expenses such as electricity or wages, while trade payables are owed to suppliers of goods for resale.
+
+**Is income received in advance income for the year?**
+No. Income received in advance is a current liability, because the business has taken money before giving the service. Treating it as an asset or as this year's income is a common mistake.
 
 ## Official syllabus
 

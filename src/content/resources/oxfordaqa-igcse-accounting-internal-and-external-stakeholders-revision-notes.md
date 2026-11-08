@@ -196,6 +196,23 @@ Try each question without looking back. Answers follow.
 - Describing a conflict without saying who gains and who loses
 - Adding tax rules from one country when "taxes" is enough
 
+## Frequently asked questions
+
+**Who are the internal and external stakeholders in OxfordAQA International GCSE Accounting 9215?**
+The specification lists eight groups. The three internal stakeholders are employees, management and owners or shareholders; the five external stakeholders are customers, suppliers, government, lenders and the local community.
+
+**What is the difference between a dividend and loan interest?**
+A dividend goes to shareholders and depends on profit. Loan interest goes to lenders and is owed whatever the profit.
+
+**What is a stakeholder?**
+A stakeholder is a person or group with an interest in a business because its results or decisions affect them.
+
+**Why might shareholders and lenders disagree about a large dividend?**
+Shareholders receive the dividend, so a large one increases their return. Lenders are owed fixed repayments and prefer cash to be kept in the business to meet them, so a large dividend may reduce the cash available to repay them.
+
+**What is the difference between internal and external stakeholders?**
+Internal groups work in, run or own the business and can ask for any figure. External groups rely on what is published or given to them.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, section 3.5, published by OxfordAQA, for exams from May/June 2026.

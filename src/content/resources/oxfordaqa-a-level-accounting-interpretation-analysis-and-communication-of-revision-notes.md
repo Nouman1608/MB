@@ -204,6 +204,23 @@ Halloway Tents plc: profit before interest and tax 3,300,000; interest payable 2
 - Listing pros and cons of a recommendation but never reaching a judgement.
 - Ignoring the local economy, national economy or environment when the question names them.
 
+## Frequently asked questions
+
+**What is the difference between dividend yield and dividend cover?**
+Dividend yield is the return on the share price from the dividend. Dividend cover shows how many times profit covers the dividend paid.
+
+**What is the difference between EPS and dividend per share?**
+Earnings per share is the profit earned per ordinary share, while dividend per share is the cash paid out per share. Dividend per share = ordinary dividends paid / issued ordinary shares.
+
+**Is a rise in dividend yield always good news for shareholders?**
+No. Dividend yield can rise because the share price has fallen, so state the cause before treating a higher yield as good news.
+
+**Which profit figure is used for interest cover?**
+Interest cover = profit before interest and tax / interest payable. Using profit after interest as the numerator is a common mistake.
+
+**What is the difference between internal and external stakeholders?**
+Internal stakeholders are employees, management and owners or shareholders. External stakeholders include customers, suppliers, government, lenders and the local community.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.2.9, Interpretation, analysis and communication of accounting information. Ratio formulae from the OxfordAQA guide *Formulae for accounting ratios*.

@@ -279,6 +279,23 @@ Rights issue: 2,500,000 new shares
 
 Next: [limited company accounts](/resources/oxfordaqa-a-level-accounting-limited-company-accounts/) and [capital investment appraisal](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal/).
 
+## Frequently asked questions
+
+**What is the difference between internal and external comparison?**
+Internal comparison sets this year against earlier years, a budget or a target. External comparison sets the business against a competitor or an industry average.
+
+**How do you calculate the price earnings ratio?**
+Price earnings ratio = market price per share / earnings per share. Make sure the share price and EPS are in the same units, because dividing a price in cents by EPS in dollars is a common error.
+
+**Why should a high dividend yield be checked against dividend cover?**
+A high yield can look attractive, but if dividend cover is low, profit only just covers the dividend and the payout may not be sustainable. Praising a high yield without checking cover is a common error.
+
+**What are the limitations of comparing a business with its competitors?**
+Rivals may use different depreciation methods and year ends, and share-price ratios depend on the date the price is taken. EPS cannot be compared fairly between companies with different numbers of shares.
+
+**How do you critically assess a recommendation in OxfordAQA 9615 section 3.2.9?**
+Work through the financial case, each stakeholder, the local and national economy and the environment, then reach a judgement. Listing stakeholder impacts without a judgement is a common error.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.2.9, Interpretation, analysis and communication of accounting information. Ratio formulae from the OxfordAQA guide *Formulae for accounting ratios*.

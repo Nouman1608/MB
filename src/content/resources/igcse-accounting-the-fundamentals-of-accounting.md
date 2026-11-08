@@ -17,10 +17,12 @@ syllabusTopics:
 description: "The purpose of accounting and the accounting equation -- the full content of Topic 1 for Cambridge IGCSE Accounting 0452, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -158,6 +160,20 @@ statements assume that understanding as a starting point rather than
 teaching it again from scratch. This is why examiners and teachers
 alike treat this short opening topic as disproportionately important
 relative to its own two sub-topics.
+
+## Frequently asked questions
+
+**What is the difference between book-keeping and accounting?**
+Book-keeping is the routine recording of transactions. Accounting uses those records to summarise and interpret the results so that they can inform decisions.
+
+**Why is capital on the same side of the accounting equation as liabilities?**
+From the business's own point of view, capital is an amount it effectively owes back to its owner, in the same sense that a loan is owed to a lender. Both are sources of finance for the assets the business holds.
+
+**How do you find a missing figure using the accounting equation?**
+Write Assets = Liabilities + Owner's equity, put in the two figures you know and solve for the third. Given any two of assets, liabilities and owner's equity, you can always find the other one.
+
+**What is in Topic 1 of the Cambridge IGCSE Accounting 0452 syllabus?**
+Topic 1, The fundamentals of accounting, has two sub-topics: 1.1 The purpose of accounting and 1.2 The accounting equation. It is the first of the seven topics in the 2027-2029 syllabus.
 
 ## Official syllabus
 

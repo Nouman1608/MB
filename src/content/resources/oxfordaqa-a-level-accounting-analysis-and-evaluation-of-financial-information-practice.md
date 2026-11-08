@@ -172,6 +172,20 @@ Depreciation added back [1]; working capital changes with correct signs [1]; dra
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on ratio analysis questions?**
+Common losses are using total revenue in receivable days when cash sales are given separately, calculating markup on revenue or margin on cost of sales, and giving current and liquid ratios as percentages or without : 1.
+
+**Which profit figure is used for return on capital employed?**
+For a company, use profit from operations, not profit after tax. For a sole trader, the OxfordAQA 9615 formula uses profit for the year without adding interest back.
+
+**How should I answer questions where each transaction is treated separately?**
+Start each transaction from the original figures. Carrying the result of one transaction into the next is a common mistake.
+
+**How do I write a strong ratio evaluation?**
+Quote figures as evidence, attach a cause to each change and finish with a supported overall verdict. An evaluation that ends with no verdict loses marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.1.8, Analysis and evaluation of financial information. Formulae from the OxfordAQA guide *Formulae for accounting ratios*.

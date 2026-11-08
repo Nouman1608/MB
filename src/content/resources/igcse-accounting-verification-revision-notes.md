@@ -14,13 +14,15 @@ syllabusTopics:
     topic: "verification-of-accounting-records"
   - qualification: "o-level"
     topic: "verification-of-accounting-records"
-description: "Condensed recall notes on the trial balance, the six error types, bank reconciliation, control accounts and the impact of digital records for Cambridge IGCSE Accounting (0452), 2027-2029 syllabus."
+description: "Cambridge IGCSE Accounting 0452 revision notes on the trial balance, six error types, suspense accounts, bank reconciliation and control accounts (2027-2029)."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -251,3 +253,19 @@ providing an independent summary total to compare against.
   <figcaption>Four errors explain the whole 1,320 difference, so the suspense account closes to nil.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between an error of commission and an error of principle?**
+An error of commission posts an amount to the wrong specific account of the correct type, such as vehicle repairs posted to vehicle insurance. An error of principle posts it to the wrong type of account, such as an expense posted to a non-current asset account.
+
+**What are the two steps in a bank reconciliation?**
+First update the cash book for items first seen on the bank statement, such as bank charges, interest, direct debits and credit transfers. Then reconcile the updated cash book balance with the statement, explaining the remaining differences, such as unpresented cheques and uncredited deposits.
+
+**Are unpresented cheques entered in the cash book?**
+No. Unpresented cheques are already recorded in the cash book but not yet cleared by the bank, so the reconciliation statement explains them rather than adding a cash book entry.
+
+**When is a suspense account needed?**
+Only when the trial balance actually fails to balance. It holds the difference temporarily until the errors are found and corrected; errors that leave the totals equal are corrected by journal entries without a suspense account.
+
+**What are control accounts built from?**
+Sales ledger and purchases ledger control accounts are built from the totals in the books of prime entry, not by adding up the individual personal-ledger balances. This gives an independent check that localises errors faster than checking every account by hand.

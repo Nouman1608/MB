@@ -9,13 +9,15 @@ qualifications: ["a-level"]
 syllabusCodes: ["9615"]
 syllabusSeries: "For first teaching September 2024"
 order: 3
-description: "How OxfordAQA International A-Level Accounting 9615's AS papers (20% each) and A-level papers (30% each) build on one another, and a worked adjusting-entries routine."
+description: "How OxfordAQA International A-level Accounting 9615's four papers fit together: AS papers at 20% each, A-level papers at 30%, and an adjusting-entries routine."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 OxfordAQA International A-Level Accounting (9615) is a modular qualification of four papers, sat over
@@ -116,6 +118,20 @@ marks at A-level too. 3. Ratio analysis, budgeting and investment appraisal -- a
 partially anticipated by AS Paper 2's financial management content. 4. Go back through the adjustments
 before submitting -- an unbalanced balance sheet almost always means an adjustment was applied to only
 one side of the accounts.
+
+## Frequently asked questions
+
+**How many papers are there in OxfordAQA International A-level Accounting 9615?**
+Four. AS Paper 1 (Introduction to Financial Accounting) and AS Paper 2 (Financial and Management Accounting) are each 2 hours, 80 marks and 20% of the A-level; Paper 3 (Financial Accounting) and Paper 4 (Accounting for Analysis and Decision Making) are each 2 hours 15 minutes, 90 marks and 30%.
+
+**Are AS marks worth the same as A-level marks in 9615?**
+No. AS papers carry 80 marks for 20% and A-level papers carry 90 marks for 30%, so each A-level mark is worth proportionally more of the final grade. Together the two A-level papers carry 60% of the qualification.
+
+**When were the first 9615 exams?**
+The specification was first taught from September 2024, with first International AS exams in May/June 2025 and first International A-level exams in May/June 2026.
+
+**Does presentation matter in OxfordAQA 9615 accounting exams?**
+Yes. Financial statements should follow a standard professional layout, with correct headings, subtotals in the right place and workings shown, so the figures are easy to follow and check.
 
 *Written against the assessment section of OxfordAQA's own International AS/A-level Accounting (9615)
 qualification page (official OxfordAQA page, verified 2026-08-28); the underlying paper weightings

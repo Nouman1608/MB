@@ -221,6 +221,23 @@ NPV overstated by 6,000 x 2.486 = 14,916
 - Recommendations with no justification: say why each step comes in that order.
 - One-sided "evaluate" answers with no final judgement.
 
+## Frequently asked questions
+
+**What are the five fundamental principles of ethical behaviour for accountants?**
+Integrity, objectivity, professional competence and due care, confidentiality, and professional behaviour. The IESBA International Code of Ethics for Professional Accountants uses the same five principles.
+
+**What is the difference between integrity and objectivity?**
+Integrity means being honest and straightforward, while objectivity means judging without bias or pressure. An estimate skewed by self-interest breaches objectivity even if nothing false is said.
+
+**When does an auditor give a qualified, adverse or disclaimer opinion?**
+A material but not pervasive problem gives a qualified (except for) opinion. A material and pervasive misstatement gives an adverse opinion, and being unable to obtain evidence on a pervasive scale gives a disclaimer of opinion.
+
+**Is ethics only tested on financial accounting questions?**
+No. Ethical issues can arise in budgets, standards and investment appraisals on Paper 4 as well as in financial accounting, so treating ethics as a Paper 3 issue only is a common mistake.
+
+**Is unethical behaviour always illegal?**
+No. A breach of the ethical principles may be lawful, whereas fraud, bribery and tax evasion are crimes.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.2.10, The impact of ethical considerations.

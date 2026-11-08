@@ -211,6 +211,20 @@ the customer [1]. **[2]**
 - Take the [free diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on inventory valuation questions?**
+Common losses are comparing grand totals of cost and net realisable value instead of working item by item, deducting selling costs from cost rather than from the selling price, and using net realisable value when it is higher than cost.
+
+**What mistakes are common when adjusting an inventory count taken on another date?**
+Adding purchases to a count taken after the year end, and using sales at selling price without converting them to cost first. Work out the direction of each adjustment before you calculate.
+
+**How should I describe the effect of an inventory error in Cambridge IGCSE Accounting 0452?**
+State whether each figure is overstated or understated and give the amount. Then show the opposite effect in the following year, because closing inventory becomes the next year's opening inventory.
+
+**Which section of the 0452 syllabus do these questions cover?**
+Section 4.5 Valuation of inventory of the Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029. It covers valuing inventory, calculating its value and the effect of an incorrect valuation.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029 (version 1),
