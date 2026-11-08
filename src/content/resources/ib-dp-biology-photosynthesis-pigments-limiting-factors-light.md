@@ -230,6 +230,23 @@ In darkness neither ATP nor reduced NADP is produced, so GP cannot be converted 
 - Taking Rf distances from the paper edge instead of the start line.
 - Putting photolysis in photosystem I.
 
+## Frequently asked questions
+
+**What is the word equation for photosynthesis?**
+Carbon dioxide + water → glucose + oxygen. Hydrogen from water reduces carbon dioxide to glucose, and the oxygen gas comes from the water that is split.
+
+**Why do leaves look green?**
+Chlorophyll absorbs blue-violet and red light strongly but absorbs little green light, which is reflected or transmitted, so leaves look green.
+
+**How do you separate photosynthetic pigments by chromatography?**
+Spot a concentrated leaf extract on a pencil start line, stand the paper in solvent below the line, then measure each spot and the solvent front to calculate Rf; carotene travels furthest, then xanthophyll, chlorophyll a and chlorophyll b.
+
+**What is the difference between cyclic and non-cyclic photophosphorylation?**
+In non-cyclic photophosphorylation electrons from photosystem II end in reduced NADP, producing ATP, reduced NADP and oxygen; in cyclic photophosphorylation electrons from photosystem I return to the chain, so only ATP is made. This is HL-only content.
+
+**How much ATP and reduced NADP does the Calvin cycle use per glucose?**
+Six turns of the cycle fix six carbon dioxide molecules and use 18 ATP and 12 reduced NADP for each glucose, with five-sixths of the triose phosphate recycled to regenerate RuBP.
+
 ## Official syllabus
 
 IB Diploma Programme Biology guide, first assessment 2025, published by the International Baccalaureate Organization. Topic C1.3 (Photosynthesis), statements C1.3.1 to C1.3.19; C1.3.9 to C1.3.19 are additional higher level.

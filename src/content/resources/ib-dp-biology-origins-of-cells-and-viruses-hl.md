@@ -259,6 +259,23 @@ HIV genome length is 9700 nucleotides. With an error rate of 3.0 × 10⁻⁵ per
 - Saying RNA is more stable than DNA. It is not; RNA is the more reactive.
 - Placing the prophage free in the cytoplasm. It is integrated in the host chromosome.
 
+## Frequently asked questions
+
+**What were conditions like on early Earth?**
+Early Earth had almost no free oxygen and so no ozone layer, letting more ultraviolet light reach the surface; the atmosphere held more carbon dioxide and methane, giving higher temperatures.
+
+**What is needed to explain the origin of the first cells?**
+An explanation must account for catalysis, self-replication of molecules, self-assembly of larger structures and the emergence of compartmentalisation.
+
+**Why are compartments important in the origin of cells?**
+Fatty acids can form spherical bilayers (vesicles) in water; a compartment lets the internal chemistry differ from the outside, keeps molecules concentrated so reactions speed up, and lets natural selection act on each vesicle's contents.
+
+**What evidence links LUCA to hydrothermal vents?**
+Fossilised evidence of life in ancient seafloor vent precipitates, and conserved gene families from genomic analysis suggesting an anaerobic organism that used hydrogen and carbon dioxide, consistent with a vent environment.
+
+**How do influenza viruses change?**
+Point mutations in surface proteins cause gradual change, and because the genome is in separate segments, mixing of segments between strains can cause sudden large change, so vaccines are reformulated regularly.
+
 ## Official syllabus
 
 IB Diploma Programme Biology guide, first assessment 2025, published by the International Baccalaureate Organization. Sections A2.1 and A2.3 (additional higher level).

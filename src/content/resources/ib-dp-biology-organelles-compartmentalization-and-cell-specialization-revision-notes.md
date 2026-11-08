@@ -231,6 +231,23 @@ The alveolar epithelium shows that one tissue can contain more than one cell typ
 - Treating differentiation as a change in DNA, when it is a change in gene expression.
 - Giving a "yes" or "no" about the muscle fibre as a cell, with no reasons.
 
+## Frequently asked questions
+
+**Which cell structures are not organelles?**
+The cell wall, cytoskeleton and cytoplasm are not organelles; nuclei, vesicles, ribosomes, mitochondria and the plasma membrane are.
+
+**What are the advantages of compartmentalization?**
+Membrane compartments concentrate enzymes and substrates, let each compartment keep its own conditions such as pH, and separate incompatible reactions, as lysosomes do with hydrolytic enzymes.
+
+**What is the difference between totipotent, pluripotent and multipotent stem cells?**
+Totipotent cells can form every cell type and a whole organism; pluripotent cells can form most body cell types but not a whole organism; multipotent cells form only a limited range of related cell types.
+
+**What is a stem cell niche?**
+A stem cell niche is a microenvironment that maintains stem cells or promotes their proliferation and differentiation; examples are bone marrow, with haematopoietic stem cells, and the hair follicle.
+
+**Why does surface area to volume ratio limit cell size?**
+As a cell grows, its volume rises faster than its surface area, so exchange across the surface cannot keep up with the needs of the volume.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Biology guide*, first assessment 2025, published February 2023, sections B2.2 and B2.3.
