@@ -176,6 +176,20 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-el
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which AQA A-level Physics paper assesses Electricity?**
+In AQA 7408, section 3.5 Electricity is assessed in Paper 1 and assumed knowledge in Paper 2. It is AS and A-level content and is not one of the Paper 3 options.
+
+**How do you find emf and internal resistance from a graph?**
+Plot terminal pd V against current I. Because V = −rI + ε, the gradient is −r and the y-intercept is the emf ε; quote r as a positive value.
+
+**What is the correct definition of a superconductor?**
+A superconductor is a material with zero resistivity at and below a critical temperature, which depends on the material. Writing "very low resistance" does not earn the mark.
+
+**What common mistakes lose marks in electricity calculations?**
+Frequent errors include leaving minutes or mA unconverted, using the diameter as the radius when finding a wire's area, taking resistance from the gradient of a curved I-V graph, and ignoring the loading effect on a potential divider.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.5 Electricity.

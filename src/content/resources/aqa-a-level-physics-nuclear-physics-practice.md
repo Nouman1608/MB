@@ -206,6 +206,20 @@ in an emergency the control rods drop fully into the core and stop the chain rea
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which AQA A-level Physics paper assesses Nuclear physics?**
+Section 3.8 Nuclear physics is A-level only, compulsory content in AQA 7408 and is assessed in Paper 2. It includes Required practical 12 on the inverse-square law for gamma radiation.
+
+**Why must you subtract background count before analysing results?**
+Background radiation adds to every reading, so raw count rates exaggerate the source's activity and can make it look as if gamma is emitted when it is not. Correct each reading by subtracting the background rate first.
+
+**What is the difference between the moderator and the control rods in a reactor?**
+The moderator slows fast neutrons by elastic collisions so that U-235 is more likely to absorb them. The control rods absorb neutrons to control the fission rate; saying control rods slow neutrons earns no credit.
+
+**What mistakes lose marks in nuclear physics calculations?**
+Common errors include mixing time units for λ when finding activity in Bq, using atomic mass where nuclear mass is needed, using charge e instead of 2e for an alpha particle, and writing an antineutrino in beta-plus or electron-capture equations.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), published by AQA. Section 3.8 Nuclear physics (A-level only).

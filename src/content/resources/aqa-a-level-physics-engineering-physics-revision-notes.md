@@ -192,6 +192,20 @@ overall    = thermal × mechanical
 - Quoting an efficiency greater than 1, or a COP formula upside down.
 - Describing a diesel engine with a spark plug.
 
+## Frequently asked questions
+
+**What factors affect the moment of inertia of an object?**
+Moment of inertia depends on the mass, how far that mass is from the axis (as r²) and where the axis is. Mass at the rim counts most, so a ring has a larger moment of inertia than a disc of equal mass and radius.
+
+**What is the difference between indicated power and brake power?**
+Indicated power comes from the area of the p-V loop: the work done by the gas per cycle, multiplied by cycles per second and the number of cylinders. Brake power is measured at the output shaft as Tω, and the difference is friction power.
+
+**What is the difference between isothermal and adiabatic changes?**
+In an isothermal change the temperature is fixed, so ΔU = 0 and Q = W. In an adiabatic change no heat flows, so Q = 0, W = −ΔU and the temperature changes; adiabatic compression heats a gas.
+
+**What is the maximum efficiency of a heat engine?**
+The maximum theoretical efficiency is (T_H − T_C)/T_H, with temperatures in kelvin. Real engines fall short because of friction, heat losses and non-ideal processes.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.11 Engineering physics (A-level only option).

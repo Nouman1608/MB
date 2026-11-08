@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed recall notes on SI units, uncertainty, accuracy and precision, error types and graphical analysis for AQA A Level Physics 7408."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -199,3 +201,16 @@ Where error bars for two data sets **overlap**, the difference between them may 
   <figcaption>Half the difference between the steepest and shallowest gradients.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the uncertainty in a single reading?**
+For an analogue scale, the uncertainty of a single reading is half the smallest scale division. For a digital display it is ± the resolution, one unit of the last digit. A measurement needing two readings, such as a length between two marks, has double the uncertainty.
+
+**How can you tell a systematic error from a graph?**
+An additive systematic error, such as a zero error, gives the correct gradient but an unexpected intercept. A proportional calibration error changes the gradient while the intercept stays at the origin.
+
+**How do you reduce percentage uncertainty in an experiment?**
+Measure a larger quantity. The absolute uncertainty is fixed by the instrument, so it becomes a smaller proportion of a bigger reading.
+
+**Is dimensional analysis examined in AQA A-level Physics 7408?**
+No. Dimensional analysis and homogeneity of units are not required by the AQA A-level specification and will not be examined; they appear on this page only as background.

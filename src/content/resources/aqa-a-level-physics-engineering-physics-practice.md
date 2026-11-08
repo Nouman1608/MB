@@ -198,6 +198,20 @@ Learn the content with the [study guide](/resources/aqa-a-level-physics-engineer
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What sign convention does AQA use in the first law of thermodynamics?**
+AQA's Engineering physics option writes the first law as Q = ΔU + W, where W is the work done by the gas. Writing ΔU = Q + W with this definition of W gives sign errors.
+
+**How many cycles does a four-stroke engine complete per revolution?**
+A four-stroke engine completes one cycle every two crankshaft revolutions per cylinder, so convert rpm to rev s⁻¹ and halve it to get cycles per second. Counting one cycle per revolution doubles the indicated power.
+
+**Is kinetic energy conserved when a skater pulls her arms in?**
+No. Angular momentum is conserved, so her angular speed rises as her moment of inertia falls, but her kinetic energy increases because she does work pulling her arms inwards.
+
+**Why can a heat pump have a COP greater than 1?**
+A heat pump moves energy from a cold space to a hot one rather than creating it, delivering Q_H = Q_C + W. The useful energy delivered can therefore exceed the work input.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.11 Engineering physics (A-level only option).

@@ -201,6 +201,20 @@ Unit conversions: 1 pc ≈ 3.08 × 10¹⁶ m; 1 Mpc ≈ 3.08 × 10²² m; 1 ly �
 - Describing the transit light curve without the repeat at the orbital period.
 - Stating that black holes have infinite escape velocity instead of escape velocity greater than c.
 
+## Frequently asked questions
+
+**What is the difference between apparent and absolute magnitude?**
+Apparent magnitude m measures how bright a star appears from Earth, with lower numbers brighter. Absolute magnitude M is the apparent magnitude the star would have at a distance of 10 parsecs.
+
+**Why are Balmer absorption lines strongest in A-class stars?**
+Balmer lines need hydrogen atoms with electrons in the n = 2 level. Cool stars have few atoms excited to n = 2, and in the hottest stars most hydrogen is ionised, so the lines are strongest in A stars.
+
+**What is the difference between resolving power and collecting power?**
+Resolving power, given by the Rayleigh criterion θ ≈ λ/D, describes how much detail a telescope can separate. Collecting power is proportional to D² and determines how faint an object it can detect.
+
+**How does the transit method detect exoplanets?**
+When a planet crosses its star, the star's intensity dips, and the dip repeats every orbit. The fractional dip is about (r_planet/r_star)², which gives the planet's radius.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards: section 3.9 Astrophysics (A-level only).

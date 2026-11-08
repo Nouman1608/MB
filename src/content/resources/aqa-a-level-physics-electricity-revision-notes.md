@@ -236,6 +236,20 @@ dark:  V_out = 5.0 × 16 / 20 = 4.0 V
 - Giving the superconductor "very low" resistance rather than zero resistivity at and below the critical temperature.
 - Forgetting that a load across a potential divider output reduces V_out.
 
+## Frequently asked questions
+
+**What is the difference between emf and potential difference?**
+Emf is the energy transferred to electrical form per unit charge by a source. Potential difference is the work done, or energy transferred, per unit charge by a component.
+
+**How do identical cells combine in parallel?**
+For n identical cells in parallel, the emf equals that of one cell and the internal resistance is r/n. In series, emfs add (taking direction into account) and internal resistances add.
+
+**Which type of thermistor is assessed in AQA 7408?**
+Only ntc (negative temperature coefficient) thermistors are assessed. Their resistance decreases as temperature increases, and they are used as temperature sensors.
+
+**How does resistance change if you double a wire's diameter?**
+Resistance is proportional to L/d², so doubling the diameter quarters the resistance, while doubling the length doubles it.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.5 Electricity.

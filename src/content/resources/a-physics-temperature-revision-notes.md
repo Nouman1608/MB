@@ -175,4 +175,4 @@ Different thermometric properties, such as liquid density, gas volume, metal res
 Specific heat capacity is the energy needed to change the temperature of unit mass without a change of state, Q = mcΔθ. Specific latent heat is the energy needed to change the state of unit mass without a change of temperature, Q = mL.
 
 **Why does temperature stay constant while a substance melts?**
-During a change of state the energy supplied is latent heat, which breaks intermolecular bonds rather than increasing the mean kinetic energy of the molecules, so the temperature does not change.
+During a change of state the energy supplied is latent heat, which separates the molecules against their intermolecular forces, increasing their potential energy rather than their mean kinetic energy, so the temperature does not change.

@@ -270,6 +270,20 @@ With hydrogen (M ≈ m) it can lose all its energy at once: light nuclei moderat
 - Using atomic mass where nuclear mass is needed.
 - Saying the moderator absorbs neutrons; the control rods do.
 
+## Frequently asked questions
+
+**What did Rutherford's alpha-scattering experiment show?**
+Most alpha particles passed straight through gold foil, showing the atom is mostly empty space. A few were deflected through large angles and a very small number bounced back, showing a tiny central nucleus holding the positive charge and most of the mass.
+
+**How do you test the inverse-square law for gamma radiation?**
+In AQA Required practical 12, record corrected count rates C at several measured distances d. Because the true distance includes an unknown offset, plot 1/√C against d; a straight line confirms the law, and the d-intercept gives minus the offset.
+
+**Why is nuclear density the same for all nuclei?**
+Nuclear radius follows R = R₀A^(1/3), so nuclear volume is proportional to A, and so is nuclear mass. A cancels, so all nuclei have roughly the same density, of order 10¹⁷ kg m⁻³.
+
+**Why do both fission and fusion release energy?**
+Binding energy per nucleon peaks near A ≈ 56. Fusion of light nuclei and fission of heavy nuclei both produce nuclei with higher binding energy per nucleon, and the difference is released as energy.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), published by AQA. Section 3.8 Nuclear physics (A-level only).
@@ -278,4 +292,3 @@ AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS
   <img src="https://img.marlbridge.com/a-physics-nuclear-physics--08-aphy-nuclear-reactor.webp" width="900" height="960" alt="Cross-section of a reactor with fuel rods in a moderator, control rods that absorb neutrons, coolant leaving hot and returning cool, and thick shielding. Heat passes to a heat exchanger, turbine and generator. Control rods hold k at 1." loading="lazy">
   <figcaption>The moderator slows neutrons and the control rods absorb them.</figcaption>
 </figure>
-

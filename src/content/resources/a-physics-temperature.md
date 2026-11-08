@@ -20,10 +20,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-temperature"
     subtopic: "a-specific-heat-capacity-and-specific-latent-heat"
-description: "Thermal equilibrium, the thermodynamic (Kelvin) temperature scale, and specific heat capacity and specific latent heat, for Cambridge International AS & A Level Physics 9702."
+description: "Thermal equilibrium, the Kelvin scale and absolute zero, thermometers, and specific heat capacity and latent heat: Topic 14 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-11-05
@@ -221,6 +223,20 @@ state** — it remains constant until the change of state is complete.
 - T/K = θ/°C + 273.15, and why the Kelvin scale is absolute
 - Q = mcΔθ for specific heat capacity
 - Q = mL for specific latent heat, and the flat regions of a cooling curve
+
+## Frequently asked questions
+
+**How do you convert between Celsius and kelvin?**
+Use T/K = θ/°C + 273.15. A change of 1 K equals a change of 1 °C, so temperature differences do not need converting; only the zero points of the two scales differ.
+
+**What is absolute zero?**
+Absolute zero, 0 K, is the lowest possible temperature, at which a substance has its minimum possible internal energy. The thermodynamic scale it anchors does not depend on the properties of any particular substance.
+
+**Which thermometer should you choose for a given measurement?**
+A thermocouple suits a rapidly changing temperature because of its small thermal capacity, a platinum resistance thermometer suits measurements needing high accuracy, and a thermistor suits high sensitivity over a narrow range.
+
+**Can you use Q = mcΔθ during a change of state?**
+No. Q = mcΔθ applies only while the substance stays in one state; during a change of state the temperature is constant and you must use Q = mL, splitting the process into stages if needed.
 
 ## Related resources
 

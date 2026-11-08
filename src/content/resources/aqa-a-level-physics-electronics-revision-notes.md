@@ -211,6 +211,19 @@ Only the inverting amplifier needs a derivation. The specification says the LC, 
   <figcaption>Where the e.m.f. goes: terminal p.d. plus lost volts, and how a V–I graph gives E and r.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which op-amp circuit derivation is required in AQA 7408?**
+Only the inverting amplifier gain, V_out/V_in = −R_f/R_in, must be derived, using the virtual-earth idea. The specification says the LC, non-inverting, summing and difference results are not to be derived.
+
+**What is a virtual earth?**
+In an inverting amplifier, V₊ is at 0 V and the very large gain keeps V₋ almost equal to it, so V₋ is at about 0 V. It is called a virtual earth because it is not actually connected to earth.
+
+**What is the bandwidth of AM and FM signals?**
+AM bandwidth is 2f_M, where f_M is the information frequency. FM bandwidth is 2(Δf + f_M), where Δf is the peak frequency deviation.
+
+**How many states does a Johnson counter have?**
+A Johnson counter with n stages has 2n states, with one output changing per clock pulse. A binary counter with n outputs has 2ⁿ states, and a BCD counter has 10.
 
 ## Official syllabus
 

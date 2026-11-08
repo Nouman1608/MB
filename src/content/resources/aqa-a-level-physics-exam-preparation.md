@@ -9,10 +9,12 @@ qualifications: ["a-level"]
 syllabusCodes: ["7408"]
 syllabusSeries: "For first teaching 2015"
 order: 3
-description: "Paper-by-paper exam preparation for AQA A-Level Physics 7408 -- Paper 2's assumed-knowledge structure, choosing and preparing your Paper 3 option topic, practical-skills fluency, a worked answer and a checklist."
+description: "Paper-by-paper exam preparation for AQA A-Level Physics 7408: how Paper 2 builds on Paper 1, choosing your Paper 3 option, practical skills and a checklist."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -121,6 +123,20 @@ handbook lists the micrometer as a measurement needing two judgements (setting t
 reading), each uncertain by half a division, and states that 'The uncertainty of a measurement (two
 judgements) is at least ±1 of the smallest scale reading'; half a division applies only to a single
 reading such as a thermometer.
+
+## Frequently asked questions
+
+**How many papers are there in AQA A-Level Physics 7408?**
+AQA A-Level Physics 7408 has three untiered written papers, each lasting 2 hours. Papers 1 and 2 are worth 85 marks and 34% each, and Paper 3 is worth 80 marks and 32%.
+
+**What are the five Paper 3 options in AQA A-Level Physics?**
+Paper 3 Section B tests one optional topic chosen from Astrophysics, Medical physics, Engineering physics, Turning points in physics and Electronics. Confirm which option your school teaches early and revise only that one in depth.
+
+**Is Paper 1 content examined on AQA Physics Paper 2?**
+Yes. Paper 2 covers Sections 6.2, 7 and 8 but assumes knowledge from Sections 1 to 6.1, so a Paper 2 question can require earlier mechanics or electricity without restating it.
+
+**Why is the uncertainty in a micrometer reading one whole division?**
+AQA treats a micrometer measurement as needing two judgements, setting the zero and taking the reading, so the uncertainty is at least ±1 of the smallest scale reading. Half a division applies only to a single reading.
 
 *Written against AQA A-Level Physics 7408 (specification-at-a-glance, verified 2026-08-28). The
 worked scenario above is an original example written for this resource, not a reproduction of any

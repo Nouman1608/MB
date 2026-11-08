@@ -193,6 +193,20 @@ Learn the content with the [study guide](/resources/aqa-a-level-physics-electron
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How is the Electronics option assessed in AQA A-level Physics?**
+Electronics, section 3.13, is one of five A-level only options in AQA 7408. You study one option, and it is assessed in Paper 3 Section B, worth 35 marks.
+
+**How do you choose the series resistor for a zener diode circuit?**
+The resistor current must equal the load current plus the zener's minimum operating current, and the resistor pd is the supply voltage minus the zener voltage. Divide pd by current for the maximum resistance, then pick the next value below.
+
+**Are digital signals immune to noise?**
+No. Noise affects digital signals too, but because they use only two levels, a comparator or regenerator can restore clean pulses unless the noise is large enough to flip a bit. Saying digital signals are unaffected by noise does not earn credit.
+
+**What is the difference between duty cycle and mark-to-space ratio?**
+Duty cycle is the mark time divided by the whole period, while mark-to-space ratio is the mark time divided by the space time. Confusing the two is a common error in astable questions.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.13 Electronics (A-level only option).
