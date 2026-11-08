@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "biological-molecules"
     subtopic: "biological-molecules-content"
-description: "The chemical elements and building blocks of carbohydrates, lipids, proteins and DNA, and the food tests used to identify them, for Cambridge O Level Biology 5090."
+description: "Elements and building blocks of carbohydrates, lipids, proteins and DNA, and how to carry out the four food tests, for Cambridge O Level Biology 5090."
 author: "saad-zai"
 reviewer: "hina-mogul"
 reviewStatus: "review-pending"

@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "cancer-aqa-gcse-biology"
-description: "Condensed AQA GCSE Biology 8461 notes on cancer: uncontrolled cell division, benign and malignant tumours, secondary tumours, and lifestyle and genetic risk factors, with a self-test."
+description: "AQA GCSE Biology 8461 cancer revision notes: uncontrolled cell division, benign and malignant tumours, secondary tumours and risk factors, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "review-pending"

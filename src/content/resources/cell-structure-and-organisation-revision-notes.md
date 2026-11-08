@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "cells"
     subtopic: "specialised-cells-tissues-and-organs"
-description: "Condensed recall notes on animal, plant and bacterial cells, specialisation and levels of organisation for Cambridge O Level Biology 5090."
+description: "Condensed recall notes on animal, plant and bacterial cells, specialised cells, levels of organisation and magnification for Cambridge O Level Biology 5090."
 author: "saad-zai"
 reviewer: "hina-mogul"
 reviewStatus: "review-pending"
