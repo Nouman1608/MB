@@ -141,6 +141,20 @@ Judgement: the depot suggests gains are likely when work is high volume, repeata
 - Naming the type of returns to scale without comparing the percentage changes.
 - Finishing an assessment with no overall judgement.
 
+## Frequently asked questions
+
+**Should productivity be calculated per worker or per hour?**
+If the question gives hours and the hours changed, divide by total hours worked. Dividing by workers in that case gives a misleading answer.
+
+**Is a rise in output the same as a rise in productivity?**
+No. Productivity is output per unit of input, so compare output with the inputs used before saying productivity rose.
+
+**Can the short run be defined as a number of months?**
+No. The short run is the period during which at least one factor of production cannot be changed, not a fixed length of time.
+
+**How do I identify the type of returns to scale?**
+Compare the percentage change in output with the equal percentage change in all inputs. Naming the type without that comparison loses marks.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-production-productivity-specialisation-and-returns-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-production-productivity-specialisation-and-returns/).

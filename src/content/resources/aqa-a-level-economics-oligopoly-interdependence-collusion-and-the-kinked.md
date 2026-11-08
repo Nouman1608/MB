@@ -244,6 +244,23 @@ What shapes **prices, output, investment, research and advertising?**
 - Saying a cartel always lasts. Incentives to cheat are strong.
 - Listing advantages and disadvantages with no judgement.
 
+## Frequently asked questions
+
+**What is an oligopoly?**
+An oligopoly is a market dominated by a few large firms, with barriers to entry and interdependence, so each firm's decisions affect its rivals.
+
+**What is a concentration ratio?**
+An n-firm concentration ratio adds together the market shares of the n biggest firms in the market. For example, a four-firm ratio adds the shares of the four largest.
+
+**Why are prices stable in an oligopoly?**
+Because of interdependence and uncertainty: firms avoid price changes when they cannot predict rivals' reactions, and compete through non-price methods instead.
+
+**Why do cartels tend to break down?**
+Each member can gain by secretly cutting its price or raising output, so the incentive to cheat makes cartel agreements fragile.
+
+**Why do oligopolists prefer non-price competition?**
+Price cuts are copied quickly and cut everyone's profit, while branding, quality and advertising are harder for rivals to copy.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* specification (7135 and 7136), version 1.3, 29 June 2022, first teaching from September 2015.

@@ -230,6 +230,23 @@ If the firm knew each customer's maximum willingness to pay, it could charge eac
 - Forgetting the no-resale condition for price discrimination.
 - Claiming price discrimination always raises output or always harms consumers.
 
+## Frequently asked questions
+
+**What factors influence monopoly power?**
+Barriers to entry, the number of competitors, advertising and product differentiation. Each makes demand for the firm's product less elastic.
+
+**What are the conditions for price discrimination?**
+The firm must be a price maker, be able to separate customers into groups, face different price elasticities of demand in each group, and stop resale between groups.
+
+**Does a monopolist charge the highest possible price?**
+No. A monopolist charges the profit-maximising price, found on the demand curve at the output where MR = MC.
+
+**What are the advantages of monopoly?**
+Economies of scale may lower costs, supernormal profit can fund research and investment, a natural monopoly avoids duplicated costs, and scale may help international competitiveness.
+
+**What is perfect price discrimination?**
+Perfect price discrimination is when the firm charges each customer exactly their maximum willingness to pay, turning all consumer surplus into producer surplus.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, published by AQA, for exams from June 2016 onwards. Sections used: Monopoly and monopoly power, and Price discrimination.

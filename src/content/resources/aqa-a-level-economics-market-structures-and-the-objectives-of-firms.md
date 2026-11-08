@@ -191,6 +191,23 @@ A balanced answer links the objective to the context.
 - Describing satisficing as "making no profit". It means a sufficient profit.
 - Describing the structure from one factor only. Use all three.
 
+## Frequently asked questions
+
+**What determines where a market sits on the spectrum of competition?**
+Three factors: the number of firms, the degree of product differentiation and the ease of entry. Together they decide how much price-setting power firms have.
+
+**Why do firms maximise profit where MC = MR?**
+If MR is above MC the next unit adds to profit, and if MC is above MR it reduces profit, so profit is highest where the two are equal.
+
+**What is the divorce of ownership from control?**
+In a large company the owners, the shareholders, are different from the managers who run it, so managers may pursue goals such as growth or sales rather than maximum profit.
+
+**What objectives can firms have other than profit?**
+AQA A-level Economics covers survival, growth, quality, sales revenue maximisation, market share and satisficing.
+
+**Where is price read from on a market structure diagram?**
+Output is found where MC = MR, but price is read from the demand (AR) curve at that output, not from the MR curve.
+
 ## Official syllabus
 
 Source: the AQA AS and A-level Economics specification (the combined document for the AS and the A-level), version 1.3, 29 June 2022. Content taught here: 3.1.5.1 and 3.1.5.2, which the PDF prints as 4.1.5.1 and 4.1.5.2.

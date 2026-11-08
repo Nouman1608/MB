@@ -206,6 +206,20 @@ Each line gives a judgement you can build on. State which side you take and why.
 - Calling immobility a labour-only issue and giving no consequence.
 - Offering evaluation that is a list rather than a judgement with reasons.
 
+## Frequently asked questions
+
+**Where does the MSB curve go for a merit good?**
+Above the MPB curve, because the true benefit, including any external benefit and the information gap, is greater than the benefit consumers perceive. Name the social optimum where MSB meets MSC.
+
+**How do you shade a welfare loss on a merit good diagram?**
+Shade only the triangle between MSB and MSC over the gap between market and optimum output, not the whole area under a curve.
+
+**Why is the classification of merit goods described as a value judgement?**
+Because whether a good is better or worse for consumers than they think depends on someone's judgement, often the government's, rather than an objective fact.
+
+**How does a monopoly cause market failure?**
+A monopolist sets output where MR = MC and reads price from demand, so price is above marginal cost and output is restricted, creating a deadweight loss.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, for first teaching from September 2015, published by AQA. Parts used: Merit and demerit goods and Market imperfections.

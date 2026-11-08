@@ -225,6 +225,20 @@ Key statement: a union in a monopsony can raise both wages and employment, but o
 - Concluding with a repeat of the points rather than a judgement that depends on stated conditions.
 - Ignoring outsiders when judging who benefits.
 
+## Frequently asked questions
+
+**What is the difference between the supply curve and MCL for a monopsonist?**
+The supply curve is the average cost of labour, the wage the employer must pay. MCL is the extra cost of hiring one more worker, which is higher because the pay rise goes to all existing workers too.
+
+**What is the difference between insiders and outsiders?**
+Insiders are union members in work; outsiders are the unemployed or those priced out of jobs by a higher wage.
+
+**What happens when a union sets a wage above equilibrium in a competitive labour market?**
+Employers hire fewer workers while more people want to work at that wage, creating a surplus of labour.
+
+**Why should I calculate wage elasticity in union questions?**
+The wage elasticity of demand for labour decides whether the wage bill rises or falls when a union raises the wage, so compare it when asked about the wage bill.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA: the A-level sub-sections 3.1.6.4 and 3.1.6.5 on the AQA website (4.1.6.4 and 4.1.6.5 in the combined PDF).

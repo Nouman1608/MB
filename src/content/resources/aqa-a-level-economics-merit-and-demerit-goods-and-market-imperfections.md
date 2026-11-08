@@ -200,6 +200,23 @@ Consequences are structural unemployment, wasted resources inside the production
 - Calling any large firm a market failure without stating the output restriction and the price above marginal cost.
 - Treating immobility as only a labour issue.
 
+## Frequently asked questions
+
+**What is a merit good?**
+A merit good is one judged to be better for consumers than they themselves realise, so it is under-consumed in a free market, for example because of imperfect information or external benefits in consumption.
+
+**What is asymmetric information?**
+Asymmetric information is when one side of a transaction knows more than the other, such as a seller of a used machine knowing its quality better than the buyer, which can stop beneficial trades from happening.
+
+**What is the difference between occupational and geographical immobility?**
+Occupational immobility is when workers cannot easily move between jobs, often because of skills. Geographical immobility is when factors cannot easily move between places.
+
+**What causes merit goods to be under-provided?**
+AQA 7136 names externalities in consumption and imperfect information, such as benefits that come years later or are hard to judge.
+
+**Is a monopoly always a market failure?**
+Not automatically. A monopoly with large economies of scale may have much lower unit costs, so the output restriction must be weighed against any cost savings.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, for first teaching from September 2015, published by AQA. Sections: Merit and demerit goods and Market imperfections within The market mechanism, market failure and government intervention in markets.

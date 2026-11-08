@@ -193,6 +193,23 @@ Policies work through individual markets. In Country K's taxi market, demand is 
 - Showing LRAS shifting right but forgetting the output gap and price level story.
 - Listing policies without linking each one to a mechanism and an outcome.
 
+## Frequently asked questions
+
+**What are supply-side policies?**
+Supply-side policies are government measures that aim to raise productive capacity and efficiency, shifting long-run aggregate supply to the right.
+
+**What are examples of free-market supply-side policies?**
+Tax cuts, privatisation, deregulation and some labour market reforms, which strengthen incentives and competition.
+
+**What are examples of interventionist supply-side policies?**
+Government spending on education and training, industrial policy and subsidies for research and development.
+
+**What is short-termism?**
+Short-termism is a bias towards short-run results at the expense of long-run returns. It is a market failure that can justify government intervention.
+
+**How can supply-side policies reduce inflation?**
+By lowering costs, for example through higher productivity that cuts unit labour costs, or by expanding capacity, which reduces the rate at which prices rise.
+
 ## Official syllabus
 
 AQA, AS and A-level Economics specification, version 1.3 (29 June 2022), A-level content section 4.2.5.2 in the combined PDF (3.2.5.2 on the AQA website): Supply-side policies. Published by AQA.

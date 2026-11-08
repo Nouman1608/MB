@@ -229,6 +229,23 @@ The specification expects you to recognise that views about redistribution rest 
 - Forgetting benefit withdrawal when discussing incentives.
 - Giving political labels without analysis. Name the value judgement, then show how it changes the conclusion.
 
+## Frequently asked questions
+
+**What is the difference between absolute and relative poverty?**
+Absolute poverty means income too low to afford basic necessities such as food, shelter and clothing. Relative poverty means income below a set share of median income, such as 60%.
+
+**What is the poverty trap?**
+The poverty trap arises when means-tested benefits are withdrawn as earnings rise, which acts like a tax on extra earnings and leaves households keeping little of each extra pound.
+
+**What causes poverty in AQA A-level Economics?**
+Causes include unemployment, low pay, low skills, structural change, ill-health and disability, household type, discrimination, low wealth and inadequate benefits.
+
+**What are the economic effects of redistribution?**
+Redistribution can weaken incentives through high marginal tax rates and benefit withdrawal, has a fiscal cost, may encourage tax avoidance, and can raise aggregate demand because poorer households spend more of extra income.
+
+**What moral arguments are used about redistribution?**
+Utilitarian, Rawlsian and libertarian arguments, and the debate over equality of opportunity versus outcome. Each rests on a value judgement.
+
 ## Official syllabus
 
 The AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, published by AQA, first taught from September 2015.

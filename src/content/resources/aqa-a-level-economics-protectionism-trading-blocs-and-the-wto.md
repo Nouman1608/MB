@@ -226,6 +226,23 @@ Evaluation: agreements are slow when members disagree; large economies hold more
 - Saying a quota raises revenue for government without saying who gets the licences.
 - Treating the SEM and a customs union as the same thing.
 
+## Frequently asked questions
+
+**What are the main types of protectionism in AQA A-level Economics?**
+The specification focuses on tariffs, which are taxes on imports, quotas, which are physical limits on the quantity imported, and export subsidies, which are payments to exporters per unit.
+
+**What are the effects of a tariff?**
+A tariff raises the domestic price, increases home production, reduces consumption and imports, raises government revenue and creates deadweight losses from inefficient production and lost consumption.
+
+**Why do governments use protectionism?**
+Reasons include protecting infant and sunset industries, protecting jobs, anti-dumping, strategic industries, correcting a current account deficit, raising revenue and enforcing standards.
+
+**What is the Single European Market?**
+The SEM goes further than a customs union, aiming to let goods, services, capital and labour move freely between members.
+
+**What does the World Trade Organisation do?**
+The WTO, which replaced the GATT in 1995, negotiates agreements to lower trade barriers, sets trade rules including non-discrimination, settles disputes and monitors members' trade policies.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* specification (7135 and 7136), version 1.3, first teaching from September 2015, section 4.2.6.2 Trade (the protectionism, customs union, SEM and WTO points).

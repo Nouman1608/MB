@@ -248,6 +248,20 @@ MPB = 19 - Q, MPC = MSC = 3 + Q, and the external benefit is 4 per unit, so MSB 
 - Giving the fishing example without noting that each user ignores the cost to others.
 - Stopping at "property rights are absent" without a chain of reasoning to the misallocation.
 
+## Frequently asked questions
+
+**What is a common resource?**
+A common resource is rival but non-excludable, such as an open fishing ground, so it tends to be overused.
+
+**What is a club or quasi-public good?**
+A good with some but not all public-good characteristics, such as an uncongested toll road, which is non-rival but excludable.
+
+**Why are public-good demand curves summed vertically?**
+Because a public good is non-rival, every household consumes the same quantity at once, so marginal social benefit is the sum of each person's marginal benefit at that quantity.
+
+**What must an externality diagram be labelled with?**
+Label both the market and socially optimal quantities and the welfare loss triangle, as well as the private and social curves.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA: A-level sub-sections 3.1.8.3 and 3.1.8.4 (4.1.8.3 and 4.1.8.4 in the combined PDF).

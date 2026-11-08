@@ -253,6 +253,23 @@ When you write about related markets, show a direction at every step, and state 
 - Saying that excess supply makes the curve shift. At a price above equilibrium the curves stay put; price moves.
 - Giving two separate shifts but no equilibrium comparison.
 
+## Frequently asked questions
+
+**How do you calculate price elasticity of supply?**
+Divide the percentage change in quantity supplied by the percentage change in price, using the original values as the base. PES is normally positive because supply slopes upwards.
+
+**What factors affect price elasticity of supply?**
+Spare capacity, stocks of finished goods, the time period, the mobility of factors of production, and the ease of entry and length of production time.
+
+**What happens when there is excess supply?**
+Unsold stock builds up, so sellers cut prices. As price falls, quantity demanded extends and quantity supplied contracts until the market clears.
+
+**What are the five links between markets in AQA A-level Economics?**
+Joint demand, competitive demand, composite demand, derived demand and joint supply.
+
+**What are the assumptions of the demand and supply model?**
+Many price-taking buyers and sellers, identical products, rational and informed agents, other things held constant, freely adjusting prices with no government intervention, and no externalities.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (version 1.3, 29 June 2022), published by AQA, for first teaching from September 2015.

@@ -235,6 +235,23 @@ Property rights give an owner the legal power to use a resource, exclude others 
 - Shading the welfare loss from zero rather than between the market and social outputs.
 - Describing the problem without saying who the third party is.
 
+## Frequently asked questions
+
+**What is the difference between a public good and a private good?**
+A private good is rival and excludable, so a price both rations it and pays for it. A pure public good is non-rival and non-excludable, so a market struggles to charge for it.
+
+**What is the free-rider problem?**
+A free rider consumes a good without paying because others pay or the supplier cannot exclude non-payers. If everyone free rides, the good may not be provided at all.
+
+**What is the tragedy of the commons?**
+When a common resource is rival but non-excludable, each user gains from using more but ignores the cost imposed on others, so the resource is overused. It is relevant to environmental market failure.
+
+**How can technology change whether a good is a public good?**
+Technology can make a good excludable, as with encrypted broadcasting, or make exclusion harder, as with copying digital content.
+
+**Why do negative externalities cause over-production?**
+The market produces where MPB equals MPC, but the external cost means MSC is above MPC, so output is above the social optimum where MSB equals MSC.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA: A-level sub-sections 3.1.8.3 Public goods, private goods and quasi-public goods and 3.1.8.4 Positive and negative externalities in consumption and production (4.1.8.3 and 4.1.8.4 in the combined PDF).

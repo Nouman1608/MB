@@ -101,6 +101,20 @@ These questions follow the AQA AS and A-level Economics specification (version 1
 - Comparing before and after costs without including the new fixed cost.
 - Writing evaluation as a list of points with no overall judgement.
 
+## Frequently asked questions
+
+**Is marginal revenue equal to price for every firm?**
+No. MR equals price only for a price taker. A firm facing a downward-sloping demand curve must cut price to sell more, so its MR is below price.
+
+**Is the output with the highest total revenue the most profitable?**
+No. Profit is total revenue minus total cost, so the output with the highest revenue is not necessarily the one with the highest profit.
+
+**What is a common mistake when comparing costs before and after new technology?**
+Leaving out the new fixed cost. Compare total or average costs including both the higher fixed cost and the lower variable cost.
+
+**What is the difference between accounting profit and abnormal profit?**
+Abnormal profit is what remains after also deducting the owner's opportunity cost, which counts as normal profit; mixing the two up loses marks.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-revenue-profit-and-technological-change-revision-notes/) and re-read the [study guide](/resources/aqa-a-level-economics-revenue-profit-and-technological-change/).

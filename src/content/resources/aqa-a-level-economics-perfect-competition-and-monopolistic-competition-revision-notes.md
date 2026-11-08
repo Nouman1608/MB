@@ -254,6 +254,20 @@ Advertising of £60 lifts fixed cost to 420 and moves demand to P = 50 − 0.5q.
 - Forgetting that entry shifts a firm's demand curve, not just the industry.
 - Treating advertising as always wasteful, or always beneficial, with no judgement.
 
+## Frequently asked questions
+
+**What is the difference between shut-down and exit?**
+Shut-down is a short-run decision when price falls below average variable cost. Exit is a long-run decision when the firm keeps making a loss.
+
+**What is the difference between a price taker and a price maker?**
+A price taker must accept the market price, as in perfect competition. A price maker chooses its price because its demand curve slopes down.
+
+**Does entry shift the firm's demand curve in monopolistic competition?**
+Yes. Entry of firms offering close substitutes shifts each existing firm's demand curve left until only normal profit remains.
+
+**Is advertising always wasteful in monopolistic competition?**
+No. Advertising can inform consumers and support variety, but it can also add cost without much benefit; give a judgement rather than calling it always wasteful or always beneficial.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, AQA, for first teaching from September 2015.

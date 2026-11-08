@@ -245,6 +245,20 @@ Real-world examples: peak and off-peak travel, student and child discounts, book
 - Confusing a cost-based price difference with price discrimination.
 - Omitting units and the word "per" when quoting prices and profits.
 
+## Frequently asked questions
+
+**What is a natural monopoly?**
+A natural monopoly is a market where one firm's average cost falls over the whole range of demand, so a single firm can supply the market at lowest cost.
+
+**Is a price difference based on cost price discrimination?**
+No. Price discrimination is charging different prices for the same product where the difference is not explained by costs; a cost-based premium is not price discrimination.
+
+**Are all price makers monopolists?**
+No. All monopolists are price makers, but firms in monopolistic competition and oligopoly are price makers too.
+
+**How do you calculate supernormal profit from a monopoly diagram?**
+Multiply the profit per unit, price minus average cost at the profit-maximising output, by the quantity sold.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, published by AQA. Sections used: Monopoly and monopoly power, and Price discrimination.

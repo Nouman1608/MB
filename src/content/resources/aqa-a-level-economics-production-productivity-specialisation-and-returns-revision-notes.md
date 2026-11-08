@@ -232,6 +232,20 @@ Other pairs: productivity and output; marginal and average; specialisation and d
 - Explaining money without linking it to specialisation.
 - Naming a change in cost per unit without saying that input prices are held constant.
 
+## Frequently asked questions
+
+**Are diminishing returns and decreasing returns to scale the same?**
+No. Diminishing returns happen in the short run when one factor is varied and others are fixed. Decreasing returns to scale happen in the long run when all inputs increase together and output rises by a smaller proportion.
+
+**Does total product fall when marginal product falls?**
+No. When marginal product falls but is still positive, total product keeps rising, just more slowly.
+
+**How are diminishing returns linked to costs?**
+With a constant wage, marginal cost is the wage divided by marginal product, so falling marginal product makes marginal cost rise.
+
+**What assumption links returns to scale to cost per unit?**
+Input prices are held constant. Then increasing returns to scale lower long-run cost per unit and decreasing returns raise it.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3, 29 June 2022, published by AQA.
