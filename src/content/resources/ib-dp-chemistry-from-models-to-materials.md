@@ -262,6 +262,20 @@ Each chain unit is C₆H₁₀O₅ (162.16 g mol⁻¹); adding water gives gluco
 - Other units: [course page](/boards/ib/ib-dp/chemistry/); progress: [syllabus checklist](/checklists/ib/ib-dp/chemistry/)
 - Spot weak areas quickly with a free [diagnostic](/diagnostics/)
 
+## Frequently asked questions
+
+**What is the bonding continuum in IB DP Chemistry?**
+The bonding continuum is the idea that the ionic, covalent and metallic models are idealised end points, and that most real substances show mixed character. A polar covalent bond, for example, is covalent with some ionic character.
+
+**Why is an alloy a mixture rather than a compound?**
+An alloy's composition can vary and it has no fixed formula, so it is a mixture of a metal with one or more other elements. Metallic bonding is non-directional, which lets atoms of a different element fit into the lattice.
+
+**What links form in condensation polymers?**
+In polyesters, a carboxyl group reacts with a hydroxyl group to form an ester link, –COO–, and in polyamides a carboxyl group reacts with an amino group to form an amide link, –CONH–. Water is released at each link; this is HL content.
+
+**How many water molecules are released when a protein chain forms?**
+A chain of N monomer units has N − 1 links, so N − 1 water molecules are released when it forms. A chain of 120 amino acids, for example, releases 119 water molecules.
+
 ## Official syllabus
 
 Document followed: *Chemistry guide*, Diploma Programme, International Baccalaureate Organization (February 2023; first examined 2025). Scope here: Structure 2.4, From models to materials; 2.4.1 to 2.4.5 for SL and HL, 2.4.6 additional higher level.

@@ -248,6 +248,20 @@ Small reminder: ΔG⦵ = +10.0 kJ mol⁻¹ at 400 K gives lnK = −10 000 / (8.3
 - (HL only) Reading Q > K as "moves forward".
 - (HL only) Using kJ or °C in ΔG⦵ = −RT lnK.
 
+## Frequently asked questions
+
+**What are the features of dynamic equilibrium?**
+At dynamic equilibrium in a closed system, the forward and backward rates are equal and not zero, the concentrations stay constant but are not necessarily equal, and observable properties such as colour and pressure are constant.
+
+**What is the relationship between K for a reaction and its reverse?**
+At the same temperature, K for the reverse reaction is 1 divided by K for the forward reaction. If K is 0.25 for the forward reaction, it is 4.0 for the reverse.
+
+**How does the reaction quotient Q predict the direction of a reaction?**
+If Q is less than K, the net reaction goes forward, making more products; if Q equals K, the system is at equilibrium; if Q is greater than K, the net reaction goes backward. Q is HL content.
+
+**Are quadratic equations needed for IB equilibrium calculations?**
+No. The IB guide states that quadratic equations are not expected and only homogeneous equilibria are assessed in calculations. Use shortcuts such as taking square roots of a perfect square, or the small-K approximation.
+
 ## Official syllabus
 
 Aligned with the IB's DP *Chemistry guide* (International Baccalaureate; issued February 2023; first assessment 2025). These notes follow Reactivity 2.3, How far? The extent of chemical change, understandings 2.3.1 to 2.3.4 (SL and HL) and 2.3.5 to 2.3.7 (HL only).

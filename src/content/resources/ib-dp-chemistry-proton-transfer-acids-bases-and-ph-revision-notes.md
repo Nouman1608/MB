@@ -234,6 +234,20 @@ Reminder: if 18.75 cm³ of 0.0800 mol dm⁻³ NaOH reaches equivalence with 15.0
 - Sketching a pH curve with a gentle slope at equivalence, or placing the equivalence point anywhere other than pH 7 for strong acid with strong base.
 - Stating that neutral water always has pH 7, ignoring temperature.
 
+## Frequently asked questions
+
+**What is a Brønsted–Lowry acid?**
+A Brønsted–Lowry acid is a proton (H⁺) donor and a Brønsted–Lowry base is a proton acceptor. In IB DP Chemistry Reactivity 3.1, an alkali is a base that dissolves in water to release OH⁻(aq).
+
+**How do you calculate the pH of a strong alkali?**
+Take [OH⁻] as the concentration of the Group 1 hydroxide, use Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 298 K to find [H⁺], then calculate pH = −log₁₀[H⁺]. Using −log₁₀[OH⁻] and calling it pH is a common error.
+
+**What is the difference between a strong acid and a concentrated acid?**
+A strong acid ionizes completely in water, while a concentrated acid has a lot of solute per dm³. Strength and concentration are separate ideas, so a weak acid can be concentrated and a strong acid can be dilute.
+
+**What is the difference between amphiprotic and amphoteric?**
+Amphiprotic describes a species that can both donate and accept a proton, such as HSO₄⁻. Amphoteric describes a substance, such as Al₂O₃, that reacts with both acids and bases.
+
 ## Official syllabus
 
 This unit is drawn from Reactivity 3.1 (understandings 3.1.1 to 3.1.8) of the *Diploma Programme Chemistry guide*, first examined in 2025 and issued by the International Baccalaureate Organization in February 2023.

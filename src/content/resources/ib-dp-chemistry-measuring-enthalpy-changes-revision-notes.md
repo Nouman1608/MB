@@ -200,6 +200,20 @@ For a reaction in solution, plot a temperature–time graph with readings before
 - Starting the Ea arrow at the product level or at the axis instead of at the reactant level.
 - Defining temperature as "the amount of heat in something".
 
+## Frequently asked questions
+
+**What is the difference between heat and temperature?**
+Heat is energy that flows from a hotter body to a cooler one and depends on the amount of substance, measured in J. Temperature is a measure of the mean kinetic energy of the particles, measured in K, and does not depend on the amount.
+
+**How can you tell from a thermometer whether a reaction is exothermic?**
+The thermometer reads the surroundings. If the reading goes up, the system has lost energy and the reaction is exothermic with a negative ΔH; if it goes down, the reaction is endothermic with a positive ΔH.
+
+**Why is an experimental ΔH usually less negative than the data value?**
+Energy passes to the air and the bench, warms the can or cup and thermometer, and may be lost through incomplete combustion or fuel evaporating from the wick. Products may also not be in their standard states.
+
+**Do you add 273 to a temperature change?**
+No. A temperature change has the same value in kelvin and in degrees Celsius, so a 6.0 °C rise is a 6.0 K rise. Only absolute temperatures are converted.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023). Material on this page: Reactivity 1.1 (Measuring enthalpy changes).

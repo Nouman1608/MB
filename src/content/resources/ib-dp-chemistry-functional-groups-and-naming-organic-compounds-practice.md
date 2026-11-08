@@ -182,6 +182,20 @@ D: HOCH₂CH₂CH₂CH=CHCH₃
 - Try [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Structure 3.2 practice set cover?**
+It covers Structure 3.2.1 to 3.2.6: formula types, functional groups, homologous series, boiling point trends, IUPAC naming and structural isomers, including classifying alcohols, halogenoalkanes and amines.
+
+**What are common naming mistakes in organic chemistry?**
+Typical errors include choosing a longest chain that does not contain the functional group or C=C, and numbering so a C=C or methyl gets the lowest number when an -ol, -one or -oic acid suffix is present. Calling compounds isomers without checking their molecular formulas also loses marks.
+
+**How do you classify an amine as primary, secondary or tertiary?**
+Count the carbon atoms bonded to the nitrogen atom, not to the carbon next to it. Classifying amines by the carbon atom, as you would for an alcohol, gives the wrong answer.
+
+**Should you name a functional group or a class of compound?**
+When a question asks for the functional group, give its name, such as amino or ester, rather than the class of compound, such as amine. Checking whether nitrogen is bonded to a C=O carbon distinguishes an amide from an amine.
+
 ## Official syllabus
 
 Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, issued in February 2023 for courses examined from 2025. This page follows Structure 3.2, Functional groups: Classification of organic compounds, understandings 3.2.1 to 3.2.6, which are common to SL and HL.

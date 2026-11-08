@@ -295,6 +295,20 @@ The background on ΔG is in the [entropy and spontaneity guide](/resources/ib-dp
 
 Try the [practice questions](/resources/ib-dp-chemistry-how-far-the-extent-of-chemical-change-practice/) and use the [revision notes](/resources/ib-dp-chemistry-how-far-the-extent-of-chemical-change-revision-notes/) for quick review. Rates and catalysts are covered in the [How fast? study guide](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory/).
 
+## Frequently asked questions
+
+**What is Le Châtelier's principle?**
+Le Châtelier's principle states that if the conditions of a system at equilibrium change, its position moves in the direction that partly opposes the change. Concentration and pressure changes move the position but do not change K; only temperature changes K.
+
+**Why does a catalyst not change the position of equilibrium?**
+A catalyst lowers the activation energy for both the forward and backward reactions, so both rates rise by the same factor. Equilibrium is reached faster, but the equilibrium amounts and K stay the same.
+
+**Does a large K mean a reaction is fast?**
+No. K tells you how far a reaction goes at equilibrium at a given temperature, not how fast equilibrium is reached. A reaction with a very large K can still be extremely slow.
+
+**What is the link between ΔG⦵ and K?**
+ΔG⦵ = −RT lnK, with ΔG⦵ in J mol⁻¹, T in kelvin and R = 8.31 J K⁻¹ mol⁻¹. A negative ΔG⦵ gives K greater than 1, favouring products, and a positive ΔG⦵ gives K less than 1; this is HL content.
+
 ## Official syllabus
 
 Aligned with the IB's DP *Chemistry guide* (International Baccalaureate; issued February 2023; first assessment 2025). This page follows Reactivity 2.3, How far? The extent of chemical change, understandings 2.3.1 to 2.3.4 (SL and HL) and 2.3.5 to 2.3.7 (HL only).

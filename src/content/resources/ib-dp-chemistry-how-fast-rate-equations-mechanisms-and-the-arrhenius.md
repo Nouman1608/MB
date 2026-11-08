@@ -288,6 +288,20 @@ A = e^23.89 ≈ **2.4 × 10¹⁰ s⁻¹** (units of a first-order k)
 
 Condense it all with the [revision notes](/resources/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius-revision-notes/), and then work through the [practice questions](/resources/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius-practice/). Organic mechanisms that this unit links to are in the [Reactivity 3 mechanisms guide](/resources/ib-dp-chemistry-reactivity-3-mechanisms/).
 
+## Frequently asked questions
+
+**How do you evaluate a proposed reaction mechanism?**
+A mechanism is acceptable only if its steps add up to the overall equation, with intermediates cancelling, and the rate equation predicted from the rate-determining step matches the experimental rate equation. Passing both tests shows consistency, not proof.
+
+**Why are termolecular steps unlikely?**
+A termolecular step needs three particles to collide at the same moment with enough energy and the right geometry, which is very unlikely. A mechanism made of bimolecular steps is usually preferred.
+
+**What do the graphs look like for zero, first and second order reactions?**
+On a rate against concentration graph, zero order gives a horizontal line, first order a straight line through the origin and second order an upward curve through the origin. On a concentration–time graph, zero order is a falling straight line and first order has a constant half-life.
+
+**What does the Arrhenius factor A represent?**
+The Arrhenius factor, A, accounts for how often particles collide with the proper orientation, while e^(−Ea/RT) is the fraction of collisions with at least the activation energy. A has the same units as the rate constant k.
+
 ## Official syllabus
 
 Mapped to the *Chemistry guide* for the Diploma Programme (International Baccalaureate, February 2023; first assessment 2025). Scope: the HL-only understandings 2.2.6 to 2.2.13 of Reactivity 2.2, which asks how fast chemical change happens.

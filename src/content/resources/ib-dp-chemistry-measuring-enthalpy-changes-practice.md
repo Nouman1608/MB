@@ -167,6 +167,20 @@ Q(water) = 200.0 × 4.18 × 11.2 = 9363 J = 9.363 kJ [1]
 - [Book a free trial class](/trial/).
 - Track progress with the [DP Chemistry checklist](/checklists/ib/ib-dp/chemistry/).
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 1.1 practice set cover?**
+It covers Reactivity 1.1, Measuring enthalpy changes: heat and temperature, system and surroundings, exothermic and endothermic changes, energy profiles, and calorimetry calculations for reactions in solution and for burning fuels and foods.
+
+**Which mass do you use in Q = mcΔT?**
+Use the mass of the liquid that warmed or cooled, such as the water or the combined solutions, never the mass of the fuel or solid. When two solutions are mixed, include both volumes.
+
+**What sign mistakes are common in enthalpy calculations?**
+An exothermic ΔH needs a minus sign, and a falling thermometer means ΔH is positive. Dividing joules by moles and then quoting kJ mol⁻¹ is another common error.
+
+**How should an energy profile be labelled?**
+Label the horizontal axis reaction coordinate and the vertical axis potential energy, mark the reactant and product levels, and draw ΔH and Ea arrows, with Ea starting at the reactant level. Axes labelled "time" or "energy" lose marks.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023). Material on this page: Reactivity 1.1 (Measuring enthalpy changes).

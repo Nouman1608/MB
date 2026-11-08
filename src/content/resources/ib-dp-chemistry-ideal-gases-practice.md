@@ -168,6 +168,20 @@ The bag must fill to 60.0 dm³ at 30.0 °C and 125 kPa.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Structure 1.5 practice set cover?**
+It covers Structure 1.5, Ideal gases: the assumptions of the ideal gas model, why real gases deviate, molar volume, gas graphs, PV = nRT and the combined gas law, including experimental molar mass and reacting gas volumes.
+
+**What unit mistakes are common in ideal gas calculations?**
+Typical errors include substituting °C instead of kelvin, converting MPa as if it were kPa, treating cm³ as dm³, and leaving the answer in m³ when cm³ or dm³ was asked for.
+
+**When can you use the molar volume of 22.7 dm³ mol⁻¹?**
+Only at STP, 273.15 K and 100 kPa. At other conditions, calculate the molar volume from RT/P or use PV = nRT.
+
+**How do you answer a "show that" question with gas data?**
+Show the calculation for every data pair, not just one, before drawing a conclusion. A conclusion based on a single calculation is incomplete.
+
 ## Official syllabus
 
 These questions are based on the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Structure 1.5.

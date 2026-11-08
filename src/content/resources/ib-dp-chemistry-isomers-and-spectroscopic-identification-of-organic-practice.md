@@ -156,6 +156,20 @@ New to the content? Begin with the [study guide](/resources/ib-dp-chemistry-isom
 - [Book a free trial class](/trial/).
 - Other units: [IB DP Chemistry course page](/boards/ib/ib-dp/chemistry/) and [printable checklist](/checklists/ib/ib-dp/chemistry/).
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Structure 3.2.7 to 3.2.12 practice set cover?**
+It covers the HL content on stereoisomers, including cis-trans and optical isomers, mass spectrometry, infrared spectroscopy, ¹H NMR spectroscopy and combining techniques to identify an unknown organic compound.
+
+**How should fragment ions be written in mass spectrometry answers?**
+Pair each m/z value with a formula written as a positive ion, such as CH₃CO⁺. Numbers alone, or a fragment without its positive charge, do not earn credit.
+
+**What are common mistakes in ¹H NMR splitting questions?**
+Students often count hydrogens on the same carbon, or count across a carbon with no hydrogen, when applying the n + 1 rule. A carbon with no hydrogen blocks splitting between the groups on either side.
+
+**How should optical activity be described?**
+Say that an enantiomer rotates the plane of plane-polarized light, not just that it "rotates light". A racemic mixture shows no rotation because the two enantiomers' rotations cancel, not because its molecules are non-chiral.
+
 ## Official syllabus
 
 Questions written against the International Baccalaureate Diploma Programme *Chemistry guide*, first assessment 2025 (published by the IB in February 2023), Structure 3.2.7 to 3.2.12; all additional higher level, HL only.

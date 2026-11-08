@@ -257,6 +257,20 @@ Suppose the start is 20.4 °C, the highest reading 26.8 °C and the extended lin
 
 Lock in the definitions and methods with the [revision notes](/resources/ib-dp-chemistry-measuring-enthalpy-changes-revision-notes/), then work the [practice set](/resources/ib-dp-chemistry-measuring-enthalpy-changes-practice/). [Reactivity 1.2](/resources/ib-dp-chemistry-energy-cycles-in-reactions/) then uses bond enthalpies and Hess's law for reactions that cannot be measured directly. For exam technique across the course, read the [exam preparation guide](/resources/ib-dp-chemistry-exam-preparation/).
 
+## Frequently asked questions
+
+**What are the system and the surroundings in an enthalpy experiment?**
+The system is the set of chemicals taking part, the reactants turning into products. The surroundings are everything else, including the solvent water, the cup, the thermometer and the air.
+
+**How do you calculate ΔH from a calorimetry experiment?**
+Calculate Q = mcΔT for the liquid that changed temperature, convert to kJ, then use ΔH = −Q/n, where n is the moles of the limiting reactant or fuel burned. Both Q = mcΔT and the specific heat capacity of water are in the IB data booklet.
+
+**Why do some reactions give out energy and others take it in?**
+It depends on the relative stability of reactants and products. If the products have lower potential energy and are more stable, the difference is given out and the reaction is exothermic; if they are less stable, energy is taken in.
+
+**How do you correct for heat loss in a solution calorimetry experiment?**
+Read the temperature regularly before and after mixing, then extend the cooling line back to the time of mixing. Use this extrapolated temperature, rather than the highest reading, to find ΔT.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023). Material on this page: Reactivity 1.1 (Measuring enthalpy changes).

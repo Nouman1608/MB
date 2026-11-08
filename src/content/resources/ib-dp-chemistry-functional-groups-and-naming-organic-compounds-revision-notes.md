@@ -247,6 +247,20 @@ So (CH₃)₃CNH₂, 2-methylpropan-2-amine, is a **primary** amine, even though
 - Classifying amines by the carbon atom, as for alcohols.
 - Calling two compounds isomers without checking that their molecular formulas match.
 
+## Frequently asked questions
+
+**What is a homologous series?**
+A homologous series is a family of compounds with the same functional group and general formula, where successive members differ by CH₂, have similar chemistry and show a gradual trend in physical properties. Alkanes, for example, have the general formula CₙH₂ₙ₊₂.
+
+**Why does boiling point increase along a homologous series?**
+Each successive member has one more CH₂ unit, so it has more electrons and a larger surface area, giving stronger London (dispersion) forces between molecules. More energy is needed to separate the molecules.
+
+**Why does branching lower the boiling point?**
+Branched molecules have less surface contact with each other, so the London forces between them are weaker. 2,2-dimethylbutane, for example, boils at a lower temperature than hexane.
+
+**What are the types of structural isomerism in IB DP Chemistry?**
+Structural isomers have the same molecular formula but different connectivity. The types are branched versus straight-chain (different carbon skeleton), position isomers (the group in a different place) and functional group isomers (a different homologous series).
+
 ## Official syllabus
 
 Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, issued in February 2023 for courses examined from 2025. These notes follow Structure 3.2, Functional groups: Classification of organic compounds, understandings 3.2.1 to 3.2.6, which are common to SL and HL.

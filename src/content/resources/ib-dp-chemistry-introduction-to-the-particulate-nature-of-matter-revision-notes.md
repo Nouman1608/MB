@@ -232,6 +232,20 @@ Worked reminder: a pure solid heated steadily shows plateaus at 44 °C and 280 �
 - Comparing kinetic energies with Celsius values; always convert to kelvin first.
 - Writing "°K" or giving a negative kelvin temperature.
 
+## Frequently asked questions
+
+**What is the difference between a homogeneous and a heterogeneous mixture?**
+A homogeneous mixture has a uniform composition and one phase, such as vinegar or bronze. A heterogeneous mixture is not uniform and has two or more visible phases, such as muddy water.
+
+**How do you choose a separation method?**
+Identify what you want to keep and the physical property that differs between the parts. Dissolve then filter for an insoluble solid, evaporate or crystallize for a dissolved solid, use fractional distillation for two miscible liquids, and chromatography for a small sample to identify.
+
+**How do you convert between Celsius and kelvin?**
+Add 273.15 to a Celsius temperature to get kelvin, and subtract 273.15 to go back. One kelvin is the same size as one Celsius degree; only the zero point differs.
+
+**What happens on the plateaus of a heating curve?**
+On a plateau the energy supplied overcomes the attractions between particles, so the average kinetic energy and temperature stay constant while two states are present. The boiling plateau is usually longer than the melting plateau.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023): Structure 1.1, Introduction to the particulate nature of matter.

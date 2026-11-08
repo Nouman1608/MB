@@ -9,10 +9,12 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Chemistry"]
 syllabusSeries: "First assessment 2025"
 order: 1
-description: "Paper-by-paper exam preparation for IB Diploma Programme Chemistry -- how to use the data booklet effectively, time allocation on Paper 1, connected-topic revision for Paper 2, a worked scenario and a before/during-exam checklist."
+description: "Paper-by-paper exam preparation for IB Diploma Programme Chemistry: using the data booklet, Paper 1 timing, linked-topic revision for Paper 2 and a checklist."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -122,6 +124,20 @@ inside each molecule are strong. 4. Revising connections between topics (e.g. ho
 affects reactivity) rather than treating each topic as a standalone block. 5. Mark a best guess, flag
 it, and move on, returning to it later only if time remains, since it carries the same value as
 every other multiple-choice question regardless of difficulty.
+
+## Frequently asked questions
+
+**How much are IB DP Chemistry Paper 1 and Paper 2 worth?**
+In IB Diploma Programme Chemistry, Paper 1 is worth 36% of the final grade and Paper 2 is worth 44%. Paper 1 has multiple-choice (Paper 1A) and data-based (Paper 1B) questions, while Paper 2 has short-answer and extended-response questions.
+
+**How should you prepare to use the IB Chemistry data booklet?**
+A clean copy of the data booklet is provided for every paper at SL and HL, so practise finding constants, formulae and data quickly under timed conditions. Knowing where things are matters more than memorising the contents.
+
+**What should you do with a hard multiple-choice question in Paper 1?**
+Mark a best guess, flag it and move on, returning only if time remains. Every multiple-choice question is worth the same regardless of difficulty.
+
+**How should you revise for IB Chemistry Paper 2?**
+Both papers draw questions across the structure-and-reactivity framework, so revise the connections between topics, such as linking bonding structure to reactivity or energetics to equilibrium, rather than each topic in isolation.
 
 ## Official syllabus
 

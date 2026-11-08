@@ -250,6 +250,20 @@ A chain of N monomer units has N − 1 links, so N − 1 water molecules are rel
 - (HL only) Leaving an extra –OH or –H at the ends of a condensation repeating unit.
 - (HL only) Saying hydrolysis "removes water" rather than adds it.
 
+## Frequently asked questions
+
+**What is the bonding triangle?**
+The bonding triangle plots electronegativity difference on the vertical axis against average electronegativity on the horizontal axis for binary compounds. Its corners represent ionic, covalent and metallic bonding, and the IB data booklet provides the diagram and electronegativity data.
+
+**Why can the electronegativity difference alone not place a compound in the bonding triangle?**
+Two compounds with the same small electronegativity difference can be metallic, with a low average electronegativity, or covalent, with a high average. You need both values to locate the compound.
+
+**Why do most plastics soften on heating?**
+Warming overcomes the intermolecular forces between the polymer chains, while the covalent bonds in the chains stay intact. Cross-linked plastics do not soften on heating.
+
+**Why does addition polymerization have 100% atom economy?**
+No atoms are lost to a by-product in addition polymerization, so all the monomer atoms end up in the polymer. Condensation polymerization releases a small molecule, such as water, at each link.
+
 ## Official syllabus
 
 Document followed: *Chemistry guide*, Diploma Programme, International Baccalaureate Organization (February 2023; first examined 2025). Scope here: Structure 2.4, From models to materials; 2.4.1 to 2.4.5 for SL and HL, 2.4.6 additional higher level.

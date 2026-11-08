@@ -221,6 +221,20 @@ A catalyst lowers the forward and reverse barriers by the same amount. That is w
 - Adding a second curve for a catalyst, or changing ΔH on an energy profile when a catalyst is added.
 - Saying a catalyst changes the yield at equilibrium.
 
+## Frequently asked questions
+
+**What are the conditions for a successful collision?**
+Particles must collide with energy at least equal to the activation energy and with the proper orientation, called collision geometry. Only a small fraction of collisions meet both conditions.
+
+**Why does a small rise in temperature greatly increase reaction rate?**
+A higher temperature only slightly raises the average kinetic energy, but it moves a much larger share of particles past the activation energy on the Maxwell–Boltzmann curve. A full explanation mentions this, not just more frequent collisions.
+
+**How is a catalyst shown on a Maxwell–Boltzmann curve?**
+Keep the same single curve, because the temperature has not changed, and mark a second activation energy line further to the left. The larger area beyond the catalysed Ea shows a larger fraction of successful collisions.
+
+**How do you calculate the activation energy of a reverse reaction?**
+For an exothermic reaction, Ea(reverse) = Ea(forward) + the size of ΔH; for an endothermic reaction, Ea(reverse) = Ea(forward) − ΔH. A catalyst lowers the forward and reverse barriers by the same amount.
+
 ## Official syllabus
 
 Condensed from the International Baccalaureate's Diploma Programme *Chemistry guide* (February 2023; first assessment 2025). These notes follow Reactivity 2.2, How fast? The rate of chemical change, understandings 2.2.1 to 2.2.5, which are common to SL and HL.
