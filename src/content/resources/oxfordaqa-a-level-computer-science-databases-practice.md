@@ -218,6 +218,20 @@ Correct SELECT fields and all four tables in FROM [1]; three correct join condit
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OxfordAQA 9645 database questions taken from past papers?**
+No. They are original practice questions written for revision, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside official past papers from your board or school.
+
+**What do these databases practice questions cover?**
+They cover sections 3.15.1.1 to 3.15.1.5 and 3.15.2 of the OxfordAQA 9645 specification: entity relationship modelling, key terms, normalisation to third normal form, SQL, client server databases and record locks, and Big Data.
+
+**What are common mistakes in SQL questions?**
+Common errors are writing too few join conditions in a multi-table query, selecting a plain field beside aggregates without GROUP BY, and using UPDATE or DELETE with an incomplete WHERE clause. A query joining four tables needs three join conditions.
+
+**How should you explain why a database is normalised?**
+Tie the reason to a specific update, insertion or deletion problem in the scenario. Answers that only say normalisation "saves space" gain little.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.15 Databases.

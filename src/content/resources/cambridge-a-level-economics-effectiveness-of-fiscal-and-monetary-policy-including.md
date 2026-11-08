@@ -253,6 +253,23 @@ Government failure exists when intervention leaves the economy worse off or does
 - Describing conflicts without saying which objective gains and which loses.
 - Listing government failures without linking them to a named policy.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 outcomes does this policy effectiveness guide cover?**
+It covers part of outcome 10.3.1, fiscal policy including Laffer curve analysis and monetary policy, plus 10.3.2 on problems and conflicts and 10.3.3 on government failure, in the Cambridge International AS & A Level Economics 9708 syllabus.
+
+**Where is policy effectiveness assessed in Cambridge 9708 Economics?**
+Section C of Paper 4 holds the macroeconomic essays, and the syllabus says answers there should show evidence of evaluation. Judging effectiveness is therefore the key skill for this unit.
+
+**What is crowding out?**
+Crowding out happens when government borrowing pushes up interest rates and private investment falls. It reduces the net effect of a rise in government spending on output.
+
+**Why does a budget deficit not always raise the debt-to-GDP ratio by much?**
+A deficit adds to national debt, but if nominal GDP grows faster, the ratio rises more slowly. Faster growth slows the rise in the debt burden, though a deficit still adds debt.
+
+**How should you describe a policy conflict?**
+Say which objective gains and which loses. Describing a conflict without naming both sides is a common error.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus, for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. This guide covers part of outcome 10.3.1 and outcomes 10.3.2 and 10.3.3.

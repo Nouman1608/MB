@@ -259,6 +259,20 @@ If cyclical unemployment is 150,000, this removes 40% of it and leaves the struc
 - Claiming demand-side policy can lower the natural rate permanently.
 - Listing policies without saying which type of unemployment each tackles.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 outcomes does this employment and unemployment guide cover?**
+It covers section 9.3, Employment/unemployment, outcomes 9.3.1 to 9.3.7 of the Cambridge International AS & A Level Economics 9708 syllabus, from full employment and the natural rate to labour mobility and policies to reduce unemployment.
+
+**What is full employment?**
+Full employment is the situation in which all those prepared and able to work at the prevailing wage can obtain a job. It does not mean zero unemployment, because frictional and structural unemployment remain.
+
+**What is the difference between voluntary and involuntary unemployment?**
+Voluntary unemployment occurs when a person chooses not to take a job at the going wage, for example because their reservation wage is higher. Involuntary unemployment occurs when a person would accept work at the going wage and is able to do it, but has no vacancy to fill.
+
+**What is hysteresis in the labour market?**
+Hysteresis is a rise in the equilibrium rate of unemployment after a recession, as long spells of joblessness cause skills to decay and contacts to be lost. It is not simply any long spell of unemployment.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 9.3 Employment/unemployment (Cambridge University Press & Assessment).

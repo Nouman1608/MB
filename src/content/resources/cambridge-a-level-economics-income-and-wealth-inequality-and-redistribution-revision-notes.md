@@ -222,6 +222,23 @@ Example: estate 380,000, threshold 200,000, rate 40%. Tax = 180,000 × 0.40 = 72
 - Forgetting that transfers and state provision need funding.
 - Mixing up the effect on income inequality with the effect on wealth inequality.
 
+## Frequently asked questions
+
+**Do you need to calculate the Gini coefficient for Cambridge 9708?**
+No. Calculation of the Gini coefficient is not required. You need to know that it is the area between the line of equality and the cumulative-share curve as a fraction of the area under the line of equality, and how to interpret it.
+
+**What is the difference between the marginal and average tax rate?**
+The marginal rate is the tax on the next unit of income, while the average rate is total tax divided by income. A tax is progressive when the average rate rises as income rises.
+
+**Why is wealth usually more unequally distributed than income?**
+Wealth accumulates over time, because saving moves income into wealth and wealth itself earns income such as rent, interest and dividends.
+
+**What is the difference between universal and means-tested benefits?**
+Universal benefits are simple and reach everyone in a group, while means-tested benefits are targeted at those on low incomes. When judging either, remember that transfers and state provision need to be funded by taxes.
+
+**How do you calculate net wealth?**
+Net wealth equals assets minus debts. For example, assets of 340,000 and debts of 190,000 give net wealth of 150,000.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 3.3.

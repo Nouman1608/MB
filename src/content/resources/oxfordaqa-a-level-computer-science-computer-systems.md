@@ -198,6 +198,23 @@ The virtual machine executes these; they are not machine code.
 
 Condense this with the [revision notes](/resources/oxfordaqa-a-level-computer-science-computer-systems-revision-notes/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-computer-science-computer-systems-practice/). For how written theory papers reward precise terms, see [exam preparation for this course](/resources/oxfordaqa-a-level-computer-science-exam-preparation/).
 
+## Frequently asked questions
+
+**What is the difference between hardware and software?**
+In the OxfordAQA 9645 specification, hardware is the electronic components of a computer system and software is the sequences of instructions that are executed using the hardware. Each depends on the other: hardware does nothing useful without instructions, and software needs hardware to execute it.
+
+**What are the four kinds of system software?**
+The specification lists operating systems, utility programs, libraries and translators. Together they manage and support the computer so that application software can run.
+
+**What does it mean that the operating system hides the complexity of the hardware?**
+Programs and users make simple requests such as "save this file", and the OS turns them into the detailed operations a particular device needs. The program does not need to know which storage device is fitted or how to control it.
+
+**Why can a process fail to load when there is enough free memory in total?**
+A process needs one free block large enough to hold it. If the free locations are split into several smaller blocks, none of which is big enough, the process cannot be loaded even though the total free space would be sufficient.
+
+**What are the advantages of assembly language over a high-level language?**
+Assembly language gives direct control of the hardware and registers, and code can be very fast and compact. Against that, it is slow to write, hard to read and debug, and tied to one processor type, while high-level languages are portable and easier to maintain.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.6 Computer systems.

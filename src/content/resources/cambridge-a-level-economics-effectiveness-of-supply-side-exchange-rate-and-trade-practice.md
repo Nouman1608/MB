@@ -115,6 +115,20 @@ Teaching is in the [study guide](/resources/cambridge-a-level-economics-effectiv
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 supply-side and trade policy questions from past papers?**
+No. They are original practice questions with worked answers covering part of section 10.3 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in exchange rate calculations?**
+A common error is using the percentage fall in the exchange rate as the rise in home import prices; the two are not the same. Calculate the rise in import prices from the old and new rates.
+
+**How do you calculate the effect of a tax cut on a worker's incentive?**
+Take the percentage change in the net wage, the pay kept after tax, not the change in the tax rate. Confusing the two is a common mistake.
+
+**What is the difference between a policy conflict and government failure?**
+A policy conflict is a trade-off between two named objectives that arises even when a policy works as planned. Calling any policy conflict "government failure" loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. These questions cover 10.3.1 (supply-side, exchange rate and international trade policy), 10.3.2 and 10.3.3.

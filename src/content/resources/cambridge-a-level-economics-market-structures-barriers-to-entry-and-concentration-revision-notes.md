@@ -237,6 +237,23 @@ How serious is a barrier to entry?
 - Concluding from a high CR that prices are high, with no further reasoning.
 - Treating barriers as permanent and skipping evaluation of how long they last.
 
+## Frequently asked questions
+
+**What is a natural monopoly?**
+A natural monopoly exists when one firm can supply the whole market at a lower average cost than two or more firms, because long-run average cost falls over the whole range of market demand. It is not a firm with high costs.
+
+**How do you calculate a concentration ratio?**
+Add the sales or market shares of the n largest firms, divide by total sales for the whole market and multiply by 100. State the ratio with n attached, for example "CR4 = 75%".
+
+**What is the difference between a sunk cost and a fixed cost?**
+Fixed costs do not vary with output, while sunk costs cannot be recovered if the firm leaves the market. High sunk costs act as a barrier to exit and so discourage entry.
+
+**What are the limitations of a concentration ratio?**
+It hides how shares are split among the leading firms, depends on how the market is defined, ignores imports and says nothing about barriers to entry. Two markets can have the same ratio but very different competition.
+
+**What features should you use to describe a market structure?**
+Describe the number of firms, the type of product, the ease of entry, the information available and the degree of price control. Defining a structure without applying these features is a common error.
+
 ## Official syllabus
 
 This page follows the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, outcomes 7.6.1 to 7.6.3 and 7.6.5.

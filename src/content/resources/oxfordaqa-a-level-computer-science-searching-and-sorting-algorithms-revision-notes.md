@@ -203,6 +203,20 @@ From section 3.13.5, which also covers other algorithms:
 - Giving "merge sort is faster" without the memory trade-off when a question asks about time **and** memory.
 - Claiming the early-stopping linear search is faster when the item is absent: it makes the same number of comparisons.
 
+## Frequently asked questions
+
+**What is the difference between linear search and binary search?**
+A linear search checks each item in turn and works on any list, so it suits short or unsorted lists. A binary search repeatedly checks the middle item of an ordered list and discards the half that cannot hold the target, so it suits long ordered lists.
+
+**Do you need to write code for merge sort in OxfordAQA 9645?**
+No. You may be asked to code linear search, binary search and bubble sort, but for merge sort you need to demonstrate it on a set of data rather than code it.
+
+**What are the two improvements to bubble sort?**
+The efficient version reduces the range checked by one after each pass, because the last item is then fixed, and stops after a pass with no swaps by using indefinite iteration. The basic version always makes n − 1 passes of n − 1 comparisons.
+
+**Is Big O notation required for searching and sorting in 9645?**
+Formal Big O comparisons are not required at AS but may be required at A-level, in section 3.13.5, which is International A-level only. For example, binary search has a worst case of O(log n) and merge sort O(n log n).
+
 ## Related pages
 
 - [Searching and sorting practice questions](/resources/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms-practice/): traces, code and comparison questions with worked answers.

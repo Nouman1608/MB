@@ -237,6 +237,23 @@ Index number reminder: real GDP per capita of 2,000 cu in the base year and 2,50
 - Presenting the Kuznets curve as a certainty, with no evaluation.
 - Concluding that faster growth means the poorer country has caught up, ignoring the starting gap.
 
+## Frequently asked questions
+
+**What is the difference between GDP, GNI and NNI?**
+GDP is output produced at home, GNI is income received by residents, and NNI is GNI after allowing for depreciation, or capital consumption.
+
+**What is the difference between economic growth and economic development?**
+Growth is about output, while development is about people's lives, including health, education and the structure of the economy. Treating them as the same is a common error.
+
+**What does the Kuznets curve show?**
+The Kuznets curve suggests that inequality first rises as income grows and industrialisation begins, then falls at higher income levels. It is not a law: policy can bend the curve, and some data fit while others do not.
+
+**How is the Multidimensional Poverty Index calculated?**
+The MPI multiplies the headcount ratio, which shows how many people are poor, by the intensity, which shows how deprived they are. A person's weighted deprivation score is compared with a cut-off of one third.
+
+**What is purchasing power parity?**
+PPP conversion compares the purchasing power of incomes using relative price levels, while market exchange rate conversion simply compares currencies. Applying the PPP rate the wrong way round gives a lower income for a cheaper country, which is a common mistake.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 11.3.

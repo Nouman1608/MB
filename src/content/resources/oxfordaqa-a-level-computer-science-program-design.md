@@ -255,6 +255,20 @@ The specification's criteria for evaluating a computer system include:
 
 Drill the key terms in the [revision notes](/resources/oxfordaqa-a-level-computer-science-program-design-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-computer-science-program-design-practice/). For timed trace practice, see the [exam preparation guide](/resources/oxfordaqa-a-level-computer-science-exam-preparation/). The algorithms you will most often trace use [arrays and lists](/resources/a-level-oxfordaqa-computer-science-arrays-and-lists/).
 
+## Frequently asked questions
+
+**Is program design in the OxfordAQA 9645 AS exam?**
+Yes. Section 3.3, Program design, is AS content that is also part of the full International A-level. The specification places it in AS Unit 1: Programming, an on-screen exam available in C#, Python or VB.Net.
+
+**What is the definition of an algorithm?**
+An algorithm is a sequence of steps that can be followed to complete a task and that always terminates. Leaving out termination is a common way to lose the mark.
+
+**What are the advantages of the structured approach to programming?**
+Modules can be tested on their own, written by different programmers at the same time and reused. The program is easier to read and maintain, and local variables stop one module accidentally changing data another relies on.
+
+**What are the stages of software development in OxfordAQA 9645?**
+Section 3.3.4 covers analysis, design, implementation, testing and evaluation. You need to be aware of what happens at each stage, such as establishing requirements during analysis and testing with normal, boundary and erroneous data.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.3 Program design.

@@ -235,6 +235,23 @@ For each system, ask: does it get information to decision-makers, does it give t
 - Treating the market or the plan as always efficient, with no judgement about degree.
 - Forgetting that human capital leaves with the worker.
 
+## Frequently asked questions
+
+**What are the rewards to the four factors of production?**
+Land earns rent, labour earns wages, capital earns interest and enterprise earns profit. Profit is the residual, while the other three rewards are usually agreed in advance.
+
+**What is the difference between human capital and physical capital?**
+Human capital is embodied in people, cannot be sold and leaves with the worker. Physical capital is owned equipment that can be sold and stays if a worker leaves; both lose value over time.
+
+**What are the two roles of the entrepreneur?**
+The entrepreneur takes risks and organises the other factors of production. Giving only risk-taking, or only organisation, is incomplete.
+
+**How do you calculate break-even output?**
+Break-even output equals fixed costs divided by the difference between the price and the variable cost per unit.
+
+**What are the strengths and weaknesses of a market economy?**
+A market economy is responsive and efficient, but it ignores those without income and under-provides public goods. A planned economy can focus on national priorities but suffers from poor information and weak incentives.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 1.3.1 to 1.3.5 and 1.4.1 to 1.4.2.

@@ -252,6 +252,23 @@ Now compare it with a second economy whose real GDP is 1,000 cu bn and grows 2%.
 - Forgetting the unit or percentage sign.
 - Treating GDP as a full measure of living standards without comment.
 
+## Frequently asked questions
+
+**How do you calculate real GDP from nominal GDP?**
+Divide nominal GDP by the price index and multiply by 100. Then calculate growth as the change in real GDP divided by the earlier year's real GDP, times 100.
+
+**How do you calculate growth over several years?**
+Compound the annual growth rates by multiplying the growth factors, such as 1.03 × 0.99 × 1.02, then subtract 1. Adding the yearly rates together gives the wrong answer.
+
+**Is per capita growth equal to GDP growth minus population growth?**
+Only approximately. For example, GDP growth of 4.0% with population growth of 2.0% gives per capita growth of 1.96%, so say the subtraction is a rule of thumb if you use it.
+
+**What causes long-run economic growth?**
+Long-run growth comes from more or better labour, more capital, better technology, more land and natural resources, and better institutions and incentives. These shift LRAS to the right and the PPC outward.
+
+**Why can demand-led growth cause inflation?**
+With spare capacity, a rise in aggregate demand raises real output and employment with little price change. Near full capacity, more of the rise goes into prices instead.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 4.4.1 to 4.4.5.

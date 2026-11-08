@@ -242,6 +242,23 @@ Worked reminders:
 - Calling accounting profit supernormal without deducting normal profit.
 - Stopping a long answer at description and giving no evaluation, such as whether lower cost reaches consumers.
 
+## Frequently asked questions
+
+**What is the difference between returns to scale and economies of scale?**
+Returns to scale are about output: they compare the percentage change in output with the percentage change in all inputs in the long run. Economies of scale are about cost: they describe falling long-run average cost as output rises.
+
+**What is minimum efficient scale?**
+Minimum efficient scale is the first output at which long-run average cost reaches its minimum. Its size relative to the market limits how many firms can reach it.
+
+**What is the difference between internal and external economies of scale?**
+Internal economies of scale come from the firm's own growth and are shown as a movement along the LRAC curve. External economies come from the growth of the industry, such as a cluster of firms in one area, and shift the LRAC curve.
+
+**What is the difference between normal, supernormal and subnormal profit?**
+Profit is total revenue minus total cost, where total cost includes normal profit. A positive result is supernormal profit, zero is normal profit and a negative result is subnormal profit.
+
+**Why is marginal revenue below average revenue for a price maker?**
+A price maker faces a downward-sloping demand curve, so to sell one more unit it must lower the price on all units sold. For a straight-line demand curve P = a − bQ, MR = a − 2bQ.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment: statements 7.5.3 to 7.5.10.

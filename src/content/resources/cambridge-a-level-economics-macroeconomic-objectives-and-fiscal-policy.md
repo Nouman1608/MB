@@ -268,6 +268,20 @@ Country A has AD: Y = 1,800 − 6P and short-run aggregate supply SRAS: Y = 600 
 - Using the marginal rate when asked for the average rate.
 - Shifting AD the wrong way, or showing a price rise when the economy has plenty of spare capacity.
 
+## Frequently asked questions
+
+**Is fiscal policy AS or A Level content in Cambridge 9708?**
+Sections 5.1 and 5.2 are in topic 5, and topics 1 to 6 are AS Level content in the Cambridge International AS and A Level Economics 9708 syllabus. This unit is also assumed knowledge for A Level.
+
+**What makes a tax progressive?**
+A progressive tax takes a higher proportion of income as income rises, so the average rate rises with income. Calling a tax progressive just because the amount of tax rises with income is a common error.
+
+**Can an indirect tax be regressive?**
+Yes. Indirect taxes can be regressive in effect, because poorer households spend a larger share of their income on taxed goods, so the same tax rate takes a bigger proportion of their income.
+
+**Does expansionary fiscal policy always raise the price level?**
+Not by much when there is plenty of spare capacity, because most of the rise in AD goes into real output. If the economy is near full employment, more of the effect goes into prices.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028*, Subject content, section 5 Government macroeconomic intervention (AS Level), sections 5.1 and 5.2, with the AD/AS model from section 4.3.

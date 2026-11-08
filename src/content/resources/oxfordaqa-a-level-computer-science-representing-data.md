@@ -241,6 +241,23 @@ The **key exchange problem** is sharing the key without interception. **Symmetri
 
 Next: the [revision notes](/resources/oxfordaqa-a-level-computer-science-representing-data-revision-notes/), then the [practice questions](/resources/oxfordaqa-a-level-computer-science-representing-data-practice/).
 
+## Frequently asked questions
+
+**Is representing data AS or A-level content in OxfordAQA 9645?**
+Section 3.5, Representing data, is all AS content, assessed in the Unit 2 written exam, and none of it is International A-level only. It covers number bases, units, binary integers, fixed and floating point, characters, graphics, sound, encryption and error detection.
+
+**Are number base conversions examined on their own in 9645?**
+No. Base conversions are not examined on their own, but you need them inside other questions, such as working with hexadecimal, two's complement or floating point.
+
+**What is the difference between precision and range in floating point?**
+More mantissa bits give greater precision, and more exponent bits give a greater range. In exam questions both the mantissa and the exponent are stored in two's complement.
+
+**What is the difference between ASCII and Unicode?**
+ASCII is a 7-bit code with 2⁷ = 128 characters. Unicode was introduced to cover the world's writing systems, which ASCII's 128 characters could not represent.
+
+**What is the difference between bitmap and vector graphics?**
+A bitmap stores an image as pixels, each with a colour code, which suits photographs. A vector graphic stores a list of objects with their properties.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards (OxfordAQA), section 3.5 Representing data.

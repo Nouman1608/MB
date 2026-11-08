@@ -177,6 +177,23 @@ Trade creation is a clear gain and trade diversion a clear loss, so a union is a
 - Forgetting that a customs union is a form of discrimination, so it is a departure from free trade with the whole world.
 - Making one-sided globalisation answers. Name winners and losers and weigh them.
 
+## Frequently asked questions
+
+**Is globalisation and trading blocs AS or A Level content in Cambridge 9708?**
+Section 11.6 is A Level content only and is not examined at AS. The 9708 syllabus treats topics 1 to 6 as AS Level and topics 7 to 11 as A Level.
+
+**What are the forms of economic integration?**
+The forms build on each other: a free trade area, a customs union, a monetary union and a full economic union. Each step adds gains from coordination and costs in lost sovereignty.
+
+**Does trade diversion reduce total trade?**
+No. Trade diversion is a switch of supplier from a cheaper outside producer to a dearer partner, and total trade may even rise. Treating it as a fall in total trade is a common error.
+
+**Why do free trade areas need rules of origin?**
+Without a common external tariff, goods could enter through the member with the lowest tariff, which is called trade deflection. Rules of origin check where a good was really made.
+
+**What decides whether a customs union is a net gain for a member?**
+It depends on trade creation against trade diversion, how far partner costs are above world costs, the height of old tariffs and the common external tariff, price elasticity of demand, dynamic gains such as scale economies, and effects on non-members.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), section 11.6.

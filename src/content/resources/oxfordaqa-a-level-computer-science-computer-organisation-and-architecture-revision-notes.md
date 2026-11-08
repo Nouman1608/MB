@@ -211,6 +211,23 @@ Notation: a bar over a single letter is shown as A̅; a bar over a group is show
 - Adding the carry to the sum column of a full-adder trace instead of producing a separate carry-out.
 - De Morgan applied to one letter only, leaving the rest of the bar in place.
 
+## Frequently asked questions
+
+**What are the four steps of the fetch stage in OxfordAQA 9645?**
+The PC's contents are copied to the MAR, the PC is incremented, the instruction at the address in the MAR is copied into the MBR over the data bus, and the MBR's contents are copied to the CIR. Decoding and execution follow.
+
+**What is the difference between the MAR and the MBR?**
+The memory address register holds the address of the location about to be read or written. The memory buffer register holds the data or instruction travelling to or from that location.
+
+**Which bus is one-way in a computer system?**
+The address bus is one-way, carrying addresses out of the processor. The data bus is two-way because data is both read and written.
+
+**What is the difference between a half-adder and a full-adder?**
+A half-adder adds two bits, giving sum A ⨁ B and carry A⋅B, and you may be asked to construct it. A full-adder also takes a carry-in, giving sum A ⨁ B ⨁ Cin and carry-out A⋅B + Cin⋅(A ⨁ B); for 9645 you only need to trace it.
+
+**How do you apply De Morgan's laws?**
+Break the bar and change the operator: NOT(A + B) = A̅⋅B̅ and NOT(A⋅B) = A̅ + B̅. Applying the law to one letter only and leaving the rest of the bar in place is a common error.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Relevant part: section 3.7, Computer organisation and architecture.

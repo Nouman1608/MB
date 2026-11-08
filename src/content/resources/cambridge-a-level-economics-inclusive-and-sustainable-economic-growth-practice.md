@@ -161,6 +161,20 @@ Links: [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/), 
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 inclusive and sustainable growth questions from past papers?**
+No. They are original practice questions with worked answers covering sections 9.2.5 and 9.2.6 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in inclusive growth calculations?**
+Common errors include quoting the mean growth rate when the question asks about the poorest group, and comparing money amounts instead of percentages of income. Show the working for each group separately and then compare.
+
+**How do you combine GDP growth and a change in emissions intensity?**
+Multiply the growth factors rather than subtracting the percentages. Subtracting percentages instead of multiplying growth factors is a frequent slip.
+
+**How do you show a tax on producers in a demand and supply diagram?**
+A tax on producers shifts the supply curve up by the amount of the tax. Shifting demand instead of supply when a tax falls on producers loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), sections 9.2.5 and 9.2.6.

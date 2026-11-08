@@ -243,6 +243,23 @@ Equilibrium is at a price of 4 cu and a quantity of 600. Now suppose demand rise
 - Describing a planned economy as having no prices or no trade at all.
 - Listing system features without linking them to what, how and for whom.
 
+## Frequently asked questions
+
+**Is factors of production AS or A Level content in Cambridge 9708?**
+Sections 1.3 and 1.4 sit in topic 1 of the Cambridge International AS & A Level Economics 9708 syllabus, which is AS Level content. A Level candidates study it too.
+
+**What are the four factors of production?**
+The four factors of production are land, labour, capital and enterprise. Capital is a produced input, not money.
+
+**What is the difference between division of labour and specialisation?**
+Division of labour splits a process into tasks within a firm, while specialisation is concentrating on what a person, firm or country does best. Mixing the two up is a common error.
+
+**Does a planned economy have no prices?**
+No. Describing a planned economy as having no prices or no trade at all is a common error; in a planned economy, prices are set by planners rather than by the market.
+
+**What questions must every economic system answer?**
+Every economic system must decide what to produce, how to produce it and for whom. Link the features of each system to these three questions.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 1.3.1 to 1.3.5 and 1.4.1 to 1.4.2.

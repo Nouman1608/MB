@@ -148,6 +148,20 @@ Read the [study guide](/resources/cambridge-a-level-economics-effectiveness-of-f
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 fiscal and monetary policy questions from past papers?**
+No. They are original practice questions with worked answers covering part of outcome 10.3.1, plus 10.3.2 and 10.3.3, of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes with the Laffer curve?**
+Common errors are treating the revenue-maximising peak as known and saying a tax cut always raises revenue. Whether a cut raises or lowers revenue depends on which side of the peak the tax rate is.
+
+**What are common mistakes in multiplier questions?**
+Using a multiplier that leaves out taxes and imports is a frequent error, as is forgetting that extra output brings extra tax revenue, which affects the change in the budget deficit.
+
+**Can monetary policy solve cost-push inflation?**
+Writing that monetary policy solves cost-push inflation loses marks. Monetary policy works on demand, so it is weak against inflation caused by rising costs.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus, for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. These questions cover part of outcome 10.3.1 and outcomes 10.3.2 and 10.3.3.

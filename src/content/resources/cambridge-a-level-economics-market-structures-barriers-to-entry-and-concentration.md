@@ -218,6 +218,23 @@ Both markets have a CR4 of 88%, but P has one dominant firm and Q has four equal
 - Reading a high concentration ratio as proof of high prices or poor service.
 - Saying a natural monopoly has high costs. Its average cost is low because one firm is large enough.
 
+## Frequently asked questions
+
+**Is market structures and concentration AS or A Level content in Cambridge 9708?**
+Outcomes 7.6.1, 7.6.2, 7.6.3 and 7.6.5 are in topic 7, which is A Level content only, so they are not examined at AS.
+
+**Is perfect competition a real market?**
+Perfect competition is best treated as a benchmark rather than a real market. Treating it as a real market is a common error.
+
+**Does a monopoly have no substitutes?**
+A monopoly has no close substitutes, rather than no substitutes at all. Saying a monopoly has no substitutes at all is a common error.
+
+**What is the difference between monopolistic competition and oligopoly?**
+Monopolistic competition has many small firms with differentiated products and easy entry. Oligopoly has a few large firms whose decisions are interdependent.
+
+**What are barriers to exit?**
+Barriers to exit include sunk costs, redundancy payments, long contracts with penalties and specialised assets. They discourage entry because a firm that fails cannot easily recover what it has spent.
+
 ## Official syllabus
 
 This page follows the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, outcomes 7.6.1 to 7.6.3 and 7.6.5.

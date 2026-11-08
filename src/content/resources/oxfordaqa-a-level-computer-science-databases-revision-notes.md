@@ -213,6 +213,23 @@ Ascent: (ClimberID, RouteID, AscentDate, Attempts) = (71, 2, 2026-02-07, 3), (71
 - Describing the lost update problem without the sequence: both read, both change, second save overwrites first.
 - Listing the three Vs with no explanation of what each means.
 
+## Frequently asked questions
+
+**What is the difference between a primary key and a foreign key?**
+A primary key uniquely identifies each record in its own table. A foreign key is a field in one table that holds values of another table's primary key, linking the two tables.
+
+**What are the rules for third normal form in OxfordAQA 9645?**
+A relation in 3NF holds atomic values with no repeating groups, every non-key attribute depends on the whole primary key, and no non-key attribute depends on another non-key attribute. The memory hook is "the key, the whole key and nothing but the key".
+
+**How do you handle a many-to-many relationship in an ER diagram?**
+A relational database cannot implement a many-to-many relationship directly, so replace it with a link entity that gives two one-to-many relationships. The foreign keys go on the "many" side.
+
+**What is the lost update problem and how does a record lock prevent it?**
+Two clients read the same record, both change it, and the second save overwrites the first. A record lock stops other clients updating the record while one client is updating it, until the lock is released.
+
+**What are the three Vs of Big Data?**
+Volume means the data is too big to fit on a single server, velocity means data streams in and responses are needed within milliseconds to seconds, and variety means it comes in many forms, structured and unstructured. Explain what each means rather than just naming them.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.15 Databases.

@@ -237,6 +237,20 @@ Evaluation: the theories can be combined, as the money market and the market for
 - Using nominal rates where the real rate drives behaviour.
 - Giving a list of policies with no judgement about which is most effective in the stated case.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 syllabus outcomes does this inflation study guide cover?**
+It covers outcomes 9.4.6 to 9.4.8 of the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028: policies to reduce inflation, the demand for money and interest rate determination.
+
+**What policies can a government use to reduce inflation?**
+It can use contractionary fiscal policy such as higher taxes or lower government spending, contractionary monetary policy such as higher interest rates or slower money growth, supply-side measures, or a currency appreciation. The best choice depends on whether the inflation is demand-pull or cost-push.
+
+**Why does the demand for money curve slope downwards?**
+At a high interest rate bond prices are low and people expect them to rise, so they buy bonds and hold less money. At a low interest rate bond prices are high and people expect them to fall, so they hold more money.
+
+**What affects how effective an anti-inflation policy is?**
+Effectiveness depends on the cause of the inflation, how much spare capacity there is, time lags, side effects such as unemployment, the credibility of the policy for expectations, and global factors such as imported inflation.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 9.4, outcomes 9.4.6 to 9.4.8. Topic 9 is A Level content.

@@ -162,6 +162,20 @@ These questions cover section 3.2 (outcomes 3.2.1 to 3.2.6) of the Cambridge Int
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 government intervention questions from past papers?**
+No. They are original practice questions with worked answers covering section 3.2, outcomes 3.2.1 to 3.2.6 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in tax and subsidy calculations?**
+Common errors include shifting demand instead of supply, reporting the new price without splitting it into consumer and producer shares, and forgetting to multiply by quantity when asked for revenue, cost or burden.
+
+**How do you calculate consumer spending at a minimum price?**
+Use the quantity demanded at the minimum price, not the quantity supplied. Above equilibrium, the minimum price creates a surplus because supply exceeds demand.
+
+**How should you write about opportunity cost in a direct provision question?**
+Name a specific alternative use of the money the government spends. A general statement that the money could be used elsewhere is weaker.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics (9708), syllabus for examination in 2026, 2027 and 2028, published by Cambridge International, topic 3, section 3.2.

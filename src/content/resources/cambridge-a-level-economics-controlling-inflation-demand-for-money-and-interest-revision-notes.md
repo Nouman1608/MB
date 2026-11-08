@@ -226,6 +226,23 @@ Evaluation: the two theories are not rivals in every case. A central bank that s
 - Leaving out units, or stating a percentage change without the base.
 - Describing loanable funds and liquidity preference as the same theory.
 
+## Frequently asked questions
+
+**What are the three motives for holding money in liquidity preference theory?**
+Keynes's three motives are the transactions motive, the precautionary motive and the speculative motive. The transactions and precautionary motives depend on income, while the speculative motive depends negatively on the interest rate.
+
+**How do you calculate the real interest rate?**
+The real interest rate is approximately the nominal interest rate minus the inflation rate. For example, a nominal rate of 4% with inflation of 5% gives a real rate of about −1%.
+
+**What is a liquidity trap?**
+A liquidity trap occurs at a very low interest rate, where the demand for money curve is horizontal. Extra money is simply held, and the interest rate cannot fall any further.
+
+**Why is cutting aggregate demand a weak response to cost-push inflation?**
+Cost-push inflation starts with rising costs that shift SRAS left, so cutting AD does not tackle the cause and mainly reduces output and employment. Supply-side measures or a currency appreciation that makes imported inputs cheaper target the cause more directly.
+
+**What is the difference between loanable funds theory and Keynesian theory of interest rates?**
+In loanable funds theory the interest rate is set where the demand for loanable funds equals the supply, mainly from saving. In the Keynesian theory it is set where the money supply, fixed by the central bank, meets liquidity preference.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 9.4, outcomes 9.4.6 to 9.4.8. Topic 9 is A Level content.

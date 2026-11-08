@@ -230,6 +230,23 @@ def step3(n):
 - Choosing `"w"` instead of `"a"` and losing existing file data.
 - A recursive case that does not move towards the base case, or a trace that stops before working back up.
 
+## Frequently asked questions
+
+**What are the three access modifiers and their class diagram symbols?**
+Public (+) members can be used from anywhere, private (-) members only from the class itself, and protected (#) members from the class and its subclasses. In Python these correspond to name, __name and _name.
+
+**What is the difference between inheritance and association?**
+If one class "is a more specialised kind of" another, use inheritance. If one object "uses" or "has a link to" another, use association.
+
+**What is the difference between overriding and adding a method?**
+Overriding redefines an inherited method in a subclass using the same name. Giving the method a different name adds a new method instead of replacing the inherited one.
+
+**Do you need to know the difference between aggregation and composition for 9645?**
+No. The OxfordAQA 9645 specification says you will not need to distinguish aggregation from composition.
+
+**What happens if a recursive subroutine has no reachable base case?**
+It recurses indefinitely, and in practice the program crashes with a stack overflow. Each recursive case must call the subroutine on a smaller problem that moves towards a base case.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.9 Object-oriented and additional programming.

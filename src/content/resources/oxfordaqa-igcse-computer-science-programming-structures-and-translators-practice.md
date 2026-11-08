@@ -161,3 +161,20 @@ Two separate random values [1]; added together [1]; returned [1].
 - Boundary test data given only as valid values; the edge on both sides earns credit.
 - Advantages of subroutines listed without saying *why* each helps.
 - Claiming an interpreter "creates an executable" or "translates the whole program first".
+
+## Frequently asked questions
+
+**Are these OxfordAQA 9210 programming practice questions from real past papers?**
+No. They are original practice questions with worked answers on sections 3.2.6 to 3.2.13 of Topic 2 Programming: arrays, records, files, strings, subroutines, validation and translators. Use them alongside official past papers.
+
+**How should you explain the advantages of subroutines?**
+Say why each advantage helps, not just what it is. Listing advantages of subroutines without explaining why each one helps is a common way to lose marks.
+
+**What are common mistakes in file handling answers?**
+Common errors are describing file handling without closing the file, and reading lines without converting each one to a number before using it in a calculation.
+
+**How should you choose boundary test data?**
+Give values at the edge on both sides of the limit, not only valid values. Boundary test data given only as valid values misses credit.
+
+**What are common mistakes when describing an interpreter?**
+Claiming an interpreter creates an executable, or that it translates the whole program first, loses marks. Those describe a compiler, while an interpreter translates and runs the program statement by statement.

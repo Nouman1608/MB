@@ -139,6 +139,20 @@ These questions cover sections 5.1 and 5.2 of the Cambridge International AS and
 - Take the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 fiscal policy questions from past papers?**
+No. They are original practice questions with worked answers covering sections 5.1 and 5.2 of the Cambridge International AS and A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**How do you decide whether a tax is direct or indirect?**
+Classify a tax by who pays the government, not by who bears the cost in the end. Classifying by the final burden is a common mistake.
+
+**What are common mistakes in questions on progressive and regressive taxes?**
+Common errors include giving the amount of tax instead of the proportion of income, and using the marginal rate when the average rate is asked for, or the reverse. A tax is regressive when the share of income it takes falls as income rises.
+
+**How should you show a change in fiscal policy on an AD/AS diagram?**
+Show the AD shift in the right direction, then state the effects on real output, the price level and employment if the question names it. Show the new AD equation before solving in a calculation.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028*, Subject content, section 5 Government macroeconomic intervention (AS Level), sections 5.1 and 5.2.

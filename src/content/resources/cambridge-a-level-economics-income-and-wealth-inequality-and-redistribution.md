@@ -237,6 +237,20 @@ Judge each policy on its effectiveness at reducing inequality, cost, effects on 
 - Confusing a high marginal rate with a progressive system.
 - Listing pros and cons without a judgement.
 
+## Frequently asked questions
+
+**Is income and wealth inequality AS or A Level content in Cambridge 9708?**
+Section 3.3 is in topic 3, which is AS Level content. A Level candidates study it too, because the syllabus assumes AS knowledge for the A Level papers.
+
+**What is the difference between income and wealth?**
+Income is a flow received over a period of time, such as wages or rent received in a month. Wealth is a stock measured at a point in time, such as the value of a share portfolio on a given date.
+
+**What policies can redistribute income and wealth?**
+Section 3.3.4 covers a minimum wage, transfer payments, progressive income taxes, inheritance and capital taxes, and state provision of essential goods and services. Policies often work together, such as taxes funding state provision.
+
+**Does a high marginal tax rate make a tax system progressive?**
+Not on its own. A tax system is progressive when the average rate rises as income rises; confusing a high marginal rate with a progressive system is a common error.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 3.3.

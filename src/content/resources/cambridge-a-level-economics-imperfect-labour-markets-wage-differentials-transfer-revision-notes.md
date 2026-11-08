@@ -237,6 +237,23 @@ Rent: a rare talent has inelastic supply, so most of the pay is above the next b
 - Evaluation that lists points without saying which matters most and why.
 - Not naming axes and curves on a described diagram.
 
+## Frequently asked questions
+
+**What is the difference between transfer earnings and economic rent?**
+Transfer earnings are the opportunity cost of a worker, what they could earn in their next best job. Economic rent is the surplus above transfer earnings, so a worker earning 36 whose next best job pays 28 has transfer earnings of 28 and rent of 8.
+
+**Can a minimum wage increase employment?**
+In a monopsony, a minimum wage set above the monopsony wage and up to the competitive wage can raise employment. In a competitive market, a binding minimum wage above equilibrium creates excess supply of labour.
+
+**What causes wage differentials?**
+Wage gaps come from differences in MRP on the demand side, supply factors such as training length, scarce skills and entry barriers, compensating differentials for danger or poor conditions, non-monetary benefits, and imperfections such as unions, discrimination and immobility.
+
+**How does a trade union's wage rise affect employment?**
+A union wage above equilibrium raises pay per worker, but employment is read from demand, so some jobs are lost. If demand for labour is inelastic, fewer jobs are lost and the wage bill rises.
+
+**What happens to economic rent if supply of labour is perfectly elastic?**
+If supply is perfectly elastic, all earnings are transfer earnings and there is no economic rent. The more inelastic the supply, as with rare talent, the larger the share of pay that is rent.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment. Outcomes 8.3.8 to 8.3.10.

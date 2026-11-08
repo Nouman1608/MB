@@ -207,6 +207,23 @@ The key must be:
 - Describing an ADC as "turning sound into binary" without sampling at intervals and approximating each sample.
 - Listing only two Vernam conditions when the question needs all four.
 
+## Frequently asked questions
+
+**What is the range of an 8-bit two's complement number?**
+The range of n-bit two's complement is −2ⁿ⁻¹ to +2ⁿ⁻¹ − 1, so 8 bits give −128 to +127. The same 8 bits give 0 to 255 as unsigned binary.
+
+**What is the difference between a kibibyte and a kilobyte?**
+1 KiB is 2¹⁰ = 1024 bytes, using a binary prefix, while 1 kB is 10³ = 1000 bytes, using a decimal prefix. Use whichever prefix the question uses.
+
+**How do you calculate the size of a sound file?**
+Multiply the sampling rate in hertz by the sample resolution in bits and the length in seconds to get the size in bits, then divide by 8 for bytes. Convert minutes to seconds first.
+
+**What are the four conditions for a Vernam cipher to have perfect security?**
+The key must be chosen completely randomly, be at least as long as the plaintext, be used only once, and be known only to the sender and receiver. Questions on perfect security usually need all four.
+
+**What does Nyquist's theorem say?**
+The sampling rate must be at least twice the highest frequency in the sound. For example, a highest frequency of 15 kHz needs a sampling rate of at least 30 kHz.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards (OxfordAQA), section 3.5 Representing data.

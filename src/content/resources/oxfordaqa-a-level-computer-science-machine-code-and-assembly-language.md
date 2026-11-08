@@ -208,6 +208,20 @@ memory[84] ← total
 
 Check what you remember using the [revision notes](/resources/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language-revision-notes/), then try the [practice set](/resources/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language-practice/). The [topic 6 notes](/resources/oxfordaqa-a-level-computer-science-computer-systems-revision-notes/) cover assemblers and low-level languages, and the [exam preparation page](/resources/oxfordaqa-a-level-computer-science-exam-preparation/) deals with exam technique.
 
+## Frequently asked questions
+
+**What is a processor instruction set?**
+A processor instruction set is the complete set of instructions that a particular processor can decode and execute. It is processor specific, so machine code written for one processor type will not usually run on another.
+
+**What are the parts of a machine code instruction?**
+Every instruction is made from an opcode, which says which operation to carry out, an addressing mode, which says how to interpret the operand, and one or more operands: a value, a memory address or a register.
+
+**Do you need to learn a real processor's instruction format for 9645?**
+No. You are not required to learn the format of any particular real instruction set, but you must be able to work with a format given in a question, splitting the bits into fields and converting each one.
+
+**How do you write an IF ELSE statement in assembly language?**
+Load and compare the values, branch to one block on the condition or its opposite, write the block that falls through followed by an unconditional B past the other block, then write the other block. Forgetting the unconditional B means both blocks run.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.8 Machine code and assembly language, and 6 Appendix: Standard OxfordAQA assembly language instruction set.

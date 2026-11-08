@@ -269,6 +269,20 @@ The bubble sort values are the specification's own example; the O(n) best case i
 
 Condense the key points with the [revision notes](/resources/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms-practice/). See also the [procedural programming study guide](/resources/a-level-oxfordaqa-computer-science-procedural-programming/) and the [exam preparation guide](/resources/oxfordaqa-a-level-computer-science-exam-preparation/). Check gaps with the [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Is searching and sorting algorithms AS content in OxfordAQA 9645?**
+Yes. Section 3.4, Searching and sorting algorithms, is AS content assessed in Unit 1: Programming, an on-screen exam. It covers linear search, binary search, bubble sort and merge sort.
+
+**What is the difference between the inefficient and advanced linear search?**
+The inefficient version always looks at every item in the list, even after the target has been found. The more advanced version stops as soon as the item is found, but both make the same number of comparisons when the item is absent.
+
+**How does merge sort work?**
+Merge sort splits the list into single-item lists, then merges sorted lists in pairs until one list remains. The ordering happens in the merges, not during the split.
+
+**Why does bubble sort's running time depend on the starting order of the data?**
+On an already sorted list the efficient bubble sort makes one pass with no swaps and stops, and on a nearly sorted list it stops after a few passes. On a list in reverse order every pass swaps, so the early stop saves nothing.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.4 Searching and sorting algorithms.

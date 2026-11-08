@@ -187,6 +187,23 @@ Time horizon, size of the response, spare capacity, type of inflation or unemplo
 - Evaluating with generic words ("it depends") rather than naming the factor that decides.
 - Forgetting that supply-side effects are long-run and need demand to use the capacity.
 
+## Frequently asked questions
+
+**What is the difference between market-based and interventionist supply-side policies?**
+Market-based supply-side policies work through incentives and freer markets, while interventionist policies use state spending and provision, such as training programmes or research subsidies.
+
+**What is the difference between depreciation and devaluation?**
+Depreciation is a fall in a currency's value in the market, while devaluation is a deliberate cut in the value of a fixed exchange rate.
+
+**What is the difference between expenditure-switching and expenditure-reducing policies?**
+Expenditure-switching policies, such as exchange rate changes and protection, change what is bought. Expenditure-reducing policies lower total spending.
+
+**Who pays a tariff?**
+A tariff is paid by home consumers and the revenue goes to the home government, not to foreign sellers. Treating a tariff as a tax paid abroad is a common error.
+
+**Can supply-side policy alone cure demand-deficient unemployment?**
+No. Demand-deficient unemployment needs a rise in aggregate demand. Supply-side policy is slow but lasting and suits structural unemployment and a weak trade position.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. These notes cover 10.3.1 (supply-side, exchange rate and international trade policy), 10.3.2 and 10.3.3.

@@ -332,6 +332,20 @@ One base case (empty string) and two recursive cases. Each call drops the first 
 
 Next, test yourself with the [practice questions](/resources/oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming-practice/). Recursion is used again on trees in [advanced data structures](/resources/oxfordaqa-a-level-computer-science-advanced-data-structures/).
 
+## Frequently asked questions
+
+**Is object-oriented programming AS or A-level content in OxfordAQA 9645?**
+Section 3.9, Object-oriented and additional programming, is International A-level only. It covers classes and objects, encapsulation, relationships between classes, text files and recursion.
+
+**What does a constructor do?**
+A constructor is called when an object is instantiated and initialises the object to a given state. Saying only that it "creates the object" misses the point about setting the starting state.
+
+**What is encapsulation in object-oriented programming?**
+Encapsulation hides how a class works and how it stores its data from other classes, which use only the methods it chooses to expose. Getters return private values and setters change them only after validating the new value.
+
+**Which programming languages are used for OxfordAQA 9645 object-oriented programming?**
+The exam languages are C#, Python and VB.Net, and the code on this page is in Python. In C# a base method must be marked virtual and the subclass method override; in VB.Net the keywords are Overridable and Overrides.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.9 Object-oriented and additional programming.

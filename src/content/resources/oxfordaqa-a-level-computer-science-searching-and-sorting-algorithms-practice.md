@@ -228,6 +228,20 @@ Iterations 1 and 2 correct [1]; iterations 3 and 4 correct [1]. From iteration 3
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OxfordAQA 9645 searching and sorting questions from past papers?**
+No. They are original practice questions with worked answers written for revision of section 3.4, Searching and sorting algorithms. Use them alongside official past papers from your board or school.
+
+**What are common mistakes when tracing a binary search?**
+A common error is recalculating mid with the wrong low or high value and then carrying that error through every later row. Check each mid against its own row's low and high, and show the search reaching its end condition.
+
+**When does the efficient bubble sort stop?**
+It stops only after a pass in which no swaps are made. Ending a trace as soon as the list looks sorted, before that pass, is a frequent way to lose marks.
+
+**How should you compare bubble sort and merge sort in an "evaluate" question?**
+Make points about both sorts, covering time and memory where the question asks for both, and finish with a conclusion tied to the scenario. Comparing on speed alone misses the memory trade-off.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.4 Searching and sorting algorithms, with Big O from section 3.13.5.

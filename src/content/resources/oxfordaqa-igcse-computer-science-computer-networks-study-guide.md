@@ -105,3 +105,20 @@ Is 192.168.300.5 a valid IPv4 address? No. Each of the four numbers must be from
 6. How long does a 120 MB file take to download at 40 megabits per second? *120 x 8 = 960 megabits; 960 / 40 = 24 seconds.*
 7. Give one benefit of using layers of protocols. *A layer can be changed without affecting the others, so different developers can work independently.*
 8. What does DNS do? *It converts a domain name into the IP address of the server.*
+
+## Frequently asked questions
+
+**What is the difference between a LAN and a WAN?**
+A local area network covers a small geographical area, such as a school, office or home, and is usually owned by one organisation. A wide area network covers a large area, such as a country or the world, and usually uses infrastructure leased from telecommunications companies.
+
+**What is the difference between a switch and a router?**
+A switch connects devices within a LAN and sends data only to the device it is meant for, using its MAC address. A router connects different networks together, such as a LAN to the internet, and forwards packets between them.
+
+**Is the internet the same as the World Wide Web?**
+No. The internet is the global network, while the World Wide Web is a service that runs on it. Treating them as the same is a common mistake in OxfordAQA International GCSE 9210 answers.
+
+**What are the four layers of the TCP/IP model?**
+The TCP/IP model has an application layer, a transport layer, an internet layer and a link layer. A layer can be changed without affecting the others.
+
+**How do you calculate a file download time?**
+Convert the file size to bits by multiplying bytes by 8, then divide by the connection speed in bits per second. For example, 450 MB is 3,600 megabits, which takes 60 seconds at 60 megabits per second.

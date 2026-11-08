@@ -198,6 +198,23 @@ When a question gives a scenario, **apply** each benefit or risk to it. "It is f
 
 For the short version, use the [revision notes](/resources/oxfordaqa-a-level-computer-science-artificial-intelligence-revision-notes/); to check your answers under pressure, use the [practice set](/resources/oxfordaqa-a-level-computer-science-artificial-intelligence-practice/). Heuristics and intractable problems, which matter in game playing, are in the [theory of computation guide](/resources/oxfordaqa-a-level-computer-science-theory-of-computation/). To spot weak areas across the course, take a [free 10-minute diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the definition of artificial intelligence in OxfordAQA A-level Computer Science?**
+The 9645 specification notes that there is no single accepted definition of AI. A system is often called artificially intelligent if it solves a complex problem by a method similar to a human's, or reaches a solution at least as good as a human would.
+
+**What is the difference between narrow AI and general AI?**
+Current AI systems are narrow: each works in one field, such as reading road signs, and cannot do unrelated tasks. A generally intelligent system that could learn and reason across any field is still an area of research.
+
+**What is the difference between deep learning and machine learning?**
+Machine learning is a type of AI whose performance improves based on experience, without the program being rewritten by hand. Deep learning uses neural networks with several hidden layers, which allows more complex problems to be solved.
+
+**How does biased training data make an AI system biased?**
+An AI system can only learn the patterns present in its training data. If a group is under-represented, or past decisions in the data were unfair, the system reproduces that unfairness, so training data must be selected carefully and each group tested separately.
+
+**What are the risks of AI listed in the 9645 specification?**
+The risks covered are elimination of jobs and its social impact, bias in decision making based on characteristics such as gender or race, false information from incorrect training data, plagiarism, use in surveillance, and a risk to human existence from superintelligent systems.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.16 Artificial intelligence.

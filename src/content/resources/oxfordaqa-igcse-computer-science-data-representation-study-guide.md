@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "data-representation-9210"
-description: "OxfordAQA International GCSE Computer Science 9210 study guide: number bases to 255, binary addition and shifts, ASCII, Unicode, bitmaps, sound, Huffman and RLE."
+description: "OxfordAQA International GCSE Computer Science 9210 guide: number bases to 255, binary addition and shifts, ASCII, Unicode, bitmaps, sound, Huffman and RLE."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

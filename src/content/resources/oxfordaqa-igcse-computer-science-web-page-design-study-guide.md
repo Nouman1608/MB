@@ -12,7 +12,7 @@ order: 8
 syllabusTopics:
   - qualification: "igcse"
     topic: "web-page-design"
-description: "OxfordAQA International GCSE Computer Science 9210 study guide: the HTML tags in the spec, CSS type and class selectors, the seven properties, HTML5 and scripting."
+description: "OxfordAQA International GCSE Computer Science 9210 guide: the HTML tags in the spec, CSS type and class selectors, the seven properties, HTML5 and scripting."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

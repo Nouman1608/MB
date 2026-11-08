@@ -182,6 +182,20 @@ R0 runs 3, 6, 12, 24, 48, 96, 192. The test fails at 192, so the loop ends with 
 - Saying indirect addressing "uses an address" without saying the address is **in a register**.
 - Writing pseudocode that simply renames each instruction instead of showing the IF or loop structure.
 
+## Frequently asked questions
+
+**What are the three addressing modes in OxfordAQA 9645?**
+In immediate addressing the operand is the value itself, written with #, as in MOV R0, #12. In direct addressing the operand is an address, and in indirect addressing a register holds the main memory address of the value, written as [R4].
+
+**What is the difference between MOV and LDR?**
+MOV copies an immediate value or the value in a register into a register. LDR reads a value from main memory, so using MOV to read from memory is an error.
+
+**Which registers can you use in the OxfordAQA assembly instruction set?**
+Registers R0 to R12 are available to the programmer. The OxfordAQA instruction set is based on ARM, and a copy is included in any exam paper with an assembly language question.
+
+**How do logical shifts multiply and divide by powers of 2?**
+A logical shift left by n places multiplies by 2ⁿ and a logical shift right by n places gives the whole part of a division by 2ⁿ. This only holds while no 1 bits are lost off the end of the fixed-size register.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.8 Machine code and assembly language, and 6 Appendix: Standard OxfordAQA assembly language instruction set.
