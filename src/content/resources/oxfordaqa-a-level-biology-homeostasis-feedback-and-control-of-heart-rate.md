@@ -218,6 +218,23 @@ Data supplied from a resting volunteer:
 - Writing that Purkinje tissue delays the wave. The AVN delays it; Purkinje tissue conducts it quickly.
 - Forgetting the full chain: stimulus, receptor, coordinator, effector, response.
 
+## Frequently asked questions
+
+**What is homeostasis?**
+Homeostasis in mammals involves physiological control systems that maintain the internal environment, the blood and tissue fluid, within restricted limits. Levels fluctuate a little around a set point rather than staying at one fixed value.
+
+**What is the difference between negative and positive feedback?**
+Negative feedback produces a response that reverses a change and restores the original level. Positive feedback produces a response that increases the change, leading to greater departures from the original level, and is often linked to the breakdown of control systems.
+
+**Why does having separate mechanisms in each direction give greater control?**
+With two opposing mechanisms, an overshoot can be corrected at once in the other direction, so the level is held in a narrower range and restored faster. A single mechanism can only push the level back one way.
+
+**What does myogenic mean?**
+Cardiac muscle is myogenic: it contracts and relaxes rhythmically without a nerve impulse to start each beat. Nerves only change the rate.
+
+**Is homeostasis on the International AS in OxfordAQA Biology (9610)?**
+No. Sections 3.4.6 and 3.4.8 are in Unit 4, Control, which is an International A-level only unit.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.4.6.1, 3.4.6.2 and 3.4.8.

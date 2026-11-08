@@ -151,6 +151,20 @@ These questions cover statements B6.3f to B6.3i of the OCR GCSE (9-1) Gateway Sc
 - Try all free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**How do you explain why a diseased plant grows poorly?**
+Give a chain: name the damage (chlorophyll destroyed, light blocked or transport disrupted), say photosynthesis falls, then say less glucose is made for growth. "It makes them weak" is too vague to credit.
+
+**How do you estimate the number of infected plants in a field from a sample?**
+Work out the proportion infected in the random sample first, then multiply by the total number of plants in the field and round to a sensible accuracy. The answer is only an estimate, and a larger random sample gives a more reliable one.
+
+**Why should plants be sampled at random?**
+Random sampling avoids bias, for example choosing only plants at the field edge where wind carries spores first. Writing "to be fair" without mentioning bias is too vague.
+
+**How do you use controls when interpreting a DNA test for plant disease?**
+Compare each sample with the positive control (a known infected sample) and the negative control (a known healthy sample). The controls show the test worked, which is why the result can be trusted.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), first assessment 2018, published by OCR. Statements B6.3f to B6.3i; B6.3i is bold (Higher Tier only).

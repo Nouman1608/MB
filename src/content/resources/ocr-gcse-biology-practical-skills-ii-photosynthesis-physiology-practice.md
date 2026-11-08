@@ -152,6 +152,20 @@ These questions cover Practical Activity Groups 5 to 8 of Topic B7 (Practical sk
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you predict the rate of photosynthesis when the lamp distance changes?**
+Square the ratio of the distances, because light intensity is inversely proportional to distance squared. Doubling the distance cuts the intensity, and so the predicted rate where light is limiting, to a quarter.
+
+**How do you calculate the area of a clear zone on a bacterial lawn?**
+Use area = πr², taking the radius as half the measured diameter. Using the diameter in place of the radius is a common way to lose marks.
+
+**How should you explain an aseptic technique step in an exam answer?**
+Say why the step helps, for example that working near a Bunsen flame means rising warm air carries contaminants away from the open dish. "To stop contamination" without saying how is not enough.
+
+**How do you describe osmosis in a potato chip question?**
+Name water as the substance moving, the partially permeable membrane and the direction down the water potential gradient. Never say that solute moves through the membrane.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Biology A (Gateway Science) specification J247, Version 4.0, for first assessment in 2018, published by OCR: Topic B7 Practical skills, Practical Activity Groups 5 to 8.

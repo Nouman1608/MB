@@ -245,6 +245,20 @@ Ripe fruit gives off ethene, a gas, which ripens fruit nearby: the reason one ba
 - Calling ethene a liquid or a solid. It is a gas.
 - Describing IVF as "putting sperm into the woman" rather than fertilisation in a dish.
 
+## Frequently asked questions
+
+**Which contraceptive methods protect against sexually transmitted infections?**
+Only condoms give some protection from infection. Hormonal methods such as the pill, implant and injection prevent pregnancy but give no protection against sexually transmitted infections.
+
+**What do FSH and LH do in fertility treatment?**
+FSH stimulates eggs to mature and LH triggers ovulation. In IVF, both are given so that several eggs mature at once, ready to be collected; this is Higher Tier only content in OCR GCSE Biology A (J247).
+
+**What is a tropism in plants?**
+A tropism is a growth response to a stimulus, towards or away from it. Phototropism is a response to light and gravitropism is a response to gravity, both caused by unequal distribution of auxin.
+
+**How do selective weedkillers work?**
+Selective herbicides contain synthetic auxins that make broad-leaved weeds grow too fast in an uncontrolled way, so they die. Narrow-leaved plants such as grasses and cereals are largely unaffected.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)*, specification Version 4.0 (August 2026), for first assessment in 2018. Published by OCR.

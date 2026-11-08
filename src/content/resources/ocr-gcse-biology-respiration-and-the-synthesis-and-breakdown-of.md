@@ -212,6 +212,23 @@ Lipids (fats and oils) are not true polymers because they are not long chains of
 
 Read each outcome, cover the page and explain it aloud, then check the practice questions. A weak area is a cue to try the [diagnostics](/diagnostics/) or to [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is respiration the same as breathing?**
+No. Respiration is the chemical process inside cells that transfers energy from fuels such as glucose to ATP. Breathing, or ventilation, is the movement of air into and out of the lungs.
+
+**What are the products of anaerobic respiration in animals and in yeast?**
+In animals, anaerobic respiration turns glucose into lactic acid only. In plants and fungi such as yeast, it turns glucose into ethanol and carbon dioxide, which is called fermentation in yeast.
+
+**Why is respiration described as exothermic?**
+Respiration transfers energy to the surroundings: part of the energy from the fuel is captured in ATP and the rest is released as heat. This is why germinating seeds and compost heaps warm up.
+
+**Why are lipids not true polymers?**
+Lipids are not long chains of one repeating unit. A triglyceride is built from one glycerol joined to three fatty acids, with three water molecules released.
+
+**Is any of the respiration topic Higher Tier only in OCR GCSE Biology A (J247)?**
+No. No statement in topic B1.3 of the J247 specification is marked in bold, so all of B1.3a to B1.3f is assessed in both tiers.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Suite Biology A (J247)*, Version 4.0 (August 2026), first assessment 2018, topic B1.3 Respiration.

@@ -149,6 +149,20 @@ These questions cover topic B5.2 Natural selection and evolution in OCR *GCSE (9
 - Take [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What phrases gain credit in natural selection answers?**
+Say that some individuals had an allele that gave them an advantage, so they were more likely to survive, reproduce and pass on the allele, and that over many generations the allele became more common. Missing "reproduce" or "pass on the allele" loses marks.
+
+**Why should you not say organisms change "in order to" survive?**
+Variants already exist before the environment changes, and mutations are random rather than caused by need. Writing that organisms changed "because they needed to" repeats a misconception and loses marks.
+
+**Do antibiotics cause bacteria to become resistant?**
+No. Resistance arises by random mutation, and the antibiotic is the selection pressure that kills non-resistant bacteria, so resistant bacteria survive and multiply. Say the antibiotic selects for resistance rather than causing it.
+
+**What is the difference between a percentage point change and a percentage increase?**
+A rise from 2% to 9% is 7 percentage points, but as a percentage increase it is 350%. Check which form the question asks for.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)* specification, Version 4.0 (August 2026), first assessment 2018, topic B5.2.

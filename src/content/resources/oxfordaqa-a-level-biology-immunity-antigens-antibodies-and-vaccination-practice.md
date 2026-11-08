@@ -166,6 +166,20 @@ Mild side effects occurred in 12% of the vaccine group and 4% of the placebo gro
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate vaccine efficacy from trial data?**
+Work out the attack rate in the vaccine group and in the placebo group, then find the reduction as a percentage of the placebo rate. Giving the attack rate in the vaccinated group as the efficacy is a common error.
+
+**How do you work out the vaccine coverage needed for herd immunity?**
+In a simple model, the minimum immune fraction is 1 − 1/R, where R is the mean number of new infections from one case. Divide by the vaccine's efficacy to find the coverage needed.
+
+**How do you evaluate a vaccine trial in OxfordAQA International A-level Biology (9610)?**
+Give at least one strength and one limitation, each supported by a figure, considering the control group, random allocation and blinding, sample size, the outcome measured, follow-up time and side effects. Saying only that the sample was "big" is rarely enough.
+
+**Do memory cells make antibodies directly?**
+No. On re-exposure memory cells divide and become plasma cells, which secrete the antibodies. Confusing plasma cells with memory cells is a common way to lose marks.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1: sections 3.2.5.1, 3.2.5.2 and 3.2.5.3. This page is an independent Marlbridge resource and is not endorsed by OxfordAQA.

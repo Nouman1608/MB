@@ -215,6 +215,20 @@ Remember that the same carbon atom can pass through several of these steps in tu
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between natural and artificial fertilisers?**
+Natural fertilisers such as manure, slurry and compost contain organic compounds that release ions slowly, with variable composition, and add organic matter. Artificial fertilisers are soluble inorganic salts such as ammonium nitrate, with quick release and known composition.
+
+**How do greenhouse gases cause the greenhouse effect?**
+The Earth's surface re-emits longer-wave infrared radiation, and greenhouse gases such as carbon dioxide and methane absorb some of it and re-radiate it in all directions, including back down. Increasing these gases enhances the effect, raising average temperatures.
+
+**How does climate change affect insect pests?**
+Insects are ectotherms, so warmth speeds their development: life cycles are shorter, there are more generations in a season, more survive the winter and their range spreads. Pest numbers and damage may rise.
+
+**Why are fertilisers needed on farmland?**
+Harvesting crops and removing livestock takes nitrogen out of the system, because it does not return through death and decay on that land. Fertilisers replace it.
+
 ## Official syllabus
 
 These notes follow section 3.3.5 Nutrient cycles in the *OxfordAQA International AS and A-level Biology (9610) specification*, Version 5.1, published by OxfordAQA.

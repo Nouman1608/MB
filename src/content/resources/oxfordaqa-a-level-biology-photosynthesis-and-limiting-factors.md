@@ -205,6 +205,23 @@ A common version investigates light intensity using a water plant such as *Elode
 
 Work through the [revision notes](/resources/oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors-revision-notes/), then attempt the [practice questions](/resources/oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors-practice/). Use the [checklist](/checklists/oxfordaqa/a-level/biology/) to record progress and the [course page](/boards/oxfordaqa/a-level/biology/) to find related topics.
 
+## Frequently asked questions
+
+**What are the products of the photolysis of water?**
+Photolysis splits water into protons, electrons and oxygen: 2H₂O → 4H⁺ + 4e⁻ + O₂. The electrons replace those lost from chlorophyll, the protons help form reduced NADP, and oxygen is a waste product.
+
+**How is ATP made in the light-dependent reaction?**
+Excited electrons pass along the electron transfer chain, releasing energy that pumps protons across the chloroplast membrane. The protons flow back through ATP synthase, which uses the energy to join ADP and inorganic phosphate into ATP; this is chemiosmosis.
+
+**What happens in the Calvin cycle?**
+Carbon dioxide reacts with ribulose bisphosphate (RuBP), catalysed by rubisco, to form two molecules of glycerate 3-phosphate (GP). ATP and reduced NADP reduce GP to triose phosphate, some of which regenerates RuBP while the rest is converted to useful organic substances.
+
+**What is the principle of limiting factors?**
+The rate of a process that depends on several factors is limited by the factor nearest its minimum value. Raising that factor increases the rate, and when the rate stops rising, a different factor has become limiting.
+
+**Is photosynthesis on the International AS in OxfordAQA Biology (9610)?**
+No. Section 3.3.2 and Required practical 7 sit in Unit 3, Populations and genes, which the specification lists as International A-level only.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.2 and Required practical 7.

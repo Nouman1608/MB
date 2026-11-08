@@ -234,6 +234,23 @@ A significant result shows the data do not fit the expected ratio. It does not p
 - Saying "accept the hypothesis" when you should say you do not reject the null hypothesis.
 - Describing epistasis as "dominance". Dominance is between alleles of one gene; epistasis is between genes.
 
+## Frequently asked questions
+
+**What is the difference between genotype and phenotype?**
+Genotype is the alleles an organism carries, its genetic constitution. Phenotype is how that constitution is expressed, together with the effect of the environment on it.
+
+**What ratio shows codominance in a monohybrid cross?**
+A 1 : 2 : 1 phenotype ratio from crossing two heterozygotes signals codominance, because the heterozygote is visibly different from both homozygotes.
+
+**What is epistasis?**
+Epistasis occurs when a gene at one locus masks or alters the expression of a gene at another locus. It merges classes of the 9 : 3 : 3 : 1 ratio, giving ratios such as 9 : 3 : 4, 12 : 3 : 1 or 9 : 7.
+
+**How do you tell if two genes are linked from a test cross?**
+Unlinked genes give four equal classes in a test cross. If the parental combinations are far commoner than 1 : 1 : 1 : 1, the genes are linked, and the small classes are recombinants produced by crossing over.
+
+**Is inheritance on the International AS in OxfordAQA Biology (9610)?**
+No. Sections 3.3.6.1 and 3.3.6.2 sit in Unit 3, Populations and genes, which the specification lists as International A-level only.
+
 ## Official syllabus
 
 Source: OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1, International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, sections 3.3.6.1 and 3.3.6.2.

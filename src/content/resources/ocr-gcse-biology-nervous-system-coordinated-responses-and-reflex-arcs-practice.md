@@ -142,6 +142,20 @@ Other creditworthy pairs: cell body with dendrites that receives impulses from o
 * Try all the free [10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate reaction time from a ruler drop test?**
+Find the mean drop distance, convert it from centimetres to metres, then use t = √(2d/g) with g = 9.8 m/s². Missing the conversion to metres is the step most often lost.
+
+**How do you answer an "explain how the structure of a reflex arc relates to its function" question?**
+Link each feature to speed or automatic action, for example few neurones and few synapses give a short, fast pathway, and the relay neurone allows a response without conscious thought. Listing the arc without these links does not answer the question.
+
+**What makes a good plan for a reaction time investigation?**
+Name specific control variables, such as the same hand, ruler, starting position and person dropping it, repeat the test and calculate a mean, and say how you will treat anomalies. "Make it a fair test" alone does not score.
+
+**Are nerve and neurone the same thing in GCSE Biology?**
+No. A neurone is one nerve cell, so the two words are not interchangeable, and key terms should be spelled and used in full.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), first assessment 2018. Statements B3.1a to B3.1c.

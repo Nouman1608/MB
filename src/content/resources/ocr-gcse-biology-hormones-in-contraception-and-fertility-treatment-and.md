@@ -213,6 +213,23 @@ Gravitropism is growth in response to gravity.
 
 Continue with the [practice questions](/resources/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and-practice/) or condense with the [revision notes](/resources/ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and-revision-notes/).
 
+## Frequently asked questions
+
+**How does the combined contraceptive pill prevent pregnancy?**
+The combined pill keeps blood levels of oestrogen and progesterone high, which inhibits the release of FSH from the pituitary gland. Without FSH no follicle matures and no egg is released; progesterone also thickens cervical mucus so sperm pass less easily.
+
+**What is the difference between perfect use and typical use of contraception?**
+Perfect use means the method is used correctly every time, while typical use includes real-life mistakes such as missed pills or condoms that slip. Methods needing no daily action, such as the implant or coil, show only a small gap between the two.
+
+**Is IVF on the Foundation Tier of OCR GCSE Biology A (J247)?**
+No. Using hormones to treat infertility, including IVF, is statement B3.2f, which is in bold in the J247 specification and tested in the Higher Tier papers only.
+
+**Why do roots and shoots bend in opposite directions in gravitropism?**
+In both a horizontal shoot and a horizontal root, auxin collects on the lower side. In shoots auxin promotes cell elongation, so the shoot curves up, but in roots a high auxin concentration inhibits elongation, so the upper side grows more and the root curves down.
+
+**Why can one ripe banana make other fruit ripen faster?**
+Ripe fruit gives off ethene, a gas that spreads to nearby fruit and speeds up their ripening by triggering starch breakdown, softening and colour change.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)*, specification Version 4.0 (August 2026), for first assessment in 2018. Published by OCR.

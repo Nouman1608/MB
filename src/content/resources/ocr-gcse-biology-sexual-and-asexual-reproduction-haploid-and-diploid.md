@@ -218,6 +218,23 @@ A fruit fly has 4 pairs of chromosomes. What is the probability that a gamete co
 
 Test yourself with the [practice questions](/resources/ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid-practice/), then check what you know with the [diagnostics](/diagnostics/) and the [checklist](/checklists/ocr/gcse/biology/).
 
+## Frequently asked questions
+
+**What is the difference between haploid and diploid cells?**
+Diploid cells contain two sets of chromosomes, in pairs, written 2n; human body cells are diploid with 46 chromosomes. Haploid cells contain one set, one chromosome from each pair, written n; human gametes are haploid with 23 chromosomes.
+
+**Why do gametes need to be made by meiosis?**
+Meiosis halves the chromosome number so that fertilisation restores the diploid number. Without it the number would double every generation, for example from 46 to 92 in humans.
+
+**How many cells does meiosis produce?**
+Meiosis involves two divisions and produces four haploid cells that are genetically different from each other. Mitosis, by contrast, involves one division and produces two genetically identical cells.
+
+**What are the advantages of asexual reproduction?**
+Only one parent is needed, so there is no need to find a mate, and reproduction can be fast, so numbers rise quickly. The offspring are clones of a parent already well suited to its habitat.
+
+**Is meiosis Higher Tier only in OCR GCSE Biology A (J247)?**
+No. Statements B5.1f to B5.1h, covering sexual and asexual reproduction, haploid and diploid cells and meiosis, are not printed in bold, so they are assessed in both tiers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Biology A (Gateway Science) specification J247, Version 4.0 (August 2026), for first assessment in 2018, published by OCR: statements B5.1f, B5.1g and B5.1h.

@@ -244,6 +244,20 @@ These notes condense statements B5.1f, B5.1g and B5.1h of the OCR GCSE (9-1) Bio
 - Not stating that fertilisation restores the diploid number.
 - Showing no working in a doubling question, so a wrong power of 2 cannot be traced to a slip in counting the divisions.
 
+## Frequently asked questions
+
+**How does meiosis cause genetic variation?**
+Each pair of chromosomes separates independently, so which chromosome of a pair ends up in a gamete is random and each gamete gets a different mixture. Fertilisation adds more variation, because any sperm can fuse with any egg.
+
+**Why is variation important when the environment changes?**
+Identical individuals share identical weaknesses, so a new disease or environmental pressure can affect them all. A population with variation is more likely to contain some individuals that survive, and variation is what natural selection acts on.
+
+**Can clones look different from each other?**
+Yes. Clones have the same genetic information, but their phenotype can still differ if the environment differs, for example if one plant gets more light or water.
+
+**What is the difference between a gamete and a zygote?**
+A gamete, such as a sperm or egg cell, is haploid. A zygote is the fertilised egg formed when two gametes fuse, and it is diploid.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Biology A (Gateway Science) specification J247, Version 4.0 (August 2026), for first assessment in 2018, published by OCR: statements B5.1f, B5.1g and B5.1h.

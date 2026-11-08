@@ -248,6 +248,20 @@ A sentence frame that works for evaluation: "The vaccine reduced cases from X% t
 - Calling a trial reliable without mentioning sample size, a control group or blinding.
 - Giving efficacy as the vaccinated attack rate, instead of the reduction relative to placebo.
 
+## Frequently asked questions
+
+**What is the difference between active and passive immunity?**
+In active immunity your own plasma cells make antibodies and memory cells form, so protection is slow to start but long-lasting. In passive immunity antibodies come from another individual, such as across the placenta, so protection is immediate but short-term and no memory cells form.
+
+**What is the difference between plasma cells and memory cells?**
+Plasma cells are short-lived and secrete large amounts of antibody. Memory cells are long-lived and, on re-exposure, divide rapidly into plasma cells to give the faster, larger secondary response.
+
+**Why are antibodies specific to one antigen?**
+The variable region of an antibody has a particular amino acid sequence, so its tertiary structure forms a binding site with a particular shape. Only an antigen with a complementary shape fits.
+
+**Why do influenza vaccines need updating?**
+Influenza's surface antigens change, so memory cells made against the old antigens no longer bind them. Vaccines therefore have to be updated and given again.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1: sections 3.2.5.1, 3.2.5.2 and 3.2.5.3. This page is an independent Marlbridge resource and is not endorsed by OxfordAQA.

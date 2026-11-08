@@ -270,6 +270,20 @@ Notice that you can skip the magnification: 30 ÷ 20 × 2 = 3 µm.
 - Putting chloroplasts in root cells or animal cells.
 - Using a stain without saying why: state that it makes structures visible or distinguishes them.
 
+## Frequently asked questions
+
+**Why are stains used on microscope slides?**
+Most cells are almost colourless, so their parts show little contrast. A stain either makes a colourless specimen visible or colours different structures differently, for example methylene blue on cheek cells or iodine solution on onion epidermis.
+
+**What is the difference between a chromosome and a plasmid?**
+A chromosome is one long coiled DNA molecule, while plasmids are small extra rings of DNA found in bacteria, separate from the main chromosome. Plasmids can be copied and passed between bacteria.
+
+**What are the disadvantages of a transmission electron microscope?**
+TEM specimens must be dead, thin and treated, so living processes cannot be watched and preparation can create artefacts. The image is monochrome, the specimen is in a vacuum, and the equipment is expensive.
+
+**How many micrometres are in a millimetre?**
+There are 1000 µm in 1 mm and 1000 nm in 1 µm. Convert to the same unit before dividing in a magnification calculation.
+
 ## Official syllabus
 
 Aligned to OCR GCSE (9-1) Gateway Science Suite Biology A (J247), Version 4.0, published by OCR, first assessment in 2018, statements B1.1a to B1.1c.

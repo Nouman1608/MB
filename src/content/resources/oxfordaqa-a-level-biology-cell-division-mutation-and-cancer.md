@@ -230,6 +230,23 @@ Pool all fields before dividing; do not average the five percentages. A larger c
 - Saying all substitutions change the protein, forgetting the degenerate code.
 - Defining the mitotic index using only dividing cells as the denominator.
 
+## Frequently asked questions
+
+**What happens in each phase of interphase?**
+In G1 the cell grows, makes more protein and increases its organelles; in S phase DNA is replicated so each chromosome becomes two chromatids; in G2 rapid growth and protein synthesis continue before division. Interphase is not a resting stage.
+
+**What do spindle fibres do in anaphase?**
+In anaphase the centromeres divide and the spindle fibres attached to them shorten, pulling the separated chromatids to opposite poles. This gives each daughter nucleus one copy of every chromosome.
+
+**What is the difference between proto-oncogenes and tumour suppressor genes?**
+Proto-oncogenes stimulate cell division and tumour suppressor genes slow it. A mutation can turn a proto-oncogene into an oncogene that makes cells divide too quickly, or inactivate a tumour suppressor gene so the brake on division is lost.
+
+**Why does a base deletion usually have a bigger effect than a substitution?**
+A deletion shifts every triplet after the lost base, so the amino acids after that point usually all change. A substitution changes only one codon, and because the code is degenerate it may not change the amino acid at all.
+
+**Which unit of OxfordAQA Biology (9610) covers mitosis and cancer?**
+Sections 3.2.10 and 3.2.11 are in Unit 2, Biological systems and disease, which is listed under the International AS and A-level. Required practical 4, the root tip squash, is also covered.
+
 ## Official syllabus
 
 Source: OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1, International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, sections 3.2.10, 3.2.11 and Required practical 4.

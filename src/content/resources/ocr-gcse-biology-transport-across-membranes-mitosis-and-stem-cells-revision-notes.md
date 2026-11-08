@@ -318,6 +318,20 @@ Use these as patterns for longer answers.
 - Describing stem cells only as embryonic, and forgetting adult stem cells and meristems.
 - Listing a cell's features without linking them to its function.
 
+## Frequently asked questions
+
+**What is the difference between a chromosome and a chromatid?**
+When DNA is replicated, each chromosome is copied into two identical chromatids joined at one point. During mitosis the chromatids separate and become the chromosomes of the daughter cells.
+
+**Where are stem cells found?**
+Embryonic stem cells are found in animal embryos, adult stem cells in tissues such as bone marrow, and meristems at the tips of roots and shoots in plants.
+
+**What is a percentile?**
+A percentile shows the proportion of a group that falls below a value. If 15 of 20 seedlings are shorter than yours, yours is at the 75th percentile.
+
+**Why can a cutting grow into a whole new plant?**
+Meristem cells can divide and differentiate into every plant cell type, so a cutting or a cauliflower fragment can regrow into a whole plant.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Biology A (Gateway Science), specification J247, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B2.1a to B2.1f.

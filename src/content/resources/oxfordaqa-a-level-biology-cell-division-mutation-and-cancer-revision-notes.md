@@ -249,6 +249,20 @@ Mitotic index: cells in mitosis divided by all cells counted (× 100 for a perce
 </figure>
 
 
+## Frequently asked questions
+
+**What is a mutagen?**
+A mutagen is a physical or chemical agent that increases the frequency of mutations, such as ultraviolet light, ionising radiation or chemicals in tobacco smoke. Mutations also arise spontaneously during DNA replication.
+
+**How do bacteria divide by binary fission?**
+The circular DNA is replicated, any plasmids are replicated, and the cytoplasm divides to give two daughter cells. Each daughter has one copy of the circular DNA, but plasmid numbers may vary.
+
+**What is horizontal gene transmission?**
+Horizontal gene transmission is the movement of genes between living cells, for example a plasmid copy passing from one bacterium to another during conjugation. Vertical transmission passes genes from parent to daughter cells.
+
+**What is the difference between a benign and a malignant tumour?**
+A benign tumour usually grows slowly, is often surrounded by a capsule and stays at its site of origin. A malignant tumour usually grows rapidly, invades surrounding tissue, and its cells can spread to form secondary tumours.
+
 ## Official syllabus
 
 Source: OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1, International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, sections 3.2.10, 3.2.11 and Required practical 4.

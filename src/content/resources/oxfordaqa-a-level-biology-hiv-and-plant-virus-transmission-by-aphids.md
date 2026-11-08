@@ -203,6 +203,23 @@ Suction-trap data over six weeks from a field of 400 monitored plants:
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-hiv-and-plant-virus-transmission-by-aphids-practice/) and condense with the [revision notes](/resources/oxfordaqa-a-level-biology-hiv-and-plant-virus-transmission-by-aphids-revision-notes/).
 
+## Frequently asked questions
+
+**Why are viruses described as acellular and non-living?**
+A virus has no cytoplasm, no ribosomes, no cell surface membrane of its own and no metabolism, so it cannot respire, grow or divide. It can only make new particles inside a host cell, using the host's ribosomes, enzymes and ATP.
+
+**What is the role of reverse transcriptase and integrase in HIV?**
+Reverse transcriptase uses the viral RNA as a template to make DNA. Integrase then inserts the double-stranded viral DNA into a host cell chromosome.
+
+**Which cells does HIV infect?**
+HIV infects CD4 helper T-cells, the cells that initiate the body's response to infections. Glycoproteins on the HIV envelope bind to CD4 receptors on these cells; as more are lost, the immune response is weakened.
+
+**Why do plant viruses need vectors such as aphids?**
+Plants are immobile, so a virus cannot usually pass between them by contact as it can between animals. Aphids feeding on phloem sap carry virus particles from an infected plant to a healthy one.
+
+**Is HIV on the International AS in OxfordAQA Biology (9610)?**
+Yes. Sections 3.2.4 and 3.2.9 are in Unit 2, which the specification lists under International AS and A-level, rather than the A-level only Units 3 and 4.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, published by OxfordAQA: sections 3.2.4 and 3.2.9 of Unit 2, and the Unit 2 biological principle on viruses.

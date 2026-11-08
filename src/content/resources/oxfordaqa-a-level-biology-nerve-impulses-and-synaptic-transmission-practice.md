@@ -178,6 +178,20 @@ These questions cover sections 3.4.3.1 and 3.4.3.2 of the OxfordAQA Internationa
 - [Free diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you predict the effect of a drug on a synapse?**
+Name the step the drug changes, say whether it increases or decreases, then follow the chain to the postsynaptic potential and the action potential or muscle. Stopping at "less acetylcholine" leaves the answer incomplete.
+
+**How do you work out how many impulses are needed to reach threshold?**
+Find the gap between the resting potential and the threshold, divide by the depolarisation per impulse, and round up. Rounding down gives too few impulses to reach threshold.
+
+**What causes the rapid rise of an action potential?**
+Once threshold is reached, many more voltage-gated Na⁺ channels open, which is positive feedback, and Na⁺ diffuses in. Crediting the sodium-potassium pump with the rapid rise is a common error.
+
+**What is a common slip in conduction speed calculations?**
+Forgetting to convert milliseconds to seconds before dividing distance by time gives a speed 1000 times too large. Show the conversion as a separate step.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. These questions follow sections 3.4.3.1 and 3.4.3.2.

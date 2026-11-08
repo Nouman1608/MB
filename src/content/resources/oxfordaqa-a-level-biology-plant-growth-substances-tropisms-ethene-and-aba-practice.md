@@ -168,6 +168,20 @@ The questions below follow *OxfordAQA International AS and A-level Biology (9610
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you explain a tropism for full marks?**
+Give the chain: which side has more IAA, what that concentration does to elongation in that organ, which side elongates more, and which way it bends. "IAA makes it grow up" skips the chain.
+
+**What order do events happen in when ABA closes stomata?**
+Ions leave the guard cells first, the water potential in the guard cells rises, and then water follows out. Reversing the ions and water contradicts the sequence.
+
+**How do you calculate the percentage change in root growth with IAA?**
+Subtract the control value from the treated value, divide by the control value and multiply by 100, keeping the minus sign to show inhibition.
+
+**How do you explain why one ripe fruit speeds the ripening of another?**
+State the source of the ethene, such as a ripe banana, that ethene is a gas, and the effect on the other fruit. A one-word answer of "ethene" gives no explanation.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.4.5.1 to 3.4.5.3 and Required practical 10.

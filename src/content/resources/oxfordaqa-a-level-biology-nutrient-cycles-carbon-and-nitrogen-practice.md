@@ -164,6 +164,20 @@ Evaluate this plan, using your knowledge of the nitrogen cycle. **[9]**
 - Use the [free diagnostics](/diagnostics/) to pick your next topic.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why does dissolved oxygen fall after an algal bloom?**
+The main cause is respiration by saprophytic bacteria decomposing the dead algae and plants, not the algae alone. Blaming only the algae loses marks.
+
+**How do you calculate the percentage of nitrogen in a fertiliser?**
+Work out the relative formula mass, count every nitrogen atom in the formula unit, then divide the mass of nitrogen by Mr and multiply by 100. For urea, CO(NH₂)₂, this is 28 ÷ 60 × 100 = 46.7%.
+
+**How do you explain the greenhouse effect for full marks?**
+Mention the change in wavelength of the radiation and say that greenhouse gases absorb and re-radiate infrared. Saying that gases "trap heat" is too vague.
+
+**How do you evaluate data on climate change and crop yield?**
+Give a verdict supported by the data, noting limitations such as few seasons, small samples or uncontrolled variables like rainfall. Saying the data "do not prove cause" scores only if you back it with a reason.
+
 ## Official syllabus
 
 These questions follow section 3.3.5 Nutrient cycles in the *OxfordAQA International AS and A-level Biology (9610) specification*, Version 5.1, published by OxfordAQA.

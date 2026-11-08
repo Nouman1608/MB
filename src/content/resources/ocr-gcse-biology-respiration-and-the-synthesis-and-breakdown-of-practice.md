@@ -144,6 +144,20 @@ These questions cover topic B1.3 Respiration in OCR *GCSE (9-1) Gateway Science 
 - All free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**How do you explain the purpose of a control in a respiration experiment?**
+Say what the control removes, for example boiled peas cannot respire because their enzymes are denatured, so any temperature rise in them is not caused by respiration. Writing "to compare" is too vague.
+
+**How do you calculate the mass of a molecule made in a condensation reaction?**
+Add the masses of the reactant molecules and subtract 18 for each water molecule lost at each join. For example, two glucose (180 each) make maltose of 360 − 18 = 342.
+
+**What words should you use instead of "makes energy" for respiration?**
+Write that respiration transfers energy or makes ATP. Energy is transferred, not made, so "makes energy" is a common way to lose marks.
+
+**What should a respiration investigation plan with yeast include?**
+Name the independent variable, the dependent variable such as volume of carbon dioxide collected, and at least two controlled variables, such as a fixed time and equal masses of yeast. Vague "keep it fair" statements earn nothing.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Suite Biology A (J247)*, Version 4.0 (August 2026), first assessment 2018, topic B1.3 Respiration.

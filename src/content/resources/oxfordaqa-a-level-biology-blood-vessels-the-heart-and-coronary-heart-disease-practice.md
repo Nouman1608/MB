@@ -165,6 +165,20 @@ These questions follow sections 3.2.6 and 3.2.7 of the OxfordAQA International A
 - All free [10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you decide whether a heart valve is open or closed from data?**
+Compare the pressures on each side of the valve and quote the pressure pair from the table. Both valves are closed when ventricular pressure lies between atrial and arterial pressure.
+
+**How do you calculate the effect of atheroma on the area of an artery's lumen?**
+Use area = π × r², with the radius as half the diameter, for the lumen before and after narrowing, then find the percentage reduction. Using the diameter instead of the radius gives wrong areas.
+
+**How do you explain tissue fluid formation for full marks?**
+Name the two forces separately: hydrostatic pressure pushing fluid out, and the effect of plasma proteins on water potential drawing water back in. Writing just "pressure" is not enough.
+
+**How do you control variables in the heart rate required practical?**
+Name each variable and say how it is kept constant, such as the same volunteer, time of day, caffeine intake and recovery time. Writing "fair test" is not a control.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards. Published by OxfordAQA.

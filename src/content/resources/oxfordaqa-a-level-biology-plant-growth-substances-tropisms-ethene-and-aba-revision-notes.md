@@ -223,6 +223,20 @@ Data questions on this topic usually ask you to describe a trend, then explain i
 
 Answer the [practice questions](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-practice/), then revisit the [study guide](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba/) for any section that feels weak. For transpiration, see [mass transport in plants](/resources/oxfordaqa-a-level-biology-mass-transport-in-plants-xylem-transpiration-and-phloem/).
 
+## Frequently asked questions
+
+**What is a tropism?**
+A tropism is a growth response to a directional stimulus. Growth towards the stimulus is positive and growth away from it is negative.
+
+**What are plant growth substances?**
+Plant growth substances are signal molecules made inside plants that work at very low concentrations. They control growth that follows the direction of a stimulus, fruit ripening and stomatal closure during drought.
+
+**What is the difference between the roles of ethene and ABA?**
+Ethene is linked to fruit ripening, and as a gas it can pass between neighbouring fruit. ABA is linked to stomatal closure when a plant is water-stressed.
+
+**How is Required practical 10 on tropisms carried out?**
+Change the direction of light or gravity, measure the angle or direction of growth with a protractor, and control species, age, temperature and moisture. Use a control group, such as seedlings in even light or on a clinostat, with many seedlings per group.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.4.5.1 to 3.4.5.3 and Required practical 10.

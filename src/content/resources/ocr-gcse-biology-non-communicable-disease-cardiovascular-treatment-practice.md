@@ -167,6 +167,20 @@ These questions cover statements B6.3r to B6.3u of module B6.3 in OCR GCSE (9-1)
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you evaluate treatments for cardiovascular disease in OCR GCSE Biology?**
+Give a benefit and a drawback for each treatment, using figures from the data where they are given, then reach a judgement that depends on the patient. Advantages alone, or no judgement at the end, do not make an evaluation.
+
+**How do you compare disease data from places with different populations?**
+Convert each place's cases to a rate, such as cases per 100 000 people, before comparing. A place with more cases in total can still have the lower rate.
+
+**How do you calculate exponential growth of cancer cells?**
+If each division doubles the number of cells, the number after n divisions from one cell is 2 to the power n. Multiplying the number of divisions by 2 instead of using a power of 2 is a common slip.
+
+**How do you criticise a study linking a lifestyle factor to disease?**
+Name a specific alternative factor that could explain the link, such as diet or income, rather than writing "other variables". Sample size, random selection and the long time diseases take to develop are also worth considering.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR.

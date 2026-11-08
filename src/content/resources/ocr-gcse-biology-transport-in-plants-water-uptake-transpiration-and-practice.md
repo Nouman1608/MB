@@ -194,6 +194,20 @@ These questions cover plant transport in the OCR GCSE (9-1) Biology A specificat
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate the volume of water taken up in a potometer?**
+Find the rate of bubble movement as distance divided by time, then multiply by the cross-sectional area of the capillary, πr². Forgetting the cross-sectional area is a common way to lose marks.
+
+**How do you explain the effect of an environmental factor on transpiration?**
+Link the factor to the water vapour gradient or to the stomata, saying what happens at the leaf. "Faster" or "because it is hotter" alone restates the question rather than explaining it.
+
+**Why do students lose marks on mineral ion uptake questions?**
+A common error is writing osmosis for mineral ion uptake. Water enters by osmosis, but mineral ions mostly enter by active transport against the concentration gradient.
+
+**What should a potometer investigation plan include?**
+State the independent variable, such as fan distance, what is measured, and named control variables such as the same shoot and the other environmental factors. "Keep it fair" names no control.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Biology A (Gateway Science) J247 Specification*, Version 4.0 (August 2026), first assessment 2018, statements B2.2f to B2.2j.

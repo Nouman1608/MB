@@ -169,6 +169,20 @@ Cress with mustard: 27, 25, 29, 24, 28.
 - Take the [free diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you use the Spearman rank correlation test?**
+Rank each variable, find the difference d between each pair of ranks, and calculate rₛ = 1 − (6 × Σd²) ÷ (n(n² − 1)). Compare the size of rₛ with the critical value for your sample size and state the direction of the correlation.
+
+**What should a plan for the seedling competition practical include?**
+Use identical trays of the same area and compost, sow at planned densities, keep temperature, light and watering the same, and measure dry mass per seedling after a set time. Use at least three replicate trays per density.
+
+**How do you interpret 95% confidence limits?**
+The 95% confidence limits are roughly the mean ± 2 × standard error. If the limits of two means do not overlap, the difference is unlikely to be due to chance, and you should give the biological conclusion as well.
+
+**How do you answer a succession question for full marks?**
+Name the environmental change at each stage and link it to the next group of organisms, using figures from the data. A list of organisms in order does not explain succession.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), specification Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.1 and required practical 9 in Unit 3.

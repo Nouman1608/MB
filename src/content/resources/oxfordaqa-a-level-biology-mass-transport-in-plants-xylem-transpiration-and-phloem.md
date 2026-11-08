@@ -216,6 +216,23 @@ Phloem sap and xylem water move for different reasons. The xylem relies on tensi
 - Mixing up xylem (water and mineral ions) with phloem (organic substances).
 - Calling a potometer a measure of transpiration without saying it measures uptake.
 
+## Frequently asked questions
+
+**What is the difference between the apoplastic and symplastic pathways?**
+In the apoplastic pathway water moves through cell walls and the spaces between cells, never entering the cytoplasm. In the symplastic pathway water moves through the cytoplasm of connected cells, passing between them through plasmodesmata.
+
+**What is root pressure?**
+Cells next to the xylem actively transport mineral ions into it, lowering the water potential of the xylem sap. Water follows by osmosis and builds up a positive pressure that pushes water up the xylem; it is a small force that helps most when transpiration is low.
+
+**How does transpiration move water up the xylem?**
+Evaporation from mesophyll cell walls pulls water up the xylem, which is under tension. Cohesion between water molecules and adhesion to the xylem walls keep the column unbroken, and lignified walls stop the vessels collapsing.
+
+**What is the mass flow hypothesis?**
+Sucrose is actively loaded into sieve tubes at the source, lowering their water potential, so water enters by osmosis and hydrostatic pressure rises. At the sink sucrose is removed and water leaves, so the pressure difference drives mass flow of sap from source to sink.
+
+**Is plant transport on the International AS in OxfordAQA Biology (9610)?**
+Yes. Section 3.2.8, including Required practical 6 on the potometer, is in Unit 2, which the specification lists as part of both the International AS and the International A-level.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.8 and Required practical 6.

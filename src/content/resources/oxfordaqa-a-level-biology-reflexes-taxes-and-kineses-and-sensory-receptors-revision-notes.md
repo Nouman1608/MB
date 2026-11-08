@@ -190,6 +190,20 @@ Condensed recall for sections 3.4.1, 3.4.2.1 and 3.4.2.2 of the OxfordAQA Intern
 - Explaining acuity without saying that cones have separate connections.
 - Slipping on units: m, ms and s mixed together in reflex-time calculations.
 
+## Frequently asked questions
+
+**What is the difference between a taxis and a kinesis?**
+A taxis is movement whose direction is set by the direction of the stimulus, towards it (positive) or away from it (negative). A kinesis is a change in speed or rate of turning with the intensity of the stimulus, and the movement is random in direction.
+
+**What is the difference between a generator potential and an action potential?**
+A generator potential is a graded depolarisation that stays in the receptor and grows with the strength of the stimulus. An action potential is set up in the sensory neurone only if the generator potential reaches the threshold.
+
+**Why are rods more sensitive to dim light than cones?**
+Rhodopsin in rods is broken down by low-intensity light, and many rods share one bipolar neurone. Their small generator potentials add together by summation, so the shared neurone can reach threshold in dim light.
+
+**Is this topic on the International AS in OxfordAQA Biology (9610)?**
+No. Sections 3.4.1, 3.4.2.1 and 3.4.2.2 are in Unit 4, Control, which the specification lists as International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, from OxfordAQA, covering specification content 3.4.1, 3.4.2.1 and 3.4.2.2.

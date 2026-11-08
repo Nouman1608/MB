@@ -242,6 +242,23 @@ The secondary peak is 40 times higher. Explain: memory cells from the first expo
 - Describing herd immunity as everybody being immune.
 - Calling a placebo group "unvaccinated and untreated". It receives an inactive injection so participants cannot tell which group they are in.
 
+## Frequently asked questions
+
+**What is an antigen?**
+An antigen is a molecule, usually a protein, that is recognised as foreign and stimulates an immune response. Antigens are found on pathogens, as part of toxins, and on foreign or abnormal cells.
+
+**What is the difference between cell-mediated and humoral immunity?**
+Cell-mediated immunity is carried out by T cells and acts on body cells that carry foreign antigens, such as virus-infected cells. Humoral immunity is mainly carried out by B cells and works through antibodies released into body fluids.
+
+**How do antibodies lead to the destruction of bacteria?**
+Each antibody has two binding sites, so it can attach to two bacterial cells at once, clumping many cells together by agglutination. Phagocytes then bind to the antibody-coated bacteria, engulf them and digest them with lysosome enzymes.
+
+**What is herd immunity?**
+Herd immunity is when a high proportion of a population is immune, so a pathogen cannot pass easily between susceptible people. It protects people who are not immune, such as babies too young to be vaccinated.
+
+**Is immunity on the International AS in OxfordAQA Biology (9610)?**
+Yes. Section 3.2.5 sits in Unit 2, Biological systems and disease, which the specification places in both the International AS and the International A-level.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1: sections 3.2.5.1, 3.2.5.2 and 3.2.5.3. This page is an independent Marlbridge resource and is not endorsed by OxfordAQA.

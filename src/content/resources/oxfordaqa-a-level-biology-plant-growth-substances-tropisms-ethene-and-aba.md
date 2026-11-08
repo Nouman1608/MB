@@ -219,6 +219,23 @@ mean rate of closure = 6.3 / 30 = 0.21 um per minute
 
 Condense this into notes with the [revision notes](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-revision-notes/), then answer the [practice questions](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-practice/). For exam technique across the course, see the [exam preparation page](/resources/oxfordaqa-a-level-biology-exam-preparation/).
 
+## Frequently asked questions
+
+**How does IAA cause phototropism in shoots?**
+Light from one side causes IAA to be distributed unequally, with more on the shaded side. In shoots a higher IAA concentration stimulates cell elongation, so the shaded side elongates more and the shoot bends towards the light.
+
+**Why do roots and shoots respond differently to gravity?**
+In a horizontal root or shoot, more IAA collects on the lower side. In shoots this stimulates elongation, so the shoot turns up; in roots a higher concentration inhibits elongation, so the upper side grows more and the root curves down.
+
+**How does abscisic acid close stomata?**
+In a water-stressed plant, ABA stimulates the transport of potassium and chloride ions out of the guard cells. This raises the guard-cell water potential, water leaves, the guard cells shrink and the stomata close.
+
+**Why are bananas picked green and ripened after shipping?**
+Ethene stimulates ripening, so controlling it lets climacteric fruits such as bananas be harvested green, when they are firmer and less easily damaged, and then exposed to ethene at the destination so they ripen together.
+
+**Is plant growth substances on the International AS in OxfordAQA Biology (9610)?**
+No. Section 3.4.5 and Required practical 10 are in Unit 4, Control, which the specification places in the International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.4.5.1 to 3.4.5.3 and Required practical 10.

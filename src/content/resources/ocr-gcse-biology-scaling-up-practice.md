@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "scaling-up-ocr-gcse-biology"
-description: "Original exam-style practice questions with full worked answers on diffusion, osmosis, active transport, surface area to volume ratio, and the human and plant transport systems for OCR GCSE (9-1) Biology A Gateway Science (J247), Topic B2 Scaling Up."
+description: "Original practice questions with worked answers for OCR GCSE Biology A (J247) Topic B2 Scaling Up: diffusion, osmosis, SA:V ratio, heart and plant transport."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
@@ -212,3 +214,17 @@ D) Phloem does not transport sugars; xylem does **[1]**
 ## Approaching scaling up questions
 
 Open any question about why a large organism needs exchange surfaces or transport systems with the surface-area-to-volume-ratio argument before describing the specific adaptation, since this single idea is what the specification is actually testing across lungs, gut, capillaries, xylem, phloem and root hairs alike. For any transport-mechanism question, work through diffusion, osmosis and active transport as a three-row comparison (what moves, along or against which gradient, whether energy is needed) rather than defining one in isolation, since most exam questions test the ability to distinguish between them in an unfamiliar scenario. For structure-function questions on a specialised cell such as a red blood cell or root hair cell, use the same reusable structure-function-link pattern every time: name the structural feature, state the function it enables, then explain explicitly how the structure increases the rate or efficiency of that function.
+
+## Frequently asked questions
+
+**What types of question are in the Scaling Up practice set?**
+The set has a multiple-choice section on the topic and a section of short-answer and extended questions, all with worked answers. They cover transport mechanisms, surface area to volume ratio, the circulatory system, stem cells and plant transport for OCR GCSE Biology A (J247).
+
+**How do you identify which transport mechanism a question is describing?**
+Check what moves, whether it moves down or against a gradient, and whether energy is needed. Osmosis applies only to water across a partially permeable membrane, diffusion to any particle down a concentration gradient, and active transport to movement against a gradient using energy.
+
+**What do students get wrong about surface area to volume ratio?**
+Common slips are using the wrong units and stating that the ratio increases as an organism gets larger. The ratio decreases as size increases, because volume grows faster than surface area.
+
+**How do you answer a six-mark comparison of xylem and phloem?**
+Compare the two tissues point by point on the substances carried, the direction of movement and the cell type. Mixing up the tissues on any of these three points is a common way to lose marks.

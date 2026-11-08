@@ -149,6 +149,20 @@ Links: [study guide](/resources/ocr-gcse-biology-working-scientifically-planning
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How should you deal with an anomalous result?**
+Say why you think the value is anomalous and what you did with it, such as leaving it out of the mean or repeating the measurement. Averaging it in without comment, or deleting it silently, loses marks.
+
+**How do you write a good evaluation of an experiment?**
+Point to a specific weakness, say what effect it had on the results, then give a specific improvement. Vague suggestions such as "be more careful" or "human error" give nothing to credit.
+
+**How do you name control variables for full marks?**
+Name each control variable and say how it is kept constant, for example keeping all dishes on one shelf under the same lamp. "Same conditions" or "temperature" without a method earns less.
+
+**Does a correlation show that one variable causes another?**
+No. A correlation shows a link between two variables, not that one causes the other, so a conclusion should not claim more than the data show.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), first assessment 2018, published by OCR: section 5e Working scientifically (statements 1.2, 1.3, 1.4 and 2a to 2d), section 5f mathematical skills, and Topic B7 Practical skills.

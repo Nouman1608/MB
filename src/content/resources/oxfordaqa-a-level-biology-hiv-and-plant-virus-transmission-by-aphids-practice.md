@@ -162,6 +162,20 @@ HIV binds by glycoproteins to CD4 receptors on helper T-cells [1]; plant virus i
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you work out which step of HIV replication a drug blocks?**
+Use the evidence given to show which earlier steps worked, such as viral RNA present or viral DNA made, then match what is missing to the step and enzyme involved. Naming a drug without linking it to the step blocked earns little.
+
+**What happens if a drug inhibits HIV protease?**
+Viral proteins are made but not cut into working lengths, so particles that assemble are not infectious.
+
+**How do you calculate the magnification of a virus in an electron micrograph?**
+Convert the image size and the actual size to the same unit, then divide image size by actual size. Forgetting the unit conversion, for example between mm and nm, is a common slip.
+
+**Does a correlation between aphid numbers and infected plants prove aphids spread the virus?**
+No. A correlation does not prove causation, and stronger answers say what extra evidence would test the claim, such as testing the trapped aphids for the virus.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, published by OxfordAQA: sections 3.2.4 and 3.2.9 of Unit 2.

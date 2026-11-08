@@ -232,6 +232,23 @@ For any plateau, say two things: the factor on the x axis is not limiting there,
 - Saying temperature "kills" the enzyme above the optimum. Say it denatures.
 - Saying a lamp at 20 cm gives half the intensity of one at 10 cm. It gives a quarter.
 
+## Frequently asked questions
+
+**What is the balanced symbol equation for photosynthesis?**
+The balanced equation is 6CO2 + 6H2O → C6H12O6 + 6O2, in light and using chlorophyll. Each side has 6 carbon, 12 hydrogen and 18 oxygen atoms.
+
+**Why is photosynthesis an endothermic reaction?**
+Photosynthesis takes in energy from the surroundings, as light. The light energy is transferred to chemical energy stored in glucose, so the products hold more chemical energy than the reactants; energy is transferred, not made.
+
+**What is a limiting factor in photosynthesis?**
+A limiting factor is the condition that is lowest relative to what the plant could use, so it caps the rate. Light intensity, carbon dioxide concentration and temperature can each be the limiting factor.
+
+**How does lamp distance affect light intensity?**
+Light intensity follows the inverse square law, so intensity is proportional to 1/d². Doubling the distance from the lamp cuts intensity to a quarter, and halving it multiplies intensity by four.
+
+**Is the interaction of limiting factors Higher Tier only in OCR GCSE Biology A (J247)?**
+Yes. Statement B1.4f, how temperature, light intensity and carbon dioxide interact in limiting the rate, is printed in bold in the J247 specification and tested only in the Higher Tier papers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR (Oxford Cambridge and RSA Examinations). Topic B1.4 Photosynthesis, statements B1.4a to B1.4f.

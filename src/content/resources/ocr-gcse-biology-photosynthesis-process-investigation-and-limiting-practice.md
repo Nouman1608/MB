@@ -167,6 +167,20 @@ These questions cover OCR GCSE (9-1) Biology A, Gateway Science (J247), Topic B1
 - Take one of the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you identify the limiting factor from a photosynthesis graph?**
+Quote the data as evidence: where increasing a factor raised the rate, that factor was limiting, and where the curve has flattened, the factor on the x axis is no longer limiting. Name a different factor that was held constant or changed between curves.
+
+**How do you balance the photosynthesis equation correctly?**
+Change only the numbers in front of the formulae, never the subscripts. Changing a subscript alters the substance, so the formula would no longer be glucose or carbon dioxide.
+
+**How should you name control variables in a pondweed experiment?**
+Name each controlled variable and say how it is kept constant, for example a water bath to keep the temperature steady or the same concentration of sodium hydrogencarbonate. "Keep it fair" does not earn credit.
+
+**What should you include when describing a graph of photosynthesis rate?**
+Describe the trend and quote values with units from the graph. "It goes up then down" is too vague for a two-mark description.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR (Oxford Cambridge and RSA Examinations). Topic B1.4 Photosynthesis, statements B1.4a to B1.4f.

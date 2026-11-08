@@ -266,6 +266,23 @@ Impact on modern biology:
 
 Condense this with the [revision notes](/resources/ocr-gcse-biology-variation-natural-selection-evolution-and-revision-notes/), then test yourself on the [practice questions](/resources/ocr-gcse-biology-variation-natural-selection-evolution-and-practice/). Use the [checklist](/checklists/ocr/gcse/biology/) to tick off B5.2a to B5.2f.
 
+## Frequently asked questions
+
+**How does natural selection lead to evolution?**
+Individuals vary because they carry different alleles, and more offspring are born than can survive. Those whose phenotype suits the environment are more likely to survive, reproduce and pass on their alleles, so over many generations the useful allele becomes more common in the population.
+
+**What is the difference between natural and artificial classification?**
+Artificial classification uses a few convenient features, such as whether an animal can fly. Natural classification uses many shared features and shared ancestry, so the groups show how organisms are related.
+
+**How does DNA sequencing help classify organisms?**
+Molecular phylogenetics compares the base sequences of the same gene in different species. Species with fewer differences share a more recent common ancestor, and the results are drawn as a phylogenetic tree.
+
+**Why is the fossil record incomplete?**
+Many organisms had soft bodies that decayed, most did not die where fossils form, early fossils may have been destroyed by rock movement, and many fossils remain undiscovered.
+
+**Is evolution Higher Tier only in OCR GCSE Biology A (J247)?**
+No. Topic B5.2, outcomes B5.2a to B5.2f on variation, classification, natural selection, evolution and the work of Darwin and Wallace, is not in bold type, so it is assessed in both tiers.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)* specification, Version 4.0 (August 2026), first assessment 2018, topic B5.2.

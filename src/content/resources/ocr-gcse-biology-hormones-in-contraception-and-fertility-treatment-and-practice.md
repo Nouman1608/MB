@@ -152,6 +152,20 @@ These questions cover statements B3.2e to B3.2i of module B3.2 in OCR GCSE (9-1)
 - Try the [free 10-minute diagnostics](/diagnostics/) to find your weakest topics.
 - [Book a free trial class](/trial/) for help with any question here.
 
+## Frequently asked questions
+
+**How do you write a good evaluate answer on contraception in OCR GCSE Biology?**
+Weigh advantages and disadvantages of each method, such as effectiveness, side effects, infection protection and convenience, then finish with a reasoned judgement that refers back to the person's situation. Listing points for only one method, with no judgement, does not give a balanced evaluation.
+
+**How do you compare pregnancy rates for two contraceptive methods?**
+Convert both methods to the same base, pregnancies per 100 users, before comparing, because raw counts mislead when the numbers of users differ. Expected pregnancies are users multiplied by the rate per 100, divided by 100.
+
+**Should the difference between two percentages be given in percent or percentage points?**
+A difference between two percentages, such as two IVF success rates, is given in percentage points. "Percent" is used for a relative change, so writing "15%" for a difference invites confusion.
+
+**What steps are needed to explain phototropism for full marks?**
+Give the full chain: the shoot tip makes auxin, auxin moves to the shaded side, cells on the shaded side elongate more, and the uneven growth bends the shoot towards the light. Saying only that "auxin makes it grow towards the light" skips the middle steps.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)*, specification Version 4.0 (August 2026), for first assessment in 2018. Published by OCR.

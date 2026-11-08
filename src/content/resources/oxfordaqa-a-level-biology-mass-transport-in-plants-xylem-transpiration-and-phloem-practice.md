@@ -154,6 +154,20 @@ These questions follow the *OxfordAQA International AS and A-level Biology (9610
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate the volume of water taken up from a potometer?**
+Multiply the distance the bubble moves by the cross-sectional area of the capillary bore, πr², using the radius rather than the diameter. Using the diameter gives a volume four times too large.
+
+**Does a potometer measure transpiration?**
+A potometer measures the rate of water uptake by a shoot, which is a close but not identical measure of water loss, because some water is used in photosynthesis and some stays in the cells. Calling it a measure of transpiration without saying this loses marks.
+
+**How do you explain the effect of temperature on transpiration?**
+Give a reason: water evaporates faster and vapour molecules have more kinetic energy, so diffusion out of the leaf is faster. "Temperature speeds it up" without evaporation or diffusion is not enough.
+
+**How do you interpret ringing experiment data?**
+Compare figures from the ringed stem and the control, such as sucrose concentration above and below the ring. Then say what the data show and what they leave open, for example that ringing does not prove the phloem alone carries sugar.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.8 and Required practical 6.
