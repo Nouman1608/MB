@@ -376,6 +376,23 @@ angle with base = tan⁻¹(12 / 7.07) = 59.5° (1 d.p.)
 - Measuring a bearing anticlockwise or from east.
 - Using the slanting edge instead of the perpendicular height in a 3D right-angled triangle.
 
+## Frequently asked questions
+
+**What does trigonometry cover in Cambridge O Level Mathematics 4024?**
+Topic 6 covers Pythagoras' theorem, right-angled triangles including elevation, depression and bearings, non-right-angled triangles with the sine and cosine rules, and Pythagoras and trigonometry in 3D.
+
+**How do you find an angle in a right-angled triangle?**
+Choose the ratio that links the two known sides, then apply sin⁻¹, cos⁻¹ or tan⁻¹. Quote the angle in degrees to 1 decimal place.
+
+**How do you find the area of a triangle without a right angle?**
+Use area = ½ab sin C, where C is the angle between sides a and b. The angle must be the one included between the two sides used.
+
+**How do you find the shortest distance from a point to a line?**
+The shortest distance is the perpendicular distance, so draw the perpendicular from the point to the line and use right-angled trigonometry.
+
+**Is radian mode used in Cambridge O Level Mathematics trigonometry?**
+No. Work in degrees; using radians instead of degrees on Paper 2 is a common error.
+
 ## Next steps
 
 Work through the [revision notes](/resources/o-level-mathematics-trigonometry-revision-notes/), try the [practice questions](/resources/o-level-mathematics-trigonometry-practice/), and take a [free diagnostic](/diagnostics/) to find any gaps.

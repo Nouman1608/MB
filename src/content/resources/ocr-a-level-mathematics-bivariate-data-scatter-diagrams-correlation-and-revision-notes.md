@@ -213,6 +213,23 @@ Good wording: "This shows an association, not that one causes the other. A possi
 - Using one line for two groups and not noticing the separate sections.
 - Leaving out the scale or units when adding points to a diagram.
 
+## Frequently asked questions
+
+**What is the difference between the explanatory and response variable?**
+The explanatory variable is plotted on the x-axis and is thought to influence the other. The response variable is plotted on the y-axis and is the one you predict.
+
+**What is a confounding variable?**
+A confounding variable is a third variable that influences both of the variables being studied, which can create a correlation without one causing the other.
+
+**Does strong correlation mean a straight line is a good model?**
+No. Points can follow a curve closely, so strong correlation does not make a straight line suitable. Check the shape of the pattern as well as its strength.
+
+**Do you need to calculate regression lines in OCR A Level Mathematics A (H240)?**
+Under specification reference 2.02c you read and interpret scatter diagrams and regression lines, and you may be asked to add to a diagram, but not draw a whole one; these notes treat calculating regression coefficients as outside this content.
+
+**Can you use a y-on-x regression line to estimate x?**
+No. A y-on-x line is for predicting y from x, so do not rearrange it to estimate x from a given y.
+
 ## Official syllabus
 
 OCR, *Advanced GCE in Mathematics A (H240)*, specification Version 3.1 (August 2026), for first assessment in 2018, references 2.02c to 2.02e and the large data set section.

@@ -201,6 +201,20 @@ The specification excludes tests for the mean of a non-normal distribution, the 
 - Treating a test that does not reject H₀ as proof that H₀ is true.
 - Giving P(Type II) without using the true parameter value stated in the question.
 
+## Frequently asked questions
+
+**What is a p-value in hypothesis testing?**
+A p-value is the probability, if H₀ is true, of getting a sample result as extreme as the one observed, or more extreme. Reject H₀ when the p-value is less than or equal to the significance level.
+
+**What is the actual significance level of a binomial test?**
+Because the binomial distribution is discrete, the probability of the critical region is usually below the stated level. That probability is the actual significance level.
+
+**How do you choose between a one-tail and two-tail test?**
+The direction of H₁ comes from the wording of the question, not from the data. A claim that a value has increased or decreased gives a one-tail test; a claim that it has changed gives a two-tail test.
+
+**Does failing to reject H₀ prove H₀ is true?**
+No. It means the data do not give enough evidence to reject H₀ at that level, so write the conclusion tentatively and in context.
+
 ## Official syllabus
 
 OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR. This page covers section 2.05, parts a to e.

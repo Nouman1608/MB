@@ -164,6 +164,20 @@ By parts with U = 2u and dV/du = e^u: [2u e^u]₀² − ∫₀² 2e^u du [1]
 - Stating "overestimate" for the trapezium rule without linking it to the shape of the curve.
 - Writing 2 ln|2x + 1| for ∫ 2/(2x + 1) dx, or forgetting to divide by the coefficient of x.
 
+## Frequently asked questions
+
+**What should you do with the limits after a substitution?**
+Change the limits to u-values and evaluate in u, or substitute back to x and keep the original limits. Doing neither, or both, is a common error.
+
+**How do you choose u in integration by parts?**
+When one factor is a power of x, take u as the power of x, not eˣ or sin x, so the integral gets simpler. When ln x appears, take u = ln x.
+
+**How do you integrate 2/(2x + 1)?**
+Divide by the coefficient of x: ∫ 2/(2x + 1) dx = ln|2x + 1| + c. Writing 2 ln|2x + 1| forgets that division.
+
+**How do you show every step in a "show that" integration question?**
+Write the antiderivative, substitute both limits and simplify line by line until you reach the given value. Stopping at the final result without the intermediate lines loses marks.
+
 ## Next steps
 
 - Memorise the methods in the [revision notes](/resources/ocr-a-level-mathematics-techniques-of-integration-reverse-chain-rule-parts-revision-notes/) and reread the [study guide](/resources/ocr-a-level-mathematics-techniques-of-integration-reverse-chain-rule-parts/).

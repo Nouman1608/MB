@@ -288,6 +288,20 @@ At **t = 2** the particle is at **(4, 2)** with speed **1 m s⁻¹**.
 </figure>
 
 
+## Frequently asked questions
+
+**How do you convert km h⁻¹ to m s⁻¹?**
+Divide by 3.6, because 1 km h⁻¹ is 1000 m every 3600 s. To convert m s⁻¹ to km h⁻¹, multiply by 3.6.
+
+**What is the difference between average speed and average velocity?**
+Average speed is distance travelled divided by time. Average velocity is displacement divided by time, so it has a direction and can be zero or negative.
+
+**How do you choose a suvat formula?**
+Identify the variable you do not know and do not need, and pick the formula that leaves it out. For example, v² = u² + 2as has no t.
+
+**Is the vector form of constant acceleration A Level only in OCR H240?**
+Yes. Reference 3.02e, constant acceleration in two dimensions using vectors, is A Level only. The dot-product form v · v = u · u + 2a · s is excluded from the specification.
+
 ## Official syllabus
 
 These notes follow the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR.

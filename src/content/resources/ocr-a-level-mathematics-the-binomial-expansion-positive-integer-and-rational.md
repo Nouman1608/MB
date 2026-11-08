@@ -260,6 +260,20 @@ Both parts hold when |x| < 1/2, so the expansion is valid for |x| < 1/2.
 - Expanding a rational power and then saying "valid for all x".
 - In an approximation, choosing x outside the validity range.
 
+## Frequently asked questions
+
+**Which parts of the binomial expansion are A Level only in OCR A Level Mathematics A (H240)?**
+Expanding (a + bx)ⁿ for positive integer n and the link to binomial probabilities, 1.04a and 1.04b, are Stage 1. Rational powers and their validity, 1.04c and 1.04d, are A Level only.
+
+**What is wrong with writing (2 + 3x)ⁿ = 2ⁿ(1 + 3x)ⁿ?**
+When you take out 2ⁿ, the 3x must also be divided by 2, so the bracket is (1 + 3x/2). The correct form is 2ⁿ(1 + 3x/2)ⁿ.
+
+**How do you find one coefficient in a product such as (2 + x)(1 − 3x)⁵?**
+Expand the second bracket only as far as you need, then add the products of pairs of terms whose powers of x give the power you want.
+
+**Is the binomial expansion valid for |x| < 1 in every question?**
+No. For (a + bx)ⁿ with a rational power, divide by the coefficient of x: the expansion is valid for |x| < |a/b|.
+
 ## Next steps
 
 Condense with the [revision notes](/resources/ocr-a-level-mathematics-the-binomial-expansion-positive-integer-and-rational-revision-notes/), then try the [practice set](/resources/ocr-a-level-mathematics-the-binomial-expansion-positive-integer-and-rational-practice/). Tick off 1.04a to 1.04d on the [checklist](/checklists/ocr/a-level/mathematics/).

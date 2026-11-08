@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "statistics-ocr-alevel-maths"
-description: "Statistical sampling, data presentation and interpretation (including bivariate data and correlation), probability, statistical distributions, and statistical hypothesis testing (binomial, normal mean and correlation tests) -- the full content of the Statistics strand for OCR A Level Mathematics A (H240)."
+description: "Guide to the statistics strand of OCR A Level Mathematics A (H240): sampling, data and correlation, probability, distributions and hypothesis testing."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Statistics**, one of three subject-content strands
@@ -196,6 +198,20 @@ paper, practise questions that require using a pure-maths skill (for
 example, algebraic manipulation to find an unknown probability) inside
 a statistics context, since OCR's papers are not written to keep the
 two strands in fully separate questions.
+
+## Frequently asked questions
+
+**Which paper is statistics on in OCR A Level Mathematics A (H240)?**
+Statistics is examined with pure mathematics in Component 02, Pure Mathematics and Statistics, which carries 33⅓% of the full A Level.
+
+**Which hypothesis tests are in OCR A Level Mathematics A?**
+There are three: a test for the proportion in a binomial distribution, a test for the mean of a normal distribution with known, given or assumed variance, and a test using Pearson's product-moment correlation coefficient.
+
+**Is the normal approximation used in the OCR H240 binomial hypothesis test?**
+No. For the binomial test of a proportion, references 2.05b and 2.05c, use of the normal approximation is excluded.
+
+**Do you need to calculate a regression line in OCR A Level Mathematics?**
+No. You interpret scatter diagrams and regression lines and may add to a diagram, but drawing a complete diagram and calculating the equation of a regression line are excluded.
 
 ## Related resources
 

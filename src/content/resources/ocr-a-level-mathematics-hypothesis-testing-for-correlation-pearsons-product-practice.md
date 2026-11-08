@@ -149,6 +149,20 @@ These questions cover references 2.05f and 2.05g of the OCR A Level Mathematics 
 - Mixing up one-tail and two-tail p-values.
 - Reading r as a gradient or saying r = 0 means no relationship.
 
+## Frequently asked questions
+
+**Should correlation hypotheses be written in terms of r or ρ?**
+Write them in terms of ρ, the population product-moment correlation coefficient, and define it in context. The sample value r is the test statistic, not the subject of the hypotheses.
+
+**How do you decide between a one-tail and a two-tail correlation test?**
+Use the wording of the question, not the sign of the sample r. "Positive" or "negative" correlation gives a one-tail test; "correlation" or "a relationship" gives a two-tail test.
+
+**What value of n do you use in the table of critical values?**
+n is the number of pairs of data, not the total number of values. Nine pairs means n = 9.
+
+**How should you word the conclusion of a correlation test in OCR A Level Mathematics?**
+Give the decision and a sentence in context, using cautious wording such as "there is evidence of positive correlation between x and y". Avoid "proves" and "accept H₀".
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ocr-a-level-mathematics-hypothesis-testing-for-correlation-pearsons-product-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-mathematics-hypothesis-testing-for-correlation-pearsons-product/).

@@ -127,6 +127,20 @@ Every square leaves remainder 0, 1 or 4. **So no square leaves remainder 2 or 3*
 - Assuming the wrong opposite at the start of a contradiction proof.
 - Asserting a fact such as "p² multiple of 3 means p multiple of 3" without a reason.
 
+## Frequently asked questions
+
+**Does checking a few numbers prove a statement?**
+No. Examples only support a statement; a proof needs an argument that covers every case. Writing "hence proved" after substituting a few numbers loses marks.
+
+**How should you end a proof in OCR A Level Mathematics?**
+Finish with a sentence that states exactly what has been proved, in terms of the question. Leaving out this conclusion is a common way to lose the final mark.
+
+**What makes a valid counter-example?**
+It must satisfy the starting condition of the statement and make the conclusion false, and you must show both. A value that does not satisfy the condition does not count.
+
+**How do you set up a proof by exhaustion?**
+Split the possibilities into a finite list of cases, often by remainder on division by a small number, and show that the cases cover every integer before proving each one.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/ocr-a-level-mathematics-proof-deduction-exhaustion-counter-example-logical-revision-notes/).

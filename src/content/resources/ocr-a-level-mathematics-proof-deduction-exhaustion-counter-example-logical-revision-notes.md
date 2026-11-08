@@ -228,6 +228,20 @@ Write ∴ for "therefore" only if you also state the reason in words. Use ℤ fo
 - In a contradiction proof, starting from the wrong opposite, or not saying where the contradiction is.
 - Leaving a fraction a/b unreduced when the proof relies on lowest terms.
 
+## Frequently asked questions
+
+**What are the four methods of proof in OCR A Level Mathematics A (H240)?**
+Section 1.01 covers proof by deduction, proof by exhaustion, disproof by counter-example and proof by contradiction. Proof by contradiction, 1.01d, is A Level only.
+
+**What is the difference between the converse and the contrapositive?**
+The converse of P ⇒ Q is Q ⇒ P, which may be false. The contrapositive is "not Q ⇒ not P", which is equivalent to the original statement.
+
+**Why does squaring both sides only give ⇒?**
+Squaring can introduce values that make the original equation false, so the step is an implication, not an equivalence. Check every answer in the original equation.
+
+**How do you write even, odd and consecutive integers in a proof?**
+Write an even integer as 2n, an odd integer as 2n + 1 and three integers in a row as n, n + 1, n + 2. Use separate letters, such as m and n, for integers that may differ.
+
 ## Official syllabus
 
 OCR, *A Level in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, section 1.01 Proof (references 1.01a to 1.01d), published by OCR.

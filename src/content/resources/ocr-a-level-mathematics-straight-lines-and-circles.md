@@ -290,6 +290,20 @@ Example: x² + y² = 16 and (x - 6)² + (y - 2)² = 9 have d = √40 ≈ 6.32, r
 - Finding the tangent gradient from the radius but using the centre as the point, rather than the point of contact.
 - Leaving a gradient model without units, or applying it far outside the data.
 
+## Frequently asked questions
+
+**Which form of a straight-line equation should you use?**
+Use y = mx + c when you know the gradient and y-intercept, y − y₁ = m(x − x₁) when you know the gradient and one point, and ax + by + c = 0 when the answer is wanted with integer coefficients.
+
+**How do you find the equation of a circle from the ends of a diameter?**
+The centre is the midpoint of the two ends, and the radius is the distance from the centre to either end. Substitute both into (x − a)² + (y − b)² = r².
+
+**When does x² + y² − 4x + 6y + k = 0 represent a circle?**
+Completing the square gives (x − 2)² + (y + 3)² = 13 − k. The right-hand side is r², so it must be positive, giving k < 13.
+
+**How do you tell whether two circles intersect?**
+Compare the distance d between the centres with the radii. They meet at two points if |r₁ − r₂| < d < r₁ + r₂, and touch if d equals r₁ + r₂ or |r₁ − r₂|.
+
 ## Where next
 
 Try the [practice questions](/resources/ocr-a-level-mathematics-straight-lines-and-circles-practice/) and keep the [revision notes](/resources/ocr-a-level-mathematics-straight-lines-and-circles-revision-notes/) for the final weeks.

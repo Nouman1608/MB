@@ -182,6 +182,20 @@ Positive root: **t = 8.39 weeks** [1]
 - Giving a root of a model's equation that lies outside the sensible domain.
 - Saying a model is "better" with no criterion or figures.
 
+## Frequently asked questions
+
+**What value do you substitute to test a factor like (2x − 1)?**
+Substitute the root of the bracket, x = 1/2, not the number inside it. In general, (ax − b) is a factor if f(b/a) = 0.
+
+**When must you divide before using partial fractions?**
+If the numerator's degree is equal to or higher than the denominator's, the fraction is improper, so divide first to get a polynomial plus a proper fraction.
+
+**What partial fractions do you need for a squared factor?**
+A squared factor such as (x − 1)² needs two terms, B/(x − 1) and C/(x − 1)². Missing the B/(x − 1) term is a common error.
+
+**How do you compare two models in OCR A Level Mathematics?**
+Use a stated criterion with figures, such as the total difference between each model's predictions and the data, then say which model fits better and why.
+
 ## Next steps
 
 - Recall the key results in the [revision notes](/resources/ocr-a-level-mathematics-polynomials-factor-theorem-rational-expressions-revision-notes/).

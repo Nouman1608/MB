@@ -252,6 +252,20 @@ To verify a given solution, differentiate it and substitute into both sides. The
 </figure>
 
 
+## Frequently asked questions
+
+**How do you differentiate sin³ 4x?**
+sin³ 4x means (sin 4x)³, so use the chain rule twice: d/dx(sin³ 4x) = 3(sin 4x)² × 4 cos 4x = 12 sin² 4x cos 4x.
+
+**What is the difference between the product rule and the chain rule?**
+Use the product rule when two functions of x are multiplied, and the chain rule for a function inside another function. Many questions need both.
+
+**How are dy/dx and dx/dy related?**
+They are reciprocals, not negatives: dy/dx = 1 ÷ (dx/dy).
+
+**How do you write a differential equation from "proportional to"?**
+Replace "proportional to" with a constant k. For example, "m decays at a rate proportional to m" becomes dm/dt = −km with k > 0, where the minus sign shows a decrease.
+
 ## Official syllabus
 
 Source: OCR, A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. Statements covered: 1.07q to 1.07t, linked to 1.08k.

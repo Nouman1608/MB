@@ -219,6 +219,20 @@ The second derivative is zero at x = 0 and x = 10/3 and flips sign at each, whic
 - Keeping a root that lies outside the domain of the problem, or giving a stationary value without checking it is sensible in context.
 - Algebraic slips when eliminating the second variable in optimisation: re-expand the constraint once more before differentiating.
 
+## Frequently asked questions
+
+**What is the difference between a stationary point and a turning point?**
+Every maximum or minimum is a stationary point, but a stationary point of inflection is not a turning point, because the gradient does not change sign there.
+
+**What is a non-stationary point of inflection?**
+It is a point where d²y/dx² = 0 and changes sign, but dy/dx is not zero. Points of inflection are A Level only content in OCR H240, under reference 1.07p.
+
+**What should you do if the second derivative is zero at a stationary point?**
+d²y/dx² = 0 gives no conclusion, so use another method, such as checking the sign of dy/dx on either side of the point.
+
+**How do you set up an optimisation problem?**
+Write the quantity to be maximised or minimised in terms of one variable, using any constraint to eliminate the second variable. Then differentiate, set the derivative to zero, solve, and justify the nature of the point.
+
 ## Official syllabus
 
 *Cambridge OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by Cambridge OCR: section 1.07, Differentiation, references 1.07m to 1.07p.

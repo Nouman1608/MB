@@ -245,6 +245,20 @@ The specification allows you to assume the data come from a bivariate normal dis
 - Saying "r = 0 means no relationship" or "high r proves one variable causes the other".
 - Concluding without context, or stating certainty.
 
+## Frequently asked questions
+
+**What are the hypotheses for a test of correlation?**
+The null hypothesis is H₀: ρ = 0. The alternative is H₁: ρ > 0 for positive correlation, ρ < 0 for negative correlation, or ρ ≠ 0 for some correlation, where ρ is the population coefficient.
+
+**Which column of the table do you use for a two-tail test at 5%?**
+Use the 2.5% one-tail column, because the 5% is split between the two tails. Reading the 5% column for a two-tail 5% test is a common error.
+
+**How do you use a p-value in a correlation test?**
+Reject H₀ when the p-value is smaller than the significance level. Check whether the p-value is for a one-tail or two-tail test before comparing.
+
+**Does r = 0 mean there is no relationship between the variables?**
+No. r measures only linear association, so a strong curved pattern can give r near 0. A significant r also does not show that one variable causes the other.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, section 2.05 Statistical Hypothesis Testing, references 2.05f and 2.05g.

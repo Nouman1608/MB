@@ -257,6 +257,23 @@ With three sets, fill the region where all three overlap first, then the regions
 - Stating that a die is biased from a few throws, without quoting numbers.
 - Writing an answer such as 5:2 instead of a fraction, decimal or percentage.
 
+## Frequently asked questions
+
+**What is relative frequency in O Level Mathematics?**
+Relative frequency is the number of times an outcome happens divided by the number of trials. It is an estimate of probability that improves as the number of trials grows.
+
+**How do you calculate expected frequency?**
+Multiply the probability by the number of trials. If a pin lands point up with relative frequency 0.3, you would expect 0.3 × 1500 = 450 point-up landings in 1500 trials.
+
+**When should you use a sample space diagram?**
+Use one for two events with a small number of equally likely outcomes, such as two dice or two spinners. List the outcomes of each event along the sides, fill the table and count the cells that fit.
+
+**How do you find P(A ∪ B) from a Venn diagram?**
+Add n(A) and n(B), then subtract the overlap n(A ∩ B) so it is not counted twice, and divide by the total. The total must include the region outside the circles.
+
+**What is the difference between with and without replacement?**
+With replacement the second pick is unaffected by the first, so the probabilities stay the same. Without replacement the second pick depends on the first, so the totals change.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment.

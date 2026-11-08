@@ -210,6 +210,20 @@ Take a [free 10-minute diagnostic](/diagnostics/) to see which method needs more
 </figure>
 
 
+## Frequently asked questions
+
+**What is integration as the limit of a sum?**
+Each thin strip under the curve has area f(x)δx. Adding the strips and letting δx → 0 gives the definite integral, so lim Σ x² δx from x = 1 to 4 means ∫₁⁴ x² dx.
+
+**How do you integrate ln x?**
+Write it as 1 × ln x and integrate by parts with u = ln x and dv/dx = 1. The result is x ln x − x + c.
+
+**What partial fraction denominators are in OCR A Level Mathematics A (H240)?**
+Denominators are no more complicated than (ax + b)(cx + d)² or (ax + b)(cx + d)(ex + f), with a constant or linear numerator. Reduction formulae for parts are not required.
+
+**What is the difference between recognition and substitution?**
+Recognition is substitution done in your head: you spot that the numerator is a multiple of the derivative of an inner function. Both methods come from reversing the chain rule.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240) specification*, Version 3.1 (August 2026), for first assessment in 2018. Content statements 1.08g, 1.08h, 1.08i, 1.08j and 1.09f.

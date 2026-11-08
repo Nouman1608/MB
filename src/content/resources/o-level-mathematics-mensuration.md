@@ -335,6 +335,23 @@ Give non-exact answers to 3 significant figures unless told otherwise, avoid rou
 - Counting a join between two parts of a compound shape in the perimeter or surface area.
 - Including a lid on an open container, or leaving out the base of a pyramid.
 
+## Frequently asked questions
+
+**What does mensuration cover in Cambridge O Level Mathematics 4024?**
+Sections 5.1 to 5.5 cover metric units and conversions, perimeter and area of 2D shapes, circles, arcs and sectors, surface area and volume of solids, and compound shapes and parts of shapes.
+
+**How do you find the area of a trapezium?**
+Use area = ½(a + b)h, where a and b are the parallel sides and h is the perpendicular distance between them. Do not use the sloping side as the height.
+
+**How do you find the surface area of an open container?**
+Leave out the lid. For an open cylindrical cup, the area is the base plus the curved surface, πr² + 2πrh.
+
+**How do you find the perimeter of a compound shape?**
+Add only the outside edges. A join between two parts of the shape, such as the side where a semicircle meets a rectangle, is not part of the perimeter.
+
+**How do you convert cm³ to litres?**
+Divide by 1000, because 1 litre = 1000 cm³. A tank of 720 000 cm³ holds 720 litres.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027, Cambridge International Education, topic 5 Mensuration.

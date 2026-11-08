@@ -210,6 +210,20 @@ The exact value is 8/3 = 2.667. The curve is convex (f″ = 2 > 0), so 2.75 is a
 
 Return to the [study guide](/resources/ocr-a-level-mathematics-numerical-methods-locating-roots-iteration-newton/) for any section that felt shaky.
 
+## Frequently asked questions
+
+**Does no sign change mean there is no root?**
+No. A curve can touch the x-axis, or the interval can contain an even number of roots, so equal signs at the ends prove nothing.
+
+**What is the difference between a staircase and a cobweb diagram?**
+A staircase diagram shows g′ is positive at the root, and a cobweb diagram shows g′ is negative at the root. Both converge when |g′(α)| < 1.
+
+**How many ordinates does the trapezium rule use?**
+n strips use n + 1 ordinates. The first and last ordinates are used once, and all the others are doubled.
+
+**When does the Newton-Raphson method fail?**
+It fails if f′(xₙ) = 0 at any step, because the formula divides by f′, and it can also wander away from the root you want if the starting value is poor.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018. Section 1.09 Numerical Methods, 1.09a to 1.09g.

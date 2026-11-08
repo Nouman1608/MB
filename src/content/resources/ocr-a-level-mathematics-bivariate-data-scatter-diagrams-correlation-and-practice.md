@@ -169,6 +169,20 @@ All ten points are plotted on one scatter diagram.
 - Missing separate groups on a scatter diagram.
 - Forgetting to convert units, for example sales in £100s.
 
+## Frequently asked questions
+
+**How do you interpret the gradient of a regression line in an exam answer?**
+Give the number with its units and phrase it as an association, for example "each extra day is associated with about 1.8 cm more height, on average". Leaving out units or "on average" can cost the mark.
+
+**How do you judge whether a prediction from a regression line is reliable?**
+Compare the x-value with the range of the data. A prediction inside the range (interpolation) is reasonably reliable if the correlation is strong; one outside it (extrapolation) may be unreliable.
+
+**How should you answer a correlation and causation question in OCR A Level Mathematics?**
+Say that the data show an association, not that one variable causes the other, and name a specific third variable that could affect both. A causation comment with no alternative explanation is a common way to lose marks.
+
+**What should you do if a scatter diagram shows two separate groups?**
+State that the data appear to come from distinct sections of the population, so a single line is not appropriate. Missing separate groups is a frequent error.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-mathematics-bivariate-data-scatter-diagrams-correlation-and-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-mathematics-bivariate-data-scatter-diagrams-correlation-and/).

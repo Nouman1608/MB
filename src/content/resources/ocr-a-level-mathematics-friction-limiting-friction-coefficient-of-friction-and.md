@@ -223,6 +223,20 @@ The body decelerates and stops after 5.68 m. Since tan 20° = 0.364 is less than
 - Adding R and F to get the contact force instead of using Pythagoras.
 - Forgetting that after the driving force is removed, the deceleration is found with friction alone.
 
+## Frequently asked questions
+
+**What is the coefficient of friction?**
+The coefficient of friction μ is a number with no units that depends on the two surfaces in contact. A larger μ means a rougher contact, and friction satisfies F ≤ μR.
+
+**What is limiting friction?**
+Limiting friction is the maximum value of friction, F = μR, reached when a body at rest is on the point of moving. This situation is called limiting equilibrium.
+
+**How do you find the magnitude of the contact force?**
+The contact force is the resultant of the normal force R and the frictional force F, so its magnitude is √(R² + F²). Adding R and F is a common error.
+
+**Which way does friction act on a slope?**
+Friction opposes the motion or the tendency to move. Going down the slope it acts up the slope, and going up the slope it acts down it.
+
 ## Next steps
 
 Practise these skills with the [practice questions](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and-practice/), then condense them with the [revision notes](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and-revision-notes/). Tick off each reference on the [checklist](/checklists/ocr/a-level/mathematics/) when you can do it without notes.

@@ -147,6 +147,20 @@ These questions cover differentiation fundamentals in OCR A Level Mathematics A 
 - Giving a rate of change with no units, or an interpretation with no context.
 - Using degrees when the standard results need radians.
 
+## Frequently asked questions
+
+**How do you write a first-principles answer that earns full marks?**
+Expand f(x + h) fully, simplify the chord gradient, cancel the h, and keep the limit notation on every line until you let h → 0. Putting h = 0 before cancelling, or dropping "lim", loses marks.
+
+**What should you do before differentiating a fraction or a root?**
+Rewrite each term as a power of x, such as √x = x^(1/2) and 1/x² = x⁻², then apply the power rule term by term.
+
+**Why must you use radians when differentiating trigonometric functions?**
+The standard results, such as d/dx(sin kx) = k cos kx, only hold when x is in radians. Using degrees is a common error.
+
+**How do you interpret a rate of change in OCR A Level Mathematics?**
+Give the value with its units and describe what it means in the context of the question; a rate of change with no units or no context can lose the mark.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-differentiation-fundamentals-gradients-second-revision-notes/).

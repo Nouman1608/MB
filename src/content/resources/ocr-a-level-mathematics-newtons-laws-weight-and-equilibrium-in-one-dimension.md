@@ -266,6 +266,20 @@ If the cable is cut, only weight remains, so the acceleration is 9.8 m s⁻² do
 - Giving a negative tension or normal reaction without comment: it means the model has failed, not that the string pushes.
 - Resolving a force with cos where sin is needed: check which angle is measured from the direction of motion.
 
+## Frequently asked questions
+
+**What do Newton's three laws say?**
+The first law says a body stays at rest or at constant velocity unless a resultant force acts. The second says the resultant force equals mass times acceleration, F = ma. The third says that if A pushes B, B pushes A with an equal and opposite force.
+
+**Which parts of Newton's laws are A Level only in OCR A Level Mathematics A (H240)?**
+Section 3.03 covers forces and Newton's laws; reference 3.03e, resolving forces in one direction including on a slope, is marked A Level only.
+
+**How do you use F = ma with vectors?**
+Apply F = ma to each component separately. For example, a 3 kg body with acceleration (2i − 5j) m s⁻² needs a resultant force of (6i − 15j) N.
+
+**When can you model several bodies as a single particle?**
+If the parts of a system have no relative motion, such as a passenger standing in a lift, you may model them as one particle with their combined mass.
+
 ## Official syllabus
 
 OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), first assessment 2018, published by OCR: section 3.03, Forces and Newton's Laws.

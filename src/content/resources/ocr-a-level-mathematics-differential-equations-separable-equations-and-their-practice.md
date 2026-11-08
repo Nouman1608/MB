@@ -135,6 +135,20 @@ These questions follow the OCR A Level Mathematics A specification (Version 3.1,
 - Vague limitations with no link to the context.
 - Stopping at the solution when the question asks for a time, a limit or a distance.
 
+## Frequently asked questions
+
+**How many constants of integration do you need when separating variables?**
+One. Put a single constant on one side of the integrated equation; writing + c on both sides is a common error.
+
+**When should you substitute the initial condition?**
+Substitute it into the integrated result, after integrating, not into the differential equation itself.
+
+**How do you get the sign right in a decay question?**
+Read the words: "rate of decrease proportional to" needs a minus sign on the right-hand side, such as dN/dt = −kN with k > 0.
+
+**What makes a good limitation of a differential equation model in OCR A Level Mathematics?**
+Link it to the context with a reason, such as a real population being limited by space or food. A vague comment such as "not realistic" does not earn credit.
+
 ## Next steps
 
 - Revise from the [revision notes](/resources/ocr-a-level-mathematics-differential-equations-separable-equations-and-their-revision-notes/).

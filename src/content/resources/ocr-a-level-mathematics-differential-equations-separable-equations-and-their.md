@@ -253,6 +253,20 @@ Be specific. "The model is not realistic" earns nothing; "the model gives the po
 
 Practise on the [practice questions](/resources/ocr-a-level-mathematics-differential-equations-separable-equations-and-their-practice/) once you can reproduce examples 2, 3, 7 and 8 without looking.
 
+## Frequently asked questions
+
+**Are differential equations in OCR A Level Mathematics A (H240) AS or A Level content?**
+Specification references 1.08k and 1.08l cover solving separable first order differential equations, finding particular solutions and interpreting them in context; this guide marks these outcomes as A Level only.
+
+**When is a differential equation separable?**
+It is separable when it can be written as dy/dx = f(x)g(y), a function of x multiplied by a function of y. Sometimes you must factorise first, as in dy/dx = 3xy − 12x = 3x(y − 4).
+
+**Why can dividing by g(y) lose a solution?**
+Dividing by g(y) assumes it is not zero, so a constant solution such as y = 4 can be lost. It is usually recovered by allowing the constant A to be zero.
+
+**How do you interpret the solution of a differential equation in context?**
+Say what the initial value means, describe the long-term behaviour as t → ∞, check the solution is sensible over the domain, and state what the model ignores, such as limited resources or air resistance.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018. Sections 1.08k and 1.08l.

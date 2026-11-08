@@ -264,6 +264,20 @@ The function f may be any function from Stage 1 or Stage 2 content. For y = 1/(x
 - Finding f⁻¹ for a many-one function without restricting the domain.
 - Giving the domain of f⁻¹ from the algebra of the formula instead of from the range of f.
 
+## Frequently asked questions
+
+**Which parts of this topic are A Level only in OCR A Level Mathematics A (H240)?**
+The modulus function, functions and their domain and range, composites, inverses and combinations of transformations are Stage 2, A Level only content. Single transformations, under 1.02w, are Stage 1.
+
+**How do you solve an equation with a modulus on both sides?**
+Square both sides, so |p| = |q| becomes p² = q², and solve. No check is needed afterwards, because squaring is reversible when both sides are moduli.
+
+**How do you find an inverse function?**
+Write y = f(x), make x the subject, then replace y with x. State the domain of f⁻¹, which is the range of f.
+
+**How do you track a point through a combination of transformations?**
+For y = p·f(qx + r) + s, a point (u, v) on y = f(x) moves to the point (X, Y) with qX + r = u and Y = pv + s. Solve for X and Y.
+
 ## Next steps
 
 Once the methods feel familiar, use the revision notes for recall and the practice set for timed work.

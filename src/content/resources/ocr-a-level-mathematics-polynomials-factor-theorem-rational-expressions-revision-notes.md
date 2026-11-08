@@ -221,6 +221,20 @@ Always give the domain, interpret a root in context, and reject values that make
 - Giving a root of a model's equation that lies outside the domain.
 - Writing a final answer with no reference to the context.
 
+## Frequently asked questions
+
+**What is the difference between the factor theorem and the remainder theorem?**
+The factor theorem says (x − a) is a factor if and only if f(a) = 0. The remainder theorem gives the remainder when it is not zero: dividing by (ax − b) leaves remainder f(b/a).
+
+**What is an improper algebraic fraction?**
+An algebraic fraction is improper when the degree of the numerator is not less than the degree of the denominator. Divide first to write it as a quotient plus a remainder over the divisor.
+
+**Why can you cancel factors but not terms in a rational expression?**
+Cancelling works only for a factor that multiplies the whole numerator and the whole denominator. A term such as the 3 in (x + 3)/(x + 5) is added, not multiplied, so it cannot be cancelled.
+
+**How do you find the range of validity of a series from partial fractions?**
+Expand each partial fraction separately and add. The result is valid only where every expansion is valid, so take the narrowest range.
+
 ## Official syllabus
 
 OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR. These notes cover content references 1.02j, 1.02k, 1.02y and 1.02z.

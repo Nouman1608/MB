@@ -230,6 +230,20 @@ They are different, so the order of composition matters.
 - Choosing the wrong root sign when inverting a restricted quadratic.
 - Describing a transformation without its vector or scale factor.
 
+## Frequently asked questions
+
+**What is the difference between f(x + 3) and f(x) + 3?**
+f(x + 3) moves the graph 3 units left, a translation by the vector (−3, 0). f(x) + 3 moves it 3 units up, a translation by (0, 3).
+
+**What is the stretch factor for y = f(ax)?**
+y = f(ax) is a stretch parallel to the x-axis with scale factor 1/a, not a. y = af(x) is a stretch parallel to the y-axis with scale factor a.
+
+**When does a function have an inverse?**
+A function has an inverse only if it is one-one on its domain. The domain of f⁻¹ is the range of f, and its graph is the reflection of y = f(x) in the line y = x.
+
+**Is a many-one mapping a function?**
+Yes. A many-one mapping, where different inputs share an output, is still a function. A one-many mapping, where one input gives several outputs, is not.
+
 ## Official syllabus
 
 OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), first assessment 2018, published by OCR.

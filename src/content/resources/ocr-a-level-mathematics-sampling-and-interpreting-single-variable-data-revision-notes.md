@@ -236,6 +236,20 @@ A value of 45 lies beyond the upper fence, so it is a possible outlier. A value 
 - Comparing two distributions with an average only, and leaving out spread.
 - Entering 0 for missing data.
 
+## Frequently asked questions
+
+**Which sampling methods must you be able to carry out in OCR A Level Mathematics A (H240)?**
+You carry out simple random and opportunity sampling. Systematic, stratified, cluster and quota sampling are for critique only, so you need to know how they work and their weaknesses.
+
+**What is the difference between stratified and quota sampling?**
+Stratified sampling chooses members at random within each group, using a sampling frame. Quota sampling sets numbers for each group but lets the interviewer choose who to ask, so it is not random.
+
+**How do you find standard deviation from summary statistics?**
+Find the variance as Σx²/n − x̄², then take the square root. Forgetting to subtract the mean squared is a common error.
+
+**Why is standard deviation used rather than variance?**
+Variance is measured in squared units, so the standard deviation is the measure of spread that matches the units of the data.
+
 ## Official syllabus
 
 The OCR A Level in Mathematics A (H240) specification, Version 3.1 (August 2026), published by OCR, sections 2.01 and 2.02.

@@ -220,6 +220,20 @@ These notes condense OCR A Level Mathematics A (H240) content references 1.08a t
 - Working out ln of a negative number instead of using ln\|x\| and then simplifying.
 - Writing down only a calculator value for a definite integral that asks for detailed reasoning.
 
+## Frequently asked questions
+
+**What is the difference between an indefinite and a definite integral?**
+An indefinite integral has no limits and its answer is a function plus c. A definite integral has limits and its answer is a number.
+
+**Why does ∫ 1/x dx give ln|x| and not a power?**
+The power rule does not work for n = −1, so ∫ 1/x dx = ln|x| + c. The modulus is needed because x can be negative.
+
+**Can you just write a calculator value for a definite integral?**
+Not when the question asks for detailed reasoning. Show the antiderivative, the substitution of the limits and the simplification; the OCR H240 specification gives a definite integral as an example of detailed reasoning.
+
+**How do you integrate sin² x or cos² x?**
+Rewrite them with the double-angle formulae first, for example cos² x = ½(1 + cos 2x), then integrate term by term.
+
 ## Official syllabus
 
 These notes follow content references 1.08a to 1.08f of the OCR A Level in Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR.

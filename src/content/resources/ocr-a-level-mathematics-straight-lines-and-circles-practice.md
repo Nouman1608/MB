@@ -149,6 +149,20 @@ These questions cover straight lines and circles in OCR A Level Mathematics A (H
 - Rounding too early, or giving a decimal where an exact surd was requested.
 - Writing a discriminant condition with the wrong inequality direction when finding a range.
 
+## Frequently asked questions
+
+**How do you read the centre and radius from a circle equation?**
+In (x − a)² + (y − b)² = r², the centre is (a, b) and the radius is r. The sign in each bracket is the opposite of the centre coordinate, so (x + 2)² + (y − 5)² = 34 has centre (−2, 5) and radius √34.
+
+**How do you tell whether a point is inside or outside a circle?**
+Work out (x − a)² + (y − b)² for the point and compare it with r², not r. A smaller value means inside, an equal value means on the circle, and a larger value means outside.
+
+**How do you find the tangent to a circle at a point?**
+Find the gradient of the radius from the centre to the point of contact, take its negative reciprocal, and write the line through the point of contact, not through the centre.
+
+**What form should a line equation be in for OCR A Level Mathematics?**
+Use the form the question asks for. If it asks for ax + by + c = 0 with integer coefficients, stopping at y = mx + c loses the mark.
+
 ## Next steps
 
 - Review the methods in the [revision notes](/resources/ocr-a-level-mathematics-straight-lines-and-circles-revision-notes/).

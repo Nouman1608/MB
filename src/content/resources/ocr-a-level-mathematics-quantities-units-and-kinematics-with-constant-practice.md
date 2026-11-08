@@ -167,6 +167,20 @@ Last stage −14 ÷ 10 = **−1.4 m s⁻²** [1]
 - Forgetting the starting position when asked for a position vector.
 - Skipping lines in a "show that" derivation.
 
+## Frequently asked questions
+
+**Why must you convert to SI units before using kinematics formulae?**
+The constant acceleration formulae need consistent units, so change km to m, minutes to s and grams to kg before substituting. Not converting is a common way to lose marks.
+
+**How do you find distance travelled from a velocity-time graph?**
+Find the area of each section and add their sizes, treating area below the time axis as positive for distance. For displacement, area below the axis counts as negative.
+
+**What should you do when a quadratic in t gives two positive roots?**
+Both may be valid: the object can pass the same point twice. Check each root against the context instead of giving only one.
+
+**Can you use suvat across stages with different accelerations?**
+No. The constant acceleration formulae apply to one stage at a time, so treat each stage with its own acceleration separately.
+
 ## Next steps
 
 - Read the [revision notes](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant-revision-notes/) for the formulae and methods.

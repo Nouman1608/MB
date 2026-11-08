@@ -131,6 +131,20 @@ These questions cover friction, references 3.03r to 3.03v of the OCR A Level Mat
 - Using the up-slope deceleration formula for motion down the slope, or the reverse.
 - Treating the stopped body as sliding back without comparing tan α with μ.
 
+## Frequently asked questions
+
+**When can you use F = μR in a friction question?**
+Only when the body is sliding or on the point of moving, which is limiting equilibrium. For a stationary body that is not close to slipping, F < μR and you find F from equilibrium.
+
+**Is the normal reaction always equal to mg?**
+No. On a slope R = mg cos α, and a rope or push with a vertical component changes R. Resolve perpendicular to the surface to find R before working out friction.
+
+**How do you find the least and greatest force for equilibrium on a rough slope?**
+For the least force, the body is about to slip down, so friction acts up the slope at its maximum. For the greatest force, it is about to slide up, so friction acts down the slope at its maximum.
+
+**What happens after a body sliding up a rough slope stops?**
+Compare tan α with μ. If tan α ≤ μ the body stays at rest; otherwise it slides back down with friction now acting up the slope.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and-revision-notes/) and the [study guide](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and/).

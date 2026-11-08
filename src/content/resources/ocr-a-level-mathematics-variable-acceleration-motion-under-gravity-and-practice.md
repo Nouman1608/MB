@@ -162,6 +162,20 @@ These questions cover content references 3.02f to 3.02i of the OCR A Level Mathe
 - Using u instead of its components in the equations.
 - Using the range formula for different launch and landing heights.
 
+## Frequently asked questions
+
+**How do you find distance travelled when the velocity changes sign?**
+Find the times when v = 0, split the interval at those times, integrate v over each part and add the sizes. Integrating straight across gives displacement, not distance.
+
+**What does "moving parallel to i" mean in vector kinematics?**
+The velocity has no j-component, so set the j-component of v to zero and solve for t. Setting the wrong component to zero is a common error.
+
+**Can you use the range formula for every projectile?**
+No. R = u² sin 2α / g only applies when the projectile lands at the same level it was launched from. For a launch from a height, use the horizontal and vertical equations separately.
+
+**Why does every integration in kinematics need a constant?**
+Integrating a or v gives a family of answers, so you must add a constant and find it from a given condition, such as the initial velocity or position.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-mathematics-variable-acceleration-motion-under-gravity-and-revision-notes/) and the [study guide](/resources/ocr-a-level-mathematics-variable-acceleration-motion-under-gravity-and/).

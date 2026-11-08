@@ -213,6 +213,20 @@ at x = 4: dy/dx = 6 − 3 − 5/16 = 43/16
 - Differentiating a trigonometric function with the angle in degrees, when the standard results need radians.
 - Leaving exact values untidy, for example 3 − 3/16 instead of 45/16.
 
+## Frequently asked questions
+
+**What is the derivative of a^kx?**
+The derivative of a^kx is k ln a · a^kx. It is A Level only content in OCR H240, and dropping the ln a factor is a common error.
+
+**What is the difference between d²y/dx² and (dy/dx)²?**
+d²y/dx² is the second derivative, the derivative of the derivative. (dy/dx)² is the first derivative squared.
+
+**What do convex and concave mean?**
+A function is convex on an interval where f''(x) > 0, so the curve bends upwards, and concave where f''(x) < 0. Convexity and concavity are A Level only, under reference 1.07f.
+
+**How do you sketch the graph of f'(x) from the graph of f(x)?**
+Put the roots of f' directly under the turning points of f. Where f is rising, f' is above the x-axis, and where f is falling, f' is below it.
+
 ## Official syllabus
 
 *OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR: section 1.07, Differentiation, references 1.07a to 1.07l.

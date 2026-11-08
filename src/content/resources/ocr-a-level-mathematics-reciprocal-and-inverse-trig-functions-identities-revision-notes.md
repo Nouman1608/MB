@@ -222,6 +222,20 @@ A model a + R sin(kt + α) has mean level a, amplitude R and period 2π/k. Its g
 - Starting a proof from both sides at once.
 - Rounding R or α early and then losing accuracy in the final answers.
 
+## Frequently asked questions
+
+**What are the principal ranges of arcsin, arccos and arctan?**
+arcsin x gives values from −π/2 to π/2, arccos x from 0 to π, and arctan x strictly between −π/2 and π/2.
+
+**Does sin⁻¹ x mean 1/sin x?**
+No. sin⁻¹ x means arcsin x, which is an angle. The reciprocal 1/sin x is cosec x.
+
+**Which form of cos 2A should you use?**
+cos 2A has three forms: cos²A − sin²A, 2cos²A − 1 and 1 − 2sin²A. Choose the one that leaves only the function you want in the equation.
+
+**How do you write a cos θ + b sin θ in R-form?**
+Write it as R cos(θ − α), with R cos α = a and R sin α = b, so R = √(a² + b²) and tan α = b/a. Keep α unrounded in later working.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018. Sections 1.05h to 1.05q.

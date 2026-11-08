@@ -285,6 +285,20 @@ Since 3e^(2x) > 0, the range of f is f(x) > −1. The domain of f⁻¹ is the ra
 - Allowing x ≤ 0 inside ln or log_a.
 - Giving f⁻¹ the inputs that belong to f; they must be f's outputs.
 
+## Frequently asked questions
+
+**What does log_a b mean?**
+log_a b is the power of a that gives b. It is not a divided by b; for example, log₃ 81 = 4 because 3⁴ = 81.
+
+**What are the domain and range of y = log_a x?**
+The domain is x > 0 and the range is all real numbers. The graph passes through (1, 0) and (a, 1) and has the y-axis as a vertical asymptote.
+
+**Can you split ln(x + 2) into ln x + ln 2?**
+No. That step is not valid; the laws of logarithms apply to products and quotients, not to sums inside the logarithm.
+
+**How do you find the domain of the inverse of an exponential function?**
+The domain of f⁻¹ is the range of f. For example, if f(x) = e^x + 2 then f(x) > 2, so f⁻¹(x) = ln(x − 2) is defined only for x > 2.
+
 ## Where next
 
 Try the [practice questions](/resources/ocr-a-level-mathematics-exponential-and-logarithmic-functions-e-x-a-x-ln-x-and-practice/) and keep the [revision notes](/resources/ocr-a-level-mathematics-exponential-and-logarithmic-functions-e-x-a-x-ln-x-and-revision-notes/) for the final weeks.

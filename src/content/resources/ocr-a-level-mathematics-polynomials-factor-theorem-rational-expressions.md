@@ -284,6 +284,20 @@ Always state what a result means in context and whether it lies in the domain.
 
 Next, test yourself with the [revision notes](/resources/ocr-a-level-mathematics-polynomials-factor-theorem-rational-expressions-revision-notes/) and the [practice questions](/resources/ocr-a-level-mathematics-polynomials-factor-theorem-rational-expressions-practice/). Find weak points with the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Which parts of this topic are A Level only in OCR A Level Mathematics A (H240)?**
+Expanding, collecting and the factor theorem under 1.02j are Stage 1. Algebraic division, polynomial equations up to degree 4, rational expressions, partial fractions and modelling with functions are A Level only.
+
+**How do you solve a quartic equation?**
+Find a root using the factor theorem, divide, then repeat on the cubic. Test the same root a second time in case it repeats; a quartic has at most four real roots.
+
+**How do partial fractions help with integration?**
+Each partial fraction integrates separately. A term A/(ax + b) integrates to (A/a) ln|ax + b|, so a complicated fraction becomes a sum of logarithms.
+
+**What are assumptions, limitations and refinements in a modelling question?**
+An assumption is a simplification made to build the model, a limitation is where the model fails, and a refinement is a change that brings the model closer to reality.
+
 ## Official syllabus
 
 OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR. This guide covers content references 1.02j, 1.02k, 1.02y and 1.02z.

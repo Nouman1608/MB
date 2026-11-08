@@ -134,6 +134,20 @@ Links: [OCR Mathematics A hub](/boards/ocr/a-level/mathematics/), [printable che
 - Giving a conclusion such as "accept H₀" or "the claim is true", or a conclusion that is not in context.
 - Finding a Type II error by using H₀'s parameter instead of the true value.
 
+## Frequently asked questions
+
+**How do you write hypotheses for a binomial test?**
+State them in terms of the population parameter p, define p in context, and give the distribution of X under H₀, such as X ~ B(20, 0.3). Never use the sample proportion in the hypotheses.
+
+**Which probability do you find for an upper-tail binomial test?**
+Find P(X ≥ x), written as 1 − P(X ≤ x − 1). Using P(X = x) or P(X > x) instead makes the critical value wrong by one.
+
+**How does a two-tail test change the comparison?**
+Compare each tail probability with half the significance level, or double the smaller tail probability before comparing with the full level.
+
+**What standard deviation do you use for a sample mean?**
+Use σ/√n, not σ. Under H₀ the sample mean of n values from N(μ, σ²) has distribution N(μ, σ²/n); the sample mean test is A Level only in OCR H240.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-mathematics-hypothesis-testing-language-binomial-tests-and-the-revision-notes/) and the [study guide](/resources/ocr-a-level-mathematics-hypothesis-testing-language-binomial-tests-and-the/).

@@ -224,6 +224,20 @@ Before you sketch an exponential or logarithmic graph, check these in order:
 - Taking ln of a negative number or zero, for instance when solving e^x = −3.
 - Giving an inverse function with no domain, or with the domain of the original function.
 
+## Frequently asked questions
+
+**What do all graphs of y = a^x have in common?**
+For a > 0, every graph of y = a^x passes through (0, 1), lies above the x-axis and has the x-axis as a horizontal asymptote. It is increasing for a > 1 and decreasing for 0 < a < 1.
+
+**What is the difference between a^x and x^a?**
+In a^x the variable is in the power, so the graph has a horizontal asymptote and is always positive. In x^a the variable is the base.
+
+**How are log_a x and a^x related?**
+They are inverse functions, so the graph of y = log_a x is the reflection of y = a^x in the line y = x. Swap the coordinates of each point, and the asymptote switches from y = 0 to x = 0.
+
+**What are the values of ln 1, ln e and e^(ln 5)?**
+ln 1 = 0 and ln e = 1, because e⁰ = 1 and e¹ = e. e^(ln 5) = 5, because e^x and ln x are inverse functions.
+
 ## Official syllabus
 
 *OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR: section 1.06, Exponentials and Logarithms, references 1.06a to 1.06e.

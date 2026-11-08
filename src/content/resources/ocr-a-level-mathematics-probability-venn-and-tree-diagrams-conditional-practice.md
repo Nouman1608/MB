@@ -169,6 +169,20 @@ A resident is chosen at random.
 - Rounding part-way through, so a later equality test fails by a small amount.
 - Giving a modelling comment with no named assumption or direction of effect.
 
+## Frequently asked questions
+
+**How do you show that two events are independent?**
+Calculate P(A) × P(B) and compare it with P(A ∩ B). If they are equal, the events are independent; writing "independent" without showing this product test loses marks.
+
+**What denominator do you use when a question says "given that"?**
+Restrict to the event you are given. For P(A | B), divide P(A ∩ B) by P(B), not by the full total.
+
+**How do you answer "exactly one" or "different colours" probability questions?**
+Find every route that gives the outcome, usually two, and add their probabilities. Computing only one route is a common error.
+
+**What makes a good probability modelling comment in OCR A Level Mathematics?**
+Name the specific assumption, such as independence or constant probability, and say how the answer would change if it failed. "Not realistic" on its own earns no credit.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ocr-a-level-mathematics-probability-venn-and-tree-diagrams-conditional-revision-notes/) and the [study guide](/resources/ocr-a-level-mathematics-probability-venn-and-tree-diagrams-conditional/).

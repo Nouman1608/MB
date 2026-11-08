@@ -280,6 +280,20 @@ The other rearrangement, h = 3 − 2.4/h², has g′ = 4.8/h³ = 3.29 at the roo
 
 Next, work through the [practice questions](/resources/ocr-a-level-mathematics-numerical-methods-locating-roots-iteration-newton-practice/).
 
+## Frequently asked questions
+
+**Are numerical methods AS or A Level content in OCR A Level Mathematics A (H240)?**
+All of section 1.09, Numerical Methods, is A Level only content. It covers locating roots, iteration, Newton-Raphson, numerical integration and modelling with numerical methods.
+
+**What is the Newton-Raphson formula?**
+xₙ₊₁ = xₙ − f(xₙ)/f′(xₙ). It is itself an iteration of the form xₙ₊₁ = g(xₙ), with g(x) = x − f(x)/f′(x).
+
+**Can a sign change happen without a root?**
+Yes, if the function is not continuous on the interval. For example, tan x changes sign between 1 and 2 radians but has no root there, because it is undefined at π/2.
+
+**How do rectangles give upper and lower bounds for an integral?**
+For an increasing function, rectangles with heights at the left ends of the strips give a lower bound and heights at the right ends give an upper bound. For a decreasing function the bounds swap.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018. Section 1.09 Numerical Methods, 1.09a to 1.09g.

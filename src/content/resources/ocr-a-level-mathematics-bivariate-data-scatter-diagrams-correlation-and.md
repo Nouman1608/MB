@@ -236,6 +236,20 @@ Questions may supply selected data or diagrams from the data set, so context kno
 
 Next, use the [revision notes](/resources/ocr-a-level-mathematics-bivariate-data-scatter-diagrams-correlation-and-revision-notes/) for quick recall and the [practice questions](/resources/ocr-a-level-mathematics-bivariate-data-scatter-diagrams-correlation-and-practice/) to test yourself.
 
+## Frequently asked questions
+
+**How do you describe a scatter diagram in OCR A Level Mathematics?**
+Comment on direction (positive, negative or none), strength (how tightly the points cluster), shape (linear or curved) and anything unusual, such as outlying points or separate groups. Always name the variables in context.
+
+**What is the difference between interpolation and extrapolation?**
+Interpolation predicts for an x-value inside the range of the data and is generally reasonably reliable if the correlation is strong. Extrapolation predicts outside the range and is unreliable, because you do not know that the pattern continues.
+
+**When is the intercept of a regression line meaningful?**
+The intercept is the predicted y when x is 0, so it only has a sensible meaning if x = 0 is within or near the data. Otherwise, say it has no practical meaning in context.
+
+**Does correlation imply causation in OCR H240 statistics?**
+No. Specification reference 2.02e requires you to understand that correlation does not imply causation; a confounding variable, such as population size, may explain both variables.
+
 ## Official syllabus
 
 OCR, *Advanced GCE in Mathematics A (H240)*, specification Version 3.1 (August 2026), for first assessment in 2018, references 2.02c to 2.02e and the large data set section.
