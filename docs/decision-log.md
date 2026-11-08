@@ -15807,6 +15807,13 @@ Three more problems turned up:
 - **Result.** The strict check (topic and subtopic level) lists no Accounting gap for O Level 7707 or Edexcel IGCSE 4AC1. `validate:academic` passes; the duplicate-scope script reports nothing new.
 - **Open items.** Business for Edexcel International GCSE is not on the site; AQA AS 7126 not added; the pages state amounts in dollars in words because the specification names no currency.
 
+## D-446 - Flashcards made findable; six thin chemistry units filled in (8 Nov 2026)
+
+- Owner, 8 Nov 2026 ("do items 1 and 2 now"), from a gap check after D-444 went live.
+- **Findable.** /flashcards/ is now in the footer's resources column (after Practice), in the free-tools grid on the Study resources page (/resources/), and has a third card in the homepage "Find study resources" row; the Study resources item in the header now counts as current on flashcard pages. The header bar itself lists no individual tools, so it is unchanged. Its card and course counts come from the deck registry, like the diagnostic count beside it.
+- **Thin units.** Six units had 2 cards: 8.4 Transition elements, 8.5 Noble gases and 9.2 Uses of metals in both 0620 and 5070. Each now has 4 or 5. The new cards come from the syllabus (8.4, 8.5, 9.2) and the periodic-table notes. 9.2 gained aluminium in overhead cables, a syllabus outcome the deck had missed. The 16 new cards were added after the teachers' review of 5 Nov and are listed in `docs/content-review/flashcards-teacher-review.md` as awaiting a check.
+- **Not done (gap check, 8 Nov 2026).** Topic-level decks are thin where the syllabus records have no subtopics (198 topics, 2,119 cards, about 11 each); no automated tests for the flashcard code; AP courses and MYP Sciences, IB ESS, Statistics and Commerce have no flashcards (scope not decided).
+
 ## D-444 - Flashcards for each topic and subtopic, piloted on Cambridge IGCSE Chemistry 0620 (5 Nov 2026)
 
 - Owner, 5 Nov 2026 ("I want to add flash cards for each topic/subtopic"). Two choices were put to the owner. **Source: hybrid** — build the system, take cards from the revision notes where they already state a term and its definition, and write the rest. **Pilot: 0620**, so the format can be reviewed before it is used for other courses.
@@ -15910,3 +15917,11 @@ Three more problems turned up:
 - **Not checked against the specification.** The writers worked from their own knowledge and did not read the board documents. 49 pages carry `reviewNeeded` with a `reviewNote` naming what to check; Law, Psychology, World History and English Literature pages are the least certain and need teacher review before they are credited.
 - **Subject slug.** The six English Language pages use `subject: english`, the hub the site already has; `english-language` is not in the subjects collection.
 - **Not covered.** Geography (12) and Urdu Language (3) still list unmapped topics; they were not in the request. The local full build could not run, so CI is the first full build.
+
+## D-446 - Study guides for the last unmapped topics: IB DP Geography and Edexcel A Level Urdu 9UR0 (8 Nov 2026)
+
+- Owner, 8 Nov 2026 ("write the Geography and Urdu ones too"), after D-445 left Geography (12) and Urdu Language (3) as the only subjects with unmapped topics.
+- **Pages.** 15 new study guides: 12 for IB DP Geography (options A to G, units 3 to 6 and the fieldwork internal assessment) and 3 for Edexcel A Level Urdu themes 1 to 3. All are `review-pending` under the Marlbridge Academic Team with no reviewer. The coverage report now lists no unmapped topic in any course.
+- **Urdu pages.** They follow the existing Edexcel Urdu pages: English prose with Urdu script for terms, vocabulary tables and model sentences, and the existing title style. All three carry `reviewNeeded`; an Urdu specialist should check the vocabulary and model paragraphs.
+- **Not checked against the specification.** Written from the writers' own knowledge. Four pages carry `reviewNeeded` (fieldwork and the three Urdu pages). The IB option content, the scale thresholds and the fieldwork critical value came from memory and need a teacher check.
+- **Gate.** The review ledger caught a broken link in the Urdu theme 3 page (wrong word order in a slug); it was fixed. The local full build could not run, so CI is the first full build.

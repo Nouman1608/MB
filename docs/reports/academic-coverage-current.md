@@ -12,13 +12,13 @@ written, so an unchanged repository regenerates identical files).
 
 | Measure | Value |
 | --- | --- |
-| Source resources | 7475 |
+| Source resources | 7490 |
 | Active board × qualification × subject combinations | 166 |
 | Combinations with an official-source record | 166/166 |
 | Combinations with a topic map | 166/166 |
 | Zero-resource combinations | 0 |
 | Combinations under 8 resources | 7 |
-| Combinations with topics that have no resource | 2 |
+| Combinations with topics that have no resource | 0 |
 | Median resources per combination | 40 |
 | Median words per resource | 2070 |
 | Resources under 900 words | 15 |
@@ -40,7 +40,7 @@ source, a verification date, components with marks and durations, and an assessm
 
 | reviewStatus | Resources |
 | --- | --- |
-| review-pending | 5195 |
+| review-pending | 5210 |
 | reviewed | 2280 |
 
 `reviewed` means a named Marlbridge subject teacher is credited as accountable for the page
@@ -52,7 +52,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | Type | Resources |
 | --- | --- |
-| study-guides | 2524 |
+| study-guides | 2539 |
 | revision-notes | 2396 |
 | past-papers | 16 |
 | practice-questions | 2406 |
@@ -66,8 +66,8 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | --- | --- |
 | aqa | 1010 |
 | cambridge | 2064 |
-| edexcel | 959 |
-| ib | 1025 |
+| edexcel | 962 |
+| ib | 1037 |
 | ocr | 1105 |
 | oxfordaqa | 1312 |
 
@@ -77,8 +77,8 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AQA | 26 | 26 | 26 | 1200 | 0 | 26 | 336 | 864 |
 | Cambridge | 55 | 55 | 55 | 2207 | 0 | 55 | 1109 | 1098 |
-| Pearson Edexcel | 21 | 21 | 21 | 959 | 2 | 21 | 204 | 755 |
-| International Baccalaureate | 21 | 21 | 21 | 1025 | 0 | 21 | 413 | 612 |
+| Pearson Edexcel | 21 | 21 | 21 | 962 | 2 | 21 | 204 | 758 |
+| International Baccalaureate | 21 | 21 | 21 | 1037 | 0 | 21 | 413 | 624 |
 | OCR | 13 | 13 | 13 | 1253 | 0 | 13 | 96 | 1157 |
 | OxfordAQA | 30 | 30 | 30 | 1312 | 5 | 30 | 227 | 1085 |
 
@@ -87,11 +87,11 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | Qualification | Combinations | Resources (per-combination count, a resource can count for more than one) |
 | --- | --- | --- |
 | GCSE | 18 | 810 |
-| A Level | 59 | 3588 |
+| A Level | 59 | 3591 |
 | AS Level | 3 | 338 |
 | IGCSE | 47 | 1574 |
 | O Level | 18 | 621 |
-| IB Diploma Programme | 16 | 831 |
+| IB Diploma Programme | 16 | 843 |
 | IB Middle Years Programme | 5 | 194 |
 
 ## Known risks
@@ -100,7 +100,6 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | --- | --- |
 | evidence-is-blanket-authorization-not-subject-specific-confirmation | 80 |
 | under-8-resources | 7 |
-| topics-without-resources | 2 |
 
 ## Zero-resource combinations
 
@@ -118,8 +117,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 ## Topic-map gaps (topics no resource maps to)
 
-- Pearson Edexcel A Level Urdu Language (9UR0): theme-1-evolving-pakistani-society-9ur0, theme-2-art-and-culture-urdu-speaking-world-9ur0, theme-3-immigration-multicultural-society-9ur0
-- International Baccalaureate IB Diploma Programme Geography (DP Geography): ib-dp-geography-freshwater, ib-dp-geography-oceans-coastal-margins, ib-dp-geography-extreme-environments, ib-dp-geography-geophysical-hazards, ib-dp-geography-leisure-tourism-sport, ib-dp-geography-food-health, ib-dp-geography-urban-environments, ib-dp-geography-global-resource-consumption, ib-dp-geography-power-places-networks, ib-dp-geography-human-development-diversity, ib-dp-geography-global-risks-resilience, ib-dp-geography-fieldwork
+- None.
 
 ## Stale verification (older than 180 days before 2026-11-08)
 
@@ -191,6 +189,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 - Pearson Edexcel A Level Economics (YEC11): 111 review-pending resource(s) with no reviewer
 - Pearson Edexcel A Level Mathematics (YMA01): 109 review-pending resource(s) with no reviewer
 - Pearson Edexcel A Level Physics (YPH11): 12 review-pending resource(s) with no reviewer
+- Pearson Edexcel A Level Urdu Language (9UR0): 3 review-pending resource(s) with no reviewer
 - Pearson Edexcel IGCSE Biology (4BI1): 30 review-pending resource(s) with no reviewer
 - Pearson Edexcel IGCSE Chemistry (4CH1): 25 review-pending resource(s) with no reviewer
 - Pearson Edexcel IGCSE Economics (4EC1): 60 review-pending resource(s) with no reviewer
@@ -205,6 +204,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 - International Baccalaureate IB Diploma Programme Biology (DP Biology): 117 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Diploma Programme Chemistry (DP Chemistry): 84 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Diploma Programme Economics (DP Economics): 75 review-pending resource(s) with no reviewer
+- International Baccalaureate IB Diploma Programme Geography (DP Geography): 12 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Diploma Programme World History (DP History): 3 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Diploma Programme Physics (DP Physics): 83 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Diploma Programme Global Politics (DP Global Politics): 34 review-pending resource(s) with no reviewer
@@ -252,12 +252,11 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | Next action | Combinations |
 | --- | --- |
-| Named-reviewer sign-off of review-pending resources. | 119 |
+| Named-reviewer sign-off of review-pending resources. | 121 |
 | None. | 38 |
 | Add resources to reach the 8-resource depth target. | 7 |
-| Write resources for unmapped topics (n). | 2 |
 
-Overall: the largest outstanding item is human sign-off: 5195 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
+Overall: the largest outstanding item is human sign-off: 5210 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
 
 ## Every combination
 
@@ -352,7 +351,7 @@ Overall: the largest outstanding item is human sign-off: 5195 review-pending res
 | Pearson Edexcel | A Level | Law | YLA1 | 7 | 7 / 0 | VERIFIED_COMPLETE (linear) | 0 | Add resources to reach the 8-resource depth target. |
 | Pearson Edexcel | A Level | Mathematics | YMA01 | 116 | 7 / 109 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | A Level | Physics | YPH11 | 45 | 33 / 12 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
-| Pearson Edexcel | A Level | Urdu Language | 9UR0 | 9 | 9 / 0 | VERIFIED_COMPLETE (linear) | 3 | Write resources for unmapped topics (3). |
+| Pearson Edexcel | A Level | Urdu Language | 9UR0 | 12 | 9 / 3 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | IGCSE | Biology | 4BI1 | 45 | 15 / 30 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | IGCSE | Chemistry | 4CH1 | 40 | 15 / 25 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | IGCSE | Economics | 4EC1 | 68 | 8 / 60 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
@@ -373,7 +372,7 @@ Overall: the largest outstanding item is human sign-off: 5195 review-pending res
 | International Baccalaureate | IB Diploma Programme | Biology | DP Biology | 127 | 10 / 117 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
 | International Baccalaureate | IB Diploma Programme | Chemistry | DP Chemistry | 94 | 10 / 84 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
 | International Baccalaureate | IB Diploma Programme | Economics | DP Economics | 84 | 9 / 75 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
-| International Baccalaureate | IB Diploma Programme | Geography | DP Geography | 10 | 10 / 0 | VERIFIED_COMPLETE (component-based) | 12 | Write resources for unmapped topics (12). |
+| International Baccalaureate | IB Diploma Programme | Geography | DP Geography | 22 | 10 / 12 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
 | International Baccalaureate | IB Diploma Programme | World History | DP History | 13 | 10 / 3 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
 | International Baccalaureate | IB Diploma Programme | Language B | DP Language B | 34 | 34 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Mathematics: Analysis and Approaches | DP Mathematics: Analysis and Approaches | 55 | 55 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |

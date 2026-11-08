@@ -13,19 +13,23 @@
  * exam board.
  *
  * The diagnostic count is read from src/data/diagnostics.ts, so the sentence
- * cannot claim a subject that has no diagnostic. The tuition trial stays one
+ * cannot claim a subject that has no diagnostic. The flashcard card (D-446) reads
+ * its numbers from src/data/flashcards the same way. The tuition trial stays one
  * click away; the hero above already leads with it.
  */
 import Section from '../layout/Section.astro';
 import Container from '../layout/Container.astro';
 import CourseFinder from '../tools/CourseFinder.astro';
 import { DIAGNOSTIC_SETS } from '../../data/diagnostics';
+import { FLASHCARD_DECKS } from '../../data/flashcards';
 import { getSubjects } from '../../utils/content/collections';
 import { resourcesForSubject } from '../../utils/content/related';
 import { routes } from '../../utils/urls/routes';
 
 const diagCount = DIAGNOSTIC_SETS.length;
 const diagSyllabuses = new Set(DIAGNOSTIC_SETS.map((d) => d.code)).size;
+// The flashcard numbers come from the deck registry, like the diagnostic count above.
+const cardCount = FLASHCARD_DECKS.reduce((n, d) => n + d.cards.length, 0);
 const subjects = await getSubjects();
 const withResources = (await Promise.all(subjects.map(async (s) => ((await resourcesForSubject(s.id)).length > 0 ? s : null)))).filter((s): s is NonNullable<typeof s> => !!s);
 
@@ -41,6 +45,12 @@ const actions = [
     title: 'Make my revision plan',
     body: 'Enter your subjects, exam dates and free time. Get a weekly plan that puts weak topics first.',
     kind: 'plan',
+  },
+  {
+    href: '/flashcards/',
+    title: 'Revise with flashcards',
+    body: `${cardCount.toLocaleString('en-GB')} cards for ${FLASHCARD_DECKS.length} courses, by topic and subtopic. Turn a card, say whether you knew it, and the ones you missed come back.`,
+    kind: 'cards',
   },
 ];
 ---
