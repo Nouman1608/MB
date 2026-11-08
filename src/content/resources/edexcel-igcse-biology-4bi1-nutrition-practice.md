@@ -213,6 +213,20 @@ Also accept, as an alternative to any one point: a lacteal absorbs fatty acids a
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover sub-topic 2(e), Nutrition, in flowering plants and humans, from photosynthesis practicals to digestion and food energy.
+
+**Should light or chlorophyll appear in the photosynthesis equation?**
+Not as reactants. Write them as conditions over the arrow if at all. Putting light or chlorophyll in as reactants is a common error.
+
+**How should you describe villus features?**
+Explain how each feature helps absorption, rather than just listing the features.
+
+**Are some of these questions Paper 2 only?**
+Yes. The food energy practical question is marked "Paper 2 only" because point 2.33B is examined only on Paper 2.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 2: Structures and functions in living organisms, sub-topic (e) Nutrition, statements 2.18–2.33B.

@@ -176,6 +176,20 @@ Explain why the equation is not balanced and write the correct version. **[3]**
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover sub-topic 2(f), Respiration: ATP, the equations, aerobic and anaerobic respiration and the respiring seeds practical.
+
+**Should you say respiration produces energy?**
+No. Respiration releases energy. Writing that it "produces energy" loses marks.
+
+**How should you describe an indicator colour change?**
+Give both the starting colour and the final colour.
+
+**Does low temperature denature enzymes?**
+No. Low temperature slows enzymes down; high temperature denatures them.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Section 2, Structure and functions in living organisms, sub-topic (f) Respiration, points 2.34–2.39.

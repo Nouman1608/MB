@@ -269,6 +269,23 @@ Rate = (final temperature − starting temperature) ÷ time
 - Missing the reason for disinfectant (microbes respire too) or for the vacuum flask (insulation).
 - A rate with no unit, such as "1.5" instead of "1.5 °C per day".
 
+## Frequently asked questions
+
+**What is the balanced symbol equation for aerobic respiration?**
+C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O. Check it balances: 6 carbon, 12 hydrogen and 18 oxygen atoms on each side.
+
+**What are the products of anaerobic respiration?**
+In animals, glucose → lactic acid. In plants and yeast, glucose → ethanol + carbon dioxide.
+
+**What is ATP used for?**
+ATP provides energy for muscle contraction, active transport, building large molecules, cell division and growth, nerve impulses, and keeping body temperature constant in mammals and birds.
+
+**Why does anaerobic respiration release less energy?**
+Glucose is only partly broken down, and lactic acid and ethanol still contain a lot of chemical energy.
+
+**Why are germinating seeds rinsed in disinfectant in the heat practical?**
+Disinfectant kills microorganisms on the seeds, so any heat released comes from the seeds' own respiration and not from microbes.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Section 2, Structure and functions in living organisms, sub-topic (f) Respiration, points 2.34–2.39.

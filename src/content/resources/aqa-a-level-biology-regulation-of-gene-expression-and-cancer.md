@@ -218,6 +218,23 @@ Among 100 pairs of identical twins in which one twin had a cancer, the other twi
 - Calling every tumour cancerous; benign tumours do not spread.
 - Dividing a change by the final figure; the starting figure is the divisor.
 
+## Frequently asked questions
+
+**How does oestrogen control transcription?**
+Oestrogen is lipid-soluble, so it diffuses into the cell and binds to a specific receptor. The hormone-receptor complex enters the nucleus, binds to a base sequence next to the target gene and stimulates transcription.
+
+**What is epigenetics?**
+Epigenetics involves heritable changes in gene function without changes to the base sequence of DNA, such as increased DNA methylation or decreased histone acetylation, both of which inhibit transcription.
+
+**How does RNA interference stop a protein being made?**
+siRNA joins a protein complex and pairs with complementary mRNA, which is then broken down, so the mRNA is not translated. The gene is still transcribed.
+
+**What is the difference between oncogenes and tumour suppressor genes?**
+Oncogenes are mutated or over-expressed forms of proto-oncogenes that stimulate cell division. Tumour suppressor genes slow cell division and help repair DNA, so cancer can result when they are inactivated.
+
+**What is the difference between benign and malignant tumours?**
+Both are masses of cells formed by uncontrolled cell division, but benign tumours do not spread, while malignant tumours are cancerous and can spread to other parts of the body.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, sections 3.8.2.2 and 3.8.2.3 (version 1.5), published by AQA.

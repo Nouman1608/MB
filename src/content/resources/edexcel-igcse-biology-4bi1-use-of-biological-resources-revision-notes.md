@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Revision notes for Edexcel IGCSE Biology 4BI1 Topic 5: food production, fermenters, selective breeding, GM and cloning, with a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense Topic 5, **Use of biological resources** (points 5.1–5.20), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3, for the June and November series examined under Issue 3. The course is untiered; points 5.9B and 5.17B–5.20B are bold **B** statements and are examined on Paper 2 only. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-biology-4bi1-use-of-biological-resources/) first.
@@ -340,6 +342,23 @@ Insert a human gene into an animal embryo → animal makes the human protein (fo
 - Missing "same restriction enzyme" in the insulin method.
 - In Dolly, naming the egg donor or surrogate as the parent the clone matches.
 - Mixing up intraspecific and interspecific predation.
+
+## Frequently asked questions
+
+**How do glasshouses increase crop yield?**
+They let light in and trap heat, protect crops from frost, wind, rain and some pests, and allow control of temperature, carbon dioxide and water.
+
+**Which gas makes bread rise?**
+Carbon dioxide from anaerobic respiration of yeast makes the dough rise. Baking kills the yeast and evaporates the ethanol.
+
+**How is yoghurt made?**
+Milk is pasteurised to kill unwanted bacteria, Lactobacillus is added and the mixture is incubated warm. The bacteria ferment lactose to lactic acid, the pH falls and milk proteins clot.
+
+**What are the steps of selective breeding?**
+Choose parents with the desired characteristic, cross them, select the offspring showing it most strongly, cross these, and repeat for many generations.
+
+**How is human insulin made by genetic modification?**
+The insulin gene is cut out with a restriction enzyme, a plasmid is cut with the same enzyme, ligase joins them, the recombinant plasmid is put into bacteria, and the bacteria are grown in a fermenter to make insulin.
 
 ## Official syllabus
 

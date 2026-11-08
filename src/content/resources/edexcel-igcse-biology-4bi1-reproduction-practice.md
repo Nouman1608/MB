@@ -189,6 +189,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-biology-4b
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover sub-topic 3(a), Reproduction, in flowering plants and humans, including germination, cuttings, the menstrual cycle and the placenta.
+
+**What is the difference between pollination and fertilisation?**
+Pollination is the transfer of pollen to a stigma; fertilisation is the fusion of the male and female gamete nuclei. Confusing the two is a common error.
+
+**How should you describe a structure's adaptation?**
+Give the feature and explain how it adapts the structure for its job, not just the job itself.
+
+**What should you write instead of "same conditions"?**
+Name the specific variables that were kept the same, such as temperature, light or volume of water.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Topic 3, Reproduction and inheritance, sub-topic (a) Reproduction.
