@@ -29,7 +29,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Poetry and Unseen Texts**, examined on Paper 2a, in
@@ -128,6 +128,18 @@ from the text actually provided. Naming a poetic device without
 explaining its effect on meaning or the reader. Running out of time on
 the anthology question because equal time was not planned across the
 paper's sections.
+
+## Frequently asked questions
+
+**How long is 9275 Paper 2a?**
+2 hours 15 minutes for 90 marks and 60% of the International GCSE, open book.
+
+**What are the three sections?**
+Section A the People and Places anthology (one question from two), Section B an unseen poem and Section C an unseen prose passage, 30 marks each.
+
+**Who takes Paper 2a?**
+Route A candidates; Route B candidates take the shorter Paper 2b plus a non-exam assessment.
+
 
 ## Quick revision checklist
 
