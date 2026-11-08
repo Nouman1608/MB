@@ -230,6 +230,20 @@ A cautious reader tests the assumption. If orders are 25% lower, they fall to 90
 - Saying a business plan guarantees finance or success.
 - Using "international" and "multinational" as if they meant the same thing.
 
+## Frequently asked questions
+
+**What are the four factors of production in Cambridge 9609 Business?**
+Land, labour, capital and enterprise. The syllabus describes enterprise as the ability to seek out and successfully develop business opportunities.
+
+**What is an intrapreneur?**
+An intrapreneur behaves in an entrepreneurial way inside an existing business, driving new products, processes or ventures, while the employer bears the financial risk.
+
+**Does a business plan guarantee finance or success?**
+No. A business plan forces careful thinking and can help persuade lenders, but its forecasts rest on assumptions that may be wrong and it can go out of date.
+
+**Why do businesses fail?**
+Common causes are weak planning, too little finance or poor cash control, costs above revenue, strong competition and failing to respond to change. In an exam, link the cause to figures from the case.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), section 1.1.

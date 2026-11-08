@@ -258,6 +258,20 @@ For case studies, quote at least one figure or fact in every developed paragraph
 - Saying a business plan guarantees success or a loan.
 - Using "international" and "multinational" interchangeably.
 
+## Frequently asked questions
+
+**What is the difference between an international and a multinational business?**
+An international business sells in more than one country, often by exporting. A multinational owns and runs operations, such as factories or shops, in more than one country.
+
+**What is the difference between risk and uncertainty?**
+Risk has outcomes whose likelihood can be estimated, for example from past data. Uncertainty has outcomes that cannot be reliably predicted, so no probability can be put on them.
+
+**Why is value added not the same as profit?**
+Value added is the selling price minus the cost of bought-in materials and services. Wages, rent and other overheads must still be paid out of it, so profit is lower.
+
+**What are the barriers to entrepreneurship?**
+Common barriers include difficulty raising finance, lack of skills or experience, regulation and the cost of complying, competition from established firms, and fear of failure.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), section 1.1.

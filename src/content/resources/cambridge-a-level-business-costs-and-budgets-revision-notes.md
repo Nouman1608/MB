@@ -256,6 +256,20 @@ Numbers alone earn little in a case study. After a calculation, say what it mean
 - Listing benefits of budgets without any drawbacks when asked to evaluate.
 - Accepting a special order on the numbers alone with no mention of non-financial factors.
 
+## Frequently asked questions
+
+**How do you calculate break-even output?**
+Divide fixed costs by contribution per unit, where contribution per unit is the selling price minus the variable cost per unit. The Cambridge 9609 syllabus gives no formulas for 5.4 and 5.5, so this is the standard form.
+
+**What is the difference between contribution and profit?**
+Contribution is selling price minus variable cost; it goes towards paying fixed costs. Profit is what is left after the fixed costs have been covered.
+
+**What is the difference between incremental, flexible and zero budgeting?**
+Incremental budgeting adds or subtracts a percentage from last period's budget. Flexible budgeting adjusts variable items to actual output. Zero budgeting starts from nothing and every item must be justified.
+
+**Can a cost be both fixed and direct?**
+Yes. Fixed and variable describe how a cost behaves as output changes, while direct and indirect describe whether it can be traced to one product, so the two classifications overlap.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), sections 5.4 and 5.5.

@@ -262,6 +262,20 @@ Check: 5,500 + 2,400 − 900 + 600 = £7,600.
 - Giving a variance with no label.
 - Comparing actual costs with an unflexed budget when volume has changed.
 
+## Frequently asked questions
+
+**What is the difference between full costing and contribution costing?**
+Full costing, also called absorption costing, shares all fixed costs between products to give a profit per unit. Contribution costing looks only at variable costs and deducts fixed costs in total.
+
+**When should a business accept a special order below full cost?**
+On financial grounds, it can accept if the price is above variable cost and it has spare capacity, because the order adds contribution. Non-financial factors, such as the reaction of regular customers, also need weighing.
+
+**What are the limitations of break-even analysis?**
+It assumes all output is sold, that price and variable cost per unit stay constant, and that fixed costs do not step up, and it is based on forecasts for a single product.
+
+**What is the difference between a favourable and an adverse variance?**
+A favourable variance increases profit, such as revenue above budget or costs below budget. An adverse variance reduces profit, such as revenue below budget or costs above budget.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), sections 5.4 and 5.5.

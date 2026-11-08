@@ -280,6 +280,20 @@ Crisis management is the way a business handles a crisis once it occurs: forming
 
 Recap with the [revision notes](/resources/cambridge-a-level-business-business-strategy-revision-notes/), test yourself with the [practice questions](/resources/cambridge-a-level-business-business-strategy-practice/), and take the [free diagnostics](/diagnostics/). To go further, [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Cambridge 9609 paper tests business strategy?**
+Section 6.2 Business strategy is A Level content. Paper 4 asks two essay questions, both expecting evaluation, so each strategic tool should be judged as well as explained.
+
+**What is a core competence?**
+A core competence is something a business does especially well that gives it an advantage: it provides access to many markets, adds to the benefits customers perceive, and is hard for rivals to copy.
+
+**What is blue ocean strategy?**
+Blue ocean strategy means creating a new, uncontested market space instead of competing head-on with rivals. Its usual actions are to eliminate, reduce, raise and create features to offer new value.
+
+**How does corporate culture affect strategic decisions?**
+Culture shapes attitude to risk, how widely managers consult and which options are ruled out on ethical grounds. A strategy that conflicts with the culture may fail, because culture is slow to change.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), section 6.2.

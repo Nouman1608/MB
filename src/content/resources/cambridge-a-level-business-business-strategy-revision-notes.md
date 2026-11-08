@@ -267,6 +267,20 @@ Vision, inspiration, intellectual challenge, attention to individuals, role-mode
 
 Work through the [practice questions](/resources/cambridge-a-level-business-business-strategy-practice/), re-read the [study guide](/resources/cambridge-a-level-business-business-strategy/) and take the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between PEST and SWOT?**
+PEST scans only factors outside the business: political, economic, social and technological. SWOT covers both inside the business (strengths and weaknesses) and outside it (opportunities and threats).
+
+**What is the difference between contingency planning and crisis management?**
+A contingency plan is prepared before a specific serious event that may happen. Crisis management is how the business handles a crisis once it is under way, to limit damage and recover.
+
+**Why do employees resist strategic change?**
+Common reasons are fear of job loss, extra work, loss of status or skills, and fear of the unknown. Managers can reduce resistance by explaining the reasons, involving staff, training and setting milestones.
+
+**Which Ansoff strategy is usually the riskiest?**
+Diversification, which means selling new products in new markets, because the business moves furthest away from what it knows.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), section 6.2.

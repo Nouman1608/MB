@@ -143,6 +143,20 @@ These questions cover sections 5.4 Costs and 5.5 Budgets of the Cambridge Intern
 - Try the [free diagnostics](/diagnostics/).
 - Book a free trial class on the [trial page](/trial/).
 
+## Frequently asked questions
+
+**Which sections of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 5.4 Costs and section 5.5 Budgets, including cost classifications, costing methods, break-even and variance analysis.
+
+**What is the most common mistake in break-even calculations?**
+Dividing fixed costs by the price instead of by the contribution per unit. Also state the unit, such as passengers or products, in the answer.
+
+**How do you label a budget variance?**
+Always say whether it is adverse or favourable, judged by its effect on profit rather than by its sign. A variance figure with no label loses marks.
+
+**What is a flexed budget?**
+A flexed budget adjusts the original budget to the actual level of output, so variable costs are scaled to output while fixed costs are left alone. This makes the comparison with actual results fairer.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), sections 5.4 and 5.5.
