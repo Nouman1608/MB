@@ -52,3 +52,4 @@ Not done (and why): no AP keywords in ads (prohibited); no hreflang/translations
 - Physics numbering follows the CEDs: Physics 2 Units 9–15; Physics C: E&M Units 8–13.
 - Statistics uses only the revised 2026–27 five-unit framework; past Statistics exam papers before May 2027 follow the old nine-unit course (some removed topics), which is noted in the Papers 2025 folder README.
 - The Chemistry course-overview PDF on AP Central still shows the old unit titles; the CED and course page (used here) show the current ones.
+- English Language and English Literature (added 8 Nov 2026): the CEDs have no numbered topics, so the topics are Marlbridge groupings of the CED skills and essential knowledge statements (`cedRefs` in `frameworks.ts`), and English Language's unit titles are Marlbridge descriptions. Every place that shows them must keep them distinct from official numbering. Computer Science Principles uses its five big ideas as Units 1–5.

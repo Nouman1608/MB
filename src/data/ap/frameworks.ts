@@ -7,6 +7,13 @@
  * multiple-choice weightings published on each course page. Exam formats are from each
  * course's "The Exam" page and the 2026-27 clarifications PDFs (see ./sources.ts).
  *
+ * Exception (topicSource: 'marlbridge'): the two English CEDs number their units but
+ * have no numbered topics (English Language does not title its units either). For those
+ * courses the topics, and the English Language unit titles, are Marlbridge groupings of
+ * the CED's skills and essential knowledge statements; each topic's `cedRefs` lists the
+ * CED codes it groups, so a topic number like "3.2" is a Marlbridge number, never an
+ * official one. Computer Science Principles uses the CED's five big ideas as Units 1-5.
+ *
  * This file is reference data for Marlbridge's own original learning resources. It holds
  * structure only (numbers, titles, weightings, formats) -- never College Board question
  * text. Change it only from a re-checked official source, and update `checkedOn`.
@@ -15,7 +22,14 @@
  * College Board. See docs/ap-library/editorial-integration-note.md before using any of
  * them in public titles, URLs, metadata or promotion.
  */
-export interface ApTopic { number: string; title: string; /** Calculus only: BC-only topic. */ bcOnly?: boolean }
+export interface ApTopic {
+  number: string;
+  title: string;
+  /** Calculus only: BC-only topic. */
+  bcOnly?: boolean;
+  /** Courses with topicSource 'marlbridge' only: the CED skill / essential-knowledge codes this topic groups. */
+  cedRefs?: readonly string[];
+}
 export interface ApUnit { number: number; title: string; /** Multiple-choice exam weighting, as published. */ weighting: string; bcOnly?: boolean; topics: readonly ApTopic[] }
 export interface ApExamSection { name: string; questions: string; time: string; weight: string; detail?: readonly string[] }
 export interface ApPractice { number: string; name: string; description: string }
@@ -28,7 +42,7 @@ export interface ApCourse {
   officialName: string;
   /** Existing Marlbridge subject hubs this course is listed under. */
   subjectHubs: readonly string[];
-  family: 'chemistry' | 'biology' | 'physics' | 'maths' | 'economics';
+  family: 'chemistry' | 'biology' | 'physics' | 'maths' | 'economics' | 'computing' | 'english';
   /** Official May 2027 exam date (ISO). */
   examDate: string;
   examMode: string;
@@ -40,6 +54,12 @@ export interface ApCourse {
   prerequisiteNote: string;
   labRequirement?: string;
   unitNumbering?: string;
+  /** 'ced' (default): topic numbers and titles are the CED's own. 'marlbridge': the CED has no numbered topics; see the header note. */
+  topicSource?: 'ced' | 'marlbridge';
+  /** 'ced' (default) or 'marlbridge' when the CED leaves units untitled (English Language). */
+  unitTitleSource?: 'ced' | 'marlbridge';
+  /** Set when the exam is not weighted unit by unit; replaces "Weightings are the official multiple-choice ranges". */
+  unitWeightingNote?: string;
   units: readonly ApUnit[];
   cedUrl: string;
   coursePageUrl: string;
@@ -3908,6 +3928,1930 @@ export const AP_COURSES: readonly ApCourse[] = [
     "coursePageUrl": "https://apcentral.collegeboard.org/courses/ap-macroeconomics",
     "examPageUrl": "https://apcentral.collegeboard.org/courses/ap-macroeconomics/exam",
     "checkedOn": "2026-10-05",
+    "schoolYear": "2026-27",
+    "examSeries": "May 2027"
+  },
+  {
+    "slug": "computer-science-a",
+    "name": "Computer Science A",
+    "officialName": "AP Computer Science A",
+    "subjectHubs": [
+      "computer-science"
+    ],
+    "family": "computing",
+    "examDate": "2027-05-12",
+    "examMode": "Fully digital: both sections answered in the Bluebook app. The Java Quick Reference is provided in Bluebook.",
+    "sections": [
+      {
+        "name": "Section I: Multiple choice",
+        "questions": "42",
+        "time": "90 minutes",
+        "weight": "55%",
+        "detail": [
+          "Mostly individual questions, occasionally 1–2 sets of 2 questions",
+          "All five computational thinking practices are assessed"
+        ]
+      },
+      {
+        "name": "Section II: Free response",
+        "questions": "4",
+        "time": "90 minutes",
+        "weight": "45%",
+        "detail": [
+          "Question 1: Methods and Control Structures (7 points)",
+          "Question 2: Class Design (7 points)",
+          "Question 3: Data Analysis with ArrayList (5 points)",
+          "Question 4: 2D Array (6 points)",
+          "Answers are written in Java; all four questions assess Practice 2 (Develop Code)"
+        ]
+      }
+    ],
+    "calculator": "No calculator is allowed on either section. The Java Quick Reference (accessible Java library methods) is provided.",
+    "practices": [
+      {
+        "number": "1",
+        "name": "Design Code",
+        "description": "Determine an appropriate program design and develop algorithms. (2–10% of multiple choice.)"
+      },
+      {
+        "number": "2",
+        "name": "Develop Code",
+        "description": "Write and implement program code. (22–38% of multiple choice; every free-response question.)"
+      },
+      {
+        "number": "3",
+        "name": "Analyze Code",
+        "description": "Determine the output or result of given program code or explain why code may not work as intended. (37–53% of multiple choice.)"
+      },
+      {
+        "number": "4",
+        "name": "Document Code and Computing Systems",
+        "description": "Describe the behavior and conditions that produce specified results in a program. (10–15% of multiple choice.)"
+      },
+      {
+        "number": "5",
+        "name": "Use Computers Responsibly",
+        "description": "Understand the ethical and social implications of computer use. (2–10% of multiple choice.)"
+      }
+    ],
+    "clarifications": "The clarifications document (implemented August 2025) is editorial: front matter, plus forthcoming updates to resource links and Progress Check wording. No change to units, topics or the exam is listed.",
+    "prerequisiteNote": "A first-year high-school algebra course with a strong foundation in linear functions, composition of functions and problem solving, and the ability to use a Cartesian (x, y) coordinate system, per the CED. Programs are written in Java (the exam covers a subset of the language).",
+    "labRequirement": "The CED requires at least 20 hours of hands-on, structured lab work in which students design, write, test and correct programs.",
+    "units": [
+      {
+        "number": 1,
+        "title": "Using Objects and Methods",
+        "weighting": "15–25%",
+        "topics": [
+          {
+            "number": "1.1",
+            "title": "Introduction to Algorithms, Programming, and Compilers"
+          },
+          {
+            "number": "1.2",
+            "title": "Variables and Data Types"
+          },
+          {
+            "number": "1.3",
+            "title": "Expressions and Output"
+          },
+          {
+            "number": "1.4",
+            "title": "Assignment Statements and Input"
+          },
+          {
+            "number": "1.5",
+            "title": "Casting and Range of Variables"
+          },
+          {
+            "number": "1.6",
+            "title": "Compound Assignment Operators"
+          },
+          {
+            "number": "1.7",
+            "title": "Application Program Interface (API) and Libraries"
+          },
+          {
+            "number": "1.8",
+            "title": "Documentation with Comments"
+          },
+          {
+            "number": "1.9",
+            "title": "Method Signatures"
+          },
+          {
+            "number": "1.10",
+            "title": "Calling Class Methods"
+          },
+          {
+            "number": "1.11",
+            "title": "Math Class"
+          },
+          {
+            "number": "1.12",
+            "title": "Objects: Instances of Classes"
+          },
+          {
+            "number": "1.13",
+            "title": "Object Creation and Storage (Instantiation)"
+          },
+          {
+            "number": "1.14",
+            "title": "Calling Instance Methods"
+          },
+          {
+            "number": "1.15",
+            "title": "String Manipulation"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Selection and Iteration",
+        "weighting": "25–35%",
+        "topics": [
+          {
+            "number": "2.1",
+            "title": "Algorithms with Selection and Repetition"
+          },
+          {
+            "number": "2.2",
+            "title": "Boolean Expressions"
+          },
+          {
+            "number": "2.3",
+            "title": "if Statements"
+          },
+          {
+            "number": "2.4",
+            "title": "Nested if Statements"
+          },
+          {
+            "number": "2.5",
+            "title": "Compound Boolean Expressions"
+          },
+          {
+            "number": "2.6",
+            "title": "Comparing Boolean Expressions"
+          },
+          {
+            "number": "2.7",
+            "title": "while Loops"
+          },
+          {
+            "number": "2.8",
+            "title": "for Loops"
+          },
+          {
+            "number": "2.9",
+            "title": "Implementing Selection and Iteration Algorithms"
+          },
+          {
+            "number": "2.10",
+            "title": "Implementing String Algorithms"
+          },
+          {
+            "number": "2.11",
+            "title": "Nested Iteration"
+          },
+          {
+            "number": "2.12",
+            "title": "Informal Run-Time Analysis"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Class Creation",
+        "weighting": "10–18%",
+        "topics": [
+          {
+            "number": "3.1",
+            "title": "Abstraction and Program Design"
+          },
+          {
+            "number": "3.2",
+            "title": "Impact of Program Design"
+          },
+          {
+            "number": "3.3",
+            "title": "Anatomy of a Class"
+          },
+          {
+            "number": "3.4",
+            "title": "Constructors"
+          },
+          {
+            "number": "3.5",
+            "title": "Methods: How to Write Them"
+          },
+          {
+            "number": "3.6",
+            "title": "Methods: Passing and Returning References of an Object"
+          },
+          {
+            "number": "3.7",
+            "title": "Class Variables and Methods"
+          },
+          {
+            "number": "3.8",
+            "title": "Scope and Access"
+          },
+          {
+            "number": "3.9",
+            "title": "this Keyword"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Data Collections",
+        "weighting": "30–40%",
+        "topics": [
+          {
+            "number": "4.1",
+            "title": "Ethical and Social Issues Around Data Collection"
+          },
+          {
+            "number": "4.2",
+            "title": "Introduction to Using Data Sets"
+          },
+          {
+            "number": "4.3",
+            "title": "Array Creation and Access"
+          },
+          {
+            "number": "4.4",
+            "title": "Array Traversals"
+          },
+          {
+            "number": "4.5",
+            "title": "Implementing Array Algorithms"
+          },
+          {
+            "number": "4.6",
+            "title": "Using Text Files"
+          },
+          {
+            "number": "4.7",
+            "title": "Wrapper Classes"
+          },
+          {
+            "number": "4.8",
+            "title": "ArrayList Methods"
+          },
+          {
+            "number": "4.9",
+            "title": "ArrayList Traversals"
+          },
+          {
+            "number": "4.10",
+            "title": "Implementing ArrayList Algorithms"
+          },
+          {
+            "number": "4.11",
+            "title": "2D Array Creation and Access"
+          },
+          {
+            "number": "4.12",
+            "title": "2D Array Traversals"
+          },
+          {
+            "number": "4.13",
+            "title": "Implementing 2D Array Algorithms"
+          },
+          {
+            "number": "4.14",
+            "title": "Searching Algorithms"
+          },
+          {
+            "number": "4.15",
+            "title": "Sorting Algorithms"
+          },
+          {
+            "number": "4.16",
+            "title": "Recursion"
+          },
+          {
+            "number": "4.17",
+            "title": "Recursive Searching and Sorting"
+          }
+        ]
+      }
+    ],
+    "cedUrl": "https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description.pdf",
+    "coursePageUrl": "https://apcentral.collegeboard.org/courses/ap-computer-science-a",
+    "examPageUrl": "https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam",
+    "checkedOn": "2026-11-08",
+    "schoolYear": "2026-27",
+    "examSeries": "May 2027"
+  },
+  {
+    "slug": "computer-science-principles",
+    "name": "Computer Science Principles",
+    "officialName": "AP Computer Science Principles",
+    "subjectHubs": [
+      "computer-science"
+    ],
+    "family": "computing",
+    "examDate": "2027-05-14",
+    "examMode": "Through-course and end-of-course: the Create performance task (program code, video and Personalized Project Reference) is completed in class and submitted in the AP Digital Portfolio by 30 April 2027, 11:59 p.m. ET; the end-of-course exam is fully digital in the Bluebook app.",
+    "sections": [
+      {
+        "name": "Section I: Multiple choice",
+        "questions": "70",
+        "time": "120 minutes",
+        "weight": "70%",
+        "detail": [
+          "57 single-select questions",
+          "5 single-select questions on a reading passage about a computing innovation",
+          "8 multiple-select questions (select 2 answers)",
+          "4 answer options; the Exam Reference Sheet is provided"
+        ]
+      },
+      {
+        "name": "Section II: Create performance task",
+        "questions": "2",
+        "time": "60 minutes on exam day, after at least 9 hours of in-class work on the task",
+        "weight": "30%",
+        "detail": [
+          "Program code, video and Personalized Project Reference submitted by 30 April 2027",
+          "2 written-response questions (4 prompts: 1, 2(a), 2(b), 2(c)) about the student’s own program, answered with the Personalized Project Reference"
+        ]
+      }
+    ],
+    "calculator": "No calculator is allowed. The Exam Reference Sheet (block-based and text-based programming constructs) is provided.",
+    "practices": [
+      {
+        "number": "1",
+        "name": "Computational Solution Design",
+        "description": "Design and evaluate computational solutions for a purpose. (18–25% of multiple choice.)"
+      },
+      {
+        "number": "2",
+        "name": "Algorithms and Program Development",
+        "description": "Develop and implement algorithms. (20–28% of multiple choice.)"
+      },
+      {
+        "number": "3",
+        "name": "Abstraction in Program Development",
+        "description": "Develop programs that incorporate abstractions. (7–12% of multiple choice.)"
+      },
+      {
+        "number": "4",
+        "name": "Code Analysis",
+        "description": "Evaluate and test algorithms and programs. (12–19% of multiple choice.)"
+      },
+      {
+        "number": "5",
+        "name": "Computing Innovations",
+        "description": "Investigate computing innovations. (28–33% of multiple choice.)"
+      },
+      {
+        "number": "6",
+        "name": "Responsible Computing",
+        "description": "Contribute to an inclusive, safe, collaborative, and ethical computing culture. (Not assessed in multiple choice.)"
+      }
+    ],
+    "clarifications": "The clarifications document (implemented August 2025) is editorial (front matter only), and none are forthcoming. No change to big ideas, topics or the exam is listed. The CED in use is the Fall 2023 edition.",
+    "prerequisiteNote": "A first-year high-school algebra course with a strong foundation in linear functions, composition of functions and problem solving, and the ability to use a Cartesian (x, y) coordinate system, per the CED. No prior computer science experience is required, and the course has no set programming language.",
+    "unitNumbering": "Units 1–5 (the CED's five big ideas: CRD, DAT, AAP, CSN and IOC; topic numbers are the CED's own)",
+    "units": [
+      {
+        "number": 1,
+        "title": "Creative Development (CRD)",
+        "weighting": "10–13%",
+        "topics": [
+          {
+            "number": "1.1",
+            "title": "Collaboration"
+          },
+          {
+            "number": "1.2",
+            "title": "Program Function and Purpose"
+          },
+          {
+            "number": "1.3",
+            "title": "Program Design and Development"
+          },
+          {
+            "number": "1.4",
+            "title": "Identifying and Correcting Errors"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Data (DAT)",
+        "weighting": "17–22%",
+        "topics": [
+          {
+            "number": "2.1",
+            "title": "Binary Numbers"
+          },
+          {
+            "number": "2.2",
+            "title": "Data Compression"
+          },
+          {
+            "number": "2.3",
+            "title": "Extracting Information from Data"
+          },
+          {
+            "number": "2.4",
+            "title": "Using Programs with Data"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Algorithms and Programming (AAP)",
+        "weighting": "30–35%",
+        "topics": [
+          {
+            "number": "3.1",
+            "title": "Variables and Assignments"
+          },
+          {
+            "number": "3.2",
+            "title": "Data Abstraction"
+          },
+          {
+            "number": "3.3",
+            "title": "Mathematical Expressions"
+          },
+          {
+            "number": "3.4",
+            "title": "Strings"
+          },
+          {
+            "number": "3.5",
+            "title": "Boolean Expressions"
+          },
+          {
+            "number": "3.6",
+            "title": "Conditionals"
+          },
+          {
+            "number": "3.7",
+            "title": "Nested Conditionals"
+          },
+          {
+            "number": "3.8",
+            "title": "Iteration"
+          },
+          {
+            "number": "3.9",
+            "title": "Developing Algorithms"
+          },
+          {
+            "number": "3.10",
+            "title": "Lists"
+          },
+          {
+            "number": "3.11",
+            "title": "Binary Search"
+          },
+          {
+            "number": "3.12",
+            "title": "Calling Procedures"
+          },
+          {
+            "number": "3.13",
+            "title": "Developing Procedures"
+          },
+          {
+            "number": "3.14",
+            "title": "Libraries"
+          },
+          {
+            "number": "3.15",
+            "title": "Random Values"
+          },
+          {
+            "number": "3.16",
+            "title": "Simulations"
+          },
+          {
+            "number": "3.17",
+            "title": "Algorithmic Efficiency"
+          },
+          {
+            "number": "3.18",
+            "title": "Undecidable Problems"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Computer Systems and Networks (CSN)",
+        "weighting": "11–15%",
+        "topics": [
+          {
+            "number": "4.1",
+            "title": "The Internet"
+          },
+          {
+            "number": "4.2",
+            "title": "Fault Tolerance"
+          },
+          {
+            "number": "4.3",
+            "title": "Parallel and Distributed Computing"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Impact of Computing (IOC)",
+        "weighting": "21–26%",
+        "topics": [
+          {
+            "number": "5.1",
+            "title": "Beneficial and Harmful Effects"
+          },
+          {
+            "number": "5.2",
+            "title": "Digital Divide"
+          },
+          {
+            "number": "5.3",
+            "title": "Computing Bias"
+          },
+          {
+            "number": "5.4",
+            "title": "Crowdsourcing"
+          },
+          {
+            "number": "5.5",
+            "title": "Legal and Ethical Concerns"
+          },
+          {
+            "number": "5.6",
+            "title": "Safe Computing"
+          }
+        ]
+      }
+    ],
+    "cedUrl": "https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-course-and-exam-description.pdf",
+    "coursePageUrl": "https://apcentral.collegeboard.org/courses/ap-computer-science-principles",
+    "examPageUrl": "https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam",
+    "checkedOn": "2026-11-08",
+    "schoolYear": "2026-27",
+    "examSeries": "May 2027"
+  },
+  {
+    "slug": "english-language-and-composition",
+    "name": "English Language and Composition",
+    "officialName": "AP English Language and Composition",
+    "subjectHubs": [
+      "english"
+    ],
+    "family": "english",
+    "examDate": "2027-05-12",
+    "examMode": "Fully digital: multiple-choice and free-response (essays) both answered in the Bluebook app.",
+    "sections": [
+      {
+        "name": "Section I: Multiple choice",
+        "questions": "45",
+        "time": "60 minutes",
+        "weight": "45%",
+        "detail": [
+          "5 question sets",
+          "23–25 reading questions on nonfiction texts",
+          "20–22 writing questions on revising draft texts"
+        ]
+      },
+      {
+        "name": "Section II: Free response",
+        "questions": "3",
+        "time": "2 hours 15 minutes (includes a 15-minute reading period)",
+        "weight": "55%",
+        "detail": [
+          "Question 1: Synthesis (6 points), using at least 3 of 6 sources",
+          "Question 2: Rhetorical Analysis (6 points)",
+          "Question 3: Argument (6 points)",
+          "About 40 minutes recommended per essay"
+        ]
+      }
+    ],
+    "calculator": "No calculator is used on this exam.",
+    "practices": [
+      {
+        "number": "1",
+        "name": "Rhetorical Situation: Reading",
+        "description": "Explain how writers’ choices reflect the components of the rhetorical situation. (11–14% of multiple choice.)"
+      },
+      {
+        "number": "2",
+        "name": "Rhetorical Situation: Writing",
+        "description": "Make strategic choices in a text to address a rhetorical situation. (11–14% of multiple choice.)"
+      },
+      {
+        "number": "3",
+        "name": "Claims and Evidence: Reading",
+        "description": "Identify and describe the claims and evidence of an argument. (13–16% of multiple choice.)"
+      },
+      {
+        "number": "4",
+        "name": "Claims and Evidence: Writing",
+        "description": "Analyze and select evidence to develop and refine a claim. (11–14% of multiple choice.)"
+      },
+      {
+        "number": "5",
+        "name": "Reasoning and Organization: Reading",
+        "description": "Describe the reasoning, organization, and development of an argument. (13–16% of multiple choice.)"
+      },
+      {
+        "number": "6",
+        "name": "Reasoning and Organization: Writing",
+        "description": "Use organization and commentary to illuminate the line of reasoning in an argument. (11–14% of multiple choice.)"
+      },
+      {
+        "number": "7",
+        "name": "Style: Reading",
+        "description": "Explain how writers’ stylistic choices contribute to the purpose of an argument. (11–14% of multiple choice.)"
+      },
+      {
+        "number": "8",
+        "name": "Style: Writing",
+        "description": "Select words and use elements of composition to advance an argument. (11–14% of multiple choice.)"
+      }
+    ],
+    "clarifications": "The clarifications document (implemented June 2025) is editorial: front matter, an updated list of speechmakers, removal of named example authors and texts, and forthcoming updates to resource links and Progress Check wording. No change to units, skills or the exam is listed.",
+    "prerequisiteNote": "No prerequisite courses. Students should be able to read and understand college-level texts and express themselves clearly in writing, per the CED.",
+    "unitNumbering": "Units 1–9 (the CED numbers the units but gives them no titles or topic numbers; unit titles and topics here are Marlbridge groupings of the CED’s skills and essential knowledge statements)",
+    "topicSource": "marlbridge",
+    "unitTitleSource": "marlbridge",
+    "unitWeightingNote": "The exam is not weighted by unit: the official multiple-choice weightings are by skill category (shown under Course skills).",
+    "units": [
+      {
+        "number": 1,
+        "title": "Claims, Evidence and the Rhetorical Situation",
+        "weighting": "Not weighted by unit",
+        "topics": [
+          {
+            "number": "1.1",
+            "title": "The rhetorical situation",
+            "cedRefs": [
+              "1.A",
+              "RHS-1.A"
+            ]
+          },
+          {
+            "number": "1.2",
+            "title": "Exigence and purpose",
+            "cedRefs": [
+              "1.A",
+              "RHS-1.B",
+              "RHS-1.C"
+            ]
+          },
+          {
+            "number": "1.3",
+            "title": "Audience and context",
+            "cedRefs": [
+              "1.A",
+              "RHS-1.D",
+              "RHS-1.E"
+            ]
+          },
+          {
+            "number": "1.4",
+            "title": "Claims that need a defence",
+            "cedRefs": [
+              "3.A",
+              "CLE-1.A",
+              "CLE-1.D"
+            ]
+          },
+          {
+            "number": "1.5",
+            "title": "Evidence and its types",
+            "cedRefs": [
+              "3.A",
+              "CLE-1.B",
+              "CLE-1.C"
+            ]
+          },
+          {
+            "number": "1.6",
+            "title": "Writing a paragraph with a claim and evidence",
+            "cedRefs": [
+              "4.A",
+              "CLE-1.E"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Audience, Appeals and the Thesis",
+        "weighting": "Not weighted by unit",
+        "topics": [
+          {
+            "number": "2.1",
+            "title": "Writing for an audience’s beliefs, values and needs",
+            "cedRefs": [
+              "1.B",
+              "2.B",
+              "RHS-1.F"
+            ]
+          },
+          {
+            "number": "2.2",
+            "title": "Relating to an audience’s emotions and values",
+            "cedRefs": [
+              "1.B",
+              "2.B",
+              "RHS-1.G"
+            ]
+          },
+          {
+            "number": "2.3",
+            "title": "Appeals: the modes of persuasion",
+            "cedRefs": [
+              "1.B",
+              "2.B",
+              "RHS-1.H"
+            ]
+          },
+          {
+            "number": "2.4",
+            "title": "Choosing evidence strategically",
+            "cedRefs": [
+              "3.A",
+              "4.A",
+              "CLE-1.F",
+              "CLE-1.G"
+            ]
+          },
+          {
+            "number": "2.5",
+            "title": "Sufficient evidence",
+            "cedRefs": [
+              "3.A",
+              "4.A",
+              "CLE-1.H"
+            ]
+          },
+          {
+            "number": "2.6",
+            "title": "Identifying the thesis of an argument",
+            "cedRefs": [
+              "3.B",
+              "CLE-1.I",
+              "CLE-1.J"
+            ]
+          },
+          {
+            "number": "2.7",
+            "title": "Writing a defensible thesis statement",
+            "cedRefs": [
+              "4.B",
+              "CLE-1.I",
+              "CLE-1.J"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Commentary, Line of Reasoning and Methods of Development",
+        "weighting": "Not weighted by unit",
+        "topics": [
+          {
+            "number": "3.1",
+            "title": "Commentary that links evidence to a claim",
+            "cedRefs": [
+              "3.A",
+              "4.A",
+              "CLE-1.K",
+              "CLE-1.L"
+            ]
+          },
+          {
+            "number": "3.2",
+            "title": "Synthesis and acknowledging sources",
+            "cedRefs": [
+              "3.A",
+              "4.A",
+              "CLE-1.M",
+              "CLE-1.N"
+            ]
+          },
+          {
+            "number": "3.3",
+            "title": "Following and building a line of reasoning",
+            "cedRefs": [
+              "5.A",
+              "6.A",
+              "REO-1.A",
+              "REO-1.B",
+              "REO-1.E"
+            ]
+          },
+          {
+            "number": "3.4",
+            "title": "Commentary across a whole argument",
+            "cedRefs": [
+              "5.A",
+              "6.A",
+              "REO-1.C",
+              "REO-1.D"
+            ]
+          },
+          {
+            "number": "3.5",
+            "title": "Flaws in a line of reasoning",
+            "cedRefs": [
+              "5.A",
+              "6.A",
+              "REO-1.F"
+            ]
+          },
+          {
+            "number": "3.6",
+            "title": "Methods of development",
+            "cedRefs": [
+              "5.C",
+              "6.C",
+              "REO-1.G",
+              "REO-1.H"
+            ]
+          },
+          {
+            "number": "3.7",
+            "title": "Developing ideas through narration and cause-effect",
+            "cedRefs": [
+              "5.C",
+              "6.C",
+              "REO-1.I",
+              "REO-1.J"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Introductions, Conclusions and Further Methods of Development",
+        "weighting": "Not weighted by unit",
+        "topics": [
+          {
+            "number": "4.1",
+            "title": "Introductions",
+            "cedRefs": [
+              "1.A",
+              "2.A",
+              "RHS-1.I"
+            ]
+          },
+          {
+            "number": "4.2",
+            "title": "Conclusions",
+            "cedRefs": [
+              "1.A",
+              "2.A",
+              "RHS-1.J"
+            ]
+          },
+          {
+            "number": "4.3",
+            "title": "Thesis statements that preview the line of reasoning",
+            "cedRefs": [
+              "3.B",
+              "4.B",
+              "CLE-1.O"
+            ]
+          },
+          {
+            "number": "4.4",
+            "title": "Developing ideas through comparison-contrast",
+            "cedRefs": [
+              "5.C",
+              "6.C",
+              "REO-1.G",
+              "REO-1.K"
+            ]
+          },
+          {
+            "number": "4.5",
+            "title": "Developing ideas through definition and description",
+            "cedRefs": [
+              "5.C",
+              "6.C",
+              "REO-1.G",
+              "REO-1.L"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Coherence, Transitions and Word Choice",
+        "weighting": "Not weighted by unit",
+        "topics": [
+          {
+            "number": "5.1",
+            "title": "Body paragraphs and the line of reasoning",
+            "cedRefs": [
+              "5.A",
+              "6.A",
+              "REO-1.M"
+            ]
+          },
+          {
+            "number": "5.2",
+            "title": "Unity and coherence",
+            "cedRefs": [
+              "5.B",
+              "6.B",
+              "REO-1.N"
+            ]
+          },
+          {
+            "number": "5.3",
+            "title": "Repetition, synonyms, pronouns and parallel structure",
+            "cedRefs": [
+              "5.B",
+              "6.B",
+              "REO-1.O"
+            ]
+          },
+          {
+            "number": "5.4",
+            "title": "Transitional elements",
+            "cedRefs": [
+              "5.B",
+              "6.B",
+              "REO-1.P",
+              "REO-1.Q"
+            ]
+          },
+          {
+            "number": "5.5",
+            "title": "Connotation and denotation",
+            "cedRefs": [
+              "7.A",
+              "8.A",
+              "STL-1.A"
+            ]
+          },
+          {
+            "number": "5.6",
+            "title": "Descriptive words and precise word choice",
+            "cedRefs": [
+              "7.A",
+              "8.A",
+              "STL-1.B",
+              "STL-1.C"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Sources, Bias and Tone",
+        "weighting": "Not weighted by unit",
+        "topics": [
+          {
+            "number": "6.1",
+            "title": "Synthesising material from several sources",
+            "cedRefs": [
+              "3.A",
+              "4.A",
+              "CLE-1.P",
+              "CLE-1.Q"
+            ]
+          },
+          {
+            "number": "6.2",
+            "title": "Position and perspective",
+            "cedRefs": [
+              "3.A",
+              "4.A",
+              "CLE-1.R"
+            ]
+          },
+          {
+            "number": "6.3",
+            "title": "Bias and limitations in sources",
+            "cedRefs": [
+              "3.A",
+              "4.A",
+              "CLE-1.S",
+              "CLE-1.T"
+            ]
+          },
+          {
+            "number": "6.4",
+            "title": "Revising a thesis for new evidence",
+            "cedRefs": [
+              "3.B",
+              "4.B",
+              "CLE-1.U"
+            ]
+          },
+          {
+            "number": "6.5",
+            "title": "Tone and connotation",
+            "cedRefs": [
+              "7.A",
+              "8.A",
+              "STL-1.D",
+              "STL-1.E"
+            ]
+          },
+          {
+            "number": "6.6",
+            "title": "Shifts in tone",
+            "cedRefs": [
+              "7.A",
+              "8.A",
+              "STL-1.F"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Qualifying Claims, Sentence Structure and Punctuation",
+        "weighting": "Not weighted by unit",
+        "topics": [
+          {
+            "number": "7.1",
+            "title": "Introductions and conclusions for a complex argument",
+            "cedRefs": [
+              "1.A",
+              "2.A",
+              "RHS-1.I",
+              "RHS-1.J"
+            ]
+          },
+          {
+            "number": "7.2",
+            "title": "Complexity and avoiding oversimplification",
+            "cedRefs": [
+              "3.C",
+              "4.C",
+              "CLE-1.V",
+              "CLE-1.W"
+            ]
+          },
+          {
+            "number": "7.3",
+            "title": "Qualifying a claim with modifiers",
+            "cedRefs": [
+              "3.C",
+              "4.C",
+              "CLE-1.X"
+            ]
+          },
+          {
+            "number": "7.4",
+            "title": "Clauses and the arrangement of sentences",
+            "cedRefs": [
+              "7.B",
+              "8.B",
+              "STL-1.G",
+              "STL-1.H",
+              "STL-1.L"
+            ]
+          },
+          {
+            "number": "7.5",
+            "title": "Coordination and subordination",
+            "cedRefs": [
+              "7.B",
+              "8.B",
+              "STL-1.I",
+              "STL-1.J",
+              "STL-1.K"
+            ]
+          },
+          {
+            "number": "7.6",
+            "title": "Grammar, mechanics and punctuation",
+            "cedRefs": [
+              "7.C",
+              "8.C",
+              "STL-1.M",
+              "STL-1.N",
+              "STL-1.O"
+            ]
+          },
+          {
+            "number": "7.7",
+            "title": "Design features for emphasis",
+            "cedRefs": [
+              "7.C",
+              "8.C",
+              "STL-1.P"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "title": "Audience, Style and Irony",
+        "weighting": "Not weighted by unit",
+        "topics": [
+          {
+            "number": "8.1",
+            "title": "Comparisons that relate to an audience",
+            "cedRefs": [
+              "1.B",
+              "2.B",
+              "RHS-1.K"
+            ]
+          },
+          {
+            "number": "8.2",
+            "title": "Diction, syntax and credibility",
+            "cedRefs": [
+              "1.B",
+              "2.B",
+              "RHS-1.L",
+              "RHS-1.M"
+            ]
+          },
+          {
+            "number": "8.3",
+            "title": "Making choices for a particular audience",
+            "cedRefs": [
+              "1.B",
+              "2.B",
+              "RHS-1.N"
+            ]
+          },
+          {
+            "number": "8.4",
+            "title": "Style",
+            "cedRefs": [
+              "7.A",
+              "8.A",
+              "STL-1.Q"
+            ]
+          },
+          {
+            "number": "8.5",
+            "title": "Irony and complex perspectives",
+            "cedRefs": [
+              "7.A",
+              "8.A",
+              "STL-1.R"
+            ]
+          },
+          {
+            "number": "8.6",
+            "title": "Modifiers and parenthetical elements",
+            "cedRefs": [
+              "7.B",
+              "8.B",
+              "STL-1.S",
+              "STL-1.T"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "title": "Counterarguments: Concession, Rebuttal and Refutation",
+        "weighting": "Not weighted by unit",
+        "topics": [
+          {
+            "number": "9.1",
+            "title": "Entering an ongoing conversation",
+            "cedRefs": [
+              "3.C",
+              "4.C",
+              "CLE-1.Y"
+            ]
+          },
+          {
+            "number": "9.2",
+            "title": "Evidence that supports, complements or contradicts a thesis",
+            "cedRefs": [
+              "3.C",
+              "4.C",
+              "CLE-1.Z"
+            ]
+          },
+          {
+            "number": "9.3",
+            "title": "Conceding",
+            "cedRefs": [
+              "3.C",
+              "4.C",
+              "CLE-1.AA",
+              "CLE-1.AB"
+            ]
+          },
+          {
+            "number": "9.4",
+            "title": "Rebutting and refuting",
+            "cedRefs": [
+              "3.C",
+              "4.C",
+              "CLE-1.AC",
+              "CLE-1.AD"
+            ]
+          },
+          {
+            "number": "9.5",
+            "title": "Introducing counterarguments, and when to address them",
+            "cedRefs": [
+              "3.C",
+              "4.C",
+              "CLE-1.AE",
+              "CLE-1.AF"
+            ]
+          }
+        ]
+      }
+    ],
+    "cedUrl": "https://apcentral.collegeboard.org/media/pdf/ap-english-language-and-composition-course-and-exam-description.pdf",
+    "coursePageUrl": "https://apcentral.collegeboard.org/courses/ap-english-language-and-composition",
+    "examPageUrl": "https://apcentral.collegeboard.org/courses/ap-english-language-and-composition/exam",
+    "checkedOn": "2026-11-08",
+    "schoolYear": "2026-27",
+    "examSeries": "May 2027"
+  },
+  {
+    "slug": "english-literature-and-composition",
+    "name": "English Literature and Composition",
+    "officialName": "AP English Literature and Composition",
+    "subjectHubs": [
+      "english-literature",
+      "english"
+    ],
+    "family": "english",
+    "examDate": "2027-05-05",
+    "examMode": "Fully digital: multiple-choice and free-response (essays) both answered in the Bluebook app.",
+    "sections": [
+      {
+        "name": "Section I: Multiple choice",
+        "questions": "55",
+        "time": "60 minutes",
+        "weight": "45%",
+        "detail": [
+          "5 sets of 8–13 questions, each on a passage of prose fiction, drama or poetry",
+          "At least 2 prose fiction passages and at least 2 poetry passages"
+        ]
+      },
+      {
+        "name": "Section II: Free response",
+        "questions": "3",
+        "time": "2 hours",
+        "weight": "55%",
+        "detail": [
+          "Question 1: Poetry Analysis (6 points)",
+          "Question 2: Prose Fiction Analysis (6 points)",
+          "Question 3: Literary Argument (6 points), on a work of fiction the student chooses",
+          "About 40 minutes recommended per essay"
+        ]
+      }
+    ],
+    "calculator": "No calculator is used on this exam.",
+    "practices": [
+      {
+        "number": "1",
+        "name": "Character",
+        "description": "Explain the function of character. (16–20% of multiple choice.)"
+      },
+      {
+        "number": "2",
+        "name": "Setting",
+        "description": "Explain the function of setting. (3–6% of multiple choice.)"
+      },
+      {
+        "number": "3",
+        "name": "Plot and Structure",
+        "description": "Explain the function of plot and structure. (16–20% of multiple choice.)"
+      },
+      {
+        "number": "4",
+        "name": "Narrator or Speaker",
+        "description": "Explain the function of the narrator or speaker. (21–26% of multiple choice.)"
+      },
+      {
+        "number": "5",
+        "name": "Word Choice, Imagery and Symbols",
+        "description": "Explain the function of word choice, imagery, and symbols. (10–13% of multiple choice.)"
+      },
+      {
+        "number": "6",
+        "name": "Comparison",
+        "description": "Explain the function of comparison. (10–13% of multiple choice.)"
+      },
+      {
+        "number": "7",
+        "name": "Literary Argumentation",
+        "description": "Develop textually substantiated arguments about interpretations of part or all of a text. (10–13% of multiple choice.)"
+      }
+    ],
+    "clarifications": "The clarifications document (implemented August 2025) is editorial: front matter, plus forthcoming updates to resource links and Progress Check wording. No change to units, skills or the exam is listed.",
+    "prerequisiteNote": "No prerequisite courses. Students should be able to read and understand college-level texts and express themselves clearly in writing, per the CED.",
+    "unitNumbering": "Units 1–9 (unit titles are the CED’s; the CED has no numbered topics, so topics here are Marlbridge groupings of the CED’s skills under its six big ideas)",
+    "topicSource": "marlbridge",
+    "unitWeightingNote": "The official multiple-choice weightings are given per genre, not per unit: Short Fiction (Units 1, 4, 7) 42–49%, Poetry (Units 2, 5, 8) 36–45%, Longer Fiction or Drama (Units 3, 6, 9) 15–18%.",
+    "units": [
+      {
+        "number": 1,
+        "title": "Short Fiction I",
+        "weighting": "42–49% (Short Fiction: Units 1, 4 and 7 together)",
+        "topics": [
+          {
+            "number": "1.1",
+            "title": "Character: what details reveal about perspective and motive",
+            "cedRefs": [
+              "CHR",
+              "1.A"
+            ]
+          },
+          {
+            "number": "1.2",
+            "title": "Setting: details that convey a time and place",
+            "cedRefs": [
+              "SET",
+              "2.A"
+            ]
+          },
+          {
+            "number": "1.3",
+            "title": "Plot: how events are ordered and why",
+            "cedRefs": [
+              "STR",
+              "3.A",
+              "3.B"
+            ]
+          },
+          {
+            "number": "1.4",
+            "title": "Narrator and point of view",
+            "cedRefs": [
+              "NAR",
+              "4.A",
+              "4.B"
+            ]
+          },
+          {
+            "number": "1.5",
+            "title": "Writing a paragraph with a claim and textual evidence",
+            "cedRefs": [
+              "LAN",
+              "7.A"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Poetry I",
+        "weighting": "36–45% (Poetry: Units 2, 5 and 8 together)",
+        "topics": [
+          {
+            "number": "2.1",
+            "title": "The speaker as a character",
+            "cedRefs": [
+              "CHR",
+              "1.A"
+            ]
+          },
+          {
+            "number": "2.2",
+            "title": "The structure of a poem",
+            "cedRefs": [
+              "STR",
+              "3.C"
+            ]
+          },
+          {
+            "number": "2.3",
+            "title": "Contrasts within a poem",
+            "cedRefs": [
+              "STR",
+              "3.D"
+            ]
+          },
+          {
+            "number": "2.4",
+            "title": "The function of specific words and phrases",
+            "cedRefs": [
+              "FIG",
+              "5.B"
+            ]
+          },
+          {
+            "number": "2.5",
+            "title": "Simile and metaphor",
+            "cedRefs": [
+              "FIG",
+              "6.A",
+              "6.B"
+            ]
+          },
+          {
+            "number": "2.6",
+            "title": "Writing a paragraph about a poem",
+            "cedRefs": [
+              "LAN",
+              "7.A"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Longer Fiction or Drama I",
+        "weighting": "15–18% (Longer Fiction or Drama: Units 3, 6 and 9 together)",
+        "topics": [
+          {
+            "number": "3.1",
+            "title": "Character in longer works",
+            "cedRefs": [
+              "CHR",
+              "1.A"
+            ]
+          },
+          {
+            "number": "3.2",
+            "title": "Characters who change or remain unchanged",
+            "cedRefs": [
+              "CHR",
+              "1.B"
+            ]
+          },
+          {
+            "number": "3.3",
+            "title": "Setting in longer works",
+            "cedRefs": [
+              "SET",
+              "2.A"
+            ]
+          },
+          {
+            "number": "3.4",
+            "title": "Significant events in a plot",
+            "cedRefs": [
+              "STR",
+              "3.E"
+            ]
+          },
+          {
+            "number": "3.5",
+            "title": "Conflict",
+            "cedRefs": [
+              "STR",
+              "3.F"
+            ]
+          },
+          {
+            "number": "3.6",
+            "title": "From claim-and-evidence paragraph to defensible thesis",
+            "cedRefs": [
+              "LAN",
+              "7.A",
+              "7.B"
+            ]
+          },
+          {
+            "number": "3.7",
+            "title": "Commentary and the line of reasoning",
+            "cedRefs": [
+              "LAN",
+              "7.C"
+            ]
+          },
+          {
+            "number": "3.8",
+            "title": "Selecting evidence and controlling composition",
+            "cedRefs": [
+              "LAN",
+              "7.D",
+              "7.E"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Short Fiction II",
+        "weighting": "42–49% (Short Fiction: Units 1, 4 and 7 together)",
+        "topics": [
+          {
+            "number": "4.1",
+            "title": "Contrasting characters",
+            "cedRefs": [
+              "CHR",
+              "1.A",
+              "1.C"
+            ]
+          },
+          {
+            "number": "4.2",
+            "title": "Nuance and complexity in character relationships",
+            "cedRefs": [
+              "CHR",
+              "1.D"
+            ]
+          },
+          {
+            "number": "4.3",
+            "title": "The function of setting, and character and setting",
+            "cedRefs": [
+              "SET",
+              "2.B",
+              "2.C"
+            ]
+          },
+          {
+            "number": "4.4",
+            "title": "Plot order and contrasts",
+            "cedRefs": [
+              "STR",
+              "3.A",
+              "3.D"
+            ]
+          },
+          {
+            "number": "4.5",
+            "title": "Narrator, point of view and perspective",
+            "cedRefs": [
+              "NAR",
+              "4.A",
+              "4.B",
+              "4.C"
+            ]
+          },
+          {
+            "number": "4.6",
+            "title": "Thesis and commentary in a prose analysis",
+            "cedRefs": [
+              "LAN",
+              "7.B",
+              "7.C"
+            ]
+          },
+          {
+            "number": "4.7",
+            "title": "Evidence and composition in a prose analysis",
+            "cedRefs": [
+              "LAN",
+              "7.D",
+              "7.E"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Poetry II",
+        "weighting": "36–45% (Poetry: Units 2, 5 and 8 together)",
+        "topics": [
+          {
+            "number": "5.1",
+            "title": "Structure in poetry",
+            "cedRefs": [
+              "STR",
+              "3.C"
+            ]
+          },
+          {
+            "number": "5.2",
+            "title": "Literal and figurative meaning",
+            "cedRefs": [
+              "FIG",
+              "5.A",
+              "5.B"
+            ]
+          },
+          {
+            "number": "5.3",
+            "title": "Imagery",
+            "cedRefs": [
+              "FIG",
+              "5.D"
+            ]
+          },
+          {
+            "number": "5.4",
+            "title": "Metaphor and personification",
+            "cedRefs": [
+              "FIG",
+              "6.B",
+              "6.C"
+            ]
+          },
+          {
+            "number": "5.5",
+            "title": "Allusion",
+            "cedRefs": [
+              "FIG",
+              "6.D"
+            ]
+          },
+          {
+            "number": "5.6",
+            "title": "Thesis and commentary in a poetry analysis",
+            "cedRefs": [
+              "LAN",
+              "7.B",
+              "7.C"
+            ]
+          },
+          {
+            "number": "5.7",
+            "title": "Evidence and composition in a poetry analysis",
+            "cedRefs": [
+              "LAN",
+              "7.D",
+              "7.E"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Longer Fiction or Drama II",
+        "weighting": "15–18% (Longer Fiction or Drama: Units 3, 6 and 9 together)",
+        "topics": [
+          {
+            "number": "6.1",
+            "title": "Contrasting characters in longer works",
+            "cedRefs": [
+              "CHR",
+              "1.A",
+              "1.C"
+            ]
+          },
+          {
+            "number": "6.2",
+            "title": "How choices, actions and speech reveal complexity",
+            "cedRefs": [
+              "CHR",
+              "1.E"
+            ]
+          },
+          {
+            "number": "6.3",
+            "title": "Sequence and contrasts in a longer plot",
+            "cedRefs": [
+              "STR",
+              "3.A",
+              "3.B",
+              "3.D"
+            ]
+          },
+          {
+            "number": "6.4",
+            "title": "Narrator perspective and reliability",
+            "cedRefs": [
+              "NAR",
+              "4.C",
+              "4.D"
+            ]
+          },
+          {
+            "number": "6.5",
+            "title": "Symbol",
+            "cedRefs": [
+              "FIG",
+              "5.C"
+            ]
+          },
+          {
+            "number": "6.6",
+            "title": "Thesis and commentary in a literary argument",
+            "cedRefs": [
+              "LAN",
+              "7.B",
+              "7.C"
+            ]
+          },
+          {
+            "number": "6.7",
+            "title": "Evidence and composition in a literary argument",
+            "cedRefs": [
+              "LAN",
+              "7.D",
+              "7.E"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Short Fiction III",
+        "weighting": "42–49% (Short Fiction: Units 1, 4 and 7 together)",
+        "topics": [
+          {
+            "number": "7.1",
+            "title": "Character change and complex relationships",
+            "cedRefs": [
+              "CHR",
+              "1.B",
+              "1.D"
+            ]
+          },
+          {
+            "number": "7.2",
+            "title": "Setting and its relationship to character",
+            "cedRefs": [
+              "SET",
+              "2.B",
+              "2.C"
+            ]
+          },
+          {
+            "number": "7.3",
+            "title": "Plot order and sequence",
+            "cedRefs": [
+              "STR",
+              "3.A",
+              "3.B"
+            ]
+          },
+          {
+            "number": "7.4",
+            "title": "Narrator reliability",
+            "cedRefs": [
+              "NAR",
+              "4.D"
+            ]
+          },
+          {
+            "number": "7.5",
+            "title": "Symbol and imagery in fiction",
+            "cedRefs": [
+              "FIG",
+              "5.C",
+              "5.D"
+            ]
+          },
+          {
+            "number": "7.6",
+            "title": "Simile and personification in fiction",
+            "cedRefs": [
+              "FIG",
+              "6.A",
+              "6.C"
+            ]
+          },
+          {
+            "number": "7.7",
+            "title": "Thesis and commentary",
+            "cedRefs": [
+              "LAN",
+              "7.B",
+              "7.C"
+            ]
+          },
+          {
+            "number": "7.8",
+            "title": "Selecting relevant and sufficient evidence",
+            "cedRefs": [
+              "LAN",
+              "7.D"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "title": "Poetry III",
+        "weighting": "36–45% (Poetry: Units 2, 5 and 8 together)",
+        "topics": [
+          {
+            "number": "8.1",
+            "title": "Structure and contrasts in poetry",
+            "cedRefs": [
+              "STR",
+              "3.C",
+              "3.D"
+            ]
+          },
+          {
+            "number": "8.2",
+            "title": "Word choice in complex poems",
+            "cedRefs": [
+              "FIG",
+              "5.B"
+            ]
+          },
+          {
+            "number": "8.3",
+            "title": "Symbol in poetry",
+            "cedRefs": [
+              "FIG",
+              "5.C"
+            ]
+          },
+          {
+            "number": "8.4",
+            "title": "Extended and complex metaphor",
+            "cedRefs": [
+              "FIG",
+              "6.B"
+            ]
+          },
+          {
+            "number": "8.5",
+            "title": "Allusion in poetry",
+            "cedRefs": [
+              "FIG",
+              "6.D"
+            ]
+          },
+          {
+            "number": "8.6",
+            "title": "Thesis and commentary in a poetry essay",
+            "cedRefs": [
+              "LAN",
+              "7.B",
+              "7.C"
+            ]
+          },
+          {
+            "number": "8.7",
+            "title": "Evidence and composition in a poetry essay",
+            "cedRefs": [
+              "LAN",
+              "7.D",
+              "7.E"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "title": "Longer Fiction or Drama III",
+        "weighting": "15–18% (Longer Fiction or Drama: Units 3, 6 and 9 together)",
+        "topics": [
+          {
+            "number": "9.1",
+            "title": "Characters who change or remain unchanged",
+            "cedRefs": [
+              "CHR",
+              "1.B"
+            ]
+          },
+          {
+            "number": "9.2",
+            "title": "Complexity revealed through choices, actions and speech",
+            "cedRefs": [
+              "CHR",
+              "1.E"
+            ]
+          },
+          {
+            "number": "9.3",
+            "title": "Significant events",
+            "cedRefs": [
+              "STR",
+              "3.E"
+            ]
+          },
+          {
+            "number": "9.4",
+            "title": "Conflict and its function",
+            "cedRefs": [
+              "STR",
+              "3.F"
+            ]
+          },
+          {
+            "number": "9.5",
+            "title": "Details, diction and syntax that reveal perspective",
+            "cedRefs": [
+              "NAR",
+              "4.C"
+            ]
+          },
+          {
+            "number": "9.6",
+            "title": "Thesis and commentary in a literary argument essay",
+            "cedRefs": [
+              "LAN",
+              "7.B",
+              "7.C"
+            ]
+          },
+          {
+            "number": "9.7",
+            "title": "Selecting evidence for a literary argument",
+            "cedRefs": [
+              "LAN",
+              "7.D"
+            ]
+          }
+        ]
+      }
+    ],
+    "cedUrl": "https://apcentral.collegeboard.org/media/pdf/ap-english-literature-and-composition-course-and-exam-description.pdf",
+    "coursePageUrl": "https://apcentral.collegeboard.org/courses/ap-english-literature-and-composition",
+    "examPageUrl": "https://apcentral.collegeboard.org/courses/ap-english-literature-and-composition/exam",
+    "checkedOn": "2026-11-08",
     "schoolYear": "2026-27",
     "examSeries": "May 2027"
   }

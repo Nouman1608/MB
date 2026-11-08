@@ -3,7 +3,7 @@
  * Generates the advanced-course (AP) library reports from the source of truth:
  *   docs/ap-library/manifest.json      every resource record (portable JSON manifest)
  *   docs/ap-library/inventory.md       coverage by course/unit/topic: planned / drafted / reviewed / published
- *   docs/ap-library/framework-map.md   the verified 2026-27 framework map for all 11 courses
+ *   docs/ap-library/framework-map.md   the verified 2026-27 framework map for all 15 courses
  *   docs/ap-library/source-register.md the official source register
  * Run: node --experimental-strip-types scripts/ap-library-inventory.mjs
  */
@@ -66,12 +66,12 @@ md += `## Summary\n\n${summary}\nTotal topics: planned ${totals.planned}, drafte
 writeFileSync(join(OUT, 'inventory.md'), md);
 
 // Framework map.
-let fm = `# Verified framework map -- 2026-27 school year, May 2027 exams\n\nGenerated ${generated} from \`src/data/ap/frameworks.ts\` (checked against the official College Board documents in source-register.md on ${AP_COURSES[0].checkedOn}). Unit and topic titles come from each Course and Exam Description's own bookmarks; weightings are the official multiple-choice ranges from each course page; exam formats are from each course's exam page and the 2026-27 clarifications.\n`;
+let fm = `# Verified framework map -- 2026-27 school year, May 2027 exams\n\nGenerated ${generated} from \`src/data/ap/frameworks.ts\` (checked against the official College Board documents in source-register.md on ${AP_COURSES[0].checkedOn}). Unit and topic titles come from each Course and Exam Description's own bookmarks; weightings are the official multiple-choice ranges from each course page; exam formats are from each course's exam page and the 2026-27 clarifications. Courses checked on a later date say so under their heading.\n\n**Exception -- English Language and English Literature:** their CEDs number the units but have no numbered topics (English Language does not title its units either). Their topics (and the English Language unit titles) are Marlbridge groupings of the CED's skills and essential knowledge statements; the CED codes each topic groups are shown in brackets. These topic numbers are not official College Board numbers.\n`;
 for (const c of AP_COURSES) {
-  fm += `\n## ${c.officialName}\n\n- **Exam:** ${c.examDate} (${c.examSeries}). ${c.examMode}\n`;
+  fm += `\n## ${c.officialName}\n\n${c.checkedOn !== AP_COURSES[0].checkedOn ? `Checked ${c.checkedOn}.\n\n` : ''}- **Exam:** ${c.examDate} (${c.examSeries}). ${c.examMode}\n`;
   for (const s of c.sections) fm += `- **${s.name}:** ${s.questions} questions, ${s.time}, ${s.weight}${s.detail ? `. ${s.detail.join('; ')}` : ''}\n`;
-  fm += `- **Calculator:** ${c.calculator}\n- **Prerequisites (CED):** ${c.prerequisiteNote}\n${c.labRequirement ? `- **Laboratory:** ${c.labRequirement}\n` : ''}${c.may2027Change ? `- **Changes:** ${c.may2027Change}\n` : ''}- **Clarifications:** ${c.clarifications}\n- **Practices/skills:** ${c.practices.map((p) => `${p.number} ${p.name}`).join('; ')}\n\n| Unit | Title | MC weighting | Topics |\n|---|---|---|---|\n`;
-  for (const u of c.units) fm += `| ${u.number}${u.bcOnly ? ' (BC only)' : ''} | ${u.title} | ${u.weighting} | ${u.topics.map((t) => `${t.number} ${t.title}${t.bcOnly && c.slug === 'calculus-bc' ? ' [BC]' : ''}`).join('; ')} |\n`;
+  fm += `- **Calculator:** ${c.calculator}\n- **Prerequisites (CED):** ${c.prerequisiteNote}\n${c.labRequirement ? `- **Laboratory:** ${c.labRequirement}\n` : ''}${c.may2027Change ? `- **Changes:** ${c.may2027Change}\n` : ''}- **Clarifications:** ${c.clarifications}\n- **Practices/skills:** ${c.practices.map((p) => `${p.number} ${p.name}`).join('; ')}\n${c.unitNumbering ? `- **Numbering:** ${c.unitNumbering}\n` : ''}${c.unitWeightingNote ? `- **Weighting:** ${c.unitWeightingNote}\n` : ''}\n| Unit | Title | MC weighting | Topics |\n|---|---|---|---|\n`;
+  for (const u of c.units) fm += `| ${u.number}${u.bcOnly ? ' (BC only)' : ''} | ${u.title} | ${u.weighting} | ${u.topics.map((t) => `${t.number} ${t.title}${t.bcOnly && c.slug === 'calculus-bc' ? ' [BC]' : ''}${t.cedRefs ? ` [${t.cedRefs.join(', ')}]` : ''}`).join('; ')} |\n`;
 }
 writeFileSync(join(OUT, 'framework-map.md'), fm);
 

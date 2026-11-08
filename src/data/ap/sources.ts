@@ -365,6 +365,142 @@ export const AP_SOURCES: readonly ApSource[] = [
     "verifies": "May 2027 exam date (2027-05-07), exam mode, section question counts, timing and weights.",
     "schoolYear": "2026-27 (May 2027 exam)",
     "checkedOn": "2026-10-05"
+  },
+  {
+    "id": "cb-calculator-policy",
+    "title": "AP Exams Calculator Policy (AP Students)",
+    "url": "https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies",
+    "verifies": "Which 2027 AP Exams allow calculators. Computer Science A, Computer Science Principles, English Language and English Literature are not listed, so no calculator is allowed on them.",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "ced-computer-science-a",
+    "title": "AP Computer Science A Course and Exam Description",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description.pdf",
+    "verifies": "Unit and topic numbers/titles (from the PDF bookmarks, checked against each topic page), unit weightings, computational thinking practices, prerequisites, 20-hour lab requirement, exam overview (42 MCQ 90 min 55%; 4 FRQ 90 min 45%; FRQ point values). Effective Fall 2025 edition.",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "clar-computer-science-a",
+    "title": "AP Computer Science A CED clarifications and corrections",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description-clarification.pdf",
+    "verifies": "The clarifications document (implemented August 2025) is editorial: front matter, plus forthcoming updates to resource links and Progress Check wording. No change to units, topics or the exam is listed.",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "page-computer-science-a",
+    "title": "AP Computer Science A course page",
+    "url": "https://apcentral.collegeboard.org/courses/ap-computer-science-a",
+    "verifies": "Course overview; unit multiple-choice weightings (15–25%, 25–35%, 10–18%, 30–40%); practice weightings.",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "exam-computer-science-a",
+    "title": "AP Computer Science A exam page",
+    "url": "https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam",
+    "verifies": "May 12, 2027 (Session 2) exam date; fully digital in Bluebook; Section I 42 questions, 1 h 30 min, 55%; Section II 4 questions, 1 h 30 min, 45%; FRQ focus per question; Java Quick Reference in Bluebook.",
+    "schoolYear": "2026-27 (May 2027 exam)",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "ced-computer-science-principles",
+    "title": "AP Computer Science Principles Course and Exam Description",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-course-and-exam-description.pdf",
+    "verifies": "Big ideas as units 1–5 and topic numbers/titles (from the PDF bookmarks, checked against each topic page), big idea weightings, six computational thinking practices, prerequisites, exam overview, Create performance task requirements. Fall 2023 edition (still current).",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "clar-computer-science-principles",
+    "title": "AP Computer Science Principles CED clarifications and corrections",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-course-and-exam-description-clarification.pdf",
+    "verifies": "The clarifications document (implemented August 2025) is editorial (front matter only), and none are forthcoming. No change to big ideas, topics or the exam is listed. The CED in use is the Fall 2023 edition.",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "page-computer-science-principles",
+    "title": "AP Computer Science Principles course page",
+    "url": "https://apcentral.collegeboard.org/courses/ap-computer-science-principles",
+    "verifies": "Big idea multiple-choice weightings (10–13%, 17–22%, 30–35%, 11–15%, 21–26%); practice weightings (Practice 6 not assessed).",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "exam-computer-science-principles",
+    "title": "AP Computer Science Principles exam page",
+    "url": "https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam",
+    "verifies": "May 14, 2027 (Session 1) end-of-course exam; Create performance task submission deadline April 30, 2027, 11:59 PM ET; 70 MCQs, 120 min, 70% (57 single-select, 5 reading passage, 8 multi-select); Create performance task 30% (9 hours in class; 2 written responses in 60 min).",
+    "schoolYear": "2026-27 (May 2027 exam)",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "ced-english-language-and-composition",
+    "title": "AP English Language and Composition Course and Exam Description",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap-english-language-and-composition-course-and-exam-description.pdf",
+    "verifies": "Nine units (numbered, untitled), the paired reading/writing skills and essential knowledge statements assigned to each unit (source of the Marlbridge topic groupings), four big ideas, eight skill categories with multiple-choice weightings, prerequisites, exam overview (45 MCQ 60 min 45%; 3 FRQ 2 h 15 min incl. 15-min reading period 55%).",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "clar-english-language-and-composition",
+    "title": "AP English Language and Composition CED clarifications and corrections",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap-english-language-and-composition-course-and-exam-description-clarifications.pdf",
+    "verifies": "The clarifications document (implemented June 2025) is editorial: front matter, an updated list of speechmakers, removal of named example authors and texts, and forthcoming updates to resource links and Progress Check wording. No change to units, skills or the exam is listed.",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "page-english-language-and-composition",
+    "title": "AP English Language and Composition course page",
+    "url": "https://apcentral.collegeboard.org/courses/ap-english-language-and-composition",
+    "verifies": "Skill category multiple-choice weightings; nine units; course overview.",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "exam-english-language-and-composition",
+    "title": "AP English Language and Composition exam page",
+    "url": "https://apcentral.collegeboard.org/courses/ap-english-language-and-composition/exam",
+    "verifies": "May 12, 2027 (Session 1) exam date; fully digital in Bluebook; Section I 45 questions, 1 hour, 45% (23–25 reading, 20–22 writing); Section II 3 questions, 2 h 15 min, 55% (synthesis, rhetorical analysis, argument).",
+    "schoolYear": "2026-27 (May 2027 exam)",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "ced-english-literature-and-composition",
+    "title": "AP English Literature and Composition Course and Exam Description",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap-english-literature-and-composition-course-and-exam-description.pdf",
+    "verifies": "Nine unit titles, the skills assigned to each unit (source of the Marlbridge topic groupings), six big ideas, seven skill categories with multiple-choice weightings, genre weightings (Short Fiction 42–49%, Poetry 36–45%, Longer Fiction or Drama 15–18%), prerequisites, exam overview (55 MCQ 60 min 45%; 3 FRQ 2 h 55%).",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "clar-english-literature-and-composition",
+    "title": "AP English Literature and Composition CED clarifications and corrections",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap-english-literature-and-composition-course-and-exam-description-clarifications.pdf",
+    "verifies": "The clarifications document (implemented August 2025) is editorial: front matter, plus forthcoming updates to resource links and Progress Check wording. No change to units, skills or the exam is listed.",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "page-english-literature-and-composition",
+    "title": "AP English Literature and Composition course page",
+    "url": "https://apcentral.collegeboard.org/courses/ap-english-literature-and-composition",
+    "verifies": "Genre (unit group) and skill category multiple-choice weightings; nine units.",
+    "schoolYear": "2026-27",
+    "checkedOn": "2026-11-08"
+  },
+  {
+    "id": "exam-english-literature-and-composition",
+    "title": "AP English Literature and Composition exam page",
+    "url": "https://apcentral.collegeboard.org/courses/ap-english-literature-and-composition/exam",
+    "verifies": "May 5, 2027 (Session 1) exam date; fully digital in Bluebook; Section I 55 questions, 1 hour, 45% (5 sets, 8–13 questions each); Section II 3 questions, 2 hours, 55% (poetry analysis, prose fiction analysis, literary argument).",
+    "schoolYear": "2026-27 (May 2027 exam)",
+    "checkedOn": "2026-11-08"
   }
 ] as const;
 export const apSourceById = (id: string): ApSource | undefined => AP_SOURCES.find((s) => s.id === id);

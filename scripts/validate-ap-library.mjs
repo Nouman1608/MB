@@ -13,6 +13,13 @@
  * the "original Marlbridge practice" label and an answer for every multiple-choice
  * question; dates are sane.
  *
+ * Framework checks (src/data/ap/frameworks.ts, all 15 courses): topic numbers unique and
+ * prefixed by their unit; every course has its ced-/page-/exam- sources and existing subject
+ * hubs; unit weightings bracket 100% (shared genre ranges counted once); courses whose topics
+ * are Marlbridge groupings (topicSource 'marlbridge', the English courses) say so in
+ * unitNumbering, give every topic its CED codes and keep units to 2-8 topics. A course with
+ * no resources yet is valid: its hub lists every topic as planned.
+ *
  * Run: node --experimental-strip-types scripts/validate-ap-library.mjs
  */
 import { readdirSync, readFileSync, statSync, existsSync } from 'node:fs';
@@ -142,6 +149,44 @@ for (const r of records) {
     if (!/original Marlbridge/i.test(r.body)) fail(r.path, 'exam-skills guide must say its examples are original Marlbridge practice');
   }
   if (d.resourceType === 'revision-notes' && !/\]\(\/advanced-course-resources\/[^)]*study-guide\/\)/.test(r.body)) fail(r.path, 'revision notes must link back to the full study guide');
+}
+
+// Framework map sanity (independent of resources).
+for (const c of AP_COURSES) {
+  const at = `frameworks.ts ${c.slug}`;
+  const nums = new Set();
+  for (const u of c.units) {
+    if (!u.topics.length) fail(at, `unit ${u.number} has no topics`);
+    for (const t of u.topics) {
+      if (nums.has(t.number)) fail(at, `duplicate topic number ${t.number}`);
+      nums.add(t.number);
+      if (!t.number.startsWith(`${u.number}.`)) fail(at, `topic ${t.number} is listed under unit ${u.number}`);
+      if (!t.title?.trim()) fail(at, `topic ${t.number} has no title`);
+    }
+  }
+  if (!c.practices.length) fail(at, 'no practices/skills');
+  for (const kind of ['ced', 'page', 'exam']) {
+    const ok = AP_SOURCES.some((s) => s.id === `${kind}-${c.slug}` || (kind === 'ced' && s.url === c.cedUrl));
+    if (!ok) fail(at, `no ${kind}- source in sources.ts`);
+  }
+  for (const hub of c.subjectHubs) if (!existsSync(`src/content/subjects/${hub}.md`)) fail(at, `subject hub "${hub}" does not exist`);
+  if (!c.unitWeightingNote) {
+    let lo = 0, hi = 0; const shared = new Set();
+    for (const u of c.units) {
+      const m = u.weighting.match(/^(\d+)–(\d+)%/);
+      if (!m) { fail(at, `unit ${u.number} weighting "${u.weighting}" is not a range (set unitWeightingNote if the exam is not weighted by unit)`); continue; }
+      if (/together/.test(u.weighting)) { if (shared.has(u.weighting)) continue; shared.add(u.weighting); }
+      lo += Number(m[1]); hi += Number(m[2]);
+    }
+    if (lo > 100 || hi < 100) fail(at, `unit weightings sum to ${lo}–${hi}%, which does not bracket 100%`);
+  }
+  if (c.topicSource === 'marlbridge') {
+    if (!/Marlbridge/.test(c.unitNumbering ?? '')) fail(at, 'Marlbridge-grouped topics must be declared in unitNumbering');
+    for (const u of c.units) {
+      if (u.topics.length < 2 || u.topics.length > 8) fail(at, `unit ${u.number} has ${u.topics.length} Marlbridge topics (2–8 expected)`);
+      for (const t of u.topics) if (!t.cedRefs?.length) fail(at, `topic ${t.number} has no cedRefs (the CED codes it groups)`);
+    }
+  }
 }
 
 const perCourse = Object.fromEntries(AP_COURSES.map((c) => [c.slug, records.filter((r) => r.data.course === c.slug).length]));
