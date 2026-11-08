@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "plant-organ-system-aqa-gcse-biology"
-description: "Condensed AQA GCSE Biology 8461 notes on leaf tissues, root hair cells, xylem, phloem, stomata, transpiration, translocation, potometer and stomata-count maths, with a self-test."
+description: "Condensed AQA GCSE Biology 8461 notes on leaf tissues, root hair cells, xylem, phloem, stomata, transpiration, translocation and potometers, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These are condensed recall notes for **4.2.3.1 Plant tissues** and **4.2.3.2 Plant organ system** of the AQA GCSE
@@ -226,6 +228,23 @@ Density = 13 / 0.126 = about **103 stomata per mm²**.
 - Forgetting to cut the shoot under water, or to keep the other factors constant, in a potometer method.
 - Calculating a rate as time / distance, or leaving out the units.
 - Counting stomata in one field of view only and calling it reliable.
+
+## Frequently asked questions
+
+**What is the difference between transpiration and translocation?**
+Transpiration is the movement of water up the xylem and its loss from the leaves. Translocation is the movement of dissolved sugars through the phloem.
+
+**What does a potometer measure?**
+A potometer measures water uptake by a leafy shoot, which is used as an estimate of the rate of transpiration.
+
+**How do root hair cells absorb mineral ions?**
+Root hair cells absorb mineral ions by active transport, not by osmosis or diffusion. They take in water by osmosis.
+
+**Why are most stomata on the lower surface of a leaf?**
+The lower surface is cooler and shaded, so less water is lost by evaporation through the stomata.
+
+**How do you investigate the distribution of stomata?**
+Paint clear nail varnish on the leaf surface, peel it off with sticky tape, stick it on a slide and count stomata in several fields of view on several leaves.
 
 ## Official syllabus
 

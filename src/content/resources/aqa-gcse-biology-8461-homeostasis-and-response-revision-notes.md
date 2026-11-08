@@ -28,10 +28,12 @@ syllabusTopics:
 description: "Condensed AQA GCSE Biology 8461 notes on homeostasis: reflexes, eye, temperature, insulin, kidneys, ADH, menstrual cycle, auxin, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed recall for the final weeks. For full explanations and worked examples, use the [Homeostasis and response study guide](/resources/aqa-gcse-biology-8461-homeostasis-and-response/).
@@ -339,6 +341,23 @@ FSH and LH → several eggs mature → eggs collected → fertilised in the lab 
 - Giving ADH as "making more urine"; it reduces urine volume by increasing reabsorption.
 - Treating the pill as a barrier method; it works by inhibiting FSH.
 - Writing that auxin is destroyed by light instead of saying it collects on the shaded side.
+
+## Frequently asked questions
+
+**What are the steps in a reflex arc?**
+A receptor detects the stimulus, an impulse travels along a sensory neurone, crosses a synapse to a relay neurone in the CNS, crosses another synapse to a motor neurone, and the effector responds.
+
+**What is the difference between myopia and hyperopia?**
+In myopia (short sight) the image forms in front of the retina and is corrected with a concave lens. In hyperopia (long sight) the image forms behind the retina and is corrected with a convex lens.
+
+**What is the difference between Type 1 and Type 2 diabetes?**
+In Type 1 diabetes the pancreas makes too little insulin. In Type 2 diabetes the body's cells no longer respond properly to insulin.
+
+**How does ADH affect urine?**
+ADH makes the kidney tubules reabsorb more water, so it reduces the volume of urine. Saying ADH makes more urine is a common error. This is Higher tier only.
+
+**What is the difference between hormonal and non-hormonal contraception?**
+Hormonal methods, such as the pill, progesterone injection, implant, patch and some IUDs, use hormones. Non-hormonal methods include condoms, diaphragms, spermicides, IUDs that only prevent implantation, abstinence and sterilisation.
 
 ## Official syllabus
 

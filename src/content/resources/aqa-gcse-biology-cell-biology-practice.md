@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on cells, microscopy, mitosis, stem cells and transport for AQA GCSE Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -103,3 +105,17 @@ magnification = 40 000 ÷ 20 [1] = **×2000** [1].
 - Assuming plant and animal cells differentiate in the same way — most animal cells lose this ability early, while many plant cells keep it.
 
 Work through the [Cell Biology revision notes](/resources/aqa-gcse-biology-cell-biology-revision-notes/) alongside these questions: the notes summarise cell types, microscopy and stem cells in condensed form, while these questions test whether you can apply the magnification formula and the differentiation argument to a specific, unfamiliar example rather than just recall the definition.
+
+## Frequently asked questions
+
+**Which topic of AQA GCSE Biology do these questions cover?**
+They cover Topic 1 Cell biology: cells, microscopy, mitosis, stem cells and transport in cells.
+
+**Do bacteria have DNA?**
+Yes. Bacteria have DNA but no nucleus. Writing that bacteria have no DNA is a common error.
+
+**What must you do before calculating magnification?**
+Convert both measurements to the same unit. Forgetting the conversion is one of the most frequent ways to lose marks.
+
+**Are these AQA past paper questions?**
+No. They are original exam-style questions with full worked answers. Use them alongside official AQA past papers.

@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "the-human-digestive-system-aqa-gcse-biology"
-description: "Original exam-style practice questions with full worked answers on cells, tissues, organs and organ systems, digestive enzymes, bile, and required practicals 4 and 5 for AQA GCSE Biology (8461), covering 4.2.1 and 4.2.2.1."
+description: "Original practice questions with worked answers on organisation, digestive enzymes, bile and Required Practicals 4 and 5 for AQA GCSE Biology 8461 section 4.2."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -109,3 +111,17 @@ Related: [Enzymes and the Digestive System study guide](/resources/gcse-aqa-biol
 ## Approaching required-practical method questions
 
 Questions on Required Practicals 4 and 5 reward the specific method actually used, not a general description of "doing an experiment". For Required Practical 4, know which colour change corresponds to which food group and that Benedict's test needs heating while the iodine and Biuret tests do not. For Required Practical 5, be ready to describe the continuous sampling technique precisely: iodine reagent is used to test a fresh sample from the reaction mixture at regular time intervals, and the time recorded is when the sample no longer turns blue-black, at each of a range of pH values with temperature held constant using a water bath.
+
+## Frequently asked questions
+
+**Which sections of AQA GCSE Biology 8461 do these questions cover?**
+They cover 4.2.1 Principles of organisation and 4.2.2.1 The human digestive system, including Required Practicals 4 and 5.
+
+**How are Required Practical method questions marked?**
+They reward the specific method steps, controlled variables and observations for the practical, rather than general statements.
+
+**What should you link when explaining a pH–rate graph?**
+Link the shape of the graph to what happens to the enzyme's active site at different pH values. Describing the shape without this link loses marks.
+
+**Are these AQA past paper questions?**
+No. They are original exam-style questions with full worked answers. Use them alongside official AQA past papers.

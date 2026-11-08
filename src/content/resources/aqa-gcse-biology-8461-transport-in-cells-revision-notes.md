@@ -308,6 +308,23 @@ Less respiration (for example, little oxygen in waterlogged soil) means less act
 - Saying a larger organism has a "smaller surface area" when the point is a smaller surface area **to volume
   ratio**.
 
+## Frequently asked questions
+
+**What is diffusion?**
+Diffusion is the net movement of particles from an area of higher concentration to an area of lower concentration.
+
+**How do you calculate the surface area to volume ratio of a cube?**
+Surface area = 6 × side², volume = side³. Divide surface area by volume and give the answer as x : 1.
+
+**What are the four features of an effective exchange surface?**
+A large surface area, a thin membrane giving a short diffusion path, an efficient blood supply (in animals) and ventilation (in animals, for gas exchange).
+
+**What is Required Practical 3 in AQA GCSE Biology?**
+It investigates the effect of a range of concentrations of salt or sugar solutions on the mass of plant tissue, using percentage change in mass.
+
+**What is the main source of error in the osmosis practical?**
+Uneven blotting. Surface water left on the tissue adds to the measured mass, so blot each piece the same way.
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, for first teaching 2016 and exams from 2018 onwards, published by AQA --

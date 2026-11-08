@@ -346,6 +346,23 @@ Next, drill recall with the [revision notes](/resources/aqa-gcse-biology-8461-tr
 try the [practice questions](/resources/aqa-gcse-biology-8461-transport-in-cells-practice/), and find weak areas
 with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is osmosis?**
+Osmosis is the diffusion of water from a dilute solution to a concentrated solution through a partially permeable membrane.
+
+**What is active transport?**
+Active transport moves substances from a more dilute solution to a more concentrated solution, against the concentration gradient, using energy from respiration.
+
+**What are the two examples of active transport in AQA GCSE Biology?**
+Root hair cells absorbing mineral ions from very dilute soil water, and the absorption of sugar molecules from the gut into the blood.
+
+**Why do multicellular organisms need exchange surfaces and transport systems?**
+A large multicellular organism has a small surface area to volume ratio, so diffusion across its outer surface is too slow to supply all its cells.
+
+**How does shape affect surface area to volume ratio?**
+Thin, flat shapes have a larger surface area to volume ratio than compact shapes of the same volume, which is why many exchange surfaces are thin and flat.
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, for first teaching 2016 and exams from 2018 onwards, published by AQA --
