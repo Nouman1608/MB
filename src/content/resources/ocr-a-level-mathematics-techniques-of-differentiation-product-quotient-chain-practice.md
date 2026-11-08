@@ -161,6 +161,20 @@ The drop vanishes when 2 = 0.05t, so after **40 seconds** [1]
 - Forgetting the sign of a rate when a quantity is decreasing.
 - Leaving a modelling answer without units.
 
+## Frequently asked questions
+
+**What is the most common slip in the quotient rule?**
+Omitting the minus sign or reversing the terms in the numerator. For y = u/v, dy/dx = (v du/dx − u dv/dx)/v², with the squared denominator.
+
+**How do you differentiate xy in implicit differentiation?**
+Use the product rule: d/dx(xy) = x dy/dx + y. Dropping the product rule, or not writing dy/dx beside the derivative of a y term, loses marks.
+
+**How do you find dy/dx for parametric equations?**
+Divide dy/dt by dx/dt. Dividing dx/dt by dy/dt instead is a common error.
+
+**Why must you eliminate a variable before differentiating a volume formula?**
+The volume must be written in terms of one variable before you differentiate. For a cylinder whose height equals its radius, write V = πr³ first, then use the chain rule to connect the rates.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-mathematics-techniques-of-differentiation-product-quotient-chain-revision-notes/) for the method boxes.

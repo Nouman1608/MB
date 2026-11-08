@@ -141,6 +141,20 @@ Use unrounded values from part (a) in the later parts.
 - Confusing the two-thirds and 95% intervals, or reading σ as the distance from the mean to the edge of the curve.
 - Treating an expected frequency as exact when the answer should be rounded in context.
 
+## Frequently asked questions
+
+**What value do you enter into the calculator for a normal distribution?**
+Enter the standard deviation σ, not the variance. For X ~ N(25, 9), σ = 3.
+
+**How do you use the inverse normal function?**
+Input the area to the left of the value you want. If the question gives an upper-tail area, subtract it from 1 first.
+
+**How do you justify using a normal model in OCR A Level Mathematics?**
+Refer to the context: the variable is continuous and the data are roughly symmetrical and bell-shaped. Saying the data are "random" or simply "normal" is not a valid reason.
+
+**Why should you not round z-values early?**
+In a problem with two unknowns, rounding z-values to two decimal places can shift the answer in the third significant figure. Keep full calculator values until the end.
+
 ## Next steps
 
 - Recap the ideas in the [revision notes](/resources/ocr-a-level-mathematics-the-normal-distribution-and-choosing-an-appropriate-revision-notes/).

@@ -142,6 +142,20 @@ Adding: **6 + 15x + 45x² + 111x³ + …** [1]. **[4]**
 - Not stating which pairs of terms combine in a product expansion.
 - Rounding too early in a probability question.
 
+## Frequently asked questions
+
+**Why must you square the coefficient as well as x?**
+In a term such as (bx)², the bracket squares b as well as x, so (3x)² = 9x². Squaring only x is a common error.
+
+**How do you expand (a + bx)ⁿ for a negative or fractional power?**
+Take out aⁿ first, writing (a + bx)ⁿ = aⁿ(1 + bx/a)ⁿ, then expand. For a negative power, aⁿ becomes a reciprocal, such as a⁻¹.
+
+**What validity range do you give after using partial fractions?**
+Each expansion has its own range, and the combined result is valid only where all of them are, so give the smaller range.
+
+**How do you write the range of validity for a binomial expansion?**
+Give it as a range for x, not as |u| < 1. For (a + bx)ⁿ with a rational power, the expansion is valid for |x| < |a/b|.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-the-binomial-expansion-positive-integer-and-rational-revision-notes/) or relearn from the [study guide](/resources/ocr-a-level-mathematics-the-binomial-expansion-positive-integer-and-rational/).

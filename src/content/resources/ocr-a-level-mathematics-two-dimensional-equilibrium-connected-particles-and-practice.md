@@ -137,6 +137,20 @@ These questions follow outcomes 3.03l to 3.03q of the OCR A Level Mathematics A 
 - Rounding a or T early and reusing the rounded value.
 - Quoting Newton's third law without naming the two bodies involved.
 
+## Frequently asked questions
+
+**How do you give the direction of a resultant force?**
+Give the angle together with the line it is measured from, such as "25° below the positive x-axis". An angle without its reference line is incomplete.
+
+**Is the force on a pulley always 2T?**
+Only when the two parts of the string are parallel. Otherwise, the force on the pulley is the vector sum of the two tensions.
+
+**How do you resolve the weight on an inclined plane?**
+The weight mg has a component mg sin α down the plane and mg cos α perpendicular to it. Mixing up sin and cos is a common error.
+
+**How should you quote Newton's third law in a connected particles answer?**
+Name the two bodies involved: the force of A on B is equal in size and opposite in direction to the force of B on A.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-a-level-mathematics-two-dimensional-equilibrium-connected-particles-and-revision-notes/) and redo any question you lost marks on.

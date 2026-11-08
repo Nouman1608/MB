@@ -218,6 +218,20 @@ x²: 3 × 24 + (−1)(−6) = 72 + 6 = 78
 - Using a value of x outside the range in an approximation.
 - Answering a "find the coefficient" question by expanding the whole bracket and making an arithmetic slip.
 
+## Frequently asked questions
+
+**What is the formula for nCr?**
+nCr = n!/(r!(n − r)!), with 0! = 1. Useful special cases are nC0 = nCn = 1 and nCr = nC(n − r).
+
+**What is the difference between expanding with an integer and a rational power?**
+For a positive integer n the expansion has n + 1 terms and is valid for all x. For a rational power that is not a positive integer it is an infinite series, valid only when −1 < bx/a < 1.
+
+**How is the binomial expansion linked to binomial probability?**
+If X ~ B(n, p), then P(X = r) = nCr pʳ(1 − p)ⁿ⁻ʳ, which is one term of the expansion of (p + (1 − p))ⁿ.
+
+**Can you use a binomial expansion to approximate a square root?**
+Yes, if the value of x you substitute is within the range of validity and small. For example, √0.97 can be estimated from the expansion of (1 − 3x)^(1/2) with a small x.
+
 ## Official syllabus
 
 OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR: sections 1.04a to 1.04d and 1.02y.

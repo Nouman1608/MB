@@ -217,6 +217,20 @@ If the force is constant, the acceleration is constant and the vector forms of t
 - Giving the force on the pulley as 2T when the two string parts are not parallel.
 - Rounding g to 10 or an intermediate value early. Keep full values until the end.
 
+## Frequently asked questions
+
+**How do you find the resultant of several forces?**
+Resolve each force into components, add the i-parts and the j-parts, then find the magnitude with √(Rx² + Ry²) and the direction with tan α = |Ry|/|Rx|, checking the quadrant.
+
+**How does an angled force affect the normal reaction?**
+An angled push or pull has a component perpendicular to the surface, which changes the normal reaction. A pull upwards reduces it and a push downwards increases it.
+
+**How do you solve a two-particle pulley problem?**
+Write an equation of motion for each particle separately, in its own direction of motion, using the same tension and the same size of acceleration, then solve the two equations together.
+
+**How do you find velocity when the force depends on time?**
+Divide the force by the mass to get the acceleration, integrate to find v using the initial velocity for the constant, then integrate again to find the position.
+
 ## Official syllabus
 
 OCR, A Level Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018: section 3.03, Forces and Newton's Laws.

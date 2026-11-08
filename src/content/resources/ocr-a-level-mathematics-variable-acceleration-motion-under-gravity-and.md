@@ -286,6 +286,20 @@ The model ignores air resistance, so real paths are shorter and steeper on the w
 
 Next, test yourself with the [practice set](/resources/ocr-a-level-mathematics-variable-acceleration-motion-under-gravity-and-practice/), or revisit the [revision notes](/resources/ocr-a-level-mathematics-variable-acceleration-motion-under-gravity-and-revision-notes/).
 
+## Frequently asked questions
+
+**When can you not use the constant acceleration formulae?**
+When acceleration depends on time, the suvat formulae do not apply. Use calculus instead: v = ∫a dt and s = ∫v dt, each with a constant of integration.
+
+**How do you find speed from a velocity vector?**
+Speed is the magnitude of the velocity: √(vₓ² + v_y²). Give a direction as an angle from a stated direction, such as below the positive x-direction.
+
+**What are the formulae for time of flight and greatest height of a projectile?**
+On level ground, the time of flight is T = 2u sin α / g and the greatest height is H = u² sin²α / (2g), where u is the launch speed and α the launch angle.
+
+**How do you split a projectile's launch velocity into components?**
+The horizontal component is u cos α and the vertical component is u sin α. Gravity only affects the vertical motion, so g never goes in the horizontal equation.
+
 ## Official syllabus
 
 OCR, *A Level in Mathematics A (H240)*, Version 3.1 (August 2026), for first assessment in 2018, content references 3.02f to 3.02i.

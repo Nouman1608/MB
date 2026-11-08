@@ -148,6 +148,20 @@ Bearing of C from A = 040° + 42.5° = **082.5°** [1]
 - Using sector formulae with an angle in degrees.
 - Decimals where an exact value is asked for.
 
+## Frequently asked questions
+
+**Why does a trig equation usually have more than one solution?**
+The calculator gives only the principal value, but sine, cosine and tangent repeat, so there are usually other solutions in the interval. Use the graph or symmetry to list them all.
+
+**How do you solve an equation like cos 3x = −0.5?**
+Multiply the interval by 3 first, find every value of 3x in the wider interval, then divide each by 3. Dividing too early, or not extending the interval, loses solutions.
+
+**What angle unit do sector formulae need?**
+Arc length s = rθ and sector area ½r²θ only work with θ in radians. Using degrees, or leaving the calculator in the wrong mode, is a common error.
+
+**How do you check the second triangle in the ambiguous case?**
+If the sine rule gives B, the other possibility is 180° − B. Keep it only if it fits with the given angle, so that the angle sum stays below 180°.
+
 ## Next steps
 
 - Go back over the [revision notes](/resources/ocr-a-level-mathematics-trigonometric-ratios-triangle-rules-small-angles-revision-notes/) for any weak topics.

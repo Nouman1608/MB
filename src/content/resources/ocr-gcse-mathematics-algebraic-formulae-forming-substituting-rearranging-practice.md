@@ -163,6 +163,20 @@ Learn the method first in the [study guide](/resources/ocr-gcse-mathematics-alge
 - Reporting both roots of a quadratic when one is impossible in context.
 - Leaving out units, or giving cm where cm² is needed.
 
+## Frequently asked questions
+
+**How do you substitute a negative number into a formula?**
+Put the negative number in brackets before squaring or cubing it, so (−3)² = 9. Dropping the brackets and writing −9 is a common error.
+
+**What does "dropped" or "from rest" tell you in a kinematics question?**
+It tells you the initial velocity u = 0. Similarly, "stops" or "comes to rest" means the final velocity v = 0.
+
+**What should you do if a quadratic gives two answers in a context question?**
+Check both roots against the context and reject any that is impossible, such as a negative time. Reporting both roots when one cannot happen loses the mark.
+
+**How do you undo a square root when rearranging a formula?**
+Isolate the square root first, then square the whole of both sides. Squaring only part of an expression is a common slip in OCR GCSE Mathematics J560 questions.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging-revision-notes/).

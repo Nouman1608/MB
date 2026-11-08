@@ -226,6 +226,20 @@ Let X ~ N(40, 5²) for questions 1 to 6.
 
 Next, test yourself with the [practice questions](/resources/ocr-a-level-mathematics-the-normal-distribution-and-choosing-an-appropriate-practice/) and the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What proportion of values lie within one and two standard deviations of the mean?**
+For a normal distribution, about two-thirds of values lie within μ ± σ, about 95% within μ ± 2σ, and almost all within μ ± 3σ.
+
+**Where are the points of inflection on a normal curve?**
+At x = μ − σ and x = μ + σ. Use the standard deviation, not the variance, to find them.
+
+**Why is P(X = a) zero for a normal distribution?**
+Probability is area under the curve, and a single point has zero area. So P(X < a) and P(X ≤ a) are equal for a normal variable.
+
+**Do you need the equation of the normal curve in OCR A Level Mathematics A (H240)?**
+No. The equation of the normal curve is excluded from the specification.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Mathematics A (H240), Version 3.1 (August 2026), for first assessment in 2018, published by OCR. Section 2.04e to 2.04h of the detailed content.

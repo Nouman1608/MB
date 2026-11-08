@@ -187,6 +187,20 @@ After 4 s:  s = ½at² = 16i + 16j,  |s| = 22.6 m
 - Forgetting the constant of integration, or using the starting position as the starting velocity.
 - Rounding g or intermediate values early, which pulls the final answer off.
 
+## Frequently asked questions
+
+**Which parts of two-dimensional mechanics are A Level only in OCR A Level Mathematics A (H240)?**
+Of outcomes 3.03l to 3.03q, only 3.03n is Stage 1, common with AS. Everything else, including resolving on inclined planes, connected particles with angled forces and vector dynamics, is A Level only.
+
+**Does equilibrium mean a particle is at rest?**
+No. Equilibrium means the resultant force is zero, which includes moving at constant velocity.
+
+**How do you find the acceleration of connected particles?**
+Consider the whole system first to find the acceleration, then one body on its own to find an internal force such as a tension or contact force.
+
+**What do light, inextensible and smooth tell you in a pulley question?**
+A light string has the same tension along it, an inextensible string gives both particles the same speed and acceleration size, and a smooth pulley keeps the tension the same on both sides.
+
 ## Official syllabus
 
 OCR, A Level Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018: section 3.03, Forces and Newton's Laws.

@@ -302,6 +302,20 @@ Acceleration is dv/dt, so dv/dt = 6 − 0.2v. Differentiate the proposed solutio
 
 Practise each technique on the [practice questions](/resources/ocr-a-level-mathematics-techniques-of-differentiation-product-quotient-chain-practice/), and use the [printable checklist](/checklists/ocr/a-level/mathematics/) to record what is secure.
 
+## Frequently asked questions
+
+**Are differentiation techniques A Level only in OCR A Level Mathematics A (H240)?**
+Yes. Statements 1.07q to 1.07t, covering the product, quotient and chain rules, connected rates, implicit and parametric differentiation and constructing differential equations, are all A Level only.
+
+**How do you solve a connected rates of change problem?**
+Write down the rates you are given and want, write a formula linking the quantities, differentiate it, then combine the derivatives with the chain rule.
+
+**What is the derivative of ln f(x)?**
+The derivative of ln f(x) is f′(x)/f(x). For example, d/dx ln(x² + 4x) = (2x + 4)/(x² + 4x).
+
+**Do you solve differential equations in this topic?**
+This topic covers constructing differential equations from a description. Solving equations such as dP/dt = kP by separating variables is taught under reference 1.08k.
+
 ## Official syllabus
 
 Source: OCR, A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. Statements taught: 1.07q to 1.07t, linked to 1.08k.
