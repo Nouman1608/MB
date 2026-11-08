@@ -294,6 +294,20 @@ Use this pattern for any "change of form" question:
 - Stating a change in share price without saying who it affects.
 - Judging that one form is "best" without a condition based on the case.
 
+## Frequently asked questions
+
+**What objectives are named in AQA 3.1.1?**
+Profit, growth, survival, cash flow, and social and ethical objectives.
+
+**What is a mutual?**
+A mutual is an organisation owned by its members, its customers or savers, whose surplus is used for their benefit.
+
+**Does a company receive money when its shares are sold between investors?**
+No. When one investor sells shares to another, the money passes between the two investors. The company gains cash only if it issues new shares.
+
+**What does limited liability mean?**
+With limited liability a shareholder can lose only the amount they invested; the company's debts are not limited. Sole traders have unlimited liability, so their personal assets can be used to pay business debts.
+
 ## Official syllabus
 
 AQA, *AS and A-level Business (7131 and 7132) specification*, sections 3.1.1 and 3.1.2.

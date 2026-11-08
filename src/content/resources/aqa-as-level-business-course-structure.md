@@ -31,10 +31,12 @@ syllabusTopics:
 description: "How AQA AS Business (7137) is structured, how it relates to full A-level Business, and how to approach its two-unit, two-paper assessment."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-25
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 An overview of how AQA AS Business (7137) is put together, for students
@@ -157,6 +159,23 @@ that deliberately link a Unit 3.2 topic back to marketing or finance
 sample materials show end-points reaching into content outside the
 paper's primary unit.
 
+## Frequently asked questions
+
+**How is AQA AS Business 7137 assessed?**
+By two exam papers sat at the end of the course, each lasting 1 hour 45 minutes, worth 80 marks and 50% of the qualification. Each paper has two case studies, each followed by six compulsory questions worth 40 marks.
+
+**Is AQA AS Business a separate qualification from the A-level?**
+Yes. AS Business (7137) is assessed and certificated separately from A-level Business (7138), so a student can take it as a complete qualification without going on to the full A-level.
+
+**Which units are in AQA AS Business?**
+AS covers Unit 3.1 (What is business? Managing marketing and finance) and Unit 3.2 (Managing people and operations), except 3.2.3 Managing business culture, which is A-level only. Unit 3.3 is also A-level only.
+
+**What does Paper 2 of AQA AS Business cover?**
+Paper 2 focuses on Unit 3.2 plus sections 3.1.1 and 3.1.2, but questions can draw on knowledge from across Unit 3.1, including calculations such as break-even. Paper 1 is based only on Unit 3.1.
+
+**Is the external environment in AQA AS Business 7137?**
+No. Under 7137 and 7138 the external environment has moved into the A-level-only Unit 3.3, so it is no longer part of the AS course, unlike the previous specification 7131.
+
 ## Related resources
 
 - [AQA AS-Level Business: What Is Business? (3.1.1-3.1.2)](/resources/aqa-as-level-business-what-is-business/) — business and objectives, and forms of business and stakeholders
@@ -170,4 +189,3 @@ specification code and content for your examination year at
   <img src="https://img.marlbridge.com/aqa-as-level-business-course-structure--05-case-study-use.webp" width="900" height="1064" alt="A case study with size, sector, objectives and numbers highlighted, leading to a comparison of a theory-only answer that plateaus in the middle bands and an answer adding case evidence that reaches higher." loading="lazy">
   <figcaption>Note the business context first, then use it as evidence in every answer.</figcaption>
 </figure>
-

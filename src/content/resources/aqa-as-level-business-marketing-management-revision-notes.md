@@ -294,6 +294,23 @@ Quantitative questions in the assessment overview are worth 9 or 15 marks and as
 - Applying the mix without linking it to the target market.
 - An evaluation that repeats advantages and disadvantages with no reasoned judgement.
 
+## Frequently asked questions
+
+**What are the four segmentation bases in AQA AS Business 7137?**
+Demographic, geographic, psychographic and behavioural segmentation.
+
+**How does price elasticity affect revenue?**
+If demand is elastic, a price cut raises revenue and a price rise lowers it. If demand is inelastic, a price rise raises revenue and a price cut lowers it.
+
+**What is the difference between the Boston Matrix and the product life cycle?**
+The Boston Matrix looks at many products at one moment, while the product life cycle follows one product over time.
+
+**How do you calculate click-through rate and conversion rate?**
+Click-through rate = clicks ÷ views × 100. Conversion rate = buyers ÷ visitors or clicks × 100.
+
+**What marketing objectives are listed in AQA AS Business?**
+Lead generation, sales, market share, brand awareness, customer retention, engagement and conversion.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7137, 7138) specification, version 1.1, November 2025: section 3.1.3 Marketing management, the assessment overview and the Annex on quantitative skills and formulae.
