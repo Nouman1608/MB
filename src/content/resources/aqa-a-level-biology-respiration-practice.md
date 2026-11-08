@@ -155,6 +155,20 @@ These questions cover section 3.5.2 Respiration of the AQA A-level Biology (7402
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.5.2, Respiration, in AQA A-level Biology 7402, including Required Practical 9.
+
+**Why must respiration counts often be doubled?**
+Each glucose gives two pyruvate, so counts for the link reaction and the Krebs cycle must be doubled for one glucose. Forgetting this is a common error.
+
+**How should you handle an anomalous result in practical data?**
+Leave it out when calculating a mean, and say why it is anomalous. Including it in the mean loses marks.
+
+**What units should respiration rates have?**
+Give rates with units such as cm³ per min. Writing rates without units is a common mistake.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, for first teaching 2015, published by AQA. These questions follow section 3.5.2 and required practical 9. Check the current document on the AQA website for the latest version.

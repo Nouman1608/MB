@@ -157,6 +157,20 @@ These questions follow AQA A-level Biology (7402), sections 3.8.2.2, *Regulation
 - All free 10-minute [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.8.2.2 (regulation of transcription and translation) and 3.8.2.3 (gene expression and cancer) of AQA A-level Biology 7402.
+
+**What should an evaluation of cancer risk data include?**
+Comment on sample size and say whether the data show only a correlation. Treating a correlation as proof, or giving no evaluation of sample size, loses marks.
+
+**How should you calculate a percentage change?**
+Divide the change by the starting figure, not the final figure, then multiply by 100.
+
+**Is every tumour a cancer?**
+No. A tumour can be benign. Describing a benign tumour as cancerous is a common mistake.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, sections 3.8.2.2 and 3.8.2.3 (version 1.5), published by AQA.

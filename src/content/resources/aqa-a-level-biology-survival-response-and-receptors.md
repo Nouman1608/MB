@@ -223,6 +223,23 @@ Suppose 120 rods connect to 4 bipolar neurones. Average = 120 / 4 = 30 rods per 
 - Writing "more light" for rods without saying that summation brings the bipolar neurone to threshold.
 - Forgetting that a receptor responds to a specific stimulus.
 
+## Frequently asked questions
+
+**How does phototropism work in a shoot?**
+Light from one side makes IAA move to the shaded side of the shoot. Cells there elongate faster, so the shoot bends towards the light.
+
+**How does gravitropism work in a root?**
+IAA moves to the lower side of a root lying on its side. In roots a high IAA concentration inhibits elongation, so the upper side grows faster and the root bends downwards.
+
+**What is Required Practical 10?**
+It investigates the effect of an environmental variable, such as humidity or light, on the movement of an animal, using a choice chamber or maze.
+
+**Why is a generator potential described as graded?**
+A bigger stimulus opens more channels and gives a larger generator potential. Below threshold no action potential forms; at threshold an all-or-nothing action potential is produced.
+
+**Why can cones distinguish colour?**
+There are three types of cone that absorb different wavelengths of light, and the brain interprets the combination of signals as colour.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification for first teaching 2015, published by AQA (sections 3.6.1.1 and 3.6.1.2).

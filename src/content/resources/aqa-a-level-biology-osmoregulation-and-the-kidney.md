@@ -198,6 +198,23 @@ The urine is more concentrated because more water was reabsorbed into the blood.
 
 Condense this with the [revision notes](/resources/aqa-a-level-biology-osmoregulation-and-the-kidney-revision-notes/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-osmoregulation-and-the-kidney-practice/). Tick off the section on the [printable checklist](/checklists/aqa/a-level/biology/).
 
+## Frequently asked questions
+
+**What is osmoregulation?**
+Osmoregulation is the control of the water potential of the blood. In mammals it is controlled by the hypothalamus, the posterior pituitary and ADH acting on the kidney.
+
+**Which three layers does filtrate cross in the glomerulus?**
+The capillary endothelium, which has pores, the basement membrane, which acts as the filter, and the podocytes lining the capsule, which have slit-shaped gaps.
+
+**How do you calculate net filtration pressure?**
+Subtract the opposing pressures from the capillary hydrostatic pressure, for example capillary hydrostatic pressure − capsule pressure − the pressure from plasma proteins. A positive value means fluid is forced into the capsule.
+
+**Is water actively transported in the kidney?**
+No. Water always moves by osmosis. ADH only makes the membranes of the DCT and collecting duct more permeable to water.
+
+**Which limb of the loop of Henle is impermeable to water?**
+The ascending limb is impermeable to water. Sodium and chloride ions are actively transported out of it, lowering the water potential of the medulla.
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* specification (7401 and 7402), for first teaching 2015, section 3.6.4.3 Control of blood water potential (A-level only). Published by AQA.

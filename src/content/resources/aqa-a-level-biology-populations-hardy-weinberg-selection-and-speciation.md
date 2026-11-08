@@ -212,6 +212,23 @@ Repeated cycles of variation, selection and isolation, over a very long time, sp
 </figure>
 
 
+## Frequently asked questions
+
+**What are the conditions for the Hardy–Weinberg principle?**
+The population is large, mating is random, there is no mutation, no individuals enter or leave, and there is no natural selection.
+
+**What is a gene pool?**
+The gene pool is the complete set of alleles, for every gene, held by all the individuals in a population at a given time.
+
+**How do you find allele frequencies from genotype counts?**
+Count alleles, not individuals. For example, with 120 RR, 90 Rr and 40 rr plants there are 500 alleles, and R = (2 × 120) + 90 = 330, so p = 0.66.
+
+**What is evolution in AQA A-level Biology?**
+Evolution is a change in the allele frequencies in a population. Individuals do not evolve; populations do.
+
+**What are the steps of allopatric speciation?**
+A geographical barrier splits a population with no gene flow between the parts, mutations arise independently, natural selection favours different alleles in each, and the gene pools diverge until the populations can no longer interbreed to produce fertile offspring.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, published by AQA: sections 3.7.2 and 3.7.3.

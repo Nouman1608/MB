@@ -243,6 +243,23 @@ Sample B is the most variable. The ranges for A and C do not overlap, so their d
 - Treating a standard deviation as an error or as the mean.
 - Concluding that two means differ without commenting on spread.
 
+## Frequently asked questions
+
+**What are the eight taxonomic ranks?**
+Domain, kingdom, phylum, class, order, family, genus and species, from the largest group to the smallest.
+
+**How should a binomial name be written?**
+Write the genus first with a capital letter and the species second in lower case, both in italics, or underline each word if handwritten, for example *Lepus europaeus*.
+
+**What is the role of courtship behaviour?**
+Courtship is species specific, so it allows species recognition and helps make sure mating happens with a member of the same species that can produce fertile offspring.
+
+**How do you calculate the percentage difference between two DNA sequences?**
+Align the sequences, count the positions that differ, divide by the number of positions compared and multiply by 100. A smaller percentage means a closer relationship.
+
+**What does a small standard deviation show?**
+A small standard deviation shows that the values are clustered near the mean; a large one shows they are spread out.
+
 ## Official syllabus
 
 These notes follow sections 3.4.5 and 3.4.7 of the *AQA AS and A-level Biology* specification (7401 and 7402) for first teaching 2015, published by AQA.

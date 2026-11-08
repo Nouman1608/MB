@@ -177,6 +177,20 @@ These questions cover section 3.7.4, Populations in ecosystems (A-level only), a
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.7.4, Populations in ecosystems, which is A-level only in AQA Biology 7402.
+
+**What must you do with a quadrat mean?**
+Scale it up to the whole area before giving the population. Reporting the quadrat mean as the population is a common error.
+
+**How should you evaluate a study in an exam question?**
+Use points that refer to the study given, such as its sample size or controls, rather than generic comments.
+
+**Does a significant correlation prove cause?**
+No. A correlation shows a relationship but not that one factor causes the other.
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* specification (7401 and 7402), for first teaching 2015: section 3.7.4, Populations in ecosystems (A-level only), and required practical 12.

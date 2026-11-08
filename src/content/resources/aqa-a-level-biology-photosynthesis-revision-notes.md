@@ -258,6 +258,23 @@ For a curve that rises then plateaus: (1) on the rising part the factor on the x
 - Forgetting a boiled or dark control, or not saying what each control shows.
 - Measuring Rf to the edge of a spot instead of its centre, or giving it units.
 
+## Frequently asked questions
+
+**What is photoionisation?**
+Photoionisation is the loss of electrons from chlorophyll when it absorbs light.
+
+**What are the products of photolysis?**
+Photolysis of water produces protons, electrons and oxygen. The electrons replace those lost from chlorophyll, and the protons and electrons help reduce NADP.
+
+**What are the steps of the light-independent reaction?**
+Carbon dioxide combines with RuBP, catalysed by rubisco, to give two GP. GP is reduced to triose phosphate using ATP and reduced NADP, and most triose phosphate is used to regenerate RuBP, which also uses ATP.
+
+**What is the aim of Required Practical 8?**
+To investigate dehydrogenase activity in chloroplast extracts using DCPIP, a blue electron acceptor that decolourises when reduced.
+
+**How do you read a limiting factor graph?**
+On the rising part of the curve, the factor on the x-axis is limiting. On the plateau, another factor is limiting.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401 and 7402), specification for first teaching 2015, published by AQA. Section 3.5.1 and required practicals 7 and 8.

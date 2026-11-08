@@ -22,10 +22,12 @@ syllabusTopics:
 description: "Condensed AQA GCSE Biology 8461 Bioenergetics notes: equations, limiting factors, inverse square law, respiration and oxygen debt, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These are condensed recall notes for section **4.4 Bioenergetics** (4.4.1.1 to 4.4.2.3) of the AQA GCSE Biology
@@ -322,6 +324,23 @@ Gain = 35 − 50 = −£15, so it is not cost effective. CO₂ was probably not 
 - Forgetting the unit on a rate, or dividing time by amount.
 - Saying the oxygen debt is "oxygen owed to the muscles" without linking it to removing lactic acid (Higher tier only).
 - Confusing glycogen (animal store) with glucagon, a hormone from a different topic.
+
+## Frequently asked questions
+
+**What are the four factors that affect the rate of photosynthesis?**
+Temperature, light intensity, carbon dioxide concentration and the amount of chlorophyll. The limiting factor is the one in shortest supply.
+
+**What is the inverse square law in AQA GCSE Biology?**
+Light intensity is inversely proportional to the square of the distance from the light source. If the distance doubles, the light intensity falls to a quarter. This is Higher tier only.
+
+**What are the uses of glucose made in photosynthesis?**
+Respiration, conversion to insoluble starch for storage, making fat or oil for storage, making cellulose to strengthen the cell wall, and making amino acids for protein synthesis, which also needs nitrate ions.
+
+**What is oxygen debt?**
+Oxygen debt is the amount of extra oxygen the body needs after exercise to react with the lactic acid that has built up and remove it from cells. This is Higher tier only.
+
+**Do plants respire only at night?**
+No. Respiration happens continuously in all living cells, including plant cells, by day and night.
 
 ## Official syllabus
 

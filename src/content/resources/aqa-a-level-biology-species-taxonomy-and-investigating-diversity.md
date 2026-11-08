@@ -245,6 +245,23 @@ For data that follow a normal distribution, about 95 % of values lie within two 
 - Calling appearance enough evidence of relatedness.
 - Saying a larger standard deviation means a larger mean.
 
+## Frequently asked questions
+
+**What is a species in AQA A-level Biology?**
+Two organisms belong to the same species if they are able to produce fertile offspring.
+
+**What is phylogenetic classification?**
+A phylogenetic classification arranges species into groups based on their evolutionary origins and relationships, in a hierarchy of nested taxa.
+
+**How have immunology and genome sequencing changed classification?**
+They allow proteins and whole genomes to be compared, clarifying evolutionary relationships. These methods can overturn classifications based only on appearance.
+
+**What four types of data can be used to compare genetic diversity?**
+The frequency of measurable or observable characteristics, the base sequence of DNA, the base sequence of mRNA and the amino acid sequence of the proteins encoded.
+
+**Why can species have different DNA but identical proteins?**
+The genetic code is degenerate, so some base changes do not alter the amino acid. DNA comparisons are therefore more sensitive than protein comparisons.
+
 ## Official syllabus
 
 This guide follows sections 3.4.5 and 3.4.7 of the *AQA AS and A-level Biology* specification (7401 and 7402) for first teaching 2015, published by AQA.

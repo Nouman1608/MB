@@ -233,6 +233,23 @@ Hardy-Weinberg is the baseline: if all five conditions hold, allele frequencies 
 - Reading a graph with two peaks as stabilising rather than disruptive selection.
 - Giving a count of individuals when a frequency was asked for.
 
+## Frequently asked questions
+
+**How do you use the Hardy–Weinberg equation?**
+Find q² from the recessive phenotype frequency, take the square root to get q, work out p = 1 − q, then calculate p², 2pq or q². Multiply by the population size if a number of individuals is needed.
+
+**Is the dominant phenotype frequency equal to p²?**
+No. The dominant phenotype frequency is p² + 2pq, because it includes heterozygotes. Using it as p² is a common wrong turn.
+
+**Why does genetic drift matter most in small populations?**
+In a small population a few chance events represent a large share of the alleles, so allele frequencies can change a lot by chance alone.
+
+**What causes sympatric speciation?**
+Sympatric speciation happens without geographical separation, for example through different breeding seasons, different courtship behaviour or changes in chromosome number. A geographical barrier is the cause of allopatric speciation, not sympatric.
+
+**How do you recognise disruptive selection on a graph?**
+A distribution with two peaks after selection shows disruptive selection, where both extremes are favoured. Reading two peaks as stabilising selection is a common error.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, published by AQA: sections 3.7.2 and 3.7.3.

@@ -22,10 +22,12 @@ syllabusTopics:
 description: "AQA GCSE Biology 8461 Bioenergetics taught from scratch: photosynthesis, limiting factors, respiration, exercise and metabolism, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide teaches section **4.4 Bioenergetics** of the AQA GCSE Biology (8461) specification, for teaching
@@ -385,6 +387,23 @@ glycerol build triglycerides. Phospholipids and steroids are other types of lipi
 Condense this guide with the [Bioenergetics revision notes](/resources/aqa-gcse-biology-8461-bioenergetics-revision-notes/),
 then try the [Bioenergetics practice questions](/resources/aqa-gcse-biology-8461-bioenergetics-practice/). Check your
 wider Paper 1 knowledge with the [free 10-minute diagnostics](/diagnostics/).
+
+## Frequently asked questions
+
+**What is the word equation for photosynthesis?**
+Carbon dioxide + water → glucose + oxygen, with light energy needed. Photosynthesis is an endothermic reaction.
+
+**What is the difference between aerobic and anaerobic respiration?**
+Aerobic respiration uses oxygen and produces carbon dioxide and water. Anaerobic respiration in muscles produces lactic acid; in plant and yeast cells it produces ethanol and carbon dioxide, and it transfers much less energy.
+
+**How does the body respond to exercise?**
+Heart rate, breathing rate and breath volume increase, so more oxygenated blood reaches the muscles. If oxygen supply is too low, the muscles respire anaerobically and lactic acid builds up.
+
+**What is Required Practical 6 in AQA GCSE Biology?**
+It investigates the effect of light intensity on the rate of photosynthesis, for example by counting oxygen bubbles from pondweed with a lamp at different distances and a heat shield to keep temperature constant.
+
+**What is metabolism?**
+Metabolism is the sum of all the reactions in a cell or the body, such as making starch, glycogen and cellulose, forming lipids and amino acids, respiration and the breakdown of excess proteins.
 
 ## Official syllabus
 

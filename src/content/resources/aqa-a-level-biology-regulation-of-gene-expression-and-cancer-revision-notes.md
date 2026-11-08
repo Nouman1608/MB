@@ -212,6 +212,23 @@ Phenotype is the result of genotype and environment together. Epigenetics is one
 </figure>
 
 
+## Frequently asked questions
+
+**How does oestrogen start transcription of a target gene?**
+Oestrogen diffuses into the cell and binds to a complementary receptor, which changes shape. The hormone-receptor complex moves into the nucleus and binds to a specific base sequence near the gene, so RNA polymerase can bind.
+
+**What is RNA interference?**
+Double-stranded RNA is cut into short siRNA. One strand joins a protein complex and pairs with complementary mRNA, which is hydrolysed so it cannot be translated. The gene is still transcribed normally.
+
+**Is epigenetic change the same as mutation?**
+No. Epigenetic change alters gene expression without any base being substituted or deleted, and the marks can be copied to daughter cells.
+
+**How does acetylation of histones affect transcription?**
+More acetylation gives looser DNA and more transcription; less acetylation packs the DNA more tightly and inhibits transcription.
+
+**What is the difference between an oncogene and a tumour suppressor gene?**
+An oncogene is a mutated proto-oncogene that is permanently switched on, stimulating cell division. A tumour suppressor gene normally slows cell division, so cancer can follow when it is inactivated.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, sections 3.8.2.2 and 3.8.2.3 (version 1.5), published by AQA.

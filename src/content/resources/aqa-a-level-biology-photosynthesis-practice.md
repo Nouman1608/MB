@@ -168,6 +168,20 @@ These questions cover section 3.5.1 (Photosynthesis) of the AQA AS and A-level B
 - Try all free 10-minute diagnostics at [diagnostics](/diagnostics/).
 - Book a free trial class at [trial](/trial/).
 
+## Frequently asked questions
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.5.1, Photosynthesis, in AQA A-level Biology 7402, including data, limiting factors and the required practicals.
+
+**Should you say that energy is made in photosynthesis?**
+No. Energy is transferred, not made. Stating that energy is made is a common way to lose marks.
+
+**What must an evaluation of agricultural data include?**
+Include the cost as well as the change in yield. Evaluating agricultural data with no mention of cost loses marks.
+
+**How do you calculate a percentage change correctly?**
+Divide the change by the original value, then multiply by 100. Give units where needed, but no units for an Rf value.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401 and 7402), specification for first teaching 2015, published by AQA. Section 3.5.1 and required practicals 7 and 8.

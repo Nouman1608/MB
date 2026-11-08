@@ -348,6 +348,23 @@ Spread bacteria evenly over an agar plate using the approved aseptic method. Add
 - Counting divisions wrongly: 2 hours at 20 minutes per division is 6 divisions.
 - Saying cultures are incubated at 25°C "because bacteria grow best there". The reason is safety.
 
+## Frequently asked questions
+
+**What is the difference between eukaryotic and prokaryotic cells?**
+Eukaryotic cells, such as plant and animal cells, have genetic material enclosed in a nucleus. Prokaryotic cells, such as bacteria, are much smaller and their genetic material is not enclosed in a nucleus.
+
+**What is Required Practical 1 in AQA GCSE Biology?**
+Using a light microscope to observe, draw and label plant and animal cells, including a magnification scale. Thin samples such as onion epidermis are stained and covered with a coverslip lowered at an angle.
+
+**How do you calculate the number of bacteria after a period of growth?**
+Find the number of divisions by dividing the time available by the mean division time, then multiply the starting number by 2 raised to that number of divisions.
+
+**Why do most animal cells differentiate early but plant cells do not?**
+Most animal cells differentiate at an early stage, while many plant cells keep the ability to differentiate throughout life. In mature animals, cell division is mainly for repair and replacement.
+
+**What is the resolution limit of a light microscope?**
+A light microscope cannot resolve detail finer than about 200 nm, so an electron microscope is needed to see sub-cellular structures in detail.
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, for first teaching 2016, exams from 2018, version 1.0, published by AQA -- section 4.1.1 Cell structure (4.1.1.1 to 4.1.1.6), with required practical activities 1 and 2.

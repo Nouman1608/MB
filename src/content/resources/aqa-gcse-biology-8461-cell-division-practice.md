@@ -208,6 +208,20 @@ growing new shoots and roots throughout its life. **[3]**
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which section of the AQA GCSE Biology 8461 specification do these questions cover?**
+They cover section 4.1.2 Cell division: chromosomes, mitosis and the cell cycle, and stem cells.
+
+**How do you calculate the number of cells after several cycles of division?**
+Use 2ⁿ, where n is the number of cycles, not 2 × n. Treating doubling as multiplication by the number of cycles is a common error.
+
+**What should an "evaluate" answer include?**
+Points on both sides and a conclusion linked to them. Listing one side only, or giving no conclusion, loses marks.
+
+**Should you write that stem cells cure diabetes?**
+No. The specification says stem cell treatment may be able to help conditions such as diabetes, so write "may help" rather than "cure".
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, Version 1.0, for teaching from September 2016 and exams from 2018
