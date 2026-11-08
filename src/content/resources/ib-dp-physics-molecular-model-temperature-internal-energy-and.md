@@ -222,6 +222,20 @@ Melting takes by far the largest share, which shows how much potential energy mu
 - Saying that temperature is the same thing as internal energy. Temperature is linked to average kinetic energy only.
 - Giving the direction of transfer from the body with more internal energy rather than from the hotter body.
 
+## Frequently asked questions
+
+**Is the kinetic energy of a moving object part of its internal energy?**
+No. Internal energy is the total intermolecular potential energy plus the random kinetic energy of the molecules. The kinetic energy of the whole object moving through space is not part of it.
+
+**Do heavier atoms move more slowly at the same temperature?**
+Yes. At the same temperature every particle has the same average kinetic energy, 3/2 kB T, so a heavier atom has a lower speed.
+
+**Which words for changes of state does the IB DP Physics guide expect?**
+The guide expects the words melting, freezing, boiling, condensing and evaporation to be familiar.
+
+**Where is the second half of IB DP Physics B.1 covered?**
+Conduction, convection and thermal radiation, the second half of B.1, are taught separately in their own guide.
+
 ## Official syllabus
 
 Source: the *Physics guide* for the IB Diploma Programme (first assessment 2025), International Baccalaureate Organization. This page covers topic B.1 up to and including quantitative analysis using Q = mcΔT and Q = mL.

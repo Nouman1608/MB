@@ -149,6 +149,20 @@ Data used where needed: 1 u = 1.661 × 10⁻²⁷ kg = 931.5 MeV/c²; 1 MeV = 1.
 - Take the [free 10-minute diagnostics](/diagnostics/) to find other weak spots.
 - [Book a free trial class](/trial/) for help with calculations.
 
+## Frequently asked questions
+
+**Are these IB DP Physics fission questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these fission questions for SL or HL?**
+Both. The content of E.4, Fission, is the same for SL and HL.
+
+**What data do these questions use?**
+Use 1 u = 1.661 × 10⁻²⁷ kg = 931.5 MeV/c² and 1 MeV = 1.602 × 10⁻¹³ J, and take the mass of a nucleus as A × 1 u. Other values are given in each question.
+
+**What unit slips lose marks in fission calculations?**
+Common slips are giving the energy in MeV when joules are asked for, and mixing MW and GW.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This page paraphrases sub-topic E.4, Fission.

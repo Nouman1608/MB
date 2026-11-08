@@ -142,6 +142,20 @@ Data where needed: 1 u = 1.661 × 10⁻²⁷ kg = 931.5 MeV/c²; 1 MeV = 1.602 �
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics nuclear structure questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Which of these nuclear structure questions are HL only?**
+Questions 10 and 11, and parts (b) and (c) of Question 12, are marked HL only. The rest apply to both SL and HL.
+
+**What data do these questions supply?**
+They supply 1 u = 1.661 × 10⁻²⁷ kg = 931.5 MeV/c², 1 MeV = 1.602 × 10⁻¹³ J, e, k and G, plus the masses of the hydrogen-1 atom, the neutron and the proton.
+
+**What unit slips lose marks in binding energy questions?**
+Common slips are mixing u, kg and MeV/c² in one line, and giving a two-digit answer where three significant figures are expected.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, International Baccalaureate Organization: sub-topic E.3, Radioactive decay (nuclear structure, binding energy and decay types, including additional higher level understandings).

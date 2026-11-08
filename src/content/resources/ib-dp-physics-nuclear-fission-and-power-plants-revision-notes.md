@@ -199,6 +199,20 @@ Because per-nucleon values are read from a curve, the answer is an estimate. U-2
 - Treating k as a count of neutrons per fission rather than neutrons that go on to cause fission.
 - Missing the unit prefix, such as MW against GW.
 
+## Frequently asked questions
+
+**Is there extra HL content in IB DP Physics E.4 Fission?**
+No. The guide adds no extra HL material to E.4, so the content is the same for SL and HL.
+
+**Why is there a critical mass for a chain reaction?**
+Neutrons are lost by escaping through the surface of the fuel. A bigger piece loses a smaller fraction of its neutrons this way, so there is a minimum mass for a self-sustaining chain reaction.
+
+**What is enriched uranium?**
+Natural uranium is only about 0.7% uranium-235. Enrichment raises the fraction of uranium-235 in the fuel.
+
+**Is the multiplication factor k required by the IB DP Physics guide?**
+No. The generation-growth model using k is a convenient way to describe a chain reaction, but the guide does not require it.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. These notes paraphrase sub-topic E.4, Fission.

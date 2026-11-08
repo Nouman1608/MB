@@ -201,6 +201,20 @@ Answers score best when they name the correct energy store. Use these sentence f
 - Confusing temperature with internal energy, or heat with temperature, in written answers.
 - Leaving the unit off the last line, or quoting too many or too few significant figures.
 
+## Frequently asked questions
+
+**Does energy flow from the body with more internal energy?**
+No. Thermal energy transfers from the higher temperature to the lower temperature, whatever the sizes of the two bodies.
+
+**Why is the boiling stage of a heating curve longer than the melting stage?**
+The specific latent heat of vaporization is much larger than the specific latent heat of fusion, so boiling needs far more energy at the same power.
+
+**What does the gradient of a heating curve show?**
+The gradient of a sloping section is P/(mc), so for the same mass and power a steeper line means a smaller specific heat capacity.
+
+**Should I use 273 or 273.15 to convert to kelvin?**
+Either is acceptable: T/K = θ/°C + 273, with 273.15 used for more precision. A temperature change is the same size in kelvin and degrees Celsius.
+
 ## Official syllabus
 
 Source: the *Physics guide* for the IB Diploma Programme (first assessment 2025), International Baccalaureate Organization. Topic B.1, Thermal energy transfers, first half. Keep to the guide's own wording of each statement when you write answers.
