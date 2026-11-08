@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "number-operations-and-integers-ocr-gcse-maths"
-description: "Calculations with integers, whole number theory, combining arithmetic operations, and inverse operations -- the full content of Topic 1 for OCR GCSE Mathematics (J560) -- with supporting notes on indices, standard form, rounding and error intervals from Topics 3 and 4."
+description: "OCR GCSE Maths J560 Topic 1 guide: integer calculations, primes, HCF and LCM, order of operations and inverse operations, plus indices and error intervals."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -250,3 +252,16 @@ Treating 1 as prime. Applying BIDMAS by doing all multiplication before all divi
   <figcaption>Bells coincide at the lowest common multiple, 840 s = 14 minutes.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What topics are in OCR GCSE Maths J560 Topic 1?**
+Topic 1, Number operations and integers, covers calculations with integers, whole number theory such as factors, multiples and primes, combining arithmetic operations, and inverse operations. It is the first of twelve topic areas in OCR GCSE (9-1) Mathematics J560.
+
+**What grades can you get on each tier of OCR GCSE Maths?**
+Foundation tier, Papers 1 to 3, covers grades 5 to 1, and Higher tier, Papers 4 to 6, covers grades 9 to 4. Any topic may be assessed on any paper within the candidate's tier.
+
+**When do you use the LCM instead of the HCF in a word problem?**
+Use the LCM when you need to know when repeating events next coincide, such as two bells ringing together. Use the HCF to find the largest equal group you can make.
+
+**How do you write an error interval for a rounded measurement?**
+Give the lower bound with ≤ and the upper bound with <, half a unit either side of the rounded value. A length of 6.3 cm to 1 decimal place gives 6.25 ≤ length < 6.35, because 6.35 would round up.

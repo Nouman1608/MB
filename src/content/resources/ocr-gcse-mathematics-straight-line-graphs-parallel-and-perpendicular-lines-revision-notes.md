@@ -256,6 +256,20 @@ These notes condense sections 7.01f, 7.02a and 7.02b of the OCR GCSE (9-1) Mathe
 - Writing a tangent gradient equal to the radius gradient.
 - Giving a circle equation with r on the right rather than r².
 
+## Frequently asked questions
+
+**How do you find the gradient between two points?**
+Divide the change in y by the change in x: m = (y₂ − y₁) ÷ (x₂ − x₁). Subtract the coordinates in the same order on the top and the bottom.
+
+**How do you know if two lines are parallel or perpendicular?**
+Rearrange both to y = mx + c and compare the gradients. Parallel lines have equal gradients, and perpendicular lines have gradients that multiply to −1; perpendicular lines are Higher tier only.
+
+**How do you tell if a point is inside or outside a circle x² + y² = r²?**
+Work out x² + y² for the point and compare it with r². If it is equal the point is on the circle, if it is less the point is inside, and if it is more the point is outside.
+
+**How do you decide which side of a line to shade for an inequality?**
+Test a point that is not on the boundary line, such as (0, 0). If the inequality is true at the test point, the region is on that side; if it is false, the region is on the other side.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections 7.01f, 7.02a and 7.02b.

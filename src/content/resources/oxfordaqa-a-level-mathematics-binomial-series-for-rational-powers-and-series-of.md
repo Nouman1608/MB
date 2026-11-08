@@ -265,6 +265,20 @@ For the specification's own example, (3 + 2x²)/((2x + 1)(x − 3)²) = 2/(7(1 +
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-binomial-series-for-rational-powers-and-series-of-practice/), check the key results in the [revision notes](/resources/oxfordaqa-a-level-mathematics-binomial-series-for-rational-powers-and-series-of-revision-notes/), and tick the outcome off on the [checklist](/checklists/oxfordaqa/a-level/mathematics/). Take the [diagnostic](/diagnostics/) to find your weakest area.
 
+## Frequently asked questions
+
+**What is the binomial series for any rational power?**
+(1 + x)ⁿ = 1 + nx + n(n − 1)/2! x² + n(n − 1)(n − 2)/3! x³ + …, valid for |x| < 1 when n is negative or a fraction. Bracket every negative or fractional value when you substitute, so the signs stay correct.
+
+**Why is the binomial series only valid for |x| < 1?**
+For (1 + x)⁻¹ the series 1 − x + x² − x³ + … is geometric with common ratio −x, so it only has a sum when |x| < 1. The binomial series has the same limit for every rational power.
+
+**How do you expand a rational function as a series?**
+Split it into partial fractions, rewrite each part as a constant times (1 + u)ⁿ, expand each one, and add the series term by term. Then state the narrowest range of validity.
+
+**How do you handle a factor such as (x − 3) in a series expansion?**
+Rewrite it with the constant first: 1/(x − 3) = −1/(3 − x), while (x − 3)² is the same as (3 − x)². Then take out the constant so each part has the form k(1 + u)ⁿ.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section P2.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA.

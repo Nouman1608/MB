@@ -232,6 +232,20 @@ Learn the skeleton of each proof, then practise writing it out with reasons.
 - Proving only one direction of 8.05e.
 - Forgetting the reflex angle at the centre when the centre lies outside the angle.
 
+## Frequently asked questions
+
+**How many circle theorems do you need for OCR GCSE Maths?**
+OCR GCSE Mathematics J560 lists seven circle theorems, 8.05b to 8.05h, and Higher tier students must be able to apply and prove each one. They cover the angle at the centre, the angle in a semicircle, angles in the same segment, the radius and chord, the radius and tangent, the alternate segment theorem and cyclic quadrilaterals.
+
+**What is the difference between a sector and a segment of a circle?**
+A sector is the region bounded by two radii and an arc. A segment is the region bounded by a chord and an arc.
+
+**Are opposite angles in a cyclic quadrilateral equal?**
+Not usually. Opposite angles of a cyclic quadrilateral add up to 180°, so they are only equal when both are 90°.
+
+**How do you find the distance from the centre of a circle to a chord?**
+Draw the perpendicular from the centre to the chord, which bisects it, and use Pythagoras with the radius as the hypotenuse. For a chord of 8 cm in a circle of radius 5 cm, the distance is √(25 − 16) = 3 cm.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017: section 8.05 Circles.

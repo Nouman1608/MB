@@ -272,6 +272,20 @@ For a cubic or reciprocal such as y = x³ or y = 1/x, you do not need a table. R
 - Drawing a curve that crosses the x-axis at points that disagree with the roots you found.
 - Choosing a U-shape for a quadratic with a negative x² coefficient.
 
+## Frequently asked questions
+
+**How do you find the turning point of a quadratic graph using symmetry?**
+Take the mean of the two roots to get the x-value of the turning point, then substitute it into the equation to get the y-value. For y = x² + 2x − 24, the roots −6 and 4 give x = −1 and a turning point of (−1, −25).
+
+**How can you tell if a quadratic graph is U-shaped or upside down?**
+Look at the sign of the x² coefficient. If it is positive, the graph is U-shaped with a minimum; if it is negative, it is upside down with a maximum.
+
+**What is the turning point of y = (x + p)² + q?**
+The turning point is (−p, q), not (p, q). Finding the turning point by completing the square is Higher tier only in OCR GCSE Mathematics J560.
+
+**How do you know if a quadratic graph has no roots?**
+If a U-shaped curve has its minimum above the x-axis, or an upside-down curve has its maximum below it, the curve never meets the x-axis. Algebraically, a negative value under the square root in the quadratic formula means there are no roots.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 7.01 Graphs of equations and functions (7.01a to 7.01c).

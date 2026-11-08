@@ -191,6 +191,20 @@ Dog only: 14 | Both: 8 | Cat only: 11 | Neither: 17   (total 50)
 - Take the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these sample space and Venn diagram questions cover?**
+They follow sections 11.02a to 11.02c of OCR GCSE (9-1) Mathematics J560: sample spaces, systematic listing, the product rule, and Venn diagrams and sets. The product rule and conditional probability questions are Higher tier only.
+
+**What is the most common mistake when filling in a Venn diagram?**
+Forgetting to subtract the overlap from each set total, or leaving out the number outside both circles. Fill in the overlap first, then each "only" region, then the outside, and check that the four regions add to the group total.
+
+**What denominator do you use for a "given that" probability?**
+Use the size of the group named in the condition, not the whole group. For example, if a person who used the pool is chosen, divide by the number who used the pool.
+
+**How does the product rule change when choices cannot repeat?**
+The number of options falls by one at each stage. For first, second and third places from eight runners, multiply 8 × 7 × 6 rather than 8 × 8 × 8.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), first assessment 2017, published by OCR.

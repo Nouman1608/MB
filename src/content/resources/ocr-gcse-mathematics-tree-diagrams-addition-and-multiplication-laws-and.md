@@ -309,6 +309,20 @@ In example 6, p(diamond given red) = 1/2 but p(diamond) = 1/4. The two are diffe
 
 Try the [practice questions](/resources/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and-practice/), then tick the unit off the [checklist](/checklists/ocr/gcse/mathematics/). The [diagnostics](/diagnostics/) show where else to revise.
 
+## Frequently asked questions
+
+**What is the addition law for probability?**
+For mutually exclusive events, p(A or B) = p(A) + p(B). When the events can happen together, use p(A or B) = p(A) + p(B) − p(A and B), so the overlap is not counted twice.
+
+**How can you check a tree diagram is correct?**
+The branches leaving any one point must add up to 1, and all the route probabilities together must also add up to 1. If they do not, look for a wrong branch value.
+
+**Is p(A given B) the same as p(B given A)?**
+No. In general the two are different, because the denominator is the size of the group named after "given". For example, p(diamond given red) is 1/2, but p(red given diamond) is 1.
+
+**How do you find a conditional probability from a two-way table?**
+Use the total of the row or column named after "given" as the denominator, not the overall total. For example, if 10 of the 40 Year 11 pupils cycle, p(cycles given Year 11) = 10/40 = 1/4.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Content references 11.02d, 11.02e and 11.02f.

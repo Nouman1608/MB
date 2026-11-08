@@ -172,6 +172,20 @@ These questions cover section S1.2 (Discrete random variables) of the OxfordAQA 
 - Take one of the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OxfordAQA unit covers discrete random variables?**
+Section S1.2, Discrete random variables, of the OxfordAQA International AS and A-level Mathematics (9660) specification covers expectation, variance and independent combinations. It is part of International AS Unit PSM1.
+
+**What is the most common mistake when finding the variance from a table?**
+Using (E(X))² in place of E(X²), or forgetting to subtract μ². Find E(X²) = Σ x² p separately, then use Var(X) = E(X²) − μ².
+
+**Do you add or subtract variances for X − Y?**
+For independent X and Y, you always add: Var(X − Y) = Var(X) + Var(Y). Subtracting variances for a difference is a common error.
+
+**Is E(10/X) the same as 10/E(X)?**
+No. For a non-linear function, work from the table using E(g(X)) = Σ g(x) p, applying the function to each value and keeping the same probabilities.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section S1.2 Discrete random variables. Published by OxfordAQA; International AS exams from May/June 2018 and International A-level exams from May/June 2019.

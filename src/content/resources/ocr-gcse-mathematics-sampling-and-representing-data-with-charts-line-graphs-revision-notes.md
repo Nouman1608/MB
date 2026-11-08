@@ -265,6 +265,20 @@ Worked reminder: class 20<x≤50 with frequency 45 has width 30 and frequency de
 - Answers read from a graph with no reading lines drawn, or stated with false precision.
 - Describing a time series with "it goes up and down" and no mention of trend or the repeating pattern.
 
+## Frequently asked questions
+
+**What causes bias in a sample?**
+Bias comes from sampling at one place or time only, using a sampling frame that misses people, taking volunteers only, or asking leading questions. A biased sample does not represent the population.
+
+**How do you work out the angles for a pie chart?**
+Divide 360° by the total frequency to find the degrees for one item, then multiply by each frequency. Check that the angles add up to 360°.
+
+**What is frequency density in a histogram?**
+Frequency density is the frequency divided by the class width. Rearranging, frequency = frequency density × class width, which is the area of the bar.
+
+**What is the difference between a bar chart and a histogram?**
+A bar chart has gaps between bars and shows categories or single values. A histogram has no gaps, shows continuous grouped data and uses area to represent frequency.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections covered: 12.01a, 12.02a and 12.02b.

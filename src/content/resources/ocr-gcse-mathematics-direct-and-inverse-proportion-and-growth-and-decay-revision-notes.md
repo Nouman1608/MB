@@ -283,6 +283,20 @@ Do these without notes. Questions 8 to 10 are Higher tier only.
 - Leaving money to many decimal places, or giving 12622.5 without the pound sign and second decimal place.
 - Not saying what the answer means when the question asks you to interpret it.
 
+## Frequently asked questions
+
+**What is the difference between simple and compound interest?**
+Simple interest adds the same amount every year, calculated on the original sum with P × r × n / 100. Compound interest is added to the balance, so each year's interest is calculated on a larger amount and you multiply by the multiplier for each year.
+
+**What multiplier do you use for a percentage decrease?**
+For a decrease of r%, the multiplier is 1 − r/100, so a 12% fall is 0.88, not 0.12. For an increase of r%, it is 1 + r/100, so a 2.5% increase is 1.025.
+
+**What happens to y when x doubles if y is proportional to x²?**
+If y = kx², doubling x multiplies y by 4. If y = kx³, y is multiplied by 8; these power and root forms are Higher tier only in OCR GCSE Mathematics J560.
+
+**How do you find the original amount after a percentage change?**
+Divide the new amount by the multiplier. For example, if a price after a 20% rise is £360, the original price is 360 ÷ 1.2 = £300.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), first assessment 2017, sections 5.02a, 5.02b and 5.03a.

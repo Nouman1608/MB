@@ -267,6 +267,20 @@ You can also reflect a curve by reflecting its key points. For the x-axis, chang
 
 When you are ready, test yourself with the [practice questions](/resources/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and-practice/) and use the [revision notes](/resources/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and-revision-notes/) for quick recall.
 
+## Frequently asked questions
+
+**What is the difference between an exponential function and a quadratic?**
+In an exponential function such as y = kˣ, the variable is in the power. In y = x², x is the base and the power 2 is fixed.
+
+**How can you tell whether y = kˣ shows growth or decay?**
+If k > 1 the graph rises from left to right, showing growth; if 0 < k < 1 it falls, showing decay. When k = 1, the graph is the horizontal line y = 1.
+
+**What is the difference between the graphs of sin x and cos x?**
+y = sin x starts at (0, 0) and rises to a maximum at 90°, while y = cos x starts at (0, 1) and falls. The cosine curve is the sine curve shifted 90° to the left.
+
+**Do you need function notation for transformations of graphs in OCR GCSE Maths?**
+No. Function notation is not required for statement 7.03a in OCR GCSE Mathematics J560, so transformations are written as equations such as y = sin x + 2 or y = (x + 2)² − 1.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), first assessment 2017, published by OCR. This guide is based on statements 7.01b, 7.01d, 7.01e and 7.03a.

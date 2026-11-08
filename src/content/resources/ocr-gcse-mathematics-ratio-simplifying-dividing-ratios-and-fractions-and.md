@@ -291,6 +291,20 @@ A linear function does not always describe a ratio. A taxi fare y = 2x + 3 (in p
 
 Work through the [practice questions](/resources/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and-practice/), then return to the [revision notes](/resources/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and-revision-notes/) for the quick-recall tables.
 
+## Frequently asked questions
+
+**Is ratio a Higher tier topic in OCR GCSE Maths?**
+No. Section 5.01, Calculations with ratio, in OCR GCSE Mathematics J560 is Foundation and Higher content, with no Higher tier only statements. Splitting a quantity into three or more parts is in the Foundation column, so Higher tier learners need it too.
+
+**How do you simplify a ratio with fractions?**
+Multiply every part by a common denominator to make whole numbers, then simplify. For 2/3 : 5/6, multiplying by 6 gives 4 : 5.
+
+**How do you adapt a recipe for a different number of people?**
+Find the amount of each ingredient for one person, then multiply by the new number of people. You can also multiply by a scale factor, such as 4 ÷ 6 = 2/3 when going from 6 people to 4.
+
+**What is the link between ratio and linear functions?**
+If two quantities are always in the ratio a : b, then y = (b/a)x, a straight line through the origin. A line with a fixed charge, such as y = 2x + 3, does not describe a constant ratio.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics (J560), specification Version 2.1 (August 2026), first assessment 2017, section 5.01 Calculations with ratio.

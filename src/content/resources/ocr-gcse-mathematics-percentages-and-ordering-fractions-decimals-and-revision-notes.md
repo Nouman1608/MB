@@ -326,6 +326,20 @@ The specification shows Paper 2 on Foundation tier and Paper 5 on Higher tier as
 - Dropping working in a multi-step question, so a slip in the arithmetic leaves nothing to credit.
 - Forgetting the units of the answer, such as £, kg or years.
 
+## Frequently asked questions
+
+**How do you find a percentage of an amount without a calculator?**
+Build it from 10%, 5% and 1%. For example, 24% of 150 is 20% (30) plus 4% (6), which makes 36.
+
+**What is the multiplier for a 12% decrease?**
+The multiplier is 1 − 12/100 = 0.88. Using 0.12 is a common mistake, because that finds 12% of the amount rather than the new value.
+
+**How do you find the original price after a percentage reduction?**
+Divide the new price by the multiplier for the change, then check by multiplying forwards. After a 12% decrease to £74.80, the original price is £74.80 ÷ 0.88 = £85.
+
+**Is compound interest part of OCR GCSE Maths section 2.03?**
+No. Section 2.03 covers simple interest, which adds the same sum each year. Compound interest and growth and decay are taught under section 5.03a of OCR GCSE Mathematics J560.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), first assessment 2017, published by OCR. Sections 2.03a-2.03c and 2.04a-2.04b.

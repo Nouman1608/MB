@@ -277,6 +277,20 @@ Do these without a calculator, then check the answers.
 - Sign errors in the conjugate or in the middle terms of an expansion.
 - Not showing the working in an exact question. A bare decimal does not show an exact method.
 
+## Frequently asked questions
+
+**How do you divide fractions without a calculator?**
+Keep the first fraction, flip the second, then multiply. Change any mixed numbers to improper fractions first, and cancel common factors before multiplying to keep the numbers small.
+
+**How do you simplify a surd such as √75?**
+Find the largest square number that divides into the number under the root, then take its root outside. √75 = √(25 × 3) = 5√3.
+
+**Can √(a + b) be split into √a + √b?**
+No. Roots do not split over addition: √(9 + 16) = √25 = 5, but √9 + √16 = 7. They do split over multiplication, so √a × √b = √(ab).
+
+**What is the difference between simplifying a surd and rationalising a denominator?**
+Simplifying a surd takes square factors outside the root, as in √12 = 2√3. Rationalising a denominator removes a surd from the bottom of a fraction by multiplying top and bottom by a suitable surd or conjugate.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, published by OCR. These notes cover sections 3.03a and 3.03b.

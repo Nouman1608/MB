@@ -307,6 +307,20 @@ Surface area = 196 + 4 × 175 = 896 cm²
 
 Next, try the [practice set](/resources/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones-practice/) and tick off the skills on the [checklist](/checklists/ocr/gcse/mathematics/).
 
+## Frequently asked questions
+
+**What is the volume of a prism?**
+The volume of any right prism is the area of its cross-section multiplied by its length. A cylinder is a prism with a circular cross-section, so its volume is πr²h.
+
+**How do you find the surface area of a prism?**
+Add the two end faces to the rectangles around the sides; the rectangles together have area perimeter of cross-section × length. For a triangular prism, remember to include the hypotenuse in the perimeter.
+
+**How do you find the radius of a sphere from its volume?**
+Set (4/3)πr³ equal to the volume, rearrange for r³, then take the cube root. For a volume of 2304π cm³, r³ = 1728, so r = 12 cm.
+
+**Why should you leave answers in terms of π?**
+An answer in terms of π, such as 176π cm³, is exact, and Papers 2 and 5 do not permit a calculator. Keep π in the working and convert to a decimal only on the last line if the question asks for one.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 10.04 Volume and surface area calculations.

@@ -143,6 +143,20 @@ Region = 84.47... − 59.58... [1] = **24.9 cm²** [1]
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths section do these area practice questions cover?**
+They cover section 10.03 (Area calculations) of OCR GCSE (9-1) Mathematics J560, from triangles and trapezia to circles, sectors and composite shapes. The questions using ½ab sin C are Higher tier only.
+
+**What height do you use for the area of a triangle, parallelogram or trapezium?**
+Always use the perpendicular height, measured at 90° to the base. A slanting side is longer than the perpendicular height, so using it gives an area that is too big.
+
+**When should you leave an area answer in terms of π?**
+Leave π in the answer, such as 24π cm², when the question asks for an exact answer in terms of π. Otherwise give a rounded decimal, and round only at the end so the final digits do not drift.
+
+**Why should you round up when an area question asks how many tins or boxes are needed?**
+Rounding down would leave part of the area uncovered, so the number of tins, boxes or bags needed is the next whole number up. Stopping at a decimal such as 8.6 boxes loses the final mark.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), first assessment 2017, published by OCR. These questions cover section 10.03, Area calculations.

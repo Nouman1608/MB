@@ -345,6 +345,20 @@ Here the curve is concave, so the trapezia fall short of it and the estimate is 
 
 Condense this unit with the [revision notes](/resources/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and-revision-notes/), then test yourself on the [practice questions](/resources/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and-practice/). The [free 10-minute diagnostics](/diagnostics/) show which topics need work, and the [checklist](/checklists/ocr/gcse/mathematics/) lets you tick off what you can do.
 
+## Frequently asked questions
+
+**What does the gradient of a conversion graph mean?**
+On a currency conversion graph, the gradient is the exchange rate, such as 1.17 euros per pound. The line passes through the origin, because zero of one currency is zero of the other.
+
+**What does an inverse proportion graph look like?**
+It is a smooth curve that falls as x rises and never touches either axis, because x × y stays constant. For a direct proportion graph, y ÷ x stays constant instead.
+
+**How do you estimate the area under a curve?**
+Split the area into vertical strips of equal width and treat each strip as a trapezium, then add the areas. Narrower strips give a better estimate; on a concave curve the trapezia fall short of it, so the estimate is too small.
+
+**How does gradient relate to ratio?**
+A gradient compares the vertical change with the horizontal change, so it is a ratio. A gradient of 5/2 means the line rises 5 units for every 2 units across, a ratio of 5 : 2.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. This guide follows section 7.04, Interpreting graphs.

@@ -288,6 +288,20 @@ estimate = 15 + 36 = 51
 - Overlapping classes in a table, such as "10 to 20" followed by "20 to 30".
 - Giving pie angles that do not total 360°.
 
+## Frequently asked questions
+
+**What is the difference between a population and a sample?**
+The population is everything a study is about, such as all the people, items or events of interest. A sample is a smaller group taken from the population and used to infer its properties.
+
+**Does a bigger sample remove bias?**
+No. A larger sample usually gives a more reliable estimate, but a large biased sample is still biased. Fixing bias means changing how the sample is chosen.
+
+**How do you estimate a population figure from a sample?**
+Find the proportion with the feature in the sample, then multiply by the population size. For example, 21 out of 60 is 0.35, so in a club of 840 the estimate is 0.35 × 840 = 294.
+
+**How do you read a section of a composite bar chart?**
+Subtract the bottom edge of the section from its top edge. A section running from 55 to 85 on the scale represents 30, not 85.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections covered: 12.01a, 12.02a and 12.02b.

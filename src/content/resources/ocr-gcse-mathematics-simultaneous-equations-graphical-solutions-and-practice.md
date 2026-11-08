@@ -149,6 +149,20 @@ First two midpoints correct [1]. Third midpoint and interval [1]. Fourth midpoin
 - Try all the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these simultaneous equations questions cover?**
+They follow sections 6.03c, 6.03d and 6.03e of OCR GCSE (9-1) Mathematics J560: simultaneous equations, graphical solutions and sign-change methods. Quadratic simultaneous equations, curve-and-line intersections and sign-change methods are Higher tier only.
+
+**What is the most common mistake when scaling an equation for elimination?**
+Multiplying only some of the terms, especially forgetting the right-hand side. Every term in the equation must be multiplied by the same number.
+
+**How should you write the answers to a quadratic and linear pair?**
+Write the answers as coordinate pairs, such as (5, 4) and (−4, −5), and find each y-value from the linear equation. Listing x-values and y-values separately, or using the quadratic to find y, can produce wrong pairs.
+
+**Why should you check your solution in the second equation?**
+Checking both values in the original equation you did not use for substitution catches arithmetic slips, especially with negative numbers. It takes seconds and confirms the pair is correct.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR.

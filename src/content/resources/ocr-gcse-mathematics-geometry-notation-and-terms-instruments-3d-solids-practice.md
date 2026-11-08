@@ -197,6 +197,20 @@ Drawn with the correct heights [1].
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these geometry notation and 3D solids questions cover?**
+They follow sections 8.01 and 8.06 of OCR GCSE (9-1) Mathematics J560: geometry terms and notation, using instruments, coordinates, 3D solids, plans, elevations and isometric drawing. Nothing in this unit is Higher tier only.
+
+**What equipment do you need for geometry construction questions?**
+You need a ruler, a protractor and compasses, and some questions use squared or isometric paper. Keep construction lines and arcs on your diagram, because they show how it was drawn.
+
+**What is the most common mistake when naming an angle with three letters?**
+Putting the vertex in the wrong place. In angle ABC, the vertex is always the middle letter, B.
+
+**What is the difference between a sketch and an accurate drawing?**
+A sketch can be freehand, with the facts marked on it. A drawing or construction must use instruments and the stated measurements, so giving only a sketch when an accurate drawing is asked for loses marks.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), first assessment 2017, sections 8.01 and 8.06.

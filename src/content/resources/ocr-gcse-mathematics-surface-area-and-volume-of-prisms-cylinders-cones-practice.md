@@ -124,6 +124,20 @@ Read the [study guide](/resources/ocr-gcse-mathematics-surface-area-and-volume-o
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is surface area and volume Higher tier only in OCR GCSE Maths?**
+No. Section 10.04 of OCR GCSE (9-1) Mathematics J560, covering volume and surface area of prisms, cylinders, spheres, cones, pyramids and composite solids, is for both Foundation and Higher tier.
+
+**What is the difference between slant height and perpendicular height in a cone?**
+The perpendicular height runs straight up from the centre of the base to the apex and is used for volume. The slant height runs along the sloping surface and is used for the curved surface area; mixing them up is a common error.
+
+**How do you convert litres to cubic centimetres?**
+One litre is 1000 cm³, so multiply the number of litres by 1000. Convert before using a volume formula, so all the units match.
+
+**Which faces count in the surface area of a composite solid?**
+Count only the faces on the outside. Where two solids are joined, the shared face is hidden for both, so leave it out.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 10.04 Volume and surface area calculations.

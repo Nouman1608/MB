@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-psm1-s1-statistics-oxfordaqa-alevel-maths"
     subtopic: "s1-bernoulli-and-binomial-distributions-oxfordaqa-alevel-maths"
-description: "Condensed recall notes on Bernoulli trials, the binomial distribution, and calculating binomial probabilities, mean and variance, for OxfordAQA International A-Level Mathematics (9660), sub-topic S1.3."
+description: "OxfordAQA International A-level Maths 9660 revision notes on Bernoulli trials, the binomial distribution, binomial probabilities, mean and variance (S1.3)."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -140,6 +142,20 @@ S1.3 builds directly on S1.1 (further probability) and S1.2 (discrete random var
 
 - [Bernoulli and Binomial Distributions study guide](/resources/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions/)
 - [Bernoulli and Binomial Distributions practice questions](/resources/oxfordaqa-a-level-mathematics-bernoulli-binomial-practice/)
+
+## Frequently asked questions
+
+**What is a Bernoulli trial?**
+A Bernoulli trial is a single experiment with exactly two outcomes: success with probability p and failure with probability 1 − p. Its mean is p and its variance is p(1 − p).
+
+**What is the binomial probability formula?**
+For X ~ B(n, p), P(X = x) = ⁿCₓ × pˣ × (1 − p)ⁿ⁻ˣ, where ⁿCₓ is the number of ways to arrange x successes among n trials. Show the binomial coefficient as a separate step in your working.
+
+**When should you use a cumulative binomial table instead of the formula?**
+Use the formula for "exactly" a value, and a cumulative table for "at most" or "no more than" questions, such as P(X ≤ 3). Reading one table value is faster and less error-prone than summing several terms by hand.
+
+**Why is the mean of a binomial distribution np?**
+A binomial random variable is the sum of n independent Bernoulli trials, and the mean of a sum is the sum of the means. So the mean is n lots of p, which is np; the same reasoning gives the variance np(1 − p).
 
 ## Official syllabus
 

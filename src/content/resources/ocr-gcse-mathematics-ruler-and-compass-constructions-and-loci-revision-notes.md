@@ -247,6 +247,20 @@ Setting both radii to the side length gives an equilateral triangle, so each ang
 - Drawing sharp corners instead of semicircles at the ends of a locus around a segment.
 - Leaving the answer unlabelled when a question says "mark the point" or "shade the region".
 
+## Frequently asked questions
+
+**What is the locus of points equidistant from two points?**
+It is the perpendicular bisector of the segment joining the two points. Every point on that line is the same distance from each end.
+
+**What is the locus of points a fixed distance from a line segment?**
+It is a racetrack shape: two straight lines parallel to the segment, at that distance on either side, joined by a semicircle at each end. Drawing square corners instead of semicircles is a common error.
+
+**When should a loci boundary be dashed or solid?**
+Use a dashed line for strict conditions such as "less than" or "more than", where the boundary is not included. Use a solid line for "at most" or "at least", where it is included.
+
+**What angles can you construct with only a ruler and compasses?**
+An equilateral triangle gives 60°, bisecting it gives 30°, and constructing a perpendicular gives 90°, which can be bisected to give 45°. So 90°, 45°, 60° and 30° can all be constructed.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), section 8.02, published by OCR.

@@ -148,6 +148,20 @@ Read the [study guide](/resources/ocr-gcse-mathematics-fractions-and-decimal-fra
 - Use the [free 10-minute diagnostics](/diagnostics/) to choose your next topic.
 - [Book a free trial class](/trial/) for help from a teacher.
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these fractions and decimals questions cover?**
+They cover sections 2.01 Fractions and 2.02 Decimal fractions of OCR GCSE (9-1) Mathematics J560. Everything is for both tiers except converting recurring decimals to exact fractions, which is Higher tier only.
+
+**Should you practise fraction and decimal questions without a calculator?**
+Yes. The specification asks for the decimal skills in section 2.02 without a calculator, and Paper 2 at Foundation and Paper 5 at Higher do not allow one, so every method should be done by hand.
+
+**What should you do before writing one quantity as a fraction of another?**
+Put both quantities in the same units first, then write the first quantity over the second and simplify. For example, 35 minutes as a fraction of 2 hours is 35/120 = 7/24.
+
+**Should you round up or down when asked how many whole pieces can be cut?**
+Round down, because only complete pieces count. Rounding up when a question asks for the number of whole pieces is a common way to lose marks.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Mathematics J560 specification*, Version 2.1 (August 2026), for first assessment in 2017, sections 2.01 Fractions and 2.02 Decimal fractions. Published by OCR (Oxford Cambridge and RSA).

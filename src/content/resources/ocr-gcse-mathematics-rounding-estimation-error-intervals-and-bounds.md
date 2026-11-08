@@ -305,6 +305,20 @@ A **discrete** quantity is counted, so only whole numbers occur. The spec's exam
 
 Read the condensed [revision notes](/resources/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds-revision-notes/) next, and then work through the [practice questions](/resources/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds-practice/) under timed conditions.
 
+## Frequently asked questions
+
+**Why is the upper limit of an error interval not included?**
+A value exactly at the upper limit would round up to the next value, so it is excluded with <. For example, a length of 3.7 to 1 decimal place gives 3.65 ≤ b < 3.75.
+
+**When should you round in a multi-step calculation?**
+Round only the final answer and keep the full values in the working. If no accuracy is stated, 3 significant figures is a sensible default for measurements, and money is given to the nearest penny.
+
+**How do you estimate a calculation with a square root?**
+Round each number to 1 significant figure and replace the number under the root with the nearest perfect square. For example, √24.3 becomes √25 = 5.
+
+**What is the difference between discrete and continuous bounds?**
+A continuous quantity such as mass can take any value, so its upper bound is never reached: 150 ≤ m < 250 for 200 g to the nearest 100 g. A discrete count can only be a whole number, so 200 cars to the nearest hundred gives 150 ≤ n ≤ 249.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 4.01 Approximation and estimation (4.01a to 4.01c).

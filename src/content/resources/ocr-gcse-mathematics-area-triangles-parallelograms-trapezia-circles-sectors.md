@@ -361,6 +361,20 @@ Square units convert with the square of the length factor: 1 m² = 100 × 100 = 
 
 Condense this unit with the [revision notes](/resources/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors-revision-notes/), then test yourself on the [practice questions](/resources/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors-practice/). For general paper technique, see the [exam preparation page](/resources/ocr-gcse-mathematics-exam-preparation/).
 
+## Frequently asked questions
+
+**Why is the area of a triangle half of base times height?**
+Two copies of the same triangle fit together to make a parallelogram with area base × height. One triangle is half of that parallelogram.
+
+**How do you find the radius of a circle from its area?**
+Divide the area by π to get r², then take the square root. For example, a circle of area 200 cm² has r² = 200 ÷ π, so r ≈ 7.98 cm.
+
+**How do you work out the area of a composite shape?**
+Split it into simple shapes such as rectangles, triangles, trapezia, circles or sectors, and find any missing lengths. Add the areas for a built-up shape, subtract for a hole or cut-out, and round only at the end.
+
+**How many square centimetres are in a square metre?**
+There are 10 000 cm² in 1 m², because square units convert with the square of the length factor: 100 × 100. Check that the area unit matches any price per square metre before multiplying.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), first assessment 2017, published by OCR. This guide follows section 10.03, Area calculations.

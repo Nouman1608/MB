@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Condensed recall notes on fraction arithmetic, percentage calculations, reverse percentages and ordering, for OCR GCSE (9-1) Mathematics (J560), Topic 2."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -173,6 +175,20 @@ Topic 1 (Number operations and integers) established calculation with whole numb
 
 - [Fractions, Decimals and Percentages study guide](/resources/ocr-gcse-mathematics-fractions-decimals-and-percentages/)
 - [Fractions, Decimals and Percentages practice questions](/resources/ocr-gcse-mathematics-fractions-decimals-percentages-practice/)
+
+## Frequently asked questions
+
+**How do you convert a fraction to a percentage?**
+Divide the numerator by the denominator to get a decimal, then multiply by 100. For example, 3/8 = 0.375, which is 37.5%.
+
+**How do you write a percentage as a fraction?**
+Write the percentage over 100 and simplify. For example, 40% = 40/100 = 2/5.
+
+**Is converting recurring decimals to fractions Higher tier only in OCR GCSE Maths?**
+Yes. In OCR GCSE Mathematics J560, converting a recurring decimal to an exact fraction is a Higher tier skill. For 0.777..., let x = 0.777..., so 10x − x = 7 and x = 7/9.
+
+**What multiplier represents a 15% decrease?**
+A 15% decrease is a multiplier of 1 − 15/100 = 0.85, and a 15% increase is 1.15. A multiplier above 1 always means growth, so using 0.85 for an increase is a common error.
 
 ## Official syllabus
 

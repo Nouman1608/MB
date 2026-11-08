@@ -273,6 +273,20 @@ sin 60° ÷ tan 60° = (√3/2) ÷ √3 = 1/2
 - Mixing up the two shapes behind the exact values: the 1, 1, √2 triangle is 45°, while the 1, √3, 2 triangle is 30° and 60°.
 - In 3D, using the wrong horizontal distance. A sloping edge of a pyramid goes to a corner, not to the middle of a base edge.
 
+## Frequently asked questions
+
+**What are the exact values of sin, cos and tan for 30°, 45° and 60°?**
+sin 30° = 1/2, sin 45° = √2/2 and sin 60° = √3/2, while cos runs through the same values in reverse. tan 30° = √3/3, tan 45° = 1 and tan 60° = √3.
+
+**How do you remember the exact trig values without memorising a table?**
+Use two triangles: a right-angled isosceles triangle with short sides 1 and hypotenuse √2 gives the 45° values. Half of an equilateral triangle of side 2, with sides 1, √3 and 2, gives the 30° and 60° values.
+
+**When do you multiply and when do you divide in trigonometry?**
+Write the ratio with the known and wanted sides. If the unknown is on the top of the fraction, multiply; if it is on the bottom, as when finding the hypotenuse, divide.
+
+**What is the difference between an angle of elevation and an angle of depression?**
+Both are measured from the horizontal line of sight. An angle of elevation turns upward and an angle of depression turns downward.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), first assessment in 2017, published by OCR. Statements 10.05a, 10.05b and 10.05c.

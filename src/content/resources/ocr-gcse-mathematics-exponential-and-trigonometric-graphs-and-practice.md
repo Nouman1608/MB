@@ -173,6 +173,20 @@ y |    | 2.67| 4 |   | 9 |
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are exponential and trigonometric graphs on the OCR GCSE Maths Foundation tier?**
+No. OCR GCSE Mathematics J560 statements 7.01b, 7.01d, 7.01e and 7.03a, covering exponential graphs, sin, cos and tan graphs and transformations of curves, are Higher tier only.
+
+**Which way does y = (x + 3)² move compared with y = x²?**
+It moves 3 units to the left, the opposite way to the sign in the bracket. Check by finding the x-value that makes the bracket zero, here x = −3.
+
+**What happens to the asymptote when an exponential graph is translated?**
+The asymptote moves with the graph. If y = 2ˣ is translated 3 units down, its asymptote moves from y = 0 to y = −3; forgetting this is a common mistake.
+
+**How should you describe a transformation of a graph to get full marks?**
+Name the transformation and give its size and direction, such as "translation 3 units to the right" or "reflection in the x-axis". A loose description such as "moves 2" does not say enough.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), first assessment 2017, published by OCR: statements 7.01b, 7.01d, 7.01e and 7.03a.

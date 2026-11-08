@@ -254,6 +254,20 @@ For a pure repeating block, write the block over 9s: one digit over 9, two digit
 - Writing a recurring decimal like 0.7272... as 72/100 or 72/90 instead of 72/99.
 - Giving a bare answer on a calculation that asks you to show working. Show each step so a slip can still earn credit.
 
+## Frequently asked questions
+
+**How do you add fractions with different denominators?**
+Rewrite both fractions over a common denominator, ideally the lowest common multiple, then add the numerators only. For example, 1/6 + 7/10 = 5/30 + 21/30 = 26/30 = 13/15.
+
+**How do you divide by a decimal without a calculator?**
+Multiply both numbers by the same power of 10 so the divisor becomes a whole number, then divide as normal. For example, 0.195 ÷ 0.15 becomes 19.5 ÷ 15 = 1.3.
+
+**How do you know where the decimal point goes when multiplying decimals?**
+Multiply as whole numbers, then give the answer as many decimal places as the two factors have in total. For example, 12 × 7 = 84, so 1.2 × 0.07 = 0.084.
+
+**How can you tell if a fraction gives a terminating or recurring decimal?**
+A fraction in its simplest form gives a terminating decimal only if its denominator has no prime factors other than 2 and 5. Otherwise the decimal recurs, as with 1/6 = 0.1666...
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Mathematics J560 specification*, Version 2.1 (August 2026), for first assessment in 2017, sections 2.01 Fractions and 2.02 Decimal fractions. Published by OCR (Oxford Cambridge and RSA).

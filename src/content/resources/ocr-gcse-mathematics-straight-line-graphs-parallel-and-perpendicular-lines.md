@@ -333,6 +333,20 @@ y = 5x − 26
 - Writing x² + y² = r for a circle. The right-hand side is r².
 - Using the circle equation to get the tangent gradient. The tangent gradient comes from the radius.
 
+## Frequently asked questions
+
+**What do m and c mean in y = mx + c?**
+m is the gradient, which measures how steep the line is, and c is the y-intercept, where the line crosses the y-axis at (0, c). Rearrange the equation into this form before reading them off.
+
+**How do you find the equation of a line through two points?**
+Work out the gradient from the two points, then substitute one point into y = mx + c to find c. Check your equation with the other point.
+
+**What is the equation of a circle with centre at the origin?**
+A circle with centre (0, 0) and radius r has equation x² + y² = r², which comes from Pythagoras. The number on the right is the radius squared, so x² + y² = 40 has radius √40 = 2√10.
+
+**Can a vertical line be written as y = mx + c?**
+No. A vertical line such as x = −2 has no gradient value, so it cannot be written in the form y = mx + c. A horizontal line such as y = 5 has gradient 0.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections 7.01f, 7.02a and 7.02b.

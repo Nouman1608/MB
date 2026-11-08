@@ -134,6 +134,20 @@ These questions cover the first part of specification section P2.6 (Differentiat
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OxfordAQA unit covers differentiating e^x, ln x and trigonometric functions?**
+The first part of section P2.6 of the OxfordAQA International AS and A-level Mathematics (9660) specification covers these derivatives with the product, quotient and chain rules. It is part of International A-level Unit P2 (Pure Maths) and is not examined at International AS.
+
+**What is the most common mistake when differentiating e^(kx) or sin(kx)?**
+Leaving out the factor from the inner function. The derivative of e^(3x) is 3e^(3x), and the derivative of sin 2x is 2 cos 2x.
+
+**Should you use degrees or radians when differentiating trigonometric functions?**
+Use radians. The standard results, such as the derivative of sin x being cos x, only hold when x is measured in radians.
+
+**What should you do after finding dx/dy for a curve given as x in terms of y?**
+Take the reciprocal, because dy/dx = 1/(dx/dy). Stopping at dx/dy and forgetting to flip it is a common error.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: section 3.3, International A-level Unit P2 (Pure Maths), content P2.6 Differentiation (differentiation of e^x, ln x, sin x, cos x and tan x, and the product, quotient and chain rules, and dy/dx = 1/(dx/dy)).

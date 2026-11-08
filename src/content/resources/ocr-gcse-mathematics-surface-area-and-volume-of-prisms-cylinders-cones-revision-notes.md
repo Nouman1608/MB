@@ -235,6 +235,20 @@ Surface area = 44π ≈ 138.2 cm²
 - Not showing the substitution. If you write only a final decimal and it is wrong, there is little to credit.
 - Writing the wrong unit, or none, on the final answer.
 
+## Frequently asked questions
+
+**Will the formulae for spheres, cones and pyramids be given in OCR GCSE Maths?**
+The OCR GCSE Mathematics J560 specification says the formulae for spheres, cones and composite solids will be given, and so will the pyramid formula 1/3 × area of base × height. There is no formula sheet for other results, so learn the cuboid, prism and cylinder formulae.
+
+**How many cubic centimetres are in a cubic metre?**
+There are 1 000 000 cm³ in 1 m³, because volume conversions use the cube of the length factor: 100³. In the same way, 1 m² is 100² = 10 000 cm².
+
+**What is the total surface area of a solid hemisphere?**
+A solid hemisphere has a curved surface of 2πr² and a flat circular face of πr², so its total surface area is 3πr². A hollow bowl has only the curved surface.
+
+**How do you find the slant height of a cone?**
+Use Pythagoras on the right-angled triangle made by the radius, the perpendicular height and the slant height: l = √(r² + h²). For a radius of 6 cm and height of 8 cm, the slant height is 10 cm.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 10.04 Volume and surface area calculations.

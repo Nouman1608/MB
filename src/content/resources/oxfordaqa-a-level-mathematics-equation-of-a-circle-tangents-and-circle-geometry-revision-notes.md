@@ -221,6 +221,20 @@ Question 9 check: (4 − 1)² + (5 − 1)² = 25 ✓ (the point is on the circle
 - Leaving a tangent equation untidy when integer coefficients are requested.
 - Rounding a surd radius early. Keep exact values until the end.
 
+## Frequently asked questions
+
+**How do you find the centre and radius from x² + y² + px + qy + c = 0?**
+Complete the square on the x terms and the y terms, then move the constants to the right to get r². The centre is (−p/2, −q/2) and r² = p²/4 + q²/4 − c.
+
+**How do you tell if a point is inside, on or outside a circle?**
+Work out (x − a)² + (y − b)² for the point and compare it with r². Less than r² means inside, equal means on the circle, and greater means outside.
+
+**How do you find the length of a tangent from a point outside a circle?**
+Find the distance squared from the point T to the centre C, then subtract r²: the tangent length is √(TC² − r²). This uses the right angle between the tangent and the radius.
+
+**Is implicit differentiation needed for circle tangents in OxfordAQA 9660 PP1.1?**
+No. Implicit differentiation is not required here; the tangent gradient comes from the centre and the point of contact. The tangent gradient is the negative reciprocal of the radius gradient.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section 3.2.1 PP1.1 (Circle), published by OxfordAQA.

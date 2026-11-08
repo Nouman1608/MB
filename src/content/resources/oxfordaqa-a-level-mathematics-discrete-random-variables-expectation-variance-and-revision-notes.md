@@ -224,6 +224,20 @@ Examiners can only reward what they can see, so set the working out in the order
 </figure>
 
 
+## Frequently asked questions
+
+**What are the formulae for E(aX + b) and Var(aX + b)?**
+E(aX + b) = a E(X) + b and Var(aX + b) = a² Var(X). Adding b does not change the spread, and a is squared, so Var(−X) = Var(X).
+
+**What is the difference between nX and the sum of n independent copies of X?**
+Both have mean nE(X), but Var(nX) = n² Var(X), while the sum of n independent copies has variance n Var(X). Choose the formula from the wording of the question.
+
+**How do you find the variance of a non-linear function such as 6/X?**
+Find E(g(X)) and E(g(X)²) from the table, then use Var(g(X)) = E(g(X)²) − (E(g(X)))². The linear shortcut does not apply.
+
+**What makes a probability distribution valid?**
+Every probability must be between 0 and 1 inclusive, and all the probabilities must add up to 1. Use the total of 1 to find any unknown constant before calculating the mean.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section S1.2 Discrete random variables. Published by OxfordAQA; International AS exams from May/June 2018 and International A-level exams from May/June 2019.

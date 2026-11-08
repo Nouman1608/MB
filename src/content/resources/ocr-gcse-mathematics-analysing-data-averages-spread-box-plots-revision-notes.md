@@ -268,6 +268,20 @@ State the feature and its effect.
 - Treating a prediction from extrapolation as reliable.
 - Deleting an outlier with no comment about why.
 
+## Frequently asked questions
+
+**Is the interquartile range on the OCR GCSE Maths Foundation tier?**
+No. In OCR GCSE Mathematics J560, quartiles, the interquartile range, cumulative frequency graphs and box plots are Higher tier only. Foundation students still need the mean, median, mode and range, including estimates for grouped data.
+
+**When should you use the median instead of the mean?**
+Use the median when the data contain extreme values or are skewed, because an extreme value moves the mean much more than the median. The mean is better when the data are fairly symmetrical and you want every value to count.
+
+**Where do you plot points on a cumulative frequency graph?**
+Plot each running total against the upper class boundary, starting at the lowest boundary with a cumulative frequency of zero. Plotting at class midpoints is a common error.
+
+**Does correlation on a scatter graph prove that one variable causes the other?**
+No. A correlation shows that two variables move together, but this could be due to a third variable, such as age, or to coincidence.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 12.03 Analysing data (12.03a to 12.03d).

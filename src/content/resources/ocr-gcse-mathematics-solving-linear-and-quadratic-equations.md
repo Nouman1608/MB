@@ -356,6 +356,20 @@ The specification states that Paper 2 (Foundation) and Paper 5 (Higher) do not p
 
 Try the [practice questions](/resources/ocr-gcse-mathematics-solving-linear-and-quadratic-equations-practice/), then condense the methods with the [revision notes](/resources/ocr-gcse-mathematics-solving-linear-and-quadratic-equations-revision-notes/).
 
+## Frequently asked questions
+
+**Which side should you collect the x terms on in a linear equation?**
+Collect the x terms on the side where the coefficient is larger. That keeps the coefficient positive and reduces sign errors.
+
+**How do you answer an equation question set in a real-life context?**
+Define the unknown, form and solve the equation, then interpret the answer in the words of the question. If the context needs a whole number, such as months, test the whole numbers either side of a decimal answer.
+
+**When should you use factorising, the formula or completing the square?**
+Factorise when the numbers obviously pair up, and use the quadratic formula when no pair of whole numbers works. Completing the square suits exact answers, especially when the x coefficient is even; follow any form the question gives.
+
+**Why does factorising solve a quadratic equation?**
+A product can only be zero when at least one of its factors is zero. So once a quadratic is written as two brackets equal to zero, each bracket can be set to zero to find the solutions.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, sections 6.03a and 6.03b.

@@ -256,6 +256,20 @@ p(first red given exactly one red) = 15/56 ÷ 30/56 = 1/2
 </figure>
 
 
+## Frequently asked questions
+
+**What is the quickest way to find the probability of at least one?**
+Use p(at least one) = 1 − p(none). Work out the single route where nothing happens and subtract it from 1, which is faster than adding many routes.
+
+**What is the difference between mutually exclusive and independent events?**
+Mutually exclusive events cannot both happen on one trial, so p(A and B) = 0. Independent events can both happen, but the outcome of one does not change the probability of the other.
+
+**When do you multiply and when do you add on a tree diagram?**
+Multiply along the branches to find the probability of one full route. Add the probabilities of different routes that give the outcome you want.
+
+**What is the formula for conditional probability?**
+p(A given B) = p(A and B) ÷ p(B), which comes from the multiplication law p(A and B) = p(A given B) × p(B). Using conditional probability in this way is Higher tier only.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Content references 11.02d, 11.02e and 11.02f.

@@ -316,6 +316,20 @@ Use a common denominator, usually the product of the two denominators. Write the
 
 Try the [practice questions](/resources/ocr-gcse-mathematics-factorising-completing-the-square-and-algebraic-practice/), then use the [revision notes](/resources/ocr-gcse-mathematics-factorising-completing-the-square-and-algebraic-revision-notes/) for quick recall. Tick off progress on the [checklist](/checklists/ocr/gcse/mathematics/).
 
+## Frequently asked questions
+
+**Is completing the square on the OCR GCSE Maths Higher tier only?**
+Yes. Completing the square, content statement 6.01f of OCR GCSE Mathematics J560, is Higher tier only, as are algebraic fractions in 6.01g.
+
+**How do you complete the square when the coefficient of x² is not 1?**
+Take the coefficient a out of the x² and x terms only, complete the square inside the bracket, then multiply the subtracted square by a. For example, 3x² + 12x + 5 = 3[(x + 2)² − 4] + 5 = 3(x + 2)² − 7.
+
+**Can you factorise x² − 7 even though 7 is not a square number?**
+Yes, using surds, because 7 = (√7)². So x² − 7 = (x − √7)(x + √7).
+
+**How do you add two algebraic fractions?**
+Use a common denominator, usually the product of the two denominators, and write the answer as one fraction. If one denominator is a factor of the other, such as x + 2 and x² − 4, use the simpler common denominator.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Mathematics J560*, Version 2.1 (August 2026), for first assessment in 2017. Content statements 6.01e, 6.01f and 6.01g.

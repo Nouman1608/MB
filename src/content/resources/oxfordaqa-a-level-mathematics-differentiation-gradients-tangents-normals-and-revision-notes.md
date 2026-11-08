@@ -217,6 +217,20 @@ Try these without looking below. Use the working space on paper.
 - Losing a fractional power when simplifying: 2x^(3/2) differentiates to 3x^(1/2), and the coefficient 3 is easy to miscopy.
 - Using the second-derivative test on a point that is not stationary; always solve dy/dx = 0 first.
 
+## Frequently asked questions
+
+**Is differentiation from first principles tested in OxfordAQA 9660 Unit P1?**
+No. The specification says differentiation from first principles is not tested, although you need a general appreciation of the limit idea. Points of inflection are not required either.
+
+**How do you find the gradient of the normal to a curve?**
+Find the gradient of the tangent, m = f'(a), then take the negative reciprocal, −1/m. Using the tangent gradient or forgetting the minus sign are common errors.
+
+**How do you find where a function is increasing or decreasing?**
+Solve f'(x) = 0 to find the boundaries, then test the sign of f'(x) in each interval. The function is increasing where f'(x) > 0 and decreasing where f'(x) < 0.
+
+**What is the power rule for differentiation?**
+If y = axⁿ, then dy/dx = anxⁿ⁻¹, for any rational n. For example, x^(5/2) differentiates to (5/2)x^(3/2).
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: section 3.1, International AS Unit P1 (Pure Maths), content P1.3 Differentiation.
