@@ -12,14 +12,16 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "marketing"
-description: "Original exam-style questions with full worked answers on customer relationships, niche markets, market share, market research, social media promotion and penetration pricing, for Cambridge O Level Business Studies (7115)."
+description: "Original practice questions with worked answers on customer relationships, niche markets, market share, social media and pricing for O Level Business 7115."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -95,3 +97,20 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 - Making no reference to the business described, so application marks are missed.
 - Writing vague advantages like "quicker" or "easier" without saying why.
 - Leaving out the % sign or dividing the wrong way round in market share calculations.
+
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original questions written for Marlbridge, each practising a skill tested in the June 2024 Paper 12. After most answers the page names the real question to try next from the official past papers.
+
+**Where do the examiner insights on this page come from?**
+They are drawn from the Cambridge O Level Business Studies 7115 June 2024 Principal Examiner Report for Teachers, as the page's source note states.
+
+**How do you earn application marks in marketing questions?**
+Link each point to the business described in the question, such as its product, customers or competitors. Answers that show sound knowledge but never refer to the named business miss the application marks.
+
+**Why are words like "quicker" or "easier" not enough?**
+They are too vague unless you explain why, for example by saying what makes a method quicker and what that does for the business's costs or sales.
+
+**What should you check in a market share calculation?**
+Divide the business's sales by total market sales, multiply by 100 and finish with the % sign. A single firm's share must be less than 100%, so dividing the wrong way round is easy to spot.

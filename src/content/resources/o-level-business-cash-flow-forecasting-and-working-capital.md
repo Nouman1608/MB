@@ -229,6 +229,20 @@ The current ratio, which compares current assets with current liabilities, is co
 
 Finish with the [practice questions](/resources/o-level-business-cash-flow-forecasting-and-working-capital-practice/).
 
+## Frequently asked questions
+
+**How do you calculate the closing balance in a cash-flow forecast?**
+Closing balance = opening balance + net cash flow, where net cash flow is total inflows minus total outflows. The closing balance of one month is then carried forward as the next month's opening balance.
+
+**How do you calculate working capital in O Level Business 7115?**
+Working capital = current assets − current liabilities. Current assets include inventories, trade receivables and cash; current liabilities include money owed to suppliers and an overdraft.
+
+**What are the limits of a cash-flow forecast?**
+A forecast rests on estimates, such as expected sales, so a new competitor, bad weather or a late-paying customer can make the real figures differ. It is a planning guide that must be updated, not a promise.
+
+**What is the difference between cash and profit?**
+Profit is revenue minus costs over a period, while cash is money the business can spend now. A business can make a profit on paper while customers have not yet paid, leaving no cash to pay the bills.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115, syllabus for examination in 2026, from Cambridge International, section 5.2.

@@ -258,6 +258,23 @@ If the stock has to be sold for less than cost, say 24 000 for 30 000 of stock, 
 - Listing a loan under assets. A loan is a liability, though the cash it provides is an asset.
 - Giving a decision without figures, or without saying what you assumed.
 
+## Frequently asked questions
+
+**Do you have to construct an income statement in Cambridge O Level Business 7115?**
+No. Constructing an income statement is not assessed, so concentrate on what each line means and on using the figures to make a decision.
+
+**What is the difference between gross profit and profit?**
+Gross profit is revenue minus cost of sales. Profit is gross profit minus expenses, the overheads such as rent, office wages, advertising and insurance.
+
+**Are receivables and payables the same as debtors and creditors?**
+Yes. Receivables and payables are the usual statement-of-financial-position names for debtors and creditors, so treat them as the same thing.
+
+**How can selling inventories help a business short of cash?**
+Selling inventories turns them into cash, which can clear short-term debts such as an overdraft. If the stock has to be sold for less than cost, less cash is raised and the business makes a loss on the sale.
+
+**Are inventories the same as cash?**
+No. Inventories are a current asset that only becomes cash when the goods are sold.
+
 ## Next steps
 
 Try the [practice set](/resources/o-level-business-income-statements-and-statement-of-financial-position-practice/), then check yourself against the [revision notes](/resources/o-level-business-income-statements-and-statement-of-financial-position-revision-notes/).

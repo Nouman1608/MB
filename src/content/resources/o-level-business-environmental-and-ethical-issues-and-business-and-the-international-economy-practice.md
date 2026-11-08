@@ -118,6 +118,23 @@ Before you start, read the [study guide](/resources/o-level-business-environment
 - Writing a one-sided answer to an "evaluate", "justify" or "recommend" question.
 - Ending a long answer without a judgement.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original practice questions written for Marlbridge on sections 6.2 (Environmental and ethical issues) and 6.3 (Business and the international economy). Use them alongside the official past papers.
+
+**Are exchange rate calculations assessed in O Level Business 7115?**
+No. The syllabus states that exchange rate calculations will not be assessed. You need the direction of the change and the reasoning about prices, competitiveness and profit, not conversions.
+
+**How do you answer a question comparing prices after an import tariff?**
+Show the tariff amount and the new price of the imported good, then finish by saying which product is cheaper, quoting both figures and the unit.
+
+**Why do answers on external costs lose marks?**
+They often describe costs to the business itself, such as its own wages or profit, when the question asks about costs that fall on outsiders. Pick items from the stem that affect people outside the business and its customers.
+
+**How do you evaluate the impact of a multinational on a host country?**
+Apply both the benefits and the drawbacks to the case, such as local jobs created and profits sent home, then give a final judgement saying which side is stronger and why.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy-revision-notes/) and the [study guide](/resources/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy/).

@@ -129,6 +129,23 @@ These questions practise section 5.1, Business finance: needs and sources, of th
 - Counting the owner's own savings as external finance in a calculation.
 - Stopping at advantages and drawbacks in a "consider" or "justify" answer without a final conclusion.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original practice questions written for Marlbridge on section 5.1, Business finance: needs and sources. Use them alongside the official past papers.
+
+**How do you check a loan repayment calculation?**
+Show each step and check the period the question asks for. Dividing the total by the number of years instead of the number of months gives a yearly figure, not a monthly one, so include the unit.
+
+**Should the owner's savings count as external finance?**
+No. Savings are the owner's own money, so they are an internal source. Decide which items are external before adding them in a calculation.
+
+**How do you write a strong "recommend and justify" answer on sources of finance?**
+Tie each reason to a fact from the case, such as how long the asset will last, the legal form and existing loans. Splitting the amount between sources, and saying why, shows more judgement than naming one source.
+
+**What does a "consider" or "justify" answer need at the end?**
+A clear decision with a reason that admits the risk on the other side. Stopping at advantages and drawbacks without a final conclusion loses marks.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/o-level-business-business-finance-needs-and-sources/) and the [revision notes](/resources/o-level-business-business-finance-needs-and-sources-revision-notes/).

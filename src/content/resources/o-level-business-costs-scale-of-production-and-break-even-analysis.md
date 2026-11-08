@@ -243,6 +243,20 @@ The higher price lowers break-even and raises profit, even with fewer sales. A j
 - Stopping a product because it shows a loss without checking the contribution.
 - Giving margin of safety in money when the question gave units, or leaving out units.
 
+## Frequently asked questions
+
+**What is the difference between fixed and variable costs?**
+Fixed costs, such as rent, insurance and managers' salaries, do not change when output changes within the normal range. Variable costs, such as raw materials and packaging, change directly with output.
+
+**Should a business stop making a product that shows a loss?**
+Not necessarily. If fixed costs would still be paid after stopping, the product may lose less by continuing as long as it makes a positive contribution, so check which costs would actually go away.
+
+**What are the main diseconomies of scale?**
+Poor communication through many layers, lack of commitment from employees in a very large firm, and weak coordination between departments or sites. Each can raise average cost as a business grows too large.
+
+**Why does average cost fall as output rises?**
+Fixed costs are shared over more units, so the fixed cost per unit falls. Economies of scale, such as bulk-buying discounts and faster machines, can lower average cost further.
+
 ## Official syllabus
 
 Source: Cambridge O Level Business Studies 7115 syllabus for examination in 2026, published by Cambridge International, section 4.2.

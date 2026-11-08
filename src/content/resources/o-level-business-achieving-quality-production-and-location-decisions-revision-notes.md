@@ -240,6 +240,20 @@ For this topic, "define" suits quality, control and assurance. "Identify" suits 
 - Making a one-sided case in a question that asks you to justify a choice, with no alternative considered.
 - Calculating a percentage or total and leaving out units or the assumption behind it.
 
+## Frequently asked questions
+
+**Does high quality mean a product is expensive or luxurious?**
+No. Quality means how well a product or service meets the needs and expectations of the customer, so a cheap product can be high quality if it does its job for the price.
+
+**Why is sampling used in quality control?**
+Sampling is used when checking every item would be too slow or too costly, or would destroy the product, as with taste-testing tinned food. Because it relies on a sample, some faulty items can be missed.
+
+**Why might a business relocate?**
+A business may relocate when its premises become too small, costs such as rent rise, its customers or suppliers move, a lease ends or a new site offers better access to labour or markets. Moving brings its own costs and disruption.
+
+**Do location factors differ for manufacturing and service businesses?**
+Yes. Manufacturers weigh land costs, labour, raw materials and transport, while service businesses depend more on closeness to customers, footfall, visibility and access. Link the factors to the type of business in the question.
+
 ## Official syllabus
 
 Cambridge International, Cambridge O Level Business Studies 7115 syllabus, for examination in 2026 (version 2, published December 2025), sections 4.3 and 4.4.

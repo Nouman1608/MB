@@ -118,6 +118,23 @@ In January receipts were 14,500 and payments were 17,300. In February receipts w
 - Stopping after a statement, with no explanation of its effect, in "explain" and "analyse" questions.
 - Ending an "evaluate" answer without a decision.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original worked questions written for Marlbridge on section 1.3, Enterprise, business growth and size, with invented businesses and people. Use them alongside the official past papers.
+
+**How do you show working in output per employee and percentage growth questions?**
+Write the formula, show each step and state the unit or the percentage sign. In later parts, use the figures from the stem rather than giving a general answer.
+
+**What is the difference between an "explain" and an "analyse" answer?**
+Both need more than a statement. "Analyse" asks for cause and effect: name a feature of the business and say what that feature does to the outcome, rather than giving a plain list of features.
+
+**How do you answer a growth problem and solution question?**
+Choose one problem, explain why it arises, then give a solution that matches it, such as a cash-flow forecast or an overdraft for a cash shortage. A solution that does not address the problem raised loses marks.
+
+**What does an "evaluate" answer on buying another business need?**
+Arguments for and against, followed by a decision and a reason that depends on the case, such as the cash available. Ending without a decision is a common way to lose marks.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/o-level-business-enterprise-business-growth-and-size-revision-notes/) for the points you missed.

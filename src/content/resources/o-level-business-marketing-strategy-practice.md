@@ -124,6 +124,23 @@ Option B: (79 − 34) × 1 600 = 72 000 [1]; 72 000 − 60 000 = **12 000 dollar
 - Leaving out units such as dollars or the percentage sign.
 - Using "culture" or "lack of knowledge" without saying what differs or what is unknown.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original practice questions written for Marlbridge on section 3.4 (Marketing strategy). Use them alongside the official past papers.
+
+**How do you answer a legal controls question on marketing strategy?**
+Link each point back to the marketing strategy, such as the product, promotion, price or place, rather than only explaining the legal rule. Explaining the law without its effect on strategy is a common way to lose marks.
+
+**What is often missed when calculating the cost of a product recall?**
+A recall costs the refunds plus the cost of collecting the goods, not just the selling price. Show the calculation with its units.
+
+**How do you make "culture" or "lack of knowledge" points convincing?**
+Say what differs or what is unknown, such as local customers' habits, tastes or the rules on advertising. A single word with no detail is too vague.
+
+**How should you compare two offers for entering a foreign market?**
+Use the figures for both offers, then bring in a qualitative point such as control or risk before reaching a judgement. Choosing one option without weighing the other loses marks.
+
 ## Next steps
 
 - Review the [revision notes](/resources/o-level-business-marketing-strategy-revision-notes/) and the [study guide](/resources/o-level-business-marketing-strategy/).

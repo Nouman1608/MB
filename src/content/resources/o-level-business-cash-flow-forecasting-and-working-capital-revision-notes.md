@@ -219,6 +219,20 @@ Quick check: inventories 9,000, receivables 3,000, cash 500; payables 4,000, ove
 - Describing a forecast figure without saying what it means for the business.
 - Treating working capital as cash only, or reversing the formula.
 
+## Frequently asked questions
+
+**Is a negative closing balance a loss?**
+No. A negative closing balance in a cash-flow forecast is a cash shortage, not a loss, because cash and profit are different measures.
+
+**When should a credit sale appear in a cash-flow forecast?**
+In the month the customer actually pays, not the month of the sale. A credit sale made in May and paid in June is a June inflow.
+
+**Does depreciation appear in a cash-flow forecast?**
+No. Only cash movements belong in the forecast, and depreciation of equipment is not a cash payment.
+
+**Can a business have too much working capital?**
+Yes. Money tied up in unsold stock or idle cash earns nothing and could have been used to grow the business, while too little can force a business to stop trading.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115, syllabus for examination in 2026, from Cambridge International, section 5.2.

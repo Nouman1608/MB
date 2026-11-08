@@ -223,6 +223,20 @@ Judgement: the joint venture earns 18 000 dollars more a year, and Greystone has
 - Confusing joint ventures (shared ownership and profit) with licensing (permission to use a brand for a fee).
 - Forgetting that costs and revenues in an example need units and a clear calculation.
 
+## Frequently asked questions
+
+**What is a marketing strategy?**
+A marketing strategy is the plan a business follows to reach its marketing objectives, deciding how to use product, price, place and promotion together. All four parts should support the same target customers.
+
+**What is misleading promotion?**
+Misleading promotion gives customers a false or unclear impression, for example by exaggerating what a product does, hiding a condition or advertising a price that is not really available.
+
+**Which methods of entering foreign markets does the 7115 syllabus name?**
+The Cambridge O Level Business Studies 7115 syllabus names joint ventures and licensing as examples. Market research is another sensible way to reduce lack of knowledge before choosing a method.
+
+**Why might a business sell in foreign markets?**
+Foreign markets can be larger or faster-growing, have rising incomes or less competition, spread risk, extend a product's life cycle and allow economies of scale.
+
 ## Official syllabus
 
 Cambridge International, Cambridge O Level Business Studies 7115 syllabus for 2026, section 3.4 Marketing strategy (3.4.1 to 3.4.3).

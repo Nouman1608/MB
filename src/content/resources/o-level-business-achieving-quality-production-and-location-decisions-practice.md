@@ -136,6 +136,23 @@ Site Q: rent = 2 900 × 12 = 34 800 [1]; total = 34 800 + 270 000 + 31 000 = **3
 - Naming a law you are unsure of, instead of describing how legal controls affect a site.
 - Recommending a site with no reason drawn from the case.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original questions written for Marlbridge on sections 4.3 (Achieving quality production) and 4.4 (Location decisions), with invented businesses and figures. Use them alongside the official past papers.
+
+**What assumption should you state when estimating faults from a sample?**
+State that the sample represents the whole output, because the estimate depends on it. Show each step from the sample proportion to the total number of faulty items.
+
+**How do you avoid mistakes when a tariff is charged on only part of the cost?**
+Work out the base the tariff applies to first, such as labour plus materials, before taking the percentage. If the question asks for an annual figure, multiply the unit difference by the yearly output rather than stopping at the unit figure.
+
+**Do you need to name specific laws in location questions?**
+No. Describing how legal controls affect a site is enough, and guessing at the name of a specific law adds no credit. Explain the effect on the decision, such as a refusal, extra cost or a delay.
+
+**How do you answer a "recommend and justify" question on location?**
+Make a clear choice, support it with figures from the case and compare it with the rejected site. A list of site features without a decision gains less.
+
 ## Next steps
 
 - Review the [revision notes](/resources/o-level-business-achieving-quality-production-and-location-decisions-revision-notes/) and the [study guide](/resources/o-level-business-achieving-quality-production-and-location-decisions/).

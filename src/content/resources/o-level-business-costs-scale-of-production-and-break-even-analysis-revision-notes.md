@@ -223,6 +223,20 @@ For a calculation, write the formula, substitute the figures, then give the answ
 - Copying the case study's facts without applying them to the question asked.
 - Listing limitations of break-even without explaining why each one matters.
 
+## Frequently asked questions
+
+**How do you calculate break-even output for O Level Business 7115?**
+Break-even output = fixed costs ÷ contribution per unit, where contribution per unit = selling price − variable cost per unit. The syllabus does not print these formulas, so they are the standard forms.
+
+**Do economies of scale mean total costs fall?**
+No. Economies of scale mean average cost, or cost per unit, falls as the scale of production rises. Writing "costs fall" instead of "average cost falls" loses marks.
+
+**Where does the fixed cost line start on a break-even chart?**
+The fixed cost line is horizontal and starts above zero on the vertical axis, and the total cost line starts at the same point. Only the total revenue line starts at the origin.
+
+**What moves the break-even point?**
+Higher fixed costs lift the fixed cost and total cost lines, so break-even moves to a higher output. A higher selling price makes the revenue line steeper, so break-even falls.
+
 ## Official syllabus
 
 Source: Cambridge O Level Business Studies 7115 syllabus for examination in 2026, published by Cambridge International, section 4.2.
