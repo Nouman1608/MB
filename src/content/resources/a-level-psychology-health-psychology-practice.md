@@ -28,7 +28,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "health-psychology-9990"
     subtopic: "health-promotion-9990"
-description: "Original Paper 3 and Paper 4 style questions with mark-scheme answers for Cambridge 9990 Health Psychology: consultations, adherence, pain, stress and promotion."
+description: "Original Paper 3 and Paper 4 style questions with mark-scheme answers for Cambridge 9990 Health Psychology: consultations, adherence, pain, stress, promotion."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -124,6 +124,17 @@ Related: [Health Psychology revision notes](/resources/a-level-psychology-health
 **8. (b)** Up to 2 marks. Brudvik et al. found physicians underestimated children's pain, while parents' ratings agreed more closely with the child's own (1). So the parent's view gives a more accurate picture when the child cannot self-report (1).
 
 **9.** Up to 4 marks. Collect saliva samples from each worker before and after the biofeedback programme (1) and analyse cortisol levels, with higher cortisol indicating more stress (1). Control: take samples at the same time of day each time, because cortisol varies across the day (1+1). Credit controlling food, caffeine or exercise before sampling.
+
+## Frequently asked questions
+
+**How are Paper 3 and Paper 4 structured?**
+Each is 1 hour 30 minutes and 60 marks. On Paper 3, each of your two options has three short-answer questions (14 marks) and a structured essay (6-mark describe, 10-mark evaluate). On Paper 4, Section A has two structured questions on each option, and Section B is one planning question from a choice of four: plan a study (10 marks), then evaluate the plan (14 marks).
+
+**Will Paper 3 and Paper 4 test the same topic?**
+No. The 9990 syllabus says the topic areas assessed for an option on Paper 3 will be different from those assessed on Paper 4, so revise the whole health psychology option.
+
+**What makes a Paper 4 planning answer score well?**
+Specify the general features (aim, hypothesis, sample, procedure, ethics, validity, reliability, data) and the features of your chosen method in enough detail for someone to replicate the study.
 
 ## Where marks are usually lost
 

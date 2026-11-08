@@ -125,6 +125,17 @@ Related: [Clinical Psychology revision notes](/resources/a-level-psychology-clin
 
 **8.** Up to 3 marks. A family history of alcoholism suggests a shared genetic or inherited biological factor (for example in reward or opioid systems) affects how gamblers respond to the drug (1), which supports a nature influence (1). But family history also reflects a shared environment, so the finding cannot separate nature from nurture, and the outcome is likely an interaction of both (1).
 
+## Frequently asked questions
+
+**How are Paper 3 and Paper 4 structured?**
+Each is 1 hour 30 minutes and 60 marks. On Paper 3, each of your two options has three short-answer questions (14 marks) and a structured essay (6-mark describe, 10-mark evaluate). On Paper 4, Section A has two structured questions on each option, and Section B is one planning question from a choice of four: plan a study (10 marks), then evaluate the plan (14 marks).
+
+**Will Paper 3 and Paper 4 test the same topic?**
+No. The 9990 syllabus says the topic areas assessed for an option on Paper 3 will be different from those assessed on Paper 4, so revise the whole clinical psychology option.
+
+**Do I need the key studies for Paper 3?**
+Key studies are the main focus of Paper 4 Section A, but using one accurately as evidence (for example Chapman and DeLapp for applied tension) strengthens a Paper 3 evaluation.
+
 ## Where marks are usually lost
 
 - Describing a study's results when the question asks for the procedure, as in question 1(b).
