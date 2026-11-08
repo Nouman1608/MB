@@ -266,6 +266,20 @@ The film or CCD sensor in a camera is the equivalent of the retina.
 
 Next: the [revision notes](/resources/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye-revision-notes/), the [practice set](/resources/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye-practice/) and the [exam preparation page](/resources/oxfordaqa-igcse-physics-exam-preparation/).
 
+## Frequently asked questions
+
+**Where does the image form for an object further than 2f from a convex lens?**
+The image is real, inverted and smaller, between f and 2f on the far side of the lens. An object at exactly 2f gives a real, inverted image of the same size at 2f.
+
+**What happens when an object is at the principal focus of a convex lens?**
+No image is formed, because the rays leaving the lens are parallel.
+
+**How do you describe an image?**
+State its size compared with the object (magnified, same size or diminished), its orientation (upright or inverted) and its type (real or virtual).
+
+**What is the difference between short sight and long sight?**
+A short-sighted person cannot see distant objects clearly because the image forms in front of the retina. A long-sighted person cannot see near objects clearly because the image forms behind the retina.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), for exams May/June 2018 onwards, Version 5.2, published by OxfordAQA. This page follows section 3.3.6, Lenses and the eye.

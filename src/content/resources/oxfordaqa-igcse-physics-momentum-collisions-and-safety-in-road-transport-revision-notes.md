@@ -264,6 +264,20 @@ Poor condition of the car is limited to its brakes or tyres in this specificatio
 - Doubling the braking distance when speed doubles.
 - Saying brakes "use up" energy, rather than transferring kinetic energy to thermal energy.
 
+## Frequently asked questions
+
+**What is the law of conservation of momentum?**
+In a closed system, the total momentum before an event such as a collision or explosion equals the total momentum after it.
+
+**How is force related to change in momentum?**
+Force equals the change in momentum divided by the time taken, F = Δp / t. For the same change in momentum, a longer time gives a smaller force.
+
+**What happens to energy when a vehicle brakes?**
+The brakes transfer the vehicle's kinetic energy to thermal energy in the brakes. Saying the brakes "use up" energy loses marks.
+
+**What is stopping distance?**
+Stopping distance is the thinking distance plus the braking distance. Thinking distance depends on reaction time, and braking distance depends on speed, braking force and road conditions.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA.

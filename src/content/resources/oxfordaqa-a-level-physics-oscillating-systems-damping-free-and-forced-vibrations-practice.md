@@ -169,8 +169,8 @@ Kinetic and potential energy each go through two cycles for every one cycle of t
 **Is the derivation of the period formulae in OxfordAQA International AS Physics?**
 No. Periods and resonance in sections 3.5.1 and 3.5.2 are shared AS and A-level content, but deriving the period formulae belongs to section 3.6.2 of OxfordAQA International AS and A-level Physics (9630), which is International A-level only.
 
-**When does resonance happen?**
-Resonance happens when the driving frequency equals the natural frequency of the system, not simply at a high frequency. The amplitude is then at its largest.
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
 
 ## Official syllabus
 

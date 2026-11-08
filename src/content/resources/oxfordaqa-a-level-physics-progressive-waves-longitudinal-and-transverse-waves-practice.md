@@ -161,8 +161,8 @@ Writing that particles travel with the wave, defining transverse as simply "up a
 **How should you define a transverse wave in an exam?**
 Say that the oscillations are at right angles to the direction of energy propagation. A longitudinal wave has oscillations along the direction in which the energy moves.
 
-**Why do ultrasound echo times need halving?**
-The measured time is for the pulse to travel to the boundary and back again. Halve the time, or halve the total distance, to find the depth.
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
 
 **Is progressive waves content in OxfordAQA International AS Physics (9630)?**
 Yes. Sections 3.5.3 (progressive waves) and 3.5.4 (longitudinal and transverse waves) are shared AS and A-level content in the OxfordAQA International AS and A-level Physics (9630) specification.

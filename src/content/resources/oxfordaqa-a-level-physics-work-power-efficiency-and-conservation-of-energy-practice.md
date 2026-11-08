@@ -166,8 +166,8 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-work-power-efficienc
 **What are the most common mistakes in work and energy questions?**
 Using the path length instead of the vertical height in mgΔh, using F instead of F cos θ for a force at an angle, and using the peak force instead of the area when the force varies.
 
-**Which force do you use in P = Fv for a vehicle?**
-Use the driving force. For a vehicle at steady speed on level ground, the driving force equals the total resistive force.
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
 
 **Can you say energy is lost in an exam answer?**
 Avoid saying energy is "gone" or "lost" without saying where it went. Name the store or form it is transferred to, for example thermal energy of the surroundings.

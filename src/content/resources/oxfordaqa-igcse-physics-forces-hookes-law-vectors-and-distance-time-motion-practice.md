@@ -190,6 +190,20 @@ The motion is uniform between each pair of readings.
 - Take the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in Hooke's law questions?**
+Using the new length instead of the extension in F = k × e, and calling a graph proportional when it does not pass through the origin.
+
+**How do you calculate average speed over a journey with several parts?**
+Divide the total distance by the total time. Taking the average of the separate speeds gives the wrong answer.
+
+**What does a flat line on a distance-time graph mean?**
+A horizontal line on a distance-time graph means the object is stationary. Reading it as steady movement is a common error.
+
+**Which sections of the OxfordAQA International GCSE Physics (9203) specification do these questions cover?**
+They cover sections 3.1.1 (forces and their interactions) and 3.1.2 (motion) of OxfordAQA International GCSE Physics (9203), version 5.2.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards, published by Oxford International AQA Examinations. Sections 3.1.1 and 3.1.2, and the required practical on force and extension for a spring.

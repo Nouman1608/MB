@@ -150,6 +150,20 @@ These questions cover sections 3.1.4 (Momentum) and 3.1.5 (Safety in public tran
 - Find your weak spots with [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on momentum and road safety for OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers.
+
+**What are the most common mistakes in momentum calculations?**
+Forgetting the negative sign for a velocity in the opposite direction, and saying a crumple zone "absorbs the force". Choose a positive direction before you start.
+
+**What happens to braking distance when speed doubles?**
+For the same braking force, braking distance quadruples, because the kinetic energy to be removed is four times as large. Saying it doubles is a common error.
+
+**Which sections of the OxfordAQA 9203 specification do these questions cover?**
+They cover sections 3.1.4 (momentum) and 3.1.5 (safety in public transport) of OxfordAQA International GCSE Physics (9203).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA.

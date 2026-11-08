@@ -244,6 +244,20 @@ Method for an explanation: state where the image forms without correction, say w
 - Forgetting that light is refracted by the cornea as well as by the lens.
 - Naming laser eye surgery without saying that it is used to correct a visual defect.
 
+## Frequently asked questions
+
+**What is the focal length of a convex lens?**
+Rays parallel to the principal axis meet at the principal focus on the far side of the lens. The focal length is the distance from the middle of the lens to that point.
+
+**What kind of image does a concave lens form?**
+For any object distance, a concave lens forms an image that is virtual, upright and smaller, on the same side of the lens as the object.
+
+**Which lens corrects short sight?**
+Short sight is corrected with a concave lens. Long sight, where near objects are blurred and the image forms behind the retina, is corrected with a convex lens.
+
+**What does the iris do?**
+The iris is a ring of muscle that changes the size of the pupil, so it controls how much light enters the eye.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), for exams May/June 2018 onwards, Version 5.2, published by OxfordAQA. These notes follow section 3.3.6, Lenses and the eye.

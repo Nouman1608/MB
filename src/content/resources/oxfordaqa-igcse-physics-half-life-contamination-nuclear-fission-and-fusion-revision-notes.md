@@ -243,6 +243,20 @@ Control rods absorb neutrons. Lowering them slows the reaction; raising them let
 - Giving high temperature for fusion without explaining the repulsion between the nuclei.
 - Saying waste is a problem without linking it to radioactivity and half-life.
 
+## Frequently asked questions
+
+**What is the definition of half-life?**
+Half-life is the average time for the number of nuclei of an isotope in a sample to halve, or the time for the count rate from a sample containing the isotope to fall to half its initial level.
+
+**Does a long half-life mean a high count rate?**
+No. A long half-life means the nuclei decay slowly, so the sample emits little radiation each second but keeps emitting for a very long time.
+
+**Why does nuclear fusion need very high temperature and pressure?**
+The nuclei repel each other, so they must move very fast to get close enough to join. High pressure packs them closely so that close approaches happen often.
+
+**What is the difference between fission and fusion?**
+Fission is the splitting of a large unstable nucleus after it absorbs a neutron, as in nuclear reactors. Fusion is the joining of two light nuclei into a heavier one, as in stars. Both release energy.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), published by OxfordAQA, for exams May/June 2018 onwards: sections 3.7.2 h to j, 3.7.3 and 3.7.4.

@@ -245,6 +245,20 @@ The mean for 10 turns is (2 + 3 + 2) / 3 = 2.33. The mean rises steadily as the 
 - Saying induced magnetism can repel.
 - Saying the field around a wire is straight lines along the wire. It forms circles.
 
+## Frequently asked questions
+
+**How can you make an electromagnet stronger?**
+Increase the current, increase the number of turns on the coil or add an iron core, or use a bigger one.
+
+**What happens between two like poles facing each other?**
+The field lines curve away from each other and do not cross. Midway between the poles there is a point where the field cancels to zero, and the magnets repel.
+
+**Can induced magnetism cause repulsion?**
+No. A magnetic material placed in a magnetic field becomes an induced magnet that is always attracted, never repelled. Saying induced magnetism can repel is a common error.
+
+**Is OxfordAQA International GCSE Physics (9203) tiered?**
+No. The qualification is untiered, so the magnetism and electromagnetism content in section 3.5.2 applies to every candidate.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. This page covers section 3.5.2.

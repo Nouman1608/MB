@@ -163,8 +163,8 @@ The moderator slows fast neutrons down to thermal speeds so they can cause furth
 **Why does a reactor still need cooling after an emergency shut-down?**
 Inserting the control rods stops the chain reaction, but the fission products keep decaying and releasing energy. If cooling is lost, this decay heat can still melt the fuel.
 
-**How should you answer a risk-and-benefit question on nuclear power?**
-Weigh both sides. Benefits include a huge energy output per kilogram, no carbon dioxide from the reactor in normal use and continuous output; risks include rare but severe accidents, long-term waste storage, decommissioning cost and links to weapons materials.
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
 
 **Which sections of the OxfordAQA 9630 specification do these questions cover?**
 They cover sections 3.12.3 (induced fission), 3.12.4 (safety aspects of nuclear reactors) and 3.12.5 (nuclear fusion) of OxfordAQA International AS and A-level Physics (9630), which are International A-level only.

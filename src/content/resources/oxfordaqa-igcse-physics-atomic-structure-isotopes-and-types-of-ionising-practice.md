@@ -182,8 +182,8 @@ Links: [study guide](/resources/oxfordaqa-igcse-physics-atomic-structure-isotope
 **What are the most common mistakes in atomic structure questions?**
 Saying a beta particle comes from the electron shells, saying the nucleus is mostly empty space, and calculating neutrons as the atomic number. Beta particles come from the nucleus, the atom is mostly empty space, and neutrons equal mass number minus atomic number.
 
-**Does the most ionising radiation penetrate furthest?**
-No. The radiation that ionises most strongly, alpha, penetrates least. Gamma is the weakest ionising radiation and the most penetrating.
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions written for revision on this topic of OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers from the board.
 
 **Is the OxfordAQA International GCSE Physics (9203) exam tiered?**
 No. The OxfordAQA International GCSE Physics (9203) qualification is untiered, so every candidate takes the same papers.

@@ -166,8 +166,8 @@ Taking the distance between adjacent nodes as λ instead of λ/2, forgetting tha
 **Should you say "fundamental" or "first harmonic" for OxfordAQA?**
 Use harmonics. The specification asks for harmonics, so call the lowest mode the first harmonic rather than the fundamental or an overtone.
 
-**Does a stationary wave stop moving?**
-No. The medium still oscillates, except at the nodes, but there is no net transfer of energy along the wave. Saying the wave "stops" loses marks.
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
 
 **Is stationary waves content in OxfordAQA International AS Physics (9630)?**
 Yes. Section 3.5.5 (superposition and stationary waves) is shared International AS and A-level content in the OxfordAQA International AS and A-level Physics (9630) specification.

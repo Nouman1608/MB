@@ -167,8 +167,8 @@ Add the absolute uncertainties. Uncertainties never cancel, so subtracting them 
 **Is section 3.1 in OxfordAQA International AS Physics (9630)?**
 Yes. Section 3.1 is shared content: it is assessed in the International AS and in the full International A-level, with no AS/A-level split inside it.
 
-**How many significant figures should a final answer have?**
-Quote a result to match its uncertainty, so do not give more decimal places than the uncertainty justifies.
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
 
 ## Official syllabus
 

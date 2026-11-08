@@ -213,6 +213,20 @@ Method: power ÷ energy per kilogram gives mass per second; fuel ÷ mass per sec
 - Omitting the final point in an elements question: the supernova distributes the elements.
 - Describing the black dwarf as a black hole. It is a cooled white dwarf.
 
+## Frequently asked questions
+
+**What is a black dwarf?**
+A black dwarf is a white dwarf that has cooled down. It is not a black hole.
+
+**Where do elements heavier than iron come from?**
+Elements heavier than iron are made only in supernovae. Fusion during a star's life builds nuclei up to iron.
+
+**What fuses in a red giant?**
+In red giants and red supergiants, helium fuses to carbon, and heavier nuclei such as nitrogen and oxygen then form. On the main sequence, hydrogen fuses to helium.
+
+**Why does mass decide what happens to a star?**
+A more massive star has a greater gravitational squeeze on its core, so the core is hotter and fusion can build heavier nuclei. Mass also decides whether a star follows the smaller-star route or the larger-star route.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.8.1, Life cycle of a star.

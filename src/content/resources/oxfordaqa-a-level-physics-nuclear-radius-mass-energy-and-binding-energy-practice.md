@@ -193,8 +193,8 @@ Nuclei in 1.0 kg = 6.02 × 10²³/0.235 = 2.56 × 10²⁴ [1]
 **What are the most common mistakes in binding energy calculations?**
 Mixing nuclear and atomic masses when finding a mass defect, and putting MeV values into formulas that need joules. Multiply MeV by 1.60 × 10⁻¹³ to convert to joules.
 
-**Why is the closest approach of an alpha particle only an upper limit for the nuclear radius?**
-The alpha particle stops and turns back before it touches the nucleus, so its closest distance is larger than the nuclear radius. When using the Coulomb equation, remember the alpha particle's charge is 2e.
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
 
 **How do you convert atomic mass units to energy?**
 Multiply the mass in u by 931.5 to get the energy in MeV directly. One atomic mass unit is 1/12 of the mass of a carbon-12 atom, 1.66 × 10⁻²⁷ kg.

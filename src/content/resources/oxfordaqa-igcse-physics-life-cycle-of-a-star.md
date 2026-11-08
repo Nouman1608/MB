@@ -214,6 +214,20 @@ Model answer, one point per step:
 
 Work through the [revision notes](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-physics-life-cycle-of-a-star-practice/). Tick off 3.8.1 on the [checklist](/checklists/oxfordaqa/igcse/physics/) when you can write both routes from memory, and take the [diagnostics](/diagnostics/) to check your recall.
 
+## Frequently asked questions
+
+**What happens to a star like the Sun at the end of its life?**
+A smaller star like the Sun follows the smaller-star route: it becomes a red giant, then a white dwarf, which cools to become a black dwarf. It does not explode as a supernova.
+
+**What happens to a massive star at the end of its life?**
+A larger star becomes a red supergiant and then explodes as a supernova. The supernova is where elements heavier than iron are made.
+
+**What fuses on the main sequence?**
+On the main sequence, hydrogen nuclei fuse to form helium, releasing a huge amount of energy for every kilogram of hydrogen used.
+
+**Which section of the OxfordAQA 9203 specification does this guide cover?**
+It covers section 3.8.1, life cycle of a star, statements a to i, of OxfordAQA International GCSE Physics (9203), for exams from May/June 2018 onwards.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.8.1, Life cycle of a star.

@@ -326,6 +326,20 @@ The rest counts as time. Averaging the three speeds gives 3.2 m/s, which is the 
 
 Attempt the practice questions, then check progress on the [course checklist](/checklists/oxfordaqa/igcse/physics/) and the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**How do you find the spring constant from a force-extension graph?**
+With force on the y-axis and extension on the x-axis, the spring constant is the gradient of the straight section through the origin. Points beyond the limit of proportionality fall off the line.
+
+**How can you improve the spring practical?**
+Read the rule at eye level to avoid parallax, check for a zero error, use smaller mass steps near the limit of proportionality and repeat readings to find a mean.
+
+**How does air resistance change with speed?**
+Air resistance increases as an object moves faster. A streamlined shape or a smaller frontal area, such as a crouching cyclist, reduces it.
+
+**Is OxfordAQA International GCSE Physics (9203) tiered?**
+No. The qualification is untiered, so the forces and motion content in sections 3.1.1 and 3.1.2 applies to every candidate.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards, published by Oxford International AQA Examinations. Sections 3.1.1 and 3.1.2, and the required practical on force and extension for a spring.

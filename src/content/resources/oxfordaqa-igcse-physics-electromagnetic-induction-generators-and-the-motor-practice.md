@@ -171,14 +171,14 @@ A straight wire of fixed length in a field is carrying different currents. The f
 
 ## Frequently asked questions
 
-**What are the most common mistakes in electromagnetic induction questions?**
-Writing that a stationary magnet inside a coil induces a pd, saying the induced field stops the motion, and mixing up the fingers in Fleming's left-hand rule. Nothing is induced unless something changes, and the induced field opposes the motion without stopping it.
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions written for revision on this topic of OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers from the board.
 
-**Does a dynamo produce a steady pd?**
-No. A dynamo produces direct current that always flows the same way, but its pd still varies in size as the coil turns.
+**Which finger is which in Fleming's left-hand rule?**
+With the thumb, first finger and second finger of the left hand at 90° to each other, the first finger shows the field (north to south), the second finger the current and the thumb the force, or motion.
 
-**What happens to the motor force if the current and field are both reversed?**
-The force stays in the same direction. Reversing only one of the current or the field reverses the force.
+**Is the OxfordAQA International GCSE Physics (9203) exam tiered?**
+No. The qualification is untiered, so every candidate studies the same generator and motor effect content.
 
 **Is the motor effect in the OxfordAQA International GCSE Physics (9203) specification?**
 Yes. Section 3.6.4 covers the motor effect and section 3.6.1 covers generating electricity. The qualification is untiered, so all candidates study both.
