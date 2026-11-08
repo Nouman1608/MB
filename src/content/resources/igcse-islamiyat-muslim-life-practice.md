@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-living-muslim-life-9237"
+  - qualification: "igcse"
+    topic: "paper-1-living-muslim-life-9237"
+    subtopic: "islam-beliefs-teachings-9237"
+  - qualification: "igcse"
+    topic: "paper-1-living-muslim-life-9237"
+    subtopic: "islam-practices-9237"
 description: "Original practice paper in the OxfordAQA International GCSE Islamiat 9237 Paper 1 format: two 25-mark sections (beliefs and teachings; practices) of 1, 2, 4, 6 and 12-mark parts, with prescribed-passage extended responses and full mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

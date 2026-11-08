@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-living-muslim-life-9237"
+  - qualification: "igcse"
+    topic: "paper-1-living-muslim-life-9237"
+    subtopic: "islam-practices-9237"
 description: "Condensed recall notes on the Five Pillars, festivals, worship, and the sources of authority for International GCSE Islamiyat."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
