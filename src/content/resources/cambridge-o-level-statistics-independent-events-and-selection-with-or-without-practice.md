@@ -144,6 +144,23 @@ Give answers as exact fractions or as decimals to 3 significant figures unless t
 - Try the [free 10-minute diagnostics](/diagnostics/) to find your next topic.
 - [Book a free trial class](/trial/) if you want help from a teacher.
 
+## Frequently asked questions
+
+**How do you show that two events are independent?**
+Work out P(A), P(B) and P(A and B) from the information given, then check whether P(A) × P(B) equals P(A and B). Write the figures down and state your conclusion in words, because claiming independence without a written test loses marks.
+
+**What changes on a tree diagram when there is no replacement?**
+At the second stage both the total and the count of the item just removed go down by one. Keeping the same denominator, or reducing the denominator but not the numerator, are the most common errors.
+
+**What is the quickest way to find the probability of "at least one"?**
+Use 1 − P(none). Adding up every case separately takes longer and makes it easy to miss one.
+
+**How should you answer a "show that" probability question?**
+Every line of working must appear, from the set-up to the result. Jumping straight from the set-up to the given answer is a common way to lose marks.
+
+**Which part of the Cambridge O Level Statistics 4040 syllabus do these questions practise?**
+They practise independent events and selection with or without replacement, from topic 11, "Elementary ideas of probability", of the 4040 syllabus for examination in 2025, 2026 and 2027. The questions are original, not past-paper questions.
+
 ## Official syllabus
 
 These questions follow the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge International), topic 11 "Elementary ideas of probability".

@@ -199,6 +199,23 @@ A resident is chosen at random.
 - Take the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - [Book a free trial class](/trial/) for help with anything you got wrong.
 
+## Frequently asked questions
+
+**How do you decide whether two events are mutually exclusive?**
+Ask whether one trial could produce both events. If any outcome belongs to both, they are not mutually exclusive; when you say they are or are not, name the overlapping outcome or show that there is none.
+
+**Can a probability be written as a ratio?**
+No. Give probabilities as fractions, decimals or percentages between 0 and 1. A ratio such as 3 : 7, or any value above 1, will not be accepted as a probability.
+
+**Why should you list the sample space in full?**
+Listing every outcome stops you missing outcomes or counting some twice, which is a common way to lose marks. It also shows the examiner where your count came from.
+
+**What is the difference between "A or B" and "A and B"?**
+"A or B" is the union of the two events, while "A and B" is the intersection, the overlap. Treating one as the other is a frequent error in two-way table and Venn diagram questions.
+
+**Which part of the Cambridge O Level Statistics 4040 syllabus do these questions cover?**
+They cover probability basics and mutually exclusive events from topic 11, "Elementary ideas of probability", of the 4040 syllabus for examination in 2025, 2026 and 2027. The questions are original, not past-paper questions.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge International Education).

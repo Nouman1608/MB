@@ -228,6 +228,23 @@ The four path probabilities add to 1, which is a useful check.
 
 Do the [practice questions](/resources/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events-practice/) and use the [revision notes](/resources/cambridge-o-level-statistics-probability-basics-and-mutually-exclusive-events-revision-notes/) to check recall. Tick topic 11 off on the [checklist](/checklists/cambridge/o-level/statistics/).
 
+## Frequently asked questions
+
+**What is the formula for probability with equally likely outcomes?**
+P(A) = n(A) ÷ n(S), the number of outcomes in the event divided by the number of outcomes in the sample space. The result always lies between 0 (impossible) and 1 (certain).
+
+**What is the addition rule in probability?**
+For any two events, P(A ∪ B) = P(A) + P(B) − P(A ∩ B). For mutually exclusive events the overlap is 0, so the rule reduces to P(A) + P(B).
+
+**How do you find an expected number from a probability?**
+Multiply the probability by the number of trials. An expected number is an average over many repeats, not a guarantee of what will happen in any one set of trials.
+
+**How do you use the complement rule?**
+Since an event and its complement cover every outcome, P(A′) = 1 − P(A). It is especially useful for "at least one" questions that would otherwise need many cases.
+
+**Which topic of the Cambridge O Level Statistics 4040 syllabus covers probability?**
+Probability is topic 11, "Elementary ideas of probability", in the 4040 syllabus for examination in 2025, 2026 and 2027. It also includes independent events and selections with or without replacement.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge International Education).

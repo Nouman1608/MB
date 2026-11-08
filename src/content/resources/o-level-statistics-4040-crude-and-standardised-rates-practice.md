@@ -16,7 +16,7 @@ syllabusTopics:
     topic: "crude-and-standardised-rates-and-their-use-4040"
   - qualification: "igcse"
     topic: "crude-and-standardised-rates-0479"
-description: "Original practice questions with full worked answers on crude rates, age-specific rates, standardised rates and working back from a rate to a number of events — O Level Statistics 4040 Topic 7 and IGCSE Statistics 0479 Topic 9."
+description: "Practice questions with worked answers on crude, age-specific and standardised rates: Cambridge O Level Statistics 4040 Topic 7 and IGCSE 0479 Topic 9."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false

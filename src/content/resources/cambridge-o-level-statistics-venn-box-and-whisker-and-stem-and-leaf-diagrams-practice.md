@@ -203,6 +203,23 @@ Key: Year 7: 4 | 1 means 4.1 minutes. Year 9: 4 | 2 means 4.2 minutes.
 - Try the [free 10-minute diagnostics](/diagnostics/) to choose your next unit.
 - [Book a free trial class](/trial/) if you want help with a section.
 
+## Frequently asked questions
+
+**What must a stem-and-leaf diagram include to get full marks?**
+It needs ordered leaves in every row, every stem from lowest to highest even if a row is empty, and a key such as 2 | 1 means 21. Leaving out the key or an empty stem loses marks.
+
+**Why do you fill the centre of a Venn diagram first?**
+Pair totals such as "9 take art and music" include the centre region, so you must subtract the centre before placing the "only" regions. Using a pair total as an "only" region is a common error.
+
+**How should you compare two box-and-whisker diagrams?**
+Compare at least one average, such as the median, and one measure of spread, such as the IQR, and finish with a conclusion in context. Answers that are all numbers with no conclusion lose marks.
+
+**How do you order the leaves in a back-to-back stem-and-leaf diagram?**
+Order both sets outwards from the stem, so the smallest leaf on the left-hand side sits nearest the stem.
+
+**Which part of the Cambridge O Level Statistics 4040 syllabus do these questions cover?**
+They cover sections 2.2, 2.3 and 2.4 of the 4040 syllabus for examination in 2025, 2026 and 2027: Venn, box-and-whisker and stem-and-leaf diagrams, choosing representations and interpreting data. The questions are original, not past-paper questions.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027 (version 1), published by Cambridge Assessment International Education, part of Cambridge University Press & Assessment. Sections 2.2, 2.3 and 2.4.

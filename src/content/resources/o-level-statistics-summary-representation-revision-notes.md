@@ -12,10 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "summary-representation-of-data-4040"
-description: "Condensed recall notes on tabular and pictorial representation, their advantages and disadvantages, and interpreting displayed data for Cambridge O Level Statistics (4040), 2025-2027 series."
+description: "Recall notes on tables, the diagrams named in Topic 2, their advantages and disadvantages, and interpreting data, for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -140,6 +142,23 @@ comparison, a conclusion). This dual practice covers both 2.2 and 2.4
 in the same session and builds the speed needed for exam conditions,
 where most Statistics questions combine a "read the data" step with a
 "do something with it" step in a single question.
+
+## Frequently asked questions
+
+**Which diagrams are named in Topic 2 of Cambridge O Level Statistics 4040?**
+Section 2.2 names pictograms, pie charts, comparative pie charts, Venn diagrams, bar charts, sectional and percentage bar charts, dual bar charts, box-and-whisker diagrams and stem-and-leaf diagrams, including back-to-back ones.
+
+**What is the difference between a sectional bar chart and a dual bar chart?**
+A sectional (stacked) bar chart stacks categories within one bar per group, while a dual bar chart places separate bars side by side.
+
+**Does O Level Statistics 4040 have a list of command words?**
+No. The 4040 syllabus publishes no command-word list. Sibling IGCSE Statistics 0479 does define "interpret", meaning identify meaning or significance in relation to the context.
+
+**What does an "advantages and disadvantages" question expect?**
+It expects both sides for at least one diagram type. Naming an advantage without a matching limitation cannot reach full marks.
+
+**Are box-and-whisker and stem-and-leaf diagrams interchangeable?**
+No. A box-and-whisker diagram shows five key values, while a stem-and-leaf diagram keeps the full data set in ordered form.
 
 ## Related resources
 

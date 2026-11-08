@@ -189,6 +189,23 @@ These questions cover section 3.2, representation in frequency polygons and hist
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is frequency density in a histogram?**
+Frequency density is the frequency of a class divided by its class width. On a histogram it is the height of each bar, so the area of a bar represents the frequency.
+
+**Why do you need frequency density when class widths are unequal?**
+If frequency is used as the bar height when widths differ, wider classes look larger than they should. Dividing by width puts every bar on the same scale, which also changes which class appears modal.
+
+**Where do you plot the points of a frequency polygon?**
+Plot each point at the class midpoint against the frequency, then add a closing point on the horizontal axis at each end. Plotting at an upper boundary or leaving out the closing points are common ways to lose marks.
+
+**How do you estimate how many values lie in part of a class?**
+Multiply the part of the class width you need by the bar's frequency density. The answer is an estimate, and it relies on the assumption that the values are evenly spread across the class.
+
+**Which part of the Cambridge O Level Statistics 4040 syllabus do these questions cover?**
+They cover section 3.2, representation in frequency polygons and histograms, from the 4040 syllabus for examination in 2025, 2026 and 2027. The questions are original, not past-paper questions.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment. These questions follow section 3.2.

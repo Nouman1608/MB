@@ -193,6 +193,23 @@ Give rates per thousand unless told otherwise.
 - Giving a conclusion without naming the cause of any disagreement between crude and standardised rates, such as a larger share of older people.
 - Writing that a higher rate means a larger number of events. Check population size before claiming that.
 
+## Frequently asked questions
+
+**What is a crude birth rate?**
+A crude birth rate is the number of births divided by the total population, multiplied by 1000, so it is a rate per thousand people. In the 0479 syllabus, rates will be defined in the question, so use the definition given.
+
+**How is a fertility rate different from a crude birth rate?**
+A fertility rate is normally based on the number of women in a stated age range, not the whole population, so its unit is per thousand women. The question will define the age range.
+
+**Why is a plain mean of group rates wrong for a standardised rate?**
+A plain mean treats every group as equally common. A standardised rate is a weighted average that uses the standard population's group sizes as the weights.
+
+**Does a higher death rate mean more deaths?**
+Not necessarily. Rates and totals answer different questions, so check the population size before claiming that a population with a higher rate has more events.
+
+**Where are crude and standardised rates in the Cambridge syllabuses?**
+They are topic 7 of Cambridge O Level Statistics 4040 for examination in 2025, 2026 and 2027, and topic 9 of Cambridge IGCSE Statistics 0479 for 2027.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, topic 7: Crude and standardised rates, and their appropriate use (Cambridge University Press & Assessment). Cambridge IGCSE Statistics 0479, syllabus for 2027, topic 9: Crude and standardised rates.

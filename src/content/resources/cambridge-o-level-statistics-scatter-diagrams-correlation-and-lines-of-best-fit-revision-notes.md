@@ -196,6 +196,23 @@ Example: the points (5, 12) and (20, 42) give m = 30/15 = 2 and c = 12 − 10 = 
 * Predicting outside the data range without any comment on reliability.
 * Saying correlation proves cause, or confusing strong correlation with a steep line.
 
+## Frequently asked questions
+
+**What do you do with the middle pair when there is an odd number of pairs?**
+Leave the middle pair out so the two halves are equal in size. The 4040 syllabus does not set a rule for this, so it is sensible to state the convention in your answer and follow the question if it says otherwise.
+
+**How do you find the equation of a line through two semi-average points?**
+Find the gradient m = (ȳ₂ − ȳ₁) ÷ (x̄₂ − x̄₁), subtracting in the same order on top and bottom, then substitute one of the points into y = mx + c to find c.
+
+**Does a steep line of best fit mean strong correlation?**
+No. Strength depends on how close the points lie to the line, not on how steep the line is.
+
+**Should you join the points on a scatter diagram?**
+No. Plot each pair as a small cross and draw one straight line of best fit. Joining the plotted points is a common way to lose marks.
+
+**Which sections of Cambridge O Level Statistics 4040 do these notes cover?**
+They condense sections 9.1 and 9.2 of the 4040 syllabus for examination in 2025, 2026 and 2027: correlation, the method of semi-averages and prediction from y = mx + c.
+
 ## Official syllabus
 
 Cambridge O Level Statistics (4040) syllabus, for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 9.1 and 9.2.

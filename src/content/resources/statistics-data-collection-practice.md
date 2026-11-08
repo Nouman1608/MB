@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on sampling methods, data types, bias and questionnaire design."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -101,3 +103,20 @@ Related: [Data and Its Collection revision notes](/resources/statistics-data-col
 - Confusing stratified with quota sampling.
 - Rounding stratified sample sizes so they no longer total the required sample.
 - Rewriting a leading question but leaving the response options unbalanced.
+
+## Frequently asked questions
+
+**Are these IGCSE Statistics 0479 data collection questions from past papers?**
+No. They are original questions written for revision and do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers available from your board.
+
+**How are marks usually given in a question on sampling methods?**
+In the worked answers here, marks are given separately for explaining how the method works, for an advantage and for a disadvantage of each method, so cover all three for every method named.
+
+**How should you round the numbers in a stratified sample?**
+Round each stratum's share so that the parts still add up to the required sample size. Rounding so the totals no longer match is a common way to lose marks.
+
+**What do you need to check when rewriting a leading question?**
+Remove the wording that pushes the respondent towards an answer, and make sure the response options are balanced. Leaving unbalanced options in the rewrite still loses marks.
+
+**Which topic of Cambridge IGCSE Statistics 0479 do these questions cover?**
+They cover Topic 1, Data and its collection: data types, populations, census and sampling methods, bias and questionnaire design, for examination in 2027.

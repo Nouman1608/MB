@@ -195,6 +195,23 @@ The syllabus overview asks candidates to show all working on the question paper,
 - Giving only a final answer. Writing the addition or subtraction makes your method visible.
 - Saying events are exclusive without a reason. State the overlapping outcome, or show that there is none.
 
+## Frequently asked questions
+
+**What is the difference between probability and relative frequency?**
+A probability based on equally likely outcomes is calculated. A relative frequency is measured from trials and is only an estimate of the probability.
+
+**Can events be both mutually exclusive and independent?**
+Not if each has a non-zero probability. Mutually exclusive events cannot happen together, while independent events do not affect each other, so the two words should never be used as if they meant the same thing.
+
+**What is the difference between "exactly one" and "at least one"?**
+"Exactly one" excludes the overlap where both events happen. "At least one" is the union of the events and is often easier to find as 1 − P(none).
+
+**Does a Venn diagram need a region outside the circles?**
+Yes. The "neither" region outside the circles holds the outcomes in neither event, and forgetting it is a common way to lose marks.
+
+**How should you set out a probability answer in O Level Statistics 4040?**
+Name the event, write the rule before the numbers, substitute and evaluate, then check the answer lies between 0 and 1. The 4040 syllabus asks candidates to show all working.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge International Education).

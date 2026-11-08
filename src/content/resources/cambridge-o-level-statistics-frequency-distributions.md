@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "formation-of-data-into-frequency-distributions-4040"
     subtopic: "class-measures-grouped-frequency-4040"
-description: "Class limits, boundaries, midpoints and intervals, plus frequency polygons and histograms -- Topic 3 of Cambridge O Level Statistics (4040), distinct from the site's existing guides to Data and Its Collection and Summary Representation of Data."
+description: "Topic 3 of Cambridge O Level Statistics 4040: class limits, boundaries, midpoints and intervals, grouped vs ungrouped tables, and choosing class widths."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
@@ -135,3 +137,20 @@ between class boundaries).
   set.
 - Distinguish clearly between a frequency polygon and a histogram, both in construction and in when each
   is appropriate.
+
+## Frequently asked questions
+
+**What is Topic 3 of Cambridge O Level Statistics 4040 about?**
+Topic 3 covers forming data into ungrouped or grouped frequency distributions, including class limits, boundaries, midpoints and intervals, choosing sensible class widths, and representing distributions with frequency polygons and histograms.
+
+**Why does a histogram use class boundaries instead of class limits?**
+A histogram's bars must be continuous with no gaps between them. Class boundaries remove the gap between consecutive classes, whereas class limits would leave gaps between the bars.
+
+**When should you use an ungrouped frequency distribution?**
+Use an ungrouped table when a data set has only a small number of distinct values, such as the number of siblings each student has. A grouped table is needed when the values span a wide range relative to the number of observations.
+
+**What happens if you choose too many or too few classes?**
+Too few classes can hide meaningful patterns by over-simplifying the data, while too many leave individual classes with very low frequencies, making the overall shape hard to see.
+
+**What is the difference between a frequency polygon and a histogram?**
+A frequency polygon plots points at class midpoints and joins them with straight lines, while a histogram draws bars between class boundaries.

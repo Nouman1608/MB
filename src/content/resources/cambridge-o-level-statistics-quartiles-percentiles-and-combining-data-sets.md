@@ -247,6 +247,23 @@ The mean is unchanged because the value removed equalled the mean. The standard 
 
 Work through the [revision notes](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets-revision-notes/), then the [practice questions](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets-practice/). The next topic, section 6, is in the [guide on adding or multiplying by a constant](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and/).
 
+## Frequently asked questions
+
+**How do you estimate the median from a grouped cumulative frequency table?**
+Find the class where the cumulative frequency first reaches n/2, then interpolate: lower boundary + (target − cumulative frequency before the class) ÷ class frequency × class width. The answer is an estimate because it assumes the values are spread evenly across the class.
+
+**How do you find what percentile a value is?**
+Find the cumulative frequency at that value, by interpolation or by reading up from the graph, then divide by n. For example, a cumulative frequency of 103 out of 120 puts the value at about the 86th percentile.
+
+**How do you find the mean of two combined groups?**
+Multiply each group's mean by its size to get the totals, add the totals, and divide by the combined number of values. Simply averaging the two means is wrong unless the groups are the same size.
+
+**Why can a combined standard deviation be larger than both group standard deviations?**
+When the two group means differ, the gap between them adds spread to the combined data. In one worked example, groups with standard deviations 5 and 7 combine to give 7.66.
+
+**What is the interquartile range used for?**
+The interquartile range, Q3 − Q1, shows how widely the central 50% of the data is scattered. In Cambridge O Level Statistics 4040, quartiles and percentiles are section 5.3 of the syllabus.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment, topic 5, sections 5.3 and 5.4.

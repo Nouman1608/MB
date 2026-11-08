@@ -200,6 +200,23 @@ yellow then red: 6/8 × 2/7 = 12/56 = 3/14
 - Rounding a fraction part-way through, then giving an answer that is only approximately right.
 - Writing an answer with no working. Show the products so that the method is visible even if an arithmetic slip occurs.
 
+## Frequently asked questions
+
+**What does "with replacement" mean in probability?**
+Each item is put back before the next pick, so the picks are independent and the probabilities stay the same at every stage. "Without replacement" means the picks are dependent and the numbers must be adjusted.
+
+**How do you treat two items "chosen at random from the group" at once?**
+Treat the selection as without replacement, because the same item cannot be chosen twice.
+
+**What is the difference between "in that order" and "in any order"?**
+"In that order" means one path on the tree diagram only. "In any order" means you add the probabilities of the paths for every possible order.
+
+**How can you check a tree diagram is correct?**
+The probabilities of all the complete paths should add to 1. If they do not, a path is missing or a branch probability is wrong.
+
+**Can mutually exclusive events be independent?**
+If both events have a non-zero probability, mutually exclusive events are never independent. Independence is about probabilities, while mutual exclusivity is about outcomes that cannot both happen.
+
 ## Official syllabus
 
 These notes follow the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge International), topic 11 "Elementary ideas of probability".

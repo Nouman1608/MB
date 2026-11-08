@@ -157,6 +157,23 @@ These questions cover section 3.1 of the Cambridge O Level Statistics (4040) syl
 - Take the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - Ask for a [free trial class](/trial/) for help with any question you could not finish.
 
+## Frequently asked questions
+
+**What is the difference between class limits and class boundaries?**
+Class limits are the numbers printed for a class, such as 6-10. Class boundaries are found by moving half the gap between neighbouring classes outwards, so for whole-number data the class 6-10 has boundaries 5.5 and 10.5.
+
+**How do you find the width of a class interval?**
+Subtract the lower boundary from the upper boundary, not the lower limit from the upper limit. Taking upper limit minus lower limit is one of the most common ways to lose a mark on this topic.
+
+**What half-gap do you use for data recorded to 1 decimal place?**
+The gap between neighbouring classes is 0.1, so the half-gap is 0.05. Using 0.5 gives boundaries that cut into the next class.
+
+**Do you adjust classes written with inequalities to find boundaries?**
+No. When classes are written as inequalities, such as 60 ≤ m < 70, the printed numbers are already the boundaries, so no adjustment is needed.
+
+**Which part of the Cambridge O Level Statistics 4040 syllabus do these questions cover?**
+They cover section 3.1 of the 4040 syllabus for examination in 2025, 2026 and 2027: class limits, boundaries, mid-points and class intervals for grouped frequency distributions. The questions are original, not past-paper questions.
+
 ## Official syllabus
 
 Cambridge O Level Statistics (4040), syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment (Cambridge International). Section 3.1: class measures for grouped frequency distributions, including class limits, boundaries and mid-points, and class intervals.

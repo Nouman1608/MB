@@ -157,6 +157,23 @@ Use n for a total frequency and take the target positions as n/4, n/2, 3n/4 and 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Which cumulative frequency do you read for the quartiles of grouped data?**
+For n values, read at n/4 for the lower quartile, n/2 for the median and 3n/4 for the upper quartile. Reading at n/2 for a quartile, or n/4 for the median, is a common slip.
+
+**Which cumulative frequency goes into the interpolation formula?**
+Use the cumulative frequency of the classes before the one containing the target, not the cumulative frequency of that class itself. Mixing these up is one of the most common ways to lose marks.
+
+**Can you average two standard deviations when combining data sets?**
+No. Rebuild Σx and Σx² for each set, add them, then calculate the combined standard deviation. Taking the mean of two standard deviations, or of two means for groups of different sizes, loses the marks.
+
+**How accurately should you give a value read from a cumulative frequency graph?**
+Give it to a sensible accuracy and call it an estimate. A reading from a graph or an interpolation does not justify many decimal places.
+
+**Which Cambridge O Level Statistics 4040 sections do these questions cover?**
+They cover sections 5.3 (quartiles and percentiles) and 5.4 (measures for combined sets of data) of the 4040 syllabus for examination in 2025, 2026 and 2027. The questions are original, not past-paper questions.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment, topic 5, sections 5.3 and 5.4.

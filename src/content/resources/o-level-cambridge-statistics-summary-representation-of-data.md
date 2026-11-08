@@ -12,10 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "summary-representation-of-data-4040"
-description: "Classification and tabulation, pictorial and diagrammatic representation, and interpretation of data -- the second of twelve topics in Cambridge O Level Statistics (4040), 2025-2027 series."
+description: "Topic 2 of Cambridge O Level Statistics 4040: two-way tables, pie, bar, Venn, box-and-whisker and stem-and-leaf diagrams, choosing and interpreting them."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -147,3 +149,20 @@ appearance rather than drawing a data-based conclusion.
   and purpose.
 - Interpret a completed chart or table to compare categories or
   datasets and state a conclusion in context.
+
+## Frequently asked questions
+
+**What does Topic 2 of Cambridge O Level Statistics 4040 cover?**
+Topic 2, Summary representation of data, covers tables including two-way tables (2.1), pictorial and diagrammatic forms (2.2), the purpose, advantages and disadvantages of each form (2.3), and interpreting data already presented (2.4).
+
+**When should you use a bar chart instead of a pie chart?**
+A pie chart shows proportions of a whole clearly, but it makes comparing exact values across categories harder than a bar chart does. Choose a bar chart when the question asks for comparison of exact values.
+
+**How is a comparative pie chart drawn?**
+Conventionally, two pie charts are drawn with radii scaled to the square roots of their totals, so that their areas reflect the totals. Two same-size charts side by side hide the difference in totals.
+
+**How do you compare two box-and-whisker diagrams?**
+Compare the medians (typical values) and the interquartile ranges (spread of the middle 50%), then state a conclusion in context. Simply reading off numbers without comparing them is a weaker answer.
+
+**Why do stem-and-leaf diagrams lose marks?**
+A stem-and-leaf diagram without ordered leaves loses marks even if the correct values are present. It preserves every individual value but becomes unwieldy with very large datasets.

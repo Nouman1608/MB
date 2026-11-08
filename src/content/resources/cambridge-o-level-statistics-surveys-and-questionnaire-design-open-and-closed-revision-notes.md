@@ -185,6 +185,23 @@ To raise it: shorten the form, send a reminder, make it easy to return, explain 
 - Not showing the working for percentages and angles, and not stating the unit (° or %).
 - Describing advantages and disadvantages of both types in general terms without applying them to the survey in the question.
 
+## Frequently asked questions
+
+**What is the difference between open and closed questions?**
+A closed question gives the respondent a fixed set of answers to choose from, while an open question has no fixed answers. Closed questions are quick to answer and tally; open questions give detail and reasons.
+
+**What does a pilot survey check?**
+A pilot survey checks the questionnaire, not the results. It tests whether questions are understood, whether the response options work, how long the form takes and whether the answers can be coded.
+
+**What is coding in a survey?**
+Coding means reading open answers and sorting them into categories so that they can be counted. The categories should be mutually exclusive, with a small "Other" group.
+
+**How do you write an advantage of a closed question properly?**
+Say for whom and why it is easier, for example "quicker for respondents to answer" or "quicker for the researcher to tally". Writing just "it is easier" is too vague to earn the mark.
+
+**Which section of Cambridge O Level Statistics 4040 covers questionnaire design?**
+Section 1.4, general ideas of surveys, including the use of closed and open questions in questionnaires, in the 4040 syllabus for examination in 2025, 2026 and 2027.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment. Section 1.4: general ideas of surveys, including the use of closed and open questions in questionnaires.

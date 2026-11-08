@@ -244,6 +244,23 @@ The IQR does not move, because the upper quartile is still 47. The range more th
 
 Work through the [practice questions](/resources/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard-practice/), then use the [revision notes](/resources/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard-revision-notes/) to fix the formulas. Box plots draw the quartiles, as covered in the [box-and-whisker guide](/resources/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams/).
 
+## Frequently asked questions
+
+**What is the formula for variance?**
+Variance = Σ(x − x̄)² ÷ n, or equivalently Σx² ÷ n − x̄². The standard deviation is the square root of the variance. If a question supplies a different formula, follow the question.
+
+**How do you calculate the interquartile range from a list?**
+Put the data in order, split it at the median, and find the middle value of each half to get Q1 and Q3. Then IQR = Q3 − Q1; giving the pair "Q1 to Q3" without subtracting loses the mark.
+
+**How do you estimate the range from a grouped frequency table?**
+Subtract the lower boundary of the first class from the upper boundary of the last class. This is the widest the range could be, so call it an estimate.
+
+**Why should you not round the mean early when calculating variance?**
+The Σx²/n − x̄² form subtracts two close numbers, so rounding x̄ early spoils the final digits. Keep the mean exact or to several decimal places until the end.
+
+**Which measures of dispersion are in Cambridge O Level Statistics 4040?**
+Section 5.2 of the 4040 syllabus covers the range, interquartile range, variance and standard deviation, calculated or estimated from a list, an ungrouped table and a grouped table.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, from Cambridge Assessment International Education, part of Cambridge University Press & Assessment. This page covers section 5.2, measures of dispersion.

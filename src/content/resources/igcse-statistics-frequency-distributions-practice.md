@@ -12,10 +12,12 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "frequency-distributions-0479"
-description: "Original exam-style practice questions with full worked answers on grouped/ungrouped distributions, class boundaries, histograms, frequency polygons and cumulative frequency, for Cambridge IGCSE Statistics (0479) Topic 3."
+description: "Original questions with worked answers on class boundaries, histograms, frequency polygons and cumulative frequency for Cambridge IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -130,3 +132,20 @@ which axis to read a value from on a cumulative frequency curve. Before answerin
 on a cumulative frequency graph, check explicitly whether the question is asking for a value (read
 from the horizontal axis) or a cumulative frequency (read from the vertical axis) — this one habit
 prevents the majority of marks lost on this sub-topic.
+
+## Frequently asked questions
+
+**Are these Cambridge IGCSE Statistics 0479 frequency distribution questions from past papers?**
+No. They are original questions written for revision and do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers available from your board.
+
+**How do you read a cumulative frequency curve without mixing up the axes?**
+Check first whether the question asks for a value of the variable, read from the horizontal axis, or a cumulative frequency (a count), read from the vertical axis. Reading from the wrong axis is a common error on this topic.
+
+**Do discrete data classes have boundaries?**
+Yes. For discrete data the 0479 syllabus requires class limits, boundaries, midpoints and widths, with each boundary lying halfway between the upper limit of one class and the lower limit of the next.
+
+**Why is the bar with the higher frequency not always the tallest on a histogram?**
+When class widths are unequal, bar height is frequency density, not frequency. A narrower class can have a lower frequency but a higher frequency density, so it is drawn taller.
+
+**What topic of IGCSE Statistics 0479 do these questions cover?**
+They cover Topic 3, Frequency distributions: grouped and ungrouped distributions, class boundaries, histograms, frequency polygons and cumulative frequency.

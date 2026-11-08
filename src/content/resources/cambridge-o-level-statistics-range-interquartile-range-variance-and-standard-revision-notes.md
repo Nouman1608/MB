@@ -160,6 +160,23 @@ In a grouped table, x is the class midpoint. Here the divisor is n (or Σf). If 
 - Comparing two sets with "A is bigger" and no mention of what spread means in context.
 - Comparing a range for one set with a standard deviation for the other.
 
+## Frequently asked questions
+
+**Can a variance be negative?**
+No. If Σfx²/Σf − mean² comes out negative, there has been an arithmetic slip, often from rounding the mean early.
+
+**What is the difference between Σfx² and Σ(fx)²?**
+For Σfx², square each value x first, then multiply by its frequency f and add. Squaring fx instead gives a different, wrong total.
+
+**Is a standard deviation from a grouped table exact?**
+No. Grouped answers are estimates, because the individual values are replaced by class midpoints. Answers from a list or ungrouped table are exact.
+
+**When should you use the IQR rather than the standard deviation?**
+Prefer the median and IQR for skewed data or data with outliers, because an extreme value changes the range and standard deviation a great deal but the IQR little or not at all. For roughly symmetrical data, the mean and standard deviation suit well.
+
+**Which section of Cambridge O Level Statistics 4040 do these notes cover?**
+They cover section 5.2, measures of dispersion, of the 4040 syllabus for examination in 2025, 2026 and 2027.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, from Cambridge Assessment International Education, part of Cambridge University Press & Assessment. These notes cover section 5.2, measures of dispersion.

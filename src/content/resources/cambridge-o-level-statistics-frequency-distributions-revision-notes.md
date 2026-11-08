@@ -137,6 +137,23 @@ Ungrouped tables list each separate value. They suit counts with a small number 
 - Saying "too many classes" or "too few" with no reference to the data.
 - Writing a class width for unequal classes as one value for the whole table.
 
+## Frequently asked questions
+
+**How do you find class boundaries in a grouped frequency table?**
+Find the gap between one class's upper limit and the next class's lower limit, halve it, then subtract the half-gap from the lower limit and add it to the upper limit. For a whole-number class of 40-44 this gives boundaries of 39.5 and 44.5.
+
+**How do you calculate the mid-point of a class?**
+Add the lower and upper class boundaries and divide by two. For the class 40-44 recorded to the nearest kilogram, the mid-point is (39.5 + 44.5) ÷ 2 = 42.
+
+**What does "class interval" mean in statistics?**
+The term is used in two ways: sometimes it means the class itself, such as 20-29, and sometimes it means the class width. When a question asks for the width, it wants a number.
+
+**How do you handle ages recorded as age last birthday?**
+A class such as 10-14 holds exact ages from 10 up to, but not including, 15, so its width is 5 and its mid-point is 12.5. Using the printed limits would wrongly give a mid-point of 12.
+
+**How many classes should a grouped frequency table have?**
+There is no official rule in Cambridge O Level Statistics 4040. A common working guide is around five to ten, but the right choice depends on how many values there are and how widely they are spread.
+
 ## Official syllabus
 
 Cambridge O Level Statistics (4040), syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment (Cambridge International). Section 3.1: class measures for grouped frequency distributions, including class limits, boundaries and mid-points, and class intervals.

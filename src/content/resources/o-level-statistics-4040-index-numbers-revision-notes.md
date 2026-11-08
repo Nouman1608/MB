@@ -182,6 +182,23 @@ A good limitation answer names a specific item. Compare "the weights may be out 
 - Later in the syllabus: [time series and moving averages](/resources/o-level-statistics-4040-time-series-moving-averages/).
 - Check your readiness with the free [10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**How do you find the percentage change between two index numbers?**
+Divide the difference by the earlier index and multiply by 100. An index rising from 108 to 118.8 is a rise of 10.8 points but a 10% increase, so the difference in points is not the percentage change.
+
+**How do you find a base-year price from a price relative?**
+Divide the given-year price by the price relative and multiply by 100. For example, a price relative of 125 and a current price of Rs 750 give a base-year price of Rs 600.
+
+**Why is a weighted aggregate index like a mean from a frequency table?**
+It is a weighted mean: the weights play the part of the frequencies and the price relatives play the part of the values. You divide by the sum of the weights, not the number of items.
+
+**How can you check a weighted index answer is plausible?**
+A correct weighted index lies between the lowest and highest price relatives. An answer outside that range is wrong.
+
+**Which topics cover index numbers in Cambridge O Level Statistics 4040 and IGCSE Statistics 0479?**
+Index numbers are Topic 8 of the 4040 syllabus for examination in 2025, 2026 and 2027, and Topic 10 of the 0479 syllabus, covering price relatives, weighted aggregate index numbers and their limitations.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, Topic 8 (Cambridge University Press and Assessment), and Cambridge IGCSE Statistics 0479, Topic 10 learning outcomes on index numbers.

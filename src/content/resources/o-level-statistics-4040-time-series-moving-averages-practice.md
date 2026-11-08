@@ -20,7 +20,7 @@ syllabusTopics:
     subtopic: "understanding-of-seasonal-variation-4040"
   - qualification: "igcse"
     topic: "time-series-0479"
-description: "Original practice questions with full worked answers on 3-point and centred 4-point moving averages, trend lines, seasonal components and predictions — O Level Statistics 4040 Topic 10 and IGCSE Statistics 0479 Topic 12."
+description: "Practice questions with worked answers on moving averages, trend lines and seasonal components: O Level Statistics 4040 Topic 10 and IGCSE 0479 Topic 12."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false

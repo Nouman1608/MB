@@ -208,6 +208,23 @@ A low response rate is a problem when the people who did not reply differ from t
 - Calling a question leading when it is only unclear. Name the exact fault and rewrite the question.
 - Rewriting a leading question but leaving the loaded word in the new version.
 
+## Frequently asked questions
+
+**What is a leading question in a survey?**
+A leading question is worded so that it suggests the answer, such as "Don't you agree the new timetable is much better?" A better version asks for a rating on a balanced scale.
+
+**What is a double-barrelled question?**
+It asks two questions in one, such as "Is the café cheap and clean?" The fix is to ask about each feature separately.
+
+**Where should sensitive questions go in a questionnaire?**
+Put easy, interesting questions first and sensitive ones, such as income, later. For sensitive figures, offer bands rather than asking for an exact value.
+
+**What is non-response bias?**
+Non-response bias happens when the people who do not reply differ from those who do. A larger sample does not remove it; reminders, a shorter form and a prepaid return envelope can raise the response rate.
+
+**Is questionnaire design in the Cambridge O Level Statistics 4040 syllabus?**
+Yes. Section 1.4 of the 4040 syllabus, general ideas of surveys, includes the use of closed and open questions in questionnaires. The syllabus is not tiered, so it applies to every candidate.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment. Section 1.4: general ideas of surveys, including the use of closed and open questions in questionnaires.
