@@ -1,7 +1,7 @@
 # Flashcards: review status and what a teacher should check (D-444)
 
-86 decks, 18,099 cards (Mathematics 3,387 · Chemistry 3,131 · Physics 2,892 · Biology 2,494 ·
-Economics 2,448 · Business 2,336 · Accounting 1,411). 1,278 cards are upper tier; 2,808 restate a
+86 decks, 18,115 cards (Mathematics 3,387 · Chemistry 3,147 · Physics 2,892 · Biology 2,494 ·
+Economics 2,448 · Business 2,336 · Accounting 1,411). 1,279 cards are upper tier; 2,818 restate a
 named revision-notes page. **All 86 decks and the 24 revision-notes pages written for them were
 reviewed by the subject teachers on 5 Nov 2026** (owner, 5 Nov 2026); each deck records its
 reviewer in `deckReview` and each page in `reviewer`/`reviewedDate`. See "Teacher review" below.
@@ -118,3 +118,12 @@ subject, as `validate-review-integrity.mjs` does for pages.
   (a whole Edexcel A Level Biology topic, for example). Reviewed cards were kept; the study panel
   now has a "Session length" choice (all, 10 or 20 cards) on decks of more than 10 cards, and
   "Only cards I have not got yet" carries on through the rest.
+
+## Added after the teacher review (8 Nov 2026)
+
+16 cards were added to the Cambridge IGCSE Chemistry 0620 and O Level Chemistry 5070 decks after the
+teachers' review of 5 Nov, so the "reviewed" line on those two deck pages does not yet cover them.
+They are the cards on 8.4 Transition elements (3 to 5), 8.5 Noble gases (3 to 5) and 9.2 Uses of
+metals (3 and 4), in each deck. They were written from the 0620 syllabus (sections 8.4, 8.5, 9.2)
+and the periodic-table notes; 9.2 now includes aluminium in overhead cables, a syllabus outcome the
+deck had missed. A teacher should check them and then re-confirm the two decks.
