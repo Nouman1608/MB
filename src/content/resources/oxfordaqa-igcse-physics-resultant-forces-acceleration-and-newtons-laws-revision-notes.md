@@ -272,6 +272,20 @@ For a scale drawing, give the scale, the measured length, the converted force an
 * Giving a scale-drawing angle without saying which force it is measured from.
 * Leaving out units, or leaving mass in grams.
 
+## Frequently asked questions
+
+**What is a resultant force?**
+A resultant force is the single force that has the same effect as all the forces acting on an object together. Forces along the same line combine algebraically: 8 N right and 3 N left give 5 N right.
+
+**Can an object accelerate at constant speed?**
+Yes. Velocity includes direction, so an object that changes direction at constant speed, such as one moving in a circle, is accelerating.
+
+**What is the difference between speed and velocity?**
+Speed has size only, so it is a scalar. Velocity is speed in a stated direction, so it is a vector.
+
+**How do you find the resultant of two forces at an angle?**
+Draw a scale diagram with the two forces tip to tail, or as two sides of a parallelogram, then measure the length and angle of the resultant. State the scale and which force the angle is measured from.
+
 ## Official syllabus
 
 Source document: OxfordAQA International GCSE Physics (9203), version 5.2, exams May/June 2018 onwards. Scope here: section 3.1.3, a to h.

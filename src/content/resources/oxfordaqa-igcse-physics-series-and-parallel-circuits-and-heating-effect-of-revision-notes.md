@@ -202,6 +202,20 @@ Examiners often ask for an explanation rather than a number. Use these patterns.
 - Dividing useful energy by wasted energy instead of by total energy supplied.
 - Missing units, or writing a percentage efficiency as a decimal when a percentage is requested.
 
+## Frequently asked questions
+
+**How do you find the combined resistance of resistors in series?**
+Add the resistances: R_total = R1 + R2 + ... The same current flows through every component, and the supply pd is shared between them.
+
+**What happens to the current when a branch is added to a parallel circuit?**
+The supply current rises, because the new branch draws its own current. The other branches are unchanged, since each still has the full supply pd across it.
+
+**What happens to the other lamps if one lamp breaks?**
+In series, a broken lamp breaks the only loop, so all the lamps go out. In parallel, the other branches still have the full supply pd and keep working.
+
+**Should efficiency be given as a decimal or a percentage?**
+Give it in the form the question asks for. Writing a decimal when a percentage is requested, or leaving out units elsewhere, is a common way to lose marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.5.1 (electrical circuits), statements p to t.

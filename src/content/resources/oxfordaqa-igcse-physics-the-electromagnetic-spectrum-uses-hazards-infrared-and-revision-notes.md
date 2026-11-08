@@ -256,6 +256,20 @@ Two identical beakers of water start at 90 °C. After 8 minutes the one wrapped 
 - Saying that X-rays are "blocked" by flesh, or that they pass through bone.
 - Giving "wear protective clothing" without saying what it protects against.
 
+## Frequently asked questions
+
+**Which electromagnetic waves are used for mobile phones?**
+Microwaves are used for mobile phones and satellite television systems. Radio waves are used for television and radio systems, including Bluetooth.
+
+**Which surfaces are the best emitters and absorbers of infrared?**
+Dark, matt surfaces absorb and emit infrared well and reflect it poorly. Light, shiny surfaces absorb and emit infrared poorly and reflect it well.
+
+**What is visible light used for?**
+Visible light is used in photography and fibre optic communications. It is the part of the spectrum detected by our eyes, with red the longest wavelength we see and violet the shortest.
+
+**Is black-body radiation for the full Physics award only?**
+Black-body radiation, statements 3.3.2 e and f, is marked P in the OxfordAQA International GCSE Physics (9203) specification, so it is for the full Physics award only.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), for exams May/June 2018 onwards, published by OxfordAQA, section 3.3.2 The electromagnetic spectrum.

@@ -288,6 +288,17 @@ Rearrangements: f = v/λ, λ = v/f, t = s/v.
 - Giving an answer with no unit, or with far too many significant figures.
 - Writing "sound bounces off" when asked to explain partial reflection at a boundary: say some is reflected and some transmitted.
 
+## Frequently asked questions
+
+**What is the frequency of a wave?**
+Frequency is the number of complete waves that pass a given point in one second. It is measured in hertz (Hz).
+
+**How do you measure the wavelength of a wave?**
+Measure from one point on a wave to the matching point on the next wave, such as crest to crest or compression to compression. Wavelength is measured in metres.
+
+**When is diffraction noticeable?**
+Diffraction is appreciable only when the wavelength is comparable to the size of the gap or obstacle. A gap much wider than the wavelength gives little spreading.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.3.1 and 3.3.3.

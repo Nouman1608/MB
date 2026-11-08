@@ -264,6 +264,20 @@ Scientists believe the universe started in a big bang about 14 thousand million 
 
 The [exam preparation page](/resources/oxfordaqa-igcse-physics-exam-preparation/) covers general technique.
 
+## Frequently asked questions
+
+**What is the difference between a geostationary and a low polar orbit?**
+A geostationary satellite orbits above the equator about 36 000 km up, taking 24 hours, and is used for communications and satellite television. A low polar orbit is a few hundred kilometres up and passes over the poles.
+
+**What happens to the wavelength of a source moving away?**
+The observed wavelength increases and the frequency decreases. For a source moving towards you, the wavelength decreases and the frequency increases.
+
+**Why does a planet in a circular orbit have constant speed but changing velocity?**
+Gravity acts towards the centre, at right angles to the motion, so it changes the planet's direction but not its speed. A change of direction is a change of velocity.
+
+**Which sections of the OxfordAQA 9203 specification does this guide cover?**
+It covers sections 3.8.2 (solar system and orbital motion) and 3.8.3 (red shift and the expanding universe) of OxfordAQA International GCSE Physics (9203).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.8.2 and 3.8.3.

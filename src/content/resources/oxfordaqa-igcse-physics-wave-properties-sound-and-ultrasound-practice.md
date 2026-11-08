@@ -137,6 +137,20 @@ Links: [study guide](/resources/oxfordaqa-igcse-physics-wave-properties-sound-an
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on wave properties, sound and ultrasound for OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers.
+
+**How should you describe what happens to a wave at a boundary?**
+Say that some of the wave is reflected and some is transmitted, and some may be absorbed. Writing only that the sound "bounces off" does not explain partial reflection.
+
+**Which parts of the sound topic are for the full Physics award only?**
+Statements 3.3.3 d to h, on ultrasound, distance calculations and medical uses, are marked P in the OxfordAQA International GCSE Physics (9203) specification, so they are for the full Physics award only.
+
+**Which sections of the OxfordAQA 9203 specification do these questions cover?**
+They cover sections 3.3.1 (general properties of waves) and 3.3.3 (sound and ultrasound) of OxfordAQA International GCSE Physics (9203).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.3.1 and 3.3.3.

@@ -276,6 +276,20 @@ Because the resultant is constant, the acceleration is constant and the velocity
 
 Next, condense this with the [revision notes](/resources/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws-revision-notes/) and test it with the [practice questions](/resources/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws-practice/). For motion graphs earlier in the specification see the [forces practice set](/resources/oxfordaqa-igcse-physics-forces-practice/), and use the [diagnostics](/diagnostics/) to check your progress.
 
+## Frequently asked questions
+
+**What does a horizontal line on a velocity-time graph mean?**
+A horizontal line means the velocity is constant, so the acceleration is zero and the resultant force is zero.
+
+**Why does a heavier object need a bigger force for the same acceleration?**
+Newton's second law gives F = m × a, so for the same acceleration the resultant force is proportional to the mass. Doubling the mass needs double the resultant force.
+
+**Do balanced forces mean an object is stationary?**
+No. If the resultant force is zero, an object can be at rest or moving at a constant velocity. Both are described by Newton's first law.
+
+**Is OxfordAQA International GCSE Physics (9203) tiered?**
+No. The qualification is untiered, so the resultant forces content in section 3.1.3 applies to every candidate.
+
 ## Official syllabus
 
 Source document: OxfordAQA International GCSE Physics (9203), version 5.2, exams May/June 2018 onwards. Scope here: section 3.1.3, a to h.

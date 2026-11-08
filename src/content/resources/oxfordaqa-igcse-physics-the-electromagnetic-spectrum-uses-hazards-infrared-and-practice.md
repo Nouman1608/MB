@@ -150,6 +150,20 @@ Order: **gamma rays, X-rays, ultraviolet, visible light, infrared, microwaves, r
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your weakest topics.
 - [Book a free trial class](/trial/) for help with anything you got wrong.
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on the electromagnetic spectrum, its uses and hazards, infrared and X-rays for OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers.
+
+**Do all electromagnetic waves travel at the same speed?**
+Yes. All electromagnetic waves travel at the same speed in a vacuum and do not need a medium. Writing that different groups travel at different speeds in a vacuum is a common error.
+
+**How should you write about protective clothing in a hazards answer?**
+Say what the clothing protects against, for example gloves and clothing that protect the skin from burns by infrared. A bare "wear protective clothing" usually does not earn the mark.
+
+**Which section of the OxfordAQA 9203 specification do these questions cover?**
+They cover section 3.3.2, the electromagnetic spectrum, statements a to m, of OxfordAQA International GCSE Physics (9203). Black-body radiation, statements e and f, is for the full Physics award only.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), for exams May/June 2018 onwards, published by OxfordAQA, section 3.3.2 The electromagnetic spectrum.

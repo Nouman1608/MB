@@ -223,6 +223,20 @@ Rearrangements: v = c / n, sin r = sin i / n, sin c = 1 / n.
 - Forgetting that n has no unit.
 - Quoting a protractor-based angle to more precision than the readings allow in the required practical.
 
+## Frequently asked questions
+
+**What is the law of reflection?**
+When a wave is reflected, the angle of incidence equals the angle of reflection, with both angles measured from the normal.
+
+**Which way does light bend when it enters glass?**
+Light slows down when it enters an optically denser medium such as glass, so it bends towards the normal. Entering a less dense medium, it speeds up and bends away from the normal.
+
+**Does the frequency of light change when it refracts?**
+No. The frequency stays the same at a boundary; the speed and wavelength change. Saying the frequency changes is a common error.
+
+**What happens when the angle of incidence equals the critical angle?**
+The refracted ray travels along the boundary. At smaller angles the light refracts out with some partial reflection, and at larger angles total internal reflection happens.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.3.4 and 3.3.5.

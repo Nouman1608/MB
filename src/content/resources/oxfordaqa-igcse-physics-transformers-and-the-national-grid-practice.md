@@ -132,6 +132,20 @@ Links: [study guide](/resources/oxfordaqa-igcse-physics-transformers-and-the-nat
 - Take one of the [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on transformers and the National Grid for OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers.
+
+**How do you check a turns ratio answer?**
+If a step-up transformer gives an output smaller than the input, the ratio has been used the wrong way up. The primary is always the input coil and the secondary the output coil.
+
+**Can a transformer increase power?**
+No. Power out cannot exceed power in, so for an ideal transformer V_p × I_p = V_s × I_s. Raising the potential difference lowers the current.
+
+**Which section of the OxfordAQA 9203 specification do these questions cover?**
+They cover section 3.6.2 (electricity transmission and distribution), statements a to g, of OxfordAQA International GCSE Physics (9203). The qualification is untiered.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification for exams May/June 2018 onwards, published by OxfordAQA, section 3.6.2.
