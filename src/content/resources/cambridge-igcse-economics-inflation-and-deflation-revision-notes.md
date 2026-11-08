@@ -20,7 +20,7 @@ publishedDate: 2026-10-18
 featured: false
 ---
 
-These notes condense section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics syllabus for examination in 2026. The course is not tiered. For full explanations and worked examples, read the [study guide](/resources/cambridge-igcse-economics-inflation-and-deflation/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-inflation-and-deflation-practice/). The [course hub](/boards/cambridge/igcse/economics/), the [checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/) show where to go next. All figures are invented for illustration.
+These notes condense section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. The course is not tiered. For full explanations and worked examples, read the [study guide](/resources/cambridge-igcse-economics-inflation-and-deflation/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-inflation-and-deflation-practice/). The [course hub](/boards/cambridge/igcse/economics/), the [checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/) show where to go next. All figures are invented for illustration.
 
 ## 4.8.1 Definitions
 

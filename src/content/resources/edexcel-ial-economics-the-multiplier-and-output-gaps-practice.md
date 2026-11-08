@@ -167,9 +167,6 @@ Subtract potential output from actual output and divide by potential output, not
 **Where are the multiplier and output gaps in the Edexcel IAL Economics specification?**
 The multiplier is section 2.3.4 item 4 and output gaps are section 2.3.5 item 4 of the Edexcel IAL Economics specification (YEC11). Both are in Unit 2, an International AS unit that is also part of the full International A Level.
 
-**Where are marks usually lost on multiplier and output gap questions?**
-Common slips include using 1/MPS when other leakages are given, losing the sign when an injection falls, dividing by actual output in a gap calculation, and explaining the multiplier without saying what is re-spent in each round.
-
 **Why can the rise in real output be smaller than a multiplier calculation suggests?**
 If the economy has a positive output gap there is little spare capacity, so extra demand pushes up prices rather than real output. The calculated rise in income then overstates the rise in real output.
 

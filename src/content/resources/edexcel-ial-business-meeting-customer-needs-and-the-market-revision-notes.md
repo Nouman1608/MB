@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Meeting customer needs and The market (YBS11) -- Revision Notes"
+title: "Edexcel International A Level Business: Meeting customer needs and The market (YBS11) -- Revision Notes"
 seoTitle: "Edexcel IAL Business Customer Needs Revision Notes"
 resourceType: "revision-notes"
 subject: "business"

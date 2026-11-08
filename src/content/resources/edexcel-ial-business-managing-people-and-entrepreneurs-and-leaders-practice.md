@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Managing people and Entrepreneurs and leaders (YBS11) -- Practice Questions"
+title: "Edexcel International A Level Business: Managing people and Entrepreneurs and leaders (YBS11) -- Practice Questions"
 seoTitle: "Edexcel A Level Business Managing People Practice Qs"
 resourceType: "practice-questions"
 subject: "business"

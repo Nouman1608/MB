@@ -217,4 +217,4 @@ No calculations are listed for this content. Market share is still the clearest 
 
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), External influences: Market forces; Physical and non-physical markets; Competition; Market dominance.
+OCR, *OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), External influences: Market forces; Physical and non-physical markets; Competition; Market dominance.

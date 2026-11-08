@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Planning a business and raising finance (YBS11) -- Revision Notes"
+title: "Edexcel International A Level Business: Planning a business and raising finance (YBS11) -- Revision Notes"
 seoTitle: "Edexcel IAL Business Raising Finance Revision Notes"
 resourceType: "revision-notes"
 subject: "business"

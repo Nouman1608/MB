@@ -168,9 +168,6 @@ Label both axes, label the original and new curves, and mark both the original a
 **Which section of the Edexcel IGCSE Economics specification covers demand and supply?**
 Demand, supply and market equilibrium is section 1.1.3 of the Pearson Edexcel International GCSE Economics (4EC1) specification. The qualification is single tier.
 
-**Where are marks usually lost on demand and supply questions?**
-Common errors include writing "demand falls" when only the good's own price changed, shifting the wrong curve, mixing up substitutes and complements, dividing by the new figure in a percentage change and giving a new price without the new quantity.
-
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited, section 1.1.3.

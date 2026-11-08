@@ -58,6 +58,7 @@ This is the organising idea for the whole sub-topic — learn it first.
 | **Principle** | Posted to the wrong *type* of account (e.g. capital vs. revenue expenditure) |
 | **Original entry** | Wrong figure entered correctly on both sides |
 | **Complete reversal** | Debit and credit entries swapped |
+| **Compensating** | Two or more errors of equal value cancel each other out |
 
 **Errors that DO unbalance the trial balance:**
 
@@ -155,7 +156,7 @@ Correction:  journal entry removing it from purchases and adding it
              was understated) in the statement of revised profit
 ```
 
-Practising this kind of diagnosis -- working from a described scenario back to the correct error category -- is a more exam-realistic skill than simply memorising the five category names in isolation.
+Practising this kind of diagnosis -- working from a described scenario back to the correct error category -- is a more exam-realistic skill than simply memorising the six category names in isolation.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-a-level-accounting-control-accounts-revision-notes--04-principle-error-200.webp" width="900" height="1090" alt="A 200 dollar purchase of office equipment is debited to Purchases, an expense, instead of Equipment, a non-current asset. Both sides were still entered, so debits equal credits and the trial balance balances: an error of principle. The correcting journal debits Equipment 200 and credits Purchases 200. Purchases were overstated, so profit was understated and revised profit rises by 200." loading="lazy">
@@ -173,7 +174,7 @@ Practising this kind of diagnosis -- working from a described scenario back to t
 ## Quick self-test
 
 - State the formula for building a receivables control account from opening balance to closing balance.
-- List the five error types that do **not** unbalance the trial balance.
+- List the six error types that do **not** unbalance the trial balance.
 - Explain why an imbalance divisible by 9 suggests a transposition error.
 - Work the four-step suspense account sequence from memory for a one-sided entry.
 - State the profit-adjustment rule for an understated expense.

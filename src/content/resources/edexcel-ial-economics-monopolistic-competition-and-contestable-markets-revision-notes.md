@@ -193,7 +193,7 @@ Higher sunk costs mean a weaker threat, a higher sustainable price and more prof
 7. What is excess capacity?
 8. In the long run, how does AR relate to ATC?
 9. Give two characteristics of a contestable market.
-10. In the coach route reminder, what is the limit price if F = 80?
+10. In the 8b reminder example (P = 30 − Q, MC = 6, n = 2), what is the limit price if F = 80?
 
 ### Answers
 

@@ -58,7 +58,7 @@ Links: [practice questions](/resources/edexcel-ial-accounting-project-appraisal-
   outlay.
 - **Cost of capital**: the return required by those who provide the business's finance.
 - **WACC**: the average cost of all sources of long-term finance, each weighted by its share.
-- **Profitability index**: present value of future inflows per £1 of initial investment.
+- **Profitability index**: present value of future inflows per $1 of initial investment.
 - **Internal rate of return**: the discount rate that makes NPV zero.
 - **ARR**: average annual profit as a percentage of the investment.
 - **Payback period**: time taken for net cash inflows to recover the initial outlay.
@@ -142,15 +142,15 @@ not, calculate them from the formula.
 
 ## Worked reminder: equal annual flows
 
-Ketterick Laundry Ltd could buy a tunnel washer for £90,000 with net cash inflows of £25,000 a year
+Ketterick Laundry Ltd could buy a tunnel washer for $90,000 with net cash inflows of $25,000 a year
 for 5 years and no residual value. Its cost of capital is 12%.
 
 - **Payback**: 90,000 ÷ 25,000 = 3.6 years; 0.6 × 12 = 7.2 months, so **3 years 7 months**.
 - **NPV**: with equal flows you can add the factors first. 0.893 + 0.797 + 0.712 + 0.636 + 0.567 =
-  3.605; 25,000 × 3.605 = 90,125; NPV = 90,125 − 90,000 = **£125 positive**.
+  3.605; 25,000 × 3.605 = 90,125; NPV = 90,125 − 90,000 = **$125 positive**.
 - **PI**: 90,125 ÷ 90,000 = **1.00** (1.0014). Barely above 1.
 - **IRR**: NPV is only just positive at 12%, so the IRR is only just above 12%.
-- **ARR**: depreciation 90,000 ÷ 5 = £18,000 a year; profit 25,000 − 18,000 = £7,000 a year.
+- **ARR**: depreciation 90,000 ÷ 5 = $18,000 a year; profit 25,000 − 18,000 = $7,000 a year.
   On initial investment 7,000 ÷ 90,000 = **7.8%**; on average investment (90,000 + 0) ÷ 2 = 45,000,
   7,000 ÷ 45,000 = **15.6%**.
 
@@ -187,13 +187,13 @@ Finish with a clear decision and one reason that outweighs the others.
 ## Quick self-test
 
 1. Calculate the discount factor for year 2 at 8%, to 3 decimal places.
-2. An outlay of £72,000 brings equal net cash inflows of £16,000 a year. Calculate the payback period.
+2. An outlay of $72,000 brings equal net cash inflows of $16,000 a year. Calculate the payback period.
 3. Equity provides 60% of finance at a cost of 11% and loans 40% at 6%. Calculate WACC.
-4. PV of future inflows is £138,000 and the outlay is £120,000. Calculate the PI.
-5. An outlay of £50,000 brings £30,000 at the end of each of the next 2 years. Using factors 0.926
+4. PV of future inflows is $138,000 and the outlay is $120,000. Calculate the PI.
+5. An outlay of $50,000 brings $30,000 at the end of each of the next 2 years. Using factors 0.926
    and 0.857, calculate NPV.
-6. NPV is +£6,000 at 12% and −£2,000 at 20%. Estimate the IRR.
-7. Average annual profit is £9,000, cost £60,000, residual value £12,000. Calculate ARR on initial and
+6. NPV is +$6,000 at 12% and −$2,000 at 20%. Estimate the IRR.
+7. Average annual profit is $9,000, cost $60,000, residual value $12,000. Calculate ARR on initial and
    on average investment.
 8. A project's NPV at WACC is negative. Is its IRR above or below WACC?
 9. Which method charges depreciation?
@@ -205,7 +205,7 @@ Finish with a clear decision and one reason that outweighs the others.
 2. 72,000 ÷ 16,000 = **4.5 years** (4 years 6 months).
 3. 0.6 × 11% + 0.4 × 6% = 6.6% + 2.4% = **9.0%**.
 4. 138,000 ÷ 120,000 = **1.15**.
-5. 27,780 + 25,710 = 53,490; 53,490 − 50,000 = **+£3,490**.
+5. 27,780 + 25,710 = 53,490; 53,490 − 50,000 = **+$3,490**.
 6. 12 + [6,000 ÷ (6,000 + 2,000)] × 8 = 12 + 6 = **18%**.
 7. Initial: 9,000 ÷ 60,000 = **15%**. Average investment (60,000 + 12,000) ÷ 2 = 36,000;
    9,000 ÷ 36,000 = **25%**.

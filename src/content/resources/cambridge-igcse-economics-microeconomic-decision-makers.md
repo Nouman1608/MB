@@ -70,11 +70,6 @@ trying to hold the whole strand in mind at once. Exam questions frequently ask c
 agent's decision-making to a given scenario, so practising with real or hypothetical case studies is more
 valuable than memorising definitions alone.
 
-## Official syllabus
-
-Cambridge IGCSE Economics (0455) syllabus, for examination in 2026 --
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697154-2026-syllabus.pdf).
-
 ## Households, workers and wage determination
 
 <!-- marlbridge-diagram:economics-labour-market-wage-skill-shortage -->
@@ -85,8 +80,8 @@ Cambridge IGCSE Economics (0455) syllabus, for examination in 2026 --
 <!-- /marlbridge-diagram:economics-labour-market-wage-skill-shortage -->
 
 
-A household's spending, saving and borrowing decisions are shaped by factors including income level,
-interest rates, expectations about future prices, and the availability of credit. For workers, wage rates
+A household's spending, saving and borrowing decisions are shaped by the influences the 0455 syllabus
+names: income, the rate of interest and confidence, which differ between households and over time. For workers, wage rates
 are determined by the interaction of labour demand (how many workers firms want to employ at a given wage)
 and labour supply (how many people are willing to work at that wage) -- a shortage of workers with a
 particular skill tends to push wages up, while an oversupply tends to push them down. Trade unions can
@@ -217,3 +212,8 @@ No. For section 3.8 the syllabus says the theory of perfect and imperfect compet
 
 **What is the difference between production and productivity?**
 Production is the total output a firm creates, while productivity is output per unit of input, such as output per worker. A firm can raise production by hiring more workers without becoming more productive.
+
+## Official syllabus
+
+Cambridge IGCSE Economics (0455) syllabus, for examination in 2026 --
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697154-2026-syllabus.pdf).

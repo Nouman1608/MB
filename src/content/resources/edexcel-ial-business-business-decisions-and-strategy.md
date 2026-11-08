@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Business decisions and strategy (YBS11)"
+title: "Edexcel International A Level Business: Business decisions and strategy (YBS11)"
 seoTitle: "Edexcel IAL Business Decisions and Strategy Study Guide"
 resourceType: "study-guides"
 subject: "business"

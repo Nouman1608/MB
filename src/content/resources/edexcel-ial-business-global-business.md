@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Global business (YBS11)"
+title: "Edexcel International A Level Business: Global business (YBS11)"
 seoTitle: "Edexcel IAL Business Global Business Study Guide"
 resourceType: "study-guides"
 subject: "business"

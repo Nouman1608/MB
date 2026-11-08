@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Global business (YBS11) -- Practice Questions"
+title: "Edexcel International A Level Business: Global business (YBS11) -- Practice Questions"
 seoTitle: "Edexcel IAL Business Global Business Practice Questions"
 resourceType: "practice-questions"
 subject: "business"

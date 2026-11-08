@@ -36,9 +36,9 @@ unseen until the exam itself.
 **Exam-preparation priority**: treat the released statement as material to actively research and
 annotate over three months, not background reading to skim once. Build short notes on each named
 research topic in advance, and re-read the released extract closely enough to predict, in general
-terms, what kind of organisation and issue the full case study is likely to explore -- students who
-only skim the advance material consistently underperform relative to their overall preparation,
-since case-study-based questions carry a substantial share of Paper 1's marks.
+terms, what kind of organisation and issue the full case study is likely to explore. Skimming the
+advance material once wastes the main advantage Paper 1 offers, since every question on the paper is
+based on the case study.
 
 ## Paper 2 and HL Paper 3: fully unseen stimulus material
 

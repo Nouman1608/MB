@@ -145,4 +145,4 @@ Give both benefits and costs of growth rather than only one side, explain how ea
 
 ## Official syllabus
 
-OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), for first assessment in 2019, published by Cambridge OCR. These questions follow sections 3.1 and 3.2.
+OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), for first assessment in 2019, published by OCR. These questions follow sections 3.1 and 3.2.

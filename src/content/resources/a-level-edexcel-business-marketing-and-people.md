@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Business: Marketing and People (WBS11)"
+title: "Edexcel International A Level Business: Marketing and People (WBS11)"
 resourceType: "study-guides"
 subject: "business"
 level: ["a-levels"]

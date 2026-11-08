@@ -59,10 +59,12 @@ Financial statements must follow standard professional layout -- correct heading
 right place, workings shown -- and a clear layout makes your figures easy to follow and check. **Exam-preparation priority**: practise reproducing statement formats from memory until the
 layout itself needs no thought, freeing attention for the figures.
 
-## Two of the four papers examine content the others do not repeat
+## AS content is assessed on the AS papers only
 
-AS Paper 1's introduction to double-entry and AS Paper 2's financial management content are each
-examined once, in their own paper, rather than being re-tested at A-level. **Exam-preparation priority**:
+AS Papers 1 and 2 assess the AS content (sections 3.1.1 to 3.1.10; sections 3.1.1 to 3.1.3, including
+the double entry model, appear on both). A-level Papers 3 and 4 assess sections 3.2.1 to 3.2.10 only,
+although the specification notes that they build upon the knowledge and skills from the AS course.
+**Exam-preparation priority**:
 do not defer AS-specific content to "revise later at A-level" -- once the AS papers are sat, that
 specific content is not directly re-examined, even though the underlying skills feed forward.
 

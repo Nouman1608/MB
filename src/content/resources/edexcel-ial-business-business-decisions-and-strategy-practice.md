@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Business decisions and strategy (YBS11) -- Practice Questions"
+title: "Edexcel International A Level Business: Business decisions and strategy (YBS11) -- Practice Questions"
 seoTitle: "Edexcel IAL Business Decisions Strategy Practice Qs"
 resourceType: "practice-questions"
 subject: "business"

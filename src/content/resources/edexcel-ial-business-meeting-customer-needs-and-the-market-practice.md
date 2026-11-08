@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Meeting customer needs and The market (YBS11) -- Practice Questions"
+title: "Edexcel International A Level Business: Meeting customer needs and The market (YBS11) -- Practice Questions"
 seoTitle: "Edexcel IAL Business Customer Needs Practice"
 resourceType: "practice-questions"
 subject: "business"

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Planning a business and raising finance (YBS11) -- Practice Questions"
+title: "Edexcel International A Level Business: Planning a business and raising finance (YBS11) -- Practice Questions"
 seoTitle: "Edexcel IAL Business Raising Finance Practice Questions"
 resourceType: "practice-questions"
 subject: "business"

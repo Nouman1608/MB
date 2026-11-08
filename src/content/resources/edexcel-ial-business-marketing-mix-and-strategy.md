@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Marketing mix and strategy (YBS11)"
+title: "Edexcel International A Level Business: Marketing mix and strategy (YBS11)"
 seoTitle: "Edexcel IAL Business Marketing Mix and Strategy Guide"
 resourceType: "study-guides"
 subject: "business"

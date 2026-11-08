@@ -115,8 +115,8 @@ Answer **all** questions.
 
 **21.** A manufacturer is choosing between two options.
 
-- **Option A:** launch a new product, costing $60,000. There is a 55% chance of a return of $200,000 and a 45% chance of a return of $40,000.
-- **Option B:** upgrade an existing product line, costing $20,000, with a certain return of $85,000.
+- **Option A:** launch a new product, costing £60,000. There is a 55% chance of a return of £200,000 and a 45% chance of a return of £40,000.
+- **Option B:** upgrade an existing product line, costing £20,000, with a certain return of £85,000.
 
 **(a)** Calculate the net gain of Option A. **[3]**
 **(b)** Calculate the net gain of Option B, and the difference between the net gains of the two options. **[2]**
@@ -172,13 +172,13 @@ Answer **one** question from this section.
 **20. (a)** A democratic (or laissez-faire) style is most appropriate [1]. The scientists are experienced specialists, so consulting them, or giving them freedom to decide, draws on expertise the leader may not have [1]. With no urgent deadline, the extra time that consultation takes is not a serious drawback [1], and skilled staff who are involved in decisions are likely to be better motivated over a long project [1]. **[4]**
 **(b)** An autocratic leader decides alone, so the scientists' specialist knowledge would not be used [1], which could lower the quality of decisions on a technical project [1]; highly skilled staff who are not consulted may also become demotivated or leave, and the main advantage of autocratic leadership, speed, is not needed when there is no urgent deadline [1]. **[3]**
 
-**21. (a)** Expected value of Option A = (0.55 × $200,000) + (0.45 × $40,000) [1] = $110,000 + $18,000 = $128,000 [1]. Net gain = $128,000 − $60,000 = **$68,000** [1]. **[3]**
-**(b)** Net gain of Option B = $85,000 − $20,000 = **$65,000** [1]. Option A's net gain is higher by **$3,000** [1]. **[2]**
+**21. (a)** Expected value of Option A = (0.55 × £200,000) + (0.45 × £40,000) [1] = £110,000 + £18,000 = £128,000 [1]. Net gain = £128,000 − £60,000 = **£68,000** [1]. **[3]**
+**(b)** Net gain of Option B = £85,000 − £20,000 = **£65,000** [1]. Option A's net gain is higher by **£3,000** [1]. **[2]**
 **(c)** Any two limitations, 1 mark for each limitation and 1 for applying it to these options (2 × 2):
-- The probabilities and returns are estimates [1]; if the chance of the $200,000 return were lower than 55%, Option A's small $3,000 advantage would disappear [1].
-- Net gain is an average, not an outcome that will actually happen, and it ignores risk [1]: Option A will return either $200,000 or $40,000, and the lower return would leave a loss of $20,000 after its $60,000 cost, whereas Option B's $65,000 is certain [1].
+- The probabilities and returns are estimates [1]; if the chance of the £200,000 return were lower than 55%, Option A's small £3,000 advantage would disappear [1].
+- Net gain is an average, not an outcome that will actually happen, and it ignores risk [1]: Option A will return either £200,000 or £40,000, and the lower return would leave a loss of £20,000 after its £60,000 cost, whereas Option B's £65,000 is certain [1].
 - It ignores qualitative factors [1], e.g. the effect of a new product on the brand, or whether the business has the staff to launch it [1].
-- It ignores the timing of the returns and the business's ability to fund the $60,000 cost [1], e.g. a business short of cash may prefer the cheaper Option B [1]. **[4]**
+- It ignores the timing of the returns and the business's ability to fund the £60,000 cost [1], e.g. a business short of cash may prefer the cheaper Option B [1]. **[4]**
 
 **22.** A valid method [1], explained [1] and linked to high power and high interest [1] [1], e.g. **consultation**: the business meets the group, such as a trade union representing staff affected by a relocation, before the decision is final [1]. Because the group is strongly affected, it will want its concerns heard, and taking them into account can reduce opposition [1]; because it has high power, it could delay or block the decision, for example through industrial action [1], so managing it closely in this way makes the decision more likely to be implemented successfully [1]. **[4]**
 
@@ -216,7 +216,7 @@ The specification asks for decision trees to be understood and interpreted, with
 gain calculated, and names risks, rewards, uncertainty and opportunity cost as parts of decision making.
 Question 21(c) therefore asks what the net-gain figures leave out. An answer that calculates both net
 gains correctly but concludes "choose Option A because its net gain is higher" misses that Option A's
-$3,000 advantage rests on estimated probabilities and carries a 45% chance of a $20,000 loss.
+£3,000 advantage rests on estimated probabilities and carries a 45% chance of a £20,000 loss.
 
 ## Frequently asked questions
 

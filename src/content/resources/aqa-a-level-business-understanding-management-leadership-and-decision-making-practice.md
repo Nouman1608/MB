@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
     subtopic: "understanding-management-leadership-and-decision-making-aqa-alevel-business"
-description: "Original practice questions with worked answers on AQA A-Level Business (7132) 3.2.1: managers' role, Tannenbaum Schmidt, Blake Mouton, style."
+description: "Original practice questions with worked answers on AQA A-Level Business (7132) 3.2.1: Tannenbaum Schmidt, leadership styles and their effectiveness."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
 featured: false
@@ -29,6 +29,8 @@ featured: false
 These questions cover section 3.2.1, Understanding management, leadership and decision making, in the AQA AS and A-level Business specification (7131/7132), for A-level Business (7132). They mix short answer, calculation and short case-study questions. The teaching is in the [study guide](/resources/aqa-a-level-business-understanding-management-leadership-and-decision-making/) and the [revision notes](/resources/aqa-a-level-business-understanding-management-leadership-and-decision-making-revision-notes/). The wider-topic [practice paper](/resources/aqa-a-level-business-managers-leadership-practice/) is separate. Course links: the [AQA A-level Business hub](/boards/aqa/a-level/business/), the [checklist](/checklists/aqa/a-level/business/) and the [free diagnostics](/diagnostics/).
 
 ## Questions
+
+Questions 1, 2, 4, 6 and 10 use the role of managers or the Blake Mouton grid. The current specification (version 2.0, June 2023) no longer lists either, and names only the Tannenbaum Schmidt continuum, so treat those questions as background practice.
 
 **1.** State **two** of the five activities that make up the role of managers. **[2]**
 

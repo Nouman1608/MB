@@ -290,4 +290,4 @@ Compare the return on the investment with the interest rate on the loan. If the 
 
 ## Official syllabus
 
-OCR, Cambridge OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019: topics 2.7 and 2.8.
+OCR, OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019: topics 2.7 and 2.8.

@@ -96,7 +96,7 @@ Debits correctly entered [1] [1] [1]; credits correctly entered [1]; totals agre
 
 - Crediting discounts received on the wrong side of the control account.
 - Applying a suspense account to an error, such as omission or an error of principle, that would not actually unbalance the trial balance.
-- Forgetting that a reversed-but-correct-figure entry still unbalances the trial balance, since it is effectively a one-sided error of double the true amount.
+- Forgetting that posting both sides of an entry as debits (correct figure, correct accounts) unbalances the trial balance by double the amount. A complete reversal of entries, where the debit and credit are swapped, leaves the trial balance balanced.
 - Adjusting the statement of revised profit for a correction that only affects the statement of financial position, not an income or expense account.
 
 ## Approaching control account and error correction questions

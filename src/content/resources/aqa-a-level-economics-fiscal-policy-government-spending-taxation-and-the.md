@@ -58,22 +58,17 @@ Aggregate demand is C + I + G + (X − M). Fiscal policy acts on it in two ways.
 - **Government spending (G)** is a direct component. A rise shifts AD to the right.
 - **Taxation** works indirectly. Lower income tax raises disposable income and so consumption. Lower corporation tax can raise investment. Higher taxes do the reverse.
 
-A change in G or in tax causes a bigger change in income through the **multiplier**. The multiplier is 1 divided by the marginal propensity to withdraw (MPW), where MPW = marginal propensity to save + to pay tax + to import.
+A change in G or in tax causes a bigger change in income through the **multiplier**. The multiplier is 1 / (1 − MPC), where MPC is the marginal propensity to consume: the share of each extra unit of income that is spent on domestic output and so passed on. The rest leaks out as saving, tax and imports. AQA requires the multiplier to be calculated from the MPC only; calculations from the marginal propensities to withdraw are not expected.
 
-**Worked example (Country A, illustrative).** MPS = 0.10, MPT = 0.20, MPM = 0.20.
+**Worked example (Country A, illustrative).** MPC = 0.50.
 
-1. MPW = 0.10 + 0.20 + 0.20 = 0.50.
+1. 1 − MPC = 1 − 0.50 = 0.50.
 2. Multiplier = 1 / 0.50 = 2.
 3. Government spending rises by 6bn. Change in income = 6 × 2 = 12bn.
 
 Now compare a tax cut of 6bn. Households save or spend on imports 30% of it and spend 70% at home, so the first-round injection is 6 × 0.7 = 4.2bn. Income rises by 4.2 × 2 = 8.4bn. Spending gives a bigger boost than an equal tax cut because the whole sum enters the circular flow at once.
 
 **Chain of reasoning:** government spending rises → AD shifts right → firms with spare capacity raise output and hire → incomes rise → further spending (multiplier) → real GDP and employment rise. If the economy is near full capacity, the same shift mainly raises the price level.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the--06-spending-vs-tax-cut.webp" width="900" height="960" alt="With MPW 0.50 the multiplier is 2. Spending of 6bn raises income by 12bn; a tax cut of 6bn leaks 1.8bn so 4.2bn enters and income rises 8.4bn." loading="lazy">
-  <figcaption>Equal-sized spending and tax changes do not have equal effects.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">

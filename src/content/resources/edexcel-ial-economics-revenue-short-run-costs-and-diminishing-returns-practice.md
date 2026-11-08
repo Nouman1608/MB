@@ -151,9 +151,6 @@ Revenue, short-run costs and diminishing returns are section 3.3.2 items 1 and 2
 **How should you define the short run and the long run in an exam answer?**
 Define them by what can be varied, not by a length of time. In the short run at least one factor, such as the workshop, is fixed, while in the long run all factors can be varied; the calendar length differs between industries.
 
-**Where are marks usually lost on short-run cost questions?**
-Common errors include including fixed cost in marginal cost, writing that total output falls when only marginal product falls, explaining the U shape of MC without linking it to marginal product, and stating that ATC and AVC reach their minimum at the same output.
-
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), specification Issue 2, June 2018, section 3.3.2 items 1 and 2, published by Pearson Education Limited.

@@ -93,7 +93,7 @@ Every question type on this topic ultimately tests the ability to identify and e
 government objectives, so when a question asks you to "explain" an effect of a policy, always follow the
 causal chain through to a second objective it affects, as modelled in the Q3 answer above (policy →
 intended effect on one objective → side effect on a second objective), rather than stopping at the first,
-intended effect alone. For the four types of unemployment (Q4), always name the type first and then give
+intended effect alone. For the three types of unemployment in question 4, always name the type first and then give
 the specific reasoning that identifies it — a scenario mentioning "between jobs" signals frictional,
 while a scenario mentioning "permanently closes" or "long-term decline" signals structural, and confusing
 these two is one of the most common errors on this topic. When distinguishing cost-push from demand-pull

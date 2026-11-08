@@ -20,7 +20,7 @@ publishedDate: 2026-10-18
 featured: false
 ---
 
-This guide covers section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics syllabus for examination in 2026. The course is not tiered, so all candidates study this content. Paper 1 is 30 multiple-choice questions (45 minutes) and may include calculations. Paper 2 is structured questions (2 hours 15 minutes). The syllabus says calculators may be used in both papers. All countries, firms and figures below are invented for illustration.
+This guide covers section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. The course is not tiered, so all candidates study this content. Paper 1 is 30 multiple-choice questions (45 minutes) and may include calculations. Paper 2 is structured questions (2 hours 15 minutes). The syllabus says calculators may be used in both papers. All countries, firms and figures below are invented for illustration.
 
 Go to the [course hub](/boards/cambridge/igcse/economics/) or the [printable checklist](/checklists/cambridge/igcse/economics/). When you finish, use the [revision notes](/resources/cambridge-igcse-economics-inflation-and-deflation-revision-notes/) and the [practice questions](/resources/cambridge-igcse-economics-inflation-and-deflation-practice/). To find weak spots first, take a [free 10-minute diagnostic](/diagnostics/).
 

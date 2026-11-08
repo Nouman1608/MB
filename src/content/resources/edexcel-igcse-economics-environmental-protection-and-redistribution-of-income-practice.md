@@ -170,9 +170,6 @@ Work out the tax on each band separately, multiplying the income in each band by
 **What is relative poverty?**
 Relative poverty is having an income far lower than what is normal in your own country, often measured as a fraction of the median income. A definition that just says "being poor" leaves out the comparison with others.
 
-**Where are marks usually lost on pollution policy calculations?**
-Common slips include working out tax revenue or external cost from the pre-tax quantity instead of the new quantity, and using the wrong price in subsidy calculations. If incomes change, the median-based poverty line must also be recalculated.
-
 **How should you answer an evaluate question on reducing pollution?**
 Compare the methods in the context given, such as taxation, regulation, fines and permits, and reach a supported conclusion. A list of methods without a decision stays descriptive.
 

@@ -85,12 +85,6 @@ Market failure (3.1.6) rewards being able to explain, with a real or
 plausible example, why a specific market outcome is inefficient rather
 than just naming the type of failure.
 
-## Official syllabus
-
-AQA GCSE Economics (8136) specification, for first teaching from
-September 2017 —
-[aqa.org.uk](https://www.aqa.org.uk/subjects/economics/gcse/economics-8136/specification/subject-content).
-
 ## Demand and supply
 
 **Demand** is the quantity consumers are willing and able to buy at a given price. The curve slopes downward: as price falls, existing buyers buy more and new buyers enter the market.
@@ -207,3 +201,9 @@ Prices signal where resources are wanted, give producers an incentive to supply,
 
 **How do I get marks for a market failure answer in AQA GCSE Economics?**
 Explain, with a real or plausible example, why the specific market outcome is inefficient, rather than just naming the type of failure.
+
+## Official syllabus
+
+AQA GCSE Economics (8136) specification, for first teaching from
+September 2017 —
+[aqa.org.uk](https://www.aqa.org.uk/subjects/economics/gcse/economics-8136/specification/subject-content).

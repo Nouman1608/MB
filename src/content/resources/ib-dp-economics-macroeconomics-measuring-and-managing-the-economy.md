@@ -230,6 +230,21 @@ demand-side or supply-side shock is the more likely explanation.
 </figure>
 
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--03-ad-components.webp" width="900" height="920" alt="A stacked bar shows AD as C 60 plus I 20 plus G 22 plus net exports 8 (exports 18 less imports 10), totalling 110. A change in any component shifts AD." loading="lazy">
+  <figcaption>AD is the sum of consumption, investment, government spending and net exports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--08-macro-objectives.webp" width="900" height="970" alt="Tiles show economic growth, low and stable inflation, low unemployment and, at HL only, sustainable government debt. A double-headed arrow between growth and inflation shows they can conflict." loading="lazy">
+  <figcaption>Growth, low unemployment and low stable inflation are the SL objectives; sustainable debt is HL only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--09-weighted-price-index-hl.webp" width="900" height="990" alt="A weighted price index multiplies each item's price index by its weight and sums: 50 x 110 + 30 x 104 + 20 x 120 over 100 gives 55 + 31.2 + 24 = 110.2, so prices are 10.2% above the base year." loading="lazy">
+  <figcaption>An HL weighted price index is built from supplied weights and price indices.</figcaption>
+</figure>
+
 ## Frequently asked questions
 
 **What is the difference between GDP and GNI?**
@@ -253,19 +268,3 @@ International Baccalaureate Organization, Diploma Programme Economics
 guide, first assessment 2022, published February 2020 and updated May,
 August and October 2020, sub-topics 3.1-3.3 —
 [ibo.org](https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/economics-guide.pdf).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--03-ad-components.webp" width="900" height="920" alt="A stacked bar shows AD as C 60 plus I 20 plus G 22 plus net exports 8 (exports 18 less imports 10), totalling 110. A change in any component shifts AD." loading="lazy">
-  <figcaption>AD is the sum of consumption, investment, government spending and net exports.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--08-macro-objectives.webp" width="900" height="970" alt="Tiles show economic growth, low and stable inflation, low unemployment and, at HL only, sustainable government debt. A double-headed arrow between growth and inflation shows they can conflict." loading="lazy">
-  <figcaption>Growth, low unemployment and low stable inflation are the SL objectives; sustainable debt is HL only.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--09-weighted-price-index-hl.webp" width="900" height="990" alt="A weighted price index multiplies each item's price index by its weight and sums: 50 x 110 + 30 x 104 + 20 x 120 over 100 gives 55 + 31.2 + 24 = 110.2, so prices are 10.2% above the base year." loading="lazy">
-  <figcaption>An HL weighted price index is built from supplied weights and price indices.</figcaption>
-</figure>
-

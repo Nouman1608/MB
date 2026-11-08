@@ -1,5 +1,5 @@
 ---
-title: "A Level Business: Marketing and People — Revision Notes"
+title: "Edexcel International A Level Business: Marketing and People — Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["a-levels"]

@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics syllabus for examination in 2026. The course is not tiered. All countries, firms and figures are invented. Learn the content first from the [study guide](/resources/cambridge-igcse-economics-inflation-and-deflation/) and the [revision notes](/resources/cambridge-igcse-economics-inflation-and-deflation-revision-notes/). The [course hub](/boards/cambridge/igcse/economics/) and [checklist](/checklists/cambridge/igcse/economics/) are linked below too.
+These questions cover section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. The course is not tiered. All countries, firms and figures are invented. Learn the content first from the [study guide](/resources/cambridge-igcse-economics-inflation-and-deflation/) and the [revision notes](/resources/cambridge-igcse-economics-inflation-and-deflation-revision-notes/). The [course hub](/boards/cambridge/igcse/economics/) and [checklist](/checklists/cambridge/igcse/economics/) are linked below too.
 
 ## Questions
 

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Economics: Measuring Economic Growth — Practice Questions"
+title: "Edexcel International A Level Economics: Measuring Economic Growth — Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
@@ -34,7 +34,7 @@ featured: false
 
 Related: [Measuring Economic Growth study guide](/resources/a-level-edexcel-economics-economic-growth/) | [Measuring Economic Growth revision notes](/resources/edexcel-a-level-economics-economic-growth-revision-notes/)
 
-This paper follows the specification's four-section structure for a Unit 1/2-style paper: Section A is six multiple-choice questions (6 marks), Section B is five short-answer questions (20 marks), Section C is a five-part question built around a single scenario (34 marks), and Section D is one essay answered from a choice of two (20 marks). Command words and their mark tariffs follow the specification's command word table: define (2), calculate (2 or 4), draw (4), explain (4), analyse (6), examine (8), discuss (14), and evaluate / to what extent (20).
+For practice, the questions are grouped by the four question types the specification lists for Units 1 and 2, but this is not a copy of a real paper. Section A is six multiple-choice questions (6 marks), Section B is five short-answer questions (20 marks), Section C is a five-part question built around a single scenario (34 marks), and Section D is one essay answered from a choice of two (20 marks). Command words and their mark tariffs follow the specification's command word table: define (2), calculate (2 or 4), draw (4), explain (4), analyse (6), examine (8), discuss (14), and evaluate / to what extent (20).
 
 ---
 

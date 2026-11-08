@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Planning a business and raising finance (YBS11)"
+title: "Edexcel International A Level Business: Planning a business and raising finance (YBS11)"
 seoTitle: "Edexcel IAL Business Planning & Raising Finance Guide"
 resourceType: "study-guides"
 subject: "business"

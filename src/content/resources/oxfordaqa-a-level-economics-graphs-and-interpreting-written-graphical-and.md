@@ -152,7 +152,7 @@ Three cautions apply. The relationship is positive, but income may not be the on
 
 Suppose demand is Qd = 110 - 4P and supply is Qs = 6P - 30, with price (P) in units and quantity (Q) in thousands.
 
-- Equilibrium: 120 - 4P = 10P - 20, so 140 = 10P, P = 14 and Q = 54.
+- Equilibrium: 110 - 4P = 6P - 30, so 140 = 10P, P = 14 and Q = 54.
 - Demand cuts the price axis at 27.5 (set Q to zero) and the quantity axis at 110 (set P to zero). Supply cuts the price axis at 5.
 - Because price is on the vertical axis, rewrite demand as P = 27.5 - 0.25Q. The gradient is -0.25, the reciprocal of the coefficient on price in the quantity equation, with the same sign.
 - Consumer expenditure is the rectangle with width 54 and height 14, so 756.

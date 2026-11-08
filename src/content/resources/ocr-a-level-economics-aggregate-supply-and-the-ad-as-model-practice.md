@@ -147,9 +147,6 @@ The test is whether productive capacity changes. A temporary cost change, such a
 **How should you answer a calculation on the AD/AS model?**
 Identify which section of the AS curve each equilibrium is on before calculating, use the starting value as the base for percentage changes, and finish a long-run answer with the stated price level, not just a direction.
 
-**Where are marks usually lost on AD/AS questions?**
-Common errors include naming "supply" or "demand" without the specific curve, treating a price-level change as a shift, forgetting the long-run adjustment when output is above potential, using a Keynesian curve for a neo-classical question and writing a one-sided case on policy.
-
 **How do you evaluate the effect of a rise in aggregate demand?**
 Cover all three variables, growth, unemployment and inflation, and separate the short run from the long run. A conditional judgement, such as one that depends on how much spare capacity exists, shows evaluation.
 

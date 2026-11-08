@@ -231,4 +231,4 @@ No. Dominance is power over price and rivals; a big firm in a market that others
 
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), External influences: Market forces; Physical and non-physical markets; Competition; Market dominance.
+OCR, *OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), External influences: Market forces; Physical and non-physical markets; Competition; Market dominance.

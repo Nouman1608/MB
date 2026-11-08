@@ -99,8 +99,8 @@ business — always tie the final judgement back to a specific detail in the que
 business, its customers, its market position) rather than concluding with a general statement that could
 apply anywhere. For questions about interest rates, exchange rates, or other economic-climate factors,
 distinguish the *direct* effect on the business's own finances from the *indirect* effect that works
-through its customers' spending power or competitiveness, since examiners specifically credit this
-two-part reasoning over a single undifferentiated point. When explaining an effect of legislation, always
+through its customers' spending power or competitiveness, since this two-part reasoning gives a
+fuller chain of analysis than a single undifferentiated point. When explaining an effect of legislation, always
 state a mechanism — how the cost or benefit actually arises — rather than simply asserting that a law
 "affects" the business.
 

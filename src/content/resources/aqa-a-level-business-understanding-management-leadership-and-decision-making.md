@@ -14,13 +14,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
     subtopic: "understanding-management-leadership-and-decision-making-aqa-alevel-business"
-description: "A full study guide to AQA A-Level Business (7132) section 3.2.1: what managers do, Tannenbaum Schmidt, Blake Mouton and judging style effectiveness."
+description: "A full study guide to AQA A-Level Business (7132) section 3.2.1: management and leadership, styles, Tannenbaum Schmidt and judging style effectiveness."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
 featured: false
 ---
 
-This guide covers section 3.2.1, Understanding management, leadership and decision making, from the AQA AS and A-level Business specification (7131/7132) for AQA A-level Business (7132). It teaches the four content points the section lists: what managers do, types of management and leadership styles and the influences on them, the two named theories (the Tannenbaum Schmidt continuum and the Blake Mouton grid), and the effectiveness of different styles.
+This guide covers section 3.2.1, Understanding management, leadership and decision making, from the AQA AS and A-level Business specification (7131/7132) for AQA A-level Business (7132). It teaches the content the section lists: the distinction between management and leadership, types of management and leadership styles (autocratic, paternalistic, democratic and laissez-faire) and the influences on them, the named theory (the Tannenbaum Schmidt continuum), and the effectiveness of different styles. The current specification (version 2.0, June 2023) no longer lists the role of managers or the Blake Mouton grid, which the 2015 version did. Both are kept below as background only and are marked as such.
 
 Use it with the [revision notes](/resources/aqa-a-level-business-understanding-management-leadership-and-decision-making-revision-notes/) and the [practice questions](/resources/aqa-a-level-business-understanding-management-leadership-and-decision-making-practice/). Earlier pages on the wider topic are the [topic study guide](/resources/aqa-a-level-business-managers-leadership-decision-making/), the [topic revision notes](/resources/aqa-a-level-business-managers-leadership-revision-notes/) and the [topic practice paper](/resources/aqa-a-level-business-managers-leadership-practice/). The course home is the [AQA A-level Business hub](/boards/aqa/a-level/business/) and the printable list is the [Business checklist](/checklists/aqa/a-level/business/). To find weak spots first, take a [free diagnostic](/diagnostics/).
 
@@ -28,14 +28,14 @@ Use it with the [revision notes](/resources/aqa-a-level-business-understanding-m
 
 | Content point in 3.2.1 | What you need to be able to do |
 |---|---|
-| What managers do | Explain the role of managers: setting objectives, analysing, leading, making decisions, reviewing |
+| Management and leadership | Distinguish management from leadership (the five manager activities below are background, not a listed content point) |
 | Types of management and leadership styles and influences on these | Describe styles and explain what pushes a business towards one |
-| Theories of styles | Use the Tannenbaum Schmidt continuum and the Blake Mouton grid |
+| Theory of styles | Use the Tannenbaum Schmidt continuum (the Blake Mouton grid is background only) |
 | Effectiveness of different styles | Judge which style works best in a given situation |
 
-## What managers do
+## What managers do (background)
 
-The specification says the role of managers should include five activities. They form a loop, not a list. Reviewing feeds back into the next round of objectives.
+The current specification does not list the role of managers; the 2015 version did. The five activities below are a standard way of describing it and help when you distinguish management from leadership. They form a loop, not a list. Reviewing feeds back into the next round of objectives.
 
 | Activity | What it means | Example in a small firm |
 |---|---|---|
@@ -45,7 +45,7 @@ The specification says the role of managers should include five activities. They
 | Making decisions | Choosing between courses of action | Choosing to buy a second sewing frame rather than hire another binder |
 | Reviewing | Checking results against objectives and learning from the gap | In April, comparing 540 books bound against the target of 600 and asking why |
 
-Two points help in exam answers. First, the activities overlap. A manager who reviews results is also analysing. Second, "leading" is one of the five, so leadership is part of management as the specification frames it. When a question asks you to analyse a manager's role, link each activity to the case rather than listing the five words.
+Two points help in exam answers. First, the activities overlap. A manager who reviews results is also analysing. Second, "leading" is one of the five, so leadership is part of management in this model. When a question asks you to analyse a manager's role, link each activity to the case rather than listing the five words.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--01-manager-five-activity-loop.webp" width="900" height="1000" alt="Five boxes in a loop: setting objectives, analysing, leading, making decisions and reviewing, with Kestrel Bindery examples. An arrow returns from reviewing to setting objectives." loading="lazy">
@@ -57,7 +57,7 @@ Two points help in exam answers. First, the activities overlap. A manager who re
 
 A style is the typical way a manager or leader behaves towards the people they work with: how much they decide alone, how much they involve others, and how much they focus on the task compared with the people. The specification asks for types of style, and the two named theories describe them from different angles.
 
-Common labels, which are standard terms rather than a list the specification prints, are these.
+The specification names four styles.
 
 - **Autocratic**: the manager decides and expects instructions to be followed. Fast and clear, but little involvement.
 - **Paternalistic**: the manager decides but explains the decision and acts in what they believe is the employees' interest.
@@ -111,9 +111,9 @@ So this is position 5, a consultative style that keeps authority with the owner.
 </figure>
 
 
-## The Blake Mouton grid
+## The Blake Mouton grid (background, not in the current specification)
 
-The grid plots a manager on two scales, each running from 1 (low) to 9 (high): **concern for production** (the task, output and results) and **concern for people** (the needs, relationships and morale of staff). A position is written as (production, people).
+The current specification names only the Tannenbaum Schmidt continuum, so you will not be asked about this grid directly. It can still support an evaluation of style. The grid plots a manager on two scales, each running from 1 (low) to 9 (high): **concern for production** (the task, output and results) and **concern for people** (the needs, relationships and morale of staff). A position is written as (production, people).
 
 | Grid position | Name (standard form) | Behaviour |
 |---|---|---|
@@ -215,7 +215,7 @@ Ferrymoor Logistics is about to open an overnight sorting shift in a rush, staff
 - Treating the continuum as four boxes. It is a line of seven positions.
 - Reading the grid as one score. You need both numbers, written in the order (production, people).
 - Assuming (9,9) always works, or that a (9,1) manager must fail.
-- Listing the five activities of a manager without linking them to the business.
+- Not separating management (planning, organising, controlling) from leadership (setting direction and inspiring people) when a question asks for the distinction.
 - Saying a style "motivates" staff with no evidence such as turnover or output.
 - Confusing management and leadership styles with decision making methods, which belong to 3.2.2.
 

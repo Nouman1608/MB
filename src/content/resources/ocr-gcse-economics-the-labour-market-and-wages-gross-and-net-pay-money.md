@@ -327,4 +327,4 @@ An interest rate is a percentage price: what a saver is paid and what a borrower
 
 ## Official syllabus
 
-OCR, Cambridge OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019: topics 2.7 and 2.8.
+OCR, OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019: topics 2.7 and 2.8.

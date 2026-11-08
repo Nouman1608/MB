@@ -242,7 +242,7 @@ Unemployment reduces local spending, leads to shop closures and falling property
 
 ## Official syllabus
 
-OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), for first assessment in 2019, published by Cambridge OCR. These notes follow sections 3.1 and 3.2.
+OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), for first assessment in 2019, published by OCR. These notes follow sections 3.1 and 3.2.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">

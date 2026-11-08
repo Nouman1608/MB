@@ -236,4 +236,4 @@ At low power, draw a tissue plan only, showing the lobule outline, central vein 
 
 ## Official syllabus
 
-OCR, *A Level in Biology A (H420)*, Version 4.1 (April 2026), first assessment 2025, Cambridge OCR. Sections 5.1.1 and 5.1.2.
+OCR, *A Level in Biology A (H420)*, Version 4.1 (April 2026), first assessment 2025, OCR. Sections 5.1.1 and 5.1.2.

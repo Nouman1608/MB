@@ -161,9 +161,6 @@ Recommend whether Yarnscombe Preserves should switch to flow production. Justify
 **Are these Cambridge IGCSE Business 0264 past paper questions?**
 No. They are twelve original questions written for Marlbridge on section 4.1 (Production of goods and services), not reproduced past-paper questions. Use them alongside the official past papers from your board or school.
 
-**Why do marks get lost in labour productivity calculations?**
-Common slips are giving the answer without a unit or time period, using total output instead of output per worker, and rounding a percentage change too early. Work out productivity for each period before comparing them.
-
 **How do you get application marks on a lean production question?**
 Use details from the case, such as the named business, its products or its weekly meeting, and show how the method works there. A general statement such as "Kaizen reduces waste" with no explanation of how does not use the case.
 

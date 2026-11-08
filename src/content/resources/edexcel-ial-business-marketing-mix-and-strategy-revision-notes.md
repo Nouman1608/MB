@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Marketing mix and strategy (YBS11) -- Revision Notes"
+title: "Edexcel International A Level Business: Marketing mix and strategy (YBS11) -- Revision Notes"
 seoTitle: "Edexcel IAL Business Marketing Mix Revision Notes"
 resourceType: "revision-notes"
 subject: "business"

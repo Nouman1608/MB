@@ -146,4 +146,4 @@ A direct tax is paid directly to the government by the person or business it is 
 
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), Area of Study: External influences.
+OCR, *OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), Area of Study: External influences.

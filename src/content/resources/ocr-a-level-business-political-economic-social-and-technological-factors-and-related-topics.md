@@ -282,4 +282,4 @@ Sustainability means using resources so that today's needs are met while future 
 
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), Area of Study: External influences.
+OCR, *OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), Area of Study: External influences.

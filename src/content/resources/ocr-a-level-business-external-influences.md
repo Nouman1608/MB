@@ -185,7 +185,7 @@ Apply a named factor to the named business and trace its effect on costs, revenu
 
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*,
+OCR, *OCR Level 3 Advanced GCE in Business (H431) Specification*,
 Version 2.1 (January 2026), External influences,
 https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf,
 fetched and verified in full 2026-09-06.

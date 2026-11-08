@@ -30,7 +30,7 @@ reviewNote: "2026-11-08: FAQ section added; please re-review."
 
 Related: [Business economics study guide](/resources/igcse-edexcel-economics-production-and-business-costs/)
 
-This specification's papers are not divided into lettered sections. Instead, each paper consists of **four compulsory questions, each worth twenty marks**, with sub-questions mixing short-answer, calculation and open-ended items. This paper follows that structure.
+This specification's papers are not divided into lettered sections. Instead, each paper consists of **four compulsory questions, each worth twenty marks**, with sub-questions mixing short-answer, calculation and open-ended items. The four questions below use twenty-mark blocks for practice only; they are original and do not copy a real paper.
 
 ---
 
@@ -46,7 +46,7 @@ This specification's papers are not divided into lettered sections. Instead, eac
 
 **(e)** Explain the difference between production and productivity. **[3]**
 
-**(f)** State one factor, other than training or education, that could improve labour productivity. **[3]**
+**(f)** Explain how a performance-related pay scheme could improve labour productivity. **[3]**
 
 ## Question 2 — Division of labour and business organisation
 
@@ -108,8 +108,8 @@ location or industry [1] [1].
 **per unit of input** (e.g. per worker), so production can rise without productivity rising if more
 workers are simply added [1].
 
-**(f)** Any one: **improved working conditions** [3]; **investment in better machinery (capital) for
-workers to use** [3]; **incentive schemes such as performance-related pay** [3].
+**(f)** Pay is linked to each worker's output or to targets met [1], which gives workers an incentive to
+work harder or find quicker ways of working [1], so output per worker in a given time rises [1].
 
 **2. (a) Advantages**: workers become highly skilled and efficient at their specific task, increasing
 output [1] [1]; less time is lost switching between tasks, since each worker focuses on one job [1] [1].

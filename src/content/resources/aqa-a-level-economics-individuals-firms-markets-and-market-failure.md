@@ -95,12 +95,6 @@ skill is what distinguishes top-band answers.
 </figure>
 
 
-## Official syllabus
-
-AQA A-level Economics (7136) specification, for first teaching from
-September 2015 —
-[aqa.org.uk](https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/subject-content).
-
 ## Consumer behaviour and rationality
 
 Traditional theory assumes consumers are rational utility maximisers with perfect information, acting in self-interest. The **law of diminishing marginal utility** — each extra unit yields less additional satisfaction — explains why the demand curve slopes downward.
@@ -199,3 +193,9 @@ Oligopoly is defined by interdependence: with few firms, each must anticipate ho
 
 **What does behavioural economics add to consumer theory?**
 It challenges the assumption that consumers are rational utility maximisers with perfect information, showing that they use rules of thumb and are influenced by how choices are presented.
+
+## Official syllabus
+
+AQA A-level Economics (7136) specification, for first teaching from
+September 2015 —
+[aqa.org.uk](https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/subject-content).
