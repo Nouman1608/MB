@@ -195,6 +195,20 @@ Check the steps in this order: convert the period to seconds, cube the radius, s
 - Drawing field lines that cross, or without arrows, or equally spaced for a point mass.
 - Unit slips: N kg⁻¹ for field strength, N for force.
 
+## Frequently asked questions
+
+**What is gravitational field strength?**
+Gravitational field strength is the force per unit mass on a small test mass, g = F/m, measured in N kg⁻¹. It is a vector directed towards the mass that creates the field.
+
+**What does the minus sign in Newton's law of gravitation mean?**
+In F = −GMm/r² the minus sign is a sign convention: with r measured outwards from M, the force on m points inwards. In calculations, find the magnitude and state that the force is towards M.
+
+**Why is g treated as uniform near the Earth's surface?**
+Near the surface g changes very little with height; over 100 m it falls by only about three parts in a hundred thousand. The field lines are effectively parallel and equally spaced.
+
+**Which sections of OCR A Level Physics A cover gravitational fields and planetary motion?**
+They are sections 5.4.1, 5.4.2 and 5.4.3 of OCR H556. Gravitational potential and energy is section 5.4.4.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Sections 5.4.1 Point and spherical masses, 5.4.2 Newton's law of gravitation and 5.4.3 Planetary motion.

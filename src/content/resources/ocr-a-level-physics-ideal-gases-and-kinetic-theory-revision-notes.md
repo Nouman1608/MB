@@ -218,6 +218,20 @@ pV = ⅓ N m <c²>   and   pV = N k T
 - Describing a gas-law experiment without waiting for thermal equilibrium or without a table of readings.
 - Extrapolating a p against θ graph from a short range and not commenting on the uncertainty.
 
+## Frequently asked questions
+
+**What are the assumptions of the kinetic theory of gases?**
+An ideal gas has a large number of molecules in random, rapid motion, occupying negligible volume compared with the gas. Collisions are perfectly elastic and brief, and there are negligible forces between molecules except during collisions.
+
+**What is the Boltzmann constant?**
+The Boltzmann constant is k = R/NA, the molar gas constant divided by the Avogadro constant. It lets the ideal gas equation be written for N molecules as pV = NkT.
+
+**What is the mean kinetic energy of a gas molecule?**
+The mean translational kinetic energy of a molecule is ½m<c²> = 3/2 kT. It depends only on the thermodynamic temperature, not on the type of gas.
+
+**Which section of OCR A Level Physics A covers ideal gases?**
+Ideal gases are section 5.1.4, statements (a) to (i), of OCR H556. Temperature scales, specific heat capacity and latent heat are taught separately.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), specification Version 3.0 (March 2026), first assessment 2017, published by OCR: section 5.1.4, statements (a) to (i).

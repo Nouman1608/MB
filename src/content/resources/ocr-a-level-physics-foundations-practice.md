@@ -12,10 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "foundations-of-physics-ocr-alevel"
-description: "Original exam-style practice questions with full worked answers on SI units, uncertainty combination, and resolving and combining vectors, for OCR A Level Physics A (H556)."
+description: "Original practice questions with worked answers on SI base units, combining uncertainties, scalars and resolving vectors for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
@@ -93,3 +95,17 @@ Question 6 tests a rule that is easy to forget under exam pressure: when a measu
 ## Approaching foundations of physics questions
 
 For any uncertainty question, first identify how the quantities are being combined — addition or subtraction calls for adding absolute uncertainties, while multiplication or division calls for adding percentage uncertainties — before choosing which rule to apply, since applying the wrong one of these two rules is the single most common error across this entire topic. When a measured quantity appears raised to a power in the equation being used, always check for and apply the power rule explicitly, writing out the multiplication rather than assuming it will not matter. For vector questions, sketch a labelled diagram before calculating anything, since this both reduces the chance of a sin/cos mix-up and earns method marks even if a final numerical answer contains an error; and before using Pythagoras' theorem to find a resultant, confirm the two vectors involved are genuinely perpendicular, since a vector triangle or component-resolution method is required instead whenever they are not.
+
+## Frequently asked questions
+
+**How do you combine uncertainties when adding or multiplying measurements?**
+When quantities are added or subtracted, add their absolute uncertainties. When they are multiplied or divided, add their percentage uncertainties.
+
+**What happens to percentage uncertainty when a quantity is squared?**
+When a measured quantity is raised to a power, its percentage uncertainty is multiplied by that power. So a squared quantity contributes twice its percentage uncertainty.
+
+**When can you use Pythagoras to find a resultant force?**
+Only when the two vectors are perpendicular. For vectors at any other angle, use a vector triangle (by calculation or scale drawing) or resolve both into perpendicular components first.
+
+**What are the most common mistakes in foundations of physics questions?**
+Students often swap the rules for combining absolute and percentage uncertainties, forget the power rule, swap sine and cosine when resolving, and write SI base units incorrectly. Sketching a labelled vector diagram first helps avoid errors and can earn method marks.

@@ -185,6 +185,20 @@ Maximum distance reached: a probe leaves the surface of the Earth at 8.0 × 10³
 </figure>
 
 
+## Frequently asked questions
+
+**Why is gravitational potential always negative?**
+Potential is defined as zero at infinity, and gravity always attracts, so the field does positive work as a mass is brought in. The work done by an external agent is negative, so the potential is negative everywhere and more negative closer to the mass.
+
+**What is the difference between gravitational potential and gravitational potential energy?**
+Gravitational potential, Vg = −GM/r, is per kilogram and belongs to a point in the field. Gravitational potential energy, E = mVg = −GMm/r, is for a particular mass m at that point.
+
+**What is the unit of gravitational potential?**
+Gravitational potential is a scalar measured in J kg⁻¹.
+
+**Which part of the OCR H556 specification covers gravitational potential and escape velocity?**
+It is section 5.4.4 (Gravitational potential and energy), statements (a) to (e), of OCR A Level Physics A (H556).
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Section 5.4.4, Gravitational potential and energy.

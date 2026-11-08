@@ -246,6 +246,23 @@ Use paper cake cases or paper cones. Drop each from a fixed height of at least 2
 
 Next: use the [revision notes](/resources/ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity-revision-notes/) to compress this, then the [practice questions](/resources/ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity-practice/).
 
+## Frequently asked questions
+
+**What is the definition of a newton?**
+One newton is the net force that gives a mass of 1 kg an acceleration of 1 m s⁻², so 1 N = 1 kg m s⁻².
+
+**What factors affect drag on an object moving through air?**
+Drag increases with greater speed, a larger cross-sectional area, a less streamlined shape and denser air. The OCR H556 specification asks for these factors, not a drag equation.
+
+**What is terminal velocity?**
+Terminal velocity is the constant velocity reached by an object falling through a fluid when the resultant force on it is zero. In air, weight equals drag; in a liquid, weight equals drag plus upthrust.
+
+**Does an object at terminal velocity have no forces acting on it?**
+No. Forces still act on it, but they are balanced, so the net force and the acceleration are zero while the object keeps moving at constant velocity.
+
+**How do you resolve weight on a slope?**
+For a slope at angle θ to the horizontal, the component of weight down the slope is mg sin θ and the component perpendicular to the slope is mg cos θ. The normal contact force acts perpendicular to the slope, not vertically.
+
 ## Official syllabus
 
 OCR A Level Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Sections 3.2.1 and 3.2.2.

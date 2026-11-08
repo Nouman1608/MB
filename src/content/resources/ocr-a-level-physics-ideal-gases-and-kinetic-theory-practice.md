@@ -153,6 +153,20 @@ These questions cover section 5.1.4 (Ideal gases) of the OCR Advanced GCE in Phy
 - Treating 3/2 kT as the energy of the whole sample.
 - Omitting how temperature is kept constant in a Boyle's law experiment.
 
+## Frequently asked questions
+
+**What are the most common mistakes in ideal gas calculations?**
+The most common errors are using °C instead of kelvin, not converting cm³ or kPa to SI units, and averaging speeds before squaring when finding r.m.s. speed. Treating 3/2 kT as the energy of the whole sample instead of one molecule also loses marks.
+
+**How do you explain gas pressure for full marks?**
+Give the full chain: molecules rebound from the wall and their momentum changes, so the wall exerts a force on them and they exert an equal and opposite force on the wall. Pressure is the total force divided by the area. Leaving out the momentum, force and area chain loses marks.
+
+**How should you draw a Maxwell-Boltzmann distribution?**
+Start the curve at the origin, rise to a peak and fall with a long tail towards high speeds. The curve is not symmetrical and does not reach the speed axis at high speed.
+
+**What must you say about temperature in a Boyle's law method?**
+State how temperature is kept constant, for example by changing the volume slowly and waiting after each change so the gas returns to room temperature. Omitting this is a common reason for lost marks.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-ideal-gases-and-kinetic-theory-revision-notes/).

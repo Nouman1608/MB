@@ -162,6 +162,20 @@ These questions cover OCR A Level Physics A (H556), sections 3.2.1 Dynamics and 
 - Describing a graph as "curved" without the start and end gradients.
 - Not saying why terminal velocity has been reached.
 
+## Frequently asked questions
+
+**What are the most common mistakes in dynamics questions?**
+Common errors include confusing mass with weight or quoting weight in kg, drawing the normal contact force vertical on a slope, forgetting upthrust in a liquid, and using g as the acceleration while drag acts. Missing the direction of a vector answer also loses marks.
+
+**How do you describe a velocity-time graph for an object falling with drag?**
+Do not just call the graph "curved". State that the gradient starts at g, decreases as drag rises, and becomes zero when terminal velocity is reached.
+
+**How do you show that an object has reached terminal velocity from data?**
+Calculate the speed over successive equal intervals and show that it has stopped changing. In an answer, say why: the resultant force is zero because drag (plus any upthrust) balances the weight.
+
+**How many significant figures should a dynamics answer have?**
+Give the final answer to a number of significant figures consistent with the data, usually 2 or 3. Too many or too few significant figures can cost a mark.
+
 ## Next steps
 
 - [Revision notes](/resources/ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity-revision-notes/)

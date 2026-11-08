@@ -158,6 +158,20 @@ A spreadsheet models the discharge with C = 400 µF, R = 15 kΩ, an initial p.d.
 - Not stating the direction of error in a spreadsheet model.
 - Treating one time constant as complete discharge.
 
+## Frequently asked questions
+
+**What are the most common mistakes in RC circuit calculations?**
+The most common slips are leaving C in µF or R in kΩ inside CR, using the charging equation for the current, and treating one time constant as complete discharge. Reading CR straight from the gradient of a ln graph, instead of taking −1/gradient, also loses marks.
+
+**How do you answer a "show that the unit of CR is the second" question?**
+Start from the definitions C = Q/V and R = V/I, multiply them to get Q/I, and then state that charge divided by current is time. Simply stating that CR is a time does not earn the marks.
+
+**How do you find the time constant from a graph of lg I against time?**
+A base-10 log graph has gradient −0.434/CR, because lg e = 0.434, so CR = 0.434 ÷ (magnitude of the gradient). Always check which log has been plotted before inverting the gradient.
+
+**How should you comment on the accuracy of a spreadsheet model of discharge?**
+Compare the model with the exact value as a difference or a percentage, state whether the model is too high or too low, and say that a smaller time step brings the model closer to the true curve. "More accurate" on its own is too vague.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc/).

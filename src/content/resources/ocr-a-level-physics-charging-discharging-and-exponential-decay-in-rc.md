@@ -240,6 +240,23 @@ From e^(−14/CR) = 2/3: CR = 14 / ln 1.5 = **34.5 s**.
 - Calling τ the time to discharge fully: 37% is left after one time constant.
 - Quoting the ln V against t gradient as CR instead of −1/gradient.
 
+## Frequently asked questions
+
+**What percentage of the charge is left after one time constant?**
+After one time constant CR, a discharging capacitor still holds about 37% (1/e) of its initial charge. A charging capacitor has reached about 63% of its final charge, so one time constant is not the time to charge or discharge fully.
+
+**Why does the current fall when a capacitor is charging?**
+As charge builds up, the capacitor p.d. rises and opposes the supply. Since the supply p.d. equals V_R + V_C, the p.d. across the resistor falls, so the current falls exponentially from V₀/R.
+
+**How do you calculate the time for a capacitor p.d. to fall to a given value?**
+Rearrange V = V₀e^(−t/CR) by taking natural logs, giving t = CR ln(V₀/V). Convert C and R to farads and ohms before calculating CR.
+
+**Why must the voltmeter in a capacitor discharge experiment have a very high resistance?**
+A voltmeter across the capacitor provides a second discharge path. If its resistance is not much larger than R, the capacitor discharges faster and the measured time constant is too small.
+
+**Is the RC investigation a required practical for OCR A Level Physics A?**
+Investigating charge and discharge with meters and with data-loggers is statement 6.1.3(a)(ii) of OCR H556 and belongs to practical activity group 9, which finds the time constant from the gradient of a ln V or ln I against time graph.
+
 ## Next steps
 
 Try the [practice questions](/resources/ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc-practice/), then condense with the [revision notes](/resources/ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc-revision-notes/). Recheck the [checklist](/checklists/ocr/a-level/physics/).

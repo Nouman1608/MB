@@ -142,6 +142,20 @@ These questions cover sections 6.5.2 and 6.5.3 of the OCR Advanced GCE in Physic
 - Forgetting cos θ, or using the angle to the surface instead of to the flow.
 - Giving a one-sided answer to a discussion question.
 
+## Frequently asked questions
+
+**What are the most common mistakes in medical imaging questions?**
+Common errors include saying the gamma camera detects positrons, using d = ct instead of d = ct/2 for echoes, forgetting to square the bracket in the reflection equation, and mixing MHz, kHz and Hz in the Doppler equation.
+
+**What must a PET explanation include for full marks?**
+State that a positron annihilates with an electron to give two gamma photons travelling in opposite directions, and that detectors on opposite sides record them at the same time. Leaving out "opposite directions" or "at the same time" loses marks.
+
+**How should you answer a discussion question about buying an expensive scanner?**
+Give a balanced answer that weighs costs, such as buying and running the scanner, tracer supply and trained staff, against benefits such as the number of patients helped and shorter travel or waiting times. A one-sided answer does not score well.
+
+**Which angle do you use in the ultrasound Doppler equation?**
+Use the angle between the ultrasound beam and the direction of blood flow in Δf/f = 2v cos θ/c, not the angle to the surface. Forgetting cos θ is a common error.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-gamma-camera-pet-scanning-and-ultrasound-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-gamma-camera-pet-scanning-and-ultrasound/).

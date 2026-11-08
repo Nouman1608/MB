@@ -216,6 +216,23 @@ Keep voltages low and switch off before changing coils.
 - Saying Lenz's law stops the change. It opposes the change.
 - Inverting the current ratio. Ip/Is = Ns/Np, not Np/Ns.
 
+## Frequently asked questions
+
+**What is Faraday's law?**
+Faraday's law states that the size of the induced e.m.f. is directly proportional to the rate of change of magnetic flux linkage. Combined with Lenz's law it gives E = −Δ(NΦ)/Δt.
+
+**Why is Lenz's law an example of conservation of energy?**
+The induced current opposes the change that causes it, so work must be done, for example pushing a magnet against repulsion, and that work becomes electrical energy. If the induced current helped the change, energy would be created from nothing.
+
+**Why is a transformer core laminated?**
+The changing flux induces eddy currents in the iron core. Thin insulated laminations restrict these currents, so less energy is wasted as heat.
+
+**Why does a transformer not work with direct current?**
+A direct supply produces a constant flux in the core. With no change in flux linkage, no e.m.f. is induced in the secondary coil.
+
+**How does a search coil measure magnetic flux density?**
+A search coil is a small coil of many turns connected to an oscilloscope or voltmeter. In an alternating field its peak e.m.f. is E₀ = NAωB₀, so the peak flux density is B₀ = E₀/(NAω).
+
 ## Official syllabus
 
 This guide follows the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR, section 6.3.3 (Electromagnetism), statements (a) to (f).

@@ -253,6 +253,23 @@ The internal energy of a fixed amount of ideal gas depends only on its thermodyn
 - Stating that molecules have no volume, instead of negligible volume compared with the gas.
 - Saying pressure is caused by molecules "hitting each other" instead of hitting the walls.
 
+## Frequently asked questions
+
+**What is the ideal gas equation?**
+The ideal gas equation is pV = nRT, with p in pascals, V in m³, n in moles and T in kelvin. For a fixed amount of gas, p₁V₁/T₁ = p₂V₂/T₂.
+
+**What is root mean square speed?**
+The r.m.s. speed is the square root of the mean of the squares of the molecular speeds, c_rms = √<c²>. It is slightly larger than the mean speed, because squaring weights fast molecules more.
+
+**How do you estimate absolute zero from a gas experiment?**
+Measure the pressure of a fixed mass of gas at constant volume at several temperatures, plot p against θ in °C, and extend the best-fit line back to p = 0. The temperature there estimates absolute zero, about −273 °C.
+
+**What is the internal energy of an ideal gas?**
+An ideal gas has negligible intermolecular forces, so it has no potential energy and its internal energy is the total kinetic energy of its molecules. It depends only on the thermodynamic temperature.
+
+**Why do lighter gas molecules move faster at the same temperature?**
+Every molecule has the same mean kinetic energy 3/2 kT at a given temperature, so c_rms is proportional to √(T/m). Hydrogen molecules have an r.m.s. speed four times that of oxygen molecules at the same temperature.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), specification Version 3.0 (March 2026), first assessment 2017, published by OCR: section 5.1.4, statements (a) to (i).

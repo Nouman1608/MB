@@ -241,6 +241,23 @@ Newtonian theory predicts where the orbit must be. Only one radius gives a 24-ho
 - Leaving the period in days or hours. Convert to seconds.
 - Saying "gravity is zero in orbit". The field is what holds the satellite in orbit.
 
+## Frequently asked questions
+
+**What are Kepler's three laws?**
+Planets move in ellipses with the Sun at one focus; the line from the Sun to a planet sweeps out equal areas in equal times; and the square of the orbital period is proportional to the cube of the orbital radius, T² ∝ r³.
+
+**Does the orbital period depend on the mass of the satellite?**
+No. In the derivation of T² = (4π²/GM)r³ the orbiting mass cancels, so the period depends only on the central mass M and the orbital radius.
+
+**What are the conditions for a geostationary orbit?**
+A geostationary satellite must orbit directly above the equator, move west to east like the Earth, have a period of 24 hours and follow a circular orbit at one particular height.
+
+**Is gravity zero for a satellite in orbit?**
+No. The gravitational field is what holds the satellite in orbit, because gravity provides the centripetal force.
+
+**Why do gravitational field lines never cross?**
+The field at any point has only one direction, so two field lines cannot pass through the same point.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Sections 5.4.1 Point and spherical masses, 5.4.2 Newton's law of gravitation and 5.4.3 Planetary motion.

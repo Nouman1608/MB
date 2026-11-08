@@ -140,6 +140,20 @@ These questions cover section 5.5.3 (Cosmology) of the OCR Advanced GCE in Physi
 * Describing the CMB without linking it to the hot early universe.
 * Mixing up dark matter and dark energy.
 
+## Frequently asked questions
+
+**What are the most common mistakes in cosmology calculations?**
+Common errors are not converting km s⁻¹ to m s⁻¹ before using v/c, using the full parallax shift instead of half, and leaving H0 in km s⁻¹ Mpc⁻¹ when calculating t = 1/H0. Mixing pc, ly and m without stating units also loses marks.
+
+**How do you find the Hubble constant from a set of galaxy data?**
+Plot recession speed against distance and draw a best-fit line through the origin; its gradient is H0. Use all the data rather than the gradient from a single point or from joining the first and last points.
+
+**How should you describe the cosmic microwave background in an exam answer?**
+Describe it as microwave radiation reaching us equally from all directions with a spectrum corresponding to about 2.7 K, and link it to the hot early universe whose radiation has been stretched by expansion. A description without that link to the early universe is incomplete.
+
+**What is the difference between dark matter and dark energy?**
+Dark matter does not emit light but has gravitational effects, such as galaxies rotating faster than visible matter can explain. Dark energy is the name for whatever is making the expansion of the universe accelerate.
+
 ## Next steps
 
 * Re-read the [study guide](/resources/ocr-a-level-physics-distances-redshift-hubbles-law-and-the-big-bang/) and the [revision notes](/resources/ocr-a-level-physics-distances-redshift-hubbles-law-and-the-big-bang-revision-notes/).

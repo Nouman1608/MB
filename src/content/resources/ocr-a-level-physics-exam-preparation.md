@@ -9,10 +9,12 @@ qualifications: ["a-level"]
 syllabusCodes: ["H556"]
 syllabusSeries: "Version 3.0 (March 2026), for first assessment in 2017"
 order: 3
-description: "What OCR A Level Physics H556's paper names tell you about their demands, the 37/37/26 weighting, why the Practical Endorsement carries no marks but practicals still matter, and a worked estimation routine."
+description: "How OCR A Level Physics A (H556) is examined: the three papers and their 37/37/26 weighting, the Practical Endorsement, uncertainty, graphs and estimation."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -125,6 +127,23 @@ all three of which include practical question styles. 3. Percentage uncertainty,
 calculation, and choosing appropriate significant figures -- predictable because they are mechanical
 once learned and recur reliably. 4. A statement of what the gradient and intercept represent
 physically, and the reasoning behind choosing what to plot in order to obtain a straight line.
+
+## Frequently asked questions
+
+**How many papers are there in OCR A Level Physics A?**
+OCR A Level Physics A (H556) has three examined components totalling 270 marks. Modelling physics and Exploring physics are each 100 marks, 2 hours 15 minutes and 37%; Unified physics is 70 marks, 1 hour 30 minutes and 26%.
+
+**Which modules does each OCR H556 paper assess?**
+Modelling physics (Component 01) assesses modules 1, 2, 3 and 5, and Exploring physics (Component 02) assesses modules 1, 2, 4 and 6. Unified physics (Component 03) draws on all modules.
+
+**Does the Practical Endorsement affect your A Level Physics grade?**
+No. The Practical Endorsement is reported separately as Pass or Not Classified and contributes no marks to the 270-mark total that sets the A*-E grade. Practical skills such as uncertainty and evaluation are still examined in all three written papers.
+
+**How much time should you spend per mark in OCR A Level Physics?**
+In Papers 1 and 2 aim for about 1.3 minutes per mark from the start, since each is 100 marks in 2 hours 15 minutes.
+
+**How should you approach an estimation or "show that" question?**
+State your assumptions, write the relationship in symbols, convert all quantities to SI units, keep intermediate values unrounded, and check the order of magnitude of the answer. Stated assumptions can themselves earn credit.
 
 *Written against OCR's own published "Assessment story: exploring our question papers" guide for A
 Level Physics A H556 (official OCR document, verified 2026-08-28). The calculation routine above is an
