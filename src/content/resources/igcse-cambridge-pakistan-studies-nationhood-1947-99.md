@@ -83,7 +83,7 @@ December 1971**, and Pakistani forces in the East surrendered on 16 December 197
 
 ## How successful were Bhutto and Zia? (Key Question 14)
 
-**Zulfikar Ali Bhutto (1971–77):** brought home prisoners of war after the **Simla Agreement (1972)**
+**Zulfikar Ali Bhutto (1971–77):** negotiated the **Simla Agreement (1972)**, which led to the return of captured territory and, after a further agreement in 1973, prisoners of war
 with India; introduced the **1973 Constitution**, a parliamentary system that declared Islam the
 state religion; nationalised major industries, banks and schools; carried out land and labour
 reforms; and launched the nuclear programme. He reduced the army's political power at first but
