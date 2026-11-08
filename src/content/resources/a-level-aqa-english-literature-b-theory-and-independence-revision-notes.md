@@ -185,8 +185,8 @@ Each of the two Theory and Independence essays should be 1,250 to 1,500 words, w
 **Can I use an exam set text for the 7717 NEA?**
 No. Any text that appears on the A-level exam paper set-text lists is banned for the NEA, even if your own centre studies a different exam text.
 
-**What are the six sections of the AQA Critical anthology?**
-The Critical anthology covers narrative theory, feminist theory, Marxist theory, eco-critical theory, post-colonial theory, and literary value and the canon. Each of your two NEA texts must be linked to a different section.
+**Can I write about a single poem from a collection for the NEA?**
+Only for a re-creative piece. If you use a poetry or short-story collection, you must study the whole text and analyse at least two poems or stories in detail, unless your piece is re-creative, when a single poem or story can be the sole focus.
 
 **Is the commentary optional for a re-creative NEA piece?**
 No. The commentary must explicitly connect your creative choices to the base text and to the Critical anthology section you used, explaining why you made each significant choice and what critical reading it produces.

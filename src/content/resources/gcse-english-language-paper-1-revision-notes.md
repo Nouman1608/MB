@@ -124,8 +124,8 @@ single extract with nothing to compare it against.
 
 ## Frequently asked questions
 
-**How many marks is AQA GCSE English Language Paper 1 worth?**
-Paper 1 of AQA GCSE English Language (8700) is worth 80 marks and lasts 1 hour 45 minutes, making up 50% of the GCSE. Section A Reading and Section B Writing are each worth 40 marks.
+**Can I write a continuation of the extract for the Paper 1 writing task?**
+No. The creative writing task is linked to the theme of the reading extract, but it needs an original piece; writing a continuation of the source text is a common exam trap.
 
 **How are the marks split across the Paper 1 reading questions?**
 Question 1 is worth 4 marks, Question 2 (language) 8 marks, Question 3 (structure) 8 marks and Question 4 (evaluation) 20 marks. Question 4 is worth as much as Questions 1 to 3 combined, so give it time to match.
@@ -133,8 +133,8 @@ Question 1 is worth 4 marks, Question 2 (language) 8 marks, Question 3 (structur
 **How is the Paper 1 creative writing marked?**
 The 40 marks are split into 24 for content and organisation and 16 for technical accuracy (AO6), which covers vocabulary, sentence structures and accuracy. Leave time to check punctuation and spelling.
 
-**Which assessment objectives does Paper 1 test?**
-Section A tests AO1, AO2 and AO4, and Section B tests AO5 and AO6. Paper 1 does not assess AO3, comparing writers across texts, which belongs to Paper 2.
+**Should I compare the Paper 1 extract with another text?**
+No. Paper 1 of AQA GCSE English Language (8700) does not assess AO3, comparing writers across texts, because Section A works from a single extract. Comparison belongs to Paper 2.
 
 For Paper 1's full official structure, marks and assessment
 objectives, see the [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/);

@@ -286,14 +286,14 @@ A balanced budget is one where government spending equals government revenue. It
 **Why does a tax cut give a smaller boost than the same amount of government spending?**
 All of the extra government spending enters the economy in the first round, but households save part of a tax cut straight away, so less is passed on. A tax cut's advantage is that households choose how to spend the money.
 
-**What are the consequences of a budget deficit?**
-A deficit is paid for by borrowing, which adds to the national debt and raises interest payments, leaving less for other spending and a larger burden on future taxpayers. It can support demand in a downturn, but if the economy is already at full capacity the extra spending may mainly raise prices.
+**When does extra government spending raise output rather than prices?**
+Stimulus raises output only if resources are idle, so it works best when the economy has spare capacity. If the economy is already at full capacity, extra spending mainly pushes up prices.
 
 **How do you calculate the rate of inflation from a price index?**
 Subtract the old index from the new index, divide by the old index and multiply by 100. For example, an index rising from 108.0 to 111.2 gives inflation of about 2.96%.
 
-**What are the limits of monetary policy?**
-The full effect of an interest rate change can take many months, low confidence can stop lower rates from boosting spending, borrowers and savers are affected in opposite ways, and raising rates to cut inflation can raise unemployment. A single interest rate also applies to the whole economy.
+**Does a rise in interest rates increase spending because savers earn more?**
+No. Describing a rate rise as raising spending because savers earn more is a common error. Borrowing becomes dearer and saving more attractive, so households and firms spend and invest less overall.
 
 ## Official syllabus
 

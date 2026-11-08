@@ -154,8 +154,8 @@ castle" and "infectious disease" metaphors for complaints about change; Deborah 
 **How long is AQA A-level English Language Paper 2?**
 Paper 2 of AQA A-level English Language (7702) lasts 2 hours 30 minutes, is worth 100 marks and counts for 40% of the A-level. Section B contains a 40-mark analysis of two texts about a language issue and a 30-mark directed writing task on the same issue.
 
-**What four things should you explore in each Section B text?**
-Ask how the text represents language, what identity it constructs for its producer, how it positions the reader and tries to influence them, and how it is connected to wider discourses about language.
+**What is prescriptivism in AQA English Language?**
+Prescriptivism is the view that there is a correct form of the language that people should follow. Recognising prescriptive discourses about language is part of analysing the Section B texts.
 
 **Who is the Paper 2 directed writing task written for?**
 It is written for non-specialists, so explain each language concept with an everyday example and use the conventions of the form, such as a headline or direct address, rather than technical jargon.

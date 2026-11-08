@@ -171,8 +171,8 @@ farming methods a region can sustainably support depend partly on its underlying
 **Which 5014 syllabus does this agriculture guide follow?**
 It follows Topic 3, Agriculture and the environment, in the outgoing 2025-2026 edition of Cambridge O Level Environmental Management (5014). In the 2027-2029 edition this content becomes part of Topic 2, Land, so check which edition your course uses.
 
-**What is the difference between intensive and extensive farming?**
-Intensive farming aims to maximise output from a given area using high inputs of labour, capital, fertiliser and pesticides, while extensive farming uses more land relative to the inputs applied and gives lower yields per unit of land. Neither is automatically better; it depends on the specific practices used.
+**What does the agriculture topic cover in the 2025-2026 5014 syllabus?**
+Topic 3 opens with soil composition (3.1) and soils for plant growth, including sandy and clay soils (3.2), then covers agriculture types, increasing yields, environmental impacts, soil erosion and its management, and sustainable agriculture (3.3 to 3.8).
 
 **How does farming cause soil erosion?**
 Erosion happens when vegetation cover is removed through ploughing, overgrazing or clearing land faster than soil can be replenished, leaving bare soil to be carried away by wind or water. In dry regions severe erosion can contribute to desertification.

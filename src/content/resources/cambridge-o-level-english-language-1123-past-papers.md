@@ -290,8 +290,8 @@ Repeated faults include weak own-words answers, such as reusing the given word o
 **What is the most common mistake in 1123 descriptive writing?**
 Descriptive pieces that turn into a story, narrating an event or a visit instead of describing place, people and atmosphere, are noted in every series from June 2022 to November 2025.
 
-**Where can I find official 1123 past papers?**
-Cambridge publishes recent papers, mark schemes, examiner reports and grade thresholds on the syllabus's past-papers page, and older series are available to schools through the School Support Hub.
+**Do longer 1123 answers score more marks?**
+Not necessarily. Plan before you write and stay near the suggested word count, because very long answers tend to collect more errors, not more marks.
 
 ## About these notes
 

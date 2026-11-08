@@ -21,7 +21,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on renewable and non-renewable resources, energy, water and sustainability."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -91,3 +93,17 @@ Related: [Natural Resources revision notes](/resources/environmental-management-
 - Giving advantages of renewables without their land or intermittency costs.
 - Naming only surface and subsurface extraction and forgetting biological extraction as the third method.
 - Ignoring the economic and political reasons for fossil fuel dependence.
+
+## Frequently asked questions
+
+**Are these Natural Resources practice questions from Cambridge past papers?**
+No. They are original questions written for Marlbridge and do not replicate the exam's exact structure, question count or mark tariffs. Use them alongside the official past papers for Cambridge IGCSE Environmental Management (0680).
+
+**What is a common mistake when writing about renewable energy?**
+Giving the advantages of renewable sources without their costs, such as the land they need or their intermittency. Pair each advantage with a limitation.
+
+**Can a recyclable resource be called renewable?**
+No. A non-renewable resource such as gold does not become renewable because it can be recycled; calling it renewable is a common mistake.
+
+**What should I revise before trying these questions?**
+The page links to the Natural Resources revision notes, which cover renewable and non-renewable resources, energy sources and sustainable management.

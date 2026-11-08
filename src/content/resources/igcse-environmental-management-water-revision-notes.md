@@ -30,10 +30,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "water-0680"
     subtopic: "plastic-pollution-0680"
-description: "Condensed recall notes on water sources and supply, water pollution, water-related disease control, and marine aquaculture for Cambridge IGCSE Environmental Management (0680)."
+description: "Recall notes on water supply, pollution, water-related disease, aquaculture, and oil and plastic pollution for Cambridge IGCSE Environmental Management 0680."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -252,3 +254,17 @@ controlled via sanitation, safe water and vaccination. 5. MARPOL
 Ships); any one of improved navigation systems, booms and sorbents,
 detergent sprays, skimmers, or controlled burning. 6. Less than 5mm
 in length.
+
+## Frequently asked questions
+
+**What are the four stages of water treatment in Cambridge IGCSE Environmental Management 0680?**
+In order, the stages are screening, sedimentation, filtration and chlorination. Learn them as a sequence so you can answer "which stage comes before or after" and diagram-labelling questions.
+
+**How do distillation and reverse osmosis desalination differ?**
+Distillation boils seawater and condenses the vapour, which is energy-intensive but well established. Reverse osmosis forces water through a membrane under pressure, generally using less energy, but the membranes need regular maintenance and can foul.
+
+**What are the uses of a multipurpose dam?**
+The eight listed uses are flood control, hydro-electric power, irrigation, storage, transport, recreation, tourism and fish farming. In a "discuss" question, pair each benefit with a documented limitation.
+
+**What is MARPOL?**
+MARPOL is the International Convention for the Prevention of Pollution from Ships. It is a prevention strategy, kept separate from methods that minimise a spill's impact, such as booms and sorbents, detergent sprays, skimmers and controlled burning.

@@ -233,8 +233,8 @@ The specification does not name particular institutions in this part, so know th
 
 ## Frequently asked questions
 
-**Why is money defined as more than banknotes and coins?**
-Balances in bank accounts are accepted as payment, and most payments today are made by card or transfer. Broader measures of money also include savings deposits, which can be turned into spending quickly.
+**What is the order of liquidity?**
+From most to least liquid, the order is cash, then current accounts, then savings deposits, then property. Liquidity is how easily and quickly an asset can be spent without losing value.
 
 **How many exchange rates does barter need?**
 With n goods, barter needs n × (n − 1) ÷ 2 exchange rates, so 8 goods need 28. With money, each good needs only one price, which shows the benefit of money as a unit of account.

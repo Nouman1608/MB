@@ -273,8 +273,8 @@ Yes. If a firm hires extra workers and total output rises by a smaller proportio
 **Why are economies of scale a long-run idea?**
 Economies of scale come from changing the scale of the whole firm, which means all inputs, including fixed ones such as buildings and machinery, can change. That is only possible in the long run.
 
-**How can a firm increase its profit?**
-Since profit is total revenue minus total cost, a firm can raise profit by lowering average costs, for example through cheaper suppliers or less waste, by raising revenue through a higher price or more sales, or by doing both.
+**What happens to average fixed cost as output rises?**
+Average fixed cost keeps falling as output rises, because the same fixed bill is shared among more units. Average total cost also equals average fixed cost plus average variable cost.
 
 ## Official syllabus
 

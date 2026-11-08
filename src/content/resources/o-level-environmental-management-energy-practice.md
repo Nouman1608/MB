@@ -12,10 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "energy-and-the-environment-5014"
-description: "Original exam-style practice questions with full worked answers on fossil fuel formation, energy resources, energy demand and oil pollution for Cambridge O Level Environmental Management Topic 2 (5014)."
+description: "Practice questions with worked answers on fossil fuels, energy resources, energy demand and oil pollution for the 2025-2026 Cambridge O Level 5014 syllabus."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -134,3 +136,17 @@ on more than one topic within a single structured question.
 - Giving a generic "pollution is bad" answer instead of naming a specific impact (e.g. on coral reefs, marine mammals, birds).
 - Confusing MARPOL (an international convention) with a physical clean-up method like a boom or skimmer.
 - Listing energy demand factors without explaining the mechanism by which each one increases or decreases demand.
+
+## Frequently asked questions
+
+**Which 5014 edition do these energy practice questions follow?**
+They follow the outgoing 2025-2026 edition, where energy is its own topic. For the 2027-2029 edition, use the 2027-2029 Energy Resources practice questions instead.
+
+**What should I learn before attempting energy questions?**
+Build one table classifying all nine named energy resources as renewable or non-renewable, since nearly every question in this topic assumes that classification is secure.
+
+**Why should causes and management of oil pollution be kept separate?**
+Exam questions often ask for one without the other, and mixing a cause into a management answer, or the reverse, is a common way to drop marks even when the knowledge is correct.
+
+**What is a common mistake about MARPOL?**
+Confusing MARPOL, an international convention, with a physical clean-up method.

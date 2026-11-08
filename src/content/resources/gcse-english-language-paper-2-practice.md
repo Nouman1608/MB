@@ -172,11 +172,11 @@ actually appears in the exam.
 
 ## Frequently asked questions
 
-**How should I plan the comparison question on AQA GCSE English Language Paper 2?**
-Read both sources once, then draw a two-column table and note each writer's attitude to the topic, tone, one striking method and intended audience. Five minutes building this table usually produces a more genuinely comparative answer.
+**Should I use both sources for the first Paper 2 reading question?**
+No. In this practice the first question is on Source A only, and answering it using both sources is a common way to lose marks. Read each question carefully to see which source it names.
 
-**How long should I spend on each section of Paper 2?**
-Paper 2 of AQA GCSE English Language (8700) lasts 1 hour 45 minutes for 80 marks, split evenly between Section A and Section B. A rough guide is about 5 minutes reading the sources, about 50 minutes on Section A and about 50 minutes on Section B, with time on each reading question scaled to its marks.
+**Is the Paper 2 writing task always a letter?**
+No. Practise planning across different specified forms, such as a letter, speech, article or review, so you are ready for whichever form appears in the exam.
 
 **What are common mistakes in Paper 2 Section B?**
 Writing a narrative or descriptive piece when the task calls for a sustained viewpoint in a specified form, and hedging between both sides instead of committing to and developing one persuasive position.

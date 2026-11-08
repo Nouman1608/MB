@@ -130,8 +130,8 @@ Divide the population by the area, usually giving the answer in people per squar
 **What are the stages of the demographic transition model?**
 In stage 1 birth and death rates are both high; in stage 2 death rates fall while birth rates stay high, so population grows fast; in stage 3 birth rates fall and growth slows; in stage 4 both are low. Some versions add a fifth stage in which births fall below deaths.
 
-**How do you estimate doubling time?**
-Divide 70 by the annual percentage growth rate. For example, a growth rate of 2.0 per cent a year gives a doubling time of about 35 years.
+**What is the dependency ratio?**
+The dependency ratio compares those usually dependent on others (under 15 and over 64) with the working-age group (15 to 64): add the young and old, divide by the working-age group and multiply by 100.
 
 **Why are birth rates higher in some countries?**
 Birth rates tend to be higher where child mortality is high, where children help with farm work or support parents in old age, where contraception and education for girls are limited, and where cultural or religious beliefs favour large families.
