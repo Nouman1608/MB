@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-and-measures-oxfordaqa-igcse-maths"
     subtopic: "properties-and-constructions-oxfordaqa-igcse-maths"
-description: "Study guide to symmetry, congruence, similar figures, 3D solid properties and plans and elevations for OxfordAQA International GCSE Maths."
+description: "Study guide to symmetry, congruence, similar figures, 3D solid properties and plans and elevations for OxfordAQA International GCSE Maths (9260)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

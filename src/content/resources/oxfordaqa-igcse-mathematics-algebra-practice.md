@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-oxfordaqa-igcse-maths"
     subtopic: "notation-and-manipulation-oxfordaqa-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on generalised expressions, formulae, expanding, factorising, index laws and algebraic fractions for OxfordAQA International GCSE Mathematics (9260)."
+description: "OxfordAQA IGCSE Maths 9260 practice with worked answers on algebraic notation, substitution, expanding, factorising, index laws and algebraic fractions."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
