@@ -262,6 +262,20 @@ State the limit of proportionality as lying between 3.0 N and 4.0 N, and say how
 - Saying a spring "breaks" at the limit of proportionality.
 - Not showing the substitution step in a calculation, which makes a slip harder to credit.
 
+## Frequently asked questions
+
+**What is the difference between elastic and plastic deformation?**
+In elastic deformation an object returns to its original shape and size when the forces are removed. In plastic deformation it is left with a permanent change of shape.
+
+**What is the limit of proportionality?**
+The limit of proportionality is the point where the force-extension graph of a spring stops being a straight line. Beyond it, force is no longer directly proportional to extension.
+
+**What is the difference between linear and elastic?**
+Linear and non-linear describe the shape of the force-extension graph, while elastic and plastic describe whether the object recovers its shape. A rubber band can be non-linear and still elastic.
+
+**Which part of the OCR GCSE Physics A specification covers springs and Hooke's law?**
+It is statements P2.3a to P2.3f in section P2.3 (Forces in action) of OCR GCSE (9-1) Gateway Science Physics A (J249). All six are assessed on both Foundation and Higher Tier.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018. Statements P2.3a to P2.3f.

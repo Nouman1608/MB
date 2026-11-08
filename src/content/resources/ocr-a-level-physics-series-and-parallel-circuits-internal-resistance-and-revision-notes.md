@@ -210,6 +210,20 @@ A uniform resistive track across a supply with a sliding contact. Vout is propor
 - Plotting V against I but reading r as the gradient without the negative sign.
 - Ignoring a negative current from Kirchhoff equations instead of reading it as a reversed direction.
 
+## Frequently asked questions
+
+**What is Kirchhoff's first law?**
+Kirchhoff's first law states that the total current into a junction equals the total current out. It follows from conservation of charge.
+
+**What are lost volts?**
+Lost volts are the p.d. across the internal resistance of a source, Ir. They increase with current, so the terminal p.d. V = E − Ir falls as more current is drawn.
+
+**What is the potential divider equation?**
+For two resistors in series across Vin, the output across R2 is Vout = R2/(R1 + R2) × Vin. The p.d. shares in proportion to the resistances because the same current flows through both.
+
+**Which section of OCR A Level Physics A covers series and parallel circuits?**
+It is section 4.3 (Electrical circuits) of OCR H556, covering series and parallel circuits (4.3.1), internal resistance (4.3.2) and potential dividers (4.3.3).
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), Version 3.0 (March 2026), first assessment 2017, published by OCR (Oxford Cambridge and RSA). Section 4.3: Electrical circuits.

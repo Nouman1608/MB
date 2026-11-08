@@ -246,6 +246,20 @@ The mass stays the same during melting, boiling, expanding and compressing in a 
 - Explaining low gas density by saying the particles are lighter or smaller, rather than further apart.
 - Saying the mass changes when a substance melts or a gas is compressed.
 
+## Frequently asked questions
+
+**How big is an atom?**
+Atoms and small molecules are typically about 1 × 10⁻¹⁰ m across. This is an order of magnitude, not an exact value.
+
+**How do you convert g/cm³ to kg/m³?**
+Multiply by 1000: 1 g/cm³ = 1000 kg/m³. Also remember that 1 cm³ is 1 millilitre and 1 litre is 0.001 m³.
+
+**What happens to density when a gas is compressed?**
+The mass stays the same because no particles are gained or lost, so a smaller volume gives a larger density. Density changes in the opposite direction to volume.
+
+**Which part of the OCR GCSE Physics A specification covers the atomic model and density?**
+It is statements P1.1a to P1.1f of Topic P1 (Matter) in OCR GCSE (9-1) Physics A (Gateway Science) J249. None is in bold, so all are assessed on both Foundation and Higher Tier.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Physics A (Gateway Science) specification (J249), Version 5.0 (July 2026), for first assessment in 2018, published by OCR. Statements P1.1a to P1.1f.

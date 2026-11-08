@@ -254,6 +254,20 @@ R = 24.0 ± 0.7 Ω
 </figure>
 
 
+## Frequently asked questions
+
+**How do you write a column heading in a results table?**
+Write the heading as quantity / unit, for example speed / m s⁻¹ or time / s. The entries below are then pure numbers, so units are not written in every cell.
+
+**How do you estimate the uncertainty from repeated readings?**
+A common approach is to take half the range of the repeated readings. For a single scale reading, a common estimate is half the smallest division.
+
+**What is the uncertainty rule for a square root?**
+A square root is a power of one half, so halve the percentage uncertainty. For any power n, multiply the percentage uncertainty by n.
+
+**Which sections of OCR A Level Physics A cover units, uncertainty and vectors?**
+They are sections 2.1 (Physical quantities and units), 2.2 (Making measurements and analysing data) and 2.3 (Nature of quantities) in Module 2 of OCR H556.
+
 ## Official syllabus
 
 OCR, *Advanced GCE in Physics A (H556)* specification, Version 3.0 (March 2026), for first assessment in 2017. Sections 2.1.1, 2.1.2, 2.2.1 and 2.3.1.

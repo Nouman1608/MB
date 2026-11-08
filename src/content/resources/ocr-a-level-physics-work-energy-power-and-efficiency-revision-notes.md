@@ -194,6 +194,20 @@ Method for an energy-balance problem:
 - Saying energy is "used up" or "lost" rather than transferred to a less useful form.
 - Rounding too early: carry full values and round the final answer to a suitable number of significant figures.
 
+## Frequently asked questions
+
+**What is the definition of the joule?**
+One joule is the work done when a force of one newton moves its point of application one metre in the direction of the force, so 1 J = 1 N m.
+
+**What is the principle of conservation of energy?**
+The total energy of an isolated system stays constant: energy is never created or destroyed, only transferred between forms. "Lost" energy is usually transferred to thermal energy of the surroundings.
+
+**Does a force at right angles to the motion do work?**
+No. In W = Fx cos θ, cos 90° = 0, so a force perpendicular to the displacement does no work, such as the tension in a pendulum string.
+
+**Which section of OCR A Level Physics A covers work, energy and power?**
+It is section 3.3 (Work, energy and power) of OCR H556, covering work and conservation of energy (3.3.1), kinetic and potential energies (3.3.2) and power (3.3.3).
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Section 3.3 Work, energy and power.

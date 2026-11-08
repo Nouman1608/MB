@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed recall notes on variables, uncertainty, errors, graphical analysis and experimental technique for OCR A Level Physics H556."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -246,3 +248,16 @@ Total = 0.63% + 2.24% = 2.87%
   <figcaption>Improving the dominant measurement cuts the uncertainty far more than improving the other one.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between repeatable and reproducible results?**
+Results are repeatable if the same person gets the same result with the same method and equipment. They are reproducible if a different person, method or equipment gives the same result.
+
+**What is the uncertainty in a single reading from a scale?**
+For a single reading, the uncertainty is half the smallest scale division. For a measurement taken from two readings, such as a length between two marks, double it.
+
+**How does a systematic error show up on a graph?**
+An additive systematic error, such as a zero error, gives the correct gradient but an unexpected intercept. A proportional calibration error changes the gradient while the line still passes through the origin.
+
+**How do you reduce percentage uncertainty in OCR A Level Physics practicals?**
+Measure a larger quantity, such as timing 20 oscillations instead of one, or use an instrument with a finer resolution. The absolute uncertainty is fixed by the instrument, so it becomes a smaller share of a larger reading.

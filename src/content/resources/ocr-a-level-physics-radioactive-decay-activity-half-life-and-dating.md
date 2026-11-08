@@ -196,6 +196,23 @@ t = ln(0.230/0.150) / 1.21 × 10⁻⁴ = 0.4274 / 1.21 × 10⁻⁴ = **3500 year
 - Saying half-life is the time for a sample to decay completely.
 - Taking ln of a number with units when plotting; use the number only.
 
+## Frequently asked questions
+
+**What is activity in radioactivity?**
+Activity is the number of decays per second, measured in becquerel (Bq). It is proportional to the number of undecayed nuclei, A = λN.
+
+**How does carbon dating work?**
+Living things keep a roughly constant fraction of carbon-14. After death, intake stops and carbon-14 decays with a half-life of 5730 years, so comparing the activity per gram with that of living material gives the age from t = (1/λ) ln(A₀/A).
+
+**How do you find the decay constant from a graph?**
+Plot ln N, ln A or ln of the corrected count rate against time. The straight line has gradient −λ and meets the vertical axis at ln N₀.
+
+**How do you measure a short half-life with protactinium?**
+A sealed generator bottle is shaken so the short-lived protactinium collects in one liquid layer, and a Geiger-Müller tube records the count rate over time. After subtracting background, the half-life is found from the decay of the count rate.
+
+**What stops alpha, beta and gamma radiation?**
+Alpha is stopped by paper or skin, beta by a few millimetres of aluminium, and gamma is never fully stopped, though thick lead greatly reduces it.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), specification Version 3.0 (March 2026), first assessment 2017, published by OCR: section 6.4.3, Radioactivity.

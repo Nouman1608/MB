@@ -217,6 +217,23 @@ The same method applies to any particle whose quark content you are given: ident
 - Quoting charge in coulombs when the question asks for a multiple of e, or the reverse.
 - Forgetting that an antiquark has the opposite charge to its quark.
 
+## Frequently asked questions
+
+**What did the alpha scattering experiment show?**
+Most alpha particles passed straight through a thin gold foil, but a few were deflected through large angles and a very small number bounced back. This showed that an atom is mostly empty space with a tiny, positively charged nucleus containing most of its mass.
+
+**What are isotopes?**
+Isotopes are nuclei of the same element with the same proton number but different numbers of neutrons, so different nucleon numbers. They behave alike chemically because chemistry is set by the electrons.
+
+**How much bigger is an atom than its nucleus?**
+Atomic radii are of the order of 10⁻¹⁰ m and nuclear radii of the order of 10⁻¹⁵ to 10⁻¹⁴ m, so an atom is roughly 10⁴ to 10⁵ times wider than its nucleus.
+
+**What happens to quarks in beta-minus decay?**
+In beta-minus decay a down quark changes into an up quark, emitting an electron and an antineutrino: d → u + e⁻ + ν̄. A neutron (udd) therefore becomes a proton (uud).
+
+**Is a neutral particle its own antiparticle?**
+Not necessarily. Every particle has an antiparticle of the same mass, and the neutron and antineutron are different particles even though both are neutral.
+
 ## Next steps
 
 Test yourself with the [practice questions](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles-practice/), then condense with the [revision notes](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles-revision-notes/). Tick off 6.4.1 and 6.4.2 on the [checklist](/checklists/ocr/a-level/physics/).

@@ -202,6 +202,20 @@ Near iron no further gain is possible by joining or splitting.
 - Writing a waste answer with no reason or with only advantages.
 - Forgetting to check proton number as well as nucleon number in equations.
 
+## Frequently asked questions
+
+**What is mass defect?**
+The mass defect is the total mass of the separate protons and neutrons minus the mass of the nucleus. Its energy equivalent is the binding energy.
+
+**What is the minimum photon energy for pair creation?**
+The photon must have at least the combined rest energy of the particle and antiparticle, 2mc². Pair creation happens when such a photon passes close to a nucleus.
+
+**Why does fusion need very high temperatures?**
+Nuclei are positively charged and repel each other, so they need very high kinetic energies to get close enough to fuse. Fusion needs temperatures of millions of kelvin, and holding a plasma that hot is the main engineering difficulty.
+
+**Which section of OCR A Level Physics A covers fission and fusion?**
+It is section 6.4.4 (Nuclear fission and fusion), outcomes (a) to (k), of OCR H556. Radioactive decay and half-life are in section 6.4.3.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Physics A (H556), Version 3.0 (March 2026), first assessment 2017, published by OCR. Section 6.4.4, outcomes (a) to (k).

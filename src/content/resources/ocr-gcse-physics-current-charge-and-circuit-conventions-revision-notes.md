@@ -262,6 +262,20 @@ t = Q / I = 450 / 0.50 = 900 s
 
 An examiner reading an explanation is looking for the physics idea written in a full sentence. A bare "it is a series circuit" gains little; "there is only one path, so the current is the same at each point" is the idea the question is after.
 
+## Frequently asked questions
+
+**What is electric current?**
+Electric current is the rate of flow of charge, measured in amperes. One ampere means one coulomb of charge passing a point each second; in a metal wire, the moving charges are electrons.
+
+**What is conventional current?**
+Conventional current is drawn flowing from the positive terminal of the source, round the circuit, to the negative terminal. Electrons in a metal actually move the other way, from negative to positive.
+
+**How do you draw a cell symbol the right way round?**
+A cell is two parallel lines, one long and thin and one short and thick. The long line is the positive terminal.
+
+**Which part of the OCR GCSE Physics A specification covers current and circuits?**
+It is statements P3.1e to P3.1g and P3.2a to P3.2b in Topic P3 (Electricity) of OCR GCSE (9-1) Physics A (Gateway Science) J249. None is in bold, so all are assessed on both tiers.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Physics A (Gateway Science) J249*, Version 5.0, July 2026, for first assessment in 2018, Topic P3: Electricity, statements P3.1e to P3.1g and P3.2a to P3.2b.

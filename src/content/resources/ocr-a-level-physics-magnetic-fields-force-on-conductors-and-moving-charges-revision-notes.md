@@ -191,6 +191,20 @@ Check: gradient in kg A⁻¹, not g A⁻¹, before multiplying by g. Reasons for
 - Forgetting that a particle accelerated through V gains kinetic energy QV before entering the field.
 - Describing a circular orbit as centripetal force "in addition to" the magnetic force, when the magnetic force is the centripetal force.
 
+## Frequently asked questions
+
+**What is the definition of the tesla?**
+One tesla is the flux density at which a 1 m length of conductor carrying 1 A at right angles to the field feels a force of 1 N. So 1 T = 1 N A⁻¹ m⁻¹, or kg s⁻² A⁻¹ in base units.
+
+**What is the radius of a charged particle's circular path in a magnetic field?**
+The magnetic force provides the centripetal force, BQv = mv²/r, so r = mv/(BQ). A faster or heavier particle moves in a bigger circle.
+
+**Does the period of a charged particle in a magnetic field depend on its speed?**
+No. The period T = 2πm/(BQ) does not depend on speed or radius; a faster particle goes round a bigger circle in the same time.
+
+**Which sections of OCR A Level Physics A cover magnetic fields and moving charges?**
+They are sections 6.3.1 Magnetic fields and 6.3.2 Motion of charged particles of OCR H556. Flux linkage, Faraday's law, generators and transformers are in 6.3.3.
+
 ## Official syllabus
 
 Source: the OCR *Physics A (H556)* specification, Version 3.0 (March 2026), first assessment 2017. Section 6.3 Electromagnetism; outcomes 6.3.1(a)-(f) and 6.3.2(a)-(c).

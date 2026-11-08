@@ -149,6 +149,20 @@ These questions cover statements P4.2e and P4.2f from the OCR GCSE (9-1) Gateway
 - Leaving milliseconds in the calculation when finding frequency.
 - Missing the units, or giving Hz for a period.
 
+## Frequently asked questions
+
+**What are the most common mistakes in electromagnetic induction questions?**
+Common errors include writing "current" where "potential difference" is needed, especially for open circuits, saying a strong magnet at rest induces a p.d., and forgetting to divide revolutions per minute by 60. Leaving milliseconds in a frequency calculation also loses marks.
+
+**How do you explain the output of an alternator for full marks?**
+Say that the sides of the coil cut the field lines in opposite directions every half turn, so the induced p.d. reverses. Writing only that "the coil spins" does not earn the marks.
+
+**How do you explain how a commutator gives d.c.?**
+State that the split-ring commutator swaps the connections to the external circuit every half turn, just as the induced p.d. in the coil reverses. Saying it simply "converts" a.c. to d.c. is not enough.
+
+**Is electromagnetic induction on the OCR GCSE Physics Foundation paper?**
+No. Statements P4.2e and P4.2f of OCR GCSE (9-1) Gateway Science Physics A (J249) are in bold, so they are tested on Higher Tier papers only.
+
 ## Next steps
 
 - [Revision notes](/resources/ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos-revision-notes/)

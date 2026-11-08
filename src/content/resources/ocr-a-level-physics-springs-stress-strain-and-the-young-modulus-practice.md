@@ -138,6 +138,20 @@ These questions cover sections 3.4.1 (Springs) and 3.4.2 (Mechanical properties 
 - Forgetting the percentage uncertainty in A is double that in d.
 - Missing the extra extension in a gravitational energy balance.
 
+## Frequently asked questions
+
+**What are the most common mistakes in Young modulus calculations?**
+Common errors include using the total length as the extension, leaving mm, cm or kN unconverted, and using the diameter in place of the radius in the area. Forgetting that the percentage uncertainty in A is double that in d also loses marks.
+
+**Is the gradient of an extension-force graph the spring constant?**
+No. If extension is on the vertical axis, the gradient is 1/k. The gradient equals k only when force is on the vertical axis and extension on the horizontal.
+
+**Can you use ½Fx for any force-extension graph?**
+Only for a straight line through the origin. For a curved or kinked graph, find the area by splitting it into triangles and trapeziums or by counting squares.
+
+**How do you define plastic deformation for full marks?**
+Say that the object does not return to its original dimensions when the force is removed, because some of the change is permanent. A definition that leaves out what happens when the force is removed is incomplete.
+
 ## Next steps
 
 - Read the [revision notes](/resources/ocr-a-level-physics-springs-stress-strain-and-the-young-modulus-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-springs-stress-strain-and-the-young-modulus/).

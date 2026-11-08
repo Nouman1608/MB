@@ -301,6 +301,23 @@ Always take the square root last, and remember a square root has a positive and 
 - Squaring the difference: v² − u² is not (v − u)². Square each velocity first.
 - Dropping the negative sign on a deceleration.
 
+## Frequently asked questions
+
+**How do you calculate acceleration?**
+Acceleration is change in velocity divided by time, a = (v − u) ÷ t, measured in m/s². Slowing down gives a negative acceleration.
+
+**What does the gradient of a distance-time graph show?**
+The gradient of a distance-time graph is the speed. For a curve, find the speed at one instant from the gradient of a tangent at that point.
+
+**What does the area under a velocity-time graph show?**
+The area between a velocity-time graph and the time axis is the distance travelled. The gradient of the graph gives the acceleration.
+
+**Why shouldn't you average two speeds to find average speed?**
+If an object spends different times at each speed, the mean of the two speeds is wrong. Always use total distance ÷ total time.
+
+**Why is a light gate better than a stopwatch for fast motion?**
+Human reaction time is a large fraction of a short time, so a stopwatch is poor for short, fast motion. Light gates record the time without reaction-time error.
+
 ## Next steps
 
 Try the [practice questions](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-practice/), then condense with the [revision notes](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-revision-notes/). Tick progress off on the [checklist](/checklists/ocr/gcse/physics/) and test yourself with the [free diagnostics](/diagnostics/).

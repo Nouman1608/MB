@@ -211,6 +211,23 @@ Kinetic energy has fallen, so the collision is **inelastic**.
 - Applying kinetic energy conservation to every collision. It holds only if the question says the collision is perfectly elastic or you have shown it.
 - Stating conservation of momentum without the condition of no resultant external force.
 
+## Frequently asked questions
+
+**What is Newton's third law?**
+When body A exerts a force on body B, B exerts a force on A of the same size and type in the opposite direction. The two forces act on different bodies at the same time.
+
+**Why is F = ma a special case of Newton's second law?**
+The general form is F = Δp/Δt. For constant mass, Δp = mΔv, so F = ma, but the general form is needed when mass is gained or lost, such as with a water jet.
+
+**What is the principle of conservation of momentum?**
+For a system of interacting bodies, the total momentum in a given direction before an interaction equals the total momentum in that direction after it, provided no resultant external force acts.
+
+**What is the difference between elastic and inelastic collisions?**
+In a perfectly elastic collision, total kinetic energy is the same before and after. In an inelastic collision some kinetic energy is transferred to other forms, such as thermal energy and sound; momentum is conserved in both.
+
+**Are weight and the normal contact force a Newton's third law pair?**
+No. They act on the same body and are different types of force. The weight of a book pairs with the book's pull on the Earth, and the table's push on the book pairs with the book's push on the table.
+
 ## Next steps
 
 Next, try the [practice questions](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions-practice/). If resolving vectors is slow, revisit [units, measurement, uncertainty and vectors](/resources/ocr-a-level-physics-units-measurement-uncertainty-and-vectors/), and for force diagrams and F = ma problems see [dynamics, free-body diagrams, drag and terminal velocity](/resources/ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity/).

@@ -234,6 +234,20 @@ Worked reminder (light gates): a 0.040 m card takes 0.020 s to pass gate 1 and 0
 - Using the vertical speed alone as the landing speed.
 - Missing units, or giving answers to too many significant figures.
 
+## Frequently asked questions
+
+**What is the difference between distance and displacement?**
+Distance is the length of the path travelled and is a scalar. Displacement is the straight-line distance from the start in a stated direction and is a vector.
+
+**What does the area under a velocity-time graph show?**
+The area between a velocity-time graph and the time axis is the displacement. Area below the axis is displacement in the negative direction.
+
+**How does stopping distance depend on speed?**
+Stopping distance is thinking distance plus braking distance. Thinking distance is proportional to speed, while braking distance is proportional to speed squared.
+
+**Which section of OCR A Level Physics A covers kinematics and projectiles?**
+It is section 3.1 Motion of Module 3 in OCR H556, covering kinematics (3.1.1), linear motion (3.1.2) and projectile motion (3.1.3).
+
 ## Official syllabus
 
 OCR, *A Level GCE Physics A H556 Specification*, Version 3.0 (March 2026), first assessment 2017, section 3.1 Motion (3.1.1 to 3.1.3) in Module 3: Forces and motion.

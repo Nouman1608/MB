@@ -216,6 +216,23 @@ Vout rises as the temperature rises.
 - Taking Vout across the wrong component in a sensing circuit.
 - Forgetting that a load across R2 lowers Vout.
 
+## Frequently asked questions
+
+**What is Kirchhoff's second law?**
+Kirchhoff's second law states that around any closed loop, the sum of the e.m.f.s equals the sum of the p.d.s. It is a consequence of conservation of energy.
+
+**How do you calculate total resistance in parallel?**
+Use 1/R = 1/R1 + 1/R2 + ..., then invert the result. The total resistance of a parallel group is always smaller than its smallest resistor.
+
+**What is the e.m.f. of a cell?**
+The e.m.f. is the energy transferred to each coulomb of charge passing through the source, from chemical or other energy to electrical energy. With no current drawn, the terminal p.d. equals the e.m.f.
+
+**How do you determine the internal resistance of a cell?**
+Connect the cell with a variable resistor and ammeter, with a voltmeter across the terminals, and record V and I for several resistances. Plot V against I: the intercept is E and the gradient is −r.
+
+**What happens to the output of a potential divider when a load is connected?**
+The load is in parallel with R2, which lowers the effective resistance of that part of the divider. The output p.d. therefore falls.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), Version 3.0 (March 2026), first assessment 2017, published by OCR (Oxford Cambridge and RSA). Section 4.3: Electrical circuits.

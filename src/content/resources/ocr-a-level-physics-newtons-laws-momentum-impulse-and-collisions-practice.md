@@ -161,6 +161,20 @@ These questions cover OCR A Level Physics A (H556), sections 3.5.1 and 3.5.2 (sp
 - In 2D, conserving momentum in only one direction.
 - Forgetting that the force from a surface during impact includes the weight term.
 
+## Frequently asked questions
+
+**What are the most common mistakes in momentum questions?**
+Common errors are subtracting speeds when the velocity reverses instead of adding the magnitudes, leaving milliseconds unconverted, and treating weight and the table's push as a third-law pair. Using F = ma when mass flows onto or off a surface also loses marks.
+
+**How do you show whether a collision is elastic?**
+Calculate the total kinetic energy before and after the collision and compare them. Claiming a collision is elastic or inelastic without comparing the kinetic energies does not earn the marks.
+
+**How do you solve a two-dimensional collision?**
+Resolve every velocity along two perpendicular axes and apply conservation of momentum separately along each axis. Conserving momentum in only one direction is a common error.
+
+**How should you state the direction of a momentum or velocity answer?**
+Give the direction relative to a stated reference line or axis, for example an angle below the x-axis or "away from the wall". A direction with no reference is incomplete.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions/).

@@ -204,6 +204,23 @@ A dynamo turns at 12 revolutions per second. How many pulses of p.d. does it pro
 - Writing that the commutator "makes the current direct" without saying it swaps the connections every half turn.
 - Mixing up the zero positions. The p.d. is zero when the sides of the coil are moving along the field lines, not when the coil is moving fastest.
 
+## Frequently asked questions
+
+**Why does the induced current oppose the change that caused it?**
+The induced current's magnetic field opposes the change, so you must do work to keep moving the magnet, and that work becomes energy in the circuit. If the induced field helped the change, energy would appear from nothing.
+
+**What is the difference between an alternator and a dynamo?**
+An alternator uses two slip rings and produces a.c., which reverses direction each half turn. A dynamo uses a split-ring commutator and produces d.c., always in the same direction.
+
+**What happens to an alternator's output if it spins faster?**
+Spinning faster increases both the peak potential difference and the frequency. A stronger magnet or more turns increases the peak p.d. but does not change the frequency.
+
+**When is the induced p.d. in a rotating coil zero?**
+The induced p.d. is zero when the plane of the coil is at right angles to the field lines, because the sides of the coil are moving along the lines instead of cutting them.
+
+**What is the frequency of an alternator's output?**
+For a simple alternator, one rotation gives one cycle, so the frequency equals the number of rotations per second. For revolutions per minute, divide by 60.
+
 ## Official syllabus
 
 This page is based on the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018, published by OCR, topic P4.2 Uses of magnetism, statements P4.2e and P4.2f.

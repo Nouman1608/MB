@@ -137,6 +137,20 @@ These questions cover sections 3.2.3 (Equilibrium) and 3.2.4 (Density and pressu
 - Describing the centre of gravity experiment without saying the card hangs freely.
 - Quoting N for a torque or moment, or leaving the unit out.
 
+## Frequently asked questions
+
+**What are the most common mistakes in moments questions?**
+Common errors are not using the perpendicular distance to the line of action, missing the weight of a beam or ladder, and taking moments about different points in one equation. Giving a moment in N instead of N m also loses marks.
+
+**How do you choose a pivot when solving a beam problem?**
+Take moments about a point where an unknown force acts, because that force then has zero moment. Find the remaining force by balancing the vertical forces.
+
+**Should atmospheric pressure be included in a pressure calculation?**
+Include atmospheric pressure when the question asks for the total pressure, and leave it out when it asks for a pressure difference or the pressure due to the liquid alone, p = hρg.
+
+**How do you describe the centre of gravity experiment for full marks?**
+Say that the card hangs freely from a pin with a plumb line, and that lines drawn from three holes meet at the centre of gravity. Leaving out that the card hangs freely is a common reason for lost marks.
+
 ## Next steps
 
 - Read the [revision notes](/resources/ocr-a-level-physics-moments-equilibrium-density-and-pressure-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-moments-equilibrium-density-and-pressure/).

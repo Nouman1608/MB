@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Condensed recall notes on physical quantities and SI units, uncertainty handling, and scalars and vectors for OCR A Level Physics A (H556), Module 2."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -201,6 +203,20 @@ Every later module assumes SI units, uncertainty handling and the vector-scalar 
 - Explain the difference between a systematic and a random error, with an example of each.
 - State which is the scalar and which is the vector: speed/velocity, mass/weight, distance/displacement.
 - Explain why an equation that fails a unit-homogeneity check cannot be correct.
+
+## Frequently asked questions
+
+**What is a scalar and what is a vector?**
+A scalar has magnitude only, such as speed, mass or energy. A vector has magnitude and direction, such as velocity, force or displacement.
+
+**How do you reduce a systematic error?**
+A systematic error, including a zero error, is a consistent bias in every reading, and the fix is to recalibrate the instrument. Repeating and averaging reduces random error but does not remove a systematic error.
+
+**What range of prefixes do you need for OCR A Level Physics?**
+OCR A Level Physics A (H556) expects the standard prefixes from pico to tera, along with the convention of labelling graph axes and table columns as quantity / unit, for example "speed / m s⁻¹".
+
+**Why do you need to estimate physical quantities?**
+Section 2.1.1 of the specification expects sensible estimates of quantities such as the mass of an apple or the speed of a walking person. Estimation lets you sanity-check whether a calculated answer is plausible.
 
 ## Related resources
 

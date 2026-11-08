@@ -242,6 +242,23 @@ Gradient = (120 - 48) / (2.50 - 1.00) = 48 m/s, so v = 2 x 48 = **96 m/s**.
 
 Test yourself with the [practice questions](/resources/ocr-a-level-physics-stationary-waves-harmonics-and-resonance-tubes-practice/), then check your level with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between stationary and progressive waves?**
+A progressive wave transfers energy and every particle has the same amplitude. A stationary wave does not transfer energy along it, its amplitude varies from nodes to antinodes, and its profile stays in place.
+
+**What is the fundamental frequency of a string fixed at both ends?**
+In the fundamental mode the string length is half a wavelength, so f1 = v/2L. The nth harmonic has n loops and frequency n f1.
+
+**What is the fundamental frequency of a tube closed at one end?**
+The closed end is a node and the open end is close to an antinode, so the length is a quarter of a wavelength and f1 = v/4L. Only odd harmonics occur: f1, 3f1, 5f1.
+
+**How do you measure the speed of sound with a resonance tube?**
+Find the lengths L1 and L2 of the first two resonances with a tuning fork of known frequency f. The difference is half a wavelength, so v = 2f(L2 − L1); using the difference removes the uncertainty in where the antinode forms above the open end.
+
+**Why does an open tube sound an octave higher than a closed tube of the same length?**
+An open tube has antinodes at both ends, so its fundamental is v/2L, twice the closed-tube fundamental of v/4L. Doubling the frequency raises the note by an octave.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Section 4.4.4, Stationary waves.

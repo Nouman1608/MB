@@ -255,6 +255,23 @@ l = 40 × 600 / (0.0204 − 0.0098) = 24 000 / 0.0106 = 2.3 × 10⁶ J kg⁻¹
 - Using m c Δθ for the stage where a phase change occurs.
 - Forgetting the control run in the fusion experiment, or the second power in the vaporisation experiment.
 
+## Frequently asked questions
+
+**What is specific heat capacity?**
+Specific heat capacity is the energy needed to raise the temperature of 1 kg of a substance by 1 K with no change of phase, measured in J kg⁻¹ K⁻¹. The energy is E = mcΔθ.
+
+**What is absolute zero?**
+Absolute zero, 0 K, is the lowest limit of temperature, at which a substance has minimum internal energy.
+
+**What does Brownian motion show?**
+Smoke particles seen through a microscope move in random zig-zag paths because fast-moving air molecules hit them unevenly from all sides. This is evidence that molecules are in continuous random motion.
+
+**How do you measure the specific heat capacity of a metal block electrically?**
+Heat an insulated block with an electric heater, measuring V, I, the time and the temperature rise, then use c = VIt/(mΔθ). Energy lost to the surroundings makes the value too large.
+
+**Why does boiling need more energy than melting?**
+Vaporisation needs much more energy per kilogram than fusion because the molecules must be separated completely, not just loosened from fixed positions.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), specification Version 3.0 (March 2026), first assessment 2017, published by OCR: sections 5.1.1, 5.1.2 and 5.1.3.

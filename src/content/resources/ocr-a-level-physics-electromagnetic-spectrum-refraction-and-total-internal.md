@@ -237,6 +237,23 @@ A light source lies at the bottom of a pool of water (n = 1.33), 0.80 m deep. Li
 - Saying the frequency changes on refraction. It does not.
 - Plotting i against r and calling the gradient n.
 
+## Frequently asked questions
+
+**What properties do all electromagnetic waves share?**
+All electromagnetic waves are transverse, travel through a vacuum at the same speed, obey c = fλ, transfer energy, and can be reflected, refracted, diffracted, polarised and made to interfere.
+
+**How does a metal grille show that microwaves are polarised?**
+When the rods are parallel to the electric field, energy is absorbed or reflected and the received signal falls to a minimum. Rotating the grille through 90° lets the waves through, showing the microwaves are plane polarised.
+
+**What is the critical angle formula?**
+For light going from a material into air, sin C = 1/n. For a boundary between two materials, sin C = n₂/n₁, where n₁ is the higher refractive index.
+
+**How do you find refractive index from a rectangular glass block experiment?**
+Measure angles of incidence and refraction from the normal for at least six rays, then plot sin i against sin r. The straight line through the origin has gradient equal to the refractive index n.
+
+**Can total internal reflection happen when light enters a denser medium?**
+No. Total internal reflection only happens when light travels from a higher refractive index towards a lower one, at an angle of incidence greater than the critical angle.
+
 ## Next steps
 
 Attempt the practice questions, then tick off each statement on the checklist.

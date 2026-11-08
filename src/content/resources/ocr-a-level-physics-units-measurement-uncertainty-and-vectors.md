@@ -344,6 +344,23 @@ Sine goes with the component opposite the angle, cosine with the component adjac
 
 Next, try the [practice questions](/resources/ocr-a-level-physics-units-measurement-uncertainty-and-vectors-practice/). The [practical skills guide](/resources/ocr-a-level-physics-development-of-practical-skills/) shows these methods in experiments.
 
+## Frequently asked questions
+
+**What is a physical quantity?**
+A physical quantity is a number multiplied by a unit. "The force is 12" is incomplete, while "12 N" is a complete measurement.
+
+**Can a homogeneity check prove an equation is correct?**
+No. A homogeneity check shows that the units balance, but it cannot detect a missing numerical factor such as ½ or 2π.
+
+**What is a worst line on a graph?**
+A worst line is the steepest or shallowest straight line that still passes through all the error bars. The uncertainty in the gradient is half the difference between the steepest and shallowest gradients.
+
+**What are the base units of the volt?**
+Using V = P/I, the volt in SI base units is kg m² s⁻³ A⁻¹.
+
+**What is the difference between distance and displacement?**
+Distance is a scalar, the length of path covered, while displacement is a vector from start to finish. A jogger who runs once round a 400 m track covers 400 m but has zero displacement.
+
 ## Official syllabus
 
 OCR, *Advanced GCE in Physics A (H556)* specification, Version 3.0 (March 2026), for first assessment in 2017. Sections 2.1.1, 2.1.2, 2.2.1 and 2.3.1.

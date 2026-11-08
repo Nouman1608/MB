@@ -198,6 +198,23 @@ Practical examples include a swing pushed in time, a radio tuned to one station,
 - Saying "amplitude is constant, so energy is constant" for a damped oscillator.
 - Stating resonance "when frequencies match" without saying driving and natural.
 
+## Frequently asked questions
+
+**What is the definition of simple harmonic motion?**
+Simple harmonic motion is oscillation in which the acceleration is proportional to the displacement from equilibrium and directed towards equilibrium, a = −ω²x.
+
+**Why is a simple harmonic oscillator isochronous?**
+Its period does not depend on amplitude. A larger amplitude gives a larger restoring force but also a greater distance to travel, and the two effects cancel.
+
+**Why do you time oscillations at the equilibrium position?**
+The mass moves fastest at the equilibrium position, so starting and stopping the timer as it passes a fiducial marker there gives a smaller timing error than at the turning points.
+
+**How do kinetic and potential energy change in SHM?**
+Energy swaps between kinetic and potential while the total stays constant with no damping. At x = 0 all the energy is kinetic, and at x = ±A it is all potential.
+
+**What is resonance?**
+Resonance happens when the driving frequency equals the natural frequency of the oscillator. The amplitude is then a maximum because energy is transferred to the oscillator at the greatest rate.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Section 5.3, Oscillations.

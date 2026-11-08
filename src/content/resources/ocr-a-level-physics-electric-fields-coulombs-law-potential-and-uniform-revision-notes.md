@@ -203,6 +203,20 @@ Data used in the examples: ε₀ = 8.85 × 10⁻¹² F m⁻¹; elementary charge
 - Deriving C = 4πε₀R without stating that V = Q/(4πε₀R) applies at the surface, or without starting from C = Q/V.
 - Ignoring the sideways displacement limit: checking whether a charged particle actually leaves the plates.
 
+## Frequently asked questions
+
+**What is electric field strength?**
+Electric field strength is the force per unit positive charge, E = F/q, measured in N C⁻¹ or V m⁻¹. It is a vector in the direction of the force on a positive charge.
+
+**What is the definition of electric potential?**
+The electric potential at a point is the work done in bringing unit positive charge from infinity to that point. It is a scalar measured in volts, and is zero at infinity.
+
+**How does the field of a point charge change with distance?**
+The field strength follows an inverse square law, E = Q/(4πε₀r²), so doubling the distance from the centre divides the field strength by four. The potential, V = Q/(4πε₀r), falls as 1/r.
+
+**What does OCR A Level Physics A section 6.2 cover?**
+Section 6.2 of OCR H556 covers point and spherical charges, Coulomb's law, uniform electric fields and parallel-plate capacitance, and electric potential and energy (6.2.1 to 6.2.4).
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Physics A (H556), Version 3.0 (March 2026), published by OCR: section 6.2 (Electric fields), learning outcomes 6.2.1(a)-(d), 6.2.2(a)-(d), 6.2.3(a)-(c) and 6.2.4(a)-(e).

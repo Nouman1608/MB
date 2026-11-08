@@ -142,6 +142,20 @@ These questions cover statements 6.3.3(a) to 6.3.3(f) of the OCR Advanced GCE in
 - Inverting the current ratio in the transformer equation.
 - Describing a transformer investigation without stating what is kept constant.
 
+## Frequently asked questions
+
+**What are the most common mistakes in electromagnetic induction questions?**
+Frequent errors are using the angle to the plane instead of the angle to the normal in Φ = BA cos θ, leaving out the number of turns, and not converting centimetres, millivolts or milliseconds. Inverting the transformer current ratio is another common slip.
+
+**How do you explain why the e.m.f. of a generator is zero at some instant?**
+Refer to the rate of change of flux linkage, not the flux itself. When the coil's plane is perpendicular to the field the flux linkage is at its maximum but not changing, so the induced e.m.f. is zero.
+
+**How do you describe a transformer investigation for full marks?**
+State which quantities are varied and measured and which are kept constant, for example fixing Np and Vp while changing Ns and measuring Vs with an a.c. voltmeter. Plotting Vs against Ns should give a straight line through the origin for an ideal transformer.
+
+**How should you use Lenz's law in a written answer?**
+Name the change being opposed, such as the approach of a magnet's north pole, and say the induced current opposes that change. Saying the induced current "stops" the change is marked wrong.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ocr-a-level-physics-electromagnetic-induction-generators-and-transformers-revision-notes/).

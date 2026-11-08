@@ -229,6 +229,20 @@ Worked reminder: n = 1.40 gives sin C = 0.7143, so C = 45.6°. For a glass-water
 - In the practical, plotting i against r, or omitting that the line should pass through the origin.
 - Mixing up which way a grille blocks microwaves.
 
+## Frequently asked questions
+
+**What is the order of the electromagnetic spectrum?**
+In order of increasing frequency and decreasing wavelength, the spectrum runs radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays. All travel at the same speed in a vacuum.
+
+**What is the formula for refractive index?**
+The refractive index of a material is n = c/v, where c is the speed of light in a vacuum and v is its speed in the material. It has no unit and is greater than 1; for air, n is taken as 1.
+
+**Does the frequency of light change when it refracts?**
+No. The frequency stays the same when light crosses a boundary; the speed and the wavelength change, so n = λ(vacuum)/λ(material).
+
+**Which section of OCR A Level Physics A covers refraction and total internal reflection?**
+It is section 4.4.2 Electromagnetic waves of OCR H556, statements (a) to (e), in Module 4 (Electrons, waves and photons). The practical uses ray boxes with rectangular and semi-circular blocks (PAG6).
+
 ## Official syllabus
 
 OCR, Advanced GCE in Physics A (H556), specification Version 3.0 (March 2026), section 4.4.2 Electromagnetic waves, for first assessment in 2017.

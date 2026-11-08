@@ -204,6 +204,23 @@ Current ideas say the universe is roughly 68% dark energy, 27% dark matter and 5
 * Forgetting to convert Mpc to km before finding H0 in s⁻¹.
 * Calling the Big Bang an explosion in space.
 
+## Frequently asked questions
+
+**What is a parsec?**
+A parsec is the distance at which a star shows a parallax angle of one second of arc, about 3.09 × 10¹⁶ m. For p in seconds of arc and d in parsec, d = 1/p.
+
+**Why does stellar parallax only work for nearby stars?**
+The parallax angle gets smaller as distance increases. For very distant stars the angle falls below what can be measured, so the method only works for relatively nearby stars.
+
+**What is the difference between red shift and blue shift?**
+A source moving away from the observer gives a longer wavelength and lower frequency, called red shift. A source moving towards the observer gives a shorter wavelength and higher frequency, called blue shift.
+
+**How old is the universe using the Hubble constant?**
+The age is estimated as t ≈ 1/H0 with H0 in s⁻¹. For H0 = 70 km s⁻¹ Mpc⁻¹ this gives about 1.4 × 10¹⁰ years, around 14 billion years; it is only an estimate because it ignores changes in the expansion rate.
+
+**Was the Big Bang an explosion?**
+No. The Big Bang was not an explosion into pre-existing empty space; it was the start of the expansion of space-time itself from a tiny, very hot, very dense state, with galaxies carried apart as space expands.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), Version 3.0 (March 2026), first assessment 2017, published by OCR. Section 5.5.3, Cosmology.

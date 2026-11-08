@@ -150,6 +150,20 @@ These questions cover section 6.4.3 (Radioactivity), statements (a) to (h), of t
 - Rounding λ early and carrying an error into a later part.
 - Describing the dice model but not saying what is varied or counted.
 
+## Frequently asked questions
+
+**What are the most common mistakes in radioactivity calculations?**
+Common errors are failing to subtract background before using a count rate, using minutes or years for t with λ in s⁻¹, and leaving the minus sign out of the exponent. Rounding λ early and carrying the error into later parts also loses marks.
+
+**What must a beta decay equation include?**
+A β⁻ decay equation must include an antineutrino, and a β⁺ decay equation must include a neutrino, as well as balanced nucleon and proton numbers. Leaving the neutrino or antineutrino out is a common error.
+
+**Does gamma radiation have a fixed range?**
+No. Gamma rays are absorbed at random, so their intensity falls exponentially with thickness and never reaches zero. Describing γ as having a fixed range is marked wrong.
+
+**How should you describe the dice simulation of decay?**
+Say what is varied and counted: throw all the dice, remove those showing a six, count the dice remaining, and repeat. Each die has a 1/6 chance of "decaying" per throw, giving an exponential pattern.
+
 ## Next steps
 
 - Read the [revision notes](/resources/ocr-a-level-physics-radioactive-decay-activity-half-life-and-dating-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-radioactive-decay-activity-half-life-and-dating/).

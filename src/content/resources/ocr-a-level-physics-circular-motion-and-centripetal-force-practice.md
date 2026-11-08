@@ -164,6 +164,20 @@ v = ωr = 0.0131 × 22 = **0.29 m s⁻¹** [1]
 - Writing "centripetal force" as an additional force instead of naming the real force that provides it.
 - Claiming zero acceleration just because the speed is steady.
 
+## Frequently asked questions
+
+**What are the most common mistakes in circular motion questions?**
+Frequent errors include using degrees where radians are needed, using revolutions per minute without converting, using a diameter as the radius, and forgetting the square root after rearranging v² = Fr/m. Claiming the acceleration is zero because the speed is steady is also marked wrong.
+
+**What happens to an object when the string holding it in a circle breaks?**
+With no centripetal force, Newton's first law applies and the object moves off in a straight line along the tangent at constant speed. Describing the motion as outwards or radial loses the mark.
+
+**How should you label centripetal force on a free-body diagram?**
+Draw only the real forces, such as tension, friction or gravity, and identify which one supplies the centripetal force. Adding "centripetal force" as an extra arrow is a common error.
+
+**Which formula should you use for centripetal acceleration in OCR A Level Physics?**
+Use a = v²/r when you know the speed and radius, and a = ω²r when you are given period, frequency or angular velocity. Both appear in OCR H556 section 5.2.2.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-physics-circular-motion-and-centripetal-force-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-circular-motion-and-centripetal-force/).

@@ -210,6 +210,20 @@ A dynamo turns at 8 revolutions per second. Pulses per second = 2 × 8 = 16. Tim
 - Forgetting to divide by 60 when the speed is given in revolutions per minute.
 - Giving no unit, or the wrong unit, for frequency and period.
 
+## Frequently asked questions
+
+**When is a potential difference induced in a conductor?**
+A potential difference is induced only when the magnetic field around the conductor changes, for example when a magnet moves into a coil. A magnet held still inside a coil induces nothing, however strong it is.
+
+**What increases the size of an induced potential difference?**
+Moving the magnet or coil faster, using a stronger magnet, or using more turns on the coil all give a bigger induced p.d.
+
+**Does an induced current flow in an open circuit?**
+No. A potential difference is still induced across the ends of the conductor, but a current flows only if the circuit is complete.
+
+**What is the difference between a dynamo and a motor?**
+A motor is supplied with a current and produces rotation. A dynamo is supplied with rotation and produces a potential difference, even though both have a coil in a magnetic field.
+
 ## Official syllabus
 
 These notes are based on the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018, published by OCR, topic P4.2 Uses of magnetism, statements P4.2e and P4.2f.

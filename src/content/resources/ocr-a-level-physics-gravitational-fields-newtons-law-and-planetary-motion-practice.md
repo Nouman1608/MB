@@ -165,6 +165,20 @@ Learn the content from the [study guide](/resources/ocr-a-level-physics-gravitat
 - Applying v₁r₁ = v₂r₂ away from the two closest and furthest points.
 - Leaving out "above the equator" for a geostationary orbit.
 
+## Frequently asked questions
+
+**What are the most common mistakes in gravitational field calculations?**
+The most common error is using the height above the surface instead of the distance to the planet's centre in GM/r². Forgetting to square the power of ten when squaring r also loses marks.
+
+**If a satellite is 2.0 radii above the surface, what is r?**
+r is measured from the centre, so a satellite 2.0 radii above the surface is at r = 3.0R, not 2.0R.
+
+**How do you start a derivation of Kepler's third law?**
+Begin by stating that gravity provides the centripetal force, then write GMm/r² = mv²/r. Starting the algebra without that statement can lose the first mark.
+
+**When can you use v₁r₁ = v₂r₂ for an orbit?**
+Only at the closest and furthest points of the orbit, where the velocity is perpendicular to the line joining the planet to the Sun. It does not apply at other points.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-physics-gravitational-fields-newtons-law-and-planetary-motion-revision-notes/) and [study guide](/resources/ocr-a-level-physics-gravitational-fields-newtons-law-and-planetary-motion/).

@@ -149,6 +149,20 @@ Calculate the mass of the droplet and state which plate is positive. **[5]**
 - Using E = V/d for a point charge, or the inverse square law between plates.
 - Using ε₀ where the material's ε is needed.
 
+## Frequently asked questions
+
+**What are the most common mistakes in electric field questions?**
+Common errors are measuring r from the surface of a sphere instead of its centre, using E = V/d for a point charge, and using ε₀ where the material's permittivity ε is needed. Dropping the sign of Q in V = Q/(4πε₀r) also gives the wrong sign for an energy change.
+
+**How do you add electric fields from two charges?**
+Electric field strength is a vector, so fields must be added as vectors. Only add magnitudes directly when both fields lie along the same line; electric potential, by contrast, is a scalar and adds without direction.
+
+**How do you find the closest approach of a charged particle to a nucleus?**
+At closest approach all the initial kinetic energy has become electric potential energy, so set the kinetic energy equal to Qq/(4πε₀r) and solve for r.
+
+**How should you state the direction of a Coulomb force?**
+Give the size of the force and state in words whether it is attractive or repulsive. Like charges repel and unlike charges attract, and the force acts along the line joining the charges.
+
 ## Next steps
 
 - [Revision notes](/resources/ocr-a-level-physics-electric-fields-coulombs-law-potential-and-uniform-revision-notes/)

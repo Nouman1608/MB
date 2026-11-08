@@ -235,6 +235,23 @@ When you evaluate a design, link efficiency to its effect: a more efficient mach
 - Giving efficiency above 100%, or leaving it as a bare number without saying whether it is a percentage or a fraction.
 - Skipping the line that equates the work done to the energy gained in a derivation. State it.
 
+## Frequently asked questions
+
+**What is the formula for work done at an angle?**
+Work done is W = Fx cos θ, where θ is the angle between the force and the displacement. Only the component of force along the line of motion does work.
+
+**What is power?**
+Power is the rate of energy transfer or the rate of doing work, P = W/t, measured in watts, where 1 W = 1 J s⁻¹.
+
+**How do you derive P = Fv?**
+For a constant force moving an object at constant velocity, the work done in time t is W = Fx, so P = Fx/t. Since x/t = v, P = Fv.
+
+**Does mass affect the speed of a pendulum at its lowest point?**
+No. With no resistive forces, mgh = ½mv², so the mass cancels and the speed depends only on the height dropped.
+
+**How do you calculate efficiency?**
+Efficiency is the useful output energy or power divided by the total input, often expressed as a percentage. The rest of the input is transferred as wasted energy, such as thermal energy and sound.
+
 ## Next steps
 
 Compress this guide into the [revision notes](/resources/ocr-a-level-physics-work-energy-power-and-efficiency-revision-notes/), and then work through the [practice questions](/resources/ocr-a-level-physics-work-energy-power-and-efficiency-practice/). Tick off 3.3 on the [checklist](/checklists/ocr/a-level/physics/).

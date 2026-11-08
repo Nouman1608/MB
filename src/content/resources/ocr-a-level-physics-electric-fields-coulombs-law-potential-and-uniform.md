@@ -256,6 +256,23 @@ r = 58 × (1.60 × 10⁻¹⁹)² / (4π × 8.85 × 10⁻¹² × 8.0 × 10⁻¹³
 - Adding potentials as vectors, or fields as scalars, from two charges.
 - Treating ε as ε₀ in a capacitor with a dielectric.
 
+## Frequently asked questions
+
+**What is Coulomb's law?**
+Coulomb's law states that the force between two point charges Q and q a distance r apart is F = Qq/(4πε₀r²). The force acts along the line joining them, and the two charges feel equal and opposite forces.
+
+**What is the difference between electric and gravitational fields?**
+Both are radial around a point source and follow an inverse square law. Gravitational forces are always attractive and very weak, while electric forces can attract or repel and are much stronger for typical charges.
+
+**What is the capacitance of an isolated sphere?**
+An isolated sphere of radius R has capacitance C = 4πε₀R. It comes from C = Q/V with the surface potential V = Q/(4πε₀R).
+
+**What is relative permittivity?**
+Relative permittivity εᵣ is the ratio linking a material's permittivity to that of free space, ε = εᵣε₀. A material between capacitor plates increases the capacitance to C = εA/d.
+
+**What path does an electron follow between charged parallel plates?**
+An electron entering the uniform field at right angles has constant velocity parallel to the plates and uniform acceleration along the field, so its path between the plates is a parabola, like a projectile. After leaving the field it travels in a straight line.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Physics A (H556), Version 3.0 (March 2026), published by OCR: section 6.2 (Electric fields), learning outcomes 6.2.1(a)-(d), 6.2.2(a)-(d), 6.2.3(a)-(c) and 6.2.4(a)-(e).

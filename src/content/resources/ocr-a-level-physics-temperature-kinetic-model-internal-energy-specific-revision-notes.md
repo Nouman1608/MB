@@ -195,6 +195,20 @@ A small temperature rise gives a large percentage uncertainty, so a larger rise 
 - Using the wrong direction for the error: losses make c too large in the electrical block method.
 - Missing units, or the wrong unit for l (J kg⁻¹, not J).
 
+## Frequently asked questions
+
+**What is thermal equilibrium?**
+Two objects in thermal contact are in thermal equilibrium when there is no net energy transfer between them, so they are at the same temperature.
+
+**What is internal energy?**
+Internal energy is the sum of the randomly distributed kinetic and potential energies of the molecules in a system. The kinetic energy or gravitational potential energy of the whole object is not included.
+
+**Why does temperature stay constant when a substance melts?**
+Energy is still supplied, but it increases the potential energy of the molecules as they are pulled apart, not their average kinetic energy. So the internal energy rises while the temperature stays constant.
+
+**Which sections of OCR A Level Physics A cover temperature and specific heat capacity?**
+They are sections 5.1.1 (Temperature), 5.1.2 (Solid, liquid and gas) and 5.1.3 (Thermal properties of materials) of OCR H556. Ideal gases are in section 5.1.4.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), specification Version 3.0 (March 2026), first assessment 2017, published by OCR: sections 5.1.1, 5.1.2 and 5.1.3.

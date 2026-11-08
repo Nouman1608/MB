@@ -121,6 +121,20 @@ Links: [OCR A Level Physics hub](/boards/ocr/a-level/physics/), [printable check
 - Saying absorbed photons "disappear" instead of being re-emitted in random directions.
 - Stating an element from one matching line without checking the others.
 
+## Frequently asked questions
+
+**What are the most common mistakes in stellar spectra calculations?**
+Common errors include using lines per metre as d instead of its reciprocal, using degrees Celsius in Wien's or Stefan's law, and leaving energy in eV when using h and c. Forgetting the final square root when rearranging Stefan's law for r also loses marks.
+
+**How do you find the highest order from a diffraction grating?**
+Use n ≤ d/λ and round down to a whole number. The total number of maxima is 2n + 1, counting both sides and the central maximum.
+
+**How do you find the angle of a second order maximum?**
+Take the inverse sine of 2λ/d. Doubling the first order angle is a common mistake.
+
+**How much evidence do you need to identify an element in a star?**
+Check that a full set of the element's lines appears at the right wavelengths. A single matching line is weak evidence, because it may match more than one element.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-stellar-spectra-wiens-law-stefans-law-and-stellar-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-stellar-spectra-wiens-law-stefans-law-and-stellar/).

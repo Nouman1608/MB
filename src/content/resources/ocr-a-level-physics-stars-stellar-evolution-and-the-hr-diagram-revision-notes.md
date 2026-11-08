@@ -192,6 +192,20 @@ Evolution tracks: Sun-like star, main sequence to red giant region to white dwar
 - Writing that a black hole "sucks in" everything, instead of saying that escape is impossible from inside the event horizon.
 - Giving a density answer to too many significant figures when the data has two.
 
+## Frequently asked questions
+
+**What is the Chandrasekhar limit?**
+The Chandrasekhar limit is the maximum mass of a stable white dwarf, about 1.4 solar masses. Above it, electron degeneracy pressure cannot balance gravity.
+
+**What holds up a white dwarf?**
+A white dwarf is supported by electron degeneracy pressure, which comes from the Pauli exclusion principle preventing electrons occupying the same quantum state. No fusion takes place in a white dwarf.
+
+**What will the Sun become at the end of its life?**
+The Sun will become a red giant, lose its outer layers as a planetary nebula and leave a white dwarf. It does not have enough mass to become a supernova.
+
+**Which section of OCR A Level Physics A covers stars and the HR diagram?**
+It is section 5.5.1 (Stars), outcomes (a) to (g), of OCR H556. Stellar spectra, Wien's law and Stefan's law are in 5.5.2, and cosmology is in 5.5.3.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Physics A (H556), Version 3.0 (March 2026), first assessment 2017, published by OCR. Section 5.5.1, outcomes (a) to (g).

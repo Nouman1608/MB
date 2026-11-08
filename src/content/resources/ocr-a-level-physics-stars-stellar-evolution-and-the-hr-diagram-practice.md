@@ -138,6 +138,20 @@ Data: c = 3.00 × 10⁸ m s⁻¹; G = 6.67 × 10⁻¹¹ N m² kg⁻²; 1 solar m
 - Using only one of gas pressure and radiation pressure.
 - Failing to compare an escape velocity with c.
 
+## Frequently asked questions
+
+**What are the most common mistakes in stellar evolution questions?**
+Common errors include saying a white dwarf is held up by fusion, describing a planetary nebula as made of planets, and reading the HR diagram temperature axis the wrong way round. Not converting km to m before calculating density or escape velocity also loses marks.
+
+**How do you explain why a main sequence star is stable?**
+Say that gravity acts inwards and is balanced by outward gas pressure and radiation pressure from fusion. Mentioning only one of gas pressure and radiation pressure loses marks.
+
+**What must you include when explaining why a massive star's core collapses?**
+Explain that fusion up to iron releases energy but fusing iron does not, so the core stops producing energy and, being above the Chandrasekhar limit, cannot be supported by electron degeneracy pressure. Omitting the reason for the collapse is a common error.
+
+**How do you show that an object is a black hole from a calculation?**
+Calculate the escape velocity and compare it with the speed of light. If the escape velocity at a radius equals or exceeds c, not even light can escape from inside it.
+
 ## Next steps
 
 - [Revision notes](/resources/ocr-a-level-physics-stars-stellar-evolution-and-the-hr-diagram-revision-notes/)
