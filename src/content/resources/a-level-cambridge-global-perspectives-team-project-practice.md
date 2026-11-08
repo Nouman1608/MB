@@ -13,7 +13,7 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-3-team-project-9239"
-description: "Original exam-technique practice questions with full worked answers on Component 3's format, requirements and mark allocation for Cambridge International AS & A Level Global Perspectives & Research (9239)."
+description: "Practice questions with worked answers on the format, rules and 40-mark allocation of the Team Project in Cambridge AS & A Level Global Perspectives 9239."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -29,7 +29,7 @@ featured: false
 > developed by each candidate's own team. Use these alongside the official
 > syllabus and your teacher's guidance.
 >
-> **Coverage note:** this resource covers Components 1-3 (the AS Level). Component 4, the
+> **Coverage note:** this page covers Component 3 (the Team Project), part of the AS Level. Component 4, the
 > Cambridge Research Report (85 marks, A Level only), has its own pages:
 > [study guide](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report/),
 > [revision notes](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report-revision-notes/) and

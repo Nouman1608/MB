@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Condensed recall notes on rock formation, the rock cycle, permeability, ores, surface, subsurface and biological extraction, impacts and sustainable management for the 2027-2029 Cambridge O Level Environmental Management 5014 syllabus."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: expanded thin page with a benefits and limitations table for the landscape management strategies (1.2.6) and an FAQ; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-21
 featured: false
@@ -96,7 +98,18 @@ infrastructure.
 - **Repurposing land** — landfill, lakes, recreation, nature reserves.
 
 For each, have one benefit and one limitation ready (1.2.6 says
-"discuss the benefits and limitations").
+"discuss the benefits and limitations"):
+
+| Strategy | Benefit | Limitation |
+|---|---|---|
+| Replacement of overburden | Refills the pit and restores the land surface | Costly to store and move; soil structure is damaged |
+| Soil improvement | Adding fertiliser or organic matter lets plants grow again | Takes years and ongoing cost |
+| Bioremediation | Plants or microorganisms break down or absorb pollutants cheaply | Slow; works only for some pollutants |
+| Tree planting | Stabilises soil, restores habitat and improves the view | Trees take decades to mature |
+| Landfill | Fills the hole and earns income | Risk of leachate polluting ground water; methane |
+| Lakes | Flooded pits become water stores or habitats | Steep sides can be dangerous; water may be polluted |
+| Recreation | Provides parks, sports or tourist sites and jobs | Needs investment and upkeep |
+| Nature reserves | Creates new habitats and raises biodiversity | Little income for the local economy |
 
 ## 1.3 Sustainable management of rocks, ores and minerals
 
@@ -123,6 +136,14 @@ cost more or be finite too.
 - Mixing up the two lists in 1.2.5: restoration returns the land towards
   its earlier state; repurposing gives it a new use.
 - Giving benefits without limitations in a "discuss" answer.
+
+## Frequently asked questions
+
+**Which rocks are permeable in 5014?** Most sedimentary rocks, limestone and sandstone, are permeable. Igneous rocks, metamorphic rocks and some sedimentary rocks such as shale are impermeable.
+
+**What is the difference between phytomining and bioleaching?** Phytomining uses plants that absorb metal compounds from the soil; the plants are harvested and burned and the metal is recovered from the ash. Bioleaching uses bacteria to release metal compounds from low-grade ore into a solution.
+
+**Why does ore grade matter?** A higher grade means more metal in each tonne of rock, so less rock has to be mined, moved and processed for the same amount of metal, which lowers cost and reduces waste.
 
 ## Self-test
 

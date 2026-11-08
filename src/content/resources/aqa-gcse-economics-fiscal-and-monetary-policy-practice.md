@@ -100,6 +100,16 @@ These questions cover **sections 3.2.3.1 Fiscal policy and 3.2.3.2 Monetary poli
 - Stopping a chain of reasoning one step short, for example "spending falls" with no link to prices or jobs.
 - Ignoring the data or context in a 9-mark question.
 
+## Frequently asked questions
+
+**What is the difference between fiscal and monetary policy?** Fiscal policy is the government's use of its own spending and taxation, decided by the government through the budget. Monetary policy is the use of interest rates (and the money supply) to influence the economy; in the UK the Bank of England sets the interest rate.
+
+**How do I work out a budget balance?** Subtract government spending from government revenue. A positive answer is a budget surplus, a negative answer is a budget deficit, and zero is a balanced budget. Always state which it is.
+
+**What is the UK's inflation target?** The government sets the Bank of England an inflation target of 2%, measured by the Consumer Price Index (CPI). If inflation is above target, the Bank may raise interest rates; if it is below target and the economy is weak, it may cut them.
+
+**How should I structure a 9-mark evaluate question?** Explain how each policy would work, using the data in the question, give at least one limitation of each, and finish with a justified judgement that answers the question set.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-fiscal-and-monetary-policy-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-fiscal-and-monetary-policy/).

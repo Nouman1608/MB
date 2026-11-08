@@ -13,7 +13,7 @@ order: 46
 syllabusTopics:
   - qualification: "igcse"
     topic: "education-for-all-0457"
-description: "Condensed 0457 notes on Education for all: key terms, source-evaluation checks, an assess-actions plan, a self-test and where marks slip."
+description: "Condensed Cambridge IGCSE Global Perspectives 0457 notes on Education for all: key terms, source checks, an assess-actions plan, a self-test and common slips."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"

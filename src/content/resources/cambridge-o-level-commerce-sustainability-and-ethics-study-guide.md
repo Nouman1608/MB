@@ -12,100 +12,118 @@ order: 6
 syllabusTopics:
   - qualification: "o-level"
     topic: "sustainability-and-ethics-7100"
-description: "Sustainable and ethical behaviour in business, its costs and benefits, and simple payback and cost calculations, for Cambridge O Level Commerce Topic 6."
+description: "The nine sustainability actions, ethics, fair trade and consumer protection explained with a worked example for Cambridge O Level Commerce 7100 Topic 6."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Topic 6 has no subtopic list on file, so check how the 2026-2028 syllabus divides sustainability from ethics and which named examples it expects."
+reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 6.1-6.3 (purpose of sustainability, the nine named actions, ethics and fair trade, consumer protection); removed payback calculation not in the syllabus and added the missing consumer protection section; please review."
 publishedDate: 2026-11-08
 featured: false
 ---
 
-A business can be legal and profitable and still cause harm, by polluting a river, using up scarce resources or paying very low wages. Customers, governments and employees increasingly expect firms to think beyond profit. This guide for Cambridge O Level Commerce explains **sustainability**, which is about protecting resources and the environment so that they last, and **ethics**, which is about behaving fairly and honestly. It also shows how to weigh the costs against the benefits when a business changes its behaviour.
+Topic 6 of the Cambridge O Level Commerce (7100) syllabus looks at how sustainability, ethics and consumer protection affect commercial activity. It has three sections: **6.1 Sustainability** (its purpose in the supply chain and nine named actions to improve it), **6.2 Ethics** (the meaning of ethics, the role of fair trade, and two ethical issues: misleading advertising and harmful disposal of products) and **6.3 Consumer protection** (why consumers need protection and how buyers and sellers resolve complaints). Examiners expect you to apply these ideas to a business scenario and weigh the benefits against the costs.
 
-## Where this fits in the specification
+## Where does Topic 6 fit in the syllabus?
 
-Topic 6 is the final topic of Cambridge O Level Commerce 7100 and links to earlier work. Long supply chains from international trade, the fuel used in [Logistics in commerce](/resources/cambridge-o-level-commerce-logistics-in-commerce-study-guide/) and the claims made in advertising within [Aids to trade that support commerce](/resources/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide/) all raise sustainability and ethical questions. Examination questions usually give a business decision and ask for effects on stakeholders or a reasoned judgement.
+Topic 6 is the final topic. It draws on the rest of the course: sustainable logistics builds on [Topic 4, Logistics in commerce](/resources/cambridge-o-level-commerce-logistics-in-commerce-study-guide/), misleading advertising builds on advertising in [Topic 5, Aids to trade that support commerce](/resources/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide/), and ethical risks in the global supply chain link back to Topic 3. Questions often ask you to explain an action and then judge whether it is worth the cost for the business described.
 
-## What sustainability means
+## Syllabus coverage (7100, 2026-2028)
 
-A sustainable approach meets today's needs without reducing what is available to future generations. Three strands are often used.
+| Section | What you must know |
+|---|---|
+| 6.1.1 Purpose of sustainability | Making commercial processes eco-friendly and environmentally responsible for future generations |
+| 6.1.2 Actions to improve sustainability | Sustainable materials, sustainable logistics, reducing packaging, eco-friendly products, recycling and reducing waste, reducing returns and exchanges, digital resale marketplaces, free repair services, water stewardship |
+| 6.2.1 Ethics | The meaning of ethics; the role of fair trade; misleading advertising and harmful disposal of products |
+| 6.3 Consumer protection | Reasons for consumer protection; actions taken by buyers and sellers to resolve complaints |
 
-- **Environmental sustainability** concerns the use of natural resources and the effect on air, water, land and wildlife. A business can reduce waste, reuse and recycle, cut energy use, switch to renewable energy, avoid overpackaging, choose lower-emission transport, and buy materials from managed forests or farms.
-- **Social sustainability** means that people connected to the business, such as staff, suppliers' workers and the local community, are treated fairly and have safe, stable livelihoods.
-- **Economic sustainability** means that the business earns enough to continue and to keep employing people, and avoids short-term decisions that damage its future.
+## What is the purpose of sustainability in the supply chain? (6.1.1)
 
-Examples in commerce include shops that charge for plastic bags, manufacturers who collect used products for recycling, and businesses that measure and cut their **carbon footprint**, meaning the greenhouse gases produced by their activities.
+The syllabus defines the purpose of sustainability in the supply chain as **making commercial processes eco-friendly and environmentally responsible for future generations**. Every stage of the supply chain uses resources and creates waste: extracting raw materials, manufacturing, packaging, transporting, selling and, at the end, disposing of the product. A sustainable business tries to meet customers' needs today without using up resources or damaging the environment in ways that leave future generations worse off.
 
-## Ethical behaviour
+Businesses have commercial reasons to act, as well as moral ones. Many customers prefer to buy from responsible firms, using less energy and material cuts costs, governments increasingly regulate waste and emissions, and investors and lenders look at environmental records.
 
-An **ethical** business tries to do what is right and fair, even if it is not required by law. Typical issues are:
+## Which actions improve sustainability? (6.1.2)
 
-- **Employment**: avoiding child labour and forced labour, offering reasonable pay and hours, and ensuring safe conditions, including in factories of overseas suppliers.
-- **Ethical sourcing and fair trade**: buying from suppliers that treat their workers well and, in fair trade schemes, paying producers a guaranteed fair price.
-- **Honest advertising and selling**: not making false claims, being clear about prices and safety, and not pressuring vulnerable customers.
-- **Customers' data and safety**: keeping personal information private and selling safe products.
-- **Fair dealing**: paying suppliers on time and not offering or accepting bribes.
+The syllabus names nine actions. Learn each with an example, a benefit and a drawback.
 
-The people and groups affected by a business are its **stakeholders**: owners, managers, employees, customers, suppliers, lenders, the community and the government. Ethical decisions weigh effects on all of them and not only on shareholders.
+| Action | Example | Benefit | Drawback |
+|---|---|---|---|
+| Using sustainable materials in production | Recycled cotton, certified timber, recycled plastic | Fewer resources used; appeals to eco-conscious customers | Often more expensive; supply may be limited |
+| Implementing sustainable logistics | Electric vans, fuller loads, better route planning | Lower fuel use and emissions; lower running costs over time | High cost of new vehicles and software |
+| Reducing packaging | Refill stations, minimal or reusable packaging | Lower material and waste costs | Products may be less protected in transit |
+| Selling eco-friendly products | Biodegradable cleaning products, energy-efficient appliances | Opens a new market segment | Higher prices may put off some buyers |
+| Recycling and reducing waste | Reusing offcuts, recycling cardboard | Lower disposal costs; less landfill | Sorting and collection take time and money |
+| Reducing the need for returns and exchanges | Accurate size guides, clear photos and descriptions online | Fewer delivery journeys and less wasted stock | Better product information costs money to produce |
+| Offering digital resale marketplaces | An online platform where customers resell used items | Products stay in use longer; builds customer loyalty | Platform costs; may reduce sales of new items |
+| Offering free repair services | Repairing clothing, phones or furniture | Longer product life; strong reputation | Staff and parts cost money; fewer repeat purchases |
+| Water stewardship | Reducing, reusing and treating water used in production | Lower water bills; protects local water supplies | Treatment equipment is expensive |
 
-## Why businesses choose responsible behaviour
+## What does ethics mean in commerce? (6.2.1)
 
-- **Image and customer loyalty**: customers who value fairness and the environment may choose such a brand repeatedly.
-- **Cost savings**: efficient energy use and less waste mean lower bills over time.
-- **Recruitment and motivation**: employees often prefer to work for a business they respect and stay longer.
-- **Meeting the law**: environmental, safety and employment laws set minimum standards, and penalties for breaking them can be high.
-- **Avoiding damage to reputation**: complaints about pollution or poor working conditions can spread quickly and reduce sales.
+**Ethics** are moral principles about what is right and wrong. In commerce, ethical behaviour means acting fairly towards customers, workers, suppliers, the community and the environment, often going further than the law requires. Something can be legal and still unethical.
 
-## Costs and limits
+**Fair trade** is a system in which producers in lower-income countries are paid a fair and stable price for products such as coffee, cocoa, tea and bananas, and work in decent conditions. Buyers often pay an extra premium that the producers' community spends on projects such as schools or clean water. Its **role in commerce** is to protect small producers from very low or unstable world prices, to give consumers an ethical choice, and to strengthen the reputation of retailers that stock fair trade goods. The drawback for the retailer is a higher buying price, which may mean higher shop prices.
 
-Responsible behaviour often costs money. Ethical suppliers may charge more, renewable equipment has to be bought, and staff must be trained. These costs can force prices up or profits down, and a competitor that ignores the issues may offer cheaper goods. Small businesses with little spare cash may find change harder than large ones. Another difficulty is that claims can be exaggerated: describing a product as "green" without evidence is misleading and undermines the trust that the claim was meant to win.
+The syllabus names two **ethical issues**:
 
-A good evaluation compares short-term costs with long-term benefits and considers the size of the business, the attitude of its customers and the strength of competition.
+- **Misleading advertising**: claims that are false or exaggerated, hidden charges, or images that make a product look better than it is. It may win sales in the short term but damages trust, leads to complaints and can result in legal action and fines.
+- **Harmful disposal of products**: dumping waste, unsafe disposal of chemicals or old electronics, or sending waste to places that cannot treat it safely. It may be cheaper, and is sometimes legal, but it harms the environment and the health of people living nearby.
 
-## Worked example 1: payback on solar panels
+## Why do consumers need protection? (6.3)
 
-A garment warehouse spends $18,000 installing solar panels. They reduce its electricity bills by $3,000 each year.
+Consumers need protection because:
 
-Step 1: payback period = cost / yearly saving = 18,000 / 3,000 = 6 years.
-Step 2: if the panels last for 15 years, total savings = 3,000 x 15 = $45,000.
-Step 3: net gain over the panels' life = 45,000 - 18,000 = $27,000.
-Step 4: yearly return as a percentage of the cost = 3,000 / 18,000 x 100 = 16.7% (to one decimal place).
+- sellers usually know far more about a product than buyers do;
+- goods may be unsafe, faulty or not as described;
+- consumers can be misled by advertising, labelling or pricing;
+- an individual consumer has much less money and power than a large business if a dispute arises;
+- online buyers cannot inspect goods before paying.
 
-The warehouse also reduces its emissions, so the decision has both a financial and an environmental benefit, although the owners must be able to fund the $18,000 up front and the savings are estimates that depend on future electricity prices.
+## How are consumer complaints resolved? (6.3)
 
-## Worked example 2: ethical sourcing
+| Actions taken by the buyer | Actions taken by the seller |
+|---|---|
+| Keep the receipt and evidence of the problem, such as photos | Listen to the complaint politely and record the details |
+| Complain to the seller first, calmly and in writing if needed | Offer a repair, replacement or refund, as appropriate |
+| Escalate to the manager or the head office | Apologise and offer goodwill, such as a voucher |
+| Contact a consumer protection organisation or the relevant regulator | Investigate the cause and put it right so it does not happen again |
+| Take legal action, for example through a small claims court, as a last resort | Train staff to handle complaints well |
 
-A clothing retailer buys 5,000 shirts at $6.00 each from a factory with poor conditions. A different factory with fair wages and safety checks charges $6.90.
+For the seller, dealing quickly and fairly with complaints protects its reputation and keeps customers loyal; a complaint handled badly can spread quickly on social media.
 
-Step 1: current cost = 5,000 x 6.00 = $30,000.
-Step 2: new cost = 5,000 x 6.90 = $34,500.
-Step 3: extra cost = 34,500 - 30,000 = $4,500.
-Step 4: extra per shirt = 6.90 - 6.00 = $0.90, which is 0.90 / 6.00 x 100 = 15% more.
+## Worked example: applying Topic 6 to a business
 
-The retailer could raise the selling price by $0.90 per shirt to recover the cost, accept a lower profit, or look for savings elsewhere. It must decide whether customers will accept a price change and whether the better reputation is worth the cost.
+*An online clothing retailer finds that 30% of its orders are returned, mostly because the clothes do not fit. It also receives complaints that a jacket advertised as "100% waterproof" lets in rain.*
 
-## Common mistakes
+- **Sustainability problem**: every return means another delivery journey and some returned items cannot be resold, so emissions and waste rise.
+- **Actions**: reduce returns with accurate size guides and clear photos; offer a digital resale marketplace for items that do not fit; use reusable packaging for returns.
+- **Ethical issue**: the "100% waterproof" claim is misleading advertising. The retailer should correct the advert and stop the claim.
+- **Consumer protection**: customers with faulty jackets should be offered a refund or replacement; the retailer should record the complaints and fix the problem with the supplier.
+- **Evaluation**: these actions cost time and money, but cutting returns saves delivery costs, and honest advertising protects the retailer's reputation, so they are likely to be worthwhile.
 
-- Treating sustainability as a purely environmental idea.
-- Claiming that ethical behaviour always raises profit. It may cost more at first.
-- Writing general comments about "helping the world" without connecting them to a business effect on costs, sales or reputation.
-- Mixing up what is legal with what is ethical.
-- Forgetting that stakeholders include employees, suppliers and the community as well as customers.
+## What are the common mistakes in Topic 6?
 
-## Exam technique
+- Defining sustainability as "being green" without mentioning future generations.
+- Treating ethics as the same as the law; ethical behaviour often goes beyond legal requirements.
+- Saying fair trade means cheap prices: it means a fair price for the producer.
+- Describing consumer protection without saying what the buyer or the seller actually does.
+- Giving only benefits of a sustainable action when the question asks you to evaluate.
 
-- **Explain** needs a clear chain: action, effect, result for the business or stakeholder.
-- **Discuss** and **evaluate** need advantages and disadvantages followed by a decision for the business described.
-- Make use of numbers and facts in the scenario, such as the size of the firm or the type of customer.
-- Show your working in calculations and include units, such as years, tonnes or dollars.
+## Frequently asked questions
 
-## Check your understanding
+**What is the purpose of sustainability in the supply chain?** To make commercial processes eco-friendly and environmentally responsible for future generations.
 
-1. What does environmental sustainability involve? Answer: using resources and treating the environment so that they last, for example reducing waste and pollution and saving energy.
-2. Give two examples of unethical behaviour by a business. Answer: any two of child labour, very low pay or unsafe conditions, misleading advertising, bribery, misuse of customer data.
-3. What is a stakeholder? Answer: any person or group affected by, or with an interest in, a business, such as employees, customers or the community.
-4. A machine costs $9,000 and saves $1,500 a year in energy. What is the payback period? Answer: 9,000 / 1,500 = 6 years.
-5. State one benefit and one cost of ethical sourcing. Answer: benefit, better reputation or loyal customers; cost, higher purchase prices.
-6. A firm buys 2,000 items at $4.00 and could buy ethical items at $4.50. What is the extra cost? Answer: 2,000 x 0.50 = $1,000.
-7. Why might a small business find sustainable change harder than a large one? Answer: it usually has less money to pay the up-front costs and less power to negotiate prices.
+**How does fair trade help commerce?** It gives producers a fair, stable income, gives consumers an ethical choice and can improve the reputation and sales of the businesses that stock fair trade goods.
+
+**Is misleading advertising an ethics issue or a consumer protection issue?** In the syllabus, misleading advertising is listed as an ethical issue (6.2), while the steps buyers and sellers take to resolve complaints belong to consumer protection (6.3). In an answer you can link the two.
+
+**What should a customer do first with a faulty product?** Go back to the seller with the receipt and evidence, and ask for a repair, replacement or refund before escalating the complaint.
+
+## Where can I practise?
+
+Revise with the [sustainability and ethics revision notes](/resources/o-level-commerce-sustainability-and-ethics-revision-notes/), then try the [sustainability and ethics practice questions](/resources/o-level-commerce-sustainability-and-ethics-practice/).
+
+## Official syllabus
+
+Cambridge O Level Commerce (7100) syllabus for 2026, 2027 and 2028, Topic 6 Sustainability and ethics —
+[official syllabus PDF](https://www.cambridgeinternational.org/Images/693604-2026-2028-syllabus.pdf).

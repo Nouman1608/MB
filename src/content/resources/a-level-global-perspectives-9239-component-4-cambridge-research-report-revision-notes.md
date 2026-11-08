@@ -14,7 +14,7 @@ order: 62
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-4-cambridge-research-report-9239"
-description: "Condensed notes on the 9239 Research Report: rules, key terms, methods at a glance, log and proposal, a report plan and a quick self-test."
+description: "Condensed notes on the 9239 Cambridge Research Report: rules, key terms, research methods, the log and proposal, a report plan and a quick self-test."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"

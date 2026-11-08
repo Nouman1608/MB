@@ -7,7 +7,7 @@ topic: "Agriculture and the environment"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["5014"]
-syllabusSeries: "For examination in 2025-2026"
+syllabusSeries: "2025-2026"
 order: 3
 syllabusTopics:
   - qualification: "o-level"

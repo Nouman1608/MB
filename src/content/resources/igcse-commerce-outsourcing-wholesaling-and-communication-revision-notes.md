@@ -23,7 +23,7 @@ description: "Recall notes on outsourcing growth, wholesaler functions and survi
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check examples against the 0715 syllabus for 2028 and examiner guidance before review."
+reviewNote: "Check examples against the 0715 syllabus for 2028 and examiner guidance before review. 2026-11-08 recheck: added FAQ section to expand a thin page."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -109,6 +109,16 @@ Apply them: an urgent order change → telephone; a signed contract → letter o
 - Confusing a voluntary chain with a multiple chain store.
 - Mixing up types (written, oral, electronic, visual) with methods (letter, email and so on).
 - Recommending a method without linking it to the factors in the scenario.
+
+## Frequently asked questions
+
+**Is outsourcing the same as buying from a wholesaler?** No. Outsourcing means paying another firm to carry out an activity the business could do itself, such as making the product (contract manufacturing) or storing and delivering it (contract logistics). A wholesaler is an intermediary that buys goods in bulk from manufacturers and sells them in smaller quantities to retailers.
+
+**Why might a manufacturer sell direct and cut out the wholesaler?** Large retail chains buy in bulk, have their own regional distribution centres and can deal directly with manufacturers, and online selling lets manufacturers reach customers directly. The wholesaler still survives where retailers are small and need to buy small quantities, through cash and carry and voluntary chains.
+
+**What is the difference between a type and a method of communication?** The type is the form the message takes: written, oral, electronic or visual. The method is the channel used to send it, such as a letter, a telephone call, an email or a poster. One method can belong to more than one type; an email is both written and electronic.
+
+**Which communication factor matters most?** It depends on the scenario. Read the question for clues: "immediately" points to urgency, "confidential" to security, "overseas" to distance, and "small business" to cost. The best answers name the factor and link it to the method chosen.
 
 ## Self-test
 

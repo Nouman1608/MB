@@ -23,7 +23,7 @@ description: "Recall notes on outsourcing growth, what wholesalers do for manufa
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check examples against the 7100 syllabus for 2026-2028 and examiner guidance before review."
+reviewNote: "Check examples against the 7100 syllabus for 2026-2028 and examiner guidance before review. 2026-11-08 recheck: added FAQ section to expand a thin page."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -111,6 +111,16 @@ WHOLESALER    -- breaking bulk, range, credit, delivery, advice,
 - Confusing a voluntary chain with a franchise or a chain store.
 - Calling email a "type" — it is a method; the type is electronic.
 - Choosing a method without a factor from the syllabus to justify it.
+
+## Frequently asked questions
+
+**Is outsourcing the same as buying from a wholesaler?** No. Outsourcing means paying another firm to carry out an activity the business could do itself, such as making the product (contract manufacturing) or storing and delivering it (contract logistics). A wholesaler is an intermediary that buys goods in bulk from manufacturers and sells them in smaller quantities to retailers.
+
+**Why might a manufacturer sell direct and cut out the wholesaler?** Large retail chains buy in bulk, have their own regional distribution centres and can deal directly with manufacturers, and online selling lets manufacturers reach customers directly. The wholesaler still survives where retailers are small and need to buy small quantities, through cash and carry and voluntary chains.
+
+**What is the difference between a type and a method of communication?** The type is the form the message takes: written, oral, electronic or visual. The method is the channel used to send it, such as a letter, a telephone call, an email or a poster. One method can belong to more than one type; an email is both written and electronic.
+
+**Which communication factor matters most?** It depends on the scenario. Read the question for clues: "immediately" points to urgency, "confidential" to security, "overseas" to distance, and "small business" to cost. The best answers name the factor and link it to the method chosen.
 
 ## Self-test
 

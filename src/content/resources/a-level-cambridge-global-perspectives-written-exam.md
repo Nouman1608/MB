@@ -13,7 +13,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-1-written-exam-9239"
-description: "How the source-based Written Exam works within Cambridge International AS & A Level Global Perspectives & Research (9239), a syllabus built around the Critical Path approach to research and reasoning."
+description: "How the 45-mark, source-based Written Exam works in Cambridge AS & A Level Global Perspectives & Research 9239, built around the Critical Path approach."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"

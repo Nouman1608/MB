@@ -151,7 +151,7 @@ The timber supplier now allows Millbrook to pay one month after delivery, starti
 - Review the [revision notes](/resources/o-level-business-cash-flow-forecasting-and-working-capital-revision-notes/).
 - Reread the [study guide](/resources/o-level-business-cash-flow-forecasting-and-working-capital/).
 - Go back to the [course hub](/boards/cambridge/o-level/business/) and tick off the [checklist](/checklists/cambridge/o-level/business/).
-- Take one of the [all free 10-minute diagnostics](/diagnostics/).
+- Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
 ## Official syllabus

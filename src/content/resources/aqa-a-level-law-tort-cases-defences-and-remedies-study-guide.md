@@ -7,8 +7,8 @@ topic: "Tort"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7162"]
-syllabusSeries: "2017-onwards"
-order: 2
+syllabusSeries: "For teaching from September 2017 onwards, A-level exams 2019 onwards"
+order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "tort-7162"

@@ -13,7 +13,7 @@ order: 46
 syllabusTopics:
   - qualification: "igcse"
     topic: "education-for-all-0457"
-description: "Original source-based 0457 questions on Education for all, plus Individual Report and Team Project planning tasks, with marked answers."
+description: "Original source-based questions on Education for all for Cambridge IGCSE Global Perspectives 0457, with marked answers and report and project planning tasks."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"

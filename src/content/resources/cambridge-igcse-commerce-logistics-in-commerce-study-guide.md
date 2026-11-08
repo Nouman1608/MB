@@ -12,120 +12,136 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "logistics-in-commerce-0715"
-description: "How goods are moved and stored: transport methods, choosing between them, warehousing, stock control and delivery, for Cambridge IGCSE Commerce Topic 4."
+description: "Transport functions and methods, choice factors, containerisation, warehouse types and automation explained for Cambridge IGCSE Commerce 0715 Topic 4."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Topic 4 has no subtopic list on file, so check the exact balance between transport, warehousing, packaging and stock control against the 2028 syllabus."
+reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 4.1-4.2 (functions and methods of transport, choice factors, containerisation, warehousing functions, types and automation); removed stock control and reorder levels, which the syllabus does not include; please review."
 publishedDate: 2026-11-08
 featured: false
 ---
 
-Logistics is the planning and management of how goods are moved and stored on their way from producers to the people who finally use them. Commerce is about removing the hindrances of place and time between producer and consumer, and logistics is the practical side of that idea: the right goods, in the right place, at the right time, in the right condition and at an acceptable cost. This guide covers the transport methods a business can choose from, how to choose between them, why goods are stored in warehouses, and how stock is controlled so that a business neither runs out nor ties up money in unsold goods.
+Logistics is the planning and management of how goods are moved and stored on their way from producers to the people who use them. Topic 4 of the Cambridge IGCSE Commerce (0715) syllabus has two sections: **4.1 Transport**, covering the functions of transport, the five methods, the factors that decide the choice and containerisation; and **4.2 Warehousing**, covering the functions and types of warehouse and the use of automation. Exam questions usually give a business situation and ask you to recommend and justify a transport method or a type of warehouse.
 
-## Where this fits in the specification
+## Where does Topic 4 fit in the syllabus?
 
-Topic 4 follows Topic 3, where global supply chains were introduced, and it zooms in on the physical movement and storage inside those chains. It also supports the next topic, [Aids to trade that support commerce](/resources/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide/), because insurance and communication are what make long-distance movement of goods safe and manageable. Questions are usually short structured questions in Paper 2 and multiple-choice items in Paper 1, often set in a business scenario where you must recommend or justify a choice.
+Topic 1 introduced the elements of logistics in a supply chain: transport, freight forwarders and warehousing. Topic 3 showed how global supply chains link suppliers, manufacturers and consumers across countries. Topic 4 looks closely at the two physical activities in those chains, moving goods and storing them. It leads into [Topic 5, Aids to trade that support commerce](/resources/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide/), where insurance protects goods in transit and in storage.
 
-## Methods of transport
+## Syllabus coverage (0715, 2028)
 
-A business can choose from several modes of transport. Each has strengths and weaknesses, and a good answer always links the mode to the goods being carried.
+| Section | What you must know |
+|---|---|
+| 4.1 Transport | The three functions of transport (time, place and quantity); road, rail, air, sea and pipeline; their advantages and disadvantages; the factors affecting choice (nature of goods, urgency, cost, security, distance and reliability of transporter); containerisation and transshipment |
+| 4.2 Warehousing | The functions of warehousing (links with seasonal production and demand, protecting supply, price stability, logistics postponement); bonded, cold storage, cash and carry and regional distribution centre (RDC) warehouses; robotics, automated sorting and voice picking; the benefits of automation |
 
-| Mode | Strengths | Weaknesses |
-|---|---|---|
-| Road | Door-to-door service, flexible routes and timing, suitable for short and medium distances | Traffic delays, limited load size, fuel and driver costs, weather and congestion |
-| Rail | Carries heavy and bulky loads cheaply over long land distances, fewer delays from traffic | Fixed routes and timetables, usually needs road transport at each end |
-| Sea | Very low cost per tonne for bulk and containerised cargo, huge capacity | Slow, ports needed, weather delays, risk of damage or loss |
-| Air | Fastest over long distances, good for perishable, urgent or high-value goods | Most expensive, limited capacity, airports needed, limited for heavy goods |
-| Pipeline | Continuous, low running cost for oil, gas and water | Only suits liquids and gases, very high set-up cost, fixed route |
+## What does transport do in the supply chain? (4.1)
 
-Many journeys combine modes. A manufacturer might send goods by road to a port, by sea to another country and by rail inland. Containers make this easier, because the same sealed box can be lifted between lorry, train and ship without unpacking the goods, which reduces handling, damage and theft.
+Production and consumption usually happen in different places, so goods must be moved. The syllabus names three **functions of transport**:
 
-## Choosing a method of transport
+- **Time**: goods arrive when they are needed, for example fresh fruit reaching a market before it spoils or toys reaching shops before a festival.
+- **Place**: goods are moved from where they are produced to where they are bought, such as copper from a mine to a port or clothes from a factory to a shop.
+- **Quantity**: the right amount arrives, so the business neither runs short nor holds far more than it needs.
 
-When a question asks you to recommend transport, work through the factors in turn and then reach a judgement.
+## What are the methods of transport and their advantages? (4.1)
 
-- **Cost**: the price per unit moved, including loading, handling and insurance.
-- **Speed**: how quickly the goods must arrive. Perishable goods such as fresh fruit or cut flowers and urgent medical supplies justify faster methods.
-- **Nature of the goods**: size, weight, value, fragility and whether they are hazardous or need refrigeration.
-- **Distance and destination**: whether the destination is reachable by road or rail, or needs a port or airport.
-- **Security and reliability**: the risk of damage, theft or delay, and how dependable the carrier is.
-- **Customer requirements**: the delivery date agreed and any special instructions.
+| Method | Examples named in the syllabus | Advantages | Disadvantages |
+|---|---|---|---|
+| Road | Delivery vans, trucks, couriers | Door-to-door service; flexible routes and times; suits short and medium distances | Congestion and delays; limited load size; pollution; risk of accidents |
+| Rail | Freight trains | Carries heavy, bulky loads cheaply over long land distances; lower emissions per tonne than road | Fixed routes and timetables; usually needs road transport at each end, which adds handling |
+| Air | Freight planes | Fastest over long distances; secure; suits valuable, perishable or urgent goods | Most expensive; limited space and weight; needs airports |
+| Sea | Ferry, tanker, container ship, cargo liner | Cheapest way to carry heavy and bulky goods internationally; very large capacity | Slow; delays at ports and in bad weather; risk of damage or piracy |
+| Pipeline | Oil, gas, water | Continuous flow; low running and labour costs; not affected by traffic | Very high cost to build; carries only liquids and gases; leaks can be hard to find |
 
-The skill is to weigh the factors against each other. Cheap and slow sea freight suits a bulk cargo of tiles that is not needed for weeks, while air freight suits a small consignment of medicine that is needed tomorrow.
+A **tanker** carries liquids such as oil in bulk. A **cargo liner** sails a regular route to a timetable, so traders know when space is available. A **ferry** carries vehicles and goods on short sea crossings. Many journeys combine methods, for example road to a port, sea to another country and rail inland.
 
-## Warehousing
+## How should a business choose a method of transport? (4.1)
 
-A **warehouse** is a building used to store goods until they are needed. Warehousing matters because production and demand rarely match. Crops are harvested in one season and eaten all year, and a factory may produce steadily while sales peak before a festival.
+The syllabus lists six factors. Work through the ones that matter in the scenario, then make a clear recommendation.
 
-The main functions of warehousing are to:
+1. **Nature of goods**: perishable, fragile, bulky, liquid, hazardous or valuable. Fresh flowers need speed; crude oil suits a pipeline or tanker.
+2. **Urgency**: how quickly the goods are needed. Spare parts for a broken machine may justify air freight.
+3. **Cost**: compared with the value of the goods. Air freight is too expensive for cheap, heavy goods such as bricks.
+4. **Security**: the risk of theft or damage. Valuable electronics may go by air or in sealed containers.
+5. **Distance**: local deliveries suit road; long international journeys suit sea or air.
+6. **Reliability of transporter**: the carrier's record of delivering on time and without loss.
 
-- store goods so that supplies are available when customers want them, which smooths out seasonal differences;
-- protect goods from damage, weather and theft;
-- allow goods to be gathered into bulk and later broken into smaller lots (breaking bulk) for retailers;
-- hold goods under special conditions, such as cold storage;
-- hold imported goods in a **bonded warehouse** until customs duty is paid, so the importer does not pay duty until the goods are released for sale;
-- allow goods to be sorted, packaged and labelled ready for dispatch.
+## What is containerisation, and why does it matter? (4.1)
 
-When choosing where to place a warehouse, a business considers the cost and availability of land, access to roads, rail, ports or airports, nearness to suppliers and customers, the supply of labour and the room to expand.
+**Containerisation** means packing goods into standard-sized metal containers that can be lifted by crane between ships, trains and trucks without being unpacked. **Transshipment** is the transfer of containers from one ship or vehicle to another at a hub port on the way to the final destination; large ships carry containers between hubs and smaller feeder ships take them on to smaller ports.
 
-## Stock control and delivery
-
-Holding stock costs money, because it takes up space, may be damaged or go out of date, and the money spent on it cannot be used elsewhere. Holding too little stock risks lost sales and unhappy customers. **Stock control** is the process of keeping the right amount of stock. Useful ideas are:
-
-- **Maximum stock level**: the most a business wants to hold, set by storage space and cash.
-- **Minimum (buffer) stock level**: a safety amount kept in case of delay or a sudden rise in demand.
-- **Reorder level**: the amount at which a new order is placed. It must cover the goods that will be used while waiting for the supplier to deliver, plus the buffer.
-- **Lead time**: the time between placing an order and receiving it.
-- **Just-in-time**: ordering goods so that they arrive only when needed, which cuts storage costs but leaves the business exposed to supplier delays.
-
-Delivery completes the logistics chain. Customers expect accurate tracking, a stated delivery time and goods that arrive undamaged. Good packaging, clear labelling and reliable carriers protect the reputation of the seller.
+| Advantages | Disadvantages |
+|---|---|
+| Loading and unloading are much faster | Containers, cranes and container ports are very expensive |
+| Sealed containers reduce theft and damage | Smaller ports cannot handle large container ships |
+| Lower labour and insurance costs | Empty containers have to be returned, which costs money |
+| Easy transfer between road, rail and sea | Not suitable for every cargo, for example some bulk liquids |
 
 ## Worked example 1: choosing a transport method
 
-A furniture maker has an order of 4,000 kg of flat-packed chairs to send 600 km inland. Three quotations are received.
+A flower grower in Kenya sells fresh roses to a wholesaler in the Netherlands for a festival in five days.
 
-- Road, door to door: $2,350, taking 2 days.
-- Rail: $1,760 for the rail journey, plus $240 for road collection and delivery to and from the stations, taking 4 days.
-- Air freight to the nearest airport and onward delivery: $5,200, taking 1 day.
+- Nature of goods: perishable and fragile, so they need speed and refrigeration.
+- Urgency: high; the roses must arrive before the festival.
+- Distance: long and international, which rules out road and rail.
+- Cost: air freight is the most expensive method, but roses are high in value for their weight.
+- **Recommendation: refrigerated air freight.** Sea would be far cheaper, but the journey would take weeks and the flowers would be worthless on arrival.
 
-Step 1: total cost by rail = 1,760 + 240 = $2,000.
-Step 2: saving by rail compared with road = 2,350 - 2,000 = $350.
-Step 3: rail cost per kilogram = 2,000 / 4,000 = $0.50 per kg.
-Step 4: road cost per kilogram = 2,350 / 4,000 = $0.5875, about $0.59 per kg.
+By contrast, a company sending 20,000 tonnes of iron ore from Australia to China would choose a bulk ship: the ore is heavy, cheap for its weight, not perishable and not urgent.
 
-Judgement: if the customer is not in a hurry, rail is cheapest and saves $350, although it takes two extra days than road. If the customer needs the chairs within a day, air is the only option, but it costs $3,200 more than rail (5,200 - 2,000 = 3,200), which would not be worthwhile for bulky, low-value furniture.
+## Why do businesses use warehouses? (4.2)
 
-## Worked example 2: reorder level
+A **warehouse** stores goods until they are needed. The syllabus names five functions:
 
-A bakery supplier uses 40 sacks of flour per day. The flour supplier takes 6 days to deliver, and the bakery keeps a buffer of 100 sacks.
+| Function | How it helps |
+|---|---|
+| Links with seasonal production | Crops harvested once a year, such as rice, are stored and sold throughout the year |
+| Links with demand | Goods produced steadily all year are stored and released when demand peaks, for example before a festival |
+| Protecting supply | Stock is kept in reserve so that customers are still supplied if a delivery is delayed |
+| Price stability | Releasing stored goods steadily avoids sharp rises in price when supply is short and falls when supply is plentiful |
+| Logistics postponement | Final steps such as labelling, packing or simple assembly are delayed until orders are known, often at a warehouse near the customer, so stock matches demand |
 
-Step 1: usage during lead time = 40 x 6 = 240 sacks.
-Step 2: reorder level = 240 + 100 = 340 sacks.
+## Which types of warehouse are there? (4.2)
 
-When stock falls to 340 sacks, a new order is placed. If the flour supplier is delayed by 2 days, usage in the extra time is 40 x 2 = 80 sacks, which the 100-sack buffer still covers, so production continues.
+- A **bonded warehouse** stores imported goods on which customs duty has not yet been paid. The importer pays the duty only when the goods are released for sale, which helps cash flow, and pays none if the goods are re-exported.
+- A **cold storage** warehouse is refrigerated or frozen for perishable goods such as meat, fish, dairy products and some medicines.
+- A **cash and carry** warehouse is a self-service wholesaler where small retailers choose goods, pay at once and transport them themselves.
+- A **regional distribution centre (RDC)** is a large warehouse owned by a retail chain. Suppliers deliver full loads to the RDC, which sends mixed loads to the chain's shops in that region.
 
-## Common mistakes
+## How does automation change warehousing? (4.2)
 
-- Giving only a list of transport methods without linking them to the goods or the situation described.
-- Saying that air transport is "best" without noting its cost, or that sea transport is "cheap" without noting its slowness.
-- Mixing up a warehouse (storage) with a retailer or wholesaler (a trader that buys and sells).
-- Forgetting that the reorder level includes the buffer stock as well as the usage during the lead time.
-- Describing only advantages when a question asks you to evaluate or recommend.
+The syllabus names three uses of automation: **robotics** (robots that move shelves and pick items), **automated sorting** (conveyors and scanners that route parcels to the right loading bay) and **voice picking** (workers wear headsets and follow spoken instructions telling them which item to pick from which location). The benefits are lower labour costs, less human error, improved picking accuracy, improved inventory control and improved customer service, because orders are sent faster and correctly. Against this, automation has a high set-up cost, needs skilled technicians and may reduce the number of jobs.
 
-## Exam technique
+## Worked example 2: choosing a warehouse
 
-- **State** or **identify** needs one word or phrase. **Describe** needs a short account of features. **Explain** needs a reason, usually using "because" or "which means that". **Recommend** or **justify** needs a choice backed by reasons and a brief note of why the alternative was rejected.
-- In a scenario question, quote a detail from the case, such as "perishable fruit" or "bulky machinery", and connect your choice to it.
-- For calculations, show each step and include the currency or unit in the answer.
-- Paper 1 has simple calculations too, so be ready to work out totals and differences without a calculator if the numbers are friendly.
+A supermarket chain with 40 stores in one region imports frozen fish and sells imported spirits.
 
-## Check your understanding
+- The frozen fish must stay frozen from the port to the shelf, so it needs **cold storage**.
+- Supplying 40 stores from one hub, rather than having every supplier deliver to every store, points to an **RDC** with a cold-storage section. Fewer, fuller journeys cut transport costs.
+- The spirits attract high customs duty, so holding them in a **bonded warehouse** lets the chain pay the duty only as the spirits are released to stores.
 
-1. State two advantages of rail transport for heavy goods. Answer: it is cheap per tonne over long land distances and it is not held up by road traffic; it can carry very large loads.
-2. Why is air transport suitable for fresh flowers being sent abroad? Answer: they are perishable and need to arrive quickly, and the high value of the goods can justify the high cost.
-3. Give two functions of a warehouse. Answer: storing goods until they are needed and protecting them from damage or theft; also breaking bulk, sorting and packing.
-4. What is a bonded warehouse? Answer: a warehouse where imported goods are held until customs duty is paid.
-5. A firm uses 25 units a day, has a lead time of 4 days and a buffer of 50 units. Calculate the reorder level. Answer: 25 x 4 = 100, plus 50 = 150 units.
-6. Explain one risk of just-in-time ordering. Answer: if a supplier is late, the business has little stock to continue production or sell, so it may lose sales.
-7. Explain one benefit of containers for international trade. Answer: goods can move between ship, train and lorry in the same sealed box without being unpacked, so there is less handling, damage and theft.
+## What are the common mistakes in Topic 4?
+
+- Recommending air freight as "best" without linking it to the nature of the goods or urgency.
+- Forgetting that rail usually needs road transport at each end.
+- Describing containerisation without mentioning standard-sized containers and transfer between methods.
+- Confusing a bonded warehouse (duty not yet paid) with a cash and carry (a wholesaler).
+- Listing automation tools without explaining a benefit.
+
+## Frequently asked questions
+
+**What are the three functions of transport?** Time, place and quantity: transport delivers the right quantity of goods to the right place at the right time.
+
+**What is the difference between containerisation and transshipment?** Containerisation is the use of standard-sized containers. Transshipment is the transfer of those containers between ships or vehicles at a hub on the way to their destination.
+
+**Why do importers use bonded warehouses?** Duty is paid only when the goods leave the warehouse, so the importer delays the payment, or avoids it altogether if the goods are re-exported.
+
+**What is logistics postponement?** Delaying final steps such as labelling or packing until orders are known, so that stock matches what customers actually want.
+
+## Where can I practise?
+
+Revise with the [logistics in commerce revision notes](/resources/igcse-commerce-logistics-in-commerce-revision-notes/), then try the [logistics in commerce practice questions](/resources/igcse-commerce-logistics-in-commerce-practice/).
+
+## Official syllabus
+
+Cambridge IGCSE Commerce (0715) syllabus for 2028, Topic 4 Logistics in commerce —
+[official syllabus PDF](https://www.cambridgeinternational.org/Images/745979-2028-syllabus.pdf).
