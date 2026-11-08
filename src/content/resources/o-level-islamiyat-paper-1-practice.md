@@ -24,10 +24,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-2058"
     subtopic: "first-islamic-community-2058"
-description: "Original practice questions in the real Question 1-5 format, including a set-passage Question 1 printed in Arabic and English, with full worked answers on the Qur'an, the Prophet Muhammad (pbuh) and the first Islamic community for Cambridge O Level Islamiyat 2058."
+description: "Original Cambridge O Level Islamiyat 2058 Paper 1 practice in the real five-question format, with set passages in Arabic and English and worked answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-25
 featured: false
@@ -251,3 +253,14 @@ point for Muslims discussing justice and conduct [2].
   to specific events, named individuals or quotations.
 - Spending too long on Question 1's 8 marks and running short of time
   for the 14-mark questions that follow.
+
+## Frequently asked questions
+
+**How is 2058 Paper 1 structured?**
+Paper 1 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**How are the parts marked?**
+By levels of response: part (a) tests knowledge (AO1) and part (b) understanding (AO2).
+
+**Are these real Cambridge questions?**
+No. They are original questions in the published format and tariffs.

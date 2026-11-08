@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-2058"
     subtopic: "major-themes-quran-2058"
-description: "God in Himself, God's relationship with the created world, and God's Messengers -- Subtopic 1.1, the Major Themes of the Qur'an, given a full deep dive beyond the one-line summary in the site's existing whole-Paper-1 study guide."
+description: "Subtopic 1.1 of Cambridge O Level Islamiyat 2058, Major themes of the Qur'an: God in Himself, God and creation, and God's Messengers, with exam guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
@@ -144,3 +146,14 @@ general knowledge of Qur'anic themes rather than specific reference to the set p
 - Support every thematic identification with a specific reference to the passage's content or wording.
 - Revise how tawhid underlies the other theme categories, since recognising this connection strengthens
   answers across all three.
+
+## Frequently asked questions
+
+**How is subtopic 1.1 examined?**
+By compulsory Question 1: you choose two of three set passages and explain their themes (4 marks) and their importance for Muslims today (4 marks).
+
+**What are the three groups of themes?**
+God in Himself, God's relationship with the created world, and God's Messengers.
+
+**What is tawhid?**
+The oneness of God, the foundation of every other Qur'anic theme.
