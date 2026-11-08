@@ -274,6 +274,20 @@ For compound interest, multiply by (1 + rate) once per year: balance = amount ×
 - Listing financial institutions without saying what each does.
 - Stopping at a one-sided answer to an evaluate question; weigh both sides and reach a supported judgement.
 
+## Frequently asked questions
+
+**How do workers and employers interact in the labour market?**
+Employers offer jobs, pay and conditions, while workers apply, accept, negotiate or look elsewhere. Each side responds to the other's offer, and the wage settles where demand and supply meet.
+
+**Why does money make trade easier than barter?**
+Money is generally accepted in payment, so it avoids the double coincidence of wants that barter needs. It speeds up trade, supports specialisation and makes prices comparable.
+
+**How do you calculate interest over more than one year?**
+If interest is added each year, multiply the starting balance by one plus the interest rate for each year, for example £2,500 × 1.04² at 4% for two years.
+
+**How do interest rates affect a firm's decision to invest?**
+Compare the return on the investment with the interest rate on the loan. If the return is higher than the borrowing cost, the investment is worth making; if a rate rise pushes the cost above the return, it is not.
+
 ## Official syllabus
 
 OCR, Cambridge OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019: topics 2.7 and 2.8.

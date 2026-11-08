@@ -240,6 +240,23 @@ Each school answers the same questions: does the economy self-correct, why do re
 - Treating NAIRU as a target for zero unemployment.
 - Describing each school without evaluating it.
 
+## Frequently asked questions
+
+**What is the adaptive-expectations hypothesis?**
+Under adaptive expectations, people form their expectation of inflation from past inflation, so expected inflation this year equals last year's actual inflation.
+
+**Why is the long-run Phillips curve vertical?**
+If the government holds unemployment below the natural rate, inflation rises above what workers expected. As expectations catch up, the short-run curve shifts up, so inflation keeps accelerating. In the long run unemployment returns to the natural rate at any inflation rate.
+
+**What is the difference between Keynesian and neo-classical views of unemployment?**
+Keynesians argue that if wages do not fall, a drop in aggregate demand can leave unemployment above the natural rate for a long time, so government should support demand. Neo-classical economists argue that flexible wages and prices clear markets, so unemployment is largely natural and demand changes affect only prices in the long run.
+
+**What is the difference between adaptive and rational expectations?**
+Adaptive expectations look only at past inflation, so people repeat forecasting errors. Rational expectations theory says people use all available information, so the Phillips curve may become vertical much faster if policy is credible.
+
+**Does stagflation disprove the Phillips curve?**
+Periods of high inflation together with high unemployment, often after cost shocks such as oil price rises, contradict a simple inverse curve. They are consistent with an expectations-augmented curve that shifts when expectations or supply conditions change.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. Topics: The Phillips Curve; Macroeconomic equilibrium (final bullet).

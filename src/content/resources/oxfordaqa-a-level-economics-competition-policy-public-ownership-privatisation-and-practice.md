@@ -147,6 +147,20 @@ Others: loss of economies of scale; firms relocating; difficulty proving intent.
 - Percentage changes taken on the new value, not the original.
 - Forgetting that remedies and tools each carry their own costs.
 
+## Frequently asked questions
+
+**What is regulatory capture?**
+Regulatory capture is when a regulator ends up serving the industry it oversees rather than the public. It is a drift of the regulator's interest towards the industry, not only corruption.
+
+**How does an inflation-minus-X price cap work?**
+The allowed percentage change in price equals the inflation rate minus the efficiency factor X. Using inflation alone, or X alone, as the allowed change is a common mistake.
+
+**How do you judge whether a fine deters a cartel?**
+Compare the expected fine, the fine multiplied by the probability of detection, with the cartel's total extra profit over the whole period, not a single year's gain.
+
+**Does privatisation always increase competition?**
+No. Privatising a state monopoly can simply create a private monopoly with no rivals to pressure costs, so prices may rise unless a regulator intervenes.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and/).

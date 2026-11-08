@@ -222,6 +222,20 @@ Describe diagrams in words: for example, AD shifts right along a steep SRAS, so 
 - Concluding with a summary instead of a judgement tied to the question.
 - Giving percentages with no working or unit.
 
+## Frequently asked questions
+
+**What is stagflation?**
+Stagflation is rising inflation together with rising unemployment. In the 1970s oil price rises and strong wage claims caused it, which weakened the case for Keynesian demand management.
+
+**What is the difference between adaptive and rational expectations?**
+Adaptive expectations are forecasts based on past outcomes. Rational expectations use all available information, so a credible announced policy can change behaviour sooner.
+
+**What is a policy mix?**
+A policy mix is the use of several policy instruments together, for example combining fiscal, monetary and supply-side measures to reduce the conflicts between macroeconomic objectives.
+
+**Why did macroeconomic policy approaches change over time?**
+The OCR A Level Economics (H460) notes show that each approach was shaped by the problem of its day: mass unemployment favoured demand management, inflation with unemployment favoured control of money, expectations and supply, and a banking collapse brought unusual central bank tools.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. Topics: Policy conflicts; Approaches to policy and macroeconomic context.

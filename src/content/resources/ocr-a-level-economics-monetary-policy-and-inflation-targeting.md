@@ -249,6 +249,23 @@ Independence from government reduces the risk that rates are cut for electoral g
 - Treating a symmetric target as one where only overshoots matter.
 - Ignoring time lags when evaluating.
 
+## Frequently asked questions
+
+**What are the instruments of monetary policy?**
+The OCR A Level Economics (H460) guide covers four: the policy interest rate, the money supply, quantitative easing and the exchange rate. In the UK, the Bank of England's Monetary Policy Committee sets Bank Rate to meet the government's inflation target.
+
+**How does a cut in interest rates affect the economy?**
+Lower rates encourage borrowing and spending by households and firms, and can weaken the currency, which raises net exports. If there is spare capacity, higher aggregate demand raises output and employment; near full capacity it adds to demand-pull inflation.
+
+**Why is monetary policy less effective against cost-push inflation?**
+Higher interest rates reduce aggregate demand but do not fix a supply shock such as higher energy prices. Cutting demand to bring inflation down can therefore lower output as well.
+
+**How does an inflation target affect wage claims?**
+A wage claim tends to reflect expected inflation plus productivity growth. If people believe the central bank will hit its target, expected inflation stays low, so wage claims stay low and stable.
+
+**Does quantitative easing mean printing money for the government?**
+No. Under quantitative easing the central bank creates electronic money and uses it to buy assets, usually government bonds, from financial institutions, not to fund government spending directly.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Macroeconomics: application of policy instruments, Monetary policy.

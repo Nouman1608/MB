@@ -260,6 +260,23 @@ A judgement should be supported by a reason from the context. Often a mix works 
 </figure>
 
 
+## Frequently asked questions
+
+**What is supply side policy?**
+Supply side policy is government action aimed at increasing the productive capacity of the economy, by improving the quantity and quality of resources and how well markets work.
+
+**What is a positive externality?**
+A positive externality is a benefit to a third party, such as a vaccinated person lowering disease risk for others. Markets underproduce goods with positive externalities compared with the level that is best for society.
+
+**What policies can correct externalities?**
+The OCR GCSE Economics (J205) guide covers taxation for negative externalities, subsidies for positive externalities, state provision, legislation and regulation, and information provision.
+
+**Does a tax remove an externality completely?**
+No. A tax reduces output towards the social optimum rather than removing the externality altogether.
+
+**What are the benefits and costs of information campaigns?**
+Information provision is relatively cheap, does not restrict freedom of choice and can change attitudes in the long run. However, results are uncertain and slow, and people may ignore the message.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), specification Version 2.0 (June 2026), first assessment 2019, published by OCR. Sections 3.7 and 3.8.

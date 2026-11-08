@@ -226,6 +226,23 @@ Judge the sector on three questions. Does it mobilise and allocate saving well? 
 - Treating remittances as payment for exports.
 - Listing benefits of microfinance with no judgement about its limits.
 
+## Frequently asked questions
+
+**How does the financial sector promote development?**
+It mobilises saving, allocates funds to productive investment, provides credit to households and small firms, manages risk through insurance and diversification, and provides payment systems and links to foreign finance.
+
+**What is financial exclusion?**
+Financial exclusion means people cannot use formal financial services, for example because they live far from a bank branch, lack identity papers or have no collateral. Many then rely on informal lending at high interest rates.
+
+**What are the limitations of the Harrod-Domar model?**
+It assumes all saving is invested, treats the capital-output ratio as fixed, and ignores skills, institutions and infrastructure, so higher saving alone may not raise growth in a developing economy.
+
+**Are capital inflows always good for an emerging economy?**
+No. Inflows bring finance and technology, but they can also cause currency appreciation, asset bubbles and external debt, and they can reverse sharply, weakening the currency and raising the cost of foreign-currency debt.
+
+**What are the benefits and costs of remittances?**
+Remittances raise household incomes, may fund education, health and small businesses, and support the balance of payments. Costs include currency appreciation, dependence, brain drain and transfer fees, and remittances can fall in a downturn abroad.
+
 ## Official syllabus
 
 This guide follows the OCR *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, published by OCR (Oxford Cambridge and RSA Examinations).

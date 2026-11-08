@@ -296,6 +296,20 @@ Evaluation prompts: how big and how long; who is hurt or helped; whether the eco
 - Evaluation that stops at "it depends" without saying on what, or which factor is more important and why.
 - Unlabelled diagrams: name the axes, the curves and the equilibrium.
 
+## Frequently asked questions
+
+**What is a recession?**
+A common definition of a recession is two consecutive quarters of falling real GDP. It is a convention rather than a law, and answers should say so.
+
+**What is the difference between actual and trend growth?**
+Actual growth is the percentage change in real GDP over a period and moves with the economic cycle. Trend growth is the sustainable long-run rate at which productive capacity grows.
+
+**What determines the size of the multiplier?**
+Higher propensities to save, be taxed and import mean a smaller multiplier. Spare capacity, confidence and credit, time lags, crowding out and who receives the money also affect how large the effect is in practice.
+
+**What is the difference between the multiplier and the accelerator?**
+The multiplier links a change in spending to a larger change in national income. The accelerator links a change in income to the level of investment.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, Version 3.0 (June 2026), first assessment 2021, Component 2 content: Aggregate demand and aggregate supply, topic The economic cycle. Published by OCR (Oxford Cambridge and RSA).

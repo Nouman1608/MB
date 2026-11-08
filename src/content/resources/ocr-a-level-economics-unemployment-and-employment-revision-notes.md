@@ -268,6 +268,20 @@ Using Country B (population 16+ 30.0m, employed 19.2m, unemployed 0.8m) unless t
 - Treating a fall in the claimant count as proof that employment has risen.
 - Ignoring the data supplied and writing a general answer.
 
+## Frequently asked questions
+
+**What is the difference between the Labour Force Survey and the claimant count?**
+The Labour Force Survey counts people who are jobless, looking for work and available to start, whether or not they claim benefits. The claimant count records people claiming unemployment-related benefits, so it can change with benefit rules even if unemployment does not.
+
+**What is hysteresis?**
+Hysteresis is the idea that long spells of unemployment can raise the natural rate, because skills fade and employers screen out the long-term jobless. Deep recessions can therefore leave lasting damage.
+
+**How has the pattern of employment changed?**
+The OCR A Level Economics (H460) notes describe a shift from primary and secondary industries to the tertiary sector, more part-time, temporary, zero-hours and self-employed work, and rising female and older participation.
+
+**What are the consequences of unemployment for the government?**
+The government loses tax revenue and pays more in benefits, so unemployment widens the budget deficit. The total fiscal cost depends on the number unemployed and the tax and benefits per person.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460) specification*, Version 3.0 (June 2026), first assessment 2021.

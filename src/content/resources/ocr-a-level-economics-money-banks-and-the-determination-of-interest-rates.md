@@ -262,6 +262,23 @@ The **quantity theory of money** turns the identity into a theory. It assumes V 
 - Drawing the money supply as upward sloping in liquidity preference theory.
 - Calling MV = PT a theory. It is true by definition and only becomes a theory once V and T are assumed constant.
 
+## Frequently asked questions
+
+**What makes something good money?**
+Good money is acceptable, durable, portable, divisible, uniform and scarce enough to hold its value.
+
+**How do banks create money?**
+In the textbook model, banks keep a fraction of deposits as reserves and lend the rest, and the loans become new deposits. In practice, modern banks usually lend first, creating a new deposit, and then find the reserves they need.
+
+**Why is money never a perfect store of value?**
+Inflation erodes purchasing power, so money held for several years buys less than before. High inflation weakens money's role as a store of value.
+
+**Why do bond prices and interest rates move in opposite directions?**
+A bond pays a fixed amount each year, so its yield is that payment divided by its price. When people buy bonds the price rises and the yield falls, which is how the interest rate adjusts in liquidity preference theory.
+
+**When is the quantity theory of money most relevant?**
+The OCR A Level Economics (H460) guide judges it most relevant over long periods and at high inflation, and least reliable in the short run and when there is spare capacity, because velocity and output can change.
+
 ## Official syllabus
 
 *OCR A Level in Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021, published by OCR.

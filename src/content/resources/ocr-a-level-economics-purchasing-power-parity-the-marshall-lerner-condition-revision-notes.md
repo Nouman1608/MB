@@ -209,6 +209,20 @@ Read the [study guide](/resources/ocr-a-level-economics-purchasing-power-parity-
 - Missing the final step in a chain, from exports to aggregate demand to output and jobs.
 - Writing every currency fact as general when the question gives a context.
 
+## Frequently asked questions
+
+**What is the difference between absolute and relative PPP?**
+Absolute PPP says the exchange rate equals the ratio of the two countries' price levels. Relative PPP says the exchange rate changes by the gap between the two countries' inflation rates.
+
+**What are the costs of keeping a currency low?**
+Buying foreign currency to hold the value down creates extra money that can cause inflation, uses reserves that have an opportunity cost, may conflict with interest rate policy, risks retaliation by trading partners and makes imports dearer.
+
+**What is a managed exchange rate?**
+A managed exchange rate is one where the central bank or government acts to influence the value of its currency rather than leaving it wholly to the market.
+
+**What gives lasting competitiveness instead of depreciation?**
+The OCR A Level Economics (H460) notes point to supply-side improvements in productivity and quality, which give lasting non-price competitiveness that does not fade as a depreciation feeds into domestic costs.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021. Component 2, Macroeconomics: area of study The global context, topic Exchange rates (purchasing power parity, managing the exchange rate, the Marshall-Lerner condition and J-curve, competitiveness, and effectiveness of changing the value of a currency).

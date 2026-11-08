@@ -234,6 +234,23 @@ Perfect competition has none. Monopolistic competition has low barriers. The hig
 - Saying the monopolistically competitive firm is productively efficient in the long run. It is not, because of excess capacity.
 - Treating MR as equal to price for a monopolistically competitive firm. MR lies below the downward-sloping demand curve.
 
+## Frequently asked questions
+
+**What is normal profit?**
+Normal profit is the minimum reward that keeps the owner in the industry. It is counted as an opportunity cost and included in average cost, so when total revenue equals total cost the firm is earning normal profit.
+
+**What happens when monopolistically competitive firms make losses?**
+In the short run a loss-making firm stays open if price covers average variable cost. In the long run some firms leave, so the demand curve for each surviving firm shifts right until they earn normal profit again.
+
+**Why does a monopolistically competitive firm have excess capacity?**
+In long-run equilibrium its demand curve just touches its average cost curve on the falling part, so it produces less than the output at minimum average cost. Average cost is above its minimum and price is above marginal cost.
+
+**What are the advantages of monopolistic competition?**
+Consumers get variety and choice, and competition keeps profit near normal in the long run and encourages firms to improve quality. Against this, price exceeds marginal cost, there is excess capacity, and advertising adds cost.
+
+**What is a barrier to exit?**
+A barrier to exit is any obstacle that makes leaving a market expensive. Barriers to exit slow the departure of firms after demand falls.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021, Component 1 Microeconomics, topic on market structures. Test yourself on this unit with the [practice questions](/resources/ocr-a-level-economics-perfect-competition-and-monopolistic-competition-practice/).

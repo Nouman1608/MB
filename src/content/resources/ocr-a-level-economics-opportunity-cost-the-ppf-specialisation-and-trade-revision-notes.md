@@ -252,6 +252,20 @@ Point, development, then a judgement. For the division of labour: "Specialising 
 - Describing money as "valuable" without naming a function.
 - Leaving out units or the working in percentage calculations.
 
+## Frequently asked questions
+
+**What is the difference between a trade-off and opportunity cost?**
+A trade-off is the relationship in which getting more of one thing means accepting less of another. Opportunity cost is the value of the specific next best option that is actually given up.
+
+**What is the difference between specialisation and the division of labour?**
+Specialisation is concentrating on a narrow range of goods or services and can apply to a worker, firm, region or country. The division of labour splits a production process into separate tasks, with each worker doing one or a few of them.
+
+**How does technology in one good affect the PPF?**
+An improvement in technology that affects only one good pivots the frontier outward along that good's axis, rather than causing a parallel shift, and changes the opportunity cost of producing the other good.
+
+**What are the disadvantages of specialisation?**
+The OCR A Level Economics (H460) notes list boredom and lower motivation, loss of broad skills, occupational immobility, and dependence on a single product or stage of production.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, areas of study Scarcity and choice (Opportunity cost; Specialisation and trade).

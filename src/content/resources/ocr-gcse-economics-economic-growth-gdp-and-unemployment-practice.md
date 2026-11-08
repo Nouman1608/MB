@@ -122,6 +122,20 @@ These questions cover sections 3.1 (Economic growth) and 3.2 (Low unemployment) 
 - Writing about costs of growth with no benefits, or the reverse, in an evaluate answer.
 - Treating all unemployment as the same type.
 
+## Frequently asked questions
+
+**How do you calculate the rate of economic growth?**
+Subtract the old real GDP from the new real GDP, divide by the old figure and multiply by 100. Dividing by the new GDP figure is a common mistake.
+
+**How do you calculate the unemployment rate?**
+Divide the number unemployed by the labour force, which is the employed plus the unemployed, and multiply by 100. Using the number employed as the denominator loses marks.
+
+**What are the four types of unemployment in OCR GCSE Economics?**
+The types are cyclical, caused by a fall in spending in a downturn; frictional, when people are between jobs; seasonal, when work depends on the time of year; and structural, when an industry declines and workers lack the skills new jobs need.
+
+**How do you answer an 8-mark "evaluate" question on economic growth?**
+Give both benefits and costs of growth rather than only one side, explain how each links to the outcome, and finish with a supported judgement, such as whether the growth is shared and sustainable.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-gcse-economics-economic-growth-gdp-and-unemployment-revision-notes/) and re-read the [study guide](/resources/ocr-gcse-economics-economic-growth-gdp-and-unemployment/).

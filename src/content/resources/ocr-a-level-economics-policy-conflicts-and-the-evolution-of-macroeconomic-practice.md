@@ -141,6 +141,20 @@ Evaluation: change was one of emphasis, not full replacement [1]; the response d
 - Ending with a summary of points rather than a reasoned judgement.
 - Rounding too early or giving a calculation with no working.
 
+## Frequently asked questions
+
+**Why can reducing unemployment conflict with low inflation?**
+Raising aggregate demand to create jobs pushes the economy towards full capacity, and extra demand that cannot be met by more output pushes up prices. The conflict is weaker when there is spare capacity, so answers should say whether there is any.
+
+**How does economic growth affect the current account?**
+As GDP grows, imports rise in line with the marginal propensity to import. If imports rise by more than exports, the current account balance worsens, so always state the direction of the change in the balance.
+
+**What are common mistakes in policy conflict questions?**
+Frequent errors include describing a trade-off without a step-by-step chain, leaving out spare capacity as the deciding condition, mixing nominal and real figures, and quoting a historical event without linking it to why policy changed.
+
+**How do you get top marks on an "assess the extent" question in OCR A Level Economics?**
+Give a two-sided answer when the question says "evaluate" or "assess the extent", then end with a reasoned judgement rather than a summary of the points already made.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic/).

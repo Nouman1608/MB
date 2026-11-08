@@ -278,6 +278,23 @@ Use the same four steps every time.
 - Showing a shift on a diagram without labelling the new curve and the new equilibrium.
 - Describing a new price without stating what happens to quantity.
 
+## Frequently asked questions
+
+**What is supply in economics?**
+Supply is the amount producers are willing and able to put on sale at each possible price during a stated period. "Willing" means it is worth their while, and "able" means they have the resources to do it.
+
+**What is the law of supply?**
+Other things being equal, as price rises the quantity supplied rises, which gives an upward-sloping supply curve.
+
+**When is supply elastic or inelastic?**
+Supply is elastic when PES is above 1, because quantity supplied responds more than price, and inelastic when PES is between 0 and 1. Unit elastic supply has a PES of exactly 1.
+
+**What happens at a price above equilibrium?**
+Quantity supplied exceeds quantity demanded, creating excess supply, or a surplus. Sellers cut prices to clear their stock until the market returns to equilibrium.
+
+**Why does price elasticity of supply matter to consumers?**
+With inelastic supply, a rise in demand mostly raises prices and shortages persist. With elastic supply, consumers get more goods for a smaller price rise.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205). Version 2.0, June 2026. First assessment 2019. The checklist used here is Topic 2, sections 2.3 and 2.4.

@@ -243,6 +243,23 @@ Total employment rose 8.6%. Secondary jobs fell 23.9% and tertiary jobs rose 18.
 - Naming a cause without saying which type of unemployment it produces.
 - Describing consequences but never judging their size or duration.
 
+## Frequently asked questions
+
+**What are hidden unemployment and underemployment?**
+Hidden unemployment refers to discouraged workers who want work but have stopped searching, so they are classed as inactive. Underemployment refers to people in part-time jobs who want more hours but are counted as employed.
+
+**Which measure of unemployment should you use?**
+The OCR A Level Economics (H460) guide suggests choosing the measure to fit the question: the Labour Force Survey for international comparison and the claimant count for local detail.
+
+**Can a union wage cause unemployment?**
+In a competitive labour market, a wage set above equilibrium means firms demand fewer workers while more people want jobs, creating unemployment. The effect is larger if labour demand is elastic and the wage floor is high.
+
+**What are the risks of full employment?**
+Labour shortages can cause wage-push inflation, rising spending can pull in imports and worsen the trade balance, and bottlenecks and overheating can develop. The danger depends on spare capacity, productivity growth and inflation expectations.
+
+**Is cyclical or structural unemployment more important?**
+Cyclical unemployment dominates in a deep recession, but structural unemployment dominates after long-term industry change and tends to last longer.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460) specification*, Version 3.0 (June 2026), first assessment 2021.

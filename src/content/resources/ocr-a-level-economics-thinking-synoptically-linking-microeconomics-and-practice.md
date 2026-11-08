@@ -138,6 +138,20 @@ Evaluation. The cost of the policy is large, since inelastic demand means little
 - Describing a diagram without naming axes, curves and equilibria.
 - Ending an evaluation with "it depends" and no judgement.
 
+## Frequently asked questions
+
+**How do you calculate real wage growth?**
+Divide the nominal wage by the price index and multiply by 100 to find the real wage, then compare it with the original. Comparing nominal values across years without deflating is a common mistake.
+
+**What is the difference between a percentage change and a change in percentage points?**
+A change in index points or percentage points is a simple difference, while a percentage change divides that difference by the starting value. Mixing them up, or using the later figure as the base, loses marks in OCR A Level Economics (H460) Component 03.
+
+**Why might the median be a better measure than the mean?**
+One very high value pulls the mean up, so when data are skewed the median gives a better picture of a typical value, such as typical weekly earnings.
+
+**How do you link micro and macro in a synoptic answer?**
+Trace a chain from a change in one market, such as a cost or price change, through to whole-economy effects such as the multiplier, inflation or employment, and explain each link rather than writing a list of effects.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and-revision-notes/) and [study guide](/resources/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and/).

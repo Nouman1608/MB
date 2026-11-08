@@ -144,6 +144,20 @@ These questions follow the OCR A Level Economics (H460) specification, Version 3
 - Using general answers on volatility instead of linking steep curves to large price swings.
 - Not applying answers to the market named in the question.
 
+## Frequently asked questions
+
+**How do you find equilibrium price and quantity from demand and supply equations?**
+Set quantity demanded equal to quantity supplied, solve for price, then substitute that price back into either equation to find quantity. Showing each step of the working matters, because leaving out working is a common way to lose marks.
+
+**What is the difference between a shift of a curve and a movement along it?**
+A change in the good's own price causes a movement along the demand or supply curve. Anything else, such as a change in income, costs or the price of a related good, shifts the curve.
+
+**What happens to price and quantity when demand and supply both shift?**
+Only one result is certain. For example, if demand rises and supply falls, price rises for sure, but the change in quantity depends on the relative sizes of the two shifts, so a good answer says which result is uncertain.
+
+**How should you answer an evaluation question on the usefulness of the supply and demand model?**
+Name the market, identify which of the model's assumptions fails most clearly there, and judge whether the model still gives a useful direction of change. Listing limitations without weighing them, or not applying them to the market in the question, scores less well in OCR A Level Economics (H460).
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the/).

@@ -272,6 +272,23 @@ Test each policy against effectiveness, cost, fairness, enforceability, time lag
 
 Use the [revision notes](/resources/ocr-a-level-economics-the-environment-and-market-failure-revision-notes/) to recall the content and the [practice set](/resources/ocr-a-level-economics-the-environment-and-market-failure-practice/) to test yourself.
 
+## Frequently asked questions
+
+**What is the environmental Kuznets curve?**
+The environmental Kuznets curve is an inverted U: environmental degradation per head rises as income per head rises, reaches a peak at a turning point, then falls. It is not proof that growth will fix the environment.
+
+**What is sustainable development?**
+Sustainable development means meeting people's needs today in a way that leaves future generations able to meet their own.
+
+**Does a pollution tax remove all pollution?**
+No. A tax equal to the marginal external cost moves output to the social optimum, where some pollution still occurs because the benefit of that output exceeds its full social cost.
+
+**What is a negative consumption externality?**
+It occurs when consuming a good imposes costs on third parties, such as smoke from burning firewood. Marginal social benefit lies below marginal private benefit, so the market overconsumes the good.
+
+**What are public and private partnerships in environmental policy?**
+The government and a firm share the finance, risk and running of a project, such as a waste-treatment plant. Private expertise and capital can raise efficiency, but long contracts and poor value for the public are risks.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, area of study Market failure and government intervention, topic Environment.

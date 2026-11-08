@@ -253,6 +253,20 @@ The regulator chooses between efficiency (marginal cost pricing) and financial v
 - Calculating a percentage change from the wrong base.
 - Conclusions that repeat points and judge nothing.
 
+## Frequently asked questions
+
+**What is the difference between privatisation and deregulation?**
+Privatisation moves state-owned assets into private ownership by sale. Deregulation removes or loosens rules, such as barriers to entry, so new firms can compete.
+
+**Why can a price cap improve efficiency?**
+Because the cap limits the price, the firm can raise profit only by cutting costs. When the regulator later resets X, the gain is shared with consumers.
+
+**What are the risks of a price cap?**
+If X is set too tight, profit is squeezed and the firm may cut quality or investment, so service worsens over time and consumers lose despite a low price.
+
+**What are the arguments for public ownership?**
+The OxfordAQA International A-level Economics (9640) notes list natural monopolies, merit goods, strategic industries and a long-term view. Against this are weak cost incentives, political aims, taxpayer losses and poor information.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) Specification, version 1.2, OxfordAQA. First teaching September 2020; International AS exams from May/June 2021; International A-level exams from May/June 2022.

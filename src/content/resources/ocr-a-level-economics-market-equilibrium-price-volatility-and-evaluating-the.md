@@ -289,6 +289,20 @@ A 16.67% change in output produces a 40% change in price. If demand were more el
 - Describing a related-market effect without saying whether the goods are substitutes, complements or in joint supply.
 - Listing limitations without judging how serious they are for the market in the question.
 
+## Frequently asked questions
+
+**What is the difference between a surplus and a shortage?**
+A surplus, or excess supply, occurs when price is above equilibrium so quantity supplied exceeds quantity demanded, leading to unsold stock and falling prices. A shortage, or excess demand, occurs below equilibrium and leads to queues, waiting lists, rationing and resale at high prices.
+
+**Why are agricultural prices so volatile?**
+Supply within a season is fixed by the harvest and demand is often price inelastic, so a small change in supply causes a large change in price. Time lags in production, weather and disease, speculation, swings in global demand and the cost of storing perishable goods add to the volatility.
+
+**Why is labour demand called a derived demand?**
+Firms hire workers because customers want the goods and services those workers produce. If demand for the final product falls, the demand for labour shifts left.
+
+**Is the supply and demand model useful for the housing market?**
+It gives a useful direction of change, but in the short run the stock of homes is roughly fixed, so a rise in demand, for example from easier credit, mainly raises price rather than quantity. Its predictions are conditional on the model's assumptions holding.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460) specification*, Version 3.0 (June 2026), first assessment 2021. Content of Component 1: Microeconomics, area of study "How competitive markets work", topic "Supply and demand and the interaction of markets".

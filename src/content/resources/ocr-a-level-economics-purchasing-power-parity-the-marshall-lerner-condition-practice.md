@@ -147,6 +147,20 @@ Evaluation, up to 6 marks: dearer imports and imported inflation [1]; lower livi
 - Evaluation as a list rather than a judgement tied to conditions.
 - Leaving out the multiplier or imported inflation in the macro chain.
 
+## Frequently asked questions
+
+**How do you calculate a PPP exchange rate?**
+Divide the cost of the same basket of goods in one country's currency by its cost in the other country's currency. To find over- or undervaluation, compare the market rate with the PPP rate and divide the gap by the PPP rate, not the market rate.
+
+**What is the Marshall-Lerner condition?**
+The Marshall-Lerner condition states that a depreciation improves the trade balance only if the price elasticity of demand for exports plus the price elasticity of demand for imports, taken as positive numbers, is greater than 1.
+
+**Why does the trade balance get worse before it improves after a depreciation?**
+In the short run, demand for exports and imports is inelastic because of existing contracts, slow buyer responses and supply lags, so import bills rise before volumes adjust. This pattern is the J-curve.
+
+**What are common mistakes in exchange rate calculations?**
+Typical errors are reversing the exchange rate quote so a depreciation seems to raise export prices abroad, adding the elasticities without comparing the sum with 1, and giving answers without units or working.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition/).

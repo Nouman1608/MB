@@ -263,6 +263,20 @@ C = a + b·Yd, where a is autonomous consumption and b is the MPC. With a = 40 a
 - Stating the accelerator without the word *change*.
 - Evaluating only by listing, with no judgement on which factor matters most.
 
+## Frequently asked questions
+
+**Why does the aggregate demand curve slope downward?**
+The OCR A Level Economics (H460) notes give three reasons: the wealth effect, because higher prices cut the real value of money wealth; the interest rate effect, because higher prices raise money demand and interest rates; and the international trade effect, because higher domestic prices hurt exports and favour imports.
+
+**What is the marginal propensity to withdraw?**
+The marginal propensity to withdraw is the share of extra income that leaks out of the circular flow. It is the sum of the marginal propensity to save, the marginal rate of tax and the marginal propensity to import.
+
+**What happens when injections exceed withdrawals?**
+When injections are greater than withdrawals, spending in the circular flow increases, so national income tends to rise. If withdrawals exceed injections, national income tends to fall.
+
+**What is the difference between gross and net investment?**
+Gross investment is total spending on capital goods, including replacement of worn-out capital. Net investment is gross investment minus replacement investment.
+
 ## Official syllabus
 
 These notes are aligned to the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, published by OCR.

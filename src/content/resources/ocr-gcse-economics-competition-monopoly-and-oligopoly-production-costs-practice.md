@@ -144,6 +144,20 @@ Read the [study guide](/resources/ocr-gcse-economics-competition-monopoly-and-ol
 - Giving a list in an "evaluate" question with no supported judgement.
 - Quoting percentages without dividing by the original value.
 
+## Frequently asked questions
+
+**How do you calculate average cost and profit?**
+Total cost is fixed cost plus variable cost, average cost is total cost divided by output, and profit is total revenue minus total cost. Include units, and state "loss" when revenue is below cost.
+
+**What is the difference between a monopoly and an oligopoly?**
+A monopoly is a market dominated by one firm, while an oligopoly is dominated by a few large firms. Calling a market of a few firms a monopoly is a common mistake in OCR GCSE Economics (J205).
+
+**Does more output mean higher productivity?**
+Not necessarily. Productivity is output per worker, so it rises only if output grows faster than the number of workers, not simply because output rises.
+
+**How do you write a good "evaluate" answer on competition?**
+Consider the effects on both producers and consumers, not consumers alone, and reach a supported judgement rather than giving a list.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs/).

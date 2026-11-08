@@ -295,6 +295,20 @@ Against competition (400 at £16): employment is 37.5% lower and the wage 28.1% 
 - Describing the substitution and income effects without saying which dominates and why.
 - One-sided answers to "evaluate" questions: no judgement on which model fits which sector.
 
+## Frequently asked questions
+
+**What shifts the supply curve of labour?**
+A change in the wage causes a movement along the supply curve. The curve shifts with population, migration, participation, training costs, pay in other jobs and non-monetary conditions.
+
+**What is a bilateral monopoly in the labour market?**
+A bilateral monopoly has a single buyer of labour (a monopsonist) and a single seller (a union covering the whole workforce). Theory gives a range of possible wages rather than a single point, and the result depends on bargaining power, strike and lock-out threats, information and the cost of failing to agree.
+
+**Can a minimum wage raise employment?**
+In a monopsony labour market, a binding wage floor makes the supply curve flat for the firm at that wage, so it can raise both the wage and employment. A floor set too high cuts employment instead.
+
+**How useful are wage determination models?**
+The OCR A Level Economics (H460) notes show that no single model explains all pay. Competitive theory works best where output is measurable, while monopsony, unions and public-sector pay scales explain pay in other regions and occupations.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, specification Version 3.0 (June 2026), for first assessment in 2021, published by OCR.

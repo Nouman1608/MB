@@ -241,6 +241,23 @@ Evaluation: the idea is persuasive when unemployment persists, but stimulus coul
 - Treating higher productivity only as a long-run effect; it also lowers costs per unit, so it can shift SRAS.
 - Listing determinants without explaining the link to output capacity.
 
+## Frequently asked questions
+
+**What are the determinants of short-run aggregate supply?**
+The OxfordAQA International AS and A-level Economics (9640) specification names four cost factors: money wage rates, raw material prices, indirect taxes and productivity.
+
+**What are the determinants of long-run aggregate supply?**
+The guide lists the capital stock, technology, the working population, productivity, attitudes, enterprise, factor mobility and economic incentives.
+
+**Does a pay rise always shift SRAS left?**
+Not necessarily. What matters is labour cost per unit: if productivity rises by as much as wages, cost per unit stays the same and SRAS does not shift.
+
+**What does AD do when the economy is below normal capacity?**
+With spare capacity, a rise in AD mainly raises real output and employment with little pressure on prices. Close to normal capacity, a rise in AD mainly raises the price level.
+
+**Does higher productivity affect only the long run?**
+No. Higher productivity lowers costs per unit, so it can shift SRAS to the right as well as raising normal capacity and shifting LRAS.
+
 ## Official syllabus
 
 OxfordAQA *International AS and A-level Economics (9640)*, specification version 1.2, first teaching September 2020, published by OxfordAQA.

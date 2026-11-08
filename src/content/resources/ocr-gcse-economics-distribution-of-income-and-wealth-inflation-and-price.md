@@ -290,6 +290,23 @@ When analysing a table, quote figures, describe the trend, calculate where usefu
 - Forgetting to use weights when calculating the CPI.
 - Stating "it is bad" without a reason or a named group.
 
+## Frequently asked questions
+
+**What are the types of income?**
+The OCR GCSE Economics (J205) guide covers wages and salaries, interest, rent, profit, and benefits and pensions, which are transfer payments because nothing is produced in return.
+
+**What is the difference between gross pay and net pay?**
+Gross pay is pay before deductions. Net pay, or take-home pay, is what remains after income tax and other deductions such as pension contributions.
+
+**What is the difference between nominal and real values?**
+A nominal value is measured in current money, unadjusted for price changes. A real value is adjusted for inflation, so it shows what the money can actually buy.
+
+**What are the limitations of the CPI?**
+The basket may not match an individual's own spending, households differ by age, income and region, and changes in quality are hard to measure.
+
+**What does price stability mean?**
+Price stability means low and steady inflation, which lets households and firms plan. It does not mean that prices never change.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), Version 2.0, June 2026, first assessment 2019, published by OCR; sections 3.3 and 3.4.

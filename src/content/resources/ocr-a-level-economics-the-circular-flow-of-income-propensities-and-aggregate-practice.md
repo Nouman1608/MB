@@ -148,6 +148,23 @@ Read the [study guide](/resources/ocr-a-level-economics-the-circular-flow-of-inc
 - Writing about the accelerator as a link between output and investment without the word change.
 - Evaluating by listing points with no judgement.
 
+## Frequently asked questions
+
+**Why is national output measured using value added?**
+Adding up the sales at every stage of production double counts, because each firm's sales include inputs bought from earlier stages. Value added counts only the extra value created at each stage.
+
+**What is the difference between average and marginal propensity to consume?**
+The average propensity to consume is total consumption divided by disposable income. The marginal propensity to consume is the change in consumption divided by the change in disposable income; using national income instead of disposable income for household propensities is a common error.
+
+**Is saving an injection or a withdrawal?**
+Saving is a withdrawal from the circular flow, along with taxation and imports. The injections are investment, government spending and exports.
+
+**What does the accelerator theory say?**
+The accelerator links net investment to the change in output, not its level. If output grows by less than before, net investment can fall even though output is still rising.
+
+**How should you approach a 9-mark evaluation on the accelerator in OCR A Level Economics?**
+Explain the link between investment and the change in output, then weigh limitations such as spare capacity, uncertain expectations, finance and interest rates and lumpy investment, and reach a judgement rather than listing points.
+
 ## Next steps
 
 - Recall the key results in the [revision notes](/resources/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate-revision-notes/).

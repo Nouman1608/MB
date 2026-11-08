@@ -236,6 +236,23 @@ A strong answer links causes to consequences, judges which measures suit the cas
 - Writing "benefits increase productivity" with no mechanism.
 - Ignoring costs and time lags.
 
+## Frequently asked questions
+
+**Why might firms under-invest in training?**
+Trained workers can be poached by other firms, so a firm may not capture the full return on its training. This is one reason the state may fund training.
+
+**How does immigration affect GDP per head?**
+Immigration raises the quantity of labour and total output, but GDP per head can fall if migrants produce less than the average. Evaluation should also consider tax contributions, pressure on housing and services, and effects on the origin country.
+
+**How does the housing market affect labour mobility?**
+High rents and house prices in areas with vacancies can make moving unprofitable even when the job pays more, so vacancies remain unfilled. Building more homes can improve geographical mobility, but it takes years.
+
+**What is the argument for privatisation?**
+Privatisation transfers ownership from the public to the private sector. The argument is that the profit motive and shareholder pressure raise productive efficiency, and competition lowers costs and prices.
+
+**What is the case for R&D tax credits?**
+R&D can create spillover benefits for society beyond the firm's private return, so a firm may not undertake a project that is socially worthwhile. A tax credit cuts the cost of innovation and can make such projects profitable for the firm.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, specification Version 3.0 (June 2026), for first assessment in 2021: Macroeconomics, The application of policy instruments, topic Supply side policy.

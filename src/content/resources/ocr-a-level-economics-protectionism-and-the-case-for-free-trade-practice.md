@@ -106,6 +106,23 @@ Questions 2 to 7 use one market. Country B (illustrative) imports garden benches
 - Describing free trade in general terms instead of using the country in the stem.
 - Calling unit labour costs "wages" and leaving out productivity.
 
+## Frequently asked questions
+
+**What is the difference between a specific and an ad valorem tariff?**
+A specific tariff is a fixed amount of tax per unit imported, while an ad valorem tariff is a percentage of the value of the import.
+
+**Is tariff revenue part of the welfare loss?**
+No. Tariff revenue is a transfer from consumers to the government, not a loss to society. The net welfare loss is the fall in consumer surplus minus the gain in producer surplus and the tariff revenue, shown by two triangles on the diagram.
+
+**What is the difference between a tariff and a quota?**
+A tariff fixes the price at which imports enter, so quantities adjust, while a quota fixes the quantity of imports, so the price adjusts. Under a quota the rectangle that would have been tariff revenue goes to whoever holds the import licences.
+
+**How should you evaluate arguments for protection?**
+Give the conditions under which an argument holds, such as whether an infant industry will become competitive, and reach a judgement. Applying the answer to the country in the question scores better than describing free trade in general terms.
+
+**What are unit labour costs?**
+Unit labour cost is the labour cost per unit of output. It depends on both wages and productivity, so it should not be described simply as wages.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-economics-protectionism-and-the-case-for-free-trade-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-protectionism-and-the-case-for-free-trade/).

@@ -128,6 +128,20 @@ These questions cover The financial sector in developing and emerging economies 
 - Describing remittances as aid.
 - Ending evaluation with "it depends" and no condition.
 
+## Frequently asked questions
+
+**How do you calculate growth using the Harrod-Domar model?**
+The growth rate equals the savings ratio divided by the capital-output ratio. Writing the savings ratio multiplied by the capital-output ratio, or leaving percentages as whole numbers, is a common error.
+
+**What is microfinance?**
+Microfinance means financial services, mainly small loans but also savings accounts and insurance, offered to poor people and very small businesses that banks usually exclude. When comparing loans, take care not to mix monthly and annual interest rates.
+
+**Are remittances a form of aid?**
+No. Remittances are money sent home by migrants working abroad. Describing them as aid is a common mistake.
+
+**How should you judge the impact of debt on a developing economy?**
+Look beyond the debt-to-GDP ratio alone: the debt service ratio, the interest rate compared with growth, and whether debt is in foreign currency all matter. End evaluation with the condition the judgement depends on, not just "it depends".
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-the-financial-sector-in-developing-and-emerging/).

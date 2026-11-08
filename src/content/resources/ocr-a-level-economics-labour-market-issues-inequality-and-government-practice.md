@@ -159,6 +159,23 @@ These questions follow the OCR A Level Economics (H460) specification, Version 3
 - Describing an effect of migration with no direction or mechanism.
 - Ending evaluation without a conclusion.
 
+## Frequently asked questions
+
+**How do you calculate the dependency ratio?**
+The dependency ratio is the number of people outside working age (children and people of retirement age) as a percentage of the working-age population. A common mistake is dividing by the total population instead of the working-age group.
+
+**How do you calculate unemployment caused by a minimum wage?**
+Substitute the minimum wage into both the labour demand and labour supply equations. The gap between labour supplied and labour demanded is the unemployment, and employment is given by the demand figure, not the supply curve alone.
+
+**What is the difference between a shortage of labour and unemployment?**
+A maximum wage set below equilibrium creates a shortage, where firms demand more labour than workers supply. A minimum wage set above equilibrium creates unemployment, where more workers want jobs than firms demand.
+
+**Is every gender or ethnic pay gap evidence of discrimination?**
+No. Part of a pay gap may be explained by differences such as hours and experience. Discrimination means pay or hiring differences not linked to productivity, and even the unexplained part of a gap is not conclusive proof of it.
+
+**How do you score well on evaluation questions about labour market policy in OCR A Level Economics?**
+Explain how a policy changes mobility or incentives rather than just naming it, give a direction and mechanism for each effect, and end with a supported conclusion about which policy is more effective in the context given.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-economics-labour-market-issues-inequality-and-government-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-labour-market-issues-inequality-and-government/).

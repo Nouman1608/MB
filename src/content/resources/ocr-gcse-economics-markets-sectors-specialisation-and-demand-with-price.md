@@ -278,6 +278,23 @@ For **producers**, PED guides pricing, forecasting sales after a price change, a
 - Confusing revenue with profit.
 - Describing factor markets as markets for finished goods.
 
+## Frequently asked questions
+
+**What is a market?**
+A market exists wherever buyers meet sellers and swap a good, service or resource for payment. It need not be a physical place: a website or a job-search service can be a market.
+
+**What is the law of demand?**
+As price falls, quantity demanded rises, other things being equal, which gives a downward-sloping demand curve. Lower prices make the good cheaper than substitutes, and existing buyers can afford more.
+
+**What is the difference between an extension and an increase in demand?**
+An extension is a movement along the demand curve caused by a fall in the good's own price. An increase in demand is a shift of the whole curve to the right caused by another factor.
+
+**What is the difference between goods and services?**
+Goods are physical items that can be touched, stored and owned after the sale. Services are intangible, like a haircut or a bus journey, and are produced and consumed at the same time.
+
+**How does market demand relate to individual demand?**
+Market demand adds up the quantity every buyer demands at each price. Plotting those totals against price gives the market demand curve.
+
 ## Official syllabus
 
 Source: Cambridge OCR, GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Covered here: 2.1 and 2.2.

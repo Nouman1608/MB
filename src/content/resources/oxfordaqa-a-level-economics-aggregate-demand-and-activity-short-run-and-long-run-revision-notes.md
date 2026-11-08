@@ -248,6 +248,20 @@ Suppose raw material prices rise in Country A (invented). Write the chain in thi
 - Stating the multiplier effect without a comment on spare capacity or leakages when the question asks for evaluation.
 - Rounding percentages too early in a compounding calculation.
 
+## Frequently asked questions
+
+**What is a local multiplier?**
+A local multiplier applies the multiplier idea to a town or region. If residents spend 40% of extra income locally, the local multiplier is 1 divided by 0.60, about 1.67.
+
+**Why can the real multiplier effect be smaller than the formula suggests?**
+Higher leakages mean a smaller multiplier, extra demand near normal capacity raises prices rather than real output, rounds of spending take time, and changing expectations can alter saving or tax behaviour.
+
+**What is the difference between actual and potential growth?**
+A rise in AD can raise actual output if there is spare capacity. Only a rightward shift of LRAS raises normal capacity, which is potential growth.
+
+**What is the Keynesian view of output below capacity?**
+The Keynesian view in the OxfordAQA 9640 specification is that an economy can stay well below normal capacity for many years, so waiting for wages and prices to adjust may be too slow. The counter-argument is that stimulus can be inflationary if the output gap has been overstated.
+
 ## Official syllabus
 
 OxfordAQA *International AS and A-level Economics (9640)*, specification version 1.2, first teaching September 2020, published by OxfordAQA.

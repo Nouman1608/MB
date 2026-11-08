@@ -277,6 +277,20 @@ At 150 repairs the TC is 1,500 + 4 × 150 = £2,100, so TR of £1,650 gives a lo
 - Saying "profit" when the context shows a loss.
 - Moving along a curve when costs have changed.
 
+## Frequently asked questions
+
+**Why do firms compete?**
+Firms compete for profit, market share, survival and growth. They compete through price cuts and through non-price methods such as quality, design, service and advertising.
+
+**How does competition affect price?**
+Rivals cutting price and new firms entering the market, which raises supply, both push the market price down.
+
+**What is a purchasing economy of scale?**
+A purchasing economy of scale is a fall in average cost because a larger firm can buy inputs in bulk at a lower price per unit. Lower average cost lets the firm cut prices or widen its profit margin.
+
+**Why do oligopoly firms often avoid price competition?**
+Oligopoly firms are interdependent, so a price cut is likely to be matched by rivals, leaving all firms with lower profit. They often compete on quality, branding and advertising instead.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), specification Version 2.0 (June 2026), for first assessment in 2019, published by OCR. Sections 2.5 and 2.6.

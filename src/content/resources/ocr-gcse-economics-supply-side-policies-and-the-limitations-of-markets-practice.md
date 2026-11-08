@@ -136,6 +136,23 @@ Related pages: [study guide](/resources/ocr-gcse-economics-supply-side-policies-
 - Giving one-sided evaluation, or no judgement at the end.
 - Forgetting to link a supply side policy to an objective.
 
+## Frequently asked questions
+
+**What is a negative externality?**
+A negative externality is a cost that falls on a third party who is not part of the transaction and is not reflected in the market price, such as pollution or litter. Answers must mention the third party.
+
+**How do you calculate tax revenue after a tax on each unit?**
+Multiply the tax per unit by the new quantity sold after the tax, not the original quantity. The same rule applies when working out the cost of a subsidy.
+
+**How should you describe an opportunity cost in a policy question?**
+Name the specific alternative that is given up, such as the number of health centres the money could have built. Writing only "it costs money" earns little credit.
+
+**Will a tax always reduce a negative externality?**
+Not necessarily. If demand is price inelastic, a tax raises the price but cuts consumption only a little, and the external cost can be hard to measure. Evaluation answers should consider elasticity and measurement.
+
+**How do you link supply side policy to economic objectives?**
+Explain how the policy raises productive capacity, then show which objective it helps, such as economic growth, lower unemployment or price stability. Forgetting this link is a common reason for lost marks.
+
 ## Next steps
 
 - Read the [revision notes](/resources/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets/).

@@ -266,6 +266,23 @@ Taxes and benefits can reduce gaps. Gross incomes of £90,000 and £18,000 (rati
 - Confusing income with wealth, or flow with stock.
 - Asserting "inequality is bad" without evaluation.
 
+## Frequently asked questions
+
+**What is the difference between asymmetric information and moral hazard?**
+Asymmetric information is a form of information failure in which one side of a transaction knows more than the other, such as a used-car seller who knows the car's history. Moral hazard occurs when a person changes their behaviour after a risk has been transferred to someone else, as when fully insured drivers take less care because they no longer bear the full cost.
+
+**How does information failure cause market failure?**
+When consumers misjudge the benefit of a good, price signals no longer reflect true benefits or costs. If they overestimate the benefit, the market produces where perceived marginal private benefit meets marginal cost, beyond the social optimum, so there is over-consumption and a welfare loss; if they underestimate it, there is under-consumption.
+
+**Is a public good just something the government provides?**
+No. A public good is defined by its characteristics: it is non-excludable, non-rival (non-diminishable), non-rejectable and has a zero marginal cost of supplying one more person. Government provision is a possible solution to the free rider problem, not part of the definition.
+
+**What is a quasi-public good?**
+A quasi-public good has some, but not all, of the characteristics of a public good, or has them only up to a point. An uncongested road with tolls is an example: it is excludable, and it is non-rival only until it becomes busy.
+
+**Why is labelling a good a merit or demerit good a value judgement?**
+Calling a good a merit or demerit good means someone has decided that consumers are misjudging its benefits or harms, which is a normative view. Governments may disagree with consumers, which is a form of paternalism, so OCR A Level Economics (H460) answers should evaluate rather than assume the label.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, topics Market power/Information asymmetries, Public goods and Inequity.

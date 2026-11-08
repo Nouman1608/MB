@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "the-role-of-markets-and-money-ocr-gcse-economics"
-description: "Markets, demand, supply, price, competition, production, the labour market and the role of money -- a map of the eight sub-topics of Topic 2 for OCR GCSE (9-1) Economics (J205), Component 01, with core explanations and worked calculations."
+description: "Map of the eight sub-topics in OCR GCSE Economics (J205) Topic 2, The Role of Markets and Money, with explanations and worked calculations for Component 01."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 2: The Role of Markets and Money**, the
@@ -322,6 +324,23 @@ topic and Component 02 (National and International Economics) share
 synoptic assessment, revise the labour market and financial markets
 sub-topics with an eye to how they connect to unemployment, inflation
 and monetary policy, which appear later in the qualification.
+
+## Frequently asked questions
+
+**What topics are in OCR GCSE Economics Topic 2?**
+Topic 2, The Role of Markets and Money, has eight sub-topics: the role of markets, demand, supply, price, competition, production, the labour market, and the role of money and financial markets. It forms the second half of Component 01 (J205/01).
+
+**How does price elasticity of demand affect revenue?**
+If demand is elastic, with PED greater than 1 in size, a price rise cuts total revenue. If demand is inelastic, a price rise increases total revenue.
+
+**What is the difference between a monopoly and an oligopoly?**
+A monopoly is a market dominated by a single producer, while an oligopoly is dominated by a few large producers. Firms with market power can affect price, output and consumer choice.
+
+**What does the financial sector do?**
+Banks and building societies take deposits from savers and lend to households and firms, linking savers with borrowers, and insurance companies let people share the risk of a loss.
+
+**What is productivity?**
+Productivity is output per worker, or per unit of input, in a given period. Higher productivity can lower the cost of each unit produced.
 
 ## Related resources
 

@@ -239,6 +239,23 @@ Evaluation: cost competitiveness matters most in price-elastic markets. Strong q
 - Using terms outside the range between the two opportunity costs.
 - Treating a rise in the terms of trade index as always good.
 
+## Frequently asked questions
+
+**What range of terms of trade benefits both countries?**
+Mutually beneficial terms of trade lie between the two countries' opportunity costs of the good. Outside that range one country would do better producing the good itself, so trade would not take place.
+
+**Why can trade raise world output even if one country is better at producing everything?**
+If each country specialises in the good in which it has the lower opportunity cost, the same resources produce more in total. This is why comparative advantage, not absolute advantage, is the basis for gains from trade.
+
+**What factors affect international competitiveness?**
+In OCR A Level Economics (H460), competitiveness depends on productivity, unit labour costs, the exchange rate, product quality and other non-price factors such as design and reliability, and wider conditions such as infrastructure, energy costs, tax and regulation.
+
+**How does an exchange rate appreciation affect competitiveness?**
+An appreciation raises the foreign-currency price of a country's exports and lowers the domestic price of imports, so it reduces price competitiveness. A depreciation does the opposite.
+
+**What are the limitations of the theory of comparative advantage?**
+It assumes full employment, mobile resources, no transport costs or barriers and no externalities. In practice opportunity costs rise with specialisation, advantage can change over time, and specialisation leaves a country exposed to demand and price shocks.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021. Component 2, Macroeconomics: area of study The global context, topic International trade.

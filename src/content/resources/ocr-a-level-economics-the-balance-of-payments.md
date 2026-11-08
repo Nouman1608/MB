@@ -228,6 +228,23 @@ A 20 cu bn loss of output improves the current account by only 6 of a 47 deficit
 - Forgetting income and current transfers when finding the current account balance.
 - Listing causes or policies without judging which matters most.
 
+## Frequently asked questions
+
+**What is the balance of payments?**
+The balance of payments is the record of all payments that cross a country's border, in either direction, during a year or another stated period. It covers households, firms and the government and counts money flows, not the physical movement of goods.
+
+**What does a sustainable balance of payments mean?**
+A sustainable position is one a country can maintain without painful adjustments. It does not have to be exactly zero: a small deficit, or one matched by stable long-term investment inflows, can be sustainable.
+
+**What causes a current account deficit?**
+Causes include domestic growth outpacing the rest of the world, high unit labour costs, an overvalued exchange rate, poor non-price competitiveness, low saving, falling prices of key exports and large income outflows.
+
+**Which policies correct a current account deficit?**
+The OCR A Level Economics (H460) guide covers expenditure-reducing policies, expenditure-switching policies and supply-side policies. Supply-side measures work slowly and suit structural deficits, while demand-side measures act sooner but cost growth.
+
+**Why does a large current account deficit put pressure on the exchange rate?**
+A big deficit means a high supply of the domestic currency on foreign exchange markets, which can lower its value, raise import prices and add to inflation.
+
 ## Next steps
 
 Try the [practice set](/resources/ocr-a-level-economics-the-balance-of-payments-practice/), use the [revision notes](/resources/ocr-a-level-economics-the-balance-of-payments-revision-notes/) to consolidate, and take a [free 10-minute diagnostic](/diagnostics/).

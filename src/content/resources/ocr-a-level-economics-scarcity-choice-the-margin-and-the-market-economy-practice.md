@@ -144,6 +144,23 @@ These questions cover the area of study Scarcity and choice in Component 1, Micr
 - Listing strengths and weaknesses of the market with no weighing against each other.
 - Treating government intervention as always beneficial, with no mention of government failure.
 
+## Frequently asked questions
+
+**What is the difference between an economic good and a free good?**
+An economic good uses scarce resources to produce, so it has an opportunity cost. A free good needs no resources to produce; something that is free to the consumer, such as a government clinic, is still an economic good.
+
+**What is the difference between positive and normative statements?**
+A positive statement can be tested against evidence, even if it turns out to be wrong. A normative statement contains a value judgement about what should happen. A statement is not normative because it is wrong, or positive because it contains a number.
+
+**How do you decide how many units a rational consumer buys?**
+Convert marginal utility into money and compare it with the price. A rational consumer keeps buying while the value of the marginal benefit is at least equal to the price.
+
+**What are common mistakes in questions on factors of production?**
+Treating capital as money is a frequent error: in economics capital means man-made goods used to produce other goods. Another is giving percentage shares without showing the total used.
+
+**How do you evaluate the role of government in a market economy?**
+Weigh the benefits of correcting market failure against the risk of government failure, such as poor information, political pressure, unintended consequences and cost. Treating intervention as always beneficial weakens the answer.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy/) on any weak area.

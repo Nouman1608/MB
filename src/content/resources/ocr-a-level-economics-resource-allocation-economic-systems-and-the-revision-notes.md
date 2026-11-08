@@ -274,6 +274,20 @@ The weight given to each aim is a value judgement. A strong answer says which ai
 - Leaving out the constraint when defining maximisation.
 - Concluding without a judgement tied to the context.
 
+## Frequently asked questions
+
+**What is the difference between financial and non-financial incentives?**
+Financial incentives include wages, bonuses, profit, subsidies, taxes, fines and charges. Non-financial incentives include satisfaction, recognition, reputation, safety and leisure.
+
+**What makes an incentive effective?**
+The OCR A Level Economics (H460) notes list elasticity, information, time, other motives, side effects, cost and who is affected as the factors that decide how far an incentive changes behaviour.
+
+**Why might firms not maximise profit?**
+Costs and demand are hard to know, owners cannot watch managers closely, and some firms have ethical or social aims. Managers may prefer growth or revenue because it raises their own pay and status.
+
+**Is pay the only objective of workers?**
+No. Workers may also want job security, satisfaction, flexible hours and promotion, and a worker often accepts a lower wage for a better job.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, area of study How competitive markets work.
