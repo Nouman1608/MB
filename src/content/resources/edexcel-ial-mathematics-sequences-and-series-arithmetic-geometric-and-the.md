@@ -308,6 +308,20 @@ Coefficient: −540
 
 Check your skills on the [practice set](/resources/edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the-practice/) and recall them with the [revision notes](/resources/edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the-revision-notes/).
 
+## Frequently asked questions
+
+**How do you prove the arithmetic series formula?**
+Write the sum forwards and backwards, then add the two lines term by term. Every pair adds to the same total, 2a + (n − 1)d, and there are n pairs, so 2Sₙ = n(2a + (n − 1)d).
+
+**What is the sum of the first n natural numbers?**
+1 + 2 + … + n = n(n + 1)/2, which comes from the arithmetic series formula with a = 1 and d = 1.
+
+**How do you show a sequence is increasing?**
+Simplify uₙ₊₁ − uₙ and show it is positive for every n. Checking only the first few terms is not enough.
+
+**What is the general term in the binomial expansion of (a + bx)ⁿ?**
+The general term is ⁿCᵣ aⁿ⁻ʳ(bx)ʳ, where ⁿCᵣ = n!/(r!(n − r)!). Keep the bracket round bx so that b is raised to the power r as well.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Unit P2, section 4 (Pearson Education Limited).

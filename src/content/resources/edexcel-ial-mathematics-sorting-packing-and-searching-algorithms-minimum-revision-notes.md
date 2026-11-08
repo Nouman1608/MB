@@ -244,6 +244,23 @@ Sorted: 5 8 13 21 26 34
 - Writing Dijkstra working values without order numbers, or not listing the route.
 - Giving a route length without stating the route.
 
+## Frequently asked questions
+
+**What is the difference between Prim's and Kruskal's algorithms?**
+Kruskal's algorithm works from a sorted list of all edges, taking the cheapest edge that does not form a cycle. Prim's algorithm grows one tree from a start vertex, adding the cheapest edge to a new vertex each time.
+
+**How many edges does a minimum spanning tree have?**
+A spanning tree on n vertices has n − 1 edges and no cycles.
+
+**Why can binary search only be used on an ordered list?**
+Binary search discards half of the list at each step by comparing the target with the middle item, which only works if the items are in order.
+
+**How do you find the route after Dijkstra's algorithm?**
+Work back from the target: an edge is on the route if the final label at its end minus the edge weight equals the final label at its start.
+
+**Is Prim's algorithm in matrix form required in Edexcel IAL D1?**
+Yes. For Unit D1 of the Edexcel IAL Mathematics specification (YMA01), matrix representation is expected for Prim's algorithm.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification, Issue 3, April 2019, published by Pearson Education Limited. Unit D1: Decision Mathematics 1, sections 1 and 2, and the Glossary for D1.

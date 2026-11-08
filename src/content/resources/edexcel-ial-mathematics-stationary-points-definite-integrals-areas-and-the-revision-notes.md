@@ -238,6 +238,20 @@ Do these without notes, then check below.
 - Rounding y-values too early, so the final estimate is off.
 - Leaving an optimisation answer as a value of x when the question asked for a volume, area or cost.
 
+## Frequently asked questions
+
+**What does the second derivative tell you about a stationary point?**
+If f″(x) > 0 the point is a local minimum, and if f″(x) < 0 it is a local maximum. If f″(x) = 0 the test is inconclusive, so check the sign of the gradient either side.
+
+**What is the trapezium rule formula?**
+Area ≈ (h/2) × [y₀ + yₙ + 2(y₁ + y₂ + … + yₙ₋₁)], where h is the strip width and there are n + 1 equally spaced y-values.
+
+**How do you find the area between a curve and a line?**
+Find the x-coordinates where they intersect, decide which graph is above, and integrate (upper − lower) between those limits. Split the integral wherever the graphs cross.
+
+**Is ∫ x dy required in Edexcel IAL Maths P2?**
+No. The Edexcel IAL Mathematics specification (YMA01) states that ∫ x dy will not be required in Unit P2, so all areas are found using dx.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification Issue 3, April 2019, published by Pearson Education Limited. Unit P2 sections 7.1 and 8.1 to 8.3.

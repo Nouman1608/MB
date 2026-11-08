@@ -282,6 +282,23 @@ A ball dropped onto a smooth horizontal floor is the simplest plane problem. If 
 - Assuming a collision with a wall conserves momentum. The wall changes the particle's momentum, so only use the restitution law.
 - Treating momentum as a scalar when the question gives i and j components. Give vectors as vectors, or magnitude and direction if asked.
 
+## Frequently asked questions
+
+**What is the work-energy principle?**
+The work done by driving forces minus the work done against resistances equals the change in total mechanical energy, kinetic plus potential.
+
+**What is Newton's law of restitution?**
+For a direct impact, the speed of separation equals e times the speed of approach, where e is the coefficient of restitution with 0 ≤ e ≤ 1.
+
+**What does a coefficient of restitution of 1 mean?**
+When e = 1 the impact is perfectly elastic and no mechanical energy is lost. When e = 0 the particles do not separate after impact.
+
+**How many equations do you need to solve a collision between two particles?**
+Two: conservation of linear momentum and Newton's law of restitution. Using only one of them is a common error.
+
+**How do you find the work done by a force at an angle?**
+Work done = F d cos θ, where θ is the angle between the force and the direction of motion and d is the distance moved.
+
 ## Where next
 
 Try the [practice set](/resources/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the-practice/) next.

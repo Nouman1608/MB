@@ -148,6 +148,20 @@ Course pages: the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/math
 - Omitting intercepts, asymptote equations or turning points from sketches.
 - Treating a double root as a crossing point.
 
+## Frequently asked questions
+
+**What is a common mistake when solving simultaneous equations by substitution?**
+Stating the x-values without the matching y-values. Substitute each root back into the linear equation and give the answers as coordinate pairs.
+
+**How do you solve an inequality with x in the denominator?**
+Multiply both sides by x², which is positive for x ≠ 0, rather than by x, which might be negative. Then solve the resulting quadratic inequality and remember that x ≠ 0.
+
+**When should a region boundary be solid or dotted?**
+Use a dotted line for a strict inequality (< or >) and a solid line for an inclusive one (≤ or ≥). Mixing these up is a common way to lose a mark.
+
+**How should you write the answer to a quadratic inequality with two separate ranges?**
+Write them as two inequalities joined by "or", such as x < −2 or x > 3. Combining two outer ranges into a single inequality is incorrect.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph/).

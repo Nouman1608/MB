@@ -154,6 +154,20 @@ Pairing BC with EF [1], BE with CF [1], BF with CE [1]. For x > 0 the smallest i
 - Not showing the tree edges in Prim or Kruskal.
 - Stating a bound without saying whether it is upper or lower.
 
+## Frequently asked questions
+
+**Why must you check paths, not just direct edges, between odd nodes?**
+The shortest path between two odd nodes may pass through other nodes and be shorter than the direct edge. Using the direct edge without comparing is a common way to get the wrong route length.
+
+**How many pairings are there for four odd nodes in route inspection?**
+Four odd nodes give three possible pairings, and all three must be listed with their totals so the smallest can be chosen. Two odd nodes give only one pairing.
+
+**Which lower bound should you give for the travelling salesman problem?**
+Calculate a lower bound by deleting each vertex in turn and give the largest result as the best lower bound. For upper bounds, the best is the smallest.
+
+**Is the length of a route inspection answer just the repeated edges?**
+No. The route length is the total weight of every edge in the network plus the smallest total of repeated paths. Quoting only the repeated length loses marks.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling-revision-notes/)

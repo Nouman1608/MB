@@ -261,6 +261,20 @@ If a population or batch has N items, the expected number in a region is N × P(
 - Rounding z, σ or μ part-way through a simultaneous-equation solution.
 - Writing an answer such as 1.3 as a probability. A probability lies between 0 and 1, so stop and check.
 
+## Frequently asked questions
+
+**What are the properties of the Normal distribution curve?**
+It is bell-shaped and symmetrical about the mean μ, the mean, median and mode are all equal to μ, and the total area under the curve is 1, so 0.5 lies on each side of μ.
+
+**What does a z-value tell you?**
+The standardised value z = (x − μ)/σ tells you how many standard deviations x lies above or below the mean. Negative z means the value is below the mean.
+
+**Is P(X < a) the same as P(X ≤ a) for a Normal distribution?**
+Yes. For a continuous random variable a single exact value has probability zero, so P(X < a) and P(X ≤ a) are equal.
+
+**How many probability statements do you need to find μ and σ?**
+If only one of μ or σ is unknown, one statement is enough. If both are unknown, you need two statements, giving two simultaneous equations.
+
 ## Next steps
 
 Condense this guide with the [revision notes](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-revision-notes/), then try the [practice questions](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-practice/). The [course hub](/boards/edexcel/a-level/mathematics/) and [checklist](/checklists/edexcel/a-level/mathematics/) show what else you need, and the [diagnostics](/diagnostics/) help you decide what to work on next.

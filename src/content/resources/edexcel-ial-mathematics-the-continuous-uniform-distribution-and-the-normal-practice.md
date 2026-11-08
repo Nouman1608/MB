@@ -161,6 +161,20 @@ Largest integer is **c = 68** [1]
 - Rounding a probability early in a multi-part problem and carrying the rounded value forward.
 - Skipping the factorisation in derivation questions.
 
+## Frequently asked questions
+
+**What is the height of the density for a uniform distribution U[a, b]?**
+The density is 1/(b − a) between a and b, because the total area must be 1. Using 1/b is a common error when a is not 0.
+
+**Why do you need a continuity correction?**
+Binomial and Poisson variables take whole-number values, but the Normal distribution is continuous, so each whole number r is replaced by the interval from r − 0.5 to r + 0.5.
+
+**What is the second parameter in N(μ, σ²)?**
+The second parameter is the variance, not the standard deviation. Entering the standard deviation there is a common mistake.
+
+**How do you handle a strict inequality with a continuity correction?**
+Rewrite the event using whole numbers first: P(X < 45) means P(X ≤ 44), which becomes P(Y < 44.5). Using 45.5 is incorrect.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal-revision-notes/) and [study guide](/resources/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal/).

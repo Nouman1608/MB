@@ -208,6 +208,23 @@ Fill the square brackets with the context in the question. A comment that could 
 - Forgetting that a Poisson variable starts at 0, so P(X ≥ 1) = 1 − P(X = 0).
 - Not stating the distribution (for example Po(4.5)) before calculating.
 
+## Frequently asked questions
+
+**What are the conditions for a binomial distribution?**
+There must be a fixed number of trials, two outcomes on each trial, a constant probability of success and independent trials. In an answer, state each condition in the context of the question.
+
+**What are the conditions for a Poisson distribution?**
+Events must occur singly, independently, at random and at a constant average rate in the interval of time, length or area being counted.
+
+**How can sample data suggest a Poisson model?**
+For a Poisson distribution the mean equals the variance, so a sample whose mean and variance are close supports a Poisson model.
+
+**When can you use a Poisson approximation to the binomial?**
+When n is large and p is small, B(n, p) can be approximated by Po(np). If p is near 0.5 the approximation is poor.
+
+**Do you need to derive the binomial and Poisson mean and variance in Edexcel IAL S2?**
+No. The Edexcel IAL Mathematics specification (YMA01) says no derivations of the means or variances are required in Unit S2, but you must know and use them.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019 (Pearson Education Limited). This page covers Unit S2, section 1.

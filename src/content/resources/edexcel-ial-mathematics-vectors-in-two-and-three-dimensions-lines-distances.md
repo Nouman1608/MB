@@ -265,6 +265,20 @@ PF = −i − 3j + 0k, so the distance is |PF| = √10
 - Giving an obtuse angle between lines when the question wants the angle between the lines themselves.
 - Taking the angle at the wrong vertex by using vectors that do not both start there.
 
+## Frequently asked questions
+
+**How do you find a unit vector?**
+Divide every component of the vector by its magnitude, |a| = √(a₁² + a₂² + a₃²). The result has magnitude 1 and points in the same direction.
+
+**What is the vector equation of a line?**
+r = a + tb, where a is the position vector of a point on the line, b is a direction vector and t is a scalar parameter. Through two points C and D, the line is r = c + t(d − c).
+
+**What are skew lines?**
+Skew lines are lines in three dimensions that are not parallel and never meet. In two dimensions this cannot happen, because non-parallel lines always intersect.
+
+**How do you check whether a point lies on a line?**
+Equate the i, j and k components of the line with the point, solve one equation for the parameter, and check that the same value satisfies the other two.
+
 ## Next steps
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances-practice/), then keep the [revision notes](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances-revision-notes/) for the final weeks.

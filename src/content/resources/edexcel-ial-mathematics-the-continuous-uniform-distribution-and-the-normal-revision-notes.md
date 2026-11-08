@@ -224,6 +224,20 @@ The exact values are 0.129 and 0.132 for the binomial, and 0.148 for the Poisson
 - Rounding z to two decimal places early, then losing the third significant figure.
 - Commenting on suitability without referring to the mean or the shape of the distribution.
 
+## Frequently asked questions
+
+**What are the mean and variance of a continuous uniform distribution?**
+For X ~ U[a, b], the mean is (a + b)/2 and the variance is (b − a)²/12.
+
+**When is a Normal approximation to a binomial reasonable?**
+When n is large and p is not close to 0 or 1, X ~ B(n, p) can be approximated by N(np, np(1 − p)). The specification gives no numerical limits, so justify the choice from the mean and the shape of the distribution.
+
+**How do you approximate a Poisson distribution with a Normal distribution?**
+When λ is large, X ~ Po(λ) can be approximated by N(λ, λ), with a continuity correction because the Poisson variable is discrete.
+
+**Do you need to derive the uniform mean and variance in Edexcel IAL S2?**
+Yes. Section 3.1 of Unit S2 in the Edexcel IAL Mathematics specification (YMA01) asks for the derivation of the mean, variance and cumulative distribution function of the continuous uniform distribution.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, published by Pearson Education Limited (unit S2, content 3.1 and 3.2).

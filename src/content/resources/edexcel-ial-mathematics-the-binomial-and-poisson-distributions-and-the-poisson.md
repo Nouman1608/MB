@@ -227,6 +227,20 @@ The approximation 0.423 is close to the exact 0.421. When p is not small the app
 - Saying "the events are not random" without explaining which condition fails.
 - Giving mean and variance for B(n, p) as np and np(1 + p).
 
+## Frequently asked questions
+
+**What are the mean and variance of a binomial distribution?**
+For X ~ B(n, p), the mean is np and the variance is np(1 − p). Because 1 − p < 1, the variance is always less than the mean.
+
+**What are the mean and variance of a Poisson distribution?**
+For X ~ Po(λ), both the mean and the variance are equal to λ.
+
+**What is the sum of two independent Poisson variables?**
+If X ~ Po(λ) and Y ~ Po(μ) are independent, then X + Y ~ Po(λ + μ).
+
+**Should a count with an upper limit be modelled by a Poisson distribution?**
+No. A count with a fixed maximum, such as faulty items in a box of 10, is better modelled by a binomial distribution because there is a fixed number of trials.
+
 ## Next steps
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson-practice/), then condense the unit with the [revision notes](/resources/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson-revision-notes/).
