@@ -228,6 +228,23 @@ High gearing means more fixed interest to pay, greater risk to ordinary sharehol
 - Using the vendor's carrying values in the purchaser's statement of financial position.
 - Calculating gearing with equity alone as the denominator instead of debt + equity.
 
+## Frequently asked questions
+
+**What is the difference between authorised, issued and called-up share capital?**
+Authorised capital is the maximum a company may issue and appears as a note. Issued capital is the shares actually allotted, and called-up capital is the part of the issue price asked for so far.
+
+**What does the auditor's report say?**
+The auditors' report gives an independent opinion to shareholders on whether the financial statements show a true and fair view. If there is material misstatement or not enough evidence, the opinion is modified, for example qualified.
+
+**What is the difference between ordinary shares, preference shares and debentures?**
+Ordinary and preference shareholders are owners: ordinary shares get a variable dividend if declared, while preference shares get a fixed-rate dividend paid first. Debenture holders are lenders who receive fixed interest whether or not there is a profit, shown as a finance cost.
+
+**Which accounts are used when a company is purchased?**
+The vendor uses a realisation account and a sundry shareholders account to close its books, and a revaluation account restates assets to agreed values. The purchaser uses an acquisition account, where goodwill is the balancing figure.
+
+**Why can a company not pay a dividend just because it has large reserves?**
+A reserve is not cash. A company needs both distributable revenue reserves and enough cash to pay a dividend, so writing that "reserves are cash" loses marks.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018 (first teaching September 2015), Pearson Education Limited. Unit 2, topic 2.1: Limited companies.

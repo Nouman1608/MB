@@ -246,6 +246,20 @@ The point to make: one manager's favourable variance may cause another manager's
 - Listing reasons that contradict the direction of the variance.
 - Discussing a variance in isolation when the scenario shows a linked cause.
 
+## Frequently asked questions
+
+**What is a standard cost?**
+A standard cost is a predetermined cost for one unit of output, built from a standard quantity and a standard price for each element of cost. The difference between standard cost and actual cost is a variance.
+
+**What is management by exception in standard costing?**
+Management by exception means managers concentrate only on significant variances and leave the rest, because most small variances are random. A business sets a rule, such as a percentage of standard cost or a fixed amount, above which a variance is investigated.
+
+**What are the limitations of management by exception?**
+A small variance that grows each month can be missed, the threshold for investigation is a judgement, and offsetting variances can make a total look acceptable when its parts are not.
+
+**Why is standard costing useful to a business?**
+Standard costing helps with planning, cost control, performance measurement, pricing and inventory valuation, and motivation through realistic targets. It also supports management by exception by showing which costs differ significantly from plan.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018 (first teaching September 2015), Pearson Education Limited. Unit 2: Corporate and Management Accounting, topic 2.5 Standard costing.

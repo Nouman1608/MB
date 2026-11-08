@@ -239,6 +239,23 @@ Causes: actual hours differ from budget, actual spending differs from budget, or
 - Calculating absorbed overhead with budgeted hours instead of actual hours.
 - Confusing mark-up on cost with margin on selling price when pricing a job.
 
+## Frequently asked questions
+
+**What is the difference between perpetual and periodic LIFO?**
+Perpetual LIFO prices each issue from the units on hand on the day of the issue. Periodic LIFO makes one valuation at the end of the period, so issues are charged from the period's latest purchases; pricing issues in date order is perpetual, not periodic, LIFO.
+
+**What bases are used to apportion overheads between cost centres?**
+A shared cost is split on a basis related to it, such as floor area for rent, the carrying amount of machinery for depreciation and the number of employees for supervision. A cost that belongs wholly to one cost centre is allocated to it in full instead.
+
+**When should you use a machine hour rate rather than a labour hour rate?**
+Use a machine hour rate in a department where the work is machine-led and a labour hour rate where the work is mainly manual. The rate is the department's overhead divided by its budgeted machine or labour hours.
+
+**Is absorbed overhead calculated using budgeted or actual hours?**
+Absorbed overhead is the budgeted overhead absorption rate multiplied by the actual hours worked. Using budgeted hours at this stage is a common error, because the comparison with actual overhead is what shows over or under absorption.
+
+**What is batch costing?**
+Batch costing applies job costing to a group of identical items. The costs of the whole batch are collected, and cost per unit is the batch cost divided by the number of units in the batch.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018 (first teaching September 2015), Pearson Education Limited. Unit 1: The Accounting System and Costing, topic 1.4 Introduction to costing.

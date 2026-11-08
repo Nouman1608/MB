@@ -187,6 +187,20 @@ Reconciliation: inventory rose by 3,000 cases × 3.00 = 9,000, so absorption pro
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are common mistakes in marginal and absorption costing profit statements?**
+Common errors include putting variable selling costs into the unit inventory cost and placing fixed production overheads above contribution in a marginal statement. Adding an under-absorption when output equals normal output, or missing one when it does not, also loses marks.
+
+**How do you reconcile marginal and absorption costing profits?**
+The difference equals the change in inventory multiplied by the fixed production overhead absorption rate per unit. Work out the inventory change first: if inventory fell, marginal profit is the higher figure, so reconcile in that direction.
+
+**Why should full cost per unit not be used in make-or-buy decisions?**
+Full cost includes absorbed fixed overheads that are often paid whatever is decided. Compare the supplier's price with the variable cost of making plus any fixed costs that would actually be saved, then add non-financial factors such as supplier quality and reliability.
+
+**How should you finish an "evaluate" or "advise" answer in Edexcel IAL Accounting (YAC11)?**
+End with a clear recommendation supported by your figures and by non-financial factors. Answers that list calculations or points but stop without a decision commonly lose the final judgement marks.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018 (first teaching September 2015), Pearson Education Limited. Unit 2: Corporate and Management Accounting, topic 2.8 Marginal costing and absorption costing.

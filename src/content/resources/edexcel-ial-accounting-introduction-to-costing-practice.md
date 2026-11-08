@@ -184,6 +184,20 @@ First Canteen and Stores rows correct [1]; repeated rows until a negligible bala
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How is net realisable value used to value inventory in Edexcel IAL Accounting (YAC11)?**
+Net realisable value is the estimated selling price less the costs to complete and sell the item. Inventory is valued at the lower of cost and NRV, so calculating NRV earns little unless you go on to compare it with cost.
+
+**What is the difference between employee earnings and employer cost?**
+Employee earnings are the worker's gross pay, including any bonus. Employer cost is gross pay plus the employer's own contributions, such as social security; the employee's income tax is not added to it.
+
+**How do you share a group bonus between workers?**
+First find the bonus pool from output above the target, then share it on the basis the question gives, for example by hours worked or by pay. Sharing it equally when the question names another basis is a common way to lose marks.
+
+**How should you answer a question where two service departments serve each other?**
+Re-apportion both service departments, not just one, using continuous allotment: keep passing the balances between them and to production until what remains is negligible. Check that the total reaching the production departments equals the total overhead.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018 (first teaching September 2015), Pearson Education Limited. Unit 1: The Accounting System and Costing, topic 1.4 Introduction to costing.

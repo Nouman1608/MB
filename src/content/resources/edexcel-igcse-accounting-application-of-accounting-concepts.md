@@ -217,6 +217,23 @@ Concepts sometimes pull in different directions. A provision follows prudence, b
 
 Test yourself with the [practice questions](/resources/edexcel-igcse-accounting-application-of-accounting-concepts-practice/), then use the [revision notes](/resources/edexcel-igcse-accounting-application-of-accounting-concepts-revision-notes/) close to the exam. The [course hub](/boards/edexcel/igcse/accounting/) and [diagnostics](/diagnostics/) show what to cover next.
 
+## Frequently asked questions
+
+**Which accounting concepts must you apply in Edexcel IGCSE Accounting section 5.1?**
+The 4AC1 specification asks you to apply six concepts at the year end: consistency, prudence, accruals, materiality, money measurement and business entity. Naming a concept is not enough; you must say what the business should record and how profit or the statement of financial position changes.
+
+**Does prudence mean always choosing the lowest profit?**
+No. Prudence means not overstating profits or assets and not understating losses or liabilities, using reasonable estimates. It is about caution, not deliberately understating profit.
+
+**How is inventory valued under the prudence concept?**
+Each line of inventory is shown at the lower of cost and net realisable value, which is the selling price less any costs needed to sell. A loss in value is recognised now, but a gain is not recognised until a sale happens.
+
+**Is there a fixed percentage for materiality?**
+No. An item is material when omitting it or getting it wrong could alter a reader's decisions, so it depends on the size of the item and the business. A policy such as expensing items under a set amount is acceptable if it is applied consistently.
+
+**What happens when an owner's private bill is paid by the business?**
+Under the business entity concept, the amount is drawings, not an expense. Correcting it raises profit and drawings by the same amount, so the owner's capital is unchanged overall.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 5 Accounting for end of period adjustments, section 5.1 Application of accounting concepts (consistency, prudence, accruals, materiality, money measurement, business entity).

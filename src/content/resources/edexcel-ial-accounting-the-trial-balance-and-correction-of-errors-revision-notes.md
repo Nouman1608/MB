@@ -252,6 +252,20 @@ Correct each side separately, then check both agree.
 - Forgetting that a credit balance listed as a debit is out by twice the balance.
 - Correcting the control account for an error that is only in the list.
 
+## Frequently asked questions
+
+**What clues help find a trial balance difference?**
+A difference divisible by 9 suggests a transposition, though it does not prove it. A difference equal to a posting suggests a one-sided entry, and one equal to twice a balance suggests that balance was listed in the wrong column.
+
+**What are the limitations of a trial balance?**
+An agreeing trial balance cannot reveal errors that put equal amounts on both sides or errors that cancel each other. It also does not show profit or the financial position, so financial statements are still needed.
+
+**What must a correcting journal entry include?**
+It states the account debited, the account credited, the amount and a narrative. Work out what was posted, what should have been posted and the difference, then add a correction rather than rubbing out the original.
+
+**What is the exam routine for a correction of errors question?**
+Say whether each error affects the trial balance, write a journal for every error, put only the disagreeing errors through suspense, then take each journal to the profit statement stating increase or decrease. Finally, check what the question actually asks for.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018, first teaching September 2015 (Pearson Education Limited). Unit 1, topic 1.2: outcomes 1.2.1, 1.2.2 and 1.2.5 to 1.2.9.

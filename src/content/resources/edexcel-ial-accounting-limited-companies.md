@@ -268,6 +268,23 @@ Goodwill is an intangible non-current asset, not amortised but tested for impair
 - Valuing consideration shares at nominal value and missing the share premium.
 - Treating dividends as an expense, a bonus issue as cash, or a provision as a reserve.
 
+## Frequently asked questions
+
+**What is the difference between a capital reserve and a revenue reserve?**
+Revenue reserves, such as retained earnings and the general reserve, come from profits and can be paid out as dividends. Capital reserves, such as share premium and the revaluation reserve, cannot be distributed; they protect the capital base that creditors rely on.
+
+**What is the difference between a rights issue and a bonus issue?**
+A rights issue offers existing shareholders new shares in proportion to their holdings, usually below market price, and raises cash. A bonus issue converts reserves into free shares, so no cash moves and total equity is unchanged.
+
+**Where are dividends shown in a company's financial statements?**
+Dividends paid are shown in the statement of changes in equity as a deduction from retained earnings. They are never an expense in the statement of profit or loss.
+
+**What is the difference between a provision and a contingent liability under IAS 37?**
+A provision is a liability of uncertain timing or amount, recorded when there is a present obligation from a past event, an outflow is probable and it can be reliably estimated. A merely possible outflow is a contingent liability, which is disclosed in a note but not recorded.
+
+**How is goodwill calculated when one company buys another?**
+Goodwill is the purchase consideration minus the agreed (revalued) net assets taken over. In Edexcel IAL Accounting it is shown as an intangible non-current asset, tested for impairment at least annually rather than amortised.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018 (first teaching September 2015), Pearson Education Limited. Unit 2, topic 2.1: Limited companies.

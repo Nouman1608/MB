@@ -224,6 +224,20 @@ buy or do-not-buy judgement; in (b), name the factor row you used.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you convert part of a year into months for payback?**
+Multiply the decimal part of the year by 12. For example, 0.8 of a year is 9.6 months, not 8 months; treating the decimal as a number of months is a common error.
+
+**Where does the residual value go in an NPV calculation?**
+A residual or scrap value is a cash inflow in the project's final year, added to that year's operating cash flow before discounting. Leaving it out understates the NPV.
+
+**How can you check an IRR answer in Edexcel IAL Accounting (YAC11)?**
+The interpolated IRR must lie between the two discount rates you used, one giving a positive NPV and one a negative NPV. If it falls outside them, the denominator of the formula is probably wrong.
+
+**What do you need to state in an ARR answer?**
+State whether you used initial investment or average investment as the base, because the same project gives very different ARRs on each. Also make sure depreciation has been charged, because ARR is based on profit rather than cash flow.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11)

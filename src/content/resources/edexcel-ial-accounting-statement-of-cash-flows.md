@@ -281,6 +281,23 @@ Each has a cost. Faster collection may lose customers; delaying suppliers may lo
 
 Condense the method with the [revision notes](/resources/edexcel-ial-accounting-statement-of-cash-flows-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-ial-accounting-statement-of-cash-flows-practice/). For exam technique across the whole course, see [Edexcel IAL Accounting exam preparation](/resources/edexcel-ial-accounting-exam-preparation/).
 
+## Frequently asked questions
+
+**Why can a profitable company run short of cash?**
+Profit is measured on the accruals basis, so revenue counts when goods are sold and expenses when incurred, and some charges such as depreciation never involve a payment. Spending on non-current assets, loan repayments and money tied up in inventory and receivables can leave a profitable company short of cash.
+
+**What is the difference between the direct and indirect method in a statement of cash flows?**
+The direct method lists gross cash receipts and payments, such as from customers and to suppliers, while the indirect method starts from profit and adjusts for non-cash items and working capital changes. IAS 7 permits both and encourages the direct method; both give the same cash generated from operations.
+
+**What counts as cash equivalents under IAS 7?**
+Cash equivalents are short-term, highly liquid investments that can be turned readily into known amounts of cash with an insignificant risk of a change in value, normally maturing within about three months of acquisition. A bank overdraft may be included in cash and cash equivalents as negative cash.
+
+**Is a bonus issue shown in the statement of cash flows?**
+No. Transactions that move no cash, such as a bonus issue, a property revaluation or a transfer to a general reserve, are left out of the statement. IAS 7 requires significant non-cash investing and financing transactions to be disclosed in the notes instead.
+
+**What is liquidity and why does it matter to a company?**
+Liquidity is a company's ability to pay its debts as they fall due. A company that cannot pay suppliers, employees, lenders or the tax authority on time can be forced to stop trading, however profitable it looks, and in the worst case creditors can force it into liquidation.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018, first teaching September 2015, published by Pearson Education Limited. Unit 2, topic 2.3 Statement of cash flows (outcomes 2.3.1 and 2.3.2), and Appendix 6: Glossary of International Accounting Standards (IAS) terminology.

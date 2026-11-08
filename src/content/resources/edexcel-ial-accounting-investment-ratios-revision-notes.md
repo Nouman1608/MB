@@ -216,6 +216,23 @@ In an "Evaluate" or "Recommend" answer, start from the user named in the questio
 - Recommending the highest yield without looking at cover, P/E or the reason the price moved.
 - Comparing EPS between two companies with different share structures.
 
+## Frequently asked questions
+
+**What is the formula for dividend cover?**
+Dividend cover is profit after tax less preference dividends, divided by the total ordinary dividend paid, expressed in times. Preference dividends are left out of the denominator, because only ordinary dividends are being covered.
+
+**How do you calculate dividend yield?**
+Dividend yield is the dividend paid per share divided by the market price of the share, multiplied by 100. Make sure the dividend per share and the share price are in the same units, usually cents.
+
+**What units should investment ratios be given in?**
+EPS and dividend per share are usually given in cents, P/E and dividend cover in times, and dividend yield and ROCE as percentages. Giving a ratio without its unit is a common way to lose marks.
+
+**Can you compare earnings per share between two different companies?**
+EPS should only be compared for one company over time. Different companies have different numbers of shares and nominal values, so a higher EPS in one company does not mean it performed better than another.
+
+**What are the limitations of investment ratios?**
+P/E and dividend yield depend on the date the share price is taken, profit depends on accounting policies, and the ratios use past results when investors are buying future profits. They also ignore non-financial factors such as management quality and the economy.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018, first teaching September 2015, published by Pearson Education Limited. Unit 2, topic 2.2 Investment ratios, and Appendix 7: Formulae.

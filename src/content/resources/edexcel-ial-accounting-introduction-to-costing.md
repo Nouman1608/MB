@@ -313,6 +313,22 @@ For paper technique, see [Edexcel IAL Accounting exam preparation](/resources/ed
   <figcaption>Break-even is where revenue meets total cost; the gap to budgeted sales is the margin of safety.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between FIFO and LIFO in Edexcel IAL Accounting?**
+FIFO (first in, first out) assumes the oldest units are issued first, so closing inventory is valued at the most recent prices. LIFO (last in, first out) assumes the newest units are issued first, so closing inventory is valued at the oldest prices. LIFO is not permitted under IAS 2 for published financial statements.
+
+**Why does FIFO give a higher profit than LIFO when prices are rising?**
+When prices rise, FIFO charges the older, cheaper costs to cost of sales, so gross profit and closing inventory are both higher. LIFO matches recent, dearer costs against revenue, so both are lower. Falling prices reverse the order.
+
+**How do you calculate a Halsey bonus and a Rowan bonus?**
+Both start from time saved, which is time allowed minus time taken. A Halsey bonus is 50% of time saved times the hourly rate; a Rowan bonus is (time taken divided by time allowed) times time saved times the hourly rate. The bonus is added to basic time-rate pay.
+
+**What is the difference between a semi-variable and a semi-fixed cost?**
+A semi-variable cost has a fixed part plus a variable part, such as a telephone line rental plus a charge per unit. A semi-fixed (stepped) cost stays fixed up to an activity level and then jumps, such as an extra supervisor for each extra block of output.
+
+**Does over absorption of overheads increase or reduce profit?**
+Over absorption means more overhead was charged to production than was actually incurred, so the difference is added to profit in the statement of profit or loss. Under absorption is treated as an extra expense and reduces profit.
 
 ## Official syllabus
 

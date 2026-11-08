@@ -253,6 +253,23 @@ Two specific standards link directly to concepts here. IAS 2 deals with inventor
 - Treating a deposit as revenue. Until goods are supplied, it is a liability.
 - Using older terms such as stock or debtors.
 
+## Frequently asked questions
+
+**What is the role of accounting in Edexcel IAL Accounting?**
+The role of accounting is to record, analyse and communicate financial information. Transactions are recorded in money terms, sorted and summarised, then presented as financial statements and reports that users can act on.
+
+**What is the difference between accruals and realisation?**
+Accruals matches income and expenses to the period that earns or uses them, whenever cash changes hands. Realisation says when revenue is earned: when goods or services are provided and the right to payment arises, not when an order is placed or cash is received.
+
+**Does prudence mean understating profit?**
+No. Prudence means not overstating assets or income and not understating liabilities or expenses; where judgement is needed, the lower figure is chosen. It does not allow profit to be deliberately understated.
+
+**What is historic cost in accounting?**
+Historic cost means assets are recorded at the price originally paid, not at current market value. It is objective and checkable from an invoice, but in a period of rising prices it can understate asset values.
+
+**Why are International Accounting Standards used?**
+IAS give businesses a shared set of rules on how transactions are recognised, measured and presented. This improves comparability between businesses, builds trust in the statements and limits the scope for manipulating the figures.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018, published by Pearson Education Limited.

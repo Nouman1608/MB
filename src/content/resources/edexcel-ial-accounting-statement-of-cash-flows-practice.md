@@ -204,6 +204,20 @@ Judgement: liquidity has weakened sharply; fix working capital first, as operati
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you calculate tax paid for a statement of cash flows?**
+Tax paid equals the opening tax payable plus the tax charge for the year minus the closing tax payable. Using the tax charge from the statement of profit or loss instead of the amount paid is a common error in Edexcel IAL Accounting (YAC11) answers.
+
+**How is a profit or loss on disposal treated in a statement of cash flows?**
+In the indirect method, a loss on disposal is added back to profit and a profit on disposal is deducted, because the full sale proceeds are shown under investing activities. Show the proceeds, not the carrying value, under investing.
+
+**How do you find the cash raised by a share issue?**
+Add the increase in share capital to the increase in share premium, ignoring any bonus issue because it raises no cash. Forgetting the share premium understates the cash received.
+
+**How should you answer a liquidity question about a statement of cash flows?**
+Use the cash flow figures to explain why liquidity changed, for example whether operating cash covered investment and dividends, rather than quoting ratios alone. Then give a judgement on whether liquidity is adequate.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018, first teaching September 2015, published by Pearson Education Limited. Unit 2, topic 2.3 Statement of cash flows (outcomes 2.3.1 and 2.3.2).

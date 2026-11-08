@@ -171,6 +171,20 @@ Pennick EPS = 27.00 cents, P/E = 459 / 27.00 = **17.00 times** [1]; DPS = 7.20 c
 - Course overview: [course hub](/boards/edexcel/a-level/accounting/) and [course checklist](/checklists/edexcel/a-level/accounting/)
 - Work with a teacher: [book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in investment ratio questions?**
+The usual errors are leaving preference dividends in the earnings figure, using share capital in dollars as the number of shares, and mixing dollars and cents between EPS, DPS and the share price. Including preference dividends in dividend per share also loses marks.
+
+**Which profit figure is used for ROCE for a company in Edexcel IAL Accounting?**
+ROCE for corporate bodies uses net profit before interest, which in a company's statement of profit or loss is profit from operations, before finance costs. Using profit for the year after interest and tax understates the ratio.
+
+**How do you answer an "Evaluate" question on investment ratios?**
+Tie your judgement to what the investor wants, rather than listing ratios. An investor who needs income now looks first at dividend yield and dividend cover, while a growth investor may accept a low yield if retained profit is reinvested at a good ROCE.
+
+**Why should you check dividend cover before recommending a high-yield share?**
+A high yield can come from a falling share price or from paying out most of the earnings. Low dividend cover means a modest fall in profit could force a dividend cut, so yield should be judged together with cover.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018, first teaching September 2015, published by Pearson Education Limited. Unit 2, topic 2.2 Investment ratios, and Appendix 7: Formulae.
