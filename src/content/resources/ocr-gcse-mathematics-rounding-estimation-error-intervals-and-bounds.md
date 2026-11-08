@@ -268,7 +268,7 @@ Upper bound of C/L = 37.75 / 12.45 = 3.0321...
 Lower bound of C/L = 37.25 / 12.55 = 2.9681...
 ```
 
-Both bounds round to 3 to 1 sf, so the cost per metre is **£3 to 1 sf**. Rounding to 3.0 would not be justified, because the bounds already differ in the first decimal place (3.0 and 2.9). **To choose the accuracy, round both bounds and give the figure only if they agree.**
+Both bounds round to 3.0 to 2 sf, so the cost per metre is **£3.0 to 2 sf** (about £3 per metre). Giving 3 sf would not be justified, because to 3 sf the bounds are 3.03 and 2.97, which disagree. **To choose the accuracy, round both bounds and give the figure only if they agree.**
 
 ### Discrete and continuous quantities (Higher tier only)
 

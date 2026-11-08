@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Mathematics: Straight-Line Coordinate Geometry (YMA01)"
+title: "Edexcel International A Level Mathematics: Straight-Line Coordinate Geometry (YMA01)"
 seoTitle: "Edexcel IAL Maths P1 Straight Lines Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"

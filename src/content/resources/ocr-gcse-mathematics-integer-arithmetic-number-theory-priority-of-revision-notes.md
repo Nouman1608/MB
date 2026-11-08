@@ -322,4 +322,4 @@ Add its digits. A number is divisible by 3 if the digit sum is a multiple of 3, 
 
 ## Official syllabus
 
-OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), published by OCR (Cambridge OCR): sections 1.01a, 1.02a to 1.02c, 1.03a and 1.04a.
+OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), published by OCR (Oxford Cambridge and RSA Examinations): sections 1.01a, 1.02a to 1.02c, 1.03a and 1.04a.

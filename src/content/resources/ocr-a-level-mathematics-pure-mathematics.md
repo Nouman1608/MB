@@ -61,11 +61,6 @@ differentiation
 that cannot be solved analytically
 - 1.10 Vectors — vector notation and its use in geometric problems
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--01-paper-routes.webp" width="900" height="976" alt="A route map of the pure mathematics papers for four boards. Cambridge 9709: AS Level is Paper 1 plus Paper 2, or Paper 1 plus Paper 4 or 5; A Level is Papers 1 and 3 plus either Papers 4 and 5 or Papers 5 and 6, and Paper 2 never counts towards the A Level. Edexcel International A Level: AS is P1, P2 and one applied unit; A Level is P1 to P4 plus two applied units. OxfordAQA 9660: AS is P1 and PSM1; A Level adds P2 and either S2 or M2. OCR H240: three two-hour papers, each worth one third, with pure mathematics in every one (pure; pure and statistics; pure and mechanics). A colour key shows pure, applied, and mixed papers." loading="lazy">
-  <figcaption>Which pure papers each board requires for AS and A Level.</figcaption>
-</figure>
-
 
 ## How to approach it
 

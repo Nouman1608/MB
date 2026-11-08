@@ -88,11 +88,6 @@ Expanded equations always have x² and y² with equal coefficients and no xy ter
   <figcaption>Substituting a line into a circle gives a quadratic whose discriminant counts the intersections.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--09-two-circles.webp" width="900" height="1058" alt="OCR only. Circles x^2+y^2=16 and (x-6)^2+(y-2)^2=9 with d=sqrt(40) between 1 and 7 so they cross at two points; number line of d shows the touching and separate cases." loading="lazy">
-  <figcaption>Compare the distance between centres with the sum and difference of the radii.</figcaption>
-</figure>
-
 
 ## 2. Completing the square
 

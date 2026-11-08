@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Mathematics: Pure Mathematics 1 — Revision Notes"
+title: "Edexcel International A Level Mathematics: Pure Mathematics 1 — Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["a-levels"]

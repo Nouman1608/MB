@@ -132,7 +132,7 @@ When you are ready, test yourself with the [complex numbers practice questions](
 
 **Multiple angle.** Real part of (c + is)³ gives cos 3θ = 4cos³θ − 3cos θ.
 
-**Equation with a conjugate.** To solve z + 2z* = 6 − 3i, let z = a + bi. Then a + bi + 2a − 2bi = 3a − bi. Equate parts: 3a = 6 and −b = −3, so z = 2 + 3i. Always substitute a + bi when z and z* appear together.
+**Equation with a conjugate.** To solve z + 3z* = 8 + 4i, let z = a + bi. Then a + bi + 3a − 3bi = 4a − 2bi. Equate parts: 4a = 8 and −2b = 4, so z = 2 − 2i. Always substitute a + bi when z and z* appear together.
 
 **Square root by equating parts.** (x + iy)² = −5 + 12i gives x² − y² = −5 and xy = 6. Then x⁴ + 5x² − 36 = 0, so x² = 4 and the roots are ±(2 + 3i).
 

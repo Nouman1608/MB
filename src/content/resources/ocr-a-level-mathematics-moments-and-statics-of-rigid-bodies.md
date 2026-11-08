@@ -20,7 +20,7 @@ publishedDate: 2026-10-11
 featured: false
 ---
 
-This guide covers moments and statics of rigid bodies in OCR A Level Mathematics A (H240), content references 3.04a to 3.04c of the Cambridge OCR specification, Version 3.1 (August 2026). All of 3.04 is Stage 2, so it is A Level only and is not part of AS. The specification lists Mechanics within Paper 3, Pure Mathematics and Mechanics. For the unit of moment, see the [units and kinematics guide](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant/). When you finish, use the [revision notes](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-revision-notes/) and the [practice questions](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-practice/). Wider links: the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
+This guide covers moments and statics of rigid bodies in OCR A Level Mathematics A (H240), content references 3.04a to 3.04c of the OCR specification, Version 3.1 (August 2026). All of 3.04 is Stage 2, so it is A Level only and is not part of AS. The specification lists Mechanics within Paper 3, Pure Mathematics and Mechanics. For the unit of moment, see the [units and kinematics guide](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant/). When you finish, use the [revision notes](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-revision-notes/) and the [practice questions](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-practice/). Wider links: the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
 
 ## What this unit covers
 
@@ -253,4 +253,4 @@ Choosing a point where an unknown force acts removes that force from the equatio
 
 ## Official syllabus
 
-Cambridge OCR Level 3 Advanced GCE in Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018, published by OCR. Content references 3.04a to 3.04c.
+OCR Level 3 Advanced GCE in Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018, published by OCR. Content references 3.04a to 3.04c.
