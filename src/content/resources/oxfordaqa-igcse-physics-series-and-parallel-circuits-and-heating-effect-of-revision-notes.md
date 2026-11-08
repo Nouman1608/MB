@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity-and-magnetism-oxfordaqa-igcse"
     subtopic: "electrical-circuits-oxfordaqa-igcse"
-description: "Condensed revision notes on series and parallel circuits and resistive heating for OxfordAQA International GCSE Physics, with a self-test."
+description: "Condensed revision notes on series and parallel circuits and the heating effect of current for OxfordAQA International GCSE Physics 9203, with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

@@ -74,7 +74,7 @@ and momentum, not just that they exist.
 
 OxfordAQA International GCSE Physics (9203) specification, for exams
 May/June 2018 onwards —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-physics-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-physics-specification.pdf).
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--01-distance-time-graph.webp" width="900" height="970" alt="A distance-time graph rises steeply for 40 m in 10 s, is flat for 10 s, then rises less steeply by 60 m in 20 s. Steeper means faster, flat means stopped; the last gradient triangle gives 60 / 20 = 3 m/s." loading="lazy">

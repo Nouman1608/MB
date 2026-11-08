@@ -177,4 +177,4 @@ Topic 1 (Forces and their Effects) established force, motion and momentum; Energ
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-physics-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-physics-specification.pdf).

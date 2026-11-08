@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves-oxfordaqa-igcse"
     subtopic: "sound-and-ultrasound-oxfordaqa"
-description: "Original practice questions with worked answers on wave properties, sound and ultrasound for OxfordAQA International GCSE Physics."
+description: "Original practice questions with worked answers on wave properties, sound, echoes and ultrasound for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
