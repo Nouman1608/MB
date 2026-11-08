@@ -15807,7 +15807,7 @@ Three more problems turned up:
 - **Result.** The strict check (topic and subtopic level) lists no Accounting gap for O Level 7707 or Edexcel IGCSE 4AC1. `validate:academic` passes; the duplicate-scope script reports nothing new.
 - **Open items.** Business for Edexcel International GCSE is not on the site; AQA AS 7126 not added; the pages state amounts in dollars in words because the specification names no currency.
 
-## D-445 - Flashcards made findable; six thin chemistry units filled in (8 Nov 2026)
+## D-446 - Flashcards made findable; six thin chemistry units filled in (8 Nov 2026)
 
 - Owner, 8 Nov 2026 ("do items 1 and 2 now"), from a gap check after D-444 went live.
 - **Findable.** /flashcards/ is now in the footer's resources column (after Practice), in the free-tools grid on the Study resources page (/resources/), and has a third card in the homepage "Find study resources" row; the Study resources item in the header now counts as current on flashcard pages. The header bar itself lists no individual tools, so it is unchanged. Its card and course counts come from the deck registry, like the diagnostic count beside it.
