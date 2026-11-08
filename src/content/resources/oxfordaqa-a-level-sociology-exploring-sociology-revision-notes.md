@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-exploring-sociology-9690"
     subtopic: "research-methods-and-theory-9690"
-description: "Condensed recall notes on agencies of socialisation, formal and informal social control, and positivist vs interpretivist method choice for OxfordAQA A-Level Sociology (9690) Unit 2."
+description: "OxfordAQA A-level Sociology (9690) Unit 2 recall notes: agencies of socialisation, formal and informal control, and positivist vs interpretivist methods."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -133,6 +135,20 @@ theoretical argument entirely from scratch.
 5. What are the two sub-topics of Unit 2, and how many marks is Section B worth?
 
 **Answers:** 1. Formal: fines or legal action against parents; informal: disapproval from family or peers. 2. Because these methods produce quantifiable, comparable data, consistent with modelling sociology on the natural sciences to reveal broad patterns across large populations. 3. Combining quantitative and qualitative methods to offset each one's individual weaknesses — it shows awareness that neither tradition alone captures both pattern and meaning. 4. Because Unit 2 is assessed at the end of the same International AS as Unit 1, and strong answers apply Unit 1's family studies as worked examples of Unit 2's methodological issues. 5. Socialisation and Social Control (3.1.2), and Research Methods and Theory (3.1.3); Section B (research methods and theory) is worth 20 marks.
+
+## Frequently asked questions
+
+**What is the difference between formal and informal social control?**
+Formal social control comes from government and laws, the police and the criminal justice system. Informal social control works through peer disapproval, gossip, ridicule and family expectation.
+
+**Which methods do positivists and interpretivists prefer?**
+Positivists favour structured questionnaires, official statistics and structured observation because they give quantifiable, comparable data. Interpretivists favour unstructured interviews, participant observation and personal documents because they capture meaning.
+
+**What is triangulation?**
+Triangulation combines quantitative and qualitative methods so that each offsets the other's weaknesses. It is a strong way to end a methods-and-theory answer.
+
+**Why should you pair agencies with types of control?**
+Many questions ask how a named agency controls behaviour, so revise them together. Truancy, for example, is controlled formally through fines or legal action and informally through disapproval from family or peers.
 
 ## Related resources
 

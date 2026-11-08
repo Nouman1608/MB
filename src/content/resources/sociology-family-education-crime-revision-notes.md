@@ -33,7 +33,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-family-education-crime-0495"
     subtopic: "kq-6-1-0495"
-description: "Condensed recall notes on family structures, the functionalist/Marxist/feminist perspectives, education's roles, and crime and deviance for Paper 2, Cambridge IGCSE Sociology (0495), 2025-2027 series."
+description: "Cambridge IGCSE Sociology (0495) Paper 2 recall notes, 2025-2027: family perspectives, education's roles, achievement, and crime, deviance and control."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
@@ -164,6 +164,20 @@ time for candidates aiming at the top grades.
 dysfunction; favours the traditional nuclear family. 4. Material: access to digital technology.
 Cultural: cultural capital or linguistic factors. 5. Crime breaks the law; deviance breaks social
 norms — they overlap but are not identical, and both are relative across time and place.
+
+## Frequently asked questions
+
+**How many questions do you answer on Cambridge IGCSE Sociology Paper 2?**
+You answer two of the three Paper 2 questions, which cover Family, Education, and Crime, deviance and social control in Cambridge IGCSE Sociology (0495).
+
+**What is the warm bath theory?**
+The warm bath theory is the functionalist idea that the family stabilises adult emotions.
+
+**How do you sort explanations of educational achievement?**
+Group them into material explanations, such as access to digital technology, cultural explanations, such as cultural capital and linguistic factors, and in-school explanations, such as labelling and pupil subcultures.
+
+**What crime types does the 0495 syllabus name?**
+The syllabus names eleven types: violent, property, white-collar or corporate, expressive, instrumental, gang, green, organised or global, cyber, hate and domestic crime.
 
 ## Official syllabus
 
