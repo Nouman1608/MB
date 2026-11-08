@@ -9,13 +9,15 @@ qualifications: ["a-level"]
 syllabusCodes: ["YET01"]
 syllabusSeries: "Specification Issue 7, February 2026"
 order: 3
-description: "Why Edexcel IAL English Literature YET01's 50-mark units give unusually generous time per mark, how Unit 3's uneven 20/30 section split changes pacing, and a worked comparative-paragraph routine."
+description: "Exam preparation for Edexcel International A Level English Literature YET01: time per mark in each unit, pacing by section and a comparative paragraph routine."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Edexcel International A Level English Literature (YET01) is modular: four externally assessed units,
