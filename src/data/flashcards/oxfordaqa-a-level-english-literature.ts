@@ -95,6 +95,7 @@ export const DECK_OXFORDAQA_A_LEVEL_ENGLISH_LITERATURE: FlashcardDeck = {
       { n: 4, f: 'What is delayed revelation, and what is its effect?', b: 'Withholding the culprit or a key fact until late. It sustains suspense and can force the reader to re-read earlier scenes differently.' },
       { n: 5, f: 'How can the criminal be presented in crime writing?', b: 'As monstrous, as a victim of circumstance, or as uncomfortably close to ordinary people, which shapes the reader\'s sympathy and judgement.' },
       { n: 6, f: 'Why ask whether a crime text follows or breaks the genre\'s conventions?', b: 'Conventions can satisfy readers or be broken to surprise or challenge them, so ask what the writer gains either way.' },
+      { n: 7, f: 'How is OxfordAQA 9675 Unit 3 assessed?', b: 'A 2-hour closed-book exam worth 50 marks and 30% of the International A-level: two essays of 25 marks, one on each of two texts chosen from the set list. The specification says two from eight but prints nine texts.' },
     ]),
 
     // 4 Unit 4 Literary Representations
