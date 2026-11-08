@@ -9,13 +9,15 @@ qualifications: ["gcse"]
 syllabusCodes: ["8702"]
 syllabusSeries: "For first teaching 2015"
 order: 3
-description: "Paper-by-paper exam preparation for AQA GCSE English Literature 8702 -- why Paper 2's unequal weighting changes revision priority, closed-book quotation strategy, a worked extract-to-whole-text answer plan and a checklist."
+description: "Exam preparation for AQA GCSE English Literature 8702: weighting by paper, closed-book quotation strategy, a worked extract-to-whole-text plan and a checklist."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 AQA GCSE English Literature (8702) is assessed through two written papers of **unequal weighting**,

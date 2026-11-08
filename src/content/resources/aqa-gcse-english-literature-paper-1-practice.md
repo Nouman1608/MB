@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-shakespeare-and-the-19th-century-novel-8702"
     subtopic: "section-b-the-19th-century-novel-8702"
-description: "Original exam-style practice questions with full worked answers on Paper 1 of AQA GCSE English Literature (8702)."
+description: "Original practice with full worked answers on Paper 1 Shakespeare and the 19th-century novel of AQA GCSE English Literature 8702, for any set texts studied."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

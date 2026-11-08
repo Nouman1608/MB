@@ -18,7 +18,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "skills-8702"
     subtopic: "writing-skills-8702"
-description: "The reading and writing skills behind AQA GCSE English Literature: understanding texts, analysing language and structure, using context, and writing accurate analytical essays."
+description: "The reading and writing skills behind AQA GCSE English Literature 8702: understanding texts, analysing language and structure, context and accurate essays."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

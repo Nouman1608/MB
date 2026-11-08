@@ -21,13 +21,15 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-modern-texts-and-poetry-8702"
     subtopic: "section-c-unseen-poetry-8702"
-description: "Condensed recall notes on the modern text, poetry anthology cluster and unseen poetry sections of AQA GCSE English Literature (8702) Paper 2, worth 60% of the qualification."
+description: "Condensed notes on AQA GCSE English Literature 8702 Paper 2: the modern text, the poetry anthology cluster and unseen poetry, with timing and exam traps."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
